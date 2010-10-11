@@ -2,6 +2,8 @@
 
 I. - Capacité de l'aéroport de Paris-Orly
 
+1. Capacité globale
+
 Dans le cadre des dispositions de l'arrêté du 6 octobre 1994 susvisé, la capacité horaire de l'aéroport d'Orly, en nombre de créneaux horaires attribuables, est ainsi fixée :
 
 Départs :
@@ -44,7 +46,59 @@ Traitement possible en simultané, dans la zone de haute sûreté de l'aérogare
 
 - un moyen-porteur est un aéronef offrant un nombre de sièges inférieur ou égal à 200.
 
+2. Capacités des terminaux
+
+A compter de la saison aéronautique d'été 2011 :
+
+En outre, pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux, qui correspond au flux maximal de passagers par heure au départ, dont la valeur est mentionnée par terminal dans le tableau ci-après. Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire en regard de cette capacité sur la base de l'appareil envisagé, d'un coefficient de remplissage moyen et de profils types de présentation des passagers en aérogare. Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement de ce flux maximal, le coordonnateur, en liaison avec Aéroports de Paris, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">TERMINAL </p>
+</td>
+<td>
+<p align="center">FLUX MAXIMAL DE PASSAGERS </p>
+<p>par heure au départ </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sud <br/>
+</td>
+<td align="center">
+<br/>2 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ouest-trafic Schengen (*) <br/>
+</td>
+<td align="center">
+<br/>3 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ouest-trafic non Schengen (**) <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>(*) Trafic à destination de zones géographiques appartenant à l'espace Schengen. <p>(**) Trafic à destination de zones géographiques n'appartenant pas à l'espace Schengen.<br/>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 II. - Capacité de l'aéroport de Paris - Charles-de-Gaulle
+
+1. Capacité globale
 
 Saison aéronautique d'hiver 1999-2000
 
@@ -495,7 +549,7 @@ Saison aéronautique d'hiver 1999-2000
 </tbody>
 </table>
 
-Saison aéronautique d'été 2000
+Saison aéronautique d'été 2000 :
 
 <table>
 <tbody>
@@ -1531,8 +1585,6 @@ A compter de la saison d'été 2007 :
 Le nombre 11,5 signifie que, au cours de la tranche horaire correspondante, au plus 12 mouvements peuvent être acceptés pendant trois périodes de 10 minutes et 11 mouvements pendant les trois autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante.
 
 Le nombre 12 signifie que, au cours de la tranche horaire correspondante, au plus 13 mouvements peuvent être acceptés pendant une période de 10 minutes et 12 mouvements pendant les cinq autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante.
-
-1. Capacité globale
 
 A compter de la saison aéronautique d'été 2008 :
 
@@ -2701,6 +2753,604 @@ A compter de la saison aéronautique d'été 2010 :
 </table>
 
 * Le nombre 9,5 signifie que, au cours de la tranche horaire correspondante, au plus 10 mouvements peuvent être acceptés pendant les trois premières périodes de 10 minutes et 9 mouvements pendant les trois périodes de 10 minutes suivantes, sous réserve du respect de la contrainte horaire correspondante.
+
+A compter de la saison aéronautique d'été 2011 :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">HEURES </p>
+<p>locales </p>
+</td>
+<td>
+<p align="center">
+<br/>ARRIVÉES </p>
+<p>par 10 minutes</p>
+<br/>
+</td>
+<td>
+<p align="center">ARRIVÉES </p>
+<p>par heure </p>
+</td>
+<td>
+<p align="center">DÉPARTS </p>
+<p>par 10 minutes </p>
+</td>
+<td>
+<p align="center">DÉPARTS </p>
+<p>par heure</p>
+</td>
+<td>
+<p align="center">TOTAL </p>
+<p>arrivées + départs </p>
+<p>par heure </p>
+</td>
+<td>
+<p align="center">HEURES </p>
+<p>locales </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>0 h à 0 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>0 h à 0 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 h à 1 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>1 h à 1 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 h à 2 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>2 h à 2 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 h à 3 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>3 h à 3 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 h à 4 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>4 h à 4 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5 h à 5 h 59 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>5 h à 5 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 h à 6 h 59 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>38 <br/>
+</td>
+<td align="center">
+<br/>67 <br/>
+</td>
+<td align="center">
+<br/>6 h à 6 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 h à 7 h 59 <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>48 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>65 <br/>
+</td>
+<td align="center">
+<br/>103 <br/>
+</td>
+<td align="center">
+<br/>7 h à 7 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 h à 8 h 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>106 <br/>
+</td>
+<td align="center">
+<br/>8 h à 8 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 h à 9 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>115 <br/>
+</td>
+<td align="center">
+<br/>9 h à 9 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10 h à 10 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>67 <br/>
+</td>
+<td align="center">
+<br/>111 <br/>
+</td>
+<td align="center">
+<br/>10 h à 10 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>11 h à 11 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>111 <br/>
+</td>
+<td align="center">
+<br/>11 h à 11 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>12 h à 12 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>12 h à 12 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>13 h à 13 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>66 <br/>
+</td>
+<td align="center">
+<br/>105 <br/>
+</td>
+<td align="center">
+<br/>13 h à 13 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14 h à 14 h 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>57 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>105 <br/>
+</td>
+<td align="center">
+<br/>14 h à 14 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15 h à 15 h 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>65 <br/>
+</td>
+<td align="center">
+<br/>108 <br/>
+</td>
+<td align="center">
+<br/>15 h à 15 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>16 h à 16 h 59 <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>63 <br/>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>16 h à 16 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>17 h à 17 h 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>61 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>107 <br/>
+</td>
+<td align="center">
+<br/>17 h à 17 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>18 h à 18 h 59 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+<td align="center">
+<br/>18 h à 18 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>19 h à 19 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>109 <br/>
+</td>
+<td align="center">
+<br/>19 h à 19 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>20 h à 20 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>64 <br/>
+</td>
+<td align="center">
+<br/>108 <br/>
+</td>
+<td align="center">
+<br/>20 h à 20 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>21 h à 21 h 59 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>11, 5 <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>97 <br/>
+</td>
+<td align="center">
+<br/>21 h à 21 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22 h à 22 h 59 <br/>
+</td>
+<td align="center">
+<br/>9, 5 (*) <br/>
+</td>
+<td align="center">
+<br/>43 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>78 <br/>
+</td>
+<td align="center">
+<br/>22 h à 22 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23 h à 23 h 59 <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>23 h à 23 h 59 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<br/>(*) Le nombre 9, 5 signifie que, au cours de la tranche horaire correspondante, au plus 10 mouvements peuvent être acceptés pendant les trois premières périodes de 10 minutes et 9 mouvements pendant les trois périodes de 10 minutes suivantes, sous réserve du respect de la contrainte horaire correspondante. <p>Le nombre 11, 5 signifie que, au cours de la tranche horaire correspondante, au plus 12 mouvements peuvent être acceptés pendant trois périodes de 10 minutes et 11 mouvements pendant les trois autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante.<br/>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 2. Capacité des terminaux
 
