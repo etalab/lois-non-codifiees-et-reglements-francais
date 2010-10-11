@@ -1,0 +1,3 @@
+# Article 18
+
+Lorsqu'elle n'est pas effectuée dans le cadre du système d'assurance de la qualité d'un installateur conformément à l'article 23 du décret du 3 mai 2001 susvisé, la vérification de l'installation est réalisée par un organisme désigné à cet effet par le ministre chargé de l'industrie dans les conditions prévues à l'article 36 du décret du 3 mai 2001 et à l'article 26 de l'arrêté du 31 décembre 2001 susvisés. Les conditions définies par l'arrêté du 25 février 2002 susvisé s'appliquent, mutatis mutandis, aux organismes désignés pour la vérification de l'installation au titre du présent arrêté.
