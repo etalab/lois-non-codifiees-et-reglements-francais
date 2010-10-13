@@ -8,9 +8,9 @@ Elle anime les politiques transversales en matière de ressources humaines et ve
 
 Elle définit et met en œuvre, en relation avec les autres directions et services, la politique d'action sociale, les politiques d'hygiène et sécurité et de prévention médicale.
 
-Elle assure le suivi des systèmes d'information afférents aux ressources humaines. A ce titre, elle anime le centre de compétences, en charge de la maintenance opérationnelle et du développement du système d'information ministériel des ressources humaines et accompagne la restructuration de la chaîne paye.
+Elle assure le suivi des systèmes d'information afférents aux ressources humaines.A ce titre, elle anime le centre de compétences, en charge de la maintenance opérationnelle et du développement du système d'information ministériel des ressources humaines et accompagne la restructuration de la chaîne paye.
 
-Elle définit et met en œuvre la politique en faveur de l'insertion des travailleurs handicapés, en coordonnant les actions menées par les directions d'emploi.
+Elle définit et met en œuvre la politique en faveur de l'insertion des travailleurs handicapés, en coordonnant les actions menées par les directions d'emploi et en siégeant au comité interministériel du handicap.
 
 Elle représente le ministère dans les instances interministérielles traitant des questions relatives aux ressources humaines.
 
@@ -20,6 +20,4 @@ La sous-direction de la synthèse ressources humaines comprend :
 
 ― le bureau des politiques ministérielles ;
 
-― le bureau de l'action sociale et des conditions de travail ;
-
-― la délégation ministérielle aux personnes handicapées.
+― le bureau de l'action sociale et des conditions de travail.
