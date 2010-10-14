@@ -5,179 +5,180 @@ I. - Corps de commandement et d'encadrement de la police nationale
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">
-<font size="1">CATÉGORIES D'EMPLOIS</font>
+<th>
+<br/>CATÉGORIES D'EMPLOIS <br/>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois </p>
+<p>2009 <br/>
 </p>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois </p>
+<p>2010 <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE <p>de points </p>
+<p>par emploi <br/>
+</p>
+</th>
+<th>
+<br/>TOTAL <p>points 2010 <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de circonscription de sécurité publique</p>
 </td>
-<td>
-<p align="center">
-<font size="1">NOMBRE<br/>
-</font>
-<font size="1">d'emplois<br/>
-</font>
-<font size="1">2009</font>
-</p>
+<td align="center">
+<p align="center">107</p>
 </td>
-<td>
-<p align="center">
-<font size="1">NOMBRE<br/>
-</font>
-<font size="1">de points<br/>
-</font>
-<font size="1">par emploi </font>
-</p>
+<td align="center">
+<p align="center">106</p>
 </td>
-<td>
-<p align="center">
-<font size="1">TOTAL POINTS<br/>
-</font>
-<font size="1">2009</font>
-</p>
+<td align="center">
+<p align="center">40</p>
+</td>
+<td align="center">
+<p align="center">4 240</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chef de circonscription de sécurité publique <br/>
-</p>
+<p align="left">Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans les directions départementales</p>
 </td>
 <td align="center">
-<br/>107 <br/>
+<p align="center">99</p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<p align="center">97</p>
 </td>
 <td align="center">
-<br/>4 280 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans les directions départementales <br/>
-</p>
+<p align="center">40</p>
 </td>
 <td align="center">
-<br/>99 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-<td align="center">
-<br/>3 960 <br/>
+<p align="center">3 880</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chef d'unité opérationnelle ou adjoint au chef de service à la circonscription <br/>
-</p>
+<p align="left">Chef d'unité opérationnelle ou adjoint au chef de service à la circonscription</p>
 </td>
 <td align="center">
-<br/>171 <br/>
+<p align="center">171</p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<p align="center">155</p>
 </td>
 <td align="center">
-<br/>6 840 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Chef d'unité ou de groupe technique ou opérationnel <br/>
-</p>
+<p align="center">40</p>
 </td>
 <td align="center">
-<br/>746 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-<td align="center">
-<br/>29 840 <br/>
+<p align="center">6 200</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chef de délégation des compagnies républicaines de sécurité <br/>
-</p>
+<p align="left">Chef d'unité ou de groupe technique ou opérationnel</p>
 </td>
 <td align="center">
-<br/>5 <br/>
+<p align="center">746</p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<p align="center">826</p>
 </td>
 <td align="center">
-<br/>200 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Adjoint au chef de délégation des compagnies républicaines de sécurité <br/>
-</p>
+<p align="center">40</p>
 </td>
 <td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
+<p align="center">33 040</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Responsable d'un service de formation <br/>
-</p>
+<p align="left">Chef de délégation des compagnies républicaines de sécurité</p>
 </td>
 <td align="center">
-<br/>2 <br/>
+<p align="center">5</p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<p align="center">5</p>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Chef de groupe de liaison et documentation <br/>
-</p>
+<p align="center">40</p>
 </td>
 <td align="center">
-<br/>32 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-<td align="center">
-<br/>1 280 <br/>
+<p align="center">200</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Total <br/>
-</p>
+<p align="left">Adjoint au chef de délégation des compagnies républicaines de sécurité</p>
 </td>
 <td align="center">
-<br/>1 165 <br/>
+<p align="center">3</p>
 </td>
 <td align="center">
-<br/>- <br/>
+<p align="center">3</p>
 </td>
 <td align="center">
-<br/>46 600<br/>
+<p align="center">40</p>
+</td>
+<td align="center">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Responsable d'un service de formation</p>
+</td>
+<td align="center">
+<p align="center">2</p>
+</td>
+<td align="center">
+<p align="center">2</p>
+</td>
+<td align="center">
+<p align="center">40</p>
+</td>
+<td align="center">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de groupe de liaison et documentation</p>
+</td>
+<td align="center">
+<p align="center">32</p>
+</td>
+<td align="center">
+<p align="center">21</p>
+</td>
+<td align="center">
+<p align="center">40</p>
+</td>
+<td align="center">
+<p align="center">840</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Total</p>
+</td>
+<td align="center">
+<p align="center">1 165</p>
+</td>
+<td align="center">
+<p align="center">1 215</p>
+</td>
+<td align="center">
+<p align="center">-</p>
+</td>
+<td align="center">
+<p align="center">48 600</p>
 </td>
 </tr>
 </tbody>
@@ -188,151 +189,151 @@ II. - Corps d'encadrement et d'application de la police nationale
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">
-<font size="1">CATÉGORIES D'EMPLOIS</font>
+<th>
+<br/>CATÉGORIES D'EMPLOIS<br/>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2007<br/>
 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">RAPPEL<br/>
-</font>
-<font size="1">2007 </font>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2008<br/>
 </p>
-</td>
-<td>
-<p align="center">2008</p>
-</td>
-<td>
-<p align="center">2009 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">NOMBRE<br/>
-</font>
-<font size="1">de points<br/>
-</font>
-<font size="1">par emploi</font>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2009<br/>
 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">TOTAL<br/>
-</font>
-<font size="1">points<br/>
-</font>
-<font size="1">2009</font>
-<br/>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois 2010<br/>
 </p>
+</th>
+<th>
+<br/>NOMBRE <p>de points</p>
+<p>par emploi<br/>
+</p>
+</th>
+<th>
+<br/>TOTAL <p>points 2010<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef ou commandant d'unité à responsabilité particulièrement importante</p>
+</td>
+<td align="center">
+<p align="center">218</p>
+</td>
+<td align="center">
+<p align="center">92</p>
+</td>
+<td align="center">
+<p align="center">22</p>
+</td>
+<td align="center">
+<p align="center">12</p>
+</td>
+<td align="center">
+<p align="center">20</p>
+</td>
+<td align="center">
+<p align="center">240</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chef ou commandant d'unité à responsabilité particulièrement importante <br/>
-</p>
+<p align="left">Assistant officier de quart des services des aéroports de Roissy et d'Orly</p>
 </td>
 <td align="center">
-<br/>218 <br/>
+<p align="center">4</p>
 </td>
 <td align="center">
-<br/>92 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>22 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>20 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>440 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Assistant officier de quart des services des aéroports de Roissy et d'Orly <br/>
-</p>
+<p align="center">20</p>
 </td>
 <td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Agent exerçant des responsabilités particulièrement importantes dans les domaines<br/>du renseignement ou de la protection des personnalités <br/>
-</p>
+<p align="left">Agent exerçant des responsabilités particulièrement importantes dans les domaines du renseignement ou de la protection des personnalités</p>
 </td>
 <td align="center">
-<br/>8 <br/>
+<p align="center">8</p>
 </td>
 <td align="center">
-<br/>4 <br/>
+<p align="center">4</p>
 </td>
 <td align="center">
-<br/>1 <br/>
+<p align="center">1</p>
 </td>
 <td align="center">
-<br/>20 <br/>
+<p align="center">1</p>
 </td>
 <td align="center">
-<br/>20 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Adjoint au chef du centre de formation <br/>
-</p>
+<p align="center">20</p>
 </td>
 <td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Chef de division administrative ou opérationnelle en CRS exerçant<br/>des responsabilités particulièrement importantes et chef instructeur CNEAS<br/>(Centre national d'entraînement à l'alpinisme et au ski)</p>
+<p align="left">Adjoint au chef du centre de formation</p>
 </td>
 <td align="center">
-<br/>23 <br/>
+<p align="center">1</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">1</p>
 </td>
 <td align="center">
-<br/>3 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>20 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>60 <br/>
+<p align="center">20</p>
+</td>
+<td align="center">
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de division administrative ou opérationnelle en CRS exerçant des responsabilités particulièrement importantes et chef instructeur CNEAS (Centre national d'entraînement à l'alpinisme et au ski)</p>
+</td>
+<td align="center">
+<p align="center">23</p>
+</td>
+<td align="center">
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">3</p>
+</td>
+<td align="center">
+<p align="center">2</p>
+</td>
+<td align="center">
+<p align="center">20</p>
+</td>
+<td align="center">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
@@ -340,39 +341,45 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Autre chef ou commandant d'unité</p>
 </td>
 <td align="center">
-<br/>1 970 <br/>
+<p align="center">1 970</p>
 </td>
 <td align="center">
-<br/>1 498 <br/>
+<p align="center">1 498</p>
 </td>
 <td align="center">
-<br/>1 179 <br/>
+<p align="center">1 179</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">1 191</p>
 </td>
 <td align="center">
-<br/>11 790 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">11 910</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Adjoint à l'officier - chef ou commandant d'unité</p>
+<p align="left">Adjoint à l'officier. - Chef ou commandant d'unité</p>
 </td>
 <td align="center">
-<br/>378 <br/>
+<p align="center">378</p>
 </td>
 <td align="center">
-<br/>189 <br/>
+<p align="center">189</p>
 </td>
 <td align="center">
-<br/>53 <br/>
+<p align="center">53</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">32</p>
 </td>
 <td align="center">
-<br/>530 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">320</p>
 </td>
 </tr>
 <tr>
@@ -380,19 +387,22 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Technicien spécialisé</p>
 </td>
 <td align="center">
-<br/>26 <br/>
+<p align="center">26</p>
 </td>
 <td align="center">
-<br/>15 <br/>
+<p align="center">15</p>
 </td>
 <td align="center">
-<br/>5 <br/>
+<p align="center">5</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">4</p>
 </td>
 <td align="center">
-<br/>50 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
@@ -400,19 +410,22 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Assistant officier de quart</p>
 </td>
 <td align="center">
-<br/>33 <br/>
+<p align="center">33</p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30</p>
 </td>
 <td align="center">
-<br/>82 <br/>
+<p align="center">82</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">86</p>
 </td>
 <td align="center">
-<br/>820 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">860</p>
 </td>
 </tr>
 <tr>
@@ -420,39 +433,45 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Adjoint au chef de la section montagne</p>
 </td>
 <td align="center">
-<br/>4 <br/>
+<p align="center">4</p>
 </td>
 <td align="center">
-<br/>2 <br/>
+<p align="center">2</p>
 </td>
 <td align="center">
-<br/>0 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>0 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Agent exerçant des responsabilités importantes dans les domaines du renseignement ou de la<br/>protection des personnalités </p>
+<p align="left">Agent exerçant des responsabilités importantes dans les domaines du renseignement ou de la protection des personnalités</p>
 </td>
 <td align="center">
-<br/>29 <br/>
+<p align="center">29</p>
 </td>
 <td align="center">
-<br/>8 <br/>
+<p align="center">8</p>
 </td>
 <td align="center">
-<br/>1 <br/>
+<p align="center">1</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">0</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
@@ -460,41 +479,45 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Formateur spécialisé</p>
 </td>
 <td align="center">
-<br/>46 <br/>
+<p align="center">46</p>
 </td>
 <td align="center">
-<br/>35 <br/>
+<p align="center">35</p>
 </td>
 <td align="center">
-<br/>28 <br/>
+<p align="center">28</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">31</p>
 </td>
 <td align="center">
-<br/>280 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">310</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Autre chef de division administrative ou opérationnelle en CRS <br/>
-</p>
+<p align="left">Autre chef de division administrative ou opérationnelle en CRS</p>
 </td>
 <td align="center">
-<br/>257 <br/>
+<p align="center">257</p>
 </td>
 <td align="center">
-<br/>185 <br/>
+<p align="center">185</p>
 </td>
 <td align="center">
-<br/>150 <br/>
+<p align="center">150</p>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p align="center">127</p>
 </td>
 <td align="center">
-<br/>1 500 <br/>
+<p align="center">10</p>
+</td>
+<td align="center">
+<p align="center">1 270</p>
 </td>
 </tr>
 <tr>
@@ -502,19 +525,22 @@ II. - Corps d'encadrement et d'application de la police nationale
 <p align="left">Total</p>
 </td>
 <td align="center">
-<br/>2 997 <br/>
+<p align="center">2 997</p>
 </td>
 <td align="center">
-<br/>2 069 <br/>
+<p align="center">2 069</p>
 </td>
 <td align="center">
-<br/>1 524 <br/>
+<p align="center">1 524</p>
 </td>
 <td align="center">
-<br/>- <br/>
+<p align="center">1 486</p>
 </td>
 <td align="center">
-<br/>15 500<br/>
+<br/>
+</td>
+<td align="center">
+<p align="center">15 010</p>
 </td>
 </tr>
 </tbody>
@@ -525,59 +551,59 @@ III. - Emplois fonctionnels
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">
-<font size="1">EMPLOIS</font>
+<th>
+<br/>CATÉGORIES D'EMPLOIS<br/>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2007<br/>
 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">RAPPEL 2007</font>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2008<br/>
 </p>
-</td>
-<td>
-<p align="center">2008</p>
-</td>
-<td>
-<p align="center">2009 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">NOMBRE<br/>
-</font>
-<font size="1">de points<br/>
-</font>
-<font size="1">par emploi </font>
+</th>
+<th>
+<br/>RAPPEL <p>nombre d'emplois</p>
+<p>2009<br/>
 </p>
-</td>
-<td>
-<p align="center">
-<font size="1">TOTAL<br/>
-</font>
-<font size="1">points<br/>
-</font>
-<font size="1">2009</font>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois 2010<br/>
 </p>
-</td>
+</th>
+<th>
+<br/>NOMBRE <p>de points</p>
+<p>par emploi<br/>
+</p>
+</th>
+<th>
+<br/>TOTAL <p>points 2010<br/>
+</p>
+</th>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Responsable d'unité locale de police</p>
 </td>
 <td align="center">
-<br/>100 <br/>
+<p align="center">100</p>
 </td>
 <td align="center">
-<br/>200 <br/>
+<p align="center">200</p>
 </td>
 <td align="center">
-<br/>375 <br/>
+<p align="center">375</p>
 </td>
 <td align="center">
-<br/>20 <br/>
+<p align="center">450</p>
 </td>
 <td align="center">
-<br/>7 500 <br/>
+<p align="center">20</p>
+</td>
+<td align="center">
+<p align="center">9 000</p>
 </td>
 </tr>
 <tr>
@@ -585,19 +611,22 @@ III. - Emplois fonctionnels
 <p align="left">Total</p>
 </td>
 <td align="center">
-<br/>100 <br/>
+<p align="center">100</p>
 </td>
 <td align="center">
-<br/>200 <br/>
+<p align="center">200</p>
 </td>
 <td align="center">
-<br/>375 <br/>
+<p align="center">375</p>
 </td>
 <td align="center">
-<br/>20 <br/>
+<p align="center">450</p>
 </td>
 <td align="center">
-<br/>7 500<br/>
+<p align="center">20</p>
+</td>
+<td align="center">
+<p align="center">9 000</p>
 </td>
 </tr>
 </tbody>
