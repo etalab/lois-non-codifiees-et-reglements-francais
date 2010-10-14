@@ -8,6 +8,6 @@ Les commandants de formation administrative ou d'organisme administré comme tel
 
 3. Les prolongations de la durée d'activité des sous-officiers et militaires du rang de réserve jusqu'à trente jours portant ainsi la durée à soixante jours maximum prévues à l'article R. 4221-6 du même code ;
 
-4. Les résiliations des engagements des sous-officiers et militaires du rang de réserve dans l'un des cas prévus à l'article R. 4221-19 du même code ;
+4. Les résiliations des engagements sur demande des sous-officiers et militaires du rang de réserve prévues au 3° de l'article R. 4221-19 du même code ;
 
 5. Les suspensions des engagements sur demande des sous-officiers et militaires du rang de réserve prévues à l'article R. 4221-18 du même code.
