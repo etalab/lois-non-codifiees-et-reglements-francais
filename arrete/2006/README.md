@@ -264,6 +264,7 @@
 - [Arrêté du 24 octobre 2006 (INDI0608781A)](arrete-du-24-octobre-2006-indi0608781a)
 - [Arrêté du 24 octobre 2006 (MCCB0600785A)](arrete-du-24-octobre-2006-mccb0600785a)
 - [Arrêté du 24 mai 2006 (AGRG0600999A)](arrete-du-24-mai-2006-agrg0600999a)
+- [Arrêté du 24 mai 2006 (EQUT0601071A)](arrete-du-24-mai-2006-equt0601071a)
 - [Arrêté du 24 mai 2006 (SANP0622223A)](arrete-du-24-mai-2006-sanp0622223a)
 - [Arrêté du 24 mai 2006 (SANP0622225A)](arrete-du-24-mai-2006-sanp0622225a)
 - [Arrêté du 25 avril 2006 (INDI0607334A)](arrete-du-25-avril-2006-indi0607334a)
