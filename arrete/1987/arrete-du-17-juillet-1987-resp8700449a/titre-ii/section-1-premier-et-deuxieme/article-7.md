@@ -18,10 +18,6 @@ La formation commune de base comprend :
 
 2° A participer à l'activité hospitalière au cours du stage hospitalier.
 
-L'enseignement de la première année comporte six modules, de soixante à quatre-vingt-dix heures d'enseignement, magistral et dirigé dont trois portent obligatoirement sur la physique et biophysique, la chimie générale, la chimie organique, la biochimie, la biologie moléculaire, la biologie cellulaire et les mathématiques.
-
-Un des trois autres modules comporte un enseignement de culture générale, pouvant porter notamment sur les techniques d'expression et de communication et sur la philosophie et l'histoire des sciences. Les épreuves portant sur l'enseignement de ce module doivent être de caractère rédactionnel et faire l'objet d'une double correction.
-
 L'enseignement de la deuxième année est organisé par unités d'enseignement disciplinaires.
 
 Le contenu pédagogique des modules et leurs modalités de validation sont portés à la connaissance des étudiants au plus tard à la fin du premier mois de l'année universitaire.
