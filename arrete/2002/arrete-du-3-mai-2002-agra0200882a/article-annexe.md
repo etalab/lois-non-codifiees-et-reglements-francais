@@ -7,17 +7,18 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">
+<br/>NOMBRE </p>
+<p align="center">d'emplois </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -28,6 +29,17 @@ I.-Emplois en administration centrale
 </td>
 <td align="center">
 <br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Secrétaire général adjoint</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">140</p>
 </td>
 </tr>
 <tr>
@@ -99,22 +111,18 @@ I.-Emplois en administration centrale
 </tbody>
 </table>
 
-2° Vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux
+2° Vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
+<td>DÉSIGNATION DE L'EMPLOI</td>
+<td>NOMBRE <p>d'emplois <br/>
 </p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
+</td>
+<td>NOMBRE DE POINTS <p>par emploi <br/>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -135,17 +143,17 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">d'emplois </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -160,7 +168,7 @@ I.-Emplois en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Contrôleur général chef de la brigade nationale d'enquêtes vétérinaires et sanitaires rattaché au directeur général de l'alimentation <br/>
+<br/>Inspecteur général chef de la brigade nationale d'enquêtes vétérinaires et sanitaires rattaché au directeur général de l'alimentation <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -188,17 +196,18 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">d'emplois </p>
+<br/>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -220,6 +229,17 @@ I.-Emplois en administration centrale
 </td>
 <td align="center">
 <br/>120 (*) <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Adjoint au directeur des affaires financières, sociales et logistiques</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
@@ -290,29 +310,35 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">d'emplois </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi <br/>
 </p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>Secrétariat général <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td>
+<p align="center">Adjoint au chef du service des ressources humaines</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>
@@ -349,6 +375,17 @@ I.-Emplois en administration centrale
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Sous-directeur du droit des personnels, des établissements sous tutelle et des marchés <br/>
 </td>
@@ -356,8 +393,7 @@ I.-Emplois en administration centrale
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
+<br/>100</td>
 </tr>
 <tr>
 <td align="center">
@@ -368,6 +404,17 @@ I.-Emplois en administration centrale
 </td>
 <td align="center">
 <br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Adjoint au chef du service de la statistique et de la prospective</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +496,7 @@ I.-Emplois en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la mission d'administration des services <br/>
+<br/>Adjoint au délégué à l'information et à la communication<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -459,17 +506,22 @@ I.-Emplois en administration centrale
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Chef de la mission d'administration des services </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Direction générale de l'alimentation <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -574,14 +626,8 @@ I.-Emplois en administration centrale
 <td align="center">
 <br/>Direction générale de l'enseignement et de la recherche <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -653,14 +699,8 @@ I.-Emplois en administration centrale
 <td align="center">
 <br/>Direction générale des politiques agricole, agroalimentaire et des territoires <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -747,7 +787,7 @@ I.-Emplois en administration centrale
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>80 <br/>
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
@@ -809,14 +849,8 @@ I.-Emplois en administration centrale
 <td align="center">
 <br/>Direction des pêches maritimes et de l'aquaculture <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -837,7 +871,7 @@ I.-Emplois en administration centrale
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>80 <br/>
+<br/>100 <br/>
 </td>
 </tr>
 </tbody>
@@ -848,17 +882,17 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">d'emplois </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -879,17 +913,18 @@ I.-Emplois en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE <p>d'emplois <br/>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">d'emplois <br/>
 </p>
-</th>
-<th>
-<br/>NOMBRE DE POINTS <p>par emploi <br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -905,17 +940,6 @@ I.-Emplois en administration centrale
 <tr>
 <td align="center">
 <br/>Chef du centre d'ingénierie des systèmes d'information <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du centre d'études et de réalisations informatiques de Toulouse <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
