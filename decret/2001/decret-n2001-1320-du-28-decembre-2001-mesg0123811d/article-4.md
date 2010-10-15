@@ -1,3 +1,0 @@
-# Article 4
-
-Le chef du service de l'inspection générale des affaires sociales bénéficie d'une prime d'activité dont le montant est fixé par arrêté des ministres chargés des affaires sociales, du travail, de la santé, du budget et de la fonction publique. Le taux d'évolution de ce montant de référence est le même que celui du montant moyen des primes et indemnités effectivement versées aux directeurs d'administration centrale des ministères chargés de la santé et des affaires sociales, à l'exclusion de l'indemnité de performance prévue par le décret n° 2006-1019 du 11 août 2006 portant attribution d'une indemnité de performance en faveur des directeurs d'administrations centrales.
