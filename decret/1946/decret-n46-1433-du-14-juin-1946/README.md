@@ -1,6 +1,7 @@
 # Décret n° 46-1433 du 14 juin 1946 relatif au satut du personnel des exploitations minières et assimilées.
 
 - [TITRE Ier : DISPOSITIONS GENERALES](titre-ier)
+- [TITRE II : EMBAUCHAGE ET LICENCIEMENT](titre-ii)
 - [TITRE III : DUREE DU TRAVAIL](titre-iii)
 - [TITRE IV : HIERARCHIE PROFESSIONNELLE](titre-iv)
 - [TITRE V : REMUNERATION DU TRAVAIL](titre-v)
