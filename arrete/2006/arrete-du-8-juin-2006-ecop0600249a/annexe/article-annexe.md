@@ -202,7 +202,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur particulièrement chargé des questions de politiques économiques à la direction générale du Trésor </p>
+<p>Directeur général adjoint à la direction générale du Trésor (à compter du 27/12/2009)</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -212,25 +212,12 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Directeur des affaires juridiques</td>
 <td>
-<p>Directeur particulièrement chargé des questions de relations économiques internationales à la direction générale du Trésor </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">170 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des affaires juridiques </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">170 </p>
+<p align="center">170</p>
 </td>
 </tr>
 <tr>
@@ -444,28 +431,6 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef du service des pensions </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">130 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service au secrétariat général des ministères économique et financier </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">115 </p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Chef de service à la direction du budget </p>
 </td>
 <td>
@@ -554,17 +519,6 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef de service à la direction générale des douanes et droits indirects</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">125</p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Chef de service au secrétariat général du ministère de l'économie, des finances et de l'industrie </p>
 </td>
 <td>
@@ -572,6 +526,17 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">115 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chef de service à la direction générale des douanes et droits indirects</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
 </td>
 </tr>
 <tr>
@@ -1118,7 +1083,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -1129,7 +1094,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">110 </p>
+<p align="center">120 </p>
 </td>
 </tr>
 <tr>
@@ -1138,7 +1103,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -1147,7 +1112,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -1379,14 +1344,12 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Sous-directeur, chef de l'inspection des services </td>
 <td>
-<p>Sous-directeur, secrétaire général adjoint de TRACFIN à la direction générale des douanes et droits indirects </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
+<p align="center">110</p>
 </td>
 </tr>
 <tr>
@@ -1609,7 +1572,7 @@ I.-Fonctions exercées en administration centrale
 <td>
 <p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign (à compter du 12 janvier 2009) </p>
 </td>
-<td>1 </td>
+<td>1</td>
 <td>90</td>
 </tr>
 <tr>
@@ -1617,7 +1580,7 @@ I.-Fonctions exercées en administration centrale
 <p>Sous-directeur du tourisme (à compter du 12 janvier 2009) </p>
 </td>
 <td>1</td>
-<td>90 </td>
+<td>90</td>
 </tr>
 <tr>
 <td>
@@ -1791,11 +1754,9 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Expert de haut niveau ou directeur de projet à la direction générale de la modernisation de l'Etat</td>
 <td>
-<p>Directeur de projet à la direction générale de la modernisation de l'Etat </p>
-</td>
-<td>
-<p align="center">4 </p>
+<p align="center">3 </p>
 </td>
 <td>
 <p align="center">90 </p>
@@ -1813,9 +1774,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur de projet à la direction générale du Trésor </p>
-</td>
+<td>Expert de haut niveau ou directeur de projet à la direction générale du Trésor</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -1825,7 +1784,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur de projet à la direction générale du Trésor, rédacteur en chef de la publication diagnostics, prévisions, analyses économiques </p>
+<p>Expert de haut niveau ou directeur de projet à la direction générale du Trésor</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1991,7 +1950,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Secrétaire général chargé des DRIRE à la direction de l'action régionale, de la qualité et de la sécurité industrielle</p>
+<p>Secrétaire général chargé des DRIRE à la direction de l'action régionale, de la qualité et de la sécurité industrielle </p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -2767,12 +2726,21 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>Directeur fonctionnel, directeur de l'école de La Rochelle1</td>
+<td>Directeur fonctionnel, directeur de l'école de La Rochelle</td>
 <td>
-<br/>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">80 </p>
+</td>
+</tr>
+<tr>
+<td>Directeur fonctionnel, directeur de l'école de Tourcoing</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -2845,14 +2813,102 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <td/>
 </tr>
 <tr>
-<td rowspan="2">
+<td>
 <p>Directeur </p>
 </td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">s) Opérateur national de paye </p>
+<p align="center">Directeur</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Chef de service </td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">115</p>
+</td>
+</tr>
+<tr>
+<td>Expert de haut niveau ou directeur de projet</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">110</p>
+</td>
+</tr>
+<tr>
+<td>Expert de haut niveau ou directeur de projet</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">t) TRACFIN</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Directeur</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">130</p>
+</td>
+</tr>
+<tr>
+<td>Directeur adjoint</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">u) Service commun des laboratoires</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Chef du service </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">v) Service des retraites de l'Etat</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="2">Chef de service, directeur</td>
 <td rowspan="2">
 <p align="center">1 </p>
 </td>
 <td rowspan="2">
-<p align="center">80 </p>
+<p align="center">125 </p>
 </td>
 </tr>
 </tbody>
