@@ -1,6 +1,6 @@
 # Article 3
 
-Le service du financement et de la modernisation comprend deux sous-directions ainsi que, directement placées auprès du chef de service, une mission des ressources humaines et des affaires générales et une mission de la documentation.
+Le service du financement et de la modernisation comprend deux sous-directions ainsi que, directement placées auprès du chef de service, une mission des ressources humaines et des affaires générales, une mission de la documentation et une mission du contrôle interne.
 
 1° La sous-direction du financement, du contrôle de gestion, de l'informatique et des systèmes d'information comprend :
 
@@ -16,7 +16,7 @@ Elle élabore les propositions budgétaires dans le cadre des missions, programm
 
 Elle suit la consommation des crédits mis en place au niveau central et dans les services déconcentrés ou délégués aux organismes qui assurent, pour le compte du ministère, le versement d'aides à l'emploi ou à la formation professionnelle.
 
-Elle assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission " Travail " placés sous la responsabilité de la délégation générale.
+Elle assure la préparation et le suivi des projets annuels de performance, pour les programmes de la mission "Travail et emploi" placés sous la responsabilité de la délégation générale.
 
 Elle élabore et anime la politique de contrôle de gestion de la délégation générale. Elle assure les remontées régulières de statistiques, le suivi des plans d'action, l'exploitation et la restitution des données physiques et financières sur l'action territorialisée des politiques de l'emploi. Elle assure la synthèse des données permettant le suivi de l'exécution des programmes.
 
@@ -40,9 +40,7 @@ Elle gère le parc de matériels et de logiciels de la délégation générale e
 
 -la mission gestion des programmes FSE ;
 
--la mission budget et finances ;
-
--l'unité de certification.
+-la mission budget et finances.
 
 Elle est chargée de la définition des orientations et du pilotage national des programmes communautaires financés par le fonds social européen en appui de la stratégie européenne pour l'emploi et des politiques nationales. Elle est responsable de la gestion des programmes nationaux et exerce une responsabilité d'ensemble pour les programmes que le fonds social européen contribue à financer.
 
@@ -59,8 +57,6 @@ En liaison avec le secrétariat général des affaires européennes (SGAE) et la
 -elle assure la liaison entre la Commission européenne, les autres départements ministériels, les collectivités territoriales et les opérateurs, auxquels elle apporte information et assistance.
 
 Elle est chargée de l'élaboration des procédures nationales et veille à l'appel des fonds communautaires.
-
-Elle assure dans les fonctions d'autorité de paiement des programmes nationaux de la programmation 2000-2006 la certification des dépenses déclarées en s'assurant de leur régularité et de leur réalité, et vérifie les systèmes de gestion et de contrôle de la dépense mis en place par les gestionnaires.
 
 Elle assure la communication relative à l'intervention du fonds social européen au titre des obligations communautaires.
 
@@ -83,3 +79,15 @@ Elle veille à l'organisation des réunions et conférences organisées par les 
 4° La mission de la documentation :
 
 Elle est responsable de l'accès de tous les agents à une documentation actualisée et de qualité par la collecte, le traitement et la diffusion de tous les documents concernant les domaines de l'emploi et de la formation professionnelle.
+
+5° La mission du contrôle interne :
+
+Elle pilote la démarche de contrôle interne sur l'ensemble des dispositifs mis en œuvre par la délégation générale.
+
+Elle développe des outils de maîtrise des risques sur la chaîne de la dépense et facilite la mutualisation d'outils et de supports pédagogiques.
+
+Elle anime un réseau de référents désignés par chacune des unités fonctionnelles de la délégation générale.
+
+Elle analyse chacun des dispositifs des politiques d'emploi et de formation professionnelle et identifie les risques et les actions correctives à conduire.
+
+Elle rend compte des actions de la délégation générale auprès du certificateur.

@@ -16,7 +16,7 @@ Pour ce faire :
 
 - il appuie la construction de partenariats entre les services de l'Etat et les collectivités territoriales ;
 
-- il coordonne l'élaboration et suit l'exécution des contrats de plan Etat-régions ;
+- il coordonne l'élaboration et suit l'exécution des contrats de projets Etat-régions ;
 
 - il est le correspondant pour la délégation générale des services de la DATAR et du ministère de l'intérieur sur le champ de l'action territoriale.
 
