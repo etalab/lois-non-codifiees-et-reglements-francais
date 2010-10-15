@@ -2,7 +2,6 @@
 
 -
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -239,7 +238,7 @@
 <tr>
 <td align="center">Académie de Caen-Université de Caen <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">Directeur des affaires financières et du budget<br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -627,9 +626,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Lyon-Ecole normale supérieure lettres et sciences humaines <br/>
+<td align="center">Académie de Lyon - Ecole normale supérieure de Lyon <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'école, directeur des ressources humaines-A effet du 1er juillet 2008 <br/>
+<td align="center">Adjoint au directeur général des services, directeur des affaires financières, de la prospective et de l'aide au pilotage<br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -972,7 +971,7 @@
 </tr>
 <tr>
 <td align="center">Académie de Paris - Université Paris-III </td>
-<td align="center">Adjoint au directeur général des services, directeur des affaires financières <br/>
+<td align="center">Directeur du patrimoine immobilier et de la logistique <br/>
 </td>
 <td align="center">1</td>
 </tr>
@@ -1494,17 +1493,9 @@
 <tr>
 <td align="center">Administration centrale du ministère chargé de l'enseignement supérieur et de la recherche <br/>
 </td>
-<td align="center">Chargé de mission près la direction générale de la recherche et de l'innovation <br/>
+<td align="center">Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010 <br/>
 </td>
-<td align="center">1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Administration centrale du ministère chargé de l'enseignement supérieur et de la recherche <br/>
-</td>
-<td align="center">Chargé de mission auprès de la Conférence des présidents d'universités <br/>
-</td>
-<td align="center">1 <br/>
+<td align="center">5<br/>
 </td>
 </tr>
 <tr>
@@ -1634,6 +1625,16 @@
 <td align="center">Chef du service de la formation continue, directeur du Centre national de formation du réseau des œuvres universitaires et scolaires-A effet du 1er septembre 2007. </td>
 <td align="center">1</td>
 </tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Paris - Chancellerie des universités </p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général de la Chancellerie</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
 </tbody>
 </table>
-</div>

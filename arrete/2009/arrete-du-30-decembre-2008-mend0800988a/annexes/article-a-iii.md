@@ -3,8 +3,11 @@
 <table>
 <tbody>
 <tr>
-<th colspan="2">A-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <p>de l'enseignement supérieur et de la recherche relevant de l'</p>
-<p>article 58 du décret du 3 décembre 1983 susvisé, services du ministère chargé de l'enseignement supérieur <br/>
+<th colspan="2">
+<p>A-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, </p>
+<p>de l'enseignement supérieur et de la recherche relevant </p>
+<p>de l'article 58 du décret du 3 décembre 1983 susvisé, </p>
+<p>services du ministère chargé de l'enseignement supérieur <br/>
 </p>
 </th>
 <th>
@@ -232,7 +235,7 @@
 <br/>Académie de Paris-Université Paris-I <br/>
 </td>
 <td align="center">
-<br/>Chef de la division des affaires financières <br/>
+<br/>Adjoint au directeur général des services, en charge de la politique budgétaire <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
