@@ -24,4 +24,4 @@ Jeux autorisés ;
 
 Nom, prénoms, fonction et date de nomination des membres du comité de direction ;
 
-Nom, prénoms, date et lieu de naissance des personnes exclues des salles de jeux.
+Nom, prénoms, adresse, date et lieu de naissance des personnes exclues de jeux.
