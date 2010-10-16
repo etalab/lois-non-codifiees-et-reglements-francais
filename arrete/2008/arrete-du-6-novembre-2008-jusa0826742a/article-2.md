@@ -18,4 +18,6 @@ En application de l'article 11 du décret du 3 août 1999 susvisé, les emplois 
 
 ― chef du département de la gestion des agents de greffe ;
 
-― chef du département de la gestion des personnels du Conseil d'Etat et de la Cour nationale du droit d'asile.
+― chef du département de la gestion des personnels du Conseil d'Etat et de la Cour nationale du droit d'asile ;
+
+― chef du centre de services partagés financier.
