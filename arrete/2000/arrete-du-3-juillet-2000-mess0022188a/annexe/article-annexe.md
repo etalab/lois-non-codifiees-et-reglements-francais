@@ -1062,6 +1062,8 @@ Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne :
 
 SOCIÉTÉ D'ENTREPRISES ET DE FUMISTERIE INDUSTRIELLE (SEFI), 60, cours Pierre-Puget, 13006 Marseille, puis quartier des Fouitades, BP 56, 13655 Rognac Cedex, de 1935 à 1996 ;
 
+Société minière métallurgique Penarroya puis Metaleurop Estaque, L'Estaque - 13016 Marseille : De 1913 à 1996 ;
+
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
 
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
