@@ -6,182 +6,179 @@ NOTIFICATION DES ENVELOPPES RÉGIONALES DE DÉPENSES AUTORISÉES MÉDICO-SOCIALE
 
 PERSONNES CONFRONTÉES À DES DIFFICULTÉS SPÉCIFIQUES POUR 2010
 
-<div>
-<br/>
-<br/>
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>RÉGIONS/DOM</th>
-<th>
-<br/>ENVELOPPE RÉGIONALE<br/>notifiée</th>
+<th>RÉGIONS/DOM<br/>
+</th>
+<th>ENVELOPPE RÉGIONALE<br/>notifiée<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>ALSACE</td>
-<td align="center">
-<br/>8 958 928 €</td>
+<td align="center">ALSACE<br/>
+</td>
+<td align="center">8 958 928 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AQUITAINE</td>
-<td align="center">
-<br/>19 090 373 €</td>
+<td align="center">AQUITAINE<br/>
+</td>
+<td align="center">19 292 773 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AUVERGNE</td>
-<td align="center">
-<br/>5 861 630 €</td>
+<td align="center">AUVERGNE<br/>
+</td>
+<td align="center">5 659 230 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BOURGOGNE</td>
-<td align="center">
-<br/>7 076 807 €</td>
+<td align="center">BOURGOGNE<br/>
+</td>
+<td align="center">7 076 807 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BRETAGNE</td>
-<td align="center">
-<br/>9 894 627 €</td>
+<td align="center">BRETAGNE<br/>
+</td>
+<td align="center">9 894 627 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CENTRE</td>
-<td align="center">
-<br/>10 667 719 €</td>
+<td align="center">CENTRE<br/>
+</td>
+<td align="center">10 667 719 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHAMPAGNE-ARDENNE</td>
-<td align="center">
-<br/>7 831 692 €</td>
+<td align="center">CHAMPAGNE-ARDENNE<br/>
+</td>
+<td align="center">7 831 692 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CORSE</td>
-<td align="center">
-<br/>2 006 197 €</td>
+<td align="center">CORSE<br/>
+</td>
+<td align="center">2 006 197 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FRANCHE-COMTÉ</td>
-<td align="center">
-<br/>4 504 705 €</td>
+<td align="center">FRANCHE-COMTÉ<br/>
+</td>
+<td align="center">4 504 705 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ÎLE-DE-FRANCE</td>
-<td align="center">
-<br/>108 754 684 €</td>
+<td align="center">ÎLE-DE-FRANCE<br/>
+</td>
+<td align="center">108 754 684 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LANGUEDOC-ROUSSILLON</td>
-<td align="center">
-<br/>20 678 348 €</td>
+<td align="center">LANGUEDOC-ROUSSILLON<br/>
+</td>
+<td align="center">20 678 348 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LIMOUSIN</td>
-<td align="center">
-<br/>2 384 707 €</td>
+<td align="center">LIMOUSIN<br/>
+</td>
+<td align="center">2 384 707 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LORRAINE</td>
-<td align="center">
-<br/>12 386 390 €</td>
+<td align="center">LORRAINE<br/>
+</td>
+<td align="center">12 386 390 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MIDI-PYRÉNÉES</td>
-<td align="center">
-<br/>16 199 786 €</td>
+<td align="center">MIDI-PYRÉNÉES<br/>
+</td>
+<td align="center">16 199 786 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NORD - PAS-DE-CALAIS</td>
-<td align="center">
-<br/>26 883 842 €</td>
+<td align="center">NORD - PAS-DE-CALAIS<br/>
+</td>
+<td align="center">26 883 842 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BASSE-NORMANDIE</td>
-<td align="center">
-<br/>4 888 775 €</td>
+<td align="center">BASSE-NORMANDIE<br/>
+</td>
+<td align="center">4 888 775 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HAUTE-NORMANDIE</td>
-<td align="center">
-<br/>10 360 486 €</td>
+<td align="center">HAUTE-NORMANDIE<br/>
+</td>
+<td align="center">10 360 486 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PAYS DE LA LOIRE</td>
-<td align="center">
-<br/>15 486 474 €</td>
+<td align="center">PAYS DE LA LOIRE<br/>
+</td>
+<td align="center">14 486 474 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PICARDIE</td>
-<td align="center">
-<br/>11 498 652 €</td>
+<td align="center">PICARDIE<br/>
+</td>
+<td align="center">11 498 652 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>POITOU-CHARENTES</td>
-<td align="center">
-<br/>7 313 560 €</td>
+<td align="center">POITOU-CHARENTES<br/>
+</td>
+<td align="center">7 313 560 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PACA</td>
-<td align="center">
-<br/>37 982 910 €</td>
+<td align="center">PACA<br/>
+</td>
+<td align="center">37 982 910 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RHÔNE-ALPES</td>
-<td align="center">
-<br/>27 917 766 €</td>
+<td align="center">RHÔNE-ALPES<br/>
+</td>
+<td align="center">28 917 766 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GUADELOUPE</td>
-<td align="center">
-<br/>3 532 608 €</td>
+<td align="center">GUADELOUPE<br/>
+</td>
+<td align="center">3 532 608 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MARTINIQUE</td>
-<td align="center">
-<br/>3 685 904 €</td>
+<td align="center">MARTINIQUE<br/>
+</td>
+<td align="center">3 685 904 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GUYANE</td>
-<td align="center">
-<br/>5 431 739 €</td>
+<td align="center">GUYANE<br/>
+</td>
+<td align="center">5 431 739 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA RÉUNION</td>
-<td align="center">
-<br/>3 618 720 €</td>
+<td align="center">LA RÉUNION<br/>
+</td>
+<td align="center">3 618 720 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   TOTAL</td>
-<td align="center">
-<br/>394 898 028 €</td>
+<td align="center">TOTAL<br/>
+</td>
+<td align="center">394 898 028 €<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
