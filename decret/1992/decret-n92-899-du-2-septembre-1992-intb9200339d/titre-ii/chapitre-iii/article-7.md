@@ -2,16 +2,18 @@
 
 Le concours interne de recrutement des conservateurs territoriaux de bibliothèques comprend les épreuves d'admissibilité et d'admission suivantes :
 
-a) Epreuves écrites d'admissibilité :
+A.-Epreuves écrites d'admissibilité :
 
-1. Composition sur un sujet d'ordre général relatif à la vie intellectuelle (idées, sciences, lettres et arts) (durée : quatre heures ; coefficient 2).
+1. Composition de culture générale sur un sujet élaboré à partir des questions du programme permettant d'apprécier l'aptitude du candidat à analyser une question donnée et à exposer de façon claire et ordonnée une problématique (durée : cinq heures, coefficient 3).
 
-2. Note de synthèse établie à partir d'un dossier comportant des documents spécialisés en langue française sur le domaine des bibliothèques et de la documentation (durée : quatre heures ; coefficient 3).
+2. Note de synthèse établie à partir d'un dossier comportant des documents en langue française portant sur les bibliothèques et la documentation dans la société de l'information : politiques publiques de la culture et de l'éducation ; information et communication ; conservation et diffusion ; évolutions scientifiques et techniques ; enjeux politiques, sociaux et économiques (durée : quatre heures, coefficient 3).
 
-b) Epreuves orales d'admission :
+B.-Epreuves orales d'admission :
 
-1. Conversation avec le jury débutant par le commentaire d'un texte court ou d'une citation tiré au sort (préparation : trente minutes ; commentaire : environ dix minutes ; conversation : environ vingt minutes ; coefficient 3).
+1. Epreuve orale de langue vivante étrangère (allemand, anglais, espagnol, italien, portugais), au choix du candidat exprimé lors de l'inscription au concours, comportant la traduction d'un texte court suivie d'un entretien en français avec le jury.
 
-2. Epreuve de langue vivante étrangère (allemand, anglais, espagnol, italien ou russe) au choix du candidat, comportant la traduction d'un texte court, suivie d'une conversation.
+L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire (préparation : trente minutes, durée de l'épreuve : trente minutes, dont traduction : dix minutes maximum, entretien avec le jury : vingt minutes minimum, coefficient 2).
 
-L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation (préparation : trente minutes ; traduction : environ dix minutes ; conversation : environ vingt minutes ; coefficient 2).
+2. Conversation sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 5).
+
+3. Entretien débutant par le commentaire d'un texte tiré au sort au début de l'épreuve, relatif à une situation professionnelle, et portant notamment sur les motivations professionnelles. Le jury pourra également s'appuyer sur le dossier, fourni par le candidat lors de l'inscription, pour la reconnaissance des acquis de l'expérience professionnelle antérieure (préparation : trente minutes, durée de l'épreuve : quarante minutes, dont commentaire : dix minutes maximum, entretien : trente minutes minimum, coefficient 4).

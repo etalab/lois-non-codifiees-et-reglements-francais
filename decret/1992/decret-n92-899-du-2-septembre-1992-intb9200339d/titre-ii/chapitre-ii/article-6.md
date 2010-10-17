@@ -2,35 +2,39 @@
 
 Les concours externes de recrutement des conservateurs territoriaux de bibliothèques comprennent les épreuves suivantes :
 
-I. - Concours externe visé au 1° de l'article 5
+I.-Concours externe visé au 1° de l'article 5 du décret n° 91-841 du 2 septembre 1991 susvisé.
 
-du décret n° 91-841 susvisé
+A.-Epreuves écrites d'admissibilité :
 
-a) Epreuves écrites d'admissibilité :
+1. Composition de culture générale sur un sujet élaboré à partir des questions du programme permettant d'apprécier l'aptitude du candidat à analyser une question donnée et à exposer de façon claire et ordonnée une problématique (durée : cinq heures, coefficient 3).
 
-1. Une composition sur un sujet d'ordre général relatif à la vie intellectuelle (idées, sciences, lettres et arts) (durée : cinq heures ; coefficient 2).
+2. Note de synthèse établie à partir d'un dossier comportant des documents en langue française (durée : quatre heures, coefficient 3).
 
-2. Une note de synthèse établie à partir d'un dossier comportant des documents spécialisés en langue française, portant, au choix des candidats lors de l'inscription, soit sur les lettres et arts, soit sur les sciences humaines et sociales, soit sur les sciences juridiques, économiques et politiques, soit sur les sciences exactes et les techniques, soit sur les sciences de la nature et de la vie (durée : quatre heures ; coefficient 2).
+B.-Epreuves d'admission :
 
-3. La traduction en français d'un texte en langue ancienne (latin ou grec) ou en langue moderne (allemand, anglais, espagnol, italien ou russe) au choix du candidat.
+1. Epreuve de langues.
 
-L'utilisation d'un dictionnaire bilingue est autorisée pour les langues anciennes. L'utilisation d'un dictionnaire unilingue est autorisée pour les langues modernes (durée : trois heures ; coefficient 1).
+L'épreuve se déroule en deux parties :
 
-b) Epreuves orales d'admission :
+a) La première partie consiste en la traduction écrite en français d'un texte en langue vivante étrangère (allemand, anglais, arabe moderne, chinois, espagnol, italien, japonais, portugais, russe) ou d'un texte en langue ancienne (latin ou grec), au choix du candidat exprimé lors de l'inscription au concours.
 
-1. Une conversation avec le jury débutant par le commentaire d'un texte court ou d'une citation tiré au sort (préparation : trente minutes ; commentaire : environ dix minutes ; conversation : vingt minutes au maximum ; coefficient 4).
+L'usage d'un dictionnaire bilingue est autorisé pour les langues anciennes ; l'utilisation d'un dictionnaire unilingue est autorisée pour les langues modernes ; chaque candidat ne peut être muni que d'un seul dictionnaire.
 
-2. Au choix du candidat :
+Cette première partie se déroule par anticipation à l'occasion des épreuves écrites d'admissibilité, mais les points sont pris en compte pour l'admission dans le cadre de la présente épreuve de langue. Elle a une durée de deux heures.
 
-- soit une interrogation en langue vivante étrangère (allemand, anglais, espagnol, italien ou russe) au choix du candidat, à partir d'un texte rédigé dans une autre langue que celle qui a été choisie pour l'épreuve d'admissibilité.
+b) La deuxième partie consiste en la traduction orale en français d'un texte court en langue vivante étrangère (allemand, anglais, espagnol, italien, portugais), au choix du candidat exprimé lors de l'inscription au concours, suivie d'un entretien avec le jury dans la langue choisie. Cette langue doit être différente de celle qui a été choisie pour la première partie de l'épreuve.
 
-L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ;
+L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire.
 
-- soit un résumé et un commentaire d'un texte de caractère scientifique ou de caractère administratif au choix du candidat.
+Cette deuxième partie a une durée de trente minutes, dont traduction : dix minutes maximum, conversation avec le jury : vingt minutes minimum ; la durée de la préparation est de trente minutes.
 
-(Préparation : trente minutes ; interrogation : vingt minutes ; coefficient 1).
+L'épreuve est affectée du coefficient 2, chaque partie étant notée de 0 à 10.
 
-II. - Concours externe visé au 2° de l'article 5
+2. Conversation sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 5).
+
+3. Entretien sur la motivation professionnelle débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et relatif à une situation professionnelle, hors contexte des bibliothèques (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 4).
+
+II.-Concours externe visé au 2° de l'article 5
 
 du décret n° 91-841 susvisé
 
