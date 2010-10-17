@@ -16,9 +16,9 @@ La Commission nationale de l'internat et du post-internat comprend :
 
 7° Le président du Conseil national de l'ordre des médecins ;
 
-8° Le président de la conférence des directeurs régionaux des affaires sanitaires et sociales ;
+8° Un représentant des directeurs généraux des agences régionales de santé ;
 
-9° Le président de la conférence des médecins inspecteurs régionaux de santé publique ;
+9° Un représentant des médecins des agences régionales de santé ;
 
 10° Le président de la commission pédagogique nationale des études médicales des premier et deuxième cycles ;
 
