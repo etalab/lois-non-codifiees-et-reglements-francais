@@ -394,6 +394,7 @@
 - [Décret n°2010-1088 du 15 septembre 2010 (OMEO1022102D)](decret-n2010-1088-du-15-septembre-2010-omeo1022102d)
 - [Décret n°2010-1092 du 15 septembre 2010 (AGRT1019872D)](decret-n2010-1092-du-15-septembre-2010-agrt1019872d)
 - [Décret n°2010-1216 du 15 octobre 2010 (JUSC1022539D)](decret-n2010-1216-du-15-octobre-2010-jusc1022539d)
+- [Décret n°2010-1220 du 15 octobre 2010 (DEFD1021918D)](decret-n2010-1220-du-15-octobre-2010-defd1021918d)
 - [Décret n°2010-147 du 15 février 2010 (MCCB0907718D)](decret-n2010-147-du-15-fevrier-2010-mccb0907718d)
 - [Décret n°2010-270 du 15 mars 2010 (SASP1001097D)](decret-n2010-270-du-15-mars-2010-sasp1001097d)
 - [Décret n°2010-271 du 15 mars 2010 (SASH1005637D)](decret-n2010-271-du-15-mars-2010-sash1005637d)
