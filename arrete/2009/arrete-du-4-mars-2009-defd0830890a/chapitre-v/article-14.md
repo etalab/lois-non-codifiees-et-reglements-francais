@@ -1,6 +1,3 @@
 # Article 14
 
-A modifié les dispositions suivantes :
-
-> -Arrêté du 21 avril 2005
-> > Art. 3
+L'arrêté du 2 avril 1980 modifié portant organisation du centre des hautes études militaires est abrogé.

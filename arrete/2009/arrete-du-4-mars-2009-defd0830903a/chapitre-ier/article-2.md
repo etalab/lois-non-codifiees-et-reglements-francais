@@ -14,16 +14,10 @@ Outre le chef d'état-major des armées qui le préside, ou son représentant, l
 
 6° Un membre du cabinet militaire du ministre de la défense ;
 
-7° L'officier général adjoint au major général des armées ;
+7° Le sous-chef d'état-major "ressources humaines" de l'état-major des armées ;
 
 8° Le directeur de l'enseignement militaire supérieur ;
 
-9° Le directeur du collège interarmées de défense ;
+9° L'officier général adjoint au major général des armées ;
 
-10° Le directeur adjoint du centre des hautes études militaires ;
-
-11° Le chef de la division recherche et documentation ;
-
-12° Le président du conseil scientifique du centre d'études et de recherche de l'Ecole militaire ;
-
-13° Le chef du bureau « prospective, plans, pilotage » de la direction de l'enseignement militaire supérieur.
+10° L'officier général adjoint au directeur de l'enseignement militaire supérieur.

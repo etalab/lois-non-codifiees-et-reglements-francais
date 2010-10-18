@@ -1,3 +1,3 @@
 # Article 15
 
-L'arrêté du 2 avril 1980 modifié portant organisation du centre des hautes études militaires est abrogé.
+Le chef d'état-major des armées, le délégué général pour l'armement et le secrétaire général pour l'administration sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -6,9 +6,11 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 2° Le directeur de l'enseignement militaire supérieur ;
 
+2-1. L'officier général adjoint au directeur de l'enseignement militaire supérieur ;
+
 3° Le directeur des ressources humaines du ministère de la défense ;
 
-4° Les directeurs des ressources humaines ou du personnel militaire, de la     direction générale de l'armement et des forces armées, et le directeur des affaires juridiques concernant le personnel de la justice militaire ;
+4° Les directeurs des ressources humaines ou du personnel militaire des forces armées, de la direction générale de l'armement et le directeur des affaires juridiques concernant le personnel de la justice militaire ;
 
 5° Le chef de la division études synthèse management général de l'état-major des armées ;
 
@@ -16,12 +18,12 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 7° Le directeur du collège interarmées de défense ;
 
-8° Le directeur adjoint du centre des hautes études militaires ;
+8° Le directeur du centre des hautes études militaires ;
 
-9° Le chef de la division recherche et documentation ;
+9° Le directeur de l'institut de recherche stratégique de l'Ecole militaire ;
 
-10° Le président du conseil scientifique de la division de la recherche et de la documentation ;
+10°  Les présidents de la promotion du collège interarmées de défense et de la session du centre des hautes études militaires en cours et ceux de l'année précédente ;
 
-11° Un directeur de recherches du centre d'études et de recherche de l'Ecole militaire, désigné par le directeur de l'enseignement militaire supérieur ;
+11° Le directeur du centre de documentation de l'Ecole militaire.
 
-12° Les présidents de la promotion du collège interarmées de défense et de la session du centre des hautes études militaires en cours et ceux de l'année précédente.
+Les autres directeurs des organismes de formation de l'enseignement militaire supérieur peuvent être invités à y participer.

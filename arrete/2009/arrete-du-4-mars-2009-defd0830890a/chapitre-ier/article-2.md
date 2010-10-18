@@ -1,5 +1,15 @@
 # Article 2
 
-Le bureau « prospective, plans, pilotage », commandé par un officier, ancien auditeur du centre des hautes études militaires, est un organe permanent de conception, de coordination et de contrôle des missions de formation, de recherche et de communication.
+Le directeur de l'enseignement militaire supérieur dispose d'une direction qui comprend :
 
-Il a autorité sur le groupement des soutiens.
+- une division études, synthèse, pilotage et prospective ;
+
+- une division des affaires générales et du rayonnement.
+
+Elle comprend également :
+
+- le centre des hautes études militaires ;
+
+- le collège interarmées de défense ;
+
+- le centre de documentation de l'Ecole militaire.

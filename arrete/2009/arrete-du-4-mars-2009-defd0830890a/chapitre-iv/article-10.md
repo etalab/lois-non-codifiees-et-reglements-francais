@@ -1,9 +1,9 @@
 # Article 10
 
-La division de la recherche et de la documentation comprend :
+Subordonné au directeur de l'enseignement militaire supérieur, le centre de documentation de l'Ecole militaire est dirigé par un conservateur des bibliothèques qui dispose :
 
-1° Le centre d'études et de recherche de l'Ecole militaire, organisé en équipes de chercheurs civils et militaires, animées par des directeurs d'études ;
+- d'un service "gestion du fonds documentaire" ;
 
-2° Le centre de documentation de l'Ecole militaire, constitué d'un service gestion du fonds documentaire, d'un service analyse et production documentaire et d'un service soutien documentaire, placés sous la responsabilité d'un conservateur de bibliothèque ;
+- d'un service "analyse et production documentaire" ;
 
-3° Une section communication - publication.
+- d'un service "soutien documentaire".

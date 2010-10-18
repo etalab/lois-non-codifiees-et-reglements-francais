@@ -122,7 +122,6 @@
 - [Arrêté du 4 février 1997 (INTF9700067A)](arrete-du-4-fevrier-1997-intf9700067a)
 - [Arrêté du 4 juillet 1997 (DEFD9701692A)](arrete-du-4-juillet-1997-defd9701692a)
 - [Arrêté du 4 juillet 1997 (DEFD9701693A)](arrete-du-4-juillet-1997-defd9701693a)
-- [Arrêté du 4 juillet 1997 (DEFD9701694A)](arrete-du-4-juillet-1997-defd9701694a)
 - [Arrêté du 4 juillet 1997 (ECOT9710306A)](arrete-du-4-juillet-1997-ecot9710306a)
 - [Arrêté du 4 juillet 1997 (ECOT9710307A)](arrete-du-4-juillet-1997-ecot9710307a)
 - [Arrêté du 4 mars 1997 (AGRG9700484A)](arrete-du-4-mars-1997-agrg9700484a)

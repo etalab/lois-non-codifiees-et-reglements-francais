@@ -1,3 +1,3 @@
 # Article 3
 
-Au titre de ses missions, il peut bénéficier des travaux du centre d'études et de recherche de l'Ecole militaire (CEREM).
+Au titre de ses missions, il peut bénéficier des travaux de l'institut de recherche stratégique de l'Ecole militaire (IRSEM).
