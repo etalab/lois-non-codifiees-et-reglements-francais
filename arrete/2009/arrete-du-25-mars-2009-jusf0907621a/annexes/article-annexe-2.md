@@ -7,6 +7,7 @@
 <font size="1">DIRECTIONS TERRITORIALES </font>
 <p align="center">
 <font size="1">de la protection judiciaire de la jeunesse</font>
+<br/>
 </p>
 </th>
 <th rowspan="2">
@@ -15,21 +16,15 @@
 </p>
 </th>
 <th colspan="2">
-<p align="center">
 <font size="1">NOMBRE DE SIÈGES</font>
-</p>
 </th>
 </tr>
 <tr>
 <th>
-<p align="center">
 <font size="1">Titulaires</font>
-</p>
 </th>
 <th>
-<p align="center">
 <font size="1">Suppléants</font>
-</p>
 </th>
 </tr>
 <tr>
@@ -617,6 +612,9 @@
 <tr>
 <td>
 <br/>
+<p align="left">
+<br/>
+</p>
 </td>
 <td>
 <br/>
@@ -632,6 +630,9 @@
 <tr>
 <td>
 <br/>
+<p align="left">
+<br/>
+</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ</p>
@@ -699,6 +700,9 @@
 <tr>
 <td>
 <br/>
+<p align="left">
+<br/>
+</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ<br/>
@@ -1912,6 +1916,9 @@
 <tr>
 <td>
 <br/>
+<p align="left">
+<br/>
+</p>
 </td>
 <td>
 <p align="left">SNPES-PJJ/FSU</p>
@@ -2031,6 +2038,48 @@
 <td align="center">
 <p align="left">1<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Poitou-Charentes</p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ</p>
+</td>
+<td align="center">
+<p align="left">1</p>
+</td>
+<td align="center">
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU</p>
+</td>
+<td align="center">
+<p align="left">4</p>
+</td>
+<td align="center">
+<p align="left">4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td align="center">
+<p align="left">UNSA-SPJJ</p>
+</td>
+<td align="center">
+<p align="left">1</p>
+</td>
+<td align="center">
+<p align="left">1 </p>
 </td>
 </tr>
 <tr>
@@ -2482,6 +2531,9 @@
 <tr>
 <td>
 <br/>
+<p align="left">
+<br/>
+</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ<br/>
@@ -3024,6 +3076,7 @@
 </tbody>
 </table>
 
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
