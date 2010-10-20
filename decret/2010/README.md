@@ -457,6 +457,7 @@
 - [Décret n°2009-1596 du 18 décembre 2009 (MTSS0916249D)](decret-n2009-1596-du-18-decembre-2009-mtss0916249d)
 - [Décret n°2009-1597 du 18 décembre 2009 (MTSS0918107D)](decret-n2009-1597-du-18-decembre-2009-mtss0918107d)
 - [Décret n°2009-1609 du 18 décembre 2009 (DEVA0922288D)](decret-n2009-1609-du-18-decembre-2009-deva0922288d)
+- [Décret n°2010-1221 du 18 octobre 2010 (ECEC1018418D)](decret-n2010-1221-du-18-octobre-2010-ecec1018418d)
 - [Décret n°2010-154 du 18 février 2010 (IOCI0926060D)](decret-n2010-154-du-18-fevrier-2010-ioci0926060d)
 - [Décret n°2010-283 du 18 mars 2010 (JUSB1006933D)](decret-n2010-283-du-18-mars-2010-jusb1006933d)
 - [Décret n°2010-291 du 18 mars 2010 (ECEP1004308D)](decret-n2010-291-du-18-mars-2010-ecep1004308d)
