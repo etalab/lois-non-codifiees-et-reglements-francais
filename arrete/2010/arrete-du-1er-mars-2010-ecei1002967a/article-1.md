@@ -22,10 +22,28 @@ Les dossiers relatifs aux demandes d'autorisation visées au 2° du I de l'artic
 
 ― géomètre expert ;
 
-― plomberie ;
-
 ― architecte ;
 
 ― vétérinaire ;
 
-― marchand de biens.
+― marchand de biens ;
+
+— construction, entretien et réparation des bâtiments ;
+
+— mise en place, entretien et réparation des réseaux et des équipements utilisant les fluides ainsi que des matériels et équipements destinés à l'alimentation en gaz, au chauffage des immeubles et aux installations électriques, à l'exception des opérations sur des équipements contenant des fluides frigorigènes ;
+
+— artisans d'art ;
+
+— coiffure à domicile ;
+
+— soins esthétiques à la personne autres que médicaux et paramédicaux et modelages esthétiques de confort sans finalité médicale ;
+
+— maréchal-ferrant ;
+
+— pâtisserie ;
+
+— préparation ou fabrication de glaces alimentaires artisanales ;
+
+— poissonnerie ;
+
+— ramonage.
