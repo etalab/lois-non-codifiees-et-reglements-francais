@@ -595,7 +595,7 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </tr>
 <tr>
 <td>
-<p align="center"> Entreprise</p>
+<p align="center">Entreprise</p>
 </td>
 <td/>
 </tr>
@@ -1565,6 +1565,17 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
+<td>Centre de recherche en économie et statistique<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>(*) Enquête de suivi relative à l'expérimentation contrôlée REBOND. <br/>
+</td>
+<td>Cette enquête est réalisée dans le cadre de l'évaluation d'une expérimentation contrôlée, innovante, conduite sur la population des étudiants décrocheurs (jeunes qui quittent l'université avant d'avoir obtenu leur diplôme) de l'enseignement supérieur. Il s'agit d'évaluer l'impact des huit programmes d'accompagnement renforcé proposés par l'association pour faciliter l'insertion des jeunes diplômés (AFIJ) sur le devenir de cette population. Elle sera réalisée auprès de l'ensemble des 2 500 étudiants décrocheurs de l'enseignement supérieur qui participent à l'expérimentation dans les vingt-neuf sites où elle se déroule, neuf mois puis quinze mois après leur entrée dans le programme. La collecte s'effectuera par voie postale ou par internet à l'aide d'un questionnaire auto-administré et sera confiée à un institut de sondage privé sélectionné par appel d'offres. La première vague aura lieu entre octobre 2010 et avril 2011, la seconde, entre février et octobre 2011. <br/>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="center">Ministère de l'éducation nationale</p>
 <p>Direction de l'évaluation, de la prospective et de la performance</p>
@@ -1902,6 +1913,27 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <td>(*) Enquête auprès des demandeurs d'emploi accompagnés par des opérateurs privés de placement ou par Pôle emploi dans les dispositifs aux objectifs similaires.</td>
 <td>L'enquête a pour objectif général d'évaluer le contenu et les effets des diverses formes d'accompagnement des demandeurs d'emploi qui peuvent faire appel aux opérateurs privés de placement (OPP). La collecte se déroulera par téléphone auprès de deux cohortes de 6 300 demandeurs d'emploi inscrits à Pôle emploi et ayant intégré l'un des dispositifs d'accompagnement renforcé à compter de novembre 2009 pour la première cohorte et de mars 2010 pour la seconde. Chacune des deux cohortes sera interrogée à trois reprises. La première interrogation interviendra huit mois après l'entrée en dispositif, la deuxième treize mois après et la dernière, dix-huit mois après.L'enquête aura lieu en France métropolitaine. </td>
+</tr>
+<tr>
+<td>Institut d'études politiques de Paris<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Centre de données sociopolitiques<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>(*) Enquête sociale européenne (cinquième vague). </td>
+<td>Cette enquête existe depuis 2002 et fait partie d'un vaste dispositif d'enquêtes comparatives et longitudinales sur les attitudes des Européens, réalisés tous les deux ans auprès d'échantillons nationaux représentatifs des résidents de près de trente pays. Elle s'adresse aux individus de quinze ans ou plus résidant en France métropolitaine. L'échantillon comprendra entre 3 000 et 5 000 logements. L'objectif est d'obtenir entre 1 500 et 2 500 questionnaires remplis. La collecte se déroule en face à face au domicile de la personne du ménage interrogée, en un seul passage. La cinquième vague aura lieu entre octobre 2010 et janvier 2011 et sera confiée à un institut de sondage privé sélectionné par appel d'offres. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
+</td>
 </tr>
 <tr>
 <td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
