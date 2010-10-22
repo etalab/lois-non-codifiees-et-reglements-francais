@@ -105,7 +105,6 @@
 - [Décret n°64-949 du 9 septembre 1964](decret-n64-949-du-9-septembre-1964)
 - [Décret n°2006-1366 du 10 novembre 2006 (SOCU0611880D)](decret-n2006-1366-du-10-novembre-2006-socu0611880d)
 - [Décret n°2006-1370 du 10 novembre 2006 (SANS0624118D)](decret-n2006-1370-du-10-novembre-2006-sans0624118d)
-- [Décret n°2006-826 du 10 juillet 2006 (SOCC0611264D)](decret-n2006-826-du-10-juillet-2006-socc0611264d)
 - [Décret n°2006-534 du 10 mai 2006 (EQUT0600631D)](decret-n2006-534-du-10-mai-2006-equt0600631d)
 - [Décret du 11 juillet 2006 (AGRP0600940D)](decret-du-11-juillet-2006-agrp0600940d)
 - [Décret du 11 juillet 2006 (AGRP0600941D)](decret-du-11-juillet-2006-agrp0600941d)
