@@ -24,7 +24,9 @@ b) La direction centrale du matériel de l'armée de terre ;
 
 c) Le service de la trésorerie aux armées ;
 
-d) La direction centrale du commissariat de l'armée de terre (2) ;
+d) (Abrogé) ;
+
+e) La direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels terrestres ;
 
 3° L'état-major de la marine, sous l'autorité du chef d'état-major de la marine. Outre l'inspection de la marine nationale, relèvent de celui-ci les organismes suivants :
 
@@ -32,7 +34,7 @@ a) La direction du personnel militaire de la marine ;
 
 b) La direction centrale du service de soutien de la flotte ;
 
-c) La direction centrale du commissariat de la marine (2) ;
+c) (Abrogé) ;
 
 4° L'état-major de l'armée de l'air, sous l'autorité du chef d'état-major de l'armée de l'air. Outre l'inspection de l'armée de l'air, relèvent de celui-ci les organismes suivants :
 
@@ -42,7 +44,7 @@ b) La direction centrale de la structure intégrée du maintien en condition op�
 
 c) La direction centrale du service industriel de l'aéronautique ;
 
-d) La direction centrale du service de l'administration générale et des finances de l'armée de l'air (2).
+d) (Abrogé).
 
 II. ― Le contrôle général des armées.
 
