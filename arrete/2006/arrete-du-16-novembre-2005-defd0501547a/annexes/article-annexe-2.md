@@ -45,7 +45,7 @@ COMPÉTENCES EN MATIÈRE DE GESTION DU MATÉRIEL
 <tr>
 <td valign="top" width="151"/>
 <td valign="top" width="378">
-<p>L'ensemble des directeurs et chefs de service des organismes centraux relevant des chefs d'états-majors d'armée à l'exception, d'une part, des directeurs centraux des ressources humaines de l'armée de terre, de l'armée de l'air et du directeur central du personnel militaire de la marine non compétents en la matière et des directeurs centraux du service du soutien de la flotte et de la structure intégrée du maintien en condition opérationnelle du matériel aéronautique du ministère de la défense et du service industriel de l'aéronautique, d'autre part, non concernés par la limitation de l'espèce. </p>
+<p>Le sous-chef d'état-major "soutiens et finances" de l'état-major de la marine et l'ensemble des directeurs et chefs des organismes centraux relevant des chefs d'états-majors d'armée à l'exception, d'une part, des directeurs centraux des ressources humaines de l'armée de terre, de l'armée de l'air et du directeur central du personnel militaire de la marine non compétents en la matière et des directeurs centraux du service du soutien de la flotte et de la structure intégrée du maintien en condition opérationnelle du matériel aéronautique du ministère de la défense et du service industriel de l'aéronautique, d'autre part, non concernés par la limitation de l'espèce. </p>
 </td>
 <td valign="top" width="170">
 <p>Le chef d'état-major d'armée concerné. </p>
@@ -92,7 +92,7 @@ COMPÉTENCES EN MATIÈRE DE GESTION DU MATÉRIEL
 <tr>
 <td valign="top" width="151"/>
 <td valign="top" width="378">
-<p>L'ensemble des directeurs des organismes centraux relevant des chefs d'états-majors d'armée à l'exception des directeurs centraux des ressources humaines de l'armée de terre, de l'armée de l'air et du directeur central du personnel militaire de la marine non compétents en la matière. </p>
+<p>Le sous-chef d'état-major "soutiens et finances" de l'état-major de la marine et l'ensemble des directeurs des organismes centraux relevant des chefs d'états-majors d'armée à l'exception des directeurs centraux des ressources humaines de l'armée de terre, de l'armée de l'air et du directeur central du personnel militaire de la marine non compétents en la matière. </p>
 </td>
 <td valign="top" width="170">
 <p>Dans la limite de 110 000 euros correspondant à la valeur d'inventaire des matériels. </p>

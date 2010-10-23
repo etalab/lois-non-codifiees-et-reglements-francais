@@ -4,7 +4,7 @@ La délégation de pouvoirs prévue à l'article 10 du décret du 14 février 19
 
 I.-Dans les armées :
 
-1. Commandant de corps d'armée ;
+1. 1. Commandant de corps d'armée ;
 
 Commandant de la force d'action rapide ;
 
@@ -32,7 +32,9 @@ Commandant de force maritime indépendant ;
 
 Commandant interarmées ;
 
-5. Directeur local de service.
+5. Directeur local de service ;
+
+6. Directeur du service logistique de la marine.
 
 II.-Gendarmerie nationale :
 
@@ -57,6 +59,16 @@ Directeur local du service ;
 Commandant du centre d'instruction du service des essences des armées ;
 
 Directeur du laboratoire du service des essences des armées.
+
+IV bis. - Service du commissariat des armées :
+
+Directeur du centre d'expertise de soutien général des armées ;
+
+Directeur du centre d'expertise du soutien du combattant et des forces ;
+
+Directeur du commissariat d'outre-mer ;
+
+Directeur du commissariat en opération extérieure.
 
 V. Délégation générale pour l'armement (hors compte de commerce : pour tous les matériels ; en compte de commerce : pour les matériels approvisionnés sur crédits budgétaires) :
 

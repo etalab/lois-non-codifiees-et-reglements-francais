@@ -8,6 +8,8 @@ Directeurs ou chefs de service figurant à l'article 1er relevant d'une autre au
 
 Chefs de brigade aérienne du commandement du soutien des forces aériennes ;
 
-Commandants de formation administrative ;
+Directeurs des plates-formes achats finances et directeurs des établissements du service du commissariat des armées détenant des matériels en approvisionnement ;
+
+Commandants de formation administrative chargées du soutien en opérations extérieures ;
 
 Directeurs régionaux du service de la surveillance industrielle de l'armement.
