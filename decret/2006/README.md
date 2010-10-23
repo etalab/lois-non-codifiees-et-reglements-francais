@@ -7,6 +7,7 @@
 - [Décret n°2006-640 du 1 juin 2006 (JUSC0620318D)](decret-n2006-640-du-1-juin-2006-jusc0620318d)
 - [Décret n°2006-96 du 1 février 2006 (ECOP0500988D)](decret-n2006-96-du-1-fevrier-2006-ecop0500988d)
 - [Décret n°2006-966 du 1 août 2006 (PMEA0620059D)](decret-n2006-966-du-1-aout-2006-pmea0620059d)
+- [Décret n°97-892 du 1 octobre 1997 (AGRA9701622D)](decret-n97-892-du-1-octobre-1997-agra9701622d)
 - [Décret du 2 novembre 2006 (ECOC0600114D)](decret-du-2-novembre-2006-ecoc0600114d)
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2006-1332 du 2 novembre 2006 (SANH0624383D)](decret-n2006-1332-du-2-novembre-2006-sanh0624383d)
