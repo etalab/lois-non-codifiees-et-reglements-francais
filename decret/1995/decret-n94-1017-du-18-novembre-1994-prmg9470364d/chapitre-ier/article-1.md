@@ -18,8 +18,6 @@ b) Corps d'établissements publics de l'Etat :
 
 - secrétaires administratifs de l'Office national des forêts ;
 
-- secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'Agence de services et de paiement ;
-
 - secrétaires d'administration de la Caisse des dépôts et consignations.
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
