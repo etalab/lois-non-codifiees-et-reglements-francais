@@ -14,4 +14,12 @@ Institut national de formation des personnels du ministère de l'agriculture ;
 
 Agence française de sécurité sanitaire des aliments ;
 
-Etablissement public Institut français du cheval et de l'équitation.
+Etablissement public Institut français du cheval et de l'équitation ;
+
+Etablissement national des produits de l'agriculture et de la mer ;
+
+Agence de services et de paiement ;
+
+Institut national de l'origine et de la qualité ;
+
+Office de développement de l'économie agricole d'outre-mer.

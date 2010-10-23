@@ -10,7 +10,7 @@ c) D'un officier général chef du maintien en condition opérationnelle des mat
 
 d) Du délégué aux réserves de l'armée de terre qui assure, par ailleurs, la fonction de directeur de l'Ecole supérieure des officiers de réserve spécialistes d'état-major.
 
-2.L'état-major de l'armée de terre comprend en outre trois sous-chefs d'état-major :
+2. L'état-major de l'armée de terre comprend en outre trois sous-chefs d'état-major :
 
 a) Le sous-chef d'état-major " performance et synthèse " ;
 
@@ -22,13 +22,15 @@ c) Le sous-chef d'état-major " emploi et soutien ".
 
 a) Des organismes rattachés suivants :
 
--le centre de doctrine et d'emploi des forces ;
+- le centre de doctrine et d'emploi des forces ;
 
--la section technique de l'armée de terre ;
+- la section technique de l'armée de terre ;
 
--le commandement de l'aviation légère de l'armée de terre ;
+- le commandement de l'aviation légère de l'armée de terre ;
 
--le commandement de la légion étrangère ;
+- le commandement de la légion étrangère ;
+
+- le service de la maintenance industrielle terrestre.
 
 b) D'un officier général chargé des relations internationales et du soutien aux exportations ;
 

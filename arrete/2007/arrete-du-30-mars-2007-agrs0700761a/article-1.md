@@ -314,53 +314,9 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 **II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
 
-Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat.
-
-Adjoint au secrétaire général et responsable des ressources humaines de l'Ecole nationale vétérinaire de Toulouse.
-
-Chef du service financier de Montpellier Sup Agro.
-
-Gestionnaire administratif et financier de l'Etablissement national d'enseignement supérieur agronomique de Dijon.
-
-Gestionnaire administratif et financier de l'établissement public local d'Avize, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Bordeaux-Blanquefort, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Chambéry, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local des Landes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
-
-Gestionnaire administratif et financier de l'établissement public local de Lons-le-Saunier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
-
-Responsable du service financier de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2009).
-
-Responsable du service des ressources humaines de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2010)
-
-Gestionnaire administratif et financier de l'établissement public local de Nevers-Cosnes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Nîmes-Rodilhan, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local d'Ondes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Pontivy, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Rennes-Le Rheu, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Romans, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
-
-Gestionnaire administratif et financier de l'établissement public local de Saint-Germain-en-Laye, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Saint-Joseph, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
-
-Gestionnaire administratif et financier de l'établissement public local de Toulouse, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Valence, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA).
-
-Gestionnaire administratif et financier de l'établissement public local de la Guadeloupe, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
+<div align="left">Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat. <br/>Adjoint au secrétaire général et responsable des ressources humaines de l'Ecole nationale vétérinaire de Toulouse. <br/>Chef du service financier de Montpellier Sup Agro. <br/>Gestionnaire administratif et financier de l'Etablissement national d'enseignement supérieur agronomique de Dijon. <br/>Gestionnaire administratif et financier de l'établissement public local d'Avize, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Bordeaux-Blanquefort, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Chambéry, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.<br/>Gestionnaire administratif et financier de l'établissement public local des Landes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).<br/>Gestionnaire administratif et financier de l'établissement public local de Lons-le-Saunier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).<br/>Responsable du service financier de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2009). <br/>Responsable du service des ressources humaines de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2010)<br/>Gestionnaire administratif et financier de l'établissement public local de Nevers-Cosnes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Nîmes-Rodilhan, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local d'Ondes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Pontivy, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Rennes-Le Rheu, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.<br/>Gestionnaire administratif et financier de l'établissement public local de Romans, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). <br/>Gestionnaire administratif et financier de l'établissement public local de Saint-Germain-en-Laye, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.<br/>Gestionnaire administratif et financier de l'établissement public local de Saint-Joseph, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009). <br/>Gestionnaire administratif et financier de l'établissement public local de Toulouse, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique. <br/>Gestionnaire administratif et financier de l'établissement public local de Valence, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.<br/>Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA). <br/>Gestionnaire administratif et financier de l'établissement public local de la Guadeloupe, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).<br/>
+<br/>
+</div>
 
 **III.-Dans les services du ministère de l'écologie et du développement durable**
 
@@ -426,6 +382,62 @@ Gestionnaire administratif et financier de l'établissement public local de la G
 
 -expert de niveau international en gestion des déchets municipaux au groupement de Rennes.
 
-**d) Dans les services de l'Etablissement national des produits de l'agriculture et de la mer, de l'Agence de services et de paiement, de l'Institut national de l'origine et de la qualité et de l'office par le développement de l'économie agricole des départements d'outre-mer** :
+**d) Dans les services du siège de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer)** :
 
--chef de la mission diffusion qualité à l'Etablissement national des produits de l'agriculture et de la mer (à compter du 1er avril 2009).
+- chef de la mission diffusion qualité à la direction marchés, études et prospective ;
+
+- chargé de mission coordination des déclarations communautaires et des contrôles externes à la direction régularité et sécurité des systèmes et des opérations ;
+
+- adjoint au chef de l'unité budget au secrétariat général ;
+
+- chef de l'unité emploi, mobilité, annuaire au secrétariat général ;
+
+- chef de l'unité structuration de données à la direction marchés, études et prospective ;
+
+- chef de l'unité restructuration et diversification sucrière à la direction gestion des aides ;
+
+- chef de l'unité grandes cultures à la direction marchés, études et prospective ;
+
+- chef de la mission sucre et délégué filière sucre à la direction marchés, études et prospective ;
+
+- chef de l'unité cotations et information conjoncture à la direction marchés, études et prospective.
+
+**e) Dans les services territoriaux de l'Etablissement national des produits de l'agriculture et de la mer** :
+
+- responsable de pôle territorial animation filières en Midi-Pyrénées ;
+
+- responsable du pôle FranceAgriMer Franche-Comté ;
+
+- responsable du service FranceAgriMer Nord-Pas-de-Calais ;
+
+- responsable du pôle FranceAgriMer Basse-Normandie.
+
+**f) Dans les services du siège de l'Agence de services et de paiement** :
+
+- chef du service des contrôles en exploitations surfaces et animaux à la direction des contrôles ;
+
+- chef du service organisation, méthodes et procédures à la direction des ressources humaines ;
+
+- responsable de l'antenne de Montreuil à la direction des ressources humaines ;
+
+- auditeur au service d'audit.
+
+**g) En délégation régionale de l'Agence de services et de paiement** :
+
+- délégué régional Aquitaine ;
+
+- délégué régional Nord-Pas-de-Calais ;
+
+- délégué régional Auvergne ;
+
+- délégué régional Franche-Comté ;
+
+- délégué régional Lorraine ;
+
+- délégué régional Champagne-Ardenne ;
+
+- délégué régional Mayotte ;
+
+- délégué régional adjoint Aquitaine ;
+
+- délégué régional adjoint Rhône-Alpes.
