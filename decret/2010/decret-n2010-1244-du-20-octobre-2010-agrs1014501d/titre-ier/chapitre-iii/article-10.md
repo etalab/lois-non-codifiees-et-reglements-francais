@@ -1,0 +1,7 @@
+# Article 10
+
+Les tableaux d'avancement établis au titre de l'année 2010 pour l'accès au grade de secrétaire administratif de classe exceptionnelle et de secrétaire administratif de classe supérieure des corps des secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer et de l'Agence de services et de paiement demeurent valables jusqu'au 31 décembre 2010, au titre du corps des secrétaires administratifs du ministère de l'agriculture et de la pêche.
+
+Les agents intégrés dans le corps des secrétaires administratifs du ministère de l'agriculture et de la pêche sont classés dans ce corps en prenant en compte la situation qui aurait été la leur s'ils avaient été promus dans leur corps d'origine puis reclassés dans le corps des secrétaires administratifs du ministère de l'agriculture et de la pêche en application des dispositions du II de l'article 7.
+
+Les agents intégrés dans le corps des techniciens supérieurs des services du ministère chargé de l'agriculture sont classés dans le grade de chef technicien ou de technicien principal en prenant en compte la situation qui aurait été la leur s'ils avaient été promus dans le grade de secrétaire administratif de classe exceptionnelle ou de secrétaire administratif de classe supérieure du ministère de l'agriculture et de la pêche puis reclassés dans le grade de chef technicien ou de technicien principal en application des dispositions du III de l'article 7.

@@ -1,0 +1,5 @@
+# Article 9
+
+Les agents qui, à la date de leur titularisation, sont mis à disposition auprès d'administrations ou de services autres que ceux du ministre chargé de l'agriculture en application du 1° de l'article 41 bis du décret du 30 décembre 1983 susvisé et des articles 23 et 40 du décret du 19 juillet 2002 susvisé sont, dans le délai d'un mois à compter de cette même date, et sauf opposition d'une des parties concernées, mis à disposition dans les conditions prévues par le décret du 16 septembre 1985 susvisé auprès de la structure au sein de laquelle ils exercent leurs fonctions.
+
+Les agents qui, à la date de leur titularisation, sont placés en disponibilité en application du 2° de l'article 41 bis du décret du 30 décembre 1983 susvisé à la date de leur titularisation et qui ne sont pas affectés dans les services du ministre chargé de l'agriculture sont, dans le délai d'un mois à compter de cette même date, et sauf opposition d'une des parties concernées, détachés sur l'emploi qu'ils occupent dans les conditions prévues par le décret du 16 septembre 1985 précité.

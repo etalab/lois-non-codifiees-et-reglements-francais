@@ -1,0 +1,7 @@
+# Article 4
+
+Le tableau d'avancement établi au titre de l'année 2010 pour l'accès au grade d'attaché principal de 2e classe de l'Etablissement national des produits de l'agriculture et de la mer et de l'Agence de services et de paiement et la liste d'admission au concours professionnel d'accès à ce même grade demeurent valables jusqu'au 31 décembre 2010, au titre du corps des attachés d'administration du ministère de l'agriculture et de la pêche.
+
+Les concours professionnels d'accès au grade d'attaché principal de 2e classe dont la date de clôture des inscriptions intervient avant la date d'entrée en vigueur du présent décret sont régis par les dispositions de l'article 30 du décret du 1er octobre 1997 susvisé et se poursuivent jusqu'à leur terme.
+
+Les agents concernés par les dispositions des premier et deuxième alinéas sont classés, selon les cas, dans le grade d'attaché principal du corps des attachés d'administration du ministère de l'agriculture et de la pêche ou dans le grade d'ingénieur divisionnaire du corps des ingénieurs de l'agriculture et de l'environnement en prenant en compte la situation qui aurait été la leur s'ils avaient été promus dans le grade d'attaché principal de 2e classe du corps administratif supérieur puis reclassés dans le grade d'attaché principal du ministère de l'agriculture et de la pêche ou dans le grade d'ingénieur divisionnaire de l'agriculture et de l'environnement en application des dispositions, respectivement, du II et du III de l'article 1er.
