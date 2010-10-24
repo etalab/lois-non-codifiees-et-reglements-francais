@@ -1,6 +1,6 @@
 # Article 2
 
-La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 110 100 € en 2008.
+La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 3,5 fois le plafond prévu à l'article L. 241-3 du code de la sécurité sociale en vigueur le 1er janvier de l'année au cours de laquelle la cotisation est appelée..
 
 Ce plafond évolue chaque année comme la variation, entre le 1er septembre de l'avant-dernière année et le 1er septembre de l'année précédente, de l'indice mensuel des prix à la consommation de l'ensemble des ménages, publié par l'Institut national de la statistique et des études économiques.
 
@@ -10,7 +10,7 @@ Les médecins bénéficiaires de l'allocation instituée par l'article 4 de la l
 
 Les statuts mentionnés au premier alinéa de l'article 5 du présent décret peuvent prévoir des modalités de cotisations particulières pour les adhérents qui n'exercent plus une activité médicale non salariée.
 
-Le versement de la cotisation annuelle correspond au plafond mentionné au second alinéa du présent article donne droit à attribution de 10 points de retraite. Le nombre de points est calculé au prorata lorsque la cotisation est d'un montant inférieur.
+Le versement de la cotisation annuelle correspond au plafond mentionné au premier alinéa du présent article donne droit à attribution de 10 points de retraite. Le nombre de points est calculé au prorata lorsque la cotisation est d'un montant inférieur.
 
 L'alinéa précédent n'est pas applicable aux médecins bénéficiaires de la retraite complémentaire et exerçant une activité médicale libérale. Ces derniers ne peuvent obtenir aucun nouveau droit à retraite au titre des cotisations versées.
 
