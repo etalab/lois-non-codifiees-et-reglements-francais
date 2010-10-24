@@ -32,4 +32,6 @@ En préalable à l'établissement du contrat de location, le bailleur ne peut de
 
 -remise sur un compte bloqué de biens, d'effets, de valeurs ou d'une somme d'argent correspondant à plus d'un mois de loyer en principal en l'absence du dépôt de garantie ou de la souscription de la garantie autonome prévue à l'article 2321 du code civil ;
 
--production de plus de deux bilans pour les travailleurs indépendants.
+-production de plus de deux bilans pour les travailleurs indépendants ;
+
+- une copie des informations contenues dans le fichier national des incidents de remboursement des crédits aux particuliers ou de l'information de la non-inscription à ce fichier.

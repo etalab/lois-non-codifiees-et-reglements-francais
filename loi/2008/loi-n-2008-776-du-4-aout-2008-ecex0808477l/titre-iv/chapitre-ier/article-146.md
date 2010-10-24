@@ -6,9 +6,11 @@ I. - 1. Les conventions conclues antérieurement au 1er janvier 2009 en applicat
 
 3. Les établissements qui distribuent le livret A et le compte spécial sur livret du Crédit mutuel avant l'entrée en vigueur de la présente loi perçoivent une rémunération complémentaire à la rémunération prévue à l'article L. 221-6 du code monétaire et financier. Cette rémunération est supportée par le fonds prévu à l'article L. 221-7 du même code. Un décret en Conseil d'Etat fixe, pour chacun de ces établissements, la durée pendant laquelle cette rémunération est versée ainsi que son montant pour chacune des années concernées. Ce décret est pris après avis de la commission de surveillance de la Caisse des dépôts et consignations.
 
+Le présent 3 est applicable en Nouvelle-Calédonie. Pour l'application de ces dispositions, les mots : "et le compte spécial sur livret du Crédit mutuel" sont supprimés.
+
 4. Pour ouvrir un livret A dans un autre établissement, les titulaires des livrets mentionnés au 2 doivent clôturer le premier livret ou en demander le transfert vers le nouvel établissement. Un arrêté du ministre chargé de l'économie fixe les conditions dans lesquelles ces transferts sont réalisés, ainsi que les délais que doivent respecter les établissements pour procéder au transfert demandé.
 
-II. - Les fonds dénommés fonds livret A CNE », fonds de réserve et de garantie CNE », fonds livret A CEP », fonds de réserve et de garantie CEP », fonds LEP », fonds de réserve du LEP », fonds livret de développement durable », fonds de réserve pour le financement du logement », fonds de garantie des sociétés de développement régional » et autres fonds d'épargne », tels que retracés dans les comptes produits par la Caisse des dépôts et consignations, sont fusionnés au 1er janvier 2009 au sein du fonds d'épargne prévu à l'article L. 221-7 du code monétaire et financier.
+II. - Les fonds dénommés fonds livret A CNE , fonds de réserve et de garantie CNE , fonds livret A CEP , fonds de réserve et de garantie CEP , fonds LEP , fonds de réserve du LEP , fonds livret de développement durable , fonds de réserve pour le financement du logement , fonds de garantie des sociétés de développement régional  et autres fonds d'épargne , tels que retracés dans les comptes produits par la Caisse des dépôts et consignations, sont fusionnés au 1er janvier 2009 au sein du fonds d'épargne prévu à l'article L. 221-7 du code monétaire et financier.
 
 III. - 1. Les dépôts du livret A reçus au 31 décembre 2008 par la Caisse nationale d'épargne en application de l'article L. 518-26 du code monétaire et financier, les dettes qui y sont attachées et la créance détenue à la même date par la Caisse nationale d'épargne sur la Caisse des dépôts et consignations au titre de la centralisation des dépôts du livret A sont transférés au 1er janvier 2009 à l'établissement de crédit mentionné à l'article L. 518-25-1 du même code. Les droits et obligations relatifs à ces éléments de bilan sont également transférés à cet établissement. Les autres actifs, passifs, droits et obligations de la Caisse nationale d'épargne sont transférés au 1er janvier 2009 au bénéfice du fonds d'épargne prévu à l'article L. 221-7 du même code.
 
@@ -25,6 +27,9 @@ A modifié les dispositions suivantes :
 
 > - Code monétaire et financier
 > > Sct. Section 4 : La Caisse nationale d'épargne., Art. L518-26, Art. L518-27, Art. L518-28, Sct. Sous-section 7 : Fonds de réserve et de garantie., Art. L512-101
+> >
+> >
+> >
 > >
 > >
 > >

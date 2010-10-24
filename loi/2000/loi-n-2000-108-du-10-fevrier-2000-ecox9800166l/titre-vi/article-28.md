@@ -6,6 +6,8 @@ Elle veille, en particulier, à ce que les conditions d'accès aux réseaux de t
 
 Elle surveille, pour l'électricité et pour le gaz naturel, les transactions effectuées entre fournisseurs, négociants et producteurs, les transactions effectuées sur les marchés organisés ainsi que les échanges aux frontières. Elle s'assure de la cohérence des offres des fournisseurs, négociants et producteurs avec leurs contraintes économiques et techniques.
 
+Dans le cadre de l'exercice de ses missions, la Commission de régulation de l'énergie surveille les transactions effectuées par les fournisseurs, négociants et producteurs d'électricité et de gaz naturel sur des quotas d'émission de gaz à effet de serre, tels que définis à l'article L. 229-15 du code de l'environnement, et sur les autres unités mentionnées au chapitre IX du titre II du livre II du même code, ainsi que sur les contrats et instruments financiers à terme dont ils constituent le sous-jacent, afin d'analyser la cohérence de ces transactions avec les contraintes économiques, techniques et réglementaires de l'activité de ces fournisseurs, négociants et producteurs d'électricité et de gaz naturel.
+
 La Commission de régulation de l'énergie comprend un collège et un comité de règlement des différends et des sanctions.
 
 Sauf disposition contraire, les attributions confiées à la Commission de régulation de l'énergie ou à son président sont respectivement exercées par le collège ou par son président.

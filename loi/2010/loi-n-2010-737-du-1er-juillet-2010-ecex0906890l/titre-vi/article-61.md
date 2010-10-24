@@ -10,6 +10,10 @@ L'article 4 s'applique, selon des modalités fixées par décret, à compter du 
 
 L'article 1er s'applique à compter du premier jour du troisième trimestre civil suivant le jour de la publication de la présente loi.
 
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le A et le 2° du B du II de l'article 13 et les articles 21 à 25 entrent en vigueur le premier jour suivant la date de promulgation de la loi n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière.
+
+Pour l'application du IV de l'article 38 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, la date du 1er novembre 2009 est remplacée au premier alinéa des A et B par la date du 1er juillet 2010.
+
 II. ― Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont applicables progressivement aux contrats de crédit renouvelables en cours à la date d'entrée en vigueur de la présente loi les règles prévues aux sections 4 à 7 du chapitre Ier du titre Ier du livre III du code de la consommation dans leur rédaction issue de la présente loi.
 
 III. ― Les dispositions mentionnées aux articles L. 311-21 et L. 311-44 du code de la consommation, ainsi qu'à la seconde phrase du premier alinéa et au second alinéa de l'article L. 311-46 du même code s'appliquent aux autorisations de découvert à durée indéterminée en cours à compter de l'entrée en vigueur de la présente loi.

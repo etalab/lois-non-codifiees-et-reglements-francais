@@ -64,7 +64,7 @@ Il propose et met en œuvre les mesures visant à améliorer le financement des 
 
 Il représente la direction générale dans les organismes ou comités qui contribuent au financement des entreprises et exerce notamment la tutelle d'OSEO, en liaison avec la direction générale de la compétitivité, de l'industrie et des services et le ministère chargé de la recherche.
 
-Il représente la direction générale dans les organismes ou comités qui contribuent au financement de l'innovation, de l'audiovisuel et des industries culturelles, notamment OSEO Innovation, CDC Entreprises, l'Institut pour le financement du cinéma et des industries culturelles (IFCIC) et le Centre national de la cinématographie (CNC).
+Il représente la direction générale dans les organismes ou comités qui contribuent au financement de l'innovation, de l'audiovisuel et des industries culturelles, notamment la société anonyme OSEO, CDC Entreprises, l'Institut pour le financement du cinéma et des industries culturelles (IFCIC) et le Centre national de la cinématographie (CNC).
 
 Il contribue à la mise en œuvre des procédures de financement de l'agriculture.
 
