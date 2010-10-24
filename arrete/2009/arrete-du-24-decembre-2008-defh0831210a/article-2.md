@@ -26,7 +26,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la politique domaniale à la direction de la mémoire, du patrimoine et des archives ;
 
--  chef du bureau de la vie associative et des commémorations à la direction de la mémoire, du patrimoine et des archives ;
+- chef du bureau de la vie associative et des commémorations à la direction de la mémoire, du patrimoine et des archives ;
 
 - chef du bureau de la réglementation des primes et des indemnités à la direction des ressources humaines du ministère de la défense ;
 
@@ -58,7 +58,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - directeur interrégional des anciens combattants de Rennes ;
 
-- directeur interdépartemental des anciens combattants de Strasbourg ;
+- chef de division recrutement-formation du centre ministériel de gestion de Metz ;
 
 - adjoint au directeur du centre ministériel de gestion de Toulon ;
 
