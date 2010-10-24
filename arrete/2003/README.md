@@ -498,7 +498,6 @@
 - [Arrêté du 17 juin 2003 (JUSF0350054A)](arrete-du-17-juin-2003-jusf0350054a)
 - [Arrêté du 17 juin 2003 (MENE0301281A)](arrete-du-17-juin-2003-mene0301281a)
 - [Arrêté du 17 juin 2003 (MENJ0301331A)](arrete-du-17-juin-2003-menj0301331a)
-- [Arrêté du 17 mars 2003 (DEVP0320174A)](arrete-du-17-mars-2003-devp0320174a)
 - [Arrêté du 17 mars 2003 (INDI0301276A)](arrete-du-17-mars-2003-indi0301276a)
 - [Arrêté du 17 mars 2003 (INDI0301278A)](arrete-du-17-mars-2003-indi0301278a)
 - [Arrêté du 17 novembre 2003 (ECOP0300955A)](arrete-du-17-novembre-2003-ecop0300955a)
