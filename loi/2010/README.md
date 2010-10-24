@@ -5,6 +5,7 @@
 - [LOI n° 2010-1149 du 30 septembre 2010 (MCCX1016100L)](loi-n-2010-1149-du-30-septembre-2010-mccx1016100l)
 - [LOI n° 2010-1192 du 11 octobre 2010 (JUSX1011390L)](loi-n-2010-1192-du-11-octobre-2010-jusx1011390l)
 - [LOI n° 2010-1215 du 15 octobre 2010 (MTSX1011211L)](loi-n-2010-1215-du-15-octobre-2010-mtsx1011211l)
+- [LOI n° 2010-1249 du 22 octobre 2010 (ECEX0928177L)](loi-n-2010-1249-du-22-octobre-2010-ecex0928177l)
 - [LOI n° 2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n-2010-241-du-10-mars-2010-prmx0925425l)
 - [LOI n° 2010-729 du 30 juin 2010 (SASX1008554L)](loi-n-2010-729-du-30-juin-2010-sasx1008554l)
 - [LOI n° 2010-737 du 1er juillet 2010 (ECEX0906890L)](loi-n-2010-737-du-1er-juillet-2010-ecex0906890l)
