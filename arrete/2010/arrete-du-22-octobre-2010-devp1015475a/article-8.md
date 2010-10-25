@@ -1,0 +1,3 @@
+# Article 8
+
+Le directeur général de la prévention des risques, le directeur général de l'aviation civile et le directeur général de l'aménagement, du logement et de la nature au ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, le directeur de la sécurité civile, le directeur général des collectivités locales et le délégué général à l'outre-mer au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
