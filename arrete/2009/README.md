@@ -416,7 +416,6 @@
 - [Arrêté du 6 mai 2009 (IOCA0910389A)](arrete-du-6-mai-2009-ioca0910389a)
 - [Arrêté du 6 mai 2009 (SASG0904904A)](arrete-du-6-mai-2009-sasg0904904a)
 - [Arrêté du 6 mai 2009 (SASP0910443A)](arrete-du-6-mai-2009-sasp0910443a)
-- [Arrêté du 7 août 2009 (AGRM0915063A)](arrete-du-7-aout-2009-agrm0915063a)
 - [Arrêté du 7 août 2009 (AGRT0918902A)](arrete-du-7-aout-2009-agrt0918902a)
 - [Arrêté du 7 août 2009 (DEVT0910793A)](arrete-du-7-aout-2009-devt0910793a)
 - [Arrêté du 7 août 2009 (DEVT0916606A)](arrete-du-7-aout-2009-devt0916606a)
