@@ -178,7 +178,9 @@ Les données ci-dessous sont contenues dans la base de données nationale d'iden
 
 ― commune du site porcin ;
 
-― code pays du détenteur.
+― code pays du détenteur ;
+
+- limitation de mouvements
 
 1-D Données relatives à l'identification des animaux :
 
@@ -221,6 +223,20 @@ Date et heure du chargement ou du déchargement.
 ― le nombre d'animaux déplacés ;
 
 ― le type d'animaux (porcelets 8 kg, porcelets 25 kg, porcs charcutiers, reproducteurs, réformes, morts transport).
+
+1-E. 5 Informations concernant le lieu de détention des animaux :
+
+- coordonnées géographiques ;
+
+- type d'élevage ;
+
+- type de production ;
+
+- mode d'élevage ;
+
+- nombre de places.
+
+Le gestionnaire de la base de données nationale d'identification des porcins fournit les informations mentionnées au point 1-E. 5. au ministère en charge de l'agriculture ainsi qu'aux directions départementales en charge de la protection des populations.
 
 Le gestionnaire de la base de données nationale d'identification des porcins gère et met en place les mesures correctives de l'ensemble des anomalies listées ci-dessous, qui peuvent être relevées et / ou générées lors de la notification des mouvements :
 
