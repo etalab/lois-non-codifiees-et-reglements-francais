@@ -106,6 +106,7 @@
 - [Décret n°2005-875 du 25 juillet 2005 (ECOT0420065D)](decret-n2005-875-du-25-juillet-2005-ecot0420065d)
 - [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)
 - [Décret n° 2005-1215 du 26 septembre 2005 (FPPA0500078D)](decret-n-2005-1215-du-26-septembre-2005-fppa0500078d)
+- [Décret n°2005-1325 du 26 octobre 2005 (DEFD0501378D)](decret-n2005-1325-du-26-octobre-2005-defd0501378d)
 - [Décret n°2005-1632 du 26 décembre 2005 (JUSD0530148D)](decret-n2005-1632-du-26-decembre-2005-jusd0530148d)
 - [Décret n°2005-1635 du 26 décembre 2005 (SANS0524634D)](decret-n2005-1635-du-26-decembre-2005-sans0524634d)
 - [Décret n°2005-1637 du 26 décembre 2005 (SANS0524636D)](decret-n2005-1637-du-26-decembre-2005-sans0524636d)
