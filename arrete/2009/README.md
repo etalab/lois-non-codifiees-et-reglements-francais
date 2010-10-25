@@ -2000,7 +2000,6 @@
 - [Arrêté du 22 octobre 2009 (MTST0922265A)](arrete-du-22-octobre-2009-mtst0922265a)
 - [Arrêté du 22 octobre 2009 (MTST0922610A)](arrete-du-22-octobre-2009-mtst0922610a)
 - [Arrêté du 22 octobre 2009 (MTST0930198A)](arrete-du-22-octobre-2009-mtst0930198a)
-- [Arrêté du 22 septembre 2009 (AGRT0915840A)](arrete-du-22-septembre-2009-agrt0915840a)
 - [Arrêté du 22 septembre 2009 (DEVA0916281A)](arrete-du-22-septembre-2009-deva0916281a)
 - [Arrêté du 22 septembre 2009 (DEVA0916285A)](arrete-du-22-septembre-2009-deva0916285a)
 - [Arrêté du 22 septembre 2009 (DEVL0922054A)](arrete-du-22-septembre-2009-devl0922054a)
