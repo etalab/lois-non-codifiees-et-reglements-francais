@@ -727,6 +727,7 @@
 - [Décret n°2002-407 du 25 mars 2002 (PRMX0205452D)](decret-n2002-407-du-25-mars-2002-prmx0205452d)
 - [Décret n°2008-176 du 25 février 2008 (DEVA0771224D)](decret-n2008-176-du-25-fevrier-2008-deva0771224d)
 - [Décret n°2009-1442 du 25 novembre 2009 (ECED0910713D)](decret-n2009-1442-du-25-novembre-2009-eced0910713d)
+- [Décret n°2010-1267 du 25 octobre 2010 (MCCE1026367D)](decret-n2010-1267-du-25-octobre-2010-mcce1026367d)
 - [Décret n°2010-182 du 25 février 2010 (DEVE0929519D)](decret-n2010-182-du-25-fevrier-2010-deve0929519d)
 - [Décret n°2010-192 du 25 février 2010 (BCFP0930575D)](decret-n2010-192-du-25-fevrier-2010-bcfp0930575d)
 - [Décret n°2010-193 du 25 février 2010 (BCFP0930577D)](decret-n2010-193-du-25-fevrier-2010-bcfp0930577d)
