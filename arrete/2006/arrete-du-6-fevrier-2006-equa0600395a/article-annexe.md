@@ -67,3 +67,5 @@ Paris―Dakar (Sénégal).
 Jusqu'au 31 août 2015
 
 Paris-Batna (Algérie).
+
+Paris - Bagdad (Irak).
