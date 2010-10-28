@@ -1,3 +1,0 @@
-# LISTE DES DONNÉES FAISANT L'OBJET DU TRAITEMENT AUTOMATISÉ MENTIONNÉES A L'ARTICLE 2 (b).
-
-- [Article Annexe](article-annexe.md)
