@@ -4,9 +4,9 @@ Le conseil d'administration délibère sur :
 
 1° L'organisation générale de l'établissement et le règlement intérieur ;
 
-2° Le contrat d'objectifs et de moyens passé avec l'Etat, le budget de l'établissement, les décisions modificatives, le compte financier de chaque exercice et l'affectation des résultats ;
+2° Le contrat d'objectifs et de performance passé avec l'Etat, le budget de l'établissement, les décisions modificatives, le compte financier de chaque exercice et l'affectation des résultats ;
 
-3° Le tableau des emplois de l'établissement ;
+3° Le tableau des emplois de l'établissement ainsi que, sans préjudice des compétences du directeur général, définies notamment à l'article 15, dans la gestion de ces agents, sur les règles d'emploi et de rémunération des personnels mentionnés à l'article 21 qui ne sont pas fixées par un texte législatif ou réglementaire ;
 
 4° Le rapport annuel d'activité ;
 
@@ -22,4 +22,6 @@ Le conseil d'administration délibère sur :
 
 10° Les redevances pour services rendus ;
 
-11° Les participations à des groupements d'intérêt public.
+11° Les participations à des groupements d'intérêt public ;
+
+12° Les modalités générales d'accompagnement personnalisé des professionnels dans le cadre de la recherche d'affectation ou, le cas échéant, en dehors de ce cadre.

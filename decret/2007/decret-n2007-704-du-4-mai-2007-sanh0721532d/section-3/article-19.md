@@ -14,6 +14,8 @@ A défaut de notification du montant de la dotation globale avant le 1er janvier
 
 3° La contribution financière prévue au premier alinéa de l'article 116 de la loi du 9 janvier 1986 susvisée ;
 
+Chacun des établissements mentionnés à l'article 2 de la loi susvisée règle sa contribution au centre national de gestion dans les deux mois à compter de la publication de l'arrêté qui en fixe le taux et lui transmet, dans les mêmes délais, une déclaration des charges salariales induites par la rémunération de ses personnels.
+
 4° Le produit des redevances pour services rendus ;
 
 5° Les produits divers, dons et legs.
