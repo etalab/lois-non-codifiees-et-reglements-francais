@@ -10,6 +10,10 @@ Tout gain supérieur à 5 000 euros en paris "Tiercé", "Quarté plus" et "Quint
 
 Tout paiement d'un gain par le PMU supérieur à 300 euros peut, à la demande du parieur, faire l'objet d'un règlement par chèque sur présentation d'une pièce d'identité.
 
+En cas de pluralité de joueurs au titre du même pari, le porteur du récépissé gagnant doit remplir le formulaire de paiement d'un gain collectif mis à sa disposition par le PMU et indiquer les noms et prénoms des divers gagnants, dans la limite de dix maximum, et leur quote-part du gain, afin que le PMU établisse les chèques au nom des personnes physiques majeures indiquées, sur présentation des pièces d'identité correspondantes. Ceux-ci seront remis au porteur du récépissé, en sa qualité de mandataire présumé des différents gagnants.
+
+Le PMU ne pouvant connaître le nombre et l'identité des différents gagnants au titre d'un même récépissé, autrement que par la déclaration du porteur de celui-ci, il appartient aux parieurs de prendre toutes précautions utiles pour garantir leurs droits. Le PMU ne pourra en aucun cas être tenu responsable du fractionnement ou de la répartition des gains sollicitée par le porteur.
+
 Toute réclamation concernant le Pari mutuel urbain doit être déposée auprès du poste d'enregistrement émetteur ou éventuellement adressée au siège social du Pari mutuel urbain, 2, rue du Professeur-Florian-Delbarre, 75734 Paris Cedex 15. Pour être valable, la réclamation doit être accompagnée du récépissé, en échange duquel un reçu est délivré au parieur :
 
 Toute réclamation concernant une société de course doit être adressée au siège de la société dont l'adresse est indiquée sur le programme officiel de la réunion.
