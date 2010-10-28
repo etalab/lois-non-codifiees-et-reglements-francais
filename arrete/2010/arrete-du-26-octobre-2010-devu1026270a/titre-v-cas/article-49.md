@@ -1,0 +1,3 @@
+# Article 49
+
+Dans le cas où la méthode de calcul Th-BCE 2012 ne prend pas en compte les spécificités d'un système, d'un projet de construction ou d'un réseau de chaleur ou de froid, une demande d'agrément du projet ou de la méthode de justification de la performance du système ou du réseau de chaleur ou de froid doit être adressée au ministre chargé de la construction et de l'habitation et au ministre chargé de l'énergie. Elle est accompagnée d'un dossier d'études composé comme indiqué en annexe V qui établit notamment en quoi la méthode de calcul Th-BCE 2012 ne prend pas en compte les spécificités du système, du réseau de chaleur ou de froid, ou du projet de construction.
