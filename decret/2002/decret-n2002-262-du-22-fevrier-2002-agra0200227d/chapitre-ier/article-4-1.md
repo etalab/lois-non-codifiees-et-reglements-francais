@@ -1,6 +1,6 @@
 # Article 4-1
 
-Le ministre chargé de l'agriculture nomme le chef du corps parmi les inspecteurs généraux de la santé publique vétérinaire qui sont membres du bureau du Conseil général de l'agriculture et de l'alimentation et des espaces ruraux.
+Le ministre chargé de l'agriculture nomme le chef du corps parmi les inspecteurs généraux de la santé publique vétérinaire, membres du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
 
 Le chef du corps représente le corps des inspecteurs de la santé publique vétérinaire. Il participe à toute réflexion intéressant le corps. Il veille au recrutement et à la formation des membres du corps, à la valorisation de leurs compétences ainsi qu'à la bonne gestion de leurs carrières.
 
