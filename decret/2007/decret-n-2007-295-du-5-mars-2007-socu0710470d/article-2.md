@@ -6,7 +6,7 @@ a) Les membres et le secrétaire général du Haut Comité pour le logement des 
 
 b) Le président du Conseil national de l'habitat ;
 
-c) Un membre du   Conseil économique, social et environnemental ;
+c) Un membre du Conseil économique, social et environnemental ;
 
 d) Deux membres représentant respectivement :
 
@@ -34,7 +34,7 @@ f) Trente-sept membres représentant respectivement :
 
 -l'Union sociale pour l'habitat ;
 
--la Fédération nationale des sociétés d'économie mixte ;
+-la Fédération des entreprises publiques locales ;
 
 -l'Agence nationale de l'habitat ;
 
@@ -100,7 +100,7 @@ f) Trente-sept membres représentant respectivement :
 
 -France terre d'asile ;
 
--le collectif Les Morts de la rue » ;
+-le collectif Les Morts de la rue  ;
 
 -la Fédération nationale des samus sociaux.
 
@@ -114,6 +114,6 @@ Peuvent assister en tant que de besoin aux réunions du comité des représentan
 
 -du ministre de l'intérieur ;
 
--du ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire ;
+-du ministre chargé de l'immigration ;
 
 -du ministre chargé de l'outre-mer.

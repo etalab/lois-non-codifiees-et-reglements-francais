@@ -6,4 +6,4 @@ Ce comité a pour mission de formuler toute proposition relative à la mise en o
 
 Il donne son avis sur toute question dont le Gouvernement le saisit.
 
-Il élabore chaque année un rapport qu'il remet au Président de la République, au Premier ministre et au Parlement. Le premier rapport est remis le 1er octobre 2007.
+Il élabore chaque année un rapport qu'il remet au Président de la République, au Premier ministre et au Parlement.
