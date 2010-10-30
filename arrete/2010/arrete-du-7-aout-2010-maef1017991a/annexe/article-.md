@@ -1,10 +1,12 @@
 # Article 
 
 <div align="center">
-<b>LISTE DES CONSULS HONORAIRES HABILITÉSEN VUE DE LA REMISE DES PASSEPORTS À LEUR TITULAIRE</b>
+<b>LISTE DES CONSULS HONORAIRES HABILITÉS EN VUE DE LA REMISE DES PASSEPORTS À LEUR TITULAIRE</b>
 </div>
 
 Afrique du Sud
+
+Le consul honoraire à Durban.
 
 Le consul honoraire à East London.
 
@@ -18,6 +20,8 @@ Le consul honoraire à Brême.
 
 Le consul honoraire à Cologne.
 
+Le consul honoraire à Hanovre.
+
 Le consul honoraire à Mannheim.
 
 Le consul honoraire à Nuremberg.
@@ -28,7 +32,7 @@ Ancienne République yougoslave de Macédoine
 
 Le consul honoraire à Bitola.
 
-Antigua-et-Barbuda
+Antigua-et-Barbuda.
 
 Le consul honoraire à Saint John's.
 
@@ -135,6 +139,8 @@ Le consul honoraire à Porto Alegre.
 Le consul honoraire à Salvador de Bahia.
 
 Le consul honoraire à Sao Luis do Maranhao.
+
+Le consul honoraire à Vitoria.
 
 Canada
 
@@ -300,6 +306,8 @@ Le consul honoraire à Hamilton (Bermudes).
 
 Le consul honoraire à Hartford (Connecticut).
 
+Le consul honoraire à Hattiesburg (Mississippi).
+
 Le consul honoraire à Honolulu (Hawaï).
 
 Le consul honoraire à Jacksonville (Floride).
@@ -307,6 +315,8 @@ Le consul honoraire à Jacksonville (Floride).
 Le consul honoraire à Indianapolis (Indiana).
 
 Le consul honoraire à Kansas City (Missouri).
+
+Le consul honoraire à Lafayette (Louisiane).
 
 Le consul honoraire à Little Rock (Arkansas).
 
@@ -357,6 +367,8 @@ Le consul honoraire à San Jose (Californie).
 Le consul honoraire à San Juan (Porto Rico).
 
 Le consul honoraire à Seattle (Washington).
+
+Le consul honoraire à Shreveport (Louisiane).
 
 Le consul honoraire à Tampa (Floride).
 
@@ -541,6 +553,8 @@ Le consul honoraire à Szczecin.
 Le consul honoraire à Wroclaw.
 
 Portugal
+
+Le consul honoraire à Evora.
 
 Le consul honoraire à Faro.
 
