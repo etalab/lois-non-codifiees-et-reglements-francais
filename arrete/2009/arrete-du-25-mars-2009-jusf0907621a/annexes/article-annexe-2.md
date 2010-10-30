@@ -13,6 +13,7 @@
 <th rowspan="2">
 <p align="center">
 <font size="1">ORGANISATIONS SYNDICALES</font>
+<br/>
 </p>
 </th>
 <th colspan="2">
@@ -768,6 +769,48 @@
 <td align="center">
 <p align="left">2<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Finistère-Morbihan</p>
+</td>
+<td>
+<p align="left">CGT-PJJ</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">SNPES-PJJ / FSU </p>
+</td>
+<td>
+<p align="left">3</p>
+</td>
+<td>
+<p align="left">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">UNSA-SPJJ</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+<td>
+<p align="left">2</p>
 </td>
 </tr>
 <tr>
@@ -3076,7 +3119,6 @@
 </tbody>
 </table>
 
-<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
