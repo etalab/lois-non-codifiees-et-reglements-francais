@@ -1,8 +1,12 @@
 # Article 4
 
-I.-Les actes d'engagement de dépense, hors dépenses de personnel, et d'affectation de crédits à des opérations d'investissement pris par les ordonnateurs sont soumis, sauf en ce qui concerne les actes relevant des programmes Conseil d'Etat et autres juridictions administratives et Cour de comptes et autres juridictions financières, au visa de l'autorité chargée du contrôle financier au-dessus d'un seuil de 30 000 euros pour les subventions, ainsi que pour l'ensemble des actes relevant du Centre d'analyse stratégique, du compte de commerce de la Documentation française et de la direction des Journaux officiels et au-dessus d'un seuil fixé entre 50 000 et 100 000 euros, pour tous les autres actes. Les transactions sont toutefois soumises au visa au premier euro.
+I.-Les actes d'engagement de dépense, hors dépenses de personnel, pris par les ordonnateurs sont soumis, sauf en ce qui concerne les actes relevant des programmes " Impulsion et coordination de la politique d'aménagement du territoire ", " Conseil d'Etat et autres juridictions administratives " et " Cour des comptes et autres juridictions financières ", au visa de l'autorité chargée du contrôle financier au dessus d'un seuil fixé entre 250 000 et 500 000 euros. Les transactions sont toutefois soumises au visa au premier euro.
 
-Les actes d'engagement de dépense, hors dépenses de personnel, et d'affectation de crédits à des opérations d'investissement pris par les ordonnateurs des programmes Conseil d'Etat et autres juridictions administratives et Cour des comptes et autres juridictions financières sont soumis à l'avis préalable de l'autorité chargée du contrôle financier au-dessus de 250 000 euros.
+Les actes d'engagement de dépense, hors dépenses de personnel, pris par les ordonnateurs du programme " Impulsion et coordination de la politique d'aménagement du territoire " sont soumis au visa de l'autorité chargée du contrôle financier au-dessus d'un seuil fixé entre 400 000 et 2 000 000 d'euros, à l'exception des transactions soumises au visa au premier euro.
+
+Les affectations de crédits à une opération d'investissement pris par les ordonnateurs sont soumises, sauf en ce qui concerne les actes relevant des programmes " Conseil d'Etat et autres juridictions administratives " et " Cour des comptes et autres juridictions financières ", au visa de l'autorité chargée du contrôle financier au premier euro.
+
+Les actes d'engagement de dépenses, hors dépenses de personnel, et les affectations de crédits à une opération d'investissement pris par les ordonnateurs des programmes " Conseil d'Etat et autres juridictions administratives " et " Cour des comptes et autres juridictions financières " sont soumis à l'avis préalable de l'autorité chargée du contrôle financier au-dessus d'un seuil fixé entre 250 000 et 500 000 euros. Les transactions sont toutefois soumises au visa au premier euro.
 
 Les actes relatifs aux dépenses de personnel sont contrôlés dans les conditions suivantes :
 
@@ -13,6 +17,8 @@ a) Pour les recrutements :
 -les autorisations de recrutement avec ou sans concours fixant le nombre de postes ouverts et de tirages sur listes complémentaires accompagnées des annexes financières associées et, le cas échéant, des schémas annuels de recrutement et d'effectifs ;
 
 -les contrats de recrutements de personnels non titulaires d'une durée supérieure à dix mois et leurs avenants ;
+
+-pour la direction de l'information légale et administrative, les recrutements d'agents non titulaires sont visés quelle que soit la durée du recrutement ;
 
 b) Pour les positions :
 
@@ -30,6 +36,8 @@ c) Pour les avancements et promotions :
 
 Les mêmes actes sont soumis à un avis lorsqu'ils relèvent des programmes " Conseil d'Etat et autres juridictions administratives " et " Cour des comptes et autres juridictions financières ".
 
+Sont soumis au visa les protocoles et avenants relatifs à la situation des agents relevant de la direction de l'information légale et administrative.
+
 Sont soumis à avis préalable :
 
 a) Pour les recrutements : les nominations dans un emploi fonctionnel ;
@@ -42,7 +50,7 @@ b) Pour les avancements et promotions :
 
 c) Pour les compléments de rémunération : les attributions d'indemnités pour sujétions particulières aux membres et autres collaborateurs des cabinets ministériels.
 
-Les mêmes actes sont soumis à un avis lorsqu'ils relèvent des programmes "Conseil d'Etat et juridictions administratives " et "Cour des comptes et autres juridictions financières".
+Les mêmes actes sont soumis à un avis lorsqu'ils relèvent des programmes " Conseil d'Etat et juridictions administratives " et " Cour des comptes et autres juridictions financières ".
 
 II.-Dans les limites définies au point I du présent article, l'autorité chargée du contrôle financier fixe les seuils, en tenant compte des processus de contrôle mis en place par les gestionnaires des services.
 
