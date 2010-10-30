@@ -1,10 +1,6 @@
 # Article 3
 
-1. Le major général de l'armée de l'air est assisté de deux adjoints :
-
-a) L'adjoint " ressources humaines " qui assure, par ailleurs, la fonction de directeur du personnel militaire de l'armée de l'air ;
-
-b) L'adjoint " administration générale et finances " qui assure, par ailleurs, la fonction de directeur central du service de l'administration générale et des finances de l'armée de l'air.
+1. Le major général est assisté de l'adjoint "ressources humaines" qui assure, par ailleurs, la fonction de directeur des ressources humaines de l'armée de l'air.
 
 2. L'état-major de l'armée de l'air comprend, en outre, trois sous-chefs d'état-major :
 
@@ -24,7 +20,7 @@ b) D'un délégué aux réserves, dont les attributions sont fixées par une ins
 
 c) D'un centre d'études stratégiques aérospatiales, dont les attributions sont fixées par une instruction particulière ;
 
-d) Du groupe d'audit en organisation (GAOR), dont les attributions sont fixées par une instruction particulière ;
+d) D'un quartier général dont les attributions sont fixées par une instruction particulière ;
 
 e) Du centre d'expériences aériennes militaires (CEAM), dont les attributions sont fixées par une instruction particulière ;
 

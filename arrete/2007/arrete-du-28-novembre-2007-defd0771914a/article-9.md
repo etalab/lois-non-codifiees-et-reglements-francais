@@ -20,4 +20,6 @@ La sous-direction gestion des ressources comprend :
 
 ― le bureau gestion administration ;
 
-― le bureau gestion des compétences.
+― le bureau gestion des compétences ;
+
+― le bureau personnel civil.

@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'exercice des attributions qui lui sont dévolues par le décret du 21 mai 2005 susvisé, le chef d'état-major de l'armée de l'air dispose :
+Pour l'exercice des attributions qui lui sont dévolues par les articles R*. 3121-25 à D. 3121-32 du code de la défense, le chef d'état-major de l'armée de l'air dispose :
 
 -de l'état-major de l'armée de l'air dans les conditions définies au titre Ier du présent arrêté ;
 
