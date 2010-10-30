@@ -10,11 +10,13 @@ Cour de cassation
 
 4. Premier avocat général.
 
-5. Doyen de chambre.
+5. Président de chambre chargé de la direction du service de documentation et d'études.
 
-6. Magistrat chargé d'un secrétariat général.
+6. Doyen de chambre.
 
-7. Magistrat chargé de la direction du service d'études et de documentation.
+7. Doyen de section.
+
+8. Magistrat chargé d'un secrétariat général.
 
 Cour d'appel
 
