@@ -14,4 +14,6 @@ Peuvent donner lieu à rémunération pour services rendus les prestations énum
 
 6° Fourniture de prestations liées à l'organisation de scolarités, à l'organisation ou à la préparation d'examens professionnels, de concours, d'ateliers et de stages de formation ;
 
-7° Mise à disposition de véhicules, de matériels ou d'équipements et prestations y afférentes.
+7° Mise à disposition de véhicules, de matériels, d'équipements ou de personnels et prestations y afférentes.
+
+Les bénéficiaires des prestations visées aux 3°, 4°, 6° et 7° doivent préalablement signer avec le ministre de l'intérieur ou le représentant de l'Etat dans le département une convention fixant les modalités d'exécution techniques et financières du concours apporté par les services du ministère de l'intérieur et prévoyant l'obligation de souscrire une assurance. Les garanties sont définies par arrêté du ministre de l'intérieur et doivent être reprises dans ladite convention.
