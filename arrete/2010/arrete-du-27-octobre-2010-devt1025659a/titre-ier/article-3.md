@@ -1,0 +1,5 @@
+# Article 3
+
+Le détenteur d'un véhicule relevant du champ d'application du présent arrêté et souhaitant obtenir un numéro d'immatriculation européen adresse à l'établissement public de sécurité ferroviaire, dénommé ci-après « EPSF », par lettre recommandée avec accusé de réception ou par voie électronique, les pièces mentionnées à l'article 4 dûment renseignées en français.
+
+Toutefois, le demandeur d'une première autorisation de mise en exploitation commerciale d'un véhicule peut demander à l'EPSF de réserver, dans l'attente des formalités prévues à l'alinéa précédent, un numéro d'immatriculation européen. Cette réservation devient caduque si les formalités précitées n'ont pas été accomplies dans un délai de cinq ans. Dans les six mois précédant l'expiration de ce délai, l'EPSF sollicite du demandeur la confirmation de la réservation des numéros non utilisés. A défaut de réponse du demandeur dans le délai imparti par l'EPSF, les numéros réservés peuvent être réattribués. En cas de confirmation par le demandeur de la réservation des numéros, la procédure précédemment décrite est renouvelée pour cinq ans au plus.

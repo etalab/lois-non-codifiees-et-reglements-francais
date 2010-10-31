@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté fixe, en application de l'article 57-4 du décret du 19 octobre 2006 susvisé, les modalités suivant lesquelles est sollicité, attribué, modifié et retiré le numéro d'immatriculation européen des véhicules mentionnés au second alinéa de l'article 57 du décret précité, ainsi que celles relatives à l'apposition de ce numéro sur chacun de ces véhicules. Il précise également les modalités d'inscription et de modification des données devant figurer dans le registre d'immatriculation ainsi que les conditions et les délais dans lesquels chaque véhicule en circulation à la date du présent arrêté est mis en conformité avec les présentes dispositions.

@@ -1,4 +1,4 @@
-# Décret n° 97-199 du 5 mars 1997 relatif au remboursement de certaines dépenses supportées par les forces de police et de gendarmerie
+# Arrêté du 28 octobre 2010 fixant le montant des remboursements de certaines dépenses supportées par les forces de police et de gendarmerie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
