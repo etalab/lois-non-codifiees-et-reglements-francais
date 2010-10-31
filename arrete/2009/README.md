@@ -234,7 +234,6 @@
 - [Arrêté du 4 mai 1988 (DEFP8801376A)](arrete-du-4-mai-1988-defp8801376a)
 - [Arrêté du 4 mai 2009 (AGRM0906050A)](arrete-du-4-mai-2009-agrm0906050a)
 - [Arrêté du 4 mai 2009 (DEVA0910068A)](arrete-du-4-mai-2009-deva0910068a)
-- [Arrêté du 4 mai 2009 (DEVE0908618A)](arrete-du-4-mai-2009-deve0908618a)
 - [Arrêté du 4 mai 2009 (DEVE0909909A)](arrete-du-4-mai-2009-deve0909909a)
 - [Arrêté du 4 mai 2009 (DEVE0909959A)](arrete-du-4-mai-2009-deve0909959a)
 - [Arrêté du 4 mai 2009 (DEVE0909961A)](arrete-du-4-mai-2009-deve0909961a)
