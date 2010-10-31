@@ -326,7 +326,6 @@
 - [Décret n°92-221 du 11 mars 1992 (PRMX9200012D)](decret-n92-221-du-11-mars-1992-prmx9200012d)
 - [Décret n°92-234 du 11 mars 1992 (BUDF9200005D)](decret-n92-234-du-11-mars-1992-budf9200005d)
 - [Décret n°92-236 du 11 mars 1992 (BUDF9220487D)](decret-n92-236-du-11-mars-1992-budf9220487d)
-- [Décret n°92-237 du 11 mars 1992 (EQUE9200182D)](decret-n92-237-du-11-mars-1992-eque9200182d)
 - [Décret n°92-291 du 11 mars 1992 (COMG9100001D)](decret-n92-291-du-11-mars-1992-comg9100001d)
 - [Décret n°92-504 du 11 juin 1992 (INTB9200204D)](decret-n92-504-du-11-juin-1992-intb9200204d)
 - [Décret n°92-508 du 11 juin 1992 (TEFC9204882D)](decret-n92-508-du-11-juin-1992-tefc9204882d)
