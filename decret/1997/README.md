@@ -78,7 +78,6 @@
 - [Décret n°97-1126 du 5 décembre 1997 (MENN9703124D)](decret-n97-1126-du-5-decembre-1997-menn9703124d)
 - [Décret n°97-1127 du 5 décembre 1997 (FPPA9700190D)](decret-n97-1127-du-5-decembre-1997-fppa9700190d)
 - [Décret n°97-199 du 5 mars 1997 (INTC9700053D)](decret-n97-199-du-5-mars-1997-intc9700053d)
-- [Décret n°97-200 du 5 mars 1997 (INTC9700052D)](decret-n97-200-du-5-mars-1997-intc9700052d)
 - [Décret n°97-211 du 5 mars 1997 (TASH9720489D)](decret-n97-211-du-5-mars-1997-tash9720489d)
 - [Décret n°97-214 du 5 mars 1997 (BUDF9700012D)](decret-n97-214-du-5-mars-1997-budf9700012d)
 - [Décret n°97-819 du 5 septembre 1997 (MESG9710907D)](decret-n97-819-du-5-septembre-1997-mesg9710907d)

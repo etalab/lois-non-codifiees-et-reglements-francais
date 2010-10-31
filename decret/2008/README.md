@@ -353,7 +353,6 @@
 - [Décret n°2008-251 du 12 mars 2008 (DEVQ0760585D)](decret-n2008-251-du-12-mars-2008-devq0760585d)
 - [Décret n°2008-252 du 12 mars 2008 (IOCF0801876D)](decret-n2008-252-du-12-mars-2008-iocf0801876d)
 - [Décret n°2008-253 du 12 mars 2008 (AGRF0774168D)](decret-n2008-253-du-12-mars-2008-agrf0774168d)
-- [Décret n°2008-255 du 12 mars 2008 (BCFB0802350D)](decret-n2008-255-du-12-mars-2008-bcfb0802350d)
 - [Décret n°2008-555 du 12 juin 2008 (IOCA0811096D)](decret-n2008-555-du-12-juin-2008-ioca0811096d)
 - [Décret n°2008-777 du 12 août 2008 (PRMX0819983D)](decret-n2008-777-du-12-aout-2008-prmx0819983d)
 - [Décret n°2008-926 du 12 septembre 2008 (MENH0818375D)](decret-n2008-926-du-12-septembre-2008-menh0818375d)
