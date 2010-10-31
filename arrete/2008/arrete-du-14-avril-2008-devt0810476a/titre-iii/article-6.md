@@ -18,7 +18,7 @@ III. ― Constituent une modification substantielle du certificat de sécurité 
 
 ― la modification des types de services mentionnés aux points 2. 6, 2. 7, 2. 10, 2. 11 et 2. 14 de l'annexe III du règlement du 13 juin 2007 susvisé ;
 
-― l'introduction dans son champ d'une nouvelle ligne du réseau ferré national ;
+― l'introduction dans son champ d'une nouvelle ligne du réseau ferroviaire ;
 
 ― l'introduction dans son champ d'une nouvelle tâche essentielle pour la sécurité mentionnée à l'article 6 du décret du 19 octobre 2006 susvisé ;
 

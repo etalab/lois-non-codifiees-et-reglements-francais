@@ -8,7 +8,7 @@ Les pièces comprennent :
 
 ― le résumé du manuel du système de gestion de la sécurité envisagé prévu au point 7.1 de l'annexe III du règlement du 13 juin 2007 susvisé dont le contenu est précisé en annexe 1 du présent arrêté.
 
-II. ― Les pièces annexes à une demande de délivrance de partie B doivent permettre à l'EPSF de présumer avec un degré de certitude raisonnable que le demandeur est apte, par le biais de l'organisation opérationnelle et des moyens qu'il entend mettre en œuvre, à respecter les règles de sécurité applicables sur le réseau ferré national pour l'ensemble des services de transport qu'il entend réaliser durant toute la période de validité de cette partie.
+II. ― Les pièces annexes à une demande de délivrance de partie B doivent permettre à l'EPSF de présumer avec un degré de certitude raisonnable que le demandeur est apte, par le biais de l'organisation opérationnelle et des moyens qu'il entend mettre en œuvre, à respecter les règles de sécurité applicables sur le réseau ferroviaire pour l'ensemble des services de transport qu'il entend réaliser durant toute la période de validité de cette partie.
 
 Les pièces comprennent :
 
@@ -16,7 +16,7 @@ Les pièces comprennent :
 
 ― la copie de l'assurance contractée ou de la couverture financière correspondant à la responsabilité de l'entreprise annexée à la licence ;
 
-― la liste des spécifications techniques d'interopérabilité (STI) pertinentes au regard du champ des services envisagés et les principales règles techniques applicables sur le réseau ferré national en matière de régime d'exploitation et de système de signalisation et de contrôle-commande des lignes pour lesquelles la demande est formulée ;
+― la liste des spécifications techniques d'interopérabilité (STI) pertinentes au regard du champ des services envisagés et les principales règles techniques applicables sur le réseau ferroviaire en matière de régime d'exploitation et de système de signalisation et de contrôle-commande des lignes pour lesquelles la demande est formulée ;
 
 ― les références aux procédures du système de gestion de la sécurité du demandeur et aux documents qui les mettent en œuvre, en précisant notamment comment sont prises en compte les évolutions des règles applicables ;
 
