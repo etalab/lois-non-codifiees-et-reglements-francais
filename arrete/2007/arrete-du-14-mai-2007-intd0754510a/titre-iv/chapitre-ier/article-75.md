@@ -10,16 +10,8 @@ Sur un carnet des prélèvements (modèle n° 13) dont chaque feuillet est numé
 
 Le carnet des prélèvements établi par le casino est tenu à livre ouvert et comporte, pour chaque mois d'activité, les indications suivantes :
 
-- le montant, par journée, des produits enregistrés au titre des jeux de contrepartie, des jeux dits de cercle, des jeux de contrepartie et des jeux de cercle exploités sous la forme électronique, du premier au dernier jour du mois, ainsi que le montant total du produit réel des jeux des machines à sous réalisé au cours du mois considéré. Il est complété, après inscription des opérations du dernier jour du mois, par le report des résultats antérieurs, de manière à déterminer le produit brut réel des jeux depuis le début de la saison (1er novembre de l'année N - 31 octobre de l'année N + 1) ;
+- le montant, par journée, des produits enregistrés au titre des jeux de contrepartie, des jeux dits de cercle, des jeux de contrepartie et des jeux de cercle exploités sous la forme électronique, du premier au dernier jour du mois, ainsi que le montant total du produit réel des jeux des machines à sous réalisé au cours du mois considéré. Il est complété, après inscription des opérations du dernier jour du mois, par le report des résultats antérieurs, de manière à déterminer le produit brut réel des jeux depuis le début de la saison (1er novembre de l'année N - 31 octobre de l'année N + 1).
 
 - l'assiette des différents prélèvements et leurs éléments de calcul.
-
-Le premier jour ouvrable de chaque mois, le comptable du Trésor, chef de poste, doit vérifier le montant des différents prélèvements auxquels le casino est assujetti sur le carnet de prélèvements par rapprochement avec le registre de contrôle et les autres documents de comptabilité, notamment ceux visés à l'article 69 du présent arrêté.
-
-Ce montant est arrêté en toutes lettres et certifié par la signature du comptable du Trésor, chef de poste, le directeur et un membre du comité de direction.
-
-En ce qui concerne les appareils mentionnés à l'article 2 de la loi n° 83-628 du 12 juillet 1983, les prélèvements sont assis sur le produit brut réel des jeux constaté pour l'ensemble des appareils et défini de la manière suivante :
-
-Ce produit est calculé en appliquant le coefficient visé à l'article L. 2333-55-1 du code général des collectivités territoriales à la sommation du produit réel de chaque appareil, lui-même déterminé dans les conditions prévues au 4° et 5° de ce même article.
 
 Dans le cas où le casino adopterait une gestion comptable informatisée, le carnet des prélèvements peut être établi par procédé informatique garantissant la traçabilité des opérations.

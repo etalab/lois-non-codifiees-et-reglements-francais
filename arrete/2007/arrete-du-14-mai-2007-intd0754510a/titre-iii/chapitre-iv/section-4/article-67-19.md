@@ -2,7 +2,7 @@
 
 Surveillance et contrôles spécifiques aux jeux de table électroniques.
 
-Les fonctionnaires de la direction centrale de la police judiciaire (service central des courses et jeux) du ministère de l'intérieur ainsi que ceux du ministère chargé du budget concernés exercent les prérogatives suivantes :
+Les fonctionnaires de la direction centrale de la police judiciaire (service central des courses et jeux) du ministère de l'intérieur exercent les prérogatives suivantes :
 
 - ils ont libre accès à tous les locaux des casinos, des sociétés agréées où sont déposés les jeux de table électroniques ou toutes pièces et documents s'y rapportant ;
 

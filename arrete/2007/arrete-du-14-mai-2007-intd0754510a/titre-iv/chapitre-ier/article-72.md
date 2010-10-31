@@ -12,10 +12,8 @@ a) Les carnets d'enregistrement des cagnottes aux jeux de cercle (modèle n° 11
 
 b) Les carnets d'avances aux jeux de contrepartie (modèle n° 10) ;
 
-c) Le registre de comptabilité pour les jeux électroniques (modèle n° 10 bis) ;
+c) Le registre de comptabilité pour les jeux électroniques (modèle n° 10 bis).
 
-d) Le montant des frais de contrôle des jeux de contrepartie autres que la boule et le vingt-trois ainsi que le montant des frais de contrôle de ces jeux exploités sous une forme électronique.
-
-Dès que les résultats d'une journée sont connus et ont été vérifiés, ils sont portés, avant le commencement de la journée suivante, au registre de contrôle.A la fin de chaque journée, le registre est totalisé, arrêté en toutes lettres et visé par le directeur responsable du casino ou celui des membres du comité de direction qui le remplace momentanément et par un autre membre du comité de direction.
+Dès que les résultats d'une journée sont connus et ont été vérifiés, ils sont portés, avant le commencement de la journée suivante, au registre de contrôle. A la fin de chaque journée, le registre est totalisé, arrêté en toutes lettres et visé par le directeur responsable du casino ou celui des membres du comité de direction qui le remplace momentanément et par un autre membre du comité de direction.
 
 Les chiffres qui ressortent avant totalisation avec les résultats des journées précédentes sont reportés, en fin de journée, au livre journal en recette pour les jeux de cercle et les jeux de cercle électroniques et en recette ou en dépense pour les jeux de contrepartie et les jeux de contrepartie électroniques selon que ces jeux ont été en bénéfice ou en perte. En aucun cas, il ne peut être fait compensation dans la comptabilité commerciale du casino entre les bénéfices des jeux de cercle et de la forme électronique de ces jeux et les pertes des jeux de contrepartie et de la forme électronique de ces jeux.
