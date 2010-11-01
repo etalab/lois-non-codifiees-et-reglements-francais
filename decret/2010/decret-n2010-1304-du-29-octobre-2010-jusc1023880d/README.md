@@ -1,0 +1,4 @@
+# Décret n° 2010-1304 du 29 octobre 2010 relatif aux procédures de traitement des situations de surendettement des particuliers
+
+- [CHAPITRE IER : DISPOSITIONS PORTANT MODIFICATION DU TITRE III DU LIVRE III  DE LA PARTIE REGLEMENTAIRE DU CODE DE LA CONSOMMATION](chapitre-ier)
+- [CHAPITRE II : DISPOSITIONS DE COORDINATION  ET DISPOSITIONS TRANSITOIRES](chapitre-ii)
