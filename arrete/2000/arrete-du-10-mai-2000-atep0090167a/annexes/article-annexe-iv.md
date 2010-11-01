@@ -34,7 +34,7 @@ Certains événements externes pouvant provoquer des accidents majeurs peuvent n
 
 - chute d'avion hors des zones de proximité d'aéroport ou aérodrome ;
 
-- rupture de barrage visé par la circulaire 70-15 du 14 août 1970 relative aux barrages intéressant la sécurité publique ;
+- rupture de barrage de classe A ou B au sens de l'article R. 214-112 du code de l'environnement ou d'une digue de classe A, B ou C au sens de l'article R. 214-113 de ce même code ;
 
 - actes de malveillance.
 
