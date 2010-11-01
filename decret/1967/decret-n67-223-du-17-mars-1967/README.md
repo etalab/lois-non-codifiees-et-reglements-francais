@@ -4,6 +4,7 @@
 - [Section II : Les assemblées générales de copropriétaires.](section-ii)
 - [Section III : Le conseil syndical.](section-iii)
 - [Section IV : Le syndic.](section-iv)
+- [Section IV bis : Dispositions particulières aux résidences-services](section-iv-bis)
 - [Section V : Dispositions particulières aux syndicats de forme coopérative.](section-v)
 - [Section VI : La comptabilité du syndicat.](section-vi)
 - [Section VII : Procédure.](section-vii)
