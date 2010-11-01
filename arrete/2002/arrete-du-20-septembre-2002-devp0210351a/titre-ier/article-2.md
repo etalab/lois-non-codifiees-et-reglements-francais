@@ -10,13 +10,13 @@ Si la co-incinération a lieu de telle manière que l'objectif essentiel de l'in
 
 Les deux précédentes définitions couvrent le site et l'ensemble de l'installation constitué par toutes les lignes d'incinération ou par les lignes de co-incinération, par les installations de réception, d'entreposage et de traitement préalable sur le site même des déchets ; ses systèmes d'alimentation en déchets, en combustible et en air ; la chaudière de récupération d'énergie, les installations de traitement des fumées ; sur le site, les installations de traitement ou d'entreposage des résidus et des eaux usées ; la cheminée ; les appareils et les systèmes de commande des opérations d'incinération, d'enregistrement et de surveillance des conditions d'incinération ;
 
-- installations nouvelles d'incinération : installations autorisées à partir du 28 décembre 2002 et installations existantes faisant l'objet d'une extension augmentant leur capacité de traitement ou d'une modification notable par renouvellement des fours autorisée à partir du 28 décembre 2002 ;
+- installations nouvelles d'incinération : installations autorisées à partir du 1er novembre 2010 et installations existantes faisant l'objet d'une extension augmentant leur capacité de traitement ou d'une modification notable par renouvellement des fours autorisée à partir du 1er novembre 2010 ;
 
-- installations existantes d'incinération : installations autorisées avant le 28 décembre 2002, à condition que l'installation soit mise en service au plus tard le 28 décembre 2003. Si la mise en service intervient au-delà de cette date, l'installation est considérée comme nouvelle ;
+- installations existantes d'incinération : installations autorisées avant le 1er novembre 2010, à condition que l'installation soit mise en service au plus tard le  1er novembre 2011. Si la mise en service intervient au-delà de cette date, l'installation est considérée comme nouvelle ;
 
-- installations nouvelles de co-incinération : installations dont l'activité de co-incinération a été autorisée à partir du 28 décembre 2002 ;
+- installations nouvelles de co-incinération : installations dont l'activité de co-incinération a été autorisée à partir du 1er novembre 2010 ;
 
-- installations existantes de co-incinération : installations dont l'activité de co-incinération a été autorisée avant le 28 décembre 2002, à condition que la co-incinération commence au plus tard le 28 décembre 2003. Si le démarrage de l'activité de co-incinération intervient au-delà de cette date, l'installation est considérée comme nouvelle ;
+- installations existantes de co-incinération : installations dont l'activité de co-incinération a été autorisée avant le 1er novembre 2010, à condition que la co-incinération commence au plus tard le 1er novembre 2011. Si le démarrage de l'activité de co-incinération intervient au-delà de cette date, l'installation est considérée comme nouvelle ;
 
 - installation collective : une installation qui incinère les déchets de plusieurs producteurs de déchets ;
 

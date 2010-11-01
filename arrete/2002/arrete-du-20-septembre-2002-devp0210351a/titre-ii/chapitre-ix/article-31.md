@@ -12,9 +12,9 @@ et information de l'inspection des installations classées
 
 Les résultats de la mesure en continu de la température obtenue à proximité de la paroi interne de la chambre de combustion ou d'un autre point représentatif et des mesures demandées aux articles 28, 29 et 30 sont conservés pendant cinq ans. Les informations relatives aux déchets issus de l'installation et à leur élimination sont en revanche conservées pendant toute la durée de l'exploitation.
 
-Les résultats des analyses demandées aux articles 9, 26, 28, 29 et 30 sont communiquées à l'inspecteur des installations classées :
+Les résultats des analyses demandées aux articles 9, 26, 28, 29 et 30, accompagnés des flux des polluants mesurés, sont communiqués à l'inspecteur des installations classées :
 
-- selon une fréquence fixée dans l'arrêté préfectoral d'autorisation et au moins trimestriellement en ce qui concerne la mesure de la température de la chambre de combustion, les mesures en continu demandées à l'article 28 et les mesures en continu à fréquence journalière ou mensuelle demandées à l'article 29, accompagnées de commentaires sur les causes des dépassements constatés ainsi que sur les actions correctives mises en oeuvre ou envisagées ;
+- selon une fréquence fixée dans l'arrêté préfectoral d'autorisation et au moins trimestriellement en ce qui concerne la mesure de la température de la chambre de combustion, les mesures en continu et en semi-continu demandées à l'article 28 et les mesures en continu à fréquence journalière ou mensuelle demandées à l'article 29, accompagnées de commentaires sur les causes des dépassements constatés ainsi que sur les actions correctives mises en oeuvre ou envisagées ;
 
 - selon une fréquence fixée dans l'arrêté préfectoral d'autorisation et au moins une fois par an en ce qui concerne les mesures ponctuelles telles que définies aux articles 28, 29 et 30 et les informations demandées à l'article 26 ;
 
@@ -33,6 +33,8 @@ L'exploitant calcule une fois par an, sur la base de la moyenne annuelle des val
 Il communique ce calcul à l'inspection des installations classées et en suit l'évolution.
 
 Les articles 61 et 62 de l'arrêté du 2 février 1998 susvisé s'appliquent.
+
+Les installations d'incinération et de co-incinération doivent réaliser chaque année une évaluation du pouvoir calorifique inférieur des déchets incinérés et en transmettre les résultats à l'inspection des installations classées.
 
 c) Rapport annuel d'activité
 

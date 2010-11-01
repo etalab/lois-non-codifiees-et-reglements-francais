@@ -1,3 +1,5 @@
 # Article 35
 
-Abrogations.-L'arrêté du 23 août 1989 relatif à l'incinération de déchets contaminés dans une usine d'incinération de résidus urbains et l'arrêté du 25 janvier 1991 relatif aux installations d'incinération de résidus urbains sont abrogés à compter du 28 décembre 2005.
+Pour les installations existantes et qui ont été autorisées avant le 28 décembre 2002, les prescriptions fixées  au b de l'article 9 sont complétées par les  dispositions suivantes :
+
+En cas de difficultés techniques, le temps de séjour de deux secondes doit s'appliquer au plus tard à compter du moment où il est procédé au renouvellement des fours.

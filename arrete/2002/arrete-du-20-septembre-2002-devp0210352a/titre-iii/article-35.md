@@ -1,11 +1,34 @@
 # Article 35
 
-Sans préjudice des dispositions transitoires spécifiques prévues dans les annexes, les dispositions du titre II, à l'exception des articles 3, 16 a et 16 b, sont applicables à compter du 28 décembre 2005 aux installations existantes.
+Sans préjudice des dispositions transitoires spécifiques prévues dans les annexes, les dispositions du titre II sont applicables aux installations existantes à l'exception des articles 3, 16 (a) et 16 (b) et des dispositions suivantes qui sont applicables selon le calendrier et les modalités définis dans le calendrier ci-dessous :
 
-Le préfet demande, en application de l'article 18 du décret du 21 septembre 1977 susvisé, à l'exploitant d'une installation existante susceptible d'être exploitée après le 28 décembre 2005 une étude de mise en conformité. Cette étude devra être remise au préfet avant le 28 juin 2003.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">DÉLAIS D'APPLICATION<br/>des articles </p>
+</td>
+<td>
+<p align="center">INSTALLATIONS EXISTANTES </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>A compter du 1er juillet 2011 <br/>
+</td>
+<td align="center">
+<br/>Article 18-1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>A compter du 1er juillet 2014 <br/>
+</td>
+<td align="center">
+<br/>Articles 10-1 (a) et 28 (b) <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Cette étude peut comprendre :
-
-- la mise à jour des informations précisées aux articles 2 et 3 dudit décret,
-
-- une étude technico-économique sur les conditions de mise en conformité avec les dispositions du présent arrêté.
+Par ailleurs, les dispositions relatives à la mesure en continu de l'ammoniac définies aux articles 17, 18 et 28 ne sont applicables qu'à partir du 1er juillet 2014.

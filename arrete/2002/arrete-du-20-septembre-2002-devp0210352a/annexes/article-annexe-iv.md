@@ -150,5 +150,3 @@ VALEURS LIMITES DE REJET POUR LES EFFLUENTS AQUEUX ISSUS DES INSTALLATIONS DE TR
 </tr>
 </tbody>
 </table>
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour le total des solides en suspension pour les installations existantes, à condition d'imposer que 80 % des valeurs mesurées ne dépassent pas 30 mg/l et qu'aucune de ces mesures ne dépasse 45 mg/l.

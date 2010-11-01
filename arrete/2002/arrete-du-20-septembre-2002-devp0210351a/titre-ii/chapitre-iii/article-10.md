@@ -1,6 +1,6 @@
 # Article 10
 
-Indisponibilités. - L'arrêté préfectoral d'autorisation fixe la durée maximale des arrêts, dérèglements ou défaillances techniques des installations d'incinération ou de co-incinération, de traitement ou de mesure des effluents aqueux et atmosphériques pendant lesquels les concentrations dans les rejets peuvent dépasser les valeurs limites fixées.
+Indisponibilité des dispositifs de traitements. - L'arrêté préfectoral d'autorisation fixe la durée maximale des arrêts, dérèglements ou défaillances techniques des installations d'incinération ou de co-incinération, de traitement des effluents aqueux et atmosphériques pendant lesquels les concentrations dans les rejets peuvent dépasser les valeurs limites fixées.
 
 Sans préjudice des dispositions de l'article 9 e, cette durée ne peut excéder quatre heures sans interruption lorsque les mesures en continu prévues à l'article 28 montrent qu'une valeur limite de rejet à l'atmosphère est dépassée. La durée cumulée de fonctionnement sur une année dans de telles conditions doit être inférieure à soixante heures.
 

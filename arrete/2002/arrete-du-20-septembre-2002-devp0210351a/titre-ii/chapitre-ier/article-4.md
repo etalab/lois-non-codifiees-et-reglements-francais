@@ -10,4 +10,10 @@ Pour les installations de co-incinération, le pourcentage de l'énergie entrant
 
 Les résidus produits seront aussi minimes et peu nocifs que possible et, le cas échéant, recyclés. Cette disposition n'est toutefois pas applicable aux résidus carbonés issus d'une installation de pyrolyse non intégrée.
 
+La part de ce pourcentage liée à l'incinération des déchets non dangereux doit être précisée par l'arrêté préfectoral d'autorisation.
+
+Pour les installations d'incinération, le résultat de l'évaluation de la performance énergétique réalisée selon la formule en annexe VI et les justificatifs associés sont portés dans la demande d'autorisation.
+
+Pour les installations d'incinération et de co-incinération, le dossier de demande d'autorisation doit comporter une évaluation du pouvoir calorifique inférieur des déchets qu'il est prévu d'incinérer ou co-incinérer.
+
 L'élimination des résidus dont la production ne peut être évitée ou réduite ou qui ne peuvent être recyclés sera effectuée dans le respect de la réglementation en vigueur.

@@ -115,10 +115,6 @@ dioxines et furannes (teneur en O2 de 10 %)
 </tbody>
 </table>
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les cimenteries existantes utilisant le procédé en voie humide ou pour les cimenteries qui brûlent moins de trois tonnes de déchets par heure, à condition que la valeur limite C n'excède pas 1 200 mg/m³, et ce jusqu'au 1er janvier 2008.
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les poussières pour les cimenteries existantes qui brûlent moins de trois tonnes de déchets par heure, à condition que la valeur limite C n'excède pas 50 mg/m³, et ce jusqu'au 1er janvier 2008.
-
 Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
 
 Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
@@ -178,6 +174,31 @@ Pour les substances organiques à l'état de gaz ou de vapeur, exprimées en car
 Si cette valeur moyenne augmentée de deux fois l'écart type est inférieure à 10 mg/m³, la valeur limite à l'émission est fixée à 10 mg/m³ en moyenne journalière.
 
 Si cette valeur moyenne augmentée de deux fois l'écart type est supérieure à 10 mg/m³, la valeur limite à l'émission en moyenne journalière est déterminée en application de la formule définie au premier paragraphe de la présente annexe, à partir de cette valeur moyenne augmentée de deux fois l'écart type. Toutefois, cette valeur limite ne pourra dépasser 100 mg/m³.
+
+C pour l'ammoniac (teneur en O2 de 10 %).
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PARAMÈTRE</p>
+</td>
+<td>
+<p align="center">VALEUR MOYENNE JOURNALIÈRE</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ammoniac<br/>
+</td>
+<td align="center">
+<br/>30 mg/m³<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
 
 II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
 
@@ -280,10 +301,6 @@ C procédé pour les combustibles solides (moyennes journalières exprimées en 
 </tbody>
 </table>
 
-Jusqu'au 1er janvier 2007, la valeur limite d'émission pour le NOx ne s'applique pas aux installations co-incinérant uniquement des déchets dangereux.
-
-L'arrêté préfectoral d'autorisation peut utiliser des valeurs limites différentes pour les NOx et le SO2 pour les installations existantes d'une puissance comprise entre 100 et 300 MWth utilisant la technique du lit fluidisé et brûlant des combustibles fossiles, à condition que la valeur C procédé n'excède pas 350 mg/m³ pour les NOx et 850 à 400 mg/m³ (la valeur C procédé est donnée par une décroissance linéaire entre 100 et 300 MWth) pour le SO2 et ce jusqu'au 1er janvier 2008.
-
 C procédé pour la biomasse (moyennes journalières exprimées en mg/m³, teneur 6 % d'O2)
 
 Par biomasse, on entend une matière végétale d'origine agricole ou forestière susceptible d'être utilisée pour récupérer son contenu énergétique de même que les déchets végétaux agricoles et forestiers, les déchets végétaux provenant du secteur de la transformation alimentaire, les déchets fibreux issus de la production de pâte vierge et de la production du papier au départ de la pâte, les déchets de bois, à l'exception des déchets de bois qui sont susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement, y compris en particulier les déchets de bois de ce type provenant de déchets de construction ou de démolition, les déchets de liège.
@@ -357,8 +374,6 @@ Par biomasse, on entend une matière végétale d'origine agricole ou forestièr
 </tr>
 </tbody>
 </table>
-
-L'arrêté préfectoral d'autorisation peut utiliser une valeur limite différente pour les NOx pour les installations existantes d'une capacité comprise entre 100 et 300 MWth utilisant la technique du lit fluidisé et brûlant de la biomasse, à condition que la valeur limite C procédé n'excède pas 350 mg/m³, et ce jusqu'au 1er janvier 2008.
 
 C procédé pour les combustibles liquides (moyennes journalières exprimées en mg/m³, teneur en O2 de 3 %)
 
@@ -523,6 +538,31 @@ La concentration en dioxines et furannes est définie comme la somme des concent
 
 La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
 
+C pour l'ammoniac (teneur en O2 de 10 %).
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PARAMÈTRE</p>
+</td>
+<td>
+<p align="center">VALEUR MOYENNE JOURNALIÈRE</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ammoniac<br/>
+</td>
+<td align="center">
+<br/>30 mg/m³<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+
 III. - Dispositions applicables aux secteurs industriels non visés aux points I et II et qui co-incinèrent des déchets HCl, HF
 
 <table>
@@ -613,3 +653,31 @@ Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous to
 La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
 
 La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+
+C pour l'ammoniac (teneur en O2 de 10 %).
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">
+<br/>PARAMÈTRE<br/>
+<br/>
+</p>
+</td>
+<td>
+<p align="center">VALEUR MOYENNE JOURNALIÈRE</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Ammoniac<br/>
+</td>
+<td align="center">
+<br/>30 mg/m³<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
