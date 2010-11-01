@@ -12,6 +12,6 @@ A ce titre :
 
 Elle élabore les réglementations techniques en matière de sécurité de l'aviation civile et les réglementations relatives aux redevances correspondantes.
 
-Elle fournit des prestations ou apporte son expertise technique aux divers services de la direction générale de l'aviation civile, au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile, à l'Autorité de contrôle des nuisances sonores aéroportuaires, aux organismes internationaux et en particulier à l'Agence européenne de la sécurité aérienne, et, sous réserve de son acceptation, à toute entité qui la solliciterait.
+Elle fournit des prestations ou apporte son expertise technique aux divers services de la direction générale de l'aviation civile, au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile, à l'      Autorité de contrôle des nuisances aéroportuaires, aux organismes internationaux et en particulier à l'Agence européenne de la sécurité aérienne, et, sous réserve de son acceptation, à toute entité qui la solliciterait.
 
 Elle apporte son concours à la direction du transport aérien pour le suivi économique et financier des entreprises de transport aérien public et des exploitants d'aérodrome ainsi que des prestataires de services d'assistance en escale.

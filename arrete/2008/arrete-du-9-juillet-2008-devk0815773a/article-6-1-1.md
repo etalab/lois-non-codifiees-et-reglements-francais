@@ -14,9 +14,9 @@ La sous-direction du développement durable est chargée, en appui, le cas éch�
 
 ― de veiller à la transparence en matière d'informations données au public en matière de pollution des aéroports et des aéronefs ;
 
-― de coordonner les relations de la direction générale de l'aviation civile avec l'Autorité de contrôle des nuisances sonores aéroportuaires ;
+― de coordonner les relations de la direction générale de l'aviation civile avec l' Autorité de contrôle des nuisances aéroportuaires ;
 
-― d'assurer une expertise technique dans le domaine des normes environnementales au profit de la direction générale et de l'Autorité de contrôle des nuisances sonores aéroportuaires.
+― d'assurer une expertise technique dans le domaine des normes environnementales au profit de la direction générale et de l'Autorité de contrôle des nuisances aéroportuaires.
 
 Elle comprend :
 

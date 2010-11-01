@@ -164,7 +164,7 @@ c) Le département de la gestion collective (SDRH / GC) est chargé :
 
 ― de participer à la gestion du contentieux ;
 
-― de gérer les personnels administratifs, les    ingénieurs des ponts, des eaux et des forêts, les ingénieurs des études et de l'exploitation de l'aviation civile, les ouvriers, les agents contractuels et les vacataires, et d'identifier les besoins en effectifs et en formation de ces personnels ;
+― de gérer les personnels administratifs, les ingénieurs des ponts, des eaux et des forêts, les ingénieurs des études et de l'exploitation de l'aviation civile, les ouvriers, les agents contractuels et les vacataires, et d'identifier les besoins en effectifs et en formation de ces personnels ;
 
 ― de gérer les primes des corps gérés par la DSNA et de participer à l'élaboration des textes correspondants ;
 
@@ -262,7 +262,7 @@ b) Le département des dépenses et recettes hors redevances (SDFI / D), chargé
 
 ― de réaliser des études dans ces domaines ;
 
-― de répondre aux demandes d'information de l'Autorité de contrôle des nuisances sonores aéroportuaires (ACNUSA) dans le domaine de la navigation aérienne ;
+― de répondre aux demandes d'information de l'Autorité de contrôle des nuisances aéroportuaires (ACNUSA) dans le domaine de la navigation aérienne ;
 
 ― de contribuer à l'élaboration de la formation initiale et continue dans le domaine de l'environnement ;
 
