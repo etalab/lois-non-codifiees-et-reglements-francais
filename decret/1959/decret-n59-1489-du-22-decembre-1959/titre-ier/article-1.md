@@ -36,7 +36,7 @@ b) Jeux dits "de cercle" :
 
 - l'écarté ;
 
-- le Texas hold'em poker ;
+- les formes de poker déterminées par arrêté des ministres chargés de l'intérieur et du budget ;
 
 c) Les formes électroniques des jeux mentionnés aux a et b ;
 

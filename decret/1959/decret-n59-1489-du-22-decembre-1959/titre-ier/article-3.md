@@ -6,7 +6,9 @@ Lorsque la demande d'autorisation a pour objet le renouvellement d'autorisation,
 
 L'avis de la commission mentionnée au premier alinéa n'est pas requis lorsque la demande a pour objet :
 
-- de ne plus exploiter un jeu de table ou de substituer un nouveau jeu de table à un jeu de table exploité, à condition que le nombre total de tables de jeux installées ne soit pas diminué ;
+- de ne plus exploiter un jeu de table ;
+
+- de substituer un nouveau jeu de table à un jeu de table autorisé, à condition que le nombre total de tables de jeux installées ne soit pas diminué ;
 
 - d'augmenter le nombre de machines à sous sans en porter le nombre total au-delà d'un seuil fixé par arrêté ;
 
