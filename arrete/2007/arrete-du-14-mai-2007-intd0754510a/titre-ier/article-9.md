@@ -1,8 +1,8 @@
 # Article 9
 
-Demandes d'augmentation du parc de machines à sous et demandes d'extension à de nouveaux jeux de table.
+Demandes d'augmentation du parc de machines à sous, demandes d'extension à de nouveaux jeux de table, à leurs formes électroniques, et demandes d'augmentation du nombre de tables autorisées.
 
-Lorsque la demande concerne une augmentation du parc de machines à sous conduisant le parc à dépasser un total de 500 appareils ou une extension à de nouveaux jeux de table, le dossier à transmettre doit comporter les pièces suivantes, en double exemplaire :
+Lorsque la demande concerne une augmentation du parc de machines à sous conduisant le parc à dépasser un total de 500 appareils, une extension à de nouveaux jeux de table ou à leurs formes électroniques ou une augmentation du nombre de tables autorisées, le dossier à transmettre doit comporter les pièces suivantes, en double exemplaire :
 
 1° La demande motivée de l'exploitant, faisant référence, le cas échéant, aux prévisions initiales d'exploitation, précisant le nombre de machines à sous ou les nouveaux jeux de table supplémentaires sollicités et du plan d'implantation de ces machines ou jeux.
 

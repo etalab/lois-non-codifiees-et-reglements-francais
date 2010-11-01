@@ -6,7 +6,7 @@ Le directeur et les membres du comité de direction sont tenus de se conformer t
 
 Le directeur responsable est tenu d'être présent dans l'établissement pendant les heures de fonctionnement des jeux. En son absence, il est remplacé par un membre du comité de direction chargé de remplir en ses lieux et place toutes ses obligations.
 
-Le directeur responsable lorsqu'il s'absente plus de trois jours est tenu d'en aviser le chef du service des renseignement généraux chargé de la surveillance de l'établissement et de lui communiquer son adresse personnelle et celle du membre du comité de direction chargé de le remplacer, en vue de répondre à toute demande formulée par les agents de surveillance ou de contrôle.
+Le directeur responsable, lorsqu'il s'absente plus de trois jours, est tenu d'en aviser le chef du service de la police judiciaire territorialement compétent chargé de la surveillance de l'établissement et de lui communiquer son adresse personnelle et celle du membre du comité de direction chargé de le remplacer, en vue de répondre à toute demande formulée par les agents de surveillance ou de contrôle.
 
 Le membre du comité de direction qui remplace momentanément le directeur responsable absent doit, dans un délai raisonnable, pouvoir disposer de la totalité des documents qui constituent la comptabilité spéciale des jeux et de la comptabilité commerciale et être en mesure de donner suite aux demandes ou observations des agents de surveillance ou de contrôle.
 

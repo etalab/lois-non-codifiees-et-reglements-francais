@@ -26,14 +26,16 @@ Les numéros et les sigles des dés en service à une table de craps sont inscri
 
 Le directeur responsable ou un membre du comité de direction décide à chaque séance, sous sa responsabilité, de la dotation des tables en paires de dés et appose sa signature en regard de l'inscription portée sur le registre ci-dessus.
 
-A la fin de chaque séance, les dés sont contrôlés au micromètre, à l'équerre et avec un appareil du type " Balancing Galiper " pour l'équilibre.
+A la fin de chaque séance, les dés sont contrôlés au micromètre, à l'équerre et avec un appareil du type "Balancing Galiper" pour l'équilibre.
 
 Mention de cette vérification est portée sur le registre spécial accompagnée des noms et signatures du chef de table et du directeur ou du membre du comité de direction qui y auront procédé ainsi éventuellement que de leurs observations.
 
-Le personnel affecté à chaque table de craps comprend un chef de table, deux croupiers et un préposé aux dés ou stickman.
+Le personnel affecté à chaque table de craps comprend un chef de table, deux croupiers et un préposé aux dés ou stickman (un chef de table et un croupier sur les tables à 6 joueurs maximum).
 
 Le chef de table est responsable de la clarté et de la régularité du jeu et des paiements.
 
 Les croupiers sont chargés de ramasser les mises perdantes, de placer, s'il y a lieu, les mises sur la case représentant le point et de payer les mises gagnantes. Ils effectuent également, à la demande des joueurs, les opérations de change, d'espèces et de jetons.
+
+Lorsque le jeu se joue sur une table à 6 joueurs maximum, le croupier est chargé de ramasser les mises perdantes, de placer, s'il y a lieu, les mises sur la case représentant le point et de payer les mises gagnantes. Il effectue également à la demande des joueurs les opérations de change, d'espèces et de jetons. Il est aussi chargé de vérifier les dés, de les passer aux joueurs et de procéder aux différentes annonces nécessitées par le déroulement du jeu.
 
 Le stickman est chargé de vérifier le bon état des dés en tant que de besoin en cours de partie, de les passer aux joueurs et est seul habilité à faire les différentes annonces nécessitées par le déroulement du jeu.

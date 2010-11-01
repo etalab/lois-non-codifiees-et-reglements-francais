@@ -1,5 +1,5 @@
 # Article 57-13
 
-Les règles du jeu applicables aux tournois de texas hold'em poker.
+Les règles du jeu applicables aux tournois de poker.
 
-Les règles du texas hold'em poker, jeu défini par l'article 57 du présent arrêté, s'appliquent aux tournois de texas hold'em poker sous réserve de variantes et précisions figurant dans un règlement intérieur tenu à la disposition des joueurs.
+Les règles du jeu applicables aux tournois de poker sont celles fixées par le présent arrêté pour chaque forme de poker, sous réserve de variantes et précisions figurant dans le règlement intérieur tenu à la disposition des joueurs.

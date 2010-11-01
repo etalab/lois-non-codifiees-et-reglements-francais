@@ -6,7 +6,7 @@ Une caisse destinée à l'exploitation des machines à sous centralise toutes le
 
 Des caisses secondaires et des changeurs itinérants disposant d'une somme fixe peuvent également procéder à des opérations de change.
 
-Dans les casinos qui exploitent 50 machines et moins, dans des lieux contigus où se trouve un, ou plusieurs jeux de table, une caisse commune peut inclure la caisse des jeux de table, tout en conservant une comptabilité distincte. Cette caisse commune fonctionne sous la responsabilité d'un caissier habilité à effectuer à la fois les opérations financières relatives aux jeux de table et aux machines à sous.
+Dans les casinos qui exploitent 75 machines à sous et moins, dans des lieux contigus où se trouve un, ou plusieurs jeux de table, une caisse commune peut inclure la caisse des jeux de table, tout en conservant une comptabilité distincte. Cette caisse commune fonctionne sous la responsabilité d'un caissier habilité à effectuer à la fois les opérations financières relatives aux jeux de table et aux machines à sous.
 
 A l'ouverture, l'encaisse est constituée d'espèces et de jetons, les jetons étant considérés comme valeurs de caisse.
 

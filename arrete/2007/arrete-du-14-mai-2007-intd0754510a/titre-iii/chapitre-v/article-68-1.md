@@ -6,11 +6,11 @@ Les appareils mentionnés au d de l'article 1er du décret n° 59-1489 du 22 dé
 
 Ces appareils doivent être exploités dans des conditions permettant de satisfaire aux obligations relatives à la lutte contre le blanchiment d'argent selon les modalités suivantes :
 
-― Sur les machines à sous de dénomination inférieure ou égale à 1 €, fonctionnant avec des mises unitaires maximales de 50 €, par la mise en place d'un dispositif de vigilance ;
+- Sur les machines à sous de dénomination inférieure ou égale à 2 euros, fonctionnant avec des mises unitaires maximales de 50 euros, par la mise en place d'un dispositif de vigilance ;
 
-― sur les autres machines à sous, par la mise en place d'un dispositif de contrôle répondant aux obligations fixées par le code monétaire et financier.
+- sur les autres machines à sous, par la mise en place d'un dispositif de contrôle répondant aux obligations fixées par le code monétaire et financier.
 
-Le montant de la limite d'insertion des sommes permettant l'achat de crédits sur l'appareil ne peut dépasser le montant prévu par le présent article. En aucun cas ce montant ne doit être supérieur à la limite de paiement automatique de la machine.
+Le montant de la limite d'insertion des sommes permettant l'achat de crédits sur l'appareil ne peut dépasser le montant défini par le code monétaire et financier. En aucun cas ce montant ne doit être supérieur à la limite de paiement automatique de la machine.
 
 Ces appareils ne peuvent être exploités que si les autres jeux autorisés par l'arrêté d'autorisation sont ouverts à la clientèle dans les conditions prévues à l'article 31 du présent arrêté.
 

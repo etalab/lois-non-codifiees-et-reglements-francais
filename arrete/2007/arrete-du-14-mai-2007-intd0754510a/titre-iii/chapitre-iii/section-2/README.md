@@ -1,4 +1,4 @@
-# Section 2 : Règles application à l'organisation des tournois de texas hold'em poker.
+# Section 2 : Règles applicables à l'organisation des tournois de poker.
 
 - [Article 57-5](article-57-5.md)
 - [Article 57-6](article-57-6.md)

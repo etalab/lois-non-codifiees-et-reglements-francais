@@ -1,6 +1,6 @@
 # Article 57-7
 
-Un tournoi de texas hold'em poker, jeu défini par l'article 57 du présent arrêté, est organisé sous la forme d'une compétition dans laquelle tous les joueurs commencent avec le même nombre de jetons.
+Un tournoi de poker, jeu défini par l'article 57 du présent arrêté, est organisé sous la forme d'une compétition dans laquelle tous les joueurs commencent avec le même nombre de jetons.
 
 Lorsqu'un joueur a perdu tous ses jetons, il est éliminé de la compétition.
 
@@ -10,9 +10,9 @@ Le tournoi peut consister en :
 
 - un tournoi multitables sans rachat de cave ;
 
-- un tournoi multitables à " rachat " qui permet aux joueurs de se recaver pour un montant limité. Ces rachats ne peuvent être effectués qu'en première partie de tournoi selon les modalités fixées par le règlement du tournoi.
+- un tournoi multitables à "rachat" qui permet aux joueurs de se recaver pour un montant limité. Ces rachats ne peuvent être effectués qu'en première partie de tournoi selon les modalités fixées par le règlement du tournoi.
 
-- un tournoi à table unique auquel ne peuvent participer que 10 joueurs au maximum par séance.
+- un tournoi à table unique auquel ne peuvent participer au maximum par séance que dix joueurs pour le texas hold'em poker et que neuf joueurs pour le Omaha poker.
 
 Ce tournoi peut porter sur une ou sur plusieurs séances.
 
@@ -22,11 +22,11 @@ Lorsqu'un tournoi à table unique est annulé à la dernière heure, faute d'un 
 
 Le tournoi échelonné sur plusieurs séances fait l'objet d'un calendrier joint au règlement mentionné à l'article 57-5, alinéa 3.
 
-Avant le commencement de la saison des jeux, le directeur responsable adresse au chef du service de la direction centrale de la police judiciaire territorialement compétent et au comptable du Trésor chef de poste une note précisant le numéro de la table de jeu affectée aux tournois de texas hold'em poker à table unique.
+Avant le commencement de la saison des jeux, le directeur responsable adresse au chef du service de la direction centrale de la police judiciaire territorialement compétent et au comptable du Trésor chef de poste une note précisant le numéro de la table de jeu affectée aux tournois de poker à table unique.
 
 Les dates et modalités d'inscription au tournoi sont fixées par le règlement.
 
-L'inscription à un tournoi de texas hold'hem poker est strictement réservée aux personnes majeures et non interdites de jeu. La direction du casino organisateur peut de même refuser l'inscription au tournoi aux personnes ayant fait l'objet d'une limitation volontaire d'accès avec cet établissement. L'inscription à un tournoi de texas hold'em poker impose l'achat de la cave initiale.
+L'inscription à un tournoi de texas hold'hem poker est strictement réservée aux personnes majeures et non interdites de jeu. La direction du casino organisateur peut de même refuser l'inscription au tournoi aux personnes ayant fait l'objet d'une limitation volontaire d'accès avec cet établissement. L'inscription à un tournoi de poker impose l'achat de la cave initiale.
 
 Une seule préinscription ou inscription est admise par personne et par tournoi. Elle ne peut être cédée à un tiers, même à titre gracieux.
 

@@ -6,7 +6,7 @@ Les employés des SFM agissant dans le cadre de l'article 68-6 du présent arrê
 
 Les dirigeants des SFM seuls détiennent un double du programme de paiement des appareils. Ils ne peuvent le communiquer à quiconque hormis les services administratifs compétents.
 
-Tous les quatre-vingt-dix jours d'exploitation au moins, les SFM effectuent obligatoirement une visite de révision et de contrôle, portant notamment sur les limites d'insertion et de paiement automatique des machines équipées d'accepteur de billets, de tickets ou de tout autre système monétique. Les techniciens concernés inscrivent les remarques et conclusions sur le registre de contrôle technique.
+Tous les cent vingt jours d'exploitation au moins, les SFM effectuent obligatoirement une visite de révision et de contrôle, portant notamment sur les limites d'insertion et de paiement automatique des machines équipées d'accepteur de billets, de tickets ou de tout autre système monétique. Les techniciens concernés inscrivent les remarques et conclusions sur le registre de contrôle technique.
 
 Les dirigeants et les salariés des SFM ainsi que ceux des sociétés visées à l'article 68-2 du présent arrêté ont une obligation générale d'informer le service de police compétent de toute anomalie constatée dans le fonctionnement des machines à sous et des systèmes informatiques agréés. L'information doit être transmise sans délai s'il y a urgence ou par rapport écrit dans les autres cas.
 

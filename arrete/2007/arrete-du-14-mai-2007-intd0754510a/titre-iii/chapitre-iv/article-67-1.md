@@ -6,7 +6,7 @@ Les formes électroniques des jeux mentionnés aux a et b de l'article 1er du d�
 
 Toute modification apportée aux règles usuelles de fonctionnement des jeux de contrepartie et des jeux de cercle doit être portée à la connaissance du ministre de l'intérieur lors de la demande d'agrément des appareils de jeux de contrepartie ou de jeux de cercle électroniques.
 
-Ces appareils doivent être exploités dans des conditions permettant de satisfaire aux obligations relatives à la lutte contre le blanchiment d'argent. Ils doivent faire l'objet d'une vente ferme et définitive à l'exclusion de toute autre forme de cession. Ils ne peuvent être exploités que si les autres jeux de contrepartie ou jeux de cercle autorisés par l'arrêté d'autorisation sont ouverts à la clientèle dans les conditions prévues à l'article 31 du présent arrêté.
+Ces appareils doivent être exploités dans des conditions permettant de satisfaire aux obligations relatives à la lutte contre le blanchiment d'argent. Ils doivent faire l'objet d'une vente ferme et définitive à l'exclusion de toute autre forme de cession.
 
 Le gain est délivré par l'appareil en pièces de monnaie, en jetons, par l'émission d'un ticket faisant apparaître son montant, en unités électroniques créditant la carte de paiement ou tout autre système monétique agréé.
 

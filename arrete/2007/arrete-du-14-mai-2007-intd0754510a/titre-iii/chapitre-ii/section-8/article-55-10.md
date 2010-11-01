@@ -14,7 +14,7 @@ Le personnel affecté à la table comprend un croupier et éventuellement un emp
 
 Un chef de table, affecté au contrôle de deux tables au plus, est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées aux tables. Il dispose des marqueurs qu'il remet aux croupiers à la demande de ceux-ci, mais ne manipule ni plaques, ni jetons, ni espèces, en cours de partie. Au début de la partie, il vérifie si toutes les séries de jetons de couleur sont complètes.
 
-L'employé chargé de la manoeuvre de l'appareil doit obligatoirement actionner chaque fois le plateau mobile dans un sens opposé au précédent et lancer la bille dans le sens inverse. Dans le cas où un jeton vient à tomber dans le cylindre pendant le mouvement de rotation, le croupier doit arrêter le jeu, puis reprendre la bille et la lancer de nouveau. Tant que la force centrifuge retient la bille dans la galerie, les joueurs peuvent continuer à miser, mais dès que le mouvement de la bille se ralentit et que celle-ci est sur le point de tomber sur le cylindre, le croupier annonce " rien ne va plus ". Dès lors, aucun enjeu ne peut plus être placé sur le tableau. A chaque coup, il doit, lorsqu'il n'est pas assisté par un employé, reconstituer les piles de jetons de couleur avant de lancer la bille.
+L'employé chargé de la manoeuvre de l'appareil doit obligatoirement actionner chaque fois le plateau mobile dans un sens opposé au précédent et lancer la bille dans le sens inverse. Dans le cas où un jeton vient à tomber dans le cylindre pendant le mouvement de rotation, le croupier doit arrêter le jeu, puis reprendre la bille et la lancer de nouveau. Tant que la force centrifuge retient la bille dans la galerie, les joueurs peuvent continuer à miser, mais dès que le mouvement de la bille se ralentit et que celle-ci est sur le point de tomber sur le cylindre, le croupier annonce "rien ne va plus". Dès lors, aucun enjeu ne peut plus être placé sur le tableau. A chaque coup, il doit, lorsqu'il n'est pas assisté par un employé, reconstituer les piles de jetons de couleur avant de lancer la bille.
 
 Quand la bille est définitivement arrêtée dans l'une des trente-sept cases, le croupier annonce à haute voix le numéro et les chances simples gagnantes et le désigne ostensiblement au public.
 
@@ -22,9 +22,9 @@ Le croupier a la faculté de placer les mises à la demande des joueurs titulair
 
 Les mises en plaques ou jetons de valeur ne sont acceptées que sur les chances simples.
 
-Lorsque les tapis sont dotés d'un " hippodrome ", la présence d'un chef de table par table de jeu est obligatoire.
+Lorsque les tapis sont dotés d'un "hippodrome", la présence d'un chef de table par table de jeu est obligatoire.
 
-Seules sont considérées comme ayant participé au jeu les mises effectivement placées sur le tableau au moment du " rien ne va plus ". Exceptionnellement, un enjeu peut être représenté par des plaques et jetons de valeur si le change en jetons de couleur n'a pu se faire avant le " rien ne va plus ".
+Seules sont considérées comme ayant participé au jeu les mises effectivement placées sur le tableau au moment du "rien ne va plus". Exceptionnellement, un enjeu peut être représenté par des plaques et jetons de valeur si le change en jetons de couleur n'a pu se faire avant le "rien ne va plus".
 
 Le croupier ramasse les enjeux perdus et procède par joueur au paiement des combinaisons gagnantes après avoir annoncé dans le détail le montant de chacune d'elles.
 
@@ -34,6 +34,6 @@ Colonnes, passe, impair, noir, rouge, pair, manque, douzaines, sixains, transver
 
 Le paiement à hauteur s'effectue à l'aide de piles de jetons que le croupier sépare par comparaison à une pile étalon de vingt jetons.
 
-Avec l'autorisation du chef de partie ou du chef de table, le paiement d'une combinaison gagnante peut comporter des plaques et jetons de valeur.
+Avec l'autorisation du membre du comité de direction, du chef de partie ou du chef de table, le paiement d'une combinaison gagnante peut comporter des plaques et jetons de valeur.
 
 Les jetons de couleur reçus en pourboire par les employés de jeu sont immédiatement changés au marbre selon la procédure décrite à l'article 38 du présent arrêté en jetons de valeur correspondante.
