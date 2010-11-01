@@ -5,6262 +5,6243 @@
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉP. <br/>
-</th>
-<th>
-<br/>NOM DU RÉSEAU <br/>
-</th>
-<th>
-<br/>LOCALISATION <br/>
-</th>
-<th>
-<br/>CHALEUR (C) <p>ou </p>
-<p>froid (F) <br/>
-</p>
-</th>
-<th>
-<br/>CO2 <p>(kg / kWh) <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>01 <br/>
+<td width="38">
+<p align="center">DÉP.</p>
 </td>
-<td align="center">
-<br/>La Reyssouze <br/>
+<td width="265">
+<p align="center">NOM DU RÉSEAU</p>
 </td>
-<td align="center">
-<br/>Bourg-en-Bresse <br/>
+<td width="227">
+<p align="center">LOCALISATION</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td width="76">
+<p align="center">CHALEUR (C)<br/>ou froid (F)</p>
 </td>
-<td align="center">
-<br/>0, 141 <br/>
+<td width="76">
+<p align="center">CO2<br/>(kg / kWh)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>01 <br/>
+<td valign="top" width="38">
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>Réseau d'Hauteville-Lompnes <br/>
+<td valign="top" width="265">
+<p>La Reyssouze</p>
 </td>
-<td align="center">
-<br/>Hauteville-Lompnes <br/>
+<td valign="top" width="227">
+<p>Bourg-en-Bresse</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 291 <br/>
+<td valign="top" width="76">
+<p align="center">0,137</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>01 <br/>
+<td valign="top" width="38">
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>La Forge <br/>
+<td valign="top" width="265">
+<p>Réseau d'Hauteville-Lompnes</p>
 </td>
-<td align="center">
-<br/>Oyonnax <br/>
+<td valign="top" width="227">
+<p>Hauteville-Lompnes</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 242 <br/>
+<td valign="top" width="76">
+<p align="center">0,291</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>01 <br/>
+<td valign="top" width="38">
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>La Plaine (HLM) <br/>
+<td valign="top" width="265">
+<p>La Forge</p>
 </td>
-<td align="center">
-<br/>Oyonnax <br/>
+<td valign="top" width="227">
+<p>Oyonnax</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 214 <br/>
+<td valign="top" width="76">
+<p align="center">0,232</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>02 <br/>
+<td valign="top" width="38">
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>ZUP du quartier Europe <br/>
+<td valign="top" width="265">
+<p>La Plaine (HLM)</p>
 </td>
-<td align="center">
-<br/>Saint-Quentin <br/>
+<td valign="top" width="227">
+<p>Oyonnax</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 287 <br/>
+<td valign="top" width="76">
+<p align="center">0,214</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>02 <br/>
+<td valign="top" width="38">
+<p align="center">02</p>
 </td>
-<td align="center">
-<br/>ZUP de Presles <br/>
+<td valign="top" width="265">
+<p>ZUP du Quartier Europe</p>
 </td>
-<td align="center">
-<br/>Soissons <br/>
+<td valign="top" width="227">
+<p>Saint-Quentin</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 216 <br/>
+<td valign="top" width="76">
+<p align="center">0,249</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>03 <br/>
+<td valign="top" width="38">
+<p align="center">02</p>
 </td>
-<td align="center">
-<br/>Réseau de Moulins <br/>
+<td valign="top" width="265">
+<p>ZUP de Presles </p>
 </td>
-<td align="center">
-<br/>Moulins <br/>
+<td valign="top" width="227">
+<p>Soissons </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 234 <br/>
+<td valign="top" width="76">
+<p align="center">0,203</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>03 <br/>
+<td valign="top" width="38">
+<p align="center">03</p>
 </td>
-<td align="center">
-<br/>Fontbouillant <br/>
+<td valign="top" width="265">
+<p>Réseau de Moulins </p>
 </td>
-<td align="center">
-<br/>Montluçon <br/>
+<td valign="top" width="227">
+<p>Moulins </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 315 <br/>
+<td valign="top" width="76">
+<p align="center">0,222</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>06 <br/>
+<td valign="top" width="38">
+<p align="center">03</p>
 </td>
-<td align="center">
-<br/>Sonitherm-Réseau de l'Ariane <br/>
+<td valign="top" width="265">
+<p>Fontbouillant </p>
 </td>
-<td align="center">
-<br/>Nice <br/>
+<td valign="top" width="227">
+<p>Montluçon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 001 <br/>
+<td valign="top" width="76">
+<p align="center">0,270</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>06 <br/>
+<td valign="top" width="38">
+<p align="center">03</p>
 </td>
-<td align="center">
-<br/>Saint-Augustin (HLM) <br/>
+<td valign="top" width="265">
+<p>Meaulne </p>
 </td>
-<td align="center">
-<br/>Nice <br/>
+<td valign="top" width="227">
+<p>Meaulne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 183 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>08 <br/>
+<td valign="top" width="38">
+<p align="center">05</p>
 </td>
-<td align="center">
-<br/>La Houllière <br/>
+<td valign="top" width="265">
+<p>Réseau bois Delaroche </p>
 </td>
-<td align="center">
-<br/>Charleville-Mézières <br/>
+<td valign="top" width="227">
+<p>Embrun </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>08 <br/>
+<td valign="top" width="38">
+<p align="center">06</p>
 </td>
-<td align="center">
-<br/>La Citadelle <br/>
+<td valign="top" width="265">
+<p>Sonitherm - Réseau de l'Ariane </p>
 </td>
-<td align="center">
-<br/>Charleville-Mézières <br/>
+<td valign="top" width="227">
+<p>Nice </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 260 <br/>
+<td valign="top" width="76">
+<p align="center">0,002</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>08 <br/>
+<td valign="top" width="38">
+<p align="center">06</p>
 </td>
-<td align="center">
-<br/>ZUP de Sedan <br/>
+<td valign="top" width="265">
+<p>Saint-Augustin (HLM) </p>
 </td>
-<td align="center">
-<br/>Sedan <br/>
+<td valign="top" width="227">
+<p>Nice </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 160 <br/>
+<td valign="top" width="76">
+<p align="center">0,187</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>08 <br/>
+<td valign="top" width="38">
+<p align="center">08</p>
 </td>
-<td align="center">
-<br/>Revin <br/>
+<td valign="top" width="265">
+<p>La Houllière </p>
 </td>
-<td align="center">
-<br/>Revin <br/>
+<td valign="top" width="227">
+<p>Charleville-Mézières </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 067 <br/>
+<td valign="top" width="76">
+<p align="center">0,218</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>10 <br/>
+<td valign="top" width="38">
+<p align="center">08</p>
 </td>
-<td align="center">
-<br/>ZUP de La Chapelle-Saint-Luc <br/>
+<td valign="top" width="265">
+<p>La Citadelle </p>
 </td>
-<td align="center">
-<br/>Les Noës <br/>
+<td valign="top" width="227">
+<p>Charleville-Mézières </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,258</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>10 <br/>
+<td valign="top" width="38">
+<p align="center">08</p>
 </td>
-<td align="center">
-<br/>Les Chartreux <br/>
+<td valign="top" width="265">
+<p>ZUP de Sedan </p>
 </td>
-<td align="center">
-<br/>Troyes <br/>
+<td valign="top" width="227">
+<p>Sedan </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 202 <br/>
+<td valign="top" width="76">
+<p align="center">0,152</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>11 <br/>
+<td valign="top" width="38">
+<p align="center">08</p>
 </td>
-<td align="center">
-<br/>ZAC Saint-Jean et Saint-Pierre <br/>
+<td valign="top" width="265">
+<p>Revin </p>
 </td>
-<td align="center">
-<br/>Narbonne <br/>
+<td valign="top" width="227">
+<p>Revin </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 344 <br/>
+<td valign="top" width="76">
+<p align="center">0,067</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>12 <br/>
+<td valign="top" width="38">
+<p align="center">10</p>
 </td>
-<td align="center">
-<br/>Réseau de Decazeville <br/>
+<td valign="top" width="265">
+<p>ZUP de la Chapelle Saint-Luc </p>
 </td>
-<td align="center">
-<br/>Decazeville <br/>
+<td valign="top" width="227">
+<p>Les Noës-près-Troyes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 374 <br/>
+<td valign="top" width="76">
+<p align="center">0,216</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">10</p>
 </td>
-<td align="center">
-<br/>ZAC des Canourgues <br/>
+<td valign="top" width="265">
+<p>Les Chartreux </p>
 </td>
-<td align="center">
-<br/>Salon-de-Provence <br/>
+<td valign="top" width="227">
+<p>Troyes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 209 <br/>
+<td valign="top" width="76">
+<p align="center">0,171</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">11</p>
 </td>
-<td align="center">
-<br/>ZAC Paradis - Saint-Roch <br/>
+<td valign="top" width="265">
+<p>ZAC Saint-Jean et Saint-Pierre </p>
 </td>
-<td align="center">
-<br/>Martigues <br/>
+<td valign="top" width="227">
+<p>Narbonne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 198 <br/>
+<td valign="top" width="76">
+<p align="center">0,119</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>ZAC Canto Perdrix <br/>
+<td valign="top" width="265">
+<p>ZAC des Canourgues </p>
 </td>
-<td align="center">
-<br/>Martigues <br/>
+<td valign="top" width="227">
+<p>Salon-de-Provence </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 251 <br/>
+<td valign="top" width="76">
+<p align="center">0,214</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>Centre urbain - ZAC des Pins <br/>
+<td valign="top" width="265">
+<p>ZAC Paradis - Saint-Roch </p>
 </td>
-<td align="center">
-<br/>Vitrolles <br/>
+<td valign="top" width="227">
+<p>Martigues </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 190 <br/>
+<td valign="top" width="76">
+<p align="center">0,190</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>Les Fenouillères <br/>
+<td valign="top" width="265">
+<p>ZAC Canto Perdrix </p>
 </td>
-<td align="center">
-<br/>Aix-en-Provence <br/>
+<td valign="top" width="227">
+<p>Martigues </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 235 <br/>
+<td valign="top" width="76">
+<p align="center">0,241</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>13 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>ZUP d'Encagnane <br/>
+<td valign="top" width="265">
+<p>Centre Urbain - ZAC des Pins </p>
 </td>
-<td align="center">
-<br/>Aix-en-Provence <br/>
+<td valign="top" width="227">
+<p>Vitrolles </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 213 <br/>
+<td valign="top" width="76">
+<p align="center">0,204</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>14 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>Hérouville-Saint-Clair <br/>
+<td valign="top" width="265">
+<p>Les Fenouillères </p>
 </td>
-<td align="center">
-<br/>Hérouville-Saint-Clair <br/>
+<td valign="top" width="227">
+<p>Aix-en-Provence </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 038 <br/>
+<td valign="top" width="76">
+<p align="center">0,241</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>14 <br/>
+<td valign="top" width="38">
+<p align="center">13</p>
 </td>
-<td align="center">
-<br/>ZUP d'Hauteville <br/>
+<td valign="top" width="265">
+<p>ZUP d'Encagnane </p>
 </td>
-<td align="center">
-<br/>Lisieux <br/>
+<td valign="top" width="227">
+<p>Aix-en-Provence </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 189 <br/>
+<td valign="top" width="76">
+<p align="center">0,210</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>14 <br/>
+<td valign="top" width="38">
+<p align="center">14</p>
 </td>
-<td align="center">
-<br/>ZAC de Falaise <br/>
+<td valign="top" width="265">
+<p>Hérouville-Saint-Clair </p>
 </td>
-<td align="center">
-<br/>Falaise <br/>
+<td valign="top" width="227">
+<p>Hérouville-Saint-Clair </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 025 <br/>
+<td valign="top" width="76">
+<p align="center">0,093</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>14 <br/>
+<td valign="top" width="38">
+<p align="center">14</p>
 </td>
-<td align="center">
-<br/>La Guérinière <br/>
+<td valign="top" width="265">
+<p>ZUP de Hauteville </p>
 </td>
-<td align="center">
-<br/>Caen <br/>
+<td valign="top" width="227">
+<p>Lisieux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 159 <br/>
+<td valign="top" width="76">
+<p align="center">0,004</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>14 <br/>
+<td valign="top" width="38">
+<p align="center">14</p>
 </td>
-<td align="center">
-<br/>Réseau de Bois-I <br/>
+<td valign="top" width="265">
+<p>ZAC de Falaise </p>
 </td>
-<td align="center">
-<br/>Bayeux <br/>
+<td valign="top" width="227">
+<p>Falaise </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 064 <br/>
+<td valign="top" width="76">
+<p align="center">0,026</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>17 <br/>
+<td valign="top" width="38">
+<p align="center">14</p>
 </td>
-<td align="center">
-<br/>Villeneuve-les-Salines <br/>
+<td valign="top" width="265">
+<p>La Guérinière </p>
 </td>
-<td align="center">
-<br/>La Rochelle <br/>
+<td valign="top" width="227">
+<p>Caen </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 127 <br/>
+<td valign="top" width="76">
+<p align="center">0,187</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>17 <br/>
+<td valign="top" width="38">
+<p align="center">14</p>
 </td>
-<td align="center">
-<br/>Réseau de Jonzac <br/>
+<td valign="top" width="265">
+<p>Réseau de bois I </p>
 </td>
-<td align="center">
-<br/>Jonzac <br/>
+<td valign="top" width="227">
+<p>Bayeux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 071 <br/>
+<td valign="top" width="76">
+<p align="center">0,055</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>17 <br/>
+<td valign="top" width="38">
+<p align="center">17</p>
 </td>
-<td align="center">
-<br/>ZUP de Mireuil <br/>
+<td valign="top" width="265">
+<p>Villeneuve les Salines </p>
 </td>
-<td align="center">
-<br/>La Rochelle <br/>
+<td valign="top" width="227">
+<p>La Rochelle </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 034 <br/>
+<td valign="top" width="76">
+<p align="center">0,110</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>18 <br/>
+<td valign="top" width="38">
+<p align="center">17</p>
 </td>
-<td align="center">
-<br/>Chancellerie Gibjoncs - ZUP de Bourges <br/>
+<td valign="top" width="265">
+<p>Réseau de Jonzac </p>
 </td>
-<td align="center">
-<br/>Asnières-les-Bourges <br/>
+<td valign="top" width="227">
+<p>Jonzac </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 355 <br/>
+<td valign="top" width="76">
+<p align="center">0,043</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>18 <br/>
+<td valign="top" width="38">
+<p align="center">17</p>
 </td>
-<td align="center">
-<br/>ZUP du Clos-du-Roy <br/>
+<td valign="top" width="265">
+<p>ZUP de Mireuil </p>
 </td>
-<td align="center">
-<br/>Vierzon <br/>
+<td valign="top" width="227">
+<p>La Rochelle </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 276 <br/>
+<td valign="top" width="76">
+<p align="center">0,049</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>19 <br/>
+<td valign="top" width="38">
+<p align="center">18</p>
 </td>
-<td align="center">
-<br/>Egletons Bois Energie <br/>
+<td valign="top" width="265">
+<p>Chancellerie Gibjoncs - ZUP de Bourges </p>
 </td>
-<td align="center">
-<br/>Egletons <br/>
+<td valign="top" width="227">
+<p>Asnières-les-Bourges </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 044 <br/>
+<td valign="top" width="76">
+<p align="center">0,374</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>20 <br/>
+<td valign="top" width="38">
+<p align="center">18</p>
 </td>
-<td align="center">
-<br/>Réseau de Corte <br/>
+<td valign="top" width="265">
+<p>ZUP du Clos du Roy </p>
 </td>
-<td align="center">
-<br/>Corte <br/>
+<td valign="top" width="227">
+<p>Vierzon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 265 <br/>
+<td valign="top" width="76">
+<p align="center">0,282</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>21 <br/>
+<td valign="top" width="38">
+<p align="center">19</p>
 </td>
-<td align="center">
-<br/>La Fontaine-d'Ouche <br/>
+<td valign="top" width="265">
+<p>Egletons Bois Energie </p>
 </td>
-<td align="center">
-<br/>Dijon <br/>
+<td valign="top" width="227">
+<p>Egletons </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,045</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>21 <br/>
+<td valign="top" width="38">
+<p align="center">20</p>
 </td>
-<td align="center">
-<br/>ZUP de Chenôve <br/>
+<td valign="top" width="265">
+<p>Réseau de Corte </p>
 </td>
-<td align="center">
-<br/>Chenôve <br/>
+<td valign="top" width="227">
+<p>Corte </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 343 <br/>
+<td valign="top" width="76">
+<p align="center">0,013</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>21 <br/>
+<td valign="top" width="38">
+<p align="center">21</p>
 </td>
-<td align="center">
-<br/>Réseau de Quetigny <br/>
+<td valign="top" width="265">
+<p>La Fontaine d'Ouche </p>
 </td>
-<td align="center">
-<br/>Quetigny <br/>
+<td valign="top" width="227">
+<p>Dijon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 232 <br/>
+<td valign="top" width="76">
+<p align="center">0,249</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>23 <br/>
+<td valign="top" width="38">
+<p align="center">21</p>
 </td>
-<td align="center">
-<br/>Réseau de Bourganeuf <br/>
+<td valign="top" width="265">
+<p>ZUP de Chenove </p>
 </td>
-<td align="center">
-<br/>Bourganeuf <br/>
+<td valign="top" width="227">
+<p>Chenove </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 002 <br/>
+<td valign="top" width="76">
+<p align="center">0,309</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>23 <br/>
+<td valign="top" width="38">
+<p align="center">21</p>
 </td>
-<td align="center">
-<br/>Réseau de Felletin <br/>
+<td valign="top" width="265">
+<p>Réseau de Quetigny </p>
 </td>
-<td align="center">
-<br/>Felletin <br/>
+<td valign="top" width="227">
+<p>Quetigny </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,206</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">23</p>
 </td>
-<td align="center">
-<br/>Besançon - Planoise <br/>
+<td valign="top" width="265">
+<p>Réseau de Bourganeuf </p>
 </td>
-<td align="center">
-<br/>Besançon <br/>
+<td valign="top" width="227">
+<p>Bourganeuf </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 199 <br/>
+<td valign="top" width="76">
+<p align="center">0,053</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">23</p>
 </td>
-<td align="center">
-<br/>ZUP de la Petite Hollande <br/>
+<td valign="top" width="265">
+<p>Réseau de Felletin </p>
 </td>
-<td align="center">
-<br/>Montbéliard <br/>
+<td valign="top" width="227">
+<p>Felletin </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 104 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Champvalon <br/>
+<td valign="top" width="265">
+<p>Besançon - Planoise </p>
 </td>
-<td align="center">
-<br/>Béthoncourt <br/>
+<td valign="top" width="227">
+<p>Besançon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 208 <br/>
+<td valign="top" width="76">
+<p align="center">0,171</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Chaufferie du Russey <br/>
+<td valign="top" width="265">
+<p>ZUP de la Petite Hollande </p>
 </td>
-<td align="center">
-<br/>Le Russey <br/>
+<td valign="top" width="227">
+<p>Montbéliard </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 180 <br/>
+<td valign="top" width="76">
+<p align="center">0,116</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Champs Montants <br/>
+<td valign="top" width="265">
+<p>Champvalon </p>
 </td>
-<td align="center">
-<br/>Audincourt <br/>
+<td valign="top" width="227">
+<p>Béthoncourt </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 207 <br/>
+<td valign="top" width="76">
+<p align="center">0,179</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Domaine universitaire de la Bouloie <br/>
+<td valign="top" width="265">
+<p>Chaufferie du Russey </p>
 </td>
-<td align="center">
-<br/>Besançon <br/>
+<td valign="top" width="227">
+<p>Le Russey </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 040 <br/>
+<td valign="top" width="76">
+<p align="center">0,027</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>25 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Les Fougères <br/>
+<td valign="top" width="265">
+<p>Champs Montants </p>
 </td>
-<td align="center">
-<br/>Grand-Charmont <br/>
+<td valign="top" width="227">
+<p>Audincourt </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 207 <br/>
+<td valign="top" width="76">
+<p align="center">0,188</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>26 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Réseau de la ZUP de Valence <br/>
+<td valign="top" width="265">
+<p>Domaine Universitaire de la Bouloie </p>
 </td>
-<td align="center">
-<br/>Valence <br/>
+<td valign="top" width="227">
+<p>Besançon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 271 <br/>
+<td valign="top" width="76">
+<p align="center">0,043</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>26 <br/>
+<td valign="top" width="38">
+<p align="center">25</p>
 </td>
-<td align="center">
-<br/>Réseau de Pierrelatte - Des <br/>
+<td valign="top" width="265">
+<p>Les Fougères </p>
 </td>
-<td align="center">
-<br/>Pierrelatte <br/>
+<td valign="top" width="227">
+<p>Grand-Charmont </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 013 <br/>
+<td valign="top" width="76">
+<p align="center">0,197</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27 <br/>
+<td valign="top" width="38">
+<p align="center">26</p>
 </td>
-<td align="center">
-<br/>ZUP de Saint-André <br/>
+<td valign="top" width="265">
+<p>Réseau de la ZUP de Valence </p>
 </td>
-<td align="center">
-<br/>Evreux <br/>
+<td valign="top" width="227">
+<p>Valence </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 249 <br/>
+<td valign="top" width="76">
+<p align="center">0,273</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27 <br/>
+<td valign="top" width="38">
+<p align="center">26</p>
 </td>
-<td align="center">
-<br/>ZAC des Maisons Rouges <br/>
+<td valign="top" width="265">
+<p>Réseau de Pierrelatte - Des </p>
 </td>
-<td align="center">
-<br/>Louvriers <br/>
+<td valign="top" width="227">
+<p>Pierrelatte </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 281 <br/>
+<td valign="top" width="76">
+<p align="center">0,022</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27 <br/>
+<td valign="top" width="38">
+<p align="center">27</p>
 </td>
-<td align="center">
-<br/>Quartier de l'Europe <br/>
+<td valign="top" width="265">
+<p>ZUP de Saint-André </p>
 </td>
-<td align="center">
-<br/>Pont-Audemer <br/>
+<td valign="top" width="227">
+<p>Evreux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 196 <br/>
+<td valign="top" width="76">
+<p align="center">0,254</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27 <br/>
+<td valign="top" width="38">
+<p align="center">27</p>
 </td>
-<td align="center">
-<br/>Tours du Levant, clos Galots <br/>
+<td valign="top" width="265">
+<p>ZAC des Maisons Rouges </p>
 </td>
-<td align="center">
-<br/>Les Andelys <br/>
+<td valign="top" width="227">
+<p>Louviers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 164 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27 <br/>
+<td valign="top" width="38">
+<p align="center">27</p>
 </td>
-<td align="center">
-<br/>ZUP Les Valmeux <br/>
+<td valign="top" width="265">
+<p>Quartier de l'Europe </p>
 </td>
-<td align="center">
-<br/>Vernon <br/>
+<td valign="top" width="227">
+<p>Pont-Audemer </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 234 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>28 <br/>
+<td valign="top" width="38">
+<p align="center">27</p>
 </td>
-<td align="center">
-<br/>ZUP de la Madeleine <br/>
+<td valign="top" width="265">
+<p>Tours du Levant Clos Galots </p>
 </td>
-<td align="center">
-<br/>Chartres <br/>
+<td valign="top" width="227">
+<p>Les Andelys </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 252 <br/>
+<td valign="top" width="76">
+<p align="center">0,218</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>28 <br/>
+<td valign="top" width="38">
+<p align="center">27</p>
 </td>
-<td align="center">
-<br/>Les Gauchetières <br/>
+<td valign="top" width="265">
+<p>ZUP Les Valmeux </p>
 </td>
-<td align="center">
-<br/>Nogent-le-Rotrou <br/>
+<td valign="top" width="227">
+<p>Vernon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 241 <br/>
+<td valign="top" width="76">
+<p align="center">0,267</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>29 <br/>
+<td valign="top" width="38">
+<p align="center">28</p>
 </td>
-<td align="center">
-<br/>Réseau de Brest <br/>
+<td valign="top" width="265">
+<p>ZUP de la Madeleine </p>
 </td>
-<td align="center">
-<br/>Brest <br/>
+<td valign="top" width="227">
+<p>Chartres </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 031 <br/>
+<td valign="top" width="76">
+<p align="center">0,206</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>30 <br/>
+<td valign="top" width="38">
+<p align="center">28</p>
 </td>
-<td align="center">
-<br/>Quartier Ouest <br/>
+<td valign="top" width="265">
+<p>Les Gauchetières </p>
 </td>
-<td align="center">
-<br/>Nîmes <br/>
+<td valign="top" width="227">
+<p>Nogent-le-Rotrou </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 241 <br/>
+<td valign="top" width="76">
+<p align="center">0,235</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>31 <br/>
+<td valign="top" width="38">
+<p align="center">29</p>
 </td>
-<td align="center">
-<br/>Réseau de Toulouse (UIOM) <br/>
+<td valign="top" width="265">
+<p>Réseau de Brest </p>
 </td>
-<td align="center">
-<br/>Toulouse <br/>
+<td valign="top" width="227">
+<p>Brest </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,034</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>31 <br/>
+<td valign="top" width="38">
+<p align="center">30</p>
 </td>
-<td align="center">
-<br/>ZAC du Ritouret <br/>
+<td valign="top" width="265">
+<p>Quartier Ouest </p>
 </td>
-<td align="center">
-<br/>Blagnac <br/>
+<td valign="top" width="227">
+<p>Nîmes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 138 <br/>
+<td valign="top" width="76">
+<p align="center">0,239</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>33 <br/>
+<td valign="top" width="38">
+<p align="center">30</p>
 </td>
-<td align="center">
-<br/>Parc de Mérignac-Ville-Stemer <br/>
+<td valign="top" width="265">
+<p>Centre-Ville Alès </p>
 </td>
-<td align="center">
-<br/>Mérignac <br/>
+<td valign="top" width="227">
+<p>Alès </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 238 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>33 <br/>
+<td valign="top" width="38">
+<p align="center">31</p>
 </td>
-<td align="center">
-<br/>Hauts de Garonne <br/>
+<td valign="top" width="265">
+<p>Réseau de Toulouse (UIOM) </p>
 </td>
-<td align="center">
-<br/>Cenon-Lormont - Floirac <br/>
+<td valign="top" width="227">
+<p>Toulouse </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 091 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>33 <br/>
+<td valign="top" width="38">
+<p align="center">31</p>
 </td>
-<td align="center">
-<br/>Puis de Gueyrosse <br/>
+<td valign="top" width="265">
+<p>ZAC du Ritouret </p>
 </td>
-<td align="center">
-<br/>Libourne <br/>
+<td valign="top" width="227">
+<p>Blagnac </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 241 <br/>
+<td valign="top" width="76">
+<p align="center">0,147</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>33 <br/>
+<td valign="top" width="38">
+<p align="center">31</p>
 </td>
-<td align="center">
-<br/>La Benauge - cité Pinçon <br/>
+<td valign="top" width="265">
+<p>CSU Rangueil </p>
 </td>
-<td align="center">
-<br/>Bordeaux <br/>
+<td valign="top" width="227">
+<p>Toulouse </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 193 <br/>
+<td valign="top" width="76">
+<p align="center">0,018</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">33</p>
 </td>
-<td align="center">
-<br/>Polygone Antigone <br/>
+<td valign="top" width="265">
+<p>Parc de Mérignac Ville Stemer </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Mérignac </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 313 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">33</p>
 </td>
-<td align="center">
-<br/>Polygone Antigone <br/>
+<td valign="top" width="265">
+<p>Hauts de Garonne </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Cenon Lormont - Floirac </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">33</p>
 </td>
-<td align="center">
-<br/>Ernest Granier <br/>
+<td valign="top" width="265">
+<p>Puis de Gueyrosse </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Libourne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 236 <br/>
+<td valign="top" width="76">
+<p align="center">0,285</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">33</p>
 </td>
-<td align="center">
-<br/>Ernest Granier <br/>
+<td valign="top" width="265">
+<p>La Benauge - Cité Pinçon </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Bordeaux </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 237 <br/>
+<td valign="top" width="76">
+<p align="center">0,188</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Port Marianne <br/>
+<td valign="top" width="265">
+<p>Polygone Antigone </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 130 <br/>
+<td valign="top" width="76">
+<p align="center">0,267</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Port Marianne <br/>
+<td valign="top" width="265">
+<p>Polygone Antigone </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 018 <br/>
+<td valign="top" width="76">
+<p align="center">0,063</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Réseau de Fraïsse-sur-Agoût <br/>
+<td valign="top" width="265">
+<p>Ernest Granier </p>
 </td>
-<td align="center">
-<br/>Fraïsse-sur-Agoût <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 046 <br/>
+<td valign="top" width="76">
+<p align="center">0,221</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Réseau des universités <br/>
+<td valign="top" width="265">
+<p>Ernest Granier </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 178 <br/>
+<td valign="top" width="76">
+<p align="center">0,191</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Réseau Arches Jacques-Cœur <br/>
+<td valign="top" width="265">
+<p>Port Marianne </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 222 <br/>
+<td valign="top" width="76">
+<p align="center">0,145</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Réseau Arches Jacques-Cœur <br/>
+<td valign="top" width="265">
+<p>Port Marianne </p>
 </td>
-<td align="center">
-<br/>Montpellier <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 013 <br/>
+<td valign="top" width="76">
+<p align="center">0,007</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>35 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Villejean - Beauregard <br/>
+<td valign="top" width="265">
+<p>Réseau de Fraisse-sur-Agout </p>
 </td>
-<td align="center">
-<br/>Rennes <br/>
+<td valign="top" width="227">
+<p>Fraisse-sur-Agout </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 119 <br/>
+<td valign="top" width="76">
+<p align="center">0,271</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>35 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>UIOM Vitré <br/>
+<td valign="top" width="265">
+<p>Réseau des universités </p>
 </td>
-<td align="center">
-<br/>Vitré <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,016</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>35 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Sarah Bernhardt <br/>
+<td valign="top" width="265">
+<p>Réseau Arches Jacques Cœur </p>
 </td>
-<td align="center">
-<br/>Rennes <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 199 <br/>
+<td valign="top" width="76">
+<p align="center">0,160</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>35 <br/>
+<td valign="top" width="38">
+<p align="center">34</p>
 </td>
-<td align="center">
-<br/>Campus scientifique de Beaulieu <br/>
+<td valign="top" width="265">
+<p>Réseau Arches Jacques Cœur </p>
 </td>
-<td align="center">
-<br/>Rennes <br/>
+<td valign="top" width="227">
+<p>Montpellier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 153 <br/>
+<td valign="top" width="76">
+<p align="center">0,013</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>35 <br/>
+<td valign="top" width="38">
+<p align="center">35</p>
 </td>
-<td align="center">
-<br/>Quartier Sud <br/>
+<td valign="top" width="265">
+<p>Villejean - Beauregard </p>
 </td>
-<td align="center">
-<br/>Rennes <br/>
+<td valign="top" width="227">
+<p>Rennes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 258 <br/>
+<td valign="top" width="76">
+<p align="center">0,097</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>36 <br/>
+<td valign="top" width="38">
+<p align="center">35</p>
 </td>
-<td align="center">
-<br/>Quartier Saint-Jean <br/>
+<td valign="top" width="265">
+<p>Sarah Bernhardt </p>
 </td>
-<td align="center">
-<br/>Châteauroux <br/>
+<td valign="top" width="227">
+<p>Rennes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 292 <br/>
+<td valign="top" width="76">
+<p align="center">0,156</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>37 <br/>
+<td valign="top" width="38">
+<p align="center">35</p>
 </td>
-<td align="center">
-<br/>Morier et Rabière <br/>
+<td valign="top" width="265">
+<p>Campus scientifique de Beaulieu </p>
 </td>
-<td align="center">
-<br/>Joué-lès-Tours <br/>
+<td valign="top" width="227">
+<p>Rennes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 230 <br/>
+<td valign="top" width="76">
+<p align="center">0,179</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>37 <br/>
+<td valign="top" width="38">
+<p align="center">35</p>
 </td>
-<td align="center">
-<br/>ZUP des Bords de Cher <br/>
+<td valign="top" width="265">
+<p>Quartier Sud </p>
 </td>
-<td align="center">
-<br/>Tours <br/>
+<td valign="top" width="227">
+<p>Rennes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 228 <br/>
+<td valign="top" width="76">
+<p align="center">0,239</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>37 <br/>
+<td valign="top" width="38">
+<p align="center">36</p>
 </td>
-<td align="center">
-<br/>Sanitas <br/>
+<td valign="top" width="265">
+<p>Géothermie du quartier Saint-Jean </p>
 </td>
-<td align="center">
-<br/>Tours <br/>
+<td valign="top" width="227">
+<p>Châteauroux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 257 <br/>
+<td valign="top" width="76">
+<p align="center">0,069</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>37 <br/>
+<td valign="top" width="38">
+<p align="center">37</p>
 </td>
-<td align="center">
-<br/>Quartier Chateaubriand <br/>
+<td valign="top" width="265">
+<p>Morier et Rabière </p>
 </td>
-<td align="center">
-<br/>Tours <br/>
+<td valign="top" width="227">
+<p>Joué-lès-Tours </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 178 <br/>
+<td valign="top" width="76">
+<p align="center">0,228</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>37 <br/>
+<td valign="top" width="38">
+<p align="center">37</p>
 </td>
-<td align="center">
-<br/>La Rabaterie <br/>
+<td valign="top" width="265">
+<p>ZUP des Bords de Cher </p>
 </td>
-<td align="center">
-<br/>Saint-Pierre-des-Corps <br/>
+<td valign="top" width="227">
+<p>Tours </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 160 <br/>
+<td valign="top" width="76">
+<p align="center">0,236</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>38 <br/>
+<td valign="top" width="38">
+<p align="center">37</p>
 </td>
-<td align="center">
-<br/>Réseau de Grenoble <br/>
+<td valign="top" width="265">
+<p>Sanitas </p>
 </td>
-<td align="center">
-<br/>Grenoble <br/>
+<td valign="top" width="227">
+<p>Tours </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 161 <br/>
+<td valign="top" width="76">
+<p align="center">0,256</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>38 <br/>
+<td valign="top" width="38">
+<p align="center">37</p>
 </td>
-<td align="center">
-<br/>Réseau de Grenoble <br/>
+<td valign="top" width="265">
+<p>Quartier Chateaubriand </p>
 </td>
-<td align="center">
-<br/>Grenoble <br/>
+<td valign="top" width="227">
+<p>Tours </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 011 <br/>
+<td valign="top" width="76">
+<p align="center">0,167</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>38 <br/>
+<td valign="top" width="38">
+<p align="center">37</p>
 </td>
-<td align="center">
-<br/>Réseau de Saint-Marcellin <br/>
+<td valign="top" width="265">
+<p>La Rabaterie </p>
 </td>
-<td align="center">
-<br/>Saint-Marcellin <br/>
+<td valign="top" width="227">
+<p>Saint-Pierre-des-Corps </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 001 <br/>
+<td valign="top" width="76">
+<p align="center">0,242</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>39 <br/>
+<td valign="top" width="38">
+<p align="center">38</p>
 </td>
-<td align="center">
-<br/>Réseau de Dole <br/>
+<td valign="top" width="265">
+<p>Compagnie de chauffage de Grenoble </p>
 </td>
-<td align="center">
-<br/>Dole <br/>
+<td valign="top" width="227">
+<p>Grenoble </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 267 <br/>
+<td valign="top" width="76">
+<p align="center">0,176</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>39 <br/>
+<td valign="top" width="38">
+<p align="center">38</p>
 </td>
-<td align="center">
-<br/>La Marjorie <br/>
+<td valign="top" width="265">
+<p>Compagnie de chauffage de Grenoble </p>
 </td>
-<td align="center">
-<br/>Lons-le-Saunier <br/>
+<td valign="top" width="227">
+<p>Grenoble </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 073 <br/>
+<td valign="top" width="76">
+<p align="center">0,010</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>40 <br/>
+<td valign="top" width="38">
+<p align="center">38</p>
 </td>
-<td align="center">
-<br/>Réseau de Mont-de-Marsan - Cogetec <br/>
+<td valign="top" width="265">
+<p>UIOM SITOM Nord Isère </p>
 </td>
-<td align="center">
-<br/>Mont-de-Marsan <br/>
+<td valign="top" width="227">
+<p>Bourgoin-Jallieu </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>40 <br/>
+<td valign="top" width="38">
+<p align="center">38</p>
 </td>
-<td align="center">
-<br/>ZAC des Bords de l'Adour <br/>
+<td valign="top" width="265">
+<p>Réseau de Saint-Marcellin </p>
 </td>
-<td align="center">
-<br/>Dax <br/>
+<td valign="top" width="227">
+<p>Saint-Marcellin </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 204 <br/>
+<td valign="top" width="76">
+<p align="center">0,012</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>41 <br/>
+<td valign="top" width="38">
+<p align="center">39</p>
 </td>
-<td align="center">
-<br/>Quartier Bégon et Chevalier <br/>
+<td valign="top" width="265">
+<p>Réseau de Dole </p>
 </td>
-<td align="center">
-<br/>Blois <br/>
+<td valign="top" width="227">
+<p>Dole </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 215 <br/>
+<td valign="top" width="76">
+<p align="center">0,212</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">39</p>
 </td>
-<td align="center">
-<br/>ZUP de la Cotonne <br/>
+<td valign="top" width="265">
+<p>La Marjorie </p>
 </td>
-<td align="center">
-<br/>Saint-Etienne <br/>
+<td valign="top" width="227">
+<p>Lons-le-Saunier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 206 <br/>
+<td valign="top" width="76">
+<p align="center">0,074</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">40</p>
 </td>
-<td align="center">
-<br/>La Métare <br/>
+<td valign="top" width="265">
+<p>ZAC des Bords de l'Adour </p>
 </td>
-<td align="center">
-<br/>Saint-Etienne <br/>
+<td valign="top" width="227">
+<p>Dax </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 222 <br/>
+<td valign="top" width="76">
+<p align="center">0,192</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">41</p>
 </td>
-<td align="center">
-<br/>Montchovet - Beaulieu 4 (HLM) <br/>
+<td valign="top" width="265">
+<p>Quartier Bégon et Chevalier </p>
 </td>
-<td align="center">
-<br/>Saint-Etienne <br/>
+<td valign="top" width="227">
+<p>Blois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 219 <br/>
+<td valign="top" width="76">
+<p align="center">0,073</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">41</p>
 </td>
-<td align="center">
-<br/>Réseau de Firminy <br/>
+<td valign="top" width="265">
+<p>ZAC des Paradis </p>
 </td>
-<td align="center">
-<br/>Firminy <br/>
+<td valign="top" width="227">
+<p>Vineuil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 272 <br/>
+<td valign="top" width="76">
+<p align="center">0,003</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>ZUP RN 7 <br/>
+<td valign="top" width="265">
+<p>ZUP de la Cotonne </p>
 </td>
-<td align="center">
-<br/>Roanne <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 225 <br/>
+<td valign="top" width="76">
+<p align="center">0,212</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>ZUP du Parc des Sports <br/>
+<td valign="top" width="265">
+<p>La Métare </p>
 </td>
-<td align="center">
-<br/>Roanne <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 270 <br/>
+<td valign="top" width="76">
+<p align="center">0,229</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>ZUP de Montreynaud <br/>
+<td valign="top" width="265">
+<p>Montchovet - Beaulieu 4 (HLM) </p>
 </td>
-<td align="center">
-<br/>Saint-Etienne <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>43 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>Langeac <br/>
+<td valign="top" width="265">
+<p>Réseau de Firminy </p>
 </td>
-<td align="center">
-<br/>Langeac <br/>
+<td valign="top" width="227">
+<p>Firminy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 005 <br/>
+<td valign="top" width="76">
+<p align="center">0,260</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>44 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>Beaulieu Malakoff - Valorena <br/>
+<td valign="top" width="265">
+<p>ZUP RN 7 </p>
 </td>
-<td align="center">
-<br/>Nantes <br/>
+<td valign="top" width="227">
+<p>Roanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 028 <br/>
+<td valign="top" width="76">
+<p align="center">0,239</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>44 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>ZUP de Bellevue Saint-Herblain <br/>
+<td valign="top" width="265">
+<p>ZUP du Parc des Sports </p>
 </td>
-<td align="center">
-<br/>Nantes - Saint-Herblain <br/>
+<td valign="top" width="227">
+<p>Roanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 238 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>45 <br/>
+<td valign="top" width="38">
+<p align="center">42</p>
 </td>
-<td align="center">
-<br/>Socos <br/>
+<td valign="top" width="265">
+<p>ZUP de Montreynaud </p>
 </td>
-<td align="center">
-<br/>Orléans <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 291 <br/>
+<td valign="top" width="76">
+<p align="center">0,223</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>45 <br/>
+<td valign="top" width="38">
+<p align="center">43</p>
 </td>
-<td align="center">
-<br/>Quartier centre-ville et Nord <br/>
+<td valign="top" width="265">
+<p>Langeac </p>
 </td>
-<td align="center">
-<br/>Orléans <br/>
+<td valign="top" width="227">
+<p>Langeac </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 250 <br/>
+<td valign="top" width="76">
+<p align="center">0,136</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>45 <br/>
+<td valign="top" width="38">
+<p align="center">44</p>
 </td>
-<td align="center">
-<br/>ZUP de Socham <br/>
+<td valign="top" width="265">
+<p>Beaulieu Malakoff - Valorena </p>
 </td>
-<td align="center">
-<br/>Montargis <br/>
+<td valign="top" width="227">
+<p>Nantes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 236 <br/>
+<td valign="top" width="76">
+<p align="center">0,024</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>45 <br/>
+<td valign="top" width="38">
+<p align="center">44</p>
 </td>
-<td align="center">
-<br/>Réseau de Fleury-les-Aubrais <br/>
+<td valign="top" width="265">
+<p>ZUP de Bellevue Saint-Herblain </p>
 </td>
-<td align="center">
-<br/>Fleury-les-Aubrais <br/>
+<td valign="top" width="227">
+<p>Nantes - Saint-Herblain </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 235 <br/>
+<td valign="top" width="76">
+<p align="center">0,230</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>46 <br/>
+<td valign="top" width="38">
+<p align="center">45</p>
 </td>
-<td align="center">
-<br/>Réseau de Nuzéjouls <br/>
+<td valign="top" width="265">
+<p>Socos </p>
 </td>
-<td align="center">
-<br/>Nuzéjouls <br/>
+<td valign="top" width="227">
+<p>Orléans </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 275 <br/>
+<td valign="top" width="76">
+<p align="center">0,260</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>47 <br/>
+<td valign="top" width="38">
+<p align="center">45</p>
 </td>
-<td align="center">
-<br/>Novergie Sud-Ouest Sogad (UIOM) <br/>
+<td valign="top" width="265">
+<p>Quartier Centre-Ville et Nord </p>
 </td>
-<td align="center">
-<br/>Le Passage <br/>
+<td valign="top" width="227">
+<p>Orléans </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49 <br/>
+<td valign="top" width="38">
+<p align="center">45</p>
 </td>
-<td align="center">
-<br/>Réseau d'Angers <br/>
+<td valign="top" width="265">
+<p>ZUP de Socham </p>
 </td>
-<td align="center">
-<br/>Angers <br/>
+<td valign="top" width="227">
+<p>Montargis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 072 <br/>
+<td valign="top" width="76">
+<p align="center">0,243</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49 <br/>
+<td valign="top" width="38">
+<p align="center">45</p>
 </td>
-<td align="center">
-<br/>ZUP de Jeanne-d'Arc <br/>
+<td valign="top" width="265">
+<p>Réseau de Fleury-les-Aubrais </p>
 </td>
-<td align="center">
-<br/>Angers <br/>
+<td valign="top" width="227">
+<p>Fleury-les-Aubrais </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 217 <br/>
+<td valign="top" width="76">
+<p align="center">0,247</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49 <br/>
+<td valign="top" width="38">
+<p align="center">46</p>
 </td>
-<td align="center">
-<br/>CHU Angers <br/>
+<td valign="top" width="265">
+<p>Réseau de Nuzéjouls </p>
 </td>
-<td align="center">
-<br/>Angers <br/>
+<td valign="top" width="227">
+<p>Nuzéjouls </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 244 <br/>
+<td valign="top" width="76">
+<p align="center">0,057</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49 <br/>
+<td valign="top" width="38">
+<p align="center">47</p>
 </td>
-<td align="center">
-<br/>Chemin-Vert <br/>
+<td valign="top" width="265">
+<p>Novergie Sud-Ouest-Sogad (UIOM) </p>
 </td>
-<td align="center">
-<br/>Saumur <br/>
+<td valign="top" width="227">
+<p>Le Passage </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>50 <br/>
+<td valign="top" width="38">
+<p align="center">49</p>
 </td>
-<td align="center">
-<br/>ZUP d'Octeville <br/>
+<td valign="top" width="265">
+<p>Réseau d'Angers </p>
 </td>
-<td align="center">
-<br/>Cherbourg <br/>
+<td valign="top" width="227">
+<p>Angers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 225 <br/>
+<td valign="top" width="76">
+<p align="center">0,059</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>50 <br/>
+<td valign="top" width="38">
+<p align="center">49</p>
 </td>
-<td align="center">
-<br/>Ilot-Divette <br/>
+<td valign="top" width="265">
+<p>ZUP de Jeanne d'Arc </p>
 </td>
-<td align="center">
-<br/>Cherbourg <br/>
+<td valign="top" width="227">
+<p>Angers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 294 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>51 <br/>
+<td valign="top" width="38">
+<p align="center">49</p>
 </td>
-<td align="center">
-<br/>ZUP Laon-Neufchâtel <br/>
+<td valign="top" width="265">
+<p>CHU Angers </p>
 </td>
-<td align="center">
-<br/>Reims <br/>
+<td valign="top" width="227">
+<p>Angers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 217 <br/>
+<td valign="top" width="76">
+<p align="center">0,234</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>51 <br/>
+<td valign="top" width="38">
+<p align="center">49</p>
 </td>
-<td align="center">
-<br/>Réseau UIOM Reims <br/>
+<td valign="top" width="265">
+<p>Chemin Vert </p>
 </td>
-<td align="center">
-<br/>Reims <br/>
+<td valign="top" width="227">
+<p>Saumur </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,268</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>51 <br/>
+<td valign="top" width="38">
+<p align="center">49</p>
 </td>
-<td align="center">
-<br/>Croix-Rouge <br/>
+<td valign="top" width="265">
+<p>Réseau de chaleur d'Andrezé </p>
 </td>
-<td align="center">
-<br/>Reims <br/>
+<td valign="top" width="227">
+<p>Andrezé </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 257 <br/>
+<td valign="top" width="76">
+<p align="center">0,094</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>52 <br/>
+<td valign="top" width="38">
+<p align="center">50</p>
 </td>
-<td align="center">
-<br/>ZUP de Gigny <br/>
+<td valign="top" width="265">
+<p>ZUP d'Octeville </p>
 </td>
-<td align="center">
-<br/>Saint-Dizier <br/>
+<td valign="top" width="227">
+<p>Cherbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 247 <br/>
+<td valign="top" width="76">
+<p align="center">0,253</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>52 <br/>
+<td valign="top" width="38">
+<p align="center">50</p>
 </td>
-<td align="center">
-<br/>Ensemble du Vert-Bois <br/>
+<td valign="top" width="265">
+<p>Ilot Divette </p>
 </td>
-<td align="center">
-<br/>Saint-Dizier <br/>
+<td valign="top" width="227">
+<p>Cherbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 137 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>52 <br/>
+<td valign="top" width="38">
+<p align="center">51</p>
 </td>
-<td align="center">
-<br/>La Rochotte <br/>
+<td valign="top" width="265">
+<p>ZUP Laon Neufchâtel </p>
 </td>
-<td align="center">
-<br/>Chaumont <br/>
+<td valign="top" width="227">
+<p>Reims </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 260 <br/>
+<td valign="top" width="76">
+<p align="center">0,184</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>53 <br/>
+<td valign="top" width="38">
+<p align="center">51</p>
 </td>
-<td align="center">
-<br/>ZUP de Nicolas <br/>
+<td valign="top" width="265">
+<p>Réseau UIOM </p>
 </td>
-<td align="center">
-<br/>Laval <br/>
+<td valign="top" width="227">
+<p>Reims </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 258 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td valign="top" width="38">
+<p align="center">51</p>
 </td>
-<td align="center">
-<br/>Nancy Energie <br/>
+<td valign="top" width="265">
+<p>Croix Rouge </p>
 </td>
-<td align="center">
-<br/>Nancy <br/>
+<td valign="top" width="227">
+<p>Reims </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 247 <br/>
+<td valign="top" width="76">
+<p align="center">0,242</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td valign="top" width="38">
+<p align="center">52</p>
 </td>
-<td align="center">
-<br/>Réseau de Vandœuvre <br/>
+<td valign="top" width="265">
+<p>ZUP de Gigny </p>
 </td>
-<td align="center">
-<br/>Vandœuvre-lès-Nancy <br/>
+<td valign="top" width="227">
+<p>Saint-Dizier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 171 <br/>
+<td valign="top" width="76">
+<p align="center">0,247</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td valign="top" width="38">
+<p align="center">52</p>
 </td>
-<td align="center">
-<br/>Réseau de Toul - Croix de Metz (HLM) <br/>
+<td valign="top" width="265">
+<p>Ensemble du Vert Bois </p>
 </td>
-<td align="center">
-<br/>Toul <br/>
+<td valign="top" width="227">
+<p>Saint-Dizier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 313 <br/>
+<td valign="top" width="76">
+<p align="center">0,141</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td valign="top" width="38">
+<p align="center">52</p>
 </td>
-<td align="center">
-<br/>Haut du Lièvre <br/>
+<td valign="top" width="265">
+<p>La Rochotte </p>
 </td>
-<td align="center">
-<br/>Nancy <br/>
+<td valign="top" width="227">
+<p>Chaumont </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 317 <br/>
+<td valign="top" width="76">
+<p align="center">0,229</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td valign="top" width="38">
+<p align="center">53</p>
 </td>
-<td align="center">
-<br/>Quartier Centre - Joffre Saint-Thiebaut <br/>
+<td valign="top" width="265">
+<p>ZUP de Nicolas </p>
 </td>
-<td align="center">
-<br/>Nancy <br/>
+<td valign="top" width="227">
+<p>Laval </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 333 <br/>
+<td valign="top" width="76">
+<p align="center">0,228</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>55 <br/>
+<td valign="top" width="38">
+<p align="center">54</p>
 </td>
-<td align="center">
-<br/>Côte Sainte-Catherine <br/>
+<td valign="top" width="265">
+<p>Nancy Energie </p>
 </td>
-<td align="center">
-<br/>Bar-le-Duc <br/>
+<td valign="top" width="227">
+<p>Nancy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,241</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>55 <br/>
+<td valign="top" width="38">
+<p align="center">54</p>
 </td>
-<td align="center">
-<br/>ZUP Anthouard <br/>
+<td valign="top" width="265">
+<p>Réseau de Vandœuvre </p>
 </td>
-<td align="center">
-<br/>Verdun <br/>
+<td valign="top" width="227">
+<p>Vandœuvre-lès-Nancy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 236 <br/>
+<td valign="top" width="76">
+<p align="center">0,182</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">54</p>
 </td>
-<td align="center">
-<br/>Metz Cité <br/>
+<td valign="top" width="265">
+<p>Haut du Lièvre </p>
 </td>
-<td align="center">
-<br/>Metz <br/>
+<td valign="top" width="227">
+<p>Nancy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 198 <br/>
+<td valign="top" width="76">
+<p align="center">0,282</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">54</p>
 </td>
-<td align="center">
-<br/>Metz Est <br/>
+<td valign="top" width="265">
+<p>Quartier Centre - Joffre-Saint-Thiebaut </p>
 </td>
-<td align="center">
-<br/>Metz <br/>
+<td valign="top" width="227">
+<p>Nancy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 363 <br/>
+<td valign="top" width="76">
+<p align="center">0,338</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">55</p>
 </td>
-<td align="center">
-<br/>Réseau du Farébersviller <br/>
+<td valign="top" width="265">
+<p>Côte Sainte-Catherine </p>
 </td>
-<td align="center">
-<br/>Farébersviller <br/>
+<td valign="top" width="227">
+<p>Bar-le-Duc </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 225 <br/>
+<td valign="top" width="76">
+<p align="center">0,263</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">55</p>
 </td>
-<td align="center">
-<br/>Wenheck <br/>
+<td valign="top" width="265">
+<p>ZUP Anthouard </p>
 </td>
-<td align="center">
-<br/>Saint-Avold <br/>
+<td valign="top" width="227">
+<p>Verdun </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,206</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Réseau de Freyming-Merlebach <br/>
+<td valign="top" width="265">
+<p>Metz Cité </p>
 </td>
-<td align="center">
-<br/>Freyming-Merlebach <br/>
+<td valign="top" width="227">
+<p>Metz </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,201</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Réseau de Sarreguemines <br/>
+<td valign="top" width="265">
+<p>Metz Est </p>
 </td>
-<td align="center">
-<br/>Sarreguemines <br/>
+<td valign="top" width="227">
+<p>Metz </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 270 <br/>
+<td valign="top" width="76">
+<p align="center">0,238</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Réseau de Holweg-Forbach-Behren <br/>
+<td valign="top" width="265">
+<p>Réseau du Farébersviller </p>
 </td>
-<td align="center">
-<br/>Forbach - Stiring-Wendel - Behren-lès-Forbach <br/>
+<td valign="top" width="227">
+<p>Farébersviller </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 205 <br/>
+<td valign="top" width="76">
+<p align="center">0,200</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Huchet <br/>
+<td valign="top" width="265">
+<p>Wenheck </p>
 </td>
-<td align="center">
-<br/>Saint-Avold <br/>
+<td valign="top" width="227">
+<p>Saint-Avold </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 204 <br/>
+<td valign="top" width="76">
+<p align="center">0,221</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Côte de la justice <br/>
+<td valign="top" width="265">
+<p>Réseau de Freyming-Merlebach </p>
 </td>
-<td align="center">
-<br/>Saint-Avold <br/>
+<td valign="top" width="227">
+<p>Freyming-Merlebach </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 213 <br/>
+<td valign="top" width="76">
+<p align="center">0,271</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Carrière <br/>
+<td valign="top" width="265">
+<p>Réseau de Sarreguemines </p>
 </td>
-<td align="center">
-<br/>Saint-Avold <br/>
+<td valign="top" width="227">
+<p>Sarreguemines </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 235 <br/>
+<td valign="top" width="76">
+<p align="center">0,251</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>58 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Réseau de Nevers <br/>
+<td valign="top" width="265">
+<p>Réseau de Holweg-Forbach-Behren </p>
 </td>
-<td align="center">
-<br/>Nevers <br/>
+<td valign="top" width="227">
+<p>Forbach - Stiring-Wendel - Behren-lès-Forbach </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 264 <br/>
+<td valign="top" width="76">
+<p align="center">0,208</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Alma Beaurepaire <br/>
+<td valign="top" width="265">
+<p>Huchet </p>
 </td>
-<td align="center">
-<br/>Roubaix <br/>
+<td valign="top" width="227">
+<p>Saint-Avold </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 277 <br/>
+<td valign="top" width="76">
+<p align="center">0,204</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Quartier Pont de bois <br/>
+<td valign="top" width="265">
+<p>Côte de la Justice </p>
 </td>
-<td align="center">
-<br/>Lille <br/>
+<td valign="top" width="227">
+<p>Saint-Avold </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 290 <br/>
+<td valign="top" width="76">
+<p align="center">0,205</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">57</p>
 </td>
-<td align="center">
-<br/>Domaine universitaire et scientifique <br/>
+<td valign="top" width="265">
+<p>Carrière </p>
 </td>
-<td align="center">
-<br/>Villeneuve-d'Ascq <br/>
+<td valign="top" width="227">
+<p>Saint-Avold </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 235 <br/>
+<td valign="top" width="76">
+<p align="center">0,222</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">58</p>
 </td>
-<td align="center">
-<br/>ZUP de Wattignies - Blanc Riez <br/>
+<td valign="top" width="265">
+<p>Réseau de Nevers </p>
 </td>
-<td align="center">
-<br/>Wattignies <br/>
+<td valign="top" width="227">
+<p>Nevers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,234</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Réseau de Roubaix - Wattrelos <br/>
+<td valign="top" width="265">
+<p>Alma-Beaurepaire </p>
 </td>
-<td align="center">
-<br/>Roubaix <br/>
+<td valign="top" width="227">
+<p>Roubaix </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 243 <br/>
+<td valign="top" width="76">
+<p align="center">0,278</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>ZAC des Epis <br/>
+<td valign="top" width="265">
+<p>Quartier Pont de bois </p>
 </td>
-<td align="center">
-<br/>Sin-le-Noble <br/>
+<td valign="top" width="227">
+<p>Lille </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 231 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Monsenergie <br/>
+<td valign="top" width="265">
+<p>Domaine Universitaire et Scientifique </p>
 </td>
-<td align="center">
-<br/>Mons-en-Barœul <br/>
+<td valign="top" width="227">
+<p>Villeneuve-d'Ascq </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 149 <br/>
+<td valign="top" width="76">
+<p align="center">0,240</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Métropole Nord <br/>
+<td valign="top" width="265">
+<p>ZUP de Wattignies - Blanc Riez </p>
 </td>
-<td align="center">
-<br/>Lille <br/>
+<td valign="top" width="227">
+<p>Wattignies </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 229 <br/>
+<td valign="top" width="76">
+<p align="center">0,177</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>ZUP de la Caserne joyeuse <br/>
+<td valign="top" width="265">
+<p>Réseau de Roubaix - Wattrelos </p>
 </td>
-<td align="center">
-<br/>Maubeuge <br/>
+<td valign="top" width="227">
+<p>Roubaix </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,228</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Energie Grand Littoral <br/>
+<td valign="top" width="265">
+<p>ZAC des Epis </p>
 </td>
-<td align="center">
-<br/>Dunkerque <br/>
+<td valign="top" width="227">
+<p>Sin-le-Noble </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 131 <br/>
+<td valign="top" width="76">
+<p align="center">0,228</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Réseau de Compiègne <br/>
+<td valign="top" width="265">
+<p>Monsenergie </p>
 </td>
-<td align="center">
-<br/>Compiègne <br/>
+<td valign="top" width="227">
+<p>Mons-en-Barœul </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 242 <br/>
+<td valign="top" width="76">
+<p align="center">0,174</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>La Cavée <br/>
+<td valign="top" width="265">
+<p>Métropole Nord </p>
 </td>
-<td align="center">
-<br/>Creil <br/>
+<td valign="top" width="227">
+<p>Lille </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 274 <br/>
+<td valign="top" width="76">
+<p align="center">0,245</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Quartier des Obiers <br/>
+<td valign="top" width="265">
+<p>ZUP de la caserne joyeuse </p>
 </td>
-<td align="center">
-<br/>Nogent-sur-Oise <br/>
+<td valign="top" width="227">
+<p>Maubeuge </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 225 <br/>
+<td valign="top" width="76">
+<p align="center">0,236</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60 <br/>
+<td valign="top" width="38">
+<p align="center">59</p>
 </td>
-<td align="center">
-<br/>Les Martinets <br/>
+<td valign="top" width="265">
+<p>Energie Grand Littoral </p>
 </td>
-<td align="center">
-<br/>Montataire <br/>
+<td valign="top" width="227">
+<p>Dunkerque </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,104</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60 <br/>
+<td valign="top" width="38">
+<p align="center">60</p>
 </td>
-<td align="center">
-<br/>Les Hironvalles <br/>
+<td valign="top" width="265">
+<p>Réseau de Compiègne </p>
 </td>
-<td align="center">
-<br/>Creil <br/>
+<td valign="top" width="227">
+<p>Compiègne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 202 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>61 <br/>
+<td valign="top" width="38">
+<p align="center">60</p>
 </td>
-<td align="center">
-<br/>Perseigne <br/>
+<td valign="top" width="265">
+<p>La Cavée </p>
 </td>
-<td align="center">
-<br/>Alençon <br/>
+<td valign="top" width="227">
+<p>Creil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 239 <br/>
+<td valign="top" width="76">
+<p align="center">0,256</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>61 <br/>
+<td valign="top" width="38">
+<p align="center">60</p>
 </td>
-<td align="center">
-<br/>ZUP de Flers <br/>
+<td valign="top" width="265">
+<p>Quartier des Obiers </p>
 </td>
-<td align="center">
-<br/>Flers <br/>
+<td valign="top" width="227">
+<p>Nogent-sur-Oise </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 267 <br/>
+<td valign="top" width="76">
+<p align="center">0,225</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>61 <br/>
+<td valign="top" width="38">
+<p align="center">60</p>
 </td>
-<td align="center">
-<br/>Quartier Nord - route de Falaise <br/>
+<td valign="top" width="265">
+<p>Les Martinets </p>
 </td>
-<td align="center">
-<br/>Argentan <br/>
+<td valign="top" width="227">
+<p>Montataire </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 249 <br/>
+<td valign="top" width="76">
+<p align="center">0,225</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>61 <br/>
+<td valign="top" width="38">
+<p align="center">60</p>
 </td>
-<td align="center">
-<br/>Réseau de La Ferté-Macé <br/>
+<td valign="top" width="265">
+<p>Les Hironvalles </p>
 </td>
-<td align="center">
-<br/>La Ferté-Macé <br/>
+<td valign="top" width="227">
+<p>Creil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 034 <br/>
+<td valign="top" width="76">
+<p align="center">0,202</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">61</p>
 </td>
-<td align="center">
-<br/>ZUP du quartier République <br/>
+<td valign="top" width="265">
+<p>Perseigne </p>
 </td>
-<td align="center">
-<br/>Avion <br/>
+<td valign="top" width="227">
+<p>Alençon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 239 <br/>
+<td valign="top" width="76">
+<p align="center">0,247</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">61</p>
 </td>
-<td align="center">
-<br/>ZUP de Lens <br/>
+<td valign="top" width="265">
+<p>ZUP de Flers </p>
 </td>
-<td align="center">
-<br/>Lens <br/>
+<td valign="top" width="227">
+<p>Flers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 251 <br/>
+<td valign="top" width="76">
+<p align="center">0,276</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">61</p>
 </td>
-<td align="center">
-<br/>ZUP de Béthune <br/>
+<td valign="top" width="265">
+<p>Quartier Nord - Route de Falaise </p>
 </td>
-<td align="center">
-<br/>Béthune <br/>
+<td valign="top" width="227">
+<p>Argentan </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 189 <br/>
+<td valign="top" width="76">
+<p align="center">0,237</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">61</p>
 </td>
-<td align="center">
-<br/>Réseau de Liévin <br/>
+<td valign="top" width="265">
+<p>Réseau de La Ferté-Macé </p>
 </td>
-<td align="center">
-<br/>Liévin <br/>
+<td valign="top" width="227">
+<p>La Ferté-Macé </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 245 <br/>
+<td valign="top" width="76">
+<p align="center">0,029</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>Calais Energie <br/>
+<td valign="top" width="265">
+<p>ZUP du quartier République </p>
 </td>
-<td align="center">
-<br/>Calais <br/>
+<td valign="top" width="227">
+<p>Avion </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 179 <br/>
+<td valign="top" width="76">
+<p align="center">0,227</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>Réseau Centre-Ville <br/>
+<td valign="top" width="265">
+<p>ZUP de Lens </p>
 </td>
-<td align="center">
-<br/>Béthune <br/>
+<td valign="top" width="227">
+<p>Lens </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 267 <br/>
+<td valign="top" width="76">
+<p align="center">0,271</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>62 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>Réseau d'Arras <br/>
+<td valign="top" width="265">
+<p>ZUP de Béthune </p>
 </td>
-<td align="center">
-<br/>Arras <br/>
+<td valign="top" width="227">
+<p>Béthune </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 209 <br/>
+<td valign="top" width="76">
+<p align="center">0,209</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>63 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>Saint-Jacques (HLM) <br/>
+<td valign="top" width="265">
+<p>Réseau de Liévin </p>
 </td>
-<td align="center">
-<br/>Clermont-Ferrand <br/>
+<td valign="top" width="227">
+<p>Liévin </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 184 <br/>
+<td valign="top" width="76">
+<p align="center">0,247</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>63 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>ZAC du Masage <br/>
+<td valign="top" width="265">
+<p>Calais Energie </p>
 </td>
-<td align="center">
-<br/>Beaumont <br/>
+<td valign="top" width="227">
+<p>Calais </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 210 <br/>
+<td valign="top" width="76">
+<p align="center">0,191</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>63 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>Campus des Cézeaux <br/>
+<td valign="top" width="265">
+<p>Réseau Centre-Ville </p>
 </td>
-<td align="center">
-<br/>Aubière <br/>
+<td valign="top" width="227">
+<p>Béthune </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 248 <br/>
+<td valign="top" width="76">
+<p align="center">0,261</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>63 <br/>
+<td valign="top" width="38">
+<p align="center">62</p>
 </td>
-<td align="center">
-<br/>ZUP de la Gauthière <br/>
+<td valign="top" width="265">
+<p>Réseau d'Arras </p>
 </td>
-<td align="center">
-<br/>Clermont-Ferrand <br/>
+<td valign="top" width="227">
+<p>Arras </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 211 <br/>
+<td valign="top" width="76">
+<p align="center">0,200</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>63 <br/>
+<td valign="top" width="38">
+<p align="center">63</p>
 </td>
-<td align="center">
-<br/>Réseau de Royat <br/>
+<td valign="top" width="265">
+<p>Saint-Jacques (HLM) </p>
 </td>
-<td align="center">
-<br/>Royat <br/>
+<td valign="top" width="227">
+<p>Clermont-Ferrand </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 242 <br/>
+<td valign="top" width="76">
+<p align="center">0,201</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">63</p>
 </td>
-<td align="center">
-<br/>Elsau <br/>
+<td valign="top" width="265">
+<p>ZAC du Masage </p>
 </td>
-<td align="center">
-<br/>Strasbourg <br/>
+<td valign="top" width="227">
+<p>Beaumont </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 234 <br/>
+<td valign="top" width="76">
+<p align="center">0,213</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">63</p>
 </td>
-<td align="center">
-<br/>Hautepierre <br/>
+<td valign="top" width="265">
+<p>Campus des Cézeaux </p>
 </td>
-<td align="center">
-<br/>Strasbourg <br/>
+<td valign="top" width="227">
+<p>Aubière </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 238 <br/>
+<td valign="top" width="76">
+<p align="center">0,244</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">63</p>
 </td>
-<td align="center">
-<br/>L'Esplanade <br/>
+<td valign="top" width="265">
+<p>ZUP de la Gauthière </p>
 </td>
-<td align="center">
-<br/>Strasbourg <br/>
+<td valign="top" width="227">
+<p>Clermont-Ferrand </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,207</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">63</p>
 </td>
-<td align="center">
-<br/>Cité Ried <br/>
+<td valign="top" width="265">
+<p>Réseau de Royat </p>
 </td>
-<td align="center">
-<br/>Reichstett <br/>
+<td valign="top" width="227">
+<p>Royat </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 256 <br/>
+<td valign="top" width="76">
+<p align="center">0,221</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>Cité du Wihrel <br/>
+<td valign="top" width="265">
+<p>Elsau </p>
 </td>
-<td align="center">
-<br/>Ostwald <br/>
+<td valign="top" width="227">
+<p>Strasbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 221 <br/>
+<td valign="top" width="76">
+<p align="center">0,238</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>Cité de l'Ill <br/>
+<td valign="top" width="265">
+<p>Hautepierre </p>
 </td>
-<td align="center">
-<br/>Strasbourg <br/>
+<td valign="top" width="227">
+<p>Strasbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 040 <br/>
+<td valign="top" width="76">
+<p align="center">0,242</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>67 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>Réseau de Haguenau <br/>
+<td valign="top" width="265">
+<p>L'Esplanade </p>
 </td>
-<td align="center">
-<br/>Haguenau <br/>
+<td valign="top" width="227">
+<p>Strasbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 274 <br/>
+<td valign="top" width="76">
+<p align="center">0,235</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>Réseau de Colmar <br/>
+<td valign="top" width="265">
+<p>Cité du Wihrel </p>
 </td>
-<td align="center">
-<br/>Colmar <br/>
+<td valign="top" width="227">
+<p>Ostwald </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 136 <br/>
+<td valign="top" width="76">
+<p align="center">0,224</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>L'Illberg <br/>
+<td valign="top" width="265">
+<p>Cité de l'Ill </p>
 </td>
-<td align="center">
-<br/>Didenheim <br/>
+<td valign="top" width="227">
+<p>Strasbourg </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 239 <br/>
+<td valign="top" width="76">
+<p align="center">0,063</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">67</p>
 </td>
-<td align="center">
-<br/>Porte de Bâle <br/>
+<td valign="top" width="265">
+<p>Réseau de Haguenau </p>
 </td>
-<td align="center">
-<br/>Mulhouse <br/>
+<td valign="top" width="227">
+<p>Haguenau </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 327 <br/>
+<td valign="top" width="76">
+<p align="center">0,027</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Cité technique <br/>
+<td valign="top" width="265">
+<p>Réseau de Colmar </p>
 </td>
-<td align="center">
-<br/>Saint-Louis <br/>
+<td valign="top" width="227">
+<p>Colmar </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 231 <br/>
+<td valign="top" width="76">
+<p align="center">0,144</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Ilot de la Gare <br/>
+<td valign="top" width="265">
+<p>L'Illberg </p>
 </td>
-<td align="center">
-<br/>Saint-Louis <br/>
+<td valign="top" width="227">
+<p>Didenheim </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,233</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Réseau de Cernay <br/>
+<td valign="top" width="265">
+<p>Porte de Bâle </p>
 </td>
-<td align="center">
-<br/>Cernay <br/>
+<td valign="top" width="227">
+<p>Mulhouse </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 251 <br/>
+<td valign="top" width="76">
+<p align="center">0,327</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Réseau de Volgelsheim <br/>
+<td valign="top" width="265">
+<p>Cité Technique </p>
 </td>
-<td align="center">
-<br/>Volgelsheim <br/>
+<td valign="top" width="227">
+<p>Saint-Louis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 252 <br/>
+<td valign="top" width="76">
+<p align="center">0,240</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Montagne verte <br/>
+<td valign="top" width="265">
+<p>Ilôt de la Gare </p>
 </td>
-<td align="center">
-<br/>Colmar <br/>
+<td valign="top" width="227">
+<p>Saint-Louis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 257 <br/>
+<td valign="top" width="76">
+<p align="center">0,222</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>68 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Réseau d'Heimersdorf <br/>
+<td valign="top" width="265">
+<p>Réseau de Cernay </p>
 </td>
-<td align="center">
-<br/>Heimersdorf <br/>
+<td valign="top" width="227">
+<p>Cernay </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 038 <br/>
+<td valign="top" width="76">
+<p align="center">0,282</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Les Minguettes <br/>
+<td valign="top" width="265">
+<p>Réseau de Volgelsheim </p>
 </td>
-<td align="center">
-<br/>Vénissieux <br/>
+<td valign="top" width="227">
+<p>Volgelsheim </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 249 <br/>
+<td valign="top" width="76">
+<p align="center">0,248</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>Les Sources (HLM) <br/>
+<td valign="top" width="265">
+<p>Montagne Verte </p>
 </td>
-<td align="center">
-<br/>Ecully <br/>
+<td valign="top" width="227">
+<p>Colmar </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 219 <br/>
+<td valign="top" width="76">
+<p align="center">0,261</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">68</p>
 </td>
-<td align="center">
-<br/>La Duchère et Lyon 9e <br/>
+<td valign="top" width="265">
+<p>Réseau d'Heimersdorf </p>
 </td>
-<td align="center">
-<br/>Champagne-au-Mont-d'Or <br/>
+<td valign="top" width="227">
+<p>Heimersdorf </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 194 <br/>
+<td valign="top" width="76">
+<p align="center">0,008</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Réseau Lyon - Villeurbanne <br/>
+<td valign="top" width="265">
+<p>Les Minguettes </p>
 </td>
-<td align="center">
-<br/>Lyon - Villeurbanne <br/>
+<td valign="top" width="227">
+<p>Vénissieux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 146 <br/>
+<td valign="top" width="76">
+<p align="center">0,243</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Réseau Lyon - Villeurbanne <br/>
+<td valign="top" width="265">
+<p>Les Sources (HLM) </p>
 </td>
-<td align="center">
-<br/>Lyon - Villeurbanne <br/>
+<td valign="top" width="227">
+<p>Ecully </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 011 <br/>
+<td valign="top" width="76">
+<p align="center">0,211</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Réseau de Vaulx-en-Velin <br/>
+<td valign="top" width="265">
+<p>La Duchère et Lyon 9e </p>
 </td>
-<td align="center">
-<br/>Vaulx-en-Velin <br/>
+<td valign="top" width="227">
+<p>Champagne-au-Mont-d'Or </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 328 <br/>
+<td valign="top" width="76">
+<p align="center">0,076</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Campus de la Doua <br/>
+<td valign="top" width="265">
+<p>Réseau Lyon - Villeurbanne </p>
 </td>
-<td align="center">
-<br/>Villeurbanne <br/>
+<td valign="top" width="227">
+<p>Lyon - Villeurbanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 193 <br/>
+<td valign="top" width="76">
+<p align="center">0,170</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>La Perralière 1 <br/>
+<td valign="top" width="265">
+<p>Réseau Lyon - Villeurbanne </p>
 </td>
-<td align="center">
-<br/>Villeurbanne <br/>
+<td valign="top" width="227">
+<p>Lyon - Villeurbanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 203 <br/>
+<td valign="top" width="76">
+<p align="center">0,011</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Les Alagniers <br/>
+<td valign="top" width="265">
+<p>Réseau de Vaulx-en-Velin </p>
 </td>
-<td align="center">
-<br/>Rillieux-la-Pape <br/>
+<td valign="top" width="227">
+<p>Vaulx-en-Velin </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 037 <br/>
+<td valign="top" width="76">
+<p align="center">0,320</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Les Semailles <br/>
+<td valign="top" width="265">
+<p>Campus de la Doua </p>
 </td>
-<td align="center">
-<br/>Rillieux-la-Pape <br/>
+<td valign="top" width="227">
+<p>Villeurbanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 109 <br/>
+<td valign="top" width="76">
+<p align="center">0,225</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>ZUP de Bron Parilly <br/>
+<td valign="top" width="265">
+<p>La Perralière </p>
 </td>
-<td align="center">
-<br/>Bron <br/>
+<td valign="top" width="227">
+<p>Villeurbanne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 223 <br/>
+<td valign="top" width="76">
+<p align="center">0,209</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Les Vernes <br/>
+<td valign="top" width="265">
+<p>Les Semailles </p>
 </td>
-<td align="center">
-<br/>Givors <br/>
+<td valign="top" width="227">
+<p>Rillieux-la-Pape </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 295 <br/>
+<td valign="top" width="76">
+<p align="center">0,154</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>UIOM Villefranche <br/>
+<td valign="top" width="265">
+<p>ZUP de Bron Parilly </p>
 </td>
-<td align="center">
-<br/>Villefranche-sur-Saône <br/>
+<td valign="top" width="227">
+<p>Bron </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,208</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Plateau de Montmein <br/>
+<td valign="top" width="265">
+<p>Les Vernes </p>
 </td>
-<td align="center">
-<br/>Oullins <br/>
+<td valign="top" width="227">
+<p>Givors </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 220 <br/>
+<td valign="top" width="76">
+<p align="center">0,307</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Résidence des Deux Amants <br/>
+<td valign="top" width="265">
+<p>UIOM Villefranche </p>
 </td>
-<td align="center">
-<br/>Lyon <br/>
+<td valign="top" width="227">
+<p>Villefranche-sur-Saône </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 242 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Réseau de Rillieux-la-Pape <br/>
+<td valign="top" width="265">
+<p>Plateau de Montmein </p>
 </td>
-<td align="center">
-<br/>Rillieux-la-Pape <br/>
+<td valign="top" width="227">
+<p>Oullins </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Belleroche Ouest <br/>
+<td valign="top" width="265">
+<p>Résidence des Deux Amants </p>
 </td>
-<td align="center">
-<br/>Gleize <br/>
+<td valign="top" width="227">
+<p>Lyon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 097 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Mermoz Sud <br/>
+<td valign="top" width="265">
+<p>Réseau de Rillieux-la-Pape (UIOM) </p>
 </td>
-<td align="center">
-<br/>Lyon <br/>
+<td valign="top" width="227">
+<p>Rillieux-la-Pape </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 186 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>69 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Domaine de la Roue <br/>
+<td valign="top" width="265">
+<p>Belleroche Ouest </p>
 </td>
-<td align="center">
-<br/>Rillieux-la-Pape <br/>
+<td valign="top" width="227">
+<p>Gleize </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 219 <br/>
+<td valign="top" width="76">
+<p align="center">0,104</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>70 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>ZUP des Capucins <br/>
+<td valign="top" width="265">
+<p>Mermoz Sud </p>
 </td>
-<td align="center">
-<br/>Gray <br/>
+<td valign="top" width="227">
+<p>Lyon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 037 <br/>
+<td valign="top" width="76">
+<p align="center">0,187</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>70 <br/>
+<td valign="top" width="38">
+<p align="center">69</p>
 </td>
-<td align="center">
-<br/>Réseau de Saulnot <br/>
+<td valign="top" width="265">
+<p>Domaine de la Roue </p>
 </td>
-<td align="center">
-<br/>Saulnot <br/>
+<td valign="top" width="227">
+<p>Rillieux-la-Pape </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 007 <br/>
+<td valign="top" width="76">
+<p align="center">0,219</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>71 <br/>
+<td valign="top" width="38">
+<p align="center">70</p>
 </td>
-<td align="center">
-<br/>Réseau de Chalon <br/>
+<td valign="top" width="265">
+<p>ZUP des Capucins </p>
 </td>
-<td align="center">
-<br/>Chalon-sur-Saône <br/>
+<td valign="top" width="227">
+<p>Gray </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 243 <br/>
+<td valign="top" width="76">
+<p align="center">0,029</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>71 <br/>
+<td valign="top" width="38">
+<p align="center">70</p>
 </td>
-<td align="center">
-<br/>Réseau de Montceau-les-mines <br/>
+<td valign="top" width="265">
+<p>Réseau de Saulnot </p>
 </td>
-<td align="center">
-<br/>Montceau-les-Mines <br/>
+<td valign="top" width="227">
+<p>Saulnot </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 344 <br/>
+<td valign="top" width="76">
+<p align="center">0,009</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>71 <br/>
+<td valign="top" width="38">
+<p align="center">70</p>
 </td>
-<td align="center">
-<br/>Réseau de Mâcon <br/>
+<td valign="top" width="265">
+<p>Réseau de Dampierre-sur-Linotte </p>
 </td>
-<td align="center">
-<br/>Mâcon <br/>
+<td valign="top" width="227">
+<p>Dampierre-sur-Linotte </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 345 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>71 <br/>
+<td valign="top" width="38">
+<p align="center">71</p>
 </td>
-<td align="center">
-<br/>Réseau d'Autun <br/>
+<td valign="top" width="265">
+<p>Réseau de Chalon </p>
 </td>
-<td align="center">
-<br/>Autun <br/>
+<td valign="top" width="227">
+<p>Chalon-sur-Saône </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 117 <br/>
+<td valign="top" width="76">
+<p align="center">0,232</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>72 <br/>
+<td valign="top" width="38">
+<p align="center">71</p>
 </td>
-<td align="center">
-<br/>Réseau du Mans <br/>
+<td valign="top" width="265">
+<p>Réseau de Montceau-les-Mines </p>
 </td>
-<td align="center">
-<br/>Le Mans <br/>
+<td valign="top" width="227">
+<p>Montceau-les-Mines </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 268 <br/>
+<td valign="top" width="76">
+<p align="center">0,318</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>72 <br/>
+<td valign="top" width="38">
+<p align="center">71</p>
 </td>
-<td align="center">
-<br/>Percée Centrale <br/>
+<td valign="top" width="265">
+<p>Réseau de Mâcon </p>
 </td>
-<td align="center">
-<br/>Le Mans <br/>
+<td valign="top" width="227">
+<p>Mâcon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 202 <br/>
+<td valign="top" width="76">
+<p align="center">0,356</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>72 <br/>
+<td valign="top" width="38">
+<p align="center">71</p>
 </td>
-<td align="center">
-<br/>ZUP d'Allonnes <br/>
+<td valign="top" width="265">
+<p>Réseau d'Autun </p>
 </td>
-<td align="center">
-<br/>Le Mans - Allonnes <br/>
+<td valign="top" width="227">
+<p>Autun </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 142 <br/>
+<td valign="top" width="76">
+<p align="center">0,123</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>72 <br/>
+<td valign="top" width="38">
+<p align="center">72</p>
 </td>
-<td align="center">
-<br/>Bellevue <br/>
+<td valign="top" width="265">
+<p>Réseau du Mans </p>
 </td>
-<td align="center">
-<br/>Coulaine <br/>
+<td valign="top" width="227">
+<p>Le Mans </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 227 <br/>
+<td valign="top" width="76">
+<p align="center">0,250</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>73 <br/>
+<td valign="top" width="38">
+<p align="center">72</p>
 </td>
-<td align="center">
-<br/>Bissy et Croix Rouge <br/>
+<td valign="top" width="265">
+<p>Percée Centrale </p>
 </td>
-<td align="center">
-<br/>Chambéry <br/>
+<td valign="top" width="227">
+<p>Le Mans </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 264 <br/>
+<td valign="top" width="76">
+<p align="center">0,207</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>73 <br/>
+<td valign="top" width="38">
+<p align="center">72</p>
 </td>
-<td align="center">
-<br/>Réseau de Notre-Dame-des-Millières <br/>
+<td valign="top" width="265">
+<p>ZUP d'Allonnes </p>
 </td>
-<td align="center">
-<br/>Notre-Dame-des-Millières <br/>
+<td valign="top" width="227">
+<p>Le Mans - Allonnes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 272 <br/>
+<td valign="top" width="76">
+<p align="center">0,010</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">72</p>
 </td>
-<td align="center">
-<br/>Novel <br/>
+<td valign="top" width="265">
+<p>Bellevue </p>
 </td>
-<td align="center">
-<br/>Annecy <br/>
+<td valign="top" width="227">
+<p>Coulaine </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,332</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">73</p>
 </td>
-<td align="center">
-<br/>ZUP de Champ Fleury <br/>
+<td valign="top" width="265">
+<p>Bissy et Croix Rouge </p>
 </td>
-<td align="center">
-<br/>Seynod <br/>
+<td valign="top" width="227">
+<p>Chambéry </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 036 <br/>
+<td valign="top" width="76">
+<p align="center">0,250</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">73</p>
 </td>
-<td align="center">
-<br/>Réseau de la Rénovation <br/>
+<td valign="top" width="265">
+<p>Réseau de Notre-Dame-des-Millières </p>
 </td>
-<td align="center">
-<br/>Thonon-les-Bains <br/>
+<td valign="top" width="227">
+<p>Notre-Dame-des-Millières </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 276 <br/>
+<td valign="top" width="76">
+<p align="center">0,272</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">73</p>
 </td>
-<td align="center">
-<br/>Réseau de la ZUP des Ewues <br/>
+<td valign="top" width="265">
+<p>Réseau de Saint-Etienne-de-Cuines </p>
 </td>
-<td align="center">
-<br/>Cluses <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne-de-Cuines </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 256 <br/>
+<td valign="top" width="76">
+<p align="center">0,040</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>ZA La Cudra <br/>
+<td valign="top" width="265">
+<p>Novel </p>
 </td>
-<td align="center">
-<br/>Faverges <br/>
+<td valign="top" width="227">
+<p>Annecy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 001 <br/>
+<td valign="top" width="76">
+<p align="center">0,213</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>74 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>ZUP de Cozets <br/>
+<td valign="top" width="265">
+<p>ZUP de Champ Fleury </p>
 </td>
-<td align="center">
-<br/>Scionzier <br/>
+<td valign="top" width="227">
+<p>Seynod </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,064</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>75 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>Paris et communes limitrophes <br/>
+<td valign="top" width="265">
+<p>Réseau de la Rénovation </p>
 </td>
-<td align="center">
-<br/>Paris <br/>
+<td valign="top" width="227">
+<p>Thonon-les-Bains </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 195 <br/>
+<td valign="top" width="76">
+<p align="center">0,277</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>75 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>Réseau Climespace <br/>
+<td valign="top" width="265">
+<p>Réseau de la ZUP des Ewues </p>
 </td>
-<td align="center">
-<br/>Paris <br/>
+<td valign="top" width="227">
+<p>Cluses </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 145 <br/>
+<td valign="top" width="76">
+<p align="center">0,255</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>75 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>Réseau Climespace <br/>
+<td valign="top" width="265">
+<p>ZA La Cudra </p>
 </td>
-<td align="center">
-<br/>Paris <br/>
+<td valign="top" width="227">
+<p>Faverges </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 010 <br/>
+<td valign="top" width="76">
+<p align="center">0,008</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>75 <br/>
+<td valign="top" width="38">
+<p align="center">74</p>
 </td>
-<td align="center">
-<br/>Rue Legendre <br/>
+<td valign="top" width="265">
+<p>ZUP de Cozets </p>
 </td>
-<td align="center">
-<br/>Paris <br/>
+<td valign="top" width="227">
+<p>Scionzier </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 142 <br/>
+<td valign="top" width="76">
+<p align="center">0,215</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">75</p>
 </td>
-<td align="center">
-<br/>Curb - Bihorel <br/>
+<td valign="top" width="265">
+<p>Paris et communes limitrophes </p>
 </td>
-<td align="center">
-<br/>Rouen <br/>
+<td valign="top" width="227">
+<p>Paris </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 303 <br/>
+<td valign="top" width="76">
+<p align="center">0,195</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">75</p>
 </td>
-<td align="center">
-<br/>ZAC du Mont Gaillard <br/>
+<td valign="top" width="265">
+<p>Réseau Climespace </p>
 </td>
-<td align="center">
-<br/>Le Havre <br/>
+<td valign="top" width="227">
+<p>Paris </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 258 <br/>
+<td valign="top" width="76">
+<p align="center">0,226</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">75</p>
 </td>
-<td align="center">
-<br/>ZUP de Caucriauville <br/>
+<td valign="top" width="265">
+<p>Réseau Climespace </p>
 </td>
-<td align="center">
-<br/>Le Havre <br/>
+<td valign="top" width="227">
+<p>Paris </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 323 <br/>
+<td valign="top" width="76">
+<p align="center">0,011</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">75</p>
 </td>
-<td align="center">
-<br/>Réseau de Mont-Saint-Aignan <br/>
+<td valign="top" width="265">
+<p>Rue Legendre </p>
 </td>
-<td align="center">
-<br/>Mont-Saint-Aignan <br/>
+<td valign="top" width="227">
+<p>Paris </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 253 <br/>
+<td valign="top" width="76">
+<p align="center">0,211</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>ZUP de la Cité verte <br/>
+<td valign="top" width="265">
+<p>Curb - Bihorel </p>
 </td>
-<td align="center">
-<br/>Canteleu <br/>
+<td valign="top" width="227">
+<p>Rouen </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 224 <br/>
+<td valign="top" width="76">
+<p align="center">0,333</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>ZAC Nobel Bozel <br/>
+<td valign="top" width="265">
+<p>ZAC du Mont Gaillard </p>
 </td>
-<td align="center">
-<br/>Petit-Quevilly <br/>
+<td valign="top" width="227">
+<p>Le Havre </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,259</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>Château Blanc <br/>
+<td valign="top" width="265">
+<p>Réseau de Mont-Saint-Aignan </p>
 </td>
-<td align="center">
-<br/>Saint-Etienne-du-Rouvray <br/>
+<td valign="top" width="227">
+<p>Mont-Saint-Aignan </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 253 <br/>
+<td valign="top" width="76">
+<p align="center">0,284</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>Extension Nord - Thermical <br/>
+<td valign="top" width="265">
+<p>ZUP de la Cité Verte </p>
 </td>
-<td align="center">
-<br/>Neuville-lès-Dieppe <br/>
+<td valign="top" width="227">
+<p>Canteleu </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 186 <br/>
+<td valign="top" width="76">
+<p align="center">0,213</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>CHU Charles Nicolle <br/>
+<td valign="top" width="265">
+<p>ZAC Nobel Bozel </p>
 </td>
-<td align="center">
-<br/>Rouen <br/>
+<td valign="top" width="227">
+<p>Petit-Quevilly </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 193 <br/>
+<td valign="top" width="76">
+<p align="center">0,244</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>76 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>La Côte brûlée <br/>
+<td valign="top" width="265">
+<p>Château Blanc </p>
 </td>
-<td align="center">
-<br/>Le Havre <br/>
+<td valign="top" width="227">
+<p>Saint-Etienne-du-Rouvray </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,215</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>Hôpital <br/>
+<td valign="top" width="265">
+<p>Extension Nord - Thermical </p>
 </td>
-<td align="center">
-<br/>Meaux <br/>
+<td valign="top" width="227">
+<p>Neuville-lès-Dieppe </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 149 <br/>
+<td valign="top" width="76">
+<p align="center">0,197</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>Beauval - Collinet <br/>
+<td valign="top" width="265">
+<p>Chu Charles Nicolle </p>
 </td>
-<td align="center">
-<br/>Meaux <br/>
+<td valign="top" width="227">
+<p>Rouen </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 192 <br/>
+<td valign="top" width="76">
+<p align="center">0,187</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>Almont-Montaigu <br/>
+<td valign="top" width="265">
+<p>ZUP de Caucriauville </p>
 </td>
-<td align="center">
-<br/>Melun <br/>
+<td valign="top" width="227">
+<p>Le Havre </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 063 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">76</p>
 </td>
-<td align="center">
-<br/>ZUP du mont Saint-Martin (GTNM) <br/>
+<td valign="top" width="265">
+<p>La Côte Brulée </p>
 </td>
-<td align="center">
-<br/>Nemours <br/>
+<td valign="top" width="227">
+<p>Le Havre </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 286 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Dammarie-les-Lys <br/>
+<td valign="top" width="265">
+<p>Hôpital </p>
 </td>
-<td align="center">
-<br/>Dammarie-les-Lys <br/>
+<td valign="top" width="227">
+<p>Meaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,160</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Centrale de la butte Monceau <br/>
+<td valign="top" width="265">
+<p>Beauval - Collinet </p>
 </td>
-<td align="center">
-<br/>Avon <br/>
+<td valign="top" width="227">
+<p>Meaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 293 <br/>
+<td valign="top" width="76">
+<p align="center">0,204</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau du Mée-sur-Seine <br/>
+<td valign="top" width="265">
+<p>Almont-Montaigu </p>
 </td>
-<td align="center">
-<br/>Le Mée-sur-Seine <br/>
+<td valign="top" width="227">
+<p>Melun </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 135 <br/>
+<td valign="top" width="76">
+<p align="center">0,068</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Vaux-le-Pénil <br/>
+<td valign="top" width="265">
+<p>ZUP du mont Saint-Martin (GTNM) </p>
 </td>
-<td align="center">
-<br/>Vaux-le-Pénil <br/>
+<td valign="top" width="227">
+<p>Nemours </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 249 <br/>
+<td valign="top" width="76">
+<p align="center">0,268</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Coulommiers <br/>
+<td valign="top" width="265">
+<p>Réseau de Dammarie-les-Lys </p>
 </td>
-<td align="center">
-<br/>Coulommiers <br/>
+<td valign="top" width="227">
+<p>Dammarie-les-Lys </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,224</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>ZUP de Surville <br/>
+<td valign="top" width="265">
+<p>Centrale de la butte Monceau </p>
 </td>
-<td align="center">
-<br/>Montereau-Fault-Yonne <br/>
+<td valign="top" width="227">
+<p>Avon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 221 <br/>
+<td valign="top" width="76">
+<p align="center">0,289</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Marne-la-Vallée <br/>
+<td valign="top" width="265">
+<p>Réseau du Mée-sur-Seine </p>
 </td>
-<td align="center">
-<br/>Torcy <br/>
+<td valign="top" width="227">
+<p>Le Mée-sur-Seine </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 208 <br/>
+<td valign="top" width="76">
+<p align="center">0,143</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>77 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Chelles <br/>
+<td valign="top" width="265">
+<p>Réseau de Vaux-le-Pénil </p>
 </td>
-<td align="center">
-<br/>Chelles <br/>
+<td valign="top" width="227">
+<p>Vaux-le-Pénil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 158 <br/>
+<td valign="top" width="76">
+<p align="center">0,227</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Les Nouveaux Horizons <br/>
+<td valign="top" width="265">
+<p>Réseau de Coulommiers </p>
 </td>
-<td align="center">
-<br/>Elancourt <br/>
+<td valign="top" width="227">
+<p>Coulommiers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,027</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Le Val Fourré <br/>
+<td valign="top" width="265">
+<p>ZUP de Surville </p>
 </td>
-<td align="center">
-<br/>Mantes-la-Jolie <br/>
+<td valign="top" width="227">
+<p>Montereau-Fault-Yonne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 227 <br/>
+<td valign="top" width="76">
+<p align="center">0,226</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Réseau de Versailles <br/>
+<td valign="top" width="265">
+<p>Réseau de Marne-la-Vallée </p>
 </td>
-<td align="center">
-<br/>Versailles <br/>
+<td valign="top" width="227">
+<p>Torcy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 273 <br/>
+<td valign="top" width="76">
+<p align="center">0,216</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">77</p>
 </td>
-<td align="center">
-<br/>Parly II <br/>
+<td valign="top" width="265">
+<p>Réseau de Chelles </p>
 </td>
-<td align="center">
-<br/>Le Chesnay <br/>
+<td valign="top" width="227">
+<p>Chelles </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 213 <br/>
+<td valign="top" width="76">
+<p align="center">0,133</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Réseau de Saint-Germain-en-Laye <br/>
+<td valign="top" width="265">
+<p>Les Nouveaux Horizons </p>
 </td>
-<td align="center">
-<br/>Saint-Germain-en-Laye <br/>
+<td valign="top" width="227">
+<p>Elancourt </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 214 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>ZAC de la Noe <br/>
+<td valign="top" width="265">
+<p>Le Val Fourré </p>
 </td>
-<td align="center">
-<br/>Chanteloup <br/>
+<td valign="top" width="227">
+<p>Mantes-la-Jolie </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 175 <br/>
+<td valign="top" width="76">
+<p align="center">0,236</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Quartier Grand Ouest <br/>
+<td valign="top" width="265">
+<p>Réseau SVCU de Versailles </p>
 </td>
-<td align="center">
-<br/>Les Mureaux <br/>
+<td valign="top" width="227">
+<p>Versailles </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 267 <br/>
+<td valign="top" width="76">
+<p align="center">0,261</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Réseau de Vélizy <br/>
+<td valign="top" width="265">
+<p>Parly II - Le Chesnay </p>
 </td>
-<td align="center">
-<br/>Vélizy-Villacoublay <br/>
+<td valign="top" width="227">
+<p>Le Chesnay </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 222 <br/>
+<td valign="top" width="76">
+<p align="center">0,209</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Domaine de Beauregard - Cogecel <br/>
+<td valign="top" width="265">
+<p>Réseau de Saint-Germain-en-Laye </p>
 </td>
-<td align="center">
-<br/>La Celle-Saint-Cloud <br/>
+<td valign="top" width="227">
+<p>Saint-Germain-en-Laye </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 212 <br/>
+<td valign="top" width="76">
+<p align="center">0,193</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Réseau de Carrières - Chatou <br/>
+<td valign="top" width="265">
+<p>ZAC de la Noe </p>
 </td>
-<td align="center">
-<br/>Carrières-sur-Seine <br/>
+<td valign="top" width="227">
+<p>Chanteloup </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 054 <br/>
+<td valign="top" width="76">
+<p align="center">0,184</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>78 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Réseau de Plaisir - Resop <br/>
+<td valign="top" width="265">
+<p>Quartier Grand Ouest </p>
 </td>
-<td align="center">
-<br/>Plaisir <br/>
+<td valign="top" width="227">
+<p>Les Mureaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 001 <br/>
+<td valign="top" width="76">
+<p align="center">0,274</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>79 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>ZUP Le Clou Bouchet <br/>
+<td valign="top" width="265">
+<p>Réseau de Vélizy </p>
 </td>
-<td align="center">
-<br/>Niort <br/>
+<td valign="top" width="227">
+<p>Vélizy-Villacoublay </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 196 <br/>
+<td valign="top" width="76">
+<p align="center">0,223</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>79 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Réseau de Bressuire <br/>
+<td valign="top" width="265">
+<p>Domaine de Beauregard - Cogecel </p>
 </td>
-<td align="center">
-<br/>Bressuire <br/>
+<td valign="top" width="227">
+<p>La Celle-Saint-Cloud </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 361 <br/>
+<td valign="top" width="76">
+<p align="center">0,199</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>80 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Etouvie <br/>
+<td valign="top" width="265">
+<p>Réseau de Carrières - Chatou </p>
 </td>
-<td align="center">
-<br/>Amiens <br/>
+<td valign="top" width="227">
+<p>Carrières-sur-Seine </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 213 <br/>
+<td valign="top" width="76">
+<p align="center">0,023</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>80 <br/>
+<td valign="top" width="38">
+<p align="center">78</p>
 </td>
-<td align="center">
-<br/>Le Pigeonnier <br/>
+<td valign="top" width="265">
+<p>Réseau de Plaisir - Resop </p>
 </td>
-<td align="center">
-<br/>Amiens <br/>
+<td valign="top" width="227">
+<p>Plaisir </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 198 <br/>
+<td valign="top" width="76">
+<p align="center">0,003</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>81 <br/>
+<td valign="top" width="38">
+<p align="center">79</p>
 </td>
-<td align="center">
-<br/>Réseau de Carmaux <br/>
+<td valign="top" width="265">
+<p>ZUP Le Clou Bouchet </p>
 </td>
-<td align="center">
-<br/>Carmaux <br/>
+<td valign="top" width="227">
+<p>Niort </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 324 <br/>
+<td valign="top" width="76">
+<p align="center">0,179</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>82 <br/>
+<td valign="top" width="38">
+<p align="center">79</p>
 </td>
-<td align="center">
-<br/>Réseau de Montauban - Setmo <br/>
+<td valign="top" width="265">
+<p>Réseau de Bressuire </p>
 </td>
-<td align="center">
-<br/>Montauban <br/>
+<td valign="top" width="227">
+<p>Bressuire </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 256 <br/>
+<td valign="top" width="76">
+<p align="center">0,300</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>83 <br/>
+<td valign="top" width="38">
+<p align="center">80</p>
 </td>
-<td align="center">
-<br/>La Beaucaire <br/>
+<td valign="top" width="265">
+<p>Etouvie </p>
 </td>
-<td align="center">
-<br/>Toulon <br/>
+<td valign="top" width="227">
+<p>Amiens </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 000 <br/>
+<td valign="top" width="76">
+<p align="center">0,208</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>84 <br/>
+<td valign="top" width="38">
+<p align="center">80</p>
 </td>
-<td align="center">
-<br/>Le Triennal <br/>
+<td valign="top" width="265">
+<p>Le Pigeonnier </p>
 </td>
-<td align="center">
-<br/>Avignon <br/>
+<td valign="top" width="227">
+<p>Amiens </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 209 <br/>
+<td valign="top" width="76">
+<p align="center">0,200</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>85 <br/>
+<td valign="top" width="38">
+<p align="center">81</p>
 </td>
-<td align="center">
-<br/>OPHLM Vendée <br/>
+<td valign="top" width="265">
+<p>Réseau de Carmaux </p>
 </td>
-<td align="center">
-<br/>La Roche-sur-Yon <br/>
+<td valign="top" width="227">
+<p>Carmaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 238 <br/>
+<td valign="top" width="76">
+<p align="center">0,166</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>86 <br/>
+<td valign="top" width="38">
+<p align="center">82</p>
 </td>
-<td align="center">
-<br/>ZUP des Couronneries <br/>
+<td valign="top" width="265">
+<p>Réseau de Montauban - Setmo </p>
 </td>
-<td align="center">
-<br/>Poitiers <br/>
+<td valign="top" width="227">
+<p>Montauban </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 117 <br/>
+<td valign="top" width="76">
+<p align="center">0,009</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>87 <br/>
+<td valign="top" width="38">
+<p align="center">83</p>
 </td>
-<td align="center">
-<br/>ZUP Val de l'Aurence <br/>
+<td valign="top" width="265">
+<p>La Beaucaire (UIOM) </p>
 </td>
-<td align="center">
-<br/>Limoges <br/>
+<td valign="top" width="227">
+<p>Toulon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 232 <br/>
+<td valign="top" width="76">
+<p align="center">0,000</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>87 <br/>
+<td valign="top" width="38">
+<p align="center">84</p>
 </td>
-<td align="center">
-<br/>ZAC de Beaubreuil <br/>
+<td valign="top" width="265">
+<p>Le Triennal </p>
 </td>
-<td align="center">
-<br/>Limoges <br/>
+<td valign="top" width="227">
+<p>Avignon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 011 <br/>
+<td valign="top" width="76">
+<p align="center">0,218</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>87 <br/>
+<td valign="top" width="38">
+<p align="center">85</p>
 </td>
-<td align="center">
-<br/>Quartier de l'Hôtel de Ville <br/>
+<td valign="top" width="265">
+<p>OPHLM Vendée </p>
 </td>
-<td align="center">
-<br/>Limoges <br/>
+<td valign="top" width="227">
+<p>La Roche-sur-Yon </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 282 <br/>
+<td valign="top" width="76">
+<p align="center">0,280</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>88 <br/>
+<td valign="top" width="38">
+<p align="center">86</p>
 </td>
-<td align="center">
-<br/>Plateau de la Justice <br/>
+<td valign="top" width="265">
+<p>ZUP des Couronneries </p>
 </td>
-<td align="center">
-<br/>Epinal <br/>
+<td valign="top" width="227">
+<p>Poitiers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 329 <br/>
+<td valign="top" width="76">
+<p align="center">0,116</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>88 <br/>
+<td valign="top" width="38">
+<p align="center">87</p>
 </td>
-<td align="center">
-<br/>Quartier Kellerman <br/>
+<td valign="top" width="265">
+<p>ZUP Val de l'Aurence </p>
 </td>
-<td align="center">
-<br/>Saint-Dié <br/>
+<td valign="top" width="227">
+<p>Limoges </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 252 <br/>
+<td valign="top" width="76">
+<p align="center">0,225</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>88 <br/>
+<td valign="top" width="38">
+<p align="center">87</p>
 </td>
-<td align="center">
-<br/>ZAD du Haut de Fol <br/>
+<td valign="top" width="265">
+<p>ZAC de Beaubreuil </p>
 </td>
-<td align="center">
-<br/>Vittel <br/>
+<td valign="top" width="227">
+<p>Limoges </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 253 <br/>
+<td valign="top" width="76">
+<p align="center">0,030</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>89 <br/>
+<td valign="top" width="38">
+<p align="center">87</p>
 </td>
-<td align="center">
-<br/>ZUP des Grahuches <br/>
+<td valign="top" width="265">
+<p>Quartier de l'Hôtel de Ville </p>
 </td>
-<td align="center">
-<br/>Sens <br/>
+<td valign="top" width="227">
+<p>Limoges </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 140 <br/>
+<td valign="top" width="76">
+<p align="center">0,187</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>89 <br/>
+<td valign="top" width="38">
+<p align="center">88</p>
 </td>
-<td align="center">
-<br/>ZUP de Sainte-Geneviève <br/>
+<td valign="top" width="265">
+<p>Plateau de la Justice </p>
 </td>
-<td align="center">
-<br/>Auxerre <br/>
+<td valign="top" width="227">
+<p>Epinal </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 246 <br/>
+<td valign="top" width="76">
+<p align="center">0,174</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>89 <br/>
+<td valign="top" width="38">
+<p align="center">88</p>
 </td>
-<td align="center">
-<br/>Les Chaillots <br/>
+<td valign="top" width="265">
+<p>Quartier Kellerman </p>
 </td>
-<td align="center">
-<br/>Sens <br/>
+<td valign="top" width="227">
+<p>Saint-Dié </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 252 <br/>
+<td valign="top" width="76">
+<p align="center">0,146</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>90 <br/>
+<td valign="top" width="38">
+<p align="center">88</p>
 </td>
-<td align="center">
-<br/>ZUP 31 457 <br/>
+<td valign="top" width="265">
+<p>Zad du Haut de Fol </p>
 </td>
-<td align="center">
-<br/>Belfort <br/>
+<td valign="top" width="227">
+<p>Vittel </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 216 <br/>
+<td valign="top" width="76">
+<p align="center">0,186</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">89</p>
 </td>
-<td align="center">
-<br/>Réseau de Massy - Antony <br/>
+<td valign="top" width="265">
+<p>ZUP des Grahuches </p>
 </td>
-<td align="center">
-<br/>Massy <br/>
+<td valign="top" width="227">
+<p>Sens </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 200 <br/>
+<td valign="top" width="76">
+<p align="center">0,131</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">89</p>
 </td>
-<td align="center">
-<br/>Réseau des Ulis - Thermulis <br/>
+<td valign="top" width="265">
+<p>ZUP de Sainte-Geneviève </p>
 </td>
-<td align="center">
-<br/>Les Ulis <br/>
+<td valign="top" width="227">
+<p>Auxerre </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 177 <br/>
+<td valign="top" width="76">
+<p align="center">0,188</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">89</p>
 </td>
-<td align="center">
-<br/>Réseau d'Evry <br/>
+<td valign="top" width="265">
+<p>Les Chaillots </p>
 </td>
-<td align="center">
-<br/>Evry <br/>
+<td valign="top" width="227">
+<p>Sens </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 245 <br/>
+<td valign="top" width="76">
+<p align="center">0,217</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">90</p>
 </td>
-<td align="center">
-<br/>Domaine du Bois des Roches <br/>
+<td valign="top" width="265">
+<p>ZUP 31 457 </p>
 </td>
-<td align="center">
-<br/>Saint-Michel-sur-Orge <br/>
+<td valign="top" width="227">
+<p>Belfort </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 211 <br/>
+<td valign="top" width="76">
+<p align="center">0,223</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Grigny (SOCCRAM) <br/>
+<td valign="top" width="265">
+<p>Réseau de Massy - Antony </p>
 </td>
-<td align="center">
-<br/>Grigny <br/>
+<td valign="top" width="227">
+<p>Massy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 208 <br/>
+<td valign="top" width="76">
+<p align="center">0,176</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Dourdan <br/>
+<td valign="top" width="265">
+<p>Réseau des Ulis - Thermulis </p>
 </td>
-<td align="center">
-<br/>Dourdan <br/>
+<td valign="top" width="227">
+<p>Les Ulis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 222 <br/>
+<td valign="top" width="76">
+<p align="center">0,183</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>CEA DIF <br/>
+<td valign="top" width="265">
+<p>Réseau d'Evry </p>
 </td>
-<td align="center">
-<br/>Bruyères-le-Châtel <br/>
+<td valign="top" width="227">
+<p>Evry </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 198 <br/>
+<td valign="top" width="76">
+<p align="center">0,248</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>ZUP de la Croix Blanche <br/>
+<td valign="top" width="265">
+<p>Domaine du Bois des Roches </p>
 </td>
-<td align="center">
-<br/>Vigneux-sur-Seine <br/>
+<td valign="top" width="227">
+<p>Saint-Michel-sur-Orge </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 119 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau d'Epinay-sous-Sénart <br/>
+<td valign="top" width="265">
+<p>Réseau de Grigny (SOCCRAM) </p>
 </td>
-<td align="center">
-<br/>Epinay-sous-Sénart <br/>
+<td valign="top" width="227">
+<p>Grigny </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 057 <br/>
+<td valign="top" width="76">
+<p align="center">0,195</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Ris-Orangis <br/>
+<td valign="top" width="265">
+<p>Réseau de Dourdan </p>
 </td>
-<td align="center">
-<br/>Ris-Orangis <br/>
+<td valign="top" width="227">
+<p>Dourdan </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 147 <br/>
+<td valign="top" width="76">
+<p align="center">0,212</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>ZUP de Saint-Hubert et Louis Pergaud <br/>
+<td valign="top" width="265">
+<p>CEA DIF </p>
 </td>
-<td align="center">
-<br/>Sainte-Geneviève-des-Bois <br/>
+<td valign="top" width="227">
+<p>Bruyères le Chatel </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 224 <br/>
+<td valign="top" width="76">
+<p align="center">0,148</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Les Tarterêts <br/>
+<td valign="top" width="265">
+<p>ZUP de la Croix Blanche </p>
 </td>
-<td align="center">
-<br/>Corbeil-Essonnes <br/>
+<td valign="top" width="227">
+<p>Vigneux-sur-Seine </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 222 <br/>
+<td valign="top" width="76">
+<p align="center">0,118</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Grigny <br/>
+<td valign="top" width="265">
+<p>Réseau d'Epinay-sous-Sénart </p>
 </td>
-<td align="center">
-<br/>Grigny <br/>
+<td valign="top" width="227">
+<p>Epinay-sous-Sénart </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 229 <br/>
+<td valign="top" width="76">
+<p align="center">0,055</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>91 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Parc d'activités <br/>
+<td valign="top" width="265">
+<p>Réseau de Ris-Orangis </p>
 </td>
-<td align="center">
-<br/>Villejust <br/>
+<td valign="top" width="227">
+<p>Ris-Orangis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 022 <br/>
+<td valign="top" width="76">
+<p align="center">0,151</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Meudon <br/>
+<td valign="top" width="265">
+<p>Réseaux ZUP de Saint-Hubert et Louis Pergaud </p>
 </td>
-<td align="center">
-<br/>Meudon-la-Forêt <br/>
+<td valign="top" width="227">
+<p>Sainte-Geneviève-des-Bois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 229 <br/>
+<td valign="top" width="76">
+<p align="center">0,216</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Clichy <br/>
+<td valign="top" width="265">
+<p>Les Tarterets </p>
 </td>
-<td align="center">
-<br/>Clichy-la-Garenne <br/>
+<td valign="top" width="227">
+<p>Corbeil-Essonnes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 252 <br/>
+<td valign="top" width="76">
+<p align="center">0,227</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau Gennedith <br/>
+<td valign="top" width="265">
+<p>Réseau de Grigny (Elyo) </p>
 </td>
-<td align="center">
-<br/>Gennevilliers <br/>
+<td valign="top" width="227">
+<p>Grigny </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,227</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">91</p>
 </td>
-<td align="center">
-<br/>Réseau de Chaville <br/>
+<td valign="top" width="265">
+<p>Parc d'activités (UIOM) </p>
 </td>
-<td align="center">
-<br/>Chaville <br/>
+<td valign="top" width="227">
+<p>Villejust </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 207 <br/>
+<td valign="top" width="76">
+<p align="center">0,075</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>ZAC de Levallois-Perret <br/>
+<td valign="top" width="265">
+<p>Réseau de Meudon </p>
 </td>
-<td align="center">
-<br/>Levallois-Perret <br/>
+<td valign="top" width="227">
+<p>Meudon-la-Forêt </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 246 <br/>
+<td valign="top" width="76">
+<p align="center">0,232</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau de Châtillon-sous-Bagneux - Cocharec <br/>
+<td valign="top" width="265">
+<p>Réseau de Clichy </p>
 </td>
-<td align="center">
-<br/>Châtillon-sous-Bagneux <br/>
+<td valign="top" width="227">
+<p>Clichy-la-Garenne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 232 <br/>
+<td valign="top" width="76">
+<p align="center">0,243</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau du Plessis-Robinson (HLM) - Tecni <br/>
+<td valign="top" width="265">
+<p>Réseau Gennedith </p>
 </td>
-<td align="center">
-<br/>Le Plessis-Robinson <br/>
+<td valign="top" width="227">
+<p>Gennevilliers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 210 <br/>
+<td valign="top" width="76">
+<p align="center">0,237</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>ZAC du Front de Seine <br/>
+<td valign="top" width="265">
+<p>Réseau de Chaville </p>
 </td>
-<td align="center">
-<br/>Levallois-Perret <br/>
+<td valign="top" width="227">
+<p>Chaville </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 292 <br/>
+<td valign="top" width="76">
+<p align="center">0,199</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Le Point du Jour <br/>
+<td valign="top" width="265">
+<p>ZAC de Levallois-Perret </p>
 </td>
-<td align="center">
-<br/>Boulogne-Billancourt <br/>
+<td valign="top" width="227">
+<p>Levallois-Perret </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 195 <br/>
+<td valign="top" width="76">
+<p align="center">0,243</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau du Plessis-Robinson - ZIPEC <br/>
+<td valign="top" width="265">
+<p>Réseau de Châtillon-sous-Bagneux </p>
 </td>
-<td align="center">
-<br/>Le Plessis-Robinson <br/>
+<td valign="top" width="227">
+<p>Châtillon-sous-Bagneux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 268 <br/>
+<td valign="top" width="76">
+<p align="center">0,228</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Chauffage urbain de Suresnes <br/>
+<td valign="top" width="265">
+<p>Réseau du Plessis-Robinson (HLM) </p>
 </td>
-<td align="center">
-<br/>Suresnes <br/>
+<td valign="top" width="227">
+<p>Le Plessis-Robinson </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,201</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau Soclic <br/>
+<td valign="top" width="265">
+<p>ZAC du Front de Seine </p>
 </td>
-<td align="center">
-<br/>Courbevoie <br/>
+<td valign="top" width="227">
+<p>Levallois-Perret </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 240 <br/>
+<td valign="top" width="76">
+<p align="center">0,271</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau de La Défense - Enertherm <br/>
+<td valign="top" width="265">
+<p>Le Point du Jour </p>
 </td>
-<td align="center">
-<br/>Courbevoie <br/>
+<td valign="top" width="227">
+<p>Boulogne-Billancourt </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 329 <br/>
+<td valign="top" width="76">
+<p align="center">0,195</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau de La Défense - Enertherm <br/>
+<td valign="top" width="265">
+<p>Réseau du Plessis-Robinson - ZIPEC </p>
 </td>
-<td align="center">
-<br/>Courbevoie <br/>
+<td valign="top" width="227">
+<p>Le Plessis-Robinson </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 010 <br/>
+<td valign="top" width="76">
+<p align="center">0,269</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Résidence Villeneuve <br/>
+<td valign="top" width="265">
+<p>Chauffage urbain de Suresnes </p>
 </td>
-<td align="center">
-<br/>Villeneuve-la-Garenne <br/>
+<td valign="top" width="227">
+<p>Suresnes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 185 <br/>
+<td valign="top" width="76">
+<p align="center">0,237</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau Soclip <br/>
+<td valign="top" width="265">
+<p>Réseau Soclic </p>
 </td>
-<td align="center">
-<br/>Puteaux <br/>
+<td valign="top" width="227">
+<p>Courbevoie </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 377 <br/>
+<td valign="top" width="76">
+<p align="center">0,233</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau Soclip <br/>
+<td valign="top" width="265">
+<p>Réseau de La Défense - Enertherm </p>
 </td>
-<td align="center">
-<br/>Puteaux <br/>
+<td valign="top" width="227">
+<p>Courbevoie </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 260 <br/>
+<td valign="top" width="76">
+<p align="center">0,321</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau Ciceo <br/>
+<td valign="top" width="265">
+<p>Réseau de La Défense - Enertherm </p>
 </td>
-<td align="center">
-<br/>Puteaux <br/>
+<td valign="top" width="227">
+<p>Courbevoie </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 310 <br/>
+<td valign="top" width="76">
+<p align="center">0,010</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>92 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau Suc <br/>
+<td valign="top" width="265">
+<p>Résidence Villeneuve </p>
 </td>
-<td align="center">
-<br/>Issy-les-Moulineaux <br/>
+<td valign="top" width="227">
+<p>Villeneuve-la-Garenne </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 012 <br/>
+<td valign="top" width="76">
+<p align="center">0,183</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>Réseau de Saint-Denis <br/>
+<td valign="top" width="265">
+<p>Réseau Ciceo </p>
 </td>
-<td align="center">
-<br/>Saint-Denis <br/>
+<td valign="top" width="227">
+<p>Puteaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,231</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">92</p>
 </td>
-<td align="center">
-<br/>ZUP de Bobigny <br/>
+<td valign="top" width="265">
+<p>Réseau Suc </p>
 </td>
-<td align="center">
-<br/>Bobigny <br/>
+<td valign="top" width="227">
+<p>Issy-les-Moulineaux </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 216 <br/>
+<td valign="top" width="76">
+<p align="center">0,012</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>ZAC de Sevran <br/>
+<td valign="top" width="265">
+<p>Réseau de Saint-Denis </p>
 </td>
-<td align="center">
-<br/>Sevran <br/>
+<td valign="top" width="227">
+<p>Saint-Denis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 232 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>ZUP des Fauvettes <br/>
+<td valign="top" width="265">
+<p>ZUP de Bobigny </p>
 </td>
-<td align="center">
-<br/>Neuilly-sur-Marne <br/>
+<td valign="top" width="227">
+<p>Bobigny </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 259 <br/>
+<td valign="top" width="76">
+<p align="center">0,220</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Réseau de Villepinte <br/>
+<td valign="top" width="265">
+<p>ZAC de Sevran </p>
 </td>
-<td align="center">
-<br/>Villepinte <br/>
+<td valign="top" width="227">
+<p>Sevran </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 226 <br/>
+<td valign="top" width="76">
+<p align="center">0,225</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Pariféric <br/>
+<td valign="top" width="265">
+<p>ZUP des Fauvettes </p>
 </td>
-<td align="center">
-<br/>Aubervilliers <br/>
+<td valign="top" width="227">
+<p>Neuilly-sur-Marne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 197 <br/>
+<td valign="top" width="76">
+<p align="center">0,260</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Quartier Rougemont <br/>
+<td valign="top" width="265">
+<p>Réseau de Villepinte </p>
 </td>
-<td align="center">
-<br/>Sevran <br/>
+<td valign="top" width="227">
+<p>Villepinte </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 198 <br/>
+<td valign="top" width="76">
+<p align="center">0,218</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Réseau ADP Le Bourget <br/>
+<td valign="top" width="265">
+<p>Pariféric </p>
 </td>
-<td align="center">
-<br/>Le Bourget <br/>
+<td valign="top" width="227">
+<p>Aubervilliers </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 221 <br/>
+<td valign="top" width="76">
+<p align="center">0,197</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Le Chêne pointu <br/>
+<td valign="top" width="265">
+<p>Rougemont Perrin Chanteloup </p>
 </td>
-<td align="center">
-<br/>Clichy-sous-Bois <br/>
+<td valign="top" width="227">
+<p>Sevran </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 140 <br/>
+<td valign="top" width="76">
+<p align="center">0,195</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Le Gros Saule <br/>
+<td valign="top" width="265">
+<p>Réseau ADP Le Bourget </p>
 </td>
-<td align="center">
-<br/>Aulnay-sous-Bois <br/>
+<td valign="top" width="227">
+<p>Le Bourget </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 209 <br/>
+<td valign="top" width="76">
+<p align="center">0,235</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>La Courneuve Quartier Nord <br/>
+<td valign="top" width="265">
+<p>Le Chêne Pointu </p>
 </td>
-<td align="center">
-<br/>La Courneuve <br/>
+<td valign="top" width="227">
+<p>Clichy-sous-Bois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 078 <br/>
+<td valign="top" width="76">
+<p align="center">0,152</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Tremblay-en-France <br/>
+<td valign="top" width="265">
+<p>Le Gros Saule </p>
 </td>
-<td align="center">
-<br/>Tremblay-en-France <br/>
+<td valign="top" width="227">
+<p>Aulnay-sous-Bois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 074 <br/>
+<td valign="top" width="76">
+<p align="center">0,201</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Réseau du Blanc-Mesnil <br/>
+<td valign="top" width="265">
+<p>La Courneuve Quartier Nord </p>
 </td>
-<td align="center">
-<br/>Le Blanc-Mesnil <br/>
+<td valign="top" width="227">
+<p>La Courneuve </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 197 <br/>
+<td valign="top" width="76">
+<p align="center">0,064</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Garonor <br/>
+<td valign="top" width="265">
+<p>Tremblay-en-France </p>
 </td>
-<td align="center">
-<br/>Aulnay-sous-bois <br/>
+<td valign="top" width="227">
+<p>Tremblay-en-France </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 279 <br/>
+<td valign="top" width="76">
+<p align="center">0,131</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Aulnay 3000 - Rose des vents <br/>
+<td valign="top" width="265">
+<p>Réseau du Blanc-Mesnil </p>
 </td>
-<td align="center">
-<br/>Aulnay-sous-bois <br/>
+<td valign="top" width="227">
+<p>Le Blanc-Mesnil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 201 <br/>
+<td valign="top" width="76">
+<p align="center">0,200</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Stade Energies Sésas <br/>
+<td valign="top" width="265">
+<p>Garonor </p>
 </td>
-<td align="center">
-<br/>Saint-Denis <br/>
+<td valign="top" width="227">
+<p>Aulnay-sous-Bois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 247 <br/>
+<td valign="top" width="76">
+<p align="center">0,287</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Stade Energies <br/>
+<td valign="top" width="265">
+<p>Aulnay 3000 - Rose des Vents </p>
 </td>
-<td align="center">
-<br/>Saint-Denis <br/>
+<td valign="top" width="227">
+<p>Aulnay-sous-Bois </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 011 <br/>
+<td valign="top" width="76">
+<p align="center">0,207</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>La Courneuve Quartier Sud <br/>
+<td valign="top" width="265">
+<p>Stade Energies Sésas </p>
 </td>
-<td align="center">
-<br/>La Courneuve <br/>
+<td valign="top" width="227">
+<p>Saint-Denis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 147 <br/>
+<td valign="top" width="76">
+<p align="center">0,246</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>93 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Résidence Les Lilas <br/>
+<td valign="top" width="265">
+<p>Stade Energies </p>
 </td>
-<td align="center">
-<br/>Les Lilas <br/>
+<td valign="top" width="227">
+<p>Saint-Denis </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 219 <br/>
+<td valign="top" width="76">
+<p align="center">0,011</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Réseau de Créteil - Scuc <br/>
+<td valign="top" width="265">
+<p>La Courneuve Quartier Sud </p>
 </td>
-<td align="center">
-<br/>Créteil <br/>
+<td valign="top" width="227">
+<p>La Courneuve </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 187 <br/>
+<td valign="top" width="76">
+<p align="center">0,156</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">93</p>
 </td>
-<td align="center">
-<br/>Réseau de Vitry-sur-Seine <br/>
+<td valign="top" width="265">
+<p>Résidence Les Lilas </p>
 </td>
-<td align="center">
-<br/>Vitry-sur-Seine <br/>
+<td valign="top" width="227">
+<p>Les Lilas </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 216 <br/>
+<td valign="top" width="76">
+<p align="center">0,206</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Fontenay-sous-Bois <br/>
+<td valign="top" width="265">
+<p>Réseau de Créteil - Scuc </p>
 </td>
-<td align="center">
-<br/>Fontenay-sous-Bois <br/>
+<td valign="top" width="227">
+<p>Créteil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 249 <br/>
+<td valign="top" width="76">
+<p align="center">0,163</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Fresnes Sud <br/>
+<td valign="top" width="265">
+<p>Réseau de Vitry-sur-Seine </p>
 </td>
-<td align="center">
-<br/>Fresnes <br/>
+<td valign="top" width="227">
+<p>Vitry-sur-Seine </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 126 <br/>
+<td valign="top" width="76">
+<p align="center">0,218</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Sucy-en-Brie <br/>
+<td valign="top" width="265">
+<p>Fontenay-sous-Bois </p>
 </td>
-<td align="center">
-<br/>Sucy-en-Brie <br/>
+<td valign="top" width="227">
+<p>Fontenay-sous-Bois </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 036 <br/>
+<td valign="top" width="76">
+<p align="center">0,263</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Cachan <br/>
+<td valign="top" width="265">
+<p>Fresnes Sud </p>
 </td>
-<td align="center">
-<br/>Cachan <br/>
+<td valign="top" width="227">
+<p>Fresnes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 063 <br/>
+<td valign="top" width="76">
+<p align="center">0,109</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Champigny-sur-Marne <br/>
+<td valign="top" width="265">
+<p>Réseau de Sucy-en-Brie </p>
 </td>
-<td align="center">
-<br/>Champigny-sur-Marne <br/>
+<td valign="top" width="227">
+<p>Sucy-en-Brie </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 079 <br/>
+<td valign="top" width="76">
+<p align="center">0,061</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Maisons-Alfort <br/>
+<td valign="top" width="265">
+<p>Réseau de Cachan </p>
 </td>
-<td align="center">
-<br/>Maisons-Alfort <br/>
+<td valign="top" width="227">
+<p>Cachan </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 092 <br/>
+<td valign="top" width="76">
+<p align="center">0,042</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Thiais <br/>
+<td valign="top" width="265">
+<p>Réseau de Champigny-sur-Marne </p>
 </td>
-<td align="center">
-<br/>Thiais <br/>
+<td valign="top" width="227">
+<p>Champigny-sur-Marne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 038 <br/>
+<td valign="top" width="76">
+<p align="center">0,052</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Bonneuil-sur-Marne <br/>
+<td valign="top" width="265">
+<p>Réseau de Maisons-Alfort </p>
 </td>
-<td align="center">
-<br/>Bonneuil-sur-Marne <br/>
+<td valign="top" width="227">
+<p>Maisons-Alfort </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 015 <br/>
+<td valign="top" width="76">
+<p align="center">0,073</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Chevilly-Larue et L'Hay-les-Roses <br/>
+<td valign="top" width="265">
+<p>Réseau de Thiais </p>
 </td>
-<td align="center">
-<br/>L'Hay-les-Roses <br/>
+<td valign="top" width="227">
+<p>Thiais </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 090 <br/>
+<td valign="top" width="76">
+<p align="center">0,014</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Villeneuve-Saint-Georges <br/>
+<td valign="top" width="265">
+<p>Réseau de Bonneuil-sur-Marne (UIOM) </p>
 </td>
-<td align="center">
-<br/>Villeneuve-Saint-Georges <br/>
+<td valign="top" width="227">
+<p>Bonneuil-sur-Marne </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 281 <br/>
+<td valign="top" width="76">
+<p align="center">0,064</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Le Colombier <br/>
+<td valign="top" width="265">
+<p>Réseau de Chevilly-Larue et L'Hay-les-Roses </p>
 </td>
-<td align="center">
-<br/>Créteil <br/>
+<td valign="top" width="227">
+<p>L'Hay-les-Roses </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 328 <br/>
+<td valign="top" width="76">
+<p align="center">0,087</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Quartier Nord <br/>
+<td valign="top" width="265">
+<p>Quartier Nord </p>
 </td>
-<td align="center">
-<br/>Fresnes <br/>
+<td valign="top" width="227">
+<p>Fresnes </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 109 <br/>
+<td valign="top" width="76">
+<p align="center">0,150</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau d'Orly <br/>
+<td valign="top" width="265">
+<p>Réseau d'Orly </p>
 </td>
-<td align="center">
-<br/>Orly <br/>
+<td valign="top" width="227">
+<p>Orly </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 192 <br/>
+<td valign="top" width="76">
+<p align="center">0,073</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau d'Alfortville - Smag <br/>
+<td valign="top" width="265">
+<p>Réseau d'Alfortville - Smag </p>
 </td>
-<td align="center">
-<br/>Alfortville <br/>
+<td valign="top" width="227">
+<p>Alfortville </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 030 <br/>
+<td valign="top" width="76">
+<p align="center">0,043</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau d'Ivry <br/>
+<td valign="top" width="265">
+<p>Réseau d'Ivry </p>
 </td>
-<td align="center">
-<br/>Ivry <br/>
+<td valign="top" width="227">
+<p>Ivry </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 233 <br/>
+<td valign="top" width="76">
+<p align="center">0,222</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau de Villeneuve-Saint-Georges <br/>
+<td valign="top" width="265">
+<p>Réseau de Villeneuve-Saint-Georges </p>
 </td>
-<td align="center">
-<br/>Villeneuve-Saint-Georges <br/>
+<td valign="top" width="227">
+<p>Villeneuve-Saint-Georges </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 086 <br/>
+<td valign="top" width="76">
+<p align="center">0,070</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau ADP Orly <br/>
+<td valign="top" width="265">
+<p>Réseau ADP Orly </p>
 </td>
-<td align="center">
-<br/>Orly <br/>
+<td valign="top" width="227">
+<p>Orly </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,200</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>94 <br/>
+<td valign="top" width="38">
+<p align="center">94</p>
 </td>
-<td align="center">
-<br/>Réseau ADP Orly <br/>
+<td valign="top" width="265">
+<p>Réseau ADP Orly </p>
 </td>
-<td align="center">
-<br/>Orly <br/>
+<td valign="top" width="227">
+<p>Orly </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 014 <br/>
+<td valign="top" width="76">
+<p align="center">0,013</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau de la ZAC Croix Rouge <br/>
+<td valign="top" width="265">
+<p>Réseau de la ZAC Croix-Rouge </p>
 </td>
-<td align="center">
-<br/>Taverny <br/>
+<td valign="top" width="227">
+<p>Taverny </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 356 <br/>
+<td valign="top" width="76">
+<p align="center">0,366</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Grand Ensemble Sarcelles-Lochères <br/>
+<td valign="top" width="265">
+<p>Grand Ensemble Sarcelles-Locheres </p>
 </td>
-<td align="center">
-<br/>Sarcelles <br/>
+<td valign="top" width="227">
+<p>Sarcelles </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 237 <br/>
+<td valign="top" width="76">
+<p align="center">0,278</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau de Cergy-Pontoise <br/>
+<td valign="top" width="265">
+<p>Réseau de Cergy-Pontoise </p>
 </td>
-<td align="center">
-<br/>Cergy-Pontoise <br/>
+<td valign="top" width="227">
+<p>Cergy-Pontoise </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 232 <br/>
+<td valign="top" width="76">
+<p align="center">0,245</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Van Gogh <br/>
+<td valign="top" width="265">
+<p>Van Gogh </p>
 </td>
-<td align="center">
-<br/>Garges-lès-Gonesse <br/>
+<td valign="top" width="227">
+<p>Garges-les-Gonesse </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 214 <br/>
+<td valign="top" width="76">
+<p align="center">0,192</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>ZUP de Sannois - Ermont - Franconville <br/>
+<td valign="top" width="265">
+<p>ZUP de Sannois - Ermont - Franconville </p>
 </td>
-<td align="center">
-<br/>Franconville <br/>
+<td valign="top" width="227">
+<p>Franconville </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 218 <br/>
+<td valign="top" width="76">
+<p align="center">0,223</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau d'Argenteuil <br/>
+<td valign="top" width="265">
+<p>Réseau d'Argenteuil </p>
 </td>
-<td align="center">
-<br/>Argenteuil <br/>
+<td valign="top" width="227">
+<p>Argenteuil </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 061 <br/>
+<td valign="top" width="76">
+<p align="center">0,076</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseaux ADP Roissy <br/>
+<td valign="top" width="265">
+<p>Réseaux ADP Roissy </p>
 </td>
-<td align="center">
-<br/>Roissy <br/>
+<td valign="top" width="227">
+<p>Roissy </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 241 <br/>
+<td valign="top" width="76">
+<p align="center">0,202</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau ADP Roissy <br/>
+<td valign="top" width="265">
+<p>Réseau ADP Roissy </p>
 </td>
-<td align="center">
-<br/>Roissy <br/>
+<td valign="top" width="227">
+<p>Roissy </p>
 </td>
-<td align="center">
-<br/>F <br/>
+<td valign="top" width="76">
+<p align="center">F</p>
 </td>
-<td align="center">
-<br/>0, 013 <br/>
+<td valign="top" width="76">
+<p align="center">0,014</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>ZUP de l'Epine Guyon <br/>
+<td valign="top" width="265">
+<p>ZUP de L'Epine Guyon </p>
 </td>
-<td align="center">
-<br/>Franconville <br/>
+<td valign="top" width="227">
+<p>Franconville </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 290 <br/>
+<td valign="top" width="76">
+<p align="center">0,242</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau de Villiers-le-Bel <br/>
+<td valign="top" width="265">
+<p>Réseau de Villiers-le-Bel </p>
 </td>
-<td align="center">
-<br/>Villiers-le-Bel <br/>
+<td valign="top" width="227">
+<p>Villiers-le-Bel </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 208 <br/>
+<td valign="top" width="76">
+<p align="center">0,212</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau de Villiers-le-Bel - Gonesse <br/>
+<td valign="top" width="265">
+<p>Réseau de Villiers-le-Bel-Gonesse </p>
 </td>
-<td align="center">
-<br/>Villiers-le-Bel <br/>
+<td valign="top" width="227">
+<p>Villiers-le-Bel </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 127 <br/>
+<td valign="top" width="76">
+<p align="center">0,120</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
 </td>
-<td align="center">
-<br/>Réseau de Pontoise <br/>
+<td valign="top" width="265">
+<p>Réseau de Pontoise </p>
 </td>
-<td align="center">
-<br/>Pontoise <br/>
+<td valign="top" width="227">
+<p>Pontoise </p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>0, 184 <br/>
+<td valign="top" width="76">
+<p align="center">0,209</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>95 <br/>
+<td valign="top" width="38">
+<p align="center">95</p>
+</td>
+<td valign="top" width="265">
+<p>ZAC de Montedour </p>
 </td>
-<td align="center">
-<br/>ZAC de Montedour <br/>
+<td valign="top" width="227">
+<p>Franconville </p>
 </td>
-<td align="center">
-<br/>Franconville <br/>
+<td valign="top" width="76">
+<p align="center">C</p>
 </td>
-<td align="center">
-<br/>C <br/>
+<td valign="top" width="76">
+<p align="center">0,243</p>
 </td>
-<td align="center">
-<br/>0, 2</td>
 </tr>
 </tbody>
 </table>
