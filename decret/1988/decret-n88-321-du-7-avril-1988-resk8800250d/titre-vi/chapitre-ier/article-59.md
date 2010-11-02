@@ -1,3 +1,0 @@
-# Article 59
-
-Quelle que soit la région sanitaire dans laquelle il a achevé son deuxième cycle d'études médicales, tout étudiant peut, dans des limites fixées par arrêté conjoint des ministres chargés des universités et de la santé, demander à accomplir tout ou partie de son résidanat dans les services agréés d'établissements situés dans les départements d'outre-mer sans que cette période outre-mer puisse être fractionnée. Un arrêté des ministres chargés des universités et de la santé fixe la liste des services permettant de satisfaire à l'obligation de formation dans un centre hospitalier régional faisant partie d'un centre hospitalier et universitaire.

@@ -1,3 +1,3 @@
 # Article 40
 
-Les élèves médecins inscrits à la préparation du diplôme d'études spécialisées de médecine générale effectuent le stage d'un semestre, prévu à l'article 14, dans les services médicaux des formations administratives du ministère de la défense.
+Les stages auprès de praticiens agréés-maîtres de stage, mentionnés à l'article 16, sont effectués par les internes des hôpitaux des armées dans les services médicaux des formations administratives du ministère de la défense.

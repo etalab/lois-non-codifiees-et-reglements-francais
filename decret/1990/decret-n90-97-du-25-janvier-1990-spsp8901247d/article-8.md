@@ -1,5 +1,5 @@
 # Article 8
 
-Toutes les dispositions pédagogiques prévues par le titre III du décret du 7 avril 1988 susvisé pour l'obtention d'un diplôme d'études spécialisées, à l'exclusion des dispositions des articles 27 et 32, sont applicables aux internes recrutés au titre du présent décret.
+Les dispositions de l'article 9, des alinéas 1, 3, 4 et 6 de l'article 10 et du chapitre II du titre Ier du décret du 16 janvier 2004 relatif à l'organisation du troisième cycle des études médicales sont applicables aux internes recrutés au titre du présent décret, à l'exclusion des dispositions des articles 12 et 19.
 
 Les internes nommés en application du présent décret ne peuvent prétendre, du fait de cette nomination, à la délivrance du diplôme d'Etat de docteur en médecine.

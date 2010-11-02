@@ -1,5 +1,5 @@
 # Article 5
 
-Les épreuves mentionnées à l'article 4 comportent des épreuves rédactionnelles, dont l'une au moins consiste en l'analyse d'un ou plusieurs dossiers cliniques et une autre en une lecture critique d'un ou plusieurs articles scientifiques.
+La liste des disciplines et spécialités de troisième cycle des études médicales est fixée par arrêté des ministres chargés de l'enseignement supérieur et de la santé compte tenu des besoins de santé de la population et des progrès de la recherche.
 
-Un arrêté des ministres chargés de la santé et de l'enseignement supérieur fixe le programme, les conditions d'organisation, le déroulement, la nature, la pondération des épreuves ainsi que la composition et les modalités d'organisation du jury.
+Une discipline comporte une ou plusieurs spécialités. A chaque spécialité correspond un diplôme d'études spécialisées ou un diplôme d'études spécialisées complémentaires tels que prévus aux articles 22 et 25 du présent décret.

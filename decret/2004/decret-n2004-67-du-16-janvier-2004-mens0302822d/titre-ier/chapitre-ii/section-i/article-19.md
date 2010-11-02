@@ -1,11 +1,5 @@
 # Article 19
 
-Les stages extra-hospitaliers font l'objet de conventions passées entre :
+En application du sixième alinéa de l'article L. 632-2 du code de l'éducation, les internes peuvent demander avant la fin du quatrième semestre d'internat à changer de discipline dans la subdivision dans laquelle ils sont affectés, dans les conditions prévues à l'article 10 du présent décret. Cette possibilité ne peut s'exercer qu'une seule fois, et n'est offerte que dans la mesure où leur rang initial de classement les a situés, dans la discipline pour laquelle ils souhaitent opter, à un rang au moins égal à celui du dernier candidat issu des mêmes épreuves classantes nationales et affecté dans cette discipline au niveau de la subdivision.
 
-- les responsables des organismes ou laboratoires agréés ou les maîtres de stage ;
-
-- le directeur de l'unité de formation et de recherche médicale dont relève l'interne ;
-
-- le directeur du centre hospitalier auquel l'intéressé est administrativement rattaché. Chaque convention fixe les modalités d'organisation du stage ainsi que les conditions de réparation et d'assurances des dommages causés ou subis par l'interne durant celui-ci. La convention désigne le maître de stage.
-
-Les conventions de stages extra-hospitaliers pour le diplôme d'études spécialisées de médecine du travail ne peuvent être conclues qu'après avis du médecin-inspecteur régional du travail et de la main-d'oeuvre.
+Par dérogation au premier alinéa, les internes ayant signé un contrat d'engagement de service public peuvent demander, avant la fin du quatrième semestre d'internat, à changer de spécialité au sein de la subdivision dans laquelle ils sont affectés et parmi les spécialités offertes au titre de l'année universitaire durant laquelle ils ont été affectés en qualité d'internes. Cette possibilité ne peut s'exercer qu'une seule fois, et n'est offerte que dans la mesure où leur rang initial de classement les a situés à un rang au moins égal à celui du dernier candidat issu des mêmes épreuves classantes nationales, affecté dans cette spécialité au niveau de la subdivision et ayant signé un contrat d'engagement de service public

@@ -1,4 +1,4 @@
-# Chapitre Ier : Dispositions applicables aux élèves médecins des écoles du service de santé des armées.
+# Chapitre Ier : Dispositions applicables aux internes des hôpitaux des armées.
 
 - [Article 32](article-32.md)
 - [Article 33](article-33.md)

@@ -1,11 +1,21 @@
 # Article 23
 
-Dans chacune des interrégions, la préparation de chaque diplôme d'études spécialisées ou de chacune des options d'un tel diplôme est placée sous la responsabilité d'un enseignant chargé de coordonner l'organisation des enseignements théoriques et pratiques.
+I.-Dans chacune des interrégions, la coordination des enseignements et du contrôle des connaissances de chaque diplôme d'études spécialisées et de chaque diplôme d'études spécialisées complémentaires est assurée par :
 
-Pour le diplôme d'études spécialisées de médecine générale, l'enseignant-coordonnateur est assisté, dans chaque unité de formation et de recherche médicale de la subdivision, soit par un département de médecine générale créé par l'université en application de l'article L. 713-3 du code de l'éducation, soit par une commission de coordination et d'évaluation du diplôme d'études spécialisées de médecine générale.
+1° Le collège des directeurs des unités de formation et de recherche de médecine de l'interrégion.
 
-Les enseignants coordonnateurs des autres diplômes d'études spécialisées sont assistés d'une commission.
+Pour la biologie médicale, ce collège comprend également les directeurs d'unité de formation et de recherche de pharmacie.
 
-La composition des commissions, le mode de désignation des enseignants-coordonnateurs ainsi que la durée de leurs fonctions sont fixés par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+2° La commission interrégionale de coordination et d'évaluation du diplôme.
 
-Un décret fixe les modalités de désignation de l'enseignant responsable de la coordination de l'enseignement du diplôme d'études spécialisées de biologie médicale.
+a) Cette commission est présidée par un coordonnateur interrégional. Un décret fixe les modalités de désignation de l'enseignant responsable de la coordination de l'enseignement du diplôme d'études spécialisées de biologie médicale.
+
+b) La commission interrégionale de coordination et d'évaluation du diplôme regroupe les coordonnateurs locaux, qui sont nommés dans chaque subdivision. Ils ont pour mission, avec l'assistance d'un département de formation créé en application de l'article L. 713-3 du code de l'éducation ou d'une commission spécifique, de donner des avis au directeur de l'unité de formation et de recherche sur le déroulement des études menant au diplôme concerné. Ils sont enseignants de la spécialité du diplôme d'études spécialisées ou du diplôme d'études spécialisées complémentaires concerné.
+
+II.-La commission interrégionale de coordination et d'évaluation du diplôme élabore des propositions relatives à l'organisation des enseignements et du contrôle des connaissances de chaque diplôme d'études spécialisées et de chaque diplôme d'études spécialisées complémentaires. Ces propositions sont transmises pour avis au collège des directeurs et soumises au conseil des unités de formation et de recherche concernées. Chaque conseil d'unité de formation et de recherche de médecine délibère dans les conditions prévues à l'article L. 713-4 du code de l'éducation.
+
+III.-Le coordonnateur interrégional élabore des propositions en vue de définir les critères, notamment en matière d'encadrement et d'activité, et le cahier des charges pour l'agrément des lieux de stage et le conventionnement des personnes mentionnées à l'article 16 du présent décret. Après avoir recueilli l'avis de la commission interrégionale de coordination et d'évaluation du diplôme, le coordonnateur interrégional transmet ces propositions au collège des directeurs qui les arrêtent.
+
+IV.-Le directeur de l'unité de formation et de recherche de médecine concerné et le directeur général de l'agence régionale de santé vérifient chaque année que les lieux de stage correspondent au nombre d'internes à former par spécialité et par subdivision.
+
+V.-Un arrêté des ministres chargés de l'enseignement supérieur et de la santé précise les modalités d'application du présent article.

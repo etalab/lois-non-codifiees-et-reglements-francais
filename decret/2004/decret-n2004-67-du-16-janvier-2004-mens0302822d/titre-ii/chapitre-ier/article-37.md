@@ -1,3 +1,3 @@
 # Article 37
 
-Les services des hôpitaux des armées et les formations sanitaires des armées agréés au titre de la médecine générale ou dûment accrédités comme services formateurs au titre des disciplines autres que la médecine générale le sont pour l'ensemble des unités de formation et de recherche médicales des universités où les élèves médecins prennent leur inscription annuelle.
+Les lieux de stage des hôpitaux des armées et des organismes extrahospitaliers militaires, agréés pour la formation des internes, le sont pour l'ensemble des unités de formation et de recherche médicales des universités où les internes des hôpitaux des armées prennent leur inscription annuelle.
