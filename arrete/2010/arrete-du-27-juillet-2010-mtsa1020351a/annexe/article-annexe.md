@@ -15,13 +15,13 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Aquitaine <br/>
 </td>
-<td align="center">12 375 480 <br/>
+<td align="center">12 476 943 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Auvergne <br/>
 </td>
-<td align="center">4 684 806 <br/>
+<td align="center">4 811 246 <br/>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Champagne-Ardenne <br/>
 </td>
-<td align="center">3 193 367 <br/>
+<td align="center">3 440 558 <br/>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Languedoc-Roussillon <br/>
 </td>
-<td align="center">6 571 527 <br/>
+<td align="center">6 576 881 <br/>
 </td>
 </tr>
 <tr>
@@ -99,13 +99,13 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Basse-Normandie <br/>
 </td>
-<td align="center">7 313 013 <br/>
+<td align="center">7 576 585 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Haute-Normandie <br/>
 </td>
-<td align="center">7 813 838 <br/>
+<td align="center">7 813 838<br/>
 </td>
 </tr>
 <tr>
@@ -123,13 +123,13 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Poitou-Charentes <br/>
 </td>
-<td align="center">8 808 810 <br/>
+<td align="center">8 821 478 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Provence-Alpes-Côte d'Azur <br/>
 </td>
-<td align="center">10 169 853 <br/>
+<td align="center">10 419 118 <br/>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ DOTATIONS RÉGIONALES LIMITATIVES RELATIVES AUX FRAIS DE FONCTIONNEMENT DES SERV
 <tr>
 <td align="center">Total <br/>
 </td>
-<td align="center">196 696 025<br/>
+<td align="center">197 701 978<br/>
 </td>
 </tr>
 </tbody>
