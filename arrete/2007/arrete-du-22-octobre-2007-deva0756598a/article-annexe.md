@@ -10,8 +10,6 @@ GÉNÉRALITÉS
 
 1.1. Définitions
 
-Autorité nationale de surveillance : la direction du contrôle de la sécurité de la direction générale de l'aviation civile est l'autorité nationale de surveillance, au sens l'article 3 de la directive n° 2006/23/CE du Parlement européen et du Conseil du 5 avril 2006 concernant une licence communautaire de contrôleur de la circulation aérienne.
-
 Circulation aérienne générale : tous les mouvements d'aéronefs civils ainsi que tous les mouvements d'aéronefs d'Etat (y compris les aéronefs militaires et ceux des services de douane et de police) lorsque ces mouvements se font conformément aux procédures de l'OACI.
 
 Formation : l'ensemble des cours théoriques, des exercices pratiques, incluant la simulation, et de la formation pratique sur la position requis pour acquérir et entretenir les compétences pour assurer des services de contrôle de la circulation aérienne sûrs et de qualité élevée ; la formation comprend :
@@ -42,7 +40,7 @@ Organisme ou fournisseur de formation : une entité assurant un ou plusieurs typ
 
 Plan de formation en unité : un plan exposant en détail les étapes nécessaires à la formation et leur durée pour permettre la mise en application des consignes et méthodes locales dans l'unité sous la surveillance d'un instructeur sur la position.
 
-Prestataire de services de navigation aérienne : ensemble de services de la direction générale de l'aviation civile chargés d'assurer les services du contrôle de la navigation aérienne et, en Nouvelle-Calédonie, en Polynésie française et à Saint-Pierre-et-Miquelon : entité publique fournissant des services de navigation aérienne pour la circulation aérienne générale.
+Prestataire de services de navigation aérienne : toute entité publique fournissant des services de navigation aérienne pour la circulation aérienne générale.
 
 Programme de compétence d'unité : programme indiquant la méthode par laquelle l'unité maintient la validité des compétences de ses personnels titulaires de licence.
 
@@ -90,7 +88,7 @@ La licence de contrôleur de la circulation aérienne ou de contrôleur stagiair
 
 La licence de contrôleur de la circulation aérienne ou de contrôleur stagiaire de la circulation aérienne est de couleur jaune.
 
-Une attestation médicale d'aptitude en cours de validité délivrée en cohérence avec les dispositions de l'annexe I de la convention relative à l'aviation civile internationale et les exigences visées dans les normes médicales applicables aux contrôleurs de la circulation aérienne (normes EURO Class 3 ») fixées par Eurocontrol doit être jointe à la licence pour en exercer les privilèges.
+Une attestation médicale d'aptitude en cours de validité délivrée en cohérence avec les dispositions de l'annexe I de la convention relative à l'aviation civile internationale et les exigences visées dans les normes médicales applicables aux contrôleurs de la circulation aérienne (normes EURO Class 3 ) fixées par Eurocontrol doit être jointe à la licence pour en exercer les privilèges.
 
 1.4. Reconnaissance des licences de contrôleur de la circulation aérienne
 
@@ -176,7 +174,7 @@ La mention d'instructeur est délivrée aux titulaires d'une licence de contrôl
 
 a) Ont assuré des services du contrôle de la circulation aérienne au moins pendant les douze mois immédiatement précédents, dont au minimum six mois d'exercice de la qualification sur les secteurs et sur les positions opérationnelles sur lesquelles l'instruction est dispensée ;
 
-b) Ont suivi avec succès une formation d'instructeur sur la position » au cours de laquelle les connaissances et les aptitudes pédagogiques nécessaires ont été évaluées au moyen d'examens adéquats.
+b) Ont suivi avec succès une formation d'instructeur sur la position au cours de laquelle les connaissances et les aptitudes pédagogiques nécessaires ont été évaluées au moyen d'examens adéquats.
 
 TITRE III
 
@@ -188,53 +186,57 @@ ET MENTIONS DES LICENCES DE CONTRÔLEUR DE LA CIRCULATION AÉRIENNE
 
 Les licences de contrôleur de la circulation aérienne, ou de contrôleur de la circulation aérienne stagiaire, contiennent une ou plusieurs des qualifications, qui indiquent le type de services que le titulaire de la licence est habilité à assurer. Ces qualifications sont les suivantes :
 
-a) La qualification contrôle d'aérodrome à vue » (ADV), qui indique que le titulaire de la licence est compétent pour assurer le contrôle de la circulation aérienne en circulation d'aérodrome pour un aérodrome non doté de procédures d'approche ou de départ aux instruments publiées ;
+a) La qualification "contrôle d'aérodrome à vue" (ADV), qui indique que le titulaire de la licence est compétent pour assurer le contrôle de la circulation aérienne en circulation d'aérodrome pour un aérodrome non doté de procédures d'approche ou de départ aux instruments publiées ;
 
-b) La qualification contrôle d'aérodrome aux instruments » (ADI), qui indique que le titulaire de la licence est compétent pour assurer le contrôle de la circulation aérienne en circulation d'aérodrome pour un aérodrome doté de procédures d'approche ou de départ aux instruments publiées. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.1 ci-après ;
+b) La qualification "contrôle d'aérodrome aux instruments" (ADI), qui indique que le titulaire de la licence est compétent pour assurer le contrôle de la circulation aérienne en circulation d'aérodrome pour un aérodrome doté de procédures d'approche ou de départ aux instruments publiées. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.1 ci-après ;
 
-c) La qualification contrôle d'approche aux procédures » (APP), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs à l'arrivée, au départ ou en transit sans utiliser d'équipements de surveillance ;
+c) La qualification "contrôle d'approche aux procédures" (APP), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs à l'arrivée, au départ ou en transit sans utiliser d'équipements de surveillance ;
 
-d) La qualification contrôle d'approche de surveillance » (APS), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne pour des aéronefs à l'arrivée, au départ ou en transit à l'aide d'équipements de surveillance. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.2 ci-après ;
+d) La qualification "contrôle d'approche de surveillance" (APS), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne pour des aéronefs à l'arrivée, au départ ou en transit à l'aide d'équipements de surveillance. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.2 ci-après ;
 
-e) La qualification contrôle régional aux procédures » (ACP), qui indique que le titulaire de la licence est compétent pour assurer sans équipements de surveillance les services du contrôle de la circulation aérienne pour des aéronefs ;
+e) La qualification "contrôle régional aux procédures" (ACP), qui indique que le titulaire de la licence est compétent pour assurer sans équipement de surveillance les services du contrôle de la circulation aérienne pour des aéronefs. Elle peut être accompagnée de la mention de qualification visée au paragraphe 3.2.3. ci-après ;
 
-f) La qualification contrôle régional de surveillance » (ACS), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne pour des aéronefs à l'aide d'équipements de surveillance. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.3 ci-après.
+f) La qualification "contrôle régional de surveillance" (ACS), qui indique que le titulaire de la licence est compétent pour assurer les services du contrôle de la circulation aérienne pour des aéronefs à l'aide d'équipements de surveillance. Elle est accompagnée d'au moins une des mentions de qualification visées au paragraphe 3.2.4. ci-après.
 
 3.2. Mentions de qualification
 
-3.2.1. La qualification contrôle d'aérodrome aux instruments » (ADI) est complétée d'au moins une des mentions suivantes :
+3.2.1. La qualification "contrôle d'aérodrome aux instruments" (ADI) est complétée d'au moins une des mentions suivantes :
 
-a) La mention contrôle tour » (TWR), qui indique que le titulaire est compétent pour assurer les services de contrôle dans les cas où le contrôle d'aérodrome est assuré à partir d'un seul poste de travail ;
+a) La mention "contrôle tour" (TWR), qui indique que le titulaire est compétent pour assurer les services de contrôle dans les cas où le contrôle d'aérodrome est assuré à partir d'un seul poste de travail.
 
-b) La mention contrôle des mouvements au sol » (GMC), qui indique que le titulaire de la licence est compétent pour assurer le contrôle des mouvements au sol ;
+b) La mention "contrôle des mouvements au sol" (GMC), qui indique que le titulaire de la licence est compétent pour assurer le contrôle des mouvements au sol.
 
-c) La mention surveillance des mouvements au sol » (GMS), délivrée en plus de la mention contrôle des mouvements au sol » ou de la mention contrôle tour », qui indique que le titulaire est compétent pour assurer le contrôle des mouvements au sol à l'aide de systèmes de contrôle et de guidage des mouvements de surface sur les aérodromes ;
+c) La mention "surveillance des mouvements au sol" (GMS), délivrée en plus de la mention "contrôle des mouvements au sol" ou de la mention "contrôle tour", qui indique que le titulaire est compétent pour assurer le contrôle des mouvements au sol à l'aide de systèmes de contrôle et de guidage des mouvements de surface sur les aérodromes.
 
-d) La mention contrôle air » (AIR), qui indique que le titulaire de la licence est compétent pour assurer les services de contrôle d'aérodrome hormis les mouvements au sol ;
+d) La mention "contrôle air" (AIR), qui indique que le titulaire de la licence est compétent pour assurer les services de contrôle d'aérodrome hormis les mouvements au sol ;
 
-e) La mention contrôle radar d'aérodrome » (RAD), délivrée en plus de la mention contrôle air » ou de la mention contrôle tour », qui indique que le titulaire de la licence est compétent pour assurer le contrôle d'aérodrome à l'aide d'un équipement de surveillance radar.
+e) La mention "contrôle radar d'aérodrome" (RAD), délivrée en plus de la mention "contrôle air" ou de la mention "contrôle tour", qui indique que le titulaire de la licence est compétent pour assurer le contrôle d'aérodrome à l'aide d'un équipement de surveillance radar.
 
-3.2.2. La qualification contrôle d'approche de surveillance » (APS) est complétée d'au moins une des mentions suivantes :
+3.2.2. La qualification "contrôle d'approche de surveillance" (APS) est complétée d'au moins une des mentions suivantes :
 
-a) La mention radar » (RAD), qui indique que le titulaire de la licence est compétent pour assurer le service de contrôle d'approche au moyen d'un équipement radar primaire ou secondaire ;
+a) La mention "radar" (RAD), qui indique que le titulaire de la licence est compétent pour assurer le service de contrôle d'approche au moyen d'un équipement radar primaire ou secondaire.
 
-b) La mention radar d'approche de précision » (PAR), délivrée en plus de la mention radar », qui indique que le titulaire de la licence est compétent pour assurer, au profit des aéronefs en approche finale vers la piste d'atterrissage, le guidage d'approche de précision depuis le sol à l'aide d'un équipement radar d'approche de précision ;
+b) La mention "radar d'approche de précision" (PAR), délivrée en plus de la mention "radar", qui indique que le titulaire de la licence est compétent pour assurer, au profit des aéronefs en approche finale vers la piste d'atterrissage, le guidage d'approche de précision depuis le sol à l'aide d'un équipement radar d'approche de précision.
 
-c) La mention radar d'approche de surveillance » (SRA), délivrée en plus de la mention radar », qui indique que le titulaire est compétent pour assurer, au profit des aéronefs en approche finale vers la piste d'atterrissage, le guidage d'approche classique depuis le sol au moyen d'un équipement de surveillance ;
+c) La mention "radar d'approche de surveillance" (SRA), délivrée en plus de la mention "radar", qui indique que le titulaire est compétent pour assurer, au profit des aéronefs en approche finale vers la piste d'atterrissage, le guidage d'approche classique depuis le sol au moyen d'un équipement de surveillance.
 
-d) La mention surveillance dépendante automatique » (ADS), qui indique que le titulaire est compétent pour fournir des services de contrôle d'approche à l'aide d'un système de surveillance dépendante automatique ;
+d) La mention "surveillance dépendante automatique" (ADS), qui indique que le titulaire est compétent pour fournir des services de contrôle d'approche à l'aide d'un système de surveillance dépendante automatique.
 
-e) La mention contrôle terminal » (TCL), délivrée en plus des mentions radar » ou surveillance dépendante automatique », qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit d'aéronefs évoluant dans une région de contrôle terminale et/ou des secteurs adjacents spécifiés à l'aide de tout type d'équipements de surveillance.
+e) La mention "contrôle terminal" (TCL), délivrée en plus des mentions "radar" ou "surveillance dépendante automatique", qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit d'aéronefs évoluant dans une région de contrôle terminale et/ou des secteurs adjacents spécifiés à l'aide de tout type d'équipements de surveillance.
 
-3. La qualification contrôle régional de surveillance » (ACS) est complétée d'au moins une des mentions suivantes :
+3.2.3. La qualification "contrôle régional aux procédures" (ACP) peut être complétée par la mention suivante :
 
-a) La mention radar » (RAD), qui indique que le titulaire est compétent pour assurer les services de contrôle régional à l'aide d'un équipement de surveillance radar ;
+a) La mention "contrôle océanique" (OCN), qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs évoluant dans une région de contrôle océanique.
 
-b) La mention surveillance dépendante automatique » (ADS), qui indique que le titulaire est compétent pour assurer les services de contrôle régional à l'aide d'un système de surveillance dépendante automatique ;
+3.2.4. La qualification "contrôle régional de surveillance" (ACS) est complétée d'au moins une des mentions suivantes :
 
-c) La mention contrôle terminal » (TCL), délivrée en plus des mentions radar » ou surveillance dépendante automatique », qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs évoluant dans une région de contrôle ou des secteurs adjacents spécifiés à l'aide d'équipements de surveillance quelconques ;
+a) La mention "radar" (RAD), qui indique que le titulaire est compétent pour assurer les services de contrôle régional à l'aide d'un équipement de surveillance radar.
 
-d) La mention contrôle océanique » (OCN), qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs évoluant dans une région de contrôle océanique.
+b) La mention "surveillance dépendante automatique" (ADS), qui indique que le titulaire est compétent pour assurer les services de contrôle régional à l'aide d'un système de surveillance dépendante automatique.
+
+c) La mention "contrôle terminal" (TCL), délivrée en plus des mentions "radar" ou "surveillance dépendante automatique", qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs évoluant dans une région de contrôle ou des secteurs adjacents spécifiés à l'aide d'équipements de surveillance quelconques.
+
+d) La mention "contrôle océanique" (OCN), qui indique que le titulaire est compétent pour assurer les services du contrôle de la circulation aérienne au profit des aéronefs évoluant dans une région de contrôle océanique.
 
 3.3. Mentions linguistiques
 
@@ -256,7 +258,7 @@ La mention d'unité indique que le titulaire de la licence est compétent pour a
 
 Les conditions relatives à la délivrance de cette mention sont déterminées dans les plans de formation en unité.
 
-3.6. Inscriptions particulières
+3.6. Inscriptions complémentaires
 
 Des inscriptions qui indiquent que le titulaire d'une licence est compétent pour assurer des fonctions particulières peuvent être apposées sur la licence. Ces inscriptions concernent les fonctions de :
 
@@ -493,7 +495,7 @@ DES LICENCES DE CONTRÔLEUR DE LA CIRCULATION AÉRIENNE
 
 4.1. Conditions du maintien de la validité des mentions d'unité
 
-La validité des mentions d'unité est d'une durée initiale de douze mois. Elle est prorogée de douze mois lorsque le prestataire de services de navigation aérienne apporte la preuve que :
+La validité des mentions d'unité est d'une durée initiale de douze mois. Elle est prorogée de douze mois lorsque le prestataire de services de navigation aérienne apporte, à partir du premier jour du mois au cours duquel la validité de la mention arrive à expiration, la preuve que :
 
 a) Le candidat a exercé les privilèges de la licence pendant un nombre d'heures minimal, au cours des douze derniers mois, comme indiqué dans le programme de compétence d'unité agréé. A cette fin, les unités opérationnelles du prestataire de service de navigation aérienne tiennent un registre des heures de travail effectuées par chaque titulaire de licence travaillant dans l'unité sur les secteurs, le groupe de secteurs ou les positions opérationnelles et communiquent ces données à l'Autorité nationale de surveillance à sa demande.
 
@@ -605,7 +607,7 @@ EXIGENCES EN MATIÈRE DE FORMATION INITIALE
 
 APPLICABLES AUX CONTRÔLEURS DE LA CIRCULATION AÉRIENNE
 
-La formation initiale garantit que les contrôleurs de la circulation aérienne stagiaires satisfont au moins aux objectifs en matière de formation de base et de formation de qualification énoncés par les Guidelines for air traffic controller Common Core Content Initial Training », édition du 12 octobre 2004, d'Eurocontrol, afin que les contrôleurs de la circulation aérienne soient capables de gérer la circulation aérienne d'une façon sûre, rapide et efficace.
+La formation initiale garantit que les contrôleurs de la circulation aérienne stagiaires satisfont au moins aux objectifs en matière de formation de base et de formation de qualification énoncés par les Guidelines for air traffic controller Common Core Content Initial Training , édition du 12 octobre 2004, d'Eurocontrol, afin que les contrôleurs de la circulation aérienne soient capables de gérer la circulation aérienne d'une façon sûre, rapide et efficace.
 
 La formation initiale couvre les aspects suivants : droit aérien, gestion de la circulation aérienne, y compris les procédures d'opérations coordonnées entre civils et militaires, météorologie, navigation, aéronefs et principes du vol, y compris la bonne intelligence entre le contrôleur de la circulation aérienne et le pilote, facteurs humains, équipements et systèmes, environnement professionnel, sécurité et culture de la sécurité, systèmes de gestion de la sécurité, situations inhabituelles ou urgences, systèmes dégradés, connaissances linguistiques, notamment la phraséologie radiotéléphonique.
 
