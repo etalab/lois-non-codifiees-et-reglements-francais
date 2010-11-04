@@ -1,0 +1,3 @@
+# Article 3
+
+La ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du travail, de la solidarité et de la fonction publique, le ministre de l'éducation nationale, porte-parole du Gouvernement, le ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire, la secrétaire d'Etat chargée de la politique de la ville et la secrétaire d'Etat chargée de la famille et de la solidarité sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

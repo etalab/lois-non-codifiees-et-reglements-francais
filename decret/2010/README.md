@@ -5,6 +5,7 @@
 - [Décret n°2010-112 du 2 février 2010 (PRMX0909445D)](decret-n2010-112-du-2-fevrier-2010-prmx0909445d)
 - [Décret n°2010-113 du 2 février 2010 (SASS0926119D)](decret-n2010-113-du-2-fevrier-2010-sass0926119d)
 - [Décret n°2010-115 du 2 février 2010 (MCCT1001888D)](decret-n2010-115-du-2-fevrier-2010-mcct1001888d)
+- [Décret n°2010-1308 du 2 novembre 2010 (MTSA1027265D)](decret-n2010-1308-du-2-novembre-2010-mtsa1027265d)
 - [Décret n°2010-214 du 2 mars 2010 (JUSF0927864D)](decret-n2010-214-du-2-mars-2010-jusf0927864d)
 - [Décret n°2010-219 du 2 mars 2010 (BCFL0809092D)](decret-n2010-219-du-2-mars-2010-bcfl0809092d)
 - [Décret n°2010-221 du 2 mars 2010 (OMEO1004438D)](decret-n2010-221-du-2-mars-2010-omeo1004438d)
