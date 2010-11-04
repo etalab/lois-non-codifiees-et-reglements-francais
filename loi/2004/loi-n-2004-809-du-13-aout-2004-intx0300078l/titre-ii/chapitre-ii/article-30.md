@@ -18,8 +18,6 @@ III.-Pour chaque port transféré, une convention conclue entre l'Etat et la col
 
 La collectivité ou le groupement bénéficiaire du transfert succède à l'Etat dans l'ensemble de ses droits et obligations à l'égard des tiers.
 
-Les dépendances du domaine public de ces ports sont transférées à titre gratuit aux collectivités territoriales ou groupements de collectivités territoriales compétents et ne donnent lieu au paiement d'aucune indemnité, droit, taxe, salaire ou honoraires.
-
 La convention, ou à défaut l'arrêté, précise les conditions dans lesquelles le bénéficiaire met gratuitement à la disposition de l'Etat les installations et aménagements nécessaires au fonctionnement des services chargés de la police et de la sécurité.
 
 IV.-Les délégations de service public portant sur les ports faisant l'objet des transferts de compétence prévus au présent article sont prorogées dans les conditions ci-après :
@@ -34,8 +32,6 @@ Une convention conclue entre la région ou la collectivité territoriale de Cors
 
 VI., VII., VIII., IX.-Paragraphes modificateurs.
 
-X.-Lorsque le transfert de compétences relatif à un port a été réalisé avant la publication de la présente loi, l'Etat procède, à la demande de la collectivité, au transfert à titre gratuit des dépendances du domaine public portuaire.
+X.-(Abrogé).
 
 XI.-Paragraphe modificateur.
-
-XII.-Un décret en Conseil d'Etat fixe avant le 31 août 2005 la liste des ports des départements d'outre-mer qui sont exclus du transfert prévu au présent article.
