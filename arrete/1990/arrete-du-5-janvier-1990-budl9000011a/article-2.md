@@ -18,7 +18,7 @@ Date et lieu de naissance ;
 
 Surnom usuel, le cas échéant ;
 
-Numéro fiscal délivré par le répertoire informatique géré par S.P.I. (simplification des procédures d'imposition) ;
+Numéro SPI  ;
 
 2. Adresses du domicile déclaré pour l'impôt sur le revenu et l'impôt de solidarité sur la fortune et des locaux au titre desquels la taxe d'habitation ou la taxe annuelle sur les logements vacants est due ;
 
