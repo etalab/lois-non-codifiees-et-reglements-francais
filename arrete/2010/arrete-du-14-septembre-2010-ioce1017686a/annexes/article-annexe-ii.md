@@ -45,3 +45,7 @@ Inondation et chocs mécaniques
 liés à l'action des vagues du 21 au 23 février 2010
 
 Communes de Rayol-Canadel.
+
+Inondation et coulée de boue du 21 au 23 février 2010
+
+Commune de Rayol-Canadel-sur-Mer.
