@@ -44,7 +44,6 @@
 - [Arrêté du 2 juillet 2004 (MENE0401438A)](arrete-du-2-juillet-2004-mene0401438a)
 - [Arrêté du 2 juin 1999 (EQUS9900766A)](arrete-du-2-juin-1999-equs9900766a)
 - [Arrêté du 2 juin 2004 (PRMG0470228A)](arrete-du-2-juin-2004-prmg0470228a)
-- [Arrêté du 2 juin 2004 (PRMG0470229A)](arrete-du-2-juin-2004-prmg0470229a)
 - [Arrêté du 2 juin 2004 (PRMG0470350A)](arrete-du-2-juin-2004-prmg0470350a)
 - [Arrêté du 2 juin 2004 (SANP0421875A)](arrete-du-2-juin-2004-sanp0421875a)
 - [Arrêté du 2 mars 2004 (AGRE0400397A)](arrete-du-2-mars-2004-agre0400397a)
