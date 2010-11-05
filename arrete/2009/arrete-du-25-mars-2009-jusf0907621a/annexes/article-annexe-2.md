@@ -3,245 +3,261 @@
 <table>
 <tbody>
 <tr>
-<th rowspan="2">
-<font size="1">DIRECTIONS TERRITORIALES </font>
+<td rowspan="2">
 <p align="center">
+<font size="1">DIRECTIONS TERRITORIALES<br/>
+</font>
 <font size="1">de la protection judiciaire de la jeunesse</font>
-<br/>
 </p>
-</th>
-<th rowspan="2">
+</td>
+<td rowspan="2">
 <p align="center">
 <font size="1">ORGANISATIONS SYNDICALES</font>
-<br/>
 </p>
-</th>
-<th colspan="2">
+</td>
+<td colspan="2">
+<p align="center">
 <font size="1">NOMBRE DE SIÈGES</font>
-</th>
+</p>
+</td>
 </tr>
 <tr>
-<th>
+<td>
+<p align="center">
 <font size="1">Titulaires</font>
-</th>
-<th>
+</p>
+</td>
+<td>
+<p align="center">
 <font size="1">Suppléants</font>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Ain</p>
-</td>
-<td align="center">
-<p align="left">CFDT<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Aisne</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Alpes-Maritimes</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Aube</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Basse-Normandie</p>
-<p align="left">(Calvados/Orne/Manche)</p>
+<p align="center">Ain</p>
+</td>
+<td>CFDT</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Aisne</p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Alpes-Maritimes</p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Alpes-Vaucluse </p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ <br/>
+</p>
+</td>
+<td align="center">
+<p align="center">3</p>
+</td>
+<td align="center">
+<p align="center">3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td align="center">
+<p align="left">SNPES-PJJ / FSU </p>
+</td>
+<td align="center">
+<p align="center">2</p>
+</td>
+<td align="center">
+<p align="center">2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td align="center">
+<p align="left">UNSA-SPJJ </p>
+</td>
+<td align="center">
+<p align="center">1</p>
+</td>
+<td align="center">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Aube</p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Basse-Normandie</p>
+<p align="center">(Calvados/Orne/Manche)</p>
 </td>
 <td>
 <p align="left">CGT-PJJ</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -252,10 +268,10 @@
 <p align="left">SNPES-PJJ/FSU</p>
 </td>
 <td>
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -266,523 +282,466 @@
 <p align="left">UNSA-SPJJ</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Bouches-du-Rhône</p>
+<p align="center">Bouches-du-Rhône</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">5<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Calvados</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Calvados</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Charente</p>
+<p align="center">Charente</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Charente-Maritime/Deux-Sèvres</p>
+<p align="center">Charente-Maritime/Deux-Sèvres</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Cher/Indre</p>
+<p align="center">Cher/Indre</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Côte-d'Or</p>
+<p align="center">Côte-d'Or</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Côtes-d'Armor</p>
+<p align="center">Côtes-d'Armor</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Doubs</p>
+<p align="center">Doubs</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Drôme</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Drôme</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Essonne</p>
+<p align="center">Essonne</p>
 </td>
 <td>
 <p align="left">CGT-PJJ</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">
-<br/>
-</p>
 </td>
 <td>
 <br/>
 <p align="left">SNPES-PJJ/FSU</p>
 </td>
 <td>
-<p align="left">5</p>
+<p align="center">5</p>
 </td>
 <td>
-<p align="left">5</p>
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">
-<br/>
-</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Eure</p>
+<p align="center">Eure</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Eure-et-Loir</p>
+<p align="center">Eure-et-Loir</p>
 </td>
 <td align="center">
 <p align="left">SN-FO-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">
-<br/>
-</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Finistère</p>
+<p align="center">Finistère</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Finistère-Morbihan</p>
+<p align="center">Finistère-Morbihan</p>
 </td>
 <td>
 <p align="left">CGT-PJJ</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -793,10 +752,10 @@
 <p align="left">SNPES-PJJ / FSU </p>
 </td>
 <td>
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -807,676 +766,588 @@
 <p align="left">UNSA-SPJJ</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Gard/Lozère</p>
+<p align="center">Gard/Lozère</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Haute-Garonne/Arièges-Hautes-Pyrénées</p>
+<p align="center">Haute-Garonne/Arièges-Hautes-Pyrénées</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Gironde</p>
+<p align="center">Gironde</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">3<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Guadeloupe</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Guadeloupe</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Guyane</p>
+<p align="center">Guyane</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Hauts-de-Seine</p>
+<p align="center">Hauts-de-Seine</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Hérault</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Hérault</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">5<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">5<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Ille-et-Vilaine - Côtes-d'Armor </p>
+<p align="center">Ille-et-Vilaine - Côtes-d'Armor </p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td align="center">
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Indre-et-Loire/Loir-et-Cher</p>
+<p align="center">Indre-et-Loire/Loir-et-Cher</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">3<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Isère</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Isère</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Landes/Pyrénées-Atlantiques</p>
+<p align="center">Landes/Pyrénées-Atlantiques</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loire</p>
+<p align="center">Loire</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loire-Atlantique-Vendée</p>
+<p align="center">Loire-Atlantique-Vendée</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4</p>
+</td>
+<td align="center">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Loiret</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4</p>
+<p align="center">3<br/>
+</p>
 </td>
 <td align="center">
-<p align="left">4</p>
+<p align="center">3<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Loiret</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Maine-et-Loire-Sarthe-Mayenne</p>
+<p align="center">Maine-et-Loire-Sarthe-Mayenne</p>
 </td>
 <td align="center">
 <p align="left">CGT - PJJ</p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -1488,27 +1359,23 @@
 </p>
 </td>
 <td>
-<p align="left">3 </p>
+<p align="center">3 </p>
 </td>
 <td>
-<p align="left">3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -1519,582 +1386,511 @@
 <p align="left">FO-PJJ</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Manche</p>
+<p align="center">Manche</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Marne</p>
+<p align="center">Marne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Marne (Haute)</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Marne (Haute)</p>
+<p align="center">Martinique</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Martinique</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Meurthe-et-Moselle</p>
+<p align="center">Meurthe-et-Moselle</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Meuse</p>
+<p align="center">Meuse</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Morbihan</p>
+<p align="center">Morbihan</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Moselle</p>
+<p align="center">Moselle</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Nièvre</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Nièvre</p>
+<p align="center">Nord</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Nord</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Oise </p>
+<p align="center">Oise </p>
 </td>
 <td>
 <p align="left">CGT-PJJ</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="left">2</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">
-<br/>
-</p>
 </td>
 <td>
 <p align="left">SNPES-PJJ/FSU</p>
 </td>
 <td>
-<p align="left">4</p>
+<p align="center">4</p>
 </td>
 <td>
-<p align="left">4</p>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Paris</p>
+<p align="center">Paris</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pas-de-Calais</p>
+<p align="center">Pas-de-Calais</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Poitou-Charentes</p>
+<p align="center">Poitou-Charentes</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ</p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -2105,10 +1901,10 @@
 <p align="left">SNPES-PJJ/FSU</p>
 </td>
 <td align="center">
-<p align="left">4</p>
+<p align="center">4</p>
 </td>
 <td align="center">
-<p align="left">4 </p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
@@ -2119,81 +1915,73 @@
 <p align="left">UNSA-SPJJ</p>
 </td>
 <td align="center">
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td align="center">
-<p align="left">1 </p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Puy-de-Dôme</p>
+<p align="center">Puy-de-Dôme</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pyrénées-Orientales-Aude</p>
+<p align="center">Pyrénées-Orientales-Aude</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
@@ -2205,914 +1993,797 @@
 <p align="left">UNSA-SPJJ</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">La Réunion</p>
+<p align="center">La Réunion</p>
 </td>
 <td align="center">
 <p align="left">CFDT</p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhin (Bas)</p>
+<p align="center">Rhin (Bas)</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhin (Haut)</p>
+<p align="center">Rhin (Haut)</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhône</p>
+<p align="center">Rhône</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Saône-et-Loire</p>
+<p align="center">Saône-et-Loire</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Savoie (Haute)</p>
+<p align="center">Savoie (Haute)</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Seine-Maritime</p>
+<p align="center">Seine-Maritime</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Seine-et-Marne </p>
+<p align="center">Seine-et-Marne </p>
 </td>
 <td>
 <p align="left">SNPES-PJJ/FSU</p>
 </td>
 <td>
-<p align="left">5</p>
+<p align="center">5</p>
 </td>
 <td>
-<p align="left">5</p>
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">
-<br/>
-</p>
 </td>
 <td>
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="left">1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Seine-Saint-Denis</p>
+<p align="center">Seine-Saint-Denis</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Somme</p>
+<p align="center">Somme</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Tarn-Aveyron</p>
+<p align="center">Tarn-Aveyron</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Val-d'Oise</p>
+<p align="center">Val-d'Oise</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Val-de-Marne</p>
+<p align="center">Val-de-Marne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">5<br/>
+<p align="center">5<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Var</p>
+<p align="center">Var</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vaucluse</p>
+<p align="center">Vaucluse</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vienne</p>
+<p align="center">Vienne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
+<p align="center">Vienne (Haute)/Creuse</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Vienne (Haute)/Creuse</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vosges</p>
+<p align="center">Vosges</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Yonne</p>
+<p align="center">Yonne</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">1<br/>
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="center">4<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Yvelines</p>
+<p align="center">Yvelines</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
+<p align="center">3<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="center">2<br/>
 </p>
 </td>
 </tr>
