@@ -16,10 +16,10 @@
 
 ― pour le secteur des bovins hors agriculture biologique, à 5 000 équivalents gros bovins (les équivalences figurent en annexe 1 du présent arrêté) ;
 
-― pour le secteur des ovins hors agriculture biologique, à 15 000 agneaux et/ou ovins de réforme ;
+― pour le secteur des ovins hors agriculture biologique, à 40 000 agneaux et / ou ovins de réforme ;
 
 ― pour le secteur des veaux de boucherie, à 3 000 animaux ;
 
 ― pour le secteur des bovins produits en agriculture biologique, à 500 équivalents gros bovins (les équivalences figurent en annexe 1 du présent arrêté) ;
 
-― pour le secteur des ovins produits en agriculture biologique, à 1 500 agneaux et/ou ovins de réforme.
+― pour le secteur des ovins produits en agriculture biologique, à 1 500 agneaux et / ou ovins de réforme.
