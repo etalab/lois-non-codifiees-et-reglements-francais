@@ -1,39 +1,33 @@
 # Article 3
 
-Le conseil du centre comprend un président et vingt-cinq membres.
+Le conseil du centre comprend un président et dix-sept membres.
 
 Sont membres de droit du conseil :
 
-Le commissaire au Plan ;
+- le directeur général du Centre d'analyse stratégique ;
 
-Le secrétaire général de la défense nationale ;
+- le secrétaire général de la défense et de la sécurité nationale ;
 
-Le directeur des affaires économiques et financières au ministère des affaires étrangères ;
+- le directeur général du Trésor ;
 
-Le chef du centre d'analyse et de prévision au ministère des affaires étrangères ;
+- le sous-gouverneur de la Banque de France ;
 
-Le directeur général des stratégies industrielles  ;
+- le directeur général de la compétitivité, de l'industrie et des services ;
 
-Le premier sous-gouverneur de la Banque de France ;
+- le directeur général de la mondialisation, du développement et des partenariats ;
 
-Le directeur du Trésor ;
+- le directeur de la prospective au ministère chargé des affaires étrangères ;
 
-Le directeur général de l'Institut national de la statistique et des études économiques ;
+- le directeur général de l'Institut national de la statistique et des études économiques ;
 
-Le directeur de la prévision ;
+- le directeur général d'UBIFRANCE ;
 
-Le directeur des relations économiques extérieures ;
+- le directeur général des politiques agricole, alimentaire et des territoires ;
 
-Le directeur général du centre français du commerce extérieur ;
+- le directeur de l'Institut français des relations internationales.
 
-Le directeur de la production et des échanges au ministère de l'agriculture ;
-
-Le chef du service de la coordination géographique et des études au ministère des affaires étrangères (Coopération et francophonie)  ;
-
-Le directeur de l'Institut français des relations internationales.
-
-Le conseil comprend également onze personnalités choisies en raison de leur compétence et de leur expérience dans le domaine d'activité du centre.
+Le conseil comprend également six personnalités choisies en raison de leur compétence et de leur expérience dans le domaine d'activité du centre.
 
 Les membres de droit peuvent être représentés par des personnes nommément désignées à cet effet par eux avec l'accord du président du conseil du centre.
 
-Le président et les personnalités choisies en raison de leur compétence sont nommés par décret du Premier ministre pour quatre ans.
+Le président et les personnalités choisies en raison de leur compétence et de leur expérience sont nommés par décret du Premier ministre pour quatre ans.
