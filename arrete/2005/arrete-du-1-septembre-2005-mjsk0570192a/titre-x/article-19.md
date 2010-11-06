@@ -48,11 +48,13 @@ Il comprend :
 
 Deuxième groupe - Sécurité (coefficient 3 ; notée sur 60).
 
-Il comprend :
+Il comprend trois épreuves :
 
 - une épreuve écrite (coefficient 1 ; notée sur 20) ;
 
-- des épreuves pratiques de sécurité générale et d'utilisation d'outils de recherche de victime d'une avalanche (coefficient 2 ; notée sur 40).
+- une épreuve pratique de sécurité générale (coefficient 1 ; notée sur 20) ;
+
+- une épreuve de recherche de victime en avalanche (coefficient 1 ; notée sur 20) ;
 
 Troisième groupe - Environnement naturel (coefficient 1,5 ; notée sur 30).
 
@@ -76,7 +78,7 @@ L'évaluation de cette épreuve est indissociable de l'épreuve pratique de chem
 
 Les modalités d'organisation des ces épreuves sont arrêtées par le jury prévu à l'article 22 sur proposition du responsable des formations du centre d'éducation populaire et de sport de Franche-Comté, Centre national de ski nordique.
 
-Les candidats qui obtiennent un total général égal ou supérieur à 95 points avec au moins 30 points obtenus aux épreuves du premier groupe et 30 points au moins aux épreuves du deuxième groupe acquièrent la validation de cette unité de formation et peuvent poursuivre leur formation.
+Les candidats qui obtiennent un total général égal ou supérieur à 95 points avec au moins 30 points obtenus aux épreuves du premier groupe et au moins 30 points obtenus aux épreuves du deuxième groupe dont au minimum 10 points à l'épreuve de recherche de victime d'une avalanche et 8 points à l'épreuve écrite, acquièrent la validation de cette unité de formation et peuvent poursuivre leur formation.
 
 Les candidats qui ne remplissent pas ces conditions sont tenus de suivre une nouvelle fois cette unité de formation dans son intégralité.
 

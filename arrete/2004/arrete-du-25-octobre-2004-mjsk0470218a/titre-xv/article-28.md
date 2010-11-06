@@ -1,5 +1,7 @@
 # Article 28
 
-Le brevet d'Etat d'éducateur sportif du premier degré, option ski alpin, peut être délivré aux candidats étant ou ayant été sportifs de haut niveau dans la discipline du ski alpin et de ses activités dérivées, dans les conditions définies à l'article 6 du décret du 7 mars 1991 susvisé, après qu'ils auront suivi une formation aménagée, évaluée de manière adaptée en contrôle continu des connaissances, et organisée par l'Ecole nationale de ski et d'alpinisme.
+Le brevet d'Etat d'éducateur sportif du premier degré, option ski alpin, peut être délivré aux candidats étant ou ayant été inscrits sur la liste ministérielle des sportifs de haut niveau dans une discipline déléguée à la Fédération française de ski, après qu'ils auront suivi une formation aménagée, évaluée de manière adaptée et organisée par l'Ecole nationale de ski et d'alpinisme.
 
-Ces sportifs bénéficient d'un plan de formation individualisé.
+Pour les sportifs de haut niveau étant ou ayant été inscrits sur la liste ministérielle relevant des disciplines du ski de fond ou du biathlon, les dispositions du premier alinéa ne s'appliquent qu'aux titulaires du brevet d'Etat d'éducateur sportif du premier degré, option ski nordique de fond.
+
+Ces sportifs bénéficient d'un plan de formation individualisé
