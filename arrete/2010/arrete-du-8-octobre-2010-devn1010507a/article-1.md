@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 bassin de la Druance » (zone spéciale de conservation FR 2500118) l'espace délimité sur la carte d'assemblage au 1/150 000 et les dix cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Calvados : CampandréValcongrain, Cauville, La Chapelle-Engerbold, Condé-sur-Noireau, Danvou-la-Ferrière, Estry, Lassy, Lénault, Le Mesnil-Auzouf, Montchauvet, Ondefontaine, Périgny, Le Plessis-Grimoult, Pontécoulant, Proussy, La Rocque, Roucamps, Saint-Germain-du-Crioult, Saint-Jean-le-Blanc, Saint-Pierre-la-Vieille, Saint-Vigor-des-Mézerets, Vassy, La Villette.
