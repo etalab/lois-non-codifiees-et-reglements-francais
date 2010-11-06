@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel d'infographiste en enseigne et signalétique est créé.
+Le titre professionnel d'infographiste en enseigne et signalétique est prorogé à compter du 20 décembre 2010.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 
