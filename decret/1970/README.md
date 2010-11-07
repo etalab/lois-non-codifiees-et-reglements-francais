@@ -16,7 +16,6 @@
 - [Décret du 9 septembre 1970](decret-du-9-septembre-1970)
 - [Décret n° 70-1169 du 9 décembre 1970](decret-n-70-1169-du-9-decembre-1970)
 - [Décret n° 70-816 du 9 septembre 1970](decret-n-70-816-du-9-septembre-1970)
-- [Décret n°70-207 du 9 mars 1970](decret-n70-207-du-9-mars-1970)
 - [Décret n° 70-653 du 10 juillet 1970](decret-n-70-653-du-10-juillet-1970)
 - [Décret n° 70-837 du 10 septembre 1970](decret-n-70-837-du-10-septembre-1970)
 - [Décret n° 70-492 du 11 juin 1970](decret-n-70-492-du-11-juin-1970)
