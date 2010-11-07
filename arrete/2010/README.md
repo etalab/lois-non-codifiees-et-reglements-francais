@@ -841,7 +841,6 @@
 - [Arrêté du 11 octobre 2010 (ECES1025847A)](arrete-du-11-octobre-2010-eces1025847a)
 - [Arrêté du 11 octobre 2010 (JSAJ1017508A)](arrete-du-11-octobre-2010-jsaj1017508a)
 - [Arrêté du 11 mai 2010 (BCRB1010199A)](arrete-du-11-mai-2010-bcrb1010199a)
-- [Arrêté du 11 mai 2010 (DEVA1013378A)](arrete-du-11-mai-2010-deva1013378a)
 - [Arrêté du 11 mai 2010 (DEVT0930691A)](arrete-du-11-mai-2010-devt0930691a)
 - [Arrêté du 11 mai 2010 (IOCA1012792A)](arrete-du-11-mai-2010-ioca1012792a)
 - [Arrêté du 11 mai 2010 (SASP1012703A)](arrete-du-11-mai-2010-sasp1012703a)
