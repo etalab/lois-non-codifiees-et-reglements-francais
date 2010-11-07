@@ -1110,7 +1110,6 @@
 - [Arrêté du 14 mai 2010 (ECET1008626A)](arrete-du-14-mai-2010-ecet1008626a)
 - [Arrêté du 14 mai 2010 (ECET1012914A)](arrete-du-14-mai-2010-ecet1012914a)
 - [Arrêté du 14 mai 2010 (JSAJ1012986A)](arrete-du-14-mai-2010-jsaj1012986a)
-- [Arrêté du 14 mai 2010 (MCCB1012203A)](arrete-du-14-mai-2010-mccb1012203a)
 - [Arrêté du 14 mai 2010 (MENA1009184A)](arrete-du-14-mai-2010-mena1009184a)
 - [Arrêté du 14 mai 2010 (MENE1009954A)](arrete-du-14-mai-2010-mene1009954a)
 - [Arrêté du 14 mai 2010 (MTSF1012382A)](arrete-du-14-mai-2010-mtsf1012382a)
