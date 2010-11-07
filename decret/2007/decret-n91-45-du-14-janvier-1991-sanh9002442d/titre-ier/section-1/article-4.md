@@ -4,25 +4,25 @@ Les agents chefs de 2e catégorie sont recrutés :
 
 1° a) Pour le compte de plusieurs établissements du département, par concours externe sur titre ouvert et organisé par l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits ;
 
-b) Pour le compte d'un établissement du département, par concours externe sur titre ouvert et organisé, après accord du préfet, par l'autorité investie du pouvoir de nomination de cet établissement.
+b) Pour le compte d'un établissement du département, par concours externe sur titre ouvert et organisé      par l'autorité investie du pouvoir de nomination de cet établissement.
 
 Peuvent être candidats :
 
-- les titulaires d'un baccalauréat professionnel correspondant aux domaines énumérés à l'article 2 ou d'une qualification reconnue équivalente ;
+-les titulaires d'un baccalauréat professionnel correspondant aux domaines énumérés à l'article 2 ou d'une qualification reconnue équivalente ;
 
-- les personnes titulaires d'une certification inscrite au répertoire national des certifications professionnelles délivrée dans l'un ou plusieurs des domaines précités ;
+-les personnes titulaires d'une certification inscrite au répertoire national des certifications professionnelles délivrée dans l'un ou plusieurs des domaines précités ;
 
-- les personnes titulaires d'une équivalence délivrée par la commission instituée par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique, permettant de se présenter à ce concours ;
+-les personnes titulaires d'une équivalence délivrée par la commission instituée par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique, permettant de se présenter à ce concours ;
 
 2° a) Pour le compte de plusieurs établissements du département, par concours interne sur épreuves ouvert et organisé par l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits ;
 
-b) Pour le compte d'un établissement du département, par concours interne sur épreuves ouvert et organisé, après accord du préfet, par l'autorité investie du pouvoir de nomination de cet établissement.
+b) Pour le compte d'un établissement du département, par concours interne sur épreuves ouvert et organisé      par l'autorité investie du pouvoir de nomination de cet établissement.
 
 Peuvent être admis à concourir les fonctionnaires titulaires du corps des agents de maîtrise, du corps des conducteurs ambulanciers, du corps des personnels ouvriers et du corps des dessinateurs régi par le décret n° 91-868 du 5 septembre 1991 portant statut particulier des personnels techniques de la fonction publique hospitalière et remplissant les conditions de grade et d'ancienneté suivantes :
 
-- les agents de maîtrise principaux, les maîtres ouvriers principaux, les conducteurs ambulanciers hors catégorie et les dessinateurs principaux doivent justifier d'un an d'ancienneté au moins dans le grade ;
+-les agents de maîtrise principaux, les maîtres ouvriers principaux, les conducteurs ambulanciers hors catégorie et les dessinateurs principaux doivent justifier d'un an d'ancienneté au moins dans le grade ;
 
-- les agents de maîtrise, les maîtres ouvriers, les conducteurs ambulanciers de 1re catégorie et les dessinateurs chefs de groupe doivent justifier de trois ans d'ancienneté au moins dans leur grade respectif ;
+-les agents de maîtrise, les maîtres ouvriers, les conducteurs ambulanciers de 1re catégorie et les dessinateurs chefs de groupe doivent justifier de trois ans d'ancienneté au moins dans leur grade respectif ;
 
 Les concours prévus aux 1° et 2° ci-dessus sont ouverts dans l'un ou plusieurs des domaines énumérés à l'article 2.
 

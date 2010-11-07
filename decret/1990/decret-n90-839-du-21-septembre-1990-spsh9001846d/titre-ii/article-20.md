@@ -4,7 +4,7 @@ Les secrétaires médicaux de classe normale sont recrutés :
 
 1° a) Pour le compte de plusieurs établissements du département, par concours externe sur épreuves ouvert et organisé par l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits ;
 
-b) Pour le compte d'un établissement du département, par concours externe sur épreuves ouvert et organisé, après accord du représentant de l'Etat dans le département, par l'autorité investie du pouvoir de nomination de cet établissement.
+b) Pour le compte d'un établissement du département, par concours externe sur épreuves ouvert et organisé par l'autorité investie du pouvoir de nomination de cet établissement.
 
 Peuvent être candidats :
 
@@ -14,7 +14,7 @@ b) les titulaires d'un titre ou diplôme classé au moins au niveau IV ou d'une 
 
 2° a) Pour le compte de plusieurs établissements du département, par concours interne sur épreuves ouvert et organisé par l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits ;
 
-b) Pour le compte d'un établissement du département, par concours interne sur épreuves ouvert et organisé, après accord du représentant de l'Etat dans le département, par l'autorité investie du pouvoir de nomination de cet établissement.
+b) Pour le compte d'un établissement du département, par concours interne sur épreuves ouvert et organisé par l'autorité investie du pouvoir de nomination de cet établissement.
 
 Peuvent être candidats les fonctionnaires et agents des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, de l'Etat, des collectivités territoriales et de leurs établissements publics à caractère administratif. Ils doivent être en fonctions et justifier de trois années au moins de services publics.
 
