@@ -5,4 +5,5 @@
 - [Article 3](article-3.md)
 - [Annexe 1 : Règles de la CAM](annexe-1)
 - [Annexe 2 : Services de la CAM](annexe-2)
+- [Annexe 3 : Procédures pour les organismes rendant les services de la CAM](annexe-3)
 - [Article Préambule](article-preambule.md)
