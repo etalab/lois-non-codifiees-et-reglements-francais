@@ -1,10 +1,10 @@
 # Article Annexe I
 
-**MÉTHODE DE CALCUL DE L'AIDE
+MÉTHODE DE CALCUL DE L'AIDE
 
-AU FONDS OPÉRATIONNEL**
+AU FONDS OPÉRATIONNEL
 
-L'ordre des calculs est précisé dans les deux tableaux joints (un pour les programmes opérationnels [PO] partiels et un pour les PO classiques ).
+L'ordre des calculs est précisé dans les deux tableaux joints (un pour les programmes opérationnels [PO] partiels et un pour les PO "classiques").
 
 Dans les calculs détaillés ci-après, chaque montant est calculé à partir du montant calculé dans l'étape précédente.
 
@@ -44,7 +44,7 @@ E = minimum entre (D et montant éligible).
 
 Il s'agit d'un plafonnement au niveau d'un type de mesure.
 
-Pour les fonds passés sous le nouveau règlement, le montant plafonné mesure (E) de chaque mesure doit subir un plafonnement en fonction du pourcentage plafond de chaque mesure (défini dans la stratégie nationale).
+Pour les fonds passés sous le nouveau règlement, le montant "plafonné mesure" (E) de chaque mesure doit subir un plafonnement en fonction du pourcentage plafond de chaque mesure (défini dans la stratégie nationale).
 
 Si X = pourcentage plafond par mesure (la mesure ne doit pas dépasser X % du FO).
 
@@ -54,15 +54,15 @@ Pour les PO partiels, ce plafonnement n'est pas effectué.
 
 5. Plafonnement par rapport au fonds éligible (G)
 
-Le total des dépenses calculées après le plafonnement équilibre du PO (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le montant plafonné fonds = montant recevable (qui sera utilisé pour le calcul des sanctions, conformément à l'article 119 du règlement [CE] n° 1580/2007).
+Le total des dépenses calculées après le plafonnement "équilibre du PO" (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le "montant plafonné fonds" = "montant recevable" (qui sera utilisé pour le calcul des sanctions, conformément à l'article 119 du règlement [CE] n° 1580/2007).
 
 G = minimum entre (somme des mesures plafonnées équilibre du PO = F et dernier fonds éligible).
 
 6. Plafonnement gestion de crises (33,33%) (H)
 
-La dernière année du PO, un plafonnement est effectué si le cumul du montant recevable (après plafonnement fonds = G) de toutes les mesures de type PGC de toutes les années du PO (depuis son année de passage sous le nouveau règlement ou depuis l'année de début de PO si elle est postérieure ou égale à 2009) est supérieur à 33,33 % du montant recevable du fonds (pour les mêmes années).
+La dernière année du PO, un plafonnement est effectué si le cumul du "montant recevable" (après plafonnement fonds = G) de toutes les mesures de type PGC de toutes les années du PO (depuis son année de passage sous le nouveau règlement ou depuis l'année de début de PO si elle est postérieure ou égale à 2009) est supérieur à 33,33 % du "montant recevable" du fonds (pour les mêmes années).
 
-Il consiste à diminuer le montant recevable (G) de l'ensemble des mesures de type PGC de l'année, au prorata de leur montant recevable , afin que le cumul du montant recevable de toutes les mesures de type PGC de toutes les années du PO soit égal à 33,33 % du montant recevable du fonds (pour les mêmes années). Lors de cette diminution, le montant d'une mesure PGC peut devenir négatif.
+Il consiste à diminuer le "montant recevable" (G) de l'ensemble des mesures de type PGC de l'année, au prorata de leur montant recevable , afin que le cumul du "montant recevable" de toutes les mesures de type PGC de toutes les années du PO soit égal à 33,33 % du "montant recevable" du fonds (pour les mêmes années). Lors de cette diminution, le montant d'une mesure PGC peut devenir négatif.
 
 Exemple : si les mesures de PGC représentent 40 % du montant recevable (= G) sur la durée du PO (PO sur 3 ans) :
 
@@ -76,7 +76,7 @@ Soit Gn = montant recevable de l'année n,
 
 Soit Gn - 1 = montant recevable de l'année n - 1,
 
-Soit Gn - 2 = montant recevable de l'année n - 1,
+Soit Gn - 2 = montant recevable de l'année n - 2,
 
 Soit Xn' = mesures de PGC après plafonnement crise pour l'année n,
 
@@ -102,9 +102,9 @@ Pour les PO partiels, ce plafonnement n'est pas effectué.
 
 (= montant imputé) (I)
 
-Pour les fonds passés sous le nouveau règlement, il faut appliquer un seuil après le plafonnement gestion de crise (H) si le fonds ne contient pas au moins deux mesures en faveur de l'environnement avec des dépenses non nulles. Pour mémoire, les mesures environnementales (ie les MAE au titre du règlement [CE] n° 1685/2000 mises en œuvre par plus de 80 % des producteurs de l'organisation de producteurs) peuvent être comptabilisées.
+Pour les fonds passés sous le nouveau règlement, il faut appliquer un seuil après le "plafonnement gestion de crise" (H) si le fonds ne contient pas au moins deux mesures en faveur de l'environnement avec des dépenses non nulles. Pour mémoire, les mesures environnementales (ie les MAE au titre du règlement [CE] n° 1685/2000 mises en œuvre par plus de 80 % des producteurs de l'organisation de producteurs) peuvent être comptabilisées.
 
-Ce seuil est appliqué si le cumul du montant après plafonnement crise (H) de toutes les mesures environnementales est inférieur à 10 % du montant total après plafonnement crise (H) du fonds. Il consiste à diminuer le montant après plafonnement crise (H) de l'ensemble des mesures qui ne sont pas environnementales, au prorata de leur montant après plafonnement crise (H), afin que le cumul du montant après plafonnement crise de toutes les mesures environnementales soit égal à 10 % du montant après plafonnement crise du fonds.
+Ce seuil est appliqué si le cumul du montant après "plafonnement crise" (H) de toutes les mesures environnementales est inférieur à 10 % du montant total après "plafonnement crise" (H) du fonds. Il consiste à diminuer le montant après "plafonnement crise" (H) de l'ensemble des mesures qui ne sont pas environnementales, au prorata de leur montant après "plafonnement crise" (H), afin que le cumul du montant après "plafonnement crise" de toutes les mesures environnementales soit égal à 10 % du montant après "plafonnement crise" du fonds.
 
 Exemple : s'il n'y a qu'une seule mesure environnementale qui ne représente que 5 % de H (montant plafonné gestion de crise) :
 
@@ -156,7 +156,7 @@ Pour les fonds restant sous l'ancienne réglementation, le montant de l'aide est
 
 Pour tous les fonds (ancien et nouveau règlement), le calcul des sanctions est unique.
 
-Un montant d'aide recevable est calculé à partir du montant plafonné fonds (G) auquel est appliqué le pourcentage d'aide (déterminé par le type d'action) par action.
+Un montant d'aide recevable est calculé à partir du montant "plafonné fonds" (G) auquel est appliqué le pourcentage d'aide (déterminé par le type d'action) par action.
 
 Soit X = montant d'aide recevable.
 
@@ -682,6 +682,7 @@ Dépenses
 
 Aide
 
+<div align="center">
 <table>
 <tbody>
 <tr>
@@ -804,3 +805,4 @@ Aide
 </tr>
 </tbody>
 </table>
+</div>

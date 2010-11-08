@@ -16,7 +16,7 @@ Celle-ci est établie selon les modalités suivantes. Le montant du forfait, cal
 
 Lorsqu'un forfait existe, son utilisation reste facultative. Par ailleurs, l'organisation de producteurs peut retenir un montant forfaitaire inférieur au montant du forfait agréé.
 
-Les obligations prévues par le forfait agréé doivent être entièrement remplies et les organisations de producteurs doivent pouvoir justifier de la mise en œuvre effective de tous les engagements prévus par le forfait conformément aux dispositions prévues pour chacun des forfaits agréés. Pour ce faire, l'organisation de producteurs, outre la production des justificatifs prévus par le forfait agréé, devra mettre en place un dispositif de contrôle interne matérialisé par des rapports détaillés de visite des exploitations. La méthode de contrôle interne devra être conforme à la méthode détaillée en annexe IX.
+Les obligations prévues par le forfait agréé doivent être entièrement remplies et les organisations de producteurs doivent pouvoir justifier de la mise en œuvre effective de tous les engagements prévus par le forfait conformément aux dispositions prévues pour chacun des forfaits agréés. Pour ce faire, l'organisation de producteurs, outre la production des justificatifs prévus par la stratégie nationale, met en place un dispositif de contrôle interne conforme à la méthode détaillée en annexe IX.
 
 Le dispositif de contrôle interne de l'organisation de producteurs pourra faire l'objet de contrôles par l'administration. En cas de défaillance du contrôle interne, une remise en cause de l'aide pourra intervenir.
 
@@ -50,6 +50,6 @@ Seuls des montants forfaitaires se rapportant à une ou plusieurs des actions pr
 
 ― le taux forfaitaire relatif à la gestion environnementale des emballages de commercialisation sera porté à 9,3 % au moment du paiement de leurs fonds opérationnels 2009 et suivants ;
 
-― le taux forfaitaire relatif à l'agréage de second niveau au stade « production » et en station est maintenu conformément à son agrément dans le programme opérationnel ;
+― le taux forfaitaire relatif à l'agréage de second niveau au stade  production  et en station est maintenu conformément à son agrément dans le programme opérationnel ;
 
 ― le taux forfaitaire relatif à l'utilisation de plants, semences et mycéliums certifiés est maintenu conformément à son agrément dans le programme opérationnel.
