@@ -201,6 +201,7 @@
 - [Décret n°2010-125 du 8 février 2010 (SASS0926272D)](decret-n2010-125-du-8-fevrier-2010-sass0926272d)
 - [Décret n°2010-126 du 8 février 2010 (AGRS0929259D)](decret-n2010-126-du-8-fevrier-2010-agrs0929259d)
 - [Décret n°2010-128 du 8 février 2010 (AGRP0906718D)](decret-n2010-128-du-8-fevrier-2010-agrp0906718d)
+- [Décret n°2010-1329 du 8 novembre 2010 (AGRG1025638D)](decret-n2010-1329-du-8-novembre-2010-agrg1025638d)
 - [Décret n°2010-30 du 8 janvier 2010 (SASH0917616D)](decret-n2010-30-du-8-janvier-2010-sash0917616d)
 - [Décret n°2010-360 du 8 avril 2010 (PRMX1008942D)](decret-n2010-360-du-8-avril-2010-prmx1008942d)
 - [Décret n°2010-361 du 8 avril 2010 (SASH0927544D)](decret-n2010-361-du-8-avril-2010-sash0927544d)
