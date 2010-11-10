@@ -19,7 +19,6 @@
 - [Décret n°2009-243 du 2 mars 2009 (ECEM0827415D)](decret-n2009-243-du-2-mars-2009-ecem0827415d)
 - [Décret n°2009-244 du 2 mars 2009 (ECEM0831569D)](decret-n2009-244-du-2-mars-2009-ecem0831569d)
 - [Décret n°2009-245 du 2 mars 2009 (ECEM0831571D)](decret-n2009-245-du-2-mars-2009-ecem0831571d)
-- [Décret n°2009-247 du 2 mars 2009 (AGRP0804927D)](decret-n2009-247-du-2-mars-2009-agrp0804927d)
 - [Décret n°2009-367 du 2 avril 2009 (PRMX0907771D)](decret-n2009-367-du-2-avril-2009-prmx0907771d)
 - [Décret n°2009-378 du 2 avril 2009 (MTSA0903196D)](decret-n2009-378-du-2-avril-2009-mtsa0903196d)
 - [Décret n°2009-379 du 2 avril 2009 (BCFS0902374D)](decret-n2009-379-du-2-avril-2009-bcfs0902374d)
