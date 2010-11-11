@@ -1,0 +1,5 @@
+# Article 16
+
+Un réparateur dont le système d'assurance de la qualité n'est pas approuvé conformément à l'article 18 du décret du 3 mai 2001 susvisé peut remettre un instrument en service après s'être assuré qu'il satisfait aux exigences réglementaires et avoir apposé sa marque sur les scellements ainsi que la vignette provisoire définie à l'article 51 de l'arrêté du 31 décembre 2001 susvisé. Conformément à l'article 40 du décret du 3 mai 2001 susvisé, même dans ce cas, la remise en service par le réparateur doit être précédée de la réalisation des examens et essais prévus pour la vérification primitive. L'instrument peut être utilisé pendant quinze jours. Pour être maintenu en service au-delà de ce délai, l'instrument doit avoir fait l'objet de la vérification primitive après réparation par un organisme désigné à cet effet.
+
+Sur demande expresse de l'autorité locale en charge de la métrologie légale, les réparateurs doivent lui communiquer toutes informations relatives à certaines réparations.
