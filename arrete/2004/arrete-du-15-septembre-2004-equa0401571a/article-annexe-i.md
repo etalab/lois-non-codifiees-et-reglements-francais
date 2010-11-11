@@ -188,7 +188,7 @@ Paris-Bogota.
 
 Comores
 
-Paris-Moroni (jusqu'au 31 décembre 2012)
+Paris-Moroni (jusqu'au 31 décembre 2012).
 
 Congo
 
@@ -486,6 +486,10 @@ Paris-Puerto Vallarta.
 
 Paris - Villahermosa.
 
+Moldavie
+
+Paris - Chisinau. (jusqu'au 31 décembre 2012).
+
 Mozambique
 
 Paris-Maputo.
@@ -671,6 +675,10 @@ Vietnam
 Paris-Hanoi.
 
 Paris-Hô Chi Minh-Ville.
+
+Yémen
+
+Paris - Sanaa. (jusqu'au 31 décembre 2012).
 
 Zambie
 
