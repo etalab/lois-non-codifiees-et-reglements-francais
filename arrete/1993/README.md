@@ -324,7 +324,6 @@
 - [Arrêté du 12 novembre 1993 (ECOC9300164A)](arrete-du-12-novembre-1993-ecoc9300164a)
 - [Arrêté du 12 novembre 1993 (EQUP9301642A)](arrete-du-12-novembre-1993-equp9301642a)
 - [Arrêté du 12 octobre 1993 (BUDR9307007A)](arrete-du-12-octobre-1993-budr9307007a)
-- [Arrêté du 12 octobre 1993 (INDB9300857A)](arrete-du-12-octobre-1993-indb9300857a)
 - [Arrêté du 12 mai 1993 (ENVN9320237A)](arrete-du-12-mai-1993-envn9320237a)
 - [Arrêté du 12 mai 1993 (SPSG9301318A)](arrete-du-12-mai-1993-spsg9301318a)
 - [Arrêté du 13 août 1993 (DEFE9301882A)](arrete-du-13-aout-1993-defe9301882a)
