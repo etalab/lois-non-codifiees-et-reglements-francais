@@ -187,7 +187,6 @@
 - [Arrêté du 6 avril 2007 (SOCO0751718A)](arrete-du-6-avril-2007-soco0751718a)
 - [Arrêté du 6 avril 2007 (SOCU0751182A)](arrete-du-6-avril-2007-socu0751182a)
 - [Arrêté du 6 avril 2007 (SOCU0751203A)](arrete-du-6-avril-2007-socu0751203a)
-- [Arrêté du 6 décembre 2007 (AGRS0771880A)](arrete-du-6-decembre-2007-agrs0771880a)
 - [Arrêté du 6 décembre 2007 (IOCD0769513A)](arrete-du-6-decembre-2007-iocd0769513a)
 - [Arrêté du 6 décembre 2007 (SJSG0768265A)](arrete-du-6-decembre-2007-sjsg0768265a)
 - [Arrêté du 6 décembre 2007 (SJSG0768266A)](arrete-du-6-decembre-2007-sjsg0768266a)
