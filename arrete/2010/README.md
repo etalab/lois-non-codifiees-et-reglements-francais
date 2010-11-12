@@ -1658,7 +1658,6 @@
 - [Arrêté du 20 janvier 2010 (ECES1001751A)](arrete-du-20-janvier-2010-eces1001751a)
 - [Arrêté du 20 janvier 2010 (ESRH0929067A)](arrete-du-20-janvier-2010-esrh0929067a)
 - [Arrêté du 20 janvier 2010 (JUSA0919166A)](arrete-du-20-janvier-2010-jusa0919166a)
-- [Arrêté du 20 janvier 2010 (JUSF0910843A)](arrete-du-20-janvier-2010-jusf0910843a)
 - [Arrêté du 20 janvier 2010 (SASH1001934A)](arrete-du-20-janvier-2010-sash1001934a)
 - [Arrêté du 20 janvier 2010 (SASH1001944A)](arrete-du-20-janvier-2010-sash1001944a)
 - [Arrêté du 20 janvier 2010 (SASH1001958A)](arrete-du-20-janvier-2010-sash1001958a)
