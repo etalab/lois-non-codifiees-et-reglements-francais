@@ -12,7 +12,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau du dialogue social à la direction des ressources humaines de la direction générale de l'armement ;
 
-- chef du bureau des personnels fonctionnaires et ouvriers à la direction des ressources humaines de la direction générale de l'armement ;
+- chef du bureau de la gestion du personnel fonctionnaire et ouvrier à la direction des ressources humaines de la direction générale de l'armement ;
 
 - directeur local de l'action sociale de la région terre Ile-de-France ;
 
