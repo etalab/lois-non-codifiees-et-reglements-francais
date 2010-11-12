@@ -34,8 +34,6 @@ Marseille-Alger.
 
 Paris-Alger.
 
-Paris-Oran.
-
 Angola
 
 Paris-Luanda.
@@ -142,41 +140,27 @@ Paris-Douala.
 
 Paris-Yaoundé.
 
-Canada
+Canada (jusqu'au 31 décembre 2012)
 
-Paris-Montréal.
+Paris - Calgary ;
 
-Paris-Toronto.
+Paris - Edmonton ;
 
-Paris-Calgary.
+Paris - Halifax ;
 
-Paris-Vancouver.
+Paris - Montréal ;
 
-Paris - Charlottetown.
+Paris - Ottawa ;
 
-Paris - Edmonton.
+Paris - Québec ;
 
-Paris - Fredericton.
+Paris - Toronto ;
 
-Paris - Halifax.
+Paris - Vancouver ;
 
-Paris - London.
+Paris - Winnipeg,
 
-Paris - Ottawa.
-
-Paris - Québec.
-
-Paris - Regina.
-
-Paris - Saint-Jean-de-Terre-Neuve.
-
-Paris - Saskatoon.
-
-Paris - Thunder Bay.
-
-Paris - Victoria.
-
-Paris - Winnipeg.
+ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire du Canada situé au-delà d'un des points du territoire canadien mentionnés ci-dessus ou d'un des points du territoire des Etats-Unis d'Amérique mentionnés au 2.1 de la présente annexe.
 
 Chili
 
@@ -306,7 +290,7 @@ Paris-Tampa (Floride).
 
 Paris-Washington (Washington DC),
 
-ainsi que toute liaison exploitée en partage de code avec une compagnie américaine entre un point de territoire français et un point du territoire des Etats-Unis d'Amérique situé au-delà d'un des points de ce territoire mentionnés ci-dessus.
+ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire des Etats-Unis d'Amérique situé au-delà d'un des points du territoire des Etats-Unis d'Amérique mentionnés ci-dessus ou d'un des points du territoire du Canada mentionnés au 2.1 de la présente annexe.
 
 Gabon
 
