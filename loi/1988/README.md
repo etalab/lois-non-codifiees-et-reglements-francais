@@ -18,4 +18,3 @@
 - [Loi n° 88-50 du 18 janvier 1988 (AGRX8700004L)](loi-n-88-50-du-18-janvier-1988-agrx8700004l)
 - [Loi n° 88-82 du 22 janvier 1988 (DOMX8700150L)](loi-n-88-82-du-22-janvier-1988-domx8700150l)
 - [Loi n° 88-828 du 20 juillet 1988 (JUSX8800077L)](loi-n-88-828-du-20-juillet-1988-jusx8800077l)
-- [Loi n°88-23 du 7 janvier 1988 (JUSX8700196L)](loi-n88-23-du-7-janvier-1988-jusx8700196l)
