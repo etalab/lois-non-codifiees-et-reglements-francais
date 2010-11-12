@@ -9,3 +9,5 @@ La commission comprend également, de droit, pour chacun des corps, le chef d'é
 En cas de partage égal des voix, celle du président est prépondérante.
 
 La commission présente au ministre de la défense ses propositions d'inscription aux tableaux d'avancement et ses propositions de recrutement au titre du 3° de l'article 4.
+
+La commission est également consultée sur les propositions d'accès à un échelon exceptionnel de grade lorsque cet accès a pour conséquence d'interdire à son bénéficiaire toute promotion ultérieure.
