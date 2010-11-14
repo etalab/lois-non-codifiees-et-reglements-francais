@@ -128,7 +128,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Président de l'Etablissement public du musée et du domaine national de Versailles </p>
+<p>Président de l'Etablissement public du château, du musée et du domaine national de Versailles </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -138,11 +138,11 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Directeur général de l'Etablissement public du musée et du domaine national de Versailles </p>
+<p>Directeur général de l'Etablissement public du château, du musée et du domaine national de Versailles </p>
 </td>
 <td valign="top" width="113">
 <br/>
-<p align="center">HEB-HED</p>
+<p align="center">HEB-HED </p>
 </td>
 <td valign="top" width="279"/>
 </tr>
@@ -175,7 +175,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>Secrétaire général de l'Etablissement public du musée et du domaine national de Versailles </p>
+<p>Secrétaire général de l'Etablissement public du château, du musée et du domaine national de Versailles </p>
 </td>
 <td valign="top" width="113">
 <br/>

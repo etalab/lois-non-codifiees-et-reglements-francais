@@ -38,7 +38,7 @@ Etablissement public du musée du Louvre ;
 
 Etablissement public du musée du quai Branly ;
 
-Etablissement public du musée et du domaine national de Versailles ;
+Etablissement public du château, du musée et du domaine national de Versailles ;
 
 Etablissement public du château de Fontainebleau ;
 

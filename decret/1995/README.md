@@ -818,7 +818,6 @@
 - [Décret n°95-332 du 27 mars 1995 (SPSH9500440D)](decret-n95-332-du-27-mars-1995-spsh9500440d)
 - [Décret n°95-342 du 27 mars 1995 (BUDD9450007D)](decret-n95-342-du-27-mars-1995-budd9450007d)
 - [Décret n°95-343 du 27 mars 1995 (BUDF9410044D)](decret-n95-343-du-27-mars-1995-budf9410044d)
-- [Décret n°95-463 du 27 avril 1995 (MCCB9500173D)](decret-n95-463-du-27-avril-1995-mccb9500173d)
 - [Décret n°95-467 du 27 avril 1995 (SPSP9501269D)](decret-n95-467-du-27-avril-1995-spsp9501269d)
 - [Décret n°95-468 du 27 avril 1995 (SPSS9500754D)](decret-n95-468-du-27-avril-1995-spss9500754d)
 - [Décret n°95-474 du 27 avril 1995 (INTD9500109D)](decret-n95-474-du-27-avril-1995-intd9500109d)

@@ -1164,7 +1164,7 @@ Les organisations syndicales déclarées aptes à désigner des représentants a
 
 </div>
 
-26°         Opérateur du patrimoine et des projets immobiliers de la culture :
+26° Opérateur du patrimoine et des projets immobiliers de la culture :
 
 <div align="center">
 
@@ -1390,7 +1390,7 @@ Les organisations syndicales déclarées aptes à désigner des représentants a
 
 </div>
 
-31° Etablissement public du musée et du domaine national de Versailles :
+31°         Etablissement public du château, du musée et du domaine national de Versailles :
 
 <div align="center">
 

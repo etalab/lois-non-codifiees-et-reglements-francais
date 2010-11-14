@@ -1182,7 +1182,7 @@ Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immig
 </td>
 <td align="center">2 <br/>
 </td>
-<td align="center">2<br/>
+<td align="center">2 <br/>
 </td>
 </tr>
 </tbody>
@@ -1390,7 +1390,7 @@ Etablissement public du musée Rodin
 </td>
 <td align="center">3 <br/>
 </td>
-<td align="center">3 <br/>
+<td align="center">3<br/>
 </td>
 </tr>
 </tbody>
@@ -1398,7 +1398,7 @@ Etablissement public du musée Rodin
 
 </div>
 
-Etablissement public du musée et du domaine national de Versailles
+Etablissement public du château, du musée et du domaine national de Versailles
 
 <div align="center">
 

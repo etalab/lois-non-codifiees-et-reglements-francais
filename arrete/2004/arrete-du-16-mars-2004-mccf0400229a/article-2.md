@@ -8,7 +8,7 @@ Elle comprend, y compris son président, quatorze membres :
 
 2° Le directeur du patrimoine et des collections de l'Etablissement public du château de Fontainebleau et les directeurs des musées de Compiègne, Malmaison et Pau ;
 
-3° Le directeur général de l'Etablissement public du musée et du domaine national de Versailles ou son représentant ;
+3° Le directeur général de l'Etablissement public du château, du musée et du domaine national de Versailles ou son représentant ;
 
 4° Un membre élu pour deux ans parmi les conservateurs en fonction au sein des musées nationaux pour lesquels la commission est compétente ;
 
