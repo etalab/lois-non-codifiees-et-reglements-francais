@@ -2464,6 +2464,7 @@
 - [Arrêté du 27 juillet 2010 (SASH1020408A)](arrete-du-27-juillet-2010-sash1020408a)
 - [Arrêté du 27 juillet 2010 (SASP1020205A)](arrete-du-27-juillet-2010-sasp1020205a)
 - [Arrêté du 27 novembre 2009 (DEVL0926627A)](arrete-du-27-novembre-2009-devl0926627a)
+- [Arrêté du 27 octobre 2004 (MCCB0400862A)](arrete-du-27-octobre-2004-mccb0400862a)
 - [Arrêté du 27 octobre 2010 (AGRT1025239A)](arrete-du-27-octobre-2010-agrt1025239a)
 - [Arrêté du 27 octobre 2010 (AGRT1027600A)](arrete-du-27-octobre-2010-agrt1027600a)
 - [Arrêté du 27 octobre 2010 (DEVT1025659A)](arrete-du-27-octobre-2010-devt1025659a)
