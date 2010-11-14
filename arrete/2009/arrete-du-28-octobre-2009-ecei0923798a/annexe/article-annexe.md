@@ -4,17 +4,17 @@ RÈGLEMENT D'EXAMEN DE L'ÉPREUVE D'APTITUDE MENTIONNÉ À L'ARTICLE 7
 
 I. ― Modalités de convocation
 
-Le demandeur ayant choisi l'épreuve pratique est convoqué par le président de la chambre de métiers et de l'artisanat au moins quinze jours avant la date des épreuves. Cette convocation précise la date, le lieu, l'horaire et la durée des épreuves et l'outillage et/ou le matériel dont le demandeur doit être muni.
+Le demandeur ayant choisi l'épreuve pratique est convoqué par le président de la       chambre de métiers et de l'artisanat de région  au moins quinze jours avant la date des épreuves. Cette convocation précise la date, le lieu, l'horaire et la durée des épreuves et l'outillage et/ ou le matériel dont le demandeur doit être muni.
 
 II. ― Organisation de l'épreuve
 
 a) Fréquence.
 
-Les épreuves sont organisées autant que de besoin dans le respect des délais réglementaires. Les épreuves sont mises en place par le président de la chambre de métiers et de l'artisanat.
+Les épreuves sont organisées autant que de besoin dans le respect des délais réglementaires. Les épreuves sont mises en place par le président de la       chambre de métiers et de l'artisanat de région .
 
 b) Définition de l'épreuve d'aptitude.
 
-L'épreuve d'aptitude porte sur les seules différences substantielles identifiées par la chambre à l'issue d'une comparaison entre la qualification attestée par le demandeur et le référentiel du titre de niveau V de la filière de formation de l'artisanat lorsqu'un tel titre existe pour l'activité considérée. A défaut, la chambre utilise le référentiel du certificat d'aptitude professionnel correspondant à l'activité considérée ou, en troisième lieu, le référentiel du titre professionnel de niveau V délivré par le ministère chargé de l'emploi.
+L'épreuve d'aptitude porte sur les seules différences substantielles identifiées par la chambre à l'issue d'une comparaison entre la qualification attestée par le demandeur et le référentiel du titre de niveau V de la filière de formation de l'artisanat lorsqu'un tel titre existe pour l'activité considérée.A défaut, la chambre utilise le référentiel du certificat d'aptitude professionnel correspondant à l'activité considérée ou, en troisième lieu, le référentiel du titre professionnel de niveau V délivré par le ministère chargé de l'emploi.
 
 L'épreuve d'aptitude est construite sur la base du référentiel de certification qui a été utilisé pour établir la différence substantielle.
 

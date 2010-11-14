@@ -42,7 +42,7 @@ II. ― La direction générale de la compétitivité, de l'industrie et des ser
 
 ― dans son champ de compétence, des comités professionnels et des centres techniques industriels ;
 
-2° Pour le compte du ministre chargé de l'artisanat, de l'Assemblée permanente des chambres de métiers ;
+2° Pour le compte du ministre chargé de l'artisanat, de l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
 3° Pour le compte du ministre chargé de l'économie, de l'Assemblée des chambres françaises de commerce et d'industrie ;
 

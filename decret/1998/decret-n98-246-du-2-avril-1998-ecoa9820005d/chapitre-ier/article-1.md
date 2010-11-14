@@ -4,4 +4,4 @@ Les personnes qui exercent l'une des activités mentionnées au I de l'article 1
 
 A défaut de diplômes ou de titres mentionnés au premier alinéa, ces personnes doivent justifier d'une expérience professionnelle de trois années effectives sur le territoire de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen acquise en qualité de dirigeant d'entreprise, de travailleur indépendant ou de salarié dans l'exercice de l'un des métiers prévus dans la liste susmentionnée.
 
-Les personnes mentionnées au deuxième alinéa peuvent obtenir la délivrance d'une attestation de qualification professionnelle par la chambre de métiers et de l'artisanat du département dans lequel elles exercent, selon les modalités prévues à l'article 3-1.
+Les personnes mentionnées au deuxième alinéa peuvent obtenir la délivrance d'une attestation de qualification professionnelle par la       chambre de métiers et de l'artisanat de région  du département dans lequel elles exercent, selon les modalités prévues à l'article 3-1.

@@ -1,6 +1,6 @@
 # Article 3-1
 
-I. - La demande d'attestation de qualification professionnelle mentionnée au IV de l'article 3 est adressée à la chambre de métiers et de l'artisanat du département où le ressortissant d'un Etat, membre ou partie, souhaite exercer.
+I.-La demande d'attestation de qualification professionnelle mentionnée au IV de l'article 3 est adressée à la       chambre de métiers et de l'artisanat de région  du département où le ressortissant d'un Etat, membre ou partie, souhaite exercer.
 
 La chambre délivre un récépissé qui mentionne la date de réception de la demande complète dans un délai d'un mois à compter de sa réception.
 
@@ -10,7 +10,7 @@ Un arrêté du ministre chargé de l'artisanat fixe la liste des informations af
 
 Un arrêté du ministre chargé de l'artisanat et du ministre de l'éducation nationale désigne l'organisme dont la chambre sollicite, le cas échéant, l'avis sur le niveau de formation du diplôme, titre ou certificat étranger produit par un demandeur ainsi que les modalités de cette consultation.
 
-II. - En l'absence de notification de la décision de la chambre dans un délai de quatre mois à compter de la réception de la demande complète, la reconnaissance de la qualification professionnelle est réputée acquise au demandeur.
+II.-En l'absence de notification de la décision de la chambre dans un délai de quatre mois à compter de la réception de la demande complète, la reconnaissance de la qualification professionnelle est réputée acquise au demandeur.
 
 Lorsqu'elle reconnaît la qualification professionnelle, la chambre délivre au demandeur une attestation de qualification professionnelle.
 
@@ -18,7 +18,7 @@ Lorsqu'une mesure de compensation est exigée, la chambre en informe par écrit 
 
 Les décisions de la chambre sont motivées.
 
-III. - En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
+III.-En cas de doute sérieux, la chambre peut demander à l'autorité compétente d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen de confirmer l'authenticité des attestations et titres de formation délivrés dans cet autre Etat.
 
 En cas de doute sérieux, la chambre peut vérifier auprès de l'autorité compétente de l'Etat, membre ou partie, qui a délivré un titre de formation comprenant une formation reçue en tout ou en partie dans un établissement légalement établi sur le territoire d'un troisième Etat, membre ou partie :
 

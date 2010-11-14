@@ -14,7 +14,7 @@ II.-Sans préjudice du I, le ressortissant d'un Etat membre de la Communauté eu
 
 III.-Sous réserve des dispositions du IV, est également professionnellement qualifié le ressortissant d'un Etat, membre ou partie, titulaire d'un diplôme, titre ou certificat acquis dans un Etat tiers et admis en équivalence par un Etat, membre ou partie, et qui a, en outre, effectivement exercé pendant trois années l'activité considérée dans l'Etat qui a admis l'équivalence.
 
-IV.-Le ressortissant d'un Etat, membre ou partie, peut solliciter de la chambre de métiers et de l'artisanat compétente la délivrance d'une attestation de qualification professionnelle à exercer le contrôle effectif et permanent de l'une des activités mentionnées au I de l'article 16 de la loi du 5 juillet 1996 susvisée. Cette attestation est délivrée au professionnel ressortissant d'un Etat, membre ou partie, qui satisfait aux conditions prévues au I, ou au II, ou au III.
+IV.-Le ressortissant d'un Etat, membre ou partie, peut solliciter de la       chambre de métiers et de l'artisanat de région  compétente la délivrance d'une attestation de qualification professionnelle à exercer le contrôle effectif et permanent de l'une des activités mentionnées au I de l'article 16 de la loi du 5 juillet 1996 susvisée. Cette attestation est délivrée au professionnel ressortissant d'un Etat, membre ou partie, qui satisfait aux conditions prévues au I, ou au II, ou au III.
 
 Il peut être demandé au ressortissant d'un Etat, membre ou partie, qui ne remplit pas les conditions prévues au I ou au II d'accomplir une mesure de compensation lorsque :
 

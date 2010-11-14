@@ -4,7 +4,7 @@ Les ouvriers professionnels soumis aux dispositions du présent titre sont recru
 
 Deux concours sont organisés pour le recrutement des ouvriers professionnels de chaque catégorie :
 
-A - Les premiers concours sont ouverts :
+A-Les premiers concours sont ouverts :
 
 a) Pour le recrutement d'ouvriers professionnels de troisième catégorie :
 
@@ -20,7 +20,7 @@ Aux ouvriers professionnels de 2e catégorie justifiant de deux années de prati
 
 Aux ouvriers professionnels de 3e catégorie justifiant de six années de pratique professionnelle en cette qualité.
 
-B - Les seconds concours sont ouverts :
+B-Les seconds concours sont ouverts :
 
 a) Pour le recrutement d'ouvriers professionnels de 3e catégorie :
 
@@ -48,6 +48,6 @@ Les emplois offerts dans ces limites qui n'auraient pu être pourvus peuvent êt
 
 Les concours ont lieu dans les centres désignés par décision du recteur de l'académie.
 
-L'appréciation des épreuves de chaque concours est assurée par un jury de cinq membres comprenant notamment un membre de l'enseignement technique ou d'une chambre de métiers et de l'artisanat et un ouvrier professionnel titulaire d'un emploi de la spécialité des postulants.
+L'appréciation des épreuves de chaque concours est assurée par un jury de cinq membres comprenant notamment un membre de l'enseignement technique ou d'une       chambre de métiers et de l'artisanat de région  et un ouvrier professionnel titulaire d'un emploi de la spécialité des postulants.
 
 Le nombre des candidats inscrits sur la liste d'admission prévue au cinquième alinéa de l'article 6 du décret du 23 septembre 1975 ne peut excéder de plus de 50 % le nombre des places mises aux concours.

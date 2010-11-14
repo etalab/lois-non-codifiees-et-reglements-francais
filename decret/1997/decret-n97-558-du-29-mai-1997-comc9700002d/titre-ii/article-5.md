@@ -14,4 +14,4 @@ Cette période est portée à quatre années consécutives lorsque ce certificat
 
 c) Soit pendant trois années consécutives à titre indépendant lorsque l'intéressé a exercé l'activité en question à titre salarié pendant cinq ans au moins ;
 
-3 Dans les cas visés aux a et c, cette activité ne doit pas avoir pris fin depuis plus de dix années au moment où l'intéressé sollicite de la chambre de métiers et de l'artisanat compétente la délivrance d'une attestation de qualification professionnelle.
+3 Dans les cas visés aux a et c, cette activité ne doit pas avoir pris fin depuis plus de dix années au moment où l'intéressé sollicite de la       chambre de métiers et de l'artisanat de région  compétente la délivrance d'une attestation de qualification professionnelle.

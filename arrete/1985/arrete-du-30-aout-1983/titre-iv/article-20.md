@@ -1,3 +1,3 @@
 # Article 20
 
-Le président de la chambre de métiers et de l'artisanat recherche s'il existe des personnes qui, immatriculées ou non au répertoire des métiers ou au registre, n'ont pas adressé les demandes ou déclarations auxquelles elles sont tenues. Il les invite à s'acquitter de leurs obligations sous quinzaine. En cas d'abstention prolongée à l'issue de ce délai il en informe le   préfet.
+Le président de la       chambre de métiers et de l'artisanat de région  recherche s'il existe des personnes qui, immatriculées ou non au répertoire des métiers ou au registre, n'ont pas adressé les demandes ou déclarations auxquelles elles sont tenues. Il les invite à s'acquitter de leurs obligations sous quinzaine. En cas d'abstention prolongée à l'issue de ce délai il en informe le préfet.

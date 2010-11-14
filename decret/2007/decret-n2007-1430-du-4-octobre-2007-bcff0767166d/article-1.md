@@ -36,7 +36,7 @@ Entrent dans le champ d'application de l'exonération fiscale prévue au 5° du 
 
 15. Les rémunérations versées au titre des heures supplémentaires aux personnels des chambres de commerce et d'industrie, des groupements interconsulaires et de l'assemblée des chambres françaises de commerce et d'industrie ;
 
-16. Les rémunérations versées aux personnels des chambres de métiers et de l'artisanat, des chambres régionales de métiers et de l'artisanat et de l'assemblée permanente des chambres de métiers au-delà de la durée de travail effectif fixée par leur statut ;
+16. Les rémunérations versées aux personnels des       chambres de métiers et de l'artisanat de région, des chambres régionales de métiers et de l'artisanat et de l'assemblée permanente des       chambres de métiers et de l'artisanat de région au-delà de la durée de travail effectif fixée par leur statut ;
 
 17. Les indemnités versées aux personnels enseignants et personnels d'éducation et de surveillance des instituts nationaux de jeunes sourds et de jeunes aveugles en application de l'article 4 du décret du 9 novembre 1973 susvisé ;
 

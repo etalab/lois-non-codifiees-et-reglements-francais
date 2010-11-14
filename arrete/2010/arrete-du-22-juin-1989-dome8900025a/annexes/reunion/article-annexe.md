@@ -18,7 +18,7 @@ Syndicat des fabricants de sucre.
 
 Syndicat des petites et moyennes entreprises de la Réunion (Sypmer).
 
-Chambre de métiers et de l'artisanat.
+Chambre de métiers et de l'artisanat de région.
 
 Union professionnelle des artisans (Upar).
 

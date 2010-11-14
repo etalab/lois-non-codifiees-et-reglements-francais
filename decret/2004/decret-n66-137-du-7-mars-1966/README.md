@@ -1,12 +1,15 @@
 # Décret n°66-137 du 7 mars 1966 relatif à l'assemblée permanente des chambres de métiers et de l'artisanat
 
 - [Article 1](article-1.md)
+- [Chapitre Ier : Les missions](chapitre-ier)
 - [Article 2](article-2.md)
+- [Chapitre II : L'organisation et le fonctionnement](chapitre-ii)
 - [Article 3](article-3.md)
+- [Chapitre III : Les marchés et accords-cadres](chapitre-iii)
 - [Article 4](article-4.md)
-- [Article 4-1](article-4-1.md)
+- [Chapitre IV : Le régime financier](chapitre-iv)
 - [Article 5](article-5.md)
-- [Article 5-1](article-5-1.md)
+- [Chapitre V : Dispositions diverses](chapitre-v)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)

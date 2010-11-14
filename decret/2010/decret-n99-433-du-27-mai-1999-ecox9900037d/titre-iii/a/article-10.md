@@ -1,6 +1,6 @@
 # Article 10
 
-La liste électorale est établie par la chambre de métiers et de l'artisanat le dernier jour du sixième mois précédant celui de la date de clôture du scrutin. Lorsque cette date est un samedi, un dimanche, un jour férié ou chômé, la liste électorale est arrêtée le jour ouvrable précédent. Le président de la chambre de métiers et de l'artisanat transmet au préfet un exemplaire signé de la liste électorale, ainsi que le compte rendu constatant l'accomplissement des opérations de révision de cette liste, dans les cinq jours au plus tard qui suivent l'établissement de celle-ci.
+La liste électorale est établie par la       chambre de métiers et de l'artisanat de région  le dernier jour du sixième mois précédant celui de la date de clôture du scrutin. Lorsque cette date est un samedi, un dimanche, un jour férié ou chômé, la liste électorale est arrêtée le jour ouvrable précédent. Le président de la       chambre de métiers et de l'artisanat de région  transmet au préfet un exemplaire signé de la liste électorale, ainsi que le compte rendu constatant l'accomplissement des opérations de révision de cette liste, dans les cinq jours au plus tard qui suivent l'établissement de celle-ci.
 
 Si le préfet estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans les deux jours suivant la réception de la liste, déférer cette dernière au tribunal administratif, qui statue dans les trois jours et fixe éventuellement le délai dans lequel il devra être procédé à de nouvelles opérations.
 

@@ -62,7 +62,7 @@ Deux représentants des chambres de commerce et d'industrie ;
 
 Un représentant des chambres d'agriculture ;
 
-Un représentant des chambres de métiers et de l'artisanat ;
+Un représentant des       chambres de métiers et de l'artisanat de région ;
 
 Huit représentants d'associations d'usagers des transports.
 

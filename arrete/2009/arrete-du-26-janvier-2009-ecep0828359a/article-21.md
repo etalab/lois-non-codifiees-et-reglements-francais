@@ -4,7 +4,7 @@ La sous-direction des chambres consulaires comprend :
 
 1° Le bureau de la tutelle des chambres de métiers et de l'artisanat :
 
-Il définit les orientations de la tutelle de l'Etat sur les chambres de métiers et de l'artisanat ainsi que les principes de leur organisation administrative et financière. Il élabore les textes fixant leur organisation et leur fonctionnement. Il exerce la tutelle de l'Assemblée permanente des chambres de métiers et assure le secrétariat de la commission paritaire nationale du personnel administratif des chambres de métiers et de l'artisanat.
+Il définit les orientations de la tutelle de l'Etat sur les chambres de métiers et de l'artisanat ainsi que les principes de leur organisation administrative et financière. Il élabore les textes fixant leur organisation et leur fonctionnement. Il exerce la tutelle de l'Assemblée permanente des chambres de métiers et de l'artisanat et assure le secrétariat de la commission paritaire nationale du personnel administratif des chambres de métiers et de l'artisanat.
 
 Il assure le suivi, l'orientation et le développement des actions menées par le réseau des chambres de métiers et de l'artisanat dans l'ensemble des domaines relevant de leurs missions. Il exerce la tutelle de l'Institut supérieur des métiers.
 

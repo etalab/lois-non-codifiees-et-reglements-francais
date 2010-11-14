@@ -16,7 +16,7 @@ a) Un représentant de l'Institut national de la statistique et des études éco
 
 b) Un représentant du garde des sceaux, ministre de la justice ;
 
-c) Un représentant de la    direction générale des patrimoines ;
+c) Un représentant de la direction générale des patrimoines ;
 
 d) Un représentant du service producteur intéressé, désigné par le ministre dont relève ce service ;
 
@@ -42,7 +42,7 @@ IV.-Outre les personnes mentionnées au II, la seconde section du comité du sec
 
 2° Les représentants du Mouvement des entreprises de France, de la Confédération générale des petites et moyennes entreprises et du patronat réel, de l'Union professionnelle artisanale et de la Fédération nationale des syndicats d'exploitants agricoles mentionnés au 4° du même article ;
 
-3° Les représentants de l'Assemblée des chambres françaises de commerce et d'industrie et de l'Assemblée permanente des chambres de métiers mentionnés au 5° du même article ;
+3° Les représentants de l'Assemblée des chambres françaises de commerce et d'industrie et de l'Assemblée permanente des chambres de métiers et de l'artisanat mentionnés au 5° du même article ;
 
 4° L'un des membres mentionnés au 6° du même article, choisi par et parmi eux.
 

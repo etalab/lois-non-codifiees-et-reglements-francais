@@ -8,7 +8,7 @@ La formation compétente pour les enquêtes statistiques et les projets d'exploi
 
 3. Un représentant de l'Assemblée des chambres françaises de commerce et d'industrie ;
 
-4. Un représentant de l'Assemblée permanente des chambres de métiers ;
+4. Un représentant de l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
 5. Un représentant des organisations syndicales mentionnées au 3° de l'article 5 du décret du 20 mars 2009 susvisé choisi par celles-ci ;
 

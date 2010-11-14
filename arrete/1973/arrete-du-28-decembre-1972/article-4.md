@@ -14,7 +14,7 @@ Un nombre égal de représentants est désigné pour chacune des trois catégori
 
 Des conseillers de l'enseignement technologique désignés par le ministre de l'éducation nationale ;
 
-Un représentant des chambres de commerce et d'industrie, un représentant des chambres de métiers et de l'artisanat et, en fonction de la compétence de la commission, un représentant des chambres d'agriculture ;
+Un représentant des chambres de commerce et d'industrie, un représentant des       chambres de métiers et de l'artisanat de région et, en fonction de la compétence de la commission, un représentant des chambres d'agriculture ;
 
 Un représentant de chaque organisation syndicale nationale représentative de personnel de l'enseignement technologique proposé par celle-ci ;
 

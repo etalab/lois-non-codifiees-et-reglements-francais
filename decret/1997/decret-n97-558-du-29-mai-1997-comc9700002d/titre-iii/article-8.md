@@ -8,4 +8,4 @@ b) Et qu'il a exercé l'activité concernée dans l'un de ces Etats pendant troi
 
 L'autorité compétente de l'Etat, membre ou partie, délivre une attestation de compétences au ressortissant d'un Etat tiers qui remplit ces conditions.
 
-Le ressortissant d'un Etat tiers peut obtenir de la chambre de métiers et de l'artisanat compétente la délivrance d'une attestation de qualification professionnelle selon les modalités prévues à l'article 7.
+Le ressortissant d'un Etat tiers peut obtenir de la       chambre de métiers et de l'artisanat de région  compétente la délivrance d'une attestation de qualification professionnelle selon les modalités prévues à l'article 7.

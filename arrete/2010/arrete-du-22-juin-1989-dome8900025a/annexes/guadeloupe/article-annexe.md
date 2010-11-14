@@ -2,7 +2,7 @@
 
 Chambre de commerce et d'industrie de Basse-Terre et de Pointe-à-Pitre.
 
-Chambre de métiers et de l'artisanat.
+Chambre de métiers et de l'artisanat et de région.
 
 Chambre d'agriculture.
 

@@ -10,7 +10,7 @@ Le bureau du Conseil national de l'information statistique, présidé par le pr�
 
 4° Les représentants du Mouvement des entreprises de France, de la Confédération générale des petites et moyennes entreprises et du patronat réel et de la Fédération nationale des syndicats d'exploitants agricoles mentionnés au 4° du même article ainsi que l'un ou l'autre des représentants de la Fédération bancaire française et de la Fédération française des sociétés d'assurances mentionnés au même 4°, désigné par accord entre ces fédérations ou à défaut par décision du ministre chargé de l'économie ;
 
-5° Les représentants de l'Assemblée des chambres françaises de commerce et d'industrie et de l'Assemblée permanente des chambres de métiers mentionnés au 5° du même article ;
+5° Les représentants de l'Assemblée des chambres françaises de commerce et d'industrie et de l'Assemblée permanente des chambres de métiers et de l'artisanat mentionnés au 5° du même article ;
 
 6° L'un des membres mentionnés au 6° du même article, choisi par et parmi eux ;
 

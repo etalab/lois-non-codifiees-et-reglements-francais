@@ -1,6 +1,6 @@
 # Article 10
 
-Le conseil stratégique du commerce de proximité émet des avis et des recommandations relatifs aux politiques publiques de soutien en faveur du commerce de proximité. Il peut être consulté par le ministre chargé du commerce sur toute mesure propre à soutenir et à promouvoir la création, la transmission et le développement des entreprises de proximité. Il prend appui sur les informations qui lui sont fournies par les services de l'Etat, par les chambres de commerce et d'industrie, par les chambres de métiers et de l'artisanat et par les professionnels des secteurs concernés.
+Le conseil stratégique du commerce de proximité émet des avis et des recommandations relatifs aux politiques publiques de soutien en faveur du commerce de proximité. Il peut être consulté par le ministre chargé du commerce sur toute mesure propre à soutenir et à promouvoir la création, la transmission et le développement des entreprises de proximité. Il prend appui sur les informations qui lui sont fournies par les services de l'Etat, par les chambres de commerce et d'industrie, par les       chambres de métiers et de l'artisanat de région et par les professionnels des secteurs concernés.
 
 Le conseil stratégique est composé comme il suit :
 

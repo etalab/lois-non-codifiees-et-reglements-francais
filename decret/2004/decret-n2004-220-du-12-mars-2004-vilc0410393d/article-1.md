@@ -34,10 +34,10 @@ Ce comité comprend :
 
 9° Le président de chacune des chambres de commerce et d'industrie territorialement compétentes ou son suppléant désigné par lui parmi les membres de cette chambre ;
 
-10° Le président de chacune des chambres de métiers et de l'artisanat territorialement compétentes ou son suppléant désigné par lui parmi les membres de cette chambre ;
+10° Le président de chacune des       chambres de métiers et de l'artisanat de région territorialement compétentes ou son suppléant désigné par lui parmi les membres de cette chambre ;
 
 11° Un représentant désigné par chacune des organisations syndicales de salariés représentatives au plan national ;
 
 12° Un représentant désigné par chacune des organisations d'employeurs représentatives au plan national.
 
-Le préfet peut associer aux travaux du comité, sans voix délibérative, toute personne dont la participation est jugée utile, notamment des représentants des organismes de recouvrement des cotisations de sécurité sociale et de l'     institution mentionnée à l'article L. 5312-1 du code du travail .
+Le préfet peut associer aux travaux du comité, sans voix délibérative, toute personne dont la participation est jugée utile, notamment des représentants des organismes de recouvrement des cotisations de sécurité sociale et de l'institution mentionnée à l'article L. 5312-1 du code du travail.

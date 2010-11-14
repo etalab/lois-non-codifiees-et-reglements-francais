@@ -73,7 +73,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">ASSEMBLÉE PERMANENTE DES CHAMBRES DE MÉTIERS (APCM).<br/>
+<td align="center">ASSEMBLÉE PERMANENTE DES CHAMBRES DE MÉTIERS ET DE L'ARTISANAT (APCM).<br/>
 </td>
 </tr>
 <tr>

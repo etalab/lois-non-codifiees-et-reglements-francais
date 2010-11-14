@@ -2,7 +2,7 @@
 
 PIECES A FOURNIR LORS DU DEPÔT DU DOSSIER DE DEMANDE DE SUBVENTION
 
-A. - Cas des demandes émanant d'une commune ou d'un groupement de communes pour l'acquisition amiable de terrains et constructions :
+A.-Cas des demandes émanant d'une commune ou d'un groupement de communes pour l'acquisition amiable de terrains et constructions :
 
 1° La demande de subvention datée et signée du représentant de la collectivité ;
 
@@ -22,9 +22,9 @@ A. - Cas des demandes émanant d'une commune ou d'un groupement de communes pour
 
 Si le bien relève d'une entreprise industrielle, agricole, commerciale ou artisanale, le dossier comprend en outre :
 
-9° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre de métiers et de l'artisanat indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
+9° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la       chambre de métiers et de l'artisanat de région  indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
 
-B. - Cas des demandes émanant du propriétaire, de l'exploitant ou du gestionnaire de terrains et constructions pour la réalisation de mesures de prévention imposées par un plan de prévention des risques naturels prévisibles approuvé :
+B.-Cas des demandes émanant du propriétaire, de l'exploitant ou du gestionnaire de terrains et constructions pour la réalisation de mesures de prévention imposées par un plan de prévention des risques naturels prévisibles approuvé :
 
 1° La demande de subvention datée et signée du propriétaire, de l'exploitant ou du gestionnaire ou de son mandataire indiquant sa qualité à agir ;
 
@@ -38,13 +38,13 @@ B. - Cas des demandes émanant du propriétaire, de l'exploitant ou du gestionna
 
 Si un mandataire pour le dépôt du dossier est désigné :
 
-6° Si le mandataire est un professionnel régi par la loi du 2 janvier 1970, dite loi "Hoguet", une photocopie du mandat de gestion "type loi Hoguet", accompagnée d'une photocopie de la carte professionnelle "gestion immobilière" ;
+6° Si le mandataire est un professionnel régi par la loi du 2 janvier 1970, dite loi " Hoguet ", une photocopie du mandat de gestion " type loi Hoguet ", accompagnée d'une photocopie de la carte professionnelle " gestion immobilière " ;
 
 7° Si le mandataire désigné n'est pas un professionnel défini comme ci-dessus, une procuration sous seing privé, dûment signée des deux parties, autorisant un mandataire nommément désigné à prendre tous les engagements, à déposer le dossier et à recevoir, pour le compte du propriétaire, de l'exploitant ou du gestionnaire, tout courrier envoyé par lui.
 
 Si le bien relève d'une entreprise industrielle, agricole, commerciale ou artisanale, le dossier comprend en outre :
 
-8° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la chambre de métiers et de l'artisanat indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
+8° Une attestation de la chambre d'agriculture, de la chambre de commerce et d'industrie ou de la       chambre de métiers et de l'artisanat de région  indiquant la nature de l'activité exercée, le régime juridique de l'entreprise et le nombre de salariés employés par l'entreprise à la date du sinistre.
 
 Si les travaux sont exécutés par un exploitant ou un gestionnaire locataire du bien :
 

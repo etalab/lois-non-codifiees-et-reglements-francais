@@ -20,7 +20,7 @@ c) A l'INSEE et aux services statistiques ministériels mentionnés à l'article
 
 d) Aux chambres de commerce et d'industrie pour l'établissement du rapport préalable aux élections consulaires.
 
-4 bis. La liste des assujettis à la taxe pour frais de chambres de métiers et de l'artisanat est communiquée, au titre de l'année en cours, aux chambres de métiers et de l'artisanat qui le demandent, afin de leur permettre de procéder à des rapprochements avec le répertoire des métiers, d'identifier les différences entre ces fichiers et ainsi d'aider à la suppression des différences injustifiées de la liste des assujettis.
+4 bis. La liste des assujettis à la taxe pour frais de       chambres de métiers et de l'artisanat de région est communiquée, au titre de l'année en cours, aux       chambres de métiers et de l'artisanat de région qui le demandent, afin de leur permettre de procéder à des rapprochements avec le répertoire des métiers, d'identifier les différences entre ces fichiers et ainsi d'aider à la suppression des différences injustifiées de la liste des assujettis.
 
 5. Les communes et la direction générale des impôts peuvent se communiquer mutuellement les informations nécessaires au recensement des bases d'imposition de la taxe professionnelle.
 

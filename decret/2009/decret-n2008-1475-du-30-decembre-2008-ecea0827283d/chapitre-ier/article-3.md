@@ -1,6 +1,6 @@
 # Article 3
 
-Les opérations collectives sont des opérations qui concernent un ensemble d'entreprises appartenant à un secteur géographique donné et sont réalisées par une collectivité territoriale, un groupement de collectivités territoriales, un de leurs établissements publics, une chambre de commerce et d'industrie, une chambre de métiers et de l'artisanat ou une société d'économie mixte à capitaux majoritairement publics, lesquels déterminent le périmètre de chaque opération.
+Les opérations collectives sont des opérations qui concernent un ensemble d'entreprises appartenant à un secteur géographique donné et sont réalisées par une collectivité territoriale, un groupement de collectivités territoriales, un de leurs établissements publics, une chambre de commerce et d'industrie, une       chambre de métiers et de l'artisanat de région  ou une société d'économie mixte à capitaux majoritairement publics, lesquels déterminent le périmètre de chaque opération.
 
 Les aides financières sont versées aux personnes morales de droit public visées au premier alinéa, selon des modalités d'attribution fixées par arrêté du ministre chargé du commerce.
 

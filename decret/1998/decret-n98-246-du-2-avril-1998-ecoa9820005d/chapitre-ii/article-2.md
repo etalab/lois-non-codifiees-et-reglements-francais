@@ -2,7 +2,7 @@
 
 I.-Un arrêté du ministre chargé de l'artisanat fixe la liste des informations afférentes à la déclaration prévue au II de l'article 17-1 de la loi du 5 juillet 1996 susvisée ainsi que des pièces qui sont annexées à cette déclaration.
 
-La déclaration est adressée à la chambre de métiers et de l'artisanat du département dans lequel le déclarant envisage de réaliser une prestation de services temporaire et occasionnelle. La chambre agit en tant qu'autorité compétente au sens de l'article 3 de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
+La déclaration est adressée à la       chambre de métiers et de l'artisanat de région  du département dans lequel le déclarant envisage de réaliser une prestation de services temporaire et occasionnelle. La chambre agit en tant qu'autorité compétente au sens de l'article 3 de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
 
 La chambre délivre un récépissé qui mentionne la date de réception de la déclaration complète.
 

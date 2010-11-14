@@ -1,8 +1,8 @@
 # Article 6-1
 
-I.-Lorsqu'un professionnel ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen entend s'établir en France métropolitaine ou dans les départements d'outre-mer en qualité de dirigeant d'une entreprise, la chambre de métiers et de l'artisanat du département dans lequel il souhaite s'établir peut lui demander de se soumettre à une épreuve d'aptitude ou à un stage d'adaptation lorsque l'examen de ses qualifications professionnelles fait apparaître que ce ressortissant n'a pas bénéficié d'une formation à la gestion ou que sa formation porte sur des matières substantiellement différentes de celles couvertes par le stage prévu à l'article 4.
+I.-Lorsqu'un professionnel ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen entend s'établir en France métropolitaine ou dans les départements d'outre-mer en qualité de dirigeant d'une entreprise, la       chambre de métiers et de l'artisanat de région  du département dans lequel il souhaite s'établir peut lui demander de se soumettre à une épreuve d'aptitude ou à un stage d'adaptation lorsque l'examen de ses qualifications professionnelles fait apparaître que ce ressortissant n'a pas bénéficié d'une formation à la gestion ou que sa formation porte sur des matières substantiellement différentes de celles couvertes par le stage prévu à l'article 4.
 
-Toutefois, la chambre de métiers et de l'artisanat compétente ne peut demander au professionnel de se soumettre à une épreuve d'aptitude ou à un stage d'adaptation :
+Toutefois, la       chambre de métiers et de l'artisanat de région  compétente ne peut demander au professionnel de se soumettre à une épreuve d'aptitude ou à un stage d'adaptation :
 
 a) Lorsqu'il a exercé, pendant au moins trois ans, une activité professionnelle requérant un niveau de connaissance au moins équivalent à celui du stage prévu à l'article 4 ; ou
 
@@ -18,7 +18,7 @@ Le demandeur informe la chambre de son choix de suivre un stage d'adaptation ou 
 
 Tout recours contentieux contre la décision de la chambre est précédé, à peine d'irrecevabilité, d'un recours administratif exercé, dans un délai de deux mois à compter de la notification de cette décision auprès du préfet du département où la chambre a son siège.
 
-III.-L'épreuve d'aptitude prend la forme d'un examen, devant un jury constitué auprès de la chambre, organisé selon des modalités définies par un règlement d'examen établi par l'Assemblée permanente des chambres de métiers, après avis des organisations professionnelles les plus représentatives et approuvé par arrêté du ministre chargé de l'artisanat.
+III.-L'épreuve d'aptitude prend la forme d'un examen, devant un jury constitué auprès de la chambre, organisé selon des modalités définies par un règlement d'examen établi par l'Assemblée permanente des chambres de métiers et de l'artisanat, après avis des organisations professionnelles les plus représentatives et approuvé par arrêté du ministre chargé de l'artisanat.
 
 L'épreuve d'aptitude est organisée dans un délai d'un mois à compter de la réception par la chambre de la décision du demandeur d'opter pour cette épreuve.
 

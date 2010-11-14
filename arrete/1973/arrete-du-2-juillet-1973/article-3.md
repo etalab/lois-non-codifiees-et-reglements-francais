@@ -8,6 +8,6 @@ Assistent également de droit aux commissions professionnelles consultatives :
 
 désigné par les organisations syndicales les plus représentatives des personnels concernés ;
 
-3. Un représentant des chambres de métiers et de l'artisanat ;
+3. Un représentant des       chambres de métiers et de l'artisanat de région ;
 
 4. Un représentant des chambres de commerce et d'industrie.

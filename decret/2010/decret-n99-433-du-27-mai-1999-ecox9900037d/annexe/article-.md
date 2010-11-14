@@ -9,10 +9,10 @@
 <br/>
 </th>
 <th>
-<br/>NOMBRE TOTAL DE MEMBRES<br/>de chambre de métiers et de l'artisanat<br/>siégeant à la chambre régionale de métiers et de l'artisanat<br/>
+<br/>NOMBRE TOTAL DE MEMBRES <br/>de       chambre de métiers et de l'artisanat de région  <br/>siégeant à la chambre régionale de métiers et de l'artisanat <br/>
 </th>
 <th>
-<br/>NOMBRE TOTAL DE MEMBRES<br/>à la chambre régionale de métiers<br/>et de l'artisanat</th>
+<br/>NOMBRE TOTAL DE MEMBRES <br/>à la chambre régionale de métiers <br/>et de l'artisanat</th>
 </tr>
 <tr>
 <td align="center">

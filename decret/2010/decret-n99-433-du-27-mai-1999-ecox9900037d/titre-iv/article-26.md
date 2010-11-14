@@ -8,8 +8,8 @@ La commission d'organisation des élections se réunit sur convocation de son pr
 
 3° D'organiser le dépouillement et le recensement des votes ;
 
-4° De proclamer la liste des candidats relevant de la circonscription de la chambre de métiers et de l'artisanat élus à la chambre régionale de métiers et de l'artisanat et la liste des candidats élus à la chambre de métiers et de l'artisanat ;
+4° De proclamer la liste des candidats relevant de la circonscription de la       chambre de métiers et de l'artisanat de région  élus à la chambre régionale de métiers et de l'artisanat et la liste des candidats élus à la       chambre de métiers et de l'artisanat de région  ;
 
 5° De statuer sur les demandes de remboursement des frais de propagande des candidats.
 
-Pour assurer ces opérations, le président de la commission peut solliciter le concours de la chambre de métiers et de l'artisanat ainsi que de la chambre régionale de métiers et de l'artisanat.
+Pour assurer ces opérations, le président de la commission peut solliciter le concours de la       chambre de métiers et de l'artisanat de région  ainsi que de la chambre régionale de métiers et de l'artisanat.

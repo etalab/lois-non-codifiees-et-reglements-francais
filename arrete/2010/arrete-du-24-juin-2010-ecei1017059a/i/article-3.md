@@ -4,13 +4,13 @@ Le matériel de vote et les documents de propagande sont composés des élément
 
 a) Une enveloppe électorale, de couleur bulle et présentant les caractéristiques suivantes :
 
-95 millimètres × 120 millimètres, 60 grammes au mètre carré ;
+95 millimètres × 120 millimètres,60 grammes au mètre carré ;
 
 b) Une enveloppe d'acheminement des votes préaffranchie portant :
 
 Au recto, en caractères de couleur noire, les indications suivantes :
 
-Elections aux chambres régionales de métiers et de l'artisanat et aux chambres de métiers et de l'artisanat.
+Elections aux chambres régionales de métiers et de l'artisanat et aux       chambres de métiers et de l'artisanat de région.
 
 Pli exclusivement réservé au vote par correspondance.
 
@@ -26,7 +26,7 @@ Valable valable jusqu'au 18 octobre 2010.
 
 Le cas échéant, une zone comportant un code-barres.
 
-Pour l'Alsace et la Moselle, la mention  Elections aux chambres régionales de métiers et de l'artisanat et aux chambres de métiers et de l'artisanat.  doit être remplacée par la mention  Elections à la chambre de métiers  pour l'élection à la chambre de métiers ou la mention  Elections à la commission des compagnons  pour l'élection à la commission des compagnons.
+Pour l'Alsace et la Moselle, la mention Elections aux chambres régionales de métiers et de l'artisanat et aux       chambres de métiers et de l'artisanat de région. doit être remplacée par la mention Elections à la chambre de métiers pour l'élection à la chambre de métiers ou la mention Elections à la commission des compagnons pour l'élection à la commission des compagnons.
 
 Au verso, en caractères de couleur noire, l'emplacement permettant à l'électeur d'inscrire ses nom de famille et prénoms, la catégorie d'activité à laquelle il appartient (sauf pour l'Alsace et la Moselle) et sa signature.
 
@@ -50,7 +50,7 @@ c) Les bulletins de vote, constituant les listes de candidats, précisent :
 
 Pour l'Alsace et la Moselle, concernant l'élection à la chambre de métiers, à la place de la catégorie d'activité, doit figurer la branche professionnelle à laquelle appartient le candidat, de même que son arrondissement. Pour l'élection à la commission des compagnons, les mêmes mentions doivent figurer sur les bulletins de vote à l'exclusion de la branche professionnelle et de l'arrondissement du candidat.
 
-Les bulletins de vote ne dépassent par le format 148 millimètres × 210 millimètres et sont réalisés sur papier blanc, 60 grammes au mètre carré. L'impression recto-verso des bulletins de vote est autorisée.
+Les bulletins de vote ne dépassent par le format 148 millimètres × 210 millimètres et sont réalisés sur papier blanc,60 grammes au mètre carré.L'impression recto-verso des bulletins de vote est autorisée.
 
 L'impression du bulletin de vote doit être effectuée dans une couleur unique, y compris pour les logos. Les nuances et dégradés de couleur sont autorisés.
 
@@ -62,7 +62,7 @@ Ne donnent lieu à remboursement que les bulletins de vote respectant, outre les
 
 ― les listes de candidats ne peuvent prétendre à remboursement que pour la reproduction d'un seul modèle de bulletin de vote.
 
-d) Les circulaires ne doivent comporter qu'un feuillet et ne dépassent pas le format 210 millimètres × 297 millimètres. Elles sont réalisées sur papier blanc, 60 grammes au mètre carré. L'impression recto-verso est autorisée.
+d) Les circulaires ne doivent comporter qu'un feuillet et ne dépassent pas le format 210 millimètres × 297 millimètres. Elles sont réalisées sur papier blanc,60 grammes au mètre carré.L'impression recto-verso est autorisée.
 
 Ne donnent lieu à remboursement que les circulaires respectant, outre les spécifications du présent arrêté, les conditions suivantes :
 
