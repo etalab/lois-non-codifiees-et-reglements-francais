@@ -1336,7 +1336,6 @@
 - [Arrêté du 16 septembre 2009 (SASS0921576A)](arrete-du-16-septembre-2009-sass0921576a)
 - [Arrêté du 17 août 2009 (AGRS0919366A)](arrete-du-17-aout-2009-agrs0919366a)
 - [Arrêté du 17 août 2009 (AGRS0919518A)](arrete-du-17-aout-2009-agrs0919518a)
-- [Arrêté du 17 août 2009 (DEFA0923860A)](arrete-du-17-aout-2009-defa0923860a)
 - [Arrêté du 17 août 2009 (DEFD0919477A)](arrete-du-17-aout-2009-defd0919477a)
 - [Arrêté du 17 août 2009 (DEFD0919490A)](arrete-du-17-aout-2009-defd0919490a)
 - [Arrêté du 17 août 2009 (DEVA0915101A)](arrete-du-17-aout-2009-deva0915101a)
