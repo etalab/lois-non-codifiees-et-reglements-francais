@@ -8,6 +8,4 @@ b) Les fonctionnaires en position hors cadres en poste à la SNCF ;
 
 c) Les titulaires de pensions et de prestations servies en application du règlement des retraites du personnel de la Société nationale des chemins de fer français ;
 
-d) Les personnes ayant conclu après le 30 juin 2008 avec la SNCF un contrat d'apprentissage prévu à l'article L. 6221-1 du code du travail ou un contrat de professionnalisation prévu à l'article L. 6325-1 du même code ;
-
-e) Au titre des prestations visées au 2° du III de l'article 1er, les ayants droit des personnes visées aux a à d ci-dessus.
+d) Les personnes ayant conclu après le 30 juin 2008 avec la SNCF un contrat d'apprentissage prévu à l'article L. 6221-1 du code du travail ou un contrat de professionnalisation prévu à l'article L. 6325-1 du même code.
