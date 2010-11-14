@@ -8,7 +8,7 @@ Le conseil d'administration détermine les grandes orientations de l'établissem
 
 3° L'état prévisionnel annuel des recettes et des dépenses, et les décisions modificatives. Il arrête le compte financier et décide de l'affectation des résultats ;
 
-4° Les programmes pluriannuels et annuels d'actions ou d'activités de l'établissement pour la réalisation de ses missions ainsi que la détermination des opérations d'aménagement à entreprendre et leur bilan financier ;
+4° Les programmes pluriannuels et annuels d'actions ou d'activités de l'établissement pour la réalisation de ses missions, les projets de délimitation et de programme d'action de la zone de protection prévue par l' article L. 141-5 du code de l'urbanisme ainsi que la détermination des opérations d'aménagement à entreprendre et leur bilan financier ;
 
 5° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ;
 
