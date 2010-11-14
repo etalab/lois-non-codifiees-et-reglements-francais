@@ -1,0 +1,5 @@
+# Article 18
+
+Le directeur du musée national des châteaux de Versailles et de Trianon est nommé par arrêté du ministre chargé de la culture, sur proposition du président, parmi les membres des corps des conservateurs généraux et des conservateurs du patrimoine qui satisfont aux conditions de nomination des chefs de grand département fixées par le décret du 30 décembre 1986 susvisé pour un mandat de cinq ans dans lequel il peut être reconduit par périodes de trois ans.
+
+Il dirige le grand département mentionné à l'article 3 et en prépare le projet scientifique et culturel. Il est responsable de la conservation, de la protection, de la restauration et de la présentation au public des collections inscrites sur les inventaires du musée et de ses annexes, ainsi que de l'étude scientifique de ces collections et de l'architecture des bâtiments et jardins mentionnés au deuxième alinéa de l'article 1er. Il concourt à l'élaboration du programme des expositions, des manifestations culturelles et des publications de l'établissement.
