@@ -611,7 +611,6 @@
 - [Décret n°2009-1129 du 17 septembre 2009 (ECEI0918878D)](decret-n2009-1129-du-17-septembre-2009-ecei0918878d)
 - [Décret n°2009-1130 du 17 septembre 2009 (IOCA0919160D)](decret-n2009-1130-du-17-septembre-2009-ioca0919160d)
 - [Décret n°2009-1131 du 17 septembre 2009 (ESRS0917024D)](decret-n2009-1131-du-17-septembre-2009-esrs0917024d)
-- [Décret n°2009-1399 du 17 novembre 2009 (ECEI0921252D)](decret-n2009-1399-du-17-novembre-2009-ecei0921252d)
 - [Décret n°2009-1405 du 17 novembre 2009 (PREX0923347D)](decret-n2009-1405-du-17-novembre-2009-prex0923347d)
 - [Décret n°2009-1406 du 17 novembre 2009 (PREX0923346D)](decret-n2009-1406-du-17-novembre-2009-prex0923346d)
 - [Décret n°2009-1409 du 17 novembre 2009 (ECET0916944D)](decret-n2009-1409-du-17-novembre-2009-ecet0916944d)

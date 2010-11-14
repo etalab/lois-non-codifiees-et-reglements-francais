@@ -439,7 +439,6 @@
 - [Décret n°2008-1190 du 15 novembre 2008 (SJSP0826039D)](decret-n2008-1190-du-15-novembre-2008-sjsp0826039d)
 - [Décret n°2008-1318 du 15 décembre 2008 (PRMX0830074D)](decret-n2008-1318-du-15-decembre-2008-prmx0830074d)
 - [Décret n°2008-1320 du 15 décembre 2008 (DEVP0822441D)](decret-n2008-1320-du-15-decembre-2008-devp0822441d)
-- [Décret n°2008-1323 du 15 décembre 2008 (ECEA0821355D)](decret-n2008-1323-du-15-decembre-2008-ecea0821355d)
 - [Décret n°2008-1324 du 15 décembre 2008 (JUSJ0811464D)](decret-n2008-1324-du-15-decembre-2008-jusj0811464d)
 - [Décret n°2008-1325 du 15 décembre 2008 (MTST0820229D)](decret-n2008-1325-du-15-decembre-2008-mtst0820229d)
 - [Décret n°2008-1326 du 15 décembre 2008 (SJSS0819822D)](decret-n2008-1326-du-15-decembre-2008-sjss0819822d)
