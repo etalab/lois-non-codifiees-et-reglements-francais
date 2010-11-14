@@ -1,77 +1,101 @@
 # Article 2
 
-<div>
-<br/>En application de l'article 1er du décret du 30 janvier 2004 susvisé, et pour les six premiers mois de l'année 2010, la dotation de continuité territoriale est répartie entre les collectivités concernées ainsi qu'il suit :<div align="center">
+En application de l'
+article 1er du décret du 30 janvier 2004 susvisé, et pour les dix premiers mois de l'année 2010, la dotation de continuité territoriale est répartie entre les collectivités concernées ainsi qu'il suit :
+
+<div align="center">
 
 <table>
+<tbody>
 <tr>
 <td align="center">
-<br/>Guadeloupe</td>
+<br clear="none"/>Guadeloupe <br clear="none"/>
+</td>
 <td align="center">
-<br/>3 286 182,25 €</td>
+<br clear="none"/>5 476 970 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Martinique</td>
+<br clear="none"/>Martinique <br clear="none"/>
+</td>
 <td align="center">
-<br/>2 664 204,77 €</td>
+<br clear="none"/>4 440 341 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Guyane</td>
+<br clear="none"/>Guyane <br clear="none"/>
+</td>
 <td align="center">
-<br/>961 660,48 €</td>
+<br clear="none"/>1 602 767 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Réunion</td>
+<br clear="none"/>Réunion <br clear="none"/>
+</td>
 <td align="center">
-<br/>4 344 128,57 €</td>
+<br clear="none"/>7 240 214 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Pierre-et-Miquelon</td>
+<br clear="none"/>Saint-Pierre-et-Miquelon <br clear="none"/>
+</td>
 <td align="center">
-<br/>69 425,44 €</td>
+<br clear="none"/>115 709 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mayotte</td>
+<br clear="none"/>Mayotte <br clear="none"/>
+</td>
 <td align="center">
-<br/>974 435,96 €</td>
+<br clear="none"/>1 624 060 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Polynésie française</td>
+<br clear="none"/>Polynésie française <br clear="none"/>
+</td>
 <td align="center">
-<br/>2 243 215,22 €</td>
+<br clear="none"/>3 738 692 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nouvelle-Calédonie</td>
+<br clear="none"/>Nouvelle-Calédonie <br clear="none"/>
+</td>
 <td align="center">
-<br/>2 054 336,44 €</td>
+<br clear="none"/>3 423 894 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Wallis-et-Futuna</td>
+<br clear="none"/>Wallis-et-Futuna <br clear="none"/>
+</td>
 <td align="center">
-<br/>148 032,78 €</td>
+<br clear="none"/>246 721 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Barthélemy</td>
+<br clear="none"/>Saint-Barthélemy <br clear="none"/>
+</td>
 <td align="center">
-<br/>62 748,55 €</td>
+<br clear="none"/>104 581 € <br clear="none"/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Martin</td>
+<br clear="none"/>Saint-Martin <br clear="none"/>
+</td>
 <td align="center">
-<br/>274 093,02 €</td>
+<br clear="none"/>456 822 €<br clear="none"/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
