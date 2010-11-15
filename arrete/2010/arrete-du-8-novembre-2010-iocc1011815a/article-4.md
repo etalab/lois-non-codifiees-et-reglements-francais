@@ -1,0 +1,5 @@
+# Article 4
+
+Peuvent accéder aux informations contenues dans les traitements et fichiers les fonctionnaires individuellement désignés et spécialement habilités par le directeur central de la police judiciaire ou, le cas échéant, par un fonctionnaire ayant reçu délégation à cet effet, affectés au service central des courses et jeux de la direction centrale de la police judiciaire ou, pour les besoins de leur mission de surveillance des établissements de jeux et des champs de courses, affectés dans les services territoriaux de la direction centrale de la police judiciaire.
+
+Les données mentionnées à l'article 3 peuvent être communiquées, en totalité ou en partie, aux services de la police et unités de la gendarmerie nationales, à raison de leurs attributions ou de leur droit à en connaître pour l'exercice de leurs missions. La communication est subordonnée à une demande écrite, formulée sous le timbre de leur autorité hiérarchique, qui précise l'identité du consultant, l'objet et les motifs de la consultation.

@@ -1,0 +1,3 @@
+# Article 1
+
+Le directeur général de la police nationale (direction centrale de la police judiciaire) est autorisé à mettre en œuvre des traitements automatisés et des fichiers de données à caractère personnel dénommés « fichier des courses et jeux » ayant pour finalité d'assurer la surveillance de la régularité et de la sincérité des jeux, des courses et des paris par la conservation des données recueillies notamment à l'occasion des enquêtes administratives d'agrément et d'autorisation de jeux ou relatives aux personnes faisant l'objet d'une mesure d'interdiction ou d'exclusion des salles de jeux ou des champs de courses.

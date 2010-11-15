@@ -1,0 +1,7 @@
+# Article 3
+
+I. ― La délégation générale est placée sous l'autorité d'un délégué général.
+
+II. ― Au titre des dispositions du 3° de l'article 2, le délégué général peut signer, au nom des ministres intéressés et par délégation, les décisions portant nomination dans les emplois relevant de l'encadrement supérieur des directions régionales.
+
+III. ― Le délégué général peut présider, en qualité de représentant des ministres chargés de l'économie, de l'industrie, de l'emploi et du travail, le comité technique paritaire spécial mentionné au 5° de l'article 2.
