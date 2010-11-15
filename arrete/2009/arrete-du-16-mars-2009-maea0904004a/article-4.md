@@ -8,7 +8,7 @@ La direction générale de l'administration et de la modernisation est composée
 
 ― la sous-direction des personnels ;
 
-― la sous-direction des personnels spécialisés et à gestion déconcentrée ;
+― la sous-direction des personnels    contractuels ;
 
 ― la sous-direction de la formation et des concours ;
 

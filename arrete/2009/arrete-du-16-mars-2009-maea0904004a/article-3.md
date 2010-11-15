@@ -18,7 +18,7 @@ La direction générale de la mondialisation, du développement et des partenari
 
 ― la sous-direction du climat et de l'énergie ;
 
-― la sous-direction de la gestion des ressources naturelles.
+― la sous-direction de l'environnement et des ressources naturelles.
 
 3° De la direction de la politique culturelle et du français, qui comprend :
 
@@ -41,5 +41,3 @@ La direction générale de la mondialisation, du développement et des partenari
 6° De la délégation pour l'action extérieure des collectivités territoriales.
 
 7° De la mission des relations avec la société civile.
-
-8° De la mission de pilotage de l'aide publique au développement et de tutelle de l'Agence française de développement.
