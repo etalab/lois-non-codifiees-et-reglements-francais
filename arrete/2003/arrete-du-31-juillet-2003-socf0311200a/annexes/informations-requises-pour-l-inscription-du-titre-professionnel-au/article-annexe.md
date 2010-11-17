@@ -1,158 +1,112 @@
 # Article ANNEXE
 
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+
 Intitulé :
 
-Titre professionnel : technicien(ne) de maintenance industrielle.
+Titre professionnel : technicien de maintenance industrielle.
 
 Niveau : IV.
 
-Code NSF : 201 r technologies de commandes des transformations industrielles.
+Code NSF : 201r.
 
 Résumé du référentiel d'emploi
 
-Le développement important de l'automatisation dans l'industrie, les exigences fortes d'un système concurrentiel en pleine expansion (amélioration de la qualité, de la productivité, réduction des stocks...) se sont traduits par une évolution technique, qui voit se développer des systèmes de production complexes intégrant de nombreuses technologies (mécanique, hydraulique, pneumatique, électrotechnique, électronique, automatisme, informatique...), chacune à un niveau élevé de technicité. Les causes des pannes peuvent être diverses et variées et concerner l'ensemble des technologies présentes sur l'équipement.
+Le technicien de maintenance industrielle participe aux opérations visant à maintenir ou à rétablir des équipements de production industrielle ou d'exploitation dans un état de référence ou en mesure d'assurer un service déterminé.
 
-Le technicien de maintenance industrielle a pour mission l'élaboration et la mise en oeuvre de solutions rapides, à défaut d'avoir pu contribuer à éviter leur apparition. Ses fonctions se répartissent selon trois grands objectifs : éviter l'apparition de pannes ou de dysfonctionnements (c'est la maintenance préventive), faire en sorte que l'équipement en panne redémarre aussi vite que possible (c'est la maintenance corrective), améliorer le rendement des équipements industriels par la maîtrise totale des performances en contribuant à leur modification et à l'amélioration des méthodes de maintenance (c'est la maintenance améliorative). Il participe également à l'installation et à la mise en route des équipements industriels.
+Le technicien réalise le diagnostic de défaillance et la remise en état des équipements (maintenance corrective). Il réalise les opérations de maintenance préventive et la préparation des documents correspondants. Enfin, il participe à l'amélioration des équipements et des méthodes de maintenance.
 
-Les conditions d'exercice de ce métier sont très différentes d'un poste à l'autre et d'une activité à une autre à l'intérieur d'un même poste. Ainsi, le technicien de maintenance industrielle peut être amené à passer en quelques minutes d'un travail de bureau (saisie de données sur GMAO [gestion de maintenance assistée par ordinateur], conception d'une modification, mise à jour de documentation technique...) à une intervention " en urgence " sur le terrain dans des conditions parfois difficiles :
+De manière ponctuelle, le technicien participe à l'accueil de nouveaux équipements et aux travaux neufs de l'entreprise.
 
-L'activité de dépannage et de réparation peut engendrer des contraintes physiques importantes (travail en hauteur, port de charges lourdes, travail en accessibilité réduite, bruit, travail à l'extérieur dans des conditions difficiles...).
+Il réalise ses interventions sous la direction d'un responsable technique (maintenance, production ou autres). En fonction de la taille de l'entreprise, il peut travailler seul ou au sein d'une équipe.
 
-Dans certains secteurs (chimie, pétrochimie, nucléaire...), la proximité du danger nécessite l'application stricte de procédures de sécurité contraignantes et le port d'équipements de protection individuelle parfois inconfortables.
+Le technicien de maintenance est autonome dans la préparation et l'organisation de ses interventions. Dans tous les cas, le technicien doit rendre compte de ses interventions.
 
-Chez les prestataires de service, le travail implique des déplacements d'un site à l'autre, parfois à l'étranger. En relation directe avec le client, il intervient souvent seul, quelquefois dans des conditions qui nécessitent de l'improvisation et du sens pratique.
+Les conditions d'exercice de ce métier sont très différentes d'un poste à l'autre et d'une activité à une autre à l'intérieur d'un même poste. Ainsi, le technicien de maintenance industrielle peut être amené à passer en quelques minutes d'un travail de bureau (saisie de données dans le système d'information, mise à jour de documentation technique,...) à une intervention en urgence sur le terrain dans des conditions parfois contraignantes.
 
-D'une façon générale, les métiers de la maintenance impliquent de la disponibilité ; l'emploi est donc souvent assorti d'astreintes, de travail de nuit et de week-end. Il faut en outre prévoir de fréquents dépassements d'horaire afin d'assurer la remise en production d'un équipement industriel indispensable. Ceci peut conduire aussi à des périodes de travail intenses et prolongées.
+-l'activité de dépannage et de réparation peut engendrer des contraintes physiques importantes (travail en hauteur, travail en accessibilité réduite, bruit, travail à l'extérieur,...) et implique le port d'équipements de protection individue1le adaptés ;
 
-Nonobstant, le technicien travaille dans le respect des lois, procédures et règlements en vigueur dans son environnement professionnel.
+-dans certains secteurs (chimie, pétrochimie, nucléaire,...) la proximité du danger nécessite l'application stricte de procédures de sécurité ;
 
-A noter qu'en cas de pannes critiques, le technicien de maintenance industrielle doit être capable de gérer des situations tendues avec les clients ou le personnel de fabrication. A souligner également l'implication de plus en plus importante des services de maintenance dans la démarche qualité et dans l'optimisation des méthodes et des outils.
+-chez les prestataires de service, le travail implique des déplacements d'un site à l'autre, parfois à l'étranger. Il peut intervenir seul en relation directe avec le client.
 
-Capacités attestées et descriptif
+D'une façon générale, les métiers de la maintenance impliquent de la disponibilité ; l'emploi est souvent assorti d'astreintes, de travail de nuit et de week-end. Il faut en outre prévoir de fréquents dépassements d'horaire afin d'assurer la remise en production d'un équipement industriel indispensable. Cela peut conduire aussi à des périodes de travail intenses et prolongées.A noter qu'en cas de pannes critiques, le technicien de maintenance industrielle doit être capable de gérer des situations tendues avec les clients ou le personnel de fabrication.A souligner également l'implication de plus en plus importante des services maintenance dans la démarche qualité et dans l'optimisation des méthodes et des outils.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Assurer la maintenance corrective
+1. Remettre en état de fonctionnement des machines comportant les technologies mécaniques, électriques, pneumatiques et hydrauliques
 
-d'équipements industriels
+Préparer une intervention de maintenance d'une machine pluritechnologique.
 
-Identifier l'élément défaillant sur un équipement industriel suite à la localisation de la partie en défaut.
+Manutentionner des charges manuellement et avec des dispositifs d'aide ou de traction manuelle.
 
-Rechercher, a posteriori, la cause première de la défaillance d'un équipement industriel.
+Remettre en état les circuits de distribution et de raccordement aux énergies et servitudes.
 
-Préparer et organiser une intervention de remise en état d'un équipement industriel.
+Remettre en état les parties électriques d'un équipement industriel par échange standard ou fonctionnellement équivalent.
 
-Réparer la partie mécanique d'un organe d'équipement industriel.
+Remplacer ou réparer par échange de pièces d'usures des mécanismes industriels.
 
-Remettre en état la partie électrique, pneumatique, hydraulique d'un équipement industriel par échange standard.
+Remettre en état les parties pneumatiques et hydrauliques d'un équipement industriel par échange standard ou fonctionnellement équivalent.
 
-Remplacer l'élément électrique ou hydraulique-pneumatique d'un équipement industriel défaillant par un élément fonctionnellement équivalent.
+Mettre à jour les dossiers machines et rendre compte de son intervention de maintenance.
 
-Procéder aux essais et remettre en service un équipement industriel après remise en état.
+2. Diagnostiquer des défaillances et remettre en service des équipements industriels comprenant automatismes ou asservissements
 
-Rendre compte, mettre à jour les documents de maintenance et informer les utilisateurs de l'équipement industriel suite à une intervention de maintenance corrective.
+Etablir un diagnostic selon les règles de l'art.
 
-2. Assurer la maintenance préventive de systèmes
+Déterminer et mettre en œuvre un mode de dépannage adapté à la technologie et aux contraintes de production.
 
-de production industrielle
+Mettre en service une installation automatisée en effectuant les réglages et paramétrages des éléments de pilotage du process.
 
-Préparer et organiser l'intervention de maintenance préventive d'équipements industriels.
+Réaliser un compte rendu détaillé de diagnostic à l'oral et à l'écrit.
 
-Procéder à des contrôles, des visites, des inspections, des tests, collecter des mesures sur un équipement industriel.
+3. Assurer la maintenance préventive d'installations
 
-Procéder à des échanges, des graissages suivant un échéancier sur des équipements industriels.
+industrielles et proposer des actions d'amélioration
 
-Traiter, analyser les résultats (mesures, contrôles) et définir les actions à mettre en oeuvre sur un système de production industrielle.
+Etablir, à partir de la documentation existante, les gammes de maintenance préventive et leurs modes opératoires.
 
-Définir, rédiger des procédures, des modes opératoires de contrôles, visites, inspections sur un système de production industrielle en intégrant la sécurité.
+Procéder à des opérations de maintenance préventive systématique, conditionnelle et prévisionnelle sur des installations industrielles.
 
-Renseigner les documents de la maintenance préventive d'équipements industriels.
+Classer et hiérarchiser les données d'historiques de maintenance en vue de leur analyse.
 
-3. Installer et procéder aux essais de nouveaux
+Définir et mettre en œuvre des actions d'améliorations continues sur une installation industrielle.
 
-équipements industriels
+Réaliser des modifications techniques sur une installation industrielle dans le respect des règles de sécurité.
 
-Préparer et organiser l'installation d'un équipement industriel.
+Elaborer des présentations en utilisant un support ou logiciel adapté.
 
-Assurer la distribution et les raccordements des énergies et servitudes d'un équipement industriel.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Câbler les composants électriques au sein d'un équipement industriel.
+L'emploi s'exerce dans tous les secteurs où l'on retrouve des installations électromécaniques automatisés.
 
-Raccorder les composants hydrauliques et/ou pneumatiques sur un équipement industriel.
+La fabrication de biens d'équipements, intermédiaires et de consommation.
 
-Manutentionner, en sécurité, avec des moyens adaptés des éléments ou sous-ensembles d'équipements industriels.
+L'industrie automobile.
 
-Assembler les parties mécaniques d'un équipement industriel.
+Les industries agricoles et alimentaires.
 
-Procéder aux essais d'un équipement industriel suite à son installation.
+La production et distribution d'électricité, de gaz et d'eau.
 
-Renseigner un compte rendu d'avancement des travaux d'installation d'équipements industriels.
+Le secteur de la logistique et des transports.
 
-4. Instruire et mettre en oeuvre des modifications
+Les entreprises de prestations de services industrielles.
 
-sur des équipements industriels
+L'administration.
 
-Participer à la définition de cahiers des charges de modification d'équipements industriels.
+Code ROME :
 
-Concevoir, rédiger le dossier technique de modification d'un équipement industriel (fonctions mécaniques-hydrauliques-pneumatiques ou électriques-automatisme).
-
-Réaliser les modifications d'un équipement industriel.
-
-Mettre en service les modifications d'équipements industriels.
-
-Former les utilisateurs suite à la modification d'un équipement industriel.
-
-Renseigner, mettre à jour la documentation technique, d'un équipement industriel après modification.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-L'industrie agroalimentaire.
-
-La construction automobile.
-
-La métallurgie - la sidérurgie.
-
-Les constructeurs d'équipements électriques et électroniques.
-
-Les constructeurs de machines spéciales et d'équipements industriels.
-
-La construction navale.
-
-Production et distribution d'énergie.
-
-Et, dans une moindre mesure :
-
-L'industrie chimique.
-
-L'industrie du caoutchouc et des plastiques.
-
-L'industrie du papier et du carton.
-
-L'industrie du textile et de l'habillement.
-
-Codes ROME :
-
-52312 : Installateur-maintenicien/installatrice-maintenicienne en systèmes automatisés ;
-
-44331 : Electricien/électricienne en maintenance ;
-
-44311 : Mécanicien/mécanicienne de maintenance.
+I1304-Installation et maintenance d'équipements industriels et d'exploitation.
 
 Réglementation de l'activité :
 
-Décret n° 88-1056 du 14 novembre 1988 relatif aux risques électriques.
-
-Prescriptions UTE C18-510 relatives à l'habilitation électrique.
+Habilitation pour les interventions sur les équipements présentant des risques électriques (cf. instructions UTE C18-510).
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
-
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
