@@ -1,6 +1,8 @@
 # Article 8
 
-Les premiers substituts à l'administration centrale du ministère de la justice sont choisis :
+Les premiers substituts à l'administration centrale du ministère de la justice sont nommés parmi les magistrats justifiant à la date de leur nomination d'au moins trois années de services effectifs dans les juridictions ou à la Cour de cassation.
+
+Ils sont choisis :
 
 a) Parmi les substituts à l'administration centrale du second grade inscrits au tableau d'avancement ;
 
