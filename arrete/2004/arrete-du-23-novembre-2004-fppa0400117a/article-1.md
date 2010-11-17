@@ -18,18 +18,10 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 </tr>
 <tr>
 <td>
-<p>Agents de catégorie C rémunérés en échelle 2</p>
-</td>
-<td>
-<p align="center">435</p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Agents de catégorie C rémunérés en échelle 3</p>
 </td>
 <td>
-<p align="center">450</p>
+<p align="center">542</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +29,7 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents de catégorie C rémunérés en échelle 4</p>
 </td>
 <td>
-<p align="center">470</p>
+<p align="center">583</p>
 </td>
 </tr>
 <tr>
@@ -45,24 +37,20 @@ Les montants de référence annuels de l'indemnité d'administration et de techn
 <p>Agents de catégorie C rémunérés en échelle 5</p>
 </td>
 <td>
-<p align="center">480</p>
+<p align="center">600</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Agents de catégorie C rémunérés en nouvelle échelle indiciaire</p>
+<p>Agents de catégorie C rémunérés en échelle 6</p>
 </td>
 <td>
-<p align="center">490</p>
+<p align="center">606</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents de catégorie C rémunérés en espace indiciaire spécifique</p>
-</td>
-<td>
-<p align="center">500</p>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td>

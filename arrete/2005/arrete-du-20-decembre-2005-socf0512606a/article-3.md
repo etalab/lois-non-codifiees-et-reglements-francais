@@ -6,7 +6,7 @@ I. - Le titre professionnel d'infographiste en enseigne et signalétique est com
 
 2. Réaliser des visuels d'enseigne et de signalétique pour l'impression numérique et la découpe vectorielle ;
 
-3. Gérer l'impression numérique et la découpe vectorielle et effectuer des travaux de pose pour des enseignes, de la signalétique et de la publicité.
+3. Gérer l'impression numérique et la découpe vectorielle des visuels d'enseigne, de signalétique et de publicité et effectuer les travaux de pose sur tout support (plan ou en volume).
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
 
@@ -43,7 +43,7 @@ II. - Les titulaires des certificats de compétences professionnelles obtenus an
 <p align="left">Réaliser et poser des visuels d'enseigne et de signalétique en utilisant des techniques mixtes d'application et de reproduction.</p>
 </td>
 <td align="center">
-<p align="left">Gérer l'impression numérique et la découpe vectorielle et effectuer des travaux de pose pour des enseignes, de la signalétique et de la publicité.</p>
+<p align="left">Gérer l'impression numérique et la découpe vectorielle des visuels d'enseigne, de signalétique et de publicité et effectuer les travaux de pose sur tout support (plan ou en volume).</p>
 </td>
 </tr>
 </tbody>
