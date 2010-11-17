@@ -388,7 +388,6 @@
 - [Arrêté du 22 juin 2001 (MAEA0120300A)](arrete-du-22-juin-2001-maea0120300a)
 - [Arrêté du 22 mars 2001 (ECOI0100144A)](arrete-du-22-mars-2001-ecoi0100144a)
 - [Arrêté du 22 mars 2001 (EQUA0100494A)](arrete-du-22-mars-2001-equa0100494a)
-- [Arrêté du 22 novembre 2000 (ATEN0090417A)](arrete-du-22-novembre-2000-aten0090417a)
 - [Arrêté du 22 novembre 2001 (JUSB0110505A)](arrete-du-22-novembre-2001-jusb0110505a)
 - [Arrêté du 22 novembre 2001 (MENF0102611A)](arrete-du-22-novembre-2001-menf0102611a)
 - [Arrêté du 22 octobre 2001 (MESP0123806A)](arrete-du-22-octobre-2001-mesp0123806a)

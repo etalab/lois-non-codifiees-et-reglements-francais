@@ -553,7 +553,6 @@
 - [Décret n° 2007-59 du 12 janvier 2007 (CPTX0709913D)](decret-n-2007-59-du-12-janvier-2007-cptx0709913d)
 - [Décret n° 2007-60 du 12 janvier 2007 (FPPA0600171D)](decret-n-2007-60-du-12-janvier-2007-fppa0600171d)
 - [Décret n°2007-1008 du 12 juin 2007 (PRMX0710459D)](decret-n2007-1008-du-12-juin-2007-prmx0710459d)
-- [Décret n°2007-1009 du 12 juin 2007 (DEVX0710460D)](decret-n2007-1009-du-12-juin-2007-devx0710460d)
 - [Décret n°2007-1337 du 12 septembre 2007 (PRMX0765513D)](decret-n2007-1337-du-12-septembre-2007-prmx0765513d)
 - [Décret n°2007-1342 du 12 septembre 2007 (AGRF0763233D)](decret-n2007-1342-du-12-septembre-2007-agrf0763233d)
 - [Décret n°2007-1344 du 12 septembre 2007 (IOCE0758219D)](decret-n2007-1344-du-12-septembre-2007-ioce0758219d)
@@ -1612,5 +1611,4 @@
 - [Décret n°2007-996 du 31 mai 2007 (ECEX0755106D)](decret-n2007-996-du-31-mai-2007-ecex0755106d)
 - [Décret n°2007-997 du 31 mai 2007 (IOCX0755107D)](decret-n2007-997-du-31-mai-2007-iocx0755107d)
 - [Décret n°2007-998 du 31 mai 2007 (IOCX0710420D)](decret-n2007-998-du-31-mai-2007-iocx0710420d)
-- [Décret n°2007-999 du 31 mai 2007 (IMIX0755108D)](decret-n2007-999-du-31-mai-2007-imix0755108d)
 - [Décret n°2008-102 du 1er février 2008 (DEFH0773375D)](decret-n2008-102-du-1er-fevrier-2008-defh0773375d)

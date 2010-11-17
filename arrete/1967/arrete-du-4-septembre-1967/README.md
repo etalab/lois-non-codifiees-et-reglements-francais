@@ -1,15 +1,6 @@
-# Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus *raffinerie*
+# Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus - Annexe.
 
-- [Article 56](article-56.md)
 - [Règles particulières de construction des moteurs Diesel des engins mobiles appelés à circuler temporairement en zones de type 1](regles-particulieres-de-construction-des-moteurs-diesel-des-engins-mobiles-appeles-a)
-- [Définitions](definitions)
 - [Règles particulières de construction et d'essai des moteurs Diesel de sûreté](regles-particulieres-de-construction-et)
-- [Introduction](introduction)
-- [Prévention de la pollution atmosphérique](prevention-de-la-pollution-atmospherique)
-- [Prévention de la pollution des eaux](prevention-de-la-pollution-des-eaux)
 - [Règles d'essai des moteurs Diesel de sûreté](regles-d-essai-des-moteurs-diesel-de-surete)
-- [Règles d'exploitation](regles-d-exploitation)
-- [Règles d'exploitation particulières](regles-d-exploitation-particulieres)
-- [Règles d'implantation](regles-d-implantation)
-- [Règles de construction](regles-de-construction)
 - [Règles de construction des moteurs Diesel de sûreté](regles-de-construction-des-moteurs-diesel-de-surete)

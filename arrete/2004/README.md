@@ -131,7 +131,6 @@
 - [Arrêté du 6 janvier 1993 (EQUT9201025A)](arrete-du-6-janvier-1993-equt9201025a)
 - [Arrêté du 6 janvier 2004 (DEVG0320378A)](arrete-du-6-janvier-2004-devg0320378a)
 - [Arrêté du 6 janvier 2004 (JUSA0400012A)](arrete-du-6-janvier-2004-jusa0400012a)
-- [Arrêté du 6 juillet 2004 (ECOL0400080A)](arrete-du-6-juillet-2004-ecol0400080a)
 - [Arrêté du 6 juillet 2004 (MENA0401983A)](arrete-du-6-juillet-2004-mena0401983a)
 - [Arrêté du 6 juillet 2004 (MENE0401468A)](arrete-du-6-juillet-2004-mene0401468a)
 - [Arrêté du 6 juillet 2004 (MENE0401472A)](arrete-du-6-juillet-2004-mene0401472a)
