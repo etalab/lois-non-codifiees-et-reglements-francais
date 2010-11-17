@@ -22,4 +22,6 @@ A l'exception des moteurs d'autorails, de locomotives et des bateaux de la navig
 
 Les exigences en termes de valeur limite d'émission des articles 3 (d) et 4 (d) du présent arrêté sont reportées de trois ans pour les engins énumérés à l'article 9 bis, point 7, de la directive 97/68/CE susvisée. Les exigences des articles 3 (c) et 4 (c) s'appliquent respectivement pendant cette période.
 
+Sans préjudice de l'alinéa précédent, une prorogation de la période de dérogation est accordée jusqu'au 31 juillet 2013, dans la catégorie des machines équipées d'une poignée à leur sommet, pour les taille-haies portatifs et les tronçonneuses portatives destinées à l'entretien des arbres disposant d'une poignée à leur sommet, à usage professionnel et fonctionnant en positions multiples, équipés de moteurs des classes SH:2 et SH:3.
+
 Indépendamment de la définition du moteur portatif figurant à l'article 2 de la directive 97/68/CE susvisée, les moteurs à deux temps qui équipent des souffleuses à neige doivent respecter uniquement les normes des moteurs de catégories SH1, SH2 ou SH3.
