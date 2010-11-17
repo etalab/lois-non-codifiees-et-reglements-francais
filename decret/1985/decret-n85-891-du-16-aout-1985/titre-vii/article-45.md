@@ -6,7 +6,9 @@ A. - Titres administratifs de transport.
 
 a) La copie conforme de la licence communautaire ou de la licence de transport intérieur mentionnées à l'article 11 ci-dessus ;
 
-b) Le cas échéant, si le véhicule n'excède pas neuf places, conducteur compris, l'autorisation permettant l'exécution d'un service occasionnel de transport public routier de personnes prévue à l'article 33 ci-dessus.
+b) Le cas échéant, si le véhicule n'excède pas neuf places, conducteur compris, l'autorisation permettant l'exécution d'un service occasionnel de transport public routier de personnes prévue à l'article 33 ci-dessus .
+
+c) Le cas échéant, la copie de l'autorisation de transport délivrée en application de l'article 31-6.
 
 B. - Documents de contrôle.
 
