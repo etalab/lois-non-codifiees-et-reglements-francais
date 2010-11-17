@@ -75,6 +75,41 @@ Décret n° 2006-1760 du 23 décembre 2006 modifié</td>
 </tbody>
 </table>
 
+Filière technico-administrative
+
+<table>
+<tbody>
+<tr>
+<th>CORPS ET GRADES<br/>
+</th>
+<th>
+<br/>TAUX APPLICABLES<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Corps des techniciens de physiothérapie relevant du ministre chargé de la santé <p>Décret n° 75-557 du 2 juillet 1975 modifié</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Technicien de physiothérapie de classe supérieure</p>
+</td>
+<td align="center">
+<p align="center">30 % en 2010, 15 % en 2011 et 2012</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Technicien de physiothérapie de classe exceptionnelle</p>
+</td>
+<td align="center">
+<p align="center">25 % en 2010, 7,5 % en 2011 et 2012</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 Filière technico-ouvrière
 
 <table>
@@ -221,8 +256,10 @@ Filière socio-éducative
 </th>
 </tr>
 <tr>
-<td align="center">Corps des assistants de service social<br/>
-Décret n° 91-783 du 1er août 1991 modifié</td>
+<td align="center">
+<p align="center">Corps des assistants de service social<br/>
+Décret n° 91-783 du 1er août 1991 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -233,8 +270,10 @@ Décret n° 91-783 du 1er août 1991 modifié</td>
 </td>
 </tr>
 <tr>
-<td align="center">Corps des éducateurs spécialisés des instituts nationaux de jeunes sourds<br/>et de l'Institut national des jeunes aveugles<br/>
-Décret n° 94-464 du 3 juin 1994 modifié</td>
+<td align="center">
+<p align="center">Corps des éducateurs spécialisés des instituts nationaux de jeunes sourds<br/>et de l'Institut national des jeunes aveugles<br/>
+Décret n° 94-464 du 3 juin 1994 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -258,8 +297,10 @@ Filière inspection
 </th>
 </tr>
 <tr>
-<td align="center">Corps des médecins inspecteurs de santé publique<br/>
-Décret n° 91-1025 du 7 octobre 1991 modifié</td>
+<td align="center">
+<p align="center">Corps des médecins inspecteurs de santé publique<br/>
+Décret n° 91-1025 du 7 octobre 1991 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -278,8 +319,10 @@ Décret n° 91-1025 du 7 octobre 1991 modifié</td>
 </td>
 </tr>
 <tr>
-<td align="center">Corps des pharmaciens inspecteurs de santé publique<br/>
-Décret n° 92-1432 du 30 décembre 1992 modifié</td>
+<td align="center">
+<p align="center">Corps des pharmaciens inspecteurs de santé publique<br/>
+Décret n° 92-1432 du 30 décembre 1992 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -298,8 +341,10 @@ Décret n° 92-1432 du 30 décembre 1992 modifié</td>
 </td>
 </tr>
 <tr>
-<td align="center">Corps des inspecteurs de l'action sanitaire et sociale<br/>
-Décret n° 2002-1569 du 24 décembre 2002 modifié</td>
+<td align="center">
+<p align="center">Corps des inspecteurs de l'action sanitaire et sociale<br/>
+Décret n° 2002-1569 du 24 décembre 2002 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -332,8 +377,10 @@ Filière enseignante
 </th>
 </tr>
 <tr>
-<td align="center">Corps des professeurs d'enseignement général<br/>de l'Institut national des jeunes aveugles<br/>
-Décret n° 93-292 du 8 mars 1993 modifié</td>
+<td align="center">
+<p align="center">Corps des professeurs d'enseignement général<br/>de l'Institut national des jeunes aveugles<br/>
+Décret n° 93-292 du 8 mars 1993 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -344,8 +391,10 @@ Décret n° 93-292 du 8 mars 1993 modifié</td>
 </td>
 </tr>
 <tr>
-<td align="center">Corps des professeurs d'enseignement général<br/>des instituts nationaux de jeunes sourds<br/>
-Décret n° 93-293 du 8 mars 1993 modifié</td>
+<td align="center">
+<p align="center">Corps des professeurs d'enseignement général<br/>des instituts nationaux de jeunes sourds<br/>
+Décret n° 93-293 du 8 mars 1993 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -356,8 +405,10 @@ Décret n° 93-293 du 8 mars 1993 modifié</td>
 </td>
 </tr>
 <tr>
-<td align="center">Corps des professeurs d'enseignement technique des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles<br/>
-Décret n° 93-294 du 8 mars 1993 modifié</td>
+<td align="center">
+<p align="center">Corps des professeurs d'enseignement technique des instituts nationaux<br/>de jeunes sourds et de l'Institut national des jeunes aveugles<br/>
+Décret n° 93-294 du 8 mars 1993 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -381,8 +432,10 @@ Filière infirmière
 </th>
 </tr>
 <tr>
-<td align="center">Corps interministériel des infirmiers et infirmières<br/>des services médicaux des administrations de l'Etat<br/>
-Décret n° 94-1020 du 23 novembre 1994 modifié</td>
+<td align="center">
+<p align="center">Corps interministériel des infirmiers et infirmières<br/>des services médicaux des administrations de l'Etat<br/>
+Décret n° 94-1020 du 23 novembre 1994 modifié</p>
+</td>
 </tr>
 <tr>
 <td align="center">

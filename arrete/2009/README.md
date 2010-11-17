@@ -1144,7 +1144,6 @@
 - [Arrêté du 15 avril 2009 (DEVT0909532A)](arrete-du-15-avril-2009-devt0909532a)
 - [Arrêté du 15 avril 2009 (ECEG0908543A)](arrete-du-15-avril-2009-eceg0908543a)
 - [Arrêté du 15 avril 2009 (ECEG0908546A)](arrete-du-15-avril-2009-eceg0908546a)
-- [Arrêté du 15 avril 2009 (JUSB0903935A)](arrete-du-15-avril-2009-jusb0903935a)
 - [Arrêté du 15 avril 2009 (JUSK0909939A)](arrete-du-15-avril-2009-jusk0909939a)
 - [Arrêté du 15 avril 2009 (MENC0906968A)](arrete-du-15-avril-2009-menc0906968a)
 - [Arrêté du 15 avril 2009 (MENC0906976A)](arrete-du-15-avril-2009-menc0906976a)

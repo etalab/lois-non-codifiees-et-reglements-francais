@@ -27,6 +27,7 @@ ATTRIBUTION DE LA PRIME FORFAITAIRE
 <td valign="top" width="377">
 <p>Président de chambre et avocat général de cour d'appel.</p>
 <p>Premier vice-président de tribunal de grande instance.</p>
+<p>Premier vice-président adjoint de tribunal de grande instance.</p>
 <p>Magistrat chargé de l'instruction et magistrat du parquet de tribunal de grande instance ou de première instance.</p>
 <p>Magistrat chargé d'un secrétariat général dans une cour d'appel ou dans un tribunal de grande instance.</p>
 </td>
