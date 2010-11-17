@@ -1,0 +1,7 @@
+# Décret n° 2010-1418 du 12 novembre 2010 relatif à la transmission par voie électronique des actes de la Nouvelle-Calédonie, des provinces de la Nouvelle-Calédonie et de leurs établissements publics et groupements d'intérêt public soumis au contrôle de légalité
+
+- [CHAPITRE IER : DISPOSITIONS RELATIVES AU CONGRES  DE LA NOUVELLE CALEDONIE](chapitre-ier)
+- [CHAPITRE II : DISPOSITIONS RELATIVES AU GOUVERNEMENT  DE LA NOUVELLE CALEDONIE](chapitre-ii)
+- [CHAPITRE III : DISPOSITIONS RELATIVES AU SENAT COUTUMIER  DE LA NOUVELLE CALEDONIE](chapitre-iii)
+- [CHAPITRE IV : DISPOSITIONS RELATIVES AUX ASSEMBLEES DE PROVINCE  DE LA NOUVELLE CALEDONIE](chapitre-iv)
+- [CHAPITRE V : DISPOSITIONS RELATIVES AUX ETABLISSEMENTS PUBLICS ET AUX GROUPEMENTS D'INTERET PUBLIC DE LA NOUVELLE CALEDONIE ET DES PROVINCES](chapitre-v)

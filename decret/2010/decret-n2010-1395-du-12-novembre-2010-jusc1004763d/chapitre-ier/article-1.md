@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application du troisième alinéa de l'article 373-2-10 du code civil, les parties sont informées de la décision du juge leur enjoignant de rencontrer un médiateur familial soit par courrier, soit à l'audience. Il est indiqué aux parties le nom du médiateur familial ou de l'association de médiation familiale désigné et les lieux, jour et heure de la rencontre. Lorsque la décision est adressée par courrier, il leur est en outre rappelé la date de l'audience à laquelle l'affaire sera examinée. Lors de cette audience, le juge homologue le cas échéant l'accord intervenu ; en l'absence d'accord ou d'homologation, il tranche le litige.

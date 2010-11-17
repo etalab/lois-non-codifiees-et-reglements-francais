@@ -1,0 +1,5 @@
+# Article 3
+
+Le décret du 29 mars 2002 et le décret du 27 juin 2003 susvisés dans leur rédaction issue du présent décret sont applicables aux demandes présentées à la commission des personnes handicapées à compter du lendemain de sa publication. Les prestations sont dues à compter de la date fixée par cette commission et au plus tôt à compter du 1er janvier 2010.
+
+Les personnes bénéficiaires, au 31 décembre 2009, de l'allocation enfant handicapé prévue au règlement territorial d'aide sociale de Mayotte sont dispensées de procéder au dépôt d'une demande dans les conditions prévues à l'article 19-2 du décret du 29 mars 2002, en vue du bénéfice de l'allocation d'éducation de l'enfant handicapé. Le conseil général de Mayotte transmet sans délai les dossiers des personnes concernées, d'une part, à l'organisme débiteur des prestations familiales et, d'autre part, afin qu'elle statue sur leur droit à bénéficier de l'allocation d'éducation de l'enfant handicapé, à la maison des personnes handicapées.

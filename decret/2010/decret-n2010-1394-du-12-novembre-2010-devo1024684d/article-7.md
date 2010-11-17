@@ -1,0 +1,3 @@
+# Article 7
+
+Le préfet de département peut, lorsqu'il accorde l'autorisation d'ouverture de travaux ou prescrit des mesures de police et pour donner suite à une demande de l'exploitant de mine, prévoir des dérogations aux prescriptions instaurées par le présent décret pour les installations de stockage de déchets inertes ou de terres non polluées. Dans ce cas, il impose des prescriptions alternatives permettant d'assurer un niveau de préservation des intérêts mentionnés à l'article 79 du code minier au moins équivalent à celui que confère le respect des prescriptions imposées par le présent décret.
