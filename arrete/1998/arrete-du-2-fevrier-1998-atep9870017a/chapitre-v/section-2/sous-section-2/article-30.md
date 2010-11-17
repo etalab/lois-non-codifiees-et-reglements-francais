@@ -136,11 +136,7 @@ Dans le cas des fours, l'arrêté préfectoral d'autorisation tient compte de l'
 
 Dans le cas d'installations consommant, simultanément ou séparément, plusieurs combustibles, l'arrêté d'autorisation fixe une valeur limite pour chaque combustible. Si des combustibles sont consommés simultanément, la valeur limite doit être une moyenne pondérée en fonction de la puissance délivrée par chaque combustible.
 
-17° Stockages d'hydrocarbures : les dispositions du 7° de l'article 27 sont remplacées par les dispositions suivantes :
-
-La concentration moyenne des composés organiques dans les échappements des unités de récupération des vapeurs n'excède pas 35 g/m3.
-
-L'arrêté d'autorisation fixe le cas échéant une valeur limite inférieure tenant compte à la fois de la sensibilité de la zone géographique concernée et de la capacité de stockage.
+17° Abrogé
 
 18° Déshydratation de fourrage.
 
