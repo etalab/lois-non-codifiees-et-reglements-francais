@@ -355,6 +355,7 @@
 - [Arrêté du 6 janvier 2010 (JUSA1000601A)](arrete-du-6-janvier-2010-jusa1000601a)
 - [Arrêté du 6 janvier 2010 (MCCB1000292A)](arrete-du-6-janvier-2010-mccb1000292a)
 - [Arrêté du 6 janvier 2010 (SASR1000523A)](arrete-du-6-janvier-2010-sasr1000523a)
+- [Arrêté du 6 juillet 2004 (ECOL0400080A)](arrete-du-6-juillet-2004-ecol0400080a)
 - [Arrêté du 6 juillet 2010 (AGRM1016737A)](arrete-du-6-juillet-2010-agrm1016737a)
 - [Arrêté du 6 juillet 2010 (AGRM1016739A)](arrete-du-6-juillet-2010-agrm1016739a)
 - [Arrêté du 6 juillet 2010 (AGRM1016741A)](arrete-du-6-juillet-2010-agrm1016741a)
