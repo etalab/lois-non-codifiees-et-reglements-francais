@@ -4,8 +4,6 @@ LISTE DES EMPLOIS DU MINISTÈRE DE LA DÉFENSE DONNANT DROIT
 
 AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉ
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -13,556 +11,723 @@ AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉ
 <p align="center">EMPLOYEUR</p>
 </td>
 <td align="left" valign="top">
-<p align="center">ÉTABLISSEMENT, <br/>organisme <br/>ou service <br/>et localisation <br/>géographique</p>
+<p align="center">ÉTABLISSEMENT,<br/>organisme ou service<br/>et localisation géographique</p>
 </td>
 <td align="left" valign="top">
 <p align="center">EMPLOI</p>
 </td>
 <td align="left" valign="top">
-<p align="center">NOMBRE<br/>de postes </p>
+<p align="center">NOMBRE<br/>de postes</p>
 </td>
 <td align="left" valign="top">
-<p align="center">DURÉE <br/>d'affectation <br/>requise </p>
+<p align="center">DURÉE<br/>d'affectation requise</p>
 </td>
 <td align="left" valign="top">
-<p align="center">MONTANT <br/>de l'indemnité </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">Marine nationale <br/>
-</td>
-<td align="left" valign="top">Etat-major de la marine à Paris. <br/>
-</td>
-<td align="left" valign="top">Expert technique de haut niveau en infrastructure. <br/>
-</td>
-<td align="left" valign="top">1 <br/>
-</td>
-<td align="left" valign="top">4 ans <br/>
-</td>
-<td align="left" valign="top">10 000 € <br/>
+<p align="center">MONTANT DE<br/>l'indemnité</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<br/>Marine nationale<br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<br/>Etat-major de la marine à Paris (75)<br/>
 </td>
-<td align="left" valign="top">Gestionnaire financier (adjoint au chef de la section exécution-restitution). <br/>
+<td align="left" valign="top">
+<br/>Gestionnaire financier (adjoint au chef de la section exécution-restitution)<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">4 ans <br/>
+<td align="left" valign="top">
+<br/>4 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Armée de terre <br/>
+<td align="left" valign="top">
+<br/>Armée de terre<br/>
 </td>
-<td align="left" valign="top">Direction centrale du matériel de Satory à Versailles. <br/>
+<td align="left" valign="top">
+<br/>Structure intégrée du maintien en condition opérationnelle des matériels terrestres de Satory à Versailles (78)<br/>
 </td>
-<td align="left" valign="top">Responsable comptabilité des matériels. <br/>
+<td align="left" valign="top">
+<br/>Spécialiste d'études électroniques<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">4 ans <br/>
+<td align="left" valign="top">
+<br/>4 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Spécialiste d'études électroniques. <br/>
+<td align="left" valign="top">
+<br/>Technicien de maintenance mécanique<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>3<br/>
 </td>
-<td align="left" valign="top">4 ans <br/>
+<td align="left" valign="top">
+<br/>4 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Technicien de maintenance mécanique. <br/>
+<td align="left" valign="top">
+<br/>Spécialiste comptabilité des matériels<br/>
 </td>
-<td align="left" valign="top">3 <br/>
+<td align="left" valign="top">
+<br/>5<br/>
 </td>
-<td align="left" valign="top">4 ans <br/>
+<td align="left" valign="top">
+<br/>4 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">12e base de soutien du matériel de Neuvy-Pailloux. <br/>
+<td align="left" valign="top">
+<br/>Centre d'entraînement des brigades de Mourmelon-le-Grand (51)<br/>
 </td>
-<td align="left" valign="top">Agent d'administration des marchés. <br/>
+<td align="left" valign="top">
+<br/>Conducteur de véhicules routiers<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
-<td align="left" valign="top">Contrôleur de gestion. <br/>
+<td align="left" valign="top">
+<br/>Centre de formation initiale des militaires du rang du 13e régiment du génie de Valdahon (25)<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>Cuisinier<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>3<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
+</td>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">12e base de soutien du matériel de Gien. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Responsable de gestion des crédits. <br/>
+<td align="left" valign="top">
+<br/>Agent polyvalent de restauration<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Centre d'entraînement en zone urbaine de Sissonne. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Chargé de prévention. <br/>
+<td align="left" valign="top">
+<br/>Agent d'entreposage-magasinage<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Armée de l'air<br/>
+</td>
+<td align="left" valign="top">
+<br/>Etat-major de l'armée de l'air à Paris (75)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Conseiller à la prévention<br/>
+</td>
+<td align="left" valign="top">
+<br/>1<br/>
+</td>
+<td align="left" valign="top">
+<br/>5 ans<br/>
+</td>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Centre d'entraînement des brigades de Suippes. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Mécanicien de maintenance mécanique. <br/>
+<td align="left" valign="top">
+<br/>Chef de section hygiène, sécurité et conditions de travail<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>5 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Direction générale de l'armement<br/>
+</td>
+<td align="left" valign="top">
+<br/>Direction de l'expertise technique/centre d'électronique de l'armement de Bruz (35)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Expert missile<br/>
+</td>
+<td align="left" valign="top">
+<br/>13<br/>
+</td>
+<td align="left" valign="top">
+<br/>6 ans<br/>
+</td>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Centre d'entraînement des brigades de Mourmelon-le-Grand. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Conducteur de véhicules routiers. <br/>
+<td align="left" valign="top">
+<br/>Expert navigation<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>13<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Centre d'entraînement tactique de Mailly-le-Camp. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Agent de sécurité et de gardiennage. <br/>
+<td align="left" valign="top">
+<br/>Chef de département technique<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>2<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Secrétaire appel de préparation à la défense. <br/>
+<td align="left" valign="top">
+<br/>Pilotage prestations projet<br/>
 </td>
-<td align="left" valign="top">2 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Agent d'entreposage-magasinage. <br/>
+<td align="left" valign="top">
+<br/>Secrétaire division<br/>
 </td>
-<td align="left" valign="top">2 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Centre territorial d'administration et de comptabilité de Nancy. <br/>
+<td align="left" valign="top">
+<br/>Direction technique/techniques terrestres, Bourges (18)<br/>
 </td>
-<td align="left" valign="top">Chargé d'étude réglementation générale. <br/>
+<td align="left" valign="top">
+<br/>Assistant architecte technique informatique<br/>
 </td>
-<td align="left" valign="top">3 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">Armée de l'air <br/>
-</td>
-<td align="left" valign="top">Etat-major de l'armée de l'air à Paris. <br/>
-</td>
-<td align="left" valign="top">Expert radio protection. <br/>
-</td>
-<td align="left" valign="top">1 <br/>
-</td>
-<td align="left" valign="top">4 ans <br/>
-</td>
-<td align="left" valign="top">6 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Base aérienne n° 107 à Villacoublay. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Chargé de prévention. <br/>
+<td align="left" valign="top">
+<br/>Architecte fonction-configuration et interface LECLERC état-major armée de terre<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">4 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Base aérienne n° 279 à Châteaudun. <br/>
-</td>
-<td align="left" valign="top">Responsable qualité et pilotage SISMA. <br/>
-</td>
-<td align="left" valign="top">1 <br/>
-</td>
-<td align="left" valign="top">4 ans <br/>
-</td>
-<td align="left" valign="top">6 000 €<br/>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
-<br/>direction générale de l'armement <br/>
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Direction de l'expertise technique / centre d'électronique de l'armement de Bruz. <br/>
+<td align="left" valign="top">
+<br/>Architecte conception d'ensemble, générations électriques et traitement de l'eau NG<br/>
 </td>
-<td align="left" valign="top">Expert chaînes fonctionnelles ― Technicien chargé d'évaluation d'images de synthèse. <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
-</td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert chaînes fonctionnelles ― Opérateur chargé d'évaluation d'images de synthèse. <br/>
+<td align="left" valign="top">
+<br/>Architecte fonction en conception et développement, expert en modélisation de survivabilité<br/>
 </td>
-<td align="left" valign="top">2 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert matériel de guidage navigation ― Technicien chargé d'évaluation de système de navigation. <br/>
+<td align="left" valign="top">
+<br/>Technicien recherche conducteur essais, responsable d'essais en survivabilité<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert performances systèmes de missiles. <br/>
+<td align="left" valign="top">
+<br/>Expert technique en conception et développement, expert en environnement des systèmes terrestres<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert chaînes fonctionnelles ― Technicien chargé de génération d'images de synthèse. <br/>
+<td align="left" valign="top">
+<br/>Technicien recherche conducteur essais, responsable d'essais en survivabilité<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Direction de l'expertise technique / établissement technique de Bourges. <br/>
+<td align="left" valign="top">
+<br/>
+<br/>
 </td>
-<td align="left" valign="top">Assistant architecte technique informatique. <br/>
+<td align="left" valign="top">
+<br/>Expert technique en conception et développement, expert en simulation de mobilité<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert technique conception-développement. <br/>
+<td align="left" valign="top">
+<br/>Architecte système d'information, technicien simulations pilotées<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense<br/>
+</td>
+<td align="left" valign="top">
+<br/>Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense, service central marchés au Kremlin-Bicêtre (94)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Chef de la division marchés<br/>
+</td>
+<td align="left" valign="top">
+<br/>1<br/>
+</td>
+<td align="left" valign="top">
+<br/>4 ans <br/>
+</td>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Direction de l'expertise technique / centre d'électronique de l'armement de Bruz. <br/>
+<td align="left" valign="top">
+<br/>Centre national général des fréquences à Maisons-Laffitte (78)<br/>
 </td>
-<td align="left" valign="top">Ingénieur expert guidage navigation. <br/>
+<td align="left" valign="top">
+<br/>Expert de haut niveau fréquence<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>2<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>6 ans <br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Etat-major des armées, service interarmées des munitions (SIMu)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Direction centrale SIMu Versailles (78)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Chargé de protection environnement expérimenté<br/>
+</td>
+<td align="left" valign="top">
+<br/>1<br/>
+</td>
+<td align="left" valign="top">
+<br/>3 ans <br/>
+</td>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
-<td align="left" valign="top">Expert sûreté de fonctionnement missiles. <br/>
+<td align="left" valign="top">
+<br/>Etablissement principal munitions de Champagne-Picardie à Brienne-le-Château (10)<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>Chargé de protection environnement expérimenté<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>3 ans <br/>
+</td>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Service d'infrastructure de la défense<br/>
+</td>
+<td align="left" valign="top">
+<br/>Direction régionale du service d'infrastructure de la défense d'Ile-de-France de Saint-Germain-en-Laye (78)<br/>
+</td>
+<td align="left" valign="top">
+<br/>Chef de bureau d'aide à l'activité<br/>
+</td>
+<td align="left" valign="top">
+<br/>1<br/>
+</td>
+<td align="left" valign="top">
+<br/>5 ans<br/>
+</td>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Expert référent guidage navigation. <br/>
+<td align="left" valign="top">
+<br/>Adjoint au chef de la division plans<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">6 ans <br/>
+<td align="left" valign="top">
+<br/>5 ans<br/>
 </td>
-<td align="left" valign="top">10 000 € <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">Direction <br/>du service national <br/>
-</td>
-<td align="left" valign="top">Centre du service national de Versailles. <br/>
-</td>
-<td align="left" valign="top">Secrétaire appel de préparation à la défense. <br/>
-</td>
-<td align="left" valign="top">9 <br/>
-</td>
-<td align="left" valign="top">3 ans <br/>
-</td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>10 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">Etablissement régional du service national d'Ile-de-France de Versailles. <br/>
-</td>
-<td align="left" valign="top">Responsable gestion des crédits. <br/>
-</td>
-<td align="left" valign="top">1 <br/>
-</td>
-<td align="left" valign="top">3 ans <br/>
-</td>
-<td align="left" valign="top">6 000 € <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
-<td align="left" valign="top">Responsable de formation. <br/>
+<td align="left" valign="top">
+<br/>Chargé projet technique<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">3 ans <br/>
+<td align="left" valign="top">
+<br/>5 ans<br/>
 </td>
-<td align="left" valign="top">6 000 € <br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<br/>Service parisien de soutien de l'administration centrale<br/>
 </td>
 <td align="left" valign="top">
-<br/>
+<br/>Sous-direction de l'ingénierie du soutien à Arcueil (94)<br/>
 </td>
-<td align="left" valign="top">Gestionnaire du personnel. <br/>
+<td align="left" valign="top">
+<br/>Expert courants forts et faibles<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">3 ans <br/>
+<td align="left" valign="top">
+<br/>5 ans <br/>
 </td>
-<td align="left" valign="top">6 000 € <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">Service d'infrastructure <br/>de la défense <br/>
-</td>
-<td align="left" valign="top">Service technique des bâtiments, fortifications et travaux de Versailles. <br/>
-</td>
-<td align="left" valign="top">Responsable projets maîtrise d'œuvre. <br/>
-</td>
-<td align="left" valign="top">2 <br/>
-</td>
-<td align="left" valign="top">5 ans <br/>
-</td>
-<td align="left" valign="top">10 000 € <br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>
+<br/>Service des essences des armées<br/>
 </td>
-<td align="left" valign="top">Direction régionale du service d'infrastructure de la défense d'Ile-de-France de Saint-Germain-en-Laye. <br/>
+<td align="left" valign="top">
+<br/>Centre de soutien et de logistique du service des essences des armées de Montereau (77) <br/>
 </td>
-<td align="left" valign="top">Chargé projet technique. <br/>
+<td align="left" valign="top">
+<br/>Magasinier<br/>
 </td>
-<td align="left" valign="top">1 <br/>
+<td align="left" valign="top">
+<br/>1<br/>
 </td>
-<td align="left" valign="top">5 ans <br/>
+<td align="left" valign="top">
+<br/>5 ans<br/>
 </td>
-<td align="left" valign="top">5 000 € <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">Service des essences <br/>des armées <br/>
-</td>
-<td align="left" valign="top">Centre de soutien et de logistique du service des essences des armées de Montereau. <br/>
-</td>
-<td align="left" valign="top">Mécanicien en maintenance mécanique. <br/>
-</td>
-<td align="left" valign="top">1 <br/>
-</td>
-<td align="left" valign="top">5 ans <br/>
-</td>
-<td align="left" valign="top">5 000 €<br/>
+<td align="left" valign="top">
+<br/>5 000 €<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
