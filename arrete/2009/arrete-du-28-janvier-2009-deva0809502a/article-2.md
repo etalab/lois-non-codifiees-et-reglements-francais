@@ -178,9 +178,9 @@ a) Limites latérales : ligne brisée joignant les points :
 
 b) Limites verticales :
 
-― classe E du plus élevé des deux niveaux : niveau de vol 115 (3 500 mètres) ou 3 000 pieds (900 mètres) par rapport à la surface au niveau de vol 145 (4 400 mètres) ;
+― classe E du plus élevé des deux niveaux : niveau de vol 115 (3 500 mètres) ou 3 000 pieds (900 mètres) par rapport à la surface au niveau de vol 135 (4 100 mètres) ;
 
-― classe D du niveau de vol 145 (4 400 mètres) au niveau de vol 195 (5 950 mètres).
+― classe D du niveau de vol 135 (4 100 mètres) au niveau de vol 195 (5 950 mètres).
 
 IX. - Partie 9 : LTA Pyrénées 1 : classe E
 
