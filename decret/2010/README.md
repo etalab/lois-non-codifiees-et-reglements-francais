@@ -502,6 +502,7 @@
 - [Décret n°2010-1090 du 16 septembre 2010 (MTSF1007431D)](decret-n2010-1090-du-16-septembre-2010-mtsf1007431d)
 - [Décret n°2010-1091 du 16 septembre 2010 (SASZ1017182D)](decret-n2010-1091-du-16-septembre-2010-sasz1017182d)
 - [Décret n°2010-1093 du 16 septembre 2010 (AGRS1022918D)](decret-n2010-1093-du-16-septembre-2010-agrs1022918d)
+- [Décret n°2010-1419 du 16 novembre 2010 (AGRT1025818D)](decret-n2010-1419-du-16-novembre-2010-agrt1025818d)
 - [Décret n°2010-146 du 16 février 2010 (IOCX1001895D)](decret-n2010-146-du-16-fevrier-2010-iocx1001895d)
 - [Décret n°2010-148 du 16 février 2010 (JUSX1002567D)](decret-n2010-148-du-16-fevrier-2010-jusx1002567d)
 - [Décret n°2010-149 du 16 février 2010 (JUSX1001357D)](decret-n2010-149-du-16-fevrier-2010-jusx1001357d)
