@@ -50,9 +50,9 @@ Dans certaines conditions, des unités capitalisables complémentaires, regroup�
 
 - Ski nautique : le moniteur de ski nautique encadre les activités du ski nautique et les disciplines associées (téléski nautique, wakeboard, nu-pieds et courses), pour tout public et sur tout lieu de pratique de l'activité.
 
-- Voile : le moniteur de voile encadre les activités de multicoque, dériveur, croisière (jusqu'à 12 milles d'un abri) et planche à voile pour tout public et sur tout lieu de pratique de l'activité. Au-delà de 12 milles d'un abri, le moniteur peut encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille, possédant les diplômes requis.
+- Voile : le moniteur de voile encadre les activités de multicoque, dériveur, croisière (jusqu'à 12 milles d'un abri) et planche à voile pour tout public et sur tout lieu de pratique de l'activité. Au-delà de 12 milles d'un abri, le moniteur peut encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille, possédant les diplômes requis ;
 
-- Surf : le moniteur de surf encadre des activités surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard), pour tout public et sur tout lieu de pratique de l'activité.
+Surf : le moniteur de surf encadre des activités surf (shortboard, longboard, bodyboard, bodysurf, kneeboard, skimboard), pour tout public et sur tout lieu de pratique de l'activité.
 
 2/ Supports constitutifs d'une mention plurivalente (composé de deux supports choisis dans des groupes différents) :
 
@@ -70,7 +70,7 @@ Groupe B :
 
 Groupe C :
 
-- Char à voile d'initiation et de découverte : le moniteur encadre les activités d'initiation et de découverte du char à voile sur tous supports (à l'exception des activités tractées) pour tout public, sur parcours école aménagés (mille mètres maximum).
+- Char à voile d'initiation et de découverte : le moniteur encadre les activités d'initiation et de découverte du char à voile sur tous supports (à l'exception des activités tractées) pour tout public, sur parcours école aménagés.
 
 Groupe D :
 
@@ -106,7 +106,7 @@ Groupe G :
 
 - Canoë-kayak eau calme et rivière d'eau vive : le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme et en rivière jusqu'en classe III incluse.
 
-- Char à voile d'initiation et de découverte : le moniteur encadre les activités d'initiation et de découverte du char à voile sur tous supports (à l'exception des activités tractées) pour tout public, sur parcours école aménagés (mille mètres maximum).
+- Char à voile d'initiation et de découverte : le moniteur encadre les activités d'initiation et de découverte du char à voile sur tous supports (à l'exception des activités tractées) pour tout public, sur parcours école aménagés.
 
 - Croisière côtière : le moniteur encadre les activités sur des voiliers autres que les embarcations légères de plaisance pour tout public jusqu'à 12 milles d'un abri. Au-delà, il peut encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.
 

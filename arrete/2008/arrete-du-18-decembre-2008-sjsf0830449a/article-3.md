@@ -42,7 +42,13 @@ Les titulaires des certifications suivantes, bénéficient de droit, sur présen
 
 - titre à finalité professionnelle "animateur poney" enregistré au répertoire national des certifications professionnelles le 13 novembre 2009 ;
 
-- titre à finalité professionnelle "accompagnateur de tourisme équestre" enregistré au répertoire national des certifications professionnelles le 13 novembre 2009.
+- titre à finalité professionnelle "accompagnateur de tourisme équestre" enregistré au répertoire national des certifications professionnelles le 13 novembre 2009 ;
+
+― brevet de guide de tourisme équestre délivré jusqu'au 28 août 2007 assorti d'une expérience minimale de mille deux cents heures en deux ans dans le tourisme équestre ;
+
+― titre à finalité professionnelle  "   animateur poney ” enregistré au répertoire national des certifications professionnelles le 13 novembre 2009 ;
+
+― titre à finalité professionnelle " accompagnateur de tourisme équestre ” enregistré au répertoire national des certifications professionnelles le 13 novembre 2009.
 
 4. Certifications délivrées par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE) :
 

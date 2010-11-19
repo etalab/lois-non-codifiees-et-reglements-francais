@@ -8,12 +8,14 @@ Est dispensé du premier test défini à l'article 3 le candidat remplissant l'u
 
 Est dispensé du second test défini à l'article 3 le candidat titulaire de l'un des diplômes suivants :
 
-― brevet d'Etat d'éducateur sportif du premier degré, option « char à voile » ;
+― brevet d'Etat d'éducateur sportif du premier degré, option char à voile ;
 
-― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « activités nautiques », mention monovalente « char à voile » ;
+― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité activités nautiques , mention monovalente char à voile ;
 
-― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « activités nautiques », mention plurivalente « char à voile » ;
+― brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité activités nautiques , mention plurivalente char à voile ;
 
 ― diplôme de moniteur fédéral de la Fédération française de char à voile ;
 
-― diplôme d'entraîneur fédéral de la Fédération française de char à voile.
+― diplôme d'entraîneur fédéral de la Fédération française de char à voile ;
+
+― certificat de qualification professionnelle " assistant moniteur char à voile".

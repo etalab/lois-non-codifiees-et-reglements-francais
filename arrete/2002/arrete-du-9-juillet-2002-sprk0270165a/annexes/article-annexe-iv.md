@@ -86,7 +86,7 @@ Les objectifs correspondant aux exigences minimales permettant la mise en situat
 
 2/ Dispenses et équivalences :
 
-Le diplôme de "moniteur fédéral de char à voile" délivré par la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test de capacités et connaissances, préalables à la mise en situation pédagogique pour la mention "char à voile" et le support "char à voile d'initiation et de découverte" de la spécialité "activités nautiques" du B.P. J.E.P.S.
+Le diplôme de "moniteur fédéral de char à voile" délivré par la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test de capacités et connaissances, préalables à la mise en situation pédagogique pour la mention "char à voile" et le support "char à voile d'initiation et de découverte" de la spécialité "activités nautiques" du B.P. J.E.P.S. Le certificat de qualification professionnelle " assistant moniteur char à voile " dispense du test de capacités et connaissances préalable à la mise en situation pédagogique pour la mention " char à voile " et le support " char à voile d'initiation et de découverte " de la spécialité " activités nautiques " du BPJEPS.
 
 Mention "glisses aérotractées"
 

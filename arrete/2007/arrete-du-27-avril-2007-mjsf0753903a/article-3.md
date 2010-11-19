@@ -1,13 +1,15 @@
 # Article 3
 
-Les exigences préalables requises pour accéder à la formation, prévues à l'article 10 du décret n° 2006-1418 susvisé, sont les suivantes :
+Les exigences préalables requises pour accéder à la formation prévues à l'article D. 212-44 du code du sport susvisé sont les suivantes :
 
-- justifier avoir exercé la profession de moniteur de golf pendant au moins deux années ;
+-justifier d'une expérience de deux années d'encadrement du golf ;
 
-- être capable de réaliser un score inférieur ou égal à SSJ plus cinq dans chacun des deux tours d'une épreuve de jeu répondant aux critères de préparation du terrain pour les épreuves fédérales.
+-être capable de réaliser un score inférieur ou égal à SSJ plus cinq dans chacun des deux tours d'une épreuve de jeu répondant aux critères de préparation du terrain pour les épreuves fédérales.
 
 Il est procédé à la vérification de ces exigences préalables au moyen :
 
-- de la production d'attestations délivrées par les responsables des golfs dans lesquels l'activité de moniteur de golf a été exercée ;
+-d'un entretien d'une durée de quarante cinq minutes s'appuyant sur un dossier préparé par le candidat relatif à ses expériences dans le domaine de l'encadrement du golf ;
 
-- d'un test technique constitué d'une épreuve de jeu de deux tours organisée par la Fédération française de golf. Pour participer à cette épreuve, les candidats doivent produire un certificat médical de non-contre-indication à la pratique du golf datant de moins de trois mois et des attestations d'assurance en responsabilité civile couvrant l'épreuve.
+-d'un test technique constitué d'une épreuve de jeu de deux tours.
+
+Les attestations de réussite à ces tests organisés par la Fédération française de golf sont délivrées par le directeur technique national du golf.

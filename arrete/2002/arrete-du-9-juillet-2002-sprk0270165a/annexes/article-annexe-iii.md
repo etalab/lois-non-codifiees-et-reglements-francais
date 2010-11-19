@@ -162,9 +162,7 @@ Etre capable de :
 
 2/ Dispenses et équivalences :
 
-Le diplôme de "moniteur fédéral" de la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B.P. J.E.P.S. pour la mention "char à voile"
-
-pour le groupe d'engins concernés par la qualification du monitorat fédéral de la totalité pour le support "char à voile d'initiation et de découverte".
+Le diplôme de "moniteur fédéral" de la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B.P. J.E.P.S. pour la mention "char à voile" pour le groupe d'engins concernés par la qualification du monitorat fédéral de la totalité pour le support "char à voile d'initiation et de découverte". Le certificat de qualification professionnelle "assistant moniteur char à voile" dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du BPJEPS pour la mention "char à voile" et pour le support "char à voile d'initiation et de découverte."
 
 Sur classement :
 
@@ -200,11 +198,11 @@ Mention "glisses aérotractées"
 
 - Etre capable d'évoluer avec aisance, sur un parcours orienté dans un vent entre 12 et 30 noeuds, à l'aide de la traction d'un cerf- volant sur un engin de glisse sur eau ainsi que sur un engin de roulage sur terre en position debout.
 
-- Choisir le cerf- volant et l'engin de glisse ou de roulage adapté aux conditions de vent et de surface du moment.
+- Choisir le cerf-volant et l'engin de glisse ou de roulage adapté aux conditions de vent et de surface du moment.
 
 - Choisir la zone de préparation du matériel et la zone d'évolution adaptée au site et aux conditions.
 
-- Monter un cerf- volant de traction en 2 ainsi qu'en 4 lignes avec les systèmes de sécurité.
+- Monter un cerf-volant de traction en 2 ainsi qu'en 4 lignes avec les systèmes de sécurité.
 
 - S'équiper avec tous les éléments de protection individuelle.
 
