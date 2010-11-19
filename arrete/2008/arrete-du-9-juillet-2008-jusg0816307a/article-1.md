@@ -8,4 +8,4 @@ b) La sous-direction de l'informatique et des télécommunications ;
 
 c) La sous-direction de la statistique et des études ;
 
-d) Le département des affaires contentieuses.
+d) La sous-direction des affaires juridiques générales et du contentieux.
