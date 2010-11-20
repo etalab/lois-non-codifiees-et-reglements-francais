@@ -450,7 +450,6 @@
 - [Décret n°2003-1207 du 18 décembre 2003 (SANS0324433D)](decret-n2003-1207-du-18-decembre-2003-sans0324433d)
 - [Décret n°2003-1246 du 18 décembre 2003 (JUSC0320741D)](decret-n2003-1246-du-18-decembre-2003-jusc0320741d)
 - [Décret n°2004-161 du 18 février 2004 (JUSG0460006D)](decret-n2004-161-du-18-fevrier-2004-jusg0460006d)
-- [Décret n°2004-163 du 18 février 2004 (DOMB0300033D)](decret-n2004-163-du-18-fevrier-2004-domb0300033d)
 - [Décret n°2004-183 du 18 février 2004 (INDI0402299D)](decret-n2004-183-du-18-fevrier-2004-indi0402299d)
 - [Décret n°2004-238 du 18 mars 2004 (INTA0400069D)](decret-n2004-238-du-18-mars-2004-inta0400069d)
 - [Décret n°2004-240 du 18 mars 2004 (SANH0421001D)](decret-n2004-240-du-18-mars-2004-sanh0421001d)
