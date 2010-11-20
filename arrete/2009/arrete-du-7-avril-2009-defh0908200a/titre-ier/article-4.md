@@ -2,7 +2,7 @@
 
 Les responsabilités de l'organisation du concours se répartissent de la manière suivante :
 
-I. ― La responsabilité de l'organisation générale du concours incombe au directeur central du commissariat de la marine qui, notamment :
+I. ― La responsabilité de l'organisation générale du concours incombe au directeur du personnel militaire de la marine qui, notamment :
 
 ― fixe les centres d'examen pour les épreuves d'amissibilité dans une circulaire autorisant les candidats à concourir ;
 
@@ -26,6 +26,6 @@ II. ― La responsabilité du déroulement et de la correction des épreuves inc
 
 ― dirige les épreuves orales obligatoires du concours.
 
-III. ― Le président de la commission de surveillance créée à cet effet dans chaque centre d'examen est responsable de la surveillance des épreuves écrites d'admissibilité. Officier supérieur, il est désigné par l'autorité maritime locale dont dépend le centre d'examen. Il est assisté par un officier et un ou deux officiers-mariniers membres de cette commission, désignés par la même autorité.
+III. ― Le président de la commission de surveillance créée dans chaque centre d'examen est responsable de la surveillance des épreuves écrites d'admissibilité. Officier, il est désigné par l'autorité maritime locale dont dépend le centre d'examen. Il est assisté par un officier et un ou deux officiers-mariniers ou fonctionnaires civils membres de cette commission, désignés par la même autorité.
 
 IV. ― L'organisation matérielle des centres d'examen et la convocation des candidats pour les épreuves écrites d'admissibilité incombent à l'autorité maritime locale dont ils dépendent ou au commandant pour les épreuves se déroulant à bord d'un bâtiment à la mer.
