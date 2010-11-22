@@ -1,0 +1,5 @@
+# Article 15
+
+La carte de séjour des ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires par leur traité d'adhésion qui souhaitent exercer une activité professionnelle, mentionnés au II de l'article 14 de l'ordonnance du 26 avril 2000 susvisée, est délivrée dans les conditions et pour la durée prévues à l'article 10 du présent décret. Elle porte selon les cas la mention : « CE. ― Toutes activités professionnelles » ou : « CE. ― Toutes activités professionnelles, sauf salariées ».
+
+La carte de séjour des membres de leur famille ressortissants d'un Etat membre de l'Union européenne soumis à des mesures transitoires ou d'un Etat tiers est délivrée dans les conditions et pour la durée prévues par l'article 13 ou par l'article 14 du présent décret selon leur nationalité. Elle porte selon les cas la mention : « CE. ― Membre de famille. ― Toutes activités professionnelles » ou : « CE. ― Membre de famille. ― Toutes activités professionnelles, sauf salariées ».

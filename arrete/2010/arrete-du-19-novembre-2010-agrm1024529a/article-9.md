@@ -1,0 +1,3 @@
+# Article 9
+
+Tout manquement aux dispositions réglementaires, notamment en ce qui concerne les dispositions du présent arrêté, peut donner lieu, indépendamment des sanctions pénales susceptibles d'être prononcées, à l'application d'une sanction administrative conformément à l'article L. 946-1, L. 946-4 et L. 946-7 du code rural et de la pêche maritime pouvant conduire, outre l'application d'une amende administrative, à la suspension ou au retrait immédiat de l'autorisation de pêche pour l'année en cours ainsi que pour toute ou partie de l'année suivante dans les conditions définies par les articles L. 946-5, L. 946-6 et L. 946-7 du code rural et de la pêche maritime.
