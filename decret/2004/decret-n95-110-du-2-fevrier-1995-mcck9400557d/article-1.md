@@ -16,7 +16,7 @@ a) A la production d'oeuvres audiovisuelles appartenant au genre documentaire de
 
 b) A la production d'oeuvres audiovisuelles de courte durée, appartenant au genre vidéomusique et mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
 
-c) A la production d'oeuvres audiovisuelles dites pilotes appartenant au genre animation. Ces aides sont attribuées sur dossier par le directeur général du Centre national de la cinématographie.
+c) A la production d'oeuvres audiovisuelles dites pilotes   appartenant au genre animation ou au genre fiction, à l'exclusion des sketches. Ces aides sont attribuées sur dossier par le directeur général du Centre national de la cinématographie.
 
 Une convention établie entre le Centre national de la cinématographie et l'organisme bénéficiaire fixe les modalités d'attribution et les conditions de versement des subventions accordées. La convention précise également les circonstances dans lesquelles les subventions accordées sont sujettes à répétition.
 
@@ -48,7 +48,7 @@ Ces aides sont accordées en considération du caractère innovant des technique
 
 Les décisions relatives à l'octroi des aides sont prises par le directeur général du Centre national de la cinématographie après examen d'un dossier remis par l'entreprise de production. Pour l'analyse de la demande, le directeur général du Centre national de la cinématographie peut notamment faire appel à des experts spécialisés.
 
-Le montant de ces aides ne peut excéder 200 000 euros par entreprise sur une période de trois exercices fiscaux consécutifs conformément au règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le montant de ces aides ne peut excéder 200 000 euros par entreprise sur une période de trois exercices fiscaux consécutifs conformément au règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 V.-A l'octroi d'aides dites de promotion
 
