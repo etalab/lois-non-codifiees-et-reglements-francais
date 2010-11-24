@@ -1,0 +1,3 @@
+# Article 1
+
+Après consultation de la société concessionnaire AREA, les tarifs de péages toutes taxes comprises (TTC) établis selon les modalités prévues à l'article 25 du cahier des charges de la concession de cette société et applicables aux véhicules des classes 1 à 5 sur l'autoroute A 43 (entre Saint-Quentin-Fallavier et Chambéry Nord), A 41 Nord (entre Chambéry Nord et Scientrier), A 48 (entre bifurcation de Coiranne et Voreppe) et A 49 (entre Voreppe et Chatuzange) sont complétés pour tenir compte de la mise en service du diffuseur 15.1 de l'autoroute A 41 Nord (diffuseur de Seynod Sud) et sont ceux figurant en annexe I au présent arrêté.
