@@ -1,0 +1,3 @@
+# Article 9
+
+Une cellule composée d'un représentant du ministre chargé de l'intérieur, d'un représentant du ministre chargé de la tutelle administrative des chambres de commerce et d'industrie, d'un représentant de l'assemblée des chambres françaises de commerce et d'industrie, d'un représentant de la chambre de commerce et d'industrie de Paris et d'un représentant du comité de pilotage institué entre certaines chambres de commerce et d'industrie participant au vote électronique est instituée. Elle peut associer ou consulter toute personne indépendante disposant d'une expertise dans les domaines couverts par l'opération de vote.

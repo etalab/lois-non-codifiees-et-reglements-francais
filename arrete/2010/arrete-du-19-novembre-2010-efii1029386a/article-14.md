@@ -1,0 +1,3 @@
+# Article 14
+
+Dans les circonscriptions des chambres de commerce et d'industrie territoriales mentionnées à l'annexe I du présent arrêté ainsi que dans les circonscriptions qui en ont fait le choix, les opérations de dépouillement seront réalisées avec l'assistance de moyens électroniques prévus à l'article R. 713-20 du code de commerce. La liste électorale constituant la liste d'émargement fait l'objet d'un traitement permettant de relier l'électeur à la liste par lecture optique d'un code-barre apposé sur le pli d'acheminement du vote. Ces opérations sont réalisées par la commission d'organisation des élections érigée en bureau de vote sous l'autorité de son président.

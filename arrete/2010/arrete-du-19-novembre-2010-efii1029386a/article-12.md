@@ -1,0 +1,3 @@
+# Article 12
+
+Le descellement et le dépouillement de l'urne électronique n'est possible que par l'activation conjointe de deux des trois clés de scellement et descellement différentes. Chacune de ces trois clés est confiée préalablement au scrutin à trois des membres de la commission d'organisation des élections, selon leur fonction au sein du bureau de vote, dont son président. Chaque commission d'organisation des élections garantit la conservation, l'intégrité, la confidentialité et la disponibilité des clés de scellement et descellement pendant toute la durée du scrutin, et ce jusqu'au dépouillement. Préalablement au dépouillement, l'intégrité du fichier dénommé « contenu de l'urne électronique » est constatée publiquement.
