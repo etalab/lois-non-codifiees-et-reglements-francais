@@ -9,4 +9,3 @@
 - [Article AOC Muscat de Mireval](article-aoc-muscat-de-mireval.md)
 - [Article AOC Muscat du Cap Corse](article-aoc-muscat-du-cap-corse.md)
 - [Article AOC  Muscat (Minervois)](article-aoc-muscat-minervois.md)
-- [Article AOC Rasteau](article-aoc-rasteau.md)
