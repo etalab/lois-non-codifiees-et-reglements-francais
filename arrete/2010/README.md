@@ -595,6 +595,7 @@
 - [Arrêté du 8 juillet 2010 (SASH1018363A)](arrete-du-8-juillet-2010-sash1018363a)
 - [Arrêté du 8 juillet 2010 (SASP1007832A)](arrete-du-8-juillet-2010-sasp1007832a)
 - [Arrêté du 8 juillet 2010 (SASV1018201A)](arrete-du-8-juillet-2010-sasv1018201a)
+- [Arrêté du 8 juin 2006 (AGRG0601032A)](arrete-du-8-juin-2006-agrg0601032a)
 - [Arrêté du 8 juin 2009 (AGRU0912456A)](arrete-du-8-juin-2009-agru0912456a)
 - [Arrêté du 8 juin 2010 (AGRS1015868A)](arrete-du-8-juin-2010-agrs1015868a)
 - [Arrêté du 8 juin 2010 (BCRB1015075A)](arrete-du-8-juin-2010-bcrb1015075a)
