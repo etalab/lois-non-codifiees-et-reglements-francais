@@ -133,3 +133,11 @@ Paris - Miami (Etats-Unis).
 Jusqu'au 30 avril 2015 :
 
 Paris - Nairobi (Kenya).
+
+Jusqu'au 31 octobre 2015 :
+
+Paris - Saint-Martin Juliana (Antilles néerlandaises) ;
+
+Paris - Mombasa (Kenya) ;
+
+Paris - Montréal (Canada).

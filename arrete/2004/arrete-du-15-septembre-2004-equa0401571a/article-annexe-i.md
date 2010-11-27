@@ -542,6 +542,48 @@ Paris-Shanghai.
 
 Paris-Wuhan.
 
+République populaire de Chine (jusqu'au 31/12/2012)
+
+Paris - Changchun.
+
+Paris - Changsha.
+
+Paris - Chongqing.
+
+Paris - Dalian.
+
+Paris - Dayong.
+
+Paris - Fuzhou.
+
+Paris - Guilin.
+
+Paris - Haikou.
+
+Paris - Hangzhou.
+
+Paris - Harbin.
+
+Paris - Ningbo.
+
+Paris - Qingdao.
+
+Paris - Sanya.
+
+Paris - Shantou.
+
+Paris - Shenyang.
+
+Paris - Shenzhen.
+
+Paris - Xi'an.
+
+Paris - Yantai.
+
+Paris - Yiwu.
+
+Paris - Zhengzhou.
+
 Roumanie
 
 Paris-Bucarest.

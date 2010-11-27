@@ -69,3 +69,7 @@ Jusqu'au 31 août 2015
 Paris-Batna (Algérie).
 
 Paris - Bagdad (Irak).
+
+Jusqu'au 1er octobre 2015 :
+
+Mulhouse - Bejaia (Algérie).
