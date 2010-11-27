@@ -1409,19 +1409,27 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
-<td valign="top" width="149">
-<p>Pin de Salzmann.</p>
-</td>
-<td valign="top" width="168">
-<p>
-<i>Pinus nigra Arn. ssp clusiana Clem.</i>
+<td>
+<p>Pin de Salzmann. <br/>
 </p>
 </td>
-<td valign="top" width="252">
-<p>PCL901-Région méditerranéenne.</p>
+<td>
+<p align="left">
+<em>Pinus nigra Arn. ssp clusiana Clem</em>.</p>
 </td>
-<td valign="top" width="140">
-<p align="center">PCL901</p>
+<td>PCL901-Cévennes-Grands Causses.</td>
+<td>
+<p align="center"> PCL901</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p>PCL902-Pyrénées-Orientales-Corbières.</p>
+</td>
+<td>
+<p align="center"> PCL902</p>
 </td>
 </tr>
 <tr>
