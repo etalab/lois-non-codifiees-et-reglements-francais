@@ -1,21 +1,13 @@
 # Article 2
 
-La direction zonale des compagnies républicaines de sécurité, dirigée par le directeur zonal assisté par le directeur zonal adjoint et un ou plusieurs chargés de mission, comprend :
+La direction zonale des compagnies républicaines de sécurité, dirigée par un directeur zonal assisté d'un directeur zonal adjoint, d'un chef d'état-major et d'un ou plusieurs chargés de mission, comprend :
 
-― les services rattachés, composés :
+- l'état-major ;
 
-― du secrétariat ;
+- l'inspection technique zonale ;
 
-― de la mission de contrôle ;
+- le service des opérations, composé du bureau de l'emploi et du bureau de la sécurité routière et des missions spécialisées ;
 
-― le service des opérations, composé :
+- le service d'appui opérationnel, composé du bureau des personnels et de la formation et du bureau des finances et des moyens matériels ;
 
-― du bureau de l'emploi et de la logistique opérationnelle ;
-
-― du bureau de la sécurité routière et des missions spécialisées ;
-
-― le service d'appui opérationnel, composé :
-
-― du bureau des personnels et de la formation ;
-
-― du bureau des finances et des moyens matériels.
+- de la section des méthodes et techniques d'appui opérationnel.
