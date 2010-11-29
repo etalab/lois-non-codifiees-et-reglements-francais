@@ -1528,7 +1528,6 @@
 - [Arrêté du 18 novembre 2009 (AGRG0927403A)](arrete-du-18-novembre-2009-agrg0927403a)
 - [Arrêté du 18 novembre 2009 (AGRT0928410A)](arrete-du-18-novembre-2009-agrt0928410a)
 - [Arrêté du 18 novembre 2009 (BCFB0923684A)](arrete-du-18-novembre-2009-bcfb0923684a)
-- [Arrêté du 18 novembre 2009 (BCFS0927486A)](arrete-du-18-novembre-2009-bcfs0927486a)
 - [Arrêté du 18 novembre 2009 (DEVA0909071A)](arrete-du-18-novembre-2009-deva0909071a)
 - [Arrêté du 18 novembre 2009 (DEVP0922886A)](arrete-du-18-novembre-2009-devp0922886a)
 - [Arrêté du 18 novembre 2009 (DEVP0922889A)](arrete-du-18-novembre-2009-devp0922889a)
