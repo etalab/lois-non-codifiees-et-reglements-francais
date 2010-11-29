@@ -12,11 +12,11 @@ Responsable des opérations de communication.
 
 Responsable du secteur des affaires générales et statutaires, droit public et coordination à la direction juridique et fiscale du groupe.
 
-Responsable des affaires générales du département achats, immobilier et logistique à la direction du budget, des systèmes d'information et des moyens généraux de la Caisse des dépôts et consignations.
-
 Responsable du patrimoine forestier de la Caisse des dépôts et consignations et de l'immobilier en détention directe.
 
 Responsable des affaires générales et des partenariats extérieurs à la direction des ressources humaines de l'établissement public et du groupe financier.
+
+Responsable du département pilotage économique et budgétaire fédéral au secrétariat général de la CDC (à compter du 1er novembre 2010).
 
 _Direction bancaire_
 
