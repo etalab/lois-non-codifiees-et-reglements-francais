@@ -557,7 +557,6 @@
 - [Arrêté du 8 février 2010 (IOCC1003422A)](arrete-du-8-fevrier-2010-iocc1003422a)
 - [Arrêté du 8 février 2010 (MENH0927085A)](arrete-du-8-fevrier-2010-menh0927085a)
 - [Arrêté du 8 janvier 2010 (AGRS1000724A)](arrete-du-8-janvier-2010-agrs1000724a)
-- [Arrêté du 8 janvier 2010 (AGRT0931002A)](arrete-du-8-janvier-2010-agrt0931002a)
 - [Arrêté du 8 janvier 2010 (AGRT0931281A)](arrete-du-8-janvier-2010-agrt0931281a)
 - [Arrêté du 8 janvier 2010 (AGRT1000172A)](arrete-du-8-janvier-2010-agrt1000172a)
 - [Arrêté du 8 janvier 2010 (AGRT1000958A)](arrete-du-8-janvier-2010-agrt1000958a)
