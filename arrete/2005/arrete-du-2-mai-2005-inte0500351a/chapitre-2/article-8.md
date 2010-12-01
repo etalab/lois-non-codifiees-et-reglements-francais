@@ -2,7 +2,7 @@
 
 Organisation de l'examen.
 
-Les candidats doivent être présentés par un centre de formation agréé.
+Les candidats doivent être présentés par un centre de formation. Avant le début de l'examen, les candidats doivent se munir d'un document original justifiant leur identité.
 
 Les candidats ajournés à un examen précédent présentent leur fiche d'évaluation remise à l'issue des épreuves.
 

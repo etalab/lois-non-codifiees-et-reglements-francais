@@ -1,12 +1,12 @@
 # Article 15
 
-Dispositions transitoires.
+Dispositions particulières.
 
 1. A compter du ler janvier 2006, les prétendants aux emplois d'agent, de chef d'équipe et de chef des services de sécurité incendie doivent être titulaires des diplômes mentionnés dans le présent arrêté.
 
 Les titulaires des diplômes délivrés en application des arrêtés du 18 mai 1998 relatifs à la qualification du personnel permanent des services de sécurité incendie des établissements recevant du public et des immeubles de grande hauteur obtenus avant le 31 décembre 2005 peuvent cependant accéder aux emplois et aux sessions de recyclage ou de remise à niveau mentionnés dans le présent arrêté. Ils doivent, au préalable, être titulaires du diplôme de secourisme et de la qualification H0B0 pour les agents et les chefs d'équipes.
 
-2. Les personnes titulaires des diplômes délivrés en application des arrêtés du 18 mai 1998 précités ne pouvant justifier depuis trois ans d'aucune activité visée par cet arrêté doivent se soumettre à une remise à niveau pour accéder à l'emploi (annexe V).
+2. Les personnes précitées ne pouvant justifier d'au moins 1 607 heures de l'activité réglementée par le présent arrêté sur les trente-six derniers mois doivent se soumettre à une remise à niveau pour accéder à l'emploi (annexe V). Les candidats à la remise à niveau SSIAP 1 ou SSIAP 2 doivent au préalable être déclarés aptes physiquement. Cette aptitude doit être attestée par un certificat médical datant de moins de trois mois conformément à l'annexe VII du présent arrêté.
 
 3. Les agents, chefs d'équipes, chefs des services de sécurité incendie en fonction au 1er janvier 2006 ont jusqu'au 1er janvier 2009 pour répondre aux obligations du présent arrêté en ce qui concerne le recyclage, l'obtention du diplôme de secourisme et de la qualification H0B0 pour les agents et les chefs d'équipes. Le premier recyclage des personnels des services de sécurité incendie en exercice, conformément aux arrêtés du 18 mai 1998 précités, entraînera la délivrance du diplôme par équivalence conformément à l'article 11 du présent arrêté.
 

@@ -36,4 +36,4 @@ Les courriers émanant des centres agréés doivent comporter le numéro d'agré
 
 La liste des centres agréés fait l'objet d'une publication au recueil des actes administratifs de la préfecture.
 
-Les dossiers de demande de renouvellement doivent être adressés au préfet du département deux mois, au moins, avant la date anniversaire du précédent agrément.
+Les dossiers de demande de renouvellement doivent être adressés, dans les mêmes conditions qu'une demande initiale, au préfet du département deux mois, au moins, avant la date anniversaire du précédent agrément.

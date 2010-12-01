@@ -6,3 +6,4 @@
 - [Chapitre 3 : Les centres de formation.](chapitre-3)
 - [Chapitre 4 : Application.](chapitre-4)
 - [Article 17](article-17.md)
+- [Annexes](annexes)
