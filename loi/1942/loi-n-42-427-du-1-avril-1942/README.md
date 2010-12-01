@@ -5,4 +5,3 @@
 - [Titre III : Permis de circulation.](titre-iii)
 - [Titre IV : Titres des bateaux de plaisance et engins de sport.](titre-iv)
 - [Titre V : Droits attachés aux titres de navigation.](titre-v)
-- [Titre VI : Timbres des titres de navigation.](titre-vi)

@@ -1,0 +1,3 @@
+# Article 16
+
+Lorsque la réalisation d'une infrastructure relève simultanément de la compétence de plusieurs maîtres d'ouvrage, parmi lesquels l'établissement public « Société du Grand Paris », et qu'il est fait usage de la faculté, reconnue par le II de l'article 2 de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée, de transférer la maîtrise d'ouvrage de l'opération à l'un des maîtres d'ouvrage, il appartient à l'établissement public « Société du Grand Paris », lorsque les maîtres d'ouvrage sont exclusivement des établissements publics de l'Etat ou des entités détenues ou contrôlées par l'Etat, de désigner le maître d'ouvrage de l'opération.

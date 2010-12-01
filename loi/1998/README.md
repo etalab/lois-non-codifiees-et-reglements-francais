@@ -53,4 +53,3 @@
 - [Loi n° 98-78 du 11 février 1998 (MAEX9700047L)](loi-n-98-78-du-11-fevrier-1998-maex9700047l)
 - [Loi n° 98-992 du 5 novembre 1998 (MAEX9800072L)](loi-n-98-992-du-5-novembre-1998-maex9800072l)
 - [Loi n° 98-993 du 5 novembre 1998 (MAEX9800083L)](loi-n-98-993-du-5-novembre-1998-maex9800083l)
-- [Loi n°98-69 du 6 février 1998 (EQUX9700139L)](loi-n98-69-du-6-fevrier-1998-equx9700139l)

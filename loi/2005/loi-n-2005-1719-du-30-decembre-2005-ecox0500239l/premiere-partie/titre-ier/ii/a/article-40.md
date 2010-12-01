@@ -282,6 +282,6 @@ III.-Pour la collectivité territoriale de Corse, la compensation financière de
 
 IV.-Paragraphe modificateur.
 
-V.-Le montant de la compensation prévu par l'article 1er-2 de l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France est pris en compte pour le calcul de la compensation prévue par l'article 1er-3 de la même ordonnance.
+V.-(Abrogé).
 
 VI.-Si le produit de taxe intérieure de consommation sur les produits pétroliers attribué pour une année donnée à une région en application des fractions de tarifs dont elle bénéficie pour cette même année représente un montant inférieur à son droit à compensation pour l'année considérée, tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée, la différence fait l'objet d'une attribution à due concurrence d'une part du produit de la taxe intérieure de consommation sur les produits pétroliers revenant à l'Etat.

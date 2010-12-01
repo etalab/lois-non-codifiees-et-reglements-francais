@@ -67,4 +67,3 @@
 - [Loi n° 96-985 du 12 novembre 1996 (TASX9600026L)](loi-n-96-985-du-12-novembre-1996-tasx9600026l)
 - [Loi n° 96-987 du 14 novembre 1996 (AVIX9600044L)](loi-n-96-987-du-14-novembre-1996-avix9600044l)
 - [Loi n°96-1077 du 11 décembre 1996 (MJSX9601748L)](loi-n96-1077-du-11-decembre-1996-mjsx9601748l)
-- [Loi n°96-151 du 26 février 1996 (EQUX9500055L)](loi-n96-151-du-26-fevrier-1996-equx9500055l)

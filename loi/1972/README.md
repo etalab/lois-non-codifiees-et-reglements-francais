@@ -11,4 +11,3 @@
 - [Loi n° 72-650 du 11 juillet 1972](loi-n-72-650-du-11-juillet-1972)
 - [Loi n° 72-657 du 13 juillet 1972](loi-n-72-657-du-13-juillet-1972)
 - [Loi n° 72-662 du 13 juillet 1972](loi-n-72-662-du-13-juillet-1972)
-- [Loi n°72-1202 du 23 décembre 1972](loi-n72-1202-du-23-decembre-1972)

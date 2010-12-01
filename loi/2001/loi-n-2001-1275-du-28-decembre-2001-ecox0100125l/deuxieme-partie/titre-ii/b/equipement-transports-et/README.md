@@ -1,3 +1,0 @@
-# EQUIPEMENT, TRANSPORTS ET LOGEMENT.
-
-- [Article 150](article-150.md)

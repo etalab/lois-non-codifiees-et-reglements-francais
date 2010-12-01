@@ -186,4 +186,5 @@
 - [Décret n°2005-631 du 30 mai 2005 (EQUP0500229D)](decret-n2005-631-du-30-mai-2005-equp0500229d)
 - [Décret n°2005-632 du 30 mai 2005 (EQUP0500230D)](decret-n2005-632-du-30-mai-2005-equp0500230d)
 - [Décret n°2005-636 du 30 mai 2005 (DEVO0530036D)](decret-n2005-636-du-30-mai-2005-devo0530036d)
+- [Décret n°2005-305 du 31 mars 2005 (EQUX0500025D)](decret-n2005-305-du-31-mars-2005-equx0500025d)
 - [Décret n°93-977 du 31 juillet 1993 (JUSC9320356D)](decret-n93-977-du-31-juillet-1993-jusc9320356d)
