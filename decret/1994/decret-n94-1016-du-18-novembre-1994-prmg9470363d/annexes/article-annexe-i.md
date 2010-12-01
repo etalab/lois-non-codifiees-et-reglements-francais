@@ -20,8 +20,6 @@ Secrétaires administratifs d'administration centrale.
 
 Secrétaires administratifs des services déconcentrés de l'agriculture.
 
-Secrétaires administratifs de l'intérieur et de l'outre-mer.
-
 Secrétaires administratifs de l'Office national des forêts.
 
 Secrétaires d'administration de la Caisse des dépôts et consignations.
@@ -47,8 +45,6 @@ Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
 Secrétaires administratifs du ministère de la défense.
 
 Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
-
-Secrétaires administratifs des juridictions financières.
 
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
 
