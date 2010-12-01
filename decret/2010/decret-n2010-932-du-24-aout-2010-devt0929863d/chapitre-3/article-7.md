@@ -1,0 +1,3 @@
+# Article 7
+
+L'autorité organisatrice peut, par une convention qui est communiquée à l'ARAF, accepter la réalisation d'une desserte intérieure par l'entreprise ferroviaire souhaitant exploiter un service de transport ferroviaire international de voyageurs. Elle peut, sous réserve que l'ARAF ait estimé que la desserte envisagée serait de nature à compromettre l'équilibre économique d'un contrat de service public, prévoir une contribution au profit de l'autorité organisatrice afin de neutraliser, dans les limites strictement nécessaires, les incidences de la desserte sur cet équilibre. Les modalités de calcul de cette contribution sont déterminées sur une base objective, transparente et non discriminatoire.

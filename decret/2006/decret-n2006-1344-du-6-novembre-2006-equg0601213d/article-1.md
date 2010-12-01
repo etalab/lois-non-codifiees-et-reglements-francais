@@ -1,6 +1,6 @@
 # Article 1
 
-Dans les conditions prévues à l'article 104 de la loi du 13 août 2004 susvisée, sont transférés aux départements du Calvados, des Côtes-d'Armor, des Pyrénées-Atlantiques, des Pyrénées-Orientales et de la Vendée, à l'exception des services ou parties de services chargés de la police portuaire dans les ports inscrits sur la liste prévue à l'article L. 302-4 du code des ports maritimes :
+Dans les conditions prévues à l'article 104 de la loi du 13 août 2004 susvisée, sont transférés aux départements du Calvados, des Côtes-d'Armor, des Pyrénées-Atlantiques, des Pyrénées-Orientales et de la Vendée, à l'exception des services ou parties de services chargés de la police portuaire dans les ports inscrits sur la liste prévue à l'article L. 5331-6 du code des transports :
 
 a) Les services ou parties de services mis à disposition du département selon les modalités de l'article 6 de la loi du 2 décembre 1992 susvisée pour l'exercice des compétences dans les ports départementaux maritimes ;
 

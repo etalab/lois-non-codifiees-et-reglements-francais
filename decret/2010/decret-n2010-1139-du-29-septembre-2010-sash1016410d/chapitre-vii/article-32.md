@@ -1,0 +1,3 @@
+# Article 32
+
+Les agents qui, à la date de publication du présent décret, ont été admis à suivre une formation dans le cadre de la promotion professionnelle, en application du décret du 21 août 2008 susvisé, en vue de l'obtention du diplôme d'Etat d'infirmier, du diplôme d'Etat de bloc opératoire, de puéricultrice ou d'infirmier anesthésiste peuvent, à leur demande, à l'issue de leur réussite à l'un des concours sur titres prévus aux articles 6, 7 et 8, être recrutés dans le corps correspondant à la qualification obtenue régi par le décret du 30 novembre 1988 susvisé. Ils en font la demande dans les trente jours de la proclamation des résultats du concours.

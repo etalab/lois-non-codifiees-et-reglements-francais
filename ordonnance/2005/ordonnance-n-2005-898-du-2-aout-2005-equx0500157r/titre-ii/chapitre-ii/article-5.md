@@ -1,7 +1,5 @@
 # Article 5
 
-Les terrains d'assiette des voies ferrées portuaires sont intégrés dans le domaine public maritime ou fluvial affecté au port.
-
 L'incorporation de voies ferrées portuaires dans le réseau ferré national ou le retranchement de telles voies, à la suite de la convention ou de l'arrêté de répartition, est prononcé par décret.
 
 Les terrains faisant l'objet de l'intégration, des incorporations ou des retranchements sont apportés en pleine propriété selon le cas à Réseau ferré de France ou à l'autorité portuaire.

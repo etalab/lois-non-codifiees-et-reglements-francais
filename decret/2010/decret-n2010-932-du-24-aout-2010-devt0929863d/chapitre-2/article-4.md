@@ -1,0 +1,9 @@
+# Article 4
+
+I. ― Le ministre chargé des transports, l'entreprise ferroviaire exploitante ou candidate à l'exploitation ou toute entreprise ferroviaire intéressée peut saisir l'ARAF afin qu'elle vérifie si un service de transport ferroviaire de voyageurs qui franchit au moins une fois la frontière entre la France et un autre Etat membre de l'Union européenne et comporte des dessertes intérieures constitue un service de transport international au sens de l'article 1er. A cet effet, l'ARAF prend notamment en considération la part du chiffre d'affaires et du trafic de voyageurs provenant des dessertes intérieures ainsi que la longueur de ces services.
+
+Le ministre chargé des transports dispose d'un délai d'un mois à compter de la réception du dossier mentionné à l'article 2 pour saisir l'ARAF en application du présent article.
+
+II. ― L'ARAF informe sans délai l'entreprise ferroviaire concernée et le ministre chargé des transports de toute saisine. Elle rend un avis dans un délai de deux mois à compter de celle-ci. Le ministre chargé des transports peut demander à l'ARAF de préciser dans son avis les modalités de limitation des dessertes intérieures de nature à permettre au service considéré de respecter les conditions fixées au 3° du I de l'article 1er. Elle notifie l'avis au ministre chargé des transports, à l'auteur de la saisine, à l'entreprise ferroviaire intéressée ainsi qu'au gestionnaire d'infrastructure.
+
+III. ― Le ministre chargé des transports dispose d'un délai d'un mois à compter de la réception de l'avis de l'ARAF pour prononcer, sous réserve que l'Autorité ait estimé que la condition mentionnée au I n'était pas remplie et au vu de son avis, la limitation des dessertes intérieures prévue au deuxième alinéa de l'article 17-2 de la loi du 30 décembre 1982 susvisée. Lorsque l'Autorité estime que la condition mentionnée au I est remplie, le ministre chargé des transports accorde le droit d'accès.

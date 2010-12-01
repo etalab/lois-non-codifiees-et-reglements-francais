@@ -14,8 +14,6 @@ Les schémas de mise en valeur de la mer élaborés par l'Etat sont soumis à en
 
 Ils font l'objet d'une révision dans un délai de dix ans à compter de leur approbation.
 
-En l'absence de schéma de mise en valeur de la mer ou de chapitre individualisé valant schéma de mise en valeur de la mer au sein du schéma de cohérence territoriale, les décisions de création et d'extension de port sont prises par le préfet sur proposition de la collectivité territoriale intéressée et après avis du ou des conseils régionaux concernés.
-
 Les dispositions du présent article s'appliquent aux schémas de mise en valeur de la mer qui, à la date de publication de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux, n'ont pas fait l'objet d'une mise à disposition du public.
 
 Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
