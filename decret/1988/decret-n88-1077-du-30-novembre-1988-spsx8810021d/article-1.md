@@ -1,6 +1,6 @@
 # Article 1
 
-Le présent décret s'applique aux personnels infirmiers des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, répartis en quatre corps, trois corps classés en catégorie A :
+Le présent décret s'applique aux personnels infirmiers des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée qui continuent à relever du présent décret, en application de l'article 37 de la loi n° 2010-751 du 5 juillet 2010 relative à la rénovation du dialogue social et comportant diverses dispositions relatives à la fonction publique. Ils sont, répartis en quatre corps, trois corps classés en catégorie A :
 
 1° Le corps des infirmiers de bloc opératoire ;
 

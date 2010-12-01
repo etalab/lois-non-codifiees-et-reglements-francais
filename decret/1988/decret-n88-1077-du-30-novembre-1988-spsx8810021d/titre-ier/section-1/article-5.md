@@ -2,12 +2,4 @@
 
 La classe supérieure est accessible à compter du 1er janvier 2002 dans les conditions prévues à l'article 69 (1°) de la loi du 9 janvier 1986 susvisée aux infirmiers de classe normale parvenus au 5e échelon de cette classe et comptant au moins dix ans de services effectifs dans un ou plusieurs des corps mentionnés au présent décret.
 
-La proportion des infirmiers de classe supérieure par rapport à l'effectif total du corps des infirmiers est fixée ainsi qu'il suit :
-
-34 % à compter du 1er juillet 2007 ;
-
-37 % à compter du 1er janvier 2008 ;
-
-40 % à compter du 1er janvier 2009.
-
-Toutefois, lorsque ce dernier pourcentage n'est pas applicable, une nomination au moins peut être prononcée.
+Le nombre maximum de promotions pouvant être prononcées dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée est calculé, chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2007-1191 du 3 août 2007 relatif à l'avancement de grade dans certains corps de la fonction publique hospitalière.
