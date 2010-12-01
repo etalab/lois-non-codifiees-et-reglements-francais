@@ -1,3 +1,0 @@
-# TITRE V : VOIES DE RECOURS ADMINISTRATIFS.
-
-- [Article 28](article-28.md)
