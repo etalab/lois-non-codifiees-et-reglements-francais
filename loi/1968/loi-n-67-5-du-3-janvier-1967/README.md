@@ -2,4 +2,3 @@
 
 - [Chapitre Ier : Individualisation et francisation des navires](chapitre-ier)
 - [Chapitre VI : Hypothèques maritimes](chapitre-vi)
-- [Chapitre VII : Responsabilité du propriétaire du navire](chapitre-vii)
