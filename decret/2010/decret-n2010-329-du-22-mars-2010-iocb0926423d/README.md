@@ -6,3 +6,4 @@
 - [CHAPITRE IV : AVANCEMENT](chapitre-iv)
 - [CHAPITRE V : DISPOSITIONS DIVERSES](chapitre-v)
 - [CHAPITRE VI : DISPOSITIONS TRANSITOIRES ET FINALES](chapitre-vi)
+- [Article Annexe](article-annexe.md)
