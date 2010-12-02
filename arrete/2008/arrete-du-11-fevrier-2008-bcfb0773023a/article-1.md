@@ -36,6 +36,8 @@ Etablissement public du musée d'Orsay et du musée de l'Orangerie ;
 
 Etablissement public du musée du Louvre ;
 
+Etablissement public du musée national Picasso-Paris ;
+
 Etablissement public du musée du quai Branly ;
 
 Etablissement public du château, du musée et du domaine national de Versailles ;
