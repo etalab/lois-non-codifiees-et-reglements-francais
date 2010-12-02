@@ -2,7 +2,7 @@
 
 LISTE DES DIPLÔMES, FORMATIONS, CYCLES D'ÉTUDES ET DE FORMATION PERMETTANT DE BÉNÉFICIER DE BOURSES D'ENSEIGNEMENT SUPÉRIEUR SUR CRITÈRES SOCIAUX ET D'AIDES D'URGENCE ANNUELLE
 
-I. - Direction générale des patrimoines
+I.-Direction générale des patrimoines
 
 1° Service de l'architecture :
 
@@ -16,146 +16,138 @@ Formations assurées dans 18 écoles nationales supérieures d'architecture (ENS
 
 2° Service des musées de France :
 
-1. Le diplôme de premier cycle de l'Ecole du Louvre.
+- le diplôme de premier cycle de l'Ecole du Louvre ;
 
-2. Le diplôme de muséologie de l'Ecole du Louvre.
+- le diplôme de muséologie de l'Ecole du Louvre ;
 
-3. Le diplôme de deuxième cycle de l'Ecole du Louvre.
+- le diplôme de deuxième cycle de l'Ecole du Louvre.
 
 II. - Direction générale de la création artistique
 
 1° Service des arts plastiques :
 
-Toutes les formations dispensées dans les écoles d'art sous contrôle pédagogique du ministère chargé de la culture :
+Les formations dispensées dans les établissements d'enseignement supérieur d'arts plastiques sous contrôle pédagogique du ministère chargé de la culture suivantes :
 
-a) Les diplômes nationaux toutes options et toutes mentions :
+a) Les diplômes nationaux dans les options art, design et communication, et dans toutes les mentions :
 
-- diplôme national supérieur d'expressions plastiques (DNSEP)  créateur concepteur d'expressions plastiques  ;
+- le diplôme national supérieur d'expressions plastiques (DNSEP)  créateur concepteur d'expressions plastiques  ;
 
-- diplôme national d'arts plastiques (DNAP) ;
+- le diplôme national d'arts plastiques (DNAP) ;
 
-- diplôme national d'arts et techniques (DNAT)  réalisateur-designer .
+- le diplôme national d'arts et techniques (DNAT)  réalisateur-designer .
 
 b) Les diplômes d'école :
 
-- diplômes de l'Ecole nationale supérieure des beaux-arts (ENSBA) ;
+- les diplômes de l'Ecole nationale supérieure des beaux-arts (ENSBA) ;
 
-- diplômes de l'Ecole nationale supérieure des arts décoratifs (ENSAD) ;
+- le diplôme de l'Ecole nationale supérieure des arts décoratifs (ENSAD) ;
 
-- diplômes de l'Ecole nationale supérieure de création industrielle (ENSCI - Les Ateliers) ;
+- les diplômes de l'Ecole nationale supérieure de création industrielle (ENSCI - Les ateliers) ;
 
-- diplômes de l'Ecole nationale supérieure de la photographie à Arles ;
+- le diplôme de l'Ecole nationale supérieure de la photographie à Arles ;
 
-- diplômes du Studio national des arts contemporains du Fresnoy (Tourcoing) ;
+- le diplôme du Studio national des arts contemporains Le Fresnoy, à Tourcoing.
 
-- autres diplômes agréés.
+c) Les autres diplômes d'écoles agréées.
 
 2° Service du spectacle vivant :
 
-A.-Les formations supérieures en musique
+A. - Les formations supérieures en musique :
 
-1° Le diplôme de formation supérieure (DFS) :
+1° Le diplôme de deuxième cycle supérieur délivré par le CNSMD de Paris et le CNSMD de Lyon ;
 
-- de musicien interprète ;
+2° Le diplôme national supérieur professionnel de musicien (DNSPM), délivré par :
 
-- de chef d'orchestre ;
+- le CNSMD de Paris ;
 
-- de musicologue (recherche, création, composition) ;
+- le CNSMD de Lyon ;
 
-- de musicien-ingénieur du son,
+- le CESMD de Poitou-Charentes ;
 
-délivré par le Conservatoire national supérieur de musique et de danse (CNSMD) de Paris.
+- le CESMD de Toulouse ;
 
-2° Le diplôme national d'études supérieures musicales (DNESM) :
+- le pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt ;
 
-- de musicien interprète ;
+- le pôle d'enseignement supérieur de la musique de Seine-Saint-Denis ;
 
-- de chef de chœur ;
+- le pôle d'enseignement supérieur de la musique de Bourgogne ;
 
-- de musicologue (recherche, création, composition),
+- le pôle d'enseignement supérieur des arts de Strasbourg (en préfiguration) ;
 
-délivré par le Conservatoire national supérieur de musique et de danse (CNSMD) de Lyon.
+3° Le diplôme de formation supérieure (DFS) délivré par le CNSMD de Paris ;
 
-3° Le diplôme national supérieur professionnel (DNSP) de musicien :
+4° Le diplôme national d'études supérieures musicales (DNESM) délivré par le CNSMD de Lyon.
 
-Délivré par les établissements d'enseignement supérieur habilités par le ministère de la culture et de la communication en application de l'arrêté du 1er février 2008 relatif au diplôme national supérieur professionnel de musicien et fixant les conditions d'habilitation des établissements d'enseignement supérieur à délivrer ce diplôme.
+B. - Les formations supérieures en danse :
 
-B.-Les formations supérieures en danse
+1° Le diplôme de formation supérieure (DFS) de notateur du mouvement délivré par le CNSMD de Paris ;
 
-1° Le diplôme de formation supérieure (DFS) :
+2° Le DNSP de danseur délivré par :
 
-- de danseur interprète ;
+- le CNSMD de Paris ;
 
-- de notateur du mouvement,
+- le CNSMD de Lyon ;
 
-délivré par le CNSMD de Paris
+- l'Ecole nationale supérieure de danse de Marseille ;
 
-2° Le diplôme national d'études supérieures chorégraphiques de danseur interprète (DNESC) :
+- l'Ecole supérieure de danse de Cannes-Rosella Hightower ;
 
-Délivré par le CNSMD de Lyon.
+- l'école de danse de l'Opéra national de Paris ;
 
-3° Le diplôme national supérieur professionnel (DNSP) de danseur :
+- le Centre national de danse contemporaine d'Angers.
 
-Délivré par les établissements d'enseignement supérieur habilités par le ministère de la culture et de la communication en application de l'arrêté du 23 décembre 2008 relatif au diplôme national supérieur professionnel de danseur et fixant les conditions d'habilitation des établissements d'enseignement supérieur à délivrer ce diplôme.
+C. - Les formations supérieures en théâtre :
 
-4° Le certificat de fin d'études chorégraphiques :
+Le DNSP de comédien délivré par :
 
-Délivré par l'Ecole nationale supérieure de danse de Marseille.
+- le Conservatoire national supérieur d'art dramatique (CNSAD) ;
 
-C.-Les formations supérieures en théâtre
+- l'Ecole supérieure d'art dramatique de Strasbourg (TNS) ;
 
-1° Le diplôme national supérieur professionnel (DNSP) de comédien :
+- l'école régionale d'acteurs de Cannes ;
 
-Délivré par les établissements d'enseignement supérieur habilités par le ministère de la culture et de la communication en application de l'arrêté du 1er février 2008 relatif au diplôme national supérieur professionnel de comédien et fixant les conditions d'habilitation des établissements d'enseignement supérieur à délivrer ce diplôme.
+- l'école de la Comédie de Saint-Etienne ;
 
-2° Le certificat de fin d'études :
+- l'école du Théâtre national de Bretagne ;
 
-Délivré par l'école supérieure d'art dramatique du Théâtre national de Strasbourg.
+- l'académie théâtrale-Ecole supérieure de théâtre du Limousin ;
 
-D.-Les formations supérieures des arts du cirque
+- l'Ecole professionnelle supérieure d'art dramatique du Nord-Pas-de-Calais ;
 
-1° Le diplôme des métiers des arts du cirque (DMA) :
+- l'Ecole supérieure de théâtre de Bordeaux en Aquitaine ;
 
-Délivré par :
+- l'Ecole supérieure d'art dramatique de Montpellier ;
+
+- le pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt.
+
+D. - Les formations supérieures des arts du cirque :
+
+1° Le diplôme des métiers des arts du cirque (DMA) délivré par :
 
 - le Centre national des arts du cirque (CNAC) ;
 
-- l'Académie Fratellini.
+- l'académie Fratellini ;
 
-2° Le brevet artistique des techniques du cirque (BATC) :
+2° Le brevet artistique des techniques du cirque (BATC) délivré par l'Ecole nationale contemporaine des arts du cirque de Rosny-sous-Bois.
 
-Délivré par l'Ecole nationale des arts du cirque de Rosny-sous-Bois.
+E. - Les formations supérieures des arts de la marionnette :
 
-E.-Les formations supérieures des arts de la marionnette
+Le diplôme des métiers des arts de la marionnette (DMA) délivré par l'Institut International de la marionnette.
 
-1° Le diplôme des métiers des arts de la marionnette (DMA) :
-
-Délivré par l'Institut international de la marionnette.
-
-F.-Les formations supérieures d'enseignants
-
-de la musique et de la danse
+F. - Les formations supérieures d'enseignants de la musique et de la danse :
 
 1° Le certificat d'aptitude aux fonctions de :
 
 - directeur des conservatoires à rayonnement régional et départemental délivré par le CNSMD de Paris ;
 
-- professeur de musique.
+- professeur de musique délivré par les CNSMD de Paris et de Lyon ;
 
-délivré par les CNSMD de Paris et de Lyon.
+- professeur de danse délivré par le CNSMD de Lyon ;
 
-- professeur de danse,
+2° Le diplôme d'Etat de professeur de musique dont la formation est dispensée par les centres de formation des enseignants de la danse et de la musique (CEFEDEM), les centres d'études supérieures de musique et de danse (CESMD) et le département de formation des enseignants de la musique (DEFEDEM) ;
 
-délivré par le CNSMD de Lyon.
-
-2° Le diplôme d'Etat de professeur de musique :
-
-Dont la formation est dispensée par les centres de formation des enseignants de la danse et de la musique (CEFEDEM), les centres d'études supérieures de musique et de danse (CESMD) et le département de formation des enseignants de la musique (DEFEDEM).
-
-3° Le diplôme d'Etat de professeur de danse :
-
-Dont la formation est dispensée par les centres habilités par le ministère de la culture et de la communication.
+3° Le diplôme d'Etat de professeur de danse dont la formation est dispensée par les centres (CEFEDEM et centres privés) habilités par le ministère de la culture et de la communication.
 
 III. - Centre national de la cinématographie
 
-Le diplôme délivré par la Fémis.
+Le diplôme délivré par la FEMIS.
