@@ -2241,7 +2241,6 @@
 - [Arrêté du 24 juin 2009 (SASR0914507A)](arrete-du-24-juin-2009-sasr0914507a)
 - [Arrêté du 24 juin 2009 (SASR0914509A)](arrete-du-24-juin-2009-sasr0914509a)
 - [Arrêté du 24 mars 2009 (BCFB0904379A)](arrete-du-24-mars-2009-bcfb0904379a)
-- [Arrêté du 24 mars 2009 (DEFH0824617A)](arrete-du-24-mars-2009-defh0824617a)
 - [Arrêté du 24 mars 2009 (ECED0907139A)](arrete-du-24-mars-2009-eced0907139a)
 - [Arrêté du 24 mars 2009 (ECEI0906617A)](arrete-du-24-mars-2009-ecei0906617a)
 - [Arrêté du 24 mars 2009 (IOCA0902450A)](arrete-du-24-mars-2009-ioca0902450a)
