@@ -1261,7 +1261,6 @@
 - [Décret n°2009-492 du 29 avril 2009 (ECEC0908430D)](decret-n2009-492-du-29-avril-2009-ecec0908430d)
 - [Décret n°2009-493 du 29 avril 2009 (MTST0908155D)](decret-n2009-493-du-29-avril-2009-mtst0908155d)
 - [Décret n°2009-494 du 29 avril 2009 (SASH0903555D)](decret-n2009-494-du-29-avril-2009-sash0903555d)
-- [Décret n°2009-807 du 29 juin 2009 (PRLX0914538D)](decret-n2009-807-du-29-juin-2009-prlx0914538d)
 - [Décret n°2009-809 du 29 juin 2009 (ESRS0911517D)](decret-n2009-809-du-29-juin-2009-esrs0911517d)
 - [Décret n°2009-926 du 29 juillet 2009 (JUSC0916237D)](decret-n2009-926-du-29-juillet-2009-jusc0916237d)
 - [Décret n°2009-929 du 29 juillet 2009 (PRMX0917773D)](decret-n2009-929-du-29-juillet-2009-prmx0917773d)
