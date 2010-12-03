@@ -147,19 +147,19 @@ Les enveloppes financières consacrées par l'Union d'économie sociale du logem
 <p align="center">90 </p>
 </td>
 <td width="53">
-<p align="center">135 </p>
+<p align="center">147,5 </p>
 </td>
 <td width="53">
-<p align="center">135 </p>
+<p align="center">147,5 </p>
 </td>
 <td width="53">
 <p align="center">110 </p>
 </td>
 <td width="53">
-<p align="center">165 </p>
+<p align="center">177,5 </p>
 </td>
 <td width="61">
-<p align="center">165 </p>
+<p align="center">177,5 </p>
 </td>
 </tr>
 <tr>
@@ -321,19 +321,19 @@ Les enveloppes financières consacrées par l'Union d'économie sociale du logem
 <p align="center">27 </p>
 </td>
 <td width="53">
-<p align="center">45 </p>
+<p align="center">32,5 </p>
 </td>
 <td width="53">
-<p align="center">90 </p>
+<p align="center">77,5 </p>
 </td>
 <td width="53">
 <p align="center">33 </p>
 </td>
 <td width="53">
-<p align="center">55 </p>
+<p align="center">42,5 </p>
 </td>
 <td width="61">
-<p align="center">110 </p>
+<p align="center">97,5 </p>
 </td>
 </tr>
 <tr>
