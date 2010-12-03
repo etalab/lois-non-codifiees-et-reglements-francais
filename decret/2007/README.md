@@ -1509,7 +1509,6 @@
 - [Décret n°2007-1687 du 29 novembre 2007 (AGRP0769801D)](decret-n2007-1687-du-29-novembre-2007-agrp0769801d)
 - [Décret n°2007-1688 du 29 novembre 2007 (MLVU0752784D)](decret-n2007-1688-du-29-novembre-2007-mlvu0752784d)
 - [Décret n°2007-1689 du 29 novembre 2007 (MLVU0758261D)](decret-n2007-1689-du-29-novembre-2007-mlvu0758261d)
-- [Décret n°2007-492 du 29 mars 2007 (PMEA0720014D)](decret-n2007-492-du-29-mars-2007-pmea0720014d)
 - [Décret n°2007-494 du 29 mars 2007 (PMEA0720015D)](decret-n2007-494-du-29-mars-2007-pmea0720015d)
 - [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
 - [Décret n°84-238 du 29 mars 1984](decret-n84-238-du-29-mars-1984)
