@@ -1,0 +1,3 @@
+# Article 82
+
+Par dérogation aux dispositions prévues à l'article R. 712-22 du code de commerce, les chambres du réseau pourront voter leur budget primitif 2011 sur la seule base du produit prévisionnel de la taxe additionnelle à la taxe professionnelle des entreprises 2009, tel qu'il figure dans le dernier budget rectificatif 2010 des chambres concernées, auquel sera appliquée une réfaction de 2,4 %. Si des ajustements sont nécessaires en cours d'année, ils seront fixés dans les budgets rectificatifs des chambres, conformément à la procédure de concertation prévue à l'article R. 712-22 de ce code.
