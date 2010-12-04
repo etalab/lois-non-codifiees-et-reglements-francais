@@ -1,6 +1,6 @@
 # Article 6
 
-I. ― La sous-direction « finances-budget-comptabilité » :
+I. ― La sous-direction finances-budget-comptabilité :
 
 1. Participe à la préparation du projet de budget du soutien par les bases de défense et en suit l'exécution. A la demande des responsables budgétaires des armées, elle les assiste de la même manière ;
 
@@ -16,12 +16,18 @@ I. ― La sous-direction « finances-budget-comptabilité » :
 
 7. Procède au règlement des opérations de dépenses et de recettes centralisées ; elle peut réaliser l'exécution des opérations financières et comptables nécessaires à l'activité des forces ;
 
-8. Participe avec la sous-direction « réglementation-études juridiques » à l'administration des prises maritimes et au traitement des événements de mer.
+8. Participe avec la sous-direction réglementation-études juridiques à l'administration des prises maritimes et au traitement des événements de mer ;
 
-II. ― Pour l'exercice de ses attributions, la sous-direction « finances » comprend trois bureaux :
+9. Fait réaliser les opérations de liquidation, de paiement, de mandatement et de contrôle de la rémunération du personnel militaire pour lequel elle s'est vu confier cette responsabilité ;
 
-1. Le bureau « budget du soutien par les bases de défense » ;
+10. Fait réaliser les opérations préparatoires à la liquidation de la paye du personnel civil pour lequel elle s'est vu confier cette responsabilité ;
 
-2. Le bureau « fonction comptable » ;
+11. Fait assurer le traitement, la liquidation, le paiement, le mandatement et le contrôle des déplacements temporaires, des changements de résidence et des indemnités, primes et allocations individuelles du personnel civil et militaire pour lequel elle s'est vu confier cette responsabilité, ainsi que de ses ayants droit et ayants cause.
 
-3. Le bureau « organisation financière ».
+II. ― Pour l'exercice de ses attributions, la sous-direction finances comprend trois bureaux :
+
+1. Le bureau budget du soutien par les bases de défense ;
+
+2. Le bureau fonction comptable ;
+
+3. Le bureau organisation financière.

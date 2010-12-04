@@ -38,7 +38,7 @@ n) Le centre interarmées de la solde ;
 
 o) Le service exécutant de la solde unique ;
 
-p) Le centre de paiement des autres droits individuels ;
+p) Le service ministériel opérateur des droits individuels ;
 
 q) Le centre interarmées d'administration des opérations ;
 
