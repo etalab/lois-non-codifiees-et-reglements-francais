@@ -10,6 +10,6 @@ Le dossier de candidature doit comprendre :
 
 4° Tous justificatifs permettant d'apprécier si le candidat remplit les conditions prévues par les articles 43-3 et 43-4 du décret du 5 juillet 1973 modifié susvisé.
 
-Ces documents doivent être accompagnés, si besoin est, de leur traduction en langue française par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel.
+Ces documents doivent être accompagnés, si besoin est, de leur traduction en langue française par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel ou par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
 
 Ils sont produits en original ou en copie certifiée conforme.

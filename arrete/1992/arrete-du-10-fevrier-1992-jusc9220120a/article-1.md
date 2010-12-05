@@ -8,4 +8,4 @@ Les étudiants étrangers qui sollicitent leur admission dans un centre régiona
 
 3° Les diplômes, certificats ou autres titres dont le candidat est titulaire.
 
-Les pièces produites devront être accompagnées, le cas échéant, de leur traduction en langue française par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel.
+Les pièces produites devront être accompagnées, le cas échéant, de leur traduction en langue française                            par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel ou par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.

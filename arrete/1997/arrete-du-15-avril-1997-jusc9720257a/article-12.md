@@ -12,7 +12,7 @@ Le dossier de candidature doit comprendre, en original ou en copie certifiée co
 
 3° Une copie de l'arrêté du garde des sceaux portant nomination du candidat aux fonctions de notaire ;
 
-4° Tous justificatifs permettant d'apprécier si le candidat remplit les conditions prévues par l'article 43-6 (1° à 6°) du décret du 5 juillet 1973 modifié susvisé, sur lequel il fonde sa demande, accompagnés, si besoin est, de leur traduction en langue française par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel.
+4° Tous justificatifs permettant d'apprécier si le candidat remplit les conditions prévues par l'article 43-6 (1° à 6°) du décret du 5 juillet 1973 modifié susvisé, sur lequel il fonde sa demande, accompagnés, si besoin est, de leur traduction en langue française par un traducteur inscrit sur la liste nationale des experts judiciaires ou sur l'une des listes d'experts judiciaires dressées par les cours d'appel ou par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
 
 Le centre de formation vérifie la régularité formelle de la constitution du dossier, réclame le cas échéant au candidat les pièces manquantes. Il transmet le dossier au Centre national de l'enseignement professionnel notarial dans les trois mois de sa réception.
 
