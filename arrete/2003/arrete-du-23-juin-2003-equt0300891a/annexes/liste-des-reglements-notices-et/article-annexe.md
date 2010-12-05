@@ -1,25 +1,23 @@
 # Article Annexe
 
-**LISTE DES RÈGLEMENTS ET TEXTES**
+LISTE DES RÈGLEMENTS ET TEXTES
 
 Section 1
 
-Règlement et textes relatifs à la sécurité
-
-des circulations sur le réseau ferré national
+Règlement et textes relatifs à la sécurité des circulations sur le réseau ferré national
 
 <table>
 <tbody>
 <tr>
-<th>
+<td align="center">
 <br/>RÉFÉRENCE<br/>
-</th>
-<th>
+</td>
+<td align="center">
 <br/>VERSION<br/>
-</th>
-<th>
+</td>
+<td align="center">
 <br/>INTITULÉ<br/>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -29,16 +27,18 @@ des circulations sur le réseau ferré national
 <br/>07/12/06<br/>
 </td>
 <td align="center">
-<br/>Exigences relatives au chargement, à la composition, au freinage, à la vitesse limite et à l'équipement des trains pour circuler sur le RFN.<br/>
+<br/>Exigences relatives au chargement, à la composition, au freinage, à la vitesse limite et à l'équipement des trains pour circuler sur le RFN<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
+<td align="center">
+<br/>Règlement 002<br/>
+</td>
 <td align="center">
 <br/>19/09/05<br/>
 </td>
 <td align="center">
-<br/>Montée et descente des voyageurs dans un train - prévention du risque de chute.<br/>
+<br/>Montée et descente des voyageurs dans un train - Prévention du risque de chute <br/>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ des circulations sur le réseau ferré national
 <br/>13/02/06<br/>
 </td>
 <td align="center">
-<br/>Isolement ou dérangement des systèmes de sécurité embarqués.<br/>
+<br/>Isolement ou dérangement des systèmes de sécurité embarqués<br/>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ des circulations sur le réseau ferré national
 <br/>26/08/05<br/>
 </td>
 <td align="center">
-<br/>Généralités.<br/>
+<br/>Généralités<br/>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ des circulations sur le réseau ferré national
 <br/>05/10/05<br/>
 </td>
 <td align="center">
-<br/>Signaux - titre Ier : signalisation au sol.<br/>
+<br/>Signaux - Titre Ier : Signalisation au sol<br/>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ des circulations sur le réseau ferré national
 <br/>13/04/05<br/>
 </td>
 <td align="center">
-<br/>Arrêt d'un train par un signal carré, un guidon d'arrêt ou un sémaphore fermé.<br/>
+<br/>Arrêt d'un train par un signal carré, un guidon d'arrêt ou un sémaphore fermé<br/>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ des circulations sur le réseau ferré national
 <br/>15/01/03<br/>
 </td>
 <td align="center">
-<br/>Systèmes de répétition des signaux. Contrôles de vitesse et de franchissement.<br/>
+<br/>Systèmes de répétition des signaux. Contrôles de vitesse et de franchissement<br/>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ des circulations sur le réseau ferré national
 <br/>01/04/04<br/>
 </td>
 <td align="center">
-<br/>Information des conducteurs concernant les modifications de la signalisation.<br/>
+<br/>Information des conducteurs concernant les modifications de la signalisation<br/>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ des circulations sur le réseau ferré national
 <br/>20/03/91<br/>
 </td>
 <td align="center">
-<br/>Avis - signalisation.<br/>
+<br/>Avis - Signalisation<br/>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ des circulations sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>Service de la circulation.<br/>
+<br/>Service de la circulation<br/>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ des circulations sur le réseau ferré national
 <br/>18/10/06<br/>
 </td>
 <td align="center">
-<br/>Protection des voies principales.<br/>
+<br/>Protection des voies principales<br/>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ des circulations sur le réseau ferré national
 <br/>14/04/06<br/>
 </td>
 <td align="center">
-<br/>Circulation des trains.<br/>
+<br/>Circulation des trains<br/>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ des circulations sur le réseau ferré national
 <br/>15/01/03<br/>
 </td>
 <td align="center">
-<br/>Conditions d'exercice de la fonction de conducteur et prescriptions concernant plus spécialement les conducteurs.<br/>
+<br/>Conditions d'exercice de la fonction de conducteur et prescriptions concernant plus spécialement les conducteurs<br/>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ des circulations sur le réseau ferré national
 <br/>30/03/04<br/>
 </td>
 <td align="center">
-<br/>Directives d'application de l'IN 1516.<br/>
+<br/>Directives d'application de l'IN 1516<br/>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ des circulations sur le réseau ferré national
 <br/>02/07/01<br/>
 </td>
 <td align="center">
-<br/>Régime normal d'exploitation des lignes à double voie.<br/>
+<br/>Régime normal d'exploitation des lignes à double voie<br/>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ des circulations sur le réseau ferré national
 <br/>13/06/02<br/>
 </td>
 <td align="center">
-<br/>Voie unique temporaire. Mouvements à contre-voie.<br/>
+<br/>Voie unique temporaire. Mouvements à contre-voie<br/>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ des circulations sur le réseau ferré national
 <br/>02/06/91<br/>
 </td>
 <td align="center">
-<br/>Installations de contre-sens (ICS).<br/>
+<br/>Installations de contre-sens (ICS)<br/>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ des circulations sur le réseau ferré national
 <br/>02/07/01<br/>
 </td>
 <td align="center">
-<br/>Régime général d'exploitation des lignes à voie unique.<br/>
+<br/>Régime général d'exploitation des lignes à voie unique<br/>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ des circulations sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>Règlement des lignes à voie unique à trafic restreint.<br/>
+<br/>Règlement des lignes à voie unique à trafic restreint<br/>
 </td>
 </tr>
 <tr>
@@ -236,7 +236,7 @@ des circulations sur le réseau ferré national
 <br/>01/09/05<br/>
 </td>
 <td align="center">
-<br/>Manœuvres.<br/>
+<br/>Manœuvres<br/>
 </td>
 </tr>
 <tr>
@@ -247,18 +247,18 @@ des circulations sur le réseau ferré national
 <br/>06/12/06<br/>
 </td>
 <td align="center">
-<br/>Evolutions.<br/>
+<br/>Evolutions<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>N 1700<br/>
+<br/>IN 1700<br/>
 </td>
 <td align="center">
 <br/>24/09/99<br/>
 </td>
 <td align="center">
-<br/>Gardiennage des passages à niveau.<br/>
+<br/>Gardiennage des passages à niveau<br/>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ des circulations sur le réseau ferré national
 <br/>24/09/99<br/>
 </td>
 <td align="center">
-<br/>Mesures en relation avec le service des passages à niveau.<br/>
+<br/>Mesures en relation avec le service des passages à niveau<br/>
 </td>
 </tr>
 <tr>
@@ -280,18 +280,7 @@ des circulations sur le réseau ferré national
 <br/>05/03/96<br/>
 </td>
 <td align="center">
-<br/>Prescriptions d'exploitation des installations de traction électrique par caténaires : 1 500 volts courant continu ou 25 000 volts courant alternatif monophasé.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>IN 1727<br/>
-</td>
-<td align="center">
-<br/>15/07/97<br/>
-</td>
-<td align="center">
-<br/>Dispositions concernant le tracé des horaires des trains entiers transportant des marchandises dangereuses.<br/>
+<br/>Prescriptions d'exploitation des installations de traction électrique par caténaires : 1 500 volts courant continu ou 25 000 volts courant alternatif monophasé<br/>
 </td>
 </tr>
 <tr>
@@ -302,18 +291,7 @@ des circulations sur le réseau ferré national
 <br/>12/06/95<br/>
 </td>
 <td align="center">
-<br/>Transports exceptionnels.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>IN 1732<br/>
-</td>
-<td align="center">
-<br/>13/03/97<br/>
-</td>
-<td align="center">
-<br/>Transport des marchandises dangereuses. Mesures à prendre en cas d'accident et d'incident.<br/>
+<br/>Transports exceptionnels<br/>
 </td>
 </tr>
 <tr>
@@ -324,7 +302,7 @@ des circulations sur le réseau ferré national
 <br/>26/09/76<br/>
 </td>
 <td align="center">
-<br/>Direction et surveillance de la circulation des trains - régulation.<br/>
+<br/>Direction et surveillance de la circulation des trains - Régulation<br/>
 </td>
 </tr>
 <tr>
@@ -335,7 +313,7 @@ des circulations sur le réseau ferré national
 <br/>22/01/03<br/>
 </td>
 <td align="center">
-<br/>Procédures de communication à l'usage des agents chargés de l'application du règlement général de sécurité.<br/>
+<br/>Procédures de communication à l'usage des agents chargés de l'application du règlement général de sécurité<br/>
 </td>
 </tr>
 <tr>
@@ -346,7 +324,7 @@ des circulations sur le réseau ferré national
 <br/>26/08/05<br/>
 </td>
 <td align="center">
-<br/>Signaux - titre II : signalisation de cabine de type transmission voie machine (TVM).<br/>
+<br/>Signaux - Titre II : Signalisation de cabine de type transmission voie machine (TVM)<br/>
 </td>
 </tr>
 <tr>
@@ -357,7 +335,7 @@ des circulations sur le réseau ferré national
 <br/>07/01/03<br/>
 </td>
 <td align="center">
-<br/>Enregistreurs des événements liés à la sécurité des circulations.<br/>
+<br/>Enregistreurs des événements liés à la sécurité des circulations<br/>
 </td>
 </tr>
 <tr>
@@ -368,18 +346,18 @@ des circulations sur le réseau ferré national
 <br/>26/08/05<br/>
 </td>
 <td align="center">
-<br/>Arrêt d'un train par un repère ou un jalon de manœuvre - signalisation de cabine de type transmission voie machine (TVM).<br/>
+<br/>Arrêt d'un train par un repère ou un jalon de manœuvre - Signalisation de cabine de type transmission voie machine (TVM)<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR 0131<br/>
+<br/>FR. 0131<br/>
 </td>
 <td align="center">
 <br/>25/10/01<br/>
 </td>
 <td align="center">
-<br/>Véhicules soumis à certaines restrictions : manœuvre - classement dans les trains.<br/>
+<br/>Véhicules soumis à certaines restrictions : Manœuvre - Classement dans les trains<br/>
 </td>
 </tr>
 </tbody>
@@ -387,22 +365,20 @@ des circulations sur le réseau ferré national
 
 Section 2
 
-Textes relatifs à la sécurité du personnel
-
-sur le réseau ferré national
+Textes relatifs à la sécurité du personnel sur le réseau ferré national
 
 <table>
 <tbody>
 <tr>
-<th>
+<td align="center">
 <br/>RÉFÉRENCE<br/>
-</th>
-<th>
+</td>
+<td align="center">
 <br/>VERSION<br/>
-</th>
-<th>
+</td>
+<td align="center">
 <br/>INTITULÉ<br/>
-</th>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -412,7 +388,7 @@ sur le réseau ferré national
 <br/>09/06/93<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : protection des agents pendant leur intervention sur matériel roulant.<br/>
+<br/>Sécurité du personnel : protection des agents pendant leur intervention sur matériel roulant<br/>
 </td>
 </tr>
 <tr>
@@ -423,7 +399,7 @@ sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : prescriptions à observer par les agents travaillant sur les lignes de traction électrique à courant continu 1 500 V.<br/>
+<br/>Sécurité du personnel : prescriptions à observer par les agents travaillant sur les lignes de traction électrique à courant continu 1 500 V<br/>
 </td>
 </tr>
 <tr>
@@ -434,7 +410,7 @@ sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : prescriptions à observer par les agents travaillant sur les lignes de traction électrique à courant alternatif monophasé 25 000 V-50 Hz.<br/>
+<br/>Sécurité du personnel : prescriptions à observer par les agents travaillant sur les lignes de traction électrique à courant alternatif monophasé 25 000 V-50 Hz<br/>
 </td>
 </tr>
 <tr>
@@ -445,7 +421,7 @@ sur le réseau ferré national
 <br/>16/09/86<br/>
 </td>
 <td align="center">
-<br/>RSPRF : généralités, définitions, déplacements ou stationnement dans l'enceinte du chemin de fer.<br/>
+<br/>RSPRF : généralités, définitions, déplacements ou stationnement dans l'enceinte du chemin de fer<br/>
 </td>
 </tr>
 <tr>
@@ -456,7 +432,7 @@ sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>RSPRF : mesures de sécurité à prendre lors des travaux sur les voies ou à proximité.<br/>
+<br/>RSPRF : mesures de sécurité à prendre lors des travaux sur les voies ou à proximité<br/>
 </td>
 </tr>
 <tr>
@@ -467,7 +443,7 @@ sur le réseau ferré national
 <br/>16/09/86<br/>
 </td>
 <td align="center">
-<br/>RSPRF : règles de sécurité à appliquer par les agents chargés du nettoyage et du graissage des appareils (aiguilles...).<br/>
+<br/>RSPRF : règles de sécurité à appliquer par les agents chargés du nettoyage et du graissage des appareils(aiguilles,...)<br/>
 </td>
 </tr>
 <tr>
@@ -478,7 +454,7 @@ sur le réseau ferré national
 <br/>24/05/86<br/>
 </td>
 <td align="center">
-<br/>RSPRF : règles de sécurité à appliquer par les mécaniciens appelés à intervenir sur certaines installations de sécurité.<br/>
+<br/>RSPRF : règles de sécurité à appliquer par les mécaniciens appelés à intervenir sur certaines installations de sécurité<br/>
 </td>
 </tr>
 <tr>
@@ -489,7 +465,7 @@ sur le réseau ferré national
 <br/>06/07/09<br/>
 </td>
 <td align="center">
-<br/>RSPRF : prescriptions particulières applicables sur les voies parcourues à une vitesse supérieure à 160 km/h sans dépasser 200 km/h.<br/>
+<br/>RSPRF : prescriptions particulières applicables sur les voies parcourues à une vitesse supérieure à 160 km/h sans dépasser 200 km/h<br/>
 </td>
 </tr>
 <tr>
@@ -500,7 +476,7 @@ sur le réseau ferré national
 <br/>28/02/06<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : dispositions à observer pour assurer la sécurité du personnel effectuant des manœuvres ou participant à l'accompagnement des trains de travaux.<br/>
+<br/>Sécurité du personnel : dispositions à observer pour assurer la sécurité du personnel effectuant des manœuvres ou participant à l'accompagnement des trains de travaux<br/>
 </td>
 </tr>
 <tr>
@@ -511,7 +487,7 @@ sur le réseau ferré national
 <br/>18/01/00<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : prévention des risques dus à l'électricité. Dispositions à observer pour prévenir les risques et assurer la sécurité du personnel stationnant, se déplaçant ou travaillant dans l'environnement des installations électriques ferroviaires.<br/>
+<br/>Sécurité du personnel : prévention des risques dus à l'électricité. Dispositions à observer pour prévenir les risques et assurer la sécurité du personnel stationnant, se déplaçant ou travaillant dans l'environnement des installations électriques ferroviaires<br/>
 </td>
 </tr>
 <tr>
@@ -522,7 +498,7 @@ sur le réseau ferré national
 <br/>24/05/07<br/>
 </td>
 <td align="center">
-<br/>RSPRF : prescriptions particulières applicables sur les lignes à grande vitesse où la vitesse des circulations ne dépasse pas 300 km/h et sur la ligne à grande vitesse Est européenne parcourue à une vitesse de 320 km/h.<br/>
+<br/>RSPRF : prescriptions particulières applicables sur les lignes à grande vitesse où la vitesse de circulation ne dépasse pas 300 km/h et sur la ligne à grande vitesse Est européenne parcourue à une vitesse de 320 km/h<br/>
 </td>
 </tr>
 <tr>
@@ -533,7 +509,7 @@ sur le réseau ferré national
 <br/>07/07/04<br/>
 </td>
 <td align="center">
-<br/>Sécurité du personnel : prévention et protection contre les risques d'irradiation et de contamination dans le transport ferroviaire des marchandises radioactives.<br/>
+<br/>Sécurité du personnel : prévention et protection contre les risques d'irradiation et de contamination dans le transport ferroviaire des marchandises radioactives<br/>
 </td>
 </tr>
 </tbody>

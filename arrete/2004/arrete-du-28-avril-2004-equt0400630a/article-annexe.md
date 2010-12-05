@@ -12,7 +12,7 @@ GÉNÉRALITÉS
 
 I-1. Introduction
 
-Le règlement de sécurité de l'exploitation du réseau ferré national définit les dispositions générales en vue d'assurer la sécurité des usagers, des personnels, des tiers et la protection de l'environnement lors de l'exploitation des lignes du réseau ferré national.
+Le règlement de sécurité de l'exploitation du réseau ferré national définit, en complément des dispositions prévues par les spécifications techniques d'interopérabilité et par le décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, les exigences en vue d'assurer la sécurité des usagers, des personnels, des tiers et la protection de l'environnement lors de l'exploitation des lignes du réseau ferré national.
 
 Ces dispositions générales sont traduites par des procédures de sécurité applicables, par les agents habilités à l'exercice des fonctions de sécurité, lors de l'exploitation du système ferroviaire.
 
@@ -30,25 +30,43 @@ Au sens du présent règlement, les éléments constitutifs du système ferrovia
 
 - l'environnement.
 
+Au sens du présent règlement, on entend par "installations de sécurité" :
+
+- les installations de signalisation, y compris les dispositifs permettant leur commande et leur contrôle ;
+
+- les appareils de voie situés sur voie principale ainsi que leurs installations de commande et de contrôle ;
+
+- les appareils de voie situés sur voie de service, enclenchés ou assurant la protection des voies principales, ainsi que leurs installations de commande et de contrôle ;
+
+- les installations de commande et de contrôle des passages à niveau ;
+
+- les enclenchements et détecteurs nécessaires à la sécurité des circulations, y compris ceux qui sont relatifs aux passages à niveau.
+
 I-2. Des exploitants
 
 Sont exploitants sur le réseau ferré national les entreprises autorisées par le ministre chargé des transports à y assurer une ou plusieurs des missions suivantes :
 
 - la gestion du trafic et des circulations, ainsi que le fonctionnement et l'entretien des installations techniques et des installations de sécurité ;
 
-- la réalisation de services de transport par fer.
+- la réalisation de services de transport public par fer.
 
-La première catégorie de missions est exercée par le gestionnaire de l'infrastructure ou le gestionnaire d'infrastructure délégué (appelé gestionnaire de l'infrastructure dans la suite de ce règlement).
+La première catégorie de missions est exercée, suivant les conditions et les modalités prévues par l'article 1er de la loi n° 97-135 du 13 février 1997 portant création de l'établissement public "Réseau ferré de France" en vue du renouveau du transport ferroviaire, par le gestionnaire de l'infrastructure ou par le gestionnaire d'infrastructure délégué au sens de l'article 9 du décret du 19 octobre 2006 précédemment cité ou par la personne titulaire de la convention mentionnée au second alinéa de l'article 1er de la loi précitée. Dans la suite de ce règlement, ces entités sont indistinctement dénommées "gestionnaire de l'infrastructure" pour l'application des dispositions les concernant.
 
-La seconde catégorie de missions est assurée par des entreprises ferroviaires.
+La seconde catégorie de missions est assurée par les entreprises ferroviaires au sens de l'article 9 du décret du 19 octobre 2006 cité.
 
-Compte tenu de la nature des installations équipant le réseau ferré national, le gestionnaire de l'infrastructure établit à l'intention de tous les exploitants les règles, principes, procédures et dispositions d'exploitation complémentaires au présent règlement, nécessaires pour assurer la sécurité de l'exploitation. Ces règles sont publiées par arrêté du ministre chargé des transports.
+Chaque exploitant assure la sécurité de l'exploitation correspondant aux éléments du système ferroviaire placés sous son contrôle (installations, matériels roulants, procédures, personnels) dans le respect :
 
-Chaque exploitant établit et met en oeuvre les consignes et instructions opérationnelles à l'intention de son personnel découlant des dispositions du présent règlement, ainsi que des dispositions complémentaires établies par le gestionnaire de l'infrastructure et publiées par le ministre chargé des transports en vertu des dispositions de l'alinéa précédent.
+a) De la réglementation mentionnée à l'article 3 du décret du 19 octobre 2006 précédemment cité ;
 
-Chaque exploitant assure la sécurité de l'exploitation correspondant aux éléments du système ferroviaire placés sous son contrôle : installations ou matériels roulants, procédures, personnels.
+b) De la documentation d'exploitation du réseau ferré national mentionnée à l'article 10 de ce même décret pour les matières précisées dans la suite du présent règlement, par Réseau ferré de France dénommé ci-après RFF ;
 
-Le gestionnaire de l'infrastructure veille à la cohérence de l'ensemble.
+c) Des prescriptions émises lors de la délivrance de l'autorisation de mise en exploitation commerciale du système ou sous-système utilisé.
+
+Tout exploitant met en œuvre les exigences prévues aux quatre alinéas précédents dans le cadre de l'agrément, du certificat ou de l'attestation de sécurité mentionnés au chapitre IV du titre II du décret du 19 octobre 2006 précédemment cité. Il détermine en outre les modalités suivant lesquelles il informe :
+
+- RFF des risques que lui paraissent présenter pour la sécurité l'application de la documentation d'exploitation du réseau ferré national concernant les interfaces entre exploitants et plus généralement l'application des autres dispositions de cette documentation ;
+
+- l'Etablissement public de sécurité ferroviaire des risques que lui paraissent présenter pour la sécurité l'application des textes mentionnés aux a à c ci-avant concernant les interfaces entre exploitants et plus généralement l'application des autres dispositions de ces textes.
 
 I-3. La sécurité de l'exploitation
 
@@ -86,7 +104,7 @@ La sécurité de l'exploitation repose sur l'ensemble des dispositions que prenn
 
 - les risques prévisibles présentés par l'environnement dans lequel les trains évoluent. Ces risques peuvent être naturels (notamment les intempéries, les inondations, les vents importants), industriels (notamment chimiques, nucléaires) ou humains (notamment les actes de malveillance) et leur existence doit être connue du gestionnaire de l'infrastructure et des entreprises ferroviaires.
 
-Les exploitants tiennent compte de ces obligations pour la rédaction des dispositions qu'ils édictent en application du I-2.
+Les exploitants tiennent compte de ces obligations pour la rédaction des dispositions qu'ils édictent.
 
 I-4. Exigences générales relatives à l'exploitation
 
@@ -112,11 +130,11 @@ La documentation nécessaire à l'exploitation, notamment les procédures d'expl
 
 I-4.3. Exigence de traçabilité.
 
-Les procédures de sécurité peuvent prescrire que certaines actions menées par les personnels lors de l'exercice de leur fonction de sécurité sont enregistrées lorsque des communications sont échangées. Le gestionnaire de l'infrastructure prescrit les délais minimum de conservation des enregistrements correspondants. Lorsque ces enregistrements sont susceptibles d'être en relation avec un accident de personne, ils doivent être conservés pendant le délai légal.
+Les procédures de sécurité peuvent prescrire que certaines actions menées par les personnels lors de l'exercice de leur fonction de sécurité sont enregistrées lorsque des communications sont échangées. Lorsque ces enregistrements sont susceptibles d'être en relation avec un accident de personne, ils doivent être conservés pendant le délai légal.
 
 I-4.4. Exigences concernant les communications entre les agents.
 
-Les conditions de communication, la forme, le contenu des messages ainsi que les conditions de traçabilité sont définis par un texte établi par le gestionnaire de l'infrastructure.
+Les conditions de communication, la forme, le contenu des messages échangés dans le cadre de la gestion du trafic et des circulations, ainsi que les conditions de traçabilité sont définis, lorsqu'une spécification technique d'interopérabilité n'en a pas déjà disposé, par un texte établi par le gestionnaire de l'infrastructure.
 
 Le collationnement des communications de sécurité échangées doit être réalisé afin de s'assurer de la bonne compréhension des messages transmis.
 
@@ -130,13 +148,7 @@ La préparation et la circulation des trains
 
 II-1.1. La maintenance du matériel roulant.
 
-Un matériel roulant ne peut être exploité que si les constituants et équipements liés à la sécurité, qui le constituent ou y sont installés, respectent les schémas de maintenance et les règles de maintenance qui leur sont applicables.
-
-Un constituant ou un équipement est lié à la sécurité lorsque sa défaillance l'entraîne dans un mode de fonctionnement pouvant accentuer les risques mentionnés au point I-3. Les tâches de maintenance critiques pour la sécurité, effectuées sur ces éléments, doivent être réalisées par un agent habilité à la fonction de mainteneur du matériel roulant ou sous la direction d'un agent habilité à cette fonction si l'opération est réalisée par un autre agent. Ces tâches sont décrites par l'exploitant.
-
-L'exploitant met en place une organisation donnant l'assurance que le matériel remis à l'exploitation répond aux exigences de sécurité.
-
-Les prescriptions ci-dessus sont également applicables aux opérations de maintenance ou de dépannage effectuées pendant l'exploitation.
+Le matériel roulant est maintenu conformément aux exigences prévues par le titre III de l'arrêté du 1er juillet 2004 relatif aux exigences applicables aux matériels roulants circulant sur le réseau ferré national.
 
 II-1.2. La préparation et la composition des trains.
 
@@ -144,9 +156,9 @@ Un train est constitué soit par un ou des engins moteurs remorquant ou non des 
 
 Il doit porter en toutes circonstances une signalisation permettant de repérer ses extrémités, son sens de marche et son intégrité.
 
-Préalablement à sa mise en circulation, un train doit être préparé. Les opérations de manoeuvre éventuellement nécessaires à cette préparation sont effectuées sous la responsabilité d'un chef de la manoeuvre. Les conditions de réalisation des opérations de manoeuvre sont décrites dans un texte établi par l'exploitant en accord avec les principes fixés par le gestionnaire de l'infrastructure.
+Préalablement à sa mise en circulation, un train doit être préparé. Les opérations de manoeuvre éventuellement nécessaires à cette préparation sont effectuées sous la responsabilité d'un chef de la manoeuvre. Les conditions de réalisation des opérations de manœuvre sont décrites par l'exploitant dans ses consignes et instructions opérationnelles, établies conformément à l'article 11 du décret du 19 octobre 2006 précité, dans le respect de la documentation d'exploitation du réseau ferré national publiée par RFF.
 
-Pour pouvoir circuler, un train doit respecter l'ensemble des caractéristiques de composition, de vitesse, de freinage, d'accompagnement, d'équipement en systèmes de communication et de sécurité compatibles avec les installations techniques et de sécurité des lignes empruntées, selon les règles établies par le gestionnaire d'infrastructure.
+Pour pouvoir circuler, un train doit respecter l'ensemble des caractéristiques techniques, dimensionnelles, de vitesse, de freinage, d'équipement en systèmes de communication et de sécurité permettant d'assurer la compatibilité avec les lignes empruntées, conformément aux dispositions figurant dans le registre de l'infrastructure et dans la documentation d'exploitation du réseau ferré national publiée par RFF.
 
 La circulation d'un train est subordonnée à la vérification :
 
@@ -166,7 +178,7 @@ Ces dispositions s'appliquent sans préjudice des autres réglementations partic
 
 Les personnels chargés de ces vérifications doivent être habilités à exercer les fonctions de sécurité en rapport avec les tâches à effectuer, notamment celles d'agent formation, de reconnaisseur.
 
-L'exploitant définit les conditions dans lesquelles un train ne remplissant pas l'une au moins des conditions de circulation exigées peut être mis en circulation après l'accord des personnels du gestionnaire d'infrastructure chargés de la gestion des circulations.
+L'exploitant précise les conditions dans lesquelles un train ne remplissant pas l'une au moins des conditions de circulation exigées peut être mis en circulation dans le respect de la documentation d'exploitation du réseau ferré national publiée par RFF.
 
 Le conducteur doit être avisé de la composition du train, des conditions de freinage ainsi que des particularités de circulation qui y sont liées.
 
@@ -176,7 +188,7 @@ II-1.3. La conduite des trains.
 
 La conduite d'un train doit être assurée par du personnel habilité à la fonction de conducteur. Le conducteur doit se situer en tête dans le sens du mouvement. Dans le cas contraire, la circulation s'effectue selon les règles définies par le gestionnaire de l'infrastructure.
 
-Le conducteur doit connaître les caractéristiques de la ligne sur laquelle il circule. Si ce n'est pas le cas, une procédure établie par le gestionnaire de l'infrastructure doit décrire les conditions dans lesquelles le conducteur peut assurer la conduite du train sur cette ligne.
+Le conducteur doit connaître les caractéristiques de la ligne sur laquelle il circule. A défaut d'une telle connaissance, notamment dans le cas où le train doit emprunter un itinéraire de déviation qui fait l'objet de la fiche de détournement mentionnée à l'article 6 du décret du 19 octobre 2006 précité, une procédure établie par l'entreprise ferroviaire décrit les conditions dans lesquelles le conducteur peut assurer la conduite du train sur cette ligne dans le respect de la documentation d'exploitation du réseau ferré national publiée par RFF.
 
 Le conducteur est responsable de la conduite du train, de l'observation de la signalisation, et des mesures à prendre en cas d'incident compte tenu notamment des instructions et avis qu'il peut recevoir des autres personnels.
 
@@ -194,8 +206,6 @@ La mise en marche d'un train ne peut s'effectuer que si :
 
 - les conditions d'accès à l'infrastructure sont remplies.
 
-Si ces conditions ne sont pas remplies, une procédure établie par le gestionnaire de l'infrastructure doit prévoir les règles à respecter.
-
 II-1.5. L'accompagnement des trains.
 
 Hormis la présence de personnel prévu pour des besoins commerciaux ou techniques, notamment l'agent habilité aux fonctions d'agent de desserte, la présence d'un agent habilité à la fonction d'agent d'accompagnement est également nécessaire pour assister le conducteur :
@@ -204,13 +214,13 @@ Hormis la présence de personnel prévu pour des besoins commerciaux ou techniqu
 
 - en cas d'absence ou de non-fonctionnement des systèmes de communication entre les agents au sol et le conducteur.
 
-Les conditions de mise en place de cette mesure, en cas de dysfonctionnement en cours de route des automatismes embarqués ou des systèmes de communication, sont définies par le gestionnaire de l'infrastructure.
-
-Le gestionnaire de l'infrastructure peut prescrire des règles particulières d'accompagnement sur certaines parties du réseau.
+Les conditions de mise en place de cette mesure pour les cas de dysfonctionnement en cours de circulation des automatismes embarqués ou des systèmes de communication, sont définies par l'exploitant dans le respect de la documentation d'exploitation du réseau ferré national publiée par RFF. Le gestionnaire de l'infrastructure peut prescrire des règles particulières d'accompagnement sur certaines parties du réseau lorsque des conditions spécifiques d'évacuation des voyageurs sont prévues par des plans de secours.
 
 II-1.6. Le traitement des anomalies liées aux trains en cours de circulation.
 
-Les anomalies susceptibles de survenir à bord d'un train, y compris sur les chargements, et pouvant mettre en danger ce train, les autres trains, le personnel, les usagers, les tiers ou l'environnement, doivent être recensées. Des procédures décrivent :
+Les anomalies susceptibles de survenir à bord d'un train, y compris sur les chargements, et pouvant mettre en danger ce train, les autres trains, le personnel, les usagers, les tiers ou l'environnement, doivent être recensées.
+
+Des procédures décrivent :
 
 - les mesures d'alerte des personnels chargés des actions d'urgence appropriées ;
 
@@ -278,9 +288,9 @@ II-2.2.1.1. L'organisation de la circulation.
 
 L'organisation de la circulation en mode normal repose sur deux configurations d'exploitation des voies :
 
-- une configuration de type « orienté » : la ou les voies de la ligne ont un seul sens de circulation déterminé. La gestion des circulations est assurée par des installations et/ou des procédures prévues pour l'utilisation de ce seul sens et décrites dans un document à l'usage des personnels concernés ;
+- une configuration de type orienté : la ou les voies de la ligne ont un seul sens de circulation déterminé. La gestion des circulations est assurée par des installations et/ou des procédures prévues pour l'utilisation de ce seul sens et décrites dans un document à l'usage des personnels concernés ;
 
-- une configuration de type « non orienté » : la ou les voies peuvent être affectées indifféremment à un des deux sens de circulation. Lorsqu'un sens est affecté à une voie, le sens inverse est interdit. Le changement de sens ne peut se faire que si la voie est libre. La gestion des circulations est assurée par des installations et/ou des procédures prévues pour les deux sens et décrites dans un document à l'usage des personnels concernés.
+- une configuration de type non orienté : la ou les voies peuvent être affectées indifféremment à un des deux sens de circulation. Lorsqu'un sens est affecté à une voie, le sens inverse est interdit. Le changement de sens ne peut se faire que si la voie est libre. La gestion des circulations est assurée par des installations et/ou des procédures prévues pour les deux sens et décrites dans un document à l'usage des personnels concernés.
 
 II-2.2.1.2. Modification de la configuration d'exploitation.
 
@@ -312,7 +322,31 @@ Le passage d'un train d'une voie vers une autre est assuré au moyen d'aiguillag
 
 Des procédures établies par le gestionnaire de l'infrastructure doivent décrire les mesures à prendre si ces dispositions ne sont pas satisfaites.
 
-La manoeuvre des aiguillages incombe aux personnels habilités à la fonction d'aiguilleur.
+La manœuvre des aiguillages, lorsqu'ils sont des installations de sécurité au sens du présent réglement, incombe aux personnels habilités à la fonction d'aiguilleur, sauf dans les cas prévus au II-2.2.4 ci-après.
+
+II-2.2.4. Manœuvre des installations de sécurité simples :
+
+La manœuvre d'installations de sécurité simples peut être assurée en mode nominal de fonctionnement par des agents, autres que des aiguilleurs, désignés et habilités à cet effet.
+
+Sont considérées, sous réserve des dispositions prévues ci-après, comme des installations de sécurité simples les installations de sécurité suivantes :
+
+a) Les appareils de voie (aiguilles, verrous, taquets) situés sur voie de service, enclenchés ou assurant la protection des voies principales, ainsi que leurs installations de commande et de contrôle ;
+
+b) Les appareils de voie commandés à pied d'œuvre situés sur voie principale ainsi que les installations permettant leur manœuvre ;
+
+c) Toute autre installation de sécurité (appareils de voie, signaux, passages à niveaux...) utilisée uniquement pour effectuer la réception ou le départ d'une circulation, le remisage ou le dégarage de véhicules, des manœuvres ou la desserte d'installations terminales embranchées ou d'établissements ; lorsqu'elle permet l'accès à des voies principales, cette installation ne doit pas commander plus de quatre aiguilles enclenchées situées sur jonction de voies principales.
+
+Toutefois, ne peut être considérée comme une installation de sécurité simple toute installation enclenchée à commande informatique.
+
+Les consignes locales d'exploitation mentionnées à l'article 10 du décret du 19 octobre 2006 cité désignent pour chaque site les installations de sécurité simples, leur fonctionnement et leurs contraintes d'utilisation.
+
+Une consigne locale d'exploitation désignant comme installation de sécurité simple :
+
+- soit une installation relevant du b ci-avant dont la manœuvre fait intervenir plus de six serrures individuelles ;
+
+- soit une installation relevant du c ci-avant,
+
+ne peut être publiée qu'à la condition que l'Etablissement public de sécurité ferroviaire n'ait pas considéré, dans un délai de deux mois suivant sa transmission sous pli recommandé avec accusé de réception, que l'installation de sécurité concernée présente des risques particuliers au regard notamment des conditions d'exploitation et de son environnement. L'installation de sécurité concernée n'est alors pas considérée comme simple.
 
 II-2.3. Les systèmes de signalisation.
 
@@ -386,7 +420,7 @@ III-1.1. Prévention des risques liés aux circulations ferroviaires.
 
 Le risque lié aux circulations ferroviaires est pris en compte par la définition d'une zone de danger identifiée à proximité des voies ouvertes à la circulation des trains.
 
-Cette zone, appelée « zone dangereuse », est la zone dans laquelle une personne, l'outillage ou le matériel qu'elle manipule peuvent être heurtés par un mobile guidé sur rail ou mis en danger par l'effet de souffle provoqué par son passage.
+Cette zone, appelée zone dangereuse , est la zone dans laquelle une personne, l'outillage ou le matériel qu'elle manipule peuvent être heurtés par un mobile guidé sur rail ou mis en danger par l'effet de souffle provoqué par son passage.
 
 Elle est définie en fonction de la nature et de la vitesse des circulations ferroviaires. Sa limite n'est pas matérialisée mais identifiable.
 
@@ -488,9 +522,7 @@ La connexion et la déconnexion des liaisons électriques entre :
 
 - les installations fixes d'alimentation en énergie et les véhicules ;
 
-- les véhicules entre eux,
-
-constituent des manoeuvres d'exploitation (au sens électrique du   terme).
+- les véhicules entre eux, constituent des manoeuvres d'exploitation (au sens électrique du terme).
 
 Celles-ci ne sont possibles que si ces liaisons sont privées de tension d'alimentation ou spécialement prévues pour être connectées ou déconnectées sans risque.
 
@@ -537,3 +569,9 @@ Les exploitants prennent en compte la protection de l'environnement dans la gest
 - les mesures d'alerte et de prévention en vue de limiter les conséquences sur l'environnement d'un incident grave ou d'un accident sur le réseau ferré ;
 
 - les procédures relatives aux marchandises dangereuses et radioactives par chemin de fer lors d'un événement lié au transport ferroviaire.
+
+III-2.5. Les marchandises dangereuses :
+
+Sur les lignes concernées du réseau ferré national, les circulations sont prévues de façon à éviter, dans les tunnels ferroviaires de longueur supérieure à 1 000 mètres, les croisements de trains acheminant plus de neuf wagons transportant des marchandises dangereuses avec des trains réguliers de voyageurs. Pour l'application de cette disposition, ne sont pas pris en compte les wagons transportant des engrais solides ainsi que les wagons vides ayant transporté des marchandises dangereuses et conservant des gaz et reliquats non vidangeables.
+
+Les conditions de mise en œuvre des dispositions de la directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses concernant le transport par chemin de fer et de celles de l'annexe II de l'arrêté du 29 mai 2009 modifié relatif au transport de marchandises dangereuses par voies terrestres sont précisées, notamment en fonction de la gravité des incidents, dans la documentation d'exploitation du réseau ferré national publiée par RFF et dans le respect des dispositions de l'arrêté du 12 août 2008 pris en application de l'article 13 du décret n° 2006-1279 du 19 octobre 2006 et relatif aux plans d'intervention et de sécurité sur le réseau ferré national.
