@@ -4,7 +4,11 @@ Pour chaque candidat, les épreuves sportives se déroulent sur une demi-journé
 
 - une distance à parcourir en nage libre : il s'agit de nager en style libre, en piscine, une distance de 50 mètres, avec ou sans virage, départ plongé ou sauté des plots de départ ;
 
-- un grimper à la corde lisse : il s'agit de grimper à la corde lisse en style libre et en temps limité une seule fois une corde de 5 mètres mesurés du sol. Le départ s'effectue debout, sur un pied, à l'initiative du candidat. Le chronomètre est déclenché lorsque le deuxième pied du candidat quitte le sol. Le chronomètre est arrêté lorsque le candidat touche la marque des 5 mètres. Si le temps atteint 9 secondes pour les garçons et 15 secondes pour les filles sans que la marque des 5 mètres ne soit touchée, le candidat est arrêté et la hauteur grimpée est prise en compte selon le barème donné. La corde est marquée tous les 50 centimètres de 1,5 mètre à 6 mètres ;
+- une épreuve de tractions et d'abdominaux :
+
+- tractions : il s'agit de fléchir de manière simultanée les bras en pronation jusqu'à ce que le menton soit au-dessus de la barre puis de redescendre jusqu'à la position bras tendus. La distance entre les mains doit correspondre à la largeur des épaules du sujet. Un maximum de tractions doit être exécuté sans limite de temps ;
+
+- abdominaux : il s'agit de réaliser une flexion du tronc jusqu'au contact des coudes avec les cuisses puis de revenir à la position de départ sans que les épaules ni la tête ne touchent le sol. Le sujet est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds en appui contre un mur ou sur une chaise, sont tenus par un partenaire ou bloqués contre un espalier. Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum. La position des mains, des coudes et des bras doit rester inchangée tout au long de l'épreuve. Un maximum de répétitions doit être exécuté en deux minutes ;
 
 - une course de vitesse : il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide de starting blocks ;
 

@@ -1,638 +1,745 @@
 # Article 3
 
 Les barèmes de cotation des épreuves sportives sont fixés ainsi qu'il suit :
-
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">NOTES</p>
+<td>
+<p align="center">NOTES</p>
 </td>
-<td align="left" colspan="4" valign="middle">
+<td colspan="5">
 <p align="center">HOMMES</p>
 </td>
-<td align="left" colspan="4" valign="middle">
+<td colspan="5">
 <p align="center">FEMMES</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td/>
+<td>
+<p align="center">Tractions</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Grimper </p>
-<p>5 m</p>
+<td>
+<p align="center">Abdominaux</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Course </p>
-<p>50 m</p>
+<td>
+<p align="center">Course<br/>50 m </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Course </p>
-<p>3.000 m</p>
+<td>
+<p align="center">Course<br/>3 000 m </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Natation </p>
-<p>50 m</p>
+<td>
+<p align="center">Natation<br/>50 m </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Grimper </p>
-<p>5 m</p>
+<td>
+<p align="center">Tractions</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Course </p>
-<p>50 m</p>
+<td>
+<p align="center">Abdominaux</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Course </p>
-<p>3 .000 m</p>
+<td>
+<p align="center">Course<br/>50 m </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">Natation </p>
-<p>50 m</p>
+<td>
+<p align="center">Course<br/>3 000 m</p>
+</td>
+<td>
+<p align="center">Natation<br/>50 m </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">20</p>
+<td align="center">
+<br/>20<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"05</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"47</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">10'29"</p>
+<td align="center">
+<br/>6''47 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">29"6</p>
+<td align="center">
+<br/>10'29''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5"99</p>
+<td align="center">
+<br/>29''6<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"61</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">12'58"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">36"2</p>
+<td align="center">
+<br/>7''61 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">19</p>
+<td align="center">
+<br/>12'58''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"16</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6"51</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10'41"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">30"2</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6"49</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"69</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">13'16"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">37"2</p>
+<td align="center">
+<br/>36''2 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">18</p>
+<td align="center">
+<br/>19<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"27</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"56</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">10'53"</p>
+<td align="center">
+<br/>6''51 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">30"8</p>
+<td align="center">
+<br/>10'41''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"04</p>
+<td align="center">
+<br/>30''2<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"77</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">13'37"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">38"4</p>
+<td align="center">
+<br/>7''69 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">17</p>
+<td align="center">
+<br/>13'16''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"41</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6"61</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">11'06"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">31"6</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"63</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"86</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">13'59"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">39"7</p>
+<td align="center">
+<br/>37''2 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">16</p>
+<td align="center">
+<br/>18<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"56</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"65</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">11'21"</p>
+<td align="center">
+<br/>6''56 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">32"3</p>
+<td align="center">
+<br/>10'53''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"28</p>
+<td align="center">
+<br/>30''8<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"96</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">14'23"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">41"1</p>
+<td align="center">
+<br/>7''77 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">15</p>
+<td align="center">
+<br/>13'37''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"73</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6"70</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">11'36"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">33"1</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"97</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"07</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14'49"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">42"7</p>
+<td align="center">
+<br/>38''4 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">14</p>
+<td align="center">
+<br/>17<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4"93</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"82</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">11'53"</p>
+<td align="center">
+<br/>6''61 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">35"1</p>
+<td align="center">
+<br/>11'06''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">9"73</p>
+<td align="center">
+<br/>31''6<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"18</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">15'17"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">44"5</p>
+<td align="center">
+<br/>7''86 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">13</p>
+<td align="center">
+<br/>13'59''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5"16</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6"89</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12'10"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">36"5</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10"55</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"31</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">15'48"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">46"5</p>
+<td align="center">
+<br/>39''7 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">12</p>
+<td align="center">
+<br/>16<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5"43</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"97</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">12'29"</p>
+<td align="center">
+<br/>6''65 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">38"0</p>
+<td align="center">
+<br/>11'21''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">11"44</p>
+<td align="center">
+<br/>32''3<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"44</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">16'21"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">48"8</p>
+<td align="center">
+<br/>7''96 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">11</p>
+<td align="center">
+<br/>14'23''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5"75</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"06</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12'50"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">39"7</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">12"40</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"58</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16'58"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">51"3</p>
+<td align="center">
+<br/>41''1 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">10</p>
+<td align="center">
+<br/>15<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"13</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"15</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">13'12"</p>
+<td align="center">
+<br/>6''70 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">41"7</p>
+<td align="center">
+<br/>11'36''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">13"08</p>
+<td align="center">
+<br/>33''1<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"73</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">17'37"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">54"1</p>
+<td align="center">
+<br/>8''07 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">9</p>
+<td align="center">
+<br/>14'49''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">6"60</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"25</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">13'36"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">43"9</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">13"36</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"89</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">18'19"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">57"2</p>
+<td align="center">
+<br/>42''7 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">8</p>
+<td align="center">
+<br/>14<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"19</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"36</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">14'02"</p>
+<td align="center">
+<br/>6''82 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">46"4</p>
+<td align="center">
+<br/>11'53''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">14"04</p>
+<td align="center">
+<br/>35''1<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">9"06</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">19'06"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'00"8</p>
+<td align="center">
+<br/>8''18 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">7</p>
+<td align="center">
+<br/>15'17''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"95</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"47</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14'29"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">49"1</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">14"32</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">9"25</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">19'56"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1'04"7</p>
+<td align="center">
+<br/>44''5 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">6</p>
+<td align="center">
+<br/>13<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">9"00</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"60</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">14'59"</p>
+<td align="center">
+<br/>6''89 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">52"3</p>
+<td align="center">
+<br/>12'10''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">15"00</p>
+<td align="center">
+<br/>36''5<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">9"45</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">20'51"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'09"1</p>
+<td align="center">
+<br/>8''31 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">5</p>
+<td align="center">
+<br/>15'48''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3,5 m</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7"70</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">15'30"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">56"0</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3,5 m</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">9"70</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">21'40"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1'14"0</p>
+<td align="center">
+<br/>46''5 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">4</p>
+<td align="center">
+<br/>12<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 m</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">7"88</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">16'05"</p>
+<td align="center">
+<br/>6''97 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">59"8</p>
+<td align="center">
+<br/>12'29''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 m</p>
+<td align="center">
+<br/>38''0<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">9"89</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">22'54"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'19"6</p>
+<td align="center">
+<br/>8''44 <br/>
 </td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">3</p>
+<td align="center">
+<br/>16'21''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2,5 m </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8"03</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">16'42"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1'04"2</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2,5 m</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10"14</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">24'04"</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1'25"8</p>
+<td align="center">
+<br/>48''8 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">2</p>
+<td align="center">
+<br/>11<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 m</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"20</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">17'22"</p>
+<td align="center">
+<br/>7''06 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'09"3</p>
+<td align="center">
+<br/>12'50''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 m</p>
+<td align="center">
+<br/>39''7<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">10''40</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">25'19"</p>
+<td align="center">
+<br/>/<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'32"7</p>
+<td align="center">
+<br/>8''58 <br/>
+</td>
+<td align="center">
+<br/>16'58''<br/>
+</td>
+<td align="center">
+<br/>51''3 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">1</p>
+<td align="center">
+<br/>10 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1,5 m</p>
+<td align="center">
+<br/>12 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">8"38</p>
+<td align="center">
+<br/>55 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">18'05"</p>
+<td align="center">
+<br/>7''15 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'14"9</p>
+<td align="center">
+<br/>13'12''<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1,5 m</p>
+<td align="center">
+<br/>41''7 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">10''69</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">26'42"</p>
+<td align="center">
+<br/>45 <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1'40"5</p>
+<td align="center">
+<br/>8''73 <br/>
+</td>
+<td align="center">
+<br/>17'37''<br/>
+</td>
+<td align="center">
+<br/>54''1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+<td align="center">
+<br/>7''25 <br/>
+</td>
+<td align="center">
+<br/>13'36''<br/>
+</td>
+<td align="center">
+<br/>43''9 <br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>8''89 <br/>
+</td>
+<td align="center">
+<br/>18'19''<br/>
+</td>
+<td align="center">
+<br/>57''2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>45 <br/>
+</td>
+<td align="center">
+<br/>7''36 <br/>
+</td>
+<td align="center">
+<br/>14'02''<br/>
+</td>
+<td align="center">
+<br/>46''4 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+<td align="center">
+<br/>9''06 <br/>
+</td>
+<td align="center">
+<br/>19'06''<br/>
+</td>
+<td align="center">
+<br/>1'00''8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>7''47 <br/>
+</td>
+<td align="center">
+<br/>14'29''<br/>
+</td>
+<td align="center">
+<br/>49''1 <br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>9''25 <br/>
+</td>
+<td align="center">
+<br/>19'56''<br/>
+</td>
+<td align="center">
+<br/>1'04''7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>35 <br/>
+</td>
+<td align="center">
+<br/>7''60 <br/>
+</td>
+<td align="center">
+<br/>14'59''<br/>
+</td>
+<td align="center">
+<br/>52''3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>9''45 <br/>
+</td>
+<td align="center">
+<br/>20'51''<br/>
+</td>
+<td align="center">
+<br/>1'09''1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>7''70 <br/>
+</td>
+<td align="center">
+<br/>15'30''<br/>
+</td>
+<td align="center">
+<br/>56''0 <br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>9''70 <br/>
+</td>
+<td align="center">
+<br/>21'40''<br/>
+</td>
+<td align="center">
+<br/>1'14''0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>27 <br/>
+</td>
+<td align="center">
+<br/>7''88 <br/>
+</td>
+<td align="center">
+<br/>16'05''<br/>
+</td>
+<td align="center">
+<br/>59''8 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>9''89 <br/>
+</td>
+<td align="center">
+<br/>22'54''<br/>
+</td>
+<td align="center">
+<br/>1'19''6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>24 <br/>
+</td>
+<td align="center">
+<br/>8''03 <br/>
+</td>
+<td align="center">
+<br/>16'42''<br/>
+</td>
+<td align="center">
+<br/>1'04''2 <br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>15 <br/>
+</td>
+<td align="center">
+<br/>10''14 <br/>
+</td>
+<td align="center">
+<br/>24'04''<br/>
+</td>
+<td align="center">
+<br/>1'25''8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>21 <br/>
+</td>
+<td align="center">
+<br/>8''20 <br/>
+</td>
+<td align="center">
+<br/>17'22''<br/>
+</td>
+<td align="center">
+<br/>1'09''3 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>10''40 <br/>
+</td>
+<td align="center">
+<br/>25'19''<br/>
+</td>
+<td align="center">
+<br/>1'32''7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>18 <br/>
+</td>
+<td align="center">
+<br/>8''38 <br/>
+</td>
+<td align="center">
+<br/>18'05''<br/>
+</td>
+<td align="center">
+<br/>1'14''9 <br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>10''69 <br/>
+</td>
+<td align="center">
+<br/>26'42''<br/>
+</td>
+<td align="center">
+<br/>1'40''5 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Nota : Toute performance que se trouve comprise entre deux performances différant d'un point entraîne la note correspondant à la performance inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celles de la note 1 sont notées zéro.
+Nota. - 1.L'épreuve de tractions et l'épreuve d'abdominaux sont notées chacune sur 10. Les autres épreuves sont notées sur 20.
+
+2. Toute performance qui se trouve comprise entre deux performances différant d'un point entraîne la note correspondant à la performance inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
