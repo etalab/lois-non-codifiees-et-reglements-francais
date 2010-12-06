@@ -1086,8 +1086,6 @@
 - [Arrêté du 28 juillet 2008 (MCCL0811135A)](arrete-du-28-juillet-2008-mccl0811135a)
 - [Arrêté du 28 mars 2008 (AGRP0808522A)](arrete-du-28-mars-2008-agrp0808522a)
 - [Arrêté du 28 novembre 2008 (DEFH0809872A)](arrete-du-28-novembre-2008-defh0809872a)
-- [Arrêté du 28 novembre 2008 (DEFH0827462A)](arrete-du-28-novembre-2008-defh0827462a)
-- [Arrêté du 28 novembre 2008 (DEFH0827463A)](arrete-du-28-novembre-2008-defh0827463a)
 - [Arrêté du 28 novembre 2008 (DEFH0828283A)](arrete-du-28-novembre-2008-defh0828283a)
 - [Arrêté du 28 novembre 2008 (DEVK0827532A)](arrete-du-28-novembre-2008-devk0827532a)
 - [Arrêté du 28 novembre 2008 (DEVL0827756A)](arrete-du-28-novembre-2008-devl0827756a)
