@@ -23,7 +23,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Direction des affaires juridiques <br/>
 </td>
-<td align="center">Chef du bureau  "ressources humaines"  <br/>
+<td align="center">Chef du bureau "ressources humaines" <br/>
 </td>
 </tr>
 <tr>
@@ -42,6 +42,12 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <td>
 <p align="center">Responsable du secteur "contentieux RH et affaires juridiques" </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center"> Direction du budget</p>
+</td>
+<td> Chargé de l'animation du club des gestionnaires et de la formation à la gestion financière (école de la LOLF et e-formation) </td>
 </tr>
 <tr>
 <td>

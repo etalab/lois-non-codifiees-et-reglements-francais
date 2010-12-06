@@ -55,9 +55,25 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction du budget <br/>
+<td align="center">Direction générale de l'administration et de la fonction publique<br/>
 </td>
-<td align="center">Chargé de l'animation du club des gestionnaires et de la formation à la gestion financière (école de la LOLF et e-formation) <br/>
+<td align="center">Secrétaire général</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de l'administration et de la fonction publique<br/>
+</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau des statuts particuliers et des parcours professionnels </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de l'administration et de la fonction publique</p>
+</td>
+<td>
+<p align="center">Responsable du secteur "recrutement et concours"</p>
 </td>
 </tr>
 <tr>
@@ -303,17 +319,17 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
 </td>
 <td>
-<p align="center"> Chef du bureau des affaires multilatérales et de l'OCDE </p>
+<p align="center">Chef du bureau des affaires multilatérales et de l'OCDE </p>
 </td>
 </tr>
 <tr>
-<td align="center"> Direction générale de la compétitivité, de l'industrie et des services</td>
-<td align="center"> Gestionnaire des corps spécifiques, du suivi des questions juridiques, statutaires et réglementaires au bureau des politiques des personnels de La Poste et de France Télécom  <br/>
+<td align="center">Direction générale de la compétitivité, de l'industrie et des services</td>
+<td align="center">Gestionnaire des corps spécifiques, du suivi des questions juridiques, statutaires et réglementaires au bureau des politiques des personnels de La Poste et de France Télécom <br/>
 </td>
 </tr>
 <tr>
-<td align="center">  Direction générale de la compétitivité, de l'industrie et des services</td>
-<td align="center"> Adjoint au chef du bureau des ressources humaines </td>
+<td align="center">Direction générale de la compétitivité, de l'industrie et des services</td>
+<td align="center">Adjoint au chef du bureau des ressources humaines </td>
 </tr>
 <tr>
 <td align="center">Direction générale des douanes et droits indirects <br/>
@@ -582,6 +598,22 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Secrétariat général <br/>
+</p>
+</td>
+<td>
+<p align="center">Chef de l'antenne immobilière interrégionale d'Ile-de-France</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Secrétariat général <br/>
+</p>
+</td>
+<td> Chargé de mission "ressources humaines pour les aspects SIRH" auprès du sous-directeur des ressources humaines de l'administration centrale</td>
+</tr>
+<tr>
 <td align="center">Secrétariat général <br/>
 </td>
 <td align="center">
@@ -701,6 +733,14 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Ministère de l'immigration, de l'intégration, de l'identité nationale et du codéveloppement <br/>
 </td>
 <td align="center">Chef de la mission des ressources humaines de l'administration centrale<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Mission interministérielle aux rapatriés</p>
+</td>
+<td>
+<p align="center">Secrétaire général</p>
 </td>
 </tr>
 <tr>
