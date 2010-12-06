@@ -14,7 +14,7 @@ Dans les services du ministère l'économie, de l'industrie et de l'emploi et du
 
 ― le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
-― le délégué général à l'emploi et à la formation professionnelle ;
+―           le directeur général de l'administration et de la fonction publique ;
 
 ― le directeur général des finances publiques ;
 
