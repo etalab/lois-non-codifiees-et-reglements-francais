@@ -188,7 +188,6 @@
 - [Arrêté du 4 décembre 2009 (ECED0929212A)](arrete-du-4-decembre-2009-eced0929212a)
 - [Arrêté du 4 décembre 2009 (ECEL0921806A)](arrete-du-4-decembre-2009-ecel0921806a)
 - [Arrêté du 4 décembre 2009 (ECET0927888A)](arrete-du-4-decembre-2009-ecet0927888a)
-- [Arrêté du 4 décembre 2009 (ECET0927889A)](arrete-du-4-decembre-2009-ecet0927889a)
 - [Arrêté du 4 décembre 2009 (IMIK0928100A)](arrete-du-4-decembre-2009-imik0928100a)
 - [Arrêté du 4 décembre 2009 (JUSA0929176A)](arrete-du-4-decembre-2009-jusa0929176a)
 - [Arrêté du 4 février 2009 (AGRM0902587A)](arrete-du-4-fevrier-2009-agrm0902587a)
