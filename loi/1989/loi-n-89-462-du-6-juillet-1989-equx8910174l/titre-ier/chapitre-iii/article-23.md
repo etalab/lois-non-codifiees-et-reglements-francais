@@ -14,4 +14,4 @@ Les charges locatives peuvent donner lieu au versement de provisions et doivent,
 
 Un mois avant cette régularisation, le bailleur en communique au locataire le décompte par nature de charges ainsi que, dans les immeubles collectifs, le mode de répartition entre les locataires. Durant un mois à compter de l'envoi de ce décompte, les pièces justificatives sont tenues à la disposition des locataires.
 
-Pour l'application du présent article, le coût des services assurés dans le cadre d'un contrat d'entreprise correspond à la dépense, toutes taxes comprises, acquittée par le bailleur.
+Pour l'application du présent article, le coût des services assurés dans le cadre d'un contrat d'entreprise ou d'un contrat d'achat d'électricité, d'énergie calorifique ou de gaz naturel combustible, distribués par réseaux correspond à la dépense, toutes taxes comprises, acquittée par le bailleur.

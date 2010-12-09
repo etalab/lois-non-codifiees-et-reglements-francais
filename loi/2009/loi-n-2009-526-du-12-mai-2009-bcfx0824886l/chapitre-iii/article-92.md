@@ -1,6 +1,6 @@
 # Article 92
 
-I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à procéder par ordonnances à la création de la partie législative du code des transports, du code minier et du code de l'énergie ainsi qu'à compléter le code de l'environnement pour y codifier les dispositions des lois n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et n° 2006-739 du 28 juin 2006 de programme relative à la gestion durable des matières et déchets radioactifs non reprises dans le code de l'énergie.
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à procéder par ordonnances à la création de la partie législative du code des transports, du code minier et du code de l'énergie ainsi qu'à compléter le code de l'environnement et le code de la défense pour y codifier les dispositions des lois n° 68-943 du 30 octobre 1968 relative à la responsabilité civile dans le domaine de l'énergie nucléaire, n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et n° 2006-739 du 28 juin 2006 de programme relative à la gestion durable des matières et déchets radioactifs non reprises dans le code de l'énergie.
 
 Les dispositions codifiées sont celles en vigueur au moment de la publication de l'ordonnance, sous réserve des modifications nécessaires :
 
@@ -10,6 +10,6 @@ Les dispositions codifiées sont celles en vigueur au moment de la publication d
 
 3° Pour étendre aux départements et régions d'outre-mer les dispositions ainsi codifiées issues des lois qui n'ont pas été rendues applicables à ces collectivités.
 
-II. ― Ces ordonnances sont prises dans les dix-huit mois suivant la publication de la présente loi.
+II. ― Ces ordonnances sont prises dans les vingt-quatre mois suivant la publication de la présente loi.
 
 Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance.

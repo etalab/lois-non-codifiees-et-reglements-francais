@@ -12,4 +12,8 @@ Dans le respect des dispositions législatives et réglementaires, la Commission
 
 5° La conclusion de contrats d'achat et de protocoles par les gestionnaires de réseaux publics de transport ou de distribution, en application du III de l'article 15 ;
 
-6° Les périmètres de chacune des activités comptablement séparées, les règles d'imputation comptable appliquées pour obtenir les comptes séparés et les principes déterminant les relations financières entre ces activités, conformément aux articles 25 et 26.
+6° Les périmètres de chacune des activités comptablement séparées, les règles d'imputation comptable appliquées pour obtenir les comptes séparés et les principes déterminant les relations financières entre ces activités, conformément aux articles 25 et 26 ;
+
+7° La méthode d'identification des coûts mentionnés au VII de l'article 4-1 ;
+
+8° Les règles de calcul et d'ajustement des droits des fournisseurs à l'accès régulé à l'électricité nucléaire historique mentionné au même article 4-1.

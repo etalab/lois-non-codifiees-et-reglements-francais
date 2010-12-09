@@ -8,7 +8,7 @@ Les aides accordées par le fonds de solidarité ne peuvent être soumises à au
 
 L'octroi d'une aide ne peut être subordonné à une contribution financière au fonds ou à une participation aux frais de dossier ou d'instruction de la part d'une collectivité territoriale.
 
-Il ne peut pas non plus être subordonné à une contribution financière au fonds ou à un abandon de créance ou à une participation aux frais de dossier ou d'instruction de la part du bailleur, du distributeur d'eau ou d'énergie ou de l'opérateur de services téléphoniques.
+Il ne peut pas non plus être subordonné à une contribution financière au fonds ou à un abandon de créance ou à une participation aux frais de dossier ou d'instruction de la part du bailleur, du distributeur d' eau ou du fournisseur d'énergie ou de l'opérateur de services téléphoniques.
 
 Aucune participation aux frais de dossier ou d'instruction ne peut être exigée des personnes ou familles.
 

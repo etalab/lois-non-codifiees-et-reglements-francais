@@ -48,7 +48,7 @@ IV. - La contribution tarifaire est due, à raison des contrats conclus par les 
 
 V. - Les taux de la contribution tarifaire sont fixés par les ministres chargés de l'énergie, du budget et de la sécurité sociale, après avis de la Commission de régulation de l'énergie, en fonction des besoins prévisionnels des cinq prochaines années de la Caisse nationale des industries électriques et gazières pour le financement des charges définies au I au titre respectivement des activités de transport d'électricité, de transport de gaz naturel, de distribution d'électricité et de distribution de gaz naturel. Ils sont compris :
 
-- entre 5 % et 15 % appliqués à l'assiette définie au 1° du III en ce qui concerne les consommateurs raccordés au réseau public de transport d'électricité et entre 15 % et 30 % appliqués à la même assiette en ce qui concerne les consommateurs raccordés aux réseaux publics de distribution d'électricité ;
+- entre 5 % et 15 % appliqués à l'assiette définie au 1° du III en ce qui concerne les consommateurs raccordés au réseau public de transport d'électricité ou à un réseau public de distribution d'électricité de tension supérieure ou égale à 50 kilovolts et entre 15 % et 30 % appliqués à la même assiette en ce qui concerne les autres  consommateurs raccordés aux réseaux publics de distribution d'électricité ;
 
 - entre 1 % et 10 % appliqués à la part de l'assiette définie au 2° du III qui concerne l'utilisation des réseaux de transport de gaz naturel et entre 10 % et 20 % appliqués à la part de cette même assiette qui concerne l'utilisation des réseaux publics de distribution de gaz naturel.
 
