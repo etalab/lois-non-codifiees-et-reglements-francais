@@ -1,3 +1,3 @@
 # Article 29-1
 
-Les dispositions de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, aux opérations réalisées pour l'Etat et ses établissements publics.
+L'article 1er, à l'exception de ses troisième, quatrième, cinquième, neuvième et dernier alinéas, ainsi que les articles 2 à 11 et 18 et le deuxième alinéa de l'article 19 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna aux opérations réalisées pour l'Etat et ses établissements publics, sous réserve de l'adaptation suivante :au huitième alinéa de l'article 1er, les mots : "au sens du titre Ier du livre III du code de l'urbanisme" sont remplacés par les mots : "au sens de la réglementation applicable localement".
