@@ -1,0 +1,3 @@
+# Article 2
+
+Par délégation de la ministre d'Etat, ministre des affaires étrangères et européennes, le ministre auprès de la ministre d'Etat, ministre des affaires étrangères et européennes, chargé de la coopération, préside tous les organismes relevant de ses attributions, et notamment la conférence d'orientation stratégique et de programmation créée dans le cadre du comité interministériel de la coopération internationale et du développement par le décret du 11 septembre 2000 susvisé, et le conseil d'orientation stratégique de l'Agence française de développement créé par le décret du 5 juin 2009 susvisé.
