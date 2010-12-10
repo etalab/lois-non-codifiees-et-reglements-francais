@@ -105,7 +105,6 @@
 - [Arrêté du 4 avril 2002 (INTE0200182A)](arrete-du-4-avril-2002-inte0200182a)
 - [Arrêté du 4 décembre 2002 (AGRP0202724A)](arrete-du-4-decembre-2002-agrp0202724a)
 - [Arrêté du 4 décembre 2002 (ECOP0201020A)](arrete-du-4-decembre-2002-ecop0201020a)
-- [Arrêté du 4 décembre 2002 (ECOP0201021A)](arrete-du-4-decembre-2002-ecop0201021a)
 - [Arrêté du 4 février 2002 (AGRG0200242A)](arrete-du-4-fevrier-2002-agrg0200242a)
 - [Arrêté du 4 février 2002 (MENA0200262A)](arrete-du-4-fevrier-2002-mena0200262a)
 - [Arrêté du 4 janvier 2002 (AGRG0200035A)](arrete-du-4-janvier-2002-agrg0200035a)
