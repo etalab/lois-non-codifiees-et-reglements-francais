@@ -62,6 +62,8 @@ Hôpital Nord, chemin des Bourrellys, 13015 Marseille.
 
 Service communal d'hygiène et de santé, 6-8, rue Briffaut, 13005 Marseille.
 
+Fondation hôpital Ambroise Paré, hôpital Ambroise Paré, sis 1, rue d'Eylau, 13006 Marseille.
+
 14 - Calvados
 
 Centre hospitalier universitaire (service des maladies infectieuses), niveau 16, avenue de la Côte-de-Nacre, 14033 Caen Cedex.
