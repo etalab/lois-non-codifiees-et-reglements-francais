@@ -22,7 +22,7 @@ Les titulaires de diplômes universitaires, qualifications et titres de niveau �
 
 4° Etre détaché dans le corps des professeurs des universités ;
 
-5° Appartenir à un corps de directeurs de recherche relevant du décret n° 83-1260 du 30 décembre 1983.
+5° Remplir les conditions prévues au c et d de l'article 46 (4°) du décret n° 84-431 du 6 juin 1984.
 
 Pour les sections 1 à 6 du Conseil national des universités, seuls les candidats remplissant les conditions mentionnées au 2° ou au 3° ou au 4° ou au 5° sont admis à demander leur inscription sur la liste de qualification aux fonctions de professeur des universités.
 
