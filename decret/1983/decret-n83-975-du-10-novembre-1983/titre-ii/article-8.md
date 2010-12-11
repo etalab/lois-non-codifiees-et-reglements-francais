@@ -8,6 +8,8 @@ Le conseil d'administration délibère sur :
 
 3° Les mesures générales relatives à l'organisation et au fonctionnement de l'institut, et notamment la création des instituts thématiques ;
 
+3° bis La création d'agences ou de services contribuant à l'accomplissement des missions de l'institut et la fixation de leurs règles d'organisation et de fonctionnement.
+
 4° La création de commissions scientifiques spécialisées ;
 
 5° Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 9, ses modifications ;

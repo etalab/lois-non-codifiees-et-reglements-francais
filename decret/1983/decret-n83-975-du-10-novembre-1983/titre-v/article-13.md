@@ -16,4 +16,6 @@ Elles sont consultées par le président, dans leur secteur de compétence, sur 
 
 4° Toute autre question qu'il leur soumet.
 
+Pour rendre leur avis, elles s'appuient sur les évaluations de l'Agence d'évaluation de la recherche et de l'enseignement supérieur.
+
 Elles se réunissent au moins deux fois par an sur convocation du président de l'institut ou à la demande écrite et motivée des deux tiers de leurs membres.

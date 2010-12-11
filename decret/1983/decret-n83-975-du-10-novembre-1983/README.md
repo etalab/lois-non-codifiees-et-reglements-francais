@@ -5,6 +5,7 @@
 - [Titre II : Conseil d'administration](titre-ii)
 - [Titre III : Président de l'Institut.](titre-iii)
 - [Titre IV : Instituts thématiques.](titre-iv)
+- [Titre IV bis : Agences et services autonomes](titre-iv-bis)
 - [Titre V : Conseil scientifique et commissions scientifiques spécialisées.](titre-v)
 - [Titre VI : Unités de recherche et autres formations de recherche.](titre-vi)
 - [Titre VII : Régime financier.](titre-vii)
