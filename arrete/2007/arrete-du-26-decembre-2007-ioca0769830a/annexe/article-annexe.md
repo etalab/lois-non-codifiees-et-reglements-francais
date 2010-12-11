@@ -67,19 +67,17 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des actions interministérielles et du développement durable. <br/>
-</p>
+<p align="left">Directeur de la coordination des services de l'Etat. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Yvelines <br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration. </p>
-<p align="left">Directeur du management, des moyens et de la modernisation. <br/>
-</p>
+<p align="left">Directeur du management, des moyens et de la modernisation interministérielle. </p>
 </td>
 </tr>
 <tr>
@@ -99,8 +97,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des ressources humaines et des moyens. <br/>
-</p>
+<p align="left">Directeur des relations avec les collectivités locales. </p>
 </td>
 </tr>
 <tr>
@@ -109,8 +106,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la population et de la citoyenneté. <br/>
-</p>
+<p align="left">Directeur de l'immigration et de l'intégration. </p>
 </td>
 </tr>
 <tr>
@@ -161,8 +157,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur du développement durable et des collectivités territoriales. <br/>
-</p>
+<p align="left">Directeur du respect des lois et des libertés locales. </p>
 </td>
 </tr>
 <tr>
@@ -265,27 +260,6 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </td>
 <td align="center">
 <p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation. </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Préfecture de la région d'Ile-de-France, préfecture de Paris : <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction de l'urbanisme, du logement et de l'équipement <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau de la politique sociale du logement. <br/>
-</p>
 </td>
 </tr>
 <tr>

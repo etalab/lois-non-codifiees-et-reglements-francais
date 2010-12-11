@@ -709,7 +709,6 @@
 - [Arrêté du 23 juin 1993 (MENF9305388A)](arrete-du-23-juin-1993-menf9305388a)
 - [Arrêté du 23 mars 1993 (AGRG9300435A)](arrete-du-23-mars-1993-agrg9300435a)
 - [Arrêté du 23 mars 1993 (EQUS9300577A)](arrete-du-23-mars-1993-equs9300577a)
-- [Arrêté du 23 mars 1993 (SPSC9300975A)](arrete-du-23-mars-1993-spsc9300975a)
 - [Arrêté du 23 mars 1993 (SPSC9300976A)](arrete-du-23-mars-1993-spsc9300976a)
 - [Arrêté du 23 mars 1993 (SPSS9300220A)](arrete-du-23-mars-1993-spss9300220a)
 - [Arrêté du 23 mars 1993 (TEFF9300384A)](arrete-du-23-mars-1993-teff9300384a)
