@@ -1,0 +1,3 @@
+# Article 5
+
+La formation au conseil conjugal et familial comprend 400 heures d'enseignement réparties sur deux années et deux stages de 40 heures chacun ciblés sur les activités suivantes : entretiens de conseil de soutien sur l'ensemble des problèmes liés à la sexualité, à la contraception, à l'IVG, aux maladies sexuellement transmissibles, aux relations conjugales et familiales, animations de réunions collectives, de groupes de jeunes ou d'adultes sur les questions relatives à la vie relationnelle, sexuelle et affective, participation au diagnostic de besoins nouveaux sur leur territoire d'intervention.
