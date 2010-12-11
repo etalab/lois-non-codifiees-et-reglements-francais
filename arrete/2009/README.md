@@ -1807,7 +1807,6 @@
 - [Arrêté du 21 avril 2009 (MENE0907252A)](arrete-du-21-avril-2009-mene0907252a)
 - [Arrêté du 21 avril 2009 (MENH0831101A)](arrete-du-21-avril-2009-menh0831101a)
 - [Arrêté du 21 décembre 2009 (DEFD0931159A)](arrete-du-21-decembre-2009-defd0931159a)
-- [Arrêté du 21 décembre 2009 (DEVE0929528A)](arrete-du-21-decembre-2009-deve0929528a)
 - [Arrêté du 21 décembre 2009 (DEVT0929201A)](arrete-du-21-decembre-2009-devt0929201a)
 - [Arrêté du 21 décembre 2009 (ECED0927694A)](arrete-du-21-decembre-2009-eced0927694a)
 - [Arrêté du 21 décembre 2009 (ECED0930097A)](arrete-du-21-decembre-2009-eced0930097a)
