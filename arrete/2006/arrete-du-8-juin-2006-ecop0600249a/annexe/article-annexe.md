@@ -57,7 +57,7 @@ I.-Fonctions exercées en administration centrale
 <p>Chef du service de l'inspection générale des finances </p>
 </td>
 <td>
-<p align="right">1 </p>
+<p align="center">1 </p>
 </td>
 <td>
 <p align="right">180 </p>
@@ -65,10 +65,10 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Vice-président du Conseil général de l'industrie, de l'énergie et des technologies (01 / 02 / 2009) </p>
+<p>Vice-président du Conseil général de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td>
-<p align="right">1 </p>
+<p align="center">1 </p>
 </td>
 <td>
 <p align="right">180 </p>
@@ -76,10 +76,10 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Vice-président délégué du Conseil général de l'industrie, de l'énergie et des technologies (01 / 02 / 2009) </p>
+<p>Vice-président délégué du Conseil général de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td>
-<p align="right">1 </p>
+<p align="center">1 </p>
 </td>
 <td>
 <p align="right">180 </p>
@@ -90,7 +90,7 @@ I.-Fonctions exercées en administration centrale
 <p>Chef du service du contrôle général économique et financier </p>
 </td>
 <td rowspan="2">
-<p align="right">1 </p>
+<p align="center">1 </p>
 </td>
 <td rowspan="2">
 <p align="right">160 </p>
@@ -121,7 +121,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Délégué général à l'emploi et à la formation professionnelle (01 / 01 / 2009) </td>
+<td>Délégué général à l'emploi et à la formation professionnelle </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -130,7 +130,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Délégué général adjoint à l'emploi et à la formation professionnelle (01 / 01 / 2009) </td>
+<td>Délégué général adjoint à l'emploi et à la formation professionnelle </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -139,7 +139,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Directeur général de l'administration et de la fonction publique (01 / 01 / 2009) </td>
+<td>Directeur général de l'administration et de la fonction publique </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -148,7 +148,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Directeur, adjoint au directeur général de l'administration et de la fonction publique (01 / 01 / 2009) </td>
+<td>Directeur, adjoint au directeur général de l'administration et de la fonction publique </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -157,9 +157,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général des ministères économique et financier</p>
-</td>
+<td>Directeur des ressources humaines au secrétariat général des ministères économique et financier</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -202,7 +200,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur général adjoint à la direction générale du Trésor (à compter du 27/12/2009)</p>
+<p>Directeur général adjoint à la direction générale du Trésor </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -308,7 +306,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur général de la compétitivité, de l'industrie et des services (12 / 01 / 2009) </p>
+<p>Directeur général de la compétitivité, de l'industrie et des services </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -374,23 +372,12 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur, adjoint au secrétaire général du ministère de l'économie, des finances et de l'industrie </p>
+<p>Directeur, adjoint au directeur général de la compétitivité, de l'industrie et des services </p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">160 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Directeur, adjoint au directeur général de la compétitivité, de l'industrie et des services (à compter du 12 janvier 2009) </p>
-</td>
-<td rowspan="2">
-<p align="center">1 </p>
-</td>
-<td rowspan="2">
 <p align="center">160 </p>
 </td>
 </tr>
@@ -419,15 +406,9 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service de la communication </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">130 </p>
-</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td>
@@ -508,7 +489,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef de service à la direction générale de la compétitivité, de l'industrie et des services (à compter du 12 janvier 2009) </p>
+<p>Chef de service à la direction générale de la compétitivité, de l'industrie et des services </p>
 </td>
 <td>
 <p align="center">4 </p>
@@ -518,20 +499,16 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Chef de service, délégation générale à l'emploi et à la formation professionnelle </td>
 <td>
-<p>Chef de service au secrétariat général du ministère de l'économie, des finances et de l'industrie </p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="center">3 </p>
-</td>
-<td>
-<p align="center">115 </p>
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de service à la direction générale des douanes et droits indirects</p>
-</td>
+<td>Chef de service à la direction générale des douanes et droits indirects</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -540,16 +517,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Chef de service, délégation générale à l'emploi et à la formation professionnelle (à compter du 1er janvier 2009) </td>
-<td>
-<p align="center">2 </p>
-</td>
-<td>
-<p align="center">120 </p>
-</td>
-</tr>
-<tr>
-<td>Chef de service à la direction générale de l'administration et de la fonction publique (à compter du 1er janvier 2009) </td>
+<td>Chef de service à la direction générale de l'administration et de la fonction publique </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -558,14 +526,71 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Chef de service, secrétaire général à la direction générale de la compétitivité, de l'industrie et des services </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">115</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">En charge d'un service au secrétariat général des ministères économique et financier</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Chef du service des affaires financières et immobilières</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
+</td>
+</tr>
+<tr>
+<td>Chef du service de la communication</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
+</td>
+</tr>
+<tr>
+<td>Chef du service de l'environnement professionnel </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
+</td>
+</tr>
+<tr>
+<td>Chef de la délégation à la modernisation</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">115</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
-<p>Chef de service, secrétaire général à la direction générale de la compétitivité, de l'industrie et des services (à compter du 12 janvier 2009) </p>
+<p>Chef de la délégation aux systèmes d'information</p>
 </td>
 <td rowspan="2">
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td rowspan="2">
-<p align="center">115 </p>
+<p align="center">115</p>
 </td>
 </tr>
 </tbody>
@@ -598,31 +623,16 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur au secrétariat général, en charge du département des ressources humaines </p>
-</td>
+<td>Sous-directeur des ressources humaines ministérielles</td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'informatique </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur des politiques sociales et des conditions de travail </p>
-</td>
+<td>Sous-directeur des ressources humaines de l'administration centrale</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -631,9 +641,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des ressources humaines </p>
-</td>
+<td>Sous-directeur des politiques sociales et des conditions de travail</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -642,9 +650,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la logistique </p>
-</td>
+<td>Sous-direction des affaires budgétaires et de la performance</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -653,9 +659,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'immobilier </p>
-</td>
+<td>Sous-direction politiques de communication et partenariats </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -664,14 +668,41 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Sous-direction supports, productions et événements </td>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la délégation générale à l'emploi et à la formation professionnelle (à compter du 1er janvier 2009) </p>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td>Sous-direction de l'informatique des services centraux </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td>Sous-direction cadre de vie</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">En charge d'une sous-direction relevant de la délégation générale à l'emploi et à la formation professionnelle </p>
 </td>
 <td/>
 <td/>
 </tr>
 <tr>
-<td>Sous-directeur de l'insertion et de la cohésion sociale (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur de l'insertion et de la cohésion sociale </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -680,7 +711,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur des politiques de formation et du contrôle (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur des politiques de formation et du contrôle </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -689,7 +720,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur des mutations de l'emploi et du développement de l'activité (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur des mutations de l'emploi et du développement de l'activité </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -698,7 +729,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur du service public de l'emploi (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur du service public de l'emploi </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -707,7 +738,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur du Fonds social européen (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur du Fonds social européen </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -717,13 +748,13 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la direction générale de l'administration et de la fonction publique (à compter du 1er janvier 2009) </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de l'administration et de la fonction publique </p>
 </td>
 <td/>
 <td/>
 </tr>
 <tr>
-<td>Sous-directeur de l'information et de la légistique (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur de l'information et de la légistique</td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -732,7 +763,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur des carrières et des rémunérations (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur des carrières et des rémunérations </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -741,7 +772,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur des politiques interministérielles (à compter du 1er janvier 2009) </td>
+<td>Sous-directeur des politiques interministérielles </td>
 <td>
 <p align="center">1 </p>
 </td>
@@ -834,7 +865,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur de la huitième sous-direction1</td>
 <td>
-<br/>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -891,7 +922,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des finances pibliques </p>
+<p>Sous-directeur des finances publiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1444,12 +1475,12 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la compétitivité, de l'industrie et des services (à compter du 12 janvier 2009) </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la compétitivité, de l'industrie et des services </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la réglementation et des affaires européennes et multilatérales (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de la réglementation et des affaires européennes et multilatérales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1460,7 +1491,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des filières des matériels de transport, de l'énergie et des éco-industries (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur des filières des matériels de transport, de l'énergie et des éco-industries </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1471,7 +1502,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'industrie de santé, de la chimie et des nouveaux matériaux (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de l'industrie de santé, de la chimie et des nouveaux matériaux </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1482,7 +1513,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du commerce, de l'artisanat et des professions libérales (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur du commerce, de l'artisanat et des professions libérales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1493,7 +1524,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des activités postales et des services aux entreprises (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur des activités postales et des services aux entreprises</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1504,7 +1535,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'innovation, de la compétitivité et du développement des PME (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de l'innovation, de la compétitivité et du développement des PME </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1515,7 +1546,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'Europe et des partenariats internationaux (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de l'Europe et des partenariats internationaux </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1526,7 +1557,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur, secrétaire général adjoint (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur, secrétaire général adjoint </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1537,7 +1568,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la prospective, des études économiques et de l'évaluation (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de la prospective, des études économiques et de l'évaluation</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1548,7 +1579,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des réseaux et des usages des technologies de l'information et de la communication (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur des réseaux et des usages des technologies de l'information et de la communication</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1559,7 +1590,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'électronique et du logiciel (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de l'électronique et du logiciel </p>
 </td>
 <td>
 <pre>1</pre>
@@ -1570,37 +1601,37 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign</p>
 </td>
 <td>1</td>
 <td>90</td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du tourisme (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur du tourisme </p>
 </td>
 <td>1</td>
 <td>90</td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la qualité, de la normalisation, de la métrologie et de la propriété industrielle (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur de la qualité, de la normalisation, de la métrologie et de la propriété industrielle </p>
 </td>
 <td>1</td>
 <td>90</td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des chambres consulaires (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur des chambres consulaires </p>
 </td>
 <td>1</td>
 <td>90</td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des affaires juridiques et du droit des entreprises (à compter du 12 janvier 2009) </p>
+<p>Sous-directeur des affaires juridiques et du droit des entreprises </p>
 </td>
-<td>1 </td>
+<td>1</td>
 <td>90</td>
 </tr>
 <tr>
@@ -1653,31 +1684,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td colspan="3">
-<p align="center">En charge d'une sous-direction relevant du service de la communication </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur supports de communication </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur réseaux de communication </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
+<td colspan="3"/>
 </tr>
 <tr>
 <td colspan="3">
@@ -1736,7 +1743,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Expert de haut niveau ou directeur de projet à la délégation générale pour l'emploi et la formation professionnelle (à compter du 1er janvier 2009) </td>
+<td>Expert de haut niveau ou directeur de projet à la délégation générale pour l'emploi et la formation professionnelle </td>
 <td>
 <p align="center">2 </p>
 </td>
@@ -1745,12 +1752,12 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Directeur de projet au secrétariat général des ministères économique et financier</td>
+<td>Expert de haut niveau ou directeur de projet au secrétariat général des ministères économique et financier</td>
 <td>
-<p align="center">2 </p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">90</p>
 </td>
 </tr>
 <tr>
@@ -1831,17 +1838,6 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur de projet au service de la communication </p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -2846,7 +2842,25 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>Expert de haut niveau ou directeur de projet</td>
+<td>
+<p align="center">Expert de haut niveau ou directeur de projet</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">s) Services des biens à double usage</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Sous-directeur, chef du service</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -3246,7 +3260,7 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </tr>
 <tr>
 <td>
-<p>Circonscriptions territoriales de la direction du contrôle fiscal : Île-de-France-Ouest, Île-de-France-Est, Sud-Pyrènées, Centre, Rhône-Alpes-Bourgogne, Est, Sud-Est, Sud-Ouest, Ouest, Nord </p>
+<p>Circonscriptions territoriales de la direction du contrôle fiscal : Île-de-France-Ouest, Île-de-France-Est, Sud-Pyrénées, Centre, Rhône-Alpes-Bourgogne, Est, Sud-Est, Sud-Ouest, Ouest, Nord </p>
 </td>
 <td>
 <p align="center">10 </p>
