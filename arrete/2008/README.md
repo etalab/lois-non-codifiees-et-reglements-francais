@@ -77,8 +77,6 @@
 - [Arrêté du 4 août 2008 (JUSC0817755A)](arrete-du-4-aout-2008-jusc0817755a)
 - [Arrêté du 4 août 2008 (SJSV0819465A)](arrete-du-4-aout-2008-sjsv0819465a)
 - [Arrêté du 4 décembre 2008 (DEVA0828611A)](arrete-du-4-decembre-2008-deva0828611a)
-- [Arrêté du 4 décembre 2008 (DEVT0828337A)](arrete-du-4-decembre-2008-devt0828337a)
-- [Arrêté du 4 décembre 2008 (DEVT0828341A)](arrete-du-4-decembre-2008-devt0828341a)
 - [Arrêté du 4 décembre 2008 (ECEC0828052A)](arrete-du-4-decembre-2008-ecec0828052a)
 - [Arrêté du 4 décembre 2008 (ECEC0828739A)](arrete-du-4-decembre-2008-ecec0828739a)
 - [Arrêté du 4 décembre 2008 (ECEP0821875A)](arrete-du-4-decembre-2008-ecep0821875a)
