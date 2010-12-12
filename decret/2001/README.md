@@ -18,7 +18,6 @@
 - [Décret n°2001-1140 du 3 décembre 2001 (ECOC0100103D)](decret-n2001-1140-du-3-decembre-2001-ecoc0100103d)
 - [Décret n°2001-1144 du 3 décembre 2001 (EQUP0101340D)](decret-n2001-1144-du-3-decembre-2001-equp0101340d)
 - [Décret n°2001-1150 du 3 décembre 2001 (MAEF0110108D)](decret-n2001-1150-du-3-decembre-2001-maef0110108d)
-- [Décret n°2001-797 du 3 septembre 2001 (ECOM0110446D)](decret-n2001-797-du-3-septembre-2001-ecom0110446d)
 - [Décret n°2001-804 du 3 septembre 2001 (MENS0101678D)](decret-n2001-804-du-3-septembre-2001-mens0101678d)
 - [Décret n°2001-807 du 3 septembre 2001 (MENS0101817D)](decret-n2001-807-du-3-septembre-2001-mens0101817d)
 - [Décret n°2001-808 du 3 septembre 2001 (MENS0101816D)](decret-n2001-808-du-3-septembre-2001-mens0101816d)
