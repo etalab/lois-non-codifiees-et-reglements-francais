@@ -1932,8 +1932,28 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
-</td>
+<td>Ministère du travail, de l'emploi et de la santé</td>
+<td/>
+</tr>
+<tr>
+<td>Direction de l'animation de la recherche, des études et des statistiques</td>
+<td/>
+</tr>
+<tr>
+<td>(*) Enquête quantitative sur le revenu de solidarité active (RSA). </td>
+<td>L'enquête a pour objectifs d'évaluer les effets du revenu de solidarité active (RSA) sur le marché du travail par comparaison avec un groupe de contrôle, de décrire la situation des bénéficiaires du RSA et d'étudier et de quantifier le phénomène de non-recours, c'est-à-dire le fait que certaines personnes éligibles au RSA ne le perçoivent pas. L'enquête se déroulera en deux phases dans 50 départements de France métropolitaine et aura lieu entre novembre 2010 et mars 2011. La première phase, destinée à repérer les foyers éligibles au RSA et les foyers allocataires du RSA, s'effectuera par téléphone. La seconde phase, destinée à décrire la situation des bénéficiaires du RSA, s'effectuera en face à face. L'objectif est d'obtenir environ 15 000 répondants lors de la première phase et 3 500 pour la seconde.</td>
+</tr>
+<tr>
+<td>Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat </td>
+<td/>
+</tr>
+<tr>
+<td>Direction générale de l'administration<br/>et de la fonction publique</td>
+<td/>
+</tr>
+<tr>
+<td>(*) Enquête sur les salaires vus par les salariés dans les trois fonctions publiques (SalSa-3 FP). </td>
+<td>Cette enquête, réalisée dans le prolongement de l'enquête auprès des salariés du secteur privé, a pour objectif de préciser l'importance des sentiments ressentis par les personnes quant à leur rémunération et de mieux comprendre l'incitation au travail et les liens entre sentiments d'équité et motivation des salariés. La collecte se déroulera entre fin 2010 et début 2011, par téléphone, auprès d'environ 12 000 salariés de France métropolitaine (titulaires et non titulaires) du champ des trois fonctions publiques couvrant Etat, collectivités territoriales et établissements publics hospitaliers. </td>
 </tr>
 <tr>
 <td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>

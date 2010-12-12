@@ -78,7 +78,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="247">
+<td rowspan="5" valign="top" width="247">
 <p>Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense </p>
 </td>
 <td valign="top" width="304">
@@ -90,26 +90,10 @@
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Houilles </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 100 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
 <p>Commandant du 43e bataillon de transmissions </p>
 </td>
 <td valign="top" width="152">
-<p>MAPA × 30 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Cherbourg </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 1 </p>
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +276,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="247">
+<td rowspan="6" valign="top" width="247">
 <p>Direction centrale du service des essences des armées </p>
 </td>
 <td valign="top" width="304">
@@ -311,20 +295,14 @@
 </td>
 <td valign="top" width="152">
 <p>Sans limitation (12)</p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="304">
 <p>Directeur régional interarmées du service des essences des armées en région Atlantique</p>
-<br/>
-<br/>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 20</p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -342,14 +320,15 @@
 <tr>
 <td valign="top" width="304">
 <p>Directeur du laboratoire du service des essences des armées</p>
-<br/>
-<br/>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 20 </p>
-<br/>
-<br/>
 </td>
+</tr>
+<tr>
+<td>Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)<br/>
+</td>
+<td>MAPA x 7</td>
 </tr>
 <tr>
 <td valign="top" width="247">
@@ -541,7 +520,7 @@
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="247">
-<p>Service industriel de l'aéronautique </p>
+<p>Service industriel de l'aéronautique (A)</p>
 </td>
 <td valign="top" width="304">
 <p>Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey </p>
@@ -575,15 +554,20 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="247">
-<p>Divers </p>
-</td>
+<td valign="top" width="247"/>
 <td valign="top" width="304">
-<p>Commandants des bases aériennes et chefs des organismes administrés comme tels (9) </p>
+<p>Directeur de l'atelier industriel de l'aéronautique de Bretagne</p>
 </td>
 <td valign="top" width="152">
-<p>MAPA x 0, 66 </p>
+<p>MAPA x 50</p>
 </td>
+</tr>
+<tr>
+<td>Divers</td>
+<td>
+<p>Commandants des formations administratives et chefs des organismes administrés comme tels (9) </p>
+</td>
+<td/>
 </tr>
 <tr>
 <td colspan="3" width="702">
@@ -785,7 +769,16 @@
 </tr>
 <tr>
 <td colspan="3" valign="top" width="702">
-<p>(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics. <br/>(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée. <br/>(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger. <br/>(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire. <br/>(5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG. <br/>(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG. <br/>(7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application. <br/>(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air. <br/>(9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction. <br/>Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.</p>
+<p>(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics. </p>
+<p>(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée. </p>
+<p>(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger. </p>
+<p>(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire. </p>
+<p>(5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG. </p>
+<p>(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG. </p>
+<p>(7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application. </p>
+<p>(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air. </p>
+<p>(9) (B) Les chefs de groupements de soutien des bases de défense, commandants de formation administrative de l'état-major des armées, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.</p>
+<p>A l'exception des commandants des formations administratives et organismes administrés comme tels dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.</p>
 <p>(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce "approvisionnement des armées en produits pétroliers".</p>
 <p>(11) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.</p>
 <p>(12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.</p>
