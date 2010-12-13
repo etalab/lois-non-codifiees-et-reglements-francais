@@ -1,0 +1,3 @@
+# Article 1
+
+Le classement du parc naturel régional de la Narbonnaise en Méditerranée est renouvelé, pour une durée de douze ans à compter de la date de publication du présent décret, sur la totalité des territoires des communes de : Bages, Caves, Feuilla, Fitou, Gruissan, La Palme, Montséret, Peyriac-de-Mer, Portel-des-Corbières, Roquefort-des-Corbières, Saint-André-de-Roquelongue, Villesèque-des-Corbières, et sur une partie des territoires des communes de : Armissan, Bizanet, Boutenac, Fleury-d'Aude, Leucate, Narbonne, Port-la-Nouvelle, Sigean, Vinassan, situées dans le département de l'Aude.
