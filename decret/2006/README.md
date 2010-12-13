@@ -126,7 +126,6 @@
 - [Décret n°2007-841 du 11 mai 2007 (SANH0721619D)](decret-n2007-841-du-11-mai-2007-sanh0721619d)
 - [Décret n°2007-842 du 11 mai 2007 (SANH0721622D)](decret-n2007-842-du-11-mai-2007-sanh0721622d)
 - [Décret n°2006-1248 du 12 octobre 2006 (MCCX0600114D)](decret-n2006-1248-du-12-octobre-2006-mccx0600114d)
-- [Décret n°2006-1581 du 12 décembre 2006 (SANP0624755D)](decret-n2006-1581-du-12-decembre-2006-sanp0624755d)
 - [Décret n°2006-1583 du 12 décembre 2006 (DOMA0600036D)](decret-n2006-1583-du-12-decembre-2006-doma0600036d)
 - [Décret n°2006-1586 du 12 décembre 2006 (ECOT0614559D)](decret-n2006-1586-du-12-decembre-2006-ecot0614559d)
 - [Décret n°2006-1587 du 12 décembre 2006 (EQUP0601474D)](decret-n2006-1587-du-12-decembre-2006-equp0601474d)
