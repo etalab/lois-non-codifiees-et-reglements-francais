@@ -1,9 +1,21 @@
 # Article 7
 
-En cas de demande relative à des permis autorisés ou commencés, portant sur une période débutant au mois des données les plus récentes disponibles et remontant sur au moins deux mois et ne pouvant excéder vingt-quatre mois, les tarifs du tableau de l'article 3 sont :
+En cas de demandes historiques, c'est-à-dire concernant plusieurs mois, les listes d'adresses ont la forme de fichiers standards portant sur :
 
-― doublés si la période est comprise entre deux et six mois ;
+- trois mois à partir du mois des données les plus récentes disponibles ;
 
-― multipliés par 3 si la période est comprise entre sept et douze mois ;
+- six mois à partir du mois des données les plus récentes disponibles ;
 
-― multipliés par 4 si la période est comprise entre treize et vingt-quatre mois.
+- un an à partir du mois des données les plus récentes disponibles ;
+
+- une année civile avec une antériorité maximum de dix ans.
+
+Les listes concernent soit des permis de logements, soit des permis de locaux, autorisés ou commencés.
+
+Les tarifs du tableau de l'article 3 de l'arrêté du 23 avril 2009 susvisé sont :
+
+- multipliés par deux pour les fichiers de trois mois ;
+
+- multipliés par trois pour les fichiers de six mois ;
+
+- multipliés par quatre pour les fichiers d'un an ou d'une année civile.

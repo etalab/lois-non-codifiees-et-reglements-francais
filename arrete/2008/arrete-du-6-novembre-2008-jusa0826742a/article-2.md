@@ -14,7 +14,7 @@ En application de l'article 11 du décret du 3 août 1999 susvisé, les emplois 
 
 ― secrétaire de la section du rapport et des études ;
 
-― secrétaire adjoint du contentieux ;
+―   chef du département de la gestion des magistrats ;
 
 ― chef du département de la gestion des agents de greffe ;
 
