@@ -452,6 +452,7 @@
 - [Décret n°2010-1079 du 13 septembre 2010 (MTSF1005243D)](decret-n2010-1079-du-13-septembre-2010-mtsf1005243d)
 - [Décret n°2010-1212 du 13 octobre 2010 (SASH1011583D)](decret-n2010-1212-du-13-octobre-2010-sash1011583d)
 - [Décret n°2010-1214 du 13 octobre 2010 (MCCE1018116D)](decret-n2010-1214-du-13-octobre-2010-mcce1018116d)
+- [Décret n°2010-1540 du 13 décembre 2010 (IOCD1020441D)](decret-n2010-1540-du-13-decembre-2010-iocd1020441d)
 - [Décret n°2010-367 du 13 avril 2010 (DEVP1001354D)](decret-n2010-367-du-13-avril-2010-devp1001354d)
 - [Décret n°2010-368 du 13 avril 2010 (DEVP0927634D)](decret-n2010-368-du-13-avril-2010-devp0927634d)
 - [Décret n°2010-369 du 13 avril 2010 (DEVP0927400D)](decret-n2010-369-du-13-avril-2010-devp0927400d)
