@@ -12,7 +12,7 @@ Au sens du présent arrêté :
 
 Le présent arrêté précise, conformément à l'article L. 1331-1-1 du code de la santé publique, les conditions dans lesquelles sont agréées les personnes réalisant les vidanges des installations d'assainissement non collectif.
 
-Les personnes réalisant les vidanges des installations d'assainissement non collectif, prenant en charge le transport et l'élimination des matières extraites, sont soumises à agrément préfectoral ainsi qu'au respect des dispositions du présent arrêté.
+Les personnes réalisant les vidanges des installations d'assainissement non collectif, prenant en charge le transport jusqu'au lieu d'élimination des matières extraites, sont soumises à agrément préfectoral ainsi qu'au respect des dispositions du présent arrêté.
 
 Les opérations de vidange sont réalisées selon les prescriptions techniques adaptées à chaque type d'installation.
 
