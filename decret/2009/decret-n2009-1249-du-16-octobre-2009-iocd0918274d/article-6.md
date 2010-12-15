@@ -6,7 +6,9 @@ Dans la limite du besoin d'en connaître, y compris pour des enquêtes administr
 
 2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les services d'information générale, individuellement désignés et spécialement habilités par le directeur départemental ;
 
-3° Les fonctionnaires de la préfecture de police affectés dans les services chargés du renseignement, individuellement désignés et spécialement habilités par le préfet de police.
+3° Les fonctionnaires de la préfecture de police affectés dans les services chargés du renseignement, individuellement désignés et spécialement habilités par le préfet de police ;
+
+4° Le référent national mentionné à l'article 5 et ses adjoints.
 
 Les fonctionnaires des groupes spécialisés dans la lutte contre les violences urbaines ou les phénomènes de bandes, individuellement désignés et spécialement habilités par le directeur départemental de la sécurité publique ou par le préfet de police, sont autorisés à accéder aux données mentionnées aux articles 2 et 3 relevant de la finalité mentionnée au deuxième alinéa de l'article 1er.
 
