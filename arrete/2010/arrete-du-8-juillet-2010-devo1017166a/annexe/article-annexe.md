@@ -15,9 +15,7 @@ AU TITRE DE L'ARTICLE R. 212-9 DU CODE DE L'ENVIRONNEMENT
 </th>
 <th>NUMERO <br/>UE (2) <br/>
 </th>
-<th>NOM DE LA SUBSTANCE <br/>prioritaire (3) <br/>
-<br/>
-</th>
+<th>NOM DE LA SUBSTANCE <br/>prioritaire (3) </th>
 <th>SUBSTANCE DANGEREUSE <br/>prioritaire (X) <br/>
 </th>
 <th>DATE D'INSCRIPTION <br/>dans la liste <br/>des substances prioritaires, <br/>par décision du Conseil <br/>et du Parlement européen <br/>
@@ -163,7 +161,6 @@ AU TITRE DE L'ARTICLE R. 212-9 DU CODE DE L'ENVIRONNEMENT
 </table>
 
 </div>
-
 <div align="center">
 
 <table>
@@ -175,9 +172,7 @@ AU TITRE DE L'ARTICLE R. 212-9 DU CODE DE L'ENVIRONNEMENT
 </th>
 <th>NUMERO <br/>UE (8) <br/>
 </th>
-<th>NOM DE LA SUBSTANCE <br/>prioritaire (9) <br/>
-<br/>
-</th>
+<th>NOM DE LA SUBSTANCE <br/>prioritaire (9) </th>
 <th>SUBSTANCE DANGEREUSE <br/>prioritaire (X) <br/>
 </th>
 <th>DATE D'INSCRIPTION <br/>dans la liste <br/>au niveau <br/>communautaire <br/>
@@ -588,6 +583,24 @@ AU TITRE DE L'ARTICLE R. 212-9 DU CODE DE L'ENVIRONNEMENT
 </td>
 <td align="center"/>
 <td align="center">20 novembre 2001 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 33</p>
+</td>
+<td>
+<p align="center"> 1582-09-8 </p>
+</td>
+<td>
+<p align="center"> 216-428-8</p>
+</td>
+<td>
+<p align="center"> Trifluraline. </p>
+</td>
+<td/>
+<td>
+<p align="center"> 20 novembre 2001 </p>
 </td>
 </tr>
 <tr>
