@@ -44,6 +44,4 @@ Les personnels appartenant aux corps communs aux services déconcentrés et à l
 
 - secrétaires administratifs du ministère de l'agriculture et de la pêche.
 
-Relèvent également des dispositions du présent décret les secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
-
 Ces corps sont classés dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée. Les secrétaires administratifs du ministère de la justice exerçant leurs fonctions dans les services déconcentrés de l'administration pénitentiaire sont soumis aux dispositions de l'ordonnance n° 58-696 du 6 août 1958 relative au statut spécial des personnels des services déconcentrés de l'administration pénitentiaire et à celles du titre VII du décret n° 66-874 du 21 novembre 1966 relatif au statut spécial des fonctionnaires des services déconcentrés de l'administration pénitentiaire.

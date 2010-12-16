@@ -44,8 +44,6 @@ Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
 
 Secrétaires administratifs du ministère de la défense.
 
-Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
-
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
 
 Secrétaires administratifs du ministère de la justice.

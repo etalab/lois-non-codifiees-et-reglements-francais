@@ -7,3 +7,5 @@ Secrétaires administratifs de l'éducation nationale et de l'enseignement supé
 Secrétaires administratifs de l'intérieur et de l'outre-mer.
 
 Secrétaires administratifs des juridictions financières.
+
+Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
