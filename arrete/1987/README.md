@@ -292,7 +292,6 @@
 - [Arrêté du 16 novembre 1987 (MCCC8700501A)](arrete-du-16-novembre-1987-mccc8700501a)
 - [Arrêté du 16 octobre 1987 (EQUG8700365A)](arrete-du-16-octobre-1987-equg8700365a)
 - [Arrêté du 16 octobre 1987 (PTTT8700732A)](arrete-du-16-octobre-1987-pttt8700732a)
-- [Arrêté du 16 septembre 1977](arrete-du-16-septembre-1977)
 - [Arrêté du 16 septembre 1987 (EQUG8700633A)](arrete-du-16-septembre-1987-equg8700633a)
 - [Arrêté du 17 août 1987 (RESK8700511A)](arrete-du-17-aout-1987-resk8700511a)
 - [Arrêté du 17 avril 1987 (ECOT8710015A)](arrete-du-17-avril-1987-ecot8710015a)

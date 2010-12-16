@@ -340,24 +340,5 @@ Décret n° 91-393 du 25 avril 1991 modifié <br/>Chefs d'équipe et d'exploitat
 <td align="center">12 <br/>
 </td>
 </tr>
-<tr>
-<td align="center">Corps des syndics des gens de mer <br/>
-Décret n° 2000-572 du 26 juin 2000 modifié <br/>Syndics des gens de mer de 1re classe <br/>
-</td>
-<td align="center">66 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Syndics principaux des gens de mer de 2e classe <br/>
-</td>
-<td align="center">17 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Syndics principaux des gens de mer de 1re classe <br/>
-</td>
-<td align="center">15<br/>
-</td>
-</tr>
 </tbody>
 </table>
