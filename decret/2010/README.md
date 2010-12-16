@@ -488,6 +488,7 @@
 - [Décret n°2010-1217 du 14 octobre 2010 (IOCB0921831D)](decret-n2010-1217-du-14-octobre-2010-iocb0921831d)
 - [Décret n°2010-1218 du 14 octobre 2010 (SASH1009816D)](decret-n2010-1218-du-14-octobre-2010-sash1009816d)
 - [Décret n°2010-1219 du 14 octobre 2010 (SASH1021278D)](decret-n2010-1219-du-14-octobre-2010-sash1021278d)
+- [Décret n°2010-1543 du 14 décembre 2010 (JUSA1030374D)](decret-n2010-1543-du-14-decembre-2010-jusa1030374d)
 - [Décret n°2010-373 du 14 avril 2010 (PRMX1010293D)](decret-n2010-373-du-14-avril-2010-prmx1010293d)
 - [Décret n°2010-378 du 14 avril 2010 (DEFD0927491D)](decret-n2010-378-du-14-avril-2010-defd0927491d)
 - [Décret n°2010-380 du 14 avril 2010 (AGRE1004999D)](decret-n2010-380-du-14-avril-2010-agre1004999d)
