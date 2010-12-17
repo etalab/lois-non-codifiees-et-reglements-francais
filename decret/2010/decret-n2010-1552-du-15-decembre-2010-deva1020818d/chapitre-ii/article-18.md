@@ -1,0 +1,3 @@
+# Article 18
+
+Jusqu'à l'installation du conseil d'administration prévu à l'article 4 du décret du 30 avril 2007 susvisé, dans sa rédaction issue de l'article 6 du présent décret, qui doit intervenir dans un délai de douze mois, les attributions du conseil d'administration de l'Ecole nationale de l'aviation civile sont exercées par le conseil d'administration en exercice à la date d'entrée en vigueur du présent article, auquel participent deux personnalités qualifiées désignées par le ministre chargé de l'aviation civile parmi les personnels en fonctions au sein du service d'exploitation de la formation aéronautique à la même date.
