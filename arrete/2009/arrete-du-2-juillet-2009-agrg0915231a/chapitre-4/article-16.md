@@ -1,6 +1,6 @@
 # Article 16
 
-1. Tout lait ou produit contenant du lait, comportant en tout ou partie du lait écarté de la consommation humaine et animale conformément aux articles 7, 10, 11 et 12 du présent arrêté, est collecté comme matière de catégorie 2, et obligatoirement détruit conformément aux voies d'élimination définies dans le règlement (CE) n° 1774/2002 du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine.
+1. Tout lait ou produit contenant du lait, comportant en tout ou partie du lait écarté de la consommation humaine et animale conformément aux articles 7,10,11 et 12 du présent arrêté, est collecté comme matière de catégorie 2 et obligatoirement détruit conformément aux voies d'élimination définies dans le règlement CE/1774/2002.
 
 2. Néanmoins, le lait ou les produits contenant du lait écartés de la consommation conformément à l'article 7 du présent arrêté peuvent être conservés sur l'exploitation dans l'attente du résultat de l'examen de confirmation prévu au II de l'article 4 du présent arrêté.
 

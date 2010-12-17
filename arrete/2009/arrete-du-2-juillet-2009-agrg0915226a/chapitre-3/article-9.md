@@ -18,4 +18,4 @@ Toute vente ou cession dérogatoire doit être déclarée au directeur départem
 
 4. L'ensemble des ovins présents sur l'exploitation sous APDI, ainsi que ceux qui ont fait l'objet d'un des mouvements prévus ci-dessus pendant la durée de l'APDI, sont soumis aux mesures de surveillance prévues à l'article 14 du présent arrêté ; un génotypage aux quatre codons du gène PrP des ovins de l'exploitation abattus ou morts, et testés conformément à l'article 14 du présent arrêté, est réalisé dans des conditions fixées par instruction du ministre chargé de l'agriculture.
 
-5. L'APDI est levé par le préfet après une période de trois ans suivant la détection du dernier cas de tremblante atypique dans l'exploitation.
+5. L'APDI est levé par le préfet après une période de deux ans suivant la détection du dernier cas de tremblante atypique dans l'exploitation.

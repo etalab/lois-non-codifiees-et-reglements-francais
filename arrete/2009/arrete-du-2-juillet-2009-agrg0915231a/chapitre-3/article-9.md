@@ -18,4 +18,4 @@ Toute vente ou cession dérogatoire doit être déclarée au directeur départem
 
 4. L'ensemble des caprins présents sur l'exploitation sous APDI, ainsi que ceux qui ont fait l'objet d'un des mouvements prévus ci-dessus pendant la durée de l'APDI, sont soumis aux mesures de surveillance prévues à l'article 14 du présent arrêté ;
 
-5. L'APDI est levé par le préfet après une période de trois ans suivant la détection du dernier cas de tremblante atypique dans l'exploitation.
+5. L'APDI est levé par le préfet après une période de deux ans suivant la détection du dernier cas de tremblante atypique dans l'exploitation.
