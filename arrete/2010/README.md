@@ -695,8 +695,6 @@
 - [Arrêté du 9 août 2010 (DEVA1021206A)](arrete-du-9-aout-2010-deva1021206a)
 - [Arrêté du 9 août 2010 (DEVR1020157A)](arrete-du-9-aout-2010-devr1020157a)
 - [Arrêté du 9 avril 2010 (BCRL1010956A)](arrete-du-9-avril-2010-bcrl1010956a)
-- [Arrêté du 9 avril 2010 (DEFH1009840A)](arrete-du-9-avril-2010-defh1009840a)
-- [Arrêté du 9 avril 2010 (DEFH1009842A)](arrete-du-9-avril-2010-defh1009842a)
 - [Arrêté du 9 avril 2010 (DEFH1009843A)](arrete-du-9-avril-2010-defh1009843a)
 - [Arrêté du 9 avril 2010 (DEFH1010170A)](arrete-du-9-avril-2010-defh1010170a)
 - [Arrêté du 9 avril 2010 (DEVN1010533A)](arrete-du-9-avril-2010-devn1010533a)
