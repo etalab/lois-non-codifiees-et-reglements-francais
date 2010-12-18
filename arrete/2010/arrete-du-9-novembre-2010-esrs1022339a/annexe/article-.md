@@ -16,33 +16,14 @@ A N N E X E
 <td align="center">
 <p align="left">Université d'Artois</p>
 </td>
-<td align="center" rowspan="27">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>1er janvier 2011<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td align="center" rowspan="30">
+<p>
+<br/>1er janvier 2011</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Université d'Amiens </p>
 </td>
 </tr>
 <tr>
@@ -131,6 +112,11 @@ A N N E X E
 </td>
 </tr>
 <tr>
+<td>
+<p>Université de Reims </p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Université de Rouen</p>
 </td>
@@ -143,6 +129,11 @@ A N N E X E
 <tr>
 <td align="center">
 <p align="left">Ecole centrale de Nantes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ecole centrale de Paris </p>
 </td>
 </tr>
 <tr>
