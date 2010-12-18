@@ -2,9 +2,7 @@
 
 La liste des centres nationaux de référence pour la lutte contre les maladies transmissibles est actualisée ainsi qu'il suit pour la période allant de la date de publication du présent arrêté au 31 décembre 2011 :
 
-1. Centre national de référence
-
-des agents transmissibles non conventionnels (ATNC)
+1. Centre national de référence des agents transmissibles non conventionnels (ATNC)
 
 CNR coordonnateur : service d'anatomie pathologique-neurologie, groupe hospitalier Pitié-Salpêtrière, AP-HP (Paris).
 
@@ -20,9 +18,7 @@ CNR coordonnateur : unité interactions moléculaires flavivirus hôtes (IMFH), 
 
 Laboratoire associé : unité de virologie tropicale, Institut de médecine tropicale du service de santé des armées, Le Pharo (Marseille).
 
-3. Centre national de référence des arbovirus
-
-et virus influenzae dans la région Antilles-Guyane
+3. Centre national de référence des arbovirus et virus influenzae dans la région Antilles-Guyane
 
 Laboratoire de virologie, Institut Pasteur de la Guyane (Cayenne).
 
@@ -58,9 +54,7 @@ Laboratoire associé : unité des zoonoses bactériennes, laboratoire LERPAZ, un
 
 Laboratoire de bactériologie, faculté de médecine Hyacinte Vincent, université Victor Segalen, Bordeaux-II (Bordeaux).
 
-10. Centre national de référence pour la coqueluche
-
-et autres bordetelloses
+10. Centre national de référence pour la coqueluche et autres bordetelloses
 
 Unité de prévention et thérapie moléculaires des maladies humaines, Institut Pasteur (Paris).
 
@@ -122,9 +116,7 @@ Groupe micro-organismes et barrières de l'hôte, Institut Pasteur (Paris).
 
 Unité postulante infections bactériennes invasives, Institut Pasteur (Paris).
 
-24. Centre national de référence des mycobactéries
-
-et résistance des mycobactéries aux antituberculeux
+24. Centre national de référence des mycobactéries et résistance des mycobactéries aux antituberculeux
 
 CNR coordonnateur : laboratoire de bactériologie-hygiène, groupe hospitalier Pitié-Salpêtrière, AP-HP (Paris).
 
@@ -144,9 +136,7 @@ Laboratoire associé : Institut de médecine tropicale du service de santé des 
 
 Laboratoire associé : service de parasitologie-mycologie, hôpital Pitié-Salpêtrière (Paris).
 
-27. Centre national de référence de la chimiorésistance
-
-du paludisme dans la région Antilles-Guyane
+27. Centre national de référence de la chimiorésistance du paludisme dans la région Antilles-Guyane
 
 Laboratoire de parasitologie, Institut Pasteur de la Guyane (Cayenne).
 
@@ -176,9 +166,7 @@ Laboratoire associé : laboratoire de bactériologie, faculté de médecine Xavi
 
 Laboratoire associé : laboratoire de bactériologie, hôpital Jean Minjoz, CHU (Besançon).
 
-33. Centre national de référence des rickettsies,
-
-Coxiella et Bartonella
+33. Centre national de référence des rickettsies, Coxiella et Bartonella
 
 Unité des rickettsies, faculté de médecine (Marseille).
 
@@ -230,17 +218,11 @@ Laboratoire des bactéries pathogènes entériques, Institut Pasteur (Paris).
 
 Laboratoire de virologie, CHU de Dijon (Dijon).
 
-42. Centre national de référence des virus des hépatites
+42. Centre national de référence des virus des hépatites à transmission entérique (hépatites A et E)
 
-à transmission entérique (hépatites A et E)
+Laboratoire de virologie, hôpital Paul Brousse, AP-HP (Paris).
 
-CNR coordonnateur : laboratoire de virologie, hôpital Paul Brousse, AP-HP (Paris).
-
-Laboratoire associé : laboratoire de biologie clinique, hôpital d'instruction des armées du Val-de-Grâce (Paris).
-
-43. Centre national de référence des virus
-
-des hépatites B, C et delta
+43. Centre national de référence des virus des hépatites B, C et delta
 
 CNR coordonnateur : INSERM U635, bactériologie-virologie-hygiène, CHU Henri Mondor, AP-HP (Créteil).
 
@@ -250,9 +232,7 @@ Laboratoire associé : Institut national de la transfusion sanguine (Paris).
 
 Laboratoire associé : laboratoire de bactériologie-virologie-hygiène, hôpital Avicennes, université Paris-XIII (Bobigny).
 
-44. Centre national de référence du virus
-
-de l'immunodéficience humaine (VIH)
+44. Centre national de référence du virus de l'immunodéficience humaine (VIH)
 
 CNR coordonnateur : département de microbiologie et virologie, faculté de médecine de Tours, CHU Bretonneau (Tours).
 
@@ -270,8 +250,6 @@ Unité de génétique moléculaire des virus ARN, Institut Pasteur (Paris).
 
 Groupement hospitalier Est, centre de biologie et pathologie, institut de microbiologie (Bron).
 
-47. Centre national de référence du virus de la rougeole
-
-et autres paramyxoviridae respiratoires
+47. Centre national de référence du virus de la rougeole et autres paramyxoviridae respiratoires
 
 Laboratoire de virologie humaine et moléculaire, CHU de Caen (Caen).
