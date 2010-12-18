@@ -1,0 +1,3 @@
+# Article 90
+
+Sous réserve des décisions de justice passées en force de chose jugée, sont validés les arrêtés de création ou de transformation d'un établissement public de coopération intercommunale, de création d'un syndicat mixte, de transfert de compétences à un établissement public de coopération intercommunale ou à un syndicat mixte, pris entre le 14 juillet 1999 et la promulgation de la présente loi, en tant que leur légalité serait contestée par le moyen tiré de ce que les conditions financières et patrimoniales du transfert des biens immobiliers ou les conditions d'affectation du personnel en matière de zones d'activité économique ou en matière de zones d'aménagement concerté n'ont pas été décidées préalablement à l'entrée en vigueur de l'arrêté.

@@ -1,0 +1,3 @@
+# Article 1
+
+Pour la fin de la gestion 2010, les sous-directeurs des première, quatrième et sixième sous-directions de la direction du budget, ou les personnes chargées de ces sous-directions, sont institués ordonnateurs principaux délégués des recettes et des dépenses sur le budget des services du Premier ministre pour les opérations relatives à la mise en œuvre du plan de relance s'imputant sur les programmes 315 « Programme exceptionnel d'investissement public », 316 « Soutien exceptionnel à l'activité économique et à l'emploi » et 317 « Effort exceptionnel en faveur du logement et de la solidarité » de la mission « Plan de relance de l'économie ».
