@@ -6,8 +6,6 @@ Bibliothèque nationale de France ;
 
 Centre des monuments nationaux ;
 
-Centre national d'art et de culture Georges Pompidou ;
-
 Centre national de la cinématographie ;
 
 Centre national des arts plastiques ;
