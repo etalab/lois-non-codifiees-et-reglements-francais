@@ -4,11 +4,11 @@ La politique d'aménagement et de développement durable du territoire repose su
 
 - le renforcement de pôles de développement à vocation européenne et internationale, susceptibles d'offrir des alternatives à la région parisienne ;
 
-- le développement local, organisé dans le cadre des bassins d'emploi et fondé sur la complémentarité et la solidarité des territoires ruraux et urbains. Il favorise au sein de pays présentant une cohésion géographique, historique, culturelle, économique et sociale la mise en valeur des potentialités du territoire en s'appuyant sur une forte coopération intercommunale et sur l'initiative et la participation des acteurs locaux ;
+- le développement local, organisé dans le cadre des bassins d'emploi et fondé sur la complémentarité et la solidarité des territoires ruraux et urbains. Il favorise la mise en valeur des potentialités du territoire en s'appuyant sur une forte coopération intercommunale et sur l'initiative et la participation des acteurs locaux ;
 
 - l'organisation d'agglomérations favorisant leur développement économique, l'intégration des populations, la solidarité dans la répartition des activités, des services et de la fiscalité locale ainsi que la gestion maîtrisée de l'espace ;
 
-- le soutien des territoires en difficulté, notamment les territoires ruraux en déclin, certains territoires de montagne, les territoires urbains déstructurés ou très dégradés cumulant des handicaps économiques et sociaux, certaines zones littorales, les zones en reconversion, les régions insulaires et les départements d'outre-mer-régions ultrapériphériques françaises et des pays mentionnés à l'article 22.
+- le soutien des territoires en difficulté, notamment les territoires ruraux en déclin, certains territoires de montagne, les territoires urbains déstructurés ou très dégradés cumulant des handicaps économiques et sociaux, certaines zones littorales, les zones en reconversion, les régions insulaires et les départements d'outre-mer-régions ultrapériphériques françaises.
 
 Afin de concourir à la réalisation de chacun de ces choix stratégiques ainsi qu'à la cohésion de ces territoires, l'Etat assure :
 

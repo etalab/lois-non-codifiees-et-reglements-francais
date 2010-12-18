@@ -26,6 +26,8 @@ Sont exclues du transfert les emprises et installations nécessaires pour les be
 
 La convention, ou à défaut l'arrêté, précise les conditions dans lesquelles le bénéficiaire du transfert met gratuitement à la disposition de l'Etat, le cas échéant, les installations et aménagements nécessaires au fonctionnement des services chargés de la police, de la sécurité et de la météorologie.
 
+La collectivité ou le groupement bénéficiaire du transfert ne peut engager la procédure de fermeture de l'aérodrome transféré sans avoir recueilli préalablement l'avis des tiers détenteurs de droits et obligations se rapportant aux activités aéronautiques présentes sur les lieux et constitué à cet effet un dossier proposant des solutions de relocalisation des activités aéronautiques sur un autre site agréé par l'Etat.
+
 IV.-Dans un délai d'un an à compter de la publication de la présente loi, les collectivités ou groupements visés au I peuvent demander un transfert à titre expérimental, dont l'échéance ne peut excéder le 1er mars 2007.
 
 Dans ce cas, les biens visés au III sont mis à disposition de la collectivité ou du groupement intéressé. Les actes pris par le bénéficiaire de l'expérimentation dont l'effet excèderait la durée du transfert sont soumis à l'accord préalable de l'Etat.

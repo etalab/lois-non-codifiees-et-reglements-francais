@@ -6,8 +6,4 @@ Un conseil de développement composé de représentants des milieux économiques
 
 Pour conclure un contrat particulier en application du ou des contrats de plan Etat-régions, les agglomérations devront s'être constituées en établissement public de coopération intercommunale à taxe professionnelle unique d'au moins 50 000 habitants et comprenant une ou plusieurs communes centre de plus de 15 000 habitants. A titre transitoire, les communes et les établissements publics de coopération intercommunale compétents en matière d'aménagement de l'espace et de développement économique des agglomérations n'étant pas constituées sous cette forme pourront conclure ce contrat particulier. Par sa signature, ils s'engagent à se regrouper, avant son échéance, au sein d'un établissement public de coopération intercommunale à taxe professionnelle unique d'au moins 50 000 habitants et comprenant une ou plusieurs communes centre de plus de 15 000 habitants. Cet établissement est seul habilité à engager l'agglomération lors du renouvellement du contrat.
 
-Lorsqu'un pays comprend une agglomération éligible à un contrat particulier, la continuité et la complémentarité entre le contrat de pays et le contrat d'agglomération sont précisées par voie de convention entre les parties concernées.
-
-Le contrat contient un volet foncier. Il précise, le cas échéant, les conditions de création d'un établissement public foncier.
-
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment la durée du contrat particulier.
