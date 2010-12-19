@@ -846,7 +846,6 @@
 - [Arrêté du 23 mars 2007 (SOCF0710938A)](arrete-du-23-mars-2007-socf0710938a)
 - [Arrêté du 23 mars 2007 (SOCF0710939A)](arrete-du-23-mars-2007-socf0710939a)
 - [Arrêté du 23 mars 2007 (SOCN0710862A)](arrete-du-23-mars-2007-socn0710862a)
-- [Arrêté du 23 novembre 2007 (DEVL0766550A)](arrete-du-23-novembre-2007-devl0766550a)
 - [Arrêté du 23 novembre 2007 (DEVT0770209A)](arrete-du-23-novembre-2007-devt0770209a)
 - [Arrêté du 23 novembre 2007 (ECEA0754268A)](arrete-du-23-novembre-2007-ecea0754268a)
 - [Arrêté du 23 novembre 2007 (ECEP0768976A)](arrete-du-23-novembre-2007-ecep0768976a)
