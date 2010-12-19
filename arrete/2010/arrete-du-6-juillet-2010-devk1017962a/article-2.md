@@ -14,7 +14,7 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 ― chef d'unité fonctionnelle et membre du comité de direction ou chargé de mission ou de projet auprès du directeur d'une école ;
 
-― directeur, directeur adjoint, directeur technique, chef de département ou adjoint à un chef de département, membre du comité de direction, chargé de mission ou chef de projet auprès du directeur, d'un service à compétence nationale ou d'un établissement public relevant du ministère chargé du développement durable ;
+― directeur, directeur adjoint, directeur technique, chef de département ou adjoint à un chef de département, chef de bureau à enjeux particuliers, chargé de mission ou chef de projet auprès du directeur, d'un service à compétence nationale ou d'un établissement public relevant du ministère chargé du développement durable ;
 
 ― secrétaire de section au Conseil général, de l'environnement et du développement durable ;
 
