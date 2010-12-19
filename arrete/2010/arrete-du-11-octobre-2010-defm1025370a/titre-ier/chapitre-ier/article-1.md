@@ -4,9 +4,7 @@ Le recrutement sur titres et sur épreuves de sélection, le concours interne et
 
 1° Pour le recrutement sur titres et sur épreuves de sélection
 
-Les inspecteurs sont recrutés sur titres, à l'issue d'épreuves de sélection et après avis d'une commission d'aptitude dont la composition est fixée par arrêté du ministre de la défense, parmi les candidats titulaires d'une licence, ou d'un autre titre ou diplôme classé au moins au niveau II, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par le
-décret n° 2007-196 du 13 février 2007
-relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique.
+Les inspecteurs sont recrutés sur titres, à l'issue d'épreuves de sélection et après avis d'une commission d'aptitude dont la composition est fixée par arrêté du ministre de la défense, parmi les candidats titulaires, dans une spécialité scientifique ou technologique, d'une licence, ou d'un autre titre ou diplôme classé au moins au niveau II, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique.
 
 2° Pour le concours interne
 
