@@ -56,13 +56,21 @@ a) Les jouets ne doivent pas constituer un élément inflammable dangereux dans 
 
 Ces matériaux combustibles ne doivent pas constituer un risque de propagation du feu aux autres matériaux utilisés dans le jouet.
 
-b) Les jouets qui, pour des raisons indispensables à leur fonctionnement, contiennent des substances ou préparations dangereuses telles que définies dans la directive C.E.E. n° 67-548, et notamment des matériaux et équipements pour des expériences chimiques, l'assemblage de maquettes, les moulages plastiques ou céramiques, l'émaillage, la photographie ou des activités similaires, ne doivent pas contenir en tant que telles des substances ou des préparations qui puissent devenir inflammables suite à la perte de composants volatils non inflammables.
+b) Les jouets ne contiennent pas, en tant que tels, des substances ou des mélanges qui puissent devenir inflammables à la suite de la perte de composants volatils non inflammables si, pour des raisons indispensables à leur fonctionnement, ces jouets, en particulier les matériaux et équipements destinés à des expériences chimiques, à l'assemblage de maquettes, à des moulages plastiques ou céramiques, à l'émaillage, à la photographie ou à des activités similaires, contiennent des mélanges dangereux au sens de l'arrêté du 20 avril 1994 modifié relatif à la classification, l'emballage et l'étiquetage des substances ou des substances répondant aux critères d'une des classes ou catégories de danger suivantes, visées à l'annexe I du règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges :
+
+i) Les classes de danger 2.1 à 2.4,2.6 et 2.7,2.8 types A et B,2.9,2.10,2.12,2.13 catégories 1 et 2,2.14 catégories 1 et 2,2.15 types A à F ;
+
+ii) Les classes de danger 3.1 à 3.6,3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement,3.8 effets autres que des effets narcotiques,3.9 et 3.10 ;
+
+iii) La classe de danger 4.1 ;
+
+iv) La classe de danger 5.1.
 
 c) Les jouets ne doivent pas être explosifs ou contenir des éléments ou substances susceptibles d'exploser. La présente disposition ne s'applique pas aux amorces à percussion pour jouets, pour lesquelles il est fait référence au point 10 de l'annexe I.
 
-d) Les jouets, et notamment les jeux et les jouets chimiques, ne doivent pas contenir en tant que telles des substances ou préparations :
+d) Les jouets, et notamment les jeux et les jouets chimiques, ne doivent pas contenir en tant que tels des substances ou mélanges :
 
-- qui, lorsqu'elles sont mélangées, peuvent exploser :
+- qui, lorsqu'ils sont mélangés, peuvent exploser :
 
 - par réaction chimique ou par échauffement ;
 
@@ -74,7 +82,7 @@ d) Les jouets, et notamment les jeux et les jouets chimiques, ne doivent pas con
 
 1° Les jouets doivent être conçus et fabriqués de manière à ne pas présenter de risques pour la santé ou de blessures par ingestion, inhalation ou contact avec la peau, les muqueuses ou les yeux.
 
-En tout cas, ils doivent respecter les législations communautaires appropriées relatives à certaines catégories de produits ou visant l'interdiction, la limitation d'usage ou l'étiquetage de certaines substances et préparations dangereuses.
+En tout cas, ils doivent respecter les législations communautaires appropriées relatives à certaines catégories de produits ou visant l'interdiction, la limitation d'usage ou l'étiquetage de certains mélanges et substances dangereux.
 
 2° En particulier, la biodisponibilité, pour la protection de la santé des enfants, due à l'utilisation des jouets ne doit pas, comme objectif, dépasser, par jour :
 
@@ -98,9 +106,19 @@ ou les autres valeurs qui peuvent être fixées pour ces substances ou pour d'au
 
 On entend par biodisponibilité de ces substances l'extrait soluble qui a une importance toxicologique.
 
-3° Les jouets ne doivent pas contenir de substances ou préparations dangereuses au sens des directives C.E.E. n° 67-548 et C.E.E. n° 88-379 dans des quantités risquant de nuire à la santé des enfants qui les utilisent. En tout état de cause, il est formellement interdit d'inclure dans un jouet des substances ou préparations dangereuses si elles sont destinées à être utilisées en tant que telles au cours du jeu.
+3° Les jouets ne contiennent pas de mélanges dangereux au sens de l'arrêté du 9 novembre 2004 modifié définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses ou de substances répondant aux critères d'une des classes ou catégories de danger, visées à l'annexe I du règlement du 16 décembre 2008 déjà mentionné, dans des quantités risquant de nuire à la santé des enfants qui les utilisent. Ces classes ou catégories de danger sont les suivantes :
 
-Toutefois, si un nombre limité de substances ou préparations sont indispensables au fonctionnement de certains jouets, notamment des matériaux et équipements pour des expériences chimiques, l'assemblage de maquettes, les moulages plastiques ou céramiques, l'émaillage, la photographie ou des activités similaires, elles sont admises dans le respect d'une limite maximale de concentration à définir pour chaque substance ou préparation par mandat donné au Comité européen de normalisation (C.E.N.) selon la procédure du comité institué en vertu de la directive C.E.E. n° 83-189, à condition que les substances et préparations admises soient conformes aux règles communautaires de classification en matière d'étiquetage, sans préjudice du point 4 de l'annexe III.
+a) Les classes de danger 2.1 à 2.4,2.6 et 2.7,2.8 types A et B,2.9,2.10,2.12,2.13 catégories 1 et 2,2.14 catégories 1 et 2,2.15 types A à F ;
+
+b) Les classes de danger 3.1 à 3.6,3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement,3.8 effets autres que des effets narcotiques,3.9 et 3.10 ;
+
+c) La classe de danger 4.1 ;
+
+d) La classe de danger 5.1 ;
+
+En tout état de cause, il est interdit d'inclure dans un jouet des substances ou mélanges dangereux s'ils sont destinés à être utilisés en tant que tels au cours d'un jeu.
+
+Toutefois, si un nombre limité de substances ou mélanges sont indispensables au fonctionnement de certains jouets, notamment des matériaux et équipements pour des expériences chimiques, l'assemblage de maquettes, les moulages plastiques ou céramiques, l'émaillage, la photographie ou des activités similaires, elles sont admises dans le respect d'une limite maximale de concentration à définir pour chaque substance ou mélange par mandat donné au Comité européen de normalisation (C.E.N.) selon la procédure du comité institué en vertu de la directive C.E.E. n° 83-189, à condition que les substances et mélanges admis soient conformes aux règles communautaires de classification en matière d'étiquetage, sans préjudice du point 4 de l'annexe III.
 
 4. Propriétés électriques :
 

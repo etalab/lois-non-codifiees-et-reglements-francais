@@ -22,9 +22,19 @@ Ils sont en outre accompagnés d'une notice d'emploi mentionnant les instruction
 
 On entend par jouets fonctionnels ceux qui ont les mêmes rôles que les appareils ou installations qui sont destinés aux adultes et dont ils constituent souvent un modèle réduit.
 
-4. Jouets contenant, en tant que telles, des substances ou préparations dangereuses. Jouets chimiques :
+4. Jouets contenant, en tant que tels, des substances ou mélanges dangereux. Jouets chimiques :
 
-a) Sans préjudice de l'application des dispositions prévues par les directives communautaires relatives à la classification, l'emballage et l'étiquetage des substances et préparations dangereuses, la notice d'emploi des jouets contenant, en tant que telles, ces substances ou préparations porte l'indication du caractère dangereux de celles-ci et des précautions à prendre par les utilisateurs afin d'éviter les risques s'y rapportant à préciser de manière concise selon le type de jouet. Il est également mentionné quels sont les soins de première urgence à donner en cas d'accidents graves dus à l'utilisation de ce type de jouets. Il est également indiqué que ces jouets doivent être maintenus hors de la portée de très jeunes enfants.
+a) Sans préjudice de l'application des dispositions prévues par le règlement du 16 décembre 2008 déjà mentionné, la notice d'emploi des jouets contenant des mélanges dangereux, en tant que tels, ou des substances qui répondent aux critères d'une des classes ou catégories de danger, visées à l'annexe I du règlement du 16 décembre 2008 déjà mentionné, porte l'indication du caractère dangereux de ces substances ou mélanges et des précautions à prendre par les utilisateurs afin d'éviter les dangers s'y rapportant, lesquels sont précisés de manière concise selon le type de jouet. Ces classes ou catégories de danger sont les suivantes :
+
+i) Les classes de danger 2.1 à 2.4, 2.6 et 2.7, 2.8 types A et B, 2.9, 2.10, 2.12, 2.13 catégories 1 et 2, 2.14 catégories 1 et 2, 2.15 types A à F ;
+
+ii) Les classes de danger 3.1 à 3.6, 3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement, 3.8 effets autres que des effets narcotiques, 3.9 et 3.10 ;
+
+iii) La classe de danger 4.1 ;
+
+iv) La classe de danger 5.1 ;
+
+Les soins de première urgence à donner en cas d'accidents graves dus à l'utilisation de ce type de jouets sont également mentionnés. Il est également indiqué que ces jouets doivent être maintenus hors de la portée des très jeunes enfants.
 
 b) En plus des indications prévues au point a, les jouets chimiques portent sur l'emballage l'inscription : "Attention ! Uniquement pour enfants de plus de ... ans (1). A utiliser sous surveillance d'adultes".
 
