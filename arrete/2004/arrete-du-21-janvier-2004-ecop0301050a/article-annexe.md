@@ -71,6 +71,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Conservateurs des hypothèques 6e catégorie</p>
@@ -111,6 +112,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">CL. F</p>
 </td>
 <td rowspan="2">
+<br/>
 <br/>
 </td>
 <td rowspan="2">
@@ -173,6 +175,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -204,6 +207,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">17,50</p>
 </td>
 <td rowspan="2">
+<br/>
 <br/>
 </td>
 </tr>
@@ -435,6 +439,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td rowspan="2" width="98">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -557,6 +562,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="98">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -565,11 +571,14 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="108">
 <br/>
+<br/>
 </td>
 <td width="96">
 <br/>
+<br/>
 </td>
 <td width="98">
+<br/>
 <br/>
 </td>
 </tr>
@@ -601,7 +610,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">14,75</p>
 </td>
 <td rowspan="7" width="98">
-<p align="center">15,50</p>
+<p align="center">16</p>
 </td>
 </tr>
 <tr>
@@ -767,6 +776,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">15,00</p>
 </td>
 <td width="98">
+<br/>
 <br/>
 </td>
 </tr>
