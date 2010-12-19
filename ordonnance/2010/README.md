@@ -14,6 +14,7 @@
 - [Ordonnance n°2010-250 du 11 mars 2010 (SASX1001341R)](ordonnance-n2010-250-du-11-mars-2010-sasx1001341r)
 - [Ordonnance n° 2010-377 du 14 avril 2010 (ECET1004498R)](ordonnance-n-2010-377-du-14-avril-2010-ecet1004498r)
 - [Ordonnance n° 2010-379 du 14 avril 2010 (SASV1001939R)](ordonnance-n-2010-379-du-14-avril-2010-sasv1001939r)
+- [Ordonnance n° 2010-1579 du 17 décembre 2010 (DEVX1028667R)](ordonnance-n-2010-1579-du-17-decembre-2010-devx1028667r)
 - [Ordonnance n° 45-2563 du 18 octobre 1945](ordonnance-n-45-2563-du-18-octobre-1945)
 - [Ordonnance n° 2010-1232 du 21 octobre 2010 (DEVX1018790R)](ordonnance-n-2010-1232-du-21-octobre-2010-devx1018790r)
 - [Ordonnance n° 2010-76 du 21 janvier 2010 (ECEX0929065R)](ordonnance-n-2010-76-du-21-janvier-2010-ecex0929065r)
