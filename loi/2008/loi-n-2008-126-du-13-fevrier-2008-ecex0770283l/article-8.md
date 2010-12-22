@@ -1,0 +1,7 @@
+# Article 8
+
+L'ensemble des biens, droits et obligations, créances et dettes de l'Agence nationale pour l'emploi ainsi que les biens mobiliers de ses services sont transférés de plein droit et en pleine propriété à l'institution mentionnée à l'article L. 311-7 du code du travail. Ce transfert s'effectue à titre gratuit à la date définie à l'article 9 de la présente loi.
+
+Une convention conclue avant le 31 décembre 2008 entre les deux organismes définit les conditions dans lesquelles l'organisme gestionnaire du régime d'assurance chômage prévu à l'article L. 351-21 du même code met à disposition de l'institution mentionnée à l'article L. 311-7 dudit code les biens de toute nature, notamment les immeubles et les applications informatiques, nécessaires à l'exercice des missions transférées à celle-ci. Cette convention prévoit, le cas échéant, les conditions de transfert des droits et obligations, créances et dettes relatifs aux activités transférées, ainsi que la création d'un fonds permettant de financer les actions de réorganisation des implantations territoriales. Cette convention peut être passée par l'instance nationale provisoire définie à l'article 6 de la présente loi pour le compte de l'institution mentionnée à l'article L. 311-7 du même code.
+
+Les transferts de biens meubles ou immeubles prévus au présent article ne donnent lieu ni à un versement de salaires ou honoraires au profit de l'Etat ni à perception de droits ou de taxes.

@@ -16,7 +16,7 @@ III.-Ce fonds finance des dépenses d'investissement et de fonctionnement des é
 
 Il peut également financer des dépenses d'investissement d'établissements hospitaliers de coopération transfrontalière destinés à accueillir des patients résidant en France, ayant fait l'objet d'un accord avec le Gouvernement de la République française et dont les missions sont celles d'un établissement de santé tel que défini par le code de la santé publique. Ces établissements doivent répondre à des besoins de santé fixés par le schéma régional d'organisation sanitaire de la région frontalière.
 
-III. bis-(Abrogé).
+III bis. - Le fonds peut prendre en charge, dans la limite et selon des modalités définies par décret, le coût des ressources de conseil, de pilotage et d'accompagnement de la mise en œuvre des actions visant à améliorer la performance hospitalière.
 
 III ter.-Le fonds peut prendre en charge le financement des missions de conception des modalités de financement des activités de soins des établissements de santé et de conduite des expérimentations prévues au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 exercées par l'agence technique de l'information sur l'hospitalisation
 
@@ -26,7 +26,7 @@ Le fonds prend également en charge les frais de fonctionnement d'une mission na
 
 IV.-Bénéficient du concours de ce fonds les actions mentionnées au II du présent article qui sont entreprises par des établissements publics de santé et des établissements de santé privés mentionnés aux b et c de l'article L. 162-22-6 du code de la sécurité sociale ayant fait l'objet d'un agrément par le ou les directeurs généraux d'agences régionales de santé compétents. Les établissements non visés par cet article peuvent également bénéficier, après agrément dans les conditions mentionnées précédemment, du concours du fonds dans le cadre d'opérations de coopération entre un ou plusieurs de ces établissements et un ou plusieurs établissements visés à l'article L. 174-1 du même code.
 
-Les sommes dues au titre des actions du fonds sont prescrites à son profit dès lors qu'elles n'ont pas fait l'objet soit d'un agrément ou d'une décision attributive de subvention, dans un délai d'un an à compter de la notification ou de la publication de l'acte de délégation des crédits du fonds, soit d'une demande de paiement justifiée dans un délai de trois ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis.
+Les sommes dues au titre des actions du fonds sont prescrites à son profit dès lors qu'elles n'ont pas fait l'objet soit d'un agrément ou d'une décision attributive de subvention, dans un délai d'un an à compter de la notification ou de la publication de l'acte de délégation des crédits du fonds, soit d'une demande de paiement justifiée dans un délai de trois ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. L'année de la constatation de la prescription, la totalité des sommes ainsi prescrites vient en diminution de la dotation de l'assurance maladie au fonds pour l'année en cours. Le montant de la dotation ainsi minoré est pris en compte en partie rectificative de la loi de financement de la sécurité sociale pour l'année suivante.
 
 L'alinéa précédent est applicable aux sommes déléguées antérieurement à la date de son entrée en vigueur.
 
@@ -36,10 +36,16 @@ Les sommes apportées par les organismes de sécurité sociale et mentionnées �
 
 Le solde disponible du Fonds d'accompagnement social pour la modernisation des établissements de santé est versé au Fonds pour la modernisation des établissements de santé, à la date de sa création. Le montant de ce solde est constaté par arrêté interministériel.
 
+V bis. - L'attribution des financements relatifs aux actions prévues au II, au III pour les dépenses d'investissements immobiliers dont le montant est inférieur à un seuil fixé par arrêté du ministre chargé de la santé et au III bis est confiée aux agences régionales de santé dans des conditions fixées par décret. Ils peuvent être attribués sur une base pluriannuelle.
+
+Ces financements peuvent être affectés au financement des actions visées par l'article L. 221-1-1 du code de la sécurité sociale.
+
 VI.-Les modalités d'application du présent article sont déterminées par décret.
 
 VII.-L'article 25 de la loi de financement de la sécurité sociale pour 1998 (n° 97-1164 du 19 décembre 1997) est abrogé à compter de la publication du décret mentionné au VI.
 
 VIII.-Un rapport annuel retraçant l'activité du fonds est établi par la Caisse des dépôts et consignations et adressé aux ministres chargés de la santé et de la sécurité sociale. Ce rapport dresse notamment un bilan des dotations allouées en fonction du statut et de la taille des établissements bénéficiaires.
+
+Le rapport annuel mentionné au premier alinéa ainsi que l'avis de la commission de surveillance du fonds sont transmis par le Gouvernement au Parlement avant le 1er octobre de chaque année.
 
 IX.-Les dispositions du présent article sont applicables à Mayotte et Saint-Pierre-et-Miquelon.

@@ -7,7 +7,7 @@ I.-A modifié les dispositions suivantes :
 
 II.-Le 1° du I est applicable aux rentes versées à compter du 1er janvier 2010. Le 4° du I est applicable aux retraites liquidées à compter du 1er janvier 2010. Le 2° du I est applicable aux versements, comptabilisations ou mentions réalisés à compter des exercices ouverts après le 31 décembre 2009.
 
-III.-Avant le 15 septembre 2010, le Gouvernement remet au Parlement un rapport sur la situation des régimes relevant de l'article L. 137-11 du code de la sécurité sociale indiquant :
+III.-Avant le 15 septembre 2011, le Gouvernement remet au Parlement un rapport sur la situation des régimes relevant de l'article L. 137-11 du code de la sécurité sociale indiquant :
 
 -le nombre d'entreprises en disposant ;
 

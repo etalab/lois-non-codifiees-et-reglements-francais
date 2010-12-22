@@ -11,4 +11,4 @@ Cette expérimentation a pour objet les conditions de mise en œuvre de l'articl
 
 La liste des établissements volontaires et leur caisse mentionnée à l'article L. 174-2 du code de la sécurité sociale est arrêtée par les ministres chargés de la santé et de la sécurité sociale.
 
-Les conditions de mise en œuvre de cette expérimentation sont définies par décret.
+Les conditions de mise en œuvre de cette expérimentation sont définies par décret. Un bilan de cette expérimentation est transmis pour information au Parlement avant le 15 septembre de chaque année.

@@ -32,9 +32,15 @@ Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins 
 
 Le demandeur peut obtenir la communication de son dossier, sous réserve du respect du secret médical.
 
+III bis. - Les droits à l'indemnisation des préjudices mentionnés au I se prescrivent par dix ans à compter de la date du premier certificat médical établissant le lien entre la maladie et l'exposition à l'amiante. Toutefois, le délai de prescription ne court :
+
+1° Pour l'indemnisation des préjudices résultant de l'aggravation d'une maladie dont un certificat médical a déjà établi le lien avec l'exposition à l'amiante, que de la date du premier certificat médical constatant cette aggravation ;
+
+2° Pour l'indemnisation des ayants droit d'une personne décédée, quand son décès est lié à l'exposition à l'amiante, que de la date du premier certificat médical établissant le lien entre le décès et cette exposition.
+
 IV. - Dans les six mois à compter de la réception d'une demande d'indemnisation, le fonds présente au demandeur une offre d'indemnisation. Il indique l'évaluation retenue pour chaque chef de préjudice, ainsi que le montant des indemnités qui lui reviennent compte tenu des prestations énumérées à l'article 29 de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation, et des indemnités de toute nature reçues ou à recevoir d'autres débiteurs du chef du même préjudice. Le fonds présente une offre d'indemnisation nonobstant l'absence de consolidation.
 
-Une offre est présentée dans les mêmes conditions en cas d'aggravation de l'état de santé de la victime ou si une indemnisation complémentaire est susceptible d'être accordée dans le cadre d'une procédure pour faute inexcusable de l'employeur.
+Une offre est présentée dans les mêmes conditions en cas d'aggravation de l'état de santé de la victime.
 
 L'acceptation de l'offre ou la décision juridictionnelle définitive rendue dans l'action en justice prévue au V vaut désistement des actions juridictionnelles en indemnisation en cours et rend irrecevable tout autre action juridictionnelle future en réparation du même préjudice. Il en va de même des décisions juridictionnelles devenues définitives allouant une indemnisation intégrale pour les conséquences de l'exposition à l'amiante.
 
@@ -49,6 +55,8 @@ VI. - Le fonds est subrogé, à due concurrence des sommes versées, dans les dr
 Le fonds intervient devant les juridictions civiles, y compris celles du contentieux de la sécurité sociale, notamment dans les actions en faute inexcusable, et devant les juridictions de jugement en matière répressive, même pour la première fois en cause d'appel, en cas de constitution de partie civile du demandeur contre le ou les responsables des préjudices ; il intervient à titre principal et peut user de toutes les voies de recours ouvertes par la loi.
 
 Si le fait générateur du dommage a donné lieu à des poursuites pénales, le juge civil n'est pas tenu de surseoir à statuer jusqu'à décision définitive de la juridiction répressive.
+
+La reconnaissance de la faute inexcusable de l'employeur, à l'occasion de l'action à laquelle le fonds est partie, ouvre droit à la majoration des indemnités versées à la victime ou à ses ayants droit en application de la législation de sécurité sociale. L'indemnisation à la charge du fonds est alors révisée en conséquence.
 
 VII. - Le fonds est financé par une contribution de l'Etat, dans les conditions fixées par la loi de finances, et par une contribution de la branche accidents du travail et maladies professionnelles du régime général de la sécurité sociale dont le montant est fixé chaque année par la loi de financement de la sécurité sociale, sur la base d'un rapport d'activité du fonds établi par son conseil d'administration et transmis au Parlement et au Gouvernement chaque année avant le 1er juillet.
 
