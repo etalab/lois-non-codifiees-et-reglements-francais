@@ -11,6 +11,7 @@
 - [LOI n° 2010-1488 du 7 décembre 2010 (EFIX1007918L)](loi-n-2010-1488-du-7-decembre-2010-efix1007918l)
 - [LOI n° 2010-1536 du 13 décembre 2010 (ESRX1028792L)](loi-n-2010-1536-du-13-decembre-2010-esrx1028792l)
 - [LOI n° 2010-1563 du 16 décembre 2010 (IOCX0922788L)](loi-n-2010-1563-du-16-decembre-2010-iocx0922788l)
+- [LOI n° 2010-1594 du 20 décembre 2010 (BCRX1024856L)](loi-n-2010-1594-du-20-decembre-2010-bcrx1024856l)
 - [LOI n° 2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n-2010-241-du-10-mars-2010-prmx0925425l)
 - [LOI n° 2010-597 du 3 juin 2010 (PRMX0920421L)](loi-n-2010-597-du-3-juin-2010-prmx0920421l)
 - [LOI n° 2010-729 du 30 juin 2010 (SASX1008554L)](loi-n-2010-729-du-30-juin-2010-sasx1008554l)
