@@ -8,4 +8,6 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 -adjoint à un directeur technique du laboratoire central des ponts et chaussées ;
 
--chef de division ou de service du laboratoire central des ponts et chaussées.
+-chef de division ou de service du laboratoire central des ponts et chaussées ;
+
+- adjoint à un chef de département du laboratoire central des ponts et chaussées.

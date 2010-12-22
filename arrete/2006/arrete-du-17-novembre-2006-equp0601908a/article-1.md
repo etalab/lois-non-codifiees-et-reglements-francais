@@ -4,4 +4,8 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 -directeur délégué du centre de Nantes du laboratoire central des ponts et chaussées ;
 
--directeur technique du laboratoire central des ponts et chaussées.
+-directeur technique du laboratoire central des ponts et chaussées ;
+
+- directeur des programmes du laboratoire central des ponts et chaussées ;
+
+- chef de mission au laboratoire central des ponts et chaussées.
