@@ -6,21 +6,29 @@ Les tarifs utilisés sont fixés comme suit :
 <tbody>
 <tr>
 <td align="center">
+<p align="center">
 <br/>
+</p>
 </td>
 <td align="center">
-<br/>eu euros</td>
+<p align="center">
+<br/>eu euros</p>
+</td>
 </tr>
 <tr>
-<td align="center">Journée de cadre A </td>
-<td align="center">465,8</td>
+<td align="center">
+<p align="center">Journée de cadre A </p>
+</td>
+<td align="center">
+<p align="center">487,5</p>
+</td>
 </tr>
 <tr>
 <td>
 <p align="center">Journée de cadre B </p>
 </td>
 <td>
-<p align="center">269,3</p>
+<p align="center">288,1</p>
 </td>
 </tr>
 <tr>
@@ -28,28 +36,27 @@ Les tarifs utilisés sont fixés comme suit :
 <p align="center">Journée de cadre C </p>
 </td>
 <td>
-<p align="center">234,9</p>
+<p align="center">242,4</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>- heure de contrôle et de vérification <br/>
+<br/>Heure de contrôle et de vérification <br/>
 </td>
-<td align="center">31,3</td>
+<td align="center">32,2</td>
 </tr>
 <tr>
 <td align="center">
-<br/>- heure de saisie <br/>
+<br/>Heure de saisie <br/>
 </td>
-<td align="center">
-<br/>31,3</td>
+<td align="center">32,2</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mois d'analyse programmation <br/>
+<br/>Mois d'analyse et de programmation <br/>
 </td>
 <td align="center">
-<br/>11 647, 2 <br/>
+<br/>11 650,2 <br/>
 </td>
 </tr>
 <tr>
