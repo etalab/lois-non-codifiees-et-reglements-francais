@@ -1,0 +1,3 @@
+# Article 4
+
+Le 1er janvier 2011, il est créé, dans le département des Yvelines, le service des impôts des particuliers de Mantes-la-Jolie Ouest, qui assure l'assiette, le contrôle et le contentieux des impôts directs des contribuables ayant leur domicile ou leur résidence dans le ressort du centre des impôts de Mantes-la-Jolie Ouest et le recouvrement des rôles d'impôts des contribuables ayant leur domicile ou leur résidence dans les communes d'Auffreville-Brasseuil, Breuil-Bois-Robert, Buchelay, Favrieux, Fontenay-Mauvoisin, Guerville, Jouy-Mauvoisin, Magnanville, Mantes-la-Ville, Perdreauville, Rosny-sur-Seine, Soindres, Le Tertre-Saint-Denis et Vert.
