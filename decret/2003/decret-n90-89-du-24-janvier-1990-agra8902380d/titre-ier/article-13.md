@@ -4,6 +4,6 @@ Peuvent être promus à la hors-classe les conseillers principaux d'éducation d
 
 Le tableau d'avancement est arrêté chaque année, par le ministre chargé de l'agriculture, après avis de la commission administrative paritaire.
 
-Le nombre des inscriptions sur le tableau d'avancement ne peut excéder de plus de 50 % le nombre des emplois vacants.
+Le nombre maximum des conseillers principaux d'éducation pouvant être promus chaque année à la hors-classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
 Les promotions sont prononcées dans l'ordre d'inscription au tableau annuel d'avancement.

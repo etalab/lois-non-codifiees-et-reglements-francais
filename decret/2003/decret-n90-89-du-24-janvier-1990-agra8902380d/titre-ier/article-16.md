@@ -1,3 +1,3 @@
 # Article 16
 
-Peuvent être placés en position de détachement dans un emploi de conseiller principal d'éducation, dans la limite de 10 % de l'effectif du corps des conseillers principaux d'éducation, les fonctionnaires titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps, à un cadre d'emplois ou à un emploi classé en catégorie A et justifiant d'un des titres ou diplômes requis pour la nomination des lauréats au concours externe.
+Pour l'application de l'article 13 bis de la loi du 13 juillet 1983, les candidats au détachement dans le corps des conseillers principaux d'éducation doivent justifier de l'un des titres ou diplômes requis pour la nomination des lauréats du concours externe.
