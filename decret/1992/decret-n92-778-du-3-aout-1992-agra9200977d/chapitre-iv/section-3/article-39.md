@@ -1,5 +1,3 @@
 # Article 39
 
-Le détachement est prononcé, après avis de la commission administrative paritaire, à équivalence de grade, à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps d'origine.
-
-Le fonctionnaire détaché conserve, dans la limite de l'ancienneté maximale de service exigée pour l'accès à l'échelon supérieur de son nouveau grade, l'ancienneté d'échelon acquise dans son précédent emploi lorsque le détachement lui procure un avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans son corps, cadre d'emplois ou son emploi d'origine ou qui a résulté de sa nomination audit échelon si cet échelon était le plus élevé de son corps, cadre d'emplois ou emploi.
+Par dérogation aux dispositions de l'article 38, les personnels appartenant à un corps enseignant ou d'éducation, pour l'accès auquel la détention des mêmes titres ou diplômes est exigée pour la nomination des lauréats du concours externe, peuvent être détachés dans le corps des professeurs certifiés de l'enseignement agricole lorsqu'ils sont au moins titulaires d'une licence ou d'un titre ou diplôme au moins équivalent.
