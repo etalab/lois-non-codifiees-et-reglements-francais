@@ -148,7 +148,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">1 an</p>
 </td>
 <td align="center">
-<p align="left">CIMES Institut - Groupe CIMES</p>
+<p align="left">INSACAST</p>
 </td>
 </tr>
 <tr>

@@ -283,15 +283,24 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 </tr>
 <tr>
-<td align="center">III<br/>
+<td align="left" valign="top">
+<p align="center">III<br/>
+</p>
 </td>
-<td align="center">Formateur Lutte contre l'illettrisme/remédiation linguistique .<br/>
+<td align="left" valign="top">
+<p align="center">Formateur "Lutte contre l'illettrisme/remédiation linguistique".<br/>
+</p>
 </td>
-<td align="center">333t<br/>
+<td align="left" valign="top">
+<p align="center">333t<br/>
+</p>
 </td>
-<td align="center">5 ans<br/>
+<td align="left" valign="top">
+<p align="center">5 ans<br/>
+</p>
 </td>
-<td align="center">ASSOCIATION TETRAÈDRE PASSAGES.<br/>
+<td align="left" valign="top">
+<p align="left">Tétraccord</p>
 </td>
 </tr>
 <tr>

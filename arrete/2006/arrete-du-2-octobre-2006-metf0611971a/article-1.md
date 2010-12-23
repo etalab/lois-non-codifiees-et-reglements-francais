@@ -537,7 +537,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 312 p<br/>
 </td>
 <td align="center"> 5 ans </td>
-<td align="center">Dordogne formation.<br/>
+<td align="center">Chambre de commerce et d'industrie de la Dordogne (CCI de la Dordogne) - Ecole supérieure achats approvisionnement logistique (ESAAL).<br/>
+<br/>
 </td>
 </tr>
 <tr>

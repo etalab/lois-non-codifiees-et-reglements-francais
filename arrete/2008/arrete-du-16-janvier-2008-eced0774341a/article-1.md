@@ -285,7 +285,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center"> 										II<br/>
 </td>
-<td align="center"> 										Responsable d'entreprise.<br/>
+<td align="center"> 										Responsable commercial.<br/>
 </td>
 <td align="center"> 										312p<br/>
 </td>

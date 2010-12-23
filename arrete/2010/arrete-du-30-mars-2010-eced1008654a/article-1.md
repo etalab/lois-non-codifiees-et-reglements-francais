@@ -117,7 +117,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">IV<br/>
 </td>
-<td align="center">Technicien du spectacle vivant, option son, option lumière.<br/>
+<td align="center">Technicien d'événements culturels.<br/>
 </td>
 <td align="center">323t<br/>
 </td>

@@ -445,9 +445,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 320p</td>
 <td align="center"> 5 ans</td>
-<td align="center">
-<p> Sciences com' - l'école de la </p>
-<p>communication et des médias. </p>
+<td align="center">AUDENCIA Nantes - Ecole de management.<br/>
 </td>
 </tr>
 <tr>
