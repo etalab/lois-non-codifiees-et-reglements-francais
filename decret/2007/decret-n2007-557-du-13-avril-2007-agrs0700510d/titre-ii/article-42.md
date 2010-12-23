@@ -10,7 +10,7 @@ Ces listes sont établies par le ministre chargé de l'agriculture après avis d
 
 Les conditions requises pour l'inscription sur ces listes sont :
 
-a) Posséder l'un des titres, diplômes ou qualités prévus par l'article 9 du décret du 20 juin 1989 susvisé ;
+a) Posséder l'un des titres, diplômes ou qualités prévus par l'article 21 du décret du 20 juin 1989 susvisé ;
 
 b) Avoir accompli pour au moins un demi-service, dans un ou plusieurs établissements relevant de l'article L. 813-8 du code rural, au moins cinq ans de service d'enseignement ou de documentation dont trois, en qualité de personnel enseignant ou de documentation contractuel au 1er janvier de l'année au titre de laquelle la liste est établie.
 

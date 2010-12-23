@@ -10,7 +10,7 @@ b) Les services de guerre ;
 
 2° A raison de la totalité de leur durée :
 
-a) Les services effectifs dans l'enseignement public ou dans l'enseignement privé sous contrat avec l'Etat sous réserve de l'application des coefficients caractéristiques correspondants ;
+a) Les services effectifs d'enseignement ou de surveillance dans l'enseignement public ou dans l'enseignement privé sous contrat avec l'Etat sous réserve de l'application des coefficients caractéristiques correspondants ;
 
 b) Les services effectifs accomplis en qualité de chef d'un établissement d'enseignement agricole privé sous contrat avec l'Etat postérieurement à la publication du présent décret ;
 
@@ -32,4 +32,4 @@ a) Les années d'activité professionnelle des enseignants de l'enseignement tec
 
 b) Les services effectifs d'enseignement accomplis dans les établissements privés avant l'entrée en vigueur de la loi du 2 août 1960 ou, postérieurement à cette date, dans les établissements privés non reconnus.
 
-Les services mentionnés au 2°, 3° et 4° du précédent alinéa peuvent avoir été accomplis en totalité ou en partie dans des fonctions de documentation.
+Les services mentionnés au 2°,3° et 4° du précédent alinéa peuvent avoir été accomplis en totalité ou en partie dans des fonctions de documentation.
