@@ -8,10 +8,14 @@ a) Sur les règlements établis par les chambres départementales du ressort de 
 
 b) Sur les suppressions d'offices d'huissier de justice dans le ressort.
 
+Elle est chargée de vérifier la tenue de la comptabilité ainsi que le fonctionnement et l'organisation des études d'huissier de justice du ressort.
+
 La chambre régionale établit son budget et en répartit les charges entre les chambres départementales du ressort.
 
-Elle est chargée de vérifier la tenue de la comptabilité dans les études d'huissier de justice du ressort.
+La chambre régionale des huissiers vérifie le respect, par les huissiers de justice, de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme et se fait communiquer, dans des conditions fixées par décret en Conseil d'Etat, les documents relatifs au respect de ces obligations.
 
-La chambre régionale, siégeant en comité mixte, règle toutes questions concernant le fonctionnement des cours professionnels existant dans le ressort, les institutions et oeuvres sociales intéressant le personnel des études.
+La chambre régionale établit son budget et en répartit les charges entre les chambres départementales du ressort.
+
+La chambre régionale, siégeant en comité mixte, règle toutes questions concernant les institutions et œuvres sociales intéressant le personnel des études.
 
 La chambre régionale, siégeant dans l'une ou l'autre de ses formations, est chargée, en outre, d'assurer dans son ressort l'exécution des décisions prises par la chambre nationale.

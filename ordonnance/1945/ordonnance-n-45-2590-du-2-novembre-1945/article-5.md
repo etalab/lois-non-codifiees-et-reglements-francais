@@ -6,7 +6,7 @@ Il donne son avis :
 
 a) Sur les règlements établis par les chambres des notaires du ressort de la cour d'appel ;
 
-b) *texte abrogé*.
+b) texte abrogé.
 
 Il désigne :
 
@@ -18,6 +18,6 @@ c) Le délégué appelé à faire partie du conseil supérieur.
 
 Le conseil régional remplit en outre les fonctions réservées à la commission de contrôle de la comptabilité des notaires.
 
-Le conseil régional, siégeant en commité mixte, règle toutes questions concernant le fonctionnement des écoles de notariat existant dans le ressort, les institutions et oeuvres sociales intéressant le personnel des études.
+Le conseil régional, siégeant en commité mixte, règle toutes questions concernant  les institutions et oeuvres sociales intéressant le personnel des études.
 
 Le conseil régional siégeant en l'une ou l'autre de ses formations est chargé, en outre, d'assurer dans le ressort l'exécution des décisions prises par le conseil supérieur.

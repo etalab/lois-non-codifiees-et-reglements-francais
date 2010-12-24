@@ -16,6 +16,4 @@ Les actions de sociétés de prises de participations à forme anonyme, en comma
 
 Les sociétés de participations financières doivent être inscrites sur la liste ou au tableau de l'ordre ou des ordres professionnels concernés.
 
-Le présent titre n'est pas applicable à la profession de greffier des tribunaux de commerce.
-
 Un décret en Conseil d'Etat précise, pour chaque profession, les conditions d'application du présent titre, et notamment les modalités d'agrément des sociétés de participations financières de professions libérales ayant pour objet la détention de parts ou d'actions de sociétés titulaires d'offices publics ou ministériels.

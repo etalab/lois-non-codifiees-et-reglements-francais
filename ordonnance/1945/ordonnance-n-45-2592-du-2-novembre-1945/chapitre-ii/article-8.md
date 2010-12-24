@@ -4,6 +4,12 @@ La chambre nationale représente l'ensemble de la profession auprès des service
 
 La chambre nationale établit son budget et en répartit les charges entre les chambres régionales.
 
-La chambre nationale, siégeant en comité mixte, règle les questions d'ordre général concernant le recrutement et la formation des clercs et employés, l'admission au stage des aspirants aux fonctions d'huissier, l'organisation des cours professionnels, la création, le fonctionnement et le budget des oeuvres sociales intéressant le personnel des études, les conditions de travail dans les études, et, sous réserve des dispositions légales ou réglementaires particulières, le salaire et les accessoires du salaire.
+La chambre nationale et les syndicats professionnels ou groupements d'employeurs représentatifs négocient et concluent les conventions et accords collectifs de travail.
+
+La chambre nationale, siégeant en comité mixte, règle les questions d'ordre général concernant la création, le fonctionnement et le budget des œuvres sociales intéressant le personnel des études.
 
 La chambre nationale siégeant, dans l'une ou l'autre de ses formations, donne son avis, chaque fois qu'elle en est requise par le garde des sceaux, ministre de la justice sur les questions professionnelles rentrant dans ses attributions.
+
+La chambre nationale tient à jour, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et dans des conditions fixées par décret en Conseil d'Etat, la liste des personnes ayant consenti à recevoir un acte de signification par voie électronique, assortie des renseignements utiles, et à ce titre conclut, au nom de l'ensemble de la profession, toute convention organisant le recours à la communication électronique.
+
+La chambre nationale peut établir, en ce qui concerne les usages de la profession à l'échelon national, un règlement qui est soumis à l'approbation du garde des sceaux, ministre de la justice.

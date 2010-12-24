@@ -8,7 +8,7 @@ I.-Se conforment, dans un délai de trois ans à compter de l'entrée en vigueur
 
 3° La tutelle aux prestations sociales.
 
-II.-Se conforment à l'article L. 472-1 du code de l'action sociale et des familles, dans un délai de trois ans à compter de l'entrée en vigueur du décret prévu à l'article L. 472-4 du même code et au plus tard le 1er janvier 2011, les personnes physiques qui étaient précédemment habilitées pour exercer :
+II.-Se conforment à l'article L. 472-1 du code de l'action sociale et des familles, dans un délai de trois ans à compter de l'entrée en vigueur du décret prévu à l'article L. 472-4 du même code et au plus tard le 1er janvier 2012, les personnes physiques qui étaient précédemment habilitées pour exercer :
 
 1° La tutelle d'Etat ou la curatelle d'Etat ;
 

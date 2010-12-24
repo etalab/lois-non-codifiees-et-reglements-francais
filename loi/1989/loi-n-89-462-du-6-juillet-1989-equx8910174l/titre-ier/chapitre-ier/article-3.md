@@ -16,7 +16,11 @@ Le contrat de location est établi par écrit. Il doit préciser :
 
 Le contrat de location précise la surface habitable de la chose louée.
 
-Un état des lieux, établi contradictoirement par les parties lors de la remise et de la restitution des clés ou, à défaut, par huissier de justice, à l'initiative de la partie la plus diligente et à frais partagés par moitié, est joint au contrat. Lorsque l'état des lieux doit être établi par huissier de justice, les parties en sont avisées par lui au moins sept jours à l'avance par lettre recommandée avec demande d'avis de réception.A défaut d'état des lieux, la présomption établie par l'article 1731 du code civil ne peut être invoquée par celle des parties qui a fait obstacle à l'établissement de l'état des lieux.
+Un état des lieux établi lors de la remise et de la restitution des clés est joint au contrat. Il est établi par les parties, ou par un tiers mandaté par elles, contradictoirement et amiablement. En cas d'intervention d'un tiers, les honoraires négociés ne sont laissés ni directement, ni indirectement à la charge du locataire.
+
+Si l'état des lieux ne peut être établi dans les conditions prévues au neuvième alinéa, il l'est, sur l'initiative de la partie la plus diligente, par un huissier de justice à frais partagés par moitié entre le bailleur et le locataire et à un coût fixé par décret en Conseil d'Etat. Dans ce cas, les parties en sont avisées par lui au moins sept jours à l'avance, par lettre recommandée avec demande d'avis de réception.
+
+A défaut d'état des lieux, la présomption établie par l'article 1731 du code civil ne peut être invoquée par celle des parties qui a fait obstacle à l'établissement de l'acte.
 
 Pendant le premier mois de la période de chauffe, le locataire peut demander que l'état des lieux soit complété par l'état des éléments de chauffage.
 

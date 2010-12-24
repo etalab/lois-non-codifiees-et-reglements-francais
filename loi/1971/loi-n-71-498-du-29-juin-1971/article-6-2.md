@@ -14,6 +14,6 @@ Les peines disciplinaires sont :
 
 Les poursuites sont exercées devant l'autorité ayant procédé à l'inscription, qui statue en commission de discipline. Les décisions en matière disciplinaire sont susceptibles d'un recours devant la Cour de cassation ou la cour d'appel, selon le cas.
 
-L'expert radié à titre temporaire est de nouveau soumis à la période probatoire s'il sollicite une nouvelle inscription sur une liste de cour d'appel. Il ne peut être inscrit sur la liste nationale qu'après une période d'inscription de trois années sur une liste de cour d'appel postérieure à sa radiation.
+L'expert radié à titre temporaire est de nouveau soumis à la période probatoire s'il sollicite une nouvelle inscription sur une liste de cour d'appel. Il ne peut être inscrit sur la liste nationale qu'après une période d'inscription de cinq années sur une liste de cour d'appel postérieure à sa radiation.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment les règles de procédure applicables à l'instance disciplinaire.
