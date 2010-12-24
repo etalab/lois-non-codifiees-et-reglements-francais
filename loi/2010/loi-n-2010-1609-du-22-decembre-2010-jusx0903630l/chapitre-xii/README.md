@@ -1,0 +1,3 @@
+# CHAPITRE XII : DISPOSITIONS RELATIVES  A L'OUTRE MER
+
+- [Article 42](article-42.md)
