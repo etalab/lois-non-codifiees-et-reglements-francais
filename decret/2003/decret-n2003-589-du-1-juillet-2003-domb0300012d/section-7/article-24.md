@@ -1,6 +1,6 @@
 # Article 24
 
-Le plafond annuel de ressources mentionné à l'article 28 de l'ordonnance du 27 mars 2002 susvisée, pour une personne seule est fixé à 3 000 € et à 1,8 fois ce montant pour un couple.
+Le plafond annuel de ressources mentionné à l'article 28 de l'ordonnance du 27 mars 2002 susvisée, pour une personne seule est fixé à 3 000 €. Ce montant est porté à 4 071,62 euros à partir du 1er avril 2012. Pour un couple, le plafond annuel de ressources est égal à 1,8 fois le montant prévu pour une personne seule.
 
 Pour les bénéficiaires de l'allocation spéciale pour les personnes âgées ayant à leur charge une ou plusieurs personnes, le plafond qui leur est applicable est majoré d'un montant forfaitaire par personne à charge égal à 5 % du plafond prévu pour une personne seule.
 
