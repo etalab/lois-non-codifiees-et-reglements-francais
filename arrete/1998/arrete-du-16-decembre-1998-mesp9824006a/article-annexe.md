@@ -56,7 +56,7 @@ Note. - A certains stades des transformations des produits cellulaires, il peut 
 
 Lors de la fabrication en continu, le lot doit correspondre à une fraction définie du produit cellulaire, caractérisé par son homogénéité escomptée.
 
-Pour le contrôle des produits cellulaires finis, le lot est défini de la façon suivante :  pour le contrôle du produit fini, le lot d'un produit cellulaire est l'ensemble des unités de produit cellulaire provenant d'un même prélèvement et ayant été soumises aux mêmes étapes de transformations .
+Pour le contrôle des produits cellulaires finis, le lot est défini de la façon suivante : pour le contrôle du produit fini, le lot d'un produit cellulaire est l'ensemble des unités de produit cellulaire provenant d'un même prélèvement et ayant été soumises aux mêmes étapes de transformations .
 
 Matière première : Toute substance utilisée dans la transformation d'un produit cellulaire ex vivo, y compris les produits thérapeutiques annexes et à l'exclusion des articles de conditionnement.
 
@@ -322,7 +322,7 @@ L'efficacité pratique de cette formation doit être périodiquement évaluée. 
 
 Tout membre du personnel doit subir une visite médicale lors de l'embauche. Après cette première visite, d'autres doivent être pratiquées en fonction du type de travail et de l'état de santé du personnel. Il est de la responsabilité du directeur de l'établissement ou de l'organisme de prévoir des instructions qui garantissent que toute affection pouvant avoir de l'importance lui soit signalée au regard de la sécurité du personnel et des produits manipulés. Notamment, il convient de prendre les dispositions nécessaires en vue d'éviter qu'une personne souffrant d'une maladie contagieuse ou présentant des plaies non recouvertes soit employée au prélèvement et aux transformations des produits.
 
-Des documents définissent les procédures retenues pour assurer l'hygiène et la sécurité ; les procédures sont adaptées aux activités pratiquées et tiennent compte des recommandations relatives au respect des précautions générales d'hygiène ou précautions  standard  décrites dans l'annexe II de la circulaire DGS/DH du 20 avril 1998 relative à la prévention de la transmission d'agents infectieux véhiculés par le sang ou les liquides biologiques lors des soins dans les établissements de santé. Ces procédures concernent notamment la santé, l'hygiène et l'habillage du personnel ou de toute personne pénétrant dans les zones où sont réalisées les activités.
+Des documents définissent les procédures retenues pour assurer l'hygiène et la sécurité ; les procédures sont adaptées aux activités pratiquées et tiennent compte des recommandations relatives au respect des précautions générales d'hygiène ou précautions standard décrites dans l'annexe II de la circulaire DGS/DH du 20 avril 1998 relative à la prévention de la transmission d'agents infectieux véhiculés par le sang ou les liquides biologiques lors des soins dans les établissements de santé. Ces procédures concernent notamment la santé, l'hygiène et l'habillage du personnel ou de toute personne pénétrant dans les zones où sont réalisées les activités.
 
 Le port de la blouse est obligatoire et celui des bijoux proscrit lors des manipulations de produits cellulaires.
 
@@ -508,7 +508,7 @@ Le transport des produits cellulaires s'établit selon des circuits validés qui
 
 L'étiquetage apposé sur le conditionnement extérieur du produit cellulaire doit comporter les informations nécessaires au suivi et à la traçabilité, conformément à la réglementation en vigueur, et notamment :
 
-- la mention  produit cellulaire d'origine humaine à usage thérapeutique  ;
+- la mention produit cellulaire d'origine humaine à usage thérapeutique ;
 
 - la nature, la description et les caractéristiques précises du produit, notamment le nombre d'unités transportées ;
 
@@ -554,7 +554,7 @@ Le récipient de transport est étiqueté conformément au point 6.1.5.
 
 Elle a pour but d'assurer le suivi entre les deux unités et de garantir la traçabilité du produit.
 
-Elle doit mentionner la dénomination biologique courante du produit cellulaire ou la mention  produit biologique  ainsi que les conditions de conservation en température adaptées à la nature du produit.
+Elle doit mentionner la dénomination biologique courante du produit cellulaire ou la mention produit biologique ainsi que les conditions de conservation en température adaptées à la nature du produit.
 
 Elle identifie les personnes intervenant au départ et à l'arrivée. Elle comporte l'identité du transporteur.
 
@@ -774,7 +774,7 @@ Les locaux doivent comprendre :
 
 Il est indispensable de disposer d'un matériel affecté permettant l'oxygénation, l'aspiration et la ventilation de la personne prélevée en cas d'incident et de pouvoir faire appel à un réanimateur. Pour parer à tout incident susceptible de survenir lors de la pratique de la cytaphérèse, il convient d'informer le réanimateur le plus proche du déroulement de ces actes et de rédiger une procédure validée par le réanimateur, ses collègues et le médecin responsable du prélèvement afin que des moyens de secours appropriés à la nature de ce prélèvement soient prévus et disponibles à tout moment.
 
-Les principes généraux de qualification, d'utilisation et de maintenance du matériel utilisé pour l'aphérèse cellulaire s'appliquent plus particulièrement au  séparateur  de cellules et tout matériel de mesure, d'enregistrement et de contrôle. Ce matériel de séparation des cellules est composé d'un séparateur ou moniteur et d'un dispositif de prélèvement à usage unique.
+Les principes généraux de qualification, d'utilisation et de maintenance du matériel utilisé pour l'aphérèse cellulaire s'appliquent plus particulièrement au séparateur de cellules et tout matériel de mesure, d'enregistrement et de contrôle. Ce matériel de séparation des cellules est composé d'un séparateur ou moniteur et d'un dispositif de prélèvement à usage unique.
 
 Le matériel de cytaphérèse doit être marqué CE ou homologué selon la législation en vigueur pour le programme de prélèvement utilisé. Lorsque le matériel utilisé n'est pas marqué CE ou homologué ou est en cours de marquage CE ou d'homologation, les utilisateurs doivent respecter les dispositions du livre II bis du code de la santé publique (loi Huriet relative à la protection des personnes qui se prêtent à des recherches biomédicales).
 
@@ -1235,8 +1235,6 @@ Le pédiatre transmet au service responsable de la conservation toutes informati
 2.5.2. Qualification clinique post-néonatale
 
 En application de la réglementation en vigueur, la mère et l'enfant sont convoqués au moins six semaines après l'accouchement dans le cadre de la visite post-partum.
-
-Lors de cette visite, un prélèvement sanguin est pratiqué sur la mère en vue d'examens sérologiques.
 
 Un examen médical est réalisé chez l'enfant et un interrogatoire chez la mère portant sur les événements survenus depuis l'accouchement par un médecin.
 
@@ -1742,7 +1740,7 @@ Les lignes de distribution d'azote liquide sont isolées sous vide ou avec un is
 
 Le sol est recouvert d'un matériau résistant aux basses températures et aux fortes charges au sol et d'un entretien facile.
 
-La porte d'accès est équipée d'un panneau transparent qui permet la surveillance par des personnes extérieures au laboratoire et porte un pictogramme  Risque d'asphyxie . L'ouverture de cette porte se fait vers la sortie. La porte est équipée d'une barre anti-panique afin de permettre l'évacuation rapide du personnel.
+La porte d'accès est équipée d'un panneau transparent qui permet la surveillance par des personnes extérieures au laboratoire et porte un pictogramme Risque d'asphyxie . L'ouverture de cette porte se fait vers la sortie. La porte est équipée d'une barre anti-panique afin de permettre l'évacuation rapide du personnel.
 
 A l'entrée du local :
 
@@ -1854,7 +1852,7 @@ L'étiquetage du produit fini comporte les mentions suivantes sur l'emballage :
 
 - pour les dons allogéniques : les groupes sanguins ABO et RhD ou RH1, en clair et en code à barres ;
 
-- la mention :  ne pas irradier .
+- la mention : ne pas irradier .
 
 L'ensemble de ces mentions sont reportées sur la fiche de transport qui accompagne systématiquement la distribution d'un produit cellulaire. Les mentions supplémentaires suivantes complètent les précédentes :
 
@@ -1862,9 +1860,9 @@ L'ensemble de ces mentions sont reportées sur la fiche de transport qui accompa
 
 - contenu en cellules totales ;
 
-- la mention :  utiliser immédiatement et au plus tard avant le...  (date et heure) ;
+- la mention : utiliser immédiatement et au plus tard avant le... (date et heure) ;
 
-- produit décongelé ou manipulé :  conserver entre + 18 oC et + 24 oC .
+- produit décongelé ou manipulé : conserver entre + 18 oC et + 24 oC .
 
 La pesée du produit : elle intervient à différentes étapes de la préparation des produits cellulaires. Elle inclut les opérations suivantes : calibrage, chargement, lecture et enregistrement. Les balances sont de portée et de précision appropriées. Le calibrage est effectué quotidiennement et noté sur un document spécifique. Les tares et les densités utilisées pour le calcul des volumes sont précisées.
 
@@ -1956,7 +1954,7 @@ L'indépendance du contrôle de qualité par rapport aux transformations reste u
 
 1.1. Fonctions et responsabilités
 
-Le responsable de cette unité assure la diffusion des bonnes pratiques de contrôle de la qualité des produits cellulaires, s'assure de leur mise en application ainsi que, le cas échéant, de celles du  Guide de bonne exécution des analyses . Il approuve les procédures et vérifie qu'elles sont appliquées.
+Le responsable de cette unité assure la diffusion des bonnes pratiques de contrôle de la qualité des produits cellulaires, s'assure de leur mise en application ainsi que, le cas échéant, de celles du Guide de bonne exécution des analyses . Il approuve les procédures et vérifie qu'elles sont appliquées.
 
 Il assure :
 
@@ -2002,7 +2000,7 @@ L'effectif doit être adapté au fonctionnement de l'établissement, au volume d
 
 2. Locaux
 
-Outre les exigences du  Guide de bonne exécution des analyses  et les principes énoncés dans les dispositions générales, le(s) laboratoire(s) du contrôle de la qualité des produits cellulaires doi(ven)t être séparé(s) des zones de prélèvement, transformation et stockage et conçus en tenant compte de l'ordre logique des examens réalisés.
+Outre les exigences du Guide de bonne exécution des analyses et les principes énoncés dans les dispositions générales, le(s) laboratoire(s) du contrôle de la qualité des produits cellulaires doi(ven)t être séparé(s) des zones de prélèvement, transformation et stockage et conçus en tenant compte de l'ordre logique des examens réalisés.
 
 Une zone de réception et de stockage est prévue pour l'enregistrement des échantillons avant la réalisation des examens ou pour une conservation à long terme. Elle est distincte de la zone de stockage des matières premières, réactifs et consommables.
 
@@ -2012,7 +2010,7 @@ Une procédure décrit les conditions de prélèvement, de traitement et de stoc
 
 3. Matériel
 
-Outre les exigences du  Guide de bonne exécution des analyses  et les principes énoncés dans les dispositions générales, le matériel utilisé pour les examens ne doit présenter aucun risque pour les échantillons. Les surfaces en contact avec les échantillons ne doivent pas en altérer l'intégrité.
+Outre les exigences du Guide de bonne exécution des analyses et les principes énoncés dans les dispositions générales, le matériel utilisé pour les examens ne doit présenter aucun risque pour les échantillons. Les surfaces en contact avec les échantillons ne doivent pas en altérer l'intégrité.
 
 Les solutions ou le matériel de nettoyage ne doivent entraîner aucune altération de la qualité des produits cellulaires, conformément au manuel d'entretien fourni par le constructeur.
 
@@ -2048,7 +2046,7 @@ Ces procédures sont complétées par les procédures de contrôle des produits 
 
 Toute opération de contrôle réalisée en sous-traitance doit faire l'objet d'un contrat écrit, notamment en ce qui concerne tous les contrôles de qualité autres que ceux effectués sur les produits cellulaires.
 
-Le prélèvement des échantillons de contrôle doit respecter les règles édictées par le  Guide de bonne exécution des analyses .
+Le prélèvement des échantillons de contrôle doit respecter les règles édictées par le Guide de bonne exécution des analyses .
 
 Les résultats des examens doivent être disponibles, aussi rapidement que possible, pour permettre l'application de mesures correctives adaptées. Les résultats des examens effectués sont enregistrés et archivés.
 

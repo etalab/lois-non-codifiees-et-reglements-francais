@@ -813,7 +813,6 @@
 - [Arrêté du 24 juillet 1996 (EQUA9600456A)](arrete-du-24-juillet-1996-equa9600456a)
 - [Arrêté du 24 juillet 1996 (INTD9600374A)](arrete-du-24-juillet-1996-intd9600374a)
 - [Arrêté du 24 juillet 1996 (MCCK9600359A)](arrete-du-24-juillet-1996-mcck9600359a)
-- [Arrêté du 24 juillet 1996 (TASP9623108A)](arrete-du-24-juillet-1996-tasp9623108a)
 - [Arrêté du 24 juillet 1998 (MESH9821872A)](arrete-du-24-juillet-1998-mesh9821872a)
 - [Arrêté du 24 juin 1996 (INDH9600463A)](arrete-du-24-juin-1996-indh9600463a)
 - [Arrêté du 24 octobre 1996 (LOGC9600044A)](arrete-du-24-octobre-1996-logc9600044a)

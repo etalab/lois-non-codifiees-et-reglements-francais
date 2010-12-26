@@ -440,7 +440,6 @@
 - [Arrêté du 21 décembre 2005 (EQUA0502052A)](arrete-du-21-decembre-2005-equa0502052a)
 - [Arrêté du 21 décembre 2005 (EQUS0500620A)](arrete-du-21-decembre-2005-equs0500620a)
 - [Arrêté du 21 décembre 2005 (INTC0500862A)](arrete-du-21-decembre-2005-intc0500862a)
-- [Arrêté du 21 décembre 2005 (SANP0522351A)](arrete-du-21-decembre-2005-sanp0522351a)
 - [Arrêté du 21 février 2005 (CPTE0400156A)](arrete-du-21-fevrier-2005-cpte0400156a)
 - [Arrêté du 21 février 2005 (SOCF0510314A)](arrete-du-21-fevrier-2005-socf0510314a)
 - [Arrêté du 21 février 2005 (SOCF0510315A)](arrete-du-21-fevrier-2005-socf0510315a)
