@@ -830,6 +830,7 @@
 - [Décret n°2010-1124 du 23 septembre 2010 (SASH1016080D)](decret-n2010-1124-du-23-septembre-2010-sash1016080d)
 - [Décret n°2010-1125 du 23 septembre 2010 (SASH1018535D)](decret-n2010-1125-du-23-septembre-2010-sash1018535d)
 - [Décret n°2010-1440 du 23 novembre 2010 (AGRT1025820D)](decret-n2010-1440-du-23-novembre-2010-agrt1025820d)
+- [Décret n°2010-1616 du 23 décembre 2010 (PRMX1033532D)](decret-n2010-1616-du-23-decembre-2010-prmx1033532d)
 - [Décret n°2010-167 du 23 février 2010 (BCFF0916557D)](decret-n2010-167-du-23-fevrier-2010-bcff0916557d)
 - [Décret n°2010-168 du 23 février 2010 (BCFF0931719D)](decret-n2010-168-du-23-fevrier-2010-bcff0931719d)
 - [Décret n°2010-170 du 23 février 2010 (DEVT0902823D)](decret-n2010-170-du-23-fevrier-2010-devt0902823d)

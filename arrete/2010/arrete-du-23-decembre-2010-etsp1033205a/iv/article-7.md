@@ -1,0 +1,3 @@
+# Article 7
+
+Pour l'application du deuxième alinéa de l'article R. 1211-22 du code de la santé publique, dans les situations d'urgence vitale et en l'absence d'alternatives thérapeutiques, le médecin qui réalise la greffe de cellules souches hématopoïétiques ou de cellules mononucléées peut, dans les conditions prévues audit alinéa greffer des cellules souches hématopoïétiques ou des cellules mononucléées provenant d'un donneur pour lequel le résultat des analyses de biologie médicale destinées à faire le diagnostic de l'infection par le virus de l'hépatite C a fait ressortir un risque de transmission de cette infection.
