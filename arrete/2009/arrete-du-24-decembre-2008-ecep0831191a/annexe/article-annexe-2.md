@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DE L'ANNÉE 2009**
+**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DE L'ANNÉE 2009, 2010 et 2011**
 
 -corps des maîtres-assistants des écoles des mines, et corps des professeurs des écoles des mines, régis par le décret n° 2007-468 du 28 mars 2007 portant statut particulier des personnels enseignants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 

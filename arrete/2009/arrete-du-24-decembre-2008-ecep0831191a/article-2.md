@@ -10,6 +10,6 @@ b) L'entretien donne lieu à un compte rendu complété et signé par le supéri
 
 c) Ce compte rendu doit porter sur chacun des thèmes abordés au cours de l'entretien et comporte une appréciation générale exprimant la valeur professionnelle de l'agent arrêtée au terme de l'entretien dans les conditions fixées à l'article 4 ;
 
-d) Dans le délai de quinze jours, le compte rendu est communiqué à l'agent qui, le cas échéant, le complète par ses observations sur la conduite de l'entretien ou les différents sujets sur lesquels il porte, le signe et le renvoie à son supérieur dans un délai de quinze jours ;
+d) Dans le délai de quinze jours, le compte rendu est communiqué à l'agent, qui, le cas échéant, le complète de ses observations sur la conduite de l'entretien ou les différents sujets sur lesquels il porte et le transmet dans un délai de quinze jours, par la voie hiérarchique, à l'autorité hiérarchique pour visa. Ce délai est interrompu pour une durée maximale de deux semaines en cas de demande facultative de révision gracieuse. Après visa par l'autorité hiérarchique, le compte rendu est notifié à l'agent, qui le signe pour attester qu'il en a pris connaissance puis le retourne à l'autorité hiérarchique dans un délai de huit jours ;
 
 e) Le compte rendu est classé au dossier individuel de l'agent.

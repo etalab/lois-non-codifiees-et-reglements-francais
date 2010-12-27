@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DES ANNÉES 2008 ET 2009**
+**CORPS DE FONCTIONNAIRES VISÉS À L'ARTICLE 1er DE L'ARRÊTÉ AU TITRE DES ANNÉES 2008, 2009, 2010 et 2011**
 
 ― corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie régi par le décret n° 2007-537 du 10 avril 2007 portant dispositions statutaires relatives au corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie ;
 
