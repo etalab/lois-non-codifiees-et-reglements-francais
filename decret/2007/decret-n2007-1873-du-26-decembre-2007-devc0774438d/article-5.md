@@ -16,14 +16,13 @@ Une aide de 2 000 euros est également attribuée par le fonds d'aide à l'acqui
 
 <div align="center">
 
-<br/>
 <table>
 <tbody>
 <tr>
 <td rowspan="2">
 <br/>
 </td>
-<td colspan="5">
+<td colspan="3">
 <p align="center">ANNÉE<br/>de facturation</p>
 </td>
 </tr>
@@ -36,12 +35,6 @@ Une aide de 2 000 euros est également attribuée par le fonds d'aide à l'acqui
 </td>
 <td align="center">
 <p align="center">2010</p>
-</td>
-<td align="center">
-<p align="center">2011</p>
-</td>
-<td align="center">
-<p align="center">2012</p>
 </td>
 </tr>
 <tr>
@@ -56,12 +49,6 @@ Une aide de 2 000 euros est également attribuée par le fonds d'aide à l'acqui
 </td>
 <td align="center">
 <p align="center">155</p>
-</td>
-<td align="center">
-<p align="center">155</p>
-</td>
-<td align="center">
-<p align="center">150</p>
 </td>
 </tr>
 </tbody>

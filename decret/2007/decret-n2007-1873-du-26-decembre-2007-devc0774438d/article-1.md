@@ -18,6 +18,49 @@ Une aide est attribuée par le fonds d'aide à l'acquisition de véhicules propr
 <td rowspan="3" width="377">
 <p align="center">TYPE DE VÉHICULE</p>
 </td>
+<td colspan="3" width="304">
+<p align="center">TAUX D'ÉMISSION DE DIOXYDE DE CARBONE<br/>(en grammes par kilomètre)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="304">
+<p align="center">Année de facturation</p>
+</td>
+</tr>
+<tr>
+<td width="60">
+<p align="center">2008</p>
+</td>
+<td width="60">
+<p align="center">2009</p>
+</td>
+<td width="60">
+<p align="center">2010</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="377">
+<p>Véhicules, acquis ou pris en location par des personnes physiques, fonctionnant, exclusivement ou non, au moyen du gaz de pétrole liquéfié ou du gaz naturel véhicules </p>
+</td>
+<td align="center" valign="middle">
+<p align="center">140</p>
+</td>
+<td align="center" valign="middle">
+<p align="center">140</p>
+</td>
+<td align="center" valign="middle">
+<p align="center">135</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3" width="377">
+<p align="center">TYPE DE VÉHICULE</p>
+</td>
 <td colspan="5" width="304">
 <p align="center">TAUX D'ÉMISSION DE DIOXYDE DE CARBONE<br/>(en grammes par kilomètre)</p>
 </td>
@@ -46,7 +89,7 @@ Une aide est attribuée par le fonds d'aide à l'acquisition de véhicules propr
 </tr>
 <tr>
 <td valign="top" width="377">
-<p>Véhicules, acquis ou pris en location par des personnes physiques, fonctionnant, exclusivement ou non, au moyen du gaz de pétrole liquéfié ou du gaz naturel véhicules ou combinant l'énergie électrique et une motorisation à l'essence ou au gazole </p>
+<p>Véhicules, acquis ou pris en location par des personnes physiques, combinant l'énergie électrique et une motorisation à l'essence ou au gazole </p>
 </td>
 <td align="center" valign="middle">
 <p align="center">140</p>
@@ -58,10 +101,10 @@ Une aide est attribuée par le fonds d'aide à l'acquisition de véhicules propr
 <p align="center">135</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">135</p>
+<p align="center">110</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">130</p>
+<p align="center">110</p>
 </td>
 </tr>
 <tr>
@@ -78,10 +121,10 @@ Une aide est attribuée par le fonds d'aide à l'acquisition de véhicules propr
 <p align="center">125</p>
 </td>
 <td valign="top" width="60">
-<p align="center">125</p>
+<p align="center">110</p>
 </td>
 <td valign="top" width="64">
-<p align="center">120</p>
+<p align="center">110</p>
 </td>
 </tr>
 </tbody>

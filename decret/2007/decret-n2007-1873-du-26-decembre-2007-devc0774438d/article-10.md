@@ -1,6 +1,6 @@
 # Article 10
 
-L'aide prévue à l'article 1er, majorée s'il y a lieu conformément à l'article 4, s'applique :
+I. - L'aide prévue à l'article 1er, majorée s'il y a lieu conformément à l'article 4, s'applique, pour l'entrée dans le dispositif :
 
 1° Aux acquisitions réalisées à compter du 5 décembre 2007 lorsque le véhicule concerné a été commandé à compter de cette même date ;
 
@@ -8,6 +8,12 @@ L'aide prévue à l'article 1er, majorée s'il y a lieu conformément à l'artic
 
 3° Pour les véhicules, acquis ou pris en location par des personnes physiques, fonctionnant, exclusivement ou non, au moyen du gaz de pétrole liquéfié, de l'énergie électrique ou du gaz naturel véhicules ou combinant l'énergie électrique et une motorisation à l'essence ou au gazole, aux facturations réalisées à compter du 1er janvier 2008.
 
-L'aide prévue à l'article 5 s'applique aux travaux de transformation facturés à compter du 1er janvier 2008.
+Cette aide s'applique, pour la sortie du dispositif :
 
-Les aides prévues aux articles 1er et 5 s'appliquent aux acquisitions, prises en location et travaux de transformation facturés au plus tard le 31 décembre 2012.
+1° Aux véhicules fonctionnant, exclusivement ou non, au moyen du gaz de pétrole liquéfié ou du gaz naturel, commandés ou ayant fait l'objet d'un contrat de location signé, par des personnes physiques, au plus tard le 31 décembre 2010 et qui font l'objet d'une facturation au plus tard le 31 mars 2011 ;
+
+2° Aux véhicules combinant l'énergie électrique et une motorisation à l'essence ou au gazole, commandés ou ayant fait l'objet d'un contrat de location signé, par des personnes physiques, au plus tard le 31 décembre 2012 et qui font l'objet d'une facturation au plus tard le 31 mars 2013 ;
+
+3° Aux autres véhicules, commandés ou ayant fait l'objet d'un contrat de location signé au plus tard le 31 décembre 2012 et qui font l'objet d'une facturation au plus tard le 31 mars 2013.
+
+II. - L'aide prévue à l'article 5 s'applique, pour l'entrée et la sortie du dispositif, aux travaux de transformation facturés à compter du 1er janvier 2008 et au plus tard le 31 mars 2011.
