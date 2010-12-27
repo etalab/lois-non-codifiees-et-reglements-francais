@@ -10,6 +10,6 @@ b) Armes de poing chambrées pour le calibre 7,65 mm.
 
 2° 6e catégorie :
 
-a) Matraques de type bâton de défense ou tonfa ;
+a) Matraques, matraques télescopiques et bâton de défense de type "tonfa" ;
 
 b) Générateurs d'aérosols incapacitants ou lacrymogènes.
