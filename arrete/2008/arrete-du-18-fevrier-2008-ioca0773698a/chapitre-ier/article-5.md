@@ -8,6 +8,8 @@ L'entretien professionnel est un échange entre le supérieur hiérarchique dire
 
 ― les acquis de son expérience professionnelle ;
 
+― le cas échéant, la manière dont il exerce les fonctions d'encadrement qui lui ont été confiées ;
+
 ― ses besoins de formation ;
 
 ― les perspectives d'évolution de l'agent en terme de carrière et de mobilité ;
