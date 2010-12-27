@@ -1,0 +1,3 @@
+# Article 5
+
+Le vice-président du Conseil général de l'industrie, de l'énergie et des technologies, le directeur général du Trésor, le directeur général de la compétitivité, de l'industrie et des services, le directeur général de l'Institut national de la statistique et des études économiques, le directeur général des douanes et droits indirects, le président-directeur général de La Monnaie de Paris, le chef du service du contrôle général économique et financier et le secrétaire général des ministères économique et financier sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
