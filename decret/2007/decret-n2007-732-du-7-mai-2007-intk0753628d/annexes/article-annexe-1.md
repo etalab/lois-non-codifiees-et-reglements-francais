@@ -26,7 +26,7 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 </tr>
 <tr>
 <td width="117">FR102 </td>
-<td width="544">Seine-et-Marne. f</td>
+<td width="544">Seine-et-Marne. </td>
 </tr>
 <tr>
 <td valign="top" width="117"/>
@@ -94,7 +94,7 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td valign="bottom" width="544">60211 Eragny-sur-Epte ; 60459 La Neuville-sur-Ressons ; 60533 Ressons-sur-Matz ; 60538 Ricquebourg ; 60558 Roye-sur-Matz ; 60616 Sérifontaine. </td>
+<td valign="bottom" width="544">60023 Armancourt ; 60099 Braisnes ; 60019 Antheuil-Portes ; 60048 Baugy ; 60211 Eragny-sur-Epte ; 60326 Jonquières ; 60337 Lachelle ; 60402 Le Meux ; 60459 La Neuville-sur-Ressons ; 60533 Ressons-sur-Matz ; 60538 Ricquebourg ; 60558 Roye-sur-Matz ; 60616 Sérifontaine ; 60665 venette. </td>
 </tr>
 <tr>
 <td valign="bottom" width="117">FR223 </td>
@@ -178,7 +178,7 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td valign="top" width="544">14001 Ablon ; 14003 Agy ; 14025 Aubigny ; 14047 Bayeux ; 14076 Blainville-sur-Orne ; 14087 Bonnoeil ; 14088 Bons-Tassilly ; 14092 Bourguébus ; 14102 Le Breuil-en-Auge ; 14116 Le Bû-sur-Rouvres ; 14119 Cagny ; 14129 Campeaux ; 14145 Cauvicourt ; 14160 Cintheaux ; 14167 Colombelles ; 14173 Condé-sur-Ifs ; 14174 Condé-sur-Noireau ; 14180 Cordey ; 14215 Cuverville ; 14223 Le Détroit ; 14226 Donnay ; 14246 Escoville ; 14251 Esson ; 14252 Estrées-la-Campagne ; 14258 Falaise (P : Falaise-Nord) ; 14260 Fauguernon ; 14269 Fierville-les-Parcs ; 14270 Firfol ; 14284 Fourneaux-le-Val ; 14294 Garcelles-Secqueville ; 14299 Genneville ; 14301 Giberville ; 14303 Glos ; 14317 La Graverie ; 14319 Grentheville ; 14326 Hermival-les-Vaux ; 14328 Hérouvillette ; 14332 La Hoguette ; 14333 Honfleur ; 14343 Les Isles-Bardel ; 14360 Leffard ; 14369 Litteau ; 14375 Les Loges-Saulces ; 14386 Magny-la-Campagne ; 14394 Maizières ; 14399 Manneville-la-Pipard ; 14405 Martigny-sur-l'Ante ; 14427 Le Mesnil-Villement ; 14436 Monceaux-en-Bessin ; 14441 Mont-Bertrand ; 14445 Montfiquet ; 14466 Norolles ; 14467 Noron-l'Abbaye ; 14486 Ouilly-le-Tesson ; 14493 Percy-en-Auge ; 14501 Pierrefitte-en-Cinglais ; 14502 Pierrepont ; 14516 Potigny ; 14528 Quetteville ; 14530 Ranville ; 14531 Rapilly ; 14536 La Rivière-Saint-Sauveur ; 14540 Rocques ; 14545 Roullours ; 14546 Rouvres ; 14554 Saint-Aignan-de-Cramesnil ; 14563 Saint-Benoît-d'Hébertot ; 14572 Saint-Denis-de-Méré ; 14588 Saint-Germain-Langot ; 14601 Saint-Julien-sur-Calonne ; 14609 Saint-Loup-Hors ; 14618 Sainte-Marie-Laumont ; 14627 Saint-Martin-de-Mieux ; 14630 Saint-Martin-des-Entrées ; 14646 Saint-Pierre-Canivet ; 14649 Saint-Pierre-du-Bû ; 14674 Soignolles ; 14675 Soliers ; 14677 Soulangy ; 14678 Soumont-Saint-Quentin ; 14679 Subles ; 14682 Surville ; 14691 Tilly-la-Campagne ; 14710 Tréprel ; 14714 Le Tronquay ; 14717 Truttemer-le-Grand ; 14718 Truttemer-le-Petit ; 14720 Ussy ; 14727 Vaubadon ; 14730 Vaudry ; 14748 Vieux-Bourg ; 14753 Villers-Canivet ; 14762 Vire ; 14764 Pont-d'Ouilly. </td>
+<td valign="top" width="544">14001 Ablon ; 14003 Agy ; 14025 Aubigny ; 14047 Bayeux ; 14076 Blainville-sur-Orne ; 14087 Bonnoeil ; 14088 Bons-Tassilly ; 14092 Bourguébus ; 14102 Le Breuil-en-Auge ; 14116 Le Bû-sur-Rouvres ; 14119 Cagny ; 14129 Campeaux ; 14145 Cauvicourt ; 14160 Cintheaux ; 14167 Colombelles ; 14173 Condé-sur-Ifs ; 14174 Condé-sur-Noireau ; 14180 Cordey ; 14215 Cuverville ; 14223 Le Détroit ; 14226 Donnay ; 14246 Escoville ; 14251 Esson ; 14252 Estrées-la-Campagne ; 14258 Falaise (P : Falaise-Nord) ; 14260 Fauguernon ; 14269 Fierville-les-Parcs ; 14270 Firfol ; 14284 Fourneaux-le-Val ; 14294 Garcelles-Secqueville ; 14299 Genneville ; 14301 Giberville ; 14303 Glos ; 14317 La Graverie ; 14319 Grentheville ; 14326 Hermival-les-Vaux ; 14328 Hérouvillette ; 14332 La Hoguette ; 14333 Honfleur ; 14343 Les Isles-Bardel ; 14360 Leffard ; 14369 Litteau ; 14375 Les Loges-Saulces ; 14386 Magny-la-Campagne ; 14394 Maizières ; 14399 Manneville-la-Pipard ; 14405 Martigny-sur-l'Ante ; 14427 Le Mesnil-Villement ; 14436 Monceaux-en-Bessin ; 14437 Mondeville ; 14441 Mont-Bertrand ; 14445 Montfiquet ; 14466 Norolles ; 14467 Noron-l'Abbaye ; 14486 Ouilly-le-Tesson ; 14493 Percy-en-Auge ; 14501 Pierrefitte-en-Cinglais ; 14502 Pierrepont ; 14516 Potigny ; 14528 Quetteville ; 14530 Ranville ; 14531 Rapilly ; 14536 La Rivière-Saint-Sauveur ; 14540 Rocques ; 14545 Roullours ; 14546 Rouvres ; 14554 Saint-Aignan-de-Cramesnil ; 14563 Saint-Benoît-d'Hébertot ; 14572 Saint-Denis-de-Méré ; 14588 Saint-Germain-Langot ; 14601 Saint-Julien-sur-Calonne ; 14609 Saint-Loup-Hors ; 14618 Sainte-Marie-Laumont ; 14627 Saint-Martin-de-Mieux ; 14630 Saint-Martin-des-Entrées ; 14646 Saint-Pierre-Canivet ; 14649 Saint-Pierre-du-Bû ; 14674 Soignolles ; 14675 Soliers ; 14677 Soulangy ; 14678 Soumont-Saint-Quentin ; 14679 Subles ; 14682 Surville ; 14691 Tilly-la-Campagne ; 14710 Tréprel ; 14714 Le Tronquay ; 14717 Truttemer-le-Grand ; 14718 Truttemer-le-Petit ; 14720 Ussy ; 14727 Vaubadon ; 14730 Vaudry ; 14748 Vieux-Bourg ; 14753 Villers-Canivet ; 14762 Vire ; 14764 Pont-d'Ouilly. </td>
 </tr>
 <tr>
 <td width="117">FR252 </td>
@@ -270,7 +270,7 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td valign="top" width="544">54008 Allain ; 54010 Allamps ; 54020 Anthelupt ; 54036 Avril ; 54038 Azerailles ; 54039 Baccarat ; 54041 Bagneux ; 54047 Barisey-la-Côte ; 54051 Batilly ; 54061 Bénaménil ; 54069 Beuvillers ; 54075 Bionville ; 54077 Blâmont ; 54088 Bouvron ; 54096 Bréhain-la-Ville ; 54099 Briey ; 54106 Bures ; 54112 Chambley-Bussières ; 54116 Chanteheux ; 54125 Chenevières ; 54127 Chenières ; 54129 Cirey-sur-Vezouze ; 54147 Crion ; 54148 Croismare ; 54151 Cutry ; 54153 Dampvitoux ; 54161 Domèvre-sur-Vezouze ; 54166 Dommartin-la-Chaussée ; 54181 Errouville ; 54199 Flin ; 54202 Fontenoy-sur-Moselle ; 54208 Francheville ; 54210 Fréménil ; 54211 Frémonville ; 54227 Giraumont ; 54232 Gondreville ; 54244 Hagéville ; 54258 Hénaménil ; 54259 Herbéviller ; 54260 Hériménil ; 54263 Homécourt ; 54269 Hudiviller ; 54273 Jarny ; 54281 Jolivet ; 54283 Jouaville ; 54285 Juvrecourt ; 54287 Lachapelle ; 54288 Lagney ; 54303 Laronxe ; 54314 Lexy ; 54329 Lunéville ; 54350 Marainviller ; 54367 Mexy ; 54373 Moncel-lès-Lunéville ; 54396 Neufmaisons ; 54406 Ogéviller ; 54423 Pexonne ; 54427 Pierre-Percée ; 54446 Réchicourt-la-Petite ; 54451 Réhon ; 54462 Rosières-aux-Salines ; 54472 Saint-Clément ; 54477 Saint-Julien­lès-Gorze ; 54478 Saint-Marcel ; 54491 Sancy ; 54504 Serrouville ; 54519 Thiaville-sur-Meurthe ; 54520 Thiébauménil ; 54521 Thil ; 54525 Tiercelet ; 54534 Trondes ; 54540 Val-et-Châtillon ; 54548 Vannes-le-Châtel ; 54575 Villers-la-Montagne ; 54584 Villey-Saint-Etienne ; 54588 Vitrimont. </td>
+<td valign="top" width="544">54008 Allain ; 54010 Allamps ; 54020 Anthelupt ; 54034 Avrainville ; 54036 Avril ; 54038 Azerailles ; 54039 Baccarat ; 54041 Bagneux ; 54047 Barisey-la-Côte ; 54051 Batilly ; 54061 Bénaménil ; 54069 Beuvillers ; 54075 Bionville ; 54077 Blâmont ; 54088 Bouvron ; 54096 Bréhain-la-Ville ; 54099 Briey ; 54106 Bures ; 54112 Chambley-Bussières ; 54116 Chanteheux ; 54125 Chenevières ; 54127 Chenières ; 54129 Cirey-sur-Vezouze ; 54147 Crion ; 54148 Croismare ; 54151 Cutry ; 54153 Dampvitoux ; 54161 Domèvre-sur-Vezouze ; 54166 Dommartin-la-Chaussée ; 54181 Errouville ; 54199 Flin ; 54202 Fontenoy-sur-Moselle ; 54208 Francheville ; 54210 Fréménil ; 54211 Frémonville ; 54227 Giraumont ; 54232 Gondreville ; 54244 Hagéville ; 54258 Hénaménil ; 54259 Herbéviller ; 54260 Hériménil ; 54263 Homécourt ; 54269 Hudiviller ; 54272 Jaillon ; 54273 Jarny ; 54281 Jolivet ; 54283 Jouaville ; 54285 Juvrecourt ; 54287 Lachapelle ; 54288 Lagney ; 54303 Laronxe ; 54314 Lexy ; 54329 Lunéville ; 54350 Marainviller ; 54367 Mexy ; 54373 Moncel-lès-Lunéville ; 54396 Neufmaisons ; 54406 Ogéviller ; 54423 Pexonne ; 54427 Pierre-Percée ; 54446 Réchicourt-la-Petite ; 54451 Réhon ; 54462 Rosières-aux-Salines ; 54463 Rosières-en-Haye ; 54472 Saint-Clément ; 54477 Saint-Julien­lès-Gorze ; 54478 Saint-Marcel ; 54491 Sancy ; 54504 Serrouville ; 54519 Thiaville-sur-Meurthe ; 54520 Thiébauménil ; 54521 Thil ; 54525 Tiercelet ; 54534 Trondes ; 54540 Val-et-Châtillon ; 54548 Vannes-le-Châtel ; 54575 Villers-la-Montagne ; 54580 Villerupt ; 54584 Villey-Saint-Etienne ; 54588 Vitrimont. </td>
 </tr>
 <tr>
 <td width="117">FR412 </td>
@@ -286,7 +286,7 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td valign="top" width="544">57028 Argancy, 57031 Ars-Laquenexy ; 57034 Aspach ; 57038 Audun-le-Tiche ; 57039 Augny ; 57056 Bébing ; 57060 Bénestroff ; 57061 Béning-lès-Saint-Avold ; 57067 Bertrange ; 57073 Betting-lès-Saint-Avold ; 57090 Blanche-Eglise ; 57111 Bronvaux ; 57114 Brouviller ; 57132 Château-Salins ; 57137 Cheminot, 57142 Chieulles, 57145 Coincy ; 57151 Conthil ; 57160 Creutzwald ; 57177 Dieuze ; 57189 Eincheville ; 57193 Ennery ; 57197 Ernestviller ; 57206 Fameck ; 57207 Farébersviller ; 57208 Farschviller ; 57209 Faulquemont ; 57212 Féy ; 57211 Fèves ; 57219 Flévy ; 57221 Florange ; 57222 Folkling ; 57227 Forbach ; 57232 Francaltroff ; 57233 Fraquelfing ; 57251 Goin ; 57264 Guebenhouse ; 57265 Guébestroff ; 57270 Val-de-Bride ; 57283 Hagondange ; 57287 Basse-Ham ; 57289 Hambach ; 57297 Harprich ; 57302 Hattigny ; 57303 Hauconcourt ; 57314 Héming ; 57316 Henriville ; 57343 Illange ; 57377 Landange ; 57379 Landroff ; 57386 Laudrefang ; 57401 Lidrezing, 57403 Liéhon ; 57411 Lommerange ; 57413 Longeville-lès-Saint-Avold ; 57419 Loupershouse ; 57422 Louvigny, 57433 Maizières-lès-Metz ; 57438 Malroy, 57445 Marieulles ; 57448 Marsal ; 57454 Mécleuves ; 57468 Mittelbronn ; 57474 Mondelange ; 57483 Morhange ; 57485 Morville-lès-Vic ; 57490 Moyenvic ; 57500 Neufmoulins ; 57504 Niderhoff ; 57511 Norroy-le-Veneur ; 57512 Nouilly ; 57521 Œting ; 57532 Pagny-lès-Goin ; 57540 Phalsbourg ; 57543 Pierrevillers ; 57548 Pontoy ; 57549 Pontpierre ; 57565 Rédange ; 57566 Réding ; 57582 Richemont ; 57591 Rombas ; 57593 Roncourt ; 57603 Russange ; 57614 Saint-Jean-Kourtzerode ; 57620 Sainte-Marie-aux-Chênes ; 57630 Sarrebourg ; 57638 Schoeneck ; 57644 Seingbouse ; 57645 Semécourt ; 57652 Sillegny ; 57668 Teting-sur-Nied ; 57669 Théding ; 57670 Thicourt ; 57677 Trémery ; 57679 Tritteling ; 57683 Uckange ; 57685 Vahl-lès-Bénestroff, 57694 Vany ; 57722 Vionville ; 57724 Vitry-sur-Orne ; 57752 Woustviller ; 57753 Wuisse ; 57757 Yutz. </td>
+<td valign="top" width="544">57028 Argancy, 57031 Ars-Laquenexy ; 57034 Aspach ; 57038 Audun-le-Tiche ; 57039 Augny ; 57056 Bébing ; 57060 Bénestroff ; 57061 Béning-lès-Saint-Avold ; 57067 Bertrange ; 57073 Betting-lès-Saint-Avold ; 57090 Blanche-Eglise ; 57111 Bronvaux ; 57114 Brouviller ; 57132 Château-Salins ; 57137 Cheminot, 57142 Chieulles, 57145 Coincy ; 57151 Conthil ; 57160 Creutzwald ; 57177 Dieuze ; 57189 Eincheville ; 57193 Ennery ; 57197 Ernestviller ; 57206 Fameck ; 57207 Farébersviller ; 57208 Farschviller ; 57209 Faulquemont ; 57212 Féy ; 57211 Fèves ; 57219 Flévy ; 57221 Florange ; 57222 Folkling ; 57227 Forbach ; 57232 Francaltroff ; 57233 Fraquelfing ; 57251 Goin ; 57264 Guebenhouse ; 57265 Guébestroff ; 57270 Val-de-Bride ; 57283 Hagondange ; 57287 Basse-Ham ; 57289 Hambach ; 57297 Harprich ; 57302 Hattigny ; 57303 Hauconcourt ; 57314 Héming ; 57316 Henriville ; 57343 Illange ; 57377 Landange ; 57379 Landroff ; 57386 Laudrefang ; 57401 Lidrezing, 57403 Liéhon ; 57411 Lommerange ; 57413 Longeville-lès-Saint-Avold ; 57419 Loupershouse ; 57422 Louvigny, 57433 Maizières-lès-Metz ; 57438 Malroy, 57445 Marieulles ; 57448 Marsal ; 57454 Mécleuves ; 57468 Mittelbronn ; 57474 Mondelange ; 57483 Morhange ; 57485 Morville-lès-Vic ; 57490 Moyenvic ; 57500 Neufmoulins ; 57504 Niderhoff ; 57511 Norroy-le-Veneur ; 57512 Nouilly ; 57521 Œting ; 57532 Pagny-lès-Goin ; 57540 Phalsbourg ; 57543 Pierrevillers ; 57548 Pontoy ; 57549 Pontpierre ; 57550 Porcellette ; 57565 Rédange ; 57566 Réding ; 57582 Richemont ; 57591 Rombas ; 57593 Roncourt ; 57603 Russange ; 57614 Saint-Jean-Kourtzerode ; 57620 Sainte-Marie-aux-Chênes ; 57630 Sarrebourg ; 57638 Schoeneck ; 57644 Seingbouse ; 57645 Semécourt ; 57652 Sillegny ; 57668 Teting-sur-Nied ; 57669 Théding ; 57670 Thicourt ; 57677 Trémery ; 57679 Tritteling ; 57683 Uckange ; 57685 Vahl-lès-Bénestroff, 57694 Vany ; 57765 Diesen ; 57722 Vionville ; 57724 Vitry-sur-Orne ; 57752 Woustviller ; 57753 Wuisse ; 57757 Yutz. </td>
 </tr>
 <tr>
 <td width="117">FR414 </td>
@@ -716,6 +716,12 @@ a) Zones d'aide à finalité régionale permanentes à taux normal non limitées
 <td valign="top" width="117"/>
 <td width="544">84001 Althen-des-Paluds ; 84019 Bollène ; 84043 Entraigues-sur-la-Sorgue ; 84053 Grillon ; 84064 Lapalud ; 84080 Monteux ; 84092 Le Pontet ; 84097 Richerenches ; 84129 Sorgues ; 84138 Valréas. </td>
 </tr>
+<tr>
+<td/>
+<td>
+<br/>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -838,95 +844,6 @@ dans lesquelles ne peuvent être aidés que les projets dont les investissements
 
 B. - Zones d'aide à finalité régionale permanentes à taux réduit
 
-<table>
-<tbody>
-<tr>
-<td width="117">CODE EUROSTAT des régions et départements </td>
-<td width="544">NOMS DES RÉGIONS ET DES DÉPARTEMENTS<br/>Code INSEE (COG 1999) et nom des communes éligibles (P : zonage partiel - cantons ou zone éligible au sein de la commune) </td>
-</tr>
-<tr>
-<td width="117">FR10</td>
-<td width="544">Ile-de-France.</td>
-</tr>
-<tr>
-<td width="117">FR108</td>
-<td width="544">Val-d'Oise.</td>
-</tr>
-<tr>
-<td width="117"/>
-<td width="544">95088 Bonneuil-en-France ; 95268 Garges-lès-Gonesse (P : Garges-lès-Gonesse Est).</td>
-</tr>
-<tr>
-<td width="117">FR42 </td>
-<td width="544">Alsace. </td>
-</tr>
-<tr>
-<td width="117">FR422 </td>
-<td width="544">Haut-Rhin. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td width="544">68011 Aspach-le-Bas ; 68012 Aspach-le-Haut ; 68016 Balgau ; 68020 Bantzenheim ; 68060 Burnhaupt-le-Haut ; 68063 Cernay ; 68064 Chalampé ; 68070 Didenheim ; 68082 Ensisheim ; 68088 Feldkirch ; 68104 Geiswasser ; 68112 Guebwiller ; 68130 Heiteren ; 68140 Hirtzfelden ; 68156 Issenheim ; 68203 Merxheim ; 68205 Meyenheim ; 68218 Morschwiller-le-Bas ; 68224 Mulhouse (P : Mulhouse Sud) ; 68225 Munchhouse ; 68230 Nambsheim ; 68253 Ottmarsheim ; 68258 Pulversheim ; 68260 Raedersheim ; 68266 Réguisheim ; 68267 Reiningue ; 68270 Richwiller ; 68289 Ruelisheim ; 68315 Soultz-Haut-Rhin ; 68321 Staffelfelden ; 68343 Ungersheim ; 68348 Vieux-Thann ; 68375 Wittelsheim ; 68376 Wittenheim. </td>
-</tr>
-<tr>
-<td width="117">FR43 </td>
-<td width="544">Franche-Comté. </td>
-</tr>
-<tr>
-<td width="117">FR431 </td>
-<td width="544">Doubs. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td width="544">25011 Allenjoie ; 25020 Arbouans ; 25097 Brognard ; 25188 Dambenois ; 25190 Dampierre-les-Bois ; 25196 Dasle ; 25228 Etupes ; 25237 Fesches-le-Châtel ; 25284 Grand-Charmont ; 25367 Mandeure ; 25370 Mathay ; 25388 Montbéliard (P : Montbéliard Est) ; 25428 Nommay ; 25580 Valentigney ; 25632 Voujeaucourt. </td>
-</tr>
-<tr>
-<td width="117">FR51 </td>
-<td width="544">Pays de la Loire. </td>
-</tr>
-<tr>
-<td width="117">FR511 </td>
-<td width="544">Loire-Atlantique. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td width="544">44007 Avessac ; 44013 Besné ; 44025 Campbon ; 44036 Châteaubriant ; 44044 Conquereuil ; 44046 Corsept ; 44051 Derval ; 44052 Donges ; 44054 Erbray ; 44061 Frossay ; 44067 Guémené-Penfao ; 44075 Issé ; 44076 Jans ; 44078 Juigné-des-Moutiers ; 44085 Louisfert ; 44086 Lusanger ; 44091 Marsac-sur-Don ; 44099 Moisdon-la-Rivière ; 44103 Montoir-de-Bretagne ; 44105 Mouais ; 44113 Nozay ; 44116 Paimboeuf ; 44123 Pierric ; 44129 Pontchâteau ; 44138 Puceul ; 44146 Rougé ; 44149 Saffré ; 44153 Saint-Aubin-des-Châteaux ; 44184 Saint-Nazaire (P : Saint-Nazaire Centre) ; 44185 Saint-Nicolas-de-Redon ; 44192 Saint-Viaud ; 44193 Saint-Vincent­des-Landes ; 44199 Soudan ; 44208 Treffieux ; 44210 Trignac. </td>
-</tr>
-<tr>
-<td width="117">FR514 </td>
-<td width="544">Sarthe. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td valign="top" width="544">72003 Allonnes ; 72006 Arçonnay ; 72008 Arnage ; 72011 Assé-le-Boisne ; 72012 Assé-le-Riboul ; 72021 Avoise ; 72022 Le Bailleul ; 72034 Bérus ; 72056 Champfleur ; 72075 Chemiré-le-Gaudin ; 72082 Le Chevain ; 72138 Fresnay-sur-Sarthe ; 72141 Gesnes-le-Gandelin ; 72167 Louailles ; 72169 Louplande ; 72177 Maigné ; 72180 Mamers ; 72181 Le Mans (P : Le Mans Sud-Ouest et Le mans Ville Est) ; 72186 Maresché ; 72189 Marolles-les-Braults ; 72199 Moitron-sur-Sarthe ; 72202 Monhoudou ; 72214 Nauvay ; 72215 Neufchâtel-en-Saosnois ; 72233 Peray ; 72237 Pirmil ; 72238 Pizieux ; 72266 Saint-Aubin-de-Locquenay ; 72270 Saint-Calez-en-Saosnois ; 72273 Saint-Christophe-du-Jambet ; 72276 Saint-Cosme-en-Vairais ; 72295 Saint-Longis ; 72318 Saint-Rigomer-des-Bois ; 72336 Solesmes ; 72337 Sougé-le-Ganelon ; 72347 Tassé ; 72374 Villaines-la-Carelle ; 72377 Villaines-sous-Malicorne ; 72378 Vion ; 72381 Voivres-lès-le-Mans. </td>
-</tr>
-<tr>
-<td width="117">FR52 </td>
-<td width="544">Bretagne. </td>
-</tr>
-<tr>
-<td width="117">FR523 </td>
-<td width="544">Ille-et-Vilaine. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td width="544">35002 Amanlis ; 35012 Bain-de-Bretagne ; 35013 Bains-sur-Oust ; 35021 Beaucé ; 35030 La Bosse-de-Bretagne ; 35052 Champeaux ; 35068 Châteaubourg ; 35089 La Couyère ; 35091 Le Crouais ; 35096 Domagné ; 35117 Gaël ; 35129 Guipry ; 35136 Janzé ; 35137 Javené ; 35140 Lalleu ; 35141 Landavran ; 35150 Lécousse ; 35151 Lieuron ; 35162 Louvigné-du-Désert ; 35176 Messac ; 35184 Montauban-de-Bretagne ; 35192 Montreuil-des-Landes ; 35207 Noyal-sur-Vilaine ; 35214 Parcé ; 35215 Parigné ; 35219 Pipriac ; 35220 Piré-sur-Seiche ; 35234 Quédillac ; 35237 Renac ; 35243 Romagné ; 35260 Saint-Christophe-des-Bois ; 35273 Saint-Germain­en-Coglès ; 35283 Saint-Jean-sur-Vilaine ; 35285 Saint-Just ; 35294 Sainte-Marie ; 35297 Saint-Méen-le-Grand ; 35310 Saint-Sauveur-des-Landes ; 35324 La Selle-en-Luitré ; 35327 Servon-sur-Vilaine ; 35328 Sixt-sur-Aff ; 35330 Taillis. </td>
-</tr>
-<tr>
-<td width="117">FR53 </td>
-<td width="544">Poitou-Charentes. </td>
-</tr>
-<tr>
-<td width="117">FR531 </td>
-<td width="544">Charente. </td>
-</tr>
-<tr>
-<td valign="top" width="117"/>
-<td width="544">16057 Bouteville ; 16078 Champniers ; 16089 Châteaubernard ; 16090 Châteauneuf-sur-Charente ; 16093 Chazelles ; 16113 La Couronne ; 16132 Etagnac ; 16138 Fléac ; 16150 Gensac-la-Pallue ; 16154 Gond-Pontouvre ; 16166 L'Isle-d'Espagnac ; 16217 Merpins ; 16223 Montbron ; 16232 Mornac ; 16236 Mouthiers-sur-Boëme ; 16244 Nersac ; 16281 La Rochefoucauld ; 16287 Roullet-Saint-Estèphe ; 16291 Ruelle-sur-Touvre ; 16341 Saint-Michel ; 16343 Saint-Preuil ; 16344 Saint-Projet-Saint-Constant ; 16348 Saint-Saturnin ; 16358 Saint-Yrieix-sur-Charente ; 16366 Segonzac ; 16406 Vilhonneur ; 16421 Vouthon. </td>
-</tr>
-</tbody>
-</table>
-
 a) Zones d'aide à finalité régionale permanentes à taux réduit non limitées aux PME
 
 <table>
@@ -948,6 +865,18 @@ a) Zones d'aide à finalité régionale permanentes à taux réduit non limitée
 <td width="544">95088 Bonneuil-en-France ; 95268 Garges-lès-Gonesse (P : Garges-lès-Gonesse Est).</td>
 </tr>
 <tr>
+<td>FR21</td>
+<td>Champagne-Ardenne</td>
+</tr>
+<tr>
+<td/>
+<td>Marne</td>
+</tr>
+<tr>
+<td/>
+<td>51043 Bazancourt ; 51055 Bétheny ; 51088 Brimont ; 51261 Fresne-lès-Reims ; 51439 Pomacle.</td>
+</tr>
+<tr>
 <td width="117">FR42 </td>
 <td width="544">Alsace. </td>
 </tr>
@@ -957,7 +886,7 @@ a) Zones d'aide à finalité régionale permanentes à taux réduit non limitée
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td width="544">68011 Aspach-le-Bas ; 68012 Aspach-le-Haut ; 68016 Balgau ; 68020 Bantzenheim ; 68060 Burnhaupt-le-Haut ; 68063 Cernay ; 68064 Chalampé ; 68070 Didenheim ; 68082 Ensisheim ; 68088 Feldkirch ; 68104 Geiswasser ; 68112 Guebwiller ; 68130 Heiteren ; 68140 Hirtzfelden ; 68156 Issenheim ; 68203 Merxheim ; 68205 Meyenheim ; 68218 Morschwiller-le-Bas ; 68224 Mulhouse (P : Mulhouse Sud) ; 68225 Munchhouse ; 68230 Nambsheim ; 68253 Ottmarsheim ; 68258 Pulversheim ; 68260 Raedersheim ; 68266 Réguisheim ; 68267 Reiningue ; 68270 Richwiller ; 68289 Ruelisheim ; 68315 Soultz-Haut-Rhin ; 68321 Staffelfelden ; 68343 Ungersheim ; 68348 Vieux-Thann ; 68375 Wittelsheim ; 68376 Wittenheim. </td>
+<td width="544">68011 Aspach-le-Bas ; 68012 Aspach-le-Haut ; 68016 Balgau ; 68020 Bantzenheim ; 68060 Burnhaupt-le-Haut ; 68063 Cernay ; 68064 Chalampé ; 68070 Didenheim ; 68082 Ensisheim ; 68088 Feldkirch ; 68104 Geiswasser ; 68112 Guebwiller ; 68130 Heiteren ; 68140 Hirtzfelden ; 68151 Husseren-Wesserling ; 68156 Issenheim ; 68199 Malmerspach ; 68203 Merxheim ; 68205 Meyenheim ; 68218 Morschwiller-le-Bas ; 68224 Mulhouse (P : Mulhouse Sud) ; 68225 Munchhouse ; 68230 Nambsheim ; 68253 Ottmarsheim ; 68258 Pulversheim ; 68260 Raedersheim ; 68262 Ranspach ; 68266 Réguisheim ; 68267 Reiningue ; 68270 Richwiller ; 68289 Ruelisheim ; 68292 Saint-Amarin ; 68315 Soultz-Haut-Rhin ; 68321 Staffelfelden ; 68343 Ungersheim ; 68344 Urbès ; 68348 Vieux-Thann ; 68375 Wittelsheim ; 68376 Wittenheim. </td>
 </tr>
 <tr>
 <td width="117">FR43 </td>
@@ -1001,7 +930,7 @@ a) Zones d'aide à finalité régionale permanentes à taux réduit non limitée
 </tr>
 <tr>
 <td valign="top" width="117"/>
-<td width="544">35002 Amanlis ; 35012 Bain-de-Bretagne ; 35013 Bains-sur-Oust ; 35021 Beaucé ; 35030 La Bosse-de-Bretagne ; 35052 Champeaux ; 35068 Châteaubourg ; 35089 La Couyère ; 35091 Le Crouais ; 35096 Domagné ; 35117 Gaël ; 35129 Guipry ; 35136 Janzé ; 35137 Javené ; 35140 Lalleu ; 35141 Landavran ; 35150 Lécousse ; 35151 Lieuron ; 35162 Louvigné-du-Désert ; 35176 Messac ; 35184 Montauban-de-Bretagne ; 35192 Montreuil-des-Landes ; 35207 Noyal-sur-Vilaine ; 35214 Parcé ; 35215 Parigné ; 35219 Pipriac ; 35220 Piré-sur-Seiche ; 35234 Quédillac ; 35237 Renac ; 35243 Romagné ; 35260 Saint-Christophe-des-Bois ; 35273 Saint-Germain­en-Coglès ; 35283 Saint-Jean-sur-Vilaine ; 35285 Saint-Just ; 35294 Sainte-Marie ; 35297 Saint-Méen-le-Grand ; 35310 Saint-Sauveur-des-Landes ; 35324 La Selle-en-Luitré ; 35327 Servon-sur-Vilaine ; 35328 Sixt-sur-Aff ; 35330 Taillis. </td>
+<td width="544">35002 Amanlis ; 35012 Bain-de-Bretagne ; 35013 Bains-sur-Oust ; 35021 Beaucé ; 35030 La Bosse-de-Bretagne ; 35052 Champeaux ; 35068 Châteaubourg ; 35089 La Couyère ; 35091 Le Crouais ; 35096 Domagné ; 35115 Fougères (P : canton de Fougères Sud) ; 35117 Gaël ; 35129 Guipry ; 35136 Janzé ; 35137 Javené ; 35140 Lalleu ; 35141 Landavran ; 35150 Lécousse ; 35151 Lieuron ; 35162 Louvigné-du-Désert ; 35176 Messac ; 35184 Montauban-de-Bretagne ; 35192 Montreuil-des-Landes ; 35207 Noyal-sur-Vilaine ; 35214 Parcé ; 35215 Parigné ; 35219 Pipriac ; 35220 Piré-sur-Seiche ; 35234 Quédillac ; 35237 Renac ; 35243 Romagné ; 35260 Saint-Christophe-des-Bois ; 35273 Saint-Germain­en-Coglès ; 35283 Saint-Jean-sur-Vilaine ; 35285 Saint-Just ; 35294 Sainte-Marie ; 35297 Saint-Méen-le-Grand ; 35310 Saint-Sauveur-des-Landes ; 35324 La Selle-en-Luitré ; 35327 Servon-sur-Vilaine ; 35328 Sixt-sur-Aff ; 35330 Taillis. </td>
 </tr>
 <tr>
 <td width="117">FR53 </td>
@@ -1047,6 +976,44 @@ a) Zones d'aide à finalité régionale permanentes à taux réduit non limitée
 <td valign="top" width="117"/>
 <td valign="bottom" width="544">63004 Les Ancizes-Comps ; 63019 Aulnat ; 63034 Beauregard-l'Evêque ; 63035 Beauregard-Vendon ; 63062 Buxières-sous-Montaigut ; 63066 Celles-sur-Durolle ; 63082 Champs ; 63089 Chappes ; 63093 Charbonnières-les-Vieilles ; 63112 Clerlande ; 63113 Clermont-Ferrand (P : Clermont-Ferrand Est) ; 63116 Combronde ; 63135 Davayat ; 63148 Ennezat ; 63194 Lempty ; 63195 Lezoux ; 63200 Lussat ; 63204 Malintrat ; 63206 Manzat ; 63208 Marcillat ; 63213 Les Martres-d'Artière ; 63223 Menat ; 63231 La Monnerie-le-Montel ; 63267 Palladuc ; 63276 Peschadoires ; 63278 Pessat-Villeneuve ; 63286 Pouzol ; 63294 Queuille ; 63322 Saint-Beauzire ; 63327 Saint-Bonnet-près-Riom ; 63338 Saint-Eloy-les-Mines ; 63349 Saint-Georges-de-Mons ; 63358 Saint-Hilaire-la-Croix ; 63364 Saint-Jean-d'Heurs ; 63393 Saint-Rémy-sur-Durolle ; 63430 Thiers ; 63471 Youx. </td>
 </tr>
+<tr>
+<td>FR42</td>
+<td>Alsace</td>
+</tr>
+<tr>
+<td>68</td>
+<td>Haut-Rhin <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>68151 Husseren-Wesserling ; 68344 Urbès ; 68199 Malmerspach ; 68262 Ranspach ; 68292 Saint-Amarin</td>
+</tr>
+<tr>
+<td>FR52</td>
+<td>Bretagne </td>
+</tr>
+<tr>
+<td>35</td>
+<td>Ille-et-Vilaine </td>
+</tr>
+<tr>
+<td/>
+<td>35115 Fougères (P : canton de Fougères Sud) <br/>
+</td>
+</tr>
+<tr>
+<td>FR21</td>
+<td>Champagne-Ardenne </td>
+</tr>
+<tr>
+<td>51</td>
+<td>Marne</td>
+</tr>
+<tr>
+<td/>
+<td>51055 Bétheny ; 51088 Brimont ; 51043 Bazancourt ; 51439 Pomacle ; 51261 Fresne-lès-Reims</td>
+</tr>
 </tbody>
 </table>
 
@@ -1069,8 +1036,12 @@ dans lesquelles ne peuvent être aidés que les projets dont les investissements
 <td valign="bottom" width="544">Val-d'Oise. </td>
 </tr>
 <tr>
+<td/>
+<td>95680 Villiers-le-Bel.</td>
+</tr>
+<tr>
 <td valign="bottom" width="117">FR21 </td>
-<td valign="bottom" width="544">95680 Villiers-le-Bel. Champagne-Ardenne. </td>
+<td valign="bottom" width="544">Champagne-Ardenne. </td>
 </tr>
 <tr>
 <td valign="bottom" width="117">FR213 </td>
