@@ -405,7 +405,6 @@
 - [Arrêté du 15 juillet 2004 (JUSF0450090A)](arrete-du-15-juillet-2004-jusf0450090a)
 - [Arrêté du 15 juillet 2004 (JUSF0450091A)](arrete-du-15-juillet-2004-jusf0450091a)
 - [Arrêté du 15 juillet 2004 (SANG0422626A)](arrete-du-15-juillet-2004-sang0422626a)
-- [Arrêté du 15 juillet 2004 (SOCF0411496A)](arrete-du-15-juillet-2004-socf0411496a)
 - [Arrêté du 15 juillet 2004 (SOCF0411499A)](arrete-du-15-juillet-2004-socf0411499a)
 - [Arrêté du 15 juillet 2004 (SOCF0411500A)](arrete-du-15-juillet-2004-socf0411500a)
 - [Arrêté du 15 juillet 2004 (SOCF0411501A)](arrete-du-15-juillet-2004-socf0411501a)
