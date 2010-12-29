@@ -14,4 +14,4 @@ Sont nuls les bulletins qui comportent le nom de personnes dont la candidature n
 
 Le magistrat ayant recueilli le plus de suffrages est déclaré élu. En cas de partage égal des voix, le candidat le plus âgé est déclaré élu.
 
-Le bureau de vote proclame les résultats. Un procès-verbal des opérations électorales est établi par le bureau de vote et immédiatement transmis au ministre de la justice et au secrétariat administratif du conseil supérieur. Le bureau de vote annexe au procès-verbal les enveloppes et les bulletins déclarés nuls, ainsi que les bulletins blancs et les enveloppes vides.
+Le bureau de vote proclame les résultats. Un procès-verbal des opérations électorales est établi par le bureau de vote et immédiatement transmis au ministre de la justice et au secrétariat général du conseil supérieur. Le bureau de vote annexe au procès-verbal les enveloppes et les bulletins déclarés nuls, ainsi que les bulletins blancs et les enveloppes vides.

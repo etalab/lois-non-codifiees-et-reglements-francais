@@ -12,6 +12,6 @@ Le choix des sièges au sein de chaque formation du Conseil supérieur de la mag
 
 Les membres élus sont désignés selon l'ordre de présentation de la liste par le bureau de vote qui proclame les résultats.
 
-Un procès-verbal des opérations électorales est établi par chaque bureau de vote et immédiatement transmis au ministre de la justice, au secrétariat administratif du Conseil supérieur de la magistrature ainsi qu'aux délégués de liste.
+Un procès-verbal des opérations électorales est établi par chaque bureau de vote et immédiatement transmis au ministre de la justice, au secrétariat général du Conseil supérieur de la magistrature ainsi qu'aux délégués de liste.
 
 Le bureau de vote annexe au procès-verbal les enveloppes et les bulletins déclarés nuls, ainsi que les bulletins blancs et les enveloppes vides.

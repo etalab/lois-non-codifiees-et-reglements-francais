@@ -1,3 +1,3 @@
 # Article 32
 
-Le secrétaire administratif mentionné à l'article 11 de la loi organique du 5 février 1994 susvisée est nommé par décret du Président de la République, contresigné par le Premier ministre et le ministre de la justice, au plus tard dans les quinze jours qui suivent l'élection des membres du conseil.
+Au plus tard dans les huit jours qui suivent l'élection ou la désignation de l'ensemble des membres du Conseil supérieur de la magistrature, le premier président de la Cour de cassation et le procureur général près ladite cour font connaître au Président de la République le nom du magistrat qu'ils proposent pour la nomination aux fonctions de secrétaire général du conseil supérieur.

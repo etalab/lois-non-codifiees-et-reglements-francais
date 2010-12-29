@@ -1,3 +1,3 @@
 # Article 40
 
-En matière disciplinaire, le conseil supérieur siège à la Cour de cassation.
+En matière disciplinaire, le conseil supérieur se réunit à la Cour de cassation ou à son siège.
