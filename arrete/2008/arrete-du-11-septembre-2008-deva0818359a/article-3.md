@@ -117,3 +117,5 @@ Ils maintiennent le bon fonctionnement des installations qui leur sont rattaché
 Ils participent aux travaux des comités de gestion (CRG) de l'espace aérien.
 
 4° Les services de la navigation aérienne de la région parisienne (SNA/RP) regroupent les organismes de Roissy Le Bourget, Orly Aviation générale de la région parisienne et du CRNA Nord.
+
+5° Le service de l'aviation civile à Saint-Pierre-et-Miquelon est l'entité de la DSNA chargée de la mise en œuvre de la politique de l'aviation civile dans l'archipel de Saint-Pierre-et-Miquelon, des services d'exploitation aéroportuaire, des services de la navigation aérienne et dans le cadre d'une convention entre la direction des services de la navigation aérienne et de la direction de la sécurité de l'aviation civile, des prestations de surveillance de l'ensemble des activités aériennes.

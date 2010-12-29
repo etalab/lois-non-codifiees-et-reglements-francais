@@ -16,9 +16,7 @@ La direction de la technique et de l'innovation (DSNA/DTI) est chargée de l'ét
 
 ― de présenter aux autorités compétentes les propositions concernant l'affectation des fréquences nécessaires aux services de navigation aérienne et à l'octroi des licences relatives aux stations radioélectriques correspondantes et de conduire toutes études nécessaires à cet effet ;
 
-― de participer aux consultations entre services relatives aux servitudes radioélectriques en ce qui concerne la protection des installations de navigation aérienne et d'émettre les demandes d'établissement de servitudes pour les infrastructures qu'elle installe.
-
-Dans le cadre de la réorganisation des systèmes d'information de gestion de la DGAC, elle peut se voir confier des missions de centre de ressources pour l'ensemble de la DSNA.
+― de participer aux consultations entre services relatives aux servitudes radioélectriques en ce qui concerne la protection des installations de navigation aérienne et d'émettre les demandes d'établissement de servitudes pour les infrastructures qu'elle installe. Dans le cadre de la réorganisation des systèmes d'information de gestion de la DGAC, elle peut se voir confier des missions de centre de ressources pour l'ensemble de la DSNA.
 
 La direction de la technique et de l'innovation est composée d'une structure de direction, d'un support général et de cinq domaines techniques.
 
