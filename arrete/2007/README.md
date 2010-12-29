@@ -39,7 +39,6 @@
 - [Arrêté du 2 novembre 2007 (IMIN0769819A)](arrete-du-2-novembre-2007-imin0769819a)
 - [Arrêté du 2 novembre 2007 (MTSA0769731A)](arrete-du-2-novembre-2007-mtsa0769731a)
 - [Arrêté du 2 octobre 2007 (AGRE0767055A)](arrete-du-2-octobre-2007-agre0767055a)
-- [Arrêté du 2 octobre 2007 (SJSH0767057A)](arrete-du-2-octobre-2007-sjsh0767057a)
 - [Arrêté du 2 mai 2002 (ECOP0200209A)](arrete-du-2-mai-2002-ecop0200209a)
 - [Arrêté du 2 mai 2007 (BUDB0751625A)](arrete-du-2-mai-2007-budb0751625a)
 - [Arrêté du 2 mai 2007 (DEVO0751365A)](arrete-du-2-mai-2007-devo0751365a)
