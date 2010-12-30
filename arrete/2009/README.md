@@ -2039,7 +2039,6 @@
 - [Arrêté du 23 décembre 2008 (SJSP0831381A)](arrete-du-23-decembre-2008-sjsp0831381a)
 - [Arrêté du 23 décembre 2009 (AGRG0928740A)](arrete-du-23-decembre-2009-agrg0928740a)
 - [Arrêté du 23 décembre 2009 (AGRG0931570A)](arrete-du-23-decembre-2009-agrg0931570a)
-- [Arrêté du 23 décembre 2009 (BCFB0930582A)](arrete-du-23-decembre-2009-bcfb0930582a)
 - [Arrêté du 23 décembre 2009 (BCFS0926390A)](arrete-du-23-decembre-2009-bcfs0926390a)
 - [Arrêté du 23 décembre 2009 (BCFZ0930568A)](arrete-du-23-decembre-2009-bcfz0930568a)
 - [Arrêté du 23 décembre 2009 (DEVA0928628A)](arrete-du-23-decembre-2009-deva0928628a)
