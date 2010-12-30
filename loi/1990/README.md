@@ -73,4 +73,3 @@
 - [Loi n° 90-8 du 2 janvier 1990 (FPPX8910391L)](loi-n-90-8-du-2-janvier-1990-fppx8910391l)
 - [Loi n° 90-85 du 23 janvier 1990 (AGRX8900045L)](loi-n-90-85-du-23-janvier-1990-agrx8900045l)
 - [Loi n° 90-86 du 23 janvier 1990 (SPSX8900124L)](loi-n-90-86-du-23-janvier-1990-spsx8900124l)
-- [Loi n°90-669 du 30 juillet 1990 (ECOX9000072L)](loi-n90-669-du-30-juillet-1990-ecox9000072l)
