@@ -8,7 +8,7 @@ Pour l'épreuve de soutenance de mémoire prévue à l'article 6, les membres du
 
 -un représentant du niveau de la catégorie A du directeur de l'Ecole des hautes études en santé publique ;
 
--un directeur des services déconcentrés de l'Etat, chargé de la santé ou de la cohésion sociale, régional ou départemental ou un directeur adjoint ;
+- un directeur général d'agence régionale de santé ou son représentant membre du comité des directeurs ; ou un directeur régional de la jeunesse, des sports et de la cohésion sociale ou un directeur départemental ou directeur adjoint des services déconcentrés de l'Etat en charge de la cohésion sociale ;
 
 -un membre en activité du corps de l'inspection de l'action sanitaire et sociale ;
 
