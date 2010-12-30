@@ -115,7 +115,6 @@
 - [Arrêté du 23 octobre 2000 (EQUS0001612A)](arrete-du-23-octobre-2000-equs0001612a)
 - [Arrêté du 24 août 2000 (INTC0000433A)](arrete-du-24-aout-2000-intc0000433a)
 - [Arrêté du 24 août 2000 (INTC0000434A)](arrete-du-24-aout-2000-intc0000434a)
-- [Arrêté du 24 juillet 2000 (ECOP0000467A)](arrete-du-24-juillet-2000-ecop0000467a)
 - [Arrêté du 24 juillet 2000 (ECOP0000470A)](arrete-du-24-juillet-2000-ecop0000470a)
 - [Arrêté du 24 juillet 2000 (ECOP0000471A)](arrete-du-24-juillet-2000-ecop0000471a)
 - [Arrêté du 24 juillet 2000 (ECOP0000472A)](arrete-du-24-juillet-2000-ecop0000472a)
