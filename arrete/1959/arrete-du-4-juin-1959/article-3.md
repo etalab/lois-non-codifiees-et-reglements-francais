@@ -1,3 +1,3 @@
 # Article 3
 
-Les administrateurs perçoivent, à titre de frais de séjour, une indemnité égale à l'indemnité pour frais de mission accordée aux fonctionnaires et agents de l'Etat, chefs de famille, classés dans le groupe 1.
+Les administrateurs perçoivent, à titre de frais de séjour, des indemnités égales à celles dont bénéficient les administrateurs de la caisse nationale et des caisses de base du régime social des indépendants, dans les mêmes conditions que ceux-ci.

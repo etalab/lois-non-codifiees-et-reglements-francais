@@ -1,5 +1,3 @@
 # Article 6
 
-Les administrateurs et délégués perçoivent, à titre de frais de séjour, une indemnité égale à l'indemnité pour frais de mission accordée aux personnels civils de l'Etat en déplacement sur le territoire métropolitain.
-
-A l'occasion des déplacements à l'étranger, il leur est alloué en outre les indemnités servies aux fonctionnaires du groupe I en déplacement à l'étranger.
+Les administrateurs et délégués perçoivent, à titre de frais de séjour, des indemnités égales à celles dont bénéficient les administrateurs de la caisse nationale et des caisses de base du régime social des indépendants, dans les mêmes conditions que ceux-ci.
