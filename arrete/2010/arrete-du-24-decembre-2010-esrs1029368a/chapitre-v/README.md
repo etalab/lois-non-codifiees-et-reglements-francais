@@ -1,0 +1,3 @@
+# CHAPITRE V : DE LA PROCLAMATION DES RESULTATS
+
+- [Article 12](article-12.md)
