@@ -10,7 +10,7 @@ Les modifications apportées au budget initial de l'établissement en cours d'ex
 
 4° Dépassement d'un chapitre dont le caractère limitatif est décidé par le conseil d'administration.
 
-Les modifications apportées au budget initial en cours d'exercice autres que celles prévues à l'alinéa précédent peuvent être décidées par l'ordonnateur principal lorsqu'il a reçu délégation du conseil d'administration à cet effet.
+Les modifications apportées au budget initial en cours d'exercice peuvent être décidées par l'ordonnateur principal lorsqu'il a reçu délégation du conseil d'administration à cet effet.
 
 Il en est rendu compte au conseil d'administration dès la première réunion du conseil suivant la modification.
 

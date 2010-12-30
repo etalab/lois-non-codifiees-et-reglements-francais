@@ -1,6 +1,6 @@
 # Article 21
 
-Le conseil d'administration de l'université peut déléguer au président ou au directeur de l'établissement, dans les conditions fixées à l'article L. 712-3 du code de l'éducation, le pouvoir d'adopter des décisions modificatives du budget.
+Le conseil d'administration peut déléguer au président ou au directeur de l'établissement, dans les conditions fixées à l'article L. 712-3 du code de l'éducation, le pouvoir d'adopter des décisions modificatives du budget.
 
 Ces décisions sont exécutoires, selon le cas, soit à compter de leur approbation par le recteur d'académie, chancelier des universités, ou, pour les établissements qui lui sont directement rattachés, le ministre chargé de l'enseignement supérieur dans le délai de quinze jours qui suit leur transmission à cette autorité, soit à l'expiration de ce délai à moins que l'autorité compétente n'ait, dans le même délai, refusé son approbation.
 

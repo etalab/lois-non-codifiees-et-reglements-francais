@@ -4,7 +4,7 @@ I. ― L'équilibre du budget s'apprécie au regard des équilibres respectifs :
 
 1° Du budget principal ;
 
-2° Du budget annexe  ;
+2° Du budget annexe ;
 
 3° De chaque état prévisionnel des recettes et des dépenses, dans les conditions fixées par le décret du 7 avril 2008 susvisé.
 
@@ -24,4 +24,4 @@ c) Les ressources du tableau de financement abrégé prévisionnel, sauf les rec
 
 Pour parvenir à l'équilibre réel, le conseil d'administration peut autoriser un prélèvement sur le fonds de roulement de l'établissement pour le financement d'opérations d'investissement.
 
-Aux mêmes fins, le conseil d'administration peut être autorisé à prélever sur le fonds de roulement de l'établissement par le recteur d'académie, chancelier des universités, ou, pour les établissements qui lui sont directement rattachés, par le ministre chargé de l'enseignement supérieur pour le financement d'autres opérations.
+Aux mêmes fins, le conseil d'administration peut être autorisé à prélever sur les réserves de l'établissement par le recteur d'académie, chancelier des universités, ou, pour les établissements qui lui sont directement rattachés, par le ministre chargé de l'enseignement supérieur pour le financement d'autres opérations.
