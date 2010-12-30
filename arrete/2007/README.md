@@ -561,7 +561,6 @@
 - [Arrêté du 17 janvier 2007 (BUDD0760001A)](arrete-du-17-janvier-2007-budd0760001a)
 - [Arrêté du 17 janvier 2007 (BUDR0703002A)](arrete-du-17-janvier-2007-budr0703002a)
 - [Arrêté du 17 janvier 2007 (DEFK0700076A)](arrete-du-17-janvier-2007-defk0700076a)
-- [Arrêté du 17 janvier 2007 (INTA0700051A)](arrete-du-17-janvier-2007-inta0700051a)
 - [Arrêté du 17 janvier 2007 (SOCF0710130A)](arrete-du-17-janvier-2007-socf0710130a)
 - [Arrêté du 17 juin 2008 (DEVA0810535A)](arrete-du-17-juin-2008-deva0810535a)
 - [Arrêté du 17 mars 1992 (AGRP9200525A)](arrete-du-17-mars-1992-agrp9200525a)
