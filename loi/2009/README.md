@@ -33,4 +33,3 @@
 - [LOI n° 2009-972 du 3 août 2009 (BCFX0805620L)](loi-n-2009-972-du-3-aout-2009-bcfx0805620l)
 - [LOI n° 2009-973 du 10 août 2009 (BCFX0911474L)](loi-n-2009-973-du-10-aout-2009-bcfx0911474l)
 - [LOI n° 2009-974 du 10 août 2009 (MTSX0913926L)](loi-n-2009-974-du-10-aout-2009-mtsx0913926l)
-- [LOI n°2009-135 du 9 février 2009 (BCFX0822494L)](loi-n2009-135-du-9-fevrier-2009-bcfx0822494l)
