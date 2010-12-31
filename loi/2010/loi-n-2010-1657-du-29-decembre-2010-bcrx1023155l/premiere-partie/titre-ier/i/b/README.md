@@ -1,0 +1,18 @@
+# B. ― Mesures fiscales
+
+- [Article 6](article-6.md)
+- [Article 8](article-8.md)
+- [Article 12](article-12.md)
+- [Article 21](article-21.md)
+- [Article 22](article-22.md)
+- [Article 23](article-23.md)
+- [Article 24](article-24.md)
+- [Article 26](article-26.md)
+- [Article 34](article-34.md)
+- [Article 35](article-35.md)
+- [Article 37](article-37.md)
+- [Article 38](article-38.md)
+- [Article 39](article-39.md)
+- [Article 40](article-40.md)
+- [Article 41](article-41.md)
+- [Article 42](article-42.md)

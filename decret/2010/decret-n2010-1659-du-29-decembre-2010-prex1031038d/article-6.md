@@ -1,0 +1,5 @@
+# Article 6
+
+Le Premier ministre est responsable de l'application du présent décret, qui sera publié au Journal officiel de la République française.
+
+Fait le 29 décembre 2010.
