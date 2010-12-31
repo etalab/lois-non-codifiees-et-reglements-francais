@@ -1,6 +1,12 @@
 # Article 20
 
-I. ― La sous-direction de l'immobilier et du logement participe pour la gendarmerie nationale à la politique immobilière et conduit la politique de développement durable et de protection de l'environnement de la gendarmerie nationale. A ce titre, elle :
+I. - La sous-direction de l'immobilier et du logement participe à la détermination de la politique immobilière pour ce qui concerne la gendarmerie nationale, notamment en matière de logement, dans le respect des compétences de la direction de l'évaluation de la performance et des affaires financières et immobilières.
+
+La sous-direction de l'immobilier et du logement se tient informée de la conduite des projets.
+
+Elle veille en outre à l'application de la politique de développement durable et de protection de l'environnement au sein de la gendarmerie nationale.
+
+A ce titre, elle :
 
 1° Définit les besoins en matière d'infrastructure ;
 
@@ -16,6 +22,6 @@ I. ― La sous-direction de l'immobilier et du logement participe pour la gendar
 
 II. - La sous-direction de l'immobilier et du logement est constituée des bureaux suivants :
 
-1° Le bureau du budget et de la réglementation immobilière ;
+1° Le bureau du budget et de la réglementation ;
 
 2° Le bureau de la programmation immobilière.

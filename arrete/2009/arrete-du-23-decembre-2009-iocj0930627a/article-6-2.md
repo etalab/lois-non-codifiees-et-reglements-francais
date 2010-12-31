@@ -12,7 +12,7 @@ I. ― La sous-direction de l'anticipation et de la coordination :
 
 5° Participe à la conception et à la recette des systèmes de la sécurité intérieure ;
 
-6° Pilote et anime le service de développement et de mise en œuvre logiciel au profit de l'ensemble du service.
+6° Pilote et anime le service de développement et de mise en œuvre des logiciels au profit de l'ensemble du service.
 
 II. ― La sous-direction de l'anticipation et de la coordination est constituée des bureaux suivants :
 

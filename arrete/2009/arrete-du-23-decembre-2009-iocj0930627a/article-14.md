@@ -8,7 +8,7 @@ I. ― La sous-direction de la politique des ressources humaines :
 
 3° Participe au dialogue avec les instances de concertation ;
 
-4° Participe à l'élaboration de la réglementation relative aux droits individuels des personnels.
+4° Participe à l'élaboration de la réglementation et instruit les dossiers contentieux relatifs aux droits individuels des personnels.
 
 II. - La sous-direction de la politique des ressources humaines est constituée des bureaux suivants :
 

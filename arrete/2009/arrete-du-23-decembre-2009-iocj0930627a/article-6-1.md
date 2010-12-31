@@ -12,4 +12,4 @@ Pour l'exercice de ses attributions, le service des technologies et des système
 
 ― la sous-direction des supports opérationnels.
 
-Il assure en outre le pilotage et l'animation du service de développement et de mise en œuvre logiciels (SDMOL) et du Centre national aux utilisateurs (CNAU) qui lui sont fonctionnellement rattachés.
+Il assure en outre le pilotage et l'animation du service de développement et   de mise en œuvre des logiciels (SDMOL) et du Centre national aux utilisateurs (CNAU) qui lui sont fonctionnellement rattachés.

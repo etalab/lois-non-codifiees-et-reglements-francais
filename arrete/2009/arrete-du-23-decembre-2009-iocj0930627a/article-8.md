@@ -4,7 +4,7 @@ I. ― La sous-direction de l'organisation et des effectifs propose la politique
 
 II. - La sous-direction de l'organisation et des effectifs est constituée des bureaux suivants :
 
-1° Le bureau des effectifs et du référentiel des emplois ;
+1° Le bureau des effectifs et des référentiels ;
 
 2° Le bureau de l'organisation des formations ;
 

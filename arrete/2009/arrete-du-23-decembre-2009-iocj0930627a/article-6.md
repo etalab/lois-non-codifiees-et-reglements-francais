@@ -6,4 +6,4 @@ Il dispose des conseillers suivants :
 
 2° Le délégué au patrimoine culturel de la gendarmerie intervient pour les questions relatives au recensement, à la conservation et à l'exploitation du patrimoine culturel de la gendarmerie ;
 
-3° Le délégué aux réserves de la gendarmerie intervient pour la politique des réserves de la gendarmerie. Il exerce ses attributions en liaison étroite avec les directeurs. Il est également le conseiller du major général.
+3° Le délégué aux réserves de la gendarmerie participe à l'élaboration de la politique des réserves de la gendarmerie en liaison étroite avec les directeurs. Il est également le conseiller du major général.

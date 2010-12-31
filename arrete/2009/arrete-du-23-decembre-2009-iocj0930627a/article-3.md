@@ -1,15 +1,17 @@
 # Article 3
 
-Le directeur général de la gendarmerie nationale dispose d'un cabinet placé sous les ordres d'un officier général, chef de cabinet, qui comprend :
+Le directeur général de la gendarmerie nationale dispose d'un cabinet placé sous le commandement d'un officier général, chef de cabinet, comprenant :
 
-1° Des chargés de mission ;
+1° Le bureau du cabinet ;
 
-2° Le bureau des affaires réservées ;
+2° Des chargés de mission ;
 
-3° Le bureau du cabinet ;
+3° Des chargés de fonction.
 
-4° Le centre de renseignement opérationnel de la gendarmerie (CROGEND) ;
+Cet officier général a également autorité sur :
 
-5° Le quartier général.
+1° Le quartier général ;
 
-Le cabinet est chargé d'apporter au directeur général et au major général les éléments nécessaires à l'exercice de leurs fonctions. Il effectue les études transverses qui lui sont confiées par le directeur général ou le major général. Le cabinet est, en outre, en charge des fonctions de quartier général.
+2° Le centre de renseignement opérationnel de la gendarmerie (CROGEND).
+
+Le cabinet est chargé d'apporter au directeur général et au major général les éléments nécessaires à l'exercice de leurs responsabilités. Il assure notamment le suivi des décisions prises par ces autorités et effectue les études transverses qu'elles lui confient.

@@ -12,4 +12,4 @@ II. - La sous-direction des compétences est constituée des bureaux suivants :
 
 1° Le bureau de la formation ;
 
-2° Le bureau du recrutement et des examens.
+2° Le bureau du recrutement, des concours et des examens.
