@@ -2,11 +2,9 @@
 
 _Zones de compétence des commissions régionales de sécurité_
 
-La compétence de la commission régionale de sécurité siégeant au Havre s'étend aux zones des centres de sécurité des navires de Dunkerque, Boulogne, Seine-Maritime Ouest, Seine-Maritime Est, Manche-Calvados et pour l'examen des dossiers des navires autres que de pêche à la collectivité territoriale de Saint-Pierre-et-Miquelon.
+La compétence de la commission régionale de sécurité siégeant au Havre s'étend aux zones des centres de sécurité des navires de Dunkerque, Boulogne, Seine-Maritime Ouest, Seine-Maritime Est, Manche-Calvados et pour l'examen des dossiers des navires autres que de pêche à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
 
-La compétence de la commission régionale de sécurité siégeant à Rennes s'étend aux zones des centres de sécurité des navires d'Ille-et-Vilaine, Côtes-d'Armor, Finistère ­Nord, Finistère-Sud, Morbihan et pour l'examen des dossiers des navires de pêche à la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-La compétence de la commission régionale de sécurité siégeant à Nantes s'étend à la zone du centre de sécurité des navires des Pays de Loire.
+La compétence de la commission régionale de sécurité siégeant à Nantes s'étend aux zones des centres de sécurité des navires d'Ille-et-Vilaine, Côtes-d'Armor, Finistère Nord, Finistère Sud, Morbihan et des Pays de la Loire pour l'examen des dossiers des navires de pêche à la collectivité d'outre-mer de Saint-Pierre-et-Miquelon.
 
 La compétence de la commission régionale de sécurité siégeant à Bordeaux s'étend aux zones des centres de sécurité des navires de Charente-Maritime et Aquitaine.
 
