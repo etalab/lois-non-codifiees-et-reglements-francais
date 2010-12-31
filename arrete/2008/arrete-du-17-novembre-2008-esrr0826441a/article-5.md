@@ -4,7 +4,7 @@ L'évaluation des projets s'appuie sur l'analyse des dimensions de tout projet d
 
 Leur sélection se fait sur la base des principaux critères suivants :
 
-Pour les projets « en émergence » :
+Pour les projets  en émergence  :
 
 ― caractère innovant de la technologie (avantages concurrentiels liés à la technologie) ;
 
@@ -14,7 +14,7 @@ Pour les projets « en émergence » :
 
 ― état de la propriété intellectuelle et droits des tiers.
 
-Pour les projets « création-développement » :
+Pour les projets  création-développement  :
 
 ― caractère innovant de la technologie et preuve du concept établie ;
 
@@ -26,4 +26,4 @@ Pour les projets « création-développement » :
 
 ― maîtrise de la propriété intellectuelle et des droits des tiers.
 
-Afin d'améliorer la cohérence nationale du concours et de faciliter les décisions des jurys régionaux et national, un réseau d'expertise externe sélectionné par le ministère chargé de la recherche et OSEO innovation effectue, en complément de l'instruction effectuée par OSEO innovation, des expertises comprenant un entretien individuel avec les candidats.
+Afin d'améliorer la cohérence nationale du concours et de faciliter les décisions des jurys régionaux et national, un réseau d'expertise externe sélectionné par le ministère chargé de la recherche et la société anonyme OSEO effectue, en complément de l'instruction effectuée par la société anonyme OSEO, des expertises comprenant un entretien individuel avec les candidats.
