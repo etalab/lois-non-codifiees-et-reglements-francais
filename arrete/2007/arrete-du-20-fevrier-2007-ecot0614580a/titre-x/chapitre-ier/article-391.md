@@ -6,6 +6,6 @@ A compter du 1er janvier 2007, les exigences de fonds propres des établissement
 
 - jusqu'à l'échéance du 31 décembre 2008, 90 % des exigences de fonds propres telles qu'elles auraient été calculées à la même échéance conformément aux règlements n° 91-05 et n° 95-02 ;
 
-- jusqu'à l'échéance du 31 décembre 2009, 80 % des exigences de fonds propres telles qu'elles auraient été calculées à la même échéance conformément aux règlements n° 91-05 et n° 95-02.
+- jusqu'à l'échéance du 31 décembre 2011,80 % des exigences de fonds propres telles qu'elles auraient été calculées à la même échéance conformément aux règlements n° 91-05 et n° 95-02 ou, dans le cas des établissements assujettis qui ont commencé à utiliser dès ou après le 1er janvier 2010 les approches visées au premier alinéa, 80 % des exigences de fonds propres telles que calculées selon le titre II et le titre VIII, chapitre II, ou chapitre III ainsi que le titre VII du présent arrêté.
 
 Le respect des exigences fixées au présent article se fait sur la base de montants de fonds propres pleinement ajustés de manière à tenir compte des différences qui existent entre le calcul des fonds propres effectué conformément au règlement n° 90-02, tel qu'applicable avant l'entrée en vigueur du présent arrêté et le calcul des fonds propres effectué conformément au présent arrêté.
