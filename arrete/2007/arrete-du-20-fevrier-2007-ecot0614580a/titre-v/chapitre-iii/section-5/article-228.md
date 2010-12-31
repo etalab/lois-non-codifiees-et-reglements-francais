@@ -1,10 +1,6 @@
 # Article 228
 
-La valeur exposée au risque d'une ligne de liquidité est égale à son montant nominal affecté des facteurs de conversion suivants :
-
-a) 20 % lorsque la ligne de liquidité a une durée initiale inférieure ou égale à 1 an ;
-
-b) 50 % dans les autres cas, sous réserve du respect des conditions suivantes :
+La valeur exposée au risque d'une ligne de liquidité est égale à son montant nominal affecté d'un facteur de conversion de 50 %, sous réserve du respect des conditions suivantes :
 
 - la documentation relative à la ligne de liquidité précise et délimite clairement les cas où celle-ci peut être utilisée ;
 

@@ -1,6 +1,6 @@
 # Article 191
 
-Lorsqu'une exposition est assortie d'une sûreté personnelle elle-même contregarantie par une administration centrale ou une banque centrale, par une administration régionale ou locale ou une entité du secteur public traitées comme une administration centrale conformément aux dispositions du titre II, par une banque multilatérale de développement visée à l'alinéa b de l'article 14, elle peut être considérée comme assortie d'une sûreté personnelle fournie par les entités susvisées lorsque les conditions suivantes sont respectées :
+Lorsqu'une exposition est assortie d'une sûreté personnelle elle-même contregarantie par une administration centrale ou une banque centrale, par une administration régionale ou locale ou une entité du secteur public traitées comme une administration centrale conformément aux dispositions du titre II, par une banque multilatérale de développement visée à l'alinéa b de l'article 14 ou une organisation internationale à laquelle une pondération de 0 % est appliquée conformément aux dispositions de l'article 15 du titre II, elle peut être considérée comme assortie d'une sûreté personnelle fournie par les entités susvisées lorsque les conditions suivantes sont respectées :
 
 a) La contregarantie couvre le risque de crédit de la créance dans sa totalité ;
 

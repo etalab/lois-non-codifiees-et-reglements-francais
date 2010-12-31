@@ -42,7 +42,7 @@ S'agissant des opérations avec la clientèle :
 
 18. Dans le cas où le tirage sur les engagements de financement en faveur de la clientèle est calculé de façon statistique, 120 % du montant ainsi calculé et devant être tiré dans le mois, ces calculs devant être établis sur la base de données statistiques vérifiables ;
 
-19. 3 % des ouvertures permanentes de crédit en faveur de la clientèle de personnes physiques, à l'exception des entrepreneurs individuels, sur lesquelles aucun tirage n'a eu lieu au cours des deux dernières années écoulées ;
+19. 3 % des ouvertures permanentes de crédit en faveur de la clientèle de personnes physiques, à l'exception des entrepreneurs individuels, sur lesquelles au moins un tirage a eu lieu au cours des deux dernières années écoulées ;
 
 20. 30 % des engagements de financement en faveur des entités ad hoc au sens du paragraphe 10052 de l'annexe du règlement n° 99-07 susvisé ou des entités équivalentes au sens des normes IFRS ;
 

@@ -26,11 +26,11 @@ i) Option de retrait anticipé : une option contractuelle qui permet à un étab
 
 j) Ligne de liquidité : la position de titrisation qui résulte d'un contrat de financement visant à assurer la ponctualité des flux de paiements aux investisseurs ;
 
-k) KIRB : 8 % de la somme :
+k) K<sub>IRB</sub> est la somme de :
 
-- des montants des expositions titrisées pondérées, tels qu'ils auraient été calculés conformément aux dispositions du titre III en l'absence de titrisation ; et
+8 % du montant des expositions titrisées pondérées, tel qu'il aurait été calculé conformément aux dispositions du titre III en l'absence de titrisation ; et
 
-- des pertes attendues associées à ces expositions ;
+des pertes attendues associées à ces expositions ;
 
 l) Programme de papier commercial adossé à des actifs (assets backed commercial paper, en anglais) : un programme de titrisation émettant de façon prédominante des titres sous la forme de papier commercial d'une durée initiale inférieure ou égale à un an ;
 

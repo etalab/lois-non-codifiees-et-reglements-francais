@@ -12,4 +12,8 @@ a) Pour chaque portefeuille couvert :
 
 b) Le champ d'application de l'autorisation de l'Autorité de contrôle prudentiel ;
 
-c) Une description de la mesure du respect des exigences visées à la section 2, chapitre II du titre VII et des méthodes appliquées à cet effet.
+c) Une description de la mesure du respect des exigences visées à la section 2, chapitre II du titre VII et des méthodes appliquées à cet effet ;
+
+d) Le point le plus élevé, le point le plus bas et le point moyen des mesures de la valeur en risque quotidiennes sur la période couverte par le rapport ainsi que la mesure de la valeur en risque à la fin de la période ;
+
+e) Une comparaison des mesures de la valeur en risque quotidiennes en fin de journée avec les variations sur un jour de la valeur du portefeuille constatée à la fin du jour ouvrable suivant ainsi qu'une analyse des éventuels dépassements importants pendant la période couverte par le rapport.

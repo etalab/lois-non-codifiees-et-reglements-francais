@@ -6,7 +6,7 @@ a) Les expositions sur les administrations centrales, les banques centrales et l
 
 b) Les expositions dans des unités d'exploitation ou relevant de catégories d'expositions peu significatives au regard de leur taille et de leur profil de risque ;
 
-c) Les expositions sur les administrations centrales de l'Etat membre d'origine, sur ses administrations régionales ou locales et sur des organismes administratifs, sous réserve que :
+c) Les expositions sur les administrations centrales des Etats membres et sur leurs administrations régionales ou locales et sur des organismes administratifs, sous réserve que :
 
 i) il n'existe pas de différence en termes de risque entre les expositions sur l'administration centrale et les autres expositions précitées, en raison de dispositifs publics spécifiques ;
 

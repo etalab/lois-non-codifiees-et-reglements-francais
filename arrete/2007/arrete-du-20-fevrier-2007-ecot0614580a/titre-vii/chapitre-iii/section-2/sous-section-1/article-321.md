@@ -29,9 +29,7 @@ Les établissements assujettis affectent leurs positions nettes relevant du port
 </td>
 </tr>
 <tr>
-<td valign="top" width="411">
-<p>Titres de créance émis ou garantis par des entreprises ou des établissements auxquels seraient affectés les échelons 1 ou 2 de qualité de crédit en application des dispositions du titre II.</p>
-</td>
+<td valign="top" width="411">Titres de créance émis ou garantis par des entreprises ou des établissements auxquels seraient affectés les échelons 1, 2 ou 3 de qualité de crédit en application des dispositions du titre II. </td>
 </tr>
 <tr>
 <td valign="top" width="411">
@@ -54,7 +52,7 @@ Les établissements assujettis affectent leurs positions nettes relevant du port
 </tr>
 <tr>
 <td valign="top" width="411">
-<p>Titres de créance émis ou garantis par des entreprises auxquelles seraient affectés les échelons 3 ou 4 en application des dispositions du titre II. Positions pour lesquelles il n'existe aucune évaluation externe de crédit.</p>
+<p>Titres de créance émis ou garantis par des entreprises auxquelles serait affecté l'échelon 4 en application des dispositions du titre II. Positions pour lesquelles il n'existe aucune évaluation externe de crédit.</p>
 </td>
 <td valign="top" width="288"/>
 </tr>

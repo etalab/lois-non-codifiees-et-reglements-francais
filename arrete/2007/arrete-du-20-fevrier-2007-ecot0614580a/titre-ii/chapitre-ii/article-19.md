@@ -6,7 +6,7 @@ a) Les expositions, ou toute part de l'exposition, directement et complètement 
 
 Pour l'application du présent alinéa, les associés de la société civile immobilière propriétaire des logements, lorsque ladite société civile immobilière est exclusivement constituée de membres personnes physiques n'agissant pas dans un cadre professionnel, sont assimilés aux propriétaires ;
 
-b) La valeur actualisée des paiements minimaux au titre de contrats de location-financement ou de contrats de location à caractère financier portant sur un logement est pondérée à 35 % ; la valeur actualisée de la valeur résiduelle en risque de ces contrats est pondérée à 100 % ;
+b) La valeur actualisée des paiements minimaux au titre de contrats de location-financement ou de contrats de location à caractère financier portant sur un logement est pondérée à 35 % ; toute fraction de valeur résiduelle en risque prise en compte dans la valeur exposée au risque est pondérée à 100 % ;
 
 c) L'application des dispositions visées aux deux alinéas précédents est soumise au respect des conditions suivantes :
 

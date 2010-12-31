@@ -4,7 +4,7 @@ Pour les expositions relatives à des contrats de location-financement ou à des
 
 a) Les établissements assujettis appliquent un taux de pondération de 50 % à la valeur actualisée des paiements minimaux au titre du contrat lorsque le bien est situé sur le territoire français.
 
-La valeur actualisée de la valeur résiduelle en risque est pondérée à 100 %.
+Toute fraction de valeur résiduelle en risque prise en compte dans la valeur exposée au risque du contrat est pondérée à 100 %.
 
 Sans préjudice des dispositions du titre X, le taux de pondération de 50 % s'applique à l'exposition dans la limite de :
 

@@ -55,6 +55,18 @@ Pour les positions en risque de taux d'intérêt associées à des titres de cr�
 
 Un seul ensemble de couverture est constitué pour chaque émetteur d'un titre de référence sous-jacent à un contrat d'échange sur défaut (credit default swap, CDS en anglais).
 
+Les contrats d'échange sur défaut au énième défaut sont traités comme suit :
+
+a) La mesure de la position en risque d'un titre de référence sous-jacent à un contrat d'échange sur défaut au énième défaut correspond à la valeur notionnelle effective du titre de référence, multipliée par la duration modifiée du dérivé au énième défaut rapportée à une variation de la marge de crédit du titre de référence ;
+
+b) Un seul ensemble de couverture est constitué pour chaque titre de référence sous-jacent à un contrat d'échange sur défaut au énième défaut ; les positions en risque associées à différents contrats d'échange sur défaut au énième défaut ne sont pas comprises dans le même ensemble de couverture ;
+
+c) Le coefficient multiplicateur applicable à l'ensemble de couverture constitué pour chaque titre de référence d'un dérivé au énième défaut est :
+
+0, 3 % lorsque le titre de référence fait l'objet d'une évaluation de crédit établie par un organisme externe d'évaluation de crédit reconnu, équivalente à un échelon 1 à 3 de qualité de crédit ;
+
+0, 6 % dans les autres cas.
+
 Un seul ensemble de couverture par émetteur est constitué pour les positions en risque de taux d'intérêt associées :
 
 - aux dépôts d'espèces auprès d'une contrepartie constitutive d'une sûreté réelle lorsque cette contrepartie n'a pas de dette assortie à un risque spécifique faible ;

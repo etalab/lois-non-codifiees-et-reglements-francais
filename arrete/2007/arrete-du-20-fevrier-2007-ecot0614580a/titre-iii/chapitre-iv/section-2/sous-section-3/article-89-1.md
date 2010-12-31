@@ -4,15 +4,13 @@ Les établissements assujettis utilisant l'approche notations internes avancée 
 
 a) Pour un instrument soumis à un échéancier de trésorerie, la durée est calculée conformément à la formule suivante :
 
-Vous pouvez consulter la formule dans le JO
-
-n° 51 du 01/03/2007 texte numéro 12
+Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12
 
 où CFt (cash flow, CF en anglais) indique les flux de trésorerie en principal, intérêts et commissions que le débiteur est contractuellement tenu de payer durant la période t, exprimée en années ;
 
 b) Pour les instruments dérivés faisant l'objet d'un accord-cadre de novation ou d'une convention-cadre de compensation, la durée est la moyenne pondérée des durées résiduelles de chaque exposition pondérée par son montant notionnel. Elle ne peut être inférieure à un an ;
 
-c) Pour les instruments dérivés totalement ou quasi totalement assortis de sûretés réelles, pour les opérations de prêt sur marge totalement ou quasi totalement assorties de sûretés réelles, et pour les opérations de pensions, de prêts et emprunts de titres ou de produits de base qui sont incluses dans une convention-cadre de compensation, la durée (M) correspond à la durée résiduelle moyenne pondérée par le montant notionnel des transactions. (M) ne peut être inférieure à 10 jours ;
+c) Pour les instruments dérivés totalement ou quasi totalement assortis de sûretés réelles, pour les opérations de prêt sur marge totalement ou quasi totalement assorties de sûretés réelles, la durée (M) correspond à la durée résiduelle moyenne pondérée par le montant notionnel des transactions. (M) ne peut être inférieure à dix jours ; pour les opérations de mise en pension ou les opérations de prêt ou d'emprunt de titres ou de produits de base qui font l'objet d'un accord-cadre de compensation, M correspond à la durée résiduelle moyenne pondérée des transactions et ne peut être inférieur à cinq jours ;
 
 d) Lorsqu'un établissement assujetti utilise ses estimations de probabilité de défaut pour les créances achetées sur des entreprises, la durée des montants tirés est égale à la durée moyenne pondérée de ces créances. Elle ne peut être inférieure à 90 jours.
 
@@ -24,9 +22,7 @@ e) Pour tout instrument autre que ceux visés dans cet article, ou lorsqu'un ét
 
 f) Lorsqu'un établissement assujetti utilise la méthode des modèles internes pour le risque de contrepartie visée au titre VI, la valeur de (M) des expositions auxquelles ladite méthode est appliquée lorsque ces expositions sont incluses dans un ensemble de compensation où l'échéance du contrat ayant la durée de vie la plus longue est supérieure à un an est déterminée selon la formule ci-dessous :
 
-Vous pouvez consulter  la formule dans le JO
-
-n° 51 du 01/03/2007 texte numéro 12
+Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12
 
 où dfk est le taux d'actualisation sans risque pour la période future tk.
 
