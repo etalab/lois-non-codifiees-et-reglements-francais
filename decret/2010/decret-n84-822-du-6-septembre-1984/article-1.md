@@ -2,20 +2,20 @@
 
 La liste des sections du Conseil économique, social et environnemental est fixée comme suit :
 
-Section des affaires sociales ;
+Section des affaires sociales et de la santé ;
 
-Section du travail ;
+Section du travail et de l'emploi ;
 
-Section des économies régionales et de l'aménagement du territoire ;
+Section de l'aménagement durable des territoires ;
 
-Section du cadre de vie ;
+Section de l'économie et des finances ;
 
-Section des finances ;
+Section des affaires européennes et internationales ;
 
-Section des relations extérieures ;
+Section de l'agriculture, de la pêche et de l'alimentation ;
 
-Section des activités productives, de la recherche et de la technologie ;
+Section de l'environnement ;
 
-Section de l'agriculture et de l'alimentation ;
+Section de l'éducation, de la culture et de la communication ;
 
-Section des questions économiques générales et de la conjoncture.
+Section des activités économiques.
