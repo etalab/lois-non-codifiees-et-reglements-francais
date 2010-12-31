@@ -67,7 +67,6 @@
 - [Ordonnance n° 2005-867 du 28 juillet 2005 (DOMX0500029R)](ordonnance-n-2005-867-du-28-juillet-2005-domx0500029r)
 - [Ordonnance n° 2005-870 du 28 juillet 2005 (DOMX0500128R)](ordonnance-n-2005-870-du-28-juillet-2005-domx0500128r)
 - [Ordonnance n° 2005-871 du 28 juillet 2005 (DOMX0500147R)](ordonnance-n-2005-871-du-28-juillet-2005-domx0500147r)
-- [Ordonnance n°2005-722 du 29 juin 2005 (ECOX0500044R)](ordonnance-n2005-722-du-29-juin-2005-ecox0500044r)
 - [Ordonnance n° 2005-727 du 30 juin 2005 (INTX0500120R)](ordonnance-n-2005-727-du-30-juin-2005-intx0500120r)
 - [Ordonnance n° 2005-731 du 30 juin 2005 (SOCX0500052R)](ordonnance-n-2005-731-du-30-juin-2005-socx0500052r)
 - [Ordonnance n° 2005-299 du 31 mars 2005 (SANX0500014R)](ordonnance-n-2005-299-du-31-mars-2005-sanx0500014r)
