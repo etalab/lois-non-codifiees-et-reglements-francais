@@ -2,19 +2,19 @@
 
 A. Fonctions exercées en administration centrale :
 
-1° Directeur d'administration centrale ;
+1° Secrétaire général, secrétaire général adjoint, directeurs généraux et délégué général de l'administration centrale ;
 
 2° Chef du service de l'inspection générale des affaires culturelles ;
 
-3° Délégué général, délégué ;
+3° Directeurs, directeurs adjoints et délégués adjoints ;
 
 4° Chef de service ;
 
-5° Directeur adjoint ;
+5° (Supprimé) ;
 
 6° Sous-directeur en charge d'une sous-direction d'administration centrale ;
 
-7° Délégué adjoint ;
+7° (Supprimé) ;
 
 8° Expert de haut niveau ou directeur de projet.
 
@@ -24,48 +24,12 @@ B.-Fonctions de directeur ou d'administrateur général exercées dans les servi
 
 2° Laboratoire de recherche des monuments historiques ;
 
-3° Service national des travaux ;
+3° (Supprimé) ;
 
-4° Manufacture nationale de Sèvres ;
+4° (Supprimé) ;
 
 5° Mobilier national et Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
 
-C. Fonctions exercées dans les services déconcentrés
+C. - Fonctions exercées dans les services déconcentrés :
 
-1° Directeur régional des affaires culturelles ;
-
-2° Chef de service départemental de l'architecture et du patrimoine dans les départements suivants :
-
-Alpes-Maritimes ;
-
-Calvados ;
-
-Charente-Maritime ;
-
-Côte-d'Or ;
-
-Côtes-d'Armor ;
-
-Eure-et-Loir ;
-
-Finistère ;
-
-Gironde ;
-
-Indre-et-Loire ;
-
-Morbihan ;
-
-Nord ;
-
-Paris ;
-
-Bas-Rhin ;
-
-Rhône ;
-
-Seine-et-Marne ;
-
-Yvelines ;
-
-Seine-Saint-Denis.
+Directeur régional des affaires culturelles.

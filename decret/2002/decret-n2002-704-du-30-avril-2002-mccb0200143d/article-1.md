@@ -10,8 +10,6 @@ I. A l'administration centrale du ministère de la culture et de la communicatio
 
 3° Aux directeurs ou administrateurs généraux des services à compétence nationale et des services extérieurs à compétence nationale figurant dans la liste annexée au présent décret.
 
-II.-Dans les services déconcentrés du ministère de la culture et de la communication :
+II. - Dans les services déconcentrés du ministère de la culture et de la communication :
 
-1° Aux directeurs régionaux des affaires culturelles ;
-
-2° Aux chefs des services départementaux de l'architecture et du patrimoine figurant dans la liste annexée au présent décret.
+Aux directeurs régionaux des affaires culturelles.
