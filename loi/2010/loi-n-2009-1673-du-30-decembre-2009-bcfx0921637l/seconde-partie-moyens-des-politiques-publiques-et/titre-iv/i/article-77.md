@@ -81,9 +81,15 @@ A modifié les dispositions suivantes :
 > -Code général des collectivités territoriales
 > > Art. L2334-4, Art. L5216-8, Art. L5842-29, Art. L5214-23, Art. L5842-23, Art. L5215-32
 
+2.1.7.-I.-L'article 1609 nonies C du code général des impôts dans sa rédaction en vigueur à compter du 1er janvier 2011 est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C du même code dans sa rédaction en vigueur jusqu'à cette date, pour l'application de l'article 1609 nonies C du même code.
+
+II.-Le I de l'article 1609 quinquies C du même code dans sa rédaction en vigueur à compter du 1er janvier 2011 est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la première phrase du premier alinéa du II du même article dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette phrase.
+
+III.-Le II de l'article 1609 quinquies C du même code dans sa rédaction en vigueur à compter du 1er janvier 2011 est applicable aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application de la deuxième phrase du premier alinéa du même II dans sa rédaction en vigueur jusqu'à cette date, pour l'application des dispositions de cette phrase.
+
 5. Vote des budgets et des taux en 2010 et 2011.
 
-Par dérogation aux dispositions du I de l'article 1639 A du code général des impôts et du premier alinéa de l'article L. 1612-2 du code général des collectivités territoriales, la date limite de vote des budgets et des taux des collectivités territoriales pour les exercices 2010 et 2011 est reportée au 15 avril.
+Par dérogation aux dispositions du I de l'article 1639 A du code général des impôts et du premier alinéa de l'article L. 1612-2 du code général des collectivités territoriales, la date limite de vote des budgets et des taux des collectivités territoriales est reportée au 15 avril pour l'exercice 2010 et au 30 avril pour l'exercice 2011.
 
 A modifié les dispositions suivantes :
 
@@ -125,7 +131,7 @@ A modifié les dispositions suivantes :
 > -Loi n° 94-1131 du 27 décembre 1994
 > > Art. 2
 
-> -Loi n° 97-1269 du 30 déceembre 1997
+> -Loi n° 97-1269 du 30 décembre 1997
 >
 >
 >
@@ -135,12 +141,9 @@ A modifié les dispositions suivantes :
 > -Loi n° 96-1143 du 26 décembre 1996
 > > Art. 3
 
-> -Loi n° 2009-594 du 27 mai 2009
->
->
->
->
-> Art. 5, Art. 6, Art. 7
+> -LOI n° 2009-594 du 27 mai 2009
+
+Art. 5, Art. 6, Art. 7
 
 8. Dispositions relatives aux attributions existantes de compensation des mesures d'allégement de fiscalité directe locale.
 
@@ -168,10 +171,17 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
+> -Loi n° 94-1131 du 27 décembre 1994
 >
 >
 >
-> -Loi n° 91-1322 du 30 décembre 1991
+>
+> -Loi n° 2006-396 du 31 mars 2006
+>
+>
+>
+>
+> -Loi
 >
 >
 >
@@ -231,7 +241,7 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
-> -Loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003
+> -Loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003)
 >
 >
 >
@@ -531,17 +541,27 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
-> -au III de l'article 52 de la loi n° 95-115 du 4 février 1995 précitée ;
+> -au III de l'article 52 de la loi n° 95-115 du 4 février 1995 précitée et au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 précitée ;
 >
 >
 >
 >
-> -au B du IV de l'article 29 de la loi n° 2006-396 du 31 mars 2006 précitée.
+> -au B du IV de l'article 29 de la loi n° 2006-396 du 31 mars 2006 précitée et au B du III de l'article 27 de la loi n° 2003-710 du 1er août 2003 précitée.
 >
 >
 >
 >
 > Pour les dotations mentionnées aux quatre derniers alinéas, le versement est limité à la durée d'application des exonérations ou des abattements prévus à l'article 1465 A, au I sexies de l'article 1466 A et à l'article 1466 F du code général des impôts.
+>
+>
+>
+>
+> A compter de 2011, il est appliqué une minoration aux allocations compensatrices mentionnées aux cinquième, septième, huitième, dixième, onzième et douzième alinéas du présent XVIII composant la dotation se substituant aux compensations de fiscalité directe locale.
+>
+>
+>
+>
+> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacune de ces allocations compensatrices avant leur agrégation pour former la dotation au profit des départements.
 >
 >
 >
@@ -566,7 +586,7 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
-> -au IV de l'article 42 de la loi de finances pour 2001 (n° 2000-1352 du 30 décembre 2000) pour les compensations prévues au IV de l'article 92 de la loi n° 2005-32 du 18 janvier 2005 précitée et au II de l'article 44 de la loi n° 2003-660 du 21 juillet 2003 précitée ;
+> -à l'article 108 de la loi n° 2005-32 du 18 janvier 2005 précitée et au IV de l'article 42 de la loi de finances pour 2001 (n° 2000-1352 du 30 décembre 2000) pour les compensations prévues au IV de l'article 92 de la loi n° 2005-32 du 18 janvier 2005 précitée et au II de l'article 44 de la loi n° 2003-660 du 21 juillet 2003 précitée ;
 >
 >
 >
@@ -581,7 +601,30 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
-> -au II du B de l'article 26 de la loi de finances pour 2003 précitée ; impôts.
+> -au II du B de l'article 26 de la loi de finances pour 2003 précitée ;
+>
+>
+>
+> > ― au III de l'article 7 de la loi n° 96-987 du 14 novembre 1996 précitée ;
+> >
+> > ― au A du III de l'article 27 de la loi n° 2003-710 du 1er août 2003 précitée ;
+> >
+> > ― au A du IV de l'article 29 de la loi n° 2006-396 du 31 mars 2006 précitée ;
+> >
+> > ― au IV de l'article 6 de la loi n° 2009-594 du 27 mai 2009 précitée ;
+> >
+> > ― au VII de l'article 5 de la loi n° 2009-594 du 27 mai 2009 précitée ;
+> >
+> > ― au III de l'article 95 de la loi de finances pour 1998 précitée ;
+> >
+> > ― au III de l'article 52 de la loi n° 95-115 du 4 février 1995 précitée et au B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 précitée ;
+> >
+> > ― au B du IV de l'article 29 de la loi n° 2006-396 du 31 mars 2006 précitée et au B du III de l'article 27 de la loi n° 2003-710 du 1er août 2003 précitée.
+> >
+> > Pour les dotations mentionnées aux huit derniers alinéas, le versement est limité à la durée d'application des exonérations ou des abattements prévus aux articles 1383 B, 1383 C, 1383 C bis, 1395 H et 1465 A, au I sexies de l'article 1466 A et à l'article 1466 F du code général des impôts.
+> A compter de 2011, il est appliqué une minoration aux allocations compensatrices mentionnées aux sixième, septième, huitième, neuvième, dixième, onzième, quatorzième, quinzième et seizième alinéas qui précèdent composant la dotation se substituant aux compensations de fiscalité directe locale, ainsi qu'à la partie des allocations compensatrices mentionnées au quatrième alinéa correspondant aux exonérations mentionnées au d du I de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) et à la partie des allocations compensatrices mentionnées au cinquième alinéa correspondant aux exonérations mentionnées au IV de l'article 92 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale.
+>
+> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacun de ces éléments avant leur agrégation pour former la dotation au profit des régions.
 >
 >
 >

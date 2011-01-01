@@ -18,7 +18,7 @@ A N N E X E
 </td>
 </tr>
 <tr>
-<td rowspan="11">
+<td rowspan="10">
 <p align="center">Emplois de 1re catégorie - groupe I</p>
 </td>
 <td>
@@ -81,7 +81,7 @@ A N N E X E
 <p align="center">Marne-la-Vallée</p>
 </td>
 <td>
-<p align="center">Paris-Est (à compter du 17 décembre 2010)</p>
+<p align="center">Paris-Est </p>
 </td>
 </tr>
 <tr>
@@ -98,14 +98,6 @@ A N N E X E
 </td>
 <td>
 <p align="center">Poitiers</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Strasbourg</p>
-</td>
-<td>
-<p align="center">Strasbourg (supprimé à compter du 17 décembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +192,7 @@ A N N E X E
 </td>
 </tr>
 <tr>
-<td rowspan="23">
+<td rowspan="22">
 <p align="center">Emplois de 2e catégorie</p>
 </td>
 <td>
@@ -332,14 +324,6 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Marne-la-Vallée</p>
-</td>
-<td>
-<p align="center">Paris-est (supprimé à compter du 17 décembre 2010)</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Reims</p>
 </td>
 <td>
@@ -383,18 +367,35 @@ A N N E X E
 <p align="center">Strasbourg</p>
 </td>
 <td>
-<p align="center">Strasbourg (à compter du 17 décembre 2010)</p>
+<p align="center">Strasbourg </p>
 </td>
 </tr>
 <tr>
-<td rowspan="20">
+<td rowspan="24">
 <p align="center">Emploi de 3e catégorie</p>
 </td>
 <td>
-<p align="center">Bordeaux</p>
+<p align="center">Aix-en-Provence</p>
 </td>
 <td>
-<p align="center">Bordeaux</p>
+<p align="center">Aix-en-Provence</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Bordeaux</p>
+</td>
+<td>
+<p align="center"> Bordeaux</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Chambéry</p>
+</td>
+<td>
+<p align="center"> Chambéry (à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +427,7 @@ A N N E X E
 <p align="center">Lille</p>
 </td>
 <td>
-<p align="center">Lille</p>
+<p align="center">Lille-Nord - Lille</p>
 </td>
 </tr>
 <tr>
@@ -471,6 +472,14 @@ A N N E X E
 </tr>
 <tr>
 <td>
+<p align="center"> Nice </p>
+</td>
+<td>
+<p align="center"> Nice (à compter du 31 décembre 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Orléans</p>
 </td>
 <td>
@@ -499,6 +508,14 @@ A N N E X E
 </td>
 <td>
 <p align="center">Saint-Germain-en-Laye</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Perpignan</p>
+</td>
+<td>
+<p align="center">  Perpignan</p>
 </td>
 </tr>
 <tr>

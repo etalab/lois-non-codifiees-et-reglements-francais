@@ -2,8 +2,6 @@
 
 L'échelonnement indiciaire applicable aux praticiens des armées, régis par le décret du 12 septembre 2008 susvisé, est fixé comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -22,10 +20,10 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 </tr>
 <tr>
 <td align="center">
-<br/>Médecins des armées <br/>
+<br/>Médecins-des armées <br/>
 </td>
 <td align="center">
-<br/>Médecin chef des services hors classe <br/>
+<br/>Médecin-chef des services hors classe <br/>
 </td>
 <td align="center">
 <br/>2e échelon <br/>
@@ -56,7 +54,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>
 </td>
 <td align="center">
-<br/>Médecin chef des services de classe normale <br/>
+<br/>Médecin-chef des services de classe normale <br/>
 </td>
 <td align="center">
 <br/>2e échelon <br/>
@@ -125,7 +123,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>1   015 <br/>
+<br/>1015 <br/>
 </td>
 </tr>
 <tr>
@@ -141,7 +139,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>966 <br/>
+<br/>989 <br/>
 </td>
 </tr>
 <tr>
@@ -157,7 +155,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>924 <br/>
+<br/>930 <br/>
 </td>
 </tr>
 <tr>
@@ -173,7 +171,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>893 <br/>
+<br/>901 <br/>
 </td>
 </tr>
 <tr>
@@ -189,7 +187,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>867 <br/>
+<br/>878 <br/>
 </td>
 </tr>
 <tr>
@@ -204,7 +202,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>871 <br/>
+<br/>878 <br/>
 </td>
 </tr>
 <tr>
@@ -220,7 +218,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>848 <br/>
+<br/>852 <br/>
 </td>
 </tr>
 <tr>
@@ -236,7 +234,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>827 <br/>
+<br/>842 <br/>
 </td>
 </tr>
 <tr>
@@ -252,7 +250,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>762 <br/>
+<br/>772 <br/>
 </td>
 </tr>
 <tr>
@@ -320,7 +318,9 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 </tr>
 <tr>
 <td align="center">
-<br/>Pharmaciens des armées, vétérinaires des armées, chirurgiens-dentistes des armées <br/>
+<br/>Pharmaciens des armées <br/>
+<br/>Vétérinaires des armées <br/>
+<br/>Chirurgiens-dentistes des armées <br/>
 </td>
 <td align="center">
 <br/>Pharmacien, vétérinaire, chirurgien-dentiste chef des services hors classe <br/>
@@ -423,7 +423,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>1   015 <br/>
+<br/>1015 <br/>
 </td>
 </tr>
 <tr>
@@ -439,7 +439,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>966 <br/>
+<br/>989 <br/>
 </td>
 </tr>
 <tr>
@@ -455,7 +455,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>924 <br/>
+<br/>930 <br/>
 </td>
 </tr>
 <tr>
@@ -471,7 +471,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>893 <br/>
+<br/>901 <br/>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>867 <br/>
+<br/>878 <br/>
 </td>
 </tr>
 <tr>
@@ -496,13 +496,14 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>
 </td>
 <td align="center">
-<br/>Pharmacien, vétérinaire, chirurgien-dentiste principal <br/>
+<br/>Pharmacien, vétérinaire, <br/>
+<br/>chirurgien-dentiste principal <br/>
 </td>
 <td align="center">
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>871 <br/>
+<br/>878 <br/>
 </td>
 </tr>
 <tr>
@@ -518,7 +519,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>848 <br/>
+<br/>852 <br/>
 </td>
 </tr>
 <tr>
@@ -534,7 +535,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>827 <br/>
+<br/>842 <br/>
 </td>
 </tr>
 <tr>
@@ -550,7 +551,7 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>762 <br/>
+<br/>772 <br/>
 </td>
 </tr>
 <tr>
@@ -712,10 +713,8 @@ L'échelonnement indiciaire applicable aux praticiens des armées, régis par le
 </tr>
 <tr>
 <td colspan="4">
-<br/>(1) Echelon exceptionnel attribué dans les conditions prévues par le statut particulier du corps.<br/>
+<br/>(1) Echelon exceptionnel attribué dans les conditions prévues par le statut particulier du corps. <br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>

@@ -1,5 +1,6 @@
 # B. ― Mesures fiscales
 
+- [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 8](article-8.md)
 - [Article 12](article-12.md)
@@ -16,3 +17,4 @@
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
 - [Article 42](article-42.md)
+- [Article 43](article-43.md)

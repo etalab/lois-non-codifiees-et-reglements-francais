@@ -105,28 +105,6 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tr>
 <tr>
 <td>
-<p>Directeur du développement des médias </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">150 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Délégué à la modernisation de la gestion publique et des structures de l'Etat </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Directeur à la direction générale de l'administration et de la fonction publique </p>
 </td>
 <td>
@@ -148,14 +126,12 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </td>
 </tr>
 <tr>
+<td>Chef de service, directeur de l'académie du renseignement</td>
 <td>
-<p>Directeur de projet, chargé de l'accompagnement du regroupement à Strasbourg de l'essentiel des activités de l'Ecole nationale d'administration </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">80 </p>
+<p align="center">110</p>
 </td>
 </tr>
 <tr>
@@ -218,28 +194,6 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </td>
 <td>
 <p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service, adjoint au directeur du développement des médias </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur à la direction du développement des médias </p>
-</td>
-<td>
-<p align="center">3 </p>
-</td>
-<td>
-<p align="center">80 </p>
 </td>
 </tr>
 <tr>
@@ -316,7 +270,7 @@ B.-Fonctions exercées au secrétariat général de la défense et de la sécuri
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">100 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -376,7 +330,7 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur adjoint du Centre d'analyse stratégique </p>
+<p>Chef de service, adjoint du directeur général</p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -405,6 +359,15 @@ D.-Fonctions exercées à la Délégation à l'aménagement du territoire et à 
 <p align="center">NOMBRE </p>
 <br/>
 <p align="center">de points par emploi </p>
+</td>
+</tr>
+<tr>
+<td> Chef de service, chargé de la prospective, des études de l'évaluation et de l'action internationale </td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center"> 110</p>
 </td>
 </tr>
 <tr>

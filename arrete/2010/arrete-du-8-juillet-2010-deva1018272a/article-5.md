@@ -4,8 +4,6 @@ En application de l'article 2 du décret du 28 octobre 2008 susvisé, les foncti
 
 ― expert confirmé ;
 
-― chef de subdivision, à l'exclusion de ceux mentionnés à l'article 4 du présent arrêté ;
-
 ― coordonnateur formation.
 
 A la direction des opérations de la direction des services de la navigation aérienne (DSNA/DO) :

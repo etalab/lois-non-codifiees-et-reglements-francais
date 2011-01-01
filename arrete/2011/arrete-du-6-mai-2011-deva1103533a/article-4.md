@@ -1,0 +1,5 @@
+# Article 4
+
+Pour les personnels navigants techniques de la direction générale de l'aviation civile chargés de fonctions de pilote instructeur, le montant de l'indemnité de qualification et de fonctions défini à l'article 1er du présent arrêté correspond à l'exercice de cinq cent cinquante heures annuelles d'instruction au vol et de vol pour exercer les missions définies à l'article 3 du décret du 6 mai 2011 susvisé. Ces heures peuvent être effectuées, selon des dispositions arrêtées par le ministre chargé des transports, suivant les différentes modalités techniques d'exercice des missions des pilotes instructeurs.
+
+L'exercice, pour les besoins du service, par ces personnels navigants techniques de la direction générale de l'aviation civile au cours d'une année civile donnée d'un nombre d'heures d'instruction au vol et de vol supérieur aux cinq cent cinquante heures indiquées à l'alinéa précédent ouvre droit au versement de la prime de performance dans les conditions définies à l'article 5 ci-dessous.

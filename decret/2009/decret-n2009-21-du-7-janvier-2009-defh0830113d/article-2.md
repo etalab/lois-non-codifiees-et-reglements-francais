@@ -41,7 +41,7 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>603 <br/>
+<br/>612 <br/>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>8e échelon <br/>
 </td>
 <td align="center">
-<br/>565 <br/>
+<br/>576 (2) <br/>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>8e échelon <br/>
 </td>
 <td align="center">
-<br/>531</td>
+<br/>539</td>
 </tr>
 <tr>
 <td align="center"/>
@@ -649,8 +649,7 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 </tr>
 <tr>
 <td colspan="4">
-<br/>(1) Echelon exceptionnel attribué dans la limite de 19 % de l'effectif des majors pour l'année 2010.<br/>
-</td>
+<br/>(1) Echelon exceptionnel attribué dans la limite de 25 % de l'effectif des majors.</td>
 </tr>
 </tbody>
 </table>

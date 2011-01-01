@@ -2,7 +2,7 @@
 
 Les ressources du régime de prévoyance du personnel de la Société nationale des chemins de fer français sont constituées par :
 
-1° Le produit des cotisations dues par les agents du cadre permanent de la Société nationale des chemins de fer français et par la Société nationale des chemins de fer français ;
+1° Le produit des cotisations dues par les agents du cadre permanent de la Société nationale des chemins de fer français et par la Société nationale des chemins de fer français ; une part des cotisations dues par cette dernière est affectée au financement des charges de gestion courante mentionnées à l'article 15, pour leur montant net des produits de gestion courante ; cette part, déterminée à la clôture de l'exercice, est égale à la dotation du régime de prévoyance mentionnée à l'article 15 ; elle est enregistrée en produit de gestion courante ;
 
 2° Le produit des cotisations dues par les agents en inactivité de service, et par les bénéficiaires d'une pension de retraite ou d'une pension de réversion, servie au titre du règlement de retraites du personnel de la Société nationale des chemins de fer français ;
 

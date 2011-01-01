@@ -66,6 +66,8 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.15 Suivi des installations auxiliaires
 
+2.4.16 Gestion de l'outillage spécifique gaz, pour les centres concernés
+
 2.5. Le réseau se tient informé de l'évolution de la technologie des véhicules et de celle des appareils de mesure et de contrôle. Il dispose notamment d'une base de données tenue à jour relative aux caractéristiques des véhicules et à leurs équipements.
 
 2.6. Le réseau définit une procédure concernant les voies de recours amiables offertes au public pour des défauts et non-conformités éventuels des opérations de contrôle, sans préjuger des voies de recours légales qui lui sont ouvertes par ailleurs.

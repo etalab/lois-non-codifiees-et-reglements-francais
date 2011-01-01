@@ -14,7 +14,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="21" valign="top" width="250">
+<td rowspan="20" valign="top" width="250">
 <p align="center">Chef d'un bureau</p>
 </td>
 <td valign="top" width="374">
@@ -120,15 +120,10 @@
 </tr>
 <tr>
 <td valign="top" width="374">
-<p>A l'Ecole nationale de l'aviation civile (ENAC).</p>
-</td>
-<td rowspan="2" width="56">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="374">
 <p>Au service national d'ingénierie aéroportuaire (SNIA).</p>
+</td>
+<td width="56">
+<p align="center">3</p>
 </td>
 </tr>
 </tbody>

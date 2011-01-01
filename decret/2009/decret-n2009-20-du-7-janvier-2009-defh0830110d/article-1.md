@@ -1,13 +1,12 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux militaires régis par les décrets du 5 novembre 1976, du 4 janvier 1977 et du 12 septembre 2008 susvisés est fixé comme suit :
-
-<div align="center">
+L'échelonnement indiciaire applicable aux militaires régis par les décrets du 5 novembre 1976, du 4 janvier 1977, du 27 décembre 1979 et du 12 septembre 2008 susvisés est fixé comme suit :
 
 <table>
 <tbody>
 <tr>
-<th>GRADE <br/>
+<th>
+<br/>GRADE <br/>
 </th>
 <th>
 <br/>ÉCHELON <br/>
@@ -70,7 +69,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>1   015 <br/>
+<br/>1015 <br/>
 </td>
 </tr>
 <tr>
@@ -82,7 +81,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>966 <br/>
+<br/>989 <br/>
 </td>
 </tr>
 <tr>
@@ -105,7 +104,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>1er échelon exceptionnel (1) <br/>
 </td>
 <td align="center">
-<br/>1   015 <br/>
+<br/>1015 <br/>
 </td>
 </tr>
 <tr>
@@ -129,7 +128,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>884 <br/>
+<br/>930 <br/>
 </td>
 </tr>
 <tr>
@@ -141,7 +140,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>849 <br/>
+<br/>901 <br/>
 </td>
 </tr>
 <tr>
@@ -153,7 +152,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>840 <br/>
+<br/>878 <br/>
 </td>
 </tr>
 <tr>
@@ -188,7 +187,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>808 <br/>
+<br/>852 <br/>
 </td>
 </tr>
 <tr>
@@ -200,7 +199,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>759 <br/>
+<br/>842 <br/>
 </td>
 </tr>
 <tr>
@@ -212,7 +211,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>757 <br/>
+<br/>801 <br/>
 </td>
 </tr>
 <tr>
@@ -224,7 +223,7 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>736 <br/>
+<br/>772 <br/>
 </td>
 </tr>
 <tr>
@@ -370,11 +369,8 @@ L'échelonnement indiciaire applicable aux militaires régis par les décrets du
 </tr>
 <tr>
 <td colspan="3">
-<br/>(1) Echelon exceptionnel attribué dans les conditions prévues par le statut particulier du corps. <br/>
-<br/>(2) Echelon provisoire attribué dans les conditions prévues par le décret n° 2008-931 susvisé. <br/>
-</td>
+<br/>(1) Echelon exceptionnel attribué dans les conditions prévues par les statuts particuliers des corps. <br/>
+<br/>(2) Echelon provisoire attribué dans les conditions prévues par le décret n° 2008-931 susvisé</td>
 </tr>
 </tbody>
 </table>
-
-</div>

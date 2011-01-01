@@ -1,14 +1,14 @@
 # Article 4
 
-A. - modification du CGI
+A.-modification du CGI
 
-B. - Dans les conditions prévues par la loi de finances, l'Etat compense, chaque année, à compter du 1er janvier 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations liées aux créations d'établissements mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
+B.-Dans les conditions prévues par la loi de finances, l'Etat compense, chaque année, à compter du 1er janvier 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations liées aux créations d'établissements mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
 
 Le Fonds national de péréquation de la taxe professionnelle compense, chaque année, à compter de 1997, la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation des exonérations accordées au titre :
 
-- des établissements créés avant le 1er janvier 1997 dans les zones visées aux I ter et I quater de l'article 1466 A du code général des impôts, à l'exception de ceux créés dans les zones visées au I bis en 1995 et 1996 ;
+-des établissements créés avant le 1er janvier 1997 dans les zones visées aux I ter et I quater de l'article 1466 A du code général des impôts, à l'exception de ceux créés dans les zones visées au I bis en 1995 et 1996 ;
 
-- des extensions d'établissement mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
+-des extensions d'établissement mentionnées aux I bis, I ter et I quater de l'article 1466 A du code général des impôts.
 
 Les compensations prévues aux alinéas précédents sont égales au produit obtenu en multipliant la perte de base résultant, chaque année et pour chaque collectivité ou groupement de collectivités, de l'exonération par le taux de la taxe professionnelle appliqué en 1996 dans la collectivité ou le groupement. Au titre de 2009, la compensation calculée selon les dispositions qui précèdent est minorée par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article. Au titre de 2010, la compensation calculée selon les dispositions qui précèdent et à laquelle est appliqué le taux d'évolution fixé au titre de 2009 est minorée par application d'un taux correspondant à l'écart entre le montant total à verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même article.
 
@@ -20,8 +20,14 @@ Chaque année, la charge supportée par le Fonds national de péréquation de la
 
 Lorsque la perte de recettes résultant pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre des exonérations mentionnées aux deuxième, troisième et quatrième alinéas est supérieure à la charge supportée, dans les conditions fixées à l'alinéa ci-dessus, par le Fonds national de péréquation de la taxe professionnelle, l'Etat compense la différence dans les conditions prévues par la loi de finances.
 
-A compter de 2004, l'Etat compense, chaque année, dans les conditions prévues par la loi de finances, la perte de recettes résultant, pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation de la taxe professionnelle, des exonérations mentionnées aux troisième et quatrième alinéas du présent B.
+A compter de 2004, l'Etat compense, chaque année, dans les conditions prévues par la loi de finances, la perte de recettes résultant, pour les collectivités territoriales et leurs groupements dotés d'une fiscalité propre et les fonds départementaux de péréquation de la taxe professionnelle, des exonérations mentionnées aux troisième et quatrième alinéas du présent B. A compter de 2011, le prélèvement sur les recettes de l'Etat destiné à compenser ces pertes de recettes ainsi que celles mentionnées au premier alinéa du présent B s'applique uniquement aux communes et aux groupements dotés d'une fiscalité propre.
+
+A compter de 2011, les taux à prendre en compte pour les communes et les groupements de communes à fiscalité propre pour le calcul des compensations ou des minorations mentionnées aux alinéas précédents sont majorés en fonction des taux retenus pour déterminer les allocations compensatrices versées en 2010 au profit des départements et des régions.
+
+Les dispositions relatives à cette majoration au profit des communes ou des groupements de communes sont fixées au VI du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+
+Au titre de 2011, les compensations calculées selon les dispositions qui précèdent et auxquelles sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 sont minorées par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
 C et D. - modification du CGI et de la loi n° 95-115 du 4 février 1995.
 
-E. - Les obligations déclaratives des personnes et organismes concernés par les exonérations prévues au présent article sont fixées par décret.
+E. - Les obligations déclaratives des personnes et organismes concernés par les exonérations prévues au présent article sont fixées par décret

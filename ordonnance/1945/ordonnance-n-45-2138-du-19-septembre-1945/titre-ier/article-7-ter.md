@@ -2,11 +2,11 @@
 
 I. - L'activité d'expertise comptable peut également être exercée au sein d'associations de gestion et de comptabilité, qui ne sont pas membres de l'ordre des experts-comptables.
 
-Ces associations ont pour objet de fournir les prestations prévues aux articles 2 et 22, et notamment d'apporter conseil et assistance en matière de gestion, à l'ensemble de leurs adhérents. Elles sont créées à l'initiative de chambres de commerce et d'industrie, de chambres de métiers ou de chambres d'agriculture, ou d'organisations professionnelles d'industriels, de commerçants, d'artisans, d'agriculteurs ou de professions libérales.
+Ces associations ont pour objet de fournir les prestations prévues aux articles 2 et 22, et notamment d'apporter conseil et assistance en matière de gestion, à l'ensemble de leurs adhérents. Elles sont créées à l'initiative de      chambres de commerce et d'industrie territoriales, de chambres de métiers ou de chambres d'agriculture, ou d'organisations professionnelles d'industriels, de commerçants, d'artisans, d'agriculteurs ou de professions libérales.
 
 Aucune association ne peut être inscrite au tableau si elle a moins de trois cents adhérents lors de la demande d'inscription.
 
-Les associations ayant pour objet l'activité d'expertise-comptable sont seules habilitées à utiliser l'appellation "association de gestion et de comptabilité".
+Les associations ayant pour objet l'activité d'expertise-comptable sont seules habilitées à utiliser l'appellation " association de gestion et de comptabilité ".
 
 Les dirigeants et les administrateurs de ces associations doivent justifier, dans les conditions définies par le décret mentionné à l'article 84 bis, avoir satisfait à leurs obligations fiscales et sociales.
 

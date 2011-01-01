@@ -1,6 +1,5 @@
 # Article Annexe
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -40,7 +39,9 @@
 <tr>
 <td>
 <p align="center">
-<br/>Corps des secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur <br/>régi par le décret n° 94-1017 du 18 novembre 1994 modifié fixant les dispositions statutaires communes <br/>applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues <br/>Secrétaire administratif de l'éducation nationale et de l'enseignement supérieur de classe supérieure : <br/>Pour 2009 </p>
+<br/>Corps des secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur <br/>
+<br/>régi par le décret n° 94-1017 du 18 novembre 1994 modifié fixant les dispositions statutaires communes <br/>applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues <br/>
+<br/>Secrétaire administratif de l'éducation nationale et de l'enseignement supérieur de classe supérieure : <br/>Pour 2009 </p>
 </td>
 <td>
 <p align="center">
@@ -64,13 +65,14 @@
 </td>
 <td>
 <p align="center">
-<br/>9, 2 % </p>
+<br/>7, 6 % </p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="center">
-<br/>Secrétaire administratif de l'éducation nationale et de l'enseignement supérieur de classe exceptionnelle : <br/>Pour 2009 </p>
+<br/>Secrétaire administratif de l'éducation nationale et de l'enseignement supérieur de classe exceptionnelle : <br/>
+<br/>Pour 2009 </p>
 </td>
 <td>
 <p align="center">
@@ -94,7 +96,7 @@
 </td>
 <td>
 <p align="center">
-<br/>4, 4 % </p>
+<br/>11 % </p>
 </td>
 </tr>
 <tr>
@@ -579,4 +581,3 @@
 </tr>
 </tbody>
 </table>
-</div>

@@ -12,6 +12,8 @@ A compter de l'année 2011, les taux à prendre en compte pour les départements
 
 Les dispositions relatives à cette majoration au profit des communes ou des groupements de communes sont fixées au VI du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
+Au titre de 2011, les compensations calculées selon les dispositions qui précèdent et auxquelles sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 sont minorées par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+
 Jusqu'au 31 décembre 2010, pour les communes qui appartiennent à un établissement public de coopération intercommunale soumis aux dispositions de l'article 1609 nonies C du code général des impôts dans sa version en vigueur jusqu'au 31 décembre 2010, le taux appliqué en 1996 dans la commune est majoré du taux voté en 1996 par l'établissement public de coopération intercommunale précité.
 
 IV. - Les obligations déclaratives des personnes et organismes concernés par les exonérations prévues au présent article sont fixées par décret.

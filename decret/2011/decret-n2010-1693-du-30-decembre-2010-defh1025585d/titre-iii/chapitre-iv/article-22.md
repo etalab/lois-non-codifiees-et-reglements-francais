@@ -1,0 +1,7 @@
+# Article 22
+
+Peuvent être détachés dans le corps des administrateurs de la direction générale de la sécurité extérieure les fonctionnaires d'un corps recruté par la voie de l'Ecole nationale d'administration, les administrateurs des postes et télécommunications, les magistrats de l'ordre judiciaire, les administrateurs territoriaux, les administrateurs de la Ville de Paris et les personnels de direction des établissements de santé et autres établissements mentionnés aux 1°, 2° et 3° de l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière répondant aux exigences fixées par les dispositions statutaires applicables aux personnels titulaires de la direction générale de la sécurité extérieure.
+
+Les fonctionnaires visés à l'alinéa précédent sont détachés, à équivalence de grade, à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui qu'ils percevaient dans leur corps d'origine. Ils conservent dans cet échelon, dans la limite des durées fixées à l'article 20 pour l'accès à l'échelon immédiatement supérieur, l'ancienneté d'échelon acquise dans le grade de leur corps ou cadre d'emplois d'origine.
+
+Ils concourent pour les promotions de grade et d'échelon avec l'ensemble des administrateurs de la direction générale de la sécurité extérieure dans les conditions prévues par les articles 20 et 21.

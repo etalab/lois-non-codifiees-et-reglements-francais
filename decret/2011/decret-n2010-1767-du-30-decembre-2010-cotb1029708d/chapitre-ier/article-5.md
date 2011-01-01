@@ -1,0 +1,5 @@
+# Article 5
+
+I. ― Peuvent être détachés dans un emploi de directeur général adjoint des services de mairie d'un arrondissement dont la population est supérieure à 80 000 habitants les fonctionnaires relevant de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière, appartenant à un corps ou à un cadre d'emplois de catégorie A ou assimilée, et ayant atteint un échelon doté au moins de l'indice brut 542, ainsi que les officiers de carrière justifiant de cinq années de services en cette qualité et détenant au moins le grade de lieutenant ou assimilé.
+
+II. - Peuvent être détachés dans un emploi de directeur général adjoint des services de mairie d'un arrondissement dont la population est comprise entre 40 000 et 80 000 habitants les fonctionnaires relevant de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière, appartenant à un corps ou à un cadre d'emplois de catégorie A ou assimilée, ainsi que les officiers de carrière détenant au moins le grade de lieutenant ou assimilé.

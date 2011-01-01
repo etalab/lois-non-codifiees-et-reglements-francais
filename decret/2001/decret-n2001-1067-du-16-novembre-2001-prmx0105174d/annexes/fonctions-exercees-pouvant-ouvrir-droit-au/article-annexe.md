@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A.-Fonctions exercées dans les services généraux du Premier ministre et à la   direction de l'information légale et administrative
+A.-Fonctions exercées dans les services généraux du Premier ministre et à la direction de l'information légale et administrative
 
 1° Secrétaire général du Gouvernement.
 
@@ -28,7 +28,7 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 
 1° Directeur général du Centre d'analyse stratégique.
 
-2° Directeur général adjoint du Centre d'analyse stratégique.
+2° Chef de service.
 
 D.-Fonctions exercées à la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale
 
@@ -36,4 +36,6 @@ D.-Fonctions exercées à la délégation interministérielle à l'aménagement 
 
 2° Directeur d'administration centrale.
 
-3° Sous-directeur d'administration centrale.
+3° Chef de service.
+
+4° Sous-directeur d'administration centrale.

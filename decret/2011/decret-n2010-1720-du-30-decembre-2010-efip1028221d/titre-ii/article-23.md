@@ -1,0 +1,5 @@
+# Article 23
+
+Sans préjudice des recrutements des inspecteurs de la concurrence, de la consommation et de la répression des fraudes effectués en application de l'article 7 du décret du 30 janvier 2007 susvisé, les inspecteurs de la concurrence, de la consommation et de la répression des fraudes peuvent être recrutés au titre des années 2011, 2012 et 2013 par la voie d'un examen professionnel organisé en application de l'article 26 de la loi du 11 janvier 1984 susvisée.
+
+Cet examen est ouvert aux contrôleurs principaux de la concurrence, de la consommation et de la répression des fraudes, aux contrôleurs de 1re classe de la concurrence, de la consommation et de la répression des fraudes et aux contrôleurs de 2e classe de la concurrence, de la consommation et de la répression des fraudes ayant atteint, pour ces derniers, au moins le 6e échelon de leur grade et comptant au moins cinq ans de services effectifs dans leur corps. La condition d'appartenance au grade ou de détention de l'échelon s'apprécie au 1er janvier de l'année au titre de laquelle l'examen est organisé.

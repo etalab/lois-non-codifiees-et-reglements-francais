@@ -1,0 +1,3 @@
+# TITRE III : RATIFICATION D'UN DECRET D'AVANCE
+
+- [Article 12](article-12.md)

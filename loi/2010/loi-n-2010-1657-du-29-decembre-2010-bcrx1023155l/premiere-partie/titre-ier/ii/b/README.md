@@ -1,5 +1,6 @@
 # B. ― Autres dispositions
 
+- [Article 58](article-58.md)
 - [Article 62](article-62.md)
 - [Article 63](article-63.md)
 - [Article 64](article-64.md)
@@ -7,4 +8,6 @@
 - [Article 71](article-71.md)
 - [Article 72](article-72.md)
 - [Article 74](article-74.md)
+- [Article 75](article-75.md)
 - [Article 77](article-77.md)
+- [Article 80](article-80.md)
