@@ -88,7 +88,6 @@
 - [Décret n°2007-1303 du 3 septembre 2007 (DEVM0756364D)](decret-n2007-1303-du-3-septembre-2007-devm0756364d)
 - [Décret n°2007-1305 du 3 septembre 2007 (AGRE0760175D)](decret-n2007-1305-du-3-septembre-2007-agre0760175d)
 - [Décret n°2007-1423 du 3 octobre 2007 (PRMX0767236D)](decret-n2007-1423-du-3-octobre-2007-prmx0767236d)
-- [Décret n°2007-1425 du 3 octobre 2007 (AGRS0762294D)](decret-n2007-1425-du-3-octobre-2007-agrs0762294d)
 - [Décret n°2007-1427 du 3 octobre 2007 (ECEL0759844D)](decret-n2007-1427-du-3-octobre-2007-ecel0759844d)
 - [Décret n°2007-1428 du 3 octobre 2007 (SJSH0762293D)](decret-n2007-1428-du-3-octobre-2007-sjsh0762293d)
 - [Décret n°2007-1429 du 3 octobre 2007 (SJSH0762582D)](decret-n2007-1429-du-3-octobre-2007-sjsh0762582d)

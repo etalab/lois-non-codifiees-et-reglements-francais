@@ -6,4 +6,4 @@ Dans ce cas, il est assisté dans l'exercice de ces fonctions par un secrétaire
 
 Par dérogation à l'article 38, le préfet peut donner délégation de signature au secrétaire général de la préfecture pour l'exercice des attributions qu'il exerce en tant que préfet de région.
 
-Les dispositions du présent article s'appliquent à titre expérimental, à compter de la vacance d'emploi de secrétaire général pour les affaires régionales et pour une période de deux ans à compter de l'entrée en vigueur du présent décret, à l'issue de laquelle il sera fait un bilan de l'expérimentation.
+Les dispositions du présent article s'appliquent à titre expérimental, à compter de la vacance d'emploi de secrétaire général pour les affaires régionales et pour une période de trois ans à compter de l'entrée en vigueur du présent décret, à l'issue de laquelle il sera fait un bilan de l'expérimentation.

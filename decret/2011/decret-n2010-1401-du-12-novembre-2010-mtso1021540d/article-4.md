@@ -1,0 +1,3 @@
+# Article 4
+
+Un arrêté conjoint des ministres chargés du travail, de l'économie, de l'industrie et de l'emploi établit la liste des organisations syndicales de fonctionnaires aptes à désigner des représentants et fixe le nombre des sièges de titulaires et de suppléants attribués à chacune d'elles au sein du comité technique paritaire institué en application de l'article 1er proportionnellement au nombre de voix qu'elles ont obtenues lors des consultations organisées en vue de la constitution des comités techniques paritaires des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.

@@ -14,7 +14,4 @@ A abrogé les dispositions suivantes :
 >
 >
 >
->
->
->
-> 5° section 2 du chapitre Ier du titre II du livre IV ; toutefois, ces dispositions demeurent en vigueur dans la région Ile-de-France et ses départements et dans les régions et départements d'outre-mer, pour les missions qui ne sont pas dévolues aux agences régionales de santé.
+> 5° section 2 du chapitre Ier du titre II du livre IV ;

@@ -412,7 +412,6 @@
 - [Décret n°99-825 du 17 septembre 1999 (ECOF9900010D)](decret-n99-825-du-17-septembre-1999-ecof9900010d)
 - [Décret n°99-826 du 17 septembre 1999 (ECOF9900026D)](decret-n99-826-du-17-septembre-1999-ecof9900026d)
 - [Décret n°99-830 du 17 septembre 1999 (EQUA9900419D)](decret-n99-830-du-17-septembre-1999-equa9900419d)
-- [Décret n°99-955 du 17 novembre 1999 (MESO9911419D)](decret-n99-955-du-17-novembre-1999-meso9911419d)
 - [Décret n°99-956 du 17 novembre 1999 (ECOX9900132D)](decret-n99-956-du-17-novembre-1999-ecox9900132d)
 - [Décret n°99-376 du 17 mai 1999 (ECOT9951811D)](decret-n99-376-du-17-mai-1999-ecot9951811d)
 - [Décret n°99-378 du 17 mai 1999 (MENF9900618D)](decret-n99-378-du-17-mai-1999-menf9900618d)

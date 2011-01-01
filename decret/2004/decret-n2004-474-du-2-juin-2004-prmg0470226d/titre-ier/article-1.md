@@ -10,4 +10,4 @@ Ils ont vocation à occuper des fonctions de direction, d'encadrement, de consei
 
 Ils peuvent être chargés de missions d'enseignement, de recherche et de maîtrise d'oeuvre.
 
-Pour exercer leurs fonctions dans les services départementaux de l'architecture et du patrimoine, les architectes et urbanistes de l'Etat doivent détenir un diplôme, titre ou certificat qui ouvre l'accès au titre d'architecte en France. Ils portent alors le titre d'architecte des Bâtiments de France qui leur est conféré par une décision du ministre de la culture. Ce titre ne constitue pas un grade.
+Pour exercer leurs fonctions dans les unités territoriales des directions régionales des affaires culturelles ou, outre-mer, dans les directions des affaires culturelles, les architectes et urbanistes de l'Etat doivent détenir un diplôme, titre ou certificat qui ouvre l'accès au titre d'architecte en France. Ils portent alors le titre d'architecte des Bâtiments de France qui leur est conféré par une décision du ministre de la culture. Ce titre ne constitue pas un grade.

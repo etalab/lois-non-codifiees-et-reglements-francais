@@ -6,4 +6,6 @@ L'organisation de la direction interrégionale de la mer est arrêtée par le pr
 
 Le directeur interrégional de la mer exerce les compétences propres qui lui sont dévolues par le code du travail maritime, le code disciplinaire et pénal de la marine marchande, le code de l'éducation ainsi que par les textes relatifs à la sauvegarde de la vie humaine en mer, à la sécurité des navires, aux effectifs à bord des navires, à la formation maritime et à la délivrance des titres professionnels maritimes. Pour l'exercice de ces compétences, il est placé sous l'autorité directe du ministre chargé de la mer.
 
+Pour l'exercice des compétences mentionnées à l'alinéa précédent, le directeur interrégional de la mer peut déléguer sa signature aux agents publics de catégorie A ou assimilés ou aux officiers placés sous son autorité.
+
 Le directeur interrégional de la mer peut recevoir délégation de signature de ces différentes autorités, selon leurs compétences respectives.

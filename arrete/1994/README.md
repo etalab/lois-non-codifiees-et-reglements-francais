@@ -962,7 +962,6 @@
 - [Arrêté du 28 septembre 1994 (AGRG9401854A)](arrete-du-28-septembre-1994-agrg9401854a)
 - [Arrêté du 28 septembre 1994 (TEFS9401012A)](arrete-du-28-septembre-1994-tefs9401012a)
 - [Arrêté du 29 août 1994 (EQUH9401479A)](arrete-du-29-aout-1994-equh9401479a)
-- [Arrêté du 29 avril 1994 (AGRA9301873A)](arrete-du-29-avril-1994-agra9301873a)
 - [Arrêté du 29 avril 1994 (AGRG9400829A)](arrete-du-29-avril-1994-agrg9400829a)
 - [Arrêté du 29 décembre 1993 (AGRS9400131A)](arrete-du-29-decembre-1993-agrs9400131a)
 - [Arrêté du 29 décembre 1993 (ECOC9300190A)](arrete-du-29-decembre-1993-ecoc9300190a)

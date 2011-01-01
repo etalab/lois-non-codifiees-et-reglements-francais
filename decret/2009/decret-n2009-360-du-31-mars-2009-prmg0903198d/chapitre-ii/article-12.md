@@ -13,3 +13,5 @@ Les adjoints aux directeurs des directions départementales interministérielles
 L'adjoint au directeur départemental des territoires et de la mer, délégué à la mer et au littoral, est nommé par arrêté du Premier ministre, pris après avis du préfet et du préfet maritime. Cet avis est rendu après consultation du directeur départemental des territoires et de la mer concerné.
 
 Lorsqu'une direction départementale des territoires et de la mer exerce ses missions dans plusieurs départements, le préfet du département sous l'autorité duquel elle est placée consulte les autres préfets concernés sur les candidatures au poste de délégué à la mer et au littoral.
+
+Par dérogation au troisième alinéa, les directeurs des directions mentionnées au titre II du décret n° 2010-1582 du 17 décembre 2010 relatif à l'organisation et aux missions des services de l'Etat dans les départements et les régions d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon ainsi que leur adjoint sont nommés par arrêté du Premier ministre, du ministre chargé de l'outre-mer et des ministres concernés, après avis du préfet.
