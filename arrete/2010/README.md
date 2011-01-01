@@ -1085,7 +1085,6 @@
 - [Arrêté du 12 mars 2010 (MCCB1006211A)](arrete-du-12-mars-2010-mccb1006211a)
 - [Arrêté du 12 mars 2010 (SASP1007149A)](arrete-du-12-mars-2010-sasp1007149a)
 - [Arrêté du 12 mars 2010 (SASR1007147A)](arrete-du-12-mars-2010-sasr1007147a)
-- [Arrêté du 12 novembre 2009 (DEVO0927205A)](arrete-du-12-novembre-2009-devo0927205a)
 - [Arrêté du 12 novembre 2009 (ESRR0921350A)](arrete-du-12-novembre-2009-esrr0921350a)
 - [Arrêté du 12 novembre 2010 (AGRG1029052A)](arrete-du-12-novembre-2010-agrg1029052a)
 - [Arrêté du 12 novembre 2010 (AGRM1028610A)](arrete-du-12-novembre-2010-agrm1028610a)

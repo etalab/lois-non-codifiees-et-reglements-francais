@@ -179,7 +179,6 @@
 - [Arrêté du 7 août 2008 (ECEU0818845A)](arrete-du-7-aout-2008-eceu0818845a)
 - [Arrêté du 7 août 2008 (MTST0818228A)](arrete-du-7-aout-2008-mtst0818228a)
 - [Arrêté du 7 août 2008 (SJSP0819712A)](arrete-du-7-aout-2008-sjsp0819712a)
-- [Arrêté du 7 décembre 2007 (DEVO0772826A)](arrete-du-7-decembre-2007-devo0772826a)
 - [Arrêté du 7 février 2008 (AGRM0803424A)](arrete-du-7-fevrier-2008-agrm0803424a)
 - [Arrêté du 7 février 2008 (AGRP0803004A)](arrete-du-7-fevrier-2008-agrp0803004a)
 - [Arrêté du 7 juillet 2008 (BCFD0816875A)](arrete-du-7-juillet-2008-bcfd0816875a)
