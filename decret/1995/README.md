@@ -36,7 +36,6 @@
 - [Décret n°95-236 du 2 mars 1995 (SPSH9500560D)](decret-n95-236-du-2-mars-1995-spsh9500560d)
 - [Décret n°95-238 du 2 mars 1995 (SPSS9500371D)](decret-n95-238-du-2-mars-1995-spss9500371d)
 - [Décret n°95-247 du 2 mars 1995 (SPSS9403983D)](decret-n95-247-du-2-mars-1995-spss9403983d)
-- [Décret n°95-257 du 2 mars 1995 (COMK9509001D)](decret-n95-257-du-2-mars-1995-comk9509001d)
 - [Décret n°95-3 du 2 janvier 1995 (ECOT9510225D)](decret-n95-3-du-2-janvier-1995-ecot9510225d)
 - [Décret n°95-866 du 2 août 1995 (ECOP9500366D)](decret-n95-866-du-2-aout-1995-ecop9500366d)
 - [Décret n°95-867 du 2 août 1995 (ECOP9500367D)](decret-n95-867-du-2-aout-1995-ecop9500367d)

@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS RELATIVES AUX COMMUNES.
-
-- [Article 5](article-5.md)

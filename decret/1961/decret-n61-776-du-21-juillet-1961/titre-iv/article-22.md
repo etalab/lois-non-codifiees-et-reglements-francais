@@ -1,5 +1,0 @@
-# Article 22
-
-Les agents régis par le décret n° 51-847 du 5 juillet 1951 susvisé inscrits dans leur catégorie sur les registres A, B et C du personnel navigant de l'aéronautique civile pourront être admis dans les conditions fixées par arrêté interministériel du ministre des travaux publics et des transports et du ministre des finances et des affaires économiques au bénéfice des dispositions du présent décret sur proposition du secrétaire général à l'aviation civile (service de la formation aéronautique, du travail aérien et des transports), après avis d'une commission paritaire d'intégration dont la composition et le mode de fonctionnement seront fixés par l'arrêté ci-dessus indiqué.
-
-Les agents régis par le décret n° 51-847 du 5 juillet 1951 susvisé pourront être, sur leur demande, maintenus dans le cadre de ce décret statutaire, dont les dispositions continueront à leur être appliquées, sauf en ce qui concerne l'article 9 relatif au changement de catégorie. Ces personnels percevront jusqu'à leur mise à la retraite une rémunération calculée sur les bases de ce décret.

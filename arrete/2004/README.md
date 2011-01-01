@@ -228,7 +228,6 @@
 - [Arrêté du 9 novembre 2004 (DEFP0401242A)](arrete-du-9-novembre-2004-defp0401242a)
 - [Arrêté du 9 novembre 2004 (DEFP0401245A)](arrete-du-9-novembre-2004-defp0401245a)
 - [Arrêté du 9 novembre 2004 (DEFP0401246A)](arrete-du-9-novembre-2004-defp0401246a)
-- [Arrêté du 9 novembre 2004 (DEFP0401247A)](arrete-du-9-novembre-2004-defp0401247a)
 - [Arrêté du 9 novembre 2004 (SANP0423929A)](arrete-du-9-novembre-2004-sanp0423929a)
 - [Arrêté du 9 novembre 2004 (SOCT0412152A)](arrete-du-9-novembre-2004-soct0412152a)
 - [Arrêté du 9 novembre 2004 (SOCT0412153A)](arrete-du-9-novembre-2004-soct0412153a)

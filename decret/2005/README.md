@@ -97,6 +97,7 @@
 - [Décret n°2005-1023 du 24 août 2005 (SANS0522239D)](decret-n2005-1023-du-24-aout-2005-sans0522239d)
 - [Décret n°2005-1070 du 24 août 2005 (EQUA0500692D)](decret-n2005-1070-du-24-aout-2005-equa0500692d)
 - [Décret n°2005-1444 du 24 novembre 2005 (MENX0500060D)](decret-n2005-1444-du-24-novembre-2005-menx0500060d)
+- [Décret n°2005-1452 du 24 novembre 2005 (SANH0522782D)](decret-n2005-1452-du-24-novembre-2005-sanh0522782d)
 - [Décret n°2005-701 du 24 juin 2005 (EQUX0500011D)](decret-n2005-701-du-24-juin-2005-equx0500011d)
 - [Décret n°2005-703 du 24 juin 2005 (MCCX0500075D)](decret-n2005-703-du-24-juin-2005-mccx0500075d)
 - [Décret n°2005-532 du 24 mai 2005 (JUSF0550030D)](decret-n2005-532-du-24-mai-2005-jusf0550030d)

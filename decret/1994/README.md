@@ -497,7 +497,6 @@
 - [Décret n°94-828 du 20 septembre 1994 (JUSC9420293D)](decret-n94-828-du-20-septembre-1994-jusc9420293d)
 - [Décret n°94-927 du 20 octobre 1994 (SPSS9402747D)](decret-n94-927-du-20-octobre-1994-spss9402747d)
 - [Décret n°94-928 du 20 octobre 1994 (INTA9400380D)](decret-n94-928-du-20-octobre-1994-inta9400380d)
-- [Décret n°95-1129 du 20 octobre 1995 (EQUP9500153D)](decret-n95-1129-du-20-octobre-1995-equp9500153d)
 - [Décret n°95-416 du 20 avril 1995 (DEFP9501254D)](decret-n95-416-du-20-avril-1995-defp9501254d)
 - [Décret n°95-417 du 20 avril 1995 (DEFP9501255D)](decret-n95-417-du-20-avril-1995-defp9501255d)
 - [Décret n°89-928 du 21 décembre 1989 (MENT8902454D)](decret-n89-928-du-21-decembre-1989-ment8902454d)
