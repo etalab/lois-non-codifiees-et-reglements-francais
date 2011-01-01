@@ -2302,7 +2302,6 @@
 - [Arrêté du 23 décembre 2009 (BCFB0929922A)](arrete-du-23-decembre-2009-bcfb0929922a)
 - [Arrêté du 23 décembre 2009 (BCFR0931589A)](arrete-du-23-decembre-2009-bcfr0931589a)
 - [Arrêté du 23 décembre 2009 (BCFR0931596A)](arrete-du-23-decembre-2009-bcfr0931596a)
-- [Arrêté du 23 décembre 2009 (BCFR0931599A)](arrete-du-23-decembre-2009-bcfr0931599a)
 - [Arrêté du 23 décembre 2009 (DEFD0931522A)](arrete-du-23-decembre-2009-defd0931522a)
 - [Arrêté du 23 décembre 2009 (DEFH1001376A)](arrete-du-23-decembre-2009-defh1001376a)
 - [Arrêté du 23 décembre 2009 (DEVA0929902A)](arrete-du-23-decembre-2009-deva0929902a)
