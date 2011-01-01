@@ -4,9 +4,9 @@ Le régime institué à l'article précédent est financé par :
 
 a) Une cotisation de :
 
-1, 778 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les cigares et les cigarillos ;
+1,778 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les cigares et les cigarillos ;
 
-1, 930 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les autres produits du tabac.
+1,90 % de la remise visée au 3° du I de l'article 570 du code général des impôts, pour les autres produits du tabac.
 
 Le taux de cotisation des gérants peut être modifié par décret du ministre chargé du budget, après avis ou sur proposition de la commission consultative mentionnée à l'article 5 ;
 
