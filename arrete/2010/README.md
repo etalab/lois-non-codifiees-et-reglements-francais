@@ -463,7 +463,6 @@
 - [Arrêté du 6 juillet 2010 (SASR1017898A)](arrete-du-6-juillet-2010-sasr1017898a)
 - [Arrêté du 6 juin 2010 (DEVA1015529A)](arrete-du-6-juin-2010-deva1015529a)
 - [Arrêté du 6 novembre 2009 (AGRS0913735A)](arrete-du-6-novembre-2009-agrs0913735a)
-- [Arrêté du 6 novembre 2009 (DEFH0926752A)](arrete-du-6-novembre-2009-defh0926752a)
 - [Arrêté du 6 octobre 2010 (DEFH1013262A)](arrete-du-6-octobre-2010-defh1013262a)
 - [Arrêté du 6 octobre 2010 (DEFH1025017A)](arrete-du-6-octobre-2010-defh1025017a)
 - [Arrêté du 6 octobre 2010 (DEVA1024131A)](arrete-du-6-octobre-2010-deva1024131a)
