@@ -356,7 +356,6 @@
 - [Décret n°97-1180 du 17 décembre 1997 (MAEJ9630110D)](decret-n97-1180-du-17-decembre-1997-maej9630110d)
 - [Décret n°97-147 du 17 février 1997 (DEFP9701155D)](decret-n97-147-du-17-fevrier-1997-defp9701155d)
 - [Décret n°97-148 du 17 février 1997 (TASF9710153D)](decret-n97-148-du-17-fevrier-1997-tasf9710153d)
-- [Décret n°97-242 du 17 mars 1997 (MENU9700260D)](decret-n97-242-du-17-mars-1997-menu9700260d)
 - [Décret n°97-247 du 17 mars 1997 (TASS9720674D)](decret-n97-247-du-17-mars-1997-tass9720674d)
 - [Décret n°97-258 du 17 mars 1997 (EQUH9700086D)](decret-n97-258-du-17-mars-1997-equh9700086d)
 - [Décret n°97-36 du 17 janvier 1997 (DEFD9602227D)](decret-n97-36-du-17-janvier-1997-defd9602227d)
