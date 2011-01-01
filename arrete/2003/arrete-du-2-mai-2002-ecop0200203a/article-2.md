@@ -4,7 +4,7 @@ Peuvent bénéficier des taux de référence attribuables au titre des fonctions
 
 - les personnels de catégorie A des services déconcentrés du Trésor public, à l'exclusion des huissiers du Trésor public ;
 
-- les personnels ne détenant pas le grade d'inspecteur principal du Trésor public ou de directeur départemental du Trésor public, auxquels sont confiées les fonctions de fondé de pouvoir ou de principal adjoint dans les trésoreries générales de Mayotte et Saint-Pierre-et-Miquelon ainsi qu'à la paierie du territoire des îles Wallis et Futuna.
+- les personnels ne détenant pas le grade d'inspecteur principal du Trésor public ou d'administrateur des finances publiques adjoint, auxquels sont confiées les fonctions de fondé de pouvoir ou de principal adjoint dans les trésoreries générales de Mayotte et Saint-Pierre-et-Miquelon ainsi qu'à la paierie du territoire des îles Wallis et Futuna.
 
 A ce titre, le taux de référence est fixé comme suit :
 
