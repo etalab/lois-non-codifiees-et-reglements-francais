@@ -8,8 +8,6 @@ a) 1re classe : trois échelons ;
 
 b) 2e classe : six échelons ;
 
-2° Inspecteur principal de 1re classe : trois échelons ;
+2° Inspecteur principal : dix échelons ;
 
-3° Inspecteur principal de 2e classe : sept échelons ;
-
-4° Inspecteur : douze échelons.
+3° Inspecteur : douze échelons.

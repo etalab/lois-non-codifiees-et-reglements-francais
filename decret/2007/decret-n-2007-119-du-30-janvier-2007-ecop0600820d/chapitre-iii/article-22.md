@@ -33,7 +33,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">2e échelon</p>
+<p align="center">2e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -44,7 +44,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">1er échelon</p>
+<p align="center">1er échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -55,7 +55,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Echelon de reclassement</p>
+<p align="center">Echelon de reclassement</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -77,7 +77,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">5e échelon</p>
+<p align="center">5e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -88,7 +88,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<p align="center">4e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -99,7 +99,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">3e échelon</p>
+<p align="center">3e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -110,7 +110,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<p align="center">2e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -121,7 +121,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<p align="center">1er échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -132,7 +132,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">Inspecteur principal de 1re classe</p>
+<p align="center">Inspecteur principal </p>
 </td>
 <td align="left" valign="middle">
 <pre> </pre>
@@ -143,7 +143,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">2e échelon</p>
+<p align="center">9e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -154,7 +154,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">1er échelon</p>
+<p align="center">8e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -165,29 +165,18 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">Inspecteur principal de 2e classe</p>
+<p align="center">7e échelon</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<p align="center">2 ans 6 mois</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 3 mois</p>
+<p align="center">2 ans </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">5e échelon</p>
+<p align="center">6e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -198,7 +187,18 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<p align="center">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">4e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -209,7 +209,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">3e échelon</p>
+<p align="center">3e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -219,19 +219,19 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<td>
+<p align="center">2e échelon</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td>
+<p align="center">2 ans </p>
 </td>
-<td align="left" valign="middle">
+<td>
 <p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<p align="center">1er échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">1 an 6 mois</p>
@@ -253,7 +253,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">11e échelon</p>
+<p align="center">11e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">4 ans</p>
@@ -264,7 +264,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">10e échelon</p>
+<p align="center">10e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -275,7 +275,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">9e échelon</p>
+<p align="center">9e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -286,7 +286,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">8e échelon</p>
+<p align="center">8e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -297,7 +297,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">7e échelon</p>
+<p align="center">7e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans</p>
@@ -308,7 +308,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">6e échelon</p>
+<p align="center">6e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>
@@ -319,7 +319,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">5e échelon</p>
+<p align="center">5e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -330,7 +330,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<p align="center">4e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -341,7 +341,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">3e échelon</p>
+<p align="center">3e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans</p>
@@ -352,7 +352,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<p align="center">2e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">1 an</p>
@@ -363,7 +363,7 @@ La durée moyenne et la durée minimale du temps passé dans chacun des échelon
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<p align="center">1er échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">1 an</p>
