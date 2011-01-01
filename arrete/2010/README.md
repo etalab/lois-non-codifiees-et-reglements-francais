@@ -407,7 +407,6 @@
 - [Arrêté du 6 décembre 2010 (SCSA1029849A)](arrete-du-6-decembre-2010-scsa1029849a)
 - [Arrêté du 6 janvier 2010 (DEFH0930014A)](arrete-du-6-janvier-2010-defh0930014a)
 - [Arrêté du 6 janvier 2010 (DEFM0929249A)](arrete-du-6-janvier-2010-defm0929249a)
-- [Arrêté du 6 janvier 2010 (DEVE1001561A)](arrete-du-6-janvier-2010-deve1001561a)
 - [Arrêté du 6 janvier 2010 (DEVL0919408A)](arrete-du-6-janvier-2010-devl0919408a)
 - [Arrêté du 6 janvier 2010 (DEVL0919422A)](arrete-du-6-janvier-2010-devl0919422a)
 - [Arrêté du 6 janvier 2010 (DEVL0919423A)](arrete-du-6-janvier-2010-devl0919423a)
