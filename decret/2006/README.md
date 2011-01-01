@@ -171,6 +171,7 @@
 - [Décret n°2006-1606 du 14 décembre 2006 (INDI0609038D)](decret-n2006-1606-du-14-decembre-2006-indi0609038d)
 - [Décret n°2006-1608 du 14 décembre 2006 (DEVN0640055D)](decret-n2006-1608-du-14-decembre-2006-devn0640055d)
 - [Décret n°2006-440 du 14 avril 2006 (SOCC0610906D)](decret-n2006-440-du-14-avril-2006-socc0610906d)
+- [Décret n°2006-441 du 14 avril 2006 (JUSK0640068D)](decret-n2006-441-du-14-avril-2006-jusk0640068d)
 - [Décret n°2006-1385 du 15 novembre 2006 (EQUA0601805D)](decret-n2006-1385-du-15-novembre-2006-equa0601805d)
 - [Décret n°2006-1387 du 15 novembre 2006 (ECOP0600617D)](decret-n2006-1387-du-15-novembre-2006-ecop0600617d)
 - [Décret n°2006-1599 du 15 décembre 2006 (PRMX0609782D)](decret-n2006-1599-du-15-decembre-2006-prmx0609782d)
