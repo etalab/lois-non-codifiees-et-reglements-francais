@@ -4,9 +4,7 @@ Raison sociale et adresse du fournisseur : Mois de :
 
 Numéro d'agrément du fournisseur :
 
-Déclaration des quantités de tabacs manufacturés
-
-livrés aux débitants de Corse
+Déclaration des quantités de tabacs manufacturés livrés aux débitants de Corse
 
 I.-Détail des opérations relatives aux livraisons de tabac :
 
@@ -16,11 +14,11 @@ I.-Détail des opérations relatives aux livraisons de tabac :
 
 3. Remise brute due aux débitants au titre des cigares et cigarillos (10, 588 %) : €
 
-4. Remise brute due aux débitants au titre des autres produits du tabac (11, 087 %) : €
+4. Remise brute due aux débitants au titre des autres produits du tabac (11, 253 %) : €
 
 5. Remise nette due aux débitants au titre des cigares et cigarillos (8, 236 %) : €
 
-6. Remise nette due aux débitants au titre des autres produits du tabac (8, 50 %) : €
+6. Remise nette due aux débitants au titre des autres produits du tabac (8, 666 %) : €
 
 7. Précompte dû au titre des cigares et des cigarillos (2, 352 %) : €
 

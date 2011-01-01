@@ -3149,7 +3149,6 @@
 - [Arrêté du 30 décembre 2009 (AGRT0918611A)](arrete-du-30-decembre-2009-agrt0918611a)
 - [Arrêté du 30 décembre 2009 (BCFL0929446A)](arrete-du-30-decembre-2009-bcfl0929446a)
 - [Arrêté du 30 décembre 2009 (BCFL0931244A)](arrete-du-30-decembre-2009-bcfl0931244a)
-- [Arrêté du 30 décembre 2009 (DEVA0928055A)](arrete-du-30-decembre-2009-deva0928055a)
 - [Arrêté du 30 décembre 2009 (DEVA0928633A)](arrete-du-30-decembre-2009-deva0928633a)
 - [Arrêté du 30 décembre 2009 (DEVE0929538A)](arrete-du-30-decembre-2009-deve0929538a)
 - [Arrêté du 30 décembre 2009 (DEVK0927146A)](arrete-du-30-decembre-2009-devk0927146a)
