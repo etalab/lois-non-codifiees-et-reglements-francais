@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du directeur général de l'Institut national de recherche sur les transports et leur sécurité :
+En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du directeur général de l'Institut français des sciences et technologies des transports, de  l'aménagement et des réseaux :
 
 Commission n° 1.-Directeurs de recherche ;
 

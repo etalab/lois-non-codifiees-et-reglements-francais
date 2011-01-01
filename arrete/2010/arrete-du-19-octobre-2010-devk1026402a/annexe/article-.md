@@ -92,7 +92,7 @@ Le directeur de l'Ecole nationale d'application des géosciences (ENAG).
 
 Le directeur de l'école des ponts-ParisTech (ENPC).
 
-Les directeurs des écoles des affaires maritimes - centre de formation et de documentation des affaires maritimes.
+Les directeurs des écoles des affaires maritimes-centre de formation et de documentation des affaires maritimes.
 
 Le directeur de l'Ecole nationale supérieure des sciences géographiques (ENSG).
 
@@ -160,15 +160,15 @@ Le Conservatoire de l'espace littoral et des rivages lacustres (CELRL).
 
 L'Etablissement national des invalides de la marine (ENIM).
 
-Les établissements publics d'aménagement (Bordeaux-Euratlantique, La Défense - Seine - Arche (EPADESA), Euroméditerranée (EPAEM), Guyane (EPAG), Mantois-Seine aval (EPAMSA), ville nouvelle de Marne-la-Vallée (EPAMARNE-EPAFRANCE), Nord-Isère (EPANI), Orly-Rungis-Seine amont (EPORSA), Plaine de France, Plaine du Var, Saint-Etienne (EPASE), ville nouvelle de Sénart).
+Les établissements publics d'aménagement (Bordeaux-Euratlantique, La Défense-Seine-Arche (EPADESA), Euroméditerranée (EPAEM), Guyane (EPAG), Mantois-Seine aval (EPAMSA), ville nouvelle de Marne-la-Vallée (EPAMARNE-EPAFRANCE), Nord-Isère (EPANI), Orly-Rungis-Seine amont (EPORSA), Plaine de France, Plaine du Var, Saint-Etienne (EPASE), ville nouvelle de Sénart).
 
 L'Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (EPARECA).
 
-Les établissements publics fonciers (Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord - Pas-de-Calais, Normandie, Ouest Rhône-Alpes [EPORA], Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val-d'Oise, Vendée, Yvelines).
+Les établissements publics fonciers (Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord-Pas-de-Calais, Normandie, Ouest Rhône-Alpes [EPORA], Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val-d'Oise, Vendée, Yvelines).
 
 L'Etablissement public de sécurité ferroviaire (EPSF).
 
-Les grands ports maritimes (Bordeaux, Dunkerque, Le Havre, Marseille, Nantes - Saint-Nazaire, La Rochelle, Rouen).
+Les grands ports maritimes (Bordeaux, Dunkerque, Le Havre, Marseille, Nantes-Saint-Nazaire, La Rochelle, Rouen).
 
 IFP Energies nouvelles.
 
@@ -182,7 +182,7 @@ L'Institut national de recherche sur les transports et leur sécurité (INRETS).
 
 L'Institut de radioprotection et de sûreté nucléaire (IRSN).
 
-Le Laboratoire central des ponts et chaussées (LCPC).
+L'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux (LCPC).
 
 Météo-France.
 

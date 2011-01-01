@@ -475,6 +475,7 @@
 - [Décret n°2006-1480 du 28 novembre 2006 (SANS0624226D)](decret-n2006-1480-du-28-novembre-2006-sans0624226d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2006-945 du 28 juillet 2006 (SOCC0611650D)](decret-n2006-945-du-28-juillet-2006-socc0611650d)
+- [Décret n°94-943 du 28 octobre 1994 (EQUP9401380D)](decret-n94-943-du-28-octobre-1994-equp9401380d)
 - [Décret n°90-437 du 28 mai 1990 (PRMG9070213D)](decret-n90-437-du-28-mai-1990-prmg9070213d)
 - [Décret n°2002-634 du 29 avril 2002 (PRMG0270289D)](decret-n2002-634-du-29-avril-2002-prmg0270289d)
 - [Décret n°2006-1087 du 29 août 2006 (INTB0600194D)](decret-n2006-1087-du-29-aout-2006-intb0600194d)

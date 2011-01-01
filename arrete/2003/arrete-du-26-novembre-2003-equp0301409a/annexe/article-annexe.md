@@ -10,7 +10,7 @@ Les directeurs de cabinet.
 
 Les directeurs et chefs de service de l'administration centrale.
 
-Le directeur du laboratoire central des ponts et chaussées.
+Le directeur de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
 
 Le directeur de l'ENIM.
 
@@ -28,7 +28,7 @@ Le directeur du centre d'études des tunnels.
 
 Le directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques.
 
-Les     directeurs régionaux de l'environnement, de l'aménagement et du logement .
+Les directeurs régionaux de l'environnement, de l'aménagement et du logement.
 
 Les directeurs départementaux de l'équipement.
 

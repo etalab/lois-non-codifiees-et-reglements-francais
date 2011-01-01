@@ -28,7 +28,7 @@ Ecole nationale des ponts et chaussées ;
 
 Centre d'évaluation, de documentation et d'innovation pédagogiques ;
 
-Laboratoire central des ponts et chaussées ;
+Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 Agence nationale de l'habitat.
 

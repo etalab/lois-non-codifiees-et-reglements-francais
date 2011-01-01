@@ -821,7 +821,6 @@
 - [Décret n°98-985 du 29 octobre 1998 (MESN9822813D)](decret-n98-985-du-29-octobre-1998-mesn9822813d)
 - [Décret n°99-248 du 29 mars 1999 (EQUA9801610D)](decret-n99-248-du-29-mars-1999-equa9801610d)
 - [Décret n°98-422 du 29 mai 1998 (ECOT9851686D)](decret-n98-422-du-29-mai-1998-ecot9851686d)
-- [Décret n°98-423 du 29 mai 1998 (EQUI9800577D)](decret-n98-423-du-29-mai-1998-equi9800577d)
 - [Décret n°98-436 du 29 mai 1998 (MENF9800932D)](decret-n98-436-du-29-mai-1998-menf9800932d)
 - [Décret n°98-437 du 29 mai 1998 (MENF9800933D)](decret-n98-437-du-29-mai-1998-menf9800933d)
 - [Décret n°98-439 du 29 mai 1998 (ECOI9700037D)](decret-n98-439-du-29-mai-1998-ecoi9700037d)

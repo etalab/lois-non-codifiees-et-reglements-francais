@@ -10,7 +10,7 @@ Les directeurs généraux, directeurs et chefs de service de l'administration ce
 
 Les responsables des services d'administration centrale visés à l'arrêté du 16 avril 2002 modifié ;
 
-La directrice du laboratoire central des ponts et chaussées ;
+La directrice de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 Le directeur de l'ENIM ;
 
@@ -26,7 +26,7 @@ Le directeur du Centre d'études des tunnels ;
 
 Le directeur du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
 
-Les     directeurs régionaux de l'environnement, de l'aménagement et du logement  ;
+Les directeurs régionaux de l'environnement, de l'aménagement et du logement ;
 
 Les directeurs interdépartementaux des routes ;
 

@@ -1,14 +1,12 @@
 # Article 
 
-**STATUTS DE  UNIVERSITÉ LILLE NORD DE FRANCE**
+STATUTS DE UNIVERSITÉ LILLE NORD DE FRANCE
 
-Chapitre Ier
-
-Dispositions générales
+Chapitre Ier Dispositions générales
 
 Article 1er
 
-Université Lille Nord de France  est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+Université Lille Nord de France est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 Cet établissement est chargé de mener les projets prévus dans le cadre du pôle de recherche et d'enseignement supérieur et de gérer la mise en commun des moyens que les établissements et organismes fondateurs et associés y consacrent.
 
@@ -50,7 +48,7 @@ Centre hospitalier régional universitaire de Lille ;
 
 Institut français de recherche pour l'exploitation de la mer (IFREMER) ;
 
-Institut national de recherche sur les transports et la sécurité (INRETS).
+Institut français des sciences et technologies des transports, de l'aménagement et des réseaux (IFSTTAR).
 
 Article 3
 
@@ -62,7 +60,7 @@ L'établissement a pour missions :
 
 ― le développement de dispositifs de mutualisation dans le domaine de la recherche : ingénierie commune de projets, acquisition d'équipements lourds partagés ;
 
-― la signature commune sous l'appellation  Université Lille Nord de France  de la production scientifique ;
+― la signature commune sous l'appellation Université Lille Nord de France de la production scientifique ;
 
 ― l'optimisation des dispositifs d'ingénierie et de valorisation de la recherche ;
 
@@ -130,7 +128,7 @@ Le conseil d'administration comprend :
 
 3° Sept représentants des membres associés au sens de l'article L. 344-7 du code de la recherche à raison de :
 
-― un représentant du conseil régional du Nord - Pas-de-Calais désigné conformément aux dispositions prévues par son règlement ;
+― un représentant du conseil régional du Nord-Pas-de-Calais désigné conformément aux dispositions prévues par son règlement ;
 
 ― six représentants des autres membres associés désignés d'un commun accord par les membres associés ;
 
@@ -208,13 +206,13 @@ Le conseil ne peut valablement délibérer que si la majorité des membres en ex
 
 Les décisions du conseil d'administration sont prises à la majorité des membres présents ou représentés.
 
-Les décisions du conseil d'administration sont exécutoires sans délai.
+Les décisions du conseil d'administration sont exécutoires sans délai à l'exception des délibérations portant sur le budget et le compte financier qui sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les membres du conseil d'administration peuvent donner procuration à un autre membre du conseil. Chaque membre du conseil ne peut être porteur de plus de deux procurations.
 
 Toutefois, sont prises à l'unanimité des membres fondateurs les décisions concernant :
 
-a) L'évolution des missions et des compétences dévolues à  Université Lille Nord de France  ;
+a) L'évolution des missions et des compétences dévolues à Université Lille Nord de France ;
 
 b) L'adhésion de nouveaux membres et la fixation des conditions de ces adhésions ;
 
@@ -224,13 +222,13 @@ Le directeur, l'agent comptable ainsi que toute personne dont le président ou l
 
 Article 11
 
-Les membres fondateurs constituent le bureau de  Université Lille Nord de France .
+Les membres fondateurs constituent le bureau de Université Lille Nord de France.
 
 Ses attributions et ses modalités de fonctionnement sont définies par le règlement intérieur de l'établissement.
 
 Article 12
 
-La commission scientifique et pédagogique émet des avis et propositions sur les orientations de  Université Lille Nord de France  en matière de formation, de recherche, de valorisation et des études doctorales et sur leur mise en œuvre.
+La commission scientifique et pédagogique émet des avis et propositions sur les orientations de Université Lille Nord de France en matière de formation, de recherche, de valorisation et des études doctorales et sur leur mise en œuvre.
 
 La composition et les modalités de fonctionnement de la commission scientifique et pédagogique sont définies par le conseil d'administration.
 
@@ -244,11 +242,9 @@ Dispositions financières
 
 Article 14
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique à l'exception des articles 224 à 226. Le contrôle budgétaire est exercé dans le respect des dispositions de l'article L. 719-9 du code de l'éducation.
 
-Article 15
-
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
+Article 15 (Abrogé).
 
 Article 16
 

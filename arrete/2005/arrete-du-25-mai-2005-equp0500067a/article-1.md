@@ -64,7 +64,7 @@ La liste des emplois de direction d'établissements publics nationaux mentionné
 
 -le directeur général de l'Institut national de recherche sur les transports et leur sécurité ;
 
--le directeur général du Laboratoire central des ponts et chaussées ;
+-le directeur général de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 -le président-directeur général de Météo-France ;
 

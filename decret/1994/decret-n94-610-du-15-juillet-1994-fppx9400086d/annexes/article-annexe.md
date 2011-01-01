@@ -48,7 +48,7 @@ Directeur délégué
 
 (a) La carrière dans cet emploi se poursuit hors échelle.
 
-VI. Laboratoire central des ponts et chaussées
+VI.     Institut français des sciences et technologies des transports, de l'aménagement et des réseaux
 
 et centres d'études techniques de l'équipement
 
@@ -90,9 +90,9 @@ A compter du 1er janvier 1994.
 
 (a) La carrière se poursuit hors échelle.
 
-TRANSPORTS
+TRANSPORTSII
 
-II. Marine marchande
+. Marine marchande
 
 B. Services déconcentrés
 

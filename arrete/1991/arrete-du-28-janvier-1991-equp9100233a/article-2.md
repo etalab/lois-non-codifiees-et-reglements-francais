@@ -8,7 +8,7 @@ Le directeur de l'Ecole nationale des travaux publics de l'Etat ;
 
 Le chef de la mission du réseau des organismes techniques de la direction du personnel ;
 
-Le directeur du Laboratoire central des ponts et chaussées ;
+Le directeur de l'     Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 Le directeur de l'Institut national de recherche sur les transports et la sécurité ;
 
@@ -28,6 +28,6 @@ Ces deux membres peuvent être remplacés par des suppléants élus dans les mê
 
 3. Des personnalités extérieures nommées par le ministre en raison de leurs compétences dans le domaine de recherche de l'école, au nombre au plus égal à seize.
 
-Leur mandat est de trois ans et peut être renouvelé. L'une de ces personnalités est désignée par le ministre pour présider le conseil scientifique.
+Leur mandat est de trois ans et peut être renouvelé.L'une de ces personnalités est désignée par le ministre pour présider le conseil scientifique.
 
 Les membres du conseil scientifique démissionnaires ou décédés sont remplacés pour la période restant à couvrir à leur mandat.

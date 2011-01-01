@@ -14,7 +14,7 @@ En relèvent, outre les personnels qui y sont affectés :
 
 B.-Les directions de l'équipement de Mayotte et de Saint-Pierre-et-Miquelon.
 
-C.-Chaque     direction régionale de l'environnement, de l'aménagement et du logement  pour les agents qui y sont affectés, ainsi que pour les agents gérés par le MEEDDAT et affectés dans les directions régionales du tourisme.
+C.-Chaque direction régionale de l'environnement, de l'aménagement et du logement pour les agents qui y sont affectés, ainsi que pour les agents gérés par le MEEDDAT et affectés dans les directions régionales du tourisme.
 
 D.-Chaque direction interdépartementale des routes.
 
@@ -28,7 +28,7 @@ H.-Les directions régionales des affaires maritimes (DRAM) article 4 (Le Havre,
 
 I.-Les directions régionales maritimes de Fort-de-France et de Saint-Denis-de-la-Réunion.
 
-J.-Les centres d'études techniques de l'équipement : Est, Lyon (y compris les personnels en fonctions à la direction générale des routes [DGR-S / D] du contrôle technique des concessions), Méditerranée, Nord-Picardie, Normandie-Centre, Ouest, Sud-Ouest.
+J.-Les centres d'études techniques de l'équipement : Est, Lyon (y compris les personnels en fonctions à la direction générale des routes [DGR-S/ D] du contrôle technique des concessions), Méditerranée, Nord-Picardie, Normandie-Centre, Ouest, Sud-Ouest.
 
 K.-Chaque centre interrégional de formation professionnelle.
 
@@ -58,7 +58,7 @@ V.-Chacun des services de l'aviation civile suivants :
 
 En relèvent, outre les personnels qui y sont affectés, les agents en fonctions dans les services ci-après :
 
-― inspection générale de l'aviation civile (IGAC / CGPC) ;
+― inspection générale de l'aviation civile (IGAC/ CGPC) ;
 
 ― service de gestion des taxes aéroportuaires (SGTA) ;
 
@@ -162,7 +162,7 @@ W.-Chacun des établissements publics suivants :
 
 14° L'Institut national de recherche sur les transports et leur sécurité ;
 
-15° Le Laboratoire central des ponts et chaussées ;
+15° L'     Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 16° Météo-France ;
 

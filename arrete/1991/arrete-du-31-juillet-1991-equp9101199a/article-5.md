@@ -6,8 +6,8 @@ Dans les autres cas, cette section restreinte procédera à la préparation des 
 
 La section restreinte comprend quatre membres titulaires. Outre le président, elle comprend :
 
-- le directeur du personnel ;
+-le directeur du personnel ;
 
-- le directeur des routes ;
+-le directeur des routes ;
 
-- le sous-directeur du développement et de la valorisation industrielle du laboratoire central des ponts et chaussées.
+-le sous-directeur du développement et de la valorisation industrielle de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
