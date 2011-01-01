@@ -1354,7 +1354,6 @@
 - [Décret n°2010-340 du 31 mars 2010 (SASR1008461D)](decret-n2010-340-du-31-mars-2010-sasr1008461d)
 - [Décret n°2010-341 du 31 mars 2010 (SASR1008446D)](decret-n2010-341-du-31-mars-2010-sasr1008446d)
 - [Décret n°2010-342 du 31 mars 2010 (SASR1008459D)](decret-n2010-342-du-31-mars-2010-sasr1008459d)
-- [Décret n°2010-343 du 31 mars 2010 (SASX1008977D)](decret-n2010-343-du-31-mars-2010-sasx1008977d)
 - [Décret n°2010-344 du 31 mars 2010 (SASX1008846D)](decret-n2010-344-du-31-mars-2010-sasx1008846d)
 - [Décret n°2010-345 du 31 mars 2010 (SASX1008971D)](decret-n2010-345-du-31-mars-2010-sasx1008971d)
 - [Décret n°2010-346 du 31 mars 2010 (SASX1008880D)](decret-n2010-346-du-31-mars-2010-sasx1008880d)
