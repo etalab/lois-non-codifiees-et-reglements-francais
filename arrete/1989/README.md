@@ -371,7 +371,6 @@
 - [Arrêté du 22 septembre 1989 (BUDL8900150A)](arrete-du-22-septembre-1989-budl8900150a)
 - [Arrêté du 22 septembre 1989 (BUDL8900151A)](arrete-du-22-septembre-1989-budl8900151a)
 - [Arrêté du 22 septembre 1989 (EQUP8901066A)](arrete-du-22-septembre-1989-equp8901066a)
-- [Arrêté du 22 septembre 1989 (MENP8902050A)](arrete-du-22-septembre-1989-menp8902050a)
 - [Arrêté du 22 mai 1989 (EQUS8900498A)](arrete-du-22-mai-1989-equs8900498a)
 - [Arrêté du 23 août 1989 (EQUP8900903A)](arrete-du-23-aout-1989-equp8900903a)
 - [Arrêté du 23 août 1989 (PRME8961649A)](arrete-du-23-aout-1989-prme8961649a)
