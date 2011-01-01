@@ -40,7 +40,6 @@
 - [Décret n°99-572 du 2 juillet 1999 (ECOI9900270D)](decret-n99-572-du-2-juillet-1999-ecoi9900270d)
 - [Décret n°99-66 du 2 février 1999 (ECOI9801125D)](decret-n99-66-du-2-fevrier-1999-ecoi9801125d)
 - [Décret n°99-669 du 2 août 1999 (JUSE9940003D)](decret-n99-669-du-2-aout-1999-juse9940003d)
-- [Décret n°99-670 du 2 août 1999 (JUSE9940009D)](decret-n99-670-du-2-aout-1999-juse9940009d)
 - [Décret n°99-671 du 2 août 1999 (JUSE9940053D)](decret-n99-671-du-2-aout-1999-juse9940053d)
 - [Décret n°99-672 du 2 août 1999 (JUSE9940054D)](decret-n99-672-du-2-aout-1999-juse9940054d)
 - [Décret n°99-673 du 2 août 1999 (JUSE9940056D)](decret-n99-673-du-2-aout-1999-juse9940056d)
