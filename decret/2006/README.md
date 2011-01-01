@@ -412,7 +412,6 @@
 - [Décret n°2006-212 du 23 février 2006 (PRMX0500312D)](decret-n2006-212-du-23-fevrier-2006-prmx0500312d)
 - [Décret n°2006-583 du 23 mai 2006 (MENJ0601284D)](decret-n2006-583-du-23-mai-2006-menj0601284d)
 - [Décret n°2006-593 du 23 mai 2006 (MENX0600058D)](decret-n2006-593-du-23-mai-2006-menx0600058d)
-- [Décret n°2006-600 du 23 mai 2006 (ECOX0600082D)](decret-n2006-600-du-23-mai-2006-ecox0600082d)
 - [Décret n°2006-603 du 23 mai 2006 (INDI0607463D)](decret-n2006-603-du-23-mai-2006-indi0607463d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
 - [Décret n°2006-1299 du 24 octobre 2006 (JUSC0620751D)](decret-n2006-1299-du-24-octobre-2006-jusc0620751d)
