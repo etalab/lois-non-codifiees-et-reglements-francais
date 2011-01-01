@@ -1,6 +1,6 @@
 # Article 1
 
-Pour détermination de l'âge d'accès du demandeur au droit à l'allocation de cessation anticipée d'activité, l'âge fixé à l'article R. 351-2 du code de la sécurité sociale est diminué du tiers de la durée de travail ainsi déterminée :
+La durée de travail mentionnée aux troisième et septième alinéas de l'article 41 de la loi susvisée est ainsi déterminée :
 
 a) Durée du travail effectuée dans les établissements dont la liste est déterminée par l'arrêt prévu au 1° du premier alinéa du I de l'article 41 de la loi du 23 décembre 1998 susvisée pour les périodes fixées par cet arrêté ;
 
