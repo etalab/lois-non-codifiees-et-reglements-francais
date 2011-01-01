@@ -16,4 +16,6 @@ f) Le remboursement de frais à des fonctionnaires et agents ;
 
 g) Les sommes dues à quelque titre que ce soit à des fonctionnaires ou agents quittant le territoire métropolitain pour raison de service ;
 
-h) Les marchés soumis au code des marchés publics et réglés dans les conditions prévues aux articles 9 et 14 ci-après.
+h) Les marchés soumis au code des marchés publics et réglés dans les conditions prévues aux articles 9 et 14 ci-après ;
+
+i) Les dépenses de formations militaires en opération ou en exercice.

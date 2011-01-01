@@ -2,9 +2,9 @@
 
 Par dérogation à la règle posée à l'article 5 ci-dessus, sont dispensés du règlement obligatoire par chèque sur le Trésor :
 
-a) Les dépenses visées aux a et b de l'article 4 ci-dessus ;
+a) Les dépenses visées aux a, b et i de l'article 4 ci-dessus ;
 
-b) Les soldes militaires et indemnités réglées par des corps de troupes et organismes assimilés ;
+b) Les dépenses réglées par l'intermédiaire des trésoriers militaires  ;
 
 c) Les dépenses réglées par l'intermédiaire des régisseurs ;
 
