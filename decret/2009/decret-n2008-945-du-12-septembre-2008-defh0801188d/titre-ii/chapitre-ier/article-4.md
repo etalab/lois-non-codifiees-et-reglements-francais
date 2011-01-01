@@ -22,7 +22,7 @@ a) Parmi les officiers sous contrat du grade de lieutenant ou officier de 2e cla
 
 b) Avec leur grade, parmi les officiers sous contrat des grades de capitaine ou officier de 1re classe ou de commandant ou officier principal qui comptent :
 
-i) Au moins sept ans de service militaire effectif comme officier, pour les officiers sous contrat rattachés au corps technique et administratif du service de santé des armées ;
+i) Au moins sept ans de service militaire effectif comme officier, pour les officiers sous contrat rattachés aux corps techniques et administratifs de la gendarmerie nationale et du service de santé des armées ;
 
 ii) Au moins neuf ans de service militaire effectif comme officier, pour les autres officiers sous contrat rattachés à l'un des autres corps techniques et administratifs.
 
