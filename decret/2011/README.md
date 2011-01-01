@@ -10,6 +10,7 @@
 - [Décret n°2009-1524 du 9 décembre 2009 (JUSC0910058D)](decret-n2009-1524-du-9-decembre-2009-jusc0910058d)
 - [Décret n°2010-1401 du 12 novembre 2010 (MTSO1021540D)](decret-n2010-1401-du-12-novembre-2010-mtso1021540d)
 - [Décret n°86-398 du 12 mars 1986](decret-n86-398-du-12-mars-1986)
+- [Décret n°92-162 du 20 février 1992 (DOMP9200005D)](decret-n92-162-du-20-fevrier-1992-domp9200005d)
 - [Décret n°60-514 du 27 mai 1960](decret-n60-514-du-27-mai-1960)
 - [Décret n°2003-1156 du 28 novembre 2003 (EQUA0301249D)](decret-n2003-1156-du-28-novembre-2003-equa0301249d)
 - [Décret n°93-1413 du 30 décembre 1993 (LOGC9300111D)](decret-n93-1413-du-30-decembre-1993-logc9300111d)
