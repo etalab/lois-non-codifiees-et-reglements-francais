@@ -26,8 +26,4 @@ IV. - Le Gouvernement déposera devant le Parlement, avant le 2 avril 1996, un r
 
 - un bilan des effets des différents mécanismes de péréquation mis en oeuvre par les fonds national et départementaux de la taxe professionnelle, le fonds de correction des déséquilibres régionaux, le fonds de solidarité des communes de la région d'Ile-de-France, ainsi que par les différentes parts de la dotation globale de fonctionnement et de la dotation globale d'équipement. Ce bilan sera assorti de propositions de simplification et d'unification tant des objectifs assignés aux différentes formes de péréquation que de leurs modalités d'application.
 
-Les résultats de la révision générale des évaluations cadastrales seront incorporés dans les rôles d'imposition au plus tard le 1er janvier 1997, dans les conditions fixées par la loi prévue par le deuxième alinéa du I de l'article 47 de la loi n° 90-669 du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux.
-
 V. - Le Gouvernement recueillera, pour l'élaboration des propositions prévues au IV, l'avis d'une commission d'élus composée de représentants du Parlement ainsi que de représentants des maires, des présidents de conseils généraux et des présidents de conseils régionaux désignés dans des conditions définies par décret.
-
-VI. - [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 94-358 DC du 26 janvier 1995.]
