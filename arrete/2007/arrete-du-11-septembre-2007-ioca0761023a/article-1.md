@@ -10,4 +10,6 @@ La sous-direction des personnels comprend :
 
 - le bureau des affaires générales, des études et des statuts ;
 
+- le bureau de la gestion prévisionnelle des ressources humaines ;
+
 - la mission des projets professionnels.
