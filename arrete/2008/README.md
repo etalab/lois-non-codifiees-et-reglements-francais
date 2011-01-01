@@ -396,7 +396,6 @@
 - [Arrêté du 12 août 2008 (IOCA0818667A)](arrete-du-12-aout-2008-ioca0818667a)
 - [Arrêté du 12 avril 2002 (INTB0200126A)](arrete-du-12-avril-2002-intb0200126a)
 - [Arrêté du 12 décembre 2008 (AGRP0829411A)](arrete-du-12-decembre-2008-agrp0829411a)
-- [Arrêté du 12 décembre 2008 (DEFH0817638A)](arrete-du-12-decembre-2008-defh0817638a)
 - [Arrêté du 12 décembre 2008 (DEFH0817792A)](arrete-du-12-decembre-2008-defh0817792a)
 - [Arrêté du 12 décembre 2008 (DEVA0828964A)](arrete-du-12-decembre-2008-deva0828964a)
 - [Arrêté du 12 décembre 2008 (ESRS0828592A)](arrete-du-12-decembre-2008-esrs0828592a)
