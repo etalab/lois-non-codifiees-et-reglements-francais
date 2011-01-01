@@ -12,7 +12,7 @@ Registre des hydrocarbures, parties I et III - Opérations concernant la tranche
 
 2 rejet des eaux de ballast polluées ou des eaux de nettoyage des soutes à combustible liquide ;
 
-3 collecte et élimination des résidus d'hydrocarbures (boues et autres résidus d'hydrocarbures) ;
+3 Collecte et élimination des résidus d'hydrocarbures (résidus d'hydrocarbures [boues]) ;
 
 4 rejet par-dessus bord ou élimination par d'autres moyens des eaux de cale qui se sont accumulées dans la tranche des machines ; et
 

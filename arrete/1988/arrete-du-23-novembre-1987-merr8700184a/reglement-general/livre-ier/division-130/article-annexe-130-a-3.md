@@ -241,6 +241,11 @@ NOTA : Le visa de plusieurs documents du tableau n'est pas formellement requis p
 <br/>CSN </td>
 </tr>
 <tr>
+<td align="center">Plan d'opérations STS (MARPOL annexe VI règle 41)</td>
+<td align="center">CCS</td>
+<td align="center">CSN</td>
+</tr>
+<tr>
 <td colspan="3">
 <br/>(1) Visa non requis par la réglementation internationale.<br/>(2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service.</td>
 </tr>

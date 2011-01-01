@@ -40,6 +40,10 @@ Dans les prescriptions qui suivent, on entend par :
 
 (3) Flexible : ensemble constitué par un tuyau équipé de deux raccords d'extrémité, le tuyau doit présenter une souplesse suffisante pour que ces raccords puissent être couplés à des pièces de raccordement, non nécessairement alignées, sans subir pour autant des contraintes anormales ;
 
+(3.1) Type : famille de flexibles ayant la même conception, les mêmes matériaux (en particulier les matières en contact direct avec le fluide véhiculé), un usage spécifique identique, le même mode d'assemblage des raccords quelle que soit la nature des matériaux des composants du raccord, la même pression maximale de service et des températures de service (minimale et maximale) identiques ;
+
+(3.2) Variantes du type : diamètre, épaisseur et longueur du tuyau ;
+
 (4) Constructeur : personne physique ou morale qui a la responsabilité de la conception et de la réalisation du flexible ;
 
 (5) Fabricant : personne physique ou morale qui a confectionné le tuyau ;
@@ -60,7 +64,7 @@ Dans les prescriptions qui suivent, on entend par :
 
 (3) La pression d'éclatement doit être garantie par le constructeur du flexible comme au moins égale à 3 fois la pression maximale de service.
 
-(4) Les flexibles doivent avoir par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 10<sup>6 Ω</sup>.
+(4) A l'exception des flexibles équipés de raccords en polypropylène utilisés pour le transfert des matières des classes 6.1 et 8 d'un point d'éclair supérieur à 60° C, les flexibles ont par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 10<sup>6 Ω</sup>.
 
 (5) La pression maximale de service du flexible est identique à celle du tuyau.
 
@@ -86,7 +90,7 @@ Les flexibles doivent être conformes à la norme NF EN 12434 de février 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc doivent être conformes aux normes NF EN 1360 de novembre 2005, NF EN 1361 de novembre 2004 ou NF EN 1761 de juillet 1999.
+Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1360 de novembre 2005, ou à la norme NF EN 1361 de novembre 2004, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005.
 
 2.6. Flexibles pour les autres matières liquides ou gazeuses.
 
@@ -96,9 +100,9 @@ La pression maximale de service des flexibles doit être d'au moins 1 MPa (10 ba
 
 3.1. Procédure d'agrément.
 
-(1) Le constructeur définit un type de flexibles en fonction notamment des matériaux, du mode d'assemblage tuyau-raccords, de la pression maximale de service et des températures minimales et maximales de service.
+(1) (supprimé)
 
-(2) Le type de flexibles est homologué par les DREAL ou DRIRE sur la base de la documentation technique en ce qui concerne la conformité avec les dispositions du présent appendice et après qu'au moins trois flexibles ont été soumis en présence d'un expert agréé à :
+(2) Le type de flexibles défini par le constructeur est homologué par les directions régionales chargées des contrôles de sécurité des véhicules sur la base de la documentation technique en ce qui concerne la conformité avec les dispositions du présent appendice et après qu'au moins trois flexibles ont été soumis en présence d'un organisme agréé à :
 
 - une épreuve hydraulique effectuée à une pression au moins égale à 1,5 fois la pression maximale de service, sans être inférieure à 600 kPa (6 bar) ;
 
@@ -106,9 +110,9 @@ La pression maximale de service des flexibles doit être d'au moins 1 MPa (10 ba
 
 - un essai de tenue à la pression d'éclatement au cours duquel il sera vérifié que le flexible supporte une pression au moins égale à 3 fois la pression maximale de service.
 
-(3) Tout flexible visé par une homologation de type selon la procédure définie au paragraphe (2) du 3.1 du présent appendice est construit et éprouvé suivant un plan d'assurance de la qualité qui est reconnu et supervisé par les DREAL ou DRIRE pour la production, l'examen final et la mise à l'épreuve. Ce système d'assurance de la qualité sur la base de la norme ISO 9001 est certifié par un organisme certificateur reconnu.
+(3) Tout flexible visé par une homologation de type selon la procédure définie au 2 du 3.1 du présent appendice est construit et éprouvé suivant un plan d'assurance de la qualité pour la production, l'examen final et la mise à l'épreuve. Ce système d'assurance de la qualité, basé sur la norme ISO 9001, est certifié par un organisme certificateur reconnu.
 
-(4) Lorsqu'ils ne sont pas construits suivant un programme d'assurance de la qualité, les flexibles doivent être individuellement examinés, éprouvés et agréés par un expert agréé sur la base de la documentation technique et du certificat délivré par le constructeur et attestant la conformité du flexible avec les dispositions applicables suivant le présent appendice.
+(4) Lorsqu'ils ne sont pas construits suivant un programme d'assurance de la qualité, les flexibles doivent être individuellement examinés, éprouvés et agréés par un organisme agréé sur la base de la documentation technique et du certificat délivré par le constructeur et attestant la conformité du flexible avec les dispositions applicables suivant le présent appendice.
 
 3.2. Etat descriptif.
 
@@ -134,9 +138,9 @@ Avant leur mise en service, les flexibles doivent être soumis à une épreuve d
 
 (1) Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui est présentée, lorsque le flexible est monté sur un véhicule, lors de la visite technique selon le 9.1.2.1.1 de l'ADR. Ce contrôle visuel est effectué, sous la responsabilité du propriétaire, par une personne compétente choisie en dehors des personnes qui utilisent les flexibles ou participent à leur entretien. Lorsqu'au cours de l'un de ces contrôles le flexible présente des traces manifestes de détériorations (fissures, crevasses ou usures anormales), il est réformé immédiatement.
 
-(2) Les flexibles pour l'ammoniac sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale, sous le contrôle d'un expert agréé.
+(2) Les flexibles pour l'ammoniac sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale, sous le contrôle d'un organisme agréé.
 
-(3) Les flexibles pour les hydrocarbures de la classe 2 sont soumis à une épreuve d'étanchéité sous le contrôle d'un expert agréé au plus tard trois ans après la date de l'épreuve initiale.
+(3) Les flexibles pour les hydrocarbures de la classe 2 sont soumis à une épreuve d'étanchéité sous le contrôle d'un organisme agréé au plus tard trois ans après la date de l'épreuve initiale.
 
 4.3. Réparations et transformations.
 
@@ -180,7 +184,7 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 - date (mois, année) de l'épreuve initiale et le cas échéant de celle effectuée à la suite d'une réparation ou d'une transformation, précédée de la lettre R ;
 
-- poinçon du constructeur ou de l'expert agréé.
+- poinçon du constructeur ou de l'organisme agréé.
 
 6. Service
 
@@ -194,9 +198,7 @@ Pour les tuyaux métalliques ou composites recouverts d'une tresse ou d'une hél
 
 APPENDICE IV.2 : LISTE DE CONTRÔLE (Voir 5.3 de l'annexe I du présent arrêté)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 147 du 27/06/2009 texte numéro 11
+Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 11
 
 (1) Ne remplir que s'il y a un agent avec une infraction. (2) A mentionner sous remarques pour les opérations de groupage de transports. (3) Contrôle des infractions apparentes.
 
@@ -348,9 +350,25 @@ Contrôle des transports de marchandises dangereuses par route
 
 (2) Lorsqu'il y a plusieurs infractions par unité de transport, seule la catégorie des risques les plus graves doit être appliquée.
 
-APPENDICE IV.4 : PRESCRIPTIONS RELATIVES À LA CONSTRUCTION ET À L'UTILISATION DES MATÉRIELS DE TRANSPORT DE L'AMMONIAC EMPLOYÉS UNIQUEMENT EN AGRICULTURE
+APPENDICE IV.4 : PRESCRIPTIONS RELATIVES À LA CONSTRUCTION, ET À L'UTILISATION JUSQU'AU 30 JUIN 2012, DES MATÉRIELS DE TRANSPORT DE L'AMMONIAC EMPLOYÉS UNIQUEMENT EN AGRICULTURE
 
 (Voir 3.3 de l'annexe I du présent arrêté)
+
+Préambule
+
+a) Les transports visés au a du 3.3.1 de l'annexe I du présent arrêté peuvent être effectués par des véhicules routiers, au sens de l'article 2 du présent arrêté, si ce sont des véhicules AT tels que définis au 9.1.1.2. Les conditions auxquelles ces transports sont tenus de répondre sont précisées dans le présent appendice.
+
+b) Dispositions transitoires relatives aux réservoirs et citernes destinés au transport de l'ammoniac utilisé uniquement en agriculture :
+
+- les réservoirs pour le transport d'ammoniac, employés uniquement en agriculture, construits avant le 7 novembre 1982 et non conformes à la section 2 de l'appendice C. 8 de l'arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route, ne sont admis au transport que si leur épreuve initiale date de moins de trente ans ;
+
+- les citernes construites avant le 1er janvier 2003 conformément à l'appendice C. 8 de l'arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route peuvent continuer à être utilisées ;
+
+- les réservoirs et citernes susvisés sont soumis aux contrôles et épreuves périodiques selon les 6.8.2.4.2 à 6.8.2.4.4 de l'ADR ;
+
+- les citernes construites avant le 1er janvier 2009 et qui ne répondent pas au 2.2.1 du présent appendice peuvent continuer à être utilisées jusqu'à la date du prochain contrôle prévu au 6.8.2.4.2 de l'ADR.
+
+c) A compter du 1er janvier 2011, aucun nouvel agrément de citerne spécifiquement conçue pour le transport d'ammoniac utilisé uniquement en agriculture ne peut être délivré.
 
 1. Généralités, domaine d'application
 
@@ -474,11 +492,11 @@ Le taux de remplissage doit être au plus de 85 % à la température de rempliss
 
 3.8. Consigne écrite.
 
-La consigne écrite relative à l'ammoniac, contenant les dispositions suivantes, doit être placée dans un endroit bien visible à bord de chaque véhicule concerné.
+La consigne écrite relative à l'ammoniac, contenant les dispositions reproduites ci-dessous à la suite du 3.9., doit être placée dans un endroit bien visible à bord de chaque véhicule concerné.
 
 Vous pouvez consulter le tableau dans le JO n° 147 du 27/06/2009 texte numéro 11
 
-3.9. Les fournisseurs d'ammoniac transmettent au préfet de région - DRIRE ou DREAL - la liste des exploitations agricoles destinataires des livraisons d'ammoniac.
+3.9. Les fournisseurs d'ammoniac transmettent au préfet de région - DREAL ou DRIEE selon qu'il convient - la liste des exploitations agricoles destinataires des livraisons d'ammoniac.
 
 APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
@@ -782,9 +800,7 @@ Ministère chargé des transports terrestres et maritime de matières dangereuse
 
 ATTESTATION DE CONFORMITÉ N°
 
-CONTRÔLE DE FABRICATION DES EMBALLAGES DESTINÉS
-
-AU TRANSPORT DE MARCHANDISES DANGEREUSES
+CONTRÔLE DE FABRICATION DES EMBALLAGES DESTINÉS AU TRANSPORT DE MARCHANDISES DANGEREUSES
 
 Nature du contrôle (validation du PAQ, initial ou périodique) :
 
@@ -876,7 +892,7 @@ APPENDICE IV.6 : CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
 
 (Voir article 25.3)
 
-1. Les modalités et critères d'acceptation des examens par magnétoscopie des citernes visées au 3 d) de l'article 25 du présent arrêté sont définis par la norme NF M 88-104.
+1. Les modalités des contrôles par magnétoscopie des citernes visées au 3 d de l'article 25 du présent arrêté sont définies par la norme NF EN ISO 17638 d'avril 2010. Les critères d'acceptation sont ceux du niveau 1 de la norme NF EN ISO 23278 d'avril 2010.
 
 Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN 473.
 
@@ -930,9 +946,9 @@ Les visites techniques ont lieu à la diligence du propriétaire du véhicule, s
 
 Ces visites techniques n'exonèrent pas le propriétaire de l'obligation de maintenir son véhicule, et, le cas échéant, sa citerne, en bon état de marche et en état satisfaisant d'entretien.
 
-Par ailleurs, le propriétaire a obligation de déclarer à la DREAL ou à la DRIRE toute transformation apportée à son véhicule, et, le cas échéant, à la citerne, susceptible de conduire à une réception à titre isolé, ou à une visite initiale au titre du présent arrêté, ou encore de modifier les indications portées sur le certificat d'agrément.
+Par ailleurs, le propriétaire a obligation de déclarer à la direction régionale chargée des contrôles de sécurité des véhicules toute transformation apportée à son véhicule, et, le cas échéant, à la citerne, susceptible de conduire à une réception à titre isolé, ou à une visite initiale au titre du présent arrêté, ou encore de modifier les indications portées sur le certificat d'agrément.
 
-Ces visites techniques périodiques sont réalisées et sanctionnées dans les conditions définies par l'arrêté du 27 juillet 2004 relatif au contrôle technique des véhicules lourds.
+Ces visites techniques périodiques sont réalisées et sanctionnées dans les conditions définies par l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds.
 
 Au cours des visites techniques, le contrôleur vérifie, en réalisant les contrôles décrits dans l'arrêté du 27 juillet 2004 susvisé :
 
@@ -960,7 +976,7 @@ Il porte :
 
 - lorsque la visite initiale est satisfaisante, la date limite pour la réalisation de la prochaine visite technique périodique.
 
-Par ailleurs, à l'issue de toute visite technique initiale favorable, la date limite de validité et le cachet de la DRIRE ou de la DREAL sont portés sur l'original du certificat d'agrément, à l'emplacement réservé à cet effet.
+Par ailleurs, à l'issue de toute visite technique initiale favorable, la date limite de validité et le cachet de la direction régionale chargée des contrôles de sécurité des véhicules sont portés sur l'original du certificat d'agrément, à l'emplacement réservé à cet effet.
 
 Les dates limites de validité portées sur la carte grise et sur le certificat d'agrément sont identiques.
 
@@ -972,9 +988,7 @@ A l'issue de toute visite technique périodique, le contrôleur opérant la visi
 
 Les dates limites de validité portées sur la carte grise et sur le certificat d'agrément sont identiques.
 
-3. Tableau relatif aux contrôles et essais à réaliser sur les équipements ADR
-
-lors des visites techniques initiales effectuées en application de l'article 14 et méthode d'examen
+3. Tableau relatif aux contrôles et essais à réaliser sur les équipements ADR lors des visites techniques initiales effectuées en application de l'article 14 et méthode d'examen
 
 <table>
 <tbody>
@@ -1000,7 +1014,7 @@ lors des visites techniques initiales effectuées en application de l'article 14
 <p>1. Identification</p>
 </td>
 <td valign="top" width="178">
-<p>1.1. Notice(s) descriptive(s), certificat(s) de conformité, ou procès verbal de RTI et justificatifs de conformité</p>
+<p>1.1. Notice(s) descriptive(s), fiche de réception européenne et ses annexes, certificat(s) de conformité, ou procès verbal de RTI et justificatifs de conformité</p>
 </td>
 <td width="118">
 <p>État, présence et conformité</p>

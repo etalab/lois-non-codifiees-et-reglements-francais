@@ -8,8 +8,10 @@ Application (1)
 
 3. Le transport de marchandises dangereuses en colis est interdit à moins qu'il ne soit effectué conformément aux dispositions du présent chapitre.
 
-4. Pour compléter les dispositions de la présente partie, chaque Gouvernement contractant doit publier ou faire publier des instructions détaillées sur l'intervention d'urgence et les soins médicaux d'urgence qui sont requis en cas d'événements dus à des marchandises dangereuses en colis, compte tenu des directives élaborées par
+4. Pour compléter les dispositions de la présente partie, chaque gouvernement contractant doit publier ou faire publier des instructions détaillées sur l'intervention d'urgence et les soins médicaux d'urgence qui sont requis en cas d'événements dus à des marchandises dangereuses en colis, compte tenu des directives élaborées par l'Organisation maritime internationale (*).
 
-l'Organisation (2).
+(*) Se reporter aux publications suivantes de l'Organisation maritime intenationale :
 
-La division 411 du présent règlement fixe les dispositions à respecter en matière d'intervention d'urgence et de soins médicaux d'urgence à donner en cas d'accidents dus à des marchandises dangereuses.
+1. Consignes d'intervention d'urgence pour les navires transportant des marchandises dangereuses (guide FS) (MSC/Circ.1025, telle qu'ammendée) ; et
+
+2. Guide de soins médicaux d'urgence à donner en cas d'accidents dus à des marchandises dangereuses (GSMU) (MSC/Circ.857).

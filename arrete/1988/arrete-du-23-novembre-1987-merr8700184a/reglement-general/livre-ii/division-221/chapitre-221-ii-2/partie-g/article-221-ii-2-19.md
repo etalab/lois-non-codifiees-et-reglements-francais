@@ -14,7 +14,13 @@ Le présent article a pour objet d'indiquer les mesures de sécurité supplémen
 
 2 Prescriptions générales
 
-2.1 Les types de navires et les espaces à cargaison mentionnés au paragraphe 2.2, qui sont destinés au transport de marchandises dangereuses, doivent, sauf lorsqu'ils transportent des marchandises dangereuses en quantités limitées (2), satisfaire aux prescriptions des articles des parties B, C, D et des articles 221-II-2/18 et 221-II-2/20 (3) de la partie E, selon qu'il convient. Ils doivent en outre être conformes aux prescriptions appropriées du présent article, à moins qu'ils ne satisfassent déjà à ces prescriptions en observant celles d'autres sections du présent chapitre. Les types de navires et les formules de transport des marchandises dangereuses sont mentionnés au paragraphe 2.2 et dans le tableau 19.1. Les navires de charge d'une jauge brute inférieure à 500 doivent satisfaire aux prescriptions du présent article ; toutefois, les Administrations peuvent autoriser des prescriptions moins rigoureuses, lesquelles doivent être indiquées dans le document de conformité visé au paragraphe 4.
+2.1. Les types de navires et les espaces à cargaison mentionnés au paragraphe 2.2, qui sont destinés au transport de marchandises dangereuses, doivent, sauf lorsqu'ils transportent des marchandises dangereuses en quantités limitées (1) et en quantités exceptées (2), satisfaire aux prescriptions des articles des parties B, C, D et des articles 221-II-2/18 et 221-II-2/20 (3) de la partie E, selon qu'il convient. Ils doivent en outre être conformes aux prescriptions appropriées du présent article, à moins qu'ils ne satisfassent déjà à ces prescriptions en observant celles d'autres sections du présent chapitre. Les types de navires et les formules de transport des marchandises dangereuses sont mentionnés au paragraphe 2.2 et dans le tableau 19.1. Les navires de charge d'une jauge brute inférieure à 500 doivent satisfaire aux prescriptions du présent article ; toutefois, les administrations peuvent autoriser des prescriptions moins rigoureuses, lesquelles doivent être indiquées dans le document de conformité visé au paragraphe 4.
+
+(1) Se reporter à la partie 7 du code maritime international des marchandises dangereuses.
+
+(2) Se reporter au code IMDG tel que défini par la division 411 du présent règlement.
+
+(3) Se reporter au chapitre 3.4 du code maritime international des marchandises dangereuses.
 
 2.2 Les types de navires et les espaces à cargaison ci-après régissent l'application des tableaux 19.1 et 19.2 :
 
@@ -54,7 +60,7 @@ Les espaces à cargaison fermés et les locaux à véhicules ne doivent contenir
 
 Les espaces rouliers doivent être pourvus d'un dispositif fixe de détection et d'alarme d'incendie conforme aux prescriptions du Recueil de règles sur les systèmes de protection contre l'incendie. Tous les autres types d'espaces à cargaison doivent être pourvus soit d'un dispositif fixe de détection et d'alarme d'incendie, soit d'un dispositif de détection de la fumée par prélèvement d'échantillons d'air conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie. Si un dispositif de détection de la fumée par prélèvement d'échantillons d'air est installé, il faut tenir particulièrement compte des dispositions du paragraphe 2.1.3 du chapitre 10 du Recueil de règles sur les systèmes de protection contre l'incendie de façon à éviter que des vapeurs toxiques ne s'échappent vers des zones occupées.
 
-3.4 Ventilation
+3.4. Dispositif de ventilation
 
 3.4.1 Il faut prévoir, dans les espaces à cargaison fermés, une ventilation mécanique suffisante. L'installation doit être de nature à renouveler au moins six fois par heure l'air de l'espace à cargaison vide et à éliminer les vapeurs soit depuis la partie supérieure, soit depuis la partie inférieure de l'espace à cargaison, selon le cas.
 
@@ -76,7 +82,9 @@ Les espaces rouliers doivent être pourvus d'un dispositif fixe de détection et
 
 3.6 Protection du personnel
 
-3.6.1 Il faut prévoir quatre jeux complets de vêtements protecteurs résistant à la corrosion des produits chimiques, en plus des équipements de pompier prescrits par l'article 221-II-2/10.10. Les vêtements protecteurs doivent recouvrir toute la peau de façon que toutes les parties du corps soient protégées.
+3.6.1. Il faut prévoir quatre jeux complets de vêtements protecteurs résistant à la corrosion des produits chimiques, en plus des équipements de pompier prescrits par l'article 221-II-2/10.10. Les vêtements protecteurs doivent recouvrir toute la peau de façon que toutes les parties du corps soient protégées, qui doivent être choisis en fonction des risques présentés par les produits chimiques transportés et compte tenu des normes élaborées par l'Organisation selon leur classe et leur état physique (*).
+
+(*) Dans le cas de cargaisons solides en vrac, les vêtements de protection devraient satisfaire aux prescriptions relatives à l'équipement spécifiées dans les fiches qui figurent dans le code IMSBC, tel que défini par la division 423 du présent règlement, pour les diverses matières. Dans le cas de marchandises en colis, les vêtements de protection devraient être ceux que prescrivent les consignes d'intervention d'urgence (guide FS) qui figurent dans le supplément au code IMDG, tel que défini par la division 411 du présent règlement, pour les diverses matières.
 
 3.6.2 Il faut prévoir au moins deux appareils respiratoires autonomes en plus de ceux qui sont prescrits par l'article 221-II-2/10. Il doit être prévu, pour chaque appareil respiratoire exigé, deux bouteilles de rechange pouvant être utilisées avec cet appareil. Les navires à passagers ne transportant pas plus de 36 passagers et les navires de charge qui disposent à bord, dans des emplacements appropriés, de systèmes permettant de recharger complètement les bouteilles d'air sans les contaminer, n'ont besoin d'avoir à bord qu'une seule bouteille de rechange pour chaque appareil requis.
 
@@ -113,6 +121,7 @@ Lorsque le signe "X" apparaît dans le tableau 19.1, la prescription s'applique 
 <p align="center">Article 221-II-2/19.2.2</p>
 </td>
 <td width="83">
+<br/>
 <br/>
 </td>
 <td width="83">
@@ -205,6 +214,7 @@ Lorsque le signe "X" apparaît dans le tableau 19.1, la prescription s'applique 
 <p align="center">X</p>
 </td>
 <td valign="top" width="74">
+<br/>
 <br/>
 </td>
 </tr>
@@ -535,7 +545,7 @@ Lorsque le signe "X" apparaît dans le tableau 19.1, la prescription s'applique 
 
 Notes :
 
-(1) Cette prescription ne s'applique pas aux conteneurs fermés transportant des marchandises des classes 4 et 5.1. Pour les marchandises des classes 2, 3, 6.1 et 8 qui sont transportées dans des conteneurs fermés, le taux de ventilation peut être ramené à un minimum de deux renouvellements d'air. Aux fins de cette prescription, une citerne mobile est un conteneur fermé.
+(1) Cette prescription ne s'applique pas aux conteneurs fermés transportant des marchandises solides des classes 4 et 5.1. Pour les marchandises des classes 2, 3, 6.1 et 8 qui sont transportées dans des conteneurs fermés, le taux de ventilation peut être ramené à un minimum de deux renouvellements d'air par heure. Pour les liquides des classes 4 et 5.1 qui sont transportés dans des conteneurs fermés, le taux de ventilation peut être ramené à un minimum de deux renouvellements d'air par heure. Aux fins de la présente prescription, une citerne mobile est un conteneur fermé.
 
 (2) Cette prescription ne s'applique qu'aux ponts.
 
@@ -801,1137 +811,1251 @@ Notes :
 
 (9) Seuls des dispositifs de protection grillagés adéquats sont exigés.
 
-(10) Les prescriptions du Recueil de règles pratiques pour la sécurité du transport des cargaisons solides en vrac adopté par la résolution A.434(XI) et tel que modifié, sont suffisantes.
+(10) Les prescriptions du code maritime international des cargaisons solides en vrac (code IMSBC) tel que défini par la division 423 du présent règlement.
 
-Table 19.3 - Application des prescriptions aux différentes classes de marchandises dangereuses,
+Tableau 19.3 - Application des prescriptions aux différentes classes de marchandises dangereuses,
 
 à l'exception des marchandises dangereuses solides en vrac
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="71">
-<p align="center">Classe chapitre 221-VII</p>
+<td valign="top" width="46">
+<p align="right">Classe</p>
 </td>
-<td rowspan="2" valign="top" width="25">
-<p align="center">1 1-</p>
-<p align="center">1 6</p>
+<td rowspan="2" width="31">
+<p align="center">1.1 à 1.6</p>
 </td>
-<td rowspan="2" valign="top" width="28">
-<p align="center">14S</p>
+<td rowspan="2" width="31">
+<p align="center">1.4S</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">2 1</p>
+<td rowspan="2" width="19">
+<p align="center">2.1</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">2 2</p>
+<td rowspan="2" width="19">
+<p align="center">2.2</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">2 3</p>
+<td rowspan="2" width="31">
+<p align="center">2.3 inflammable <sup>20</sup>
+</p>
 </td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">3. liquides ≤23°</p>
-<p align="center">C(15)</p>
+<td rowspan="2" width="31">
+<p align="center">2.3 non inflammable</p>
 </td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">3 liquides &gt;23°</p>
-<p align="center">C(15)</p>
-<p align="center">≤61°C</p>
+<td rowspan="2" width="31">
+<p align="center">3 FP<sup>15</sup>
+<sub/>&lt; 23°C</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">4 1</p>
+<td rowspan="2" width="31">
+<p align="center">3 FP <sup>15</sup>
+<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">4 2</p>
+<td rowspan="2" width="19">
+<p align="center">4.1</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">4 3</p>
+<td rowspan="2" width="19">
+<p align="center">4.2</p>
 </td>
-<td rowspan="2" valign="top" width="22">
-<p align="center">5 1</p>
+<td rowspan="2" width="34">
+<p align="center">4.3 liquides</p>
 </td>
-<td rowspan="2" valign="top" width="23">
-<p align="center">5 2</p>
+<td rowspan="2" width="31">
+<p align="center">4.3 solides</p>
 </td>
-<td rowspan="2" valign="top" width="36">
+<td rowspan="2" width="19">
+<p align="center">5.1</p>
+</td>
+<td rowspan="2" width="25">
+<p align="center">5.2<sup>16</sup>
+</p>
+</td>
+<td rowspan="2" width="31">
+<p align="center">6.1 liquides FP<sup>15</sup> &lt; 23°C</p>
+</td>
+<td rowspan="2" width="31">
+<p align="center">6.1 liquides FP<sup>15</sup>
+<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
+</td>
+<td rowspan="2" width="31">
 <p align="center">6.1 liquides</p>
 </td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">6.1 liquides ≤23°</p>
-<p align="center">C(15)</p>
+<td rowspan="2" width="31">
+<p align="center">6.1 solides</p>
 </td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">6.1 liquides</p>
-<p align="center">&gt;23°</p>
-<p align="center">C(15)</p>
-<p align="center">≤61°C</p>
+<td rowspan="2" width="31">
+<p align="center">8 liquides FP<sup>15</sup> &lt; 23°C</p>
 </td>
-<td rowspan="2" valign="top" width="33">
-<p align="center">6 1 solides</p>
+<td rowspan="2" width="31">
+<p align="center">8 liquides FP<sup>15</sup>
+<u>&gt;</u> 23°C à <u>&lt;</u> 60°C</p>
 </td>
-<td rowspan="2" valign="top" width="36">
+<td rowspan="2" width="31">
 <p align="center">8 liquides</p>
 </td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">8 liquides ≤23°</p>
-<p align="center">C(15)</p>
-</td>
-<td rowspan="2" valign="top" width="36">
-<p align="center">8 liquides &gt;23°</p>
-<p align="center">C(15)</p>
-<p align="center">≤61°C</p>
-</td>
-<td rowspan="2" valign="top" width="33">
+<td rowspan="2" width="31">
 <p align="center">8 solides</p>
 </td>
-<td rowspan="2" valign="top" width="25">
+<td rowspan="2" width="21">
 <p align="center">9</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="71">
-<p align="center">Article</p>
+<td valign="bottom" width="46">
+<p>Règle 19</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="71">
-<p align="center">.1.1</p>
+<td width="46">
+<p>3.1.1</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="28">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="34">
 <p align="center">X</p>
 </td>
-<td valign="top" width="23">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="25">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
 <p align="center">X</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.1.2</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="23">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.1.3</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.1.4</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.2</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.3</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.4.1</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X (11)</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X (11)</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X (11)</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X (11)</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X (11)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.4.2</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.5</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.6</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="23">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X (14)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.7</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.8</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X (12)</p>
-</td>
-<td valign="top" width="28">
-<p align="center">-</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X (13)</p>
-</td>
-<td valign="top" width="23">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">-</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">-</p>
-</td>
-<td valign="top" width="25">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="71">
-<p align="center">.9</p>
-</td>
-<td valign="top" width="25">
-<p align="center">X</p>
-</td>
-<td valign="top" width="28">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="22">
-<p align="center">X</p>
-</td>
-<td valign="top" width="23">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="36">
-<p align="center">X</p>
-</td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="25">
+<td width="21">
 <p align="center">X</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="71">
-<p align="center">.10.1</p>
+<td width="46">
+<p>3.1.2</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="28">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="34">
 <p align="center">X</p>
 </td>
-<td valign="top" width="23">
-<p align="center">X (16)</p>
-</td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="25">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X­</p>
+</td>
+<td width="21">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.1.3</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="34">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.1.4</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="34">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.2</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="34">
+<p align="center">X<sup>18</sup>
+</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">X<sup>17</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.3</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X­</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.4.1</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X<sup>11</sup>
+</p>
+</td>
+<td width="19">
+<p align="center">X<sup>11</sup>
+</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X<sup>11</sup>
+</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X<sup>11</sup>
+</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">X<sup>11</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.4.2</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="34">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">X<sup>17</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.5</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="34">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X<sup>19</sup>
+</p>
+</td>
+<td width="31">
+<p align="center">X<sup>19</sup>
+</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.6</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="25">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="21">
+<p align="center">X<sup>14</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.7</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="25">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.8</p>
+</td>
+<td width="31">
+<p align="center">X<sup>12</sup>
+</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X<sup>13</sup>
+</p>
+</td>
+<td width="25">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="31">
+<p align="center">-</p>
+</td>
+<td width="21">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.9</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="25">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="21">
 <p align="center">X</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="71">
-<p align="center">.10.2</p>
+<td width="46">
+<p>3.10.1</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="28">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="22">
+<td width="34">
 <p align="center">X</p>
 </td>
-<td valign="top" width="23">
-<p align="center">X (16)</p>
-</td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="19">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="25">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="36">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="33">
+<td width="31">
 <p align="center">X</p>
 </td>
-<td valign="top" width="25">
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="21">
+<p align="center">X</p>
+</td>
+</tr>
+<tr>
+<td width="46">
+<p>3.10.2</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="34">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="19">
+<p align="center">X</p>
+</td>
+<td width="25">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="31">
+<p align="center">X</p>
+</td>
+<td width="21">
 <p align="center">X</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Notes
+(11) Cette prescription s'applique lorsque le code IMDG, tel que défini par la division 411 du présent règlement, exige des espaces ventilés mécaniquement .
 
-(11) Cette prescription s'applique lorsque le Code maritime international des marchandises dangereuses, tel que modifié, exige des "espaces ventilés mécaniquement".
+(12) Les marchandises de cette classe doivent être arrimées à une distance horizontale d'au moins 3 m des limites des locaux de machines, dans tous les cas.
 
-(12) Les marchandises de cette classe doivent être arrimées à une distance horizontale d'au moins 3 mètres des limites des locaux de machines, dans tous les cas.
-
-(13) Se reporter au Code maritime international des marchandises dangereuses.
+(13) Se reporter au code IMDG, tel que défini par la division 411 du présent règlement.
 
 (14) Lorsque cela est approprié pour les marchandises transportées.
 
-(15) Par cette température, on entend le point d'éclair.
+(15) FP désigne le point d'éclair.
 
-(16) En vertu des dispositions du code IMDG, tel que modifié, l'arrimage de marchandises dangereuses de la classe 5.2 sous pont ou dans des espaces rouliers fermés est interdit.
+(16) En vertu des dispositions du code IMDG, tel que défini par la division 411 du présent règlement, l'arrimage de marchandises dangereuses de la classe 5.2 sous pont ou dans des espaces rouliers fermés est interdit.
 
-4 Document de conformité (7)
+(17) Applicable exclusivement aux marchandises dangereuses dégageant des vapeurs inflammables qui sont répertoriées dans le code IMDG, tel que défini par la division 411 du présent règlement. (18) Applicable exclusivement aux marchandises dangereuses ayant un point d'éclair inférieur à 23 °C qui sont répertoriées dans le code IMDG, tel que défini par la division 411 du présent règlement.
 
-1. L'Administration doit fournir au navire un document approprié attestant que la construction et l'équipement du navire sont conformes aux prescriptions du présent article. L'attestation concernant les marchandises dangereuses, exception faite des marchandises dangereuses solides en vrac, n'est pas exigée pour les cargaisons des classes 6.2 et 7 et les marchandises dangereuses en quantités limitées.
+(19) Applicable exclusivement aux marchandises dangereuses de la classe de risque subsidiaire 6.1.
 
-2. Pour les navires à passagers, la période de validité de l'attestation de conformité est au maximum de cinq ans.
+(20) En vertu des dispositions du code IMDG, tel que défini par la division 411 du présent règlement, l'arrimage de marchandises de la classe 2.3 présentant un risque subsidiaire de la classe 2.3 sous pont ou dans des espaces rouliers fermés est interdit.
+
+(21) En vertu des dispositions du code IMDG, tel que défini par la division 411 du présent règlement, l'arrimage de liquides de la classe 4.3 ayant un point d'éclair inférieur à 23 °C sous pont ou dans des espaces rouliers fermés est interdit.
+
+4. Document de conformité (*)
+
+1. L'administration doit fournir au navire un document approprié attestant que la construction et l'équipement du navire sont conformes aux prescriptions du présent article. L'attestation concernant les marchandises dangereuses, exception faite des marchandises dangereuses solides en vrac, n'est pas exigée pour les cargaisons des classes 6.2 et 7 et les marchandises dangereuses en quantités limitées, et en quantités exceptées.
+
+2. Le document de conformité a une validité de cinq ans pour les navires de charge et ne doit pas être prolongé au-delà de la date d'expiration du certificat de sécurité de construction pour navire de charge en cours de validité.
+
+3. Le document de conformité a une validité de un an pour les navires à passagers et ne doit pas être prolongé au-delà de la date d'expiration du certificat de sécurité pour navire à passagers en cours de validité.
+
+(*) Se reporter au document de conformité avec les prescriptions spéciales applicables aux navires transportant des marchandises dangereuses, délivré en application des dispositions de la règle II-2/19 de la Convention SOLAS de 1974, telle que modifiée (circulaire MSC/Circ.1266).

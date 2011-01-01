@@ -38,6 +38,24 @@ Application
 
 2. 3. Les navires construits le 1er juillet 2002 ou après cette date mais avant le 1er juillet 2010 doivent satisfaire aux dispositions des paragraphes 7. 1. 1, 7. 4. 4. 2, 7. 4. 4. 3 et 7. 5. 2. 1. 2 de la règle 9 adoptée par la résolution MSC. 99 (73).
 
+2.4. Les navires ci-après dont les espaces à cargaison sont destinés au transport de marchandises dangereuses en colis doivent satisfaire aux dispositions de l'article 221-II-2/19.3, sauf s'ils transportent des marchandises dangereuses des classes 6.2 et 7 et des marchandises dangereuses en quantités limitées (1) et en quantités exceptées (2), conformément aux tableaux 19.1 et 19.3, au plus tard à la date de la première visite de renouvellement effectuée le 1er janvier 2011 ou après cette date :
+
+.1 navires de charge d'une jauge brute égale ou supérieure à 500 et navires à passagers construits le 1er septembre 1984 ou après cette date, mais avant le 1er janvier 2011 ; et
+
+.2 navires de charge d'une jauge brute inférieure à 500 construits le 1er février 1992 ou après cette date, mais avant le 1er janvier 2011, et nonobstant les présentes dispositions ;
+
+.3 les navires de charge d'une jauge brute égale ou supérieure à 500 et les navires à passagers construits le 1er septembre 1984 ou après cette date, mais avant le 1er juillet 1986, ne sont pas tenus de satisfaire aux dispositions de l'article 221-II-2/19.3.3 s'ils satisfont à celles de l'article 221-II-2/54.2.3, telle qu'adoptée par la résolution MSC.1(XLV) ;
+
+.4 les navires de charge d'une jauge brute égale ou supérieure à 500 et les navires à passagers construits le 1er juillet 1986 ou après cette date, mais avant le 1er février 1992, ne sont pas tenus de satisfaire aux dispositions de l'article 221-II-2/19.3.3 s'ils satisfont à celles de la règle 221-II-2/54.2.3, telle qu'adoptée par la résolution MSC.6(48) ;
+
+.5 les navires de charge d'une jauge brute égale ou supérieure à 500 et les navires à passagers construits le 1er septembre 1984 ou après cette date, mais avant le 1er juillet 1998, ne sont pas tenus de satisfaire aux dispositions des articles 221-II-2/19.3.10.1 et des articles 221-II-2/19.3.10.2 ; et
+
+.6 les navires de charge d'une jauge brute inférieure à 500 construits le 1er février 1992 ou après cette date, mais avant le 1er juillet 1998, ne sont pas tenus de satisfaire aux dispositions des articles 221-II-2/ 19.3.10.1 et 221-II-2/19.3.10.2.
+
+(1) Se reporter au chapitre 3.4 du code IMDG tel que défini par la division 411 du présent règlement.
+
+(2) Se reporter au chapitre 3.5 du code IMDG tel que défini par la division 411 du présent règlement.
+
 3 Réparations, transformations, modifications et aménagements
 
 3.1 Tous les navires sur lesquels sont effectuées des réparations, des modifications ou des transformations, ainsi que les aménagements qui en résultent, doivent continuer à satisfaire au moins aux prescriptions qui leur étaient déjà applicables. S'ils ont été construits avant le 1er juillet 2002, ces navires doivent, en règle générale, satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2002 ou après cette date au moins dans la même mesure qu'avant d'avoir subi ces réparations, modifications, transformations ou aménagements.

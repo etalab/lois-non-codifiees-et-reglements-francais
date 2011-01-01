@@ -62,6 +62,6 @@ Notification d'expédition à l'Autorité de sûreté nucléaire et au ministèr
 
 ― moyens d'extinction prohibés.
 
-4. Pour ce qui concerne les transports par chemin de fer, le transporteur transmet les informations nécessaires au gestionnaire de l'infrastructure qui prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
+4. Pour ce qui concerne les transports ferroviaires, le transporteur transmet les informations nécessaires au gestionnaire de l'infrastructure qui prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
 
 5. Les transports intéressant la défense nationale et les transports relevant des articles L. 1333-1 à 14 du code de la défense peuvent faire l'objet, dans certains cas, d'accords particuliers avec la direction de la sécurité civile.

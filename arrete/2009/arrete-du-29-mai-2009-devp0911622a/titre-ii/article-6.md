@@ -12,11 +12,13 @@ Les entreprises exemptées de l'application du 1.8.3 dans le cadre du 1.8.3.2 so
 
 ― transports de marchandises dangereuses en colis, en quantités inférieures aux seuils définis au 1.1.3.6 et opérations de chargement ou de déchargement de marchandises dangereuses en colis en quantités inférieures, par opération, à ces seuils ;
 
+— transports de marchandises emballées en quantités limitées selon le 3.4 ou en quantités exceptées selon le 3.5, et opérations de chargement, de déchargement ou d'emballage de ces marchandises dangereuses ;
+
 ― opérations d'emballage liées à des opérations de chargement en quantités inférieures par unité de transport routier, wagon ou bateau aux seuils du 1.1.3.6 ;
 
 ― opérations de chargement de véhicules routiers de matières radioactives de faible activité spécifique en colis de type industriel dont les n°s ONU sont 2912, 3321 ou 3322, dans le cadre des opérations de collecte réalisées par l'Agence nationale des déchets radioactifs ;
 
-― opérations de chargement et de déchargement dans les établissements de santé de matières radioactives dont les n°s ONU sont 2915, 2916, 2917, 2919 ou 3332, dans le cadre des opérations de transport réalisées ou commissionnées par les fournisseurs qui disposent de leur propre conseiller à la sécurité pour la classe 7 des matières dangereuses ;
+― opérations de chargement et de déchargement dans les établissements de santé de matières radioactives dont les n°s ONU sont 2915, 2916, 2917, 2919 ou 3332, dans le cadre des opérations de transport réalisées ou commissionnées par les fournisseurs qui disposent, pour les matières dangereuses de la classe 7, d'un conseiller à la sécurité interne à la société ;
 
 ― opérations de chargement et déchargement liées à des transports nationaux de boissons alcoolisées (n° ONU 3065) dans le cadre d'opérations de collecte saisonnières et limitées à une région de production ;
 
@@ -32,13 +34,13 @@ Toutefois, les entreprises qui effectuent des opérations de déchargement dans 
 
 2. Désignation du conseiller :
 
-2.1. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers, suivant le modèle de déclaration CERFA n° 12251*02 disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( www.developpement-durable.gouv.fr), au préfet de région ― DRE ou DREAL ― où l'entreprise est domiciliée. Le chef d'entreprise doit être en possession d'une copie du certificat du conseiller et, lorsque le conseiller est une personne extérieure à l'entreprise, d'une attestation de celui-ci indiquant qu'il accepte cette mission.
+2.1. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers, suivant le modèle de déclaration CERFA n° 12251*02 disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/), au préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― où l'entreprise est domiciliée. Le chef d'entreprise doit être en possession d'une copie du certificat du conseiller et, lorsque le conseiller est une personne extérieure à l'entreprise, d'une attestation de celui-ci indiquant qu'il accepte cette mission.
 
-2.2. Les entreprises ayant obtenu une autorisation d'accès du préfet de région ― DRE ou DREAL ― peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports terrestres de matières dangereuses, pour y effectuer la déclaration du conseiller à la sécurité.
+2.2. Les entreprises ayant obtenu une autorisation d'accès du préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports terrestres de matières dangereuses, pour y effectuer la déclaration du conseiller à la sécurité.
 
 2.3. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
-2.4. Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet de région ― DRE ou DREAL ― où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet de région ― DRE ou DREAL ― toutes modifications des données contenues dans la déclaration initiale du conseiller.
+2.4. Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― toutes modifications des données contenues dans la déclaration initiale du conseiller.
 
 3. Retrait du certificat :
 
@@ -58,6 +60,6 @@ Toutefois, les entreprises qui effectuent des opérations de déchargement dans 
 
 5.2. Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant, en annexe, les rapports de ses différents conseillers.
 
-5.3. Ce rapport annuel est établi en s'inspirant du  Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses  disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( www.developpement-durable.gouv.fr).
+5.3. Ce rapport annuel est établi en s'inspirant du Guide pour l'élaboration du rapport annuel du conseiller à la sécurité pour les transports de marchandises dangereuses disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/).
 
-5.4. Le rapport annuel doit être conservé par l'entreprise pendant cinq ans et être présenté à toute réquisition des agents de l'administration habilités à constater les infractions en matière de transport de marchandises dangereuses, à partir du 31 mars de l'année suivant celle concernée par le rapport.
+5.4. Le rapport annuel est conservé par l'entreprise pendant cinq ans et doit être disponible à partir du 31 mars de l'année suivant celle concernée par le rapport.

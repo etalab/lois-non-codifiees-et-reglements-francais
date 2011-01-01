@@ -20,7 +20,7 @@ Dispositions particulières applicables à l'ensemble des services ou organismes
 
 2. Rapport annuel d'activité :
 
-2.1. Les services et organismes désignés, y compris les organismes agréés, doivent adresser un rapport annuel d'activité dans les 6 mois qui suivent la fin d'une année calendaire, soit au ministre chargé des transports terrestres de matières dangereuses, soit à l'Autorité de sûreté nucléaire, selon les attributions précisées à l'article 5.
+2.1. Les services et organismes désignés, y compris les organismes agréés, adressent un rapport annuel d'activité soit au ministre chargé des transports terrestres de matières dangereuses, soit à l'Autorité de sûreté nucléaire, selon les attributions précisées à l'article 5. Le délai de transmission est fixé dans le(s) cahier(s) des charges visé(s) à l'article 20 ou dans les arrêtés d'agrément. A défaut, le rapport est transmis dans les six mois qui suivent la fin d'une année calendaire.
 
 3. Paiement des opérations confiées aux services et organismes désignés, y compris les organismes agréés :
 

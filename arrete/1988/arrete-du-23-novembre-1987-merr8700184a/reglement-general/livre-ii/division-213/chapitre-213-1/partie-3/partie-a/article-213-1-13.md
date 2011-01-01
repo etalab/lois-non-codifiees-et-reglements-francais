@@ -2,7 +2,7 @@
 
 Raccord normalisé de jonction des tuyautages d'évacuation
 
-Afin que les tuyautages des installations de réception puissent être raccordés aux tuyautages du navire servant à évacuer les résidus provenant des bouchains de la tranche des machines et des citernes à boues, les uns comme les autres doivent être munis de raccords de jonction normalisés ayant des dimensions conformes à celles figurant dans le tableau suivant :
+Afin que les tuyautages des installations de réception puissent être raccordés aux tuyautages du navire servant à évacuer les résidus provenant des bouchains de la tranche des machines et des citernes à résidus d'hydrocarbures (boues), les uns comme les autres doivent être munis de raccords de jonction normalisés ayant des dimensions conformes à celles figurant dans le tableau suivant :
 
 Dimensions normalisées des brides des raccords de jonction des tuyautages d'évacuation
 

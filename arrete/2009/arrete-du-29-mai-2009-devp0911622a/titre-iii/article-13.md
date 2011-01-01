@@ -18,7 +18,9 @@ Classement et conditions de transport.
 
 ― pour approuver l'emballage dans le cadre de l'instruction d'emballage P101 du 4.1.4.1 ;
 
-― pour approuver l'emballage en commun de certains objets explosibles avec leurs moyens propres d'amorçage au titre du renvoi a du 7.5.2.2 de l'ADR et du RID et du 6.12.5 de l'ADR.
+― pour approuver l'emballage en commun de certains objets explosibles avec leurs moyens propres d'amorçage au titre du renvoi a du 7.5.2.2 de l'ADR et du RID et du 6.12.5 de l'ADR ;
+
+- pour donner son avis concernant le fonctionnement accidentel des moyens d'amorçage des objets de la classe 1 dans le cadre du a iii) de la disposition spéciale MP21 du 4.1.10 de l'ADR et du RID.
 
 1.2. Pour les matières et objets explosibles entrant en l'état dans les approvisionnements des forces armées, le ministère de la défense (inspection de l'armement pour les poudres et explosifs) effectue, sous sa responsabilité, les opérations visées au paragraphe 1 du présent article. Il peut en être de même, à la requête du demandeur, pour les matières et objets explosibles à caractère militaire n'entrant pas en l'état dans les approvisionnements des forces armées françaises ou non destinées à celles-ci.
 

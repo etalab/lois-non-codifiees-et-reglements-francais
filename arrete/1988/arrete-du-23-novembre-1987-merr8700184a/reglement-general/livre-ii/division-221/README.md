@@ -7,7 +7,7 @@
 - [Chapitre 221-IV : Radiocommunications.](chapitre-221-iv)
 - [Chapitre 221-IX : Gestion pour la sécurité de l'exploitation des navires.](chapitre-221-ix)
 - [Chapitre 221-V : Sécurité de la navigation.](chapitre-221-v)
-- [Chapitre 221-VI : Transport de cargaisons.](chapitre-221-vi)
+- [Chapitre 221-VI : Transport de cargaisons et de combustibles liquides.](chapitre-221-vi)
 - [Chapitre 221-VII : Transport de marchandises dangereuses.](chapitre-221-vii)
 - [Chapitre 221-VIII : Navires nucléaires.](chapitre-221-viii)
 - [Chapitre 221-X : Mesures de sécurité applicables aux engins à grande vitesse.](chapitre-221-x)

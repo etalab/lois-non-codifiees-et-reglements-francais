@@ -2,7 +2,7 @@
 
 Autorité compétente
 
-1. Lorsque la présente division ou le code IMDG requièrent une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé du transport maritime de matières dangereuses. Toutefois, cette autorité est :
+1. Lorsque la présente division ou le code IMDG requiert une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé du transport maritime de matières dangereuses. Toutefois, cette autorité est :
 
 - l'Autorité de sûreté nucléaire pour les transports de matières radioactives et fissiles à usage civil ;
 

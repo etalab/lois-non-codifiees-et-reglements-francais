@@ -375,3 +375,11 @@ Pour les règles 1.28.1 à 1.28.9, voir également l'interprétation uniforme 5
 30 "Navire construit" désigne un navire dont la quille est posée ou dont la construction se trouve à un stade équivalent.
 
 Voir également l'interprétation uniforme 5
+
+31 "Résidus d'hydrocarbures (boues)" désigne les déchets résiduaires d'hydrocarbures produits pendant l'exploitation normale du navire tels que ceux qui proviennent de la purification du combustible ou de l'huile de graissage utilisés pour les machines principales ou auxiliaires, de l'huile usée obtenue par séparation qui provient du matériel de filtrage des hydrocarbures, de l'huile usée recueillie dans des gattes et des huiles hydrauliques et lubrifiantes usées.
+
+32 "Citerne à résidus d'hydrocarbures (boues)" désigne une citerne qui sert à stocker les résidus d'hydrocarbures (boues) à partir de laquelle les résidus d'hydrocarbures (boues) peuvent être évacués directement au moyen du raccord normalisé de jonction des tuyautages d'évacuation ou par tout autre moyen d'évacuation approuvé.
+
+33 "Eaux de cale polluées (par les hydrocarbures)" désigne les eaux qui peuvent être contaminées par des hydrocarbures provenant, par exemple, de fuites ou de travaux d'entretien dans la tranche des machines. Tous les liquides pénétrant dans le système d'assèchement des cales, y compris les puisards, les tuyautages d'assèchement des cales, le plafond de ballast ou les citernes de stockage des eaux de cale, sont considérés comme des eaux de cale polluées (par les hydrocarbures).
+
+34 "Citerne de stockage des eaux de cale polluées" désigne une citerne qui sert à recueillir les eaux de cale polluées avant leur rejet, leur transfert ou leur évacuation.

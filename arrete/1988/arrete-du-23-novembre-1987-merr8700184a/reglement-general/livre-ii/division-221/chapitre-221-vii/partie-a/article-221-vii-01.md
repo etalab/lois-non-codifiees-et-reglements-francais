@@ -4,7 +4,7 @@ Définitions
 
 Aux fins du présent chapitre, sauf disposition expresse contraire :
 
-1. "Code IMDG" désigne le code maritime international des marchandises dangereuses (code IMDG) que le comité de la sécurité maritime de l'Organisation a adopté par la résolution MSC.122 (75) et tel qu'il pourra être modifié, à condition que les amendements soient adoptés, soient mis en vigueur et prennent effet conformément aux dispositions de l'article VIII de la présente Convention SOLAS relatives à la procédure d'amendement applicable à l'annexe, à l'exclusion du chapitre Ier.
+1. "Code IMDG" désigne le code maritime international des marchandises dangereuses (code IMDG) tel que défini par l'article 411-1.04 de la division 411 du présent règlement.
 
 2. "Marchandises dangereuses" désigne les substances, matières et objets visés par le code IMDG.
 

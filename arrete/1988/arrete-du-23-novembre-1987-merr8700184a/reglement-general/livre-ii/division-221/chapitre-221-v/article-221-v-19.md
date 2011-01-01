@@ -6,7 +6,9 @@ Prescriptions relatives à l'emport des systèmes et du matériel de navigation 
 
 Sous réserve des dispositions de la règle 221-V/1.4 :
 
-1.1 Les navires construits le 1er juillet 2002 ou après cette date doivent être équipés de systèmes et de matériel de navigation qui puissent satisfaire aux prescriptions énoncées aux paragraphes 2.1 à 2.9. 1.2 Les navires construits avant le 1er juillet 2002 doivent :
+1.1 Les navires construits le 1er juillet 2002 ou après cette date doivent être équipés de systèmes et de matériel de navigation qui puissent satisfaire aux prescriptions énoncées aux paragraphes 2.1 à 2.9.
+
+1.2 Les navires construits avant le 1er juillet 2002 doivent :
 
 .1 sous réserve des dispositions des paragraphes 1.2.2 et 1.2.3 et à moins qu'ils satisfassent pleinement au présent article, continuer à être équipés de matériel satisfaisant aux prescriptions des articles 221V/11, 221-V/12 et 221-V/20 de la division 221 en vigueur avant le 1er juillet 2002 ;
 
@@ -30,7 +32,7 @@ Le nombre des compas magnétiques des navires s'éloignant de plus de 5 milles a
 
 .3 de moyens permettant de faire, à tout moment, des corrections pour obtenir le cap et le relèvement vrais ;
 
-.4 de cartes marines et de publications nautiques permettant de planifier et d'afficher la route du navire pour le voyage prévu, d'indiquer la position et de la surveiller tout au long du voyage ; un système de visualisation de cartes électroniques et d'information (ECDIS) peut être reconnu comme satisfaisant aux prescriptions d'emport de cartes du présent paragraphe ;
+.4 De cartes marines et de publications nautiques permettant de planifier et d'afficher la route du navire pour le voyage prévu et d'indiquer la position et de la surveiller tout au long du voyage. Un système de visualisation de cartes électroniques et d'information (ECDIS) est aussi accepté comme satisfaisant aux prescriptions du présent alinéa relatives à l'emport de cartes. Les navires auxquels s'applique le paragraphe 2.10 doivent satisfaire aux prescriptions relatives à l'emport d'ECDIS qui y sont spécifiées ;
 
 .5 de dispositifs de secours permettant d'assurer les fonctions prescrites au paragraphe .4 par un autre moyen, si cette fonction est assurée en partie ou entièrement par des moyens électroniques1 ;
 
@@ -44,11 +46,35 @@ Le nombre des compas magnétiques des navires s'éloignant de plus de 5 milles a
 
 Un compas magnétique doit être lisible du poste de barre de secours. Toutefois le compas magnétique du poste de barre de secours peut être remplacé par un répétiteur du compas gyroscopique, lorsqu'un compas gyroscopique est installé à bord.
 
-2.2 Tous les navires d'une jauge brute égale ou supérieure à 150 et les navires à passagers, quelles que soient leurs dimensions, doivent satisfaire aux prescriptions du paragraphe 2.1, et être en outre pourvus :
+2.2. Tous les navires d'une jauge brute égale ou supérieure à 150 et les navires à passagers, quelles que soient leurs dimensions, doivent satisfaire aux prescriptions du paragraphe 2.1, et être en outre pourvus :
 
 .1 d'un compas magnétique de rechange interchangeable avec le compas magnétique, tel que visé au paragraphe 2.1.1, ou d'autres moyens d'assurer la fonction mentionnée au paragraphe 2.1.1, en prévoyant du matériel de remplacement ou en double ;
 
-.2 d'un fanal à signaux de jour ou d'autres moyens permettant de communiquer de jour comme de nuit, au moyen de feux de signalisation alimentés par une source d'énergie électrique ne dépendant pas uniquement de l'alimentation en énergie du navire.
+.2 d'un fanal à signaux de jour ou d'autres moyens permettant de communiquer de jour comme de nuit, au moyen de feux de signalisation alimentés par une source d'énergie électrique ne dépendant pas uniquement de l'alimentation en énergie du navire ;
+
+.3 d'un système d'alarme de quart à la passerelle de navigation (BNWAS), comme indiqué ci-après :
+
+.1 navires de charge d'une jauge brute égale ou supérieure à 150 et navires à passagers quelles que soient leurs dimensions, construits le 1er juillet 2011 ou après cette date ;
+
+.2 navires à passagers quelles que soient leurs dimensions construits avant le 1er juillet 2011, au plus tard à la date de la première visite (3) prévue après le 1er juillet 2012 ;
+
+.3 navires de charge d'une jauge brute égale ou supérieure à 3 000 construits avant le 1er juillet 2011, au plus tard à la date de la première visite (4) prévue après le 1er juillet 2012 ;
+
+.4 navires de charge d'une jauge brute égale ou supérieure à 500 mais inférieure à 3 000 construits avant le 1er juillet 2011, au plus tard à la date de la première visite (5) prévue après le 1er juillet 2013 ; et
+
+.5 navires de charge d'une jauge brute égale ou supérieure à 150 mais inférieure à 500 construits avant le 1er juillet 2011, au plus tard à la date de la première visite (6) prévue après le 1er juillet 2014.
+
+Le système d'alarme de quart à la passerelle de navigation doit être en service lorsque le navire fait route en mer ;
+
+.4 un système d'alarme de quart à la passerelle de navigation (BNWAS) installé avant le 1er juillet 2011 peut ultérieurement être dispensé de satisfaire à tous égards aux normes adoptées par l'Organisation, à la discrétion de l'administration.
+
+(3) Se reporter à l'interprétation uniforme de l'expression "première visite" mentionnée dans les règles de la Convention SOLAS (MSC. 1/Circ. 1290).
+
+(4) Se reporter à l'interprétation uniforme de l'expression "première visite" mentionnée dans les règles de la Convention SOLAS (MSC. 1/Circ. 1290).
+
+(5) Se reporter à l'interprétation uniforme de l'expression "première visite" mentionnée dans les règles de la Convention SOLAS (MSC. 1/Circ. 1290).
+
+(6) Se reporter à l'interprétation uniforme de l'expression "première visite" mentionnée dans les règles de la Convention SOLAS (MSC. 1/Circ. 1290).
 
 2.3 Tous les navires d'une jauge brute égale ou supérieure à 300 et les navires à passagers, quelles que soient leurs dimensions, doivent satisfaire aux prescriptions du paragraphe 2.2, et être en outre pourvus :
 
@@ -133,3 +159,27 @@ prescriptions du paragraphe 2.3, exception faite des paragraphes 2.3.3 et 2.3.5,
 5 Le matériel et les systèmes de navigation qui offrent divers modes de fonctionnement doivent indiquer le mode utilisé.
 
 6 Les systèmes de passerelle intégrés (5) doivent être installés de manière que toute défaillance d'un sous-système soit immédiatement signalée à l'officier de quart à la passerelle par des alarmes sonores et visuelles et n'entraîne pas la défaillance d'un autre sous-système. En cas de défaillance d'une partie d'un système de navigation intégré (6), il doit être possible de faire fonctionner séparément chacun des autres éléments ou chacune des autres parties du système.
+
+2.10. Les navires qui effectuent des voyages internationaux doivent être pourvus d'un système de visualisation de cartes électroniques et d'information (ECDIS) comme indiqué ci-après :
+
+.1 navires à passagers d'une jauge brute égale ou supérieure à 500 construits le 1er juillet 2012 ou après cette date ;
+
+.2 navires-citernes d'une jauge brute égale ou supérieure à 3 000 construits le 1er juillet 2012 ou après cette date ;
+
+.3 navires de charge, autres que les navires-citernes, d'une jauge brute égale ou supérieure à 10 000 construits le 1er juillet 2013 ou après cette date ;
+
+.4 navires de charge, autres que les navires-citernes, d'une jauge brute égale ou supérieure à 3 000 mais inférieure à 10 000 construits le 1er juillet 2014 ou après cette date ;
+
+.5 navires à passagers d'une jauge brute égale ou supérieure à 500 construits avant le 1er juillet 2012, au plus tard à la date de la première visite (*) effectuée le 1er juillet 2014 ou après cette date ;
+
+.6 navires-citernes d'une jauge brute égale ou supérieure à 3 000 construits avant le 1er juillet 2012, au plus tard à la date de la première visite (*) effectuée le 1er juillet 2015 ou après cette date ;
+
+.7 navires de charge, autres que les navires-citernes, d'une jauge brute égale ou supérieure à 50 000 construits avant le 1er juillet 2013, au plus tard à la date de la première visite (*) effectuée le 1er juillet 2016 ou après cette date ;
+
+.8 navires de charge, autres que les navires-citernes, d'une jauge brute égale ou supérieure à 20 000 mais inférieure à 50 000 construits avant le 1er juillet 2013, au plus tard à la date de la première visite (*) effectuée le 1er juillet 2017 ou après cette date ; et
+
+.9 navires de charge, autres que les navires-citernes, d'une jauge brute égale ou supérieure à 10 000 mais inférieure à 20 000 construits avant le 1er juillet 2013, au plus tard à la date de la première visite (*) effectuée le 1er juillet 2018 ou après cette date.
+
+2.11. La commission d'étude compétente peut dispenser de l'application des prescriptions du paragraphe 2.10 les navires qui seront définitivement mis hors service dans les deux ans qui suivent les dates d'application indiquées aux alinéas .5 à .9 du paragraphe 2.10.
+
+(*) Se reporter à l'interprétation uniforme de l'expression première visite mentionnée dans les règles de la Convention SOLAS (MSC.1/Circ.1290).

@@ -14,6 +14,6 @@ Procédure d'agrément des organismes agréés
 
 6. Le ministre chargé du transport maritime de matières dangereuses ou tout organisme délégué par celui-ci, et l'Autorité de sûreté nucléaire contrôlent l'activité des organismes agréés qu'ils ont désignés.
 
-7. L'agrément peut être retiré en tout ou partie par décision motivée du ministre chargé du transport maritime de matières dangereuses, ou de l'Autorité de sûreté nucléaire, selon les attributions précisées au paragraphe 1 de l'article 411-1.09, en cas de manquement grave aux obligations fixées par le présent arrêté ou aux conditions particulières de l'agrément.
+7. L'agrément peut être retiré en tout ou partie par décision motivée du ministre chargé du transport maritime de matières dangereuses, ou de l'Autorité de sûreté nucléaire, selon les attributions précisées au paragraphe 1 de l'article 411-1.09, en cas de manquement grave aux obligations fixées par la présente division ou aux conditions particulières de l'agrément.
 
 8. Le ministre de la défense peut, en vue de couvrir ses besoins, habiliter des organismes compétents pour accorder des certificats, agréments ou homologations prévus par la présente division.

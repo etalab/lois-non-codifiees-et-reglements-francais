@@ -18,7 +18,11 @@ Classement et conditions de transport
 
 - pour approuver l'affectation des artifices de divertissement aux divisions de risque dans les conditions reprises au paragraphe 2.1.3.5 du code IMDG ;
 
-- pour approuver l'emballage dans le cadre de l'instruction d'emballage P101 du paragraphe 4.1.4.1 du code IMDG.
+- pour approuver l'emballage dans le cadre de l'instruction d'emballage P101 du paragraphe 4.1.4.1 du code IMDG;
+
+- pour donner son avis concernant le fonctionnement accidentel des moyens d'amorçage des objets de groupes de compatibilité D et E dans le cadre du nota 2 du 2.1.2.2 du code IMDG lorsqu'il est fait application de l'article 411-1.06 ;
+
+- pour délivrer le certificat prévu dans la disposition spéciale 964 du chapitre 3.3 du code IMDG lorsqu'il est fait application de l'article 411-1.06.
 
 1.2 Pour les matières et objets explosibles entrant en l'état dans les approvisionnements des forces armées, le ministère de la défense (inspection de l'armement pour les poudres et explosifs) effectue, sous sa responsabilité, les opérations visées au paragraphe 1 du présent article. Il peut en être de même, à la requête du demandeur, pour les matières et objets explosibles à caractère militaire n'entrant pas en l'état dans les approvisionnements des forces armées françaises ou non destinées à celles-ci.
 

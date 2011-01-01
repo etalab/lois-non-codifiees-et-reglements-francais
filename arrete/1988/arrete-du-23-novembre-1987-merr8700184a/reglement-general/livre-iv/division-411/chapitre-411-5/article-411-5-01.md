@@ -6,7 +6,9 @@ Documentation pour les envois de marchandises dangereuses
 
 a) La référence ou le numéro de l'exemption ou autorisation délivrée par l'autorité compétente si le transport effectué nécessité une telle exemption ou autorisation ;
 
-b) L'adresse à laquelle des renseignements détaillés sur la cargaison peuvent être obtenus.
+b) L'adresse à laquelle des renseignements détaillés sur la cargaison peuvent être obtenus ;
+
+c) Le numéro d'appel d'urgence du chargeur ou de tout autre personne ou organisme permettant d'obtenir 24 heures sur 24 des informations sur les caractéristiques physico-chimiques des marchandises transportées et sur les mesures à prendre en cas d'urgence.
 
 2. Dans le cadre de l'application des paragraphes 5.4.3.2.1.1 et 5.4.3.2.1.2 du code IMDG, les rubriques appropriées ou documents distincts doivent au moins préciser de façon concise :
 

@@ -1,10 +1,12 @@
 # Article Appendice 213-1.III
 
-MODELE DE REGISTRE DES HYDROCARBURES
+MODÈLE DE REGISTRE DES HYDROCARBURES
 
 REGISTRE DES HYDROCARBURES
 
-PARTIE I - Opérations concernant la tranche des machines (Tous les navires)
+PARTIE I. - Opérations concernant la tranche des machines
+
+(Tous les navires)
 
 Nom du navire :
 
@@ -12,13 +14,13 @@ Numéro ou lettres distinctifs :
 
 Jauge brute :
 
-Période allant du : au :
+Période allant du : ... au : ...
 
-Note : La partie I du registre des hydrocarbures doit être fournie à tout pétrolier d'une jauge brute égale ou supérieure à 150 et à tout navire d'une jauge brute égale ou supérieure à 400 autre qu'un pétrolier, pour l'inscription des opérations pertinentes concernant la tranche des machines. La partie II du registre des hydrocarbures doit être fournie en outre aux pétroliers, pour l'inscription des opérations pertinentes concernant la cargaison et le ballast.
+Note. - La partie I du registre des hydrocarbures doit être fournie à tout pétrolier d'une jauge brute égale ou supérieure à 150 et à tout navire d'une jauge brute égale ou supérieure à 400 autre qu'un pétrolier, pour l'inscription des opérations pertinentes concernant la tranche des machines. La partie II du registre des hydrocarbures doit être fournie en outre aux pétroliers, pour l'inscription des opérations pertinentes concernant la cargaison et le ballast.
 
 Introduction
 
-On trouvera ci-après la liste complète des renseignements sur les opérations concernant la tranche des machines qui doivent, le cas échéant, être consignés dans le registre des hydrocarbures, partie I, conformément à la règle 17 de l'Annexe I de la Convention internationale de 1973 pour la prévention de la pollution par les navires, telle que modifiée par le Protocole de 1978 y relatif (MARPOL 73/78). Les renseignements ont été groupés par opération, chaque opération étant désignée par une lettre.
+On trouvera ci-après la liste complète des renseignements sur les opérations concernant la tranche des machines qui doivent, le cas échéant, être consignés dans le registre des hydrocarbures, partie I, conformément à la règle 17 de l'annexe I de la Convention internationale de 1973 pour la prévention de la pollution par les navires, telle que modifiée par le Protocole de 1978 y relatif (MARPOL 73/78). Les renseignements ont été groupés par opération, chaque opération étant désignée par une lettre.
 
 Pour consigner une opération dans le registre des hydrocarbures, partie I, il faut indiquer dans les colonnes appropriées la date, le code de l'opération et le numéro de la rubrique et inscrire dans les espaces vides les renseignements requis en suivant l'ordre chronologique.
 
@@ -30,220 +32,294 @@ Dans le cas d'un rejet d'hydrocarbures accidentel ou exceptionnel, les circonsta
 
 Toute défaillance du matériel de filtrage des hydrocarbures doit être consignée dans le registre des hydrocarbures, partie I.
 
-Les mentions doivent être portées au moins en anglais, en espagnol ou en français sur le registre des hydrocarbures, partie I, pour les navires possédant un Certificat IOPP. Si les mentions sont aussi portées dans une langue officielle de l'État dont le navire est autorisé à battre le pavillon, cette langue doit prévaloir en cas de différend ou de désaccord.
+Les mentions doivent être portées au moins en anglais, en espagnol ou en français sur le registre des hydrocarbures, partie I, pour les navires possédant un Certificat IOPP. Si les mentions sont aussi portées dans une langue officielle de l'Etat dont le navire est autorisé à battre le pavillon, cette langue doit prévaloir en cas de différend ou de désaccord.
 
 Le registre des hydrocarbures, partie I, doit être conservé dans un endroit où il soit aisément accessible aux fins d'inspection à tout moment raisonnable et, sauf pour les navires remorqués sans équipage, doit se trouver à bord du navire. Il doit être conservé pendant une période de trois ans à compter de la dernière inscription.
 
 L'autorité compétente du gouvernement d'une Partie à la Convention peut inspecter le registre des hydrocarbures, partie I, à bord de tout navire auquel le présent chapitre s'applique pendant que ce navire se trouve dans un de ses ports ou terminaux au large. Elle peut extraire une copie de toute mention portée sur ce registre et exiger que le capitaine du navire en certifie l'authenticité. Toute copie ainsi certifiée par le capitaine du navire doit être considérée, dans toute procédure judiciaire, comme une preuve recevable des faits mentionnés dans le registre des hydrocarbures, partie I. L'inspection du registre des hydrocarbures, partie I, et l'établissement de copies certifiées par l'autorité compétente en vertu du présent paragraphe doivent être effectués le plus rapidement possible et ne pas causer de retard excessif au navire.
 
-LISTE DES RENSEIGNEMENTS A CONSIGNER
+LISTE DES RENSEIGNEMENTS À CONSIGNER
 
-A) Ballastage ou nettoyage des soutes à combustible liquide
+A. - Ballastage ou nettoyage des soutes à combustible liquide :
 
 1. Identification de la ou des soutes ballastées.
 
 2. Indiquer si les soutes ont été nettoyées depuis la dernière fois qu'elles ont contenu des hydrocarbures. Dans la négative, indiquer la nature des hydrocarbures précédemment transportés.
 
-3. Opérations de nettoyage
+3. Processus de nettoyage :
 
-1) position du navire et heure à laquelle le nettoyage a commencé et a été terminé :
+.1 position du navire et heure à laquelle le nettoyage a commencé et a été terminé ;
 
-2) identification de la ou des soutes qui ont été nettoyées par l'une ou l'autre des méthodes suivantes : rinçage complet, nettoyage à la vapeur, nettoyage au moyen de produits chimiques, type et quantité de produits chimiques utilisés, en m3 :
+.2 identification de la ou des soutes qui ont été nettoyées par l'une ou l'autre des méthodes suivantes : rinçage complet, nettoyage à la vapeur, nettoyage au moyen de produits chimiques, type et quantité de produits chimiques utilisés, en m³ ;
 
-3) identification de la ou des soutes dans lesquelles les eaux de nettoyage ont été transférées :
+.3 identification de la ou des soutes dans lesquelles les eaux de nettoyage ont été transférées et quantité en m³.
 
-4. Ballastage
+4. Ballastage :
 
-1) position du navire et heure à laquelle le ballastage a commencé et a été terminé :
+.1 position du navire et heure à laquelle le ballastage a commencé et a été terminé ;
 
-2) quantité de ballast si les citernes ne sont pas nettoyées, en m3 :
+.2 quantité de ballast si les soutes ne sont pas nettoyées, en m³.
 
-B) Rejet des eaux de ballast polluées ou des eaux de nettoyage des soutes à combustible liquide mentionnées à la section A)
+B. - Rejet des eaux de ballast polluées ou des eaux de nettoyage des soutes à combustible liquide mentionnées à la section A.
 
-5. Identification de la ou des soutes :
+5. Identification de la ou des soutes.
 
-6. Position du navire au début du rejet :
+6. Position du navire au début du rejet.
 
-7. Position du navire à la fin du rejet :
+7. Position du navire à la fin du rejet.
 
-8. Vitesse du navire pendant le rejet :
+8. Vitesse du navire pendant le rejet.
 
 9. Méthode de rejet :
 
-1) à l'aide d'un matériel à 15 ppm :
+.1 au moyen du matériel à 15 ppm ;
 
-2) dans une installation de réception.
+.2 dans une installation de réception.
 
-10. Quantité rejetée, en m3 :
+10. Quantité rejetée, en m³.
 
-C) Collecte et élimination des résidus d'hydrocarbures (boues et autres résidus d'hydrocarbures)
+C. - Collecte, transfert et élimination des résidus d'hydrocarbures (boues) :
 
-11. Collecte des résidus d'hydrocarbures.
+11. Collecte des résidus d'hydrocarbures (boues).
 
-Indiquer la quantité de résidus d'hydrocarbures (boues et résidus d'hydrocarbures) conservés à bord. Inscrire les quantités une fois par semaine ( 1 ) : (Cela signifie que la quantité doit être inscrite une fois par semaine, même si le voyage dure plus d'une semaine.)
+Indiquer la quantité de résidus d'hydrocarbures (boues) conservés à bord. Consigner les quantités une fois par semaine (cela signifie que la quantité doit être consignée une fois par semaine (*), même si le voyage dure plus d'une semaine) :
 
-1) identification de la ou des citernes : ...
+.1 identification de la ou des citernes ;
 
-2) capacité de la ou des citernes : m3
+.2 capacité de la ou des citernes m³ ;
 
-(1) Citernes mentionnées au paragraphe 3.1 des modèles A et B du Supplément au Certificat IOPP qui sont utilisées pour les boues.
+.3 quantité totale conservée m³ ;
 
-3) quantité totale conservée : m3
+.4 quantité de résidus recueillie manuellement m³ ;
 
-12. Méthodes d'élimination des résidus.
+(A l'initiative de l'exploitant, collecte manuelle consistant à transférer les résidus d'hydrocarbures (boues) dans la ou les citernes à résidus d'hydrocarbures (boues).
 
-Préciser la quantité de résidus d'hydrocarbures éliminés et indiquer la ou les citernes vidées et la quantité conservée, en m3 :
+(*) Seulement les citernes mentionnées à la rubrique 3.1 des modèles A et B du Supplément au Certificat IOPP qui sont utilisées pour les résidus d'hydrocarbures (boues).
 
-1) évacuation dans une installation de réception (identifier le port) ( 1 ) :
+12. Méthodes de transfert ou d'élimination des résidus d'hydrocarbures (boues).
 
-2) transfert dans une ou plusieurs autres citernes (indiquer la ou les citernes et leur contenu total) ;
+Préciser la quantité de résidus d'hydrocarbures transférés ou éliminés et indiquer la ou les citernes vidées et la quantité conservée, en m³ :
 
-3) incinération (indiquer la durée totale de l'opération) :
+.1 évacuation dans une installation de réception (identifier le port) (*) ;
 
-4) autre méthode (préciser) :
+.2 transport dans une ou plusieurs autres citernes (indiquer la ou les citernes et leur contenu total) ;
 
-D) Rejet non automatique par-dessus bord ou élimination non automatique par d'autres moyens des eaux de cale qui se sont accumulées dans la tranche des machines
+.3 incinération (indiquer la durée totale de l'opération) ;
 
-13. Quantité rejetée ou éliminée, en mètres cubes. (2) :
+.4 autre méthode (préciser).
 
-14. Heure du rejet ou de l'élimination (début et fin de l'opération) :
+(*) Le capitaine du navire devrait obtenir de l'exploitant des installations de réception, qui peuvent comprendre des barges ou des camions-citernes, un reçu ou une attestation spécifiant la quantité d'eaux de nettoyage des citernes, de ballast pollué, de résidus ou de mélanges d'hydrocarbures transférés, ainsi que l'heure et la date du transfert. Ce reçu ou cette attestation, s'il est joint au registre des hydrocarbures, partie I, pourrait aider le capitaine du navire à prouver que le navire n'a pas été impliqué dans un cas présumé de pollution. Le reçu ou l'attestation devrait être conservé avec le registre des hydrocarbures, partie I.
 
-15. Méthode de rejet ou d'élimination :
+D. - Déclenchement non automatique du rejet à la mer, du transfert ou de l'évacuation par d'autres moyens des eaux de cale qui se sont accumulées dans la tranche des machines :
 
-1) à l'aide d'un matériel à 15 ppm (indiquer la position au début et à la fin de l'opération) :
+13. Quantité rejetée, transférée ou évacuée, en m³ (*) :
 
-2) dans une installation de réception (identifier le port) (3) :
+(*) En cas de rejet ou d'élimination d'eaux de cale provenant d'une ou de plusieurs citernes de stockage, identifier cette ou ces citernes et en indiquer la capacité ainsi que la quantité d'eaux qui y est conservée.
 
-3) transfert dans une citerne de décantation ou de stockage (indiquer la ou les citernes et la quantité totale conservée dans la ou les citernes, en m3) :
+14. Heure du rejet, du transfert ou de l'évacuation (début et fin de l'opération).
 
-E) Rejet automatique par-dessus bord ou élimination automatique par d'autres moyens des eaux de cale qui se sont accumulées dans la tranche des machines
+15. Méthode de rejet, de transfert ou d'évacuation :
 
-16. Heure et position du navire au moment où le système a été mis en marche automatique pour le rejet par-dessus bord, à l'aide d'un matériel à 15 ppm :
+.1 au moyen du matériel à 15 ppm (indiquer la position au début et à la fin de l'opération) ;
 
-17. Heure à laquelle le système a été mis en marche automatique pour le transfert des eaux de cale dans la citerne de stockage (identifier la citerne) :
+.2 dans une installation de réception (identifier le port) (*) ;
 
-18. Heure de mise en service manuelle du système :
+3. Dans une citerne de décantation, une citerne de stockage ou autre(s) citerne(s) (indiquer la ou les citernes et la quantité totale conservée dans la ou les citernes, en m³).
 
-(1) Les capitaines des navires devraient obtenir de l'exploitant des installations de réception, qui peuvent comprendre des barges ou des camions-citernes, un reçu ou une attestation spécifiant la quantité d'eaux de nettoyage des citernes, de ballast pollué, de résidus ou de mélanges d'hydrocarbures transférés, ainsi que l'heure et la date du transfert. Ce reçu ou cette attestation, s'il est joint au registre des hydrocarbures, partie I, pourrait aider le capitaine du navire à prouver que son navire n'a pas été impliqué dans un cas présumé de pollution. Le reçu ou l'attestation devrait être conservé avec le registre des hydrocarbures, partie I.
+(*) Le capitaine du navire devrait obtenir de l'exploitant des installations de réception, qui peuvent comprendre des barges ou des camions-citernes, un reçu ou une attestation spécifiant la quantité d'eaux de nettoyage des citernes, de ballast pollué, de résidus ou de mélanges d'hydrocarbures transférés, ainsi que l'heure et la date du transfert. Ce reçu ou cette attestation, s'il est joint au registre des hydrocarbures, partie I, pourrait aider le capitaine du navire à prouver que le navire n'a pas été impliqué dans un cas présumé de pollution. Le reçu ou l'attestation devrait être conservé avec le registre des hydrocarbures, partie I.
 
-(2) En cas de rejet ou d'élimination d'eaux de cale provenant d'une (de) citerne(s) de stockage, identifier cette ou ces citernes et en indiquer la capacité ainsi que la quantité conservée dans cette ou ces citernes.
+E. - Déclenchement automatique du rejet à la mer, du transfert ou de l'évacuation par d'autres moyens des eaux de cale qui se sont accumulées dans la tranche des machines :
 
-(3) Les capitaines des navires devraient obtenir de l'exploitant des installations de réception, qui peuvent comprendre des barges ou des camions-citernes, un reçu ou une attestation spécifiant la quantité d'eaux de nettoyage des citernes, de ballast pollué, de résidus ou de mélanges d'hydrocarbures transférés, ainsi que l'heure et la date du transfert. Ce reçu ou cette attestation, s'il est joint au registre des hydrocarbures, partie I, pourrait aider le capitaine du navire à prouver que son navire n'a pas été impliqué dans un cas présumé de pollution. Le reçu ou l'attestation devrait être conservé avec le registre des hydrocarbures, partie I.
+16. Heure et position du navire au moment de la mise en marche automatique du dispositif pour le rejet à la mer, au moyen du matériel à 15 ppm.
 
-F) État du matériel de filtrage des hydrocarbures
+17. Heure de la mise en marche automatique du dispositif pour le transfert des eaux de cale dans la citerne de stockage (identifier la citerne).
 
-19. Heure de la défaillance du dispositif (*) :
+18. Heure de la mise en marche manuelle du système.
+
+F. - Etat du matériel de filtrage des hydrocarbures :
+
+19. Heure de la défaillance du dispositif (*).
+
+(*) L'état du matériel de filtrage des hydrocarbures recouvre aussi celui des dispositifs d'alarme et d'arrêt automatique, le cas échéant.
 
 20. Heure à laquelle le dispositif a été remis en service.
 
 21. Cause de la défaillance.
 
-G) Rejets accidentels ou exceptionnels d'hydrocarbures
+G. - Rejets accidentels ou exceptionnels d'hydrocarbures :
 
-22. Heure à laquelle le rejet s'est produit :
+22. Heure à laquelle le rejet s'est produit.
 
-23. Lieu où, ou position du navire lorsque le rejet s'est produit :
+23. Lieu où se trouvait le navire ou position du navire lorsque le rejet s'est produit.
 
-24. Quantité approximative et type d'hydrocarbures :
+24. Quantité approximative et type d'hydrocarbures.
 
-25. Circonstances et motifs du rejet ou de la fuite et remarques générales :
+25. Circonstances et motifs du rejet ou de la fuite et remarques générales.
 
-H) Soutage du combustible liquide ou de l'huile de graissage
+H. - Soutage du combustible liquide ou de l'huile de graissage :
 
-26. Soutage
+26. Soutage :
 
-1) Lieu du soutage :
+.1 lieu du soutage ;
 
-2) Heure du soutage :
+.2 heure du soutage ;
 
-3) Type et quantité de combustible liquide et identification de la ou des citernes (indiquer la quantité ajoutée, en tonnes, et la quantité totale contenue dans la ou les citernes) :
+.3 type et quantité de combustible liquide et identification de la ou des soutes (indiquer la quantité ajoutée, en tonnes, et la quantité totale contenue dans la ou les soutes) ;
 
-4) Type et quantité d'huile de graissage et identification de la ou des citernes (indiquer la quantité ajoutée, en tonnes, et le contenu total de la ou des citernes.) :
+.4 type et quantité d'huile de graissage et identification de la ou des caisses (indiquer la quantité ajoutée, en tonnes, et le contenu total de la ou des caisses).
 
-I) Opérations supplémentaires et remarques générales
+I. - Opérations supplémentaires et remarques générales :
 
 Nom du navire :
 
 Numéro ou lettres distinctifs :
 
-(*) L'état du matériel de filtrage des hydrocarbures recouvre aussi celui des dispositifs d'alarme et d'arrêt automatique, le cas échéant.
-
-OPERATIONS CONCERNANT LA TRANCHE DES MACHINES
+OPÉRATIONS CONCERNANT LA TRANCHE DES MACHINES
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="113">
+<td width="113">
 <p align="center">Date</p>
 </td>
-<td valign="top" width="113">
+<td width="113">
 <p align="center">Code (lettre)</p>
 </td>
-<td valign="top" width="113">
+<td width="113">
 <p align="center">Rubrique (numéro)</p>
 </td>
-<td valign="top" width="265">
+<td width="340">
 <p align="center">Operation/signature de l'officier responsable</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
-</tr>
-<tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
-</tr>
-<tr>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="113"/>
-<td valign="top" width="265"/>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
+<br/>
+</td>
+<td width="340">
+<br/>
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
-
-Signature du capitaine :
 
 PARTIE II - Opérations concernant la cargaison et le ballast (Pétroliers)
 
@@ -339,7 +415,7 @@ D) Lavage au pétrole brut (uniquement pour les navires-citernes équipés d'un 
 
 15. Heure à laquelle le lavage a été terminé ou interrompu :
 
-16. Indiquer la méthode employée pour déterminer que la ou les citernes étaient :sèches :
+16. Indiquer la méthode employée pour déterminer que la ou les citernes étaient sèches :
 
 17. Remarques (3) :
 
@@ -447,21 +523,21 @@ I) Rejet à la mer des eaux des citernes de décantation
 
 (1) Les capitaines des navires devraient obtenir de l'exploitant des installations de réception, qui peuvent comprendre des barges ou des camions-citernes, un reçu ou une attestation spécifiant la quantité d'eaux de nettoyage des citernes, de ballast pollué, de résidus ou de mélanges d'hydrocarbures transférés, ainsi que l'heure et la date du transfert. Ce reçu ou cette attestation, s'il est joint au registre des hydrocarbures, partie II, pourrait aider le capitaine du navire à prouver que son navire n'a pas été impliqué dans un cas présumé de pollution. Le reçu ou l'attestation devrait être conservé avec le registre des hydrocarbures, partie II.
 
-J) Elimination des résidus et des mélanges d'hydrocarbures qui n'ont pas été éliminés par d'autres moyens
+J. - Collecte, transfert et élimination des résidus et des mélanges d'hydrocarbures qui n'ont pas été traités par d'autres moyens :
 
-55. Identification de la ou des citernes :
+55. Identification des citernes.
 
-56. Quantité éliminée de chaque citerne (préciser la quantité conservée, en m3) :
+56. Quantité transférée ou évacuée de chaque citerne (préciser la quantité conservée, en m³).
 
-57. Méthode d'élimination :
+57. Méthode de transfert ou d'évacuation :
 
-1) dans des installations de réception (identifier le port et indiquer la quantité rejetée, en m3) (1) :
+.1 évacuation dans des installations de réception (identifier le port et indiquer la quantité rejetée) ;
 
-2) mélange avec la cargaison (indiquer la quantité) :
+.2 mélange avec la cargaison (indiquer la quantité) ;
 
-3) transfert dans une ou plusieurs autres citernes (identifier la ou les citernes ; indiquer la quantité transférée et la quantité totale contenue dans la ou les citernes, en m3) ; et
+.3 transfert depuis ou vers une ou plusieurs autres citernes, y compris transfert depuis des citernes à résidus d'hydrocarbures (boues) et eaux de cale polluées provenant de la tranche des machines (identifier la ou les citernes ; indiquer la quantité transférée et la quantité totale se trouvant dans la ou les citernes, en m³) ; et
 
-4) autre méthode (préciser) ; indiquer la quantité éliminée, en m3 :
+.4 Autre méthode (préciser) ; indiquer la quantité éliminée en m³.
 
 K) Rejet des eaux de ballast propre contenues dans les citernes à cargaison
 
@@ -566,98 +642,126 @@ OPERATIONS CONCERNANT LA CARGAISON ET LE BALLAST (PETROLIERS)
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
@@ -767,98 +871,126 @@ OPERATIONS CONCERNANT LA TRANCHE DES MACHINES, LA CARGAISON ET LE BALLAST
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 <td width="340">
+<br/>
 <br/>
 </td>
 </tr>

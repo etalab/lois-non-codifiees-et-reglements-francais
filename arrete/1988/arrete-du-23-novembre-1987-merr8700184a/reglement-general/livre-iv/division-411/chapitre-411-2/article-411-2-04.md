@@ -4,7 +4,7 @@ Agrément, certification de la production et inspection et épreuve périodiques
 
 1. Récipients à pression autres que les récipients "UN" et récipients "UN" soumis au décret du 3 mai 2001 susvisé.
 
-Dans le cadre de la mise en œuvre du chapitre 6.2 du code IMDG, les récipients à pression autres que les récipients "UN" ainsi que les récipients "UN" soumis au décret du 3 mai 2001 susvisé doivent répondre aux prescriptions de l'arrêté TMD. Dans ce contexte, l'autorité compétente est celle définie pour ces récipients dans l'arrêté TMD.
+Dans le cadre de la mise en œuvre du chapitre 6.2 du code IMDG, les récipients à pression autres que les récipients "UN" ainsi que les récipients "UN" soumis au décret n° 2001-386 du 3 mai 2001 modifié relatif aux équipements sous pression transportables doivent répondre aux prescriptions de l'arrêté TMD. Dans ce contexte, l'autorité compétente est celle définie pour ces récipients dans l'arrêté TMD.
 
 2. Récipients à pression "UN" non soumis au décret n° 2001-386 du 3 mai 2001 modifié relatif aux équipements sous pression transportables.
 

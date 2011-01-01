@@ -8,8 +8,6 @@ Renseignements sur la cargaison
 
 .1 dans le cas de marchandises diverses et de marchandises transportées dans des engins de transport, une description générale de la cargaison, la masse brute des marchandises ou des engins de transport et toutes propriétés spéciales pertinentes des marchandises ;
 
-.2 dans le cas d'une cargaison en vrac, des renseignements sur le coefficient d'arrimage de la cargaison, les méthodes d'arrimage, les probabilités de ripage, y compris l'angle de repos, le cas échéant, et toutes autres propriétés spéciales pertinentes. Dans le cas d'une cargaison de concentrés ou autre cargaison qui peut se liquéfier, des renseignements supplémentaires, sous forme de certificat, sur la teneur en humidité de la cargaison et sur sa teneur limite en humidité admissible aux fins du transport ;
-
-.3 dans le cas d'une cargaison en vrac qui n'est pas classée en conformité des dispositions du code IMDG, tel que défini à l'article 221-VII/1.1, mais qui peut présenter un risque du fait de ses propriétés chimiques, outre les renseignements prescrits aux alinéas ci-dessus, des renseignements sur ses propriétés chimiques.
+2. Dans le cas d'une cargaison solide en vrac, les renseignements prescrits à la section 4 du code IMSBC et, le cas échéant, ceux requis par l'article 423-1.08 du présent règlement.
 
 3 Avant le chargement des engins de transport à bord des navires, le chargeur doit s'assurer que la masse brute de ces engins correspond à la masse brute déclarée sur les documents de transport.

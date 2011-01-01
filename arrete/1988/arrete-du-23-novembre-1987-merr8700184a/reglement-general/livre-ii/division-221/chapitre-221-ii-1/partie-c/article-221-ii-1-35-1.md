@@ -34,6 +34,8 @@ Lorsque ces pompes aspirent au collecteur d'assèchement, leur débit doit satis
 
 A bord de chaque navire, un plan détaillé des systèmes de tuyautages d'assèchement et de ballast doit être placé d'une manière apparente, dans un endroit où le personnel qualifié puisse le consulter aisément. Les indications portées sur ce plan doivent être rédigées en français ou dans la langue de travail utilisée à bord. La signification des symboles employés doit être clairement indiquée.
 
+2.6.3. Les moyens prévus pour l'assèchement des locaux à véhicules et espaces rouliers fermés et des locaux de catégorie spéciale doivent aussi satisfaire aux dispositions des règles 221-II-2/20.6.1.4 et 221-II-2/20.6.1.5.
+
 3 Navires à passagers
 
 3.1 Le système de pompage prescrit au paragraphe 2.1 doit pouvoir fonctionner dans toutes les conditions de service du navire à la suite d'une avarie, que le navire soit droit ou incliné. A cet effet, des aspirations latérales doivent en général être prévues, sauf dans les parties resserrées aux extrémités du navire où une seule aspiration peut être considérée comme suffisante. Dans les compartiments qui ne sont pas d'une forme usuelle, des aspirations supplémentaires peuvent être exigées. On doit prendre les dispositions nécessaires pour assurer l'écoulement de l'eau vers les aspirations du compartiment. Lorsque l'Administration admet, pour certains compartiments, que les dispositifs d'assèchement risquent d'être inopportuns, elle peut dispenser de l'application de cette prescription, si les calculs faits suivant les termes des articles 221-II-1/07 et 221-II-1/08 démontrent que la capacité de survie du navire n'en sera pas réduite.
