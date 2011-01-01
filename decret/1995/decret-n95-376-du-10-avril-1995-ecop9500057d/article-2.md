@@ -1,5 +1,0 @@
-# Article 2
-
-Le corps des contrôleurs de l'Institut national de la statistique et des études économiques comprend les grades de contrôleur de 2e classe, contrôleur de 1re classe et contrôleur principal.
-
-Ces grades sont respectivement assimilés à la classe normale, à la classe supérieure et à la classe exceptionnelle prévues à l'article 1er du décret du 18 novembre 1994 susvisé.
