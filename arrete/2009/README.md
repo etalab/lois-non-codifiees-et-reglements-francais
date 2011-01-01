@@ -1242,7 +1242,6 @@
 - [Arrêté du 16 décembre 2009 (AGRM0930482A)](arrete-du-16-decembre-2009-agrm0930482a)
 - [Arrêté du 16 décembre 2009 (BCFL0931300A)](arrete-du-16-decembre-2009-bcfl0931300a)
 - [Arrêté du 16 décembre 2009 (CPTP0900056A)](arrete-du-16-decembre-2009-cptp0900056a)
-- [Arrêté du 16 décembre 2009 (DEFD0930701A)](arrete-du-16-decembre-2009-defd0930701a)
 - [Arrêté du 16 décembre 2009 (DEVN0929543A)](arrete-du-16-decembre-2009-devn0929543a)
 - [Arrêté du 16 décembre 2009 (ECEP0928098A)](arrete-du-16-decembre-2009-ecep0928098a)
 - [Arrêté du 16 décembre 2009 (IOCE0930714A)](arrete-du-16-decembre-2009-ioce0930714a)
