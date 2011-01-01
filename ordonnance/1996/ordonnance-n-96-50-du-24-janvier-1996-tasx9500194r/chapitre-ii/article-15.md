@@ -14,7 +14,7 @@ III. - Sont également assujettis à la contribution dans les conditions et selo
 
 1° Les revenus d'activité et de remplacement de source étrangère perçus à compter du 1er février 1996 et soumis en France à l'impôt sur le revenu. Pour l'application de ces dispositions, le 3° de l'article 83 et le a du 5 de l'article 158 du code général des impôts ne sont pas applicables. La déclaration prévue à l'article 170 du code général des impôts mentionne distinctement les revenus concernés ;
 
-2° Les sommes soumises à l'impôt sur le revenu en application des articles 168, 1649 A et 1649 quater A du code général des impôts et L. 69 du livre des procédures fiscales ;
+2° Les sommes soumises à l'impôt sur le revenu en application des articles 168, 1649 A, 1649 quater A, 1649 quater-0 B bis et 1649 quater-0 B ter du code général des impôts et L. 69 du livre des procédures fiscales ;
 
 2° bis Les sommes soumises à l'impôt sur le revenu en application du 1° de l'article L. 66 du livre des procédures fiscales et qui ne sont pas assujetties à la contribution en vertu d'une autre disposition ;
 

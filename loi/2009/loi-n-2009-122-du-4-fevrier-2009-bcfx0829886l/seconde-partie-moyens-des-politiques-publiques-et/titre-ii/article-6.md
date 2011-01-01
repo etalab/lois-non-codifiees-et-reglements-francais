@@ -12,7 +12,7 @@ La garantie de l'Etat ne peut bénéficier qu'aux financements relatifs aux opé
 
 3° Les ouvrages ou équipements dont la réalisation est prévue par le contrat sont situés en France ;
 
-4° Le contrat doit être conclu avant le 31 décembre 2010.
+4° Le contrat doit être conclu avant le 31 décembre 2010, ou le ministre mentionné au I doit avoir déclaré le projet éligible au  dispositif de garantie au plus tard le 10 novembre 2010.
 
 III. ― La garantie accordée par l'Etat en application du présent article ne peut excéder 80 % du montant des prêts ou titres de créances mentionnés au premier alinéa du II. Le bénéfice de l'octroi de la garantie de l'Etat en application du présent article donne lieu au versement à l'Etat d'une rémunération fixée par arrêté du ministre chargé de l'économie et calculée par référence aux conditions normales de tarification de la couverture de risques comparables.
 

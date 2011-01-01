@@ -36,19 +36,15 @@ Elle est exigible à la date de la représentation.
 
 V. - Le taux de la taxe est de 3,5 %.
 
-VI. - L'entrepreneur de spectacles déclare à la Société des auteurs, compositeurs et éditeurs de musique (SACEM) ou à la Société des auteurs et compositeurs dramatiques (SACD) les droits d'entrée des spectacles relevant de leurs répertoires respectifs tels que définis dans leurs statuts, selon un formulaire conforme à un modèle établi par l'Association pour le soutien du théâtre privé, au plus tard le dernier jour du troisième mois qui suit la représentation.
+VI. - Lorsque le spectacle donne lieu à perception d'un droit d'entrée,  l'entrepreneur responsable de la billetterie déclare à l'Association pour le  soutien du théâtre privé les droits d'entrée qu'il a perçus selon un formulaire  conforme à un modèle de déclaration établi par cette dernière, au plus tard le  dernier jour du troisième mois qui suit la représentation.
 
-Toutefois, l'entrepreneur déclare, dans les mêmes conditions, directement à l'association les droits d'entrée ou le montant de la cession ou de la concession du droit d'exploitation lorsque la SACD n'est pas chargée de percevoir les droits d'auteur. Il en va de même lorsque les spectacles relevant du répertoire de la SACEM ne donnent pas lieu à perception d'un droit d'entrée ou perception de droits d'auteur par la SACEM.
+Lorsque le  spectacle ne donne pas lieu à perception d'un droit d'entrée, l'entrepreneur qui  cède le spectacle déclare, dans les mêmes conditions de forme et de délais,  auprès de l'Association pour le soutien du théâtre privé, les sommes qu'il a  perçues en contrepartie de la cession ou de la concession du droit  d'exploitation du spectacle.
 
-La SACD, la SACEM ou l'association procède à la liquidation de la taxe et adresse à l'entrepreneur dans les quinze jours de la réception de la déclaration un avis des sommes à payer. Au vu de l'avis, l'entrepreneur adresse le paiement à la SACD, la SACEM ou l'association. La SACD et la SACEM adressent à l'association les déclarations et les paiements y afférents. Elles lui transmettent également les déclarations reçues hors délais.
+L'Association pour le soutien du théâtre privé  procède à la liquidation de la taxe et adresse au redevable dans les quinze  jours de la réception de la déclaration un avis des sommes à payer. Elle assure  le recouvrement de la taxe.
 
-Dans tous les cas, l'association assure le recouvrement de la taxe.
+La date limite de paiement est fixée au dernier  jour du mois qui suit la date d'émission de cet avis.
 
-La date limite de paiement est fixée au dernier jour du mois qui suit la date d'émission de l'avis des sommes à payer.
-
-La taxe n'est pas recouvrée lorsque le montant cumulé sur l'année civile dû par le redevable est inférieur à 80 Euros.
-
-L'Association pour le soutien du théâtre privé acquitte à la SACEM et à la SACD un versement représentatif des frais de gestion dont le montant toutes taxes comprises est fixé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la culture dans la limite de 5 % du produit de la taxe.
+La taxe n'est pas  recouvrée lorsque le montant cumulé sur l'année civile dû par le redevable est  inférieur à 80 €.
 
 VII. - En cas de retard de paiement de la taxe, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le dirigeant de l'association, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 

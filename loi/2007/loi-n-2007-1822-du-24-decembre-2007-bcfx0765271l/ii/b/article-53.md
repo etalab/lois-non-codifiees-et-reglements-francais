@@ -8,15 +8,17 @@ II. - Les impôts et taxes mentionnés au I sont :
 
 2° La contribution mentionnée à l'article 235 ter ZC du même code ;
 
-2° bis En 2009, une fraction du droit de consommation sur les tabacs mentionné à l'article 575 du code général des impôts, déterminée par l'article 6 de la loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 (1);
+2° bis (Abrogé)
 
 3° La taxe sur la valeur ajoutée brute collectée par les producteurs de boissons alcoolisées.
 
-3° Une fraction du droit de consommation sur les tabacs mentionné à l'article 575 du code général des impôts, déterminée par l'article 61 de la loi n° 2004-1484 du 30 décembre 2004 de finances pour 2005.
+4° Une fraction du droit de consommation sur les tabacs mentionné à l'article  575 du code général des impôts, déterminée par l'article 61 de la loi n°  2004-1484 du 30 décembre 2004 de finances pour 2005.
+
+Toutefois, en 2010,  cette fraction est celle fixée au h de l'article 82 de la loi n° 2010-1658 du 29  décembre 2010 de finances rectificative pour 2010.
 
 III. - Les impôts et taxes mentionnés au II sont affectés aux caisses et régimes de sécurité sociale énumérés au 1 du III de l'article L. 131-8 du code de la sécurité sociale, ainsi qu'à la Caisse nationale des industries électriques et gazières, au port autonome de Strasbourg et à la Caisse nationale de retraites des agents des collectivités locales.
 
-Ces caisses et régimes bénéficient chacun d'une quote-part des recettes mentionnées au II du présent article fixée par arrêté des ministres chargés du budget et de la sécurité sociale au prorata de leur part relative dans la perte de recettes résultant des mesures d'allègement de cotisations sociales mentionnées au I.L'Agence centrale des organismes de sécurité sociale est chargée de centraliser le produit des taxes et impôts mentionnés au II et d'effectuer sa répartition entre les caisses et régimes de sécurité sociale conformément à cet arrêté.
+Ces caisses et régimes bénéficient chacun d'une quote-part des recettes mentionnées au II du présent article fixée par arrêté des ministres chargés du budget et de la sécurité sociale au prorata de leur part relative dans la perte de recettes résultant des mesures d'allègement de cotisations sociales mentionnées au I. L'Agence centrale des organismes de sécurité sociale est chargée de centraliser le produit des taxes et impôts mentionnés au II et d'effectuer sa répartition entre les caisses et régimes de sécurité sociale conformément à cet arrêté.
 
 Un arrêté des ministres chargés du budget, de la sécurité sociale et de l'agriculture adapte les règles comptables prises en application de l'article L. 114-5 du code de la sécurité sociale pour le rattachement des impôts et des taxes mentionnés au II.
 

@@ -1,0 +1,5 @@
+# CHAPITRE VI : LES OBLIGATIONS DES OPERATEURS AGREES DE JEUX EN LIGNE  ET LA LUTTE CONTRE LE BLANCHIMENT
+
+- [Article 23](article-23.md)
+- [Article 24](article-24.md)
+- [Article 25](article-25.md)

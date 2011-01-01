@@ -10,10 +10,12 @@ III. - Chaque année avant le 15 septembre, le Gouvernement remet aux commission
 
 a) L'activité du Fonds monétaire international au cours de son dernier exercice budgétaire, notamment les actions entreprises par le Fonds monétaire international pour assurer un suivi de la situation économique des Etats membres qui font appel à son concours ;
 
-b) L'activité de la Banque mondiale au cours de son dernier exercice budgétaire, notamment les actions entreprises par la Banque mondiale pour assurer un suivi de la situation économique des Etats qui font appel à son concours et un suivi des projets qui ont bénéficié de ses financements ;
+b) L'activité des banques multilatérales de développement  au cours de leur dernier exercice budgétaire, notamment les actions entreprises pour assurer un suivi de la situation économique des Etats qui font appel à leur concours et un suivi des projets qui ont bénéficié de leurs financements ;
 
-c) Les décisions adoptées par les instances dirigeantes du Fonds monétaire international : conseil d'administration, conseil intérimaire, conseil des gouverneurs, et les instances dirigeantes de la Banque mondiale ;
+c) Les décisions adoptées par les instances dirigeantes de ces institutions  financières internationales ;
 
 d) Les positions défendues par la France au sein de ces instances dirigeantes ;
 
-e) L'ensemble des opérations financières réalisées entre la France et le Fonds monétaire international, d'une part, entre la France et la Banque mondiale, d'autre part.
+e) L'ensemble des opérations financières réalisées entre la France et ces  institutions financières internationales ;
+
+f) L'analyse de la situation financière, à la clôture du dernier exercice, de  ces institutions financières internationales et le montant de la participation  française au sein de ces institutions financières internationales.

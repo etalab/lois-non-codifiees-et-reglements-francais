@@ -1,0 +1,5 @@
+# Article 66
+
+L'Etat conclut une convention pluriannuelle avec les personnes morales titulaires de droits exclusifs en matière d'offre publique de jeux et paris sur le fondement de l'article 5 de la loi du 2 juin 1891 précitée, de l'article 136 de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933 et de l'article 42 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984). Cette convention concerne l'organisation et l'exploitation des jeux et paris pour lesquels ces personnes disposent de droits exclusifs et fixe notamment les modalités d'application, par ces personnes, de l'article 3 de la présente loi.
+
+Cette convention détermine également les modalités de fixation des frais d'organisation exposés par la personne morale titulaire de droits exclusifs en matière d'offre publique de jeux et paris sur le fondement de l'article 136 de la loi du 31 mai 1933 précitée et de l'article 42 de la loi de finances pour 1985 précitée, ainsi que les modalités de couverture des risques d'exploitation liés aux activités au titre desquelles ces droits exclusifs lui ont été conférés.
