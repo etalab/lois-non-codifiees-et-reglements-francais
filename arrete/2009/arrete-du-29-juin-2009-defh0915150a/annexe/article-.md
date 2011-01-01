@@ -1,29 +1,29 @@
 # Article 
 
-A N N E X E
-
 LISTE DES DOMAINES TECHNIQUES
 
 Dans le cadre de l'option technique choisie par le candidat, figurent les domaines techniques suivants :
 
-― architectures et techniques des systèmes aéronautiques ;
+- architectures et techniques des systèmes aéronautiques ;
 
-― architectures et techniques des systèmes de commandement, communication, conduite et renseignement ;
+- architectures et techniques des systèmes de commandement, communication, conduite et renseignement ;
 
-― architectures et techniques des systèmes navals ;
+- architectures et techniques des systèmes navals ;
 
-― architectures et techniques des systèmes terrestres ;
+- architectures et techniques des systèmes terrestres ;
 
-― capteurs guidage et navigation ;
+- capteurs guidage et navigation ;
 
-― missiles, armes et techniques nucléaires de défense ;
+- hydrographie et océanographie ;
 
-― matériaux et composants ;
+- missiles, armes et techniques nucléaires de défense ;
 
-― systèmes de systèmes ;
+- matériaux et composants ;
 
-― sciences de l'homme et protection ;
+- systèmes de systèmes ;
 
-― sécurité des systèmes d'information ;
+- sciences de l'homme et protection ;
 
-― télécommunications.
+- sécurité des systèmes d'information ;
+
+- télécommunications.
