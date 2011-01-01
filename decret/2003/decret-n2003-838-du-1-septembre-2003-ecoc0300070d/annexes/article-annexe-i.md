@@ -14,7 +14,7 @@ b) Jus de fruits obtenus à partir d'un concentré :
 
 Le produit obtenu en remettant dans le jus de fruits concentré l'eau extraite du jus lors de la concentration, ainsi qu'en restituant les arômes et, le cas échéant, les pulpes et les cellules que le jus a perdus mais qui ont été récupérés lors du processus de production du jus de fruits dont il s'agit ou de jus de fruits de la même espèce. L'eau ajoutée doit présenter des caractéristiques appropriées, notamment du point de vue chimique, microbiologique et organoleptique, de façon à garantir les qualités essentielles du jus.
 
-Le produit ainsi obtenu doit présenter des caractéristiques organoleptiques et analytiques au moins équivalentes à celles d'un type moyen de jus obtenu à partir de fruits de la même espèce au sens du point a.
+Le produit ainsi obtenu doit présenter des caractéristiques organoleptiques et analytiques au moins équivalentes à celles d'un type moyen de jus obtenu à partir de fruits de la même espèce au sens du point a. Les valeurs Brix minimales applicables aux jus de fruits à base de concentré figurent à l'annexe V.
 
 2. Jus de fruits concentré :
 
