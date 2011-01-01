@@ -7,3 +7,7 @@ La commission est présidée par le directeur général de la gendarmerie nation
 En cas de partage égal des voix, celle du président est prépondérante.
 
 La commission présente au ministre de l'intérieur ses propositions d'inscription aux tableaux d'avancement aux grades d'officiers supérieurs et ses propositions pour le recrutement au titre de l'article 11.
+
+Elle procède, au préalable, à un examen approfondi de la valeur professionnelle des militaires susceptibles d'être promus compte tenu, notamment, de l'ordre de préférence, des notations et des propositions des supérieurs hiérarchiques et de l'appréciation portée sur leur manière de servir.
+
+L'appréciation de la valeur professionnelle peut également prendre en compte les difficultés des emplois occupés et les responsabilités particulières qui s'y attachent, ainsi que, le cas échéant, les actions de formation continue suivies ou dispensées par le militaire.
