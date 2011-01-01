@@ -2,9 +2,9 @@
 
 A. Paragraphe modificateur
 
-B. - I. - Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser, à chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, la perte de recettes résultant de la réduction progressive prévue au A. A compter de 2011, le prélèvement sur les recettes de l'Etat destiné à compenser la perte de recettes s'applique uniquement aux communes ou aux groupements dotés d'une fiscalité propre.
+B.-I.-Il est institué un prélèvement sur les recettes de l'Etat destiné à compenser, à chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, la perte de recettes résultant de la réduction progressive prévue au A.
 
-II. - A compter de 2003, la compensation prévue au I est égale, chaque année, au produit obtenu en multipliant la perte de base résultant, pour chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, de la réduction de la fraction imposable des recettes visée au 2° de l'article 1467 du code général des impôts par le taux de taxe professionnelle de la collectivité et de l'établissement public de coopération intercommunale pour 2002.
+II.-A compter de 2003, la compensation prévue au I est égale, chaque année, au produit obtenu en multipliant la perte de base résultant, pour chaque collectivité locale et établissement public de coopération intercommunale à fiscalité propre, de la réduction de la fraction imposable des recettes visée au 2° de l'article 1467 du code général des impôts par le taux de taxe professionnelle de la collectivité et de l'établissement public de coopération intercommunale pour 2002.
 
 La perte de base visée au premier alinéa est égale, pour chaque collectivité ou établissement public de coopération intercommunale à fiscalité propre, à la différence entre les bases nettes imposables au titre de 2003 telles qu'elles auraient été fixées sans réduction de la fraction imposable des recettes prévue au 2° de l'article 1467 précité et les bases nettes imposables au titre de 2003 tenant compte de la fraction mentionnée au deuxième alinéa du 2° de l'article 1467 précité applicable à l'année concernée.
 
@@ -22,12 +22,8 @@ Au titre de 2009, la compensation calculée selon les dispositions qui précède
 
 Au titre de 2010, la compensation calculée selon les dispositions qui précèdent et à laquelle est appliqué le taux d'évolution fixé au titre des années 2008 et 2009 est minorée par application d'un taux correspondant à l'écart entre le montant total à verser en 2009 au titre de l'ensemble des compensations mentionnées aux I à VIII de l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 et le montant total de ces mêmes compensations prévu à cette fin pour 2010 par le IX de ce même article.
 
-A compter de 2011, la compensation visée aux alinéas précédents versée au profit des communes et des établissements publics de coopération intercommunale ne peut être supérieure à la compensation de l'année 2010.
+III.-La compensation prévue au I fait l'objet de versements mensuels.
 
-Pour les établissements publics de coopération intercommunale soumis pour la première fois à compter de 2012 à l'article 1609 nonies C ou à l'article 1609 quinquies C du code général des impôts dans leur rédaction en vigueur au 1er janvier 2011, la compensation est calculée en retenant le taux moyen pondéré des communes membres de l'établissement public de coopération intercommunale.
-
-Le taux moyen pondéré est déterminé par le rapport de la somme des compensations versées aux communes membres au titre de l'année précédant la première année d'application des articles 1609 nonies C ou 1609 quinquies C du même code en vigueur au 1er janvier 2011 et de la somme des bases exonérées ou des abattements appliqués au titre de l'année précédant cette même première année d'application.
-
-III. - La compensation prévue au I fait l'objet de versements mensuels.
+A compter de 2011, les prélèvements sur les recettes de l'Etat destinés à compenser les pertes de recettes subies par les collectivités territoriales et leurs groupements dotés d'une fiscalité propre sont intégrés aux dotations définies pour les départements au XVIII du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, pour les régions au XIX du même 8 et pour les communes ou leurs groupements dotés d'une fiscalité propre au I du III de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
 C. Paragraphe modificateur
