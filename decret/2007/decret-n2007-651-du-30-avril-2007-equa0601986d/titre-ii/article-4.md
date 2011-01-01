@@ -1,32 +1,32 @@
 # Article 4
 
-Le conseil d'administration est composé de vingt membres :
+Le conseil d'administration est composé de vingt-cinq membres ainsi répartis :
 
-1° Représentants de l'Etat :
+1° Six représentants de l'Etat, dont :
 
-- un membre du Conseil général des ponts et chaussées ;
+― le directeur de la recherche et de l'innovation du ministère chargé des transports, membre de droit, ou son représentant ;
 
-- quatre directeurs d'administration centrale ou chefs de service à compétence nationale de la direction générale de l'aviation civile, ou leurs représentants ;
+― un membre du conseil général de l'environnement et du développement durable, ou son représentant ;
 
-- le directeur de la recherche et des affaires scientifiques et techniques du ministère chargé des transports ou son représentant ;
+― quatre directeurs d'administration centrale ou chefs de service à compétence nationale de la direction générale de l'aviation civile, ou leurs représentants ;
 
-2° Personnalités :
+2° Un représentant de la région Midi-Pyrénées désigné en son sein par le conseil régional ;
 
-- quatre personnalités qualifiées désignées en raison de leur compétence, issues des branches professionnelles correspondant aux activités de l'école ;
+3° Six personnalités qualifiées désignées en raison de leur compétence, issues des branches professionnelles correspondant aux activités de l'école ;
 
-- un représentant du conseil régional de Midi-Pyrénées ;
+4° Un représentant des anciens élèves exerçant son activité professionnelle en dehors des services de l'Etat ;
 
-- un représentant des anciens élèves exerçant son activité professionnelle en dehors des services de l'Etat ;
+5° Trois personnalités qualifiées désignées parmi les personnels en service au sein de la direction générale de l'aviation civile ;
 
-- trois personnalités qualifiées désignées parmi les personnels en service au sein de la direction générale de l'aviation civile ;
+6° Un représentant d'une institution d'enseignement supérieur ou de recherche partenaire, relevant du ministre chargé de l'enseignement supérieur et choisi par le directeur de l'école ;
 
-3° Représentants du personnel et des élèves :
+7° Sept membres élus :
 
-- deux représentants élus du personnel exerçant des fonctions d'enseignement ou de recherche au sein de l'école ;
+― trois représentants du personnel exerçant des fonctions d'enseignement ou de recherche au sein de l'école ;
 
-- un membre élu du personnel n'exerçant pas des fonctions d'enseignement ou de recherche ;
+― deux représentants du personnel n'exerçant pas des fonctions d'enseignement ou de recherche ;
 
-- deux représentants élus des élèves, dont un représentant des élèves ingénieurs de l'école et un représentant des élèves suivant les formations professionnelles de la direction générale de l'aviation civile.
+― deux représentants des élèves, dont un représentant des élèves non fonctionnaires de l'école et un représentant des élèves suivant les formations professionnelles de la direction générale de l'aviation civile.
 
 Les représentants du personnel et des élèves peuvent, en cas d'empêchement, être remplacés par un suppléant désigné dans les mêmes conditions que le titulaire.
 

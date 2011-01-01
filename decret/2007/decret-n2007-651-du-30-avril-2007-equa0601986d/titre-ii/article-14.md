@@ -1,21 +1,15 @@
 # Article 14
 
-Le conseil des études et de la recherche est composé de seize membres :
+Le conseil des études comprend :
 
-1° Le directeur, ou son représentant, président ;
+1° Le directeur ou son adjoint, le secrétaire général ou des responsables de l'école ;
 
-2° Le directeur des études et de la recherche, ou son représentant ;
+2° Des personnalités extérieures ;
 
-3° Deux membres désignés par le directeur général de l'aviation civile ;
+3° Des représentants des personnels exerçant des fonctions d'enseignement ;
 
-4° Quatre personnalités extérieures désignées par le conseil d'administration ;
+4° Des représentants des élèves.
 
-5° Deux représentants des départements d'enseignement désignés par le directeur ;
+Le président est nommé par le conseil d'administration sur proposition du directeur de l'école.
 
-6° Deux représentants des personnels enseignants ;
-
-7° Deux représentants des personnels chargés de fonctions de recherche ;
-
-8° Deux représentants des élèves.
-
-Le règlement intérieur de l'école fixe les modalités de désignation des représentants des personnels et des élèves.
+Le nombre de membres issus de chaque catégorie et les modalités de leur désignation sont fixés par le règlement intérieur de l'école. Le nombre total de membres du conseil des études ne peut toutefois pas excéder celui du conseil d'administration.

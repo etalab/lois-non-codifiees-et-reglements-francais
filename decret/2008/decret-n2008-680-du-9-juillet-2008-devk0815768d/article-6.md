@@ -1,12 +1,12 @@
 # Article 6
 
-La direction générale de l'aviation civile élabore et met en œuvre les orientations en matière d'aviation civile dans le respect des principes du développement durable. A ce titre, elle est notamment chargée du transport aérien, des infrastructures et de la régulation économique, de la navigation aérienne et de la sécurité. Elle a un rôle d'expert dans les domaines de la recherche et de l'industrie aéronautique civile.
+La direction générale de l'aviation civile élabore et met en œuvre les orientations en matière d'aviation civile dans le respect des principes du développement durable.A ce titre, elle est notamment chargée du transport aérien, des infrastructures et de la régulation économique, de la navigation aérienne et de la sécurité. Elle a un rôle d'expert dans les domaines de la recherche et de l'industrie aéronautique civile.
 
 Elle comprend :
 
 ― la direction du transport aérien ;
 
-― le service « secrétariat général ».
+― le service secrétariat général .
 
 Sont directement rattachées au directeur général de l'aviation civile en tant que services à compétence nationale :
 
@@ -28,13 +28,13 @@ En liaison avec les autres ministères concernés, elle élabore la réglementat
 
 Elle assure la promotion et le développement des droits et obligations des acteurs et des passagers du transport aérien. Elle participe à l'élaboration et à la mise en œuvre des réglementations et des politiques relatives à l'amélioration des services rendus aux usagers ainsi qu'aux régimes de responsabilité et d'assurance des transporteurs aériens et des exploitants d'aérodromes.
 
-Elle est chargée de l'ensemble des questions relatives au droit du travail et à la protection sociale des salariés du transport aérien et des entreprises intervenant sur les aéroports. A ce titre, elle participe à l'élaboration de la réglementation du travail et en suit la mise en œuvre. Elle assure les relations avec les partenaires sociaux et préside les commissions nationales mixtes des branches professionnelles du secteur. Elle exerce, pour le compte du ministre chargé de l'aviation civile, la tutelle de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile. Elle anime et coordonne la formation professionnelle du secteur.
+Elle est chargée de l'ensemble des questions relatives au droit du travail et à la protection sociale des salariés du transport aérien et des entreprises intervenant sur les aéroports.A ce titre, elle participe à l'élaboration de la réglementation du travail et en suit la mise en œuvre. Elle assure les relations avec les partenaires sociaux et préside les commissions nationales mixtes des branches professionnelles du secteur. Elle exerce, pour le compte du ministre chargé de l'aviation civile, la tutelle de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile. Elle anime et coordonne la formation professionnelle du secteur.
 
-Elle assure également, pour la France, la tutelle de l'établissement public international « Aéroport de Bâle-Mulhouse ».
+Elle assure également, pour la France, la tutelle de l'établissement public international Aéroport de Bâle-Mulhouse .
 
 II. ― Le secrétariat général de la direction générale de l'aviation civile est chargé de la mise en œuvre de la politique en matière d'organisation des services, de gestion des ressources humaines, de préparation de l'exécution du budget, d'expertise juridique et de système d'information de gestion et de pilotage.
 
-En matière de politique financière, dans le cadre des orientations fixées par le secrétaire général du ministère, il contribue à la préparation du budget de la direction générale de l'aviation civile et assure en particulier l'exécution budgétaire et financière des crédits du budget annexe « contrôle et exploitation aériens ». Il assure la gestion des recettes et des emprunts, et tient la comptabilité de l'ordonnateur du budget annexe « contrôle et exploitation aériens ».
+En matière de politique financière, dans le cadre des orientations fixées par le secrétaire général du ministère, il contribue à la préparation du budget de la direction générale de l'aviation civile et assure en particulier l'exécution budgétaire et financière des crédits du budget annexe contrôle et exploitation aériens . Il assure la gestion des recettes et des emprunts, et tient la comptabilité de l'ordonnateur du budget annexe contrôle et exploitation aériens.
 
 Concernant la fiscalité, il définit les modalités de gestion et de contrôle des taxes gérées par la direction générale de l'aviation civile et s'assure de leur mise en œuvre.
 
@@ -42,7 +42,7 @@ En matière d'organisation des services et de gestion des ressources humaines, i
 
 Sous réserve des compétences exercées par le secrétaire général du ministère, il assure la gestion individuelle des personnels, participe à la politique de recrutement et de formation des personnels de la direction générale de l'aviation civile et à sa mise en œuvre. Il est responsable des opérations de paie de l'ensemble des personnels concernés, définit et pilote les actions à mener en matière de médecine de prévention, d'hygiène et de sécurité du travail, définit et met en œuvre la politique d'action sociale destinée aux personnels.
 
-Il exerce la tutelle de l'Ecole nationale de l'aviation civile et assure également la responsabilité des formations au pilotage mises en œuvre par la direction générale de l'aviation civile.
+Il exerce la tutelle de l'Ecole nationale de l'aviation civile.
 
 Il est chargé de la mise en œuvre de l'ingénierie aéroportuaire.
 

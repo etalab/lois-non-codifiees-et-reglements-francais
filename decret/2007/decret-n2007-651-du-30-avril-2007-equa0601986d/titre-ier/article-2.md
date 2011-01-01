@@ -10,7 +10,17 @@ L'école a pour missions :
 
 4° De dispenser des enseignements de spécialisation sanctionnés par des diplômes propres et des enseignements de perfectionnement et de mise à jour des connaissances, notamment dans les domaines de la gestion aéroportuaire, de la sécurité et de la sûreté aéronautiques ;
 
-5° D'organiser des examens et concours pour le compte d'autres administrations ou organismes.
+5° D'organiser des examens et concours pour le compte d'autres administrations ou organismes ;
+
+6° D'assurer, dans le cadre défini pour la formation aéronautique d'Etat :
+
+― la formation de pilotes professionnels et non professionnels d'aéronefs, ainsi que d'instructeurs ;
+
+― la formation et l'entraînement des pilotes des corps techniques de l'Etat ;
+
+― la formation au pilotage des agents de la direction générale de l'aviation civile ;
+
+7° D'exploiter des aéronefs dans le cadre de missions effectuées pour le compte ou à la demande de la direction générale de l'aviation civile.
 
 Elle concourt à l'effort national de formation, de recherche et de développement technologique.
 
