@@ -26,9 +26,7 @@ Le directeur des ressources humaines.
 
 Le directeur du Conservatoire de l'espace littoral et des rivages lacustres.
 
-Un directeur régional de l'équipement.
-
-Un directeur régional de l'industrie, de la recherche et de l'environnement.
+Un directeur régional de l'environnement, de l'aménagement et du logement.
 
 Le chef de service, adjoint au directeur des ressources humaines au sein du secrétariat général.
 
@@ -56,10 +54,10 @@ Le directeur de l'établissement public Parcs nationaux de France.
 
 Le directeur général de l'Office national de la chasse et de la faune sauvage.
 
-Une directrice régionale de l'environnement.
+Une directrice régionale de l'environnement, de l'aménagement et du logement.
 
 Un directeur de centre d'études techniques de l'équipement.
 
-Un    directeur interrégional de la mer.
+Un directeur régional des affaires maritimes.
 
 Une directrice de service navigation.

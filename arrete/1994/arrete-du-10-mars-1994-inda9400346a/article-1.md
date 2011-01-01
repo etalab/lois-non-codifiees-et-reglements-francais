@@ -1,6 +1,6 @@
 # Article 1
 
-Lorsque les réceptions, vérifications et visites de véhicules prescrites en application du code de la route ou des textes sur la coordination des transports sont effectuées sous l'autorité du directeur régional de l'industrie, de la recherche et de l'environnement, la redevance due pour chaque réception, vérification ou visite est fixée comme suit :
+Lorsque les réceptions, vérifications et visites de véhicules prescrites en application du code de la route ou des textes sur la coordination des transports sont effectuées sous l'autorité du directeur régional de l'environnement, de l'aménagement et du logement, la redevance due pour chaque réception, vérification ou visite est fixée comme suit :
 
 -pour les vérifications techniques nécessaires à l'identification :
 
