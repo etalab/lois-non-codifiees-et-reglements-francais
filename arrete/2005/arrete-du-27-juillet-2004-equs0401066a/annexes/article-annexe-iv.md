@@ -82,9 +82,13 @@ Que ce soit pour être qualifié au titre du contrôle technique des véhicules 
 
 - il est titulaire d'une qualification en cours de validité au titre du contrôle des véhicules lourds (Q1) ;
 
-- il a suivi une formation complémentaire spécifique d'au minimum quinze heures ayant donné lieu à une évaluation satisfaisante ;
+- il a suivi une formation d'au minimum trente heures pour les véhicules de transport de marchandises dangereuses et quinze heures pour les véhicules de transport en commun de personnes. Au cours de cette formation, une partie pratique d'au moins six heures est mise en œuvre. Pour les véhicules de transport de marchandises dangereuses, la partie pratique est réalisée sur au moins un véhicule équipé d'une citerne. Pour les véhicules de transport en commun de personnes, la partie pratique est réalisée sur au moins un autocar de grande capacité ;
 
-- il a participé en sus à au moins 2 contrôles techniques de véhicules comme observateur stagiaire puis, après avoir satisfait à une évaluation intermédiaire, a réalisé au moins 2 contrôles comme contrôleur stagiaire.
+- il a participé en sus :
+
+- pour le contrôle technique de véhicules de marchandises dangereuses, à au moins trois contrôles techniques comme observateur stagiaire puis, après avoir satisfait à une évaluation intermédiaire, a réalisé au moins trois contrôles techniques comme contrôleur stagiaire. Sur les véhicules présentés au contrôle technique, trois au moins sont équipés d'une citerne ;
+
+- pour le contrôle technique de véhicules de transports en commun de personnes, à deux contrôles techniques de véhicule comme observateur stagiaire puis, après avoir satisfait à une évaluation intermédiaire, a réalisé au moins deux contrôles comme contrôleur stagiaire. Sur les véhicules présentés au contrôle technique, deux au moins sont des autocars de grande capacité.
 
 2. Maintien de la qualification
 
@@ -94,11 +98,9 @@ Que ce soit pour le maintien de la qualification au titre du contrôle technique
 
 - réalise au moins 25 contrôles techniques au cours des douze derniers mois pour la catégorie de contrôle concernée ;
 
-- participe avec succès à une formation continue annuelle de quatre heures pour la catégorie de contrôle concernée ;
+- participe à une formation continue annuelle de sept heures pour le contrôle technique de véhicules de marchandises dangereuses et de quatre heures pour les véhicules de transport en commun de personnes ;
 
 - fait l'objet d'un audit annuel favorable sur la réalisation d'une visite technique périodique pour la catégorie de contrôle concernée.
-
-En cas de carence constatée ou de non-respect d'au moins une des prescriptions relatives au maintien de qualification Q2 ou Q3, le réseau ou le représentant légal du centre non rattaché assure la remise à niveau du contrôleur rattaché au centre pour garantir le niveau des prestations effectuées et à l'issue, atteste que ledit contrôleur dispose des compétences nécessaires pour exercer sa mission.
 
 Section II bis
 

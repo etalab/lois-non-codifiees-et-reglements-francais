@@ -8,19 +8,19 @@ Catégories de véhicules soumis à réglementation spécifique
 <tbody>
 <tr>
 <td width="123">
-<p align="center">CATEGORIE <br/>de véhicule </p>
+<p align="center">CATEGORIE<br/>de véhicule </p>
 </td>
 <td width="122">
-<p align="center">DOCUMENT <br/>à présenter en complément du certificat d'immatriculation </p>
+<p align="center">DOCUMENT<br/>à présenter en complément du certificat d'immatriculation </p>
 </td>
 <td width="156">
-<p align="center">ECHEANCE <br/>du premier contrôle technique </p>
+<p align="center">ECHEANCE<br/>du premier contrôle technique </p>
 </td>
 <td width="72">
-<p align="center">DUREE <br/>de validité du visa (1) </p>
+<p align="center">DUREE<br/>de validité du visa (1) </p>
 </td>
 <td width="132">
-<p align="center">REFERENCE <br/>réglementaire </p>
+<p align="center">REFERENCE<br/>réglementaire </p>
 </td>
 </tr>
 <tr>
@@ -43,12 +43,12 @@ Arrêté du 30 septembre 1975 modifié</p>
 </tr>
 <tr>
 <td valign="top" width="156">
-<p>-1 an après l'attribution de la carte blanche ;</p>
+<p>- 1 an après l'attribution de la carte blanche ;</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="156">
-<p>-échéance de validité du contrôle technique avant attribution de la carte blanche </p>
+<p>- échéance de validité du contrôle technique avant attribution de la carte blanche </p>
 </td>
 </tr>
 <tr>
@@ -72,9 +72,7 @@ Décret n° 87-965 du 30 novembre 1987
 </tr>
 <tr>
 <td width="132">
-<p align="left">
-Arrêté du 25 juin 2001
-</p>
+<p align="left">Arrêté du 25 juin 2001 </p>
 </td>
 </tr>
 <tr>
@@ -85,7 +83,7 @@ Arrêté du 25 juin 2001
 <p align="center">Carte orange (en l'absence de la mention véhicule-école sur le certificat d'immatriculation) </p>
 </td>
 <td colspan="2" valign="top" width="228">
-<p align="center">Régime général de l'AM du 18 / 06 / 1991 </p>
+<p align="center">Régime général de l'AM du 18/06/1991 </p>
 </td>
 <td rowspan="2" width="132">
 <p align="left">Arrêté du 8 janvier 2001 </p>
@@ -146,22 +144,20 @@ Décret n° 73-225 du 2 mars 1973 modifié </p>
 <p align="center">1 an </p>
 </td>
 <td width="132">
-<p align="left">
-Article R. 323-24 du Code de la route </p>
+<p align="left">Article R. 323-24 du Code de la route</p>
 <p>arrêté du 29 novembre 1994 modifié </p>
 </td>
 </tr>
 <tr>
-<td>F. Véhicule de collection <br/>
+<td>H. Véhicule de collection <br/>
 </td>
-<td align="center">Certificat d'immatriculation avec mention d'usage " Véhicule de collection " <br/>
+<td align="center">Certificat d'immatriculation avec mention d'usage "Véhicule de collection" <br/>
 </td>
 <td>5 ans à compter du contrôle technique favorable. <br/>
 </td>
-<td align="center">5 ans </td>
+<td align="center">5 ans</td>
 <td>
-<p align="left">
-Arrêté du 14 octobre 2009 relatif aux véhicules de collection <br/>
+<p align="left">Arrêté du 14 octobre 2009 relatif aux véhicules de collection <br/>
 </p>
 </td>
 </tr>
@@ -189,14 +185,12 @@ Catégories de véhicules soumis à d'autres réglementations relatives au contr
 <p>Véhicules de transport en commun de personnes </p>
 </td>
 <td valign="top" width="303">
-<p>
-Article R. 323-23 du Code de la route </p>
+<p>Article R. 323-23 du Code de la route </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="303">
-<p>
-Arrêté du 2 juillet 1982 modifié </p>
+<p>Arrêté du 2 juillet 1982 modifié </p>
 </td>
 </tr>
 <tr>
@@ -204,14 +198,37 @@ Arrêté du 2 juillet 1982 modifié </p>
 <p>Véhicules de transport de matières dangereuses </p>
 </td>
 <td valign="top" width="303">
-<p>
-Arrêté du 1er juin 2001 dit arrêté ADR </p>
+<p>Arrêté du 1er juin 2001 dit arrêté ADR </p>
 </td>
 </tr>
 <tr>
-<td>Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg </td>
+<td>Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg</td>
+<td>Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds</td>
+</tr>
+</tbody>
+</table>
+
+PARTIE C
+
+Véhicules soumis à des contrôles complémentaires
+
+<table>
+<tbody>
+<tr>
 <td>
-Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds</td>
+<p align="center">FONCTIONS COMPLEMENTAIRES</p>
+</td>
+<td>
+<p align="center">VEHICULES CONCERNES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G. - Contrôle complémentaire de l'installation de gaz carburant sur véhicule</p>
+</td>
+<td>
+<p>Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes : EG, GP, PE, FG, EN, GN, NE, FN </p>
+</td>
 </tr>
 </tbody>
 </table>
