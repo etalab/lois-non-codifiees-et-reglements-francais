@@ -1,21 +1,27 @@
 # Article Annexe II
 
-<div align="left">Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'article R. 331-12 du code de la construction et d l'habitation applicables aux logements mentionnés au II de l'article R. 331-1 (PLA d'intégration) </div>
+<div align="left">PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION) </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">CATÉGORIE DE MÉNAGES</p>
+<p align="center">CATÉGORIE<br/>de ménages <br/>
+</p>
 </td>
 <td>
-<p align="center">PARIS<br/>et communes limitrophes<br/>(en euros) </p>
+<p align="center">PARIS<br/>et communes<br/>limitrophes<br/>(en euros)</p>
 </td>
 <td>
-<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes limitrophes<br/>(en euros)</p>
+<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes<br/>limitrophes<br/>(en euros) <br/>
+</p>
 </td>
 <td>
-<p align="center">AUTRES RÉGIONS<br/>(en euros)</p>
+<p align="center">AUTRES<br/>régions<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -23,13 +29,13 @@
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>12 031 <br/>
+<br/>12 163 € <br/>
 </td>
 <td align="center">
-<br/>12 031 <br/>
+<br/>12 163 € <br/>
 </td>
 <td align="center">
-<br/>10 457 <br/>
+<br/>10 572 € <br/>
 </td>
 </tr>
 <tr>
@@ -37,13 +43,13 @@
 <br/>2 <br/>
 </td>
 <td align="center">
-<br/>19 614 <br/>
+<br/>19 830 € <br/>
 </td>
 <td align="center">
-<br/>19 614 <br/>
+<br/>19 830 € <br/>
 </td>
 <td align="center">
-<br/>15 237 <br/>
+<br/>15 405 € <br/>
 </td>
 </tr>
 <tr>
@@ -51,13 +57,13 @@
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>25 711 <br/>
+<br/>25 994 € <br/>
 </td>
 <td align="center">
-<br/>23 576 <br/>
+<br/>23 835 € <br/>
 </td>
 <td align="center">
-<br/>18 322 <br/>
+<br/>18 524 € <br/>
 </td>
 </tr>
 <tr>
@@ -65,13 +71,13 @@
 <br/>4 <br/>
 </td>
 <td align="center">
-<br/>28 141 <br/>
+<br/>28 451 € <br/>
 </td>
 <td align="center">
-<br/>25 887 <br/>
+<br/>26 172 € <br/>
 </td>
 <td align="center">
-<br/>20 388 <br/>
+<br/>20 612 € <br/>
 </td>
 </tr>
 <tr>
@@ -79,13 +85,13 @@
 <br/>5 <br/>
 </td>
 <td align="center">
-<br/>33 478 <br/>
+<br/>33 846 € <br/>
 </td>
 <td align="center">
-<br/>30 647 <br/>
+<br/>30 984 € <br/>
 </td>
 <td align="center">
-<br/>23 854 <br/>
+<br/>24 116 € <br/>
 </td>
 </tr>
 <tr>
@@ -93,13 +99,13 @@
 <br/>6 <br/>
 </td>
 <td align="center">
-<br/>37 674 <br/>
+<br/>38 088 € <br/>
 </td>
 <td align="center">
-<br/>34 486 <br/>
+<br/>34 865 € <br/>
 </td>
 <td align="center">
-<br/>26 882 <br/>
+<br/>27 178 € <br/>
 </td>
 </tr>
 <tr>
@@ -107,13 +113,13 @@
 <br/>Par personne supplémentaire <br/>
 </td>
 <td align="center">
-<br/>4 198 <br/>
+<br/>4 244 € <br/>
 </td>
 <td align="center">
-<br/>3 842 <br/>
+<br/>3 884 € <br/>
 </td>
 <td align="center">
-<br/>2 998</td>
+<br/>3 031 €</td>
 </tr>
 </tbody>
 </table>

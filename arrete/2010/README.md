@@ -3172,7 +3172,6 @@
 - [Arrêté du 30 décembre 2009 (JUSA0931399A)](arrete-du-30-decembre-2009-jusa0931399a)
 - [Arrêté du 30 décembre 2009 (MTSS0930067A)](arrete-du-30-decembre-2009-mtss0930067a)
 - [Arrêté du 30 décembre 2009 (MTSS0930091A)](arrete-du-30-decembre-2009-mtss0930091a)
-- [Arrêté du 30 décembre 2009 (SASH0925121A)](arrete-du-30-decembre-2009-sash0925121a)
 - [Arrêté du 30 décembre 2010 (EFIT1027836A)](arrete-du-30-decembre-2010-efit1027836a)
 - [Arrêté du 30 janvier 2008 (AGRF0802631A)](arrete-du-30-janvier-2008-agrf0802631a)
 - [Arrêté du 30 juillet 2010 (AGRS0804545A)](arrete-du-30-juillet-2010-agrs0804545a)
