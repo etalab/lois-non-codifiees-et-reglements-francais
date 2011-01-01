@@ -4,4 +4,4 @@ Par dérogation au deuxième alinéa de l'article 13, les périodes de travail e
 
 Cette prise en compte ne peut avoir pour effet d'augmenter la durée de services mentionnée à l'article 16 de plus de quatre trimestres.
 
-Pour les fonctionnaires handicapés dont l'incapacité permanente est au moins égale à 80 %, le taux mentionné au premier alinéa est celui prévu au I de l'article 2 du décret du 19 septembre 1947 susvisé et la limité mentionnée à l'alinéa précédent est portée à huit trimestres.
+Pour les fonctionnaires handicapés dont l'incapacité permanente est au moins égale à 80 %, le taux mentionné au premier alinéa est celui prévu au I de l'article 3 du décret du 7 février 2007 susmentionné et la limité mentionnée à l'alinéa précédent est portée à huit trimestres.

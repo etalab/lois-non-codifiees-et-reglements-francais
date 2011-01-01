@@ -1,6 +1,6 @@
 # Article 66
 
-I. - Les départements, les communes et les établissements publics départementaux et communaux du Haut-Rhin, du Bas-Rhin et de la Moselle peuvent affilier leurs agents titulaires à la Caisse nationale de retraites des agents des collectivités locales dans les conditions et sous les réserves prévues aux articles 1er et 2 du décret du 19 septembre 1947 susvisé.
+I. - Les départements, les communes et les établissements publics départementaux et communaux du Haut-Rhin, du Bas-Rhin et de la Moselle peuvent affilier leurs agents titulaires à la Caisse nationale de retraites des agents des collectivités locales dans les conditions et sous les réserves prévues aux articles 2 et 3 du décret du 7 février 2007 susmentionné.
 
 L'assujettissement à l'ensemble des dispositions du présent décret sont alors obligatoires pour tous les fonctionnaires titulaires en activité à la date de l'approbation de la décision d'affiliation ou qui seront titularisés après cette date.
 
