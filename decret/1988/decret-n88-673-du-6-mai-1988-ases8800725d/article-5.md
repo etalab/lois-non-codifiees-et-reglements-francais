@@ -1,5 +1,9 @@
 # Article 5
 
-Le montant des cotisations dues par les interessés est calculé en appliquant à l'assiette forfaitaire fixée pour les cotisations de la troisième des quatre catégories d'assurés sociaux mentionnées à l'article R. 742-4 du code de la sécurité sociale, majorée compte tenu des coefficients de revalorisation servant au calcul des pensions en vigueur à la date de la demande de rachat, le taux de 9 p. 100 pour les périodes sur lesquelles porte le rachat antérieures au 1er octobre 1967 [*date limite*] et, pour les périodes postérieures à cette dernière date, le taux en vigueur pour chacune des périodes donnant lieu au rachat.
+Le montant des cotisations dues au titre du rachat est calculé en appliquant à l'assiette forfaitaire afférente à la troisième catégorie d'assurés volontaires définie en application de l'article R. 742-4 :
 
-A compter du 1er janvier 1992 [*point de départ*], toutefois, le montant des cotisations dues par les intéressés est calculé en appliquant à l'assiette forfaitaire déterminée, comme il est dit au premier alinéa, le taux en vigueur à la date de la demande de rachat. Ces cotisations sont minorées ou majorées selon des coefficients tenant compte de l'âge de l'intéressé à la date de la demande de rachat, fixés par arrêté du ministre chargé de la sécurité sociale en fonction des données démographiques prises en considération en vue de l'équilibre financier de l'assurance vieillesse.
+1° Les coefficients de revalorisation en vigueur à la date du versement, applicables aux salaires et aux cotisations servant de base au calcul des pensions ou rentes en vertu de l'article L. 351-11 ;
+
+2° Les taux de cotisations pour le risque vieillesse incombant au salarié et à l'employeur, applicables lors de la période d'activité en cause ou, pour les périodes d'activité antérieures au 1er octobre 1967, le taux de 9 % ;
+
+3° Une actualisation au taux de 2,5 % par année civile révolue séparant la date du versement de la fin de la période d'activité en cause.
