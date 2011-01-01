@@ -6,7 +6,9 @@ a) Les vols inter-îles effectués dans les territoires de Polynésie française
 
 b) Les vols effectués par des aéronefs dont la masse maximale au décollage autorisée est inférieure à deux (2) tonnes métriques ;
 
-c) Les vols effectués exclusivement pour transporter, en mission officielle, le monarque régnant et sa proche famille, les chefs d'Etat, les chefs de gouvernement et les ministres des gouvernements ; dans tous les cas, cette situation doit être dûment établie par l'indication du statut ou une remarque dans le plan de vol ;
+c) Les vols effectués exclusivement pour transporter, en mission officielle, le monarque régnant et sa proche famille, les chefs d'Etat, les chefs de gouvernement et les ministres des gouvernements ;
+
+dans tous les cas, cette situation doit être dûment établie par l'indication du statut ou une remarque dans le plan de vol ;
 
 d) Les vols de recherche et de sauvetage autorisés par l'organisme compétent adéquat ;
 
@@ -22,4 +24,4 @@ i) Les vols effectués exclusivement en VFR à l'intérieur de la zone tarifaire
 
 j) Les vols effectués par les douanes et la police.
 
-Les vols effectués au départ de Papeete à destination de la métropole ainsi que les vols au départ de la métropole à destination de Papeete bénéficient d'un taux unitaire réduit de moitié.
+Les vols effectués au départ de Papeete à destination de la métropole ou du territoire soumis aux règles du traité instituant la Communauté européenne ainsi que les vols au départ de la métropole ou du territoire soumis aux règles du traité instituant la Communauté européenne, à destination de Papeete bénéficient d'un taux unitaire réduit de moitié dans la FIR Tahiti.
