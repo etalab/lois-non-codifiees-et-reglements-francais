@@ -4,7 +4,7 @@ I. Paragraphe modificateur
 
 II.-Les dispositions du I s'appliquent aux opérations réalisées à compter du 1er janvier 1998.
 
-III.-La perte de recettes pour les collectivités territoriales, leurs groupements dotés d'une fiscalité propre et pour les fonds départementaux de péréquation résultant des exonérations liées aux opérations de décentralisation, de reconversion et de reprise d'établissements en difficulté visées à l'article 1465 A, ainsi que de l'exonération visée au 2° du I du présent article, est compensée par le Fonds national de péréquation mentionné à l'article 1648 B bis du code général des impôts. A compter de 2011, le prélèvement sur les recettes de l'Etat destiné à compenser la perte de recettes s'applique uniquement aux communes, aux groupements dotés d'une fiscalité propre ou aux fonds départementaux de péréquation.
+III.-La perte de recettes pour les collectivités territoriales, leurs groupements dotés d'une fiscalité propre et pour les fonds départementaux de péréquation résultant des exonérations liées aux opérations de décentralisation, de reconversion et de reprise d'établissements en difficulté visées à l'article 1465 A, ainsi que de l'exonération visée au 2° du I du présent article, est compensée par le Fonds national de péréquation mentionné à l'article 1648 B bis du code général des impôts.A compter de 2011, le prélèvement sur les recettes de l'Etat destiné à compenser la perte de recettes s'applique uniquement aux communes ou aux groupements dotés d'une fiscalité propre.
 
 Cette compensation est égale au produit obtenu en multipliant la perte de base résultant chaque année et pour chaque collectivité de l'exonération par le taux de la taxe professionnelle appliquée en 1997 dans la collectivité ou le groupement.
 
@@ -17,6 +17,8 @@ Au titre de 2009, les compensations calculées selon les dispositions qui préc�
 A compter de 2011, les taux à prendre en compte pour les communes et les groupements de communes à fiscalité propre pour le calcul des compensations ou des abattements visés aux alinéas précédents sont majorés en fonction des taux retenus pour déterminer les allocations compensatrices versées en 2010 au profit des départements et des régions.
 
 Les dispositions relatives à cette majoration au profit des communes ou des groupements de communes sont fixées au VI du 8 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+
+Au titre de 2011, les compensations calculées selon les dispositions qui précèdent et auxquelles sont appliqués le taux d'évolution fixé au titre de 2009 et le taux d'évolution fixé au titre de 2010 sont minorées par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
 
 Pour les établissements publics de coopération intercommunale soumis pour la première fois à compter de 2012 à l'article 1609 nonies C ou à l'article 1609 quinquies C du code général des impôts dans leur rédaction en vigueur au 1er janvier 2011, la compensation est calculée en retenant le taux moyen pondéré des communes membres de l'établissement public de coopération intercommunale.
 

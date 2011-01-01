@@ -8,6 +8,6 @@ I.A créé les dispositions suivantes :
 > >
 > >
 > >
-> > II.-Le I s'applique aux cessions d'immeubles réalisées à compter de la date d'entrée en vigueur de la présente loi jusqu'au 31 décembre 2010.
+> > II.-Le I s'applique aux cessions d'immeubles réalisées à compter de la date d'entrée en vigueur de la présente loi jusqu'au 31 décembre 2012.
 
 > >

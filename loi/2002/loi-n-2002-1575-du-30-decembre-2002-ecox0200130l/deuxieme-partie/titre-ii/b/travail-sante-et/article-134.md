@@ -8,4 +8,4 @@ Le montant de cette compensation est égal au montant de la dépense supportée 
 
 Toutefois, en 2003, 2004 et 2005, le montant total de la compensation versée aux régions et à la collectivité territoriale de Corse est respectivement égal à 6 %, 63 % et 97 % du montant tel que calculé en application de l'alinéa précédent.
 
-A titre dérogatoire, l'évolution prévue au deuxième alinéa ne s'applique pas en 2009 et en 2010.
+A titre dérogatoire, l'évolution prévue au deuxième alinéa ne s'applique pas en 2009, en 2010 et en 2011.

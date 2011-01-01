@@ -1,7 +1,6 @@
 # II  - AUTRES MESURES
 
 - [Avances à l'audiovisuel public.](avances-a)
-- [Défense.](defense)
 - [Agriculture, pêche, forêt et affaires rurales.](agriculture-peche-foret-et)
 - [Anciens combattants, mémoire et liens avec la Nation.](anciens-combattants-memoire-et)
 - [Cinéma, audiovisuel et expression radiophonique locale.](cinema-audiovisuel-et)

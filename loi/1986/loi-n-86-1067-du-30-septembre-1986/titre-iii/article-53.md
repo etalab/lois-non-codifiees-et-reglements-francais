@@ -4,27 +4,27 @@ I. - Des contrats d'objectifs et de moyens sont conclus entre l'Etat et chacune 
 
 Les contrats d'objectifs et de moyens déterminent notamment, dans le respect des missions de service public telles que définies à l'article 43-11, pour chaque société ou établissement public :
 
-- les axes prioritaires de son développement ;
+-les axes prioritaires de son développement ;
 
-- les engagements pris au titre de la diversité et l'innovation dans la création ;
+-les engagements pris au titre de la diversité et l'innovation dans la création ;
 
-- les montants minimaux d'investissements de la société visée au I de l'article 44 dans la production d'œuvres cinématographiques et audiovisuelles européennes et d'expression originale française, en pourcentage de ses recettes et en valeur absolue ;
+-les montants minimaux d'investissements de la société visée au I de l'article 44 dans la production d'œuvres cinématographiques et audiovisuelles européennes et d'expression originale française, en pourcentage de ses recettes et en valeur absolue ;
 
-- les engagements permettant d'assurer, dans un délai de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, l'adaptation à destination des personnes sourdes ou malentendantes de la totalité des programmes de télévision diffusés, à l'exception des messages publicitaires, sous réserve des dérogations justifiées par les caractéristiques de certains programmes ;
+-les engagements permettant d'assurer, dans un délai de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, l'adaptation à destination des personnes sourdes ou malentendantes de la totalité des programmes de télévision diffusés, à l'exception des messages publicitaires, sous réserve des  dérogations justifiées par les caractéristiques de certains programmes  ;
 
-- les engagements permettant d'assurer la diffusion de programmes de télévision qui, par des dispositifs adaptés, sont accessibles aux personnes aveugles ou malvoyantes ;
+-les engagements permettant d'assurer la diffusion de programmes de télévision qui, par des dispositifs adaptés, sont accessibles aux personnes aveugles ou malvoyantes ;
 
-- le coût prévisionnel de ses activités pour chacune des années concernées, et les indicateurs quantitatifs et qualitatifs d'exécution et de résultats qui sont retenus ;
+-le coût prévisionnel de ses activités pour chacune des années concernées, et les indicateurs quantitatifs et qualitatifs d'exécution et de résultats qui sont retenus ;
 
-- le montant des ressources publiques devant lui être affectées en identifiant celles prioritairement consacrées au développement des budgets de programmes ;
+-le montant des ressources publiques devant lui être affectées en identifiant celles prioritairement consacrées au développement des budgets de programmes ;
 
-- le montant du produit attendu des recettes propres, en distinguant celles issues de la publicité et du parrainage ;
+-le montant du produit attendu des recettes propres, en distinguant celles issues de la publicité et du parrainage ;
 
-- les perspectives économiques pour les services qui donnent lieu au paiement d'un prix ;
+-les perspectives économiques pour les services qui donnent lieu au paiement d'un prix ;
 
-- les axes d'amélioration de la gestion financière et des ressources humaines ;
+-les axes d'amélioration de la gestion financière et des ressources humaines ;
 
-- le cas échéant, les perspectives en matière de retour à l'équilibre financier.
+-le cas échéant, les perspectives en matière de retour à l'équilibre financier.
 
 Avant leur signature, les contrats d'objectifs et de moyens ainsi que les éventuels avenants à ces contrats sont transmis aux commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat et au Conseil supérieur de l'audiovisuel. Le contrat d'objectifs et de moyens de la société en charge de l'audiovisuel extérieur de la France est également transmis aux commissions chargées des affaires étrangères de l'Assemblée nationale et du Sénat. Ils peuvent faire l'objet d'un débat au Parlement. Les commissions peuvent formuler un avis sur ces contrats d'objectifs et de moyens dans un délai de six semaines.
 
@@ -48,7 +48,7 @@ V. - Les exonérations de redevance audiovisuelle décidées pour des motifs soc
 
 Ce remboursement est calculé sur le fondement des exonérations en vigueur à la date de publication de la loi n° 2000-719 du 1er août 2000 précitée ainsi que celles qui pourraient intervenir postérieurement.
 
-VI. - Les programmes diffusés entre vingt heures et six heures des services nationaux de télévision mentionnés au I de l'article 44, à l'exception de leurs programmes régionaux et locaux, ne comportent pas de messages publicitaires autres que ceux pour des biens ou services présentés sous leur appellation générique. Cette disposition s'applique également aux programmes diffusés par ces services entre six heures et vingt heures à compter de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision mentionnés au même I sur l'ensemble du territoire métropolitain. Elle ne s'applique pas aux campagnes d'intérêt général. Le temps maximal consacré à la diffusion de messages publicitaires s'apprécie par heure d'horloge donnée. A l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur le territoire d'un département d'outre-mer, d'une collectivité d'outre-mer ou de Nouvelle-Calédonie, et au plus tard le 30 novembre 2011, les programmes de télévision de la société mentionnée au même I diffusés sur le territoire de la collectivité en cause ne comportent pas de messages publicitaires autres que ceux pour des biens ou services présentés sous leur appellation générique, sous réserve de l'existence d'une offre de télévision privée diffusée par voie hertzienne terrestre en clair.
+VI.-  Sous réserve des contraintes liées au décalage horaire de leur reprise en outre-mer, les programmes diffusés entre vingt heures et six heures des services nationaux de télévision mentionnés au I de l'article 44, à l'exception de leurs programmes régionaux et locaux, ne comportent pas de messages publicitaires autres que ceux pour des biens ou services présentés sous leur appellation générique. Cette disposition s'applique également aux programmes diffusés par ces services entre six heures et vingt heures à compter                            du 1er janvier 2016. Elle ne s'applique pas aux campagnes d'intérêt général. Le temps maximal consacré à la diffusion de messages publicitaires s'apprécie par heure d'horloge donnée. A l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur le territoire d'un département d'outre-mer, d'une collectivité d'outre-mer ou de Nouvelle-Calédonie, et au plus tard le 30 novembre 2011, les programmes des services régionaux et locaux de télévision de la société mentionnée au même I diffusés sur le territoire de la collectivité en cause ne comportent pas de messages publicitaires entre vingt heures et six heures autres que ceux pour des biens ou services présentés sous leur appellation générique, sous réserve de l'existence d'une offre de télévision privée  à vocation locale diffusée par voie hertzienne terrestre en clair. Sous cette même réserve, cette disposition s'applique également à ces programmes, entre six heures et vingt heures, à compter du 1er janvier 2016.
 
 Au plus tard le 1er mai 2011, le Gouvernement transmet au Parlement un rapport évaluant, après consultation des organismes professionnels représentatifs du secteur de la publicité, l'incidence de la mise en œuvre du premier alinéa du présent VI sur l'évolution du marché publicitaire et la situation de l'ensemble des éditeurs de services de télévision.
 

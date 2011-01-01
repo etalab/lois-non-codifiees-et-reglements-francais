@@ -8,4 +8,4 @@ I. ― La quotité du produit de la taxe de l'aviation civile affectée au budge
 
 3° A compter du 1er janvier 2010, les quotités du produit de la taxe de l'aviation civile affectées respectivement au budget annexe  Contrôle et exploitation aériens  et au budget général de l'Etat sont de 79,77 % et de 20,23 %.
 
-II. - A compter du 1er janvier 2011, les quotités du produit de la taxe de l'aviation civile affectées respectivement au budget annexe  Contrôle et exploitation aériens  et au budget général de l'Etat sont de 77,35 % et de 22,65 %.
+II. - A compter du 1er janvier 2011, les quotités du produit de la taxe de l'aviation civile affectées respectivement au budget annexe  Contrôle et exploitation aériens  et au budget général de l'Etat sont de 80,32 % et de 19,68 %.

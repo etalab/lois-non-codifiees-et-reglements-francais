@@ -34,9 +34,23 @@ Ces documents sont relatifs aux politiques suivantes :
 
 15° Défense et sécurité nationale ;
 
-16° Justice des mineurs.
+16° Justice des mineurs ;
+
+17° Politique du tourisme.
 
 Le document relatif à la politique mentionnée au 2° comporte également :
+
+- une présentation détaillée de l'évolution à titre rétrospectif sur les cinq dernières années et de façon prévisionnelle pour la durée de la programmation triennale des finances publiques :
+
+a) De l'effort français d'aide publique au développement en proportion du revenu national brut comparé avec celui des autres Etats membres du comité d'aide au développement de l'Organisation de coopération et de développement économiques ;
+
+b) De la répartition entre les principaux instruments de coopération des crédits consacrés à l'aide au développement tels qu'ils sont présentés dans les documents budgétaires et de l'aide publique au développement qui en résulte permettant d'identifier les moyens financiers respectivement affectés à l'aide multilatérale, communautaire et bilatérale, à l'aide bilatérale qui fait l'objet d'une programmation, ainsi qu'aux subventions, dons, annulations de dettes et prêts ;
+
+c) De la répartition de ces instruments par secteurs, par zones d'intervention de la coopération française et par catégories de pays selon leur revenu ;
+
+d) Du montant net et brut des prêts ;
+
+- un récapitulatif des engagements internationaux de la France en matière d'aide publique au développement et un état des lieux de leur mise en œuvre ;
 
 - une information détaillée sur les remises de dettes consenties à titre multilatéral et bilatéral sur le fondement de l'article 64 de la loi de finances rectificative pour 1991 (n° 91-1323 du 30 décembre 1991) ;
 
