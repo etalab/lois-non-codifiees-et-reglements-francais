@@ -6,7 +6,7 @@ Le compte de résultat comprend au moins les éléments suivants :
 
 2. Le résultat net sur opérations financières ;
 
-3. Le net des dotations-prélèvements sur les réserves de réévaluation des réserves de change de l'Etat en or et en devises tels que prévus au titre de la convention mentionnée à l'article 31 du décret susvisé ;
+3. Le net des dotations-prélèvements sur la réserve de réévaluation des réserves de change de l'Etat en or et en devises tels que prévus au titre de la convention mentionnée à l'article 31 du décret susvisé ;
 
 4. Le solde de la répartition du revenu monétaire des banques centrales ;
 

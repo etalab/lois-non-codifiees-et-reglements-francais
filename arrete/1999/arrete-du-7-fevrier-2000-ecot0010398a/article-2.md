@@ -14,7 +14,7 @@ Le passif du bilan fait apparaître au moins les éléments suivants :
 
 6. Les autres dettes ;
 
-7. Les réserves de réévaluation des réserves de change de l'Etat en or et en devises ;
+7. La réserve de réévaluation des réserves de change de l'Etat en or et en devises ;
 
 8. Le capital et les réserves ;
 
