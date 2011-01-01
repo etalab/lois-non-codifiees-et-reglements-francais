@@ -8,21 +8,23 @@ La présente annexe a pour objet de définir les caractéristiques techniques de
 
 1. 1. Généralités
 
-Le procès-verbal se présente sous la forme d'un document de format utile voisin de 21 x 29, 7 centimètres, soit en continu de 24 centimètres de large (y compris les bandes caroll détachables de 15 millimètres de large) et de 12 " (environ 30 centimètres) de haut.
+Le procès-verbal se présente sous la forme d'un document de format utile de 21 × 29,7 centimètres.
 
-Les informations figurant sur le procès-verbal sont de deux types : les inscriptions fixes communes à tous les rapports et les informations variables relatives à chaque contrôle effectué.
+Les informations figurant sur le procès-verbal sont de deux types : les inscriptions fixes communes à tous les rapports, et les informations variables relatives à chaque contrôle effectué.
 
-Le graphisme du procès-verbal doit être conforme aux fac-similés reproduits en appendices 2, 3 et 4 de la présente annexe. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
+Le graphisme du procès-verbal est conforme à celui du fac-similé disponible sur le site internet de l'organisme technique central. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
 
 Il est impératif de faire figurer sur le procès-verbal le sigle du réseau dans les couleurs de son choix à un emplacement n'affectant pas la lisibilité du document.
 
-Pour les véhicules immatriculés en double genre, les informations variables portées au recto du procès-verbal de contrôle technique pourront ne mentionner qu'un seul genre.
+Pour les véhicules immatriculés en double genre, les informations variables portées au recto du procès-verbal de contrôle technique peuvent ne mentionner qu'un seul genre.
+
+Le papier utilisé est de couleur blanche et son grammage est au minimum de 80 grammes par mètre carré.
 
 1. 2. Recto (appendice 2)
 
 1. 2. 1. Informations variables
 
-1. Informations relatives au contrôle :
+1. Défauts ou anomalies constatés :
 
 -La nature du contrôle :
 
@@ -56,7 +58,11 @@ Pour les véhicules immatriculés en double genre, les informations variables po
 
 -" VP VLTP " ;
 
--" CV VLTP "
+-" CV VLTP " ;
+
+- "VP Collection" ;
+
+- "CV Collection".
 
 La date du contrôle ;
 
@@ -67,8 +73,6 @@ La date du contrôle ;
 -Les défauts à corriger sans obligation d'une contre-visite,
 
 -Les défauts à corriger avec obligation d'une contre-visite,
-
--" Véhicule non roulant avec obligation d'une nouvelle visite " ;
 
 -Des observations complémentaires :
 
@@ -86,7 +90,7 @@ La date du contrôle ;
 
 -Les mesures réalisées ;
 
-2. Informations relatives au contrôle initial :
+2. Informations sur la visite technique périodique défavorable :
 
 -Le numéro du procès-verbal de visite technique ;
 
@@ -94,23 +98,23 @@ La date du contrôle ;
 
 -La date d'émission du procès-verbal de visite technique.
 
-3. Informations relatives à l'installation de contrôle :
+3. Identification de l'installation de contrôle :
 
--Le numéro d'agrément du centre ;
+- Le numéro d'agrément de l'installation ;
 
--Le nom du centre ;
+- La raison sociale de l'installation ;
 
--L'adresse du centre ;
+- L'adresse de l'installation.
 
--Le cachet du centre ;
+4. Identité du contrôleur :
 
-4. Informations relatives au contrôleur :
+- Nom et prénom ;
 
--L'identité du contrôleur
+- Numéro d'agrément ;
 
--Le visa du contrôleur
+- Signature.
 
-5. Informations relatives au véhicule contrôlé :
+5. Identification du véhicule :
 
 -Le numéro d'immatriculation ;
 
@@ -128,27 +132,19 @@ La date du contrôle ;
 
 -L'énergie ;
 
--La puissance ;
-
 -Le kilométrage inscrit au compteur ;
 
 -La désignation commerciale du véhicule ;
 
-6. Informations relatives au propriétaire du véhicule :
+6. Titulaire du certificat d'immatriculation :
 
--Le nom et le prénom ;
+- Nom, prénom ou raison sociale ;
 
--Le domicile ;
+- Adresse.
 
-7. Informations relatives au prochain contrôle :
+7. Résultat du contrôle technique :
 
--La nature et la date du prochain contrôle
-
-8. Informations relatives à la personne ayant présenté le véhicule au contrôle :
-
--Le nom et la signature de la personne ayant présenté le véhicule et qui reconnaît avoir pris connaissance des résultats.
-
-La dimension en hauteur et l'épaisseur des caractères utilisés pour l'édition de ces informations variables, doivent être suffisantes afin d'obtenir une bonne lisibilité de ces informations.
+- La nature et la date du prochain contrôle ou la mention "Report du contrôle", suivant le cas.
 
 1. 2. 2. Inscriptions fixes
 
@@ -172,7 +168,7 @@ Doivent également figurer les mentions suivantes :
 
 -" La contre-visite doit avoir lieu dans un délai maximal de deux mois après la visite technique. Passé ce délai, une nouvelle visite technique est obligatoire. Lors de la contre-visite, le procès-verbal de la visite technique périodique doit obligatoirement être présenté au contrôleur " ;
 
--" La visite technique est effectuée sans démontage et porte sur l'ensemble des points visés par l'arrêté du 18 juin 1991 modifié, ci-dessus reproduits. La contre-visite ne porte que sur les éléments d'identification et sur les points ou groupe de points qui l'ont justifiée. Si le véhicule est présenté non roulant, seuls sont contrôlés les éléments d'identification " ;
+-" La visite technique est effectuée sans démontage et porte sur l'ensemble des points visés par l'arrêté du 18 juin 1991 modifié, ci-dessus reproduits. La contre-visite ne porte que sur les éléments d'identification et sur les points ou groupe de points qui l'ont justifiée.
 
 -" Selon la loi informatique et liberté du 6 janvier 1978, vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal ".
 
@@ -184,9 +180,9 @@ Elles doivent être les suivantes :
 
 -Verso : bleu process (Centre non rattaché) et / ou couleurs spécifiques du réseau.
 
-1. 5. Numérotation de liasse
+1. 5. Numérotation
 
-Une numérotation dans une série continue doit figurer en haut à gauche du procès-verbal. Cette numérotation dite de liasse doit obligatoirement être précédée de la lettre d'identification du réseau ou de la lettre Z dans le cas d'un centre de contrôle non rattaché, et être réalisée à la fabrication du document.
+Une numérotation dans une série continue doit figurer en haut du procès-verbal. Cette numérotation dite d'imprimé doit obligatoirement être précédée de la lettre d'identification du réseau ou de la lettre Z dans le cas d'un centre de contrôle non rattaché, et être réalisée à la fabrication du document.
 
 Obligatoirement définie par chaque réseau ou centre non rattaché, elle peut comporter des lettres d'identification et éventuellement se présenter sous forme de code à barres afin de permettre une identification automatique.
 
@@ -194,23 +190,13 @@ Obligatoirement définie par chaque réseau ou centre non rattaché, elle peut c
 
 Le procès-verbal tel que précédemment décrit peut ne pas offrir suffisamment de place à l'édition dans le cas d'un trop grand nombre de défauts constatés.
 
-L'édition de ces défauts doit dans ce cas être achevée, soit sur une ou plusieurs autres pages de procès-verbal, soit, si le nombre de défauts constatés restant à imprimer le permet sur la page du procès-verbal simplifié de demi-format (24 centimètres de large, y compris les bandes caroll détachables de 15 millimètres de large, et environ 15 centimètres de haut).
+L'édition de ces défauts est dans ce cas achevée sur une ou plusieurs autres pages de procès-verbal.
 
-Le recto de ce procès-verbal simplifié doit être conforme au fac-similé reproduit en appendice 4 de la présente annexe. Le numéro de liasse figurant sur le procès-verbal et le sigle du réseau doivent également être repris sur ce document et être imprimés dans les mêmes conditions.
+Les numéros d'imprimé et de procès-verbal figurant sur le premier procès-verbal sont repris sur ce document.
 
-Son verso doit par contre rester vierge.
+Dans le cas d'une édition sur plusieurs pages, le lien entre chacune d'elles se fait par l'impression dans la colonne réservée aux défauts ou anomalies constatés des libellés "Attention, il existe une suite à cette page du procès-verbal" sur chaque bas de page précédente et "Suite du procès-verbal" sur chaque haut de page suivante, la fin d'édition du procès-verbal devant alors se terminer par "Attention, ce procès-verbal contient" × "pages", × correspondant au nombre de pages ayant servi à éditer l'ensemble du procès-verbal.
 
-Les couleurs d'impression doivent être les mêmes que celles utilisées pour le procès-verbal.
-
-Toutes les rubriques mentionnées dans le fac-similé reproduit en appendice 4 de la présente annexe (la date du contrôle, le numéro du procès-verbal, le numéro d'agrément du centre, le cachet du centre, le visa du contrôleur, le nom et la signature de la personne ayant présenté le véhicule et qui reconnaît avoir pris connaissance des résultats, et, bien sûr, la suite des défauts constatés) doivent être systématiquement complétées lors d'une édition sur cette page.
-
-La dimension en hauteur et l'épaisseur des caractères utilisés pour l'édition de ces informations doivent être suffisantes afin d'en obtenir une bonne lisibilité.
-
-Dans le cas d'une édition du procès-verbal sur plusieurs pages, le lien entre chacune d'elles doit se faire par l'impression dans la colonne réservée aux défauts constatés des libellés " Attention, il existe une suite à cette page du procès-verbal " sur chaque bas de page précédente et " Suite du procès-verbal " sur chaque haut de page suivante, la fin d'édition du procès-verbal devant alors se terminer par " Attention ce procès-verbal contient " x " pages ", x correspondant au nombre de pages ayant servi à éditer l'ensemble du procès-verbal.
-
-La dimension en hauteur et l'épaisseur des caractères utilisés pour l'édition de ces informations doivent se distinguer de celles utilisées pour l'édition des défauts constatés.
-
-Les vignettes non délivrées, soit parce que la visite a été défavorable, soit parce qu'il y a eu édition sur plusieurs pages en raison du nombre trop important de défauts constatés, doivent être rendus inutilisables et faire l'objet d'une procédure de gestion particulière.
+La vignette (en cas de résultat favorable) et le timbre de la première page du premier procès-verbal sont utilisés. Les vignettes et timbres non délivrés sont rendus inutilisables et font l'objet d'une procédure de gestion particulière.
 
 2. Vignette
 
@@ -218,45 +204,37 @@ Les vignettes non délivrées, soit parce que la visite a été défavorable, so
 
 La vignette se présente sous la forme d'un document carré de cinq centimètres de côté.
 
-Elle peut être éditée :
+Elle constitue un volet complémentaire attenant au procès-verbal. Les informations figurant sur la vignette sont de deux types : les inscriptions fixes communes à toutes les vignettes et les informations variables particulières à chaque contrôle.
 
--Soit comme un volet complémentaire attenant au procès-verbal ;
+Le graphisme de la vignette est conforme à celui du fac-similé disponible sur le site internet de l'OTC. Aucune mention ou information supplémentaire ne figure ou n'est apposée sur ou à proximité immédiate de la vignette.
 
--Soit comme un volet indépendant séparé de ces documents.
+2. 2. Recto
 
-Les informations figurant sur la vignette sont de deux types : les inscriptions fixes communes à toutes les vignettes et les informations variables particulières à chaque contrôle.
+2.2.1. Inscriptions fixes
 
-Le graphisme de la vignette doit être conforme au fac-similé de l'appendice 5 de la présente annexe.
+"N° d'agrément".
 
-Aucune mention ou information supplémentaire ne doit figurer ni être apposée sur ou à proximité immédiate de la vignette.
+"N° de série".
 
-2. 2. Recto (appendice 5)
+"N° d'imprimé".
 
-2. 2. 1. Inscriptions fixes
+Les inscriptions fixes sont imprimées en lettres capitales avec une encre résistant à la lumière pendant une durée d'au moins deux ans. La taille des caractères d'imprimerie de ces inscriptions est de type Univers 65.
 
-1. Les inscriptions relatives aux mois de l'année :
+2.2.2. Informations variables
 
-" J ", " F ", " M ", " A ", " M ", " J ", " J ". " A ", " S ", " 0 ", " N ", " D ".
+Ces informations sont :
 
-2. Le numéro de la vignette : " N° ".
+- L'immatriculation du véhicule ;
 
-3. Les inscriptions relatives aux deux derniers chiffres de l'année pour quatre années consécutives :
+- La date avant laquelle la prochaine visite est à réaliser ;
 
-" 99 ", " 00 ", " 01 ", " 02 " (pour la première série de vignettes).
+- Le numéro d'agrément du centre ;
 
-Les inscriptions fixes doivent être imprimées en lettres capitales avec une encre résistant à la lumière pendant une durée d'au moins deux ans. La taille des caractères d'imprimerie de ces inscriptions doit être de type Univers 65.
+- Le numéro de série du véhicule ;
 
-2. 2. 2. Information variable
+- Le numéro d'imprimé (imprimé à la fabrication du document).
 
-Cette information est constituée par le numéro de la vignette qui est imprimé à la fabrication du document.
-
-Lorsque la vignette est éditée sous la forme d'un volet complémentaire attenant au procès-verbal, son numéro d'ordre doit être identique au numéro de liasse figurant sur le procès-verbal, et, être imprimé dans les mêmes conditions lors de la fabrication.
-
-Lorsque la vignette est éditée en tant que volet indépendant séparé de ces documents, son numéro d'ordre peut être différent. Il doit cependant toujours figurer dans une série continue définie par chaque réseau ou centre non rattaché, et être précédé de la lettre d'identification du réseau ou de la lettre Z dans le cas d'un centre de contrôle non rattaché. Il peut cependant comporter des lettres d'identification et éventuellement se présenter sous forme de code à barres afin de permettre une identification automatique.
-
-Quel que soit le mode d'édition de la vignette, son numéro d'ordre doit être imprimé en lettres capitales de couleur noire avec une encre résistant à la lumière pendant une durée d'au moins deux ans.
-
-La hauteur et la grosseur des caractères utilisés pour cette information variable propre à chaque vignette doivent permettre une lecture facile de la vignette et doivent correspondre à une utilisation optimale de la surface disponible. Leur dimension en hauteur ne doit pas être inférieure à 2 millimètres, l'épaisseur et la graisse de ces caractères doivent être comparables à celles des indications fixes afin d'obtenir une bonne lisibilité de cette information.
+La hauteur et la grosseur des caractères utilisés pour cette information variable propre à chaque vignette permettent une lecture facile de la vignette et correspondent à une utilisation optimale de la surface disponible. Leur dimension en hauteur n'est pas inférieure à 2 millimètres, l'épaisseur et la graisse de ces caractères sont comparables à celles des indications fixes afin d'obtenir une bonne lisibilité de cette information. L'encre utilisée résiste à la lumière pendant une durée d'au moins deux ans.
 
 2. 3. Verso
 
@@ -269,8 +247,6 @@ Elles doivent être les suivantes :
 -Fond de sécurité : bleu PMS 287 solidité lumière ;
 
 -Textes : bleu reflex.
-
-Les encres utilisées doivent avoir une résistance à la lumière d'un minimum de deux ans.
 
 2. 5. Sécurité de la vignette
 
@@ -288,112 +264,54 @@ Elle doit également comporter un pré-découpage capable d'entraîner lors d'un
 
 3. Timbre certificat d'immatriculation
 
-3. 1. Généralités
+3.1. Généralités
 
-Le timbre se présente sous la forme d'un rectangle horizontal de 23 mm de large par 11 ou 22 mm de haut.
+Le timbre se présente sous la forme d'un rectangle horizontal de 27 millimètres de large et 18 millimètres de hauteur. Il est édité de manière attenante au procès-verbal.
 
-Il peut être édité :
+Les informations figurant sur le timbre sont de deux types : les inscriptions fixes communes à tous les timbres et préimprimées lors de la fabrication, et les informations variables particulières à chaque contrôle.
 
--Soit de manière attenante au procès-verbal ;
+La répartition de ces informations fixes et variables est conforme à celle du fac-similé disponible sur le site internet de l'OTC.
 
--Soit séparément.
+3.2. Recto
 
-Les informations figurant sur le timbre sont de deux type : les inscriptions fixes communes à tous les timbres et pré-imprimées lors de la fabrication, et les informations variables particulières à chaque contrôle.
+3.2.1. Inscriptions fixes
 
-La répartition de ces informations fixes et variables doit être conforme au fac-similé de l'appendice 6 de la présente annexe.
+Les inscriptions fixes visées au 3.1 ci-dessus sont les suivantes :
 
-3. 2. Recto (appendice 6)
+- le nom du réseau (en toutes lettres), figurant sur la première ligne du timbre. Ces inscriptions sont imprimées en lettres capitales avec des caractères d'imprimerie de type Univers 55.
 
-3. 2. 1. Inscriptions fixes
+La hauteur des caractères utilisés pour ces informations permet une lecture facile du timbre et correspond à une utilisation optimale de la surface disponible.
 
-Les inscriptions fixes visées au 3. 1 ci-dessus et devant figurer sur la première ligne du timbre sont les suivantes :
+3.2.2. Informations variables
 
--Le nom du réseau (en toutes lettres).
+Les inscriptions variables visées au 3.1 ci-dessus sont les suivantes :
 
-Les inscriptions fixes devant figurer sur la troisième ligne du timbre sont les suivantes :
+- Sur la première ligne, en cas de centre non rattaché à un réseau, le numéro d'agrément du centre ;
 
--Le numéro de timbre qui doit être identique au numéro de liasse figurant sur le procès-verbal lorsque le timbre est édité de manière attenante au procès-verbal, ou qui doit figurer dans une série continue définie par chaque réseau ou centre non rattaché, pouvant éventuellement se présenter sous la forme d'un code à barres afin de permettre une identification automatique, lorsque le timbre est édité séparément du procès-verbal.
+- La lettre A ou S (les lettres AP, SP s'il s'agit d'une visite technique complémentaire), selon que les défectuosités constatées, s'il y en a, ne justifient pas une contre-visite ou justifient une contre-visite ;
 
-Ces inscriptions doivent être imprimées en lettres capitales avec des caractères d'imprimerie de type Univers 55.
+- Sur la deuxième ligne, la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à une nouvelle visite ;
 
-La hauteur des caractères utilisés pour ces informations doit permettre une lecture facile du timbre et doit correspondre à une utilisation optimale de la surface disponible.
+- Sur la troisième ligne, le numéro d'immatriculation du véhicule ;
 
-3. 2. 2. Informations variables
+- Sur la quatrième ligne, le numéro d'imprimé, identique à celui du procès-verbal auquel le timbre est attenant (imprimé à la fabrication du document).
 
-Les inscriptions variables visées au 3. 1 ci-dessus et devant figurer sur la deuxième ligne du timbre sont les suivantes :
+Ces informations sont apposées par impression. Elles permettent une lecture facile du timbre et correspondent à une utilisation optimale de la surface disponible.
 
--La lettre A, S (les lettres AP, SP s'il s'agit d'une visite technique complémentaire) ou R, selon que les défectuosités constatées, s'il y en a, ne justifient pas une contre-visite, justifient une contre-visite, ou que le véhicule est non roulant ;
+3.3. Couleurs d'impression
 
--La date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à une nouvelle visite ;
+Elles sont les suivantes :
 
--le numéro d'agrément préfectoral du centre dans le cas d'un centre non rattaché.
+- Fond : bleu PMS 287 solidité lumière ;
 
-Ces informations sont apposées par impression. Elles doivent permettre une lecture facile du timbre et doivent correspondre à une utilisation optimale de la surface disponible.
+- Textes : bleu reflex (centre non rattaché) et/ou couleurs spécifiques du réseau.
 
-3. 3. Verso
+3.4. Sécurité du timbre
 
-Cette face doit rester vierge.
+Le timbre est autocollant, de manière à pouvoir être apposé sur le certificat d'immatriculation à l'emplacement réservé à cet effet.
 
-3. 4. Couleurs d'impression
+Il comporte un prédécoupage devant entraîner son déchirement ou un dépôt d'une partie de l'encre, lors d'une tentative d'extraction du certificat d'immatriculation.
 
-Elles doivent être les suivantes :
-
--Fond : bleu PMS 287 solidité lumière ;
-
--Textes : bleu reflex (centre non rattaché) et / ou couleurs spécifiques du réseau.
-
-3. 5. Sécurité du timbre
-
-Le timbre doit être autocollant, de manière à pouvoir être apposé sur le certificat d'immatriculation à l'emplacement réservé à cet effet.
-
-Il doit comporter un pré-découpage devant entraîner son déchirement ou un dépôt d'une partie de l'encre, lors d'une tentative d'extraction du certificat d'immatriculation.
-
-Il ne doit également pas permettre, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables pouvant y être portées.
+Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables pouvant y être portées.
 
 Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme latent révélable sur toute photocopie.
-
-4. Liste des appendices
-
--Appendice 1-Papier à utiliser.
-
--Appendice 2-Fac-similé du recto du procès-verbal.
-
--Appendice 3 Abrogé.
-
--Appendice 4-Fac-similé du recto du procès-verbal simplifié.
-
--Appendice 5-Fac-similé de la vignette.
-
--Appendice 6-Fac-similé du timbre certificat d'immatriculation.
-
-APPENDICE 1
-
-Appendice relatif à la qualité du papier
-
-concernant le procès-verbal
-
-Couleur et qualité :
-
--Le papier utilisé doit être de couleur blanche et doit conserver sa couleur d'origine compte tenu d'une durée d'exposition à la lumière de deux ans ;
-
--Son grammage doit être au minimum de 80g / m.
-
-APPENDICE 2
-
-(cliché non reproduit)
-
-APPENDICE 3
-
-Abrogé
-
-APPENDICE 4
-
-(cliché non reproduit)
-
-APPENDICE 5
-
-(cliché non reproduit)
-
-APPENDICE 6
-
-(cliché non reproduit)

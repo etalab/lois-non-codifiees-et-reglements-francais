@@ -51,7 +51,7 @@ L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture 
 
 - des règles fixant l'exercice de l'activité du contrôleur ;
 
-- le non-respect des prescriptions relatives au maintien de qualification prévues à l'annexe IV.
+- des prescriptions relatives au maintien de qualification prévues à l'annexe IV.
 
 Le contrôleur doit signaler à la préfecture toute modification entraînant un non-respect des conditions posées lors de la délivrance de l'agrément au niveau du point 2 du paragraphe I du présent chapitre.
 

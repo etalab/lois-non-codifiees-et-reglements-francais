@@ -13,7 +13,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <tr>
 <td valign="top" width="603">
 <p>X.X.X. Point de contrôle</p>
-<p align="right">X.X.X.X.X. Défaut constatable + localisation</p>
+<p align="left">X.X.X.X.X. Défaut constatable + localisation</p>
 </td>
 <td valign="top" width="88">
 <p align="center">Contre- visite</p>
@@ -113,7 +113,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <tr>
 <td valign="top" width="604">
 <p>X.X.X. Point de contrôle</p>
-<p align="right">X.X.X.X.X. Défaut constatable + localisation</p>
+<p align="left">X.X.X.X.X. Défaut constatable + localisation</p>
 </td>
 <td valign="top" width="88">
 <p align="center">Contre- visite</p>
@@ -138,7 +138,8 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="604">
 <p>H.1.2.2.1.Non-concordance du numéro d'identification avec le document d'identification</p>
 </td>
-<td valign="top" width="88"/>
+<td align="center" valign="top" width="88">N<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="604">
@@ -150,13 +151,15 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="604">
 <p>H.1.2.3.1. Absence</p>
 </td>
-<td valign="top" width="88"/>
+<td align="center" valign="top" width="88">N<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="604">
 <p>H.1.2.3.2. Illisible ou contrôle impossible</p>
 </td>
-<td valign="top" width="88"/>
+<td align="center" valign="top" width="88">N<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="604">
@@ -259,14 +262,15 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <p>H.1.6.1. Divers</p>
 </td>
 <td valign="top" width="88">
-<p align="center">N</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="604">
 <p>H.1.6.1.1. Absence d'inscriptions</p>
 </td>
-<td valign="top" width="88"/>
+<td align="center" valign="top" width="88">N<br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="604">
@@ -329,6 +333,10 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <p>H.1.9. Conditions d'essai</p>
 </td>
 <td valign="top" width="88"/>
+</tr>
+<tr>
+<td>H. 1.9.1. Conditions d'essai</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="604">
@@ -455,7 +463,6 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -470,9 +477,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">Contre- visite</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -481,9 +486,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">(oui/non)</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -492,20 +495,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.2.2. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -514,31 +511,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.3. Frein de stationnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.3.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -547,9 +534,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -558,20 +543,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.3.2. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -580,9 +559,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -591,9 +568,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -602,53 +577,30 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.3.3. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.2.3.3.1. Anomalie de fixation du système de freinage à commande à câble (AV, AR, C,</p>
+<p>H.2.3.3.1. Anomalie de fixation du système de freinage à commande à câble (AV, AR, C, AVG, AVD, ARG, ARD)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
-<p>AVG, AVD, ARG, ARD)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.3.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -657,31 +609,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.4. Frein de secours</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.4.1. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -690,31 +632,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.5. Réservoir de liquide de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.5.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -723,20 +655,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H H.2.5.2. Spécification</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -745,20 +671,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.5.3. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -767,20 +687,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.5.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -789,31 +703,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.6. Maître-cylindre</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.6.1. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -822,20 +726,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.6.2. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -844,20 +742,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.6.3. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -866,31 +758,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.7. Canalisation de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.7.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -899,9 +781,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -910,20 +790,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.7.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -932,20 +806,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.7.3. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -954,20 +822,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.7.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -976,31 +838,21 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.8. Flexible de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.8.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1009,9 +861,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1020,20 +870,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.8.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1042,20 +886,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">N</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.8.3. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1064,20 +902,14 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.8.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td width="1">
-<br/>
-</td>
+<td valign="top" width="88"/>
+<td width="1"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1086,13 +918,10 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="88">
 <p align="center">O</p>
 </td>
-<td width="1">
-<br/>
-</td>
+<td width="1"/>
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1114,17 +943,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.9. Correcteur, répartiteur de freinage</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.9.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1138,9 +963,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.9.2. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1154,9 +977,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.9.3. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1170,17 +991,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.10. Pédale du frein de service</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.10.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1194,9 +1011,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.10.2. Spécification</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1210,17 +1025,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.11. Commande du frein de stationnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.11.1. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1235,16 +1046,15 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <p>H.2.11.1.2. Absence de verrouillage, de commande ou de fixation</p>
 </td>
 <td valign="top" width="88">
-<br/>
+<div align="center">O<br/>
+</div>
 </td>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.11.2. Spécification</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1258,17 +1068,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.12. Câble, tringlerie du frein de stationnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.12.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1290,9 +1096,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.12.2. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1306,17 +1110,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.13. Disque de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.13.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1346,9 +1146,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.13.2. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1362,21 +1160,17 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.14. Etrier, cylindre de roue</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.14.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
-<p>H.2.14.1.1. Détérioration importante et/ou anomalie de fixation (AVD, AVG, ARD, ARG,</p>
+<p>H.2.14.1.1. Détérioration importante et/ou anomalie de fixation (AVD, AVG, ARD, ARG, C)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
@@ -1384,19 +1178,9 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="593">
-<p>C)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="593">
 <p>H.2.14.2. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1410,9 +1194,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.14.3. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1426,17 +1208,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.15. Tambour de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.15.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1448,7 +1226,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="593">
-<p>H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C</p>
+<p>H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">N</p>
@@ -1458,17 +1236,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.16. Plaquette de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.16.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1490,17 +1264,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.17. Système d'assistance de freinage</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
 <p>H.2.17.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1514,9 +1284,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.17.2. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1530,9 +1298,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="593">
 <p>H.2.17.3. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="593">
@@ -1547,6 +1313,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <p>H.2.18. Témoin de mauvais fonctionnement du système de freinage</p>
 </td>
 <td valign="top" width="88">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1582,9 +1349,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.2.18.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1598,17 +1363,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.2.19. Témoin de niveau de liquide de frein</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.19.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1622,17 +1383,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.2.20. Témoin d'usure de plaquettes de freins</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.2.20.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1646,25 +1403,19 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3. Suspension</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.1. Suspension (Mesures)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.1.1. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1686,17 +1437,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.2. Ressort, barre de torsion (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.2.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1710,9 +1457,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.2.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1726,9 +1471,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.2.3. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1742,17 +1485,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.3. Amortisseur (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.3.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1782,9 +1521,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.3.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1798,9 +1535,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.3.3. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1814,9 +1549,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.3.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1838,17 +1571,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.4. Roulement de roue</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.4.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1862,9 +1591,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.4.2. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1878,17 +1605,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.5. Demi-train AV (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.5.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1900,18 +1623,10 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.3.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG,</p>
+<p>H.3.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
-<p>D, G)</p>
-</td>
-<td valign="top" width="88">
-<br/>
 </td>
 </tr>
 <tr>
@@ -1950,9 +1665,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.5.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1966,17 +1679,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.6. Demi-train AR (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.6.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -1988,18 +1697,10 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.3.6.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG,</p>
+<p>H.3.6.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G, C)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
-<p>D, G, C)</p>
-</td>
-<td valign="top" width="88">
-<br/>
 </td>
 </tr>
 <tr>
@@ -2020,7 +1721,6 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -2064,9 +1764,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.6.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2080,17 +1778,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.7. Barre stabilisatrice (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.7.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2112,9 +1806,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.7.2. Fixation / Liaison</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2128,17 +1820,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.8. Circuit de suspension (y compris accumulateurs)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.8.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2152,9 +1840,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.8.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2168,9 +1854,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.8.3. Etanchéité</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2184,9 +1868,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.8.4. Divers</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2200,17 +1882,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.9. Essieu rigide (y compris ancrages)</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.9.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2240,9 +1918,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.9.2. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2256,17 +1932,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.10. Roue</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.10.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2278,7 +1950,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.3.10.1.2. Détérioration de la roue constituée d'éléments en bois (AVG, AVD, ARG,</p>
+<p>H.3.10.1.2. Détérioration de la roue constituée d'éléments en bois (AVG, AVD, ARG, ARD)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">N</p>
@@ -2286,15 +1958,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>ARD)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
-<p>H.3.10.1.3. Détérioration importante de la roue constituée d'éléments en bois (AVG,</p>
+<p>H.3.10.1.3. Détérioration importante de la roue constituée d'éléments en bois (AVG, AVD, ARG, ARD)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
@@ -2302,19 +1966,9 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>AVD, ARG, ARD)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
 <p>H.3.10.2. Fonctionnement</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2326,7 +1980,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.3.10.2.2. Frottement(s) sur carrosserie et/ou élément(s) mécanique(s) (AVD, AVG,</p>
+<p>H.3.10.2.2. Frottement(s) sur carrosserie et/ou élément(s) mécanique(s) (AVD, AVG, ARD, ARG)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
@@ -2334,19 +1988,9 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>ARD, ARG)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
 <p>H.3.10.3. Fixation</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2360,9 +2004,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.10.4. Spécification</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2384,17 +2026,13 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 <td valign="top" width="603">
 <p>H.3.11. Pneumatique</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
 <p>H.3.11.1. Etat</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
@@ -2422,7 +2060,7 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>H.3.11.1.4. Usure importante et/ou différence importante d'usure sur l'essieu (AVD,</p>
+<p>H.3.11.1.4. Usure importante et/ou différence importante d'usure sur l'essieu (AVD, AVG, ARD, ARG)</p>
 </td>
 <td valign="top" width="88">
 <p align="center">O</p>
@@ -2430,19 +2068,9 @@ III - Liste des défauts constatables relatifs aux points de contrôle se substi
 </tr>
 <tr>
 <td valign="top" width="603">
-<p>AVG, ARD, ARG)</p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="603">
 <p>H.3.11.2. Spécification</p>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
+<td valign="top" width="88"/>
 </tr>
 <tr>
 <td valign="top" width="603">
