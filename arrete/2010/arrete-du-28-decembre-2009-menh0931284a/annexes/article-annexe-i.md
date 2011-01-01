@@ -4,7 +4,7 @@
 
 Section philosophie
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de philosophie sans programme (durée : sept heures ; coefficient 2).
 
@@ -12,11 +12,11 @@ A. ― Epreuves écrites d'admissibilité
 
 3° Epreuve d'histoire de la philosophie : commentaire d'un texte extrait de l'œuvre d'un auteur (antique ou médiéval, moderne, contemporain) figurant dans un programme établi pour l'année et comportant deux auteurs, appartenant chacun à une période différente (durée : six heures ; coefficient 2).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient 1,5).
 
-Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.
+Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.2
 
 2° L'épreuve se déroule en deux parties : la première partie compte pour 16 points, la seconde pour 4 points (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient 1,5).
 
@@ -37,6 +37,10 @@ Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoir
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
 Le candidat indique au moment de son inscription la langue ancienne ou moderne choisie par lui.
+
+Deuxième partie : exposé du candidat à partir d'un document fourni par le jury (dix minutes) et entretien avec le jury (dix minutes) sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable définie dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+
+Les programmes du concours font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
 
 Section grammaire
 
@@ -90,7 +94,7 @@ Option B : Grec ou latin.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -100,7 +104,7 @@ Pour la première partie de l'épreuve 4°, à propos d'un texte choisi dans le 
 
 Section lettres classiques
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Thème latin (durée : quatre heures ; coefficient 6).
 
@@ -112,7 +116,7 @@ A. ― Epreuves écrites d'admissibilité
 
 5° Dissertation française sur un sujet se rapportant à un programme d'œuvres (durée : sept heures ; coefficient 16).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation surveillée : six heures et trente minutes ; durée de l'épreuve : une heure et quinze minutes, coefficient 11).
 
@@ -122,7 +126,7 @@ Les livres jugés indispensables sont mis à la libre disposition des candidats.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -166,7 +170,7 @@ Le programme des œuvres est publié chaque année au Bulletin officiel de l'éd
 
 Section lettres modernes
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition française sur un sujet se rapportant à un programme d'œuvres d'auteurs de langue française (durée : sept heures ; coefficient 12).
 
@@ -182,7 +186,7 @@ A. ― Epreuves écrites d'admissibilité
 
 L'usage du dictionnaire latin-français et du dictionnaire grec-français est autorisé respectivement pour la version latine et la version grecque. Pour les langues vivantes, seul est autorisé l'usage du dictionnaire unilingue dans la langue choisie, à l'exception des épreuves d'arabe et d'hébreu pour lesquelles l'usage du dictionnaire bilingue est admis.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon portant sur les œuvres d'auteurs de langue française inscrites au programme (durée de la préparation : six heures ; durée de l'épreuve : quarante minutes ; coefficient 13).
 
@@ -194,7 +198,7 @@ Première partie : explication d'un texte de langue française extrait des œuvr
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -232,7 +236,7 @@ Les deuxième et troisième épreuves concernant chacune une des questions figur
 
 Section géographie
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition : géographie thématique (durée : sept heures ; coefficient 1) :
 
@@ -256,23 +260,23 @@ Cette épreuve est constituée par un travail sur documents, hors programme.
 
 Elle comporte les trois options ci-après correspondant aux trois principales filières de formation suivies par les étudiants en géographie :
 
-― espaces, territoires, sociétés ;
+- espaces, territoires, sociétés ;
 
-― milieux et environnement ;
+- milieux et environnement ;
 
-― aménagement.
+- aménagement.
 
 Les candidats choisissent leur option au moment de l'épreuve, après avoir pris connaissance des sujets. L'épreuve consiste en plusieurs exercices tels que : contrôle de connaissances de base ; analyses, études critiques, interprétation de documents divers ; rédaction de brèves synthèses (une à deux pages) ; production d'une carte ou d'un croquis à partir de documents.
 
 4° Composition d'histoire dans le cadre d'un programme (durée : sept heures ; coefficient 1).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Commentaire de documents géographiques (durée de la préparation : six heures ; durée de l'épreuve : cinquante-cinq minutes maximum [exposé : trente minutes maximum ; entretien : vingt-cinq minutes maximum] ; coefficient 3).
 
 L'entretien est divisé en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points : quinze minutes portent sur le document géographique ; dix minutes maximum portent sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable , à partir d'un document qui a été remis au candidat au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve.
 
-Les documents géographiques ― notamment cartes à différentes échelles, croquis, graphiques, photographies, images satellite, tableaux statistiques, textes ― portent sur les questions au programme des deux compositions de l'écrit.
+Les documents géographiques - notamment cartes à différentes échelles, croquis, graphiques, photographies, images satellite, tableaux statistiques, textes - portent sur les questions au programme des deux compositions de l'écrit.
 
 2° Leçon de géographie, hors programme (durée de la préparation : six heures ; durée de l'épreuve : cinquante-cinq minutes maximum [exposé : trente minutes maximum ; entretien : vingt-cinq minutes maximum] ; coefficient 3).
 
@@ -284,7 +288,7 @@ Section langues vivantes étrangères
 
 Allemand
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en allemand sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -296,7 +300,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 3° Composition en français sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 Epreuves hors programme.
 
@@ -306,7 +310,7 @@ Première partie : thème oral portant sur un texte littéraire ou emprunté à 
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -342,7 +346,7 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 Anglais
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Dissertation en français sur un sujet de littérature ou de civilisation dans le cadre d'un programme (durée : sept heures ; coefficient 1).
 
@@ -368,7 +372,7 @@ Les textes à traduire sont distribués simultanément aux candidats, au début 
 
 Les candidats rendent deux copies séparées et chaque traduction entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Epreuve à option en anglais suivie d'un entretien en anglais :
 
@@ -398,7 +402,7 @@ Cet exercice est suivi d'un entretien en français avec le jury (durée de la pr
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable . (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -420,7 +424,7 @@ Les programmes des épreuves ainsi que les indications bibliographiques sont pub
 
 Arabe
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Dissertation en arabe littéral portant sur le programme (durée : six heures ; coefficient 2).
 
@@ -436,7 +440,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 Pour toutes les épreuves, seul l'usage de dictionnaires arabes monolingues est autorisé.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon en arabe littéral portant sur une question du programme (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 3).
 
@@ -448,7 +452,7 @@ Pour l'épreuve 1 et la première partie de l'épreuve 2, le jury se réserve la
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -464,7 +468,7 @@ Les programmes font l'objet d'une publication au Bulletin officiel du ministère
 
 Chinois
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Dissertation en français portant sur le programme de littérature ou de civilisation (durée de l'épreuve : six heures ; coefficient 1).
 
@@ -490,7 +494,7 @@ Les candidats rendent deux copies séparées et chaque traduction entre pour moi
 
 Les dictionnaires unilingues de langue chinoise (Cidian et Zidian) sont autorisés pour les quatre épreuves d'admissibilité.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Epreuves de synthèse et commentaire de texte en chinois : exposé oral à partir d'un ensemble de textes hors programme, suivi du commentaire d'un des textes et d'un entretien en chinois avec le jury.
 
@@ -514,7 +518,7 @@ Option D : littérature classique,
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -528,7 +532,7 @@ Les programmes font l'objet d'une publication au Bulletin officiel du ministère
 
 Espagnol
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en espagnol sur un sujet de littérature ou de civilisation des pays de langue espagnole se rapportant au programme (durée : sept heures ; coefficient 2).
 
@@ -540,7 +544,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 3° Composition en français sur un sujet de littérature ou de civilisation des pays de langue espagnole se rapportant au programme (durée : sept heures ; coefficient 2).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Explication en langue espagnole d'un texte tiré d'un des auteurs inscrits au programme, suivie d'un entretien en espagnol, et éventuellement, de la traduction d'un passage du texte.
 
@@ -558,7 +562,7 @@ L'explication est suivie d'un entretien en français (explication : trente minut
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -566,7 +570,7 @@ La maîtrise de la langue espagnole et de la langue française est prise en comp
 
 Hébreu
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Dissertation en hébreu sur une question se rapportant au programme (durée : six heures ; coefficient 2).
 
@@ -588,7 +592,7 @@ Cette épreuve est constituée d'un thème et d'une version.
 
 Les textes à traduire sont distribués simultanément aux candidats au début de l'épreuve. Ceux-ci consacrent à chacun des deux traductions le temps qui leur convient, dans les limites de l'horaire imparti à l'ensemble de l'épreuve de traduction. Les candidats rendent deux copies séparées et chaque traduction est comptabilisée pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon en hébreu sur une question se rapportant au programme, suivie d'un entretien en hébreu avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 3).
 
@@ -600,7 +604,7 @@ Exposé oral en hébreu à partir de documents, hors programme, suivi d'un entre
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -614,7 +618,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 Italien
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en langue italienne sur un sujet de littérature italienne ou sur un sujet relatif à la civilisation italienne dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -628,7 +632,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 La maîtrise de la langue italienne et de la langue française est prise en compte dans la notation des épreuves d'admissibilité.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon en langue italienne sur une question se rapportant au programme (durée de la préparation : cinq heures ; durée de la leçon : quarante-cinq minutes ; coefficient 6).
 
@@ -636,9 +640,9 @@ Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposi
 
 2° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
 
-― la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
+- la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte ;
 
-― la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire grammatical laissé au choix du candidat et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+- la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire grammatical laissé au choix du candidat et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
@@ -652,7 +656,7 @@ Première partie : traduction improvisée (thème et version) (durée de l'épre
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -662,7 +666,7 @@ Le programme du concours fait l'objet d'une publication annuelle au Bulletin off
 
 Langue et culture japonaises
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Une dissertation en français portant sur un sujet de littérature dans le cadre d'un programme (durée : sept heures ; coefficient 3).
 
@@ -674,7 +678,7 @@ A. ― Epreuves écrites d'admissibilité
 
 Pour les épreuves 2°, 3° et 4°, un dictionnaire unilingue et un dictionnaire en langue japonaise de caractères chinois, indiqué par le jury, peuvent être utilisés par les candidats.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Une leçon en français portant, au choix du candidat formulé au moment de l'inscription, soit sur une question de littérature, soit sur une question d'histoire et de civilisation du Japon, dans le cadre du programme (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
@@ -684,7 +688,7 @@ Première partie : traduction et analyse en français d'un texte en japonais cla
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -698,7 +702,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 Néerlandais
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en néerlandais sur un sujet de littérature néerlandaise ou sur un sujet relatif à la civilisation des pays de langue néerlandaise, au choix du jury, dans le cadre du programme (durée : sept heures ; coefficient 4).
 
@@ -710,7 +714,7 @@ A. ― Epreuves écrites d'admissibilité
 
 La maîtrise de la langue néerlandaise et de la langue française est prise en compte dans la notation des épreuves d'admissibilité.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Explication en néerlandais d'un texte, suivie d'un entretien en néerlandais. Le texte est extrait d'un des ouvrages littéraires du programme (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 7).
 
@@ -722,7 +726,7 @@ Le thème oral est suivi d'un entretien en français (thème oral : vingt minute
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -734,7 +738,7 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 Polonais
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Une composition en polonais sur un sujet de littérature ou de civilisation polonaises dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -744,7 +748,7 @@ A. ― Epreuves écrites d'admissibilité
 
 4° Une composition en français sur un sujet de littérature ou de civilisation polonaises dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Un résumé en polonais d'un texte polonais hors programme suivi d'un entretien en polonais avec le jury (durée de la préparation : une heure ; durée de l'épreuve : trente minutes maximum [résumé : vingt minutes maximum ; entretien : dix minutes maximum] ; coefficient 4).
 
@@ -754,7 +758,7 @@ Première partie : thème oral (durée : trente minutes maximum).
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -768,7 +772,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 Portugais
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en français sur une question de civilisation au programme (durée : sept heures ; coefficient 4).
 
@@ -782,7 +786,7 @@ Ceux-ci consacrent à chacune des deux traductions le temps qui leur convient, d
 
 3° Composition en portugais : dissertation littéraire sur une œuvre au programme (durée : sept heures ; coefficient 4).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Thème oral improvisé sur un texte littéraire contemporain ou emprunté à la presse périodique ou quotidienne (durée : trente minutes maximum ; coefficient 2).
 
@@ -792,7 +796,7 @@ Première partie : leçon en portugais sur une question se rapportant au program
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -806,7 +810,7 @@ Le programme du concours fait l'objet d'une publication au Bulletin officiel du 
 
 Russe
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition en russe, dans le cadre d'un programme, sur un sujet de littérature russe ou de civilisation russe (durée : sept heures ; coefficient 2).
 
@@ -820,7 +824,7 @@ Les textes à traduire sont distribués simultanément aux candidats, au début 
 
 Lorsque la composition en russe a trait à la littérature, la composition en français a trait à la civilisation. Lorsque la composition en russe a trait à la civilisation, la composition en français a trait à la littérature.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure et quinze minutes ; durée de l'épreuve : une heure et cinq minutes maximum ; coefficient 2).
 
@@ -828,7 +832,7 @@ Première partie : résumé en russe d'un texte en langue russe, non littéraire
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -854,13 +858,13 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 Section mathématiques
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de mathématiques générales (durée : six heures ; coefficient 1).
 
 2° Composition d'analyse et de probabilités (durée : six heures ; coefficient 1).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 Les candidats ont le choix entre quatre options :
 
@@ -890,7 +894,7 @@ Deux sujets au choix sont proposés par le jury aux candidats. Ce dernier dispos
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -900,11 +904,11 @@ L'épreuve est commune aux options A, B et C.
 
 Pour chacune de ces épreuves :
 
-― deux sujets au choix sont proposés par le jury au candidat ;
+- deux sujets au choix sont proposés par le jury au candidat ;
 
-― pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
+- pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-― à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+- à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
 3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 1).
 
@@ -928,7 +932,7 @@ Deux sujets au choix sont proposés par le jury aux candidats. Ce dernier dispos
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -936,11 +940,11 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Pour chacune de ces deux épreuves :
 
-― deux sujets au choix sont proposés par le jury au candidat ;
+- deux sujets au choix sont proposés par le jury au candidat ;
 
-― pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
+- pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-― à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+- à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
 3° Epreuve d'analyse de système informatique (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 1).
 
@@ -974,7 +978,7 @@ Les épreuves des quatre options sont déterminées ainsi qu'il suit :
 
 Option A : physique
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2).
 
@@ -982,7 +986,7 @@ A. ― Epreuves écrites d'admissibilité
 
 3° Problème de physique (durée : six heures ; coefficient 2).
 
-B. ― Epreuves orales et pratiques d'admission
+B. - Epreuves orales et pratiques d'admission
 
 1° Leçon de physique (coefficient 4).
 
@@ -992,7 +996,7 @@ Première partie : leçon de chimie, suivie d'un entretien avec le jury (durée 
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1008,7 +1012,7 @@ Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : 
 
 Option B : chimie
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de chimie (durée : cinq heures ; coefficient 2).
 
@@ -1016,7 +1020,7 @@ A. ― Epreuves écrites d'admissibilité
 
 3° Problème de chimie (durée : six heures ; coefficient 2).
 
-B. ― Epreuves orales et pratiques d'admission
+B. - Epreuves orales et pratiques d'admission
 
 1° Leçon de chimie (coefficient 4).
 
@@ -1026,7 +1030,7 @@ Première partie : leçon de physique, suivie d'un entretien avec le jury (duré
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1042,7 +1046,7 @@ Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : 
 
 Option C : physique appliquée
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2) :
 
@@ -1052,7 +1056,7 @@ Les candidats composent sur le même sujet que celui remis au titre de la même 
 
 3° Problème de physique appliquée, de traitement du signal et d'automatique (durée : six heures ; coefficient 2).
 
-B. ― Epreuves orales et pratiques d'admission
+B. - Epreuves orales et pratiques d'admission
 
 1° Leçon de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 4).
 
@@ -1062,7 +1066,7 @@ Première partie : leçon de physique et applications, suivie d'un entretien ave
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1078,7 +1082,7 @@ Durée des épreuves 1 et 3 : une heure vingt minutes. Durée de l'épreuve 2 : 
 
 Option D : procédés physico-chimiques
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2).
 
@@ -1088,7 +1092,7 @@ Les candidats composent sur le même sujet que celui remis au titre de la même 
 
 3° Problème de chimie, génie chimique et de procédés physico-chimiques (durée : six heures ; coefficient 2).
 
-B. ― Epreuves orales et pratiques d'admission
+B. - Epreuves orales et pratiques d'admission
 
 1° Leçon de génie chimique et de procédés physico-chimiques, de modélisation et de commande (coefficient 4).
 
@@ -1098,7 +1102,7 @@ Première partie : leçon de physique, suivie d'un entretien avec le jury (duré
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1122,7 +1126,7 @@ Section sciences de la vie
 
 Sciences de la Terre et de l'Univers
 
-Le champ disciplinaire de l'agrégation externe de sciences de la vie ― sciences de la Terre et de l'Univers couvre trois secteurs :
+Le champ disciplinaire de l'agrégation externe de sciences de la vie - sciences de la Terre et de l'Univers couvre trois secteurs :
 
 Secteur A : biologie et physiologie cellulaires, biologie moléculaire ; leur intégration au niveau des organismes ;
 
@@ -1134,7 +1138,7 @@ A chaque secteur A, B ou C correspond un programme de connaissances générales 
 
 Un programme annexe aux programmes de connaissances générales porte sur des questions scientifiques d'actualité sur lesquelles peuvent être interrogés les candidats lors de la quatrième épreuve d'admission.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 Les trois épreuves écrites d'admissibilité portent chacune sur un secteur différent.
 
@@ -1146,7 +1150,7 @@ Elles peuvent comporter ou non une analyse de documents :
 
 3° Epreuve portant sur le programme de connaissances générales du secteur C (durée : cinq heures ; coefficient 2).
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Epreuve de travaux pratiques portant, au choix du candidat lors de l'inscription, sur le programme de l'un des secteurs A, B ou C (durée : six heures maximum ; coefficient 3).
 
@@ -1160,15 +1164,15 @@ Première partie : épreuve orale portant sur les programmes de connaissances g�
 
 Le sujet est tiré au sort par le candidat. Il porte :
 
-― sur le programme de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant au secteur C pour les candidats ayant choisi, lors de l'inscription, le secteur A ou le secteur B pour la première épreuve d'admission ;
+- sur le programme de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant au secteur C pour les candidats ayant choisi, lors de l'inscription, le secteur A ou le secteur B pour la première épreuve d'admission ;
 
-― sur les programmes de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant aux secteurs A et B pour les candidats ayant choisi, lors de l'inscription, le secteur C pour la première épreuve d'admission.
+- sur les programmes de connaissances générales ou sur le programme annexe de questions scientifiques d'actualité se rapportant aux secteurs A et B pour les candidats ayant choisi, lors de l'inscription, le secteur C pour la première épreuve d'admission.
 
 La présentation orale et pratique est suivie d'un entretien avec le jury ; l'entretien peut comporter des questions portant sur les programmes de connaissances générales et le programme annexe de questions scientifiques d'actualité de l'ensemble des secteurs.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1178,7 +1182,7 @@ Le programme annexe portant sur des questions scientifiques d'actualité est pub
 
 Section musique
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des autres arts, des idées et des civilisations (durée : six heures ; coefficient 1) :
 
@@ -1196,7 +1200,7 @@ L'épreuve prend fin à l'expiration d'un délai de dix minutes suivant la derni
 
 3° Harmonisation à quatre parties pour une formation donnée (ensemble vocal mixte ou quatuor à cordes) d'une mélodie n'excédant pas trente mesures, tonalement analysable (durée : six heures ; coefficient 1).
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : six heures ; durée de l'épreuve : une heure dix minutes ; coefficient 2) :
 
@@ -1208,7 +1212,7 @@ Pendant la préparation, le candidat dispose d'un clavier et du matériel néces
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1242,7 +1246,7 @@ Le choix de l'option est exprimé lors de l'inscription. Les candidats proposés
 
 Option A : arts plastiques
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Epreuve écrite d'esthétique et sciences de l'art : cette épreuve prend appui sur un document textuel assorti d'un sujet :
 
@@ -1256,7 +1260,7 @@ Cette épreuve a pour but de tester l'engagement artistique du candidat, son apt
 
 Format du support de présentation : grand aigle.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Epreuve de pratique et création plastiques : réalisation artistique bi ou tridimensionnelle à partir d'un sujet à consignes précises assorti d'un dossier thématique comportant des documents visuels et textuels :
 
@@ -1264,33 +1268,29 @@ Les candidats ont le choix entre différents modes d'expression : dessin, gravur
 
 Déroulement de l'épreuve :
 
-A. ― Projet (comportant ou non des indications écrites) mis sous scellés (durée : six heures) ;
+A. - Projet (comportant ou non des indications écrites) mis sous scellés (durée : six heures) ;
 
-B. ― Réalisation du projet en deux journées de huit heures ;
+B. - Réalisation du projet en deux journées de huit heures ;
 
-C. ― Présentation par le candidat de son travail et discussion avec le jury (durée totale : trente minutes).
+C. - Présentation par le candidat de son travail et discussion avec le jury (durée totale : trente minutes).
 
 Le gros matériel, tel que bacs d'acide et presse pour la gravure, agrandisseurs pour la photographie, est mis à la disposition des candidats. Les outils personnels sont laissés à leur charge.
 
 Coefficient pour l'ensemble de l'épreuve : 3.
 
-2° Leçon : conçue à l'intention d'élèves du second cycle, cette épreuve inclut une réflexion sur les ressources offertes par un partenariat structuré avec les institutions et les professionnels des domaines artistiques et culturels.
+2° L'épreuve se déroule en deux parties : la première partie compte pour 15 points, la seconde pour 5 points (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
 
-Cette leçon est suivie d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
+La leçon est conçue à l'attention d'élèves du second cycle. Elle inclut une réflexion sur les ressources offertes par un partenariat structuré avec les institutions et les professionnels des domaines artistiques et culturel. La leçon est suivie d'un entretien avec le jury.
 
-3° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trente minutes ; durée de l'épreuve : cinquante minutes maximum ; (coefficient 2).
+L'entretien comporte deux parties. La première (vingt-cinq minutes) prolonge le sujet de la leçon. La seconde (vingt minutes), immédiatement enchaînée, développe une question touchant la connaissance réfléchie du contexte institutionnel et des conditions effectives d'un enseignement exercé en responsabilité telle que définie par la première compétence de l'annexe I de l'arrêté du 19 décembre 2006.
 
-Première partie : entretien sans préparation avec le jury : entretien à partir de documents imposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines artistiques, autres que les arts plastiques, suivants : architecture, arts appliqués, cinéma-vidéo, photographie, théâtre (durée : trente minutes maximum).
+La question relative à la compétence désignée ci-dessus est remise au candidat au début de l'épreuve avec le sujet de la leçon.
 
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+3° Entretien sans préparation avec le jury : entretien à partir de documents imposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines artistiques, autres que les arts plastiques, suivants : architecture, arts appliqués, cinéma-vidéo, photographie, théâtre (durée : trente minutes maximum ; coefficient 2).
 
 Option B : arts appliqués
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Epreuve écrite d'esthétique : analyse et commentaire d'un document textuel. Cette épreuve prend appui sur un document textuel assorti d'un sujet. Ce texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des textes critiques, des écrits d'artistes, d'architectes, d'ingénieurs, de techniciens (durée : quatre heures ; coefficient 1).
 
@@ -1304,23 +1304,23 @@ De sa capacité à s'approprier des données pour positionner une problématique
 
 De sa capacité à communiquer parti pris et démarche à l'aide des moyens graphiques, plastiques et des modes appropriés nécessaires (durée : douze heures ; coefficient 3).
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Epreuve de conception et d'élaboration d'un projet en arts appliqués. A partir d'une situation, d'un problème ou d'un cahier des charges et de consignes précises, le candidat est invité à initier et développer un programme de stylique prenant en compte toutes les composantes d'un projet, notamment fonctionnelles, techniques, esthétiques, socio-économiques, éthiques et sémantiques :
 
 Déroulement de l'épreuve :
 
-A. ― Recherche et série d'esquisses (durée : six heures) ;
+A. - Recherche et série d'esquisses (durée : six heures) ;
 
-B. ― Développement du projet en deux journées de huit heures ;
+B. - Développement du projet en deux journées de huit heures ;
 
-C. ― Présentation et justification par le candidat de son travail et de ses choix ; discussion avec le jury (durée totale : trente minutes).
+C. - Présentation et justification par le candidat de son travail et de ses choix ; discussion avec le jury (durée totale : trente minutes).
 
 Coefficient pour l'ensemble de l'épreuve : 6.
 
 2° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
 
-Leçon : conçue à l'intention d'élèves et étudiants des classes terminales et postbaccalauréat, elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat, avec les institutions et acteurs des domaines artistiques, culturels et industriels, ainsi que sur les connaissances, capacités et attitudes définies dans le point 3 de l'annexe de l'arrêté du 12 mai 2010 : Agir en fonctionnaire de l'Etat et de façon éthique et responsable .
+Leçon : conçue à l'intention d'élèves et étudiants des classes terminales et postbaccalauréat, elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat, avec les institutions et acteurs des domaines artistiques, culturels et industriels, ainsi que sur les connaissances, capacités et attitudes définies dans le point 3 de l'annexe de l'arrêté du 19 décembre 2006 : Agir en fonctionnaire de l'Etat et de façon éthique et responsable .
 
 Une enveloppe tirée au sort par le candidat contient deux sujets proposés à partir de documents textuels ou visuels. Elle comporte une question relative à la compétence désignée ci-dessus. Le candidat choisit l'un des deux sujets et répond à la question.
 
@@ -1330,7 +1330,7 @@ Cette leçon est suivie d'un entretien avec le jury.
 
 Section sciences économiques et sociales
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de sciences économiques (durée : sept heures ; coefficient 4).
 
@@ -1340,7 +1340,7 @@ A. ― Epreuves écrites d'admissibilité
 
 Le programme sur lequel portent les épreuves écrites d'admissibilité est publié au Bulletin officiel du ministère de l'éducation nationale.
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Leçon portant sur le programme de l'option sciences économiques et sociales de la classe de seconde ou sur le programme de sciences économiques et sociales de première ou de terminale ES des lycées (y compris sur le programme de l'option sciences économiques et sociales en première ES et sur celui de l'enseignement de spécialité en classe de terminale ES), suivie d'un entretien avec le jury (durée de la préparation : six heures ; durée de l'épreuve : une heure maximum [leçon : quarante-cinq minutes ; entretien : quinze minutes maximum] ; coefficient 5).
 
@@ -1350,7 +1350,7 @@ Première partie : commentaire d'un dossier portant sur un problème économique
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1360,15 +1360,15 @@ Cette dernière épreuve porte sur un programme publié au Bulletin officiel du 
 
 Section mécanique
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Epreuve de mécanique générale et des milieux déformables :
 
 Cette épreuve porte sur :
 
-― d'une part, l'étude de problèmes relatifs à des systèmes mécaniques modélisables par un ensemble de solides indéformables. Elle utilise les résultats de la mécanique générale et de la mécanique analytique ;
+- d'une part, l'étude de problèmes relatifs à des systèmes mécaniques modélisables par un ensemble de solides indéformables. Elle utilise les résultats de la mécanique générale et de la mécanique analytique ;
 
-― d'autre part, sur l'étude de structures ou de processus, à l'aide de la mécanique des milieux déformables, solides et fluides et la thermodynamique.
+- d'autre part, sur l'étude de structures ou de processus, à l'aide de la mécanique des milieux déformables, solides et fluides et la thermodynamique.
 
 Elle conduit à des mises en équation et à des résolutions totales ou partielles, permettant d'atteindre des conclusions quant au comportement mécanique et à l'utilisation des systèmes considérés.
 
@@ -1382,13 +1382,13 @@ Elle vise également à évaluer les capacités du candidat à intégrer les dé
 
 La résolution du problème posé nécessite :
 
-― l'analyse détaillée du cahier des charges ;
+- l'analyse détaillée du cahier des charges ;
 
-― la lecture de représentations de systèmes réels ;
+- la lecture de représentations de systèmes réels ;
 
-― l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
+- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
 
-― la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
+- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
 
 Durée : huit heures ; coefficient 1.
 
@@ -1404,7 +1404,7 @@ Durée : six heures ; coefficient 1.
 
 Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de génie mécanique.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Leçon de mécanique :
 
@@ -1440,7 +1440,7 @@ Les candidats doivent impérativement déposer au secrétariat du jury le dossie
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1448,21 +1448,21 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 L'épreuve a pour but de vérifier les aptitudes des candidats à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et technologique, et d'en tirer des intentions pédagogiques à un niveau donné. Le travail demandé comporte :
 
-― la définition d'une méthodologie scientifique ou d'une démarche technologique rigoureuse ;
+- la définition d'une méthodologie scientifique ou d'une démarche technologique rigoureuse ;
 
-― l'observation et la manipulation effective du candidat sur le site expérimental ;
+- l'observation et la manipulation effective du candidat sur le site expérimental ;
 
-― la représentation synthétique des résultats obtenus ;
+- la représentation synthétique des résultats obtenus ;
 
-― l'énoncé d'intentions pédagogiques adaptées aux objectifs imposés et au public supposé.
+- l'énoncé d'intentions pédagogiques adaptées aux objectifs imposés et au public supposé.
 
 Les manipulations s'appuient sur des produits et matériels réels prototypes ou produits industrialisés, éventuellement associés à des maquettes ou des montages didactiques, et sur la mise en œuvre d'outils informatiques de simulation.
 
 Pour la préparation de l'épreuve, un dossier est remis au candidat ; il comprend :
 
-― les éléments techniques nécessaires à la résolution du problème posé, notamment, les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les documents constructeurs utiles, la procédure de mise en œuvre des matériels ;
+- les éléments techniques nécessaires à la résolution du problème posé, notamment, les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les documents constructeurs utiles, la procédure de mise en œuvre des matériels ;
 
-― les éléments nécessaires à l'élaboration succincte des intentions pédagogiques pour l'organisation, à un niveau donné, d'une séquence à caractère expérimental utilisant le matériel proposé.
+- les éléments nécessaires à l'élaboration succincte des intentions pédagogiques pour l'organisation, à un niveau donné, d'une séquence à caractère expérimental utilisant le matériel proposé.
 
 Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
 
@@ -1470,9 +1470,9 @@ Trente minutes avant la fin de la préparation, le candidat est placé dans la s
 
 L'exposé devant le jury porte sur :
 
-― la présentation des résultats de l'activité expérimentale. Cette présentation doit être associée à une analyse critique des résultats obtenus, des méthodes et des solutions proposées ;
+- la présentation des résultats de l'activité expérimentale. Cette présentation doit être associée à une analyse critique des résultats obtenus, des méthodes et des solutions proposées ;
 
-― la présentation de l'exploitation pédagogique. Cette présentation doit mettre en évidence la stratégie pédagogique utilisée, les connaissances fondamentales dégagées et les moyens permettant de vérifier qu'elles sont assimilées.
+- la présentation de l'exploitation pédagogique. Cette présentation doit mettre en évidence la stratégie pédagogique utilisée, les connaissances fondamentales dégagées et les moyens permettant de vérifier qu'elles sont assimilées.
 
 Cet exposé est suivi d'un entretien.
 
@@ -1482,25 +1482,25 @@ Le programme du concours est publié au Bulletin officiel du ministère de l'éd
 
 Section génie mécanique
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Epreuve d'étude d'industrialisation :
 
 L'épreuve a pour but d'évaluer la capacité du candidat à résoudre un problème de production industrielle. A partir d'un produit technique industrialisé, représentatif des technologies actuelles, l'épreuve porte sur tout ou partie des éléments suivants :
 
-― optimisation des relations produit-matériau-procédé ;
+- optimisation des relations produit-matériau-procédé ;
 
-― étude de processus de fabrication associés aux procédés de fabrication primaires (créant la forme), secondaires (modifiant la forme) et tertiaires (améliorant les caractéristiques d'une surface ou d'un volume de la pièce), de leur définition et de leur simulation ;
+- étude de processus de fabrication associés aux procédés de fabrication primaires (créant la forme), secondaires (modifiant la forme) et tertiaires (améliorant les caractéristiques d'une surface ou d'un volume de la pièce), de leur définition et de leur simulation ;
 
-― étude des systèmes de production et de contrôle relatifs aux procédés de transformation ;
+- étude des systèmes de production et de contrôle relatifs aux procédés de transformation ;
 
-― étude des outillages associés aux processus (définition du cahier des charges et de l'aptitude à l'emploi, conception et qualification) ;
+- étude des outillages associés aux processus (définition du cahier des charges et de l'aptitude à l'emploi, conception et qualification) ;
 
-― étude des systèmes d'organisation et de gestion des productions dans une logique d'optimisation technico-économique ;
+- étude des systèmes d'organisation et de gestion des productions dans une logique d'optimisation technico-économique ;
 
-― étude des systèmes et des contraintes de montage et d'assemblage ;
+- étude des systèmes et des contraintes de montage et d'assemblage ;
 
-― étude des contrôles (dimensionnels, géométriques et fonctionnels) associés à l'optimisation de la qualité des pièces, des produits et des processus.
+- étude des contrôles (dimensionnels, géométriques et fonctionnels) associés à l'optimisation de la qualité des pièces, des produits et des processus.
 
 Durée : six heures ; coefficient 1.
 
@@ -1512,13 +1512,13 @@ Elle vise également à évaluer les capacités du candidat à intégrer les dé
 
 La résolution du problème posé nécessite :
 
-― l'analyse détaillée du cahier des charges ;
+- l'analyse détaillée du cahier des charges ;
 
-― la lecture de représentations de systèmes réels ;
+- la lecture de représentations de systèmes réels ;
 
-― l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
+- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
 
-― la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
+- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
 
 Durée : huit heures ; coefficient 1.
 
@@ -1534,7 +1534,7 @@ Durée : six heures ; coefficient 1.
 
 Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de mécanique.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Leçon de technologie des procédés et processus :
 
@@ -1568,7 +1568,7 @@ Les candidats doivent impérativement déposer au secrétariat du jury le dossie
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1576,17 +1576,17 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 L'épreuve a pour but d'évaluer les aptitudes du candidat à construire une réflexion technique et scientifique dans un cadre de mise en œuvre de moyens de production ou d'assemblage et de périphérique associés. Relative à une grande variété de procédés, elle porte sur tout ou partie des activités industrielles suivantes :
 
-― analyse des données d'industrialisation et du contexte proposé de mise en œuvre ;
+- analyse des données d'industrialisation et du contexte proposé de mise en œuvre ;
 
-― identification des problèmes techniques ;
+- identification des problèmes techniques ;
 
-― définition et exécution d'un programme d'expérimentation ;
+- définition et exécution d'un programme d'expérimentation ;
 
-― analyse des résultats ;
+- analyse des résultats ;
 
-― proposition d'évolution des conditions de réalisation et validation des solutions proposées par la mise en œuvre finale ;
+- proposition d'évolution des conditions de réalisation et validation des solutions proposées par la mise en œuvre finale ;
 
-― présentation synthétique des résultats obtenus.
+- présentation synthétique des résultats obtenus.
 
 La problématique technique peut être relative au comportement de la pièce ou de l'outillage dans son environnement de transformation, à la mise en œuvre d'une production, à la nature des éléments constitutifs d'une chaîne d'action ou à l'analyse et la conduite d'un système automatisé.
 
@@ -1606,7 +1606,7 @@ Le programme du concours est publié au Bulletin officiel du ministère de l'éd
 
 Section génie civil
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Epreuve de modélisation des matériaux et des ouvrages :
 
@@ -1650,45 +1650,45 @@ Durée totale de l'épreuve : six heures ; coefficient 1.
 
 Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
 
-― option A : matériaux, ouvrages et aménagement ;
+- option A : matériaux, ouvrages et aménagement ;
 
-― option B : équipements et énergies.
+- option B : équipements et énergies.
 
 Pour l'option A, l'épreuve porte sur la conception, la réalisation et la maintenance des ouvrages dans les domaines de la construction et des aménagements.
 
 Elle permet d'évaluer les capacités du candidat à intégrer :
 
-― les logiques de fonctionnement mécanique des ouvrages et leur modélisation ;
+- les logiques de fonctionnement mécanique des ouvrages et leur modélisation ;
 
-― la détermination des actions et leur combinaison ;
+- la détermination des actions et leur combinaison ;
 
-― les calculs de dimensionnement et de vérification des ouvrages dans le cadre des réglementations nationales et européennes ;
+- les calculs de dimensionnement et de vérification des ouvrages dans le cadre des réglementations nationales et européennes ;
 
-― les procédés et les technologies utilisés ;
+- les procédés et les technologies utilisés ;
 
-― l'organisation et la planification du chantier et sa logistique ;
+- l'organisation et la planification du chantier et sa logistique ;
 
-― les facteurs de l'économie de la construction ;
+- les facteurs de l'économie de la construction ;
 
-― la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
+- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
 
 Pour l'option B, l'épreuve porte sur la conception, la réalisation et la maintenance des équipements techniques et des éléments relatifs au confort et à l'utilisation des bâtiments.
 
 Elle permet d'évaluer les capacités du candidat à intégrer :
 
-― les logiques de fonctionnement des installations ;
+- les logiques de fonctionnement des installations ;
 
-― les calculs et les réglementations nationales et européennes en vigueur ;
+- les calculs et les réglementations nationales et européennes en vigueur ;
 
-― les procédés et les technologies utilisés ;
+- les procédés et les technologies utilisés ;
 
-― l'organisation de chantier, la logistique et l'étude économique des opérations ;
+- l'organisation de chantier, la logistique et l'étude économique des opérations ;
 
-― la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
+- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
 
 Durée : huit heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Leçon à caractère scientifique et technologique :
 
@@ -1734,9 +1734,9 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
 
-― option A : matériaux, ouvrages et aménagement ;
+- option A : matériaux, ouvrages et aménagement ;
 
-― option B : équipements et énergies.
+- option B : équipements et énergies.
 
 L'épreuve a pour but de vérifier les aptitudes du candidat à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et/ou technologique et d'en proposer l'exploitation pédagogique.
 
@@ -1752,7 +1752,7 @@ Le programme du concours est publié au Bulletin officiel du ministère de l'éd
 
 Section génie électrique
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition d'automatique et d'informatique industrielle (durée : six heures ; coefficient 1).
 
@@ -1760,7 +1760,7 @@ A. ― Epreuves écrites d'admissibilité
 
 3° Composition d'électrotechnique (durée : six heures ; coefficient 1).
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les sujets des épreuves d'admission prennent appui sur les domaines ci-après des applications du génie électrique : domaine A : applications de l'électronique et des courants faibles ; domaine B : applications de l'électrotechnique et des courants forts.
 
@@ -1804,7 +1804,7 @@ Le programme du concours est publié au Bulletin officiel du ministère de l'éd
 
 Section biochimie - génie biologique
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de biochimie (durée : six heures ; coefficient 2).
 
@@ -1812,7 +1812,7 @@ A. ― Epreuves écrites d'admissibilité
 
 3° Composition de biologie cellulaire et physiologie (durée : six heures ; coefficient 2).
 
-B. ― Epreuves pratiques et orales d'admission
+B. - Epreuves pratiques et orales d'admission
 
 1° Travaux pratiques de biochimie et/ou de physiologie (durée : quatre heures ; coefficient 2).
 
@@ -1862,15 +1862,15 @@ Les candidats proposés par les jurys pour l'admissibilité et pour l'admission 
 
 Les épreuves de l'agrégation externe d'économie et gestion sont déterminées ainsi qu'il suit :
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition portant sur l'économie générale (durée : six heures ; coefficient 3).
 
 2° Composition portant, au choix du candidat formulé lors de l'inscription, indépendamment de l'option A, B, C ou D choisie :
 
-― soit sur les éléments généraux du droit et sur le droit de l'entreprise et des affaires ;
+- soit sur les éléments généraux du droit et sur le droit de l'entreprise et des affaires ;
 
-― soit sur les éléments généraux de l'analyse des organisations et sur l'économie de l'entreprise.
+- soit sur les éléments généraux de l'analyse des organisations et sur l'économie de l'entreprise.
 
 Durée : six heures ; coefficient 3.
 
@@ -1878,7 +1878,7 @@ Durée : six heures ; coefficient 3.
 
 Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat (durée : sept heures ; coefficient 4).
 
-B. ― Epreuves orales d'admission
+B. - Epreuves orales d'admission
 
 1° Exposé portant sur un thème économique, juridique ou social :
 
@@ -1924,7 +1924,7 @@ Le programme des épreuves est publié au Bulletin officiel du ministère de l'�
 
 Section éducation physique et sportive
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Activités physiques et sportives et civilisations :
 
@@ -1938,7 +1938,7 @@ Dissertation portant sur les aspects biologique, psychologique et sociologique d
 
 Le sujet porte sur un programme défini chaque année.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 1° Interrogation à partir d'un dossier d'établissement :
 
@@ -1956,7 +1956,7 @@ Première partie : leçon devant le jury suivie d'un entretien et se référant 
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
