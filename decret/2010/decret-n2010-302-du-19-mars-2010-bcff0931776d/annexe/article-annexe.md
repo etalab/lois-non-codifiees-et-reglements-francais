@@ -9,3 +9,11 @@ Secrétaires administratifs de l'intérieur et de l'outre-mer.
 Secrétaires administratifs des juridictions financières.
 
 Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
+
+Secrétaires administratifs relevant des ministres chargés des affaires sociales.
+
+Secrétaires d'administration de la Caisse des dépôts et consignations.
+
+Secrétaires administratifs relevant du ministre chargé de l'agriculture.
+
+Secrétaires administratifs du ministère de la défense.
