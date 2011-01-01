@@ -1043,7 +1043,6 @@
 - [Arrêté du 12 janvier 2010 (DEVE1000820A)](arrete-du-12-janvier-2010-deve1000820a)
 - [Arrêté du 12 janvier 2010 (DEVO1000661A)](arrete-du-12-janvier-2010-devo1000661a)
 - [Arrêté du 12 janvier 2010 (IOCC0931671A)](arrete-du-12-janvier-2010-iocc0931671a)
-- [Arrêté du 12 janvier 2010 (JUSC1000476A)](arrete-du-12-janvier-2010-jusc1000476a)
 - [Arrêté du 12 janvier 2010 (PRMX1000810A)](arrete-du-12-janvier-2010-prmx1000810a)
 - [Arrêté du 12 juillet 2010 (BCRE1012427A)](arrete-du-12-juillet-2010-bcre1012427a)
 - [Arrêté du 12 juillet 2010 (DEFH1017382A)](arrete-du-12-juillet-2010-defh1017382a)
