@@ -1105,7 +1105,6 @@
 - [Décret n°2006-1733 du 23 décembre 2006 (MENS0603194D)](decret-n2006-1733-du-23-decembre-2006-mens0603194d)
 - [Décret n°2006-1737 du 23 décembre 2006 (JUSK0640268D)](decret-n2006-1737-du-23-decembre-2006-jusk0640268d)
 - [Décret n°2006-1738 du 23 décembre 2006 (JUSC0620929D)](decret-n2006-1738-du-23-decembre-2006-jusc0620929d)
-- [Décret n°2006-1740 du 23 décembre 2006 (EQUG0601579D)](decret-n2006-1740-du-23-decembre-2006-equg0601579d)
 - [Décret n°2006-1751 du 23 décembre 2006 (SANS0622389D)](decret-n2006-1751-du-23-decembre-2006-sans0622389d)
 - [Décret n°2006-1752 du 23 décembre 2006 (SANA0624350D)](decret-n2006-1752-du-23-decembre-2006-sana0624350d)
 - [Décret n°2006-1756 du 23 décembre 2006 (AGRS0602413D)](decret-n2006-1756-du-23-decembre-2006-agrs0602413d)

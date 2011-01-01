@@ -309,7 +309,6 @@
 - [Décret n°2003-392 du 18 avril 2003 (INDI0320337D)](decret-n2003-392-du-18-avril-2003-indi0320337d)
 - [Décret n°2003-519 du 18 juin 2003 (ECOT0395086D)](decret-n2003-519-du-18-juin-2003-ecot0395086d)
 - [Décret n°2003-523 du 18 juin 2003 (SOCF0310074D)](decret-n2003-523-du-18-juin-2003-socf0310074d)
-- [Décret n°2003-525 du 18 juin 2003 (AGRA0300711D)](decret-n2003-525-du-18-juin-2003-agra0300711d)
 - [Décret n°2003-526 du 18 juin 2003 (AGRA0300712D)](decret-n2003-526-du-18-juin-2003-agra0300712d)
 - [Décret n°2003-527 du 18 juin 2003 (ECOP0300308D)](decret-n2003-527-du-18-juin-2003-ecop0300308d)
 - [Décret n°2003-528 du 18 juin 2003 (ECOP0300309D)](decret-n2003-528-du-18-juin-2003-ecop0300309d)

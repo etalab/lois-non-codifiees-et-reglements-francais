@@ -100,7 +100,6 @@
 - [Décret n°2002-1369 du 20 novembre 2002 (ECOA0220040D)](decret-n2002-1369-du-20-novembre-2002-ecoa0220040d)
 - [Décret n°2002-1486 du 20 décembre 2002 (AGRP0202322D)](decret-n2002-1486-du-20-decembre-2002-agrp0202322d)
 - [Décret n°2002-1490 du 20 décembre 2002 (DEFP0202399D)](decret-n2002-1490-du-20-decembre-2002-defp0202399d)
-- [Décret n°2002-235 du 20 février 2002 (AGRA0101794D)](decret-n2002-235-du-20-fevrier-2002-agra0101794d)
 - [Décret n°2002-237 du 20 février 2002 (ECOP0200104D)](decret-n2002-237-du-20-fevrier-2002-ecop0200104d)
 - [Décret n°2002-374 du 20 mars 2002 (MESV0220533D)](decret-n2002-374-du-20-mars-2002-mesv0220533d)
 - [Décret n°2002-232 du 21 février 2002 (ECOR0206084D)](decret-n2002-232-du-21-fevrier-2002-ecor0206084d)
