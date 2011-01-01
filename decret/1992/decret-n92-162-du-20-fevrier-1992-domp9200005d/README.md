@@ -2,5 +2,4 @@
 
 - [TITRE Ier : DISPOSITIONS COMMUNES.](titre-ier)
 - [TITRE II : DISPOSITIONS RELATIVES AUX COMMUNES.](titre-ii)
-- [TITRE IV : DISPOSITIONS RELATIVES AUX RÉGIES.](titre-iv)
 - [Article 9](article-9.md)
