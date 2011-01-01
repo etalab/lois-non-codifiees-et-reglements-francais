@@ -1041,7 +1041,6 @@
 - [Arrêté du 27 novembre 2008 (BCFZ0828223A)](arrete-du-27-novembre-2008-bcfz0828223a)
 - [Arrêté du 27 novembre 2008 (DEVK0827006A)](arrete-du-27-novembre-2008-devk0827006a)
 - [Arrêté du 27 novembre 2008 (DEVK0828433A)](arrete-du-27-novembre-2008-devk0828433a)
-- [Arrêté du 27 novembre 2008 (DEVS0828174A)](arrete-du-27-novembre-2008-devs0828174a)
 - [Arrêté du 27 novembre 2008 (IOCA0828110A)](arrete-du-27-novembre-2008-ioca0828110a)
 - [Arrêté du 27 novembre 2008 (IOCD0827036A)](arrete-du-27-novembre-2008-iocd0827036a)
 - [Arrêté du 27 novembre 2008 (SJSP0828092A)](arrete-du-27-novembre-2008-sjsp0828092a)
