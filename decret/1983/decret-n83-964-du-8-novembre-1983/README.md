@@ -3,4 +3,3 @@
 - [Section I : Modalités d'affectation](section-i)
 - [Section II : Conditions d'emploi](section-ii)
 - [Section III : Dispositions applicables aux communes associées](section-iii)
-- [Annexes](annexes)
