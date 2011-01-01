@@ -3072,7 +3072,6 @@
 - [Arrêté du 31 juillet 2009 (SASR0919050A)](arrete-du-31-juillet-2009-sasr0919050a)
 - [Arrêté du 31 mars 1999 (MESP9921063A)](arrete-du-31-mars-1999-mesp9921063a)
 - [Arrêté du 31 mars 2003 (AGRA0300575A)](arrete-du-31-mars-2003-agra0300575a)
-- [Arrêté du 31 mars 2009 (AGRF0831570A)](arrete-du-31-mars-2009-agrf0831570a)
 - [Arrêté du 31 mars 2009 (AGRS0907244A)](arrete-du-31-mars-2009-agrs0907244a)
 - [Arrêté du 31 mars 2009 (AGRS0907245A)](arrete-du-31-mars-2009-agrs0907245a)
 - [Arrêté du 31 mars 2009 (AGRS0907246A)](arrete-du-31-mars-2009-agrs0907246a)

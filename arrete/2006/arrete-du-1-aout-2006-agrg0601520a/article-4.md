@@ -1,3 +1,3 @@
 # Article 4
 
-Les appelants vivants doivent être maintenus en permanence sur leur site de chasse. Le ministre chargé de l'agriculture peut autoriser, par voie d'instruction, et en fonction de la situation épidémiologique, la détention des appelants hors de leur site de chasse si leur maintien en permanence sur ce site n'est pas praticable. Dans ce cas, les appelants doivent être détenus dans des conditions telles qu'aucun contact direct ou indirect avec des volailles domestiques ou d'autres oiseaux captifs ne soit possible.
+Les détenteurs d'appelants doivent mettre en œuvre les mesures de biosécurité permettant de prévenir tout risque de diffusion du virus de l'influenza aviaire entre les appelants et les volailles domestiques ou autres oiseaux captifs. Une instruction du ministre chargé de l'agriculture précise la nature de ces mesures.

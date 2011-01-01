@@ -9,33 +9,25 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>TOUTES ZONES <br/>
-<br/>(en euros) <br/>
+<br/>TOUTES ZONES <p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
 <td align="center">
+<p align="center">
 <br/>Bénéficiaire isolé ou couple sans personne à charge. <br/>
+</p>
 </td>
 <td align="center">
-<br/>50, 75 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
-</td>
-<td align="center">
-<br/>62, 24 <br/>
-</td>
+<br/>51,31</td>
 </tr>
 <tr>
 <td align="center">
 <br/>Par personne supplémentaire à charge. <br/>
 </td>
 <td align="center">
-<br/>11, 49 <br/>
-</td>
+<br/>11,62</td>
 </tr>
 </tbody>
 </table>
@@ -49,8 +41,8 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>TOUTES ZONES <br/>
-<br/>(en euros) <br/>
+<br/>TOUTES ZONES <p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -58,7 +50,7 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <br/>Bénéficiaire isolé. <br/>
 </td>
 <td align="center">
-<br/>25, 36 <br/>
+<br/>25,64<br/>
 </td>
 </tr>
 <tr>
@@ -66,23 +58,7 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <br/>Couple sans personne à charge. <br/>
 </td>
 <td align="center">
-<br/>50, 75 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé ayant une personne à charge. <br/>
-</td>
-<td align="center">
-<br/>36, 85 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couple ayant une personne à charge. <br/>
-</td>
-<td align="center">
-<br/>62, 24 <br/>
+<br/>51,31<br/>
 </td>
 </tr>
 <tr>
@@ -90,8 +66,7 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <br/>Par personne supplémentaire à charge. <br/>
 </td>
 <td align="center">
-<br/>11, 49<br/>
-</td>
+<br/>11,62</td>
 </tr>
 </tbody>
 </table>
