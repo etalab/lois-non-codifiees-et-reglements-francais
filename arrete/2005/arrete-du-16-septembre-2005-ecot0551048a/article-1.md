@@ -10,11 +10,9 @@ I.-Pour Aéroports de Paris, le périmètre d'activités prévu à l'article R. 
 
 -des activités dont le financement relève de l'article 1609 quatervicies A de ce même code ;
 
--des activités foncières et immobilières autres que celles consistant en la mise à disposition de terrains, surfaces, immeubles ou locaux pour :
+-des activités commerciales et de services telles que celles relatives aux boutiques, à la restauration, aux services bancaires et de change, à l'hôtellerie, à la location d'automobiles et à la publicité ;
 
--l'exercice de toute activité dans les aérogares ;
-
--l'exercice d'activités de location d'automobiles ;
+-des activités foncières et immobilières hors aérogares autres que celles consistant en la mise à disposition de terrains, surfaces, immeubles ou locaux pour :
 
 -l'exercice des activités d'assistance en escale ;
 
@@ -26,7 +24,9 @@ I.-Pour Aéroports de Paris, le périmètre d'activités prévu à l'article R. 
 
 -l'exercice des activités d'aviation générale et d'affaires ;
 
-toutefois, pour la conclusion du premier contrat en application du II de l'article L. 224-2 du code de l'aviation civile, peut figurer dans le périmètre précité l'ensemble des activités foncières et immobilières d'Aéroports de Paris ;
+-le stationnement automobile public et par abonnements ;
+
+-les transports publics.
 
 -le cas échéant, des autres activités sans rapport avec l'activité des aérodromes susmentionnés.
 
@@ -42,7 +42,9 @@ II.-Pour les aérodromes de l'Etat concédés, le périmètre d'activité prévu
 
 -le cas échéant, des activités sans rapport avec le ou les aérodromes concernés.
 
-III.-Pour Aéroports de Paris et les aérodromes de l'Etat concédés, un contrat conclu en application de l'article L. 224-2 du code de l'aviation civile peut prévoir de ne pas prendre en compte, pour l'application de l'article R. 224-3-1 de ce code, la totalité des profits dégagés par les activités du périmètre précité autres que les services mentionnés à l'article R. 224-1 de ce code.
+Un contrat conclu en application de l'article L. 224-2 du code de l'aviation civile peut prévoir de ne pas prendre en compte, pour l'application de l'article R. 224-3-1 de ce code, la totalité des profits et actifs relatifs aux activités du périmètre précité autres que les services mentionnés à l'article R. 224-1 de ce code.
+
+III.-Abrogé
 
 IV.-Pour Aéroports de Paris et les aérodromes de l'Etat concédés, au cas où les résultats des activités du périmètre précité, ou leurs perspectives d'évolution, sont affectés anormalement par l'effet d'un contrat passé par l'exploitant avec une entreprise qui lui est liée au sens de l'ordonnance n° 2005-649 du 6 juin 2005, ce périmètre peut être étendu par décision des ministres chargés de l'aviation civile et de l'économie, aux activités concernées de ladite entreprise. Ce périmètre peut être modifié, dans les mêmes conditions, pour prendre en compte l'effet d'un changement de l'organisation juridique de l'exploitant.
 
