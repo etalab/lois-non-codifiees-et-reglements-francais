@@ -76,7 +76,6 @@
 - [Arrêté du 3 décembre 2007 (SJSP0772386A)](arrete-du-3-decembre-2007-sjsp0772386a)
 - [Arrêté du 3 janvier 2007 (AGRM0602590A)](arrete-du-3-janvier-2007-agrm0602590a)
 - [Arrêté du 3 janvier 2007 (MENH0700001A)](arrete-du-3-janvier-2007-menh0700001a)
-- [Arrêté du 3 janvier 2007 (MENH0700002A)](arrete-du-3-janvier-2007-menh0700002a)
 - [Arrêté du 3 juillet 2007 (AGRE0759011A)](arrete-du-3-juillet-2007-agre0759011a)
 - [Arrêté du 3 juillet 2007 (AGRE0759176A)](arrete-du-3-juillet-2007-agre0759176a)
 - [Arrêté du 3 juillet 2007 (AGRP0755721A)](arrete-du-3-juillet-2007-agrp0755721a)
