@@ -1,5 +1,6 @@
 # 2011
 
+- [Décret n°2005-1254 du 3 octobre 2005 (EQUP0501295D)](decret-n2005-1254-du-3-octobre-2005-equp0501295d)
 - [Décret n°83-1033 du 3 décembre 1983](decret-n83-1033-du-3-decembre-1983)
 - [Décret n°86-4 du 3 janvier 1986](decret-n86-4-du-3-janvier-1986)
 - [Décret n°2003-1156 du 28 novembre 2003 (EQUA0301249D)](decret-n2003-1156-du-28-novembre-2003-equa0301249d)
