@@ -12,6 +12,8 @@ La mention " Marchand de listes " est exclusive des précédentes. Si le titulai
 
 Lorsque le titulaire d'une carte entend se livrer ou prêter son concours, à titre accessoire, aux opérations mentionnées à l'article L. 211-1 du code du tourisme, cette carte porte en outre la mention " Prestations touristiques ".
 
-La carte délivrée aux personnes non établies sur le territoire national porte la mention supplémentaire " Prestations de services ".
+La carte délivrée aux personnes non établies sur le territoire national, qui ne relèvent pas de la section III du chapitre II, porte la mention supplémentaire " Prestations de services ".
+
+La carte délivrée aux personnes ayant déposé la déclaration sur l'honneur mentionnée au 6° de l'article 3 porte en outre, pour l'activité concernée par la déclaration sur l'honneur, la mention : " Non-détention de fonds " ainsi que, le cas échéant, la mention : " Absence de garantie financière ".
 
 Ces cartes sont conformes à un modèle établi par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'intérieur et du ministre de l'économie et des finances.

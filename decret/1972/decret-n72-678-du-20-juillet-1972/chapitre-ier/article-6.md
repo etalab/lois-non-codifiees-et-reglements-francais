@@ -7,3 +7,5 @@ Le titulaire de la carte professionnelle doit aviser sans délai le préfet qui 
 Une demande de modification doit être faite en cas de changement dans l'identité du ou des représentants légaux ou statutaires, dans la dénomination ou la forme de la personne morale, dans l'identité du garant ou de l'assureur de responsabilité civile. Il est alors délivré une nouvelle carte sur remise de l'ancienne.
 
 Une déclaration est faite en cas d'avenants à la garantie financière ou à l'assurance contre les conséquences pécuniaires de la responsabilité civile professionnelle autres que ceux ayant pour objet le changement mentionné à l'alinéa précédent.
+
+Lorsque le titulaire de la carte dépose la déclaration sur l'honneur mentionnée au 6° de l'article 3, il lui est délivré, sur remise de son ancienne carte, une nouvelle carte professionnelle portant, pour l'activité concernée par la déclaration sur l'honneur, la mention " Non-détention de fonds " .
