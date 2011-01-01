@@ -2,36 +2,76 @@
 
 Le concours externe comporte les épreuves suivantes :
 
-A. - Epreuve écrite d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
-L'épreuve écrite d'admissibilité consiste en l'étude d'un dossier portant sur la connaissance du système éducatif (durée : quatre heures ; coefficient 4).
+Elles portent sur les champs des sciences humaines (psychologie de l'enfant et de l'adolescent, histoire et sociologie de l'éducation) et de la philosophie de l'éducation qui sont associés dans la même épreuve.
 
-Le candidat doit répondre de façon argumentée à des questions posées à partir du dossier qui lui est remis, constitué de documents notamment de nature juridique, administrative ou pédagogique.
+Le programme des épreuves écrites porte sur une ou plusieurs questions relatives à l'éducation.
 
-Cette épreuve est destinée à apprécier les connaissances du candidat sur le système éducatif français, notamment sur le fonctionnement des établissements scolaires du second degré, sur les droits et devoirs des élèves, sur les processus et enjeux de l'orientation, sur les questions pédagogiques. Elle tend également à vérifier son aptitude à exploiter des données et à mobiliser ses connaissances pour construire une réflexion ordonnée, un raisonnement cohérent et une argumentation étayée.
+Elles doivent permettre d'apprécier :
 
-Cette épreuve d'admissibilité fait appel à des connaissances relevant d'une liste de grands thèmes s'appuyant sur une bibliographie indicative. Les questions au programme et la bibliographie indicative sont publiées dans une note de service annuelle du ministre chargé de l'agriculture.
+- l'exactitude scientifique et le niveau des connaissances exposées ;
 
-La maîtrise de la langue écrite est prise en compte dans la notation de l'épreuve.
+- la capacité du candidat à structurer son exposé, à faire les choix pertinents concernant les aspects à développer au regard du sujet, à dégager les points essentiels de manière cohérente et argumentée, en y intégrant si nécessaire une illustration pertinente, à exploiter une documentation ;
+
+- la qualité générale de l'expression écrite.
+
+1. La première épreuve d'admissibilité est une composition portant sur une ou plusieurs questions relatives à l'éducation (durée : cinq heures ; coefficient 2).
+
+Elle vise plus particulièrement à évaluer le candidat sur :
+
+- sa culture disciplinaire correspondant au sujet posé ;
+
+- sa capacité à organiser les connaissances et à prendre le recul nécessaire vis-à-vis des savoirs. A ce titre, des aspects épistémologiques et historiques de la discipline peuvent être intégrés dans cette épreuve sans en faire l'objet principal.
+
+2. La deuxième épreuve d'admissibilité est l'étude d'un dossier portant sur la connaissance du système éducatif (durée : cinq heures ; coefficient 2).
+
+Elle consiste en la rédaction de réponses argumentées à des questions posées à partir d'un dossier constitué de documents de nature juridique, administrative ou pédagogique.
+
+Elle vise plus particulièrement à évaluer le candidat sur :
+
+- sa capacité à réinvestir les connaissances acquises dans les champs des sciences humaines, notamment la psychologie, l'histoire, la philosophie de l'éducation ;
+
+- sa capacité d'analyse et de réflexion critique sur le thème proposé.
 
 B. - Epreuves orales d'admission
 
-Epreuve n° 1 : analyse d'une situation relative à une question éducative, identification des problèmes et propositions de solutions (durée de l'épreuve : quarante-cinq minutes maximum précédée d'une heure de préparation ; coefficient 3).
+Les épreuves d'admission permettent au jury d'apprécier les qualités d'expression orale du candidat, sa conviction dans les points de vue exprimés, son ouverture d'esprit et sa motivation pour le métier de conseiller principal d'éducation.
 
-Cette épreuve est destinée à évaluer la capacité du candidat à analyser une situation d'établissement, à proposer des modalités d'action, à argumenter et à soutenir, dans un échange contradictoire avec les membres du jury, les initiatives qu'il entend promouvoir. Elle vise également à apprécier son sens des responsabilités.
+1. La première épreuve orale d'admission consiste à analyser une situation relative à une question éducative en identifiant les problèmes et proposant des solutions, dans le contexte de l'enseignement agricole et de ses spécificités (préparation : une heure ; exposé d'une durée maximale de quinze minutes suivi d'un entretien d'une durée maximale de quarante-cinq minutes ; coefficient 3).
 
-Après un exposé du candidat d'une durée maximale de quinze minutes, le jury s'entretient avec le candidat pendant une durée maximale de trente minutes.
+L'épreuve vise à évaluer le candidat sur :
 
-Epreuve n° 2 : entretien sur un thème relatif à l'éducation et à la vie scolaire (durée de l'épreuve : quarante-cinq minutes maximum précédée d'une heure de préparation ; coefficient 3).
+- l'utilisation des connaissances dans le cadre d'une mise en situation ;
 
-Cette épreuve est destinée à apprécier les connaissances et positions du candidat sur le thème. Elle vise aussi à évaluer ses capacités à communiquer et à dialoguer ainsi que son aptitude à assumer une relation éducative au sein d'une communauté éducative.
+- sa capacité à adapter ses réponses aux publics concernés ;
 
-Le thème proposé doit permettre au candidat de structurer sa pensée à partir des connaissances acquises et d'argumenter son point de vue sur le sujet.
+- sa capacité à justifier ses choix portant sur les solutions proposées ;
 
-Le sujet de cette épreuve orale est tiré au sort par le candidat.
+- sa capacité à percevoir les interrelations possibles avec les problématiques pédagogiques.
 
-Après un exposé du candidat d'une durée maximale de quinze minutes, le jury s'entretient avec le candidat pendant une durée maximale de trente minutes.
+2. La deuxième épreuve orale d'admission vise à apprécier la motivation des candidats et leur aptitude à exercer le métier d'enseignant, et notamment la connaissance des missions de l'enseignement agricole mentionnées à l'article L. 811-1 du code rural. Il sera également apprécié leur connaissance du système éducatif ainsi que des valeurs et exigences du service public.
 
-La maîtrise de la langue orale est prise en compte dans la notation de chacune des épreuves.
+C'est une épreuve professionnelle (préparation : une heure ; coefficient 3). Elle se compose :
 
-Pour la préparation de ces deux épreuves d'admission, les candidats pourront s'appuyer sur une bibliographie donnée à titre indicatif dans une note de service annuelle du ministre chargé de l'agriculture.
+1° D'un exposé en deux parties au cours duquel le candidat présente :
+
+- dans une première partie, son analyse d'une question tirée au sort (préparation : une heure), en s'appuyant sur un ou plusieurs documents portant sur le thème de l'éducation et de l'enseignement agricole ;
+
+- dans une seconde partie, son projet professionnel et ses motivations.
+
+L'exposé est d'une durée totale de quinze minutes, la première partie ne pouvant excéder dix minutes.
+
+2° D'un entretien avec le jury d'une durée de trente minutes.
+
+Cette épreuve permet de vérifier que le candidat possède les connaissances, aptitudes et compétences requises, telles que précisées à l'annexe I :
+
+- aptitude à communiquer ;
+
+- ouverture culturelle et qualité de leur réflexion ;
+
+- connaissances des valeurs et exigences du service public et faculté d'agir en fonctionnaire de l'Etat de façon éthique et responsable ;
+
+- intérêt pour le métier d'enseignant et aptitude à se projeter dans l'exercice du métier ;
+
+- connaissance de l'enseignement agricole, de son environnement, des différents publics et partenaires.

@@ -9,3 +9,5 @@ Pour chacun des concours, le jury est composé :
 ― d'au minimum une personne extérieure aux services du ministère de l'agriculture et de la pêche qualifiée en matière d'éducation, de formation des jeunes ou de vie scolaire.
 
 Le ministre chargé de l'agriculture arrête la composition du jury de chacun des concours et nomme leurs membres.
+
+Lorsque le président du jury se trouve dans l'impossibilité de poursuivre sa mission, un autre membre du jury appartenant à l'une des catégories d'agents mentionnées au présent article est désigné sans délai par le ministre pour le remplacer.

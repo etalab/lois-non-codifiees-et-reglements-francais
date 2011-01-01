@@ -34,6 +34,4 @@ Synthèse des acquis :
 
 Annexes :
 
-<font color="#808080" size="1">
-<em>(*) Le dossier de RAEP peut être téléchargé à l'adresse suivante : http://agriculture.gouv.fr/sections/ministere/concours. </em>
-</font>
+<font color="#808080" size="1">(*) Le dossier de RAEP peut être téléchargé à l'adresse suivante :  http://agriculture.gouv.fr/sections/ministere/concours . </font>

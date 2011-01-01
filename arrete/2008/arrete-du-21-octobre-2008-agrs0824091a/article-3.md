@@ -16,7 +16,7 @@ Epreuve n° 1 : présentation par le candidat de ses acquis de l'expérience pro
 
 Cette épreuve est destinée à évaluer les connaissances techniques du candidat dans le champ professionnel du conseiller principal d'éducation, à juger de l'ensemble des savoir-faire et de son appréhension de l'environnement professionnel concerné et à apprécier sa capacité à exercer les missions confiées au conseiller principal d'éducation et à s'insérer dans une communauté éducative.
 
-Le candidat produit, à une date fixée dans l'arrêté d'ouverture du concours, un dossier relatif à son parcours professionnel qui comporte les rubriques mentionnées en annexe I. Le dossier de reconnaissance des acquis de l'expérience professionnelle est disponible sur le site internet du ministre chargé de l'agriculture.
+Le candidat produit, à une date fixée dans l'arrêté d'ouverture du concours, un dossier relatif à son parcours professionnel qui comporte les rubriques mentionnées en annexe II. Le dossier de reconnaissance des acquis de l'expérience professionnelle est disponible sur le site internet du ministre chargé de l'agriculture.
 
 Après une présentation par le candidat de son expérience professionnelle d'une durée maximale de quinze minutes, le jury interroge le candidat sur son dossier pendant une durée maximale de trente minutes.
 
