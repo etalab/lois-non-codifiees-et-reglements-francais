@@ -9,4 +9,3 @@
 - [Article 120-2.07](article-120-2-07.md)
 - [Article 120-2.08](article-120-2-08.md)
 - [Article Annexe 120-2.A.1](article-annexe-120-2-a-1.md)
-- [Article Annexe 120-2.A.2](article-annexe-120-2-a-2.md)

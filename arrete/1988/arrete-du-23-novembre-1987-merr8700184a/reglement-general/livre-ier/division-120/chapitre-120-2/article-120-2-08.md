@@ -4,7 +4,7 @@ _Compétence des inspecteurs de la sécurité des navires et de la prévention d
 
 1. Les administrateurs des affaires maritimes, inspecteurs des affaires maritimes, officiers du corps technique et administratif des affaires maritimes ou techniciens experts du service de sécurité de la navigation maritime peuvent être membre de droit des commissions de visite d'un navire français et recevoir délégation pour les présider. Il peuvent de même effectuer les visites d'un navire étranger, autres que celles déterminées par la division 150.
 
-2. Un administrateur des affaires maritimes, un inspecteur des affaires maritimes, un officier du corps technique et administratif des affaires maritimes ou un technicien expert du service de sécurité de la navigation maritime ne peut effectuer les visites déterminées par la division 150 concernant les modalités du contrôle par l'Etat du port que s'il est titulaire d'une carte d'identité le qualifiant en application des dispositions de l'annexe 120-2.A. 2.
+2. Les conditions dans lesquelles un inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes peut effectuer des inspections au titre du contrôle des navires par l'Etat du port, en métropole ou en outre-mer, sont précisées dans les divisions y afférentes.
 
 3. Tout contrôleur des affaires maritimes, syndic des gens de mer ou personnel embarqué d'assistance et de surveillance des affaires maritimes, pour l'application du deuxième alinéa de l'article 4 le la loi n° 83-581 du 5 juillet 1983, peut sur tout navire français :
 
