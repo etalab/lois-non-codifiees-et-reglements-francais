@@ -30,7 +30,9 @@ II.-Les prestations servies au titre du régime complémentaire sont dues au tit
 
 2° 120 % du même tarif pour l'ensemble des actes, produits ou prestations remboursables autres que ceux visés au 1° et aux 3° à 12° du présent II ;
 
-3° 150 % du même tarif pour les frais d'hospitalisation ;
+3° 100 % du même tarif pour les frais d'hospitalisation ;
+
+3° bis 200 % du même tarif pour les dépassements d'honoraires facturés lors d'un séjour hospitalier ;
 
 4° 150 % du même tarif pour les dispositifs médicaux et prestations associés pour le traitement de l'insuffisance respiratoire ;
 
@@ -60,24 +62,20 @@ d) Orthèses ;
 
 e) Canules trachéales.
 
-9° 320 % du même tarif pour les actes et frais relevant de la nomenclature des prothèses dentaires et d'orthopédie dento-faciale ;
+9° 360 % du même tarif pour les actes et frais relevant de la nomenclature des prothèses dentaires et d'orthopédie dento-faciale ;
 
 10° 585 % du même tarif pour les frais relevant de la nomenclature des appareils électroniques correcteurs de surdité ;
 
-11° Pour les bénéficiaires âgés de dix-huit ans et plus, 705 % du même tarif, augmenté d'un forfait de 40 euros, pour les frais relevant de la nomenclature de l'optique médicale ;
+11° Pour les bénéficiaires âgés de dix-huit ans et plus, 705 % du même tarif, augmenté d'un forfait de 15 euros par verre et 15 euros par monture, pour les frais relevant de la nomenclature de l'optique médicale ;
 
 12° Pour les bénéficiaires âgés de moins de dix-huit ans, 255 % du même tarif pour les montures, 305 % pour les verres et 705 % pour les lentilles de contact admises au remboursement au titre du régime général de la sécurité sociale.
 
 III.-Les prestations servies au titre du régime complémentaire sont également dues au titre des spécialités pharmaceutiques admises au remboursement au titre du régime général de la sécurité sociale dans les limites suivantes :
 
-1° Pour les spécialités qui sont soumises à un tarif forfaitaire de responsabilité, dans la limite du montant du médicament générique substituable le plus élevé du même groupe de spécialités, sauf si l'ordonnance médicale prescrivant la spécialité porte la mention non substituable  ;
+1° Pour les spécialités qui sont soumises à un tarif forfaitaire de responsabilité, dans la limite du montant du médicament générique substituable le plus élevé du même groupe de spécialités, sauf si l'ordonnance médicale prescrivant la spécialité porte la mention non substituable ;
 
 2° Pour les spécialités autres que celles mentionnées au 1° du présent III et qui ont été prescrites par ordonnance médicale, dans la limite de la différence entre les frais effectivement engagés par le bénéficiaire et le montant remboursé au titre du régime général.
 
-IV.-Les prestations servies au titre du régime complémentaire sont également dues, lorsqu'elles ne font pas l'objet d'un remboursement au titre du régime général dans la limite des frais effectivement engagés par le bénéficiaire ou, si elle est inférieure dans la limite suivante, pour ce qui concerne :
+IV.-Les prestations servies au titre du régime complémentaire sont également dues pour les lentilles non admises au remboursement au titre du régime général. Ces prestations ne peuvent dépasser les frais effectivement engagés par le bénéficiaire, et se limitent à un forfait de 151,20 euros par an pour un bénéficiaire âgé de moins de dix-huit ans et un forfait de 92,30 euros par an pour un bénéficiaire âgé de dix-huit ans et plus.
 
-1° Les prothèses dentaires, dans la limite mentionnée au 9° du II du présent article ;
-
-2° Les lentilles, dans les limites mentionnées aux 11° ou au 12° du II du présent article.
-
-V.-Le refus de se soumettre aux visites et contrôles demandés par les médecins conseils du régime spécial peut entraîner, sur décision du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières, la cessation complète ou partielle du versement des prestations fixées au présent article.
+V.-Le refus de se soumettre aux visites et contrôles demandés par les médecins conseils du régime spécial ou de l'assurance maladie peut entraîner, sur décision du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières, la cessation complète ou partielle du versement des prestations fixées au présent article.
