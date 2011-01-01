@@ -220,7 +220,6 @@
 - [Décret n°2006-1276 du 18 octobre 2006 (BUDF0500047D)](decret-n2006-1276-du-18-octobre-2006-budf0500047d)
 - [Décret n°2006-1277 du 18 octobre 2006 (BUDF0600042D)](decret-n2006-1277-du-18-octobre-2006-budf0600042d)
 - [Décret n°2006-1616 du 18 décembre 2006 (ECOP0600506D)](decret-n2006-1616-du-18-decembre-2006-ecop0600506d)
-- [Décret n°2006-1617 du 18 décembre 2006 (ECOP0600507D)](decret-n2006-1617-du-18-decembre-2006-ecop0600507d)
 - [Décret n°2006-1618 du 18 décembre 2006 (BUDB0630046D)](decret-n2006-1618-du-18-decembre-2006-budb0630046d)
 - [Décret n°2006-1619 du 18 décembre 2006 (EQUR0602057D)](decret-n2006-1619-du-18-decembre-2006-equr0602057d)
 - [Décret n°2006-1620 du 18 décembre 2006 (SANP0624015D)](decret-n2006-1620-du-18-decembre-2006-sanp0624015d)

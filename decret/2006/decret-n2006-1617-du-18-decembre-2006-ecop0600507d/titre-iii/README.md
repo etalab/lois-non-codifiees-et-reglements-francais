@@ -1,3 +1,0 @@
-# TITRE III : DISPOSITIONS DIVERSES ET FINALES.
-
-- [Article 14](article-14.md)
