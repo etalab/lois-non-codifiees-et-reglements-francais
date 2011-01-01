@@ -76,9 +76,9 @@ Traitement de l'information.
 
 Traitements thermiques et métallographie.
 
-Matériels et instrumentation d'analyses de laboratoire (délivré par l'école nationale de chimie-physique-biologie de Paris);
+Matériels et instrumentation d'analyses de laboratoire (délivré par l'école nationale de chimie-physique-biologie de Paris) ;
 
-Matériels et instrumentation d'investigation, d'assistance, de surveillance et de thérapie médicales (délivré par le lycée technique Jacquard de Paris);
+Matériels et instrumentation d'investigation, d'assistance, de surveillance et de thérapie médicales (délivré par le lycée technique Jacquard de Paris) ;
 
 Baccalauréat de technicien.
 
@@ -128,7 +128,7 @@ Négoce et réparation de matériels.
 
 Topographe.
 
-Titres et diplômes de l'enseignement technologique homologués aux niveaux III et IV dans les groupes de formation 01, 04, 05, 06, 10, 11, 12, 16, 20, 26, 27, 28, 32, 39 et 41.
+Titres et diplômes de l'enseignement technologique homologués aux niveaux III et IV dans les groupes de formation 01,04,05,06,10,11,12,16,20,26,27,28,32,39 et 41.
 
 Diplôme de conducteur de travaux publics et techniciens de bureau d'études délivré par l'école spéciale des travaux publics.
 
@@ -152,14 +152,14 @@ Certificats de technicien sanitaire et de technicien supérieur de génie sanita
 
 Titres et diplômes de l'enseignement technologique homologués aux niveaux III et IV dans le groupe de formation 19.
 
-Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par la chambre de commerce et d'industrie d'Epinal.
+Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par la      chambre de commerce et d'industrie territoriale d'Epinal.
 
 Formation de technicien biomédical de l'assistance publique à Marseille :
 
-Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par le centre technique de la teinturerie et du nettoyage de l'institut de recherche sur l'entretien du nettoyage (CTTN - IREN)
+Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par le centre technique de la teinturerie et du nettoyage de l'institut de recherche sur l'entretien du nettoyage (CTTN-IREN)
 
 Titres exigés pour l'accès au concours sur titres d'adjoint technique d'une commune ;
 
-Maîtrise de sciences et techniques;
+Maîtrise de sciences et techniques ;
 
 Certificat de stage de perfectionnement à l'ingénierie biomédicale hospitalière (SPIBH), option avec stage hospitalier, délivré par l'université de technologie de Compiègne.

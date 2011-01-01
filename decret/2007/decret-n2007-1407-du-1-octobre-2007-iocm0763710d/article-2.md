@@ -54,7 +54,7 @@ Il comprend les membres suivants :
 
 25° Le commandant du groupement de gendarmerie de Guyane ;
 
-26° Un représentant de la chambre de commerce et d'industrie de Guyane désigné par le président de la chambre de commerce et d'industrie de Guyane ;
+26° Un représentant de la      chambre de commerce et d'industrie territoriale de Guyane désigné par le président de la      chambre de commerce et d'industrie territoriale de Guyane ;
 
 27° Un représentant de la chambre d'agriculture de Guyane désigné par le président de la chambre d'agriculture de Guyane ;
 
@@ -62,6 +62,6 @@ Il comprend les membres suivants :
 
 29° Le directeur de l'INSEE Guyane ;
 
-30° Le délégué régional de l'          Office français de l'immigration et de l'intégration  en Guyane ;
+30° Le délégué régional de l'Office français de l'immigration et de l'intégration en Guyane ;
 
 31° Trois personnes qualifiées désignées par le préfet.

@@ -16,7 +16,7 @@ Bénéficient de l'exonération instituée au I de l'article 81 quater du code g
 
 7. Aux personnels de la Régie autonome des transports parisiens au titre des heures de travail effectif accomplies au-delà de trente-cinq heures par semaine en moyenne sur l'année ;
 
-8. Aux personnels des chambres de commerce et d'industrie, des chambres régionales de commerce et d'industrie, des groupements interconsulaires et de l'assemblée française des chambres françaises de commerce et d'industrie au titre des heures de travail accomplies au-delà de trente-cinq heures par semaine en moyenne sur l'année ;
+8. Aux personnels des      chambres de commerce et d'industrie territoriales, des      chambres de commerce et d'industrie territoriales de région, des groupements interconsulaires et de l'assemblée française des chambres françaises de commerce et d'industrie au titre des heures de travail accomplies au-delà de trente-cinq heures par semaine en moyenne sur l'année ;
 
 9. Aux personnels administratifs, enseignants et contractuels des chambres des métiers et de l'artisanat conformément à la loi du 11 décembre 1952 ;
 

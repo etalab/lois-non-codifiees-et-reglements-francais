@@ -24,7 +24,7 @@ Six représentants des usagers des transports :
 
 un représentant des offices des transports et des P.T.T. ;
 
-un représentant des chambres de commerce et d'industrie ;
+un représentant des      chambres de commerce et d'industrie territoriales ;
 
 quatre représentants d'associations d'usagers de transports, dont deux au titre des transports de personnes et deux au titre des transports de marchandises.
 

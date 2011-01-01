@@ -14,7 +14,7 @@ d) Un à trois maires désignés parmi les maires de la région par l'Associatio
 
 e) Un à trois membres désignés par les autorités organisatrices de transport urbain dans la région ;
 
-f) Le     directeur régional de l'environnement, de l'aménagement et du logement  ou son représentant ;
+f) Le directeur régional de l'environnement, de l'aménagement et du logement ou son représentant ;
 
 g) Le directeur régional SNCF ou son représentant ;
 
@@ -28,4 +28,4 @@ k) Un représentant de l'organisation professionnelle patronale des transports c
 
 l) Deux membres au titre des associations d'usagers des transports collectifs, désignés par le président de la région ;
 
-m) Un représentant des chambres de commerce et d'industrie désigné par l'assemblée régionale de la chambre de commerce et d'industrie.
+m) Un représentant des      chambres de commerce et d'industrie territoriales désigné par l'assemblée régionale de la chambre de commerce et d'industrie territoriale.

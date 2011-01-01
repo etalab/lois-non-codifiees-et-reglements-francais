@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie de Guyane.
+Chambre de commerce et d'industrie territoriale de Guyane.
 
 Chambre de métiers et de l'artisanat de Guyane.
 

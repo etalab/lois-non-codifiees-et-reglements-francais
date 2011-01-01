@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie de Nouvelle-Calédonie.
+Chambre de commerce et d'industrie territoriale de Nouvelle-Calédonie.
 
 Chambre de métiers et de l'artisanat de Nouvelle-Calédonie.
 

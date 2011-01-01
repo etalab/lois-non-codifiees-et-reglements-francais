@@ -18,9 +18,9 @@ Un représentant du tourisme ou un représentant des activités nautiques désig
 
 Seize représentants de l'industrie désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie, d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées et de Poitou-Charentes ;
+-les présidents des       chambres de commerce et d'industrie de région , d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées et de Poitou-Charentes ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées, de Poitou-Charentes et le président de COOP de France.
+-les présidents du MEDEF régional (Mouvement des entreprises de France) d'Aquitaine, d'Auvergne, de Languedoc-Roussillon, du Limousin, de Midi-Pyrénées, de Poitou-Charentes et le président de COOP de France.
 
 Deux représentants des producteurs d'électricité désignés par l'Union française de l'électricité ;
 

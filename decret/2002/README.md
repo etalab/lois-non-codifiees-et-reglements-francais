@@ -175,6 +175,7 @@
 - [Décret n°84-1191 du 28 décembre 1984](decret-n84-1191-du-28-decembre-1984)
 - [Décret n°2002-1327 du 29 octobre 2002 (MCCB0200497D)](decret-n2002-1327-du-29-octobre-2002-mccb0200497d)
 - [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)
+- [Décret n°2002-441 du 29 mars 2002 (INDI0200192D)](decret-n2002-441-du-29-mars-2002-indi0200192d)
 - [Décret n°2002-647 du 29 avril 2002 (EQUX0200054D)](decret-n2002-647-du-29-avril-2002-equx0200054d)
 - [Décret n°2002-656 du 29 avril 2002 (MESP0221435D)](decret-n2002-656-du-29-avril-2002-mesp0221435d)
 - [Décret n°2002-677 du 29 avril 2002 (MCCB0200300D)](decret-n2002-677-du-29-avril-2002-mccb0200300d)

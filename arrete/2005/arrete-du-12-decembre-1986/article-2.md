@@ -20,9 +20,9 @@ Un représentant des activités nautiques et un suppléant désignés par un col
 
 Dix-sept représentants de l'industrie et autant de suppléants désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie de Franche-Comté, Bourgogne, Rhône-Alpes, Languedoc-Roussillon et Provence-Alpes-Côte d'Azur-Corse ;
+-les présidents des       chambres de commerce et d'industrie de région  de Franche-Comté, Bourgogne, Rhône-Alpes, Languedoc-Roussillon et Provence-Alpes-Côte d'Azur-Corse ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) de Franche-Comté, de Bourgogne, de Rhône-Alpes, du Languedoc-Roussillon, de Provence-Alpes-Côte d'Azur et la COOP de France.
+-les présidents du MEDEF régional (Mouvement des entreprises de France) de Franche-Comté, de Bourgogne, de Rhône-Alpes, du Languedoc-Roussillon, de Provence-Alpes-Côte d'Azur et la COOP de France.
 
 Ce collège désignera au moins un représentant des activités suivantes : industries chimiques, industries pétrolières, industries agricoles et alimentaires de type animal et végétal, industries textiles, industries mécaniques, industries de papier-carton et cellulose, industries de traitement de surface, industries de sables et graviers, industries d'élimination des déchets, et deux représentants des coopératives agroalimentaires industrielles ou des sociétés d'intérêts collectifs agricoles et un représentant PME-PMI ou des activités artisanales raccordées aux réseaux publics d'assainissement ;
 

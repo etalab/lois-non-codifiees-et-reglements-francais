@@ -20,7 +20,7 @@ a) Lorsqu'un texte réglementaire antérieur au présent décret en a autorisé 
 
 b) Lorsqu'il s'agit de vins de Bordeaux provenant de domaines viticoles figurant dans le classement de 1855 ;
 
-c) Lorsqu'il s'agit de vins de Bordeaux provenant de domaines viticoles faisant partie d'une appellation d'origine contrôlée, sélectionnés par ordre de mérite au résultat d'un concours public organisé par la chambre de commerce et d'industrie, la chambre d'agriculture et la
+c) Lorsqu'il s'agit de vins de Bordeaux provenant de domaines viticoles faisant partie d'une appellation d'origine contrôlée, sélectionnés par ordre de mérite au résultat d'un concours public organisé par la      chambre de commerce et d'industrie territoriale, la chambre d'agriculture et la
 
 fédération départementale des syndicats d'exploitants agricoles compétentes et dont les résultats auront été homologués par le ministre de l'agriculture après avis des syndicats intéressés de l'appellation d'origine considérée et de l'institut national des appellations d'origine ;
 

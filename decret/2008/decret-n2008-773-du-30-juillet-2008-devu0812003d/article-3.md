@@ -34,7 +34,7 @@ L'établissement est administré par un conseil de vingt-six membres, comportant
 
 3° Le troisième collège comprend cinq membres, répartis comme suit :
 
-― le président de la chambre de commerce et d'industrie des Alpes-Maritimes ;
+― le président de la      chambre de commerce et d'industrie territoriale des Alpes-Maritimes ;
 
 ― le président de l'université de Nice-Sophia Antipolis ;
 

@@ -12,7 +12,7 @@ L'établissement est administré par un conseil de dix-huit membres composé de 
 
 2° Trois représentants des chambres consulaires désignés par leur organe délibérant :
 
-― un représentant pour la chambre de commerce et d'industrie du département de la Vendée ;
+― un représentant pour la      chambre de commerce et d'industrie territoriale du département de la Vendée ;
 
 ― un représentant pour la chambre d'agriculture du département de la Vendée ;
 

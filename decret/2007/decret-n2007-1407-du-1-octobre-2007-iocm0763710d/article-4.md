@@ -42,7 +42,7 @@ Il comprend les membres suivants :
 
 19° Le président de l'université de La Réunion ;
 
-20° Le président de la chambre de commerce et d'industrie de La Réunion ;
+20° Le président de la      chambre de commerce et d'industrie territoriale de La Réunion ;
 
 21° Le président de la chambre de métiers et de l'artisanat de La Réunion ;
 

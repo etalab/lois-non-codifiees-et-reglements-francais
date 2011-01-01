@@ -22,7 +22,7 @@ Un représentant des activités nautiques désignés par le préfet coordonnateu
 
 Vingt-cinq représentants de l'industrie désignés par un collège formé par :
 
--les présidents des chambres régionales de commerce et d'industrie d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
+-les présidents des       chambres de commerce et d'industrie de région  d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin-Poitou-Charentes, des Pays de la Loire et de Rhône-Alpes ;
 
 -les présidents du MEDEF régional (Mouvement des entreprises de France) d'Auvergne, de Bourgogne, de Bretagne, du Centre, du Limousin, des Pays de la Loire, de Poitou-Charentes, de Rhône-Alpes et le président de COOP de France ;
 

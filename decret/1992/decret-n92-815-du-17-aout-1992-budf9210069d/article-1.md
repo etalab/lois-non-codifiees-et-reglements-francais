@@ -2,9 +2,9 @@
 
 Constituent des organismes de formation agréés par l'Etat pour l'application du deuxième alinéa de l'article 199 quater E du code général des impôts :
 
-1° Les chambres de commerce et d'industrie ;
+1° Les      chambres de commerce et d'industrie territoriales ;
 
-2° Les       chambres de métiers et de l'artisanat de région ;
+2° Les chambres de métiers et de l'artisanat de région ;
 
 3° Les centres de gestion agréés prévus à l'article 1649 quater C du code général des impôts, pour les actions de formation de leurs adhérents non couvertes par la cotisation d'adhésion ;
 

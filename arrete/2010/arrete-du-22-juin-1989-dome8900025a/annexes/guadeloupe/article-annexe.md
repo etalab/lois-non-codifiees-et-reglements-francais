@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie de Basse-Terre et de Pointe-à-Pitre.
+Chambre de commerce et d'industrie territoriale de Basse-Terre et de Pointe-à-Pitre.
 
 Chambre de métiers et de l'artisanat et de région.
 

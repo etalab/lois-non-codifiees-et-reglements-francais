@@ -20,7 +20,7 @@ c) Deux représentants de la communauté urbaine de Brest Métropole Océane, d�
 
 d) Dix représentants des communautés d'agglomération, désignés par chaque organe délibérant parmi ses membres, à raison de :
 
-― un pour la communauté d'agglomération de Lannion - Trégor agglomération ;
+― un pour la communauté d'agglomération de Lannion-Trégor agglomération ;
 
 ― un pour la communauté d'agglomération Morlaix Communauté ;
 
@@ -42,7 +42,7 @@ e) Cinq représentants des communautés de communes, désignés dans les conditi
 
 2° Trois représentants des chambres consulaires régionales désignés par leur organe délibérant :
 
-― un pour la chambre régionale de commerce et d'industrie ;
+― un pour la       chambre de commerce et d'industrie de région ;
 
 ― un pour la chambre régionale d'agriculture ;
 

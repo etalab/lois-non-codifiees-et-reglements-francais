@@ -32,7 +32,7 @@ Il comprend les membres suivants :
 
 14° Le directeur départemental du travail, de l'emploi et de la formation professionnelle de Martinique ;
 
-15° Le directeur départemental de l'     institution mentionnée à l'article L. 5312-1 du code du travail  de Martinique ;
+15° Le directeur départemental de l'institution mentionnée à l'article L. 5312-1 du code du travail de Martinique ;
 
 16° Le trésorier-payeur général de Martinique ;
 
@@ -54,7 +54,7 @@ Il comprend les membres suivants :
 
 25° Le commandant du groupement de gendarmerie de Martinique ;
 
-26° Un représentant de la chambre de commerce et d'industrie de Martinique désigné par le président de la chambre de commerce et d'industrie de Martinique ;
+26° Un représentant de la      chambre de commerce et d'industrie territoriale de Martinique désigné par le président de la      chambre de commerce et d'industrie territoriale de Martinique ;
 
 27° Un représentant de la chambre d'agriculture de Martinique désigné par le président de la chambre d'agriculture de Martinique ;
 

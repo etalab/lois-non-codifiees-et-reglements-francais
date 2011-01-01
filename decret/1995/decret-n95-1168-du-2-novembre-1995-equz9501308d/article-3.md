@@ -22,7 +22,7 @@ Les pays représentés sont ceux qui ont fait l'objet d'une reconnaissance en ap
 
 Aux dix membres du présent collège, s'ajoute un représentant de parc naturel régional classé.S'il existe plusieurs parcs naturels régionaux classés dans la région, leur représentant est désigné par accord des présidents de ces parcs. En l'absence de tout parc naturel régional classé dans la région, le nombre des membres du collège défini au premier alinéa est porté à onze ;
 
-e) Le président et onze membres du    conseil économique, social et environnemental régional, dont au moins un représentant de chambre régionale de commerce et d'industrie, un représentant de chambre départementale d'agriculture et un représentant de chambre régionale des métiers, désignés par le conseil économique et social. Le conseil désigne ses membres en tenant compte de la diversité des intérêts économiques et sociaux représentés ;
+e) Le président et onze membres du conseil économique, social et environnemental régional, dont au moins un représentant de       chambre de commerce et d'industrie de région, un représentant de chambre départementale d'agriculture et un représentant de chambre régionale des métiers, désignés par le conseil économique et social. Le conseil désigne ses membres en tenant compte de la diversité des intérêts économiques et sociaux représentés ;
 
 f) Douze représentants d'organisations syndicales et professionnelles, désignés respectivement par chacun des organismes suivants :
 

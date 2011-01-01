@@ -14,7 +14,7 @@ Un représentant du tourisme ou un représentant des activités nautiques désig
 
 Quinze représentants de l'industrie désignés par un collège formé par :
 
--les présidents des chambres régionales de commerce et d'industrie d'Alsace, de Champagne-Ardenne et de Lorraine ;
+-les présidents des       chambres de commerce et d'industrie de région  d'Alsace, de Champagne-Ardenne et de Lorraine ;
 
 -les présidents du MEDEF régional (Mouvement des entreprises de France) d'Alsace, de Champagne-Ardenne, de Lorraine et le président de COOP de France.
 

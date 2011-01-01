@@ -1,3 +1,3 @@
 # Article 4
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Les arrêtés du 13 janvier 1977 et du 8 mars 1978 sont abrogés.

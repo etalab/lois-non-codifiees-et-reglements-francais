@@ -1,3 +1,3 @@
 # Article 5
 
-Des signaux de données pourront, en particulier pour des services de télétexte, être multiplexés aux signaux de télévision selon des normes définies par arrêtés.
+Le directeur de la construction et le chef du service des chambres de commerce et d'industrie sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera  publié au Journal officiel de la République française.

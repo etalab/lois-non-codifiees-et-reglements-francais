@@ -2,7 +2,7 @@
 
 Les décrets portant radiation de la nomenclature des voies navigables et flottables avec maintien dans le domaine public sont pris sur le rapport du ministre de l'Equipement et du Logement après avis du ministre de l'Economie et des Finances et après accomplissement des formalités ci-après :
 
-a) consultation des services publics, départements et chambres de commerce et d'industrie intéressés ;
+a) consultation des services publics, départements et      chambres de commerce et d'industrie territoriales intéressés ;
 
 b) consultation de Voies navigables de France et des organisations professionnelles de la batellerie.
 

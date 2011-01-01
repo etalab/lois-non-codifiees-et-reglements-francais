@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie.
+Chambre de commerce et d'industrie territoriale.
 
 Chambre de métiers et de l'artisanat de région.
 

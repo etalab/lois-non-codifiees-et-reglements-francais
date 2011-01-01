@@ -1,268 +1,381 @@
 # Article 
 
-<div>
-<br/>A N N E X E<br/>COMITÉ DE MASSIF DU MASSIF CENTRAL<div align="center">
+COMITÉ DE MASSIF DU MASSIF CENTRAL
 
 <table>
+<tbody>
 <tr>
-<td align="center">
-<br/>1. Collège des élus<br/>Conseils régionaux<br/>Auvergne</td>
-<td align="center">
-<br/>2</td>
+<td colspan="2">
+<p align="center">1. Collège des élus </p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bourgogne</td>
-<td align="center">
-<br/>1</td>
+<td colspan="2">
+<p align="center">Conseils régionaux</p>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Languedoc-Roussillon</td>
-<td align="center">
-<br/>2</td>
+<td>
+<p>Auvergne</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Limousin</td>
-<td align="center">
-<br/>2</td>
+<td>
+<p>Bourgogne</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Midi-Pyrénées</td>
-<td align="center">
-<br/>2</td>
+<td>
+<p>Languedoc-Roussillon</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rhône-Alpes</td>
-<td align="center">
-<br/>2</td>
+<td>
+<p>Limousin</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conseils généraux<br/>Allier</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Midi-Pyrénées</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ardèche</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Rhône-Alpes</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aude</td>
-<td align="center">
-<br/>1</td>
+<td colspan="2">
+<p align="center">Conseils généraux<br/>
+<br/>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aveyron</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Allier</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cantal</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Ardèche</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corrèze</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Aude</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côte-d'Or</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Aveyron</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Creuse</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Cantal</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gard</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Corrèze</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Hérault</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Côte-d'Or</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Loire</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Creuse</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Loire</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Gard</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lot</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Hérault</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lozère</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Loire</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nièvre</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Haute-Loire</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Puy-de-Dôme</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Lot</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rhône</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Lozère</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Saône-et-Loire</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Nièvre</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tarn</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Puy-de-Dôme</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tarn-et-Garonne</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Rhône</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Vienne</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Saône-et-Loire</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Yonne</td>
-<td align="center">
-<br/>1</td>
+<td>
+<p>Tarn</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Communes et groupements de communes</td>
-<td align="center">
-<br/>10</td>
+<td>
+<p>Tarn-et-Garonne</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total 1</td>
-<td align="center">
-<br/>43</td>
+<td>
+<p>Haute-Vienne</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2. Collège des activités économiques<br/>Chambres d'agriculture</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Yonne</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chambres de commerce et d'industrie</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Communes et groupements de communes</p>
+</td>
+<td>
+<p align="center">10</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chambres des métiers</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Total 1</p>
+</td>
+<td>
+<p align="center">43</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organisations professionnelles</td>
-<td align="center">
-<br/>5</td>
+<td colspan="2">
+<p align="center">2. Collège des activités économiques</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organisations territoriales du tourisme</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Chambres d'agriculture</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organisations syndicales de salariés</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Chambres de commerce et d'industrie territoriales</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total 2</td>
-<td align="center">
-<br/>20</td>
+<td>
+<p>Chambres des métiers</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3. Collège des activités associatives, <br/>scientifiques et culturelles<br/>Associations de tourisme et de sport de nature</td>
-<td align="center">
-<br/>8</td>
+<td>
+<p>Organisations professionnelles</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Associations agréées de protection de la nature et fédérations de chasse et de pêche</td>
-<td align="center">
-<br/>5</td>
+<td>
+<p>Organisations territoriales du tourisme</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Organismes gestionnaires de parcs nationaux et de parcs naturels régionaux</td>
-<td align="center">
-<br/>3</td>
+<td>
+<p>Organisations syndicales de salariés</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Personnes qualifiées</td>
-<td align="center">
-<br/>4</td>
+<td>
+<p>Total 2</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total 3</td>
-<td align="center">
-<br/>20</td>
+<td colspan="2">
+<p align="center">3. Collège des activités associatives, scientifiques et culturelles</p>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>    Total général</td>
-<td align="center">
-<br/>83</td>
+<td>
+<p>Associations de tourisme et de sport de nature</p>
+</td>
+<td>
+<p align="center">8</p>
+</td>
 </tr>
+<tr>
+<td>
+<p>Associations agréées de protection de la nature et fédérations de chasse et de pêche</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organismes gestionnaires de parcs nationaux et de parcs naturels régionaux</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personnes qualifiées</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total 3</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total général</p>
+</td>
+<td>
+<p align="center">83</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-</div>

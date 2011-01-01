@@ -2,7 +2,7 @@
 
 Le jury élit, dès sa première séance, un président et un vice-président.
 
-Le secrétariat administratif est assuré par la chambre de commerce et d'industrie de Bordeaux.
+Le secrétariat administratif est assuré par la      chambre de commerce et d'industrie territoriale de Bordeaux.
 
 Pour délibérer, le jury est composé des deux tiers au moins de ses membres.
 

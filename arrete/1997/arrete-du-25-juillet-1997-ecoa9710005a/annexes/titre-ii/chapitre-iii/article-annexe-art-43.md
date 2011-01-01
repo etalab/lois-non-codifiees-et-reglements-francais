@@ -28,7 +28,7 @@ Ce licenciement résulte de la dénonciation de la Convention par mesure unilat�
 
 Il est soumis à un préavis de six mois ; il ouvre droit à l'indemnité de licenciement prévue à l'article 46 ci-dessous et au revenu de remplacement prévu à l'article 35 bis du présent statut.
 
-Il ne peut être prononcé avant l'expiration d'un délai de huit mois suivant la date des élections à la Chambre de Commerce et d'industrie.
+Il ne peut être prononcé avant l'expiration d'un délai de huit mois suivant la date des élections à la Chambre de Commerce et d'industrie territoriale.
 
 6° Licenciement pour raisons professionnelles
 

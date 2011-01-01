@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie.
+Chambre de commerce et d'industrie territoriale.
 
 Comité de liaison des intérêts économiques de la Réunion (Colier).
 

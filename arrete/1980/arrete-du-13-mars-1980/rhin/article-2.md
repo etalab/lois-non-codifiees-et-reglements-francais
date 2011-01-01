@@ -8,7 +8,7 @@ Un représentant de l'agriculture et un suppléant désignés par le collège fo
 
 Sept représentants de l'industrie et autant de suppléants désignés par le collège formé par :
 
-Les présidents des chambres régionales de commerce et d'industrie de Champagne-Ardenne, Lorraine et Alsace ;
+Les présidents des chambres de commerce et d'industrie de région de Champagne-Ardenne, Lorraine et Alsace ;
 
 Les présidents de l'union patronale régionale Champagne-Ardenne, du groupement interprofessionnel patronal de la région économique Lorraine et de l'Organisation interprofessionnelle patronale de la région Alsace.
 
@@ -28,4 +28,4 @@ Un représentant des associations familiales et un suppléant désignés par l'u
 
 Le préfet de la région Lorraine invite chaque collège, association ou organisme ci-dessus mentionnés à lui faire connaître le nom ou les noms des représentants qu'il a désignés et celui d'autant de suppléants.
 
-La représentation des personnes compétentes est assurée par un représentant titulaire et un représentant suppléant désignés suivant les modalités prévues à l'article 2 (5ème alinéa) du décret n° 66-699 du 14 septembre 1966 [*composition, nombre*].
+La représentation des personnes compétentes est assurée par un représentant titulaire et un représentant suppléant désignés suivant les modalités prévues à l'article 2 (5ème alinéa) du décret n° 66-699 du 14 septembre 1966.

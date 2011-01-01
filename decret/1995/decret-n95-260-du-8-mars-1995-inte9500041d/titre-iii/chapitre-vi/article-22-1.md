@@ -12,7 +12,7 @@ La sous-commission départementale pour la sécurité des infrastructures et sys
 
 -le directeur départemental de l'équipement ;
 
--le              directeur régional de l'environnement, de l'aménagement et du logement.
+-le directeur régional de l'environnement, de l'aménagement et du logement.
 
 2° Sont membres avec voix délibératives en fonction des affaires traitées :
 
@@ -24,6 +24,6 @@ La sous-commission départementale pour la sécurité des infrastructures et sys
 
 -les autres représentants des services de l'Etat dont la présence s'avère nécessaire pour l'examen des dossiers inscrits à l'ordre du jour.
 
-3° Est membre à titre consultatif en fonction des affaires traitées le président de la chambre de commerce et d'industrie.
+3° Est membre à titre consultatif en fonction des affaires traitées le président de la      chambre de commerce et d'industrie territoriale.
 
 4° Le secrétariat est assuré par le directeur départemental de l'équipement.

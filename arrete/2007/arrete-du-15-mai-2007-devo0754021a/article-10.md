@@ -22,9 +22,9 @@ Un représentant des activités nautiques désigné par le préfet coordonnateur
 
 Vingt-trois représentants de l'industrie désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur-Corse et de Rhône-Alpes ;
+-les présidents des       chambres de commerce et d'industrie de région  de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur-Corse et de Rhône-Alpes ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur et de Rhône-Alpes et le président de COOP de France ;
+-les présidents du MEDEF régional (Mouvement des entreprises de France) de Bourgogne, de Franche-Comté, de Languedoc-Roussillon, de Provence-Alpes-Côte-d'Azur et de Rhône-Alpes et le président de COOP de France ;
 
 Deux représentants des producteurs d'électricité désignés par l'Union française de l'électricité ;
 

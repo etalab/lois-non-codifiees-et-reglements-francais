@@ -6,7 +6,7 @@ Toutefois, si le licenciement intervient dans l'une des trois années qui préc�
 
 Les services à prendre en compte correspondent, pour leur totalité, à ceux accomplis en qualité de Directeur Général de la Chambre et, pour le tiers de leur durée, à ceux effectués dans d'autres fonctions de la même Chambre.
 
-La Convention prévue à l'article 41 ci-dessus peut prévoir que tout ou partie des services effectués dans une autre Chambre de Commerce et d'industrie est également retenu, dans les mêmes conditions, pour le calcul de l'indemnité.
+La Convention prévue à l'article 41 ci-dessus peut prévoir que tout ou partie des services effectués dans une autre Chambre de Commerce et d'industrie territoriale est également retenu, dans les mêmes conditions, pour le calcul de l'indemnité.
 
 Le traitement à prendre en compte correspond à l'ensemble de la rémunération perçue par le Directeur Général à la date où il cesse ses fonctions, à l'exclusion des indemnités représentatives de frais.
 

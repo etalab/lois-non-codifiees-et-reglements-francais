@@ -34,7 +34,7 @@ Il comprend les membres suivants :
 
 15° Le directeur départemental du travail, de l'emploi et de la formation professionnelle de la Guadeloupe ;
 
-16° Le directeur départemental de l'     institution mentionnée à l'article L. 5312-1 du code du travail  de Guadeloupe ;
+16° Le directeur départemental de l'institution mentionnée à l'article L. 5312-1 du code du travail de Guadeloupe ;
 
 17° Le trésorier-payeur général de Guadeloupe ;
 
@@ -46,9 +46,9 @@ Il comprend les membres suivants :
 
 21° Le commandant du groupement de gendarmerie de Guadeloupe ;
 
-22° Un représentant de la chambre de commerce et d'industrie de Pointe-à-Pitre désigné par le président de la chambre de commerce et d'industrie de Pointe-à-Pitre ;
+22° Un représentant de la      chambre de commerce et d'industrie territoriale de Pointe-à-Pitre désigné par le président de la      chambre de commerce et d'industrie territoriale de Pointe-à-Pitre ;
 
-23° Un représentant de la chambre de commerce et d'industrie de Basse-Terre désigné par le président de la chambre de commerce et d'industrie de Basse-Terre ;
+23° Un représentant de la      chambre de commerce et d'industrie territoriale de Basse-Terre désigné par le président de la      chambre de commerce et d'industrie territoriale de Basse-Terre ;
 
 24° Un représentant de la chambre d'agriculture de Guadeloupe désigné par le président de la chambre d'agriculture de Guadeloupe ;
 

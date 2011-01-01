@@ -8,7 +8,7 @@ a) Le commandant de la zone maritime Atlantique ;
 
 b) Le directeur régional de l'environnement de Bretagne ;
 
-c) Le    directeur interrégional de la mer de Bretagne ;
+c) Le directeur interrégional de la mer de Bretagne ;
 
 d) Le directeur départemental de l'équipement du Finistère ;
 
@@ -54,7 +54,7 @@ e) Un représentant de la chambre d'agriculture du Finistère ;
 
 f) Un représentant de la Chambre syndicale nationale des algues marines ;
 
-g) Un représentant d'une chambre de commerce et d'industrie territorialement concernée ;
+g) Un représentant d'une      chambre de commerce et d'industrie territoriale territorialement concernée ;
 
 h) Un représentant du comité départemental du tourisme ;
 

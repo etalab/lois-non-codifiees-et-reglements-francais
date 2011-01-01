@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Chambre de commerce et d'industrie de Polynésie française.
+Chambre de commerce et d'industrie territoriale de Polynésie française.
 
 Chambre d'agriculture de Polynésie française.
 
@@ -22,7 +22,7 @@ Comité de Polynésie française de l'association des banques (C.P.F.A.F.B.).
 
 Fédération des syndicats de Polynésie française (F.S.P.F.).
 
-Union des syndicats - Syndicats autonomes des travailleurs de Polynésie (U.S. - S.A.T.P.).
+Union des syndicats-Syndicats autonomes des travailleurs de Polynésie (U.S.-S.A.T.P.).
 
 Confédération des syndicats indépendants de Polynésie (C.S.I.P.).
 

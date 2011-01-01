@@ -42,7 +42,7 @@ d) Trois représentants des autres établissements publics de coopération inter
 
 2° Trois représentants des chambres consulaires, désignés par leur organe délibérant :
 
-― un pour la chambre régionale de commerce et d'industrie de Languedoc-Roussillon ;
+― un pour la       chambre de commerce et d'industrie de région de Languedoc-Roussillon ;
 
 ― un pour la chambre régionale d'agriculture de Languedoc-Roussillon ;
 
@@ -62,7 +62,7 @@ d) Trois représentants des autres établissements publics de coopération inter
 
 ― le trésorier-payeur général de la région Languedoc-Roussillon, ou son représentant ;
 
-― le     directeur régional de l'environnement, de l'aménagement et du logement  de la région Languedoc-Roussillon, ou son représentant.
+― le directeur régional de l'environnement, de l'aménagement et du logement de la région Languedoc-Roussillon, ou son représentant.
 
 Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la taxe spéciale d'équipement.
 

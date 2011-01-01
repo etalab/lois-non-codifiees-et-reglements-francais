@@ -4,7 +4,7 @@ Le conseil de gestion de l'Institut EERIE comprend vingt membres répartis de la
 
 a) Membres de droit :
 
--le président de la chambre de commerce et d'industrie de Nîmes, président du conseil de gestion de l'Institut EERIE ;
+-le président de la      chambre de commerce et d'industrie territoriale de Nîmes, président du conseil de gestion de l'Institut EERIE ;
 
 -le représentant de Télécom ParisTech, établissement partenaire de l'Institut EERIE ;
 
@@ -20,7 +20,7 @@ b) Membres désignés pour une durée de trois ans :
 
 1. Par le président du conseil de gestion de l'Institut EERIE :
 
--deux membres élus de la chambre de commerce et d'industrie de Nîmes ;
+-deux membres élus de la      chambre de commerce et d'industrie territoriale de Nîmes ;
 
 -trois personnalités qualifiées du monde industriel ;
 

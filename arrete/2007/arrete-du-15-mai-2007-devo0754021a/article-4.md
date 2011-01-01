@@ -14,9 +14,9 @@ Un représentant du tourisme désigné par le préfet coordonnateur du bassin su
 
 Douze représentants de l'industrie désignés par un collège formé par :
 
-- les présidents des chambres régionales de commerce et d'industrie du Nord - Pas-de-Calais et de Picardie ;
+-les présidents des       chambres de commerce et d'industrie de région  du Nord-Pas-de-Calais et de Picardie ;
 
-- les présidents du MEDEF régional (Mouvement des entreprises de France) du Nord - Pas-de-Calais, de Picardie et le président de COOP de France.
+-les présidents du MEDEF régional (Mouvement des entreprises de France) du Nord-Pas-de-Calais, de Picardie et le président de COOP de France.
 
 Un représentant des producteurs d'électricité désigné par l'Union française de l'électricité ;
 

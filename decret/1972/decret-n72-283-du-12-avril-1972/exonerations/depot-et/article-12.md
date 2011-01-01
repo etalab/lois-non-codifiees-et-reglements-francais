@@ -14,7 +14,7 @@ La demande indique :
 
 6. La nature et le montant des autres dépenses énumérées au II de l'article 1er de la loi n° 71-578 du 16 juillet 1971 avec le nom et l'adresse des bénéficiaires ;
 
-7.S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de commerce et d'industrie, à des       chambres de métiers et de l'artisanat de région, à des chambres d'agriculture ou à toutes associations consacrant une partie de leurs ressources à des dépenses entrant dans la prévision au II de l'article 1er de la loi n° 71-578 du 16 juillet 1971.
+7.S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des      chambres de commerce et d'industrie territoriales, à des chambres de métiers et de l'artisanat de région, à des chambres d'agriculture ou à toutes associations consacrant une partie de leurs ressources à des dépenses entrant dans la prévision au II de l'article 1er de la loi n° 71-578 du 16 juillet 1971.
 
 Les éléments mentionnés aux 2°,3°,4° et 5° sont fournis pour chacune des régions dans lesquelles l'employeur verse des salaires.
 

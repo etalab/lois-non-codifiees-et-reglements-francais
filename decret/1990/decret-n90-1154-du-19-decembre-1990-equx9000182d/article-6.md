@@ -20,10 +20,10 @@ Ces cinq établissements sont désignés par une assemblée composée des prési
 
 4° Huit membres représentant les milieux professionnels intéressés, à savoir :
 
--deux représentants de la chambre régionale de commerce et d'industrie ;
+-deux représentants de la       chambre de commerce et d'industrie de région ;
 
 -un représentant de la chambre régionale d'agriculture ;
 
 -un représentant de la chambre régionale des métiers ;
 
--quatre représentants du    conseil économique, social et environnemental régional.
+-quatre représentants du conseil économique, social et environnemental régional.

@@ -1,6 +1,6 @@
 # Article 11
 
-La commission d'orientation du commerce de proximité collecte et analyse les informations relatives à la création, à la transmission et au développement des entreprises de proximité. Elle formule des recommandations de bonnes pratiques en matière de conception, de réalisation ou d'évaluation de projets en faveur des entreprises de proximité. Elle est l'instance de concertation technique sur ces questions, notamment entre les services de l'Etat, les chambres de commerce et d'industrie, les       chambres de métiers et de l'artisanat de région et les experts des secteurs concernés.
+La commission d'orientation du commerce de proximité collecte et analyse les informations relatives à la création, à la transmission et au développement des entreprises de proximité. Elle formule des recommandations de bonnes pratiques en matière de conception, de réalisation ou d'évaluation de projets en faveur des entreprises de proximité. Elle est l'instance de concertation technique sur ces questions, notamment entre les services de l'Etat, les      chambres de commerce et d'industrie territoriales, les chambres de métiers et de l'artisanat de région et les experts des secteurs concernés.
 
 Elle est composée d'une commission plénière et de commissions thématiques définies par la commission plénière.
 

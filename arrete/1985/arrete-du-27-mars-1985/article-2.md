@@ -4,9 +4,9 @@ Le comité comprend, outre son président :
 
 1. Au titre de représentants de l'Etat :
 
--trois représentants du ministre chargé de l'économie, des finances et du budget (        direction générale du Trésor, direction générale des douanes et droits indirects, direction générale de la concurrence et de la consommation) ;
+-trois représentants du ministre chargé de l'économie, des finances et du budget (direction générale du Trésor, direction générale des douanes et droits indirects, direction générale de la concurrence et de la consommation) ;
 
--deux représentants du ministre chargé du commerce extérieur (        direction générale du Trésor, centre français du commerce extérieur) ;
+-deux représentants du ministre chargé du commerce extérieur (direction générale du Trésor, centre français du commerce extérieur) ;
 
 -un représentant du ministre chargé du commerce intérieur ;
 
@@ -50,7 +50,7 @@ Le comité comprend, outre son président :
 
 5. Au titre de représentants des usagers ;
 
--un représentant des chambres de commerce et d'industrie ;
+-un représentant des      chambres de commerce et d'industrie territoriales ;
 
 -un représentant des chambres d'agriculture ;
 

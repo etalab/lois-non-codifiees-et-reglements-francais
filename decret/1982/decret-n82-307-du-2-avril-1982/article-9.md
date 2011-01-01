@@ -8,7 +8,7 @@ Un représentant de la caisse auprès de laquelle est placée la commission ;
 
 Un fonctionnaire désigné par le préfet, sur proposition du trésorier-payeur général ;
 
-Un représentant de la chambre de commerce et d'industrie de la circonscription dans laquelle se trouve le siège de la caisse ;
+Un représentant de la      chambre de commerce et d'industrie territoriale de la circonscription dans laquelle se trouve le siège de la caisse ;
 
 Un représentant de la chambre des métiers et de l'artisanat de la circonscription dans laquelle se trouve le siège de la caisse ;
 

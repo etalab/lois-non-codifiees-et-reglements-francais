@@ -18,4 +18,4 @@ III.-Le II s'applique également au titulaire de diplômes, titres ou certificat
 
 IV.-La liste des pièces à produire à l'appui de la demande de carte est fixée par un arrêté du ministre chargé du commerce.
 
-Le président de la chambre régionale de commerce et d'industrie délivre la carte professionnelle à l'intéressé dans un délai de deux mois à compter de la réception de la demande complète.
+Le président de la       chambre de commerce et d'industrie de région délivre la carte professionnelle à l'intéressé dans un délai de deux mois à compter de la réception de la demande complète.

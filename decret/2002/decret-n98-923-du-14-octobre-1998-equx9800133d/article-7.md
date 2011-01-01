@@ -34,7 +34,7 @@ h) Trois représentants des autres établissements publics de coopération inter
 
 2° Trois représentants des chambres consulaires :
 
--un pour la chambre régionale de commerce et d'industrie Rhône-Alpes ;
+-un pour la       chambre de commerce et d'industrie de région Rhône-Alpes ;
 
 -un pour la chambre régionale d'agriculture Rhône-Alpes ;
 
@@ -46,7 +46,7 @@ h) Trois représentants des autres établissements publics de coopération inter
 
 -le trésorier-payeur général de la région Rhône-Alpes ou son représentant ;
 
--le     directeur régional de l'environnement, de l'aménagement et du logement  de la région Rhône-Alpes ou son représentant.
+-le directeur régional de l'environnement, de l'aménagement et du logement de la région Rhône-Alpes ou son représentant.
 
 Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la taxe spéciale d'équipement.
 

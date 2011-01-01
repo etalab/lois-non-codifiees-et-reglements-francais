@@ -58,11 +58,11 @@ Les représentants des ministres sont désignés sur proposition de ces derniers
 
 Un représentant des offices de transports et des P.T.T. ;
 
-Deux représentants des chambres de commerce et d'industrie ;
+Deux représentants des      chambres de commerce et d'industrie territoriales ;
 
 Un représentant des chambres d'agriculture ;
 
-Un représentant des       chambres de métiers et de l'artisanat de région ;
+Un représentant des chambres de métiers et de l'artisanat de région ;
 
 Huit représentants d'associations d'usagers des transports.
 

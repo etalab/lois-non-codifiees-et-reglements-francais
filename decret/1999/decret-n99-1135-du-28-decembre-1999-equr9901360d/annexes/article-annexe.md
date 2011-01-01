@@ -8,7 +8,7 @@ Objet
 
 Le dernier alinéa de l'article 2 est remplacé par les stipulations suivantes :
 
-Dans le cadre de concessions de l'Etat dont elle a obtenu ou sollicitera l'octroi, la construction de l'autoroute A 43 entre Aiton et le tunnel du Fréjus en Savoie et éventuellement d'autres équipements de transport intéressant les collectivités territoriales sises en région Rhône-Alpes (dans les conditions prévues par l'article L. 122-4 du code de la voirie routière), y compris les voies d'accès, les ouvrages annexes, l'aménagement des abords et, d'une façon générale, l'exécution de tous travaux s'y rapportant ainsi que l'exploitation des ouvrages construits ou à construire, dans le respect du droit communautaire en vigueur. A cet effet la société pourra, avant même l'octroi des concessions susvisées, acquérir tous terrains ou immeubles bâtis et généralement faire toutes opérations commerciales financières et immobilières qui seraient directement utiles à la réalisation de l'objet social.
+Dans le cadre de concessions de l'Etat dont elle a obtenu ou sollicitera l'octroi, la construction de l'autoroute A 43 entre Aiton et le tunnel du Fréjus en Savoie et éventuellement d'autres équipements de transport intéressant les collectivités territoriales sises en région Rhône-Alpes (dans les conditions prévues par l'article L. 122-4 du code de la voirie routière), y compris les voies d'accès, les ouvrages annexes, l'aménagement des abords et, d'une façon générale, l'exécution de tous travaux s'y rapportant ainsi que l'exploitation des ouvrages construits ou à construire, dans le respect du droit communautaire en vigueur.A cet effet la société pourra, avant même l'octroi des concessions susvisées, acquérir tous terrains ou immeubles bâtis et généralement faire toutes opérations commerciales financières et immobilières qui seraient directement utiles à la réalisation de l'objet social.
 
 Article 5
 
@@ -64,11 +64,11 @@ La société est administrée par un conseil d'administration de dix-huit membre
 
 Dix représentants des intérêts publics nationaux ;
 
-Huit représentants des intérêts locaux, dont cinq appartiennent aux collectivités territoriales et trois appartiennent aux chambres de commerce et d'industrie et groupements d'intérêts privés.
+Huit représentants des intérêts locaux, dont cinq appartiennent aux collectivités territoriales et trois appartiennent aux      chambres de commerce et d'industrie territoriales et groupements d'intérêts privés.
 
 Les dix administrateurs représentant les intérêts publics nationaux sont nommés conformément aux dispositions légales et réglementaires applicables en la matière.
 
-Les cinq représentants des collectivités territoriales ou des groupements de collectivités sont désignés conformément aux dispositions légales et réglementaires applicables en la matière. Les nominations ne sont pas soumises à l'approbation de l'assemblée générale des actionnaires. S'il y a lieu de désigner un ou plusieurs représentants communs à diverses collectivités territoriales, celles-ci sont, pour la désignation desdits représentants, groupées en une assemblée spéciale dont le fonctionnement est régi par les textes en vigueur.
+Les cinq représentants des collectivités territoriales ou des groupements de collectivités sont désignés conformément aux dispositions légales et réglementaires applicables en la matière. Les nominations ne sont pas soumises à l'approbation de l'assemblée générale des actionnaires.S'il y a lieu de désigner un ou plusieurs représentants communs à diverses collectivités territoriales, celles-ci sont, pour la désignation desdits représentants, groupées en une assemblée spéciale dont le fonctionnement est régi par les textes en vigueur.
 
 Les trois administrateurs représentant les chambres de commerce et les groupements d'intérêts privés sont nommés par l'assemblée générale. Les représentants élus des collectivités territoriales à l'assemblée générale ne participent pas à cette désignation.
 

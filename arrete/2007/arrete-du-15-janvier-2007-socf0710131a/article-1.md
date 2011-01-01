@@ -8,7 +8,7 @@ Le CERFA FA14a, qui constitue la notice explicative du CERFA FA13a, est égaleme
 
 (Nota Les imprimés CERFA sont disponibles :
 
--dans les       chambres de métiers et de l'artisanat de région, dans les chambres de commerce et d'industrie et dans les chambres d'agriculture ;
+-dans les chambres de métiers et de l'artisanat de région, dans les      chambres de commerce et d'industrie territoriales et dans les chambres d'agriculture ;
 
 -dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et dans les services départementaux de l'inspection du travail, de l'emploi et de la politique sociale agricole ;
 

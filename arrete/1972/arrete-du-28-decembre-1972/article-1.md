@@ -1,6 +1,6 @@
 # Article 1
 
-Tout commerçant ou artisan désireux de bénéficier de l'aide prévue au deuxième alinéa de l'article 2 de la loi susvisée du 13 juillet 1972 doit déclarer au siège de la chambre de commerce et d'industrie ou de la       chambre de métiers et de l'artisanat de région , selon le cas, dans la circonscription de laquelle se trouve son fonds de commerce ou son entreprise artisanale, son intention de vendre ledit fonds ou ladite entreprise. Cette déclaration est faite par l'intéressé lui-même soit directement au siège de la chambre, soit par lettre recommandée *conditions de forme*.
+Tout commerçant ou artisan désireux de bénéficier de l'aide prévue au deuxième alinéa de l'article 2 de la loi susvisée du 13 juillet 1972 doit déclarer au siège de la chambre de commerce et d'industrie territoriale ou de la chambre de métiers et de l'artisanat de région, selon le cas, dans la circonscription de laquelle se trouve son fonds de commerce ou son entreprise artisanale, son intention de vendre ledit fonds ou ladite entreprise. Cette déclaration est faite par l'intéressé lui-même soit directement au siège de la chambre, soit par lettre recommandée.
 
 La déclaration doit être accompagnée d'un certificat délivré par la caisse auprès de laquelle siège la commission qui a prononcé l'agrément prévu par l'article 11 de la loi du 13 juillet 1972 et comporter les éléments d'information nécessaires à l'établissement des documents prévus à l'article 2 ci-après.
 

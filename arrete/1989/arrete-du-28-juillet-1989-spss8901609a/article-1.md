@@ -12,4 +12,4 @@ Ces dispositions sont également applicables aux étudiants des établissements 
 
 4° Habilités par le ministère chargé de la culture à assurer la formation aux diplômes d'Etat de professeurs de musique et de danse ;
 
-5° Bénéficiaires d'un agrément spécifique à l'enseignement pour ceux qui relèvent de la compétence soit du ministère chargé de la santé, soit du ministère chargé des affaires sociales.    Il en est de même en ce qui concerne les établissements créés et administrés par les chambres de commerce et d'industrie ou par les chambres régionales de commerce et d'industrie, régulièrement autorisés et dispensant au titre de la formation initiale un enseignement supérieur.
+5° Bénéficiaires d'un agrément spécifique à l'enseignement pour ceux qui relèvent de la compétence soit du ministère chargé de la santé, soit du ministère chargé des affaires sociales. Il en est de même en ce qui concerne les établissements créés et administrés par les      chambres de commerce et d'industrie territoriales ou par les chambres de commerce et d'industrie de région, régulièrement autorisés et dispensant au titre de la formation initiale un enseignement supérieur.
