@@ -239,7 +239,6 @@
 - [Arrêté du 13 mai 1997 (JUSG9760031A)](arrete-du-13-mai-1997-jusg9760031a)
 - [Arrêté du 14 août 2001 (AGRG0101658A)](arrete-du-14-aout-2001-agrg0101658a)
 - [Arrêté du 14 août 2001 (DEFP0101963A)](arrete-du-14-aout-2001-defp0101963a)
-- [Arrêté du 14 décembre 2001 (MJSK0170168A)](arrete-du-14-decembre-2001-mjsk0170168a)
 - [Arrêté du 14 février 2001 (DEFD0101205A)](arrete-du-14-fevrier-2001-defd0101205a)
 - [Arrêté du 14 juin 2001 (DEFP0101666A)](arrete-du-14-juin-2001-defp0101666a)
 - [Arrêté du 14 juin 2001 (DEFP0101667A)](arrete-du-14-juin-2001-defp0101667a)
