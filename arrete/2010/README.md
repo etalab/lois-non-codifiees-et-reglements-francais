@@ -2414,8 +2414,6 @@
 - [Arrêté du 24 août 2010 (MTSA1021418A)](arrete-du-24-aout-2010-mtsa1021418a)
 - [Arrêté du 24 décembre 2009 (AGRM0931604A)](arrete-du-24-decembre-2009-agrm0931604a)
 - [Arrêté du 24 décembre 2009 (BCFL0929915A)](arrete-du-24-decembre-2009-bcfl0929915a)
-- [Arrêté du 24 décembre 2009 (BCFR0931655A)](arrete-du-24-decembre-2009-bcfr0931655a)
-- [Arrêté du 24 décembre 2009 (BCFR0931658A)](arrete-du-24-decembre-2009-bcfr0931658a)
 - [Arrêté du 24 décembre 2009 (BCFR1001036A)](arrete-du-24-decembre-2009-bcfr1001036a)
 - [Arrêté du 24 décembre 2009 (DEVN0820490A)](arrete-du-24-decembre-2009-devn0820490a)
 - [Arrêté du 24 décembre 2009 (DEVP0928672A)](arrete-du-24-decembre-2009-devp0928672a)
