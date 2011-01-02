@@ -2893,7 +2893,6 @@
 - [Arrêté du 30 décembre 2008 (AGRG0828896A)](arrete-du-30-decembre-2008-agrg0828896a)
 - [Arrêté du 30 décembre 2008 (AGRS0829005A)](arrete-du-30-decembre-2008-agrs0829005a)
 - [Arrêté du 30 décembre 2008 (BCFB0829431A)](arrete-du-30-decembre-2008-bcfb0829431a)
-- [Arrêté du 30 décembre 2008 (BCFB0830189A)](arrete-du-30-decembre-2008-bcfb0830189a)
 - [Arrêté du 30 décembre 2008 (BCFB0830192A)](arrete-du-30-decembre-2008-bcfb0830192a)
 - [Arrêté du 30 décembre 2008 (BCFL0831149A)](arrete-du-30-decembre-2008-bcfl0831149a)
 - [Arrêté du 30 décembre 2008 (DEVA0822188A)](arrete-du-30-decembre-2008-deva0822188a)
