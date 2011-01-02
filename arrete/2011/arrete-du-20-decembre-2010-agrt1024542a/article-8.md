@@ -1,0 +1,9 @@
+# Article 8
+
+En application du V de l'article D. 615-62-1 du code rural et de la pêche maritime, des droits à paiement unique sont créés en nombre égal à la différence entre le nombre d'hectares admissibles déterminés en 2010 et le nombre de droits à paiement unique normaux détenus au 15 mai 2010. Les surfaces fourragères en pâturage collectif prises en compte dans les hectares admissibles sont celles déclarées par les entités collectives en 2009 avec application, le cas échéant, du coefficient pastoral défini en 2009 par arrêté préfectoral. Le montant unitaire des droits à paiement unique ainsi créés est égal, au maximum, à la valeur moyenne des droits à paiement unique normaux détenus.
+
+Si l'intégralité du montant final à découpler défini au V de l'article D. 615-62-1 du même code n'a pas pu être incorporée après application du premier alinéa du présent article, les droits à paiement unique normaux détenus en propriété sont revalorisés.
+
+Conformément au septième alinéa du 2 de l'article 64 du règlement (CE) n° 73/2009 du Conseil du 19 janvier 2009, si l'intégralité du montant défini au V de l'article D. 615-62-1 du même code n'a pas pu être incorporée après application des alinéas 1 à 2 du présent article, des droits à paiement unique sont créés dans la limite du nombre d'hectares admissibles déterminés.
+
+Conformément au septième alinéa du 2 de l'article 64 du règlement (CE) n° 73/2009 du 19 janvier 2009 susvisé, si l'intégralité du montant défini au V de l'article D. 615-62-1 du même code n'a pas pu être incorporée après application des alinéas 1 à 3 du présent article et s'il ne comporte pas de montant annuel correspondant à une aide animale visé à l'article D. 615-62-3 du code rural et de la pêche maritime, des droits à paiement unique supplémentaires sont créés. Sinon, des droits à paiement unique sont créés conformément au quatrième alinéa de l'article 65 du même règlement (CE) n° 73/2009.
