@@ -34,7 +34,7 @@ n) " Cahier des charges des opérations de terrain relatif à l'enregistrement d
 
 document précisant les modalités d'enregistrement des détenteurs et des exploitations par le maître d'oeuvre de l'identification, validé par le ministre chargé de l'agriculture ;
 
-o) " Cahier des charges des repères officiels " : document validé par le ministre chargé de l'agriculture et précisant les caractéristiques techniques des repères d'identification agréés ;
+o) " Cahier des charges des repères officiels " : document validé par le ministre chargé de l'agriculture et précisant les spécifications des repères d'identification agréés ;
 
 p) " Cahier des procédures relatif à l'identification ovine et caprine " : document validé par le ministre chargé de l'agriculture et précisant les modalités techniques de gestion des informations par le maître d'oeuvre de l'identification ;
 
@@ -43,3 +43,9 @@ q) "Collecte" : ensemble de chargements et de déchargements d'animaux réalisé
 r) "Délégataire" : tout opérateur commercial ou responsable d'exploitation à qui il a été confié, par délégation, conformément à l'article D. 212-30-1 du code rural, la responsabilité de la notification de mouvements.
 
 s) "Délégant" : tout détenteur qui a délégué la réalisation de la notification de mouvement à un opérateur commercial ou responsable d'exploitation conformément à l'article D. 212-30-1 du code rural.
+
+t) "Lieu de transhumance" : tout établissement, toute construction ou tout lieu situé sur le territoire national où sont regroupés de façon saisonnière et temporaire des animaux provenant de plusieurs exploitations d'élevage et qui, sauf exception, reviennent ensuite dans leur exploitation d'origine ;
+
+u) "Numéro national d'identification" : numéro individuel attribué à chaque animal de façon unique (il n'est jamais réattribué) et pérenne (l'animal conserve toujours ce numéro) par l'EdE, et dont le format est commun à l'ensemble des animaux du territoire national ;
+
+v) "Numéro d'exploitation" : numéro attribué à chaque exploitation par l'EdE et constitué de huit chiffres précédés du code "FR" selon les dispositions décrites dans le CCOT détenteurs/exploitations.

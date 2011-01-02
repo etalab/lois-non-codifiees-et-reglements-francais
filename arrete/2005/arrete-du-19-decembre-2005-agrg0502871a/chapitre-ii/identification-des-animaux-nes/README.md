@@ -1,4 +1,4 @@
-# Identification des animaux nés après la date de mise en oeuvre sur le territoire national des dispositions du règlement (CE) n° 21/2004.
+# Identification des animaux nés avant le 9 juillet 2005
 
 - [Article 8](article-8.md)
 - [Article 8-1](article-8-1.md)
