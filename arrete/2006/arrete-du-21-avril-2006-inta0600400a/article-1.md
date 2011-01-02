@@ -2,8 +2,12 @@
 
 La sous-direction des programmes d'administration générale comprend :
 
-La mission « contrôle de gestion et modernisation » ;
+- la mission du contrôle de gestion et de la modernisation ;
 
-Le bureau du budget et du fonctionnement de l'administration centrale ;
+- la mission d'appui au responsable ministériel des achats ;
 
-Le bureau des ressources et de la politique « achats ».
+- le bureau du budget et du fonctionnement de l'administration centrale ;
+
+- le bureau des ressources et des achats ;
+
+- le centre de service Chorus pour l'administration générale.
