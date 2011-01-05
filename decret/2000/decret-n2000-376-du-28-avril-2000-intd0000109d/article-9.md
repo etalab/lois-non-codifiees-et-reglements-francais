@@ -2,9 +2,7 @@
 
 La commission technique consultée sur les demandes d'agrément des dispositifs garantissant que les fonds transportés pourront être détruits ou rendus impropres à leur destination comprend :
 
-- un membre désigné par le ministre de l'intérieur, président ;
-
-- un membre désigné par le ministre de la défense ;
+- deux membres désignés par le ministre de l'intérieur, dont l'un en qualité de président ;
 
 - un membre désigné par le ministre chargé des transports ;
 
