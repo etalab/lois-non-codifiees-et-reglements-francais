@@ -71,7 +71,6 @@
 - [Arrêté du 4 juillet 2005 (BUDD0570009A)](arrete-du-4-juillet-2005-budd0570009a)
 - [Arrêté du 4 juillet 2005 (ECOD0570016A)](arrete-du-4-juillet-2005-ecod0570016a)
 - [Arrêté du 4 mars 2005 (EQUS0401060A)](arrete-du-4-mars-2005-equs0401060a)
-- [Arrêté du 4 novembre 2005 (MAEA0520397A)](arrete-du-4-novembre-2005-maea0520397a)
 - [Arrêté du 4 novembre 2005 (MENF0502404A)](arrete-du-4-novembre-2005-menf0502404a)
 - [Arrêté du 4 novembre 2005 (SANY0524113A)](arrete-du-4-novembre-2005-sany0524113a)
 - [Arrêté du 4 mai 2005 (SANP0521726A)](arrete-du-4-mai-2005-sanp0521726a)
