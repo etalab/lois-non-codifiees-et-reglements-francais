@@ -90,6 +90,7 @@
 - [Arrêté du 23 décembre 2010 (JUSK1032457A)](arrete-du-23-decembre-2010-jusk1032457a)
 - [Arrêté du 23 décembre 2010 (MCCB1032424A)](arrete-du-23-decembre-2010-mccb1032424a)
 - [Arrêté du 23 novembre 2010 (ETSS1027109A)](arrete-du-23-novembre-2010-etss1027109a)
+- [Arrêté du 24 décembre 2003 (SOCF0312091A)](arrete-du-24-decembre-2003-socf0312091a)
 - [Arrêté du 24 décembre 2010 (AGRS1033708A)](arrete-du-24-decembre-2010-agrs1033708a)
 - [Arrêté du 24 décembre 2010 (DEFH1029183A)](arrete-du-24-decembre-2010-defh1029183a)
 - [Arrêté du 24 décembre 2010 (EFIC1029758A)](arrete-du-24-decembre-2010-efic1029758a)
