@@ -114,7 +114,6 @@
 - [Arrêté du 4 juillet 2003 (PRMX0306505A)](arrete-du-4-juillet-2003-prmx0306505a)
 - [Arrêté du 4 juillet 2003 (PRMX0306507A)](arrete-du-4-juillet-2003-prmx0306507a)
 - [Arrêté du 4 juillet 2003 (PRMX0306510A)](arrete-du-4-juillet-2003-prmx0306510a)
-- [Arrêté du 4 juillet 2003 (SANH0322472A)](arrete-du-4-juillet-2003-sanh0322472a)
 - [Arrêté du 4 juin 2003 (AGRA0301004A)](arrete-du-4-juin-2003-agra0301004a)
 - [Arrêté du 4 juin 2003 (ECOP0300248A)](arrete-du-4-juin-2003-ecop0300248a)
 - [Arrêté du 4 juin 2003 (MAEF0310027A)](arrete-du-4-juin-2003-maef0310027a)
