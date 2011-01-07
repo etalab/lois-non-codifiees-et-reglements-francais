@@ -2,66 +2,62 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 décembre 2010 :
-
-Dzaoudzi―Mahé (Seychelles).
-
-Dzaoudzi―Majunga (Madagascar).
-
-Dzaoudzi―Moroni (Comores).
-
-Dzaoudzi―Nosy Be (Madagascar).
-
-Dzaoudzi―Tananarive (Madagascar).
-
-Saint-Denis de La Réunion―Bangkok (Thaïlande).
-
-Saint-Denis de La Réunion―Durban (Afrique du Sud).
-
-Saint-Denis de La Réunion―Dzaoudzi.
-
-Saint-Denis de La Réunion―Johannesburg (Afrique du Sud).
-
-Saint-Denis de La Réunion―Mahé (Seychelles).
-
-Saint-Denis de La Réunion―Majunga (Madagascar).
-
-Saint-Denis de La Réunion―Maurice.
-
-Saint-Denis de La Réunion―Moroni (Comores).
-
-Saint-Denis de La Réunion―Nosy Be (Madagascar).
-
-Saint-Denis de La Réunion―Tamatave (Madagascar).
-
-Saint-Denis de La Réunion―Tananarive (Madagascar).
-
 Jusqu'au 15 mai 2012 :
 
-Paris―Nouméa.
+Paris - Nouméa.
 
-Paris―Sydney (Australie).
+Paris - Sydney (Australie).
 
-Saint-Denis de La Réunion―Nouméa.
+Saint-Denis de La Réunion - Nouméa.
 
-Saint-Denis de La Réunion―Sydney (Australie).
+Saint-Denis de La Réunion - Sydney (Australie).
 
 Jusqu'au 31 octobre 2013 :
 
-Saint-Pierre de La Réunion―Maurice.
+Saint-Pierre de La Réunion - Maurice.
 
 Jusqu'au 31 mai 2015 :
 
-Nouméa―Sydney (fret et courrier uniquement, dans le cadre de la liaison Paris―Saint-Denis de la Réunion Sydney Nouméa).
+Nouméa - Sydney (fret et courrier uniquement, dans le cadre de la liaison Paris - Saint-Denis de la Réunion Sydney Nouméa).
 
 Jusqu'au 15 juillet 2015 :
 
-Marseille―Dzaoudzi.
+Marseille - Dzaoudzi.
 
-Marseille―Moroni (Comores).
+Marseille - Moroni (Comores).
 
-Paris―Dzaoudzi.
+Paris - Dzaoudzi.
 
-Paris―Moroni (Comores).
+Paris - Moroni (Comores).
 
-Saint-Pierre de La Réunion―Dzaoudzi.
+Saint-Pierre de La Réunion - Dzaoudzi.
+
+Jusqu'au 31 décembre 2015 :
+
+Dzaoudzi - Majunga (Madagascar) ;
+
+Dzaoudzi - Moroni (Comores) ;
+
+Dzaoudzi - Nosy Be (Madagascar) ;
+
+Dzaoudzi - Tananarive (Madagascar) ;
+
+Saint-Denis de La Réunion - Bangkok (Thaïlande) ;
+
+Saint-Denis de La Réunion - Dzaoudzi ;
+
+Saint-Denis de La Réunion - Johannesburg (Afrique du Sud) ;
+
+Saint-Denis de La Réunion - Mahé (Seychelles) ;
+
+Saint-Denis de La Réunion - Majunga (Madagascar) ;
+
+Saint-Denis de La Réunion - Maurice ;
+
+Saint-Denis de La Réunion - Moroni (Comores) ;
+
+Saint-Denis de La Réunion - Nosy Be (Madagascar) ;
+
+Saint-Denis de La Réunion - Tamatave (Madagascar) ;
+
+Saint-Denis de La Réunion - Tananarive (Madagascar).
