@@ -7,6 +7,8 @@
 - [Décret n°86-4 du 3 janvier 1986](decret-n86-4-du-3-janvier-1986)
 - [Décret n° 2005-431 du 3 mai 2005 (EQUP0500290D)](decret-n-2005-431-du-3-mai-2005-equp0500290d)
 - [Décret n°2011-11 du 4 janvier 2011 (BCRB1030360D)](decret-n2011-11-du-4-janvier-2011-bcrb1030360d)
+- [Décret n°2011-15 du 4 janvier 2011 (EFIP1028672D)](decret-n2011-15-du-4-janvier-2011-efip1028672d)
+- [Décret n°2011-16 du 4 janvier 2011 (BCRF1031684D)](decret-n2011-16-du-4-janvier-2011-bcrf1031684d)
 - [Décret n°2010-1062 du 6 septembre 2010 (ECEI1022465D)](decret-n2010-1062-du-6-septembre-2010-ecei1022465d)
 - [Décret n°2010-1063 du 6 septembre 2010 (ECEI1022460D)](decret-n2010-1063-du-6-septembre-2010-ecei1022460d)
 - [Décret n°2010-1334 du 8 novembre 2010 (MTSW1010882D)](decret-n2010-1334-du-8-novembre-2010-mtsw1010882d)
