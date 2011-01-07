@@ -1,6 +1,6 @@
 # Article 2-1
 
-Par dérogation au premier alinéa de l'article 2, les professionnels ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen peuvent, sans être inscrits à l'ordre, effectuer de façon temporaire et occasionnelle sur le territoire national les travaux prévus au 1° de l'article 1er, sous réserve :
+Par dérogation au premier alinéa de l'article 2, les professionnels ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen peuvent, sans être inscrits à l'ordre, effectuer de façon temporaire et occasionnelle sur le territoire national les travaux prévus au 1° de l'article 1er, sous réserve :
 
 1° D'être légalement établis dans un de ces Etats pour y exercer la profession de géomètre expert ;
 

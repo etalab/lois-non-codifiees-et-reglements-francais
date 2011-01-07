@@ -1,6 +1,6 @@
 # Article 6-1
 
-En vue de l'exercice de leur profession, les géomètres-experts peuvent constituer entre eux ou avec d'autres personnes des sociétés de géomètres-experts.
+En vue de l'exercice de leur profession, les personnes exerçant légalement la profession de géomètre-expert peuvent constituer entre elles ou avec d'autres personnes des sociétés de géomètres-experts.
 
 Sous réserve des règles ci-après, ces sociétés peuvent prendre les formes suivantes :
 
@@ -18,4 +18,4 @@ Les géomètres-experts exerçant leur profession au sein d'une société de gé
 
 Un géomètre-expert associé ne peut exercer sa profession qu'au sein d'une seule société de géomètres-experts et ne peut exercer la même profession à titre individuel.
 
-Aucun géomètre-expert ne peut être associé majoritaire de plusieurs sociétés de géomètres-experts.
+Aucune personne exerçant légalement la profession de géomètre-expert ne peut être associée majoritaire de plusieurs sociétés de géomètres-experts.
