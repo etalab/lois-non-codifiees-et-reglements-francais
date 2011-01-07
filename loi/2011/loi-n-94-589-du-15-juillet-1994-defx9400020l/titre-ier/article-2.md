@@ -1,0 +1,5 @@
+# Article 2
+
+Lorsqu'il existe des motifs raisonnables de soupçonner qu'une ou plusieurs des infractions mentionnées au II de l'article 1er ont été commises, se commettent, se préparent à être commises à bord ou à l'encontre des navires mentionnés à l'article L. 1521-1 du code de la défense, les commandants des bâtiments de l'Etat et les commandants des aéronefs de l'Etat, chargés de la surveillance en mer, sont habilités à exécuter ou à faire exécuter les mesures de contrôle et de coercition prévues par le droit international, le titre II du livre V de la première partie du même code et la présente loi soit sous l'autorité du préfet maritime ou, outre-mer, du délégué du Gouvernement pour l'action de l'Etat en mer, soit sous l'autorité d'un commandement civil ou militaire désigné dans un cadre international.
+
+A l'égard des personnes à bord peuvent être mises en œuvre les mesures de coercition prévues par les dispositions du chapitre unique du titre II du livre V de la première partie du même code relatives au régime de rétention à bord.
