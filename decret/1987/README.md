@@ -265,7 +265,6 @@
 - [Décret n°87-33 du 26 janvier 1987](decret-n87-33-du-26-janvier-1987)
 - [Décret n°87-696 du 26 août 1987 (RESP8700549D)](decret-n87-696-du-26-aout-1987-resp8700549d)
 - [Décret n°87-697 du 26 août 1987 (RESP8700550D)](decret-n87-697-du-26-aout-1987-resp8700550d)
-- [Décret n°87-698 du 26 août 1987 (RESP8700551D)](decret-n87-698-du-26-aout-1987-resp8700551d)
 - [Décret n°87-712 du 26 août 1987 (EQUC8700032D)](decret-n87-712-du-26-aout-1987-equc8700032d)
 - [Décret n°87-713 du 26 août 1987 (EQUC8700582D)](decret-n87-713-du-26-aout-1987-equc8700582d)
 - [Décret n°87-714 du 26 août 1987 (EQUC8700024D)](decret-n87-714-du-26-aout-1987-equc8700024d)
