@@ -14,4 +14,4 @@ la fin de la campagne 2010-2011, si la somme des allocations provisoires octroy�
 
 - est égale à ses disponibilités, les allocations provisoires sont maintenues ;
 
-- est supérieure à ses disponibilités, les allocations provisoires des producteurs qui lui livrent sont réduites de façon linéaire à due concurrence.
+- est supérieure à ses disponibilités, les allocations provisoires des producteurs qui lui livrent sont maintenues dans la limite d'un taux de 5 %, après réallocation par FranceAgriMer, à due concurrence, des quantités restant disponibles et comptabilisées au niveau national, après application des dispositions prévues aux deux alinéas précédents.
