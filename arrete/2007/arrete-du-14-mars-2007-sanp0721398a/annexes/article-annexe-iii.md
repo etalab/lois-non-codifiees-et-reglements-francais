@@ -111,6 +111,14 @@ NATURELLE CONDITIONNÉE
 </td>
 </tr>
 <tr>
+<td>
+<p>"Convient pour un régime pauvre en sodium".</p>
+</td>
+<td>
+<p align="left">Teneur en sodium inférieure à 20 mg/l (en Na+).</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="274">
 <p>"Convient pour la préparation des aliments des nourrissons" ou une autre mention relative au caractère approprié d'une eau minérale naturelle pour l'alimentation des nourrissons.</p>
 </td>

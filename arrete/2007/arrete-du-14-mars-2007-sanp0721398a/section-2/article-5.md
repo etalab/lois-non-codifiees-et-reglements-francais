@@ -13,3 +13,7 @@ L'eau minérale naturelle, l'eau de source conditionnée ainsi que l'eau minéra
 5. La séparation de constituants indésirables.
 
 Ces traitements ou adjonctions ne doivent pas modifier la composition de l'eau minérale naturelle dans ses constituants essentiels ni avoir pour but de modifier les caractéristiques microbiologiques de l'eau.
+
+Les traitements autorisés dans le cadre du 5 du présent article sont l'élimination de l'arsenic et du manganèse par adsorption sélective sur support de filtration recouverts d'oxyde métallique.
+
+Le règlement (UE) n° 115/2010 de la Commission du 9 février 2010 définit les conditions d'utilisation de l'alumine activée pour l'élimination des fluorures dans les eaux minérales naturelles et les eaux de source.
