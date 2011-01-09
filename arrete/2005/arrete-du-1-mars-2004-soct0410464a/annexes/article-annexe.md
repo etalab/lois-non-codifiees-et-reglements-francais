@@ -50,7 +50,7 @@ Ne sont pas concernés par le présent arrêté :
 
 - les appareils de levage intégrés dans des machines ou des lignes de fabrication automatisées et évoluant dans une zone inaccessible aux personnes en phase de production ;
 
-- les ascenseurs et monte-charge installés à demeure ;
+- les ascenseurs et les monte-charges ainsi que les élévateurs de personnes n'excédant pas une vitesse de 0,15 m/ s, installés à demeure ;
 
 - les appareils à usage médical ;
 
