@@ -21,6 +21,7 @@
 - [Décret n°2010-633 du 8 juin 2010 (MCCB1003751D)](decret-n2010-633-du-8-juin-2010-mccb1003751d)
 - [Décret n°2009-1524 du 9 décembre 2009 (JUSC0910058D)](decret-n2009-1524-du-9-decembre-2009-jusc0910058d)
 - [Décret n°2011-46 du 11 janvier 2011 (ETSH1032806D)](decret-n2011-46-du-11-janvier-2011-etsh1032806d)
+- [Décret n°2010-1372 du 12 novembre 2010 (ECEP1003124D)](decret-n2010-1372-du-12-novembre-2010-ecep1003124d)
 - [Décret n°2010-1373 du 12 novembre 2010 (IOCJ1017999D)](decret-n2010-1373-du-12-novembre-2010-iocj1017999d)
 - [Décret n°2010-1374 du 12 novembre 2010 (IOCJ1017994D)](decret-n2010-1374-du-12-novembre-2010-iocj1017994d)
 - [Décret n°2010-1376 du 12 novembre 2010 (IOCJ1017997D)](decret-n2010-1376-du-12-novembre-2010-iocj1017997d)
