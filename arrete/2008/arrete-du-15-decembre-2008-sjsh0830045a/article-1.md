@@ -50,8 +50,6 @@ Maison de retraite, à La Brigue (Alpes-Maritimes) ;
 
 Maison de retraite, à Lantosque (Alpes-Maritimes) ;
 
-Hôpital local, à Vallon-Pont-d'Arc (Ardèche) ;
-
 Maison de retraite, à La Louvesc (Ardèche) ;
 
 Maison de retraite, à Burzet (Ardèche) ;
@@ -264,8 +262,6 @@ Centre d'aide par le travail, au Caylar (Hérault) ;
 
 Etablissement d'hébergement pour personnes âgées, à Corps-Nuds (Ille-et-Vilaine) ;
 
-Etablissement d'hébergement pour personnes âgées, au Pertre (Ille-et-Vilaine) ;
-
 Institut médico-pédagogique, à Antrain (Ille-et-Vilaine) ;
 
 Etablissement pour personnes dépendantes accueil adultes handicapés, à Chaillac (Indre) ;
@@ -308,17 +304,7 @@ Etablissement d'hébergement pour personnes âgées, à Pontonx-sur-Adour (Lande
 
 Maison de retraite, à Cour-Cheverny (Loir-et-Cher) ;
 
-Maison de retraite, à Droué (Loir-et-Cher) ;
-
-Maison de retraite, à Lamotte-Beuvron (Loir-et-Cher) ;
-
 Maison de retraite, à Selommes (Loir-et-Cher) ;
-
-Maison de retraite, à Mondoubleau (Loir-et-Cher) ;
-
-Etablissement d'hébergement pour personnes âgées, à Morée (Loir-et-Cher) ;
-
-Maison de retraite, à Neung-sur-Beuvron (Loir-et-Cher) ;
 
 Maison de retraite, à Savigny-sur-Braye (Loir-et-Cher) ;
 
@@ -328,11 +314,7 @@ Etablissement d'hébergement pour personnes âgées, à Saint-Amand-Longpré (Lo
 
 Maison de retraite, à Contres (Loir-et-Cher) ;
 
-Maison de retraite, à Bracieux (Loir-et-Cher) ;
-
 Maison de retraite, à La Ville-aux-Clercs (Loir-et-Cher) ;
-
-Maison de retraite, à Saint-Laurent-Nouan (Loir-et-Cher) ;
 
 Maison de retraite, à Ouzouer-le-Marche (Loir-et-Cher) ;
 
@@ -574,8 +556,6 @@ Etablissement d'hébergement pour personnes âgées, à Vaiges (Mayenne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Soulge-sur-Ouette (Mayenne) ;
 
-Etablissement d'hébergement pour personnes âgées, à Labry (Meurthe-et-Moselle) ;
-
 Etablissement d'hébergement pour personnes âgées, à Mars-la-Tour (Meurthe-et-Moselle) ;
 
 Institut de rééducation, à Montmédy (Meuse) ;
@@ -605,10 +585,6 @@ Etablissement d'hébergement pour personnes âgées, à Saint-Epvre (Moselle) ;
 Etablissement d'hébergement pour personnes âgées, à Fenétrange (Moselle) ;
 
 Maison de retraite, à Achun (Nièvre) ;
-
-Centre de soins de longue durée, à Luzy (Nièvre) ;
-
-Etablissement d'hébergement pour personnes âgées, à Saint-Bénin-d'Azy (Nièvre) ;
 
 Maison de retraite, à Erquinghem-Lys (Nord) ;
 
@@ -732,8 +708,6 @@ Etablissement d'hébergement pour personnes âgées, à Vic-le-Comte (Puy-de-Dô
 
 Etablissement d'hébergement pour personnes âgées, à Viverols (Puy-de-Dôme) ;
 
-Maison de retraite, à Volvic (Puy-de-Dôme) ;
-
 Etablissement d'hébergement pour personnes âgées, à La Tour-d'Auvergne (Puy-de-Dôme) ;
 
 Centre d'aide par le travail et foyer d'hébergement, à Cunlhat (Puy-de-Dôme) ;
@@ -743,8 +717,6 @@ Etablissement d'hébergement pour personnes âgées, à Saint-Jean-Pied-de-Port 
 Etablissement d'hébergement pour personnes âgées, à Salies-de-Béarn (Pyrénées-Atlantiques) ;
 
 Maison départementale de l'enfance et de la famille, à Tarbes (Hautes-Pyrénées) ;
-
-Maison de retraite Francis Panicot, à Toulouges (Pyrénées-Orientales) ;
 
 Etablissement d'hébergement pour personnes âgées, à Peyrestortes (Pyrénées-Orientales) ;
 
@@ -785,8 +757,6 @@ Etablissement d'hébergement pour personnes âgées, à Riedisheim (Haut-Rhin) ;
 Etablissement d'hébergement pour personnes âgées, à Blace (Rhône) ;
 
 Maison de retraite, à Cublize (Rhône) ;
-
-Institut départemental de l'enfance et de la famille, à Bron (Rhône) ;
 
 Maison de retraite, à Champlitte (Haute-Saône) ;
 

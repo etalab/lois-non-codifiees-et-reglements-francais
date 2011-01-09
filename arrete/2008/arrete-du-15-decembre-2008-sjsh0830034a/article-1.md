@@ -90,6 +90,8 @@ Centre départemental de l'enfance et de la famille, à Toulouse (Haute-Garonne)
 
 Maison départementale de l'enfance et de la famille, à Taninges (Haute-Savoie) ;
 
+Etablissement public de santé intercommunal de Lomagne, à Fleurance (Gers) ;
+
 Centre départemental de l'enfance et de la famille, à Eysines (Gironde) ;
 
 Hôpital local, à Lodève (Hérault) ;
@@ -175,6 +177,8 @@ Centre départemental de l'enfance, à Metz (Moselle) ;
 Centre hospitalier, à La Charité-sur-Loire (Nièvre) ;
 
 Centre hospitalier, à La Bassée (Nord) ;
+
+Centre hospitalier, à Haumont (Nord) ;
 
 Hôpital départemental, à Felleries-Liessies (Nord) ;
 
