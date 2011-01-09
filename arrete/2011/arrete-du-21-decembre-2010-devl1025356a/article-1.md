@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 estuaires et littoral picards » (zone spéciale de conservation FR. 2200346) l'espace délimité sur la carte d'assemblage au 1/200 000 ainsi que sur les onze cartes au 1/25 000 ci-jointes s'étendant sur une partie du territoire des communes suivantes du département de la Somme : Abbeville, Ault, Boismont, Cahon, Cambron, Cayeux-sur-mer, Le Crotoy, Favières, Fort-Mahon-Plage, Lanchères, Mers-les-Bains, Noyelles-sur-Mer, Pende, Ponthoile, Port-le-Grand, Quend, Saigneville, Saint-Quentin-en-Tourmont, Saint-Quentin-la-Motte-Croix-au-Bailly, Saint-Valéry-sur-Somme, Woignarue.
