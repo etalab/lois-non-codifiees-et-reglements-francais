@@ -391,7 +391,6 @@
 - [Décret n°2010-1207 du 12 octobre 2010 (SASP1011528D)](decret-n2010-1207-du-12-octobre-2010-sasp1011528d)
 - [Décret n°2010-1208 du 12 octobre 2010 (SASH1017831D)](decret-n2010-1208-du-12-octobre-2010-sash1017831d)
 - [Décret n°2010-1369 du 12 novembre 2010 (JUSB1026680D)](decret-n2010-1369-du-12-novembre-2010-jusb1026680d)
-- [Décret n°2010-1372 du 12 novembre 2010 (ECEP1003124D)](decret-n2010-1372-du-12-novembre-2010-ecep1003124d)
 - [Décret n°2010-1375 du 12 novembre 2010 (IOCJ1017996D)](decret-n2010-1375-du-12-novembre-2010-iocj1017996d)
 - [Décret n°2010-1377 du 12 novembre 2010 (DEFD1015685D)](decret-n2010-1377-du-12-novembre-2010-defd1015685d)
 - [Décret n°2010-1378 du 12 novembre 2010 (SASV1023013D)](decret-n2010-1378-du-12-novembre-2010-sasv1023013d)
