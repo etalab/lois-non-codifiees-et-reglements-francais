@@ -23,6 +23,7 @@
 - [Décret n°2011-27 du 6 janvier 2011 (EFIE1004944D)](decret-n2011-27-du-6-janvier-2011-efie1004944d)
 - [Décret n°2011-23 du 7 janvier 2011 (PRMX1100298D)](decret-n2011-23-du-7-janvier-2011-prmx1100298d)
 - [Décret n°2011-28 du 7 janvier 2011 (EFIP1027334D)](decret-n2011-28-du-7-janvier-2011-efip1027334d)
+- [Décret n°2011-32 du 7 janvier 2011 (ETSH1012916D)](decret-n2011-32-du-7-janvier-2011-etsh1012916d)
 - [Décret n°2010-1334 du 8 novembre 2010 (MTSW1010882D)](decret-n2010-1334-du-8-novembre-2010-mtsw1010882d)
 - [Décret n°2010-633 du 8 juin 2010 (MCCB1003751D)](decret-n2010-633-du-8-juin-2010-mccb1003751d)
 - [Décret n°2009-1524 du 9 décembre 2009 (JUSC0910058D)](decret-n2009-1524-du-9-decembre-2009-jusc0910058d)
