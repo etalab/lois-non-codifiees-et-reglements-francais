@@ -10,4 +10,4 @@ La sous-direction des prestations :
 
 4. Définit la stratégie d'offres de prestations et coordonne sa mise en œuvre ;
 
-5. Met en œuvre la stratégie de coopération et de partenariat de la direction.
+5. Assure la mise en œuvre des stratégies de coopération internationale et de partenariat de la direction en matière de prestations d'expertise et d'essais.

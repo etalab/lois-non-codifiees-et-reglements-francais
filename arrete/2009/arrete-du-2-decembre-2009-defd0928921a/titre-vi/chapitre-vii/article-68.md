@@ -4,7 +4,7 @@ Le bureau des affaires générales :
 
 1. Anime le fonctionnement d'ensemble de la direction et les relations avec les autres directions ;
 
-2. Conduit et prépare, pour le directeur, les décisions en matière de gestion des ressources humaines ainsi que celles relatives aux questions d'ordre social ;
+2. (Supprimé)
 
 3. Coordonne les actions de la direction sur les questions relatives à la santé et à la sécurité au travail ainsi que sur les questions de sécurité de défense et de sécurité des systèmes d'information ;
 

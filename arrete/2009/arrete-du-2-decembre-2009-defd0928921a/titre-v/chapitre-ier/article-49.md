@@ -8,8 +8,8 @@ Le service technique comprend :
 
 1. La sous-direction de la compétence technique ;
 
-2. La division de la coopération internationale et des partenariats ;
+2. La division de la coopération ;
 
 3. La division des investissements.
 
-Le service technique a autorité sur le DGA ingénierie de projets dont les missions et l'organisation sont fixées par instruction.
+Le service technique a autorité sur le DGA Ingénierie des projets dont les missions et l'organisation sont fixées par instruction.
