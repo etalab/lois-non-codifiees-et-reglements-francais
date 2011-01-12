@@ -2688,7 +2688,6 @@
 - [Arrêté du 28 août 2009 (AGRM0914508A)](arrete-du-28-aout-2009-agrm0914508a)
 - [Arrêté du 28 août 2009 (BCFF0908998A)](arrete-du-28-aout-2009-bcff0908998a)
 - [Arrêté du 28 août 2009 (BCFS0922926A)](arrete-du-28-aout-2009-bcfs0922926a)
-- [Arrêté du 28 août 2009 (DEFD0920277A)](arrete-du-28-aout-2009-defd0920277a)
 - [Arrêté du 28 août 2009 (DEFL0920276A)](arrete-du-28-aout-2009-defl0920276a)
 - [Arrêté du 28 août 2009 (ECEC0918593A)](arrete-du-28-aout-2009-ecec0918593a)
 - [Arrêté du 28 août 2009 (SASH0920583A)](arrete-du-28-aout-2009-sash0920583a)
