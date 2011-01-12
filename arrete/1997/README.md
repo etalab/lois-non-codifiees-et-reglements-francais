@@ -143,7 +143,6 @@
 - [Arrêté du 5 août 1997 (MENF9702323A)](arrete-du-5-aout-1997-menf9702323a)
 - [Arrêté du 5 août 1997 (MENN9702229A)](arrete-du-5-aout-1997-menn9702229a)
 - [Arrêté du 5 décembre 1997 (AGRS9702480A)](arrete-du-5-decembre-1997-agrs9702480a)
-- [Arrêté du 5 décembre 1997 (EQUT9701841A)](arrete-du-5-decembre-1997-equt9701841a)
 - [Arrêté du 5 février 1997 (MCCD9700107A)](arrete-du-5-fevrier-1997-mccd9700107a)
 - [Arrêté du 5 février 1997 (TASP9720478A)](arrete-du-5-fevrier-1997-tasp9720478a)
 - [Arrêté du 5 février 1997 (TASS9720454A)](arrete-du-5-fevrier-1997-tass9720454a)
