@@ -133,7 +133,6 @@
 - [Arrêté du 6 juillet 2004 (MENE0401468A)](arrete-du-6-juillet-2004-mene0401468a)
 - [Arrêté du 6 juillet 2004 (MENE0401472A)](arrete-du-6-juillet-2004-mene0401472a)
 - [Arrêté du 6 juillet 2004 (MENE0401474A)](arrete-du-6-juillet-2004-mene0401474a)
-- [Arrêté du 6 octobre 2004 (AGRG0402327A)](arrete-du-6-octobre-2004-agrg0402327a)
 - [Arrêté du 6 octobre 2004 (INTE0400842A)](arrete-du-6-octobre-2004-inte0400842a)
 - [Arrêté du 6 septembre 2004 (MENA0401878A)](arrete-du-6-septembre-2004-mena0401878a)
 - [Arrêté du 6 mai 2004 (INTB0400342A)](arrete-du-6-mai-2004-intb0400342a)
