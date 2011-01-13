@@ -2,7 +2,7 @@
 
 Le décès ou la disparition d'un militaire participant à une opération extérieure, telle que définie par voie réglementaire en application de l'article L. 4123-4 du code de la défense, peut ouvrir droit, lorsque le décès ou la disparition du militaire est survenu par le fait ou à l'occasion du service, sauf faute détachable, au versement d'une délégation de solde.
 
-Peut en bénéficier, selon les modalités définies aux articles suivants, sur demande, le conjoint survivant non divorcé ni séparé de corps ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant.
+Peut en bénéficier, selon les modalités définies aux articles suivants, sur demande, le conjoint survivant non divorcé ni séparé de corps ou le partenaire lié par un pacte civil de solidarité      survivant.
 
 A défaut, ou lorsque le bénéficiaire mentionné au paragraphe précédent contracte un nouveau mariage ou un nouveau pacte civil de solidarité ou vit en état de concubinage, lui faisant perdre son droit à la délégation de solde, les descendants ou les ascendants peuvent, dans l'ordre, sur leur demande, recevoir une délégation de solde selon les modalités définies aux articles suivants.
 

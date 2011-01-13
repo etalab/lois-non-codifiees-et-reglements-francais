@@ -262,6 +262,7 @@
 - [Décret n°2006-1416 du 20 novembre 2006 (SANS0624117D)](decret-n2006-1416-du-20-novembre-2006-sans0624117d)
 - [Décret n°2006-1417 du 20 novembre 2006 (MJSK0670251D)](decret-n2006-1417-du-20-novembre-2006-mjsk0670251d)
 - [Décret n°2006-1641 du 20 décembre 2006 (INTB0600285D)](decret-n2006-1641-du-20-decembre-2006-intb0600285d)
+- [Décret n°2006-1642 du 20 décembre 2006 (DEFP0601590D)](decret-n2006-1642-du-20-decembre-2006-defp0601590d)
 - [Décret n°2006-1644 du 20 décembre 2006 (JUSB0610585D)](decret-n2006-1644-du-20-decembre-2006-jusb0610585d)
 - [Décret n°2006-1645 du 20 décembre 2006 (EQUP0602129D)](decret-n2006-1645-du-20-decembre-2006-equp0602129d)
 - [Décret n°2006-1648 du 20 décembre 2006 (MCCB0600855D)](decret-n2006-1648-du-20-decembre-2006-mccb0600855d)

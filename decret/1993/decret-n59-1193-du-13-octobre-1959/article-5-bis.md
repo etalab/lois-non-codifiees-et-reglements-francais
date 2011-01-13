@@ -12,6 +12,6 @@ Cette majoration est une partie de la différence entre un loyer plancher et le 
 
 A compter du premier jour de la septième année d'affectation dans les mêmes garnison ou périmètre précisés ci-dessus, elle est allouée au montant atteint le dernier jour de la sixième année et diminuée chaque année de 25 % de ce montant. Si la majoration est maintenue au titre du logement que la famille continue à occuper alors que le militaire a changé d'affectation sans se faire rejoindre de sa famille, il y a lieu de prendre en considération pour le calcul de cette indemnité l'affectation ayant ouvert droit à ladite majoration.
 
-Dans le cas où les conjoints sont militaires, la majoration n'est perçue qu'une fois. Elle est calculée sur la solde budgétaire du militaire ayant l'indice de rémunération le plus élevé.
+Dans le cas où les conjoints ou les partenaires d'un pacte civil de solidarité sont militaires, la majoration n'est perçue qu'une fois. Elle est calculée sur la solde budgétaire du militaire ayant l'indice de rémunération le plus élevé.
 
 Lorsqu'au cours d'un mois survient dans la situation du militaire un changement de nature à modifier le montant de la majoration, la totalité de cette allocation calculée sur les bases les plus avantageuses est due pour le mois entier.
