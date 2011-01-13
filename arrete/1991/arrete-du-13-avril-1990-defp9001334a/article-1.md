@@ -16,12 +16,12 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 </td>
 <td colspan="2" width="192">
 <p align="center">Taux journaliers de l'indemnité </p>
-<p align="center">(en pourcentage) </p>
+<p align="center">(en pourcentage)</p>
 </td>
 </tr>
 <tr>
 <td width="108">
-<p align="center">Marié ou ayant au moins un enfant à charge </p>
+<p align="center">        Marié ou ayant au moins un enfant à charge ou lié par un pacte civil de solidarité conclu depuis au moins deux ans </p>
 </td>
 <td width="84">
 <p align="center">Célibataire </p>
@@ -38,10 +38,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Commandant 2e échelon. </p>
 </td>
 <td valign="top" width="108">
-<p align="center">86, 17 </p>
+<p align="center">86,17 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">68, 92 </p>
+<p align="center">68,92 </p>
 </td>
 </tr>
 <tr>
@@ -55,10 +55,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Lieutenant 5e échelon. </p>
 </td>
 <td valign="top" width="108">
-<p align="center">90, 18 </p>
+<p align="center">90,18 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">72, 13 </p>
+<p align="center">72,13 </p>
 </td>
 </tr>
 <tr>
@@ -72,10 +72,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Adjudant échelle IV, 4e échelon. </p>
 </td>
 <td valign="top" width="108">
-<p align="center">90, 18 </p>
+<p align="center">90,18 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">72, 13 </p>
+<p align="center">72,13 </p>
 </td>
 </tr>
 <tr>
@@ -89,10 +89,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Sergent-chef échelle III, 3e échelon. </p>
 </td>
 <td valign="top" width="108">
-<p align="center">94, 06 </p>
+<p align="center">94,06 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">75, 24 </p>
+<p align="center">75,24 </p>
 </td>
 </tr>
 <tr>
@@ -106,10 +106,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Caporal-chef échelle II, 1er échelon </p>
 </td>
 <td valign="top" width="108">
-<p align="center">81, 80 </p>
+<p align="center">81,80 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">65, 44 </p>
+<p align="center">65,44 </p>
 </td>
 </tr>
 <tr>
@@ -123,10 +123,10 @@ Les taux journaliers de l'indemnité prévue par le décret du 3 mars 1975 susvi
 <p>Caporal à solde forfaitaire </p>
 </td>
 <td valign="top" width="108">
-<p align="center">94, 06 </p>
+<p align="center">94,06 </p>
 </td>
 <td valign="top" width="84">
-<p align="center">75, 24</p>
+<p align="center">75,24</p>
 </td>
 </tr>
 </tbody>
