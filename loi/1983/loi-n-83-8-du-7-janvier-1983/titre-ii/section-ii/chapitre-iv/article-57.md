@@ -6,7 +6,7 @@ A cet effet, ils déterminent la vocation générale des différentes zones et n
 
 Ils déterminent également les vocations des différents secteurs de l'espace maritime et les principes de compatibilité applicables aux usages correspondants, ainsi que les conséquences qui en résultent pour l'utilisation des divers secteurs de l'espace terrestre qui sont liés à l'espace maritime. Ils peuvent, en particulier, édicter les sujétions particulières intéressant les espaces maritime, fluvial ou terrestre attenant, nécessaires à la préservation du milieu marin et littoral.
 
-Les schémas de mise en valeur de la mer sont élaborés selon les modalités prévues soit aux articles L. 122-1 et suivants du code de l'urbanisme, soit au présent article.
+Les schémas de mise en valeur de la mer sont élaborés selon les modalités prévues soit aux articles L. 122-1-11 et suivants du code de l'urbanisme, soit au présent article.
 
 Ces schémas sont élaborés par l'Etat. Ils sont soumis pour avis aux communes, aux départements et aux régions intéressés.
 
