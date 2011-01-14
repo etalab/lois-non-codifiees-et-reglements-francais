@@ -26,4 +26,6 @@ d) Après observation, sur le même animal, d'une analyse PCR positive associée
 
 e) Après observation, sur le même animal, d'une analyse PCR positive associée à l'observation d'une réaction positive à un test d'intradermotuberculination simple ou comparative ;
 
+f) Après observation d'une analyse PCR positive sur un animal provenant d'un troupeau suspect d'être infecté au sens de l'article 21 ;
+
 4° Contaminés de tuberculose lorsque, appartenant à un troupeau déclaré infecté de tuberculose, ils ne répondent pas aux critères définis au 3° ci-dessus.
