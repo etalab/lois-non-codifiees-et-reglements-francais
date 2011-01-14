@@ -28,17 +28,17 @@ La proportion totale d'agents conservateurs cités aux points a, b et c ne dépa
 
 -citrate de sodium ;
 
-- sulfate d'ammonium.
+-sulfate d'ammonium.
 
-3. Les préparations enzymatiques, à l'exception de celles utilisées en oenologie, citées dans le présent arrêté, peuvent être diluées, dispersées ou additionnées des produits suivants :
+3. Les préparations enzymatiques à usage alimentaire, citées dans le présent arrêté, peuvent être diluées, dispersées ou additionnées des produits suivants :
+
+a) Pour les préparations enzymatiques, à l'exception de celles utilisées en œnologie :
 
 -denrées ou boissons destinées à l'alimentation de l'homme ;
 
 -sorbitol à la dose maximale de 60 grammes pour 100 grammes de préparation ;
 
--glycérol à la dose maximale de 60 grammes pour 100 grammes de préparation ;
-
--acétates de sodium, de potassium et de calcium à la dose maximale de 3, 5 grammes pour 100 grammes de préparation ;
+-acétates de sodium, de potassium et de calcium à la dose maximale de 3,5 grammes pour 100 grammes de préparation ;
 
 -lactates de sodium, de potassium et de calcium ;
 
@@ -48,9 +48,13 @@ La proportion totale d'agents conservateurs cités aux points a, b et c ne dépa
 
 -supports et solvants porteurs de l'annexe IV de l'arrêté du 2 octobre 1997 susvisé autorisés sans restriction d'usage ainsi que ceux autorisés pour la catégorie d'additifs enzymes, dans les conditions fixées au présent arrêté ou, à défaut, dans les conditions fixées à l'article 9 et à l'annexe IV de l'arrêté du 2 octobre 1997 ;
 
--sels de magnésium d'acides gras, dioxyde de silicium pour les préparations enzymatiques présentées sous forme de tablettes sous réserve que ces substances n'exercent pas de fonction technologique dans le produit fini ;
+-sels de magnésium d'acides gras, dioxyde de silicium pour les préparations enzymatiques présentées sous forme de tablettes, sous réserve que ces substances n'exercent pas de fonction technologique dans le produit fini ;
 
 -méthionine selon le principe du quantum satis pour les préparations d'alpha-amylase de Bacillus licheniformis MOL. 2083 recombiné génétiquement.
+
+b) Pour les préparations enzymatiques liquides, y compris celles utilisées en œnologie :
+
+-glycérol à la dose maximale de 60 grammes pour 100 grammes de préparation ;
 
 4. Les préparations enzymatiques peuvent être immobilisées sur des supports inertes constitués :
 

@@ -578,38 +578,14 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>Amyloglucosidase d'Aspergillus niger.</p>
+<td valign="top" width="152">Amyloglucosidase ou a-glucosidase ou glucamylase ou transglucosidase d'Aspergillus niger non génétiquement modifiée.</td>
+<td valign="top" width="122">Enzymes.<br/>
 </td>
-<td valign="top" width="122">
-<p>Enzymes.</p>
+<td valign="top" width="114">Production de sirops riches en oligosaccharides à partir d'amidon. <p>Production d'aliments préparés contenant de l'amidon.</p>
+<br/>
 </td>
-<td valign="top" width="114">
-<p>Cidres et poirés.</p>
-</td>
-<td valign="top" width="174">
-<p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
-</td>
-<td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="152">
-<p>Amyloglucosidase d'Aspergillus niger.</p>
-</td>
-<td valign="top" width="122">
-<p>Enzymes.</p>
-</td>
-<td valign="top" width="114">
-<p>Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.</p>
-</td>
-<td valign="top" width="174">
-<p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
-</td>
-<td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
-</td>
+<td valign="top" width="174">Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</td>
+<td valign="top" width="118">Teneur techniquement inévitable.</td>
 </tr>
 <tr>
 <td valign="top" width="152">
@@ -812,6 +788,16 @@
 </td>
 </tr>
 <tr>
+<td>Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C)<br/>
+</td>
+<td>Enzymes.<br/>
+</td>
+<td>Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. </td>
+<td>Hydrolyse du lactose. </td>
+<td>Teneur techniquement inévitable.<br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Bêta glucanase d'Aspergillus niger.</p>
 </td>
@@ -904,13 +890,11 @@
 </td>
 </tr>
 <tr>
-<td>Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
-</td>
-<td>Enzymes</td>
-<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <br/>
-</td>
-<td>Hydrolyse du lactose. </td>
-<td>Dose techniquement inévitable. </td>
+<td>Bêtagalaclosidase de Kluyveromyces lactis GAL 16A/18A.</td>
+<td>Enzymes.</td>
+<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</td>
+<td>Hydrolyse du lactose.</td>
+<td>Teneur techniquement inévitable.</td>
 </tr>
 <tr>
 <td>Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </td>
@@ -1104,6 +1088,17 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique.<br/>
+</td>
+<td>Enzymes. </td>
+<td>Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <p>Produits laitiers coagulés.</p>
+</td>
+<td>Hydrolyse de la caséine.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
@@ -1929,19 +1924,23 @@
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Lactase de Kluyveromyces lactis LCT 114 autocloné.</p>
+<p>Lactase de Kluyveromyces lactis LCT 114 autocloné.<br/>
+</p>
 </td>
 <td valign="top" width="122">
-<p>Enzymes.</p>
+<p>Enzymes.<br/>
+</p>
 </td>
 <td valign="top" width="114">
-<p>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée.</p>
+<p>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.<br/>
+</p>
 </td>
 <td valign="top" width="174">
 <p>Hydrolyse du lactose.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p>Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2503,6 +2502,17 @@
 </td>
 </tr>
 <tr>
+<td>Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
+</td>
+<td>Enzymes. </td>
+<td>Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
+</td>
+<td>Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
+</td>
+</tr>
+<tr>
 <td>
 <p>Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004.</p>
 </td>
@@ -2957,6 +2967,18 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Protéine-glutaminase issue d'une souche de Chryseobacterium proteolyticum non génétiquement modifiée (FERM P-17664).<br/>
+</td>
+<td>Enzymes.<br/>
+</td>
+<td>Ingrédients et denrées alimentaires à base de protéines.<br/>
+</td>
+<td>Catalyse la désamidation des résidus glutaminyl des polypeptides.<br/>
+</td>
+<td>Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
