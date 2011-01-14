@@ -2,28 +2,6 @@
 
 **LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET**
 
-Jusqu'au 31 décembre 2010
-
-Marseille-Annaba (Algérie).
-
-Marseille-Bejaïa (Algérie).
-
-Nice-Alger (Algérie).
-
-Bordeaux-Alger (Algérie).
-
-Marseille-Marrakech (Maroc).
-
-Marseille-Agadir (Maroc).
-
-Lyon-Marrakech (Maroc).
-
-Lyon-Agadir (Maroc).
-
-Marseille-Djerba (Tunisie).
-
-Lyon-Djerba (Tunisie).
-
 Jusqu'au 31 janvier 2014
 
 Paris - Abidjan (Côte d'Ivoire) ;
@@ -73,3 +51,15 @@ Paris - Bagdad (Irak).
 Jusqu'au 1er octobre 2015 :
 
 Mulhouse - Bejaia (Algérie).
+
+Jusqu'au 31 décembre 2015 :
+
+Bordeaux - Alger (Algérie).
+
+Marseille - Annaba (Algérie).
+
+Marseille - Bejaia (Algérie).
+
+Nice - Alger (Algérie).
+
+Paris-Ouagadougou (Burkina Faso).
