@@ -26,7 +26,7 @@ Elle veille à l'équilibre du déploiement des collections publiques sur l'ense
 
 Elle conçoit et veille à la mise en place d'une politique systématique de constitution d'inventaires et de récolement des collections des musées de France.
 
-Elle conçoit et met en œuvre, en liaison avec les instances scientifiques compétentes, la politique nationale d'acquisition, d'une part, et soutient et évalue les politiques d'enrichissement des collections publiques, d'autre part. A ce titre, elle est chargée de l'acquisition des trésors nationaux et des œuvres d'intérêt patrimonial majeur au sens de l'article 238 bis OA du code général des impôts. Elle assure le secrétariat du conseil artistique des musées nationaux. Elle est assistée dans ces tâches par la Réunion des musées nationaux.
+Elle conçoit et met en œuvre, en liaison avec les instances scientifiques compétentes, la politique nationale d'acquisition, d'une part, et soutient et évalue les politiques d'enrichissement des collections publiques, d'autre part. A ce titre, elle est chargée de l'acquisition des trésors nationaux et des œuvres d'intérêt patrimonial majeur au sens de l'article 238 bis OA du code général des impôts. Elle assure le secrétariat du conseil artistique des musées nationaux. Elle est assistée dans ces tâches par l'Etablissement public de la Réunion des musées nationaux et du Grand palais des Champs-Elysées.
 
 Elle conçoit la politique de restauration et en évalue la mise en œuvre. Elle anime et contrôle le réseau de restauration des collections des musées de France.
 

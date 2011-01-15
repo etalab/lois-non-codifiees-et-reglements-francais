@@ -1243,7 +1243,6 @@
 - [Décret n°2007-610 du 25 avril 2007 (JUSC0751469D)](decret-n2007-610-du-25-avril-2007-jusc0751469d)
 - [Décret n°2007-612 du 25 avril 2007 (MCCB0700217D)](decret-n2007-612-du-25-avril-2007-mccb0700217d)
 - [Décret n°2007-614 du 25 avril 2007 (SANS0721487D)](decret-n2007-614-du-25-avril-2007-sans0721487d)
-- [Décret n°2007-97 du 25 janvier 2007 (MCCX0600230D)](decret-n2007-97-du-25-janvier-2007-mccx0600230d)
 - [Décret n°2008-177 du 25 février 2008 (DEVA0771229D)](decret-n2008-177-du-25-fevrier-2008-deva0771229d)
 - [Décret n°91-393 du 25 avril 1991 (EQUP9100373D)](decret-n91-393-du-25-avril-1991-equp9100373d)
 - [Décret n°2007-990 du 25 mai 2007 (PRMX0751072D)](decret-n2007-990-du-25-mai-2007-prmx0751072d)

@@ -1,6 +1,6 @@
 # Article 7
 
-L'Etablissement public du château de Fontainebleau conclut avec la Réunion des musées nationaux les conventions mentionnées au dernier alinéa de l'article 2 du décret du 14 novembre 1990 susvisé. Elles définissent notamment les conditions :
+L'Etablissement public du château de Fontainebleau conclut avec l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées les conventions mentionnées au dernier alinéa de l'article 2 du décret du 14 novembre 1990 susvisé. Elles définissent notamment les conditions :
 
 a) D'organisation d'expositions ;
 

@@ -2,9 +2,9 @@
 
 Il comprend :
 
--le président du conseil artistique de la Réunion des musées nationaux, président ;
+-le président du conseil artistique de l'Etablissement de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées, président ;
 
--le    directeur général des patrimoines ou son représentant, vice-président ;
+-le directeur général des patrimoines ou son représentant, vice-président ;
 
 -le chef du service de la muséologie et de l'action culturelle ;
 
@@ -22,6 +22,6 @@ Il comprend :
 
 -le conservateur en chef du musée des arts et traditions populaires ou son représentant ;
 
--trois personnalités désignées par le ministre de la culture sur proposition du    directeur général des patrimoines, pour une durée de trois ans.
+-trois personnalités désignées par le ministre de la culture sur proposition du directeur général des patrimoines, pour une durée de trois ans.
 
 Le conseil peut entendre, à titre consultatif, tout conservateur dont il souhaite recueillir l'avis.

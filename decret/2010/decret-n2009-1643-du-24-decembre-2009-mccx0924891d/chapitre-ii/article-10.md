@@ -46,7 +46,7 @@ Il délibère notamment sur :
 
 21° Le règlement intérieur et le règlement de visite de l'établissement ;
 
-22° Les conventions passées par l'établissement avec la Réunion des musées nationaux.
+22° Les conventions passées par l'établissement avec l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées.
 
 Le conseil d'administration peut déléguer au directeur général certaines des attributions prévues aux 11°, 16° et 18°, dans les conditions qu'il détermine.
 

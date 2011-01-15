@@ -239,7 +239,6 @@
 - [Décret n°2003-983 du 14 octobre 2003 (AGRP0301282D)](decret-n2003-983-du-14-octobre-2003-agrp0301282d)
 - [Décret n°2003-988 du 14 octobre 2003 (SOCS0323387D)](decret-n2003-988-du-14-octobre-2003-socs0323387d)
 - [Décret n°2003-999 du 14 octobre 2003 (INDI0301895D)](decret-n2003-999-du-14-octobre-2003-indi0301895d)
-- [Décret n°90-1026 du 14 novembre 1990 (MCCB9000487D)](decret-n90-1026-du-14-novembre-1990-mccb9000487d)
 - [Décret n°2003-440 du 14 mai 2003 (EQUS0300464D)](decret-n2003-440-du-14-mai-2003-equs0300464d)
 - [Décret n°2003-441 du 14 mai 2003 (EQUP0300466D)](decret-n2003-441-du-14-mai-2003-equp0300466d)
 - [Décret n°2003-1194 du 15 décembre 2003 (SOCT0311879D)](decret-n2003-1194-du-15-decembre-2003-soct0311879d)

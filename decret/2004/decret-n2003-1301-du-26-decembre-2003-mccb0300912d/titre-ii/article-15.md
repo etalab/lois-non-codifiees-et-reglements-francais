@@ -4,11 +4,11 @@ Outre son président, le conseil d'administration de l'établissement comprend t
 
 1° Deux représentants de l'Etat :
 
-a) Le    directeur général des patrimoines ou son représentant ;
+a) Le directeur général des patrimoines ou son représentant ;
 
 b) Le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
 
-2° L'administrateur général de la Réunion des musées nationaux ou son représentant ;
+2° Le Président de l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ou son représentant ;
 
 3° Cinq personnalités choisies en raison de leur compétence dans le domaine d'activité de l'établissement ou de leurs fonctions, dont une choisie en raison de sa connaissance des publics des musées nationaux, désignées par arrêté du ministre chargé de la culture ;
 

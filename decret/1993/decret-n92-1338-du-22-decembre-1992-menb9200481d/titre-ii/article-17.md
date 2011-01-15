@@ -32,6 +32,6 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 15° Il détermine les conditions générales d'emploi et de rémunération des agents contractuels ;
 
-16° Il approuve les conventions passées par l'établissement avec la Réunion des musées nationaux en application des dispositions de l'article 3 ;
+16° Il approuve les conventions passées par l'établissement avec l'Etablissement de la Réunion des musées nationaux et du grand Palais des Champs-Elysées en application des dispositions de l'article 3 ;
 
 17° Il approuve le règlement d'utilisation du jardin des Tuileries pour des occupations temporaires.

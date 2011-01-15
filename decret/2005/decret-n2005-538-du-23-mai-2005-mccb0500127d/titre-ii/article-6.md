@@ -8,7 +8,7 @@ a) Le directeur général des patrimoines ou son représentant ;
 
 b) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-c) L'administrateur général de la Réunion des musées nationaux ou son représentant ;
+c) Le Président de l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ou son représentant ;
 
 d) Le président de l'Etablissement public du musée d'Orsay et du musée de l'Orangerie ou son représentant ;
 

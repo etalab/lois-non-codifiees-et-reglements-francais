@@ -36,7 +36,7 @@ Il délibère notamment sur :
 
 16° Les conditions générales d'emploi et de rémunération des agents contractuels ;
 
-17° Les conventions passées par l'établissement avec la Réunion des musées nationaux en application de l'article 7.
+17° Les conventions passées par l'établissement avec l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées en application de l'article 7.
 
 Le conseil d'administration peut déléguer au président certaines de ses attributions, prévues aux 8°, 9° et 15°, dans les conditions qu'il détermine. Le président rend compte des décisions qu'il a prises en vertu de cette délégation dès la séance qui leur fait suite.
 
