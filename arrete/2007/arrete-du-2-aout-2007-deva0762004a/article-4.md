@@ -62,7 +62,7 @@ Jusqu'au 15 mai 2015 :
 
 Mulhouse-Jijel (Algérie).
 
-<div align="center">Jusqu'au 1er septembre 2015 :</div>
+<div align="left">Jusqu'au 1er septembre 2015 :</div>
 
 Lyon-Djerba (Tunisie) ;
 
@@ -89,5 +89,11 @@ Jusqu'au 15 octobre 2015 :
 Lyon-Chlef (Algérie) ;
 
 Paris-Chlef (Algérie).
+
+Jusqu'au 31 décembre 2015 :
+
+Paris - Le Caire (Egypte) ;
+
+Paris - Tel Aviv (Israël).
 
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
