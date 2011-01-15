@@ -17,19 +17,19 @@ La fermeture de la chasse aux oiseaux de passage et au gibier d'eau est fixée c
 </tr>
 <tr>
 <td>
-<p align="center">Canards de surface :  </p>
+<p align="center">Canards de surface : </p>
 <p align="left">Canard colvert. <br/>Canard chipeau. </p>
 <p align="left">Canard pilet. </p>
 <p align="left">Canard siffleur. </p>
 <p align="left">Canard souchet. </p>
 <p align="left">Sarcelle d'été. </p>
-<p align="left">Sarcelle d'hiver.  </p>
+<p align="left">Sarcelle d'hiver. </p>
 <p align="center">
 <br/>Rallidés : </p>
 <p align="left">Foulque macroule. </p>
 <p align="left">Poule d'eau. </p>
 <p align="left">Râle d'eau. </p>
-<p align="center">Alaudidés :  </p>
+<p align="center">Alaudidés : </p>
 <p align="left">Alouette des champs. </p>
 </td>
 <td>
@@ -59,6 +59,15 @@ La fermeture de la chasse aux oiseaux de passage et au gibier d'eau est fixée c
 <p>Fuligule morillon. </p>
 <p>Garrot à œil d'or. </p>
 <p>Nette rousse.</p>
+</td>
+<td>
+<p align="center">31 janvier</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Limicoles :</p>
+<p>Barge à queue noire.<br/>Barge rousse.<br/>Bécasseau maubèche.<br/>Bécassine des marais.<br/>Bécassine sourde.<br/>Chevalier aboyeur.<br/>Chevalier arlequin.<br/>Chevalier combattant.<br/>Chevalier gambette.<br/>Courlis cendré.<br/>Courlis corlieu.<br/>Huîtrier pie.<br/>Pluvier doré.<br/>Pluvier argenté.<br/>Vanneau huppé.</p>
 </td>
 <td>
 <p align="center">31 janvier</p>
