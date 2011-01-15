@@ -30,7 +30,7 @@ Etablissement et sociétés mentionnés au titre III de la loi n° 86-1067 du 30
 
 Semmaris (Société d'économie mixte d'aménagement et de gestion du marché d'intérêt national de la région parisienne) ;
 
-Réunion des musées nationaux ;
+Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ;
 
 Voies navigables de France ;
 
