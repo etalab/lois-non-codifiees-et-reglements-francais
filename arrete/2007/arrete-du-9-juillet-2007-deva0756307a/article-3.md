@@ -4,7 +4,7 @@ I.-Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juillet 1
 
 II.-La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-**Jusqu'au 31 mai 2012**
+Jusqu'au 31 mai 2012
 
 Egypte :
 
@@ -30,19 +30,19 @@ Paris-Monastir ;
 
 Paris-Tozeur.
 
-**Jusqu'au 15 juillet 2013**
+Jusqu'au 15 juillet 2013
 
 Maroc :
 
 Paris-Marrakech.
 
-**Jusqu'au 15 octobre 2014**
+Jusqu'au 15 octobre 2014
 
 Turquie :
 
 Paris-Antalya.
 
-**Jusqu'au 31 décembre 2014**
+Jusqu'au 31 décembre 2014
 
 Tunisie : Nantes - Djerba ;
 
@@ -54,10 +54,14 @@ Lyon - Monastir.
 
 Maroc : Nantes - Marrakech.
 
-**Jusqu'au 15 février 2015**
+Jusqu'au 15 février 2015
 
 Maroc : Paris - Tanger.
 
-**Jusqu'au 31 août 2015**
+Jusqu'au 31 août 2015
 
 Tunisie : Marseille - Monastir.
+
+Jusqu'au 31 décembre 2015 :
+
+Marseille - Marrakech (Maroc).
