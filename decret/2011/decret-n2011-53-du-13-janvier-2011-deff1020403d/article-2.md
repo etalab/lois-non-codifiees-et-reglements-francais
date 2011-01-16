@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur du service de l'exécution budgétaire et des comptabilités des opérations d'armement de la direction générale de l'armement (SEREBC) est institué ordonnateur secondaire du budget du ministère de la défense et des anciens combattants, du ministère de l'écologie, du développement durable, des transports et du logement, du ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, du ministère de l'économie, des finances et de l'industrie et du ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, pour les opérations de dépenses et de recettes relatives à la satisfaction des besoins aéronautiques civils et aux prestations de service associées.
