@@ -56,6 +56,8 @@
 - [Décret n°2011-58 du 13 janvier 2011 (SPOV1017568D)](decret-n2011-58-du-13-janvier-2011-spov1017568d)
 - [Décret n°2011-59 du 13 janvier 2011 (SPOV1028918D)](decret-n2011-59-du-13-janvier-2011-spov1028918d)
 - [Décret n°2011-56 du 14 janvier 2011 (ETSS1030166D)](decret-n2011-56-du-14-janvier-2011-etss1030166d)
+- [Décret n°2011-61 du 14 janvier 2011 (ETSS1033139D)](decret-n2011-61-du-14-janvier-2011-etss1033139d)
+- [Décret n°2011-62 du 14 janvier 2011 (ETSS1033456D)](decret-n2011-62-du-14-janvier-2011-etss1033456d)
 - [Décret n°2010-1565 du 15 décembre 2010 (JUSC1030346D)](decret-n2010-1565-du-15-decembre-2010-jusc1030346d)
 - [Décret n°2010-1568 du 15 décembre 2010 (EFIP1024764D)](decret-n2010-1568-du-15-decembre-2010-efip1024764d)
 - [Décret n°2010-1580 du 17 décembre 2010 (DEVK1020985D)](decret-n2010-1580-du-17-decembre-2010-devk1020985d)
