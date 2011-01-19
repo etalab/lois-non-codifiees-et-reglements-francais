@@ -65,6 +65,8 @@
 - [Décret n°2010-1584 du 17 décembre 2010 (ETSX1032054D)](decret-n2010-1584-du-17-decembre-2010-etsx1032054d)
 - [Décret n°2010-1588 du 17 décembre 2010 (MEND1018333D)](decret-n2010-1588-du-17-decembre-2010-mend1018333d)
 - [Décret n°2010-1589 du 17 décembre 2010 (MEND1018339D)](decret-n2010-1589-du-17-decembre-2010-mend1018339d)
+- [Décret n°2011-63 du 17 janvier 2011 (DEVP1029431D)](decret-n2011-63-du-17-janvier-2011-devp1029431d)
+- [Décret n°2011-64 du 17 janvier 2011 (DEVT1018722D)](decret-n2011-64-du-17-janvier-2011-devt1018722d)
 - [Décret n°2000-138 du 18 février 2000 (EQUP0000197D)](decret-n2000-138-du-18-fevrier-2000-equp0000197d)
 - [Décret n°92-162 du 20 février 1992 (DOMP9200005D)](decret-n92-162-du-20-fevrier-1992-domp9200005d)
 - [Décret n°95-1129 du 20 octobre 1995 (EQUP9500153D)](decret-n95-1129-du-20-octobre-1995-equp9500153d)
