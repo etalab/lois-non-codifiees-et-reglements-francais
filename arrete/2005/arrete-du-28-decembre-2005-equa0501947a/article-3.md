@@ -1,50 +1,50 @@
 # Article 3
 
-Redevance de maintenance. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de maintenance prévue par le III de l'article R. 611-3 ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
+Redevance de maintenance.-Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de maintenance prévue par le III de l'article R. 611-3 ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
 
-Les organismes assujettis à cette redevance sont tenus de déclarer au GSAC les éléments utiles au calcul de cette redevance au plus tard le 10e jour qui suit l'établissement ou la modification des paramètres "effectif", "Nbase", "Nligne", "A", "M", "E" "Nsites" et "Naprs" ci-après définis.
+Les organismes assujettis à cette redevance sont tenus de déclarer à l'organisme technique habilité les éléments utiles au calcul de cette redevance au plus tard le 10e jour qui suit l'établissement ou la modification des paramètres " effectif ", " Nbase ", " Nligne ", " A ", " M ", " E " " Nsites " et " Naprs " ci-après définis.
 
 Ces organismes sont :
 
-A. - Les organismes titulaires d'un agrément conformément à la partie 145 du règlement (CE) n<sup>o </sup>2042/2003 susvisé doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
+A.-Les organismes titulaires d'un agrément conformément à la partie 145 du règlement (CE) <sup>no </sup>2042/2003 susvisé doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
 
 Pour les organismes de maintenance de classe A, au sens de la partie 145 du règlement précité :
 
-(R) = k<sub>2 </sub>× 0,90 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
+(R) = <sub>k2 </sub>× 0,90 × [3,8 × (effectif) <sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
 
 Pour les autres organismes :
 
-(R) = k<sub>2 </sub>× 0,90 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8× Nligne]
+(R) = <sub>k2 </sub>× 0,90 × [3,8 × (effectif) <sup>0,8</sup> + 15 × Nbase + 8 × Nligne]
 
-où les paramètres "effectif", "Nbase" "Nligne" et "k<sub>2</sub>" sont définis comme suit :
+où les paramètres " effectif ", " Nbase " " Nligne " et " <sub>k2</sub> " sont définis comme suit :
 
-- "effectif" est le nombre de personnes appartenant à l'organisme, que celui-ci a fait figurer dans son manuel d'organisme d'entretien, augmenté du nombre de personnes des organismes sous-traitants non agréés qui sont habilitées à délivrer les autorisations de remise en service ;
+-" effectif " est le nombre de personnes appartenant à l'organisme, que celui-ci a fait figurer dans son manuel d'organisme d'entretien, augmenté du nombre de personnes des organismes sous-traitants non agréés qui sont habilitées à délivrer les autorisations de remise en service ;
 
-- "Nbase" est le nombre de sites où s'effectue l'entretien dit "en base", au sens du règlement n° 2042/2003 susmentionné ;
+-" Nbase " est le nombre de sites où s'effectue l'entretien dit " en base ", au sens du règlement n° 2042/2003 susmentionné ;
 
-- "Nligne" est le nombre, plafonné à 100, de sites où s'effectuent les autres entretiens, dits "en ligne" ;
+-" Nligne " est le nombre, plafonné à 100, de sites où s'effectuent les autres entretiens, dits " en ligne " ;
 
-- "k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
+-" <sub>k2</sub> " est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de " <sub>k2</sub> " est fixée en annexe au présent arrêté.
 
-B. - Les organismes titulaires d'un agrément d'atelier de pliage de parachutes de sauvetage doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
+B.-Les organismes titulaires d'un agrément d'atelier de pliage de parachutes de sauvetage doivent acquitter une redevance due au titre du suivi de l'agrément dont le montant est calculé en appliquant la formule suivante :
 
 Le montant de la redevance due au titre du suivi de l'agrément est calculé en appliquant la formule suivante :
 
-(R) = k<sub>2</sub> x [(effectif)<sup>0,8</sup> + 4 x Nbase]
+(R) = <sub>k2</sub> x [(effectif) <sup>0,8</sup> + 4 x Nbase]
 
-où les paramètres "effectif", "Nbase" et "k<sub>2</sub>" sont définis comme suit :
+où les paramètres " effectif ", " Nbase " et " <sub>k2</sub> " sont définis comme suit :
 
-- "effectif" est le nombre de personnes travaillant pour l'organisme, augmenté du nombre de personnes des organismes sous-traitants non agréés qui sont habilités à délivrer les approbations de remise en service ;
+-" effectif " est le nombre de personnes travaillant pour l'organisme, augmenté du nombre de personnes des organismes sous-traitants non agréés qui sont habilités à délivrer les approbations de remise en service ;
 
-- "Nbase" est le nombre de sites d'entretien dit "en base" ;
+-" Nbase " est le nombre de sites d'entretien dit " en base " ;
 
-- "k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
+-" <sub>k2</sub> " est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de " <sub>k2</sub> " est fixée en annexe au présent arrêté.
 
-C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R) dont le montant est calculé en appliquant la formule suivante :
+C.-Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R) dont le montant est calculé en appliquant la formule suivante :
 
-(R) = k<sub>2</sub> × [(A + M + E) <sup>0,9</sup> + (3 × N<sub>APRS</sub>) <sup>0,9</sup> + 10 × (N<sub>SITES</sub> - 1)]
+(R) = <sub>k2</sub> × [(A + M + E) <sup>0,9</sup> + (3 × <sub>NAPRS</sub>) <sup>0,9</sup> + 10 × (<sub>NSITES</sub>-1)]
 
-où les paramètres "A", "M", "E" "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>2</sub>" sont définis comme suit :
+où les paramètres " A ", " M ", " E " " <sub>NAPRS</sub> ", " <sub>NSITES</sub> " et " <sub>k2</sub> " sont définis comme suit :
 
 " A " est la somme, pour tous les types d'aéronefs figurant dans le domaine d'agrément de l'organisme des coefficients " a " dont la valeur pour chaque type est donnée par le tableau suivant en fonction de la catégorie d'aéronef :
 
@@ -52,203 +52,205 @@ où les paramètres "A", "M", "E" "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<
 <tbody>
 <tr>
 <td width="548">
-<p align="center">CATÉGORIE D'AÉRONEF</p>
+<p align="center">CATÉGORIE D'AÉRONEF </p>
 </td>
 <td width="151">
-<p align="center">a</p>
+<p align="center">a </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Aéronefs avec MMD ≤ 5,7 t :</p>
+<p>Aéronefs avec MMD ≤ 5,7 t : </p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Planeur ou ballon</p>
+<p>Planeur ou ballon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,5</p>
+<p align="center">0,5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion monomoteur à pistons, non pressurisé</p>
+<p>Avion monomoteur à pistons, non pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion multimoteurs à pistons, non pressurisé</p>
+<p>Avion multimoteurs à pistons, non pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Hélicoptère monomoteur à pistons</p>
+<p>Hélicoptère monomoteur à pistons </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion monoturbine non pressurisé</p>
+<p>Avion monoturbine non pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion monomoteur à pistons, pressurisé</p>
+<p>Avion monomoteur à pistons, pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion multiturbines non pressurisé</p>
+<p>Avion multiturbines non pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion multimoteurs à pistons, pressurisé</p>
+<p>Avion multimoteurs à pistons, pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion monoturbine, pressurisé</p>
+<p>Avion monoturbine, pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Hélicoptère monoturbine</p>
+<p>Hélicoptère monoturbine </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Hélicoptère multimoteurs, MMD ≤ 2,7 t</p>
+<p>Hélicoptère multimoteurs, MMD ≤ 2,7 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">11</p>
+<p align="center">11 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Avion multiturbines pressurisé</p>
+<p>Avion multiturbines pressurisé </p>
 </td>
 <td valign="top" width="151">
-<p align="center">14</p>
+<p align="center">14 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Hélicoptère multimoteurs, MMD &gt; 2,7 t</p>
+<p>Hélicoptère multimoteurs, MMD &gt; 2,7 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">18</p>
+<p align="center">18 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Aéronefs avec MMD &gt; 5,7 t :</p>
+<p>Aéronefs avec MMD &gt; 5,7 t : </p>
 </td>
 <td valign="top" width="151">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>5,7 t ≤ MMD ≤ 10 t</p>
+<p>5,7 t ≤ MMD ≤ 10 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">24</p>
+<p align="center">24 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>10 t &lt; MMD ≤ 25 t</p>
+<p>10 t &lt; MMD ≤ 25 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">37</p>
+<p align="center">37 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>25 t &lt; MMD ≤ 65 t</p>
+<p>25 t &lt; MMD ≤ 65 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">63</p>
+<p align="center">63 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>65 t &lt; MMD ≤ 110 t</p>
+<p>65 t &lt; MMD ≤ 110 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">93</p>
+<p align="center">93 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>110 t &lt; MMD ≤ 180 t</p>
+<p>110 t &lt; MMD ≤ 180 t </p>
 </td>
 <td valign="top" width="151">
-<p align="center">124</p>
+<p align="center">124 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>180 t &lt; MMD</p>
+<p>180 t &lt; MMD </p>
 </td>
 <td valign="top" width="151">
-<p align="center">205</p>
+<p align="center">205 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Par "type d'aéronefs", on entend l'ensemble des aéronefs faisant l'objet d'une même qualification de type conformément à la partie 66 du règlement (CE) n° 2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur ou à défaut présentant des caractéristiques similaires.
+Par " type d'aéronefs ", on entend l'ensemble des aéronefs faisant l'objet d'une même qualification de type conformément à la partie 66 du règlement (CE) n° 2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur ou à défaut présentant des caractéristiques similaires.
 
-"M" est la somme, pour tous les ensembles regroupant chacun les types de moteurs figurant dans le domaine d'agrément de l'organisme et faisant l'objet d'un même certificat de type, des coefficients "m" dont la valeur pour chaque ensemble est donnée par le tableau suivant en fonction de la catégorie de moteur :
+" M " est la somme, pour tous les ensembles regroupant chacun les types de moteurs figurant dans le domaine d'agrément de l'organisme et faisant l'objet d'un même certificat de type, des coefficients " m " dont la valeur pour chaque ensemble est donnée par le tableau suivant en fonction de la catégorie de moteur :
 
 <table>
 <tbody>
 <tr>
 <td width="548">
-<p align="center">CATÉGORIE DE MOTEUR</p>
+<p align="center">CATÉGORIE DE MOTEUR </p>
 </td>
 <td width="151">
-<p align="center">m</p>
+<p align="center">m </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Moteur à piston</p>
+<p>Moteur à piston </p>
 </td>
 <td valign="top" width="151">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
@@ -256,7 +258,7 @@ Par "type d'aéronefs", on entend l'ensemble des aéronefs faisant l'objet d'une
 <p>Turbopropulseur </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
@@ -264,29 +266,29 @@ Par "type d'aéronefs", on entend l'ensemble des aéronefs faisant l'objet d'une
 <p>Réacteur </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-"E" = 2, uniquement si le domaine d'agrément de l'organisme inclut des équipements. Toutefois le terme "E" n'est pas applicable si le domaine d'agrément de l'organisme inclut aussi des aéronefs complets ;
+" E " = 2, uniquement si le domaine d'agrément de l'organisme inclut des équipements. Toutefois le terme " E " n'est pas applicable si le domaine d'agrément de l'organisme inclut aussi des aéronefs complets ;
 
-"N<sub>APRS</sub>" est le nombre de personnes habilitées à délivrer l'approbation pour remise en service quel que soit leur domaine d'habilitation, à l'exception des suppléants ; toutefois N<sub>APRS</sub> ne peut pas être inférieur à (A + M) / 20, arrondi au nombre entier supérieur ;
+" <sub>NAPRS</sub> " est le nombre de personnes habilitées à délivrer l'approbation pour remise en service quel que soit leur domaine d'habilitation, à l'exception des suppléants ; toutefois <sub>NAPRS</sub> ne peut pas être inférieur à (A + M)/20, arrondi au nombre entier supérieur ;
 
-"N<sub>sites</sub>" est le nombre de sites d'entretien identifiés dans le manuel d'organisme de maintenance ;
+" <sub>Nsites</sub> " est le nombre de sites d'entretien identifiés dans le manuel d'organisme de maintenance ;
 
-"k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
+" <sub>k2</sub> " est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de " <sub>k2</sub> " est fixée en annexe au présent arrêté.
 
 Toutefois, (R) ne peut être inférieur à (4 × k2).
 
-D. - La redevance de suivi de l'agrément de maintenance est acquittée mensuellement, auprès du GSAC.
+D.-La redevance de suivi de l'agrément de maintenance est acquittée mensuellement, auprès de l'organisme technique habilité.
 
-Chaque mensualité est égale au douzième du montant résultant de l'application de la formule ou du calcul précités, les paramètres "effectif", "Nbase", "Nligne", "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et, le cas échéant, "E"étant évalués par le GSAC en retenant les éléments utiles qui lui sont parvenus au dixième jour du mois de facturation.
+Chaque mensualité est égale au douzième du montant résultant de l'application de la formule ou du calcul précités, les paramètres " effectif ", " Nbase ", " Nligne ", " A ", " M ", " <sub>NAPRS</sub> ", " <sub>NSITES</sub> " et, le cas échéant, " E " étant évalués par l'organisme technique habilité en retenant les éléments utiles qui lui sont parvenus au dixième jour du mois de facturation.
 
-Pour l'application du présent article, "mois de facturation" s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
+Pour l'application du présent article, " mois de facturation " s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
 
-E. - L'instruction effectuée en vue de la délivrance d'un agrément d'organisme de maintenance mentionné au A ou B du présent article donne lieu à paiement d'une redevance égale au double de la redevance définie, selon les cas, au A ou au B du présent article due au titre du suivi de cet agrément.
+E.-L'instruction effectuée en vue de la délivrance d'un agrément d'organisme de maintenance mentionné au A ou B du présent article donne lieu à paiement d'une redevance égale au double de la redevance définie, selon les cas, au A ou au B du présent article due au titre du suivi de cet agrément.
 
 L'instruction effectuée en vue de la délivrance d'un agrément d'organisme de maintenance mentionné au C. du présent article donne lieu à paiement d'une redevance d'instruction forfaitaire calculée sur la base du périmètre d'agrément demandé par le postulant et corrigée, le cas échéant, à l'issue de l'instruction sur la base de l'agrément délivré.
 
@@ -298,24 +300,24 @@ Organismes dont le périmètre d'agrément inclut des aéronefs complets :
 <tbody>
 <tr>
 <td width="205">
-<p align="center">MMD LA PLUS ÉLEVÉE<br/>des types d'aéronefs<br/>inclus<br/>dans le périmètre<br/>d'agrément</p>
+<p align="center">MMD LA PLUS ÉLEVÉE <br/>des types d'aéronefs <br/>inclus <br/>dans le périmètre <br/>d'agrément </p>
 </td>
 <td width="205">
-<p align="center">DURÉE<br/>d'instruction<br/>inférieure<br/>ou égale<br/>à 4 mois</p>
+<p align="center">DURÉE <br/>d'instruction <br/>inférieure <br/>ou égale <br/>à 4 mois </p>
 </td>
 <td width="205">
-<p align="center">AU-DELÀ,<br/>pro rata temporis<br/>sur la base de<br/>n heures/mois d'instruction<br/>supplémentaire</p>
+<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n heures/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="205">
-<p>2,7 t ou moins</p>
+<p>2,7 t ou moins </p>
 </td>
 <td valign="top" width="205">
-<p align="center">12 heures</p>
+<p align="center">12 heures </p>
 </td>
 <td valign="top" width="205">
-<p align="center">n = 4</p>
+<p align="center">n = 4 </p>
 </td>
 </tr>
 <tr>
@@ -323,10 +325,10 @@ Organismes dont le périmètre d'agrément inclut des aéronefs complets :
 <p>Plus de 2,7 t </p>
 </td>
 <td valign="top" width="205">
-<p align="center">24 heures</p>
+<p align="center">24 heures </p>
 </td>
 <td valign="top" width="205">
-<p align="center">n = 8</p>
+<p align="center">n = 8 </p>
 </td>
 </tr>
 </tbody>
@@ -338,13 +340,13 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <tbody>
 <tr>
 <td width="205">
-<p align="center">CATÉGORIE<br/>de moteur<br/>dans le périmètre<br/>d'agrément</p>
+<p align="center">CATÉGORIE <br/>de moteur <br/>dans le périmètre <br/>d'agrément </p>
 </td>
 <td width="205">
-<p align="center">DURÉE<br/>d'instruction<br/>inférieure<br/>ou égale<br/>à 4 mois</p>
+<p align="center">DURÉE <br/>d'instruction <br/>inférieure <br/>ou égale <br/>à 4 mois </p>
 </td>
 <td width="205">
-<p align="center">AU-DELÀ,<br/>pro rata temporis<br/>sur la base de<br/>n heures/mois d'instruction<br/>supplémentaire</p>
+<p align="center">AU-DELÀ, <br/>pro rata temporis <br/>sur la base de <br/>n heures/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
@@ -352,10 +354,10 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p>Moteurs à piston </p>
 </td>
 <td valign="top" width="205">
-<p align="center">12 heures</p>
+<p align="center">12 heures </p>
 </td>
 <td valign="top" width="205">
-<p align="center">n = 4</p>
+<p align="center">n = 4 </p>
 </td>
 </tr>
 <tr>
@@ -363,21 +365,21 @@ Organismes dont le périmètre d'agrément inclut des moteurs complets :
 <p>Turbopropulseurs </p>
 </td>
 <td valign="top" width="205">
-<p align="center">18 heures</p>
+<p align="center">18 heures </p>
 </td>
 <td valign="top" width="205">
-<p align="center">n = 6</p>
+<p align="center">n = 6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="205">
-<p>Réacteur</p>
+<p>Réacteur </p>
 </td>
 <td valign="top" width="205">
-<p align="center">24 heures</p>
+<p align="center">24 heures </p>
 </td>
 <td valign="top" width="205">
-<p align="center">n = 8</p>
+<p align="center">n = 8 </p>
 </td>
 </tr>
 </tbody>
@@ -389,18 +391,18 @@ Autres organismes :
 <tbody>
 <tr>
 <td width="233">
-<p align="center">DURÉE D'INSTRUCTION<br/>inférieure ou égale à 4 mois</p>
+<p align="center">DURÉE D'INSTRUCTION <br/>inférieure ou égale à 4 mois </p>
 </td>
 <td width="467">
-<p align="center">AU-DELÀ, PRO RATA TEMPORIS<br/>sur la base de n heures/mois d'instruction<br/>supplémentaire</p>
+<p align="center">AU-DELÀ, PRO RATA TEMPORIS <br/>sur la base de n heures/ mois d'instruction <br/>supplémentaire </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="233">
-<p>12 heures</p>
+<p>12 heures </p>
 </td>
 <td valign="top" width="467">
-<p align="center">n = 4</p>
+<p align="center">n = 4 </p>
 </td>
 </tr>
 </tbody>

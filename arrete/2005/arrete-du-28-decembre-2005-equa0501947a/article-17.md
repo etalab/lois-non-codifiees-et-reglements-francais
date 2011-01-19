@@ -8,4 +8,4 @@ Par dérogation aux dispositions du présent arrêté, lorsqu'une entreprise ou 
 
 Pour la détermination des redevances mentionnées dans le présent arrêté, les ministres chargés des finances et de l'aviation civile peuvent fixer des modulations dont la durée et l'amplitude doivent être proportionnées à l'objectif d'intérêt général auquel ces modulations répondent.
 
-Les interventions de l'administration de l'aviation civile ou du groupement pour la sécurité de l'aviation civile que nécessite l'instruction d'une demande donnent lieu au paiement de la redevance correspondante quel qu'en soit le résultat.
+Les interventions de l'administration de l'aviation civile ou de l'organisme technique habilitéque nécessite l'instruction d'une demande donnent lieu au paiement de la redevance correspondante quel qu'en soit le résultat.

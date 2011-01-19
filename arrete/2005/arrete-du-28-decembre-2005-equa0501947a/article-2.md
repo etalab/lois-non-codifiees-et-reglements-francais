@@ -10,11 +10,15 @@ A. - Tout organisme titulaire de l'agrément prévu par la sous-partie G de la p
 
 Il est calculé selon la formule suivante :
 
-(R) = (R<sub>g</sub>) ou (R) = (R<sub>g</sub>) + (R<sub>i</sub>) lorsque l'organisme détient le privilège de délivrer les certificats d'examen de navigabilité, et
+(R) = (R<sup>
+<sub>g</sub>
+</sup>) ou (R) = (R<sup>
+<sub>g</sub>
+</sup>) + (R<sup>i</sup>) lorsque l'organisme détient le privilège de délivrer les certificats d'examen de navigabilité, et
 
-(R<sub>g</sub>) = k<sub>1</sub> × [1,1 × m<sup>0,8</sup> + P] sans que (R) puisse être inférieur à (20 × k<sub>1</sub>) lorsque l'organisme est un transporteur aérien soumis à la redevance d'exploitant d'aéronef ou à (15 × k<sub>1</sub>) lorsque l'organisme inclut dans son domaine d'agrément au moins un avion d'une masse maximale au décollage (MMD) de plus de 5,7 t ou un hélicoptère multimoteurs d'une MMD de plus de 2,7 t ou (4 × k<sub>1</sub>) dans les autres cas,
+(Rg) = k<sub>1</sub> × [1,1 × m<sup>0,8 </sup>+ P] sans que (R) puisse être inférieur à (20 × k<sub>1</sub>) lorsque l'organisme est un transporteur aérien soumis à la redevance d'exploitant d'aéronef ou à (15 × k<sub>1</sub>) lorsque l'organisme inclut dans son domaine d'agrément au moins un avion d'une masse maximale au décollage (MMD) de plus de 5,7 t ou un hélicoptère multimoteurs d'une MMD de plus de 2,7 t ou (4 × k<sub>1</sub>) dans les autres cas,
 
-où les paramètres "m", "P", "k<sub>1</sub>" sont définis comme suit :
+où les paramètres "m", "P", "k1" sont définis comme suit :
 
 - "m" est la somme, exprimée en tonnes, des masses maximales au décollage (MMD) des aéronefs sous contrat de gestion, c'est-à-dire enregistrés dans les spécifications d'agrément opérationnel du transporteur aérien ou dont l'organisme assure la gestion du maintien de la navigabilité dans le cadre d'un contrat conforme à l'appendice I de la partie M du règlement (CE) n° 2042/2003 susvisé ; la MMD retenue est celle figurant au manuel de vol ou dans un document équivalent de chaque aéronef concerné et affectée d'un coefficient "α " dont la valeur est donnée dans le tableau suivant en fonction de la catégorie d'aéronef ;
 
@@ -39,8 +43,10 @@ où les paramètres "m", "P", "k<sub>1</sub>" sont définis comme suit :
 </td>
 <td colspan="2" width="227">
 <br/>
+<br/>
 </td>
 <td width="76">
+<br/>
 <br/>
 </td>
 </tr>
@@ -199,6 +205,7 @@ où les paramètres "m", "P", "k<sub>1</sub>" sont définis comme suit :
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -318,9 +325,9 @@ Lorsqu'un organisme de gestion du maintien de navigabilité autre qu'un transpor
 
 20 % de la plus petite des redevances dans les autres cas.
 
-La redevance de suivi de l'agrément de gestion de navigabilité est acquittée mensuellement auprès du GSAC. Chaque mensualité est égale au douzième du montant résultant de l'application de la formule précitée, les paramètres "m", le cas échéant "N<sub>1</sub>", "N<sub>2</sub>", et "N<sub>en</sub>" et "P" étant évalués par le GSAC en retenant les éléments utiles contenus dans les spécifications d'agrément opérationnel du transporteur aérien ou les spécifications d'agrément de gestion du maintien de la navigabilité dont il dispose au 10e jour du mois de facturation.
+La redevance de suivi de l'agrément de gestion de navigabilité est acquittée mensuellement auprès de l'organisme technique habilité. Chaque mensualité est égale au douzième du montant résultant de l'application de la formule précitée, les paramètres "m", le cas échéant "N<sub>1</sub>", "N<sub>2</sub>", et "N<sub>en</sub>" et "P" étant évalués par l'organisme technique habilité en retenant les éléments utiles contenus dans les spécifications d'agrément opérationnel du transporteur aérien ou les spécifications d'agrément de gestion du maintien de la navigabilité dont il dispose au 10e jour du mois de facturation.
 
-Les organismes détenant le privilège de délivrer les certificats d'examen de navigabilité sont tenus de déclarer au GSAC les éléments utiles à la détermination des paramètres "A<sub>1</sub>" et "A<sub>2</sub>" au plus tard le 10 janvier de chaque année.
+Les organismes détenant le privilège de délivrer les certificats d'examen de navigabilité sont tenus de déclarer à l'organisme technique habilité les éléments utiles à la détermination des paramètres "A<sub>1</sub>" et "A<sub>2</sub>" au plus tard le 10 janvier de chaque année.
 
 Pour l'application du présent article, "mois de facturation" s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
 
