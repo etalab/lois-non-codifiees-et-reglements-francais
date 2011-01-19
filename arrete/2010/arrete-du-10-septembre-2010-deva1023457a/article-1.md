@@ -58,6 +58,8 @@ Au service technique de l'aviation civile (STAC) :
 
 Au secrétariat général (SG) :
 
+- chef de projet modernisation des fonctions support ;
+
 1. A la sous-direction des personnels (SDP) :
 
 ― chef du bureau de la gestion des personnels et du recrutement (SDP1) ;
@@ -72,7 +74,7 @@ Au secrétariat général (SG) :
 
 ― adjoint au chef du bureau des rémunérations et des pensions (SDP4) ;
 
-― conseiller « mobilité-carrière » (MGPEEC) ;
+― conseiller "mobilité-carrière" (MGPEEC) ;
 
 ― directeur de l'Association pour la réalisation des actions et des missions sociales (ARAMIS).
 
@@ -132,7 +134,9 @@ A la direction des services de la navigation aérienne (DSNA) :
 
 2. A la direction des opérations (DO) :
 
-― chef du service administratif d'un des centres en route de la navigation aérienne (CRNA) Nord, Est, Ouest, Sud-Ouest et Sud-Est ;
+― secrétaire général adjoint des services de la navigation aérienne de la région parisienne (SNA/RP) et chef du service administratif du centre en route de la navigation aérienne (CRNA) Nord ;
+
+―chef du service administratif d'un des centres en route de la navigation aérienne (CRNA) Est, Ouest, Sud-Ouest et Sud-Est ;
 
 ― chef du service administratif du service de la navigation aérienne Centre-Est (SNA/CE) ;
 
@@ -150,27 +154,29 @@ A la direction de la sécurité de l'aviation civile (DSAC) :
 
 a) A la direction gestion des ressources (GR) :
 
-― chef du pôle « finances » (GR/FIN) ;
+― chef du pôle "finances" (GR/FIN) ;
 
-― chef du pôle « achats et logistique » (GR/LOG) ;
+― chef du pôle "achats et logistique" (GR/LOG) ;
 
-― chef du pôle « ressources humaines » (GR/RH) ;
+― chef du pôle "ressources humaines" (GR/RH) ;
 
 ― délégué auprès du directeur de la gestion des ressources, conseiller juridique (GR/DIR).
 
 b) A la direction personnels navigants (PN) :
 
-― chef du pôle « licences » (PN/LIC) ;
+― adjoint au directeur technique ;
 
-― chef du pôle « examens » (PN/EXA).
+― chef du pôle "licences" (PN/LIC) ;
+
+― chef du pôle "examens" (PN/EXA).
 
 c) A la direction coopération européenne et réglementation de sécurité (ERS) :
 
-― chef du pôle « personnels de l'aviation civile » (ERS/PAC).
+― chef du pôle "personnels de l'aviation civile" (ERS/PAC).
 
 2. Dans une direction interrégionale de la sécurité de l'aviation civile (DSAC/IR) :
 
-― chef du département « gestion des ressources » d'une des directions interrégionales de la sécurité de l'aviation civile Nord, Nord-Est, Centre-Est, Ouest, Sud, Sud-Ouest, Sud-Est et Antilles-Guyane ;
+― chef du département "gestion des ressources" d'une des directions interrégionales de la sécurité de l'aviation civile Nord, Nord-Est, Centre-Est, Ouest, Sud, Sud-Ouest, Sud-Est et Antilles-Guyane ;
 
 ― chef du cabinet du directeur interrégional de la sécurité de l'aviation civile Nord-Est (DSAC/NE).
 
@@ -178,11 +184,11 @@ A l'Ecole nationale de l'aviation civile (ENAC) :
 
 ― adjoint au secrétaire général ;
 
-― chef du département langues et sciences humaines ;
+― chef du département langues, sciences humaines et sociales ;
 
-― chef du département gestion des personnes ;
+― chef du département ressources humaines ;
 
-― chef des services financiers.
+― chef du département finances.
 
 A Météo-France (MF) :
 
