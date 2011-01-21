@@ -4,7 +4,7 @@ Pour bénéficier de l'aide prévue à l'article 5-1, le foyer qui en fait la de
 
 1° Il ne reçoit des services de télévision en clair que par voie hertzienne terrestre en mode analogique ;
 
-2° Il détient un appareil récepteur de télévision ou un dispositif assimilé dans un local d'habitation situé :
+2° En métropole, il détient un appareil récepteur de télévision ou un dispositif assimilé dans un local d'habitation situé :
 
 - soit dans une zone géographique où l'extinction de la diffusion analogique a été décidée par le Conseil supérieur de l'audiovisuel et où l'ensemble des services de télévision en clair préalablement reçus par voie hertzienne terrestre en mode analogique ne pourra pas, à la date d'extinction de cette diffusion, être reçu par voie hertzienne terrestre en mode numérique ;
 

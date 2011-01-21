@@ -1,3 +1,3 @@
 # Article 10
 
-Un décret ultérieur fixera les conditions d'application des présentes dispositions dans les départements d'outre-mer, les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.

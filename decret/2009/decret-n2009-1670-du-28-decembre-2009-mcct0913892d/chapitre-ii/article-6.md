@@ -2,11 +2,11 @@
 
 Pour bénéficier de l'aide prévue à l'article 5, le foyer qui en fait la demande satisfait aux conditions suivantes :
 
-1° Il a bénéficié d'un dégrèvement de la contribution à l'audiovisuel public en application du 2° et du 3° bis de l'article 1605 bis du code général des impôts au titre de l'année précédant celle au cours de laquelle l'aide est demandée ;
+1° En métropole, il a bénéficié d'un dégrèvement de la contribution à l'audiovisuel public en application du 2° et du 3° bis de l'article 1605 bis du code général des impôts au titre de l'année précédant celle au cours de laquelle l'aide est demandée ;
 
 2° Il ne reçoit des services de télévision en clair que par voie hertzienne terrestre en mode analogique ;
 
-3° Il détient un appareil récepteur de télévision ou un dispositif assimilé dans un local d'habitation situé :
+3° En métropole, il détient un appareil récepteur de télévision ou un dispositif assimilé dans un local d'habitation situé :
 
 ― soit dans une zone géographique où l'extinction de la diffusion analogique a été décidée par le Conseil supérieur de l'audiovisuel et où les conditions de réception des services de télévision en clair diffusés par voie hertzienne terrestre en mode numérique à la date d'extinction de la diffusion analogique sont connues ;
 
@@ -14,4 +14,6 @@ Pour bénéficier de l'aide prévue à l'article 5, le foyer qui en fait la dema
 
 4° Le local d'habitation dans lequel cet appareil ou ce dispositif est détenu constitue la résidence principale du foyer ;
 
-5° Le montant de son revenu fiscal de référence de l'avant-dernière année précédant celle au cours de laquelle l'aide est demandée n'excède pas 20 000 euros pour la première part de quotient familial, majorée de 1 500 euros pour les quatre premières demi-parts et de 2 500 euros pour chaque demi-part supplémentaire retenues pour le calcul de l'impôt sur le revenu.
+5° a) En métropole, le montant de son revenu fiscal de référence de l'avant-dernière année précédant celle au cours de laquelle l'aide est demandée n'excède pas 20 000 euros pour la première part de quotient familial, majorée de 1 500 euros pour les quatre premières demi-parts et de 2 500 euros pour chaque demi-part supplémentaire retenues pour le calcul de l'impôt sur le revenu ;
+
+b) Outre-mer, il satisfait aux conditions de ressources définies en annexes I et II. Le nombre de parts est déterminé conformément aux dispositions de l'article 194 du code général des impôts dans les départements d'outre-mer, et par référence à ces mêmes dispositions à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, à Mayotte et Wallis-et-Futuna. En Nouvelle-Calédonie le nombre de parts est déterminé selon les dispositions du code des impôts de Nouvelle-Calédonie.
