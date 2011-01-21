@@ -55,6 +55,7 @@
 - [Décret n°2011-57 du 13 janvier 2011 (SPOV1017553D)](decret-n2011-57-du-13-janvier-2011-spov1017553d)
 - [Décret n°2011-58 du 13 janvier 2011 (SPOV1017568D)](decret-n2011-58-du-13-janvier-2011-spov1017568d)
 - [Décret n°2011-59 du 13 janvier 2011 (SPOV1028918D)](decret-n2011-59-du-13-janvier-2011-spov1028918d)
+- [Décret n°88-976 du 13 octobre 1988 (SPSH8801218D)](decret-n88-976-du-13-octobre-1988-spsh8801218d)
 - [Décret n°2011-56 du 14 janvier 2011 (ETSS1030166D)](decret-n2011-56-du-14-janvier-2011-etss1030166d)
 - [Décret n°2011-61 du 14 janvier 2011 (ETSS1033139D)](decret-n2011-61-du-14-janvier-2011-etss1033139d)
 - [Décret n°2011-62 du 14 janvier 2011 (ETSS1033456D)](decret-n2011-62-du-14-janvier-2011-etss1033456d)
