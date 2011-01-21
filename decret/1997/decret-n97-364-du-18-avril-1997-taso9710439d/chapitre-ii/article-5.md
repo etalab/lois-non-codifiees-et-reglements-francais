@@ -4,7 +4,7 @@ I. - Le concours externe est ouvert aux candidats titulaires d'un diplôme natio
 
 II. - Le concours interne est ouvert aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale à la date de clôture des inscriptions, comptant au moins quatre ans de services publics au 1er janvier de l'année au titre de laquelle est organisé le concours.
 
-III. - Le nombre de places offerts au concours externe et au concours interne est fixé par arrêté conjoint du ministre chargé du travail, du ministre chargé de l'agriculture et du ministre chargé des transports.
+III. - Le nombre de places offerts au concours externe et au concours interne est fixé par arrêté conjoint du ministre chargé du travail, des ministres chargés respectivement du travail, de l'emploi et de la formation professionnelle
 
 En aucun cas, le nombre de places offertes à chacun des deux concours ne peut être inférieur à 40 % du nombre total de places offertes.
 

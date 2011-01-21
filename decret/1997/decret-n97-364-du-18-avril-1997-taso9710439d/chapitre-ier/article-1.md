@@ -1,9 +1,9 @@
 # Article 1
 
-I. - Le corps des contrôleurs du travail, classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est soumis aux dispositions du présent décret et à celles du décret du 18 novembre 1994 susvisé.
+I.-Le corps des contrôleurs du travail, classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est soumis aux dispositions du présent décret et à celles du décret du 18 novembre 1994 susvisé.
 
-II. - Les contrôleurs du travail dont la gestion est assurée par le ministre chargé du travail, de l'emploi et de la formation professionnelle, sont placés sous l'autorité des ministres chargés respectivement du travail, de l'emploi et de la formation professionnelle, de l'agriculture et des transports.
+II.-Les contrôleurs du travail dont la gestion est assurée par les ministres chargés respectivement du travail, de l'emploi et de la formation professionnelle, sont placés sous l'autorité des ministres chargés respectivement du travail, de l'emploi et de la formation professionnelle et de l'agriculture.
 
-Les membres de ce corps sont appelés à exercer leurs fonctions dans les services déconcentrés du travail, de l'emploi et de la formation professionnelle, à l'Institut national du travail, de l'emploi et de la formation professionnelle dans les établissements publics relevant du ministère du travail, dans les services d'inspection du travail, de l'emploi et de la politique sociale agricole du ministère chargé de l'agriculture, ou dans un service d'inspection du travail des transports.
+Les membres de ce corps sont appelés à exercer leurs fonctions dans les services déconcentrés du travail, de l'emploi et de la formation professionnelle, à l'Institut national du travail, de l'emploi et de la formation professionnelle dans les établissements publics relevant du ministère du travail et dans les services chargés de l'emploi et de la politique sociale agricole du ministère de l'agriculture.
 
 Ils peuvent également être affectés, par voie de mutation, à l'administration centrale des ministères susmentionnés.
