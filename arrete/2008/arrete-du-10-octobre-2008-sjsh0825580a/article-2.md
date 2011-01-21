@@ -43,3 +43,9 @@ Fédération CGT de la santé et de l'action sociale, 263, rue de Paris, case 53
 Usagers des institutions et établissements de santé :
 
 Collectif interassociatif sur la santé (CISS), 5, rue du Général-Bertrand, 75007 Paris : 1 siège.
+
+6° Au titre de l'article R. 6122-4 (16°) du code de la santé publique :
+
+Etablissements assurant une activité de soins à domicile :
+
+Fédération nationale des établissements d'hospitalisation à domicile (FNEHAD),40, rue du Fer-à-Moulin,75005 Paris : 1 siège.
