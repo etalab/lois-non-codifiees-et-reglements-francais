@@ -1,11 +1,3 @@
 # Article 1
 
-Sont considérées comme liqueurs similaires à l'absinthe au sens de la loi du 16 mars 1915 susvisée, les boissons alcoolisées présentant :
-
--une quantité de thuyone :
-
--supérieure à 5 milligrammes par litre de boisson d'un titre alcoométrique volumique inférieur à 25 %;
-
--supérieure à 10 milligrammes par litre de boisson d'un titre alcoométrique volumique égal ou supérieur à 25 %;
-
--supérieure à 35 milligrammes par litre de boisson obtenue à partir de plantes ou de parties de plantes amères.
+Sont considérées comme liqueurs similaires à l'absinthe, au sens de la loi du 16 mars 1915 susvisée, de l'article 347 du code général des impôts et de l'article L. 3322-4 du code de la santé publique, les boissons alcoolisées produites à partir des espèces d'Artemisia présentant une quantité de thuyone supérieure à 35 mg / kg.
