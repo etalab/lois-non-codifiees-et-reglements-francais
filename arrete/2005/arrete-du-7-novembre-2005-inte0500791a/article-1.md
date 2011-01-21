@@ -4,20 +4,22 @@ Le comité consultatif départemental des sapeurs-pompiers volontaires, institu�
 
 Préalablement à toute décision de l'autorité territoriale d'emploi, il est obligatoirement saisi pour avis sur :
 
-- les refus d'engagement ou de renouvellement d'engagement ;
+-les refus d'engagement ou de renouvellement d'engagement ;
 
-- l'avancement de grade jusqu'au grade de capitaine ;
+-l'avancement de grade jusqu'au grade de capitaine ;
 
-- l'avancement de grade des infirmiers sapeurs-pompiers volontaires ;
+-l'avancement de grade des infirmiers sapeurs-pompiers volontaires ;
 
-- la validation de l'expérience et des formations des sapeurs-pompiers volontaires ;
+-la validation de l'expérience et des formations des sapeurs-pompiers volontaires ;
 
-- le règlement intérieur du corps départemental ;
+-le règlement intérieur du corps départemental ;
 
-- le schéma départemental d'analyse et de couverture des risques.
+-le schéma départemental d'analyse et de couverture des risques ;
+
+-toute question relative à la santé et à la sécurité impliquant les sapeurs-pompiers volontaires.
 
 Il est informé :
 
-- par les comités de centre ou intercentres du corps départemental prévus à l'article 54-1 du décret du 10 décembre 1999 susvisé, des avis favorables rendus concernant l'engagement ou le réengagement des sapeurs-pompiers volontaires ;
+-par les comités de centre ou intercentres du corps départemental prévus à l'article 54-1 du décret du 10 décembre 1999 susvisé, des avis favorables rendus concernant l'engagement ou le réengagement des sapeurs-pompiers volontaires ;
 
-- par le président du conseil d'administration du service d'incendie et de secours, des suites données à ses avis.
+-par le président du conseil d'administration du service d'incendie et de secours, des suites données à ses avis.

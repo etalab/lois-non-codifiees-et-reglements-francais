@@ -6,7 +6,7 @@ Les représentants de l'administration sont ceux siégeant au comité technique 
 
 Les représentants des sapeurs-pompiers volontaires doivent comprendre au moins :
 
-- un sapeur-pompier de 1re classe ;
+- un sapeur ;
 
 - un caporal ;
 
@@ -20,4 +20,4 @@ Les représentants des sapeurs-pompiers volontaires doivent comprendre au moins 
 
 Le nombre de représentants des sapeurs-pompiers volontaires est complété au prorata des effectifs si le nombre de représentants de l'administration au comité technique paritaire est supérieur à 7.
 
-Lorsqu'ils n'en sont pas membres, le directeur départemental des services d'incendie et de secours ainsi que le médecin-chef du service de santé et de secours médical, ou leurs représentants, assistent avec voix consultative aux séances du comité.
+Lorsqu'ils n'en sont pas membres, le directeur départemental des services d'incendie et de secours, le médecin-chef du service de santé et de secours médical ainsi que le président de l'Union départementale des sapeurs-pompiers, ou leurs représentants, assistent avec voix consultative aux séances du comité.

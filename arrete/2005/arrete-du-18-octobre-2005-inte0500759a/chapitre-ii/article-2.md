@@ -4,7 +4,7 @@ La Commission nationale de changement de grade comprend :
 
 -le directeur de la sécurité civile ou son représentant, qui la préside ;
 
--le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
+-le chef du bureau des sapeurs-pompiers volontaires ou son représentant ;
 
 -le président de l'Assemblée des départements de France ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
 
@@ -22,4 +22,4 @@ La durée du mandat des membres de la Commission nationale de changement de grad
 
 Le mandat d'un membre de la commission prend fin dès lors qu'il ne dispose plus de la qualité ou du grade au titre duquel il a été appelé à siéger.
 
-Le secrétariat de la commission est assuré par le chef du bureau du management et des concours, ou son représentant.
+Le secrétariat de la commission est assuré par le chef du bureau des statuts, du management et du dialogue social, ou son représentant.

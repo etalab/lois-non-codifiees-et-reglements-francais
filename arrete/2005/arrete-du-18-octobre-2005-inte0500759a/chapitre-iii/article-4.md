@@ -6,7 +6,7 @@ Le conseil de discipline comprend :
 
 -le directeur de la sécurité civile ou son représentant, qui le préside ;
 
--le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
+-le chef du bureau des sapeurs-pompiers volontaires ou son représentant ;
 
 -le président de l'Assemblée des départements de France ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
 
@@ -16,4 +16,4 @@ Le conseil de discipline comprend, en outre, quatre officiers d'un grade au moin
 
 Le conseil de discipline comprend en outre, lorsqu'il est chargé d'examiner le cas d'un officier du service de santé et de secours médical, quatre officiers du service de santé et de secours médical d'un grade au moins équivalent à celui dont le cas est examiné, tirés au sort sur une liste nationale d'officiers du service de santé établie par le ministre chargé de la sécurité civile.
 
-Le secrétariat du conseil de discipline est assuré par le chef du bureau du management et des concours ou son représentant.
+Le secrétariat du conseil de discipline est assuré par le chef du bureau des statuts, du management et du dialogue social ou son représentant.

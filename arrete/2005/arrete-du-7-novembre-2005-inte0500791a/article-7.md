@@ -17,5 +17,3 @@ Le règlement intérieur du comité consultatif départemental des sapeurs-pompi
 7. Les frais de déplacement et de séjour supportés par les membres du comité consultatif départemental à l'occasion de ses réunions sont remboursés dans les conditions prévues par le décret du 19 juillet 2001 susvisé.
 
 Le règlement peut prévoir les modalités de déconcentration d'une partie des compétences du comité vers les comités de centre ou inter-centres ou, à défaut, sur un groupement ou un centre d'incendie et de secours, s'agissant notamment de l'instruction des dossiers d'engagement ou de réengagement des sapeurs-pompiers volontaires.
-
-Le mandat d'un représentant des sapeurs-pompiers volontaires prend fin dès lors qu'il ne dispose plus du grade au titre duquel il a été appelé à siéger.
