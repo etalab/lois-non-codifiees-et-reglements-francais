@@ -361,7 +361,6 @@
 - [Arrêté du 5 octobre 1983](arrete-du-5-octobre-1983)
 - [Arrêté du 5 octobre 2010 (AGRM1022157A)](arrete-du-5-octobre-2010-agrm1022157a)
 - [Arrêté du 5 octobre 2010 (AGRM1025024A)](arrete-du-5-octobre-2010-agrm1025024a)
-- [Arrêté du 5 octobre 2010 (DEVA1025807A)](arrete-du-5-octobre-2010-deva1025807a)
 - [Arrêté du 5 octobre 2010 (DEVP1025932A)](arrete-du-5-octobre-2010-devp1025932a)
 - [Arrêté du 5 octobre 2010 (SASH1024962A)](arrete-du-5-octobre-2010-sash1024962a)
 - [Arrêté du 5 mai 2004 (SOCF0410893A)](arrete-du-5-mai-2004-socf0410893a)
