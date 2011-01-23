@@ -221,13 +221,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Commission de sécurité du transport, de la distribution et de l'utilisation du gaz. <br/>
-</td>
-<td align="center"/>
-<td align="center">Décret n° 2006-28 du 4 janvier 2006 instituant une commission de sécurité du transport, de la distribution et de l'utilisation du gaz. <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Commission de suivi des filières de traitement des véhicules hors d'usage. <br/>
 </td>
 <td align="center"/>

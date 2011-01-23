@@ -6,17 +6,17 @@ Pose des conduites
 
 Des pressions supérieures à celles prescrites aux alinéas précédents peuvent être autorisées, par décision du ministre chargé de la sécurité du gaz, à l'intérieur ou en aval immédiat d'un appareil de compression du gaz, à titre temporaire durant la période de fonctionnement de cet appareil et pour une utilisation particulière.
 
-Cette décision est subordonnée à l'acceptation préalable d'un dossier justificatif de demande d'autorisation pour cette utilisation particulière et prise après avis de la commission de sécurité du transport, de la distribution et de l'utilisation du gaz.
+Cette décision est subordonnée à l'acceptation préalable d'un dossier justificatif de demande d'autorisation pour cette utilisation particulière et prise                    .
 
 2° Le diamètre intérieur des conduites collectives est déterminé en fonction du débit maximum prévisionnel à satisfaire, ce débit étant fixé par le distributeur. Il est limité en tout état de cause à :
 
 108 mm, si la pression effective du gaz combustible susceptible d'être atteinte dans ces canalisations est au plus égale à 100 mbar ;
 
-70 mm, si cette pression est au plus égale à 400 mbar;
+70 mm, si cette pression est au plus égale à 400 mbar ;
 
 37 mm, si cette pression peut dépasser 400 mbar.
 
-3° L'utilisation de la brasure tendre (température de fusion du métal d'apport inférieur à 450 °C) est interdite dans les parties des installations à usage collectif situées en aval de l'organe de coupure générale prévu à l'article 13 (1°).
+3° L'utilisation de la brasure tendre (température de fusion du métal d'apport inférieur à 450° C) est interdite dans les parties des installations à usage collectif situées en aval de l'organe de coupure générale prévu à l'article 13 (1°).
 
 L'utilisation de la brasure tendre est autorisée :
 
@@ -30,7 +30,7 @@ pour les réparations à l'identique d'assemblages réalisées en brassage tendr
 
 L'emploi du plomb n'est autorisé que pour les réparations d'installations existantes en plomb, véhiculant des gaz autres que le butane ou le propane commercial, sous une pression n'excédant pas 400 mbar.
 
-b) Dans les immeubles collectifs, les conduites d'immeubles autres qu'en tubes d'acier (conformes à l'une des normes NF A 49-111, 112, 115, NF A 49-141, 142, 145) doivent être placées dans une gaine ou protégées par un dispositif de protection mécanique permettant l'aération.
+b) Dans les immeubles collectifs, les conduites d'immeubles autres qu'en tubes d'acier (conformes à l'une des normes NF A 49-111,112,115, NF A 49-141,142,145) doivent être placées dans une gaine ou protégées par un dispositif de protection mécanique permettant l'aération.
 
 Cette prescription s'applique également aux conduites intérieures aux habitations individuelles alimentées à une pression supérieure à 400 mbar, excepté dans les deux cas suivants :
 
@@ -42,9 +42,9 @@ la longueur de ces conduites n'excède pas 3,50 mètres en longueur totale et 2 
 
 Toutefois, les conduites montantes à réaliser dans les immeubles existants pourront être installées sans gaine, à condition d'être réalisées en acier soudé des séries moyennes ou fortes au sens des normes NF visant les tubes en acier (conformes à l'une des normes :
 
-NF A 49-111, 112, 115, NF A 49-141, 142, 145) et d'être implantées dans des dégagements collectifs ventilés. Les canalisations de gaz ne peuvent emprunter les gaines électriques que si elles sont séparées des canalisations électriques par une paroi pare-flamme un quart d'heure et réalisée en matériaux classés en catégorie Mo. La paroi de séparation peut ne pas occuper toute la profondeur de la gaine commune si cette dernière dimension excède 30 centimètres.
+NF A 49-111,112,115, NF A 49-141,142,145) et d'être implantées dans des dégagements collectifs ventilés. Les canalisations de gaz ne peuvent emprunter les gaines électriques que si elles sont séparées des canalisations électriques par une paroi pare-flamme un quart d'heure et réalisée en matériaux classés en catégorie Mo. La paroi de séparation peut ne pas occuper toute la profondeur de la gaine commune si cette dernière dimension excède 30 centimètres.
 
-Dans tous les cas, l'utilisation d'assemblages "démontables", en nombre limité aux besoins de la réalisation, est autorisée. Lors de leur mise en oeuvre, ces assemblages seront rendus difficilement démontables.
+Dans tous les cas, l'utilisation d'assemblages " démontables ", en nombre limité aux besoins de la réalisation, est autorisée. Lors de leur mise en oeuvre, ces assemblages seront rendus difficilement démontables.
 
 b) Le passage des conduites à usage collectif et notamment des conduites montantes à l'intérieur des logements est interdit ;
 
@@ -58,7 +58,7 @@ Un logement n'est traversé que par une seule conduite ;
 
 Les conduites sont revêtues d'une protection antirouille sur toute la longueur ;
 
-Les traversées des planchers sont protégées par des fourreaux non fendus réalisés en matériaux non corrodables par l'eau et les produits de nettoyage domestique. Ces fourreaux doivent dépasser d'au moins cinq centimètres les faces supérieures des planchers ou paillasses traversés. L'espace entre fourreau et tube doit être rempli par un matériau inerte.
+Les traversées des planchers sont protégées par des fourreaux non fendus réalisés en matériaux non corrodables par l'eau et les produits de nettoyage domestique. Ces fourreaux doivent dépasser d'au moins cinq centimètres les faces supérieures des planchers ou paillasses traversés.L'espace entre fourreau et tube doit être rempli par un matériau inerte.
 
 La desserte de deux cuisines contiguës à partir d'une même tige-cuisine est autorisée.
 
