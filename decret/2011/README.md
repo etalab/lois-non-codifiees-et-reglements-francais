@@ -9,6 +9,7 @@
 - [Décret n°2011-11 du 4 janvier 2011 (BCRB1030360D)](decret-n2011-11-du-4-janvier-2011-bcrb1030360d)
 - [Décret n°2011-15 du 4 janvier 2011 (EFIP1028672D)](decret-n2011-15-du-4-janvier-2011-efip1028672d)
 - [Décret n°2011-16 du 4 janvier 2011 (BCRF1031684D)](decret-n2011-16-du-4-janvier-2011-bcrf1031684d)
+- [Décret n°2001-1017 du 5 novembre 2001 (JUSA0100340D)](decret-n2001-1017-du-5-novembre-2001-jusa0100340d)
 - [Décret n°2011-17 du 5 janvier 2011 (DEVT1016429D)](decret-n2011-17-du-5-janvier-2011-devt1016429d)
 - [Décret n°2011-18 du 5 janvier 2011 (EFIT1031089D)](decret-n2011-18-du-5-janvier-2011-efit1031089d)
 - [Décret n°2011-19 du 5 janvier 2011 (EFIT1031529D)](decret-n2011-19-du-5-janvier-2011-efit1031529d)
