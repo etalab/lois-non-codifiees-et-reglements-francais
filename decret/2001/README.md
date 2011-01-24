@@ -47,7 +47,6 @@
 - [Décret n°2000-389 du 4 mai 2000 (JUSX0000039D)](decret-n2000-389-du-4-mai-2000-jusx0000039d)
 - [Décret n°2001-1015 du 5 novembre 2001 (MESH0123603D)](decret-n2001-1015-du-5-novembre-2001-mesh0123603d)
 - [Décret n°2001-1016 du 5 novembre 2001 (MEST0111432D)](decret-n2001-1016-du-5-novembre-2001-mest0111432d)
-- [Décret n°2001-1017 du 5 novembre 2001 (JUSA0100340D)](decret-n2001-1017-du-5-novembre-2001-jusa0100340d)
 - [Décret n°2001-1018 du 5 novembre 2001 (JUSA0100342D)](decret-n2001-1018-du-5-novembre-2001-jusa0100342d)
 - [Décret n°2001-1020 du 5 novembre 2001 (MESS0123520D)](decret-n2001-1020-du-5-novembre-2001-mess0123520d)
 - [Décret n°2001-1021 du 5 novembre 2001 (MESS0123524D)](decret-n2001-1021-du-5-novembre-2001-mess0123524d)
