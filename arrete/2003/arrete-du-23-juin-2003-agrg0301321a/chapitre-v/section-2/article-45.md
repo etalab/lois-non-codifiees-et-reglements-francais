@@ -10,7 +10,7 @@ b) Les cadavres, y compris les abats, des sangliers sauvages trouvés morts dans
 
 - ou bien enfouis sur place dans des conditions précisées par instruction du ministre chargé de l'agriculture ;
 
-c) Sans préjudice des mesures prévues au point a, ci-dessus, le préfet ordonne la collecte de tous les sangliers sauvages mis à mort par arme de tir dans les parties de zone d'observation qui ont été déclarées zone infectée au cours des douze derniers mois ; il organise à cet effet un circuit de collecte des cadavres et prescrit toute mesure destinée à éviter la propagation du virus de la peste porcine classique ; les cadavres et leurs viscères abdominaux et thoraciques sont :
+c) Sans préjudice des mesures prévues au point a ci-dessus, le préfet ordonne la collecte de tous les sangliers sauvages mis à mort par arme de tir dans les parties de la (ou des) zone (s) d'observation dans lesquelles le dernier cas de peste porcine classique chez les suidés sauvages a été constaté au cours des vingt-quatre derniers mois ; il organise à cet effet un circuit de collecte des cadavres et prescrit toute mesure destinée à éviter la propagation du virus de la peste porcine classique ; les cadavres et leurs viscères abdominaux et thoraciques sont :
 
 - transformés dans une usine agréée pour le traitement des sous-produits animaux en vue de leur destruction ou détruits dans une usine agréée pour l'incinération des sous-produits animaux ;
 
@@ -18,15 +18,27 @@ c) Sans préjudice des mesures prévues au point a, ci-dessus, le préfet ordonn
 
 - ou orientés vers un centre de collecte ou vers un atelier de traitement du gibier sauvage pour y être stockés jusqu'à obtention des résultats du dépistage prévu au point a ci-dessus. La valorisation des viandes et des sous-produits issus de ces animaux n'est autorisée que si le prélèvement effectué sur l'animal dont elles sont issues n'a pas permis de mettre en évidence la contamination de l'animal par le virus de la peste porcine classique.
 
-Lorsque les viandes issues de ces animaux sont admises dans un atelier de traitement du gibier sauvage, leur valorisation en alimentation humaine n'est autorisée que si elles ont été jugées propres à la consommation humaine à l'issue de l'inspection post mortem effectuée conformément au chapitre VIII de la section IV de l'annexe 1 du règlement (CE) n° 854 / 2004 du 29 avril 2004 et sont identifiées.
+Lorsque les viandes issues de ces animaux sont admises dans un atelier de traitement du gibier sauvage, leur valorisation en alimentation humaine n'est autorisée que si elles ont été jugées propres à la consommation humaine à l'issue de l'inspection post mortem effectuée conformément au chapitre VIII de la section IV de l'annexe 1 du règlement (CE) n° 854/2004 du 29 avril 2004 et sont identifiées.
 
 i. Soit au moyen de la marque de salubrité nationale conformément à la réglementation en vigueur, et exclues des échanges intracommunautaires.
 
 ii. Soit au moyen d'une marque spéciale conformément à l'article 4 de l'arrêté du 14 octobre 2005 susvisé sous réserve d'avoir été obtenues, manipulées, transportées et entreposées et ultérieurement traitées conformément aux exigences de l'article 4 de l'arrêté du 14 octobre 2005 susvisé. Ces viandes, une fois soumises à l'un des traitements visé à l'annexe III de l'arrêté du 14 octobre 2005 susvisé peuvent faire l'objet d'échanges intracommunautaires ou entrer dans la composition de produits transformés destinés aux échanges intracommunautaires.
 
-Les sous-produits issus d'animaux dont les viandes ont été jugées propres à la consommation humaine sont transformés sous contrôle du directeur départemental des services vétérinaires dans une usine de transformation agréée en vue de leur traitement conformément à l'une des méthodes n° s 1 à 5 définies à l'annexe V du règlement (CE) 1774 / 2002 susvisé. La cession, sans transformation préalable, de ces sous-produits animaux à des utilisateurs finaux tels que définis à l'article 23 du règlement (CE) n° 1774 / 2002 susvisé est interdite.
+Les sous-produits issus d'animaux dont les viandes ont été jugées propres à la consommation humaine sont transformés sous contrôle du directeur départemental des services vétérinaires dans une usine de transformation agréée en vue de leur traitement conformément à l'une des méthodes n° s 1 à 5 définies à l'annexe V du règlement (CE) 1774/2002 susvisé. La cession, sans transformation préalable, de ces sous-produits animaux à des utilisateurs finaux tels que définis à l'article 23 du règlement (CE) n° 1774/2002 susvisé est interdite.
 
 Les viandes et les sous-produits des sangliers sauvages présentant des résultats positifs au dépistage prévu au point a ci-dessus sont transformées sous contrôle du directeur départemental des services vétérinaires dans une usine agréée pour le traitement des sous-produits animaux en vue de leur destruction ou détruites dans une usine autorisée pour l'incinération des sous-produits animaux.
+
+c bis) Sans préjudice des mesures prévues aux points a et c ci-dessus, le préfet ordonne la collecte de tous les sangliers sauvages mis à mort par arme de tir dans les parties de la (ou des) zone (s) d'observation dans lesquelles la vaccination a été pratiquée au cours des trois dernières années ; il organise à cet effet un circuit de collecte des cadavres et prescrit toutes mesures destinées à éviter la propagation du virus de la peste porcine classique ; les cadavres et leurs viscères abdominaux et thoraciques sont :
+
+- transformés dans une usine agréée pour le traitement des sous-produits animaux en vue de leur destruction ou détruits dans une usine agréée pour l'incinération des sous-produits animaux ;
+
+- ou enfouis sur place dans des conditions précisées par instruction du ministre chargé de l'agriculture ;
+
+- ou orientés vers un centre de collecte ou vers un atelier de traitement du gibier sauvage pour y être stockés jusqu'à obtention des résultats du dépistage prévu au point a ci-dessus. La valorisation des viandes et des sous-produits issus de ces animaux n'est autorisée que si le prélèvement effectué sur l'animal dont ils sont issus n'a pas permis de mettre en évidence la contamination de l'animal par le virus de la peste porcine classique.
+
+Lorsque les viandes issues de ces animaux sont admises dans un atelier de traitement du gibier sauvage, leur valorisation en alimentation humaine n'est autorisée que si elles ont été jugées propres à la consommation humaine à l'issue de l'inspection post mortem effectuée conformément au chapitre VIII de la section IV de l'annexe I du règlement (CE) n° 854/2004 du 29 avril 2004 et sont identifiées conformément à la réglementation en vigueur.
+
+Les viandes et les sous-produits des sangliers sauvages présentant des résultats positifs au dépistage prévu au point a ci-dessus sont transformées sous contrôle du préfet dans une usine agréée pour le traitement des sous-produits animaux en vue de leur destruction ou détruites dans une usine autorisée pour l'incinération des sous-produits animaux.
 
 d) Dans les parties de la zone d'observation non concernées par l'alinéa précédent, la valorisation en alimentation humaine des viandes issues des sangliers sauvages tués par arme de tir est autorisée, en dehors de la zone infectée, dans les conditions fixées par la réglementation en vigueur ;
 

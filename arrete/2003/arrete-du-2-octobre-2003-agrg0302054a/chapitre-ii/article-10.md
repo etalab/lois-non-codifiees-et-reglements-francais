@@ -1,6 +1,6 @@
 # Article 10
 
-Toute expédition hors du périmètre de surveillance renforcée et non destinée à la zone infectée d'un porc vivant autre qu'un porc de boucherie est conditionnée par l'obtention de résultats favorables à :
+Toute expédition, hors du périmètre de surveillance renforcée et non destinée à la zone infectée d'un porc vivant, autre qu'un porc de boucherie, et provenant d'un site porcin plein air, est conditionnée à l'obtention de résultats favorables à :
 
 - un dépistage sérologique réalisé dans les 7 jours précédant l'expédition ;
 
