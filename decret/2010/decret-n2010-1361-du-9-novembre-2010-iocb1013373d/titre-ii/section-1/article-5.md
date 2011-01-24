@@ -1,6 +1,6 @@
 # Article 5
 
-Le troisième concours des techniciens comporte deux épreuves d'admissibilité et une épreuve d'admission.
+Le troisième concours des techniciens comporte    une épreuve d'admissibilité et une épreuve d'admission.
 
 L'épreuve d'admissibilité comprend l'élaboration d'un rapport technique rédigé à l'aide des éléments contenus dans un dossier portant sur la spécialité au titre de laquelle le candidat concourt (durée : trois heures ; coefficient 1).
 
