@@ -1,0 +1,7 @@
+# Article 3
+
+I. ― En 2011, à l'issue d'une activité aérienne au sens de l'article D. 229-37-2 du code de l'environnement, tout exploitant d'aéronef mentionné à l'article L. 229-5 de ce même code soumet dans un délai maximal de deux mois un plan de surveillance de ses émissions au ministre chargé de l'aviation civile, qui l'approuve. Au plus tard le 31 mars 2012, il soumet au ministre chargé de l'aviation civile une déclaration de ses émissions de 2011, vérifiées conformément aux dispositions de l'article L. 229-14 de ce même code.
+
+En cas de non-respect par un exploitant d'aéronef de l'une des dispositions de l'alinéa précédent, le ministre chargé de l'aviation civile met cet exploitant en demeure de la respecter sous un mois. La mise en demeure énonce l'amende encourue et invite l'exploitant à présenter ses observations. Si l'exploitant ne s'est pas acquitté de ses obligations dans le délai de la mise en demeure, le ministre chargé de l'aviation civile peut prononcer à son encontre une amende administrative du montant prévu par le 3° de l'article 131-13 du code pénal. Les dispositions de l'article 131-41 de ce même code sont applicables.
+
+II. ― Pour l'année 2012, les demandes mentionnées à l'article R. 229-37-3 du code de l'environnement sont soumises au ministre chargé de l'aviation civile avant le 31 mars 2011, qui transmet cette demande à la Commission européenne avant le 30 juin 2011.
