@@ -8,6 +8,6 @@ Les dépenses afférentes à une communication et une sensibilisation aux potent
 
 Les autres dépenses d'animation, en particulier l'assistance à la conception des projets, à l'exclusion de celles qui concernent l'exécution de tâches de montage et de suivi des dossiers administratifs, relèvent des mesures d'intervention sur lesquelles intervient cette animation ou d'une mesure d'intervention transversale, lorsque ces mesures le permettent.
 
-Les dépenses liées au montage et au suivi des dossiers administratifs lorsqu'elles procèdent de l'initiative individuelle du porteur de projet concerné qui, pour ce faire, sollicite le prestataire de son choix, entrent dans l'assiette des dépenses éligibles du projet sur les mesures d'intervention.
+Les dépenses liées au montage, au suivi et au contrôle des dossiers administratifs lorsqu'elles procèdent de l'initiative individuelle du porteur de projet concerné qui, pour ce faire, sollicite le prestataire de son choix, entrent dans l'assiette des dépenses éligibles du projet sur les mesures d'intervention.
 
 Si cette assistance est confiée de façon transversale, pour tout ou partie du programme, par le service gestionnaire à une structure ad hoc sélectionnée ou agréée à cet effet, les dépenses induites relèvent des crédits d'assistance technique.

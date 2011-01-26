@@ -6,4 +6,4 @@ Les opérations cofinancées relevant d'un programme régional ou d'un volet ré
 
 Les opérations cofinancées relevant d'un programme plurirégional ou d'un volet plurirégional d'un programme régional concernent les territoires d'intervention (bassins fluviaux ou massifs) sur lesquels elles portent effets.
 
-Au titre des programmes FSE, les opérations relevant de la transnationalité sont éligibles, y compris lorsqu'elles sont exécutées dans un autre Etat membre de l'Union européenne, dans les conditions fixées au premier alinéa du présent article.
+Les opérations cofinancées au titre des programmes FEDER et FSE peuvent comprendre une part de dépenses réalisées dans un Etat tiers, dans la mesure où le bénéficiaire réside en territoire français et conserve l'ensemble des pièces justificatives afférentes.

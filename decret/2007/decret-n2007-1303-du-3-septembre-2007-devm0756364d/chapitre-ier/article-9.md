@@ -6,8 +6,14 @@ a) Les coûts liés aux services professionnels rendus par un organisme public d
 
 b) Les coûts liés à la préparation et à la mise en oeuvre d'une opération, par un organisme public, qui est lui-même le bénéficiaire et qui exécute cette opération pour son propre compte.
 
-Les coûts mentionnés au point a sont facturés au bénéficiaire sur les bases des coûts unitaires déterminés lors de la commande, dans le cas d'un contrat de prestation. Ils sont justifiés par des factures acquittées ou par des pièces comptables de valeur probante équivalente permettant l'identification des coûts réels exposés par l'organisme public concerné, dans le cas d'une convention de partenariat.
+L'organisme public facture les coûts mentionnés au point a au bénéficiaire ou certifie ces coûts sur la base de documents de valeur probante équivalente permettant d'identifier les coûts réels qu'il a exposés pour cette opération.
 
-Les coûts mentionnés au b ne sont éligibles qu'à condition qu'ils constituent des coûts additionnels par rapport aux charges courantes de l'organisme et qu'ils soient liés et nécessaires à la réalisation de l'opération cofinancée. Ils sont calculés et justifiés selon les dispositions fixées à l'article 4 du présent décret.
+Sans préjudice des dispositions spécifiques d'éligibilité des opérations d'assistance technique prévues à l'article 11 du présent décret, les coûts mentionnés au b sont éligibles à condition qu'ils constituent des coûts directement rattachables à l'opération cofinancée. Ceci s'applique en particulier aux dépenses de personnel. Pour chaque agent dont la rémunération est prise en compte, une lettre de mission indique :
 
-Dans le respect de ces conditions, les rémunérations d'agents publics sont éligibles.
+- l'objet et la durée de la mission cofinancée ;
+
+- les conditions de mise à disposition ou d'affectation de l'agent ainsi que son temps de travail.
+
+Ces coûts sont calculés et justifiés selon les dispositions fixées à l'article 4 du présent décret.
+
+Dans le respect de ces conditions, les rémunérations d'agents publics statutaires et contractuels constituent des dépenses éligibles figurant dans le plan de financement de l'opération cofinancée par les fonds structurels.
