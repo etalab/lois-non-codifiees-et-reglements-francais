@@ -14,7 +14,7 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="3" width="605">
-<p align="center">FILIÈRE MP</p>
+<p align="center">FILIÈRE MP </p>
 </td>
 </tr>
 <tr>
@@ -22,76 +22,76 @@ Ces épreuves et coefficients sont les suivants :
 <br/>
 </td>
 <td width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td width="113">
-<p align="center">COEFFICIENT</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de mathématiques</p>
+<p>Première composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de mathématiques</p>
+<p>Deuxième composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de physique</p>
+<p>Première composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de physique</p>
+<p>Deuxième composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition française</p>
+<p>Composition française </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Epreuve de langue vivante</p>
+<p>Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 h 30</p>
+<p align="center">1 h 30 </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
@@ -101,82 +101,82 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="3" valign="top" width="605">
-<p align="center">FILIÈRE PC</p>
+<p align="center">FILIÈRE PC </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378"/>
 <td valign="top" width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td valign="top" width="113">
-<p align="center">COEFFICIENT</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de mathématiques</p>
+<p>Première composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de mathématiques</p>
+<p>Deuxième composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de physique</p>
+<p>Première composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de physique</p>
+<p>Deuxième composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition française</p>
+<p>Composition française </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Epreuve de langue vivante</p>
+<p>Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 h 30</p>
+<p align="center">1 h 30 </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
@@ -185,93 +185,93 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="3" valign="top" width="605">
-<p align="center">FILIÈRE PSI</p>
+<p align="center">FILIÈRE PSI </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378"/>
 <td valign="top" width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td valign="top" width="113">
-<p align="center">COEFFICIENT</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de mathématiques</p>
+<p>Première composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de mathématiques</p>
+<p>Deuxième composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de physique</p>
+<p>Première composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de physique</p>
+<p>Deuxième composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition française</p>
+<p>Composition française </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition de sciences industrielles</p>
+<p>Composition de sciences industrielles </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Epreuve de langue vivante</p>
+<p>Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 h 30</p>
+<p align="center">1 h 30 </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
@@ -280,93 +280,93 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="3" valign="top" width="605">
-<p align="center">FILIÈRE PT</p>
+<p align="center">FILIÈRE PT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378"/>
 <td valign="top" width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td valign="top" width="113">
-<p align="center">COEFFICIENT</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de mathématiques</p>
+<p>Première composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de mathématiques</p>
+<p>Deuxième composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de physique</p>
+<p>Première composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de physique</p>
+<p>Deuxième composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition française</p>
+<p>Composition française </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition de sciences industrielles</p>
+<p>Composition de sciences industrielles </p>
 </td>
 <td valign="top" width="113">
-<p align="center">5 heures</p>
+<p align="center">5 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Epreuve de langue vivante</p>
+<p>Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2 heures</p>
+<p align="center">2 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
@@ -375,93 +375,93 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="3" valign="top" width="605">
-<p align="center">FILIÈRE TSI</p>
+<p align="center">FILIÈRE TSI </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378"/>
 <td valign="top" width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td valign="top" width="113">
-<p align="center">COEFFICIENT</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de mathématiques</p>
+<p>Première composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de mathématiques</p>
+<p>Deuxième composition de mathématiques </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Première composition de physique</p>
+<p>Première composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Deuxième composition de physique</p>
+<p>Deuxième composition de physique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition française</p>
+<p>Composition française </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Composition de sciences industrielles II (dominante génie électrique)</p>
+<p>Composition de sciences industrielles II (dominante génie électrique) </p>
 </td>
 <td valign="top" width="113">
-<p align="center">4 heures</p>
+<p align="center">4 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Epreuve de langue vivante</p>
+<p>Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
@@ -470,91 +470,91 @@ Ces épreuves et coefficients sont les suivants :
 <tbody>
 <tr>
 <td colspan="4" valign="top" width="605">
-<p align="center">FILIÈRE ATS</p>
+<p align="center">FILIÈRE ATS </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189"/>
 <td valign="top" width="189"/>
 <td valign="top" width="113">
-<p align="center">DURÉE</p>
+<p align="center">DURÉE </p>
 </td>
 <td valign="top" width="113">
-<p align="center">COEFFICIENT</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="189">
-<p>Composition de mathématiques</p>
-</td>
-<td valign="top" width="189"/>
-<td valign="top" width="113">
-<p align="center">3 heures</p>
-</td>
-<td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">COEFFICIENT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>Composition de physique</p>
+<p>Composition de mathématiques </p>
 </td>
 <td valign="top" width="189"/>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>Composition française</p>
+<p>Composition de physique </p>
 </td>
 <td valign="top" width="189"/>
 <td valign="top" width="113">
-<p align="center">3 heures</p>
+<p align="center">3 heures </p>
 </td>
 <td valign="top" width="113">
-<p align="center">2</p>
+<p align="center">3 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">
+<p>Composition française </p>
+</td>
+<td valign="top" width="189"/>
+<td valign="top" width="113">
+<p align="center">3 heures </p>
+</td>
+<td valign="top" width="113">
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" width="189">
-<p align="left">Composition de sciences industrielles</p>
+<p align="left">Composition de sciences industrielles </p>
 </td>
 <td valign="top" width="189">
-<p align="center">Génie électrique</p>
+<p align="center">Génie électrique </p>
 </td>
 <td rowspan="2" width="113">
-<p align="center">5 heures</p>
+<p align="center">5 heures </p>
 </td>
 <td rowspan="2" width="113">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p align="center">Génie mécanique</p>
+<p align="center">Génie mécanique </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" width="189">
-<p align="left">Epreuve de langue vivante</p>
+<p align="left">Epreuve de langue vivante </p>
 </td>
 <td valign="top" width="189">
-<p align="center">QCM anglais</p>
+<p align="center">QCM anglais </p>
 </td>
 <td rowspan="2" width="113">
-<p align="center">2 heures</p>
+<p align="center">2 heures </p>
 </td>
 <td rowspan="2" width="113">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p align="center">QCM langue choisie</p>
+<p align="center">QCM langue choisie </p>
 </td>
 </tr>
 </tbody>
@@ -566,13 +566,13 @@ Langues (durée : à fixer par le jury ; coefficient 3).
 
 Entretien avec un jury (durée : à fixer par le jury ; coefficient 4).
 
-Evaluation de travaux d'initiative personnelle encadrés (TIPE) exception faite de la filière ATS (durée : à fixer par le jury ; coefficient 2).
+Evaluation de travaux d'initiative personnelle encadrés (TIPE)     exception faite des filières PT, TSI et ATS (durée : à fixer par le jury ; coefficient 2).
 
 b) Epreuves ne servant pas au classement des admis ou épreuves orales d'admissibilité :
 
-- mathématiques (durée : à fixer par le jury ; coefficient 1) ;
+-mathématiques (durée : à fixer par le jury ; coefficient 1) ;
 
-- physique (durée : à fixer par le jury ; coefficient 1).
+-physique (durée : à fixer par le jury ; coefficient 1).
 
 Les épreuves sont notées de 0 à 20.
 
