@@ -10,4 +10,4 @@ Chaque année, l'établissement public établit pour l'année suivante un budget
 
 3° Un budget d'interventions ;
 
-4° Un plan de financement, faisant apparaître les dotations publiques et les ressources d'emprunts destinées au financement de l'établissement et de ses filiales.
+4° Un plan de financement faisant apparaître les dotations publiques, les recettes affectées, les ressources d'emprunt et autres ressources destinées au financement de l'établissement et de ses filiales.

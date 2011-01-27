@@ -1,6 +1,6 @@
 # Article 9
 
-Le conseil ne délibère valablement que si la moitié au moins de ses membres est présente. Si ce nombre n'est pas atteint, le conseil est à nouveau convoqué dans un délai de vingt jours et sur le même ordre du jour ; les délibérations sont alors valables quel que soit le nombre des membres présents.
+Le conseil ne délibère valablement que si la moitié au moins de ses membres est présente ou participe à la séance par des moyens de visioconférence ou de télécommunication. Si ce nombre n'est pas atteint, le conseil est à nouveau convoqué dans un délai de vingt jours et sur le même ordre du jour ; les délibérations sont alors valables quel que soit le nombre des membres présents.
 
 Les délibérations du conseil sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président de séance est prépondérante.
 
