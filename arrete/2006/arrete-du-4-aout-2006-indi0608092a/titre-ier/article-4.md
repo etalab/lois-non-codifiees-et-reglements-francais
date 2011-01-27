@@ -56,7 +56,11 @@ Produit de sa longueur, prise entre les établissements ou installations desserv
 
 Accessoires :
 
-Eléments des canalisations tels que les pièces de forme, la robinetterie, les gares de racleurs, les appareils de régulation ou de comptage, les brides, les porte-diaphragme, les tuyères, les accessoires de sécurité.
+Eléments de canalisations autres que les tubes de caractéristiques homogènes. Les accessoires comprennent les sous-catégories ci-dessous ainsi que leurs assemblages deux à deux ou avec des tubes :
+
+- les accessoires de tuyauterie tels que les pièces de forme (coudes, réductions, tés, Y, X, piquages préfabriqués, etc.), manchons, selles de renfort, brides, brides pleines, fonds bombés, dispositifs de fermeture de gare de racleur (culasses), boulonnerie, joints isolants, cintres dont le rayon de courbure est inférieur à 20 fois le diamètre extérieur du tube et manchettes délardées ;
+
+- les appareils accessoires tels que les robinets, vannes, dispositifs de sécurité de vanne, clapets, soupapes, régulateurs de pression, filtres, dépoussiéreurs, bouteilles antipulsatoires, détendeurs, régulateurs de débit, dispositifs de comptage ou de mesure, gares de racleur, dispositifs à diaphragme, raccords isolants, compensateurs, etc.
 
 Pression maximale en service (PMS) :
 
@@ -64,7 +68,7 @@ La pression maximale à laquelle un point quelconque de la canalisation est susc
 
 Service chargé du contrôle :
 
-La              direction régionale de l'environnement, de l'aménagement et du logement  territorialement compétente ou, pour les canalisations qui intéressent la défense nationale ou qui relèvent de l'autorité du ministre chargé de la défense nationale, le service désigné par ce ministre.
+La direction régionale de l'environnement, de l'aménagement et du logement territorialement compétente pour les régions de métropole, ou la direction de l'environnement, de l'aménagement et du logement pour les départements d'outre-mer, ou la direction régionale et interdépartementale de l'environnement et de l'énergie pour la région Ile-de-France ou, pour les canalisations qui intéressent la défense nationale ou qui relèvent de l'autorité du ministre chargé de la défense nationale, le service désigné par ce ministre.
 
 Mise en service :
 
@@ -97,3 +101,7 @@ Corps de bâtiments définis et classés en catégories par les articles R. 122-
 Guide professionnel reconnu :
 
 Document établi par un organisme qualifié par le ministre chargé de la sécurité des canalisations de transport et reconnu par décision de ce ministre, après avis de la commission compétente pour le fluide considéré, et sur avis conforme du ministre chargé de la sécurité civile pour le guide professionnel mentionné au 10 de l'article 12, comme permettant de satisfaire, pour le champ qu'il couvre, les exigences du présent arrêté.
+
+Système de gestion de la sécurité :
+
+Ensemble des dispositions mises en œuvre par le transporteur, relatives à l'organisation, aux fonctions, aux procédures et aux ressources de tout ordre ayant pour objet la prévention et le traitement des incidents et des accidents sur les canalisations qu'il exploite.

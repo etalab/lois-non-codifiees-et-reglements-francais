@@ -10,13 +10,23 @@ Un guide professionnel reconnu détermine les profondeurs d'enfouissement et les
 
 2. Les emplacements où la canalisation est implantée sont classés en trois catégories A, B et C rangées par densité d'occupation du sol croissante et en fonction du produit transporté. Ils conduisent à utiliser des coefficients de sécurité maximaux autorisés pour le dimensionnement à la pression différents et à fixer, le cas échéant, des dispositions compensatoires complémentaires. Le classement d'un emplacement est spécifique à chaque canalisation ou tronçon de canalisation.
 
+Les dispositions spécifiques aux accessoires de canalisations de transport en ce qui concerne la prise en compte de la catégorie d'emplacement sont définies au 5 du présent article.
+
 2.1. Catégorie A :
 
 Les emplacements de la canalisation sont classés en catégorie A lorsque les cinq conditions suivantes sont simultanément satisfaites :
 
-a) La canalisation ne transporte pas des produits classés E au sens du 1 de l'article 2 ;
+a) La canalisation ne transporte pas des produits classés E au sens du 1 de l'article 2 et tout tronçon d'une canalisation transportant des produits classés D au sens de l'article 2 satisfait les quatre conditions suivantes :
 
-b) Ils ne sont pas situés dans le domaine public national, départemental, ferroviaire, fluvial ou concédé ;
+- son diamètre extérieur avant revêtement est supérieur ou égal à 500 mm ;
+
+- il n'est pas implanté dans des pentes ou dévers supérieurs à 20 % ;
+
+- il est implanté en dehors de toute zone humide au sens de l'article L. 211-1 du code de l'environnement ;
+
+- il est situé à une distance supérieure ou égale à la distance des premiers effets létaux correspondant au scénario de rupture complète de la canalisation de toute zone parmi celles mentionnées au c de densité d'occupation supérieure à 8 personnes par hectare ;
+
+b) Ils sont situés dans le domaine privé ou dans le domaine public communal, hors domaine public fluvial ou concédé ;
 
 c) Ils ne sont pas situés en unité urbaine au sens de l'INSEE et ne sont situés ni dans une zone U ou AU d'une commune couverte par un plan local d'urbanisme (au sens des dispositions des articles R. 123-5 et R. 123-6 du code de l'urbanisme), ni dans une zone U, NA ou NB d'une commune couverte par un plan d'occupation des sols encore en vigueur (au sens des dispositions de l'ancien article R. 123-18 du code de l'urbanisme), ni dans les secteurs où les constructions sont autorisées d'une commune couverte par une carte communale (au sens des dispositions de l'article R. 124-3 du code de l'urbanisme), ni dans les parties actuellement urbanisées d'une commune qui n'est couverte par aucun document d'urbanisme (au sens des dispositions de l'article L. 111-1-2 du code de l'urbanisme) ;
 
@@ -56,6 +66,10 @@ En outre, si la canalisation répond aux critères d'occupation du sol définis 
 
 4. Les soudures doivent être exemptes de défaut préjudiciable à la sécurité. Toutes les soudures de raboutage, y compris les raccordements de section, font l'objet d'un contrôle non destructif à 100 % défini par le guide professionnel reconnu mentionné à l'article 10.
 
-5. Les accessoires non standard qui ne relèvent pas des dispositions du décret du 13 décembre 1999 susvisé par application du a du II de son article 2 satisfont, soit aux procédures d'évaluation de la conformité prévues par le titre II dudit décret, soit aux prescriptions d'un guide professionnel reconnu. Ces accessoires ne sont pas soumis au marquage CE.
+5. Pour les accessoires non ou partiellement calculables, ou qui sont calculables mais dont le référentiel de conception ne permet pas de respecter le coefficient de sécurité fixé par le 2 du présent article, les dispositions particulières applicables en substitution au coefficient de sécurité sont fixées par un guide professionnel reconnu relatif aux accessoires.
 
-6. Les accessoires qui entrent dans le champ d'application du décret du 13 décembre 1999 susvisé sont soumis aux seules dispositions du titre II de ce décret.
+6. Outre les dispositions du 5, les accessoires satisfont les dispositions suivantes :
+
+- accessoires non standard qui ne relèvent pas des dispositions du décret du 13 décembre 1999 susvisé par application du a du II de son article 2 : les procédures d'évaluation de la conformité prévues par le titre II dudit décret ou les dispositions spécifiques aux accessoires non standard fixées par le guide professionnel prévu au 5. Ces accessoires ne sont pas soumis au marquage CE ;
+
+- accessoires qui entrent dans le champ d'application du décret du 13 décembre 1999 susvisé : les dispositions du titre II de ce décret.

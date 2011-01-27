@@ -44,10 +44,14 @@ En complément, le cas échéant, aux dispositions fixées par les normes, guide
 
 - les traversées de zones à risque sismique ou à risques de mouvements de terrain, de remontées de nappe, d'éboulements, d'avalanches ou d'érosion ;
 
+- la qualité et le contrôle du compactage des remblais après travaux, dans les zones où ce compactage est nécessaire ;
+
 - la protection de la canalisation contre les phénomènes météorologiques, notamment contre les phénomènes de crue dans le cas des traversées en souille de cours d'eau à régime torrentiel ;
 
 - la protection passive par revêtement ou par toute disposition appropriée des tronçons enterrés ;
 
-- la protection cathodique : l'ensemble de la canalisation sera protégé et une attention particulière sera portée aux croisements de routes, d'autoroutes, de voies ferrées, de cours d'eau, d'autres structures métalliques, aux passages en fourreaux ou en gaines, et à proximité des pylônes électriques ; pour les tronçons à fort isolement, l'étude des courants alternatifs sera nécessaire en cas d'influence ou de présomption d'influence ;
+- la protection passive par revêtement ou par toute disposition appropriée des tronçons enterrés hors installations annexes et le contrôle initial de la qualité de cette protection après stabilisation du remblai ;
 
-- le balisage de la canalisation.
+- la protection cathodique : l'ensemble des tronçons enterrés de la canalisation sont protégés par protection cathodique ou par des moyens apportant des garanties équivalentes, et une attention particulière est portée aux croisements des voies ferrées, d'autres structures métalliques, aux passages en fourreaux ou en gaines, à proximité des pylônes électriques et au droit des joints isolants. Pour les tronçons à fort isolement, l'étude des courants alternatifs est nécessaire en cas d'influence ou de présomption d'influence ;
+
+- les canalisations ou tronçons subaquatiques ou sous-marins, afin de prendre en compte les risques liés à leur environnement naturel spécifique (corrosion, courants, marées, houle, concrétions marines, zones de sédimentation ou d'érosion des fonds, etc.), et aux activités humaines exercées (accrochage par les ancres, travaux de dragage ou de reprofilage des fonds, présence d'épaves, de mines, d'obstacles ou débris, etc.).
