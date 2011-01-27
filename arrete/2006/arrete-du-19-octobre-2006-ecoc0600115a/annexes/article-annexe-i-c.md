@@ -3,1385 +3,1392 @@
 <table>
 <tbody>
 <tr>
-<td width="152">
+<td align="left" valign="top">
 <p align="center">AUXILIAIRES</p>
 <p align="center">technologiques</p>
 </td>
-<td width="122">
+<td align="left" valign="top">
 <p align="center">CATÉGORIE</p>
 <p align="center">de l'auxiliaire technologique</p>
 </td>
-<td width="114">
+<td align="left" valign="top">
 <p align="center">DENRÉE</p>
 <p align="center">alimentaire</p>
 </td>
-<td width="174">
+<td align="left" valign="top">
 <p align="center">CONDITIONS D'EMPLOI/</p>
 <p align="center">fonction</p>
 </td>
-<td width="118">
+<td align="left" valign="top">
 <p align="center">DOSE RÉSIDUELLE</p>
 <p align="center">maximale</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>5' AMP désaminase d'Aspergillus melleus DN 22.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production d'extraits de levure hydrolysés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du 5' adenosine monophosphate.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha acétolactate décarboxylase de Bacillus subtilis contenant le gène codant l'alpha acétolactate décarboxylase de Bacillus brevis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Alcool éthylique d'origine agricole.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de l'alpha acétolactate précurseur du diacétyle.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha acétolactate décarboxylase de Bacillus subtilis contenant le gène de l'alpha-acétolactate décarboxylase de Bacillus brevis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de l'alpha-acétolactate précurseur du diacétyle.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase d'Aspergillus niger, A. oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1,4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase d'Aspergillus niger, A. oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase d'Aspergillus niger, A. oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Alpha amylase d'aspergillus niger, A. oryzae. </td>
-<td>Enzymes. </td>
-<td>Panification spéciale </td>
-<td>Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Alpha amylase d'aspergillus niger, A. oryzae. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Panification spéciale </td>
+<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td>Alpha-amylase de Bacillus licheniformis autocloné. </td>
-<td>Enzymes. </td>
-<td>Bières. </td>
-<td>Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Alpha-amylase de Bacillus licheniformis autocloné. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Bières. </td>
+<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis contenant le gène codant de l'alpha amylase de Bacillus stearothermophilus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Alcool éthylique d'origine agricole.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Liquéfaction de l'amidon dans la trempe de distillation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Alpha-amylase de Bacillus amyloliquefaciens autocloné EBA1-H2A.<br/>Alpha-amylase de Bacillus amyloliquefaciens autocloné.</td>
-<td>
+<td align="left" valign="top">Alpha-amylase de Bacillus amyloliquefaciens autocloné EBA1-H2A.<br/>Alpha-amylase de Bacillus amyloliquefaciens autocloné.</td>
+<td align="left" valign="top">
 <p align="left">Enzymes.</p>
 </td>
-<td>Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale.<br/>Bière.<br/>Industrie de l'alcool.<br/>Amidonnerie, production de glucose.</td>
-<td>Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides.</td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale.<br/>Bière.<br/>Industrie de l'alcool.<br/>Amidonnerie, production de glucose.</td>
+<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides.</td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis contenant le gène de l'alpha-amylase de B. stearothermophilus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha- glycosidiques des polysaccharides. Liquéfaction des grains crus.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Alpha amylase de Bacillus licheniformis SJ7199 contenant le gène codant une alpha amylase de Bacillus stearothermophilus. <br/>
+<td align="left" valign="top">Alpha amylase de Bacillus licheniformis SJ7199 contenant le gène codant une alpha amylase de Bacillus stearothermophilus. <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td>Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie </td>
-<td>Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides.</td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie </td>
+<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides.</td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis contenant le gène de l'alpha-amylase de Bacillus stearothermophilus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits d'hydrolyse de l'amidon.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1,4-glycosidiques des polysaccharides.</p>
 <p>Dégradation de l'amidon dans le jus de canne.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis MOL. 2083 recombiné génétiquement.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de la brasserie, amidonnerie, production de sirop de glucose, de l'alcool et de la sucrerie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1 - 4 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis obtenu par recombinaison homologue.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Alcool éthylique d'origine agricole.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Liquéfaction de l'amidon dans la trempe de distillation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha amylase de Bacillus licheniformis obtenu par recombinaison homologue.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">Amidonnerie, production de sirop de glucose</td>
-<td valign="top" width="174">
+<td align="left" valign="top">Amidonnerie, production de sirop de glucose</td>
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus licheniformis M P 4 9 1 0 contenant le gène codant l'alpha-amylase de Bacillus stearothermophillus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose, industrie de l'alcool, brasserie, industrie sucrière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus licheniformis obtenu par recombinaison homologue.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. Liquéfaction des grains crus.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus licheniformis obtenu par recombinaison homologue.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de la sucrerie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus licheniformis obtenu par recombinaison homologue.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de confiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus licheniformis (souche LiH 1159) porteur du gène codant pour l'enzyme de B. licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose, industrie de l'alcool, brasserie industrie sucrière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de liaisons alphaglycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus subtilis, B. licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus subtilis, B. licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus subtilis, Bacillus licheniformis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits d'hydrolyse de l'amidon Industrie sucrière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylase de Bacillus subtilis, Bacillus licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylases de Bacillus subtilis, Bacillus licheniformis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Alpha-amylases de Bacillus subtilis, Bacillus licheniformis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits deshydratés, nectars, sirops.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha- glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Alpha-amylase de Pseudomonas fluorescens DC 88 porteuse d'un gène hybride de Thermococcus/codant l'alpha-amylase.</td>
-<td>Enzymes. </td>
-<td>Amidonnerie, production de glucose<br/>Industrie de l'alcool.</td>
-<td>Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Alpha-amylase de Pseudomonas fluorescens DC 88 porteuse d'un gène hybride de Thermococcus/codant l'alpha-amylase.</td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Amidonnerie, production de glucose<br/>Industrie de l'alcool.</td>
+<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1,4-D-glucosidiques des oligo-saccharides et des polysaccharides. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Aminopeptidase d'Aspergillus niger EPD-4.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromagerie à l'exception des fromages bénéficiant d'une appellation d'origine, hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Aminopeptidase d'Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase (ou glucamylase) d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">Amidonnerie, production de sirop de glucose</td>
-<td valign="top" width="174">
+<td align="left" valign="top">Amidonnerie, production de sirop de glucose</td>
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase (ou glucamylase) d'Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">Amidonnerie, production de sirop de glucose</td>
-<td valign="top" width="174">
+<td align="left" valign="top">Amidonnerie, production de sirop de glucose</td>
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase (ou glucamylase) d'Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits d'hydrolyse de l'amidon. Industrie sucrière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. Dégradation de l'amidon dans le jus de canne.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée d'Aspergillus niger (BE) contenant le gène codant l'amyloglucosidase de Talaromyces emersonii </td>
-<td>Enzymes.</td>
-<td>Industries du sucre, de l'amidon, de la brasserie et de l'alcool. </td>
-<td>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. <br/>
+<td align="left" valign="top">Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée d'Aspergillus niger (BE) contenant le gène codant l'amyloglucosidase de Talaromyces emersonii </td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Industries du sucre, de l'amidon, de la brasserie et de l'alcool. </td>
+<td align="left" valign="top">Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. <br/>
 </td>
-<td>Teneur résiduelle techniquement inévitable. </td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase d'Aspergillus niger (STz18-9) porteur du gène codant pour l'amyloglucosidase d'A. niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'alcool, Amidonnerie, production de sirop de glucose. </p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons glucosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase d'Aspergillus niger, A. oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">Amyloglucosidase ou a-glucosidase ou glucamylase ou transglucosidase d'Aspergillus niger non génétiquement modifiée.</td>
-<td valign="top" width="122">Enzymes.<br/>
+<td align="left" valign="top">Amyloglucosidase ou α-glucosidase ou glucamylase ou transglucosidase d'Aspergillus niger non génétiquement modifiée.</td>
+<td align="left" valign="top">Enzymes.<br/>
 </td>
-<td valign="top" width="114">Production de sirops riches en oligosaccharides à partir d'amidon. <p>Production d'aliments préparés contenant de l'amidon.</p>
+<td align="left" valign="top">Production de sirops riches en oligosaccharides à partir d'amidon. <p>Production d'aliments préparés contenant de l'amidon.</p>
 <br/>
 </td>
-<td valign="top" width="174">Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</td>
-<td valign="top" width="118">Teneur techniquement inévitable.</td>
+<td align="left" valign="top">Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</td>
+<td align="left" valign="top">Teneur techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidase ou glucamylase ou transglucosidase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production de sirops riches en oligosaccharides à partir d'amidon.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Amyloglucosidases (ou glucamylase) d'Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4-glycosidiques des polysaccharides. Liquéfaction des grains crus.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Arabinofuranosidase d'Aspergillus niger ARF-1.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des arabinoxylanes, L-arabinanes et arabinogalactanes dans les céréales.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Asparaginase d'Aspergillus niger autocloné.</td>
-<td>Enzymes. </td>
-<td>Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures. </td>
-<td>Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120 °C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Asparaginase d'Aspergillus niger autocloné.</td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures. </td>
+<td align="left" valign="top">Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120 °C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td>Asparaginase d'Aspergillus oryzae modifiée génétiquement (pCaHj621/BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. </td>
-<td>Enzymes. </td>
-<td>Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures </td>
-<td>Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120 °C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). </td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Asparaginase d'Aspergillus oryzae modifiée génétiquement (pCaHj621/BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures </td>
+<td align="left" valign="top">Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120 °C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). </td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Aspartyl protéase d'Aspergillus oryzae (n° IF 04 177/777) contenant le gène codant pour la protéase de Rhizomucor mieihei.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être "enzyme coagulante d'origine microbienne pour fromagerie".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta amylase (1-4 alpha-D glucane-malto-hydrolase) d'orge non germée.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop à haute teneur en maltose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta amylase extraite de grains de blé.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose, industrie de l'alcool et brasserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 <p>L'absence de mycotoxines doit être contrôlée dans les lots de préparations enzymatiques.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta fructofuranosidase d'Aspergillus niger (ATCC 20611).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fructo-oligo-saccharides (oligofructi-saccharides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du saccharose suivie d'une oligomérisation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta galactosidase de Bacillus circulans (ATCC 31382).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Galacto-oligosaccharides.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Addition de galactose ou de lactose pour obtenir des galacto-oligosaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513).</td>
-<td>Enzymes. </td>
-<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
-<td>Hydrolyse du lactose. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513).</td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
+<td align="left" valign="top">Hydrolyse du lactose. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td>Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
+<td align="left" valign="top">Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
 </td>
-<td>Enzymes</td>
-<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
-<td>Hydrolyse du lactose.</td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
+<td align="left" valign="top">Hydrolyse du lactose.</td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Lactose hydrolysé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du lactose. Les enzymes d'Aspergillus niger et d'Aspergillus oryzae peuvent être fixées sur un support inerte.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C)<br/>
+<td align="left" valign="top">Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C)<br/>
 </td>
-<td>Enzymes.<br/>
+<td align="left" valign="top">Enzymes.<br/>
 </td>
-<td>Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. </td>
-<td>Hydrolyse du lactose. </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. </td>
+<td align="left" valign="top">Hydrolyse du lactose. </td>
+<td align="left" valign="top">Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta glucanase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta glucanase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, artichaut et topinambour.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Bêta-glucanase de Bacillus amyloliquefaciens autocloné. </td>
-<td>Enzymes.</td>
-<td>Bières. </td>
-<td>Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Bêta-glucanase de Bacillus amyloliquefaciens autocloné. </td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Bières. </td>
+<td align="left" valign="top">Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta glucanase de Talaromyces emersonii FBG-1 (DS 29601)</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta glucanase de Trichoderma longibrachiatum (ex-reesei) (Alko 2656) contenant les gènes codant pour l'enzyme de T. longibrachiatum.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et 1-4 glycosidiques des bêta glucanes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Bêta glucanases de Bacillus subtilis, Bacillus amyloliquefaciens, Aspergillus niger, Disporotrichum dimorthosporum.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et 1-4 glycosidiques des bêta glucanes. Ne peuvent être utilisées que lors du brassage dans la préparation du moût de la bière en vue de faciliter la filtration.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Bêtagalaclosidase de Kluyveromyces lactis GAL 16A/18A.</td>
-<td>Enzymes.</td>
-<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</td>
-<td>Hydrolyse du lactose.</td>
-<td>Teneur techniquement inévitable.</td>
+<td align="left" valign="top">Bêtagalaclosidase de Kluyveromyces lactis GAL 16A/18A.</td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</td>
+<td align="left" valign="top">Hydrolyse du lactose.</td>
+<td align="left" valign="top">Teneur techniquement inévitable.</td>
 </tr>
 <tr>
-<td>Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </td>
-<td>Enzymes</td>
-<td>
+<td align="left" valign="top">Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">
 <br/>Fromages à l'exception des fromages bénéficiant d'une appellation d'origine. <p>Arômes obtenus à partir de matières premières laitières. </p>
 <p>Produits à base de viande fermentée. </p>
 </td>
-<td>Hydrolyse des liaisons peptidiques de protéines.</td>
-<td>Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">Hydrolyse des liaisons peptidiques de protéines.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellobiase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, artichaut et topinambour.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase (endo 1-4 bêta D glucanase, cellobiohydrolase, exo 1-4 bêta D glucanase) de Trichoderma longibrachiatum (ex-reesei) (Alko 233).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, artichaut et topinambour.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei) (RLP 37).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des substrats pariétaux.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei) (ATCC 26.921).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fibres solubles à partir de marc de pommes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei) (ATCC 26.921).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose de plantes riches en inuline : chicorée, artichaut et topinambour.</p>
 <p>Dose maximale d'emploi 1 g/kg de matière première à traiter.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei) (souche A83).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cellulase de Trichoderma longibrachiatum (ex-reesei).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'alcool.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la cellulose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (TV) </td>
-<td>Enzymes. </td>
-<td>Brasserie. <br/>
+<td align="left" valign="top">Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (TV) </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Brasserie. <br/>
 </td>
-<td>Hydrolyse de la cellulose. <br/>
+<td align="left" valign="top">Hydrolyse de la cellulose. <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymosine d'Aspergillus niger variété Awamori renfermant un gène de prochymosine B de veau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse de la caséine.</p>
 <p>La dénomination de cette enzyme doit être : "Enzyme coagulante : chymosine produite par Aspergillus niger variété Awamori".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique.<br/>
+<td align="left" valign="top">Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique.<br/>
 </td>
-<td>Enzymes. </td>
-<td>Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <p>Produits laitiers coagulés.</p>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <p>Produits laitiers coagulés.</p>
 </td>
-<td>Hydrolyse de la caséine.<br/>
+<td align="left" valign="top">Hydrolyse de la caséine.<br/>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymosine de Kluyveromyces lactis renfermant un gène de prochymosine B de veau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse de la caséine.</p>
 <p>La dénomination de cette enzyme doit être : "Enzyme coagulante : chymosine produite par Kluyveromyces lactis".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymosine d'Escherichia coli K 12 renfermant un gène de prochymosine A de veau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse de la caséine.</p>
 <p>La dénomination de cette enzyme doit être : "Enzyme coagulante : chymosine produite par Escherichia coli K 12".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymosine extraite de la caillette de veau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymosine extraite de la caillette de veau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymotrypsine extrait de pancréas de bœuf.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Chymotrypsine extraite de pancréas de bœuf.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Cyclomalto-dextrine glucanotransférase de Bacillus licheniformis (SJ2324) portant le gène codant de Thermoanaerobacter sp.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production de cyclodextrines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Formation d' une liaison 1-4 alpha D-glucosidique (en cyclisant une partie de la chaîne des 1,4 alpha D-glucanes).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">4-α-D glucane maltotétraohydrolase (ou G4-amylase) issue de la souche de Bacillus licheniformis MDT06-228 modifiée génétiquement contenant le gène codant une protéine recombinante de la 4-α-D glucane maltotétraohydrolase PS4wt de Pseudomonas-stutzeri. </td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Viennoiserie, panification (à l'exception du pain de tradition française) et panification spéciale.</td>
+<td align="left" valign="top">Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. </td>
+<td align="left" valign="top">Teneur techniquement inévitable.</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Dextranase de Chaetomium gracile ATCC 16153.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sucrerie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 des dextranes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Endoglucanase de Humicola insolens (DSM 1800).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification ( à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Endoglucanase d'Humicola insolens (DSM 1800).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Endoxylanase d'Aspergillus niger obtenu par recombinaison homologue (CB 270-95).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Endoxylanase d'Aspergillus niger obtenu par recombinaison homologue (CBS 270-95).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Endoxylanase d'Aspergillus niger obtenu par recombinaison homologue (CB 270-95).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Enzymes coagulantes citées dans la présente annexe pour les fromages.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Caséines acides alimentaires.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase). </td>
-<td>Enzymes. </td>
-<td>Amidonnerie, production de glucose. Bières. </td>
-<td>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. </td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase). </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Amidonnerie, production de glucose. Bières. </td>
+<td align="left" valign="top">Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. </td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
@@ -1390,1986 +1397,2019 @@
 <table>
 <tbody>
 <tr>
-<td width="152">
+<td align="left" valign="top">
 <p align="center">AUXILIAIRES</p>
 <p align="center">technologiques</p>
 </td>
-<td width="122">
+<td align="left" valign="top">
 <p align="center">CATÉGORIE</p>
 <p align="center">de l'auxiliaire technologique</p>
 </td>
-<td width="114">
+<td align="left" valign="top">
 <p align="center">DENRÉE</p>
 <p align="center">alimentaire</p>
 </td>
-<td width="174">
+<td align="left" valign="top">
 <p align="center">CONDITIONS D'EMPLOI/</p>
 <p align="center">fonction</p>
 </td>
-<td width="118">
+<td align="left" valign="top">
 <p align="center">DOSE RÉSIDUELLE</p>
 <p align="center">maximale</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Exo-alpha-amylase maltogène de Bacillus subtilis contenant le gène de l'alpha amylase de B. stéarothermophilus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon et d'oligosaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Exo-alpha-amylase maltogène de Bacillus subtilis contenant le gène de l'alpha amylase de Bacillus stéarothermophilus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de maltose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon et d'oligosaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Exo-α-amylase maltogène (ou 4 D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SO) contenant le gène modifié codant l'exo-α-amylase maltogène de Bacillus stearothermophilus </td>
-<td>Enzymes</td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.</td>
-<td>
+<td align="left" valign="top">Exo-α-amylase maltogène (ou 4 D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SO) contenant le gène modifié codant l'exo-α-amylase maltogène de Bacillus stearothermophilus </td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.</td>
+<td align="left" valign="top">
 <br/>Hydrolyse des liaisons α1-4 des chaînes d'amidon et d'oligosaccharides. <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>Teneur résiduelle techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Exopeptidase d'Aspergillus melleus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Préparations aromatisantes à partir de matières premières laitières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Protéolyse. Les préparations aromatisantes sont stabilisées par la chaleur afin d'assurer l'inactivation des enzymes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Extraits de muqueuses intestinales.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Extraits de muqueuses intestinales.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Extraits pancréatiques.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Extraits pancréatiques.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucamylase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha- glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose isomérase (D-glucose cétol isomérase) de Streptomyces violaceoniger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de glucose à teneur élevée en fructose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Isomérisation du glucose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Glucose-isomérase, issue de la souche de Streptomyces rubiginosus SYC5406 génétiquement modifiée immobilisée sur un support gltaraldéhyde/polyéthylène-imine. </td>
-<td>Enzymes. </td>
-<td>Sirops à teneur élevée en fructose.</td>
-<td>Isomérisation du D-glucose en D-fructose.</td>
-<td>Dose techniquement inévitable. </td>
+<td align="left" valign="top">Glucose-isomérase, issue de la souche de Streptomyces rubiginosus SYC5406 génétiquement modifiée immobilisée sur un support gltaraldéhyde/polyéthylène-imine. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Sirops à teneur élevée en fructose.</td>
+<td align="left" valign="top">Isomérisation du D-glucose en D-fructose.</td>
+<td align="left" valign="top">Dose techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose isomérase de Bacillus coagulans, Actinoplanes missouriensis immobilisée sur support réticulé par du glutaraldéhyde.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de glucose à teneur élevée en fructose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Isomérisation du glucose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose isomérase de Streptomyces murinus DMS3252, immobilisée sur support réticulé par du glutaraldéhyde et du polyéthylène imine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de glucose à teneur élevée en fructose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Isomérisation du glucose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose isomérase de Streptomyces olivochromogenes, Streptomyces rubiginosus, Streptomyces rubiginosus, immobilisée sur support inerte.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de glucose à teneur élevée en fructose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Isomérisation du glucose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose oxydase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Amélioration de la machinabilité des pâtes par oxydation du bêta-D- glucose.</p>
 <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose oxydase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Amélioration de la machinabilité des pâtes par oxydation du béta-D- glucose.</p>
 <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Glucose oxydase issue de la souche d'Aspergillus oryzae Mt1-72 portant le gène codant pour la glucose oxydase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 <p>Boulangerie fine.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Amélioration de la machinabilité des pâtes par oxydation du béta-D- glucose.</p>
 <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <br/>Glucose oxydase d'une souche (DS 31859) d'Aspergillus niger non génétiquement modifiée.</td>
-<td>Enzymes.</td>
-<td>Œufs. </td>
-<td>Hydrolyse du bêta D-glucose. <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Œufs. </td>
+<td align="left" valign="top">Hydrolyse du bêta D-glucose. <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
 </td>
-<td>Teneur résiduelle techniquement inévitable. <br/>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
-<td>Glucosyltransférase de branchement (amylo-(1,4 → 1,6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis.</td>
-<td>Enzymes</td>
-<td>Amidonnerie</td>
-<td>Création de liaison interchaînes α 1, 6 glucosidiques par transfert d'une chaîne de résidus α 1, 4 glucosidiques sur un groupe hydroxy d'une autre chaîne glucosidique similaire. <p>Conversion de l'amylose en amylopectine. <br/>
+<td align="left" valign="top">Glucosyltransférase de branchement (amylo-(1,4 → 1,6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis.</td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Amidonnerie</td>
+<td align="left" valign="top">Création de liaison interchaînes α 1, 6 glucosidiques par transfert d'une chaîne de résidus α 1, 4 glucosidiques sur un groupe hydroxy d'une autre chaîne glucosidique similaire. <p>Conversion de l'amylose en amylopectine. <br/>
 </p>
 </td>
-<td>Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
-<td>Glutaminase issue d'une souche de Bacillus amyloliquefaciens non génétiquement modifiée (GT2). <br/>
+<td align="left" valign="top">Glutaminase issue d'une souche de Bacillus amyloliquefaciens non génétiquement modifiée (GT2). <br/>
 </td>
-<td>Enzymes.</td>
-<td>Hydrolysats de protéines. <p>Extraits de levures.</p>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Hydrolysats de protéines. <p>Extraits de levures.</p>
 </td>
-<td>Conversion de la L-glutamine en L-glutamate et ammoniac. <br/>
+<td align="left" valign="top">Conversion de la L-glutamine en L-glutamate et ammoniac. <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, artichaut et topinambour.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase de Bacillus subtilis autocloné B1-109 p CPC 720.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase de Bacillus subtilis autocloné.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hémicellulase de Bacillus subtilis autocloné.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Hexose oxydase de Hansenula polymorpha B 13-HOX 46 Mut 45.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Oxydation des hexoses et de certains disaccharides comme le maltose. Sous réserve de ne pas employer du méthanol comme inducteur.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Inulinase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop d'inuline à teneur élevée en fructose et en fructo-oligosaccharides (oligofructosides).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de l'inuline. La teneur en dianhydrodifructose doit être inférieure à 0,15 %.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Invertase (et invertase immobilisée sur support immobilisée sur support réticulé par du glutaraldéhyde) de Saccharomyces cerevisiae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de confiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du saccharose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Invertase de Saccharomyces cerevisiae immobilisée sur support réticulé par du glutaraldéhyde.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sucre inverti.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du saccharose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Iso-alpha-amylase de Pseudomonas amyloderamosa ATCC 21262.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha-1-4-glucosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lactase de Kluyveromyces lactis LCT 114 autocloné.<br/>
 </p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.<br/>
 </p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.<br/>
 </p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du lactose.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur techniquement inévitable.<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lactases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Lactose hydrolysé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du lactose.</p>
 <p>Les enzymes d'Aspergillus niger et d'Aspergillus oryzae peuvent être fixées sur un support inerte.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lactases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Lactosérum hydrolysé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse du lactose.</p>
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Lactoperoxydase extraite de lactosérum immobilisée, isothiocyanates de potassium ou de sodium et peroxyde d'hydrogène. </td>
-<td>Divers.</td>
-<td>Salades crues prêtes à l'emploi (de quatrième gamme) </td>
-<td>Lactoperoxydase à la dose strictement nécessaire pour obtenir l'effet recherché.<br/>Peroxyde d'hydrogène à la concentration maximale de 2mM (soit 68 ppm).<br/>Ion isothiocyanate à la concentration maximale de 2 mM (soit 175 ppm pour le thiocyanate de potassium).<br/>Le procédé doit aboutir à une concentration d'isothiocyanate de 0,6 mM dans l'eau de lavage.</td>
-<td>Teneur résiduelle en thiocyanates dans les salades rincées inférieure à 0,5 mg/kg.</td>
+<td align="left" valign="top">Lactoperoxydase extraite de lactosérum immobilisée, isothiocyanates de potassium ou de sodium et peroxyde d'hydrogène. </td>
+<td align="left" valign="top">Divers.</td>
+<td align="left" valign="top">Salades crues prêtes à l'emploi (de quatrième gamme) </td>
+<td align="left" valign="top">Lactoperoxydase à la dose strictement nécessaire pour obtenir l'effet recherché.<br/>Peroxyde d'hydrogène à la concentration maximale de 2mM (soit 68 ppm).<br/>Ion isothiocyanate à la concentration maximale de 2 mM (soit 175 ppm pour le thiocyanate de potassium).<br/>Le procédé doit aboutir à une concentration d'isothiocyanate de 0,6 mM dans l'eau de lavage.</td>
+<td align="left" valign="top">Teneur résiduelle en thiocyanates dans les salades rincées inférieure à 0,5 mg/kg.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lipase d'une souche recombinée MStr 115 d'Aspergillus oryzae porteuse du gène codant pour la lipase de Fusarium oxy- sporum.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, viennoiserie, pâtisserie. Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Modification des interactions triglycérides/gluten.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lipase d'Aspergillus oryzae (pCaHj559/BECh2#3) contenant le gène hybride Thermomyces lanuginosus/Fusarium oxy­ sporum codant pour la lipase.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'huile, des graisses et de l'œuf.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des triglycérides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lipase d'Aspergillus oryzae contenant le gène codant pour l'enzyme d'Humicola lanuginosa (Thermomyces lanuginosus) (H-1-52/C).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Modification des interactions triglycérides/gluten.</p>
 <p>Hydrolyse des triglycérides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lipase de Candida rugosa.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production de préparations aromatisantes à partir de matières premières laitières</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des triglycérides.</p>
 <p>Les préparations aromatisantes sont stabilisées par la chaleur afin d'assurer l'inactivation des enzymes.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Lipase issue d'une souche d'Aspergillus niger génétiquement modifiée (DB) contenant le gène codant la lipase de Candida antarctica. </td>
-<td>Enzymes </td>
-<td>Industrie des huiles alimentaires </td>
-<td>Hydrolyse des triglycérides afin de permettre une interestérification.</td>
-<td>Teneur résiduelle techniquement inévitable. </td>
-</tr>
-<tr>
-<td>Lipase issue d'une souche d'Aspergillus oryzae génétiquement modifiée LH) contenant le gène modifié codant la lipase de Thermomyces lanuginosus. </td>
-<td>Enzymes</td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale. <br/>
+<td align="left" valign="top">
+<p align="left">Lipase issue d'une souche d'Aspergillus niger génétiquement modifiée (DB) contenant le gène codant la lipase de Candida antarctica. </p>
 </td>
-<td>Hydrolyse des triglycérides.</td>
-<td>Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">Enzymes </td>
+<td align="left" valign="top">Industrie des huiles alimentaires </td>
+<td align="left" valign="top">Hydrolyse des triglycérides afin de permettre une interestérification.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. </td>
 </tr>
 <tr>
-<td>Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum.</td>
-<td>Enzymes.</td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale. <p>Viennoiserie, biscuiterie, pâtisserie. <br/>
+<td align="left" valign="top">
+<p align="left">Lipase issue d'une souche d'Aspergillus oryzae génétiquement modifiée LH) contenant le gène modifié codant la lipase de Thermomyces lanuginosus. </p>
+</td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale. <br/>
+</td>
+<td align="left" valign="top">Hydrolyse des triglycérides.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum.</td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale. <p>Viennoiserie, biscuiterie, pâtisserie. <br/>
 </p>
 </td>
-<td>Modification des interactions triglycérides / gluten. <br/>
+<td align="left" valign="top">Modification des interactions triglycérides / gluten. <br/>
 </td>
-<td>Teneur résiduelle techniquement inévitable. <br/>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum.</td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Industrie des huiles alimentaires.</td>
+<td align="left" valign="top">Hydrolyse des triglycérides. </td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. </td>
+</tr>
+<tr>
+<td align="left" valign="top">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum. </td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Panification (à l'exception du pain de tradition française). <p>Viennoiserie.</p>
+</td>
+<td align="left" valign="top">Modification des interactions triglycérides/gluten.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Lipase de Rhizopus oryzae FLP-1.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, viennoiserie, pâtisserie. Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Modification des interactions triglycérides-gluten.</p>
 <p>Hydrolyse des triglycérides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lipase de Rhizopus oryzae.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des triglycérides afin de permettre une interestérification. </p>
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Lysophospholipase d'Aspergillus niger ATCC 13496.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Libération de certains composés lipidiques liés à la fraction amylose de l'amidon.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Lysophospholipase d'Aspergillus niger génétiquement modifiée Lp-1.</td>
-<td>Enzymes. </td>
-<td>Amidonnerie.<br/>Industrie de l'alcool. </td>
-<td>Hydrolyse des lysophospholipides. </td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Lysophospholipase d'Aspergillus niger génétiquement modifiée Lp-1.</p>
+</td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Amidonnerie.<br/>Industrie de l'alcool. </td>
+<td align="left" valign="top">Hydrolyse des lysophospholipides. </td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Papaïne de Carica papaya.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Papaïne de Carica papaya.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines de soja et blé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines. Hydrolysats utilisés comme agent de foisonnement.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Papaïne de Carica papaya.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Papaïne de Carica papaya.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectinases d'Aspergillus niger, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques et esters des substances pectiques.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectinases d'Aspergillus niger, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques et esters des substances pectiques.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectine méthylestérase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectine méthylestérase d'Aspergillus niger.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Préparations de fruits et de tomates.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectine méthylestérase d'Aspergillus oryzae contenant le gène codant d'Aspergillus aculeatus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pectine méthylestérase d'Aspergillus oryzae contenant le gène codant d'Aspergillus aculeatus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Jus de fruits.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Pectine méthylestérase produite par la souche recombinée d'Aspergillus niger PME 44.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 <p>Jus de fruits. </p>
 <p>Préparations de fruits et de tomates.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pentosanase d'Humicola insolens (DSM 1800).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification ( à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des pentosanes insolubles, présents dans les hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pentosanase d'Humicola insolens (DSM 1800).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des pentosanases insolubles présents dans les hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pepsine bovine, porcine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines de soja et blé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines. Hydrolysats utilisés comme agent de foisonnement.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pepsine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pepsine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Phosphodiestérase de radicelles de malt.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production d'extraits de levures hydrolysés et de levures sèches autolysées riches en 5'nucléotides.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de l'ARN.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). </td>
-<td>Enzymes</td>
-<td>Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine. <br/>
+<td align="left" valign="top">Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). </td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine. <br/>
 </td>
-<td>Hydrolyse des phospholipides. <br/>
+<td align="left" valign="top">Hydrolyse des phospholipides. <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>Teneur résiduelle techniquement inévitable. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Phospholipase A2 d'Aspergillus niger modifié génétiquement PLA 54 (DS 35496).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, viennoiserie, pâtisserie. Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des phosphoglycérides ou phospholipides du gluten.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Phospholipase A2 d'Aspergillus niger modifiée génétiquement PLA 54. </td>
-<td>Enzymes.</td>
-<td>Jaunes d'œufs destinés à la fabrication de sauces. </td>
-<td>Hydrolyse de la fonction ester en position 2 des phospholipides pour le traitement des jaunes d'œufs destinés à la fabrication de mayonnaise et d'autres sauces émulsionnées. </td>
-<td>Dose techniquement inévitable </td>
+<td align="left" valign="top">Phospholipase A2 d'Aspergillus niger modifiée génétiquement PLA 54. </td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Jaunes d'œufs destinés à la fabrication de sauces. </td>
+<td align="left" valign="top">Hydrolyse de la fonction ester en position 2 des phospholipides pour le traitement des jaunes d'œufs destinés à la fabrication de mayonnaise et d'autres sauces émulsionnées. </td>
+<td align="left" valign="top">Dose techniquement inévitable </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Phospholipase A2 de pancréas de porc.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Jaunes d'œufs destinés à la fabrication de sauces.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse de la fonction ester en position 2 des phospholipides pour le traitement des jaunes d'œufs destinés à la fabrication de mayonnaise et d'autres sauces émulsionnées.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Phospholipase A2 de pancréas de porc.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des phosphoglycérides ou phospholipides du gluten.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
+<td align="left" valign="top">Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
 </td>
-<td>Enzymes. </td>
-<td>Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
 </td>
-<td>Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
+<td align="left" valign="top">Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Huiles végétales.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Phytase d'Aspergillus niger NPH54 (DS 35387) portant le gène codant pour la phytase d'Aspergillus niger 3135.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des phytates.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <br/>Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. </td>
-<td>Enzymes.</td>
-<td>Jus de fruits. <br/>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Jus de fruits. <br/>
 </td>
-<td>Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. </td>
-<td>Teneur résiduelle techniquement inévitable. <br/>
+<td align="left" valign="top">Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. </td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Présure.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Caséinates acides alimentaires.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Coagulation des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Présure.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché. Coagulation des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Protéase à résidu sérine issue souche génétiquement modifiée de Fusarium venenatum (FG) contenant le gène codant la protéase de Fusarium oxysporum. </td>
-<td>Enzymes</td>
-<td>Hydrolysats de protéines <br/>
+<td align="left" valign="top">
+<p align="left">Protéase à résidu sérine issue souche génétiquement modifiée de Fusarium venenatum (FG) contenant le gène codant la protéase de Fusarium oxysporum. </p>
 </td>
-<td>Hydrolyse des liaisons peptidiques des protéines.</td>
-<td>Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Hydrolysats de protéines <br/>
+</td>
+<td align="left" valign="top">Hydrolyse des liaisons peptidiques des protéines.</td>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase d'Aspergillus oryzae IMI 359 166.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscotterie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Protéase d'Aspergillus niger recombinée génétiquement GEP 44.</td>
-<td>Enzymes. </td>
-<td>Bière.<br/>Hydrolysats de protéines. </td>
-<td>Hydrolyse de la liaison peptidique au niveau du groupe carboxyl des résidus proline.</td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Protéase d'Aspergillus niger recombinée génétiquement GEP 44.</td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Bière.<br/>Hydrolysats de protéines. </td>
+<td align="left" valign="top">Hydrolyse de la liaison peptidique au niveau du groupe carboxyl des résidus proline.</td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Bacillus amyloliquefaciens autocloné.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la mer tels qu'œufs de poisson, céphalopodes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Traitement de certains produits de la mer (œufs de poisson, céphalopodes).</p>
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Bacillus amyloliquefaciens.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Protéase de Bacillus amyloliquefaciens autocloné. </td>
-<td>Enzymes. </td>
-<td>Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
-<td>Hydrolyse des liaisons peptidiques des protéines.</td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Protéase de Bacillus amyloliquefaciens autocloné. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
+<td align="left" valign="top">Hydrolyse des liaisons peptidiques des protéines.</td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Bacillus licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Bacillus licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Gluten de blé partiellement hydrolysé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 <p>Production de gluten de blé partiellement hydrolysé utilisé comme agent de texture.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Bacillus licheniformis.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines de soja et blé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines utilisées pour leurs propriétés fonctionnelles.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. </td>
-<td>Enzymes. </td>
-<td>Production d'hydrolysats de protéines. </td>
-<td>Hydrolyse des liaisons peptidiques des protéines avec une segmentation préférentielle pour Leu¹Phe.</td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Production d'hydrolysats de protéines. </td>
+<td align="left" valign="top">Hydrolyse des liaisons peptidiques des protéines avec une segmentation préférentielle pour Leu¹Phe.</td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase de Rhizomucor miehei.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits de la mer tels qu'œufs de poisson, céphalopodes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Traitement de certains produits de la mer (œufs de poisson, céphalopodes).</p>
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéase Micrococcus caseolyticus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages à pâtes pressées cuites et non cuites et à pâtes molles (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Protéolyse des caséines du lait pendant l'affinage.</p>
 <p>Activation des ferments lactiques.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases à résidu sérine de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases à résidu sérine de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases acides d'Endothia parasitica (Cryphonectria parasitica), Mucor pusillus lindt.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (lait de vache et sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être "enzyme coagulante d'origine microbienne pour fromagerie".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases acides de Rhizomucor miehei.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 <p>Hydrolyse des liaisons peptidiques des protéines. La dénomination de ces préparations doit être "enzyme coagulante d'origine microbienne pour fromagerie".</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases acides d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases acides d'Aspergillus oryzae, Aspergillus wentii, Rhizomucor miehei, Mucor pusillus, Endothia parasitica.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, pâtisserie, viennoiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Jus de légumes, jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars, sirops.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases de Bacillus subtilis, Bacillus licheniformis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases d'origine animale.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Fromages (sans AOC).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché. Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases(métallo-) de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Protéases(métallo-) de Bacillus subtilis, Aspergillus oryzae, Aspergillus wentii.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Protéine-glutaminase issue d'une souche de Chryseobacterium proteolyticum non génétiquement modifiée (FERM P-17664).<br/>
+<td align="left" valign="top">Protéine-glutaminase issue d'une souche de Chryseobacterium proteolyticum non génétiquement modifiée (FERM P-17664).<br/>
 </td>
-<td>Enzymes.<br/>
+<td align="left" valign="top">Enzymes.<br/>
 </td>
-<td>Ingrédients et denrées alimentaires à base de protéines.<br/>
+<td align="left" valign="top">Ingrédients et denrées alimentaires à base de protéines.<br/>
 </td>
-<td>Catalyse la désamidation des résidus glutaminyl des polypeptides.<br/>
+<td align="left" valign="top">Catalyse la désamidation des résidus glutaminyl des polypeptides.<br/>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">Teneur techniquement inévitable.<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pullulanase (alpha dextrine 6 glucano-hydrolase) de Klebsiella planticola (15050).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pullulanase (dextrine 6 glucano- hydrolase) de Klebsiella planticola (15050).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pullulanase de Bacillus acido- pullulyticus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pullulanase de Bacillus licheniformis contenant le gène de la pullulanase de B. deramificans.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. Production industrielle de sirop de glucose. Saccharification de l'amidon.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Pullulanase de Bacillus subtilis A164 5 D porteuse du gène de Bacillus deramificans codant pour la pullulanase.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. <br/>
+<td align="left" valign="top">Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. <br/>
 </td>
-<td>Enzymes</td>
-<td>Brasserie, amidonnerie, alcool.</td>
-<td>Hydrolyse des liaisons α1-6 glycosidiques des polysaccharides.</td>
-<td>
+<td align="left" valign="top">Enzymes</td>
+<td align="left" valign="top">Brasserie, amidonnerie, alcool.</td>
+<td align="left" valign="top">Hydrolyse des liaisons α1-6 glycosidiques des polysaccharides.</td>
+<td align="left" valign="top">
 <br/>Teneur résiduelle techniquement inévitable</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Ribonucléase de Penicillium citrinum.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Extraits de levures hydrolysés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Traitement d'extraits de levures. Hydrolyse de polyribonucléotides.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement.</p>
 </td>
 </tr>
 <tr>
-<td>Ribonucléase de Penicillium citrinum sous formes granulée et poudre.</td>
-<td>Enzymes.</td>
-<td>Extraits de levures hydrolysés. </td>
-<td>Traitement d'extraits de levures.<br/>Hydrolyse de polyribonucléotides. </td>
-<td>Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. </td>
+<td align="left" valign="top">Ribonucléase de Penicillium citrinum sous formes granulée et poudre.</td>
+<td align="left" valign="top">Enzymes.</td>
+<td align="left" valign="top">Extraits de levures hydrolysés. </td>
+<td align="left" valign="top">Traitement d'extraits de levures.<br/>Hydrolyse de polyribonucléotides. </td>
+<td align="left" valign="top">Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Tannase d'Aspergillus oryzae (n<sup>o</sup> 11-5).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Thé prêt à boire.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des tannins. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S8112. </td>
-<td>Enzymes</td>
-<td>Produits reconstitués à base de poissons et d'autres produits de la mer. </td>
-<td>Formation de liaisons covalentes. <p>L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S8112. </p>
 </td>
-<td>Teneur résiduelle techniquement inévitable. <p>L'enzyme doit être inactivée dans le produit final. <br/>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Produits reconstitués à base de poissons et d'autres produits de la mer. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Formation de liaisons covalentes.</p>
+<p>L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme. </p>
+<p>Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente de la denrée alimentaire reconstituée doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+<p align="left">L'enzyme doit être inactivée dans le produit final. <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Transglutaminase de Streptoverticillium mobaraense.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Formation de liaisons covalentes glutamyl-lysine.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit final.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Transglutaminase de Streptoverticillum mobaraense.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Produits à base de viandes reconstituées.</p>
 </td>
-<td valign="top" width="174">
-<p>Formation de liaisons covalentes. L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme.</p>
+<td align="left" valign="top">Formation de liaisons covalentes. <p>L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant devant assurer l'inactivité de l'enzyme. </p>
+<p>Conformément aux dispositions de l'article R. 112-14 du code de la consommation, la dénomination de vente doit préciser l'état physique de cette denrée ou le traitement qu'elle a subi dans le cas où l'omission de cette indication serait de nature à induire le consommateur en erreur, notamment lorsqu'elle se présente sous la forme d'un morceau entier.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit final.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Transglutaminase issue de la souche S-8112 de Streptoverticillium mobaraense.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Production de fromages au lait pasteurisé (à l'exclusion des AOC), de spécialités fromagères au lait pasteurisé et de produits laitiers gélifiés au lait pasteurisés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivité de l'enzyme.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable. L'enzyme doit être inactivée dans le produit final.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Trypsine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines destinés à une alimentation particulière.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines. Dans les conditions prévues par l'arrêté du 21 décembre 1988.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Trypsine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Hydrolysats de protéines.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons peptidiques des protéines.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase d'Aspergillus oryzae contenant le gène codant pour la xylanase de Thermomyces lanuginosus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'alcool.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase d'Aspergillus oryzae contenant le gène codant pour la xylanase de Thermomyces lanuginosus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase d'Aspergillus oryzae Fb1-1 contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'alcool.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase d'Aspergillus oryzae contenant le gène codant d'Aspergillus aculeatus.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase d'Aspergillus oryzae contenant le gène codant pour l'enzyme de Thermomyces lanuginosus (SA 1-1).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Panification ( à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. </td>
-<td>Enzymes. </td>
-<td>Produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
-<td>Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
+<td align="left" valign="top">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td>Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. </td>
-<td>Enzymes. </td>
-<td>Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. </td>
-<td>Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
-<td>Dose techniquement inévitable.</td>
+<td align="left" valign="top">Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. </td>
+<td align="left" valign="top">Enzymes. </td>
+<td align="left" valign="top">Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. </td>
+<td align="left" valign="top">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
+<td align="left" valign="top">Dose techniquement inévitable.</td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase de Trichoderma longibrachiatum (ex-reesei) (Alko 3450) contenant le gène codant pour l'enzyme de T. longibrachiatum.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase de Trichoderma longibrachiatum (ex-reesei) (QM9414, ATCC 26921).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Amidonnerie, production de sirop de glucose de blé et de maïs.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
+<td align="left" valign="top">
 <p>Xylanase de Trichoderma longibrachiatum (souche QM 9414, ATCC 26921). </p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td valign="top" width="114">
+<td align="left" valign="top">
 <p>Industrie de l'alcool.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</td>
-<td>Enzymes <br/>
+<td align="left" valign="top">Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</td>
+<td align="left" valign="top">Enzymes <br/>
 </td>
-<td>Brasserie </td>
-<td>Hydrolyse des liaisons osidiques des hémicelluloses. <br/>
+<td align="left" valign="top">Brasserie </td>
+<td align="left" valign="top">Hydrolyse des liaisons osidiques des hémicelluloses. <br/>
 </td>
-<td>Teneur résiduelle techniquement inévitable.<br/>
+<td align="left" valign="top">Teneur résiduelle techniquement inévitable.<br/>
 </td>
 </tr>
 </tbody>

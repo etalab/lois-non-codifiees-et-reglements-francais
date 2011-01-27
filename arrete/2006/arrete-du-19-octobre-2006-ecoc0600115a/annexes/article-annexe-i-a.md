@@ -22,7 +22,8 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="center">
 <font size="1">DENRÉE<br/>
 </font>
-<font size="1">alimentaire </font>
+<font size="1">alimentaire <br/>
+</font>
 </p>
 </td>
 <td align="left" valign="top">
@@ -34,8 +35,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="center">
 <font size="1">DOSE RÉSIDUELLE<br/>
 </font>
-<font size="1">maximale <br/>
-</font>
+<font size="1">maximale </font>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>20 mg/kg dans le café ou le thé. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. <br/>
 </p>
 </td>
 </tr>
@@ -136,7 +136,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
+<p>Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -317,7 +317,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Autres adjuvants de filtration et / ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé. <br/>
+<p>Autres adjuvants de filtration et/ou de précipitation chimiquement inertes répondant aux dispositions du décret du 8 juillet 1992 susvisé. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -580,7 +580,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Charbon actif. </p>
 </td>
 <td align="left" valign="top">
-<p>Agent de clarification. </p>
+<p align="left">Agent de clarification. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Bières</p>
@@ -739,7 +739,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes. <br/>
+<p>Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -765,7 +765,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>2 mg/kg dans le café torréfié et 5 mg/kg dans le thé. <br/>
+<p>≤ 2 mg/kg dans le café torréfié et ≤ 5 mg/kg dans le thé. <br/>
 </p>
 </td>
 </tr>
@@ -849,7 +849,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose maximale de 50 mg/kg de betteraves.L'emploi doit être fait en substitution du formol. <br/>
+<p>A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -963,7 +963,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>1 mg/kg. <br/>
+<p>≤ 1 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -985,7 +985,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>5 mg/kg dans les germes de céréales dégraissées. <br/>
+<p>≤ 5 mg/kg dans les germes de céréales dégraissées. <br/>
 </p>
 </td>
 </tr>
@@ -1007,7 +1007,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>1 mg/kg. <br/>
+<p>≤ 1 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -1029,8 +1029,8 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées. </p>
-<p align="left">30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final. <br/>
+<p>≤ 10 mg/kg dans la denrée alimentaire contenant le produit à base de protéines dégraissées et les farines dégraissées. </p>
+<p align="left">≤ 30 mg/kg dans les produits dégraissés de soja tels que vendus au consommateur final. <br/>
 </p>
 </td>
 </tr>
@@ -1292,7 +1292,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>10 mg/kg. <br/>
+<p>≤ 10 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -1314,7 +1314,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -1332,11 +1332,11 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>5 mg/kg, dans les huiles et graisses. <br/>
+<p>≤ 5 mg/kg, dans les huiles et graisses. <br/>
 </p>
 </td>
 </tr>
@@ -1553,7 +1553,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>0,2 mg/l. <br/>
+<p>0, 2 mg/l. <br/>
 </p>
 </td>
 </tr>
@@ -1571,7 +1571,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes. <br/>
+<p>Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1615,7 +1615,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Utilisation en tant qu'adjuvants de filtration et / ou de précipitation chimiquement inertes. <br/>
+<p>Utilisation en tant qu'adjuvants de filtration et/ou de précipitation chimiquement inertes. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1663,7 +1663,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>10 mg/kg. <br/>
+<p>≤ 10 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -1685,7 +1685,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>1 mg/kg dans le sucre. <br/>
+<p>≤ 1 mg/kg dans le sucre. <br/>
 </p>
 </td>
 </tr>
@@ -1803,24 +1803,41 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Tanins. <br/>
+<p>Tanins. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agent de clarification. <br/>
+<p>Agent de clarification. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.<br/>
+<p>Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.<br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. <br/>
+<p>A la dose strictement nécessaire pour obtenir l'effet recherché. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Dose techniquement inévitable.<br/>
+<p>Dose techniquement inévitable.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Divers.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
 </td>
 </tr>
 </tbody>

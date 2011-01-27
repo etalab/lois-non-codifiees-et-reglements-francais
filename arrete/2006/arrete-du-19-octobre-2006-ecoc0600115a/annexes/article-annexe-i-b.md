@@ -5,143 +5,138 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
 <table>
 <tbody>
 <tr>
-<td width="151">
-<p align="center">AUXILIAIRES</p>
-<p align="center">technologiques</p>
+<td align="left" valign="top">
+<p align="center">AUXILIAIRES<br/>technologiques</p>
 </td>
-<td width="122">
-<p align="center">CATÉGORIE</p>
-<p align="center">de l'auxiliaire technologique</p>
+<td align="left" valign="top">
+<p align="center">CATÉGORIE<br/>de l'auxiliaire technologique</p>
 </td>
-<td width="113">
-<p align="center">DENRÉE</p>
-<p align="center">alimentaire</p>
+<td align="left" valign="top">
+<p align="center">DENRÉE<br/>alimentaire</p>
 </td>
-<td width="174">
-<p align="center">CONDITIONS D'EMPLOI/</p>
-<p align="center">fonction</p>
+<td align="left" valign="top">
+<p align="center">CONDITIONS D'EMPLOI/<br/>fonction</p>
 </td>
-<td width="118">
-<p align="center">DOSE RÉSIDUELLE</p>
-<p align="center">maximale</p>
+<td align="left" valign="top">
+<p align="center">DOSE RÉSIDUELLE<br/>maximale</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide 1-hydroxyéthylidène 1,1-diphosphorique (HEDP).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antitartre.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤7 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 5 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide chlorhydrique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'acidification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide gras du tall-oil.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide lactique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'acidification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide nitrilo-tri-méthylène phosphonique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antitartre.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤6 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 0,5 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide orthophosphorique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'acidification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide phosphorique et sels.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Raffinage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Doses résiduelles maximales :</p>
 <p>Savons ≤ 50 mg/kg ;</p>
 <p>Eau ≤ 2 000 mg/kg ;</p>
@@ -151,1304 +146,1324 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide polymaléique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antitartre.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Masse moléculaire 550 à 600 ≤ 5 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 1 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide sulfurique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acide sulfurique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'acidification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Acides gras.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Adjuvants de filtration et/ou de précipitation chimiquement inertes.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Adjuvants de filtration et/ou de précipitation chimiquement inertes.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Adjuvant de filtration.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Raffinage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Adjuvants de filtration et/ou de précipitation chimiquement inertes.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Adjuvant de filtration.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Agents de clarification cités dans la présente annexe pour les jus de fruits.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Boissons alcoolisées à base de raisins ou de pommes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Albumine</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td>Jus de légumes</td>
-<td>
+<td align="left" valign="top">Jus de légumes</td>
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Alkylaurylsulfonate de sodium (avec prédominance de n-dodécylbenzène sulfonate de sodium).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'épilation.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Porc.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1 l pour 1 000 l d'eau d'échaudage. Lavages à l'eau potable après traitement pour éliminer tout résidu décelable sur le revêtement cutané.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur en principes actifs ≤ 30 %.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Alkylbenzène sulfonate de sodium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'épluchage.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1,2 % au maximum dans le bain. Rinçage à l'eau potable.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>100 mg/kg de produit fini au maximum, exprimé en monoéthanolamine.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Amidure de sodium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Catalyseur.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Interestérification.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>50 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td>Anhydride carbonique</td>
-<td>Divers</td>
-<td>Jus de légumes</td>
-<td>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<td align="left" valign="top">
+<p align="left">Anhydride carbonique</p>
 </td>
-<td>Dose techniquement inévitable </td>
+<td align="left" valign="top">
+<p align="left">Divers</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Jus de légumes</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable </p>
+</td>
 </tr>
 <tr>
-<td>Anhydride sulfureux (E 220) </td>
-<td>Divers </td>
-<td>Jus de légumes </td>
-<td>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<td align="left" valign="top">
+<p align="left">Anhydride sulfureux (E 220) </p>
 </td>
-<td>Teneur résiduelle inférieure à 10 mg/kg </td>
+<td align="left" valign="top">
+<p align="left">Divers </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Jus de légumes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle inférieure à 10 mg/kg </p>
+</td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Anhydride sulfureux et sulfites alcalins.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>10 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p>Argiles adsorbantes (terres décolorantes) naturelles ou activées (uniquement par la chaleur ou les acides citrique, tartrique, phosphorique, chlorhydrique ou sulfurique).</p>
+<td align="left" valign="top">
+<p align="left">Argiles adsorbantes (terres décolorantes) naturelles ou activées (uniquement par la chaleur ou les acides citrique, tartrique, phosphorique, chlorhydrique ou sulfurique).</p>
 </td>
-<td valign="top" width="122">
-<p>Agent décolorant.</p>
+<td align="left" valign="top">
+<p align="left">Agent décolorant.</p>
 </td>
-<td valign="top" width="113">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<td align="left" valign="top">
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
-<p>Raffinage (l'activation des charbons ne peut être réalisée que par la chaleur ou l'action des acides citrique, tartrique, phosphorique, chlorhydrique, sulfurique).</p>
+<td align="left" valign="top">
+<p align="left">Raffinage (l'activation des charbons ne peut être réalisée que par la chaleur ou l'action des acides citrique, tartrique, phosphorique, chlorhydrique, sulfurique).</p>
 </td>
-<td valign="top" width="118">
-<p>Savons ≤ 50 mg/kg, eau ≤ 2 000 mg/kg, matières insolubles dans l'éther de pétrole ≤ 500 mg/kg, solvants ≤ 50 mg/kg.</p>
+<td align="left" valign="top">
+<p align="left">Savons ≤ 50 mg/kg, eau ≤ 2 000 mg/kg, matières insolubles dans l'éther de pétrole ≤ 500 mg/kg, solvants ≤ 50 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Autres adjuvants de filtration et adjuvants de précipitation chimiquement conformes aux dispositions communautaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires. La filtration peut se faire sous pression d'un gaz inerte. </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">Agent de clarification.</p>
 </td>
-<td>Jus de légumes </td>
-<td>
+<td align="left" valign="top">
+<p align="left">Jus de légumes </p>
+</td>
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td>Dose techniquement inévitable </td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable </p>
+</td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bentonite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de décoloration.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Beurre de cacao.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Raffinage : démucilation par centrifugeuse, neutralisation, décoloration par barattage, désodorisation sous vide par vapeur surchauffée.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bentonite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bentonite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Hydromels.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Collage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bêta-cyclodextrines produites par les cyclodextrines glucosyl transférases issues de : Bacillus macerans, Bacillus circulans, Bacillus sp. souche fermP1990, et dont l'étape de purification fait intervenir le chloréthylène.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Beurres.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les procédés d'extraction du cholestérol.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle en bêta-cyclodextrine ≤ 20 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bêta-cyclodextrines produites par les cyclodextrines glucosyl transférases issues de : Bacillus macerans, Bacillus circulans, Bacillus sp. souche fermP1990, et dont l'étape de purification fait intervenir l'eau.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Beurres.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les procédés d'extraction du cholestérol.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle en bêta-cyclodextrine ≤ 20 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bêta-cyclodextrines produites par les cyclodextrines glucosyl transférases issues de : Bacillus macerans, Bacillus circulans, Bacillus sp. souche fermP1990, et dont l'étape de purification fait intervenir le toluène.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Beurres.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les procédés d'extraction du cholestérol.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle en bêta-cyclodextrine ≤ 20 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bitartrate de potasse.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Hydromels.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>25 g/hectolitre.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Blanc de baleine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de démoulage.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Produits de confiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Bromure d'alkyl-diméthyl-benzyl ammonium (groupe alkyl comportant de 12 à 14 C).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 25 g/tonne de betteraves (dose exprimée en substance active).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Carbonate de sodium et aluns.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Boyaux d'enrobage.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Carbonate de sodium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Carbonates de sodium et carbonates de potassium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Carraghénanes.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle inférieure à 10 mg/litre.</p>
 </td>
 </tr>
 <tr>
-<td>Caséine</td>
-<td>
+<td align="left" valign="top">Caséine</td>
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td>Jus de légumes </td>
-<td>
+<td align="left" valign="top">Jus de légumes </td>
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Caséines et caséinates de potassium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Cellulose.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Jus de légumes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Clarification. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Charbon.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Jus de légumes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Clarification. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Charbon.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Charbons actifs.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent décolorant.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Spiritueux.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Affinage par élimination des tanins et du caramel.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur maximale employée : 0,5 g/litre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Charbons non activés ou actifs (uniquement par la chaleur ou les acides citrique, tartrique, phosphorique, chlorhydrique ou sulfurique).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent décolorant.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Raffinage (l'activation des charbons ne peut être réalisée que par la chaleur ou l'action des acides citrique, tartrique, phosphorique, chlorhydrique, sulfurique).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Savons ≤ 50 mg/kg, eau ≤ 2 000 mg/kg, matières insolubles dans l'éther de pétrole ≤ 500 mg/kg, solvants ≤ 50 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure d'alkyl-diméthyl-benzyl ammonium (groupe alkyl comportant de 12 à 14 C).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 25 g/tonne de betteraves (dose exprimée en substance active).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure de calcium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure de diméthyl - didécylammonium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 25 g/tonne de betteraves (dose exprimée en substance active).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure de magnésium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure de N - benzyl - N - hydroxyéthylé - alkyl imidazolinium (groupe alkyl comportant de 12 à 16 C).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 25 g/tonne de betteraves (dose exprimée en substance active).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chlorure de zinc.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Chrome.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Catalyseur.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrogénation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>0,05 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Cires autorisées par l'arrêté du 2 octobre 1997.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de démoulage.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Produits de confiserie.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dose strictement nécessaire.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Colle de poisson.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de collage</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Colle de poisson.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Colle de poisson.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Hydromels.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Collage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Colle de poisson.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Jus de légumes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Clarification. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'acide acrylique et d'acrylate d'éthyle.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antitartre.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 10 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 1 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'acrylamide et d'acrylate de sodium (constitués de 20 % de motif acrylamide et de 80 % de motif acrylate).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antitartre.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 10 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 0,8 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'acrylamide et d'acrylate de sodium (constitués de 90 à 50 % de motif acrylamide et de 10 à 50 % de motif acrylate).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Floculant et coagulant.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>≤ 6 g/m<sup>3</sup> de jus sucré.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle ≤ 0,8 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés par l'acide acétique.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés par les acides gras alimentaires.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés par les acides gras du tall-oil.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés par l'huile de ricin.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ ,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Copolymères d'oxyde d'éthylène et d'oxyde de propylène.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<td align="left" valign="top">
+<p>Sucre (mi-) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : Monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Cuivre.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Catalyseur.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Hydrogénation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>0,2 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diatomite lavée.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diatomite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de décoloration.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Beurre de cacao.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Raffinage : démucilation par centrifugeuse, neutralisation, décoloration par barattage, désodorisation sous vide par vapeur surchauffée.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diatomite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de filtration.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diatomite.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Jus de légumes.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Clarification. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Dichlorhydrate de thiamine.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Dans les moûts pour favoriser la fermentation. 0,6 g/l exprimés en thiamine.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diméthylpolysiloxane.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Champignons destinés à la transformation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Accompagné éventuellement de : polyoxyéthylène tristéarate de sorbitane (max. 15 % du diméthyl­ polysiloxane), agents émulsifiants, stabilisants, de charge et conservateurs autorisés par l'arrêté du 2 octobre 1997 (en % &lt; 25 % du diméthylpolysiloxane).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>&lt; 1 mg/kg de produit fini.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diméthylpolysiloxane.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Flageolets destinés à la conserverie et à la congélation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneurs résiduelles (seules ou en mélange avec oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire.) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diméthylpolysiloxane.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Petits pois destinés à la conserverie et à la congélation.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diméthylpolysiloxane.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Pommes de terre.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Accompagné éventuellement de : polyoxyéthylène tristéarate de sorbitane (max. 15 % du diméthyl- polysiloxane), agents émulsifiants, stabilisants, de charge et conservateurs autorisés par l'arrêté du 2 octobre 1997 (en % &lt; 25 % du diméthylpolysiloxane).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur résiduelle &lt; 1 mg/kg de produit fini.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Diméthylpolysiloxane.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Dioxyde de silicium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Bières.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Utilisation avant filtration.</p>
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Dioxyde de silicium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Chicorée soluble.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Utilisation pour éviter le collage de la poudre de chicorée aux parois de la tour d'atomisation.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>≤ 0,5 mg/kg.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Dioxyde de silicium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de clarification.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Cidres et poirés.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Eau oxygénée.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Divers.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Boyaux d'enrobage.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Ester (sel de sodium de) de l'éther alkyltriglycolique (avec prédominance de chaînes alkyles en C<sub>12 </sub>et C<sub>14</sub>)<sup>.</sup>
 </p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'épilation.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Porc.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1 l pour 1 000 l d'eau d'échaudage. Lavages à l'eau potable après traitement pour éliminer tout résidu décelable sur le revêtement cutané.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur en principes actifs ≤ 30 %.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Esters polyglycéridiques d'acides gras (E 475).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Antimousse.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Sucre (mi -) blanc cristallisé.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Ether alkylphénol polyglycolique (avec prédominance d'éther nonylphénol contenant 6 à 8 molécules d'oxyde d'éthylène).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de plumaison.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Volailles.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1 l pour 1 000 l d'eau d'échaudage. Lavages à l'eau potable après traitement pour éliminer tout résidu décelable sur le revêtement cutané. Etiquetage : Préparation destinée à parfaire la plumaison des volailles abattues + mode d'emploi (indiquant doses et conditions + nécessité rinçage abondant). Teneur en principes actifs ≤ 35 %. Pas d'oxyde d'éthylène libre.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Ether alkylphénol polyglycolique (avec prédominance d'éther nonylphénol polyglycolique contenant 14 mol d'oxyde d'éthyle).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent d'épilation.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Porc.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1 l pour 1 000 l d'eau d'échaudage. Lavages à l'eau potable après traitement pour éliminer tout résidu décelable sur le revêtement cutané.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Teneur en principes actifs ≤ 30 %.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Ether polyglycolique du propylène glycol (6 mol d'oxyde d'éthylène et 30 mol d'oxyde de propylène).</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Agent de plumaison.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Volailles.</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>1 l pour 1 000 l d'eau d'échaudage. Lavages à l'eau potable après traitement pour éliminer tout résidu décelable sur le revêtement cutané. Etiquetage : Préparation destinée à parfaire la plumaison des volailles abattues + mode d'emploi (indiquant doses et conditions + nécessité rinçage abondant). Teneur en principes actifs ≤ 35 %. Pas d'oxyde d'éthylène libre.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td align="left" valign="top">
 <p>Ethylate de sodium.</p>
 </td>
-<td valign="top" width="122">
+<td align="left" valign="top">
 <p>Catalyseur.</p>
 </td>
-<td valign="top" width="113">
+<td align="left" valign="top">
 <p>Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
-<td valign="top" width="174">
+<td align="left" valign="top">
 <p>Interestérification.</p>
 </td>
-<td valign="top" width="118">
+<td align="left" valign="top">
 <p>50 mg/kg.</p>
 </td>
 </tr>
@@ -1783,14 +1798,14 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
 <p>Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et légumes et champignons crus prêts à l'emploi (dits de quatrième gamme)</p>
+<p align="left">Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits, légumes et champignons crus prêts à l'emploi (dits de quatrième gamme). </p>
 </td>
 <td valign="top" width="174">
-<p>Concentration en chlore libre du bain de chloration : 80 ppm au maximum.</p>
-<p>Rinçage obligatoire.</p>
+<p>Concentration en chlore libre du bain de chloration : 80 ppm au maximum. </p>
+<p>Rinçage obligatoire. </p>
 </td>
 <td valign="top" width="118">
-<p>Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX).</p>
+<p>Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX). </p>
 </td>
 </tr>
 <tr>
