@@ -1,0 +1,5 @@
+# Article 22
+
+Par dérogation aux articles 11 et 12 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, sont dispensées de la condition de diplôme, de la formation théorique et pratique et du certificat d'aptitude à la profession d'avocat les personnes ayant travaillé en qualité de collaborateur d'avoué postérieurement au 31 décembre 2008 et justifiant, au plus tard à la date d'entrée en vigueur du chapitre Ier de la présente loi, de la réussite à l'examen d'aptitude à la profession d'avoué.
+
+Bénéficient des dispenses prévues au premier alinéa les collaborateurs d'avoué qui justifient d'un nombre d'années de pratique professionnelle fixé par décret en Conseil d'Etat en fonction du niveau de diplôme obtenu. Les années de pratique professionnelle comptabilisées sont celles exercées en qualité de collaborateur d'avoué ou, postérieurement à la date d'entrée en vigueur du chapitre Ier de la présente loi, en qualité de collaborateur d'avocat.
