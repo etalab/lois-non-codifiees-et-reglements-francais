@@ -12,6 +12,8 @@ Mention "aviron" et supports "aviron de mer", "aviron d'initiation et de découv
 
 L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "aviron" et les supports "aviron de mer", "aviron d'initiation et de découverte", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
 
+Mention "canoë-kayak et disciplines associées" et supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive". L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "canoë-kayak et disciplines associées" et les supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
+
 1/ Exigences préalables à l'entrée en formation, communes à la mention et aux supports précités :
 
 L'épreuve s'effectue dans un bateau de couple individuel permettant d'appréhender les déséquilibres, avec coulisse et avec un croisement des avirons.
@@ -48,9 +50,31 @@ L'attestation de réussite aux exigences préalables, prévue à l'article 5 du 
 
 1/ Exigences préalables à l'entrée en formation :
 
-a) Exigences préalables à l'entrée en formation pour la mention : "canoë-kayak " :
+a) Les exigences préalables à l'entrée en formation pour la mention monovalente "canoë-kayak et disciplines associées" sont constituées d'un test technique en eau vive ou en mer.
 
-Elles correspondent aux capacités et connaissances attendues pour les supports "canoë-kayak, eau calme, mer et vagues" et "canoë-kayak, eau calme et rivière d'eau vive "
+Il est procédé à la vérification de ces exigences préalables au moyen d'un test technique en mer ou en eau vive, au choix du candidat :
+
+- un test technique en mer consistant à effectuer en sécurité une sortie d'une durée minimale de trois heures en kayak de mer sur un parcours dans les vagues et au vent jusqu'à force 4 Beaufort maximum sur le site d'évolution, comprenant :
+
+- un embarquement ;
+
+- un débarquement,
+
+- des évolutions près et loin de la côte ;
+
+- un esquimautage ;
+
+- un test technique en eau vive de classe III maximum consistant à effectuer en sécurité un parcours d'une durée minimale d'une heure, comprenant :
+
+- des entrées, sorties et traversées de courant ;
+
+- un surf sur une vague ;
+
+- des jeux dans un rouleau ;
+
+- un esquimautage ;
+
+- un retour à la berge avec son matériel, après un dessalage.
 
 b) Exigences préalables à l'entrée en formation pour le support :"Canoë-kayak eau calme, mer et vagues" :
 
@@ -80,7 +104,7 @@ Le parcours est un triangle avec un bord au compas, un bord travers en alignemen
 
 - Maîtriser l'esquimautage renforcé par rapport à la pagaie rouge : esquimautage dans tous les sens et dans toutes les conditions liées aux prérogatives d'encadrement.
 
-c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kayak, eau calme et rivière d'eau vive " : Etre capable de :
+c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kayak, eau calme et rivière d'eau vive" : Etre capable de :
 
 - Préparer et utiliser du matériel spécialisé.
 
@@ -116,9 +140,9 @@ c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kay
 
 2/ Dispenses et équivalences :
 
-- Le niveau "pagaie rouge" délivré par la fédération française de canoë-kayak, tel que définit dans le règlement des formations, diplômes et qualifications de la fédération française de canoë-kayak, dispense, selon la mention ou le support choisi par le candidat, du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B.P. J.E.P.S.
+- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées" le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
 
-- Le diplôme de "moniteur fédéral" tel que définit dans le règlement des formations, diplômes et qualifications de la fédération française de canoë-kayak, dispense, selon la mention ou le support choisi par le candidat, du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B.P. J.E.P.S.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
 Mention "char à voile" et support "char à voile d'initiation et de découverte"
 

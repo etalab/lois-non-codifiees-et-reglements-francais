@@ -2,7 +2,7 @@
 
 EXIGENCES MINIMALES PREALABLES A LA MISE EN SITUATION PEDAGOGIQUE
 
-La mise en situation pédagogique d'alternance en entreprise du candidat, définie à l'article 14 de l'arrêté du 18 avril 2002, est précédée d'exigences minimales, précisées à l'article 6 du présent arrêté. Ces exigences minimales nécessitent, pour une mise en situation pédagogique, la possession par le candidat, d'une attestation de capacités et connaissances, délivrée par l'organisme de formation, dont les objectifs sont définis en annexe IV au présent arrêté.
+La mise en situation pédagogique d'alternance en structure du candidat, définie à l'article 14 de l'arrêté du 18 avril 2002, est précédée d'exigences minimales, précisées à l'article 6 du présent arrêté. Ces exigences minimales nécessitent, pour une mise en situation pédagogique, la possession par le candidat, d'une attestation de capacités et connaissances, délivrée par l'organisme de formation, dont les objectifs sont définis en annexe IV au présent arrêté.
 
 Mention "aviron" et supports "aviron de mer", "aviron d'initiation et de découverte"
 
@@ -34,31 +34,51 @@ Etre capable de :
 
 Le diplôme "brevet fédéral 2nd degré", tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française des sociétés d'aviron, dispense du test de capacités et connaissances préalable à la mise en situation pédagogique pour la mention "aviron" et les supports"aviron de mer" et "aviron d'initiation et de découverte" de la spécialité "activités nautiques" du B.P. J.E.P.S.
 
-Mention "canoë-kayak " et supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive"
+Mention "canoë-kayak" et disciplines associées et supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive"
 
-Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention "canoë-kayak" et les supports "canoë-kayak, eau calme, mer et vagues" et "canoë-kayak, eau calme et rivière d'eau vive".
+Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention canoë-kayak et disciplines associées et les supports "canoë-kayak, eau calme, mer et vagues" et "canoë-kayak, eau calme et rivière d'eau vive".
 
-1/ Exigences préalables à la mise en situation pédagogique, communes à la mention et aux supports précités :
+1. Les exigences préalables à la mise en situation pédagogique :
 
-- Mention "canoë-kayak " : Détention du permis "mer" et eaux intérieures + certificat de radio téléphoniste.
-
-- Support "canoë-kayak, eau calme mer et vagues" : Détention du permis "mer" + certificat de radio téléphoniste.
-
-- Support "canoë-kayak, eau calme et rivière d'eau vive" : Détention du permis eaux intérieures.
+Mention "canoë-kayak et disciplines associées" sont les suivantes :
 
 Etre capable de :
 
-- Conduire une action d'animation dans le cadre d'activités nautiques en canoë-kayak.
+- conduire une action d'animation dans le cadre d'activités nautiques en canoë-kayak ;
 
-- Réaliser une intervention auprès d'un pratiquant en difficulté.
+- réaliser une intervention auprès d'un pratiquant en difficulté ;
 
-- Gérer les moyens de la sécurité des pratiquants (sécurité passive).
+- gérer les moyens de la sécurité des pratiquants, des tiers et du matériel ;
 
-- Mettre en oeuvre les actions de secours et d'assistance en milieu nautique.
+- s'insérer activement dans un dispositif de sécurité ;
 
-2/ Dispenses et équivalences :
+- mettre en œuvre les actions de secours et d'assistance en milieu nautique.
 
-Le diplôme de "moniteur fédéral" tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de canoë-kayak, dispense du test de capacités et connaissances préalables à la mise en situation pédagogique pour la mention et les supports précités de la spécialité
+Il est procédé à la vérification de ces exigences préalables au moyen de deux épreuves :
+
+- un test de sécurité ;
+
+- la conduite d'une séance d'apprentissage.
+
+Ces épreuves sont organisées en fonction du milieu dans lequel la mise en situation pédagogique s'effectue :
+
+- en eau vive, sur un parcours en eau vive jusqu'en classe III incluse ;
+
+- en mer jusqu'à vent de force 4 Beaufort maximum sur le site d'évolution et détention du permis de conduire des bateaux de plaisance à moteur option "côtière" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent ;
+
+- ou en eau calme sur un plan d'eau ou parcours en eau calme et détention du permis de conduire des bateaux de plaisance à moteur option "eaux intérieures" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent.
+
+Les séquences de formation en structure du candidat s'effectuent en fonction du milieu pour lequel l'attestation de capacités et connaissances a été délivrée soit en eau calme, en eau vive ou en mer.
+
+Support "canoë-kayak, eau calme mer et vagues" et "canoë-kayak, eau calme et rivière d'eau vive" sont les suivantes :
+
+- support "canoë-kayak, eau calme mer et vagues" : détention du permis de conduire des bateaux de plaisance à moteur option "côtier" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent ;
+
+- support "canoë-kayak, eau calme et rivière d'eau vive" : détention du permis de conduire des bateaux de plaisance à moteur option "eaux intérieures" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent.
+
+2. Dispenses et équivalences :
+
+Est dispensé du test de sécurité et de la conduite d'une séance d'apprentissage du test de capacités et connaissances préalables mentionné au point 1 de l'annexe IV pour la mention "canoë-kayak et disciplines associées" le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
 "activités nautiques" du B.P. J.E.P.S.
 
@@ -66,9 +86,9 @@ Mention "char à voile" et support "char à voile d'initiation et de découverte
 
 Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention "char à voile" et le support "char à voile d'initiation et de découverte".
 
-1/ Exigences préalables à la mise en situation pédagogique, communes à la mention et au support précités
+1/ Exigences préalables à la mise en situation pédagogique, communes à la mention et au support précités :
 
-: Etre capable de :
+Etre capable de :
 
 - Vérifier la conformité, le réglage, le bon état de fonctionnement du char ou assimilé et de l'équipement individuel.
 
@@ -86,7 +106,7 @@ Les objectifs correspondant aux exigences minimales permettant la mise en situat
 
 2/ Dispenses et équivalences :
 
-Le diplôme de "moniteur fédéral de char à voile" délivré par la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test de capacités et connaissances, préalables à la mise en situation pédagogique pour la mention "char à voile" et le support "char à voile d'initiation et de découverte" de la spécialité "activités nautiques" du B.P. J.E.P.S. Le certificat de qualification professionnelle " assistant moniteur char à voile " dispense du test de capacités et connaissances préalable à la mise en situation pédagogique pour la mention " char à voile " et le support " char à voile d'initiation et de découverte " de la spécialité " activités nautiques " du BPJEPS.
+Le diplôme de "moniteur fédéral de char à voile" délivré par la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test de capacités et connaissances, préalables à la mise en situation pédagogique pour la mention "char à voile" et le support "char à voile d'initiation et de découverte" de la spécialité "activités nautiques" du B.P. J.E.P.S. Le certificat de qualification professionnelle "assistant moniteur char à voile" dispense du test de capacités et connaissances préalable à la mise en situation pédagogique pour la mention "char à voile" et le support "char à voile d'initiation et de découverte" de la spécialité "activités nautiques" du BPJEPS.
 
 Mention "glisses aérotractées"
 
@@ -94,7 +114,7 @@ Mention "glisses aérotractées"
 
 Etre capable de :
 
-- Encadrer une séance de traction à l'aide d'un cerf- volant pour trois élèves sur terre en glissade puis en nage tractée, en eau profonde.
+- Encadrer une séance de traction à l'aide d'un cerf-volant pour trois élèves sur terre en glissade puis en nage tractée, en eau profonde.
 
 - Expliquer les conditions aérologiques et l'état de la mer pour la séance.
 
@@ -102,7 +122,7 @@ Etre capable de :
 
 - Expliquer pourquoi un aéronef captif comme le cerf volant vole et génère de la traction.
 
-- Expliquer le rapport poids / force du vent / surface du cerf volant / maîtrise du pilotage.
+- Expliquer le rapport poids/force du vent /surface du cerf volant /maîtrise du pilotage.
 
 - Expliquer les montages et les réglages des cerfs volants de traction.
 
@@ -132,7 +152,7 @@ Les diplômes de "moniteur fédéral de vol libre", option "glisses aérotracté
 
 de la spécialité "activités nautiques" du B.P. J.E.P.S. Le diplôme de "moniteur fédéral", spécialité "planche nautique tractée" délivré par la fédération française de voile, antérieurement au 5 janvier 2003, dispense du test mentionné à l'alinéa précédent.
 
-Mention "motonautisme " et supports "jet", "bateau à moteur d'initiation et de découverte", "engins tractés"
+Mention "motonautisme" et supports "jet", "bateau à moteur d'initiation et de découverte", "engins tractés"
 
 Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention "motonautisme " et les supports "jet", "bateau à moteur d'initiation et de découverte" et "engins tractés".
 
@@ -280,7 +300,7 @@ Le diplôme de "moniteur fédéral" de parachutisme ascensionnel nautique, tel q
 
 Mention surf.
 
-Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique prévue à l'article 14 de l'arrêté du 18 avril 2002 susvisé, sont définis pour la mention "surf.
+Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique prévue à l'article 14 de l'arrêté du 18 avril 2002 susvisé, sont définis pour la mention "surf".
 
 1. Exigences préalables à la mise en situation pédagogique.
 

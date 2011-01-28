@@ -40,7 +40,7 @@ Dans certaines conditions, des unités capitalisables complémentaires, regroup�
 
 - Aviron : le moniteur d'aviron encadre sur tous types d'embarcation d'aviron, pour tout public et sur tout lieu de pratique de l'activité.
 
-- Canoë-kayak et disciplines associées : Le moniteur encadre les activités du canoë-kayak et les disciplines associées pour tout public, en eau calme, en rivière jusqu'en classe III incluse, en mer dans limite de la navigation en 6ème catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Il conduit des séances d'initiation en kayak de vagues.
+- Canoë-kayak et disciplines associées :  Le moniteur encadre, pour tout public, les activités du canoë-kayak et les disciplines associées, s'organisant sur tout support ou embarcation propulsé à la pagaie ou à la nage, en eau calme, en mer par vent de force 4 au maximum sur le site d'évolution, en eau vive jusqu'en classe III incluse et toute activité s'organisant dans le milieu de l'eau vive jusqu'en classe III incluse dont les activités de canyonisme jusqu'à V1, A5 et E II inclus.
 
 - Char à voile : le moniteur de char à voile encadre des activités de char à voile en pratique assise et allongée, en pratique debout, en pratique tractée pour tout public et pour tout lieu de pratique de l'activité aménagé et ouvert.
 
