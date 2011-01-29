@@ -1,0 +1,3 @@
+# Article 4
+
+A des fins d'enregistrement, l'exploitant communique au téléservice, sous format numérique, le plan de la zone d'implantation de l'ouvrage en position géoréférencée établi avec une incertitude maximale de 10 mètres en plus ou en moins. L'incertitude maximale en plus est portée à 250 mètres pour les réseaux de distribution dans les unités urbaines au sens de l'INSEE. Pour les mêmes ouvrages, lorsque tous les points du territoire de la commune sont situés à moins de 300 mètres de l'ouvrage, l'exploitant en informe le téléservice. Cette information tient lieu de fourniture du plan de la zone d'implantation pour la commune considérée.

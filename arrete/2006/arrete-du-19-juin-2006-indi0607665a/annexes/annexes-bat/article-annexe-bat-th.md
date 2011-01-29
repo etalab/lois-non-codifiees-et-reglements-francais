@@ -1315,104 +1315,227 @@ Sans objet.
 <div align="center">
 
 <div align="left">
-<div align="left">Certificats d'économies d'énergie </div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 </div>
 
 </div>
-<div align="left">Opération n° BAT-TH-13 <p>Pompe à chaleur de type eau/eau<br/>
-</p>
-</div>
 
-1. Secteur d'application :
+Opération n° BAT-TH-13
 
-Bâtiment tertiaire : locaux du  secteur tertiaire existants, de surface totale inférieure à 5 000 m².
+Pompe à chaleur de type eau / eau
 
-2. Dénomination :
+1. Secteur d'application
 
-Mise en place d'une pompe à chaleur  (PAC) de type eau/eau sur un système de chauffage électrique direct.
+Locaux du secteur tertiaire existants, de surface totale inférieure à 5000 m².
 
-3. Conditions pour la délivrance de certificats :
+2. Dénomination
 
-Coefficient  de performance (COP) mesuré selon la norme EN 14511 pour  une  température d'évaporation correspondant au point nominal de la norme et  une  température de sortie d'eau de 35 °C égal ou supérieur à 3,3.
+Mise en place d'une pompe à chaleur (PAC) de type eau / eau.
 
-Mise  en place réalisée par un professionnel.
+3. Conditions pour la délivrance de certificats
 
-4. Durée de vie  conventionnelle :
+Coefficient  de performance (COP), mesuré selon la norme EN 14511 pour une  température d'évaporation correspondant au point nominal de la norme et  une température de sortie d'eau de 35°C, égal ou supérieur à 3,4.
+
+La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Eco-Label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  géothermiques.
+
+4. Durée de vie conventionnelle
 
 20 ans.
 
-5. Montant de certificats  en kWh cumac :
+5. Montant de certificats en kWh cumac
 
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="4">Montant unitaire en kWh cumac / m² </td>
+<td align="center"/>
+<td align="center">Surface <br/>habitable <br/>en m<sup>2</sup>
+</td>
+<td align="center"/>
+<td align="center"> Zone <br/>climatique</td>
+<td align="center">Facteur <br/>correctif </td>
+</tr>
+<tr>
+<td align="center">
+<p>Secteur</p>
+<p>d'activité </p>
+</td>
+<td align="center">3,4 ≤ COP &lt; 3,5 </td>
+<td align="center">3,5 ≤ COP &lt; 4 </td>
+<td align="center">4 ≤ COP </td>
+<td align="center"/>
+<td align="center" rowspan="3">S </td>
+<td align="center"/>
+<td align="center">H1 </td>
+<td align="center">1,1 </td>
+</tr>
+<tr>
+<td align="left">Bureaux </td>
+<td align="center"> 890</td>
+<td align="center">910 <br/>
+</td>
+<td align="center">960 <br/>
+</td>
+<td align="center"> X</td>
+<td align="center">X </td>
+<td align="center">H2 </td>
+<td align="center">0,9 </td>
+</tr>
+<tr>
+<td align="left">Enseignement</td>
+<td align="center"> 610</td>
+<td align="center"> 630</td>
+<td align="center"> 660</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">H3 </td>
+<td align="center">0,6 </td>
+</tr>
+<tr>
+<td align="left">Commerces</td>
+<td align="center"> 650</td>
+<td align="center"> 670</td>
+<td align="center"> 700</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Hôtellerie - <br/>Restauration </td>
+<td align="center"> 580</td>
+<td align="center"> 600</td>
+<td align="center"> 630</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Santé </td>
+<td align="center"> 940</td>
+<td align="center"> 970</td>
+<td align="center"> 1000</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Autres secteurs </td>
+<td align="center"> 580</td>
+<td align="center"> 600</td>
+<td align="center"> 630</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+<div>
+
+<div/>
+<div>
+<br/>
+</div>
+
+</div>
+<div align="center">
+
+</div>
+
+<div align="center"/>
+<div align="center">
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie</div>
+</div>
+
+Opération n° BAT-TH-13-GT
+
+Pompe à chaleur de type eau / eau dans un bâtiment de grande taille
+
+1. Secteur d'application
+
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée entre 5 000 et 10 000 m².
+
+2. Dénomination
+
+Mise en place d'une pompe à chaleur (PAC) de type eau / eau.
+
+3. Conditions pour la délivrance de certificats
+
+Coefficient  de performance (COP), mesuré selon la norme EN 14511 pour une  température d'évaporation correspondant au point nominal de la norme et  une température de sortie d'eau de 35°C, égal ou supérieur à 3,4.
+
+La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Eco-Label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  géothermiques.
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+<div>
+<br/>
+<p align="left">5. Montant de certificats en kWh cumac<br/>
+</p>
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th colspan="5">MONTANT<br/>(en kWh cumac/m²)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>SURFACE<br/>(en m²)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>ZONE<br/>climatique<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>
-</th>
-</tr>
-<tr>
-<th>
-<font size="1">Branche d'activité<br/>
-</font>
-</th>
-<th>
-<font size="1">3 </font>
-<font size="1">
-<b>≤</b> COP &lt; 3,3<br/>(uniquement pour des actions<br/>engagées avant le 1er  janvier 2008)<br/>
-</font>
-</th>
-<th>
-<font size="1">3,3 </font>
-<font size="1">
-<b>≤</b>
-<br/>COP &lt; 3,5<br/>
-</font>
-</th>
-<th>
-<font size="1">3,5 </font>
-<font size="1">
-<b>≤</b> COP &lt; 4<br/>
-</font>
-</th>
-<th>
-<font size="1">4 COP<br/>
-</font>
-</th>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>
-<font size="1">H1<br/>
-</font>
-</th>
-<th>
-<font size="1">1,1<br/>
-</font>
-</th>
-</tr>
-<tr>
-<td align="center">Bureaux<br/>
+<td align="center" colspan="4">Montant unitaire en kWh cumac / m²<br/>
 </td>
-<td align="center">1 000<br/>
+<td rowspan="4">
+<p>X<br/>
+</p>
+</td>
+<td align="center">Surface<br/>habitable<br/>(en m²)<br/>
+</td>
+<td align="center" rowspan="4">
+<p>X<br/>
+</p>
+</td>
+<td align="center">Zone <br/>climatique<br/>
+</td>
+<td align="center">Facteur <br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Branche d'activité<br/>
+</td>
+<td align="center">3,4 ≤ COP &lt; 3,5<br/>
+</td>
+<td align="center">3,5 ≤ COP &lt; 4<br/>
+</td>
+<td align="center">4 ≤ COP<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>S<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Bureaux<br/>
 </td>
 <td align="center">1 100<br/>
 </td>
@@ -1420,25 +1543,13 @@ Mise  en place réalisée par un professionnel.
 </td>
 <td align="center">1 200<br/>
 </td>
-<td align="center" rowspan="2">
-<b>X</b>
-<br/>
-</td>
-<td align="center" rowspan="2">S<br/>
-</td>
-<td align="center" rowspan="2">
-<b>X</b>
-<br/>
-</td>
 <td align="center">H2<br/>
 </td>
 <td align="center">0,9<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Enseignement<br/>
-</td>
-<td align="center">680<br/>
+<td align="left">Enseignement<br/>
 </td>
 <td align="center">710<br/>
 </td>
@@ -1452,9 +1563,7 @@ Mise  en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center">Commerces<br/>
-</td>
-<td align="center">760<br/>
+<td align="left">Commerces<br/>
 </td>
 <td align="center">790<br/>
 </td>
@@ -1464,9 +1573,10 @@ Mise  en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center">Hôtellerie-restauration<br/>
-</td>
-<td align="center">820<br/>
+<td align="left">
+<p>Hôtellerie-</p>
+<p>Restauration<br/>
+</p>
 </td>
 <td align="center">860<br/>
 </td>
@@ -1476,9 +1586,7 @@ Mise  en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center">Santé<br/>
-</td>
-<td align="center">950<br/>
+<td align="left">Santé<br/>
 </td>
 <td align="center">990<br/>
 </td>
@@ -1487,127 +1595,11 @@ Mise  en place réalisée par un professionnel.
 <td align="center">1 100<br/>
 </td>
 </tr>
-</tbody>
-</table>
-
-</div>
-
-<div align="center"/>
-<div align="center">
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAT-TH-13-GT</p>
-<div align="left">
-<br/>Pompe à chaleur de type eau/eau<br/>dans bâtiment de grande taille</div>
-<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise en place d'une pompe à  chaleur (PAC) de type eau/eau sur un système de chauffage électrique direct.<br/>3. Conditions pour la délivrance de certificats :<br/>Coefficient  de performance (COP) mesuré selon la norme EN 14511 pour  une  température d'évaporation correspondant au point nominal de la norme et  une  température de sortie d'eau de 35 °C égal ou supérieur à 3,3.<br/>Mise  en place réalisée par un professionnel.<br/>4. Durée de vie  conventionnelle :<br/>20 ans.<br/>5. Montant de certificats  en kWh cumac :<br/>
-</p>
-<div align="center">
-
-<table>
-<tbody>
 <tr>
-<td align="center" colspan="5">MONTANT<br/>en kWh cumac/m²<br/>
-</td>
-<td rowspan="4">
-<p>X<br/>
-</p>
-</td>
-<td align="center">SURFACE<br/>chauffée<br/>(en m²)<br/>
-</td>
-<td align="center" rowspan="4">
-<p>X<br/>
-</p>
-</td>
-<td align="center">ZONE<br/>climatique<br/>
-</td>
-<td align="center">FACTEUR<br/>correctif<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Branche d'activité<br/>
-</td>
-<td align="center">3 ≤COP &lt; 3,3<br/>(uniquement<br/>pour  des actions<br/>engagées avant<br/>le 1er janvier 2008)<br/>
-</td>
-<td align="center">3,3 ≤ COP &lt; 3,5<br/>
-</td>
-<td align="center">3,5 ≤ COP &lt; 4<br/>
-</td>
-<td align="center">4 ≤ COP<br/>
-</td>
-<td align="center" rowspan="3">
-<br/>S<br/>
-</td>
-<td align="center">H1<br/>
-</td>
-<td align="center">1,1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Bureaux<br/>
-</td>
-<td align="center">850<br/>
-</td>
-<td align="center">890<br/>
-</td>
-<td align="center">910<br/>
-</td>
-<td align="center">960<br/>
-</td>
-<td align="center">H2<br/>
-</td>
-<td align="center">0,9<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Enseignement<br/>
-</td>
-<td align="center">590<br/>
-</td>
-<td align="center">610<br/>
-</td>
-<td align="center">630<br/>
-</td>
-<td align="center">660<br/>
-</td>
-<td align="center">H3<br/>
-</td>
-<td align="center">0,6<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commerces<br/>
-</td>
-<td align="center">620<br/>
-</td>
-<td align="center">650<br/>
-</td>
-<td align="center">670<br/>
-</td>
-<td align="center">700<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Hôtellerie-restauration<br/>
-</td>
-<td align="center">560<br/>
-</td>
-<td align="center">580<br/>
-</td>
-<td align="center">600<br/>
-</td>
-<td align="center">630<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Santé<br/>
-</td>
-<td align="center">900<br/>
-</td>
-<td align="center">940<br/>
-</td>
-<td align="center">970<br/>
-</td>
-<td align="center">1 010<br/>
-</td>
+<td>Autres secteurs </td>
+<td align="center"> 710</td>
+<td align="center"> 720</td>
+<td align="center"> 760</td>
 </tr>
 </tbody>
 </table>
@@ -1618,349 +1610,271 @@ Mise  en place réalisée par un professionnel.
 </div>
 <div align="center"/>
 <div align="center"/>
-<div align="left">Certificats d'économies d'énergie </div>
-<div align="left">
-<p>Opération n° BAT-TH-14</p>
-<p>Pompe à chaleur de type air/eau<br/>
-</p>
-</div>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
-1. Secteur d'application :
+Opération n° BAT-TH-14
 
-Bâtiment tertiaire : locaux du  secteur tertiaire existants de surface totale inférieure à 5 000 m².
+Pompe à chaleur de type air / eau
 
-2. Dénomination :
+1. Secteur d'application
 
-Mise en place d'une pompe à chaleur  (PAC) de type air/eau pour un système de chauffage électrique direct.
+Locaux du secteur tertiaire existants de surface totale inférieure à 5 000 m².
 
-3. Conditions pour la délivrance de certificats :
+2. Dénomination
 
-Coefficient  de performance (COP) mesuré selon la norme EN 14511 pour  une  température extérieure de + 7 °C et une température de sortie d'eau de  35 °C  égal ou supérieur à 3,3.
+Mise en place d'une pompe à chaleur (PAC) de type air / eau.
 
-Mise en place réalisée par un  professionnel.
+3. Conditions pour la délivrance de certificats
 
-4. Durée de vie conventionnelle :
+Coefficient  de performance (COP), mesuré selon la norme EN 14511 pour une  température d'évaporation correspondant au point nominal de la norme et  une température de sortie d'eau de 35°C, égal ou supérieur à 3,4.
 
-20  ans.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
-5. Montant de certificats en kWh cumac :
+Mise en place réalisée par un professionnel.
 
-<div align="center">
+Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  aérothermiques.
+
+4. Durée de vie conventionnelle
+
+20 ans.
+
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<th colspan="5">MONTANT<br/>(en kWh cumac/m²)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>SURFACE<br/>(en m²)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>ZONE<br/>climatique<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>
-</th>
+<td align="center" colspan="4">Montant unitaire en kWh cumac / m²</td>
+<td align="center"/>
+<td align="center"> Surface <br/>habitable en <br/>m²</td>
+<td align="center"/>
+<td align="center">Zone <br/>climatique </td>
+<td align="center">Facteur <br/>correctif </td>
 </tr>
 <tr>
-<th>
-<font size="1">Branche d'activité<br/>
-</font>
-</th>
-<th>
-<font size="1">3 </font>
-<font size="1">
-<b>≤ </b>
-</font>
-<font size="1">COP &lt;  3,3<br/>(uniquement pour des actions<br/>engagées avant le  1er janvier 2008)<br/>
-</font>
-</th>
-<th>
-<font size="1">3,3 </font>
-<font size="1">
-<b>≤</b>
-</font>
-<font size="1">
-<br/>COP &lt; 3,5<br/>
-</font>
-</th>
-<th>
-<font size="1">3,5 </font>
-<font size="1">
-<b>≤</b>
-</font>
-<font size="1"> COP<br/>
-</font>
-<font size="1">
-<b>≤</b>
-</font>
-<font size="1"> 4<br/>
-</font>
-</th>
-<th>
-<font size="1">4 </font>
-<font size="1">
-<b>≤</b>
-</font>
-<font size="1"> COP<br/>
-</font>
-</th>
-<th>
-<font size="1">
-<br/>
-</font>
-</th>
-<th>
-<font size="1">
-<br/>
-</font>
-</th>
-<th>
-<font size="1">
-<br/>
-</font>
-</th>
-<th>
-<font size="1">H1<br/>
-</font>
-</th>
-<th>
-<font size="1">1,1<br/>
-</font>
-</th>
+<td align="center">Secteur <br/>d'activité </td>
+<td align="center">3,4 ≤ COP &lt; 3,5 </td>
+<td align="center"> 3,5 ≤ COP ≤ 4</td>
+<td align="center">4 ≤ COP </td>
+<td align="center"/>
+<td align="center" rowspan="3"> S </td>
+<td align="center"/>
+<td align="center">H1 </td>
+<td align="center">1,1 </td>
 </tr>
 <tr>
-<td align="center">Bureaux<br/>
+<td align="left">Bureaux </td>
+<td align="center"> 1 000<br/>
 </td>
-<td align="center">980<br/>
+<td align="center"> 1 100<br/>
 </td>
-<td align="center">1 000<br/>
+<td align="center"> 1 100<br/>
 </td>
-<td align="center">1 100<br/>
-</td>
-<td align="center">1 100<br/>
-</td>
-<td align="center" rowspan="2">
-<b>X</b>
-<br/>
-</td>
-<td align="center">S<br/>
-</td>
-<td align="center" rowspan="2">
-<b>X</b>
-<br/>
-</td>
-<td align="center">H2<br/>
-</td>
-<td align="center">0,9<br/>
-</td>
+<td align="center">X </td>
+<td align="center">X </td>
+<td align="center">H2 </td>
+<td align="center"> 0,9</td>
 </tr>
 <tr>
-<td align="center">Enseignement<br/>
-</td>
-<td align="center">640<br/>
-</td>
-<td align="center">670<br/>
-</td>
-<td align="center">680<br/>
-</td>
-<td align="center">720<br/>
+<td align="left">Enseignement </td>
+<td align="center"> 670</td>
+<td align="center"> 680</td>
+<td align="center"> 720</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">H3 </td>
+<td align="center">0,6 </td>
+</tr>
+<tr>
+<td align="left">Commerces </td>
+<td align="center"> 750</td>
+<td align="center"> 770</td>
+<td align="center"> 800</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Hôtellerie - <br/>Restauration </td>
+<td align="center"> 820</td>
+<td align="center"> 840</td>
+<td align="center"> 880</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Santé </td>
+<td align="center"> 940</td>
+<td align="center"> 960</td>
+<td align="center"> 1 000<br/>
 </td>
 <td align="center"/>
-<td align="center">H3<br/>
-</td>
-<td align="center">0,6<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">Commerces<br/>
-</td>
-<td align="center">720<br/>
-</td>
-<td align="center">750<br/>
-</td>
-<td align="center">770<br/>
-</td>
-<td align="center">800<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Hôtellerie-restauration<br/>
-</td>
-<td align="center">780<br/>
-</td>
-<td align="center">820<br/>
-</td>
-<td align="center">840<br/>
-</td>
-<td align="center">880<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Santé<br/>
-</td>
-<td align="center">900<br/>
-</td>
-<td align="center">940<br/>
-</td>
-<td align="center">960<br/>
-</td>
-<td align="center">1 000<br/>
-</td>
+<td align="left">Autres secteurs </td>
+<td align="center"> 670</td>
+<td align="center"> 680</td>
+<td align="center"> 720</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
+<div align="center">
 
 </div>
 
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-14-GT
 
-Pompe à chaleur de type air/eau
+Pompe à chaleur de type air / eau dans un bâtiment de grande taille
 
-dans bâtiment de grande taille
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux du secteur tertiaire existants de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
 
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².
+2. Dénomination
 
-2. Dénomination :
+Mise en place d'une pompe à chaleur (PAC) de type air / eau.
 
-Mise en place d'une pompe à  chaleur (PAC) de type air/eau pour un système de chauffage électrique direct.
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la délivrance de certificats :
+Coefficient  de performance (COP), mesuré selon la norme EN 14511 pour une  température d'évaporation correspondant au point nominal de la norme et  une température de sortie d'eau de 35°C, égal ou supérieur à 3,4.
 
-Coefficient  de performance (COP) mesuré selon la norme EN 14511 pour  une  température extérieure de + 7 °C et une température de sortie d'eau de  35 °C  égal ou supérieur à 3,3.
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
-Mise en place réalisée par un  professionnel.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  aérothermiques.
 
-20  ans.
+4. Durée de vie conventionnelle
 
-5. Montant de certificats en kWh cumac :
+20 ans.
 
-<div align="center">
-
-<table>
+5. Montant de certificats en kWh cumac<table>
 <tbody>
 <tr>
-<td align="center" colspan="5">MONTANT<br/>en kWh cumac/m²<br/>
+<td align="center" colspan="4">Montant unitaire en kWh cumac / m²</td>
+<td align="center"/>
+<td align="center">
+<p> Surface <br/>habitable </p>
+<p>en m²</p>
 </td>
-<td rowspan="4">
-<p>X<br/>
-</p>
-</td>
-<td align="center">SURFACE<br/>chauffée<br/>(en m²)<br/>
-</td>
-<td align="center" rowspan="4">
-<p>X<br/>
-</p>
-</td>
-<td align="center">ZONE<br/>climatique<br/>
-</td>
-<td align="center">FACTEUR<br/>correctif<br/>
-</td>
+<td align="center"/>
+<td align="center">Zone <br/>climatique </td>
+<td align="center">Facteur <br/>correctif </td>
 </tr>
 <tr>
-<td align="center">Branche d'activité<br/>
-</td>
-<td align="center">3 ≤COP &lt; 3,3<br/>(uniquement<br/>pour  des actions<br/>engagées avant<br/>le 1er janvier 2008)<br/>
-</td>
-<td align="center">3,3 ≤ COP &lt; 3,5<br/>
-</td>
-<td align="center">3,5 ≤ COP &lt; 4<br/>
-</td>
-<td align="center">4 ≤ COP<br/>
-</td>
-<td align="center" rowspan="3">
-<br/>S<br/>
-</td>
-<td align="center">H1<br/>
-</td>
-<td align="center">1,1<br/>
-</td>
+<td align="center">Secteur <br/>d'activité </td>
+<td align="center">3,4 ≤ COP &lt; 3,5 </td>
+<td align="center"> 3,5 ≤ COP ≤ 4</td>
+<td align="center">4 ≤ COP </td>
+<td align="center"/>
+<td align="center" rowspan="3"> S </td>
+<td align="center"/>
+<td align="center">H1 </td>
+<td align="center">1,1 </td>
 </tr>
 <tr>
-<td align="center">Bureaux<br/>
+<td align="left">Bureaux </td>
+<td align="center">  840<br/>
 </td>
-<td align="center">810<br/>
+<td align="center"> 870<br/>
 </td>
-<td align="center">840<br/>
+<td align="center"> 910<br/>
 </td>
-<td align="center">870<br/>
-</td>
-<td align="center">910<br/>
-</td>
-<td align="center">H2<br/>
-</td>
-<td align="center">0,9<br/>
-</td>
+<td align="center">X </td>
+<td align="center">X </td>
+<td align="center">H2 </td>
+<td align="center"> 0,9</td>
 </tr>
 <tr>
-<td align="center">Enseignement<br/>
+<td align="left">Enseignement </td>
+<td align="center">  580<br/>
 </td>
-<td align="center">560<br/>
-</td>
-<td align="center">580<br/>
-</td>
-<td align="center">600<br/>
-</td>
-<td align="center">630<br/>
-</td>
-<td align="center">H3<br/>
-</td>
-<td align="center">0,6<br/>
-</td>
+<td align="center"> 600</td>
+<td align="center"> 630</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">H3 </td>
+<td align="center">0,6 </td>
 </tr>
 <tr>
-<td align="center">Commerces<br/>
+<td align="left">Commerces </td>
+<td align="center">  620<br/>
 </td>
-<td align="center">590<br/>
-</td>
-<td align="center">620<br/>
-</td>
-<td align="center">640<br/>
-</td>
-<td align="center">670<br/>
-</td>
+<td align="center"> 640</td>
+<td align="center"> 670</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">Hôtellerie-restauration<br/>
-</td>
-<td align="center">530<br/>
-</td>
-<td align="center">550<br/>
-</td>
-<td align="center">570<br/>
-</td>
-<td align="center">600<br/>
-</td>
+<td align="left">Hôtellerie - <br/>Restauration </td>
+<td align="center">  550</td>
+<td align="center"> 570</td>
+<td align="center"> 600</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">Santé<br/>
+<td align="left">Santé </td>
+<td align="center">  890<br/>
 </td>
-<td align="center">860<br/>
+<td align="center"> 920</td>
+<td align="center"> 960<br/>
 </td>
-<td align="center">890<br/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">Autres secteurs </td>
+<td align="center">  550<br/>
 </td>
-<td align="center">920<br/>
-</td>
-<td align="center">960<br/>
-</td>
+<td align="center"> 570</td>
+<td align="center"> 600</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
 
-</div>
-<div align="center">
-
-</div>
-
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-15
@@ -1969,11 +1883,11 @@ Climatiseur de classe A (DOM)
 
 1. Secteur d'application
 
-Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, de surface totale inférieure ou égale à 10 000 m2, dans  les départements d'outre-mer.
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique,  de surface totale inférieure ou égale à 10 000 m², dans les  départements d'outre-mer.
 
 2. Dénomination
 
-Mise  en place d'un climatiseur fixe de classe A, individuel (monosplit) ou  regroupé (multisplit), pour des applications dont les besoins en  climatisation sont inférieurs à 50 kW froid.
+Mise en  place d'un climatiseur fixe de classe A, individuel (monosplit) ou  regroupé (multisplit), pour des applications dont les besoins en  climatisation sont inférieurs à 50 kW froid.
 
 3. Conditions pour la délivrance de certificats
 
@@ -1983,59 +1897,77 @@ Mise en place par un professionnel.
 
 4. Durée de vie conventionnelle
 
-9 ans
+9 ans.
 
 5. Montant de certificats en kWh cumac
 
-<div align="left">
 <table>
 <tbody>
 <tr>
 <td align="center">Secteur d'activité </td>
-<td align="center">4,5 &lt; EER(1) &lt; 3,2 </td>
-<td align="center"> 4,5 ≤   EER</td>
+<td align="center">4.5 &lt; EER<sup>(1)</sup> &lt; 3.2 </td>
+<td align="center">4.5 ≤  EER </td>
 <td align="center"/>
-<td align="center"> Puissance de <br/>l'appareil <br/>(BTU/h)</td>
+<td align="center">Puissance de <br/>l'appareil (BTU/h) </td>
 <td align="center">Facteur <br/>correctif </td>
 </tr>
 <tr>
 <td align="left">Bureaux </td>
-<td align="center">6 900 </td>
-<td align="center"> 13 000</td>
+<td align="center">6 900 <br/>
+</td>
+<td align="center">13 000 <br/>
+</td>
 <td align="center"/>
 <td align="center"> 7000</td>
-<td align="center"> 0,6</td>
+<td align="center">0,6 </td>
 </tr>
 <tr>
 <td align="left">Enseignement </td>
-<td align="center">4 600 </td>
-<td align="center"> 8 300</td>
+<td align="center"> 4 600<br/>
+</td>
+<td align="center"> 8 300<br/>
+</td>
 <td align="center"/>
-<td align="center">9 000 </td>
+<td align="center"> 9 000<br/>
+</td>
 <td align="center"> 0,75</td>
 </tr>
 <tr>
-<td align="left">Commerces </td>
-<td align="center">11 000 </td>
-<td align="center">20 000 </td>
+<td align="left">Commerce </td>
+<td align="center"> 11 000<br/>
+</td>
+<td align="center"> 20 000<br/>
+</td>
 <td align="center">X </td>
-<td align="center">12 000 </td>
-<td align="center">1 </td>
+<td align="center"> 12 000<br/>
+</td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td align="left">Hôtels </td>
-<td align="center">11 000 </td>
-<td align="center">20 000 </td>
+<td align="center"> 11 000<br/>
+</td>
+<td align="center"> 20 000<br/>
+</td>
 <td align="center"/>
-<td align="center">15 000 </td>
-<td align="center">1,3 </td>
+<td align="center" rowspan="2"> 15 000 <br/>
+</td>
+<td align="center" rowspan="2"> 1,3</td>
 </tr>
 <tr>
 <td align="left">Autres secteurs </td>
-<td align="center">4 600 </td>
-<td align="center"> 8 300</td>
+<td align="center"> 4 600<br/>
+</td>
+<td align="center"> 8 300<br/>
+</td>
 <td align="center"/>
-<td align="center">18 000 </td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">18 000</td>
 <td align="center">1,5 </td>
 </tr>
 <tr>
@@ -2044,20 +1976,32 @@ Mise en place par un professionnel.
 <td align="center"/>
 <td align="center"/>
 <td align="center"> 21 000</td>
-<td align="center">1,8 </td>
+<td align="center"> 1,8</td>
 </tr>
 <tr>
 <td align="left"/>
 <td align="center"/>
 <td align="center"/>
 <td align="center"/>
-<td align="center"> 24 000</td>
+<td align="center">  24 000</td>
 <td align="center">2 </td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> 28 000<br/>
+</td>
+<td align="center"> 2,33</td>
 </tr>
 </tbody>
 </table>
-<p>(1) : Energy efficiency ratio </p>
-<p>En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus pour cette  action menée dans les DOM.</p>
+
+(1) : Energy efficiency ratio
+
+<div align="left">
+<br/>
 </div>
 
 Certificats d'économies d'énergie
@@ -2287,7 +2231,9 @@ Mise en place réalisée par un  professionnel.
 <p align="left">Opération n° BAT-TH-17-GT</p>
 <p align="left">
 <br/>Programmateur d'intermittence pour un chauffage  électrique<br/>dans bâtiment de grande taille</p>
-<div align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise  en place sur un système  de chauffage électrique d'un programmateur  d'intermittence à heures fixes  assurant une programmation journalière  et hebdomadaire de la fourniture de  chaleur selon les quatre allures  suivantes : confort, réduit, hors-gel et  arrêt.<br/>3. Conditions pour la délivrance de certificats :<br/>Mise en place réalisée par un professionnel.<br/>4. Durée  de vie conventionnelle :<br/>15 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
+<div align="left">
+<div align="left">1. Secteur d'application :<br/>
+</div>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise  en place sur un système  de chauffage électrique d'un programmateur  d'intermittence à heures fixes  assurant une programmation journalière  et hebdomadaire de la fourniture de  chaleur selon les quatre allures  suivantes : confort, réduit, hors-gel et  arrêt.<br/>3. Conditions pour la délivrance de certificats :<br/>Mise en place réalisée par un professionnel.<br/>4. Durée  de vie conventionnelle :<br/>15 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
 </div>
 <div align="center">
 
@@ -2545,6 +2491,8 @@ Fiche de dimensionnement à réaliser par l'installateur.
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-21
@@ -2561,7 +2509,7 @@ Mise en place d'un chauffe-eau solaire de type individuel (CESI).
 
 3. Conditions pour la délivrance de certificats
 
-Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les  normes NF EN 12975 ou NF EN 12976 et établies par un organisme  établi dans l'espace économique européen et accrédité selon les normes  NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
+Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les normes NF EN 12975 ou NF EN 12976 et établies par un organisme  établi dans l'espace économique européen et accrédité selon les normes  NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
 
 Le dimensionnement de l'installation est réalisé par un bureau d'études.
 
@@ -2569,7 +2517,7 @@ Mise  en place réalisée par un professionnel signataire de la charte Qualisol 
 
 4. Durée de vie conventionnelle
 
-12 ans
+12 ans.
 
 5. Montant de certificats en kWh cumac<table>
 <tbody>
@@ -2578,7 +2526,10 @@ Mise  en place réalisée par un professionnel signataire de la charte Qualisol 
 <td align="center"> Montant en<br/>kWh cumac / m² <br/>de capteurs posés<br/>
 </td>
 <td align="center"/>
-<td align="center">Surface de capteurs <br/>posés en m² </td>
+<td align="center">
+<p>Surface de capteurs posés </p>
+<p>en m² </p>
+</td>
 </tr>
 <tr>
 <td align="left">Hôtellerie/Hébergement </td>
@@ -2608,48 +2559,43 @@ Mise  en place réalisée par un professionnel signataire de la charte Qualisol 
 </tr>
 </tbody>
 </table>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
+Opération n° BAT-TH-22
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-TH-22</p>
-<p>Programmateur d'intermittence<br/>pour la  climatisation (DOM)<br/>
-</p>
-</div>
+Programmateur d'intermittence pour la climatisation (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiments  tertiaires : locaux du  secteur tertiaire existants réservés à une  utilisation professionnelle, de  surface totale inférieure à 5 000 m²,  dans les départements d'outre-mer.
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale inférieure à 5 000 m², dans les  départements d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise  en place d'un programmateur  d'intermittence à heures fixes assurant  une programmation journalière et  hebdomadaire de la fourniture de froid  selon les allures suivantes : confort,  réduit et arrêt.
+Mise en  place d'un programmateur d'intermittence à heures fixes assurant une  programmation journalière et hebdomadaire de la fourniture de froid  selon les allures suivantes : confort, réduit et arrêt.
 
-3. Conditions particulières à l'obtention de  certificats :
+3. Conditions pour la délivrance de certificats
 
-Le  local concerné doit être préalablement équipé  d'une climatisation  centralisée dont la puissance frigorifique totale est  supérieure à 50  kW.
+Le  local concerné doit être préalablement équipé d'une climatisation  centralisée dont la puissance frigorifique totale est supérieure à 50  kW.
 
 Installation réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 12 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>BRANCHE<br/>d'activité<br/>
-</th>
-<th>MONTANT<br/>(en kWh cumac/m²)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>SURFACE<br/>climatisée<br/>(en m²)<br/>
-</th>
+<td align="center">Secteur d'activité </td>
+<td align="center">Montant en kWh cumac / m² </td>
+<td align="center"/>
+<td align="center">Surface <br/>climatisée en m² </td>
 </tr>
 <tr>
 <td align="center">Bureaux<br/>
@@ -2680,11 +2626,8 @@ Installation réalisée par un professionnel.
 
 </div>
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM. <div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie </div>
+Certificats d'économies d'énergie
+
 <div align="left">
 <p>Opération n° BAT-TH-23</p>
 <p>Ventilation mécanique modulée proportionnelle<br/>
@@ -3894,43 +3837,41 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-30
 
-Récupération de chaleur sur groupe de production  de froid
+Récupérateur de chaleur sur groupe de production de froid pour le préchauffage d'eau chaude sanitaire (DOM)
 
-pour le préchauffage d'eau chaude sanitaire (DOM)
+1. Secteur d'application
 
-1. Secteur d'application :
+Locaux  du secteur tertiaire existants ou neufs en l'absence de réglementation  thermique réservés à une utilisation professionnelle, d'une surface  totale chauffée inférieure ou égale à 10 000m², dans les départements  d'outre-mer.
 
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique réservés à une utilisation  professionnelle, d'une surface totale  chauffée inférieure ou égale à 10  000 m², dans les départements d'outre-mer.
+2. Dénomination
 
-2. Dénomination :
+Mise en place sur un  groupe froid d'un condenseur ou d'un désurchauffeur associé à un  échangeur thermique afin de préchauffer de l'eau chaude sanitaire (ECS).
 
-Mise  en place sur un groupe froid  d'un condenseur ou d'un désurchauffeur  associé à un échangeur thermique afin de  préchauffer de l'eau chaude  sanitaire (ECS).
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la  délivrance de certificats :
+La  puissance du condenseur (P condenseur en kW) ou du désurchauffeur (P  désurchauffeur en kW) ainsi que le volume moyen d'ECS consommé par jour  (VECS en m3/jour ) établis par l' étude thermique préalable doivent être  fournis.
 
-La  puissance du condenseur (P  condenseur en kW) ou du désurchauffeur (P  désurchauffeur en kW) ainsi que le  volume moyen d'ECS consommé par jour  (VECS en m³/jour) établis par l'étude  thermique préalable doivent être  fournis.
+Mise en place réalisée par un professionnel.
 
-Mise en place réalisée  par un professionnel.
-
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 9 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-― cas d'une récupération sur condenseur :
+- Cas d'une récupération sur condenseur :
 
-2 820* Min [P condenseur × 7,5 ; 23,2 × VECS]
+2 820* Min [ P <sub>condenseur</sub> x 7,5  ; 23,2 x V<sub>ECS</sub> ]
 
-― cas d'une récupération sur désurchauffeur :
+- Cas d'une récupération sur désurchauffeur :
 
-2 820* Min [P désurchauffeur × 11,25 ; 34,8 × VECS]
-
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
+2 820 * Min [ P <sub>désurchauffeur</sub> x 11,25 ; 34,8 x V<sub>ECS</sub> ]
 
 Certificats d'économies d'énergie
 
@@ -3993,59 +3934,59 @@ Mise en place par  un professionnel.
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-32
 
-Groupe de production d'eau glacée avec  condenseur sur eau (DOM)
+Groupe de production d'eau glacée avec condenseur sur eau (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique, réservés à une utilisation  professionnelle, de surface totale  ventilée inférieure ou égale à 10  000 m², dans les départements d'outre-mer.
+Locaux  du secteur tertiaire existants ou neufs en l'absence de réglementation  thermique, réservés à une utilisation professionnelle, de surface totale  ventilée inférieure ou égale à 10 000 m², dans les départements  d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'un groupe de  production d'eau glacée à condensation sur eau.
+Mise en place d'un groupe de production d'eau glacée à condensation sur eau.
 
-3. Conditions pour  la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Une étude thermique justifie :
 
-― l'origine naturelle de l'eau utilisée ;
+- l'origine naturelle de l'eau utilisée ;
 
-― la  puissance installée du compresseur eau/eau (Pcomp eau/eau) ;
+- la puissance installée du compresseur eau / eau (Pcomp eau/eau ) ;
 
-― la  puissance de la pompe de circulation de l'eau de refroidissement du condenseur  (Ppompe cond) ;
+- la puissance de la pompe de circulation de l'eau de refroidissement du condenseur (Ppompe cond) ;
 
-― la plage de température de la source en  C°(T).
+- la plage de température de la source en C° (T).
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
 15 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2">BRANCHE D'ACTIVITÉ<br/>
+<td align="center" rowspan="2">Secteur d'activité<br/>
 </td>
-<td align="center" rowspan="2">MONTANT EN<br/>kWh cumac<br/>
+<td align="center" rowspan="2">Montant en <br/>kWh cumac<br/>
 </td>
 <td align="center" rowspan="5">
 <br/>×<br/>
 </td>
-<td align="center">TEMPÉRATURE<br/>de la source en °C<br/>
+<td align="center">Température de la <br/>source (en °C)<br/>
 </td>
-<td align="center">FACTEUR CORRECTIF<br/>
+<td align="center">Facteur correctif<br/>
 </td>
 </tr>
 <tr>
 <td align="center">10 ≤ T &lt; 15<br/>
 </td>
-<td align="center">1,5 × (Pcomp eau/eau - Ppompe cond)<br/>
+<td align="center">1,5 × (Pc<sub>omp eau/eau</sub> - P<sub>pompe cond</sub>)<br/>
 </td>
 </tr>
 <tr>
@@ -4055,7 +3996,8 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">15 ≤ T &lt; 20<br/>
 </td>
-<td align="center">Pcomp eau/eau - Ppompe cond<br/>
+<td align="center">P<sub>comp eau/eau</sub> - P<sub>pompe cond</sub>
+<br/>
 </td>
 </tr>
 <tr>
@@ -4065,7 +4007,7 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">20 ≤ T &lt; 25<br/>
 </td>
-<td align="center">0,7 × (Pcomp eau/eau - Ppompe cond)<br/>
+<td align="center">0,7 × (P<sub>comp eau/eau</sub> - P<sub>pompe cond</sub>)<br/>
 </td>
 </tr>
 <tr>
@@ -4075,49 +4017,44 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">25 ≤ T &lt; 30<br/>
 </td>
-<td align="center">0,5 × (Pcomp eau/eau - Ppompe cond)<br/>
+<td align="center">0,5 × (P<sub>comp eau/eau</sub> - P<sub>pompe cond</sub>)<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-<div align="left">
-<br/>En application de l'article 3 du décret n° 2006-603 du 23  mai 2006  relatif aux certificats d'économies d'énergie, il est  attribué le  double du montant des kWh cumac obtenu par le calcul ci-dessus pour   cette action menée dans les DOM.<br/>
-</div>
-
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-33
 
-<div align="left">Echangeur air neuf/air extrait<br/>sur  centrale de traitement d'air (DOM)<br/>
-</div>
+Échangeur air neuf / air extrait sur centrale de traitement d'air (DOM)
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique, réservés à une utilisation  professionnelle, de surface totale  ventilée inférieure ou égale à 10  000 m², dans les départements d'outre-mer.
+Locaux  du secteur tertiaire existants ou neufs en l'absence de réglementation  thermique, réservés à une utilisation professionnelle, de surface totale  ventilée inférieure ou égale à 10 000 m², dans les départements  d'outre-mer.
 
-2. Dénomination :
+2. Dénomination
 
-Mise  en place sur une centrale de  traitement d'air (CTA) d'un échangeur  thermique entre air neuf et air extrait  d'une efficacité supérieure ou  égale à 65 % mesurée selon la norme NF EN  13141-7.
+Mise en place sur une  centrale de traitement d'air (CTA) d'un échangeur thermique entre air  neuf et air extrait d'une efficacité supérieure ou égale à 65 % mesurée  selon la norme NF EN 13141-7.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Une étude thermique définit en m³/heure le débit d'air neuf insufflé  par la CTA au point nominal (DCTA).
+Une étude thermique définit en m3/heure le débit d'air neuf insufflé par la CTA au point nominal (DCTA).
 
-Mise en place réalisée par un  professionnel.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-15  ans.
+15 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<td align="center">BRANCHE<br/>d'activité<br/>
+<td align="center">Secteur d'activité<br/>
 </td>
-<td align="center">MONTANT UNITAIRE<br/>(en kWh cumac/m³/heure)<br/>
+<td align="center">Montant unitaire en kWh cumac/ m3/heure<br/>
 </td>
 <td align="center" rowspan="4">
 <br/>X<br/>
@@ -4139,18 +4076,13 @@ Mise en place réalisée par un  professionnel.
 </td>
 </tr>
 <tr>
-<td align="center">Hôtellerie-restauration<br/>
+<td align="center">Hôtellerie-Restauration<br/>
 </td>
 <td align="center">45<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="left">
-<p>En application de l'article 3 du décret n° 2006-603 du 23  mai 2006  relatif aux certificats d'économies d'énergie, il est  attribué le  double du montant des kWh cumac obtenu par le calcul ci-dessus pour   cette action menée dans les DOM.  <br/>
-</p>
-</div>
 
 <div align="left">Certificats d'économies d'énergie</div>
 
@@ -4431,7 +4363,7 @@ Avec :
 </div>
 
 <div align="center"/>
-<div align="left"> Certificats d'économies d'énergie</div>
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-35
 
@@ -4439,7 +4371,7 @@ Régulation permettant d'avoir une haute pression flottante (DOM)
 
 1. Secteur d'application
 
-Locaux  de distribution alimentaire, de produits réfrigérés et/ou surgelés,  pour le public (hypermarchés, supermarchés, petits magasins alimentaires  et/ou entrepôts de stockage positifs et négatifs, etc.), existants ou  neufs en l'absence de réglementation thermique dans les DOM, de surface  totale inférieure ou égale à 10 000 m2, dans les départements  d'outre-mer.
+Locaux  de distribution alimentaire, de produits réfrigérés et/ou surgelés,  pour le public (hypermarchés, supermarchés, petits magasins alimentaires  et/ou entrepôts de stockage positifs et négatifs, etc.), existants ou  neufs en l'absence de réglementation thermique dans les DOM, de surface  totale inférieure ou égale à 10 000 m<sup>2</sup>, dans les départements d'outre-mer.
 
 2. Dénomination
 
@@ -4453,7 +4385,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-10 ans
+10 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -4521,7 +4453,7 @@ P (kW )  x  2 100 kWh  x  C<sub>DT</sub>  x  C<sub>Tcd Ini</sub>
 <table>
 <tbody>
 <tr>
-<td align="center">T <br/>Condensation <br/>Initiale (°C) </td>
+<td align="center">T Condensation <br/>Initiale (°C) </td>
 <td align="center"> 45</td>
 <td align="center">44 <br/>
 </td>
@@ -4551,7 +4483,9 @@ P (kW )  x  2 100 kWh  x  C<sub>DT</sub>  x  C<sub>Tcd Ini</sub>
 <div align="center"/>
 <div align="left"/>
 <div align="left"/>
-<div align="left">ΔT  correspond à l'écart entre la température de condensation et la  température extérieure. La température TCondensation initiale correspond  à la température de condensation pour laquelle le condenseur a été  dimensionné initialement.</div>
+<div align="left"/>
+<div align="left">ΔT correspond à l'écart entre la température de condensation et la température extérieure. La température T<sub>Condensation initiale</sub> correspond à la température de condensation pour laquelle le condenseur a été dimensionné initialement.</div>
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="center"/>
@@ -4613,7 +4547,7 @@ Avec :
 <table>
 <tbody>
 <tr>
-<td align="center">T <br/>Condensation <br/>Initiale (°C) </td>
+<td align="center">T Condensation <br/>Initiale (°C) </td>
 <td align="center"> 45</td>
 <td align="center">44 <br/>
 </td>
@@ -4640,11 +4574,14 @@ Avec :
 </table>
 </div>
 <div/>
-<div>ΔT   correspond à l'écart entre la température de condensation et la température extérieure. La température T<sub>Condensation initiale</sub> correspond à la température de condensation pour laquelle le condenseur a été dimensionné initialement.<br/>
+<div/>
+<div>ΔT   correspond à l'écart entre la température de condensation et la température extérieure. La température T<sub>Condensation initiale</sub> correspond à la température de condensation pour laquelle le condenseur a été dimensionné initialement.</div>
+<div/>
+<div/>
+<div/>
+<div>
+<br/>
 </div>
-<div/>
-<div/>
-<div>En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM. </div>
 <div/>
 <div>
 <br/>
@@ -4715,7 +4652,7 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-TH-37
 
@@ -4749,7 +4686,7 @@ Ce système doit en outre répondre aux exigences de régulation suivantes :
 
 4. Durée de vie conventionnelle
 
-12 ans
+12 ans.
 
 5. Montant de certificats en KWh cumac
 
@@ -4762,8 +4699,8 @@ Le  montant en kWh cumac d'une unité intérieure est fonction du secteur  d'act
 <td align="center">A<br/>Montant en <br/>kWh cumac)<br/>
 </td>
 <td align="center"/>
-<td align="center">Puissance de <br/>l'appareil <br/>BTU/h) </td>
-<td align="center">B<br/>Facteur <br/>correctif)<br/>
+<td align="center">Puissance de <br/>l'appareil (BTU/h) </td>
+<td align="center">B<br/>(Facteur <br/>correctif)<br/>
 </td>
 </tr>
 <tr>
@@ -4820,8 +4757,54 @@ Il  convient ensuite de sommer la totalité des unités intérieures reliées à
 
 Gain = A x ∑ B<sub>i</sub>
 
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
+Certificats d'économies d'énergie
 
+Opération n° BAT-TH-38
+
+Protections solaires de bâtiments du secteur tertiaire (DOM)
+
+1. Secteur d'application
+
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique,  de surface totale inférieure ou égale à 10 000 m2, dans les  départements d'outre-mer.
+
+2. Dénomination
+
+Mise en  place de protections extérieures des baies contre le rayonnement  solaire, fixes ou mobiles. Les stores de toile, les écrans de  végétation, les murs, les films pour vitrage et tous les systèmes de  protection opaques mobiles non projetables sont exclus.
+
+3. Conditions pour la délivrance de certificats
+
+Le choix, le dimensionnement et la mise en place sont réalisés par un professionnel.
+
+Le professionnel s'assure que le Facteur Solaire de la baie protégée est compris entre 0,1 et 0,25 (0,1< Fs <0,25).
+
+Les  modalités de calcul à appliquer sont celles de l'arrêté du 17 avril  2009 relatif à l'aération des bâtiments d'habitation neufs dans les  départements de la Guadeloupe, de la Martinique, de la Guyane et de La  Réunion (chap.1 et annexe III).
+
+4. Durée de vie conventionnelle
+
+15 ans.
+
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td align="center"/>
+<td align="center">
+<p>Montant en KWh cumac / m² de vitre </p>
+<p>protégée </p>
+</td>
+</tr>
+<tr>
+<td align="center">0,1&lt; Fs &lt; 0,25 </td>
+<td align="center">1 600 </td>
+</tr>
+<tr>
+<td align="center">Fs &lt; 0,1 </td>
+<td align="center">2 400 <br/>
+</td>
+</tr>
+</tbody>
+</table>
 <div>
 <br/>
 </div>

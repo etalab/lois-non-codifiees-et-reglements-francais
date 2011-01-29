@@ -110,6 +110,7 @@
 - [Décret n°2010-871 du 26 juillet 2010 (SASP0915805D)](decret-n2010-871-du-26-juillet-2010-sasp0915805d)
 - [Décret n°2010-1278 du 27 octobre 2010 (JUSD1020234D)](decret-n2010-1278-du-27-octobre-2010-jusd1020234d)
 - [Décret n°2010-1288 du 27 octobre 2010 (ECEE1021093D)](decret-n2010-1288-du-27-octobre-2010-ecee1021093d)
+- [Décret n°2011-107 du 27 janvier 2011 (JUSX1101532D)](decret-n2011-107-du-27-janvier-2011-jusx1101532d)
 - [Décret n°60-514 du 27 mai 1960](decret-n60-514-du-27-mai-1960)
 - [Décret n°2003-1156 du 28 novembre 2003 (EQUA0301249D)](decret-n2003-1156-du-28-novembre-2003-equa0301249d)
 - [Décret n°2010-1650 du 28 décembre 2010 (MENF1031287D)](decret-n2010-1650-du-28-decembre-2010-menf1031287d)

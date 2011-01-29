@@ -1,8 +1,5 @@
 # Article Annexe BAT-EQ
 
-<div>
-<br/>
-</div>
 <div/>
 <div/>
 <div/>
@@ -12,6 +9,8 @@
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
+<div align="center"/>
+<div align="center"/>
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
@@ -140,113 +139,84 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-03
 
-Détecteur de présence sur un dispositif d'éclairage
-
-1. Secteur d'application :
-
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
-
-2. Dénomination :
-
-Installation d'un détecteur de présence sur un dispositif d'éclairage artificiel intérieur équipé de tube(s) fluorescent(s).
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-10 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+<div align="left">(Supprimé)</div>
+<div align="left"/>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-04
 
-Luminaire avec ballast électronique et système de gradation sur un dispositif d'éclairage
-
-1. Secteur d'application :
-
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
-
-2. Dénomination :
-
-Installation   d'un luminaire avec ballast électronique et d'un système de gradation   de l'éclairage par cellule photoélectrique sur un dispositif  d'éclairage  artificiel intérieur équipé de tube(s) fluorescent(s).
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-15 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+<div align="left">(Supprimé)</div>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-05
 
-Tube fluorescent haut rendement T8 sur un dispositif d'éclairage
+<div align="left">(Supprimé)</div>
+<div align="left"/>
 
-1. Secteur d'application :
-
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
-
-2. Dénomination :
-
-Installation d'un tube fluorescent haut rendement T8 (diamètre 26 mm) sur un dispositif d'éclairage artificiel intérieur.
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-6 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-EQ-06
 
-Luminaire avec ballast électronique sur un dispositif d'éclairage
+Luminaire avec ballast électronique pour tube T8 avec ou sans dispositif de contrôle
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+Bâtiments tertiaires existants.
 
-2. Dénomination :
+2. Dénomination
 
-Installation   d'un luminaire avec ballast électronique sur un dispositif d'éclairage   artificiel intérieur équipé de tube(s) fluorescent(s).
+Installation  d'un luminaire pour tube T8 avec ballast électronique associé ou non à  un dispositif de contrôle utilisant la détection de présence ou / et la  variation automatique de la puissance du luminaire en fonction des  apports naturels de lumière.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Sans objet.
+Sans objet
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-15 ans.
+15 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+<table>
+<tbody>
+<tr>
+<td align="center">Montant de certificats en kWh cumac par luminaire </td>
+<td align="center"> Locaux à <br/>utilisation <br/>permanente</td>
+<td align="center">
+<div align="center">Autres <br/>locaux<br/>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left">Luminaire avec ballast électronique </td>
+<td align="center"> 1 100<br/>
+</td>
+<td align="center"> 350</td>
+</tr>
+<tr>
+<td align="left">
+<p>Luminaire avec ballast électronique et dispositif de </p>
+<p>variation automatique ou détecteur de présence </p>
+</td>
+<td align="center"> 2 400<br/>
+</td>
+<td align="center"> 760</td>
+</tr>
+<tr>
+<td align="left">
+<p>Luminaire avec ballast électronique et dispositif de </p>
+<p>variation automatique et détecteur de présence </p>
+</td>
+<td align="center"> 2 800<br/>
+</td>
+<td align="center"> 890</td>
+</tr>
+</tbody>
+</table>
 
 Certificats d'économies d'énergie
 
@@ -551,106 +521,125 @@ Sans  objet.
 
 7 700 kWh  cumac/porte.
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-16</p>
-<p>Lampe fluo-compacte de classe A (DOM)<br/>
-</p>
-</div>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
-1. Secteur d'application :
+Opération n° BAT-EQ-16
 
-Bâtiment  tertiaire : locaux du  secteur tertiaire existants réservés à une  utilisation professionnelle, dans les  départements d'outre-mer.
+Lampe fluo-compacte de classe A (DOM)
 
-2. Dénomination :
+1. Secteur d'application
 
-Mise  en  place d'une lampe fluo-compacte de classe A (ou encore appelée  lampe basse  consommation) de type professionnel, d'une durée de vie de  10 000 heures ou plus  ou de 15 000 heures ou plus.
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, dans les départements d'outre-mer.
 
-3. Conditions pour la délivrance de  certificats :
+2. Dénomination
 
-Information sur la durée d'utilisation en heure par  type de lampe.
+Mise  en place d'une lampe fluo-compacte (LFC) de classe A (ou encore appelée  lampe basse consommation) de type professionnel, d'une durée de vie de  10 000 heures ou plus ou de 15 000 heures ou plus.
 
-4. Durée de vie conventionnelle :
+3. Conditions pour la délivrance de certificats
 
-4,3  ans (lampe 10 000 heures ou plus).
+Information sur la durée d'utilisation en heure par type de lampe.
 
-6,4 ans (lampe 15 000 heures ou  plus).
+4. Durée de vie conventionnelle
 
-5. Montant de certificats en kWh cumac :
+- 4,3 ans (lampe 10 000 heures ou plus)
 
-<div align="center">
+- 6,4 ans (lampe 15 000 heures ou plus)
+
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<th>LFC DE DURÉE DE VIE<br/>10 000 h ou plus<br/>
-</th>
-<th colspan="4">LFC DE DURÉE DE VIE<br/>15 000 h ou plus<br/>
-</th>
+<td align="center">LFC de durée de vie 10 000 <br/>heures ou plus </td>
+<td align="center"> LFC de durée de vie 15 000 <br/>heures ou plus</td>
 </tr>
 <tr>
-<td align="center">410<br/>
+<td align="center">410 <br/>
 </td>
-<td align="center">590<br/>
+<td align="center">590 <br/>
 </td>
 </tr>
 </tbody>
 </table>
+<div align="left">Certificats d'économies d'énergie</div>
 
-</div>
+Opération n° BAT-EQ-17
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM. <div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-17</p>
-<p>Installation frigorifique négative de type cascade<br/>utilisant du CO2<br/>
-</p>
-</div>
+Installation frigorifique négative de type cascade utilisant du CO<sub>2</sub>
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux de  commerces de distribution alimentaire de surface de vente inférieure à 5 000  m².
+Locaux de commerce de distribution alimentaire de surface de vente inférieure à 5 000m².
 
-2. Dénomination :
+2. Dénomination
 
-Mise en place d'une  installation frigorifique négative du type cascade utilisant du CO2 comme fluide  frigorigène.
+Mise en place d'une installation frigorifique négative du type cascade utilisant du CO2 comme fluide frigorigène.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Mise en place réalisée par un professionnel.
 
-4. Durée  de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-15 ans.
+15 ans
 
-5. Montant de  certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-8 300 kWh cumac × P.
+<table>
+<tbody>
+<tr>
+<td align="center">Montant en kWh cumac / kW </td>
+<td align="center" rowspan="2">X </td>
+<td align="center"> Puissance frigorifique négative en kW <br/>de l'installation</td>
+</tr>
+<tr>
+<td align="center"> 8 300<br/>
+</td>
+<td align="center">P </td>
+</tr>
+</tbody>
+</table>
+<div align="left">Certificats d'économies d'énergie</div>
 
-P = puissance frigorifique négative en kWh de l'installation.
+Opération n° BAT-EQ-18
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-18</p>
-<p>Sous-refroidissement du liquide d'une installation<br/>de production de froid négatif<br/>
-</p>
-</div>
+Sous-refroidissement du liquide d'une installation de production de froid négatif
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire : locaux de  commerce de distribution alimentaire de surface de vente inférieure à 5000  m².
+Locaux de commerce de distribution alimentaire de surface de vente inférieure à 5 000m².
 
-2. Dénomination :
+2. Dénomination
 
-Sous-refroidissement du  liquide d'une installation de production de froid négatif.
+Sous-refroidissement du liquide d'une installation de production de froid négatif.
 
-3.  Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Une  attestation  d'un sous-refroidissement du liquide de l'installation de  production de froid  négatif d'au moins 20 °C au-dessous de la  température de condensation, après  réalisation de l'opération, doit  être fournie par l'installateur.
+Une  attestation d'un sous-refroidissement du liquide de l'installation de  production de froid négatif d'au moins 20°C au-dessous de la température  de condensation, après réalisation de l'opération, doit être fournie  par l'installateur.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-7 ans.
+7 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-8 700 kWh  cumac × P.
-
-P = puissance frigorifique négative en  kWh de l'installation.
-
+<table>
+<tbody>
+<tr>
+<td align="center">Montant en<br/>kWh cumac / kW<br/>
+</td>
+<td align="center" rowspan="2"> X</td>
+<td align="center">Puissance frigorifique négative <br/>en kW de l'installation </td>
+</tr>
+<tr>
+<td align="center"> 8 700<br/>
+</td>
+<td align="center">P </td>
+</tr>
+</tbody>
+</table>
 <div align="center"/>
 <div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
@@ -928,8 +917,7 @@ Montant en kWh cumac  =  Pertes à vide + Pertes en charge x Coefficient multipl
 </tr>
 </tbody>
 </table>
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-EQ-22
 
@@ -937,11 +925,11 @@ Système de pilotage par intermittence des centrales de traitement d'air (DOM)
 
 1. Secteur d'application
 
-Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, réservés à une utilisation professionnelle, de surface  totale inférieure ou égale à 10 000 m2, dans les départements  d'outre-mer.
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, réservés à une utilisation professionnelle, de surface  totale inférieure ou égale à 10 000 m<sup>2</sup>, dans les départements d'outre-mer.
 
 2. Dénomination
 
-Mise en place d'une  horloge permettant de couper les ventilateurs de centrales de traitement  d'air en dehors des périodes d'occupation.
+Mise  en place d'une horloge permettant de couper les ventilateurs de  centrales de traitement d'air en dehors des périodes d'occupation.
 
 3. Conditions pour la délivrance de certificats
 
@@ -949,7 +937,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-15 ans
+15 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -982,5 +970,3 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.

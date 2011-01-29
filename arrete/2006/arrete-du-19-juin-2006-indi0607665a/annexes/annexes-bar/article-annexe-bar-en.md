@@ -73,6 +73,10 @@ Mise en place réalisée par un professionnel.
 
 <div align="center"/>
 <div align="center"/>
+<div align="center"/>
+<div align="center">
+<br/>
+</div>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-EN-02
@@ -220,7 +224,9 @@ Mise en place réalisée par un professionnel.
 <div align="center"/>
 <div align="center"/>
 
-Certificats d'économies d'énergie
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-EN-04
 
@@ -234,7 +240,7 @@ Bâtiments résidentiels existants.
 
 Pour  des actions engagées avant le 01/01/2011, mise en place d'une fenêtre  ou porte-fenêtre complète avec vitrage isolant dont le coefficient de  transmission surfacique Uw (évalué conformément à la norme EN 14351-1)  est tel que Uw ≤ 2 W/m2.K.
 
-Pour des actions engagées à  partir du 01/01/2011, mise en place d'une fenêtre ou porte-fenêtre  complète avec vitrage isolant dont le coefficient de transmission  surfacique Uw (évalué conformément à la norme EN 14351-1) est tel que Uw  ≤ 1,8 W/m2.K.
+Pour des actions engagées à partir du  01/01/2011, mise en place d'une fenêtre ou porte-fenêtre complète avec  vitrage isolant dont le coefficient de transmission surfacique Uw  (évalué conformément à la norme EN 14351-1) est tel que Uw ≤  1,8  W/m2.K.
 
 Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant.
 
@@ -242,9 +248,9 @@ Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage isolant.
 
 La fenêtre ou porte-fenêtre a des caractéristiques de performance et de qualité validées :
 
-a.	soit par la marque de certification de produit : ACOTHERM ;
+1.	soit par la marque de certification de produit : ACOTHERM ;
 
-b.	soit par les marques de certification :
+2.	soit par les marques de certification :
 
 - NF menuiserie PVC certifié - CSTB CERTIFIED pour le PVC,
 
@@ -252,7 +258,7 @@ b.	soit par les marques de certification :
 
 - NF fenêtres bois pour le bois ;
 
-c. 	soit par une démarche qualité de la validation des performances  thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
+3. 	soit par une démarche qualité de la validation des performances  thermiques (Uw) du système de fenêtres ou portes-fenêtres du type :
 
 - avis technique valide du CSTB pour les produits non traditionnels,
 
@@ -262,13 +268,13 @@ c. 	soit par une démarche qualité de la validation des performances  thermique
 
 - ou Document Technique d'Application (DTA) valide du CSTB (quels que soient les matériaux utilisés : aluminium ou PVC) ;
 
-d. 	soit par des caractéristiques de performance et de qualité équivalentes  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
+4. 	soit par des caractéristiques de performance et de qualité équivalentes  établies par un organisme établi dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-35 ans
+35 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -317,135 +323,97 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
-Certificats d'économies d'énergie
+Le  nombre de fenêtre(s) ou porte(s)-fenêtre(s) posée(s) peut être évalué  de manière conventionnelle à partir de la surface de fenêtre(s) ou  porte(s)-fenêtre(s) posées sur la base : 1 fenêtre ou 1 porte-fenêtre  =  2,28 m².
 
-<div align="left">Opération n° BAR-EN-05</div>
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération n° BAR-EN-05
 
 Isolation des toitures terrasses
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment résidentiel : appartements  existants.
+Appartements existants.
 
-2 Dénomination :
+2. Dénomination
 
-Mise en place en toiture  terrasse d'un doublage extérieur isolant de résistance thermique R ≥ 2,6 m²  K/W.
+Mise en place en toiture terrasse d'un doublage extérieur isolant de résistance thermique :
 
-3. Conditions pour la délivrance de certificats :
+R ≥  3 m<sup>2</sup>.K/W.
 
-Les  isolants ont une certification ACERMI ou des caractéristiques de   performance et de qualité équivalentes établies par un mode de preuve  légal dans  un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant  l'Espace économique européen ou en Turquie.
+3. Conditions pour la délivrance de certificats
 
-Les isolants doivent  être mis en uvre selon les DTU séries 40 à 43 ou avis technique.
+Les  isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un organisme établi  dans l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant  ou après 1975).
+4. Durée de vie conventionnelle
 
-4. Durée de vie conventionnelle :
+35 ans.
 
-35  ans.
-
-5. Montant de certificats en kWh cumac :
-
-<div align="center">
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<th colspan="7">MONTANT (en kWh cumac/m² d'isolant)<br/>
-</th>
+<td align="center" colspan="6">Montant en kWh cumac / m² d'isolant </td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">2 m² K/W ≤ R &lt; 2,6 m² K/W<br/>(uniquement pour des  actions<br/>engagées avant le 1er janvier 2008)<br/>
-</th>
-<th colspan="2">2,6 m² K/W ≤ R &lt; 3,5 m² K/W<br/>
-</th>
-<th colspan="2">R ≥ 3,5 m² K/W<br/>
-</th>
+<td align="center" colspan="3">3 m2.K/W ≤ R &lt; 3,5 m2.K/W </td>
+<td align="center" colspan="3"> R ≥ 3,5 m2.K/W</td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">Energie de chauffage<br/>
-</th>
-<th colspan="2">Energie de chauffage<br/>
-</th>
-<th colspan="2">Energie de chauffage<br/>
-</th>
+<td align="center" rowspan="2"> Zone climatique</td>
+<td align="center" colspan="2">Énergie de chauffage </td>
+<td align="center" rowspan="2">Zone climatique </td>
+<td align="center" colspan="2"> Énergie de chauffage</td>
 </tr>
 <tr>
-<th>Zone<br/>climatique<br/>
-</th>
-<th>Electricité<br/>
-</th>
-<th>Combustible<br/>
-</th>
-<th>Electricité<br/>
-</th>
-<th>Combustible<br/>
-</th>
-<th>Electricité<br/>
-</th>
-<th>Combustible<br/>
-</th>
+<td align="center"> Électricité</td>
+<td align="center">Combustible  <br/>
+</td>
+<td align="center"> Électricité</td>
+<td align="center"> Combustible</td>
 </tr>
 <tr>
-<td align="center">H1<br/>
+<td align="center">H1 </td>
+<td align="center">550 </td>
+<td align="center">880 </td>
+<td align="center">H1 </td>
+<td align="center">1 200 <br/>
 </td>
-<td align="center">530<br/>
-</td>
-<td align="center">840<br/>
-</td>
-<td align="center">550<br/>
-</td>
-<td align="center">880<br/>
-</td>
-<td align="center">1 200<br/>
-</td>
-<td align="center">1 800<br/>
+<td align="center"> 1 800<br/>
 </td>
 </tr>
 <tr>
-<td align="center">H2<br/>
-</td>
-<td align="center">430<br/>
-</td>
-<td align="center">680<br/>
-</td>
-<td align="center">450<br/>
-</td>
-<td align="center">720<br/>
-</td>
-<td align="center">950<br/>
-</td>
-<td align="center">1 500<br/>
+<td align="center">H2 </td>
+<td align="center">450 </td>
+<td align="center">720 </td>
+<td align="center">H2 </td>
+<td align="center"> 950</td>
+<td align="center"> 1 500<br/>
 </td>
 </tr>
 <tr>
-<td align="center">H3<br/>
-</td>
-<td align="center">290<br/>
-</td>
-<td align="center">460<br/>
-</td>
-<td align="center">300<br/>
-</td>
-<td align="center">480<br/>
-</td>
-<td align="center">630<br/>
-</td>
-<td align="center">1 000<br/>
+<td align="center"> H3</td>
+<td align="center"> 300</td>
+<td align="center">480 </td>
+<td align="center">H3</td>
+<td align="center"> 630</td>
+<td align="center"> 1 000<br/>
 </td>
 </tr>
 </tbody>
 </table>
+<div align="center">
 
 </div>
 
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-EN-06
@@ -468,7 +436,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -486,9 +454,6 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
-
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-EN-07
@@ -511,7 +476,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -532,8 +497,6 @@ Mise en place réalisée par un professionnel.
 <div align="center">
 
 </div>
-
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
 
 <div align="center"/>
 <div align="center"/>
