@@ -1,8 +1,9 @@
 # Article Annexe IND-EN
 
 <div align="center"/>
-<div align="center"/>
-<div align="center"/>
+<div align="center">
+<br/>
+</div>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° IND-EN-01
@@ -25,7 +26,7 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -44,8 +45,6 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
 
 <div align="left">Certificats d'économies d'énergie</div>
 
@@ -69,14 +68,14 @@ Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle
 
-25 ans
+25 ans.
 
 5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<td align="center">Montant en kWh cumac / m² <br/>d'isolant </td>
+<td align="center">Montant en kWh cumac / m² d'isolant </td>
 <td align="center"/>
 <td align="center">Surface d'isolant (m²) </td>
 </tr>
@@ -87,8 +86,6 @@ Mise en place réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-
-En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
 
 <div align="center"/>
 <div align="center"/>
