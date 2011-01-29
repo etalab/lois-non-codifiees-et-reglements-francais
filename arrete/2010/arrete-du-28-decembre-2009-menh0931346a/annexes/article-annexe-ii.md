@@ -10,7 +10,7 @@ L'épreuve fait appel aux connaissances du candidat sur les activités physiques
 
 L'épreuve prend appui sur un programme fixé pour deux ans et qui se rapporte au programme des lycées et collèges.
 
-Durée : quatre heures ; coefficient 2.
+Durée : quatre heures ; coefficient 1.
 
 B. - Epreuve orale d'admission
 
@@ -18,9 +18,9 @@ Analyse d'une situation d'enseignement.
 
 Cette épreuve comporte un exposé suivi d'un entretien ; elle porte sur une expérience d'organisation de l'enseignement de l'éducation physique et sportive dans un établissement du second degré.
 
-L'épreuve prend appui sur un dossier réalisé par le candidat. Le dossier porte sur une expérience d'organisation de l'éducation physique et sportive dans un collège ou un lycée et comporte, en outre, deux séquences d'enseignement réalisées ou observées dans une ou plusieurs classes du niveau d'enseignement (collège ou lycée) choisi par le candidat et fondées sur deux activités physiques distinctes choisies pour chacune dans deux groupes différents d'activités en référence aux programmes de la discipline dans les lycées et les collèges.
+L'épreuve prend appui sur un dossier réalisé par le candidat. Le dossier porte sur une expérience d'organisation de l'éducation physique et sportive dans un collège ou un lycée et comporte, en outre, deux séquences d'enseignement réalisées ou observées dans une ou plusieurs classes du niveau d'enseignement (collège ou lycée) choisi par le candidat et fondées sur deux activités physiques, sportives et artistiques (APSA) distinctes, choisies dans deux compétences propres (CP) à l'EPS différentes parmi les cinq compétences propres CP1 à CP5 identifiées par les programmes disciplinaires.
 
-Un programme valable pour deux années fixe la liste des activités qui peuvent servir de support aux deux séquences d'enseignement : cette liste ne peut excéder seize activités et s'appuie en accord avec les programmes de la discipline sur la réalité des activités les plus couramment enseignées dans les collèges et les lycées.
+Un programme valable pour deux années fixe la liste des APSA qui peuvent servir de support aux deux séquences d'enseignement.
 
 Le jury choisit d'interroger le candidat sur l'un ou sur plusieurs des éléments du dossier.
 
