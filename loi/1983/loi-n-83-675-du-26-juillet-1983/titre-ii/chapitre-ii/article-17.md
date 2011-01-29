@@ -4,6 +4,8 @@ Les listes des candidats présentées aux suffrages des salariés doivent répon
 
 1. Comporter un nombre de candidats égal à une fois et demie le nombre de sièges à pourvoir ;
 
+1 bis. - Etre composées alternativement d'un candidat de chaque sexe sans que, sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne puisse être supérieur à un (1) ;
+
 2. Présenter, en annexe, un ensemble de propositions d'orientation pour l'administration ou le contrôle de la gestion ;
 
 3. Avoir recueilli la signature :
