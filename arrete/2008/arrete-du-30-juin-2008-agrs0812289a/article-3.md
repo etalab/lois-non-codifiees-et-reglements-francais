@@ -28,8 +28,6 @@ Elle anime les comités mis en place à cette fin, notamment les commissions cha
 
 Elle participe également aux travaux menés au plan communautaire et international dans le domaine de l'obtention végétale.
 
-Le Laboratoire national de la protection des végétaux (LNPV), placé auprès du sous-directeur de la qualité et de la protection des végétaux, apporte son appui à la sous-direction pour l'évaluation indépendante des risques phytosanitaires. La sous-direction de la qualité et de la protection des végétaux coordonne les demandes d'avis et de travaux confiées au LNPV et leur affecte une priorité.
-
 La sous-direction de la qualité et de la protection des végétaux comprend :
 
 ― le département de la santé des forêts ;
