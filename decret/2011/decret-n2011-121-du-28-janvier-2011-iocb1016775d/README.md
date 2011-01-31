@@ -1,0 +1,5 @@
+# Décret n° 2011-121 du 28 janvier 2011 relatif aux opérations funéraires
+
+- [TITRE IER : DISPOSITIONS RELATIVES AUX OPERATIONS  FUNERAIRES](titre-ier)
+- [TITRE III : DISPOSITIONS APPLICABLES A L'OUTRE MER](titre-iii)
+- [TITRE IV : DISPOSITIONS DIVERSES](titre-iv)
