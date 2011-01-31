@@ -2837,7 +2837,6 @@
 - [Arrêté du 28 décembre 2009 (AGRT0928893A)](arrete-du-28-decembre-2009-agrt0928893a)
 - [Arrêté du 28 décembre 2009 (BCFL1000698A)](arrete-du-28-decembre-2009-bcfl1000698a)
 - [Arrêté du 28 décembre 2009 (DEVA0928175A)](arrete-du-28-decembre-2009-deva0928175a)
-- [Arrêté du 28 décembre 2009 (DEVE0930725A)](arrete-du-28-decembre-2009-deve0930725a)
 - [Arrêté du 28 décembre 2009 (DEVE0930885A)](arrete-du-28-decembre-2009-deve0930885a)
 - [Arrêté du 28 décembre 2009 (DEVE0931181A)](arrete-du-28-decembre-2009-deve0931181a)
 - [Arrêté du 28 décembre 2009 (ECEC0926157A)](arrete-du-28-decembre-2009-ecec0926157a)
