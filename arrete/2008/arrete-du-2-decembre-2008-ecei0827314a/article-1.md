@@ -260,4 +260,8 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
 
-- chef du pôle entreprise, emploi et économie à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie (A compter du 15 février 2010).
+- chef du pôle entreprise, emploi et économie à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie (A compter du 15 février 2010) ;
+
+- chargé de mission auprès du directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France (supprimé au 1er août 2011) ;
+
+- chef du service compétitivité et compétences des entreprises, développement international, adjoint au chef du pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Picardie ;
