@@ -221,7 +221,6 @@
 - [Décret n°86-638 du 17 mars 1986](decret-n86-638-du-17-mars-1986)
 - [Décret n°86-83 du 17 janvier 1986](decret-n86-83-du-17-janvier-1986)
 - [Décret n°86-852 du 17 juillet 1986](decret-n86-852-du-17-juillet-1986)
-- [Décret du 18 février 1986](decret-du-18-fevrier-1986)
 - [Décret n°86-1044 du 18 septembre 1986](decret-n86-1044-du-18-septembre-1986)
 - [Décret n°86-1045 du 18 septembre 1986](decret-n86-1045-du-18-septembre-1986)
 - [Décret n°86-1194 du 18 novembre 1986](decret-n86-1194-du-18-novembre-1986)
