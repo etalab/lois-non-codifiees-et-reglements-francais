@@ -4,7 +4,7 @@ La liste des emplois de chef de services administratifs et financiers de la Cais
 
 _Direction générale et secrétariat général_
 
-Directeur des relations sociales.
+Directeur des relations sociales de l'établissement public et du groupe.
 
 Directeur des activités et de la protection sociales.
 
