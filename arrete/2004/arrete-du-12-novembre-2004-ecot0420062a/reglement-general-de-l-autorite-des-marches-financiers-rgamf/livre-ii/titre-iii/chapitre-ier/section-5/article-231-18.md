@@ -30,7 +30,7 @@ g) Les conditions de financement de l'opération et leurs incidences sur les act
 
 7° S'il y a lieu, l'avis motivé du conseil d'administration ou du conseil de surveillance, ou, dans le cas d'un initiateur étranger, de l'organe compétent, sur l'intérêt de l'offre ou sur les conséquences que présente l'offre pour l'initiateur, ses actionnaires et ses salariés ; les conditions de vote dans lesquelles cet avis a été obtenu, les membres minoritaires pouvant demander qu'il soit fait état de leur identité et de leur position ;
 
-8° Dans le cas prévu au IV de l'article L. 433-3 du code monétaire et financier, l'engagement de déposer un projet d'offre irrévocable et loyale sur la totalité des titres de capital et donnant accès au capital ou aux droits de vote de la société dont plus du tiers du capital ou des droits de vote est détenu et qui constitue un actif essentiel de la société visée ;
+8° Dans le cas prévu au III de l'article L. 433-3 du code monétaire et financier, l'engagement de déposer un projet d'offre irrévocable et loyale sur la totalité des titres de capital et donnant accès au capital ou aux droits de vote de la société dont plus de 30 % du capital ou des droits de vote est détenu et qui constitue un actif essentiel de la société visée ;
 
 9° S'il y a lieu, le rapport de l'expert indépendant mentionné à l'article 261-3 ;
 

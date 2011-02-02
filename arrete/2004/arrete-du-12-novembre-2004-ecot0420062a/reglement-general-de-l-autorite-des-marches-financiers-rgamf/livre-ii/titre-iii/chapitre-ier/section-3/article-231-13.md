@@ -22,10 +22,10 @@ III. - La lettre est accompagnée :
 
 2° Des déclarations préalables effectuées auprès d'instances habilitées à autoriser l'opération envisagée.
 
-IV. - Dans le cas prévu au IV de l'article L. 433-3 du code monétaire et financier, la lettre est également accompagnée :
+IV. - Dans le cas prévu au III de l'article L. 433-3 du code monétaire et financier, la lettre est également accompagnée :
 
 1° Du document d'offre déposé ou du projet de document d'offre qui sera déposé ;
 
-2° De tout autre document portant engagement contraignant prouvant qu'un projet d'offre publique irrévocable et loyale est ou sera déposé sur la totalité des titres de capital et donnant accès au capital ou aux droits de vote de la société dont plus du tiers du capital ou des droits de vote est détenu et qui constitue un actif essentiel de la société visée par l'offre.
+2° De tout autre document portant engagement contraignant prouvant qu'un projet d'offre publique irrévocable et loyale est ou sera déposé sur la totalité des titres de capital et donnant accès au capital ou aux droits de vote de la société dont plus de 30 % du capital ou des droits de vote est détenu et qui constitue un actif essentiel de la société visée par l'offre.
 
 V. - Dans tous les cas, la version électronique du projet de note d'information est transmise à l'AMF aux fins de mise en ligne sur son site.

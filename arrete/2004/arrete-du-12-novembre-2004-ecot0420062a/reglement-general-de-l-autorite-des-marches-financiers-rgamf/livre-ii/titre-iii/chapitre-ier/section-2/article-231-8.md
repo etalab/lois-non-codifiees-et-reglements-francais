@@ -8,7 +8,7 @@ L'offre peut consister en :
 
 3° Une offre principale assortie d'une ou plusieurs options subsidiaires présentant le caractère d'un accessoire indissociable.
 
-Lorsque les titres remis en échange ne sont pas des titres liquides admis aux négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, l'offre doit comporter une option en numéraire.
+Lorsque les titres remis en échange ne sont pas des titres liquides admis aux négociations sur un marché réglementé d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, l'offre doit comporter une option en numéraire.
 
 Lorsque l'initiateur, agissant seul ou de concert, a acquis en numéraire, au cours des douze mois précédant le dépôt du projet d'offre, des titres conférant plus du vingtième du capital ou des droits de vote de la société visée, l'offre doit comporter une option en numéraire.
 

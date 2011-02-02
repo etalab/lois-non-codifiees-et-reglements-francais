@@ -1,6 +1,6 @@
 # Article 234-6
 
-Lorsqu'un projet d'offre est déposé en application des articles 234-2, 234-3 et 234-5, le prix proposé doit être au moins équivalent au prix le plus élevé payé par l'initiateur, agissant seul ou de concert au sens de l'article L. 233-10 du code de commerce, sur une période de douze mois précédant le dépôt du projet d'offre.
+Lorsqu'un projet d'offre est déposé en application des articles 234-2 et 234-5, le prix proposé doit être au moins égal au prix le plus élevé payé par l'initiateur, agissant seul ou de concert au sens de l'article L. 233-10 du code de commerce, sur une période de douze mois précédant le fait générateur de l'obligation de déposer le projet d'offre.
 
 L'AMF peut demander ou autoriser la modification du prix proposé lorsqu'un changement manifeste des caractéristiques de la société visée ou du marché de ses titres le justifie. Il en va notamment ainsi dans les cas suivants :
 

@@ -1,6 +1,6 @@
 # Article 231-43
 
-I. - Par dérogation aux dispositions du premier alinéa de l'article 231-42, le prestataire concerné est autorisé à intervenir sur les titres concernés par l'offre ou les instruments financiers dérivés de ces titres en effectuant des opérations pour son compte propre ou celui de son groupe aux conditions suivantes :
+I. - Par dérogation aux dispositions du premier alinéa de l'article 231-42, le prestataire concerné et toute société appartenant au même groupe sont autorisés à intervenir sur les titres concernés par l'offre ou les instruments financiers liés à ces titres en effectuant des opérations pour son compte propre ou celui de son groupe aux conditions suivantes :
 
 1° Les interventions relèvent d'équipes ayant des moyens, des objectifs et des responsabilités distincts de ceux mobilisés pour l'offre et qui en sont séparées par une "barrière à l'information" ;
 

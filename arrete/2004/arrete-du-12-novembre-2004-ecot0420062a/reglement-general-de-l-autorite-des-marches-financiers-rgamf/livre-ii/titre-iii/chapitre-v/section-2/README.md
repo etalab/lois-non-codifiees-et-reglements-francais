@@ -1,3 +1,3 @@
-# Section 2 : Garanties de cours portant sur des instruments financiers admis aux négociations sur un système multilatéral de négociation organisé
+# Section 2 : Offre publique de retrait et retrait obligatoire
 
 - [Article 235-4](article-235-4.md)

@@ -1,4 +1,5 @@
 # Chapitre V : Procédure de garantie de cours
 
-- [Section 1 : Garanties de cours portant sur des instruments financiers admis aux négociations sur un marché réglementé](section-1)
-- [Section 2 : Garanties de cours portant sur des instruments financiers admis aux négociations sur un système multilatéral de négociation organisé](section-2)
+- [Section 1 : Dépôt obligatoire d'un projet d'offre publique](section-1)
+- [Section 2 : Offre publique de retrait et retrait obligatoire](section-2)
+- [Article 235-1](article-235-1.md)
