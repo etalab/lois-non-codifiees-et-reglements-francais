@@ -181,7 +181,6 @@
 - [Arrêté du 3 juin 2010 (DEVA1009430A)](arrete-du-3-juin-2010-deva1009430a)
 - [Arrêté du 3 juin 2010 (DEVU1012649A)](arrete-du-3-juin-2010-devu1012649a)
 - [Arrêté du 3 juin 2010 (ESRS1013083A)](arrete-du-3-juin-2010-esrs1013083a)
-- [Arrêté du 3 juin 2010 (IOCJ1014923A)](arrete-du-3-juin-2010-iocj1014923a)
 - [Arrêté du 3 juin 2010 (MCCB1014731A)](arrete-du-3-juin-2010-mccb1014731a)
 - [Arrêté du 3 juin 2010 (MENE1013314A)](arrete-du-3-juin-2010-mene1013314a)
 - [Arrêté du 3 juin 2010 (MENE1014735A)](arrete-du-3-juin-2010-mene1014735a)
