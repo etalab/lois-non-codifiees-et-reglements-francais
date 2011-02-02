@@ -111,7 +111,6 @@
 - [Arrêté du 23 novembre 2000 (EQUA0001912A)](arrete-du-23-novembre-2000-equa0001912a)
 - [Arrêté du 23 octobre 2000 (AGRP0001609A)](arrete-du-23-octobre-2000-agrp0001609a)
 - [Arrêté du 23 octobre 2000 (ECOL0000078A)](arrete-du-23-octobre-2000-ecol0000078a)
-- [Arrêté du 23 octobre 2000 (ECOL0000079A)](arrete-du-23-octobre-2000-ecol0000079a)
 - [Arrêté du 23 octobre 2000 (EQUS0001612A)](arrete-du-23-octobre-2000-equs0001612a)
 - [Arrêté du 24 août 2000 (INTC0000433A)](arrete-du-24-aout-2000-intc0000433a)
 - [Arrêté du 24 août 2000 (INTC0000434A)](arrete-du-24-aout-2000-intc0000434a)
