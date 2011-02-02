@@ -12,7 +12,7 @@ La note en réponse de la société visée, dont le contenu est précisé par un
 
 5° Lorsqu'elles sont disponibles et diffèrent de l'avis mentionné au 4°, les observations du comité d'entreprise ou, à défaut, des délégués du personnel ou, à défaut, des membres du personnel ;
 
-6° Les intentions des membres des organes sociaux mentionnés au 4° d'apporter ou non leurs titres à l'offre ;
+6° Les intentions des membres des organes sociaux mentionnés au 4° d'apporter ou non leurs titres à l'offre, précisant en particulier, si l'offre comporte plusieurs branches, celle à laquelle ils ont l'intention d'apporter leurs titres, le cas échéant ;
 
 7° Les modalités de mise à disposition des informations mentionnées à l'article 231-28.
 
