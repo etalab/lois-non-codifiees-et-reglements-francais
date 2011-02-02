@@ -34,9 +34,11 @@ IV.-Le taux T2 est fixé à :
 
 -12, 62 % pour l'année 2009 ;
 
--12, 73 % à compter de l'exercice 2010.
+-12, 73 % pour l'année 2010 ;
 
-Après le 31 décembre 2010, le taux T2 évolue au 1er janvier de chaque année comme le rapport, pour un salarié non cadre, entre le montant des cotisations d'assurance vieillesse assis sur le montant maximum des rémunérations ou gains à prendre en compte pour la fixation du montant des cotisations d'assurance vieillesse prévu par l'article D. 242-16 du code de la sécurité sociale et ce montant maximum. Les cotisations prises en compte sont :
+- 11,26 % pour l'année 2011.
+
+Après le 31 décembre 2011, le taux T2 évolue au 1er janvier de chaque année comme le rapport, pour un salarié non cadre, entre le montant des cotisations d'assurance vieillesse assis sur le montant maximum des rémunérations ou gains à prendre en compte pour la fixation du montant des cotisations d'assurance vieillesse prévu par l'article D. 242-16 du code de la sécurité sociale et ce montant maximum. Les cotisations prises en compte sont :
 
 -la cotisation d'assurance vieillesse du régime de droit commun prévue par l'article D. 242-4 du code de la sécurité sociale ;
 
