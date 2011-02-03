@@ -8,4 +8,4 @@ Elle contribue à l'animation et à la coordination des directions régionales d
 
 II.-Pour l'ensemble de l'activité de ses services, le directeur général du Trésor est assisté d'un directeur portant le titre de directeur général adjoint.
 
-Un pôle " commerce extérieur " est directement rattaché au directeur général adjoint.
+Deux pôles, respectivement chargés du commerce extérieur et des publications économiques, sont directement rattachés au directeur général adjoint.

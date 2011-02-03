@@ -1,6 +1,8 @@
 # Article 9
 
-I. ― Outre une cellule chargée de la communication et une mission de suivi personnalisé des parcours professionnels, le secrétariat général, qui assure la gestion des ressources humaines et du budget, comprend :
+I.-Le secrétariat général assure la gestion des ressources humaines et du budget de la direction générale.
+
+Outre une cellule chargée de la communication et une mission de suivi personnalisé des parcours professionnels, il comprend :
 
 Le bureau des ressources humaines et des services
 
@@ -20,4 +22,6 @@ Interface entre, d'une part, les services économiques et, d'autre part, la dire
 
 II.-L'inspection générale des services extérieurs, dont les rapports et recommandations sont adressés au directeur général, est rattachée au secrétaire général. Elle procède au contrôle et à l'évaluation des activités des services à l'étranger du ministère de l'économie, de l'industrie et de l'emploi et contribue au contrôle et à l'évaluation des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, dans le cadre des orientations définies par la direction générale. Elle anime la réflexion sur leurs missions, leur organisation et leurs méthodes de travail. Elle est responsable du pilotage du système de management de la qualité.
 
-III.-Le secrétaire général, qui a rang de chef de service, est assisté d'un adjoint ayant rang de sous-directeur.
+III.-En outre, le secrétariat général concourt à la gestion des moyens et des personnels de l'Agence des participations de l'Etat selon les modalités de la convention prévue à l'article 5 du décret n° 2004-963 du 9 septembre 2004 portant création du service à compétence nationale " Agence des participations de l'Etat ".
+
+IV.-Le secrétaire général, délégué aux ressources humaines, qui a rang de chef de service, est assisté d'un adjoint ayant rang de sous-directeur.
