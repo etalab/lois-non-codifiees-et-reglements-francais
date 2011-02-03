@@ -38,4 +38,6 @@ La liste des centres de lutte contre le cancer prévue à l'article L. 6162-3 du
 
 - centre Alexis Vautrin, 54511 Vandoeuvre-lès-Nancy ;
 
-- institut Gustave Roussy, 94805 Villejuif.
+- institut Gustave Roussy, 94805 Villejuif ;
+
+- institut de cancérologie de l'Ouest, 49933 Angers.
