@@ -239,6 +239,7 @@
 - [Décret n°2011-127 du 31 janvier 2011 (DEVD1015547D)](decret-n2011-127-du-31-janvier-2011-devd1015547d)
 - [Décret n°2011-128 du 31 janvier 2011 (MENV1026742D)](decret-n2011-128-du-31-janvier-2011-menv1026742d)
 - [Décret n°2011-129 du 31 janvier 2011 (BCRB1033635D)](decret-n2011-129-du-31-janvier-2011-bcrb1033635d)
+- [Décret n°2011-130 du 31 janvier 2011 (EFIP1025156D)](decret-n2011-130-du-31-janvier-2011-efip1025156d)
 - [Décret n°2011-1420 du 31 octobre 2011 (ETSR1109288D)](decret-n2011-1420-du-31-octobre-2011-etsr1109288d)
 - [Décret n°2010-1041 du 1er septembre 2010 (ECEC1005427D)](decret-n2010-1041-du-1er-septembre-2010-ecec1005427d)
 - [Décret n°2011-230 du 1er mars 2011 (SCSA1032397D)](decret-n2011-230-du-1er-mars-2011-scsa1032397d)
