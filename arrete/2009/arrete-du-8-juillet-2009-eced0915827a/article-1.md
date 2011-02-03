@@ -637,7 +637,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">2 ans<br/>
 </td>
 <td align="center">
-<p align="left">ENSAM, CENTRE D'ENSEIGNEMENT ET DE RECHERCHE DE BORDEAUX-TALENCE<br/>
+<p align="left">Pôle aquitain de métrologie<br/>
 </p>
 </td>
 </tr>
