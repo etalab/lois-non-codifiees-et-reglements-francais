@@ -2,8 +2,6 @@
 
 Ainsi que leurs filiales et participations
 
-Alstom.
-
 Agence pour la diffusion de l'information technologique (ADIT).
 
 Aéroport de Bâle-Mulhouse.
@@ -14,15 +12,11 @@ Aéroports de province demeurant de la responsabilité de l'Etat.
 
 Air France-KLM.
 
+AREVA.
+
 Arte France.
 
-Autoroutes de France.
-
-Autoroutes Paris-Rhin-Rhône (SAPRR).
-
-Autoroutes du Nord et de l'Est de la France (SANEF).
-
-Autoroutes du Sud de la France (ASF).
+Audiovisuel extérieur de la France (AEF).
 
 Caisse nationale des autoroutes.
 
@@ -36,11 +30,11 @@ CNP-Assurances.
 
 Compagnie générale maritime et financière (CGMF).
 
-Développement des agro-industries du Sud (DAGRIS).
+DCNS.
 
-DCN.
+Défense conseil international (DCI).
 
-Défense conseil international groupe DCI.
+Dexia.
 
 Entreprise minière et chimique.
 
@@ -52,25 +46,31 @@ Etablissement public de financement et de restructuration (EPFR).
 
 Etablissement public de réalisation de défaisance (EPRD).
 
+European Aeronautic Defence and Space Company (EADS NV).
+
+Fonds stratégique d'investissement (FSI).
+
 France Télécom.
 
 France Télévisions.
 
-Gaz de France (GDF).
+GDF Suez.
 
 GIAT Industries.
+
+Imprimerie nationale.
 
 Laboratoire français du fractionnement et des biotechnologies (LFB).
 
 La Française des jeux.
 
+La Monnaie de Paris.
+
 La Poste.
 
-Ports autonomes.
+Ports autonomes et grands ports maritimes .
 
 Radio France.
-
-Radio France international (RFI).
 
 Régie autonome des transports parisiens (RATP).
 
@@ -84,23 +84,19 @@ SEMMARIS.
 
 Société concessionnaire française pour la construction et l'exploitation du tunnel routier sous le Mont-Blanc (ATMB-Autoroutes et tunnel du Mont-Blanc).
 
+Société de financement et d'investissement pour la réforme et le développement (SOFIRED).
+
 Société de gestion de garanties et de participations (SGGP).
 
 Société de gestion et participations aéronautiques (SOGEPA).
 
 Société des chemins de fer luxembourgeois.
 
-Société des participations du CEA (AREVA).
-
 Société financière de radiodiffusion (SOFIRAD).
 
 Société française d'exportation de systèmes avancés (SOFRESA).
 
-Société française d'études et réalisations équipements aéronautiques.
-
 Société française du tunnel routier du Fréjus (SFTRF).
-
-Société Imprimerie nationale.
 
 Société internationale de la Moselle.
 
@@ -108,7 +104,15 @@ Société nationale des chemins de fer français (SNCF).
 
 SNPE.
 
-Société néo-calédonienne d'énergie ENERCAL.
+Société nationale maritime Corse Méditerranée (SNCM).
+
+Société de prise de participation de l'Etat (SPPE).
+
+Société de valorisation foncière et immobilière (SOVAFIM).
+
+Thales.
+
+Thermes nationaux d'Aix-les-Bains.
 
 TSA.
 
