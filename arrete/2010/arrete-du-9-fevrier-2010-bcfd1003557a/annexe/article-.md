@@ -18,7 +18,7 @@ A N N E X E
 </td>
 </tr>
 <tr>
-<td rowspan="10">
+<td rowspan="14">
 <p align="center">Emplois de 1re catégorie - groupe I</p>
 </td>
 <td>
@@ -41,7 +41,8 @@ A N N E X E
 <p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
 </td>
 <td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières (supprimé à compter du 1er octobre 2011)</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -57,7 +58,7 @@ A N N E X E
 <p align="center">Ile-de-France</p>
 </td>
 <td>
-<p align="center">Ile-de-France</p>
+<p align="center">Ile-de-France (supprimé à compter du 26 janvier 2012)</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +71,18 @@ A N N E X E
 </tr>
 <tr>
 <td>
+<p align="center">Lyon</p>
+</td>
+<td>
+<p align="center">Rhône-Alpes - Auvergne (à compter du 1er octobre 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Orléans</p>
 </td>
 <td>
-<p align="center">Orléans</p>
+<p align="center">Orléans (supprimé à compter du 15 juin 2011)</p>
 </td>
 </tr>
 <tr>
@@ -82,6 +91,22 @@ A N N E X E
 </td>
 <td>
 <p align="center">Paris-Est </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Marseille</p>
+</td>
+<td>
+<p align="center">Méditerranée (à compter du 15 juin 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Nantes</p>
+</td>
+<td>
+<p align="center">Nantes (à compter du 26 janvier 2012)</p>
 </td>
 </tr>
 <tr>
@@ -97,11 +122,21 @@ A N N E X E
 <p align="center">Poitiers</p>
 </td>
 <td>
-<p align="center">Poitiers</p>
+<br/>
+<p align="center">Poitiers (supprimé à compter du 1er décembre 2011)</p>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="11">
+<td>
+<p align="center">Rennes</p>
+</td>
+<td>
+<p align="center">Rennes (à compter du 1er décembre 2011)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="16">
 <p align="center">Emplois de 1re catégorie - groupe II</p>
 </td>
 <td>
@@ -116,7 +151,7 @@ A N N E X E
 <p align="center">Annecy</p>
 </td>
 <td>
-<p align="center">Annecy</p>
+<p align="center">Annecy (supprimé à compter du 26 janvier 2012)</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +164,34 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Caen</p>
+<p align="center">Besançon</p>
 </td>
 <td>
-<p align="center">Caen</p>
+<p align="center">Besançon (à compter du 1er octobre 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
+</td>
+<td>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières (à compter du 1er octobre 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Ile-de-France</p>
+</td>
+<td>
+<p align="center">Ile-de-France (à compter du 26 janvier 2012)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Lille</p>
+</td>
+<td>
+<p align="center">Lille</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +199,7 @@ A N N E X E
 <p align="center">Lyon</p>
 </td>
 <td>
-<p align="center">Rhône-Alpes - Auvergne </p>
+<p align="center">Rhône-Alpes - Auvergne (supprimé à compter du 1er octobre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +207,9 @@ A N N E X E
 <p align="center">Marseille</p>
 </td>
 <td>
-<p align="center">Méditerranée</p>
+<br/>
+<p align="center">Méditerranée (supprimé à compter du 15 juin 2011)</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -164,7 +225,7 @@ A N N E X E
 <p align="center">Nantes</p>
 </td>
 <td>
-<p align="center">Nantes</p>
+<p align="center">Nantes (supprimé à compter du 26 janvier 2012)</p>
 </td>
 </tr>
 <tr>
@@ -185,14 +246,32 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Toulouse</p>
+<p align="center">Poitiers </p>
 </td>
 <td>
-<p align="center">Toulouse</p>
+<p align="center">Poitiers (à compter du 1er décembre 2011)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="22">
+<td>
+<p align="center">Rennes </p>
+</td>
+<td>
+<p align="center">Rennes (ajouté à compter du 15 juin 2011 puis supprimé à compter du 1er décembre 2011))</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Toulouse</p>
+</td>
+<td>
+<br/>
+<p align="center">Toulouse (supprimé à compter du 1er octobre 2011 puis ajouté à compter du 26 janvier 2012))</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="25">
 <p align="center">Emplois de 2e catégorie</p>
 </td>
 <td>
@@ -204,6 +283,14 @@ A N N E X E
 </tr>
 <tr>
 <td>
+<p align="center">Annecy</p>
+</td>
+<td>
+<p align="center">Annecy (à compter du 26 janvier 2012)</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Basse-Terre</p>
 </td>
 <td>
@@ -223,7 +310,16 @@ A N N E X E
 <p align="center">Besançon</p>
 </td>
 <td>
-<p align="center">Besançon</p>
+<p align="center">Besançon (supprimé à compter du 1er octobre 2011)</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Caen</p>
+</td>
+<td>
+<p align="center">Caen</p>
 </td>
 </tr>
 <tr>
@@ -268,14 +364,6 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Lille</p>
-</td>
-<td>
-<p align="center">Lille</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Lyon</p>
 </td>
 <td>
@@ -308,6 +396,15 @@ A N N E X E
 </tr>
 <tr>
 <td>
+<p align="center">Orléans</p>
+</td>
+<td>
+<br/>
+<p align="center">Orléans (à compter du 15 juin 2011)</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Orly</p>
 </td>
 <td>
@@ -335,7 +432,7 @@ A N N E X E
 <p align="center">Rennes</p>
 </td>
 <td>
-<p align="center">Rennes </p>
+<p align="center">Rennes (supprimé à compter du 15 juin 2011)</p>
 </td>
 </tr>
 <tr>
@@ -371,6 +468,14 @@ A N N E X E
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Toulouse</p>
+</td>
+<td>
+<p align="center">Toulouse (ajouté à compter du 1er octobre 2011 puis supprimé à compter du 26 janvier 2012)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="24">
 <p align="center">Emploi de 3e catégorie</p>
 </td>
@@ -384,18 +489,18 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center"> Bordeaux</p>
+<p align="center">Bordeaux</p>
 </td>
 <td>
-<p align="center"> Bordeaux</p>
+<p align="center">Bordeaux</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Chambéry</p>
+<p align="center">Chambéry</p>
 </td>
 <td>
-<p align="center"> Chambéry (à compter du 1er avril 2011)</p>
+<p align="center">Chambéry (à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -472,10 +577,10 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center"> Nice </p>
+<p align="center">Nice </p>
 </td>
 <td>
-<p align="center"> Nice (à compter du 31 décembre 2011)</p>
+<p align="center">Nice (à compter du 31 décembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -512,10 +617,10 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center"> Perpignan</p>
+<p align="center">Perpignan</p>
 </td>
 <td>
-<p align="center">  Perpignan</p>
+<p align="center">Perpignan</p>
 </td>
 </tr>
 <tr>
