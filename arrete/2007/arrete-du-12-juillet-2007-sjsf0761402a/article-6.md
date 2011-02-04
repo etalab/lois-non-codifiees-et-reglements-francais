@@ -1,15 +1,13 @@
 # Article 6
 
-Les candidats titulaires de l'un des diplômes suivants sont dispensés de la vérification des exigences préalables à la mise en situation pédagogique :
+Sont  dispensés de la vérification des exigences préalables à la mise en  situation pédagogique définies à l'article 5 les candidats titulaires de  l'un des brevets fédéraux ou certificat de qualification  professionnelle suivants :
 
-- le certificat de moniteur d'arts martiaux chinois externes délivré par la Fédération française de wushu ;
+― certificat de moniteur  d'arts martiaux chinois internes délivré par la Fédération française de  wushu, arts énergétiques et martiaux chinois ;
 
-- le certificat de moniteur d'arts martiaux chinois internes délivré par la Fédération française de wushu ;
+―  diplôme fédéral homologué d'arts martiaux chinois internes de nei chia  délivré avant le 29 août 2007 par la Fédération française de wushu, arts  énergétiques et martiaux chinois ;
 
-- le certificat de moniteur d'arts énergétiques chinois délivré par la Fédération française de wushu ;
+― diplôme  d'instructeur fédéral délivré avant le 31 décembre 1998 par la  Fédération française de karaté et disciplines associées ;
 
-- le diplôme d'instructeur fédéral délivré par la Fédération française de karaté ;
+―  certificat fédéral d'aptitude à l'enseignement du tai-chi-chuan délivré  avant le 31 décembre 1998 par la Fédération de tai-chi-chuan et chi  gong ;
 
-- le certificat fédéral d'aptitude à l'enseignement du taï-chi-chuan délivré par la Fédération de taï-chi-chuan et chi gong ;
-
-- tout diplôme délivré par l'Etat permettant d'enseigner, d'animer ou d'encadrer une activité physique ou sportive ou d'entraîner ses pratiquants contre rémunération, en application de l'article L. 212-1 du code du sport.
+― certificat de qualification professionnelle " assistant professeur d'arts martiaux ” mention " arts martiaux chinois internes ”.

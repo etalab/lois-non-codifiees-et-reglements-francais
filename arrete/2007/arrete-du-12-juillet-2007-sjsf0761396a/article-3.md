@@ -1,13 +1,13 @@
 # Article 3
 
-Les exigences préalables requises pour accéder à la formation, prévues à l'article 10 du décret du 20 novembre 2006 susvisé, sont les suivantes :
+Les exigences préalables requises pour accéder à la formation, prévues à l'article D. 212-44 du code du sport susvisé, sont les suivantes :
 
-- être capable d'attester d'une maîtrise technique minimale dans les arts martiaux chinois externes ;
+-être capable d'attester d'une maîtrise technique dans les arts martiaux chinois externes ;
 
-- et justifier d'une expérience d'animation de groupe et d'encadrement dans un art martial chinois externe.
+-et justifier d'une expérience d'animation de groupe dans un art martial chinois externe.
 
-Il est procédé à la vérification de ces exigences techniques préalables au moyen :
+Il est procédé à la vérification des exigences préalables au moyen :
 
-- de la production d'une attestation délivrée par le directeur technique national de la fédération ayant délégation pour les arts martiaux chinois externes à l'issue d'un test technique organisé sous sa responsabilité ;
+-d'un test technique correspondant au niveau technique de l'attestation de troisième niveau en arts martiaux chinois externes délivrée par la Fédération française de wushu, arts énergétiques et martiaux chinois. Le directeur technique national du wushu organise ce test et délivre l'attestation de réussite ;
 
-- et de la production d'une attestation délivrée par le responsable des structures dans lesquelles l'activité d'animation et d'encadrement a été exercée.
+-et de la production d'une attestation délivrée par le responsable de la structure ou des structures dans lesquelles l'activité d'animation a été exercée.
