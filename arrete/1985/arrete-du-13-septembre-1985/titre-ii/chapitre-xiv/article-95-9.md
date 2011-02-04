@@ -42,12 +42,16 @@ a) Le "Fonds Tirelire" résultant de l'application des dispositions des articles
 
 Cette Tirelire constituée par amputation du "Fonds de Tirelire par multiple entier de 1 000 euros net à l'issue des opérations de répartition de chaque "Quinté Plus" est redistribuée selon les modalités définies au paragraphe b ci-dessous, lors du premier "Quinté Plus suivant celui sur lequel la Tirelire a été constituée.
 
-Elle peut être également abondée, le cas échéant, de dotations spécifiques du Pari mutuel urbain ou d'annonceurs.
+La "Tirelire" peut également être abondée ponctuellement par une amputation spécifique supplémentaire du "Fonds Tirelire" et redistribuée, lors d'un "Quinté Plus" déterminé, selon les modalités définies au paragraphe b ci-dessous.
 
-b) Le montant de la "Tirelire" redistribué, qui ne saurait être supérieur à dix millions d'euros net, est divisé en autant de parties égales qu'il y a de mises payables dans l'ordre exact d'arrivée comportant le "N° Plus Gagnant" déterminé selon les modalités définies à l'article 95.1.2-I ci-dessus.
+Dans le cas où, lors de ce "Quinté Plus" aucune combinaison donnant lieu au rapport exact d'arrivée ne comporterait le "N° Plus Gagnant", ou dans le cas où ce "Quinté Plus" ne serait pas organisé, l'abondement supplémentaire visé à l'alinéa ci-dessus, est déduit du montant de la "Tirelire" redistribuée lors du premier "Quinté Plus" suivant celui sur lequel la "Tirelire" avait été abondée, et affecté au "Fonds Tirelire".
 
-Le quotient ainsi obtenu constitue le "rapport brut Tirelire pour chacune des mises payables dans l'ordre exact d'arrivée comportant le "N° Plus Gagnant".
+b) Le montant de la "Tirelire" redistribué qui ne saurait être supérieur au montant du "Fonds Tirelire" disponible, sauf cas prévu au troisième alinéa ci-dessous, est divisé en autant de parties égales qu'il y a de mises payables dans l'ordre exact d'arrivée comportant le "N° Plus Gagnant" déterminé selon les modalités définies à l'article 95.1.2 (I) ci-dessus.
 
-Dans le cas où aucune des combinaisons donnant lieu au rapport exact d'arrivée ne comporterait le "N° Plus Gagnant", ou dans le cas où il n'est pas organisé de "Quinté Plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire" constituée sur l'épreuve considérée est ajouté au montant de la "Tirelire constituée en application des dispositions de l'article 95.5 a du premier "Quinté Plus" suivant celui sur lequel la "Tirelire" aurait été normalement redistribuée.
+Le quotient ainsi obtenu constitue le "rapport brut Tirelire" pour chacune des mises payables dans l'ordre exact d'arrivée comportant le "N° Plus gagnant".
+
+La "Tirelire" peut également être abondée ponctuellement au-delà du montant du "Fonds Tirelire" disponible, de dotations spécifiques d'annonceurs ou du Pari mutuel urbain sur décision prise par son conseil d'administrateurs.
+
+Dans le cas où aucune des combinaisons donnant lieu au rapport exact d'arrivée ne comporterait le "N° Plus Gagnant", ou dans le cas où il n'est pas organisé de "Quinté Plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire" constituée sur l'épreuve considérée est, sauf cas prévu au quatrième alinéa du a ci-dessus, ajouté au montant de la "Tirelire" constituée en application des dispositions de l'article 95.5 du premier "Quinté Plus" suivant celui sur lequel la "Tirelire" aurait été normalement redistribuée.
 
 Le montant de la "Tirelire" ainsi que la journée sur laquelle il sera redistribué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari "Quinté Plus" de la journée considérée.
