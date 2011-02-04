@@ -192,7 +192,6 @@
 - [Arrêté du 11 janvier 2001 (INTE0100026A)](arrete-du-11-janvier-2001-inte0100026a)
 - [Arrêté du 11 juillet 2001 (ECOS0170008A)](arrete-du-11-juillet-2001-ecos0170008a)
 - [Arrêté du 11 juillet 2001 (MESH0122594A)](arrete-du-11-juillet-2001-mesh0122594a)
-- [Arrêté du 11 juin 2001 (AGRM0101179A)](arrete-du-11-juin-2001-agrm0101179a)
 - [Arrêté du 11 juin 2001 (ECOF0100011A)](arrete-du-11-juin-2001-ecof0100011a)
 - [Arrêté du 11 juin 2001 (EQUS0100891A)](arrete-du-11-juin-2001-equs0100891a)
 - [Arrêté du 11 juin 2001 (MENA0101056A)](arrete-du-11-juin-2001-mena0101056a)
