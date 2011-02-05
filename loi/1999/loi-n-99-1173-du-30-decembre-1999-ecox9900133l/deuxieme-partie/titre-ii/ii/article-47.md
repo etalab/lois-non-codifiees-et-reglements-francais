@@ -4,6 +4,6 @@ I. - Une allocation de reconnaissance indexée sur le taux d'évolution en moyen
 
 Les conditions d'attribution et le montant de cette rente sont définis par décret.
 
-I bis. - Une allocation de reconnaissance indexée sur le taux d'évolution en moyenne annuelle des prix à la consommation de tous les ménages (hors tabac) est versée, sous conditions d'âge, aux conjoints ou ex-conjoints survivants non remariés des personnes désignées au premier alinéa de l'article 2 de la loi n° 94-488 du 11 juin 1994 précitée et remplissant les conditions de nationalité telles que définies à l'article 9 de la loi n° 87-549 du 16 juillet 1987 relative au règlement de l'indemnisation des rapatriés. Cette disposition entre en vigueur à compter du 1er janvier 2001. Les conditions d'attribution et le montant de cette rente sont définis par décret.
+I bis. - Une allocation de reconnaissance indexée sur le taux d'évolution en moyenne annuelle des prix à la consommation de tous les ménages (hors tabac) est versée, sous conditions d'âge, aux conjoints ou ex-conjoints survivants non remariés des personnes désignées au premier alinéa de l'article 2 de la loi n° 94-488 du 11 juin 1994 précitée. Cette disposition entre en vigueur à compter du 1er janvier 2001. Les conditions d'attribution et le montant de cette rente sont définis par décret.
 
 II. Paragraphe modificateur
