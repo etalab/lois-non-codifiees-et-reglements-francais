@@ -1,6 +1,6 @@
 # Article 6
 
-I. - Outre les commissions mentionnées à l'article 43 de la Constitution seules peuvent être éventuellement créées au sein de chaque assemblée parlementaire des commissions d'enquête ; les dispositions ci-dessous leur sont applicables.
+I.-Outre les commissions mentionnées à l'article 43 de la Constitution seules peuvent être éventuellement créées au sein de chaque assemblée parlementaire des commissions d'enquête ; les dispositions ci-dessous leur sont applicables.
 
 Les commissions d'enquête sont formées pour recueillir des éléments d'information soit sur des faits déterminés, soit sur la gestion des services publics ou des entreprises nationales, en vue de soumettre leurs conclusions à l'assemblée qui les a créées.
 
@@ -24,11 +24,13 @@ Le refus de communiquer les documents visés au deuxième alinéa du II est pass
 
 Dans les cas visés aux deux précédents alinéas, le tribunal peut en outre prononcer l'interdiction, en tout ou partie, de l'exercice des droits civiques mentionnés à l'article 131-26 du code pénal, pour une durée maximale de deux ans à compter du jour où la personne condamnée a subi sa peine.
 
-En cas de faux témoignage ou de subornation de témoin, les dispositions des articles 434-13, 434-14 et 434-15 du code pénal sont respectivement applicables.
+En cas de faux témoignage ou de subornation de témoin, les dispositions des articles 434-13,434-14 et 434-15 du code pénal sont respectivement applicables.
 
 Les poursuites prévues au présent article sont exercées à la requête du président de la commission ou, lorsque le rapport de la commission a été publié, à la requête du bureau de l'assemblée intéressée.
 
 IV. Les auditions auxquelles procèdent les commissions d'enquête sont publiques. Les commissions organisent cette publicité par les moyens de leur choix. Toutefois, elles peuvent décider l'application du secret ; dans ce cas, les dispositions du dernier alinéa du présent article sont applicables.
+
+Les personnes entendues par une commission d'enquête sont admises à prendre connaissance du compte rendu de leur audition. Cette communication a lieu sur place lorsque l'audition a été effectuée sous le régime du secret. Aucune correction ne peut être apportée au compte rendu. Toutefois, l'intéressé peut faire part de ses observations par écrit. Ces observations sont soumises à la commission, qui peut décider d'en faire état dans son rapport.
 
 L'assemblée intéressée peut décider, par un vote spécial et après s'être constituée en comité secret de ne pas autoriser la publication de tout ou partie du rapport d'une commission d'enquête.
 
