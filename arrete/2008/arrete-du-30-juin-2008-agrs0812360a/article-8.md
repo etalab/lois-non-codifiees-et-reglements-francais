@@ -4,7 +4,7 @@ Le délégué à l'information et à la communication est assisté dans l'exerci
 
 La délégation à l'information et à la communication comprend :
 
-1. Le service de presse.
+1. le département des relations extérieures.
 
 2. Le département de l'information et des médias.
 
@@ -12,7 +12,7 @@ La délégation à l'information et à la communication comprend :
 
 4. La mission des archives de l'administration centrale.
 
-I. - Le service de presse assure l'ensemble des relations presse du ministère en liaison avec le cabinet du ministre et les directions d'administration centrale.
+I. -Le département des relations extérieures est chargé de valoriser l'action du ministère auprès des médias et des relais d'opinion. Il comprend le service de presse, qui assure les relations avec la presse en liaison avec le cabinet du ministre et les directions d'administration centrale. Il est le point d'entrée unique des médias dans le ministère. Il conçoit et met en œuvre les opérations de relations publiques. Il organise et anime les réseaux de diffusion. Il assure le suivi opérationnel de la diffusion des outils de communication auprès des relais d'opinion, du public et des médias, et gère les fichiers de mobilisation pour les évènements, le magazine institutionnel et les autres outils de communication.
 
 II. - Le département de l'information et des médias conçoit et réalise l'ensemble des produits de communication et coordonne la politique éditoriale du ministère. Il élabore et met en œuvre la politique internet du ministère.
 

@@ -8,7 +8,9 @@ Le service de la modernisation comprend :
 
 3. Le conseil des systèmes d'information.
 
-I. - La sous-direction du pilotage des services est chargée de concevoir les actions de modernisation et de déconcentration du ministère ; elle coordonne et accompagne leur mise en œuvre et en organise l'évaluation. Elle coordonne les réformes d'organisation du ministère et des services déconcentrés qui en dépendent. Elle organise les chantiers de modernisation des relations avec les usagers, notamment à travers la simplification des procédures et le développement de l'administration électronique.
+4. La mission "Simplifions !"
+
+I. - La sous-direction du pilotage des services est chargée de concevoir les actions de modernisation et de déconcentration du ministère ; elle coordonne et accompagne leur mise en œuvre et en organise l'évaluation. Elle coordonne les réformes d'organisation du ministère et des services déconcentrés qui en dépendent. Elle organise les chantiers de modernisation des relations avec les usagers.
 
 Elle fixe les orientations du contrôle de gestion, assure la maîtrise d'ouvrage de son système d'information et coordonne l'action des contrôleurs de gestion du ministère.
 
@@ -45,3 +47,5 @@ La sous-direction des systèmes d'information comprend :
 ― la mission de sécurité des systèmes d'information.
 
 III. - Le conseil des systèmes d'information est chargé d'assurer la cohérence et l'interopérabilité des systèmes d'information du ministère. A ce titre, il assure la coopération entre les services du ministère et des opérateurs placés sous sa tutelle pour garantir le développement intégré de son système d'information ainsi que la cohérence des données qui le sous-tendent.
+
+IV. - La mission "Simplifions !" est chargée de susciter et de coordonner l'ensemble des démarches ministérielles de simplification administrative.

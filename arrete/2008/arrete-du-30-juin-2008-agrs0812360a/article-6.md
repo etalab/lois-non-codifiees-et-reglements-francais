@@ -8,11 +8,11 @@ Le service des ressources humaines comprend :
 
 2. La sous-direction du développement professionnel et des relations sociales.
 
-3. L'observatoire des missions et des métiers.
+3. (Supprimé)
 
 4. La mission des systèmes d'information des ressources humaines.
 
-5. La mission du pilotage de l'emploi et de la gestion prévisionnelle.
+5. La mission du pilotage de l'emploi, de la gestion prévisionnelle des ressources humaines et de l'Observatoire des missions et des métiers .
 
 6. La mission du projet AGORHA.
 
@@ -60,10 +60,14 @@ La sous-direction du développement professionnel et des relations sociales comp
 
 ― le bureau des pensions.
 
-III. ― L'observatoire des missions et des métiers est chargé de suivre les évolutions des missions du ministère et d'en évaluer les conséquences quantitatives ou qualitatives sur les métiers actuels ou émergents.
+III. La mission du pilotage de l'emploi, de la gestion prévisionnelle des ressources humaines et de l'Observatoire des missions et des métiers anime et coordonne la gestion prévisionnelle des ressources humaines. Elle assure la programmation et le suivi du budget du personnel, de la masse salariale, des effectifs et des recrutements. Elle coordonne la politique indemnitaire. Elle assure le suivi des évolutions des missions du ministère et en évalue les conséquences quantitatives ou qualitatives sur les métiers actuels ou émergents.
+
+L'Observatoire des missions et des métiers, qui lui est rattaché, assure la veille prospective sur les missions mises en œuvre par l'administration centrale du ministère chargé de l'agriculture, de l'alimentation et de la pêche, les services déconcentrés et les établissements publics intervenant dans les domaines des politiques relevant de ce ministère, ainsi que sur les compétences requises pour les exercer. Il fait toute recommandation utile à la gestion des ressources humaines, notamment en matière de recrutement, de formation initiale ou continue et de construction raisonnée des parcours de carrière.
+
+L'Observatoire des missions et des métiers comporte un conseil d'orientation dont les attributions, la composition et la présidence sont fixés par arrêté du ministre chargé de l'agriculture.
 
 IV. ― La mission des systèmes d'information des ressources humaines assure la maîtrise d'ouvrage des systèmes d'information ressources humaines. Elle recense et expertise les besoins exprimés par les directions, établissements et utilisateurs concernés. Elle participe à l'assistance aux utilisateurs. Elle assure la cohérence des systèmes d'information en lien avec la gestion des ressources humaines et le suivi des agents.
 
-V. ― La mission du pilotage de l'emploi et de la gestion prévisionnelle anime et coordonne la gestion prévisionnelle des ressources humaines. Elle assure la programmation et le suivi du budget du personnel, de la masse salariale, des effectifs et des recrutements. Elle cordonne la politique indemnitaire.
+V. (Supprimé)
 
 VI. - La mission du projet AGORHA pilote le projet AGORHA de modernisation du système d'information des ressources humaines du ministère et l'adaptation des outils et procédures de la gestion des ressources humaines aux besoins du raccordement à l'opérateur national de paie.A ce titre, elle mobilise l'ensemble des services concernés au sein du ministère et veille à la bonne coordination de leurs actions ainsi qu'à l'articulation d'AGORHA avec les autres projets informatiques structurants du ministère et pilote les actions d'accompagnement des changements d'organisation ou de méthode de travail liés à ces projets.
