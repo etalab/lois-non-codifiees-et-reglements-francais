@@ -70,6 +70,6 @@ En cas d'absence des déclarations prévues au premier alinéa du présent VIII,
 
 IX.-L'arrêté prévu à l'article 11 fixe les modalités de versement des cotisations à l'IRCANTEC, notamment leur date d'exigibilité qui peut varier selon leur montant annuel.
 
-X.-Il est appliqué une majoration de retard aux cotisations qui n'ont pas été versées aux dates limites d'exigibilité. Cette majoration est augmentée par trimestre ou fraction de trimestre écoulé après l'expiration d'un délai de trois mois à compter de la date limite d'exigibilité des cotisations. Le montant de cette majoration de retard est celui fixé à l'article R. 243-18 du code de la sécurité sociale.
+X.-Il est appliqué une majoration de retard aux cotisations qui n'ont pas été versées aux dates limites d'exigibilité. Cette majoration est augmentée par mois ou fraction de mois écoulé à compter de la date limite d'exigibilité des cotisations. Le montant de cette majoration de retard est celui fixé à l'article R. 243-18 du code de la sécurité sociale.
 
 XI.-Les collectivités peuvent, en cas de bonne foi dûment prouvée, formuler une demande de réduction ou de remise des majorations fixées au X du présent article dans les conditions fixées aux trois premiers alinéas de l'article R. 243-20 du code de la sécurité sociale.
