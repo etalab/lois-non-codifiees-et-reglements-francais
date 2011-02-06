@@ -149,7 +149,7 @@
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Directeur du service interarmées de liquidation des transports </p>
+<p>Directeur du centre interarmées d'administration des opérations</p>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 1 </p>
@@ -342,6 +342,15 @@
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<p>Chefs des éléments de soutien national (NSE) </p>
+</td>
+<td>
+<p>MAPA × 0,66 </p>
+</td>
+</tr>
+<tr>
 <td colspan="3" width="702">
 <p align="center">Armée de terre </p>
 </td>
@@ -412,9 +421,7 @@
 <td rowspan="2" valign="top" width="247">
 <p>Divers </p>
 </td>
-<td valign="top" width="304">
-<p>Chef de la section géographique militaire (4) </p>
-</td>
+<td valign="top" width="304">Chef de la section géographique militaire (4) </td>
 <td valign="top" width="152">
 <p>MAPA × 1 </p>
 </td>
@@ -422,9 +429,10 @@
 <tr>
 <td valign="top" width="304">
 <p>Commandants des corps de troupes et chefs des organismes administrés comme tels (9) </p>
+<br/>
 </td>
 <td valign="top" width="152">
-<p>MAPA × 0, 66 </p>
+<p>MAPA × 0,66 </p>
 </td>
 </tr>
 <tr>
@@ -680,10 +688,10 @@
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Directeurs régionaux du service d'infrastructure de la défense </p>
+<p>Directeurs des établissements du service d'infrastructure de la défense </p>
 </td>
 <td valign="top" width="152">
-<p>Sans limitation (5) <br/>MAPA x 120 (6) <br/>MAPA x 40 (7) </p>
+<p>Sans limitation </p>
 </td>
 </tr>
 <tr>
@@ -691,25 +699,22 @@
 <p>Directeur d'infrastructure de la défense de Cherbourg </p>
 </td>
 <td valign="top" width="152">
-<p>Sans limitation (5) <br/>MAPA x 120 (6) <br/>MAPA x 40 (7) </p>
+<p>Sans limitation (5) </p>
+<p>MAPA × 120 (6) </p>
+<p>MAPA × 40 (7) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="304">
 <p>Directeurs d'établissements d'infrastructure de la défense </p>
 </td>
-<td valign="top" width="152">
-<p>Sans limitation (5) <br/>MAPA x 70 (6) </p>
+<td valign="top" width="152">Sans limitation (5) <p>MAPA x 70 (6) </p>
 <p>MAPA x 30 (7) </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="304">
-<p>Directeurs des directions d'infrastructure de la défense outre mer, à Dakar et à Djibouti </p>
-</td>
-<td valign="top" width="152">
-<p>Sans limitation (5) <br/>MAPA x 70 (6) <br/>MAPA x 30 (7) </p>
-</td>
+<td valign="top" width="304">Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger </td>
+<td valign="top" width="152">Sans limitation</td>
 </tr>
 <tr>
 <td colspan="3" width="702">
