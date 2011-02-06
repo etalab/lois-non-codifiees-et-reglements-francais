@@ -354,7 +354,6 @@
 - [Arrêté du 6 février 2009 (ECEK0900010A)](arrete-du-6-fevrier-2009-ecek0900010a)
 - [Arrêté du 6 février 2009 (ECET0902860A)](arrete-du-6-fevrier-2009-ecet0902860a)
 - [Arrêté du 6 février 2009 (MAEA0903118A)](arrete-du-6-fevrier-2009-maea0903118a)
-- [Arrêté du 6 février 2009 (SASG0903232A)](arrete-du-6-fevrier-2009-sasg0903232a)
 - [Arrêté du 6 février 2009 (SASH0903239A)](arrete-du-6-fevrier-2009-sash0903239a)
 - [Arrêté du 6 février 2009 (SASP0903371A)](arrete-du-6-fevrier-2009-sasp0903371a)
 - [Arrêté du 6 février 2009 (SJSG0824493A)](arrete-du-6-fevrier-2009-sjsg0824493a)
