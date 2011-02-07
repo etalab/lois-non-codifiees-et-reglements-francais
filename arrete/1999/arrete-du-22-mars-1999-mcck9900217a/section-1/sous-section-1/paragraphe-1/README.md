@@ -6,4 +6,3 @@
 - [Article 1-4](article-1-4.md)
 - [Article 1-5](article-1-5.md)
 - [Article 1-6](article-1-6.md)
-- [Article 4](article-4.md)
