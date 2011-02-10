@@ -32,6 +32,8 @@
 - [Décret n°2011-25 du 6 janvier 2011 (IOCC1028001D)](decret-n2011-25-du-6-janvier-2011-iocc1028001d)
 - [Décret n°2011-26 du 6 janvier 2011 (EFIP1030499D)](decret-n2011-26-du-6-janvier-2011-efip1030499d)
 - [Décret n°2011-27 du 6 janvier 2011 (EFIE1004944D)](decret-n2011-27-du-6-janvier-2011-efie1004944d)
+- [Décret n°2011-157 du 7 février 2011 (IOCC1014671D)](decret-n2011-157-du-7-fevrier-2011-iocc1014671d)
+- [Décret n°2011-158 du 7 février 2011 (AGRS1032382D)](decret-n2011-158-du-7-fevrier-2011-agrs1032382d)
 - [Décret n°2011-23 du 7 janvier 2011 (PRMX1100298D)](decret-n2011-23-du-7-janvier-2011-prmx1100298d)
 - [Décret n°2011-28 du 7 janvier 2011 (EFIP1027334D)](decret-n2011-28-du-7-janvier-2011-efip1027334d)
 - [Décret n°2011-32 du 7 janvier 2011 (ETSH1012916D)](decret-n2011-32-du-7-janvier-2011-etsh1012916d)
