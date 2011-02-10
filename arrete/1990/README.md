@@ -496,7 +496,6 @@
 - [Arrêté du 20 juin 1990 (SPSS9001288A)](arrete-du-20-juin-1990-spss9001288a)
 - [Arrêté du 20 mars 1990 (ECOT9013274A)](arrete-du-20-mars-1990-ecot9013274a)
 - [Arrêté du 20 mars 1990 (SPSP9000712A)](arrete-du-20-mars-1990-spsp9000712a)
-- [Arrêté du 20 mars 1990 (SPSP9000933A)](arrete-du-20-mars-1990-spsp9000933a)
 - [Arrêté du 20 mars 1990 (SPSP9001042A)](arrete-du-20-mars-1990-spsp9001042a)
 - [Arrêté du 20 novembre 1990 (ECOT9010095A)](arrete-du-20-novembre-1990-ecot9010095a)
 - [Arrêté du 20 novembre 1990 (EQUS9001606A)](arrete-du-20-novembre-1990-equs9001606a)
