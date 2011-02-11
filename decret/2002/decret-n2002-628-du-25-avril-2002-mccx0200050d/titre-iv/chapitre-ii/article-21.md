@@ -8,7 +8,7 @@ a) Trois parmi les professionnels mentionnés aux articles 10 et 11 ;
 
 b) Deux personnalités choisies en raison de leurs compétences dans l'un des domaines scientifiques suivants : archéologie, art contemporain, arts décoratifs, arts graphiques, ethnologie, histoire, peinture, sciences de la nature et de la vie, sciences et techniques, sculpture ;
 
-2° Une personne désignée par le    directeur général des patrimoines au sein des membres de l'inspection générale des musées ou du centre de recherche et de restauration des musées de France.
+2° Une personne désignée par le directeur général des patrimoines au sein du service chargé des musées à la direction générale des patrimoines ou du centre de recherche et de restauration des musées de France.
 
 II.-En cas d'urgence, l'avis est donné par une délégation permanente composée du président de la commission, d'un membre élu en son sein et du membre désigné par la direction générale des patrimoines. Le président de la commission rend compte des avis de la délégation lors de la réunion plénière suivante.
 

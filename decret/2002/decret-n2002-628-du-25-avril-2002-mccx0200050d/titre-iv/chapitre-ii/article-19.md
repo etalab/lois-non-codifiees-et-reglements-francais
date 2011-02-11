@@ -8,13 +8,13 @@ a) Trois professionnels mentionnés aux articles 10 et 11 ;
 
 b) Deux personnalités choisies en raison de leurs compétences dans la restauration et la conservation préventive, dont au moins un spécialiste mentionné à l'article 13 ;
 
-2° Deux membres désignés par le    directeur général des patrimoines au sein des membres de l'inspection générale des musées et du centre de recherche et de restauration des musées de France ;
+2° Deux membres désignés par le directeur général des patrimoines au sein du service chargé des musées à la direction générale des patrimoines et du centre de recherche et de restauration des musées de France ;
 
 3° Un membre désigné par le délégué régional à la recherche et à la technologie.
 
 Chaque projet est présenté à la commission par le professionnel responsable du musée intéressé ou son représentant.
 
-II.-En cas d'urgence, le projet de restauration est examiné par une délégation permanente composée du président de la commission, de deux membres élus en son sein, du conseiller pour les musées à la direction régionale des affaires culturelles et de l'un des membres désignés par le    directeur général des patrimoines. Des suppléants sont désignés dans les mêmes conditions que les membres titulaires.
+II.-En cas d'urgence, le projet de restauration est examiné par une délégation permanente composée du président de la commission, de deux membres élus en son sein, du conseiller pour les musées à la direction régionale des affaires culturelles et de l'un des membres désignés par le directeur général des patrimoines. Des suppléants sont désignés dans les mêmes conditions que les membres titulaires.
 
 Le président rend compte des avis de la délégation aux membres de la commission lors de la réunion plénière suivante.
 

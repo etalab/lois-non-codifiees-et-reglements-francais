@@ -10,9 +10,9 @@ b) Le délégué régional à la recherche et à la technologie ou son représen
 
 c) Le conseiller pour les musées à la direction régionale des affaires culturelles ou son représentant ;
 
-d) Le chef de l'inspection générale des musées ou son représentant ;
+d) Le responsable du service chargé des musées à la direction générale des patrimoines ou son représentant ;
 
-e) Le chef d'un des grands départements mentionnés à l'article 2 du décret du 31 août 1945 susvisé, désigné par le    directeur général des patrimoines ;
+e) Le chef d'un des grands départements mentionnés à l'article 2 du décret du 31 août 1945 susvisé, désigné par le directeur général des patrimoines ;
 
 2° Dix personnalités désignées par le préfet de région, exerçant ou ayant exercé des activités scientifiques respectivement dans un des domaines suivants : archéologie, art contemporain, arts décoratifs, arts graphiques, ethnologie, histoire, peinture, sciences de la nature et de la vie, sciences et techniques, sculpture.
 
@@ -20,7 +20,7 @@ Les personnalités mentionnées au 2° sont désignées, pour moitié au moins, 
 
 Par dérogation aux dispositions de l'article 11 du décret du 10 mai 1982 susvisé, la présidence de la commission est assurée par le directeur régional des affaires culturelles.
 
-II.-En cas d'urgence, le projet d'acquisition est examiné par une délégation permanente composée du président de la commission, de deux membres élus en son sein, du conseiller pour les musées à la direction régionale des affaires culturelles et du chef de l'inspection générale des musées ou de son représentant. Des suppléants sont désignés dans les mêmes conditions que les membres titulaires élus.
+II.-En cas d'urgence, le projet d'acquisition est examiné par une délégation permanente composée du président de la commission, de deux membres élus en son sein, du conseiller pour les musées à la direction régionale des affaires culturelles et du responsable du service chargé des musées à la direction générale des patrimoines ou de son représentant. Des suppléants sont désignés dans les mêmes conditions que les membres titulaires élus.
 
 Le président rend compte des avis de la délégation aux membres de la commission lors de la réunion plénière suivante.
 

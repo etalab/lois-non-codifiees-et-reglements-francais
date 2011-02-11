@@ -12,9 +12,9 @@ c) Un des délégués régionaux à la recherche et à la technologie ;
 
 2° Les conseillers pour les musées des directions régionales des affaires culturelles concernées ;
 
-3° Le chef de l'inspection générale des musées ;
+3° Le responsable du service chargé des musées à la direction générale des patrimoines ou son représentant ;
 
-4° Le chef d'un des grands départements mentionnés à l'article 2 du décret du 31 août 1945 susvisé, désigné par le    directeur général des patrimoines.
+4° Le chef d'un des grands départements mentionnés à l'article 2 du décret du 31 août 1945 susvisé, désigné par le directeur général des patrimoines.
 
 Lorsque la commission siège en matière d'acquisition, elle comprend en outre dix personnalités scientifiques désignées comme il est dit au 2° du I de l'article 18, par décision des préfets de région concernés.
 
@@ -24,6 +24,6 @@ Le président peut appeler à participer aux séances les directeurs régionaux 
 
 La direction régionale des affaires culturelles dans le ressort de laquelle siège la commission assure le secrétariat de celle-ci.
 
-II.-En cas d'urgence, le projet d'acquisition ou de restauration est examiné par une délégation permanente composée du président et du vice-président de la commission scientifique, de trois membres élus en son sein, des conseillers pour les musées dans les directions régionales des affaires culturelles et du chef de l'inspection générale des musées ou de son représentant.
+II.-En cas d'urgence, le projet d'acquisition ou de restauration est examiné par une délégation permanente composée du président et du vice-président de la commission scientifique, de trois membres élus en son sein, des conseillers pour les musées dans les directions régionales des affaires culturelles et du responsable du service chargé des musées à la direction générale des patrimoines ou de son représentant.
 
 III.-Ses autres modalités d'organisation et de fonctionnement sont celles applicables aux commissions régionales.
