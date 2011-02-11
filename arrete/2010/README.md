@@ -2489,7 +2489,6 @@
 - [Arrêté du 25 février 2010 (BCFD1006462A)](arrete-du-25-fevrier-2010-bcfd1006462a)
 - [Arrêté du 25 février 2010 (DEVA1001752A)](arrete-du-25-fevrier-2010-deva1001752a)
 - [Arrêté du 25 février 2010 (DEVA1005342A)](arrete-du-25-fevrier-2010-deva1005342a)
-- [Arrêté du 25 février 2010 (DEVT1003269A)](arrete-du-25-fevrier-2010-devt1003269a)
 - [Arrêté du 25 février 2010 (ESRS1004390A)](arrete-du-25-fevrier-2010-esrs1004390a)
 - [Arrêté du 25 février 2010 (IOCC1001100A)](arrete-du-25-fevrier-2010-iocc1001100a)
 - [Arrêté du 25 février 2010 (JUSA1005323A)](arrete-du-25-fevrier-2010-jusa1005323a)
