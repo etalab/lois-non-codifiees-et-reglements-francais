@@ -1,8 +1,8 @@
 # Article 4
 
-Le jury du concours est désigné chaque année par le ministre de la défense, sur proposition du directeur central du service du commissariat des armées. Il est présidé tour à tour par un commissaire général de l'armée de terre, un commissaire général de la marine, un commissaire général de l'armée de l'air ; les deux vice-présidents sont les commissaires généraux qui n'exercent pas la fonction de président du jury.
+Le  jury du concours est désigné chaque année par le ministre de la  défense, sur proposition du directeur central du service du commissariat  des armées. Il est présidé par un commissaire général, assisté de deux  vice-présidents du grade de colonel ou équivalent.
 
-En cas d'empêchement du président ou des vice-présidents, leur remplacement est assuré par le commissaire général de la même armée, suppléant, désigné par le ministre de la défense sur proposition du directeur central du service du commissariat des armées.
+En cas d'empêchement du président ou des vice-présidents, leur  remplacement est assuré respectivement par un commissaire général ou un  commissaire colonel ou un commissaire en chef de 1re classe, désignés  par le ministre de la défense sur proposition du directeur central du  service du commissariat des armées, avant le début des épreuves.
 
 Le jury peut, si nécessaire, comprendre plusieurs correcteurs pour la même épreuve.
 
