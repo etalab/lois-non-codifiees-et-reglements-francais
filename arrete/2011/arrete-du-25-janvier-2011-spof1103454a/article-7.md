@@ -1,0 +1,5 @@
+# Article 7
+
+Le candidat titulaire du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « hockey sur glace », obtient de droit l'unité capitalisable UC 4 « être capable d'encadrer le hockey sur glace en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « hockey sur glace ».
+
+Le candidat titulaire du brevet d'Etat d'éducateur sportif du premier degré, option « hockey sur glace », obtient de droit l'unité capitalisable UC 4 « être capable d'encadrer le hockey sur glace en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « hockey sur glace », s'il justifie d'une expérience d'entraîneur en hockey sur glace pour la catégorie U 18 à seniors d'une durée de quatre cent cinquante heures acquise au cours de deux saisons sportives au moins dans les cinq dernières années. Cette expérience est attestée par le directeur technique national du hockey sur glace.
