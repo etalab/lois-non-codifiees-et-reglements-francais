@@ -110,9 +110,17 @@ La possibilité d'inscription dans cette catégorie prioritaire est offerte selo
 
 5. Greffons pancréatiques
 
-5.1. Le greffon pancréatique est d'abord proposé à l'échelon local. Si le greffon est attribué à un receveur de greffe simultanée rein-pancréas, un rein du donneur est attribué simultanément à ce receveur.
+5.1. Le greffon pancréatique est d'abord proposé à l'échelon local soit pour une greffe du pancréas-organe soit pour une greffe d'îlots de Langhérans dans le cadre d'une recherche biomédicale. Le choix entre ces deux modes d'utilisation du greffon pancréatique est défini selon des critères de sélection du donneur définis par l'Agence de la biomédecine.
 
-5.2. Si le greffon pancréatique ne trouve pas de receveur à l'échelon local, il est proposé aux autres équipes de l'interrégion selon des modalités définies par l'Agence de la biomédecine, d'abord aux receveurs candidats à une greffe simultanée rein-pancréas, puis aux receveurs de greffe pancréatique isolée, puis aux receveurs de greffe d'îlots de Langerhans. En l'absence d'acceptation du pancréas dans l'interrégion, il est proposé à l'échelon national selon des modalités définies par l'Agence de la biomédecine, d'abord aux receveurs candidats à une greffe simultanée rein-pancréas, puis aux receveurs de greffe pancréatique isolée, puis aux receveurs de greffe d'îlots de Langerhans. Pour les receveurs candidats à une greffe simultanée rein-pancréas, les modalités selon lesquelles le greffon rénal est attribué avec le greffon pancraétique sont définies par l'Agence de la biomédecine.
+A l'échelon local, le greffon pancréas-organe peut être utilisé au choix de l'équipe soit pour une greffe simultanée pancréas-rein, soit pour une greffe pancréatique isolée. Si le greffon est attribué à un receveur de greffe simultané pancréas-rein, un rein du donneur est attribué simultanément à ce receveur.
+
+5.2. Si le greffon pancréas-organe ne trouve pas de receveur à l'échelon local, il est proposé aux autres équipes de l'interrégion, d'abord aux receveurs candidats à une greffe simultanée pancréas-rein, puis aux receveurs candidats à une greffe pancréatique isolée.
+
+5.3. En l'absence d'acceptation du pancréas-organe dans l'interrégion, il est proposé à l'échelon national, d'abord aux receveurs candidats à une greffe simultanée pancréas-rein, puis aux receveurs de greffe pancréatique isolée.
+
+5.4. Pour les patients en attente d'une greffe simultanée pancréas-rein, le greffon rénal suit systématiquement le greffon pancréatique lorsque le receveur remplit des conditions définies par l'Agence de la biomédecine en tenant compte de son âge, de son statut de personne antérieurement greffée ou non greffée, du taux de greffons pour lesquels il présente une incompatibilité. Dans le cas contraire, la greffe simultanée des deux greffons n'est possible que si le receveur bénéficie de l'attribution du greffon rénal selon les règles en vigueur.
+
+5.5. En cas de refus à l'échelon national d'un greffon pancréatique destiné soit à la greffe simultanée pancréas-rein, soit à la greffe pancréatique isolée, ce dernier doit être proposé pour la greffe d'îlots de Langhérans, selon les règles d'attribution définies par le protocole de recherche biomédicale.
 
 6. Greffons intestinaux
 
