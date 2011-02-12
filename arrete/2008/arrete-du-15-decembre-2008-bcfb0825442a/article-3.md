@@ -26,6 +26,8 @@ L'autorité chargée du contrôle financier fixe les seuils dans les limites dé
 
 Sont soumis au visa de l'autorité chargée du contrôle financier :
 
-― les contrats de recrutements de personnels non titulaires d'une durée supérieure à douze mois et leurs avenants ;
+- les indemnités pour sujétions particulières des personnels du cabinet du ministre ;
 
-― s'agissant des positions, les entrées par mise à disposition, remboursées ou non, ainsi que leurs renouvellements, les sorties par mise à disposition, donnant lieu ou non à remboursement ainsi que les entrées par détachement et leur renouvellement.
+- les contrats de recrutement de personnels non titulaires d'une durée supérieure à douze mois et leurs avenants ;
+
+- s'agissant des positions, les entrées par mise à disposition, remboursées ou non, ainsi que leurs renouvellements, les sorties par mise à disposition, donnant lieu ou non à remboursement, les entrées par détachements ou en position normale d'activité et leur renouvellement ainsi que les recrutements externes par intégration directe de fonctionnaires.
