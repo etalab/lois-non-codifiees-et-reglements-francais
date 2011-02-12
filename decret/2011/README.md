@@ -43,6 +43,7 @@
 - [Décret n°2011-159 du 8 février 2011 (ETSS1033225D)](decret-n2011-159-du-8-fevrier-2011-etss1033225d)
 - [Décret n°2011-160 du 8 février 2011 (MCCB1028544D)](decret-n2011-160-du-8-fevrier-2011-mccb1028544d)
 - [Décret n°2009-1524 du 9 décembre 2009 (JUSC0910058D)](decret-n2009-1524-du-9-decembre-2009-jusc0910058d)
+- [Décret n°2011-163 du 9 février 2011 (IOCV1033803D)](decret-n2011-163-du-9-fevrier-2011-iocv1033803d)
 - [Décret n°2011-36 du 10 janvier 2011 (DEVL1022270D)](decret-n2011-36-du-10-janvier-2011-devl1022270d)
 - [Décret n°2011-37 du 10 janvier 2011 (BCRS1013113D)](decret-n2011-37-du-10-janvier-2011-bcrs1013113d)
 - [Décret n°2011-38 du 10 janvier 2011 (DEFH1021842D)](decret-n2011-38-du-10-janvier-2011-defh1021842d)
