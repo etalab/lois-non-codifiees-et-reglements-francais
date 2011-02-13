@@ -14,9 +14,9 @@ II. ― Compte tenu des risques d'atteinte à l'ordre public et à l'ordre socia
 
 Pour les mêmes motifs, sont soumis à un régime d'agrément, dans les conditions prévues par la présente loi, les jeux et les paris en ligne qui font appel au savoir-faire des joueurs et, s'agissant des jeux, font intervenir simultanément plusieurs joueurs.
 
-III. ― 1. Il est institué auprès du Premier ministre un comité consultatif des jeux ayant compétence sur l'ensemble des jeux d'argent et de hasard. Il est chargé de centraliser les informations en provenance des autorités de contrôle et des opérateurs de jeux, d'assurer la cohérence de la régulation du secteur des jeux d'argent et de hasard au regard des objectifs généraux mentionnés au I et d'émettre des avis sur l'ensemble des questions relatives à ce secteur et sur l'information du public concernant les dangers du jeu excessif.
+III. ― 1. Il est institué    un comité consultatif des jeux ayant compétence sur l'ensemble des jeux d'argent et de hasard. Il est chargé de centraliser les informations en provenance des autorités de contrôle et des opérateurs de jeux, d'assurer la cohérence de la régulation du secteur des jeux d'argent et de hasard au regard des objectifs généraux mentionnés au I et d'émettre des avis sur l'ensemble des questions relatives à ce secteur et sur l'information du public concernant les dangers du jeu excessif.
 
-2. Le comité comprend un collège composé de dix-neuf membres dont le secrétariat est assuré par les services du Premier ministre. Il est présidé par un membre du Parlement.
+2. Le comité comprend un collège composé de dix-neuf membres dont le secrétariat est assuré dans des conditions fixées par le décret prévu au 3 ci-dessous. Il est présidé par un membre du Parlement.
 
 Il comprend également un observatoire des jeux composé de huit membres et deux commissions consultatives dont les membres peuvent être membres du collège. Ces deux commissions sont chargées de mettre en œuvre, respectivement, la politique d'encadrement des jeux de cercle et de casino et celle des jeux et paris sous droits exclusifs.
 
