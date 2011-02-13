@@ -2,30 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 novembre 2009 :
-
-Paris - Agadir (Maroc).
-
-Jusqu'au 30 avril 2010 :
-
-Paris - Nairobi (Kenya).
-
-Jusqu'au 31 octobre 2010 :
-
-Paris - Saint-Martin-Juliana (Antilles néerlandaises) ;
-
-Paris - Mombasa (Kenya) ;
-
-Paris - Bangkok (Thaïlande).
-
-Jusqu'au 30 novembre 2010 :
-
-Paris - Montréal (Canada).
-
-Jusqu'au 31 décembre 2010 :
-
-Paris - Louqsor (Egypte).
-
 Jusqu'au 28 février 2011 :
 
 Paris - Maurice (île Maurice) ;
@@ -47,8 +23,6 @@ Paris - Dzaoudzi (Mayotte).
 Jusqu'au 31 juillet 2012 :
 
 Paris - Sal (Cap-Vert) ;
-
-Paris - Tel-Aviv (Israël) ;
 
 Paris - Antananarivo (Madagascar) ;
 
