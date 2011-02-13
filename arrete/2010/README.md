@@ -3003,7 +3003,6 @@
 - [Arrêté du 29 janvier 2010 (IOCB0923730A)](arrete-du-29-janvier-2010-iocb0923730a)
 - [Arrêté du 29 janvier 2010 (JUSA1001555A)](arrete-du-29-janvier-2010-jusa1001555a)
 - [Arrêté du 29 janvier 2010 (JUSA1001557A)](arrete-du-29-janvier-2010-jusa1001557a)
-- [Arrêté du 29 janvier 2010 (JUSC1002854A)](arrete-du-29-janvier-2010-jusc1002854a)
 - [Arrêté du 29 janvier 2010 (MAEA1002828A)](arrete-du-29-janvier-2010-maea1002828a)
 - [Arrêté du 29 juillet 2010 (DEVO1017186A)](arrete-du-29-juillet-2010-devo1017186a)
 - [Arrêté du 29 juillet 2010 (DEVP1018696A)](arrete-du-29-juillet-2010-devp1018696a)
