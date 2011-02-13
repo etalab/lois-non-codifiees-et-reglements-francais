@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article 3 du décret du 27 mars 1992 susvisé, il est créé à la direction de la protection judiciaire de la jeunesse une commission chargée de statuer, d'une part, sur la reconnaissance de l'expérience professionnelle en équivalence des conditions de titres et de diplômes requises pour se présenter au concours externe sur épreuves d'éducateur de la protection judiciaire de la jeunesse au titre de l'année 2011 et, d'autre part, de se prononcer sur les demandes d'équivalence aux diplômes requis pour se présenter au concours d'éducateurs sur titres de la protection judiciaire de la jeunesse au titre de l'année 2011.
