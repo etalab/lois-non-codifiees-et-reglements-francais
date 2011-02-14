@@ -173,4 +173,6 @@ Transport public de personnes de moins de 10 places.
 
 V max (remorque)
 
+Ensemble + 5 essieux : 1 tonne
+
 _(1) Combinée avec la mention Autre J3 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg ._
