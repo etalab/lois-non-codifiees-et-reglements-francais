@@ -325,6 +325,7 @@
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
 - [Décret du 23 octobre 2006 (AGRP0601974D)](decret-du-23-octobre-2006-agrp0601974d)
+- [Décret n°2006-1044 du 23 août 2006 (EQUT0501633D)](decret-n2006-1044-du-23-aout-2006-equt0501633d)
 - [Décret n°2006-1296 du 23 octobre 2006 (SANS0622919D)](decret-n2006-1296-du-23-octobre-2006-sans0622919d)
 - [Décret n°2006-1300 du 23 octobre 2006 (AGRP0601950D)](decret-n2006-1300-du-23-octobre-2006-agrp0601950d)
 - [Décret n°2006-1301 du 23 octobre 2006 (MCCB0600710D)](decret-n2006-1301-du-23-octobre-2006-mccb0600710d)
