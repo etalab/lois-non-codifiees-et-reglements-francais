@@ -4,6 +4,8 @@ L'Agence nationale de la sécurité des systèmes d'information est l'autorité 
 
 A ce titre :
 
+- elle assure la fonction d'autorité nationale de défense des systèmes d'information. En cette qualité et dans le cadre des orientations fixées par le Premier ministre, elle décide les mesures que l'Etat met en œuvre pour répondre aux crises affectant ou menaçant la sécurité des systèmes d'information des autorités publiques et des opérateurs d'importance vitale et elle coordonne l'action gouvernementale ;
+
 ― elle conçoit, fait réaliser et met en œuvre les moyens interministériels sécurisés de communications électroniques nécessaires au Président de la République et au Gouvernement ;
 
 ― elle anime et coordonne les travaux interministériels en matière de sécurité des systèmes d'information ;
