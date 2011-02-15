@@ -10,15 +10,15 @@ Le service des affaires financières, sociales et logistiques comprend :
 
 3. La sous-direction du travail et de la protection sociale.
 
-4. La mission du projet CHORUS.
+4. (Supprimé).
 
 5. La mission d'audit d'évaluation et de contrôle des organismes de protection sociale agricole créée par l'arrêté du 8 décembre 2009 susvisé.
 
-I. - La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
+I.-La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
 
 Elle expertise les questions fiscales intéressant les exploitations et les entreprises ; elle prépare les dispositions législatives ou réglementaires à caractère fiscal.
 
-Elle prépare et met en œuvre la réglementation comptable. Elle est le correspondant des autres directions d'administration centrale pour les fonctions comptables. Elle contrôle et enregistre les engagements, affectations, réservations et délégations de crédits de l'administration centrale ; elle enregistre les constatations de service fait. Elle émet les titres de perception, y compris pour les recettes de personnel. Elle pilote le contrôle interne ministériel ; elle organise et contrôle la préparation du bilan.
+Elle prépare et met en œuvre la réglementation comptable. Elle est le correspondant des autres directions d'administration centrale pour les fonctions comptables. Elle contrôle et enregistre les engagements, affectations, réservations et délégations de crédits de l'administration centrale ; elle enregistre les constatations de service fait. Elle émet les titres de perception, y compris pour les recettes de personnel. Elle pilote le contrôle interne ministériel ; elle organise et contrôle la préparation du bilan. Elle participe à l'animation des centres de prestations comptables mutualisées (CPCM).
 
 Elle assure la maîtrise d'ouvrage et le pilotage des systèmes informatiques budgétaires et comptables. Elle conduit la mise en œuvre au ministère de l'agriculture du projet de refonte interministériel de l'informatique comptable de l'Etat.
 
@@ -32,13 +32,13 @@ La sous-direction des affaires budgétaires et comptables comprend :
 
 ― le bureau de la fiscalité ;
 
-― le bureau de l'étude des concours publics à l'agriculture ;
+― le bureau de l'information financière et de la performance ;
 
 ― le centre de service comptable et financier ;
 
-― le bureau de l'informatique budgétaire et comptable.
+― le bureau de la réglementation comptable et du contrôle interne.
 
-II. - La sous-direction de la logistique et du patrimoine est responsable de la logistique. Elle la met en œuvre pour l'administration centrale et anime l'action des services déconcentrés.
+II.-La sous-direction de la logistique et du patrimoine est responsable de la logistique. Elle la met en œuvre pour l'administration centrale et anime l'action des services déconcentrés.
 
 Elle est responsable de la politique des achats et des marchés publics.
 
@@ -54,7 +54,7 @@ La sous-direction de la logistique et du patrimoine comprend :
 
 ― le bureau de la sécurité et de la maintenance des bâtiments.
 
-III. - En liaison avec le ministère chargé du travail, la sous-direction du travail et de la protection sociale élabore la législation du travail dans le secteur agricole, agroalimentaire et forestier et veille à son application. A ce titre, elle prépare la législation et la réglementation relatives aux contrats de travail et d'apprentissage, à la négociation collective, aux institutions représentatives du personnel, à la durée du travail, à la santé et à la sécurité au travail. Elle assure la promotion du dialogue social en agriculture. Elle définit ou participe à la définition des politiques relatives aux conditions de travail. Elle définit la politique de prévention en matière d'accident du travail et de maladie professionnelle pour les salariés agricoles et participe à celle des exploitants. Elle contribue à l'organisation des services de l'inspection du travail en fixant les objectifs de leurs actions et en analysant leurs résultats.
+III.-En liaison avec le ministère chargé du travail, la sous-direction du travail et de la protection sociale élabore la législation du travail dans le secteur agricole, agroalimentaire et forestier et veille à son application.A ce titre, elle prépare la législation et la réglementation relatives aux contrats de travail et d'apprentissage, à la négociation collective, aux institutions représentatives du personnel, à la durée du travail, à la santé et à la sécurité au travail. Elle assure la promotion du dialogue social en agriculture. Elle définit ou participe à la définition des politiques relatives aux conditions de travail. Elle définit la politique de prévention en matière d'accident du travail et de maladie professionnelle pour les salariés agricoles et participe à celle des exploitants. Elle contribue à l'organisation des services de l'inspection du travail en fixant les objectifs de leurs actions et en analysant leurs résultats.
 
 Elle prépare la politique de protection sociale à l'égard des personnes relevant du régime agricole et veille à sa mise en œuvre.
 
@@ -81,5 +81,3 @@ La sous-direction du travail et de la protection sociale comprend :
 ― le bureau de la santé et de la sécurité au travail ;
 
 ― le bureau de la réglementation du travail et du dialogue social.
-
-IV. - La mission du projet CHORUS est chargée des relations avec l'agence pour l'informatique financière de l'Etat en vue d'assurer la représentation du ministère dans les instances de pilotage et de conception du système d'information CHORUS. Elle conduit les opérations liées à son déploiement au sein du ministère en matière de traitement des données comptables et budgétaires, d'interface avec les applications ministérielles métier ainsi que d'organisation et de formation des services.
