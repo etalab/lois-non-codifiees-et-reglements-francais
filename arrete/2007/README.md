@@ -788,7 +788,6 @@
 - [Arrêté du 23 août 2007 (DEVL0757149A)](arrete-du-23-aout-2007-devl0757149a)
 - [Arrêté du 23 août 2007 (ECEP0753684A)](arrete-du-23-aout-2007-ecep0753684a)
 - [Arrêté du 23 avril 2007 (AGRG0752250A)](arrete-du-23-avril-2007-agrg0752250a)
-- [Arrêté du 23 avril 2007 (AGRS0750894A)](arrete-du-23-avril-2007-agrs0750894a)
 - [Arrêté du 23 avril 2007 (DEFD0752241A)](arrete-du-23-avril-2007-defd0752241a)
 - [Arrêté du 23 avril 2007 (DEFH0752373A)](arrete-du-23-avril-2007-defh0752373a)
 - [Arrêté du 23 avril 2007 (DEVN0752752A)](arrete-du-23-avril-2007-devn0752752a)
