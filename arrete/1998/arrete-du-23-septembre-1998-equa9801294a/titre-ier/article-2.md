@@ -6,8 +6,6 @@ Classe 1 (dite paramoteur)
 
 Un ULM paramoteur est un aéronef monomoteur sustenté par une voilure souple, de type parachute. Il répond aux conditions techniques suivantes :
 
-- la puissance maximale continue est inférieure ou égale à 45 kW pour un monoplace et à 60 kW pour un biplace ;
-
 - la puissance maximale est inférieure ou égale à 60 kW pour un monoplace et à 75 kW pour un biplace ;
 
 - la masse maximale est inférieure ou égale à 300 kg pour un monoplace et à 450 kg pour un biplace.
@@ -22,19 +20,15 @@ Un ULM multiaxe est un aéronef monomoteur sustenté par une voilure fixe.
 
 Un ULM de classe 2 ou de classe 3 (pendulaire ou multiaxe) répond aux conditions techniques suivantes :
 
-- la puissance maximale continue est inférieure ou égale à 45 kW pour un monoplace et à 60 kW pour un biplace ;
-
 - la puissance maximale est inférieure ou égale à 60 kW pour un monoplace et à 75 kW pour un biplace ;
 
 - la masse maximale est inférieure ou égale à 300 kg pour un monoplace et à 450 kg pour un biplace, ces masses peuvent être augmentées de 5 % dans le cas d'un ULM équipé d'un parachute de secours, ou de 10 % dans le cas d'un ULM à flotteurs. Le parachute et son installation répondent à des conditions techniques fixées par le ministre chargé de l'aviation civile ;
 
-- la vitesse constante minimale de vol en configuration d'atterrissage ne dépasse pas 35 noeuds (65 km/h) en vitesse conventionnelle (V).
+- la vitesse de décrochage ou la vitesse constante minimale de vol en configuration d'atterrissage (VS0) ne dépasse pas 35 nœuds (65 km/h) en vitesse conventionnelle (Vc).
 
 Classe 4 (dite autogire ultraléger)
 
 Un autogire ultraléger répond aux conditions techniques suivantes :
-
-- monomoteur dont la puissance maximale continue est inférieure ou égale à 60 kW pour un monoplace et à 80 kW pour un biplace ;
 
 - la puissance maximale est inférieure ou égale à 75 kW pour un monoplace et à 90 kW pour un biplace ;
 
@@ -45,8 +39,6 @@ Un autogire ultraléger répond aux conditions techniques suivantes :
 Classe 5 (dite aérostat dirigeable ultraléger)
 
 Un aérostat dirigeable ultraléger répond aux conditions techniques suivantes :
-
-- la puissance maximale continue est inférieure ou égale à 60 kW pour un monoplace et à 80 kW pour un biplace ;
 
 - la puissance maximale est inférieure à 75 kW pour un monoplace et à 90 kW pour un biplace ;
 
@@ -64,7 +56,7 @@ Un ULM à motorisation auxiliaire répond aux conditions techniques suivantes :
 
 - le nombre de places est égal à un ;
 
-- la puissance maximale continue est inférieure ou égale à 25 kW et la puissance maximale est inférieure ou égale à 30 kW ;
+- la puissance maximale est inférieure ou égale à 30 kW ;
 
 - la masse maximale est inférieure ou égale à 170 kg ;
 
