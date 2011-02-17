@@ -2147,7 +2147,6 @@
 - [Arrêté du 22 février 2010 (ECED1006347A)](arrete-du-22-fevrier-2010-eced1006347a)
 - [Arrêté du 22 février 2010 (MENE1005157A)](arrete-du-22-fevrier-2010-mene1005157a)
 - [Arrêté du 22 février 2010 (MENE1005169A)](arrete-du-22-fevrier-2010-mene1005169a)
-- [Arrêté du 22 janvier 2010 (AGRM1001922A)](arrete-du-22-janvier-2010-agrm1001922a)
 - [Arrêté du 22 janvier 2010 (AGRT0925752A)](arrete-du-22-janvier-2010-agrt0925752a)
 - [Arrêté du 22 janvier 2010 (DEFD1003812A)](arrete-du-22-janvier-2010-defd1003812a)
 - [Arrêté du 22 janvier 2010 (DEFD1003819A)](arrete-du-22-janvier-2010-defd1003819a)

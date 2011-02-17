@@ -6,7 +6,7 @@ Le jury du concours est nommé par arrêté du directeur général du Centre nat
 
 ― le directeur général du Centre national de gestion ou son représentant ;
 
-― un directeur général d'agence régionale de santé désigné par le secrétaire général des ministères sociaux ;
+― un       directeur général d'agence régionale de santé ou son représentant désigné par le secrétaire général des ministères sociaux ;
 
 ― le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 
