@@ -1,8 +1,8 @@
 # Article 7
 
-Les membres des commissions administratives paritaires sont désignés pour une période de trois années. Leur mandat peut être renouvelé.
+Les membres des commissions administratives paritaires sont désignés pour une période de quatre ans. Leur mandat peut être renouvelé. Toutefois, lorsqu'une commission est créée ou renouvelée en cours de cycle électoral, les représentants du personnel sont élus, dans les conditions fixées par le présent décret, pour la durée du mandat restant à courir avant le renouvellement général.
 
-La durée du mandat peut être exceptionnellement réduite ou prorogée dans un intérêt de service par arrêté du ministre intéressé après avis du comité technique paritaire compétent, notamment afin de permettre le renouvellement simultané de plusieurs commissions relevant d'un même service ou groupe de services. Ces réductions ou prorogations ne peuvent excéder une durée de un an.
+En cas de fusion de corps ou d'intégration de corps, les commissions administratives paritaires des corps ainsi fusionnés ou intégrés peuvent demeurer compétentes et le mandat de leurs membres être maintenu, par arrêté du ou des ministres intéressés, jusqu'au renouvellement général suivant. Durant cette période, ces commissions siègent en formation conjointe. (1)
 
 Toutefois, dans le cas où la structure d'un corps se trouve modifiée par l'intervention d'un texte organique, il peut être mis fin sans condition de durée au mandat des membres des commissions administratives compétentes par arrêté du ministre intéressé. De même, lorsque la représentation d'un grade n'a pas pu être assurée en raison de l'absence de fonctionnaire de ce grade ou de l'existence d'un seul fonctionnaire de ce grade lors de l'élection des représentants du personnel au sein de la commission, un arrêté du ministre intéressé peut mettre fin sans condition de durée au mandat des membres de la commission dès que la représentation des fonctionnaires de ce grade, dans les conditions prévues à l'article 6 du présent décret, devient possible. Il est procedé à un renouvellement général de la commission pour la durée du mandat restant à courir.
 
