@@ -1,8 +1,8 @@
 # Article 252-8
 
-Les missions et les structures des unités spécialisées sont définies, au niveau national, par des instructions spécifiques de la direction centrale de la sécurité publique, prises après avis du comité technique paritaire central de la police nationale.
+Les missions et les structures des unités spécialisées sont définies, au niveau national, par des instructions spécifiques de la direction centrale de la sécurité publique, prises après avis du comité technique central de la police nationale.
 
-Leur appellation et leur mise en place doivent, après avis du comité technique paritaire départemental ou local des services de la police nationale, faire l'objet d'un agrément préalable de la direction centrale de la sécurité publique.
+Leur appellation et leur mise en place doivent, après avis du comité technique départemental ou local des services de la police nationale, faire l'objet d'un agrément préalable de la direction centrale de la sécurité publique.
 
 Sont concernés notamment :
 
