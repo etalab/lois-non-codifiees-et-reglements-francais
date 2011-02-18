@@ -6,7 +6,7 @@ I.-Pour l'obtention de la décision prévue au paragraphe I (1o) de l'article 8 
 
 -le titre de la vidéomusique ;
 
--la date de diffusion de l'oeuvre considérée, certifiée par l'éditeur de service de télévision qui en a assuré la première diffusion ;
+-la date de diffusion ou de mise à disposition du public de l'oeuvre considérée, certifiée par l'éditeur de service qui en a assuré la première diffusion ou la première mise à disposition du public ;
 
 2. Un synopsis incluant le texte de la chanson ;
 
@@ -44,7 +44,7 @@ notamment :
 
 5. La liste nominative des artistes-interprètes, des techniciens collaborateurs de création et des entreprises prestataires précisant leur nationalité ;
 
-6.L'engagement d'un service de télévision de diffuser l'oeuvre ;
+6. L'engagement d'un éditeur de service de diffuser l'œuvre ou de la mettre à disposition du public ;
 
 7. Un document comptable indiquant le coût définitif de l'oeuvre ainsi que les moyens de son financement et faisant apparaître précisément les dépenses engagées en France ;
 

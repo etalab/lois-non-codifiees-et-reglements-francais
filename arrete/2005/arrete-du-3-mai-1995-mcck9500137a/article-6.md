@@ -14,9 +14,9 @@ I.-Pour l'obtention d'une décision d'aide pour la promotion d'une oeuvre déter
 
 5° Le contrat de distribution lorsque la demande est présentée par un distributeur ;
 
-6° L'acceptation, dûment renseignée et certifiée, de la ou des oeuvres par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion.
+6° L'acceptation, dûment renseignée et certifiée, de la ou des oeuvres par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services mentionnés au paragraphe IV (1°) de l'article 4 du décret du 2 février 1995 susvisé chargés d'en assurer la mise à disposition du public.
 
-II.-Le directeur général peut décider d'accorder une aide pour la promotion de plusieurs oeuvres audiovisuelles constituant un programme annuel. Pour l'obtention de cette décision, l'entreprise doit fournir les renseignements et documents justificatifs prévus au paragraphe Ier.L'entreprise doit en outre :
+II.-Le directeur général peut décider d'accorder une aide pour la promotion de plusieurs oeuvres audiovisuelles constituant un programme annuel. Pour l'obtention de cette décision, l'entreprise doit fournir les renseignements et documents justificatifs prévus au paragraphe Ier. L'entreprise doit en outre :
 
 1° Présenter un programme annuel de promotion d'oeuvres à l'exportation ;
 

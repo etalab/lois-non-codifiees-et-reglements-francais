@@ -4,11 +4,11 @@ Pour l'obtention de l'autorisation préalable prévue au 1° du paragraphe I de 
 
 1° Une lettre de demande indiquant le montant de l'aide sollicitée ainsi que les principales caractéristiques artistiques et techniques de l'oeuvre, notamment :
 
--le titre, la durée et la langue de tournage ;
+-le titre, la durée ou la durée cumulée et la langue de tournage ;
 
 -le curriculum vitae des auteurs et du réalisateur ;
 
--le numéro d'immatriculation de l'oeuvre au Registre public de la cinématographie et de l'audiovisuel ; toutefois, sous réserve des dispositions de l'article 238 bis HG du code général des impôts, l'immatriculation n'est pas obligatoire pour les oeuvres d'une durée inférieure à une heure, les séries dont les épisodes sont d'une durée inférieure à trente minutes, les magazines et les captations ou recréations de spectacle vivant ;
+-le numéro d'immatriculation de l'oeuvre au Registre public de la cinématographie et de l'audiovisuel ; toutefois, sous réserve des dispositions de l'article 238 bis HG du code général des impôts, l'immatriculation n'est pas obligatoire pour les oeuvres d'une durée inférieure à une heure, les séries dont les épisodes sont d'une durée inférieure à trente minutes, les magazines et les captations ou recréations de spectacle vivant, ainsi que pour les œuvres relevant du paragraphe IV de l'article 4 du décret du 2 février 1995 susvisé ;
 
 -la durée et le lieu des prises de vues ;
 
@@ -29,6 +29,8 @@ Pour l'obtention de l'autorisation préalable prévue au 1° du paragraphe I de 
 9° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription au Registre public de la cinématographie et de l'audiovisuel, lorsque l'immatriculation de l'oeuvre est obligatoire ;
 
 10° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de service de télévision ainsi que la justification de son inscription au Registre public de la cinématographie et de l'audiovisuel. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de service de télévision dans laquelle celui-ci manifeste expressément son engagement financier et la nature de celui-ci, ainsi qu'un document attestant de la case prévisionnelle de programmation de l'oeuvre ;
+
+10° bis Pour les œuvres relevant du paragraphe IV de l'article 4 du décret du 2 février 1995 susvisé, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-ci manifestent expressément leur engagement financier ;
 
 11° Les contrats dits " de production exécutive " ;
 

@@ -8,7 +8,7 @@ Les utilisateurs professionnels mentionnés à l'article R. 253-40-2 du code rur
 
 ou
 
-― d'une inscription dans le registre mentionné à l'article R. 254-16 précité détenu par le distributeur agréé du numéro d'immatriculation du cessionnaire au registre de l'agriculture mentionné à l'article à L. 311-2 du code rural et de la pêche maritime, du numéro d'agrément mentionné à l'article R. 254-2 du code rural et de la pêche maritime du cessionnaire accompagné du nom d'une personne qualifiée au sens de l'article L. 254-4 du code rural et de la pêche maritime ;
+― d'une inscription dans le registre mentionné à l'article R. 254-16 précité détenu par le distributeur agréé du numéro d'immatriculation du cessionnaire au registre de l'agriculture mentionné à l'article à L. 311-2 du code rural et de la pêche maritime ou du numéro d'agrément mentionné à l'article R. 254-2 du code rural et de la pêche maritime du cessionnaire accompagné du nom d'une personne qualifiée au sens de l'article L. 254-3 du code rural et de la pêche maritime ;
 
 ou
 

@@ -2,7 +2,7 @@
 
 Pour l'obtention de l'autorisation définitive prévue au 1° du paragraphe I de l'article 7 et au paragraphe III de l'article 7-1 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie et de l'image animée, au plus tard un mois après achèvement de l'oeuvre, un dossier complet comprenant :
 
-1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'oeuvre par le ou les éditeurs de service de télévision chargés d'en assurer la diffusion ;
+1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'oeuvre par le ou les éditeurs de service de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services mentionnés au paragraphe IV (1°) de l'article 4 du décret du 2 février 1995 susvisé chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'oeuvre, les moyens de son financement et faisant apparaître précisément les dépenses réalisées en France ;
 
