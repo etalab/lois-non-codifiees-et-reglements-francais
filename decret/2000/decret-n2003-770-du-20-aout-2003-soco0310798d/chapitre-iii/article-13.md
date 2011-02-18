@@ -38,28 +38,6 @@ La durée moyenne et la durée minimum du temps passé dans chacun des échelons
 </tr>
 <tr>
 <td>
-<p>Echelon fonctionnel</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>6e échelon</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td>
 <p>5e échelon</p>
 </td>
 <td>
@@ -335,5 +313,3 @@ La durée moyenne et la durée minimum du temps passé dans chacun des échelons
 </tr>
 </tbody>
 </table>
-
-L'échelon fonctionnel du grade de directeur du travail mentionné à l'article 2 du présent décret est accessible aux directeurs du travail affectés aux emplois figurant sur la liste fixée par l'arrêté prévu à l'article 2 ci-dessus. Les intéressés doivent justifier d'au moins trois ans d'ancienneté au 4e échelon.
