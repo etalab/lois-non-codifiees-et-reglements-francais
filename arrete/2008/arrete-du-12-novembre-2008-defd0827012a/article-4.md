@@ -6,7 +6,7 @@ Le service de la gestion du personnel est chargé :
 
 2° De pourvoir aux besoins des organismes de l'armée de terre en personnel militaire ;
 
-3° De participer à l'animation et à la coordination de la gestion et de l'administration du personnel civil employé par l'armée de terre, sous réserve des attributions de la direction des ressources humaines du ministère de la défense et des autorités délégataires ;
+3° Abrogé ;
 
 4° De coordonner les travaux d'élaboration des projets de textes ou d'actes ayant une incidence sur la situation individuelle des militaires, ou de les élaborer, sous réserve des compétences dévolues à d'autres autorités ;
 

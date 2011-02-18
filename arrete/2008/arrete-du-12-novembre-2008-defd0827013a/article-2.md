@@ -12,4 +12,6 @@ Pour l'exercice de ses attributions, telles que définies à l'article 5 de l'ar
 
 5. Le bureau " ingénierie des processus " ;
 
-6. Le bureau " solde et finances des ressources humaines ".
+6. Le bureau " solde et finances des ressources humaines " ;
+
+7. Le bureau "personnel civil".
