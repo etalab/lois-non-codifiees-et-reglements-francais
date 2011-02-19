@@ -6,9 +6,9 @@ a) Dossier descriptif :
 
 Ce dossier doit comprendre :
 
-- soit l'état descriptif ainsi que le dernier procès-verbal ou certificat d'épreuve ou compte rendu d'essai hydraulique si l'équipement sous pression a été construit selon les dispositions des décrets du 2 avril 1926 ou du 18 janvier 1943 susvisés ;
+- soit l'état descriptif ainsi que le dernier procès-verbal ou certificat d'épreuve ou compte rendu d'essai hydraulique ou la dernière attestation de requalification périodique, si l'équipement sous pression a été construit selon les dispositions des décrets du 2 avril 1926 ou du 18 janvier 1943 susvisés ;
 
-- soit, si l'équipement sous pression ou l'ensemble a été fabriqué conformément aux dispositions du décret du 13 décembre 1999 susvisé, la déclaration de conformité et, le cas échéant, la notice d'instructions, ainsi que les documents techniques, plans et schémas nécessaires à une bonne compréhension de ces instructions.
+- soit, si l'équipement sous pression ou l'ensemble a été fabriqué conformément aux dispositions du décret du 13 décembre 1999 susvisé, la déclaration de conformité et, le cas échéant, la notice d'instructions, la dernière attestation de requalification périodique, ainsi que les documents techniques, plans et schémas nécessaires à une bonne compréhension de ces instructions.
 
 Ce dossier doit permettre en outre d'identifier les accessoires de sécurité mentionnés à l'article 26 du présent arrêté et de connaître les paramètres de leur réglage.
 

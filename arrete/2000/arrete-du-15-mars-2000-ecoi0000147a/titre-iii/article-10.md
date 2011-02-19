@@ -1,6 +1,6 @@
 # Article 10
 
-Paragraphe 1. Pour les équipements sous pression répondant aux critères des articles 2, 3 et 4 ci-avant, les opérations de surveillance mentionnées au point III de l'article 17 du décret du 13 décembre 1999 susvisé comprennent au minimum des inspections périodiques.
+Paragraphe 1. Pour les équipements sous pression répondant aux critères des articles 2,3 et 4 ci-avant, les opérations de surveillance mentionnées au point III de l'article 17 du décret du 13 décembre 1999 susvisé comprennent au minimum des inspections périodiques.
 
 L'inspection périodique a pour objet de vérifier que l'état de l'équipement sous pression lui permet d'être maintenu en service avec un niveau de sécurité compatible avec les conditions d'exploitation prévisibles.
 
@@ -12,13 +12,13 @@ Paragraphe 2. Toute inspection périodique donne lieu à l'établissement d'un c
 
 Ce compte rendu est daté et signé par la personne qui a procédé à l'inspection périodique. Si une personne compétente s'est substituée à l'exploitant en application du paragraphe 1 ci-avant, l'exploitant doit en outre dater et signer le compte rendu d'inspection périodique dans le cas où celle-ci a donné lieu à une ou plusieurs observations.
 
-Paragraphe 3. L'inspection périodique a lieu aussi souvent que nécessaire, l'intervalle entre deux inspections périodiques ne pouvant dépasser :
+Paragraphe 3.L'inspection périodique a lieu aussi souvent que nécessaire, l'intervalle entre deux inspections périodiques ne pouvant dépasser :
 
-- douze mois pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique ainsi que pour les récipients mobiles en matériaux autres que métalliques, sauf si ces derniers font l'objet d'essais de contrôle du vieillissement en service réalisés conformément à un cahier des charges approuvé par le ministre chargé de l'industrie, après avis de la Commission centrale des appareils à pression, auquel cas l'intervalle entre deux inspections périodiques est porté au plus à quarante mois ;
+-douze mois pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique ainsi que pour les récipients mobiles en matériaux autres que métalliques, sauf si ces derniers font l'objet d'essais de contrôle du vieillissement en service réalisés conformément à un cahier des charges approuvé par le     ministre chargé de la sécurité industrielle, après avis de la Commission centrale des appareils à pression, auquel cas l'intervalle entre deux inspections périodiques est porté au plus à quarante mois ;
 
-- dix-huit mois pour les générateurs de vapeur, les appareils à couvercle amovible à fermeture rapide et les récipients à pression de vapeur d'eau ou d'eau surchauffée bénéficiant des dispositions du dernier alinéa du paragraphe 2 de l'article 25 ci-après ;
+-dix-huit mois pour les générateurs de vapeur, les appareils à couvercle amovible à fermeture rapide et les récipients à pression de vapeur d'eau ou d'eau surchauffée bénéficiant des dispositions du dernier alinéa du paragraphe 2 de l'article 25 ci-après ;
 
-- quarante mois pour les autres récipients sous pression.
+-quarante mois pour les autres récipients sous pression.
 
 Si l'état d'un équipement sous pression le justifie, l'exploitant doit réduire cet intervalle.
 
@@ -30,6 +30,6 @@ Ce programme est joint au dossier d'exploitation prévu par le b de l'article 9 
 
 Par exception, les extincteurs ne sont pas assujettis à la périodicité fixée ci-avant.
 
-Paragraphe 4. Par exception aux dispositions du présent titre, pour les équipements sous pression surveillés par un service inspection reconnu, la nature et la périodicité des inspections périodiques sont définies dans des plans d'inspection établis selon des guides professionnels approuvés par le ministre chargé de l'industrie, après avis de la Commission centrale des appareils à pression. Ces plans d'inspection sont tenus à la disposition des agents chargés de la surveillance des appareils à pression.
+Paragraphe 4. Par exception aux dispositions du présent titre, pour les équipements sous pression surveillés par un service inspection reconnu, la nature et la périodicité des inspections périodiques sont définies dans des plans d'inspection établis selon des guides professionnels approuvés par le     ministre chargé de la sécurité industrielle, après avis de la Commission centrale des appareils à pression. Ces plans d'inspection sont tenus à la disposition des agents chargés de la surveillance des appareils à pression. Pour les appareils à couvercle amovible à fermeture rapide et les générateurs de vapeur exploités sans présence humaine permanente, les vérifications des accessoires et dispositifs de sécurité décrites à l'article 12 sont toutefois réalisées par un organisme habilité selon les périodicités mentionnées à l'article 10 (§ 3).
 
 Paragraphe 5. Sur la demande de l'exploitant, justifiée par des éléments probants sur le maintien du niveau de sécurité des équipements sous pression concernés, le préfet peut accorder des aménagements à l'intervalle maximum entre inspections périodiques prévu au paragraphe 3 ci-dessus.

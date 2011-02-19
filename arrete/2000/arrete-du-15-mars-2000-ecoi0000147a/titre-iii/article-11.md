@@ -10,7 +10,7 @@ Paragraphe 3. S'il s'agit d'équipements sous pression fixes répondant aux crit
 
 Paragraphe 4. Pour les récipients, l'inspection périodique comporte en outre une vérification intérieure sauf lorsque l'exploitant peut garantir que ces récipients ont été continûment remplis d'un fluide dont les caractéristiques sont telles qu'aucun phénomène de dégradation (corrosion, érosion, abrasion,...) ne peut survenir.
 
-Dans ce cas, la dispense de vérification intérieure doit avoir été préalablement accordée par le préfet sur la base de justifications appropriées fournies par l'exploitant et d'un avis d'un organisme habilité. Ces documents sont joints au dossier prévu à l'article 9 du présent arrêté.
+Dans ce cas, la dispense de vérification intérieure doit avoir été préalablement accordée par le préfet sur la base de justifications appropriées fournies par l'exploitant et d'un avis d'un organisme habilité ou du service inspection reconnu de l'exploitant . Ces documents sont joints au dossier prévu à l'article 9 du présent arrêté.
 
 Par exception, les extincteurs ne sont pas assujettis à l'obligation de vérification intérieure définie ci-avant.
 

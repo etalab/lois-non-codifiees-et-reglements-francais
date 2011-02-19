@@ -30,6 +30,8 @@ Paragraphe 6. Par expert , on entend la personne sous le contrôle de laquelle s
 
 Paragraphe 7. Par "agents chargés de la surveillance des appareils à pression, on entend les agents mentionnés au point II de l'article 17 du décret du 13 décembre 1999 susvisé ;
 
+Paragraphe 7 bis. Par "service régional chargé de la surveillance des appareils à pression", on entend la direction régionale de l'environnement, de l'aménagement et du logement ou, en Ile-de-France, la direction régionale et interdépartementale de l'environnement et de l'énergie ou, dans les départements et régions d'outre-mer, la direction de l'environnement, de l'aménagement et du logement ou, pour les cas prévus à l'article 3 (§ 1) de la loi du 28 octobre 1943 susvisée, la division compétente de l'autorité de sûreté nucléaire ;
+
 Paragraphe 8. Par "service inspection reconnu, on entend un service d'inspection reconnu au sens de l'article 19 du décret du 13 décembre 1999 susvisé ;
 
 Paragraphe 9. Par organisme habilité , on entend, sauf précision contraire, un organisme indépendant habilité conformément au titre IV du décret du 13 décembre 1999 susvisé pour les activités mentionnées à l'article 18 de ce même texte ;

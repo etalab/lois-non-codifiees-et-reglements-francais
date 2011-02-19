@@ -2,7 +2,7 @@
 
 1. La présente annexe décrit la procédure par laquelle un établissement qui remplit les obligations visées au point 2 peut effectuer, sous la surveillance d'un organisme habilité, tout ou partie des opérations de requalification périodique d'équipements sous pression qui lui sont confiées à cette fin par leurs exploitants.
 
-2. L'établissement doit appliquer un système de qualité approuvé pour les opérations spécifiées au point 3, et est soumis à la surveillance visée au point 4.
+2. L'établissement doit appliquer un système de qualité approuvé pour les opérations spécifiées au point 3, et est soumis à la surveillance visée au point 4. L'établissement ne peut exercer ces opérations que dans ses propres locaux.
 
 3. Système de qualité :
 
@@ -30,7 +30,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comporte au moins un membre expérimenté dans l'évaluation des équipements sous pression concernés. La procédure d'évaluation comprend une visite d'inspection dans les installations utilisées.
 
-La décision est notifiée à l'établissement. La notification contient les conclusions du contrôle et la décision d'évaluation motivée.
+La décision est notifiée à l'établissement. La notification contient les conclusions du contrôle, la décision d'évaluation motivée ainsi que l'adresse du ou des locaux de l'établissement dans lequel ou lesquels les opérations de la requalification périodique sont effectuées.
 
 3.4. Le responsable de l'établissement s'engage à remplir les obligations découlant du système de qualité tel qu'il est approuvé et à faire en sorte qu'il demeure adéquat et efficace.
 
@@ -54,7 +54,7 @@ Il notifie sa décision à l'établissement. La notification contient les conclu
 
 4.3. L'organisme habilité effectue périodiquement des audits afin de s'assurer que l'établissement maintient et applique le système de qualité ; il fournit un rapport d'audit à l'établissement.
 
-4.4. En outre, l'organisme habilité peut effectuer des visites inopinées. A l'occasion de ces visites, l'organisme habilité peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de qualité, si nécessaire. Il fournit à l'établissement un rapport de la visite et, s'il y a eu essai, un rapport d'essai.
+4.4. En outre, l'organisme habilité effectue des visites, dont certaines peuvent être inopinées. A l'occasion de ces visites, l'organisme habilité peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de qualité, si nécessaire. Il fournit à l'établissement un rapport de la visite et, s'il y a eu essai, un rapport d'essai.
 
 5. L'établissement tient à la disposition des agents chargés de la surveillance des appareils à pression, pendant une durée d'au moins dix ans à compter de la date de la dernière opération :
 
