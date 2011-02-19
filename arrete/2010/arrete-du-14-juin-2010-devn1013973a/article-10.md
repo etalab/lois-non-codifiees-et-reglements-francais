@@ -1,18 +1,18 @@
 # Article 10
 
-Dans l'exercice de ses fonctions, le lieutenant de louveterie doit porter un uniforme. Pour les cérémonies et la vénerie il peut porter les tenues appropriées. Les différentes tenues sont décrites ci-après :
+Dans l'exercice de ses fonctions, le lieutenant de louveterie doit porter une tenue correcte composée d'éléments vestimentaires permettant d'identifier sa fonction et figurant dans la tenue de mission. Pour les cérémonies et la vénerie il peut porter les tenues appropriées. Les différentes tenues sont décrites ci-après :
 
-Tenue obligatoire de mission
+Tenue de mission
 
 Vareuse à cinq boutons en drap de coton de coloris vert bronze, avec col ouvert et quatre poches à soufflets à un bouton en métal doré portant en relief une tête de loup de face argentée. Sur la poche droite de poitrine est épinglé l'insigne spécial de 40 millimètres décrit à l'article 9.
 
 Le képi, de même drap, est garni d'une fausse jugulaire en galon métal doré.
 
-La chemise coton ou polaire ou le polo brodé "Lieutenant de louveterie" sur la bande de poitrine assortis vert bronze.
+La chemise coton ou polaire ou le polo brodé " Lieutenant de louveterie " sur la bande de poitrine assortis vert bronze.
 
 La cravate de couleur bleu louvetier est parsemée de têtes de loup de couleur dorée.
 
-Le pull-over brodé "Lieutenant de louveterie" sur la bande de poitrine assorti.
+Le pull-over brodé " Lieutenant de louveterie " sur la bande de poitrine assorti.
 
 Le pantalon droit ou fuseau est en drap vert bronze de même tissu.
 
@@ -20,7 +20,7 @@ Pour les femmes, le képi est remplacé par un tricorne à l'identique et la cra
 
 Tous les lieutenants de louveterie peuvent porter, en outre, sans être obligatoires :
 
-Un blouson polaire brodé "Lieutenant de louveterie", coloris vert bronze ;
+Un blouson polaire brodé " Lieutenant de louveterie ", coloris vert bronze ;
 
 Une casquette, souple assortie à la veste ou polaire assortie au blouson, portant l'insigne de louveterie réduit de 23 millimètres, en complément du képi, suivant les circonstances.
 
