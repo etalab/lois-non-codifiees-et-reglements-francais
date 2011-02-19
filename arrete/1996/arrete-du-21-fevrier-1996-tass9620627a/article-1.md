@@ -16,10 +16,10 @@ Pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour l
 
 S'agissant des spécialités figurant dans un groupe générique et dont le prix limite de vente au public est strictement supérieur au tarif forfaitaire de responsabilité, la mention " Vignette " ou " Vign. " ou " V ", précédée d'un astérisque le cas échéant, est portée à gauche de la légende placée immédiatement sous le code à barres ; le rectangle barré par ses diagonales figure à droite de cette même légende le cas échéant. Pour ces spécialités, la partie inférieure de la vignette comprend sur une même ligne le prix limite de vente au public exprimé en cents d'euros précédé des mentions " Prix " ou " Px " et " euros ", et le tarif forfaitaire de responsabilité exprimé en cents d'euros précédés des mentions " Forf. " et " euros. ".
 
-La vignette est de couleur blanche pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré du régime général est de 35 %, ainsi que pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré est supprimée.
+La vignette est de couleur blanche pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré du régime général est comprise entre 30 et 40 %, ainsi que pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré est supprimée.
 
 La vignette est de couleur orange pour les spécialités pharmaceutiques remboursables aux assurés sociaux pour lesquelles la participation de l'assuré du régime général est comprise entre 80 et 90 %.
 
-La vignette est de couleur bleu clair pour les spécialités pharmaceutiques remboursables pour lesquelles la participation de l'assuré du régime général est de 65 %.
+La vignette est de couleur bleu clair pour les spécialités pharmaceutiques remboursables pour lesquelles la participation de l'assuré du régime général est comprise entre 70 et 75 %.
 
-La vignette destinée aux spécialités pharmaceutiques remboursables aux assurés sociaux soumises à la clause prévue au deuxième alinéa de l'article R. 163-2 du code de la sécurité sociale est bordée par un liseré vert.
+La vignette destinée aux spécialités pharmaceutiques remboursables aux assurés sociaux soumises à la clause prévue au troisième alinéa de l'article R. 163-2 du code de la sécurité sociale est bordée par un liseré vert.
