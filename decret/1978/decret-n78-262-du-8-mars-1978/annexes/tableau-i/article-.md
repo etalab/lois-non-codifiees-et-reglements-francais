@@ -27,7 +27,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="left" rowspan="3" valign="top">
 <p align="center">1</p>
 </td>
 <td width="289">
@@ -35,11 +35,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -52,8 +55,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -62,6 +67,7 @@
 <p>Accepté dans le même acte</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -72,7 +78,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="left" rowspan="2" valign="top">
 <p align="center">2</p>
 </td>
 <td width="289">
@@ -86,8 +92,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -96,6 +104,7 @@
 <p>Dans le cas contraire</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -117,8 +126,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -134,13 +145,15 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="left" valign="top">
 <p align="center">4</p>
 </td>
 <td width="289">
@@ -151,16 +164,78 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="left" rowspan="5" valign="top">
+<p align="center">4 bis</p>
+</td>
+<td>
+<p align="left">Affectation d'un bien immobilier dans le patrimoine de l'EIRL </p>
+</td>
+<td/>
+<td colspan="2">
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Etablissement de l'acte et dépôt (art.L. 526-9 du code de commerce)</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+<td colspan="2"/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Renonciation à l'affectation (art.L. 526-15)</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+<td colspan="2"/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Acte comportant reprise, cession ou apport du bien affecté (art.L. 526-16 et L. 526-17) </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+<td colspan="2"/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">Evaluation d'un bien immobilier dont la valeur doit être déclarée en vertu de l'article L. 526-10 du code de commerce </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+<td colspan="2">
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
 <p align="center">5</p>
 </td>
 <td width="289">
@@ -168,11 +243,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -181,6 +259,7 @@
 <p>Sur la somme profitant effectivement de l'antériorité</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -191,7 +270,7 @@
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">6</p>
 </td>
 <td width="289">
@@ -202,16 +281,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="center" rowspan="2" valign="top">
 <p align="center">7</p>
 </td>
 <td width="289">
@@ -219,11 +301,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -232,6 +317,7 @@
 <p>Sur les biens faisant l'objet d'une publicité foncière, outre les honoraires</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -242,13 +328,14 @@
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">8</p>
 </td>
 <td width="289">
 <p>Attestation notariée destinée à constater la transmission par décès ou convention matrimoniale d'immeubles ou de droits réels immobiliers</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -270,13 +357,15 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="19" width="59">
+<td align="center" rowspan="19" valign="top">
 <p align="center">10</p>
 </td>
 <td width="289">
@@ -289,11 +378,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -302,6 +394,7 @@
 <p>Sur le montant cumulé des loyers des trois premières années augmenté des charges et de la moitié des loyers des années suivantes augmenté des charges </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -320,8 +413,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -331,11 +426,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -344,6 +442,7 @@
 <p>Sur le montant total des loyers dus pour la durée du bail augmenté des charges</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -360,11 +459,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -373,6 +475,7 @@
 <p>Sur le montant total des loyers dus pour la durée du bail augmenté des charges</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -388,11 +491,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -401,6 +507,7 @@
 <p>Sur le prix de cession</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -416,11 +523,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -429,6 +539,7 @@
 <p>Sur la somme servant de base à la perception des droits d'enregistrement ou, à défaut, sur l'évaluation des parties</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -444,11 +555,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -457,6 +571,7 @@
 <p>Sur la somme retenue pour les besoins de la publicité foncière</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -474,11 +589,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -487,6 +605,7 @@
 <p>a) Les versements effectués à quelque titre que ce soit pendant les cinq premières années du bail (à l'exclusion des charges d'entretien et de réparations) augmentés de la valeur des constructions et droits sociaux remis pendant la même période</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -501,6 +620,7 @@
 <p>b) Les éléments définis en a</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -519,11 +639,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -532,6 +655,7 @@
 <p>c) Sur la valeur résiduelle des constructions ou droits sociaux à remettre en fin de bail estimée dans l'acte par les parties</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -547,6 +671,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S2</p>
@@ -556,7 +681,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" width="59">
+<td align="center" rowspan="5" valign="top">
 <p align="center">11</p>
 </td>
 <td width="289">
@@ -564,11 +689,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -581,8 +709,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -595,8 +725,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -609,8 +741,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -620,16 +754,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">12</p>
 </td>
 <td width="289">
@@ -640,16 +777,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">13</p>
 </td>
 <td width="289">
@@ -659,16 +799,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">14</p>
 </td>
 <td width="289">
@@ -677,11 +820,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -690,6 +836,7 @@
 <p>Sur le loyer des années restant à courir</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -705,6 +852,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -714,7 +862,7 @@
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">15</p>
 </td>
 <td width="289">
@@ -726,16 +874,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">16</p>
 </td>
 <td width="289">
@@ -744,11 +895,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -757,6 +911,7 @@
 <p>Sur la valeur des biens</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -772,6 +927,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -781,7 +937,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="center" rowspan="2" valign="top">
 <p align="center">17</p>
 </td>
 <td width="289">
@@ -789,11 +945,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -802,6 +961,7 @@
 <p>Sur les sommes compensées</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -823,13 +983,15 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">19</p>
 </td>
 <td width="289">
@@ -837,11 +999,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -850,6 +1015,7 @@
 <p>Sur le chapitre le plus élevé en recettes ou en dépenses</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -865,11 +1031,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -879,16 +1048,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">20</p>
 </td>
 <td width="289">
@@ -896,11 +1068,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -909,6 +1084,7 @@
 <p>Sur le chapitre le plus élevé en recette ou en dépense</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -924,11 +1100,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -941,13 +1120,15 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="center" rowspan="2" valign="top">
 <p align="center">21</p>
 </td>
 <td width="289">
@@ -955,11 +1136,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -968,6 +1152,7 @@
 <p>Sur le montant total des loyers dus pour la durée du bail augmentés des charges</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -978,7 +1163,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" width="59">
+<td align="center" rowspan="5" valign="top">
 <p align="center">22</p>
 </td>
 <td width="289">
@@ -989,8 +1174,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -999,6 +1186,7 @@
 <p>Si le consentement vaut délivrance </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1017,8 +1205,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1028,11 +1218,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1041,6 +1234,7 @@
 <p>Sur la valeur de la somme cantonnée</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1051,7 +1245,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" width="59">
+<td align="center" rowspan="5" valign="top">
 <p align="center">23</p>
 </td>
 <td width="289">
@@ -1059,11 +1253,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1072,6 +1269,7 @@
 <p>a) En vertu des articles 205 et 373-2-3 du code civil </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1088,11 +1286,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1101,6 +1302,7 @@
 <p>b) Dans les autres cas </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1116,11 +1318,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1133,11 +1338,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1146,6 +1354,7 @@
 <p>Sur le capital formé de vingt fois la rente perpétuelle et de dix fois la rente viagère</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1164,11 +1373,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1177,6 +1389,7 @@
 <p>Sur le prix convenu</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1195,11 +1408,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1208,6 +1424,7 @@
 <p>Sur le total des redevances</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1218,7 +1435,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">27</p>
 </td>
 <td width="289">
@@ -1226,11 +1443,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1239,6 +1459,7 @@
 <p>a) Sur la valeur des biens dont la propriété est déclarée</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1255,11 +1476,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1272,11 +1496,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1285,6 +1512,7 @@
 <p>Sur la rémunération convenue du promoteur</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1295,7 +1523,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">28 bis</p>
 </td>
 <td width="289">
@@ -1303,11 +1531,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1320,8 +1551,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1334,8 +1567,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1347,6 +1582,7 @@
 <p>Convention d'indivision : loi n° 76-1286 du 31 décembre 1976</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1362,16 +1598,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="8" width="59">
+<td align="center" rowspan="8" valign="top">
 <p align="center">30</p>
 </td>
 <td width="289">
@@ -1380,11 +1619,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1393,6 +1635,7 @@
 <p>Par un tiers</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1408,6 +1651,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -1421,6 +1665,7 @@
 <p>b) Crédit-bail : sur le montant de l'investissement</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1436,6 +1681,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -1450,11 +1696,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1463,6 +1712,7 @@
 <p>Pure et simple : sur le montant de l'investissement résiduel à la date de la cession </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1477,6 +1727,7 @@
 <p>Moyennant un prix : sur le prix de cession payé au cédant et dans le cas où cet émolument est supérieur au précédent </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1494,6 +1745,7 @@
 <p>Dation en paiement</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1515,8 +1767,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1528,6 +1782,7 @@
 <p>Déclaration d'emploi (par acte séparé)</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1549,8 +1804,10 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1566,19 +1823,22 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="center" rowspan="2" valign="top">
 <p align="center">36</p>
 </td>
 <td width="289">
 <p>Déclaration de succession</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1595,16 +1855,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">37</p>
 </td>
 <td width="289">
@@ -1613,11 +1876,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1626,6 +1892,7 @@
 <p>a) Par acte séparé</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1640,6 +1907,7 @@
 <p>b) Lorsqu'elle intervient dans un acte dont elle n'est pas l'objet principal </p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1658,13 +1926,15 @@
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">38</p>
 </td>
 <td width="289">
@@ -1672,11 +1942,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1685,6 +1958,7 @@
 <p>1. Sur l'acte de délivrance avec décharge, quittance ou acceptation</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1700,6 +1974,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S2</p>
@@ -1709,7 +1984,7 @@
 </td>
 </tr>
 <tr>
-<td width="59">
+<td align="center" valign="top">
 <p align="center">39</p>
 </td>
 <td width="289">
@@ -1719,16 +1994,19 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
+<br/>
 <br/>
 </td>
 <td width="114">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">40</p>
 </td>
 <td width="289">
@@ -1736,11 +2014,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1749,6 +2030,7 @@
 <p>Marché vente</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1763,6 +2045,7 @@
 <p>Marché bail</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1781,11 +2064,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1794,6 +2080,7 @@
 <p>Sur l'actif brut</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1813,11 +2100,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1826,6 +2116,7 @@
 <p>Sur le total des créances garanties</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1836,7 +2127,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">43</p>
 </td>
 <td width="289">
@@ -1845,11 +2136,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1858,6 +2152,7 @@
 <p>A. - Acceptée sans distinction de ligne</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1873,6 +2168,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -1887,6 +2183,7 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <p align="center">S1</p>
@@ -1896,7 +2193,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="59">
+<td align="center" rowspan="3" valign="top">
 <p align="center">43 bis</p>
 </td>
 <td width="289">
@@ -1904,11 +2201,14 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td colspan="2" width="110">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1918,6 +2218,7 @@
 <p>Sur la valeur en pleine propriété (y compris en cas de réserve d'usufruit) des biens donnés par chaque donateur, y compris les rapports :</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1933,6 +2234,7 @@
 <p>Sur la valeur en pleine propriété (y compris en cas de réserve d'usufruit) des biens partagés, y compris les rapports</p>
 </td>
 <td width="109">
+<br/>
 <br/>
 </td>
 <td colspan="2" width="110">
@@ -1950,6 +2252,7 @@
 <p>Donation entre vifs portant uniquement sur des créances, espèces ou des valeurs mobilières cotées</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -1971,8 +2274,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1986,11 +2291,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1999,6 +2307,7 @@
 <p>Sur la valeur du plus fort des deux lots échangés</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2017,11 +2326,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2030,6 +2342,7 @@
 <p>Sur la valeur globale des biens échangés</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2040,7 +2353,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">47</p>
 </td>
 <td width="289">
@@ -2048,11 +2361,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2065,8 +2381,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2075,6 +2393,7 @@
 <p>Avec négociation, sur le capital de la créance transmise</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2089,6 +2408,7 @@
 <p>B. - Dans tous les autres cas</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2107,11 +2427,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2124,11 +2447,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2141,13 +2467,15 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="9" width="59">
+<td align="center" rowspan="9" valign="top">
 <p align="center">50</p>
 </td>
 <td width="289">
@@ -2155,11 +2483,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2169,11 +2500,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2182,6 +2516,7 @@
 <p>Si l'indivision cesse : sur l'ensemble des biens licités</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2197,6 +2532,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2211,11 +2547,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2224,6 +2563,7 @@
 <p>Sur le prix de chaque lot</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2239,11 +2579,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2252,6 +2595,7 @@
 <p>a) Cahier des charges rédigé par le notaire</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2267,6 +2611,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2276,7 +2621,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="59">
+<td align="center" rowspan="4" valign="top">
 <p align="center">51</p>
 </td>
 <td width="289">
@@ -2284,11 +2629,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2297,6 +2645,7 @@
 <p>Sur les sommes payées ou garanties</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2312,6 +2661,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2326,11 +2676,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2343,11 +2696,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2356,6 +2712,7 @@
 <p>Avec tirage au sort ou en cas d'attribution amiable</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2371,6 +2728,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2380,7 +2738,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="6" width="59">
+<td align="center" rowspan="6" valign="top">
 <p align="center">52 bis</p>
 </td>
 <td width="289">
@@ -2388,11 +2746,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2405,8 +2766,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2416,11 +2779,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2433,8 +2799,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2447,8 +2815,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2461,8 +2831,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2478,13 +2850,15 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="7" width="59">
+<td align="center" rowspan="7" valign="top">
 <p align="center">54</p>
 </td>
 <td width="289">
@@ -2492,11 +2866,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2506,11 +2883,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2519,6 +2899,7 @@
 <p>Sur le capital évalué au bordereau d'inscription ou à concurrence duquel la mainlevée est consentie</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2534,11 +2915,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2547,6 +2931,7 @@
 <p>Sur la valeur déclarée à l'acte du bien dégrevé, sans pouvoir excéder l'émolument calculé comme en A sur la créance garantie</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2562,11 +2947,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2575,6 +2963,7 @@
 <p>Sur la valeur déclarée à l'acte du bien dégrevé, sans pouvoir excéder l'émolument calculé comme en A</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2585,7 +2974,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="59">
+<td align="center" rowspan="2" valign="top">
 <p align="center">55</p>
 </td>
 <td width="289">
@@ -2593,11 +2982,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2606,6 +2998,7 @@
 <p>Sur le prix stipulé ou, à défaut, sur l'évaluation donnée à l'acte des matières qui seront extraites ou des superficies qui seront exploitées, lorsque la redevance est fixée par volume ou poids d'extraction ou encore par superficie exploitée</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2624,11 +3017,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2637,6 +3033,7 @@
 <p>Constitution, convention modificative ou cession</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2655,8 +3052,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2669,8 +3068,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2686,11 +3087,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2708,11 +3112,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2725,11 +3132,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2742,8 +3152,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2752,6 +3164,7 @@
 <p>B. - Constatant la prescription acquisitive</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2770,8 +3183,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2783,6 +3198,7 @@
 <p>Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du prédécédé (art. 1390 du code civil) ou pour le prélèvement de biens communs (art. 1511 du code civil)</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2798,11 +3214,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2814,6 +3233,7 @@
 <p>Option par les héritiers pour le maintien des formes et modalités de règlement de la prestation compensatoire qui incombait à l'époux débiteur décédé (art. 280-1 du code civil)</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2832,11 +3252,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2845,6 +3268,7 @@
 <p>Sur l'actif brut</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2863,11 +3287,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2880,8 +3307,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2897,13 +3326,15 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="7" width="59">
+<td align="center" rowspan="7" valign="top">
 <p align="center">63</p>
 </td>
 <td width="289">
@@ -2913,11 +3344,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2926,6 +3360,7 @@
 <p>1° Sur l'actif brut, déduction faite seulement des legs particuliers. L'émolument n'est perçu qu'une seule fois sur les valeurs qui figurent dans plusieurs opérations successives comprises dans un même acte de liquidation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2942,11 +3377,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2956,6 +3394,7 @@
 <p>En cas de partage partiel, le montant des émoluments supportés par chaque copartageant sortant de la société ne pourra être supérieur au montant de ceux dont il aurait été redevable si le partage avait été total</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -2971,6 +3410,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2985,6 +3425,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -2998,6 +3439,7 @@
 <p>E. - Rémunération du notaire désigné pour élaborer un projet de liquidation du régime matrimonial (art. 255 [10°] du code civil).</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3016,11 +3458,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3032,6 +3477,7 @@
 <p>Prêt viticole ou agricole (art. 666 et 675 du code rural)</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3050,6 +3496,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -3067,6 +3514,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -3081,11 +3529,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3097,6 +3548,7 @@
 <p>Prêts hypothécaires destinés à financer une activité professionnelle</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3115,6 +3567,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S2</p>
@@ -3129,6 +3582,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S2</p>
@@ -3142,6 +3596,7 @@
 <p>Lorsque ces actes sont reçus simultanément</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3159,6 +3614,7 @@
 <p>Prêts conventionné, prêts d'épargne logement et prêts complémentaires ou d'anticipation de ceux-ci, autres prêts du secteur aidé</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3180,11 +3636,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3197,11 +3656,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3214,8 +3676,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3228,8 +3692,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3245,8 +3711,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3260,11 +3728,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3276,6 +3747,7 @@
 <p>Prorogation de délai</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3294,11 +3766,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3307,6 +3782,7 @@
 <p>A. - Pure et simple ou dans les cas prévus par les articles 1250, paragraphe 2, et 1251 du code civil</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3322,6 +3798,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -3335,6 +3812,7 @@
 <p>C. - Subrogation (art. 1250, paragraphe 1, du code civil)</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3356,8 +3834,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3370,11 +3850,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3387,11 +3870,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3404,8 +3890,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3415,11 +3903,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3432,8 +3923,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3446,8 +3939,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3460,11 +3955,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3473,6 +3971,7 @@
 <p>A. - Avant expropriation prononcée</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3488,11 +3987,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3501,6 +4003,7 @@
 <p>Sans traité d'adhésion</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3515,6 +4018,7 @@
 <p>Avec traité d'adhésion</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3533,6 +4037,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -3546,6 +4051,7 @@
 <p>Rachat de biens vendus à réméré</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3564,11 +4070,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3581,8 +4090,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3595,11 +4106,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3612,8 +4126,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3626,11 +4142,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3639,6 +4158,7 @@
 <p>A. - De vente</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3654,11 +4174,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3667,6 +4190,7 @@
 <p>a) Pure et simple : sur le loyer des années restant à courir</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3681,6 +4205,7 @@
 <p>b) Avec stipulation de prix</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3702,8 +4227,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3716,11 +4243,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3729,6 +4259,7 @@
 <p>Sur la valeur des biens soumis à publicité foncière, outre les honoraires</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3750,8 +4281,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3764,11 +4297,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3781,8 +4317,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3795,8 +4333,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3809,11 +4349,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3826,11 +4369,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3842,6 +4388,7 @@
 <p>Transfert de propriété ou de jouissance entre collectivités territoriales et/ou établissements publics</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3860,11 +4407,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3875,11 +4425,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3891,6 +4444,7 @@
 <p>Transports de droits litigieux</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3910,11 +4464,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3923,6 +4480,7 @@
 <p>Sur la valeur totale des biens concernés</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3938,6 +4496,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -3947,7 +4506,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="30" width="59">
+<td align="center" rowspan="30" valign="top">
 <p align="center">92</p>
 </td>
 <td width="289">
@@ -3955,11 +4514,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3968,6 +4530,7 @@
 <p>I. - De tous biens et droits quelconques mobiliers ou immobiliers, corporels ou incorporels, sauf dispositions contraires au présent tableau</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -3986,11 +4549,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3999,6 +4565,7 @@
 <p>1° Au plus 100 unités principales d'habitation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4014,6 +4581,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4027,6 +4595,7 @@
 <p>3° 250 ou plus de 250 et moins de 500 unités principales d'habitation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4042,6 +4611,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4053,21 +4623,24 @@
 <tr>
 <td width="289">
 <p>b) Première vente à terme ou location-vente d'un local visé en a :</p>
-<p>1o Lorsque le transfert de propriété s'opère par la constatation de l'achèvement de l'immeuble :</p>
+<p>1° Lorsque le transfert de propriété s'opère par la constatation de l'achèvement de l'immeuble :</p>
 <p>Sur le premier acte : émolument proportionnel non dégressif égal à celui correspondant à la tranche supérieure de l'émolument de vente en tenant compte des distinctions établies en a.</p>
 <p>Sur le second acte notarié constatant le transfert de propriété :</p>
 <p>émolument calculé comme en a diminué de l'émolument perçu sur le premier acte.</p>
-<p>2o Lorsque le transfert de propriété s'opère par la constatation du paiement intégral du prix :</p>
+<p>2° Lorsque le transfert de propriété s'opère par la constatation du paiement intégral du prix :</p>
 <p>Sur le premier acte, même émolument qu'en a du présent</p>
 <p>paragraphe.</p>
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4076,6 +4649,7 @@
 <p>Sur le deuxième acte portant constatation du paiement intégral du prix et transfert de propriété</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4091,11 +4665,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4107,11 +4684,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4120,6 +4700,7 @@
 <p>1° Au plus 10 unités principales d'habitation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4135,6 +4716,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4148,6 +4730,7 @@
 <p>3° 25 ou plus de 25 et moins de 100 unités principales d'habitation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4163,6 +4746,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4177,6 +4761,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4190,6 +4775,7 @@
 <p>6° 500 ou plus de 500 unités principales d'habitation</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4206,11 +4792,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4223,8 +4812,10 @@
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4234,11 +4825,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4248,11 +4842,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4261,6 +4858,7 @@
 <p>A. - De gré à gré</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4276,6 +4874,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4289,6 +4888,7 @@
 <p>C. - Par adjudication judiciaire</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4305,6 +4905,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4319,11 +4920,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4332,6 +4936,7 @@
 <p>a) lors de la conclusion du contrat initial, sur le prix de vente</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4347,6 +4952,7 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <p align="center">S1</p>
@@ -4361,11 +4967,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4374,6 +4983,7 @@
 <p>Sur la valeur des biens soumis à publicité foncière, outre les honoraires</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4393,11 +5003,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4409,6 +5022,7 @@
 <p>Vente par adjudication volontaire de tous biens et droits autres que ceux qui sont visés au numéro 93</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4427,11 +5041,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4440,6 +5057,7 @@
 <p>A. - Lorsque le cahier des charges est rédigé par le notaire</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4454,6 +5072,7 @@
 <p>B. - Lorsque le cahier des charges est rédigé par l'avocat</p>
 </td>
 <td colspan="2" width="109">
+<br/>
 <br/>
 </td>
 <td width="109">
@@ -4471,11 +5090,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4491,11 +5113,14 @@
 </td>
 <td colspan="2" width="109">
 <br/>
+<br/>
 </td>
 <td width="109">
 <br/>
+<br/>
 </td>
 <td width="114">
+<br/>
 <br/>
 </td>
 </tr>
