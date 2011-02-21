@@ -109,6 +109,7 @@
 - [Décret n°2011-64 du 17 janvier 2011 (DEVT1018722D)](decret-n2011-64-du-17-janvier-2011-devt1018722d)
 - [Décret n°2011-66 du 17 janvier 2011 (MCCK1018422D)](decret-n2011-66-du-17-janvier-2011-mcck1018422d)
 - [Décret n°2000-138 du 18 février 2000 (EQUP0000197D)](decret-n2000-138-du-18-fevrier-2000-equp0000197d)
+- [Décret n°2011-192 du 18 février 2011 (BCRF1101619D)](decret-n2011-192-du-18-fevrier-2011-bcrf1101619d)
 - [Décret n°2011-67 du 18 janvier 2011 (ETSH1013881D)](decret-n2011-67-du-18-janvier-2011-etsh1013881d)
 - [Décret n°2011-68 du 18 janvier 2011 (ETSP1008159D)](decret-n2011-68-du-18-janvier-2011-etsp1008159d)
 - [Décret n°2011-71 du 18 janvier 2011 (MCCE1023905D)](decret-n2011-71-du-18-janvier-2011-mcce1023905d)
