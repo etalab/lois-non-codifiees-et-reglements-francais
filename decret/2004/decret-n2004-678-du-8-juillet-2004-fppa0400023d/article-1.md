@@ -4,4 +4,4 @@ Pour l'application de l'article L. 11 bis du code des pensions civiles et milita
 
 1° Les fonctionnaires relevant du code des pensions civiles et militaires de retraite ;
 
-2° Les fonctionnaires mentionnés à l'article 1er du décret du 19 septembre 1947 susvisé.
+2° Les fonctionnaires mentionnés à l'article 2 du décret n° 2007-173 du 7 février 2007 relatif à la Caisse nationale de retraites des agents des collectivités locales.
