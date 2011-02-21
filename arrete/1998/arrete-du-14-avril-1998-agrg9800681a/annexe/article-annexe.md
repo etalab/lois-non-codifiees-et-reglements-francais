@@ -293,521 +293,253 @@
 </td>
 </tr>
 <tr>
-<td>Date d'expiration de l'inscription : 31 décembre 2011. </td>
+<td>
+<p align="left">Date d'expiration de l'inscription : 31 décembre 2011. </p>
+</td>
 </tr>
 <tr>
-<td rowspan="8" valign="top" width="132">
-<p>Metsulfuron méthyle.</p>
+<td valign="top" width="132">
+<p>Metsulfuron-méthyle.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun: metsulfuron méthyle.</p>
-<p>Dénomination de I'UICPA : benzoale de méthyle-2-(4-méthoxy-6-méthyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl).</p>
+<p>1. Identité : </p>
+<p>Nom commun : metsulfuron-méthyle. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>Benzoate de méthyle-2-(4-méthoxy-6-méthyl-1,3, 5triazin-2ylcarbamoylsulfamoyl.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 960 g/ kg.</p>
+<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées. </p>
+<p>2.3. Lors du processus décisionnel, conformément aux principes uniformes, les Etats membres :</p>
+<p>- doivent accorder une attention particulière à la protection des eaux souterraines ;</p>
+<p>- doivent accorder une attention particulière aux effets sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
+<p>Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 16 juin 2000. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="8" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active metsulfuron méthyle, la révision des autorisations doit intervenir au plus tard au 1er juillet 2005.</p>
 <p>Toutefois, pour les produits contenant du metsulfuron méthyle et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 960 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3 Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport d'examen sur le metsulfuron méthyle, et notamment de ses annexes I et II, telles que mises au point par le comité phytosanitaire permanent le 16 juin 2000. Dans cette évaluation générale, les Etats membres :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des eaux souterraines ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière aux effets sur les organismes aquatiques et veiller à ce que les conditions d'autorisation comportent, le cas échéant, des mesures visant à réduire les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : le 30 juin 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Prohexiadone-Calcium.</p>
 </td>
 <td valign="top" width="283">
 <p>1. Identité :</p>
 <p>Nom commun : prohexadione-calcium.</p>
 <p>Dénomination de l'UICPA : calcium 3,5-dioxo-4-propionylcyclohexanecarboxylate. </p>
-</td>
-<td rowspan="6" valign="top" width="284"/>
-</tr>
-<tr>
-<td valign="top" width="283">
 <p>2. Conditions à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
 <p>2.1. La substance doit avoir une pureté minimale de 890 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
 <p>2.2. Seules les utilisations en tant que régulateur de croissance végétale peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
 <p>2.3. Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 16 juin 2000.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
 <p>Date d'expiration de l'inscription : 31 décembre 2011.</p>
 </td>
+<td valign="top" width="284"/>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Triasulfuron.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun: triasulfuron.</p>
-<p>Dénomination de l'UICPA : 1-[2-l2-chloroéthoxy)phénylsulfonyl]-3-(4-méthoxy-6-méthyl-1,3,5-triazin-2-yl) urée.</p>
+<p>1. Identité : </p>
+<p>Nom commun : triasulfuron. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>1-[2-(2-chloroethoxy) phénylsulfonyl]-3-(4-methoxy6-méthyl-1,3,5-triazin-2-yl) urée. <br/>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 940 g/kg. </p>
+<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
+<p>2.3. Lors du processus décisionnel, conformément aux principes uniformes, les Etats membres : </p>
+<p>- doivent accorder une attention particulière à la protection des eaux souterraines ;</p>
+<p>- doivent accorder une attention particulière aux effets sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
+<p>Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 13 juillet 2000. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015. </p>
 </td>
-<td rowspan="6" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active triasulfuron, la révision des autorisations doit intervenir au plus tard au 1er août 2005.</p>
 <p>Toutefois, pour les produits contenant du triasulfuron et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 940 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport d'examen sur le triasulfuron, et notamment de ses annexes I et II, telles que mises au point par le comité phytosanitaire permanent le 13 juillet 2000. Dans cette évaluation générale, les Etats membres doivent accorder une attention particulière aux effets éventuels sur les organismes aquatiques et les arthropodes non ciblés et veiller à ce que les conditions d'autorisation comportent, le cas échéant, des mesures visant à réduire les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 juillet 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Esfenvalérate.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité:</p>
-<p>Nom commun : esfenvalérate.</p>
-<p>Dénomination de l'UICPA : (S)-α-Cyano-3-phénoxybenzyl-(S)-2-(4chlorophényl)-3-butyrate de méthyl.</p>
+<p>1. Identité : </p>
+<p>Nom commun : esfenvalérate. </p>
+<p>Dénomination de l'UICPA : (S)--cyano-3-phénoxybenzyl-(S)-2-(4-chlorophényl)-3-butyrate de méthyl. </p>
+<p>2. Conditions à remplir :</p>
+<p>2.1. La substance doit avoir une pureté de 830 g/kg. </p>
+<p>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
+<p>2.3. Lors du processus décisionnel, conformément aux principes uniformes, les Etats membres doivent accorder une attention particulière à l'incidence potentielle sur les organismes aquatiques et les arthropodes non cibles et s'assurer que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques. Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 13 juillet 2000. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="5" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active esfenvalérate, la révision des autorisations doit intervenir au plus tard au 1er août 2005.</p>
 <p>Toutefois, pour les produits contenant du l'esfenvalérate et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 830 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport d'examen sur l'esfenvalérate, et notamment des ses annexes I et II, telles que mises au point par le comité phytosanitaire permanent le 13 juillet 2000. Dans cette évaluation générale, les Etats membres doivent accorder une attention particulière aux effets éventuels sur les organismes aquatiques et les arthropodes non ciblés et veiller à ce que les conditions d'autorisation comportent, le cas échéant, des mesures visant à réduire les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription: 31 juillet 2011.</p>
-</td>
-<td valign="top" width="284"/>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Bentazone.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun : bentazone.</p>
-<p>Dénomination de l'UICPA : 3-isopropyl-(1H)-2,1,3-benzothiadiazin-4-(3h)-one-2,2-dioxyde.</p>
+<p>1. Identité : </p>
+<p>Nom commun : bentazone. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>3-isopropyl-(1H)-2,1,3-benzothiadiazin-4-(3H)-one-2,2-dioxide.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 960 g/kg.</p>
+<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées. </p>
+<p>2.3. Lors du processus décisionnel, conformément aux principes uniformes, les Etats membres doivent accorder une attention particulière à la protection des eaux souterraines.</p>
+<p>Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 13 juillet 2000. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="6" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active bentazone, la révision des autorisations doit intervenir au plus tard au 1er août 2005.</p>
 <p>Toutefois, pour les produits contenant de la bentazone et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active manufacturée doit avoir une pureté de 960 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport d'examen sur le bentazone, et notamment des ses annexes I et Il, telles que mises au point par le comité phytosanitaire permanent le 13 juillet 2000. Dans cette évaluation générale, les Etats membres doivent accorder une attention particulière à la protection des eaux souterraines.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 juillet 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Lambda-cyhalothrine.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun : lambda-cyhalothrine.</p>
-<p>Dénomination de l'UICPA : mélange à 1 : 1 de</p>
-<p>(S)-α-cyano-3-phénoxybenzyl(Z)-(1R,3R)-3-(2-chlaro 3,3,3-trifluoropropényl)- 2,2-diméthylcy-clopropanecarboxylate,</p>
-<p>et</p>
-<p>(R)-α-cyano-3-phénoxybenzyl(Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoropropényl-2,2-diméthylcyclopropanecarboxylate.</p>
+<p>1. Identité : </p>
+<p>Nom commun : lambda-cyhalothrine. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>Al : 1 mélange de : </p>
+<p>(S)-α-cyano-3-phénoxybenzyl (Z)-(1R, 3R)-3 (2-chloro-3,3,3-trifluoroprop-ényl) 2, 2diméthylcyclopropanecarboxylate </p>
+<p>et de : </p>
+<p>(R)-α-cyano-3-phénoxybenzyl (Z)-(1S, 3S) 3 (2-chloro-3,3,3-trifluoropropényl)-2,2-diméthylcyclopropanecarboxylate.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 810 g/kg. <br/>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
+<p>2.3. Lors du processus décisionnel, conformément aux principes uniformes, les Etats membres : </p>
+<p>- doivent accorder une attention particulière à la sécurité des opérateurs ;</p>
+<p>- doivent accorder une attention particulière à l'incidence potentielle sur les organismes aquatiques et les arthropodes non cibles, y compris les abeilles, et s'assurer que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques ;<br/>- doivent accorder une attention particulière aux résidus dans les denrées alimentaires et en particulier à leurs effets aigus.</p>
+<p>Date de mise au point du rapport d'examen par le comité phytosanitaire permanent : 19 octobre 2000. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="6" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active lambda-cyhalothrine, la révision des autorisations doit intervenir au plus tard au 1er janvier 2006.</p>
 <p>Toutefois, pour les produits contenant de la lambda-cyhalothrine et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir:</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active manufacturée doit avoir une pureté de 810 g/kg.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport d'examen sur la lambda-cyhalothrine, et notamment de ses annexes I et Il, telles que mises au point par le comité phytosanitaire permanent le 19 octobre 2000. Dans cette évaluation générale, les Etats membres accordent une attention particulière à la protection des eaux souterraines.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 juillet 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="10" valign="top" width="132">
-<p>Aminotriazole (amitrole).</p>
+<td valign="top" width="132">
+<p>Amitrole.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun: aminotriazole (amitrole).</p>
-<p>Dénomination de I'UICPA : 1-H-[1,2,4]-triazole-3-ylamine.</p>
+<p>1. Identité : </p>
+<p>Nom commun : amitrole. </p>
+<p>Dénomination de l'UICPA : H-[1,2,4]-triazole-3-ylamine.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 900 g/kg.</p>
+<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
+<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI de la directive 91/414/CEE, il sera tenu compte des conclusions du rapport d'examen sur l'amitrole, et notamment de ses annexes I et II, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. <br/>Dans le cadre de cette évaluation globale, les Etats membres :</p>
+<p>- doivent accorder une attention particulière à la protection des opérateurs ;</p>
+<p>- doivent accorder une attention particulière à la protection des eaux souterraines dans les zones vulnérables, notamment en ce qui concerne les utilisations non agricoles ;</p>
+<p>- doivent accorder une attention particulière à la protection des arthropodes cibles ;</p>
+<p>- doivent accorder une attention particulière à la protection des oiseaux et des mammifères sauvages.L'utilisation de l'amitrole durant la période de reproduction ne peut être autorisée que si une évaluation des risques appropriée a démontré l'absence d'effets inacceptables et si les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015. </p>
 </td>
-<td rowspan="10" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active aminotriazole (amitrole), la révision des autorisations doit intervenir au plus tard au 1er janvier 2006.</p>
 <p>Toutefois, pour les produits contenant de l'aminotriazole (amitrole) et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 900 grammes par kilogramme.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour ta mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport de réexamen sur l'aminotriazole (amitrole), et notamment de ses annexes I et II, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluations globale, les Etats membres :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la sécurité des opérateurs ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des eaux souterraines dans les zones vulnérables, notamment en ce qui concerne les utilisations non agricoles ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des arthropodes non cibles ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des oiseaux et des mammifères sauvages. L'utilisation de l'aminotriazole (amitrole) durant la période de reproduction ne peut être autorisée que si une évaluation appropriée des risques a démontré l'absence d'effets inacceptables et si les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 décembre 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="8" valign="top" width="132">
+<td valign="top" width="132">
 <p>Diquat.</p>
 </td>
 <td valign="top" width="283">
 <p>1. Identité :</p>
 <p>Nom commun : diquat.</p>
-<p>Dénomination de l'UICPA : 9,10-dihydro-8a,10a-diazonia-phénanthrène ion (dibromide).</p>
+<p>Dénomination de l'UICPA : </p>
+<p>9,10-dihydro-8a, 10a-diazoniaphénanthrène ion (dibromide). </p>
+<p>2. Conditions à remplir : <br/>2.1. La substance doit avoir une pureté de 950 g/kg.</p>
+<p>2.2. Seules les utilisations en tant qu'herbicide terrestre et déshydratant peuvent être autorisées. Les utilisations en tant qu'herbicide aquatique ne peuvent pas être autorisées.</p>
+<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI de la directive 91/414/CEE, il sera tenu compte des conclusions du rapport d'examen sur le diquat, et notamment de ses annexes I et II, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres : <br/>- doivent accorder une attention particulière aux effets potentiels sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques ;</p>
+<p>- doivent accorder une attention particulière à la sécurité des opérateurs pour les utilisations non professionnelles et veiller à ce que les conditions d'autorisation comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="8" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active diquat, la révision des autorisations doit intervenir au plus tard au 1er janvier 2006.</p>
 <p>Toutefois, pour les produits contenant du diquat et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 950 grammes par kilogramme.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'herbicide terrestre et déshydratant peuvent être autorisées. Les utilisations en tant qu'herbicide aquatique ne peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport de réexamen sur le diquat, et notamment de ses annexes I et Il, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- devront accorder une attention particulière aux effets potentiels sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la sécurité des opérateurs pour les utilisations non professionnelles, les conditions d'autorisation comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 décembre 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="8" valign="top" width="132">
+<td valign="top" width="132">
 <p>Pyridate.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun ; pyridate.</p>
-<p>Dénomination de l'UICPA : 6-chloro-3-phénylpyridazine-4-yl S-octylthiocarbonate.</p>
+<p>1. Identité : </p>
+<p>Nom commun : pyridate. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>6-chloro-3-phénylpyridazine-4-yl-S-octyl thiocarbonate.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté de 900 g/kg.</p>
+<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
+<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI de la directive 91/414/CEE, il sera tenu compte des conclusions du rapport d'examen sur le pyridate, et notamment de ses annexes I et II, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres :</p>
+<p>- doivent accorder une attention particulière à la protection des eaux souterraines ;</p>
+<p>- doivent accorder une attention particulière aux effets potentiels sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015. </p>
 </td>
-<td rowspan="8" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active pyridate, la révision des autorisations doit intervenir au plus tard au 1er janvier 2006.</p>
 <p>Toutefois, pour les produits contenant du pyridate et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 900 grammes par kilogramme.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant qu'herbicide peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport de réexamen sur le pyridate, et notamment de ses annexes I et II, dans la version finale élaborée par lie comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des eaux souterraines ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière aux effets potentiels sur les organismes aquatiques et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription: 31 décembre 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7" valign="top" width="132">
+<td valign="top" width="132">
 <p>Thiabendazole.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
+<p>1. Identité : </p>
 <p>Nom commun : thiabendazole.</p>
-<p>Dénomination de l'UICPA: 2-thiazol-4-yI-1 H-benzimidazole.</p>
+<p>Dénomination de l'UICPA : 2-thiazol-4-yl-1H-benzimidazole. </p>
+<p>2. Conditions à remplir :</p>
+<p>2.1. La substance doit avoir une pureté de 985 g/kg.</p>
+<p>2.2. Seules les utilisations en tant que fongicide peuvent être autorisées. Les pulvérisations foliaires ne peuvent être autorisées.</p>
+<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI de la directive 91/414/CEE, il sera tenu compte des conclusions du rapport d'examen sur le thiabendazole, et notamment de ses annexes I et II, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres doivent accorder une attention particulière à la protection des organismes aquatiques et des organismes vivant dans les sédiments et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques. Il convient d'appliquer des mesures d'atténuation des risques appropriées (par exemple, épuration au moyen de boue à diatomée ou de charbon activé) afin de ne pas exposer les eaux de surface à des niveaux inacceptables de contamination par les eaux de décharge.</p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-<td rowspan="7" valign="top" width="284">
+<td valign="top" width="284">
 <p>Pour les produits contenant uniquement la substance active thiabendazole, la révision des autorisations doit intervenir au plus lard au 1er janvier 2008.</p>
 <p>Toutefois, pour les produits contenant du thiabendazole et d'autres substances actives non encore inscrites dans cette annexe, cette révision interviendra dans les 4 ans à compter de l'inscription dans l'annexe de la dernière de ces substances actives.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 985 grammes par kilogramme.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.2. Seules les utilisations en tant que fongicide peuvent être autorisées. Les pulvérisations foliaires ne peuvent être autorisées.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes prévus à l'annexe VI, il sera tenu compte des conclusions du rapport de réexamen sur le thyabendazole, et notamment de ses annexes I et Il, dans la version finale élaborée par le comité phytosanitaire permanent le 12 décembre 2000. Dans le cadre de cette évaluation globale, les Etats membres :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>- doivent accorder une attention particulière à la protection des organismes aquatiques et des organismes vivants dans les sédiments et veiller à ce que les conditions d'agrément comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 décembre 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="132">
+<td valign="top" width="132">
 <p>Fenhexamide.</p>
 </td>
 <td valign="top" width="283">
-<p>1. Identité :</p>
-<p>Nom commun : fenhexamide.</p>
-<p>Dénomination de l'UICPA : N-(2,3-dichloro-4-hydroxyphényl)-1-méthylcyclohexanecarboxamide.</p>
-</td>
-<td rowspan="6" valign="top" width="284"/>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>2.1. La substance active telle que manufacturée doit avoir une pureté minimale de 950 grammes par kilogramme.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
+<p>1. Identité : </p>
+<p>Nom commun : fenhexamide. </p>
+<p>Dénomination de l'UICPA : </p>
+<p>N-(2,3-dichloro-4-hydroxyphényl)-1-méthylcyclohexanecarboxamide.</p>
+<p>2. Conditions à remplir : </p>
+<p>2.1. La substance doit avoir une pureté minimale de 950 g/kg. </p>
 <p>2.2. Seules les utilisations en tant que fongicide peuvent être autorisées.</p>
+<p>2.3. Pour la mise en œuvre des principes uniformes, les Etats membres doivent accorder une attention particulière à l'incidence éventuelle sur les organismes aquatiques et doivent s'assurer que les conditions d'autorisation comportent, le cas échéant, des mesures visant à atténuer les risques. Le rapport d'examen a été finalisé lors du comité phytosanitaire permanent du 19 octobre 2000.</p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
+<td valign="top" width="284"/>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p>2.3. Pour la mise en œuvre des principes uniformes, les Etats membres doivent accorder une attention particulière à l'incidence éventuelle sur les organismes aquatiques et doivent s'assurer que les conditions d'autorisation comportent, le cas échéant, des mesures visant à atténuer les risques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p>3. Date d'expiration de l'inscription : 31 mai 2011.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" valign="top" width="132">
-<p>Paecilomyces fumosoroseus.</p>
+<td valign="top" width="132">
+<p>Paecilomyces fumosoroseus souche apopka 97, PFR 97 ou CG 170, ATCC20874</p>
 </td>
 <td valign="top" width="284">
-<p>1. Identité :</p>
-<p>Nom commun : Paecilomyces fumosoroseus, souche Apopka 97, PFR 97 ou CG 170, ATCC20874.</p>
-<p>Dénomination de l'UICPA :sans objet.</p>
-</td>
-<td rowspan="5" valign="top" width="284">
-<p>Sans objet</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="284">
-<p>2. Conditions particulières à remplir :</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="284">
-<p>2.1. L'absence de métabolites secondaires doit être vérifiée dans chaque milieu de fermentation par CLHP ;</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="284">
+<p>1. Identité : </p>
+<p>Nom commun : Paecilomyces fumosoroseus souche Apopka 97, PFR 97 ou CG 170, ATCC20874.</p>
+<p>Dénomination de l'UICPA : sans objet.</p>
+<p>2. Conditions à remplir :</p>
+<p>2.1. Pureté : l'absence de métabolites secondaires doit être vérifiée dans chaque milieu de fermentation par CLHP.</p>
 <p>2.2. Seules les utilisations en tant qu'insecticide peuvent être autorisées.</p>
+<p>2.3. Chaque milieu de fermentation doit être vérifié par CLHP afin de s'assurer de l'absence de métabolites secondaires. Date de la mise au point du rapport d'examen par le comité phytosanitaire permanent : 27 avril 2001. </p>
+<p>Date d'expiration de l'inscription : 31 décembre 2015.</p>
 </td>
-</tr>
-<tr>
 <td valign="top" width="284">
-<p>3. Date d'expiration de l'inscription : 30 juin 2011.</p>
+<p>Sans objet</p>
 </td>
 </tr>
 </tbody>
