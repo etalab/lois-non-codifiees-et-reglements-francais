@@ -4,9 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : maçon.
+Intitulé : titre professionnel de maçon.
 
 Niveau : V.
 
@@ -14,11 +12,15 @@ Code NSF : 232 s.
 
 Résumé du référentiel d'emploi
 
-Le maçon effectue les travaux de gros oeuvre d'un bâtiment, tels les fondations, les façades et les murs. Pour cela, il réalise des maçonneries de briques ou de parpaings, des ouvrages simples en béton armé (dallages, linteaux, poteaux...), ou encore des travaux de finition comme les enduits, les appuis et les seuils. Il pose également des éléments préfabriqués.
+Le maçon construit des murs et réalise les enduits traditionnels. Sur des chantiers de construction pavillonnaire, le maçon bâtit à l'aide de blocs creux (briques ou agglos). Sur des chantiers de construction de logements collectifs ou de locaux à usage tertiaire ou industriel, il réalise, entre autres, l'ossature en béton armé. En rénovation, il est amené à réaliser des percements de murs existants et des reprises en sous-œuvre.
 
-Il exécute les consignes transmises par son chef d'équipe sous forme de dessins et d'instructions verbales ou écrites et peut être amené à relever sur place les croquis nécessaires à la préparation de son ouvrage.L'application des règles de sécurité définies par l'encadrement de chantier incombe au maçon dans la réalisation de toutes ses tâches.
+Suivant la nature de l'ouvrage, il coffre et coule des éléments en béton armé tels que poteaux, poutres, escaliers, etc., et pose de petits éléments préfabriqués (appuis, chapeaux). Il pose des planchers et installe leur étaiement, place les armatures et bétonne.
 
-Le maçon travaille seul ou en équipe, en fonction de l'importance du chantier. Il effectue de nombreux déplacements liés à la localisation des chantiers. Son activité s'exerce à l'extérieur. Il exerce ses activités en entreprise artisanales ou en grande entreprise.
+Le travail du maçon se fait essentiellement dans le cadre d'une petite équipe et en extérieur.
+
+Il peut être amené à exercer ses activités professionnelles dans tous types de milieux, avec des horaires modulables et variables (contraintes liées à la planification de chantier, aux délais d'exécution, au travail posté, etc.), dans des conditions météorologiques et d'environnement changeantes (pluie, neige, froid, chaleur, poussière, bruit, etc.). Il peut également travailler sur des sites éloignés occasionnant des déplacements de moyenne durée. Très souvent, il travaille en coordination avec les autres maçons et sous la responsabilité d'un chef de chantier ou d'un chef d'équipe. Sa responsabilité peut être engagée en cas de malfaçons résultant d'une mauvaise mise en œuvre technique ou en cas de manquement grave aux consignes de sécurité.
+
+Il doit avoir le souci permanent de sa propre sécurité et de celle de l'équipe dont il fait partie et porter les équipements de protection individuelle. Pour toutes ces raisons, il doit avoir une bonne condition physique (station debout prolongée, marche, déploiements d'efforts fréquents) et des qualités relationnelles.
 
 Capacités attestées et descriptif
 
@@ -26,17 +28,17 @@ des composantes de la certification
 
 1. Réaliser des ouvrages en maçonnerie
 
-Bâtir des maçonneries de briques creuses ou d'agglomérés de ciment.
+Bâtir des maçonneries hourdées au mortier ou à joints minces.
 
 Réaliser des enduits hydrauliques traditionnels.
 
 Réaliser les opérations de montage et de démontage d'un échafaudage de pied.
 
-Mettre en place des éléments préfabriqués industriellement.
+Mettre en place des éléments préfabriqués industriellement (appui, chapeau, linteau).
 
 Réaliser des ouvrages de finition (seuils, appuis, chape traditionnelle et tous types de scellements).
 
-Créer des ouvertures dans des murs existants.
+Créer des ouvertures dans des murs existants et réaliser la déconstruction de parties d'ouvrage.
 
 2. Réaliser des ouvrages en béton armé coffrés en traditionnel
 
@@ -46,65 +48,31 @@ Mettre en place les armatures d'un ouvrage en béton armé.
 
 Couler le béton d'un ouvrage en béton armé coffré en traditionnel.
 
-3. Réaliser des dallages et des planchers
+3. Réaliser des dallages et des planchers type dalle pleine
 
-type dalle pleine ou poutrelles et hourdis
+ou poutrelles et hourdis
 
 Poser un plancher poutrelles et hourdis.
 
-Poser des canalisations sous dallages.
+Poser des canalisations sous des dallages.
 
 Coffrer des dalles pleines au moyen de systèmes coffrants.
 
 Mettre en place les armatures de dallages et planchers.
 
-Mettre en oeuvre le béton de dallages et de planchers.
+Mettre en œuvre le béton de dallage et planchers.
 
-Réaliser les aspects de surface des bétons de dallages et planchers.
+Réaliser les aspects de surface des bétons de dallage et planchers.
 
-Certificats complémentaires de spécialisation
+Secteurs d'activités ou types d'emploi
 
-1. Monter des briques de parement
+accessibles par le détenteur du titre
 
-Monter des briques de parement en mur porteur.
+Petites et moyennes entreprises de bâtiment.
 
-Habiller des murs en briques de parement et plaquettes.
+Code ROME :
 
-Bâtir en briques de parement des ouvrages de forme complexe.
-
-2. Réaliser des enduits au mortier de chaux et des badigeons
-
-Réaliser les opérations de montage et de démontage d'un échafaudage de pied.
-
-Enduire un ouvrage de maçonnerie avec un mortier de chaux.
-
-Réaliser des badigeons colorés à base de lait de chaux.
-
-Rejointoyer des maçonneries.
-
-3. Réaliser des ouvrages en maçonneries de pierre
-
-Réaliser un mur en maçonnerie de pierres assisées.
-
-Bâtir un mur en moellons.
-
-Mettre en oeuvre un dallage en pierre.
-
-Réaliser une plate-bande ou un arc en plein cintre.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Entreprises artisanales.
-
-PME et grosses entreprises du bâtiment.
-
-Codes ROME :
-
-42114-Ouvrier (e) de la maçonnerie.
-
-42113-Ouvrier (e) du béton.
+F1703-maçonnerie.
 
 Réglementation de l'activité :
 
@@ -116,8 +84,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
-
-Arrêté du 25 novembre 2002 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
