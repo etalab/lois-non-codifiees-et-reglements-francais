@@ -18,7 +18,7 @@ C. - Avec la direction du budget, la direction générale des finances publiques
 
 1° Elle participe à la conception et à la promotion des nouveaux modes de gestion de l'État et des organismes bénéficiaires d'une subvention pour charges de service public, dans le cadre de la mise en oeuvre de la loi organique relative aux lois de finances du 1re août 2001 susvisée. Elle coordonne les travaux relatifs à l'analyse du coût des actions. Elle anime les travaux relatifs au développement du contrôle de gestion au sein de l'Etat et des organismes susmentionnés et favorise l'optimisation des fonctions de soutien des administrations ;
 
-2° Elle anime les travaux relatifs à la refonte des processus de gestion et participe à la définition des fonctionnalités interministérielles qui doivent être assurées par les systèmes d'information de l'Etat dans les domaines budgétaires, financiers et comptables ainsi que dans le domaine des ressources humaines ;
+2° (Abrogé) ;
 
 3° Elle participe à l'élaboration et au suivi des normes de comptabilité publique pour l'application de l'article 136 de la loi de finances pour 2002.
 
@@ -26,9 +26,9 @@ III. - La direction générale de la modernisation de l'Etat favorise le dévelo
 
 1° Elle incite au développement de systèmes d'information et de communication en apportant son appui aux administrations pour l'identification des besoins, la connaissance de l'offre, la conception des projets et l'évaluation des résultats ;
 
-2° Elle propose les mesures tendant à la dématérialisation des procédures administratives et à l'interopérabilité des systèmes d'information ;
+2° Elle propose les mesures tendant à la dématérialisation des procédures administratives ;
 
-3° Elle assure la maîtrise d'ouvrage des services interministériels opérationnels d'interconnexion et de partage des ressources.
+3° Elle peut également assurer la maîtrise d'ouvrage de projets interministériels ou, à la demande de départements ministériels, la maîtrise d'ouvrage de projets ministériels.
 
 IV. - La direction générale de la modernisation de l'Etat coordonne et anime, en liaison avec les administrations de l'Etat, les actions de communication et de formation dans le domaine de la modernisation de l'Etat.
 
