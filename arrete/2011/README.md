@@ -154,6 +154,7 @@
 - [Arrêté du 10 janvier 2011 (PRMX1100282A)](arrete-du-10-janvier-2011-prmx1100282a)
 - [Arrêté du 10 septembre 2010 (IOCA1022635A)](arrete-du-10-septembre-2010-ioca1022635a)
 - [Arrêté du 11 avril 1996 (INDZ9600303A)](arrete-du-11-avril-1996-indz9600303a)
+- [Arrêté du 11 avril 2006 (BUDL0600039A)](arrete-du-11-avril-2006-budl0600039a)
 - [Arrêté du 11 février 2011 (AGRM1101171A)](arrete-du-11-fevrier-2011-agrm1101171a)
 - [Arrêté du 11 février 2011 (AGRM1101172A)](arrete-du-11-fevrier-2011-agrm1101172a)
 - [Arrêté du 11 février 2011 (AGRM1101173A)](arrete-du-11-fevrier-2011-agrm1101173a)
