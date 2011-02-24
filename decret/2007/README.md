@@ -796,7 +796,6 @@
 - [Décret n°2007-981 du 15 mai 2007 (DEVO0753290D)](decret-n2007-981-du-15-mai-2007-devo0753290d)
 - [Décret n°2007-982 du 15 mai 2007 (DEVO0752376D)](decret-n2007-982-du-15-mai-2007-devo0752376d)
 - [Décret n°2007-983 du 15 mai 2007 (DEVO0750918D)](decret-n2007-983-du-15-mai-2007-devo0750918d)
-- [Décret n°2007-985 du 15 mai 2007 (DEVO0753479D)](decret-n2007-985-du-15-mai-2007-devo0753479d)
 - [Décret n°2007-986 du 15 mai 2007 (PMEC0753482D)](decret-n2007-986-du-15-mai-2007-pmec0753482d)
 - [Décret n°2007-987 du 15 mai 2007 (PMED0753026D)](decret-n2007-987-du-15-mai-2007-pmed0753026d)
 - [Décret du 16 janvier 2007 (AGRP0602512D)](decret-du-16-janvier-2007-agrp0602512d)
