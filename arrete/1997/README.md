@@ -501,7 +501,6 @@
 - [Arrêté du 17 avril 1997 (TASP9721441A)](arrete-du-17-avril-1997-tasp9721441a)
 - [Arrêté du 17 décembre 1996 (DEFT9602219A)](arrete-du-17-decembre-1996-deft9602219a)
 - [Arrêté du 17 décembre 1997 (AGRE9702498A)](arrete-du-17-decembre-1997-agre9702498a)
-- [Arrêté du 17 décembre 1997 (EQUA9701859A)](arrete-du-17-decembre-1997-equa9701859a)
 - [Arrêté du 17 décembre 1997 (EQUA9701906A)](arrete-du-17-decembre-1997-equa9701906a)
 - [Arrêté du 17 février 1997 (ECOS9710001A)](arrete-du-17-fevrier-1997-ecos9710001a)
 - [Arrêté du 17 février 1997 (ECOS9710002A)](arrete-du-17-fevrier-1997-ecos9710002a)
