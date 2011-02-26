@@ -10,12 +10,6 @@ La nomenclature des dépenses comprend quatre catégories, réparties par nature
 
 4° Les opérations d'investissement programmées et autres opérations en capital. Les destinations de dépenses pouvant comporter des autorisations d'engagement sont les suivantes :
 
-- pour l'agrégat se rapportant aux actions communes :
-
-- les très grandes infrastructures de recherche ;
-
-- les équipements nationaux ;
-
 - pour l'agrégat se rapportant aux fonctions support :
 
 - les moyens informatiques communs ;

@@ -4,7 +4,7 @@ La nomenclature des destinations de dépenses comprend trois agrégats :
 
 1° Le premier agrégat se rapporte à l'activité conduite par les unités de recherche. Au sein de cet agrégat, les dépenses sont présentées selon une double ventilation :
 
-- par groupes de disciplines correspondant aux grandes orientations scientifiques de l'établissement ;
+- par instituts, cette première ventilation traduisant l'organisation scientifique de l'établissement ;
 
 - par unités de recherche agrégées par regroupements géographiques (groupes de délégations régionales), cette deuxième ventilation constituant le support de l'exécution du budget ;
 
@@ -14,9 +14,7 @@ La nomenclature des destinations de dépenses comprend trois agrégats :
 
 - l'animation scientifique et l'évaluation de la recherche ;
 
-- les très grandes infrastructures de recherche ;
-
-- les équipements nationaux ;
+- les très grandes infrastructures de recherche développées hors des unités de recherche du Centre national de la recherche scientifique ;
 
 - la valorisation de la recherche ;
 
@@ -50,4 +48,4 @@ Il est également prévu des dotations à répartir correspondant aux moyens du 
 
 Il est également prévu des dotations à répartir correspondant aux moyens du troisième agrégat dont la répartition par lignes de destination de dépenses ne peut être prévue au stade de la présentation du budget.
 
-4° Hors agrégats, est prévue une dotation à répartir correspondant notamment aux contreparties de recettes et aux dépenses de personnel dont la répartition entre agrégats ne peut être précisée au moment de la présentation du budget ou mises en réserve pour hausse de rémunérations.
+4° Hors agrégats, est prévue une dotation à répartir correspondant à un crédit mis en réserve en application de la loi organique relative aux lois de finances, aux contreparties de recettes et aux dépenses de personnel dont la répartition entre agrégats ne peut être précisée au moment de la présentation du budget et aux mises en réserve pour hausse de rémunérations.
