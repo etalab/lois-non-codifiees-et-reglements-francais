@@ -5,4 +5,5 @@
 - [Ordonnance n°2003-1067 du 12 novembre 2003 (ECOX0300160R)](ordonnance-n2003-1067-du-12-novembre-2003-ecox0300160r)
 - [Ordonnance n° 2011-78 du 20 janvier 2011 (AGRG1027105R)](ordonnance-n-2011-78-du-20-janvier-2011-agrg1027105r)
 - [Ordonnance n° 2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n-2010-686-du-24-juin-2010-iocx1013964r)
+- [Ordonnance n° 2011-204 du 24 février 2011 (DEVX1032941R)](ordonnance-n-2011-204-du-24-fevrier-2011-devx1032941r)
 - [Ordonnance n°2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n2010-686-du-24-juin-2010-iocx1013964r)
