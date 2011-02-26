@@ -6,7 +6,7 @@ La sous-direction de la mémoire et de l'action éducative est chargée :
 
 ― d'organiser les cérémonies commémoratives et de proposer les manifestations relatives aux grands événements liés à la mémoire combattante ;
 
-― de participer à la préparation des actes relatifs à l'exercice de la tutelle sur l'Office national des anciens combattants et victimes de guerre ;
+― de préparer les actes relatifs à l'exercice de la tutelle sur l'Office national des anciens combattants et victimes de guerre ;
 
 ― de mener, dans les domaines de la mémoire, de l'enseignement de défense et de la citoyenneté, les actions pédagogiques en direction des jeunes et du grand public ;
 
