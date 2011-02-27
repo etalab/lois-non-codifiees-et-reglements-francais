@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé à la direction de l'animation de la recherche, des études et des statistiques (DARES) un traitement automatisé d'informations individuelles relatif à l'enquête sur les relations professionnelles et les négociations d'entreprise (REPONSE 2010). Cette enquête fournira des résultats permettant de décrire le fonctionnement des institutions représentatives du personnel et les pratiques de négociation collective dans les établissements et les entreprises, d'en préciser les évolutions récentes et d'analyser, autour du thème des relations sociales, les liens entre politiques de gestion du personnel, organisation du travail, stratégies économiques et performance des entreprises.
