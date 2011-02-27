@@ -141,34 +141,22 @@ Type de produit 8 : produits de protection du bois
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Etofenprox. <br/>
+<td>Etofenprox. <br/>
+</td>
+<td>Identité : <p>Dénomination de l'UICPA : Ether 3-phénoxybenzylique de 2-(4-éthoxyphényl)-2-méthylpropyle.</p>
+<p>N° CE : 407-980-2.</p>
+<p>N° CAS : 80844-07-01. </p>
+<p>Pureté minimale : </p>
+<p>≥ 970 g/kg.<br/>
 </p>
 </td>
-<td>
-<p align="left">Identité : </p>
-<p align="left">Dénomination de l'UICPA : Ether 3-phénoxybenzylique de 2-(4-éthoxyphényl)-2-méthylpropyle.</p>
-<p align="left">N° CE : 407-980-2.</p>
-<p align="left">N° CAS : 80844-07-01. </p>
-<p align="left">Pureté minimale : </p>
-<p align="left">≥ 970 g/kg.<br/>
-</p>
+<td>S'il y a lieu, les groupes de population susceptibles d'être exposés au produit ainsi que les usages et les scénarios d'exposition qui n'ont pas été pris en considération de façon représentative dans l'évaluation des risques au niveau communautaire sont évalués. <br/>
 </td>
-<td>
-<p align="left">S'il y a lieu, les groupes de population susceptibles d'être exposés au produit ainsi que les usages et les scénarios d'exposition qui n'ont pas été pris en considération de façon représentative dans l'évaluation des risques au niveau communautaire sont évalués. <br/>
-</p>
+<td>1er février 2010 <br/>
 </td>
-<td>
-<p align="left">1er février 2010 <br/>
-</p>
+<td>31 janvier 2020 <br/>
 </td>
-<td>
-<p align="left">31 janvier 2020 <br/>
-</p>
-</td>
-<td>
-<p align="left">I. - Pour les produits contenant de l'étofenprox comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er février 2010 : </p>
-<p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2010 : <br/>
+<td>I. - Pour les produits contenant de l'étofenprox comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er février 2010 : <p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2010 : <br/>
 </p>
 </td>
 </tr>
@@ -243,27 +231,21 @@ Type de produit 8 : produits de protection du bois
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Thiaméthoxame </p>
-<br/>
+<td>Thiaméthoxame <br/>
 <br/>
 <br/>
 </td>
-<td>
-<p align="left">Identité : </p>
-<p align="left">Dénomination de l'UICPA : thiamétho xame.</p>
-<p align="left">N° CE : 428-650-4.</p>
-<p align="left">N° CAS : 153719-23-4. </p>
-<p align="left">Pureté minimale : </p>
-<p align="left">≥ 980 g/kg. <br/>
+<td>Identité : <p>Dénomination de l'UICPA : thiamétho xame.</p>
+<p>N° CE : 428-650-4.</p>
+<p>N° CAS : 153719-23-4. </p>
+<p>Pureté minimale : </p>
+<p>≥ 980 g/kg. <br/>
 </p>
 <br/>
 <br/>
 <br/>
 </td>
-<td>
-<p align="left">Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. </p>
-<p align="left">Aux fins de cette évaluation : <br/>
+<td>Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. <p>Aux fins de cette évaluation : <br/>
 </p>
 <p align="left">1) Etant donné les hypothèses émises au cours de l'évaluation des risques, les produits autorisés à des fins industrielles et / ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être prouvé dans la demande d'autorisation du produit que les risques pour les utilisateurs industriels et / ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens. <br/>
 </p>
@@ -272,22 +254,16 @@ Type de produit 8 : produits de protection du bois
 </p>
 <p align="left">4) Les produits ne sont pas autorisés pour le traitement in situ du bois à l'extérieur et pour le bois qui sera exposé aux intempéries, à moins que n'aient été fournies des données démontrant que les produits rempliront notamment les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant, grâce à des mesures d'atténuation des risques appropriées. </p>
 </td>
-<td>
-<p align="left">1er juillet 2010 <br/>
-</p>
+<td>1er juillet 2010 <br/>
 <br/>
 <br/>
 <br/>
 </td>
-<td>
-<p align="left">30 juin 2020 </p>
-<br/>
+<td>30 juin 2020 <br/>
 <br/>
 <br/>
 </td>
-<td>
-<p align="left">I. - Pour les produits contenant du thiaméthoxame comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er juillet 2010 : <br/>
-</p>
+<td>I. - Pour les produits contenant du thiaméthoxame comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er juillet 2010 : <br/>
 <p align="left">1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2010 : </p>
 <p align="left">a) Le dépôt de dossier doit intervenir au plus tard le 30 juin 2010. </p>
 <p>b) Les produits, pour lesquels aucun dossier n'a été déposé au 30 juin 2010, ne doivent plus être mis sur le marché au 31 décembre 2010 au plus tard. Leur utilisation est interdite à partir du 1er juillet 2011.</p>
@@ -297,37 +273,21 @@ Type de produit 8 : produits de protection du bois
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Propiconazole. </p>
-</td>
-<td>
-<p align="left">Identité : </p>
-<p align="left">Dénomination de l'UICPA : 1-[2-(2, 4-dich lorophényl)-4-propyl-1, 3-diox olane-2-yl] méthyl]-1H-1, 2, 4-triazole.</p>
-<p align="left">N° CE : 262-104-4.</p>
-<p align="left">N° CAS : 60207-90-1. </p>
-<p align="left">Pureté minimale : </p>
-<p align="left">≥ 930 g/kg. <br/>
+<td>Propiconazole. </td>
+<td>Identité : <p>Dénomination de l'UICPA : 1-[2-(2, 4-dich lorophényl)-4-propyl-1, 3-diox olane-2-yl] méthyl]-1H-1, 2, 4-triazole.</p>
+<p>N° CE : 262-104-4.</p>
+<p>N° CAS : 60207-90-1. </p>
+<p>Pureté minimale : </p>
+<p>≥ 930 g/kg. <br/>
 </p>
 </td>
-<td>
-<p align="left">Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. </p>
-<p align="left">Aux fins de cette évaluation : <br/>
-</p>
-<p align="left">1) Compte tenu des hypothèses émises au cours de l'évaluation des risques, les produits autorisés à des fins industrielles et/ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être prouvé dans la demande d'autorisation du produit que les risques pour les utilisateurs industriels et / ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens. <br/>2) Compte tenu des risques mis en évidence pour le sol et les eaux, des mesures appropriées visant à atténuer les risques doivent être prises pour protéger ces différents milieux. </p>
-<p align="left">3) Les étiquettes et/ou les fiches de données de sécurité des produits autorisés pour une utilisation industrielle indiquent notamment que le bois, après traitement, doit être stocké sous abri ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol ou dans les eaux, et que les pertes doivent être récupérées en vue de leur réutilisation ou de leur élimination. </p>
-<p align="left">4) En outre, les produits ne peuvent être autorisés pour le traitement in situ du bois à l'extérieur et pour le bois qui sera exposé aux intempéries, à moins que des données ne soient fournies indiquant que les produits rempliront notamment les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant, grâce à des mesures d'atténuation des risques appropriées. <br/>
-</p>
+<td>Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. <p>Aux fins de cette évaluation : <br/>
+</p>1) Compte tenu des hypothèses émises au cours de l'évaluation des risques, les produits autorisés à des fins industrielles et/ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être prouvé dans la demande d'autorisation du produit que les risques pour les utilisateurs industriels et / ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens. <br/>2) Compte tenu des risques mis en évidence pour le sol et les eaux, des mesures appropriées visant à atténuer les risques doivent être prises pour protéger ces différents milieux. <p>3) Les étiquettes et/ou les fiches de données de sécurité des produits autorisés pour une utilisation industrielle indiquent notamment que le bois, après traitement, doit être stocké sous abri ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol ou dans les eaux, et que les pertes doivent être récupérées en vue de leur réutilisation ou de leur élimination. </p>4) En outre, les produits ne peuvent être autorisés pour le traitement in situ du bois à l'extérieur et pour le bois qui sera exposé aux intempéries, à moins que des données ne soient fournies indiquant que les produits rempliront notamment les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant, grâce à des mesures d'atténuation des risques appropriées. <br/>
 </td>
-<td>
-<p align="left">1er avril 2010 <br/>
-</p>
+<td>1er avril 2010 <br/>
 </td>
-<td>
-<p align="left">31 mars 2020</p>
-</td>
-<td>
-<p align="left">I. - Pour les produits contenant du propiconazole comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er avril 2010 : </p>
-<p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er avril 2010 : <br/>
+<td>31 mars 2020</td>
+<td>I. - Pour les produits contenant du propiconazole comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er avril 2010 : <p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er avril 2010 : <br/>
 </p>a) Le dépôt de dossier doit intervenir au plus tard le 31 mars 2010. <p>b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 mars 2010, ne doivent plus être mis sur le marché au 30 septembre 2010 au plus tard. Leur utilisation est interdite à partir du 1er avril 2011. </p>
 <p>c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision. <br/>
 </p>2° A compter du 1er avril 2010, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement. <p>II. - Pour les produits contenant du propiconazole comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er avril 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive. </p>
@@ -420,7 +380,7 @@ Type de produit 8 : produits de protection du bois
 </tbody>
 </table>
 
-.
+..
 
 <table>
 <tbody>
@@ -432,7 +392,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">SPÉCIFICATIONS<br/>concernant la substance active</p>
 </td>
 <td width="148">
-<p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
+<p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement</p>
 </td>
 <td width="88">
 <p align="center">DATE<br/>d'inscription</p>
@@ -441,7 +401,7 @@ Type de produit 8 : produits de protection du bois
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td width="145">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement</p>
 </td>
 </tr>
 <tr>
@@ -717,7 +677,7 @@ Type de produit 12 : produits antimoisissures
 <p align="center">SPÉCIFICATIONS<br/>concernant<br/>la substance active </p>
 </td>
 <td align="center" valign="middle">
-<p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement</p>
+<p align="center">DISPOSITIONS SPÉCIFIQUES<br/>pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement</p>
 </td>
 <td align="center" valign="middle">
 <p align="center">DATE<br/>d'inscription</p>
@@ -726,7 +686,7 @@ Type de produit 12 : produits antimoisissures
 <p align="center">DATE<br/>d'expiration de l'inscription</p>
 </td>
 <td align="center" valign="middle">
-<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement</p>
+<p align="center">DÉLAIS POUR LA MISE<br/>en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement</p>
 </td>
 </tr>
 <tr>
@@ -782,7 +742,7 @@ Type de produit 14 : rodenticides
 <font color="#000000" size="1">et des mesures de limitations</font>
 <font color="#000000" size="1">prévues à l'</font>
 </font>
-<font color="#000000" size="1">article R. 522-32 du code de l'environnement</font>
+<font color="#000000" size="1">article R. 522-32du code de l'environnement</font>
 </p>
 </td>
 <td>
@@ -803,7 +763,7 @@ Type de produit 14 : rodenticides
 <font color="#000000" size="1">en conformité des produits contenant la substance active</font>
 <font color="#000000" size="1">avec l'</font>
 </font>
-<font color="#000000" size="1">article L. 522-4 du code de l'environnement</font>
+<font color="#000000" size="1">article L. 522-4du code de l'environnement</font>
 </p>
 </td>
 </tr>
@@ -1406,6 +1366,115 @@ Type de produit 18 : insecticides, acaricides et produits utilisés pour lutter 
 <p>c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.</p>
 <p>2° A compter du 1er février 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.</p>
 <p>II. - Pour les produits contenant du phosphure de magnésium comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Métofluthrine</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Identité : </p>
+<p>Dénomination de l'UICPA : </p>
+<p>Isomère RTZ : 2,3,5,6-tétrafluoro-4-(méthoxyméthyl) benzyl (1R, 3R)-2,2-diméthyl-3-(Z) (prop-1-enyl) cyclopropanecarboxylate </p>
+<p>N° CE : n. d.</p>
+<p>N° CAS : 240494-71-7</p>
+<p align="left">Somme de tous les isomères : 2,3,5,6-tétrafluoro-4-(méthoxyméthyl) benzyl-(EZ)-(1RS, 3RS ; 1SR, 3SR)-2,2-diméthyl-3-prop-1-enylcyclopropanecarboxylate </p>
+<p align="left">N° CE : n. d.</p>
+<p>N° CAS : 240494-70-6</p>
+<p align="left">Pureté minimale :</p>
+<p align="left">La substance active doit présenter une pureté minimale conforme aux deux niveaux suivants :</p>
+<p align="left">Isomère RTZ </p>
+<p>754 g/kg</p>
+<p align="left">Somme de tous les isomères </p>
+<p>930 g/kg</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués.</p>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">1er mai 2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">30 avril 2021 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sans objet (nouvelle substance active) : les produits doivent être autorisés avant d'être mis sur le marché.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Spinosad </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Identité : </p>
+<p>Dénomination de l'UICPA : </p>
+<p>N° CE : 434-300-1 N° CAS : 168316-95-8 </p>
+<p>Pureté minimale : 850 g/kg </p>
+<p>Le spinosad est un mélange de 50 à 95 % de spinosyne A et de 5 à 50 % de spinosyne D. </p>
+<p>Spinosyne A (2R, 3aS, 5aR, 5bS, 9S, 13S, 14R, 16aS, 16bR)-2-[(6-désoxy-2,3,4-tri - O-méthyl --L-mannopyranosyl) oxy]-13-[[(2R, 5S, 6R)-5-(diméthylamino) tétrahydro-6-méthyl-2H-pyran-2-yl] oxy]-9-éthyl-2,3, 3a, 5a, 5b,6,9,10,11,12,13,14, 16a, 16b-tétradécahydro-14-méthyl-1H-as-indacéno [3,2-d] oxacyclododécin-7,15-dione </p>
+<p>N° CAS : 131929-60-7 </p>
+<p>Spinosyne D (2S, 3aR, 5aS, 5bS, 9S, 13S, 14R, 16aS, 16bR)-2-[(6-désoxy-2,3,4-tri-O-méthyl-L-mannopyranosyl) oxy]-13-[[(2R, 5S, 6R)-5-(diméthylamino) tétrahydro-6-méthyl-2H-pyran-2-l] oxy]-9-éthyl-2,3, 3a, 5a, 5b,6,9,10,11,12,13,14, 16a, 16b-tétrad-écahydro-4,14-mét-hyl1Hasindacéno [3,2-d] oxacyclodo-décin7, 15dione </p>
+<p>N° CAS : 131929-63-0 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués. </p>
+<p>Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. </p>
+<p>Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes : </p>
+<p>1) Les autorisations doivent faire l'objet des mesures appropriées d'atténuation des risques. En particulier, les produits destinés à un usage professionnel par pulvérisation doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il ne puisse être prouvé, dans la demande d'autorisation du produit, que les risques pour les utilisateurs professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens ; </p>
+<p>2) En ce qui concerne les produits contenant du spinosad qui pourraient entraîner la présence de résidus dans des denrées alimentaires ou des aliments pour animaux, la nécessité d'introduire de nouvelles teneurs maximales en résidus et/ ou de modifier les teneurs existantes conformément au règlement (CE) n° 470/2009 et/ ou au règlement (CE) n° 396/2005 est évaluée, et toutes les mesures d'atténuation des risques appropriées visant à garantir que les teneurs maximales en résidus ne sont pas dépassées, sont prises. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er novembre 2012</p>
+</td>
+<td align="left" valign="top">
+<p align="left">31 octobre 2022</p>
+</td>
+<td align="left" valign="top">
+<p align="left">I. - Pour les produits contenant du spinosad comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er novembre 2012 : </p>
+<p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er novembre 2012 : </p>
+<p>a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2012 ; </p>
+<p>b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 octobre 2012, ne doivent plus être mis sur le marché au 30 avril 2013 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2013 ; </p>
+<p>c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision. </p>
+<p>2° A compter du 1er novembre 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement. </p>
+<p>II. - Pour les produits contenant du spinosad comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er novembre 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Dioxyde de carbone </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Identité : </p>
+<p>Dénomination de l'UICPA : Dioxyde de carbone </p>
+<p>N° CE : 204-696-9 </p>
+<p>N° CAS : 124-38-9 </p>
+<p>Pureté minimale : </p>
+<p>≥ 990 ml/l</p>
+</td>
+<td align="left" valign="top">
+<p>Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union européenne sont évalués.</p>
+<p>Les risques sont évalués, et des mesures appropriées sont prises ou des conditions spécifiques sont imposées en vue d'atténuer les risques mis en évidence. </p>
+<p>Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active. </p>
+<p>Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes : </p>
+<p>1) Le produit ne peut être vendu qu'à des professionnels formés à leur utilisation, et leur usage est réservé à ces professionnels ; </p>
+<p>2) Des mesures appropriées sont prises pour protéger les opérateurs afin de réduire les risques au minimum, y compris la mise à disposition d'équipements de protection individuelle si nécessaire ; </p>
+<p>3) Des mesures appropriées sont prises pour protéger les personnes présentes, par exemple l'exclusion de ces personnes de la zone de traitement durant la fumigation.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er novembre 2012</p>
+</td>
+<td align="left" valign="top">
+<p align="left">31 octobre 2022 </p>
+</td>
+<td align="left" valign="top">
+<p>I. - Pour les produits contenant du dioxyde de carbone comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er novembre 2012 : </p>
+<p>1° Pour les produits dont la première mise sur le marché est antérieure au 1er novembre 2012 :</p>
+<p>a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2012 ; </p>
+<p>b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 octobre 2012, ne doivent plus être mis sur le marché au 30 avril 2013 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2013 ; </p>
+<p>c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision. </p>
+<p>2° A compter du 1er novembre 2012, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement. </p>
+<p>II. - Pour les produits contenant du dioxyde de carbone comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er novembre 2012 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.</p>
 </td>
 </tr>
 </tbody>
