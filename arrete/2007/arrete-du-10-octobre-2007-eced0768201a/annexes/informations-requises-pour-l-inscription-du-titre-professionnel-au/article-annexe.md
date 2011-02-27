@@ -6,89 +6,75 @@ Titre professionnel : monteur-dépanneur en climatisation.
 
 Niveau : V.
 
-Code NSF : 227s.
+Code NSF : 227 s.
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
-Le monteur-dépanneur en climatisation réalise le montage, la mise en service et la maintenance des équipements de climatisation de confort monopostes utilisés pour le rafraîchissement et le chauffage des locaux : logements, bureaux, magasins, hôtels ou restaurants.
+Le monteur-dépanneur en climatisation réalise le montage, la mise en service et la maintenance des équipements de climatisation de confort utilisés pour le rafraîchissement et le chauffage de différents types de locaux : locaux d'habitation, résidentiels ou collectifs, bureaux, magasins de vente, hôtels et restaurants. Il exécute les raccordements fluidiques et électriques des équipements de climatisation multipostes à volume de réfrigérant variable ou de production d'eau glacée. Il assiste le technicien lors de leur mise en service et réalise la maintenance préventive de ces équipements.
 
-Lors du montage, il commence par fixer l'ensemble des équipements et accessoires, puis façonne et pose les tubes en cuivre et PVC avant de réaliser le branchement électrique de l'installation. Il se base sur les consignes, plans et schémas d'exécution qui lui sont confiés. Après avoir vérifié la conformité de l'installation par rapport à la commande du client, il met l'installation en service et procède aux réglages définitifs.
+Le monteur-dépanneur en climatisation est amené à effectuer des opérations dans un contexte à risques : lors de manipulations de fluides frigorigènes, à l'occasion d'interventions sur les équipements électriques et sur des appareils à pression. Ceci nécessite une attention soutenue, le respect des normes de sécurité et l'application de la réglementation en vigueur.
 
-Il effectue régulièrement une visite de contrôle, conformément à la législation en vigueur, afin de s'assurer du bon fonctionnement de l'installation, de vérifier l'étanchéité des équipements et pour procéder au changement systématique des appareillages tel que prévu dans le contrat d'entretien (maintenance préventive).
+Il travaille seul ou en équipe, sur chantier ou chez le client dans des locaux occupés.
 
-Lorsqu'un dysfonctionnement apparaît, il diagnostique le type de défaillance, réalise le dépannage et, après vérification du bon fonctionnement, restitue l'installation au client (maintenance corrective).
+Capacités attestées et descriptif des composantes de la certification
 
-Il réalise également les raccordements fluidiques et électriques des équipements de climatisation plus complexes (multipostes), dont il assure la maintenance préventive. Il assiste un technicien lors de la mise en service de ces équipements.
+1. Monter et mettre en service des équipements monopostes de climatisation
 
-Le monteur-dépanneur en climatisation exerce son activité, seul ou en équipe, sur chantier ou chez le client dans des locaux occupés. Les interventions sont effectuées dans un contexte à risques : lors de manipulations de fluides frigorigènes, à l'occasion d'interventions sur les équipements électriques et sur des appareils à pression. Ceci nécessite une attention soutenue, le respect des normes de sécurité et l'application de la réglementation en vigueur. Il devra, pour certaines d'entre elles, avoir :
+Préparer et organiser un chantier de montage d'un équipement monoposte de climatisation.
 
-- une habilitation électrique type BR ;
+Façonner et mettre en place les supports, poser les unités et les tuyauteries d'un équipement monoposte de climatisation.
 
-- une habilitation pour la manipulation des fluides frigorigènes (pour le montage, la mise en service et la maintenance des climatiseurs de confort).
+Réaliser le tableau électrique, le montage de la câblerie ainsi que les raccordements électriques d'un équipement monoposte de climatisation.
 
-Capacités attestées et descriptif des composantes de la certification :
+Mettre en service un équipement monoposte de climatisation.
 
-1. Monter et mettre en service des équipements monopostes de climatisation :
+Réceptionner avec le client l'installation d'un équipement monoposte de climatisation.
 
-- préparer et organiser un chantier de montage d'un équipement monoposte de climatisation ;
+Appliquer la réglementation sur la protection de l'environnement.
 
-- façonner et mettre en place les supports, poser les unités et les tuyauteries d'un équipement monoposte de climatisation ;
+2. Monter des équipements multipostes de climatisation et intervenir dans leur mise en service
 
-- réaliser le tableau électrique, le montage de la câblerie, ainsi que les raccordements électriques d'un équipement monoposte de climatisation ;
+Réaliser le montage fluidique d'une installation multiposte de climatisation à détente directe.
 
-- contrôler la conformité de l'équipement au vu de la réglementation sur la protection de l'environnement ;
+Réaliser le montage fluidique d'une installation multiposte de climatisation avec fluide intermédiaire.
 
-- mettre en service un équipement monoposte de climatisation ;
+Réaliser le montage électrique d'une installation multiposte de climatisation.
 
-- remettre un équipement de climatisation au client.
+Seconder le technicien lors de la mise en service d'une installation multiposte de climatisation.
 
-2. Monter et participer à la mise en service des équipements multipostes de climatisation :
+3. Réaliser la maintenance préventive et curative de niveau II des équipements de climatisation
 
-- réaliser le montage fluidique d'une installation multiposte de climatisation à détente directe ;
+Réaliser la maintenance préventive des équipements de climatisation.
 
-- réaliser le montage fluidique d'une installation multiposte de climatisation avec fluide intermédiaire ;
+Appliquer la réglementation sur la protection de l'environnement.
 
-- réaliser le montage électrique d'une installation multiposte de climatisation ;
+Analyser et diagnostiquer les dysfonctionnements d'un équipement de climatisation.
 
-- réaliser le réseau aéraulique d'une unité gainable ;
+Restituer au client une installation de climatisation après une opération de maintenance.
 
-- participer à la mise en service d'une installation multiposte de climatisation.
+Remplacer les éléments défectueux d'un équipement monoposte de climatisation et le remettre en service.
 
-3. Réaliser la maintenance préventive et curative de niveau II des équipements de climatisation :
+Réaliser le démontage d'un équipement de climatisation en vue de sa réutilisation.
 
-- contrôler la conformité de l'équipement au vu de la réglementation sur la protection de l'environnement ;
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-- réaliser la maintenance préventive des équipements de climatisation ;
+Installateurs en froid et conditionnement d'air.
 
-- analyser et diagnostiquer les dysfonctionnements d'un équipement de climatisation ;
+Installateurs en chauffage et climatisation.
 
-- remplacer les éléments défectueux d'un équipement monoposte de climatisation et le remettre en service ;
+Installateurs en électricité et climatisation.
 
-- réaliser le démontage d'un équipement de climatisation en vue de sa réutilisation ;
-
-- remettre un équipement de climatisation au client.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
-
-- installateurs en froid et conditionnement d'air ;
-
-- installateurs en chauffage et climatisation ;
-
-- installateurs en électricité et climatisation ;
-
-- constructeurs d'équipement de froid et de climatisation, lorsqu'ils possèdent un service montage ou un SAV.
+Constructeurs d'équipement de froid et de climatisation, lorsqu'ils possèdent un service après-vente ou un service de montage.
 
 Codes ROME :
 
-42212 : installateur(trice) d'équipements sanitaires et thermiques.
+I1306-Installation et maintenance en froid, conditionnement d'air.
 
-52332 : maintenicien(ne) des systèmes thermiques, climatiques et frigorifiques.
+F1603-Installation d'équipements sanitaires et thermiques.
 
 Réglementation de l'activité :
 
-- habilitation électrique type BR ;
-
-- habilitation pour la manipulation des fluides frigorigènes.
+Le code de l'environnement (attestation d'aptitude catégorie I pour la manipulation de fluides frigorigènes).
 
 Autorité responsable de la certification :
 
