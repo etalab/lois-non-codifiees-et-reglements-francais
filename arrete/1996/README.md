@@ -815,7 +815,6 @@
 - [Arrêté du 24 juillet 1998 (MESH9821872A)](arrete-du-24-juillet-1998-mesh9821872a)
 - [Arrêté du 24 juin 1996 (INDH9600463A)](arrete-du-24-juin-1996-indh9600463a)
 - [Arrêté du 24 octobre 1996 (LOGC9600044A)](arrete-du-24-octobre-1996-logc9600044a)
-- [Arrêté du 24 octobre 1997 (MENF9703148A)](arrete-du-24-octobre-1997-menf9703148a)
 - [Arrêté du 24 septembre 1996 (ACVA9610105A)](arrete-du-24-septembre-1996-acva9610105a)
 - [Arrêté du 24 septembre 1996 (ACVI9630010A)](arrete-du-24-septembre-1996-acvi9630010a)
 - [Arrêté du 24 septembre 1996 (BUDD9650008A)](arrete-du-24-septembre-1996-budd9650008a)
