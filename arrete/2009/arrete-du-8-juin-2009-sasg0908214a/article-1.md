@@ -10,7 +10,7 @@ La direction des ressources humaines comprend :
 
 4° La mission de l'encadrement dirigeant et supérieur ;
 
-5° Le département de la gestion du personnel de la jeunesse et des sports ;
+5° (supprimé)
 
 6° Le bureau des ressources humaines et de l'administration générale interne à la direction.
 
