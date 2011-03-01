@@ -1,26 +1,31 @@
 # Article B I
 
--
-
 <table>
 <tbody>
 <tr>
-<th colspan="2">B.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale <br/>
-</th>
-<th>NOMBRE <br/>d'emplois </th>
+<td align="center" colspan="2">
+<p align="center">B.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale <br/>
+</p>
+</td>
+<td align="center" rowspan="2">
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
 </tr>
 <tr>
-<th>Localisation <br/>
-</th>
-<th colspan="2">Intitulé du poste <br/>
-</th>
+<td>
+<p align="center">Localisation </p>
+</td>
+<td>
+<p align="center">Intitulé du poste </p>
+</td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie d'Aix-Marseille <br/>
+<td>Rectorat de l'académie d'Aix-Marseille </td>
+<td>
+<p align="left">Adjoint au secrétaire général d'académie, chargé de la programmation</p>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie, chargé de la programmation <br/>
-</td>
-<td align="center">1 <br/>
+<td>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
@@ -48,8 +53,12 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie d'Aix-Marseille </td>
-<td align="center">Responsable de la division financière </td>
+<td align="center">
+<p align="left">Rectorat de l'académie d'Aix-Marseille </p>
+</td>
+<td align="center">
+<p align="left">Responsable de la division financière </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
@@ -241,7 +250,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Besançon ― Etablissement public local d'enseignement ― Lycée <br/>
+<td align="center">Académie de Besançon - Etablissement public local d'enseignement - Lycée <br/>
 </td>
 <td align="center">Agent comptable </td>
 <td align="center">1</td>
@@ -1297,16 +1306,14 @@
 <tr>
 <td align="center">Rectorat de l'académie de Nice <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</td>
+<td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines</td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Nice <br/>
 </td>
-<td align="center">Directeur des personnels <br/>
-</td>
+<td align="center">Directeur des personnels</td>
 <td align="center">1 <br/>
 </td>
 </tr>
@@ -1589,9 +1596,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Poitiers-Inspection académique de la Vienne <br/>
+<td align="center">Académie de Poitiers - Inspection académique de la Vienne <br/>
 </td>
-<td align="center">Secrétaire général <br/>
+<td align="center">Secrétaire général<br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1735,7 +1742,7 @@
 <p align="center">Responsable de la division du pilotage des moyens et de la carte des formations </p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -2228,12 +2235,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">Administration centrale du ministère chargé de l'éducation nationale <br/>
+<td align="center">
+<p align="left">Administration centrale du ministère chargé de l'éducation nationale <br/>
+</p>
 </td>
-<td align="center">Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010 <br/>
+<td align="center">
+<p align="left">Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département </p>
 </td>
-<td align="center">21 <br/>
-</td>
+<td align="center">21 </td>
 </tr>
 </tbody>
 </table>

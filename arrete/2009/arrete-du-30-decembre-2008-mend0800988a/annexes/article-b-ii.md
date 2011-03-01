@@ -1,27 +1,32 @@
 # Article B II
 
--
-
 <table>
 <tbody>
 <tr>
-<th colspan="2">B.-II.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'enseignement supérieur <br/>
-</th>
-<th>NOMBRE <br/>d'emplois <br/>
-</th>
+<td align="center" colspan="2">
+<p align="center">B.-II.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'enseignement supérieur </p>
+</td>
+<td align="center" rowspan="2">
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
 </tr>
 <tr>
-<th>Localisation <br/>
-</th>
-<th colspan="2">Intitulé du poste <br/>
-</th>
+<td>
+<p align="center">Localisation </p>
+</td>
+<td>
+<p align="center">Intitulé du poste </p>
+</td>
 </tr>
 <tr>
-<td align="center">Académie d'Aix-Marseille-Université Aix-Marseille-I <br/>
+<td>
+<p align="center">Académie d'Aix-Marseille-Université Aix-Marseille-I</p>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td>
+<p align="left">Adjoint au secrétaire général de l'université </p>
 </td>
-<td align="center">1 <br/>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -74,18 +79,21 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie d'Aix-Marseille-Centre régional des œuvres universitaires et scolaires <br/>
-</td>
-<td align="center">Adjoint au directeur du centre régional <br/>
-</td>
-<td align="center">1 <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Académie d'Aix-Marseille - Centre régional des œuvres universitaires et scolaires </td>
 <td align="center">Responsable des activités du centre régional sur la ville de Marseille <br/>
 </td>
 <td align="center">1</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Académie d'Aix-Marseille - Centre régional des œuvres universitaires et scolaires </p>
+</td>
+<td>
+<p align="center"> Adjoint au directeur de centre régional</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
 </tr>
 <tr>
 <td align="center">Académie d'Amiens-Université d'Amiens <br/>
@@ -306,7 +314,8 @@
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Créteil-Université Paris VIII <br/>
+<td align="center">
+<p>Académie de Créteil-Université Paris VIII </p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er septembre 2008 <br/>
 </td>
@@ -314,7 +323,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Créteil-Université Paris XII <br/>
+<td align="center">
+<p>Académie de Créteil-Université Paris XII </p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'université, en charge des affaires générales et pédagogiques <br/>
 </td>
@@ -322,7 +332,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Créteil-Université Paris XII <br/>
+<td align="center">
+<p>Académie de Créteil-Université Paris XII</p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'université, en charge des affaires financières <br/>
 </td>
@@ -330,7 +341,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Créteil-Université Paris XIII <br/>
+<td align="center">
+<p>Académie de Créteil-Université Paris XIII </p>
 </td>
 <td align="center">Chef de cabinet du président de l'université <br/>
 </td>
@@ -338,7 +350,19 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Créteil-Centre régional des œuvres universitaires et scolaires <br/>
+<td>
+<p align="center">  Académie de Créteil-Université Paris XIII </p>
+</td>
+<td>
+<p align="center"> Adjoint au secrétaire général de l'université, chargé de l'appui à la modernisation et à la conduite du changement</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Académie de Créteil-Centre régional des œuvres universitaires et scolaires </p>
 </td>
 <td align="center">Adjoint au directeur du centre régional <br/>
 </td>
@@ -346,7 +370,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Dijon-Université de Dijon <br/>
+<td align="center">
+<p>Académie de Dijon-Université de Dijon </p>
 </td>
 <td align="center">Adjoint au directeur général des services, chargé de la formation et de la vie collective <br/>
 </td>
@@ -355,12 +380,13 @@
 </tr>
 <tr>
 <td align="center">Académie de Dijon - Université de Dijon </td>
-<td align="center">Adjoint au directeur général des services, chargé du développement de l'université <br/>
+<td align="center">Adjoint au directeur général des services, chargé du développement de l'université<br/>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Université Grenoble-I <br/>
+<td align="center">
+<p>Académie de Grenoble-Université Grenoble-I </p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'université <br/>
 </td>
@@ -368,7 +394,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Université Grenoble-I <br/>
+<td align="center">
+<p>Académie de Grenoble-Université Grenoble-I </p>
 </td>
 <td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres <br/>
 </td>
@@ -376,7 +403,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Université Grenoble-I <br/>
+<td align="center">
+<p>cadémie de Grenoble-Université Grenoble-I </p>
 </td>
 <td align="center">Directeur des services financiers - A effet du 1er avril 2009<br/>
 </td>
@@ -384,7 +412,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Université Grenoble-II <br/>
+<td align="center">
+<p>Académie de Grenoble-Université Grenoble-II</p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'université, chargé des ressources humaines <br/>
 </td>
@@ -392,12 +421,16 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble - Université Grenoble-II </td>
+<td align="center">
+<p>Académie de Grenoble - Université Grenoble-II </p>
+</td>
 <td align="center">Adjoint au directeur général des services, chargé du patrimoine, de l'hygiène et de la sécurité</td>
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble - Université Grenoble-III </td>
+<td align="center">
+<p>Académie de Grenoble - Université Grenoble-III </p>
+</td>
 <td align="center">Adjoint au directeur général des services </td>
 <td align="center">1</td>
 </tr>
@@ -408,12 +441,15 @@
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble - Université de Chambéry </td>
+<td align="center">
+<p>Académie de Grenoble - Université de Chambéry </p>
+</td>
 <td align="center">Adjoint au directeur général des services, chargé du pilotage et de la politique contractuelle</td>
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Institut polytechnique de Grenoble <br/>
+<td align="center">
+<p>Académie de Grenoble-Institut polytechnique de Grenoble</p>
 </td>
 <td align="center">Adjoint au secrétaire général de l'institut-A effet du 1er septembre 2008 <br/>
 </td>
@@ -421,7 +457,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Grenoble-Centre régional des œuvres universitaires et scolaires <br/>
+<td align="center">
+<p>Académie de Grenoble-Centre régional des œuvres universitaires et scolaires <br/>
+</p>
 </td>
 <td align="center">Adjoint au directeur du centre régional <br/>
 </td>
@@ -877,18 +915,24 @@
 </tr>
 <tr>
 <td align="center">Académie de Nice - Université de Toulon </td>
-<td align="center">Adjoint au directeur général des services, en charge des affaires générales, statutaires et juridiques </td>
+<td align="center">
+<p>Adjoint au directeur général des services, en charge des affaires générales, statutaires et juridiques</p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
-<td align="center">Académie de Nice - Université de Toulon </td>
+<td align="center">
+<p>Académie de Nice - Université de Toulon </p>
+</td>
 <td align="center">Chargé du contrôle de gestion et de l'aide au pilotage </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Nice-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -896,7 +940,9 @@
 <tr>
 <td align="center">Académie de Nice-Centre local des œuvres universitaires et scolaires (Toulon) <br/>
 </td>
-<td align="center">Directeur du centre local de Toulon <br/>
+<td align="center">
+<p>Directeur du centre local de Toulon <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -904,7 +950,9 @@
 <tr>
 <td align="center">Académie d'Orléans-Tours-Université d'Orléans <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er octobre 2008. <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er octobre 2008. <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -912,25 +960,32 @@
 <tr>
 <td align="center">Académie d'Orléans-Tours-Université d'Orléans <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie d'Orléans-Tours - Université de Tours </td>
-<td align="center">Directeur des ressources humaines </td>
+<td align="center">
+<p>Directeur des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie d'Orléans-Tours - Université de Tours </td>
-<td align="center">Directeur des finances </td>
+<td align="center">
+<p>Directeur des finances</p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie d'Orléans-Tours-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -938,7 +993,9 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-I <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -946,39 +1003,48 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-I <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Paris - Université Paris-II </td>
-<td align="center">Directeur des ressources humaines </td>
+<td align="center">
+<p>Directeur des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris - Université Paris-II </td>
-<td align="center">Directeur des affaires générales </td>
+<td align="center">
+<p>Directeur des affaires générales </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris-Université Paris-III <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er septembre 2008 <br/>
+</p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Paris - Université Paris-III </td>
-<td align="center">Directeur du patrimoine immobilier et de la logistique <br/>
+<td align="center">
+<p>Directeur du patrimoine immobilier et de la logistique </p>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris-Université Paris-IV <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -986,7 +1052,8 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-IV <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -994,7 +1061,8 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-IV <br/>
 </td>
-<td align="center">Directeur des ressources humaines-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Directeur des ressources humaines-A effet du 1er janvier 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1002,7 +1070,8 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-V <br/>
 </td>
-<td align="center">Adjoint au directeur général des services, chargé de la direction de la recherche, de la valorisation et des écoles doctorales - A effet du 1er avril 2009<br/>
+<td align="center">
+<p>Adjoint au directeur général des services, chargé de la direction de la recherche, de la valorisation et des écoles doctorales - A effet du 1er avril 2009</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1010,7 +1079,8 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-VI <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1018,14 +1088,16 @@
 <tr>
 <td align="center">Académie de Paris - Université Paris-VI <br/>
 </td>
-<td align="center">Chargé de mission auprès du directeur général des services <br/>
+<td align="center">
+<p>Chargé de mission auprès du directeur général des services</p>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris-Université Paris-VII <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1033,7 +1105,8 @@
 <tr>
 <td align="center">Académie de Paris-Université Paris-VII <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur du pôle des moyens généraux, logistiques et techniques-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur du pôle des moyens généraux, logistiques et techniques-A effet du 1er septembre 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1041,7 +1114,8 @@
 <tr>
 <td align="center">Académie de Paris-Université technologique Paris-Dauphine <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, en charges des services financiers et du contrôle de gestion-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, en charges des services financiers et du contrôle de gestion-A effet du 1er septembre 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1049,7 +1123,8 @@
 <tr>
 <td align="center">Académie de Paris-Conservatoire nationale des arts et métiers <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'établissement <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'établissement </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1057,7 +1132,8 @@
 <tr>
 <td align="center">Académie de Paris-Muséum national d'histoire naturelle <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'établissement <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'établissement</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1065,7 +1141,8 @@
 <tr>
 <td align="center">Académie de Paris-Muséum national d'histoire naturelle <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'établissement, directeur des finances et du budget-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'établissement, directeur des finances et du budget-A effet du 1er septembre 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1073,37 +1150,47 @@
 <tr>
 <td align="center">Académie de Paris-Institut national d'histoire de l'art <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'institut <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'institut</p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Paris - Institut national des langues et civilisations orientales (INALCO)</td>
-<td align="center">Directeur des ressources humaines </td>
+<td align="center">
+<p>Directeur des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris-Centre régional des œuvres universitaires et scolaires </td>
-<td align="center">Adjoint au directeur du centre régional</td>
+<td align="center">
+<p>Adjoint au directeur du centre régional</p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Paris - Collège de France </td>
-<td align="center">Directeur des affaires budgétaires et financières </td>
+<td align="center">
+<p>Directeur des affaires budgétaires et financières </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Poitiers-Université de Poitiers <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Poitiers - Université de Poitiers </td>
-<td align="center">Directeur du service immobilier </td>
+<td align="center">
+<p>Directeur du service immobilier </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
@@ -1115,13 +1202,16 @@
 </tr>
 <tr>
 <td align="center">Académie de Poitiers - Université de La Rochelle </td>
-<td align="center">Directeur des ressources humaines </td>
+<td align="center">
+<p>Directeur des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Poitiers-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1129,7 +1219,8 @@
 <tr>
 <td align="center">Académie de Poitiers-Centre local des œuvres universitaires et scolaires (La Rochelle) <br/>
 </td>
-<td align="center">Directeur du centre local de La Rochelle <br/>
+<td align="center">
+<p>Directeur du centre local de La Rochelle </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1137,20 +1228,24 @@
 <tr>
 <td align="center">Académie de Reims-Université de Reims <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Reims - Université de Reims </td>
-<td align="center">Directeur financier </td>
+<td align="center">
+<p>Directeur financier</p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Rennes-Université Rennes-I <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1158,7 +1253,8 @@
 <tr>
 <td align="center">Académie de Rennes-Université Rennes-I <br/>
 </td>
-<td align="center">Directeur des ressources humaines <br/>
+<td align="center">
+<p>Directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1166,29 +1262,34 @@
 <tr>
 <td align="center">Académie de Rennes-Université Rennes-II <br/>
 </td>
-<td align="center">Directeur des ressources humaines <br/>
+<td align="center">
+<p>Directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Rennes - Université Rennes-II </td>
-<td align="center">Chargé de mission auprès du directeur général des services <br/>
+<td align="center">
+<p>Chargé de mission auprès du directeur général des services</p>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Rennes-Université de Brest <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université</p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p>1 </p>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Rennes-Université de Brest <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1208,7 +1309,8 @@
 <tr>
 <td align="center">Académie de Rennes-Centre régional des œuvres universitaires et scolaires (Brest) <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1216,7 +1318,8 @@
 <tr>
 <td align="center">Académie de Rennes-Centre local des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Directeur du centre local de Brest <br/>
+<td align="center">
+<p>Directeur du centre local de Brest </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1224,45 +1327,56 @@
 <tr>
 <td align="center">Académie de la Réunion-Université de la Réunion <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er février 2009. </td>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er février 2009. </p>
+</td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de La Réunion - Université de La Réunion</td>
-<td align="center">Adjoint au directeur général des services, chargé des affaires juridiques, des affaires générales et de la commande publique</td>
+<td align="center">
+<p>Adjoint au directeur général des services, chargé des affaires juridiques, des affaires générales et de la commande publique</p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Rouen-Université de Rouen <br/>
 </td>
-<td align="center">Adjoint au directeur général des services, directeur des ressources humaines <br/>
+<td align="center">
+<p>Adjoint au directeur général des services, directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Rouen - Université de Rouen </td>
-<td align="center">Adjoint au directeur général des services, directeur de la recherche et de la valorisation </td>
+<td align="center">
+<p>Adjoint au directeur général des services, directeur de la recherche et de la valorisation </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Rouen-Université du Havre <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des ressources humaines-A effet du 1er septembre 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Rouen - Université du Havre </td>
-<td align="center">Chargé de mission auprès du directeur général des services </td>
+<td align="center">
+<p>Chargé de mission auprès du directeur général des services </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Rouen-Centre local des œuvres universitaires et scolaires (Le Havre) <br/>
 </td>
-<td align="center">Directeur du centre local du Havre <br/>
+<td align="center">
+<p>Directeur du centre local du Havre </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1270,7 +1384,8 @@
 <tr>
 <td align="center">Académie de Strasbourg-Université Strasbourg <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, chargé de l'appui aux missions de l'université de Strasbourg. <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, chargé de l'appui aux missions de l'université de Strasbourg.</p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1284,18 +1399,23 @@
 </tr>
 <tr>
 <td align="center">Académie de Strasbourg - Université de Mulhouse </td>
-<td align="center">Directeur chargé des ressources humaines </td>
+<td align="center">
+<p>Directeur chargé des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Strasbourg - Université de Mulhouse </td>
-<td align="center">Directeur chargé du patrimoine immobilier </td>
+<td align="center">
+<p>Directeur chargé du patrimoine immobilier </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Strasbourg-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1303,25 +1423,31 @@
 <tr>
 <td align="center">Académie de Strasbourg-Centre local des œuvres universitaires et scolaires (Mulhouse) <br/>
 </td>
-<td align="center">Directeur du centre local de Mulhouse <br/>
+<td align="center">
+<p>Directeur du centre local de Mulhouse </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Toulouse - Université Toulouse-I</td>
-<td align="center">Directeur du service juridique et contentieux </td>
+<td align="center">
+<p>Directeur du service juridique et contentieux </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Toulouse - Université Toulouse-I</td>
-<td align="center">Adjoint au directeur général des services </td>
+<td align="center">
+<p>Adjoint au directeur général des services </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Toulouse-Université Toulouse-II <br/>
 </td>
-<td align="center">Directeur des ressources humaines <br/>
+<td align="center">
+<p>Directeur des ressources humaines </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1329,7 +1455,8 @@
 <tr>
 <td align="center">Académie de Toulouse-Université Toulouse-II <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres-A effet du 1er janvier 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1337,7 +1464,8 @@
 <tr>
 <td align="center">Académie de Toulouse-Université Toulouse-III <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur des affaires juridiques <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur des affaires juridiques </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1345,20 +1473,24 @@
 <tr>
 <td align="center">Académie de Toulouse-Université Toulouse-III <br/>
 </td>
-<td align="center">Adjoint au secrétaire général de l'université, directeur de la vie du campus-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université, directeur de la vie du campus-A effet du 1er septembre 2008</p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Toulouse - Université Toulouse-III </td>
-<td align="center">Directeur des finances et du contrôle de gestion </td>
+<td align="center">
+<p>Directeur des finances et du contrôle de gestion </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Toulouse-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
+<td align="center">
+<p>Adjoint au directeur du centre régional </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1366,14 +1498,16 @@
 <tr>
 <td align="center">Académie de Versailles-Université Paris-X <br/>
 </td>
-<td align="center">En charge du pilotage et du contrôle de gestion <br/>
+<td align="center">
+<p>En charge du pilotage et du contrôle de gestion </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles - Université Paris-X</td>
-<td align="center">Chargé de mission auprès du directeur général des services <br/>
+<td align="center">
+<p>Chargé de mission auprès du directeur général des services </p>
 </td>
 <td align="center">1</td>
 </tr>
@@ -1386,14 +1520,16 @@
 </tr>
 <tr>
 <td align="center">Académie de Versailles - Université Paris-XI </td>
-<td align="center">Chargé de mission auprès du directeur général des services <br/>
+<td align="center">
+<p>Chargé de mission auprès du directeur général des services </p>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Université de Cergy-Pontoise <br/>
 </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres </p>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1406,41 +1542,45 @@
 </tr>
 <tr>
 <td align="center">Académie de Versailles - Université d'Evry-Val-d'Essonne </td>
-<td align="center">Directeur des ressources humaines </td>
+<td align="center">
+<p>Directeur des ressources humaines </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles - Université d'Evry-Val-d'Essonne </td>
-<td align="center">Directeur du pilotage </td>
+<td align="center">
+<p>Directeur du pilotage </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Université de Versailles-Saint-Quentin <br/>
 </td>
-<td align="center">Directeur des ressources humaines-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p>Directeur des ressources humaines-A effet du 1er septembre 2008 </p>
 </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles - Université de Versailles - Saint-Quentin-en-Yvelines </td>
-<td align="center">Adjoint au directeur général des services, directeur des finances <br/>
+<td align="center">
+<p>Adjoint au directeur général des services, directeur des finances </p>
 </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés <br/>
 </td>
-<td align="center">Secrétaire général de l'institut <br/>
-</td>
+<td align="center">Secrétaire général de l'institut </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Centre régional des œuvres universitaires et scolaires <br/>
 </td>
-<td align="center">Adjoint au directeur du centre régional <br/>
-</td>
+<td align="center">Adjoint au directeur du centre régional </td>
 <td align="center">1 <br/>
 </td>
 </tr>
@@ -1453,24 +1593,21 @@
 <tr>
 <td align="center">Académie de Versailles-Centre régional des œuvres universitaires et scolaires (site de Nanterre) <br/>
 </td>
-<td align="center">Responsable du site de Nanterre <br/>
-</td>
+<td align="center">Responsable du site de Nanterre </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Centre régional des œuvres universitaires et scolaires (site de Cergy) <br/>
 </td>
-<td align="center">Responsable du site de Cergy <br/>
-</td>
+<td align="center">Responsable du site de Cergy</td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Académie de Versailles-Centre local des œuvres universitaires et scolaires (Antony) <br/>
 </td>
-<td align="center">Directeur du centre local d'Antony <br/>
-</td>
+<td align="center">Directeur du centre local d'Antony </td>
 <td align="center">1 <br/>
 </td>
 </tr>
@@ -1481,76 +1618,57 @@
 </tr>
 <tr>
 <td align="center">Vice-rectorat de la Nouvelle-Calédonie - Université de la Nouvelle-Calédonie </td>
-<td align="center">Chargé des œuvres universitaires et de la restructuration de la vie étudiante - A effet du 1er mai 2009 <br/>
+<td align="center">
+<p>Chargé des œuvres universitaires et de la restructuration de la vie étudiante - A effet du 1er mai 2009 </p>
 </td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Agence d'évaluation de la recherche et de l'enseignement supérieur</td>
-<td align="center">Délégué administratif </td>
+<td align="center">
+<p>Délégué administratif </p>
+</td>
 <td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Administration centrale du ministère chargé de l'enseignement supérieur et de la recherche <br/>
 </td>
-<td align="center">Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010 <br/>
-</td>
+<td align="center">Adjoint de sous-directeur ou chargé de mission ou chef de bureau ou chef de département - A effet du 1er septembre 2010 </td>
 <td align="center">5<br/>
 </td>
 </tr>
 <tr>
 <td align="center">Centre national des œuvres universitaires et scolaires (services centraux) <br/>
 </td>
-<td align="center">Responsable des services financiers <br/>
-</td>
+<td align="center">Responsable des ressources humaines et de la formation continue </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Centre national des œuvres universitaires et scolaires (services centraux) <br/>
 </td>
-<td align="center">Responsable des ressources humaines et de la formation continue <br/>
-</td>
+<td align="center">Responsable de la vie étudiante </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Centre national des œuvres universitaires et scolaires (services centraux) <br/>
 </td>
-<td align="center">Responsable de la vie étudiante <br/>
-</td>
-<td align="center">1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Centre national des œuvres universitaires et scolaires (services centraux) <br/>
-</td>
-<td align="center">Adjoint au responsable des systèmes d'informations <br/>
-</td>
+<td align="center">Adjoint au responsable des systèmes d'informations </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<div align="center">Académie d'Aix-Marseille-Université Aix-Marseille-II. </div>
-</td>
+<br/>Académie d'Aix-Marseille-Université Aix-Marseille-II. </td>
 <td align="center">Directeur des affaires générales </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td>
-<div align="center">
-<br/>
-</div>
-<div align="center">Académie de Créteil-Université Paris-XIII </div>
-</td>
+<br/>Académie de Créteil-Université Paris-XIII </td>
 <td>
-<div align="center">
-<br/>
-</div>
-<div align="center">En charge du budget de l'université. <br/>
-</div>
+<br/>En charge du budget de l'université. <br/>
 </td>
 <td align="center">1 </td>
 </tr>
@@ -1558,69 +1676,60 @@
 <td align="center">Académie de Grenoble-Université Grenoble-I. <br/>
 </td>
 <td>
-<br/>
-<div align="center">Adjoint au secrétaire général de l'université, directeur des ressources humaines. <br/>
-</div>
+<p>
+<br/>Adjoint au secrétaire général de l'université, directeur des ressources humaines. </p>
 </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td align="center">Académie de Guyane-Centre local des œuvres universitaires et scolaires (Cayenne). </td>
-<td align="center">Directeur du centre local de Cayenne-A effet du 1er septembre 2007. <br/>
+<td align="center">
+<p>Directeur du centre local de Cayenne-A effet du 1er septembre 2007. </p>
 </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td>
-<div align="center">
-<br/>
-</div>
-<div align="center">Académie de Lyon-Université Lyon-II. </div>
-</td>
+<br/>Académie de Lyon-Université Lyon-II. </td>
 <td align="center">Adjoint au secrétaire général de l'université, responsable administratif de site. </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td align="center">Académie d'Orléans-Tours-Centre local des œuvres universitaires et scolaires (Tours). <br/>
 </td>
-<td align="center">Directeur du centre local de Tours-A effet du 1er septembre 2007. <br/>
-</td>
+<td align="center">Directeur du centre local de Tours-A effet du 1er septembre 2007. </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<div align="center">Académie de Paris-Université Paris-V. </div>
-</td>
+<br/>Académie de Paris-Université Paris-V. </td>
 <td align="center">Adjoint au secrétaire général de l'université-A effet du 1er novembre 2008. </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td align="center">Académie de Paris-Université Paris-V. </td>
-<td align="center">Adjoint au secrétaire général de l'université-A effet du 1er avril 2009. </td>
+<td align="center">
+<p>Adjoint au secrétaire général de l'université-A effet du 1er avril 2009. </p>
+</td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td align="center">Académie de Strasbourg-Université de Strasbourg. </td>
-<td align="center">Responsable des services administratif et technique de l'institut universitaire de formation des maîtres. <br/>
+<td align="center">
+<p>Responsable des services administratif et technique de l'institut universitaire de formation des maîtres. </p>
 </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<div align="center">Centre national des œuvres universitaires et scolaires (services centraux). <br/>
-</div>
+<br/>Centre national des œuvres universitaires et scolaires (services centraux). <br/>
 </td>
-<td align="center">Fondé de pouvoir du trésorier-payeur général. <br/>
-</td>
+<td align="center">Fondé de pouvoir du trésorier-payeur général. </td>
 <td align="center">1 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<div align="center">Centre national des œuvres universitaires et scolaires. <br/>
-</div>
+<br/>Centre national des œuvres universitaires et scolaires. <br/>
 </td>
 <td align="center">Chef du service de la formation continue, directeur du Centre national de formation du réseau des œuvres universitaires et scolaires-A effet du 1er septembre 2007. </td>
 <td align="center">1</td>

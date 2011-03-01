@@ -4,27 +4,19 @@
 <tbody>
 <tr>
 <td align="left" colspan="2" valign="top">
-<p align="center">
-<font size="1">A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de </font>l'<font size="1">article 58 du décret du 3 décembre 1983 susvisé</font>
-<font size="1">, <br/>services du ministère chargé de l'éducation nationale</font>
+<p align="center">A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale <br/>
 </p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">
-<font size="1">NOMBRE <br/>d'emplois </font>
-</p>
+<p align="center">NOMBRE <br/>d'emplois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">
-<font size="1">Localisation </font>
-</p>
+<p align="center">Localisation </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<font size="1">Intitulé du poste</font>
-</p>
+<p align="center">Intitulé du poste </p>
 </td>
 </tr>
 <tr>
@@ -33,7 +25,8 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, chargé des affaires générales </p>
+<p align="left">Adjoint au secrétaire général d'académie, chargé des affaires générales <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1 <br/>
@@ -207,7 +200,8 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie </p>
+<p align="left">Adjoint au secrétaire général d'académie <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1 <br/>
@@ -423,7 +417,7 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
+<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -745,27 +739,13 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique du Val-d'Oise <br/>
-</p>
+<p align="left">Académie de Versailles-Inspection académique du Val-d'Oise </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
+<p align="left">Secrétaire général </p>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Administration centrale du ministère chargé de l'éducation nationale </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chargé de mission </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 </tr>
 </tbody>
