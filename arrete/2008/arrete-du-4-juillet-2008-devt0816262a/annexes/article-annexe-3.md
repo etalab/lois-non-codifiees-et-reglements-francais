@@ -2,8 +2,8 @@
 
 RECTO
 
-Vous pouvez consulter le formulaire dans le JO n° 176 du 30/07/2008 texte numéro 9
+Vous pouvez consulter le modèle-type dans le JO n° 16 du 20/01/2011 texte numéro 6
 
 VERSO
 
-Vous pouvez consulter le formulaire dans le JO n° 176 du 30/07/2008 texte numéro 9
+Vous pouvez consulter le modèle-type dans le JO n° 16 du 20/01/2011 texte numéro 6
