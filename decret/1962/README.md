@@ -11,7 +11,6 @@
 - [Décret du 7 novembre 1962](decret-du-7-novembre-1962)
 - [Décret n°62-1297 du 7 novembre 1962](decret-n62-1297-du-7-novembre-1962)
 - [Décret n°62-667 du 7 juin 1962](decret-n62-667-du-7-juin-1962)
-- [Décret n°62-670 du 8 juin 1962](decret-n62-670-du-8-juin-1962)
 - [Décret n°62-1320 du 9 novembre 1962](decret-n62-1320-du-9-novembre-1962)
 - [Décret n°65-1119 du 9 décembre 1965](decret-n65-1119-du-9-decembre-1965)
 - [Décret n°62-261 du 10 mars 1962](decret-n62-261-du-10-mars-1962)
