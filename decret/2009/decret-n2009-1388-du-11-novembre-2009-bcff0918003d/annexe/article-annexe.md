@@ -12,6 +12,8 @@ Contrôleurs de la concurrence, de la consommation et de la répression des frau
 
 Géomètres-cadastreurs des finances publiques.
 
+Rédacteurs-techniciens du Conseil économique, social et environnemental.
+
 Secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
 
 Secrétaires administratifs de l'intérieur et de l'outre-mer.
