@@ -2,4 +2,5 @@
 
 - [Titre I : Dispositions concernant la tenue des registres.](titre-i)
 - [Titre II : Dispositions concernant la publicité des actes.](titre-ii)
-- [Article 15](article-15.md)
+- [Titre III : Dispositions concernant la vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil](titre-iii)
+- [Titre IV : Dispositions diverses](titre-iv)

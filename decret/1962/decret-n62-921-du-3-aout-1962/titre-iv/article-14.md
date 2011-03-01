@@ -1,4 +1,4 @@
-# Article 13-2
+# Article 14
 
 Les dispositions du présent décret sont applicables à Mayotte en tant qu'elles concernent les actes de l'état civil de droit commun, sous réserve de l'adaptation suivante :
 

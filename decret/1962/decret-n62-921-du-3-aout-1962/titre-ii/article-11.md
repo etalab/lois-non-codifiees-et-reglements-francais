@@ -4,6 +4,6 @@ Toute personne majeure ou émancipée peut obtenir, sur indication des nom et pr
 
 Ces extraits peuvent aussi être délivrés au procureur de la République, au greffier en chef du tribunal d'instance pour l'établissement des certificats de nationalité française et, dans les cas où les lois et règlements les y autorisent, aux administrations publiques.
 
-Les autres personnes ne peuvent se voir délivrer ces extraits que dans les conditions prévues aux quatrième et cinquième alinéas de l'article 9.
+Les autres personnes ne peuvent se voir délivrer ces extraits que dans les conditions prévues aux troisième et quatrième alinéas de l'article 9.
 
 Les extraits d'actes de mariage précisant les noms et prénoms des père et mère ne pourront être délivrés que dans les mêmes conditions.
