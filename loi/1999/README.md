@@ -16,7 +16,6 @@
 - [Loi n° 99-198 du 18 mars 1999 (MCCX9800056L)](loi-n-99-198-du-18-mars-1999-mccx9800056l)
 - [Loi n° 99-210 du 19 mars 1999 (INTX9800175L)](loi-n-99-210-du-19-mars-1999-intx9800175l)
 - [Loi n° 99-223 du 23 mars 1999 (MJSX9800040L)](loi-n-99-223-du-23-mars-1999-mjsx9800040l)
-- [Loi n° 99-245 du 30 mars 1999 (ECOX9903413L)](loi-n-99-245-du-30-mars-1999-ecox9903413l)
 - [Loi n° 99-291 du 15 avril 1999 (INTX9800020L)](loi-n-99-291-du-15-avril-1999-intx9800020l)
 - [Loi n° 99-36 du 19 janvier 1999 (INTX9800071L)](loi-n-99-36-du-19-janvier-1999-intx9800071l)
 - [Loi n° 99-471 du 8 juin 1999 (EQUX9701897L)](loi-n-99-471-du-8-juin-1999-equx9701897l)

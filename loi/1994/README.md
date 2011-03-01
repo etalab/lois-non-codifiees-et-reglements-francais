@@ -78,7 +78,6 @@
 - [Loi n° 94-580 du 12 juillet 1994 (MAEX9400062L)](loi-n-94-580-du-12-juillet-1994-maex9400062l)
 - [Loi n° 94-581 du 12 juillet 1994 (MAEX9400052L)](loi-n-94-581-du-12-juillet-1994-maex9400052l)
 - [Loi n° 94-585 du 13 juillet 1994 (MAEX9400006L)](loi-n-94-585-du-13-juillet-1994-maex9400006l)
-- [Loi n° 94-588 du 15 juillet 1994 (INDX9300109L)](loi-n-94-588-du-15-juillet-1994-indx9300109l)
 - [Loi n° 94-590 du 15 juillet 1994 (INTX94200041L)](loi-n-94-590-du-15-juillet-1994-intx94200041l)
 - [Loi n° 94-628 du 25 juillet 1994 (FPPX9400040L)](loi-n-94-628-du-25-juillet-1994-fppx9400040l)
 - [Loi n° 94-629 du 25 juillet 1994 (SPSX9400024L)](loi-n-94-629-du-25-juillet-1994-spsx9400024l)

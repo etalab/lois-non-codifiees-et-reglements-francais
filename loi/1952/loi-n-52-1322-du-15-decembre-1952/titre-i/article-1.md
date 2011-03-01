@@ -7,3 +7,5 @@ Est considérée comme travailleur au sens de la présente loi, quels que soient
 Les personnes nommées dans un emploi permanent d'un cadre d'une administration publique ne sont pas soumises aux dispositions de la présente loi.
 
 Les travailleurs continuent à bénéficier des avantages qui leur ont été consentis, lorsque ceux-ci sont supérieurs à ceux que leur reconnaît la présente loi.
+
+Dans les Terres australes et antarctiques françaises, en application des articles L. 661-1 et suivants du code minier et par dérogation aux dispositions du premier alinéa du présent article, les dispositions du droit du travail applicables sur le territoire métropolitain s'appliquent aux activités, installations et dispositifs régis par le code minier, comme s'ils se trouvaient en territoire métropolitain. Les travailleurs continuent à bénéficier des avantages qui leur ont été consentis, lorsque ceux-ci sont supérieurs à ceux que leur reconnaît la présente loi ou les dispositions applicables sur le territoire métropolitain.

@@ -8,4 +8,4 @@ Il est justifié de l'affichage par un certificat du préfet et des maires et de
 
 Les frais d'affichage, de publication et d'insertion sont à la charge des demandeurs.
 
-Pendant la durée de l'enquête, la demande et ses annexes, à l'exception des renseignements confidentiels relatifs aux résultats des travaux déjà effectués, sont déposées à la préfecture et dans les mairies des communes intéressées où le public peut en prendre connaissance.
+Pendant la durée de l'enquête, la demande et ses annexes, sont déposées à la préfecture et dans les mairies des communes intéressées où le public peut en prendre connaissance.
