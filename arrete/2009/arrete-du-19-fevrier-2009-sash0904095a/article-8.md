@@ -1,21 +1,33 @@
 # Article 8
 
-Pour le calcul de la durée de séjour du patient et pour la facturation des forfaits mentionnés au 1° de l'article 1er, le jour de sortie n'est pas pris en compte.
+Les modalités de facturation des forfaits mentionnés aux articles 2 à 7 sont définies aux I à V ci-dessous :
 
-Les suppléments mentionnés au 1° du même article sont facturés de la manière suivante :
+I.-Le forfait accueil et traitement des urgences est facturé dès lors que des soins non programmés sont délivrés au patient par la structure des urgences. Lorsque le patient nécessite une hospitalisation en service de médecine, de chirurgie, d'obstétrique ou d'odontologie ou dans une unité d'hospitalisation de courte durée au sein de l'établissement, les prestations de séjour et de soins délivrées au patient ne donnent pas lieu à facturation d'un ATU.
 
-- lorsqu'au cours de la même journée, le patient est présent dans plusieurs unités ou lits, seul le supplément dont le montant est le plus élevé est facturé ;
+II.-Pour chaque prélèvement d'un ou plusieurs organes sur une personne décédée dans les établissements autorisés à effectuer des prélèvements d'organes, les forfaits " prélèvement d'organes " sont facturés, par l'établissement au sein duquel a été réalisé le prélèvement, dans les conditions suivantes :
 
-- lorsque le patient est présent moins d'une journée dans l'unité ou le lit, un supplément est facturé ;
+-un forfait figurant sur la liste 1 de l'annexe 3 correspondant aux prestations de séjour et de soins délivrées par l'établissement au sein duquel a été réalisé le prélèvement d'un ou plusieurs organes ;
 
-- le supplément n'est pas facturé le jour de sortie de l'établissement ou de l'unité, à l'exception des séjours à l'issue desquels le patient décède.
+-un forfait figurant sur la liste 2 de l'annexe 3 correspondant aux prestations de séjour et de soins délivrées par le chirurgien qui effectue l'acte de prélèvement. Ce forfait est facturé par l'établissement pour chaque organe prélevé.
 
-Le forfait journalier mentionné à l'article L. 174-4 du code de la sécurité sociale est facturé pour chaque journée d'hospitalisation, y compris le jour de sortie, à l'exception des séjours à l'issue desquels le patient décède. Ce forfait n'est pas facturé pour les journées de permissions de sortie mentionnées à l'article R. 1112-56 du code de la santé publique.
+Lorsque le chirurgien préleveur est salarié d'un établissement autre que celui au sein duquel le prélèvement est réalisé, le forfait figurant sur la liste 2 de la même annexe est reversé à l'établissement au sein duquel est salarié le chirurgien.
 
-Pour la facturation des GHS, les journées de permissions de sortie ainsi que les transferts d'une durée inférieure à deux jours dans un autre établissement n'interrompent pas le séjour. Lorsque le patient sort d'un établissement et y est réadmis le même jour, le séjour n'est pas interrompu et donne lieu à facturation d'un seul GHS.
+III.-Le forfait forfait de petit matériel est facturé dès lors que des soins réalisés sans anesthésie et inscrits sur la liste fixée en annexe 10, nécessitant la consommation de matériel de petite chirurgie ou d'immobilisation, sont délivrés au patient dans les établissements de santé qui ne sont pas autorisés à exercer l'activité de médecine d'urgence.
 
-Pour la facturation des GHT, les transferts comportant au moins une nuitée dans un établissement de santé interrompent le séjour d'hospitalisation à domicile et, dans ce cas, par dérogation aux dispositions du II de l'article 6, aucun GHT ne peut être facturé le jour du transfert du patient.
+Lorsque le patient nécessite une hospitalisation au sein de l'établissement, ou que le praticien a établi une prescription couvrant les dépenses engagées, les prestations de séjour et de soins délivrées au patient ne donnent pas lieu à facturation d'un FFM.
 
-Lorsque le patient est réhospitalisé dans le même établissement après un transfert d'une durée supérieure à deux jours dans un service de médecine, de chirurgie, d'obstétrique ou d'odontologie d'un autre établissement, sa prise en charge donne lieu à facturation d'un GHS sur la base de 50 % de son tarif minoré, le cas échéant, selon les modalités prévues au 4° du I de l'article 6, dès lors que les prestations de séjour et de soins qui lui sont délivrées au cours des deux séjours donnent lieu à la production du même GHM, à l'exception du cas où cette prise en charge relève d'un traitement itératif.
+IV.-Les forfaits sécurité et environnement hospitalier sont facturés dans les conditions suivantes :
 
-Lorsque le patient est hospitalisé et qu'il est pris en charge dans un autre établissement pour la réalisation d'une prestation de séjours ou de soins correspondant à un GHM de la catégorie majeure 28 définie à l'annexe I de l'arrêté du 28 février 2008 modifié précité, à l'exception des GHM 28Z14Z, 28Z15Z et 28Z16Z, chaque établissement facture sa prestation.
+― le SE 1 est facturé dès lors qu'un acte d'endoscopie sans anesthésie générale ou locorégionale inscrit sur la liste 1 de l'annexe 11, nécessitant le recours à un secteur opératoire, est délivré au patient ;
+
+― le SE 2 est facturé dès lors qu'un acte sans anesthésie générale ou locorégionale inscrit sur la liste 2 de l'annexe 11, nécessitant le recours à un secteur opératoire, est délivré au patient ;
+
+― le SE 3 ou le SE 4 est facturé dès lors qu'un acte inscrit respectivement sur la liste 3 ou 4 de l'annexe 11, nécessitant une mise en observation du patient dans un environnement hospitalier, est délivré au patient.
+
+Lorsque l'état de santé du patient conduit à la réalisation de deux ou plusieurs actes inscrits sur des listes différentes de l'annexe 11, deux forfaits SE peuvent être facturés par l'établissement. Dans ce cas, le montant du forfait facturé le moins élevé est minoré de 50 %.
+
+Lorsque le patient nécessite une hospitalisation au sein de l'établissement ou qu'il est pris en charge dans un service d'urgence, les actes délivrés au patient ne donnent pas lieu à facturation d'un SE.
+
+V.-Le forfait " administration de produits et prestations en environnement hospitalier " est facturé dès lors qu'un ou plusieurs produits et prestations mentionnés à l'article L. 165-1 du code de la sécurité sociale et inscrits sur la liste mentionnée à l'article L. 162-22-7 du même code sont administrés au patient.
+
+Lorsque le patient nécessite une hospitalisation au sein de l'établissement, les prestations de séjour et de soins délivrées au patient ne donnent pas lieu à facturation d'un APE.

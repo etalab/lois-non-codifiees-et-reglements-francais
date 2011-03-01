@@ -5,3517 +5,4241 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <table>
 <tbody>
 <tr>
-<td>
-<br/>
-<p align="center">7258</p>
+<td align="left" valign="top">
+<p align="left">7258 </p>
 </td>
-<td>
-<br/>
-<p align="center">20Z021</p>
+<td align="left" valign="top">
+<p align="left">20Z021 </p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Toxicomanies non éthyliques avec dépendance, niveau 1. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7285</p>
+<td align="left" valign="top">
+<p align="left">7285 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-<br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Toxicomanies non éthyliques avec dépendance, niveau 1.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7259</p>
+<td align="left" valign="top">
+<p align="left">7259 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z022</p>
+<td align="left" valign="top">
+<p align="left">20Z022</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">Toxicomanies non éthyliques avec dépendance, niveau 2. </p>
 <br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 2</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7286</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7286 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Toxicomanies non éthyliques avec dépendance, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7260</p>
+<td align="left" valign="top">
+<p align="left">7260 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z023</p>
+<td align="left" valign="top">
+<p align="left">20Z023 </p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">Toxicomanies non éthyliques avec dépendance, niveau 3. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7287</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7287 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Toxicomanies non éthyliques avec dépendance, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7261</p>
+<td align="left" valign="top">
+<p align="left">7261 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z024</p>
+<td align="left" valign="top">
+<p align="left">20Z024 </p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">Toxicomanies non éthyliques avec dépendance, niveau 4. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7288</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7288 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Toxicomanies non éthyliques avec dépendance, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7262</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7262 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Toxicomanies non éthyliques avec dépendance, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Toxicomanies non éthyliques avec dépendance, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7263</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7263 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z031 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Abus de drogues non éthyliques sans dépendance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Abus de drogues non éthyliques sans dépendance, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7264</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7264 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z032</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z032 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Abus de drogues non éthyliques sans dépendance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Abus de drogues non éthyliques sans dépendance, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7265</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7265 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z033</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z033 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Abus de drogues non éthyliques sans dépendance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Abus de drogues non éthyliques sans dépendance, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7266</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7266 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z034</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z034 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Abus de drogues non éthyliques sans dépendance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Abus de drogues non éthyliques sans dépendance, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7267</p>
+<td align="left" valign="top">
+<p align="left">7267</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z041</p>
+<td align="left" valign="top">
+<p align="left">20Z041 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Ethylisme avec dépendance, niveau 1. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7281</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7281 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme avec dépendance, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7268</p>
+<td align="left" valign="top">
+<p align="left">7268 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z042</p>
+<td align="left" valign="top">
+<p align="left">20Z042 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">Ethylisme avec dépendance, niveau 2. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7282</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7282 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme avec dépendance, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7269</p>
+<td align="left" valign="top">
+<p align="left">7269 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z043</p>
+<td align="left" valign="top">
+<p align="left">20Z043 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">Ethylisme avec dépendance, niveau 3. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7283</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7283 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme avec dépendance, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7270</p>
+<td align="left" valign="top">
+<p align="left">7270 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z044</p>
+<td align="left" valign="top">
+<p align="left">20Z044 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">Ethylisme avec dépendance, niveau 4. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7284</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7284 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme avec dépendance, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7271</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7271 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z04T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z04T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme avec dépendance, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme avec dépendance, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7272</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7272 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z051</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z051 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme aigu, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme aigu, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7273</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7273 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z052</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z052 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme aigu, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme aigu, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7274</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7274 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z053</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z053 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme aigu, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme aigu, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7275</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7275 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z054</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z054 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Ethylisme aigu, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Ethylisme aigu, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7276</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7276 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z061</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z061 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7277</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7277 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z062</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z062 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7278</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7278 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z063</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z063 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7279</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7279 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z064</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z064 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7280</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7280 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">20Z06T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>20Z06T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée. <br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">7406</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7406 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau pour lésions autres que des brûlures, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de peau pour lésions autres que des brûlures, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7407</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7407 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau pour lésions autres que des brûlures, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de peau pour lésions autres que des brûlures, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7408</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7408 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau pour lésions autres que des brûlures, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de peau pour lésions autres que des brûlures, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7409</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7409 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau pour lésions autres que des brûlures, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de peau pour lésions autres que des brûlures, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7410</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7410 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C02J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C02J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau pour lésions autres que des brûlures, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de peau pour lésions autres que des brûlures, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7411</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7411 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C031 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Parages de plaies pour lésions autres que des brûlures, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Parages de plaies pour lésions autres que des brûlures, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7412</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7412 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C032</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C032 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Parages de plaies pour lésions autres que des brûlures, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Parages de plaies pour lésions autres que des brûlures, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7413</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7413 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C033</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C033 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Parages de plaies pour lésions autres que des brûlures, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Parages de plaies pour lésions autres que des brûlures, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7414</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7414 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C034</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C034 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Parages de plaies pour lésions autres que des brûlures, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Parages de plaies pour lésions autres que des brûlures, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7415</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7415 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C041</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C041 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la main ou le poignet à la suite de blessures, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions sur la main ou le poignet à la suite de blessures, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7416</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7416 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C042</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C042 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la main ou le poignet à la suite de blessures, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions sur la main ou le poignet à la suite de blessures, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7417</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7417 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C043</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C043 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la main ou le poignet à la suite de blessures, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions sur la main ou le poignet à la suite de blessures, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7418</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7418 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C044</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C044 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la main ou le poignet à la suite de blessures, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions sur la main ou le poignet à la suite de blessures, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7419</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7419 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C04J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C04J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7420</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7420 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C051</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C051 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour blessures ou complications d'acte, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres interventions pour blessures ou complications d'acte, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7421</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7421 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C052</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C052 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour blessures ou complications d'acte, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres interventions pour blessures ou complications d'acte, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7422</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7422 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C053</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C053 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour blessures ou complications d'acte, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres interventions pour blessures ou complications d'acte, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7423</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7423 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C054</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C054 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour blessures ou complications d'acte, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres interventions pour blessures ou complications d'acte, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7424</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7424 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21C05J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21C05J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour blessures ou complications d'acte, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres interventions pour blessures ou complications d'acte, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7563</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7563 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21K02J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21K02J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7564</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7564 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7565</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7565 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7566</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7566 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7567</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7567 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7614</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7614 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7568</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7568 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M041</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M041 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7569</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7569 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M042</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M042 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7570</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7570 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M043</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M043 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7571</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7571 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M044</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M044 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7572</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7572 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M051</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M051 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7573</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7573 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M052</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M052 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7574</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7574 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M053</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M053 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7575</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7575 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M054</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M054 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7576</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7576 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M061</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M061 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge inférieur à 18 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7577</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7577 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M062</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M062 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge inférieur à 18 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7578</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7578 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M063</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M063 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge inférieur à 18 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7579</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7579 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M064</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M064 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge inférieur à 18 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7580</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7580 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M071</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M071 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge supérieur à 17 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7581</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7581 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M072</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M072 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge supérieur à 17 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7582</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7582 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M073</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M073 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge supérieur à 17 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7583</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7583 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M074</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M074 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge supérieur à 17 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7615</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7615 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M07T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M07T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes imprécis, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes imprécis, âge supérieur à 17 ans, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7584</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7584 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M101</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M101 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7585</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7585 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M102</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M102 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7586</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7586 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M103</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M103 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7587</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7587 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M104</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M104 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7616</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7616 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M10T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M10T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7588</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7588 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M111</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M111 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des autres substances chimiques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des autres substances chimiques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7589</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7589 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M112</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M112 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des autres substances chimiques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des autres substances chimiques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7590</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7590 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M113</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M113 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des autres substances chimiques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des autres substances chimiques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7591</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7591 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M114</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M114 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des autres substances chimiques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des autres substances chimiques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7617</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7617 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M11T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M11T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Effets toxiques des autres substances chimiques, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Effets toxiques des autres substances chimiques, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7592</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7592 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M121</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M121 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres effets toxiques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres effets toxiques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7593</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7593 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M122</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M122 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres effets toxiques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres effets toxiques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7594</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7594 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M123</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M123 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres effets toxiques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres effets toxiques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7595</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7595 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M124</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M124 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres effets toxiques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres effets toxiques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7596</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7596 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M131</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M131 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maltraitance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maltraitance, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7597</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7597 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M132</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M132 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maltraitance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maltraitance, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7598</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7598 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M133</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M133 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maltraitance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maltraitance, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7599</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7599 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M134</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M134 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maltraitance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maltraitance, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7600</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7600 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M141</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M141 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres traumatismes et effets nocifs autres que les intoxications, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres traumatismes et effets nocifs autres que les intoxications, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7601</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7601 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M142</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M142 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres traumatismes et effets nocifs autres que les intoxications, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres traumatismes et effets nocifs autres que les intoxications, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7602</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7602 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M143</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M143 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres traumatismes et effets nocifs autres que les intoxications, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres traumatismes et effets nocifs autres que les intoxications, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7603</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7603 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M144</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M144 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres traumatismes et effets nocifs autres que les intoxications, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres traumatismes et effets nocifs autres que les intoxications, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7618</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7618 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M14T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M14T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres traumatismes et effets nocifs autres que les intoxications, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres traumatismes et effets nocifs autres que les intoxications, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7604</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7604 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M151</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M151 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rejets de greffe, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rejets de greffe, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7605</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7605 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M152</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M152 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rejets de greffe, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rejets de greffe, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7606</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7606 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M153</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M153 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rejets de greffe, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rejets de greffe, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7607</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7607 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M154</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M154 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rejets de greffe, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rejets de greffe, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7608</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7608 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M15T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M15T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rejets de greffe, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rejets de greffe, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7609</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7609 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M161</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M161 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres complications iatrogéniques non classées ailleurs, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres complications iatrogéniques non classées ailleurs, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7610</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7610 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M162</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M162 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres complications iatrogéniques non classées ailleurs, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres complications iatrogéniques non classées ailleurs, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7611</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7611 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M163</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M163 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres complications iatrogéniques non classées ailleurs, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres complications iatrogéniques non classées ailleurs, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7612</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7612 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M164</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M164 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres complications iatrogéniques non classées ailleurs, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres complications iatrogéniques non classées ailleurs, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7613</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7613 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">21M16T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>21M16T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres complications iatrogéniques non classées ailleurs, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres complications iatrogéniques non classées ailleurs, très courte durée. <br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">7802</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7802 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec greffe cutanée, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec greffe cutanée, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7803</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7803 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec greffe cutanée, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec greffe cutanée, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7804</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7804 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec greffe cutanée, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec greffe cutanée, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7805</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7805 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec greffe cutanée, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec greffe cutanée, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7806</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7806 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C031 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7807</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7807 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C032</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C032 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7808</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7808 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C033</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C033 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7809</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7809 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22C034</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22C034 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7852</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7852 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22K02J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22K02J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures sans acte opératoire, avec anesthésie, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures sans acte opératoire, avec anesthésie, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7853</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7853 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22M021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22M021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7854</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7854 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22M022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22M022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7855</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7855 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22M023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22M023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7856</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7856 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22M024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22M024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7862</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7862 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22M02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22M02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7857</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7857 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22Z021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22Z021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures étendues, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures étendues, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7858</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7858 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22Z022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22Z022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures étendues, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures étendues, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7859</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7859 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22Z023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22Z023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures étendues, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures étendues, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7860</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7860 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22Z024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22Z024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures étendues, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures étendues, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7861</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7861 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">22Z03Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22Z03Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours. <br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">7901</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7901 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7902</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7902 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7903</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7903 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7904</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7904 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7905</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7905 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23C02J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23C02J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7959</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7959 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23K02Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23K02Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Explorations nocturnes et apparentées : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Explorations nocturnes et apparentées : séjours de moins de 2 jours. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7960</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7960 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23K03J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23K03J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7961</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7961 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rééducation, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rééducation, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7962</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7962 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M02Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M02Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Rééducation</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Rééducation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7963</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7963 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M061</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M061 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres facteurs influant sur l'état de santé, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres facteurs influant sur l'état de santé, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7964</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7964 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M062</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M062 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres facteurs influant sur l'état de santé, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres facteurs influant sur l'état de santé, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7965</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7965 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M063</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M063 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres facteurs influant sur l'état de santé, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres facteurs influant sur l'état de santé, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7966</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7966 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M064</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M064 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres facteurs influant sur l'état de santé, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres facteurs influant sur l'état de santé, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7967</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7967 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M06T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M06T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres facteurs influant sur l'état de santé, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres facteurs influant sur l'état de santé, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7968</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7968 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M07J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M07J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs de recours pour infection à VIH, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs de recours pour infection à VIH, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7969</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7969 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M08J</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M08J <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs de recours chez un patient diabétique, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs de recours chez un patient diabétique, en ambulatoire. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7970</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7970 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M091</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M091 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Chimiothérapie pour affections non tumorales, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour affections non tumorales, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7971</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7971 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M092</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M092 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Chimiothérapie pour affections non tumorales, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour affections non tumorales, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7972</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7972 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M093</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M093 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Chimiothérapie pour affections non tumorales, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour affections non tumorales, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7973</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7973 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M094</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M094 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Chimiothérapie pour affections non tumorales, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour affections non tumorales, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7974</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7974 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M101</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M101 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins de contrôle chirurgicaux, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins de contrôle chirurgicaux, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7975</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7975 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M102</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M102 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins de contrôle chirurgicaux, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins de contrôle chirurgicaux, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7976</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7976 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M103</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M103 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins de contrôle chirurgicaux, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins de contrôle chirurgicaux, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7977</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7977 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M104</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M104 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins de contrôle chirurgicaux, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins de contrôle chirurgicaux, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7978</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7978 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M10T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M10T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins de contrôle chirurgicaux, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins de contrôle chirurgicaux, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7979</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7979 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M111</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M111 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs concernant majoritairement la petite enfance, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs concernant majoritairement la petite enfance, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7980</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7980 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M112</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M112 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs concernant majoritairement la petite enfance, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs concernant majoritairement la petite enfance, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7981</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7981 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M113</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M113 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs concernant majoritairement la petite enfance, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs concernant majoritairement la petite enfance, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7982</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7982 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M114</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M114 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs concernant majoritairement la petite enfance, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs concernant majoritairement la petite enfance, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7995</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7995 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M11T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M11T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres motifs concernant majoritairement la petite enfance, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres motifs concernant majoritairement la petite enfance, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7983</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7983 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M13Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M13Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Désensibilisations nécessitant une hospitalisation</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Désensibilisations nécessitant une hospitalisation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7984</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7984 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M14Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M14Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traitements prophylactiques</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traitements prophylactiques. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7985</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7985 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M15Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M15Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Actes non effectués en raison d'une contre-indication</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Actes non effectués en raison d'une contre-indication. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7986</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7986 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M16Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M16Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Convalescences et autres motifs sociaux</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Convalescences et autres motifs sociaux. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7987</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7987 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M18Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M18Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Tests allergologiques nécessitant une hospitalisation</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Tests allergologiques nécessitant une hospitalisation. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7988</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7988 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M19Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M19Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance pour autres motifs de recours aux soins</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Explorations et surveillance pour autres motifs de recours aux soins. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7989</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7989 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M20T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M20T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7990</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7990 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23M20Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23M20Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres symptômes et motifs de recours aux soins de la CMD 23</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres symptômes et motifs de recours aux soins de la CMD 23.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7991</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7991 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23Z02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23Z02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins palliatifs, avec ou sans acte, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins palliatifs, avec ou sans acte, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7992</p>
+<td align="left" valign="top">
+<p align="left">7992 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23Z02Z</p>
+<td align="left" valign="top">
+<p align="left">23Z02Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins palliatifs, avec ou sans acte</p>
+<td align="left" valign="top">
+<p align="left">Soins palliatifs, avec ou sans acte. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7993</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7993 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins palliatifs, avec ou sans acte</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins palliatifs, avec ou sans acte. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">7994</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>7994 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Soins palliatifs, avec ou sans acte</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Soins palliatifs, avec ou sans acte. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9999</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9999 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">23Z03Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>23Z03Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire. <br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">8701</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8701 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour maladie due au VIH, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour maladie due au VIH, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8702</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8702 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour maladie due au VIH, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour maladie due au VIH, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8703</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8703 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour maladie due au VIH, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour maladie due au VIH, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8704</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8704 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour maladie due au VIH, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour maladie due au VIH, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8755</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8755 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25M02A</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25M02A <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies dues au VIH</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres maladies dues au VIH. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8756</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8756 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25M02B</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25M02B <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, avec une seule complication infectieuse</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, avec une seule complication infectieuse. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8757</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8757 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25M02C</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25M02C <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, avec plusieurs complications infectieuses</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, avec plusieurs complications infectieuses. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8758</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8758 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25M02T</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25M02T <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies dues au VIH, très courte durée</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres maladies dues au VIH, très courte durée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8759</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8759 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25Z02E</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25Z02E <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, avec décès</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, avec décès. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8760</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8760 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25Z031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25Z031 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, âge inférieur à 13 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, âge inférieur à 13 ans, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8761</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8761 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25Z032</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25Z032 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, âge inférieur à 13 ans, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, âge inférieur à 13 ans, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8762</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8762 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25Z033</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25Z033 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, âge inférieur à 13 ans, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, âge inférieur à 13 ans, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8763</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8763 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">25Z034</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>25Z034 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dues au VIH, âge inférieur à 13 ans, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Maladies dues au VIH, âge inférieur à 13 ans, niveau 4.<br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">8802</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8802 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour traumatismes multiples graves, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour traumatismes multiples graves, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8803</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8803 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour traumatismes multiples graves, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour traumatismes multiples graves, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8804</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8804 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour traumatismes multiples graves, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour traumatismes multiples graves, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8805</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8805 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pour traumatismes multiples graves, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Interventions pour traumatismes multiples graves, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8852</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8852 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26M021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26M021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes multiples graves, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes multiples graves, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8853</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8853 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26M022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26M022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes multiples graves, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes multiples graves, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8854</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8854 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26M023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26M023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes multiples graves, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes multiples graves, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8855</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8855 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">26M024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>26M024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes multiples graves, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Traumatismes multiples graves, niveau 4.<br/>
+</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">8906</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8906 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations hépatiques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations hépatiques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8907</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8907 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations hépatiques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations hépatiques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8908</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8908 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations hépatiques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations hépatiques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8909</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8909 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations hépatiques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations hépatiques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8910</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8910 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C031 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pancréatiques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pancréatiques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8911</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8911 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C032</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C032 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pancréatiques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pancréatiques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8912</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8912 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C033</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C033 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pancréatiques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pancréatiques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8913</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8913 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C034</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C034 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pancréatiques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pancréatiques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8914</p>
+<td align="left" valign="top">
+<p align="left">8914 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C041</p>
+<td align="left" valign="top">
+<p align="left">27C041 </p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Transplantations pulmonaires, niveau 1. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8930</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8930 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pulmonaires, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8915</p>
+<td align="left" valign="top">
+<p align="left">8915</p>
 </td>
-<td>
-<br/>
-<p align="center">27C042</p>
+<td align="left" valign="top">
+<p align="left">27C042</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">Transplantations pulmonaires, niveau 2. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8931</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8931 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pulmonaires, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8916</p>
+<td align="left" valign="top">
+<p align="left">8916</p>
 </td>
-<td>
-<br/>
-<p align="center">27C043</p>
+<td align="left" valign="top">
+<p align="left">27C043 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">Transplantations pulmonaires, niveau 3. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8932</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8932 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pulmonaires, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8917</p>
+<td align="left" valign="top">
+<p align="left">8917</p>
 </td>
-<td>
-<br/>
-<p align="center">27C044</p>
+<td align="left" valign="top">
+<p align="left">27C044</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">Transplantations pulmonaires, niveau 4. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8933</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8933 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations pulmonaires, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations pulmonaires, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8918</p>
+<td align="left" valign="top">
+<p align="left">8918 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C051</p>
+<td align="left" valign="top">
+<p align="left">27C051 </p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Transplantations cardiaques, niveau 1. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8934</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8934 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations cardiaques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8919</p>
+<td align="left" valign="top">
+<p align="left">8919 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C052</p>
+<td align="left" valign="top">
+<p align="left">27C052 </p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">Transplantations cardiaques, niveau 2. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8935</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8935 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations cardiaques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8920</p>
+<td align="left" valign="top">
+<p align="left">8920 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C053</p>
+<td align="left" valign="top">
+<p align="left">27C053 </p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">Transplantations cardiaques, niveau 3. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8936</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8936 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations cardiaques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8921</p>
+<td align="left" valign="top">
+<p align="left">8921 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C054</p>
+<td align="left" valign="top">
+<p align="left">27C054</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">Transplantations cardiaques, niveau 4. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8937</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8937 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations cardiaques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations cardiaques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8922</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8922 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C061</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C061 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations rénales, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations rénales, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8923</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8923 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C062</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C062 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations rénales, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations rénales, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8924</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8924 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C063</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C063 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations rénales, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations rénales, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8925</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8925 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C064</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C064 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transplantations rénales, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transplantations rénales, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8926</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8926 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C071</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C071 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres transplantations, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres transplantations, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8927</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8927 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C072</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C072 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres transplantations, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres transplantations, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8928</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8928 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C073</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C073 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres transplantations, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres transplantations, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8929</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8929 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27C074</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27C074 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres transplantations, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres transplantations, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8970</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8970 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z021</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z021 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cellules souches hématopoïétiques, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Allogreffes de cellules souches hématopoïétiques, niveau 1.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8971</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8971 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z022</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z022 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cellules souches hématopoïétiques, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Allogreffes de cellules souches hématopoïétiques, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8972</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8972 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z023</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z023 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cellules souches hématopoïétiques, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Allogreffes de cellules souches hématopoïétiques, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8973</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8973 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z024</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z024 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cellules souches hématopoïétiques, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Allogreffes de cellules souches hématopoïétiques, niveau 4.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8974</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8977 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z03Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z03Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autogreffes de cellules souches hématopoïétiques</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autogreffes de cellules souches hématopoïétiques. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8975</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>8976 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>27Z04J <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Greffes de cellules souches hématopoïétiques, en ambulatoire. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>9602 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z01Z <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Entraînements à la dialyse péritonéale automatisée, en séances. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>9603 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z02Z <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Entraînements à la dialyse péritonéale continue ambulatoire, en séances. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>9604 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z03Z <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Entraînements à l'hémodialyse, en séances. <br/>
+</p>
 </td>
-<td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>9605 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autogreffes de cellules souches hématopoïétiques</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Hémodialyse, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">8976</p>
+<td align="left" valign="top">
+<p align="left">9618 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">27Z04J</p>
+<td align="left" valign="top">
+<p align="left">28Z04Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de cellules souches hématopoïétiques, en ambulatoire</p>
+<td align="left" valign="top">
+<p align="left">Hémodialyse, en séances. </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">9602</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9617 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-<p align="center">28Z01Z</p>
-</td>
-<td>
 <br/>
-<p align="center">Entraînements à la dialyse péritonéale automatisée, en séances</p>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Hémodialyse, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9603</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9606 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z02Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z07Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Entraînements à la dialyse péritonéale continue ambulatoire, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour tumeur, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9604</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9609 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z03Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z10Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Entraînements à l'hémodialyse, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Curiethérapie, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9605</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9610 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-<p align="center">28Z04Z</p>
-</td>
-<td>
 <br/>
-<p align="center">Hémodialyse, en séances</p>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques spéciales d'irradiation externe, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9617</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9621 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Hémodialyse, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques spéciales d'irradiation externe, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9618</p>
+<td align="left" valign="top">
+<p align="left">9620 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">28Z11Z </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Techniques spéciales d'irradiation externe, en séances.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br/>9619 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Hémodialyse, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques spéciales d'irradiation externe, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9606</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9624 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-<p align="center">28Z07Z</p>
-</td>
-<td>
 <br/>
-<p align="center">Chimiothérapie pour tumeur, en séances</p>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques spéciales d'irradiation externe, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9607</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9613 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z08Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z14Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Préparations à une irradiation externe avec une dosimétrie tridimensionnelle</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Transfusions, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9608</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9614 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z09Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z15Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres préparations à une irradiation externe</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Oxygénothérapie hyperbare, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9609</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9615 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z10Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z16Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Curiethérapie, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Aphérèses sanguines, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9610</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9616 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z11Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z17Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Techniques spéciales d'irradiation externe, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Chimiothérapie pour affection non tumorale, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9619</p>
+<td align="left" valign="top">
+<p align="left">9622</p>
 </td>
-<td>
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="left">28Z18Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Techniques spéciales d'irradiation externe, en séances</p>
+<td align="left" valign="top">
+<p align="left">Radiothérapie conformationnelle avec modulation d'intensité, en séances.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9620</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9625 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Techniques spéciales d'irradiation externe, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Radiothérapie conformationnelle avec modulation d'intensité, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9621</p>
+<td align="left" valign="top">
+<p align="left">9626 <br/>
+</p>
 </td>
-<td>
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="left">28Z19Z </p>
 </td>
-<td>
-<br/>
-<p align="center">Techniques spéciales d'irradiation externe, en séances</p>
+<td align="left" valign="top">
+<p align="left">Préparations à une irradiation externe par RCMI ou techniques spéciales.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9611</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9627 <br/>
+</p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">
 <br/>
-<p align="center">28Z12Z</p>
-</td>
-<td>
 <br/>
-<p align="center">Techniques complexes d'irradiation externe, en séances</p>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">
+<br/>Préparations à une irradiation externe par RCMI ou techniques spéciales. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9612</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9628 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z13Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z20Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Autres techniques d'irradiation externe, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9613</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9629 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z14Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z21Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Transfusions, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9614</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9630 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z15Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z22Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Oxygénothérapie hyperbare, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres préparations à une irradiation externe. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9615</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9631 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z16Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z23Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Aphérèses sanguines, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques complexes d'irradiation externe avec repositionnement, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9616</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9632 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z17Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z24Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Chimiothérapie pour affection non tumorale, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Techniques complexes d'irradiation externe sans repositionnement, en séances. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9622</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>9633 <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">28Z18Z</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>28Z25Z <br/>
+</p>
 </td>
-<td>
-<br/>
-<p align="center">Radiothérapie conformationnelle avec modulation d'intensité, en séances</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Autres techniques d'irradiation externe, en séances.<br/>
+</p>
 </td>
 </tr>
 </tbody>

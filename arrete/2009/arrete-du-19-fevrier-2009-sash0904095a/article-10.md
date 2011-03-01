@@ -1,3 +1,3 @@
 # Article 10
 
-La directrice de l'hospitalisation et de l'organisation des soins au ministère de la santé et des sports et le directeur de la sécurité sociale au ministère du budget, des comptes publics et de la fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 27 février 2007 modifié relatif à la classification et à la prise en charge des prestations d'hospitalisation pour les activités de médecine, chirurgie, obstétrique et odontologie et pris en application de l'article L. 162-22-6 du code de la sécurité sociale est abrogé.

@@ -1,73 +1,57 @@
 # Article Annexe 6
 
-ACTES DE RYTHOMOLOGIE PERMETTANT LA FACTURATION DU GHS 1808, 1809, 1810, 1811 OU 1812
+Liste : actes de mastectomie permettant la facturation du GHS 3362, 3363, 3364 ou 3365
 
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<br/>
-<p align="center">ACTES   DE RYTHMOLOGIE DE LA CCAM</p>
-</td>
-</tr>
-<tr>
 <td>
-<br/>
 <p align="center">CODE</p>
 </td>
 <td>
-<br/>
-<p align="center">LIBELLÉ   DE L'ACTE</p>
+<p align="center">LIBELLÉ DE L'ACTE</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">DEPF014</p>
-</td>
-<td>
-<br/>
-<p align="center">Interruption complète de circuit arythmogène en dehors de   l'isthme cavotricuspidien par radiofréquence, par voie veineuse transcutanée   et voie transseptale</p>
+<td align="center">QEFA003</td>
+<td align="center">
+<p align="left">Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne].</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">DEPF033</p>
-</td>
-<td>
-<br/>
-<p align="center">Interruption complète de circuit arythmogène au niveau de   l'ostium des veines pulmonaires par radiofréquence, par voie veineuse   transcutanée et voie transseptale</p>
+<td align="center">QEFA005</td>
+<td align="center">
+<p align="left">Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">DENF014</p>
-</td>
-<td>
-<br/>
-<p align="center">Destruction d'un foyer arythmogène atrial par   radiofréquence, par voie veineuse transcutanée et voie transseptale</p>
+<td align="center">QEFA010</td>
+<td align="center">
+<p align="left">Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">DENF018</p>
-</td>
-<td>
-<br/>
-<p align="center">Destruction de plusieurs foyers arythmogènes atriaux par   radiofréquence, par voie veineuse transcutanée et voie transseptale</p>
+<td align="center">QEFA013</td>
+<td align="center">
+<p align="left">Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">DENF035</p>
+<td align="center">QEFA015</td>
+<td align="center">
+<p align="left">Mastectomie totale élargie en surface, avec lambeau libre musculocutané.</p>
 </td>
-<td>
-<br/>
-<p align="center">Destruction de plusieurs foyers et/ou interruption de   plusieurs circuits arythmogènes ventriculaires par radiofréquence, par voie   vasculaire</p>
+</tr>
+<tr>
+<td align="center">QEFA019</td>
+<td align="center">
+<p align="left">Mastectomie totale.</p>
+</td>
+</tr>
+<tr>
+<td align="center">QEFA020</td>
+<td align="center">
+<p align="left">Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire.</p>
 </td>
 </tr>
 </tbody>

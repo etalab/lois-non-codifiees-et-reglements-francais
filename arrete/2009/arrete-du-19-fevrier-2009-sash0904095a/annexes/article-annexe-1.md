@@ -1,4043 +1,3189 @@
 # Article Annexe 1
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS"
+LISTE DES FORFAITS DÉNOMMÉS
+
+"GROUPES HOMOGÈNES DE SÉJOURS"
 
 <table>
 <tbody>
 <tr>
-<td>
-<br/>
+<td align="left" valign="top">
 <p align="center">GHS</p>
 </td>
-<td>
-<br/>
+<td align="left" valign="top">
 <p align="center">GHM</p>
 </td>
-<td>
-<br/>
-<p align="center">LIBELLÉ DU GHM</p>
+<td align="left" valign="top">
+<p align="center">LIBELLÉ DU GHM </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">22</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>22 </p>
 </td>
-<td>
-<br/>
-<p align="center">01C031</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>01C031 </p>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">
+<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">23</p>
+<td align="left" valign="top">
+<br/>23 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C032</p>
+<td align="left" valign="top">
+<br/>01C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">24</p>
+<td align="left" valign="top">
+<br/>24 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C033</p>
+<td align="left" valign="top">
+<br/>01C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">25</p>
+<td align="left" valign="top">
+<br/>25 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C034</p>
+<td align="left" valign="top">
+<br/>01C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">26</p>
+<td align="left" valign="top">
+<p align="left">26 </p>
 </td>
-<td>
-<br/>
-<p align="center">01C041</p>
+<td align="left" valign="top">
+<p align="left">01C041 </p>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1 </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>65 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">27</p>
+<td align="left" valign="top">
+<br/>27 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C042</p>
+<td align="left" valign="top">
+<br/>01C042 <br/>
 </td>
-<td>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2 <br/>
 <br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>66 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">28</p>
+<td align="left" valign="top">
+<br/>28 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C043</p>
+<td align="left" valign="top">
+<br/>01C043 <br/>
 </td>
-<td>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3 <br/>
 <br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>67 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">29</p>
+<td align="left" valign="top">
+<br/>29 <br/>
 </td>
-<td>
+<td align="left" valign="top">
+<br/>01C044 </td>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4 <br/>
 <br/>
-<p align="center">01C044</p>
-</td>
-<td>
 <br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>68 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">30</p>
+<td align="left" valign="top">
+<br/>30 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C051</p>
+<td align="left" valign="top">
+<br/>01C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">31</p>
+<td align="left" valign="top">
+<br/>31 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C052</p>
+<td align="left" valign="top">
+<br/>01C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">32</p>
+<td align="left" valign="top">
+<br/>32 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C053</p>
+<td align="left" valign="top">
+<br/>01C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">33</p>
+<td align="left" valign="top">
+<br/>33 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C054</p>
+<td align="left" valign="top">
+<br/>01C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">34</p>
+<td align="left" valign="top">
+<br/>34 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C061</p>
+<td align="left" valign="top">
+<br/>01C061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le système vasculaire précérébral, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le système vasculaire précérébral, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">35</p>
+<td align="left" valign="top">
+<br/>35 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C062</p>
+<td align="left" valign="top">
+<br/>01C062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le système vasculaire précérébral, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le système vasculaire précérébral, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">36</p>
+<td align="left" valign="top">
+<br/>36 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C063</p>
+<td align="left" valign="top">
+<br/>01C063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le système vasculaire précérébral, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le système vasculaire précérébral, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">37</p>
+<td align="left" valign="top">
+<br/>37 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C064</p>
+<td align="left" valign="top">
+<br/>01C064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le système vasculaire précérébral, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le système vasculaire précérébral, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">38</p>
+<td align="left" valign="top">
+<br/>38 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C081</p>
+<td align="left" valign="top">
+<br/>01C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">39</p>
+<td align="left" valign="top">
+<br/>39 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C082</p>
+<td align="left" valign="top">
+<br/>01C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">40</p>
+<td align="left" valign="top">
+<br/>40 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C083</p>
+<td align="left" valign="top">
+<br/>01C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">41</p>
+<td align="left" valign="top">
+<br/>41 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C084</p>
+<td align="left" valign="top">
+<br/>01C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">42</p>
+<td align="left" valign="top">
+<br/>42 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C08J</p>
+<td align="left" valign="top">
+<br/>01C08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">43</p>
+<td align="left" valign="top">
+<br/>43 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C091</p>
+<td align="left" valign="top">
+<br/>01C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur cérébral, niveau 1</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur cérébral, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">44</p>
+<td align="left" valign="top">
+<br/>44 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C092</p>
+<td align="left" valign="top">
+<br/>01C092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur cérébral, niveau 2</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur cérébral, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">45</p>
+<td align="left" valign="top">
+<br/>45 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C093</p>
+<td align="left" valign="top">
+<br/>01C093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur cérébral, niveau 3</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur cérébral, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">46</p>
+<td align="left" valign="top">
+<br/>46 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C094</p>
+<td align="left" valign="top">
+<br/>01C094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur cérébral, niveau 4</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur cérébral, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">47</p>
+<td align="left" valign="top">
+<br/>47 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C101</p>
+<td align="left" valign="top">
+<br/>01C101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur médullaire, niveau 1</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur médullaire, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">48</p>
+<td align="left" valign="top">
+<br/>48 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C102</p>
+<td align="left" valign="top">
+<br/>01C102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur médullaire, niveau 2</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur médullaire, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">49</p>
+<td align="left" valign="top">
+<br/>49 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C103</p>
+<td align="left" valign="top">
+<br/>01C103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur médullaire, niveau 3</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur médullaire, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">50</p>
+<td align="left" valign="top">
+<br/>50 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C104</p>
+<td align="left" valign="top">
+<br/>01C104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Pose d'un stimulateur médullaire, niveau 4</p>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur médullaire, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">51</p>
+<td align="left" valign="top">
+<br/>51 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C111</p>
+<td align="left" valign="top">
+<br/>01C111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">52</p>
+<td align="left" valign="top">
+<br/>52 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C112</p>
+<td align="left" valign="top">
+<br/>01C112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">53</p>
+<td align="left" valign="top">
+<br/>53 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C113</p>
+<td align="left" valign="top">
+<br/>01C113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">54</p>
+<td align="left" valign="top">
+<br/>54 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C114</p>
+<td align="left" valign="top">
+<br/>01C114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">55</p>
-</td>
-<td>
-<br/>
-<p align="center">01C121</p>
+<td align="left" valign="top">
+<br/>55 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>01C121</td>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>69 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">56</p>
+<td align="left" valign="top">
+<br/>56 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C122</p>
+<td align="left" valign="top">
+<br/>01C122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>70 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">57</p>
-</td>
-<td>
-<br/>
-<p align="center">01C123</p>
-</td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>57 <br/>
 </td>
+<td align="left" valign="top">
+<br/>01C123 </td>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.</td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>71 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">58</p>
+<td align="left" valign="top">
+<br/>58 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C124</p>
-</td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>01C124</td>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">64</p>
+<td align="left" valign="top">
+<br/>72 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">59</p>
+<td align="left" valign="top">
+<br/>59 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C131</p>
+<td align="left" valign="top">
+<br/>01C131 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Libérations du canal carpien et d'autres nerfs superficiels, niveau 1</p>
+<td align="left" valign="top">
+<br/>Libérations du canal carpien et d'autres nerfs superficiels, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">60</p>
+<td align="left" valign="top">
+<br/>60 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C132</p>
+<td align="left" valign="top">
+<br/>01C132 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Libérations du canal carpien et d'autres nerfs superficiels, niveau 2</p>
+<td align="left" valign="top">
+<br/>Libérations du canal carpien et d'autres nerfs superficiels, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">61</p>
+<td align="left" valign="top">
+<br/>61 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C133</p>
+<td align="left" valign="top">
+<br/>01C133 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Libérations du canal carpien et d'autres nerfs superficiels, niveau 3</p>
+<td align="left" valign="top">
+<br/>Libérations du canal carpien et d'autres nerfs superficiels, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">62</p>
+<td align="left" valign="top">
+<br/>62 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C134</p>
+<td align="left" valign="top">
+<br/>01C134 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Libérations du canal carpien et d'autres nerfs superficiels, niveau 4</p>
+<td align="left" valign="top">
+<br/>Libérations du canal carpien et d'autres nerfs superficiels, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">63</p>
+<td align="left" valign="top">
+<br/>63 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01C13J</p>
+<td align="left" valign="top">
+<br/>01C13J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Libérations du canal carpien et d'autres nerfs superficiels, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Libérations du canal carpien et d'autres nerfs superficiels, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">189</p>
+<td align="left" valign="top">
+<br/>189 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K021</p>
+<td align="left" valign="top">
+<br/>01K021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres embolisations intracrâniennes et médullaires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres embolisations intracrâniennes et médullaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">190</p>
+<td align="left" valign="top">
+<br/>190 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K022</p>
+<td align="left" valign="top">
+<br/>01K022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres embolisations intracrâniennes et médullaires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres embolisations intracrâniennes et médullaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">191</p>
+<td align="left" valign="top">
+<br/>191 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K023</p>
+<td align="left" valign="top">
+<br/>01K023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres embolisations intracrâniennes et médullaires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres embolisations intracrâniennes et médullaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">192</p>
+<td align="left" valign="top">
+<br/>192 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K024</p>
+<td align="left" valign="top">
+<br/>01K024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres embolisations intracrâniennes et médullaires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres embolisations intracrâniennes et médullaires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">193</p>
+<td align="left" valign="top">
+<br/>193 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K031</p>
+<td align="left" valign="top">
+<br/>01K031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">194</p>
+<td align="left" valign="top">
+<br/>194 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K032</p>
+<td align="left" valign="top">
+<br/>01K032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">195</p>
+<td align="left" valign="top">
+<br/>195 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K033</p>
+<td align="left" valign="top">
+<br/>01K033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">196</p>
+<td align="left" valign="top">
+<br/>196 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K034</p>
+<td align="left" valign="top">
+<br/>01K034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">197</p>
+<td align="left" valign="top">
+<br/>197 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K04J</p>
+<td align="left" valign="top">
+<br/>01K04J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Injections de toxine botulique, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Injections de toxine botulique, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">198</p>
+<td align="left" valign="top">
+<br/>198 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K05J</p>
+<td align="left" valign="top">
+<br/>01K05J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltration, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltration, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">199</p>
+<td align="left" valign="top">
+<br/>199 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K06J</p>
+<td align="left" valign="top">
+<br/>01K06J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections du système nerveux sans acte opératoire avec anesthésie, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Affections du système nerveux sans acte opératoire avec anesthésie, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">200</p>
+<td align="left" valign="top">
+<br/>200 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K071</p>
+<td align="left" valign="top">
+<br/>01K071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Embolisations intracrâniennes et médullaires pour hémorragie, niveau 1</p>
+<td align="left" valign="top">
+<br/>Embolisations intracrâniennes et médullaires pour hémorragie, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">201</p>
+<td align="left" valign="top">
+<br/>201 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K072</p>
+<td align="left" valign="top">
+<br/>01K072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Embolisations intracrâniennes et médullaires pour hémorragie, niveau 2</p>
+<td align="left" valign="top">
+<br/>Embolisations intracrâniennes et médullaires pour hémorragie, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">202</p>
+<td align="left" valign="top">
+<br/>202 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K073</p>
+<td align="left" valign="top">
+<br/>01K073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Embolisations intracrâniennes et médullaires pour hémorragie, niveau 3</p>
+<td align="left" valign="top">
+<br/>Embolisations intracrâniennes et médullaires pour hémorragie, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">203</p>
+<td align="left" valign="top">
+<br/>203 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01K074</p>
+<td align="left" valign="top">
+<br/>01K074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Embolisations intracrâniennes et médullaires pour hémorragie, niveau 4</p>
+<td align="left" valign="top">
+<br/>Embolisations intracrâniennes et médullaires pour hémorragie, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">204</p>
+<td align="left" valign="top">
+<br/>204 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M041</p>
+<td align="left" valign="top">
+<br/>01M041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Méningites virales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Méningites virales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">205</p>
+<td align="left" valign="top">
+<br/>205 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M042</p>
+<td align="left" valign="top">
+<br/>01M042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Méningites virales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Méningites virales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">206</p>
+<td align="left" valign="top">
+<br/>206 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M043</p>
+<td align="left" valign="top">
+<br/>01M043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Méningites virales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Méningites virales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">207</p>
+<td align="left" valign="top">
+<br/>207 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M044</p>
+<td align="left" valign="top">
+<br/>01M044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Méningites virales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Méningites virales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">333</p>
+<td align="left" valign="top">
+<br/>333 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M04T</p>
+<td align="left" valign="top">
+<br/>01M04T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Méningites virales, très courte durée</p>
+<td align="left" valign="top">
+<br/>Méningites virales, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">208</p>
+<td align="left" valign="top">
+<br/>208 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M051</p>
+<td align="left" valign="top">
+<br/>01M051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections du système nerveux à l'exception des méningites virales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Infections du système nerveux à l'exception des méningites virales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">209</p>
+<td align="left" valign="top">
+<br/>209 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M052</p>
+<td align="left" valign="top">
+<br/>01M052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections du système nerveux à l'exception des méningites virales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Infections du système nerveux à l'exception des méningites virales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">210</p>
+<td align="left" valign="top">
+<br/>210 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M053</p>
+<td align="left" valign="top">
+<br/>01M053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections du système nerveux à l'exception des méningites virales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Infections du système nerveux à l'exception des méningites virales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">211</p>
+<td align="left" valign="top">
+<br/>211 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M054</p>
+<td align="left" valign="top">
+<br/>01M054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections du système nerveux à l'exception des méningites virales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Infections du système nerveux à l'exception des méningites virales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">212</p>
+<td align="left" valign="top">
+<br/>212 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M05T</p>
+<td align="left" valign="top">
+<br/>01M05T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections du système nerveux à l'exception des méningites virales, très courte durée</p>
+<td align="left" valign="top">
+<br/>Infections du système nerveux à l'exception des méningites virales, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">213</p>
+<td align="left" valign="top">
+<br/>213 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M071</p>
+<td align="left" valign="top">
+<br/>01M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">214</p>
+<td align="left" valign="top">
+<br/>214 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M072</p>
+<td align="left" valign="top">
+<br/>01M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">215</p>
+<td align="left" valign="top">
+<br/>215 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M073</p>
+<td align="left" valign="top">
+<br/>01M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">216</p>
+<td align="left" valign="top">
+<br/>216 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M074</p>
+<td align="left" valign="top">
+<br/>01M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">217</p>
+<td align="left" valign="top">
+<br/>217 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M07T</p>
+<td align="left" valign="top">
+<br/>01M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge supérieur à 79 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge supérieur à 79 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">218</p>
+<td align="left" valign="top">
+<br/>218 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M081</p>
+<td align="left" valign="top">
+<br/>01M081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">219</p>
+<td align="left" valign="top">
+<br/>219 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M082</p>
+<td align="left" valign="top">
+<br/>01M082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">220</p>
+<td align="left" valign="top">
+<br/>220 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M083</p>
+<td align="left" valign="top">
+<br/>01M083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">221</p>
+<td align="left" valign="top">
+<br/>221 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M084</p>
+<td align="left" valign="top">
+<br/>01M084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">222</p>
+<td align="left" valign="top">
+<br/>222 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M08T</p>
+<td align="left" valign="top">
+<br/>01M08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies dégénératives du système nerveux, âge inférieur à 80 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Maladies dégénératives du système nerveux, âge inférieur à 80 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">223</p>
+<td align="left" valign="top">
+<br/>223 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M091</p>
+<td align="left" valign="top">
+<br/>01M091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections et lésions du rachis et de la moelle, niveau 1</p>
+<td align="left" valign="top">
+<br/>Affections et lésions du rachis et de la moelle, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">224</p>
+<td align="left" valign="top">
+<br/>224 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M092</p>
+<td align="left" valign="top">
+<br/>01M092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections et lésions du rachis et de la moelle, niveau 2</p>
+<td align="left" valign="top">
+<br/>Affections et lésions du rachis et de la moelle, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">225</p>
+<td align="left" valign="top">
+<br/>225 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M093</p>
+<td align="left" valign="top">
+<br/>01M093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections et lésions du rachis et de la moelle, niveau 3</p>
+<td align="left" valign="top">
+<br/>Affections et lésions du rachis et de la moelle, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">226</p>
+<td align="left" valign="top">
+<br/>226 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M094</p>
+<td align="left" valign="top">
+<br/>01M094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections et lésions du rachis et de la moelle, niveau 4</p>
+<td align="left" valign="top">
+<br/>Affections et lésions du rachis et de la moelle, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">227</p>
+<td align="left" valign="top">
+<br/>227 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M09T</p>
+<td align="left" valign="top">
+<br/>01M09T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections et lésions du rachis et de la moelle, très courte durée</p>
+<td align="left" valign="top">
+<br/>Affections et lésions du rachis et de la moelle, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">228</p>
+<td align="left" valign="top">
+<br/>228 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M101</p>
+<td align="left" valign="top">
+<br/>01M101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections cérébrovasculaires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections cérébrovasculaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">229</p>
+<td align="left" valign="top">
+<br/>229 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M102</p>
+<td align="left" valign="top">
+<br/>01M102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections cérébrovasculaires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections cérébrovasculaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">230</p>
+<td align="left" valign="top">
+<br/>230 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M103</p>
+<td align="left" valign="top">
+<br/>01M103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections cérébrovasculaires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections cérébrovasculaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">231</p>
+<td align="left" valign="top">
+<br/>231 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M104</p>
+<td align="left" valign="top">
+<br/>01M104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections cérébrovasculaires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections cérébrovasculaires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">232</p>
+<td align="left" valign="top">
+<br/>232 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M10T</p>
+<td align="left" valign="top">
+<br/>01M10T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections cérébrovasculaires, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections cérébrovasculaires, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">233</p>
+<td align="left" valign="top">
+<br/>233 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M111</p>
+<td align="left" valign="top">
+<br/>01M111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections des nerfs crâniens et rachidiens, niveau 1</p>
+<td align="left" valign="top">
+<br/>Affections des nerfs crâniens et rachidiens, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">234</p>
+<td align="left" valign="top">
+<br/>234 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M112</p>
+<td align="left" valign="top">
+<br/>01M112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections des nerfs crâniens et rachidiens, niveau 2</p>
+<td align="left" valign="top">
+<br/>Affections des nerfs crâniens et rachidiens, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">235</p>
+<td align="left" valign="top">
+<br/>235 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M113</p>
+<td align="left" valign="top">
+<br/>01M113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections des nerfs crâniens et rachidiens, niveau 3</p>
+<td align="left" valign="top">
+<br/>Affections des nerfs crâniens et rachidiens, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">236</p>
+<td align="left" valign="top">
+<br/>236 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M114</p>
+<td align="left" valign="top">
+<br/>01M114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections des nerfs crâniens et rachidiens, niveau 4</p>
+<td align="left" valign="top">
+<br/>Affections des nerfs crâniens et rachidiens, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">237</p>
+<td align="left" valign="top">
+<br/>237 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M11T</p>
+<td align="left" valign="top">
+<br/>01M11T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections des nerfs crâniens et rachidiens, très courte durée</p>
+<td align="left" valign="top">
+<br/>Affections des nerfs crâniens et rachidiens, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">238</p>
+<td align="left" valign="top">
+<br/>238 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M121</p>
+<td align="left" valign="top">
+<br/>01M121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections du système nerveux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections du système nerveux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">239</p>
+<td align="left" valign="top">
+<br/>239 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M122</p>
+<td align="left" valign="top">
+<br/>01M122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections du système nerveux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections du système nerveux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">240</p>
+<td align="left" valign="top">
+<br/>240 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M123</p>
+<td align="left" valign="top">
+<br/>01M123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections du système nerveux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections du système nerveux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">241</p>
+<td align="left" valign="top">
+<br/>241 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M124</p>
+<td align="left" valign="top">
+<br/>01M124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections du système nerveux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections du système nerveux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">242</p>
+<td align="left" valign="top">
+<br/>242 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M12T</p>
+<td align="left" valign="top">
+<br/>01M12T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections du système nerveux, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections du système nerveux, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">243</p>
+<td align="left" valign="top">
+<br/>243 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M131</p>
+<td align="left" valign="top">
+<br/>01M131 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles de la conscience et comas d'origine non traumatique, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles de la conscience et comas d'origine non traumatique, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">244</p>
+<td align="left" valign="top">
+<br/>244 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M132</p>
+<td align="left" valign="top">
+<br/>01M132 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles de la conscience et comas d'origine non traumatique, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles de la conscience et comas d'origine non traumatique, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">245</p>
+<td align="left" valign="top">
+<br/>245 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M133</p>
+<td align="left" valign="top">
+<br/>01M133 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles de la conscience et comas d'origine non traumatique, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles de la conscience et comas d'origine non traumatique, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">246</p>
+<td align="left" valign="top">
+<br/>246 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M134</p>
+<td align="left" valign="top">
+<br/>01M134 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles de la conscience et comas d'origine non traumatique, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles de la conscience et comas d'origine non traumatique, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">247</p>
+<td align="left" valign="top">
+<br/>247 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M151</p>
+<td align="left" valign="top">
+<br/>01M151 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">248</p>
+<td align="left" valign="top">
+<br/>248 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M152</p>
+<td align="left" valign="top">
+<br/>01M152 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">249</p>
+<td align="left" valign="top">
+<br/>249 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M153</p>
+<td align="left" valign="top">
+<br/>01M153 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">250</p>
+<td align="left" valign="top">
+<br/>250 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M154</p>
+<td align="left" valign="top">
+<br/>01M154 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">334</p>
+<td align="left" valign="top">
+<br/>334 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M15T</p>
+<td align="left" valign="top">
+<br/>01M15T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">251</p>
+<td align="left" valign="top">
+<br/>251 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M161</p>
+<td align="left" valign="top">
+<br/>01M161 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">252</p>
+<td align="left" valign="top">
+<br/>252 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M162</p>
+<td align="left" valign="top">
+<br/>01M162 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">253</p>
+<td align="left" valign="top">
+<br/>253 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M163</p>
+<td align="left" valign="top">
+<br/>01M163 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">254</p>
+<td align="left" valign="top">
+<br/>254 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M164</p>
+<td align="left" valign="top">
+<br/>01M164 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">335</p>
+<td align="left" valign="top">
+<br/>335 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M16T</p>
+<td align="left" valign="top">
+<br/>01M16T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">255</p>
+<td align="left" valign="top">
+<br/>255 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M171</p>
+<td align="left" valign="top">
+<br/>01M171 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Sclérose en plaques et ataxie cérébelleuse, niveau 1</p>
+<td align="left" valign="top">
+<br/>Sclérose en plaques et ataxie cérébelleuse, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">256</p>
+<td align="left" valign="top">
+<br/>256 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M172</p>
+<td align="left" valign="top">
+<br/>01M172 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Sclérose en plaques et ataxie cérébelleuse, niveau 2</p>
+<td align="left" valign="top">
+<br/>Sclérose en plaques et ataxie cérébelleuse, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">257</p>
+<td align="left" valign="top">
+<br/>257 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M173</p>
+<td align="left" valign="top">
+<br/>01M173 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Sclérose en plaques et ataxie cérébelleuse, niveau 3</p>
+<td align="left" valign="top">
+<br/>Sclérose en plaques et ataxie cérébelleuse, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">258</p>
+<td align="left" valign="top">
+<br/>258 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M174</p>
+<td align="left" valign="top">
+<br/>01M174 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Sclérose en plaques et ataxie cérébelleuse, niveau 4</p>
+<td align="left" valign="top">
+<br/>Sclérose en plaques et ataxie cérébelleuse, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">259</p>
+<td align="left" valign="top">
+<br/>259 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M17T</p>
+<td align="left" valign="top">
+<br/>01M17T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Sclérose en plaques et ataxie cérébelleuse, très courte durée</p>
+<td align="left" valign="top">
+<br/>Sclérose en plaques et ataxie cérébelleuse, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">260</p>
+<td align="left" valign="top">
+<br/>260 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M181</p>
+<td align="left" valign="top">
+<br/>01M181 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions traumatiques intracrâniennes sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Lésions traumatiques intracrâniennes sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">261</p>
+<td align="left" valign="top">
+<br/>261 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M182</p>
+<td align="left" valign="top">
+<br/>01M182 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions traumatiques intracrâniennes sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Lésions traumatiques intracrâniennes sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">262</p>
+<td align="left" valign="top">
+<br/>262 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M183</p>
+<td align="left" valign="top">
+<br/>01M183 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions traumatiques intracrâniennes sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Lésions traumatiques intracrâniennes sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">263</p>
+<td align="left" valign="top">
+<br/>263 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M184</p>
+<td align="left" valign="top">
+<br/>01M184 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions traumatiques intracrâniennes sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Lésions traumatiques intracrâniennes sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">336</p>
+<td align="left" valign="top">
+<br/>336 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M18T</p>
+<td align="left" valign="top">
+<br/>01M18T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions traumatiques intracrâniennes sévères, très courte durée</p>
+<td align="left" valign="top">
+<br/>Lésions traumatiques intracrâniennes sévères, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">264</p>
+<td align="left" valign="top">
+<br/>264 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M191</p>
+<td align="left" valign="top">
+<br/>01M191 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">265</p>
+<td align="left" valign="top">
+<br/>265 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M192</p>
+<td align="left" valign="top">
+<br/>01M192 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">266</p>
+<td align="left" valign="top">
+<br/>266 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M193</p>
+<td align="left" valign="top">
+<br/>01M193 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">267</p>
+<td align="left" valign="top">
+<br/>267 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M194</p>
+<td align="left" valign="top">
+<br/>01M194 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">268</p>
+<td align="left" valign="top">
+<br/>268 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M201</p>
+<td align="left" valign="top">
+<br/>01M201 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Commotions cérébrales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Commotions cérébrales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">269</p>
+<td align="left" valign="top">
+<br/>269 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M202</p>
+<td align="left" valign="top">
+<br/>01M202 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Commotions cérébrales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Commotions cérébrales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">270</p>
+<td align="left" valign="top">
+<br/>270 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M203</p>
+<td align="left" valign="top">
+<br/>01M203 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Commotions cérébrales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Commotions cérébrales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">271</p>
+<td align="left" valign="top">
+<br/>271 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M204</p>
+<td align="left" valign="top">
+<br/>01M204 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Commotions cérébrales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Commotions cérébrales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">272</p>
+<td align="left" valign="top">
+<br/>272 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M211</p>
+<td align="left" valign="top">
+<br/>01M211 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Douleurs chroniques rebelles, niveau 1</p>
+<td align="left" valign="top">
+<br/>Douleurs chroniques rebelles, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">273</p>
+<td align="left" valign="top">
+<br/>273 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M212</p>
+<td align="left" valign="top">
+<br/>01M212 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Douleurs chroniques rebelles, niveau 2</p>
+<td align="left" valign="top">
+<br/>Douleurs chroniques rebelles, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">274</p>
+<td align="left" valign="top">
+<br/>274 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M213</p>
+<td align="left" valign="top">
+<br/>01M213 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Douleurs chroniques rebelles, niveau 3</p>
+<td align="left" valign="top">
+<br/>Douleurs chroniques rebelles, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">275</p>
+<td align="left" valign="top">
+<br/>275 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M214</p>
+<td align="left" valign="top">
+<br/>01M214 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Douleurs chroniques rebelles, niveau 4</p>
+<td align="left" valign="top">
+<br/>Douleurs chroniques rebelles, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">337</p>
+<td align="left" valign="top">
+<br/>337 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M21T</p>
+<td align="left" valign="top">
+<br/>01M21T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Douleurs chroniques rebelles, très courte durée</p>
+<td align="left" valign="top">
+<br/>Douleurs chroniques rebelles, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">276</p>
+<td align="left" valign="top">
+<br/>276 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M221</p>
+<td align="left" valign="top">
+<br/>01M221 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Migraines et céphalées, niveau 1</p>
+<td align="left" valign="top">
+<br/>Migraines et céphalées, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">277</p>
+<td align="left" valign="top">
+<br/>277 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M222</p>
+<td align="left" valign="top">
+<br/>01M222 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Migraines et céphalées, niveau 2</p>
+<td align="left" valign="top">
+<br/>Migraines et céphalées, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">278</p>
+<td align="left" valign="top">
+<br/>278 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M223</p>
+<td align="left" valign="top">
+<br/>01M223 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Migraines et céphalées, niveau 3</p>
+<td align="left" valign="top">
+<br/>Migraines et céphalées, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">279</p>
+<td align="left" valign="top">
+<br/>279 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M224</p>
+<td align="left" valign="top">
+<br/>01M224 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Migraines et céphalées, niveau 4</p>
+<td align="left" valign="top">
+<br/>Migraines et céphalées, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">280</p>
+<td align="left" valign="top">
+<br/>280 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M22T</p>
+<td align="left" valign="top">
+<br/>01M22T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Migraines et céphalées, très courte durée</p>
+<td align="left" valign="top">
+<br/>Migraines et céphalées, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">281</p>
+<td align="left" valign="top">
+<br/>281 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M231</p>
+<td align="left" valign="top">
+<br/>01M231 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Convulsions hyperthermiques, niveau 1</p>
+<td align="left" valign="top">
+<br/>Convulsions hyperthermiques, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">282</p>
+<td align="left" valign="top">
+<br/>282 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M232</p>
+<td align="left" valign="top">
+<br/>01M232 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Convulsions hyperthermiques, niveau 2</p>
+<td align="left" valign="top">
+<br/>Convulsions hyperthermiques, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">283</p>
+<td align="left" valign="top">
+<br/>283 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M233</p>
+<td align="left" valign="top">
+<br/>01M233 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Convulsions hyperthermiques, niveau 3</p>
+<td align="left" valign="top">
+<br/>Convulsions hyperthermiques, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">284</p>
+<td align="left" valign="top">
+<br/>284 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M234</p>
+<td align="left" valign="top">
+<br/>01M234 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Convulsions hyperthermiques, niveau 4</p>
+<td align="left" valign="top">
+<br/>Convulsions hyperthermiques, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">285</p>
+<td align="left" valign="top">
+<br/>285 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M241</p>
+<td align="left" valign="top">
+<br/>01M241 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">286</p>
+<td align="left" valign="top">
+<br/>286 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M242</p>
+<td align="left" valign="top">
+<br/>01M242 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">287</p>
+<td align="left" valign="top">
+<br/>287 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M243</p>
+<td align="left" valign="top">
+<br/>01M243 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">288</p>
+<td align="left" valign="top">
+<br/>288 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M244</p>
+<td align="left" valign="top">
+<br/>01M244 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">289</p>
+<td align="left" valign="top">
+<br/>289 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M24T</p>
+<td align="left" valign="top">
+<br/>01M24T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">290</p>
+<td align="left" valign="top">
+<br/>290 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M251</p>
+<td align="left" valign="top">
+<br/>01M251 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">291</p>
+<td align="left" valign="top">
+<br/>291 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M252</p>
+<td align="left" valign="top">
+<br/>01M252 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">292</p>
+<td align="left" valign="top">
+<br/>292 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M253</p>
+<td align="left" valign="top">
+<br/>01M253 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">293</p>
+<td align="left" valign="top">
+<br/>293 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M254</p>
+<td align="left" valign="top">
+<br/>01M254 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">294</p>
+<td align="left" valign="top">
+<br/>294 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M25T</p>
+<td align="left" valign="top">
+<br/>01M25T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Epilepsie, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Epilepsie, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">295</p>
+<td align="left" valign="top">
+<br/>295 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M261</p>
+<td align="left" valign="top">
+<br/>01M261 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes du système nerveux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes du système nerveux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">296</p>
+<td align="left" valign="top">
+<br/>296 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M262</p>
+<td align="left" valign="top">
+<br/>01M262 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes du système nerveux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes du système nerveux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">297</p>
+<td align="left" valign="top">
+<br/>297 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M263</p>
+<td align="left" valign="top">
+<br/>01M263 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes du système nerveux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes du système nerveux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">298</p>
+<td align="left" valign="top">
+<br/>298 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M264</p>
+<td align="left" valign="top">
+<br/>01M264 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes du système nerveux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes du système nerveux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">299</p>
+<td align="left" valign="top">
+<br/>299 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M26T</p>
+<td align="left" valign="top">
+<br/>01M26T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes du système nerveux, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes du système nerveux, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">300</p>
+<td align="left" valign="top">
+<br/>300 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M271</p>
+<td align="left" valign="top">
+<br/>01M271 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres tumeurs du système nerveux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres tumeurs du système nerveux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">301</p>
+<td align="left" valign="top">
+<br/>301 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M272</p>
+<td align="left" valign="top">
+<br/>01M272 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres tumeurs du système nerveux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres tumeurs du système nerveux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">302</p>
+<td align="left" valign="top">
+<br/>302 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M273</p>
+<td align="left" valign="top">
+<br/>01M273 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres tumeurs du système nerveux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres tumeurs du système nerveux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">303</p>
+<td align="left" valign="top">
+<br/>303 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M274</p>
+<td align="left" valign="top">
+<br/>01M274 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres tumeurs du système nerveux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres tumeurs du système nerveux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">304</p>
+<td align="left" valign="top">
+<br/>304 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M27T</p>
+<td align="left" valign="top">
+<br/>01M27T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres tumeurs du système nerveux, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres tumeurs du système nerveux, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">305</p>
+<td align="left" valign="top">
+<br/>305 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M281</p>
+<td align="left" valign="top">
+<br/>01M281 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hydrocéphalies, niveau 1</p>
+<td align="left" valign="top">
+<br/>Hydrocéphalies, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">306</p>
+<td align="left" valign="top">
+<br/>306 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M282</p>
+<td align="left" valign="top">
+<br/>01M282 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hydrocéphalies, niveau 2</p>
+<td align="left" valign="top">
+<br/>Hydrocéphalies, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">307</p>
+<td align="left" valign="top">
+<br/>307 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M283</p>
+<td align="left" valign="top">
+<br/>01M283 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hydrocéphalies, niveau 3</p>
+<td align="left" valign="top">
+<br/>Hydrocéphalies, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">308</p>
+<td align="left" valign="top">
+<br/>308 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M284</p>
+<td align="left" valign="top">
+<br/>01M284 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hydrocéphalies, niveau 4</p>
+<td align="left" valign="top">
+<br/>Hydrocéphalies, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">309</p>
+<td align="left" valign="top">
+<br/>309 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M28T</p>
+<td align="left" valign="top">
+<br/>01M28T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hydrocéphalies, très courte durée</p>
+<td align="left" valign="top">
+<br/>Hydrocéphalies, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">310</p>
+<td align="left" valign="top">
+<br/>310 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M291</p>
+<td align="left" valign="top">
+<br/>01M291 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anévrysmes cérébraux, niveau 1</p>
+<td align="left" valign="top">
+<br/>Anévrysmes cérébraux, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">311</p>
+<td align="left" valign="top">
+<br/>311 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M292</p>
+<td align="left" valign="top">
+<br/>01M292 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anévrysmes cérébraux, niveau 2</p>
+<td align="left" valign="top">
+<br/>Anévrysmes cérébraux, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">312</p>
+<td align="left" valign="top">
+<br/>312 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M293</p>
+<td align="left" valign="top">
+<br/>01M293 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anévrysmes cérébraux, niveau 3</p>
+<td align="left" valign="top">
+<br/>Anévrysmes cérébraux, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">313</p>
+<td align="left" valign="top">
+<br/>313 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M294</p>
+<td align="left" valign="top">
+<br/>01M294 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anévrysmes cérébraux, niveau 4</p>
+<td align="left" valign="top">
+<br/>Anévrysmes cérébraux, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">314</p>
+<td align="left" valign="top">
+<br/>314 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M301</p>
+<td align="left" valign="top">
+<br/>01M301 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents vasculaires intracérébraux non transitoires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Accidents vasculaires intracérébraux non transitoires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">315</p>
+<td align="left" valign="top">
+<br/>315 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M302</p>
+<td align="left" valign="top">
+<br/>01M302 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents vasculaires intracérébraux non transitoires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Accidents vasculaires intracérébraux non transitoires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">316</p>
+<td align="left" valign="top">
+<br/>316 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M303</p>
+<td align="left" valign="top">
+<br/>01M303 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents vasculaires intracérébraux non transitoires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Accidents vasculaires intracérébraux non transitoires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">317</p>
+<td align="left" valign="top">
+<br/>317 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M304</p>
+<td align="left" valign="top">
+<br/>01M304 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents vasculaires intracérébraux non transitoires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Accidents vasculaires intracérébraux non transitoires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">318</p>
+<td align="left" valign="top">
+<br/>318 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M30T</p>
+<td align="left" valign="top">
+<br/>01M30T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Transferts et autres séjours courts pour accidents vasculaires intracérébraux non transitoires</p>
+<td align="left" valign="top">
+<br/>Transferts et autres séjours courts pour accidents vasculaires intracérébraux non transitoires. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">319</p>
+<td align="left" valign="top">
+<br/>319 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M311</p>
+<td align="left" valign="top">
+<br/>01M311 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres accidents vasculaires cérébraux non transitoires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres accidents vasculaires cérébraux non transitoires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">320</p>
+<td align="left" valign="top">
+<br/>320 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M312</p>
+<td align="left" valign="top">
+<br/>01M312 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres accidents vasculaires cérébraux non transitoires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres accidents vasculaires cérébraux non transitoires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">321</p>
+<td align="left" valign="top">
+<br/>321 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M313</p>
+<td align="left" valign="top">
+<br/>01M313 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres accidents vasculaires cérébraux non transitoires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres accidents vasculaires cérébraux non transitoires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">322</p>
+<td align="left" valign="top">
+<br/>322 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M314</p>
+<td align="left" valign="top">
+<br/>01M314 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres accidents vasculaires cérébraux non transitoires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres accidents vasculaires cérébraux non transitoires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">323</p>
+<td align="left" valign="top">
+<br/>323 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M31T</p>
+<td align="left" valign="top">
+<br/>01M31T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Transferts et autres séjours courts pour autres accidents vasculaires cérébraux non transitoires</p>
+<td align="left" valign="top">
+<br/>Transferts et autres séjours courts pour autres accidents vasculaires cérébraux non transitoires. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">324</p>
+<td align="left" valign="top">
+<br/>324 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M32Z</p>
+<td align="left" valign="top">
+<br/>01M32Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance pour affections du système nerveux</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance pour affections du système nerveux. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">325</p>
+<td align="left" valign="top">
+<br/>325 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M331</p>
+<td align="left" valign="top">
+<br/>01M331 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles du sommeil, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles du sommeil, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">326</p>
+<td align="left" valign="top">
+<br/>326 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M332</p>
+<td align="left" valign="top">
+<br/>01M332 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles du sommeil, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles du sommeil, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">327</p>
+<td align="left" valign="top">
+<br/>327 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M333</p>
+<td align="left" valign="top">
+<br/>01M333 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles du sommeil, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles du sommeil, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">328</p>
+<td align="left" valign="top">
+<br/>328 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M334</p>
+<td align="left" valign="top">
+<br/>01M334 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles du sommeil, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles du sommeil, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">338</p>
+<td align="left" valign="top">
+<br/>338 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M34T</p>
+<td align="left" valign="top">
+<br/>01M34T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anomalies de la démarche d'origine neurologique, très courte durée</p>
+<td align="left" valign="top">
+<br/>Anomalies de la démarche d'origine neurologique, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">329</p>
+<td align="left" valign="top">
+<br/>329 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M34Z</p>
+<td align="left" valign="top">
+<br/>01M34Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Anomalies de la démarche d'origine neurologique</p>
+<td align="left" valign="top">
+<br/>Anomalies de la démarche d'origine neurologique. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">339</p>
+<td align="left" valign="top">
+<br/>339 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M35T</p>
+<td align="left" valign="top">
+<br/>01M35T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 01, très courte durée</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 01, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">330</p>
+<td align="left" valign="top">
+<br/>330 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M35Z</p>
+<td align="left" valign="top">
+<br/>01M35Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 01</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 01.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">331</p>
+<td align="left" valign="top">
+<br/>331 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M36E</p>
+<td align="left" valign="top">
+<br/>01M36E <br/>
 </td>
-<td>
-<br/>
-<p align="center">Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins de 2 jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">332</p>
+<td align="left" valign="top">
+<br/>332 <br/>
 </td>
-<td>
-<br/>
-<p align="center">01M37E</p>
+<td align="left" valign="top">
+<br/>01M37E <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours. <br/>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">410</p>
+<td align="left" valign="top">
+<br/>410 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C021</p>
+<td align="left" valign="top">
+<br/>02C021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la rétine, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur la rétine, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">411</p>
+<td align="left" valign="top">
+<br/>411 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C022</p>
+<td align="left" valign="top">
+<br/>02C022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la rétine, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur la rétine, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">412</p>
+<td align="left" valign="top">
+<br/>412 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C023</p>
+<td align="left" valign="top">
+<br/>02C023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la rétine, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur la rétine, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">413</p>
+<td align="left" valign="top">
+<br/>413 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C024</p>
+<td align="left" valign="top">
+<br/>02C024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la rétine, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur la rétine, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">414</p>
+<td align="left" valign="top">
+<br/>414 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C02J</p>
+<td align="left" valign="top">
+<br/>02C02J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la rétine, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur la rétine, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">415</p>
+<td align="left" valign="top">
+<br/>415 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C031</p>
+<td align="left" valign="top">
+<br/>02C031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'orbite, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'orbite, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">416</p>
+<td align="left" valign="top">
+<br/>416 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C032</p>
+<td align="left" valign="top">
+<br/>02C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'orbite, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'orbite, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">417</p>
+<td align="left" valign="top">
+<br/>417 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C033</p>
+<td align="left" valign="top">
+<br/>02C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'orbite, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'orbite, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">418</p>
+<td align="left" valign="top">
+<br/>418 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C034</p>
+<td align="left" valign="top">
+<br/>02C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'orbite, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'orbite, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">419</p>
+<td align="left" valign="top">
+<br/>419 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C03J</p>
+<td align="left" valign="top">
+<br/>02C03J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'orbite, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'orbite, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">420</p>
+<td align="left" valign="top">
+<br/>420 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C051</p>
+<td align="left" valign="top">
+<br/>02C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec ou sans vitrectomie, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec ou sans vitrectomie, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">421</p>
+<td align="left" valign="top">
+<br/>421 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C052</p>
+<td align="left" valign="top">
+<br/>02C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec ou sans vitrectomie, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec ou sans vitrectomie, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">422</p>
+<td align="left" valign="top">
+<br/>422 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C053</p>
+<td align="left" valign="top">
+<br/>02C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec ou sans vitrectomie, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec ou sans vitrectomie, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">423</p>
+<td align="left" valign="top">
+<br/>423 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C054</p>
+<td align="left" valign="top">
+<br/>02C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec ou sans vitrectomie, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec ou sans vitrectomie, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">424</p>
+<td align="left" valign="top">
+<br/>424 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C05J</p>
+<td align="left" valign="top">
+<br/>02C05J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec ou sans vitrectomie, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec ou sans vitrectomie, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">425</p>
+<td align="left" valign="top">
+<br/>425 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C061</p>
+<td align="left" valign="top">
+<br/>02C061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions primaires sur l'iris, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions primaires sur l'iris, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">426</p>
+<td align="left" valign="top">
+<br/>426 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C062</p>
+<td align="left" valign="top">
+<br/>02C062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions primaires sur l'iris, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions primaires sur l'iris, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">427</p>
+<td align="left" valign="top">
+<br/>427 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C063</p>
+<td align="left" valign="top">
+<br/>02C063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions primaires sur l'iris, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions primaires sur l'iris, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">428</p>
+<td align="left" valign="top">
+<br/>428 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C064</p>
+<td align="left" valign="top">
+<br/>02C064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions primaires sur l'iris, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions primaires sur l'iris, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">429</p>
+<td align="left" valign="top">
+<br/>429 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C06J</p>
+<td align="left" valign="top">
+<br/>02C06J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions primaires sur l'iris, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions primaires sur l'iris, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">430</p>
+<td align="left" valign="top">
+<br/>430 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C071</p>
+<td align="left" valign="top">
+<br/>02C071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">431</p>
+<td align="left" valign="top">
+<br/>431 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C072</p>
+<td align="left" valign="top">
+<br/>02C072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">432</p>
+<td align="left" valign="top">
+<br/>432 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C073</p>
+<td align="left" valign="top">
+<br/>02C073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">433</p>
+<td align="left" valign="top">
+<br/>433 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C074</p>
+<td align="left" valign="top">
+<br/>02C074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">434</p>
+<td align="left" valign="top">
+<br/>434 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C07J</p>
+<td align="left" valign="top">
+<br/>02C07J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge inférieur à 18 ans, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge inférieur à 18 ans, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">435</p>
+<td align="left" valign="top">
+<br/>435 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C081</p>
+<td align="left" valign="top">
+<br/>02C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">436</p>
+<td align="left" valign="top">
+<br/>436 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C082</p>
+<td align="left" valign="top">
+<br/>02C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">437</p>
+<td align="left" valign="top">
+<br/>437 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C083</p>
+<td align="left" valign="top">
+<br/>02C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">438</p>
+<td align="left" valign="top">
+<br/>438 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C084</p>
+<td align="left" valign="top">
+<br/>02C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">439</p>
+<td align="left" valign="top">
+<br/>439 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C08J</p>
+<td align="left" valign="top">
+<br/>02C08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">440</p>
+<td align="left" valign="top">
+<br/>460 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C091</p>
+<td align="left" valign="top">
+<br/>02C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 1</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 1. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">460</p>
+<td align="left" valign="top">
+<br/>440 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 1</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">441</p>
-</td>
-<td>
-<br/>
-<p align="center">02C092</p>
+<td align="left" valign="top">
+<br/>461 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 2</p>
+<td align="left" valign="top">
+<br/>02C092 </td>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 2. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">461</p>
+<td align="left" valign="top">
+<br/>441 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 2</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">442</p>
-</td>
-<td>
-<br/>
-<p align="center">02C093</p>
+<td align="left" valign="top">
+<br/>462 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 3</p>
+<td align="left" valign="top">
+<br/>02C093 <br/>
 </td>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 3. </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">462</p>
+<td align="left" valign="top">
+<br/>442 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 3</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">443</p>
-</td>
-<td>
-<br/>
-<p align="center">02C094</p>
+<td align="left" valign="top">
+<br/>463 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 4</p>
+<td align="left" valign="top">
+<br/>02C094 <br/>
 </td>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 4.</td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">463</p>
+<td align="left" valign="top">
+<br/>443 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, niveau 4</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">444</p>
+<td align="left" valign="top">
+<br/>464 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C09J</p>
+<td align="left" valign="top">
+<br/>02C09J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">464</p>
+<td align="left" valign="top">
+<br/>444 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Allogreffes de cornée, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Allogreffes de cornée, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">445</p>
+<td align="left" valign="top">
+<br/>445 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C101</p>
+<td align="left" valign="top">
+<br/>02C101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires pour affections sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires pour affections sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">446</p>
+<td align="left" valign="top">
+<br/>446 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C102</p>
+<td align="left" valign="top">
+<br/>02C102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires pour affections sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires pour affections sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">447</p>
+<td align="left" valign="top">
+<br/>447 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C103</p>
+<td align="left" valign="top">
+<br/>02C103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires pour affections sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires pour affections sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">448</p>
+<td align="left" valign="top">
+<br/>448 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C104</p>
+<td align="left" valign="top">
+<br/>02C104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires pour affections sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires pour affections sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">449</p>
+<td align="left" valign="top">
+<br/>449 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C10J</p>
+<td align="left" valign="top">
+<br/>02C10J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires pour affections sévères, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires pour affections sévères, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">450</p>
+<td align="left" valign="top">
+<br/>450 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C111</p>
+<td align="left" valign="top">
+<br/>02C111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires en dehors des affections sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires en dehors des affections sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">451</p>
+<td align="left" valign="top">
+<br/>451 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C112</p>
+<td align="left" valign="top">
+<br/>02C112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires en dehors des affections sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires en dehors des affections sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">452</p>
+<td align="left" valign="top">
+<br/>452 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C113</p>
+<td align="left" valign="top">
+<br/>02C113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires en dehors des affections sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires en dehors des affections sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">453</p>
+<td align="left" valign="top">
+<br/>453 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C114</p>
+<td align="left" valign="top">
+<br/>02C114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires en dehors des affections sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires en dehors des affections sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">454</p>
+<td align="left" valign="top">
+<br/>454 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C11J</p>
+<td align="left" valign="top">
+<br/>02C11J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions intraoculaires en dehors des affections sévères, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions intraoculaires en dehors des affections sévères, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">455</p>
+<td align="left" valign="top">
+<br/>455 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C121</p>
+<td align="left" valign="top">
+<br/>02C121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec trabéculectomie, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec trabéculectomie, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">456</p>
+<td align="left" valign="top">
+<br/>456 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C122</p>
+<td align="left" valign="top">
+<br/>02C122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec trabéculectomie, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec trabéculectomie, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">457</p>
+<td align="left" valign="top">
+<br/>457 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C123</p>
+<td align="left" valign="top">
+<br/>02C123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec trabéculectomie, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec trabéculectomie, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">458</p>
+<td align="left" valign="top">
+<br/>458 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C124</p>
+<td align="left" valign="top">
+<br/>02C124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec trabéculectomie, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec trabéculectomie, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">459</p>
+<td align="left" valign="top">
+<br/>459 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02C12J</p>
+<td align="left" valign="top">
+<br/>02C12J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le cristallin avec trabéculectomie, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur le cristallin avec trabéculectomie, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">506</p>
+<td align="left" valign="top">
+<br/>506 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M021</p>
+<td align="left" valign="top">
+<br/>02M021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hyphéma, niveau 1</p>
+<td align="left" valign="top">
+<br/>Hyphéma, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">507</p>
+<td align="left" valign="top">
+<br/>507 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M022</p>
+<td align="left" valign="top">
+<br/>02M022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hyphéma, niveau 2</p>
+<td align="left" valign="top">
+<br/>Hyphéma, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">508</p>
+<td align="left" valign="top">
+<br/>508 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M023</p>
+<td align="left" valign="top">
+<br/>02M023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hyphéma, niveau 3</p>
+<td align="left" valign="top">
+<br/>Hyphéma, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">509</p>
+<td align="left" valign="top">
+<br/>509 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M024</p>
+<td align="left" valign="top">
+<br/>02M024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hyphéma, niveau 4</p>
+<td align="left" valign="top">
+<br/>Hyphéma, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">510</p>
+<td align="left" valign="top">
+<br/>510 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M031</p>
+<td align="left" valign="top">
+<br/>02M031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections oculaires aiguës sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Infections oculaires aiguës sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">511</p>
+<td align="left" valign="top">
+<br/>511 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M032</p>
+<td align="left" valign="top">
+<br/>02M032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections oculaires aiguës sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Infections oculaires aiguës sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">512</p>
+<td align="left" valign="top">
+<br/>512 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M033</p>
+<td align="left" valign="top">
+<br/>02M033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections oculaires aiguës sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Infections oculaires aiguës sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">513</p>
+<td align="left" valign="top">
+<br/>513 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M034</p>
+<td align="left" valign="top">
+<br/>02M034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections oculaires aiguës sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Infections oculaires aiguës sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">514</p>
+<td align="left" valign="top">
+<br/>514 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M041</p>
+<td align="left" valign="top">
+<br/>02M041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections oculaires d'origine neurologique, niveau 1</p>
+<td align="left" valign="top">
+<br/>Affections oculaires d'origine neurologique, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">515</p>
+<td align="left" valign="top">
+<br/>515 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M042</p>
+<td align="left" valign="top">
+<br/>02M042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections oculaires d'origine neurologique, niveau 2</p>
+<td align="left" valign="top">
+<br/>Affections oculaires d'origine neurologique, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">516</p>
+<td align="left" valign="top">
+<br/>516 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M043</p>
+<td align="left" valign="top">
+<br/>02M043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections oculaires d'origine neurologique, niveau 3</p>
+<td align="left" valign="top">
+<br/>Affections oculaires d'origine neurologique, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">517</p>
+<td align="left" valign="top">
+<br/>517 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M044</p>
+<td align="left" valign="top">
+<br/>02M044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections oculaires d'origine neurologique, niveau 4</p>
+<td align="left" valign="top">
+<br/>Affections oculaires d'origine neurologique, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">518</p>
+<td align="left" valign="top">
+<br/>518 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M04T</p>
+<td align="left" valign="top">
+<br/>02M04T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections oculaires d'origine neurologique, très courte durée</p>
+<td align="left" valign="top">
+<br/>Affections oculaires d'origine neurologique, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">519</p>
+<td align="left" valign="top">
+<br/>519 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M051</p>
+<td align="left" valign="top">
+<br/>02M051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">520</p>
+<td align="left" valign="top">
+<br/>520 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M052</p>
+<td align="left" valign="top">
+<br/>02M052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">521</p>
+<td align="left" valign="top">
+<br/>521 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M053</p>
+<td align="left" valign="top">
+<br/>02M053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">522</p>
+<td align="left" valign="top">
+<br/>522 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M054</p>
+<td align="left" valign="top">
+<br/>02M054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">523</p>
+<td align="left" valign="top">
+<br/>523 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M05T</p>
+<td align="left" valign="top">
+<br/>02M05T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">524</p>
+<td align="left" valign="top">
+<br/>524 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M071</p>
+<td align="left" valign="top">
+<br/>02M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">525</p>
+<td align="left" valign="top">
+<br/>525 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M072</p>
+<td align="left" valign="top">
+<br/>02M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">526</p>
+<td align="left" valign="top">
+<br/>526 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M073</p>
+<td align="left" valign="top">
+<br/>02M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">527</p>
+<td align="left" valign="top">
+<br/>527 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M074</p>
+<td align="left" valign="top">
+<br/>02M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">528</p>
+<td align="left" valign="top">
+<br/>528 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M07T</p>
+<td align="left" valign="top">
+<br/>02M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">529</p>
+<td align="left" valign="top">
+<br/>529 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M081</p>
+<td align="left" valign="top">
+<br/>02M081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">530</p>
+<td align="left" valign="top">
+<br/>530 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M082</p>
+<td align="left" valign="top">
+<br/>02M082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">531</p>
+<td align="left" valign="top">
+<br/>531 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M083</p>
+<td align="left" valign="top">
+<br/>02M083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">532</p>
+<td align="left" valign="top">
+<br/>532 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M084</p>
+<td align="left" valign="top">
+<br/>02M084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">533</p>
+<td align="left" valign="top">
+<br/>533 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M08T</p>
+<td align="left" valign="top">
+<br/>02M08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">534</p>
+<td align="left" valign="top">
+<br/>534 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M09Z</p>
+<td align="left" valign="top">
+<br/>02M09Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance pour affections de l'œil</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance pour affections de l'œil. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">536</p>
+<td align="left" valign="top">
+<br/>536 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M10T</p>
+<td align="left" valign="top">
+<br/>02M10T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 02, très courte durée</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 02, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">535</p>
+<td align="left" valign="top">
+<br/>535 <br/>
 </td>
-<td>
-<br/>
-<p align="center">02M10Z</p>
+<td align="left" valign="top">
+<br/>02M10Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 02</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 02.<br/>
 </td>
 </tr>
 </tbody>

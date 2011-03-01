@@ -5,5629 +5,4419 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <table>
 <tbody>
 <tr>
-<td>
-<br/>
-<p align="center">3314</p>
+<td align="left" valign="top">
+<p align="left">3314 </p>
 </td>
-<td>
-<br/>
-<p align="center">09C021</p>
+<td align="left" valign="top">
+<p align="left">09C021 </p>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3315</p>
+<td align="left" valign="top">
+<br/>3315 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C022</p>
+<td align="left" valign="top">
+<br/>09C022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3316</p>
+<td align="left" valign="top">
+<br/>3316 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C023</p>
+<td align="left" valign="top">
+<br/>09C023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3317</p>
+<td align="left" valign="top">
+<br/>3317 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C024</p>
+<td align="left" valign="top">
+<br/>09C024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3318</p>
+<td align="left" valign="top">
+<br/>3318 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C02J</p>
+<td align="left" valign="top">
+<br/>09C02J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3319</p>
+<td align="left" valign="top">
+<br/>3319 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C031</p>
+<td align="left" valign="top">
+<br/>09C031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3320</p>
+<td align="left" valign="top">
+<br/>3320 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C032</p>
+<td align="left" valign="top">
+<br/>09C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3321</p>
+<td align="left" valign="top">
+<br/>3321 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C033</p>
+<td align="left" valign="top">
+<br/>09C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3322</p>
+<td align="left" valign="top">
+<br/>3322 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C034</p>
+<td align="left" valign="top">
+<br/>09C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3323</p>
+<td align="left" valign="top">
+<br/>3323 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C03J</p>
+<td align="left" valign="top">
+<br/>09C03J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3324</p>
+<td align="left" valign="top">
+<br/>3324 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C041</p>
+<td align="left" valign="top">
+<br/>09C041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies totales pour tumeur maligne, niveau 1</p>
+<td align="left" valign="top">
+<br/>Mastectomies totales pour tumeur maligne, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3325</p>
+<td align="left" valign="top">
+<br/>3325 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C042</p>
+<td align="left" valign="top">
+<br/>09C042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies totales pour tumeur maligne, niveau 2</p>
+<td align="left" valign="top">
+<br/>Mastectomies totales pour tumeur maligne, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3326</p>
+<td align="left" valign="top">
+<br/>3326 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C043</p>
+<td align="left" valign="top">
+<br/>09C043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies totales pour tumeur maligne, niveau 3</p>
+<td align="left" valign="top">
+<br/>Mastectomies totales pour tumeur maligne, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3327</p>
+<td align="left" valign="top">
+<br/>3327 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C044</p>
+<td align="left" valign="top">
+<br/>09C044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies totales pour tumeur maligne, niveau 4</p>
+<td align="left" valign="top">
+<br/>Mastectomies totales pour tumeur maligne, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3328</p>
+<td align="left" valign="top">
+<br/>3328 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C051</p>
+<td align="left" valign="top">
+<br/>09C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies subtotales pour tumeur maligne, niveau 1</p>
+<td align="left" valign="top">
+<br/>Mastectomies subtotales pour tumeur maligne, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3329</p>
+<td align="left" valign="top">
+<br/>3329 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C052</p>
+<td align="left" valign="top">
+<br/>09C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies subtotales pour tumeur maligne, niveau 2</p>
+<td align="left" valign="top">
+<br/>Mastectomies subtotales pour tumeur maligne, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3330</p>
+<td align="left" valign="top">
+<br/>3330 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C053</p>
+<td align="left" valign="top">
+<br/>09C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies subtotales pour tumeur maligne, niveau 3</p>
+<td align="left" valign="top">
+<br/>Mastectomies subtotales pour tumeur maligne, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3331</p>
+<td align="left" valign="top">
+<br/>3331 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C054</p>
+<td align="left" valign="top">
+<br/>09C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies subtotales pour tumeur maligne, niveau 4</p>
+<td align="left" valign="top">
+<br/>Mastectomies subtotales pour tumeur maligne, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3332</p>
+<td align="left" valign="top">
+<br/>3332 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C05J</p>
+<td align="left" valign="top">
+<br/>09C05J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Mastectomies subtotales pour tumeur maligne, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Mastectomies subtotales pour tumeur maligne, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3333</p>
+<td align="left" valign="top">
+<br/>3333 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C061</p>
+<td align="left" valign="top">
+<br/>09C061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3334</p>
+<td align="left" valign="top">
+<br/>3334 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C062</p>
+<td align="left" valign="top">
+<br/>09C062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3335</p>
+<td align="left" valign="top">
+<br/>3335 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C063</p>
+<td align="left" valign="top">
+<br/>09C063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3336</p>
+<td align="left" valign="top">
+<br/>3336 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C064</p>
+<td align="left" valign="top">
+<br/>09C064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3337</p>
+<td align="left" valign="top">
+<br/>3337 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C06T</p>
+<td align="left" valign="top">
+<br/>09C06T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, très courte durée</p>
+<td align="left" valign="top">
+<br/>Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3338</p>
+<td align="left" valign="top">
+<br/>3338 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C071</p>
+<td align="left" valign="top">
+<br/>09C071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Biopsies et excisions locales pour des affections non malignes du sein, niveau 1</p>
+<td align="left" valign="top">
+<br/>Biopsies et excisions locales pour des affections non malignes du sein, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3339</p>
+<td align="left" valign="top">
+<br/>3339 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C072</p>
+<td align="left" valign="top">
+<br/>09C072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Biopsies et excisions locales pour des affections non malignes du sein, niveau 2</p>
+<td align="left" valign="top">
+<br/>Biopsies et excisions locales pour des affections non malignes du sein, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3340</p>
+<td align="left" valign="top">
+<br/>3340 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C073</p>
+<td align="left" valign="top">
+<br/>09C073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Biopsies et excisions locales pour des affections non malignes du sein, niveau 3</p>
+<td align="left" valign="top">
+<br/>Biopsies et excisions locales pour des affections non malignes du sein, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3341</p>
+<td align="left" valign="top">
+<br/>3341 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C074</p>
+<td align="left" valign="top">
+<br/>09C074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Biopsies et excisions locales pour des affections non malignes du sein, niveau 4</p>
+<td align="left" valign="top">
+<br/>Biopsies et excisions locales pour des affections non malignes du sein, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3342</p>
+<td align="left" valign="top">
+<br/>3342 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C07J</p>
+<td align="left" valign="top">
+<br/>09C07J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Biopsies et excisions locales pour des affections non malignes du sein, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Biopsies et excisions locales pour des affections non malignes du sein, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3343</p>
+<td align="left" valign="top">
+<br/>3343 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C081</p>
+<td align="left" valign="top">
+<br/>09C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la région anale et périanale, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur la région anale et périanale, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3344</p>
+<td align="left" valign="top">
+<br/>3344 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C082</p>
+<td align="left" valign="top">
+<br/>09C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la région anale et périanale, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur la région anale et périanale, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3345</p>
+<td align="left" valign="top">
+<br/>3345 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C083</p>
+<td align="left" valign="top">
+<br/>09C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la région anale et périanale, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur la région anale et périanale, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3346</p>
+<td align="left" valign="top">
+<br/>3346 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C084</p>
+<td align="left" valign="top">
+<br/>09C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la région anale et périanale, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur la région anale et périanale, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3347</p>
+<td align="left" valign="top">
+<br/>3347 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C08J</p>
+<td align="left" valign="top">
+<br/>09C08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la région anale et périanale, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur la région anale et périanale, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3348</p>
+<td align="left" valign="top">
+<br/>3348 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C091</p>
+<td align="left" valign="top">
+<br/>09C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions plastiques en dehors de la chirurgie esthétique, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions plastiques en dehors de la chirurgie esthétique, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3349</p>
+<td align="left" valign="top">
+<br/>3349 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C092</p>
+<td align="left" valign="top">
+<br/>09C092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions plastiques en dehors de la chirurgie esthétique, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions plastiques en dehors de la chirurgie esthétique, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3350</p>
+<td align="left" valign="top">
+<br/>3350 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C093</p>
+<td align="left" valign="top">
+<br/>09C093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions plastiques en dehors de la chirurgie esthétique, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions plastiques en dehors de la chirurgie esthétique, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3351</p>
+<td align="left" valign="top">
+<br/>3351 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C094</p>
+<td align="left" valign="top">
+<br/>09C094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions plastiques en dehors de la chirurgie esthétique, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions plastiques en dehors de la chirurgie esthétique, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3352</p>
+<td align="left" valign="top">
+<br/>3352 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C09J</p>
+<td align="left" valign="top">
+<br/>09C09J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3353</p>
+<td align="left" valign="top">
+<br/>3353 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C101</p>
+<td align="left" valign="top">
+<br/>09C101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3354</p>
+<td align="left" valign="top">
+<br/>3354 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C102</p>
+<td align="left" valign="top">
+<br/>09C102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3355</p>
+<td align="left" valign="top">
+<br/>3355 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C103</p>
+<td align="left" valign="top">
+<br/>09C103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3356</p>
+<td align="left" valign="top">
+<br/>3356 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C104</p>
+<td align="left" valign="top">
+<br/>09C104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3357</p>
+<td align="left" valign="top">
+<br/>3357 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09C10J</p>
+<td align="left" valign="top">
+<br/>09C10J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3358</p>
+<td align="left" valign="top">
+<p align="left">3362 </p>
 </td>
-<td>
-<br/>
-<p align="center">09C111</p>
+<td align="left" valign="top">
+<p align="left">09C111</p>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 1</p>
+<td align="left" valign="top">
+<p align="left">Reconstructions des seins, niveau 1. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3362</p>
+<td align="left" valign="top">
+<br/>3358 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 1</p>
+<td align="left" valign="top">
+<br/>Reconstructions des seins, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3359</p>
+<td align="left" valign="top">
+<p align="left">3363 </p>
 </td>
-<td>
-<br/>
-<p align="center">09C112</p>
+<td align="left" valign="top">
+<p align="left">09C112 </p>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 2</p>
+<td align="left" valign="top">
+<p align="left">Reconstructions des seins, niveau 2. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3363</p>
+<td align="left" valign="top">
+<br/>3359 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 2</p>
+<td align="left" valign="top">
+<br/>Reconstructions des seins, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3360</p>
+<td align="left" valign="top">
+<p align="left">3364 </p>
 </td>
-<td>
-<br/>
-<p align="center">09C113</p>
+<td align="left" valign="top">
+<p align="left">09C113 </p>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 3</p>
+<td align="left" valign="top">
+<p align="left">Reconstructions des seins, niveau 3. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3364</p>
+<td align="left" valign="top">
+<br/>3360 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 3</p>
+<td align="left" valign="top">
+<br/>Reconstructions des seins, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3361</p>
+<td align="left" valign="top">
+<p align="left">3365 </p>
 </td>
-<td>
-<br/>
-<p align="center">09C114</p>
+<td align="left" valign="top">
+<p align="left">09C114 </p>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 4</p>
+<td align="left" valign="top">
+<p align="left">Reconstructions des seins, niveau 4. </p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3365</p>
+<td align="left" valign="top">
+<br/>3361 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Reconstructions des seins, niveau 4</p>
+<td align="left" valign="top">
+<br/>Reconstructions des seins, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3514</p>
+<td align="left" valign="top">
+<br/>3514 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09K02J</p>
+<td align="left" valign="top">
+<br/>09K02J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3515</p>
+<td align="left" valign="top">
+<br/>3515 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M021</p>
+<td align="left" valign="top">
+<br/>09M021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3516</p>
+<td align="left" valign="top">
+<br/>3516 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M022</p>
+<td align="left" valign="top">
+<br/>09M022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3517</p>
+<td align="left" valign="top">
+<br/>3517 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M023</p>
+<td align="left" valign="top">
+<br/>09M023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3518</p>
+<td align="left" valign="top">
+<br/>3518 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M024</p>
+<td align="left" valign="top">
+<br/>09M024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3519</p>
+<td align="left" valign="top">
+<br/>3519 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M02T</p>
+<td align="left" valign="top">
+<br/>09M02T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3520</p>
+<td align="left" valign="top">
+<br/>3520 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M031</p>
+<td align="left" valign="top">
+<br/>09M031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3521</p>
+<td align="left" valign="top">
+<br/>3521 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M032</p>
+<td align="left" valign="top">
+<br/>09M032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3522</p>
+<td align="left" valign="top">
+<br/>3522 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M033</p>
+<td align="left" valign="top">
+<br/>09M033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3523</p>
+<td align="left" valign="top">
+<br/>3523 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M034</p>
+<td align="left" valign="top">
+<br/>09M034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3524</p>
+<td align="left" valign="top">
+<br/>3524 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M03T</p>
+<td align="left" valign="top">
+<br/>09M03T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3525</p>
+<td align="left" valign="top">
+<br/>3525 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M041</p>
+<td align="left" valign="top">
+<br/>09M041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3526</p>
+<td align="left" valign="top">
+<br/>3526 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M042</p>
+<td align="left" valign="top">
+<br/>09M042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3527</p>
+<td align="left" valign="top">
+<br/>3527 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M043</p>
+<td align="left" valign="top">
+<br/>09M043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3528</p>
+<td align="left" valign="top">
+<br/>3528 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M044</p>
+<td align="left" valign="top">
+<br/>09M044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3529</p>
+<td align="left" valign="top">
+<br/>3529 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M04T</p>
+<td align="left" valign="top">
+<br/>09M04T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3530</p>
+<td align="left" valign="top">
+<br/>3530 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M051</p>
+<td align="left" valign="top">
+<br/>09M051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3531</p>
+<td align="left" valign="top">
+<br/>3531 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M052</p>
+<td align="left" valign="top">
+<br/>09M052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3532</p>
+<td align="left" valign="top">
+<br/>3532 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M053</p>
+<td align="left" valign="top">
+<br/>09M053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3533</p>
+<td align="left" valign="top">
+<br/>3533 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M054</p>
+<td align="left" valign="top">
+<br/>09M054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3534</p>
+<td align="left" valign="top">
+<br/>3534 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M05T</p>
+<td align="left" valign="top">
+<br/>09M05T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3535</p>
+<td align="left" valign="top">
+<br/>3535 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M061</p>
+<td align="left" valign="top">
+<br/>09M061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Ulcères cutanés, niveau 1</p>
+<td align="left" valign="top">
+<br/>Ulcères cutanés, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3536</p>
+<td align="left" valign="top">
+<br/>3536 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M062</p>
+<td align="left" valign="top">
+<br/>09M062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Ulcères cutanés, niveau 2</p>
+<td align="left" valign="top">
+<br/>Ulcères cutanés, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3537</p>
+<td align="left" valign="top">
+<br/>3537 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M063</p>
+<td align="left" valign="top">
+<br/>09M063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Ulcères cutanés, niveau 3</p>
+<td align="left" valign="top">
+<br/>Ulcères cutanés, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3538</p>
+<td align="left" valign="top">
+<br/>3538 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M064</p>
+<td align="left" valign="top">
+<br/>09M064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Ulcères cutanés, niveau 4</p>
+<td align="left" valign="top">
+<br/>Ulcères cutanés, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3539</p>
+<td align="left" valign="top">
+<br/>3539 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M06T</p>
+<td align="left" valign="top">
+<br/>09M06T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Ulcères cutanés, très courte durée</p>
+<td align="left" valign="top">
+<br/>Ulcères cutanés, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3540</p>
+<td align="left" valign="top">
+<br/>3540 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M071</p>
+<td align="left" valign="top">
+<br/>09M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections dermatologiques, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections dermatologiques, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3541</p>
+<td align="left" valign="top">
+<br/>3541 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M072</p>
+<td align="left" valign="top">
+<br/>09M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections dermatologiques, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections dermatologiques, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3542</p>
+<td align="left" valign="top">
+<br/>3542 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M073</p>
+<td align="left" valign="top">
+<br/>09M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections dermatologiques, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections dermatologiques, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3543</p>
+<td align="left" valign="top">
+<br/>3543 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M074</p>
+<td align="left" valign="top">
+<br/>09M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections dermatologiques, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections dermatologiques, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3544</p>
+<td align="left" valign="top">
+<br/>3544 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M07T</p>
+<td align="left" valign="top">
+<br/>09M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections dermatologiques, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections dermatologiques, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3545</p>
+<td align="left" valign="top">
+<br/>3545 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M081</p>
+<td align="left" valign="top">
+<br/>09M081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections dermatologiques sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Affections dermatologiques sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3546</p>
+<td align="left" valign="top">
+<br/>3546 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M082</p>
+<td align="left" valign="top">
+<br/>09M082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections dermatologiques sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Affections dermatologiques sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3547</p>
+<td align="left" valign="top">
+<br/>3547 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M083</p>
+<td align="left" valign="top">
+<br/>09M083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections dermatologiques sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Affections dermatologiques sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3548</p>
+<td align="left" valign="top">
+<br/>3548 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M084</p>
+<td align="left" valign="top">
+<br/>09M084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections dermatologiques sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Affections dermatologiques sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3549</p>
+<td align="left" valign="top">
+<br/>3549 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M08T</p>
+<td align="left" valign="top">
+<br/>09M08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections dermatologiques sévères, très courte durée</p>
+<td align="left" valign="top">
+<br/>Affections dermatologiques sévères, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3550</p>
+<td align="left" valign="top">
+<br/>3550 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M091</p>
+<td align="left" valign="top">
+<br/>09M091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections non malignes des seins, niveau 1</p>
+<td align="left" valign="top">
+<br/>Affections non malignes des seins, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3551</p>
+<td align="left" valign="top">
+<br/>3551 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M092</p>
+<td align="left" valign="top">
+<br/>09M092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections non malignes des seins, niveau 2</p>
+<td align="left" valign="top">
+<br/>Affections non malignes des seins, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3552</p>
+<td align="left" valign="top">
+<br/>3552 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M093</p>
+<td align="left" valign="top">
+<br/>09M093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections non malignes des seins, niveau 3</p>
+<td align="left" valign="top">
+<br/>Affections non malignes des seins, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3553</p>
+<td align="left" valign="top">
+<br/>3553 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M094</p>
+<td align="left" valign="top">
+<br/>09M094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections non malignes des seins, niveau 4</p>
+<td align="left" valign="top">
+<br/>Affections non malignes des seins, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3554</p>
+<td align="left" valign="top">
+<br/>3554 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M09T</p>
+<td align="left" valign="top">
+<br/>09M09T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Affections non malignes des seins, très courte durée</p>
+<td align="left" valign="top">
+<br/>Affections non malignes des seins, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3555</p>
+<td align="left" valign="top">
+<br/>3555 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M101</p>
+<td align="left" valign="top">
+<br/>09M101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes des seins, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes des seins, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3556</p>
+<td align="left" valign="top">
+<br/>3556 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M102</p>
+<td align="left" valign="top">
+<br/>09M102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes des seins, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes des seins, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3557</p>
+<td align="left" valign="top">
+<br/>3557 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M103</p>
+<td align="left" valign="top">
+<br/>09M103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes des seins, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes des seins, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3558</p>
+<td align="left" valign="top">
+<br/>3558 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M104</p>
+<td align="left" valign="top">
+<br/>09M104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes des seins, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes des seins, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3567</p>
+<td align="left" valign="top">
+<br/>3567 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M10T</p>
+<td align="left" valign="top">
+<br/>09M10T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes des seins, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes des seins, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3559</p>
+<td align="left" valign="top">
+<br/>3559 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M111</p>
+<td align="left" valign="top">
+<br/>09M111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs de la peau, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs de la peau, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3560</p>
+<td align="left" valign="top">
+<br/>3560 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M112</p>
+<td align="left" valign="top">
+<br/>09M112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs de la peau, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs de la peau, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3561</p>
+<td align="left" valign="top">
+<br/>3561 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M113</p>
+<td align="left" valign="top">
+<br/>09M113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs de la peau, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs de la peau, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3562</p>
+<td align="left" valign="top">
+<br/>3562 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M114</p>
+<td align="left" valign="top">
+<br/>09M114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs de la peau, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs de la peau, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3568</p>
+<td align="left" valign="top">
+<br/>3568 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M11T</p>
+<td align="left" valign="top">
+<br/>09M11T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs de la peau, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs de la peau, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3563</p>
+<td align="left" valign="top">
+<br/>3563 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M12Z</p>
+<td align="left" valign="top">
+<br/>09M12Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance des affections de la peau</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance des affections de la peau. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3564</p>
+<td align="left" valign="top">
+<br/>3564 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M13Z</p>
+<td align="left" valign="top">
+<br/>09M13Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance des affections des seins</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance des affections des seins. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3569</p>
+<td align="left" valign="top">
+<br/>3569 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M14T</p>
+<td align="left" valign="top">
+<br/>09M14T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins concernant les affections de la peau, très courte durée</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins concernant les affections de la peau, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3565</p>
+<td align="left" valign="top">
+<br/>3565 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M14Z</p>
+<td align="left" valign="top">
+<br/>09M14Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins concernant les affections de la peau</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins concernant les affections de la peau. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3566</p>
+<td align="left" valign="top">
+<br/>3566 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09M15Z</p>
+<td align="left" valign="top">
+<br/>09M15Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins concernant les affections des seins</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins concernant les affections des seins. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">9999</p>
+<td align="left" valign="top">
+<br/>9999 <br/>
 </td>
-<td>
-<br/>
-<p align="center">09Z02Z</p>
+<td align="left" valign="top">
+<br/>09Z02Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Chirurgie esthétique</p>
+<td align="left" valign="top">
+<br/>Chirurgie esthétique. <br/>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">3717</p>
+<td align="left" valign="top">
+<br/>3717 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C021</p>
+<td align="left" valign="top">
+<br/>10C021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'hypophyse, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'hypophyse, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3718</p>
+<td align="left" valign="top">
+<br/>3718 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C022</p>
+<td align="left" valign="top">
+<br/>10C022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'hypophyse, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'hypophyse, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3719</p>
+<td align="left" valign="top">
+<br/>3719 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C023</p>
+<td align="left" valign="top">
+<br/>10C023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'hypophyse, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'hypophyse, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3720</p>
+<td align="left" valign="top">
+<br/>3720 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C024</p>
+<td align="left" valign="top">
+<br/>10C024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'hypophyse, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'hypophyse, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3721</p>
+<td align="left" valign="top">
+<br/>3721 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C031</p>
+<td align="left" valign="top">
+<br/>10C031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les glandes surrénales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les glandes surrénales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3722</p>
+<td align="left" valign="top">
+<br/>3722 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C032</p>
+<td align="left" valign="top">
+<br/>10C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les glandes surrénales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les glandes surrénales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3723</p>
+<td align="left" valign="top">
+<br/>3723 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C033</p>
+<td align="left" valign="top">
+<br/>10C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les glandes surrénales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les glandes surrénales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3724</p>
+<td align="left" valign="top">
+<br/>3724 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C034</p>
+<td align="left" valign="top">
+<br/>10C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les glandes surrénales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les glandes surrénales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3725</p>
+<td align="left" valign="top">
+<br/>3725 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C051</p>
+<td align="left" valign="top">
+<br/>10C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les parathyroïdes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les parathyroïdes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3726</p>
+<td align="left" valign="top">
+<br/>3726 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C052</p>
+<td align="left" valign="top">
+<br/>10C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les parathyroïdes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les parathyroïdes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3727</p>
+<td align="left" valign="top">
+<br/>3727 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C053</p>
+<td align="left" valign="top">
+<br/>10C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les parathyroïdes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les parathyroïdes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3728</p>
+<td align="left" valign="top">
+<br/>3728 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C054</p>
+<td align="left" valign="top">
+<br/>10C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les parathyroïdes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les parathyroïdes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3729</p>
+<td align="left" valign="top">
+<br/>3729 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C071</p>
+<td align="left" valign="top">
+<br/>10C071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le tractus thyréoglosse, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le tractus thyréoglosse, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3730</p>
+<td align="left" valign="top">
+<br/>3730 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C072</p>
+<td align="left" valign="top">
+<br/>10C072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le tractus thyréoglosse, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le tractus thyréoglosse, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3731</p>
+<td align="left" valign="top">
+<br/>3731 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C073</p>
+<td align="left" valign="top">
+<br/>10C073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le tractus thyréoglosse, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le tractus thyréoglosse, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3732</p>
+<td align="left" valign="top">
+<br/>3732 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C074</p>
+<td align="left" valign="top">
+<br/>10C074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le tractus thyréoglosse, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le tractus thyréoglosse, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3733</p>
+<td align="left" valign="top">
+<br/>3733 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C081</p>
+<td align="left" valign="top">
+<br/>10C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3734</p>
+<td align="left" valign="top">
+<br/>3734 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C082</p>
+<td align="left" valign="top">
+<br/>10C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3735</p>
+<td align="left" valign="top">
+<br/>3735 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C083</p>
+<td align="left" valign="top">
+<br/>10C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3736</p>
+<td align="left" valign="top">
+<br/>3736 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C084</p>
+<td align="left" valign="top">
+<br/>10C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3737</p>
+<td align="left" valign="top">
+<br/>3737 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C08J</p>
+<td align="left" valign="top">
+<br/>10C08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour troubles endocriniens, métaboliques ou nutritionnels, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3738</p>
+<td align="left" valign="top">
+<br/>3738 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C091</p>
+<td align="left" valign="top">
+<br/>10C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Gastroplasties pour obésité, niveau 1</p>
+<td align="left" valign="top">
+<br/>Gastroplasties pour obésité, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3739</p>
+<td align="left" valign="top">
+<br/>3739 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C092</p>
+<td align="left" valign="top">
+<br/>10C092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Gastroplasties pour obésité, niveau 2</p>
+<td align="left" valign="top">
+<br/>Gastroplasties pour obésité, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3740</p>
+<td align="left" valign="top">
+<br/>3740 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C093</p>
+<td align="left" valign="top">
+<br/>10C093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Gastroplasties pour obésité, niveau 3</p>
+<td align="left" valign="top">
+<br/>Gastroplasties pour obésité, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3741</p>
+<td align="left" valign="top">
+<br/>3741 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C094</p>
+<td align="left" valign="top">
+<br/>10C094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Gastroplasties pour obésité, niveau 4</p>
+<td align="left" valign="top">
+<br/>Gastroplasties pour obésité, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3742</p>
+<td align="left" valign="top">
+<br/>3742 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C101</p>
+<td align="left" valign="top">
+<br/>10C101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour obésité, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour obésité, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3743</p>
+<td align="left" valign="top">
+<br/>3743 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C102</p>
+<td align="left" valign="top">
+<br/>10C102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour obésité, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour obésité, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3744</p>
+<td align="left" valign="top">
+<br/>3744 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C103</p>
+<td align="left" valign="top">
+<br/>10C103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour obésité, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour obésité, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3745</p>
+<td align="left" valign="top">
+<br/>3745 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C104</p>
+<td align="left" valign="top">
+<br/>10C104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour obésité, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour obésité, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3746</p>
+<td align="left" valign="top">
+<br/>3746 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C111</p>
+<td align="left" valign="top">
+<br/>10C111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour tumeurs malignes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour tumeurs malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3747</p>
+<td align="left" valign="top">
+<br/>3747 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C112</p>
+<td align="left" valign="top">
+<br/>10C112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour tumeurs malignes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour tumeurs malignes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3748</p>
+<td align="left" valign="top">
+<br/>3748 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C113</p>
+<td align="left" valign="top">
+<br/>10C113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour tumeurs malignes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour tumeurs malignes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3749</p>
+<td align="left" valign="top">
+<br/>3749 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C114</p>
+<td align="left" valign="top">
+<br/>10C114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour tumeurs malignes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour tumeurs malignes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3750</p>
+<td align="left" valign="top">
+<br/>3750 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C121</p>
+<td align="left" valign="top">
+<br/>10C121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour affections non malignes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour affections non malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3751</p>
+<td align="left" valign="top">
+<br/>3751 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C122</p>
+<td align="left" valign="top">
+<br/>10C122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour affections non malignes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour affections non malignes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3752</p>
+<td align="left" valign="top">
+<br/>3752 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C123</p>
+<td align="left" valign="top">
+<br/>10C123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour affections non malignes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour affections non malignes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3753</p>
+<td align="left" valign="top">
+<br/>3753 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C124</p>
+<td align="left" valign="top">
+<br/>10C124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur la thyroïde pour affections non malignes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur la thyroïde pour affections non malignes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3754</p>
+<td align="left" valign="top">
+<br/>3754 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C131</p>
+<td align="left" valign="top">
+<br/>10C131 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions digestives autres que les gastroplasties, pour obésité, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions digestives autres que les gastroplasties, pour obésité, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3755</p>
+<td align="left" valign="top">
+<br/>3755 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C132</p>
+<td align="left" valign="top">
+<br/>10C132 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions digestives autres que les gastroplasties, pour obésité, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions digestives autres que les gastroplasties, pour obésité, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3756</p>
+<td align="left" valign="top">
+<br/>3756 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C133</p>
+<td align="left" valign="top">
+<br/>10C133 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions digestives autres que les gastroplasties, pour obésité, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions digestives autres que les gastroplasties, pour obésité, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3757</p>
+<td align="left" valign="top">
+<br/>3757 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10C134</p>
+<td align="left" valign="top">
+<br/>10C134 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions digestives autres que les gastroplasties, pour obésité, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions digestives autres que les gastroplasties, pour obésité, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3911</p>
+<td align="left" valign="top">
+<br/>3911 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M021</p>
+<td align="left" valign="top">
+<br/>10M021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge supérieur à 35 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Diabète, âge supérieur à 35 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3912</p>
+<td align="left" valign="top">
+<br/>3912 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M022</p>
+<td align="left" valign="top">
+<br/>10M022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge supérieur à 35 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Diabète, âge supérieur à 35 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3913</p>
+<td align="left" valign="top">
+<br/>3913 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M023</p>
+<td align="left" valign="top">
+<br/>10M023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge supérieur à 35 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Diabète, âge supérieur à 35 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3914</p>
+<td align="left" valign="top">
+<br/>3914 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M024</p>
+<td align="left" valign="top">
+<br/>10M024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge supérieur à 35 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Diabète, âge supérieur à 35 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3915</p>
+<td align="left" valign="top">
+<br/>3915 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M02T</p>
+<td align="left" valign="top">
+<br/>10M02T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge supérieur à 35 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Diabète, âge supérieur à 35 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3916</p>
+<td align="left" valign="top">
+<br/>3916 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M031</p>
+<td align="left" valign="top">
+<br/>10M031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge inférieur à 36 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Diabète, âge inférieur à 36 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3917</p>
+<td align="left" valign="top">
+<br/>3917 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M032</p>
+<td align="left" valign="top">
+<br/>10M032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge inférieur à 36 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Diabète, âge inférieur à 36 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3918</p>
+<td align="left" valign="top">
+<br/>3918 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M033</p>
+<td align="left" valign="top">
+<br/>10M033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge inférieur à 36 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Diabète, âge inférieur à 36 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3919</p>
+<td align="left" valign="top">
+<br/>3919 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M034</p>
+<td align="left" valign="top">
+<br/>10M034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge inférieur à 36 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Diabète, âge inférieur à 36 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3920</p>
+<td align="left" valign="top">
+<br/>3920 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M03T</p>
+<td align="left" valign="top">
+<br/>10M03T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Diabète, âge inférieur à 36 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Diabète, âge inférieur à 36 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3921</p>
+<td align="left" valign="top">
+<br/>3921 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M071</p>
+<td align="left" valign="top">
+<br/>10M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres troubles endocriniens, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres troubles endocriniens, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3922</p>
+<td align="left" valign="top">
+<br/>3922 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M072</p>
+<td align="left" valign="top">
+<br/>10M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres troubles endocriniens, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres troubles endocriniens, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3923</p>
+<td align="left" valign="top">
+<br/>3923 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M073</p>
+<td align="left" valign="top">
+<br/>10M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres troubles endocriniens, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres troubles endocriniens, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3924</p>
+<td align="left" valign="top">
+<br/>3924 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M074</p>
+<td align="left" valign="top">
+<br/>10M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres troubles endocriniens, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres troubles endocriniens, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3925</p>
+<td align="left" valign="top">
+<br/>3925 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M07T</p>
+<td align="left" valign="top">
+<br/>10M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres troubles endocriniens, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres troubles endocriniens, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3926</p>
+<td align="left" valign="top">
+<br/>3926 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M081</p>
+<td align="left" valign="top">
+<br/>10M081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Acidocétose et coma diabétique, niveau 1</p>
+<td align="left" valign="top">
+<br/>Acidocétose et coma diabétique, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3927</p>
+<td align="left" valign="top">
+<br/>3927 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M082</p>
+<td align="left" valign="top">
+<br/>10M082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Acidocétose et coma diabétique, niveau 2</p>
+<td align="left" valign="top">
+<br/>Acidocétose et coma diabétique, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3928</p>
+<td align="left" valign="top">
+<br/>3928 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M083</p>
+<td align="left" valign="top">
+<br/>10M083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Acidocétose et coma diabétique, niveau 3</p>
+<td align="left" valign="top">
+<br/>Acidocétose et coma diabétique, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3929</p>
+<td align="left" valign="top">
+<br/>3929 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M084</p>
+<td align="left" valign="top">
+<br/>10M084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Acidocétose et coma diabétique, niveau 4</p>
+<td align="left" valign="top">
+<br/>Acidocétose et coma diabétique, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3930</p>
+<td align="left" valign="top">
+<br/>3930 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M08T</p>
+<td align="left" valign="top">
+<br/>10M08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Acidocétose et coma diabétique, très courte durée</p>
+<td align="left" valign="top">
+<br/>Acidocétose et coma diabétique, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3931</p>
+<td align="left" valign="top">
+<br/>3931 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M091</p>
+<td align="left" valign="top">
+<br/>10M091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Obésité, niveau 1</p>
+<td align="left" valign="top">
+<br/>Obésité, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3932</p>
+<td align="left" valign="top">
+<br/>3932 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M092</p>
+<td align="left" valign="top">
+<br/>10M092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Obésité, niveau 2</p>
+<td align="left" valign="top">
+<br/>Obésité, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3933</p>
+<td align="left" valign="top">
+<br/>3933 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M093</p>
+<td align="left" valign="top">
+<br/>10M093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Obésité, niveau 3</p>
+<td align="left" valign="top">
+<br/>Obésité, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3934</p>
+<td align="left" valign="top">
+<br/>3934 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M094</p>
+<td align="left" valign="top">
+<br/>10M094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Obésité, niveau 4</p>
+<td align="left" valign="top">
+<br/>Obésité, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3935</p>
+<td align="left" valign="top">
+<br/>3935 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M09T</p>
+<td align="left" valign="top">
+<br/>10M09T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Obésité, très courte durée</p>
+<td align="left" valign="top">
+<br/>Obésité, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3936</p>
+<td align="left" valign="top">
+<br/>3936 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M101</p>
+<td align="left" valign="top">
+<br/>10M101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies métaboliques congénitales sévères, niveau 1</p>
+<td align="left" valign="top">
+<br/>Maladies métaboliques congénitales sévères, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3937</p>
+<td align="left" valign="top">
+<br/>3937 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M102</p>
+<td align="left" valign="top">
+<br/>10M102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies métaboliques congénitales sévères, niveau 2</p>
+<td align="left" valign="top">
+<br/>Maladies métaboliques congénitales sévères, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3938</p>
+<td align="left" valign="top">
+<br/>3938 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M103</p>
+<td align="left" valign="top">
+<br/>10M103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies métaboliques congénitales sévères, niveau 3</p>
+<td align="left" valign="top">
+<br/>Maladies métaboliques congénitales sévères, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3939</p>
+<td align="left" valign="top">
+<br/>3939 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M104</p>
+<td align="left" valign="top">
+<br/>10M104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies métaboliques congénitales sévères, niveau 4</p>
+<td align="left" valign="top">
+<br/>Maladies métaboliques congénitales sévères, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3940</p>
+<td align="left" valign="top">
+<br/>3940 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M10T</p>
+<td align="left" valign="top">
+<br/>10M10T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Maladies métaboliques congénitales sévères, très courte durée</p>
+<td align="left" valign="top">
+<br/>Maladies métaboliques congénitales sévères, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3941</p>
+<td align="left" valign="top">
+<br/>3941 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M111</p>
+<td align="left" valign="top">
+<br/>10M111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies métaboliques congénitales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres maladies métaboliques congénitales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3942</p>
+<td align="left" valign="top">
+<br/>3942 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M112</p>
+<td align="left" valign="top">
+<br/>10M112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies métaboliques congénitales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres maladies métaboliques congénitales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3943</p>
+<td align="left" valign="top">
+<br/>3943 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M113</p>
+<td align="left" valign="top">
+<br/>10M113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies métaboliques congénitales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres maladies métaboliques congénitales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3944</p>
+<td align="left" valign="top">
+<br/>3944 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M114</p>
+<td align="left" valign="top">
+<br/>10M114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies métaboliques congénitales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres maladies métaboliques congénitales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3972</p>
+<td align="left" valign="top">
+<br/>3972 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M11T</p>
+<td align="left" valign="top">
+<br/>10M11T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres maladies métaboliques congénitales, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres maladies métaboliques congénitales, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3945</p>
+<td align="left" valign="top">
+<br/>3945 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M121</p>
+<td align="left" valign="top">
+<br/>10M121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des glandes endocrines, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs des glandes endocrines, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3946</p>
+<td align="left" valign="top">
+<br/>3946 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M122</p>
+<td align="left" valign="top">
+<br/>10M122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des glandes endocrines, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs des glandes endocrines, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3947</p>
+<td align="left" valign="top">
+<br/>3947 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M123</p>
+<td align="left" valign="top">
+<br/>10M123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des glandes endocrines, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs des glandes endocrines, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3948</p>
+<td align="left" valign="top">
+<br/>3948 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M124</p>
+<td align="left" valign="top">
+<br/>10M124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des glandes endocrines, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs des glandes endocrines, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3949</p>
+<td align="left" valign="top">
+<br/>3949 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M12T</p>
+<td align="left" valign="top">
+<br/>10M12T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des glandes endocrines, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs des glandes endocrines, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3950</p>
+<td align="left" valign="top">
+<br/>3950 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M13Z</p>
+<td align="left" valign="top">
+<br/>10M13Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance pour affections endocriniennes et métaboliques</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance pour affections endocriniennes et métaboliques. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3973</p>
+<td align="left" valign="top">
+<br/>3973 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M14T</p>
+<td align="left" valign="top">
+<br/>10M14T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 10, très courte durée</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 10, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3951</p>
+<td align="left" valign="top">
+<br/>3951 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M14Z</p>
+<td align="left" valign="top">
+<br/>10M14Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 10</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 10.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3952</p>
+<td align="left" valign="top">
+<br/>3952 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M151</p>
+<td align="left" valign="top">
+<br/>10M151 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3953</p>
+<td align="left" valign="top">
+<br/>3953 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M152</p>
+<td align="left" valign="top">
+<br/>10M152 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3954</p>
+<td align="left" valign="top">
+<br/>3954 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M153</p>
+<td align="left" valign="top">
+<br/>10M153 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3955</p>
+<td align="left" valign="top">
+<br/>3955 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M154</p>
+<td align="left" valign="top">
+<br/>10M154 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3956</p>
+<td align="left" valign="top">
+<br/>3956 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M15T</p>
+<td align="left" valign="top">
+<br/>10M15T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3957</p>
+<td align="left" valign="top">
+<br/>3957 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M161</p>
+<td align="left" valign="top">
+<br/>10M161 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3958</p>
+<td align="left" valign="top">
+<br/>3958 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M162</p>
+<td align="left" valign="top">
+<br/>10M162 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3959</p>
+<td align="left" valign="top">
+<br/>3959 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M163</p>
+<td align="left" valign="top">
+<br/>10M163 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3960</p>
+<td align="left" valign="top">
+<br/>3960 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M164</p>
+<td align="left" valign="top">
+<br/>10M164 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3961</p>
+<td align="left" valign="top">
+<br/>3961 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M16T</p>
+<td align="left" valign="top">
+<br/>10M16T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles métaboliques, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Troubles métaboliques, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3962</p>
+<td align="left" valign="top">
+<br/>3962 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M171</p>
+<td align="left" valign="top">
+<br/>10M171 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3963</p>
+<td align="left" valign="top">
+<br/>3963 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M172</p>
+<td align="left" valign="top">
+<br/>10M172 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3964</p>
+<td align="left" valign="top">
+<br/>3964 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M173</p>
+<td align="left" valign="top">
+<br/>10M173 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3965</p>
+<td align="left" valign="top">
+<br/>3965 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M174</p>
+<td align="left" valign="top">
+<br/>10M174 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3966</p>
+<td align="left" valign="top">
+<br/>3966 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M17T</p>
+<td align="left" valign="top">
+<br/>10M17T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3967</p>
+<td align="left" valign="top">
+<br/>3967 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M181</p>
+<td align="left" valign="top">
+<br/>10M181 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3968</p>
+<td align="left" valign="top">
+<br/>3968 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M182</p>
+<td align="left" valign="top">
+<br/>10M182 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3969</p>
+<td align="left" valign="top">
+<br/>3969 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M183</p>
+<td align="left" valign="top">
+<br/>10M183 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3970</p>
+<td align="left" valign="top">
+<br/>3970 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M184</p>
+<td align="left" valign="top">
+<br/>10M184 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">3971</p>
+<td align="left" valign="top">
+<br/>3971 <br/>
 </td>
-<td>
-<br/>
-<p align="center">10M18T</p>
+<td align="left" valign="top">
+<br/>10M18T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">4112</p>
+<td align="left" valign="top">
+<br/>4112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C021</p>
+<td align="left" valign="top">
+<br/>11C021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4113</p>
+<td align="left" valign="top">
+<br/>4113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C022</p>
+<td align="left" valign="top">
+<br/>11C022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4114</p>
+<td align="left" valign="top">
+<br/>4114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C023</p>
+<td align="left" valign="top">
+<br/>11C023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4115</p>
+<td align="left" valign="top">
+<br/>4115 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C024</p>
+<td align="left" valign="top">
+<br/>11C024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection tumorale, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4116</p>
+<td align="left" valign="top">
+<br/>4116 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C031</p>
+<td align="left" valign="top">
+<br/>11C031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4117</p>
+<td align="left" valign="top">
+<br/>4117 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C032</p>
+<td align="left" valign="top">
+<br/>11C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4118</p>
+<td align="left" valign="top">
+<br/>4118 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C033</p>
+<td align="left" valign="top">
+<br/>11C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4119</p>
+<td align="left" valign="top">
+<br/>4119 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C034</p>
+<td align="left" valign="top">
+<br/>11C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4120</p>
+<td align="left" valign="top">
+<br/>4120 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C041</p>
+<td align="left" valign="top">
+<br/>11C041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4121</p>
+<td align="left" valign="top">
+<br/>4121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C042</p>
+<td align="left" valign="top">
+<br/>11C042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4122</p>
+<td align="left" valign="top">
+<br/>4122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C043</p>
+<td align="left" valign="top">
+<br/>11C043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4123</p>
+<td align="left" valign="top">
+<br/>4123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C044</p>
+<td align="left" valign="top">
+<br/>11C044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4124</p>
+<td align="left" valign="top">
+<br/>4124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C04J</p>
+<td align="left" valign="top">
+<br/>11C04J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur la vessie à l'exception des interventions transurétrales, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur la vessie à l'exception des interventions transurétrales, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4125</p>
+<td align="left" valign="top">
+<br/>4125 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C051</p>
+<td align="left" valign="top">
+<br/>11C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions transurétrales ou par voie transcutanée, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions transurétrales ou par voie transcutanée, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4126</p>
+<td align="left" valign="top">
+<br/>4126 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C052</p>
+<td align="left" valign="top">
+<br/>11C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions transurétrales ou par voie transcutanée, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions transurétrales ou par voie transcutanée, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4127</p>
+<td align="left" valign="top">
+<br/>4127 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C053</p>
+<td align="left" valign="top">
+<br/>11C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions transurétrales ou par voie transcutanée, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions transurétrales ou par voie transcutanée, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4128</p>
+<td align="left" valign="top">
+<br/>4128 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C054</p>
+<td align="left" valign="top">
+<br/>11C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions transurétrales ou par voie transcutanée, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions transurétrales ou par voie transcutanée, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4129</p>
+<td align="left" valign="top">
+<br/>4129 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C05J</p>
+<td align="left" valign="top">
+<br/>11C05J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions transurétrales ou par voie transcutanée, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions transurétrales ou par voie transcutanée, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4130</p>
+<td align="left" valign="top">
+<br/>4130 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C061</p>
+<td align="left" valign="top">
+<br/>11C061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4131</p>
+<td align="left" valign="top">
+<br/>4131 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C062</p>
+<td align="left" valign="top">
+<br/>11C062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4132</p>
+<td align="left" valign="top">
+<br/>4132 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C063</p>
+<td align="left" valign="top">
+<br/>11C063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4133</p>
+<td align="left" valign="top">
+<br/>4133 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C064</p>
+<td align="left" valign="top">
+<br/>11C064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4134</p>
+<td align="left" valign="top">
+<br/>4134 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C071</p>
+<td align="left" valign="top">
+<br/>11C071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4135</p>
+<td align="left" valign="top">
+<br/>4135 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C072</p>
+<td align="left" valign="top">
+<br/>11C072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4136</p>
+<td align="left" valign="top">
+<br/>4136 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C073</p>
+<td align="left" valign="top">
+<br/>11C073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4137</p>
+<td align="left" valign="top">
+<br/>4137 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C074</p>
+<td align="left" valign="top">
+<br/>11C074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4138</p>
+<td align="left" valign="top">
+<br/>4138 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C07J</p>
+<td align="left" valign="top">
+<br/>11C07J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur l'urètre, âge supérieur à 17 ans, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur l'urètre, âge supérieur à 17 ans, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4139</p>
+<td align="left" valign="top">
+<br/>4139 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C081</p>
+<td align="left" valign="top">
+<br/>11C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur les reins et les voies urinaires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur les reins et les voies urinaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4140</p>
+<td align="left" valign="top">
+<br/>4140 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C082</p>
+<td align="left" valign="top">
+<br/>11C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur les reins et les voies urinaires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur les reins et les voies urinaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4141</p>
+<td align="left" valign="top">
+<br/>4141 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C083</p>
+<td align="left" valign="top">
+<br/>11C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur les reins et les voies urinaires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur les reins et les voies urinaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4142</p>
+<td align="left" valign="top">
+<br/>4142 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C084</p>
+<td align="left" valign="top">
+<br/>11C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur les reins et les voies urinaires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur les reins et les voies urinaires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4143</p>
+<td align="left" valign="top">
+<br/>4143 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C08T</p>
+<td align="left" valign="top">
+<br/>11C08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions sur les reins et les voies urinaires, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres interventions sur les reins et les voies urinaires, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4144</p>
+<td align="left" valign="top">
+<br/>4144 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C091</p>
+<td align="left" valign="top">
+<br/>11C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 1</p>
+<td align="left" valign="top">
+<br/>Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4145</p>
+<td align="left" valign="top">
+<br/>4145 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C092</p>
+<td align="left" valign="top">
+<br/>11C092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 2</p>
+<td align="left" valign="top">
+<br/>Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4146</p>
+<td align="left" valign="top">
+<br/>4146 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C093</p>
+<td align="left" valign="top">
+<br/>11C093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 3</p>
+<td align="left" valign="top">
+<br/>Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4147</p>
+<td align="left" valign="top">
+<br/>4147 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C094</p>
+<td align="left" valign="top">
+<br/>11C094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 4</p>
+<td align="left" valign="top">
+<br/>Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4148</p>
+<td align="left" valign="top">
+<br/>4148 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11C09J</p>
+<td align="left" valign="top">
+<br/>11C09J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Créations et réfections de fistules artérioveineuses pour affections de la CMD 11, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4273</p>
+<td align="left" valign="top">
+<br/>4273 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K021</p>
+<td align="left" valign="top">
+<br/>11K021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, avec dialyse, niveau 1</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, avec dialyse, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4274</p>
+<td align="left" valign="top">
+<br/>4274 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K022</p>
+<td align="left" valign="top">
+<br/>11K022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, avec dialyse, niveau 2</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, avec dialyse, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4275</p>
+<td align="left" valign="top">
+<br/>4275 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K023</p>
+<td align="left" valign="top">
+<br/>11K023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, avec dialyse, niveau 3</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, avec dialyse, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4276</p>
+<td align="left" valign="top">
+<br/>4276 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K024</p>
+<td align="left" valign="top">
+<br/>11K024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, avec dialyse, niveau 4</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, avec dialyse, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4277</p>
+<td align="left" valign="top">
+<br/>4277 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K02J</p>
+<td align="left" valign="top">
+<br/>11K02J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, avec dialyse, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, avec dialyse, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4278</p>
+<td align="left" valign="top">
+<br/>4278 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K03Z</p>
+<td align="left" valign="top">
+<br/>11K03Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4279</p>
+<td align="left" valign="top">
+<br/>4279 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K04Z</p>
+<td align="left" valign="top">
+<br/>11K04Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Séjours de la CMD 11 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4280</p>
+<td align="left" valign="top">
+<br/>4280 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K05Z</p>
+<td align="left" valign="top">
+<br/>11K05Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 11 et de moins de 2 jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4281</p>
+<td align="left" valign="top">
+<br/>4281 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K06Z</p>
+<td align="left" valign="top">
+<br/>11K06Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sans anesthésie : séjours de moins de 2 jours</p>
+<td align="left" valign="top">
+<br/>Séjours de la CMD 11 comprenant une endoscopie génito-urinaire diagnostique sans anesthésie : séjours de moins de 2 jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4282</p>
+<td align="left" valign="top">
+<br/>4282 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K07Z</p>
+<td align="left" valign="top">
+<br/>11K07Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Séjours de la CMD 11 comprenant la mise en place de certains accès vasculaires, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4283</p>
+<td align="left" valign="top">
+<br/>4283 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11K08J</p>
+<td align="left" valign="top">
+<br/>11K08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Lithotritie extracorporelle de l'appareil urinaire, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4284</p>
+<td align="left" valign="top">
+<br/>4284 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M021</p>
+<td align="left" valign="top">
+<br/>11M021 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithiases urinaires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Lithiases urinaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4285</p>
+<td align="left" valign="top">
+<br/>4285 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M022</p>
+<td align="left" valign="top">
+<br/>11M022 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithiases urinaires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Lithiases urinaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4286</p>
+<td align="left" valign="top">
+<br/>4286 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M023</p>
+<td align="left" valign="top">
+<br/>11M023 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithiases urinaires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Lithiases urinaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4287</p>
+<td align="left" valign="top">
+<br/>4287 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M024</p>
+<td align="left" valign="top">
+<br/>11M024 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithiases urinaires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Lithiases urinaires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4342</p>
+<td align="left" valign="top">
+<br/>4342 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M02T</p>
+<td align="left" valign="top">
+<br/>11M02T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Lithiases urinaires, très courte durée</p>
+<td align="left" valign="top">
+<br/>Lithiases urinaires, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4288</p>
+<td align="left" valign="top">
+<br/>4288 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M031</p>
+<td align="left" valign="top">
+<br/>11M031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4289</p>
+<td align="left" valign="top">
+<br/>4289 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M032</p>
+<td align="left" valign="top">
+<br/>11M032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4290</p>
+<td align="left" valign="top">
+<br/>4290 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M033</p>
+<td align="left" valign="top">
+<br/>11M033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4291</p>
+<td align="left" valign="top">
+<br/>4291 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M034</p>
+<td align="left" valign="top">
+<br/>11M034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4292</p>
+<td align="left" valign="top">
+<br/>4292 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M03T</p>
+<td align="left" valign="top">
+<br/>11M03T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4293</p>
+<td align="left" valign="top">
+<br/>4293 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M041</p>
+<td align="left" valign="top">
+<br/>11M041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4294</p>
+<td align="left" valign="top">
+<br/>4294 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M042</p>
+<td align="left" valign="top">
+<br/>11M042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4295</p>
+<td align="left" valign="top">
+<br/>4295 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M043</p>
+<td align="left" valign="top">
+<br/>11M043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4296</p>
+<td align="left" valign="top">
+<br/>4296 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M044</p>
+<td align="left" valign="top">
+<br/>11M044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4297</p>
+<td align="left" valign="top">
+<br/>4297 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M04T</p>
+<td align="left" valign="top">
+<br/>11M04T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Infections des reins et des voies urinaires, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Infections des reins et des voies urinaires, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4298</p>
+<td align="left" valign="top">
+<br/>4298 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M061</p>
+<td align="left" valign="top">
+<br/>11M061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, sans dialyse, niveau 1</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, sans dialyse, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4299</p>
+<td align="left" valign="top">
+<br/>4299 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M062</p>
+<td align="left" valign="top">
+<br/>11M062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, sans dialyse, niveau 2</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, sans dialyse, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4300</p>
+<td align="left" valign="top">
+<br/>4300 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M063</p>
+<td align="left" valign="top">
+<br/>11M063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, sans dialyse, niveau 3</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, sans dialyse, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4301</p>
+<td align="left" valign="top">
+<br/>4301 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M064</p>
+<td align="left" valign="top">
+<br/>11M064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, sans dialyse, niveau 4</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, sans dialyse, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4302</p>
+<td align="left" valign="top">
+<br/>4302 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M06T</p>
+<td align="left" valign="top">
+<br/>11M06T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Insuffisance rénale, sans dialyse, très courte durée</p>
+<td align="left" valign="top">
+<br/>Insuffisance rénale, sans dialyse, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4303</p>
+<td align="left" valign="top">
+<br/>4303 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M071</p>
+<td align="left" valign="top">
+<br/>11M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des reins et des voies urinaires, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs des reins et des voies urinaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4304</p>
+<td align="left" valign="top">
+<br/>4304 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M072</p>
+<td align="left" valign="top">
+<br/>11M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des reins et des voies urinaires, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs des reins et des voies urinaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4305</p>
+<td align="left" valign="top">
+<br/>4305 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M073</p>
+<td align="left" valign="top">
+<br/>11M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des reins et des voies urinaires, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs des reins et des voies urinaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4306</p>
+<td align="left" valign="top">
+<br/>4306 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M074</p>
+<td align="left" valign="top">
+<br/>11M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des reins et des voies urinaires, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs des reins et des voies urinaires, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4307</p>
+<td align="left" valign="top">
+<br/>4307 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M07T</p>
+<td align="left" valign="top">
+<br/>11M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs des reins et des voies urinaires, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs des reins et des voies urinaires, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4308</p>
+<td align="left" valign="top">
+<br/>4308 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M081</p>
+<td align="left" valign="top">
+<br/>11M081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4309</p>
+<td align="left" valign="top">
+<br/>4309 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M082</p>
+<td align="left" valign="top">
+<br/>11M082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4310</p>
+<td align="left" valign="top">
+<br/>4310 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M083</p>
+<td align="left" valign="top">
+<br/>11M083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4311</p>
+<td align="left" valign="top">
+<br/>4311 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M084</p>
+<td align="left" valign="top">
+<br/>11M084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4312</p>
+<td align="left" valign="top">
+<br/>4312 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M08T</p>
+<td align="left" valign="top">
+<br/>11M08T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, âge inférieur à 18 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4313</p>
+<td align="left" valign="top">
+<br/>4313 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M101</p>
+<td align="left" valign="top">
+<br/>11M101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Rétrécissement urétral, niveau 1</p>
+<td align="left" valign="top">
+<br/>Rétrécissement urétral, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4314</p>
+<td align="left" valign="top">
+<br/>4314 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M102</p>
+<td align="left" valign="top">
+<br/>11M102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Rétrécissement urétral, niveau 2</p>
+<td align="left" valign="top">
+<br/>Rétrécissement urétral, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4315</p>
+<td align="left" valign="top">
+<br/>4315 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M103</p>
+<td align="left" valign="top">
+<br/>11M103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Rétrécissement urétral, niveau 3</p>
+<td align="left" valign="top">
+<br/>Rétrécissement urétral, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4316</p>
+<td align="left" valign="top">
+<br/>4316 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M104</p>
+<td align="left" valign="top">
+<br/>11M104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Rétrécissement urétral, niveau 4</p>
+<td align="left" valign="top">
+<br/>Rétrécissement urétral, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4317</p>
+<td align="left" valign="top">
+<br/>4317 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M10T</p>
+<td align="left" valign="top">
+<br/>11M10T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Rétrécissement urétral, très courte durée</p>
+<td align="left" valign="top">
+<br/>Rétrécissement urétral, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4318</p>
+<td align="left" valign="top">
+<br/>4318 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M111</p>
+<td align="left" valign="top">
+<br/>11M111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4319</p>
+<td align="left" valign="top">
+<br/>4319 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M112</p>
+<td align="left" valign="top">
+<br/>11M112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4320</p>
+<td align="left" valign="top">
+<br/>4320 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M113</p>
+<td align="left" valign="top">
+<br/>11M113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4321</p>
+<td align="left" valign="top">
+<br/>4321 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M114</p>
+<td align="left" valign="top">
+<br/>11M114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4322</p>
+<td align="left" valign="top">
+<br/>4322 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M121</p>
+<td align="left" valign="top">
+<br/>11M121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4323</p>
+<td align="left" valign="top">
+<br/>4323 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M122</p>
+<td align="left" valign="top">
+<br/>11M122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4324</p>
+<td align="left" valign="top">
+<br/>4324 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M123</p>
+<td align="left" valign="top">
+<br/>11M123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4325</p>
+<td align="left" valign="top">
+<br/>4325 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M124</p>
+<td align="left" valign="top">
+<br/>11M124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4343</p>
+<td align="left" valign="top">
+<br/>4343 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M12T</p>
+<td align="left" valign="top">
+<br/>11M12T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Signes et symptômes concernant les reins et les voies urinaires, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4326</p>
+<td align="left" valign="top">
+<br/>4326 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M151</p>
+<td align="left" valign="top">
+<br/>11M151 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4327</p>
+<td align="left" valign="top">
+<br/>4327 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M152</p>
+<td align="left" valign="top">
+<br/>11M152 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4328</p>
+<td align="left" valign="top">
+<br/>4328 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M153</p>
+<td align="left" valign="top">
+<br/>11M153 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4329</p>
+<td align="left" valign="top">
+<br/>4329 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M154</p>
+<td align="left" valign="top">
+<br/>11M154 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4330</p>
+<td align="left" valign="top">
+<br/>4330 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M15T</p>
+<td align="left" valign="top">
+<br/>11M15T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires d'origine diabétique, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4331</p>
+<td align="left" valign="top">
+<br/>4331 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M161</p>
+<td align="left" valign="top">
+<br/>11M161 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4332</p>
+<td align="left" valign="top">
+<br/>4332 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M162</p>
+<td align="left" valign="top">
+<br/>11M162 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4333</p>
+<td align="left" valign="top">
+<br/>4333 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M163</p>
+<td align="left" valign="top">
+<br/>11M163 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4334</p>
+<td align="left" valign="top">
+<br/>4334 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M164</p>
+<td align="left" valign="top">
+<br/>11M164 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4335</p>
+<td align="left" valign="top">
+<br/>4335 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M16T</p>
+<td align="left" valign="top">
+<br/>11M16T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections des reins et des voies urinaires, à l'exception de celles d'origine diabétique, âge supérieur à 17 ans, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4336</p>
+<td align="left" valign="top">
+<br/>4336 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M171</p>
+<td align="left" valign="top">
+<br/>11M171 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Surveillances de greffes de rein, niveau 1</p>
+<td align="left" valign="top">
+<br/>Surveillances de greffes de rein, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4337</p>
+<td align="left" valign="top">
+<br/>4337 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M172</p>
+<td align="left" valign="top">
+<br/>11M172 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Surveillances de greffes de rein, niveau 2</p>
+<td align="left" valign="top">
+<br/>Surveillances de greffes de rein, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4338</p>
+<td align="left" valign="top">
+<br/>4338 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M173</p>
+<td align="left" valign="top">
+<br/>11M173 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Surveillances de greffes de rein, niveau 3</p>
+<td align="left" valign="top">
+<br/>Surveillances de greffes de rein, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4339</p>
+<td align="left" valign="top">
+<br/>4339 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M174</p>
+<td align="left" valign="top">
+<br/>11M174 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Surveillances de greffes de rein, niveau 4</p>
+<td align="left" valign="top">
+<br/>Surveillances de greffes de rein, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4340</p>
+<td align="left" valign="top">
+<br/>4340 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M18Z</p>
+<td align="left" valign="top">
+<br/>11M18Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance pour affections du rein et des voies urinaires</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance pour affections du rein et des voies urinaires. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4344</p>
+<td align="left" valign="top">
+<br/>4344 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M19T</p>
+<td align="left" valign="top">
+<br/>11M19T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres symptômes et recours aux soins de la CMD 11, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres symptômes et recours aux soins de la CMD 11, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4341</p>
+<td align="left" valign="top">
+<br/>4341 <br/>
 </td>
-<td>
-<br/>
-<p align="center">11M19Z</p>
+<td align="left" valign="top">
+<br/>11M19Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres symptômes et recours aux soins de la CMD 11</p>
+<td align="left" valign="top">
+<br/>Autres symptômes et recours aux soins de la CMD 11.<br/>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<br/>
-<p align="center">4513</p>
+<td align="left" valign="top">
+<br/>4513 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C031</p>
+<td align="left" valign="top">
+<br/>12C031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le pénis, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur le pénis, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4514</p>
+<td align="left" valign="top">
+<br/>4514 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C032</p>
+<td align="left" valign="top">
+<br/>12C032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le pénis, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur le pénis, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4515</p>
+<td align="left" valign="top">
+<br/>4515 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C033</p>
+<td align="left" valign="top">
+<br/>12C033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le pénis, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur le pénis, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4516</p>
+<td align="left" valign="top">
+<br/>4516 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C034</p>
+<td align="left" valign="top">
+<br/>12C034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le pénis, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur le pénis, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4517</p>
+<td align="left" valign="top">
+<br/>4517 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C03J</p>
+<td align="left" valign="top">
+<br/>12C03J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur le pénis, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur le pénis, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4518</p>
+<td align="left" valign="top">
+<br/>4518 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C041</p>
+<td align="left" valign="top">
+<br/>12C041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatectomies transurétrales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4561</p>
+<td align="left" valign="top">
+<br/>4561 <br/>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatectomies transurétrales, niveau 1</p>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4519</p>
+<td align="left" valign="top">
+<br/>4519 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C042</p>
+<td align="left" valign="top">
+<br/>12C042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatectomies transurétrales, niveau 2</p>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4520</p>
+<td align="left" valign="top">
+<br/>4520 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C043</p>
+<td align="left" valign="top">
+<br/>12C043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatectomies transurétrales, niveau 3</p>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4521</p>
+<td align="left" valign="top">
+<br/>4521 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C044</p>
+<td align="left" valign="top">
+<br/>12C044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatectomies transurétrales, niveau 4</p>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4522</p>
+<td align="left" valign="top">
+<br/>4522 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C051</p>
+<td align="left" valign="top">
+<br/>12C051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour tumeurs malignes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour tumeurs malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4523</p>
+<td align="left" valign="top">
+<br/>4523 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C052</p>
+<td align="left" valign="top">
+<br/>12C052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour tumeurs malignes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour tumeurs malignes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4524</p>
+<td align="left" valign="top">
+<br/>4524 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C053</p>
+<td align="left" valign="top">
+<br/>12C053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour tumeurs malignes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour tumeurs malignes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4525</p>
+<td align="left" valign="top">
+<br/>4525 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C054</p>
+<td align="left" valign="top">
+<br/>12C054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour tumeurs malignes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour tumeurs malignes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4526</p>
+<td align="left" valign="top">
+<br/>4526 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C061</p>
+<td align="left" valign="top">
+<br/>12C061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4527</p>
+<td align="left" valign="top">
+<br/>4527 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C062</p>
+<td align="left" valign="top">
+<br/>12C062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4528</p>
+<td align="left" valign="top">
+<br/>4528 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C063</p>
+<td align="left" valign="top">
+<br/>12C063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4529</p>
+<td align="left" valign="top">
+<br/>4529 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C064</p>
+<td align="left" valign="top">
+<br/>12C064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4530</p>
+<td align="left" valign="top">
+<br/>4530 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C06J</p>
+<td align="left" valign="top">
+<br/>12C06J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge inférieur à 18 ans, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4531</p>
+<td align="left" valign="top">
+<br/>4531 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C071</p>
+<td align="left" valign="top">
+<br/>12C071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4532</p>
+<td align="left" valign="top">
+<br/>4532 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C072</p>
+<td align="left" valign="top">
+<br/>12C072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4533</p>
+<td align="left" valign="top">
+<br/>4533 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C073</p>
+<td align="left" valign="top">
+<br/>12C073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4534</p>
+<td align="left" valign="top">
+<br/>4534 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C074</p>
+<td align="left" valign="top">
+<br/>12C074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4535</p>
+<td align="left" valign="top">
+<br/>4535 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C07J</p>
+<td align="left" valign="top">
+<br/>12C07J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Interventions sur les testicules pour affections non malignes, âge supérieur à 17 ans, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4536</p>
+<td align="left" valign="top">
+<br/>4536 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C081</p>
+<td align="left" valign="top">
+<br/>12C081 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Circoncision, niveau 1</p>
+<td align="left" valign="top">
+<br/>Circoncision, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4537</p>
+<td align="left" valign="top">
+<br/>4537 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C082</p>
+<td align="left" valign="top">
+<br/>12C082 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Circoncision, niveau 2</p>
+<td align="left" valign="top">
+<br/>Circoncision, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4538</p>
+<td align="left" valign="top">
+<br/>4538 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C083</p>
+<td align="left" valign="top">
+<br/>12C083 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Circoncision, niveau 3</p>
+<td align="left" valign="top">
+<br/>Circoncision, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4539</p>
+<td align="left" valign="top">
+<br/>4539 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C084</p>
+<td align="left" valign="top">
+<br/>12C084 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Circoncision, niveau 4</p>
+<td align="left" valign="top">
+<br/>Circoncision, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4540</p>
+<td align="left" valign="top">
+<br/>4540 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C08J</p>
+<td align="left" valign="top">
+<br/>12C08J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Circoncision, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Circoncision, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4541</p>
+<td align="left" valign="top">
+<br/>4541 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C091</p>
+<td align="left" valign="top">
+<br/>12C091 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4542</p>
+<td align="left" valign="top">
+<br/>4542 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C092</p>
+<td align="left" valign="top">
+<br/>12C092 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4543</p>
+<td align="left" valign="top">
+<br/>4543 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C093</p>
+<td align="left" valign="top">
+<br/>12C093 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4544</p>
+<td align="left" valign="top">
+<br/>4544 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C094</p>
+<td align="left" valign="top">
+<br/>12C094 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour tumeurs malignes de l'appareil génital masculin, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4545</p>
+<td align="left" valign="top">
+<br/>4545 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C101</p>
+<td align="left" valign="top">
+<br/>12C101 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4546</p>
+<td align="left" valign="top">
+<br/>4546 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C102</p>
+<td align="left" valign="top">
+<br/>12C102 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4547</p>
+<td align="left" valign="top">
+<br/>4547 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C103</p>
+<td align="left" valign="top">
+<br/>12C103 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4548</p>
+<td align="left" valign="top">
+<br/>4548 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C104</p>
+<td align="left" valign="top">
+<br/>12C104 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres interventions pour affections non malignes de l'appareil génital masculin, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4549</p>
+<td align="left" valign="top">
+<br/>4549 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C111</p>
+<td align="left" valign="top">
+<br/>12C111 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4550</p>
+<td align="left" valign="top">
+<br/>4550 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C112</p>
+<td align="left" valign="top">
+<br/>12C112 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4551</p>
+<td align="left" valign="top">
+<br/>4551 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C113</p>
+<td align="left" valign="top">
+<br/>12C113 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4552</p>
+<td align="left" valign="top">
+<br/>4552 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C114</p>
+<td align="left" valign="top">
+<br/>12C114 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour tumeurs malignes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4553</p>
+<td align="left" valign="top">
+<br/>4553 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C121</p>
+<td align="left" valign="top">
+<br/>12C121 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 1</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4554</p>
+<td align="left" valign="top">
+<br/>4554 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C122</p>
+<td align="left" valign="top">
+<br/>12C122 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 2</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4555</p>
+<td align="left" valign="top">
+<br/>4555 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C123</p>
+<td align="left" valign="top">
+<br/>12C123 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 3</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4556</p>
+<td align="left" valign="top">
+<br/>4556 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C124</p>
+<td align="left" valign="top">
+<br/>12C124 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 4</p>
+<td align="left" valign="top">
+<br/>Interventions pelviennes majeures chez l'homme pour affections non malignes, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4557</p>
+<td align="left" valign="top">
+<br/>4557 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C131</p>
+<td align="left" valign="top">
+<br/>12C131 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Stérilisation et vasoplastie, niveau 1</p>
+<td align="left" valign="top">
+<br/>Stérilisation et vasoplastie, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4558</p>
+<td align="left" valign="top">
+<br/>4558 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C132</p>
+<td align="left" valign="top">
+<br/>12C132 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Stérilisation et vasoplastie, niveau 2</p>
+<td align="left" valign="top">
+<br/>Stérilisation et vasoplastie, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4559</p>
+<td align="left" valign="top">
+<br/>4559 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C133</p>
+<td align="left" valign="top">
+<br/>12C133 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Stérilisation et vasoplastie, niveau 3</p>
+<td align="left" valign="top">
+<br/>Stérilisation et vasoplastie, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4560</p>
+<td align="left" valign="top">
+<br/>4560 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12C134</p>
+<td align="left" valign="top">
+<br/>12C134 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Stérilisation et vasoplastie, niveau 4</p>
+<td align="left" valign="top">
+<br/>Stérilisation et vasoplastie, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4757</p>
+<td align="left" valign="top">
+<br/>4757 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12K02Z</p>
+<td align="left" valign="top">
+<br/>12K02Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins de deux jours</p>
+<td align="left" valign="top">
+<br/>Endoscopies génito-urinaires et anesthésie : séjours de la CMD 12 et de moins de deux jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4758</p>
+<td align="left" valign="top">
+<br/>4758 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12K03Z</p>
+<td align="left" valign="top">
+<br/>12K03Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthésie : séjours de moins de deux jours</p>
+<td align="left" valign="top">
+<br/>Séjours de la CMD 12 comprenant une endoscopie génito-urinaire sans anesthésie : séjours de moins de deux jours. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4759</p>
+<td align="left" valign="top">
+<br/>4759 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12K06J</p>
+<td align="left" valign="top">
+<br/>12K06J <br/>
 </td>
-<td>
-<br/>
-<p align="center">Séjours comprenant une biopsie prostatique, en ambulatoire</p>
+<td align="left" valign="top">
+<br/>Séjours comprenant une biopsie prostatique, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4760</p>
+<td align="left" valign="top">
+<br/>4760 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M031</p>
+<td align="left" valign="top">
+<br/>12M031 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes de l'appareil génital masculin, niveau 1</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes de l'appareil génital masculin, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4761</p>
+<td align="left" valign="top">
+<br/>4761 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M032</p>
+<td align="left" valign="top">
+<br/>12M032 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes de l'appareil génital masculin, niveau 2</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes de l'appareil génital masculin, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4762</p>
+<td align="left" valign="top">
+<br/>4762 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M033</p>
+<td align="left" valign="top">
+<br/>12M033 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes de l'appareil génital masculin, niveau 3</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes de l'appareil génital masculin, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4763</p>
+<td align="left" valign="top">
+<br/>4763 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M034</p>
+<td align="left" valign="top">
+<br/>12M034 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes de l'appareil génital masculin, niveau 4</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes de l'appareil génital masculin, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4764</p>
+<td align="left" valign="top">
+<br/>4764 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M03T</p>
+<td align="left" valign="top">
+<br/>12M03T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Tumeurs malignes de l'appareil génital masculin, très courte durée</p>
+<td align="left" valign="top">
+<br/>Tumeurs malignes de l'appareil génital masculin, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4765</p>
+<td align="left" valign="top">
+<br/>4765 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M041</p>
+<td align="left" valign="top">
+<br/>12M041 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hypertrophie prostatique bénigne, niveau 1</p>
+<td align="left" valign="top">
+<br/>Hypertrophie prostatique bénigne, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4766</p>
+<td align="left" valign="top">
+<br/>4766 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M042</p>
+<td align="left" valign="top">
+<br/>12M042 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hypertrophie prostatique bénigne, niveau 2</p>
+<td align="left" valign="top">
+<br/>Hypertrophie prostatique bénigne, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4767</p>
+<td align="left" valign="top">
+<br/>4767 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M043</p>
+<td align="left" valign="top">
+<br/>12M043 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hypertrophie prostatique bénigne, niveau 3</p>
+<td align="left" valign="top">
+<br/>Hypertrophie prostatique bénigne, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4768</p>
+<td align="left" valign="top">
+<br/>4768 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M044</p>
+<td align="left" valign="top">
+<br/>12M044 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hypertrophie prostatique bénigne, niveau 4</p>
+<td align="left" valign="top">
+<br/>Hypertrophie prostatique bénigne, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4785</p>
+<td align="left" valign="top">
+<br/>4785 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M04T</p>
+<td align="left" valign="top">
+<br/>12M04T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Hypertrophie prostatique bénigne, très courte durée</p>
+<td align="left" valign="top">
+<br/>Hypertrophie prostatique bénigne, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4769</p>
+<td align="left" valign="top">
+<br/>4769 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M051</p>
+<td align="left" valign="top">
+<br/>12M051 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de l'appareil génital masculin, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres affections de l'appareil génital masculin, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4770</p>
+<td align="left" valign="top">
+<br/>4770 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M052</p>
+<td align="left" valign="top">
+<br/>12M052 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de l'appareil génital masculin, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres affections de l'appareil génital masculin, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4771</p>
+<td align="left" valign="top">
+<br/>4771 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M053</p>
+<td align="left" valign="top">
+<br/>12M053 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de l'appareil génital masculin, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres affections de l'appareil génital masculin, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4772</p>
+<td align="left" valign="top">
+<br/>4772 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M054</p>
+<td align="left" valign="top">
+<br/>12M054 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de l'appareil génital masculin, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres affections de l'appareil génital masculin, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4786</p>
+<td align="left" valign="top">
+<br/>4786 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M05T</p>
+<td align="left" valign="top">
+<br/>12M05T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres affections de l'appareil génital masculin, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres affections de l'appareil génital masculin, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4773</p>
+<td align="left" valign="top">
+<br/>4773 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M061</p>
+<td align="left" valign="top">
+<br/>12M061 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatites aiguës et orchites, niveau 1</p>
+<td align="left" valign="top">
+<br/>Prostatites aiguës et orchites, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4774</p>
+<td align="left" valign="top">
+<br/>4774 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M062</p>
+<td align="left" valign="top">
+<br/>12M062 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatites aiguës et orchites, niveau 2</p>
+<td align="left" valign="top">
+<br/>Prostatites aiguës et orchites, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4775</p>
+<td align="left" valign="top">
+<br/>4775 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M063</p>
+<td align="left" valign="top">
+<br/>12M063 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatites aiguës et orchites, niveau 3</p>
+<td align="left" valign="top">
+<br/>Prostatites aiguës et orchites, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4776</p>
+<td align="left" valign="top">
+<br/>4776 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M064</p>
+<td align="left" valign="top">
+<br/>12M064 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatites aiguës et orchites, niveau 4</p>
+<td align="left" valign="top">
+<br/>Prostatites aiguës et orchites, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4777</p>
+<td align="left" valign="top">
+<br/>4777 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M06T</p>
+<td align="left" valign="top">
+<br/>12M06T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Prostatites aiguës et orchites, très courte durée</p>
+<td align="left" valign="top">
+<br/>Prostatites aiguës et orchites, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4778</p>
+<td align="left" valign="top">
+<br/>4778 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M071</p>
+<td align="left" valign="top">
+<br/>12M071 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres infections et inflammations de l'appareil génital masculin, niveau 1</p>
+<td align="left" valign="top">
+<br/>Autres infections et inflammations de l'appareil génital masculin, niveau 1.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4779</p>
+<td align="left" valign="top">
+<br/>4779 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M072</p>
+<td align="left" valign="top">
+<br/>12M072 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres infections et inflammations de l'appareil génital masculin, niveau 2</p>
+<td align="left" valign="top">
+<br/>Autres infections et inflammations de l'appareil génital masculin, niveau 2.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4780</p>
+<td align="left" valign="top">
+<br/>4780 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M073</p>
+<td align="left" valign="top">
+<br/>12M073 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres infections et inflammations de l'appareil génital masculin, niveau 3</p>
+<td align="left" valign="top">
+<br/>Autres infections et inflammations de l'appareil génital masculin, niveau 3.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4781</p>
+<td align="left" valign="top">
+<br/>4781 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M074</p>
+<td align="left" valign="top">
+<br/>12M074 <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres infections et inflammations de l'appareil génital masculin, niveau 4</p>
+<td align="left" valign="top">
+<br/>Autres infections et inflammations de l'appareil génital masculin, niveau 4.<br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4782</p>
+<td align="left" valign="top">
+<br/>4782 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M07T</p>
+<td align="left" valign="top">
+<br/>12M07T <br/>
 </td>
-<td>
-<br/>
-<p align="center">Autres infections et inflammations de l'appareil génital masculin, très courte durée</p>
+<td align="left" valign="top">
+<br/>Autres infections et inflammations de l'appareil génital masculin, très courte durée. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4783</p>
+<td align="left" valign="top">
+<br/>4783 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M08Z</p>
+<td align="left" valign="top">
+<br/>12M08Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Explorations et surveillance des affections de l'appareil génital masculin</p>
+<td align="left" valign="top">
+<br/>Explorations et surveillance des affections de l'appareil génital masculin. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">4784</p>
+<td align="left" valign="top">
+<br/>4784 <br/>
 </td>
-<td>
-<br/>
-<p align="center">12M09Z</p>
+<td align="left" valign="top">
+<br/>12M09Z <br/>
 </td>
-<td>
-<br/>
-<p align="center">Symptômes et autres recours aux soins de la CMD 12</p>
+<td align="left" valign="top">
+<br/>Symptômes et autres recours aux soins de la CMD 12.<br/>
 </td>
 </tr>
 </tbody>
