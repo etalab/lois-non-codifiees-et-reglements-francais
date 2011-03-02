@@ -8,7 +8,7 @@ b) Un membre représentant le ministère chargé de l'enseignement supérieur ;
 
 c) Un membre représentant le ministère chargé de l'éducation nationale ;
 
-d) Un membre représentant la ville de Paris.
+d) Un membre représentant l'administration parisienne concernée.
 
 La commission statue à la majorité des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
 

@@ -2,7 +2,7 @@
 
 Lorsque le président du Centre national de la fonction publique territoriale institue auprès d'une délégation régionale ou interdépartementale une commission déconcentrée, celle-ci est composée ainsi qu'il suit :
 
-a) Le délégué interdépartemental ou régional du Centre national de la fonction publique territoriale ou son représentant, président ;
+a) Le délégué interdépartemental ou régional du Centre national de la fonction publique territoriale ou son représentant, ou une personnalité qualifiée nommée par lui, président ;
 
 b) Le recteur d'académie ou son représentant ;
 

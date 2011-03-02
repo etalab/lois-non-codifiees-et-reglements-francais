@@ -14,17 +14,17 @@ Assistants territoriaux qualifiés de conservation du patrimoine et des biblioth
 
 Ingénieurs en chef territoriaux ;
 
-Ingénieurs territoriaux ;
+Ingénieurs territoriaux, à l'exception des titulaires d'un diplôme d'architecte ; techniciens territoriaux ;
 
 Adjoints techniques territoriaux de 1re classe ;
 
 Adjoints techniques territoriaux des établissements d'enseignement ;
 
-Assistants territoriaux socio-éducatifs ;
+Assistants territoriaux socio-éducatifs, à l'exception de la spécialité assistant de service social ;
 
 Educateurs territoriaux de jeunes enfants ;
 
-Assistants territoriaux médico-techniques ;
+Moniteurs-éducateurs territoriaux ;
 
 Agents territoriaux spécialisés des écoles maternelles ;
 
@@ -44,13 +44,13 @@ Directeurs des conservatoires de Paris ;
 
 Professeurs des conservatoires de Paris ;
 
+Professeurs de la ville de Paris ;
+
 Assistants spécialisés d'enseignement artistique des conservatoires de Paris ;
 
 Assistants d'enseignement musical des conservatoires de Paris ;
 
 Bibliothécaires adjoints spécialisés de la commune de Paris ;
-
-Ingénieurs des services techniques (pour les concours sur titres) ;
 
 Ingénieurs des travaux de la ville de Paris (pour les concours sur titres) ;
 
@@ -92,6 +92,36 @@ Aides-soignants et agents de services hospitaliers qualifiés de la préfecture 
 
 Cadre de santé de la préfecture de police ;
 
-3° Pour l'application des articles 2 et 4 du décret du 10 décembre 1996 susvisé, les commissions mentionnées au 1° et au 2° sont compétentes pour se prononcer sur les demandes d'équivalences de diplômes pour l'accès à tous les cadres d'emplois de la fonction publique territoriale.
+Cadres de santé du département de Paris ;
+
+Puéricultrices cadres de santé de la commune de Paris.
+
+3° Les commissions instituées par le 1° et le 3° de l'article 15 du décret du 13 février 2007 susvisé sont en outre compétentes pour se prononcer sur les demandes d'équivalences de candidats titulaires d'un diplôme délivré dans un Etat autre qu'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, pour se présenter aux concours de la fonction publique territoriale suivants :
+
+-médecins ;
+
+-sages-femmes ;
+
+-infirmiers ;
+
+-puéricultrices ;
+
+-biologistes, vétérinaires et pharmaciens ;
+
+-psychologues ;
+
+-assistants socio-éducatifs, pour la spécialité assistant de service social ;
+
+-rééducateurs ;
+
+-assistants médico-techniques ;
+
+-auxiliaires de puériculture ;
+
+-auxiliaires de soins ;
+
+-ingénieurs, pour les titulaires d'un diplôme d'architecte.
+
+4° Pour l'application des articles 2 et 4 du décret du 10 décembre 1996 susvisé, les commissions mentionnées au 1° et au 2° sont respectivement compétentes pour se prononcer sur les demandes d'équivalences de diplômes pour l'accès à tous les cadres d'emplois de la fonction publique territoriale et à tous les corps des administrations parisiennes.
 
 Elles comprennent, dans ce cas, un représentant d'une association de personnes handicapées qui siège avec voix consultative.
