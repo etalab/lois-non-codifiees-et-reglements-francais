@@ -10,6 +10,4 @@ Il doit contenir une fiche de renseignements dûment complétée, datée et sign
 
 ― copie du décret de naturalisation ou tout document officiel justifiant que le candidat est de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
-― copie d'un extrait du casier judiciaire (bulletin n° 3) ;
-
-― copie certifiée conforme du diplôme de vétérinaire et sa traduction par un traducteur assermenté ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse.
+― copie certifiée conforme du diplôme de docteur vétérinaire et sa traduction par un traducteur assermenté ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse.
