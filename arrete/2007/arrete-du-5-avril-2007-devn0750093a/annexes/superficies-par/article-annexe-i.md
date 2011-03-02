@@ -1,5 +1,9 @@
 # Article ANNEXE I
 
+<div align="center">
+<br/>
+</div>
+
 <div>
 <table>
 <tbody>
@@ -727,7 +731,8 @@
 <p>Cubierettes.</p>
 </td>
 <td align="center">
-<p>989,65 </p>
+<p>1   002,03 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -782,8 +787,13 @@
 <p>Hures-la-Parade.</p>
 </td>
 <td align="center">
-<p>1 387,08 </p>
+<p>1   552,40  </p>
 </td>
+</tr>
+<tr>
+<td>48075</td>
+<td>Ispagnac  </td>
+<td align="center"> 711,81 </td>
 </tr>
 <tr>
 <td>
@@ -859,7 +869,7 @@
 <p>Meyrueis.</p>
 </td>
 <td align="center">
-<p>6 456,38 </p>
+<p>6   708,74  </p>
 </td>
 </tr>
 <tr>
@@ -883,6 +893,11 @@
 <td align="center">
 <p>1 689,65 </p>
 </td>
+</tr>
+<tr>
+<td>48122 </td>
+<td>Quézac </td>
+<td align="center"> 587,13 </td>
 </tr>
 <tr>
 <td>
@@ -1020,6 +1035,11 @@
 </td>
 <td>Saint-Maurice-de-Ventalon. </td>
 <td align="center">3863,61</td>
+</tr>
+<tr>
+<td>48176 </td>
+<td>Saint-Pierre-des-Tripiers  </td>
+<td align="center"> 653,74 </td>
 </tr>
 <tr>
 <td>48178</td>
@@ -1314,14 +1334,23 @@
 </tr>
 <tr>
 <td>
-<p>97104</p>
+<p>97   101 </p>
 </td>
 <td>
-<p>Baillif.</p>
+<p>Les Abymes <br/>
+</p>
 </td>
 <td align="center">
-<p>446,00 </p>
+<p>634,59 <br/>
+</p>
+<br/>
 </td>
+</tr>
+<tr>
+<td>97104</td>
+<td>Baillif. <br/>
+</td>
+<td align="center"> 446,00</td>
 </tr>
 <tr>
 <td>
@@ -1331,7 +1360,7 @@
 <p>Bouillante.</p>
 </td>
 <td align="center">
-<p>879,00 </p>
+<p>880,64  </p>
 </td>
 </tr>
 <tr>
@@ -1357,6 +1386,11 @@
 </td>
 </tr>
 <tr>
+<td>97   111  </td>
+<td>Deshaies </td>
+<td align="center"> 15,90 </td>
+</tr>
+<tr>
 <td>
 <p>97114</p>
 </td>
@@ -1375,8 +1409,13 @@
 <p>Lamentin.</p>
 </td>
 <td align="center">
-<p>478,00 </p>
+<p>893,64 </p>
 </td>
+</tr>
+<tr>
+<td>97   116  </td>
+<td>Morne-à-l'Eau  </td>
+<td align="center"> 108,33 </td>
 </tr>
 <tr>
 <td>
@@ -1409,6 +1448,12 @@
 </td>
 <td align="center">
 <p>1 218,00 </p>
+</td>
+</tr>
+<tr>
+<td>97   129  </td>
+<td>Sainte-Rose  </td>
+<td align="center"> 457,08<br/>
 </td>
 </tr>
 <tr>
