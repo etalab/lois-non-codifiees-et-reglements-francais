@@ -217,7 +217,6 @@
 - [Arrêté du 4 mars 2009 (IOCD0905338A)](arrete-du-4-mars-2009-iocd0905338a)
 - [Arrêté du 4 novembre 2009 (AGRM0924104A)](arrete-du-4-novembre-2009-agrm0924104a)
 - [Arrêté du 4 novembre 2009 (DEFH0919725A)](arrete-du-4-novembre-2009-defh0919725a)
-- [Arrêté du 4 novembre 2009 (DEFH0926062A)](arrete-du-4-novembre-2009-defh0926062a)
 - [Arrêté du 4 novembre 2009 (DEVT0920869A)](arrete-du-4-novembre-2009-devt0920869a)
 - [Arrêté du 4 novembre 2009 (ECED0926070A)](arrete-du-4-novembre-2009-eced0926070a)
 - [Arrêté du 4 novembre 2009 (ECED0926082A)](arrete-du-4-novembre-2009-eced0926082a)
