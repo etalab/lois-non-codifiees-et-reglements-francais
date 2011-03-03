@@ -20,7 +20,7 @@ a) L'identité de l'établissement désigné pour assurer la compensation des in
 
 b) Les modalités de transmission au dépositaire des instructions relatives à la constitution des couvertures des opérations, les modalités d'appel de marges et de dépôts de garantie auprès de l'établissement compensateur ;
 
-4° Les informations relative aux obligations en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme ;
+4° Les informations relatives aux obligations en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme ;
 
 5° Le cas échéant, l'usage que le dépositaire peut, après accord exprès de la société de gestion de portefeuille, faire des instruments financiers qu'il conserve ;
 
