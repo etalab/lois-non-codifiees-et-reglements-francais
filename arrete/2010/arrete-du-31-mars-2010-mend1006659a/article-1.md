@@ -6,7 +6,7 @@ Le jury comprend :
 
 ― le directeur général chargé des ressources humaines ;
 
-― le directeur chargé des personnels d'encadrement ;
+―       le chef du service chargé des personnels d'encadrement ;
 
 ― deux recteurs d'académie ;
 
