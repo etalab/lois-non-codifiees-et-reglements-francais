@@ -1,528 +1,662 @@
 # Article 1
 
-<div>
-<br/>Les certifications ci-dessous énumérées sont enregistrées au répertoire national des certifications professionnelles, avec mention du code de la nomenclature des spécialités de formation, du niveau et de la durée.<br/>
-<div align="center">
+Les certifications ci-dessous énumérées sont enregistrées au répertoire national des certifications professionnelles, avec mention du code de la nomenclature des spécialités de formation, du niveau et de la durée.
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>NIVEAU</th>
-<th>
-<br/>INTITULÉ DE LA CERTIFICATION<br/>professionnelle</th>
-<th>
-<br/>CODE NSF</th>
-<th>
-<br/>DURÉE</th>
-<th>
-<br/>ORGANISME DÉLIVRANT<br/>la certification professionnelle</th>
+<td>
+<p align="center">NIVEAU</p>
+</td>
+<td>
+<p align="center">INTITULÉ DE LA CERTIFICATION<br/>professionnelle</p>
+</td>
+<td>
+<p align="center">CODE NSF<br/>
+</p>
+</td>
+<td>
+<p align="center">DURÉE</p>
+</td>
+<td>
+<p align="center">ORGANISME DÉLIVRANT<br/>la certification professionnelle</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>V</td>
+<p align="center">V</p>
+</td>
 <td align="center">
-<br/>Pizzaïolo</td>
+<p align="left">Pizzaïolo</p>
+</td>
 <td align="center">
-<br/>221</td>
+<p align="center">221</p>
+</td>
 <td align="center">
-<br/>3 ans</td>
+<p align="center">3 ans</p>
+</td>
 <td align="center">
-<br/>Institut de la cuisine italienne - Ecole française de pizzaïolo</td>
+<p align="left">Institut de la cuisine italienne - Ecole française de pizzaïolo</p>
+</td>
 </tr>
 <tr>
+<td align="center">V<br/>
+</td>
 <td align="center">
-<br/>V</td>
+<p align="left">Agent d'accueil polyvalent du tourisme de pays</p>
+</td>
 <td align="center">
-<br/>Agent d'accueil polyvalent du tourisme de pays</td>
+<p align="center">334t</p>
+</td>
 <td align="center">
-<br/>334t</td>
+<p align="center">2 ans</p>
+</td>
 <td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Association pour la formation des ruraux aux activités du tourisme (AFRAT)</td>
+<p align="left">Association pour la formation des ruraux aux activités du tourisme (AFRAT)</p>
+</td>
 </tr>
 <tr>
+<td align="center">V<br/>
+</td>
 <td align="center">
-<br/>V</td>
+<p align="left">Agent de protection rapprochée en sécurité privée</p>
+</td>
 <td align="center">
-<br/>Agent de protection rapprochée en sécurité privée</td>
+<p align="center">344</p>
+</td>
 <td align="center">
-<br/>344</td>
+<p align="center">3 ans</p>
+</td>
 <td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>Theos training center</td>
+<p align="left">Theos training center</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Artiste danseur</p>
+</td>
 <td align="center">
-<br/>Artiste danseur</td>
+<p align="center">133g</p>
+</td>
 <td align="center">
-<br/>133g</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Association de formation aux métiers de la danse, du chant et de la comédie (AFMDCC)</td>
+<p align="left">Association de formation aux métiers de la danse, du chant et de la comédie (AFMDCC)</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Commis pâtissier</p>
+</td>
 <td align="center">
-<br/>Commis pâtissier</td>
+<p align="center">221w</p>
+</td>
 <td align="center">
-<br/>221w</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Le cordon bleu</td>
+<p align="left">Le cordon bleu</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Modéliste série du vêtement</p>
+</td>
 <td align="center">
-<br/>Modéliste série du vêtement</td>
+<p align="center">242</p>
+</td>
 <td align="center">
-<br/>242</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Académie internationale de coupe de Paris (AICP)</td>
+<p align="left">Académie internationale de coupe de Paris (AICP)</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Technicien polyvalent son et lumière</p>
+</td>
 <td align="center">
-<br/>Technicien polyvalent son et lumière</td>
+<p align="center">323</p>
+</td>
 <td align="center">
-<br/>323</td>
+<p align="center">1 an</p>
+</td>
 <td align="center">
-<br/>1 an</td>
-<td align="center">
-<br/>Institut de recherche pédagogique audiovisuel (IRPA)</td>
+<p align="left">Institut de recherche pédagogique audiovisuel (IRPA)</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Hydrobalnéologue</p>
+</td>
 <td align="center">
-<br/>Hydrobalnéologue</td>
+<p align="center">334</p>
+</td>
 <td align="center">
-<br/>334</td>
+<p align="center">3 ans</p>
+</td>
 <td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>Hecate formation</td>
+<p align="left">Hecate formation</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Cuisinier du terroir</p>
+</td>
 <td align="center">
-<br/>Cuisinier du terroir</td>
+<p align="center">334t</p>
+</td>
 <td align="center">
-<br/>334t</td>
+<p align="center">1 an</p>
+</td>
 <td align="center">
-<br/>1 an</td>
-<td align="center">
-<br/>Association pour la formation des ruraux aux activités du tourisme (AFRAT)</td>
+<p align="left">Association pour la formation des ruraux aux activités du tourisme (AFRAT)</p>
+</td>
 </tr>
 <tr>
+<td align="center">IV<br/>
+</td>
 <td align="center">
-<br/>IV</td>
+<p align="left">Chargé d'enquête judiciaire</p>
+</td>
 <td align="center">
-<br/>Chargé d'enquête judiciaire</td>
+<p align="center">344</p>
+</td>
 <td align="center">
-<br/>344</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales - Direction de la formation de la police nationale</td>
+<p align="left">Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales - Direction de la formation de la police nationale</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Ebéniste (BTMS)</p>
+</td>
 <td align="center">
-<br/>Ebéniste (BTMS)</td>
+<p align="center">234</p>
+</td>
 <td align="center">
-<br/>234</td>
+<p align="center">3 ans</p>
+</td>
 <td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>Assemblée permanente des chambres de métiers (APCM)</td>
+<p align="left">Assemblée permanente des chambres de métiers (APCM)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Carrossier peintre en carrosserie (BM)</p>
+</td>
 <td align="center">
-<br/>Carrossier peintre en carrosserie (BM)</td>
+<p align="center">254</p>
+</td>
 <td align="center">
-<br/>254</td>
+<p align="center">2 ans</p>
+</td>
 <td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Assemblée permanente des chambres de métiers (APCM)</td>
+<p align="left">Assemblée permanente des chambres de métiers (APCM)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Assistant du chef d'entreprise PME-PMI</p>
+</td>
 <td align="center">
-<br/>Assistant du chef d'entreprise PME-PMI</td>
+<p align="center">314t</p>
+</td>
 <td align="center">
-<br/>314t</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Royer Robin associés</td>
+<p align="left">Royer Robin associés</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Développeur multimédia</p>
+</td>
 <td align="center">
-<br/>Développeur multimédia</td>
+<p align="center">320t</p>
+</td>
 <td align="center">
-<br/>320t</td>
+<p align="center">2 ans</p>
+</td>
 <td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Institut international de l'image et du son (3IS)</td>
+<p align="left">Institut international de l'image et du son (3IS)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Infographiste multimédia</p>
+</td>
 <td align="center">
-<br/>Infographiste multimédia</td>
+<p align="center">320t<br/>
+</p>
+</td>
 <td align="center">
-<br/>320t</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>AP formation</td>
+<p align="left">AP formation</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Concepteur de supports de communication</p>
+</td>
+<td align="center">322t<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Concepteur de supports de communication</td>
-<td align="center">
-<br/>322t</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>MJM graphic design Strasbourg ; MJM graphic design Paris</td>
+<p align="left">MJM graphic design Strasbourg ; MJM graphic design Paris</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Opérateur de prise de vues vidéo</p>
+</td>
 <td align="center">
-<br/>Opérateur de prise de vues vidéo</td>
+<p align="center">323t</p>
+</td>
 <td align="center">
-<br/>323t</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Institut national de l'audiovisuel (INA)</td>
+<p align="left">Institut national de l'audiovisuel (INA)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Gestionnaire réseaux et systèmes</p>
+</td>
 <td align="center">
-<br/>Gestionnaire réseaux et systèmes</td>
+<p align="center">326</p>
+</td>
 <td align="center">
-<br/>326</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>AP formation</td>
+<p align="left">AP formation</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Technicien supérieur de maintenance informatique et réseaux</p>
+</td>
+<td align="center">326<br/>255r<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Technicien supérieur de maintenance informatique et réseaux</td>
-<td align="center">
-<br/>326<br/>255r</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Institut pour la promotion de l'enseignement et du conseil (IPREC)</td>
+<p align="left">Institut pour la promotion de l'enseignement et du conseil (IPREC)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Technicien supérieur en informatique de gestion</p>
+</td>
+<td align="center">326<br/>
+</td>
+<td align="center">1 an<br/>
+</td>
 <td align="center">
-<br/>Technicien supérieur en informatique de gestion</td>
-<td align="center">
-<br/>326</td>
-<td align="center">
-<br/>1 an</td>
-<td align="center">
-<br/>Chambre de commerce et d'industrie de Colmar et du centre Alsace (CCI de Colmar et du centre Alsace)</td>
+<p align="left">Chambre de commerce et d'industrie de Colmar et du centre Alsace (CCI de Colmar et du centre Alsace)</p>
+</td>
 </tr>
 <tr>
+<td align="center">III<br/>
+</td>
 <td align="center">
-<br/>III</td>
+<p align="left">Animateur-formateur pour marques et distributeurs beauté</p>
+</td>
+<td align="center">336<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Animateur-formateur pour marques et distributeurs beauté</td>
-<td align="center">
-<br/>336</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>EMA SUP</td>
+<p align="left">EMA SUP</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Chargé de projet en maîtrise de l'énergie, énergies renouvelables, éco construction</p>
+</td>
+<td align="center">227<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Chargé de projet en maîtrise de l'énergie, énergies renouvelables, éco construction</td>
-<td align="center">
-<br/>227</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Association savoyarde pour le développement des énergies renouvelables (ASDER)</td>
+<p align="left">Association savoyarde pour le développement des énergies renouvelables (ASDER)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Chargé d'affaires financières et commerciales</p>
+</td>
+<td align="center">312<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Chargé d'affaires financières et commerciales</td>
-<td align="center">
-<br/>312</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Ecole supérieure de commerce de Compiègne (ESCC)</td>
+<p align="left">Ecole supérieure de commerce de Compiègne (ESCC)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Responsable marketing et commercial de la mode et du luxe</p>
+</td>
+<td align="center">312v<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Responsable marketing et commercial de la mode et du luxe</td>
-<td align="center">
-<br/>312v</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Mod'art international</td>
+<p align="left">Mod'art international</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Conseiller bancaire clientèle de professionnels</p>
+</td>
+<td align="center">313m<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Conseiller bancaire clientèle de professionnels</td>
-<td align="center">
-<br/>313m</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Centre de formation de la profession bancaire (CFPB)</td>
+<p align="left">Centre de formation de la profession bancaire (CFPB)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Responsable en ressources humaines</p>
+</td>
+<td align="center">315<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Responsable en ressources humaines</td>
-<td align="center">
-<br/>315</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Association St-Yves - Université catholique de l'Ouest - Institut de psychologie et sociologie appliquées (IPSA)</td>
+<p align="left">Association St-Yves - Université catholique de l'Ouest - Institut de psychologie et sociologie appliquées (IPSA)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Concepteur webdesigner</p>
+</td>
+<td align="center">320<br/>326<br/>
+</td>
+<td align="center">3 ans<br/>
+</td>
 <td align="center">
-<br/>Concepteur webdesigner</td>
-<td align="center">
-<br/>320<br/>326</td>
-<td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>SUPCREA Grenoble - Ecole privée supérieure de création graphique</td>
+<p align="left">SUPCREA Grenoble - Ecole privée supérieure de création graphique</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Créateur de supports de communication visuelle</p>
+</td>
+<td align="center">321<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
 <td align="center">
-<br/>Créateur de supports de communication visuelle</td>
-<td align="center">
-<br/>321</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Académie Charpentier</td>
+<p align="left">Académie Charpentier</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Responsable de communication et de publicité</p>
+</td>
+<td align="center">321n<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Responsable de communication et de publicité</td>
-<td align="center">
-<br/>321n</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>SUP de PUB - Institut supérieur de communication et de marketing</td>
+<p align="left">SUP de PUB - Institut supérieur de communication et de marketing</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Directeur de projets de communication</p>
+</td>
+<td align="center">321n<br/>
+</td>
+<td align="center">3 ans<br/>
+</td>
 <td align="center">
-<br/>Directeur de projets de communication</td>
-<td align="center">
-<br/>321n</td>
-<td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>Etudes supérieures appliquées aux affaires (ESA3)</td>
+<p align="left">Etudes supérieures appliquées aux affaires (ESA3)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Concepteur-développeur des systèmes d'information</p>
+</td>
+<td align="center">326n<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Concepteur-développeur des systèmes d'information</td>
-<td align="center">
-<br/>326n</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Chambre de commerce et d'industrie Nord de France</td>
+<p align="left">Chambre de commerce et d'industrie Nord de France</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Responsable et directeur d'organisations sociales</p>
+</td>
+<td align="center">332p<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
 <td align="center">
-<br/>Responsable et directeur d'organisations sociales</td>
-<td align="center">
-<br/>332p</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Association nationale des cadres du social (ANDESI)</td>
+<p align="left">Association nationale des cadres du social (ANDESI)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Directeur d'établissement privé d'enseignement</p>
+</td>
+<td align="center">333p<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Directeur d'établissement privé d'enseignement</td>
-<td align="center">
-<br/>333p</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Union nationale rurale d'éducation et de promotion (UNREP)</td>
+<p align="left">Union nationale rurale d'éducation et de promotion (UNREP)</p>
+</td>
 </tr>
 <tr>
+<td align="center">II<br/>
+</td>
 <td align="center">
-<br/>II</td>
+<p align="left">Conservateur restaurateur d'œuvres d'art</p>
+</td>
+<td align="center">342v<br/>
+</td>
+<td align="center">1 an<br/>
+</td>
 <td align="center">
-<br/>Conservateur restaurateur d'œuvres d'art</td>
-<td align="center">
-<br/>342v</td>
-<td align="center">
-<br/>1 an</td>
-<td align="center">
-<br/>Ecoles de Condé (Paris), Ecoles de Condé (Lyon)</td>
+<p align="left">Ecoles de Condé (Paris), Ecoles de Condé (Lyon)</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Manager du développement commercial</p>
+</td>
+<td align="center">312<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Manager du développement commercial</td>
-<td align="center">
-<br/>312</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Institut des professions des affaires et du commerce (IPAC) </td>
+<p align="left">Institut des professions des affaires et du commerce (IPAC) </p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Manager de l'organisation des ressources humaines et des relations sociales</p>
+</td>
 <td align="center">
-<br/>Manager de l'organisation des ressources humaines et des relations sociales</td>
+<p align="center">315n</p>
+</td>
 <td align="center">
-<br/>315n</td>
+<p align="center">2 ans</p>
+</td>
 <td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Institut supérieur de gestion du personnel (ISGP) - FACLIP</td>
+<p align="left">Institut supérieur de gestion du personnel (ISGP) - FACLIP</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Expert en ingénierie des systèmes et réseaux</p>
+</td>
+<td align="center">326<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
 <td align="center">
-<br/>Expert en ingénierie des systèmes et réseaux</td>
-<td align="center">
-<br/>326</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Groupe ESIEA - IN'TECH INFO</td>
+<p align="left">Groupe ESIEA - IN'TECH INFO</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Expert en ingénierie du logiciel</p>
+</td>
 <td align="center">
-<br/>Expert en ingénierie du logiciel</td>
+<p align="center">326</p>
+</td>
 <td align="center">
-<br/>326</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Groupe ESIEA - IN'TECH INFO</td>
+<p align="left">Groupe ESIEA - IN'TECH INFO</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Manager des systèmes d'information</p>
+</td>
 <td align="center">
-<br/>Manager des systèmes d'information</td>
+<p align="center">326</p>
+</td>
 <td align="center">
-<br/>326</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>CESI</td>
+<p align="left">CESI</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Chef de projet international en informatique et réseaux</p>
+</td>
 <td align="center">
-<br/>Chef de projet international en informatique et réseaux</td>
+<p align="center">326n</p>
+</td>
 <td align="center">
-<br/>326n</td>
+<p align="center">5 ans</p>
+</td>
 <td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>Groupe Esaip - Association d'enseignement technique supérieur privé</td>
+<p align="left">Groupe Esaip - Association d'enseignement technique supérieur privé</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Chef de projet système d'information</p>
+</td>
 <td align="center">
-<br/>Chef de projet système d'information</td>
+<p align="center">326p</p>
+</td>
 <td align="center">
-<br/>326p</td>
+<p align="center">2 ans</p>
+</td>
 <td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>Groupe 4</td>
+<p align="left">Groupe 4</p>
+</td>
 </tr>
 <tr>
+<td align="center">I<br/>
+</td>
 <td align="center">
-<br/>I</td>
+<p align="left">Directeur et manager stratégique des organisations sociales</p>
+</td>
 <td align="center">
-<br/>Directeur et manager stratégique des organisations sociales</td>
+<p align="center">332p</p>
+</td>
 <td align="center">
-<br/>332p</td>
+<p align="center">3 ans</p>
+</td>
 <td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>Association nationale des cadres du social (ANDESI)</td>
+<p align="left">Association nationale des cadres du social (ANDESI)</p>
+</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
