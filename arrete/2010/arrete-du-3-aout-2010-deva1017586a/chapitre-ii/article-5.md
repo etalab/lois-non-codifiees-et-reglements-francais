@@ -100,8 +100,6 @@ Les TSEEAC opérateurs confirmés justifiant de dix-huit mois d'activité en qua
 
 Les concepteurs de procédures ayant effectué la formation initiale et justifiant de six mois d'activité en qualité de concepteur de procédures.
 
-Les contrôleurs multisystèmes au CESNAC.
-
 X. ― Au niveau 10
 
 Les instructeurs régionaux.
@@ -129,6 +127,8 @@ Les TSEEAC superviseurs de l'information permanente au SIA justifiant de dix-hui
 Le chef de section sol de l'aérodrome de Paris - Orly.
 
 Le chef du bureau national de l'information aéronautique et son adjoint et les chefs des bureaux régionaux d'information et d'assistance aux vols et leur adjoint.
+
+Les contrôleurs multisystèmes au CESNAC.
 
 XI. ― Au niveau 11
 
@@ -204,9 +204,11 @@ Les adjoints au chef de division dans les directions interrégionales de la séc
 
 Les responsables du système de management intégré (RSMI) des CRNA, du SIA, et des SNA, à l'exception du SNA océan Indien.
 
+Les adjoints aux chefs de département de la DSNA.
+
 XIV. ― Au niveau 14
 
-Les chefs et les adjoints au chef des services  technique  dans les services de la navigation aérienne et dans les organismes classés dans le groupe A.
+Les chefs et les adjoints au chef des services technique dans les services de la navigation aérienne et dans les organismes classés dans le groupe A.
 
 Les chefs de département à l'ENAC.
 

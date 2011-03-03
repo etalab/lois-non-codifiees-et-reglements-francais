@@ -24,11 +24,11 @@ Les chargés de projet.
 
 A la direction des services de la navigation aérienne (DSNA) :
 
-Les coordonnateurs  formation  dans les centres en-route de la navigation aérienne (CRNA).
+Les coordonnateurs formation dans les centres en-route de la navigation aérienne (CRNA).
 
 Les experts confirmés de la direction de la technique et de l'innovation (DTI).
 
-Les adjoints au chef des services  aviation générale  et  Le Bourget  des services de la navigation aérienne de la région parisienne (SNA/RP).
+Les adjoints au chef des services aviation générale et Le Bourget des services de la navigation aérienne de la région parisienne (SNA/ RP).
 
 Les chefs de subdivision dans les organismes de contrôle de la circulation aérienne classés dans les groupes B et C et des services de la navigation aérienne océan Indien et Antilles-Guyane.
 
@@ -36,11 +36,9 @@ Les chefs de la maintenance régionale des services de la navigation aérienne (
 
 Les adjoints au directeur d'aérodrome ou au chef d'organisme classés dans les groupes D et E.
 
-Les adjoints au chef des organismes de contrôle d'Ajaccio et de Bastia.
-
 A la direction de la sécurité de l'aviation civile (DSAC) :
 
-Les coordonnateurs  formation .
+Les coordonnateurs formation.
 
 Les chefs de subdivision dans les délégations sises aux aérodromes classés dans le groupe A.
 
@@ -72,13 +70,13 @@ Les adjoints au chef de bureau.
 
 A la direction des services de la navigation aérienne (DSNA) :
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 Les adjoints au chef de division.
 
-2. A la direction des opérations (DO) :
+2.A la direction des opérations (DO) :
 
-Les chefs de subdivision de l'échelon central de la direction des opérations (DO), du service de l'information aéronautique (SIA), du centre d'exploitation des systèmes de navigation aérienne centraux (CESNAC), des centres en-route de la navigation aérienne (CRNA), de l'organisme d'Orly/aviation générale et des services de la navigation aérienne (SNA), à l'exception des SNA océan Indien et Antilles-Guyane.
+Les chefs de subdivision de l'échelon central de la direction des opérations (DO), du service de l'information aéronautique (SIA), du centre d'exploitation des systèmes de navigation aérienne centraux (CESNAC), des centres en-route de la navigation aérienne (CRNA), de l'organisme d'Orly/ aviation générale et des services de la navigation aérienne (SNA), à l'exception des SNA océan Indien et Antilles-Guyane.
 
 Les chefs des organismes de contrôle de la circulation aérienne des groupes D et E.
 
@@ -86,7 +84,7 @@ Les chefs de division des aérodromes classés dans les groupes B et C.
 
 Les chefs de bureau exécutif permanent des centres en-route de la navigation aérienne.
 
-3. A la direction de la technique et de l'innovation (DTI) :
+3.A la direction de la technique et de l'innovation (DTI) :
 
 Les experts seniors.
 
@@ -106,13 +104,11 @@ Les chargés de communication.
 
 Les chefs de projet.
 
-1. A l'échelon central :
+1.A l'échelon central :
 
-Le chargé de l'unité SUR/MET (unité méthodes sûreté).
+Le chargé de l'unité SUR/ MET (unité méthodes sûreté).
 
-Les adjoints aux chefs de pôle.
-
-2. Dans les directions interrégionales de la sécurité de l'aviation civile (DSAC/IR) :
+2. Dans les directions interrégionales de la sécurité de l'aviation civile (DSAC/ IR) :
 
 Les chefs de division de la délégation de la Guadeloupe et des délégations sises aux aérodromes classés dans le groupe A.
 
@@ -168,7 +164,7 @@ Les conseillers techniques au cabinet du directeur général de l'aviation civil
 
 A la direction des services de la navigation aérienne (DSNA) :
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 Les adjoints aux chefs de département.
 
@@ -176,7 +172,7 @@ Les adjoints aux chefs de mission.
 
 Les chefs de division.
 
-2. A la direction des opérations (DO) :
+2.A la direction des opérations (DO) :
 
 Les chefs de division, à l'exception des chefs de division dans les aérodromes classés dans les groupes B et C.
 
@@ -188,19 +184,21 @@ L'adjoint au chef du service de l'information aéronautique (SIA).
 
 L'adjoint au chef du centre d'exploitation des systèmes de la navigation aérienne centraux (CESNAC).
 
-Les chefs des services  aviation légère  et  circulation aérienne Le Bourget  des services de la navigation aérienne de la région parisienne (SNA/RP).
+Les chefs des services aviation légère et circulation aérienne Le Bourget des services de la navigation aérienne de la région parisienne (SNA/ RP).
 
-Les adjoints au chef des services  technique  et  exploitation  dans les services de la navigation aérienne (SNA) et dans les organismes classés dans le groupe A.
+Les adjoints au chef des services technique et exploitation dans les services de la navigation aérienne (SNA) et dans les organismes classés dans le groupe A.
 
 Le chef du service de la navigation aérienne océan Indien.
 
 Le chef de centre de contrôle de Cayenne-Rochambeau.
 
-Les chefs de la division  technique  et de la division  circulation aérienne  du service de la navigation aérienne Antilles-Guyane.
+Les chefs de la division technique et de la division circulation aérienne du service de la navigation aérienne Antilles-Guyane.
 
 Les responsables du système de management intégré (RSMI) des centres en-route de la navigation aérienne (CRNA) du service de l'information aéronautique (SIA) et des services de la navigation aérienne (SNA), à l'exception du service de la navigation aérienne océan Indien.
 
-3. A la direction de la technique et de l'innovation (DTI) :
+Les adjoints aux chefs de département.
+
+3.A la direction de la technique et de l'innovation (DTI) :
 
 Les chefs de pôle, à l'exception de ceux mentionnés au niveau 3 ci-dessus et au niveau 5 ci-dessous.
 
@@ -210,13 +208,15 @@ Les adjoints aux chefs des pôles consolidation des exigences opérationnelles, 
 
 Les experts seniors chargés d'un projet majeur de la direction des services de la navigation aérienne.
 
-Le chef du  système de management de la qualité et de la sécurité .
+Le chef du système de management de la qualité et de la sécurité.
 
 A la direction de la sécurité de l'aviation civile (DSAC) :
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 L'adjoint au chef de la mission évaluation et amélioration de la sécurité.
+
+Les adjoints aux chefs de pôle.
 
 2. Dans les directions interrégionales de la sécurité de l'aviation civile (DSAC) :
 
@@ -224,19 +224,19 @@ Les chefs de cabinet.
 
 Les chefs de division.
 
-Le chef du département  surveillance et régulation  de la direction de la sécurité de l'aviation civile océan Indien.
+Le chef du département surveillance et régulation de la direction de la sécurité de l'aviation civile océan Indien.
 
 Les chefs des délégations à l'exception de ceux mentionnés au niveau 5 ci-dessous.
 
-Le chef de la mission  aéroport/Grand Ouest .
+Le chef de la mission aéroport/ Grand Ouest.
 
-Les responsables qualité PPO/PSE (pilotage par objectifs/plan de sécurité de l'Etat).
+Les responsables qualité PPO/ PSE (pilotage par objectifs/ plan de sécurité de l'Etat).
 
 A la direction du transport aérien (DTA) :
 
-Les chefs de division et l'adjoint au chef de pôle  Ciel unique  à la mission du Ciel unique européen.
+Les chefs de division et l'adjoint au chef de pôle Ciel unique à la mission du Ciel unique européen.
 
-Les chefs de projet  construction aéronautique  à la sous-direction de la construction aéronautique.
+Les chefs de projet construction aéronautique à la sous-direction de la construction aéronautique.
 
 Les chefs de division du service technique de l'aviation civile (STAC).
 
@@ -246,17 +246,17 @@ Le contrôleur de gestion.
 
 Les délégués.
 
-Le responsable  grands travaux .
+Le responsable grands travaux.
 
 Au service de la formation aéronautique (SEFA) :
 
-Les chefs de bureau.
+Les chefs de centre.
 
 Le responsable qualité.
 
 Dans les services outre-mer de l'aviation civile :
 
-Les chefs des divisions  transport aérien  ou  contrôle technique  du service d'Etat de l'aviation civile (SEAC) Polynésie française.
+Les chefs des divisions transport aérien ou contrôle technique du service d'Etat de l'aviation civile (SEAC) Polynésie française.
 
 Le chef du service sécurité de l'aviation civile du service d'Etat de l'aviation civile (SEAC) Nouvelle-Calédonie.
 
@@ -292,25 +292,25 @@ Les conseillers mobilité carrière de la sous-direction des personnels du secr�
 
 A la direction des services de la navigation aérienne (DSNA) :
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 Les chefs de département.
 
-2. A la direction des opérations :
+2.A la direction des opérations :
 
 Les chefs de département.
 
 Le responsable du système de management intégré (RSMI).
 
-Les adjoints aux chefs des centres en-route de la navigation aérienne (CRNA) et des services de la navigation aérienne (SNA) Centre-Est, Sud-Est et Sud - Sud-Est.
+Les adjoints aux chefs des centres en-route de la navigation aérienne (CRNA) et des services de la navigation aérienne (SNA) Centre-Est, Sud-Est et Sud-Sud-Est.
 
 L'adjoint au chef de l'organisme de Roissy.
 
 Les chefs des organismes de la circulation aérienne classés dans les groupes B et C.
 
-Les chefs des services  technique  et  exploitation  dans les services de la navigation aérienne et dans les organismes classés dans le groupe A de l'arrêté du 17 juin 2008 susvisé.
+Les chefs des services technique et exploitation dans les services de la navigation aérienne et dans les organismes classés dans le groupe A de l'arrêté du 17 juin 2008 susvisé.
 
-3. A la direction de la technique et de l'innovation (DTI) :
+3.A la direction de la technique et de l'innovation (DTI) :
 
 Les conseillers du directeur.
 
@@ -322,7 +322,7 @@ Les chefs de département.
 
 A la direction du transport aérien (DTA) :
 
-Le chef de pôle  Ciel unique  à la mission du Ciel unique européen.
+Le chef de pôle Ciel unique à la mission du Ciel unique européen.
 
 Les chefs de département du service technique de l'aviation civile (STAC).
 
@@ -330,9 +330,9 @@ A la direction de la sécurité de l'aviation civile (DSAC) :
 
 Les chefs de département du groupement pour la sécurité de l'aviation civile.
 
-Les chefs de département des directions interrégionales de la sécurité de l'aviation civile (DSAC/IR), à l'exception du chef de département surveillance et régulation de la DSAC océan Indien.
+Les chefs de département des directions interrégionales de la sécurité de l'aviation civile (DSAC/ IR), à l'exception du chef de département surveillance et régulation de la DSAC océan Indien.
 
-Le chef de la division  transport aérien de Roissy  de la direction de la sécurité de l'aviation civile Nord.
+Le chef de la division transport aérien de Roissy de la direction de la sécurité de l'aviation civile Nord.
 
 Les chefs d'équipe internationale principale de certification.
 
@@ -344,7 +344,7 @@ Les chefs de pôle.
 
 Les adjoints aux directeurs des directions interrégionales de l'aviation civile à l'exception de l'adjoint au directeur de la direction de la sécurité de l'aviation civile océan Indien.
 
-Le responsable  qualité PPO  (pilotage par objectifs) de la direction de la sécurité de l'aviation civile, échelon central (DSAC/EC).
+Le responsable qualité PPO (pilotage par objectifs) de la direction de la sécurité de l'aviation civile, échelon central (DSAC/ EC).
 
 Dans les services outre-mer de l'aviation civile :
 
@@ -392,13 +392,13 @@ A la direction des services de la navigation aérienne (DSNA) :
 
 Les directeurs de programme.
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 Les chefs de mission.
 
 Le directeur de cabinet.
 
-2. A la direction des opérations (DO) :
+2.A la direction des opérations (DO) :
 
 Le secrétaire général.
 
@@ -406,7 +406,7 @@ Le chef de l'organisme d'Orly.
 
 Le chef de l'organisme de Roissy.
 
-Le chef des services de la navigation aérienne de la région parisienne (SNA/RP).
+Le chef des services de la navigation aérienne de la région parisienne (SNA/ RP).
 
 Le chef du système de l'information aéronautique (SIA).
 
@@ -416,13 +416,13 @@ Les chefs des centres en-route de la navigation aérienne (CRNA).
 
 Les chefs des services de la navigation aérienne (SNA), à l'exception du SNA océan Indien, Polynésie française et Nouvelle-Calédonie.
 
-3. A la direction de la technique et de l'innovation (DTI) :
+3.A la direction de la technique et de l'innovation (DTI) :
 
 Les chefs de domaine.
 
 A la direction de la sécurité de l'aviation civile (DSAC) :
 
-1. A l'échelon central :
+1.A l'échelon central :
 
 Le directeur du cabinet.
 
@@ -430,7 +430,7 @@ Les adjoints aux directeurs techniques.
 
 Les chefs de mission.
 
-2. Dans les directions interrégionales de la sécurité de l'aviation civile (DSAC/IR) :
+2. Dans les directions interrégionales de la sécurité de l'aviation civile (DSAC/ IR) :
 
 Les directeurs, à l'exception du directeur de la direction de la sécurité de l'aviation civile océan Indien.
 
@@ -438,7 +438,7 @@ A la direction du transport aérien (DTA) :
 
 Les adjoints au sous-directeur ou au chef de mission.
 
-A l'Ecole nationale de l'aviation civile (ENAC) :
+A l'Ecole nationale de l'aviation civile (ENAC) et au service d'exploitation de la formation aéronautique (SEFA) :
 
 Le secrétaire général.
 

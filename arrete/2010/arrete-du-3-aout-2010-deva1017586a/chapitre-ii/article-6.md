@@ -54,8 +54,6 @@ IX. ― Au niveau 9
 
 Les premiers contrôleurs en fonctions dans les organismes classés dans le groupe C.
 
-Les adjoints aux directeurs d'aérodrome dans les organismes classés dans le groupe D.
-
 Les chefs de la circulation aérienne et les adjoints au chef de la circulation aérienne dans les organismes classés dans le groupe D.
 
 Les directeurs d'aérodromes dans les organismes classés dans le groupe E.
@@ -63,8 +61,6 @@ Les directeurs d'aérodromes dans les organismes classés dans le groupe E.
 Les coordonnateurs dans les détachements civils de coordination.
 
 Les assistants de classe B.
-
-Les contrôleurs multisystèmes au CESNAC.
 
 Les inspecteurs débutants de la surveillance justifiant de moins de dix-huit mois d'activité.
 
@@ -87,6 +83,8 @@ Les assistants de classe A.
 Les superviseurs systèmes au CESNAC et à l'ENAC.
 
 Les inspecteurs de la surveillance justifiant de dix-huit mois d'activité en qualité d'inspecteur débutant.
+
+Les contrôleurs multisystèmes au CESNAC.
 
 XI. ― Au niveau 11
 
@@ -154,9 +152,11 @@ Les chefs des organismes de contrôle de la circulation aérienne classés dans 
 
 Les responsables du système de management intégré (RSMI) des CRNA, du SIA et des SNA, à l'exception du SNA océan Indien.
 
+Les adjoints aux chefs de département de la DSNA.
+
 XIV. ― Au niveau 14
 
-Les chefs et les adjoints au chef des services  exploitation  dans les services de la navigation aérienne et dans les organismes classés dans le groupe A.
+Les chefs et les adjoints au chef des services exploitation dans les services de la navigation aérienne et dans les organismes classés dans le groupe A.
 
 Les chefs de département à l'ENAC.
 
