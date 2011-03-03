@@ -6,6 +6,6 @@ Par dérogation au premier alinéa, lorsque le donneur d'ordre est un client pro
 
 La couverture mentionnée au premier alinéa est au moins équivalente à celle exigée par les règles du marché, pour les couvertures appelées auprès des membres, ou par les règles de fonctionnement de la chambre de compensation, pour les couvertures appelées auprès des adhérents. Les niveaux de couverture précités constituant des exigences minimales, le prestataire peut, lors de la réception de l'ordre et à tout moment, exiger du donneur d'ordre le dépôt d'une couverture complémentaire.
 
-Lorsque, compte tenu des conditions de marché, la couverture déposée par le donneur d'ordre devient insuffisante au regard de celle exigible en vertu du troisième aliéna, la couverture est complétée dans les mêmes conditions et les mêmes délais que ceux prévus aux deuxième et troisième alinéas.
+Lorsque, compte tenu des conditions de marché, la couverture déposée par le donneur d'ordre devient insuffisante au regard de celle exigible en vertu du troisième alinéa, la couverture est complétée dans les mêmes conditions et les mêmes délais que ceux prévus aux deuxième et troisième alinéas.
 
 Lorsque le donneur d'ordre n'a pas constitué ou complété sa couverture dans les délais susmentionnés, le prestataire de services d'investissement procède à la liquidation de tout ou partie de ses engagements ou positions.
