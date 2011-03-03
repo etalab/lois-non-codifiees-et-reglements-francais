@@ -78,7 +78,7 @@ II.-Membres désignés par arrêté du ministre chargé de l'agriculture :
 
 16. Un représentant du Centre national interprofessionnel de l'économie laitière ;
 
-17. Un représentant de France génétique élevage ou, lorsque la Commission nationale d'identification est consultée sur des questions relatives aux animaux des espèces canine et féline, ce représentant est choisi parmi les représentants de la Société centrale canine ;
+17. Un représentant de France génétique élevage ou, lorsque la Commission nationale d'identification est consultée sur des questions relatives aux animaux des espèces canine et féline, ce représentant est choisi parmi les représentants du LOOF ;
 
 Sont également membres, désignés par arrêté du ministre chargé de l'agriculture, de la Commission nationale d'identification lorsqu'elle est consultée sur des questions relatives aux ovins ou aux caprins :
 
@@ -138,4 +138,4 @@ Sont également membres, désignés par arrêté du ministre chargé de l'agricu
 
 41. Un représentant du gestionnaire de la base nationale d'identification des carnivores domestiques ;
 
-42. Un représentant du gestionnaire de l'Observatoire national du comportement canin.
+42. Un représentant de la société centrale canine.
