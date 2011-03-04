@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+La composition du comité de sélection doit rester la même pour la sélection de la totalité des candidats.

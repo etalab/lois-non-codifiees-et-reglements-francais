@@ -1,9 +1,13 @@
 # Article 4
 
-La durée de l'audition prévue au 2° de l'article 6 du décret du 16 novembre 1999 susvisé est de trente minutes.
+Le comité de sélection interministériel prévu à l'article 6 du décret du 16 novembre 1999 susvisé est composé comme suit :
 
-Cette épreuve comporte :
+-un membre du Conseil d'Etat, président ;
 
-1° Une première phase de dix minutes qui doit, notamment, permettre aux membres du comité de sélection d'apprécier les acquis de l'expérience professionnelle du candidat, au vu des éléments présents dans le dossier du candidat ;
+-quatre représentants des administrations nommés parmi les fonctionnaires remplissant les conditions d'accès aux emplois de direction régis par le décret n° 55-1226 du 19 septembre 1955 portant règlement d'administration publique relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, de directeur adjoint et de sous-directeur des administrations centrales de l'Etat, dont un représentant du directeur général de l'administration et de la fonction publique ;
 
-2° Une seconde phase de vingt minutes qui doit, notamment, permettre aux membres du comité de sélection d'apprécier la motivation du candidat, son projet professionnel ainsi que ses aptitudes à exercer des responsabilités supérieures d'encadrement et d'animation.
+-quatre administrateurs civils désignés parmi les délégués titulaires et suppléants représentant le corps à la commission paritaire interministérielle prévue à l'article 4 du décret du 16 novembre 1999 susvisé ;
+
+-deux personnalités qualifiées, reconnues pour leur compétence en matière de recrutement, désignées pour participer aux travaux du comité de sélection avec voix consultative.
+
+Tous les membres du comité de sélection sont soumis aux obligations définies par l'article 26 de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires.
