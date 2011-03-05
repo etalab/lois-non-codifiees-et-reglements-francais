@@ -1,173 +1,108 @@
 # Article 15
 
-A compter du 1er août 1994, les nominations au grade d'ingénieur divisionnaire des travaux de la météorologie sont prononcées conformément au tableau de correspondance ci-après :
+Les nominations au grade d'ingénieur divisionnaire des travaux de la météorologie sont prononcées conformément au tableau de correspondance ci-après :
 
 <table>
 <tbody>
 <tr>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>INGENIEUR DES TRAVAUX DE LA METEOROLOGIE</strong>
-</p>
+<th>
+<br/>INGÉNIEURS DES TRAVAUX <br/>
+<br/>de la météorologie <br/>
+</th>
+<th colspan="2">
+<br/>INGÉNIEURS DIVISIONNAIRES DES TRAVAUX <br/>
+<br/>de la météorologie <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Echelons <br/>
+<br/>
+</th>
+<th>
+<br/>Echelons <br/>
+<br/>
+</th>
+<th>
+<br/>Ancienneté conservée <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>11e <br/>
 </td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>INGENIEUR DIVISIONNAIRE DES TRAVAUX DE LA METEOROLOGIE</strong>
-</p>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise dans la limite de deux ans et six mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">Echelon</p>
+<td align="center">
+<br/>10e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Ancienneté</p>
+<td align="center">
+<br/>5e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Echelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Ancienneté conservée</p>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">10e échelon</p>
+<td align="center">
+<br/>9e <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>4e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise dans la limite de 3 ans</p>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">9e échelon</p>
+<td align="center">
+<br/>8e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Egale ou supérieure à 2 ans</p>
+<td align="center">
+<br/>3e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Sans ancienneté</p>
+<td align="center">
+<br/>3/4 de l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>7e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Inférieure à 2 ans</p>
+<td align="center">
+<br/>2e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise majorée de 1 an</p>
+<td align="center">
+<br/>5/8 de l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">8e échelon</p>
+<td align="center">
+<br/>6e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Egale ou supérieure à 3 ans</p>
+<td align="center">
+<br/>1er <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise diminuée de 3 ans</p>
+<td align="center">
+<br/>1/2 de l'ancienneté acquise majorée de six mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>5e <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Inférieure à 3 ans</p>
+<td align="center">
+<br/>1er <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Egale ou supérieure à 1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise diminuée d'un an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Inférieure à 1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Sans ancienneté</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Egale ou supérieure à 1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Ancienneté acquise diminuée d'un an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Inférieure à 1 an 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Sans ancienneté</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Egale ou supérieure à 2 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Sans ancienneté</p>
+<td align="center">
+<br/>Ancienneté acquise au-delà de deux ans<br/>
 </td>
 </tr>
 </tbody>

@@ -1,23 +1,129 @@
 # Article 16
 
-Les durées moyennes du temps normalement passé dans les échelons du grade d'ingénieur des travaux de la météorologie pour accéder à l'échelon immédiatement supérieur sont fixées ainsi qu'il suit :
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade d'ingénieur des travaux de la météorologie sont fixées comme suit :
 
-1er échelon : un an ;
-
-2ème échelon : un an six mois ;
-
-3ème échelon : deux ans six mois ;
-
-4ème échelon : deux ans six mois ;
-
-5ème échelon : trois ans ;
-
-6ème échelon : trois ans six mois ;
-
-7ème échelon : quatre ans ;
-
-8ème échelon : quatre ans ;
-
-9ème échelon : quatre ans.
-
-A l'exception de celles prévues pour les 1er et 2e échelons, ces durées peuvent être réduites sans pouvoir être inférieures, respectivement, à deux ans pour les 3e et 4e échelons, deux ans trois mois pour le 5e échelon, deux ans neuf mois pour le 6e échelon, trois ans pour les 7e, 8e et 9e échelons.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉCHELONS <br/>
+</th>
+<th>
+<br/>DURÉE MOYENNE <br/>
+</th>
+<th>
+<br/>DURÉE MINIMALE <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>10e <br/>
+</td>
+<td align="center">
+<br/>Quatre ans <br/>
+</td>
+<td align="center">
+<br/>Trois ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9e <br/>
+</td>
+<td align="center">
+<br/>Quatre ans <br/>
+</td>
+<td align="center">
+<br/>Trois ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e <br/>
+</td>
+<td align="center">
+<br/>Quatre ans <br/>
+</td>
+<td align="center">
+<br/>Trois ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e <br/>
+</td>
+<td align="center">
+<br/>Quatre ans <br/>
+</td>
+<td align="center">
+<br/>Trois ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>Trois ans <br/>
+</td>
+<td align="center">
+<br/>Deux ans et trois mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>Deux ans et six mois <br/>
+</td>
+<td align="center">
+<br/>Deux ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>Deux ans <br/>
+</td>
+<td align="center">
+<br/>Un an et six mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>Un an et six mois <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>Un an <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>Un an <br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+</tr>
+</tbody>
+</table>
