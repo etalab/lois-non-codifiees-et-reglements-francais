@@ -1,6 +1,6 @@
 # Article 31
 
-Les laboratoires destinataires des analyses prévues par cet arrêté envoient les souches suivantes au laboratoire national de référence Salmonella de Ploufragan selon des modalités précisées par instruction ministérielle :
+Les laboratoires destinataires des analyses prévues par cet arrêté envoient les souches suivantes au laboratoire national de référence Salmonella selon des modalités précisées par instruction ministérielle :
 
 - souches isolées à partir des prélèvements officiels des agents des services vétérinaires ou des vétérinaires sanitaires ;
 

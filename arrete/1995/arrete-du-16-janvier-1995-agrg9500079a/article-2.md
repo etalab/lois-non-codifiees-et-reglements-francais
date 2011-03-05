@@ -44,4 +44,4 @@ d) Couvoir : l'établissement dont l'activité consiste dans la mise en incubati
 
 17. Abattage sanitaire : l'opération consistant à détruire, en s'entourant de toutes les garanties sanitaires nécessaires, dont la désinfection, tous les volailles et produits atteints ou suspects de contamination ;
 
-18. Laboratoire agréé : laboratoire agréé par le ministre de l'agriculture et de la pêche chargé, sous la responsabilité de celui-ci, d'effectuer les tests de diagnostic prescrits par le présent arrêté. Le laboratoire national de référence chargé notamment de la coordination des méthodes de diagnostic et de leur utilisation par les laboratoires agréés en France est l'AFSSA Ploufragan (Agence française de sécurité sanitaire des aliments, dans les Côtes-d'Armor).
+18. Laboratoire agréé : laboratoire agréé par le ministre chargé de l'agriculture et chargé, sous la responsabilité de celui-ci, d'effectuer les tests de diagnostic prescrits par le présent arrêté.

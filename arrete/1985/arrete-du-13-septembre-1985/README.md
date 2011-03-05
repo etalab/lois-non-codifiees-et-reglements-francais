@@ -1,9 +1,8 @@
-# Arrêté du 13 septembre 1985 portant règlement du pari mutuel
+# Arrêté du 13 septembre 1985 relatif aux conditions d'agrément des laboratoires chargés d'effectuer les épreuves de recherche de la leucose bovine enzootique
 
-- [Titre Ier : Dispositions générales](titre-ier)
-- [Titre II : Les paris](titre-ii)
-- [Titre III : Postes et moyens d'enregistrement 
-du pari mutuel urbain](titre-iii)
-- [Titre IV : Consignes générales pour l'utilisation des bordereaux spéciaux préparés par les parieurs](titre-iv)
-- [Article Annexe 1](article-annexe-1.md)
-- [Article Annexe 2](article-annexe-2.md)
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)

@@ -2,7 +2,7 @@
 
 L'attribution de l'agrément aux laboratoires visés à l'article 1er du présent arrêté est conditionnée par l'engagement du responsable de l'établissement à respecter les conditions ci-après :
 
-1° Obligation pour le responsable scientifique de l'établissement et pour les personnels chargés de l'exécution des analyses pour lesquelles le laboratoire demande l'agrément de participer à un stage de formation aux laboratoires nationaux de référence de l'AFSSA en matière de diagnostic histopathologique et bactériologique des tuberculoses animales, selon les modalités déterminées par ces derniers ;
+1° Obligation pour le responsable scientifique de l'établissement et pour les personnels chargés de l'exécution des analyses pour lesquelles le laboratoire demande l'agrément de participer à un stage de formation aux laboratoires nationaux de référence en matière de diagnostic histopathologique et bactériologique des tuberculoses animales, selon les modalités déterminées par ces derniers ;
 
 2° Réalisation des analyses pour le diagnostic des tuberculoses animales conformément aux méthodes et techniques recommandées par les laboratoires nationaux de référence en matière d'histopathologie et de bactériologie, dans des locaux assurant une protection appropriée de l'environnement et du manipulateur.
 
