@@ -150,7 +150,6 @@
 - [Arrêté du 5 avril 1995 (MENL9500636A)](arrete-du-5-avril-1995-menl9500636a)
 - [Arrêté du 5 avril 1995 (SPSS9501119A)](arrete-du-5-avril-1995-spss9501119a)
 - [Arrêté du 5 décembre 1994 (ENVE9430402A)](arrete-du-5-decembre-1994-enve9430402a)
-- [Arrêté du 5 décembre 1994 (JUSD9430045A)](arrete-du-5-decembre-1994-jusd9430045a)
 - [Arrêté du 5 janvier 1978](arrete-du-5-janvier-1978)
 - [Arrêté du 5 janvier 1995 (ECOT9451395A)](arrete-du-5-janvier-1995-ecot9451395a)
 - [Arrêté du 5 janvier 1995 (EQUS9500058A)](arrete-du-5-janvier-1995-equs9500058a)
