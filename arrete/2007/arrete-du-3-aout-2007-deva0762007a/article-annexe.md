@@ -115,3 +115,9 @@ Paris - Saint-Martin Juliana (Antilles néerlandaises) ;
 Paris - Mombasa (Kenya) ;
 
 Paris - Montréal (Canada).
+
+Jusqu'au 1er mars 2016 :
+
+Paris-Maurice (île Maurice) ;
+
+Lyon-Maurice (île Maurice).
