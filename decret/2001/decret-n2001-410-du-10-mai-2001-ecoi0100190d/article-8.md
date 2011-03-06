@@ -6,6 +6,8 @@ Des arrêtés des ministres chargés de l'économie et de l'énergie, pris aprè
 
 2° Les tarifs d'achat de l'électricité ;
 
-3° La durée du contrat.
+3° La durée du contrat ;
+
+4° Les exigences techniques et financières à satisfaire pour pouvoir bénéficier de l'obligation d'achat. Ces exigences peuvent notamment inclure la fourniture de documents attestant de la faisabilité économique du projet, la fourniture d'éléments attestant de l'impact environnemental du projet ainsi que le respect de critères techniques ou architecturaux de réalisation du projet.
 
 A compter de la date à laquelle la Commission de régulation de l'énergie a été saisie d'un projet d'arrêté par les ministres, elle dispose d'un délai d'un mois pour rendre son avis, délai que les ministres peuvent porter à deux mois à la demande de la commission. Passé ce délai, l'avis est réputé donné. L'avis de la Commission de régulation de l'énergie est publié au Journal officiel de la République française en même temps que l'arrêté.
