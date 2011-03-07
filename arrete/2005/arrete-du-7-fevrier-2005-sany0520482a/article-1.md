@@ -13,3 +13,5 @@ Master physique médicale et biologique , spécialité professionnel et recherch
 Diplôme d'étude approfondie rayonnements et imagerie en médecine, option 1 : physique radiologique et médicale, délivré par l'université Paul Sabatier de Toulouse.
 
 Master professionnel mention physique électronique, spécialité rayonnements ionisants et applications, délivré par l'université de Nantes.
+
+Master "sciences, technologie, santé", mention physique, spécialité physique médicale et biologique, délivré par l'université des sciences et technologies de Lille.
