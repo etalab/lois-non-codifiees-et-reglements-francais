@@ -1007,7 +1007,7 @@ Code de la santé publique
 <p align="center">26</p>
 </td>
 <td valign="top" width="378">
-<p>Agrément nécessaire à l'activité d'hébergement de données de santé à caractère personnel.</p>
+<p>Agrément nécessaire à l'activité d'hébergement de données de santé à caractère personnel sur support informatique.</p>
 </td>
 <td valign="top" width="151">
 <p>Art. R. 1111-10 </p>
