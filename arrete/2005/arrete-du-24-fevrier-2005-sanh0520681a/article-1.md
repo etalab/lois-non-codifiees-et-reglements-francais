@@ -12,8 +12,10 @@ Les épreuves ont lieu simultanément dans chacune des sept interrégions défin
 
 4° Interrégion Ouest comprenant les subdivisions d'Angers, Brest, Nantes, Poitiers, Rennes et Tours ;
 
-5° Interrégion Rhône-Alpes comprenant les subdivisions de Grenoble, Lyon et Saint-Etienne ;
+5° Interrégion Rhône-Alpes comprenant les subdivisions de Clermont-Ferrand, Grenoble, Lyon et Saint-Etienne ;
 
 6° Interrégion Sud comprenant les subdivisions d'Aix-Marseille, Montpellier et Nice ;
 
-7° Interrégion Sud-Ouest comprenant les subdivisions de Bordeaux, Clermont-Ferrand, Limoges, Toulouse, l'interrégion des Antilles-Guyane et la subdivision de l'océan Indien.
+7° Interrégion Sud-Ouest comprenant les subdivisions de Bordeaux, Limoges, Toulouse, l'interrégion des Antilles-Guyane et la subdivision de l'océan Indien.
+
+Dans chaque interrégion, les épreuves classantes nationales anonymes se déroulent dans des centres d'épreuves désignés par arrêté du ministre chargé de la santé et du ministre chargé de l'enseignement supérieur.
