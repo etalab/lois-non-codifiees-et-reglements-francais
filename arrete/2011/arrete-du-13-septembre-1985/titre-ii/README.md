@@ -1,6 +1,7 @@
 # Titre II : Les paris
 
 - [Chapitre Ier : Pari simple](chapitre-ier)
+- [Chapitre II : Pari par reports](chapitre-ii)
 - [Chapitre IV : Pari couplé](chapitre-iv)
 - [Chapitre IV ter : Pari "Couplé ordre international"](chapitre-iv-ter)
 - [Chapitre V : Paris 2 sur 4](chapitre-v)
@@ -11,4 +12,6 @@
 - [Chapitre X bis : Pari "Trio ordre international"](chapitre-x-bis)
 - [Chapitre XI : Pari quarté](chapitre-xi)
 - [Chapitre XII : Pari quartet](chapitre-xii)
+- [Chapitre XII bis : Pari "quarté plus"](chapitre-xii-bis)
+- [Chapitre XIII : Pari MULTI](chapitre-xiii)
 - [Chapitre XIV : Pari quinté plus](chapitre-xiv)
