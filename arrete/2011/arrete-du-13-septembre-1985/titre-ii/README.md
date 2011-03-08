@@ -9,5 +9,6 @@
 - [Chapitre IX : Pari trio](chapitre-ix)
 - [Chapitre X : Pari trio urbain](chapitre-x)
 - [Chapitre X bis : Pari "Trio ordre international"](chapitre-x-bis)
+- [Chapitre XI : Pari quarté](chapitre-xi)
 - [Chapitre XII : Pari quartet](chapitre-xii)
 - [Chapitre XIV : Pari quinté plus](chapitre-xiv)
