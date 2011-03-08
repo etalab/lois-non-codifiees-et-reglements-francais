@@ -1,0 +1,7 @@
+# Article 21-7
+
+Seuls les comptes pour lesquels le Pari mutuel urbain aura pu s'assurer de l'identité du parieur, de son âge, de son adresse et de l'identification du compte de paiement sur lequel seront reversés ses avoirs pourront faire l'objet d'une demande de carte privative.
+
+Seuls les approvisionnements au moyen d'instruments de paiement mis à disposition par un prestataire de service de paiement établi dans un Etat membre de la Communauté européenne ou un Etat partie à l'accord sur l'espace économique européen ayant conclu avec la France une convention contenant une clause d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscale sont autorisés. Seuls les approvisionnements par carte bancaire ou par virement sont autorisés. Les sommes déposées en compte ou portées au crédit de ce compte ne bénéficient d'aucun intérêt.
+
+Les avoirs du parieur sur ce compte ne peuvent être reversés que sur un seul compte de paiement ouvert par le parieur auprès d'un prestataire de services de paiement établi dans un Etat membre de la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention contenant une clause d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscale. Le parieur communique les références de ce compte de paiement lors de l'ouverture de son compte parieur. Le reversement de ces avoirs ne peut être réalisé que par virement vers ce compte de paiement.

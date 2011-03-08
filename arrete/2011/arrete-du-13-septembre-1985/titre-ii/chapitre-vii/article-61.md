@@ -1,0 +1,11 @@
+# Article 61
+
+Dead beat. - Dans le cas d'arrivée "dead heat", les combinaisons payables sont les suivantes :
+
+a) Dans le cas de "dead heat" de trois chevaux ou plus classés à la première place, les combinaisons gagnantes du parti "tiercé" sont les combinaisons des chevaux classés premiers pris trois par trois. Pour chaque combinaison il y a un rapport unique pour les six ordres de classement possibles des trois chevaux entrant dans la même combinaison.
+
+b) Dans le cas de "dead heat" de deux chevaux classés à la première place et de un ou plusieurs chevaux à la troisième place, les combinaisons gagnantes du pari "tiercé" sont les combinaisons des deux chevaux classés premier avec chacun des chevaux classés troisième. Pour chaque combinaison, il y a un rapport unique dans l'ordre exact pour les deux permutations possibles dans lesquelles les deux chevaux classés premier ont été désignés aux deux premières places. Il y a un rapport de base unique pour les quatre permutations dans lesquelles l'un des chevaux classés troisième a été désigné soit à la première, soit à la deuxième place.
+
+c) Dans le cas de "dead heat" de deux chevaux ou plus à la deuxième place, les combinaisons gagnantes du pari "tiercé" sont chacune des combinaisons du cheval classé premier avec tous les chevaux classés deuxième pris deux à deux. Pour chaque combinaison il y a un rapport unique dans l'ordre exact pour les deux permutations possibles dans lesquelles le cheval classé premier a été désigné à la première place. Il y a un rapport de base unique pour les quatre permutations dans lesquelles le cheval classé premier a été désigné soit à la deuxième, soit à la troisième place.
+
+d) Dans le. cas de "dead heat" de deux chevaux ou plus à la troisième place, les combinaisons gagnantes du pari "tiercé" sont les combinaisons du cheval classé premier avec le cheval classé deuxième et avec chacun des chevaux classés troisième. Pour chaque combinaison, le rapport dans l'ordre exact est payé à la permutation dans laquelle le cheval classé premier a été désigné à la première place et le cheval classé deuxième a été désigné à la deuxième place. Il y a un rapport de basé unique pour les cinq permutations dans lesquelles l'un quelconque des trois chevaux n'est pas désigné à la place qu'il occupait à l'arrivée de l'épreuve.
