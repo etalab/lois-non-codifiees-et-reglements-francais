@@ -9,4 +9,3 @@
 - [Article 95-7-1](article-95-7-1.md)
 - [Article 95-8](article-95-8.md)
 - [Article 95-9](article-95-9.md)
-- [Article 95-10](article-95-10.md)
