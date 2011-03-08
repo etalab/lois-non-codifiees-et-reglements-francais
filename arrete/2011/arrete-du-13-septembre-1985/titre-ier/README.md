@@ -7,4 +7,5 @@
 - [Article 3](article-3.md)
 - [Chapitre III : Paiement](chapitre-iii)
 - [Chapitre IV : Utilisation du chèque pari](chapitre-iv)
+- [Chapitre IV bis : Carte privative](chapitre-iv-bis)
 - [Article 8](article-8.md)
