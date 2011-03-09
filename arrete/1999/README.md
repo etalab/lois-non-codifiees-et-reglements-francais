@@ -279,7 +279,6 @@
 - [Arrêté du 13 octobre 1999 (FPPA9900150A)](arrete-du-13-octobre-1999-fppa9900150a)
 - [Arrêté du 13 octobre 1999 (FPPA9900151A)](arrete-du-13-octobre-1999-fppa9900151a)
 - [Arrêté du 13 septembre 1999 (MCCB9900053A)](arrete-du-13-septembre-1999-mccb9900053a)
-- [Arrêté du 14 décembre 1994 (ENVP9430370A)](arrete-du-14-decembre-1994-envp9430370a)
 - [Arrêté du 14 décembre 1999 (ECOC9900187A)](arrete-du-14-decembre-1999-ecoc9900187a)
 - [Arrêté du 14 janvier 1999 (ECOR9905001A)](arrete-du-14-janvier-1999-ecor9905001a)
 - [Arrêté du 14 janvier 1999 (ECOR9905002A)](arrete-du-14-janvier-1999-ecor9905002a)
