@@ -12,9 +12,9 @@ c) Infractions douanières constatées à la charge des voyageurs n'ayant donné
 
 d) Infractions douanières ou infractions relatives aux relations financières avec l'étranger dégagées de tout soupçon d'abus et ne donnant en conséquence lieu qu'à des amendes de principe ou à l'envoi d'une lettre d'observation ;
 
-e) Toutes autres infractions douanières lorsque le montant des droits et taxes compromis, ou des avantages indûment obtenus du Fonds européen d'orientation et de garantie agricole, n'excède pas 100000 euros ou, s'il n'en existe pas, lorsque la valeur des marchandises litigieuses n'excède pas 250000 euros ;
+e) Toutes autres infractions douanières lorsque le montant des droits et taxes compromis, ou des avantages indûment obtenus du Fonds européen agricole de garantie, n'excède pas 100000 euros ou, s'il n'en existe pas, lorsque la valeur des marchandises litigieuses n'excède pas 250000 euros ;
 
-f) Pour les transactions mentionnées au présent alinéa, les directeurs interrégionaux, le directeur de la direction nationale du renseignement et des enquêtes douanières et les directeurs régionaux et fonctionnels peuvent donner délégation de signature aux directeurs des services douaniers et aux inspecteurs principaux, ainsi qu'aux secrétaires généraux, qui sont placés sous leur autorité.
+f) Pour les transactions mentionnées au présent alinéa, les directeurs interrégionaux, le directeur de la direction nationale du renseignement et des enquêtes douanières et les directeurs régionaux et fonctionnels peuvent déléguer leur signature aux agents placés sous leur autorité dans les conditions fixées par le directeur général des douanes et droits indirects. (1)
 
 2° Par le directeur général des douanes et droits indirects :
 
