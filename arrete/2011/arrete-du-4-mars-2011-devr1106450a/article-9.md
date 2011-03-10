@@ -1,0 +1,7 @@
+# Article 9
+
+Pour les installations de puissance crête supérieure à 9 kW, le producteur fournit lors de sa demande de raccordement au gestionnaire de réseau l'un des deux documents suivants :
+
+― une attestation en langue française datant de moins de trois mois de son commissaire au compte, d'un organisme bancaire ou d'un comptable public certifiant que le producteur ou son actionnaire majoritaire dispose de fonds propres, à date de la dernière année auditée, à hauteur de 0,6 € par watt pour l'installation considérée, ainsi que pour l'ensemble de ses projets en file d'attente à partir de la date de publication du présent arrêté. Cette attestation précise les caractéristiques de l'installation mentionnées aux 1, 2 et 4 de l'article 2 ;
+
+― une offre de prêt en langue française d'un ou plusieurs organismes bancaires ou financiers sur le financement nécessaire à la réalisation de l'installation. Cette offre de prêt mentionne les caractéristiques de l'installation mentionnées aux 1, 2 et 4 de l'article 2 et peut être conditionnée, d'une part, à l'obtention par le producteur du tarif d'achat résultant de l'application des conditions de l'annexe 1 pour le trimestre en cours et, d'autre part, au fait que le coût du raccordement de l'installation au réseau public d'électricité tel que précisé dans la proposition technique et financière du gestionnaire de réseau n'excède pas la somme de 500 euros multiplié par la puissance crête, exprimée en kilowatt, de l'installation.
