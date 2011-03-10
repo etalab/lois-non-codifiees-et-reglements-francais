@@ -1546,7 +1546,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <tbody>
 <tr>
 <td valign="top" width="454">
-<p>G-CONTRÔLE COMPLÉMENTAIRE DE L'INSTALLATION DE GAZ CARBURANT SUR VÉHICULE </p>
+<p>G - CONTRÔLE DE L'INSTALLATION GAZ CARBURANT SUR VÉHICULE </p>
 </td>
 <td valign="top" width="227">
 <br/>

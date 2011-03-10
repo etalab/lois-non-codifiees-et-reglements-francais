@@ -139,7 +139,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -541,7 +540,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -778,6 +776,14 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">4.1.1.1.3. Réglage anormalement bas (D, G) (2)</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="609">
 <p>4.2. ECLAIRAGE</p>
 </td>
@@ -925,7 +931,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1329,7 +1334,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1741,7 +1745,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>

@@ -52,9 +52,9 @@ Le papier utilisé est de couleur blanche et son grammage est au minimum de 80 g
 
 -" CV Taxi " ;
 
--" VP Véhicule remise " ;
+-" VP Tourisme avec chauffeur" (2) ;
 
--" CV Véhicule remise " ;
+-" CV Tourisme avec chauffeur" (2) ;
 
 -" VP VLTP " ;
 
@@ -246,7 +246,7 @@ Elles doivent être les suivantes :
 
 -Fond de sécurité : bleu PMS 287 solidité lumière ;
 
--Textes : bleu reflex.
+-Textes : bleu reflex ou noir.
 
 2. 5. Sécurité de la vignette
 
@@ -257,10 +257,6 @@ Ce fond de sécurité doit être constitué d'une trame comprise entre 100 et 15
 -Soit par la présence d'un pictogramme latent, constitué d'une croix de 10 millimètres d'épaisseur de trait calquée sur les deux diagonales de la vignette, révélable sur toute photocopie ;
 
 -Soit par la présence d'un timbre réfléchissant avec perforation.
-
-La vignette doit être rendue autocollante (soit d'origine, soit par l'apposition d'une pellicule plastique recto-verso transparente, soit par tout autre moyen équivalent) de manière à pouvoir être apposée par le contrôleur sur la face intérieure du pare-brise, recto visible de l'extérieur.
-
-Elle doit également comporter un pré-découpage capable d'entraîner lors d'une tentative d'extraction du pare-brise, un déchirement ou un dépôt d'une partie de l'encre sur le pare-brise.
 
 3. Timbre certificat d'immatriculation
 

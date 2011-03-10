@@ -1,6 +1,6 @@
 # Article 12-1
 
-Pour réaliser les contrôles techniques sur les véhicules équipés d'un réservoir de gaz carburant, le contrôleur agréé ou un prestataire visé au II de l'article L. 323-1 du code de la route doit, à compter du 1er janvier 2011, disposer d'une qualification spécifique délivrée par le réseau ou le centre non rattaché.
+Pour réaliser les contrôles techniques prévus à la fonction G de l'annexe I du présent arrêté, le contrôleur dispose d'une attestation de qualification spécifique délivrée par le réseau ou le centre non rattaché.
 
 Cette qualification spécifique doit indiquer le numéro d'agrément préfectoral et doit être notifiée à l'organisme technique central.
 

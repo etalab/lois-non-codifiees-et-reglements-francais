@@ -26,7 +26,7 @@ Au cours du contrôle technique périodique, le contrôleur effectue les contrô
 
 - véhicules utilisés pour l'enseignement de la conduite : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / C. Véhicules utilisés pour l'enseignement de la conduite.
 
-- taxis et véhicules de remise : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / D. Taxis et véhicules de remise.
+- taxis et voitures de tourisme avec chauffeur : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / D. taxis et voitures de tourisme avec chauffeur.
 
 - véhicule de moins de dix places, conducteur compris, affecté au transport public de personnes : 0. Identification / 1. Freinage / 2. Direction / 3. Visibilité / 4. Eclairage, signalisation / 5. Liaison au sol / 6. Structure, carrosserie / 7. Equipements / 8. Organes mécaniques / 9. Pollution, niveau sonore / G. Contrôle complémentaire de l'installation de gaz carburant sur véhicule / E. Véhicules légers affectés au transport public de personnes.
 
@@ -92,7 +92,7 @@ INFD = inférieur droit ;
 
 La localisation d'un défaut de la liste ci-après (partie B) ne peut être effectuée qu'au moyen des termes proposés entre parenthèses pour ce défaut.
 
-7° Au titre de la présente annexe, on entend par véhicule de collection les véhicules dont le certificat d'immatriculation porte la mention " véhicule de collection " et les véhicules dont l'attestation prévue au point a du II du paragraphe 4E de l'article 4 de l'arrêté du 9 février 2009 susvisé indique une première mise en circulation de plus de trente ans.
+7° Au titre de la présente annexe, on entend par véhicule de collection les véhicules dont le certificat d'immatriculation porte la mention " véhicule de collection " et les véhicules dont l'attestation prévue au point a du II du paragraphe 4E de l'article 4 de l'arrêté du 9 février 2009 susvisé indique une première mise en circulation de plus de trente ans. (1)
 
 LISTE DES CONTROLES A EFFECTUER ET DES DEFAUTS CONSTATABLES
 
@@ -129,6 +129,8 @@ I - LISTE DES POINTS DE CONTROLE
 0.4.4. COMPTEUR KILOMETRIQUE
 
 0.4.5. CARROSSERIE
+
+0.4.6. DOCUMENT D'IDENTIFICATION (1)
 
 1. FREINAGE
 
@@ -398,7 +400,7 @@ I - LISTE DES POINTS DE CONTROLE
 
 8.2.4. POMPE D'ALIMENTATION EN CARBURANT
 
-8.2.5. BATTERIES DE TRACTION.
+8.2.5. BATTERIES DE TRACTION
 
 8.3. ECHAPPEMENT
 
@@ -518,108 +520,108 @@ E.1. IDENTIFICATION, DOCUMENTATION
 
 E.1.1. DECLARATION D'AFFECTATION
 
-G. - CONTROLE SUPPLEMENTAIRE DE L'INSTALLATION DE GAZ GNC OU GPL SUR VEHICULE
+G. - CONTROLE DE L'INSTALLATION GAZ CARBURANT SUR VEHICULE
 
-G.1. PRESENTATION VEHICULE GAZ.
+G.1. PRESENTATION VEHICULE GAZ
 
-G.1.1. DOCUMENT SPECIFIQUE GAZ.
+G.1.1. DOCUMENT SPECIFIQUE GAZ
 
-G.1.2. PRESENTATION DU VEHICULE.
+G.1.2. PRESENTATION DU VEHICULE
 
-G.2. ALIMENTATION GAZ.
+G.2. ALIMENTATION GAZ
 
-G.2.1. RESERVOIR DE GAZ.
+G.2.1. RESERVOIR DE GAZ
 
-G.2.2. ACCESSOIRES FIXES SUR LE RESERVOIR.
+G.2.2. ACCESSOIRES FIXES SUR LE RESERVOIR
 
-G.2.3. CIRCUIT DE GAZ CARBURANT.
+G.2.3. CIRCUIT DE GAZ CARBURANT
 
-III. - LISTE DES POINTS DE CONTROLE SE SUBSTITUANT AUX FONCTIONS IDENTIFICATION (0), FREINAGE (1) ET LIAISON AU SOL (5) DE LA PARTIE I POUR LES VEHICULES DE COLLECTION.
+III. - LISTE DES POINTS DE CONTROLE SE SUBSTITUANT AUX FONCTIONS IDENTIFICATION (0), FREINAGE (1) ET LIAISON AU SOL (5) DE LA PARTIE I POUR LES VEHICULES DE COLLECTION
 
 H. VEHICULES DE COLLECTION
 
-H.1. IDENTIFICATION.
+H.1. IDENTIFICATION
 
-H.1.1. PLAQUE D'IMMATRICULATION.
+H.1.1. PLAQUE D'IMMATRICULATION
 
-H.1.2. PLAQUE CONSTRUCTEUR.
+H.1.2. PLAQUE CONSTRUCTEUR
 
-H.1.3. FRAPPE A FROID SUR LE CHASSIS.
+H.1.3. FRAPPE A FROID SUR LE CHASSIS
 
-H.1.4. ENERGIE MOTEUR.
+H.1.4. ENERGIE MOTEUR
 
-H.1.5. NOMBRE DE PLACES ASSISES.
+H.1.5. NOMBRE DE PLACES ASSISES
 
-H.1.6. PLAQUE DE TARE.
+H.1.6. PLAQUE DE TARE
 
-H.1.7. COMPTEUR KILOMETRIQUE.
+H.1.7. COMPTEUR KILOMETRIQUE
 
-H.1.8. PRESENTATION DU VEHICULE.
+H.1.8. PRESENTATION DU VEHICULE
 
-H.1.9. CONDITIONS D'ESSAI.
+H.1.9. CONDITIONS D'ESSAI
 
-H.2. FREINAGE.
+H.2. FREINAGE
 
-H.2.1. DISPOSITIF DE FREINAGE PRINCIPAL A COMMANDE A CABLE.
+H.2.1. DISPOSITIF DE FREINAGE PRINCIPAL A COMMANDE A CABLE
 
-H.2.2. FREIN DE SERVICE.
+H.2.2. FREIN DE SERVICE
 
-H.2.3. FREIN DE STATIONNEMENT.
+H.2.3. FREIN DE STATIONNEMENT
 
-H.2.4. FREIN DE SECOURS.
+H.2.4. FREIN DE SECOURS
 
-H.2.5. RESERVOIR DE LIQUIDE DE FREIN.
+H.2.5. RESERVOIR DE LIQUIDE DE FREIN
 
-H.2.6. MAITRE-CYLINDRE.
+H.2.6. MAITRE-CYLINDRE
 
-H.2.7. CANALISATION DE FREIN.
+H.2.7. CANALISATION DE FREIN
 
-H.2.8. FLEXIBLE DE FREIN.
+H.2.8. FLEXIBLE DE FREIN
 
-H.2.9. CORRECTEUR, REPARTITEUR DE FREINAGE.
+H.2.9. CORRECTEUR, REPARTITEUR DE FREINAGE
 
-H.2.10. PEDALE DU FREIN DE SERVICE.
+H.2.10. PEDALE DU FREIN DE SERVICE
 
-H.2.11. COMMANDE DU FREIN DE STATIONNEMENT.
+H.2.11. COMMANDE DU FREIN DE STATIONNEMENT
 
-H.2.12. CABLE, TRINGLERIE DU FREIN DE STATIONNEMENT.
+H.2.12. CABLE, TRINGLERIE DU FREIN DE STATIONNEMENT
 
-H.2.13. DISQUE DE FREIN.
+H.2.13. DISQUE DE FREIN
 
-H.2.14. ETRIER, CYLINDRE DE ROUE.
+H.2.14. ETRIER, CYLINDRE DE ROUE
 
-H.2.15. TAMBOUR DE FREIN.
+H.2.15. TAMBOUR DE FREIN
 
-H.2.16. PLAQUETTE DE FREIN.
+H.2.16. PLAQUETTE DE FREIN
 
-H.2.17. SYSTEME D'ASSISTANCE DE FREINAGE.
+H.2.17. SYSTEME D'ASSISTANCE DE FREINAGE
 
-H.2.18. TEMOIN DE MAUVAIS FONCTIONNEMENT DU SYSTEME DE FREINAGE.
+H.2.18. TEMOIN DE MAUVAIS FONCTIONNEMENT DU SYSTEME DE FREINAGE
 
-H.2.19. TEMOIN DE NIVEAU DE LIQUIDE DE FREIN.
+H.2.19. TEMOIN DE NIVEAU DE LIQUIDE DE FREIN
 
-H.2.20. TEMOIN D'USURE DE PLAQUETTES DE FREINS.
+H.2.20. TEMOIN D'USURE DE PLAQUETTES DE FREINS
 
-H.3. LIAISON AU SOL.
+H.3. LIAISON AU SOL
 
-H.3.1. SUSPENSION.
+H.3.1. SUSPENSION
 
-H.3.2. RESSORT, BARRE DE TORSION (Y COMPRIS ANCRAGES).
+H.3.2. RESSORT, BARRE DE TORSION (Y COMPRIS ANCRAGES)
 
-H.3.3. AMORTISSEUR (Y COMPRIS ANCRAGES).
+H.3.3. AMORTISSEUR (Y COMPRIS ANCRAGES)
 
-H.3.4. ROULEMENT DE ROUE.
+H.3.4. ROULEMENT DE ROUE
 
-H.3.5. DEMI-TRAIN AV (Y COMPRIS ANCRAGES).
+H.3.5. DEMI-TRAIN AV (Y COMPRIS ANCRAGES)
 
-H.3.6. DEMI-TRAIN AR (Y COMPRIS ANCRAGES).
+H.3.6. DEMI-TRAIN AR (Y COMPRIS ANCRAGES)
 
-H.3.7. BARRE STABILISATRICE (Y COMPRIS ANCRAGES).
+H.3.7. BARRE STABILISATRICE (Y COMPRIS ANCRAGES)
 
-H.3.8. CIRCUIT DE SUSPENSION (Y COMPRIS ACCUMULATEURS).
+H.3.8. CIRCUIT DE SUSPENSION (Y COMPRIS ACCUMULATEURS)
 
-H.3.9. ESSIEU RIGIDE (Y COMPRIS ANCRAGES).
+H.3.9. ESSIEU RIGIDE (Y COMPRIS ANCRAGES)
 
-H.3.10. ROUE.
+H.3.10. ROUE
 
 H.3.11. PNEUMATIQUE

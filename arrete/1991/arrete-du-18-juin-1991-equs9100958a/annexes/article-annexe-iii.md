@@ -4,15 +4,17 @@ MATERIELS DE CONTROLE
 
 Dans la présente annexe, la "conformité à une norme ou à un cahier des charges" signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes, en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
 
-Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel de contrôle est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
+Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel visé aux points 1.1, 1.2, 1.3, 1.5 et 1.6.3 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
 
-Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable dans les douze mois qui suivent le nouvel agrément.
+Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1, 1.2, 1.3, 1.5 et 1.6.3 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable dans les douze mois qui suivent le nouvel agrément.
 
-Dans les installations déjà agréées et dans le cadre du même agrément, un délai de vingt-quatre mois est accordé pour la mise en conformité du matériel de contrôle quand une nouvelle version de norme ou de cahier des charges est applicable. Dans le cas particulier de normes ou cahiers des charges applicables avant le 1er septembre 2010, cette mise en conformité est réalisée avant le 1er septembre 2012.
+Dans les installations déjà agréées et dans le cadre du même agrément, un délai de vingt-quatre mois est accordé pour la mise en conformité du matériel visé aux points 1.1, 1.2, 1.3, 1.5 et 1.6.3 quand une nouvelle version de norme ou de cahier des charges est applicable. Dans le cas particulier de normes ou cahiers des charges applicables avant le 1er septembre 2010, cette mise en conformité est réalisée avant le 1er septembre 2012.
 
-En cas de remplacement d'un matériel sur une installation agréée, le nouveau matériel est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable.
+En cas de remplacement d'un matériel visé aux points 1.1, 1.2, 1.3, 1.5 et 1.6.3 sur une installation agréée, le nouveau matériel visé aux points 1.1, 1.2, 1.3, 1.5 et 1.6.3 est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable.
 
-Les appareils prévus aux points 1.3., 1.4., 1.5., 1.6. doivent transmettre par liaison informatique, à l'outil informatique de l'installation de contrôle, les informations relatives aux essais réalisés. Cette obligation est applicable à compter du 1er janvier 2010 pour l'appareil prévu au point 1. 1..
+Les matériels visés aux points 1.1, 1.3.1, 1.4, 1.5 et 1.6 transmettent par liaison informatique à l'outil informatique de l'installation de contrôle les informations relatives aux essais réalisés.
+
+Pour chaque matériel de contrôle visé au point 1.1, 1.2., 1.3, 1.5 et 1.6.3, les normes ou cahiers des charges concernés applicables ainsi que les dates de mise en application dans les installations de contrôle sont définis dans une liste approuvée par le ministre chargé des transports, tenue à jour par l'organisme technique central et disponible sur le site internet de l'organisme technique central.
 
 1. Partie mécanique
 
@@ -86,7 +88,39 @@ La conformité dispositif de diagnostic des systèmes embarqués de contrôle de
 
 - détecteur de fuite de gaz ;
 
-- solution moussante à pH neutre.
+- solution moussante à pH neutre
+
+1.8. Spécifications générales :
+
+1.8.1.L'ensemble des matériels fait l'objet de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
+
+1.8.2.L'ensemble des matériels de mesure fait l'objet de dispositions pour le contrôle régulier de la chaîne de mesure.
+
+1.8.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
+
+1.9. Spécifications particulières :
+
+1.9.1. Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé aux points 1.1,1.3.1 et 1.4 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé par des personnels qualifiés, préalablement à la première opération de contrôle nécessitant l'utilisation dudit matériel.
+
+1.9.2. Les matériels visés aux points 1.1, 1.3.1, 1.4, 1.6.1 et 1.6.2 font l'objet :
+
+- d'un minimum de deux étalonnages par année civile (vérification et, si nécessaire, ajustage), par des personnels qualifiés.L'écart entre deux étalonnages successifs n'excède pas huit mois ;
+
+- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés.L'écart entre deux visites successives n'excède pas huit mois.
+
+Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité ou agréé pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles. Le contrat comporte un engagement de respect des échéances réglementaires concernant les opérations concernées et un engagement à ne faire intervenir que des personnels qualifiés pour les matériels concernés.
+
+1.9.3. Le matériel visé au point 1.3.3 fait l'objet d'un étalonnage tous les vingt-quatre mois.
+
+1.9.4. Les matériels prévus aux points 1.1, 1.3.1, 1.4, 1.6.1, 1.6.2 et 1.6.3 font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné. Cette disposition est formalisée par un contrat de maintenance.
+
+1.9.5. En cas de défaut affectant une prise de mesure :
+
+a) Les matériels sont remis en état ou remplacés dans les huit jours ouvrables suivant l'apparition du défaut par des personnels qualifiés dépendant d'un organisme habilité ou agréé pour les matériels concernés ;
+
+b) Des méthodes alternatives prévues dans les procédures du centre ou de l'installation auxiliaire peuvent être mises en œuvre dans l'attente de la remise en état ou du remplacement du matériel. L'utilisation de ces méthodes ne peut excéder huit jours ouvrables. A défaut de telles méthodes, l'activité de l'installation de contrôle est arrêtée immédiatement, à l'exception des contrôles techniques ne nécessitant pas l'usage du matériel défectueux, jusqu'à la remise en état ou le remplacement du matériel.
+
+1.9.6. Un cahier des charges approuvé par le ministre chargé des transports définit les conditions d'habilitation des organismes et de qualification des intervenants mentionnés au présent point.
 
 2. Partie informatique
 
@@ -108,7 +142,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 évolution technique.
 
-2.1.4. Des procédures de maintenance de l'outil informatique doivent être prévues afin qu'en cas d'incident, elles assurent la remise en état ou le remplacement de l'outil informatique dans les deux jours ouvrables. Ces procédures doivent prévoir l'interruption de l'activité du centre, en cas de panne de l'outil informatique empêchant la saisie ou l'archivage ou le traitement local des informations, et en particulier l'impression du procès verbal de contrôle.
+2.1.4. En cas d'incident, l'outil informatique est remis en état ou remplacé dans les deux jours ouvrables. En cas de panne de l'outil informatique empêchant la saisie ou l'archivage ou le traitement local des informations et, en particulier l'impression du procès-verbal de contrôle, l'activité de l'installation est interrompue.
 
 2.2. Spécifications particulières.
 

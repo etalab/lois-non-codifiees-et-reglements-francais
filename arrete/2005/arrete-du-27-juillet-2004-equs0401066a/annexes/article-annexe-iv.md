@@ -60,7 +60,9 @@ Durant la partie pratique de la formation spécialisée au contrôle technique d
 
 - de la réalisation au cours des 12 derniers mois écoulés d'au moins 500 contrôles techniques de véhicules lourds ;
 
-- d'un audit annuel favorable sur la réalisation d'une visite technique périodique d'un véhicule de transport de marchandises, en l'absence d'un audit annuel favorable sur un véhicule de transport en commun de personnes ou de marchandises dangereuses.
+- d'un audit portant sur la réalisation d'une visite technique périodique d'un véhicule de transport de marchandises, au moins une fois chaque année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit. En cas de résultat défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. L'audit réalisé au titre du point 2 de la section II de la présente annexe est pris en compte dans l'application du présent point.
+
+Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 2.1. .
 
 2. 2. Après une période d'inactivité supérieure à un an, le réseau ou le représentant légal du centre non exploité par un réseau assure la remise à niveau du contrôleur. Cette remise à niveau est constituée :
 
@@ -100,7 +102,11 @@ Que ce soit pour le maintien de la qualification au titre du contrôle technique
 
 - participe à une formation continue annuelle de sept heures pour le contrôle technique de véhicules de marchandises dangereuses et de quatre heures pour les véhicules de transport en commun de personnes ;
 
-- fait l'objet d'un audit annuel favorable sur la réalisation d'une visite technique périodique pour la catégorie de contrôle concernée.
+- d'un audit portant sur la réalisation d'une visite technique périodique pour la catégorie de contrôle concernée, au moins une fois chaque année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit. En cas de résultat défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+
+En cas de carence constatée ou de non-respect d'au moins une des prescriptions relatives au maintien de qualification Q2 ou Q3, le réseau ou le représentant légal de l'installation non exploitée par un réseau assure la remise à niveau du contrôleur rattaché à l'installation pour garantir le niveau des prestations effectuées et à l'issue, atteste que ledit contrôleur dispose des compétences nécessaires pour exercer sa mission.
+
+Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 2. .
 
 Section II bis
 
@@ -120,11 +126,11 @@ Section III
 
 Exploitant de centre de contrôle
 
-1.A défaut de la présentation d'une attestation de stage justifiant la réalisation d'une des formations prévues à la section I de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures portant sur la qualité et sur les réglementations spécifiques s'appliquant à la profession.
+1. A défaut de la présentation d'une attestation de stage justifiant la réalisation d'une des formations prévues à la section I de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures portant sur la qualité et sur les réglementations spécifiques s'appliquant à la profession.
 
 Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du premier alinéa ci-dessus dans les trois mois qui suivent sa désignation.
 
-2. Les formations relatives au contrôle technique visées au présent chapitre sont validées après un contrôle des connaissances satisfaisant.
+Un cahier des charges approuvé par le ministre chargé des transports et disponible sur le site internet de l'OTC précise les modalités d'application du présent point 1.
 
 Section IV
 
@@ -140,7 +146,7 @@ Les formations spécialisées de remise à niveau et de maintien de qualificatio
 
 2. 1. Approbation des formations.
 
-Les formations (programme et contenu) visées à la présente annexe sont approuvées par le ministère chargé des transports. La liste des programmes approuvés est sur le site internet de l'organisme technique central.
+Les formations (programme et contenu) visées à la présente annexe sont approuvées par le ministère chargé des transports. La liste des programmes approuvés est sur le site internet de l'organisme technique central. Les formations ne peuvent être réalisées que si leurs dates de début et de fin de réalisation sont incluses dans leur période de validité d'approbation.
 
 L'organisme de formation met en œuvre les prescriptions du cahier des charges défini par le ministère chargé des transports.L'approbation d'une formation peut être retirée, par le ministère chargé des transports, si les prescriptions ne sont pas respectées.
 
@@ -148,7 +154,7 @@ L'organisme de formation met en œuvre les prescriptions du cahier des charges d
 
 - un module technique général, d'une durée minimale de 14 heures, dont le référentiel est défini au plus tard le 1er juillet de chaque année par le ministère chargé des transports sur la base de ses priorités et des propositions formulées par les réseaux de contrôle et l'organisme technique central ;
 
-- un module spécifique au réseau ou au centre non exploité par un réseau dans lequel le contrôleur est amené à exercer. Dans le cas d'un contrôleur agréé exerçant dans plusieurs réseaux ou centres non rattachés, le contrôleur justifie de la réalisation de ce module spécifique de chacun des réseaux et / ou centres non rattachés.
+- un module spécifique au réseau ou au centre non exploité par un réseau dans lequel le contrôleur est amené à exercer.
 
 3. Statut des stagiaires
 
@@ -162,7 +168,7 @@ Un centre de contrôle ne peut accueillir qu'un seul contrôleur stagiaire en fo
 
 4. Validation de la formation
 
-Toutes les formations de quinze heures et plus visées à la présente annexe, dispensées par un organisme de formation, sont validées après un contrôle de connaissance et un examen pratique portant sur l'ensemble de la réalisation d'une visite technique périodique satisfaisante.
+Toutes les formations de quinze heures et plus visées à la présente annexe, dispensées par un organisme de formation, sont validées après un contrôle de connaissance et un examen pratique portant sur l'ensemble de la réalisation d'une visite technique périodique satisfaisante. L'examen pratique n'est pas exigé dans le cadre des formations prévues à la section III de la présente annexe.
 
 A l'issue de la formation, l'organisme de formation délivre une attestation de stage mentionnant :
 

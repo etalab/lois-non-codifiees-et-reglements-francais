@@ -4,7 +4,7 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 1. Organisation générale
 
-1.1. Chaque centre de contrôle doit mettre en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions doit figurer dans le cahier des charges et doit être établi par référence à la norme NF EN ISO/CEI 17020 : 2005.
+1.1. Chaque centre de contrôle met en place et applique un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions figure dans le cahier des charges et est établi par référence à la norme NF EN ISO/CEI 17020 : 2005.
 
 1.2. La personne physique assurant l'exploitation du centre de contrôle, désignée à cet effet, par le titulaire de l'agrément du centre, doit justifier d'une formation spécifique telle que définie au paragraphe 7 de l'annexe IV du présent arrêté. Elle se tient informée de l'évolution de la réglementation du contrôle technique, de la technologie des véhicules légers et de celle des appareils de mesure et de contrôle.
 
@@ -16,7 +16,7 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 2.3. Chaque centre de contrôle non rattaché s'engage à détacher ses contrôleurs pour participer à des compléments de formation et de recyclage, conformément au cahier des charges joint à la décision d'agrément.
 
-2.4. L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 26-3 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
+2.4. L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 26-6 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
 
 3. Suivi des matériels
 
@@ -30,7 +30,7 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 4.1. Une copie de chaque procès-verbal de contrôle est conservée par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
 
-4.2. Pour chaque contrôle technique effectué, sont relevées systématiquement les valeurs enregistrées par les appareils de mesure suivant la forme définie par l'Organisme Technique Central, ainsi que toutes observations faites par le contrôleur. Ces informations doivent être conservées par le centre de contrôle pendant une durée de quatre ans.
+4.2. Pour chaque contrôle technique effectué, sont relevées systématiquement les valeurs enregistrées par les appareils de mesure suivant la forme définie par l'Organisme Technique Central, ainsi que toutes observations faites par le contrôleur. Ces informations doivent être conservées par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
 
 5. Transmission et diffusion des informations relatives aux contrôles techniques effectués
 
@@ -56,23 +56,11 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 7. Audit des installations de contrôle
 
-7.1. On désigne par "audit des installations de contrôle'' l'examen auquel ces installations et leur organisation sont soumises dans le cadre normal de leur activité.
+7.1. On désigne par audit des installations de contrôle l'examen auquel ces installations et leur organisation sont soumises dans le cadre normal de leur activité.
 
-7.2. L'audit des installations rattachées à un réseau est effectué par le réseau ou par un organisme habilité par celui ci après accord du ministre chargé des transports. Chaque installation de contrôle s'engage à respecter les procédures de déclenchement et de déroulement d'audit définies par ce réseau.
+7.2. Les installations de contrôle respectent les procédures de déclenchement et de déroulement d'audit définies par les organismes visés aux points 26-3 et 26-4 du présent arrêté.
 
-7.3. L'audit des centres de contrôle non rattachés est effectué par un organisme agréé par le ministre chargé des transports. Le centre de contrôle s'engage à respecter les procédures de déclenchement et de déroulement d'audit définies par cet organisme.
-
-L'organisme d'audit doit mettre en œuvre les prescriptions du cahier des charges défini par le ministère chargé des transports. L'agrément de l'organisme peut être retiré par le ministère chargé des transports, si les prescriptions qui lui sont imposées ne sont pas respectées.
-
-7.4. Toute installation de contrôle agréée doit faire l'objet d'un audit au moins une fois par an.
-
-7.5. Chaque contrôleur doit faire l'objet d'un audit, au moins tous les deux ans, portant sur la réalisation d'au moins une visite technique périodique. Cet audit est réalisé par le réseau ou l'organisme prévu aux paragraphes 7.2 et 7.3.
-
-7.6. Les organismes habilités, tel que prévu au paragraphe 7.2, ou agréés, tel que prévu au paragraphe 7.3, qui réalisent des audits d'installations et de contrôleurs prévus ci-dessus doivent être certifiés selon le référentiel NF EN ISO 9001 dans le domaine de la réalisation d'audits d'installations et de contrôleurs techniques. Les organismes doivent être certifiés :
-
-- avant le 1er janvier 2011 pour un organisme habilité ou agréé avant le 1er janvier 2010 ;
-
-- un an après la date d'habilitation ou d'agrément pour un organisme habilité ou agréé depuis le 1er janvier 2010.
+7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l'installation transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
 8. Installations auxiliaires
 

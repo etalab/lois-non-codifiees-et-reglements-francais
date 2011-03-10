@@ -30,7 +30,7 @@ La désignation du document présenté au lieu du certificat d'immatriculation o
 
 En complément du certificat d'immatriculation ou de l'un des documents d'identification mentionnés ci-dessus les documents suivants sont présentés au contrôleur, lors de chaque contrôle technique :
 
--notice descriptive et certificat de conformité du véhicule ou sa copie, le cas échéant ;
+-notice descriptive ou copie du certificat de conformité européen du véhicule, le cas échéant ;
 
 -pour les véhicules livrés non prêts à l'emploi et à la première présentation à la visite technique périodique : un certificat de conformité initial conforme à l'arrêté du 18 novembre 2005 susvisé ;
 
@@ -44,6 +44,6 @@ En complément du certificat d'immatriculation ou de l'un des documents d'identi
 
 Cette attestation est délivrée, suite à la vérification du fonctionnement du système de limitation de vitesse et de la valeur de réglage de vitesse limite de celui-ci, par le constructeur du véhicule, son représentant ou par une station spécialement agréée par le préfet pour le contrôle du chronotachygraphe. La liste des représentants des constructeurs, des centres de contrôle et des stations autorisés à délivrer une attestation de vérification du système de limitation est communiquée au ministre en charge des transports. Les listes communiquées sont disponibles sur le site internet de l'organisme technique central ;
 
--pour les véhicules de transport en commun de personnes visés à l'article R. 311-1 du code de la route et affectés au transport d'enfants, mis en circulation à partir du 1er janvier 2010, un certificat d'installation du dispositif éthylotest antidémarrage établi conformément à la circulaire du 28 janvier 2009 susvisée (annexe I) et la dernière attestation de vérification périodique du dispositif à compter de la deuxième année d'installation du dispositif (annexe XII de l'arrêté du 2 juillet 1982 susvisé).
+-pour les véhicules de transport en commun de personnes visés à l'article R. 311-1 du code de la route et affectés au transport d'enfants, mis en circulation à partir du 1er janvier 2010, un certificat d'installation du dispositif éthylotest antidémarrage établi conformément à la circulaire du 28 janvier 2009 susvisée (annexe I) et, à compter de la deuxième année d'installation du dispositif, une attestation datant de moins d'un an de vérification périodique du dispositif. A compter du 1er janvier 2012, cette attestation est conforme à l'annexe XII de l'arrêté du 2 juillet 1982 susvisé.
 
-Le certificat d'installation est délivré suite à l'installation du dispositif éthylotest antidémarrage, par le constructeur du véhicule, son représentant ou par un installateur indépendant dont l'installation est vérifiée par l'Union technique de l'automobile et du cycle. La liste des installateurs indépendants autorisés à installer un dispositif éthylotest antidémarrage est communiquée au ministre en charge des transports. Les listes communiquées sont disponibles sur le site internet de l'organisme technique central.
+Le certificat d'installation est délivré suite à l'installation du dispositif éthylotest antidémarrage, par le constructeur du véhicule, son représentant ou par un installateur indépendant qualifié par l'Union technique de l'automobile et du cycle. La liste des installateurs indépendants autorisés à installer un dispositif éthylotest antidémarrage est communiquée au ministre en charge des transports. Les listes communiquées sont disponibles sur le site internet de l'Union technique de l'automobile et du cycle.

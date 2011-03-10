@@ -1,3 +1,3 @@
 # Article 35-2
 
-Les récépissés de déclaration sont inscrits dans un registre national qui est élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+L'audit des installations exploitées par un réseau et de leurs contrôleurs est effectué par le réseau ou par un organisme habilité par celui-ci après accord du ministre chargé des transports.

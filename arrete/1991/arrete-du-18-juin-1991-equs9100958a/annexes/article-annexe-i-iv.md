@@ -390,7 +390,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -794,7 +793,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1214,7 +1212,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1599,7 +1596,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1995,7 +1991,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -2385,7 +2380,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -2477,7 +2471,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>9.1.2.1.1. Excessive</p>
+<p>9.1.2.1.1. Excessive ou mesures instables (2)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>

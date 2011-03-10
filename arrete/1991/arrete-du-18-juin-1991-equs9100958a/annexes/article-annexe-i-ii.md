@@ -125,7 +125,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification, sur un caractère</p>
+<p>0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -133,7 +133,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.2.4. Non-concordance du numéro d'identification avec le document d'identification, sur plus d'un caractère</p>
+<p>0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -147,18 +147,18 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.3.1. Absence</p>
+<p>0.2.1.3.1. Absence (2)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">O</p>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.3.2. Illisible ou contrôle impossible</p>
+<p>0.2.1.3.2. Illisible ou contrôle impossible (2)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">O</p>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification, sur un caractère</p>
+<p>0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -183,10 +183,18 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.2.2.4. Non-concordance du numéro d'identification avec le document d'identification, sur plus d'un caractère</p>
+<p>0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid (2)</p>
+</td>
+<td>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
@@ -411,6 +419,26 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 <p>0.4.5.1.1. Non-concordance avec le document d'identification</p>
 </td>
 <td valign="top" width="61">
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">0.4.6 Document d'identification (2)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">0.4.6.1. Spécification (2)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">0.4.6.1.1. Nombre de caractères du numéro d'identification différent de celui des numéros de plaque<br/>constructeur ou de frappe à froid  (2)</p>
+</td>
+<td>
 <p align="center">N</p>
 </td>
 </tr>

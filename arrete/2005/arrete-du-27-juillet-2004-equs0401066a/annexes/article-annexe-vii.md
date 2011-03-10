@@ -98,6 +98,8 @@ b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présent
 
 4. La copie de la notification d'agrément du réseau pour le contrôle technique des véhicules lourds.
 
+5. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
+
 II. - Demande d'agrément
 
 L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
@@ -228,11 +230,15 @@ b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présent
 
 6. L'avis de l'organisme technique central suivant le modèle de l'appendice 10 de la présente annexe.
 
-7. Dans le cas d'une demande de renouvellement d'agrément :
+7. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté ou un récépissé délivré par l'organisme accréditeur indiquant que la demande d'intégration de l'installation dans le périmètre d'accréditation du réseau a été déposée.
+
+8. Dans le cas d'une demande de renouvellement d'agrément :
 
 a) Les éléments permettant d'apprécier que l'installation répond aux besoins des usagers, assure une meilleure couverture géographique ou réduit les déplacements imposés aux véhicules lourds ;
 
 b) Un bilan d'activité sur les quatre dernières années permettant d'apprécier l'objectivité et la qualité des contrôles techniques effectués.
+
+c. Le justificatif indiquant que l'installation fait partie du périmètre d'accréditation du réseau conformément aux articles 22 et 32 du présent arrêté.
 
 II. - Demande d'agrément
 
@@ -327,6 +333,22 @@ Le dossier de demande de renouvellement est transmis au moins six mois avant la 
 - un bilan de l'activité du réseau sur la période écoulée d'agrément ;
 
 - un bilan détaillé des activités en installations auxiliaires.
+
+Chapitre VI
+
+Organismes d'audit
+
+I. - Demande initiale d'agrément
+
+Le dossier de demande initiale d'agrément prévu à l'article 35-1 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central.
+
+II. - Modification du dossier d'agrément
+
+Toute modification du dossier d'agrément est portée à la connaissance du ministre chargé des transports dans les meilleurs délais conformément au cahier des charges visé à l'article 35-1 du présent arrêté.
+
+III. - Demande de renouvellement d'agrément
+
+Le dossier de demande de renouvellement prévu à l'article 35-1 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
 
 APPENDICE 1
 
@@ -639,65 +661,426 @@ Matériels
 <table>
 <tbody>
 <tr>
-<td width="199">
+<th>
+<br/>
+</th>
+<th>
+<br/>Ligne 1</th>
+<th>
+<br/>Ligne 2</th>
+<th>
+<br/>Ligne X</th>
+</tr>
+<tr>
+<td align="center">
+<br/>- fosse</td>
+<td align="center">
 <br/>
 </td>
-<td width="116">
-<p align="center">Ligne 1</p>
+<td align="center">
+<br/>
 </td>
-<td width="118">
-<p align="center">Ligne 2</p>
-</td>
-<td width="120">
-<p align="center">Ligne X</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p>Fosse ou appareil de levage</p>
+<td align="center">
+<br/>ou</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Freinomètre à rouleaux</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service :</p>
+<td align="center">
+<br/>- appareil de levage (marque, type, date de mise en service)</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Plaques à jeux</p>
-<p>Date de mise en service :</p>
+<td align="center">
+<br/>Freinomètre à rouleaux</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Opacimètre</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service</p>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Contrôle du réglage<br/>des phares</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service</p>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Plaques à jeux</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Opacimètre</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Contrôle du réglage des phares</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité.</td>
 </tr>
 </tbody>
 </table>
@@ -844,65 +1227,426 @@ Matériels
 <table>
 <tbody>
 <tr>
-<td width="199">
+<th>
+<br/>
+</th>
+<th>
+<br/>Ligne 1</th>
+<th>
+<br/>Ligne 2</th>
+<th>
+<br/>Ligne X</th>
+</tr>
+<tr>
+<td align="center">
+<br/>- fosse</td>
+<td align="center">
 <br/>
 </td>
-<td width="116">
-<p align="center">Ligne 1</p>
+<td align="center">
+<br/>
 </td>
-<td width="118">
-<p align="center">Ligne 2</p>
-</td>
-<td width="120">
-<p align="center">Ligne X</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p>Fosse ou appareil de levage</p>
+<td align="center">
+<br/>ou</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Freinomètre à rouleaux</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service :</p>
+<td align="center">
+<br/>- appareil de levage (marque, type, date de mise en service)</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Plaques à jeux</p>
-<p>Date de mise en service :</p>
+<td align="center">
+<br/>Freinomètre à rouleaux</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Opacimètre</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service</p>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td valign="top" width="199">
-<p align="center">Contrôle du réglage<br/>des phares</p>
-<p>Conformité délivrée par :</p>
-<p>Date de mise en service</p>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
 </td>
-<td valign="top" width="116"/>
-<td valign="top" width="118"/>
-<td valign="top" width="120"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Plaques à jeux</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Opacimètre</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Contrôle du réglage des phares</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- marque</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- type</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- numéro de série</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- conformité (*)</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- date de mise en service</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité.</td>
 </tr>
 </tbody>
 </table>

@@ -4,25 +4,27 @@
 
 Dans la présente annexe, la "conformité à une norme ou à un cahier des charges" signifie la conformité à cette norme ou à ce cahier des charges ou à des prescriptions reconnues équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
 
-Dans les installations de contrôles faisant l'objet d'un premier agrément, le matériel est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
+Dans les installations de contrôles faisant l'objet d'un premier agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
 
-Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables dans les six mois qui suivent le nouvel agrément.
+Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables dans les six mois qui suivent le nouvel agrément.
 
-Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel quand une nouvelle version de norme ou de cahier des charges est applicable.
+Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel visé aux points 1.1, 1.2 et 1.5 quand une nouvelle version de norme ou de cahier des charges est applicable.
 
-En cas de remplacement d'un matériel sur une installation agréée, le nouveau matériel est conforme aux dispositions prévues par la mise jour la plus récente de la norme ou du cahier des charges applicable.
+En cas de remplacement d'un matériel visé aux points 1.1, 1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1, 1.2 et 1.5 est conforme aux dispositions prévues par la mise jour la plus récente de la norme ou du cahier des charges applicable.
 
 Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er janvier 2015.
 
 Les équipements suivants transmettent les mesures par liaison informatique :
 
-- dispositif pour le contrôle du freinage ;
+- dispositif pour le contrôle du freinage visé au point 1.2.1 de la présente annexe ;
 
 - dispositif de mesure de l'opacité des fumées ;
 
 - dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes (disposition applicable à compter du 1er janvier 2011) ;
 
 - dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er janvier 2015).
+
+Pour chaque matériel de contrôle visé aux points 1.1, 1.2 et 1.5, les normes ou cahiers des charges concernés applicables ainsi que les dates de mise en application dans les installations de contrôle sont définis dans une liste approuvée par le ministre chargé des transports, tenue à jour par l'organisme technique central et disponible sur le site internet de l'organisme technique central.
 
 1. Equipements mécaniques
 
@@ -66,27 +68,41 @@ Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées ém
 
 La conformité du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 5. 1 est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO / CEI 17025.
 
-Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé au point 1. 2. 1 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé préalablement à toute opération de contrôle nécessitant l'utilisation dudit matériel.
+1.6. Spécifications générales.
 
-Les matériels visés aux points 1. 1. 1, 1. 2. 1 et 1. 4 de la présente annexe font l'objet :
+1.6.1. L'ensemble des matériels fait l'objet de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
 
-- d'un minimum de deux étalonnages par année civile (vérification, et, si nécessaire, ajustage), par des personnels qualifiés.L'écart entre deux étalonnages successifs n'excède pas huit mois ;
+1.6.2. L'ensemble des matériels de mesure fait l'objet de dispositions pour le contrôle régulier de la chaîne de mesure.
 
-- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés.L'écart entre deux visites successives n'excède pas huit mois.
+1.6.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
 
-Les matériels visés au point 1. 2. 2 font l'objet :
+1.7. Spécifications particulières.
 
-- d'un minimum d'un étalonnage par année civile (vérification et, si nécessaire, ajustage), par des personnels qualifiés.L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
+1.7.1. Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé au point 1.2.1 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé par des personnels qualifiés, préalablement à la première opération de contrôle nécessitant l'utilisation dudit matériel.
 
-- d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés.L'écart entre deux visites successives n'excède pas quatorze mois.
+1.7.2. Les matériels visés au point 1.1.1 et conformes au cahier des charges cité à ce point et ceux visés aux points 1.2.1 et 1.4 de la présente annexe font l'objet :
 
-Le matériel prévu au point 1. 5. 1 fait l'objet d'un contrat de maintenance garantissant la mise à niveau de l'appareil, notamment pour la partie logiciel.
+- d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
 
-L'ensemble des matériels font l'objet de dispositions pour le contrôle régulier de la chaîne de mesure et de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
+- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
 
-Un cahier des charges approuvé par le ministre chargé des transports définit les conditions de qualification des intervenants mentionnés au présent point.
+Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité ou agréé pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles. Le contrat comporte un engagement de respect des dates réglementaires et un engagement à ne faire intervenir que des personnels qualifiés pour les matériels concernés.
 
-Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
+1.7.3. Le matériel visé au point 1.2.2 de la présente annexe fait l'objet :
+
+- d'un minimum d'un étalonnage par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
+
+- d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas quatorze mois.
+
+1.7.4. Les matériels prévus aux points 1.1.1 et conformes au cahier des charges cité à ce point, 1.2, 1.4 et 1.5.1 de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné. Cette disposition est formalisée par un contrat de maintenance.
+
+1.7.5. En cas de défaut affectant une prise de mesure.
+
+a) Les matériels sont remis en état ou remplacés dans les huit jours ouvrables suivant l'apparition du défaut, par des personnels qualifiés dépendant d'un organisme habilité ou agréé pour les matériels concernés ;
+
+b) Des méthodes alternatives prévues dans les procédures de l'installation de contrôle peuvent être mises en œuvre dans l'attente de la remise en état ou du remplacement du matériel. L'utilisation de ces méthodes ne peut excéder huit jours ouvrables. A défaut de telles méthodes, l'activité de l'installation de contrôle est arrêtée immédiatement, à l'exception des contrôles techniques ne nécessitant pas l'usage du matériel défectueux, jusqu'à la remise en état ou le remplacement du matériel.
+
+1.7.6. Un cahier des charges approuvé par le ministre chargé des transports définit les conditions d'habilitation des organismes et de qualification des intervenants mentionnés au présent point.
 
 2. Equipements informatiques
 
@@ -106,9 +122,9 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 2. 1. 3. Les outils informatiques présentent des garanties relatives à leur pérennité et leur évolution technique.
 
-2. 1. 4. Des procédures de maintenance de l'outil informatique sont prévues afin qu'en cas d'incident, la remise en état ou le remplacement de l'outil informatique soit assuré dans les vingt-quatre heures.
+2. 1. 4. En cas d'incident, l'outil informatique est remplacé ou remis en état dans les vingt-quatre heures.
 
-2. 1. 5. En cas de panne de l'outil informatique empêchant la saisie ou l'archivage ou le traitement local des informations et, en particulier, l'impression du procès-verbal de contrôle, les procédures permettent, sur la journée, la rédaction manuscrite du procès-verbal de contrôle et garantissent la transmission informatique des données de contrôle à l'organisme technique central dès la remise en service de l'outil informatique. Dans le cas où la panne excède vingt-quatre heures, l'activité du centre de contrôle est suspendue jusqu'à la remise en état.
+2. 1. 5. En cas de panne de l'outil informatique empêchant la saisie ou l'archivage ou le traitement local des informations, et en particulier l'impression du procès-verbal de contrôle, la rédaction manuscrite du procès-verbal de contrôle est possible sur une durée de vingt-quatre heures à compter de l'instant où le défaut apparaît, à condition que la transmission informatique des données de contrôle à l'organisme technique central soit assurée dès la remise en service de l'outil informatique. Dans le cas où la panne excède vingt-quatre heures, l'activité de l'installation de contrôle est suspendue jusqu'à remise en état ou remplacement.
 
 2. 2. Spécifications particulières
 
@@ -216,7 +232,7 @@ au niveau du centre de contrôle
 
 - les mentions suivantes qui sont apportées, le cas échéant, sur le procès-verbal de contrôle technique :
 
-- dans le cas de défauts concernant le freinage : "contre-visite à repasser sur un centre muni d'un freinomètre" ;
+- dans le cas de défauts concernant le freinage : "contre-visite à repasser sur un centre muni d'un freinomètre" (1) ;
 
 - une description complète du véhicule contrôlé, à savoir :
 
@@ -350,15 +366,11 @@ Le panneau distinctif d'agrément est affiché dans le délai maximum d'un mois 
 
 Sans préjuger des autres réglementations applicables :
 
-- l'installation électrique est dotée de parafoudres qui sont posés en entrée d'installation pour limiter la pénétration de forts courants impulsionnels (surtensions d'origine foudre ou industrielles) ;
-
 - l'accès des usagers à la zone de contrôle est réglementé. Les consignes relatives à l'accès à la zone de contrôle sont clairement signalées :
 
 - à l'accueil du public ;
 
 - à l'entrée de la zone de contrôle ;
-
-- les bancs de freinage respectent les exigences de la directive 2006 / 42 / CE susvisée.
 
 4. Stationnement des véhicules
 
@@ -502,6 +514,8 @@ Pour les installations demandant un premier agrément à compter du 1er octobre 
 18 mètres de long (en fond de fosse, hors escaliers) avec deux escaliers distincts, d'une profondeur comprise entre 1, 5 mètre et 1, 7 mètre et d'une largeur minimale de 0, 80 mètre.
 
 La profondeur peut être portée jusqu'à 1, 85 mètre sous réserve de la présence de banquettes latérales d'au moins 0, 15 mètre sur toute la longueur de la fosse (en dehors de la zone du freinomètre).
+
+Dans des cas particuliers et sous réserve de l'accord du ministre chargé des transports, la fosse peut être remplacée par un moyen de levage adéquat.
 
 7. Zone de contrôle
 

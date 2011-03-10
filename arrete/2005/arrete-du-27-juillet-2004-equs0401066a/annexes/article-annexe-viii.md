@@ -48,8 +48,6 @@ Véhicules de transport en commun de personnes
 
 Véhicules de transport de marchandises dangereuses
 
-Véhicules de collection
-
 C. Périodicité et validité des visas
 
 <table>

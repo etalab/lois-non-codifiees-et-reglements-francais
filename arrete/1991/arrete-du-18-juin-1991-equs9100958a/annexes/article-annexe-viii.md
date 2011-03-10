@@ -99,7 +99,7 @@ Décret n° 87-965 du 30 novembre 1987
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="123">
-<p>D. Taxis et véhicules de remise </p>
+<p>D. Taxis et voitures de tourisme avec chauffeur </p>
 </td>
 <td valign="top" width="122">
 <p align="center">Licence de circulation pour les véhicules de grande remise </p>
@@ -110,19 +110,14 @@ Décret n° 87-965 du 30 novembre 1987
 <td rowspan="3" width="72">
 <p align="center">1 an </p>
 </td>
-<td width="132">
-<p align="left">
-Décret n° 55-961 du 15 juillet 1955
-</p>
-</td>
+<td width="132">Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="122">
 <p align="center">Néant pour les autres véhicules </p>
 </td>
 <td width="132">
-<p align="left">
-Décret n° 73-225 du 2 mars 1973 modifié </p>
+<p align="left">Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme </p>
 </td>
 </tr>
 <tr>
@@ -146,19 +141,6 @@ Décret n° 73-225 du 2 mars 1973 modifié </p>
 <td width="132">
 <p align="left">Article R. 323-24 du Code de la route</p>
 <p>arrêté du 29 novembre 1994 modifié </p>
-</td>
-</tr>
-<tr>
-<td>H. Véhicule de collection <br/>
-</td>
-<td align="center">Certificat d'immatriculation avec mention d'usage "Véhicule de collection" <br/>
-</td>
-<td>5 ans à compter du contrôle technique favorable. <br/>
-</td>
-<td align="center">5 ans</td>
-<td>
-<p align="left">Arrêté du 14 octobre 2009 relatif aux véhicules de collection <br/>
-</p>
 </td>
 </tr>
 </tbody>
@@ -198,19 +180,23 @@ Catégories de véhicules soumis à d'autres réglementations relatives au contr
 <p>Véhicules de transport de matières dangereuses </p>
 </td>
 <td valign="top" width="303">
-<p>Arrêté du 1er juin 2001 dit arrêté ADR </p>
+<p align="left">Arrêté du 29 mai 2009 dit "arrêté TMD" </p>
 </td>
 </tr>
 <tr>
-<td>Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg</td>
-<td>Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds</td>
+<td>
+<p align="left">Tracteur routier dont le PTAC est inférieur ou égal à 3 500 kg</p>
+</td>
+<td>
+<p align="left">Arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds</p>
+</td>
 </tr>
 </tbody>
 </table>
 
 PARTIE C
 
-Véhicules soumis à des contrôles complémentaires
+Autres véhicules soumis à des contrôles supplémentaires
 
 <table>
 <tbody>
@@ -224,7 +210,7 @@ Véhicules soumis à des contrôles complémentaires
 </tr>
 <tr>
 <td>
-<p>G. - Contrôle complémentaire de l'installation de gaz carburant sur véhicule</p>
+<p>G. - Contrôle de l'installation gaz carburant sur véhicule </p>
 </td>
 <td>
 <p>Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes : EG, GP, PE, FG, EN, GN, NE, FN </p>

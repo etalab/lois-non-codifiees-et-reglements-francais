@@ -6,7 +6,7 @@ ORGANISATION DES INSTALLATIONS DE CONTRÔLE
 
 1. 1. Chaque centre de contrôle met en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions figure dans le cahier des charges et répond aux exigences de la norme NF EN ISO / CEI 17020 : 2005.
 
-1. 2. Outre les procédures répondant aux exigences normatives, l'exploitant du centre de contrôle est chargé notamment d'établir et de tenir à jour les procédures suivantes :
+1. 2. Outre les procédures répondant aux exigences normatives, l'exploitant du centre de contrôles est chargé notamment d'établir, de tenir à jour et d'appliquer les procédures suivantes :
 
 1. 2. 1. Agrément et habilitation d'un contrôleur technique.
 
@@ -76,13 +76,13 @@ Il s'assure également que les contrôleurs maintiennent leur qualification, con
 
 2. 2.A cet effet, l'exploitant des installations de contrôle s'engage à détacher ses contrôleurs pour participer aux compléments de formation et de recyclage conformément aux procédures définies au point 1. 2. 2. ci-dessus.
 
-2. 3.L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 35-1 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
+2. 3. L'exploitant des installations d'un centre de contrôle vérifie que le prestataire visé à l'article 35-4 du présent arrêté possède une connaissance satisfaisante des prescriptions relatives aux contrôles qu'il effectue, maîtrise l'utilisation des équipements de contrôle, des applications informatiques et du système qualité du centre. Cette vérification fait l'objet d'un enregistrement qui est conservé avec les autres documents visés au point 6 de la présente annexe.
 
 3. Suivi des matériels
 
-3. 1. Les contrats de maintenance prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure.A défaut de méthodes alternatives prévues au point 1. 2. 12 de la présente annexe, les procédures prévoient l'arrêt immédiat de l'activité du centre jusqu'à la remise en état ou le remplacement du matériel.
+3. 1. Les contrats de maintenance prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure.A défaut de méthodes alternatives prévues au point 1.2.11 de la présente annexe, les procédures prévoient l'arrêt immédiat de l'activité du centre jusqu'à la remise en état ou le remplacement du matériel.
 
-Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils à pression et d'appareils de mesure, les procédures prévues au point 1. 2. 6 de la présente annexe prévoient les étalonnages, les visites de maintenance préventive et les dispositions pour l'entretien courant et le contrôle régulier avec les périodicités mentionnées au point 1 de l'annexe III du présent arrêté.
+Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils à pression et d'appareils de mesure, les procédures prévues au point 1.2.5 de la présente annexe prévoient les étalonnages, les visites de maintenance préventive et les dispositions pour l'entretien courant et le contrôle régulier avec les périodicités mentionnées au point 1 de l'annexe III du présent arrêté.
 
 3. 2. Les opérations d'étalonnage et de maintenance préventives font l'objet d'un contrat avec un organisme habilité pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles.
 
@@ -98,15 +98,13 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 Cette durée est portée à six ans pour les véhicules de collection.
 
-4. 2. Chaque contrôle technique fait l'objet d'un archivage informatique pendant une durée minimale de quatre ans au niveau du réseau ou du centre de contrôle. La relecture des données est garantie.
+4. 2. Chaque contrôle technique fait l'objet d'un archivage informatique pendant une durée minimale de quatre ans au niveau du réseau ou du centre de contrôle. La relecture des données est garantie. Cette durée est portée à six ans pour les véhicules de collection.
 
 4. 3. Pour chaque contrôle technique effectué, les valeurs enregistrées par les freinomètres et les opacimètres sont transmises par liaison informatique ou imprimées automatiquement dans le respect des dispositions de l'annexe III du présent arrêté. Ces informations sont portées automatiquement sur le procès-verbal de contrôle technique ou conservées suivant les dispositions prévues aux points 4. 1 et 4. 2 ci-dessus avec le procès-verbal du contrôle technique.
 
-5. Transmission et diffusion des informations
+5. Transmission et diffusion des informations relatives aux contrôles techniques effectués
 
-relatives aux contrôles techniques effectués
-
-5. 1. Chaque installation de contrôle transmet les résultats des contrôles effectués, conformément à la procédure prévue au point 1. 2. 7 ci-dessus et au protocole prévu à l'article 39 du présent arrêté.
+5. 1. Chaque installation de contrôle transmet les résultats des contrôles effectués, conformément à la procédure prévue au point 1.2.6 ci-dessus et au protocole prévu à l'article 39 du présent arrêté.
 
 5. 2. Le titulaire de l'agrément de l'installation de contrôle ne diffuse un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, les agents chargés de la surveillance de la concurrence, de la consommation et de la répression des fraudes, les agents des préfectures de département ou de région, les agents de l'administration chargés de la surveillance des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports, les forces de police ou de gendarmerie, l'expert judiciaire désigné par un juge pour une affaire concernant un véhicule, le propriétaire du véhicule au moment du contrôle et la personne qui présente le véhicule au contrôle technique.
 
@@ -128,31 +126,17 @@ relatives aux contrôles techniques effectués
 
 6. 2. Chaque installation auxiliaire ouvre et tient à jour sur support papier ou informatique un dossier mentionnant, pour chaque appareil de contrôle, l'identification de l'appareil, la date de la mise en service, la nature et la date de pannes et détériorations, la nature et la date des opérations de maintenance (réglage, entretien, réparation, etc.).
 
-Les dossiers prévus aux points 6. 1. 1, 6. 1. 2, 6. 1. 4, 6. 1. 5 et 6. 1. 6 ci-dessus sont ouverts et tenus à jour par le réseau de contrôle. Les conditions d'accès à ces dossiers sont définies.
+Les dossiers prévus aux points 6.1. 1, 6.1. 2, 6.1.4, 6.1.5 et 6.1.6 ci-dessus sont ouverts et tenus à jour par le réseau de contrôle. Les conditions d'accès à ces dossiers sont définies.
 
 6. 3. Tous ces documents sont archivés pendant au moins quatre ans, sans préjudice des autres réglementations en vigueur.
 
-7. Audit des installations de contrôle et des contrôleurs
+7. Audit des installations de contrôle.
 
-7. 1. On désigne par "audit des installations de contrôle" l'examen auquel ces installations et leur organisation sont soumises dans le cadre normal de leur activité.
+7.1. On désigne par audit des installations de contrôle l'examen auquel ces installations et leur organisation sont soumises dans le cadre normal de leur activité.
 
-7. 2.L'audit des installations exploitées par un réseau est effectué par un service du réseau chargé de l'inspection interne, indépendant du support commercial fourni aux centres, ou par un organisme habilité par celui-ci après accord du ministre chargé des transports.L'exploitant de l'installation de contrôle s'engage à respecter les procédures de déclenchement et de déroulement d'audit définies au point 1. 2. 9 ci-dessus.
+7.2. Les installations de contrôle respectent les procédures de déclenchement et de déroulement d'audit définies par les organismes visés aux points 35-1 et 35-2 du présent arrêté.
 
-7. 3.L'audit des centres de contrôle non rattachés est effectué par un organisme agréé conformément au cahier des charges défini par le ministère chargé des transports. Le centre de contrôle s'engage à respecter les procédures de déclenchement et de déroulement d'audit définis au point 1. 2. 9 ci-dessus.
-
-7. 4. Toute installation de contrôle agréée fait l'objet d'un audit réglementaire au moins une fois par année civile. Cet audit peut être combiné avec celui prévu dans la norme NF EN ISO / CEI 17020 : 2005.
-
-7. 5. Chaque contrôleur fait l'objet d'un audit au moins une fois par année civile portant sur la réalisation d'au moins une visite technique périodique par catégories de véhicules tel que prévu aux paragraphes 2. 1 de la section I et 2 de la section II de l'annexe IV du présent arrêté. Cet audit est réalisé par l'organisme prévu aux paragraphes 7. 2 et 7. 3.
-
-7. 6. Les organismes habilités tels que prévus au paragraphe 7. 2 ou agréés tels que prévus au paragraphe 7. 3 qui réalisent des audits d'installations et de contrôleurs prévus ci-dessus sont certifiés selon le référentiel NF EN ISO 9001 dans le domaine de la réalisation d'audits d'installations et de contrôleurs techniques :
-
-- avant le 1er janvier 2011, pour un organisme habilité ou agréé avant le 1er janvier 2010 ;
-
-- un an après la date d'habilitation ou d'agrément, pour un organisme habilité ou agréé depuis le 1er janvier 2010.
-
-L'organisme d'audit met en œuvre les prescriptions du cahier des charges défini par le ministère chargé des transports.
-
-L'agrément de l'organisme peut être retiré par le ministère chargé des transports si les prescriptions qui lui sont imposées ne sont pas respectées.
+7.3. Toute installation de contrôle agréée fait l'objet d'un audit au moins une fois par année civile. Cet audit est réalisé au plus tard au cours du seizième mois suivant le précédent audit annuel. En cas d'audit défavorable, un nouvel audit est réalisé sous quatre mois sans se substituer à l'audit réglementaire annuel. Si deux audits défavorables se succèdent, le responsable de l'installation transmet les deux rapports d'audit sous quinze jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
 8. Installations auxiliaires
 

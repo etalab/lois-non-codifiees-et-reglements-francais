@@ -6,7 +6,7 @@ CHAPITRE I
 
 Contrôleurs
 
-I. Composition du dossier
+I. - Composition du dossier
 
 1. Une demande d'agrément en tant que contrôleur, indiquant le centre de contrôle (ainsi que le réseau de contrôle agréé auquel il est éventuellement rattaché) dans lequel le demandeur compte exercer son activité à titre principal, et précisant en quelle qualité (exploitant ou salarié) ;
 
@@ -32,7 +32,7 @@ I. Composition du dossier
 
 7. Une déclaration sur l'honneur, suivant le modèle de l'appendice 3 de la présente annexe, certifiant l'exactitude des renseignements fournis, attestant ne pas être sous le coup d'une mesure de suspension ou de retrait d'agrément, s'engageant à ne pas exercer, pendant la durée de l'agrément, une quelconque activité dans la réparation ou le commerce automobile et à ne pas utiliser les résultats des contrôles à d'autres fins que celles prévues par la réglementation.
 
-II. Demande d'agrément
+II. - Demande d'agrément
 
 L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché.
 
@@ -99,7 +99,7 @@ CHAPITRE II
 
 Centre de contrôle rattaché à un réseau
 
-I. Composition du dossier
+I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
@@ -125,7 +125,7 @@ a) Une description de l'organisation et des moyens matériels, suivant le modèl
 
 b) L'engagement du demandeur d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
 
-II. Demande d'agrément
+II. - Demande d'agrément
 
 L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
 
@@ -173,7 +173,7 @@ CHAPITRE III
 
 Centre de contrôle non rattaché à un réseau agréé
 
-I. Composition du dossier
+I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
@@ -239,7 +239,7 @@ c) Les procédures internes du centre de contrôle permettant de s'assurer du re
 
 d) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté
 
-II. Demande d'agrément
+II. - Demande d'agrément
 
 L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
 
@@ -287,7 +287,7 @@ CHAPITRE IV
 
 Installation auxiliaire
 
-I. Composition du dossier
+I. - Composition du dossier
 
 1. Une demande d'agrément motivée, sur papier à en-tête du réseau de contrôle agréé à laquelle l'installation auxiliaire est rattachée (cf. 2ème alinéa du II de l'article R. 323-14 du code de la route) ;
 
@@ -319,7 +319,7 @@ S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en co
 
 6. L'avis de l'Organisme Technique Central, suivant le modèle de l'appendice 8 de la présente annexe.
 
-II. Demande d'agrément
+II. - Demande d'agrément
 
 L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation de l'installation auxiliaire.
 
@@ -353,7 +353,7 @@ CHAPITRE V
 
 Réseau de contrôle
 
-I. Composition du dossier
+I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
@@ -381,11 +381,11 @@ h) Le cahier des charges type des installations de contrôle.
 
 5. La procédure du réseau définissant, pour les installations de contrôle rattachées ou exploitées par le réseau, les sanctions prévues au point 3.1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
 
-II. Demande initiale d'agrément
+II. - Demande initiale d'agrément
 
 L'ensemble du dossier doit être transmis en trois exemplaires au ministère chargé des transports. La demande initiale doit comporter la liste des centres de contrôle faisant déjà l'objet d'un accord de rattachement au réseau. Cette liste est accompagnée, pour chacun des centres de contrôle, d'une attestation d'affiliation exclusive suivant le modèle de l'appendice 5 de la présente annexe, ainsi que d'une description du Centre de contrôle suivant le modèle de l'appendice 6.
 
-III. Modifications du dossier d'agrément
+III. - Modifications du dossier d'agrément
 
 Toute modification importante du cahier des charges doit être soumise à l'approbation préalable du ministre chargé des transports.
 
@@ -411,7 +411,7 @@ APPENDICE 9 : NOTIFICATION DE CHANGEMENT DE CENTRE DE RATTACHEMENT D'UN CONTRÔL
 
 (formulaires non reproduits)
 
-IV. Demande de renouvellement d'agrément
+IV. - Demande de renouvellement d'agrément
 
 Le dossier de demande de renouvellement est transmis au moins six mois avant la date d'échéance de l'agrément, en trois exemplaires, au ministre chargé des transports et comprend :
 
@@ -420,3 +420,19 @@ Le dossier de demande de renouvellement est transmis au moins six mois avant la 
 - un bilan de l'activité du réseau sur la période écoulée d'agrément ;
 
 - un bilan détaillé des activités en installations auxiliaires.
+
+Chapitre VI
+
+Organismes d'audit
+
+I. - Demande initiale d'agrément
+
+Le dossier de demande initiale d'agrément prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central.
+
+II. - Modification du dossier d'agrément
+
+Toute modification du dossier d'agrément est portée à la connaissance du ministre chargé des transports dans les meilleurs délais conformément au cahier des charges visé à l'article 26-3 du présent arrêté.
+
+III. - Demande de renouvellement d'agrément
+
+Le dossier de demande de renouvellement prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
