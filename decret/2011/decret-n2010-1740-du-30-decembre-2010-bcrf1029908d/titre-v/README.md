@@ -1,3 +1,0 @@
-# TITRE V : CESSATION PROGRESSIVE D'ACTIVITE
-
-- [Article 14](article-14.md)

@@ -1,3 +1,0 @@
-# CHAPITRE VII : EVALUATION ET NOTATION
-
-- [Article 17](article-17.md)

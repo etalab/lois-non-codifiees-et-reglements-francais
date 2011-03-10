@@ -1,9 +1,0 @@
-# Article 5
-
-L'autorisation de faire usage professionnel du titre de chiropracteur est subordonnée à l'enregistrement sans frais des diplômes, certificats, titres ou autorisations de ces professionnels auprès du directeur général de l'agence régionale de santé de leur résidence professionnelle. En cas de changement de situation professionnelle, ils en informent cette autorité.
-
-Lors de l'enregistrement, ils doivent préciser la nature des études suivies ou des diplômes leur permettant l'usage du titre de chiropracteur et, s'ils sont professionnels de santé, les diplômes d'Etat, titres, certificats ou autorisations mentionnés au présent décret dont ils sont également titulaires.
-
-Il est établi, pour chaque département, par le directeur général de l'agence régionale de santé, une liste des praticiens habilités à faire un usage de ces titres, portée à la connaissance du public.
-
-La référence à Mayotte, à la Guadeloupe, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon se substitue à la référence au département pour l'application, dans chacune de ces collectivités, du troisième alinéa du présent article.

@@ -1,5 +1,0 @@
-# Article 15
-
-Les fonctionnaires occupant, à la date de publication du présent décret, l'un des emplois prévus par l'article 3 sont maintenus dans leurs fonctions et détachés dans l'emploi de responsable d'unité territoriale en direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Leur détachement peut être renouvelé sans que la durée totale d'occupation d'un même emploi puisse excéder huit ans à compter de ce détachement.
-
-Lorsque l'un des fonctionnaires mentionnés à l'alinéa précédent se trouve, à l'issue de son détachement, dans la situation d'obtenir, dans un délai égal ou inférieur à deux ans, la liquidation de ses droits à pension au taux maximum défini au I de l'article L. 13 du code des pensions civiles et militaires de retraite, une prolongation exceptionnelle de détachement sur le même emploi peut lui être accordée, sur sa demande, pour une période maximale de deux ans. Il en va de même pour un fonctionnaire se trouvant à deux ans au moins de la limite d'âge qui lui est applicable.

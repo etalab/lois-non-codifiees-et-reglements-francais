@@ -1,4 +1,0 @@
-# SECTION 1 : TITULAIRE D'UN DIPLOME  SANCTIONNANT UNE FORMATION A LA CHIROPRAXIE
-
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)

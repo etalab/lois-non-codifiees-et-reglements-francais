@@ -1,3 +1,0 @@
-# Article 17-2
-
-Si le fonctionnaire a fait connaître sa décision de solliciter le renouvellement de son détachement dans le délai mentionné au premier alinéa de l'article 17-1 et que l'administration ou l'organisme d'accueil n'a pas fait connaître, dans le délai mentionné au deuxième alinéa de cet article, sa décision de refuser le renouvellement du détachement ou, le cas échéant, sa proposition d'intégration, le fonctionnaire continue, si son administration d'origine ne peut le réintégrer immédiatement, à être rémunéré par l'administration ou l'organisme d'accueil jusqu'à sa réintégration, à la première vacance, dans son corps d'origine.

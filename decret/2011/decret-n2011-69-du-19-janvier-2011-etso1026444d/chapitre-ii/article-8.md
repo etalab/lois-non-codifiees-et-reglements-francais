@@ -1,3 +1,0 @@
-# Article 8
-
-Les agents dont la nomination dans la classe supérieure du corps des contrôleurs du travail est intervenue, entre le 13 septembre 2003 et la date d'entrée en vigueur du présent décret, alors qu'ils étaient classés au 7e, 8e, 9e ou 10e échelon de la classe normale du corps des contrôleurs du travail, bénéficient d'un reclassement d'échelon à compter de la date d'entrée en vigueur du présent décret et en tenant compte de la situation qui aurait été la leur s'il avait été fait application, à la date de leur nomination dans la classe supérieure, des dispositions de l'article 17 du décret du 18 avril 1997 susvisé, dans sa rédaction issue du présent décret.

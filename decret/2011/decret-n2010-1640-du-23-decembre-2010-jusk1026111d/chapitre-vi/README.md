@@ -1,3 +1,0 @@
-# CHAPITRE VI : MUTATION ET AFFECTATION
-
-- [Article 16](article-16.md)
