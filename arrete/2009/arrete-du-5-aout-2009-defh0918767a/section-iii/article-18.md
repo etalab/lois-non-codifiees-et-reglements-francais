@@ -14,7 +14,7 @@ Les candidats renonçant à leur admission le font par la procédure commune d'a
 
 Seuls les candidats affectés à l'ESM de Saint-Cyr conformément aux procédures communes d'admission précitées peuvent intégrer l'école.
 
-L'entrée à l'ESM de Saint-Cyr est définitivement prononcée après vérification, à l'arrivée à l'école, des conditions médicales et physiques d'aptitude des candidats, conformément à l'arrêté du 9 novembre 2004 susvisé et après signature de leur acte d'engagement.
+L'entrée à l'ESM de Saint-Cyr est définitivement prononcée après vérification, à l'arrivée à l'école, des conditions médicales et physiques d'aptitude des candidats, conformément à l'arrêté du 23 décembre 2009 déjà mentionné et après signature de leur acte d'engagement.
 
 Les candidats classés médicalement et temporairement inaptes peuvent être ajournés d'un an. Cet ajournement est non renouvelable.
 

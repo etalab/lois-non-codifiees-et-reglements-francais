@@ -20,4 +20,4 @@ Les membres du jury sont désignés par arrêté du ministre de la défense sur 
 
 En cas d'empêchement de l'un ou de plusieurs d'entre eux avant le début des épreuves, le remplacement est assuré dans les mêmes conditions.
 
-En application du 3° de l'article 4 du décret n° 2008-940 du 12 septembre 2008 portant statut particulier du corps des officiers des armes de l'armée de terre, les candidats au recrutement sur titres sont admis par le ministre de la défense, sur proposition de la commission prévue à l'article L. 4136-3 du code de la défense.
+En application       du 3° et du 4° de l'article 4 du décret n° 2008-940 du 12 septembre 2008 portant statut particulier du corps des officiers des armes de l'armée de terre, les candidats au recrutement sur titres sont admis par le ministre de la défense, sur proposition de la commission prévue à l'article L. 4136-3 du code de la défense.
