@@ -1,0 +1,9 @@
+# Article 1
+
+I. ― Les dépenses réalisées pour la construction d'une unité hospitalière spécialement aménagée, y compris le coût de l'équipement médical et mobilier et les coûts de sécurisation, sont prises en charge selon les modalités suivantes :
+
+1° Les travaux de construction ou d'aménagement, équipement médical et mobilier des locaux à usage de soins et connexes (dépenses relevant de l'établissement de santé) bénéficient d'aides en capital du Fonds pour la modernisation des établissements de santé publics et privés (FMESPP) et des aides en fonctionnement en crédits de « Dotation annuelle de financement » destinés à compenser les coûts liés au recours à l'emprunt des établissements publics concernés ;
+
+2° Les travaux et équipements supplémentaires, rendus nécessaires du fait de la prise en charge des personnes détenues, comprenant les coûts de sécurisation des locaux, sont financés par le ministère de la justice sur le programme n° 107.
+
+II. ― La maîtrise d'ouvrage est assurée par chacun des établissements de santé devant accueillir une unité hospitalière spécialement aménagée. Le financement de chaque opération est validé par la direction générale de l'offre de soins sur présentation du projet médical de fonctionnement de l'unité et d'un dossier technique constitué au minimum d'un programme fonctionnel et technique pour une procédure conception réalisation ou d'un programme technique détaillé pour une procédure loi MOP. L'avant-projet sommaire et l'avant-projet détaillé de chaque opération sont soumis à l'approbation conjointe du ministre de la justice et des libertés et du ministre chargé de la santé. Avant la mise en service, chaque unité d'hospitalisation fait l'objet par les services déconcentrés de ces deux ministères d'une visite de conformité relative aux dispositions prévues par le cahier des charges visé à l'article 2 du présent arrêté.
