@@ -29,7 +29,6 @@
 - [Arrêté du 6 mars 1985](arrete-du-6-mars-1985)
 - [Arrêté du 6 novembre 1985](arrete-du-6-novembre-1985)
 - [Arrêté du 6 mai 1985](arrete-du-6-mai-1985)
-- [Arrêté du 7 août 1985](arrete-du-7-aout-1985)
 - [Arrêté du 7 février 1985](arrete-du-7-fevrier-1985)
 - [Arrêté du 7 janvier 1985](arrete-du-7-janvier-1985)
 - [Arrêté du 7 novembre 1985](arrete-du-7-novembre-1985)
