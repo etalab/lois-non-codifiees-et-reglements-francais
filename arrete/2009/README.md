@@ -3083,7 +3083,6 @@
 - [Arrêté du 1er octobre 2009 (ECED0922681A)](arrete-du-1er-octobre-2009-eced0922681a)
 - [Arrêté du 1er octobre 2009 (PRMX0924525A)](arrete-du-1er-octobre-2009-prmx0924525a)
 - [Arrêté du 1er septembre 2009 (DEFD0923002A)](arrete-du-1er-septembre-2009-defd0923002a)
-- [Arrêté du 1er septembre 2009 (DEVT0914839A)](arrete-du-1er-septembre-2009-devt0914839a)
 - [Arrêté du 1er septembre 2009 (DEVT0918063A)](arrete-du-1er-septembre-2009-devt0918063a)
 - [Arrêté du 1er septembre 2009 (EATM0918160A)](arrete-du-1er-septembre-2009-eatm0918160a)
 - [Arrêté du 1er septembre 2009 (IOCA0921111A)](arrete-du-1er-septembre-2009-ioca0921111a)
