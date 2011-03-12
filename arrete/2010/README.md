@@ -2370,7 +2370,6 @@
 - [Arrêté du 23 novembre 2010 (MCCB1028214A)](arrete-du-23-novembre-2010-mccb1028214a)
 - [Arrêté du 23 octobre 2009 (BCFR0923717A)](arrete-du-23-octobre-2009-bcfr0923717a)
 - [Arrêté du 23 septembre 2010 (AGRG1023752A)](arrete-du-23-septembre-2010-agrg1023752a)
-- [Arrêté du 23 septembre 2010 (DEVA1016298A)](arrete-du-23-septembre-2010-deva1016298a)
 - [Arrêté du 23 septembre 2010 (DEVU1022619A)](arrete-du-23-septembre-2010-devu1022619a)
 - [Arrêté du 23 septembre 2010 (ECEI1023527A)](arrete-du-23-septembre-2010-ecei1023527a)
 - [Arrêté du 23 septembre 2010 (ECEI1023634A)](arrete-du-23-septembre-2010-ecei1023634a)
