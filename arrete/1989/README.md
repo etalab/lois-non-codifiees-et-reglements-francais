@@ -53,7 +53,6 @@
 - [Arrêté du 3 juillet 1989 (AGRU8901180A)](arrete-du-3-juillet-1989-agru8901180a)
 - [Arrêté du 3 juillet 1989 (DEFM8901563A)](arrete-du-3-juillet-1989-defm8901563a)
 - [Arrêté du 3 juillet 1989 (EQUP8900663A)](arrete-du-3-juillet-1989-equp8900663a)
-- [Arrêté du 3 mars 1989 (AGRS8900311A)](arrete-du-3-mars-1989-agrs8900311a)
 - [Arrêté du 3 mars 1989 (SPSS8900477A)](arrete-du-3-mars-1989-spss8900477a)
 - [Arrêté du 3 novembre 1989 (MERE8900201A)](arrete-du-3-novembre-1989-mere8900201a)
 - [Arrêté du 3 novembre 1989 (TEFE8903854A)](arrete-du-3-novembre-1989-tefe8903854a)
