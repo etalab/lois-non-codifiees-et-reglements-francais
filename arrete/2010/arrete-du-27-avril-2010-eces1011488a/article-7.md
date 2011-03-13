@@ -1,3 +1,3 @@
 # Article 7
 
-Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 modifiée ne s'applique pas au présent traitement.
+Conformément à l'article 3 de la loi du 7 juin 1951 susvisée, les personnes sont tenues de répondre, avec exactitude et dans les délais fixés, à cette enquête.
