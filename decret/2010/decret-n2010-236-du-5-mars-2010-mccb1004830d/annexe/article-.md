@@ -2,7 +2,7 @@
 
 Les données à caractère personnel et informations enregistrées dans le traitement dénommé Système de gestion des mesures pour la protection des œuvres sur internet sont les suivantes :
 
-1° Données à caractère personnel et informations provenant des organismes de défense professionnelle régulièrement constitués, des sociétés de perception et de répartition des droits, du Centre national du cinéma et de l'image animée :
+1° Données à caractère personnel et informations provenant des organismes de défense professionnelle régulièrement constitués, des sociétés de perception et de répartition des droits, du Centre national du cinéma et de l'image animée ainsi que celles provenant du procureur de la République :
 
 Quant aux faits susceptibles de constituer un manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle :
 
@@ -40,4 +40,11 @@ Adresse de l'installation téléphonique de l'abonné ;
 
 Fournisseur d'accès à internet, utilisant les ressources techniques du fournisseur d'accès mentionné au 1°, auprès duquel l'abonné a souscrit son contrat ; numéro de dossier ;
 
-3° Recommandations par voie électronique et recommandations par lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de présentation prévues à l'article L. 331-25 du code de la propriété intellectuelle ainsi que courriers et observations des abonnés destinataires des recommandations.
+date du début de la suspension de l'accès à un service de communication au public en ligne.
+
+3° Recommandations par voie électronique et recommandations par lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de présentation prévues à l'article L. 331-25 du code de la propriété intellectuelle ainsi que courriers et observations des abonnés destinataires des recommandations ;
+
+4° Saisines du procureur de la République relatives aux faits susceptibles de constituer des infractions prévues aux articles L. 335-2, L. 335-3, L. 335-4,
+L. 335-7, R. 331-37, R. 331-38 et R. 335-5 du code de la propriété intellectuelle ainsi que les courriers d'information des organismes de défense professionnelle et des sociétés de perception et de répartition des droits ;
+
+5° Décisions de justice exécutoires comportant des peines complémentaires de suspension de l'accès à un service de communication en ligne et leur notification aux opérateurs de communications électroniques, en application de l'article R. 331-46 du code de la propriété intellectuelle.
