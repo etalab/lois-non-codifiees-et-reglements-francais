@@ -878,7 +878,6 @@
 - [Arrêté du 11 novembre 2009 (DEFH0915941A)](arrete-du-11-novembre-2009-defh0915941a)
 - [Arrêté du 11 octobre 2001 (MENF0102033A)](arrete-du-11-octobre-2001-menf0102033a)
 - [Arrêté du 11 septembre 2002 (EQUP0201433A)](arrete-du-11-septembre-2002-equp0201433a)
-- [Arrêté du 11 septembre 2009 (DEFH0911888A)](arrete-du-11-septembre-2009-defh0911888a)
 - [Arrêté du 11 septembre 2009 (ECEP0917309A)](arrete-du-11-septembre-2009-ecep0917309a)
 - [Arrêté du 11 septembre 2009 (ECET0917923A)](arrete-du-11-septembre-2009-ecet0917923a)
 - [Arrêté du 11 septembre 2009 (SASH0921222A)](arrete-du-11-septembre-2009-sash0921222a)
