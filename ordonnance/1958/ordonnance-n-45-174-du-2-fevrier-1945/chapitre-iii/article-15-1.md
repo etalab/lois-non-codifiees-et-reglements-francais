@@ -20,7 +20,9 @@ Si la prévention est établie à l'égard d'un mineur âgé d'au moins dix ans,
 
 9° Avertissement solennel ;
 
-10° Placement dans un établissement scolaire doté d'un internat pour une durée correspondant à une année scolaire avec autorisation pour le mineur de rentrer dans sa famille lors des fins de semaine et des vacances scolaires.
+10° Placement dans un établissement scolaire doté d'un internat pour une durée correspondant à une année scolaire avec autorisation pour le mineur de rentrer dans sa famille lors des fins de semaine et des vacances scolaires ;
+
+11° Interdiction pour le mineur d'aller et venir sur la voie publique entre vingt-trois heures et six heures sans être accompagné de l'un de ses parents ou du titulaire de l'autorité parentale, pour une durée de trois mois maximum, renouvelable une fois.
 
 Le tribunal pour enfants désignera le service de la protection judiciaire de la jeunesse ou le service habilité chargé de veiller à la bonne exécution de la sanction. Ce service fera rapport au juge des enfants de l'exécution de la sanction éducative.
 
