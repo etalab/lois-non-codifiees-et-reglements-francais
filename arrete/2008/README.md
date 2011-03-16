@@ -1196,7 +1196,6 @@
 - [Arrêté du 30 janvier 2008 (DEFH0801325A)](arrete-du-30-janvier-2008-defh0801325a)
 - [Arrêté du 30 juillet 2003 (MENA0301457A)](arrete-du-30-juillet-2003-mena0301457a)
 - [Arrêté du 30 juillet 2008 (BCFB0818384A)](arrete-du-30-juillet-2008-bcfb0818384a)
-- [Arrêté du 30 juillet 2008 (DEFD0819660A)](arrete-du-30-juillet-2008-defd0819660a)
 - [Arrêté du 30 juillet 2008 (DEVA0819000A)](arrete-du-30-juillet-2008-deva0819000a)
 - [Arrêté du 30 juillet 2008 (DEVK0818255A)](arrete-du-30-juillet-2008-devk0818255a)
 - [Arrêté du 30 juillet 2008 (DEVN0816507A)](arrete-du-30-juillet-2008-devn0816507a)
