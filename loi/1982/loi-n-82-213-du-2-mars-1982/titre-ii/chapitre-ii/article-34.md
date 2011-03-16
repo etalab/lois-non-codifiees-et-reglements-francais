@@ -24,7 +24,7 @@ Il s'assure, en tant que de besoin, du concours des services déconcentrés de l
 
 Les préfets de zone coordonnent l'action des préfets des départements de leur zone pour prévenir les événements troublant l'ordre public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette même zone.
 
-IV. - Par dérogation aux dispositions des I et III, le préfet de police a en outre la charge de l'ordre public dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne et y dirige l'action des services de la police nationale et des unités de la gendarmerie nationale.
+IV. - Par dérogation aux dispositions des I et III, le préfet de police a en outre la charge de l'ordre public dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne et y dirige l'action des services de la police nationale et des unités de la gendarmerie nationale. En outre, il y coordonne l'ensemble du dispositif de sécurité intérieure, en particulier l'action des différents services et forces dont dispose l'Etat en matière de sécurité intérieure.
 
 En outre, le préfet de police, en sa qualité de préfet de la zone de défense de Paris, dirige les actions et l'emploi des moyens de la police et de la gendarmerie nationales, d'une part, pour leurs interventions concourant à la régulation et la sécurité de la circulation sur les routes de la région d'Ile-de-France dont la liste est fixée par l'autorité administrative, d'autre part, pour leurs missions concourant à la sécurité des personnes et des biens dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France.
 
