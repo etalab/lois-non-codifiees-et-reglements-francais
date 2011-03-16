@@ -608,6 +608,8 @@ Paris - Nijnevartovsk.
 
 Paris - Novossibirsk.
 
+Paris - Samara.
+
 Salvador
 
 Paris-San Salvador.
@@ -704,7 +706,7 @@ Paris-Hô Chi Minh-Ville.
 
 Yémen
 
-Paris - Sanaa. (jusqu'au 31 décembre 2012).
+Paris - Sanaa. (jusqu'au 31 décembre 2012)
 
 Zambie
 
