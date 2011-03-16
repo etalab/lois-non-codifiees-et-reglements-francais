@@ -10,7 +10,7 @@ Il s'agit de la Régie autonome des transports parisiens (R.A.T.P.), autorisée 
 
 Le réseau
 
-Il s'agit du réseau radioélectrique que l'exploitant est autorisé à établir et exploiter sur les bandes de fréquences décrites au chapitre II du présent cahier des charges. Le terme de réseau englobe aussi bien les réseaux supports de l'exploitant (composé de stations radioélectriques fixes reliées entre elles par une infrastructure filaire ou hertzienne fixe, d'unités de commutation et de gestion...) que les équipements terminaux radioélectriques fixes ou mobiles des groupes fermés d'utilisateurs qui y sont raccordés. L'ensemble des éléments constituant le réseau fait l'objet d'une description au cahier des clauses techniques particulières (C.C.T.P.).
+Il s'agit du réseau radioélectrique que l'exploitant est autorisé à établir et exploiter sur les bandes de fréquences décrites au chapitre II du présent cahier des charges. Le terme de réseau englobe aussi bien les réseaux supports de l'exploitant (composé de stations radioélectriques fixes reliées entre elles par une infrastructure filaire ou hertzienne fixe, d'unités de commutation et de gestion...) que les équipements terminaux radioélectriques fixes ou mobiles des groupes fermés d'utilisateurs qui y sont raccordés.L'ensemble des éléments constituant le réseau fait l'objet d'une description au cahier des clauses techniques particulières (C.C.T.P.).
 
 Les services
 
@@ -44,7 +44,7 @@ L'exploitant doit fournir périodiquement à l'administration des éléments chi
 
 1.4. Utilisateurs
 
-Les installations radioélectriques constituant le réseau sont à usage partagé. Elles sont ouvertes aux services de la R.A.T.P. et aux services de police chargés de la sécurité publique des transports publics dépendants de la R.A.T.P. L'exploitant peut accueillir des utilisateurs tiers identifiés sur son réseau, notamment des entreprises participant au transport public d'Ile-de-France ainsi que les services des administrations associées à leur sécurité.
+Les installations radioélectriques constituant le réseau sont à usage partagé. Elles sont ouvertes aux services de la R.A.T.P. et aux services de police chargés de la sécurité publique des transports publics dépendants de la R.A.T.P.L'exploitant peut accueillir des utilisateurs tiers identifiés sur son réseau, notamment des entreprises participant au transport public d'Ile-de-France ainsi que les services des administrations associées à leur sécurité.
 
 1.5. Tarifs
 
@@ -94,23 +94,23 @@ La bande de fréquences duplex, dont les valeurs centrales indiquées ci-dessous
 
 Bande émission relais (fréquences centrales limites de bande) :
 
-469,5000 - 469,9875 MHz ;
+469,5000-469,9875 MHz ;
 
 Bande émission mobile (fréquences centrales limites de bande) :
 
-459,5000 - 459,9875 MHz ;
+459,5000-459,9875 MHz ;
 
 2° Une sous-bande composée de quatorze canaux duplex contigus :
 
 Bande émission relais (fréquences centrales limites de bande) :
 
-468,1750 - 468,3375 MHz ;
+468,1750-468,3375 MHz ;
 
 Bande émission mobile (fréquences centrales limites de bande) :
 
-458,1750 - 458,3375 MHz.
+458,1750-458,3375 MHz.
 
-Les canaux 458,2000 - 468,2000 MHz ; 458,2250 - 468,2250 MHz ; 458,2750 - 468,2750 MHz ; 458,3250 - 468,3250 MHz sont partagés avec la S.N.C.F. Ils ne sont utilisables, après coordination, que pour des liaisons sol-train ou en sous-sol. Le projet de réaménagement sera à présenter en coordination sous un délai de six mois à compter de la date de publication de l'arrêté ;
+Les canaux 458,2000-468,2000 MHz ; 458,2250-468,2250 MHz ; 458,2750-468,2750 MHz ; 458,3250-468,3250 MHz sont partagés avec la S.N.C.F. Ils ne sont utilisables, après coordination, que pour des liaisons sol-train ou en sous-sol. Le projet de réaménagement sera à présenter en coordination sous un délai de six mois à compter de la date de publication de l'arrêté ;
 
 3° Les quatorze canaux duplex suivants :
 
@@ -174,13 +174,13 @@ MHz
 
 459,012 5
 
-469,025 0
+469,025 0459
 
-459,025 0
+,025 0
 
 2.1.2. Liaisons sol-train (ligne R.E.R.)
 
-L'écart duplex entre les bandes émission/réception est de 10 MHz. L'écart entre les fréquences centrales de canaux adjacents est de 25 kHz et la désignation de la classe d'émission est 16K0F9W.
+L'écart duplex entre les bandes émission/ réception est de 10 MHz.L'écart entre les fréquences centrales de canaux adjacents est de 25 kHz et la désignation de la classe d'émission est 16K0F9W.
 
 L'utilisation des six canaux de la bande UHF suivante est limitée sur la zone de l'Ile-de-France à la couverture des emprises ferroviaires dont l'exploitant a la charge.
 
@@ -220,7 +220,7 @@ MHz
 
 2.1.3. Canaux radioélectriques du réseau souterrain
 
-L'utilisation des canaux de la bande UHF décrits ci-après est limitée au réseau souterrain de la R.A.T.P. L'écart duplex entre deux voies d'un canal radioélectrique est de 10 MHz et les canaux sont espacés de 12,5 kHz.
+L'utilisation des canaux de la bande UHF décrits ci-après est limitée au réseau souterrain de la R.A.T.P.L'écart duplex entre deux voies d'un canal radioélectrique est de 10 MHz et les canaux sont espacés de 12,5 kHz.
 
 BANDE ÉMISSION RELAIS
 
@@ -244,9 +244,9 @@ MHz
 
 L'utilisation de ces trois couples de fréquences ne pourra pas continuer au-delà de l'année 2001.
 
-2.1.4. Canaux VHF de vidéosurveillance
+2.1.4. Canaux VHF de vidéoprotection
 
-Les canaux radioélectriques réservés au service de vidéosurveillance sont les suivants :
+Les canaux radioélectriques réservés au service de vidéoprotection sont les suivants :
 
 a) Vidéosurveillance R.E.R. :
 
@@ -256,9 +256,9 @@ a) Vidéosurveillance R.E.R. :
 
 62,86 MHz.
 
-L'établissement et l'exploitation des canaux radioélectriques précités sont limités à l'utilisation du service de vidéosurveillance à l'intérieur des gares de la ligne A du R.E.R. (ligne Saint-Germain-en-Laye-Boissy-Saint-Léger-Marne-la-Vallée). Les puissances émises ne dépassent pas 7 dBm, le champ rayonné mesuré à 30 mètres est inférieur à 30 mV/m, les émetteurs ne fonctionnent qu'en présence d'un train à quai.
+L'établissement et l'exploitation des canaux radioélectriques précités sont limités à l'utilisation du service de vidéoprotection à l'intérieur des gares de la ligne A du R.E.R. (ligne Saint-Germain-en-Laye-Boissy-Saint-Léger-Marne-la-Vallée). Les puissances émises ne dépassent pas 7 dBm, le champ rayonné mesuré à 30 mètres est inférieur à 30 mV/ m, les émetteurs ne fonctionnent qu'en présence d'un train à quai.
 
-L'exploitation du service est soumise aux conditions fixées par le courrier du Conseil supérieur de l'audiovisuel référencé MD/IP/319/94 n° 3677-94 en date du 23 juin 1994.
+L'exploitation du service est soumise aux conditions fixées par le courrier du Conseil supérieur de l'audiovisuel référencé MD/ IP/319/94 n° 3677-94 en date du 23 juin 1994.
 
 b) Vidéosurveillance Météor :
 
@@ -460,9 +460,9 @@ Mobiles (MHz)
 
 13
 
-469,650 0
+469,650 0459
 
-459,650 0
+,650 0
 
 14
 
@@ -568,9 +568,9 @@ Mobiles (MHz)
 
 31
 
-469,875 0
+469,875 0459
 
-459,875 0
+,875 0
 
 32
 
@@ -940,7 +940,7 @@ Mobiles (MHz)
 
 453,675 0
 
-7. Canaux radioélectriques de vidéosurveillance
+7. Canaux radioélectriques de vidéoprotection
 
 R.E.R., ligne A
 

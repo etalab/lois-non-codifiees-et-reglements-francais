@@ -1,6 +1,6 @@
 # Article 2
 
-Le stockage des flux vidéo est réalisé sur support numérique pour les systèmes de vidéosurveillance comportant huit caméras ou plus. Ce stockage peut également être réalisé sur un autre type de support. Le stockage des flux vidéo est réalisé sur support analogique ou numérique pour les systèmes de vidéosurveillance comportant moins de huit caméras.
+Le stockage des flux vidéo est réalisé sur support numérique pour les systèmes de vidéoprotection comportant huit caméras ou plus. Ce stockage peut également être réalisé sur un autre type de support. Le stockage des flux vidéo est réalisé sur support analogique ou numérique pour les systèmes de vidéoprotection comportant moins de huit caméras.
 
 Tout flux vidéo enregistré numériquement est stocké avec des informations permettant de déterminer à tout moment de la séquence vidéo sa date, son heure et l'emplacement de la caméra.
 

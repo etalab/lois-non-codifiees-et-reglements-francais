@@ -1,6 +1,6 @@
 # Article 5
 
-Village étape, utilisable pour les villages ayant reçu le label "village étape" décerné par le ministère chargé des routes Les panneaux et bornes comportant une simple indication sont répartis comme suit :
+Village étape, utilisable pour les villages ayant reçu le label " village étape " décerné par le ministère chargé des routes Les panneaux et bornes comportant une simple indication sont répartis comme suit :
 
 **1. SIGNAUX D'INDICATION**
 
@@ -22,13 +22,13 @@ Ce panneau indique la vitesse à laquelle il est conseillé de circuler si les c
 
 Signal C4b : Fin de vitesse conseillée.
 
-Signal C5 : Station de taxis. L'arrêt et le stationnement y sont réservés aux taxis en service ; le marquage approprié signale l'étendue de cette réservation.
+Signal C5 : Station de taxis.L'arrêt et le stationnement y sont réservés aux taxis en service ; le marquage approprié signale l'étendue de cette réservation.
 
-Signal C6 : Arrêt d'autobus. L'arrêt et le stationnement des autres véhicules sont interdits, sur une étendue signalée par le marquage approprié.
+Signal C6 : Arrêt d'autobus.L'arrêt et le stationnement des autres véhicules sont interdits, sur une étendue signalée par le marquage approprié.
 
 Signal C7 : abrogé.
 
-Signal C8 : Emplacement d'arrêt d'urgence. L'emplacement constitué par un aménagement ponctuel de l'accotement est réservé aux arrêts d'urgence.
+Signal C8 : Emplacement d'arrêt d'urgence.L'emplacement constitué par un aménagement ponctuel de l'accotement est réservé aux arrêts d'urgence.
 
 Signal C12 : Circulation à sens unique.
 
@@ -42,13 +42,13 @@ Ce panneau signale qu'une section de route est ouverte ou fermée à la circulat
 
 Il comporte le nom du point de passage ou du lieu à atteindre et trois registres variables :
 
-- le registre supérieur comportant l'inscription : "ouvert" sur fond vert ou "fermé" sur fond rouge ;
+-le registre supérieur comportant l'inscription : " ouvert " sur fond vert ou " fermé " sur fond rouge ;
 
-- les deux autres registres à fond blanc comportant, le cas échéant, des indications complémentaires ou prescriptions relatives à l'équipement des véhicules et les limites de la section de route concernée.
+-les deux autres registres à fond blanc comportant, le cas échéant, des indications complémentaires ou prescriptions relatives à l'équipement des véhicules et les limites de la section de route concernée.
 
-Lorsque l'inscription : "ouvert" est affichée, l'usager peut s'engager à condition de respecter les prescriptions complémentaires éventuelles relatives à l'équipement du véhicule, signalées par la reproduction du panneau B26 en encart : "chaînes à neige obligatoires sur au moins deux roues motrices". Lorsque les pneus à neige sont admis, l'inscription "pneus neige admis" figure à côté du panneau B26 en encart.
+Lorsque l'inscription : " ouvert " est affichée, l'usager peut s'engager à condition de respecter les prescriptions complémentaires éventuelles relatives à l'équipement du véhicule, signalées par la reproduction du panneau B26 en encart : " chaînes à neige obligatoires sur au moins deux roues motrices ". Lorsque les pneus à neige sont admis, l'inscription " pneus neige admis " figure à côté du panneau B26 en encart.
 
-Lorsque l'inscription : "fermé" est affichée, l'usager ne doit pas s'engager. Le cas échéant, il peut s'engager sur la section de route limitée par la mention portée sur le premier registre à fond blanc, à condition de respecter les prescriptions complémentaires éventuelles relatives à l'équipement du véhicule, portées sur le deuxième registre à fond blanc.
+Lorsque l'inscription : " fermé " est affichée, l'usager ne doit pas s'engager. Le cas échéant, il peut s'engager sur la section de route limitée par la mention portée sur le premier registre à fond blanc, à condition de respecter les prescriptions complémentaires éventuelles relatives à l'équipement du véhicule, portées sur le deuxième registre à fond blanc.
 
 Signal C18 : Priorité par rapport à la circulation venant en sens inverse.
 
@@ -84,9 +84,9 @@ Signal C28 : Réduction du nombre de voies sur une route à chaussées séparée
 
 Signal C29a : Présignalisation d'un créneau de dépassement ou d'une section de route à chaussées séparées.
 
-Signal C29b : Créneau de dépassement à trois voies affectées "deux voies dans un sens et une voie dans l'autre".
+Signal C29b : Créneau de dépassement à trois voies affectées " deux voies dans un sens et une voie dans l'autre ".
 
-Signal C29c : Section de route à trois voies affectées "une voie dans un sens et deux voies dans l'autre".
+Signal C29c : Section de route à trois voies affectées " une voie dans un sens et deux voies dans l'autre ".
 
 Signal C30 : Fin d'un créneau de dépassement à trois voies affectées.
 
@@ -118,7 +118,7 @@ Signal C65b : Présignalisation d'une aire de service ou de repos sur route à c
 
 Signal C107 : Route à accès réglementé.
 
-Ce signal annonce le début d'une section de route autre qu'une autoroute, réservée à la circulation automobile, sur laquelle les règles de circulation sont les mêmes que celles prescrites aux articles R. 412-8, R. 417-10, R. 421-2 (à l'exception de 9°), R. 421-4 à R. 421-7, R. 432-1, R. 432-3, R. 432-5, R. 432-7 et R. 433-4 (1°) du code de la route et sur laquelle, sauf indication contraire, la vitesse maximale des véhicules est fixée à 110 km / h.
+Ce signal annonce le début d'une section de route autre qu'une autoroute, réservée à la circulation automobile, sur laquelle les règles de circulation sont les mêmes que celles prescrites aux articles R. 412-8, R. 417-10, R. 421-2 (à l'exception de 9°), R. 421-4 à R. 421-7, R. 432-1, R. 432-3, R. 432-5, R. 432-7 et R. 433-4 (1°) du code de la route et sur laquelle, sauf indication contraire, la vitesse maximale des véhicules est fixée à 110 km/ h.
 
 Les dérogations aux prescriptions énoncées ci-dessus sont portées à la connaissance des usagers par une signalisation appropriée.
 
@@ -138,9 +138,9 @@ Ce signal indique que l'accès à une piste ou à une bande cyclable est conseil
 
 Signal C114 : Fin d'une piste ou d'une bande cyclable conseillée et réservée aux cycles à deux ou trois roues.
 
-Signal C 115. - Voie verte - voie réservée à la circulation des piétons et des véhicules non motorisés.
+Signal C 115.-Voie verte-voie réservée à la circulation des piétons et des véhicules non motorisés.
 
-Signal C 116. - Fin de voie verte - voie réservée à la circulation des piétons et des véhicules non motorisés.
+Signal C 116.-Fin de voie verte-voie réservée à la circulation des piétons et des véhicules non motorisés.
 
 Ce signal indique la fin de la réglementation édictée par le panneau C113.
 
@@ -158,23 +158,23 @@ Les panneaux C3, C14, C25a, C25b, C60, C61, C63, C65 et C255 qui sont de forme r
 
 Les signaux de type C sont à fond bleu avec un listel blanc. Les pictogrammes et les inscriptions sont de couleur blanche ; font exception :
 
-- le panneau C3 qui est à fond blanc avec une bordure rouge, un listel blanc et un pictogramme polychrome ;
+-le panneau C3 qui est à fond blanc avec une bordure rouge, un listel blanc et un pictogramme polychrome ;
 
-- les panneaux C4b, C108, C112, C114, C116 et C208 qui sont traversés par une barre oblique de couleur rouge ;
+-les panneaux C4b, C108, C112, C114, C116 et C208 qui sont traversés par une barre oblique de couleur rouge ;
 
-- les panneaux C13, C18, C25a, C25b, C26a et C26b dont un élément du pictogramme est de couleur rouge ;
+-les panneaux C13, C18, C25a, C25b, C26a et C26b dont un élément du pictogramme est de couleur rouge ;
 
-- le panneau C14 qui comporte un registre vert ou rouge et deux registres blancs ;
+-le panneau C14 qui comporte un registre vert ou rouge et deux registres blancs ;
 
-- les panneaux C20a, C20c, C25a, C25b, C27, C64b et C64c dont un élément du pictogramme est de couleur noire ;
+-les panneaux C20a, C20c, C25a, C25b, C27, C64b et C64c dont un élément du pictogramme est de couleur noire ;
 
-- les panneaux C24a dont un élément du pictogramme peut, le cas échéant, être la reproduction de tout ou partie d'un panneau de type A ou de type B ou de type C ;
+-les panneaux C24a dont un élément du pictogramme peut, le cas échéant, être la reproduction de tout ou partie d'un panneau de type A ou de type B ou de type C ;
 
-- les signaux C64d dont le pictogramme est orange ou composé d'éléments noirs ;
+-les signaux C64d dont le pictogramme est orange ou composé d'éléments noirs ;
 
-- les panneaux C115 et C116 dont un élément du pictogramme est de couleur verte ;
+-les panneaux C115 et C116 dont un élément du pictogramme est de couleur verte ;
 
-- les panneaux C117 dont l'élément supérieur du pictogramme est une partie du panneau B18c et l'élément inférieur est une partie des panneaux B21c1, B21c2 ou B21e.
+-les panneaux C117 dont l'élément supérieur du pictogramme est une partie du panneau B18c et l'élément inférieur est une partie des panneaux B21c1, B21c2 ou B21e.
 
 **B) SIGNAUX D'INDICATION DES SERVICES DE TYPE CE donnant des informations sur la présence ou la proximité de services ou d'installations susceptibles d'être utiles aux usagers.**
 
@@ -204,7 +204,7 @@ Panneau CE6b : Point de départ d'un circuit de ski de fond.
 
 Panneau CE7 : Emplacement pour pique-nique.
 
-Panneau CE8 : Gare auto/train.
+Panneau CE8 : Gare auto/ train.
 
 Panneau CE10 : Embarcadère.
 
@@ -260,13 +260,13 @@ Les signaux de type CE sont de forme carrée. Fait exception le signal CE3b, qui
 
 Les signaux de type CE sont à fond blanc, avec une bordure bleue, elle-même entourée d'un listel blanc. Les pictogrammes et inscriptions sont noirs. Font exception :
 
-- le signal CE1 dont le pictogramme est rouge ;
+-le signal CE1 dont le pictogramme est rouge ;
 
-- le signal CE3b dont plusieurs faces peuvent être polychromes ;
+-le signal CE3b dont plusieurs faces peuvent être polychromes ;
 
-- le signal CE29 dont le pictogramme est rouge ;
+-le signal CE29 dont le pictogramme est rouge ;
 
-- les signaux CE30a et CE30b dont le fond est vert avec listel et pictogramme blancs.
+-les signaux CE30a et CE30b dont le fond est vert avec listel et pictogramme blancs.
 
 **2. SIGNAUX DE DIRECTION**
 
@@ -328,13 +328,13 @@ Le panneau D 32 b est composé d'un registre rectangulaire à fond bleu.
 
 Le registre supérieur des panneaux D 31 comporte :
 
-- une flèche de sortie oblique dirigée vers le haut pour les panneaux D 31 b ;
+-une flèche de sortie oblique dirigée vers le haut pour les panneaux D 31 b ;
 
-- une flèche de sortie oblique dirigée vers le bas pour les panneaux D 31 d, D 31 e et D 31 f ;
+-une flèche de sortie oblique dirigée vers le bas pour les panneaux D 31 d, D 31 e et D 31 f ;
 
-- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D 31 d ;
+-le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D 31 d ;
 
-- le numéro de la voie inscrit dans un encart dont la couleur est liée au statut de la route concernée pour les panneaux D 31 b, D 31 e et D 31 f.
+-le numéro de la voie inscrit dans un encart dont la couleur est liée au statut de la route concernée pour les panneaux D 31 b, D 31 e et D 31 f.
 
 Le ou les autres registres comportent les mentions desservies par la route concernée.
 
@@ -380,11 +380,11 @@ Le panneau Da 32 b est composé d'un registre rectangulaire à fond bleu.
 
 Le registre inférieur des panneaux Da 31 comporte :
 
-- une ou plusieurs flèches d'affectation verticales et certaines mentions desservies pour les panneaux Da 31 a, Da 31 b et Da 31 c ;
+-une ou plusieurs flèches d'affectation verticales et certaines mentions desservies pour les panneaux Da 31 a, Da 31 b et Da 31 c ;
 
-- une ou plusieurs flèches d'affectation coudées et certaines mentions desservies pour les panneaux Da 31 d, Da 31 e et Da 31 f ;
+-une ou plusieurs flèches d'affectation coudées et certaines mentions desservies pour les panneaux Da 31 d, Da 31 e et Da 31 f ;
 
-- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da 31 a et Da 31 d.
+-le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da 31 a et Da 31 d.
 
 Les autres registres comportent les autres mentions desservies par la route concernée.
 
@@ -418,11 +418,11 @@ Le registre supérieur des panneaux D 41 c est à fond bleu. Il est complété p
 
 Le registre supérieur des panneaux de type D 41 comporte :
 
-- une indication de distance ;
+-une indication de distance ;
 
-- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux D 41 a ;
+-le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux D 41 a ;
 
-- le numéro de la voie inscrit dans un encart dont la couleur est liée au statut de la route pour les panneaux D 41 b et D 41 c.
+-le numéro de la voie inscrit dans un encart dont la couleur est liée au statut de la route pour les panneaux D 41 b et D 41 c.
 
 Les autres registres comportent les mentions desservies par la route concernée.
 
@@ -434,17 +434,17 @@ Le panneau D 42 b comporte un schéma simplifié du carrefour à sens giratoire 
 
 Les panneaux de type D 42 comportent, outre le schéma du carrefour :
 
-- la distance du carrefour indiquée en bas du panneau ;
+-la distance du carrefour indiquée en bas du panneau ;
 
-- éventuellement, un ou plusieurs encarts dans lesquels sont indiquées des mentions, signalées par ailleurs, dans une couleur différente de celle du fond du panneau. Les panneaux à fond vert comportent des encarts bleus ; les panneaux à fond blanc comportent des encarts verts ou bleus.
+-éventuellement, un ou plusieurs encarts dans lesquels sont indiquées des mentions, signalées par ailleurs, dans une couleur différente de celle du fond du panneau. Les panneaux à fond vert comportent des encarts bleus ; les panneaux à fond blanc comportent des encarts verts ou bleus.
 
 Le panneau D 43 est rectangulaire, à fond bleu, vert ou blanc.
 
 Il comporte la ou les mentions desservies et une flèche orientée vers la direction concernée.
 
-Le panneau D44 est composé comme un panneau D41a pour le premier registre. Le second registre comporte en première ligne le nom du village étape et en seconde ligne l'idéogramme ID28 suivi de la mention : "village étape". Sous ce panneau sont placés trois ou six panneaux CE pour indiquer les services obligatoires présents dans le village étape.
+Le panneau D44 est composé comme un panneau D41a pour le premier registre. Le second registre comporte en première ligne le nom du village étape et en seconde ligne l'idéogramme ID28 suivi de la mention : " village étape ". Sous ce panneau sont placés trois ou six panneaux CE pour indiquer les services obligatoires présents dans le village étape.
 
-Le panneau D45 est composé de deux registres surmontés par un cartouche E42 et sous lesquels sont placés trois panneaux CE indiquant les services obligatoires principaux présents dans le village étape. Le premier registre comporte en première ligne le nom du village étape et en seconde ligne l'idéogramme ID28 suivi de la mention : "village étape". Le second registre indique en kilomètres la distance au village étape.
+Le panneau D45 est composé de deux registres surmontés par un cartouche E42 et sous lesquels sont placés trois panneaux CE indiquant les services obligatoires principaux présents dans le village étape. Le premier registre comporte en première ligne le nom du village étape et en seconde ligne l'idéogramme ID28 suivi de la mention : " village étape ". Le second registre indique en kilomètres la distance au village étape.
 
 **E) PANNEAUX DE PRESIGNALISATION D'AFFECTATION DE VOIES DE TYPE Da 40** :
 
@@ -476,13 +476,13 @@ L'ensemble est surmonté d'un cartouche de type E 40 indiquant la nature et le n
 
 Le registre inférieur des panneaux de type Da 40 comporte :
 
-- une indication de distance ;
+-une indication de distance ;
 
-- une ou plusieurs flèches d'affectation verticales et certaines mentions desservies pour les panneaux Da 41 a, Da 41 b et Da 41 c ;
+-une ou plusieurs flèches d'affectation verticales et certaines mentions desservies pour les panneaux Da 41 a, Da 41 b et Da 41 c ;
 
-- une ou plusieurs flèches d'affectation coudées et certaines mentions desservies pour les panneaux Da 41 d, Da 41 e et Da 41 f ;
+-une ou plusieurs flèches d'affectation coudées et certaines mentions desservies pour les panneaux Da 41 d, Da 41 e et Da 41 f ;
 
-- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da 41 a et Da 41 d.
+-le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da 41 a et Da 41 d.
 
 Les autres registres comportent les autres mentions desservies par la route concernée.
 
@@ -556,9 +556,9 @@ Panneau D 63 d :
 
 Panneau D64 : Panneau de confirmation courante de bifurcation autoroutière.
 
-Panneau D 69 a Panneau de fin d'itinéraire "S".
+Panneau D 69 a Panneau de fin d'itinéraire " S ".
 
-Panneau D 69 b Panneau de fin d'itinéraire "Bis".
+Panneau D 69 b Panneau de fin d'itinéraire " Bis ".
 
 Les panneaux D 61 et D 62 sont composés d'un ou plusieurs registres rectangulaires.
 
@@ -584,9 +584,9 @@ Les autres registres comportent les autres mentions desservies par la route conc
 
 Le registre supérieur des panneaux de type D 63 comporte :
 
-- le numéro de la voie inscrit dans un encart rouge avec l'indication de la distance à la prochaine bifurcation pour le panneau D 63 d ;
+-le numéro de la voie inscrit dans un encart rouge avec l'indication de la distance à la prochaine bifurcation pour le panneau D 63 d ;
 
-- le symbole d'échangeur SE2b ou SE2c avec l'indication de la distance au prochain échangeur pour le panneau D 63 c.
+-le symbole d'échangeur SE2b ou SE2c avec l'indication de la distance au prochain échangeur pour le panneau D 63 c.
 
 Les autres registres comportent les mentions desservies sans indication de distance.
 
@@ -594,7 +594,7 @@ Le panneau D64 est composé de deux registres à fond bleu. Le registre supérie
 
 Le panneau D 69 a est de forme rectangulaire. Il est à fond jaune et listel noir, avec une barre transversale rouge, et comporte le symbole SU 1.
 
-Le panneau D 69 b est composé de deux registres rectangulaires. Le registre supérieur est à fond jaune et listel noir, avec une barre transversale rouge ; il comporte le symbole SC 20 et l'inscription "Fin d'itinéraire bis". Le registre inférieur est à fond bleu, vert ou blanc ; il est composé comme un panneau de confirmation courante D 61.
+Le panneau D 69 b est composé de deux registres rectangulaires. Le registre supérieur est à fond jaune et listel noir, avec une barre transversale rouge ; il comporte le symbole SC 20 et l'inscription " Fin d'itinéraire bis ". Le registre inférieur est à fond bleu, vert ou blanc ; il est composé comme un panneau de confirmation courante D 61.
 
 **I) PANNEAUX DE SIGNALISATION COMPLEMENTAIRE DE TYPE D 70** :
 
@@ -632,9 +632,9 @@ Le panneau D74b est composé de deux registres à fond bleu. Le registre supéri
 
 Les panneaux D 79 sont composés de deux registres rectangulaires :
 
-- le registre supérieur du panneau D 79 a est à fond bleu, vert ou blanc et comporte la (ou les) mention (s). Le registre inférieur est à fond jaune et comporte sur une ligne le mot " suivre " suivi du symbole SU 1 ;
+-le registre supérieur du panneau D 79 a est à fond bleu, vert ou blanc et comporte la (ou les) mention (s). Le registre inférieur est à fond jaune et comporte sur une ligne le mot " suivre " suivi du symbole SU 1 ;
 
-- le registre supérieur du panneau D 79 b est à fond jaune et comporte le symbole SC 20 suivi de la (ou des) mention (s). Le registre inférieur est à fond blanc et comporte les inscriptions suivantes : sur une première ligne, le mot "suivre", sur une seconde ligne, la mention, éventuellement dans un encart vert ou bleu.
+-le registre supérieur du panneau D 79 b est à fond jaune et comporte le symbole SC 20 suivi de la (ou des) mention (s). Le registre inférieur est à fond blanc et comporte les inscriptions suivantes : sur une première ligne, le mot " suivre ", sur une seconde ligne, la mention, éventuellement dans un encart vert ou bleu.
 
 **J) SIGNALISATION DU CARACTERE PAYANT DE CERTAINES AUTOROUTES OU CERTAINS OUVRAGES** :
 
@@ -646,11 +646,11 @@ Les couleurs de fond utilisées en signalisation de direction sont définies en 
 
 Le BLEU est utilisé :
 
-- sur le domaine autoroutier, pour toutes les mentions desservies par l'autoroute ;
+-sur le domaine autoroutier, pour toutes les mentions desservies par l'autoroute ;
 
-- sur le domaine routier, à partir du carrefour de point de choix entre la route et l'autoroute à péage, pour toutes les mentions desservies par l'autoroute ;
+-sur le domaine routier, à partir du carrefour de point de choix entre la route et l'autoroute à péage, pour toutes les mentions desservies par l'autoroute ;
 
-- sur le domaine routier, pour les panneaux de rabattement vers l'autoroute.
+-sur le domaine routier, pour les panneaux de rabattement vers l'autoroute.
 
 Le VERT est utilisé pour la signalisation des pôles verts (agglomérations et autres pôles générateurs de trafic qui figurent sur la liste arrêtée à cet effet par le ministre chargé des transports) sur les itinéraires qui ont été définis pour les relier entre eux.
 
@@ -682,7 +682,7 @@ Sur la base de cette liste peuvent être classés liaisons vertes les itinérair
 
 Le schéma directeur national, constitué par la liste des pôles verts et les cartes des liaisons vertes, est approuvé par le ministre chargé des transports.
 
-**2. 1. PANNEAUX DE JALONNEMENT PIETONNIER DE TYPE DP** :
+**2.1. PANNEAUX DE JALONNEMENT PIETONNIER DE TYPE DP** :
 
 Panneau Dp1a : Jalonnement piétonnier d'un poste d'appel d'urgence vers la droite.
 
@@ -698,7 +698,7 @@ Les panneaux de type Dp1 sont à fond blanc ; la pointe de flèche dessinée est
 
 Les panneaux de type Dp2 sont à fond vert ; la pointe de flèche dessinée est de couleur verte sur fond blanc.
 
-**2. 2 PANNEAUX DE JALONNEMENT DES AMENAGEMENTS CYCLABLES DE TYPE Dv** :
+**2.2 PANNEAUX DE JALONNEMENT DES AMENAGEMENTS CYCLABLES DE TYPE Dv** :
 
 a) Panneau d'identification d'itinéraire cyclable de type Dv10 :
 
@@ -770,7 +770,7 @@ Les panneaux de type Dv peuvent être complétés par des idéogrammes.
 
 **3. PANNEAUX DE LOCALISATION**
 
-**A) PANNEAUX DE LOCALISATION DE TYPE E 30 permettant de porter à la connaissance de l'usager le nom d'un cours d'eau ou d'un lieu traversé par la route, à l'exclusion des agglomérations (dont la signalisation est décrite en 4)** :
+**A) PANNEAUX DE LOCALISATION DE TYPE E 30 permettant de porter à la connaissance de l'usager le nom d'un cours d'eau ou d'un lieu traversé par la route, à l'exclusion des agglomérations (dont la signalisation est décrite en 4)**:
 
 Panneau E 31 : localisation de tous lieux traversés par la route pour lesquels il n'existe pas de panneau spécifique ; panneau à fond noir et inscription blanche ;
 
@@ -912,7 +912,7 @@ ID16a : Monument historique.
 
 ID16b : Site classé.
 
-ID16d. Musée ayant reçu l'appellation " musée de France ", créée par la loi n° 2002-5 du 4 janvier 2002 .
+ID16d. Musée ayant reçu l'appellation " musée de France ", créée par la loi n° 2002-5 du 4 janvier 2002.
 
 ID16e. Parc ou jardin ayant reçu le label " jardin remarquable " décerné par le ministère de la culture.
 
@@ -998,9 +998,9 @@ Le symbole SE2 permet d'identifier ou de localiser un échangeur. Il comporte le
 
 On distingue les symboles :
 
-- SE2b pour les sorties situées à droite ;
+-SE2b pour les sorties situées à droite ;
 
-- SE2c pour les sorties exceptionnellement situées à gauche.
+-SE2c pour les sorties exceptionnellement situées à gauche.
 
 Le symbole SE3 permet de signaler une bifurcation autoroutière. Il représente de manière simplifiée une bifurcation d'autoroutes. Le symbole est blanc sur fond bleu. Il est associé exclusivement aux panneaux D64, D74a et D74b.
 
@@ -1066,7 +1066,7 @@ SC10 : Direction conseillée aux véhicules transportant des marchandises explos
 
 SC11 : Direction conseillée aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-SC12 : Direction conseillée à tout ou partie des véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit "arrêté TMD"), et signalés comme tels.
+SC12 : Direction conseillée à tout ou partie des véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD "), et signalés comme tels.
 
 SC13 : Direction conseillée aux motocyclettes et motocyclettes légères, au sens de l'article R. 311-1 du code de la route.
 
@@ -1158,9 +1158,9 @@ Le signal DC29 comporte une pointe de flèche dessinée.
 
 Les inscriptions des services et équipements sont en caractères italiques (L4). Chaque inscription peut être complétée :
 
-- par un ou deux idéogrammes dont la liste est donnée au paragraphe 4 du présent article ;
+-par un ou deux idéogrammes dont la liste est donnée au paragraphe 4 du présent article ;
 
-- et par un indicateur de classement pour les activités liées à l'hébergement, suivant le classement officiel du ministère chargé du tourisme.
+-et par un indicateur de classement pour les activités liées à l'hébergement, suivant le classement officiel du ministère chargé du tourisme.
 
 La flèche orientée ou la flèche dessinée, l'indicateur de classement et les inscriptions sont de couleur blanche ou noire suivant la couleur du fond.
 
@@ -1172,8 +1172,8 @@ Signal SR2 : ensemble de trois signaux utilisés successivement, rappelant l'esp
 
 SR3a et SR3b : signaux annonçant une zone où la vitesse est contrôlée par un ou plusieurs dispositifs de contrôle automatisé ;
 
-Signal SR4 : signal annonçant que la zone rencontrée est sous vidéosurveillance par le gestionnaire de la route, pour assurer une meilleure sécurité des usagers et la régulation du trafic, conformément à l'article 10 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;
+Signal SR4 : signal annonçant que la zone rencontrée est sous vidéoprotection par le gestionnaire de la route, pour assurer une meilleure sécurité des usagers et la régulation du trafic, conformément à l'article 10 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;
 
 Signal SR50 : signal rappelant un message de sécurité routière de portée générale.
 
-Les signaux de type SR sont de forme rectangulaire, à fond gris, listel jaune et inscriptions blanches. Les signaux SR2 comportent des pictogrammes de couleur blanche avec un élément de couleur verte. Les signaux SR3 comportent des pictogrammes noirs sur un fond blanc. Les signaux SR50 ne comportent que des inscriptions commençant par les mots suivants : "Pour votre sécurité"
+Les signaux de type SR sont de forme rectangulaire, à fond gris, listel jaune et inscriptions blanches. Les signaux SR2 comportent des pictogrammes de couleur blanche avec un élément de couleur verte. Les signaux SR3 comportent des pictogrammes noirs sur un fond blanc. Les signaux SR50 ne comportent que des inscriptions commençant par les mots suivants : " Pour votre sécurité "

@@ -2,7 +2,7 @@
 
 Le titre professionnel d'opérateur (trice) de station centrale de télésurveillance est composé des deux unités constitutives dont la liste suit :
 
-1. Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéosurveillance ;
+1. Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéoprotection ;
 
 2. Gérer à distance la sécurité des biens et des personnes au moyen d'un dispositif de télésurveillance.
 

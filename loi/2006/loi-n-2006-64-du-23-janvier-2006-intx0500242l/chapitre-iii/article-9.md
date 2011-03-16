@@ -1,6 +1,6 @@
 # Article 9
 
-Pour les besoins de la prévention et de la répression des actes de terrorisme, les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales spécialement chargés de ces missions peuvent, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, avoir accès aux traitements automatisés suivants :
+Pour les besoins de la prévention et de la répression des atteintes à l'indépendance de la Nation, à l'intégrité de son territoire, à sa sécurité, à la forme républicaine de ses institutions, aux moyens de sa défense et de sa diplomatie, à la sauvegarde de sa population en France et à l'étranger et aux éléments essentiels de son potentiel scientifique et économique et des actes de terrorisme, les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales spécialement chargés de ces missions peuvent, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, avoir accès aux traitements automatisés suivants :
 
 -le fichier national des immatriculations ;
 
@@ -19,3 +19,5 @@ Pour les besoins de la prévention et de la répression des actes de terrorisme,
 Pour les besoins de la prévention des actes de terrorisme, les agents des services de renseignement du ministère de la défense individuellement désignés et dûment habilités sont également autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, à accéder aux traitements automatisés mentionnés ci-dessus.
 
 Un arrêté du ministre de l'intérieur et du ministre de la défense détermine les services de renseignement du ministère de la défense qui sont autorisés à consulter lesdits traitements automatisés.
+
+Un arrêté interministériel désigne les services de renseignement du ministère de l'intérieur spécialement chargés de la prévention des atteintes à l'indépendance de la Nation, à l'intégrité de son territoire, à sa sécurité, à la forme républicaine de ses institutions, aux moyens de sa défense et de sa diplomatie, à la sauvegarde de sa population en France et à l'étranger et aux éléments essentiels de son potentiel scientifique.

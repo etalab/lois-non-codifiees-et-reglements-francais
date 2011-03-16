@@ -21,7 +21,7 @@ Les titulaires des certificats de compétences professionnelles obtenus antérie
 <br/>Néant. <br/>
 </td>
 <td align="center">
-<br/>Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéosurveillance. <br/>
+<br/>Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéoprotection. <br/>
 </td>
 </tr>
 <tr>

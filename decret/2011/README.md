@@ -19,3 +19,4 @@
 - [Décret n°2011-180 du 15 février 2011 (EFIT1101429D)](decret-n2011-180-du-15-fevrier-2011-efit1101429d)
 - [Décret n°96-926 du 17 octobre 1996 (INTD9600265D)](decret-n96-926-du-17-octobre-1996-intd9600265d)
 - [Décret n°93-398 du 18 mars 1993 (INTB9300128D)](decret-n93-398-du-18-mars-1993-intb9300128d)
+- [Décret n°2010-1699 du 29 décembre 2010 (DEVA1030457D)](decret-n2010-1699-du-29-decembre-2010-deva1030457d)

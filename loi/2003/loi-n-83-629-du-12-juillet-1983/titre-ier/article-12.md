@@ -1,6 +1,6 @@
 # Article 12
 
-I. - L'autorisation prévue à l'article 7 peut être retirée :
+I.-L'autorisation prévue à l'article 7 peut être retirée :
 
 1° A la personne physique qui, titulaire de l'agrément prévu à l'article 5, ne remplit plus les conditions exigées à cet article ou dont l'agrément a été retiré ;
 
@@ -14,10 +14,10 @@ I. - L'autorisation prévue à l'article 7 peut être retirée :
 
 Sauf dans le cas prévu au 4°, le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
 
-II. - Dans les cas prévus aux 1° à 4° du I, l'autorisation peut être suspendue pour six mois au plus.
+II.-Dans les cas prévus aux 1° à 4° du I, l'autorisation peut être suspendue pour six mois au plus.
 
-L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale titulaire de l'autorisation prévue à l'article 7 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
+L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale titulaire de l'autorisation prévue à l'article 7 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative ou la commission régionale d'agrément et de contrôle a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
 
-III. - Sauf urgence ou nécessité tenant à l'ordre public, la suspension ou le retrait intervient au terme d'une procédure contradictoire.
+III.-Sauf urgence ou nécessité tenant à l'ordre public, la suspension ou le retrait intervient au terme d'une procédure contradictoire.
 
-IV. - L'autorisation devient caduque en cas de cessation définitive d'activité de son titulaire.
+IV.-L'autorisation devient caduque en cas de cessation définitive d'activité de son titulaire.

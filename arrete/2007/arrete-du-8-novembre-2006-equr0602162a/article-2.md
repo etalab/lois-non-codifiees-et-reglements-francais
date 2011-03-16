@@ -76,9 +76,9 @@ Les systèmes de ventilation transversaux ou semi-transversaux sont utilisés da
 
 Pour les tunnels à circulation bidirectionnelle de plus de 3 000 mètres dont le volume de trafic est supérieur à 2 000 véhicules par voie, et qui disposent d'un poste de contrôle-commande et d'une ventilation transversale ou semi-transversale, les mesures minimales décrites ci-après sont prises en ce qui concerne la ventilation :
 
-- des trappes d'extraction de l'air et des fumées pouvant être commandées séparément ou par groupes sont installées ;
+-des trappes d'extraction de l'air et des fumées pouvant être commandées séparément ou par groupes sont installées ;
 
-- la vitesse longitudinale de l'air est mesurée en permanence et le processus de commande du système de ventilation est ajusté en conséquence.
+-la vitesse longitudinale de l'air est mesurée en permanence et le processus de commande du système de ventilation est ajusté en conséquence.
 
 j) Postes de secours :
 
@@ -100,7 +100,7 @@ La surveillance de plusieurs tunnels peut être centralisée dans un poste de co
 
 m) Systèmes de surveillance :
 
-Des systèmes de vidéosurveillance et un système capable de détecter automatiquement les incidents de la circulation ou les incendies sont installés dans tous les tunnels équipés d'un poste de contrôle-commande.
+Des systèmes de vidéoprotection et un système capable de détecter automatiquement les incidents de la circulation ou les incendies sont installés dans tous les tunnels équipés d'un poste de contrôle-commande.
 
 Des systèmes de détection automatique des incendies sont installés dans tous les tunnels ne disposant pas d'un poste de contrôle-commande, lorsque la mise en oeuvre de la ventilation mécanique pour la maîtrise des fumées est différente de la mise en oeuvre automatique de la ventilation pour la maîtrise des polluants.
 

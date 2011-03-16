@@ -58,7 +58,7 @@ Avant tout choix de conception, un audit est nécessaire afin d'avoir une bonne 
 
 ― de constater les niveaux existants de protection des zones (ouvertures, parois, existence ou non de systèmes de contrôle comme les lecteurs de badges, obstacles au passage, niveau de résistance de ces obstacles à l'effraction, homogénéité de ces différents points...) ;
 
-― d'identifier les menaces potentielles (intrusion involontaire ou de curieux, pénétration délibérée de personnes initiées et/ou équipées, complicité interne...) ;
+― d'identifier les menaces potentielles (intrusion involontaire ou de curieux, pénétration délibérée de personnes initiées et/ ou équipées, complicité interne...) ;
 
 ― de prendre en compte les contraintes (architecturales, réglementaires [incendie, protection du secret de la défense nationale...]).
 
@@ -90,17 +90,17 @@ LES BARRIÈRES DE PROTECTION PHYSIQUE ET LEUR RÉPARTITION EN CLASSES
 
 Les barrières sont réparties en classes indiquant leur degré de résistance à une tentative d'intrusion. Chacune des barrières est répartie en quatre classes, de la moins fiable à la plus sûre. Un contrôle d'accès et une procédure d'intervention s'imposent pour toutes les classes.
 
-1. Classes du bâtiment et/ou de l'emprise :
+1. Classes du bâtiment et/ ou de l'emprise :
 
-Classe 4 : enceinte protégée (clôture d'une hauteur supérieure à 2,15 m ou, dans le cas où les murs du bâtiment constituent l'enceinte, protection de toutes les ouvertures situées à moins de 5,50 m au-dessus du niveau du sol) avec un dispositif de détection renvoyant une alarme vers le(s) responsable(s) désigné(s), mais absence de gardes permanents.
+Classe 4 : enceinte protégée (clôture d'une hauteur supérieure à 2,15 m ou, dans le cas où les murs du bâtiment constituent l'enceinte, protection de toutes les ouvertures situées à moins de 5,50 m au-dessus du niveau du sol) avec un dispositif de détection renvoyant une alarme vers le (s) responsable (s) désigné (s), mais absence de gardes permanents.
 
 Classe 3 : protection de la classe 4 + gardes permanents effectuant des rondes de surveillance dans les locaux et l'emprise ou dispositif de détection-alarme relié à un élément d'intervention extérieur (gendarmerie, commissariat de police, société de gardiennage).
 
-Classe 2 : protection de la classe 3 + dispositifs de détection-alarme (éclairage, télésurveillance, vidéosurveillance, détection périmétrique ou périphérique) + présence de gardes permanents.
+Classe 2 : protection de la classe 3 + dispositifs de détection-alarme (éclairage, télésurveillance, vidéoprotection, détection périmétrique ou périphérique) + présence de gardes permanents.
 
-Classe 1 : protection de la classe 2 + dispositifs de détection-alarme pour les locaux (détection périphérique ou volumétrique) ou les meubles (détection ponctuelle) + traçabilité des accès (registre et vidéosurveillance).
+Classe 1 : protection de la classe 2 + dispositifs de détection-alarme pour les locaux (détection périphérique ou volumétrique) ou les meubles (détection ponctuelle) + traçabilité des accès (registre et vidéoprotection).
 
-Les dispositifs électroniques de filtrage ne peuvent pas à eux seuls garantir l'intégrité des accès aux bâtiments et/ou aux emprises. Ils doivent obligatoirement être complétés par des systèmes mécaniques de fermeture activés en dehors des heures normales d'occupation des bâtiments.
+Les dispositifs électroniques de filtrage ne peuvent pas à eux seuls garantir l'intégrité des accès aux bâtiments et/ ou aux emprises. Ils doivent obligatoirement être complétés par des systèmes mécaniques de fermeture activés en dehors des heures normales d'occupation des bâtiments.
 
 2. Classes du local :
 
@@ -126,7 +126,7 @@ Les meubles de sécurité destinés à la conservation des informations ou suppo
 
 Classe C : armoire dite forte, à un ou deux battants, à structure métallique d'au moins 2 mm d'épaisseur, munie d'une serrure mécanique à combinaison silencieuse et à manœuvre discrète qui permet de s'affranchir de la conservation des clés. Les battants doivent posséder un système d'accrochage du côté du pivot interdisant le démontage des portes en cas de sectionnement des gonds, lorsque le meuble est condamné. Les pênes, inaccessibles de l'extérieur, ne doivent pas pouvoir être démontés.
 
-Classe B : armoire forte de structure identique à la classe C + un renforcement de la structure de la zone située derrière les organes essentiels (159) dont la présence peut être vérifiée visuellement par démontage du foncet de porte (face intérieure de la porte) + un dispositif délateur, à déclenchement mécanique et thermique, bloquant définitivement les mécanismes d'ouverture en cas de tentative d'ouverture illégitime + un plombage du foncet de porte (face intérieure de la porte) permettant de détecter aisément un démontage + un système à clé interdisant l'accès au dispositif de changement de la combinaison pour les modèles mécaniques + un système d'asservissement, interdisant la sortie des pênes de la porte principale lorsque l'autre battant n'est pas fermé, s'il ne s'agit pas d'une porte à battant unique + un dispositif qui interdise aux pênes de la porte principale, une fois sortis, de se rétracter à moins que la combinaison soit à nouveau composée + un compteur d'ouverture non falsifiable et non réutilisable, sans dispositif de remise à zéro et protégé par le foncet + une serrure mécanique à combinaison silencieuse et à manœuvre discrète est à recommander. L'emploi d'une serrure électronique peut être autorisé s'il est justifié (160). Elle doit alors être de haut de gamme (161), posséder une mémoire permettant son audit, éventuellement pouvoir être paramétrée pour n'être ouverte que dans des plages horaires choisies, comporter un dispositif permettant à un usager de déclencher une alarme auprès d'un service de sécurité lorsque l'ouverture est effectuée sous la menace.
+Classe B : armoire forte de structure identique à la classe C + un renforcement de la structure de la zone située derrière les organes essentiels (159) dont la présence peut être vérifiée visuellement par démontage du foncet de porte (face intérieure de la porte) + un dispositif délateur, à déclenchement mécanique et thermique, bloquant définitivement les mécanismes d'ouverture en cas de tentative d'ouverture illégitime + un plombage du foncet de porte (face intérieure de la porte) permettant de détecter aisément un démontage + un système à clé interdisant l'accès au dispositif de changement de la combinaison pour les modèles mécaniques + un système d'asservissement, interdisant la sortie des pênes de la porte principale lorsque l'autre battant n'est pas fermé, s'il ne s'agit pas d'une porte à battant unique + un dispositif qui interdise aux pênes de la porte principale, une fois sortis, de se rétracter à moins que la combinaison soit à nouveau composée + un compteur d'ouverture non falsifiable et non réutilisable, sans dispositif de remise à zéro et protégé par le foncet + une serrure mécanique à combinaison silencieuse et à manœuvre discrète est à recommander.L'emploi d'une serrure électronique peut être autorisé s'il est justifié (160). Elle doit alors être de haut de gamme (161), posséder une mémoire permettant son audit, éventuellement pouvoir être paramétrée pour n'être ouverte que dans des plages horaires choisies, comporter un dispositif permettant à un usager de déclencher une alarme auprès d'un service de sécurité lorsque l'ouverture est effectuée sous la menace.
 
 Le meuble équipé d'une combinaison électronique devra comporter une serrure mécanique à clé facilement permutable en supplément. Cette clé devra être prisonnière de la serrure tant que le pêne de la combinaison et les pênes du meuble ne sont pas sortis portes fermées + un système de tringlerie métallique en acier assurant sur la porte principale une répartition géographique de plusieurs pênes horizontaux et verticaux. Si une poignée actionne ce système, elle doit posséder un point de rupture pour éviter un effort trop conséquent sur la tringlerie. Sa position doit permettre la visualisation immédiate de l'état de la condamnation du meuble.
 
@@ -155,70 +155,70 @@ Niveau Très Secret Défense
 <table>
 <tbody>
 <tr>
-<th>CLASSE DU BÂTIMENT<br/>ou de l'emprise<br/>
+<th>CLASSE DU BÂTIMENT <br/>ou de l'emprise <br/>
 </th>
-<th colspan="4">CLASSE DU LOCAL<br/>
+<th colspan="4">CLASSE DU LOCAL <br/>
 </th>
 </tr>
 <tr>
 <th>
 <br/>
 </th>
-<th>a<br/>
+<th>a <br/>
 </th>
-<th>b<br/>
+<th>b <br/>
 </th>
-<th>c<br/>
+<th>c <br/>
 </th>
-<th>d<br/>
+<th>d <br/>
 </th>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">1 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">B<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2<br/>
-</td>
-<td align="center">B<br/>
-</td>
-<td align="center">A<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3<br/>
-</td>
-<td align="center">A<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-</tr>
-<tr>
-<td align="center">4<br/>
+<td align="center">B <br/>
 </td>
 <td align="center">Interdit <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
-<td align="center">Interdit<br/>
+</tr>
+<tr>
+<td align="center">2 <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">B <br/>
+</td>
+<td align="center">A <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+</tr>
+<tr>
+<td align="center">3 <br/>
+</td>
+<td align="center">A <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
 </td>
 </tr>
 </tbody>
@@ -235,70 +235,70 @@ Niveau Secret Défense
 <table>
 <tbody>
 <tr>
-<th>CLASSE DU BÂTIMENT<br/>ou de l'emprise<br/>
+<th>CLASSE DU BÂTIMENT <br/>ou de l'emprise <br/>
 </th>
-<th colspan="4">CLASSE DU LOCAL<br/>
+<th colspan="4">CLASSE DU LOCAL <br/>
 </th>
 </tr>
 <tr>
 <th>
 <br/>
 </th>
-<th>a<br/>
+<th>a <br/>
 </th>
-<th>b<br/>
+<th>b <br/>
 </th>
-<th>c<br/>
+<th>c <br/>
 </th>
-<th>d<br/>
+<th>d <br/>
 </th>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">1 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
-<td align="center">Interdit<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2<br/>
-</td>
-<td align="center">C<br/>
-</td>
-<td align="center">C<br/>
-</td>
-<td align="center">Interdit<br/>
-</td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
 </tr>
 <tr>
-<td align="center">3<br/>
+<td align="center">2 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">3 <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">Interdit <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
+</td>
+<td align="center">Interdit <br/>
 </td>
 </tr>
 </tbody>
@@ -315,70 +315,70 @@ Niveau Confidentiel Défense
 <table>
 <tbody>
 <tr>
-<th>CLASSE DU BÂTIMENT<br/>ou de l'emprise<br/>
+<th>CLASSE DU BÂTIMENT <br/>ou de l'emprise <br/>
 </th>
-<th colspan="4">CLASSE DU LOCAL<br/>
+<th colspan="4">CLASSE DU LOCAL <br/>
 </th>
 </tr>
 <tr>
 <th>
 <br/>
 </th>
-<th>a<br/>
+<th>a <br/>
 </th>
-<th>b<br/>
+<th>b <br/>
 </th>
-<th>c<br/>
+<th>c <br/>
 </th>
-<th>d<br/>
+<th>d <br/>
 </th>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">1 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2<br/>
-</td>
-<td align="center">C<br/>
-</td>
-<td align="center">C<br/>
-</td>
-<td align="center">C<br/>
-</td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
 </tr>
 <tr>
-<td align="center">3<br/>
+<td align="center">2 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">B<br/>
+<td align="center">C <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">3 <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">C<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">B<br/>
+<td align="center">C <br/>
 </td>
-<td align="center">Interdit<br/>
+<td align="center">B <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">C <br/>
+</td>
+<td align="center">C <br/>
+</td>
+<td align="center">B <br/>
+</td>
+<td align="center">Interdit <br/>
 </td>
 </tr>
 </tbody>
@@ -504,7 +504,7 @@ Les contraintes organisationnelles :
 
 Le respect des contraintes réglementaires, juridiques et autres :
 
-― l'application des normes (notamment ISO 7498-2-99, ISO 13335, NFC 13-100, 15-100) ;
+― l'application des normes (notamment ISO 7498-2-99, ISO 13335, NFC 13-100,15-100) ;
 
 ― les règlements divers ;
 
@@ -536,7 +536,7 @@ Les objectifs de sécurité :
 
 ― l'indisponibilité partielle ou totale ;
 
-― le degré de sécurité souhaité en fonction de la nature des applications (notamment les conditions d'accès au système, l'autorisations et la confidentialité). A cet effet, il y aura lieu de définir la ou les zones de sécurité, c'est-à-dire de déterminer ce qui est contrôlable à tout instant par l'entité concernée avec la prise en compte des possibilités au regard des différents piégeages éventuels, électromagnétiques (notamment les chemins de câbles et les locaux de répartition), acoustiques (notamment les vitrages et les murs) et intrusions ;
+― le degré de sécurité souhaité en fonction de la nature des applications (notamment les conditions d'accès au système, l'autorisations et la confidentialité).A cet effet, il y aura lieu de définir la ou les zones de sécurité, c'est-à-dire de déterminer ce qui est contrôlable à tout instant par l'entité concernée avec la prise en compte des possibilités au regard des différents piégeages éventuels, électromagnétiques (notamment les chemins de câbles et les locaux de répartition), acoustiques (notamment les vitrages et les murs) et intrusions ;
 
 ― le type et la nature des protections sur les données en ligne ;
 
@@ -562,25 +562,25 @@ GUIDE DES MESURES DE SÉCURITÉ APPLICABLES AU COURS DES RÉUNIONS IMPLIQUANT DE
 
 Avant la réunion :
 
-1. L'organisateur détermine le niveau de classification de la réunion et demande le nom des personnes qui assisteront à la réunion afin d'établir la liste des participants.
+1.L'organisateur détermine le niveau de classification de la réunion et demande le nom des personnes qui assisteront à la réunion afin d'établir la liste des participants.
 
-2. L'organisateur s'assure que l'officier de sécurité reçoive la liste des participants afin de vérifier que leur habilitation est valide et correspond au niveau des informations ou supports qui vont être traités.
+2.L'organisateur s'assure que l'officier de sécurité reçoive la liste des participants afin de vérifier que leur habilitation est valide et correspond au niveau des informations ou supports qui vont être traités.
 
-3. L'officier de sécurité s'assure que la salle accueillant la réunion répond aux conditions de sécurité inhérentes au niveau de classification des informations qui seront abordées.
+3.L'officier de sécurité s'assure que la salle accueillant la réunion répond aux conditions de sécurité inhérentes au niveau de classification des informations qui seront abordées.
 
 Au début de la réunion :
 
-5. L'officier de sécurité s'assure que l'identité de chaque participant est vérifiée et conforme à la liste des participants, validée préalablement par ses soins.
+5.L'officier de sécurité s'assure que l'identité de chaque participant est vérifiée et conforme à la liste des participants, validée préalablement par ses soins.
 
-6. L'organisateur indique aux participants le niveau maximal de classification des informations qui seront abordées au cours de la réunion et les règles de sécurité correspondantes.
+6.L'organisateur indique aux participants le niveau maximal de classification des informations qui seront abordées au cours de la réunion et les règles de sécurité correspondantes.
 
-7. L'organisateur, assisté par l'officier de sécurité s'assure que les mesures de sécurité concernant les téléphones portables et autres appareils électroniques sont appliquées.
+7.L'organisateur, assisté par l'officier de sécurité s'assure que les mesures de sécurité concernant les téléphones portables et autres appareils électroniques sont appliquées.
 
 Pendant la réunion :
 
 8. Le niveau maximal de classification des informations évoquées au cours de la réunion ne doit pas dépasser le niveau d'habilitation de chaque participant ainsi que les capacités de protection de la salle accueillant la réunion.
 
-9. L'organisateur veille à ce que la communication d'informations classifiées reste limitée à l'objet de la réunion.
+9.L'organisateur veille à ce que la communication d'informations classifiées reste limitée à l'objet de la réunion.
 
 10. Pendant les pauses, les participants sont autorisés à quitter la salle de réunion si la sécurité des documents classifiés qui y sont laissés est assurée.
 
@@ -592,7 +592,7 @@ A l'issue de la réunion :
 
 13. Les documents classifiés sont récupérés, rangés ou détruits sous la responsabilité de l'organisateur et de l'officier de sécurité dès lors qu'ils cessent d'être utiles.
 
-14. L'organisateur dresse un procès-verbal de la réunion comprenant les domaines évoqués, les mesures prises pour assurer la protection des informations classifiées et la liste des participants.
+14.L'organisateur dresse un procès-verbal de la réunion comprenant les domaines évoqués, les mesures prises pour assurer la protection des informations classifiées et la liste des participants.
 
 16. Lorsque les participants sont autorisés à prendre des notes au cours de la réunion, ils sont informés par l'organisateur de leur responsabilité en matière de protection du secret.
 
@@ -604,7 +604,7 @@ Les présentes clauses sont insérées dans les contrats en application de la pr
 
 1. Clause générale de protection du secret :
 
-Dans le cadre des dispositions législatives et réglementaires en matière de protection du secret de la défense nationale, le titulaire du contrat s'engage à assurer la protection des informations ou supports classifiés qu'il aura à connaître et/ou à détenir au titre du présent contrat, en tenant compte des dispositions particulières stipulées dans l'annexe de sécurité au présent contrat.
+Dans le cadre des dispositions législatives et réglementaires en matière de protection du secret de la défense nationale, le titulaire du contrat s'engage à assurer la protection des informations ou supports classifiés qu'il aura à connaître et/ ou à détenir au titre du présent contrat, en tenant compte des dispositions particulières stipulées dans l'annexe de sécurité au présent contrat.
 
 Il reconnaît avoir pris connaissance des textes suivants portant sur ses obligations résultant de la connaissance et de la détention d'informations ou supports classifiés couverts par le secret de la défense nationale :
 
@@ -684,11 +684,11 @@ ATTESTATION DE CONFORMITÉ PHYSIQUE
 
 PHYSIQUE ET INFORMATIQUE
 
-Je, soussigné(e) (nom, prénom et qualité de la personne engageant la personne morale)
+Je, soussigné (e) (nom, prénom et qualité de la personne engageant la personne morale)
 
 atteste que les locaux où seront reçus, manipulés, élaborés, traités, conservés et émis des informations et supports classifiés au sein de mon entreprise (dénomination sociale) pour les établissements ci-dessous mentionnés :
 
-au titre du /des contrat(s) :
+au titre du/ des contrat (s) :
 
 bénéficient des conditions de protection légales et réglementaires en matière de protection du secret et notamment au regard des titres IV et V de l'instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale.
 
@@ -696,7 +696,7 @@ La vérification de ces locaux a été effectuée par le service enquêteur le (
 
 à l'avis technique (mentionner les références de l'avis) :
 
-Fait à , le
+Fait à, le
 
 Signature
 
@@ -706,19 +706,19 @@ ATTESTATION DE MISE AUX NORMES DE SÉCURITÉ PHYSIQUE
 
 PHYSIQUE ET INFORMATIQUE
 
-Je, soussigné(e) (nom, prénom et qualité de la personne engageant la personne morale)
+Je, soussigné (e) (nom, prénom et qualité de la personne engageant la personne morale)
 
 atteste que les locaux où seront reçus, manipulés, élaborés, traités, conservés et émis des informations et supports classifiés au sein de mon entreprise (dénomination sociale) pour les établissements ci-dessous mentionnés :
 
-au titre du/des contrat(s) :
+au titre du/ des contrat (s) :
 
 à la suite de la vérification de ces locaux effectuée par le service enquêteur le (date) qui a donné lieu
 
-à l'avis technique (mentionner les références de l'avis) ,
+à l'avis technique (mentionner les références de l'avis),
 
 ont fait l'objet de travaux de mise en conformité et bénéficient des conditions de protection légales et réglementaires en matière de protection du secret et notamment au regard des titres IV et V de l'instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale.
 
-Fait à , le
+Fait à, le
 
 Signature
 

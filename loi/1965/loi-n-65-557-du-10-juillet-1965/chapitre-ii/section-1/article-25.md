@@ -24,7 +24,7 @@ i) La suppression des vide-ordures pour des impératifs d'hygiène ;
 
 j) L'installation ou la modification d'une antenne collective ou d'un réseau de communications électroniques interne à l'immeuble dès lors qu'elle porte sur des parties communes ;
 
-k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes;
+k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes ;
 
 l) L'installation ou la modification des installations électriques intérieures permettant l'alimentation des emplacements de stationnement d'accès sécurisé à usage privatif pour permettre la recharge des véhicules électriques ou hybrides, ainsi que la réalisation des installations de recharge électrique permettant un comptage individuel pour ces mêmes véhicules ;
 
@@ -32,4 +32,6 @@ m) L'installation de compteurs d'eau froide divisionnaires.
 
 n) Les travaux à effectuer sur les parties communes en vue de prévenir les atteintes aux personnes et aux biens ;
 
-o) L'installation de compteurs d'énergie thermique ou de répartiteurs de frais de chauffage.
+o) L'installation de compteurs d'énergie thermique ou de répartiteurs de frais de chauffage ;
+
+p) L'autorisation de transmettre aux services chargés du maintien de l'ordre les images réalisées en vue de la protection des parties communes, dans les conditions prévues à l'article L. 126-1-1 du code de la construction et de l'habitation.

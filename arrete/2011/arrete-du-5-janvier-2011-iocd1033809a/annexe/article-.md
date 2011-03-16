@@ -6,7 +6,7 @@ CONDITIONS REQUISES POUR LA CERTIFICATION DES INSTALLATEURS DE SYSTÈMES DE VID�
 
 Introduction
 
-La présente annexe définit le référentiel composé des exigences minimales à respecter par un installateur de systèmes de vidéosurveillance ainsi que des procédures de vérification que devra suivre un organisme certificateur pour vérifier que ces exigences sont satisfaites et délivrer le cas échéant un certificat reconnu par les préfectures, conformément à l'alinéa 11 de l'article 1er du décret n° 96-926 modifié.
+La présente annexe définit le référentiel composé des exigences minimales à respecter par un installateur de systèmes de vidéoprotection ainsi que des procédures de vérification que devra suivre un organisme certificateur pour vérifier que ces exigences sont satisfaites et délivrer le cas échéant un certificat reconnu par les préfectures, conformément à l'alinéa 11 de l'article 1er du décret n° 96-926 modifié.
 
 En application du décret n° 2008-1401 du 19 décembre 2008, notamment ses articles 1er à 6, l'accréditation est prononcée par le Comité français d'accréditation (COFRAC) ou par tout organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation, selon la norme EN 45011 assortie de règles d'application garantissant le respect par l'organisme certificateur des éléments ci-après.
 
@@ -48,7 +48,7 @@ L'installateur doit disposer de la compétence technique pour conseiller utileme
 
 ― contraintes d'exploitation : exploitation technique des matériels, exploitation des images par les exploitants, formation souhaitable pour ces exploitants.
 
-L'installateur doit proposer au client une installation au meilleur rapport qualité/prix, sans imposer des matériels ou installations pouvant conduire à des surcoûts injustifiés.
+L'installateur doit proposer au client une installation au meilleur rapport qualité/ prix, sans imposer des matériels ou installations pouvant conduire à des surcoûts injustifiés.
 
 L'installateur doit disposer de personnels qualifiés sur la base de formations dans le domaine (vidéo, transmission IP, stockage...) ou justifiant d'au moins deux années d'expérience.
 
@@ -58,7 +58,7 @@ L'installateur doit remettre au maître d'ouvrage un procès-verbal de réceptio
 
 L'installateur doit préciser par écrit au maître d'ouvrage quelles sont les actions d'exploitation et de maintenance nécessaires au bon fonctionnement du système.
 
-2.  Méthode de vérification par l'organisme certificateur
+2. Méthode de vérification par l'organisme certificateur
 
 2.1. Avant la délivrance d'une certification à un installateur
 
@@ -76,6 +76,6 @@ Le certificat délivré doit explicitement mentionner que la certification est d
 
 L'organisme certificateur s'assure par sondage auprès des maîtres d'ouvrage clients que les exigences du paragraphe 1 et les engagements de l'installateur sont bien respectés.
 
-L'organisme certificateur met en place une procédure de contrôle de la compétence de l'installateur et de la conformité de ses engagements et installations qui tient compte du nombre d'installations faites par l'entreprise sur l'ensemble de la France mais comporte au minimum deux visites d'une demi-journée tous les deux ans chez l'installateur ou chez certains de ses clients (avec un minimum d'une visite tous les quatre ans chez l'installateur et un minimum d'une visite tous les deux ans chez les clients). L'organisme certificateur doit avoir le choix des clients qu'il souhaite contrôler (dès lors qu'il contrôle des installations sur des lieux recevant du public et que la confidentialité du fichier client de l'installateur est préservée).
+L'organisme certificateur met en place une procédure de contrôle de la compétence de l'installateur et de la conformité de ses engagements et installations qui tient compte du nombre d'installations faites par l'entreprise sur l'ensemble de la France mais comporte au minimum deux visites d'une demi-journée tous les deux ans chez l'installateur ou chez certains de ses clients (avec un minimum d'une visite tous les quatre ans chez l'installateur et un minimum d'une visite tous les deux ans chez les clients).L'organisme certificateur doit avoir le choix des clients qu'il souhaite contrôler (dès lors qu'il contrôle des installations sur des lieux recevant du public et que la confidentialité du fichier client de l'installateur est préservée).
 
 En cas d'installations manifestement défectueuses ou non conformes à la réglementation détectées suite à des plaintes ou lors des visites de sondage, l'organisme certificateur doit adresser une mise en demeure à l'installateur. Si cette mise en demeure n'est pas suivie d'effet, l'organisme peut suspendre ou retirer sa certification à un installateur. Il doit alors en avertir le ministère de l'intérieur.

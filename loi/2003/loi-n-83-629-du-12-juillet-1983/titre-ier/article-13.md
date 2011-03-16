@@ -6,4 +6,4 @@ Sans préjudice des compétences des inspecteurs et contrôleurs du travail, ils
 
 En présence de l'occupant des lieux ou de son représentant, ils peuvent, entre 8 heures et 20 heures, accéder aux locaux dans lesquels est habituellement exercée une activité mentionnée à l'article 1er ; ils peuvent également y accéder à tout moment lorsque l'exercice de cette activité est en cours. Ils ne peuvent accéder à ceux de ces locaux qui servent de domicile.
 
-Un compte rendu de visite est établi, dont une copie est remise immédiatement au responsable de l'entreprise, et adressé au préfet du département ou, à Paris, au préfet de police.
+Un compte rendu de visite est établi, dont une copie est remise immédiatement au responsable de l'entreprise, et adressé au préfet du département ou, à Paris, au préfet de police, ainsi qu'à la commission régionale d'agrément et de contrôle.

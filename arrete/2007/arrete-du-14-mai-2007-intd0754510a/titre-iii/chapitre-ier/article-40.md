@@ -1,6 +1,6 @@
 # Article 40
 
-Les sixains ou les jeux de cartes ne sont extraits du dépôt de cartes qu'au moment où il en est fait usage. S'ils sont neufs, ils ne sont décachetés qu'à la table de jeu. Le système de vidéosurveillance enregistre l'opération et doit permettre de vérifier si la bande de contrôle est intacte. Dans tous les cas, les cartes sont aussitôt après étalées sur la table, les figures en dessus, afin de permettre de constater que l'ordre suivant lequel elles sont classées par le fabricant n'a subi aucun changement. Le croupier procède à leur comptée et à leur vérification. Elles sont ensuite retournées sur le tapis et mélangés à plat, les figures en dessous.
+Les sixains ou les jeux de cartes ne sont extraits du dépôt de cartes qu'au moment où il en est fait usage.S'ils sont neufs, ils ne sont décachetés qu'à la table de jeu. Le système de vidéoprotection enregistre l'opération et doit permettre de vérifier si la bande de contrôle est intacte. Dans tous les cas, les cartes sont aussitôt après étalées sur la table, les figures en dessus, afin de permettre de constater que l'ordre suivant lequel elles sont classées par le fabricant n'a subi aucun changement. Le croupier procède à leur comptée et à leur vérification. Elles sont ensuite retournées sur le tapis et mélangés à plat, les figures en dessous.
 
 Les cartes qui ont servi à une séance précédente sont mélangées de la même manière.
 

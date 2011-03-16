@@ -1,8 +1,10 @@
 # Article 104
 
-I. - A modifié les dispositions suivantes :
+I.-A modifié les dispositions suivantes :
 
-> - CODE GENERAL DES IMPOTS, CGI.
+> -CODE GENERAL DES IMPOTS, CGI.
 > > Art. 953
 
-II. - Dans le cadre de sa mission de réception et de saisie des demandes de passeport, le maire peut décider de ne pas procéder au recueil de l'image numérisée du visage du demandeur. Dans ce cas, le demandeur doit fournir deux photographies d'identité de format 35 × 45 mm identiques, récentes et parfaitement ressemblantes, le représentant de face et tête nue, et conformes à un modèle-type fixé par arrêté du ministre de l'intérieur.
+II.-La mission confiée au maire de réception et de saisie des demandes de passeport ne comporte le recueil de la photographie du visage du demandeur que pour les communes équipées à cette fin à la date du 1er janvier 2011 et pour une période définie par décret.
+
+Sans préjudice de l'alinéa précédent, les photographies destinées à la réalisation des passeports, cartes nationales d'identité et autres titres sécurisés sont, à compter de la promulgation de la loi n° 2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure, réalisées par un professionnel de la photographie dans des conditions fixées par voie réglementaire.

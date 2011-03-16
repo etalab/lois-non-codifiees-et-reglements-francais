@@ -30,7 +30,7 @@ Le principe de fonctionnement d'une UHSA est le suivant :
 
 ― une zone de soins constituée de 2 ou 3 unités de soins, qui ne doivent pas dépasser une vingtaine de lits chacune. Cette zone, lieu de soins et de vie des patients détenus, est la zone de réalisation des soins, dite zone d'hospitalisation ;
 
-― une zone mixte, pénitentiaire et hospitalière, regroupant d'une part la zone d'entrée et de contrôle , d'autre part la zone commune constituée de locaux spécifiques pénitentiaires (parloirs, greffe...) mais également de locaux communs réservés aux personnels médicaux et pénitentiaires (vestiaires, local détente...) ;
+― une zone mixte, pénitentiaire et hospitalière, regroupant d'une part la zone d'entrée et de contrôle, d'autre part la zone commune constituée de locaux spécifiques pénitentiaires (parloirs, greffe...) mais également de locaux communs réservés aux personnels médicaux et pénitentiaires (vestiaires, local détente...) ;
 
 ― un périmètre de sécurité extérieur au bâtiment principal d'une largeur suffisante est destiné à prévenir toute évasion, intrusion, communication ou projection depuis l'extérieur. Il fait partie de la zone d'implantation de l'UHSA et est matérialisé (par exemple, par un grillage).
 
@@ -54,7 +54,7 @@ L'UHSA est réalisée selon le schéma fonctionnel, en distinguant trois secteur
 
 ― la zone commune regroupant les locaux pénitentiaires (parloirs, bureaux d'audience) et les locaux des personnels sanitaires et pénitentiaires ;
 
-― la zone d'hospitalisation , c'est-à-dire les unités de soins proprement dites, les locaux thérapeutiques et les cours ou jardins.
+― la zone d'hospitalisation, c'est-à-dire les unités de soins proprement dites, les locaux thérapeutiques et les cours ou jardins.
 
 4.1. La zone d'entrée et de contrôle
 
@@ -62,7 +62,7 @@ C'est la zone de contrôle de l'ensemble des accès (piétons et véhicules), pl
 
 4.1.1. Le sas véhicules
 
-Une zone particulière est réservée pour l'arrivée et le départ des véhicules. Cette zone, constituée d'un volume fermé, sécurisé permettant l'accès des véhicules, est placée sous surveillance vidéo avec liaison par interphone au poste de contrôle central. La porte intérieure d'accès au sas piétons, placée intérieurement et extérieurement sous surveillance vidéo, est équipée d'une condamnation télécommandée à partir du poste de contrôle central. L'accès extérieur au sas véhicule est équipé d'un dispositif de protection antibélier. Les deux accès au sas véhicules (portes intérieure et extérieure) sont asservis. Les serrures électriques du sas sont asservies et doivent aussi pouvoir fonctionner manuellement en mode dégradé.
+Une zone particulière est réservée pour l'arrivée et le départ des véhicules. Cette zone, constituée d'un volume fermé, sécurisé permettant l'accès des véhicules, est placée sous surveillance vidéo avec liaison par interphone au poste de contrôle central. La porte intérieure d'accès au sas piétons, placée intérieurement et extérieurement sous surveillance vidéo, est équipée d'une condamnation télécommandée à partir du poste de contrôle central.L'accès extérieur au sas véhicule est équipé d'un dispositif de protection antibélier. Les deux accès au sas véhicules (portes intérieure et extérieure) sont asservis. Les serrures électriques du sas sont asservies et doivent aussi pouvoir fonctionner manuellement en mode dégradé.
 
 Le dimensionnement de ce sas devra permettre d'effectuer, portes fermées :
 
@@ -76,7 +76,7 @@ Le dimensionnement de ce sas devra permettre d'effectuer, portes fermées :
 
 Le sas piétons permet au personnel pénitentiaire d'effectuer le contrôle de toute personne entrant ou sortant de l'UHSA. Ce sas d'accès unique permet l'accès des piétons depuis l'extérieur et dessert les différentes zones de l'UHSA.
 
-Ce sas d'accès est entièrement commandé électriquement depuis le poste de contrôle central (interphonie, avec vidéo-surveillance). Les serrures électriques du sas sont asservies et doivent aussi pouvoir fonctionner manuellement en mode dégradé.
+Ce sas d'accès est entièrement commandé électriquement depuis le poste de contrôle central (interphonie, avec  vidéoprotection). Les serrures électriques du sas sont asservies et doivent aussi pouvoir fonctionner manuellement en mode dégradé.
 
 L'installation d'un détecteur de masse métallique et d'un dispositif de type bagage X est prévue dans le sas. Des casiers de type consignes sont également installés dans ce sas d'accès afin de permettre aux visiteurs de déposer les objets non autorisés à l'intérieur de l'UHSA ainsi que les effets personnels.
 
@@ -94,9 +94,9 @@ L'agent en poste est chargé :
 
 Des liaisons téléphoniques et radioélectriques spécifiques relient ce poste aux différents organes de sécurité.
 
-4.1.4. L'armurerie
+4.1.4.L'armurerie
 
-Une salle de rangement et de décharge des armes des personnels pénitentiaires, contenant une armoire spécifique blindée de rangement des armes et un bac de décharge des armes, est à prévoir. L'accès à cette salle se fait par le poste de contrôle central.
+Une salle de rangement et de décharge des armes des personnels pénitentiaires, contenant une armoire spécifique blindée de rangement des armes et un bac de décharge des armes, est à prévoir.L'accès à cette salle se fait par le poste de contrôle central.
 
 4.2. La zone commune
 
@@ -132,7 +132,7 @@ Les mouvements internes aux locaux parloirs sont gérés par le personnel de sur
 
 4.2.2. Les locaux des personnels (pénitentiaires et hospitaliers)
 
-Ils sont destinés à l'ensemble des personnels (pénitentiaires et hospitaliers) et sont situés dans la zone dite mixte (pénitentiaire/hospitalière).
+Ils sont destinés à l'ensemble des personnels (pénitentiaires et hospitaliers) et sont situés dans la zone dite mixte (pénitentiaire/ hospitalière).
 
 Locaux communs :
 
@@ -304,7 +304,7 @@ Les appareils et équipements techniques et sanitaires, que ce soit dans les cha
 
 5.6. Installations électriques (courants forts, courants faibles, câblage informatique, vidéo)
 
-Le tableau général basse tension de l'UHSA, afin de ne pas être accessible aux personnes détenues, est placé dans la zone commune sous armoire fermant à clef. Les tableaux divisionnaires éventuels sont placés soit dans des gaines techniques fermées à clef, soit dans les locaux du personnel soignant. L'éclairage de sécurité prévu au règlement de sécurité incendie est installé selon les règlements en vigueur, avec batteries, le cas échéant, ou éléments de commande placés dans des locaux inaccessibles aux personnes détenues.
+Le tableau général basse tension de l'UHSA, afin de ne pas être accessible aux personnes détenues, est placé dans la zone commune sous armoire fermant à clef. Les tableaux divisionnaires éventuels sont placés soit dans des gaines techniques fermées à clef, soit dans les locaux du personnel soignant.L'éclairage de sécurité prévu au règlement de sécurité incendie est installé selon les règlements en vigueur, avec batteries, le cas échéant, ou éléments de commande placés dans des locaux inaccessibles aux personnes détenues.
 
 L'UHSA est équipée d'une alimentation électrique de secours d'une puissance suffisante pour garantir le fonctionnement des appareils médicaux, des équipements de sécurité et de surveillance ainsi que l'éclairage des locaux.
 
@@ -312,15 +312,15 @@ Les chambres d'hospitalisation sont équipées d'une prise TV mais pas de prise 
 
 Le réseau de distribution TV sera basé sur une distribution par câble coaxial. Le raccordement TV dans les locaux de sous-répartition sera bien distinct du raccordement informatique (baies différentes).
 
-Des points d'accès informatique et électriques en nombre suffisant et des dessertes téléphoniques, si nécessaires, sont installés dans le poste de contrôle central et les bureaux administratifs, en conformité avec le cahier des charges portant sur le Câblage informatique. ― Courant faible/courant fort version 4.20 du ministère de la justice.
+Des points d'accès informatique et électriques en nombre suffisant et des dessertes téléphoniques, si nécessaires, sont installés dans le poste de contrôle central et les bureaux administratifs, en conformité avec le cahier des charges portant sur le Câblage informatique. ― Courant faible/ courant fort version 4.20 du ministère de la justice.
 
-Les locaux destinés à l'administration pénitentiaires seront câblés en conformité avec le cahier des charges portant sur le Câblage informatique. ― Courant faible/courant fort version 4.20 du ministère de la justice.
+Les locaux destinés à l'administration pénitentiaires seront câblés en conformité avec le cahier des charges portant sur le Câblage informatique. ― Courant faible/ courant fort version 4.20 du ministère de la justice.
 
 Le réseau informatique de l'administration pénitentiaire sera distinct du réseau informatique hospitalier.
 
 Le local technique (LT) accueillant le répartiteur général informatique (RGI) sera implanté dans la zone commune hors détention. Les LT servant au sous-répartiteur (SR) pourront être implantés dans la zone de soins.
 
-Le RGI peut s'implanter dans le local RGT/V sous condition de séparation des baies de distribution.
+Le RGI peut s'implanter dans le local RGT/ V sous condition de séparation des baies de distribution.
 
 L'accès à la baie RGI et aux SR sera sécurisé ; l'accès sera sous contrôle des personnels pénitentiaires. Les baies intégrant les équipements réseau et serveur de l'AP ne pourront pas accueillir les équipements actifs de l'unité hospitalière et toute intervention devra être supervisée par le personnel pénitentiaire. Les équipements actifs, distincts, utiliseront des cordons de brassage de couleur différente des cheminements différents, permettant ainsi au personnel pénitentiaire d'effectuer un contrôle visuel simple et rapide des manipulations de l'intervenant (brassage réalisé uniquement sur leur propre équipement).
 

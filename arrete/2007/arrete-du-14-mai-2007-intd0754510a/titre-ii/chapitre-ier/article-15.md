@@ -2,7 +2,7 @@
 
 Personnel des jeux.
 
-Préalablement à leur entrée en fonction, les employés de jeux, les personnes en charge du contrôle aux entrées, le contrôleur chargé de sécurité et les opérateurs de vidéosurveillance doivent avoir été agréés.
+Préalablement à leur entrée en fonction, les employés de jeux, les personnes en charge du contrôle aux entrées, le contrôleur chargé de sécurité et les opérateurs de vidéoprotection doivent avoir été agréés.
 
 L'agrément est accordé par le ministre de l'intérieur au vu d'un dossier transmis par le casino, comprenant :
 

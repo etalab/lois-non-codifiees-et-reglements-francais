@@ -10,31 +10,31 @@ Code NSF : 344 t-Sécurité des biens et des personnes, police, surveillance.
 
 Résumé du référentiel d'emploi
 
-L'opérateur (trice) en station centrale de télésurveillance et / ou vidéosurveillance assure à distance la sécurité des sites de clients (professionnels, particuliers) en analysant des informations provenant de systèmes de sécurité ou de vidéosurveillance installés sur site.
+L'opérateur (trice) en station centrale de télésurveillance et/ ou vidéoprotection assure à distance la sécurité des sites de clients (professionnels, particuliers) en analysant des informations provenant de systèmes de sécurité ou de vidéoprotection installés sur site.
 
 Le poste de travail de l'opérateur (trice) est constitué de plusieurs écrans de réception d'information et d'un terminal téléphonique doté de plusieurs lignes.L'emploi s'exerce la plupart du temps en position assise. Les informations sont réceptionnées sur le poste de l'opérateur (trice) sous forme de messages ou d'images.
 
-Il se situe à l'intérieur d'une salle de réception d'informations protégée contre les agressions extérieures possibles (centre d'exploitation : centrale de télésurveillance, poste de sécurité en vidéosurveillance, centre de protection urbain).
+Il se situe à l'intérieur d'une salle de réception d'informations protégée contre les agressions extérieures possibles (centre d'exploitation : centrale de télésurveillance, poste de sécurité en vidéoprotection, centre de protection urbain).
 
 En cas d'alarme (s) ou d'anomalie (s) avérée (s), l'opérateur (trice) déclenche les actions définies dans les consignes données par le client, dans le respect de la réglementation en vigueur et des procédures du centre d'exploitation dans lequel il (elle) exerce son activité. Il (elle) participe également à la traçabilité de l'activité (main courante informatisée).
 
-L'opérateur (trice) utilise les dispositifs et matériels de télésurveillance et de vidéosurveillance soit indépendamment, soit de façon complémentaire :
+L'opérateur (trice) utilise les dispositifs et matériels de télésurveillance et de vidéoprotection soit indépendamment, soit de façon complémentaire :
 
--dans le cas d'un dispositif de vidéosurveillance, l'activité est centrée sur le traitement d'images ;
+-dans le cas d'un dispositif de vidéoprotection, l'activité est centrée sur le traitement d'images ;
 
--pour l'activité en centrale de télésurveillance, la vidéosurveillance est un dispositif complémentaire au dispositif de traitement des alarmes.L'opérateur (trice) peut l'utiliser pour le contrôle d'accès, les levées de doute en cas d'alarme, mais aussi pour effectuer des rondes à distance.
+-pour l'activité en centrale de télésurveillance, la vidéoprotection est un dispositif complémentaire au dispositif de traitement des alarmes.L'opérateur (trice) peut l'utiliser pour le contrôle d'accès, les levées de doute en cas d'alarme, mais aussi pour effectuer des rondes à distance.
 
-En télésurveillance, les stations fonctionnent 24 h / 24 et 365 jours par an.L'activité se déroule par vacations continues de jour comme de nuit, fins de semaine et jours fériés compris.
+En télésurveillance, les stations fonctionnent 24 h/24 et 365 jours par an.L'activité se déroule par vacations continues de jour comme de nuit, fins de semaine et jours fériés compris.
 
-En vidéosurveillance, l'ampleur d'ouverture des centres d'exploitation varie en fonction de l'activité de l'exploitant.
+En vidéoprotection, l'ampleur d'ouverture des centres d'exploitation varie en fonction de l'activité de l'exploitant.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéosurveillance
+1. Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéoprotection
 
 Contrôler les accès d'un site.
 
-Exploiter les images provenant d'un système de vidéosurveillance pour sécuriser des sites.
+Exploiter les images provenant d'un système de vidéoprotection pour sécuriser des sites.
 
 2. Gérer à distance la sécurité des biens et des personnes au moyen d'un dispositif de télésurveillance
 
@@ -50,9 +50,9 @@ Réceptionner et traiter les appels téléphoniques.
 
 Secteurs d'activité ou type d'emploi accessible par le détenteur du titre
 
-L'opérateur (trice) en station centrale de télésurveillance et / ou vidéosurveillance est employé (e) principalement par :
+L'opérateur (trice) en station centrale de télésurveillance et/ ou vidéoprotection est employé (e) principalement par :
 
--les entreprises spécialisées dans le domaine de la télésurveillance et / ou de la vidéosurveillance : service auprès des entreprises, des collectivités, des particuliers ;
+-les entreprises spécialisées dans le domaine de la télésurveillance et/ ou de la vidéoprotection : service auprès des entreprises, des collectivités, des particuliers ;
 
 -les entreprises du secteur de la sécurité humaine dans leurs activités de surveillance ;
 

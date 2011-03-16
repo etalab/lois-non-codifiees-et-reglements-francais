@@ -1,6 +1,6 @@
 # Article 14
 
-I. - Est puni de trois ans d'emprisonnement et de 45 000 Euros d'amende :
+I.-Est puni de trois ans d'emprisonnement et de 45 000 € d'amende :
 
 1° Le fait, sauf pour les personnes mentionnées au b de l'article 1er et sous réserve des dispositions de l'article 29 du code de procédure pénale, d'exercer pour autrui, à titre professionnel, les activités mentionnées aux 1° à 3° de l'article 1er sans être immatriculé au registre du commerce et des sociétés ;
 
@@ -16,13 +16,15 @@ I. - Est puni de trois ans d'emprisonnement et de 45 000 Euros d'amende :
 
 7° Le fait de sous-traiter l'exercice d'une activité mentionnée à l'article 1er à une entreprise dépourvue de l'autorisation prévue à l'article 7.
 
-II. - Est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende :
+II.-Est puni de deux ans d'emprisonnement et de 30 000 € d'amende :
 
 1° Le fait d'employer une personne non titulaire de la carte professionnelle visée à l'article 6, en vue de la faire participer à l'une des activités mentionnées à l'article 1er ;
 
+1° bis Le fait de sous-traiter l'exercice d'une activité mentionnée à l'article 1er à une entreprise employant des personnes dépourvues de la carte professionnelle mentionnée à l'article 6 ;
+
 2° Le fait d'exercer ou de faire exercer des fonctions de surveillance sur la voie publique sans l'autorisation prévue au second alinéa de l'article 3.
 
-III. - Est puni d'une peine d'un an d'emprisonnement et de 15 000 Euros d'amende :
+III.-Est puni d'une peine d'un an d'emprisonnement et de 15 000 € d'amende :
 
 1° Le fait de ne pas avoir souscrit l'une des déclarations prévues au IV de l'article 7 ;
 
@@ -30,7 +32,7 @@ III. - Est puni d'une peine d'un an d'emprisonnement et de 15 000 Euros d'amende
 
 3° Le fait de conclure un contrat de travail en tant que salarié d'une entreprise exerçant une activité mentionnée à l'article 1er, en vue de participer à l'une des activités mentionnées à cet article sans être titulaire de la carte professionnelle visée à l'article 6.
 
-IV. - Est puni d'une amende de 3 750 Euros :
+IV.-Est puni d'une amende de 3 750 € :
 
 1° Le fait de ne pas reproduire les mentions exigées à l'article 9 dans tout document visé à cet article ou de faire état de la qualité d'ancien fonctionnaire ou d'ancien militaire éventuellement détenue par la personne titulaire de l'autorisation ou l'un de ses dirigeants ou employés ;
 

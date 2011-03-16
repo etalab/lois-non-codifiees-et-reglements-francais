@@ -64,11 +64,11 @@ L'employé chargé de la manoeuvre de l'appareil doit obligatoirement actionner 
 
 Il peut être fait usage des combinaisons suivantes :
 
-Miser en plein sur un des numéros 1, 2, 3 ou 4 qui rapporte vingt-trois fois la mise.
+Miser en plein sur un des numéros 1,2,3 ou 4 qui rapporte vingt-trois fois la mise.
 
-Miser en plein sur un des numéros 5, 6, 7, 8, 9, 10 ou 11 qui rapporte onze fois la mise.
+Miser en plein sur un des numéros 5,6,7,8,9,10 ou 11 qui rapporte onze fois la mise.
 
-Miser en plein sur un des numéros 12, 13 ou 14 qui rapporte sept fois la mise.
+Miser en plein sur un des numéros 12,13 ou 14 qui rapporte sept fois la mise.
 
 Miser sur une chance simple (rouge ou noir) qui rapporte une fois la mise.
 
@@ -80,7 +80,7 @@ Le maximum des mises s'applique par cylindre à chaque joueur considéré isolé
 
 B.-Un avis précisant le taux minimal et maximal des mises et le montant des avances, et indiquant :
 
-" Les avances de caisse, de même que l'encaisse, restant en fin de partie sont comptées ostensiblement devant le public et assez lentement pour que les assistants puissent suivre l'opération dans tous ses détails et qu'elles soient clairement identifiables sur les enregistrements du système de vidéosurveillance. La somme reconnue est appelée à haute voix et inscrite immédiatement au carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
+" Les avances de caisse, de même que l'encaisse, restant en fin de partie sont comptées ostensiblement devant le public et assez lentement pour que les assistants puissent suivre l'opération dans tous ses détails et qu'elles soient clairement identifiables sur les enregistrements du système de vidéoprotection. La somme reconnue est appelée à haute voix et inscrite immédiatement au carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
 
 Dans les salles affectées aux jeux de cercle et aux jeux de contrepartie :
 
@@ -156,13 +156,13 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 -paris définis. "
 
-6. Reproduisant les dispositions des deux premiers paragraphes de l'article 51 et les articles 55-10, 55-11 et 55-12 du présent arrêté concernant le jeu de la roulette anglaise ;
+6. Reproduisant les dispositions des deux premiers paragraphes de l'article 51 et les articles 55-10,55-11 et 55-12 du présent arrêté concernant le jeu de la roulette anglaise ;
 
 7. Reproduisant les dispositions de l'article 55-14 du présent arrêté concernant le jeu du punto banco ;
 
-7 bis. Reproduisant les dispositions des articles 55-16, 55-17 et 55-18 du présent arrêté concernant le jeu de stud poker de casino.
+7 bis. Reproduisant les dispositions des articles 55-16,55-17 et 55-18 du présent arrêté concernant le jeu de stud poker de casino.
 
-7 ter. Reproduisant les dispositions des articles 55-18-1, 55-18-2 et 55-18-3 du présent arrêté concernant le jeu du hold'em poker de casino.
+7 ter. Reproduisant les dispositions des articles 55-18-1,55-18-2 et 55-18-3 du présent arrêté concernant le jeu du hold'em poker de casino.
 
 7 quater. Reproduisant les dispositions des articles 57 et suivants du présent arrêté concernant le jeu du Texas hold'em poker.
 
@@ -170,7 +170,7 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 8. Reproduisant l'avis suivant :
 
-" Aux jeux de contrepartie, les avances de caisse, de même que l'encaisse restant en fin de partie, sont comptées assez lentement pour que ceux-ci soient clairement identifiables sur les enregistrements effectués par le système de vidéosurveillance. La somme reconnue est appelée à haute voix et inscrite immédiatement dans le carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
+" Aux jeux de contrepartie, les avances de caisse, de même que l'encaisse restant en fin de partie, sont comptées assez lentement pour que ceux-ci soient clairement identifiables sur les enregistrements effectués par le système de vidéoprotection. La somme reconnue est appelée à haute voix et inscrite immédiatement dans le carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
 
 D.-Une affiche de grande dimension portant le texte suivant :
 

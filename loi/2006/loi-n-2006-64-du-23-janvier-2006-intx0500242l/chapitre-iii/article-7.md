@@ -14,7 +14,9 @@ II.-Les traitements mentionnés au I peuvent également être mis en oeuvre dans
 
 -des services de police et de gendarmerie nationales spécialement chargés de ces missions ;
 
--des services de police et de gendarmerie nationales ainsi que des douanes, chargés de la sûreté des transports internationaux.
+-des services de police et de gendarmerie nationales ainsi que des douanes, chargés de la sûreté des transports internationaux ;
+
+- des services de renseignement du ministère de la défense aux seules fins de la prévention des actes de terrorisme.
 
 III.-Les traitements mentionnés aux I et II peuvent faire l'objet d'une interconnexion avec le fichier des personnes recherchées et le système d'information Schengen.
 

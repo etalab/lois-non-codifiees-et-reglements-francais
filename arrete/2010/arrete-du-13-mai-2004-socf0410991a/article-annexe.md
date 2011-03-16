@@ -42,7 +42,7 @@ Déterminer et installer les systèmes d'automatismes des locaux d'habitation et
 
 Installer et maintenir des systèmes d'alarme intrusion et d'alarme technique.
 
-Installer, régler et dépanner des systèmes de vidéosurveillance.
+Installer, régler et dépanner des systèmes de vidéoprotection.
 
 Installer et tester des systèmes d'alarme incendie dans les immeubles collectifs et établissements recevant du public.
 
@@ -58,11 +58,11 @@ Sociétés d'intérim.
 
 Code ROME :
 
-42211-Electricien / électricienne du bâtiment et des travaux publics.
+42211-Electricien/ électricienne du bâtiment et des travaux publics.
 
-52333-Maintenicien / maintenicienne en électronique.
+52333-Maintenicien/ maintenicienne en électronique.
 
-52311-Technicien / technicienne d ` installation d ` équipements industriels et professionnels.
+52311-Technicien/ technicienne d ` installation d ` équipements industriels et professionnels.
 
 Réglementation de l'activité :
 

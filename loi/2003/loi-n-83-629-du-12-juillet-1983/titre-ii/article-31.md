@@ -1,6 +1,6 @@
 # Article 31
 
-I. - Est puni de trois ans d'emprisonnement et de 45 000 Euros d'amende :
+I.-Est puni de trois ans d'emprisonnement et de 45 000 € d'amende :
 
 1° Le fait, sauf pour les personnes mentionnées au b de l'article 20 et sous réserve des dispositions de l'article 29 du code de procédure pénale, d'exercer pour autrui, à titre professionnel, l'activité mentionnée à l'article 20, sans être immatriculé auprès de l'organisme visé par le deuxième alinéa de l'article 2 de la loi n° 94-126 du 11 février 1994 précitée ;
 
@@ -14,22 +14,24 @@ I. - Est puni de trois ans d'emprisonnement et de 45 000 Euros d'amende :
 
 6° Le fait de commettre l'un des agissements mentionnés à l'article 29.
 
-II. - Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende :
+II.-Est puni de deux ans d'emprisonnement et de 30 000 € d'amende :
 
-1° Le fait d'exercer l'activité mentionnée à l'article 20 en méconnaissance des dispositions de l'article 21 ;
+1° Le fait d'exercer l'activité mentionnée à l'article 20 en méconnaissance de l'article 21 ;
 
-2° Le fait d'employer une personne en vue de la faire participer à l'activité mentionnée à l'article 20 en violation des dispositions des 2° à 5° de l'article 23.
+2° Le fait d'employer une personne non titulaire de la carte professionnelle mentionnée à l'article 23 en vue de la faire participer à l'activité mentionnée à l'article 20.
 
-III. - Est puni d'une peine de six mois d'emprisonnement et de 7 500 Euros d'amende :
+III.-Est puni d'une peine de six mois d'emprisonnement et de 7 500 € d'amende :
 
-1° Le fait de ne pas avoir souscrit l'une des déclarations prévues au IV de l'article 25 ou la déclaration prévue au 1° de l'article 23 ;
+1° Le fait de ne pas avoir souscrit l'une des déclarations prévues au IV de l'article 25 ;
 
 2° Le fait de mettre obstacle à l'accomplissement des contrôles exercés, dans les conditions prévues à l'article 30, par les agents mentionnés au premier alinéa de cet article ;
 
-3° Le fait d'être l'employé d'une entreprise exerçant l'activité mentionnée à l'article 20, en vue de participer à cette activité en violation des dispositions des 2° à 5° de l'article 23.
+3° Le fait d'être l'employé d'une entreprise exerçant l'activité mentionnée à l'article 20, en vue de participer à cette activité en violation de l'article 23.
 
-IV. - Est puni d'une amende de 3 750 Euros :
+IV.-Est puni d'une amende de 3 750 € :
 
 1° Le fait de ne pas reproduire les mentions exigées à l'article 27 dans tout document visé à cet article ou de faire état de la qualité d'ancien fonctionnaire ou d'ancien militaire éventuellement détenue par la personne titulaire de l'autorisation ou l'un de ses dirigeants ou employés ;
 
 2° Le fait de ne pas mentionner, comme l'exige l'article 21, dans la dénomination de la personne morale exerçant une activité mentionnée à l'article 20 son caractère de personne de droit privé.
+
+V.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de conclure un contrat de travail en tant que salarié d'une entreprise exerçant l'activité mentionnée à l'article 20 en vue de participer à cette activité sans être titulaire de la carte professionnelle mentionnée à l'article 23.
