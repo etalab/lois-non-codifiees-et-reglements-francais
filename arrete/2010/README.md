@@ -138,7 +138,6 @@
 - [Arrêté du 3 août 2010 (DEVP1019582A)](arrete-du-3-aout-2010-devp1019582a)
 - [Arrêté du 3 août 2010 (DEVP1019586A)](arrete-du-3-aout-2010-devp1019586a)
 - [Arrêté du 3 août 2010 (DEVU1004951A)](arrete-du-3-aout-2010-devu1004951a)
-- [Arrêté du 3 août 2010 (MCCL1004065A)](arrete-du-3-aout-2010-mccl1004065a)
 - [Arrêté du 3 août 2010 (MTSA1021636A)](arrete-du-3-aout-2010-mtsa1021636a)
 - [Arrêté du 3 août 2010 (SASP1011922A)](arrete-du-3-aout-2010-sasp1011922a)
 - [Arrêté du 3 août 2010 (SASP1020848A)](arrete-du-3-aout-2010-sasp1020848a)
