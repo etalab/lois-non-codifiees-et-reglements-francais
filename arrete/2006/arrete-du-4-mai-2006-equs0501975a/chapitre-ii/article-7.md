@@ -16,7 +16,7 @@ Dans le cas d'une demande d'autorisation individuelle de raccordement pour quitt
 
 Dans le cas d'une demande d'autorisation individuelle sur un itinéraire précis (permanente ou au voyage), le pétitionnaire adresse sa demande au service instructeur du département du point de départ en charge du convoi, ce point de départ correspondant au point d'entrée en France d'un convoi en charge arrivant de l'étranger.
 
-Pour les demandes d'autorisations individuelles sur un itinéraire précis ou de raccordement, lorsque le trajet couvre plusieurs départements, le pétitionnaire adresse, en plus de l'envoi de la demande au service instructeur du département du point de départ en charge du convoi, un exemplaire simplifié de sa demande à chacun des autres services instructeurs des départements concernés. Cet exemplaire simplifié comprend au minimum :
+Pour les demandes d'autorisations individuelles sur un itinéraire précis ou de raccordement adressées par voie postale, lorsque le trajet couvre plusieurs départements, le pétitionnaire adresse, en plus de l'envoi de la demande au service instructeur du département du point de départ en charge du convoi, un exemplaire simplifié de sa demande à chacun des autres services instructeurs des départements concernés. Cet exemplaire simplifié comprend au minimum :
 
 Dans le cas d'une demande sur un itinéraire précis :
 

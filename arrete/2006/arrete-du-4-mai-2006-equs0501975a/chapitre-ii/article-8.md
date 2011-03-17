@@ -6,7 +6,7 @@ Instruction :
 
 Le service instructeur du département, chargé de la délivrance de l'autorisation individuelle, procède, au nom de l'autorité compétente pour statuer, à l'instruction de la demande.
 
-Il peut, le cas échéant, demander au pétitionnaire des compléments d'information concernant notamment le caractère indivisible du chargement, la justification du moyen de transport retenu par le donneur d'ordre, dans les conditions de l'article 6 du présent arrêté.
+Il peut, le cas échéant, demander au pétitionnaire des compléments d'information concernant notamment le justificatif de commande de transport, le caractère indivisible du chargement, la justification du moyen de transport retenu par le donneur d'ordre, dans les conditions de l'article 6 du présent arrêté.
 
 Dans le cadre d'une autorisation individuelle sur un itinéraire précis ou de raccordement, les services instructeurs concernés recueillent, le cas échéant, les avis des gestionnaires des voiries et des ouvrages du département. A cette fin, ils fournissent au pétitionnaire les coordonnées des gestionnaires des voiries et des ouvrages lorsqu'il appartient à celui-ci de les consulter directement. Le service gestionnaire consulté transmet son avis au service instructeur concerné et au pétitionnaire. Les frais occasionnés par ces consultations et la mise en oeuvre des mesures sont à la charge du pétitionnaire.
 

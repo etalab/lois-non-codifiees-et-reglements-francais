@@ -2,24 +2,23 @@
 
 Autorisation individuelle.
 
-L'autorisation individuelle relative aux transports exceptionnels est délivrée au vu d'une demande, conforme à l'imprimé type de demande figurant en annexe 2 du présent arrêté. Celle-ci est adressée par le pétitionnaire au service instructeur concerné qui l'instruit pour le compte du préfet.
+L'autorisation individuelle relative aux transports exceptionnels est délivrée au vu d'une demande adressée par le pétitionnaire au service instructeur concerné qui l'instruit pour le compte du préfet.
 
 L'autorisation individuelle, nominative, est délivrée en fonction de la catégorie du transport définie par les caractéristiques du convoi (longueur et largeur hors-tout, masse). La caractéristique la plus forte détermine la catégorie du transport.
 
 <table>
 <tbody>
 <tr>
-<td width="127">
-<p align="center">CARACTÉRISTIQUES</p>
-<p align="center">du convoi</p>
+<td>
+<p align="center">CARACTÉRISTIQUES<br/>du convoi</p>
 </td>
-<td width="127">
+<td>
 <p align="center">1re catégorie</p>
 </td>
-<td width="127">
+<td>
 <p align="center">2e catégorie</p>
 </td>
-<td width="127">
+<td>
 <p align="center">3e catégorie</p>
 </td>
 </tr>
