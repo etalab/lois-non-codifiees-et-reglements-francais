@@ -1,0 +1,3 @@
+# Article 2
+
+Si le demandeur souhaite que certaines informations contenues dans le dossier mentionné à l'article 1er restent confidentielles, il fournit une justification vérifiable prouvant que la divulgation de ces informations pourrait porter atteinte aux droits de propriété industrielle et commerciale. Toutefois cette confidentialité ne s'applique pas aux dénominations et à la composition de l'auxiliaire, aux propriétés physico-chimiques et biologiques de l'auxiliaire, à l'interprétation des données pharmacologiques, toxicologiques et écotoxicologiques de l'auxiliaire, aux méthodes d'analyse pour le contrôle de l'auxiliaire lui-même, des résidus de l'auxiliaire ou de ses métabolites dans les aliments.
