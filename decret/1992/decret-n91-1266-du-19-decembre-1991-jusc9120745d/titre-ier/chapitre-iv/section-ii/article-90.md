@@ -22,7 +22,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 <p align="center">3 majorations)</p>
 </td>
 <td rowspan="2">
-<p align="center">Mesures de médiation ordonnées par le juge </p>
+<p align="center"> Mesures de médiation ordonnées par le juge</p>
 </td>
 <td colspan="2" width="137">
 <p align="center">Expertises</p>
@@ -1232,9 +1232,10 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p align="center">XV. - Commission des recours des réfugiés</p>
+<p align="center">XV. - Cour nationale du droit d'asile </p>
 </td>
 <td valign="top" width="69">
+<br/>
 <br/>
 </td>
 </tr>

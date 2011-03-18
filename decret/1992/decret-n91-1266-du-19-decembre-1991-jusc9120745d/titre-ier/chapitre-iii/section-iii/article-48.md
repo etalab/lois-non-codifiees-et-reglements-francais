@@ -24,6 +24,6 @@ II. - En cas d'admission à l'aide juridictionnelle totale ou partielle, les dé
 
 III. - En cas d'admission à l'aide juridictionnelle partielle, les décisions précisent, en outre, le montant de la part contributive de l'Etat.
 
-IV. - En cas de rejet de la demande, la décision contient les motifs du rejet.
+IV. - En cas de rejet de la demande, la décision contient les motifs du rejet. En matière de cassation, les motifs peuvent se limiter à l'indication de l'absence de moyen de cassation sérieux ; dans ce cas, il n'est pas fait application des dispositions du 1° du I.
 
 V. - La décision comporte, le cas échéant, la mention que l'aide juridictionnelle a été antérieurement accordée pour le même différend dans le cadre de pourparlers transactionnels ayant échoué, ainsi que le nom de l'avocat qui est intervenu à ce titre. Elle précise en outre, lorsque celui-ci est déjà fixé, le montant de l'indemnisation qui lui a été allouée.

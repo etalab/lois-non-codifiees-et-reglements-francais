@@ -8,4 +8,4 @@ Les décisions du bureau d'aide juridictionnelle établi près la Cour de cassat
 
 Les décisions du bureau d'aide juridictionnelle établi près le Conseil d'Etat, ou de son président, sont déférées au vice-président du tribunal des conflits lorsque la demande concerne ce tribunal ou dans le cas prévu à l'article 15 de la loi du 10 juillet 1991 susvisée et devant le président de la section du contentieux du Conseil d'Etat dans les autres cas.
 
-Les décisions du bureau d'aide juridictionnelle établi près la commission des recours des réfugiés, ou de son président, sont déférées au président de cette juridiction.
+Les décisions du bureau d'aide juridictionnelle établi près la    Cour nationale du droit d'asile, ou de son président, sont déférées au président de cette juridiction.

@@ -1,7 +1,5 @@
 # Article 128
 
-En cas d'opposition, le greffier en chef ou le secrétaire de la juridiction concernée en avise sans délai le comptable-assignataire.
+Le titre de perception peut faire l'objet de la part du redevable d'une opposition.
 
-Il est statué sur l'opposition dans les conditions prévues par les articles 709 et suivants du    code de procédure civile.
-
-Lorsque la décision est passée en force de chose jugée, une copie en est adressée au comptable-assignataire.
+L'opposition est formée et instruite selon les règles prévues aux articles 6 et suivants du décret n° 92-1369 du 29 décembre 1992 applicables aux créances de l'Etat mentionnées à l'article 80 du décret du 29 décembre 1962 susvisé, et produit les mêmes effets.

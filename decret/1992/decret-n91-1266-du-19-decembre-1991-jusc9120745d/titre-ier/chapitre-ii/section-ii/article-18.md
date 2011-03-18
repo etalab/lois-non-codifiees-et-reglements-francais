@@ -1,6 +1,6 @@
 # Article 18
 
-Outre son président, le bureau établi près la commission des recours des réfugiés comprend :
+Outre son président, le bureau établi près la    Cour nationale du droit d'asile comprend :
 
 1° Deux avocats des barreaux des ressorts de la cour d'appel de Paris ou de la cour d'appel de Versailles ;
 

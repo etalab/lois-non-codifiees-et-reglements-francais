@@ -1,8 +1,8 @@
 # Article Annexe
 
-**RÈGLEMENT TYPE PRIS POUR L'APPLICATION DE L'ARTICLE 29 DE LA LOI DU 10 JUILLET 1991 RELATIVE À L'AIDE JURIDIQUE**
+RÈGLEMENT TYPE PRIS POUR L'APPLICATION DE L'ARTICLE 29 DE LA LOI DU 10 JUILLET 1991 RELATIVE À L'AIDE JURIDIQUE
 
-**Chapitre Ier**
+Chapitre Ier
 
 Dispositions générales
 
@@ -46,7 +46,7 @@ c) (s'il y a lieu) protocole articles 91 et 132-6.
 
 Article 3
 
-Les fonds sont versés par l'Etat sur le compte Carpa-aid e juridictionnelle dont les références ont été communiquées au garde des sceaux, ministre de la justice. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
+Les fonds sont versés par l'Etat sur le compte Carpa-aide juridictionnelle dont les références ont été communiquées à l'ordonnateur compétent ou son délégataire. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -68,7 +68,7 @@ Article 7
 
 Conformément à l'article 30 de la loi du 10 juillet 1991 précitée, un commissaire aux comptes et un suppléant sont désignés par le conseil d'administration de la Carpa, ou, lorsque celle-ci n'a pas la personnalité juridique, par le conseil de l'ordre.
 
-**Chapitre II**
+Chapitre II
 
 Placement des fonds-Charges du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat prévue par les dispositions de la troisième partie de la loi du 10 juillet 1991.
 
@@ -90,17 +90,17 @@ Article 11
 
 Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
 
-Article 12
+Article 12 (1)
 
 Sont inscrites, sur un état récapitulatif annuel arrêté au 31 décembre de chaque année, l'ensemble des charges de gestion mentionnées à l'article 11 pour l'exercice achevé, majorées, le cas échéant, du solde des charges des exercices antérieurs n'ayant pas donné lieu à remboursement.
 
-L'inscription des charges exposées par la Carpa ou l'ordre pour le fonctionnement du service est effectuée, le cas échéant, en utilisant des clés de répartition fixées par décision de l'organe délibérant compétent. L'extrait des délibérations prises est joint aux documents transmis au garde des sceaux, ministre de la justice.
+L'inscription des charges exposées par la Carpa ou l'ordre pour le fonctionnement du service est effectuée, le cas échéant, en utilisant des clés de répartition fixées par décision de l'organe délibérant compétent. L'extrait des délibérations prises est joint aux documents transmis à l'ordonnateur compétent ou son délégataire.
 
 Le montant des charges figurant sur l'état mentionné au premier alinéa, qui est visé par le président de la Carpa ou le bâtonnier, donne lieu à un remboursement au bénéfice de la Carpa ou de l'ordre.
 
 L'ensemble de ces états et pièces doivent être communiqués au commissaire aux comptes.
 
-**Chapitre III**
+Chapitre III
 
 Rétribution finale due à l'avocat
 
@@ -246,7 +246,7 @@ Article 25
 
 Toute contestation ayant trait à la rétribution des missions prévues à la première et à la troisième partie de la loi du 10 juillet 1991 est soumise au bâtonnier ou à son représentant.
 
-**Chapitre IV**
+Chapitre IV
 
 Organisation de la défense
 
@@ -262,7 +262,7 @@ Article 27
 
 Dans le cas particulier où les missions d'aide juridictionnelle sont effectuées dans le cadre de permanences organisées par le barreau et rétribuées selon des bases forfaitaires fixées par convention avec l'ordre, la Carpa peut, à titre de provision, procéder au versement immédiat de ces rétributions sur la seule production d'une fiche justifiant de la permanence accomplie, visée par le bâtonnier ou son représentant.
 
-**Chapitre V**
+Chapitre V
 
 Provisions versées à l'avocat
 
@@ -298,11 +298,9 @@ Dans le cas d'un changement d'avocat en cours de procédure, si une provision a 
 
 A défaut d'accord sur la répartition finale de la contribution de l'Etat, le bâtonnier peut être saisi conformément à l'article 103 du décret du 19 décembre 1991 précité.
 
-**Chapitre VI**
+Chapitre VI
 
-Dispositions diverses relatives à la gestion
-
-des comptes avocats
+Dispositions diverses relatives à la gestion des comptes avocats
 
 Article 35
 
@@ -310,13 +308,13 @@ La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'o
 
 Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres missions. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
 
-**Chapitre VII**
+Chapitre VII
 
 Transmission des états liquidatifs et comptables
 
-Article 36
+Article 36 (1)
 
-La Carpa transmet annuellement au garde des sceaux, ministre de la justice :
+La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire :
 
 1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 118 du décret du 19 décembre 1991 précité ;
 
@@ -328,7 +326,7 @@ La Carpa transmet annuellement au garde des sceaux, ministre de la justice :
 
 Article 37
 
-La Carpa transmet au garde des sceaux, ministre de la justice, un état de trésorerie dont le modèle et la périodicité d'envoi sont fixés par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement en regard des dotations versées :
+La Carpa transmet à l'ordonnateur compétent un état de trésorerie dont le modèle et la périodicité d'envoi sont fixés par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement en regard des dotations versées :
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
@@ -338,7 +336,7 @@ La Carpa transmet au garde des sceaux, ministre de la justice, un état de trés
 
 4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-**Chapitre VIII**
+Chapitre VIII
 
 Dispositions applicables en Polynésie française
 
@@ -348,9 +346,7 @@ Conformément aux dispositions de l'article 17-14 du décret du 30 décembre 199
 
 Article 39
 
-Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé :
-
-Frais de déplacement article 17-14
+Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 17-14
 
 Article 40
 

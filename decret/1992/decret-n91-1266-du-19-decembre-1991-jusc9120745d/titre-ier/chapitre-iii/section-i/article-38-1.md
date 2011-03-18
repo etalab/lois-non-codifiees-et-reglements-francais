@@ -2,7 +2,7 @@
 
 Sous réserve des dispositions du dernier alinéa de l'article 39, la demande d'aide juridictionnelle n'interrompt pas le délai d'appel.
 
-Cependant, les délais impartis pour conclure, mentionnés aux articles 908, 909 et 910 du code de procédure civile, courent à compter :
+Cependant, le délai imparti pour signifier la déclaration d'appel, mentionné à l'article 902 du code de procédure civile, et les délais impartis pour conclure, mentionnés aux articles 908 à 910 du même code, courent à compter :
 
 a) De la notification de la décision constatant la caducité de la demande ;
 

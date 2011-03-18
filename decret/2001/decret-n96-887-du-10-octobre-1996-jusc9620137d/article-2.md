@@ -4,4 +4,4 @@ Chaque barreau introduit dans son règlement intérieur un titre particulier rel
 
 Ces dispositions arrêtées par le conseil de l'ordre doivent être conformes à celles du règlement type.
 
-Elles sont communiquées au garde des sceaux, ministre de la justice, et au président du conseil départemental de l'accès au droit.
+Elles sont communiquées au premier président de la cour d'appel et au procureur général près cette cour.
