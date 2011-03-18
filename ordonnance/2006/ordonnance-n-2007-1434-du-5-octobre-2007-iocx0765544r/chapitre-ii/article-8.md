@@ -24,13 +24,7 @@ Elle peut être provoquée d'office par le chef de subdivision administrative ou
 
 Elle peut aussi être demandée par toute personne intéressée et par tout contribuable de la commune.
 
-IV.-Les arrêtés pris par le maire sont soumis aux mêmes règles de publicité, de contrôle et d'approbation que celles qui sont applicables aux délibérations des conseils municipaux portant sur les mêmes matières. Ils sont déclarés nuls de droit dans les conditions prévues au II du présent article.
-
-Ils sont immédiatement adressés à l'autorité supérieure.
-
-Le haut-commissaire peut les annuler ou en suspendre l'exécution.
-
-A l'exception des arrêtés du maire relatifs à la police de la circulation, ceux de ces arrêtés portant règlement permanent ne sont exécutoires qu'un mois après la remise de l'ampliation à l'autorité supérieure, qui peut, en cas d'urgence, en autoriser l'exécution immédiate.
+IV.-A l'exception des arrêtés du maire relatifs à la police de la circulation, ceux de ces arrêtés portant règlement permanent ne sont exécutoires qu'un mois après la remise de l'ampliation à l'autorité supérieure, qui peut, en cas d'urgence, en autoriser l'exécution immédiate.
 
 Les arrêtés du maire ne sont exécutoires qu'après avoir été portés à la connaissance des intéressés, par voie de publication ou d'affiches, toutes les fois qu'ils contiennent des dispositions générales et, dans les autres cas, par voie de notification individuelle.
 
