@@ -28,7 +28,7 @@ Aliskirène ;
 
 Alpha-1 antitrypsine ;
 
-Ambrisentran ;
+Ambrisentan ;
 
 Aminolévulinate de méthyle ;
 
@@ -66,7 +66,7 @@ Bromure de tiotropium ;
 
 Caspofungine ;
 
-Céfalomium (dihydrate de) ;
+Céfalonium (dihydrate de) ;
 
 Céfovécine ;
 
