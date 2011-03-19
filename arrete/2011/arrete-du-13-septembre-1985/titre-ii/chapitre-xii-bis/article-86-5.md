@@ -1,6 +1,6 @@
 # Article 86-5
 
-Calcul des rapports. - Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
+Calcul des rapports. - Le montant des paris remboursés et de la déduction proportionnelle sur enjeux est défalqué du total des enjeux, on obtient ainsi la masse à partager "Quarté Plus".
 
 60 % de cette masse à partager appelée masse à partager "quarté" sont affectés au calcul des rapports "quarté" ; 40 % de cette masse appelée masse à partager "bonus" est affectée au calcul des rapports " bonus ".
 

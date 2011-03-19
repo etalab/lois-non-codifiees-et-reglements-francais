@@ -12,10 +12,6 @@ Dans le cas prévu à l'alinéa précédent et si la course ne comportait que qu
 
 b) En aucun cas un rapport spécial ne peut être réglé aux combinaisons comportant le cheval classé deuxième avec trois chevaux non partants, ou aux combinaisons des chevaux classés premier et troisième avec deux chevaux non partants, ou aux combinaisons des chevaux classés deuxième et troisième avec deux chevaux non partants, ou aux combinaisons des chevaux classés premier, deuxième et quatrième avec un cheval non partant, ou aux combinaisons des chevaux classés deuxième, troisième et quatrième avec un cheval non partant.
 
-c) Course reportée.
-
-Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "quarté" enregistrés sur cette course sont normalement exécutés.
-
-Si la course est reportée à une autre date, tous les paris "quarté" sont remboursés.
+c) (Abrogé)
 
 d) Lorsqu'une course comporte moins de quatre chevaux à l'arrivée, tous les paris "quarté" sont remboursés.

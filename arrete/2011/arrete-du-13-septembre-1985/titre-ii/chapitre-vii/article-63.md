@@ -1,6 +1,6 @@
 # Article 63
 
-Calcul des rapports. - Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du total des enjeux.
+Calcul des rapports. - Le montant des paris remboursés et de la déduction proportionnelle sur enjeux, est défalqué du total des enjeux.
 
 Après déduction du montant des paiements effectués sur les paris traités en pari "simple gagnant" et en pari "couplé gagnant", en application des articles 62 et 65, on obtient la masse à partager.
 

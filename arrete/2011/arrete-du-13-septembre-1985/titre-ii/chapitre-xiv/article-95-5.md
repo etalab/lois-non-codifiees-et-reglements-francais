@@ -2,7 +2,7 @@
 
 Calcul des rapports.
 
-Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
+Le montant des paris remboursés et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
 
 3 % de cette masse à partager sont réservés pour constituer un "Fonds Tirelire selon les dispositions de l'article 95.9.4. ci-après.
 
@@ -102,4 +102,4 @@ a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus cond
 
 b) Dans le cas visé au paragraphe a ci-dessus, les dispositions de l'article 95.7 ci-dessous ne sont pas applicables.
 
-4. Si l'application des règles énoncées aux 1, 2 et 3 ci-dessus conduit à un rapport "Bonus 3" supérieur au rapport "Bonus 4 sur 5" et si, simultanément, ce rapport "Bonus 4 sur 5" est inférieur à 1,10 EUR, les calculs de répartition sont effectués conformément aux dispositions du b et du c, du 1, du III du présent article.
+4. Si l'application des règles énoncées aux 1, 2 et 3 ci-dessus conduit à un rapport "Bonus 3" supérieur au rapport "Bonus 4 sur 5" et si, simultanément, ce rapport "Bonus 4 sur 5" est inférieur à 1,10 euro, les calculs de répartition sont effectués conformément aux dispositions du b et du c, du 1, du III du présent article.

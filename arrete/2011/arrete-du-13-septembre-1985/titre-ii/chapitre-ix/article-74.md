@@ -12,10 +12,6 @@ A défaut et par dérogation à l'article 62 b, la masse à partager est répart
 
 A défaut de mise sur ces dernières combinaisons, tous les paris "Trio" sont remboursés.
 
-b) Course reportée :
-
-Si par décision des commissaires une course est reportée et courue le même jour, tous les paris "Trio" enregistrés sur cette course sont normalement exécutés.
-
-Si la course est recourue à une autre date, tous les paris "Trio" sont remboursés.
+b) (Abrogé)
 
 c) Si une course sur laquelle fonctionne le pari "Trio" comporte un ou plusieurs chevaux non partants et si, dans cette course, le pari "Couplé" n'a pas fonctionné ou n'a pas donné lieu à un rapport pour la combinaison des chevaux classés aux deux premières places à l'arrivée, les rapports spéciaux prévus à l'article 65 (paragraphe a) ci-dessus pour la combinaison, ou, en cas de "dead heat", pour chaque combinaison, de l'un des chevaux non partants avec deux chevaux classés aux deux premières places, sont égaux à la moitié du plus petit rapport "Trio" comportant les mêmes deux chevaux ; ou, à défaut, à la moitié du plus grand rapport "Trio comportant un seul de ces deux chevaux ; ou enfin, à défaut, à la moitié du plus grand rapport "Trio". Ces rapports spéciaux restent soumis aux dispositions de l'article 65 (paragraphe e).

@@ -6,7 +6,7 @@ Les divers types de paris dont les règles spécifiques sont définies dans le p
 
 - soit dans les établissements, hors hippodromes, du Pari mutuel urbain et dans les postes d'enregistrement ouverts dans les conditions prévues par arrêté du ministre de l'agriculture, les titulaires ayant reçu du Pari mutuel urbain l'autorisation d'enregistrer les paris ;
 
-- soit auprès des services d'enregistrement par téléphone ou télématiques du Pari mutuel urbain ;
+- soit en compte ouvert auprès du Pari mutuel urbain ;
 
 - soit par l'intermédiaire de bornes interactives.
 

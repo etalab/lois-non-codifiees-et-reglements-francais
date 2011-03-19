@@ -6,7 +6,6 @@
 - [Chapitre IV bis : Pari couplé hippodrome](chapitre-iv-bis)
 - [Chapitre IV ter : Pari "Couplé ordre international"](chapitre-iv-ter)
 - [Chapitre V : Paris 2 sur 4](chapitre-v)
-- [Chapitre VI : Pari Quadrio](chapitre-vi)
 - [Chapitre VII : Pari tiercé](chapitre-vii)
 - [Chapitre VIII : Pari triplet](chapitre-viii)
 - [Chapitre IX : Pari trio](chapitre-ix)

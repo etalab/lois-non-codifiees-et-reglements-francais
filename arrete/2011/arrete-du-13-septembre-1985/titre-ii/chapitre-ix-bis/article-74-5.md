@@ -2,7 +2,7 @@
 
 Calcul des rapports.
 
-Le montant des paris remboursés, des prélèvements sociaux et de la déduction proportionnelle sur enjeux est défalqué du total des enjeux.
+Le montant des paris remboursés et de la déduction proportionnelle sur enjeux, est défalqué du total des enjeux.
 
 Après déduction du montant des paiements effectués sur les paris traités en paris "Simple gagnant" et en paris "Couplé Ordre" en application des articles 74.4 et 74.6, on obtient la masse à partager.
 

@@ -1,16 +1,16 @@
 # Article 101
 
-Le parieurs intéressés font une demande d'ouverture de compte courant au Pari mutuel urbain, selon les modalités spécifiques à chacun des vecteurs d'enregistrement définies ci-après.
+Les parieurs intéressés font une demande d'ouverture de compte courant au Pari mutuel urbain, selon les modalités définies ci-après.
 
-Si la demande est acceptée, le Pari mutuel urbain communique au parieur intéressé, selon le vecteur concerné, soit son numéro de compte et son code confidentiel, soit son numéro de compte.
+Si la demande est acceptée, le Pari mutuel urbain communique au parieur intéressé son numéro de compte.
 
-Ce numéro de compte et ce code sont strictement personnels et le Pari mutuel urbain est dégagé de toute responsabilité en cas d'utilisation frauduleuse de ces éléments. Le parieur est seul responsable de la conservation de la confidentialité et de l'utilisation des informations permettant l'accès à son compte courant.
+Ce numéro de compte est strictement personnel et le Pari mutuel urbain est dégagé de toute responsabilité en cas d'utilisation frauduleuse de cet élément. Le parieur est seul responsable de la conservation de la confidentialité et de l'utilisation des informations permettant l'accès à son compte courant.
 
 Le compte est considéré comme ouvert lorsque le Pari mutuel urbain a reçu l'imprimé spécial d'ouverture de compte courant dûment complété, accompagné de l'intégralité des documents cités sur l'imprimé et que le parieur a fait un versement initial, à titre de provision, dont le montant minimum est porté à sa connaissance lors de sa demande d'ouverture.
 
-Pour les vecteurs offrant ce service, les personnes physiques détentrices d'une carte de paiement, acceptée par le Pari mutuel urbain, à leur nom, en cours de validité, ont également la faculté de demander l'ouverture, à titre temporaire, d'un compte en ligne au Pari mutuel urbain selon les phases et procédures indiquées sur leur écran.
+Les personnes physiques détentrices d'une carte de paiement, acceptée par le Pari mutuel urbain, à leur nom, en cours de validité, ont également la faculté de demander l'ouverture, à titre temporaire, d'un compte en ligne au Pari mutuel urbain selon les phases et procédures indiquées par l'employé du Pari mutuel urbain.
 
-Si la demande est acceptée, le Pari mutuel urbain communique au parieur intéressé, selon le vecteur concerné, soit son numéro de compte et lui demande de choisir son code confidentiel, soit son numéro de compte.
+Si la demande est acceptée, le Pari mutuel urbain communique au parieur intéressé, son numéro de compte.
 
 Le compte est considéré comme ouvert pour une durée déterminée, portée à la connaissance des parieurs, dans l'attente de la réception par le Pari mutuel urbain de l'imprimé spécial d'ouverture de compte, accompagné de l'ensemble des documents s'y rapportant et, lorsque le parieur a fait un versement initial, par télépaiement, exclusivement par carte de paiement, à titre de provision, dont les montants minimum et maximum sont portés à sa connaissance par un message sur l'écran lors de sa demande d'ouverture de compte.
 

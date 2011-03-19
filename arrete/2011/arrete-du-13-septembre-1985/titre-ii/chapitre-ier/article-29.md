@@ -13,7 +13,3 @@ Les paris "simple placé" sont remboursés s'il n'y a aucune mise sur aucun des 
 4° Tous les paris "simple gagnant" et "simple placé" sont remboursés lorsqu'aucun cheval n'est classé à l'arrivée de la course.
 
 Lorsque le nombre de chevaux classés à l'arrivée est inférieur à deux pour les courses ayant comporté de quatre à sept chevaux partants inclusivement, ou inférieur à trois pour les courses ayant comporté plus de sept chevaux partants, la masse à partager "placé" est affectée en totalité au calcul des rapports des seuls chevaux classés à l'arrivée.
-
-5° Course reportée. - Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "simple" enregistrés sur cette course sont normalement exécutés.
-
-Si la course est recourue un autre jour, tous les paris "simple" enregistrés au Pari mutuel urbain et au Pari mutuel hippodrome sont remboursés.

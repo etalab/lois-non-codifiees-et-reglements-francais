@@ -31,9 +31,3 @@ S'il s'agit d'une course avec ordre d'arrivée stipulé, dans le même cas, la m
 3. Pari "Couplé placé" avec ou sans "dead heat" :
 
 S'il n'y a aucune mise sur l'une des combinaisons "Couplé placé", le bénéfice à répartir afférent à cette combinaison est réparti dans les mêmes proportions entre les autres combinaisons "Couplé placé payables. A défaut de mise sur aucune des combinaisons "Couplé placé" payables, tous les paris "Couplé placé sont remboursés y compris ceux comportant un cheval non partant visés à l'article 43-I (c) ci-dessus.
-
-4. Course reportée :
-
-Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "Couplé enregistrés" sur cette course sont normalement exécutés.
-
-Si la course est reportée à une autre date, tous les paris "Couplé" sont remboursés.

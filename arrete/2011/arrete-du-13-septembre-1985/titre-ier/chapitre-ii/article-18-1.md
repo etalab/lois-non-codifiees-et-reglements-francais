@@ -28,17 +28,7 @@ Dans le cas contraire, le montant de la tirelire ainsi constituée est affecté 
 
 Le montant de la tirelire constitué au titre du ou d'un des rapports "Bonus 3" ou au titre de l'alinéa précédent est affecté au "Fonds tirelire". Dans ce cas, les dispositions de l'article 95.9.4 sont applicables.
 
-b) Pour le pari "Quadrio" :
-
-Le montant de la tirelire constituée au titre du rapport "4 Ordre" est ajouté à la masse à partager affectée au calcul du rapport "4 Désordre", sous réserve que le total des mises gagnantes à ce rang de rapport soit au moins égal au minimum d'enjeu le plus élevé existant pour le pari considéré.
-
-Dans le cas contraire, le montant de la tirelire ainsi constituée est affecté selon les dispositions ci-dessous.
-
-Le montant de la tirelire constituée au titre du rapport "4 Désordre" ou au titre de l'alinéa précédent est ajouté à la masse à partager affectée au calcul du rapport "3 chevaux" sous réserve que le total des mises gagnantes à ce rang de rapport soit au moins égal au minimum d'enjeu le plus élevé existant pour le pari considéré.
-
-Dans le cas contraire, le montant de la tirelire ainsi constituée est affecté selon les dispositions ci-dessous.
-
-Le montant de la tirelire constituée au titre du rapport "3 chevaux" ou au titre de l'alinéa précédent est redistribué dans les mêmes conditions que celles visées au paragraphe e ci-dessous.
+b) (Abrogé)
 
 c) Pour le pari "Tiercé" :
 

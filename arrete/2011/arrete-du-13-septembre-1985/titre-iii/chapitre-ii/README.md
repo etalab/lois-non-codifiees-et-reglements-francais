@@ -1,4 +1,4 @@
-# Chapitre II : Paris par téléphone, ou par Minitel et par terminal numér
+# Chapitre II : Paris par téléphone
 
 - [Article 100](article-100.md)
 - [Article 101](article-101.md)

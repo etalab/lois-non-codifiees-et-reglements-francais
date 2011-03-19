@@ -46,8 +46,6 @@ h) A défaut de mise sur ces dernières permutations, tous les paris "Trio Ordre
 
 4. En aucun cas, un rapport spécial ne peut être réglé aux combinaisons comportant un cheval non partants et les chevaux classés premier et troisième, aux combinaisons comportant un cheval non partant et les chevaux classés deuxième et troisième ou aux combinaisons comportant deux chevaux non partants et le cheval classé deuxième ou troisième.
 
-5. Course reportée.
-
-"Si, par décision des commissaires, une course sur laquelle fonctionne le pari "Trio Ordre" est reportée, tous les paris "Trio Ordre" sur cette course sont exécutés, à condition que cette course soit recourue le même jour.
+5. (Abrogé)
 
 6. Si une course sur laquelle fonctionne le pari "Trio Ordre" comporte un ou plusieurs chevaux non partant et si, dans cette course, le pari "Couplé Ordre" n'a pas fonctionné ou n'a pas donné lieu à un rapport pour la combinaison des chevaux classés aux deux premières places désignés dans l'ordre exact d'arrivée, les rapports spéciaux prévus à l'article 74.6 a ci-dessus pour la permutation ou, en cas de "dead-heat" pour chaque permutation de l'un des chevaux non partants avec deux chevaux classés aux deux premières places désignés dans l'ordre exact d'arrivée, sont égaux à la moitié du plus petit rapport "Trio Ordre" comportant les mêmes deux chevaux ou, à défaut, à la moitié du plus grand rapport "Trio Ordre" comportant un seul de ces deux chevaux ou, enfin, à défaut, à la moitié du plus grand rapport "Trio Ordre". Ces rapports spéciaux restent soumis aux dispositions de l'article 74.6 e.
