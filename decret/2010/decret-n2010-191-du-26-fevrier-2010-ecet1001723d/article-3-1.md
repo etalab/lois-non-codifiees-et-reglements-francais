@@ -1,0 +1,3 @@
+# Article 3-1
+
+Sans préjudice des dispositions de l'article 3 du décret n° 94-582 du 12 juillet 1994 relatif aux conseils et aux dirigeants des établissements publics, des entreprises du secteur public et de certaines entreprises privées, les représentants de l'Etat au conseil d'administration de La Poste nommés par l'assemblée générale des actionnaires en application des dispositions du dernier alinéa de l'article 10 de la loi du 2 juillet 1990 susvisée peuvent être choisis parmi les personnes physiques présentant des compétences particulières dans l'un des domaines d'activité de La Poste, ou en matière stratégique, financière ou sociale.
