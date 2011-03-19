@@ -14,4 +14,12 @@ ou
 
 ou
 
-4. Justifier d'une qualification professionnelle d'un niveau au moins équivalent à celui d'un niveau V de la nomenclature interministérielle, validé ou non par un diplôme, et sous réserve d'être en conformité avec la réglementation en matière de sécurité maritime.
+4. Justifier d'une qualification d'un niveau au moins équivalent au niveau V de la nomenclature interministérielle des niveaux de formation, validée ou non par un diplôme.
+
+Les candidats doivent en outre justifier de l'une des trois formations suivantes :
+
+1° Formation de familiarisation en matière de sécurité et, s'il y a lieu, formation de familiarisation en matière de sûreté, délivrées conformément à l'annexe du présent arrêté ; ou
+
+2° Formation délivrée conformément à l'accord-cadre relatif à la formation à la sécurité du personnel navigant des entreprises de transport maritime ; ou
+
+3° Certificat de formation de base à la sécurité délivré conformément à l'arrêté du 7 juillet 1999 susvisé.
