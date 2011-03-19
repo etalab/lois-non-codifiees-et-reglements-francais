@@ -85,7 +85,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction du budget <br/>
 </td>
-<td align="center">Adjoint au chargé de mission du contrôle de l'aviation civile <br/>
+<td align="center">Adjoint au chargé de mission du contrôle des opérateurs de recherche <br/>
 </td>
 </tr>
 <tr>
@@ -378,7 +378,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Délégation générale à l'emploi et à la formation professionnelle <br/>
 </td>
-<td align="center">Adjoint au chef de la mission financement, budget et dialogue de gestion <br/>
+<td align="center">Chef du bureau "ressources humaines et affaires générales"<br/>
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale des entreprises <br/>
 </td>
-<td align="center">Chef de la mission des affaires générales du service des études et des statistiques industrielles <br/>
+<td align="center">Responsable des ressources humaines au groupe des écoles nationales d'économie et de statistiques<br/>
 </td>
 </tr>
 <tr>

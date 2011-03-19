@@ -94,7 +94,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Délégation générale à l'emploi et à la formation professionnelle <br/>
 </td>
-<td align="center">Chef du bureau ressources humaines et affaires générales <br/>
+<td align="center">Chef de projet en charge de la consolidation transversale des politiques d'emploi et de formation des branches et des entreprises<br/>
 </td>
 </tr>
 <tr>
