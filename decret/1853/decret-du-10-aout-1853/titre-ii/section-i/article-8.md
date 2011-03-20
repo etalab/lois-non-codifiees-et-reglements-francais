@@ -1,5 +1,0 @@
-# Article 8
-
-Au-delà de la première zone jusqu'à la limite de la deuxième, il est également interdit, autour des places de la première série, d'exécuter aucune construction quelconque en maçonnerie ou en pisé. Mais il est permis d'élever des constructions en bois et en terre, sans y employer de pierres ni de briques, même de chaux ni de plâtre, autrement qu'en crépissage, et à la charge de les démolir immédiatement et d'enlever les décombres et matériaux, sans indemnité, à la première réquisition de l'autorité militaire, dans le cas où la place, déclarée en état de guerre, serait menacée d'hostilités.
-
-Dans la même étendue, c'est-à-dire entre les limites de la première et de la deuxième zone, il est permis, tout autour des places de la deuxième série et des postes militaires, d'élever des constructions quelconques. Mais, le cas arrivant où ces places et postes sont déclarés en état de guerre, les démolitions qui sont jugées nécessaires n'entraînent aucune indemnité pour les propriétaires.
