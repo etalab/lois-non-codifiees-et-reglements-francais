@@ -4,9 +4,9 @@ Le comité de sélection prévu à l'article 1er est composé de membres titulai
 
 Le membre suppléant siège en cas d'empêchement du représentant titulaire dont il est le suppléant.
 
-Le comité de sélection compétent pour l'examen des candidatures aux emplois ouverts aux personnels de direction régis par les dispositions des décrets n° 2005-921 et n° 2005-922 du 2 août 2005 ainsi qu'aux candidats relevant des dispositions du décret n° 2010-265 du 11 mars 2010 susvisé comprend :
+Le comité de sélection compétent pour l'examen des candidatures aux emplois mentionnés aux deuxième et troisième alinéas de l'article 1er comprend :
 
-1° Le directeur de l'hospitalisation et de l'organisation des soins ;
+1° Le directeur général de l'offre de soins ;
 
 2° Un représentant de la direction générale de l'action sociale ;
 
