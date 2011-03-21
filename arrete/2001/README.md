@@ -224,7 +224,6 @@
 - [Arrêté du 13 février 2001 (ATEP0090451A)](arrete-du-13-fevrier-2001-atep0090451a)
 - [Arrêté du 13 février 2001 (JUSF0150001A)](arrete-du-13-fevrier-2001-jusf0150001a)
 - [Arrêté du 13 juillet 2001 (MENA0101143A)](arrete-du-13-juillet-2001-mena0101143a)
-- [Arrêté du 13 mars 1986](arrete-du-13-mars-1986)
 - [Arrêté du 13 mars 2001 (MENF0100578A)](arrete-du-13-mars-2001-menf0100578a)
 - [Arrêté du 13 mars 2001 (MENS0100734A)](arrete-du-13-mars-2001-mens0100734a)
 - [Arrêté du 13 novembre 2001 (AGRA0102169A)](arrete-du-13-novembre-2001-agra0102169a)

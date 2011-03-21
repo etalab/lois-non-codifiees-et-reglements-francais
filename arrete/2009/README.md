@@ -2894,7 +2894,6 @@
 - [Arrêté du 30 janvier 2009 (ECEI0823439A)](arrete-du-30-janvier-2009-ecei0823439a)
 - [Arrêté du 30 janvier 2009 (ECET0830386A)](arrete-du-30-janvier-2009-ecet0830386a)
 - [Arrêté du 30 janvier 2009 (IOCA0902175A)](arrete-du-30-janvier-2009-ioca0902175a)
-- [Arrêté du 30 janvier 2009 (IOCO0829030A)](arrete-du-30-janvier-2009-ioco0829030a)
 - [Arrêté du 30 juillet 2007 (DEFD0762054A)](arrete-du-30-juillet-2007-defd0762054a)
 - [Arrêté du 30 juillet 2009 (BCFF0917187A)](arrete-du-30-juillet-2009-bcff0917187a)
 - [Arrêté du 30 juillet 2009 (DEVA0904282A)](arrete-du-30-juillet-2009-deva0904282a)
