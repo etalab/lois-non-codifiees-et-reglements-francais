@@ -52,7 +52,7 @@ Départ en inactivité.
 
 L'agent qui remplit les conditions d'ouverture du droit aux prestations vieillesse définies à l'annexe 3 du présent statut peut demander à partir en inactivité. Il doit informer son employeur de sa décision en respectant un préavis minimum de trois mois, la cessation d'activité devant intervenir le dernier jour d'un mois.
 
-Sous réserve des dispositions prévues aux alinéas suivants, l'agent qui atteint l'âge de soixante-cinq ans sans avoir pris l'initiative d'un départ en inactivité est mis en inactivité à l'initiative de son employeur.
+Sous réserve des dispositions prévues aux alinéas suivants, l'agent qui atteint l'âge de soixante-sept ans sans avoir pris l'initiative d'un départ en inactivité est mis en inactivité à l'initiative de son employeur.
 
 Toutefois, l'âge limite prévu à l'alinéa précédent est reculé d'une année par enfant à charge, sans que la prolongation d'activité puisse être supérieure à trois ans et sous réserve de l'aptitude physique de l'agent à exercer un emploi.
 
@@ -64,20 +64,38 @@ Lorsque la mise en inactivité intervient à l'initiative de l'employeur dans le
 
 Sans préjudice des dispositions des alinéas précédents, l'agent en situation de longue maladie reconnu inapte au travail par la médecine-conseil du régime spécial est mis en inactivité à l'initiative de son employeur dans l'un des deux cas suivants :
 
-- avant soixante ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
+-avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
 
-- à partir de soixante ans, dès qu'il atteint le terme du congé de trois ans prévu par le b du paragraphe 1 de l'article 22 du présent statut, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
+-à partir de soixante-deux ans, dès qu'il atteint le terme du congé de trois ans prévu par le b du paragraphe 1 de l'article 22 du présent statut, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
 
 Sans préjudice des dispositions des alinéas précédents, l'agent, accidenté du travail ou atteint d'une maladie professionnelle, en incapacité temporaire de travail et reconnu inapte au travail par la médecine-conseil du régime spécial, est mis en inactivité à l'initiative de son employeur dans l'un des deux cas suivants :
 
-- avant soixante ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
+-avant soixante-deux ans, lorsqu'il a atteint l'âge d'ouverture de ses droits à une pension de vieillesse du régime spécial des industries électriques et gazières et totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ;
 
-- à partir de soixante ans, dès qu'il atteint la date de consolidation de ses blessures ou de stabilisation de son état, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
+-à partir de soixante-deux ans, dès qu'il atteint la date de consolidation de ses blessures ou de stabilisation de son état, ou, si elle est antérieure, à la date à laquelle il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut.
 
-L'agent bénéficiaire d'un dispositif conventionnel de cessation anticipée d'activité des travailleurs de l'amiante est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante ans.
+L'agent bénéficiaire d'un dispositif conventionnel de cessation anticipée d'activité des travailleurs de l'amiante est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante-deux ans.
 
-L'agent titulaire d'une pension d'invalidité de catégorie 2 ou 3, au sens de l'annexe 3 du présent statut, est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante ans.
+L'agent titulaire d'une pension d'invalidité de catégorie 2 ou 3, au sens de l'annexe 3 du présent statut, est mis en inactivité à l'initiative de son employeur à partir de l'âge d'ouverture de ses droits à pension de vieillesse du régime des industries électriques et gazières dès lors qu'il totalise le nombre de trimestres nécessaire pour bénéficier d'une pension servie au taux maximum mentionné à l'annexe 3 du présent statut ou, au plus tard, à soixante-deux ans.
 
-L'agent titulaire d'une pension d'invalidité de catégorie 1, au sens de l'annexe 3 du présent statut, qui exerce une activité réduite, est mis en inactivité à l'initiative de son employeur à l'âge de soixante ans sauf si, au plus tard trois mois avant son soixantième anniversaire, il exprime le souhait de poursuivre son activité.
+L'agent titulaire d'une pension d'invalidité de catégorie 1, au sens de l'annexe 3 du présent statut, qui exerce une activité réduite, est mis en inactivité à l'initiative de son employeur à l'âge de soixante-deux ans sauf si, au plus tard trois mois avant son soixante-deuxième anniversaire, il exprime le souhait de poursuivre son activité.
 
 Sauf en cas de liquidation différée de la pension de vieillesse, l'agent qui part en inactivité dans les conditions prévues au présent article bénéficie d'une indemnité de départ en inactivité, que celui-ci intervienne à son initiative ou à celle de son employeur.
+
+Dispositions transitoires.
+
+1° L'âge de soixante-sept ans mentionné au deuxième alinéa de la section intitulée " Départ en inactivité " du présent article s'applique aux agents nés à compter du 1er janvier 1962. Pour les agents nés antérieurement à cette date, l'âge de mise en inactivité à l'initiative de l'employeur est fixé :
+
+-à soixante-cinq ans pour les agents nés avant le 1er janvier 1957 ;
+
+-à soixante-cinq ans et quatre mois pour les agents nés en 1957 ;
+
+-à soixante-cinq ans et huit mois pour les agents nés en 1958 ;
+
+-à soixante-six ans pour les agents nés en 1959 ;
+
+-à soixante-six ans et quatre mois pour les agents nés en 1960 ;
+
+-à soixante-six ans et huit mois pour les agents nés en 1961.
+
+2° L'âge de soixante ans mentionné aux huitième, neuvième, onzième, douzième, treizième, quatorzième et quinzième alinéas de la section intitulée : " Départ en inactivité " du présent article, dans leur rédaction antérieure à l'entrée en vigueur du décret n° 2011-289 du 18 mars 2011 modifiant le statut national du personnel des industries électriques et gazières approuvé par le décret n° 46-1541 du 22 juin 1946, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné aux mêmes alinéas, dans leur rédaction issue dudit décret, dans les conditions fixées par le 1° du V de l'article 45 de l'annexe 3 du présent statut.
