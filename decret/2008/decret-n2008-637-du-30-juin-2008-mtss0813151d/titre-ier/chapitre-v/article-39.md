@@ -2,6 +2,8 @@
 
 I. ― Les pensions attribuées en application du présent décret sont payables mensuellement à terme échu, quelle que soit la date de leur concession.
 
+Par dérogation aux dispositions de l'alinéa précédent, les pensions inférieures au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.
+
 II. ― Les calculs d'arrérages des pensions et de leurs accessoires sont effectués par référence à une année de douze mois de trente jours.
 
 III. ― En cas de décès d'un retraité, la pension est payée jusqu'à la fin du mois civil au cours duquel le retraité est décédé.
