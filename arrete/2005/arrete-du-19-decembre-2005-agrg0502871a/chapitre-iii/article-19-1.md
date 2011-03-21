@@ -6,6 +6,8 @@
 
 - nombre d'animaux de chaque espèce entrant dans l'exploitation ;
 
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
+
 - numéro d'immatriculation du véhicule et numéro du transporteur ;
 
 - numéro EDE de la (ou des) exploitation(s) de provenance lorsque celui-ci est connu ;
@@ -21,6 +23,8 @@ La notification des autres informations mentionnées par ailleurs sur le documen
 - numéro EDE de l'exploitation, type d'exploitation ;
 
 - nombre d'animaux de chaque espèce sortant de l'exploitation ;
+
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
 
 - numéro d'immatriculation du véhicule et numéro du transporteur ;
 
@@ -39,6 +43,8 @@ La notification des autres informations mentionnées par ailleurs sur le documen
 - numéro SIREN du détenteur ;
 
 - nombre d'animaux de chaque espèce entrant dans l'exploitation ;
+
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
 
 - numéro EDE de la (ou des) exploitation(s) de provenance ;
 
@@ -60,6 +66,8 @@ La notification des autres informations mentionnées par ailleurs sur le documen
 
 - nombre d'animaux de chaque espèce sortant de l'exploitation ;
 
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
+
 - numéro EDE de la (ou des) exploitation(s) de destination, ou numéro d'agrément sanitaire lorsque l'exploitation de destination est un abattoir ;
 
 - numéro SIREN du détenteur de destination lorsque le numéro EDE de l'exploitation de destination est inconnu ;
@@ -77,6 +85,8 @@ La notification des autres informations mentionnées par ailleurs sur le documen
 - numéro d'agrément sanitaire de l'abattoir, type d'exploitation ;
 
 - nombre d'animaux de chaque espèce entrant dans l'abattoir ;
+
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
 
 - numéro EDE de la (ou des) exploitation(s) de provenance (marché approvisionnant l'abattoir, centre de rassemblement approvisionnant l'abattoir ou élevage[s] approvisionnant l'abattoir en cas d'approvisionnement direct) ;
 
@@ -97,6 +107,8 @@ La notification des autres informations mentionnées par ailleurs sur le documen
 - numéro SIREN du détenteur ;
 
 - nombre d'animaux morts ramassés ;
+
+- à partir du 1er juillet 2012, le numéro d'identification individuel des animaux constituant le lot et identifiés à l'aide d'un repère électronique ou conformément à l'article 11 du présent arrêté ;
 
 - numéro EDE de la (ou des) exploitation(s) de provenance ;
 
