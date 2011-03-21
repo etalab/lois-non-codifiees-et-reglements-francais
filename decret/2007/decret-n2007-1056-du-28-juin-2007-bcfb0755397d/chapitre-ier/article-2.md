@@ -1,8 +1,8 @@
 # Article 2
 
-I.-Le taux de cotisation à la charge de la Société nationale des chemins de fer français mentionnée au 1° du I de l'article 1er est la somme de deux composantes, ci-après désignées T1 et T2.
+I. - Le taux de cotisation à la charge de la Société nationale des chemins de fer français mentionnée au 1° du I de l'article 1er est la somme de deux composantes, ci-après désignées T1 et T2.
 
-II.-Le taux T1 est déterminé chaque année afin de couvrir, déduction faite du produit des cotisations salariales, les montants qui seraient dus si ses salariés relevaient du régime général et des régimes de retraite complémentaire mentionnés à l'article L. 921-4 du code de la sécurité sociale.
+II. - Le taux T1 est déterminé chaque année afin de couvrir, déduction faite du produit des cotisations salariales, les montants qui seraient dus si ses salariés relevaient du régime général et des régimes de retraite complémentaire mentionnés à l'article L. 921-4 du code de la sécurité sociale.
 
 En cas de changement des taux de cotisation du régime général ou des régimes de retraite complémentaire mentionnés à l'article L. 921-4 du code de la sécurité sociale, le taux global des cotisations à la charge de la Société nationale des chemins de fer français et de ses salariés est modifié à due concurrence et avec la même date d'entrée en vigueur que celle du changement de taux dans les régimes de retraite mentionnés ci-dessus.
 
@@ -24,9 +24,9 @@ Pendant la durée des absences pour maladie, blessure, congé individuel de form
 
 6° Le taux définitif de la cotisation à la charge de la Société nationale des chemins de fer français est calculé, une fois l'année écoulée, par la caisse, à partir des éléments d'assiette mentionnés au 1° dont elle dispose pour cette année. Il est transmis aux ministres chargés du budget, de la sécurité sociale et des transports, et est approuvé par l'arrêté mentionné au 5°. En cas de différence entre ce taux et le taux provisionnel, la caisse procède à une régularisation annuelle et la notifie auprès de la Société nationale des chemins de fer français avant le 1er mars de l'année suivant l'exercice en cause. Si le taux définitif est inférieur au taux provisionnel, les trop-perçus par la caisse sont déduits, par la Société nationale des chemins de fer français, des sommes dont elle est redevable aux échéances suivantes.
 
-III.-Le taux T2 est destiné à contribuer forfaitairement au financement des droits spécifiques de retraite du régime spécial, y compris l'incidence du recours à des ressources non permanentes lié à l'obligation de verser les pensions aux bénéficiaires par terme à échoir. Ce taux est libératoire pour la Société nationale des chemins de fer français. Il est fixé en IV ci-dessous.
+III. - Le taux T2 est destiné à contribuer forfaitairement au financement des droits spécifiques de retraite du régime spécial, y compris l'incidence du recours à des ressources non permanentes lié à l'obligation de verser les pensions aux bénéficiaires par terme à échoir. Ce taux est libératoire pour la Société nationale des chemins de fer français. Il est fixé en IV ci-dessous.
 
-IV.-Le taux T2 est fixé à :
+IV. - Le taux T2 est fixé à :
 
 -11, 96 % pour l'année 2007 ;
 
@@ -46,6 +46,28 @@ Après le 31 décembre 2011, le taux T2 évolue au 1er janvier de chaque année 
 
 -la cotisation de l'association pour la gestion du fonds de financement de l'AGIRC et de l'ARCCO prévue par l'accord du 10 février 2001 " Retraites complémentaires AGIRC et ARRCO ".
 
-V.-L'assiette du taux T2 est la même que celle du taux T1.
+V. - L'assiette du taux T2 est la même que celle du taux T1.
 
-VI.-Le taux de la cotisation à la charge des agents du cadre permanent de la Société nationale des chemins de fer français est fixé à 7, 85 % de l'assiette définie au V ci-dessus.
+VI. - Le taux de la cotisation à la charge des agents du cadre permanent de la Société nationale des chemins de fer français est égal à un pourcentage de l'assiette définie au V fixé :
+
+- à 7,85 % jusqu'au 31 décembre 2016 ;
+
+- à 8,12 % en 2017 ;
+
+- à 8,39 % en 2018 ;
+
+- à 8,66 % en 2019 ;
+
+- à 8,93 % en 2020 ;
+
+- à 9,20 % en 2021 ;
+
+- à 9,47 % en 2022 ;
+
+- à 9,74 % en 2023 ;
+
+- à 10,01 % en 2024 ;
+
+- à 10,28 % en 2025 ;
+
+- à 10,55 % à compter du 1er janvier 2026.

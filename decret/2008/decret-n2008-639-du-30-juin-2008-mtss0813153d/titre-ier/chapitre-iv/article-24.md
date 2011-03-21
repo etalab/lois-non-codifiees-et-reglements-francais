@@ -5,3 +5,5 @@ Les pensions liquidées en application du présent règlement ainsi que les majo
 Toutefois, la date de l'échéance est avancée au dernier jour ouvrable du trimestre précédent pour l'échéance du 1er janvier ainsi que chaque fois que les deux premiers jours de l'échéance sont fériés.
 
 Si le décès du retraité survient avant la date normale de l'échéance alors que la pension a déjà été payée, les arrérages perçus doivent être reversés à la caisse.
+
+Par dérogation aux dispositions du premier alinéa, les pensions dont le montant rapporté au mois est inférieur au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.

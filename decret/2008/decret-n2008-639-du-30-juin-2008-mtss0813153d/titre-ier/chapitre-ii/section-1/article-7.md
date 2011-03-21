@@ -14,7 +14,7 @@ IV. ― Les périodes pendant lesquelles les agents ont été autorisés à acco
 
 1° Pour la détermination du droit à pension, à raison de la totalité de leur durée ;
 
-2° Pour la durée de quinze années d'affiliation prévue au 1° du I de l'article 1er, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein ;
+2° Pour la durée d'affiliation prévue au 1° du I de l'article 1er, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein ;
 
 3° Pour le calcul de la quotité de la pension, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein.
 

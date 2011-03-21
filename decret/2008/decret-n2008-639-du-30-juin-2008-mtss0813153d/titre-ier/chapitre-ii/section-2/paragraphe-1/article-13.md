@@ -12,17 +12,17 @@ Toutefois, le nombre de trimestres pris en compte ne peut excéder la différenc
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur. Le plus petit des deux nombres de trimestres résultant des dispositions du 1° et du 2° ci-dessus est pris en considération.
 
-Le coefficient de minoration n'est pas applicable aux agents dont la pension est liquidée en application des articles 2, 4 et 5.
+Le coefficient de minoration n'est pas applicable aux agents dont la pension est liquidée en application des articles 2,4 et 5.
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont l'agent aurait pu bénéficier intervient après son décès en activité.
 
-II. ― Lorsque la durée d'assurance, définie au III ci-après, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné à l'article 12, sans être inférieure à cent soixante trimestres, et que l'agent a atteint l'âge de soixante ans, un coefficient de majoration s'applique au montant de la pension calculée en application de l'article 12.
+II. ― Lorsque la durée d'assurance, définie au III ci-après, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné à l'article 12, sans être inférieure à cent soixante trimestres, et que l'agent a atteint l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale, un coefficient de majoration s'applique au montant de la pension calculée en application de l'article 12.
 
-Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge de soixante ans et en sus du nombre de trimestres mentionné à l'alinéa précédent.
+Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale et en sus du nombre de trimestres mentionné à l'alinéa précédent.
 
 Lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction égale à celle que définit le régime de travail autorisé.
 
-Sont pris en  compte pour ce calcul les trimestres entiers cotisés.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
 Le taux du coefficient de majoration est égal, par trimestre supplémentaire dans la limite de vingt trimestres, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
 

@@ -82,7 +82,6 @@
 - [Décret n°84-112 du 16 février 1984](decret-n84-112-du-16-fevrier-1984)
 - [Décret n°84-113 du 16 février 1984](decret-n84-113-du-16-fevrier-1984)
 - [Décret n°84-117 du 16 février 1984](decret-n84-117-du-16-fevrier-1984)
-- [Décret n°84-34 du 16 janvier 1984](decret-n84-34-du-16-janvier-1984)
 - [Décret n°84-36 du 16 janvier 1984](decret-n84-36-du-16-janvier-1984)
 - [Décret n°84-613 du 16 juillet 1984](decret-n84-613-du-16-juillet-1984)
 - [Décret n°84-623 du 16 juillet 1984](decret-n84-623-du-16-juillet-1984)
