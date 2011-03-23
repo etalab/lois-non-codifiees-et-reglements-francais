@@ -6,11 +6,11 @@ Le premier concours est ouvert aux candidats, titulaires du baccalauréat ou d'u
 
 Le second concours est, dans la limite de 50 % des emplois offerts au recrutement, ouvert :
 
-a) Aux adjoints de sécurité, mentionnés à l'
-article 36 de la loi du 21 janvier 1995 susvisée
-, en activité, âgés de trente-sept ans au plus au 1er janvier de l'année du concours et comptant, à la date de la première épreuve, au moins une année de service en cette qualité ;
+a) Aux adjoints de sécurité, mentionnés à l'article 36 de la loi du 21 janvier 1995 susvisée, en activité, âgés de trente-sept ans au plus au 1er janvier de l'année du concours et comptant, à la date de la première épreuve, au moins une année de service en cette qualité ;
 
-b) A l'issue de leur formation professionnelle initiale, à ceux d'entre eux qui ont suivi le parcours de " cadet de la République, option police nationale " mentionné à l'article 6 du décret du 24 août 2000 susvisé.
+b) A l'issue de leur formation professionnelle initiale, à ceux d'entre eux qui ont suivi le parcours de " cadet de la République, option police nationale " mentionné à l'article 6 du décret du 24 août 2000 susvisé ;
+
+c) Aux volontaires dans les armées servant dans la gendarmerie nationale, titulaires du diplôme de gendarme adjoint, en activité et comptant, à la date de la première épreuve du concours, au moins un an de service en cette qualité.
 
 Les emplois qui n'auraient pas été pourvus par la nomination des candidats au second concours peuvent être attribués, par décision du jury, aux candidats du premier concours.
 
