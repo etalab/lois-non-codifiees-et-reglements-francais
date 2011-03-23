@@ -22,9 +22,9 @@ h) Le Centre national de ressources de la douleur ;
 
 i) Le Centre national de ressources pour les soins palliatifs ;
 
-- l'Observatoire national de la fin de vie ;
+-l'Observatoire national de la fin de vie ;
 
-- les centres de coordination des soins en cancérologie.
+-les centres de coordination des soins en cancérologie.
 
 2° Au titre des missions de formation, de soutien, de coordination et d'évaluation des besoins du patient :
 
@@ -62,7 +62,7 @@ c) Les unités d'accueil et de soins des patients sourds en langue des signes.
 
 7° Au titre de la mission de conseil aux équipes hospitalières en matière d'éthique, de bioéthique et de protection des personnes :
 
-― les centres nationaux d'éthique.
+― les espaces de réflexion éthique régionaux ou interrégionaux.
 
 8° Au titre des missions de veille sanitaire, de prévention et de gestion des risques :
 
@@ -96,4 +96,4 @@ a) Les services d'aide médicale urgente mentionnés à l'article L. 6112-5 du c
 
 b) Les services mobiles d'urgence et de réanimation mentionnés à l'article R. 6123-10 du code de la santé publique ;
 
-c) Le centre de consultations médicales maritimes mentionné à l'arrêté du 10 mai 1995 relatif à la qualification du centre de consultations médicales maritimes de Toulouse comme centre de consultations et d'assistance télémédicale maritimes dans le cadre de l'aide médicale en mer.
+c) Les centres nationaux d'appels d'urgence spécifiques : centre de consultations médicales maritimes mentionné à l'arrêté du 10 mai 1995 relatif à la qualification du centre de consultations médicales maritimes de Toulouse comme centre de consultations et d'assistance télémédicale maritimes dans le cadre de l'aide médicale en mer et centre national de relais mentionné à l'arrêté du 1er février 2010 désignant le CHU de Grenoble dans sa mise en œuvre du centre de réception des appels d'urgence passés par les personnes non ou malentendantes.

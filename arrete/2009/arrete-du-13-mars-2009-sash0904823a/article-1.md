@@ -4,7 +4,7 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 
 1° Au titre de la recherche médicale et de l'innovation :
 
-a) Les structures d'appui à la recherche clinique, notamment les centres d'investigation clinique, les centres d'épidémiologie clinique et les centres d'investigation technologique ;
+a) Les structures d'appui à la recherche clinique, notamment les centres de recherche clinique, les départements de recherche clinique et d'innovation, les centres d'investigation clinique, les centres d'épidémiologie clinique et les centres d'investigation technologique ;
 
 b) Les centres de ressources biologiques ;
 
@@ -22,7 +22,9 @@ g) Les délégations interrégionales à la recherche clinique.
 
 a) Les actions de téléenseignement et de téléformation ;
 
-b) Les stages de résidents de radiophysiciens prévus dans le cadre de la politique nationale de lutte contre le cancer.
+b) Les stages de résidents de radiophysiciens prévus dans le cadre de la politique nationale de lutte contre le cancer ;
+
+c) Le financement de la rémunération des internes en médecine, pharmacie et en odontologie.
 
 3° Au titre des missions de recherche, d'enseignement, de formation, d'expertise, de coordination et d'évaluation des soins relatifs à certaines pathologies ainsi que des activités hautement spécialisées :
 
@@ -52,7 +54,7 @@ l) Les pôles de référence hépatite C ;
 
 m) Les centres pluridisciplinaires de diagnostic prénatal ;
 
-- les centres de diagnostic préimplantatoire ;
+-les centres de diagnostic préimplantatoire ;
 
 n) Les centres nationaux de référence pour la lutte contre les maladies transmissibles mentionnés à l'article L. 1413-4 du code de la santé publique ;
 

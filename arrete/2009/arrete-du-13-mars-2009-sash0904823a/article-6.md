@@ -6,4 +6,6 @@ Peuvent être prises en charge au titre des missions mentionnées au 4° de l'ar
 
 2° Les permanences d'accès aux soins de santé mentionnées à l'article L. 6112-6 du code de la santé publique ;
 
-3° La prise en charge des patients en situation précaire par des équipes hospitalières à l'extérieur des établissements de santé.
+3° La prise en charge des patients en situation précaire par des équipes hospitalières à l'extérieur des établissements de santé ;
+
+4° Les dépenses spécifiques liées à la prise en charge odontologique des patients atteints de pathologies compliquant cette prise en charge dans les centres de soins, d'enseignement et de recherche dentaires.
