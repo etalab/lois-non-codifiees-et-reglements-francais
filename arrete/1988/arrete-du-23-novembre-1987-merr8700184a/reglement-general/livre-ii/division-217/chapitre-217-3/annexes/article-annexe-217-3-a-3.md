@@ -8,6 +8,10 @@ Navire :
 
 Armement :
 
+Pavillon
+
+Port d'attache
+
 <table>
 <tbody>
 <tr>
