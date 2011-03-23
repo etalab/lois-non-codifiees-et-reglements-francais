@@ -1,0 +1,3 @@
+# Article 5
+
+L'administration complète, le cas échéant, en liaison avec les administrations auprès desquelles les agents sont détachés ou dont ils relèvent pour l'exercice de leurs fonctions, si ces derniers ne sont pas présentés directement par celle-ci, les dossiers des candidats par les évaluations qu'ils ont obtenues au titre des cinq dernières années, une appréciation motivée et circonstanciée sur leur manière de servir, sur les emplois occupés, sur leurs aptitudes à exercer les fonctions d'administrateur de la direction générale de la sécurité extérieure et sur le type de mission qu'ils semblent le mieux à même d'assumer.
