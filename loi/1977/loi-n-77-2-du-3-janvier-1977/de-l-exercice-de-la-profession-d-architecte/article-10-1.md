@@ -1,6 +1,6 @@
 # Article 10-1
 
-L'architecte ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui est légalement établi dans l'un de ces Etats peut exercer la profession d'architecte en France de façon temporaire et occasionnelle sans être inscrit à un tableau régional d'architectes.
+L'architecte ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui est légalement établi dans l'un de ces Etats peut exercer la profession d'architecte en France de façon temporaire et occasionnelle sans être inscrit à un tableau régional d'architectes.
 
 L'architecte prestataire de services est soumis aux règles et procédures relatives aux conditions d'exercice de la profession, à l'usage du titre professionnel, aux règles professionnelles ou déontologiques et disciplinaires applicables à la profession, ainsi qu'aux obligations d'assurance correspondant aux prestations envisagées.
 
