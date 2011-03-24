@@ -4,13 +4,13 @@ DOCUMENTS À FOURNIR PAR LE DEMANDEUR D'UNE ATTESTATION DE RECONNAISSANCE POUR L
 
 1° Demande signée de l'intéressé ;
 
-2° Document d'identité en cours de validité du déclarant et, s'il y a lieu, titre de séjour portant mention de l'autorisation de travailler sur le territoire français ;
+2° Document d'identité en cours de validité du déclarant ;
 
-3° Attestation d'expérience professionnelle délivrée par l'autorité compétente de l'Etat membre au cas où la profession n'est pas réglementée dans l'Etat de délivrance ;
+3° Preuve d'expérience professionnelle au cas où la profession n'est pas réglementée dans l'autre Etat membre ;
 
-4° Programme de formation conduisant à la délivrance du titre ― ce document doit être produit uniquement sur demande du directeur régional des affaires maritimes ;
+4° Programme de formation conduisant à la délivrance du titre-ce document doit être produit uniquement sur demande du directeur interrégional de la mer ;
 
-5° Document permettant de vérifier que le demandeur répond à l'exigence de moralité prévue au 4° de l'article 4 du décret n° 67-690 du 7 août 1967 ;
+5° Document permettant de vérifier que le demandeur répond à l'exigence de moralité prévue à l'article L. 5521-2 du code des transports ;
 
 6° Certificat d'aptitude physique à la navigation ;
 
