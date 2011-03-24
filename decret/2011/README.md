@@ -43,4 +43,6 @@
 - [Décret n°2011-293 du 18 mars 2011 (AGRS1027769D)](decret-n2011-293-du-18-mars-2011-agrs1027769d)
 - [Décret n°93-398 du 18 mars 1993 (INTB9300128D)](decret-n93-398-du-18-mars-1993-intb9300128d)
 - [Décret n°2011-296 du 21 mars 2011 (IOCC1031137D)](decret-n2011-296-du-21-mars-2011-iocc1031137d)
+- [Décret n°2011-305 du 21 mars 2011 (ETSS1019649D)](decret-n2011-305-du-21-mars-2011-etss1019649d)
+- [Décret n°2011-306 du 21 mars 2011 (MCCK1104110D)](decret-n2011-306-du-21-mars-2011-mcck1104110d)
 - [Décret n°2010-1699 du 29 décembre 2010 (DEVA1030457D)](decret-n2010-1699-du-29-decembre-2010-deva1030457d)
