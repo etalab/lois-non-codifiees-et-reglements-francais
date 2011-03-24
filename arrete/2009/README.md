@@ -312,7 +312,6 @@
 - [Arrêté du 5 octobre 2009 (ESRF0922815A)](arrete-du-5-octobre-2009-esrf0922815a)
 - [Arrêté du 5 octobre 2010 (DEVA1014452A)](arrete-du-5-octobre-2010-deva1014452a)
 - [Arrêté du 5 mai 2004 (SOCF0410886A)](arrete-du-5-mai-2004-socf0410886a)
-- [Arrêté du 5 mai 2009 (DEFH0910135A)](arrete-du-5-mai-2009-defh0910135a)
 - [Arrêté du 5 mai 2009 (DEFH0910464A)](arrete-du-5-mai-2009-defh0910464a)
 - [Arrêté du 5 mai 2009 (ECEC0905639A)](arrete-du-5-mai-2009-ecec0905639a)
 - [Arrêté du 5 mai 2009 (ECED0909475A)](arrete-du-5-mai-2009-eced0909475a)
