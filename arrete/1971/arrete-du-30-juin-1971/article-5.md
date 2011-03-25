@@ -2,7 +2,7 @@
 
 Les services aériens, sous-marins ou subaquatiques faisant l'objet des relevés établis dans les conditions de l'article 4 donnent lieu à homologation.
 
-Cette homologation est décidée par les autorités déléguées par le ministre d'État chargé de la défense nationale, par le ministre de l'économie, des finances et de l'industrie, par le ministre chargé des transports, par le ministre de l'intérieur, par le président-directeur général de Météo-France et le ministre des transports et dont la liste est fixée par instruction.
+Cette homologation est décidée par les autorités déléguées par le ministre d'État chargé de la défense nationale, par le ministre de l'économie, des finances et de l'industrie, par le ministre chargé des transports,       par le ministre de l'intérieur, par le ministre chargé de la culture, par le président-directeur général de Météo-France et le ministre des transports et dont la liste est fixée par instruction.
 
 A cet effet, les relevés individuels arrêtés dans les conditions prévues à l'article 4 sont adressés aux autorités compétentes chaque année et lors d'une cessation de services. Ils sont au préalable émargés par les ayants droit et certifiés par les commandants de formation ou d'unité, les chefs de service ou directeurs en chef d'établissement.
 
