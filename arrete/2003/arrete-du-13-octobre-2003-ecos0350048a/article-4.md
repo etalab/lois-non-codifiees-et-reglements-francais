@@ -1,3 +1,7 @@
 # Article 4
 
-L'INSEE et les Archives de France sont seuls destinataires des informations individuelles recueillies. La Fédération française des sociétés d'assurance (FFSA), la Caisse des dépôts et consignations, la Caisse nationale des caisses d'épargne (CNCE), le Crédit agricole SA, la direction de la recherche, des études, de l'évaluation et des statistiques du ministère de l'emploi et de la solidarité (DREES), le   Centre d'analyse stratégique, le département et le laboratoire d'économie théorique et appliquée (DELTA), l'Institut national de la recherche agronomique (INRA) auront accès dans le cadre d'une convention signée avec l'INSEE à un fichier anonymisé ne permettant aucune identification directe ou indirecte des personnes enquêtées.
+Les Archives de France sont destinataires des informations individuelles recueillies identifiant les personnes enquêtées, conformément aux dispositions de l'article L. 212-4 du code du patrimoine.
+
+L'Institut national de la statistique et des études économiques diffuse des fichiers de données individuelles ne permettant aucune identification directe ou indirecte des personnes enquêtées.
+
+Les renseignements individuels issus du traitement prévu à l'article 1er permettant l'identification des personnes ayant fait l'objet de l'enquête peuvent être communiqués dans les conditions prévues à l'article 17 du décret n° 2009-318 du 20 mars 2009 susvisé, à des fins de statistique publique ou de recherche scientifique ou historique, sur décision de l'administration des archives prise après avis du comité du secret statistique et accord de l'Institut national de la statistique et des études économiques.
