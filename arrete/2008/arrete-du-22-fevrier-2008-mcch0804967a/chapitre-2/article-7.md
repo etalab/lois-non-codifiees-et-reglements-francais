@@ -4,13 +4,15 @@ La Commission nationale d'habilitation émet un avis sur la demande d'habilitati
 
 Elle vérifie que le projet de formation proposé par l'établissement répond aux conditions mentionnées à l'article 5 du décret du 27 novembre 2007 susvisé et aux critères précisés par les arrêtés mentionnés à l'article 2 de ce décret.
 
-Dans le cas d'un renouvellement d'habilitation, la commission dispose en outre d'une évaluation de la formation établie conjointement par :
+La commission dispose en outre d'une évaluation de la formation établie conjointement par :
 
--un enseignant universitaire ;
+- un enseignant universitaire ;
 
--une personnalité qualifiée, choisie en raison de ses compétences dans le domaine concerné ;
+- une personnalité qualifiée, choisie en raison de ses compétences dans le domaine concerné ;
 
--un représentant de la             direction générale de la création artistique.
+- un représentant de la direction générale de la création artistique ou, pour les renouvellements d'habilitation, une personnalité qualifiée.
+
+L'évaluation de la formation donne lieu à un rapport transmis à l'établissement évalué qui fait connaître ses observations. Le rapport et les observations de l'établissement évalué sont remis aux membres de la commission nationale d'habilitation.
 
 Elle peut émettre des recommandations, notamment sur les évolutions souhaitables de l'offre de formation, les objectifs et les contenus d'enseignement proposés.
 
