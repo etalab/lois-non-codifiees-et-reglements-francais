@@ -392,6 +392,10 @@ Liban
 
 Paris-Beyrouth.
 
+Liberia (jusqu'au 31 décembre 2012)
+
+Paris - Monrovia.
+
 Libye
 
 Paris-Tripoli.
@@ -625,6 +629,10 @@ Paris-Belgrade.
 Seychelles
 
 Paris-Seychelles.
+
+Sierra Leone (jusqu'au 31 décember 2012)
+
+Paris - Freetown.
 
 Singapour
 
