@@ -52,4 +52,6 @@
 - [Décret n°2011-314 du 22 mars 2011 (OMEO1014541D)](decret-n2011-314-du-22-mars-2011-omeo1014541d)
 - [Décret n°2011-315 du 22 mars 2011 (OMEO1101071D)](decret-n2011-315-du-22-mars-2011-omeo1101071d)
 - [Décret n°2011-316 du 22 mars 2011 (OMEO1105854D)](decret-n2011-316-du-22-mars-2011-omeo1105854d)
+- [Décret n°2011-320 du 23 mars 2011 (DEVT1020929D)](decret-n2011-320-du-23-mars-2011-devt1020929d)
+- [Décret n°2011-321 du 23 mars 2011 (DEVL1101903D)](decret-n2011-321-du-23-mars-2011-devl1101903d)
 - [Décret n°2010-1699 du 29 décembre 2010 (DEVA1030457D)](decret-n2010-1699-du-29-decembre-2010-deva1030457d)
