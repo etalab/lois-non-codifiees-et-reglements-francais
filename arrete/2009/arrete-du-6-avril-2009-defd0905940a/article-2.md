@@ -18,8 +18,10 @@ Le service parisien de soutien de l'administration centrale comprend :
 
 8. Directement subordonnés au chef du service :
 
-― des responsables de site chargés d'assurer, sur des emprises déterminées, les missions du service parisien de soutien de l'administration centrale ;
+- des directeurs de site chargés d'assurer, sur des emprises déterminées, les missions du service parisien de soutien de l'administration centrale ;
 
-― un chef de cabinet.
+- un chef de cabinet ;
+
+- des directeurs de projet et des chargés de mission le cas échéant.
 
 Par ailleurs, le service parisien de soutien de l'administration centrale dispose d'un organisme extérieur dont les attributions et le fonctionnement sont fixés par instruction du chef du service.

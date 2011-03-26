@@ -4,12 +4,10 @@ La sous-direction de l'ingénierie du soutien comprend :
 
 1° Le bureau des affaires patrimoniales et des sites ;
 
-2° Le bureau des services courants ;
+2° Le bureau du soutien général ;
 
-3° Le bureau de la logistique et de l'approvisionnement ;
+3° Le bureau des moteurs d'impression et de la reprographie ;
 
-4° Le bureau « impression, reprographie » ;
+4° Le bureau d'externalisation des véhicules ;
 
-5° Le bureau d'externalisation des véhicules ;
-
-6° Le bureau « transport ».
+5° Le bureau "transport".

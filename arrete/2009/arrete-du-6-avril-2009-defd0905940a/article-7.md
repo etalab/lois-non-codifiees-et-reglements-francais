@@ -14,4 +14,8 @@ La sous-direction de l'ingénierie du soutien assure :
 
 6. La prescription et le suivi technique de toute opération de soutien dont il obtient commande ;
 
-7. la mise en œuvre de la politique d'impression et de reprographie.
+7. la mise en œuvre de la politique d'impression et de reprographie ;
+
+8. La gestion des meubles et œuvres d'art des collections publiques et des collections des musées de France mis en dépôt ou affectés au ministère de la défense ;
+
+9. La mise à disposition des sceaux de l'Etat et des timbres officiels.
