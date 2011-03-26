@@ -594,7 +594,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3. Direction de la Documentation française </p>
+<p align="center">3. Direction de l'information légale et administrative</p>
 </td>
 <td>
 <p align="center">C </p>
@@ -681,10 +681,10 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 <p>Secrétaire de rédaction </p>
 </td>
 <td>
-<p align="center">B </p>
+<p align="center">B ou C</p>
 </td>
 <td>
-<p align="center">4 </p>
+<p align="center">8</p>
 </td>
 <td>
 <p align="center">20 </p>
@@ -720,13 +720,13 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 </tr>
 <tr>
 <td valign="top">
-<p>Administrateur de sites web </p>
+<p>Assistant de bibliothèque </p>
 </td>
 <td>
-<p align="center">B </p>
+<p align="center">C ou B </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">9</p>
 </td>
 <td>
 <p align="center">20 </p>
@@ -762,7 +762,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 </tr>
 <tr>
 <td valign="top">
-<p>Responsable de l'atelier de routage </p>
+<p>Responsable de l'atelier des expéditions </p>
 </td>
 <td>
 <p align="center">C </p>
@@ -818,13 +818,13 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 </tr>
 <tr>
 <td valign="top">
-<p>Responsable de l'unité de façonnage </p>
+<p>Agent d'accueil </p>
 </td>
 <td>
 <p align="center">C </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">2</p>
 </td>
 <td>
 <p align="center">20 </p>
@@ -866,7 +866,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 <p align="center">C </p>
 </td>
 <td>
-<p align="center">8 </p>
+<p align="center">5</p>
 </td>
 <td>
 <p align="center">15 </p>
@@ -1034,7 +1034,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 <p align="center">B ou C </p>
 </td>
 <td>
-<p align="center">9 </p>
+<p align="center">2 </p>
 </td>
 <td>
 <p align="center">20</p>
