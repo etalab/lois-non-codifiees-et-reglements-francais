@@ -399,7 +399,6 @@
 - [Arrêté du 23 mai 2000 (INTE0000312A)](arrete-du-23-mai-2000-inte0000312a)
 - [Arrêté du 23 mai 2001 (MESG0120958A)](arrete-du-23-mai-2001-mesg0120958a)
 - [Arrêté du 24 août 2001 (AGRG0101212A)](arrete-du-24-aout-2001-agrg0101212a)
-- [Arrêté du 24 août 2001 (EQUA0100896A)](arrete-du-24-aout-2001-equa0100896a)
 - [Arrêté du 24 avril 2001 (ECOC0100018A)](arrete-du-24-avril-2001-ecoc0100018a)
 - [Arrêté du 24 décembre 2001 (ECOI0120306A)](arrete-du-24-decembre-2001-ecoi0120306a)
 - [Arrêté du 24 janvier 2001 (ATEP0100044A)](arrete-du-24-janvier-2001-atep0100044a)
