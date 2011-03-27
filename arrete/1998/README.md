@@ -547,7 +547,6 @@
 - [Arrêté du 19 mars 1998 (MENP9800743A)](arrete-du-19-mars-1998-menp9800743a)
 - [Arrêté du 19 mars 1998 (MESS9820797A)](arrete-du-19-mars-1998-mess9820797a)
 - [Arrêté du 19 mars 1998 (PRMX9702139A)](arrete-du-19-mars-1998-prmx9702139a)
-- [Arrêté du 19 novembre 1997 (DEFE9801095A)](arrete-du-19-novembre-1997-defe9801095a)
 - [Arrêté du 19 novembre 1998 (AGRA9802138A)](arrete-du-19-novembre-1998-agra9802138a)
 - [Arrêté du 19 novembre 1998 (JUSE9840086A)](arrete-du-19-novembre-1998-juse9840086a)
 - [Arrêté du 19 novembre 1998 (MESG9823523A)](arrete-du-19-novembre-1998-mesg9823523a)

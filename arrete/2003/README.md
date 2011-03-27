@@ -489,7 +489,6 @@
 - [Arrêté du 17 juin 2003 (AGRF0300815A)](arrete-du-17-juin-2003-agrf0300815a)
 - [Arrêté du 17 juin 2003 (AGRF0300816A)](arrete-du-17-juin-2003-agrf0300816a)
 - [Arrêté du 17 juin 2003 (AGRP0301233A)](arrete-du-17-juin-2003-agrp0301233a)
-- [Arrêté du 17 juin 2003 (DEFE0301843A)](arrete-du-17-juin-2003-defe0301843a)
 - [Arrêté du 17 juin 2003 (EQUA0300962A)](arrete-du-17-juin-2003-equa0300962a)
 - [Arrêté du 17 juin 2003 (JUSF0350054A)](arrete-du-17-juin-2003-jusf0350054a)
 - [Arrêté du 17 juin 2003 (MENE0301281A)](arrete-du-17-juin-2003-mene0301281a)
