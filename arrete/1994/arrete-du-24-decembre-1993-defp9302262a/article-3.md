@@ -12,7 +12,7 @@ le général sous-chef d'etat-major de l'armée de terre, division organisation 
 
 le général commandant les organismes de formation de l'armée de terre ;
 
-le général         directeur des ressources humaines de l'armée de terre  ;
+le général directeur des ressources humaines de l'armée de terre ;
 
 le général directeur de l'enseignement militaire supérieur scientifique et technique ;
 
@@ -22,7 +22,7 @@ le général directeur de l'école d'état-major ;
 
 le colonel directeur des études du cours supérieur d'état-major ;
 
-l'adjoint terre du général directeur du collège interarmées de défense.
+l'adjoint terre du général directeur    de l'Ecole de guerre.
 
 3° Des membres nommés :
 
@@ -30,7 +30,7 @@ trois personnalités civiles choisies en raison de leur compétence ;
 
 un ingénieur général de l'armement ;
 
-un officier de l'armée de terre proposé, parmi l'encadrement, par le général directeur du collège interarmées de défense.
+un officier de l'armée de terre proposé, parmi l'encadrement, par le général directeur    de l'Ecole de guerre.
 
 4° Des membres sélectionnés par le général directeur de l'enseignement militaire supérieur de l'armée de terre parmi les officiers stagiaires :
 

@@ -105,7 +105,7 @@ Fonctions interarmées
 </td>
 </tr>
 <tr>
-<td align="center">Directeur du collège interarmées de défense <br/>
+<td align="center">Directeur    de l'Ecole de guerre <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -250,11 +250,11 @@ Fonctions relevant de l'armée de terre
 </td>
 <td align="center">1 <br/>
 </td>
-<td align="center">140<br/>
+<td align="center">140 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">         directeur des ressources humaines de l'armée de terre  <br/>
+<td align="center">directeur des ressources humaines de l'armée de terre <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -398,7 +398,7 @@ Fonctions relevant de l'armée de terre
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint au         directeur des ressources humaines de l'armée de terre  <br/>
+<td align="center">Adjoint au directeur des ressources humaines de l'armée de terre <br/>
 </td>
 <td align="center">1 <br/>
 </td>

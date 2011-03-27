@@ -72,7 +72,7 @@ Général commandant le soutien des forces aériennes.
 
 Directeur du renseignement militaire.
 
-Directeur du collège interarmées de défense.
+Directeur    de l'Ecole de guerre.
 
 Commandant supérieur des forces armées aux Antilles.
 

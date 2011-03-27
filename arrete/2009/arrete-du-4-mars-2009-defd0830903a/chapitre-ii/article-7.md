@@ -6,7 +6,7 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 2° Le directeur de l'enseignement militaire supérieur ;
 
-2-1. L'officier général adjoint au directeur de l'enseignement militaire supérieur ;
+2-1.L'officier général adjoint au directeur de l'enseignement militaire supérieur ;
 
 3° Le directeur des ressources humaines du ministère de la défense ;
 
@@ -16,13 +16,13 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 6° Le chef de la division organisation ressources humaines de l'état-major des armées ;
 
-7° Le directeur du collège interarmées de défense ;
+7° Le directeur    de l'Ecole de guerre ;
 
 8° Le directeur du centre des hautes études militaires ;
 
 9° Le directeur de l'institut de recherche stratégique de l'Ecole militaire ;
 
-10°  Les présidents de la promotion du collège interarmées de défense et de la session du centre des hautes études militaires en cours et ceux de l'année précédente ;
+10° Les présidents de la promotion    de l'Ecole de guerre et de la session du centre des hautes études militaires en cours et ceux de l'année précédente ;
 
 11° Le directeur du centre de documentation de l'Ecole militaire.
 

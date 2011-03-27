@@ -1,6 +1,6 @@
 # Article 2
 
-Le conseil de perfectionnement donne son avis sur toutes les questions qui lui sont soumises par le chef d'état-major de l'armée de terre relatives à l'école d'état-major de l'armée de terre, au cours supérieur d'état-major et, en liaison avec le conseil d'orientation prévu à l'article 5 du décret du 22 décembre 1992 susvisé, à l'enseignement spécifique Terre du collège interarmées de défense.
+Le conseil de perfectionnement donne son avis sur toutes les questions qui lui sont soumises par le chef d'état-major de l'armée de terre relatives à l'école d'état-major de l'armée de terre, au cours supérieur d'état-major et, en liaison avec le conseil d'orientation prévu à l'article 5 du décret du 22 décembre 1992 susvisé, à l'enseignement spécifique Terre    de l'Ecole de guerre.
 
 Ces questions peuvent concerner notamment :
 
