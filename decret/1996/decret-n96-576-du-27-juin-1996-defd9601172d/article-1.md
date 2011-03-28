@@ -6,7 +6,7 @@ A ce titre, il est chargé au profit des organismes et des formations de l'armé
 
 1. Définir les droits en matériels et d'établir les plans d'équipements correspondants ;
 
-2. Gérer les matériels et les munitions qui leur sont nécessaires pour remplir leurs missions opérationnelles et conduire leurs activités de formation, d'instruction et d'entraînement ;
+2. Gérer les matériels   qui leur sont nécessaires pour remplir leurs missions opérationnelles et conduire leurs activités de formation, d'instruction et d'entraînement ;
 
 3. Leur en assurer en toute circonstances le maintien à disposition.
 
