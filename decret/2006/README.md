@@ -268,6 +268,7 @@
 - [Décret n°2006-1649 du 20 décembre 2006 (MCCB0600856D)](decret-n2006-1649-du-20-decembre-2006-mccb0600856d)
 - [Décret n°2006-320 du 20 mars 2006 (INDI0606560D)](decret-n2006-320-du-20-mars-2006-indi0606560d)
 - [Décret n°2006-321 du 20 mars 2006 (INDI0606739D)](decret-n2006-321-du-20-mars-2006-indi0606739d)
+- [Décret n°2006-352 du 20 mars 2006 (ECOC0500166D)](decret-n2006-352-du-20-mars-2006-ecoc0500166d)
 - [Décret n°2006-355 du 20 mars 2006 (EQUT0600297D)](decret-n2006-355-du-20-mars-2006-equt0600297d)
 - [Décret n°2005-1617 du 21 décembre 2005 (MENS0502560D)](decret-n2005-1617-du-21-decembre-2005-mens0502560d)
 - [Décret n°2006-1024 du 21 août 2006 (MCPC0611682D)](decret-n2006-1024-du-21-aout-2006-mcpc0611682d)
