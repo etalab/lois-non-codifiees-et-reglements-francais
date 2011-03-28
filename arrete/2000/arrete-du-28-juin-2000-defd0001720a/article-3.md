@@ -12,6 +12,6 @@ La direction centrale du service de soutien de la flotte comprend les sous-direc
 
 Leurs attributions sont détaillées au titre Ier.
 
-Un bureau de contrôle de gestion, un bureau des munitions et un bureau des ressources humaines, dont les attributions sont détaillées au titre II, sont directement rattachés au directeur central.
+Un bureau de contrôle de gestion     et un bureau des ressources humaines, dont les attributions sont détaillées au titre II, sont directement rattachés au directeur central.
 
 Celui-ci dispose, en outre, de chargés de missions.

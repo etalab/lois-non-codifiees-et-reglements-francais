@@ -1,6 +1,6 @@
 # Article 2
 
-Le directeur central du matériel, officier général de l'armée de terre, est assisté d'un directeur adjoint et d'un second adjoint, officiers généraux ou supérieurs de l'armée de terre. Il peut également disposer de chargés de missions. Les bureaux pilotage, maintenance opérationnelle et munitions lui sont directement rattachés.
+Le directeur central du matériel, officier général de l'armée de terre, est assisté d'un directeur adjoint et d'un second adjoint, officiers généraux ou supérieurs de l'armée de terre. Il peut également disposer de chargés de missions. Les bureaux pilotage    et maintenance opérationnelle lui sont directement rattachés.
 
 Le directeur adjoint remplace le directeur central en cas d'absence ou d'empêchement.
 

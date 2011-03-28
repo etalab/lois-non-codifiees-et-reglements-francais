@@ -6,4 +6,4 @@ Le commandement du soutien des forces aériennes est chargé de la répartition 
 
 Pour ces matériels, il participe aux études, à la définition des spécifications techniques et à l'organisation de l'expérimentation. Il en propose l'évolution, notamment au titre du retour d'expérience.
 
-Il concourt au soutien des matériels aéronautiques et non aéronautiques réalisés par la direction générale de l'armement, la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense et la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
+Il concourt au soutien des matériels aéronautiques et non aéronautiques réalisés par la direction générale de l'armement, la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense                , la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense et le service interarmées des munitions.

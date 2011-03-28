@@ -44,4 +44,6 @@ XIX. - Des organismes de formation, des organismes logistiques, des organismes d
 
 XX. - Les officiers généraux chargés des zones de soutien ;
 
-XXI. - Les commandants de base de défense.
+XXI. - Les commandants de base de défense ;
+
+XXII. - Le service interarmées des munitions.
