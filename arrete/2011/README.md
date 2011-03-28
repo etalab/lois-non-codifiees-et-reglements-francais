@@ -72,7 +72,6 @@
 - [Arrêté du 3 mars 2011 (DEVA1104621A)](arrete-du-3-mars-2011-deva1104621a)
 - [Arrêté du 3 mars 2011 (DEVA1106104A)](arrete-du-3-mars-2011-deva1106104a)
 - [Arrêté du 3 mars 2011 (DEVL1106263A)](arrete-du-3-mars-2011-devl1106263a)
-- [Arrêté du 3 mars 2011 (ETSP1108076A)](arrete-du-3-mars-2011-etsp1108076a)
 - [Arrêté du 3 mars 2011 (INDR1106756A)](arrete-du-3-mars-2011-indr1106756a)
 - [Arrêté du 3 mars 2011 (JUSB1104661A)](arrete-du-3-mars-2011-jusb1104661a)
 - [Arrêté du 3 mars 2011 (MENE1106384A)](arrete-du-3-mars-2011-mene1106384a)
