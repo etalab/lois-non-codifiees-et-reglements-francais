@@ -1244,7 +1244,6 @@
 - [Décret n°2009-1347 du 29 octobre 2009 (IOCE0923229D)](decret-n2009-1347-du-29-octobre-2009-ioce0923229d)
 - [Décret n°2009-1348 du 29 octobre 2009 (ESRR0914957D)](decret-n2009-1348-du-29-octobre-2009-esrr0914957d)
 - [Décret n°2009-1350 du 29 octobre 2009 (AGRT0919916D)](decret-n2009-1350-du-29-octobre-2009-agrt0919916d)
-- [Décret n°2009-1663 du 29 décembre 2009 (IOCA0930917D)](decret-n2009-1663-du-29-decembre-2009-ioca0930917d)
 - [Décret n°2009-1669 du 29 décembre 2009 (AGRS0927616D)](decret-n2009-1669-du-29-decembre-2009-agrs0927616d)
 - [Décret n°2009-478 du 29 avril 2009 (ECED0909664D)](decret-n2009-478-du-29-avril-2009-eced0909664d)
 - [Décret n°2009-479 du 29 avril 2009 (ECEZ0908266D)](decret-n2009-479-du-29-avril-2009-ecez0908266d)
