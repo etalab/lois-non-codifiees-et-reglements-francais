@@ -2,9 +2,9 @@
 
 I. - A Mayotte :
 
-Les articles 1er (I), 3 à 27, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables, à l'exception du 9° de l'article 53, en tant qu'il concerne les conditions d'application de l'article 27 relatives aux caisses qui y sont mentionnées.
+Ne sont pas applicables le III de l'article 1er, les articles 2, 42 à 48, les I, III et IV de l'article 50, l'article 52, les 13° et 15° de l'article 53, les articles 54 à 66-3, 66-4, 66-6, 76 et 83 à 92.
 
-Toutefois, pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
+Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
 Pour l'application des articles 12 et 13, les références aux dispositions du code du travail sont remplacées par les références aux dispositions de même nature du code du travail applicable à la collectivité territoriale de Mayotte.
 
@@ -32,7 +32,7 @@ Toutefois :
 
 III. - Dans les îles Wallis et Futuna :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5 , 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
@@ -58,7 +58,7 @@ Pour l'application de la présente loi, les mots : "tribunal de grande instance"
 
 V. - En Nouvelle-Calédonie :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 

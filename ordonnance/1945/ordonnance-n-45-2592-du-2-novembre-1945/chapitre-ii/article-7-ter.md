@@ -1,3 +1,3 @@
 # Article 7 ter
 
-Les membres des bureaux de la chambre régionale et des chambres départementales de chaque cour d'appel se réunissent pour élire le délégué appelé à faire partie de la chambre nationale.
+L'ensemble des huissiers de justice relevant de chaque chambre régionale se réunit pour élire le délégué appelé à faire partie de la chambre nationale, dans les conditions prévues par un décret en Conseil d'Etat.

@@ -2,7 +2,7 @@
 
 Il peut être constitué entre personnes physiques ou morales exerçant une ou plusieurs professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé des sociétés de participations financières ayant pour objet la détention des parts ou d'actions de sociétés mentionnées au premier alinéa de l'article 1er ayant pour objet l'exercice d'une même profession ainsi que la participation à tout groupement de droit étranger ayant pour objet l'exercice de la même profession. Ces sociétés peuvent avoir des activités accessoires en relation directe avec leur objet et destinées exclusivement aux sociétés ou aux groupements dont elles détiennent des participations.
 
-Ces sociétés peuvent être constituées sous la forme de sociétés à responsabilité limitée, de sociétés anonymes, de sociétés par actions simplifiées ou de sociétés en commandite par actions régies par le livre II du code de commerce, sous réserve des dispositions contraires du présent titre.
+Ces sociétés peuvent être constituées sous la forme de sociétés à responsabilité limitée, de sociétés anonymes, de sociétés par actions simplifiées ou de sociétés en commandite par actions régies par le livre II du code de commerce, sous réserve des dispositions contraires du présent article.
 
 Plus de la moitié du capital et des droits de vote doit être détenue par des personnes exerçant la même profession que celle exercée par les sociétés faisant l'objet de la détention des parts ou actions.
 
@@ -16,4 +16,4 @@ Les actions de sociétés de prises de participations à forme anonyme, en comma
 
 Les sociétés de participations financières doivent être inscrites sur la liste ou au tableau de l'ordre ou des ordres professionnels concernés.
 
-Un décret en Conseil d'Etat précise, pour chaque profession, les conditions d'application du présent titre, et notamment les modalités d'agrément des sociétés de participations financières de professions libérales ayant pour objet la détention de parts ou d'actions de sociétés titulaires d'offices publics ou ministériels.
+Un décret en Conseil d'Etat précise, pour chaque profession, les conditions d'application du présent article, et notamment les modalités d'agrément de la prise de parts ou d'actions de sociétés titulaires d'offices publics ou ministériels, ainsi que les modalités de contrôle des sociétés de participations financières de professions libérales par les autorités compétentes.

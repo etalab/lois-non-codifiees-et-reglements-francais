@@ -9,6 +9,7 @@
 - [Article 7](article-7.md)
 - [Article 7 bis](article-7-bis.md)
 - [Article 7 ter](article-7-ter.md)
+- [Article 7 quater](article-7-quater.md)
 - [Article 12](article-12.md)
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)

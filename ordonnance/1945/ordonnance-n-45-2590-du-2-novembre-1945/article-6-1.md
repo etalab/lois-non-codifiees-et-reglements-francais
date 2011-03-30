@@ -1,5 +1,5 @@
 # Article 6-1
 
-La responsabilité civile professionnelle des notaires est garantie par un contrat d'assurance souscrit par le Conseil supérieur du notariat.
+Dans des conditions fixées par décret en Conseil d'Etat, le conseil supérieur du notariat centralise et diffuse les données visées à l'article 6 de la loi du 25 ventôse an XI contenant organisation du notariat.
 
-Les conseils régionaux de notaires peuvent souscrire des garanties complémentaires.
+La mise en œuvre de cette mission de service public peut être déléguée par le conseil supérieur du notariat à tout organisme de droit privé placé sous son contrôle.

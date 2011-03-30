@@ -4,6 +4,8 @@ Le conseil se prononce définitivement, lorsqu'il s'agit de police et de discipl
 
 Les actions en responsabilité civile professionnelle engagées à l'encontre d'un avocat au Conseil d'Etat et à la Cour de cassation sont portées, après avis du conseil de l'ordre, devant le Conseil d'Etat, quand les faits ont trait aux fonctions exercées devant le tribunal des conflits et les juridictions de l'ordre administratif, et devant la Cour de cassation dans les autres cas.
 
+Le conseil de l'ordre peut, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif de la profession.
+
 Le titre d'avocat honoraire au Conseil d'Etat et à la Cour de cassation peut être conféré par délibération du conseil de l'ordre aux avocats qui ont été inscrits au tableau pendant vingt ans et qui ont donné leur démission.
 
 Les avocats honoraires restent soumis à la juridiction disciplinaire du conseil de l'ordre.

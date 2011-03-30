@@ -8,7 +8,7 @@ I.-Les experts-comptables sont admis à constituer, pour exercer leur profession
 
 3° L'offre au public de titres financiers n'est autorisée que pour des titres excluant l'accès, même différé ou conditionnel, au capital ;
 
-4° Les gérants, le président du conseil d'administration ou les membres du directoire doivent être des experts-comptables, membres de la société ;
+4° Les gérants, le président de la société par actions simplifiée, le président du conseil d'administration ou les membres du directoire doivent être des experts-comptables, membres de la société ;
 
 5° La société membre de l'ordre communique annuellement aux conseils de l'ordre dont elle relève la liste de ses associés ainsi que toute modification apportée à cette liste.
 

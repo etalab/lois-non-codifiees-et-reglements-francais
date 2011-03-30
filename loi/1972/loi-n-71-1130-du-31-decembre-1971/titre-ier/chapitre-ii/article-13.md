@@ -20,4 +20,4 @@ Le centre régional de formation professionnelle est chargé, dans le respect de
 
 6° D'assurer la formation continue des avocats ;
 
-7° D'organiser le contrôle des connaissances prévu au premier alinéa de l'article 12-1 et de délivrer les certificats de spécialisation.
+7° D'organiser l'entretien de validation de la compétence professionnelle prévu au deuxième alinéa de l'article 12-1 pour l'obtention d'un certificat de spécialisation.

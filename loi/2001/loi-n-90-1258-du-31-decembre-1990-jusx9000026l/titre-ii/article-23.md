@@ -1,6 +1,6 @@
 # Article 23
 
-Les associés sont tenus solidairement et indéfiniment à l'égard des tiers des engagements pris par chacun d'eux en qualité d'associé.
+Les associés sont tenus  indéfiniment à l'égard des tiers des engagements pris par chacun d'eux en qualité d'associé.
 
 Si la convention qui fonde la société en participation ne prévoit pas les modalités de l'admission et de la révocation d'un associé, la décision est prise à l'unanimité des associés non concernés.
 

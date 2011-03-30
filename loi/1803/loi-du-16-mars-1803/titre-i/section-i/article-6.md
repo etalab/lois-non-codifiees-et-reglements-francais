@@ -1,3 +1,3 @@
 # Article 6
 
-Chaque notaire devra résider dans le lieu qui lui sera fixé par le Gouvernement. En cas de contravention, le notaire sera considéré comme démissionnaire ; en conséquence, le grand-juge, ministre de la justice, après avoir pris l'avis du tribunal, pourra proposer au Gouvernement le remplacement.
+Les notaires contribuent à la diffusion des informations relatives aux mutations d'immeubles à titre onéreux. Ils transmettent au conseil supérieur du notariat les données nécessaires à l'exercice de cette mission de service public dans des conditions précisées par décret en Conseil d'Etat.

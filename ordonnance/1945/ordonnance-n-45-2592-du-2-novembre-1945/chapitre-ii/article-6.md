@@ -2,7 +2,7 @@
 
 La chambre départementale a pour attribution :
 
-1° D'établir, en ce qui concerne les usages de la profession, ainsi que les rapports des huissiers entre eux et avec la clientèle, un règlement qui sera soumis à l'approbation du garde des sceaux, ministre de la justice ;
+1° (Abrogé) ;
 
 2° De dénoncer les infractions disciplinaires dont elle a connaissance ;
 

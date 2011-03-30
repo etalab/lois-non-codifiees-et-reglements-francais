@@ -10,7 +10,7 @@ Sous réserve de l'application des dispositions de l'article 6, le complément p
 
 3° Les ayants droit des personnes physiques mentionnées ci-dessus pendant un délai de cinq ans suivant leur décès ;
 
-4° Une société constituée dans les conditions prévues à l'article 220 quater A du code général des impôts ou une société de participation financière de professions libérales régie par le titre IV de la présente loi, si les membres de ces sociétés exercent leur profession au sein de la société d'exercice libéral ;
+4° Une société constituée dans les conditions prévues à l'article 220 quater A du code général des impôts, si les membres de cette société exercent leur profession au sein de la société d'exercice libéral, ou une société de participations financières de professions libérales régie par le titre IV de la présente loi ;
 
 5° Des personnes exerçant soit l'une quelconque des professions libérales de santé, soit l'une quelconque des professions libérales juridiques ou judiciaires, soit l'une quelconque des autres professions libérales, visées au premier alinéa de l'article 1er, selon que l'exercice de l'une de ces professions constitue l'objet social.
 
