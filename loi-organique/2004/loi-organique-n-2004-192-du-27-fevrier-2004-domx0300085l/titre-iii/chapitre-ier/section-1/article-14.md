@@ -4,7 +4,7 @@ Les autorités de l'Etat sont compétentes dans les seules matières suivantes :
 
 1° Nationalité ; droits civiques ; droit électoral ; droits civils, état et capacité des personnes, notamment actes de l'état civil, absence, mariage, divorce, filiation ; autorité parentale ; régimes matrimoniaux, successions et libéralités ;
 
-2° Garantie des libertés publiques ; justice : organisation judiciaire, aide juridictionnelle, organisation de la profession d'avocat, à l'exclusion de toute autre profession juridique ou judiciaire, droit pénal, procédure pénale, commissions d'office, service public pénitentiaire, services et établissements d'accueil des mineurs délinquants sur décision judiciaire, procédure administrative contentieuse, frais de justice pénale et administrative, attributions du Médiateur de la République et du Défenseur des enfants dans les relations entre les citoyens, les collectivités publiques et les services publics ;
+2° Garantie des libertés publiques ; justice : organisation judiciaire, aide juridictionnelle, organisation de la profession d'avocat, à l'exclusion de toute autre profession juridique ou judiciaire, droit pénal, procédure pénale, commissions d'office, service public pénitentiaire, services et établissements d'accueil des mineurs délinquants sur décision judiciaire, procédure administrative contentieuse, frais de justice pénale et administrative (1) ;
 
 3° Politique étrangère ;
 

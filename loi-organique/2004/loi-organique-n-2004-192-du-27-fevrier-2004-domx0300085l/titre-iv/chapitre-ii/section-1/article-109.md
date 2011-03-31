@@ -10,7 +10,7 @@ I.-Sont inéligibles à l'assemblée de la Polynésie française :
 
 4° Les personnes déclarées inéligibles en application de l'article L. 118-3 du code électoral ;
 
-5° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur nomination.
+5° Le Défenseur des droits (1).
 
 II.-En outre, ne peuvent être élus membres de l'assemblée de la Polynésie française s'ils exercent leurs fonctions en Polynésie française ou s'ils les ont exercées depuis moins de six mois :
 

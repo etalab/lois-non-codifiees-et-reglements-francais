@@ -4,7 +4,7 @@ Dans les matières qui relèvent de la compétence de l'Etat, sont applicables e
 
 Par dérogation au premier alinéa, sont applicables de plein droit en Polynésie française, sans préjudice de dispositions les adaptant à son organisation particulière, les dispositions législatives et réglementaires qui sont relatives :
 
-1° A la composition, l'organisation, le fonctionnement et les attributions des pouvoirs publics constitutionnels de la République, du Conseil d'Etat, de la Cour de cassation, de la Cour des comptes, du Tribunal des conflits et de toute juridiction nationale souveraine, ainsi que du Médiateur de la République, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité, de la Commission nationale de l'informatique et des libertés et du Contrôleur général des lieux de privation de liberté ;
+1° A la composition, l'organisation, le fonctionnement et les attributions des pouvoirs publics constitutionnels de la République, du Conseil d'Etat, de la Cour de cassation, de la Cour des comptes, du Tribunal des conflits et de toute juridiction nationale souveraine, ainsi que de la Commission nationale de l'informatique et des libertés et du Contrôleur général des lieux de privation de liberté (1) ;
 
 2° A la défense nationale ;
 

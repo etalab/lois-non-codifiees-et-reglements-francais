@@ -4,8 +4,8 @@
 <tbody>
 <tr>
 <th>
-<br/>INSTITUTION, ORGANISME,<br/>
-<br/>ÉTABLISSEMENT OU ENTREPRISE<br/>
+<br/>INSTITUTION, ORGANISME, <p>ÉTABLISSEMENT OU ENTREPRISE<br/>
+</p>
 </th>
 <th>
 <br/>EMPLOI OU FONCTION<br/>
@@ -197,14 +197,6 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Commission nationale de déontologie de la sécurité<br/>
-</td>
-<td align="center">
-<br/>Président<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Commission prévue au dernier alinéa de l'article 25 de la Constitution<br/>
 </td>
 <td align="center">
@@ -237,14 +229,6 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Défenseur des enfants<br/>
-</td>
-<td align="center">
-<br/>Défenseur des enfants<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Electricité de France <br/>
 </td>
 <td align="center">
@@ -270,14 +254,6 @@
 <tr>
 <td align="center">
 <br/>Haut conseil des biotechnologies<br/>
-</td>
-<td align="center">
-<br/>Président<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Haute autorité de lutte contre les discriminations et pour l'égalité<br/>
 </td>
 <td align="center">
 <br/>Président<br/>
@@ -321,14 +297,6 @@
 </td>
 <td align="center">
 <br/>Directeur général<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Médiateur de la République <br/>
-</td>
-<td align="center">
-<br/>Médiateur de la République<br/>
 </td>
 </tr>
 <tr>

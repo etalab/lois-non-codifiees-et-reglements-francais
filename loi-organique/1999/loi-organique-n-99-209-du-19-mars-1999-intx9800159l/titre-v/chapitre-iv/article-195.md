@@ -12,6 +12,8 @@ I.-Sont inéligibles au congrès et aux assemblées de province :
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-410 DC du 15 mars 1999.]
 
+5° Le Défenseur des droits.
+
 II.-En outre, ne peuvent être élus membres du congrès ou d'une assemblée de province, dans la circonscription où ils se présentent, pendant l'exercice de leurs fonctions ou au cours des six mois suivant la cessation de ces fonctions :
 
 1° Les magistrats des juridictions administratives et des juridictions judiciaires ;
@@ -26,7 +28,7 @@ II.-En outre, ne peuvent être élus membres du congrès ou d'une assemblée de 
 
 6° Le secrétaire général et les secrétaires généraux adjoints du gouvernement et les secrétaires généraux et secrétaires généraux adjoints des provinces, les directeurs généraux, inspecteurs généraux, inspecteurs, directeurs, directeurs adjoints de la Nouvelle-Calédonie ou des provinces ou de l'un des établissements publics de la Nouvelle-Calédonie ou des provinces ;
 
-7°           Les agents et comptables de la Nouvelle-Calédonie et des provinces agissant en qualité de fonctionnaires, employés à l'assiette, à la perception et au recouvrement des contributions directes ou indirectes, et au paiement des dépenses publiques de toute nature.
+7° Les agents et comptables de la Nouvelle-Calédonie et des provinces agissant en qualité de fonctionnaires, employés à l'assiette, à la perception et au recouvrement des contributions directes ou indirectes, et au paiement des dépenses publiques de toute nature.
 
 III.-Tout membre du congrès ou d'une assemblée de province dont l'inéligibilité se révélera après l'expiration du délai pendant lequel son élection peut être contestée ou qui, pendant la durée de son mandat, se trouvera frappé de l'une des incapacités qui fait perdre la qualité d'électeur, est déclaré démissionnaire par arrêté du haut-commissaire, soit d'office, soit sur réclamation de tout électeur. Les recours contre ces arrêtés sont portés devant le Conseil d'Etat.
 
