@@ -413,6 +413,14 @@ NOMBRE DE CIRCONSCRIPTIONS DANS LES DÉPARTEMENTS, LA NOUVELLE-CALÉDONIE, LES C
 <td align="center">3</td>
 </tr>
 <tr>
+<td>
+<p align="center"> Mayotte </p>
+</td>
+<td>
+<p align="center"> 2</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Meurthe-et-Moselle <br/>
 </td>
@@ -702,8 +710,8 @@ NOMBRE DE CIRCONSCRIPTIONS DANS LES DÉPARTEMENTS, LA NOUVELLE-CALÉDONIE, LES C
 </tr>
 <tr>
 <td align="center">
-<br/>NOUVELLE-CALÉDONIE <br/>
-<br/>ET COLLECTIVITÉS D'OUTRE-MER <br/>
+<br/>NOUVELLE-CALÉDONIE <p>ET COLLECTIVITÉS D'OUTRE-MER <br/>
+</p>
 </td>
 <td align="center">
 <br/>NOMBRE DE CIRCONSCRIPTIONS <br/>
@@ -731,14 +739,6 @@ NOMBRE DE CIRCONSCRIPTIONS DANS LES DÉPARTEMENTS, LA NOUVELLE-CALÉDONIE, LES C
 </td>
 <td align="center">
 <br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mayotte <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
 </td>
 </tr>
 <tr>
