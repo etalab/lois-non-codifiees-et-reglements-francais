@@ -1,0 +1,5 @@
+# TITRE IV : DISPOSITIONS RELATIVES A L'ORGANISATION ET AU FONCTIONNEMENT DU DEFENSEUR DES DROITS
+
+- [Article 37](article-37.md)
+- [Article 38](article-38.md)
+- [Article 39](article-39.md)
