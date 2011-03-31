@@ -1,165 +1,153 @@
 # Article Annexe 2
 
 RYTHME SUD
+
 A compter de l'année scolaire 2010-2011
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>PAYS DE RÉSIDENCE <br/>
+<br/>PAYS DE RÉSIDENCE (RYTHME SUD) <br/>
 </th>
 <th>
-<br/>ENFANTS <p>de moins de 10 ans <br/>
-</p>
+<br/>ENFANTS <br/>
+<br/>de moins de 10 ans <br/>
 </th>
 <th>
-<br/>ENFANTS <p>de 10 à 15 ans <br/>
-</p>
+<br/>ENFANTS <br/>
+<br/>de 10 à 15 ans <br/>
 </th>
 <th>
-<br/>ENFANTS <p>de plus de 15 ans <br/>
-</p>
+<br/>ENFANTS <br/>
+<br/>de plus de 15 ans <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">ARGENTINE <br/>
-</p>
+<br/>ARGENTINE <br/>
 </td>
 <td align="center">
-<br/>401 <br/>
+<br/>471 <br/>
 </td>
 <td align="center">
-<br/>415 <br/>
+<br/>488 <br/>
 </td>
 <td align="center">
-<br/>453 <br/>
+<br/>533 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">BOLIVIE <br/>
-</p>
+<br/>BOLIVIE <br/>
+</td>
+<td align="center">
+<br/>284 <br/>
+</td>
+<td align="center">
+<br/>289 <br/>
+</td>
+<td align="center">
+<br/>295 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>BRESIL (São Paulo) <br/>
+</td>
+<td align="center">
+<br/>803 <br/>
+</td>
+<td align="center">
+<br/>842 <br/>
+</td>
+<td align="center">
+<br/>868 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>BRESIL (Rio de Janeiro) <br/>
+</td>
+<td align="center">
+<br/>816 <br/>
+</td>
+<td align="center">
+<br/>816 <br/>
+</td>
+<td align="center">
+<br/>816 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>CHILI <br/>
+</td>
+<td align="center">
+<br/>464 <br/>
+</td>
+<td align="center">
+<br/>464 <br/>
+</td>
+<td align="center">
+<br/>464 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>COSTA RICA <br/>
+</td>
+<td align="center">
+<br/>283 <br/>
+</td>
+<td align="center">
+<br/>283 <br/>
+</td>
+<td align="center">
+<br/>283 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>PEROU <br/>
+</td>
+<td align="center">
+<br/>402 <br/>
+</td>
+<td align="center">
+<br/>402 <br/>
+</td>
+<td align="center">
+<br/>402 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>URUGUAY <br/>
+</td>
+<td align="center">
+<br/>484 <br/>
+</td>
+<td align="center">
+<br/>590 <br/>
+</td>
+<td align="center">
+<br/>663 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>VANUATU <br/>
 </td>
 <td align="center">
 <br/>260 <br/>
 </td>
 <td align="center">
-<br/>307 <br/>
+<br/>315 <br/>
 </td>
 <td align="center">
-<br/>335 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">BRESIL Sao Paulo <br/>
-</p>
-</td>
-<td align="center">
-<br/>635 <br/>
-</td>
-<td align="center">
-<br/>665 <br/>
-</td>
-<td align="center">
-<br/>685 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">BRESIL Rio de Janeiro <br/>
-</p>
-</td>
-<td align="center">
-<br/>642 <br/>
-</td>
-<td align="center">
-<br/>642 <br/>
-</td>
-<td align="center">
-<br/>642 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">CHILI <br/>
-</p>
-</td>
-<td align="center">
-<br/>414 <br/>
-</td>
-<td align="center">
-<br/>414 <br/>
-</td>
-<td align="center">
-<br/>414 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">COSTA RICA <br/>
-</p>
-</td>
-<td align="center">
-<br/>256 <br/>
-</td>
-<td align="center">
-<br/>281 <br/>
-</td>
-<td align="center">
-<br/>310 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">PEROU <br/>
-</p>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
-</td>
-<td align="center">
-<br/>400 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">URUGUAY <br/>
-</p>
-</td>
-<td align="center">
-<br/>430 <br/>
-</td>
-<td align="center">
-<br/>522 <br/>
-</td>
-<td align="center">
-<br/>586 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">VANUATU <br/>
-</p>
-</td>
-<td align="center">
-<br/>246 <br/>
-</td>
-<td align="center">
-<br/>288 <br/>
-</td>
-<td align="center">
-<br/>372 <br/>
+<br/>434<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="left">
-<br/>
-</div>
