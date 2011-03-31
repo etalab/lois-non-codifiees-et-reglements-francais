@@ -18,9 +18,9 @@ d) Elle répond aux demandes d'avis des pouvoirs publics et, le cas échéant, d
 
 e) Elle informe sans délai le procureur de la République, conformément à l'article 40 du code de procédure pénale, des infractions dont elle a connaissance, et peut présenter des observations dans les procédures pénales, dans les conditions prévues à l'article 52 ;
 
-f) Elle peut, par décision particulière, charger un ou plusieurs de ses membres ou des agents de ses services, dans les conditions prévues à l'article 44, de procéder à des vérifications portant sur tous traitements et, le cas échéant, d'obtenir des copies de tous documents ou supports d'information utiles à ses missions ;
+f) Elle peut, par décision particulière, charger un ou plusieurs de ses membres ou le secrétaire général, dans les conditions prévues à l'article 44, de procéder ou de faire procéder par les agents de ses services à des vérifications portant sur tous traitements et, le cas échéant, d'obtenir des copies de tous documents ou supports d'information utiles à ses missions ;
 
-g) Elle peut, dans les conditions définies au chapitre VII, prononcer à l'égard d'un responsable de traitement l'une des mesures prévues à l'article 45 ;
+g) (Abrogé)
 
 h) Elle répond aux demandes d'accès concernant les traitements mentionnés aux articles 41 et 42 ;
 
@@ -36,7 +36,7 @@ c) Elle délivre un label à des produits ou à des procédures tendant à la pr
 
 A ce titre :
 
-a) Elle est consultée sur tout projet de loi ou de décret relatif à la protection des personnes à l'égard des traitements automatisés. A la demande du président de l'une des commissions permanentes prévue à l'article 43 de la Constitution, l'avis de la commission sur tout projet de loi est rendu public ;
+a) Elle est consultée sur tout projet de loi ou de décret relatif à la protection des personnes à l'égard des traitements automatisés.A la demande du président de l'une des commissions permanentes prévue à l'article 43 de la Constitution, l'avis de la commission sur tout projet de loi est rendu public ;
 
 b) Elle propose au Gouvernement les mesures législatives ou réglementaires d'adaptation de la protection des libertés à l'évolution des procédés et techniques informatiques ;
 

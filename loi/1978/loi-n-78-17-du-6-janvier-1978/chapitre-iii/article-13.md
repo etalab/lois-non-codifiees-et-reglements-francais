@@ -4,7 +4,7 @@ I.-La Commission nationale de l'informatique et des libertés est composée de d
 
 1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat ;
 
-2° Deux membres du   Conseil économique, social et environnemental, élus par cette assemblée ;
+2° Deux membres du Conseil économique, social et environnemental, élus par cette assemblée ;
 
 3° Deux membres ou anciens membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ;
 
@@ -16,13 +16,21 @@ I.-La Commission nationale de l'informatique et des libertés est composée de d
 
 7° Deux personnalités qualifiées pour leur connaissance de l'informatique, désignées respectivement par le Président de l'Assemblée nationale et par le Président du Sénat.
 
+Elle comprend en outre, avec voix consultative, le Défenseur des droits ou son représentant.
+
 La commission élit en son sein un président et deux vice-présidents, dont un vice-président délégué. Ils composent le bureau.
 
-La formation restreinte de la commission est composée du président, des vice-présidents et de trois membres élus par la commission en son sein pour la durée de leur mandat.
+La fonction de président de la commission est incompatible avec toute activité professionnelle, tout mandat électif national, tout autre emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur des communications électroniques ou de l'informatique (1).
+
+La durée du mandat de président est de cinq ans (1).
+
+Le président de la commission reçoit un traitement égal à celui afférent à la seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle (1).
+
+La formation restreinte de la commission est composée d'un président et de cinq autres membres élus par la commission en son sein. Les membres du bureau ne sont pas éligibles à la formation restreinte.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-II.-Le mandat des membres de la commission mentionnés aux 3°, 4°, 5°, 6° et 7° du I est de cinq ans ; il est renouvelable une fois. Les membres mentionnés aux 1° et 2° siègent pour la durée du mandat à l'origine de leur désignation ; leurs mandats de membre de la Commission nationale de l'informatique et des libertés ne peuvent excéder une durée de dix ans.
+II.-Le mandat des membres de la commission est de cinq ans ; il est renouvelable une fois.
 
 Le membre de la commission qui cesse d'exercer ses fonctions en cours de mandat est remplacé, dans les mêmes conditions, pour la durée de son mandat restant à courir.
 

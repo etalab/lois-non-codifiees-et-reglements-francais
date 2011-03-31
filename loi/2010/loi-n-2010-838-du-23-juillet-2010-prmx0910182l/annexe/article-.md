@@ -149,12 +149,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Président de la Commission nationale de déontologie de la sécurité<br/>
-</td>
-<td align="center">Commission compétente en matière de libertés publiques<br/>
-</td>
-</tr>
-<tr>
 <td align="center">Président de la commission prévue au dernier alinéa de l'article 25 de la Constitution<br/>
 </td>
 <td align="center">Commission compétente en matière de lois électorales<br/>
@@ -174,12 +168,6 @@
 </tr>
 <tr>
 <td align="center">Contrôleur général des lieux de privation de liberté <br/>
-</td>
-<td align="center">Commission compétente en matière de libertés publiques<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Défenseur des enfants<br/>
 </td>
 <td align="center">Commission compétente en matière de libertés publiques<br/>
 </td>
@@ -206,12 +194,6 @@
 <td align="center">Président du Haut conseil des biotechnologies <br/>
 </td>
 <td align="center">Commission compétente en matière d'environnement<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Président de la Haute autorité de lutte contre les discriminations et pour l'égalité<br/>
-</td>
-<td align="center">Commission compétente en matière de libertés publiques<br/>
 </td>
 </tr>
 <tr>
@@ -242,12 +224,6 @@
 <td align="center">Directeur général de l'institution nationale publique mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi)<br/>
 </td>
 <td align="center">Commission compétente en matière d'emploi<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Médiateur de la République <br/>
-</td>
-<td align="center">Commission compétente en matière de libertés publiques<br/>
 </td>
 </tr>
 <tr>
