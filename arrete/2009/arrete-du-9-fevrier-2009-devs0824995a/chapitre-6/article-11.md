@@ -6,6 +6,6 @@ Tout acquéreur d'un véhicule déjà immatriculé doit demander l'établissemen
 
 Cette obligation ne s'impose pas dans les cas suivants :
 
-― lorsque le véhicule est acheté par un professionnel du commerce de l'automobile dans le cadre de son activité de négoce, par une entreprise d'assurance dans le cadre d'une procédure d'indemnisation ou par un professionnel de la destruction ;
+― lorsque le véhicule est acheté par un professionnel du commerce de l'automobile dans le cadre de son activité de négoce, par une entreprise d'assurance dans le cadre d'une procédure d'indemnisation ou par un centre véhicules hors d'usage (VHU) ;
 
 ― lorsqu'il s'agit d'un véhicule gagé attribué par jugement à une société de crédit automobile et revendu ensuite.

@@ -1,8 +1,6 @@
 # Article Annexe I
 
-**PIÈCES JUSTIFICATIVES À PRÉSENTER DANS LE CADRE
-
-D'UN DOSSIER DE DEMANDE D'IMMATRICULATION**
+**PIÈCES JUSTIFICATIVES À PRÉSENTER DANS LE CADRE D'UN DOSSIER DE DEMANDE D'IMMATRICULATION**
 
 1. Document dit 3 en 1
 
@@ -86,7 +84,9 @@ b) Preuve d'un contrôle technique : document prouvant un contrôle technique en
 
 La preuve d'un contrôle technique de moins de six mois en cours de validité est demandée en cas de cession.
 
-c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions.
+c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions ;
+
+d) Procès-verbal de RI : procès-verbal de réception individuelle délivré pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 susvisé.
 
 4. Justificatifs fiscaux
 
