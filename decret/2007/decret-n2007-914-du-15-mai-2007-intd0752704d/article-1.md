@@ -20,6 +20,8 @@ Relèvent des dispositions du dernier alinéa du I de l'article 30 de la loi du 
 
 9. Décret portant création de l'application relative à la prévention des atteintes à la sécurité publique ;
 
-10. Arrêté relatif à la création d'un système de traitement automatisé de données à caractère personnel dénommé STARTRAC mis en œuvre par le service à compétence nationale TRACFIN.
+10. Arrêté relatif à la création d'un système de traitement automatisé de données à caractère personnel dénommé STARTRAC mis en œuvre par le service à compétence nationale TRACFIN ;
+
+11. Décret autorisant la création d'un traitement de données à caractère personnel relatif à la gestion de l'information et la prévention des atteintes à la sécurité publique.
 
 Les demandes d'avis portant sur les traitements énumérés au présent article comportent les mentions figurant à l'article 16 du décret du 20 octobre 2005 susvisé.
