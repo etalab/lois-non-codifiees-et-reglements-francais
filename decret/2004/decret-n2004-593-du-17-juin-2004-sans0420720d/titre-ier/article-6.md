@@ -1,6 +1,6 @@
 # Article 6
 
-Lorsque la décision du conseil d'administration ou de la commission n'a pas été portée à la connaissance du requérant dans le délai d'un mois, l'intéressé peut considérer sa demande comme rejetée et se pourvoir devant le tribunal de première instance de Mayotte.
+Lorsque la décision du conseil d'administration ou de la commission n'a pas été portée à la connaissance du requérant dans le délai d'un mois, l'intéressé peut considérer sa demande comme rejetée et se pourvoir devant    le tribunal de grande instance  de Mayotte.
 
 Toutefois, ce délai est de deux mois lorsque la contestation est formée à l'encontre d'une décision relative aux cotisations de l'assurance des accidents du travail et des maladies professionnelles.
 

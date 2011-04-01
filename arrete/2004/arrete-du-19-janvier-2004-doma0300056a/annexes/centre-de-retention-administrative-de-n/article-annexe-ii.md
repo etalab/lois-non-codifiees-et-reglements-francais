@@ -76,7 +76,7 @@ Si un étranger retenu a un besoin sérieux de se procurer un bien de consommati
 
 Article 14
 
-Des cabines téléphoniques sont en permanence à la disposition des étrangers retenus pour appeler en France et à l'étranger ou de se faire appeler (le numéro d'appel est inscrit sur la cabine). Le montant des communications est à la charge des utilisateurs. Des cartes de téléphones peuvent être achetées au distributeur automatique ou ...
+Des cabines téléphoniques sont en permanence à la disposition des étrangers retenus pour appeler en France et à l'étranger ou de se faire appeler (le numéro d'appel est inscrit sur la cabine). Le montant des communications est à la charge des utilisateurs. Des cartes de téléphones peuvent être achetées au distributeur automatique ou...
 
 Article 15
 
@@ -86,13 +86,13 @@ Article 16
 
 Pendant la durée de leur rétention, les étrangers sont logés, nourris et soignés à titre gratuit.
 
-S'ils sont malades et désirent voir un médecin, ils peuvent s'inscrire pour une consultation médicale auprès de ... Un transport vers l'hôpital de ... est organisé tous les jours à ... heures. Ceux qui doivent suivre un traitement au centre...
+S'ils sont malades et désirent voir un médecin, ils peuvent s'inscrire pour une consultation médicale auprès de... Un transport vers l'hôpital de... est organisé tous les jours à... heures. Ceux qui doivent suivre un traitement au centre...
 
 Article 17
 
 Les agents de l'Office des migrations internationales (OMI) ont pour mission de répondre à toutes les questions des étrangers retenus concernant la vie au centre et l'organisation matérielle de leur départ. Ils sont habilités à effectuer pour le compte de ces derniers toute démarche à l'extérieur, notamment la récupération de bagages ou la clôture de comptes bancaires.
 
-Ces agents peuvent être joints par l'intermédiaire de ...
+Ces agents peuvent être joints par l'intermédiaire de...
 
 TITRE III : DROITS SPÉCIFIQUES ET PROCÉDURE JURIDIQUE.
 
@@ -100,11 +100,11 @@ Article 18
 
 Les étrangers retenus peuvent recevoir la visite de toute personne de leur choix dans les conditions suivantes :
 
-- les visites sont autorisées aux jours et heures suivantes : de 9 heures à 11 h 15 et de 14 heures à 18 heures ;
+-les visites sont autorisées aux jours et heures suivantes : de 9 heures à 11 h 15 et de 14 heures à 18 heures ;
 
-- les visiteurs doivent se soumettre obligatoirement au contrôle de sécurité ;
+-les visiteurs doivent se soumettre obligatoirement au contrôle de sécurité ;
 
-- les visiteurs ne sont reçus que dans le local prévu à cet effet ; pour des raisons de sécurité, le chef de poste pourra limiter le nombre de visiteurs.
+-les visiteurs ne sont reçus que dans le local prévu à cet effet ; pour des raisons de sécurité, le chef de poste pourra limiter le nombre de visiteurs.
 
 Les avocats et interprètes peuvent visiter leurs clients tous les jours sans condition d'heure.
 
@@ -114,7 +114,7 @@ Les représentants consulaires ont accès au centre sur rendez-vous, sans condit
 
 Article 20
 
-Tout étranger retenu peut, à tout moment, saisir les tribunaux (tribunal administratif, tribunal de première instance ou tribunal supérieur d'appel) par télécopie dans les conditions suivantes : la date et l'heure du dépôt de sa requête, ainsi que sa nature et le numéro auquel elle a été transmise, doivent être inscrits sur un registre émargé par l'étranger.
+Tout étranger retenu peut, à tout moment, saisir les tribunaux (tribunal administratif, tribunal de première instance ou    chambre d'appel de Mamoudzou) par télécopie dans les conditions suivantes : la date et l'heure du dépôt de sa requête, ainsi que sa nature et le numéro auquel elle a été transmise, doivent être inscrits sur un registre émargé par l'étranger.
 
 Inversement, lorsqu'un étranger retenu est convoqué ou doit se présenter devant un tribunal, il doit en être informé par l'administration du centre le plus tôt possible.
 

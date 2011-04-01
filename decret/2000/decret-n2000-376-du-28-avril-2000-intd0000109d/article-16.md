@@ -24,11 +24,11 @@ Les autorisations de port d'arme sont délivrées à l'entreprise par le préfet
 
 6° L'article 12 est remplacé par les dispositions suivantes :
 
-I. - Il est créé à Mayotte une commission de la sécurité des transports de fonds.
+I.-Il est créé à Mayotte une commission de la sécurité des transports de fonds.
 
 La commission peut être consultée sur toute question relative à la sécurité des collectes et transports de fonds à Mayotte, ainsi qu'à la sécurité du traitement des moyens de paiement par les entreprises.
 
-II. - La commission de la sécurité des transports de fonds est présidée par le préfet. Elle comprend en outre :
+II.-La commission de la sécurité des transports de fonds est présidée par le préfet. Elle comprend en outre :
 
 1° Des représentants des services de l'Etat désignés par le préfet ;
 
@@ -44,4 +44,4 @@ II. - La commission de la sécurité des transports de fonds est présidée par 
 
 7° Deux convoyeurs de fonds, désignés par le préfet.
 
-Le procureur de la République près le tribunal de première instance est informé des réunions de la commission, ainsi que des avis émis par celle-ci. Il participe, sur sa demande, à ses réunions.
+Le         procureur de la République près le tribunal de grande instance est informé des réunions de la commission, ainsi que des avis émis par celle-ci. Il participe, sur sa demande, à ses réunions.

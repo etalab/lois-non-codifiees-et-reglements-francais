@@ -2,7 +2,7 @@
 
 La contribution de l'Etat à la rétribution des avocats désignés d'office intervenant au cours de la garde à vue est de 28 euros.
 
-Elle est majorée de 14 euros lorsque l'intervention a lieu de nuit, entre 22 heures et 7 heures, et de 11 euros lorsque l'intervention a lieu hors des limites de la commune du siège du tribunal de première instance.
+Elle est majorée de 14 euros lorsque l'intervention a lieu de nuit, entre 22 heures et 7 heures, et de 11 euros lorsque l'intervention a lieu hors des limites de la commune du siège du   tribunal de grande instance.
 
 Ces deux majorations sont cumulables.
 

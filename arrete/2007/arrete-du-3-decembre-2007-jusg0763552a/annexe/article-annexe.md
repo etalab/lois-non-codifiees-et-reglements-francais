@@ -10,7 +10,7 @@ Les juridictions des mineurs.
 
 Le tribunal du travail.
 
-Le tribunal supérieur d'appel.
+La chambre d'appel de Mamoudzou.
 
 La cour criminelle.
 

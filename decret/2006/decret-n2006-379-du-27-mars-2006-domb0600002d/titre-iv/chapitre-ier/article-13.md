@@ -2,15 +2,15 @@
 
 I. - La commission prévue à l'article 15 de l'ordonnance du 20 janvier 2005 susvisée, ci-après dénommée commission d'établissement des listes électorales, est composée comme suit :
 
-- un magistrat désigné par le président du tribunal supérieur d'appel de Mayotte, président ;
+-un magistrat désigné par le      président de la chambre d'appel de Mamoudzou, président ;
 
-- le président sortant de la section agriculture et pêche de la chambre professionnelle de Mayotte ;
+-le président sortant de la section agriculture et pêche de la chambre professionnelle de Mayotte ;
 
-- le président sortant de la section commerce, industrie et services de la chambre professionnelle de Mayotte ;
+-le président sortant de la section commerce, industrie et services de la chambre professionnelle de Mayotte ;
 
-- le président sortant de la section artisanat de la chambre professionnelle de Mayotte ;
+-le président sortant de la section artisanat de la chambre professionnelle de Mayotte ;
 
-- trois représentants de l'Etat désignés par le représentant de l'Etat à Mayotte, dont l'un assure le secrétariat de la commission.
+-trois représentants de l'Etat désignés par le représentant de l'Etat à Mayotte, dont l'un assure le secrétariat de la commission.
 
 II. - Le siège de la commission d'établissement des listes électorales est établi au palais de justice de Mamoudzou.
 

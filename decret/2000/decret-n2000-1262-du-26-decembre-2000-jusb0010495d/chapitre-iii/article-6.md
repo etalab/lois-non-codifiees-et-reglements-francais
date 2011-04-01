@@ -4,6 +4,6 @@ Le maire peut déléguer à un ou plusieurs agents communaux majeurs et titulari
 
 Cette délégation est exercée sous la surveillance et la responsabilité du maire.
 
-L'arrêté portant délégation est transmis au préfet et au procureur de la République près le tribunal supérieur d'appel.
+L'arrêté portant délégation est transmis au préfet et au          procureur général près la cour d'appel.
 
 Le ou les agents communaux délégués dans les conditions prévues au premier alinéa peuvent valablement, sous le contrôle et la responsabilité du maire, délivrer toutes copies et extraits, quelle que soit la nature des actes.

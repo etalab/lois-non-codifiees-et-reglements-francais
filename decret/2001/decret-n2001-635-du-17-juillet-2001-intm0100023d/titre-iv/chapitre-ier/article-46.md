@@ -1,6 +1,6 @@
 # Article 46
 
-Le greffier du tribunal supérieur d'appel fait connaître aux parties et au ministère public la date de l'audience au fond.
+Le greffier     de la chambre d'appel de Mamoudzou fait connaître aux parties et au ministère public la date de l'audience au fond.
 
 Le représentant du Gouvernement, l'avocat de l'étranger et l'étranger lui-même peuvent demander à être entendus à l'audience.
 

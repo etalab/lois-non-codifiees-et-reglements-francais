@@ -2,11 +2,11 @@
 
 Pour l'ensemble des examens professionnels organisés en application de l'arrêté susvisé, sont désignés membres du jury :
 
-I. - Pour l'accès aux corps des catégories A et B :
+I.-Pour l'accès aux corps des catégories A et B :
 
 ― un inspecteur général des affaires sociales, président ;
 
-― un magistrat, vice-président, désigné par le président du tribunal supérieur d'appel ;
+― un magistrat, vice-président, désigné par le      président de la chambre d'appel de Mamoudzou ;
 
 ― un professeur agrégé enseignant à Mayotte, vice-président, à désigner par le vice-recteur ;
 
@@ -20,9 +20,9 @@ I. - Pour l'accès aux corps des catégories A et B :
 
 ― un attaché d'administration, issu de la fonction publique mahoraise et déjà intégré, à désigner conjointement par la directrice de l'action sanitaire et sociale, le directeur de l'équipement et par le directeur du travail, de l'emploi et de la formation professionnelle.
 
-En cas d'empêchement du président désigné, la présidence sera assurée par le magistrat désigné par le président du tribunal supérieur d'appel.
+En cas d'empêchement du président désigné, la présidence sera assurée par le magistrat désigné par le      président de la chambre d'appel de Mamoudzou.
 
-II. - Pour l'accès aux corps de catégorie C et pour l'accès aux corps d'agents techniques et d'agents administratifs de l'Etat à Mayotte régis par le décret du 17 février 2005 susvisé :
+II.-Pour l'accès aux corps de catégorie C et pour l'accès aux corps d'agents techniques et d'agents administratifs de l'Etat à Mayotte régis par le décret du 17 février 2005 susvisé :
 
 ― un fonctionnaire membre d'un corps recruté par la voie de l'Ecole nationale d'administration, président ;
 

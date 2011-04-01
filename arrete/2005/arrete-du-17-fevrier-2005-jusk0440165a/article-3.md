@@ -4,4 +4,4 @@ L'examen professionnel prévu à l'article 1er du présent arrêté, d'une duré
 
 Cette conversation est destinée à apprécier la capacité du candidat à assurer les fonctions correspondant aux corps et grade des services pénitentiaires de l'Etat dans lesquels il souhaite être titularisé.
 
-Le cas échéant, le jury peut faire appel durant l'entretien à un interprète agréé près le tribunal supérieur d'appel de Mayotte.
+Le cas échéant, le jury peut faire appel durant l'entretien à un interprète agréé près     la chambre d'appel de Mamoudzou.

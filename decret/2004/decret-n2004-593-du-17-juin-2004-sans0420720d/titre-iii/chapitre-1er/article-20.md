@@ -1,6 +1,6 @@
 # Article 20
 
-Le tribunal de première instance est saisi des recours dans les matières mentionnées au II de l'article 27 de l'ordonnance du 20 décembre 1996 susvisée par déclaration faite, remise ou adressée au greffe du tribunal de première instance où elle est enregistrée.
+Le tribunal de grande instance  est saisi des recours dans les matières mentionnées au II de l'article 27 de l'ordonnance du 20 décembre 1996 susvisée par déclaration faite, remise ou adressée au greffe du tribunal de grande instance  où elle est enregistrée.
 
 Le recours contre la décision de la caisse doit être présenté dans le délai de deux mois à compter de la date de la notification de cette décision. Toutefois, en cas de recours amiable, ce délai est interrompu. Il court à nouveau à compter soit du jour de la notification au requérant de la décision de la commission de recours amiable, soit à l'expiration des délais prévus à l'article 6.
 

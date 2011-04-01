@@ -1,8 +1,8 @@
 # Article 79
 
-Quand la déclaration d'appel est reçue par le greffier du tribunal de première instance, celui-ci fait parvenir sans délai une copie de la déclaration d'appel et le dossier de l'affaire au greffe du tribunal supérieur d'appel.
+Quand la déclaration d'appel est reçue par le greffier du tribunal de première instance, celui-ci fait parvenir sans délai une copie de la déclaration d'appel et le dossier de l'affaire au greffe     de la chambre d'appel de Mamoudzou.
 
-Quand la déclaration d'appel est reçue par le greffier du tribunal supérieur d'appel, celui-ci avise sur-le-champ le greffier du tribunal de première instance qui transmet sans délai le dossier au greffe du tribunal supérieur d'appel.
+Quand la déclaration d'appel est reçue par le greffier     de la chambre d'appel de Mamoudzou, celui-ci avise sur-le-champ le greffier du tribunal de première instance qui transmet sans délai le dossier au greffe     de la chambre d'appel de Mamoudzou.
 
 Le greffier de la cour d'appel informe par tous moyens les autres personnes qui auraient eu qualité pour faire appel et leur fait connaître la date de l'audience.
 

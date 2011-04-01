@@ -1,8 +1,8 @@
 # Article 47
 
-Lorsque le demandeur à l'aide juridictionnelle ne produit pas de document attestant l'acceptation d'un avocat, d'une personne agréée ou d'un officier public ou ministériel choisi par lui, la désignation de l'auxiliaire de justice ou de la personne agréée peut être effectuée sur-le-champ par le président du tribunal supérieur d'appel.
+Lorsque le demandeur à l'aide juridictionnelle ne produit pas de document attestant l'acceptation d'un avocat, d'une personne agréée ou d'un officier public ou ministériel choisi par lui, la désignation de l'auxiliaire de justice ou de la personne agréée peut être effectuée sur-le-champ par le président     de la chambre d'appel de Mamoudzou.
 
-Le président du tribunal supérieur d'appel avise de cette désignation :
+Le président     de la chambre d'appel de Mamoudzou avise de cette désignation :
 
 1° L'avocat, la personne agréée ou l'officier public ou ministériel intéressé, à qui il transmet copie de la décision en lui rappelant les dispositions de l'article 30 ;
 
