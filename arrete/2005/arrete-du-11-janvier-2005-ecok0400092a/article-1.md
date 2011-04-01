@@ -16,13 +16,13 @@ Responsable du patrimoine forestier de la Caisse des dépôts et consignations e
 
 Responsable des affaires générales et des partenariats extérieurs à la direction des ressources humaines de l'établissement public et du groupe financier.
 
-Responsable du département pilotage économique et budgétaire fédéral au secrétariat général de la CDC (à compter du 1er novembre 2010).
+Adjointe au directeur du budget, du contrôle de gestion et performance économique.
 
 _Direction bancaire_
 
 Responsable des consignations département Agence bancaire et consignations.
 
-Adjoint au responsable département stratégie et clientèle, responsable des clientèles juridiques.
+Directeur (trice) qualité, responsable des clientèles " professions juridiques et majeurs vulnérables ", adjoint (e) du directeur des clientèles
 
 _Direction des retraites_
 
@@ -40,6 +40,8 @@ Responsable du service du pilotage de la relation clients à l'établissement de
 
 Directeur de la solidarité et des risques professionnels à l'établissement de Bordeaux.
 
+Responsable de la direction du pilotage et de la coordination à l'établissement d'Angers.
+
 _Direction du développement territorial_
 
 Directeur interrégional adjoint de la Caisse des dépôts pour l'interrégion Est.
@@ -56,4 +58,4 @@ Directeur régional de la CDC pour la région Poitou-Charentes.
 
 _Caisse générale, direction des back-offices_
 
-Responsable des relations de place.
+Responsable des relations de place instruments financiers
