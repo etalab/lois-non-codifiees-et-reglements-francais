@@ -4,7 +4,7 @@ FICHE DE RÉCEPTION INDIVIDUELLE D'UN VÉHICULE
 
 (En application de l'article 24 de la directive 2007/46/CE modifiée)
 
-Communication concernant (le refus d') une réception individuelle d'un véhicule en vertu de la directive 2007/46/CE modifiée
+Communication concernant une réception individuelle d'un véhicule en vertu de la directive 2007/46/CE modifiée
 
 Numéro de réception :
 
@@ -34,11 +34,7 @@ La réception est accordée/refusée (1).
 
 Annexe : compte rendu de réception du véhicule.
 
-<font color="#808080" size="1">
-<em>(1) Biffer la mention inutile. </em>
-</font>
-
-_<font color="#808080" size="1"/>_
+(1) Biffer la mention inutile.
 
 Compte rendu de réception
 

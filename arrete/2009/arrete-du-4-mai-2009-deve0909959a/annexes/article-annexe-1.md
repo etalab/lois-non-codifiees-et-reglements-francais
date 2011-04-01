@@ -91,6 +91,16 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 1003/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
+</td>
+</tr>
+<tr>
 <td width="38">
 <p align="center">5</p>
 </td>
@@ -307,11 +317,21 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 <p>Plaques réglementaires</p>
 </td>
 <td width="227">
-<p align="center">Directive 76/1 14/CEE</p>
-<p align="center">Modifiée par la directive 78/507/CEE</p>
+<p align="center">Directive 76/114/CEE</p>
+<p align="center">modifiée par la directive 78/507/CEE</p>
 </td>
 <td width="265">
 <p align="center">Celles indiquées à l'article 2 de la directive 78/507/CE</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 19/2011 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
 </td>
 </tr>
 <tr>
@@ -458,6 +478,16 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 1005/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
+</td>
+</tr>
+<tr>
 <td width="38">
 <p align="center">28</p>
 </td>
@@ -562,6 +592,16 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 672/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
+</td>
+</tr>
+<tr>
 <td width="38">
 <p align="center">35</p>
 </td>
@@ -570,10 +610,20 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 <td width="227">
 <p align="center">Directive 78/318/CEE</p>
-<p align="center">Modifiée par la directive 94/68/CEE</p>
+<p align="center">modifiée par la directive 94/68/CEE</p>
 </td>
 <td width="265">
 <p align="center">Celles indiquées à l'article 2 de la directive 94/68/CE</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 1008/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
 </td>
 </tr>
 <tr>
@@ -600,10 +650,20 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 <td width="227">
 <p align="center">Directive 78/549/CEE</p>
-<p align="center">Modifiée par la directive 94/78/CE</p>
+<p align="center">modifiée par la directive 94/78/CE</p>
 </td>
 <td width="265">
 <p align="center">Celles indiquées à l'article 2 de la directive 94/78/CE</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 1009/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
 </td>
 </tr>
 <tr>
@@ -697,10 +757,21 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 <p>Systèmes antiprojections</p>
 </td>
 <td width="227">
-<p align="center">Directive 91/226/CEE</p>
+<p align="center">Directive 91/226/CEE,</p>
+<p align="center">modifiée par la directive 2010/19/UE</p>
 </td>
 <td width="265">
-<p align="center">Celles indiquées à l'article 10 de la directive 91/226/CEE</p>
+<p align="center">Celles indiquées à l'article 3 de la directive 91/226/CEE</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>
+<p align="center">Règlement (UE) n° 109/2011 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 20 du règlement (CE) n° 661/2010 </p>
 </td>
 </tr>
 <tr>
@@ -950,6 +1021,34 @@ PAR TYPE DE VÉHICULES, SYSTÈMES ET ÉQUIPEMENTS VISÉS PAR LE PRÉSENT ARRÊT�
 </td>
 <td width="265">
 <p align="center">Celles indiquées aux articles 5 et 6 de la directive 2006/40/CE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">62</p>
+</td>
+<td>
+<p align="center">Système hydrogène </p>
+</td>
+<td>
+<p align="center">Règlement (CE) n° 79/2009 et règlement (UE) n° 406/2010 </p>
+</td>
+<td>
+<p align="center">Celle indiquée à l'article 16 du règlement (CE) n° 79/2009 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">63</p>
+</td>
+<td>
+<p align="center">Sécurité générale </p>
+</td>
+<td>
+<p align="center">Règlement (CE) n° 661/2009 </p>
+</td>
+<td>
+<p align="center">Celles indiquées aux articles 13 et 20 dudit règlement</p>
 </td>
 </tr>
 </tbody>

@@ -24,7 +24,7 @@ Version :
 
 0.4. Catégorie :
 
-0.5. Nom et adresse du constructeur du véhicule de base :
+0.5. Nom et adresse du constructeur du véhicule :
 
 Nom et adresse du constructeur ayant réalisé la dernière étape de construction du véhicule (1) :
 
@@ -34,7 +34,7 @@ Numéro d'identification du véhicule :
 
 Emplacement du numéro d'identification du véhicule sur le châssis :
 
-est conforme à tous égards au type complet/complété (1) décrit dans
+est conforme à tous égards au type complet/complété (1) décrit dans la réception nationale par type de petites séries numérotées : e.*NKS* * délivrée le complet/complété (1) décrit dans
 
 Numéro de réception nationale par type de petites séries :
 
