@@ -2,13 +2,13 @@
 
 Le comité interministériel des parcs nationaux comprend :
 
-a) Le directeur de la nature et des paysages ;
+a) Le directeur de l'eau et de la biodiversité ;
 
-b) Le directeur général de la forêt et des affaires rurales ;
+b) Le directeur général des politiques agricole, agroalimentaire et des territoires ;
 
-c) Le directeur général de l'urbanisme, de l'habitat et de la construction ;
+c) Le directeur de l'habitat, de l'urbanisme et des paysages ;
 
-d) Le       directeur général des patrimoines ;
+d) Le directeur général des patrimoines ;
 
 e) Le directeur des affaires civiles et du sceau ;
 
@@ -22,16 +22,16 @@ i) Le directeur du budget ;
 
 j) Le directeur général de la recherche et de l'innovation ;
 
-k) Le directeur général de l'énergie et des matières premières ;
+k) Le directeur général de l'énergie et du climat ;
 
-l) Le directeur général de la mer et des transports ;
+l) Le directeur général des infrastructures, des transports et de la mer ;
 
 m) Le directeur des pêches maritimes et de l'aquaculture ;
 
-n) Le directeur du tourisme ;
+n) Le directeur général de la compétitivité, de l'industrie et des services ;
 
 o) Le directeur des sports ;
 
-p) Le directeur des affaires économiques, sociales et culturelles de l'outre-mer.
+p) Le délégué général à l'outre-mer.
 
 Ils peuvent se faire représenter.
