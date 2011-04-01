@@ -2,7 +2,7 @@
 
 Le président et les membres du conseil d'administration de l'agence sont nommés pour une durée de trois ans renouvelable.
 
-Le président est nommé par décret sur le rapport des ministres chargés des mines et de la sécurité sociale.
+Le président est nommé par décret sur le rapport des ministres chargés des mines et de la sécurité sociale. La limite d'âge qui lui est applicable est fixée à soixante-huit ans.
 
 Le conseil d'administration comprend, outre le président :
 
