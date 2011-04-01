@@ -6,9 +6,9 @@ Risques.
 
 D'une façon générale, l'installation est dotée de moyens de lutte contre l'incendie appropriés aux risques et au moins protégée comme suit :
 
-― de deux appareils d'incendie (bouches ou poteaux d'incendie) d'un diamètre nominal DN 100 situés à moins de 100 mètres de la station-service (les distances sont mesurées par les voies praticables aux engins de secours). Ces appareils sont alimentés par un réseau public ou privé qui est en mesure de fournir un débit minimum de 120 mètres cubes par heure pendant au moins deux heures ; la pression dynamique minimale des appareils d'incendie est de 1 bar sans dépasser 8 bars.
+― de deux appareils d'incendie (bouches ou poteaux d'incendie) d'un diamètre nominal DN 100 situés à moins de 100 mètres de la station-service (les distances sont mesurées par les voies praticables aux engins de secours). Ces appareils sont alimentés par un réseau public ou privé qui est en mesure de fournir un débit minimum de 60 mètres cubes par heure pendant au moins deux heures ; la pression dynamique minimale des appareils d'incendie est de 1 bar sans dépasser 8 bars.
 
-Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 120 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 120 mètres cubes de capacité.
+Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 60 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 60 mètres cubes de capacité.
 
 Le débit et la quantité d'eau d'extinction et de refroidissement nécessaires ainsi que les projets d'implantation et d'équipement et d'aménagement font l'objet de l'avis préalable du service d'incendie et de secours ;
 
@@ -60,19 +60,19 @@ En particulier, pour toute nouvelle installation, le zinc brut, le laiton brut e
 
 5.4. Interdiction des feux.
 
-Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un « permis de feu ». Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu . Cette interdiction est affichée en caractères apparents.
 
 Les prescriptions que doit observer l'usager sont affichées soit en caractères lisibles, soit au moyen de pictogrammes, et ce au niveau de chaque appareil de distribution. Elles concernent notamment l'interdiction de fumer, d'utiliser un téléphone portable (le téléphone doit être éteint), d'approcher un appareil pouvant provoquer un feu nu, ainsi que l'obligation d'arrêt du moteur. Pour l'aviation, l'obligation d'arrêt du moteur ne s'applique pas lorsqu'il s'agit d'assurer l'avitaillement de services d'urgence.
 
-5.5. « Plan de prévention ». ― « Permis de feu ».
+5.5. Plan de prévention . ― Permis de feu .
 
-Tous les travaux de réparation ou d'aménagement effectués par une entreprise extérieure présentant des risques spécifiques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après établissement d'un « plan de prévention » et, éventuellement, la délivrance d'un « permis de feu » et en respectant une consigne particulière. Ces permis sont délivrés après analyse des risques liés aux travaux et définition des mesures appropriées.
+Tous les travaux de réparation ou d'aménagement effectués par une entreprise extérieure présentant des risques spécifiques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après établissement d'un plan de prévention et, éventuellement, la délivrance d'un permis de feu et en respectant une consigne particulière. Ces permis sont délivrés après analyse des risques liés aux travaux et définition des mesures appropriées.
 
 5.6. Consignes de sécurité.
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-― l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées à l'article 5.2 « incendie » et « atmosphères explosives » ;
+― l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées à l'article 5.2 incendie et atmosphères explosives ;
 
 ― l'obligation du plan de prévention pour les parties de l'installation visées à l'article 5.5 ;
 

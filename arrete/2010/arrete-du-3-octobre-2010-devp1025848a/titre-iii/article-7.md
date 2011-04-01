@@ -22,7 +22,7 @@
 
 ― les ateliers d'entretien du matériel situés dans le même bâtiment sont isolés par une paroi et un plafond REI 180 ;
 
-― s'ils sont situés dans le même bâtiment, les bureaux et les locaux sociaux, à l'exception des bureaux dits de « quais » destinés à accueillir le personnel travaillant directement sur les stockages et les quais, sont situés dans un local clos distant d'au moins 10 mètres des stockages, ou isolés par une paroi EI 180 ;
+― s'ils sont situés dans le même bâtiment, les bureaux et les locaux sociaux, à l'exception des bureaux dits de  quais  destinés à accueillir le personnel travaillant directement sur les stockages et les quais, sont situés dans un local clos distant d'au moins 10 mètres des stockages, ou isolés par une paroi EI 180 ;
 
 ― les locaux sont équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion (DENFC) dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Un DENFC de superficie utile comprise entre 0,5 et 6 mètres carrés est prévu pour 250 mètres carrés de superficie projetée de toiture.
 
@@ -42,12 +42,12 @@ Les dispositifs d'évacuation des fumées sont composés d'exutoires à commande
 
 Les commandes d'ouverture manuelle sont placées à proximité des accès aux locaux de stockage. Le système de désenfumage est adapté aux risques particuliers de l'installation.
 
-Les parties des bâtiments entre murs séparatifs où sont stockés des liquides inflammables ont une surface maximale égale à 1 500 mètres carrés en l'absence de système d'extinction automatique d'incendie et 3 000 mètres carrés en présence d'un système d'extinction automatique d'incendie spécifiquement adapté aux liquides inflammables et dimensionné pour permettre une extinction totale de l'incendie de la cellule concernée dans un délai maximum de trois heures.
+7-2. Les parties des bâtiments entre murs séparatifs où sont stockés des liquides inflammables ont une surface maximale égale à 1 500 mètres carrés en l'absence de système d'extinction automatique d'incendie et 3 000 mètres carrés en présence d'un système d'extinction automatique d'incendie spécifiquement adapté aux liquides inflammables et dimensionné pour permettre une extinction totale de l'incendie de la cellule concernée dans un délai maximum de trois heures.
 
-Les dispositions du présent article :
+Les dispositions des points 7-1 et 7-2 :
 
 ― ne sont pas applicables aux installations existantes ;
 
 ― sont applicables aux extensions ou modifications d'installations existantes ainsi qu'aux installations nouvelles construites dans un établissement existant à la date de publication du présent arrêté, lorsque la capacité équivalente de liquides inflammables faisant l'objet de la demande d'autorisation est supérieure à 10 mètres cubes.
 
-7-2. Les installations nouvelles ne comprennent pas, ne surmontent pas, ni ne sont surmontées de locaux habités ou occupés par des tiers. Pour les extensions ou modifications d'installations existantes à la date de publication du présent arrêté, le préfet peut autoriser des dispositions alternatives au regard de l'étude de dangers.
+7-3. Les installations nouvelles ne comprennent pas, ne surmontent pas, ni ne sont surmontées de locaux habités ou occupés par des tiers. Pour les extensions ou modifications d'installations existantes à la date de publication du présent arrêté, le préfet peut autoriser des dispositions alternatives au regard de l'étude de dangers.

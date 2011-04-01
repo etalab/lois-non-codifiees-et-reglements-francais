@@ -1,6 +1,6 @@
 # Article 26
 
-26-1. Les tuyauteries, robinetteries et accessoires sont conformes aux normes et codes en vigueur lors de leur fabrication, à l'exception des dispositions contraires aux prescriptions du présent arrêté. Les différentes tuyauteries accessibles sont repérées conformément aux normes en vigueur.
+26-1. Les tuyauteries, robinetteries et accessoires sont conformes aux normes et codes en vigueur lors de leur fabrication, à l'exception des dispositions contraires aux prescriptions du présent arrêté. Les différentes tuyauteries accessibles sont repérées conformément aux règles définies par l'exploitant.
 
 Les supports de tuyauteries sont réalisés en construction métallique, en béton ou en maçonnerie. Ils sont conçus et disposés de façon à prévenir les corrosions et érosions extérieures des tuyauteries au contact des supports.
 

@@ -62,7 +62,7 @@ Lorsqu'un guide professionnel portant sur le contenu détaillé des différentes
 
 Lorsque les réservoirs présentent des caractéristiques particulières (notamment de par leur matériau constitutif, leur revêtement ou leur configuration) ou contiennent des liquides inflammables de caractéristiques physico-chimiques particulières, des dispositions spécifiques peuvent être adaptées (nature et périodicité) pour les inspections en service et les inspections hors exploitation détaillées sur la base de guides reconnus par le ministre chargé du développement durable.
 
-29-7. Dans les installations existantes, le programme des inspections est mis en place avant le 1er janvier 2012.
+29-7. Dans les installations existantes, le programme des inspections est mis en place avant le 30 juin 2012.
 
 Les réservoirs dont la dernière inspection hors exploitation détaillée remonte à :
 

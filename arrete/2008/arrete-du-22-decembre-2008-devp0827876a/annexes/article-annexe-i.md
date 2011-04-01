@@ -80,7 +80,7 @@ Les réservoirs sont installés de façon à ce que leurs parois soient situées
 
 Les réservoirs aériens peuvent être implantés à une distance inférieure des limites de propriété en cas de mise en place d'un mur coupe-feu EI 120 permettant de maintenir les effets létaux sur le site. Les éléments de démonstration du respect des règles en vigueur le concernant sont tenus à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
 
-Les distances entre réservoirs ne sont pas inférieures à la plus petite des distances suivantes :
+Les distances entre réservoirs aériens ne sont pas inférieures à la plus petite des distances suivantes :
 
 ― le quart du diamètre du plus grand réservoir ;
 
@@ -122,9 +122,7 @@ Cette voie engins respecte les caractéristiques suivantes :
 
 En cas d'impossibilité de mise en place d'une voie engins permettant la circulation sur l'intégralité du périmètre de l'installation et si tout ou partie de la voie est en impasse, les 40 derniers mètres de la partie de la voie en impasse sont d'une largeur utile minimale de 7 mètres et une aire de retournement de 10 mètres de diamètre est prévue à son extrémité.
 
-2.2.2.2. Déplacement des engins de secours
-
-à l'intérieur de l'établissement
+2.2.2.2. Déplacement des engins de secours à l'intérieur de l'établissement
 
 Pour permettre le croisement des engins de secours, tout tronçon de voie engins de plus de 100 mètres linéaires dispose d'au moins deux aires dites de croisement, judicieusement positionnées, dont les caractéristiques sont :
 
@@ -134,9 +132,7 @@ Pour permettre le croisement des engins de secours, tout tronçon de voie engins
 
 présentant a minima les mêmes qualités de pente, de force portante et de hauteur libre que la voie engins.
 
-2.2.2.3. Mise en station des échelles en vue d'appuyer
-
-un dispositif hydraulique en cas de stockage aérien couvert
+2.2.2.3. Mise en station des échelles en vue d'appuyer un dispositif hydraulique en cas de stockage aérien couvert
 
 Pour tout stockage en bâtiment de hauteur supérieure à 15 mètres, au moins une façade est desservie par au moins une voie échelle permettant la circulation et la mise en station des échelles aériennes. Cette voie échelle est directement accessible depuis la voie engins définie au point 2.2.2.1.
 
@@ -152,9 +148,7 @@ Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtim
 
 ― la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au maximum, et présente une résistance au poinçonnement minimale de 80 N/cm².
 
-2.2.2.4. Mise en place des échelles en vue d'accès
-
-aux planchers en cas de stockage couvert
+2.2.2.4. Mise en place des échelles en vue d'accès aux planchers en cas de stockage couvert
 
 Par ailleurs, pour tout bâtiment de plusieurs niveaux possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades et comportant un réservoir aérien de liquide inflammable, une voie échelle permet d'accéder à des ouvertures.
 
@@ -162,9 +156,7 @@ Cette voie échelle respecte les caractéristiques décrites au point 2.2.2.3.
 
 Ces ouvertures permettent au moins un accès par étage pour chacune des façades disposant d'une voie échelle et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre. Les panneaux d'obturation ou les châssis composant ces accès s'ouvrent et demeurent toujours accessibles de l'extérieur et de l'intérieur. Ils sont aisément repérables de l'extérieur par les services de secours.
 
-2.2.2.5. Etablissement du dispositif
-
-hydraulique depuis les engins
+2.2.2.5. Etablissement du dispositif hydraulique depuis les engins
 
 A partir de chaque voie engins ou échelle est prévu un accès à toutes les issues des bâtiments comportant un réservoir aérien de liquide inflammable par un chemin stabilisé de 1,40 mètre de large au minimum.
 
@@ -318,7 +310,7 @@ En cas d'installation de systèmes d'extinction automatique d'incendie, ceux-ci 
 
 4.4. Interdiction des feux
 
-Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu .
+Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu.
 
 Cette interdiction est affichée en caractères apparents.
 
@@ -527,12 +519,17 @@ Les émissions sonores émises par l'installation ne sont pas à l'origine, dans
 <table>
 <tbody>
 <tr>
-<th>NIVEAU DE BRUIT AMBIANT EXISTANT<br/>dans les zones à émergence réglementée<br/>(incluant le bruit de l'installation)<br/>
-</th>
-<th>ÉMERGENCE ADMISSIBLE<br/>pour la période allant de 7 heures à 22 heures,<br/>sauf dimanches et jours fériés<br/>
-</th>
-<th colspan="13">ÉMERGENCE ADMISSIBLE<br/>pour la période allant de 22 heures à 7 heures,<br/>ainsi que les dimanches et jours fériés<br/>
-</th>
+<td>
+<p align="center"> NIVEAU DE BRUIT AMBIANT EXISTANT<br/>dans les zones à émergence réglementée<br/>(incluant le bruit de l'installation)<br/>
+</p>
+</td>
+<td>
+<p align="center"> ÉMERGENCE ADMISSIBLE<br/>pour la période allant de 7 heures à 22 heures,<br/>sauf dimanches et jours fériés<br/>
+</p>
+</td>
+<td colspan="13">
+<p align="center"> ÉMERGENCE ADMISSIBLE<br/>pour la période allant de 22 heures à 7 heures,<br/>ainsi que les dimanches et jours fériés</p>
+</td>
 </tr>
 <tr>
 <td align="center">Supérieur à 35 et inférieur ou égal à 45 dB(A)<br/>

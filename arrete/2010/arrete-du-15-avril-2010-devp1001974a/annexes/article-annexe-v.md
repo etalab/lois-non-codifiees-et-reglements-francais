@@ -64,7 +64,7 @@ B. - Pour les installations régulièrement déclarées avant le 1er juillet 200
 
 17 mètres des issues d'un immeuble habité ou occupé par des tiers, extérieur à l'établissement ou d'une installation extérieure à l'établissement présentant des risques d'incendie ou d'explosion ou des issues d'un immeuble habité ou occupé par des tiers sous lequel est implantée l'installation. Cette distance est réduite à 10 mètres pour les installations existant au 3 août 2003 ;
 
-5 mètres des issues ou des ouvertures des locaux susceptibles d'accueillir le public au sein de l'installation ; cette distance peut, dans le cas des appareils de distribution de carburant  2 temps , être ramenée à 2 mètres. Néanmoins, dans ce cas, les installations déclarées postérieurement au 3 août 2003 disposent d'une issue de secours arrière (façade du bâtiment opposée aux appareils de distribution ou latérale permettant l'évacuation du public, sans exposition à un flux thermique éventuel en cas d'incendie ;
+5 mètres des issues ou des ouvertures des locaux susceptibles d'accueillir le public au sein de l'installation ; cette distance peut, dans le cas des appareils de distribution de carburant 2 temps , être ramenée à 2 mètres. Néanmoins, dans ce cas, les installations déclarées postérieurement au 3 août 2003 disposent d'une issue de secours arrière (façade du bâtiment opposée aux appareils de distribution ou latérale permettant l'évacuation du public, sans exposition à un flux thermique éventuel en cas d'incendie ;
 
 5 mètres des limites de la voie publique et des limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur coupe-feu de degré 2 heures de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C au titre de la rubrique 1430 de la nomenclature des installations classées. Cette disposition n'est pas applicable aux installations déclarées avant le 1er janvier 1985 au titre de la rubrique 1434.
 
@@ -79,17 +79,21 @@ Le principe des distances d'éloignement ci-dessus s'applique également aux dis
 Pour les nouvelles installations, les installations déclarées postérieurement au 1er juillet 2009 au titre de la rubrique 1434 de la nomenclature des installations classées et relevant de la rubrique 1435 à sa création ainsi qu'aux extensions ou modifications d'installations existantes régulièrement déclarées nécessitant le dépôt d'une nouvelle déclaration en application de l'article R. 512-54 du code de l'environnement, les distances minimales d'implantation (en mètres) à respecter vis-à-vis des issues d'un établissement recevant du public de 1re, 2e, 3e ou 4e catégorie, d'un immeuble habité ou occupé par des tiers, extérieur à l'établissement ou d'une installation extérieure à l'établissement présentant des risques d'incendie ou d'explosion sont les suivantes :
 
 <table>
-<tbody>
+<thead>
 <tr>
 <th>
 <br/>
 </th>
 <th>
 <br/>
-<font size="1">CATÉGORIE B<br/>
-<br/>y compris l'E10<br/>
-<br/>et hors superéthanol<br/>
+<font size="1">CATÉGORIE B </font>
+<p>
+<font size="1">y compris l'E10</font>
+</p>
+<p>
+<font size="1">et hors superéthanol<br/>
 </font>
+</p>
 </th>
 <th>
 <br/>
@@ -98,10 +102,12 @@ Pour les nouvelles installations, les installations déclarées postérieurement
 </th>
 <th>
 <br/>
-<font size="1">SUPERÉTHANOL</font>
-<br/>
+<font size="1">SUPERÉTHANOL<br/>
+</font>
 </th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td align="center">
 <br/>Dépotage<br/>
@@ -121,8 +127,8 @@ Pour les nouvelles installations, les installations déclarées postérieurement
 <br/>Dépotage sécurisé<br/>
 </td>
 <td align="center">
-<br/>13 (auvent)<br/>
-<br/>16 (extinction automatique)<br/>
+<br/>13 (auvent) <p>16 (extinction automatique)<br/>
+</p>
 </td>
 <td align="center">
 <br/>14<br/>
@@ -161,11 +167,11 @@ Pour les nouvelles installations, les installations déclarées postérieurement
 </tr>
 <tr>
 <td colspan="4">
-<br/>(*) Ces distances s'entendent respectivement pour :<br/>
-<br/>- la distribution voiture ;<br/>
-<br/>- la distribution poids-lourds limitée à 2,5 mètres cubes par heure ;<br/>
-<br/>- la distribution poids-lourds supérieure à 2,5 mètres cubes par heure et inférieure à 8 mètres cubes par heure ;<br/>
-<br/>- la distribution poids-lourds supérieure ou égale à 8 mètres cubes par heure.<br/>
+<br/>(*) Ces distances s'entendent respectivement pour : <p>- la distribution voiture ;</p>
+<p>- la distribution poids-lourds limitée à 2,5 mètres cubes par heure ;</p>
+<p>- la distribution poids-lourds supérieure à 2,5 mètres cubes par heure et inférieure à 8 mètres cubes par heure ;</p>
+<p>- la distribution poids-lourds supérieure ou égale à 8 mètres cubes par heure.<br/>
+</p>
 </td>
 </tr>
 </tbody>
@@ -203,7 +209,7 @@ C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les 
 
 7,5 mètres pour une capacité de dépôt supérieure à 15 000 kilogrammes.
 
-D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution.
+D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution. Cette disposition est applicable aux installations existantes précédemment déclarées ou autorisées à compter du 1er juillet 2009 au titre de la rubrique n° 1434 de la nomenclature des installations classées.
 
 Objet du contrôle :
 
@@ -287,9 +293,9 @@ Objet du contrôle :
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-- l'interdiction d'apporter du feu, sous une forme quelconque, dans les parties de l'installation visées au point 4.3  Incendie  et  Atmosphères explosives  ;
+- l'interdiction d'apporter du feu, sous une forme quelconque, dans les parties de l'installation visées au point 4.3 Incendie et Atmosphères explosives ;
 
-- l'obligation du  plan de prévention  pour les parties de l'installation visées au point 4.3 ;
+- l'obligation du plan de prévention pour les parties de l'installation visées au point 4.3 ;
 
 - les procédures d'arrêt d'urgence et de mise en sécurité de l'installation ;
 
@@ -539,4 +545,4 @@ Objet du contrôle :
 
 - présentation des registres de déclaration d'élimination des déchets et des bordereaux de suivi.
 
-_[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1435, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature._
+_(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1435, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature._

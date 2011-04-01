@@ -1,8 +1,6 @@
 # Article Annexe IV
 
-ÉVALUATION DES ÉMISSIONS DIFFUSES DE COV
-
-D'UN RÉSERVOIR À TOIT FLOTTANT SELON LA MÉTHODE EPA
+ÉVALUATION DES ÉMISSIONS DIFFUSES DE COV D'UN RÉSERVOIR À TOIT FLOTTANT SELON LA MÉTHODE EPA
 
 A. - Domaine d'application de la méthode :
 
@@ -62,13 +60,13 @@ F<sub>R</sub> = (K<sub>RA</sub> + K<sub>RB</sub>.V<sup>n</sup>).D
 
 F<sub>R</sub> : facteur de perte au joint périphérique en kilogrammes-mole par an.
 
-K<sub>RA</sub> : coefficient de perte au joint périphérique à vitesse de vent nulle en kilogrammes-mole par mètre-an (cf. tableau n° 1 ci-dessous).
+K<sub>RA</sub> : coefficient de perte au joint périphérique à vitesse de vent nulle en kilogrammes-mole par mètre-an.
 
-K<sub>RB</sub> : coefficient de perte au joint périphérique dépendant de la vitesse du vent en kg-mole/(m/s)<sup>n</sup>-m-an (cf. tableau n° 1 ci-dessous).
+K<sub>RB</sub> : coefficient de perte au joint périphérique dépendant de la vitesse du vent en kg-mole/(m/s)<sup>n</sup>-m-an.
 
 V : vitesse moyenne du vent au niveau du site en mètres par seconde.
 
-n : exposant de la vitesse du vent lié au type de joint périphérique (cf. tableau n° 1 ci-dessous).
+n : exposant de la vitesse du vent lié au type de joint périphérique.
 
 D : diamètre du réservoir en mètres.
 
@@ -94,21 +92,21 @@ K<sub>Fi</sub> = K<sub>FAi</sub> + K<sub>FBi</sub>.(K<sub>v</sub>.V)<sup>mi</sup
 
 K<sub>Fi</sub> : coefficient de perte aux accessoires pour un type d'accessoire donné en kilogrammes-mole par an.
 
-K<sub>FAi</sub> : coefficient de perte aux accessoires pour un type d'accessoire donné à vitesse de vent nulle en kilogrammes-mole par an (cf. tableau n° 2 ci-dessous).
+K<sub>FAi</sub> : coefficient de perte aux accessoires pour un type d'accessoire donné à vitesse de vent nulle en kilogrammes-mole par an.
 
-K<sub>FBi</sub> : coefficient de perte aux accessoires pour un type d'accessoires donné dépendant de la vitesse de vent en kg-mole/(m/s)<sup>m</sup>-an (cf. tableau n° 2 ci-dessous).
+K<sub>FBi</sub> : coefficient de perte aux accessoires pour un type d'accessoires donné dépendant de la vitesse de vent en kg-mole/(m/s)<sup>m</sup>-an.
 
 K<sub>v</sub> : facteur correctif de la vitesse du vent.
 
 V : vitesse moyenne du vent au niveau du site en mètres par seconde.
 
-m<sub>i</sub> : exposant de la vitesse du vent lié à un type d'accessoire donné (cf. tableau n° 2 ci-dessous).
+m<sub>i</sub> : exposant de la vitesse du vent lié à un type d'accessoire donné.
 
 Nota. - Pour les réservoirs à toit flottant externe, K<sub>v</sub> est égal à 0,7.
 
 Pour les réservoirs à toit flottant interne et à toit flottant externe équipés d'un dôme, la vitesse du vent est considérée comme nulle (K<sub>Fi</sub> = K<sub>FAi</sub>).
 
-Lorsque le nombre d'accessoires n'est pas connu, un nombre est proposé pour chaque type d'accessoires dans le tableau n° 2 ci-dessous.
+Lorsque le nombre d'accessoires n'est pas connu, un nombre est proposé pour chaque type d'accessoires.
 
 3. Détermination de F<sub>D</sub> :
 
@@ -120,9 +118,7 @@ K<sub>D</sub> : coefficient de perte par perméabilité des raccords d'écran pa
 
 S<sub>D</sub> : facteur de longueur des raccords d'écran en mètres par mètre carré avec :
 
-Vous pouvez consulter la formule dans le
-
-JOn° 265 du 16/11/2010 texte numéro 21
+Vous pouvez consulter la formule dans le JO n° 265 du 16/11/2010 texte numéro 21
 
 L<sub>joint</sub> : longueur totale des raccords d'écran en mètres.
 
@@ -134,9 +130,7 @@ Lorsque la longueur totale des raccords d'écran n'est pas connue, une valeur de
 
 4. Détermination de P* :
 
-Vous pouvez consulter la formule dans le
-
-JOn° 265 du 16/11/2010 texte numéro 21
+Vous pouvez consulter la formule dans le JO n° 265 du 16/11/2010 texte numéro 21
 
 P* : fonction de pression de vapeur saturante.
 
@@ -150,20 +144,18 @@ D. - Emissions par mouvement :
 
 Les émissions par mouvement s'estiment par la formule :
 
-Vous pouvez consulter la formule dans le
-
-JOn° 265 du 16/11/2010 texte numéro 21
+Vous pouvez consulter la formule dans le JO n° 265 du 16/11/2010 texte numéro 21
 
 E<sub>M</sub> : émissions par mouvement en kilogrammes par an.
 
 Q : volume de produit transféré annuellement et générant une variation de niveau dans le réservoir en mètres cubes.
 
-C : coefficient de mouillabilité en mètres cubes par mètre carré (cf. tableau n° 3 ci-dessous).
+C : coefficient de mouillabilité en mètres cubes par mètre carré.
 
 D<sub>L</sub> : densité moyenne du liquide en kilogrammes par mètre cube.
 
 D : diamètre du réservoir en mètres.
 
-N<sub>c</sub> : nombre de colonnes de toit présentes dans le réservoir (cf. tableau n° 7 ci-dessous).
+N<sub>c</sub> : nombre de colonnes de toit présentes dans le réservoir.
 
 F<sub>c</sub> : diamètre des colonnes de toit en mètres.

@@ -12,15 +12,13 @@ L'exploitant s'assure dans le temps de la pérennité de ce dispositif. L'étanc
 
 Sont toutefois dispensées des exigences formulées à l'alinéa précédent :
 
-― les rétentions associées à des réservoirs existants contenant des liquides inflammables non visés par une phrase de risque R22, R25, R28, R39, R40, R45, R46, R48, R49, R50, R51, R52, R53, R56, R60, R61, R62, R63, R65, R68, ou par une de leur combinaison, ou par une mention de danger H300, H301, H302, H304, H340, H341, H350, H351, H360, H361, H370, H371, H372, H373, H400, H410, H411, H412 ou H413, ou par une de leur combinaison ;
+- les rétentions associées à des réservoirs existants contenant des liquides inflammables non visés par une phrase de risque R22, R23, R25, R26, R28, R39, R40, R45, R46, R48, R49, R50, R51, R52, R53, R54, R56, R58, R60, R61, R62, R63, R65, R68, ou par une de leur combinaison, ou par une mention de danger H300, H301, H302, H304, H330, H331, H340, H341, H350, H351, H360F, H360D, H360FD, H360Fd, H360Df, H361f, H361d, H361fd, H370, H371, H372, H373, H400, H410, H411, H412 ou H413, ou par une de leur combinaison ;
 
-― les rétentions associées à des réservoirs existants contenant des liquides inflammables non visés par une phrase de risque R22, R25, R28, R39, R40, R45, R46, R48, R49, R56, R60, R61, R62, R63, R65, R68, ou par une de leur combinaison, ou par une mention de danger H300, H301, H302, H304, H340, H341, H350, H351, H360, H361, H370, H371, H372, H373, ou par une de leur combinaison, et pour lesquelles une étude hydrogéologique réalisée par un organisme compétent et indépendant atteste de l'absence de voie de transfert vers une nappe exploitée ou susceptible d'être exploitée, pour des usages agricoles ou en eau potable.
+- les rétentions associées à des réservoirs existants contenant des liquides inflammables non visés par une phrase de risque R23, R26, R39, R54, R56, R58, R60, R61 ou par une de leur combinaison, ou par une mention de danger H330, H331, H360F, H360D, H360FD, H360Fd, H360Df, H370 ou par une de leur combinaison, et pour lesquelles une étude hydrogéologique réalisée par un organisme compétent et indépendant atteste de l'absence de voie de transfert vers une nappe exploitée ou susceptible d'être exploitée, pour des usages agricoles ou en eau potable.
 
-22-2-1. Les rétentions sont conçues et entretenues pour résister à la pression statique du produit éventuellement répandu et à l'action physico-chimique des produits pouvant être recueillis.
+22-2-1. Les rétentions sont conçues et entretenues pour résister à la pression statique du produit éventuellement répandu et à l'action physico-chimique des produits pouvant être recueillis. Ces dispositions sont applicables aux installations existantes au 30 juin 2011.
 
-Elles font l'objet d'une maintenance appropriée. L'exploitant définit par procédure d'exploitation les modalités de réalisation d'un examen visuel courant régulier et d'un examen visuel annuel approfondi.
-
-Les dispositions des deux précédents alinéas sont applicables aux installations existantes dans un délai de six mois après la publication du présent arrêté.
+Elles font l'objet d'une maintenance appropriée. L'exploitant définit par procédure d'exploitation les modalités de réalisation d'un examen visuel courant régulier et d'un examen visuel annuel approfondi. Ces dispositions sont applicables aux installations existantes au 31 décembre 2012.
 
 22-2-2. Les merlons de soutien, lorsqu'il y en a, sont conçus pour résister à un feu de quatre heures. Les murs, lorsqu'il y en a, sont RE 240 et les traversées de murs par des tuyauteries sont jointoyées par des matériaux E 240. Ces dispositions ne sont pas applicables aux installations existantes.
 
