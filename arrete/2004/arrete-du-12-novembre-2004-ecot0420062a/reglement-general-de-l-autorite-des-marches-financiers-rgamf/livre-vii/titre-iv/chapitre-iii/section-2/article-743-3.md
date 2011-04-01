@@ -1,0 +1,7 @@
+# Article 743-3
+
+Toute personne s'abstient de diffuser des informations, que ce soit par l'intermédiaire des médias (dont internet) ou par tout autre moyen, qui donnent ou sont susceptibles de donner des indications fausses ou trompeuses sur les quotas d'émission, y compris le fait de répandre des rumeurs et de diffuser des informations fausses ou trompeuses, alors que la personne ayant procédé à une telle diffusion savait ou aurait dû savoir que les informations étaient fausses ou trompeuses.
+
+Constitue en particulier la diffusion d'une fausse information le fait de tirer parti d'un accès occasionnel ou régulier aux médias traditionnels ou électroniques, en émettant un avis sur une catégorie de quotas d'émission après avoir émis un ordre ou effectué une transaction sur ces derniers, et en profitant ensuite de l'impact de cet avis sur les autres offres de prix ou le cours de ces quotas d'émission, sans avoir simultanément porté ce conflit d'intérêts à la connaissance du public, de manière appropriée et efficace.
+
+Le non-respect de l'interdiction mentionnée au premier alinéa par des journalistes agissant dans le cadre de leur profession doit être apprécié en tenant compte de la réglementation applicable à cette profession. Cependant ce non-respect est susceptible de constituer par lui-même un manquement dès lors que les intéressés retirent, directement ou indirectement un avantage ou des profits de la diffusion de telles informations.

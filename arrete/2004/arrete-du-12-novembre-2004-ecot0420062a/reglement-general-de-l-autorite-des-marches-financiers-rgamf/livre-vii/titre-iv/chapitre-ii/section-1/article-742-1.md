@@ -1,0 +1,7 @@
+# Article 742-1
+
+Une information privilégiée est une information à caractère précis qui n'a pas été rendue publique, qui concerne, directement ou indirectement, une ou plusieurs catégories de quotas d'émission et qui, si elle était rendue publique, serait susceptible d'influencer de façon sensible le prix auquel les offres seraient faites sur le compartiment enchères, ou d'avoir une influence sensible sur le cours des quotas d'émission concernés ou des contrats financiers ayant pour sous-jacent un quota d'émission.
+
+Une information est réputée précise si elle fait mention d'un ensemble de circonstances ou d'un événement qui s'est produit ou qui est susceptible de se produire et s'il est possible d'en tirer une conclusion quant à l'effet possible de ces circonstances ou de cet événement sur le prix auquel les offres seraient faites sur le compartiment enchères ou sur le cours des quotas d'émission concernés ou des contrats financiers ayant pour sous-jacent un quota d'émission.
+
+Une information qui, si elle était rendue publique, serait susceptible d'avoir une influence sensible sur le prix auquel les offres seraient faites sur le compartiment enchères ou sur le cours des quotas d'émission concernés ou des contrats financiers ayant pour sous-jacent un quota d'émission est une information qu'un intervenant raisonnable serait susceptible d'utiliser comme l'un des fondements de ses décisions d'intervenir sur le marché.

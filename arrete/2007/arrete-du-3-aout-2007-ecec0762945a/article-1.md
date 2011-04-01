@@ -62,8 +62,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Alsace Pôle C</td>
-<td> Responsable de l'animation d'un réseau spécialisé au niveau national</td>
+<td>DIRECCTE Alsace Pôle C</td>
+<td>Responsable de l'animation d'un réseau spécialisé au niveau national</td>
 <td/>
 </tr>
 <tr>
@@ -110,8 +110,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> UDCCRF 971</td>
-<td> Encadrement</td>
+<td>UDCCRF 971</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Bordeaux. </p>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -134,7 +134,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <pre> </pre>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -242,14 +242,20 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 40</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td/>
+<td> Emploi de responsable du contentieux </td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DDPP 33</td>
-<td> Encadrement</td>
+<td>DDCSPP 40</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>DDPP 33</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -316,20 +322,20 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 43</td>
-<td> Encadrement</td>
+<td>DDCSPP 43</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Auvergne Pôle C</td>
-<td> Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence</td>
+<td>DIRECCTE Auvergne Pôle C</td>
+<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence</td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Auvergne Pôle C</td>
-<td> Emploi d'expertise dans les enquêtes complexes de concurrence</td>
+<td>DIRECCTE Auvergne Pôle C</td>
+<td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
 <td/>
 </tr>
 <tr>
@@ -342,6 +348,12 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi de responsable de la gestion régionale. (supprimé à compter du 31 décembre 2009)</p>
 </td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td/>
+<td> Encadrement </td>
 <td/>
 </tr>
 <tr>
@@ -388,7 +400,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td/>
 <td>
-<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial.</p>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial.(supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -412,8 +424,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> BIEV 69</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>BIEV 69</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 <td/>
 </tr>
 <tr>
@@ -480,7 +492,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td/>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -512,6 +524,12 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
+<td/>
+<td> Emploi d'expertise au titre des activités syndicales exercées </td>
+<td/>
+</tr>
+<tr>
+<td/>
 <td>
 <p>Vannes.</p>
 </td>
@@ -530,8 +548,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 22</td>
-<td> Encadrement</td>
+<td>DDPP 22</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -586,14 +604,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 36</td>
-<td> Encadrement</td>
+<td>DDCSPP 36</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Centre Pôle C</td>
-<td> Emploi de responsable d'animation au niveau régional</td>
+<td>DIRECCTE Centre Pôle C</td>
+<td>Emploi de responsable d'animation au niveau régional</td>
 <td/>
 </tr>
 <tr>
@@ -638,8 +656,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 52</td>
-<td> Encadrement</td>
+<td>DDCSPP 52</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -664,8 +682,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 2B</td>
-<td> Encadrement</td>
+<td>DDCSPP 2B</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -702,14 +720,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Franche-Comté</td>
-<td> Emploi de responsable dans le domaine des fonctions supports</td>
+<td>DIRECCTE Franche-Comté</td>
+<td>Emploi de responsable dans le domaine des fonctions supports</td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 90</td>
-<td> Encadrement</td>
+<td>DDCSPP 90</td>
+<td>Encadrement</td>
 <td/>
 </tr>
 <tr>
@@ -734,8 +752,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 76</td>
-<td> Responsable de l'animation d'un réseau spécialisé au niveau national</td>
+<td>DDPP 76</td>
+<td>Responsable de l'animation d'un réseau spécialisé au niveau national</td>
 <td/>
 </tr>
 <tr>
@@ -818,7 +836,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <pre> </pre>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -932,7 +950,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Cergy-Pontoise </p>
 </td>
 <td>
-<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td/>
 </tr>
@@ -958,14 +976,14 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 75</td>
-<td> Emploi de responsable du contentieux</td>
+<td>DDPP 75</td>
+<td>Emploi de responsable du contentieux</td>
 <td/>
 </tr>
 <tr>
 <td/>
-<td> DDPP 75</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>DDPP 75</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 <td/>
 </tr>
 <tr>
@@ -986,7 +1004,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Evry. </p>
 </td>
 <td rowspan="3">
-<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 1er avril 2011)</p>
 </td>
 <td height="12"/>
 </tr>
@@ -1089,8 +1107,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 30</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>DDPP 30</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
 <td>
@@ -1141,7 +1159,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Epinal. </p>
 </td>
 <td>
-<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1200,25 +1218,25 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Nancy </p>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
 <td/>
 <td/>
 <td>
-<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence </p>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 55</td>
-<td> Encadrement</td>
+<td>DDCSPP 55</td>
+<td>Encadrement</td>
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Lorraine Pôle C</td>
-<td> Emploi d'expertise dans les enquêtes complexes de concurrence</td>
+<td>DIRECCTE Lorraine Pôle C</td>
+<td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
 </tr>
 <tr>
 <td>
@@ -1293,7 +1311,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Toulouse. </p>
 </td>
 <td>
-<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1353,8 +1371,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 12</td>
-<td> Encadrement</td>
+<td>DDCSPP 12</td>
+<td>Encadrement</td>
 </tr>
 <tr>
 <td>
@@ -1409,7 +1427,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <pre> </pre>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1428,18 +1446,18 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 59</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>DDPP 59</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
 <td/>
-<td> DDPP 59</td>
-<td> Encadrement</td>
+<td>DDPP 59</td>
+<td>Encadrement</td>
 </tr>
 <tr>
 <td/>
-<td>  DIRECCTE Nord - Pas-de-Calais Pôle C</td>
-<td> Emploi d'expertise dans les enquêtes complexes de concurrence</td>
+<td>DIRECCTE Nord - Pas-de-Calais Pôle C</td>
+<td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
 </tr>
 <tr>
 <td>
@@ -1600,8 +1618,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> BIEV 84</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>BIEV 84</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
 <td>
@@ -1704,13 +1722,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDCSPP 53</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>DDCSPP 53</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
 <td/>
-<td> DDPP 72</td>
-<td> Encadrement</td>
+<td>DDPP 72</td>
+<td>Encadrement</td>
 </tr>
 <tr>
 <td>
@@ -1738,6 +1756,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (supprimé à compter du 1er septembre 2010)</p>
 </td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td> Encadrement</td>
 </tr>
 <tr>
 <td>
@@ -1801,7 +1824,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td/>
 <td>
-<p>Emploi de responsable du contentieux. </p>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1812,7 +1835,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Annecy. </p>
 </td>
 <td>
-<p>Emploi de responsable du contentieux. </p>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1965,13 +1988,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> DDPP 69</td>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td>DDPP 69</td>
+<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
 <td/>
-<td> DIRECCTE Rhône-Alpes Pôle C</td>
-<td> Emploi d'expertise dans les enquêtes complexes de concurrence</td>
+<td>DIRECCTE Rhône-Alpes Pôle C</td>
+<td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
 </tr>
 <tr>
 <td>
@@ -1992,7 +2015,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>SI AC. </p>
 </td>
 <td>
-<p>AC-Emploi d'expertise en matière d'informatique. </p>
+<p>AC-Emploi d'expertise en matière d'informatique. (supprimé à compter du 1er avril 2011)</p>
 </td>
 </tr>
 <tr>
@@ -2025,24 +2048,24 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </td>
 </tr>
 <tr>
-<td> DGCCRF Services centraux</td>
-<td> Bureau D2</td>
-<td> Emploi d'expertise en matière de protection économique du consommateur</td>
+<td>DGCCRF Services centraux</td>
+<td>Bureau D2</td>
+<td>Emploi d'expertise en matière de protection économique du consommateur</td>
 </tr>
 <tr>
 <td/>
-<td> Bureau E1</td>
-<td> Emploi d'expertise en matière de protection économique du consommateur</td>
+<td>Bureau E1</td>
+<td>Emploi d'expertise en matière de protection économique du consommateur</td>
 </tr>
 <tr>
 <td/>
-<td> Bureau G1</td>
-<td> Emploi d'expertise en matière de gestion</td>
+<td>Bureau G1</td>
+<td>Emploi d'expertise en matière de gestion</td>
 </tr>
 <tr>
 <td/>
-<td> Bureau G3</td>
-<td> Emploi d'expertise en matière de gestion</td>
+<td>Bureau G3</td>
+<td>Emploi d'expertise en matière de gestion</td>
 </tr>
 <tr>
 <td>
@@ -2117,9 +2140,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>Emploi d'expertise en matière de formation</td>
 </tr>
 <tr>
-<td> SCN ENCCRF</td>
-<td> SCN ENCCRF 34 Perm</td>
-<td> Emploi d'expertise en matière de formation</td>
+<td>SCN ENCCRF</td>
+<td>SCN ENCCRF 34 Perm</td>
+<td>Emploi d'expertise en matière de formation</td>
 </tr>
 <tr>
 <td>
@@ -2139,8 +2162,8 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
-<td> Metz</td>
-<td> Emploi d'expertise en matière d'informatique</td>
+<td>Metz</td>
+<td>Emploi d'expertise en matière d'informatique</td>
 </tr>
 <tr>
 <td>
