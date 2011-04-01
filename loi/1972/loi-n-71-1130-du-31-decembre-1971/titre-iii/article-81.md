@@ -12,9 +12,9 @@ Pour l'application de l'article 13-1, la référence aux dispositions du code g�
 
 Pour l'application des articles 22 à 25-1, le conseil de l'ordre du barreau de Mamoudzou, siégeant comme conseil de discipline, connaît des infractions et fautes commises par les avocats qui y sont inscrits. Il connaît également des infractions et fautes commises par un ancien avocat, dès lors qu'à l'époque des faits il était inscrit au tableau ou sur la liste des avocats honoraires du barreau.
 
-Pour l'application de la présente loi, les mots : " tribunal de grande instance ", " cour d'appel " et " procureur général " sont remplacés respectivement par les mots : " tribunal de première instance ", " tribunal supérieur d'appel " et " procureur de la République ".
+Pour l'application de la présente loi, les mots : " tribunal de grande instance ", " cour d'appel " et " procureur général " sont remplacés respectivement par les mots : " tribunal de première instance ", "chambre d'appel de Mamoudzou" et " procureur de la République ".
 
-Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président du tribunal supérieur d'appel.
+Les attributions dévolues en matière de procédure civile aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président de la chambre d'appel de Mamoudzou.
 
 II. - A Saint-Pierre-et-Miquelon :
 
@@ -32,7 +32,7 @@ Toutefois :
 
 III.-Dans les îles Wallis et Futuna :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1,50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
+Les articles 1er (I),3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
@@ -46,7 +46,7 @@ Les attributions dévolues en matière de procédure civile aux avocats et aux c
 
 IV.-En Polynésie française :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1,50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après.
+Les articles 1er (I),3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après.
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
@@ -58,7 +58,7 @@ Pour l'application de la présente loi, les mots : " tribunal de grande instance
 
 V.-En Nouvelle-Calédonie :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1,50 (II, V, VI),53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables sous les réserves ci-après :
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 

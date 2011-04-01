@@ -2,7 +2,7 @@
 
 La commission est composée :
 
-1° D'un magistrat du siège désigné par ordonnance du président du tribunal supérieur d'appel, qui la préside ;
+1° D'un magistrat du siège désigné par ordonnance du      président de la chambre d'appel de Mamoudzou, qui la préside ;
 
 2° Du préfet, représentant du Gouvernement à Mayotte, vice-président, ou de son représentant ;
 

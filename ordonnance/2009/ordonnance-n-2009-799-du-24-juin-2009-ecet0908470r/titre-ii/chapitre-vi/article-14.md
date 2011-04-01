@@ -10,7 +10,7 @@ a) Les mots : « la présente loi » sont remplacés par les mots : « l'ordonna
 
 b) Les mots : « l'ordonnance mentionnée au 2 des mêmes articles » sont remplacés par les mots : « l'ordonnance mentionnée au 2 de cet article » ;
 
-c) Les mots : « premier président de la cour d'appel » sont remplacés par les mots : « président du tribunal supérieur d'appel » ;
+c) Les mots : « premier président de la cour d'appel » sont remplacés par les mots : «      président de la chambre d'appel de Mamoudzou » ;
 
 3° Au 3 du IV, les mots : « Dans les cas mentionnés aux 1 et 2 » sont remplacés par les mots : « Dans les cas mentionnés au 2 » ;
 

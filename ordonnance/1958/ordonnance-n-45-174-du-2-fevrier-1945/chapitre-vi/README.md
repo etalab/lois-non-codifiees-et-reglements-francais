@@ -1,4 +1,4 @@
-# Chapitre VI : Dispositions applicables dans les territoires d'outre-mer et à Mayotte
+# Chapitre VI : Dispositions applicables dans les territoires d'outre-mer et dans le Département de Mayotte
 
 - [Article 44](article-44.md)
 - [Article 45](article-45.md)

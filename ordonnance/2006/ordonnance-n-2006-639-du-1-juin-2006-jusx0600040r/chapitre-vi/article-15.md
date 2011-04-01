@@ -1,0 +1,3 @@
+# Article 15
+
+Les experts figurant, à la date de publication de la présente ordonnance, sur une liste d'experts judiciaires près     la chambre d'appel de Mamoudzou, la cour d'appel de Nouméa ou la cour d'appel de Papeete continuent à y figurer jusqu'à ce qu'il soit statué sur leur inscription éventuelle sur les listes mentionnées à l'article 2 de la loi du 29 juin 1971 susvisée dans sa rédaction issue de la loi du 11 février 2004 susvisée. Les conditions dans lesquelles ces experts pourront être inscrits sur les nouvelles listes, dont l'établissement se fera sur une période de cinq ans, sont déterminées par décret en Conseil d'Etat.
