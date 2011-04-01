@@ -4,13 +4,15 @@ PROCÉDÉS DE FABRICATION
 
 OU DE CONSTRUCTION APPROUVÉS
 
-1. Fabrications de blocs-portes en bois décrites dans les normes NF P 23 501 (1986) et NF P 23 502 (1987), modifications admises sur ces portes selon les indications du cahier du CSTB n° 2129 de janvier 1987, normes, spécifications techniques ou procédés de fabrication d'un Etat membre de la Communauté européenne ou d'un autre Etat, partie à l'accord instituant l'Espace économique européen, ou de la Turquie, qui permettent d'assurer un niveau de protection équivalent.
+1. Fabrications de blocs-portes en bois décrites dans les normes NF P 23 501 (1986) et NF P 23 502 (1987), modifications admises sur ces blocs-portes selon les indications du cahier du CSTB n° 2129 de janvier 1987, normes, spécifications techniques ou procédés de fabrication d'un Etat membre de la Communauté européenne ou d'un autre Etat, partie à l'accord instituant l'Espace économique européen, ou de la Turquie, qui permettent d'assurer un niveau de protection équivalent selon les dispositions de délais fixées à l'article 22.
 
-2. Dispositions constructives concernant les jonctions cloisons-plafonds réalisées en plaques de plâtre, permettant de satisfaire aux exigences d'isolation coupe-feu entre les locaux des derniers niveaux dans le cadre :
+2. Dans les conditions de délais fixées à l'article 17, dispositions constructives concernant les jonctions cloisons-plafonds réalisées en plaques de plâtre, permettant de satisfaire aux exigences d'isolation coupe-feu entre les locaux des derniers niveaux dans le cadre :
 
 - de l'article 6, arrêté du 31 janvier 1986, pour les bâtiments d'habitation ;
 
-- de l'article U24, arrêté du 23 mai 1990, pour les établissements recevant du public de type U.
+- de l'article U24, arrêté du 10 décembre 2004, pour les établissements recevant du public de type U ;
+
+- de l'article J 23, arrêté du 19 novembre 2001, pour les établissements recevant du public du type J.
 
 Ces dispositions constructives sont détaillées dans le document "Dispositions spécifiques et commentaires officiels des établissements du type U", édition France Sélection.
 
@@ -27,5 +29,3 @@ La solution ci-après est réputée assurer une stabilité au feu 1/4 h :
 - les suspentes des conduits horizontaux doivent être en acier et soumises à des contraintes de services inférieures ou égales à 15 % de la limite d'élasticité de l'acier - soit pour une tige filetée de 6 mm de diamètre en acier E24 un effort maximal de 100 daN ;
 
 - l'ancrage des suspentes sur un support possédant au moins une résistance au feu de 1/4 h doit être effectué par des moyens mécaniques utilisant des éléments en acier - colliers, chevilles à expansion, etc. - installés selon les règles de l'art.
-
-Nota. - Les performances des éléments de construction mentionnés ci-dessus ne peuvent être exprimées que dans les termes où elles sont exprimées dans les documents de référence.

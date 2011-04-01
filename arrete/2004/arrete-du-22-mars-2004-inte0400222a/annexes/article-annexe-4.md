@@ -14,7 +14,9 @@ Les appréciations de laboratoire agréé sont fondées sur l'une, ou plusieurs,
 
 - utilisation de résultats de calculs ;
 
-- procédure mixte faisant appel à des résultats expérimentaux et numériques.
+- procédure mixte faisant appel à des résultats expérimentaux et numériques ;
+
+- exploitation des règles jugées par lui pertinentes des normes d'application étendue, si ces dernières ont fait l'objet d'une évaluation par les pairs et d'un avis favorable du CECMI.
 
 Lors du recours à des résultats expérimentaux, ou à des connaissances acquises lors des incendiés réels, les écarts avec le cas spécifique à traiter doivent être pris en compte.
 
@@ -52,19 +54,35 @@ Le demandeur doit indiquer, en particulier, le nom, la référence et l'origine 
 
 Si le laboratoire agréé estime que des problèmes de durabilité risquent d'apparaître, des justifications complémentaires sont demandées et, le cas échéant, le CECMI est saisi.
 
-3. Documents relatifs à la classification
+3. Procès-verbaux :
 
-La classification d'un produit, élément de construction et d'ouvrage peut être établie à partir :
+Le procès-verbal d'un produit, élément de construction et d'ouvrage peut être établi à partir :
 
-- d'un rapport d'essai ;
-
-- de plusieurs rapports d'essais ;
+- d'un ou plusieurs rapports d'essais ;
 
 - de rapports d'essais associés à une appréciation de laboratoire agréé.
 
-3.1. Contenu et format des documents de classification.
+3.1. Contenu et format des procès-verbaux :
 
-Les modèles de rapport d'essais figurent dans la nonne NF EN 1363-1, complétés par les normes d'essais propres à chaque type de produits, éléments de construction ou d'ouvrage. Les modèles de procès-verbaux figurent dans les annexes A des normes NF EN 13501, parties 2, 3 ou 4 (à la rubrique "rapport de classement").
+Nom du laboratoire ayant délivré le procès-verbal.
+
+Nom et adresse du demandeur.
+
+Identification du (des) rapport(s) d'essai(s) pris en référence.
+
+Description sommaire et conditions de mise en œuvre de l'élément, nécessaires au contrôle sur chantier.
+
+Représentativité de l'élément.
+
+Classement de résistance au feu ou caractéristiques obtenus (à la fabrication et à la mise en œuvre, sens du feu, domaine de validité, modifications admises).
+
+Date limite de validité (avec mention des conditions spéciales applicables aux éléments faisant l'objet de certifications).
+
+Date de l'émission du procès-verbal.
+
+Nom et signature de(s) l'émetteur(s).
+
+Mention des limites de validité de l'essai de type en particulier au regard des dispositions relatives à la certification.
 
 3.2. Extension de la portée des procès-verbaux.
 

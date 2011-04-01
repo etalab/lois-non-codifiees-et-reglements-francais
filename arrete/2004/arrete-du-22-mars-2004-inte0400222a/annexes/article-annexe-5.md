@@ -4,7 +4,7 @@ UTILISATION DES CLASSEMENTS
 
 DANS LES RÉGLEMENTATIONS
 
-La présente annexe précise les conditions dans lesquelles il est fait usage du système de classification défini dans l'annexe 1 pour l'application des réglementations de sécurité contre l'incendie.
+La présente annexe précise les conditions dans lesquelles il est fait usage du système de classification défini dans les décisions de la Commission européenne visées au paragraphe 1 de l'annexe 1 pour l'application des réglementations de sécurité contre l'incendie.
 
 Les trois catégories de performances en résistance au feu suivantes sont spécifiées dans ces réglementations.
 
@@ -34,17 +34,17 @@ Les plafonds faisant l'objet d'un classement égal ou supérieur à EI 15 (b →
 
 Plafonds jouant un rôle d'écran protecteur
 
-Les plafonds suspendus essayés selon la méthode ENV 13381-1 peuvent être utilisés comme écran de protection thermique de structures porteuses. Ils doivent pour cela :
+Les plafonds suspendus essayés selon la méthode CEN/TS 13381-1 peuvent être utilisés comme écran de protection thermique de structures porteuses. Ils doivent pour cela :
 
 - avoir démontré leur indémontabilité ;
 
-- bénéficier d'une classification portant le symbole sn lorsque, conjointement, l'exigence de résistance au feu est supérieure à 1/2 heure et que les matériaux constitutifs de l'écran vérifient
+- bénéficier d'une classification portant le symbole sn lorsque l'exigence de résistance au feu est supérieure à une demi-heure (cette disposition se substitue à celle issue de l'arrêté du 22 mars modifié dans un délai de cinq ans à compter de la publication du présent arrêté)
 
 √ λ.ρ.c
 
 ≤ 550 unités S.I. (à 20 °C. avec λ : conductivité thermique, ρ : densité et c : chaleur spécifique).
 
-Les plafonds suspendus, remplissant les conditions du paragraphe précédent, peuvent être caractérisés selon les dispositions du paragraphe 9.3.2-c de l'ENV 13381-1 en utilisant comme construction d'essai un caisson dont les parois ont une résistance thermique voisine de 0,08m<sup>2</sup>/K/W. Dans ce cas les résultats de l'essai sont applicables à toutes structures porteuses de charpente de toiture, à condition que la hauteur moyenne du plénum soit au moins égale à la hauteur du caisson.
+Les plafonds suspendus, remplissant les conditions du paragraphe précédent, peuvent être caractérisés selon les dispositions du paragraphe 9.3.3-c du CEN/TS 13381-1 en utilisant comme construction d'essai un caisson dont les parois ont une résistance thermique voisine de 0,08m<sup>2</sup>/K/W. Dans ce cas les résultats de l'essai sont applicables à toutes structures porteuses de charpente de toiture, à condition que la hauteur moyenne du plénum soit au moins égale à la hauteur du caisson.
 
 Les plafonds suspendus comportant des éléments chauffants seront mis, préalablement à la réalisation de l'essai, en régime permanent.
 
@@ -56,15 +56,17 @@ Les produits, éléments de construction et d'ouvrages, dont le classement compo
 
 2.2. Conditions particulières.
 
-Fermetures
-
 Les portes, rideaux et volets doivent avoir fait, préalablement à leur essai de résistance au feu, l'objet d'une série de manœuvres ouverture/fermeture. En l'absence de spécifications dans les normes européennes, le nombre de cycles et le mode opératoire de ces manœuvres sont définies par le CECMI.
 
 La règle du paragraphe 2.1 ci-avant ne s'applique pas lorsque le symbole E est déterminé selon la méthode d'essai décrite dans la norme NF EN 81-58.
 
 Clapets
 
-Seuls les clapets ayant un classement comportant les symboles E et S (EN 1366-2) peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
+Seuls les clapets ayant un classement comportant les symboles E et S peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
+
+Volets
+
+Seuls les volets ayant un classement comportant les symboles E et S peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
 
 3. Exigences "coupe-feu"
 
@@ -76,11 +78,7 @@ Les produits éléments de construction et d'ouvrages, dont le classement compor
 
 Fermetures
 
-Les portes, rideaux et volets doivent avoir fait, préalablement à leur essai de résistance au feu, l'objet d'une série de manœuvres ouverture/fermeture. En l'absence de spécifications dans les normes européennes, le nombre de cycles et le mode opératoire de ces manœuvres sont définies par le CECMI.
-
-Les portes et volets qui bénéficient d'un classement EI<sub>1</sub>, peuvent être mis en œuvre sans restriction. Un classement EI<sub>2</sub> nécessite, pour les parois et revêtements adjacents aux portes et volets, l'emploi de matériaux classés M0 ou M1 (ou classes de réaction au feu définies dans l'annexe 1 de l'arrêté du 21 novembre 2002 et acceptées pour ce niveau de performance selon l'annexe 4 de ce même texte) sur une zone de 100 mm à partir du bord extérieur de la partie fixe de la porte ou du volet.
-
-La règle du paragraphe 3.1 ci-avant ne s'applique pas lorsque le symbole E est déterminé selon la méthode d'essai décrite dans la norme NF EN 81-58.
+Les portes qui bénéficient d'un classement EI1 peuvent être mises en œuvre sans restriction. Un classement EI2 nécessite, pour les parois et revêtements adjacents aux portes, l'emploi de matériaux classés M1 ou B-s3, d0 sur une zone de 100 mm à partir du bord extérieur de la partie fixe de la porte.La règle du paragraphe 3.1 ci-avant ne s'applique pas lorsque le symbole E est déterminé selon la méthode d'essai décrite dans la norme NF EN 81-58.
 
 Plafonds présentant une résistance au feu intrinsèque
 
@@ -92,9 +90,7 @@ Les plafonds ayant fait l'objet d'un classement EI (b → a) ou EI (a ↔ b) sel
 
 - l'indémontabilité du plafond doit être démontrée ;
 
-- pour une exigence de résistance au feu supérieure à 1/2 heure, soit les matériaux constitutifs du plafond vérifient
-
-√ λ.ρ.c
+- pour une exigence de résistance au feu supérieure à une demi-heure, le plafond bénéficie d'une classification portant le symbole sn (cette disposition se substitue à celle issue de l'arrêté du 22 mars modifié dans un délai de cinq ans à compter de la publication du présent arrêté) √ λ.ρ.c
 
 > 550 unités SI à 20 °C, soit le plafond bénéficie d'une classification portant le symbole sn.
 
@@ -102,7 +98,11 @@ Les plafonds comportant des éléments chauffants seront mis, préalablement à 
 
 Clapets
 
-Seuls les clapets faisant l'objet d'un classement EIS (EN 1366-2) peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
+Seuls les clapets faisant l'objet d'un classement EIS peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
+
+Volets
+
+Seuls les volets faisant l'objet d'un classement EIS peuvent être mis en œuvre. La pression de service ne doit alors pas dépasser la pression d'essai.
 
 4. Exigences "pare-flammes" et "coupe-feu" de traversée
 
@@ -112,13 +112,13 @@ Ces exigences peuvent être satisfaites en se référant aux définitions donné
 
 Façades et murs extérieurs sans ouverture
 
-La somme des durées pare-flammes ou coupe-feu est déterminée en additionnant les durées de performance en résistance au feu obtenues avec les expositions au feu notées (i → o) et (o → i). De plus, le classement, complété par (o → i), doit avoir été obtenu avec la courbe standard température-temps (EN 1363-1).
+La somme des durées pare-flammes ou coupe-feu est déterminée en additionnant les durées de performance en résistance au feu obtenues avec les expositions au feu notées (i → o) et (o → i). De plus, le classement, complété par (o → i), doit avoir été obtenu avec la courbe standard température-temps.
 
 Gaines pour installations techniques
 
 L'utilisation de telles gaines est possible si elles justifient :
 
-- soit du degré de performance E ou EI recherché, complété par (o → i) ;
+- soit du degré de performance E ou EI recherché, complété par (o → i) ou (i ↔ o) selon le sens du feu prescrit dans la réglementation ;
 
 - soit d'un degré pare-flammes ou coupe-feu de traversée obtenu en additionnant les durées de performance en résistance au feu obtenues avec les expositions au feu notées (o →i) et (i → o).
 
@@ -126,7 +126,7 @@ En outre, selon la mise en œuvre envisagée, en position horizontale ou vertica
 
 Conduits de ventilation
 
-L'utilisation de conduits de ventilation est possible s'ils bénéficient d'un classement complété par (o → i) ou (i ↔ o).
+L'utilisation de conduits de ventilation est possible s'ils bénéficient d'un classement complété par (i ↔ o).
 
 En outre, selon la mise en œuvre envisagée, en position horizontale ou verticale, le classement du conduit de ventilation devra mentionner le symbole "ho" ou "ve", respectivement.
 

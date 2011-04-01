@@ -1,5 +1,15 @@
 # Article 10
 
-Les essais conventionnels visés à l'article 5 font l'objet de rapports d'essais produits par les laboratoires accrédités dans les formes définies à l'annexe 4.
+Tout essai conventionnel visé à l'article 7 est réalisé par un laboratoire accrédité explicitement pour la méthode d'essais concernée.
 
-Lorsqu'ils ont été effectués sur la base d'un référentiel commun, les essais pratiqués par les laboratoires d'autres Etats membres de la Communauté européenne ou d'Etats parties à l'accord instituant l'Espace économique européen ou de la Turquie, accrédités selon la norme NF EN ISO/CEI 17025 par un organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation, sont acceptés au même titre que les essais pratiqués par les laboratoires français accrédités.
+Les essais pratiqués par les laboratoires des Etats membres de la Communauté européenne ou d'Etats parties à l'accord sur l'Espace économique européen ou de la Turquie :
+
+- accrédités par le Comité français d'accréditation (COFRAC) ou tout autre organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation pour les essais considérés ;
+
+- justifiant de leur indépendance par l'absence d'intérêt vis-à-vis de l'élément de construction testé ;
+
+- participant aux campagnes d'essais inter-laboratoires,
+
+sont pris en compte pour l'application de l'article 11.
+
+Le laboratoire accrédité émet, pour chaque essai, un document (rapport d'essai) dont le contenu est précisé dans les spécifications techniques de référence.

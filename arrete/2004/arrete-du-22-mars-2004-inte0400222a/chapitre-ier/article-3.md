@@ -1,3 +1,5 @@
 # Article 3
 
-Les actions thermiques prédéterminées et les critères de performance couramment utilisés pour l'évaluation de la résistance au feu sont indiqués dans les parties 2, 3 et 4 de la norme NF EN 13 501 ainsi que dans les normes particulières auxquelles elle fait référence.
+Les actions thermiques prédéterminées postulent des évolutions conventionnelles de la température en fonction du temps.
+
+Elles sont, le cas échéant, accompagnées de paramètres permettant de caractériser le transfert thermique vers l'élément de construction considéré.

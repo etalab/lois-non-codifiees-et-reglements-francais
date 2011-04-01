@@ -4,7 +4,7 @@ MÉTHODES DE CALCUL
 
 ET RÈGLES DE DIMENSIONNEMENT
 
-Normes de la série P 92
+Normes suivantes de la série P 92
 
 P 92-701 (décembre 2000) : "Règles de calcul. - Méthode de prévision par le calcul du comportement au feu des structures en béton".
 
@@ -14,25 +14,19 @@ DTU P 92-703 (février 1988) : "Règles BF 88. - Méthode de justification par l
 
 P 92-704 (septembre 1988): "Règles FPM 88. - Méthode de prévision par le calcul du comportement au feu des poteaux mixtes (acier + béton)".
 
-Parties relatives au feu des Eurocodes,
+Parties relatives au feu des Eurocodes avec leur annexe nationale :
 
-avec leur document d'application nationale (DAN)
+NF EN 1991-1-2 (juillet 2003) : "Eurocode 1 : actions sur les structures. - Partie 1-2 : actions générales. - Actions sur les structures exposées au feu" conjointement avec son annexe nationale objet de la norme NF EN 1991-1-2/NA (février 2007).
 
-XP ENV 1991. - 2-2 (décembre 1997) : "Eurocode 1 : bases de calcul et actions sur les structures. - Partie 2-2 : actions sur les structures. - Actions sur les structures exposées au feu".
+NF EN 1992-1-2 (octobre 2005) : "Eurocode 2 : calcul des structures en béton. - Partie 1-2 : règles générales. - Calcul du comportement au feu" conjointement avec son annexe nationale objet de la norme NF EN 1992-1-2/NA (octobre 2007).
 
-XP ENV 1992. - 1-2 (février 2001) : "Eurocode 2 : calcul des structures en béton et DAN. - Partie 1-2 règles générales. - Calcul du comportement au feu".
+NF EN 1993-1-2 (novembre 2005) : "Eurocode 3 : calcul des structures en acier. - Partie 1-2 : règles générales. - Calcul du comportement au feu" conjointement avec son annexe nationale objet de la norme NF EN 1993-1-2/NA (octobre 2007).
 
-XP ENV 1993. - 1-2 (décembre 1997) : "Eurocode 3 : calcul des structures en acier et DAN. - Partie 1-2 : règles générales. - Calcul du comportement au feu".
+NF EN 1994-1-2 (février 2006) : "Eurocode 4 : calcul des structures mixtes acier béton. - Partie 1-2 : règles générales. - Calcul du comportement au feu" conjointement avec son annexe nationale objet de la norme NF EN 1994-1-2/NA (octobre 2007).
 
-XP ENV 1994. - 1-2 (décembre 1997) : "Eurocode 4 : calcul des structures mixtes acier-béton et DAN. - Partie 1-2 : règles générales. - Calcul du comportement au feu".
+NF EN 1995-1-2 (septembre 2005) : "Eurocode 5 : conception et calcul des structures en bois. - Partie 1-2 : généralités. - Calcul des structures au feux" conjointement avec son annexe nationale objet de la norme NF EN 1995-1-2/NA (avril 2007).
 
-Pour un ouvrage déterminé, un seul type de méthode (normes de la série P 92 ou Eurocodes et DAN) doit être utilisé.
-
-Les méthodes de calcul listées ci-avant font référence, en cas de besoin, à des essais permettant d'obtenir les valeurs utiles à leur mise en œuvre. Les méthodes décrivant ces essais sont mentionnées :
-
-- au paragraphe 2.1 de l'annexe 1 pour l'application des normes P 92-701 à P 92-704 ;
-
-- au paragraphe 1.3 de l'annexe 1 pour l'application des normes XP ENV ci-dessus.
+NF EN 1996-1-2 (septembre 2006) : "Eurocode 6 : calcul des ouvrages en maçonnerie. - Partie 1-2 calcul du comportement au feu" conjointement avec son annexe nationale objet de la norme NF EN 1996-1-2/NA (septembre 2008).
 
 Plancher béton avec bac acier collaborant
 
@@ -79,3 +73,5 @@ Pour les types ou éventuellement famille de bacs acier, les règles de calcul d
 3.3. Stabilité au feu supérieure à 30 min avec protection thermique en sous-face
 
 Pour les planchers bénéficiant d'une protection thermique par plafond suspendu ou par projection de matériau isolant, le degré de résistance au feu doit être établi par un laboratoire agréé (procès-verbal en cours de validité).
+
+D'autres méthodes de calcul peuvent être utilisées après avis favorable du CECMI.
