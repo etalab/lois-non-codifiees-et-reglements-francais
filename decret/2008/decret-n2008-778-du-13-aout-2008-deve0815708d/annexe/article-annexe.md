@@ -7,48 +7,52 @@ La déduction forfaitaire mentionnée à l'article 2 du présent décret est ég
 <table>
 <tbody>
 <tr>
-<th>DÉDUCTION FORFAITAIRE EN FONCTION<br/>de l'UC - en € TTC/an<br/>
-</th>
-<th colspan="3">PLAGE DE CONSOMMATION<br/>
-</th>
+<td rowspan="2">
+<p align="center"> DÉDUCTION FORFAITAIRE EN FONCTION<br/>de l'UC - en € TTC/an</p>
+</td>
+<td colspan="3">
+<p align="center"> PLAGE DE CONSOMMATION</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>0-1 000 kWh/an<br/>
-</th>
-<th>1 000-6 000 kWh/an<br/>
-</th>
-<th>&gt; 6 000 kWh/an<br/>
-</th>
+<td>
+<p align="center"> 0-1 000 kWh/an</p>
+</td>
+<td>
+<p align="center"> 1 000-6 000 kWh/an</p>
+</td>
+<td>
+<p align="center"> &gt; 6 000 kWh/an</p>
+</td>
 </tr>
 <tr>
 <td align="center">1 UC<br/>
 </td>
-<td align="center">17<br/>
+<td align="center">20<br/>
 </td>
-<td align="center">51<br/>
+<td align="center">61<br/>
 </td>
-<td align="center">71<br/>
+<td align="center">85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">1 &lt; UC &lt; 2<br/>
 </td>
-<td align="center">22<br/>
+<td align="center">26<br/>
 </td>
-<td align="center">68<br/>
+<td align="center">82<br/>
 </td>
-<td align="center">94<br/>
+<td align="center">113<br/>
 </td>
 </tr>
 <tr>
 <td align="center">2 UC ou +<br/>
 </td>
-<td align="center">28<br/>
+<td align="center">34<br/>
 </td>
-<td align="center">85<br/>
+<td align="center">102<br/>
 </td>
-<td align="center">118<br/>
+<td align="center">142<br/>
 </td>
 </tr>
 </tbody>
@@ -61,27 +65,30 @@ Le versement forfaitaire mentionné à l'article 2 du présent décret, fonction
 <table>
 <tbody>
 <tr>
-<th>UNITÉ DE CONSOMMATION<br/>
-</th>
-<th>VERSEMENT FORFAITAIRE EN € TTC/an<br/>
-</th>
+<td>
+<p align="center"> UNITÉ DE CONSOMMATION<br/>
+</p>
+</td>
+<td>
+<p align="center"> VERSEMENT FORFAITAIRE EN € TTC/an</p>
+</td>
 </tr>
 <tr>
 <td align="center">1 UC<br/>
 </td>
-<td align="center">54<br/>
+<td align="center">65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">1 &lt; UC &lt; 2<br/>
 </td>
-<td align="center">72<br/>
+<td align="center">86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">2 UC ou +<br/>
 </td>
-<td align="center">90<br/>
+<td align="center">108<br/>
 </td>
 </tr>
 </tbody>
