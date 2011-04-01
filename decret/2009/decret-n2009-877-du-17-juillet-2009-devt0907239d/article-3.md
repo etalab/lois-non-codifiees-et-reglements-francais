@@ -2,9 +2,9 @@
 
 Demande d'attribution des postes à quai pour les navires ou bateaux de commerce.
 
-Les armateurs, courtiers, consignataires doivent adresser à la capitainerie du port, par écrit ou par voie électronique, selon le modèle en usage dans le port, une demande d'attribution de poste à quai comportant les renseignements nécessaires à l'organisation de l'escale.
+Les armateurs ou les consignataires doivent adresser à la capitainerie du port, par écrit ou par voie électronique, selon le modèle en usage dans le port, une demande d'attribution de poste à quai comportant les renseignements nécessaires à l'organisation de l'escale.
 
-Cette demande doit être présentée au moins quarante-huit heures à l'avance. Toutefois, les navires ou les bateaux effectuant plusieurs escales ou rotations à l'intérieur de cette période, selon des horaires fixés et publiés à l'avance, peuvent en être dispensés. En d'impossibilité dûment justifiée de respecter ce délai, elle doit être adressée dès que possible.
+Cette demande doit être présentée au moins quarante-huit heures à l'avance. Toutefois, les navires ou les bateaux effectuant plusieurs escales ou rotations à l'intérieur de cette période, selon des horaires fixés et publiés à l'avance, peuvent en être dispensés. En cas d'impossibilité dûment justifiée de respecter ce délai, elle doit être adressée dès que possible et au moins soixante-douze heures à l'avance si le navire est éligible à une inspection renforcée.
 
 Elle est confirmée à la capitainerie vingt-quatre heures à l'avance par tout moyen de transmission.
 

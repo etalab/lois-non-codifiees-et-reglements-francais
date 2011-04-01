@@ -2,7 +2,7 @@
 
 Admission dans le port.
 
-Les capitaines transmettent à la capitainerie du port de destination, vingt-quatre heures à l'avance, ou au plus tard au départ du port précédent lorsque celui-ci est situé à moins de vingt-quatre heures de route, ou, à défaut, dès que le port de destination est connu :
+Les capitaines transmettent à la capitainerie du port de destination, par écrit ou par voie électronique, selon le modèle en usage dans le port, vingt-quatre heures à l'avance, ou au plus tard au départ du port précédent lorsque celui-ci est situé à moins de vingt-quatre heures de route, ou, à défaut, dès que le port de destination est connu :
 
 1° Pour les navires ou bateaux de commerce et les navires de plaisance d'une longueur supérieure à 45 mètres, une déclaration d'entrée qui comporte :
 
@@ -32,4 +32,22 @@ Le formulaire de l'OMI FAL n° 1, déclaration générale, est admis pour effect
 
 6° Pour les navires d'une jauge brute supérieure à 100 unités, les informations nécessaires à l'établissement des statistiques de transport de marchandises et de passagers par mer.
 
-Un message rectificatif doit être envoyé en cas de modification de l'une des informations.
+Un message rectificatif doit être envoyé en cas de modification de l'une des informations ;
+
+7° Pour les navires d'une jauge brute égale ou supérieure à 300 unités, une attestation selon laquelle le navire détient à son bord, conformément aux dispositions de l'article 4 de la directive 2009/20/CE du Parlement européen et du Conseil du 23 avril 2009 relative à l'assurance des propriétaires de navires pour les créances maritimes, le certificat d'assurance prévu à l'article 6 de la même directive.
+
+En outre, sauf dans les ports des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon, les capitaines des navires susceptibles d'être soumis à une inspection renforcée transmettent à la capitainerie du port de destination, par écrit ou par voie électronique, selon le modèle en usage dans le port, soixante-douze heures à l'avance, ou au plus tard au départ du port précédent lorsque celui-ci est situé à moins de soixante-douze heures de route ou, à défaut, dès que le port de destination est connu, les informations suivantes :
+
+- l'identification (nom, indicatif radio, numéro OMI et MMSI) du navire ;
+
+- la date et l'heure probable de l'arrivée ;
+
+- la date et l'heure probable de l'appareillage ;
+
+- les opérations envisagées (chargement, déchargement, autres) ;
+
+- les inspections et visites réglementaires envisagées et les travaux de maintenance et de réparation importants qui seront effectués dans le port de destination ;
+
+- la date de la dernière inspection renforcée effectuée dans la région couverte par le mémorandum d'entente de Paris ;
+
+- pour les navires-citernes : la configuration (simple coque, simple coque avec SBT, double coque), l'état des citernes à cargaison et à ballast (pleines, vides, inertées), le volume et la nature de la cargaison.
