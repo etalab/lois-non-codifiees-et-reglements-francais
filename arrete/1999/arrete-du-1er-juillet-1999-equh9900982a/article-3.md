@@ -2,7 +2,7 @@
 
 La navigation accomplie sur les navires de commerce ainsi que sur les navires de plaisance armés avec un rôle d'équipage est prise en compte dans les conditions suivantes :
 
-1° La navigation doit être accomplie sur des navires de jauge brute égale ou supérieure à 500 UMS, pour les fonctions Pont, ou de puissance propulsive égale ou supérieure à 750 kW, pour les fonctions Machine, pour être prise en compte pour la délivrance des titres prévus à l'article 24 du décret susmentionné ;
+1° La navigation doit être accomplie sur des navires de jauge brute égale ou supérieure à 500 pour les fonctions Pont, ou de puissance propulsive égale ou supérieure à 750 kW pour les fonctions Machine, pour être prise en compte pour la délivrance ou pour la revalidation des titres permettant d'exercer des fonctions principales, opérationnelles ou de direction sur des navires de jauge brute supérieure à 500 pour les titres Pont ou de puissance propulsive supérieure à 750 kW pour les titres Machine ;
 
 2° Le temps de navigation accompli dans des fonctions polyvalentes est pris en compte par moitié pour le service Pont et pour le service Machine ;
 
