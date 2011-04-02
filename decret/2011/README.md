@@ -86,3 +86,5 @@
 - [Décret n°2011-353 du 30 mars 2011 (ETSS1107965D)](decret-n2011-353-du-30-mars-2011-etss1107965d)
 - [Décret n°2011-354 du 30 mars 2011 (ETSS1107954D)](decret-n2011-354-du-30-mars-2011-etss1107954d)
 - [Décret n°2011-355 du 30 mars 2011 (OMEO1106867D)](decret-n2011-355-du-30-mars-2011-omeo1106867d)
+- [Décret n°2011-356 du 30 mars 2011 (DEVL1102924D)](decret-n2011-356-du-30-mars-2011-devl1102924d)
+- [Décret n°2011-358 du 30 mars 2011 (EFIT1029351D)](decret-n2011-358-du-30-mars-2011-efit1029351d)

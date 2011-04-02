@@ -45,12 +45,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AMBERIEU-EN­BUGEY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -77,12 +73,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -103,15 +95,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ISTRES</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -130,14 +118,10 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>13</p>
 </td>
 <td valign="top" width="104">
-<p>SALON-DE­PROVENCE</p>
+<p>SALON-DE-­PROVENCE</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -159,17 +143,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>18</p>
 </td>
 <td valign="top" width="104">
-<p>FARGES-EN­SEPTAINE</p>
+<p>FARGES-EN­-SEPTAINE</p>
 </td>
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -193,12 +173,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -222,12 +198,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -248,15 +220,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>DIJON-LONGVIC</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -277,12 +245,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>LONGVIC</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -291,6 +255,37 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<p align="left">AIR</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Centre de gestion du matériel technique de l'armée de l'air (CGMTAA) 00.614 : réorganisation avec transfert de la cellule ATAMS vers la base aérienne 106 Mérignac </p>
+</td>
+<td align="left" valign="top">
+<p align="left">28</p>
+</td>
+<td align="left" valign="top">
+<p align="left">CHÂTEAUDUN</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
 </td>
 </tr>
 <tr>
@@ -309,12 +304,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -335,12 +326,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BORDEAUX</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -349,6 +336,31 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<p align="left">AIR</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brigade aérienne infrastructure 21.513</p>
+</td>
+<td align="left" valign="top">
+<p align="left">33</p>
+</td>
+<td align="left" valign="top">
+<p>BORDEAUX</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
 </td>
 </tr>
 <tr>
@@ -364,15 +376,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>MERIGNAC</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -393,15 +401,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CINQ-MARS-LA-PILE</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -422,12 +426,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TOURS</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -451,15 +451,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>MONT-DE-MARSAN</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -483,12 +479,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -512,12 +504,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -538,15 +526,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BETHENY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -570,12 +554,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -596,15 +576,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BETHENY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -628,12 +604,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -654,15 +626,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -683,15 +651,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -712,15 +676,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -741,15 +701,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -770,15 +726,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -799,15 +751,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -828,15 +776,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -857,15 +801,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -886,15 +826,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -915,15 +851,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>AUGNY</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -944,15 +876,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>MONTIGNY-­LES-METZ</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -973,12 +901,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PHALSBOURG</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -1005,12 +929,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -1034,12 +954,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -1060,12 +976,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-SAUVEUR </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -1092,12 +1004,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1121,12 +1029,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1147,12 +1051,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -1176,12 +1076,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -1190,6 +1086,115 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2012 </p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<p align="left">AIR</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Etat-major de l'armée de l'air-structure finance des formations 15.504 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">75</p>
+</td>
+<td align="left" valign="top">
+<p align="left">PARIS</p>
+</td>
+<td align="left" valign="top">
+<p align="left">D</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="left">AIR</p>
+</td>
+<td>
+<p align="left">Bureau météo air 13.504 de la base aérienne 117 </p>
+</td>
+<td>75</td>
+<td>PARIS</td>
+<td>D</td>
+<td/>
+<td/>
+<td>2011</td>
+<td>2011 </td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<p align="left">AIR</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Musique de l'air (transfert vers la base aérienne 107 Vélizy-Villacoublay) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">75</p>
+</td>
+<td align="left" valign="top">
+<p align="left">PARIS</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">T</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<p align="left">AIR</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Echelon central NEDEX (neutralisation, enlèvement, destruction des explosifs) : création du pôle interarmées MUNEX (traitement du danger des munitions et engins explosifs) sur le site de Montreuil-Juigné (49)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">78</p>
+</td>
+<td align="left" valign="top">
+<p>VELIZY-VILLA­COUBLAY </p>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R </p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
 </td>
 </tr>
 <tr>
@@ -1205,12 +1210,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>VELIZY-VILLA­COUBLAY </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -1237,12 +1238,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1266,12 +1263,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1292,15 +1285,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BRETIGNY-­SUR-ORGE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1321,15 +1310,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BRETIGNY-­SUR-ORGE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1350,15 +1335,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BRETIGNY-­SUR-ORGE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1379,15 +1360,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BRETIGNY-­SUR-ORGE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1408,15 +1385,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>DUGNY </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1440,12 +1413,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1466,15 +1435,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TAVERNY </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1495,15 +1460,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TAVERNY </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1527,12 +1488,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1556,12 +1513,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1585,12 +1538,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1616,15 +1565,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>VALBONNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1643,17 +1588,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>13 </p>
 </td>
 <td valign="top" width="104">
-<p>SALON-DE­PROVENCE </p>
+<p>SALON-DE­-PROVENCE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1674,12 +1615,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ISTRES </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -1703,12 +1640,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ANGOULEME </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -1732,15 +1665,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ANGOULEME </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1761,15 +1690,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BOURGES </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -1790,15 +1715,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TULLE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1822,12 +1743,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1851,12 +1768,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1880,12 +1793,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1909,12 +1818,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -1938,12 +1843,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -1967,12 +1868,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -1996,12 +1893,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -2025,12 +1918,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2054,17 +1943,44 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
 <td valign="top" width="105">
 <p>2012</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DGA</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Direction des plans, des programmes et du budget-service de l'exécution budgétaire et des comptabilités des opérations d'armement </p>
+</td>
+<td align="left" valign="top">
+<p align="left">27</p>
+</td>
+<td align="left" valign="top">
+<p align="left">VERNON</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">T</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2012</p>
 </td>
 </tr>
 <tr>
@@ -2083,12 +1999,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -2112,12 +2024,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010</p>
 </td>
@@ -2141,12 +2049,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2167,12 +2071,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TOULOUSE</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -2199,12 +2099,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2225,15 +2121,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CAZAUX</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2257,12 +2149,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2281,17 +2169,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>33</p>
 </td>
 <td valign="top" width="104">
-<p>SAINT-MEDARD-EN­JALLES</p>
+<p>SAINT-MEDARD-EN­-JALLES</p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011</p>
 </td>
@@ -2315,12 +2199,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D</p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -2344,12 +2224,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -2373,12 +2249,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2402,12 +2274,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2431,12 +2299,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2455,17 +2319,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -2484,17 +2344,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL­-JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2518,12 +2374,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2542,17 +2394,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2571,17 +2419,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2600,17 +2444,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -2629,17 +2469,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL­-JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2658,17 +2494,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2687,17 +2519,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL­-JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2716,17 +2544,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2745,22 +2569,49 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>49 </p>
 </td>
 <td valign="top" width="104">
-<p>MONTREUIL­JUIGNE </p>
+<p>MONTREUIL-­JUIGNE </p>
 </td>
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
 <td valign="top" width="105">
 <p>2012 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DGA</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Direction des plans, des programmes et du budget-administration centrale </p>
+</td>
+<td align="left" valign="top">
+<p align="left">49</p>
+</td>
+<td align="left" valign="top">
+<p align="left">MONTREUIL­-JUIGNE </p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2012</p>
 </td>
 </tr>
 <tr>
@@ -2779,12 +2630,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2808,12 +2655,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2837,12 +2680,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2866,12 +2705,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -2892,21 +2727,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NEVERS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
-<td valign="top" width="94">
-<br/>
-</td>
-<td valign="top" width="105">
-<br/>
-</td>
+<td valign="top" width="94"/>
+<td valign="top" width="105"/>
 </tr>
 <tr>
 <td valign="top" width="67">
@@ -2921,21 +2748,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ANGLET </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
-<td valign="top" width="94">
-<br/>
-</td>
-<td valign="top" width="105">
-<br/>
-</td>
+<td valign="top" width="22"/>
+<td valign="top" width="94"/>
+<td valign="top" width="105"/>
 </tr>
 <tr>
 <td valign="top" width="67">
@@ -2953,18 +2772,10 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
-<td valign="top" width="94">
-<br/>
-</td>
-<td valign="top" width="105">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
+<td valign="top" width="94"/>
+<td valign="top" width="105"/>
 </tr>
 <tr>
 <td valign="top" width="67">
@@ -2982,18 +2793,10 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
-<td valign="top" width="94">
-<br/>
-</td>
-<td valign="top" width="105">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
+<td valign="top" width="94"/>
+<td valign="top" width="105"/>
 </tr>
 <tr>
 <td valign="top" width="67">
@@ -3008,15 +2811,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3037,15 +2836,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3066,15 +2861,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3095,12 +2886,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3109,6 +2896,37 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2013 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DGA</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Participation à l'échelon central NEDEX (neutralisation, enlèvement, destruction des explosifs) : création du pôle interarmées MUNEX (traitement du danger des munitions et engins explosifs) sur le site de Montreuil-Juigné (49)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">78</p>
+</td>
+<td align="left" valign="top">
+<p align="left">VELIZY-VILLA­COUBLAY </p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">T</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
 </td>
 </tr>
 <tr>
@@ -3127,12 +2945,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3153,12 +2967,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>TOULON </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3183,14 +2993,10 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <p>CHATELLERAULT </p>
 </td>
 <td valign="top" width="25">
-<br/>
+<p align="left">D</p>
 </td>
-<td valign="top" width="23">
-<p>T</p>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3214,12 +3020,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3240,12 +3042,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BRETIGNY­-SUR-ORGE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3269,15 +3067,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SACLAY </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3298,15 +3092,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>VERT-LE-PETIT </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3327,12 +3117,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>VILLEBON-SUR­YVETTE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3356,15 +3142,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>BAGNEUX </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3385,12 +3167,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ARCUEIL </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -3417,12 +3195,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3446,12 +3220,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3472,20 +3242,47 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>ARCUEIL </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
 <td valign="top" width="105">
 <p>2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DGA</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Direction des plans, des programmes et du budget-service de l'exécution budgétaire et des comptabilités des opérations d'armement </p>
+</td>
+<td align="left" valign="top">
+<p align="left">94</p>
+</td>
+<td align="left" valign="top">
+<p align="left">ARCUEIL</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2013 </p>
 </td>
 </tr>
 <tr>
@@ -3509,17 +3306,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
 <td valign="top" width="105">
-<p>2012 </p>
+<p>2011 </p>
 </td>
 </tr>
 <tr>
@@ -3538,12 +3331,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3564,15 +3353,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CHERBOURG </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3593,15 +3378,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>COMPIEGNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3622,12 +3403,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CREIL </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -3651,15 +3428,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3680,20 +3453,47 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
 <td valign="top" width="105">
 <p>2012 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DPSD</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Direction de la protection et de la sécurité de la défense d'Ile-de-France de Reuilly </p>
+</td>
+<td align="left" valign="top">
+<p align="left">75</p>
+</td>
+<td align="left" valign="top">
+<p align="left">PARIS</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">T</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
 </td>
 </tr>
 <tr>
@@ -3712,12 +3512,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3741,17 +3537,13 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
 <td valign="top" width="105">
-<p>2012 </p>
+<p>2011 </p>
 </td>
 </tr>
 <tr>
@@ -3767,20 +3559,16 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>MALAKOFF </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T </p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
 <td valign="top" width="105">
-<p>2012 </p>
+<p>2011 </p>
 </td>
 </tr>
 <tr>
@@ -3799,12 +3587,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3825,12 +3609,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PAPEETE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3854,12 +3634,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NOUMEA </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -3886,12 +3662,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -3920,12 +3692,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3949,12 +3717,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -3975,15 +3739,11 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PARIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
+<td valign="top" width="25"/>
 <td valign="top" width="23">
 <p>T</p>
 </td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -4007,12 +3767,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2010 </p>
 </td>
@@ -4033,12 +3789,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>POINTE-A-PITRE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4051,7 +3803,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces<br/>de<br/>souve­raineté/<br/>terre</p>
+<p>Forces de<br/>souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>41e bataillon d'infanterie marine (BIMa) </p>
@@ -4065,12 +3817,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -4091,12 +3839,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>FORT-DE-FRANCE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4120,12 +3864,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>FORT-DE-FRANCE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4138,7 +3878,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre</p>
+<p>Forces de souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>33e régiment d'infanterie marine (RIMa) </p>
@@ -4149,12 +3889,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>FORT-DE-FRANCE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4178,12 +3914,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>LE LAMENTIN </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4207,12 +3939,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CAYENNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4236,12 +3964,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CAYENNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4265,12 +3989,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CAYENNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4283,7 +4003,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre </p>
+<p>Forces de souveraineté/<br/>terre </p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>9e régiment d'infanterie marine (RIMa) (réorgani­sation de la compagnie de maintenance) </p>
@@ -4294,12 +4014,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>CAYENNE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4323,12 +4039,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-DENIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4352,12 +4064,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-DENIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4381,12 +4089,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-DENIS </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4410,12 +4114,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-PIERRE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4428,7 +4128,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre</p>
+<p>Forces de souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>2e régiment parachutiste d'infanterie marine (RPIMa) (réorganisation de la compagnie de maintenance) </p>
@@ -4439,12 +4139,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>SAINT-PIERRE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4457,7 +4153,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre</p>
+<p>Forces de souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>Régiment d'infanterie de marine du Pacifique - Polynésie (RIMaP) </p>
@@ -4471,12 +4167,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -4497,12 +4189,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PAPEETE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4526,12 +4214,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PAPEETE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4555,12 +4239,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>PAPEETE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4573,7 +4253,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre</p>
+<p>Forces de souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>Régiment d'infanterie de marine du Pacifique - Nouvelle-Calédonie (RIMaP-NC) (réorgani­sation de la compagnie de maintenance) </p>
@@ -4584,12 +4264,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>MONT-DORE </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4613,12 +4289,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NOUMEA </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R</p>
 </td>
@@ -4642,12 +4314,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NOUMEA </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4671,12 +4339,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NOUMEA </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4689,7 +4353,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/<br/>terre</p>
+<p>Forces de souveraineté/<br/>terre</p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>Base d'aéronautique navale de la Tontouta </p>
@@ -4703,12 +4367,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="25">
 <p>D </p>
 </td>
-<td valign="top" width="23">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="23"/>
+<td valign="top" width="22"/>
 <td valign="top" width="94">
 <p>2011 </p>
 </td>
@@ -4718,7 +4378,7 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </tr>
 <tr>
 <td valign="top" width="67">
-<p>Forces de souve­raineté/air </p>
+<p>Forces de souveraineté/<br/>air </p>
 </td>
 <td colspan="2" valign="top" width="147">
 <p>Eléments air 376 </p>
@@ -4729,12 +4389,8 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="104">
 <p>NOUMEA </p>
 </td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4743,6 +4399,37 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de souveraineté/ marine </p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Base navale Nouvelle-Calédonie </p>
+</td>
+<td align="left" valign="top">
+<p align="left">988</p>
+</td>
+<td align="left" valign="top">
+<p align="left">NOUMEA</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2012 </p>
 </td>
 </tr>
 <tr>
@@ -4755,15 +4442,9 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="93">
 <p>Djibouti </p>
 </td>
-<td valign="top" width="104">
-<br/>
-</td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="104"/>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4784,15 +4465,9 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="93">
 <p>Gabon </p>
 </td>
-<td valign="top" width="104">
-<br/>
-</td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="104"/>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4813,15 +4488,9 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 <td valign="top" width="93">
 <p>Sénégal </p>
 </td>
-<td valign="top" width="104">
-<br/>
-</td>
-<td valign="top" width="25">
-<br/>
-</td>
-<td valign="top" width="23">
-<br/>
-</td>
+<td valign="top" width="104"/>
+<td valign="top" width="25"/>
+<td valign="top" width="23"/>
 <td valign="top" width="22">
 <p>R </p>
 </td>
@@ -4830,6 +4499,161 @@ DISSOLUTIONS - TRANSFERTS - RÉORGANISATIONS
 </td>
 <td valign="top" width="105">
 <p>2012 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de présence/terre </p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Etat-major interarmées des forces françaises stationnées au Sénégal (évolution des forces de présence en Afrique) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sénégal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dakar</p>
+</td>
+<td align="left" valign="top">
+<p align="left">D</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de présence/terre </p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Cellule de maintenance des matériels terrestres (évolution des forces de présence en Afrique) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sénégal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dakar</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de souveraineté/ marine</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Unité marine (évolution des forces de présence en Afrique) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sénégal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dakar</p>
+</td>
+<td align="left" valign="top">
+<p align="left">D</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de souveraineté/ marine</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Direction du commissariat de la marine outre-mer/ Forces de présence au Cap-Vert (évolution des forces de présence en Afrique) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sénégal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dakar</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">R</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Forces de souveraineté/ air </p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="left">Base aérienne 160 (évolution des forces de présence en Afrique)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sénégal</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dakar</p>
+</td>
+<td align="left" valign="top">
+<p align="left">D</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
+</td>
+<td align="left" valign="top">
+<p align="left">2011</p>
 </td>
 </tr>
 </tbody>
