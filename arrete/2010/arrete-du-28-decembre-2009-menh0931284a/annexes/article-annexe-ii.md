@@ -298,23 +298,27 @@ Dissertation. Cette partie de l'épreuve permet d'apprécier les capacités du c
 
 Un programme est publié au Bulletin officiel de l'éducation nationale. Il porte sur une notion ou composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
 
-Chaque partie de l'épreuve entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 1).
+Chaque partie de l'épreuve entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
-2° Harmonisation à quatre parties pour une formation donnée (ensemble vocal mixte ou quatuor à cordes) d'une mélodie n'excédant pas seize mesures, tonalement analysable (durée de l'épreuve : six heures ; coefficient 1).
+2° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ seize mesures.
+
+Un programme limitatif renouvelé périodiquement est publié au Bulletin officiel de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+
+Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
 
 B. - Epreuves d'admission
 
-1° Leçon devant le jury. Cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de trois documents identifiés, de diverses natures, dont une partition, un enregistrement audio ou vidéo ; le troisième document pouvant être, notamment, un texte littéraire, un écrit sur la musique, un document iconographique ou multimédia.
+1° Leçon devant un jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de plusieurs documents identifiés de nature diverse, dont une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia. Le nombre total de documents ne peut être supérieur à cinq.
 
-Le candidat expose et développe une problématique de son choix en s'appuyant sur les trois documents proposés. L'exposé est suivi d'un entretien avec le jury.
+Le candidat expose et développe une problématique de son choix à partir des documents proposés. L'exposé est suivi d'un entretien avec le jury.
 
-Pendant la préparation et durant l'épreuve, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes] ; coefficient 2).
+Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés. Durant l'épreuve, le candidat dispose d'un appareil de diffusion et d'un piano (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes] ; coefficient 2).
 
 2° Direction de chœur :
 
-Un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire chanter intégralement ou en partie à un ensemble vocal.
+Un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire interpréter intégralement ou en partie par un ensemble vocal.
 
-Le candidat dispose d'un clavier pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 2).
+Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 3).
 
 Section arts
 
@@ -398,17 +402,21 @@ Il est demandé au candidat de construire, à partir de ce dossier, et pour une 
 
 B. - Epreuves orales d'admission
 
-1° Une leçon portant sur les programmes de sciences économiques et sociales (option en classe de seconde, enseignement de sciences économiques et sociales en classes de première ES et de terminale ES), suivie d'un entretien avec le jury (durée de la préparation : six heures ; durée de la leçon : quarante-cinq minutes ; durée de l'entretien : quinze minutes ; coefficient 7).
+1° Une leçon portant sur les programmes de sciences économiques et sociales (option en classe de seconde, enseignement de sciences économiques et sociales en classes de première ES et de terminale ES), suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente minutes ; entretien : vingt minutes] ; coefficient 6)
 
-2° Une épreuve de mathématiques et statistiques appliquées aux sciences économiques et sociales.
+2° Commentaire d'un dossier.
 
-Durée de la préparation : deux heures.
+Le dossier, proposé par le jury au candidat, est constitué d'un ou plusieurs documents portant sur les programmes de sciences économiques et sociales des classes de seconde, première ES et terminale ES.
 
-Durée de l'épreuve : quarante-cinq minutes.
+Le dossier est à dominante économique si le sujet de leçon de la première épreuve orale d'admission est à dominante sociologique et/ou science politique. Il est à dominante sociologique et/ou science politique si le sujet de leçon de la première épreuve orale d'admission est à dominante économique.
 
-Coefficient 3.
+Le dossier comporte des données quantitatives (tableaux, graphiques, etc.) et inclut une ou deux questions d'ordre mathématique ou statistique.
 
-Le programme sur lequel porte l'épreuve est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le candidat ne dispose d'aucun document autre que ceux inclus au dossier. Seule l'utilisation d'une calculatrice fournie par le jury est autorisée.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : quarante-cinq minutes [exposé : quinze minutes ; interrogation sur les données quantitatives : quinze minutes ; entretien : quinze minutes] ; coefficient 4).
+
+Un programme de mathématiques et statistiques appliquées aux sciences économiques et sociales est publié au Bulletin officiel de l'éducation nationale.
 
 Section mécanique
 
@@ -800,67 +808,47 @@ Réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
 
 Le programme du concours est défini par référence aux programmes des BTS et DUT de la spécialité.
 
-Section économie et gestion
+Section économie et gestion (En vigueur à la session 2012 des concours)
 
-A. - Epreuves écrites d'admissibilité
+Les candidats à l'agrégation interne d'économie et gestion ont le choix entre cinq options :
 
-1° Exploitation pédagogique d'un thème relatif à l'économie et à la gestion des entreprises et des organisations portant sur l'une des quatre options suivantes, selon le choix formulé par le candidat au moment de l'inscription :
+- option A : administration et ressources humaines ;
 
-Option A : économie et gestion administrative ;
+- option B : finance et contrôle ;
 
-Option B : économie et gestion comptable et financière ;
+- option C : marketing ;
 
-Option C : économie et gestion commerciale ;
+- option D : système d'information ;
 
-Option D : économie, informatique et gestion.
+- option E : production de services.
 
-Durée : six heures ; coefficient 1.
+Ce choix est formulé au moment de l'inscription. Toutefois, les candidats proposés par le jury pour l'admissibilité et pour l'admission ne font pas l'objet de classements distincts selon l'option choisie.
 
-2° Composition portant, au choix du candidat exprimé lors de son inscription :
+Les épreuves sont déterminées ainsi qu'il suit :
 
-Sur l'économie générale ;
+A. - Epreuves d'admissibilité
 
-Ou sur les éléments généraux du droit et sur le droit de l'entreprise et des affaires.
+1° Dissertation portant sur le management.
 
-Durée : six heures ; coefficient 1.
+Durée : cinq heures ; coefficient 1.
 
-B. - Epreuves orales d'admission
+2° Exploitation pédagogique d'un thème dans la spécialité correspondant à l'option choisie par le candidat.
 
-1° Epreuve sur un thème économique, juridique ou social comportant des aspects pédagogiques.
+Durée : cinq heures ; coefficient 1.
 
-Durée de la préparation : cinq heures.
+B. - Epreuves d'admission
 
-Durée de l'épreuve : une heure.
+1° Exposé à partir d'un dossier documentaire fourni au candidat, portant au choix du candidat formulé lors de l'inscription, indépendamment de l'option A, B, C, D ou E choisie, sur :
 
-Coefficient 1.
+- une analyse économique appliquée aux organisations ;
 
-L'épreuve comprend :
+- une analyse juridique appliquée aux organisations.
 
-Un exposé sur un thème économique, juridique ou social (durée : quarante minutes maximum) ;
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
-Un entretien permettant notamment d'apprécier la réflexion pédagogique du candidat (durée : vingt minutes maximum).
+2° Epreuve de cas pratique dans la spécialité correspondant à l'option choisie par le candidat. Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
-2° Epreuve sur les techniques de gestion comportant des aspects pédagogiques.
-
-Cette épreuve porte sur les domaines suivants :
-
-Action et communication administratives pour les candidats inscrits dans l'option A ;
-
-Comptabilité et gestion pour les candidats inscrits dans l'option B ;
-
-Action et communication commerciales pour les candidats inscrits dans l'option C ;
-
-Informatique et gestion pour les candidats inscrits dans l'option D.
-
-Durée de la préparation : quatre heures.
-
-Durée de l'épreuve : une heure maximum (présentation : trente minutes maximum ; entretien : trente minutes maximum).
-
-Coefficient 1.
-
-L'épreuve comprend : la présentation d'une étude comportant l'utilisation de techniques de gestion et un entretien permettant d'apprécier la réflexion pédagogique du candidat et de prendre en compte sa pratique et son expérience.
-
-Le programme du concours est défini par référence aux programmes des classes de lycée (second cycle et STS) de la spécialité.
+Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
 
 Section éducation physique et sportive
 

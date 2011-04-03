@@ -250,7 +250,7 @@ Les épreuves d'admission sont composées d'une leçon et d'une étude de dossie
 
 1° Leçon d'histoire ou de géographie :
 
-Durée de la préparation : trois heures ; durée de l'épreuve : une heure (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 3.
+Durée de la préparation : quatre heures (en vigueur à la sessison 2012 des concours) ; durée de l'épreuve : une heure (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 3.
 
 Le sujet est tiré au sort au moment de l'épreuve. Le candidat utilise des documents dont il prévoit l'utilisation en situation d'enseignement.
 
@@ -562,9 +562,7 @@ B. ― Epreuves d'admission
 
 Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes ; entretien : vingt minutes) ; coefficient 3.
 
-L'épreuve porte sur un texte de langue française. Elle consiste en une explication de texte assortie d'une question de grammaire référée aux programmes des classes de collège ou de lycée. La méthode d'explication est laissée aux choix du candidat. La présentation de la question de grammaire prend la forme d'un développement organisé en relation avec les programmes.
-
-La leçon est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses analyses et ses choix.
+L'épreuve porte sur un texte de langue française ou sur un texte en langue ancienne (latin ou grec), en fonction d'un tirage au sort. L'épreuve portant sur un texte de langue française consiste en une explication de texte assortie d'une question de grammaire référée aux programmes des classes de collège ou de lycée. La méthode d'explication est laissée au choix du candidat. La présentation de la question de grammaire prend la forme d'un développement organisé en relation avec les programmes. L'épreuve portant sur une langue ancienne consiste en l'explication d'un texte latin ou grec (traduction, accompagnée d'un bref commentaire).
 
 2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée de l'épreuve : une heure ; coefficient 3.)
 
@@ -578,7 +576,7 @@ L'épreuve permet au candidat de montrer :
 
 ― sa réflexion sur l'histoire et les finalités de cette discipline et ses relations avec les autres disciplines.
 
-L'épreuve prend appui sur un dossier composé de documents divers (textes, documents iconographiques...) en relation avec les disciplines enseignées (français, latin, grec). Le dossier comprend des questions permettant d'apprécier la réflexion pédagogique du candidat. Le candidat prépare et présente un exposé selon les thématiques et les problématiques qu'il aura déterminées.
+L'épreuve prend appui sur un dossier composé de documents divers (textes, documents iconographiques...). Le dossier porte sur le français si le sujet de la première épreuve d'admission porte sur une langue ancienne. Il porte sur une langue ancienne (latin ou grec) si le sujet de la première épreuve d'admission porte sur le français. Le dossier comprend des questions permettant d'apprécier la réflexion pédagogique du candidat. Le candidat prépare et présente un exposé selon les thématiques et les problématiques qu'il aura déterminées.
 
 L'entretien a pour but de vérifier la capacité du candidat à transposer ses connaissances en disciplines d'enseignement.
 
@@ -638,7 +636,7 @@ La leçon est suivie d'un entretien avec le jury au cours duquel le candidat est
 
 2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : trois heures ; durée totale de l'épreuve : une heure ; coefficient 3.)
 
-Première partie : explication française prenant appui sur un dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : exposé prenant appui sur un dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
 L'épreuve permet au candidat de montrer :
 

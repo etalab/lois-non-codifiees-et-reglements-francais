@@ -860,9 +860,9 @@ Section mathématiques
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition de mathématiques générales (durée : six heures ; coefficient 1).
+1° Composition de mathématiques générales (durée : six heures ; coefficient 4).
 
-2° Composition d'analyse et de probabilités (durée : six heures ; coefficient 1).
+2° Composition d'analyse et de probabilités (durée : six heures ; coefficient 4).
 
 B. - Epreuves orales d'admission
 
@@ -886,7 +886,7 @@ Option C : algèbre et calcul formel
 
 1° L'épreuve est commune aux options A, B et C :
 
-L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trois heures et trente minutes ; durée de l'épreuve : une heure et vingt minutes maximum ; coefficient 2).
+L'épreuve se déroule en deux parties. La première partie est notée sur 16 points, la seconde sur 4 points (durée de la préparation : trois heures et trente minutes ; durée de l'épreuve : une heure et vingt minutes maximum ; coefficient 5).
 
 Première partie : épreuve d'algèbre et géométrie (exposé : quinze minutes maximum ; entretien quarante-cinq minutes maximum).
 
@@ -898,7 +898,7 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-2° Epreuve d'analyse et probabilités (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 1).
+2° Epreuve d'analyse et probabilités (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
 
 L'épreuve est commune aux options A, B et C.
 
@@ -910,7 +910,7 @@ Pour chacune de ces épreuves :
 
 - à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
-3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 1).
+3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
 L'épreuve porte sur un programme commun aux options A, B et C et sur un programme spécifique à l'option choisie.
 
@@ -924,7 +924,7 @@ Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue ave
 
 Option D : informatique
 
-1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trois heures et trente minutes ; durée de l'épreuve : une heure et vingt minutes maximum ; coefficient 2).
+1° L'épreuve se déroule en deux parties. La première partie est notée sur 16 points, la seconde sur 4 points (durée de la préparation : trois heures et trente minutes ; durée de l'épreuve : une heure et vingt minutes maximum ; coefficient 5).
 
 Première partie : épreuve de mathématiques (exposé : quinze minutes maximum ; entretien quarante-cinq minutes maximum).
 
@@ -936,7 +936,7 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-2° Epreuve d'informatique fondamentale (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 1).
+2° Epreuve d'informatique fondamentale (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
 
 Pour chacune de ces deux épreuves :
 
@@ -946,7 +946,7 @@ Pour chacune de ces deux épreuves :
 
 - à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant quinze minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
-3° Epreuve d'analyse de système informatique (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 1).
+3° Epreuve d'analyse de système informatique (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
 Deux textes décrivant une classe de systèmes informatiques sont proposés au candidat.
 
@@ -1184,31 +1184,37 @@ Section musique
 
 A. - Epreuves d'admissibilité
 
-1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des autres arts, des idées et des civilisations (durée : six heures ; coefficient 1) :
+1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des arts, des idées et des sociétés (durée : six heures ; coefficient 1) :
 
 Un programme de trois questions est publié au Bulletin officiel de l'éducation nationale. L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
 
 Les deux autres sont centrées chacune sur une période historique, un courant esthétique, une forme, un genre ou un auteur.
 
-2° Epreuve technique :
+2° Epreuve technique : notation d'éléments musicaux à partir de corpus musicaux enregistrés.
 
-Dépistage de fautes dans un fragment enregistré n'excédant pas seize mesures à trois parties maximum. Le candidat dispose d'un temps de lecture silencieuse de la partition d'une durée de vingt minutes avant la première écoute. Le fragment est entendu trois fois ;
+Pour chaque extrait, le sujet précise les éléments à noter, qu'ils soient de nature mélodique, rythmique, harmonique ou qu'ils relèvent d'autres paramètres remarquables.
 
-Notation de fragments mélodiques à deux voix, de fragments rythmiques à deux parties minimum, de fragments harmoniques à cinq sons réels au plus, par séquences de quatre accords enchaînés maximum.
+Le diapason mécanique est autorisé.
 
 L'épreuve prend fin à l'expiration d'un délai de dix minutes suivant la dernière audition du dernier fragment. La durée totale de l'épreuve ne peut excéder une heure quarante-cinq minutes (coefficient 1).
 
-3° Harmonisation à quatre parties pour une formation donnée (ensemble vocal mixte ou quatuor à cordes) d'une mélodie n'excédant pas trente mesures, tonalement analysable (durée : six heures ; coefficient 1).
+3° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ trente mesures
+
+Un programme limitatif renouvelé périodiquement est publié au Bulletin officiel de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+
+Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
 
 B. - Epreuves d'admission
 
 1° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : six heures ; durée de l'épreuve : une heure dix minutes ; coefficient 2) :
 
-Première partie : leçon devant le jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de trois documents identifiés de diverses natures, dont une partition, un enregistrement audio ou vidéo, le troisième document pouvant être, notamment, un texte littéraire, un écrit sur la musique, un document iconographique ou multimédia.
+Première partie : leçon devant un jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de plusieurs documents identifiés de nature diverse, dont une œuvre musicale enregistrée, une partition, un document iconographique, littéraire ou multimédia. Le nombre total de documents ne peut être supérieur à cinq.
 
-Le candidat expose et développe une problématique de son choix en s'appuyant sur les trois documents proposés. L'exposé est suivi d'un entretien avec le jury.
+Le candidat expose et développe une problématique de son choix à partir des documents proposés. L'exposé est suivi d'un entretien avec le jury.
 
-Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes] ; coefficient 2).
+Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés.
+
+Durant l'épreuve, le candidat dispose d'un appareil de diffusion et d'un piano (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ; entretien : vingt minutes]).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1216,23 +1222,27 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-2° Direction de chœur : un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire chanter intégralement ou en partie à un ensemble vocal.
+2° Direction de chœur : un texte polyphonique est proposé au candidat. Après une préparation, celui-ci dispose de vingt minutes pour le faire faire interpréter intégralement ou en partie par un ensemble vocal.
 
-Le candidat dispose d'un clavier pendant la durée de la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 1).
+Le candidat dispose d'un piano pendant la durée de la préparation et pendant la durée de l'épreuve (durée de la préparation : trente minutes ; durée de l'épreuve : vingt minutes ; coefficient 1).
 
-3° Pratique instrumentale : une mélodie avec paroles est proposée au candidat. Il en réalise :
+3° Epreuve de pratique instrumentale et vocale : une mélodie avec paroles est proposée au candidat. Il en réalise :
 
-Une interprétation vocale sans accompagnement ;
+- une interprétation vocale en s'accompagnant au piano ou sur un instrument polyphonique qu'il apporte ;
 
-Un accompagnement en jouant ou chantant la mélodie, au piano ou sur un instrument polyphonique qu'il apporte ;
+- une improvisation instrumentale et/ou vocale à partir du texte donné, l'instrument étant librement choisi et apporté par le candidat.
 
-Une improvisation instrumentale et/ou vocale à partir du texte donné, l'instrument étant librement choisi et apporté par le candidat.
+Cet ensemble est précédé d'une brève présentation de cinq minutes maximum des choix artistiques effectués pour l'interprétation et l'improvisation.
 
-Le candidat dispose d'un clavier pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : une heure ; durée de l'épreuve : quinze minutes ; coefficient 2).
+Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve (durée de la préparation : une heure ; durée de l'épreuve : quinze minutes ; coefficient 2).
 
-4° Commentaire d'une œuvre musicale enregistrée non identifiée (ou d'un extrait) d'une durée n'excédant pas quatre minutes :
+4° Commentaire d'une œuvre musicale enregistrée non identifiée (ou d'un extrait) d'une durée n'excédant pas quatre minutes.
 
-Le candidat écoute trois fois avec le jury le document sonore proposé. L'écoute se déroule sans partition et le candidat est autorisé à prendre des notes. Ce dernier donne à son commentaire l'orientation de son choix. L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci (durée de l'épreuve : trente minutes ; coefficient 1).
+Le candidat donne à son commentaire l'orientation de son choix. L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci.
+
+Durant la préparation, le candidat dispose d'un appareil d'écoute qu'il peut utiliser autant qu'il le souhaite. L'enregistrement n'est pas accompagné de partition. Le diapason mécanique est autorisé.
+
+Durant l'épreuve, le candidat dispose d'un appareil de diffusion qu'il peut utiliser durant son exposé initial et d'un piano (durée de la préparation : vingt minutes ; durée de l'épreuve : vingt minutes ; coefficient 1).
 
 Section arts
 
@@ -1418,7 +1428,7 @@ Cette épreuve permet d'évaluer les capacités du candidat à concevoir et à c
 
 Durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum ; entretien : quinze minutes maximum ; coefficient 1).
 
-2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure et quinze minutes ; durée de l'épreuve : une heure maximum ; coefficient 2).
+2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : une heure et quinze minutes ; durée de l'épreuve : une heure maximum ; coefficient 1).
 
 Première partie : soutenance d'un dossier industriel (présentation du dossier : vingt minutes maximum ; entretien : vingt minutes maximum).
 
@@ -1844,81 +1854,73 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
 
-Section économie et gestion
+Section économie et gestion (En vigueur à la session 2012 des concours)
 
-Les candidats à l'agrégation externe d'économie et gestion ont le choix entre quatre options :
+Les candidats à l'agrégation externe d'économie et gestion ont le choix entre cinq options :
 
-Option A : économie et gestion administrative ;
+- option A : administration et ressources humaines ;
 
-Option B : économie et gestion comptable et financière ;
+- option B : finance et contrôle ;
 
-Option C : économie et gestion commerciale ;
+- option C : marketing ;
 
-Option D : économie, informatique et gestion.
+- option D : système d'information ;
+
+- option E : production de services.
 
 Ce choix est formulé au moment de l'inscription.
 
-Les candidats proposés par les jurys pour l'admissibilité et pour l'admission font l'objet de classements distincts selon l'option choisie.
+Les candidats proposés par le jury pour l'admissibilité et pour l'admission font l'objet de classements distincts selon l'option choisie.
 
-Les épreuves de l'agrégation externe d'économie et gestion sont déterminées ainsi qu'il suit :
+Les épreuves sont déterminées ainsi qu'il suit :
 
-A. - Epreuves écrites d'admissibilité
+A. - Epreuves d'admissibilité
 
-1° Composition portant sur l'économie générale (durée : six heures ; coefficient 3).
+1° Dissertation portant sur le management.
 
-2° Composition portant, au choix du candidat formulé lors de l'inscription, indépendamment de l'option A, B, C ou D choisie :
+Durée : cinq heures ; coefficient 1.
 
-- soit sur les éléments généraux du droit et sur le droit de l'entreprise et des affaires ;
+2° Composition à partir d'un dossier portant, au choix du candidat formulé lors de l'inscription, indépendamment de l'option A, B, C, D ou E choisie :
 
-- soit sur les éléments généraux de l'analyse des organisations et sur l'économie de l'entreprise.
+- soit sur les éléments généraux du droit et sur le droit des affaires ;
 
-Durée : six heures ; coefficient 3.
+- soit sur l'économie.
 
-3° Composition portant sur la gestion des entreprises et des organisations.
+Cette épreuve consiste à répondre de façon structurée au sujet posé en se fondant sur des éléments fournis dans le dossier mais aussi en apportant ses connaissances personnelles et des exemples.
 
-Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat (durée : sept heures ; coefficient 4).
+Durée : cinq heures ; coefficient 1.
 
-B. - Epreuves orales d'admission
+3° Etude de cas sur la gestion des entreprises et des organisations.
 
-1° Exposé portant sur un thème économique, juridique ou social :
+Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat.
 
-Durée de la préparation : cinq heures.
+Durée : cinq heures ; coefficient 1.
 
-Durée de l'épreuve : une heure maximum (exposé : quarante minutes maximum ; entretien : vingt minutes maximum).
+B. - Epreuves d'admission
 
-Coefficient 4.
+1° Leçon portant sur le management suivie d'une interrogation.
 
-2° L'épreuve se déroule en deux parties.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure ; coefficient 1.
 
-La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : quatre heures trente minutes ; durée totale de l'épreuve : une heure vingt minutes ; coefficient 3).
+L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points.
 
-Première partie : exposé sur le management et la gestion des entreprises et des organisations.
+Première partie : présentation d'une leçon en relation avec les programmes de management des lycées et des classes post baccalauréat. Dans un cadre pédagogique et un contexte d'enseignement donnés, le candidat présente un projet de séquence pédagogique, intégrée dans une progression (leçon, séance de travaux dirigés, etc.). La présentation est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses choix d'ordre didactique et pédagogique (durée : quarante-cinq minutes maximum [exposé : vingt-cinq minutes maximum ; entretien : vingt minutes maximum].
 
-Durée de l'exposé : une heure maximum (exposé : quarante minutes maximum ; entretien : vingt minutes maximum).
+Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : cinq minutes maximum ; entretien avec le jury : dix minutes maximum).
 
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
+Le candidat présente sa réponse à la question qui accompagne un document remis au début de la préparation de l'épreuve puis il répond aux questions du jury. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+2° Exposé à partir d'un sujet portant, au choix du candidat formulé lors de l'inscription et indépendamment de l'option A, B, C, D ou E choisie :
 
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+- soit sur les éléments généraux du droit et sur le droit des affaires ;
 
-3° Etude comportant l'utilisation de techniques de gestion :
+- soit sur l'économie.
 
-Cette épreuve porte sur les domaines suivants :
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
-Action et communication administratives pour les candidats inscrits dans l'option A ;
+3° Epreuve de cas pratique dans la spécialité correspondant à l'option choisie par le candidat.
 
-Comptabilité et gestion pour les candidats inscrits dans l'option B ;
-
-Action et communication commerciales pour les candidats inscrits dans l'option C ;
-
-Informatique et gestion pour les candidats inscrits dans l'option D.
-
-Durée de la préparation : quatre heures.
-
-Durée de l'exposé : une heure maximum (exposé : quarante minutes maximum ; entretien : vingt minutes maximum).
-
-Coefficient 3.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
 Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
 
