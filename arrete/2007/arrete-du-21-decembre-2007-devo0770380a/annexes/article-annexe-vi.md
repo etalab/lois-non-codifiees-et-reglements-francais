@@ -22,9 +22,7 @@ Pour l'application du III de l'article R. 213-48-9 du code de l'environnement, l
 
 TABLEAU N° 3
 
-Détermination du coefficient
-
-de récupération des effluents
+Détermination du coefficient de récupération des effluents
 
 <table>
 <tbody>
@@ -278,12 +276,14 @@ Détermination du coefficient d'élimination de la pollution
 </tr>
 <tr>
 <td colspan="10">
-<p>(1) Le coefficient d'élimination de la pollution est nul. Toutefois, si les résultats d'une étude démontrent la dégradation ou l'élimination des polluants concernés dans le sol et l'absence de transfert mesurable dans les eaux souterraines, la valeur de ce coefficient est portée à 1. <br/>(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et sur la pollution soluble. En l'absence de cette étude, le coefficient d'élimination de la pollution pour les éléments DBO5 et DCO est fixé à 98 % si l'analyse de prélèvements sur piézomètre met en évidence l'absence d'impact significatif de l'épandage sur la qualité de la nappe. <br/>
+<p>(1) Le coefficient d'élimination de la pollution est nul. Toutefois, si les résultats d'une étude démontrent la dégradation ou l'élimination des polluants concernés dans le sol et l'absence de transfert mesurable dans les eaux souterraines, la valeur de ce coefficient est portée à 1. <br/>(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et soluble. La valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales. En l'absence de cette étude, le coefficient d'élimination de la pollution pour les éléments DBO5 et DCO est fixé à 98 % si l'analyse de prélèvements sur piézomètre met en évidence l'absence d'impact significatif sur la qualité de la nappe. <br/>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+En cas d'épandage d'eaux boueuses visant à éliminer des terres issues de l'arrachage de végétaux, le suivi régulier des rejets comprend des mesures des métox dans les matières en suspension et dans la fraction dissoute. Le coefficient d'élimination de l'élément constitutif de la pollution "métox" est celui retenu pour les matières en suspension. Il reste toutefois fixé à zéro pour la fraction dissoute si le suivi réalisé par piézomètre ou par prélèvement en nappe met en évidence une contamination du milieu aquatique par un ou des éléments traces métalliques constitutifs des métox issus de cet épandage.
 
 2. Autres dispositifs de dépollution mis en oeuvre par l'établissement
 
@@ -366,7 +366,7 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 </td>
 <td align="center">1 000 ≤ NTP &lt; 2 000 <br/>
 </td>
-<td align="center">NTP ≤ 2 000 <br/>
+<td align="center">NTP 2 000 <br/>
 </td>
 <td align="center">/ <br/>
 </td>
@@ -478,7 +478,9 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 
 -en l'absence de résultats de mesure journalière continue du débit de l'effluent, la pollution éliminée est déterminée en appliquant à la pollution produite un coefficient d'élimination de la pollution déterminé en comparant les quantités d'éléments constitutifs de la pollution mesurés dans des échantillons moyens journaliers constitués en entrée et en sortie du dispositif de dépollution ;
 
--la valeur du coefficient d'élimination de la pollution est arrondie à la valeur supérieure de la seconde décimale ;
+- le coefficient d'élimination de la pollution est déterminé, pour chaque élément polluant, par le rapport entre la pollution annuelle éliminée et la pollution annuelle reçue par le dispositif de dépollution ;
+
+-la valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales ;
 
 -en cas d'interruption du fonctionnement d'un dispositif de traitement pendant la période d'activité de l'établissement, la quantité de pollution éliminée est réduite de un demi pour cent par jour d'arrêt complet ou temporaire dans l'année ;
 
@@ -850,9 +852,7 @@ En cas d'épandage des boues d'épuration sur des terres agricoles, le coefficie
 
 TABLEAU N° 7
 
-Détermination du coefficient forfaitaire
-
-d'élimination des boues
+Détermination du coefficient forfaitaire d'élimination des boues
 
 <table>
 <tbody>
@@ -891,9 +891,7 @@ d'élimination des boues
 
 La valeur du coefficient ainsi déterminé est appliquée au prorata des quantités de boues éliminées par épandage en cas d'existence de plusieurs filières d'élimination des boues.
 
-3. Cas des établissements raccordés
-
-à un dispositif collectif de dépollution
+3. Cas des établissements raccordés à un dispositif collectif de dépollution
 
 a) Détermination du coefficient d'efficacité de la collecte.
 
