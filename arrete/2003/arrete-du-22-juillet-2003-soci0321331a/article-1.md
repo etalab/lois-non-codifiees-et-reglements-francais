@@ -6,7 +6,9 @@ Les personnes mentionnées à l'article R. 161-62 du même code sont les personn
 
 1° Entre le 1er et le 12 octobre 1934 ;
 
-2° Ou entre le 1er et le 10 du mois d'octobre de l'année 1938 et de toute année ultérieure séparée de l'année 1938 par un nombre d'années multiple de 4 et ayant atteint 31 ans révolus.
+2° Ou entre le 1er et le 10 du mois d'octobre de l'année 1938 et de toute année ultérieure séparée de l'année 1938 par un nombre d'années multiple de 4 et ayant atteint 23 ans révolus ;
+
+3° Les personnes dont le mois de naissance est inconnu et dont la clé du numéro de sécurité sociale (NIR) est 06, 27 ou 79.
 
 L'échantillon est actualisé tous les quatre ans. La première année d'actualisation est l'année 2007.
 

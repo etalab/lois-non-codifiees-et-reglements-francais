@@ -16,4 +16,6 @@ Les organismes visés à l'article 2 constituent, à l'aide des données qu'ils 
 
 situation administrative vis-à-vis du régime, état matrimonial, catégorie socioprofessionnelle, situation d'activité et conditions d'emploi, durée totale de carrière, durée totale d'affiliation, montant cumulé des droits acquis, taux de liquidation acquis, année probable de liquidation, dernier département ou territoire de résidence, mois et année de naissance de chaque enfant et droits acquis pour raisons familiales ;
 
-7° Pour chaque année d'affiliation depuis 1945 et jusqu'au terme de ladite année de référence de l'échantillon, la situation administrative de la personne vis-à-vis du régime, la durée d'assurance dans les régimes de base et le nombre de points dans les régimes complémentaires, obtenus par la validation de périodes travaillées ou assimilées, ainsi que la rémunération et ses composantes.
+7° Pour chaque année d'affiliation depuis 1945 et jusqu'au terme de ladite année de référence de l'échantillon, la situation administrative de la personne vis-à-vis du régime, la durée d'assurance dans les régimes de base et le nombre de points dans les régimes complémentaires, obtenus par la validation de périodes travaillées ou assimilées, ainsi que la rémunération et ses composantes ;
+
+8° Le mois et l'année du décès si la personne est décédée au terme de l'année de référence de l'échantillon.

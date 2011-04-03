@@ -12,7 +12,7 @@ Les organismes gestionnaires de régimes de retraite obligatoire mentionnés à 
 
 5° Le régime social des indépendants (régime de base et régime complémentaire) ;
 
-6° Le service des pensions de l'Etat ;
+6° Le service des retraites de l'Etat de la direction générale des finances publiques ;
 
 7° La Caisse nationale de retraite des agents des collectivités locales ;
 
@@ -22,11 +22,11 @@ Les organismes gestionnaires de régimes de retraite obligatoire mentionnés à 
 
 10° La Caisse autonome de retraite des médecins de France (régime de base, régime complémentaire et régime des praticiens conventionnés) ;
 
-11° La Caisse autonome de retraite des chirurgiens-dentistes (régime de base, régime complémentaire et régime des praticiens conventionnés) ;
+11° La Caisse autonome de retraite des chirurgiens-dentistes et des sages-femmes (régime de base, régime complémentaire et régime des praticiens conventionnés) ;
 
 12° La Caisse d'assurance vieillesse des pharmaciens (régime de base, régime complémentaire et régime des praticiens conventionnés) ;
 
-13° La Caisse autonome de retraite des sages-femmes françaises (régime de base et régime des praticiens conventionnés) ;
+13° L'établissement de retraite additionnelle de la fonction publique ;
 
 14° La Caisse autonome de retraite et de prévoyance des infirmiers, masseurs-kinésithérapeutes, pédicures-podologues, orthophonistes et orthoptistes (régime de base, régime complémentaire et régime des praticiens conventionnés) ;
 
@@ -42,15 +42,15 @@ Les organismes gestionnaires de régimes de retraite obligatoire mentionnés à 
 
 20° La Caisse autonome nationale de la sécurité sociale dans les mines (service de Paris) ;
 
-21° La caisse de retraite de la Société nationale des chemins de fer français ;
+21° La caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français ;
 
-22° Le département des prestations invalidité-vieillesse-décès d'Electricité de France-Gaz de France ;
+22° La Caisse nationale de retraite des industries électriques et gazières ;
 
 23° L'Etablissement national des invalides de la marine ;
 
 24° La Caisse de retraite et de prévoyance des clercs et employés de notaire ;
 
-25° La division pensions retraites de la Régie autonome des transports parisiens ;
+25° La caisse de retraite du personnel de la Régie autonome des transports parisiens ;
 
 26° La Caisse d'assurance vieillesse invalidité et maladie des cultes ;
 
@@ -62,4 +62,8 @@ Les organismes gestionnaires de régimes de retraite obligatoire mentionnés à 
 
 30° La Caisse des Français de l'étranger ;
 
-31° Le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat.
+31° Le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat ;
+
+32° L'organisme gestionnaire du régime d'allocation viagère des débitants de tabac ;
+
+33° L'institution de retraite complémentaire de l'enseignement et de la création.
