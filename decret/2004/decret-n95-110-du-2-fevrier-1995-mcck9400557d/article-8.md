@@ -2,9 +2,9 @@
 
 I. - Pour bénéficier des aides à la production de vidéomusiques prévues au paragraphe 1 (2° b) de l'article 1er du présent décret, les entreprises de production doivent :
 
-1° Soit avoir produit des oeuvres antérieurement diffusées puis sélectionnées, en raison de leur qualité artistique, par décision du directeur général du Centre national de la du cinématographie après avis de la commission prévue au paragraphe I (3°) de l'article 5 du présent décret.
+1° Soit avoir produit des oeuvres antérieurement diffusées sur un service de télévision ou mises à disposition du public sur un service mentionné au paragraphe IV (1°) de l'article 4 du présent décret  puis sélectionnées, en raison de leur qualité artistique, par décision du directeur général du Centre national de la du cinématographie après avis de la commission prévue au paragraphe I (3°) de l'article 5 du présent décret.
 
-Ces oeuvres doivent être présentées à la commission dans un délai maximum de six mois à compter de la première diffusion, dans des conditions fixées par arrêté du ministre chargé de la culture.
+Ces oeuvres doivent être présentées à la commission dans un délai maximum de six mois à compter de la première diffusion ou de la première mise à disposition du public, dans des conditions fixées par arrêté du ministre chargé de la culture.
 
 Un compte est ouvert au nom de chaque entreprise de production, sur lequel sont portées les sommes susceptibles de lui être octroyées pour la production d'oeuvres nouvelles.
 

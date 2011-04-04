@@ -1,10 +1,10 @@
 # Article 4
 
-I.-Toute oeuvre audiovisuelle, pour laquelle l'une des aides prévues à l'article 1er du présent décret est susceptible d'être accordée, doit :
+I.-Sous réserve des dispositions du paragraphe IV du présent article, toute oeuvre audiovisuelle, pour laquelle l'une des aides prévues à l'article 1er du présent décret est susceptible d'être accordée, doit :
 
-1° Etre destinée à une première diffusion sur un service de télévision dont l'éditeur est assujetti à la taxe prévue à l'article 302 bis KB du code général des impôts, ou à une première exploitation sur un service offrant l'accès à des œuvres audiovisuelles sur demande individuelle formulée par un procédé de communication électronique. Cette condition n'est pas requise en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues aux paragraphes I (2°, c) et II (2°) de l'article 1er du présent décret.
+1° Etre destinée à une première diffusion sur un service de télévision dont l'éditeur est assujetti à la taxe prévue à l'article L. 115-6 du code du cinéma et de l'image animée, ou à une première exploitation sur un service offrant l'accès à des œuvres audiovisuelles au moment choisi par l'utilisateur et sur demande individuelle formulée par un procédé de communication électronique. Cette condition n'est pas requise en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues aux paragraphes I (2°, c) et II (2°) de l'article 1er du présent décret.
 
-2° Etre financée par un apport initial provenant soit d'un ou plusieurs éditeurs de service de télévision mentionnés au 1°, soit d'un ou plusieurs de ces éditeurs et d'une ou plusieurs personnes mettant à disposition du public un service offrant l'accès à des œuvres audiovisuelles sur demande individuelle formulée par un procédé de communication électronique. Cet apport n'est pas requis en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues aux paragraphes I (2°, c) et II (2°) de l'article 1er du présent décret. Il doit :
+2° Etre financée par un apport initial provenant soit d'un ou plusieurs éditeurs de service de télévision mentionnés au 1°, soit d'un ou plusieurs de ces éditeurs et d'une ou plusieurs personnes mettant à disposition du public un service offrant l'accès à des œuvres audiovisuelles au moment choisi par l'utilisateur et sur demande individuelle formulée par un procédé de communication électronique. Cet apport n'est pas requis en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues aux paragraphes I (2°, c) et II (2°) de l'article 1er du présent décret. Il doit :
 
 a) Etre au moins égal à 25 % du coût définitif de l'oeuvre ou à 25 % de la participation française en cas de coproduction internationale. Pour les aides prévues au paragraphe I de l'article 1er du présent décret cet apport peut être inférieur à 25 % ;
 
@@ -25,3 +25,27 @@ III.-Lorsqu'une oeuvre est produite dans le cadre d'une coproduction internation
 Sauf disposition particulière prévue par un accord intergouvernemental, être financée par une participation française au moins égale à 30 % de son coût définitif.
 
 2° Faire l'objet de dépenses de production en France pour au moins 24 p. 100 de son coût définitif.
+
+IV.-Les aides prévues aux paragraphes II et III de l'article 1er du présent décret sont également susceptibles d'être accordées pour toute œuvre audiovisuelle qui, outre les conditions prévues au 3° du paragraphe I et selon les cas, au paragraphe II ou au paragraphe III du présent article, répond aux conditions suivantes :
+
+1° Etre conçue pour une mise à disposition du public par un ou plusieurs éditeurs de services offrant l'accès à des œuvres audiovisuelles au moment choisi par l'utilisateur et sur demande individuelle formulée par un procédé de communication électronique, établis en France. Ces éditeurs de services sont :
+
+a) Soit des éditeurs de services de médias audiovisuels à la demande soumis aux obligations prévues par les dispositions du chapitre II du décret n° 2010-1379 du 12 novembre 2010 relatif aux services de médias audiovisuels à la demande ;
+
+b) Soit des éditeurs de services, constitués sous forme de société commerciale ou d'établissement public industriel et commercial, qui consacrent une part significative de leur offre de programmes audiovisuels à des œuvres indépendantes à vocation patrimoniale, compte tenu de la nature du service et du contenu éditorial de l'offre.
+
+L'œuvre est qualifiée d'indépendante lorsqu'elle répond aux critères fixés au 1° du paragraphe I de l'article 3-1 du présent décret et qu'en outre l'éditeur de services ne détient pas, directement ou indirectement, de parts de producteur, ne prend pas personnellement ni ne partage solidairement l'initiative et la responsabilité financière, technique et artistique de la réalisation de l'œuvre non plus qu'il n'en garantit la bonne fin.
+
+2° Etre financée par un apport initial en numéraire au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas de coproduction internationale.
+
+Cet apport provient :
+
+a) Soit d'un ou plusieurs éditeurs de services mentionnés au 1°. Il est réalisé sous forme d'un contrat d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de production avant la fin des prises de vues ;
+
+b) Soit d'un ou plusieurs des éditeurs de services susmentionnés et d'autres entreprises ou organismes, établis en France, en application d'un contrat conclu avec l'entreprise de production, sous réserve des dispositions du premier alinéa de l'article 1er du présent décret. Les entreprises ou organismes ne détiennent pas, directement ou indirectement, de parts de producteur et l'apport du ou des éditeurs de services, réalisé dans les conditions prévues au a ci-dessus, est au moins égal à 12,5 % du coût définitif de l'œuvre ou à 12,5 % de la participation française en cas de coproduction internationale.
+
+L'apport n'est pas requis en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues au paragraphe II (2°) de l'article 1er du présent décret.
+
+3° Ne pas faire l'objet d'une demande au titre des aides financières sélectives à la production en faveur des nouveaux médias accordées par le Centre national du cinéma et de l'image animée en application de l'article L. 111-2 du code du cinéma et de l'image animée.
+
+Pour les œuvres audiovisuelles relevant du présent paragraphe, la durée cumulée, mentionnée aux articles 1er et 6 du présent décret, s'entend de la durée de l'ensemble des séquences d'images animées, sonorisées ou non, composant l'œuvre unitaire ou chacun de ses épisodes, tels que mis à disposition du public, à l'exclusion de toute réplication de ces séquences.

@@ -14,7 +14,7 @@ En cas de non-respect des dispositions de l'alinéa précédent, l'entreprise de
 
 2° Pour les aides dont le montant est inférieur ou égal à un plafond fixé par arrêté du ministre chargé de la culture, une autorisation d'investissement ou de réinvestissement peut être délivrée avant la fin des prises de vues.
 
-L'entreprise de production dispose d'un délai d'un an à compter de la délivrance de l'autorisation pour achever l'oeuvre. Elle fournit au Centre national de la cinématographie l'acceptation, dûment renseignée et certifiée, de la version définitive par le ou les éditeurs de service de télévision, dans un délai d'un mois suivant cette acceptation.
+L'entreprise de production dispose d'un délai d'un an à compter de la délivrance de l'autorisation pour achever l'oeuvre. Elle fournit au Centre national de la cinématographie l'acceptation, dûment renseignée et certifiée, de la version définitive par le ou les éditeurs de service concernés, dans un délai d'un mois suivant cette acceptation.
 
 En cas de non-respect des dispositions de l'alinéa précédent, l'entreprise de production est tenue de rembourser au Centre national de la cinématographie l'aide dont elle a bénéficié.
 

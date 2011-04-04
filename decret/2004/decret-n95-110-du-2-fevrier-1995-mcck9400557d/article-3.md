@@ -5,3 +5,5 @@ I. - Les entreprises de production et de distribution auxquelles sont susceptibl
 II. - Les entreprises de production doivent agir en qualité d'entreprise de production déléguée. Pour une même oeuvre, cette qualité ne peut être reconnue qu'à deux entreprises de production au plus à la condition qu'elles agissent conjointement.
 
 Est dite entreprise de production déléguée l'entreprise de production qui prend personnellement ou partage solidairement l'initiative et la responsabilité financière, technique et artistique de la réalisation de l'oeuvre et en garantit la bonne fin.
+
+En outre, les entreprises de production doivent être en mesure d'assurer une exploitation durable de l'œuvre en cohérence avec sa vocation patrimoniale.
