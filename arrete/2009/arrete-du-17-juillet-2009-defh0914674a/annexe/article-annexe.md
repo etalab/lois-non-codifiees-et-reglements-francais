@@ -24,18 +24,8 @@
 <td align="center">
 <br/>
 </td>
-<td align="center">Médecin en chef (correspondant au grade<br/>de colonel ou de capitaine de vaisseau)<br/>
-</td>
-<td align="center">5 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Médecin en chef (correspondant au grade<br/>de lieutenant-colonel ou de capitaine de frégate)<br/>
-</td>
-<td align="center">5 ans<br/>
+<td align="center">Médecin en chef </td>
+<td align="center">10 ans<br/>
 </td>
 </tr>
 <tr>
@@ -68,18 +58,8 @@
 <td align="center">
 <br/>
 </td>
-<td align="center">Pharmacien, vétérinaire, chirurgien-dentiste en chef (correspondant au grade de colonel ou de capitaine de vaisseau)<br/>
-</td>
-<td align="center">5 ans<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Pharmacien, vétérinaire, chirurgien-dentiste en chef (correspondant au grade de lieutenant-colonel ou de capitaine de frégate)<br/>
-</td>
-<td align="center">5 ans<br/>
+<td align="center">Pharmacien, vétérinaire, chirurgien-dentiste en chef </td>
+<td align="center">10 ans<br/>
 </td>
 </tr>
 <tr>
