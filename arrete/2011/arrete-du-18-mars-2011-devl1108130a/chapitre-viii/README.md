@@ -1,0 +1,3 @@
+# CHAPITRE VIII : DISPOSITIONS TRANSITOIRES
+
+- [Article 42](article-42.md)
