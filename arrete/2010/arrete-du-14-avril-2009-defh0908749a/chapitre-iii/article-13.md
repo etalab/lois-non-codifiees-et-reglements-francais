@@ -22,124 +22,197 @@ Ces épreuves comprennent :
 
 Les matières, les durées et les coefficients des épreuves d'admission sont les suivants :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>MATIÈRES<br/>
-</th>
-<th>DURÉES<br/>
-</th>
-<th colspan="3">COEFFICIENTS<br/>
-</th>
+<td rowspan="3" width="220">
+<p align="center">MATIÈRE</p>
+</td>
+<td rowspan="3" width="126">
+<p align="center">
+<br/>DURÉE</p>
+</td>
+<td colspan="3" width="169">
+<p align="center">
+<br/>   COEFFICIENT</p>
+</td>
 </tr>
 <tr>
-<th>
+<td colspan="3" width="169">
+<p align="center">
+<br/>Option</p>
+</td>
+</tr>
+<tr>
+<td width="52">
+<p align="center">
+<br/>MP</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>PC</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>PSI</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Mathématiques</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>30 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>12</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>10</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>10</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Physique</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>30 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>10</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>12</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>12</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Entretien</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>30 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>18</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>18</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>18</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Travaux d'initiative personnelle encadrés (assurée par le service commun des concours polytechniques)</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>40 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>6</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>6</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>6</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Français</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>30 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>8</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>8</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>8</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Langue vivante anglaise</p>
+</td>
+<td width="126">
+<p align="center">
+<br/>30 minutes</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>8</p>
+</td>
+<td width="52">
+<p align="center">
+<br/>8</p>
+</td>
+<td width="51">
+<p align="center">
+<br/>8</p>
+</td>
+</tr>
+<tr>
+<td width="220">
+<p align="center">
+<br/>Total</p>
+</td>
+<td width="126">
 <br/>
-</th>
-<th>
-<br/>
-</th>
-<th colspan="3">Options<br/>
-</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>MP<br/>
-</th>
-<th>PC<br/>
-</th>
-<th>PSI<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Mathématiques<br/>
 </td>
-<td align="center">30 minutes<br/>
+<td width="52">
+<p align="center">
+<br/>62</p>
 </td>
-<td align="center">18<br/>
+<td width="52">
+<p align="center">
+<br/>62</p>
 </td>
-<td align="center">13<br/>
-</td>
-<td align="center">13<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Physique<br/>
-</td>
-<td align="center">30 minutes<br/>
-</td>
-<td align="center">12<br/>
-</td>
-<td align="center">17<br/>
-</td>
-<td align="center">17<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Entretien<br/>
-</td>
-<td align="center">30 minutes<br/>
-</td>
-<td align="center">18<br/>
-</td>
-<td align="center">18<br/>
-</td>
-<td align="center">18<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Travaux d'initiative personnelle encadrés (assurée par le service commun des concours polytechniques)<br/>
-</td>
-<td align="center">40 minutes<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Français<br/>
-</td>
-<td align="center">30 minutes<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Langue vivante anglaise<br/>
-</td>
-<td align="center">30 minutes<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Total<br/>
-</td>
-<td/>
-<td align="center">72<br/>
+<td width="51">
+<p align="center">
+<br/>62</p>
 </td>
 </tr>
 </tbody>
 </table>
 
+<div align="left">
+<br/>La nature et le programme de ces épreuves sont précisés en annexe.<br/>
 </div>
-
-La nature et le programme de ces épreuves sont précisés en annexe.

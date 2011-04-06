@@ -4,11 +4,9 @@ ANNEXE RELATIVE À LA NATURE, AU PROGRAMME ET À LA DURÉE DES ÉPREUVES
 
 A. ― Epreuves écrites d'admissibilité
 
-Les épreuves écrites, à l'exception de la seconde composition de français (synthèse), sont celles des concours communs polytechniques.
+Les épreuves écrites sont celles des concours communs polytechniques.
 
 La nature et la forme de ces épreuves écrites communes sont fixées par le service des concours communs polytechniques. Ces épreuves portent sur l'ensemble des programmes de 1re et 2e année des classes préparatoires MPSI, MP, PCSI, PC et PSI.
-
-L'épreuve spécifique de français est une synthèse de documents d'intérêt général.
 
 L'usage d'un dictionnaire est interdit pour l'épreuve obligatoire de langue vivante étrangère, sauf pour l'arabe littéral où un dictionnaire bilingue est autorisé.
 
@@ -40,7 +38,7 @@ Les épreuves de mathématiques peuvent comporter l'utilisation des logiciels de
 
 ― un test de compréhension auditive de conversation courante, constituant une épreuve, sans préparation, de 15 minutes environ.
 
-5. L'épreuve de  travaux d'initiative personnelle encadrés  est organisée par le service commun des concours polytechniques qui en fixe la nature. Elle comporte une préparation de 2 h 15 et une présentation orale de 40 minutes.
+5. L'épreuve de travaux d'initiative personnelle encadrés est organisée par le service commun des concours polytechniques qui en fixe la nature. Elle comporte une préparation de 2 h 15 et une présentation orale de 40 minutes.
 
 6. Une épreuve d'entretien avec le jury, d'une durée de 30 minutes environ, a pour but :
 
