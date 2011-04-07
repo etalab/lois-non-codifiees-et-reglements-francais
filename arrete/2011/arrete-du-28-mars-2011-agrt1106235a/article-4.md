@@ -1,0 +1,7 @@
+# Article 4
+
+Dans le cadre des missions mentionnées à l'article D. 343-17-2 du code rural et de la pêche maritime, les chambres d'agriculture vérifient la complétude de la demande des aides présentée par le candidat à l'installation. Elles contrôlent la conformité, l'éligibilité et la cohérence du dossier et assure sa transmission au préfet accompagné d'un rapport de préinstruction comportant un avis motivé. Elles participent aux réunions de commissions, y compris les réunions préparatoires, et réalisent une note de présentation de chaque dossier.
+
+La vérification de la conformité des conditions dont est assortie la décision d'octroi de la dotation d'installation et de la bonification relèvent des missions assurées par les chambres d'agriculture, qui collectent, vérifient et transmettent aux préfets les documents permettant la mise en paiement. Les chambres effectuent la collecte et l'analyse des données permettant le contrôle final des études prévisionnelles d'installation et des plans de développement de l'exploitation. Elles assurent en outre le suivi annuel du plan de développement de l'exploitation. Elles participent aux enquêtes préalables qui peuvent être diligentées par l'organisme payeur en cas de demande de remise gracieuse lorsque les aides à l'installation versées doivent être remboursées.
+
+L'ensemble de ces missions comprend la saisie et l'édition des documents correspondants sous les outils de gestion informatique fournis par le ministère chargé de l'agriculture ou l'organisme payeur.

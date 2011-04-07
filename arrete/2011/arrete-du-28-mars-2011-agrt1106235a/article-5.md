@@ -1,0 +1,5 @@
+# Article 5
+
+Pour justifier de l'accomplissement des missions figurant aux articles 2 à 4, les chambres remettent annuellement au préfet de département, sur la base du modèle qui leur est fourni par le ministère chargé de l'agriculture, un rapport d'activité permettant notamment d'évaluer chacune des missions confiées.
+
+Elles mettent en place une démarche visant à assurer la bonne réalisation des missions de service public et leur indépendance vis-à-vis des activités concurrentielles que peuvent être amenées à conduire les chambres. A cet effet, sans préjudice des autres actions permettant le respect des règles d'éthique, d'équité et de confidentialité, une structure dédiée à la préinstruction et au suivi des dossiers individuels relevant des missions de services publics doit être identifiée au sein des chambres. Les chambres d'agriculture mettent à disposition des services du ministère chargé de l'agriculture les documents relatifs au respect de l'ensemble de ces normes, y compris ceux concernant la mise en œuvre d'une démarche qualité normalisée.
