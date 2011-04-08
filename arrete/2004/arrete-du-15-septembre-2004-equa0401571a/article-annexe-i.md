@@ -14,7 +14,7 @@ Paris-Mayotte.
 
 2. 1. De/vers la France métropolitaine
 
-Afrique du Sud
+Afrique du Sud (jusqu'au 31 décembre 2012)
 
 Paris-Durban.
 
@@ -28,17 +28,17 @@ Paris-Le Cap.
 
 Paris-Port Elizabeth.
 
-Algérie
+Algérie (jusqu'au 31 décembre 2012)
 
 Marseille-Alger.
 
 Paris-Alger.
 
-Angola
+Angola (jusqu'au 31 décembre 2012)
 
 Paris-Luanda.
 
-Antilles néerlandaises
+Antilles néerlandaises (jusqu'au 31 décembre 2012)
 
 Paris-Aruba.
 
@@ -48,7 +48,7 @@ Paris-Curaçao.
 
 Paris-Saint-Martin (Juliana).
 
-Arabie saoudite
+Arabie saoudite (jusqu'au 31 décembre 2012)
 
 Paris-Dammam.
 
@@ -58,11 +58,17 @@ Paris-Djeddah.
 
 Paris-Riyad.
 
-Argentine
+Argentine (jusqu'au 31 décembre 2012)
 
 Paris-Buenos Aires.
 
-Australie
+Arménie (jusqu'au 31 décembre 2012) :
+
+Lyon-Erevan ;
+
+Marseille-Erevan.
+
+Australie (jusqu'au 31 décembre 2012)
 
 Paris-Adélaïde.
 
@@ -76,23 +82,23 @@ Paris-Perth.
 
 Paris-Sydney.
 
-Bahamas
+Bahamas (jusqu'au 31 décembre 2012)
 
 Paris-Nassau.
 
-Bahreïn
+Bahreïn (jusqu'au 31 décembre 2012)
 
 Paris-Bahreïn.
 
-Belize
+Belize (jusqu'au 31 décembre 2012)
 
 Paris-Belize City.
 
-Bénin
+Bénin (jusqu'au 31 décembre 2012)
 
 Paris-Cotonou.
 
-Brésil
+Brésil (jusqu'au 31 décembre 2012)
 
 Paris - Belém.
 
@@ -120,21 +126,21 @@ Paris-Salvador de Bahia.
 
 Paris-São Paulo.
 
-Bulgarie
+Bulgarie (jusqu'au 31 décembre 2012)
 
 Paris-Sofia.
 
-Burkina Faso
+Burkina Faso (jusqu'au 31 décembre 2012)
 
 Paris-Ouagadougou.
 
-Cambodge
+Cambodge (jusqu'au 31 décembre 2012)
 
 Paris-Phnom-Penh.
 
 Paris-Siem Reap.
 
-Cameroun
+Cameroun (jusqu'au 31 décembre 2012)
 
 Paris-Douala.
 
@@ -162,67 +168,67 @@ Paris - Winnipeg,
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire du Canada situé au-delà d'un des points du territoire canadien mentionnés ci-dessus ou d'un des points du territoire des Etats-Unis d'Amérique mentionnés au 2.1 de la présente annexe.
 
-Chili
+Chili (jusqu'au 31 décembre 2012)
 
 Paris-Santiago.
 
-Colombie
+Colombie (jusqu'au 31 décembre 2012)
 
 Paris-Bogota.
 
-Comores
+Comores (jusqu'au 31 décembre 2012)
 
-Paris-Moroni (jusqu'au 31 décembre 2012).
+Paris-Moroni
 
-Congo
+Congo (jusqu'au 31 décembre 2012)
 
 Paris-Brazzaville.
 
 Paris-Pointe-Noire.
 
-Corée du Sud
+Corée du Sud (jusqu'au 31 décembre 2012)
 
 Paris-Séoul.
 
-Costa Rica
+Costa Rica (jusqu'au 31 décembre 2012)
 
-Paris - Liberia (jusqu'au 31 décembre 2012).
+Paris - Liberia
 
 Paris-San José.
 
-Côte d'Ivoire
+Côte d'Ivoire (jusqu'au 31 décembre 2012)
 
 Paris-Abidjan.
 
-Croatie
+Croatie (jusqu'au 31 décembre 2012)
 
 Paris-Zagreb.
 
-Cuba
+Cuba (jusqu'au 31 décembre 2012)
 
 Paris-La Havane.
 
-Djibouti
+Djibouti (jusqu'au 31 décembre 2012)
 
 Paris-Djibouti.
 
-Egypte
+Egypte (jusqu'au 31 décembre 2012)
 
 Paris-Le Caire.
 
-Emirats arabes unis
+Emirats arabes unis (jusqu'au 31 décembre 2012)
 
 Paris-Abu Dhabi.
 
 Paris-Dubaï.
 
-Equateur
+Equateur (jusqu'au 31 décembre 2012)
 
 Paris-Quito.
 
 Paris-Guyaquil.
 
-Etats-Unis d'Amérique
+Etats-Unis d'Amérique (jusqu'au 31 décembre 2012)
 
 Nice-New York (New York).
 
@@ -292,71 +298,71 @@ Paris-Washington (Washington DC),
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire des Etats-Unis d'Amérique situé au-delà d'un des points du territoire des Etats-Unis d'Amérique mentionnés ci-dessus ou d'un des points du territoire du Canada mentionnés au 2.1 de la présente annexe.
 
-Gabon
+Gabon (jusqu'au 31 décembre 2012)
 
 Paris-Libreville.
 
-Géorgie
+Géorgie (jusqu'au 31 décembre 2012)
 
 Paris-Tbilissi.
 
-Ghana
+Ghana (jusqu'au 31 décembre 2012)
 
 Paris-Accra.
 
-Guatemala
+Guatemala (jusqu'au 31 décembre 2012)
 
 Paris-Guatemala City.
 
-Guinée
+Guinée (jusqu'au 31 décembre 2012)
 
 Paris-Conakry.
 
-Guinée équatoriale
+Guinée équatoriale (jusqu'au 31 décembre 2012)
 
 Paris-Malabo.
 
-Paris - Bata (jusqu'au 31 décembre 2012).
+Paris - Bata
 
-Haïti
+Haïti (jusqu'au 31 décembre 2012)
 
 Paris-Port-au-Prince.
 
-Honduras
+Honduras (jusqu'au 31 décembre 2012)
 
 Paris-San Pedro Sula.
 
-Hongkong
+Hongkong (jusqu'au 31 décembre 2012)
 
 Paris-Hongkong.
 
-Inde
+Inde (jusqu'au 31 décembre 2012)
 
 Paris-Bombay.
 
 Paris-Delhi.
 
-Indonésie
+Indonésie (jusqu'au 31 décembre 2012)
 
 Paris-Djarkata.
 
-Irak
+Irak (jusqu'au 31 décembre 2012)
 
 Paris-Bagdad.
 
-Iran
+Iran (jusqu'au 31 décembre 2012)
 
 Paris-Téhéran.
 
-Israël
+Israël (jusqu'au 31 décembre 2012)
 
 Paris-Tel-Aviv.
 
-Jamaïque
+Jamaïque (jusqu'au 31 décembre 2012)
 
-Paris-Montego Bay (jusqu'au 31 décembre 2012).
+Paris-Montego Bay
 
-Japon
+Japon (jusqu'au 31 décembre 2012)
 
 Paris-Fukuoka.
 
@@ -368,27 +374,45 @@ Paris-Sapporo.
 
 Paris-Tokyo.
 
-Jordanie
+Paris-Hiroshima.
+
+Paris-Kagoshima.
+
+Paris-Komatsu.
+
+Paris-Kumamoto.
+
+Paris-Matsuyama.
+
+Paris-Miyazaki.
+
+Paris-Nagasaki.
+
+Paris-Okayama.
+
+Paris-Okinawa.
+
+Jordanie (jusqu'au 31 décembre 2012)
 
 Paris-Amman.
 
-Kazakhstan
+Kazakhstan (jusqu'au 31 décembre 2012)
 
 Paris-Atyrau.
 
 Paris-Almaty.
 
-Kenya
+Kenya (jusqu'au 31 décembre 2012)
 
 Paris - Kisumu.
 
 Paris-Nairobi.
 
-Koweït
+Koweït (jusqu'au 31 décembre 2012)
 
 Paris-Koweït.
 
-Liban
+Liban (jusqu'au 31 décembre 2012)
 
 Paris-Beyrouth.
 
@@ -396,23 +420,23 @@ Liberia (jusqu'au 31 décembre 2012)
 
 Paris - Monrovia.
 
-Libye
+Libye (jusqu'au 31 décembre 2012)
 
 Paris-Tripoli.
 
-Madagascar
+Madagascar (jusqu'au 31 décembre 2012)
 
 Paris-Antananarivo.
 
-Malaisie
+Malaisie (jusqu'au 31 décembre 2012)
 
 Paris-Kuala Lumpur.
 
-Mali
+Mali (jusqu'au 31 décembre 2012)
 
 Paris-Bamako.
 
-Maroc
+Maroc (jusqu'au 31 décembre 2012)
 
 Bordeaux-Casablanca.
 
@@ -434,23 +458,15 @@ Strasbourg-Casablanca.
 
 Toulouse-Casablanca.
 
-Maurice
+Maurice (jusqu'au 31 décembre 2012).
 
 Paris-Rodrigue.
 
-Saint-Denis de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
-
-Saint-Denis de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
-
-Saint-Pierre de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
-
-Saint-Pierre de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
-
-Mauritanie
+Mauritanie (jusqu'au 31 décembre 2012)
 
 Paris-Nouakchott.
 
-Mexique
+Mexique (jusqu'au 31 décembre 2012)
 
 Paris-Acapulco.
 
@@ -474,23 +490,39 @@ Paris-Puerto Vallarta.
 
 Paris - Villahermosa.
 
-Moldavie
+Mexique (jusqu'au 31 décembre 2012)
 
-Paris - Chisinau. (jusqu'au 31 décembre 2012).
+Paris-Ciudad Juarez ;
 
-Mozambique
+Paris-Hermosillo ;
+
+Paris-Minatitlan ;
+
+Paris-Mexicali ;
+
+Paris-San Jose Cabo ;
+
+Paris-Tuxtla Gutierrez ;
+
+Paris-Tijuana.
+
+Moldavie (jusqu'au 31 décembre 2012)
+
+Paris - Chisinau.
+
+Mozambique (jusqu'au 31 décembre 2012)
 
 Paris-Maputo.
 
-Nicaragua
+Nicaragua (jusqu'au 31 décembre 2012)
 
 Paris-Managua.
 
-Niger
+Niger (jusqu'au 31 décembre 2012)
 
 Paris-Niamey.
 
-Nigeria
+Nigeria (jusqu'au 31 décembre 2012)
 
 Paris-Abuja.
 
@@ -500,41 +532,41 @@ Paris-Lagos.
 
 Paris-Port-Harcourt.
 
-Ouzbékistan
+Ouzbékistan (jusqu'au 31 décembre 2012)
 
 Paris-Tachkent.
 
-Panama
+Panama (jusqu'au 31 décembre 2012)
 
 Paris-Panama City.
 
-Pérou
+Pérou (jusqu'au 31 décembre 2012)
 
 Paris-Lima.
 
-Philippines
+Philippines (jusqu'au 31 décembre 2012)
 
 Paris-Manille.
 
-Qatar
+Qatar (jusqu'au 31 décembre 2012)
 
 Paris-Doha.
 
-République Centrafricaine
+République Centrafricaine (jusqu'au 31 décembre 2012)
 
 Paris-Bangui.
 
-République démocratique du Congo
+République démocratique du Congo (jusqu'au 31 décembre 2012)
 
 Paris-Kinshasa.
 
-République dominicaine
+République dominicaine (jusqu'au 31 décembre 2012)
 
 Paris-Saint-Domingue.
 
 Paris-Punta Cana.
 
-République populaire de Chine
+République populaire de Chine (jusqu'au 31 décembre 2012)
 
 Paris-Canton.
 
@@ -545,8 +577,6 @@ Paris-Pékin.
 Paris-Shanghai.
 
 Paris-Wuhan.
-
-République populaire de Chine (jusqu'au 31/12/2012)
 
 Paris - Changchun.
 
@@ -562,11 +592,15 @@ Paris - Fuzhou.
 
 Paris - Guilin.
 
+Paris-Guyiang.
+
 Paris - Haikou.
 
 Paris - Hangzhou.
 
 Paris - Harbin.
+
+Paris-Nanning.
 
 Paris - Ningbo.
 
@@ -588,11 +622,11 @@ Paris - Yiwu.
 
 Paris - Zhengzhou.
 
-Roumanie
+Roumanie (jusqu'au 31 décembre 2012)
 
 Paris-Bucarest.
 
-Russie
+Russie (jusqu'au 31 décembre 2012)
 
 Nice-Moscou.
 
@@ -614,19 +648,19 @@ Paris - Novossibirsk.
 
 Paris - Samara.
 
-Salvador
+Salvador (jusqu'au 31 décembre 2012)
 
 Paris-San Salvador.
 
-Sénégal
+Sénégal (jusqu'au 31 décembre 2012)
 
 Paris-Dakar.
 
-Serbie-et-Monténégro
+Serbie-et-Monténégro (jusqu'au 31 décembre 2012)
 
 Paris-Belgrade.
 
-Seychelles
+Seychelles (jusqu'au 31 décembre 2012)
 
 Paris-Seychelles.
 
@@ -634,47 +668,47 @@ Sierra Leone (jusqu'au 31 décember 2012)
 
 Paris - Freetown.
 
-Singapour
+Singapour (jusqu'au 31 décembre 2012)
 
 Paris-Singapour.
 
-Sri Lanka
+Sri Lanka (jusqu'au 31 décembre 2012)
 
 Paris-Colombo.
 
-Surinam
+Surinam (jusqu'au 31 décembre 2012)
 
 Paris-Paramaribo.
 
-Syrie
+Syrie (jusqu'au 31 décembre 2012)
 
 Paris-Damas.
 
-Tanzanie
+Tanzanie (jusqu'au 31 décembre 2012)
 
 Paris-Dar es Salam.
 
 Paris-Kilimandjaro.
 
-Tchad
+Tchad (jusqu'au 31 décembre 2012)
 
 Paris-Ndjamena.
 
-Thaïlande
+Thaïlande (jusqu'au 31 décembre 2012)
 
 Paris-Bangkok.
 
 Paris - Trat.
 
-Togo
+Togo (jusqu'au 31 décembre 2012)
 
 Paris-Lomé.
 
-Trinité-et-Tobago
+Trinité-et-Tobago (jusqu'au 31 décembre 2012)
 
 Paris-Port d'Espagne.
 
-Tunisie
+Tunisie (jusqu'au 31 décembre 2012)
 
 Bordeaux-Tunis.
 
@@ -690,43 +724,43 @@ Paris-Tunis.
 
 Toulouse-Tunis.
 
-Turquie
+Turquie (jusqu'au 31 décembre 2012)
 
 Paris-Istanbul.
 
-Ukraine
+Ukraine (jusqu'au 31 décembre 2012)
 
 Paris-Kiev.
 
-Uruguay
+Uruguay (jusqu'au 31 décembre 2012)
 
 Paris-Montevideo.
 
-Venezuela
+Venezuela (jusqu'au 31 décembre 2012)
 
 Paris-Caracas.
 
-Vietnam
+Vietnam (jusqu'au 31 décembre 2012)
 
 Paris-Hanoi.
 
 Paris-Hô Chi Minh-Ville.
 
-Yémen
+Yémen (jusqu'au 31 décembre 2012)
 
-Paris - Sanaa. (jusqu'au 31 décembre 2012)
+Paris - Sanaa.
 
-Zambie
+Zambie (jusqu'au 31 décembre 2012)
 
 Paris - Lusaka.
 
-Zimbabwe
+Zimbabwe (jusqu'au 31 décembre 2012)
 
 Paris-Harare.
 
 2. 2. De/vers les Antilles et la Guyane
 
-Cuba
+Cuba (jusqu'au 31 décembre 2012)
 
 Cayenne-La Havane.
 
@@ -734,7 +768,7 @@ Fort-de-France-La Havane.
 
 Pointe-à-Pitre-La Havane.
 
-Etats-Unis d'Amérique
+Etats-Unis d'Amérique (jusqu'au 31 décembre 2012)
 
 Cayenne-Miami.
 
@@ -742,7 +776,7 @@ Fort-de-France-Miami.
 
 Pointe-à-Pitre-Miami.
 
-Haïti
+Haïti (jusqu'au 31 décembre 2012)
 
 Cayenne-Port-au-Prince.
 
@@ -750,7 +784,7 @@ Fort-de-France-Port-au-Prince.
 
 Pointe-à-Pitre-Port-au-Prince.
 
-République dominicaine
+République dominicaine (jusqu'au 31 décembre 2012)
 
 Cayenne-Saint-Domingue.
 
@@ -758,24 +792,34 @@ Fort-de-France-Saint-Domingue.
 
 Pointe-à-Pitre-Saint-Domingue.
 
-Trinité-et-Tobago
+Trinité-et-Tobago (jusqu'au 31 décembre 2012)
 
 Cayenne-Port-d'Espagne.
 
 Fort-de-France-Port-d'Espagne.
 
-Venezuela
+Venezuela (jusqu'au 31 décembre 2012)
 
 Fort-de-France-Caracas.
 
 2. 3. De/vers La Réunion
 
-Madagascar
+Madagascar (jusqu'au 31 décembre 2012)
 
 Réunion-Antananarivo.
 
+Maurice (jusqu'au 31 décembre 2012)
+
+Saint-Denis de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Denis de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Pierre de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Pierre de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
 2. 4. De/vers Mayotte
 
-Seychelles
+Seychelles (jusqu'au 31 décembre 2012)
 
 Mayotte-Seychelles.
