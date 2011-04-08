@@ -13,6 +13,5 @@
 - [Article Annexe IV](article-annexe-iv.md)
 - [Article Annexe V](article-annexe-v.md)
 - [Article Annexe VI-C](article-annexe-vi-c.md)
-- [Article Annexe VI-C (suite)](article-annexe-vi-c-suite.md)
 - [Article Annexe VI-A](article-annexe-vi-a.md)
 - [Article Annexe VI-B](article-annexe-vi-b.md)

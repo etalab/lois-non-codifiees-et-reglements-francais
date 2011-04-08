@@ -1778,7 +1778,6 @@
 - [Arrêté du 19 avril 2010 (MCCB1010138A)](arrete-du-19-avril-2010-mccb1010138a)
 - [Arrêté du 19 avril 2010 (MCCB1010231A)](arrete-du-19-avril-2010-mccb1010231a)
 - [Arrêté du 19 février 2010 (BCFL1005981A)](arrete-du-19-fevrier-2010-bcfl1005981a)
-- [Arrêté du 19 février 2010 (BCFL1006070A)](arrete-du-19-fevrier-2010-bcfl1006070a)
 - [Arrêté du 19 février 2010 (BCFL1006124A)](arrete-du-19-fevrier-2010-bcfl1006124a)
 - [Arrêté du 19 février 2010 (BCFR1003194A)](arrete-du-19-fevrier-2010-bcfr1003194a)
 - [Arrêté du 19 février 2010 (DEVO1004323A)](arrete-du-19-fevrier-2010-devo1004323a)
