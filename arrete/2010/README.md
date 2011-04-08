@@ -22,7 +22,6 @@
 - [Arrêté du 2 août 2010 (SASP1020734A)](arrete-du-2-aout-2010-sasp1020734a)
 - [Arrêté du 2 août 2010 (SASP1020740A)](arrete-du-2-aout-2010-sasp1020740a)
 - [Arrêté du 2 avril 2010 (AGRT1007887A)](arrete-du-2-avril-2010-agrt1007887a)
-- [Arrêté du 2 avril 2010 (DEVN1000911A)](arrete-du-2-avril-2010-devn1000911a)
 - [Arrêté du 2 avril 2010 (IOCA1007397A)](arrete-du-2-avril-2010-ioca1007397a)
 - [Arrêté du 2 avril 2010 (SASH1009281A)](arrete-du-2-avril-2010-sash1009281a)
 - [Arrêté du 2 avril 2010 (SASP1009637A)](arrete-du-2-avril-2010-sasp1009637a)
