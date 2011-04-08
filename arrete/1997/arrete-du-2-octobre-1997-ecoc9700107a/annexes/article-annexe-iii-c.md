@@ -267,7 +267,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="51">
 <br/>
@@ -396,7 +396,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Farces pour raviolis et produits similaires </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -428,7 +428,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="51">
 <br/>
@@ -451,7 +451,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="51">
 <br/>
@@ -465,7 +465,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Fruits secs et séchés </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -488,7 +488,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Frugtgrod et Rote Grütze</p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <p align="center">500</p>
@@ -511,7 +511,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Préparations de fruits et de légumes, y compris les sauces à base de fruits, excepté les purées, les mous­ses, les compotes, les salades et produits similaires, en conserve </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -543,7 +543,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="51">
 <br/>
@@ -557,7 +557,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Pâte de pommes de terre et tranches de pommes de terre préfrites </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -580,7 +580,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Gnocchi</p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -626,7 +626,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Olives et préparations à base d'olives </p>
 </td>
 <td width="71">
-<p align="center">(*3) 1 000</p>
+<p align="center">(*3) 1000</p>
 </td>
 <td width="62">
 <p align="center">500</p>
@@ -635,7 +635,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000 (3*)</p>
+<p align="center">1000 (3*)</p>
 </td>
 <td width="51">
 <br/>
@@ -662,7 +662,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="51">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="70">
 <br/>
@@ -695,7 +695,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="51">
 <br/>
@@ -764,7 +764,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">6 000</p>
+<p align="center">6000</p>
 </td>
 <td width="51">
 <br/>
@@ -778,7 +778,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Fromage en tranche, préemballé </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -801,7 +801,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Fromage non affiné </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -824,7 +824,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Fromage fondu </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -847,7 +847,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Fromage en couches et fromage avec addition de denrées alimentaires </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -893,7 +893,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Lait caillé </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -925,7 +925,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">5 000</p>
+<p align="center">5000</p>
 </td>
 <td width="51">
 <br/>
@@ -962,7 +962,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Pain tranché et préemballé et pain de seigle </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -985,7 +985,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>(*12) Produits de boulangerie précuits et préemballés destinés à la vente au détail et pain à valeur énergétique réduite destiné à la vente au détail (12*) </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1008,7 +1008,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Produits de la boulangerie fine dont l'activité de l'eau est supérieure à 0,65 </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1043,7 +1043,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="51">
-<p align="center">1 000 (au maximum 300 PHB)</p>
+<p align="center">1000 (au maximum 300 PHB)</p>
 </td>
 <td width="70">
 <br/>
@@ -1054,7 +1054,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Pâte à frire </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1092,7 +1092,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="70">
-<p align="center">1 500 (au maximum 300 PHB)</p>
+<p align="center">1500 (au maximum 300 PHB)</p>
 </td>
 </tr>
 <tr>
@@ -1109,7 +1109,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 500</p>
+<p align="center">1500</p>
 </td>
 <td width="51">
 <br/>
@@ -1123,7 +1123,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Nappages (sirops pour crêpes, sirops aromatisés pour laits frappés aromatisés et glaces ; produits similaires) </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -1146,7 +1146,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Emulsions de matières grasses (à l'exception du beurre) dont la teneur en matières grasses est d'au moins 60 % </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -1169,7 +1169,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Emulsions de matières grasses dont la teneur en ma­tières grasses est inférieure à 60 % </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1192,7 +1192,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Sauces émulsionnées dont la teneur en matières grasses est d'au moins 60 % </p>
 </td>
 <td width="71">
-<p align="center">(*3) 1 000</p>
+<p align="center">(*3) 1000</p>
 </td>
 <td width="62">
 <p align="center">500</p>
@@ -1201,7 +1201,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000 (3*)</p>
+<p align="center">1000 (3*)</p>
 </td>
 <td width="51">
 <br/>
@@ -1215,7 +1215,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Sauces émulsionnées dont la teneur en matières grasses est inférieure à 60 % </p>
 </td>
 <td width="71">
-<p align="center">(*3) 2 000</p>
+<p align="center">(*3) 2000</p>
 </td>
 <td width="62">
 <p align="center">1 000</p>
@@ -1224,7 +1224,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">2 000 (3*)</p>
+<p align="center">2000 (3*)</p>
 </td>
 <td width="51">
 <br/>
@@ -1247,7 +1247,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="51">
 <br/>
@@ -1270,7 +1270,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 500</p>
+<p align="center">1500</p>
 </td>
 <td width="51">
 <br/>
@@ -1293,7 +1293,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="51">
 <br/>
@@ -1316,7 +1316,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="51">
 <br/>
@@ -1353,7 +1353,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Aspic </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <p align="center">500</p>
@@ -1373,7 +1373,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 </tr>
 <tr>
 <td colspan="2" height="18" width="323">
-<p align="center">Compléments alimentaires liquides (supprimé par *15*)</p>
+<p align="center">Compléments alimentaires liquides<br/>(supprimé par *15*)</p>
 </td>
 <td width="62">
 <br/>
@@ -1405,7 +1405,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 500</p>
+<p align="center">1500</p>
 </td>
 <td width="51">
 <br/>
@@ -1442,7 +1442,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Substituts de viande, de poisson, de crustacés et céphalopodes et de fromage à base de protéines </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1468,7 +1468,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="62">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="33">
 <br/>
@@ -1497,7 +1497,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="56">
-<p align="center">1 500</p>
+<p align="center">1500</p>
 </td>
 <td width="51">
 <br/>
@@ -1511,7 +1511,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Ostkaka </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1534,7 +1534,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Pasha </p>
 </td>
 <td width="71">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 <td width="62">
 <br/>
@@ -1557,7 +1557,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Semmelknödelteig </p>
 </td>
 <td width="71">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="62">
 <br/>
@@ -1606,7 +1606,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <br/>
 </td>
 <td width="62">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 <td width="33">
 <br/>
@@ -1626,7 +1626,7 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 <p>Boyaux à base de collagène dont l'activité de l'eau est supérieure à 0,6 </p>
 </td>
 <td width="71">
-<p align="center">quantum satis 3*</p>
+<p align="center">quantum satis (3*)</p>
 </td>
 <td width="62">
 <br/>
@@ -1737,6 +1737,98 @@ Sa + Ba + PHB : Sa, Ba et PHB utilisés seuls ou en mélange.
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Substituts de produits de la pêche à base d'algues marines</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1000</p>
+</td>
+<td align="left" valign="top">
+<p align="center">500</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Bières en fût contenant plus de 0,5 % de sucre fermentescible ajouté et/ou de jus ou de concentrés de fruits ajoutés </p>
+</td>
+<td align="left" valign="top">
+<p align="center">200</p>
+</td>
+<td align="left" valign="top">
+<p align="center">200</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">400</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Agrumes non pelés (traitement en surface uniquement)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">20</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, sous forme déshydratée, contenant des préparations de vitamine A et des combinaisons de vitamines A et D</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">1000 dans le produit prêt à la consommation</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
 <td colspan="7" height="15" width="665">
 <p>(1) Cette rubrique ne comprend pas les boissons à base de produits laitiers.</p>
 </td>
@@ -1838,7 +1930,7 @@ NOTES
 <p align="center">DENRÉES ALIMENTAIRES</p>
 </td>
 <td width="251">
-<p align="center">Quantité maximale (mg/kg ou mg/l, selon le cas) Exprimée en SO2</p>
+<p align="center">Quantité maximale<br/>(mg/kg ou mg/l, selon le cas)<br/>Exprimée en SO2</p>
 </td>
 </tr>
 <tr>
@@ -2134,7 +2226,7 @@ NOTES
 <p>- abricots, pêches, raisins, prunes et figues</p>
 </td>
 <td width="251">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 </tr>
 <tr>
@@ -2142,7 +2234,7 @@ NOTES
 <p>- bananes</p>
 </td>
 <td width="251">
-<p align="center">1 000</p>
+<p align="center">1000</p>
 </td>
 </tr>
 <tr>
@@ -2214,7 +2306,7 @@ NOTES
 <p>Jus de raisins concentré pour la fabrication de vins maison </p>
 </td>
 <td width="251">
-<p align="center">2 000</p>
+<p align="center">2000</p>
 </td>
 </tr>
 <tr>
@@ -2498,6 +2590,22 @@ NOTES
 <p align="center">10 (mesuré sur les parties comestibles) (15*)</p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="left">Myrtilles (Vaccinium corymbosum uniquement)</p>
+</td>
+<td>
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cannelle (Cinnamomum ceylanicum uniquement)</p>
+</td>
+<td>
+<p align="center">150</p>
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -2544,7 +2652,7 @@ Autres conservateurs
 <p>Traitement en surface des agrumes</p>
 </td>
 <td rowspan="2" width="166">
-<p align="center">12 mg/kg seul ou en mélange exprimé en orthophénylphénol (17*)</p>
+<p align="left">12 mg/kg seul ou en mélange exprimé en orthophénylphénol (17*)</p>
 </td>
 </tr>
 <tr>
@@ -2571,55 +2679,62 @@ Autres conservateurs
 </td>
 </tr>
 <tr>
-<td height="18" rowspan="4" width="56">
+<td height="18" rowspan="5" width="56">
 <p>E 234</p>
 </td>
-<td rowspan="4" width="147">
-<p>Nisine (1)</p>
+<td rowspan="5" width="147">
+<p>Nisine (*)</p>
+<br/>
 </td>
 <td width="254">
 <p>Gâteau de semoule et de tapioca et produits similaires</p>
 </td>
 <td width="166">
-<p align="center">3 mg/kg</p>
+<p align="left">3 mg/kg</p>
 </td>
 </tr>
 <tr>
-<td width="254">
-<p>Fromage affiné et fromage fondu</p>
+<td>
+<p align="left">Fromage affiné et fromage fondu</p>
 </td>
 <td width="166">
-<p align="center">12,5 mg/kg</p>
+<p align="left">12,5 mg/kg</p>
 </td>
 </tr>
 <tr>
-<td width="254">
+<td>
 <p>Clotted cream</p>
 </td>
 <td width="166">
-<br/>
+<p align="left">10 mg/kg</p>
 </td>
 </tr>
 <tr>
-<td width="254">
-<p>(*3) Mascarpone </p>
+<td>
+<p align="left">Mascarpone </p>
 </td>
 <td width="166">
-<p align="center">10 mg/kg 10 mg/kg (3*)</p>
+<p align="left">10 mg/kg </p>
 </td>
 </tr>
 <tr>
-<td height="9" rowspan="3" valign="top" width="56">
+<td>
+<p align="left">Œufs liquides pasteurisés (blanc, jaune ou œuf entier)</p>
+</td>
+<td>6,25 mg/l</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
 <p>E 235 </p>
 </td>
-<td rowspan="3" valign="top" width="147">
+<td align="left" rowspan="3" valign="top">
 <p>Natamycine (pimaricine) </p>
 </td>
-<td valign="top" width="254">
+<td align="left" valign="top">
 <p>Traitement en surface : </p>
 </td>
-<td rowspan="3" width="166">
-<p align="center">1 mg/dm2 de surface (absent à 5 mm de profondeur)</p>
+<td align="left" rowspan="3" valign="top">
+<p align="left">1 mg/dm2 de surface (absent à 5 mm de profondeur)</p>
 </td>
 </tr>
 <tr>
@@ -2643,21 +2758,21 @@ Autres conservateurs
 <p>Fromage Provolone </p>
 </td>
 <td width="166">
-<p align="center">Taux résiduel de 25 mg/kg exprimé en formaldéhyde</p>
+<p align="left">Taux résiduel de 25 mg/kg exprimé en formaldéhyde</p>
 </td>
 </tr>
 <tr>
-<td height="9" rowspan="3" valign="top" width="56">
+<td align="left" rowspan="6" valign="top">
 <p>E 242</p>
 </td>
-<td rowspan="3" valign="top" width="147">
+<td align="left" rowspan="6" valign="top">
 <p>Dicarbonate de diméthyle</p>
 </td>
-<td valign="top" width="254">
+<td align="left" valign="top">
 <p>Boissons aromatisées sans alcool</p>
 </td>
-<td rowspan="3" width="166">
-<p align="center">250 mg/l de dose d'incorporation, résidus non détectables</p>
+<td align="left" rowspan="3" valign="top">
+<p align="left">250 mg/l de dose d'incorporation, résidus non détectables</p>
 </td>
 </tr>
 <tr>
@@ -2671,6 +2786,24 @@ Autres conservateurs
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Cidre, poiré, vins de fruits</p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="left">250 mg/l de dose d'incorporation, résidus non détectables </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à teneur réduite en alcool</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Boissons à base de vin et produits régis par le règlement (CEE) n° 1601/91</p>
+</td>
+</tr>
+<tr>
 <td height="24" width="56">
 <p>E 284 </p>
 </td>
@@ -2681,7 +2814,7 @@ Autres conservateurs
 <p>Oeufs d'esturgeon (caviar) </p>
 </td>
 <td rowspan="2" valign="top" width="166">
-<p align="center">4 g/kg exprimé en acide borique</p>
+<p align="left">4 g/kg exprimé en acide borique</p>
 </td>
 </tr>
 <tr>
@@ -2695,7 +2828,7 @@ Autres conservateurs
 </tbody>
 </table>
 
-(1) La présence de cette substance est admise, à l'état naturel, dans certains fromages obtenus par un processus de fermentation.
+(*) La présence de cette substance est admise dans certains fromages obtenus par un processus de fermentation.
 
 (*16)
 
@@ -2896,7 +3029,7 @@ Autres conservateurs
 <td height="30" rowspan="13" width="40"/>
 <td rowspan="13" width="123"/>
 <td width="179">
-<p>Autres produits à base de viande saumurés de manière traditionnelle (3):</p>
+<p>Autres produits à base de viande saumurés de manière traditionnelle (3) :</p>
 </td>
 <td width="110"/>
 <td width="157"/>
@@ -3070,7 +3203,7 @@ Autres conservateurs
 </tr>
 <tr>
 <td width="177">
-<p>Entremeada, Entrecosto, Chispe, Orelheira e Cabeça (salgados),</p>
+<p>Entremeada, Entrecosto, Chispe, Orelheira e Cabeça (salgados) ;</p>
 </td>
 <td width="111"/>
 <td width="157"/>
@@ -3118,7 +3251,7 @@ Autres conservateurs
 <td height="35" rowspan="14" width="42"/>
 <td rowspan="14" width="122"/>
 <td width="177">
-<p>Produits à base de viande traditionnels, traités en salaison sèche (2): </p>
+<p>Produits à base de viande traditionnels, traités en salaison sèche (2) : </p>
 </td>
 <td width="111"/>
 <td width="157"/>
@@ -3451,284 +3584,305 @@ Notes :
 <table>
 <tbody>
 <tr>
-<td height="38" width="57">
+<td align="left" valign="top">
 <p align="center">N°E</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p align="center">NOM</p>
 </td>
-<td width="243">
+<td align="left" valign="top">
 <p align="center">DENRÉES ALIMENTAIRES</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p align="center">QUANTITÉ MAXIMALE (mg/kg)</p>
 </td>
 </tr>
 <tr>
-<td height="31" width="57">
+<td align="left" valign="top">
 <p align="center">(*15) E 310</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p>Gallate de propyle </p>
 </td>
-<td width="243">
+<td align="left" valign="top">
 <p>Matières grasses et huiles pour la fabrication professionnelle de denrées alimentaires subissant un traitement thermique. </p>
 </td>
-<td width="162">
-<p align="center">200* (gallates, BHQT et<br/>BHA, seuls ou en mélange)</p>
+<td align="left" valign="top">
+<p align="left">200* (gallates, BHQT et<br/>BHA, seuls ou en mélange)</p>
 </td>
 </tr>
 <tr>
-<td height="16" width="57">
+<td align="left" valign="top">
 <p align="center">E 311</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p>Gallate d'octyle</p>
 </td>
-<td width="243"/>
-<td width="162"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td height="16" width="57">
+<td align="left" valign="top">
 <p align="center">E 312</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p>Gallate de dodécyle</p>
 </td>
-<td width="243"/>
-<td width="162"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td height="43" width="57">
+<td align="left" valign="top">
+<p align="center">E 315</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Acide érythorbique</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">(*12) Produits de charcuterie et de salaison et produits de viande en conserve (12*) </p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">500 exprimé en acide érythorbique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">E 316</p>
+</td>
+<td>Erythorbate de sodium </td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top"/>
+<td align="left" rowspan="2" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Produits de poisson en conserve et en semi-conserve</p>
+</td>
+<td align="left" rowspan="2" valign="top">1 500 exprimé en acide érythorbique</td>
+</tr>
+<tr>
+<td>
+<p align="left">Poissons à peau rouge congelés et surgelés </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="center">E 392</p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p>Extraits de romarin</p>
+</td>
+<td align="left" valign="top">
+<p>Huiles végétales (à l'exception des huiles vierges et des huiles d'olive) et matières grasses dont la teneur en acides gras polyinsaturés est supérieure à 15 % m/m du total des acides gras, pour une utilisation dans les produits alimentaires non traités thermiquement</p>
+</td>
+<td align="left" valign="top">30 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse</td>
+</tr>
+<tr>
+<td>Huiles de poisson et huile d'algue</td>
+<td>50 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse</td>
+</tr>
+<tr>
+<td>Saindoux, graisses de bœuf, de volaille, de mouton et de porc<br/>Matières grasses et huiles pour la fabrication professionnelle de denrées alimentaires subissant un traitement thermique<br/>Huiles et matières grasses destinées à la friture, excepté l'huile d'olive et l'huile de grignons d'olive<br/>Amuse-gueules (à base de céréales, de pommes de terre ou d'amidon)</td>
+<td/>
+</tr>
+<tr>
+<td>Sauces</td>
+<td>100 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse</td>
+</tr>
+<tr>
+<td>Produits de boulangerie fine </td>
+<td>200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse</td>
+</tr>
+<tr>
+<td>Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 </td>
+<td>400 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>Pommes de terre déshydratées<br/>Ovoproduits<br/>Chewing-gum  </td>
+<td>200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique)</td>
+</tr>
+<tr>
+<td rowspan="6"/>
+<td/>
+<td>Lait en poudre pour distributeurs automatiques<br/>Assaisonnements et condiments<br/>Fruits à coque transformés </td>
+<td>200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse</td>
+</tr>
+<tr>
+<td/>
+<td>Soupes, potages et bouillons déshydratés </td>
+<td>50 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
+</tr>
+<tr>
+<td/>
+<td>Viande déshydratée</td>
+<td>Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs </td>
+</tr>
+<tr>
+<td/>
+<td>Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs  </td>
+<td>150 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse </td>
+</tr>
+<tr>
+<td/>
+<td> Saucissons secs </td>
+<td>100 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
+</tr>
+<tr>
+<td/>
+<td> Arômes </td>
+<td>1 000 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>Lait en poudre pour la fabrication de crèmes glacées</td>
+<td>30 mg/kg (exprimant la somme du carnosol et de l'acide carnosique)</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="center">E 319</p>
 </td>
-<td width="162">
-<p>Butylhydroquinone tertiaire (BHQT)</p>
+<td align="left" valign="top">
+<p align="left">Butylhydroquinone tertiaire (BHQT)</p>
 </td>
-<td width="243">
-<p>Huiles et matières grasses destinées à la friture, excepté l'huile de grignons d'olive.</p>
+<td align="left" valign="top">
+<p align="left">Huiles et matières grasses destinées à la friture, excepté l'huile de grignons d'olive.</p>
 </td>
-<td width="162">
-<p>100* (BHT)<br/>Exprimé par rapport à la matière grasse dans les deux cas.</p>
+<td align="left" valign="top">
+<p align="left">100* (BHT)<br/>Exprimé par rapport à la matière grasse dans les deux cas</p>
 </td>
 </tr>
 <tr>
-<td height="16" width="57">
+<td align="left" valign="top">
 <p align="center">E 320</p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p>Butylhydroxyanisol (BHA)</p>
 </td>
-<td width="243">
-<p>Saindoux, huile de poisson, graisses de bœuf, de volaille et de mouton.</p>
+<td align="left" valign="top">
+<p>Arômes autres que les huiles essentielles</p>
 </td>
-<td width="162"/>
-</tr>
-<tr>
-<td height="16" rowspan="13" width="57">
-<p align="center">E 321</p>
-</td>
-<td rowspan="13" width="162">
-<p>Butylhydroxytoluène (BHT)</p>
-</td>
-<td width="243">
-<p>Mélanges prêts à l'emploi pour pâtisseries.</p>
-</td>
-<td width="162">
-<p align="center">200 (gallates, BHQT et<br/>BHA, seuls ou en mélange)</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Amuse-gueules à base de céréales.</p>
-</td>
-<td width="162">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Lait en poudre pour distributeurs automatiques.</p>
-</td>
-<td width="162">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Soupes, potages et bouillons déshydratés.</p>
-</td>
-<td width="162">
-<p>Exprimée par rapport à la matière grasse.</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Sauces.</p>
-</td>
-<td width="162"/>
-</tr>
-<tr>
-<td width="243">
-<p>Viande déshydratée.</p>
-</td>
-<td width="162"/>
-</tr>
-<tr>
-<td width="243">
-<p>Fruits à coque transformés.</p>
-</td>
-<td width="162"/>
-</tr>
-<tr>
-<td width="243">
-<p>Céréales précuites.</p>
-</td>
-<td width="162"/>
-</tr>
-<tr>
-<td width="243">
-<p>Assaisonnements et condiments. </p>
-</td>
-<td width="162">
-<p align="center">200 (gallates et BHA, seuls ou en mélange), exprimée par rapport à la matière grasse</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Pommes de terre déshydratées. </p>
-</td>
-<td width="162">
-<p align="center">25 (gallates, BHQT et BHA, seuls ou en mélange)</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Chewing gum. </p>
-<p>Compléments alimentaires au sens du décret du 25 mars 2006. </p>
-</td>
-<td width="162">
-<p align="center">400 (gallates, BHQT, BHT et BHA, seuls ou en mélange)</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Huiles essentielles. </p>
-</td>
-<td width="162">
-<p align="center">1 000 (gallates, BHQT et BHA, seuls ou en mélange)</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Arômes autres que les huiles essentielles. </p>
-</td>
-<td width="162">
-<p align="center">100* (gallates, seuls<br/>ou en mélange)</p>
-<p align="center">200* (BHQT et BHA, seuls<br/>ou en mélange) (15*)</p>
-</td>
-</tr>
-<tr>
-<td height="20" width="57">
-<p>E 315</p>
-</td>
-<td width="162">
-<p>Acide érythorbique</p>
-</td>
-<td rowspan="2" width="243">
-<p>(*12) Produits de charcuterie et de salaison et produits de viande en conserve (12*) </p>
-</td>
-<td rowspan="2" width="162">
-<p align="center">500 exprimé en acide érythorbique</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="57">
-<p>E 316 </p>
-</td>
-<td width="162">
-<p>Erythorbate de sodium </p>
-</td>
-</tr>
-<tr>
-<td height="16" rowspan="2" width="57"/>
-<td rowspan="2" width="162"/>
-<td width="243">
-<p>Produits de poisson en conserve et en semi-conserve</p>
-</td>
-<td rowspan="2" width="162">
-<p align="center">1 500 exprimé en acide érythorbique</p>
-</td>
-</tr>
-<tr>
-<td width="243">
-<p>Poissons à peau rouge congelés et surgelés </p>
-</td>
-</tr>
-<tr>
-<td height="20" width="57">
-<p>(12) E 310</p>
-</td>
-<td width="162">
-<p>Gallate de propyle</p>
-</td>
-<td width="243">
-<p>Huiles essentielles</p>
-</td>
-<td width="162">
-<p align="center">1000 mg/kg (gallates et BHA, seuls ou en mélange)</p>
-</td>
-</tr>
-<tr>
-<td height="20" width="57">
-<p>E 311</p>
-</td>
-<td width="162">
-<p>Gallate d'octyle</p>
-</td>
-<td width="243"/>
-<td width="162">
-<br/>
-</td>
-</tr>
-<tr>
-<td height="20" width="57">
-<p>E 312</p>
-</td>
-<td width="162">
-<p>Gallate de dodécyle</p>
-</td>
-<td width="243"/>
-<td width="162">
-<br/>
-</td>
-</tr>
-<tr>
-<td height="31" width="57">
-<p>E 320 </p>
-</td>
-<td width="162">
-<p>Butylhydroxyanisol (BHA) </p>
-</td>
-<td width="243">
-<p>Arômes autres que les huiles essentielles </p>
-</td>
-<td width="162">
+<td align="left" valign="top">
 <p>100 mg/kg (gallates, seuls ou en mélange) ou 200 mg/kg (BHA) (12*) </p>
 </td>
 </tr>
 <tr>
-<td height="27" width="57">
+<td align="left" rowspan="13" valign="top">
+<p align="center">E 321</p>
+</td>
+<td align="left" rowspan="13" valign="top">
+<p>Butylhydroxytoluène (BHT)</p>
+</td>
+<td align="left" valign="top">
+<p>Mélanges prêts à l'emploi pour pâtisseries.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">200 (gallates, BHQT et<br/>BHA, seuls ou en mélange)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Amuse-gueules à base de céréales.</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Lait en poudre pour distributeurs automatiques.</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Soupes, potages et bouillons déshydratés.</p>
+</td>
+<td align="left" valign="top">
+<p>Exprimée par rapport à la matière grasse.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Sauces.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Viande déshydratée.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Fruits à coque transformés.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Céréales précuites.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Assaisonnements et condiments. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">200 (gallates et BHA, seuls ou en mélange), exprimée par rapport à la matière grasse</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Pommes de terre déshydratées. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">25 (gallates, BHQT et BHA, seuls ou en mélange)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Chewing gum. </p>
+<p>Compléments alimentaires au sens du décret du 25 mars 2006. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">400 (gallates, BHQT, BHT et BHA, seuls ou en mélange)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Huiles essentielles. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1 000 (gallates, BHQT et BHA, seuls ou en mélange)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Arômes autres que les huiles essentielles. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">100* (gallates, seuls<br/>ou en mélange)</p>
+<p align="left">200* (BHQT et BHA, seuls<br/>ou en mélange) (15*)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>(*15) E 586 </p>
 </td>
-<td width="162">
+<td align="left" valign="top">
 <p>4-Hexylrésorcinol </p>
 </td>
-<td width="243">
+<td align="left" valign="top">
 <p>Crustacés frais, congelés et surgelés. </p>
 </td>
-<td width="162">
-<p align="center">2 mg/kg sous forme de résidus dans la chair des crustacés (15*)</p>
+<td align="left" valign="top">
+<p align="left">2 mg/kg sous forme de résidus dans la chair des crustacés (15*)</p>
 </td>
 </tr>
 </tbody>

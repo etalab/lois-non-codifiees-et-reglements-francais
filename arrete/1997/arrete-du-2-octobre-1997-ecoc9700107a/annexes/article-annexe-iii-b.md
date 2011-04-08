@@ -1175,27 +1175,57 @@ DE L'ANNEXE III-A PEUVENT ÊTRE UTILISÉS
 <td width="111"/>
 </tr>
 <tr>
-<td height="9" rowspan="7" width="208">
-<p>Préparations de viande hachée fraîche, préemballées </p>
+<td height="9" rowspan="12" width="208">
+<p>Préparations de viande hachée fraîche préemballées</p>
 </td>
 <td width="318">
-<p>E 300 Acide ascorbique </p>
+<p>E 261 Acétate de potassium</p>
 </td>
 <td width="111">
 <p>quantum satis </p>
 </td>
 </tr>
 <tr>
-<td width="318">
-<p>E 301 Ascorbate de sodium</p>
+<td>
+<p align="left">E 262i Acétate de sodium</p>
 </td>
-<td width="111"/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">E 262ii Diacétate de sodium</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">E 300 Acide ascorbique</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">E 301 Ascorbate de sodium</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td width="318">
 <p>E 302 Ascorbate de calcium</p>
 </td>
 <td width="111"/>
+</tr>
+<tr>
+<td width="318">
+<p align="left">E 325 Lactate de sodium</p>
+</td>
+<td width="111"/>
+</tr>
+<tr>
+<td>
+<p align="left">E 326 Lactate de potassium</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td width="318">
@@ -1634,6 +1664,17 @@ DE L'ANNEXE III-A PEUVENT ÊTRE UTILISÉS
 </td>
 <td width="111">
 <p>Quantum satis (12*) </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Produits à base de crème fermentée au moyen de ferments vivants non aromatisés et produits de substitution ayant une teneur en matière grasse inférieure à 20 %</p>
+</td>
+<td align="left" valign="top">
+<p align="left">E 406 Agar-agar<br/>E 407 Carraghénanes<br/>E 410 Farine de graines de caroube<br/>E 412 Gomme guar<br/>E 415 Gomme xanthane<br/>E 440 Pectines<br/>E 460 Cellulose<br/>E 466 Carboxyméthylcellulose<br/>E 471 Mono- et diglycérides d'acides gras<br/>E 1404 Amidon oxydé<br/>E 1410 Phosphate de monoamidon<br/>E 1412 Phosphate de diamidon<br/>E 1413 Phosphate de diamidon phosphaté<br/>E 1414 Phosphate de diamidon acétylé<br/>E 1420 Amidon acétylé<br/>E 1422 Adipate de diamidon acétylé<br/>E 1440 Amidon hydroxypropylé<br/>E 1442 Phosphate de diamidon hydroxypropylé<br/>E 1450 Octényle succinate d'amidon sodique<br/>E 1451 Amidon oxydé acétylé</p>
+</td>
+<td align="left" valign="top">
+<p align="left">quantum satis</p>
 </td>
 </tr>
 </tbody>

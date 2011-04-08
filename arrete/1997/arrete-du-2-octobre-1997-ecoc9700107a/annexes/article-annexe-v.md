@@ -644,6 +644,20 @@ et enfants en bas âge en bonne santé
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="center">E 920</p>
+</td>
+<td align="left" valign="top">
+<p align="left">L-cystéine</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Biscuits pour nourrissons et enfants en bas âge</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 g/kg</p>
+</td>
+</tr>
+<tr>
 <td height="6" valign="top" width="61">
 <p align="center">E 500</p>
 </td>

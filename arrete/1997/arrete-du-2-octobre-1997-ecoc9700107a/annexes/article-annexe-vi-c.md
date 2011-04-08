@@ -6,80 +6,134 @@ QUE LES COLORANTS ET LES ÉDULCORANTS
 
 (*3) L'oxyde d'éthylène ne peut pas être utilisé pour stérilisation dans les additifs alimentaires (3*)
 
-(*12) POLYÉTHYLÈNE GLYCOL 6000
+E 1521 POLYÉTHYLÈNES GLYCOLS
 
-Synonymes :
+Synonyme : PEG, macrogol, oxyde de polyéthylène.
 
-PEG 6000
+DÉFINITION :Polymères d'addition d'oxyde d'éthylène et d'eau habituellement désignés par un nombre correspondant approximativement à la masse moléculaire.
 
-Macrogol 6000
+Dénomination chimique : alpha-Hydro-omega-hydroxypoly (oxy-1,2 éthanediol).
 
-DÉFINITION : Le polyéthylène glycol 6000 est un mélange de polymères de formule générale H-(OCH2-CH)-OH correspondant à une masse moléculaire relative moyenne d'environ 6000.
+Formule chimique : HOCH2 - (CH2 - O - CH2)n - CH2OH
 
-Formule chimique : (C2H4O)n H2O (n = nombre d'unités d'oxyde d'éthylène correspondant à un poids moléculaire de 6000, soit environ 140)
+Masse moléculaire moyenne : de 380 à 9 000 Da
 
-Poids moléculaire : 5 600 - 7 000
+Composition :
 
-Composition : Pas moins de 90,0 % et pas plus de 110,0 %
+PEG 400 : pas moins de 95 % et pas plus de 105 %.
 
-DESCRIPTION : Un solide blanc ou presque blanc ayant l'aspect de la cire ou de la paraffine
+PEG 3000 : pas moins de 90 % et pas plus de 110 %.
+
+PEG 3350 : pas moins de 90 % et pas plus de 110 %.
+
+PEG 4000 : pas moins de 90 % et pas plus de 110 %.
+
+PEG 6000 : pas moins de 90 % et pas plus de 110 %.
+
+PEG 8000 : pas moins de 87,5 % et pas plus de 112,5 %.
+
+Description :
+
+Le PEG 400 est un liquide hygroscopique limpide, visqueux, incolore ou presque incolore.
+
+Le PEG 3000, le PEG 3350, le PEG 4000, le PEG 6000 et le PEG 8000 sont des solides blancs ou presque blancs ayant l'aspect de la cire ou de la paraffine.
 
 IDENTIFICATION :
 
-A. Solubilité : Très soluble dans l'eau et le chlorure de méthylène. Pratiquement insoluble dans l'alcool, dans l'éther et dans les huiles grasses et minérales.
+Point de fusion :
 
-B. Intervalle de fusion : Entre 55 °C et 61 °C.
+PEG 400 : 4-8 °C.
+
+PEG 3000 : 50-56 °C.
+
+PEG 3350 : 53-57 °C.
+
+PEG 4000 : 53-59 °C.
+
+PEG 6000 : 55-61 °C.
+
+PEG 8000 : 55-62 °C.
+
+Viscosité :
+
+PEG 400 : de 105 à 130 mPa.s à 20 °C.
+
+PEG 3000 : de 75 à 100 mPa.s à 20 °C
+
+PEG 3350 : de 83 à 120 mPa.s à 20 °C
+
+PEG 4000 : de 110 à 170 mPa.s à 20 °C
+
+PEG 6000 : de 200 à 270 mPa.s à 20 °C
+
+PEG 8000 : de 260 à 510 mPa.s à 20 °C.
+
+Pour les polyéthylènes glycols dont la masse moléculaire moyenne est supérieure à 400, la viscosité est déterminée à partir d'une solution à 50 % m/m de la substance candidate dans l'eau.
+
+Solubilité :
+
+Le PEG 400 est miscible à l'eau, très soluble dans l'acétone, dans l'alcool et dans le chlorure de méthylène, pratiquement insoluble dans les huiles grasses et les huiles minérales.
+
+Le PEG 3000 et le PEG 3350 sont très solubles dans l'eau et dans le chlorure de méthylène, très légèrement solubles dans l'alcool, pratiquement insolubles dans les huiles grasses et les huiles minérales.
+
+Le PEG 4000, le PEG 6000 et le PEG 8000 sont très solubles dans l'eau et dans le chlorure de méthylène, pratiquement insolubles dans l'alcool, les huiles grasses et les huiles minérales.
 
 PURETÉ
 
 <table>
 <tbody>
 <tr>
-<td height="8" width="216">
-<p>Viscosité</p>
+<td valign="top" width="227">
+<p>Acidité ou alcalinité :</p>
+<p>Dissoudre 5 g dans 50 ml d'eau sans anhydride carbonique et ajouter 0,15 ml de solution de bleu de bromothymol. La solution est jaune ou verte. Il ne faut pas plus de 0,1 ml d'hydroxyde de sodium 0,1 M pour changer la couleur de l'indicateur en bleu.</p>
 </td>
-<td width="443">
-<p>Entre 0,220 et 0,275 kgm-1s-1 à 20 °C</p>
-</td>
+<td valign="top" width="454"/>
 </tr>
 <tr>
-<td height="9" width="216">
-<p>Indice d'hydroxyle</p>
+<td valign="top" width="227">
+<p>Indice d'hydroxyle :</p>
+<p>PEG 400 : 264-300<br/>PEG 3000 : 34-42<br/>PEG 3350 : 30-38<br/>PEG 4000 : 25-32<br/>PEG 6000 : 16-22<br/>PEG 8000 : 12-16</p>
 </td>
-<td width="443">
-<p>Entre 16 et 22</p>
-</td>
+<td valign="top" width="454"/>
 </tr>
 <tr>
-<td height="9" width="216">
+<td valign="top" width="227">
 <p>Cendres sulfatées</p>
 </td>
-<td width="443">
+<td valign="top" width="454">
 <p>Pas plus de 0,2 %</p>
 </td>
 </tr>
 <tr>
-<td height="9" width="216">
+<td valign="top" width="227">
+<p>1,4-dioxane</p>
+</td>
+<td valign="top" width="454">
+<p>Pas plus de 10 mg/kg</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
 <p>Oxyde d'éthylène</p>
 </td>
-<td width="443">
+<td valign="top" width="454">
 <p>Pas plus de 0,2 mg/kg</p>
 </td>
 </tr>
 <tr>
-<td height="9" width="216">
-<p>Arsenic</p>
+<td valign="top" width="227">
+<p>Ethylène glycol et diéthylène glycol</p>
 </td>
-<td width="443">
-<p>Pas plus de 3 mg/kg</p>
+<td valign="top" width="454">
+<p>Pas plus de 0,25 % m/m au total, seuls ou combinés</p>
 </td>
 </tr>
 <tr>
-<td height="8" width="216">
+<td valign="top" width="227">
 <p>Plomb</p>
 </td>
-<td width="443">
-<p>Pas plus de 5 mg/kg" (12*)</p>
+<td valign="top" width="454">
+<p>Pas plus de 1 mg/kg</p>
 </td>
 </tr>
 </tbody>
@@ -3915,7 +3969,7 @@ IDENTIFICATION :
 
 A. Précipitation (formation de précipité) : Lorsqu'un filet de l'échantillon est passé dans une solution d'hydroxyde de baryum, il se produit un précipité blanc qui se dissout avec effervescence dans de l'acide acétique dilué.
 
-PURETE
+PURETÉ
 
 <table>
 <tbody>
@@ -3948,7 +4002,7 @@ PURETE
 <p>Teneur en huile</p>
 </td>
 <td width="443">
-<p>Pas plus de 0,1 mg/l</p>
+<p>Pas plus de 5 mg/kg</p>
 </td>
 </tr>
 </tbody>

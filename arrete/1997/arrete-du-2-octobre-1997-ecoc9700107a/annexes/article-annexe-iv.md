@@ -793,10 +793,10 @@ Ne sont pas incluses dans cette liste :
 </tr>
 <tr>
 <td height="9" width="74">
-<br/>
+<p align="center">E 1521</p>
 </td>
 <td width="280">
-<p>Polyéthylèneglycol 6000</p>
+<p>Polyéthylène glycol</p>
 </td>
 <td width="283">
 <p>Edulcorants</p>

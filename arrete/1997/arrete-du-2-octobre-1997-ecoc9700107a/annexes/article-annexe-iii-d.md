@@ -181,7 +181,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td width="171">
-<p>i)Phosphate monocalcique</p>
+<p>i) Phosphate monocalcique</p>
 <p>ii) Phosphate dicalcique</p>
 <p>iii) Phosphate tricalcique</p>
 </td>
@@ -210,8 +210,8 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td width="171">
-<p>i)Phosphate monomagnésique</p>
-<p>ii)Phosphate dimagnésique</p>
+<p>i) Phosphate monomagnésique</p>
+<p>ii) Phosphate dimagnésique</p>
 </td>
 <td width="287">
 <p>Fromages non affinés (à l'exception de la Mozzarella)</p>
@@ -273,10 +273,10 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td width="287">
-<p>Sel et produits de remplacement du sel</p>
+<td>
+<p align="left">Sel et produits de remplacement du sel</p>
 </td>
-<td width="101">
+<td>
 <p align="center">10 g/kg</p>
 </td>
 </tr>
@@ -289,9 +289,14 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 <td width="287">
 <p>Boissons à base de protéines végétales</p>
+<p>Boissons à base de protéines végétales : </p>
+<p>Boissons contenant des protéines de lactosérum destinées aux sportifs</p>
 </td>
 <td width="101">
 <p align="center">20 g/l</p>
+<br/>
+<br/>
+<p align="center">4 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +394,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 <p>Sauces</p>
 </td>
 <td width="101">
-<p align="center">5g/kg</p>
+<p align="center">5 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +466,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 <p>Surimi</p>
 </td>
 <td width="101">
-<p align="center">1g/kg</p>
+<p align="center">1 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -469,7 +474,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 <p>Pâté de poissons et de crustacés</p>
 </td>
 <td width="101">
-<p align="center">5g/kg</p>
+<p align="center">5 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +482,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 <p>Nappages (sirops pour crêpes, sirops aromatisés pour lait frappé aromatisé et glaces ; produits similaires)</p>
 </td>
 <td width="101">
-<p align="center">3g/kg</p>
+<p align="center">3 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -493,7 +498,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 <p>Enrobages pour viandes et produits végétaux</p>
 </td>
 <td width="101">
-<p align="center">4g/kg</p>
+<p align="center">4 g/kg</p>
 </td>
 </tr>
 <tr>
@@ -593,22 +598,20 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="58" width="63">
+<td align="left" valign="top">
 <p align="center">E 431</p>
 </td>
-<td width="171">
-<p>Stéarate de polyoxyéthylène (40) </p>
+<td align="left" valign="top">
+<p align="left">Stéarate de polyoxyéthylène (40) </p>
 </td>
-<td width="287">
-<p>Vin importé conformément au règlement (CEE) n°1873/84 du 28 juin 1984 autorisant l'offre et la livraison à la consommation humaine directe de certains vins importés susceptibles d'avoir fait l'objet de pratique oenologiques non prévues par le règlement (CEE) 822/87 </p>
+<td align="left" valign="top">
+<p align="left">Vin importé conformément au règlement (CEE) n°1873/84 du 28 juin 1984 autorisant l'offre et la livraison à la consommation humaine directe de certains vins importés susceptibles d'avoir fait l'objet de pratique oenologiques non prévues par le règlement (CEE) 822/87 </p>
 </td>
-<td width="101">
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td height="16" width="63">
-<p>(*3) E 468 </p>
+<p align="center">(*3)<br/>E 468 </p>
 </td>
 <td width="171">
 <p>Carboxyméthylcellulose de sodium réticulée </p>
@@ -982,7 +985,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="43" valign="top" width="63">
-<p>E 420 </p>
+<p align="center">E 420 </p>
 </td>
 <td valign="top" width="171">
 <p>Sorbitol<br/>i) Sorbitol<br/>ii) Sirop de sorbitol </p>
@@ -999,7 +1002,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" width="63">
-<p>E 421</p>
+<p align="center">E 421</p>
 </td>
 <td width="171">
 <p>Mannitol</p>
@@ -1007,7 +1010,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" width="63">
-<p>E 953</p>
+<p align="center">E 953</p>
 </td>
 <td width="171">
 <p>Isomalt</p>
@@ -1015,7 +1018,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="35" width="63">
-<p>E 965</p>
+<p align="center">E 965</p>
 </td>
 <td width="171">
 <p>Maltitol<br/>i) Maltitol<br/>ii) Sirop de maltitol</p>
@@ -1023,7 +1026,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" width="63">
-<p>E 966</p>
+<p align="center">E 966</p>
 </td>
 <td width="171">
 <p>Lactitol</p>
@@ -1031,17 +1034,17 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" width="63">
-<p>E 967</p>
+<p align="center">E 967</p>
 </td>
 <td width="171">
 <p>Xylitol</p>
 </td>
 </tr>
 <tr>
-<td height="28" rowspan="3" width="63">
-<p>(*15) E 968 </p>
+<td height="28" width="63">
+<p align="center">(*15)<br/>E 968 </p>
 </td>
-<td rowspan="3" width="171">
+<td width="171">
 <p>Erythritol </p>
 </td>
 <td width="287">
@@ -1052,25 +1055,55 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
+<td/>
 <td width="287">
 <p>Poissons, crustacés, mollusques et céphalopodes non transformés, congelés et surgelés</p>
 </td>
+<td/>
 <td width="101">
 <p align="center">quantum satis</p>
 </td>
 </tr>
 <tr>
+<td/>
 <td width="287">
 <p>Liqueurs</p>
 </td>
+<td/>
 <td width="101">
 <p align="center">quantum satis</p>
 <p>A des fins autres que l'édulcoration (15*)</p>
 </td>
 </tr>
 <tr>
+<td align="left" rowspan="2" valign="top">
+<p align="center">E 427</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Gomme cassia</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Glaces de consommation</p>
+<p align="left">Produits à base de lait fermenté à l'exception des produits à base de lait fermenté au moyen de ferments vivants non aromatisés</p>
+<p align="left">Desserts à base de produits laitiers et produits similaires</p>
+<p align="left">Fourrages, nappages et enrobages pour boulangerie fine et desserts</p>
+<p align="left">Fromage fondu</p>
+<p align="left">Sauces et sauces pour salades</p>
+<p align="left">Soupes, potages et bouillons déshydratés</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 500 mg/kg</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Produits à base de viande ayant subi un traitement thermique </td>
+<td align="left" valign="top">
+<p align="center">1 500 mg/kg</p>
+</td>
+</tr>
+<tr>
 <td height="11" rowspan="2" width="63">
-<p>E 432 </p>
+<p align="center">E 432 </p>
 </td>
 <td rowspan="2" width="171">
 <p>Monolaurate de polyoxyéthylène sorbitane (polysorbate 20) </p>
@@ -1092,7 +1125,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="11" rowspan="2" width="63">
-<p>E 433</p>
+<p align="center">E 433</p>
 </td>
 <td rowspan="2" width="171">
 <p>Monooléate de polyoxéthylène sorbitane (polysorbate 80)</p>
@@ -1114,7 +1147,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="11" rowspan="2" width="63">
-<p>E 434</p>
+<p align="center">E 434</p>
 </td>
 <td rowspan="2" width="171">
 <p>Monopalmitate de polyoxyéthylène sorbitane (polysorbate 40)</p>
@@ -1136,7 +1169,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="11" rowspan="2" width="63">
-<p>E 435</p>
+<p align="center">E 435</p>
 </td>
 <td rowspan="2" width="171">
 <p>Monostéarate de polyoxyéthylène sorbitane (polysorbate 60)</p>
@@ -1158,7 +1191,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="11" rowspan="5" width="63">
-<p>E 436</p>
+<p align="center">E 436</p>
 </td>
 <td rowspan="5" width="171">
 <p>Tristéarate de polyoxyéthylène sorbitane (polysorbate 65)</p>
@@ -2150,7 +2183,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="16" width="63">
-<p align="center">(*12) E 551</p>
+<p align="center">(*12)<br/>E 551</p>
 </td>
 <td width="171">
 <p>Dioxyde de silicium </p>
@@ -2533,7 +2566,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" width="63">
-<p align="center">(*7) E 650</p>
+<p align="center">(*7)<br/>E 650</p>
 </td>
 <td width="171">
 <p>Acétate de zinc</p>
@@ -2656,69 +2689,27 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="9" width="63">
+<td height="9" rowspan="5" width="63">
 <p align="center">E 901</p>
+<p align="center">E 902</p>
+<p align="center">E 904</p>
 </td>
-<td width="171">
+<td rowspan="5" width="171">
 <p>Cire d'abeille blanche et jaune </p>
+<p>Cire de candelilla</p>
+<p>Shellac</p>
 </td>
 <td width="287">
 <p>Comme agents d'enrobage uniquement pour </p>
-</td>
-<td width="101">
-<p align="center">quantum satis</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="63">
-<p align="center">E 902</p>
-</td>
-<td width="171">
-<p>Cire de candelilla </p>
-</td>
-<td width="287">
-<p>- Confiseries (y compris le chocolat) </p>
-</td>
-<td width="101">
-<br/>
-</td>
-</tr>
-<tr>
-<td height="9" rowspan="7" width="63">
-<p align="center">E 904</p>
-</td>
-<td rowspan="7" width="171">
-<p>Shellac </p>
-</td>
-<td width="287">
-<p>-Petits produits de boulangerie fine enrobés de chocolat </p>
-</td>
-<td width="101">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="287">
+<p>- Gaufrettes préemballées contenant de la crème glacée (uniquement pour l'additif E 901)</p>
+<p>- Confiseries (y compris le chocolat)</p>
+<p>- Petits produits de boulangerie fine enrobés de chocolat </p>
 <p>- Amuse-gueule </p>
-</td>
-<td width="101">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="287">
 <p>- Fruits à coque </p>
-</td>
-<td width="101">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="287">
 <p>- Grains de café </p>
 </td>
 <td width="101">
-<br/>
+<p align="center">quantum satis</p>
 </td>
 </tr>
 <tr>
@@ -2746,8 +2737,14 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
+<td>Arômes dans les boissons aromatisées sans alcool (uniquement pour l'additif E 901) </td>
+<td>
+<p align="left">0,2 g/kg dans la boisson aromatisée</p>
+</td>
+</tr>
+<tr>
 <td height="9" rowspan="8" width="63">
-<p align="center">(*12) E 903</p>
+<p align="center">(*12)<br/>E 903</p>
 </td>
 <td rowspan="8" width="171">
 <p>Cire de carnauba</p>
@@ -2871,7 +2868,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="17" width="63">
-<p align="center">(*7) E 943a</p>
+<p align="center">(*7)<br/>E 943a</p>
 </td>
 <td width="171">
 <p>Butane</p>
@@ -2910,13 +2907,17 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="9" width="63">
+<td height="9" rowspan="3" width="63">
 <p align="center">E 950</p>
+<p align="center">E 951</p>
+<p align="center">E 957</p>
 </td>
-<td width="171">
+<td rowspan="3" width="171">
 <p>Acesulfame-K</p>
+<p>Aspartame</p>
+<p>Thaumatine </p>
 </td>
-<td width="287">
+<td rowspan="3" width="287">
 <p>Gommes à mâcher avec sucres ajoutés</p>
 </td>
 <td width="101">
@@ -2924,32 +2925,18 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="9" width="63">
-<p align="center">E 951</p>
-</td>
-<td width="171">
-<p>Aspartame</p>
-</td>
-<td width="287"/>
 <td width="101">
 <p align="center">2 500 mg/kg</p>
 </td>
 </tr>
 <tr>
-<td height="35" width="63">
-<p align="center">E 957</p>
-</td>
-<td width="171">
-<p>Thaumatine </p>
-</td>
-<td width="287"/>
 <td width="101">
 <p align="center">10 mg/kg (comme exhausteur de goût uniquement) (1)</p>
 </td>
 </tr>
 <tr>
 <td height="16" rowspan="2" width="63">
-<p align="center">(*3) E 957</p>
+<p align="center">(*3)<br/>E 957</p>
 </td>
 <td rowspan="2" width="171">
 <p>Thaumatine </p>
@@ -3011,23 +2998,102 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="28" rowspan="2" width="63">
-<p align="center">E 999</p>
+<td height="28" rowspan="11" width="63">
+<p align="center">E 961</p>
 </td>
-<td rowspan="2" width="171">
-<p>Extraits de quillaia </p>
+<td width="171">
+<p>Néotame</p>
 </td>
 <td width="287">
-<p>Boissons aromatisées sans alcool à base d'eau </p>
+<p>Boissons aromatisées à base d'eau, à valeur énergétique réduite ou sans sucres ajoutés</p>
+<p>Boissons à base de lait et produits dérivés du lait ou boissons à base de jus de fruits, à valeur énergétique réduite ou sans sucres ajoutés</p>
 </td>
 <td width="101">
+<p align="center">
+<font face="Times New Roman" size="1">2 mg/l en tant qu'exhausteur de goût</font>
+</p>
+<p align="center">2 mg/l en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10"/>
+<td>"Snacks” : amuse-gueules salés et secs à base d'amidon ou de fruits à coque enrobés, prêts à être consommés, préemballés et contenant certains arômes</td>
+<td>
+<p align="center">2 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Confiseries à base d'amidon à valeur énergétique réduite ou sans sucres ajoutés </td>
+<td>
+<p align="center">3 mg/kg en tant qu'exhausteur de goût </p>
+</td>
+</tr>
+<tr>
+<td>Microconfiserie pour rafraîchir l'haleine, sans sucres ajoutés </td>
+<td>
+<p align="center">3 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Pastilles rafraîchissantes pour la gorge fortement aromatisées sans sucres ajoutés</td>
+<td>
+<p align="center">3 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Chewing-gum avec sucres ajoutés </td>
+<td>
+<p align="center">3 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Confitures, gelées et marmelades à valeur énergétique réduite</td>
+<td>
+<p align="center">2 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Sauces</td>
+<td>
+<p align="center">2 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 fournis sous forme liquide</td>
+<td>
+<p align="center">2 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td>Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 fournis sous forme solide</td>
+<td>
+<p align="center">2 mg/kg en tant qu'exhausteur de goût </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006 à base de vitamines et/ou d'éléments minéraux et fournis sous forme de sirop ou sous forme à ne pas mâcher </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 mg/kg en tant qu'exhausteur de goût</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="center">E 999</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p>Extraits de quillaia</p>
+</td>
+<td align="left" valign="top">
+<p>Boissons aromatisées sans alcool à base d'eau </p>
+</td>
+<td align="left" valign="top">
 <p align="center">200 mg/l<br/>calculé en extrait anhydre</p>
 </td>
 </tr>
 <tr>
-<td width="287">
-<p>(*3) Cidre, à l'exclusion du cidre bouché</p>
-</td>
+<td>(*3) Cidre, à l'exclusion du cidre bouché</td>
 <td width="101">
 <p align="center">200 mg/l<br/>calculé en extrait anhydre (3*)</p>
 </td>
@@ -3060,22 +3126,42 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 </tr>
 <tr>
-<td height="9" width="63">
+<td align="left" valign="top">
+<p align="center">E 1203</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Alcool polyvinylique</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés </p>
+</td>
+<td align="left" valign="top">
+<p align="center">18 g/kg</p>
+</td>
+</tr>
+<tr>
+<td height="9" rowspan="2" width="63">
 <p align="center">E 1505</p>
 </td>
-<td width="171">
+<td rowspan="2" width="171">
 <p>Citrate de triéthyle </p>
 </td>
 <td width="287">
-<p>Blanc d'œuf séché </p>
+<p>Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés </p>
 </td>
 <td width="101">
+<p align="center">3,5 g/kg</p>
+</td>
+</tr>
+<tr>
+<td>Blanc d'œuf séché </td>
+<td>
 <p align="center">quantum satis</p>
 </td>
 </tr>
 <tr>
 <td height="9" rowspan="4" width="63">
-<p align="center">(*3) E 905</p>
+<p align="center">(*3)<br/>E 905</p>
 </td>
 <td rowspan="4" width="171">
 <p>Cire microcristalline </p>
@@ -3184,7 +3270,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="9" rowspan="3" width="63">
-<p>(*12) E 907 </p>
+<p align="center">(*12)<br/>E 907 </p>
 </td>
 <td rowspan="3" width="171">
 <p>Poly-1-décène hydrogéné </p>
@@ -3283,7 +3369,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="16" rowspan="9" width="63">
-<p>(*15) E426 </p>
+<p align="center">(*15)<br/>E 426 </p>
 </td>
 <td rowspan="9" width="171">
 <p>Hémicellulose de soja </p>
@@ -3361,7 +3447,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="16" rowspan="2" width="63">
-<p>(*15) E 1204</p>
+<p align="center">(*15)<br/>E 1204</p>
 </td>
 <td rowspan="2" width="171">
 <p>Pullulan</p>
@@ -3383,7 +3469,7 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </tr>
 <tr>
 <td height="38" width="63">
-<p>E 1452</p>
+<p align="center">E 1452</p>
 </td>
 <td width="171">
 <p>Octényl succinate d'amidon d'aluminium</p>
@@ -3393,6 +3479,20 @@ Les quantités maximales d'utilisation indiquées se rapportent aux denrées ali
 </td>
 <td width="101">
 <p align="center">35 g/kg dans le complément alimentaire (15*)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">E 1521</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Polyéthylène glycol</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Compléments alimentaires au sens du décret n° 2006-352 du 20 mars 2006, présentés sous forme de capsules ou de comprimés </p>
+</td>
+<td align="left" valign="top">
+<p align="center">10 g/kg</p>
 </td>
 </tr>
 </tbody>
