@@ -2,9 +2,9 @@
 
 Une nouvelle bonification indiciaire dont le montant est pris en compte et soumis à cotisation pour le calcul de la pension de retraite est attribuée mensuellement, à raison de leurs fonctions, aux fonctionnaires hospitaliers ci-dessous mentionnés :
 
-1° Infirmiers exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires : 13 points majorés ;
+1° Infirmiers ou infirmiers en soins généraux dans les deux premiers grades du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière régi par le  décret n° 2010-1139 du 29 septembre 2010, exerçant leurs fonctions, à titre exclusif, dans les blocs opératoires : 13 points majorés ;
 
-2° Infirmiers exerçant leurs fonctions, à titre exclusif, dans le domaine de l'électrophysiologie, de la circulation extra-corporelle ou de l'hémodialyse : 13 points majorés ;
+2° Infirmiers ou infirmiers en soins généraux dans les deux premiers grades du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière régi par le décret n° 2010-1139 du 29 septembre 2010, exerçant leurs fonctions, à titre exclusif, dans le domaine de l'électrophysiologie, de la circulation extra-corporelle ou de l'hémodialyse : 13 points majorés ;
 
 3° Adjoints des cadres hospitaliers exerçant leurs fonctions dans les établissements de moins de cent lits : 25 points majorés ;
 
@@ -32,4 +32,4 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 12° Agents nommés pour exercer les fonctions de gérant de tutelle : 10 points majorés ;
 
-13° Agents chargés, à titre exclusif, de la sécurité incendie dans les établissements répondant aux dispositions relatives aux immeubles de grande hauteur ou aux établissements de 1re catégorie accueillant du public  : 10 points majorés.
+13° Agents chargés, à titre exclusif, de la sécurité incendie dans les établissements répondant aux dispositions relatives aux immeubles de grande hauteur ou aux établissements de 1re catégorie accueillant du public : 10 points majorés.
