@@ -1,0 +1,7 @@
+# Article 1
+
+Le pharmacien assurant la gérance de la pharmacie à usage intérieur d'un établissement de santé ou d'un groupement de tels établissements mentionné à l'article L. 5126-1 du code de la santé publique et réalisant des préparations hospitalières pour son propre compte ou pour le compte d'autres pharmacies à usage intérieur, le pharmacien responsable de l'établissement pharmaceutique géré par un établissement public de santé ainsi que le pharmacien responsable d'un établissement pharmaceutique réalisant des préparations hospitalières pour le compte de pharmacies à usage intérieur déclarent toute nouvelle préparation hospitalière réalisée.
+
+On entend par nouvelle préparation hospitalière, au sens des dispositions du présent arrêté, toute préparation hospitalière, telle que définie à l'article L. 5121-1 (2°) du code de la santé publique, qui présente une substance active, une association de substances actives, un excipient s'il n'est pas inscrit à la Pharmacopée ou un adjuvant de préparation s'il est d'origine biologique ou une forme pharmaceutique différents de ceux des préparations ayant déjà fait l'objet d'une déclaration par le même déclarant.
+
+Cette déclaration est adressée à l'Agence française de sécurité sanitaire des produits de santé dans le délai d'un mois qui suit la réalisation de la préparation considérée, selon les modalités décrites en annexe 1 du présent arrêté.
