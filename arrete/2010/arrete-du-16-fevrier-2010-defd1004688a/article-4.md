@@ -6,8 +6,6 @@ La direction du renseignement militaire comprend :
 
 ― la sous-direction des opérations ;
 
-― la sous-direction des plans ;
+― la sous-direction "personnel - finances - capacités" ;
 
-― la sous-direction des moyens ;
-
-― le bureau « J2 ».
+― le bureau "J2".
