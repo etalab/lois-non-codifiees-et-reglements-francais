@@ -1,6 +1,6 @@
 # Article 4
 
-Les dossiers de demande d'aide à la cessation définitive d'activité sont déposés auprès de la direction interrégionale de la mer Méditerranée ou de ses représentations locales. La date limite de réception du dossier est fixée au 1er avril 2011.
+Les dossiers de demande d'aide à la cessation définitive d'activité sont déposés auprès de la direction interrégionale de la mer Méditerranée ou de ses représentations locales. La date limite de réception du dossier est fixée au 15 avril 2011.
 
 La direction interrégionale de la mer Méditerranée établit une liste des demandes éligibles conformément aux dispositions de l'article 2 en les classant par ordre décroissant de priorité conformément aux dispositions de l'article 8 du présent arrêté.
 
