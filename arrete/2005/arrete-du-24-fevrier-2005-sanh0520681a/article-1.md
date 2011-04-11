@@ -12,7 +12,7 @@ Les épreuves ont lieu simultanément dans chacune des sept interrégions défin
 
 4° Interrégion Ouest comprenant les subdivisions d'Angers, Brest, Nantes, Poitiers, Rennes et Tours ;
 
-5° Interrégion Rhône-Alpes comprenant les subdivisions de Clermont-Ferrand, Grenoble, Lyon et Saint-Etienne ;
+5° Interrégion Rhône-Alpes et Auvergne comprenant les subdivisions de Clermont-Ferrand, Grenoble, Lyon et Saint-Etienne ;
 
 6° Interrégion Sud comprenant les subdivisions d'Aix-Marseille, Montpellier et Nice ;
 
