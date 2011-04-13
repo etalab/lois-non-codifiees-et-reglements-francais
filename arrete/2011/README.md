@@ -340,7 +340,6 @@
 - [Arrêté du 13 janvier 2011 (JUSC1022402A)](arrete-du-13-janvier-2011-jusc1022402a)
 - [Arrêté du 13 janvier 2011 (JUSC1022404A)](arrete-du-13-janvier-2011-jusc1022404a)
 - [Arrêté du 13 mars 2011 (ETSH1107827A)](arrete-du-13-mars-2011-etsh1107827a)
-- [Arrêté du 13 mars 2011 (ETSP1109116A)](arrete-du-13-mars-2011-etsp1109116a)
 - [Arrêté du 13 septembre 1985](arrete-du-13-septembre-1985)
 - [Arrêté du 14 avril 2010 (AGRS1005173A)](arrete-du-14-avril-2010-agrs1005173a)
 - [Arrêté du 14 décembre 2010 (DEVK1032156A)](arrete-du-14-decembre-2010-devk1032156a)
