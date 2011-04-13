@@ -2,7 +2,7 @@
 
 LISTE DES ÉTRANGERS SOUMIS AU VISA DE TRANSIT AÉROPORTUAIRE PAR LA FRANCE
 
-1. Sont soumis au visa de transit aéroportuaire les étrangers mentionnés à l'annexe IV du règlement (CE) n° 810/2009 du 13 juillet 2009.
+1. Sont soumis au visa de transit aéroportuaire les étrangers mentionnés à l' annexe IV du règlement (CE) n° 810/2009  du 13 juillet 2009.
 
 2. Sont en outre soumis au visa de transit aéroportuaire :
 
@@ -11,19 +11,11 @@ LISTE DES ÉTRANGERS SOUMIS AU VISA DE TRANSIT AÉROPORTUAIRE PAR LA FRANCE
 <table>
 <tbody>
 <tr>
-<th>
-<br/>PAYS OU ENTITÉ<br/>
-</th>
-<th>
-<br/>ÉTENDUE DE LA DISPENSE DE VISA<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Albanie<br/>
+<td>
+<p align="center"> PAYS OU ENTITÉ</p>
 </td>
-<td align="center">
-<br/>L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.<br/>
+<td>
+<p align="center"> ÉTENDUE DE LA DISPENSE DE VISA</p>
 </td>
 </tr>
 <tr>

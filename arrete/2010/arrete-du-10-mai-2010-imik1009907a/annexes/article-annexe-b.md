@@ -2,7 +2,7 @@
 
 EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANTS DES PAYS OU ENTITÉS INSCRITS À L'ANNEXE II AU RÈGLEMENT (CE) N° 539/2001
 
-1. Liste des pays ou des entités territoriales dont les titulaires de passeport diplomatique, d'un passeport de service ou autre passeport officiel sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède pas trois mois au titre de l'exception prévue au a du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001 :
+1. Liste des pays ou des entités territoriales dont les titulaires de passeport diplomatique, d'un passeport de service ou autre passeport officiel sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède pas trois mois au titre de l'exception prévue au  a du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001  :
 
 <table>
 <tbody>
@@ -16,12 +16,6 @@ EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANT
 <td align="center">Afrique du Sud<br/>
 </td>
 <td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou officiel.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Albanie<br/>
-</td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
 </td>
 </tr>
 <tr>
@@ -52,12 +46,6 @@ EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANT
 <td align="center">Bolivie<br/>
 </td>
 <td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou officiel.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Bosnie<br/>
-</td>
-<td align="center">Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
 </td>
 </tr>
 <tr>
