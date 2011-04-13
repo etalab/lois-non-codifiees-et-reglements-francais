@@ -578,7 +578,6 @@
 - [Arrêté du 21 mai 2004 (MJSK0470077A)](arrete-du-21-mai-2004-mjsk0470077a)
 - [Arrêté du 21 mai 2004 (MJSK0470090A)](arrete-du-21-mai-2004-mjsk0470090a)
 - [Arrêté du 22 avril 2004 (AGRA0400766A)](arrete-du-22-avril-2004-agra0400766a)
-- [Arrêté du 22 avril 2004 (AGRA0400767A)](arrete-du-22-avril-2004-agra0400767a)
 - [Arrêté du 22 avril 2004 (ECOT0491206A)](arrete-du-22-avril-2004-ecot0491206a)
 - [Arrêté du 22 avril 2004 (MCCB0400385A)](arrete-du-22-avril-2004-mccb0400385a)
 - [Arrêté du 22 décembre 2003 (SOCF0312093A)](arrete-du-22-decembre-2003-socf0312093a)
