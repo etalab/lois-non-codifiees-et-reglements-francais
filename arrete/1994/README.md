@@ -586,7 +586,6 @@
 - [Arrêté du 19 avril 1994 (SPSC9401292A)](arrete-du-19-avril-1994-spsc9401292a)
 - [Arrêté du 19 décembre 1994 (BUDD9440002A)](arrete-du-19-decembre-1994-budd9440002a)
 - [Arrêté du 19 décembre 1994 (BUDF9420791A)](arrete-du-19-decembre-1994-budf9420791a)
-- [Arrêté du 19 décembre 1994 (DEFG9402230A)](arrete-du-19-decembre-1994-defg9402230a)
 - [Arrêté du 19 décembre 1994 (EQUP9401069A)](arrete-du-19-decembre-1994-equp9401069a)
 - [Arrêté du 19 décembre 1994 (SPSS9403837A)](arrete-du-19-decembre-1994-spss9403837a)
 - [Arrêté du 19 janvier 1994 (RESK9301608A)](arrete-du-19-janvier-1994-resk9301608a)
