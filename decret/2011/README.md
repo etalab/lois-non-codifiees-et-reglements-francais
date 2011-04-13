@@ -31,6 +31,7 @@
 - [Décret n°2011-263 du 11 mars 2011 (EFIE1103862D)](decret-n2011-263-du-11-mars-2011-efie1103862d)
 - [Décret n°2011-264 du 11 mars 2011 (MCCB1029716D)](decret-n2011-264-du-11-mars-2011-mccb1029716d)
 - [Décret n°2011-265 du 11 mars 2011 (MCCD1102326D)](decret-n2011-265-du-11-mars-2011-mccd1102326d)
+- [Décret n°2011-382 du 11 avril 2011 (ETSP1107628D)](decret-n2011-382-du-11-avril-2011-etsp1107628d)
 - [Décret n°2011-268 du 14 mars 2011 (EFIT1105845D)](decret-n2011-268-du-14-mars-2011-efit1105845d)
 - [Décret n°2011-270 du 14 mars 2011 (ETSS1100145D)](decret-n2011-270-du-14-mars-2011-etss1100145d)
 - [Décret n°2011-271 du 14 mars 2011 (AGRT1032790D)](decret-n2011-271-du-14-mars-2011-agrt1032790d)

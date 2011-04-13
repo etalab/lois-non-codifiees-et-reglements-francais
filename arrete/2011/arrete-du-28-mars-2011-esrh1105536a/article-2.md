@@ -1,0 +1,3 @@
+# Article 2
+
+Le groupe en formation restreinte aux bureaux de section se compose, pour l'examen des candidatures à une inscription sur la liste de qualification aux fonctions de professeur des universités, des présidents, des premiers vice-présidents et éventuellement des assesseurs représentant les professeurs des universités et assimilés des bureaux de chaque section composant le groupe et, pour l'examen des candidatures à une inscription sur la liste de qualification aux fonctions de maître de conférences, des présidents, des vice-présidents et des assesseurs des bureaux des sections composant le groupe.
