@@ -16,6 +16,8 @@ Chaque emplacement accessible doit correspondre à un espace d'usage dont les ca
 
 Le cheminement d'accès à ces emplacements doit présenter les mêmes caractéristiques que les circulations intérieures.
 
+En ce qui concerne les enceintes sportives, les emmarchements des gradins et les gradins des tribunes ne sont pas considérés comme des circulations intérieures verticales ou horizontales au sens du présent arrêté.
+
 3° Répartition :
 
 Lorsque plusieurs places s'imposent et que la nature des prestations offertes par l'établissement présente des différences importantes selon l'endroit où le public est admis, les places adaptées doivent être réparties en fonction des différentes catégories de places offertes au public.
