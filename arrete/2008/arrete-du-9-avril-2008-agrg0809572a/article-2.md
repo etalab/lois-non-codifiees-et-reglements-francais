@@ -12,9 +12,9 @@ d) Pour une demande d'autorisation de mise sur le marché d'un autre produit phy
 
 II.-Pour une demande de réexamen :
 
-a) D'un produit phytopharmaceutique consécutif à l'inscription d'au moins une des substances actives qui le composent sur l'annexe I de la directive 91 / 414 / CEE : 40 000 euros par demande.
+a) D'un produit phytopharmaceutique consécutif à l'inscription d'au moins une des substances actives qui le composent sur l'annexe I de la directive 91/414/ CEE : 40 000 euros par demande.
 
-b) D'un produit phytopharmaceutique bénéficiant d'une autorisation de mise sur le marché provisoire consécutif à l'inscription d'au moins une des substances actives qui le composent sur l'annexe I de la directive 91 / 414 / CEE : 5 000 euros par demande.
+b) D'un produit phytopharmaceutique bénéficiant d'une autorisation de mise sur le marché provisoire consécutif à l'inscription d'au moins une des substances actives qui le composent sur l'annexe I de la directive 91/414/ CEE : 5 000 euros par demande.
 
 III.-Pour une demande de renouvellement d'une autorisation de mise sur le marché d'un produit phytopharmaceutique ou d'un adjuvant : 5 000 euros par demande.
 
@@ -22,7 +22,7 @@ IV.-Pour une demande d'autorisation de mise sur le marché d'un produit phytopha
 
 V.-Pour une demande d'autorisation de mise sur le marché d'un produit phytopharmaceutique identique à un produit phytopharmaceutique déjà autorisé dans un autre Etat membre de l'Union européenne et contenant uniquement des substances actives inscrites sur la liste communautaire des substances actives (reconnaissance mutuelle) : 15 000 euros par demande.
 
-VI.-Pour une demande d'autorisation de mise sur le marché d'un produit phytopharmaceutique ou d'un adjuvant visé à l'article R. 253-52 du code rural et de la pêche maritime : 600 euros par produit et par Etat de provenance partie à l'accord sur l'espace économique européen.
+VI.-Pour une demande d'autorisation de mise sur le marché d'un produit phytopharmaceutique ou d'un adjuvant visé à l'article R. 253-52 du code rural et de la pêche maritime : 400 euros par produit et par Etat de provenance partie à l'accord sur l'Espace économique européen.
 
 VII.-a) Pour une demande d'extension d'usage (s) d'un produit phytopharmaceutique déjà autorisé ne concernant qu'une seule culture majeure : 8 000 euros par demande.
 
