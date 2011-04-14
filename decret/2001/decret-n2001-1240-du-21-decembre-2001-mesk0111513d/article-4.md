@@ -1,11 +1,39 @@
 # Article 4
 
-La Commission nationale contre les violences envers les femmes est composée de :
+La Commission nationale contre les violences envers les femmes comprend :
 
-- onze représentants de l'Etat, dont trois du ministère de l'emploi et de la solidarité et un de chacun des ministères chargés de l'éducation nationale, de la justice, de l'intérieur, de la défense, du logement, des affaires étrangères, du tourisme et de l'outre-mer ;
+1° Les présidents de la délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes de l'Assemblée nationale et du Sénat ;
 
-- cinq représentants d'associations spécialisées, dont au moins une intervenant dans le domaine de la prostitution ;
+2° Deux représentants des collectivités territoriales :
 
-- sept personnalités qualifiées, dont quatre élus.
+- le président de l'Association des maires de France ;
 
-D'autres ministères peuvent être appelés à siéger à la commission selon les questions inscrites à l'ordre du jour.
+- le président de l'Association des départements de France ;
+
+3° Dix représentants de l'Etat :
+
+- le directeur général de la cohésion sociale ;
+
+- le directeur de l'habitat, de l'urbanisme et des paysages ou son représentant ;
+
+- le directeur général de l'offre de soins ;
+
+- le directeur général de la police nationale ;
+
+- le directeur des affaires criminelles et des grâces ;
+
+- le directeur général des affaires politiques et de sécurité ;
+
+- le directeur général de l'enseignement scolaire ;
+
+- le directeur général pour l'enseignement supérieur et l'insertion professionnelle ;
+
+- le directeur de l'accueil, de l'intégration et de la citoyenneté ;
+
+- le secrétaire général du comité interministériel de prévention de la délinquance ;
+
+4° Onze représentants d'associations spécialisées ;
+
+5° Quatre personnalités qualifiées.
+
+D'autres ministères peuvent être appelés à participer aux travaux de la commission selon les questions inscrites à l'ordre du jour.
