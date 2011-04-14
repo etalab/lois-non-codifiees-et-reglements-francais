@@ -1,6 +1,6 @@
 # Article 1
 
-Les chercheurs de l'Agence française de sécurité sanitaire des aliments sont des fonctionnaires classés dans l'un des deux corps suivants :
+Les chercheurs de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail sont des fonctionnaires classés dans l'un des deux corps suivants :
 
 Directeurs de recherche ;
 

@@ -6,6 +6,6 @@ Les informations fournies dans les dossiers transmis conformément au premier al
 
 Toute personne ayant accès aux dossiers susmentionnés est tenue au secret professionnel dans les conditions et sous les peines prévues à l'article 226-13 du code pénal.
 
-Des expérimentations réalisées dans les conditions ordinaires de l'élevage pour vérifier les qualités des additifs dont l'innocuité a été préalablement établie peuvent être autorisées par le ministre chargé de la consommation après avis de l'Agence française de sécurité sanitaire des aliments.
+Des expérimentations réalisées dans les conditions ordinaires de l'élevage pour vérifier les qualités des additifs dont l'innocuité a été préalablement établie peuvent être autorisées par le ministre chargé de la consommation après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 Toute personne physique ou morale, avant d'entreprendre des essais toxicologiques sur des vertébrés en vue d'établir un dossier de demande d'autorisation pour un additif, doit vérifier si son produit ou sa substance active ne fait pas déjà l'objet d'une autorisation. Dans la mesure où il s'agit d'un produit ou d'une substance active déjà autorisés, le demandeur et le ou les titulaires d'autorisations antérieures prennent toutes les dispositions nécessaires pour parvenir à un accord sur l'utilisation partagée des informations, afin d'éviter une répétition des essais toxicologiques portant sur des vertébrés.

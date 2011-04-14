@@ -6,7 +6,7 @@ Ce comité comprend, outre son président et son vice-président :
 
 Le directeur général de la santé ou son représentant.
 
-Le           directeur général de l'offre de soins  ou son représentant.
+Le directeur général de l'offre de soins ou son représentant.
 
 Le directeur de la sécurité sociale ou son représentant.
 
@@ -30,7 +30,7 @@ Le ministre chargé des personnes âgées ou son représentant.
 
 Le ministre chargé de la ville ou son représentant.
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments ou son représentant.
+Le directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ou son représentant.
 
 Le directeur général de l'Institut de veille sanitaire ou son représentant.
 

@@ -1,6 +1,6 @@
 # Article 37
 
-Le directeur général de l'Agence française de sécurité sanitaire des aliments notifie sa décision au demandeur dans un délai de cent vingt jours à compter de la date de réception du dossier complet, sous réserve des dispositions prévues au dernier alinéa du présent article.
+Le directeur général de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail notifie sa décision au demandeur dans un délai de cent vingt jours à compter de la date de réception du dossier complet, sous réserve des dispositions prévues au dernier alinéa du présent article.
 
 En l'absence de réponse dans ce délai, la demande d'autorisation est réputée rejetée. Le directeur général est tenu de fournir d'office au demandeur les motifs de ce rejet.
 
@@ -10,4 +10,4 @@ a) Soit en indiquant qu'il s'est assuré de la conformité de la notification av
 
 b) Soit en indiquant que l'expérimentation ne remplit pas les conditions relatives à la dissémination volontaire d'organismes génétiquement modifiés dans l'environnement et qu'en conséquence la demande est rejetée.
 
-Le directeur de l'Agence française de sécurité sanitaire des aliments peut inviter le demandeur à lui communiquer des informations complémentaires pour se prononcer sur sa demande ; il peut prolonger le délai prévu au premier alinéa du présent article de la durée correspondante. Il doit alors notifier au demandeur les motifs de cette demande.
+Le directeur de l'      Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail peut inviter le demandeur à lui communiquer des informations complémentaires pour se prononcer sur sa demande ; il peut prolonger le délai prévu au premier alinéa du présent article de la durée correspondante. Il doit alors notifier au demandeur les motifs de cette demande.

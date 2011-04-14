@@ -1,6 +1,6 @@
 # Article 4
 
-Un arrêté des ministres chargés de la consommation, de l'agriculture et de la santé, pris après avis de l'Agence française de sécurité sanitaire des aliments, fixe la liste des vitamines, substances minérales et autres substances dont l'emploi dans les denrées alimentaires est autorisé conformément aux articles 2 et 3 ; il précise également :
+Un arrêté des ministres chargés de la consommation, de l'agriculture et de la santé, pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, fixe la liste des vitamines, substances minérales et autres substances dont l'emploi dans les denrées alimentaires est autorisé conformément aux articles 2 et 3 ; il précise également :
 
 1° Les formes chimiques sous lesquelles les vitamines, substances minérales et autres substances peuvent être ajoutées ;
 

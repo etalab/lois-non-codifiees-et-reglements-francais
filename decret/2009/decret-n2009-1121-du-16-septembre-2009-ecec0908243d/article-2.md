@@ -1,6 +1,6 @@
 # Article 2
 
-Des arrêtés conjoints du ministre chargé de la consommation, du ministre chargé de la santé, du ministre chargé de l'agriculture et, en tant que de besoin, du ministre chargé des douanes, du ministre chargé des transports déterminent, après avis de l'Agence française de sécurité sanitaire des aliments :
+Des arrêtés conjoints du ministre chargé de la consommation, du ministre chargé de la santé, du ministre chargé de l'agriculture et, en tant que de besoin, du ministre chargé des douanes, du ministre chargé des transports déterminent, après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail :
 
 1° Les caractéristiques hygiéniques auxquelles doivent satisfaire les produits et denrées alimentaires pour être reconnus propres à la consommation humaine ;
 

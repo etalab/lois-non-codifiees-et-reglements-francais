@@ -1,6 +1,6 @@
 # Article 2
 
-Un arrêté des ministres chargés de la consommation, de l'agriculture, de la santé et de l'industrie pris après avis de l'Agence française de sécurité sanitaire des aliments fixe, pour les catégories mentionnées à l'annexe au présent décret :
+Un arrêté des ministres chargés de la consommation, de l'agriculture, de la santé et de l'industrie pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail fixe, pour les catégories mentionnées à l'annexe au présent décret :
 
 1° La liste des auxiliaires technologiques dont l'emploi est autorisé, et, le cas échéant, les conditions de leur emploi et les limites maximales de résidus admissibles ;
 

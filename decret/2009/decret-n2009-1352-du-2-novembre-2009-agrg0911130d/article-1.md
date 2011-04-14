@@ -1,6 +1,6 @@
 # Article 1
 
-Le comité consultatif de gouvernance prévu à l'article L. 213-4-1 du code de l'environnement, ci-après dénommé « le comité », comprend :
+Le comité consultatif de gouvernance prévu à l'article L. 213-4-1 du code de l'environnement, ci-après dénommé  le comité , comprend :
 
 1° Au titre de l'administration et de ses établissements publics :
 
@@ -20,7 +20,7 @@ Le comité consultatif de gouvernance prévu à l'article L. 213-4-1 du code de 
 
 ― le directeur général de FranceAgriMer ;
 
-― le directeur général de l'Agence française de sécurité sanitaire des aliments ;
+― le directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail ;
 
 ― deux directeurs généraux d'agence de l'eau ;
 

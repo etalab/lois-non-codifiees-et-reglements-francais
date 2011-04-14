@@ -20,4 +20,4 @@ Elle programme, en lien avec le secrétariat général, la répartition des moye
 
 Elle assure le secrétariat du Conseil national de l'alimentation.
 
-Elle exerce pour le compte du ministre la tutelle sur l'Agence française de sécurité sanitaire des aliments.
+Elle exerce pour le compte du ministre la tutelle sur l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.

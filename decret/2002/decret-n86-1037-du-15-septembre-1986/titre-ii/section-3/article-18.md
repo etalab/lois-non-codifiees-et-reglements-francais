@@ -1,6 +1,6 @@
 # Article 18
 
-La détention, la vente et la distribution à titre gratuit pour l'alimentation animale des produits azotés obtenus par synthèse ou fermentation ne sont autorisées que pour ceux de ces produits figurant sur la liste établie par arrêtés conjoints ministre chargé de l'agriculture, du ministre chargé de la santé et du ministre chargé de la consommation, pris après avis de l'Agence française de sécurité sanitaire des aliments.
+La détention, la vente et la distribution à titre gratuit pour l'alimentation animale des produits azotés obtenus par synthèse ou fermentation ne sont autorisées que pour ceux de ces produits figurant sur la liste établie par arrêtés conjoints ministre chargé de l'agriculture, du ministre chargé de la santé et du ministre chargé de la consommation, pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 Pour être inscrits sur cette liste ces produits doivent satisfaire aux conditions ci-après :
 

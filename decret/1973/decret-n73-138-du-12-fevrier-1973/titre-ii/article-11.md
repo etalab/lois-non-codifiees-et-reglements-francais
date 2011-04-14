@@ -1,22 +1,22 @@
 # Article 11
 
-I. - Il est interdit de détenir en vue de la vente, de mettre en vente ou d'utiliser pour le nettoyage des matériaux et des objets destinés à être mis au contact de denrées alimentaires des produits de nettoyage élaborés avec des constituants dont la présence dans ces produits créerait un risque pour la santé.
+I.-Il est interdit de détenir en vue de la vente, de mettre en vente ou d'utiliser pour le nettoyage des matériaux et des objets destinés à être mis au contact de denrées alimentaires des produits de nettoyage élaborés avec des constituants dont la présence dans ces produits créerait un risque pour la santé.
 
 Sans préjudice des dispositions mentionnées au II ci-dessous, les produits utilisés pour le nettoyage ne doivent notamment pas être élaborés à l'aide de constituants comportant :
 
-- des préparations enzymatiques obtenues à partir de souches de micro-organismes pathogènes ou toxicogènes ;
+-des préparations enzymatiques obtenues à partir de souches de micro-organismes pathogènes ou toxicogènes ;
 
-- des produits dérivés de tissus animaux ou végétaux infestés par des parasites, par des agents pathogènes ou leurs toxines, et impropres à l'alimentation humaine ;
+-des produits dérivés de tissus animaux ou végétaux infestés par des parasites, par des agents pathogènes ou leurs toxines, et impropres à l'alimentation humaine ;
 
-- des substances dangereuses qui, en application du chapitre Ier du titre III du livre V du code de la santé publique, sont classés dans l'une des catégories suivantes :
+-des substances dangereuses qui, en application du chapitre Ier du titre III du livre V du code de la santé publique, sont classés dans l'une des catégories suivantes :
 
-- cancérogènes, des 1re et 2e catégories ;
+-cancérogènes, des 1re et 2e catégories ;
 
-- mutagènes, des 1re et 2e catégories ;
+-mutagènes, des 1re et 2e catégories ;
 
-- toxiques pour la reproduction, des 1re et 2e catégories.
+-toxiques pour la reproduction, des 1re et 2e catégories.
 
-II. - Un arrêté conjoint des ministres respectivement chargés de la consommation, de la santé, de l'agriculture et de l'industrie, pris après avis de l'Agence française de sécurité sanitaire des aliments fixe la liste :
+II.-Un arrêté conjoint des ministres respectivement chargés de la consommation, de la santé, de l'agriculture et de l'industrie, pris après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail fixe la liste :
 
 1. Des constituants qui sont seuls autorisés dans les produits de nettoyage appartenant aux catégories désignées ci-après :
 
@@ -34,6 +34,6 @@ Cet arrêté précise, le cas échéant, pour tous les constituants susmentionn�
 
 Ce même arrêté détermine les conditions de concentration auxquelles doivent satisfaire tous les produits destinés au rinçage de la vaisselle.
 
-III. - Les dispositions du I et du II du présent article et celles qui sont prises pour leur application sont abrogées en tant qu'elles portent sur l'autorisation de mise sur le marché et d'emploi de constituants qui entrent dans le champ d'application du chapitre II du titre II du livre V du code de l'environnement et du décret pris pour son application.
+III.-Les dispositions du I et du II du présent article et celles qui sont prises pour leur application sont abrogées en tant qu'elles portent sur l'autorisation de mise sur le marché et d'emploi de constituants qui entrent dans le champ d'application du chapitre II du titre II du livre V du code de l'environnement et du décret pris pour son application.
 
 Toutefois, les dispositions mentionnées à l'alinéa précédent restent en vigueur dans les conditions définies au II de l'article L. 522-18 du code de l'environnement pour les substances actives et les produits biocides qui y sont mentionnés, jusqu'à l'intervention d'une décision relative à leur inscription sur les listes prévues à l'article L. 522-3 du même code.

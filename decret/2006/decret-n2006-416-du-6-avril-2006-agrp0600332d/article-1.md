@@ -6,7 +6,7 @@ En outre, sauf précision contraire ou complémentaire prévue soit dans le déc
 
 -l'opération d'emprésurage des laits doit être réalisée exclusivement avec la présure (définie par le décret n° 69-475 du 14 mai 1969 modifiant l'article 24 du décret du 25 mars 1924) ;
 
--l'ajout dans les laits, et au cours de la fabrication, de cultures de bactéries, de levures et de moisissures dont l'innocuité est démontrée par l'usage ou, pour les nouvelles cultures, évaluée par l'Agence française de sécurité sanitaire des aliments est autorisé ;
+-l'ajout dans les laits, et au cours de la fabrication, de cultures de bactéries, de levures et de moisissures dont l'innocuité est démontrée par l'usage ou, pour les nouvelles cultures, évaluée par l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail est autorisé ;
 
 -la conservation par maintien à une température négative des matières premières laitières, des produits en cours de fabrication, du caillé ou du fromage frais est interdite ;
 
