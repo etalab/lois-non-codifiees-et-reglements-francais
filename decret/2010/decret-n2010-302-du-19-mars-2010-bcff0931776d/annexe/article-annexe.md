@@ -17,3 +17,5 @@ Secrétaires d'administration de la Caisse des dépôts et consignations.
 Secrétaires administratifs relevant du ministre chargé de l'agriculture.
 
 Secrétaires administratifs du ministère de la défense.
+
+Secrétaires administratifs des services du Premier ministre.

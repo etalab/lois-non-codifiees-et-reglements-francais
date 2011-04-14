@@ -31,3 +31,5 @@ Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d
 Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
 Secrétaires d'administration de la Caisse des dépôts et consignations.
+
+Secrétaires administratifs des services du Premier ministre.

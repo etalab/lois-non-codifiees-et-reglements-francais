@@ -12,8 +12,6 @@ Contrôleurs des transports terrestres.
 
 Secrétaires de chancellerie.
 
-Secrétaires administratifs d'administration centrale.
-
 Secrétaires administratifs de l'Office national des forêts.
 
 Secrétaires administratifs de l'équipement.

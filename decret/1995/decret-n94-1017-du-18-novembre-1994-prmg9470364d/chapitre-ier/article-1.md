@@ -2,11 +2,7 @@
 
 Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent décret s'appliquent aux corps de fonctionnaires suivants, créés par le présent décret :
 
-1. Corps d'administration centrale des administrations de l'Etat :
-
-- secrétaires administratifs d'administration centrale.
-
-Les secrétaires administratifs d'administration centrale des services généraux du Premier ministre peuvent être affectés dans les établissements publics administratifs placés sous la tutelle du Premier ministre.
+1. (supprimé)
 
 2. Corps des services déconcentrés des administrations de l'Etat ou d'établissements publics administratifs de l'Etat :
 
