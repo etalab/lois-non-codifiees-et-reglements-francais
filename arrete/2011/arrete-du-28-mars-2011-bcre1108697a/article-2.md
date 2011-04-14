@@ -1,0 +1,3 @@
+# Article 2
+
+Le trésorier-payeur général ou le directeur départemental des finances publiques peut déléguer sa signature, à l'effet de prendre des décisions sur des demandes de remises gracieuses portant sur des majorations de recouvrement, des intérêts moratoires ou des frais de poursuites relatives aux impositions mentionnées à l'article 1er, aux comptables des services des impôts des entreprises et des pôles de recouvrement spécialisé pour un montant maximum de 50 000 euros. Ce comptable peut subdéléguer sa signature aux agents de catégorie A pour un montant maximum de 15 000 euros et aux agents de catégorie B pour un montant maximum de 10 000 euros.
