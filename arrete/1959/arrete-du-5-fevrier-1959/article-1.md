@@ -1,6 +1,6 @@
 # Article 1
 
-Sont agréés, pour effectuer les essais de réaction au feu définis par l'article R. 121-5 du code de la construction et de l'habitation et par l'arrêté du 30 juin 1983 modifié susvisé, les laboratoires des organismes suivants :
+Sont agréés, pour effectuer les essais de réaction au feu définis par l'article R. 121-5 du code de la construction et de l'habitation et par l'arrêté du 21 novembre 2002 modifié relatif à la classification au feu des produits de construction et d'aménagement, les laboratoires des organismes suivants :
 
 Centre scientifique et technique du bâtiment (CSTB) ;
 
@@ -12,6 +12,6 @@ SNPE matériaux énergétiques (SME) ;
 
 Institut français du textile et de l'habillement (IFTH) ;
 
-Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement) ;
+Institut technologique FCBA (forêt, cellulose, bois-construction, ameublement) ;
 
 Centre de recherche et d'études sur les procédés d'ignifugation des matériaux (CREPIM).

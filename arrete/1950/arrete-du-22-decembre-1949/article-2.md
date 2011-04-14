@@ -30,4 +30,6 @@ Le directeur du Centre de recherche et d'études sur les procédés d'ignifugati
 
 Le directeur d'Efectis France ou son représentant ;
 
+Le directeur du centre d'études et de recherches de l'industrie du béton ou son représentant.
+
 Le président peut convoquer aux séances, avec voix consultative, toute personne qui lui paraît spécialement qualifiée par sa compétence pour apporter des renseignements utiles au comité.
