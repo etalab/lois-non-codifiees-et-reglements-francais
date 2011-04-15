@@ -1,6 +1,6 @@
 # Article 75
 
-L'usage professionnel du titre d'ostéopathe ou de chiropracteur est réservé aux personnes titulaires d'un diplôme sanctionnant une formation spécifique à l'ostéopathie ou à la chiropraxie délivrée par un établissement de formation agréé par le ministre chargé de la santé dans des conditions fixées par décret. Le programme et la durée des études préparatoires, qui doivent être au minimum de 3 520 heures, et des épreuves après lesquelles peut être délivré ce diplôme sont fixés par voie réglementaire.
+L'usage professionnel du titre d'ostéopathe ou de chiropracteur est réservé aux personnes titulaires d'un diplôme sanctionnant une formation spécifique à l'ostéopathie ou à la chiropraxie délivrée par un établissement de formation agréé par le ministre chargé de la santé dans des conditions fixées par décret. Le programme et la durée des études préparatoires et des épreuves après lesquelles peut être délivré ce diplôme sont fixés par voie réglementaire.
 
 S'il s'agit d'un diplôme délivré à l'étranger, il doit conférer à son titulaire une qualification reconnue analogue, selon des modalités fixées par décret.
 
