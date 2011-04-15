@@ -175,7 +175,6 @@
 - [Décret n°2009-19 du 7 janvier 2009 (DEFH0830109D)](decret-n2009-19-du-7-janvier-2009-defh0830109d)
 - [Décret n°2009-20 du 7 janvier 2009 (DEFH0830110D)](decret-n2009-20-du-7-janvier-2009-defh0830110d)
 - [Décret n°2009-21 du 7 janvier 2009 (DEFH0830113D)](decret-n2009-21-du-7-janvier-2009-defh0830113d)
-- [Décret n°2009-22 du 7 janvier 2009 (DEFH0830116D)](decret-n2009-22-du-7-janvier-2009-defh0830116d)
 - [Décret n°2009-23 du 7 janvier 2009 (DEFH0830117D)](decret-n2009-23-du-7-janvier-2009-defh0830117d)
 - [Décret n°2009-26 du 7 janvier 2009 (MLVU0829710D)](decret-n2009-26-du-7-janvier-2009-mlvu0829710d)
 - [Décret n°2009-27 du 7 janvier 2009 (BCFS0805717D)](decret-n2009-27-du-7-janvier-2009-bcfs0805717d)
