@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien (ne) supérieur (e) du bâtiment en économie de la construction.
+Titre professionnel : technicien supérieur du bâtiment en économie de la construction.
 
 Niveau : III.
 
@@ -12,165 +12,129 @@ Code NSF : 230 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) supérieur (e) du bâtiment en économie de la construction intervient à partir de projets de construction d'un maître d'oeuvre ou d'ouvrage pour déterminer les procédés techniques, les méthodes d'organisation et les coûts de l'opération. Il (elle) peut être sollicité (e) dès la phase projet et lors de la réalisation des travaux. En tant que co-concepteur (trice) ou chef de projet, il (elle) est à l'écoute de ses partenaires et des futurs utilisateurs, de manière à traduire le projet en termes techniques et économiques.
+Le technicien supérieur du bâtiment en économie de la construction procède à l'élaboration technique et financière d'un projet de construction. Il détermine de manière globale ou provisoire les procédés techniques, les méthodes d'organisation et les coûts d'une opération de construction. Il est responsable, face à son supérieur hiérarchique, de l'étude technico-économique, en tout corps d'état ou dans une spécialité, du dossier qui lui est remis, depuis les premières mises au point durant la phase du montage du programme jusqu'à la clôture de l'opération. Il intervient avant le démarrage des travaux, soit au stade de la conception ou de la remise d'un devis au client, soit au stade de la préparation des budgets. Selon la dimension du projet, le travail peut s'effectuer seul ou en équipe.
 
-Il (elle) réalise des calculs techniques et utilise des logiciels informatiques spécifiques. Son rôle est essentiel tout au long de l'opération. Dans les premières phases (dites programme et avant-projet), ses mises au point successives permettent d'éclairer les décisions quant à la faisabilité de l'opération.
-
-Lors du démarrage du projet, il (elle) contribue à la création des pièces nécessaires pour consulter des entreprises. S'il (elle) travaille dans une structure de maîtrise d'ouvrage ou de maîtrise d'oeuvre, il (elle) analyse les offres reçues lors de la consultation. S'il (elle) travaille dans une entreprise, il (elle) établit la réponse à cette consultation. Lors de la préparation du chantier, il (elle) contribue à la mise au point définitive du marché de travaux, dont il (elle) suivra la gestion durant la réalisation et jusqu'à la clôture du dossier.
-
-Il (elle) travaille principalement dans un bureau, mais peut être amené (e) à se déplacer sur des chantiers. Le respect des délais conditionne son rythme et sa charge de travail.
+S'il travaille principalement dans un bureau, le technicien supérieur peut être amené à se déplacer sur des chantiers, ponctuellement voire parfois en présence continue. Le respect des délais conditionne le rythme et la charge de travail.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Faire le métré tous corps d'état d'une opération de construction
+1. Faire le métré tous corps d'état et la mise à prix au bordereau
 
-complexe et l'estimer au bordereau ou aux ratios
+ou aux ratios d'une opération de construction complexe
 
-Analyser un dossier technique pour en repérer les éléments déterminants.
+Synthétiser et compléter les éléments déterminants d'un dossier.
 
-Choisir les techniques et méthodes d'exécution des ouvrages d'une construction dans le respect des normes et de la réglementation.
+Repérer les limites de prestations et de responsabilité de l'ensemble des acteurs de l'acte de construire.
 
-Collecter les informations et mettre en forme les pièces écrites à l'aide de l'informatique.
+Dessiner des plans de détail ou généraux d'une construction dans le respect des normes de représentation.
 
-Décomposer par corps d'état une construction en ouvrages élémentaires.
+Etablir un métré adapté à son exploitation.
 
-Définir les différents corps d'état intervenant dans la réalisation d'un ouvrage de construction, et leur prestation.
-
-Etablir une feuille d'avant-métré dans le respect des conventions de la profession.
+Utiliser et alimenter une banque de données.
 
 Estimer le coût d'un ouvrage à l'aide de ratios adaptés ou de bordereaux de prix.
 
-Etablir un devis quantitatif estimatif conforme aux attentes du client à partir d'un métré fourni.
+Structurer un dossier pour le rendre lisible et exploitable.
 
-2. Réaliser l'étude technique, décrire les ouvrages et maîtriser
+Justifier et argumenter son étude.
 
-le budget d'un projet de construction complexe
+2. Mettre une construction en conformité
 
-Analyser les différentes missions de l'ensemble des acteurs de l'acte de construire pour repérer les limites de prestations et de responsabilité de chacun.
+avec les critères environnementaux et la réglementation
 
-Analyser un dossier technique pour en repérer les éléments déterminants.
+Synthétiser et compléter les éléments déterminants d'un dossier.
 
-Calculer le montant de l'assiette de la subvention pour un logement aidé.
+Repérer les limites de prestations et de responsabilité de l'ensemble des acteurs de l'acte de construire.
 
-Choisir les techniques et méthodes d'exécution des ouvrages d'une construction dans le respect des normes et de la réglementation.
+Dessiner des plans de détail ou généraux d'une construction dans le respect des normes de représentation.
 
-Collecter les informations et mettre en forme les pièces écrites à l'aide de l'informatique.
+Utiliser et alimenter une banque de données.
 
-Communiquer efficacement à l'interne et à l'externe.
+Structurer un dossier pour le rendre lisible et exploitable.
 
-Décomposer par corps d'état une construction en ouvrages élémentaires.
+Justifier et argumenter son étude.
 
-Définir les différents corps d'état intervenant dans la réalisation d'un ouvrage de construction, et leur prestation.
+Définir les caractéristiques dimensionnelles et qualitatives des ouvrages dans le respect de la réglementation et la prise en compte des critères environnementaux.
 
-Dessiner manuellement ou à l'aide d'un logiciel de dessin assisté par ordinateur (DAO) des plans de détail ou généraux d'une construction dans le respect des normes de représentation.
+3. Finaliser l'étude d'un projet et le dossier de consultation
 
-Estimer des coûts à l'aide d'un logiciel d'estimation.
+des entreprises, en suivre financièrement la réalisation
+
+Synthétiser et compléter les éléments déterminants d'un dossier.
+
+Repérer les limites de prestations et de responsabilité de l'ensemble des acteurs de l'acte de construire.
+
+Etablir un métré adapté à son exploitation.
+
+Utiliser et alimenter une banque de données.
 
 Estimer le coût d'un ouvrage à l'aide de ratios adaptés ou de bordereaux de prix.
 
-Estimer un coût d'objectif à partir d'un montant de travaux.
+Structurer un dossier pour le rendre lisible et exploitable.
 
-Justifier et argumenter ses choix auprès de ses interlocuteurs.
+Justifier et argumenter son étude.
 
-Optimiser des solutions en jouant sur les paramètres les plus déterminants.
+Rédiger des documents descriptifs d'une opération.
 
-Savoir utiliser et alimenter une banque de données.
+Utiliser et alimenter une banque de ratios.
 
-Savoir utiliser et alimenter une banque de ratios.
+Estimer le coût global d'une construction.
 
-Structurer un descriptif par corps d'état et décrire de manière exhaustive les différents ouvrages et parties d'ouvrages d'une construction.
-
-3. Ordonnancer, planifier et coordonner une opération
-
-de construction complexe et en suivre la facturation
-
-Analyser les différentes missions de l'ensemble des acteurs de l'acte de construire pour repérer les limites de prestations et de responsabilité de chacun.
-
-Analyser un dossier technique pour en repérer les éléments déterminants.
-
-Contrôler la facturation des travaux dans le respect de la législation des marchés.
-
-Collecter les informations et mettre en forme les pièces écrites à l'aide de l'informatique.
-
-Communiquer efficacement à l'interne et à l'externe.
-
-Définir les différents corps d'état intervenant dans la réalisation d'un ouvrage de construction, et leur prestation.
+Organiser, piloter et ordonnancer les actions des différents intervenants.
 
 Etablir un planning de travaux.
 
-Faire un relevé des travaux exécutés.
+Rédiger les pièces écrites d'un dossier de consultation des entreprises.
 
-Justifier et argumenter ses choix auprès de ses interlocuteurs.
+Contrôler la facturation des travaux dans le respect de la législation des marchés.
 
-Optimiser des solutions en jouant sur les paramètres les plus déterminants.
+4. Faire l'étude aux déboursés et optimiser les réponses
 
-Organiser l'exploitation d'un dossier, en classer les documents, structurer des prises de notes.
+aux appels d'offres pour des projets de construction
 
-Organiser, planifier et ordonnancer les actions des différents intervenants.
+Synthétiser et compléter les éléments déterminants d'un dossier.
 
-Savoir adapter la facturation à l'activité générée.
+Repérer les limites de prestations et de responsabilité de l'ensemble des acteurs de l'acte de construire.
 
-4. Faire l'étude de prix aux déboursés et optimiser la rentabilité
+Etablir un métré adapté à son exploitation.
 
-d'une opération de construction complexe
+Utiliser et alimenter une banque de données.
 
-Adapter les moyens humains et matériels au chantier en appliquant les règles de sécurité, les règles de l'art, les réglementations d'hygiène et d'environnement en fonction des contraintes spécifiques du projet.
+Structurer un dossier pour le rendre lisible et exploitable.
 
-Affecter les charges de main-d'oeuvre, matériaux, matériel.
+Justifier et argumenter son étude.
 
-Analyser les différentes missions de l'ensemble des acteurs de l'acte de construire pour repérer les limites de prestations et de responsabilité de chacun.
+Utiliser et alimenter une banque de ratios.
 
-Analyser un dossier technique pour en repérer les éléments déterminants.
+Etablir un planning de travaux.
 
-Appliquer les procédures d'organisation interne de l'entreprise.
-
-Calculer des prix à l'aide d'un logiciel d'étude de prix.
+Optimiser l'organisation générale d'un chantier en appliquant les règles de sécurité, d'hygiène et d'environnement.
 
 Calculer des prix unitaires par la méthode des déboursés.
 
-Choisir les techniques et méthodes d'exécution des ouvrages d'une construction dans le respect des normes et de la réglementation.
-
-Collecter les informations et mettre en forme les pièces écrites à l'aide de l'informatique.
-
-Décomposer par corps d'état une construction en ouvrages élémentaires.
-
-Effectuer les rapprochements avec la comptabilité analytique.
+Consulter des fournisseurs ou des sous-traitants et en analyser les offres.
 
 Etablir les budgets et leur ventilation en fonction des tableaux de bord de la structure.
 
-Etablir un coefficient de vente à partir d'un déboursé sec.
+Finaliser le dossier de répondre à un appel d'offres.
 
-Etablir une feuille d'avant-métré dans le respect des conventions de la profession.
+Effectuer les rapprochements des budgets études avec la gestion du chantier.
 
-Faire un relevé des travaux exécutés.
+Secteurs d'activités ou types d'emploi accessibles
 
-Interpréter un bilan et un compte de résultat.
+par le détenteur du titre
 
-Justifier et argumenter ses choix auprès de ses interlocuteurs.
+La maîtrise d'ouvrage ou d'œuvre : cabinets de métré ou d'économie de la construction, cabinets d'expertise d'assurances, administrations, collectivités locales.
 
-Négocier des prix avec des fournisseurs ou des sous-traitants.
+Les entreprises du bâtiment.
 
-Optimiser des solutions en jouant sur les paramètres les plus déterminants.
+Codes ROME :
 
-Valoriser des stocks.
+F1106-Ingénierie et étude du BTP ;
 
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Cabinets de métré ou d'économie de la construction.
-
-Administrations, collectivités locales.
-
-Entreprises du bâtiment.
-
-Cabinets d'expertise d'assurances.
-
-Code ROME :
-
-61223-Chargé (e) d'études techniques du BTP.
+F1108-Métré de la construction.
 
 Réglementation de l'activité :
 
@@ -182,8 +146,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
-
-Arrêté du 25 novembre 2002 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
