@@ -151,6 +151,26 @@ I. - Décisions administratives individuelles prises par le ministre chargé de 
 <p>Article R. 521-1</p>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Agrément d'organismes chargés de délivrer les certificats au personnel.</p>
+<p>Arrêté des ministres chargés de l'environnement et de l'industrie.</p>
+</td>
+<td align="left" valign="top">
+<p>Article R. 521-59</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Agrément d'organismes chargés de délivrer les certificats aux entreprises.</p>
+<p>Arrêté des ministres chargés de l'environnement et de l'industrie.</p>
+</td>
+<td align="left" valign="top">
+<p>Article R. 521-60</p>
+</td>
+</tr>
 </tbody>
 </table>
 
