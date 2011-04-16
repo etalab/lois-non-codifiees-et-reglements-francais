@@ -21,3 +21,5 @@ IV. ― Le stage d'adaptation s'effectue dans un établissement de santé public
 Le stage, qui comprend éventuellement une formation théorique complémentaire, est validé par le responsable de la structure d'accueil, sur proposition du professionnel qualifié évaluant le stagiaire.
 
 Le directeur général de l'agence régionale de santé d'Ile-de-France notifie à l'intéressé les résultats de l'épreuve d'aptitude.
+
+V. ― En cas de réussite à l'épreuve d'aptitude, le directeur général de l'agence régionale de santé d'Ile-de France autorise l'intéressé à user du titre de chiropracteur. En cas d'échec, il refuse l'autorisation de faire usage du titre. Pour les demandeurs ayant choisi d'effectuer un stage d'adaptation, la décision sur la demande de faire usage du titre est prise après un nouvel avis de la commission mentionnée à l'article 17 du décret n° 2011-32 du 7 janvier 2011 susvisé.

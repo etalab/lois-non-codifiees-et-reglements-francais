@@ -1,6 +1,6 @@
 # Article 1
 
-I. ― La commission d'autorisation de faire usage du titre professionnel de chiropracteur se prononce après examen du dossier constitué par les candidats.
+I. ― Pour l'application de l'article 7 du décret n° 2011-32 du 7 janvier 2011 susvisé, la commission d'autorisation de faire usage du titre professionnel de chiropracteur se prononce après examen du dossier constitué par les candidats.
 
 II. ― Pour la constitution de leur dossier, les candidats fournissent les pièces justificatives suivantes :
 
