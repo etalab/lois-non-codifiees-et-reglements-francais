@@ -1,3 +1,0 @@
-# Article 2
-
-Nonobstant les dispositions de l'article 1er du présent arrêté, les agents publics titulaires et non titulaires recrutés pour une durée indéterminée en poste au ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, ainsi que les ouvriers des parcs et ateliers peuvent bénéficier d'une indemnité temporaire de mobilité dans les conditions fixées par le décret du 17 avril 2008 susvisé dès lors qu'ils sont affectés sur l'un des emplois visés au 3° de l'article 4 du présent arrêté, sans qu'ils aient l'obligation de quitter le département de leur précédente résidence administrative.
