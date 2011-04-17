@@ -1,9 +1,13 @@
 # Article 8
 
-Les candidats admis aux concours externe et interne sont affectés par ordre de mérite sur les postes publiés au Journal officiel de la République française.
+Les candidats admis aux concours prévus au 1° de l'article 5 sont nommés élèves attachés par arrêté du ministre chargé de la santé.
 
-Les candidats admis aux concours externe et interne et les personnes recrutées par inscription sur une liste d'aptitude sont nommés attachés stagiaires pour une durée d'un an par l'autorité investie du pouvoir de nomination. Au cours de leur stage, ils doivent suivre une formation d'une durée totale de six mois. Cette formation, organisée par l'Ecole nationale de la santé publique, comprend des sessions théoriques d'une durée totale de trois mois et des stages pratiques d'une durée totale de trois mois dont deux mois accomplis hors de l'établissement employeur. Les candidats admis qui choisissent d'effectuer un service national volontaire sont tenus de le faire avant de recevoir la formation théorique et pratique.
+Ils suivent à l'Ecole des hautes études en santé publique un cycle de formation d'une durée totale de douze mois comportant un enseignement théorique et des stages pratiques. Cette formation tient lieu du stage prévu à l'article 37 de la loi du 9 janvier 1986 susvisée.
 
-Dans un délai de trois ans après leur titularisation, les attachés doivent suivre une formation d'adaptation à l'emploi, éventuellement discontinue, d'une durée totale de six mois, organisée par l'Ecole nationale de la santé publique. Cette formation comprend trois mois de sessions théoriques et trois mois de stages pratiques dont deux au moins hors de l'établissement employeur.
+Pendant la durée de leur scolarité, les élèves attachés sont soumis au règlement intérieur de l'Ecole ainsi qu'aux dispositions du décret n° 97-487 du 12 mai 1997 fixant les dispositions communes applicables aux agents stagiaires de la fonction publique hospitalière, à l'exception de celles fixées par le premier alinéa de l'article 11, par les articles 16 et 19, par le deuxième alinéa de l'article 20, par les articles 21, 22 et 23, par les 2° et 3° du premier alinéa de l'article 27 et par les articles 28, 29, 33 et 34.
 
-Par dérogation aux dispositions de l'alinéa précédent, les attachés pouvant prétendre à un avancement de grade avant l'expiration du délai de trois ans doivent suivre leur formation d'adaptation à l'emploi dans le délai minimum nécessaire pour bénéficier de cet avancement de grade.
+Le cycle de formation fait l'objet d'une évaluation par un jury.
+
+Les élèves attachés qui étaient déjà fonctionnaires sont placés en position de détachement auprès de l'Ecole des hautes études en santé publique pour la durée du cycle de formation.
+
+Le contenu et les modalités du cycle de formation des élèves attachés organisé par l'Ecole des hautes études en santé publique et celles de sa validation sont fixés par arrêté du ministre chargé de la santé.

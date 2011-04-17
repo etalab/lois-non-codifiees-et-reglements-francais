@@ -5,7 +5,7 @@
 - [Article 2](article-2.md)
 - [TITRE II : AVANCEMENT.](titre-ii)
 - [Article 3](article-3.md)
-- [TITRE III : MUTATION - DÉTACHEMENT - MISE A DISPOSITION.](titre-iii)
+- [TITRE III : MUTATION - DÉTACHEMENT - INTÉGRATION DIRECTE - MISE A DISPOSITION.](titre-iii)
 - [Article 4](article-4.md)
 - [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
 - [Article 23](article-23.md)

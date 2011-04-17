@@ -1,0 +1,3 @@
+# Article 9-3
+
+Les candidats admis aux concours mentionnés au 1° de l'article 5 qui ont suivi dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen autre que la France une formation reconnue de même niveau que le cycle de formation peuvent être dispensés par le directeur de l'Ecole des hautes études en santé publique de suivre tout ou partie de ce cycle. L'équivalence est reconnue dans les conditions fixées par le chapitre III du décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique.

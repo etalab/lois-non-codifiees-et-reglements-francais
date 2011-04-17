@@ -1,6 +1,6 @@
 # Article 7
 
-Avant de se présenter au concours interne, les fonctionnaires et agents des établissements énumérés à l'article 2 de la loi du 9 janvier 1986 visée ci-dessus peuvent être admis à un cycle préparatoire organisé par l'Ecole des hautes études en santé publique.
+Avant de se présenter au concours interne, les fonctionnaires et agents mentionnés au b du 1° de l'article 5 du présent décret peuvent être admis à un cycle préparatoire organisé par l'Ecole des hautes études en santé publique.
 
 Ne peuvent toutefois être candidats au concours d'accès au cycle préparatoire les personnes qui ont déjà suivi un cycle préparatoire organisé à l'intention des fonctionnaires et agents candidats aux concours figurant sur la liste prévue à l'article 1er du décret n° 76-811 du 20 août 1976 relatif aux cycles préparatoires organisés à l'intention des fonctionnaires et agents candidats à certains concours.
 
@@ -10,7 +10,7 @@ Ils doivent être en fonction à la date de clôture des inscriptions au concour
 
 Nul ne peut se présenter plus de trois fois aux épreuves d'accès au cycle préparatoire.
 
-Les candidats au concours d'accès au cycle préparatoire sont groupés en deux catégories : la première comprend les candidats titulaires d'une licence ou d'un autre titre ou diplôme classé au moins au niveau II ou d'une qualification reconnue équivalente dans les conditions fixées par le chapitre II du décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique, la seconde comprend les candidats qui ne possèdent pas l'un de ces diplômes.
+Les candidats au concours d'accès au cycle préparatoire sont répartis en deux catégories : la première comprend les candidats répondant aux conditions prévues au a du 1° de l'article 5, la seconde comprend les candidats qui ne possèdent pas l'un de ces diplômes, titres ou qualifications.
 
 Un arrêté du ministre chargé de la santé fixe chaque année le nombre de places offertes au cycle préparatoire au titre de chacune des deux catégories ci-dessus.
 
