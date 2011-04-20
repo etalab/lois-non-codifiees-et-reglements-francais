@@ -16,6 +16,8 @@ Les demandes d'inscription formulées par les fonctionnaires et les agents contr
 
 Le candidat doit obligatoirement indiquer, dans sa demande, la ou les listes d'emplois dans lesquelles il sollicite son inscription. Il doit également joindre à sa demande les pièces nécessaires à l'examen de son dossier et, notamment, celles dont la communication est requise dans le formulaire préétabli.
 
-Les demandes d'inscription sur les listes d'aptitude doivent être adressées par les candidats au président (ou au directeur) de l'organisme dont ils relèvent avant le 1er juillet de l'année précédant celle pour laquelle est établie la liste d'aptitude (le cachet de la poste faisant foi).
+Les demandes d'inscription sur les listes d'aptitude doivent être adressées par les candidats au président (ou au directeur) de l'organisme dont ils relèvent avant le 1er juin de l'année précédant celle pour laquelle est établie la liste d'aptitude (le cachet de la poste faisant foi).
 
-Les dossiers complets doivent impérativement parvenir au service des affaires financières, sociales et logistiques du ministère de l'agriculture et de la pêche au plus tard le 30 septembre de l'année précédant celle pour laquelle est établie la liste d'aptitude.
+L'ensemble des demandes d'inscription sur les listes d'aptitude des candidats doivent être transmises par le président (ou le directeur) de l'organisme au chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole ou de son représentant, accompagnées de son avis motivé, avant le 1er juillet de l'année précédant celle pour laquelle est établie la liste d'aptitude.
+
+Les dossiers complets doivent impérativement parvenir au service des affaires financières, sociales et logistiques du ministère de l'agriculture et de la pêche au plus tard le 15 octobre de l'année précédant celle pour laquelle est établie la liste d'aptitude.
