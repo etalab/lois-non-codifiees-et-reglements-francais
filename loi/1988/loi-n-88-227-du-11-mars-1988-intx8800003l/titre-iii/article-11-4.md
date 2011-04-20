@@ -11,3 +11,5 @@ Tout don de plus de 150 euros consenti à une association de financement ou à u
 Aucune association de financement ou aucun mandataire financier d'un parti politique ne peut recevoir, directement ou indirectement, des contributions ou aides matérielles d'un Etat étranger ou d'une personne morale de droit étranger.
 
 Les actes et documents émanant de l'association de financement ou du mandataire financier, destinés aux tiers, et qui ont pour objet de provoquer le versement de dons doivent indiquer, selon le cas, la dénomination de l'association et la date de l'agrément ou le nom du mandataire et la date de la déclaration à la préfecture, ainsi que le parti ou groupement politique destinataire des sommes collectées.
+
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la consommation des ménages, hors tabac.

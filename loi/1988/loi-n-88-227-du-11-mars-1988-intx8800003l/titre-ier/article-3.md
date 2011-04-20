@@ -1,22 +1,22 @@
 # Article 3
 
-I. - Il est institué une commission pour la transparence financière de la vie politique, chargée de recevoir les déclarations des membres du Parlement et des personnes mentionnées aux articles 1er et 2 de la présente loi, ainsi composée :
+I.-Il est institué une commission pour la transparence financière de la vie politique, chargée de recevoir les déclarations des membres du Parlement et des personnes mentionnées aux articles 1er et 2 de la présente loi, ainsi composée :
 
 1° Trois membres de droit :
 
-- le vice-président du Conseil d'Etat, président ;
+-le vice-président du Conseil d'Etat, président ;
 
-- le premier président de la Cour de cassation ;
+-le premier président de la Cour de cassation ;
 
-- le premier président de la Cour des comptes.
+-le premier président de la Cour des comptes.
 
 2° Six membres titulaires et six membres suppléants ainsi désignés :
 
-- quatre présidents de section ou conseillers d'Etat, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par l'assemblée générale du Conseil d'Etat ;
+-quatre présidents de section ou conseillers d'Etat, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par l'assemblée générale du Conseil d'Etat ;
 
-- quatre présidents de chambre ou conseillers à la Cour de cassation, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par l'ensemble des magistrats du siège hors hiérarchie de la Cour ;
+-quatre présidents de chambre ou conseillers à la Cour de cassation, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par l'ensemble des magistrats du siège hors hiérarchie de la Cour ;
 
-- quatre présidents de chambre ou conseillers maîtres à la Cour des comptes, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par la chambre du Conseil.
+-quatre présidents de chambre ou conseillers maîtres à la Cour des comptes, en activité ou honoraires, dont deux ont la qualité de suppléant, élus par la chambre du Conseil.
 
 Les membres de la commission sont nommés par décret.
 
@@ -26,9 +26,13 @@ La commission est assistée de rapporteurs désignés par le vice-président du 
 
 Un décret en Conseil d'Etat fixe l'organisation et le fonctionnement de la commission, ainsi que les procédures applicables devant elle.
 
-II. - La commission pour la transparence financière de la vie politique informe les autorités compétentes du non-respect par les personnes mentionnées aux articles 1er et 2 de la présente loi des obligations définies par ces articles après qu'elles ont été appelées à fournir des explications.
+II.-La commission pour la transparence financière de la vie politique informe les autorités compétentes du non-respect par les personnes mentionnées aux articles 1er et 2 de la présente loi des obligations définies par ces articles après qu'elles ont été appelées à fournir des explications.
 
 Les personnes mentionnées aux articles 1er et 2 de la présente loi communiquent à la Commission pour la transparence financière de la vie politique, pendant l'exercice de leur mandat ou de leurs fonctions, toutes les modifications substantielles de leur patrimoine, chaque fois qu'elles le jugent utile.
+
+La commission peut demander aux personnes mentionnées aux mêmes articles 1er et 2 communication des déclarations qu'elles ont souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.
+
+A défaut de communication dans un délai de deux mois des déclarations mentionnées au troisième alinéa, la commission peut demander à l'administration fiscale copie de ces mêmes déclarations.
 
 La commission assure le caractère confidentiel des déclarations reçues ainsi que des observations formulées, le cas échéant, par les déclarants sur l'évolution de leur patrimoine.
 
