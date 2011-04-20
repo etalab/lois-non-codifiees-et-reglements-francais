@@ -4,11 +4,11 @@ Le jury commun aux deux concours, nommé par arrêté du ministre chargé de la 
 
 - le directeur général de la santé ou son représentant, président ;
 
-- le directeur de l'Ecole nationale de la santé publique ou son représentant ;
+- le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 
 - un membre de l'inspection générale des affaires sociales ;
 
-- un directeur régional ou départemental des affaires sanitaires et sociales ;
+- un directeur d'agence régionale de santé ou son représentant ;
 
 - un ingénieur du génie sanitaire ;
 
