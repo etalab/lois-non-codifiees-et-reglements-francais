@@ -46,7 +46,7 @@ II. ― La direction générale de la compétitivité, de l'industrie et des ser
 
 3° Pour le compte du ministre chargé de l'économie, de l'Assemblée des chambres françaises de commerce et d'industrie ;
 
-4° Pour le compte du ministre chargé de l'emploi, de l'Agence nationale des services à la personne ;
+4° Pour le compte du ministre chargé de l'emploi et du ministre chargé des services, de l'Agence nationale des services à la personne ;
 
 5° Pour le compte du ministre chargé du tourisme, de l'Agence nationale pour les chèques-vacances, de la Maison de la France et d'ODIT-France.
 
