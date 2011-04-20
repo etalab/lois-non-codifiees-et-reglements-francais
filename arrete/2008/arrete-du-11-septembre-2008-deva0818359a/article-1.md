@@ -24,7 +24,7 @@ La direction des opérations (DSNA/DO) constituée par :
 
 ― les services de la navigation aérienne (DO/SNA).
 
-― le service de l'aviation civile à Saint-Pierre-et-Miquelon.
+― le service de l'aviation civile à Saint-Pierre-et-Miquelon (DSNA/ SPM).
 
 La direction de la technique et de l'innovation (DSNA / DTI), constituée par :
 
