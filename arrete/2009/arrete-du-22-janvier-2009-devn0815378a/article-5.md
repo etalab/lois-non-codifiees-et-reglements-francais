@@ -14,92 +14,86 @@ On entend par département le département d'utilisation ou celui du départemen
 
 a) Pour l'espèce :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
 <td width="726">
-<p align="center">
-<b>GRAND GIBIER </b>
-</p>
+<p align="center">GRAND GIBIER </p>
 </td>
 <td width="213">
-<p align="center">
-<b>PETIT GIBIER </b>
-</p>
+<p align="center">PETIT GIBIER </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">BO : bouquetin. </p>
+<p align="left">BO : bouquetin. </p>
 </td>
 <td width="213">
-<p align="center">BE : bécasse. </p>
+<p align="left">BE : bécasse. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">CE : cerf élaphe. </p>
+<p align="left">CE : cerf élaphe. </p>
 </td>
 <td width="213">
-<p align="center">FA : faisan commun. </p>
+<p align="left">FA : faisan commun. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">CS : cerf sika. </p>
+<p align="left">CS : cerf sika. </p>
 </td>
 <td width="213">
-<p align="center">FV : faisan vénéré. </p>
+<p align="left">FV : faisan vénéré. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">CV : cerf de Virginie. </p>
+<p align="left">CV : cerf de Virginie. </p>
 </td>
 <td width="213">
-<p align="center">LB : lièvre brun. </p>
+<p align="left">LB : lièvre brun. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">CH : chevreuil. </p>
+<p align="left">CH : chevreuil. </p>
 </td>
 <td width="213">
-<p align="center">LV : lièvre variable. </p>
+<p align="left">LV : lièvre variable. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">DA : daim. </p>
+<p align="left">DA : daim. </p>
 </td>
 <td width="213">
-<p align="center">PE : perdrix. </p>
+<p align="left">PE : perdrix. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">IS : isard ou chamois. </p>
+<p align="left">IS : isard ou chamois. </p>
 </td>
 <td width="213">
-<p align="center">PB : perdrix bartavelle. </p>
+<p align="left">PB : perdrix bartavelle. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">MO : mouflon. </p>
+<p align="left">MO : mouflon. </p>
 </td>
 <td width="213">
-<p align="center">TLY : tétras-lyre. </p>
+<p align="left">TLY : tétras-lyre. </p>
 </td>
 </tr>
 <tr>
 <td width="726">
-<p align="center">SA : sanglier. </p>
+<p align="left">SA : sanglier. </p>
 </td>
 <td width="213">
-<p align="center">LA : lagopède. </p>
+<p align="left">LA : lagopède. </p>
 </td>
 </tr>
 <tr>
@@ -107,7 +101,7 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td width="213">
-<p align="center">GE : gélinotte. </p>
+<p align="left">GE : gélinotte. </p>
 </td>
 </tr>
 <tr>
@@ -115,32 +109,30 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td width="213">
-<p align="center">GT : grand-tétras. </p>
+<p align="left">GT : grand-tétras. </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<br/>
-<p align="left">b) Pour le sexe : </p>
-<p align="left">M = mâle ; F = femelle ; I = indifférencié. </p>
-<p align="left">c) Pour l'âge ou le poids : </p>
-<p align="left">Indications propres aux catégories définies dans le département. </p>
-<p align="left">Les dispositifs sont d'une couleur différente chaque année selon le tableau ci-après : </p>
-<br/>
+b) Pour le sexe :
+
+M = mâle ; F = femelle ; I = indifférencié.
+
+c) Pour l'âge ou le poids :
+
+Indications propres aux catégories définies dans le département.
+
+Les dispositifs sont d'une couleur différente chaque année selon le tableau ci-après :
 
 <table>
 <tbody>
 <tr>
 <td width="772">
-<p align="center">
-<b>DERNIER CHIFFRE DU MILLÉSIME </b>
-</p>
+<p align="center">DERNIER CHIFFRE DU MILLÉSIME </p>
 </td>
 <td width="163">
-<p align="center">
-<b>COULEUR </b>
-</p>
+<p align="center">COULEUR </p>
 </td>
 </tr>
 <tr>
@@ -226,20 +218,28 @@ a) Pour l'espèce :
 </tbody>
 </table>
 
-<p align="left">Les dispositifs doivent être conformes aux modèles désignés ci-après, déposés à la direction chargée de la chasse du ministère chargé de l'environnement : </p>
-<br/>
+Procédés de marquage des animaux des espèces faisant l'objet d'un plan de chasse :
+
+La conception, le matériau et la technique d'impression des caractères, propres aux dispositifs de marquage, doivent permettre leur tenue tout au long de leur utilisation, garantir leur résistance à l'usure et assurer la lisibilité et la permanence suffisante des inscriptions qui y sont portées. Ils doivent interdire leur réouverture et leur réutilisation.
+
+Le diamètre, la hauteur et l'épaisseur du dispositif de marquage sont fixés en fonction de l'espèce ou du groupe d'espèces d'animaux auxquels il est destiné.
+
+L'apposition du dispositif de marquage doit pouvoir être pratiquée facilement à la main.
+
+La satisfaction de ces exigences doit être certifiée par un tiers expert après la réalisation de tests de laboratoire. Ces tests doivent démontrer que les dispositifs testés satisfont aux exigences ci-dessus concernant notamment la résistance à la traction, aux frottements, à l'abrasion, aux rayons ultraviolets, à la salinité et aux pH acides et basiques. Toute ouverture du dispositif de marquage doit conduire à sa destruction ou rendre impossible sa réutilisation en matérialisant par des traces toute tentative frauduleuse.
+
+Les dispositions exposées ci-dessus entrent en vigueur le 1er juin 2011.
+
+Les dispositifs utilisés doivent être conformes aux modèles désignés ci-après :
+
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>ESPÈCES </b>
-</p>
+<p align="center">ESPÈCES </p>
 </td>
 <td>
-<p align="center">
-<b>DISPOSITIFS </b>
-</p>
+<p align="center">DISPOSITIFS </p>
 </td>
 </tr>
 <tr>
@@ -247,7 +247,7 @@ a) Pour l'espèce :
 <p align="center">Mammifères. </p>
 </td>
 <td>
-<p align="center">1. Bracelet en plastique Chevi-Plast fabriqué par les établissements Chevillot Volapi. </p>
+<p align="left">1. Bracelet en plastique Chevi-Plast fabriqué par les établissements Chevillot Volapi. </p>
 </td>
 </tr>
 <tr>
@@ -255,7 +255,7 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td>
-<p align="center">2. Bracelet en plastique Iso-Flex fabriqué par les établissements Biwi SA. </p>
+<p align="left">2. Bracelet en plastique Iso-Flex fabriqué par les établissements Biwi SA. </p>
 </td>
 </tr>
 <tr>
@@ -263,7 +263,7 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td>
-<p align="center">3. Languette en adhésif de sécurité type VOID (pour les lièvres). </p>
+<p align="left">3. Languette en adhésif de sécurité type VOID (pour les lièvres). </p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td>
-<p align="center">4. Bracelet en plastique Chevilièvre fabriqué par les établissements Chevillot. </p>
+<p align="left">4. Bracelet en plastique Chevilièvre fabriqué par les établissements Chevillot. </p>
 </td>
 </tr>
 <tr>
@@ -279,31 +279,43 @@ a) Pour l'espèce :
 <br/>
 </td>
 <td>
-<p align="center">5. Bracelet en plastique Easyflex fabriqué par les établissements Biwi SA. </p>
+<p align="left">5. Bracelet en plastique Easyflex fabriqué par les établissements Biwi SA. </p>
 </td>
 </tr>
 <tr>
 <td/>
 <td>
-<p align="center">6 bracelet Chevi-plast fabriqué par la société Chevillot SAS, nouvelle version munie d'une languette avec ou sans trou. </p>
+<p align="left">6 bracelet Chevi-plast fabriqué par la société Chevillot SAS, nouvelle version munie d'une languette avec ou sans trou. </p>
 </td>
 </tr>
 <tr>
 <td/>
 <td>
-<p align="center">7. Bracelet Chevi-plast fabriqué par la société Chevillot SAS, dans sa version double languette munie d'un trou. </p>
+<p align="left">7. Bracelet Chevi-plast fabriqué par la société Chevillot SAS, dans sa version double languette munie d'un trou. </p>
 </td>
 </tr>
 <tr>
 <td/>
 <td>
-<p align="center">8. Bracelet avec une languette supplémentaire permettant d'assurer la traçabilité alimentaire pour le grand gibier, fabriqué par les établissements Biwi SA. </p>
+<p align="left">8. Bracelet avec une languette supplémentaire permettant d'assurer la traçabilité alimentaire pour le grand gibier, fabriqué par les établissements Biwi SA. </p>
 </td>
 </tr>
 <tr>
 <td/>
 <td>
-<p align="center">9. Bracelets RayTrack fabriqués par la société Araymondlife. </p>
+<p align="left">9. Bracelets RayTrack fabriqués par la société Araymondlife. </p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">10. Bracelet Chevi-plast fabriqué par la société Chevillot SAS, nouvelle version double languette, modifiant la partie mâle, le plastique qui constitue le piton est plus dur et de couleur noire.</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="left">11. Languette en adhésif de sécurité RayTrack type VOID n° 505006801 fabriquée par la société Araymondlife (pour les lièvres).</p>
 </td>
 </tr>
 <tr>
@@ -311,10 +323,8 @@ a) Pour l'espèce :
 <p align="center">Oiseaux. </p>
 </td>
 <td>
-<p align="center">Languette de papier plastifié autocollante.</p>
+<p align="left">Languette de papier plastifié autocollante.</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
