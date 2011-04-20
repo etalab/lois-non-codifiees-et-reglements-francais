@@ -6,4 +6,6 @@ Elle est renouvelable par moitié tous les trois ans. A cet effet, les membres �
 
 Les sénateurs représentant les Français établis hors de France sont membres de droit de l'Assemblée des Français de l'étranger. Ils ne participent pas à l'élection des sénateurs.
 
+Les députés élus par les Français établis hors de France sont membres de droit de l'Assemblée des Français de l'étranger.
+
 Douze personnalités qualifiées en raison de leurs compétences dans les questions concernant les intérêts généraux de la France à l'étranger et des Français établis hors de France mais ne remplissant pas les conditions fixées par l'article 4 siègent à l'Assemblée des Français de l'étranger avec voix consultative. Elles sont nommées pour six ans et renouvelées par moitié tous les trois ans, lors de chaque renouvellement de l'Assemblée des Français de l'étranger, par le ministre des affaires étrangères.
