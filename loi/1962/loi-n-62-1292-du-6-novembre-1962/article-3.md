@@ -8,7 +8,7 @@ Cette liste est préalablement établie par le Conseil constitutionnel au vu des
 
 Pour l'application des dispositions de l'alinéa précédent, les sénateurs représentant les Français établis hors de France et les membres élus de l'Assemblée des Français de l'étranger sont réputés être les élus d'un même département. Pour l'application des mêmes dispositions, les députés et le sénateur élus en Nouvelle-Calédonie et les membres des assemblées de province de la Nouvelle-Calédonie sont réputés être élus d'un même département d'outre-mer ou d'une même collectivité d'outre-mer. Pour l'application des mêmes dispositions, les ressortissants français membres du Parlement européen élus en France sont réputés être les élus d'un même département. Aux mêmes fins, les présidents des organes délibérants des communautés urbaines, des communautés d'agglomération ou des communautés de communes sont réputés être les élus du département auquel appartient la commune dont ils sont délégués. Aux mêmes fins, les conseillers régionaux sont réputés être les élus des départements correspondant aux sections départementales mentionnées par l'article L. 338-1 du code électoral. Aux mêmes fins, les conseillers à l'Assemblée de Corse sont réputés être les élus des départements entre lesquels ils sont répartis en application des dispositions des articles L. 293-1 et L. 293-2 du même code.
 
-Le Conseil constitutionnel doit s'assurer du consentement des personnes présentées qui, à peine de nullité de leur candidature, doivent lui remettre, sous pli scellé, une déclaration de leur situation patrimoniale conforme aux dispositions de l'article L.O. 135-1 du code électoral et l'engagement, en cas d'élection, de déposer deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat ou, en cas de démission, dans un délai d'un mois après celle-ci, une nouvelle déclaration conforme à ces dispositions qui sera publiée au Journal officiel de la République française dans les huit jours de son dépôt.
+Le Conseil constitutionnel doit s'assurer du consentement des personnes présentées qui, à peine de nullité de leur candidature, doivent lui remettre, sous pli scellé, une déclaration de leur situation patrimoniale conforme aux dispositions de l'article L. O. 135-1 du code électoral et l'engagement, en cas d'élection, de déposer deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat ou, en cas de démission, dans un délai d'un mois après celle-ci, une nouvelle déclaration conforme à ces dispositions qui sera publiée au Journal officiel de la République française dans les huit jours de son dépôt.
 
 Le nom et la qualité des citoyens qui ont proposé les candidats inscrits sur la liste sont rendus publics par le Conseil constitutionnel huit jours au moins avant le premier tour de scrutin, dans la limite du nombre requis pour la validité de la candidature.
 
@@ -18,7 +18,7 @@ Le plafond des dépenses électorales prévu par l'article L. 52-11 du code éle
 
 Les personnes physiques ne peuvent, dans le cadre de l'application des dispositions de l'article L. 52-8 du code électoral, accorder des prêts et avances remboursables aux candidats.
 
-Les frais d'expertise comptable liés à l'application de l'article L. 52-12 du code électoral sont inscrits dans le compte de campagne.
+L'obligation de dépôt du compte de campagne ainsi que la présentation de ce compte par un membre de l'ordre des experts-comptables et des comptables agréés s'imposent à tous les candidats. Les frais d'expertise comptable liés à l'application de l'article L. 52-12 du code électoral sont inscrits dans le compte de campagne.
 
 La Commission nationale des comptes de campagne et des financements politiques approuve, rejette ou réforme, après procédure contradictoire, les comptes de campagne et arrête le montant du remboursement forfaitaire prévu au V du présent article. Elle se prononce dans les six mois du dépôt des comptes.
 
@@ -34,7 +34,7 @@ Le montant de l'avance prévue au deuxième alinéa du paragraphe V du présent 
 
 Par dérogation aux dispositions de l'article L. 55 du code électoral, le scrutin est organisé le samedi en Guadeloupe, en Guyane, en Martinique, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française et dans les ambassades et les postes consulaires situés sur le continent américain.
 
-III. Le Conseil constitutionnel veille à la régularité des opérations et examine les réclamations dans les mêmes conditions que celles fixées pour les opérations de référendum par les articles 46, 48, 49, 50 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel.
+III. Le Conseil constitutionnel veille à la régularité des opérations et examine les réclamations dans les mêmes conditions que celles fixées pour les opérations de référendum par les articles 46,48,49,50 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel.
 
 Le Conseil constitutionnel arrête et proclame les résultats de l'élection qui sont publiés au Journal officiel de la République française dans les vingt-quatre heures de la proclamation. La déclaration de situation patrimoniale du candidat proclamé élu est jointe à cette publication.
 

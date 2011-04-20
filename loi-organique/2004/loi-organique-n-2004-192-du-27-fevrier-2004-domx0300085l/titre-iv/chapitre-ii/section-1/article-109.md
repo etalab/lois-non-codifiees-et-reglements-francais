@@ -8,7 +8,7 @@ I.-Sont inéligibles à l'assemblée de la Polynésie française :
 
 3° Les hauts-commissaires de la République, les secrétaires généraux, secrétaires généraux adjoints du haut-commissariat, les directeurs du cabinet du haut-commissaire et les chefs de subdivisions administratives en exercice ou qui ont exercé leurs fonctions en Polynésie française depuis moins de trois ans ;
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 du code électoral ;
+4° Les personnes déclarées inéligibles en application        des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
 
 5° Le Défenseur des droits (1).
 

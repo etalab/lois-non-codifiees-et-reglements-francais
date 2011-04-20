@@ -1,13 +1,21 @@
 # Article 2
 
-Les dispositions des articles L.O. 128 à L.O. 130-1, de l'article L.O. 136 et du premier alinéa de l'article L.O. 296 du code électoral relatifs aux conditions d'éligibilité et aux inéligibilités sont applicables à l'élection des sénateurs représentant les Français établis hors de France.
+L'article LO 296 du code électoral est applicable à l'élection des sénateurs représentant les Français établis hors de France. L'article LO 132 du même code n'est, toutefois, pas applicable à cette élection.
 
-Ne peuvent, en outre, être élus en cette qualité s'ils sont en fonction ou s'ils ont cessé d'exercer leurs fonctions depuis moins de six mois :
+Ne peuvent être élus s'ils sont en fonction ou s'ils ont cessé d'exercer leurs fonctions depuis moins de trois ans les chefs de mission diplomatique et les chefs de poste consulaire.
 
-1. Le secrétaire général du ministère des relations extérieures ;
+En outre, ne peuvent être élus s'ils sont en fonction ou s'ils ont cessé d'exercer leurs fonctions depuis moins d'un an :
 
-2. Le directeur des Français à l'étranger et des étrangers en France au ministère des relations extérieures ;
+1° Le secrétaire général du ministère chargé des relations extérieures ;
 
-3. Les chefs de mission diplomatique et les chefs de poste consulaire, les chefs de missions militaires et des services civils placés auprès des ambassadeurs ou des consuls ainsi que leurs adjoints directs ;
+2° Le directeur des Français à l'étranger et des étrangers en France au ministère chargé des relations extérieures ;
 
-4. Le secrétaire général de l'Assemblée des Français de l'étranger.
+3° Les adjoints des chefs de mission diplomatique et des chefs de poste consulaire ;
+
+4° Les chefs de missions militaires et des services civils placés auprès des ambassadeurs ou des consuls ainsi que leurs adjoints ;
+
+5° Le secrétaire général de l'Assemblée des Français de l'étranger ;
+
+6° Les fonctionnaires consulaires, honoraires, au sens de la convention de Vienne sur les relations consulaires du 24 avril 1963 ;
+
+7° Les officiers exerçant un commandement dans la circonscription.

@@ -8,7 +8,7 @@ I.-Sont inéligibles au congrès et aux assemblées de province :
 
 3° Les hauts-commissaires de la République, les secrétaires généraux, secrétaires généraux adjoints du haut-commissariat, les directeurs du cabinet du haut-commissaire et les commissaires délégués de la République en exercice ou qui ont exercé leurs fonctions en Nouvelle-Calédonie depuis moins de trois ans ;
 
-4° Les personnes déclarées inéligibles en application de l'article L. 118-3 du code électoral ;
+4° Les personnes déclarées inéligibles en application        des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 du code électoral ;
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-410 DC du 15 mars 1999.]
 
