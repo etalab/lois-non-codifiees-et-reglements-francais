@@ -16,7 +16,7 @@ I. - Informations relatives à chaque médicament rétrocédé.
 
 - PHS pour les médicaments pris en charge à 65 % ;
 
-- PHQ pour les médicaments pris en charge à 35 % ;
+- PHQ pour les médicaments pris en charge à 30 % ;
 
 - pour les médicaments disposant d'une autorisation de mise sur le marché ou d'une autorisation d'importation parallèle : le prix de vente déclaré d'une UCD publié par le comité économique des produits de santé majoré de la taxe sur la valeur ajoutée ou, le cas échéant, la base de calcul d'une UCD publiée par le comité économique des produits de santé majorée de la taxe sur la valeur ajoutée ;
 
