@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel de : chef de chantier gros oeuvre.
+Titre professionnel : chef de chantier gros œuvre.
 
 Niveau : III.
 
@@ -12,69 +12,67 @@ Code NSF : 232 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) chef de chantier gros oeuvre dirige un chantier de moyenne importance ou une partie d'un grand chantier. Il (elle) organise et conduit les différentes phases de réalisation d'un chantier gros oeuvre pour la construction de bâtiments d'habitation ou de bureaux, de bâtiments industriels ou d'ouvrages publics. A partir des documents techniques et des consignes orales ou écrites, il (elle) participe à la préparation des chantiers et à l'élaboration des modes opératoires. Il (elle) fait réaliser l'installation de chantier, l'implantation des bâtiments, la construction des ouvrages, coordonne l'action des intervenants internes et externes et gère les ressources en main-d'oeuvre, en matériel et en matériaux affectées au chantier. Il (elle) assure le suivi et le contrôle de l'avancement du chantier et participe à la réception des ouvrages.
+Le chef de chantier gros œuvre intervient pendant les différentes phases des travaux courants du gros œuvre d'une opération de bâtiment. A partir d'instructions permanentes de son conducteur de travaux, il est amené à participer à la préparation des méthodes, à la réalisation et à la clôture des travaux courants. Il analyse le dossier d'exécution et repère les contraintes du chantier dans le domaine d'activité du gros œuvre. Il propose les modes d'exécution et participe à la rédaction du plan particulier de sécurité et de protection de la santé (PPSPS) et des fiches de contrôle du plan d'assurance qualité (PAQ). Il participe à l'élaboration du planning et des cycles de production pour en déduire les besoins en main-d'œuvre, matériaux et matériels pour les ouvrages qui lui sont assignés. Il gère le démarrage et la réalisation des travaux courants du gros œuvre dans le respect des objectifs définis pendant la préparation et transmet les informations nécessaires pour assurer l'exploitation des résultats du chantier.
 
-Il (elle) peut assurer l'organisation et le suivi d'un ou de plusieurs chantiers. Son degré d'autonomie est fonction de l'organisation et de l'importance du chantier. Il (elle) se situe entre le conducteur de travaux et le chef d'équipe. Cependant, dans des chantiers peu importants, l'échelon chef d'équipe disparaît ; et le (la) chef de chantier assure seul(e) la direction des différentes équipes. Il (elle) peut être amené(e) à renseigner ou établir les divers documents nécessaires à la gestion technique, administrative et financière du chantier.
-
-Le (la) chef de chantier gros oeuvre exerce ses activités le plus fréquemment à l'extérieur sur des chantiers en hauteur, soumis aux aléas climatiques, au bruit et à la poussière. Ses activités requièrent de nombreux déplacements. Cependant, durant de courtes périodes, il (elle) peut être affecté(e) au service technique de l'entreprise, en particulier pour la préparation du chantier suivant, dont il (elle) aura la responsabilité.
+Le chef de chantier gros œuvre exerce sur des chantiers, le plus fréquemment à l'extérieur mais aussi à l'intérieur de locaux clos et couverts. Il assure des déplacements permanents entre les différents postes de travail du chantier aussi bien de plain-pied qu'en hauteur, il est exposé aux actions climatiques, au bruit et à la poussière. Sa mission comporte des déplacements fréquents (lieu de travail éloigné du domicile, changement de chantier...). Les horaires sont réguliers mais le rythme de travail peut être conditionné par des impératifs techniques et le respect des délais.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser avec ses équipes le gros oeuvre
+1. Préparer la réalisation des travaux gros œuvre
 
-d'un chantier à cycle de béton armé
+sur un chantier de bâtiment
 
-Préparer et organiser le travail des équipes gros oeuvre sur un chantier de béton armé.
+Analyser et exploiter le dossier d'exécution d'un chantier gros œuvre bâtiment.
 
-Exécuter avec ses équipes la réalisation du gros oeuvre sur un chantier de béton armé.
+Déterminer les besoins en main-d'œuvre, matériaux et matériels pour réaliser le gros œuvre d'un bâtiment.
 
-Gérer les moyens humains et matériels des équipes gros oeuvre sur un chantier de béton armé.
+Préparer l'intervention des équipes gros œuvre sur un chantier bâtiment.
 
-2. Réaliser avec ses équipes le gros oeuvre
+Organiser un chantier bâtiment tous corps d'état " à faibles nuisances ".
 
-d'un chantier de bâtiment industriel
+2. Réaliser avec ses équipes l'infrastructure gros œuvre
 
-Préparer et démarrer la construction du gros oeuvre d'un bâtiment industriel.
+d'un chantier de bâtiment
 
-Diriger la construction du gros oeuvre d'un bâtiment industriel.
+Procéder à l'installation d'un chantier gros œuvre bâtiment.
 
-Effectuer les opérations de repliement d'un chantier de gros oeuvre d'un bâtiment industriel.
+Implanter les ouvrages d'un chantier gros œuvre bâtiment.
 
-3. Réaliser avec ses équipes le gros oeuvre
+Exécuter avec ses équipes les travaux d'infrastructure gros œuvre d'un chantier bâtiment.
 
-d'un ouvrage fonctionnel
+Animer les équipes réalisant les travaux gros œuvre d'un chantier bâtiment.
 
-Préparer la construction du gros oeuvre d'un ouvrage fonctionnel.
+Rendre compte de la production des équipes gros œuvre d'un chantier bâtiment.
 
-Démarrer la construction du gros oeuvre d'un ouvrage fonctionnel.
+3. Conduire les travaux de superstructure gros œuvre
 
-Diriger la construction du gros oeuvre d'un ouvrage fonctionnel.
+d'un chantier de bâtiment
 
-Effectuer les opérations de repliement d'un chantier gros oeuvre d'un ouvrage fonctionnel.
+Exécuter avec ses équipes les travaux de superstructure gros œuvre d'un chantier bâtiment.
 
-4. Réaliser avec ses équipes le gros oeuvre d'un bâtiment
+Animer les équipes réalisant les travaux gros œuvre d'un chantier bâtiment.
 
-et coordonner les interventions des différents corps d'état
+Organiser la préfabrication " foraine " de pièces en béton armé et la mise en œuvre d'éléments de préfabrication lourde sur un chantier bâtiment.
 
-Préparer la construction du gros oeuvre d'un bâtiment en interaction avec différents corps d'état.
+Rendre compte de la production des équipes gros œuvre d'un chantier bâtiment.
 
-Démarrer la construction du gros oeuvre d'un bâtiment en interaction avec différents corps d'état.
+Diriger l'exécution des travaux du gros œuvre dans un chantier de réhabilitation de bâtiment en interaction avec différents corps d'état.
 
-Diriger la construction du gros oeuvre d'un bâtiment en interaction avec différents corps d'état.
+Effectuer des opérations de repliement du gros œuvre d'un chantier bâtiment.
 
-Effectuer les opérations de repliement d'un chantier de bâtiment en interaction avec différents corps d'état.
+Réaliser la livraison d'un chantier gros œuvre bâtiment.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises de bâtiment gros oeuvre.
+Entreprise de bâtiment gros œuvre.
 
 Code ROME :
 
-61231 - Chef de chantier du bâtiment et travaux publics.
+F1202-Direction de chantier du BTP.
 
 Réglementation de l'activité :
 
@@ -86,8 +84,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

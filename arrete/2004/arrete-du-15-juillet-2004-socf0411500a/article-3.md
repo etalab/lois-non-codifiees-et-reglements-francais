@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de chef de chantier gros oeuvre est composé de quatre unités constitutives, dont la liste suit :
+Le titre professionnel de chantier gros œuvre est composé des trois unités constitutives dont la liste suit :
 
-1. Réaliser avec ses équipes le gros oeuvre d'un chantier à cycle de béton armé ;
+1. Préparer la réalisation des travaux gros œuvre sur un chantier de bâtiment.
 
-2. Réaliser avec ses équipes le gros oeuvre d'un chantier de bâtiment industriel ;
+2. Réaliser avec ses équipes l'infrastructure gros œuvre d'un chantier de bâtiment.
 
-3. Réaliser avec ses équipes le gros oeuvre d'un ouvrage fonctionnel ;
+3. Conduire les travaux de superstructure gros œuvre d'un chantier de bâtiment.
 
-4. Réaliser avec ses équipes le gros oeuvre d'un bâtiment et coordonner les interventions des différents corps d'état.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

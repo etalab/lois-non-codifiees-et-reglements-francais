@@ -12,15 +12,15 @@ Code NSF : 230 r.
 
 Résumé du référentiel d'emploi
 
-L'agent d'entretien du bâtiment réalise la maintenance, l'entretien et le dépannage sur l'ensemble des éléments composant un bâtiment, à l'exclusion des éléments techniques spécifiques (ascenseurs, climatisation, chaufferie, etc.) et de la structure du bâtiment (fondations et murs porteurs). Ses interventions se déroulent essentiellement en site occupé et concernent l'aménagement intérieur des bâtiments (cloisons, faux plafonds, mobilier...) et les équipements techniques (électricité, plomberie-sanitaire). Son activité va du remplacement d'ampoule au réaménagement complet d'un local existant.
+L'agent d'entretien du bâtiment effectue les interventions de maintenance, d'entretien et de dépannage des éléments composant un bâtiment. Il réalise, en site occupé, l'entretien préventif et curatif des locaux, des réseaux et des installations et équipements techniques. Il réaménage des locaux (cloisons, faux plafonds, mobilier...), installe les équipements techniques (électricité, plomberie-sanitaire) et réalise les travaux de finition (revêtements de sol, peinture...).
 
-Il intervient essentiellement à l'intérieur même des bâtiments qu'occupe ou administre son employeur. Ce champ d'intervention peut être élargi aux limites d'une propriété, notamment en ce qui concerne l'entretien des espaces verts et la maçonnerie.
+Enfin, il programme, suit et gère les approvisionnements et les interventions extérieures sur les équipements particuliers (ascenseurs, chaufferie, climatisation...) ou sur les éléments de structure du bâtiment (fondations, murs porteurs...).
 
-Il travaille le plus souvent seul, à partir d'instructions d'un responsable ou dans le cadre d'une procédure d'intervention définie. Il rend compte de ses interventions et renseigne le public et les occupants de l'immeuble sur la nature et la durée de son travail. Il doit respecter les règles et consignes de sécurité définies par l'encadrement.
+L'agent d'entretien du bâtiment travaille seul ou en équipe, sous le contrôle d'un responsable, à partir de consignes orales ou écrites et de plans ou de schémas.
 
-La fonction de l'agent d'entretien du bâtiment varie selon le type et la dimension de l'entreprise qui l'emploie. Ses actions sont plus spécialisées dans une entreprise importante (ex : électricien (ne) ou peintre en milieu hospitalier) et il dispose d'une autonomie plus large dans une structure de moindre importance (un hôtel par exemple), où il coordonne les travaux d'intervenants extérieurs (espaces verts, livraison de carburant, etc.).
+L'application des règles d'hygiène et consignes de sécurité définies par l'encadrement ou dans le cadre d'une procédure d'intervention lui incombe dans l'exécution de toutes ses tâches. Le travail en site occupé nécessite de la part de l'agent d'entretien un " réflexe prévention " permanent en ce qui concerne la protection des personnes pendant et après son intervention.
 
-Les horaires sont réguliers et correspondent, le plus souvent, à ceux pratiqués par l'ensemble du personnel de l'entreprise.
+La diversité des tâches composant cet emploi implique des conditions et positions de travail variées qui nécessitent des capacités d'adaptation. Les horaires sont réguliers et correspondent, le plus souvent, à ceux pratiqués par l'ensemble du personnel de l'entreprise employant l'agent d'entretien du bâtiment. Certaines tâches (réception de marchandise, contrôle et entretien des systèmes d'accès...) peuvent parfois entraîner des dépassements ou aménagements ponctuels d'horaires.
 
 Capacités attestées et descriptif
 
@@ -32,17 +32,19 @@ sur l'enveloppe intérieure d'un bâtiment
 
 Réaliser un plafond en plaques sur ossature métallique suspendue.
 
-Réaliser des cloisons et doublages avec des produits plâtre sec.
+Réaliser des cloisons et des doublages en produits de plâtre sec.
 
-Poser et équiper des menuiseries standard.
+Bâtir une maçonnerie non porteuse en agglomérés de ciment.
 
-Assembler et fixer des éléments de mobilier et de finition.
+Poser et équiper des menuiseries standards.
 
-Poser du parquet flottant.
+Assembler et fixer des éléments de mobilier.
 
 2. Réaliser les travaux d'entretien et d'aménagement
 
 sur une installation électrique domestique
+
+Réaliser une installation électrique domestique monophasée.
 
 Mettre aux normes une installation électrique existante.
 
@@ -50,59 +52,31 @@ Poser des systèmes automatisés pour contrôle des accès.
 
 Etablir le diagnostic d'un dysfonctionnement sur une installation électrique.
 
-Réaliser une installation électrique domestique monophasée.
-
 3. Réaliser les travaux d'entretien et d'aménagement
 
 sur une installation sanitaire
 
-Créer un réseau d'alimentation domestique tube cuivre.
+Créer un réseau d'évacuation eaux usées et eaux vannes.
+
+Créer un réseau domestique d'alimentation en eau.
 
 Monter et raccorder des appareils sanitaires.
-
-Créer un réseau d'évacuation eaux usées et eaux vannes.
 
 Etablir le diagnostic d'un dysfonctionnement sur un réseau sanitaire.
 
 4. Réaliser les travaux d'entretien et d'aménagement
 
-avec des produits de finition et de décoration
+avec des produits de finition
 
-Poser du carrelage collé sur chape.
-
-Réaliser un panneau de faïence.
-
-Préparer et peindre tous types de supports.
-
-Poser du papier peint et des revêtements muraux.
+Poser, à la colle, du carrelage et de la faïence.
 
 Poser un revêtement de sol souple.
 
-Certificats complémentaires de spécialisation
+Poser du parquet flottant et des éléments menuisés de finition.
 
-1. Réaliser les travaux d'entretien et d'aménagement
+Préparer et peindre tout type de support.
 
-sur les circulations et équipements d'espaces verts
-
-Réaliser des dallages et des pavages dans le cadre d'un chantier d'espaces verts.
-
-Poser des bordures dans le cadre d'un chantier d'espaces verts.
-
-Planter un massif d'arbustes, une haie.
-
-Planter un décor floral.
-
-Mettre hors gel et remettre en service les installations d'arrosage d'espaces verts.
-
-2. Réaliser les travaux d'entretien et d'aménagement
-
-sur des ouvrages simples de maçonnerie
-
-Bâtir un mur en briques creuses ou agglomérés de ciment.
-
-Réaliser un enduit traditionnel taloché.
-
-Couler un dallage béton.
+Poser du papier peint et des revêtements muraux.
 
 Secteurs d'activités ou types d'emploi
 
@@ -122,11 +96,11 @@ Syndics de copropriété.
 
 Code ROME :
 
-44341 : Polymaintenicien/ polymaintenicienne.
+I1203-Maintenance des bâtiments et des locaux.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (C18-510).
+Néant.
 
 Autorité responsable de la certification :
 
@@ -134,8 +108,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
-
-Arrêté du 25 novembre 2002 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
