@@ -8,17 +8,19 @@ a) Le délégué interministériel à l'aménagement du territoire et à l'attra
 
 b) Le directeur du budget ou son représentant ;
 
-c) Le        directeur général du Trésor ou son représentant ;
+c) Le directeur général du Trésor ou son représentant ;
 
-d) Le directeur général des routes ou son représentant ;
+d) Le directeur général des infrastructures, des transports et de la mer ou son représentant ;
 
-e) Le directeur général de la mer et des transports ou son représentant ;
+e) Le directeur des infrastructures de transport ou son représentant ;
 
-f) Le directeur des études économiques et de l'évaluation environnementale ou son représentant ;
+f) Le commissaire général au développement durable ou son représentant ;
 
-2. Un député et un sénateur, deux élus locaux et deux personnalités qualifiées.
+2. Un député et un sénateur, trois élus locaux et une personnalité qualifiée.
 
 Le président, choisi parmi les membres du conseil d'administration, et les membres du second collège sont nommés par décret pour une durée de trois ans renouvelable.
+
+La limite d'âge du président du conseil d'administration est fixée à soixante-dix ans.
 
 En cas de vacance, pour quelque cause que ce soit, d'un des sièges relevant du second collège, il est procédé, dans les deux mois, au remplacement du membre défaillant par un nouveau membre de la même catégorie désigné selon les mêmes modalités. Le mandat du nouveau membre expire à la date à laquelle aurait normalement pris fin celui de son prédécesseur.
 
