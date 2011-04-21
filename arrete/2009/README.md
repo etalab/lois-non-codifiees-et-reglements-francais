@@ -2028,7 +2028,6 @@
 - [Arrêté du 23 février 2009 (IOCC0829216A)](arrete-du-23-fevrier-2009-iocc0829216a)
 - [Arrêté du 23 février 2009 (MAEA0827848A)](arrete-du-23-fevrier-2009-maea0827848a)
 - [Arrêté du 23 février 2010 (MEND0920580A)](arrete-du-23-fevrier-2010-mend0920580a)
-- [Arrêté du 23 janvier 2009 (AGRE0901896A)](arrete-du-23-janvier-2009-agre0901896a)
 - [Arrêté du 23 janvier 2009 (AGRM0901863A)](arrete-du-23-janvier-2009-agrm0901863a)
 - [Arrêté du 23 janvier 2009 (AGRS0830837A)](arrete-du-23-janvier-2009-agrs0830837a)
 - [Arrêté du 23 janvier 2009 (BCFL0902522A)](arrete-du-23-janvier-2009-bcfl0902522a)

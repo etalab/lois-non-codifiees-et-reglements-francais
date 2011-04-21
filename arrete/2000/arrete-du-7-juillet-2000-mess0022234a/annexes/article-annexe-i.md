@@ -6,6 +6,8 @@ Travaux de bord
 
 Sont concernés les métiers suivants :
 
+Aide-scaphandrier ;
+
 Agent d'encadrement ;
 
 Agent de contrôle qualité ;
@@ -138,6 +140,8 @@ Régulateur ;
 
 Sableur ;
 
+Scaphandrier ;
+
 Selfiste ;
 
 Serrurier ;
@@ -161,6 +165,8 @@ Tuyauteur.
 Travaux de coque
 
 Sont concernés les métiers suivants :
+
+Aide-scaphandrier ;
 
 Agent d'encadrement ;
 
@@ -232,6 +238,8 @@ Riveur ;
 
 Sableur ;
 
+Scaphandrier ;
+
 Selfiste ;
 
 Soudeur ;
@@ -247,6 +255,8 @@ Vaigreur.
 Travaux d'ateliers
 
 Sont concernés les métiers suivants :
+
+Aide-scaphandrier ;
 
 Affûteur ;
 
@@ -347,6 +357,8 @@ Pontier ;
 Préparateur production ;
 
 Sableur ;
+
+Scaphandrier ;
 
 Soudeur ;
 
