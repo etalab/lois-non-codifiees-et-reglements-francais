@@ -8,4 +8,4 @@ Lors de sa comparution, l'élève peut présenter des observations orales. Il pe
 
 Les délibérations de la commission ont lieu hors de la présence de l'intéressé, de son défenseur ou de son représentant. Les délibérations sont secrètes.
 
-Le ministre notifie à l'élève la décision définitive le concernant. Les autorités administratives concernées en sont informées dans le même délai.
+Le directeur de l'Ecole nationale de l'aviation civile notifie à l'élève la décision définitive le concernant. Les autorités administratives concernées en sont informées dans le même délai.
