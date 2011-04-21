@@ -6,9 +6,7 @@ ACB/Alsthom Fluides et Mécaniques :
 
 - boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1945 à 1997.
 
-Antirouille, puis CERI (Compagnie européenne de revêtement industriel) - Antirouille. Boulevard des Apprentis, 44550 Montoir-de-
-
-Bretagne. De sa création à 1996.
+Antirouille, puis CERI (Compagnie européenne de revêtement industriel) - Antirouille. Boulevard des Apprentis, 44550 Montoir-de-Bretagne. De sa création à 1996.
 
 Atelier marine Service, SARL Calloch, Diesel marine, zone artisanale de la Marjolaine, 44420 La Turballe, de sa création à 1992.
 
@@ -181,6 +179,8 @@ SA Atelier de Trignac :
 SAFEN :
 
 - 5, rue du Tertre, 44470 Carquefou : depuis sa création.
+
+SA SEAKING FRANCE ZA Nord, 44690 La Haie-Fouassiere De 1988 à 1993 puis 31, rue Paul-Bert, 44600 Saint-Nazaire De 1994 à 1996.
 
 SERIM, quai des Frégates, 44600 Saint-Nazaire : de sa création à 1982.
 
@@ -505,6 +505,8 @@ Electric Marine :
 Electricité navale :
 
 - 258, chemin de la Madrague, ville, 13015 Marseille, et formes 8 et 9, porte 4 PAM, aire de Mourepiane, 13002 Marseille : depuis 1979.
+
+EMI (Entretien marine industrie) 11, quai de la Tourette, 13002 Marseille De 1969 à 1974.
 
 EMS échafaudage marine service 1, rue du Laos, quartier Saint-Louis, Marseille. Depuis 1996
 
@@ -1103,6 +1105,8 @@ SOTRASUD :
 SOVAGAME. 140, avenue Louis-Lagrange, ZI Toulon Est, La Garde, 83088 Toulon. De 1995 à 1997.
 
 SOVAMEC, 423, avenue A.-Gance, 83130 La Garde, de 1983 à 1995.
+
+SPTMI OFFSHORE 258, chemin de la Madrague-Ville, 13015 Marseille De 1979 à 1996.
 
 SRPAM, quai de la Lecque, BP 205, 13528 Port-de-Bouc Cedex, et les quais, forme 10, L'Estaque, 13016 Marseille : de 1966 à 1997.
 

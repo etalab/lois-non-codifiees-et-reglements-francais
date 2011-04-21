@@ -546,6 +546,8 @@ SOFITHER ISOLATION, Agence de Saint-Laurent-des-Eaux, 41 (centrale), agence de C
 
 Valéo Thermique Habitacle, Avenue des Près, 28400 Nogent-le-Rotrou : de 1965 à 1992 ;
 
+Waeles puis Valfond, 44, quai Bellevue, 37150 Bléré : de 1960 à 1996 ;
+
 Wanner Isofi, Chemin des Plantes, 45500 Saint-Gordon : depuis sa création.
 
 Champagne-Ardenne
@@ -636,7 +638,7 @@ Raschig SAS : depuis 1998 ;
 
 Rieter/Keller, laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1981 ;
 
-Rincheval, boulevard du Général-Leclerc, 95320 Soisy-sous-Montmorency : de 1907 à 1996 , puis Famaro-Rincheval, 3 avenue des Cures, 95320 Soisy-sous-Montmorency ;
+Rincheval puis Famaro Rincheval, 3 avenue des Cures, 95320 Soisy-sous-Montmorency ;
 
 Siafom, rue Le Peletier, 75009 Paris : de 1962 à 1977 ;
 
@@ -662,6 +664,8 @@ Société J.I.F./Meillor SA, 4, rue Alexandre, 92230 Gennevilliers, puis rue du 
 
 Spécialités colloïdales industrielles (SCI), CECA, CECA/ATO, 36, route de la Falaise, 78126 Aulnay-sur-Mauldre : de 1972 à 1995 ;
 
+Les Spécialités colloidales industrielles (SCI), 68, rue Nollet, 75017 Paris : De 1966 à 1983 ;
+
 Stein Industrie, puis GEC Alstom, établissement "chantier, 19-21, avenue Morane-Saulnier, 78140 Vélizy, de 1956 à 1996 ;
 
 Stotnet, 16, rue François-Guibert, 75015 Paris : de 1947 à 1974 ;
@@ -682,7 +686,9 @@ Vaysse, 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
 
 Languedoc-Roussillon
 
-SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996.
+SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996 ;
+
+SAFT (Société des ateliers et fonderies de Tamaris) puis AHL (Aciéries du haut-Languedoc) puis AFT (Aciéries et fonderies de Tamaris), 212, rue de Pressensé, 30319 Alès : De 1949 à 1996 ;
 
 Limousin
 
@@ -976,13 +982,15 @@ LOCKEED, DBA, 82-84, rue du Pont-d'Arcole, 60000 Beauvais, de 1966 à 1985 ;
 
 MANUFACTURE DES GLACES ET PRODUITS CHIMIQUES DE SAINT-GOBAIN CHAUNY et CIREY puis PECHINEY SAINT-GOBAIN puis RHONE PROGIL puis RHONE POULENC INDUSTRIES puis CHLOE CHIMIE et RHONE POULENC puis ATOCHEM et CHARBONNAGES DE France CHIMIE puis RHODIA, 2, rue de Soissons, 02300 Chauny : De 1944 à 1996 ;
 
-Matériel scientifique moderne, 4 bis, rue des Archers, 80000 Amiens, de 1950 à 1991.
+Matériel scientifique moderne, 4 bis, rue des Archers, 80000 Amiens, de 1950 à 1991 ;
 
-Max Perles et Cie, 4, rue du Professeur Dubos, 60119 Henonville, de 1970 à 1996.
+Max Perles et Cie, 4, rue du Professeur Dubos, 60119 Henonville, de 1970 à 1996 ;
 
-Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-en-Thelle, de 1988 à 1990.
+Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-en-Thelle, de 1988 à 1990 ;
 
-SA GEB, 1, allée des Coquelicots, 60440 Nanteuil-le-Haudouin, de 1986 à 1996.
+SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
+
+SA GEB, 1, allée des Coquelicots, 60440 Nanteuil-le-Haudouin, de 1986 à 1996 ;
 
 Sitel/Delle-CGE/unelecAlsthom-CGE/Unelec SA/Unelec-GE-GEC/GE-power Controls France, route de Guise, 2100 Harly et 02322 Saint-Quentin : de 1937 à 1996 ;
 
@@ -1054,6 +1062,8 @@ Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
 SA Maison Faure/Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
 
+SA Provisol, Le Panorama, quartier de Gabelles, 13340 Rognac : de 1965 à 1975 ;
+
 Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Portugal, ZI, BP 202, 84107 Orange Cedex : de 1972 à 1996 ;
 
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
@@ -1069,6 +1079,10 @@ Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plât
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
 
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création ;
+
+Société nouvelle de gestion des établissements Coder (SNGEC) puis Titan Coder puis Société métallurgique de Saint-Marcel (SMSM) puis Société d'exploitation Saint-Marcel ferroviaire (SESMF) puis
+
+Saint-Marcel ferroviaire (SMF), 25, boulevard de Saint-Marcel, 13011 Marseille : De 1970 à 1994 ;
 
 SNIFI/EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994 ;
 

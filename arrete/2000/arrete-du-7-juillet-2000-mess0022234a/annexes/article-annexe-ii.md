@@ -820,6 +820,8 @@ SLEN (Société lorientaise d'entretien naval), 15, quai du Pourquoi-Pas, 56100 
 
 SLTIM (Société lorientaise de techniques industrielles et marines Rue de Seignelelay, puis 8 B, rue Emile-Marcesche, puis 27, rue Ingénieur-Verrière, 56100 Lorient. De 1990 à 1996.
 
+SMAB (Société mécanique ateliers bretons) Terre plein du port, 29750 Loctudy De 1975 à 1995.
+
 SMCPO, 42, quai de la Douane, 29200 Brest, et 71, rue de la Porte, 29200 Brest : de 1960 à 1996.
 
 SMCTO.B :
@@ -1408,6 +1410,8 @@ STIO (Société de tuyauterie industrielle de l'Ouest) :
 
 Task International, zone industrielle Camp-Laurent, 83500 La Seyne-sur-Mer, puis 6, avenue du Général-de-Gaulle, 78000 Versailles : depuis sa création à 1995.
 
+Teurnier Frères 55, quai Alfred-Sisley, 92390 Villeneuve-La-Garenne De 1970 à 1996.
+
 Languedoc-Roussillon
 
 CRM (Compagnie radio maritime). 9, promenade J.-B.-Marty, 34200 Sète. De 1954 à 1987.
@@ -1505,6 +1509,8 @@ Caloin SA :
 CEGELEC/ALSTOM, 24, route de Fort-Mardyck, BP 4, Le Triangle, 59430 Saint-Pol-sur-Mer : depuis 1965.
 
 CFEM-Comenord/CFEM, avant-port Ouest, 59820 Gravelines : de 1974 à 1986.
+
+Chambre de commerce, outillage public du port de Calais 24, boulevard des Alliés, BP 199, 62104 Calais Cedex De 1950 à 1996.
 
 Chantier fluvial Leroy et Compagnie :
 
