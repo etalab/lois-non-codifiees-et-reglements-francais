@@ -1,24 +1,22 @@
 # Article 2
 
-Le service de l'alimentation élabore, pour le compte du ministère, la politique de l'alimentation et veille à sa mise en œuvre et à son évaluation. A ce titre, il coordonne l'action des directions et services du ministère en matière d'alimentation et élabore les règles relatives à l'alimentation humaine visant à une alimentation saine, sûre, accessible, équilibrée et de qualité.
+Le service de l'alimentation élabore, pour le compte du ministère, la politique de l'alimentation et veille à sa mise en œuvre et à son évaluation. A ce titre, il coordonne l'action des directions et services du ministère en matière d'alimentation et élabore les règles relatives à l'alimentation humaine visant à une alimentation sûre, diversifiée, en quantité suffisante, de bonne qualité gustative et nutritionnelle, produite dans des conditions durables. Il coordonne les actions du programme national pour l'alimentation relevant de l'action de chacun des ministères concernés et prépare les rapports de suivi de ce programme pour permettre au Gouvernement de rendre compte tous les trois ans au Parlement de son action en matière de politique publique de l'alimentation.
 
 Le service de l'alimentation comprend :
 
-― la sous-direction de la qualité de l'alimentation ;
+- la sous-direction de la sécurité sanitaire des aliments ;
 
-― la sous-direction de la sécurité sanitaire des aliments.
+- la sous-direction de la politique de l'alimentation.
 
-I. - La sous-direction de la qualité de l'alimentation est chargée de la politique de l'alimentation. A ce titre, elle assure la coordination générale des autres directions et services du ministère en matière d'alimentation.
+I. - La sous-direction de la politique de l'alimentation est chargée de la définition de la politique publique de l'alimentation et de sa mise en œuvre au travers du programme national pour l'alimentation. A ce titre, elle assure, d'une part, la coordination générale des autres directions et services du ministère en matière d'alimentation et, d'autre part, la cohérence de la politique de l'alimentation avec les autres politiques publiques.
 
-Elle est chargée de la coordination, du suivi des actions conduites par les services déconcentrés en matière d'alimentation.
+Elle assure le pilotage de la déclinaison territoriale du Programme national pour l'alimentation par les services déconcentrés. Elle élabore les référentiels d'inspection et de contrôle relevant de son domaine de compétence.
 
 Elle est chargée notamment des actions relatives à la qualité nutritionnelle des produits alimentaires, à l'équilibre de l'offre alimentaire en restauration collective, à l'augmentation de la consommation de fruits et légumes et à la qualité de l'alimentation des populations les plus démunies. Ces actions s'inscrivent dans le cadre du programme national nutrition santé. Elle élabore les référentiels d'inspection et de contrôle relevant de son domaine de compétence.
 
 Elle est chargée de la politique de valorisation de la qualité des produits agricoles et denrées alimentaires dans le domaine de compétence de la direction.
 
 Elle participe à la définition et au suivi de la politique des contrôles de l'Institut national de la qualité et de l'origine (INAO) en matière de qualité des produits agricoles et alimentaires, y compris en ce qui concerne les produits de la mer et d'aquaculture ainsi que les produits forestiers.
-
-Conjointement avec les ministères chargés de la santé et de la consommation, elle participe à la préparation des réglementations relatives à la qualité des aliments, à la loyauté des transactions commerciales et à l'information des consommateurs.
 
 Elle assure le secrétariat interministériel du Conseil national de l'alimentation.
 
@@ -28,15 +26,15 @@ Elle est chargée de la préparation, du suivi, du contrôle et de l'évaluation
 
 Elle participe, dans le cadre de l'action de centralisation et de coordination de la direction générale de l'enseignement et de la recherche, à la définition et à la mise en œuvre des politiques de recherche dans les domaines de compétence de la direction générale de l'alimentation.
 
-Elle mobilise l'expertise scientifique et technique nécessaire à l'élaboration des diverses réglementations dans les domaines de compétence de la direction. Elle exerce la tutelle de l'Agence française de sécurité sanitaire des aliments.
+Elle mobilise l'expertise scientifique et technique nécessaire à l'élaboration des diverses réglementations dans les domaines de compétence de la direction. Elle exerce la tutelle de l'Agence nationale de la sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
-La sous-direction de la qualité de l'alimentation comprend :
+La sous-direction de la politique de l'alimentation comprend :
 
-― le bureau de la nutrition et de la valorisation de la qualité des aliments ;
+- le bureau du pilotage de la politique de l'alimentation ;
 
-― le bureau de la législation alimentaire ;
+- le bureau de la législation alimentaire ;
 
-― le bureau de l'appui scientifique et technique.
+- le bureau de l'appui scientifique et technique.
 
 II. - La sous-direction de la sécurité sanitaire des aliments est chargée de la préparation, du suivi, du contrôle et de l'évaluation de la législation et de la réglementation en matière d'hygiène générale de la production, de la transformation, de l'entreposage, du transport et de la distribution des denrées alimentaires destinées à la consommation humaine, y compris les produits de la mer et d'aquaculture marine et continentale, et de prévention des contaminations biologiques de ces denrées. Elle élabore les référentiels d'inspection et de contrôle de ces denrées et des établissements les préparant.
 
