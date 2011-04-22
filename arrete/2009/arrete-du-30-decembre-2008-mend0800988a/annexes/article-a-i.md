@@ -4,8 +4,7 @@
 <tbody>
 <tr>
 <td align="left" colspan="2" valign="top">
-<p align="center">A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale <br/>
-</p>
+<p align="center">A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale </p>
 </td>
 <td align="left" rowspan="2" valign="top">
 <p align="center">NOMBRE <br/>d'emplois</p>
@@ -108,7 +107,7 @@
 <p align="left">Rectorat de l'académie de Caen</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie</p>
+<p>Adjoint au secrétaire général d'académie</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1</p>
@@ -739,13 +738,16 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique du Val-d'Oise </p>
+<p align="left">Académie de Versailles-Inspection académique du Val-d'Oise <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général </p>
+<p align="left">Secrétaire général <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1 </p>
+<p align="center">1 <br/>
+</p>
 </td>
 </tr>
 </tbody>
