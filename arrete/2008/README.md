@@ -504,7 +504,6 @@
 - [Arrêté du 15 septembre 2008 (ECEP0813930A)](arrete-du-15-septembre-2008-ecep0813930a)
 - [Arrêté du 15 septembre 2008 (ESRH0820121A)](arrete-du-15-septembre-2008-esrh0820121a)
 - [Arrêté du 15 mai 2008 (SJSH0812854A)](arrete-du-15-mai-2008-sjsh0812854a)
-- [Arrêté du 16 avril 2008 (SJSH0809648A)](arrete-du-16-avril-2008-sjsh0809648a)
 - [Arrêté du 16 décembre 2008 (AGRG0830170A)](arrete-du-16-decembre-2008-agrg0830170a)
 - [Arrêté du 16 décembre 2008 (AGRP0830715A)](arrete-du-16-decembre-2008-agrp0830715a)
 - [Arrêté du 16 décembre 2008 (DEVE0829104A)](arrete-du-16-decembre-2008-deve0829104a)
