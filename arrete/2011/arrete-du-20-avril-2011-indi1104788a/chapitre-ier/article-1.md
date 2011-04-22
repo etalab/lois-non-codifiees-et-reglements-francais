@@ -1,0 +1,3 @@
+# Article 1
+
+Les organismes qui procèdent à l'évaluation des prestataires de services d'horodatage électronique en vue de reconnaître leur qualification doivent être accrédités par l'instance nationale d'accréditation mentionnée à l'article L. 115-28 du code de la consommation ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la Coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant la certification considérée. Le référentiel d'accréditation comprend la norme ISO 17021 ou une norme équivalente ainsi que les règles d'application établies par l'instance d'accréditation.
