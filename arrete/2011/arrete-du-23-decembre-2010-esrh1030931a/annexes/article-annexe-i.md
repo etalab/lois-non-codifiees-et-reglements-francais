@@ -103,7 +103,7 @@ CALENDRIER DES OPÉRATIONS ÉLECTORALES DU CONSEIL NATIONAL DES UNIVERSITÉS
 </td>
 </tr>
 <tr>
-<td align="center">18 octobre 2011<br/>
+<td align="center">A partir du 18 octobre 2011 <br/>
 </td>
 <td align="center">Dépouillement des votes<br/>
 </td>
