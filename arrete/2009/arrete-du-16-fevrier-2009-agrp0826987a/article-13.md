@@ -1,6 +1,6 @@
 # Article 13
 
-1. Le demandeur communique à un laboratoire agréé, conformément à l'arrêté du 6 novembre 1995 susvisé, pour chaque échantillon, les éléments permettant d'identifier le produit :
+1. Le demandeur communique à un laboratoire habilité conformément au décret n° 2009-178 du 16 février 2009 modifié, pour chaque échantillon, les éléments permettant d'identifier le produit :
 
 Date de prélèvement ;
 
@@ -52,7 +52,7 @@ Pour les produits enrichis :
 
 ― le titre alcoométrique volumique acquis (% vol) à 20° C ;
 
-― la teneur en sucres réducteurs ou la teneur en glucose plus fructose (g / l) ;
+― la teneur en sucres réducteurs ou la teneur en glucose plus fructose (g/ l) ;
 
 ― la date de remise de l'échantillon au laboratoire officiellement habilité ;
 

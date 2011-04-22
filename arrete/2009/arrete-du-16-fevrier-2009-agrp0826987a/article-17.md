@@ -32,23 +32,25 @@
 
 - article 16, paragraphe 5 ;
 
-- article 16 bis, paragraphe 1, sans préjudice de l'application des dispositions de l'article 17, paragraphe 6.
+- article 16 bis, paragraphe 1, sans préjudice de l'application des dispositions de l'article 17, paragraphe 6 ;
+
+- article 16 ter, paragraphe 2.
 
 2. L'aide est minorée de 20 % pour les opérations concernées dans la limite de 10 % du montant total de l'aide sollicitée en cas de manquement aux articles suivants du présent arrêté :
 
-― article 12, paragraphe 2, en cas d'absence des mentions, sur le registre de manipulation, de la date de l'enrichissement, du volume de produit enrichissant utilisé ou du volume de produit obtenu, et lorsque ces informations peuvent être établies au travers d'autres documents (registre de détention, bulletins d'analyses) ;
+- article 12, paragraphe 2, en cas d'absence des mentions, sur le registre de manipulation, de la date de l'enrichissement, du volume de produit enrichissant utilisé ou du volume de produit obtenu, et lorsque ces informations peuvent être établies au travers d'autres documents (registre de détention, bulletins d'analyses) ;
 
-― article 12, paragraphe 4, en cas de rupture de la chronologie des dates des inscriptions des enrichissements ou de non-respect des procédures de correction des mentions portées dans le registre de manipulation ;
+- article 12, paragraphe 4, en cas de rupture de la chronologie des dates des inscriptions des enrichissements ou de non-respect des procédures de correction des mentions portées dans le registre de manipulation ;
 
-― articles 14 et 15, lorsque le contrôle visé à l'article 1er a pu être réalisé par prélèvement des cuves concernées ou par la fourniture d'informations complémentaires relatives aux changements de cuves des produits enrichis.
+- articles 14 et 15, lorsque le contrôle visé à l'article 1er a pu être réalisé par prélèvement des cuves concernées ou par la fourniture d'informations complémentaires relatives aux changements de cuves des produits enrichis.
 
 3. L'aide est minorée de 5 % pour les opérations concernées en cas de manquement aux articles suivants du présent arrêté :
 
-― article 12, paragraphe 2, lorsque le manquement porte sur les heures des opérations ;
+- article 12, paragraphe 2, lorsque le manquement porte sur les heures des opérations ;
 
-― article 12, paragraphe 4, en cas de rupture de la chronologie des heures des inscriptions ;
+- article 12, paragraphe 4, en cas de rupture de la chronologie des heures des inscriptions ;
 
-― article 14, paragraphe 2, lorsque chacun des lots de produit enrichissant d'un même type a été analysé préalablement à assemblage et à utilisation du mélange des lots, sous réserve du respect des critères prévus à l'annexe V de la réglementation communautaire susvisée quel que soit le résultat de l'analyse pris en compte.
+- article 14, paragraphe 2, lorsque chacun des lots de produit enrichissant d'un même type a été analysé préalablement à assemblage et à utilisation du mélange des lots, sous réserve du respect des critères prévus à l'annexe V de la réglementation communautaire susvisée quel que soit le résultat de l'analyse pris en compte.
 
 4. Dans le cas d'application de l'article 16, paragraphe 3, du présent arrêté, l'aide est minorée de 1 % du montant total de l'aide sollicitée par jour de retard constaté pendant les neuf premiers jours, et 10 % à partir du dixième jour jusqu'au 31 mai de la campagne.
 
@@ -57,5 +59,7 @@
 6. Dans le cas d'application de l'article 16 bis, paragraphe 1, du présent arrêté, l'aide est minorée de 10 % du montant total de l'aide sollicitée si le retard de dépôt constaté n'excède pas dix jours ouvrables. Cette minoration s'applique au titre du retard constaté sur chaque déclaration.
 
 7. Dans le cas d'application de l'article 16 bis, paragraphe 2, du présent arrêté, l'aide est minorée du même pourcentage que le pourcentage de rectification du volume déclaré.
+
+7 bis. Lorsque la disposition prévue à l'article 16 ter, paragraphe 1, du présent arrêté n'est pas respectée, l'aide est calculée sur le résultat de l'analyse de contrôle.
 
 8.L'ensemble de ces minorations s'applique dans la limite du montant total de l'aide.
