@@ -1,3 +1,0 @@
-# Article 3
-
-Le lait pour l'obtention du morbier provient uniquement de vaches de race montbéliarde ou de race simmental française. Le troupeau est conduit selon les usages locaux, loyaux et constants. Sur l'exploitation, la superficie herbagère effectivement exploitée doit être au minimum égale à un hectare par vache laitière. La ration de base de l'alimentation des vaches laitières est constituée de fourrages issus de prairies situées dans l'aire géographique définie à l'article 2. L'alimentation des vaches laitières est exempte toute l'année de tout produit d'ensilage ou d'autres aliments fermentés, dont les fourrages conservés sous forme de balles enrubannées.
