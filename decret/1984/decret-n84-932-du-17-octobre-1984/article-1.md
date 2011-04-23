@@ -8,6 +8,14 @@ Les grades ou titres universitaires sont conférés par les diplômes désignés
 
 - diplôme d'Etat d'audio-prothésiste ;
 
+- diplôme de formation générale en sciences médicales ;
+
+- diplôme de formation générale en sciences pharmaceutiques ;
+
+- diplôme de formation générale en sciences odontologiques ;
+
+- diplôme de formation générale en sciences maïeutiques ;
+
 - diplôme d'Etat de sage-femme ;
 
 - diplôme de fin de deuxième cycle des études médicales ;
