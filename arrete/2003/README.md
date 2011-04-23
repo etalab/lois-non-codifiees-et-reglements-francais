@@ -12,7 +12,6 @@
 - [Arrêté du 1 septembre 2003 (DEVN0320294A)](arrete-du-1-septembre-2003-devn0320294a)
 - [Arrêté du 1 septembre 2003 (DOMB0300019A)](arrete-du-1-septembre-2003-domb0300019a)
 - [Arrêté du 1 septembre 2003 (EQUA0301048A)](arrete-du-1-septembre-2003-equa0301048a)
-- [Arrêté du 2 avril 2003 (ECOL0300050A)](arrete-du-2-avril-2003-ecol0300050a)
 - [Arrêté du 2 avril 2003 (EQUS0300291A)](arrete-du-2-avril-2003-equs0300291a)
 - [Arrêté du 2 avril 2003 (INDI0301320A)](arrete-du-2-avril-2003-indi0301320a)
 - [Arrêté du 2 avril 2003 (SANH0321207A)](arrete-du-2-avril-2003-sanh0321207a)
