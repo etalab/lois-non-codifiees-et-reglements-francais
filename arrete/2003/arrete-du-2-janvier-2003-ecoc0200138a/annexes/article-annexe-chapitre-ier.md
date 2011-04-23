@@ -1169,7 +1169,8 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">LMS(T) = 0,6 mg/kg (28).<br/>
+<p align="left">LMS(T) = 0,6 mg/kg (28).</p>
+<p align="left">Ne pas utiliser pour la fabrication des biberons en polycarbonate destinés aux nourrissons.<br/>
 </p>
 </td>
 </tr>
@@ -1233,7 +1234,7 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">Voir 4,4'-diisocyanate de dicyclohexylméthane .<br/>
+<p align="left">Voir 4,4'-diisocyanate de dicyclohexylméthane.<br/>
 </p>
 </td>
 </tr>
@@ -1269,7 +1270,7 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">Voir 2,2-bis(4-hydroxyphényl) propane .<br/>
+<p align="left">Voir 2,2-bis(4-hydroxyphényl) propane.<br/>
 </p>
 </td>
 </tr>
@@ -1287,7 +1288,7 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">Voir Ether bis(2,3-époxypropylique) du 2,2-bis(4-hydroxyphényl)propane .<br/>
+<p align="left">Voir Ether bis(2,3-époxypropylique) du 2,2-bis(4-hydroxyphényl)propane.<br/>
 </p>
 </td>
 </tr>
@@ -1305,7 +1306,7 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">Voir Bis(anhydride phtalique) du 2,2-bis(4-hydroxyphényl) propane .<br/>
+<p align="left">Voir Bis(anhydride phtalique) du 2,2-bis(4-hydroxyphényl) propane.<br/>
 </p>
 </td>
 </tr>
@@ -1323,7 +1324,7 @@ Liste des monomères et autres substances de départ autorisés
 </p>
 </td>
 <td align="center">
-<p align="left">Voir 4,4'-dihydroxydiphénylsulfone .<br/>
+<p align="left">Voir 4,4'-dihydroxydiphénylsulfone.<br/>
 </p>
 </td>
 </tr>
@@ -6047,16 +6048,16 @@ Liste de monomères et autres substances de départ qui peuvent continuer à êt
 <tbody>
 <tr>
 <td>
-<p align="center"> NUMÉRO<br/>référence<br/>(1)</p>
+<p align="center">NUMÉRO<br/>référence<br/>(1)</p>
 </td>
 <td>
-<p align="center"> NUMÉRO CAS<br/>(2)</p>
+<p align="center">NUMÉRO CAS<br/>(2)</p>
 </td>
 <td>
-<p align="center"> DÉNOMINATION<br/>(3)</p>
+<p align="center">DÉNOMINATION<br/>(3)</p>
 </td>
 <td>
-<p align="center"> RESTRICTIONS ET/OU SPÉCIFICATIONS<br/>(4)</p>
+<p align="center">RESTRICTIONS ET/OU SPÉCIFICATIONS<br/>(4)</p>
 </td>
 </tr>
 <tr>
