@@ -870,7 +870,6 @@
 - [Arrêté du 10 juin 2010 (MCCB1013047A)](arrete-du-10-juin-2010-mccb1013047a)
 - [Arrêté du 10 juin 2010 (MENE1015474A)](arrete-du-10-juin-2010-mene1015474a)
 - [Arrêté du 10 juin 2010 (SASH1015980A)](arrete-du-10-juin-2010-sash1015980a)
-- [Arrêté du 10 juin 2010 (SASP1014948A)](arrete-du-10-juin-2010-sasp1014948a)
 - [Arrêté du 10 mars 2010 (AGRG1001719A)](arrete-du-10-mars-2010-agrg1001719a)
 - [Arrêté du 10 mars 2010 (AGRG1004525A)](arrete-du-10-mars-2010-agrg1004525a)
 - [Arrêté du 10 mars 2010 (AGRG1006912A)](arrete-du-10-mars-2010-agrg1006912a)

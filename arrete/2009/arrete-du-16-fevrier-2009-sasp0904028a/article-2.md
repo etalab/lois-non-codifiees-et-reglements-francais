@@ -1,3 +1,0 @@
-# Article 2
-
-L'agence régionale de santé de Picardie est chargée d'organiser, sous l'autorité du préfet et en collaboration avec les professionnels de santé du département, l'immunisation contre les infections invasives à méningocoque de souche particulière B:14:P1-7,16 par l'utilisation du vaccin méningococcique MENBVAC® dans les cantons de Friville-Escarbotin, Gamaches, Saint-Valery-sur-Somme et Ault selon les modalités définies par le présent arrêté.
