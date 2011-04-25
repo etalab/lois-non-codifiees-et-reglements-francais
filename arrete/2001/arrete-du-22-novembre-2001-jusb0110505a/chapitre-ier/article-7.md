@@ -1,11 +1,17 @@
 # Article 7
 
-Le directeur de l'Ecole nationale de la magistrature s'assure que les dossiers de candidature qui lui sont transmis par les autorités mentionnées aux articles précédents sont régulièrement constitués.
+Dès que le jury de chaque concours a arrêté la liste des candidats déclarés admissibles, le directeur de l'Ecole nationale de la magistrature communique aux procureurs de la République près les tribunaux de grande instance et aux procureurs de la République près les tribunaux de première instance, par l'intermédiaire des procureurs généraux près les cours d'appel et des procureurs de la République près les tribunaux supérieurs d'appel, l'identité de ceux résidant dans leur ressort.
 
-Il transmet alors les dossiers en état au garde des sceaux, ministre de la justice, qui procède, s'il y a lieu, à une enquête supplémentaire et fixe par arrêté, après avis du directeur de l'Ecole nationale de la magistrature, la liste des candidats admis à prendre part respectivement à chacun des concours. Pour chaque concours, la liste est dressée par centre d'épreuves.
+Le procureur de la République recueille, pour chaque candidat, les pièces suivantes :
 
-Elle est adressée pour affichage aux procureurs généraux, procureurs de la République près les tribunaux supérieurs d'appel et aux autorités diplomatiques ou consulaires auprès desquelles les candidats résidant sur le territoire d'Etats étrangers ont déposé leur candidature ou auprès desquelles un centre d'épreuves a été institué. Elle est également affichée au ministère de la justice.
+1° Bulletin n° 2 du casier judiciaire ;
 
-Les candidats résidant hors du territoire métropolitain de la République sont avisés personnellement de leur inscription sur cette liste.
+2° Avis de l'autorité administrative, assorti du rapport établi par les services chargés de l'enquête.
 
-Les candidats qui ne sont pas admis à concourir reçoivent, au plus tard huit jours avant le début des épreuves, notification de la décision prise à leur égard.
+Le procureur de la République, après avoir recueilli, le cas échéant, tous renseignements complémentaires utiles, transmet ces éléments au procureur général ou au procureur près le tribunal supérieur d'appel qui les adresse au directeur de l'Ecole nationale de la magistrature, dans le délai prescrit par ce dernier, avec un rapport contenant son avis motivé.
+
+Pour les candidats déclarés admissibles résidant sur le territoire d'Etats étrangers, les autorités diplomatiques ou consulaires de la République française auprès desdits Etats sont informées de l'identité de ceux résidant sur leur territoire par le directeur de l'Ecole nationale de la magistrature et font parvenir à ce dernier, après enquête, leur avis motivé, dans le délai prescrit par celui-ci.
+
+Dès réception de ces éléments, le directeur de l'école les transmet avec son avis au garde des sceaux, ministre de la justice.
+
+Les candidats qui ne satisfont pas aux conditions exigées par l'article 16 (3°) de l'ordonnance du 22 décembre 1958 susvisée reçoivent notification de la décision prise à leur égard par le garde des sceaux, ministre de la justice.

@@ -1,9 +1,7 @@
 # Article 9
 
-Les épreuves d'admissibilité ont lieu au siège des cours d'appel et tribunaux supérieurs d'appel dans le ressort desquels les candidats se sont fait inscrire, ou au siège des tribunaux de grande instance énumérés par arrêté du garde des sceaux, ministre de la justice, auprès desquels les candidats se sont fait inscrire.
+Les centres d'épreuves dans lesquelles se déroulent les épreuves d'admissibilité se situent aux sièges des cours d'appel, tribunaux supérieurs d'appel et tribunaux de grande instance énumérés par l'arrêté portant ouverture des concours.
 
-Ces derniers ont toutefois la faculté en déposant leur candidature de demander à composer au siège d'une autre cour d'appel, tribunal supérieur d'appel ou de l'un des tribunaux de grande instance énumérés par arrêté du garde des sceaux, ministre de la justice.
+Des centres supplémentaires peuvent éventuellement être institués par arrêtés complémentaires.
 
-Des centres supplémentaires peuvent éventuellement être institués.
-
-Les centres sont énumérés par l'arrêté ouvrant les concours ou par des arrêtés complémentaires.
+En cas de nécessité, les épreuves d'admissibilité pourront toutefois avoir lieu dans une autre ville du ressort de la cour d'appel, du tribunal supérieur d'appel ou du tribunal de grande instance considéré.
