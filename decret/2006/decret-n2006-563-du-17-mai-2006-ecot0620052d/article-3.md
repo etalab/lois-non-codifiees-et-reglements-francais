@@ -2,7 +2,7 @@
 
 La garantie de la Caisse française de développement industriel est soumise aux conditions suivantes :
 
-1° La garantie ne peut pas couvrir plus de 80 % des cautionnements et préfinancements accordés par des établissements financiers pour un contrat de construction de navire civil.
+1° La garantie ne peut pas couvrir plus de 80 % des cautionnements et préfinancements accordés par des établissements de crédit, entreprises d'assurance et autres établissements garants pour un contrat de construction de navire civil.
 
 2° La garantie ne peut être accordée que sur présentation du plan de financement d'un contrat de construction de navire civil.
 
