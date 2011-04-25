@@ -38,6 +38,34 @@ IX. - Freinage :
 
 Tout tracteur soumis à la procédure d'homologation nationale définie à l'article 8 du présent décret doit être équipé de dispositifs permettant un freinage efficace.
 
-X. - Notice d'instructions :
+X. - Manuel d'utilisation :
 
-Tout tracteur soumis à la procédure d'homologation nationale définie à l'article 8 du présent décret doit être accompagné d'une notice donnant notamment les instructions pour que la mise en service, l'utilisation, la manutention, l'installation, le montage, le démontage, le réglage, la maintenance puissent s'effectuer sans risque. La notice indique également les conditions d'utilisation prévues.
+Tout tracteur doit être accompagné d'un manuel donnant notamment les instructions pour que la mise en service, l'utilisation, la manutention, l'installation, le montage, le démontage, le réglage, la maintenance puissent s'effectuer sans risque. Le manuel indique également les conditions d'utilisation prévues.
+
+Il accorde une attention particulière à l'emploi du tracteur avec :
+
+a) Un chargeur frontal ;
+
+b) Un ou des équipements destinés aux travaux forestiers ;
+
+c) Un pulvérisateur de substances dangereuses.
+
+Il précise les dangers correspondants, explique comment les prévenir et informe sur les éventuels équipements destinés à y faire face ainsi que sur le niveau de protection qu'ils apportent.
+
+Il fournit en outre des informations sur l'intensité sonore perçue par l'opérateur et sur le niveau des vibrations.
+
+XI. - Siège du passager :
+
+Quand il en existe, le ou les sièges du passager doivent être conçus et installés de manière à assurer la protection de la santé et de la sécurité au travail des passagers, notamment en ce qui concerne leur emplacement, leurs dimensions et la protection en cas de renversement.
+
+XII. - Protection contre les chutes d'objets :
+
+Lorsqu'il existe une protection contre les chutes d'objets, elle doit permettre de protéger contre les chutes dans le cadre d'un usage du tracteur conforme à celui mentionné dans le manuel d'utilisation.
+
+XIII. - Protection contre la pénétration d'objets :
+
+Lorsqu'il existe une protection contre la pénétration d'objets, elle doit permettre de protéger contre les pénétrations dans le cadre d'un usage du tracteur conforme à celui mentionné dans le manuel d'utilisation.
+
+XIV. - Prévention des contacts avec les substances dangereuses :
+
+Si le tracteur est destiné à être utilisé à une activité exposant à des contacts avec des substances dangereuses, il doit comporter, conformément au manuel d'utilisation, une cabine offrant une protection adaptée à la nature de ces substances.
