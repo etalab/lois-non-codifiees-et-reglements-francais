@@ -1,12 +1,10 @@
-# Article annexe I
+# Article Annexe II
 
-RÈGLES TECHNIQUES APPLICABLES AUX TRACTEURS T1, T2 ET T3
+RÈGLES TECHNIQUES APPLICABLES AUX TRACTEURS T4. 3
 
-ET DOMAINES DE COMPÉTENCE
+Les règles techniques auxquelles doivent répondre les tracteurs T4. 3 et leurs systèmes, composants et entités techniques, sont énumérées dans le tableau ci-dessous.
 
-Les règles techniques auxquelles doivent répondre les tracteurs T1, T2 et T3 et leurs systèmes, composants et entités techniques, sont énumérées dans le tableau ci-dessous.
-
-En particulier, les systèmes composants et entités techniques doivent, pour être réceptionnés CE, être conformes aux dispositions de leurs directives correspondantes et les tracteurs T1, T2 et T3 doivent, pour être réceptionnés CE, être conformes à l'ensemble des dispositions qui y sont contenues.
+En particulier, les systèmes composants et entités techniques doivent, pour être réceptionnés CE, être conformes aux dispositions de leurs directives correspondantes et les tracteurs T4. 3 doivent, pour être réceptionnés CE, être conformes à l'ensemble des dispositions qui y sont contenues.
 
 A = ministère chargé de l'agriculture.
 
@@ -19,7 +17,7 @@ T = ministère chargé des transports.
 <br/>N° <br/>
 </th>
 <th>
-<br/>AUTORITÉ <br/>
+<br/>Autorité <br/>
 <br/>compétente <br/>
 </th>
 <th>
@@ -37,26 +35,9 @@ T = ministère chargé des transports.
 <br/>DATE D'APPLICATION <br/>
 <br/>pour tous les types (8) <br/>
 </th>
-<th colspan="3">
+<th>
 <br/>APPLICABILITÉ <br/>
-<br/>pour T1, T2 et T3 <br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th/>
-<th/>
-<th/>
-<th/>
-<th/>
-<th>
-<br/>T1 <br/>
-</th>
-<th>
-<br/>T2 <br/>
-</th>
-<th>
-<br/>T3 <br/>
+<br/>pour T4. 3 <br/>
 </th>
 </tr>
 <tr>
@@ -67,26 +48,16 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Masse maximale <br/>
-<br/>en charge (5) <br/>
+<br/>Masse maximale en charge (5) <br/>
 </td>
 <td align="center">
-<br/>Annexe I 74/151/ CEE modifiée par 2006/26/ CE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juillet 2007 <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe I 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2009 <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -100,24 +71,16 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Plaque <br/>
-<br/>d'immatriculation (5) <br/>
+<br/>Plaque d'immatriculation (5) <br/>
 </td>
 <td align="center">
-<br/>Annexe II 74/151/ CEE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe II 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -134,20 +97,13 @@ T = ministère chargé des transports.
 <br/>Réservoir de carburant <br/>
 </td>
 <td align="center">
-<br/>Annexe III 74/151/ CEE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe III 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -161,24 +117,17 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Masses <br/>
-<br/>d'alourdissement (5) <br/>
+<br/>Masses d'alourdissement <br/>
+<br/>(5) <br/>
 </td>
 <td align="center">
-<br/>Annexe IV 74/151/ CEE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe IV 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -196,20 +145,13 @@ T = ministère chargé des transports.
 <br/>(2) (3) <br/>
 </td>
 <td align="center">
-<br/>Annexe V 74/151/ CEE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe V 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -227,20 +169,13 @@ T = ministère chargé des transports.
 <br/>(2) (3) <br/>
 </td>
 <td align="center">
-<br/>Annexe VI 74/151/ CEE remplacée par 2009/63/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>Annexe VI 2009/63/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -257,20 +192,14 @@ T = ministère chargé des transports.
 <br/>Vitesse maximale <br/>
 </td>
 <td align="center">
-<br/>Annexe point 1 74/152/ CEE remplacée par 2009/60/ CE <br/>
+<br/>Annexe point 1 <br/>
+<br/>2009/60/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -278,7 +207,7 @@ T = ministère chargé des transports.
 </tr>
 <tr>
 <td align="center">
-<br/>2.2 <br/>
+<br/>2.2. <br/>
 </td>
 <td align="center">
 <br/>T <br/>
@@ -288,20 +217,14 @@ T = ministère chargé des transports.
 <br/>de chargement <br/>
 </td>
 <td align="center">
-<br/>Annexe point 2 74/152/ CEE remplacée par 2009/60/ CE <br/>
+<br/>Annexe point 2 <br/>
+<br/>2009/60/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -318,20 +241,13 @@ T = ministère chargé des transports.
 <br/>Rétroviseurs <br/>
 </td>
 <td align="center">
-<br/>74/346/ CEE remplacée par 2009/59/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/59/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -345,24 +261,18 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Champ de vision et <br/>
-<br/>essuie-glaces (2) (3) (5) <br/>
+<br/>Champ de vision <br/>
+<br/>et essuie-glaces (2) (3) (5) <br/>
 </td>
 <td align="center">
-<br/>74/347/ CEE remplacée par 2008/2/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er mai 2008 <br/>
+<br/>2008/2/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>- <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -380,20 +290,13 @@ T = ministère chargé des transports.
 <br/>(2) (3) <br/>
 </td>
 <td align="center">
-<br/>75/321/ CEE remplacée par 2009/66/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/66/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -410,20 +313,13 @@ T = ministère chargé des transports.
 <br/>Compatibilité électromagnétique (2) (3) (5) <br/>
 </td>
 <td align="center">
-<br/>75/322/ CEE remplacée par 2009/64/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/64/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -451,12 +347,6 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -473,17 +363,11 @@ T = ministère chargé des transports.
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>24/08/2011 <br/>
+<br/>24 août 2011 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>24/08/2012 <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
+<br/>24 août 2012 <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -500,22 +384,13 @@ T = ministère chargé des transports.
 <br/>Niveau sonore (interne) <br/>
 </td>
 <td align="center">
-<br/>77/311/ CEE modifiée par 2006/26/ CE remplacée par 2009/76/ CE <br/>
+<br/>2009/76/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2007 <br/>
-<br/>1er janvier 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2009 <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -533,23 +408,16 @@ T = ministère chargé des transports.
 <br/>de renversement (4) <br/>
 </td>
 <td align="center">
-<br/>77/536/ CEE remplacée par 2009/57/ CE <br/>
+<br/>2009/57/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
 </td>
 </tr>
 <tr>
@@ -574,12 +442,6 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -589,25 +451,17 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Installation des dispositifs d'éclairage (3) <br/>
+<br/>Installation des dispositifs <br/>
+<br/>d'éclairage (3) <br/>
 </td>
 <td align="center">
-<br/>78/933/ CEE modifiée par 2006/26/ CE remplacée par 2009/61/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juillet 2007 <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/61/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2009 <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -624,20 +478,13 @@ T = ministère chargé des transports.
 <br/>Dispositifs d'éclairage et de signalisation lumineuse (2) (3) <br/>
 </td>
 <td align="center">
-<br/>79/532/ CEE remplacée par 2009/68/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/68/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -651,23 +498,17 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Dispositifs de remorquage et de marche arrière <br/>
+<br/>Dispositifs de remorquage <br/>
+<br/>et de marche arrière <br/>
 </td>
 <td align="center">
-<br/>79/533/ CEE remplacée par 2009/58/ CE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
+<br/>2009/58/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -684,23 +525,16 @@ T = ministère chargé des transports.
 <br/>Protection en cas de renversement (essais statiques) (4) <br/>
 </td>
 <td align="center">
-<br/>79/622/ CEE remplacée par 2009/75/ CE <br/>
+<br/>2009/75/ CE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er janvier 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
 </td>
 </tr>
 <tr>
@@ -719,17 +553,11 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>(7) <br/>
 <br/>1er mai 2011 <br/>
-<br/>29 septembre 2011 <br/>
+<br/>29 septembre 2013 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>29 septembre 2012 <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
+<br/>29 septembre 2016 <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -750,17 +578,11 @@ T = ministère chargé des transports.
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>29 septembre 2011 <br/>
+<br/>29 septembre 2013 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>29 septembre 2012 <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>29 septembre 2016 <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -774,23 +596,18 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) (4) <br/>
+<br/>Dispositifs de protection en cas de renversement montés à l'arrière (tracteurs à voie étroite) <br/>
 </td>
 <td align="center">
-<br/>86/298/ CEE modifiée par 2010/22/ UE <br/>
+<br/>NA <br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
-<br/>1er mai 2011 <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -819,12 +636,6 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -849,12 +660,6 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -864,23 +669,18 @@ T = ministère chargé des transports.
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) (4) <br/>
+<br/>Dispositifs de protection en cas de renversement montés à l'avant (tracteurs à voie étroite) <br/>
+<br/>
 </td>
 <td align="center">
 <br/>87/402/ CEE modifiée par 2010/22/ UE <br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
-<br/>1er mai 2011 <br/>
+<br/>NA <br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -894,26 +694,19 @@ T = ministère chargé des transports.
 <br/>T <br/>
 </td>
 <td align="center">
-<br/>Dimensions et <br/>
-<br/>masse remorquable (5) <br/>
+<br/>Dimensions et masse <br/>
+<br/>remorquable (5) <br/>
 </td>
 <td align="center">
-<br/>Annexe I 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juin 2010 <br/>
-<br/>(9) <br/>
+<br/>Annexe I 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>(9) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -930,24 +723,15 @@ T = ministère chargé des transports.
 <br/>Vitres (2) (3) <br/>
 </td>
 <td align="center">
-<br/>Annexe III 89/173/ CEE modifiée par 2006/26/ CE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
+<br/>Annexe III 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2007 <br/>
-<br/>1er juin 2010 <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2009 <br/>
 <br/>(9) <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -964,22 +748,15 @@ T = ministère chargé des transports.
 <br/>Régulateur de vitesse (5) <br/>
 </td>
 <td align="center">
-<br/>Annexe II, 1 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juin 2010 <br/>
-<br/>(9) <br/>
+<br/>Annexe II, 1 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>(9) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -996,25 +773,15 @@ T = ministère chargé des transports.
 <br/>Protection des éléments moteurs et exigences de sécurité supplémentaires et manuel d'utilisation <br/>
 </td>
 <td align="center">
-<br/>Annexe II, 2,3 et 4 89/173/ CEE modifiée par 2006/26/ CE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
+<br/>Annexe II, 2,3 et 4 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
-<br/>
 <br/>(7) <br/>
-<br/>1er juillet 2007 <br/>
-<br/>1er juin 2010 <br/>
 <br/>2 septembre 2011 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>1er juillet 2009 <br/>
 <br/>2 septembre 2012 <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1031,22 +798,15 @@ T = ministère chargé des transports.
 <br/>Liaisons mécaniques <br/>
 </td>
 <td align="center">
-<br/>Annexe IV 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juin 2010 <br/>
-<br/>(9) <br/>
+<br/>Annexe IV 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>(9) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1063,22 +823,15 @@ T = ministère chargé des transports.
 <br/>Plaque réglementaire <br/>
 </td>
 <td align="center">
-<br/>Annexe V 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juin 2010 <br/>
-<br/>(9) <br/>
+<br/>Annexe V 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>(9) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1096,22 +849,15 @@ T = ministère chargé des transports.
 <br/>avec les remorques <br/>
 </td>
 <td align="center">
-<br/>Annexe VI 89/173/ CEE remplacée par 2009/144/ CE modifiée par 2010/52/ UE <br/>
-</td>
-<td align="center">
-<br/>(7) <br/>
-<br/>1er juin 2010 <br/>
-<br/>(9) <br/>
+<br/>Annexe VI 2009/144/ CE modifiée par 2010/52/ UE <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
 <br/>(9) <br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>(7) <br/>
+<br/>(9) <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1133,16 +879,9 @@ T = ministère chargé des transports.
 </td>
 <td align="center">
 <br/>(7) <br/>
-<br/>30 avril 2010 <br/>
 </td>
 <td align="center">
 <br/>(7) <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
 </td>
 <td align="center">
 <br/>X <br/>
@@ -1172,12 +911,6 @@ T = ministère chargé des transports.
 <td align="center">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
@@ -1187,40 +920,35 @@ T = ministère chargé des transports.
 <br/>T ou A <br/>
 </td>
 <td align="center">
-<br/>Points d'ancrage ceintures de sécurité (6) <br/>
+<br/>Points d'ancrage <br/>
+<br/>ceintures de sécurité <br/>
 </td>
 <td align="center">
-<br/>76/115/ CEE ou codes OCDE <br/>
+<br/>NA <br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
+<br/>
 </td>
 <td align="center">
-<br/>(7) <br/>
+<br/>
 </td>
 <td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td colspan="9">
+<td colspan="7">
 <br/>(1) En attendant l'adoption d'une directive sur les pneumatiques, l'absence d'une directive particulière sur ce point n'empêche pas l'octroi de la réception CE pour l'ensemble du véhicule. <br/>
 <br/>(2) Les directives particulières relatives aux  véhicules à moteurs  (dans leur dernière version en vigueur à la date de réception CE) peuvent être appliquées à la place des directives particulières correspondantes relatives aux tracteurs, conformément aux dispositions de la partie II. A du chapitre B de l'annexe II de la directive 2003/37/ CE. <br/>
 <br/>(3) Les règlements repris à l'annexe à l'accord révisé de 1958 et reconnus par la Communauté en tant que partie contractante dudit accord (dans leurs dernières versions à la date de la réception CE) peuvent être appliqués à la place des directives particulières correspondantes relatives aux tracteurs et de celles relatives aux  véhicules à moteur  visées par le renvoi (2) ci-dessus, conformément aux dispositions de la partie II. B du chapitre B de l'annexe II de la directive 2003/37/ CE. <br/>
 <br/>(4) Les bulletins d'essai (complets) conformes aux codes OCDE peuvent être utilisés à la place des procès verbaux d'essai réalisés conformément aux directives particulières correspondantes, conformément aux dispositions de la partie II. C du chapitre B de l'annexe II de la directive 2003/37/ CE. <br/>
 <br/>(5) Conformité facultative pour la réception CE de petite série, telle que définie à l'article 9 de la directive 2003/37/ CE et en nombre limité à la valeur fixée par l'annexe V de la directive 2003/37/ CE. <br/>
-<br/>(6) Si le constructeur se réfère à la directive 76/115/ CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture. <br/>
-<br/>(7) Voir dates de l'article 10 du présent arrêté. <br/>
+<br/>(6) <br/>
+<br/>(7) Voir dates de l'article 10 bis du présent arrêté. <br/>
 <br/>(8) Véhicule neuf mis en service ou vendu ou mis pour la première fois en circulation. <br/>
-<br/>(9) Pas d'évolution technique pour le domaine réglementé (système, entité ou composant) concerné. <br/>
-<br/>X = applicable en l'état suivant dernier amendement. <br/>
-<br/>- = Sans objet. <br/>
+<br/>(9) Pas d'évolution technique pour le domaine réglementé (système, entité ou composant) concerné <br/>
+<br/>X = Applicable en l'état suivant dernier amendement. <br/>
+<br/>- = Sans objet.<br/>
 </td>
 </tr>
 </tbody>

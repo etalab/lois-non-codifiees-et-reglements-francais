@@ -454,7 +454,6 @@
 - [Arrêté du 16 juillet 1998 (MCCB9800514A)](arrete-du-16-juillet-1998-mccb9800514a)
 - [Arrêté du 16 juillet 1998 (MENS9801964A)](arrete-du-16-juillet-1998-mens9801964a)
 - [Arrêté du 16 juillet 1998 (MESP9822329A)](arrete-du-16-juillet-1998-mesp9822329a)
-- [Arrêté du 16 juin 1998 (AGRD9801044A)](arrete-du-16-juin-1998-agrd9801044a)
 - [Arrêté du 16 juin 1998 (ECOM9840157A)](arrete-du-16-juin-1998-ecom9840157a)
 - [Arrêté du 16 juin 1998 (ECOM9840158A)](arrete-du-16-juin-1998-ecom9840158a)
 - [Arrêté du 16 juin 1998 (MESP9822065A)](arrete-du-16-juin-1998-mesp9822065a)
