@@ -4,21 +4,21 @@ Le jury, propre à chacun des concours, comprend :
 
 I. ― Pour les concours de recrutement aux grades de commissaire lieutenant et de commissaire capitaine :
 
-― un commissaire général, président ;
+- un commissaire général, président ;
 
-― le commissaire sous-directeur organisation ressources humaines de la direction centrale du commissariat de l'armée de terre (DCCAT) ou son représentant, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier ;
+- le commissaire sous-directeur organisation ressources humaines de la direction centrale du commissariat de l'armée de terre (DCCAT) ou son représentant, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier ;
 
-― deux commissaires officiers supérieurs, correcteurs des épreuves écrites et examinateurs des épreuves orales.
+- un commissaire, officier supérieur, de la direction centrale du service du commissariat des armées, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier.
 
 Participent également aux travaux du jury, avec voix consultative, un ou plusieurs professeurs de l'enseignement supérieur, désignés sur proposition du président du jury, pour la correction de certaines épreuves écrites et pour l'épreuve orale de langue vivante.
 
 II. ― Pour le concours de recrutement au grade de commissaire commandant et commissaire lieutenant-colonel :
 
-― un commissaire général, président ;
+- un commissaire général, président ;
 
-― le commissaire sous-directeur organisation ressources humaines de la DCCAT ou son représentant, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier ;
+- le commissaire sous-directeur organisation ressources humaines de la DCCAT ou son représentant, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier ;
 
-― deux commissaires colonels, correcteurs des épreuves écrites et examinateurs des épreuves orales.
+- un commissaire colonel de la direction centrale du service du commissariat des armées, vice-président, appelé à remplacer le président du jury en cas d'empêchement de ce dernier.
 
 Participent également aux travaux du jury, avec voix consultative, un ou plusieurs professeurs de l'enseignement supérieur, désignés sur proposition du président du jury, pour la correction de certaines épreuves écrites et pour l'épreuve orale de langue vivante.
 

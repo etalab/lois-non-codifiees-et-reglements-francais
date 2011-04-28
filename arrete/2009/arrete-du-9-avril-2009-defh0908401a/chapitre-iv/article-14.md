@@ -1,3 +1,3 @@
 # Article 14
 
-Les candidats, sur demande directement adressée à la direction centrale du commissariat de l'armée de terre, peuvent obtenir communication des notes qui leur ont été attribuées.
+Les candidats, sur demande directement adressée à la direction centrale du service du commissariat des armées, peuvent obtenir communication des notes qui leur ont été attribuées.

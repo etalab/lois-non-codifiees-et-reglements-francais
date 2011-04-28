@@ -4,7 +4,7 @@ Les concours sur épreuves comportent des épreuves écrites d'admissibilité et
 
 Chaque épreuve est notée de 0 à 20. Chaque note est affectée d'un coefficient et peut comporter des décimales. Les épreuves orales sont publiques.
 
-Les sujets des épreuves écrites sont préparés par le jury et soumis par le président du jury à l'avis du directeur central du commissariat de l'armée de terre. La préparation et la transmission de ces sujets sont effectuées dans des conditions garantissant le secret.
+Les sujets des épreuves écrites sont préparés par le jury et soumis par le président du jury à l'avis du directeur central du service du commissariat des armées. La préparation et la transmission de ces sujets sont effectuées dans des conditions garantissant le secret.
 
 Pour les corrections, les copies bénéficient de l'anonymat.
 
