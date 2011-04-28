@@ -6,9 +6,9 @@ Par dérogation à l'article 16, les équidés peuvent être identifiés, dans l
 
 -pour permettre une lecture visuelle, le repère comporte un numéro individuel et unique au plan national attribué par le fabricant. Ce numéro comprend la mention du code pays FR, le numéro d'agrément du fabricant ainsi qu'un numéro d'ordre à huit chiffres géré sous la responsabilité du fabricant ;
 
--avant leur sevrage ou au plus tard le 31 décembre de leur année de naissance et en tout état de cause avant leur mise en circulation ou leur transport, les équidés intégrés dans le cadre du projet pilote susmentionné sont soumis aux règles relatives à l'identification par la description de leurs marques naturelles telle que prévue au premier alinéa de l'article D. 212-51.
+-pour permettre une lecture électronique, le code du transpondeur électronique est établi conformément à l'article 6 de telle manière que le numéro d'ordre à huit chiffres soit celui inscrit sur le repère.
 
-L'apposition des repères auriculaires doit être réalisée dans un délai de huit jours à compter de la date de naissance de l'équidé par le naisseur tel que défini au premier alinéa de l'article D. 212-49.
+L'apposition des repères auriculaires doit être réalisée dans un délai de huit jours à compter de la date de naissance de l'équidé par le naisseur tel que défini au premier alinéa de l'article D. 212-49 du code rural et de la pêche maritime.
 
 Le cahier des charges relatif à la procédure de test concernant l'expérimentation de boutons auriculaires électroniques pour les équidés est annexé au présent arrêté et précise notamment :
 
@@ -30,6 +30,4 @@ Le cahier des charges relatif à la procédure de test concernant l'expérimenta
 
 -les documents utilisés dans le cadre de cette expérimentation.
 
-L'annexe du présent arrêté est publiée au Bulletin officiel et est disponible sur le site internet de l'établissement public l'Institut français du cheval et de l'équitation :  www. haras-nationaux. fr.
-
-La date limite de l'expérimentation est fixée au 31 juillet 2011.
+L'annexe du présent arrêté est publiée au Bulletin officiel et est disponible sur le site internet de l'établissement public Institut français du cheval et de l'équitation :  www. haras-nationaux. fr.
