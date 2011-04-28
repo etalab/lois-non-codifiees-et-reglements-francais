@@ -1,8 +1,8 @@
 # Article 1
 
-I. - Les représentants au conseil d'administration de la caisse d'amortissement de la dette sociale du ministre chargé de l'économie et des finances et du ministre chargé de la sécurité sociale, ainsi que leurs suppléants, sont nommés par décret sur proposition du ministre qu'ils représentent pour une durée de trois ans renouvelable.
+I. - Le président du conseil d'administration de la Caisse d'amortissement de la dette sociale est nommé par décret pris sur proposition conjointe du ministre chargé de l'économie et des finances, du ministre chargé de la sécurité sociale et du ministre chargé du budget pour une durée de trois ans renouvelable.
 
-Le président du conseil d'administration est nommé par décret pris sur proposition conjointe du ministre chargé de l'économie et des finances et du ministre chargé de la sécurité sociale pour une durée de trois ans renouvelable.
+Les représentants de l'Etat au conseil d'administration de la Caisse d'amortissement de la dette sociale, ainsi que leurs suppléants, sont nommés pour une durée de trois ans renouvelable.
 
 II. - Lorsque la durée restant à courir de la caisse d'amortissement de la dette sociale est inférieure à trois ans, les personnes mentionnées au I ci-dessus sont nommées pour cette durée.
 
