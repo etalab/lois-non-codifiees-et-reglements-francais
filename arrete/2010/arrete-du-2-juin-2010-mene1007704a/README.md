@@ -21,3 +21,5 @@
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
+- [Article Annexe I](article-annexe-i.md)
+- [Article Annexe II](article-annexe-ii.md)

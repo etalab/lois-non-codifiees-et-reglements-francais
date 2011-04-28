@@ -13,3 +13,7 @@ En classes de seconde, de première et terminale, les aménagements des enseigne
 ― d'une durée de quatre heures hebdomadaires ;
 
 ― dispensé en langue italienne.
+
+A compter de la rentrée 2011, les élèves de la série littéraire scolarisés dans une section Esabac suivent l'enseignement de littérature étrangère en langue étrangère dans une autre langue que la langue italienne.
+
+A compter de la rentrée 2012, les élèves de la série scientifique scolarisés dans une section Esabac ne sont pas autorisés à suivre l'enseignement facultatif d'histoire-géographie.

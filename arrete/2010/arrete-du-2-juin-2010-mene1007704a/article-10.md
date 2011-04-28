@@ -8,10 +8,12 @@ En vue de l'obtention du baccalauréat, la moyenne du candidat est établie selo
 
 ― la note attribuée à l'épreuve spécifique d'histoire-géographie en vue de l'obtention du baccalauréat est prise en compte au titre de la note d'histoire-géographie.
 
-A compter de la session 2013 de l'examen du baccalauréat général, dans le cadre de l'Esabac :
+A compter de la session 2013 de l'examen du baccalauréat général, les candidats de la série scientifique scolarisés dans une section Esabac :
 
-― les candidats de la série scientifique subissent l'épreuve spécifique d'histoire-géographie en fin de classe terminale. Sous réserve des dispositions du deuxième alinéa de l'article 9, ils ne subissent pas l'épreuve anticipée d'histoire-géographie, organisée à compter du mois de juin 2012 ;
+- ne subissent pas l'épreuve obligatoire anticipée d'histoire-géographie, organisée à compter du mois de juin 2012, à l'issue de la classe de première, mais subissent l'épreuve d'histoire-géographie à l'issue de la classe terminale ;
 
-― les candidats de la série scientifique ne sont pas autorisés à se présenter à l'épreuve facultative d'histoire-géographie ;
+- ne sont pas autorisés à se présenter à l'épreuve facultative d'histoire-géographie ;
 
-― les candidats de la série littéraire ne sont pas autorisés à subir, au titre de l'enseignement de spécialité, une épreuve de langue approfondie en langue italienne.
+- s'ils choisissent de ne pas se présenter au titre de l'Esabac, passent en fin de classe terminale l'épreuve obligatoire d'histoire-géographie telle qu'elle est prévue par les dispositions de l'arrêté du 15 septembre 1993 susvisé relatif aux épreuves anticipées du baccalauréat général et du baccalauréat technologique.
+
+A compter de la session 2013 de l'examen du baccalauréat général, les candidats au titre de l'Esabac dans la série littéraire subissent l'épreuve de littérature étrangère en langue étrangère dans une autre langue que la langue italienne.
