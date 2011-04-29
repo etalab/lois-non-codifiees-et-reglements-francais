@@ -197,7 +197,6 @@
 - [Arrêté du 9 février 2004 (AGRG0400407A)](arrete-du-9-fevrier-2004-agrg0400407a)
 - [Arrêté du 9 février 2004 (DEVP0430043A)](arrete-du-9-fevrier-2004-devp0430043a)
 - [Arrêté du 9 février 2004 (DOMA0400002A)](arrete-du-9-fevrier-2004-doma0400002a)
-- [Arrêté du 9 janvier 2004 (AGRP0400045A)](arrete-du-9-janvier-2004-agrp0400045a)
 - [Arrêté du 9 janvier 2004 (AGRP0400050A)](arrete-du-9-janvier-2004-agrp0400050a)
 - [Arrêté du 9 janvier 2004 (DEFP0400028A)](arrete-du-9-janvier-2004-defp0400028a)
 - [Arrêté du 9 janvier 2004 (DEFP0400029A)](arrete-du-9-janvier-2004-defp0400029a)
