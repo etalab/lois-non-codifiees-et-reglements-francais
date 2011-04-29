@@ -8,21 +8,21 @@ Liste des navires éligibles au PPS thon rouge.
 
 3. Le nombre total des navires éligibles au PPS thon rouge respecte le plafond de capacité fixé à l'annexe IV du règlement TAC et quotas 2011. Pour chacun des métiers, déduction faite des navires ayant bénéficié d'une sortie de flotte avec aide, le plafond est le suivant :
 
-― 17 PPS senneurs de Méditerranée ;
+17 PPS senneurs de Méditerranée ;
 
-― 77 PPS canneurs, ligneurs, palangriers de Méditerranée ;
+77 PPS canneurs, ligneurs, palangriers de Méditerranée ;
 
-― 70 PPS chalutiers de l'Atlantique ;
+70 PPS chalutiers de l'Atlantique ;
 
-― 29 PPS ligneurs de l'Atlantique ;
+29 PPS ligneurs de l'Atlantique ;
 
-― 8 PPS canneurs de l'Atlantique ;
+8 PPS canneurs de l'Atlantique ;
 
-― 8 PPS palangriers de l'Atlantique.
+8 PPS palangriers de l'Atlantique.
 
-En outre, le nombre total des navires éligibles au PPS thon rouge est conforme aux taux de capture annuels fixés par le comité scientifique de la CICTA, selon les termes du tableau suivant :
+En outre, le nombre total des navires éligibles aux permis de pêche spéciaux du thon rouge pour l'Atlantique et pour la pêche à la senne de surface en Méditerranée est conforme aux taux de capture annuels fixés par le comité scientifique de la CICTA, selon les termes du tableau suivant :
 
-Taux de captures annuels (TCA) définis par le comité scientifique de la CICTA
+Taux de capture annuels (TCA) définis par le comité scientifique de la CICTA
 
 <table>
 <tbody>
@@ -34,7 +34,7 @@ Taux de captures annuels (TCA) définis par le comité scientifique de la CICTA
 <br/>TAILLE NAVIRE<br/>
 <br/>(en mètres)<br/>
 </th>
-<th colspan="4">
+<th>
 <br/>TAUX DE CAPTURE ANNUEL<br/>
 <br/>du SCRS (en tonnes)<br/>
 </th>
@@ -137,7 +137,7 @@ Taux de captures annuels (TCA) définis par le comité scientifique de la CICTA
 <br/>Chalut<br/>
 </td>
 <td align="center">
-<br/>Sans objet<br/>
+<br/>sans objet<br/>
 </td>
 <td align="center">
 <br/>6<br/>
@@ -148,15 +148,15 @@ Taux de captures annuels (TCA) définis par le comité scientifique de la CICTA
 <br/>Ligne<br/>
 </td>
 <td align="center">
-<br/>Sans objet<br/>
+<br/>sans objet<br/>
 </td>
 <td align="center">
 <br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="6">
-<br/>(*) Source : rapport SCRS d'octobre 2009. TCA senneurs utilisés pour le calcul de la réduction de capacité.<br/>
+<td colspan="3">
+<br/>* Source : rapport SCRS d'octobre 2009. TCA senneurs utilisés pour le calcul de la réduction de capacité.<br/>
 </td>
 </tr>
 </tbody>
