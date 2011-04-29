@@ -403,7 +403,6 @@
 - [Décret n°2008-260 du 14 mars 2008 (ECEL0753288D)](decret-n2008-260-du-14-mars-2008-ecel0753288d)
 - [Décret n°2008-261 du 14 mars 2008 (ECEL0801539D)](decret-n2008-261-du-14-mars-2008-ecel0801539d)
 - [Décret n°2008-263 du 14 mars 2008 (MENJ0756122D)](decret-n2008-263-du-14-mars-2008-menj0756122d)
-- [Décret n°2008-335 du 14 avril 2008 (PRMX0801147D)](decret-n2008-335-du-14-avril-2008-prmx0801147d)
 - [Décret n°2008-336 du 14 avril 2008 (ECEL0806265D)](decret-n2008-336-du-14-avril-2008-ecel0806265d)
 - [Décret n°2008-338 du 14 avril 2008 (DEVB0801159D)](decret-n2008-338-du-14-avril-2008-devb0801159d)
 - [Décret n°2008-339 du 14 avril 2008 (IOCB0760588D)](decret-n2008-339-du-14-avril-2008-iocb0760588d)
