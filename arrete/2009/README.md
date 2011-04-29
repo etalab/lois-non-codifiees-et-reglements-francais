@@ -1917,7 +1917,6 @@
 - [Arrêté du 22 juin 2009 (IOCA0913474A)](arrete-du-22-juin-2009-ioca0913474a)
 - [Arrêté du 22 juin 2009 (IOCA0914195A)](arrete-du-22-juin-2009-ioca0914195a)
 - [Arrêté du 22 juin 2009 (IOCF0913426A)](arrete-du-22-juin-2009-iocf0913426a)
-- [Arrêté du 22 juin 2009 (JUSA0914355A)](arrete-du-22-juin-2009-jusa0914355a)
 - [Arrêté du 22 juin 2009 (MTST0914168A)](arrete-du-22-juin-2009-mtst0914168a)
 - [Arrêté du 22 juin 2009 (SASF0914598A)](arrete-du-22-juin-2009-sasf0914598a)
 - [Arrêté du 22 juin 2009 (SASF0914604A)](arrete-du-22-juin-2009-sasf0914604a)
