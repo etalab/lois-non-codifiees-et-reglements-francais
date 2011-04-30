@@ -2,15 +2,55 @@
 
 En application de l'article 3 du décret du 17 septembre 2008 susvisé, les emplois dont la liste suit constituent des emplois de chef de mission :
 
-- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux ;
+- adjoint au chef du pôle maîtrise des aléas technologiques de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (1er février 2011) ;
 
-- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès ;
-
-- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai ;
-
-- directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes ;
+- adjoint au directeur, chef du service transports routiers et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
 
 - adjoint au directeur des centrales nucléaires à l'Autorité de sûreté nucléaire ;
+
+- adjoint au chef de la division installations nucléaires, chargé des réacteurs à eau sous-pression au sein de l'Autorité de sûreté nucléaire d'Orléans ;
+
+- adjoint au chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- adjoint au chef de la mission de l'action régionale, en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- adjoint au directeur de la direction des équipements sous pression nucléaire à l'Autorité de sûreté nucléaire ;
+
+- adjoint au chef du bureau de la qualité de l'air à la direction générale de l'énergie et du climat ;
+
+- adjoint au chef du bureau de la sécurité des équipements industriels à la direction générale de la prévention des risques ;
+
+- adjoint au directeur de la recherche de l'Ecole des mines de Douai ;
+
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin (A compter du 4 janvier 2010) ;
+
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin, plus particulièrement chargé des domaines énergie, risques et après-mines, notamment uranium (A compter du 1er octobre 2010) ;
+
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Corse ;
+
+- adjoint au chef du bureau de la réglementation, du pilotage de l'inspection et des contrôles, et de la qualité, responsable du pôle contrôles techniques de sécurité à la direction générale de la prévention des risques ;
+
+- adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques ;
+
+- adjoint au chef du bureau de la gestion des corps techniques à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+
+- adjoint au chef du service risques naturels et technologiques, chef de l'unité risques technologiques chroniques de la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon (A compter du 4 janvier 2010) ;
+
+- adjoint au directeur de la direction des centrales nucléaires de l'Autorité de sûreté nucléaire ;
+
+- adjoint au directeur de la direction des équipements sous pression nucléaires de l'Autorité de sûreté nucléaire ;
+
+- adjoint au chef de la division de Caen de l'Autorité de sûreté nucléaire ;
+
+- adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
+
+- chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Franche-Comté, chargé de l'environnement industriel et des risques (A compter du 23 juillet 2010).
+
+- chargé de mission auprès du directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France (supprimé au 1er août 2011) ;
 
 - chef de la division de Châlons-en-Champagne à l'Autorité de sûreté nucléaire ;
 
@@ -18,21 +58,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de la division de Nantes à l'Autorité de sûreté nucléaire ;
 
-- adjoint au chef de la division installations nucléaires, chargé des réacteurs à eau sous-pression au sein de l'Autorité de sûreté nucléaire d'Orléans ;
-
-- adjoint au chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services ;
-
 - chef du bureau "matériel de transport" à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services ;
-
-- adjoint au chef de la mission de l'action régionale, en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services ;
-
 - chef de la mission du contrôle de gestion et des audits au sein du secrétariat général de la direction générale de la compétitivité, de l'industrie et des services ;
-
-- adjoint au chef du bureau de la gestion des corps techniques à la direction générale de la compétitivité, de l'industrie et des services ;
-
-- responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services ;
 
 - chef du bureau des ressources minérales de la direction générale de l'aménagement, du logement et de la nature ;
 
@@ -40,21 +68,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
 
-- adjoint au chef du bureau de la qualité de l'air à la direction générale de l'énergie et du climat ;
-
-- adjoint au chef du bureau de la sécurité des équipements industriels à la direction générale de la prévention des risques ;
-
-- adjoint au chef du bureau de la réglementation, du pilotage de l'inspection et des contrôles, et de la qualité, responsable du pôle contrôles techniques de sécurité à la direction générale de la prévention des risques ;
-
 - chef du bureau des affaires générales et des systèmes d'information à la direction générale de la prévention des risques ;
-
-- adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques ;
 
 - chef du bureau d'analyses des risques et pollutions industriels à la direction générale de la prévention des risques ;
 
 - chef du bureau de l'action territoriale à la direction générale de la prévention des risques ;
-
-- directeur adjoint de la direction de la planification du spectre et des affaires internationales à l'Agence nationale des fréquences ;
 
 - chef de l'unité territoriale du Bas-Rhin à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
 
@@ -62,15 +80,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef du service énergie, climat, logement et aménagement à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
 
-- directeur régional de l'environnement de l'aménagement et du logement d'Antilles-Guyane ;
-
 - chef de la division environnement, énergie et techniques industrielles à la direction régionale de l'environnement, de l'aménagement et du logement d'Antilles-Guyane ;
 
 - chef de l'unité territoriale de la Gironde de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
 
 - chef du pôle interrégional risques accidentels de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine (A compter du 1er juin 2010) ;
-
-- secrétaire générale de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
 
 - chef de l'unité territoriale des Pyrénées-Atlantiques de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
 
@@ -96,12 +110,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale Aube - Haute-Marne à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
 
-- secrétaire général et chef du pôle de service intégré (PSI) à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
-
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Corse ;
-
-- chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Franche-Comté, chargé de l'environnement industriel et des risques (A compter du 23 juillet 2010).
-
 - chef du service logement, bâtiment, énergie de la direction régionale de l'environnement, de l'aménagement et du logement de Franche-Comté ;
 
 - chef de l'unité territoriale du Havre à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
@@ -110,41 +118,21 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de projet certification et chargé de mission défense et sécurité de la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- responsable du bureau des risques technologiques accidentels, adjoint au chef de service à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
-
 - chef du service énergie-climat-logement-aménagement durable et du bureau énergie-climat à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
-
-- responsable de l'unité territoriale des Yvelines de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
-
-- responsable de l'unité territoriale de Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
-
 - chef du centre national de réception des véhicules à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
-
-- responsable de l'unité territoriale du Val-d'Oise de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
-
-- responsable de l'unité territoriale de l'Essonne à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
 
 - chef de l'unité territoriale de Moselle à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
 - chef de l'unité territoriale de Meurthe-et-Moselle - Meuse à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
-- secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
-
 - chef du service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
 - chef de la division risques technologiques et industriels au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
-- responsable de la mission pilotage stratégique et performance à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
-
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
-
 - chef de l'unité territoriale de la Haute-Garonne à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
 - chef de l'unité territoriale du Tarn et de l'Aveyron à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
-
-- adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
 - secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
@@ -156,13 +144,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale du littoral à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
-
 - chef du service transports et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
 - chef de l'unité territoriale de Nantes à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
-
-- adjoint au directeur, chef du service transports routiers et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
 
 - chef de l'unité territoriale de l'Oise à la direction régionale de l'environnement, de l'aménagement et du logement de Picardie ;
 
@@ -172,11 +156,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
-
 - chef de la mission pilotage information crédits de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
-
-- directeur régional de l'environnement de l'aménagement et du logement de la Réunion ;
 
 - chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
@@ -198,51 +178,27 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef du bureau de la réglementation, du pilotage de l'inspection, des contrôles et de la qualité, chargé du pôle " installations classées " à la direction générale de la prévention des risques ;
 
-- adjoint au directeur de la direction des équipements sous pression nucléaire à l'Autorité de sûreté nucléaire ;
-
 - chef du bureau de la chimie de la sous-direction de l'industrie de santé, de la chimie et des nouveaux matériaux à la direction générale de la compétitivité, de l'industrie et des services (à compter du 1er février 2010) ;
 
 - chef du service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Franche-Comté (à compter du 23 juillet 2010) ;
 
 - chef du département compétitivité à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Rhône-Alpes (à compter du 1er novembre 2010) ;
 
-- adjoint au chef du service risques naturels et technologiques, chef de l'unité risques technologiques chroniques de la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon (A compter du 4 janvier 2010) ;
-
 - chef du service prévention des pollutions, des risques et du contrôle des transports de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin (A compter du 4 janvier 2010) ;
 
 - chef du service valorisation et protection des ressources et du patrimoine naturel de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin (A compter du 4 janvier 2010) ;
-
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin, plus particulièrement chargé des domaines énergie, risques et après-mines, notamment uranium (A compter du 1er octobre 2010) ;
 
 - chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne (A compter du 15 février 2010) ;
 
 - chef du service appui au développement et à la pérennisation des entreprises et des emplois au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin (A compter du 15 février 2010) ;
 
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin (A compter du 4 janvier 2010) ;
-
-- chef de l'unité des risques technologiques accidentels de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er février 2010) ;
-
 - chef du pôle sous-sol de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er février 2010) ;
-
-- adjoint au directeur de la recherche de l'Ecole des mines de Douai ;
-
-- secrétaire général de l'Autorité de sûreté nucléaire ;
-
-- responsable de la mission expertise et animation de l'Autorité de sûreté nucléaire ;
-
-- adjoint au directeur de la direction des centrales nucléaires de l'Autorité de sûreté nucléaire ;
-
-- adjoint au directeur de la direction des équipements sous pression nucléaires de l'Autorité de sûreté nucléaire ;
-
-- adjoint au chef de la division de Caen de l'Autorité de sûreté nucléaire ;
 
 - chef du bureau de l'industrie pétrolière et nouveaux produits énergétiques à la direction générale de l'énergie et du climat ;
 
 - chef du service interventions sectorielles de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace ;
 
 - chef du service développement des entreprises et des compétences au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Aquitaine ;
-
-- secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne ;
 
 - chef du service compétitivité, innovation et international au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Franche-Comté ;
 
@@ -258,10 +214,54 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale d'Angers de la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
-
 - chef du pôle entreprise, emploi et économie à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie (A compter du 15 février 2010) ;
 
-- chargé de mission auprès du directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France (supprimé au 1er août 2011) ;
-
 - chef du service compétitivité et compétences des entreprises, développement international, adjoint au chef du pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Picardie ;
+
+- directeur adjoint de la direction de la planification du spectre et des affaires internationales à l'Agence nationale des fréquences ;
+
+- directeur régional de l'environnement de l'aménagement et du logement de la Réunion ;
+
+- directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes ;
+
+- directeur régional de l'environnement de l'aménagement et du logement d'Antilles-Guyane ;
+
+- responsable du bureau des risques technologiques accidentels, adjoint au chef de service à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+
+- responsable de la mission pilotage stratégique et performance à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
+
+- responsable de la mission expertise et animation de l'Autorité de sûreté nucléaire ;
+
+- responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- responsable de l'unité territoriale du Val-d'Oise de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+
+- responsable de l'unité territoriale de l'Essonne à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+
+- responsable de l'unité territoriale des Yvelines de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+
+- responsable de l'unité territoriale de Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+
+- secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+
+- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+
+- secrétaire général et chef du pôle de service intégré (PSI) à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
+
+- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
+
+- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux ;
+
+- secrétaire générale de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
+
+- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès ;
+
+- secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai ;
+
+- secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
+
+- secrétaire général de l'Autorité de sûreté nucléaire ;
+
+- secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne ;
+
+- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes.
