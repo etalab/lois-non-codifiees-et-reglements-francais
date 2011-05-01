@@ -2,7 +2,7 @@
 
 1.1. L'obtention de l'option " côtière " du permis de conduire des bateaux de plaisance à moteur est subordonnée au passage d'une épreuve théorique basée sur un questionnaire à choix multiple et à la validation par un établissement de formation agréé de la formation pratique suivie par le candidat.
 
-L'épreuve théorique comporte vingt-cinq questions ; quatre erreurs sont admises.
+L'épreuve théorique comporte trente questions ; cinq erreurs sont admises.
 
 Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pendant dix-huit mois.
 
@@ -22,13 +22,13 @@ Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pend
 
 - la réglementation relative au titre de conduite des bateaux de plaisance à moteur ;
 
-- l'organisation du sauvetage en mer ; notions élémentaires sur les moyens de communications radiomaritimes embarqués ;
+- connaissances élémentaires du service mobile maritime, du système mondial de détresse et de sécurité en mer (SMSDM) et du bon usage d'une station radioélectrique fonctionnant dans la gamme des ondes métriques (VHF) : fréquences, voies, alphabet phonétique et notions de langue anglaise de base pour son utilisation ; Maritime Mobile Service Identity (numéro MMSI) et appel sélectif numérique (ASN), zones du système mondial de détresse et de sécurité en mer (SMDSM) ; communications liées à la détresse et à la sécurité, protection des fréquences de détresse ; l'organisation du sauvetage en mer ;
 
 - les règles de la pratique du ski nautique et des engins tractés ; la responsabilité du chef de bord et ses conséquences juridiques ;
 
 - des notions d'autonomie en matière de carburant ;
 
-- la protection de l'environnement : les rejets, l'équipement sanitaire des navires habitables, les peintures antisalissures ; la protection de la ressource halieutique : interdiction de vente, de colportage et d'achat du poisson provenant de la pêche de loisir, réglementation de la pêche sous-marine ;
+- la protection de l'environnement : les rejets, l'équipement sanitaire des navires habitables, les peintures antisalissures ; la protection de la ressource halieutique : interdiction de vente, de colportage et d'achat du poisson provenant de la pêche de loisir, réglementation de la pêche sous-marine, protection de la faune et de la flore ;
 
 - la météorologie : savoir se procurer les prévisions ; connaître l'échelle anémométrique Beaufort et l'état de la mer ;
 

@@ -27,3 +27,5 @@ d) Une photocopie de la décision écrite nommant responsable de formation un de
 -une photocopie des autorisations d'enseigner des formateurs de l'établissement et la justification de leur lien social ou de subordination avec l'établissement.
 
 9.4. Lorsque l'ensemble des conditions requises est rempli, une décision d'agrément dont le modèle figure en annexe IV du présent arrêté est délivrée à l'établissement.
+
+9.5. Lors d'une suspension temporaire d'agrément, l'établissement doit afficher, de manière lisible de l'extérieur de ses locaux et pendant toute la durée de cette suspension, la décision du service instructeur.

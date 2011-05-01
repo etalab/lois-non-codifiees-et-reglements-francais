@@ -2,7 +2,7 @@
 
 2.1. L'obtention de l'option " eaux intérieures " du titre de conduite des bateaux de plaisance à moteur est subordonnée au passage d'une épreuve théorique basée sur un questionnaire à choix multiple et à la validation par un établissement de formation agréé de la formation pratique suivie par le candidat.
 
-L'épreuve théorique comporte vingt-cinq questions ; quatre erreurs sont admises.
+L'épreuve théorique comporte trente questions ; cinq erreurs sont admises.
 
 Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pendant dix-huit mois.
 
@@ -34,4 +34,8 @@ Le candidat conserve le bénéfice de la réussite à l'épreuve théorique pend
 
 - la réglementation relative au titre de conduite des bateaux de plaisance à moteur ;
 
-- le nombre de personnes ou la charge embarquées.
+- le nombre de personnes ou la charge embarquées ;
+
+- la protection de l'environnement : l'entretien du navire, les rejets, la protection des berges, de la faune et de la flore ;
+
+- connaissances élémentaires du service radiotéléphonique fluvial, de ses spécificités et du bon usage d'une station radioélectrique fonctionnant dans la gamme des ondes métriques (VHF) : réseaux du service radiotéléphonique fluvial, fréquences et voies ; code ATIS (Automatic Transmitter Identification System), réglementation spécifique ; communications liées à la détresse et à la sécurité, protection des fréquences de détresse.

@@ -9,3 +9,5 @@ Les candidats non fonctionnaires au titre d'examinateur doivent fournir, outre l
 Les examinateurs ne peuvent exercer leur fonction qu'aux lieux, dates et horaires fixés par l'autorité organisant l'examen. Ils ne peuvent exercer la fonction de formateur au titre de conduite des bateaux de plaisance à moteur dans un établissement agréé.
 
 18.2. Les responsables des salles d'examens, pour l'épreuve théorique des options " côtière " ou " eaux intérieures ", sont désignés parmi les agents publics des services déconcentrés des ministères chargés de la mer et des transports, par le service instructeur compétent.
+
+18.3. Le service instructeur peut organiser à titre exceptionnel des sessions d'examen en langues étrangères pour les candidats aux épreuves théoriques pour l'obtention de l'option "côtière" ou de l'option "eaux intérieures". Les modalités pratiques de l'organisation de ces sessions font l'objet d'une instruction spécifique.

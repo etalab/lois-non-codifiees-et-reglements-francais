@@ -4,7 +4,7 @@
 
 a) Une demande d'inscription selon un modèle défini ;
 
-b) Une photographie d'identité ;
+b) Une photographie d'identité en couleurs ;
 
 c) Un timbre fiscal correspondant au droit d'inscription ;
 
@@ -22,7 +22,7 @@ Pour l'inscription à l'option " eaux intérieures ", si le demandeur est déjà
 
 a) Une demande d'inscription selon un modèle défini ;
 
-b) Une photographie d'identité, sauf si le demandeur est titulaire de l'option " côtière " ou " eaux intérieures " depuis moins de dix ans ;
+b) Une photographie d'identité en couleurs, sauf si le demandeur est titulaire de l'option " côtière " ou " eaux intérieures " depuis moins de dix ans ;
 
 c) Un timbre fiscal correspondant au droit d'inscription ;
 
