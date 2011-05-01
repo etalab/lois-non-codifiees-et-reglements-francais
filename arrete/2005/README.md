@@ -481,8 +481,6 @@
 - [Arrêté du 23 août 2005 (AGRG0502001A)](arrete-du-23-aout-2005-agrg0502001a)
 - [Arrêté du 23 août 2005 (DEVP0540337A)](arrete-du-23-aout-2005-devp0540337a)
 - [Arrêté du 23 décembre 2004 (SANS0424368A)](arrete-du-23-decembre-2004-sans0424368a)
-- [Arrêté du 23 décembre 2005 (AGRF0502778A)](arrete-du-23-decembre-2005-agrf0502778a)
-- [Arrêté du 23 décembre 2005 (AGRF0502779A)](arrete-du-23-decembre-2005-agrf0502779a)
 - [Arrêté du 23 décembre 2005 (AGRG0502889A)](arrete-du-23-decembre-2005-agrg0502889a)
 - [Arrêté du 23 décembre 2005 (AGRG0502890A)](arrete-du-23-decembre-2005-agrg0502890a)
 - [Arrêté du 23 décembre 2005 (INTC0500886A)](arrete-du-23-decembre-2005-intc0500886a)
