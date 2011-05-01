@@ -4,3 +4,5 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Détachement.](chapitre-iv)
+- [Chapitre V : Dispositions transitoires.](chapitre-v)
+- [Chapitre VI : Dispositions diverses.](chapitre-vi)

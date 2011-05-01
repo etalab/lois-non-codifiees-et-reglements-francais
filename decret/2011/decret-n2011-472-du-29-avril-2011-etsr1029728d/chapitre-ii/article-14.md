@@ -1,0 +1,3 @@
+# Article 14
+
+Les inspecteurs principaux de 2e classe reclassés, en application de l'article 28 du décret du 24 décembre 2002 susvisé, au 1er et au 2e échelon provisoires du grade d'inspecteur principal bénéficient, à la date d'entrée en vigueur du présent décret, d'une ancienneté bonifiée de deux ans qui se cumule avec l'ancienneté acquise dans l'échelon détenu à cette date. Compte tenu de l'ancienneté ainsi calculée, la bonification accordée au titre du présent article donne éventuellement lieu à un avancement à l'échelon immédiatement supérieur. La part de l'ancienneté non utilisée à l'occasion de cet avancement est reportée dans le nouvel échelon.

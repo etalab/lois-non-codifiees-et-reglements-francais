@@ -83,3 +83,7 @@ Psychiatrie.
 Santé publique
 
 Santé publique et médecine sociale.
+
+Spécialité chirurgie orale
+
+Chirurgie orale.

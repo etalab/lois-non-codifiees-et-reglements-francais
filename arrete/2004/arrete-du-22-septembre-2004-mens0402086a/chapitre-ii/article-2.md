@@ -1,3 +1,3 @@
 # Article 2
 
-Le contenu de chaque diplôme d'études spécialisées est précisé dans une maquette annexée au présent arrêté. Celle-ci définit la durée de la formation, le programme des enseignements théoriques et les stages de formation pratique.
+Le contenu de chaque diplôme d'études spécialisées est précisé dans une maquette annexée au présent arrêté. Celle-ci définit, conformément aux dispositions de l'article 13 du décret du 16 janvier 2004 susvisé, le temps de préparation, le programme des enseignements, la durée et la nature des fonctions pratiques qui doivent être effectuées ainsi que les règles de validation de la formation. Pour la chirurgie orale, formation commune à la médecine et à l'odontologie, la maquette de formation figure en annexe de l'arrêté fixant la liste des formations qualifiantes et la réglementation des diplômes d'études spécialisées en odontologie.

@@ -1,3 +1,9 @@
 # Article 7
 
-La préparation de chaque diplôme d'études spécialisées ou de chacune des options d'un tel diplôme est placée sous la responsabilité d'un enseignant chargé de coordonner l'organisation des enseignements théoriques et pratiques de chaque diplôme d'études spécialisées dans l'interrégion. Il est désigné pour une durée de trois ans, renouvelable une fois consécutivement, sur présentation d'un projet pédagogique de formation, par les directeurs des unités de formation et de recherche de médecine de l'interrégion ou les présidents des comités de coordination des études médicales, après avis des conseils des unités de formation et de recherche concernées ainsi que des enseignants de la spécialité.
+Conformément aux dispositions de l'article 23 du décret du 16 janvier 2004, la commission interrégionale de coordination regroupe les coordonnateurs locaux de la spécialité.
+
+Ceux-ci sont nommés, pour une durée de trois ans renouvelable, par le directeur ou les directeurs de la ou des unités de formation et de recherche de médecine de la subdivision, parmi les enseignants de la spécialité du diplôme concerné.
+
+Les coordonnateurs locaux sont chargés, dans les conditions prévues à l'article 23 du décret du 16 janvier 2004 susvisé, de donner un avis au directeur d'UFR sur le déroulement des études dans chaque subdivision.
+
+Le coordonnateur interrégional, président de la commission interrégionale de coordination du diplôme, est élu par et parmi les coordonnateurs locaux de la spécialité, pour une durée de trois ans, immédiatement renouvelable une fois.

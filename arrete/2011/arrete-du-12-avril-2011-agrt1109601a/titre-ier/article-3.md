@@ -1,0 +1,5 @@
+# Article 3
+
+Les animaux reproducteurs mâles en provenance d'un Etat membre de l'Union européenne ou d'un pays tiers peuvent être admis à la monte publique artificielle, dès lors, d'une part, qu'ils satisfont aux conditions zootechniques et généalogiques fixées, selon les espèces, par les directives 77/504/CEE, 87/328/CEE, 89/361/CEE ou 94/28/CEE et par la décision 90/257CEE susvisées et, d'autre part, que les méthodes de contrôle de leurs performances et d'appréciation de leur valeur génétique réalisés dans l'Etat membre sont conformes, selon les espèces, aux décisions 90/256/CEE ou 2006/427/CE susvisées.
+
+Les importateurs, dûment identifiés, agissant pour leur compte ou celui d'un tiers, sont tenus de déclarer lesdits reproducteurs auprès de l'institut technique en charge des ruminants et de produire toutes les pièces nécessaires à la vérification de leur conformité aux dispositions réglementaires mentionnées au premier paragraphe, avant toute mise sur le marché de leur semence sur le territoire national. Les organismes de sélection concernés peuvent être consultés sur les conditions généalogiques requises.

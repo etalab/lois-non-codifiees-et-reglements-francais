@@ -1,0 +1,5 @@
+# Article 16
+
+I. ― Les tableaux d'avancement aux grades de chef de service de police municipale de classe supérieure et de chef de service de police de classe exceptionnelle, établis au titre de l'année où est prononcée l'intégration dans le présent cadre d'emplois, demeurent valables jusqu'au 31 décembre de ladite année, au titre du cadre d'emplois d'intégration, respectivement aux grades de chef de service de police municipale principal de 2e classe et de chef de service de police municipale principal de 1re classe.
+
+II. ― Les agents promus en application du I sont classés dans les grades d'avancement du présent cadre d'emplois en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien cadre d'emplois jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce cadre d'emplois en application des dispositions du chapitre IV du décret n° 2000-43 du 20 janvier 2000 portant statut particulier du cadre d'emplois des chefs de service de police municipale, et enfin reclassés à cette même date dans leur cadre d'emplois d'intégration en application des dispositions de l'article 11 du présent décret.

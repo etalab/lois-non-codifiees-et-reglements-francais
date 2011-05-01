@@ -1,0 +1,3 @@
+# Article 6
+
+En application du troisième alinéa de l'article 3 du décret n° 53-707 du 9 août 1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre économique ou social, les ministres chargés de l'économie et du budget établissent les critères déterminant la rémunération des personnes mentionnées à cet alinéa. Sur la base de ces critères, après vérification de leur respect par le comité des rémunérations de la société anonyme OSEO et sur avis du commissaire du Gouvernement, ces ministres fixent chaque année le niveau exact de cette rémunération.

@@ -1,0 +1,3 @@
+# Article 14
+
+Les fonctionnaires inscrits sur une liste d'aptitude ou ayant satisfait aux épreuves d'un examen professionnel pour l'accès au cadre d'emplois régi par le décret n° 2000-43 du 20 janvier 2000 portant statut particulier du cadre d'emplois des chefs de service de police municipale, au titre de l'article 39 de la loi du 26 janvier 1984 susvisée, ont la possibilité d'être nommés dans le grade de chef de service de police municipale du cadre d'emplois d'intégration à condition, s'agissant de l'examen professionnel, qu'il ait été ouvert avant la date d'entrée en vigueur du présent décret, au plus tard, au titre de la présente année.

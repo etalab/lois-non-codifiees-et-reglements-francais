@@ -1,0 +1,3 @@
+# Article 1
+
+L'autorité chargée du contrôle économique et financier de l'Etat et des pouvoirs de commissaire du Gouvernement au titre des article D. 615-1 à D. 615-8 du code monétaire et financier, ci-après dénommée « le commissaire du Gouvernement », sur l'établissement public OSEO et sur les sociétés dans lesquelles il détient séparément ou conjointement avec l'Etat, directement ou indirectement, plus de la moitié du capital social ou des droits de vote à l'assemblée générale, exerce une mission générale de surveillance de l'activité économique et de la gestion financière de ces entreprises et organismes, dont elle analyse les risques et évalue les performances, en veillant aux intérêts patrimoniaux et financiers de l'Etat.

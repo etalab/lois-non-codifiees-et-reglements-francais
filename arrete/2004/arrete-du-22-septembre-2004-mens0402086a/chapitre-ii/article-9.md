@@ -1,3 +1,3 @@
 # Article 9
 
-Pour la préparation de chaque diplôme d'études spécialisées, l'enseignant coordonnateur est assisté d'une commission interrégionale de coordination et d'évaluation. Pour le diplôme d'études spécialisées de médecine générale, l'enseignant coordonnateur est assisté, dans chaque unité de formation et de recherche médicale de la subdivision, soit par un département de médecine générale créé par l'université dans les conditions prévues à l'article L. 713-3 du code de l'éducation, soit par une commission de coordination et d'évaluation du diplôme d'études spécialisées de médecine générale.
+Le directeur de l'unité de formation et de recherche dont relève l'interne est chargé de vérifier le respect, par celui-ci, de la maquette de formation du diplôme d'études spécialisées qu'il postule. A ce titre, il veille notamment, en relation avec le coordonnateur interrégional du diplôme, au respect des stages obligatoires qui y sont prévus.
