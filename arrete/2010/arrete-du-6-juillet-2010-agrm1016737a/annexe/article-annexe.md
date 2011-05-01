@@ -1,866 +1,1340 @@
 # Article Annexe
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>SIÈGE<br/>de la commission<br/>
-</th>
-<th colspan="2">ÉTENDUE DE LA CIRCONSCRIPTION<br/>
-</th>
-<th colspan="2">DÉLÉGUÉS<br/>des exploitants<br/>en conchyliculture<br/>
-</th>
-<th>DÉLÉGUÉS<br/>des exploitants<br/>de cultures<br/>marines autres<br/>que la<br/>conchyliculture<br/>
-</th>
-<th colspan="2">FORMATION COMMUNE<br/>des exploitations<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th>Départements<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>Huîtres<br/>
-</th>
-<th>Moules<br/>et autres<br/>coquillages<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>Conchyliculture<br/>
-</th>
-<th>Autres<br/>cultures marines<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Boulogne<br/>
+<td align="left" rowspan="2" valign="top">
+<p align="center">SIÈGE<br/>de la commission<br/>
+</p>
 </td>
-<td align="center">Nord<br/>
+<td align="left" colspan="2" valign="top">
+<p align="center">ÉTENDUE DE LA CIRCONSCRIPTION</p>
 </td>
-<td align="center">Dunkerque<br/>
+<td align="left" colspan="2" valign="top">
+<p align="center">DÉLÉGUÉS<br/>des exploitants<br/>en conchyliculture</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" rowspan="2" valign="top">
+<p align="center">DÉLÉGUÉS<br/>des exploitants<br/>de cultures<br/>marines autres<br/>que la<br/>conchyliculture</p>
 </td>
-<td align="center">1<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">
-<br/>
+<td align="left" colspan="2" valign="top">
+<p align="center">FORMATION COMMUNE<br/>des exploitations</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">Départements</p>
+</td>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">Pas-de-Calais<br/>
+<td align="left" valign="top">
+<p align="center">Huîtres<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">Moules<br/>et autres<br/>coquillages</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">Conchyliculture<br/>
+</p>
 </td>
-<td align="center">4<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Somme<br/>
-</td>
-<td align="center">Boulogne<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">Autres<br/>cultures marines</p>
 </td>
 </tr>
 <tr>
-<td align="center">Caen<br/>
+<td align="left" valign="top">
+<p align="left">Boulogne<br/>
+</p>
 </td>
-<td align="center">Seine-Maritime<br/>
+<td align="left" valign="top">
+<p align="left">Nord<br/>
+</p>
 </td>
-<td align="center">Dieppe<br/>
+<td align="left" valign="top">
+<p align="left">Dunkerque<br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Fécamp<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Pas-de-Calais<br/>
+</p>
+</td>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Le Havre<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Calvados<br/>
-</td>
-<td align="center">Caen<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">
-<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Cherbourg<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Somme<br/>
+</p>
 </td>
-<td align="center">Manche<br/>
+<td align="left" valign="top">
+<p align="left">Boulogne<br/>
+</p>
 </td>
-<td align="center">Cherbourg<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">7<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-</tr>
-<tr>
-<td align="center">Saint-Malo<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">Ille-et-Vilaine<br/>
-</td>
-<td align="center">Saint-Malo<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Brieuc<br/>
+<td align="left" valign="top">
+<p align="left">Caen<br/>
+</p>
 </td>
-<td align="center">Côtes-d'Armor<br/>
+<td align="left" valign="top">
+<p align="left">Seine-Maritime<br/>
+</p>
 </td>
-<td align="center">Saint-Brieuc<br/>
+<td align="left" valign="top">
+<p align="left">Dieppe<br/>
+</p>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Fécamp<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Paimpol<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Brest<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
 </td>
-<td align="center">Finistère Nord<br/>
+<td align="left" valign="top">
+<p align="left">Le Havre<br/>
+</p>
 </td>
-<td align="center">Morlaix<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">3<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Calvados<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Caen<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">7<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">7<br/>
+</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cherbourg<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Manche<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cherbourg<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Brest<br/>
+<td align="left" valign="top">
+<p align="center">7<br/>
+</p>
 </td>
-<td align="center">3<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Concarneau<br/>
+<td align="left" valign="top">
+<p align="left">Saint-Malo<br/>
+</p>
 </td>
-<td align="center">Finistère Sud<br/>
+<td align="left" valign="top">
+<p align="left">Ille-et-Vilaine<br/>
+</p>
 </td>
-<td align="center">Douarnenez<br/>
+<td align="left" valign="top">
+<p align="left">Saint-Malo<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">8<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
 </td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Audierne<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Saint-Brieuc<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Côtes-d'Armor<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Saint-Brieuc<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le Guilvinec<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Paimpol<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Concarneau<br/>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">1<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Vannes<br/>
+<td align="left" valign="top">
+<p align="left">Brest<br/>
+</p>
 </td>
-<td align="center">Morbihan<br/>
+<td align="left" valign="top">
+<p align="left">Finistère Nord<br/>
+</p>
 </td>
-<td align="center">Lorient<br/>
+<td align="left" valign="top">
+<p align="left">Morlaix<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Auray<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Brest<br/>
+</p>
 </td>
-<td align="center">Vannes<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">7<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Nazaire<br/>
+<td align="left" valign="top">
+<p align="left">Concarneau<br/>
+</p>
 </td>
-<td align="center">Loire-Atlantique<br/>
+<td align="left" valign="top">
+<p align="left">Finistère Sud<br/>
+</p>
 </td>
-<td align="center">Nantes<br/>
+<td align="left" valign="top">
+<p align="left">Douarnenez<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Audierne<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">Saint-Nazaire<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
-<td align="center">4<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Noirmoutier<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
 </td>
-<td align="center">Nord Vendée<br/>
+<td align="left" valign="top">
+<p align="left">Le Guilvinec<br/>
+</p>
 </td>
-<td align="center">Noirmoutier<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">0<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">6<br/>
-</td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Les Sables-d'Olonne<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
 </td>
-<td align="center">Sud Vendée<br/>
+<td align="left" valign="top">
+<p align="left">Concarneau<br/>
+</p>
 </td>
-<td align="center">Les Sables-d'Olonne<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">0<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">0<br/>
-</td>
-<td align="center">0<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Vannes<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Morbihan<br/>
+</p>
 </td>
-<td align="center">Ile d'Yeu<br/>
+<td align="left" valign="top">
+<p align="left">Lorient<br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">La Rochelle<br/>
-</td>
-<td align="center">Partie de la Charente-Maritime<br/>
-</td>
-<td align="center">De la limite séparative des départements de la Vendée et de la Charente-Maritime (rive gauche de la Sèvre niortaise) à la rive droite du fleuve Charente. Ile de Ré, île d'Aix<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Auray<br/>
+</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Marennes-Oléron<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
 </td>
-<td align="center">Partie de la Charente-Maritime<br/>
+<td align="left" valign="top">
+<p align="left">Vannes<br/>
+</p>
 </td>
-<td align="center">De la rive gauche du fleuve Charente à la limite séparative des départements de la Charente-Maritime et de la Gironde (rive gauche de l'estuaire de la Gironde) Ile d'Oléron, île Madame<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">8<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">6<br/>
-</td>
-<td align="center">2<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Arcachon<br/>
+<td align="left" valign="top">
+<p align="left">Saint-Nazaire<br/>
+</p>
 </td>
-<td align="center">Gironde<br/>
+<td align="left" valign="top">
+<p align="left">Loire-Atlantique<br/>
+</p>
 </td>
-<td align="center">Bordeaux<br/>
+<td align="left" valign="top">
+<p align="left">Nantes<br/>
+</p>
 </td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Arcachon<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">Landes et Pyrénées-Atlantiques<br/>
+<td align="left" valign="top">
+<p align="left">Saint-Nazaire<br/>
+</p>
 </td>
-<td align="center">Bayonne<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Port-Vendres<br/>
+<td align="left" valign="top">
+<p align="left">Noirmoutier<br/>
+</p>
 </td>
-<td align="center">Pyrénées-Orientales Aude<br/>
+<td align="left" valign="top">
+<p align="left">Nord Vendée<br/>
+</p>
 </td>
-<td align="center">Port-Vendres<br/>
+<td align="left" valign="top">
+<p align="left">Noirmoutier<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
-<td align="center">8<br/>
+<td align="left" valign="top">
+<p align="center">0<br/>
+</p>
 </td>
-<td align="center">4<br/>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
 </td>
-<td align="center">4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Sète<br/>
-</td>
-<td align="center">Hérault<br/>
-</td>
-<td align="center">Sète<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">1<br/>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Les Sables-d'Olonne<br/>
+</p>
 </td>
-<td align="center">Gard<br/>
+<td align="left" valign="top">
+<p align="left">Sud Vendée<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="left">Les Sables-d'Olonne<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">0<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">0<br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="top">
+<p align="center">0<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Ile d'Yeu<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">La Rochelle<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Partie de la<br/>Charente-Maritime<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">De la limite séparative des<br/>départements de la Vendée<br/>et de la Charente-Maritime<br/>(rive gauche de la Sèvre<br/>niortaise) à la rive droite<br/>du fleuve Charente.<br/>Ile de Ré, île d'Aix<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Marennes-Oléron<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Partie de la<br/>Charente-Maritime<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">De la rive gauche du fleuve<br/>Charente à la limite séparative<br/>des départements de la<br/>Charente-Maritime et de<br/>la Gironde (rive gauche<br/>de l'estuaire de la Gironde)<br/>Ile d'Oléron, île Madame<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">8<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Arcachon<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Gironde<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bordeaux<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Arcachon<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Landes et Pyrénées-Atlantiques<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bayonne<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Port-Vendres<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pyrénées-Orientales<br/>Aude<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Port-Vendres<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">8<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Sète<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hérault<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sète<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">8<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">7<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Gard<br/>
+</p>
+</td>
+<td align="left" valign="top">
 <br/>
 </td>
-<td align="center">Huîtres et moules <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">Huîtres et moules </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Toulon<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bouches-du-Rhône<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Martigues<br/>
+</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Marseille<br/>
+</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Var<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Toulon<br/>
+</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">4</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Alpes-Maritimes<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Nice<br/>
+</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">0<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Ajaccio<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Haute-Corse</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bastia<br/>
+</p>
+</td>
+<td align="left" colspan="2" valign="top">
+<p align="center">4</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">Corse-du-Sud</p>
+</td>
+<td>
+<p align="left">Ajaccio</p>
+</td>
+<td colspan="2"/>
+<td>
+<p align="center">4</p>
 </td>
 <td/>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Toulon<br/>
-</td>
-<td align="center">Bouches-du-Rhône<br/>
-</td>
-<td align="center">Martigues<br/>
-</td>
-<td align="center">3<br/>
-</td>
 <td/>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Marseille<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td/>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Var<br/>
-</td>
-<td align="center">Toulon<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td/>
-<td align="center">2<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Alpes-Maritimes<br/>
-</td>
-<td align="center">Nice<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">0<br/>
-</td>
-<td align="center">2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Ajaccio<br/>
-</td>
-<td align="center">Corse-du-Nord<br/>
-</td>
-<td align="center">Bastia<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td/>
-<td align="center">4<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Corse-du-Sud<br/>
-</td>
-<td align="center">Ajaccio<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
 </tr>
 </tbody>
 </table>
-
-</div>
