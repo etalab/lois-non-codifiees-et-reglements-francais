@@ -991,7 +991,6 @@
 - [Arrêté du 29 septembre 1997 (MEST9711366A)](arrete-du-29-septembre-1997-mest9711366a)
 - [Arrêté du 29 mai 1997 (BUDB9710031A)](arrete-du-29-mai-1997-budb9710031a)
 - [Arrêté du 29 mai 1997 (ECOT9710298A)](arrete-du-29-mai-1997-ecot9710298a)
-- [Arrêté du 29 mai 1997 (ENVP9760254A)](arrete-du-29-mai-1997-envp9760254a)
 - [Arrêté du 29 mai 1997 (MENF9701545A)](arrete-du-29-mai-1997-menf9701545a)
 - [Arrêté du 29 mai 1997 (MENF9701591A)](arrete-du-29-mai-1997-menf9701591a)
 - [Arrêté du 29 mai 1997 (PRMX9702049A)](arrete-du-29-mai-1997-prmx9702049a)
