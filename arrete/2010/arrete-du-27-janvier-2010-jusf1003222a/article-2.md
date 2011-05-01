@@ -1,6 +1,6 @@
 # Article 2
 
-L'établissement de placement éducatif de Montfavet exerce les missions suivantes :
+Le centre éducatif fermé de Montfavet accueille en hébergement collectif exclusivement de jeunes délinquants confiés par les juridictions dans le cadre d'un suivi éducatif et pédagogique renforcé et adapté à leur personnalité. A ce titre, il exerce les missions suivantes :
 
 ― l'accueil en hébergement, sans délai ni préparation ou préparé, des mineurs délinquants ou en danger, et exceptionnellement des jeunes majeurs confiés sur décision judiciaire ;
 
