@@ -95,7 +95,6 @@
 - [Arrêté du 19 octobre 2000 (MENG0002754A)](arrete-du-19-octobre-2000-meng0002754a)
 - [Arrêté du 20 avril 2000 (ATEG0090143A)](arrete-du-20-avril-2000-ateg0090143a)
 - [Arrêté du 20 décembre 2000 (ECOM0010009A)](arrete-du-20-decembre-2000-ecom0010009a)
-- [Arrêté du 20 janvier 2000 (FPPA0010004A)](arrete-du-20-janvier-2000-fppa0010004a)
 - [Arrêté du 20 novembre 2000 (MENE0002876A)](arrete-du-20-novembre-2000-mene0002876a)
 - [Arrêté du 20 septembre 2000 (ECOC0000069A)](arrete-du-20-septembre-2000-ecoc0000069a)
 - [Arrêté du 21 décembre 2000 (INTE0000758A)](arrete-du-21-decembre-2000-inte0000758a)
