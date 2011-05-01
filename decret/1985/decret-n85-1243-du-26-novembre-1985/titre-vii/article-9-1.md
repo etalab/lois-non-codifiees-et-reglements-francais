@@ -4,56 +4,60 @@ Un institut universitaire de formation des maîtres est créé dans les universi
 
 Aix-Marseille-I ;
 
+Amiens ;
+
+Artois ;
+
+Besançon ;
+
+Bordeaux-IV ;
+
+Brest ;
+
+Caen ;
+
 Cergy-Pontoise ;
+
+Clermont-Ferrand-II ;
+
+Corse ;
+
+Dijon ;
 
 Grenoble-I ;
 
 Limoges ;
 
-Paris-XII ;
-
 Lyon-I ;
-
-Reims ;
-
-Nantes ;
-
-Amiens ;
-
-Besançon ;
-
-Caen ;
-
-Nice ;
-
-Orléans ;
-
-Poitiers ;
-
-Brest ;
-
-Réunion ;
-
-Rouen ;
-
-Clermont-Ferrand-II ; Paris-IV ;
-
-Toulouse-II ;
-
-Bordeaux-IV ;
-
-Dijon ;
-
-Artois ;
 
 Montpellier-II ;
 
 Nancy-I ;
 
-Strasbourg ;
+Nantes ;
 
-Corse ;
+Nice ;
 
 Nouvelle-Calédonie ;
 
-Polynésie française.
+Orléans ;
+
+Paris-IV ;
+
+Paris-XII ;
+
+Poitiers ;
+
+Polynésie française ;
+
+Reims ;
+
+Réunion ;
+
+Rouen ;
+
+Strasbourg ;
+
+Toulouse-II ;
+
+Trois instituts universitaires de formation des maîtres sont créés au sein de l'université des Antilles et de la Guyane et implantés respectivement en Guadeloupe, en Guyane et en Martinique.
