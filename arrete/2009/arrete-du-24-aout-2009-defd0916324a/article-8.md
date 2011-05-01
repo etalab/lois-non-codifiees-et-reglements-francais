@@ -1,13 +1,17 @@
 # Article 8
 
-Le bureau du pilotage de la gestion assiste le directeur chargé des affaires stratégiques dans ses attributions de responsable de programme.
+Le bureau "pilotage du programme budgétaire" anime et coordonne les actions liées au pilotage du programme budgétaire placé sous la responsabilité du directeur chargé des affaires stratégiques.
 
-Il est chargé :
+A ce titre, il est chargé :
 
-― de préparer les documents budgétaires associés aux lois de finances ;
+- d'assurer le secrétariat du comité de pilotage de ce programme ;
 
-― d'élaborer les budgets, assurer le suivi de gestion et préparer les arbitrages à soumettre au responsable du programme ;
+- d'élaborer les budgets et de préparer les arbitrages à soumettre au responsable du programme ;
 
-― d'établir les décisions de gestion des ressources ;
+- de préparer les documents budgétaires associés aux lois de finances ;
 
-― d'assurer le suivi du fonctionnement du programme.
+- d'assurer le suivi de gestion et de préparer les arbitrages à soumettre au responsable du programme ;
+
+- de participer aux travaux de gestion prévisionnelle des effectifs, des emplois et des compétences ;
+
+- d'assurer la programmation, la répartition et le suivi des effectifs et de la masse salariale.

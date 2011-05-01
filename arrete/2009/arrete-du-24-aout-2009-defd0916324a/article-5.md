@@ -12,20 +12,12 @@ I. ― La sous-direction de la prolifération et du contrôle est chargée, dans
 
 ― participer à la mise en œuvre des politiques retenues et veiller à leur exécution.
 
-Elle pilote l'action du ministère de la défense dans les domaines de lutte contre la prolifération, du désarmement et de la maîtrise des armements dans le domaine des armements non conventionnels.
+Elle conduit l'action du ministère de la défense dans les domaines de lutte contre la prolifération, du désarmement et de la maîtrise des armements dans le domaine des armements non conventionnels.
 
-Elle conduit des études sur :
-
-― l'évolution des technologies critiques pour la défense et leur impact sur les systèmes d'armes et les concepts opérationnels ;
-
-― les évolutions internationales dans le domaine des industries de défense et des ressources stratégiques.
-
-Elle prépare les contributions du ministère au dialogue avec le ministère des affaires étrangères pour la définition des positions françaises relatives aux thèmes dont elle assure le pilotage au sein du ministère de la défense. Elle assure l'information du ministre, prépare ses entretiens bilatéraux et ses participations aux réunions internationales.
+Dans ces domaines, elle prépare les contributions du ministère au dialogue avec le ministère des affaires étrangères pour la définition des positions françaises. Elle assure l'information du ministre, prépare ses entretiens bilatéraux et ses participations aux réunions internationales.
 
 II. - La sous-direction de la prolifération et du contrôle comprend :
 
-― le bureau « contrôle des transferts sensibles » ;
+― le bureau  contrôle des transferts sensibles  ;
 
-― le bureau « lutte contre la prolifération et le désarmement » ;
-
-― le bureau « prospective technologique et opérationnelle, analyse industrielle ».
+― le bureau  lutte contre la prolifération et le désarmement  ;
