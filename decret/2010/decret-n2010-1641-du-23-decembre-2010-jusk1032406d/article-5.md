@@ -1,530 +1,516 @@
 # Article 5
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux corps, grades et emploi du personnel de surveillance régis par le décret du 14 avril 2006 susvisé et des surveillants pénitentiaires de l'Etat pour l'administration de Mayotte régi par le décret du 17 février 2005 susvisé est fixé ainsi qu'il suit :<br/>
+L'échelonnement indiciaire applicable aux corps, grades et emploi du personnel de surveillance régis par le décret du 14 avril 2006 susvisé et des surveillants pénitentiaires de l'Etat pour l'administration de Mayotte régi par le décret du 17 février 2005 susvisé est fixé ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>CORPS, GRADES, EMPLOIS ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<th>CORPS, GRADES, EMPLOIS ET ÉCHELONS<br/>
+</th>
+<th>INDICES BRUTS<br/>
+</th>
 </tr>
 <tr>
+<td align="center">Corps de commandement</td>
 <td align="center">
-<br/>Corps de commandement<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Emploi de commandant pénitentiaire fonctionnel<br/>
 </td>
 <td align="center">
-<br/> </td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emploi de commandant pénitentiaire fonctionnel</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>901</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>879</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commandant pénitentiaire</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>879</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>801</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">901<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>760</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">879<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
+<td align="center">Commandant pénitentiaire<br/>
+</td>
 <td align="center">
-<br/>730</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>710</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">879<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon provisoire</td>
-<td align="center">
-<br/>655</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">801<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Capitaine pénitentiaire</td>
-<td align="center">
-<br/> </td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">760<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>736</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">730<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>671</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">710<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon </td>
-<td align="center">
-<br/>640</td>
+<td align="center">Echelon provisoire<br/>
+</td>
+<td align="center">655<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
+<td align="center">Capitaine pénitentiaire<br/>
+</td>
 <td align="center">
-<br/>612</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>580</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">736<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>529</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">671<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lieutenant pénitentiaire</td>
-<td align="center">
-<br/> </td>
+<td align="center">4e échelon <br/>
+</td>
+<td align="center">640<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>659</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">612<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>597</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">580<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>563</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">529<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
+<td align="center">Lieutenant pénitentiaire<br/>
+</td>
 <td align="center">
-<br/>531</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>481</td>
+<td align="center">8e échelon<br/>
+</td>
+<td align="center">659<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>440</td>
+<td align="center">7e échelon<br/>
+</td>
+<td align="center">597<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>392</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">563<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>369</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">531<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Elève</td>
-<td align="center">
-<br/>360</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">481<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corps d'encadrement et d'application</td>
-<td align="center">
-<br/> </td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">440<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Major pénitentiaire</td>
-<td align="center">
-<br/> </td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">392<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon exceptionnel</td>
-<td align="center">
-<br/>627</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">369<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>611</td>
+<td align="center">Elève<br/>
+</td>
+<td align="center">360<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Corps d'encadrement et d'application<br/>
+</td>
 <td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>596</td>
+<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Major pénitentiaire<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>582</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>558</td>
+<td align="center">Echelon exceptionnel<br/>
+</td>
+<td align="center">627<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>542</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">611<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Premier surveillant</td>
-<td align="center">
-<br/> </td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">596<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>580</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">582<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>555</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">558<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>528</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">542<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Premier surveillant<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>506</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>485</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">580<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>450</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">555<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Surveillant brigadier</td>
-<td align="center">
-<br/> </td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">528<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>539</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">506<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>521</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">485<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>498</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">450<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Surveillant brigadier<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>471</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>430</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">539<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>392</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">521<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Surveillant et surveillant principal</td>
-<td align="center">
-<br/> </td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">498<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon exceptionnel</td>
-<td align="center">
-<br/>498</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">471<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon</td>
-<td align="center">
-<br/>479</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">430<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon</td>
-<td align="center">
-<br/>457</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">392<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Surveillant et surveillant principal<br/>
+</td>
 <td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>443</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>427</td>
+<td align="center">Echelon exceptionnel<br/>
+</td>
+<td align="center">498<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>420</td>
+<td align="center">11e échelon<br/>
+</td>
+<td align="center">479<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>402</td>
+<td align="center">10e échelon<br/>
+</td>
+<td align="center">457<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>375</td>
+<td align="center">9e échelon<br/>
+</td>
+<td align="center">443<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>344</td>
+<td align="center">8e échelon<br/>
+</td>
+<td align="center">427<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>321</td>
+<td align="center">7e échelon<br/>
+</td>
+<td align="center">420<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>291</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">402<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>266</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">375<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Stage</td>
-<td align="center">
-<br/>259</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">344<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Elève</td>
-<td align="center">
-<br/>258</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">321<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corps des surveillants pénitentiaires de l'Etat pour l'administration de Mayotte</td>
-<td align="center">
-<br/> </td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">291<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Premier surveillant</td>
-<td align="center">
-<br/> </td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">266<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>375</td>
+<td align="center">Stage<br/>
+</td>
+<td align="center">259<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>333</td>
+<td align="center">Elève<br/>
+</td>
+<td align="center">258<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Corps des surveillants pénitentiaires de l'Etat pour l'administration de Mayotte<br/>
+</td>
 <td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>298</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
+<td align="center">Premier surveillant<br/>
+</td>
 <td align="center">
-<br/>259</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>217</td>
+<td align="center">7e échelon<br/>
+</td>
+<td align="center">417<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>182</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">375<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>137</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">339<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Surveillant</td>
-<td align="center">
-<br/> </td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">313<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon</td>
-<td align="center">
-<br/>227</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">259<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>209</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">232<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>193</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">218<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Surveillant<br/>
+</td>
 <td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>173</td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>154</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">250<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>137</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">235<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>123</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">221<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>118</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">209<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>111</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">199<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>102</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">184<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-<br/>
 </div>
