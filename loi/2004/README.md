@@ -39,4 +39,3 @@
 - [Loi n° 90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n-90-568-du-2-juillet-1990-pttx9000053l)
 - [Loi n° 91-646 du 10 juillet 1991 (JUSX9100068L)](loi-n-91-646-du-10-juillet-1991-jusx9100068l)
 - [Loi n° 97-302 du 4 avril 1997 (MAEX9701967L)](loi-n-97-302-du-4-avril-1997-maex9701967l)
-- [Loi n°2004-1486 du 30 décembre 2004 (SOCX0400130L)](loi-n2004-1486-du-30-decembre-2004-socx0400130l)
