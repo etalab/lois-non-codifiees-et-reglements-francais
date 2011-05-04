@@ -138,7 +138,9 @@ Premier vol : correspond à la date de la délivrance en France ou à l'étrange
 
 Standard d'exploitation : Système permettant à chacun des membres d'équipage de conduite de sélectionner les écoutes, les lignes de modulation et les alternats.
 
-Station d'aéronef : Un ou plusieurs émetteurs ou récepteurs, ou un ensemble d'émetteurs et récepteurs placés à bord d'un aéronef pour assurer un service de radiocommunication, de radionavigation ou de surveillance.
+Station d'aéronef : un ou plusieurs émetteurs ou récepteurs, ou un ensemble d'émetteurs et récepteurs, y compris les appareils accessoires, placés à bord d'un aéronef pour assurer un service de radiocommunication, de radionavigation, de surveillance ou de sauvetage.
+
+Station d'engin de sauvetage : un ou plusieurs émetteurs ou récepteurs, ou un ensemble d'émetteurs et de récepteurs y compris les appareils accessoires, destinés aux besoins des naufragés, placés à bord d'un engin de sauvetage pour assurer un service de radiocommunication ou de sauvetage.
 
 Temps de vol avion : Total du temps décompté depuis le moment où l'avion commence à se
 
