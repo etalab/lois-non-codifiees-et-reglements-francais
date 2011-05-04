@@ -2,18 +2,16 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― "Corbières " ;
+― " Corbières " ;
 
-― "Corbières-Boutenac " ;
+― " Corbières-Boutenac " ;
 
-― "Crémant de Bordeaux " ;
+― " Crémant de Bordeaux " ;
 
-― "Faugères " ;
+― " Faugères " ;
 
-― "Languedoc " ;
+― " Languedoc " ;
 
-― "Minervois " ;
+― " Minervois " ;
 
-― "Minervois-La Livinière " ;
-
-― "Rivesaltes ".
+― " Minervois-La Livinière " ;
