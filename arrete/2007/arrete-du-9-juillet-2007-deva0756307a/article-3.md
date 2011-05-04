@@ -65,3 +65,11 @@ Tunisie : Marseille - Monastir.
 Jusqu'au 31 décembre 2015 :
 
 Marseille - Marrakech (Maroc).
+
+Jusqu'au 30 avril 2016 :
+
+Lille-Djerba (Tunisie) ;
+
+Lille-Enfidha (Tunisie).
+
+Nantes-Antalya (Turquie).
