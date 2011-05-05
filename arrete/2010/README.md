@@ -141,7 +141,6 @@
 - [Arrêté du 3 août 2010 (SASP1011922A)](arrete-du-3-aout-2010-sasp1011922a)
 - [Arrêté du 3 août 2010 (SASP1020848A)](arrete-du-3-aout-2010-sasp1020848a)
 - [Arrêté du 3 décembre 1999 (EQUU9901045A)](arrete-du-3-decembre-1999-equu9901045a)
-- [Arrêté du 3 décembre 2009 (DEFD0923909A)](arrete-du-3-decembre-2009-defd0923909a)
 - [Arrêté du 3 décembre 2009 (DEVE0929082A)](arrete-du-3-decembre-2009-deve0929082a)
 - [Arrêté du 3 décembre 2010 (AGRG1031513A)](arrete-du-3-decembre-2010-agrg1031513a)
 - [Arrêté du 3 décembre 2010 (AGRG1031542A)](arrete-du-3-decembre-2010-agrg1031542a)
