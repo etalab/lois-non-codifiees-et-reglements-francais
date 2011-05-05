@@ -53,7 +53,7 @@ Code de l'aviation civile
 <tr>
 <td>2 </td>
 <td>Décision de classement des aérodromes. </td>
-<td>Article R. 222-3</td>
+<td>Article R. 222-3 </td>
 </tr>
 <tr>
 <td>3 </td>
@@ -87,7 +87,7 @@ Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aér
 
 **TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT**
 
-**_A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement_**
+**A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement**
 
 Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'agrément technique applicables aux marchés publics de travaux et instituant trois procédures concernant respectivement les liants hydrauliques, les armatures pour béton armé et les armatures à haute résistance de précontrainte
 
@@ -152,7 +152,7 @@ Code de la construction et de l'habitation
 <p>par souscription par les CIL, et les CCI avec des fonds de la </p>
 <p>participation des employeurs à l'effort de construction (PEEC). </p>
 </td>
-<td>Article R. 313-18. </td>
+<td>Article R. 313-18.</td>
 </tr>
 <tr>
 <td>3 </td>
@@ -162,7 +162,7 @@ Code de la construction et de l'habitation
 <p>de la construction de logements locatifs sociaux et de la réglementation </p>
 <p>des plafonds de ressources qui y sont afférents. </p>
 </td>
-<td>Article R. 331-26. </td>
+<td>Article R. 331-26.</td>
 </tr>
 <tr>
 <td>4 </td>
@@ -235,7 +235,7 @@ Code de la construction et de l'habitation
 <p>mission confiée à ce dernier. </p>
 </td>
 <td>
-<p>Article R. 421-13. </p>
+<p>Article R. 421-13.</p>
 </td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@ Code de l'aviation civile
 <p>Etablissement de certaines installations à l'extérieur de zones grevées de </p>
 <p>servitudes de dégagement. </p>
 </td>
-<td>Article R. 244-1. </td>
+<td>Article R. 244-1.</td>
 </tr>
 <tr>
 <td>2 </td>
@@ -522,7 +522,7 @@ Code de l'aviation civile
 
 _Mesures prises par les ministres chargés des transports et de l'industrie_
 
-Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96 / 48 / CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
+Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/ CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
 
 <table>
 <tbody>
@@ -601,12 +601,12 @@ Code de la construction et de l'habitation
 <td>Agrément des contrôleurs techniques. </td>
 <td>
 <p>Articles R. 111-29 </p>
-<p>à R. 111-37. </p>
+<p>à R. 111-37.</p>
 </td>
 </tr>
 <tr>
 <td>2 </td>
-<td>Décisions relatives à la vérification des qualifications professionnelles en matière de contrôle technique de la construction.<br/>
+<td>Décisions relatives à la vérification des qualifications professionnelles en matière de contrôle technique de la construction. <br/>
 </td>
 <td>
 <br/>R. * 111-29-1 à R. * 111-33-1 <br/>
@@ -706,7 +706,7 @@ Code de la construction et de l'habitation
 <p>SCP-HLM : </p>
 <p>article R*. 422-8-1. </p>
 <p>SACI : </p>
-<p>articles R. 422-10 et R. 422-11. </p>
+<p>articles R. 422-10 et R. 422-11.</p>
 </td>
 </tr>
 <tr>
@@ -723,7 +723,7 @@ Code de la construction et de l'habitation
 <p>Autorisation pour affectation de la perte (réalisée dans l'exercice clos des organismes </p>
 <p>collecteurs) en diminution de compte de réserve. </p>
 </td>
-<td>Article R. 313-33-2. </td>
+<td>Article R. 313-33-2.</td>
 </tr>
 <tr>
 <td>5 </td>
@@ -742,7 +742,7 @@ Code de la construction et de l'habitation
 <td>
 <p>SACI : article R. 422-15, troisième alinéa. </p>
 <p>SAHLM et SA coopératives </p>
-<p>HLM : article R. 422-17. </p>
+<p>HLM : article R. 422-17.</p>
 </td>
 </tr>
 <tr>
@@ -764,7 +764,7 @@ Code de la construction et de l'habitation
 </td>
 <td>
 <p>SA d'HLM : article R. 422-16 </p>
-<p>et R. 422-16-1. </p>
+<p>et R. 422-16-1.</p>
 </td>
 </tr>
 <tr>
@@ -773,7 +773,7 @@ Code de la construction et de l'habitation
 <p>Accord en vue de la réévaluation de l'actif des sociétés d'habitations à loyer modéré </p>
 <p>et de crédit immobilier. </p>
 </td>
-<td>Article R. 423-72. </td>
+<td>Article R. 423-72.</td>
 </tr>
 <tr>
 <td>8 </td>
@@ -782,7 +782,7 @@ Code de la construction et de l'habitation
 <p>des employeurs à l'effort de construction (PEEC) et injonction de transfert de leur situation </p>
 <p>active et passive à un organisme ou une personne morale ou physique. </p>
 </td>
-<td>Article R. 313-22. </td>
+<td>Article R. 313-22.</td>
 </tr>
 <tr>
 <td>9 </td>
@@ -801,8 +801,7 @@ Code de la construction et de l'habitation
 <tr>
 <td>11 </td>
 <td>
-<p>Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer </p>
-<p>modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou </p>
+<p>Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer <br/>modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou </p>
 <p>à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du </p>
 <p>directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou </p>
 <p>au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil </p>
@@ -834,12 +833,16 @@ Code des ports maritimes :
 </tr>
 <tr>
 <td>2 </td>
-<td>Habilitation des organismes de sûreté. </td>
+<td>
+<p align="left">Habilitation des organismes de sûreté. </p>
+</td>
 <td>Articles R. 321-8 et R. 321-9 </td>
 </tr>
 <tr>
 <td/>
-<td>Retrait et suspension de l'habilitation des organismes de sûreté </td>
+<td>
+<p align="left">Retrait et suspension de l'habilitation des organismes de sûreté </p>
+</td>
 <td>Article R. 321-11 </td>
 </tr>
 </tbody>
@@ -933,7 +936,7 @@ Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomè
 </tbody>
 </table>
 
-**_I.-_**Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+**I.-**Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 <table>
 <tbody>
@@ -943,17 +946,17 @@ Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomè
 <p>Délivrance, suspension temporaire et retrait des licences d'entreprises </p>
 <p>ferroviaires. </p>
 </td>
-<td>Art. 4, 5 et 13 </td>
+<td>Art. 4,5 et 13 </td>
 </tr>
 <tr>
 <td>2 </td>
 <td>Délivrance, suspension temporaire et retrait des certificats de sécurité. </td>
-<td>Art. 4, 15 et 16 </td>
+<td>Art. 4,15 et 16 </td>
 </tr>
 </tbody>
 </table>
 
-**_II.-_**Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
+**II.-**Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
 
 <table>
 <tbody>
@@ -973,7 +976,7 @@ Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomè
 <p>Autorisation de mise en exploitation, suspension temporaire et </p>
 <p>retrait d'autorisations. </p>
 </td>
-<td>Art. 12, 13 et 26 </td>
+<td>Art. 12,13 et 26 </td>
 </tr>
 </tbody>
 </table>
@@ -1345,9 +1348,7 @@ Code des douanes
 </tbody>
 </table>
 
-Décret du 24 juillet 1923 modifié relatif aux autorisations
-
-pour la vente et l'achat de navires
+Décret du 24 juillet 1923 modifié relatif aux autorisations pour la vente et l'achat de navires
 
 <table>
 <tbody>
@@ -1391,7 +1392,7 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 <p>de gestion pour la sécurité de l'exploitation des navires et </p>
 <p>de la prévention de la pollution (code ISM). </p>
 </td>
-<td>Article 14-I, paragraphe 2-1. </td>
+<td>Article 14-I, paragraphe 2-1.</td>
 </tr>
 <tr>
 <td>2 </td>
@@ -1402,8 +1403,8 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 <p>des navires, après étude de leurs plans. </p>
 </td>
 <td>
-<p>Article 14-I, paragraphes 1-1, </p>
-<p>1-2 et 2-1. </p>
+<p>Article 14-I, paragraphes 1-1,</p>
+<p>1-2 et 2-1.</p>
 </td>
 </tr>
 <tr>
@@ -1412,7 +1413,7 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 <p>Approbation de certains matériels de sécurité et de prévention </p>
 <p>de la pollution et de certains documents. </p>
 </td>
-<td>Article 14-I, paragraphe 2-2. </td>
+<td>Article 14-I, paragraphe 2-2.</td>
 </tr>
 <tr>
 <td>4 </td>
@@ -1479,7 +1480,7 @@ Code de l'aviation civile
 <p>au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs </p>
 <p>pour du travail aérien. </p>
 </td>
-<td>Article R. 131-6. </td>
+<td>Article R. 131-6.</td>
 </tr>
 <tr>
 <td>2 </td>
@@ -1489,7 +1490,7 @@ Code de l'aviation civile
 </td>
 <td>
 <p>Articles R. 160-1, R. 217-6, </p>
-<p>et R. 330-20 et R. 330-22. </p>
+<p>et R. 330-20 et R. 330-22.</p>
 </td>
 </tr>
 <tr>
@@ -1501,7 +1502,7 @@ Code de l'aviation civile
 <p>inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant </p>
 <p>pas de services réguliers internationaux. </p>
 </td>
-<td>Article R. 330-1. </td>
+<td>Article R. 330-1.</td>
 </tr>
 <tr>
 <td>4 </td>
@@ -1512,14 +1513,14 @@ Code de l'aviation civile
 <p>masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de </p>
 <p>moins de 20 sièges et n'exploitant pas de services réguliers internationaux. </p>
 </td>
-<td>Article R. 330-8. </td>
+<td>Article R. 330-8.</td>
 </tr>
 <tr>
 <td>5 </td>
 <td>
 <p>Dépôt ou homologation des tarifs de passagers </p>
 </td>
-<td>Articles L. 330-8. </td>
+<td>Articles L. 330-8.</td>
 </tr>
 <tr>
 <td>6 </td>
@@ -1531,7 +1532,7 @@ Code de l'aviation civile
 <p>10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services </p>
 <p>réguliers internationaux. </p>
 </td>
-<td>Articles R. 330-4 et R. 330-9. </td>
+<td>Articles R. 330-4 et R. 330-9.</td>
 </tr>
 <tr>
 <td>7 </td>
@@ -1541,7 +1542,7 @@ Code de l'aviation civile
 <p>masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins </p>
 <p>de 20 sièges et n'exploitant pas de services réguliers internationaux. </p>
 </td>
-<td>Article R. 330-6. </td>
+<td>Article R. 330-6.</td>
 </tr>
 <tr>
 <td>8 </td>
@@ -1549,7 +1550,7 @@ Code de l'aviation civile
 <p>Dérogations aux règles d'utilisation des aéroports et affectations individuelles des </p>
 <p>entreprises de transport aérien. </p>
 </td>
-<td>Article R. 221-3. </td>
+<td>Article R. 221-3.</td>
 </tr>
 <tr>
 <td>9 </td>
@@ -1557,12 +1558,12 @@ Code de l'aviation civile
 <p>Création d'un aérodrome de catégorie A, B, C ou E, destiné à être ouvert à la </p>
 <p>circulation aérienne publique. </p>
 </td>
-<td>Article D. 221-2. </td>
+<td>Article D. 221-2.</td>
 </tr>
 <tr>
 <td>10 </td>
 <td>Création et mise en service d'un aérodrome à usage restreint. </td>
-<td>Articles D. 232-2 et D. 232-6. </td>
+<td>Articles D. 232-2 et D. 232-6.</td>
 </tr>
 <tr>
 <td>11 </td>
@@ -1570,12 +1571,12 @@ Code de l'aviation civile
 <p>Modification des conditions ou consignes d'utilisation d'un aérodrome à usage </p>
 <p>restreint. </p>
 </td>
-<td>Article D. 232-8. </td>
+<td>Article D. 232-8.</td>
 </tr>
 <tr>
 <td>12 </td>
 <td>Ouverture et fermeture d'un aérodrome à la circulation aérienne publique. </td>
-<td>Articles R. 221-2 et D. 221-4. </td>
+<td>Articles R. 221-2 et D. 221-4.</td>
 </tr>
 <tr>
 <td>13 </td>
@@ -1583,7 +1584,7 @@ Code de l'aviation civile
 <p>Autorisation de certains transports aériens commerciaux sur aérodromes à </p>
 <p>usage restreint. </p>
 </td>
-<td>Article D. 232-1. </td>
+<td>Article D. 232-1.</td>
 </tr>
 <tr>
 <td>14 </td>
@@ -1592,7 +1593,7 @@ Code de l'aviation civile
 <p>conclusion entre l'Etat et le créateur de l'aérodrome d'une convention de type </p>
 <p>L. 221-1 et imposition à l'exploitant d'une souscription d'un contrat d'assurance. </p>
 </td>
-<td>Article D. 232-3. </td>
+<td>Article D. 232-3.</td>
 </tr>
 <tr>
 <td>15 </td>
@@ -1600,7 +1601,7 @@ Code de l'aviation civile
 <p>Accord donné au créateur d'un aérodrome à usage restreint de confier l'exploitation </p>
 <p>de l'aérodrome à un tiers de son choix. </p>
 </td>
-<td>Article D. 232-7. </td>
+<td>Article D. 232-7.</td>
 </tr>
 <tr>
 <td>16 </td>
@@ -1614,16 +1615,15 @@ Code de l'aviation civile
 </td>
 <td>
 <p>Articles R. 133-1, R. 133-1-1, R. 133-1-2, </p>
-<p>R. 133-1-3 et R. 330-1-2. </p>
+<p>R. 133-1-3 et R. 330-1-2.</p>
 </td>
 </tr>
 <tr>
 <td>17 </td>
 <td>
-<p>Décisions relatives à la délivrance et à la validation des titres aéronautiques </p>
-<p>et sanctions correspondantes. </p>
+<p>Décisions relatives à la délivrance et à la validation des titres aéronautiques professionnels et non professionnels et sanctions correspondantes. </p>
 </td>
-<td>Articles R. 425-4 et D. 210-2. </td>
+<td>Articles R. 410-2, R. 410-3, R. 425-4 et R. 431-3.</td>
 </tr>
 <tr>
 <td>18 </td>
@@ -1647,7 +1647,7 @@ Code de l'aviation civile
 <p>temporaire ou permanente de travail et de décès consécutifs d'un accident </p>
 <p>aérien survenu en service ou une maladie imputable au service aérien. </p>
 </td>
-<td>Articles L. 424-1, L. 424-2, et D. 424-2. </td>
+<td>Articles L. 424-1, L. 424-2, et D. 424-2.</td>
 </tr>
 <tr>
 <td>20 </td>
@@ -1661,7 +1661,7 @@ Code de l'aviation civile
 <tr>
 <td>21 </td>
 <td>Attribution des fréquences utiles à la circulation des aéronefs </td>
-<td>Article D. 133-19 et D. 133-19-1. </td>
+<td>Article D. 133-19 et D. 133-19-1.</td>
 </tr>
 <tr>
 <td>22 </td>
@@ -1670,7 +1670,7 @@ Code de l'aviation civile
 <p>coordonné. </p>
 <p>Nomination du comité de coordination. </p>
 </td>
-<td>Règlement CEE n° 95-93 du 18 janvier 1995. </td>
+<td>Règlement CEE n° 95-93 du 18 janvier 1995.</td>
 </tr>
 <tr>
 <td>23 </td>
@@ -1689,7 +1689,7 @@ Code de l'aviation civile
 <tr>
 <td>25 </td>
 <td>Délivrance de la licence de maintenance d'aéronefs. </td>
-<td>Article R. 133-17. </td>
+<td>Article R. 133-17.</td>
 </tr>
 <tr>
 <td>26 </td>
@@ -1749,7 +1749,7 @@ Code de l'environnement
 <p>par type pour les moteurs destinés aux autorails, locomotives et </p>
 <p>bateaux de la navigation intérieure. </p>
 </td>
-<td>Article R. 224-12.</td>
+<td>Article R. 224-12. </td>
 </tr>
 </tbody>
 </table>
