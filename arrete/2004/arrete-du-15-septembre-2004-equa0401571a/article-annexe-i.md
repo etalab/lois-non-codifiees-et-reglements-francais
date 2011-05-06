@@ -148,23 +148,23 @@ Paris-Yaoundé.
 
 Canada (jusqu'au 31 décembre 2012)
 
-Paris - Calgary ;
+Paris-Calgary ;
 
-Paris - Edmonton ;
+Paris-Edmonton ;
 
-Paris - Halifax ;
+Paris-Halifax ;
 
-Paris - Montréal ;
+Paris-Montréal ;
 
-Paris - Ottawa ;
+Paris-Ottawa ;
 
-Paris - Québec ;
+Paris-Québec ;
 
-Paris - Toronto ;
+Paris-Toronto ;
 
-Paris - Vancouver ;
+Paris-Vancouver ;
 
-Paris - Winnipeg,
+Paris-Winnipeg,
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie américaine ou canadienne entre un point du territoire français et un point du territoire du Canada situé au-delà d'un des points du territoire canadien mentionnés ci-dessus ou d'un des points du territoire des Etats-Unis d'Amérique mentionnés au 2.1 de la présente annexe.
 
@@ -322,7 +322,7 @@ Guinée équatoriale (jusqu'au 31 décembre 2012)
 
 Paris-Malabo.
 
-Paris - Bata
+Paris-Bata
 
 Haïti (jusqu'au 31 décembre 2012)
 
@@ -404,7 +404,7 @@ Paris-Almaty.
 
 Kenya (jusqu'au 31 décembre 2012)
 
-Paris - Kisumu.
+Paris-Kisumu.
 
 Paris-Nairobi.
 
@@ -418,7 +418,7 @@ Paris-Beyrouth.
 
 Liberia (jusqu'au 31 décembre 2012)
 
-Paris - Monrovia.
+Paris-Monrovia.
 
 Libye (jusqu'au 31 décembre 2012)
 
@@ -470,11 +470,11 @@ Mexique (jusqu'au 31 décembre 2012)
 
 Paris-Acapulco.
 
-Paris - Aguascalientes.
+Paris-Aguascalientes.
 
 Paris-Cancún.
 
-Paris - Culiacan.
+Paris-Culiacan.
 
 Paris-Guadalajara.
 
@@ -488,7 +488,7 @@ Paris-Monterey.
 
 Paris-Puerto Vallarta.
 
-Paris - Villahermosa.
+Paris-Villahermosa.
 
 Mexique (jusqu'au 31 décembre 2012)
 
@@ -508,7 +508,7 @@ Paris-Tijuana.
 
 Moldavie (jusqu'au 31 décembre 2012)
 
-Paris - Chisinau.
+Paris-Chisinau.
 
 Mozambique (jusqu'au 31 décembre 2012)
 
@@ -570,7 +570,7 @@ République populaire de Chine (jusqu'au 31 décembre 2012)
 
 Paris-Canton.
 
-Paris - Nankin.
+Paris-Nankin.
 
 Paris-Pékin.
 
@@ -578,49 +578,49 @@ Paris-Shanghai.
 
 Paris-Wuhan.
 
-Paris - Changchun.
+Paris-Changchun.
 
-Paris - Changsha.
+Paris-Changsha.
 
-Paris - Chongqing.
+Paris-Chongqing.
 
-Paris - Dalian.
+Paris-Dalian.
 
-Paris - Dayong.
+Paris-Dayong.
 
-Paris - Fuzhou.
+Paris-Fuzhou.
 
-Paris - Guilin.
+Paris-Guilin.
 
 Paris-Guyiang.
 
-Paris - Haikou.
+Paris-Haikou.
 
-Paris - Hangzhou.
+Paris-Hangzhou.
 
-Paris - Harbin.
+Paris-Harbin.
 
 Paris-Nanning.
 
-Paris - Ningbo.
+Paris-Ningbo.
 
-Paris - Qingdao.
+Paris-Qingdao.
 
-Paris - Sanya.
+Paris-Sanya.
 
-Paris - Shantou.
+Paris-Shantou.
 
-Paris - Shenyang.
+Paris-Shenyang.
 
-Paris - Shenzhen.
+Paris-Shenzhen.
 
-Paris - Xi'an.
+Paris-Xi'an.
 
-Paris - Yantai.
+Paris-Yantai.
 
-Paris - Yiwu.
+Paris-Yiwu.
 
-Paris - Zhengzhou.
+Paris-Zhengzhou.
 
 Roumanie (jusqu'au 31 décembre 2012)
 
@@ -634,19 +634,39 @@ Paris-Moscou.
 
 Paris-Saint-Pétersbourg.
 
-Paris - Iekaterinbourg.
+Paris-Iekaterinbourg.
 
-Paris - Irkoutsk.
+Paris-Irkoutsk.
 
-Paris - Khabarovsk.
+Paris-Khabarovsk.
 
-Paris - Krasnoïarsk.
+Paris-Krasnoïarsk.
 
-Paris - Nijnevartovsk.
+Paris-Nijnevartovsk.
 
-Paris - Novossibirsk.
+Paris-Novossibirsk.
 
-Paris - Samara.
+Paris-Samara.
+
+Paris-Chelyabinsk.
+
+Paris-Kaliningrad.
+
+Paris-Kazan.
+
+Paris-Omsk.
+
+Paris-Oufa.
+
+Paris-Perm.
+
+Paris-Rostov.
+
+Paris-Sochi.
+
+Paris-Tyumen.
+
+Paris-Volgograd.
 
 Salvador (jusqu'au 31 décembre 2012)
 
@@ -666,7 +686,7 @@ Paris-Seychelles.
 
 Sierra Leone (jusqu'au 31 décember 2012)
 
-Paris - Freetown.
+Paris-Freetown.
 
 Singapour (jusqu'au 31 décembre 2012)
 
@@ -748,11 +768,11 @@ Paris-Hô Chi Minh-Ville.
 
 Yémen (jusqu'au 31 décembre 2012)
 
-Paris - Sanaa.
+Paris-Sanaa.
 
 Zambie (jusqu'au 31 décembre 2012)
 
-Paris - Lusaka.
+Paris-Lusaka.
 
 Zimbabwe (jusqu'au 31 décembre 2012)
 
