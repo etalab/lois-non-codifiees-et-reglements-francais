@@ -100,6 +100,7 @@
 - [Décret n°2011-431 du 19 avril 2011 (ETSS1106770D)](decret-n2011-431-du-19-avril-2011-etss1106770d)
 - [Décret n°2011-432 du 19 avril 2011 (ETSS1104039D)](decret-n2011-432-du-19-avril-2011-etss1104039d)
 - [Décret n°2011-433 du 19 avril 2011 (AGRM1101069D)](decret-n2011-433-du-19-avril-2011-agrm1101069d)
+- [Décret n°2010-1247 du 20 octobre 2010 (AGRS1020874D)](decret-n2010-1247-du-20-octobre-2010-agrs1020874d)
 - [Décret n°2011-434 du 20 avril 2011 (INDI1028230D)](decret-n2011-434-du-20-avril-2011-indi1028230d)
 - [Décret n°2011-439 du 20 avril 2011 (DEVL1002975D)](decret-n2011-439-du-20-avril-2011-devl1002975d)
 - [Décret n°2011-440 du 20 avril 2011 (ESRS1107907D)](decret-n2011-440-du-20-avril-2011-esrs1107907d)
