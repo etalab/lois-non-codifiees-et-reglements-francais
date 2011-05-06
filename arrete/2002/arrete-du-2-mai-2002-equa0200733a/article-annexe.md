@@ -247,17 +247,6 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008) <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>160 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Directeur général de l'aménagement, du logement et de la nature <br/>
 </td>
 <td align="center">
@@ -312,14 +301,14 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Délégué interministériel à la ville <br/>
+<td>
+<p align="center">Délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées</p>
 </td>
-<td align="center">
-<br/>1 <br/>
+<td>
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>160 <br/>
+<td>
+<p align="center">160</p>
 </td>
 </tr>
 <tr>
@@ -569,17 +558,6 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008) <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
 </td>
 <td align="center">
@@ -671,27 +649,6 @@ A. - Fonctions exercées en administration centrale
 <br/>110 <br/>
 </td>
 </tr>
-<tr>
-<td align="center">
-<br/>i) Service central de l'inspection du travail des transports <p>(jusqu'au 31 décembre 2008) <br/>
-</p>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Inspecteur général <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -700,21 +657,17 @@ A. - Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
-</th>
-<th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
-</th>
-<th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
-<br/>
-</th>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS</p>
+</td>
+<td>
+<p align="center">
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -1077,7 +1030,17 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'observation de l'énergie et des matières premières <br/>
+<br/>Sous-directeur des statistiques de l'énergie</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des statistiques du logement et de la construction<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1088,19 +1051,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'observation statistique du logement et de la construction <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de l'observation statistique des transports <br/>
-</td>
+<br/>Sous-directeur des statistiques des transports</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1121,8 +1072,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des méthodes, données et synthèses environnementales <br/>
-</td>
+<br/>Sous-directeur des méthodes et données pour le développement durable</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1239,17 +1189,6 @@ A. - Fonctions exercées en administration centrale
 <tr>
 <td align="center">
 <br/>Sous-directeur de la gestion du réseau autoroutier concédé <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des services routiers déconcentrés et du contrôle de gestion <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1414,7 +1353,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du budget et de la synthèse administrative <br/>
+<br/>Sous-directeur du budget, du contrôle de gestion et des services <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1556,50 +1495,6 @@ A. - Fonctions exercées en administration centrale
 <tr>
 <td align="center">
 <br/>Sous-directeur des systèmes d'information et de la modernisation <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des méthodes et de la qualité (jusqu'au 31 décembre 2008) <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des personnels navigants (jusqu'au 31 décembre 2008) <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la navigabilité et des opérations (jusqu'au 31 décembre 2008) <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la navigation aérienne, des aéroports et de la sûreté (jusqu'au 31 décembre 2008) <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
