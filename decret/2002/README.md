@@ -77,7 +77,6 @@
 - [Décret n°2002-358 du 15 mars 2002 (EQUU0200563D)](decret-n2002-358-du-15-mars-2002-equu0200563d)
 - [Décret n°2002-69 du 15 janvier 2002 (RECF0100351D)](decret-n2002-69-du-15-janvier-2002-recf0100351d)
 - [Décret n°86-1037 du 15 septembre 1986](decret-n86-1037-du-15-septembre-1986)
-- [Décret n°96-35 du 15 janvier 1996 (AGRA9502190D)](decret-n96-35-du-15-janvier-1996-agra9502190d)
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
 - [Décret n°2002-522 du 16 avril 2002 (MENS0200792D)](decret-n2002-522-du-16-avril-2002-mens0200792d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)

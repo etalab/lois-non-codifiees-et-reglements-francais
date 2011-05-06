@@ -191,7 +191,6 @@
 - [Décret n°2006-1265 du 16 octobre 2006 (AGRP0602061D)](decret-n2006-1265-du-16-octobre-2006-agrp0602061d)
 - [Décret n°2006-1266 du 16 octobre 2006 (DEVN0640056D)](decret-n2006-1266-du-16-octobre-2006-devn0640056d)
 - [Décret n°2006-1267 du 16 octobre 2006 (ECOP0600454D)](decret-n2006-1267-du-16-octobre-2006-ecop0600454d)
-- [Décret n°2006-1400 du 16 novembre 2006 (AGRS0601982D)](decret-n2006-1400-du-16-novembre-2006-agrs0601982d)
 - [Décret n°2006-304 du 16 mars 2006 (EQUX0500317D)](decret-n2006-304-du-16-mars-2006-equx0500317d)
 - [Décret n°2006-554 du 16 mai 2006 (INTD0600097D)](decret-n2006-554-du-16-mai-2006-intd0600097d)
 - [Décret n°2006-1268 du 17 octobre 2006 (SANP0622920D)](decret-n2006-1268-du-17-octobre-2006-sanp0622920d)

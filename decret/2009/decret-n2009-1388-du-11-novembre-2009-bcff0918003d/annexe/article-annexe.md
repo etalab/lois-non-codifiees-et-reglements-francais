@@ -33,3 +33,5 @@ Secrétaires administratifs relevant des ministres chargés des affaires sociale
 Secrétaires d'administration de la Caisse des dépôts et consignations.
 
 Secrétaires administratifs des services du Premier ministre.
+
+Techniciens supérieurs du ministère chargé de l'agriculture.

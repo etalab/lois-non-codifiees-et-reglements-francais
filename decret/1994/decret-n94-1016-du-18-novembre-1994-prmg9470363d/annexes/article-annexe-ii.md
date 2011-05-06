@@ -12,8 +12,6 @@ Contrôleurs des travaux publics de l'Etat.
 
 Techniciens de l'éducation nationale.
 
-Contrôleurs sanitaires des services du ministère de l'agriculture.
-
 Techniciens des établissements publics de l'enseignement technique agricole.
 
 Techniciens opérationnels forestiers de l'Office national des forêts.
