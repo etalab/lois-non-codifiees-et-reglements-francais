@@ -2182,7 +2182,6 @@
 - [Arrêté du 24 juin 2009 (ESRS0914270A)](arrete-du-24-juin-2009-esrs0914270a)
 - [Arrêté du 24 juin 2009 (IOCC0909210A)](arrete-du-24-juin-2009-iocc0909210a)
 - [Arrêté du 24 juin 2009 (IOCD0914511A)](arrete-du-24-juin-2009-iocd0914511a)
-- [Arrêté du 24 juin 2009 (IOCD0914543A)](arrete-du-24-juin-2009-iocd0914543a)
 - [Arrêté du 24 juin 2009 (MENE0914715A)](arrete-du-24-juin-2009-mene0914715a)
 - [Arrêté du 24 juin 2009 (MENE0914717A)](arrete-du-24-juin-2009-mene0914717a)
 - [Arrêté du 24 juin 2009 (MTSA0910761A)](arrete-du-24-juin-2009-mtsa0910761a)
