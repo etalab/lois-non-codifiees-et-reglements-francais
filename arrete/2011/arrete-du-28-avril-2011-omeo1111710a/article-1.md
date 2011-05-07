@@ -1,0 +1,3 @@
+# Article 1
+
+Par application des articles L. 120-26 et L. 120-34 du code du service national, la personne ayant souscrit un contrat de service civique affectée dans un département d'outre-mer, à Mayotte, dans les collectivités de Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis-et-Futuna et dans les Terres australes et antarctiques françaises bénéficie d'une couverture complémentaire, notamment en cas d'hospitalisation ainsi que pour les risques d'évacuation sanitaire, de rapatriement sanitaire et de rapatriement de corps lorsque ces derniers ne sont pas pris en charge par le régime de sécurité sociale.

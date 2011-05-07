@@ -1,0 +1,3 @@
+# Article 4
+
+A Mayotte, Saint-Pierre-et-Miquelon, Wallis-et-Futuna, en Nouvelle-Calédonie et en Polynésie française, pour la couverture du coût des prestations du régime local de sécurité sociale mentionnées à l'article L. 120-34 du code du service national, l'organisme mentionné à l'article R. 121-50 du même code verse à la structure d'accueil de la personne en engagement de service civique un montant égal au produit de l'indemnité due à celle-ci et des taux de cotisations applicables en matière d'assurances sociales, de prestations familiales, d'accidents du travail et de maladies professionnelles du régime général de sécurité sociale.
