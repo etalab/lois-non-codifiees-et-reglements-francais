@@ -23,6 +23,7 @@
 - [Décret n°2005-1124 du 6 septembre 2005 (INTD0500247D)](decret-n2005-1124-du-6-septembre-2005-intd0500247d)
 - [Décret n°84-252 du 6 avril 1984](decret-n84-252-du-6-avril-1984)
 - [Décret n°2005-326 du 7 avril 2005 (SOCX0500072D)](decret-n2005-326-du-7-avril-2005-socx0500072d)
+- [Décret n°2005-91 du 7 février 2005 (SOCG0510073D)](decret-n2005-91-du-7-fevrier-2005-socg0510073d)
 - [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
 - [Décret n°2005-1536 du 8 décembre 2005 (JUSG0560102D)](decret-n2005-1536-du-8-decembre-2005-jusg0560102d)
 - [Décret n°2005-764 du 8 juillet 2005 (DEFP0500897D)](decret-n2005-764-du-8-juillet-2005-defp0500897d)
