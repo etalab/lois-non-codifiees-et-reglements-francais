@@ -63,3 +63,7 @@ Marseille - Bejaia (Algérie).
 Nice - Alger (Algérie).
 
 Paris-Ouagadougou (Burkina Faso).
+
+Jusqu'au 30 avril 2016 :
+
+Marseille-Alger (Algérie).
