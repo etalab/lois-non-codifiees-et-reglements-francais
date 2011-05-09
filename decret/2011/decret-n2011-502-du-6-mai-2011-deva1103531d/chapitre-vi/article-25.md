@@ -1,0 +1,5 @@
+# Article 25
+
+Les personnels navigants techniques de la direction générale de l'aviation civile peuvent exercer les privilèges liés à leurs qualifications, lorsque cet exercice s'effectue pour leur compte personnel, sans rétribution, hors de leurs heures de service et qu'il n'affecte pas leur capacité à effectuer les missions qui leur sont confiées en application de l'article 3 ci-dessus.
+
+Ils peuvent être, par ailleurs, amenés à accomplir des missions de coopération technique hors du territoire français. Ils peuvent également être mis à disposition d'une compagnie aérienne ou d'un autre organisme, public ou privé, œuvrant dans le domaine de l'aéronautique, dans le cadre de leur formation continue et pour une durée limitée. Ces missions sont assimilées aux services effectifs effectués au sein des services de la direction générale de l'aviation civile. Au terme de leur mission, les personnels navigants techniques de la direction générale de l'aviation civile bénéficient d'une priorité de réaffectation sur leur poste précédent ou, par défaut, sur un autre poste vacant dans le même service.

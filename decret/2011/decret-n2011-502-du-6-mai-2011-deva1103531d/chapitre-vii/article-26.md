@@ -1,0 +1,3 @@
+# Article 26
+
+Le présent décret s'applique aux personnels navigants précédemment régis par les dispositions du décret n° 61-776 du 21 juillet 1961 modifié relatif aux dispositions statutaires applicables au personnel navigant de la formation aéronautique, du travail aérien et des transports. Ces agents sont reclassés, à la date d'effet du présent décret, dans les groupes prévus à l'article 2 ci-dessus, en raison des qualifications professionnelles, telles que définies à l'article 5 ci-dessus, qu'ils détiennent et, le cas échéant, des fonctions qu'ils exercent, à échelon numériquement égal à celui détenu, à la date de reclassement, en application du décret susmentionné du 21 juillet 1961.

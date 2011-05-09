@@ -30,6 +30,8 @@
 - [Décret n°2011-498 du 5 mai 2011 (ETSG1106716D)](decret-n2011-498-du-5-mai-2011-etsg1106716d)
 - [Décret n°2011-499 du 5 mai 2011 (ETSG1106721D)](decret-n2011-499-du-5-mai-2011-etsg1106721d)
 - [Décret n°2011-377 du 6 avril 2011 (ETSH1100232D)](decret-n2011-377-du-6-avril-2011-etsh1100232d)
+- [Décret n°2011-501 du 6 mai 2011 (DEVT1017995D)](decret-n2011-501-du-6-mai-2011-devt1017995d)
+- [Décret n°2011-502 du 6 mai 2011 (DEVA1103531D)](decret-n2011-502-du-6-mai-2011-deva1103531d)
 - [Décret n°2011-249 du 7 mars 2011 (BCRD1105166D)](decret-n2011-249-du-7-mars-2011-bcrd1105166d)
 - [Décret n°2011-250 du 7 mars 2011 (MCCK1027687D)](decret-n2011-250-du-7-mars-2011-mcck1027687d)
 - [Décret n°2011-380 du 7 avril 2011 (EFIE1102366D)](decret-n2011-380-du-7-avril-2011-efie1102366d)
