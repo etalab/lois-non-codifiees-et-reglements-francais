@@ -51,10 +51,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p align="center">1</p>
 </td>
 <td rowspan="2" width="77">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 <td rowspan="2" width="83">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +62,10 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p>Ingénieurs principaux de physique nucléaire de 2e classe</p>
 </td>
 <td width="77">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="77">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -96,19 +96,21 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p align="center">3</p>
 </td>
 <td width="282">
-<p>Techniciens principaux de physique nucléaire, techniciens de physique nucléaire de 1re classe, techniciens d'atelier de physique nucléaire de 1re classe, techniciens d'études de physique nucléaire de 1re classe, préparateurs de physique nucléaire de 1re classe</p>
+<p>Techniciens principaux de physique nucléaire</p>
+<p>Techniciens d'atelier de physique nucléaire de 1re classe</p>
+<p>Techniciens d'études de physique nucléaire de 1re classe</p>
 </td>
 <td width="77">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="77">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="77">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="83">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>
