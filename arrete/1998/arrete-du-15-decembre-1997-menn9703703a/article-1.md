@@ -40,9 +40,9 @@ L'octroi du congé bonifié ;
 
 L'octroi du congé administratif prévu par le décret du 26 novembre 1996 susvisé ;
 
-L'ouverture du droit à la prise en charge de frais de changement de résidence en application des dispositions des décrets du  12 avril 1989  et 28 mai 1990 susvisés ;
+L'ouverture du droit à la prise en charge de frais de changement de résidence en application des dispositions des décrets du 12 avril 1989 et 28 mai 1990 susvisés ;
 
-L'ouverture du droit à l'attribution de l'indemnité d'éloignement en application des dispositions des décrets du  22 décembre 1953  et du 26 novembre 1996 susvisés ;
+L'ouverture du droit à l'attribution de l'indemnité d'éloignement en application du décret n° 96-1028 du 27 novembre 1996 relatif à l'attribution de l'indemnité d'éloignement aux magistrats et aux fonctionnaires titulaires et stagiaires de l'Etat en service à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
 L'octroi des autorisations prévues par les articles L. 413-1, L. 413-8 et L. 413-12 du code de la recherche ;
 
@@ -58,11 +58,11 @@ L'exercice des fonctions à temps partiel ;
 
 L'octroi des congés prévus aux articles 17, 19 bis et 22 du décret du 7 octobre 1994 susvisé ;
 
-L'octroi des congés prévus aux  articles 18, 19, 20, 21, 21 bis, 23 et 24-2° du décret du 7 octobre 1994  susvisé et réintégration après ces congés ;
+L'octroi des congés prévus aux articles 18, 19, 20, 21, 21 bis, 23 et 24-2° du décret du 7 octobre 1994 susvisé et réintégration après ces congés ;
 
 L'octroi des congés de maladie et de longue maladie prévus aux articles 24 et 24 bis du décret du 7 octobre 1994 susvisé ;
 
-La suspension prévue à l' article 30 de la loi du 13 juillet 1983  susvisée ;
+La suspension prévue à l' article 30 de la loi du 13 juillet 1983 susvisée ;
 
 Les actes pris pour l'application des sanctions disciplinaires prononcées par le conseil d'administration ou le Conseil national de l'enseignement supérieur et de la recherche, à l'exception de la mise à la retraite d'office et de la révocation ;
 
@@ -70,4 +70,8 @@ Le recul de limite d'âge prévu par l'article 4 de la loi du 18 août 1936 ;
 
 La prolongation d'activité prévue par l'article 1-1 de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge des fonctionnaires ;
 
-Le maintien en fonctions jusqu'à la fin de l'année universitaire et le maintien en activité en surnombre de l' article L. 952-10 du code de l'éducation .
+Le maintien en fonctions jusqu'à la fin de l'année universitaire et le maintien en activité en surnombre de l' article L. 952-10 du code de l'éducation.
+
+L'octroi du congé de formation professionnelle prévu par le 6° de l'article 34 de la loi du 11 janvier 1984 susvisée ;
+
+L'ouverture des droits à la prise en charge des frais de changement de résidence en application des dispositions du décret n° 98-844 du 22 septembre 1998 fixant les conditions et les modalités de règlement des frais occasionnés par les changements de résidence des personnels civils de l'Etat à l'intérieur d'un territoire d'outre-mer, entre la métropole et un territoire d'outre-mer, entre deux territoires d'outre-mer et entre un territoire d'outre-mer et un département d'outre-mer, Mayotte ou la collectivité territoriale de Saint-Pierre-et-Miquelon.
