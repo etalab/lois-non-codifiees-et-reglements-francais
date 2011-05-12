@@ -1,5 +1,0 @@
-# Article 2
-
-La commission nationale de concertation est composée de représentants des organisations syndicales représentées au comité technique paritaire ministériel placé auprès des ministres chargés de la santé, de l'assurance maladie, des personnes âgées et des personnes handicapées et dans l'instance nationale de concertation prévue au 5° de l'article L. 224-5-2 du code de la sécurité sociale.
-
-La commission nationale de concertation comprend également deux représentants des ministres chargés de la santé, de l'assurance maladie, des personnes âgées et des personnes handicapées, dont le secrétaire général des ministères chargés des affaires sociales, ou son représentant, qui la préside, le directeur de l'Union nationale des caisses d'assurance maladie, ou son représentant, le directeur de l'Union des caisses nationales de sécurité sociale, ou son représentant, et deux directeurs généraux d'agence régionale de santé désignés par les ministres chargés de la santé, de l'assurance maladie, des personnes âgées et des personnes handicapées.
