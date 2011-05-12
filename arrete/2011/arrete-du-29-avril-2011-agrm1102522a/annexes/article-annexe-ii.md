@@ -1,0 +1,9 @@
+# Article Annexe II
+
+MODÈLE DE NOTIFICATION PRÉALABLE DE TRANSBORDEMENT
+
+ÉTABLIE PAR LE CAPITAINE DU NAVIRE DONNEUR OU SON REPRÉSENTANT
+
+Vous pouvez consulter le modèle dans le
+
+JOn° 109 du 11/05/2011 texte numéro 34

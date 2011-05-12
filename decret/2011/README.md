@@ -43,6 +43,7 @@
 - [Décret n°2011-256 du 9 mars 2011 (EFIT1030422D)](decret-n2011-256-du-9-mars-2011-efit1030422d)
 - [Décret n°2011-257 du 9 mars 2011 (ETSH1022319D)](decret-n2011-257-du-9-mars-2011-etsh1022319d)
 - [Décret n°2011-503 du 9 mai 2011 (ETSP1108841D)](decret-n2011-503-du-9-mai-2011-etsp1108841d)
+- [Décret n°2011-505 du 9 mai 2011 (DEFD1109937D)](decret-n2011-505-du-9-mai-2011-defd1109937d)
 - [Décret n°2011-258 du 10 mars 2011 (ETSS1033058D)](decret-n2011-258-du-10-mars-2011-etss1033058d)
 - [Décret n°2011-259 du 10 mars 2011 (AGRX1105268D)](decret-n2011-259-du-10-mars-2011-agrx1105268d)
 - [Décret n°2011-260 du 10 mars 2011 (AGRT1032629D)](decret-n2011-260-du-10-mars-2011-agrt1032629d)
