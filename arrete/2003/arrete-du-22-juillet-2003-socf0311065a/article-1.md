@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de technicien(ne) réseaux et télécommunications d'entreprise est créé.
+Le titre professionnel de technicien (ne) réseaux et télécommunications d'entreprise est prorogé à compter du 12 mai 2011.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 

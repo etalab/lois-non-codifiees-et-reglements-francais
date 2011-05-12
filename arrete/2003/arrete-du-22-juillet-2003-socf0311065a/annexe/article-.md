@@ -2,81 +2,95 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien(ne) réseaux et télécommunications d'entreprise.
+Intitulé : technicien réseaux et télécommunications d'entreprise.
 
 Niveau : IV.
 
-Code NSF : 326 r.
+Code NSF : 326 r-informatique, traitement de l'information, réseaux de transmission.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) réseaux et télécommunications d'entreprise, à partir du cahier des charges client, intègre, installe, met en service, dépanne, maintient, fait évoluer des systèmes de réseaux de communications (données, voix, images), de télécommunications et leurs périphériques.
+Le (la) technicien (ne) réseaux et télécommunications d'entreprise a pour mission d'intervenir sur les systèmes de réseaux informatiques, de communication et de télécommunications de l'entreprise.
 
-Le (la) technicien(ne), pour installer et mettre en service, applique des procédures en respectant les règles de sécurité. Il (elle) vérifie la conformité de son installation du point de vue technique et en fonction des demandes du client.
+Il (elle) effectue l'exploitation courante : intervention sur demande, vérification du bon fonctionnement des équipements et assistance aux utilisateurs dans l'utilisation des technologies de communication et en cas de problème technique.
 
-Il (elle) procède aux contrôles des systèmes de réseaux et de télécommunications en utilisant des appareils de test et de mesure pour valider ses contrôles. Il (elle) dépanne par remplacement et paramétrage de sous-ensembles.
+Pour installer et mettre en service les systèmes, il (elle) applique des procédures en respectant les règles de sécurité, procède à la mise en conformité de l'installation et accompagne le client dans la prise en main des fonctionnalités mises en œuvre.
 
-Il (elle) assiste, conseille et aide les clients à prendre en main les systèmes matériels et logiciels.
+Dans la phase de maintenance, il (elle) assure le dépannage, l'entretien préventif, la maintenance corrective des matériels et des logiciels du réseau informatique de communications et de télécommunications de l'entreprise.
 
-Le (la) technicien(ne) réseaux et télécommunications d'entreprise intervient dans le cadre de procédures, de cahier des charges, de contrat de services, seul(e) ou en relation avec d'autres techniciens.
+Il (elle) assure aussi des fonctions de conseil et d'assistance technique, sur site ou à distance, auprès de la clientèle.
+
+Il (elle) intervient en clientèle dans le cadre de cahier des charges, en appliquant des procédures, seul ou en relation avec d'autres techniciens.
+
+Il (elle) veille à la satisfaction du client en répondant à ses demandes dans le cadre d'un contrat de service.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Intégrer des équipements de réseaux
+1. Exploiter le réseau informatique
 
 et de télécommunications d'entreprise
 
-Assembler et raccorder les éléments d'un équipement de réseaux et de télécommunications d'entreprise à intégrer.
+Traiter une demande d'intervention sur le réseau informatique et télécommunication d'entreprise.
 
-Configurer et paramétrer des équipements de réseaux et de télécommunications d'entreprise.
+Utiliser les outils d'exploitation du réseau informatique et de télécommunications.
 
-Effectuer des essais fonctionnels d'équipements de réseaux et de télécommunications d'entreprise.
+Diagnostiquer et résoudre le dysfonctionnement d'un équipement de réseaux informatiques et de télécommunications.
+
+Préparer, livrer et tester le bon fonctionnement des équipements informatiques et de téléphonie.
+
+Assister l'utilisateur d'un poste informatique ou d'un équipement de téléphonie.
 
 2. Installer et mettre en service des systèmes de réseaux
 
 et de télécommunications d'entreprise
 
-Réaliser et mettre en conformité une installation de réseaux et de télécommunications d'entreprise.
+Contrôler et mettre en conformité une installation de réseaux informatiques et de télécommunications en s'assurant de la complétude du cahier des charges.
 
-Réaliser la mise en service d'une installation de réseaux et de télécommunications d'entreprise.
+Installer et mettre en service des systèmes de réseaux informatiques et de télécommunications.
 
-Réaliser la recette d'une installation de réseaux et de télécommunications d'entreprise.
+Réaliser la recette d'une installation d'un système de réseaux informatiques et de télécommunications.
 
-Aider et conseiller le client lors de la prise en main des systèmes et réseaux de télécommunications d'entreprise.
+Aider et conseiller le client lors de la prise en main des systèmes et réseaux informatique et de télécommunications.
 
-3. Maintenir des systèmes de réseaux
+3. Maintenir le réseau informatique et de télécommunications
 
-et de télécommunications d'entreprise
+d'entreprise et contribuer à le faire évoluer
 
-Diagnostiquer et dépanner sur site des dysfonctionnements des systèmes de réseaux et de télécommunications d'entreprise.
+Réaliser la maintenance préventive et effectuer les mises à jour des équipements de systèmes de réseaux informatiques et de télécommunications.
 
-Effectuer les mises à jour des équipements de systèmes de réseaux et de télécommunications d'entreprise.
+Diagnostiquer et résoudre le dysfonctionnement, sur site ou à distance, de systèmes de réseaux informatiques et de télécommunications.
 
-Appliquer les procédures d'exploitation des systèmes de réseaux et de télécommunications d'entreprise.
+Assister et conseiller le client à distance pour la maintenance des systèmes de réseaux informatiques et de télécommunications.
 
-Assister et conseiller le client à distance pour la maintenance des systèmes de réseaux et de télécommunications d'entreprise.
+Apporter un appui technique lors d'une démarche commerciale.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
+Compétences directement rattachées à l'emploi type
 
-Société de services en télécommunications et réseaux (SSTR), en plate-forme d'intégration et sur les sites clients et peut aussi intervenir à distance.
+Néant.
 
-Société de services et d'ingénierie informatique (SSII) réalisant des prestations en régie ou ponctuellement, sur les équipements informatiques, réseaux et télécommunications.
+Secteur d'activité ou types d'emploi
 
-Structure utilisatrice, de type grand compte, qui possède un service dédié aux réseaux et télécommunications.
+accessibles par le détenteur du titre
 
-Codes ROME :
+Cet emploi s'exerce auprès d'entreprises de type PME-PMI et grandes entreprises, de type :
 
-52321 - Technicien de maintenance en informatique ;
+-SSTR (société de services en télécommunications et réseaux) ;
 
-52311 - Technicien d'installation d'équipements industriels et professionnels.
+-SSII ;
 
-Réglementation de l'activité :
+-entreprises utilisatrices ;
 
-Décret n° 88-1056 du 14 novembre 1988 relatif à l'obligation de l'employeur de ne confier des travaux ou opérations qu'à des personnels qualifiés, en cohérence avec les prescriptions de sécurité UTE C18510 (habilitation électrique niveau BR selon les normes en vigueur).
+-équipementiers ;
+
+-opérateurs de télécommunications.
+
+Code (s) ROME :
+
+I1307-Installation et maintenance télécoms et courants faibles.
+
+I1401-Maintenance informatique et bureautique.
 
 Autorité responsable de la certification :
 
@@ -84,8 +98,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002  relatif au titre professionnel du ministère chargé de l'emploi ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
