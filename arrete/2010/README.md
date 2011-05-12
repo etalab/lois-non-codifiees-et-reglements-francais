@@ -1044,7 +1044,6 @@
 - [Arrêté du 12 mars 2010 (AGRM1002992A)](arrete-du-12-mars-2010-agrm1002992a)
 - [Arrêté du 12 mars 2010 (AGRM1002995A)](arrete-du-12-mars-2010-agrm1002995a)
 - [Arrêté du 12 mars 2010 (AGRM1004537A)](arrete-du-12-mars-2010-agrm1004537a)
-- [Arrêté du 12 mars 2010 (AGRM1007471A)](arrete-du-12-mars-2010-agrm1007471a)
 - [Arrêté du 12 mars 2010 (AGRT1006224A)](arrete-du-12-mars-2010-agrt1006224a)
 - [Arrêté du 12 mars 2010 (BCFF1006270A)](arrete-du-12-mars-2010-bcff1006270a)
 - [Arrêté du 12 mars 2010 (DEFH1007198A)](arrete-du-12-mars-2010-defh1007198a)
