@@ -1426,7 +1426,6 @@
 - [Arrêté du 18 août 2009 (SASP0920244A)](arrete-du-18-aout-2009-sasp0920244a)
 - [Arrêté du 18 avril 2008 (IOCE0809564A)](arrete-du-18-avril-2008-ioce0809564a)
 - [Arrêté du 18 avril 2009 (SASG0909710A)](arrete-du-18-avril-2009-sasg0909710a)
-- [Arrêté du 18 décembre 2008 (DEFA0900552A)](arrete-du-18-decembre-2008-defa0900552a)
 - [Arrêté du 18 décembre 2008 (DEVA0830317A)](arrete-du-18-decembre-2008-deva0830317a)
 - [Arrêté du 18 décembre 2008 (DEVA0830424A)](arrete-du-18-decembre-2008-deva0830424a)
 - [Arrêté du 18 décembre 2008 (DEVT0829963A)](arrete-du-18-decembre-2008-devt0829963a)
