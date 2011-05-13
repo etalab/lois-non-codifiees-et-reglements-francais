@@ -2,9 +2,7 @@
 
 Surveillance de la fabrication
 
-Le présent article s'applique aux types de matériels, de matériaux ou d'équipements pour lesquels une surveillance de la fabrication est prescrite par le chapitre pertinent du livre 3 hors la division 311.
-
-1. L'organisme notifié assure la surveillance de la fabrication selon l'organisation et la réglementation qui lui sont propres. Cette surveillance s'exerce :
+1. Sauf disposition contraire du présent règlement, l'organisme notifié assure la surveillance de la fabrication selon l'organisation et la réglementation qui lui sont propres. Cette surveillance s'exerce :
 
 1.1 sur le système de contrôle de la qualité : l'organisme notifié s'assure que le fabricant met en œuvre les dispositions de contrôle de la qualité exigées ;
 

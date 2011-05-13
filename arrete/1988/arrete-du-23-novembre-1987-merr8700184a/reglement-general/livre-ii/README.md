@@ -7,6 +7,7 @@
 - [Division 214 : Protection des travailleurs appareils de levage.](division-214)
 - [Division 215 : Habitabilité.](division-215)
 - [Division 217 : Dispositions sanitaires et médicales.](division-217)
+- [Division 218 : Systèmes de traitement des eaux de ballast](division-218)
 - [Division 219 : Radiocommunications pour le système mondial de détresse et de sécurité en mer.](division-219)
 - [Division 221 : Navires à passagers effectuant des voyages internationaux et navires de charge de jauge brute égale ou supérieure à 500](division-221)
 - [Division 222 : Navires de charge de jauge brute inférieure à 500](division-222)

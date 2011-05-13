@@ -49,7 +49,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="11">Bureau Veritas </td>
+<td rowspan="12">Bureau Veritas </td>
 <td>-A.2/1 Engins de sauvetage.</td>
 </tr>
 <tr>
@@ -81,6 +81,9 @@
 </tr>
 <tr>
 <td>-Division 361 : Dispositifs de détection et d'alarme d'envahissement</td>
+</tr>
+<tr>
+<td>- Division 218 : Gestion des eaux de ballast </td>
 </tr>
 </tbody>
 </table>
