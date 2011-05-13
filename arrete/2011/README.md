@@ -376,7 +376,6 @@
 - [Arrêté du 11 janvier 2011 (AGRT1100250A)](arrete-du-11-janvier-2011-agrt1100250a)
 - [Arrêté du 11 janvier 2011 (DEFD1032862A)](arrete-du-11-janvier-2011-defd1032862a)
 - [Arrêté du 11 janvier 2011 (DEFM1101198A)](arrete-du-11-janvier-2011-defm1101198a)
-- [Arrêté du 11 janvier 2011 (DEVA1101011A)](arrete-du-11-janvier-2011-deva1101011a)
 - [Arrêté du 11 janvier 2011 (DEVL1032420A)](arrete-du-11-janvier-2011-devl1032420a)
 - [Arrêté du 11 janvier 2011 (EFIC1030148A)](arrete-du-11-janvier-2011-efic1030148a)
 - [Arrêté du 11 janvier 2011 (EFIG1033121A)](arrete-du-11-janvier-2011-efig1033121a)
