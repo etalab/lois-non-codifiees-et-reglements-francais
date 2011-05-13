@@ -99,8 +99,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">GRETA RESEAU GRAPHIQUE ECOLE SUPERIEURE ESTIENNE.<br/>
-</td>
+<td align="center">ECOLE SUPERIEURE D'ARTS APPLIQUES BOULLE - GRETA DE LA CREATION, DU DESIGN ET DES METIERS D'ART.</td>
 </tr>
 <tr>
 <td align="center">IV<br/>
@@ -231,7 +230,9 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">GRETA RESEAU GRAPHIQUE ECOLE SUPERIEURE ESTIENNE.<br/>
+<td align="center">
+<p>ECOLE SUPERIEURE D'ARTS APPLIQUES BOULLE - GRETA DE LA CREATION, DU DESIGN ET DES METIERS D'ART.</p>
+<br/>
 </td>
 </tr>
 <tr>
