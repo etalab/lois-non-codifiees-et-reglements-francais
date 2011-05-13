@@ -1,0 +1,9 @@
+# Article 3
+
+La répartition entre les circonscriptions territoriales de Wallis-et-Futuna de la quote-part de la dotation d'équipement des territoires ruraux mentionnée à l'article L. 2334-34 du code général des collectivités territoriales est opérée selon les modalités suivantes :
+
+1° Pour les circonscriptions territoriales de plus de 20 000 habitants, les crédits sont calculés par application au montant de la quote-part du rapport existant entre la population de l'ensemble des communes, groupements et circonscriptions territoriales de plus de 20 000 habitants de Wallis-et-Futuna, de la Nouvelle-Calédonie, de la Polynésie française et de Mayotte et la population totale des communes, groupements et circonscriptions territoriales de ces collectivités. Cette fraction est répartie entre les communes, groupements et circonscriptions territoriales de plus de 20 000 habitants proportionnellement à leur population, sous forme d'une dotation annuelle versée au cours du premier trimestre de l'année.
+
+Cette dotation est inscrite à la section d'investissement ou de fonctionnement du budget de la circonscription territoriale, selon la nature du projet. La circonscription territoriale affecte la subvention au financement des projets de son choix.
+
+2° Pour les circonscriptions territoriales dont la population n'excède pas 20 000 habitants, les crédits de la quote-part sont délégués au représentant de l'Etat en proportion de la population de ces circonscriptions territoriales par rapport à la population totale des communes, groupements et circonscriptions territoriales n'excédant pas 20 000 habitants de Wallis-et-Futuna, de la Nouvelle-Calédonie, de la Polynésie française et de Mayotte. Le représentant de l'Etat attribue ces crédits après avis des chefs de circonscription sous forme de subventions en vue de la réalisation de projets dans les conditions prévues aux articles R. 2334-19 à R. 2334-29.
