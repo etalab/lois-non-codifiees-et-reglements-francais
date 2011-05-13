@@ -100,7 +100,6 @@
 - [Décret n°94-362 du 4 mai 1994 (INTC9400120D)](decret-n94-362-du-4-mai-1994-intc9400120d)
 - [Décret n°94-363 du 4 mai 1994 (INTC9400121D)](decret-n94-363-du-4-mai-1994-intc9400121d)
 - [Décret n°86-1247 du 5 décembre 1986](decret-n86-1247-du-5-decembre-1986)
-- [Décret n°93-289 du 5 mars 1993 (INTB9300061D)](decret-n93-289-du-5-mars-1993-intb9300061d)
 - [Décret n°94-10 du 5 janvier 1994 (DEFP9302165D)](decret-n94-10-du-5-janvier-1994-defp9302165d)
 - [Décret n°94-1042 du 5 décembre 1994 (INDF9401157D)](decret-n94-1042-du-5-decembre-1994-indf9401157d)
 - [Décret n°94-1045 du 5 décembre 1994 (SPSS9403652D)](decret-n94-1045-du-5-decembre-1994-spss9403652d)

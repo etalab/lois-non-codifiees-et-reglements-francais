@@ -124,8 +124,6 @@
 - [Décret n°86-400 du 12 mars 1986](decret-n86-400-du-12-mars-1986)
 - [Décret n°86-404 du 12 mars 1986](decret-n86-404-du-12-mars-1986)
 - [Décret n°86-416 du 12 mars 1986](decret-n86-416-du-12-mars-1986)
-- [Décret n°86-419 du 12 mars 1986](decret-n86-419-du-12-mars-1986)
-- [Décret n°86-420 du 12 mars 1986](decret-n86-420-du-12-mars-1986)
 - [Décret n°86-422 du 12 mars 1986](decret-n86-422-du-12-mars-1986)
 - [Décret n°86-433 du 12 mars 1986](decret-n86-433-du-12-mars-1986)
 - [Décret n°86-434 du 12 mars 1986](decret-n86-434-du-12-mars-1986)
