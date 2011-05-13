@@ -1,5 +1,3 @@
 # Article 20
 
-Dans les établissements public de l'Etat, autres que la villa Arson, l'Ecole nationale supérieure de la photographie et les écoles nationales supérieures d'art de Bourges, de Cergy, de Dijon, de Limoges-Aubusson et de Nancy, le directeur de l'établissement notifie à l'étudiant qui en a fait la demande la décision d'attribution ou de refus d'une bourse d'enseignement supérieur sur critères sociaux.
-
-Dans les autres établissements d'enseignement supérieur, le préfet de région notifie à l'étudiant qui en a fait la demande la décision d'attribution ou de refus d'une bourse d'enseignement supérieur sur critères sociaux.
+Dans les établissements d'enseignement supérieur relevant du ministère de la culture, le directeur du centre régional des œuvres universitaires notifie à l'étudiant qui en a fait la demande la décision d'attribution ou de refus d'une bourse d'enseignement supérieur sur critères sociaux.
