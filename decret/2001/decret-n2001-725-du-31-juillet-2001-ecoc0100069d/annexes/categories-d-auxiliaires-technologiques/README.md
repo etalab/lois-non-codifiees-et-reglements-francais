@@ -1,3 +1,0 @@
-# CATÉGORIES D'AUXILIAIRES TECHNOLOGIQUES
-
-- [Article ANNEXE](article-annexe.md)

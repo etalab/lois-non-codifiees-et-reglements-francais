@@ -523,7 +523,6 @@
 - [Décret n°2001-720 du 31 juillet 2001 (INTM0100020D)](decret-n2001-720-du-31-juillet-2001-intm0100020d)
 - [Décret n°2001-722 du 31 juillet 2001 (INTC0100216D)](decret-n2001-722-du-31-juillet-2001-intc0100216d)
 - [Décret n°2001-724 du 31 juillet 2001 (ECOC0000090D)](decret-n2001-724-du-31-juillet-2001-ecoc0000090d)
-- [Décret n°2001-725 du 31 juillet 2001 (ECOC0100069D)](decret-n2001-725-du-31-juillet-2001-ecoc0100069d)
 - [Décret n°2001-726 du 31 juillet 2001 (ECOM0100391D)](decret-n2001-726-du-31-juillet-2001-ecom0100391d)
 - [Décret n°2001-727 du 31 juillet 2001 (ECOI0120058D)](decret-n2001-727-du-31-juillet-2001-ecoi0120058d)
 - [Décret n°2001-728 du 31 juillet 2001 (JUSC0120401D)](decret-n2001-728-du-31-juillet-2001-jusc0120401d)
