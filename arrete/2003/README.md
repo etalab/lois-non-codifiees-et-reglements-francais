@@ -666,7 +666,6 @@
 - [Arrêté du 23 décembre 2002 (EQUT0201892A)](arrete-du-23-decembre-2002-equt0201892a)
 - [Arrêté du 23 décembre 2003 (ECOT0337073A)](arrete-du-23-decembre-2003-ecot0337073a)
 - [Arrêté du 23 décembre 2003 (FAMA0325025A)](arrete-du-23-decembre-2003-fama0325025a)
-- [Arrêté du 23 décembre 2003 (SANH0324136A)](arrete-du-23-decembre-2003-sanh0324136a)
 - [Arrêté du 23 janvier 2003 (JUSA0300024A)](arrete-du-23-janvier-2003-jusa0300024a)
 - [Arrêté du 23 janvier 2003 (SANP0320255A)](arrete-du-23-janvier-2003-sanp0320255a)
 - [Arrêté du 23 juillet 2003 (DEVE0320230A)](arrete-du-23-juillet-2003-deve0320230a)
