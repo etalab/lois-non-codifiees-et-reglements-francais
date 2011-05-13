@@ -18,6 +18,7 @@
 - [Décret n°2006-657 du 2 juin 2006 (MCCT0600254D)](decret-n2006-657-du-2-juin-2006-mcct0600254d)
 - [Décret n°2002-749 du 2 mai 2002 (EQUA0200732D)](decret-n2002-749-du-2-mai-2002-equa0200732d)
 - [Décret n°2006-497 du 2 mai 2006 (DEFD0600489D)](decret-n2006-497-du-2-mai-2006-defd0600489d)
+- [Décret n°2006-106 du 3 février 2006 (INTE0500250D)](decret-n2006-106-du-3-fevrier-2006-inte0500250d)
 - [Décret n°2006-12 du 3 janvier 2006 (ECOP0500955D)](decret-n2006-12-du-3-janvier-2006-ecop0500955d)
 - [Décret n°2006-1333 du 3 novembre 2006 (PRMX0600177D)](decret-n2006-1333-du-3-novembre-2006-prmx0600177d)
 - [Décret n°2006-1334 du 3 novembre 2006 (MENX0600140D)](decret-n2006-1334-du-3-novembre-2006-menx0600140d)
