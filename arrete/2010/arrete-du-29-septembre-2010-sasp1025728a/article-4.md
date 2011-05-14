@@ -12,6 +12,4 @@ Avant la mise en œuvre de chaque recherche, le responsable du lieu de recherche
 
 ― le cas échéant, de l'existence de procédés spécifiques permettant de corriger des effets indésirables des produits utilisés dans la recherche ainsi que les événements pouvant être liés aux gestes de mise en œuvre des produits ou à la recherche ;
 
-― le cas échéant, d'une composition particulière du chariot d'urgence adaptée à la recherche et de la procédure d'approvisionnement et d'administration des produits antidotes ;
-
-― des modalités de prise en charge immédiate d'éventuels effets et événements indésirables.
+― le cas échéant, d'une composition particulière du chariot d'urgence adaptée à la recherche et de la procédure d'approvisionnement et d'administration des produits antidotes.
