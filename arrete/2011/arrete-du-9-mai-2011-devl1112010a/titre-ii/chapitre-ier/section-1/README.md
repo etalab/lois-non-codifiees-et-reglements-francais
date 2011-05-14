@@ -1,0 +1,3 @@
+# SECTION 1 : CONDITIONS DE DECLENCHEMENT
+
+- [Article 8](article-8.md)
