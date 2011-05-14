@@ -1077,7 +1077,6 @@
 - [Arrêté du 12 novembre 2010 (JUSB1024452A)](arrete-du-12-novembre-2010-jusb1024452a)
 - [Arrêté du 12 novembre 2010 (JUSB1024454A)](arrete-du-12-novembre-2010-jusb1024454a)
 - [Arrêté du 12 novembre 2010 (JUST1026971A)](arrete-du-12-novembre-2010-just1026971a)
-- [Arrêté du 12 novembre 2010 (MEND1025980A)](arrete-du-12-novembre-2010-mend1025980a)
 - [Arrêté du 12 novembre 2010 (PRMX1027963A)](arrete-du-12-novembre-2010-prmx1027963a)
 - [Arrêté du 12 novembre 2010 (SASR1028820A)](arrete-du-12-novembre-2010-sasr1028820a)
 - [Arrêté du 12 novembre 2010 (SASV1028835A)](arrete-du-12-novembre-2010-sasv1028835a)
