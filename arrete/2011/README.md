@@ -402,6 +402,7 @@
 - [Arrêté du 12 janvier 2011 (IOCC1033208A)](arrete-du-12-janvier-2011-iocc1033208a)
 - [Arrêté du 12 janvier 2011 (MENE1031475A)](arrete-du-12-janvier-2011-mene1031475a)
 - [Arrêté du 12 janvier 2011 (MENE1031483A)](arrete-du-12-janvier-2011-mene1031483a)
+- [Arrêté du 12 novembre 2010 (MEND1025980A)](arrete-du-12-novembre-2010-mend1025980a)
 - [Arrêté du 12 octobre 2010 (BCRE1028274A)](arrete-du-12-octobre-2010-bcre1028274a)
 - [Arrêté du 12 octobre 2010 (SASP1011523A)](arrete-du-12-octobre-2010-sasp1011523a)
 - [Arrêté du 13 avril 2011 (AGRG1031423A)](arrete-du-13-avril-2011-agrg1031423a)

@@ -51,7 +51,6 @@
 - [Arrêté du 3 février 1989 (PTTP8900102A)](arrete-du-3-fevrier-1989-pttp8900102a)
 - [Arrêté du 3 janvier 1989 (SPSH8900017A)](arrete-du-3-janvier-1989-spsh8900017a)
 - [Arrêté du 3 juillet 1989 (AGRU8901180A)](arrete-du-3-juillet-1989-agru8901180a)
-- [Arrêté du 3 juillet 1989 (DEFM8901563A)](arrete-du-3-juillet-1989-defm8901563a)
 - [Arrêté du 3 juillet 1989 (EQUP8900663A)](arrete-du-3-juillet-1989-equp8900663a)
 - [Arrêté du 3 mars 1989 (SPSS8900477A)](arrete-du-3-mars-1989-spss8900477a)
 - [Arrêté du 3 novembre 1989 (MERE8900201A)](arrete-du-3-novembre-1989-mere8900201a)
