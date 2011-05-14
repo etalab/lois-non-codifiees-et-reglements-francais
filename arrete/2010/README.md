@@ -358,7 +358,6 @@
 - [Arrêté du 5 octobre 2010 (SASH1024962A)](arrete-du-5-octobre-2010-sash1024962a)
 - [Arrêté du 5 mai 2004 (SOCF0410893A)](arrete-du-5-mai-2004-socf0410893a)
 - [Arrêté du 5 mai 2009 (DEVA0909086A)](arrete-du-5-mai-2009-deva0909086a)
-- [Arrêté du 5 mai 2010 (AGRM1011854A)](arrete-du-5-mai-2010-agrm1011854a)
 - [Arrêté du 5 mai 2010 (DEFL1012220A)](arrete-du-5-mai-2010-defl1012220a)
 - [Arrêté du 5 mai 2010 (DEVA1002667A)](arrete-du-5-mai-2010-deva1002667a)
 - [Arrêté du 5 mai 2010 (DEVA1002669A)](arrete-du-5-mai-2010-deva1002669a)
