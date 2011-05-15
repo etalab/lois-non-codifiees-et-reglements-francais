@@ -108,7 +108,6 @@
 - [Arrêté du 4 avril 2011 (DEVT1108738A)](arrete-du-4-avril-2011-devt1108738a)
 - [Arrêté du 4 avril 2011 (ETSH1109649A)](arrete-du-4-avril-2011-etsh1109649a)
 - [Arrêté du 4 avril 2011 (ETSO1106459A)](arrete-du-4-avril-2011-etso1106459a)
-- [Arrêté du 4 avril 2011 (ETSP1112825A)](arrete-du-4-avril-2011-etsp1112825a)
 - [Arrêté du 4 avril 2011 (ETSS1109590A)](arrete-du-4-avril-2011-etss1109590a)
 - [Arrêté du 4 avril 2011 (IOCD1109073A)](arrete-du-4-avril-2011-iocd1109073a)
 - [Arrêté du 4 avril 2011 (IOCE1109479A)](arrete-du-4-avril-2011-ioce1109479a)
