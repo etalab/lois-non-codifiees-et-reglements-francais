@@ -1,25 +1,35 @@
 # Article 160-2.09
 
-Responsabilités de la compagnie
+Responsabilités ayant trait aux audits de la gestion de la sécurité.
 
-1. Pour satisfaire aux prescriptions du code ISM, la compagnie doit établir, mettre en oeuvre et maintenir un système de gestion de la sécurité visant à garantir que sa politique en matière de sécurité et de protection de l'environnement est appliquée. Cette politique doit comprendre les objectifs énoncés dans le code ISM (1).
+1. Responsabilités de la compagnie.
 
-2. La compagnie a la responsabilité de définir et de mettre en oeuvre les mesures nécessaires pour remédier à une non-conformité ou pour en éliminer la cause. La validité du document de conformité et des certificats de gestion de la sécurité connexes peut être mise en cause s'il n'est pas remédié aux défauts de conformité avec des prescriptions spécifiques du code ISM.
+La vérification du respect des prescriptions du code ISM ne dégage pas la compagnie, la direction, les officiers ou les gens de mer de leurs obligations en ce qui concerne le respect de la législation nationale et internationale relative à la sécurité et à la protection de l'environnement.
 
-3. Les mesures correctives et les audits consécutifs éventuels doivent être menés à bien dans les délais fixés. Les audits consécutifs devront être demandés à l'administration par la compagnie.
+Il incombe à la compagnie :
 
-4. La vérification du respect des prescriptions du code ISM ne dégage pas la compagnie, la direction, les officiers ou les membres de l'équipage de leurs obligations concernant le respect de la législation nationale et internationale relative à la sécurité et à la protection de l'environnement.
+- d'informer le personnel intéressé des objectifs et de la portée de la certification en vertu du code ISM ;
 
-5. La compagnie doit en outre :
+- de désigner des membres du personnel responsables pour accompagner les membres de l'équipe chargée de la certification ;
 
-5.1. Informer, le personnel intéressé, des objectifs et de la portée du système de certification en vertu du code ISM.
+- de fournir les ressources nécessaires aux personnes chargées de la certification pour garantir un processus de vérification efficace ;
 
-5.2. Désigner des membres du personnel responsables pour accompagner les membres de l'équipe chargée de la certification.
+- d'offrir l'accès et de fournir les pièces justificatives nécessaires aux personnes chargées de la certification ; et
 
-5.3. Fournir les ressources nécessaires aux personnes chargées de la certification pour garantir un processus de vérification efficace.
+- de coopérer avec l'équipe chargée de la vérification en vue de réaliser les objectifs de la certification.
 
-5.4. Offrir l'accès et fournir toutes les pièces justificatives nécessaires aux personnes chargées de la certification.
+2. Responsabilités de l'administration.
 
-5.5. Coopérer avec l'équipe chargée de la vérification en vue de réaliser les objectifs de la certification.
+Il incombe à l'administration de veiller à ce que le processus de certification se déroule conformément au code ISM et aux présentes directives.
 
-6. Le manuel de gestion de la sécurité, les procédures, plans et rapports exigés par le code ISM sont rédigés en français ou en anglais.
+3. Responsabilités de l'équipe d'audit.
+
+Que les vérifications nécessaires en vue de la certification soient effectuées ou non par une équipe, il convient de désigner un responsable ou conducteur d'audit. Ce dernier doit prendre les décisions finales concernant le déroulement de la vérification et l'établissement des constatations. Il a notamment les responsabilités suivantes :
+
+- établir et proposer un plan d'audit ;
+
+- présenter le compte rendu de l'audit ;
+
+- rédiger et valider le rapport d'audit.
+
+Le personnel qui participe à l'audit doit se conformer aux prescriptions applicables, respecter le caractère confidentiel des documents relatifs à la certification et traiter avec discrétion les renseignements confidentiels.

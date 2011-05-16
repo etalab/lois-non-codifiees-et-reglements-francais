@@ -1,5 +1,7 @@
 # Article 160-1.01
 
-Généralités
+Généralités.
 
-La présente division a pour objectifs de garantir la sécurité en mer et la prévention des lésions corporelles ou des pertes en vies humaines et d'empêcher les atteintes à l'environnement, en particulier l'environnement marin, ainsi que les dommages matériels, en particulier en associant les compagnies à la gestion pour la sécurité de l'exploitation des navires et la prévention de la pollution.
+La présente division a pour objectifs de garantir l'application du code international de gestion de la sécurité (code ISM) par les compagnies et sur les navires entrant dans le champ d'application défini à l'article 160-1.02.
+
+Elle intègre l'ensemble des directives de l'Organisation maritime internationale sur l'application du code par les compagnies et par l'administration.

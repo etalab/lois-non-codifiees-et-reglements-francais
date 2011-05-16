@@ -1,5 +1,7 @@
 # Article 160-2.07
 
-Vérifications inopinées
+Auditeurs.
 
-S'il existe des motifs évidents de croire que la compagnie et/ou le navire sont en situation de non-conformité, le sous-directeur chargé de la sécurité maritime ou le chef du centre de sécurité peut déclencher des audits de vérification, au siège de la compagnie ou à bord du navire.
+1. Les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes et le personnel qualifié, en poste au bureau de la réglementation et du contrôle des navires remplissant les critères de l'annexe 160-2.A.1 sont habilités à effectuer les audits de gestion de la sécurité.
+
+Les auditeurs désignés s'aident de l'instruction ISM du bureau de la réglementation et du contrôle de la sécurité des navires.

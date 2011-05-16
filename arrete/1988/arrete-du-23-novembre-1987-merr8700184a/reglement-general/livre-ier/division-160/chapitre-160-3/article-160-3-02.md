@@ -1,17 +1,23 @@
 # Article 160-3.02
 
-Document de conformité
+Elaboration d'un système de gestion de la sécurité.
 
-1. Le document de conformité est délivré par le sous-directeur chargé de la sécurité maritime, après vérification initiale et avis de la commission centrale de sécurité, aux compagnies exploitant au moins un navire relevant de ladite commission.
+1. En application du code ISM, les compagnies sont tenues de définir leurs objectifs en matière de sécurité, tels qu'énoncés à la section 1.2 du code, et d'établir, de mettre en œuvre et de maintenir un système de gestion de la sécurité qui comporte les modalités pratiques énumérées à la section 1.4 du code.
 
-Le document de conformité est délivré par le    directeur interrégional de la mer, après vérification initiale et avis de la commission régionale de sécurité, pour les compagnies n'exploitant que des navires relevant de cette commission. Lorsqu'une compagnie exploite des navires du ressort de plusieurs directions régionales, le directeur régional compétent est celui dont le siège de la direction est le plus proche du siège de la compagnie.
+2. Le code ISM étant fondé sur des principes d'autoréglementation, les processus de vérification et d'examen internes sont des aspects essentiels de l'application de chaque système de gestion de la sécurité.
 
-2. La composition et les qualifications de l'équipe d'audit chargée d'évaluer la conformité au code international de gestion de la sécurité (code ISM) du système de gestion de la sécurité de la compagnie sont fixées à l'annexe 160-3.A. 1.
+La compagnie doit donc examiner les résultats des audits internes du système de gestion de la sécurité et des analyses des défauts de conformité, accidents et incidents potentiellement dangereux, afin d'améliorer l'efficacité des opérations et des procédures dans le cadre de son système de gestion de la sécurité.
 
-Pour les compagnies visées au premier alinéa du paragraphe 1 ci-dessus, les membres de l'équipe d'audit sont désignés par le sous-directeur chargé de la sécurité maritime.
+3. Pour satisfaire aux dispositions du code, la compagnie doit :
 
-Pour les compagnies visées au deuxième alinéa du paragraphe 1 ci-dessus, les membres de l'équipe d'audit sont désignés par le    directeur interrégional de la mer compétent.
+.1 Désigner une ou plusieurs personnes ayant directement accès au plus haut niveau de la direction pour surveiller les aspects de l'exploitation de chaque navire liés à la sécurité ;
 
-3. Nonobstant toute autre disposition, la première vérification périodique du document initial de conformité est effectuée par une équipe d'audit constituée comme celle prévue au paragraphe 2.
+.2 Veiller à ce que des ressources adéquates et un soutien approprié à terre soient fournis pour que la ou les personnes désignées puissent s'acquitter de leurs tâches ;
 
-4 Nonobstant les dispositions du paragraphe 2 ci-dessus, le sous-directeur chargé de la sécurité maritime peut procéder à la désignation des membres de l'équipe d'audit, indépendamment de la compagnie.
+.3 Définir et établir par écrit les responsabilités du capitaine pour ce qui est de passer en revue le système de gestion de la sécurité et signaler les lacunes à la direction à terre ;
+
+.4 Etablir des procédures pour la notification et l'analyse des irrégularités, des accidents et des incidents potentiellement dangereux ;
+
+.5 Evaluer périodiquement l'efficacité du système de gestion de la sécurité et, lorsque cela s'avère nécessaire, réviser le système ; et
+
+.6 Effectuer des audits internes pour vérifier que les activités liées à la gestion de la sécurité sont conformes aux prescriptions du système de gestion de la sécurité.

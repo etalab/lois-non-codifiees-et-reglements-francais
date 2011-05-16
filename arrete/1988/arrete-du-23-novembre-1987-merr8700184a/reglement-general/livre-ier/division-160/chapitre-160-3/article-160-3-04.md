@@ -1,9 +1,23 @@
 # Article 160-3.04
 
-Auditeurs
+Notification et analyse des défauts de conformités, constatations, accidents et incidents potentiellement dangereux
 
-1. Les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes remplissant les critères de l'annexe 160-3.A.1 peuvent être habilités pour effectuer les audits et recevront à cet effet une attestation délivrée par le sous-directeur chargé de la sécurité maritime.
+1. Le système de gestion de la sécurité comprend des procédures garantissant que les défauts de conformité, les constatations et les incidents potentiellement dangereux sont notifiés à une ou des personne(s) responsable(s) au sein de la direction.
 
-2. Les sociétés de classification habilitées à évaluer les systèmes de gestion de la sécurité des compagnies proposent, selon le cas, au chef du bureau du contrôle des navires ou au chef du centre de sécurité des navires, un auditeur figurant sur la liste prévue au I de l'annexe 1603.A.2, qui sera chargé de participer à l'audit.
+La compagnie doit mettre en place un système lui permettant d'enregistrer, d'enquêter, d'évaluer, de passer en revue et d'analyser de telles notifications et de prendre les mesures appropriées.
 
-L'habilitation n'est accordée qu'aux sociétés de classification reconnues qui répondent en outre aux critères spécifiés dans l'annexe 160-3.A.2 et qui sont désignées dans cette annexe.
+2. Le système doit garantir que la ou les personnes responsables examinent et évaluent ces notifications afin de déterminer les mesures correctives à prendre et de s'assurer que de tels incidents ne se reproduisent pas.
+
+L'évaluation des notifications peut donner lieu à :
+
+.1 Des mesures correctives appropriées ;
+
+.2 Des amendements aux procédures et instructions en vigueur ; et
+
+.3 L'élaboration de nouvelles procédures et instructions.
+
+3. La ou les personnes responsables surveillent la mise en œuvre des mesures prises pour remédier aux défauts de conformité et aux défectuosités notifiés.
+
+Un accusé de réception peut être envoyé aux personnes à l'origine des notifications. Cet accusé de réception fournit des renseignements sur l'analyse de la notification, les actions correctives envisagées et sur les décisions prises.
+
+4. La compagnie doit promouvoir la notification des quasi-accidents afin d'assurer et d'améliorer la sensibilisation aux questions de sécurité. La notification et l'analyse de tels incidents sont indispensables pour que la compagnie puisse effectuer une évaluation efficace des risques. La compagnie devrait s'appuyer sur les recommandations de la circulaire MSC-MEPC.7/Circ. 7.

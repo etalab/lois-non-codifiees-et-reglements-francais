@@ -1,23 +1,25 @@
 # Article 160-2.04
 
-Vérification annuelle du document de conformité
+Vérification annuelle du document de conformité.
 
 1. Des audits annuels de gestion de la sécurité sont réalisés pour confirmer la validité du document de conformité. Lors de ces audits, il convient :
 
-- D'examiner et de vérifier l'exactitude des registres réglementaires et de classification, présentés pour un navire au moins de chaque catégorie à laquelle s'applique le système de gestion de la sécurité ;
+- d'examiner et de vérifier l'exactitude des registres réglementaires et de classification présentés pour au moins un navire de chaque type à laquelle s'applique le document de conformité ;
 
-- De vérifier que le système de gestion de la sécurité fonctionne efficacement ; et
+- de vérifier que le système de gestion de la sécurité fonctionne efficacement ; et
 
-- Que toutes modifications apportées au système sont conformes aux prescriptions du code ISM.
+- que toutes modifications apportées au système sont conformes aux prescriptions du code ISM.
 
-2. La vérification annuelle doit être effectuée au cours des trois mois qui précèdent ou qui suivent chaque date anniversaire du document de conformité.
+2. La vérification annuelle doit être effectuée au cours des trois mois qui précèdent ou qui suivent chaque date anniversaire du document de conformité. Les mesures correctives nécessaires doivent être prises dans un délai convenu ne dépassant pas trois mois.
 
-3. Lorsque la compagnie possède plusieurs établissements à terre dont certains n'ont pas été inspectés lors de la vérification initiale, les vérifications annuelles doivent garantir que tous les sites sont inspectés pendant la période de validité du document de conformité.
+3. Lorsque la compagnie possède plusieurs établissements à terre qui n'ont pas tous été inspectés lors de la vérification initiale, les évaluations annuelles devraient garantir que tous les sites sont inspectés pendant la période de validité du document de conformité.
 
-4. La vérification annuelle est demandée par la compagnie, avec un préavis d'au moins 2 mois, au chef du bureau du contrôle des navires. Sous réserve des dispositions du § 3 de l'article 160-3.02 en ce qui concerne la première vérification, elle est effectuée par une équipe d'auditeurs de l'administration, désignée conformément à l'article 160-3.02, ou, par délégation du sousdirecteur chargé de la sécurité maritime, par un auditeur de la société de classification habilitée choisie par l'armateur. Le conducteur d'audit transmet un exemplaire du rapport d'audit au bureau du contrôle des navires et vise l'attestation de conformité si aucune non-conformité majeure n'est constatée.
+4. La vérification annuelle est demandée par la compagnie, avec un préavis d'au moins deux mois, au chef du bureau de la réglementation et du contrôle des navires ou, selon le cas, à la direction interrégionale de la mer (DIRM) ou, outre-mer, à la direction de la mer (DM), ou au service des affaires maritimes (SAM) compétent.
 
-S'il relève une non-conformité majeure, le conducteur d'audit en informe sans délai le bureau du contrôle des navires.
+La vérification annuelle est effectuée par une équipe d'auditeurs de l'administration, désignée, conformément à l'article 160-4.01, sur décision du sous-directeur chargé de la sécurité maritime ou, selon le cas, de la DIRM ou la DM, ou le SAM compétent.
 
-Les mesures correctives doivent être prises dans un délai convenu ne dépassant pas 3 mois.
+Le conducteur d'audit transmet un exemplaire du rapport d'audit au bureau de la réglementation et du contrôle des navires ou, selon le cas, à la DIRM ou la DM, ou le SAM compétent. Il vise le document de conformité si aucune non-conformité majeure n'est constatée.
 
-5. La compagnie fait, au plus tôt, parvenir à chaque navire concerné un exemplaire visé du document de conformité. Pour chaque compagnie, le bureau du contrôle des navires conserve un exemplaire, à jour, du document de conformité.
+S'il relève une non-conformité majeure, le conducteur d'audit en informe sans délai le bureau de la réglementation et du contrôle des navires ou, selon le cas, la DIRM, la DM, ou au SAM compétent.
+
+5. La compagnie fait parvenir, au plus tôt, à chaque navire concerné un exemplaire visé du document de conformité.
