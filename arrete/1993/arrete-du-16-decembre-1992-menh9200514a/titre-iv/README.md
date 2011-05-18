@@ -1,3 +1,0 @@
-# TITRE IV :  				 TUTELLE DE LA DIRECTION DE LA MUSIQUE ET DE LA DANSE
-
-- [Article 9](article-9.md)
