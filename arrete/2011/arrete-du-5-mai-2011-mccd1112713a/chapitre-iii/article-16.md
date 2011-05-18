@@ -1,0 +1,3 @@
+# Article 16
+
+Le diplôme d'Etat de professeur de musique peut être délivré par la validation des acquis de l'expérience aux candidats qui justifient de compétences acquises dans l'exercice d'activités salariées, non salariées ou bénévoles, de façon continue ou non, en rapport direct avec les activités et compétences définies par le référentiel, d'une durée cumulée d'au moins trois années dont au moins l'équivalent de deux années d'enseignement dans la discipline, le domaine et l'option concernés, correspondant à un enseignement d'une durée de vingt heures par semaine sur trente semaines par année.

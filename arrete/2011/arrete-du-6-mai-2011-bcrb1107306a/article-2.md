@@ -1,0 +1,3 @@
+# Article 2
+
+La commission consultative des jeux et paris sous droits exclusifs est saisie pour avis par le ministre chargé de l'agriculture et le ministre chargé du budget des évolutions de l'offre de paris susceptibles de modifier le comportement des parieurs ainsi que d'une description des nouveaux paris dont la commercialisation est envisagée. Elle peut, en outre, être consultée par les ministres sur tout ou partie du programme commercial du groupement d'intérêt économique « Pari mutuel urbain » ainsi que sur toute question relative au contrôle et à l'encadrement des paris exploités par le groupement d'intérêt économique « Pari mutuel urbain ».

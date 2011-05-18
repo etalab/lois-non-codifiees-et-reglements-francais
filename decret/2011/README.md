@@ -109,6 +109,8 @@
 - [Décret n°2011-276 du 16 mars 2011 (EFIE1101169D)](decret-n2011-276-du-16-mars-2011-efie1101169d)
 - [Décret n°2011-279 du 16 mars 2011 (EFIZ1033703D)](decret-n2011-279-du-16-mars-2011-efiz1033703d)
 - [Décret n°2011-280 du 16 mars 2011 (DEFD1023394D)](decret-n2011-280-du-16-mars-2011-defd1023394d)
+- [Décret n°2011-523 du 16 mai 2011 (ETSD1111065D)](decret-n2011-523-du-16-mai-2011-etsd1111065d)
+- [Décret n°2011-524 du 16 mai 2011 (ETSD1111066D)](decret-n2011-524-du-16-mai-2011-etsd1111066d)
 - [Décret n°2011-278 du 17 mars 2011 (EFIT1102025D)](decret-n2011-278-du-17-mars-2011-efit1102025d)
 - [Décret n°2011-282 du 17 mars 2011 (ETSH1015504D)](decret-n2011-282-du-17-mars-2011-etsh1015504d)
 - [Décret n°2011-283 du 17 mars 2011 (AGRT1032731D)](decret-n2011-283-du-17-mars-2011-agrt1032731d)
