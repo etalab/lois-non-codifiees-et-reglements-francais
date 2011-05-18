@@ -209,7 +209,7 @@ Règlement d'examen
 <p align="center">Oral</p>
 </td>
 <td width="55">
-<p align="center">0 h 15</p>
+<p align="center">0 h 30</p>
 </td>
 </tr>
 <tr>
