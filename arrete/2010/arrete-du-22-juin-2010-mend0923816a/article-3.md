@@ -2,48 +2,50 @@
 
 Le concours de recrutement des inspecteurs d'académie-inspecteurs pédagogiques régionaux peut être ouvert pour chacune des spécialités suivantes :
 
-― allemand ;
+- allemand ;
 
-― anglais ;
+- anglais ;
 
-― arabe ;
+- arabe ;
 
-― espagnol ;
+- espagnol ;
 
-― italien ;
+- italien ;
 
-― hébreu ;
+- hébreu ;
 
-― portugais ;
+- portugais ;
 
-― russe ;
+- russe ;
 
-― chinois ;
+- chinois ;
 
-― arts plastiques ;
+- langue des signes française ;
 
-― économie et gestion ;
+- arts plastiques ;
 
-― éducation musicale ;
+- économie et gestion ;
 
-― éducation physique et sportive ;
+- éducation musicale ;
 
-― histoire-géographie ;
+- éducation physique et sportive ;
 
-― lettres ;
+- histoire-géographie ;
 
-― mathématiques ;
+- lettres ;
 
-― philosophie ;
+- mathématiques ;
 
-― sciences de la vie et de la terre ;
+- philosophie ;
 
-― sciences physiques et chimiques ;
+- sciences de la vie et de la terre ;
 
-― sciences économiques et sociales ;
+- sciences physiques et chimiques ;
 
-― sciences et techniques industrielles (options arts appliqués ; biotechnologies génie biologique ; sciences industrielles ; sciences médico-sociales) ;
+- sciences économiques et sociales ;
 
-― administration et vie scolaires.
+- sciences et techniques industrielles (options arts appliqués ; biotechnologies génie biologique ; sciences industrielles ; sciences médico-sociales) ;
+
+- administration et vie scolaires.
 
 Les postes mis au concours peuvent préciser une option à l'intérieur de chaque spécialité.
