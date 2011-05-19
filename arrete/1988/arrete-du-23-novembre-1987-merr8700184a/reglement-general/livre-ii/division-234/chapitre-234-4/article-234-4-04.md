@@ -2,4 +2,4 @@
 
 Franc-bord
 
-Le franc-bord doit répondre aux prescriptions de l'article 223-2.04.
+Le franc-bord doit répondre aux prescriptions des paragraphes 4.2 et 4.3 de l'article 223a-I/02.

@@ -2,4 +2,4 @@
 
 Incendie
 
-Sur tout navire transportant plus de 18 membres de personnel spécial, il doit être fait application des dispositions pertinentes de l'article 223-4.07.
+Sur tout navire spécial d'une longueur inférieure à 24 mètres, il doit être fait application des dispositions pertinentes du point 1 de l'article 234-3.05.

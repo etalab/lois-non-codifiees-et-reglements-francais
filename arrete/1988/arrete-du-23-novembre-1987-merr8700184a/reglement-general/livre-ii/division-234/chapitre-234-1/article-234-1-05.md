@@ -2,4 +2,4 @@
 
 Formation à la sécurité
 
-Les membres du personnel spécial doivent recevoir une formation en matière de consignes de sécurité et être aptes à utiliser du matériel de sécurité du navires.
+Les membres du personnel spécial doivent bien connaître l'agencement du navire et avoir reçu une formation en matière de consignes de sécurité et d'utilisation du matériel de sécurité du navire.

@@ -2,4 +2,4 @@
 
 Assèchement
 
-Les prescriptions de l'article 223-2.10 s'appliquent.
+Les prescriptions des articles 223a-II-1/28 et 223a-II-1/29 s'appliquent.

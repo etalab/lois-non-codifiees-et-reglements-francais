@@ -8,4 +8,4 @@ Stabilité et compartimentage
 
 - pour les navires équipés pour la recherche halieutique pour lesquels la commission d'étude compétente peut faire, partiellement ou en totalité, application des cas de chargement et des critères de stabilité à l'état intact prévus pour les navires de pêche.
 
-2. Le compartimentage et la stabilité après avarie doit être conforme aux dispositions de l'article 223-2.09 qui sont applicables aux navires d'une longueur inférieure à 35 mètres.
+2. Le compartimentage et la stabilité après avarie doivent être conformes aux dispositions de la division 223.
