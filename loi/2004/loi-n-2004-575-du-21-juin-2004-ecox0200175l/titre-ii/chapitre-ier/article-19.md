@@ -16,4 +16,4 @@ Sans préjudice des autres obligations d'information prévues par les textes lé
 
 Toute personne qui exerce l'activité définie à l'article 14 doit, même en l'absence d'offre de contrat, dès lors qu'elle mentionne un prix, indiquer celui-ci de manière claire et non ambiguë, et notamment si les taxes et les frais de livraison sont inclus. Le présent alinéa s'applique sans préjudice des dispositions régissant les pratiques commerciales trompeuses prévues à l'article L. 121-1 du code de la consommation, ni des obligations d'information sur les prix prévues par les textes législatifs et réglementaires en vigueur.
 
-Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.

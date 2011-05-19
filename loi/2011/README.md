@@ -12,6 +12,7 @@
 - [LOI n° 2011-411 du 14 avril 2011 (IOCX0917304L)](loi-n-2011-411-du-14-avril-2011-iocx0917304l)
 - [LOI n° 2011-412 du 14 avril 2011 (IOCX1101461L)](loi-n-2011-412-du-14-avril-2011-iocx1101461l)
 - [LOI n° 2011-94 du 25 janvier 2011 (JUSC0909345L)](loi-n-2011-94-du-25-janvier-2011-jusc0909345l)
+- [Loi n° 55-385 du 3 avril 1955](loi-n-55-385-du-3-avril-1955)
 - [Loi n° 87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n-87-550-du-16-juillet-1987-jusx8700098l)
 - [Loi n° 94-589 du 15 juillet 1994 (DEFX9400020L)](loi-n-94-589-du-15-juillet-1994-defx9400020l)
 - [Loi n°87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n87-550-du-16-juillet-1987-jusx8700098l)

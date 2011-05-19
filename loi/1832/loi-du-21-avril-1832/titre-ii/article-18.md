@@ -1,0 +1,3 @@
+# Article 18
+
+Dans tous les cas qui ne seraient pas prévus par les lois existantes ou par la présente loi, les contraventions aux décrets en Conseil d'Etat et aux règlements de police ayant pour objet la visite des embarcations, les devoirs des patrons, conducteurs et flotteurs, les formalités à suivre pour les embarquements, les débarquements, l'atterrage, le service des pilotes et lamaneurs, la police des ports, les expéditions, le maintien du bon ordre sur le fleuve et les rivages, la conservation des chemins de halage, la sûreté des marchandises et la conservation des objets abandonnés, sont punies des peines prévues au 1° de l'article 131-12, à l'article 131-13, aux 3° et 6° de l'article 131-14 et aux 3°, 5° et 10° de l'article 131-16 du code pénal.

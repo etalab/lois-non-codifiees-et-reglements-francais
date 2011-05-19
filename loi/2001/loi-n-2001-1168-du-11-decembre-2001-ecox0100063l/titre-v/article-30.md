@@ -10,4 +10,4 @@ II. - La caisse d'épargne et de prévoyance de Nouvelle-Calédonie est un étab
 
 Elle est affiliée de plein droit à la Caisse nationale des caisses d'épargne et de prévoyance visée au I.
 
-III. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+III. - (Abrogé)

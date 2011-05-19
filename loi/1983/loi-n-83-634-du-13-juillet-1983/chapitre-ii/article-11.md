@@ -1,6 +1,6 @@
 # Article 11
 
-Les fonctionnaires bénéficient, à l'occasion de leurs fonctions, d'une protection organisée par la collectivité publique dont ils dépendent, conformément aux règles fixées par le code pénal et les lois spéciales.
+Les fonctionnaires bénéficient, à l'occasion de leurs fonctions et conformément aux règles fixées par le code pénal et les lois spéciales, d'une protection organisée par la collectivité publique qui les emploie à la date des faits en cause ou des faits ayant été imputés de façon diffamatoire au fonctionnaire.
 
 Lorsqu'un fonctionnaire a été poursuivi par un tiers pour faute de service et que le conflit d'attribution n'a pas été élevé, la collectivité publique doit, dans la mesure où une faute personnelle détachable de l'exercice de ses fonctions n'est pas imputable à ce fonctionnaire, le couvrir des condamnations civiles prononcées contre lui.
 

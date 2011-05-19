@@ -1,6 +1,6 @@
 # Article 55
 
-Le conseil départemental de l'accès au droit est un groupement d'intérêt public auquel sont applicables les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France.
+Sous réserve des dispositions du présent article, le conseil départemental de l'accès au droit est un groupement d'intérêt public auquel est applicable le chapitre II de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit.
 
 Il est constitué :
 

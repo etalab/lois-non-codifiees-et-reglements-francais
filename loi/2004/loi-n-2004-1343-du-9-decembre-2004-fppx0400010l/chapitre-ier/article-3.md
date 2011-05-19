@@ -16,6 +16,4 @@ I. - Dans les conditions prévues par l'article 38 de la Constitution, le Gouver
 
 Sont considérés comme autorités administratives au sens des 1° à 6° les administrations de l'Etat, les collectivités territoriales, les établissements publics à caractère administratif, les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou mentionnés aux articles L. 223-16 et L. 351-21 du code du travail et les autres organismes chargés de la gestion d'un service public administratif.
 
-II. - Des groupements d'intérêt public peuvent être constitués entre des personnes morales de droit public ou entre des personnes morales de droit public et de droit privé, pour favoriser l'utilisation des technologies de l'information, en vue de développer l'administration électronique ou de gérer des équipements d'intérêt commun dans ce domaine. Ces groupements sont régis par les dispositions des articles L. 341-1 à L. 341-4 du code de la recherche.
-
-Toutefois, le personnel de ces groupements peut comprendre des agents contractuels de droit privé. Un décret précise les modalités de mise en oeuvre du présent II.
+II. - (Abrogé).

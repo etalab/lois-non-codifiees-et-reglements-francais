@@ -10,7 +10,6 @@
 - [Ordonnance n° 45-2675 du 2 novembre 1945](ordonnance-n-45-2675-du-2-novembre-1945)
 - [Ordonnance n° 45-2678 du 2 novembre 1945](ordonnance-n-45-2678-du-2-novembre-1945)
 - [Ordonnance n° 45-2717 du 2 novembre 1945](ordonnance-n-45-2717-du-2-novembre-1945)
-- [Ordonnance n°45-2710 du 2 novembre 1945](ordonnance-n45-2710-du-2-novembre-1945)
 - [Ordonnance n° 45-2251 du 4 octobre 1945](ordonnance-n-45-2251-du-4-octobre-1945)
 - [Ordonnance n° 45-26 du 8 janvier 1945](ordonnance-n-45-26-du-8-janvier-1945)
 - [Ordonnance n° 45-2280 du 9 octobre 1945](ordonnance-n-45-2280-du-9-octobre-1945)

@@ -21,4 +21,5 @@ d) Pour toute personne qui fournit des services de conseil en plan média ou de 
 
 Pour les infractions prévues aux 1°, 2° et 3° ci-dessus, les personnes morales peuvent être déclarées responsables, conformément à l'article 121-2 du code pénal. Elles encourent également la peine d'exclusion des marchés publics, pour une durée de cinq ans au plus, en application du 5° de l'article 131-39 du code pénal.
 
-Les fonctionnaires désignés par le premier alinéa de l'article L. 450-1 du code de commerce peuvent procéder aux enquêtes nécessaires à l'application du présent chapitre selon les modalités prévues aux articles L. 450-2 à L. 450-4, L. 450-7 et L. 450-8 du même code.
+Les fonctionnaires désignés à l'article L. 450-1 du code de commerce peuvent procéder aux enquêtes nécessaires à l'application du présent chapitre selon les modalités prévues aux articles L. 450-2 à L. 450-4,
+L. 450-7 et L. 450-8 du même code.

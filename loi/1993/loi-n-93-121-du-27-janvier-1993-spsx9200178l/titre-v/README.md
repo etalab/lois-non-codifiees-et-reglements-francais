@@ -11,5 +11,4 @@
 - [Article 90](article-90.md)
 - [Article 91](article-91.md)
 - [Article 93](article-93.md)
-- [Article 96](article-96.md)
 - [Article 97](article-97.md)

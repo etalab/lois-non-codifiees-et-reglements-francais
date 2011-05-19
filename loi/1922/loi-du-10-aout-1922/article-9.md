@@ -1,6 +1,6 @@
 # Article 9
 
-Il est interdit, à peine de forfaiture, aux ministres et secrétaires d'Etat et à tous autres fonctionnaires publics, de prendre sciemment et en violation des formalités prescrites par les articles 5 et 6 de la présente loi, des mesures ayant pour objet d'engager des dépenses dépassant les crédits ouverts ou qui ne résulteraient pas de l'application des lois.
+Il est interdit      aux ministres et secrétaires d'Etat et à tous autres fonctionnaires publics, de prendre sciemment et en violation des formalités prescrites par les articles 5 et 6 de la présente loi, des mesures ayant pour objet d'engager des dépenses dépassant les crédits ouverts ou qui ne résulteraient pas de l'application des lois.
 
 Les ministres et secrétaires d'Etat et tous autres fonctionnaires publics seront civilement responsables des décisions prises sciemment à l'encontre des dispositions ci-dessus.
 

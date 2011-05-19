@@ -34,7 +34,7 @@ En cas de risques graves et imminents, l'Autorité de sûreté nucléaire suspen
 
 V. - La mise à l'arrêt définitif et le démantèlement d'une installation nucléaire de base sont subordonnés à une autorisation préalable. La demande d'autorisation comporte les dispositions relatives aux conditions de mise à l'arrêt, aux modalités de démantèlement et de gestion des déchets, ainsi qu'à la surveillance et à l'entretien ultérieur du lieu d'implantation de l'installation permettant, compte tenu des connaissances scientifiques et techniques du moment et des prévisions d'utilisation ultérieure du site, de prévenir ou de limiter de manière suffisante les risques ou inconvénients pour les intérêts mentionnés au I de l'article 28.
 
-L'autorisation est délivrée par décret pris après avis de l'Autorité de sûreté nucléaire. Ce décret fixe les caractéristiques du démantèlement, le délai de réalisation du démantèlement et les types d'opérations à la charge de l'exploitant après le démantèlement.
+L'autorisation est délivrée par décret pris après avis de l'Autorité de sûreté nucléaire et après enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement. Ce décret fixe les caractéristiques du démantèlement, le délai de réalisation du démantèlement et les types d'opérations à la charge de l'exploitant après le démantèlement.
 
 Pour l'application du décret d'autorisation, l'Autorité de sûreté nucléaire définit, dans le respect des règles générales prévues à l'article 30, les prescriptions relatives au démantèlement nécessaires à la protection des intérêts mentionnés au I de l'article 28. Elle précise notamment, s'il y a lieu, les prescriptions relatives aux prélèvements d'eau de l'installation et aux substances radioactives issues de l'installation. Les prescriptions fixant les limites de rejets de l'installation dans l'environnement sont soumises à homologation.
 
@@ -42,7 +42,7 @@ Les dispositions du présent V ne sont pas applicables aux installations de stoc
 
 VI. - L'arrêt définitif et le passage en phase de surveillance d'une installation de stockage de déchets radioactifs sont subordonnés à une autorisation. La demande d'autorisation comporte les dispositions relatives à l'arrêt définitif ainsi qu'à l'entretien et à la surveillance du site permettant, compte tenu des connaissances scientifiques et techniques du moment, de prévenir ou de limiter de manière suffisante les risques ou inconvénients pour les intérêts mentionnés au I de l'article 28.
 
-L'autorisation est délivrée par décret pris après avis de l'Autorité de sûreté nucléaire. Ce décret fixe les types d'opérations à la charge de l'exploitant après l'arrêt définitif.
+L'autorisation est délivrée par décret pris après avis de l'Autorité de sûreté nucléaire et après enquête publique réalisée conformément aux dispositions du chapitre III du titre II du livre Ier du code de l'environnement . Ce décret fixe les types d'opérations à la charge de l'exploitant après l'arrêt définitif.
 
 Pour l'application du décret d'autorisation, l'Autorité de sûreté nucléaire précise, dans le respect des règles générales prévues à l'article 30, les prescriptions nécessaires à la protection des intérêts mentionnés au I de l'article 28. Elle précise notamment, s'il y a lieu, les prescriptions relatives aux prélèvements d'eau de l'installation, aux rejets de celle-ci dans l'environnement et aux substances radioactives issues de l'installation.
 

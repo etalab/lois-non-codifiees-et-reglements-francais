@@ -5,3 +5,4 @@
 - [CHAPITRE III : Opérations préparatoires au scrutin.](chapitre-iii)
 - [CHAPITRE IV : Opérations de vote.](chapitre-iv)
 - [CHAPITRE V : Vote par procuration.](chapitre-v)
+- [Article 12](article-12.md)

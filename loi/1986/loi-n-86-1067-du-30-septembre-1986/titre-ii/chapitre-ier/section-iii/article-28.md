@@ -20,15 +20,15 @@ Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des
 
 3° alinéa abrogé ;
 
-4° La part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion d'oeuvres cinématographiques d'expression originale française ;
+4° La part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion d'œuvres cinématographiques d'expression originale française ;
 
 4° bis Les dispositions propres à assurer le respect de la langue française et le rayonnement de la francophonie ;
 
 5° La diffusion de programmes éducatifs et culturels ainsi que d'émissions destinées à faire connaître les différentes formes d'expression artistique ;
 
-5° bis Les proportions substantielles des programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes sourdes ou malentendantes. Pour les services de télévision dont l'audience moyenne annuelle dépasse 2, 5 % de l'audience totale des services de télévision, cette obligation s'applique, dans un délai maximum de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, à la totalité de leurs programmes, à l'exception des messages publicitaires. La convention peut toutefois prévoir des dérogations justifiées par les caractéristiques de certains programmes. Pour les services de télévision à vocation locale, la convention peut prévoir un allègement des obligations d'adaptation ;
+5° bis Les proportions substantielles des programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes sourdes ou malentendantes. Pour les services de télévision dont l'audience moyenne annuelle dépasse 2,5 % de l'audience totale des services de télévision, cette obligation s'applique, dans un délai maximum de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, à la totalité de leurs programmes, à l'exception des messages publicitaires. La convention peut toutefois prévoir des dérogations justifiées par les caractéristiques de certains programmes. Pour les services de télévision à vocation locale, la convention peut prévoir un allègement des obligations d'adaptation ;
 
-5° ter. Pour les services de télévision diffusés par voie hertzienne terrestre en mode numérique dont l'audience moyenne annuelle dépasse 2, 5 % de l'audience totale des services de télévision, les proportions de programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes aveugles ou malvoyantes ;
+5° ter. Pour les services de télévision diffusés par voie hertzienne terrestre en mode numérique dont l'audience moyenne annuelle dépasse 2,5 % de l'audience totale des services de télévision, les proportions de programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes aveugles ou malvoyantes ;
 
 6° Les dispositions propres à assurer l'indépendance des producteurs à l'égard des diffuseurs ;
 
@@ -42,7 +42,7 @@ Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des
 
 11° Le concours complémentaire au soutien financier de l'industrie cinématographique et de l'industrie de programmes audiovisuels, dans les conditions d'affectation fixées par la loi de finances ;
 
-12° Les conditions dans lesquelles les services de télévision bénéficiant d'une autorisation nationale en clair sont autorisés à effectuer des décrochages locaux sous leur responsabilité éditoriale, dans la limite cumulée de trois heures par jour, sauf dérogation du Conseil supérieur de l'audiovisuel. Les décrochages locaux visés au présent alinéa ne sont pas considérés comme des services distincts bénéficiant d'autorisations locales et ne peuvent comporter de messages publicitaires ni d'émissions parrainées. Toutefois, les décrochages locaux exceptionnels autorisés par le Conseil supérieur de l'audiovisuel, dans des conditions prévues par décret, peuvent comporter des messages publicitaires diffusés sur l'ensemble du territoire national ;
+12° Les conditions dans lesquelles les services de télévision bénéficiant d'une autorisation nationale en clair sont autorisés à effectuer des décrochages locaux sous leur responsabilité éditoriale, dans la limite cumulée de trois heures par jour, sauf dérogation du Conseil supérieur de l'audiovisuel. Les décrochages locaux visés au présent alinéa ne sont pas considérés comme des services distincts bénéficiant d'autorisations locales et ne peuvent comporter de messages publicitaires ni d'émissions parrainées ;
 
 13° Les engagements en matière d'extension de la couverture du territoire ;
 

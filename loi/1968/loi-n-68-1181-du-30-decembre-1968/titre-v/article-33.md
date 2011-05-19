@@ -1,20 +1,20 @@
 # Article 33
 
-Sont chargés, par ailleurs, de rechercher les infractions prévues par les articles 13, 24, 27, 29, 30, 31 et 32 de la présente loi :
+Sont chargés, par ailleurs, de rechercher les infractions prévues par les articles 13,24,27,29,30,31 et 32 de la présente loi :
 
 Les officiers et agents de police judiciaire ;
 
 Les administrateurs des affaires maritimes ;
 
-Les officiers du corps technique et administratif des affaires maritimes;
+Les officiers du corps technique et administratif des affaires maritimes ;
 
-Les commandants, commandants en second ou officiers en second des bâtiments de la marine nationale;
+Les commandants, commandants en second ou officiers en second des bâtiments de la marine nationale ;
 
-Les inspecteurs des affaires maritimes;
+Les inspecteurs des affaires maritimes ;
 
 Les ingénieurs des mines ou les ingénieurs des travaux publics de l'Etat affectés au service des mines des circonscriptions minéralogiques compétentes ;
 
-Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat affectés aux services maritimes ainsi que les agents desdits services commissionnés à cet effet ;
+Les ingénieurs des ponts , des eaux et des forêts et les ingénieurs des travaux publics de l'Etat affectés aux services maritimes ainsi que les agents desdits services commissionnés à cet effet ;
 
 Les officiers de port et officiers de port adjoints ;
 

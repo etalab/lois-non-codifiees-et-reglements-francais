@@ -8,7 +8,7 @@ Toutefois, sont dispensés de cette déclaration les distributeurs de services q
 
 Toute modification d'éléments de cette déclaration doit être préalablement notifiée au Conseil supérieur de l'audiovisuel.
 
-Le conseil peut, par décision motivée prise dans un délai fixé par voie réglementaire, s'opposer soit à l'exploitation d'une offre de services, soit à une modification de la composition de cette offre, s'il estime qu'elle ne satisfait pas aux conditions et obligations de la présente loi, notamment celles mentionnées aux articles 1er, 3-1, 15 et 34-1 à 34-3, ou s'il estime qu'elle porte atteinte aux missions de service public assignées par l'article 43-11 aux sociétés nationales de programme et à la chaîne Arte, notamment par la numérotation attribuée au service dans l'offre commerciale.
+Le conseil peut, par décision motivée prise dans un délai fixé par voie réglementaire, s'opposer soit à l'exploitation d'une offre de services, soit à une modification de la composition de cette offre, s'il estime qu'elle ne satisfait pas aux conditions et obligations de la présente loi, notamment celles mentionnées aux articles 1er, 3-1, 15 et 34-1 à 34-2, ou s'il estime qu'elle porte atteinte aux missions de service public assignées par l'article 43-11 aux sociétés nationales de programme et à la chaîne Arte, notamment par la numérotation attribuée au service dans l'offre commerciale.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article, notamment les éléments que doit contenir la déclaration.
 

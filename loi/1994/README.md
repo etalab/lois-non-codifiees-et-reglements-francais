@@ -103,4 +103,3 @@
 - [Loi n° 94-925 du 26 octobre 1994 (MAEX9400034L)](loi-n-94-925-du-26-octobre-1994-maex9400034l)
 - [Loi n° 94-926 du 26 octobre 1994 (MAEX9400207L)](loi-n-94-926-du-26-octobre-1994-maex9400207l)
 - [Loi n° 94-99 du 5 février 1994 (DOMX9300179L)](loi-n-94-99-du-5-fevrier-1994-domx9300179l)
-- [Loi n°94-342 du 29 avril 1994 (JUSX9300203L)](loi-n94-342-du-29-avril-1994-jusx9300203l)

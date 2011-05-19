@@ -2,7 +2,7 @@
 
 I.-La Commission nationale de l'informatique et des libertés est composée de dix-sept membres :
 
-1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat ;
+1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat de manière à assurer une représentation pluraliste ;
 
 2° Deux membres du Conseil économique, social et environnemental, élus par cette assemblée ;
 

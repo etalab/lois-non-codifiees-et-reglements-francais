@@ -2,7 +2,7 @@
 
 I. - Sont fournis au Parlement :
 
-a) Un rapport rassemblant les informations collectées auprès des entreprises inscrites au répertoire national des entreprises contrôlées majoritairement par l'Etat.
+a) (abrogé).
 
 b) (abrogé).
 

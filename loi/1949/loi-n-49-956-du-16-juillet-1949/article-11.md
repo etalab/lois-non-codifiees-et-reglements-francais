@@ -6,7 +6,7 @@ A leur défaut, l'auteur et, à défaut de l'auteur, les imprimeurs et distribut
 
 Lorsque l'auteur n'est pas poursuivi comme auteur principal, il sera poursuivi comme complice.
 
-Outre les cas prévus à l'article 60 du code pénal, pourront également être poursuivis comme coauteurs, passibles des mêmes peines :
+Outre les cas prévus aux articles 121-6 et 121-7 du code pénal, pourront également être poursuivis comme coauteurs, passibles des mêmes peines :
 
 Les auteurs et les imprimeurs,
 
