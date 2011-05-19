@@ -1,0 +1,7 @@
+# CHAPITRE VII : DISPOSITIONS D'AMELIORATION DE LA QUALITE DU DROIT ET DE SIMPLIFICATION DES NORMES APPLICABLES AUX SECTEURS SANITAIRE, SOCIAL ET MEDICO SOCIAL
+
+- [Article 175](article-175.md)
+- [Article 176](article-176.md)
+- [Article 180](article-180.md)
+- [Article 187](article-187.md)
+- [Article 190](article-190.md)
