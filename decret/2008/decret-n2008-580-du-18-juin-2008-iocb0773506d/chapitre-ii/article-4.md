@@ -1,5 +1,5 @@
 # Article 4
 
-Lorsque le fonctionnaire est mis à disposition auprès de l'une des collectivités territoriales ou de l'un des établissements publics mentionnés à l'article 2 de la loi du 26 janvier 1984 pour y effectuer la totalité de son service et qu'il y exerce des fonctions que son grade lui donne vocation à remplir, la collectivité ou l'établissement, s'il dispose d'un emploi vacant correspondant, lui propose une mutation ou, le cas échéant, un détachement dans un délai maximum de trois ans.
+Le fonctionnaire mis à disposition de l'une des collectivités territoriales ou de l'un des établissements publics mentionnés à l'article 2 de la loi du 26 janvier 1984 susvisée pour y accomplir la totalité de son service se voit proposer, lorsque existe un cadre d'emplois de niveau comparable au sein de la collectivité ou de l'établissement d'accueil et qu'il est admis à poursuivre sa mise à disposition au-delà d'une durée de trois ans, une mutation, un détachement ou une intégration directe dans ce cadre d'emplois. Le fonctionnaire qui accepte cette proposition peut continuer à exercer, dans ces conditions, les mêmes fonctions.
 
-En vue de l'intégration dans le cadre d'emplois d'accueil à l'issue du détachement prévu à l'alinéa précédent, la durée de service effectuée par le fonctionnaire pendant sa mise à disposition est prise en compte dans le calcul de l'ancienneté.
+Dans le cas d'un détachement, la durée de service effectuée par l'agent pendant sa mise à disposition est prise en compte dans le calcul de l'ancienneté requise en vue de son intégration.

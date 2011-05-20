@@ -4,5 +4,7 @@
 - [TITRE Ier : Du détachement](titre-ier)
 - [TITRE II : De la position hors cadres des fonctionnaires des collectivités territoriales.](titre-ii)
 - [TITRE III : De la disponibilité.](titre-iii)
+- [Titre III bis : De l'intégration directe](titre-iii-bis)
+- [TITRE IV : Dispositions communes aux titres Ier à III bis](titre-iv)
 - [TITRE V : De la position de congé parental.](titre-v)
 - [TITRE VI : Dispositions diverses.](titre-vi)

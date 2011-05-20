@@ -8,6 +8,4 @@ Ils conservent, dans la limite de la durée de service exigée pour l'accès à 
 
 Les fonctionnaires nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui était résultée d'un avancement à ce dernier échelon.
 
-Par dérogation aux dispositions de l'article 2 du décret du 13 janvier 1986 susvisé, le fonctionnaire territorial peut être détaché pour occuper l'un des emplois mentionnés à l'article 1er ci-dessus au sein de la collectivité ou de l'établissement dont il relève.
-
 En outre, lorsque la collectivité ou établissement d'accueil est différent de la collectivité ou établissement d'origine, il ne peut être mis fin au détachement sur demande de la collectivité ou de l'établissement d'origine avant le terme fixé par l'arrêté le prononçant, sauf accord du fonctionnaire intéressé. Le fonctionnaire recruté dans un cadre d'emplois en vue d'occuper l'un des emplois mentionnés à l'article 1er est détaché dans cet emploi à l'issue du stage prévu par le statut particulier du cadre d'emplois.
