@@ -84,8 +84,6 @@
 - [Décret n°2004-108 du 4 février 2004 (SANP0324626D)](decret-n2004-108-du-4-fevrier-2004-sanp0324626d)
 - [Décret n°2004-117 du 4 février 2004 (MCCB0300927D)](decret-n2004-117-du-4-fevrier-2004-mccb0300927d)
 - [Décret n°2004-1175 du 4 novembre 2004 (ECOL0400078D)](decret-n2004-1175-du-4-novembre-2004-ecol0400078d)
-- [Décret n°2004-1178 du 4 novembre 2004 (AGRP0401357D)](decret-n2004-1178-du-4-novembre-2004-agrp0401357d)
-- [Décret n°2004-1179 du 4 novembre 2004 (AGRP0401358D)](decret-n2004-1179-du-4-novembre-2004-agrp0401358d)
 - [Décret n°2004-1194 du 4 novembre 2004 (INTC0400300D)](decret-n2004-1194-du-4-novembre-2004-intc0400300d)
 - [Décret n°2004-126 du 4 février 2004 (ECOE0300011D)](decret-n2004-126-du-4-fevrier-2004-ecoe0300011d)
 - [Décret n°2004-1353 du 4 décembre 2004 (INTA0400343D)](decret-n2004-1353-du-4-decembre-2004-inta0400343d)
