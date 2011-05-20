@@ -158,7 +158,6 @@
 - [Décret n°2006-1598 du 13 décembre 2006 (AGRS0602455D)](decret-n2006-1598-du-13-decembre-2006-agrs0602455d)
 - [Décret n°2006-286 du 13 mars 2006 (ECOC0600001D)](decret-n2006-286-du-13-mars-2006-ecoc0600001d)
 - [Décret n°2006-878 du 13 juillet 2006 (AGRP0600732D)](decret-n2006-878-du-13-juillet-2006-agrp0600732d)
-- [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
 - [Décret du 14 octobre 2006 (ECOC0600101D)](decret-du-14-octobre-2006-ecoc0600101d)
 - [Décret n°2006-1258 du 14 octobre 2006 (INTD0600214D)](decret-n2006-1258-du-14-octobre-2006-intd0600214d)
 - [Décret n°2006-1260 du 14 octobre 2006 (SANP0623239D)](decret-n2006-1260-du-14-octobre-2006-sanp0623239d)
