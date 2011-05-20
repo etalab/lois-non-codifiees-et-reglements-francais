@@ -7,13 +7,11 @@ A. - Administration générale
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés <br/>
-</p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents <br/>
-</p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
@@ -164,319 +162,311 @@ B. - Fonctions techniques
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés </p>
+<p align="center">Cadres d'emplois et grades concernés</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents </p>
+<p align="center">Corps et grades équivalents</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Ingénieurs territoriaux : <br/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Ingénieurs en chef :<br/>
+<br/>Ingénieurs territoriaux<br/>
 </td>
 <td align="left" valign="top">
-<br/>ingénieurs des ponts, des eaux et des forêts : <br/>
+<br/>Ingénieurs des ponts, des eaux et des forêts<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Classe exceptionnelle. <br/>
+<br/>Ingénieur en chef de classe exceptionnelle<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieur en chef. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Classe normale. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Ingénieur. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Ingénieurs des TPE : <br/>
+<br/>Ingénieur en chef<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Ingénieur principal. <br/>
+<br/>Ingénieur en chef de classe normale<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieur divisionnaire des TPE. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Ingénieur. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Ingénieur des TPE. <br/>
+<br/>Ingénieur<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Techniciens supérieurs territoriaux : <br/>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>Techniciens supérieurs de l'équipement : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Technicien supérieur-chef. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Technicien supérieur en chef. <br/>
+<br/>Ingénieurs des TPE<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Technicien supérieur principal. <br/>
+<br/>Ingénieur principal<br/>
 </td>
 <td align="left" valign="top">
-<br/>Technicien supérieur principal. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Technicien supérieur. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Technicien supérieur. <br/>
+<br/>Ingénieur divisionnaire des TPE<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Contrôleurs territoriaux de travaux : <br/>
+<br/>Ingénieur<br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleurs de travaux publics de l'Etat : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Contrôleur de travaux en chef. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Contrôleur divisionnaire des TPE. <br/>
+<br/>Ingénieur des TPE<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Contrôleur de travaux principal. <br/>
+<br/>Techniciens territoriaux<br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur principal des TPE. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Contrôleur de travaux. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Contrôleur des TPE. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Jusqu'au 31 décembre 2007 <br/>
+<br/>Techniciens supérieurs de l'équipement<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents de maîtrise territoriaux : <br/>
+<br/>Technicien principal de 1re classe<br/>
 </td>
 <td align="left" valign="top">
-<br/>Maîtres ouvriers des administrations de l'Etat (préfectures) : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent de maîtrise principal. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Maître ouvrier principal. <br/>
+<br/>Technicien supérieur en chef<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent de maîtrise. <br/>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>Maître ouvrier.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>A compter du 1er janvier 2008 <br/>
+<br/>Contrôleurs de travaux publics de l'Etat<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents de maîtrise territoriaux : <br/>
+<br/>Technicien principal de 2e classe<br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfecture) : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent de maîtrise principal. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
+<br/>Contrôleur principal des TPE<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent de maîtrise. <br/>
+<br/>Technicien<br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>Jusqu'au 31 décembre 2007 <br/>
+<br/>Contrôleur des TPE<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoints techniques territoriaux : <br/>
+<br/>Jusqu'au 31 décembre 2007<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ouvriers professionnels et maîtres-ouvriers des administrations de l'Etat (préfectures) : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Maître ouvrier principal. <br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
+<br/>Agents de maîtrise territoriaux<br/>
 </td>
 <td align="left" valign="top">
-<br/>Maître ouvrier. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Ouvrier professionnel principal. <br/>
+<br/>Maîtres ouvriers des administrations de l'Etat (préfectures)<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe. <br/>
+<br/>Agent de maîtrise principal <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ouvrier professionnel.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br/>A compter du 1er janvier 2008 <br/>
+<br/>Maître ouvrier principal<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoints techniques territoriaux : <br/>
+<br/>Agent de maîtrise <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
+<br/>Maître ouvrier<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
+<br/>A compter du 1er janvier 2008<br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe. <br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe. <br/>
+<br/>Agents de maîtrise territoriaux <p>
+<br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoints techniques territoriaux des établissements d'enseignement : <br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoints techniques des établissements d'enseignement (éducation nationale) : <br/>
+<br/>Adjoints techniques du ministère de l'intérieur <p>et du ministère de l'outre-mer (préfecture)<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
+<br/>Agent de maîtrise principal <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe. <br/>
+<br/>Adjoint technique principal de 1re classe<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 1re classe. <br/>
+<br/>Agent de maîtrise <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 1re classe. <br/>
+<br/>Adjoint technique principal de 2e classe<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe. <br/>
+<br/>Jusqu'au 31 décembre 2007<br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoints techniques territoriaux<br/>
+</td>
+<td align="left" valign="top">
+<br/>Ouvriers professionnels et maîtres ouvriers des administrations <p>de l'Etat (préfectures)<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Maître ouvrier principal<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Maître ouvrier<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ouvrier professionnel principal<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ouvrier professionnel<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>A compter du 1er janvier 2008<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoints techniques territoriaux<br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints techniques du ministère de l'intérieur <p>et du ministère de l'outre-mer (préfectures)<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoints techniques territoriaux des établissements d'enseignement<br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints techniques des établissements d'enseignement <p>(éducation nationale)<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe<br/>
 </td>
 </tr>
 </tbody>
@@ -912,9 +902,13 @@ D. - Fonctions culturelles
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">FONCTION PUBLIQUE TERRITORIALE <p>Cadres d'emplois et grades concernés </p>
+<td align="left" valign="top">
+<p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
-<td align="left" colspan="2" valign="top">FONCTION PUBLIQUE DE L'ÉTAT <p>Corps et grades équivalents</p>
+<td align="left" colspan="2" valign="top">
+<p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
@@ -935,10 +929,11 @@ D. - Fonctions culturelles
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conservateur. </p>
+<p align="left">Conservateur.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Conservateur. </p>
+<p align="left">Conservateur. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1127,11 +1122,11 @@ E. - Fonctions sportives
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
@@ -1240,12 +1235,11 @@ F. - Animation
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés <br/>
-</p>
+<p align="center">Cadres d'emplois et grades concernés</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
