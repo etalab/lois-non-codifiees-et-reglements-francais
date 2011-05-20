@@ -1170,10 +1170,8 @@ Les signaux d'information de sécurité routière de type SR sont placés sur le
 
 Signal SR2 : ensemble de trois signaux utilisés successivement, rappelant l'espacement que les usagers doivent laisser entre leurs véhicules sur autoroute et sur route à deux fois deux voies et carrefours dénivelés ;
 
-SR3a et SR3b : signaux annonçant une zone où la vitesse est contrôlée par un ou plusieurs dispositifs de contrôle automatisé ;
-
 Signal SR4 : signal annonçant que la zone rencontrée est sous vidéoprotection par le gestionnaire de la route, pour assurer une meilleure sécurité des usagers et la régulation du trafic, conformément à l'article 10 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité ;
 
 Signal SR50 : signal rappelant un message de sécurité routière de portée générale.
 
-Les signaux de type SR sont de forme rectangulaire, à fond gris, listel jaune et inscriptions blanches. Les signaux SR2 comportent des pictogrammes de couleur blanche avec un élément de couleur verte. Les signaux SR3 comportent des pictogrammes noirs sur un fond blanc. Les signaux SR50 ne comportent que des inscriptions commençant par les mots suivants : " Pour votre sécurité "
+Les signaux de type SR sont de forme rectangulaire, à fond gris, listel jaune et inscriptions blanches. Les signaux SR2 comportent des pictogrammes de couleur blanche avec un élément de couleur verte. Les signaux SR50 ne comportent que des inscriptions commençant par les mots suivants : " Pour votre sécurité "
