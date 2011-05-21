@@ -1,0 +1,3 @@
+# Article 5
+
+Les coefficients de bouclage définis à l'article 4 du présent arrêté peuvent être révisés pour garantir un accès régulé à l'électricité nucléaire historique dans les conditions établies aux I et III de l'article 4-1 de la loi n° 2000-108 du 10 février 2000 susvisée, notamment en cas de décision d'une autorité compétente ayant pour conséquence d'affecter la production annuelle des centrales mentionnées au II de l'article 4-1 de la loi n° 2000-108 du 10 février 2000 susvisée. Toutefois, le coefficient de bouclage pour une période de livraison ne peut être modifié qu'au plus tard soixante-quinze jours avant le début de cette période de livraison.

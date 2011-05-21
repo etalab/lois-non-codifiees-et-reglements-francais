@@ -8,7 +8,7 @@ La vérité des faits diffamatoires peut toujours être prouvée, sauf :
 
 a) Lorsque l'imputation concerne la vie privée de la personne ;
 
-b) Lorsque l'imputation se réfère à des faits qui remontent à plus de dix années ;
+b) (Abrogé)
 
 c) Lorsque l'imputation se réfère à un fait constituant une infraction amnistiée ou prescrite, ou qui a donné lieu à une condamnation effacée par la réhabilitation ou la révision ;
 
