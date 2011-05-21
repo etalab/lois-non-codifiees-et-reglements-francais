@@ -22,23 +22,23 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 10° Le président du Conseil économique, social et environnemental ;
 
-11° Les députés ;
+11° Le Défenseur des droits ;
 
-12° Les sénateurs ;
+12° Les députés ;
 
-13° Les représentants au Parlement européen ;
+13° Les sénateurs ;
 
-14° L'autorité judiciaire représentée par le premier président de la Cour de cassation et le procureur général près cette cour ;
+14° Les représentants au Parlement européen ;
 
-15° Le premier président de la Cour des comptes et le procureur général près cette cour ;
+15° L'autorité judiciaire représentée par le premier président de la Cour de cassation et le procureur général près cette cour ;
 
-16° Le grand chancelier de la Légion d'honneur, chancelier de l'ordre national du Mérite, et les membres des conseils de ces ordres ;
+16° Le premier président de la Cour des comptes et le procureur général près cette cour ;
 
-17° Le chancelier de l'ordre de la Libération et les membres du conseil de l'ordre ;
+17° Le grand chancelier de la Légion d'honneur, chancelier de l'ordre national du Mérite, et les membres des conseils de ces ordres ;
 
-18° Le chef d'état-major des armées ;
+18° Le chancelier de l'ordre de la Libération et les membres du conseil de l'ordre ;
 
-19° Le Médiateur de la République ;
+19° Le chef d'état-major des armées ;
 
 20° Le préfet de la région d'Ile-de-France, préfet de Paris ;
 
@@ -72,7 +72,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 35° Le président du tribunal administratif de Paris, le président du tribunal de grande instance de Paris et le procureur de la République près ce tribunal, le président de la chambre régionale des comptes d'Ile-de-France ;
 
-36° Le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, directeur du cabinet du préfet de police, le préfet, secrétaire général de la  préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, secrétaire général de l'administration de la police, le préfet, secrétaire général de la zone de défense ;
+36° Le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, directeur du cabinet du préfet de police, le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, secrétaire général de l'administration de la police, le préfet, secrétaire général de la zone de défense ;
 
 37° Les membres du conseil de Paris, les membres du conseil régional d'Ile-de-France ;
 
@@ -92,7 +92,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 45° Le président du Conseil économique, social et environnemental de la région d'Ile-de-France ;
 
-46° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la  préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police ;
+46° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police ;
 
 47° Le président de l'assemblée des chambres françaises de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 

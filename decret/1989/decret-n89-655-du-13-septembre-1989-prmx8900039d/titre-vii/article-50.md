@@ -12,9 +12,11 @@ L'utilisation de cocardes et insignes particuliers aux couleurs nationales sur l
 
 5° Le vice-président du Conseil d'Etat ;
 
-6° Le président du   Conseil économique, social et environnemental ;
+6° Le président du Conseil économique, social et environnemental ;
 
-7° Les préfets dans leur département ou dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les sous-préfets dans leur arrondissement, les représentants de l'Etat dans les territoires d'outre-mer.
+7° Le Défenseur des droits ;
+
+8° Les préfets dans leur département ou dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les sous-préfets dans leur arrondissement, les représentants de l'Etat dans les territoires d'outre-mer.
 
 Les véhicules des officiers généraux portent, dans les conditions prévues par les règlements militaires :
 
