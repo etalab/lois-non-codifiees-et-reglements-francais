@@ -2,9 +2,9 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Titre professionnel : technicien (ne) métreur en réhabilitation de l'habitat.
+Intitulé :
 
-Ancien intitulé : technicien (ne) métreur en réhabilitation de l'habitat.
+Titre professionnel : technicien (ne) métreur en réhabilitation de l'habitat.
 
 Niveau : IV.
 
@@ -12,15 +12,13 @@ Code NSF : 230 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) métreur en réhabilitation de l'habitat a en charge le dossier technique relatif à la modification de l'état initial d'une construction pour la rendre habitable en intégrant les éléments de confort (sanitaires, chauffage central, installation électrique, etc.). Il (elle) est responsable, face à son supérieur, du dossier qui lui est remis.
+Le technicien métreur en réhabilitation de l'habitat étudie et évalue les coûts des travaux de réhabilitation d'une habitation. Les modifications à apporter sont destinées à rendre la construction habitable en intégrant les éléments de confort (sanitaires, chauffage central, installation électriques etc.) dans le respect du développement durable et de la réglementation en vigueur.
 
-Avant les travaux, il (elle) participe au diagnostic des bâtiments à rénover afin de déterminer les travaux réalisables selon l'état de vétusté. Il (elle) effectue le relevé de l'état ancien sur le chantier (état des lieux) établit les projets d'aménagement et en fait les plans de détail. Il (elle) veille à adapter aux conditions anciennes les techniques, procédés et matériaux nouveaux dans le respect de la réglementation en vigueur.
+Le technicien métreur est chargé de l'étude technique, de la mise au point du dossier de réhabilitation qui lui est remis, du métré et de la mise à prix de ces ouvrages, pour tous les corps d'état ou dans une spécialité.
 
-Pendant l'exécution des travaux, il (elle) planifie les interventions des différents intervenants, et assure le suivi des travaux et les règlements des factures correspondantes. Après l'exécution des travaux, il (elle) établit les révisions de prix, les mémoires de travaux et de décomptes définitifs.
+Il intervient avant le démarrage des travaux, au stade de la conception ou de la remise d'un devis au client, pendant et après leur exécution pour en assurer le suivi.
 
-Il (elle) travaille principalement en bureau mais peut être amené (e) à se déplacer sur les chantiers en fonction des impératifs liés à l'avancement des travaux. Jouissant d'une grande autonomie, il (elle) est en rapport avec le chef de l'entreprise, l'architecte, l'ingénieur, la clientèle privée, les fournisseurs, ainsi que le conducteur de travaux.
-
-Selon l'entreprise dans laquelle il (elle) exerce, il (elle) peut représenter le chef d'entreprise dans les réunions de chantier et même avoir la responsabilité de l'exécution des travaux.
+Généralement le travail s'effectue seul mais, selon la dimension du projet, il peut s'effectuer en équipe. S'il travaille principalement dans un bureau, le technicien peut être amené à se déplacer ponctuellement sur des chantiers, voire parfois en présence continue. Le respect des délais conditionne le rythme et la charge de travail.
 
 Capacités attestées et descriptif
 
@@ -30,75 +28,49 @@ des composantes de la certification
 
 de réhabilitation et l'estimer au bordereau ou aux ratios
 
-Alimenter et exploiter une banque de données.
+Synthétiser et compléter les éléments déterminants d'un dossier technique de réhabilitation.
 
-Analyser un dossier technique d'une construction pour en repérer les éléments déterminants.
+Etablir un métré dans le respect des conventions de la profession.
 
-Choisir les techniques et méthodes d'exécution des ouvrages anciens et actuels dans le respect des normes et de la réglementation.
+Alimenter et exploiter une banque de données de prix de réhabilitation.
 
-Collecter des informations et mettre en forme des pièces écrites en utilisant l'informatique.
-
-Etablir un devis quantitatif estimatif.
-
-Etablir une feuille de métré dans le respect des conventions de la profession.
+Etablir le devis quantitatif estimatif des travaux de réhabilitation d'un bâtiment.
 
 Justifier et argumenter son étude.
 
-2. Réaliser l'étude technique d'un projet de réhabilitation
+2. Faire l'étude technique et financière de l'avant-projet d'une réhabilitation en s'inscrivant dans une démarche de développement durable
 
-Analyser un dossier technique d'une construction pour en repérer les éléments déterminants.
-
-Choisir les techniques et méthodes d'exécution des ouvrages anciens et actuels dans le respect des normes et de la réglementation.
-
-Collecter des informations et mettre en forme des pièces écrites en utilisant l'informatique.
-
-Consulter des fournisseurs, des sous-traitants ou partenaires extérieurs.
-
-Justifier et argumenter son étude.
-
-Rédiger des documents descriptifs dans le respect des usages de la profession.
-
-3. Participer à l'avant-projet d'une réhabilitation
-
-Alimenter et exploiter une banque de données.
-
-Choisir les techniques et méthodes d'exécution des ouvrages anciens et actuels dans le respect des normes et de la réglementation.
-
-Collecter des informations et mettre en forme des pièces écrites en utilisant l'informatique.
-
-Consulter des fournisseurs, des sous-traitants ou partenaires extérieurs.
-
-Dessiner des plans d'une construction dans le respect des normes de représentation.
-
-Etablir un budget prévisionnel.
+Synthétiser et compléter les éléments déterminants d'un dossier technique de réhabilitation.
 
 Faire un relevé d'une construction existante.
 
+Dessiner des plans d'une opération de réhabilitation.
+
+Rédiger des documents descriptifs d'une réhabilitation.
+
+Consulter des fournisseurs, des sous-traitants ou partenaires extérieurs pour l'étude d'une réhabilitation et en établir un tableau comparatif.
+
+Alimenter et exploiter une banque de données de prix de réhabilitation.
+
+Etablir le budget prévisionnel d'une réhabilitation.
+
 Justifier et argumenter son étude.
 
-4. Faire l'étude de prix aux déboursés
+3. Faire l'étude de prix aux déboursés
 
-et assurer le suivi financier d'une opération de réhabilitation
+d'une opération de réhabilitation
 
-Alimenter et exploiter une banque de données.
+Synthétiser et compléter les éléments déterminants d'un dossier technique de réhabilitation.
 
-Analyser un dossier technique d'une construction pour en repérer les éléments déterminants.
+Alimenter et exploiter une banque de données de prix de réhabilitation.
 
-Calculer des prix à l'aide d'un logiciel d'étude de prix.
+Consulter des fournisseurs, des sous-traitants ou partenaires extérieurs pour l'étude d'une réhabilitation et en établir un tableau comparatif.
 
 Calculer des prix unitaires par la méthode des déboursés.
 
-Choisir les techniques et méthodes d'exécution des ouvrages anciens et actuels dans le respect des normes et de la réglementation.
+Calculer des prix à l'aide d'un logiciel d'étude de prix.
 
-Collecter des informations et mettre en forme des pièces écrites en utilisant l'informatique.
-
-Consulter des fournisseurs, des sous-traitants ou partenaires extérieurs.
-
-Etablir un devis quantitatif estimatif.
-
-Facturer des travaux dans le respect de la législation des marchés.
-
-Faire un relevé des travaux exécutés.
+Etablir le devis quantitatif estimatif des travaux de réhabilitation d'un bâtiment.
 
 Justifier et argumenter son étude.
 
@@ -106,21 +78,15 @@ Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprise gros oeuvre, ou tous corps d'état.
+Entreprises de bâtiment.
 
-Cabinet d'architecte.
+Maîtres d'ouvrage (promoteurs, collectivités et administrations).
 
-Cabinet de métré ou d'économiste de la construction.
-
-Bureau d'études techniques.
-
-Collectivité ou administration.
-
-Promoteur.
+Maîtres d'œuvre (économistes, cabinets de métré, bureaux d'étude techniques, architectes).
 
 Code ROME :
 
-61223-Chargé (e) d'études techniques du BTP.
+F1108-Métré de la construction.
 
 Réglementation de l'activité :
 
@@ -132,8 +98,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
-
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

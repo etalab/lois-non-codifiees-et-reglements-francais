@@ -10,7 +10,7 @@ Est dispensé du test de sécurité défini à l'article 3, le candidat titulair
 
 ― brevet d'Etat d'éducateur sportif premier degré option natation sportive ;
 
-- brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité " activités aquatiques et de la natation.
+- brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité " activités aquatiques et de la natation ;
 
 Est dispensé du test technique correspondant aux compétences visées dans le pass'compétition défini à l'article 3, le candidat titulaire de l'un des pass'compétition suivants :
 
@@ -42,7 +42,7 @@ Est dispensé de la production de l'attestation relative à l'expérience pédag
 
 ― brevet fédéral d'initiateur de nage avec palmes délivré par la Fédération française d'études et des sports sous-marins justifiant d'une expérience pédagogique en nage avec palmes , dans les premiers niveaux de pratique compétitive, d'une durée de deux cents heures. L'expérience est attestée par le directeur technique national d'études et des sports sous-marins.
 
-- brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité " activités aquatiques et de la natation ;
+- brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités aquatiques et de la natation " et justifiant d'une expérience pédagogique, bénévole ou professionnelle en " natation course ", dans les premiers niveaux de pratique compétitive, d'une durée de 200 heures. L'expérience est attestée soit par le directeur technique national de la natation pour les structures affiliées à la Fédération française de natation, soit par le directeur technique national ou, à défaut, par le président d'une des fédérations membres du conseil interfédéral des activités aquatiques en convention avec la Fédération française de natation pour les structures qui leur sont affiliées.
 
 Est dispensé de la vérification de l'ensemble des exigences préalables définies à l'article 3 le candidat titulaire de l'attestation de formation aux premiers secours en équipe de niveau 1 ou son équivalent à jour de sa formation continue et de l'un des brevets fédéraux suivants, à jour de sa formation continue :
 
