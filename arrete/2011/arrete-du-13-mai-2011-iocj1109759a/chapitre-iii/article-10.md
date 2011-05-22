@@ -1,0 +1,7 @@
+# Article 10
+
+Le conseil consultatif d'hygiène et de sécurité est consulté avant toute décision d'aménagement important modifiant les conditions d'hygiène et de sécurité au travail, notamment avant toute transformation importante des postes de travail découlant de la modification de l'outillage, d'un changement de produit ou de l'organisation du travail.
+
+Dans les organismes comportant une ou plusieurs installations soumises à autorisation en vertu de l'article L. 512-1 du code de l'environnement et sous réserve des dispositions de l'article 13 du présent arrêté, le conseil est invité à donner son avis sur les demandes d'autorisation et sur les pièces jointes qui doivent être adressées aux autorités chargées de la protection de l'environnement. Ces documents sont communiqués aux membres du conseil au plus tard quinze jours avant la date de réunion de la séance. Le conseil est, en outre, informé des prescriptions imposées par l'arrêté ministériel autorisant le fonctionnement de l'installation.
+
+Le conseil est également consulté sur toutes questions se rattachant à sa mission, en particulier sur les programmes de formation à la sécurité au travail établis en application des dispositions législatives et réglementaires en vigueur, sur la teneur du recueil des dispositions de prévention et sur les consignes relatives à l'hygiène et à la sécurité au travail préalablement à leur mise en œuvre.
