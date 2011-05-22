@@ -955,6 +955,7 @@
 - [Arrêté du 24 septembre 2008 (ECED0823145A)](arrete-du-24-septembre-2008-eced0823145a)
 - [Arrêté du 24 septembre 2008 (JUSA0823120A)](arrete-du-24-septembre-2008-jusa0823120a)
 - [Arrêté du 24 septembre 2008 (MAEA0820438A)](arrete-du-24-septembre-2008-maea0820438a)
+- [Arrêté du 24 mai 1974](arrete-du-24-mai-1974)
 - [Arrêté du 25 août 1992 (JUSF9250044A)](arrete-du-25-aout-1992-jusf9250044a)
 - [Arrêté du 25 août 2008 (AGRE0820749A)](arrete-du-25-aout-2008-agre0820749a)
 - [Arrêté du 25 août 2008 (BCFD0819819A)](arrete-du-25-aout-2008-bcfd0819819a)
