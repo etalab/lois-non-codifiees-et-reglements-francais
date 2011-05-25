@@ -1,42 +1,36 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de carreleur(se) selon le tableau de correspondance figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre de carreleur selon le tableau de correspondance ci-dessous :
 
 <table>
 <tbody>
 <tr>
-<td align="center">ANCIEN  TITRE <br/>
+<td>
+<p align="center">TITRE PROFESSIONNEL<br/>de carreleur<br/>(arrêté du 21 octobre 2003 modifié) </p>
 </td>
-<td align="center"> NOUVEAU  TITRE  <br/>
+<td colspan="7">
+<p align="center">TITRE PROFESSIONNEL<br/>de carreleur<br/>(présent arrêté) </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Poser à la colle des carreaux de différents formats courants au sol et au  mur </p>
-<p>en intérieur. </p>
+<td align="center">
+<p align="left">Réaliser la pose scellée sur chape des carreaux courants et des plinthes en intérieur et extérieur.</p>
 </td>
-<td>
-<p> Réaliser la pose collée, au sol et au mur, des carreaux courants et des plinthes</p>
-<p>en intérieur et extérieur. </p>
+<td align="center">
+<p align="left">Réaliser la pose scellée de carreaux céramiques. </p>
 </td>
 </tr>
 <tr>
-<td> Poser sur chape fraîche en intérieur des carreaux de formats courants.<br/>
+<td align="center">
+<p align="left">Réaliser la pose collée, au sol et au mur, des carreaux courants et des plinthes en intérieur et extérieur.</p>
 </td>
-<td>
-<p> Réaliser la pose scellée sur chape des carreaux courants et des plinthes en</p>
-<p>intérieur et extérieur. </p>
+<td align="center" rowspan="2">
+<p align="left">Réaliser la pose collée au sol et au mur de carreaux céramiques.</p>
 </td>
 </tr>
 <tr>
-<td> Préparer des supports verticaux et horizontaux et réaliser des chapes.<br/>
-</td>
-<td rowspan="2"> Réaliser la construction et le carrelage d'ouvrages.</td>
-</tr>
-<tr>
-<td>
-<p> Construire des petits ouvrages destinés à être carrelés (murets, socles,</p>
-<p>tablettes, tabliers de baignoire). </p>
+<td align="center">
+<p align="left">Réaliser la construction et le carrelage d'ouvrages. </p>
 </td>
 </tr>
 </tbody>
