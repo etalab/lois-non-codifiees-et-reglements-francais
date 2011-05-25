@@ -4,6 +4,8 @@
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
+- [Article 4 bis](article-4-bis.md)
+- [Article 4 ter](article-4-ter.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
@@ -11,3 +13,4 @@
 - [Article 9](article-9.md)
 - [Article Annexe 1](article-annexe-1.md)
 - [Article Annexe 2](article-annexe-2.md)
+- [Article Annexe 3](article-annexe-3.md)
