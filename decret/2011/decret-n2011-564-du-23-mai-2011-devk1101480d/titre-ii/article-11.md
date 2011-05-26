@@ -1,0 +1,3 @@
+# Article 11
+
+Les inspecteurs du permis de conduire et de la sécurité routière en activité ainsi que les fonctionnaires recrutés, détachés ou intégrés dans ce corps avant le 19 janvier 2013 conformément aux articles 16 et 17 du décret du 10 décembre 1987 susvisé dans leur rédaction antérieure à celles du présent décret peuvent continuer à faire passer les épreuves des différents permis de conduire dans les conditions prévues par le même décret dans sa rédaction antérieure à celle résultant du présent décret. Toutefois, les dispositions de l'article 12-1 du décret du 10 décembre 1987 susvisé, issues de l'article 9 du présent décret, leur sont applicables à compter du 19 janvier 2013.
