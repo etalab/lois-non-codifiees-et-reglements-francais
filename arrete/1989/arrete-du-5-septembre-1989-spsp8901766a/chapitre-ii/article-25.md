@@ -4,7 +4,7 @@ Les bénéficiaires d'une dispense totale de scolarité déposent, dans les cond
 
 Ils doivent également être titulaires de l'attestation de formation aux gestes et soins d'urgence de niveau 2 en cours de validité.
 
-Le directeur de l'institut de formation en masso-kinésithérapie désigne un établissement hospitalier dans lequel ils effectuent un stage à temps plein dont l'encadrement est assuré par le chef de service d'accueil ou un praticien du service et un surveillant du service, titulaire du certificat de moniteur-cadre en masso-kinésithérapie. Ils réalisent au cours de ce stage un travail écrit, élaboré dans les conditions fixées aux deux premières phrases de l'article 14 et soutenu devant le jury prévu à l'article 27.
+Le directeur de l'institut de formation en masso-kinésithérapie désigne un terrain de stage dans lequel ils effectuent un stage à temps plein dont l'encadrement est assuré par un masseur-kinésithérapeute référent. Ils réalisent au cours de ce stage un travail écrit, élaboré dans les conditions fixées aux deux premières phrases de l'article 14 et soutenu devant le jury prévu à l'article 27.
 
 Le travail réalisé par les candidats est transmis par ceux-ci au directeur de l'institut de formation en masso-kinésithérapie de leur domicile, à charge pour elle de l'adresser aux membres du jury, prévu à l'article 27, quinze jours au moins avant la date de l'épreuve de soutenance.
 

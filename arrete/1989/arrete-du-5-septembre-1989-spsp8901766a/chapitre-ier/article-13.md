@@ -1,3 +1,3 @@
 # Article 13
 
-Les stages extra-hospitaliers ne donnent pas lieu à validation. Le masseur-kinésithérapeute responsable du stagiaire adresse au directeur de l'école une attestation selon le modèle joint en annexe IV du présent arrêté.
+Les travaux mentionnés au point 3.2.2 du module 12 du II de l'annexe prévue à l'article 4 du décret du 29 mars 1963 susvisé ont pour finalité de construire l'alternance intégrative du parcours de stage.
