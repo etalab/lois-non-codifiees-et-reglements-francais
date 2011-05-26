@@ -1,5 +1,9 @@
 # Article 16
 
-Les fonctionnaires appartenant à un corps de catégorie B et justifiant dans ce corps de quatre ans de service peuvent être placés en position de détachement dans le corps des inspecteurs du permis de conduire et de la sécurité routière sous réserve d'être titulaires des deux catégories A et B de permis de conduire et après vérification de leurs aptitudes professionnelles.
+Pour l'application de l'article 13 bis de la loi du 13 juillet 1983 susvisée, les fonctionnaires placés en position de détachement dans le corps des inspecteurs du permis de conduire et de la sécurité routière doivent justifier des conditions prévues à l'article 4 du présent décret et satisfaire aux conditions mentionnées à l'article 5 du présent décret.
 
-Le détachement s'effectue à équivalence de grade et à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps d'origine. Le fonctionnaire détaché conserve l'ancienneté acquise dans son échelon antérieur lorsque le détachement lui procure une augmentation de traitement inférieure à celle qui aurait résulté d'un avancement d'échelon dans son précédent corps, ou qui a résulté de sa nomination audit échelon, si cet échelon était le plus élevé de son grade.
+Les fonctionnaires placés en position de détachement depuis deux ans au moins peuvent, à leur demande, être intégrés dans le corps des inspecteurs du permis de conduire et de la sécurité routière.
+
+Sous réserve des dispositions de l'article 26-3 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions, les intéressés sont nommés dans le grade et à l'échelon qu'ils occupaient en position de détachement. Ils conservent l'ancienneté d'échelon qu'ils avaient acquise.
+
+Les services accomplis dans le corps ou cadre d'emplois d'origine par les fonctionnaires intégrés après détachement dans le corps des inspecteurs du permis de conduire et de la sécurité routière sont assimilés à des services effectifs accomplis dans ce corps.

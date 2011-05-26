@@ -3,5 +3,5 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Recrutement.](titre-ii)
 - [Titre III : Avancement.](titre-iii)
-- [Titre IV : Positions.](titre-iv)
+- [Titre IV : Détachement, intégration directe.](titre-iv)
 - [Article 26](article-26.md)

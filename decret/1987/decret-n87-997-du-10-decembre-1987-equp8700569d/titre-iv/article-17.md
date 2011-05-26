@@ -1,7 +1,3 @@
 # Article 17
 
-Les fonctionnaires placés en position de détachement depuis deux ans au moins peuvent, sur leur demande, être intégrés dans le corps des inspecteurs du permis de conduire et de la sécurité routière.
-
-Les intéressés sont nommés dans le grade et à l'échelon qu'ils occupaient en position de détachement. Ils conservent l'ancienneté d'échelon qu'ils avaient acquise.
-
-Les services accomplis dans le corps d'origine sont assimilés à des services effectifs dans le corps d'intégration.
+Pour l'application de l'article 13 bis de la loi du 11 janvier 1984 susvisée, les fonctionnaires intégrés directement dans le corps des inspecteurs du permis de conduire et de la sécurité routière doivent justifier des conditions prévues à l'article 4 du présent décret et satisfaire aux conditions mentionnées à l'article 5 du présent décret.
