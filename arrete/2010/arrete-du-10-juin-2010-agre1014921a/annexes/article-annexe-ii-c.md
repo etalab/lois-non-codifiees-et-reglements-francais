@@ -10,7 +10,7 @@ L'examen est organisé en épreuves ponctuelles terminales pour les autres candi
 
 Epreuve E1 : langue française, langages, éléments d'une culture humaniste et compréhension du monde
 
-Elle valide la capacité C1  Communiquer dans un contexte social et professionnel en mobilisant des références culturelles .
+Elle valide la capacité C1 Communiquer dans un contexte social et professionnel en mobilisant des références culturelles .
 
 Elle est affectée du coefficient 4.
 
@@ -28,7 +28,7 @@ Pour les candidats hors CCF, elle se compose d'une épreuve ponctuelle terminale
 
 Epreuve E2 : langue et culture étrangères
 
-L'épreuve valide la capacité C2  communiquer dans une langue étrangère dans les situations courantes de la vie professionnelle .
+L'épreuve valide la capacité C2 communiquer dans une langue étrangère dans les situations courantes de la vie professionnelle .
 
 Elle est affectée du coefficient 1.
 
@@ -40,7 +40,7 @@ Elle atteste du niveau B1 + du cadre européen commun de référence pour les la
 
 Epreuve E3 : motricité, santé et socialisation par la pratique des activités physiques, sportives, artistiques et d'entretien de soi (APSAES)
 
-L'épreuve valide la capacité C3  développer sa motricité .
+L'épreuve valide la capacité C3 développer sa motricité .
 
 Elle est affectée du coefficient 1.
 
@@ -50,7 +50,7 @@ Pour les candidats hors CCF, elle se compose d'une épreuve pratique qui porte s
 
 Epreuve E4 : culture scientifique et technologique
 
-L'épreuve valide la capacité C4  mettre en œuvre des savoirs et savoir-faire scientifiques et techniques .
+L'épreuve valide la capacité C4 mettre en œuvre des savoirs et savoir-faire scientifiques et techniques .
 
 Elle est affectée d'un coefficient 4.
 
@@ -64,15 +64,15 @@ Pour les candidats hors CCF, elle se compose d'une épreuve ponctuelle terminale
 
 Epreuve E5 : sciences appliquées et technologies
 
-L'épreuve valide la capacité C5  mobiliser les connaissances scientifiques et techniques nécessaires à la conduite de la production .
+L'épreuve valide la capacité C5 mobiliser les connaissances scientifiques et techniques nécessaires à la conduite de la production .
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures trente. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants : un enseignant de sciences et techniques de l'option choisie.
+C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures trente. L'épreuve est corrigée à l'aide d'une grille critériée nationale par un enseignant de sciences et techniques de l'option choisie.
 
 Epreuve E6 : pilotage de l'entreprise
 
-Elle valide la capacité C6  élaborer un diagnostic global de l'entreprise dans une perspective de durabilité  du référentiel de certification.
+Elle valide la capacité C6 élaborer un diagnostic global de l'entreprise dans une perspective de durabilité du référentiel de certification.
 
 Elle est affectée du coefficient 3.
 
@@ -92,59 +92,59 @@ Epreuve E7 : pratiques professionnelles
 
 Selon les options, elle valide les capacités C7 à C13.
 
-Option  Systèmes à dominante cultures  :
+Option Systèmes à dominante cultures :
 
-C7  caractériser le contexte de la production et de la commercialisation des produits et des services .
+C7 caractériser le contexte de la production et de la commercialisation des produits et des services .
 
-C8  réaliser la gestion technico-économique d'une entreprise agricole .
+C8 réaliser la gestion technico-économique d'une entreprise agricole .
 
-C9  mettre en œuvre des équipements agricoles .
+C9 mettre en œuvre des équipements agricoles .
 
-C10  conduire un processus de production à l'échelle du système de culture dans une perspective de durabilité .
+C10 conduire un processus de production à l'échelle du système de culture dans une perspective de durabilité .
 
-C11  s'adapter à des enjeux professionnels particuliers .
+C11 s'adapter à des enjeux professionnels particuliers .
 
-Option  Systèmes à dominante élevage  :
+Option Systèmes à dominante élevage :
 
-C7  caractériser le contexte de la production et de la commercialisation des produits et des services .
+C7 caractériser le contexte de la production et de la commercialisation des produits et des services .
 
-C8  réaliser la gestion technico-économique d'une entreprise agricole .
+C8 réaliser la gestion technico-économique d'une entreprise agricole .
 
-C9  mettre en œuvre les équipements de l'élevage .
+C9 mettre en œuvre les équipements de l'élevage .
 
-C10  conduire un atelier de production animale dans une perspective de durabilité et en respectant le bien-être animal .
+C10 conduire un atelier de production animale dans une perspective de durabilité et en respectant le bien-être animal .
 
-C11  conduire les cultures associées à l'élevage .
+C11 conduire les cultures associées à l'élevage .
 
-C12  s'adapter à des enjeux professionnels particuliers .
+C12 s'adapter à des enjeux professionnels particuliers .
 
-Option  Elevage et valorisation du cheval  :
+Option Elevage et valorisation du cheval :
 
-C7  caractériser le contexte de la production et de la commercialisation des produits et des services .
+C7 caractériser le contexte de la production et de la commercialisation des produits et des services .
 
-C8  réaliser la gestion technico-économique d'une entreprise agricole .
+C8 réaliser la gestion technico-économique d'une entreprise agricole .
 
-C9  mettre en œuvre les équipements de l'élevage .
+C9 mettre en œuvre les équipements de l'élevage .
 
-C10  conduire un élevage équin dans une perspective de durabilité et en respectant le bien-être animal .
+C10 conduire un élevage équin dans une perspective de durabilité et en respectant le bien-être animal .
 
-C11  conduire les prairies associées à l'élevage .
+C11 conduire les prairies associées à l'élevage .
 
-C12  réaliser l'éducation et la préparation des jeunes chevaux .
+C12 réaliser l'éducation et la préparation des jeunes chevaux .
 
-C13  s'adapter à des enjeux professionnels particuliers .
+C13 s'adapter à des enjeux professionnels particuliers .
 
-Option  Vigne et vin  :
+Option Vigne et vin :
 
-C7  caractériser le contexte de la production et de la commercialisation des produits et des services .
+C7 caractériser le contexte de la production et de la commercialisation des produits et des services .
 
-C8  réaliser la gestion technico-économique d'une entreprise agricole .
+C8 réaliser la gestion technico-économique d'une entreprise agricole .
 
-C9  mettre en œuvre des équipements viticoles et vinicoles .
+C9 mettre en œuvre des équipements viticoles et vinicoles .
 
-C10  conduire un processus vitivinicole dans une perspective de durabilité .
+C10 conduire un processus vitivinicole dans une perspective de durabilité .
 
-C11  s'adapter à des enjeux professionnels particuliers .
+C11 s'adapter à des enjeux professionnels particuliers .
 
 Elle est affectée du coefficient 5.
 
@@ -154,7 +154,7 @@ Pour les candidats hors CCF :
 
 Il s'agit d'une épreuve ponctuelle terminale orale ayant pour support un ensemble de documents constitué par le candidat relatif aux activités pratiques qu'il a effectuées.
 
-Les examinateurs sont un enseignant de sciences et techniques de l'option choisie, un enseignant des sciences et techniques des agroéquipements et un professionnel (*) du secteur.
+les examinateurs sont un enseignant de sciences et techniques de l'option choisie, un enseignant de sciences économiques, sociales et de gestion et un professionnel (*) du secteur.
 
 L'interrogation est d'une durée maximale de trente minutes.
 
