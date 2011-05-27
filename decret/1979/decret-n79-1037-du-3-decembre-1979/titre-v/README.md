@@ -1,6 +1,5 @@
 # TITRE V : SANCTION ADMINISTRATIVE PRÉVUE   À L'ARTICLE L. 214-10 DU CODE DU PATRIMOINE.
 
-- [Article 21](article-21.md)
 - [Article 21-1](article-21-1.md)
 - [Article 21-2](article-21-2.md)
 - [Article 21-3](article-21-3.md)
