@@ -111,7 +111,6 @@
 - [Décret n°2000-819 du 28 août 2000 (MESF0010794D)](decret-n2000-819-du-28-aout-2000-mesf0010794d)
 - [Décret n°2000-825 du 28 août 2000 (INTE0000233D)](decret-n2000-825-du-28-aout-2000-inte0000233d)
 - [Décret n°2000-609 du 29 juin 2000 (MCCB0000009D)](decret-n2000-609-du-29-juin-2000-mccb0000009d)
-- [Décret n°2000-856 du 29 août 2000 (MCCB0000441D)](decret-n2000-856-du-29-aout-2000-mccb0000441d)
 - [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)

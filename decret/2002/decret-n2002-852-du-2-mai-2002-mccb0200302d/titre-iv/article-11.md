@@ -1,7 +1,0 @@
-# Article 11
-
-Dans un délai de douze mois après la publication de la loi du 4 janvier 2002 susvisée, la personne morale propriétaire des collections d'un musée contrôlé peut adresser au ministre chargé de la culture et, le cas échéant, au ministre compétent, une demande d'obtention immédiate de l'appellation " musée de France " accompagnée de la délibération de l'assemblée compétente. Celle-ci est réputée attribuée un mois après la réception de la demande, à moins que le ministre chargé de la culture et, le cas échéant, le ministre compétent n'aient fait connaître dans le même délai l'opposition motivée de l'Etat à l'attribution immédiate de l'appellation.
-
-Dans un délai de douze mois après la publication de la loi du 4 janvier 2002 susvisée, la personne morale propriétaire des collections d'un musée contrôlé peut notifier au ministre chargé de la culture, et, le cas échéant, au ministre compétent, sa décision de refuser l'appellation " musée de France " accompagnée de la délibération de l'assemblée compétente. Le ministre chargé de la culture adresse à la personne morale un récépissé prenant acte de ce refus.
-
-L'appellation " musée de France " délivrée en application des dispositions de l'article 18-II de la loi du 4 janvier 2002 susvisée est attribuée par un arrêté du ministre chargé de la culture, et, le cas échéant, du ministre compétent, publié au Journal officiel de la République française.

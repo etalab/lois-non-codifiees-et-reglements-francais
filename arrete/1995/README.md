@@ -216,7 +216,6 @@
 - [Arrêté du 6 janvier 1995 (ENVN9430429A)](arrete-du-6-janvier-1995-envn9430429a)
 - [Arrêté du 6 janvier 1995 (MENL9402311A)](arrete-du-6-janvier-1995-menl9402311a)
 - [Arrêté du 6 janvier 1995 (MENL9402312A)](arrete-du-6-janvier-1995-menl9402312a)
-- [Arrêté du 6 janvier 1995 (MICT9500001A)](arrete-du-6-janvier-1995-mict9500001a)
 - [Arrêté du 6 janvier 1995 (MICT9500002A)](arrete-du-6-janvier-1995-mict9500002a)
 - [Arrêté du 6 juin 1995 (AGRA9501032A)](arrete-du-6-juin-1995-agra9501032a)
 - [Arrêté du 6 mars 1995 (AGRG9500371A)](arrete-du-6-mars-1995-agrg9500371a)
