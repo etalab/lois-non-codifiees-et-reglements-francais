@@ -26,4 +26,4 @@ Pour une classe comprenant plus de 2 000 agents :
 
 - six membres titulaires et six membres suppléants.
 
-L'effectif des personnels pris en compte pour la détermination du nombre des représentants est apprécié au 31 décembre de l'année qui précède celle au cours de laquelle a lieu le scrutin. La répartition générale des sièges est fixée par arrêté du directeur général du Centre national de gestion.
+L'effectif des personnels pris en compte pour la détermination du nombre des représentants est apprécié au dernier jour du mois précédant de six mois la date du scrutin. La répartition générale des sièges est fixée par arrêté du directeur général du Centre national de gestion.

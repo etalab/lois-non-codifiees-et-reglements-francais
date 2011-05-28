@@ -33,3 +33,5 @@ Les représentants titulaires sont désignés selon l'ordre de présentation de 
 d) Dispositions spéciales :
 
 Dans le cas où deux organisations syndicales ont obtenu la même moyenne et où il ne reste qu'un siège à pourvoir, ce siège est attribué à l'organisation qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats en présence.
+
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se fait sur la base indiquée par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la répartition des suffrages se fait à parts égales entre les organisations concernées.

@@ -1,5 +1,7 @@
 # Article 8
 
-Sauf le cas de renouvellement anticipé d'une commission, les élections aux commissions administratives paritaires nationales ont lieu quatre mois au plus et quinze jours au moins avant la date d'expiration du mandat de leurs membres en exercice.
+La date des élections pour le renouvellement général des commissions administratives paritaires nationales est fixée par arrêté conjoint du Premier ministre, du ministre chargé de la santé, du ministre chargé des affaires sociales et du ministre chargé de la fonction publique. La durée du mandat des instances est réduite ou prorogée en conséquence.
 
-La date de ces élections est fixée par arrêté du ministre compétent au moins trois mois avant le scrutin. Cet arrêté est publié au Journal officiel de la République française.
+En cas d'élections partielles, la date est fixée par le directeur général du Centre national de gestion.
+
+Sauf cas de renouvellement anticipé, la date des élections est rendue publique six mois au moins avant l'expiration du mandat en cours.

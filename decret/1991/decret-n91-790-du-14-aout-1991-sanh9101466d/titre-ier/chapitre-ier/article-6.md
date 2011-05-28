@@ -2,9 +2,9 @@
 
 En cas d'impossibilité d'un représentant du personnel, titulaire ou suppléant, d'exercer ses fonctions avant l'expiration de son mandat pour toute autre cause que l'avancement de classe, il est remplacé jusqu'au renouvellement des représentants du personnel de cette commission dans les conditions définies ci-après.
 
-Si l'empêchement définitif d'un représentant titulaire ne résulte pas d'une démission, ou si la démission a été remise à titre individuel et acceptée par l'administration, son suppléant est nommé titulaire et remplacé par le candidat suivant de la même liste relevant de la même classe. Si l'empêchement définitif d'un représentant suppléant intervient dans les mêmes conditions, ce suppléant est remplacé par le candidat suivant de la même liste relevant de la même classe.
+Lorsqu'un représentant titulaire se trouve dans l'impossibilité d'exercer ses fonctions, il est remplacé par le premier suppléant pris dans l'ordre de la liste au titre de laquelle il a été élu. Lorsqu'un représentant suppléant se trouve dans l'impossibilité d'exercer ses fonctions, il est remplacé par le premier candidat non élu restant de la même liste.
 
-Lorsqu'une liste se trouve dans l'impossibilité de pourvoir dans les conditions prévues à l'alinéa précédent aux sièges de membre titulaire ou de membre suppléant auxquels elle a droit, les sièges restant à pourvoir sont attribués selon la procédure de tirage au sort prévue au b de l'article 17 du présent décret.
+Lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues à l'alinéa précédent, aux sièges de membres titulaires ou de membres suppléants auxquels elle a droit pour une classe, l'organisation syndicale ayant présenté la liste désigne son représentant parmi les fonctionnaires titulaires de cette classe relevant de la commission, éligibles au moment où se fait la désignation, pour la durée du mandat restant à courir.
 
 En cas de démission collective de représentants du personnel, les sièges laissés vacants par des titulaires sont attribués aux suppléants ou, en cas de démission de ces derniers, selon la procédure de tirage au sort prévue au b de l'article 17 ; les sièges laissés vacants par des suppléants nommés titulaires ou ayant démissionné sont attribués selon la même procédure.
 
