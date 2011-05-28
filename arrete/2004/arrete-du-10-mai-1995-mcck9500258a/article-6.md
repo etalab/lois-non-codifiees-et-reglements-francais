@@ -1,20 +1,20 @@
 # Article 6
 
-I. - Les oeuvres appartenant au genre documentaire de création sont réparties en six groupes :
+I. - Les œuvres appartenant au genre documentaire de création sont réparties en six groupes :
 
-Premier groupe : oeuvres pour lesquelles l'apport horaire en numéraire   est supérieur ou égal à 160 000 euros ;
+- premier groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 160 000 € ;
 
-Deuxième groupe : oeuvres pour lesquelles l'apport horaire en numéraire   est supérieur ou égal à 80 000 euros ;
+- deuxième groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 80 000 € ;
 
-Troisième groupe : oeuvres pour lesquelles l'apport horaire en numéraire   est supérieur ou égal à 25 000 euros ;
+- troisième groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 25 000 € ;
 
-Quatrième groupe : oeuvres pour lesquelles l'apport horaire en numéraire   est supérieur ou égal à 9 000 euros ;
+- quatrième groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 9 000 € ;
 
-Cinquième groupe : oeuvres pour lesquelles l'apport horaire en numéraire   est inférieur à 9 000 euros ;
+- cinquième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 9 000 € ;
 
-Sixième groupe : oeuvres constituées de plus de trois épisodes.
+- sixième groupe : œuvres constituées de plus de trois épisodes.
 
-II. - Les coefficients appliqués à la durée ou à la durée cumulée  des oeuvres appartenant au genre documentaire de création sont les suivants :
+II. - Les coefficients appliqués à la durée ou à la durée cumulée des œuvres appartenant au genre documentaire de création sont les suivants :
 
 Premier groupe : 1, 3 ;
 

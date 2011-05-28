@@ -1,12 +1,12 @@
 # Article 1
 
-I.-Pour l'obtention de la décision prévue au paragraphe I (1o) de l'article 8 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie un dossier comprenant :
+I.-Pour l'obtention de la décision prévue au paragraphe I (1°) de l'article 8 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie un dossier comprenant :
 
 1. Une lettre de demande de présentation mentionnant :
 
--le titre de la vidéomusique ;
+- le titre de la vidéomusique ;
 
--la date de diffusion ou de mise à disposition du public de l'oeuvre considérée, certifiée par l'éditeur de service qui en a assuré la première diffusion ou la première mise à disposition du public ;
+- la date de diffusion ou de mise à disposition du public de l'œuvre considérée, certifiée par l'éditeur de service qui en a assuré la première diffusion ou la première mise à disposition du public ;
 
 2. Un synopsis incluant le texte de la chanson ;
 
@@ -24,7 +24,7 @@ I.-Pour l'obtention de la décision prévue au paragraphe I (1o) de l'article 8 
 
 8. Une copie de la vidéomusique.
 
-II.-Pour investir les sommes inscrites au compte ouvert à son nom conformément à l'alinéa 3 du paragraphe I (1o) de l'article 8 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie, dans le mois qui suit la fin des prises de vues, un dossier comprenant :
+II.-Pour investir les sommes inscrites au compte ouvert à son nom conformément à l'alinéa 3 du paragraphe I (1°) de l'article 8 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie, dans le mois qui suit la fin des prises de vues, un dossier comprenant :
 
 1. Une lettre de demande indiquant le montant de l'aide sollicitée, ainsi que les principales caractéristiques artistiques et techniques de l'oeuvre,
 

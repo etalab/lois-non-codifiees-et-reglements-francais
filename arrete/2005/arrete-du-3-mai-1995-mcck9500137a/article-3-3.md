@@ -1,6 +1,6 @@
 # Article 3-3
 
-Les aides sont accordées pour la promotion d'oeuvres ayant fait l'objet d'une acceptation dûment renseignée et certifiée de leur version définitive par un ou plusieurs éditeurs de services mentionnés au paragraphe I (1°) ou au paragraphe IV (1°) de l'article 4 du décret du 2 février 1995 susvisé, depuis moins de deux ans.
+Les aides sont accordées pour la promotion d'œuvres ayant fait l'objet d'une acceptation dûment renseignée et certifiée de leur version définitive par un ou plusieurs éditeurs de services mentionnés au paragraphe I (1°) ou au paragraphe IV (1°) de l'article 4 du décret du 2 février 1995 susvisé, depuis moins de deux ans.
 
 Des dérogations peuvent être accordées à ce délai par le directeur général du Centre national de la cinématographie après avis de la commission prévue à l'article 5 pour les oeuvres pouvant potentiellement justifier de ventes significatives à l'étranger.
 

@@ -6,9 +6,9 @@ I. - Les oeuvres appartenant au genre fiction sont réparties en trois groupes :
 
 -deuxième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 460 000 euros et supérieur ou égal à 213 500 euros ;
 
--troisième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 213 500 euros et supérieur ou égal à 60 000  euros.
+-troisième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 213 500 € et supérieur ou égal à 60 000 €.
 
-II. - Les coefficients appliqués à la durée ou à la durée cumulée  des oeuvres appartenant au genre fiction sont les suivants :
+II. - Les coefficients appliqués à la durée ou à la durée cumulée des œuvres appartenant au genre fiction sont les suivants :
 
 -premier groupe : 3 ;
 

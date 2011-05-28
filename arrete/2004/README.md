@@ -236,7 +236,6 @@
 - [Arrêté du 10 août 2004 (DEVN0430297A)](arrete-du-10-aout-2004-devn0430297a)
 - [Arrêté du 10 août 2004 (DEVN0430298A)](arrete-du-10-aout-2004-devn0430298a)
 - [Arrêté du 10 août 2004 (SANP0422540A)](arrete-du-10-aout-2004-sanp0422540a)
-- [Arrêté du 10 avril 1995 (MCCK9500141A)](arrete-du-10-avril-1995-mcck9500141a)
 - [Arrêté du 10 avril 1995 (MCCK9500145A)](arrete-du-10-avril-1995-mcck9500145a)
 - [Arrêté du 10 décembre 2004 (MJSK0470246A)](arrete-du-10-decembre-2004-mjsk0470246a)
 - [Arrêté du 10 février 2004 (BUDD0470004A)](arrete-du-10-fevrier-2004-budd0470004a)

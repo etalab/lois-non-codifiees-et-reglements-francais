@@ -6,7 +6,7 @@ I. - Les oeuvres appartenant au genre animation sont réparties en deux groupes 
 
 - deuxième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 244 000 euros et supérieur à 122 000 euros.
 
-II. - Les coefficients appliqués à la durée des oeuvres appartenant au genre Animation sont les suivants :
+II. - Les coefficients appliqués à la durée ou à la durée cumulée des œuvres appartenant au genre animation sont les suivants :
 
 - premier groupe : 3 ;
 
