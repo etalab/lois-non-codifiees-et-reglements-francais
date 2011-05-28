@@ -1,6 +1,6 @@
 # Article 22
 
-Au siège de l'Assistance publique-hôpitaux de Paris ainsi que dans chaque hôpital, groupe hospitalier ou service général de l'Assistance publique-hôpitaux de Paris doit être institué un bureau de vote par commission administrative paritaire à constituer.
+Au siège de l'Assistance publique-hôpitaux de Paris ainsi que dans chaque groupe hospitalier, hôpital non rattaché à un groupe hospitalier ou pôle d'intérêt commun de l'Assistance publique-hôpitaux de Paris doit être institué un bureau de vote par commission administrative paritaire à constituer.
 
 Chaque bureau de vote est composé, d'une part, d'un représentant du directeur général de l'Assistance publique-hôpitaux de Paris, président, et, d'autre part, d'au moins deux assesseurs.
 

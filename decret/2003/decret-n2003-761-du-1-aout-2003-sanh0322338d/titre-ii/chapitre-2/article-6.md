@@ -2,7 +2,7 @@
 
 Le directeur général de l'Assistance publique-hôpitaux de Paris ou son représentant est membre de droit des commissions administratives paritaires.
 
-Les autres représentants de l'administration sont désignés, pour la moitié des sièges à pourvoir, parmi les agents du corps des personnels de direction des établissements mentionnés à l'article 2 (1°, 2°, 3°) du titre IV du statut général des fonctionnaires en fonctions à l'Assistance publique-hôpitaux de Paris.
+Les autres représentants de l'administration sont désignés, pour la moitié des sièges à pourvoir, parmi les agents du corps des personnels de direction des établissements mentionnés à l'article 2 (1°, 2°, 3°) de la loi du 9 janvier 1986 susvisée et du corps des directeurs des soins.
 
 Les représentants restant à désigner sont choisis parmi les autres agents de catégorie A en fonctions à l'Assistance publique-hôpitaux de Paris.
 

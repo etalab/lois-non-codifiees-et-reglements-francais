@@ -1,8 +1,6 @@
 # Article 29
 
-Dans le cas où le taux de participation, calculé à partir de l'émargement des listes électorales auquel il a été procédé dans les lieux de vote, conformément au premier alinéa de l'article 25, est inférieur au taux fixé à l'article 36 ci-dessous, il n'est procédé au dépouillement du scrutin, ni par le bureau de vote, ni, le cas échéant, par les sections de vote qui lui sont rattachées.
-
-Dans le cas contraire, le bureau de vote procède successivement :
+Le bureau de vote procède successivement :
 
 1. Au dépouillement du scrutin pour les électeurs inscrits auprès dudit bureau. Toutefois, lorsque le nombre de votants pour une commission administrative paritaire est inférieur à cinq, le dépouillement des bulletins est opéré par la commission centrale de vote mentionnée à l'article 32 ;
 

@@ -6,8 +6,10 @@ Chaque liste a droit à autant de sièges de représentants titulaires que le no
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
-En cas d'égalité de moyenne entre deux ou plusieurs listes pour l'attribution d'un siège, celui-ci est attribué à la liste ayant obtenu le nombre de voix le plus élevé pour la commission administrative paritaire concernée et, en cas d'égalité du nombre de voix obtenues pour cette commission, à la liste ayant obtenu le plus grand nombre de voix pour l'ensemble des commissions administratives paritaires de l'Assistance publique-hôpitaux de Paris.
+En cas d'égalité de moyenne entre deux ou plusieurs listes pour l'attribution d'un siège, celui-ci est attribué à la liste ayant obtenu le nombre de voix le plus élevé pour la commission administrative paritaire concernée et, en cas d'égalité du nombre de voix obtenues pour cette commission, à l'organisation syndicale ayant obtenu le plus grand nombre de voix pour l'ensemble des commissions administratives paritaires de l'Assistance publique-hôpitaux de Paris.
 
 Lorsque le scrutin concerne les élections partielles, ce sont les résultats obtenus lors de la dernière consultation générale qui servent dans ce dernier cas de référence.
 
 Les représentants titulaires sont désignés dans l'ordre de présentation des listes, en fonction du nombre de sièges que celles-ci ont obtenus.
+
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se fait sur la base indiquée par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la répartition des suffrages se fait à parts égales entre les organisations concernées.
