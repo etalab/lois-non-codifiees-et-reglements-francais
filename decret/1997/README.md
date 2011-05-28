@@ -505,8 +505,6 @@
 - [Décret n°97-522 du 23 mai 1997 (ECOT9751581D)](decret-n97-522-du-23-mai-1997-ecot9751581d)
 - [Décret n°97-523 du 23 mai 1997 (MJSK9770046D)](decret-n97-523-du-23-mai-1997-mjsk9770046d)
 - [Décret n°97-532 du 23 mai 1997 (JUSC9720329D)](decret-n97-532-du-23-mai-1997-jusc9720329d)
-- [Décret du 24 octobre 1997 (ECOC9700130D)](decret-du-24-octobre-1997-ecoc9700130d)
-- [Décret du 24 octobre 1997 (ECOC9700131D)](decret-du-24-octobre-1997-ecoc9700131d)
 - [Décret n° 97-1188 du 24 décembre 1997 (JUSG9760072D)](decret-n-97-1188-du-24-decembre-1997-jusg9760072d)
 - [Décret n°96-1133 du 24 décembre 1996 (TAST9611675D)](decret-n96-1133-du-24-decembre-1996-tast9611675d)
 - [Décret n°97-1077 du 24 novembre 1997 (MESH9722550D)](decret-n97-1077-du-24-novembre-1997-mesh9722550d)
