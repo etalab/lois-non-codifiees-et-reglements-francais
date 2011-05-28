@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au renouvellement général du Parlement européen suivant la publication de la présente loi, et par dérogation aux dispositions de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les membres de l'Assemblée nationale élisent, en leur sein, les deux représentants supplémentaires au Parlement européen à élire en France en vertu du protocole du 23 juin 2010 modifiant le protocole sur les dispositions transitoires, annexé au traité sur l'Union européenne, au traité sur le fonctionnement de l'Union européenne et au traité instituant la Communauté européenne de l'énergie atomique.

@@ -1,0 +1,4 @@
+# TITRE II : EXAMEN PROFESSIONNEL DE SECRETAIRE  D'ADMINISTRATION DE CLASSE SUPERIEURE
+
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
