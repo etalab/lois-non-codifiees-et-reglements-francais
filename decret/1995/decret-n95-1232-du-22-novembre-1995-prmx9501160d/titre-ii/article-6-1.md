@@ -20,6 +20,8 @@ Peuvent notamment être entendus à ce titre :
 
 -le directeur de l'immigration ;
 
+- le directeur des pêches maritimes et de l'aquaculture ;
+
 -le président de l'Institut français de recherche pour l'exploitation de la mer ;
 
 -le directeur général du service hydrographique et océanographique de la marine ;
