@@ -249,13 +249,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Commission des produits chimiques et biocides. <br/>
-</td>
-<td align="center"/>
-<td align="center">Décret n° 2004-187 du 26 février 2004 portant transposition de la directive 98 / 8 / CE du Parlement européen et du Conseil du 16 février 1998 concernant la mise sur le marché des produits biocides. <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Commission des téléphériques. <br/>
 </td>
 <td align="center"/>
