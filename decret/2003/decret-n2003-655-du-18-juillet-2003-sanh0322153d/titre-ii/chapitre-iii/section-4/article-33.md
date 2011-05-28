@@ -1,8 +1,6 @@
 # Article 33
 
-Dans le cas où le taux de participation, calculé à partir de l'émargement des listes électorales auquel il a été procédé dans l'ensemble des lieux de vote conformément au premier alinéa de l'article 30, est inférieur au taux fixé à l'article 41 ci-dessous, il n'est pas procédé au dépouillement du scrutin, ni par le bureau de vote, ni, le cas échéant, par les sections de vote qui lui sont rattachées.
-
-Dans le cas contraire, le bureau de vote procède successivement :
+Le bureau de vote procède successivement :
 
 - au dépouillement du scrutin, pour les électeurs inscrits auprès de ce bureau ;
 

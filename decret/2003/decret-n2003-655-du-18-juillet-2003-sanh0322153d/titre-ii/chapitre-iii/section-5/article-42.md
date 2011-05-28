@@ -1,3 +1,3 @@
 # Article 42
 
-Les contestations relatives à la validité des opérations électorales sont portées devant le directeur de l'établissement qui en assure la gestion dans un délai de cinq jours francs à compter de la proclamation des résultats.
+Sans préjudice des dispositions du dernier alinéa de l'article 9 bis de la loi du 13 juillet 1983 susvisée, les contestations sur la validité des opérations électorales sont portées, dans un délai de cinq jours à compter de la proclamation des résultats, devant le directeur de l'établissement qui assure la gestion de la commission administrative paritaire, puis, le cas échéant, devant la juridiction administrative.

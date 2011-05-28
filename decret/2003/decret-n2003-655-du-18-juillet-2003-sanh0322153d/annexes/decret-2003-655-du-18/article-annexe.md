@@ -6,17 +6,15 @@ Groupe unique
 
 Sous-groupe unique : ingénieurs généraux, ingénieurs hospitaliers en chef de classe exceptionnelle, ingénieurs hospitaliers en chef de classe normale, ingénieurs hospitaliers principaux, ingénieurs hospitaliers.
 
-CAP n° 2 : personnels de catégorie A des services de soins des services médico-techniques et des services sociaux
+CAP n° 2 : personnels de catégorie A des services de soins, des services médico-techniques et des services sociaux
 
 Groupe unique
 
-Sous-groupe 1 : directeurs d'écoles préparant au certificat cadre de sage-femme, directeurs d'écoles préparant au diplôme d'Etat de sage-femme.
+Sous-groupe 1 : directeurs d'écoles préparant au certificat-cadre de sage-femme, directeurs d'écoles préparant au diplôme d'Etat de sage-femme ; infirmiers de bloc opératoire cadres supérieurs de santé, infirmiers anesthésistes cadres supérieurs de santé, puéricultrices cadres supérieurs de santé, infirmiers cadres supérieurs de santé, techniciens de laboratoires cadres supérieurs de santé, manipulateurs d'électroradiologie cadres supérieurs de santé, préparateurs en pharmacie hospitalière cadres supérieurs de santé, masseurs-kinésithérapeutes cadres supérieurs de santé, ergothérapeutes cadres supérieurs de santé, psychomotriciens cadres supérieurs de santé, diététiciens cadres supérieurs de santé, pédicures-podologues cadres supérieurs de santé, orthophonistes cadres supérieurs de santé, orthoptistes cadres supérieurs de santé, sages-femmes cadres supérieurs, cadres supérieurs socio-éducatifs, infirmiers de bloc opératoire cadres de santé, infirmiers anesthésistes cadres de santé, puéricultrices cadres de santé, infirmiers cadres de santé, techniciens de laboratoires cadres de santé, manipulateurs d'électroradiologie cadres de santé, préparateurs en pharmacie hospitalière cadres de santé, masseurs-kinésithérapeutes cadres de santé, ergothérapeutes cadres de santé, psychomotriciens cadres de santé, diététiciens cadres de santé, pédicures-podologues cadres de santé, orthophonistes cadres de santé, orthoptistes cadres de santé, sages-femmes cadres, cadres socio-éducatifs.
 
 Sous-groupe 2 : psychologues hors classe, psychologues de classe normale.
 
-Sous-groupe 3 : infirmiers de bloc opératoire cadres supérieurs de santé, infirmiers anesthésistes cadres supérieurs de santé, puéricultrices cadres supérieurs de santé, infirmiers cadres supérieurs de santé, techniciens de laboratoires cadres supérieurs de santé, manipulateurs d'électroradiologie cadres supérieurs de santé, préparateurs en pharmacie hospitalière cadres supérieurs de santé, masseurs-kinésithérapeutes cadres supérieurs de santé, ergothérapeutes cadres supérieurs de santé, psychomotriciens cadres supérieurs de santé, diététiciens cadres supérieurs de santé, pédicures-podologues cadres supérieurs de santé, orthophonistes cadres supérieurs de santé, orthoptistes cadres supérieurs de santé, sages-femmes cadres supérieurs, cadres supérieurs socio-éducatifs, infirmiers de bloc opératoire cadres de santé, infirmiers anesthésistes cadres de santé, puéricultrices cadres de santé, infirmiers cadres de santé, techniciens de laboratoires cadres de santé, manipulateurs d'électroradiologie cadres de santé, préparateurs en pharmacie hospitalière cadres de santé, masseurs-kinésithérapeutes cadres de santé, ergothérapeutes cadres de santé, psychomotriciens cadres de santé, diététiciens cadres de santé, pédicures-podologues cadres de santé, orthophonistes cadres de santé, orthoptistes cadres de santé, sages-femmes cadres, cadres socio-éducatifs.
-
-Sous-groupe 4 : sages-femmes de classe supérieure, infirmiers anesthésistes de classe supérieure, infirmiers de bloc opératoire de classe supérieure, puéricultrices de classe supérieure, sages-femmes de classe normale, infirmiers anesthésistes de classe normale, infirmiers de bloc opératoire de classe normale, puéricultrices de classe normale.
+Sous-groupe 3 : sages-femmes de classe supérieure, infirmiers anesthésistes de classe supérieure, infirmiers de bloc opératoire de classe supérieure, puéricultrices de classe supérieure, sages-femmes de classe normale, infirmiers anesthésistes de classe normale, infirmiers de bloc opératoire de classe normale, puéricultrices de classe normale, infirmiers en soins généraux et spécialisés de quatrième grade, infirmiers en soins généraux et spécialisés de troisième grade, infirmiers en soins généraux et spécialisés de deuxième grade, infirmiers en soins généraux et spécialisés de premier grade.
 
 CAP n° 3 : personnels d'encadrement administratif
 
@@ -38,11 +36,11 @@ Groupe unique
 
 Sous-groupe unique : infirmiers de classe supérieure, techniciens de laboratoires de classe supérieure, manipulateurs d'électroradiologie médicale de classe supérieure, préparateurs en pharmacie hospitalière de classe supérieure, masseurs-kinésithérapeutes de classe supérieure, ergothérapeutes de classe supérieure, psychomotriciens de classe supérieure, diététiciens de classe supérieure, pédicures-podologues de classe supérieure, orthophonistes de classe supérieure, orthoptistes de classe supérieure, conseillers en économie sociale et familiale principaux, assistants socio-éducatifs, éducateurs de jeunes enfants de classe supérieure, éducateurs techniques spécialisés de classe supérieure, infirmiers de classe normale, techniciens de laboratoires de classe normale, manipulateurs d'électroradiologie de classe normale, préparateurs en pharmacie hospitalière de classe normale, masseurs-kinésithérapeutes de classe normale, ergothérapeutes de classe normale, psychomotriciens de classe normale, diététiciens de classe normale, pédicures-podologues de classe normale, orthophonistes de classe normale, orthoptistes de classe normale, conseillers en économie sociale et familiale, éducateurs de jeunes enfants de classe normale, éducateurs techniques spécialisés de classe normale, animateurs, moniteurs-éducateurs, techniciens de laboratoire de classe fonctionnelle (cadre d'extinction).
 
-CAP n° 6 : personnels d'encadrement administratif et des secrétariats médicaux
+CAP n° 6 : personnels d'encadrement administratif et des assistants médico-administratifs (1)
 
 Groupe unique
 
-Sous-groupe unique : adjoints des cadres hospitaliers de classe exceptionnelle, secrétaires médicaux de classe exceptionnelle, adjoints des cadres hospitaliers de classe supérieure, secrétaires médicaux de classe supérieure, adjoints des cadres hospitaliers de classe normale, secrétaires médicaux de classe normale.
+Sous-groupe unique : adjoints des cadres hospitaliers de classe exceptionnelle, assistants médico-administratifs de classe exceptionnelle, adjoints des cadres hospitaliers de classe supérieure, assistants médico-administratifs de classe supérieure, adjoints des cadres hospitaliers de classe normale, assistants médico-administratifs de classe normale.
 
 CORPS DE CATÉGORIE C
 

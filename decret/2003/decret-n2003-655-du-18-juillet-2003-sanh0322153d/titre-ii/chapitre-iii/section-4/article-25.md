@@ -4,6 +4,6 @@ Les bulletins de vote et les enveloppes, établis d'après un modèle type défi
 
 Il est fait mention, le cas échéant, sur le bulletin de vote de l'appartenance de l'organisation syndicale à une union de syndicats à caractère national.
 
-Les documents électoraux sont adressés par l'établissement et à ses frais à chaque électeur dans des conditions prévues par l'arrêté mentionné au premier alinéa du présent article.
+Les documents électoraux sont adressés par l'établissement et à ses frais au domicile de chaque électeur dans des conditions prévues par l'arrêté mentionné au premier alinéa du présent article.
 
 Seul le matériel électoral fourni par l'administration peut être utilisé.

@@ -4,4 +4,4 @@ La liste des électeurs est affichée dans l'établissement et, s'il y a lieu, d
 
 A l'expiration d'un délai de seize jours suivant l'affichage, la liste électorale est close, sous réserve des dispositions de l'article 17.
 
-La liste électorale ainsi close est communiquée, sur leur demande, aux organisations syndicales régulièrement constituées.
+La liste électorale ainsi close est communiquée, sur leur demande, aux organisations syndicales remplissant, dans la fonction publique hospitalière, les conditions fixées à l'article 9 bis de la loi du 13 juillet 1983 susvisée.

@@ -1,7 +1,3 @@
 # Article 41
 
-Lorsque aucune liste n'a été déposée par les organisations syndicales représentatives ou lorsque le nombre de votants a été inférieur au taux de 40 % du nombre des électeurs inscrits, il est procédé à un second scrutin dans un délai qui ne peut être inférieur à six semaines et supérieur à huit semaines à compter soit de la date initialement prévue pour le scrutin lorsque aucune organisation syndicale représentative n'a présenté de liste, soit de la date du premier scrutin lorsque la participation à celui-ci a été inférieure au taux fixé ci-dessus.
-
-Pour ce second scrutin, toute organisation syndicale de fonctionnaires peut déposer une liste de candidats.
-
-Ce second scrutin est organisé dans les conditions déterminées par le présent chapitre.
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se fait sur la base indiquée et rendue publique par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la répartition des suffrages se fait à parts égales entre les organisations concernées.

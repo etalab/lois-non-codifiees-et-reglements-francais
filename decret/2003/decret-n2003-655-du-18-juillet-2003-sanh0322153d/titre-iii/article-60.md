@@ -6,4 +6,4 @@ Sous réserve de ces dispositions, lorsqu'un représentant du personnel titulair
 
 S'il ne reste qu'un seul membre titulaire, ou si la commission ne comporte qu'un siège de titulaire, ce dernier siège avec un suppléant qui a alors voix délibérative par dérogation à l'article 55. La même règle est applicable s'il s'agit d'une commission administrative paritaire départementale.
 
-En cas d'impossibilité de réunir une commission administrative paritaire locale régulièrement composée, il est fait appel à la commission administrative paritaire départementale. En cas d'impossibilité de réunir la commission départementale, il est fait appel à la commission départementale d'un autre département désignée par les directeurs des établissements qui en assurent la gestion.
+En cas d'impossibilité de réunir une commission administrative paritaire locale régulièrement composée, il est fait appel à la commission administrative paritaire départementale. En cas d'impossibilité de réunir la commission départementale, il est fait appel à la commission départementale d'un autre département désignée par le directeur général de l'agence régionale de santé.
