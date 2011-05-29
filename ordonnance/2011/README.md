@@ -10,6 +10,7 @@
 - [Ordonnance n° 2011-204 du 24 février 2011 (DEVX1032941R)](ordonnance-n-2011-204-du-24-fevrier-2011-devx1032941r)
 - [Ordonnance n° 2011-322 du 24 mars 2011 (EFIM1105039R)](ordonnance-n-2011-322-du-24-mars-2011-efim1105039r)
 - [Ordonnance n°2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n2010-686-du-24-juin-2010-iocx1013964r)
+- [Ordonnance n° 2011-592 du 27 mai 2011 (EFIT1107940R)](ordonnance-n-2011-592-du-27-mai-2011-efit1107940r)
 - [Ordonnance n°2011-337 du 29 mars 2011 (JUSB1105063R)](ordonnance-n2011-337-du-29-mars-2011-jusb1105063r)
 - [Ordonnance n° 2011-337 (JUSB1105063R)](ordonnance-n-2011-337-jusb1105063r)
 - [Ordonnance n°2011-91 (INDI1009820R)](ordonnance-n2011-91-indi1009820r)
