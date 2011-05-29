@@ -2,7 +2,7 @@
 
 Le bureau du Conseil national de la consommation est chargé :
 
-- de piloter les travaux du Conseil national de la consommation. A ce titre, il se prononce par un vote sur l'ensemble des avis qui lui sont soumis ;
+- de piloter les travaux du Conseil national de la consommation. A ce titre, il se prononce par un vote sur les avis qui émanent d'un groupe de travail constitué au sein de ce conseil ;
 
 - d'adopter les mandats pour la constitution de groupes de travail spécialisés ;
 

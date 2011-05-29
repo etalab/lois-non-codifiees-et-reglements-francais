@@ -948,7 +948,6 @@
 - [Arrêté du 12 novembre 2009 (JUSB0927124A)](arrete-du-12-novembre-2009-jusb0927124a)
 - [Arrêté du 12 novembre 2009 (JUSF0927345A)](arrete-du-12-novembre-2009-jusf0927345a)
 - [Arrêté du 12 novembre 2009 (MAEA0926071A)](arrete-du-12-novembre-2009-maea0926071a)
-- [Arrêté du 12 novembre 2009 (SASP0923544A)](arrete-du-12-novembre-2009-sasp0923544a)
 - [Arrêté du 12 novembre 2009 (SASP0927103A)](arrete-du-12-novembre-2009-sasp0927103a)
 - [Arrêté du 12 octobre 2009 (BCFP0923328A)](arrete-du-12-octobre-2009-bcfp0923328a)
 - [Arrêté du 12 octobre 2009 (BCFP0923330A)](arrete-du-12-octobre-2009-bcfp0923330a)
