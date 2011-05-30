@@ -1087,6 +1087,8 @@
 - [Arrêté du 27 janvier 2011 (ETSS1102842A)](arrete-du-27-janvier-2011-etss1102842a)
 - [Arrêté du 27 octobre 2010 (DEVE1028070A)](arrete-du-27-octobre-2010-deve1028070a)
 - [Arrêté du 27 octobre 2010 (DEVO1020450A)](arrete-du-27-octobre-2010-devo1020450a)
+- [Arrêté du 27 mai 2011 (PRMX1110564A)](arrete-du-27-mai-2011-prmx1110564a)
+- [Arrêté du 27 mai 2011 (PRMX1110598A)](arrete-du-27-mai-2011-prmx1110598a)
 - [Arrêté du 28 avril 2011 (AGRM1109521A)](arrete-du-28-avril-2011-agrm1109521a)
 - [Arrêté du 28 avril 2011 (DEFD1109301A)](arrete-du-28-avril-2011-defd1109301a)
 - [Arrêté du 28 avril 2011 (DEVA1111112A)](arrete-du-28-avril-2011-deva1111112a)
