@@ -2,7 +2,7 @@
 
 Le pourvoi devant le conseil d'Etat doit être introduit selon les règles fixées par le chapitre Ier du titre II du livre VIII du code de justice administrative.
 
-Il est présenté soit par l'intéressé, soit par un des ministres compétents.
+Le pourvoi en cassation formé au nom de l'Etat est présenté par le ministre de la défense ou le ministre chargé du budget.
 
 En cas d'annulation d'un arrêt d'une cour régionale, l'affaire est renvoyée devant la cour régionale d'un autre ressort.
 
