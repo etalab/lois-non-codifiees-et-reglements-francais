@@ -598,7 +598,6 @@
 - [Arrêté du 21 janvier 2003 (AGRG0300304A)](arrete-du-21-janvier-2003-agrg0300304a)
 - [Arrêté du 21 janvier 2003 (AGRG0300305A)](arrete-du-21-janvier-2003-agrg0300305a)
 - [Arrêté du 21 janvier 2004 (SANS0324369A)](arrete-du-21-janvier-2004-sans0324369a)
-- [Arrêté du 21 juillet 2003 (AGRE0301637A)](arrete-du-21-juillet-2003-agre0301637a)
 - [Arrêté du 21 juillet 2003 (BUDR0305003A)](arrete-du-21-juillet-2003-budr0305003a)
 - [Arrêté du 21 juillet 2003 (SPRK0370141A)](arrete-du-21-juillet-2003-sprk0370141a)
 - [Arrêté du 21 juin 2004 (PRMG0407432A)](arrete-du-21-juin-2004-prmg0407432a)
