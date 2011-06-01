@@ -870,6 +870,4 @@
 - [Décret n°97-694 du 31 mai 1997 (FPPA9700081D)](decret-n97-694-du-31-mai-1997-fppa9700081d)
 - [Décret n°97-695 du 31 mai 1997 (FPPA9700079D)](decret-n97-695-du-31-mai-1997-fppa9700079d)
 - [Décret n°97-696 du 31 mai 1997 (FPPA9710018D)](decret-n97-696-du-31-mai-1997-fppa9710018d)
-- [Décret n°97-700 du 31 mai 1997 (FPPA9710014D)](decret-n97-700-du-31-mai-1997-fppa9710014d)
-- [Décret n°97-701 du 31 mai 1997 (FPPA9710013D)](decret-n97-701-du-31-mai-1997-fppa9710013d)
 - [Décret n°97-702 du 31 mai 1997 (FPPA9710012D)](decret-n97-702-du-31-mai-1997-fppa9710012d)
