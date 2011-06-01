@@ -1,11 +1,5 @@
 # Article 3
 
-Sous réserve des reculs de limite d'âge pouvant résulter des textes applicables à l'ensemble des agents de l'Etat, la limite d'âge des professeurs de l'enseignement supérieur est fixée à soixante-cinq ans lorsqu'elle était, avant l'intervention de la présente loi, fixée à un âge supérieur.
+Les fonctionnaires occupant, lorsqu'ils atteignent la limite d'âge qui leur est applicable, un des emplois supérieurs mentionnés à l'article 25 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat peuvent être, à titre exceptionnel, dans l'intérêt du service et avec leur accord, maintenus dans cet emploi pour une durée maximale de deux ans, par une décision prise dans les mêmes formes que leur nomination. Cette décision fixe la durée du maintien dans les fonctions, auquel il peut être mis fin à tout moment.
 
-Toutefois, la limite d'âge des professeurs au Collège de France reste fixée à soixante-dix ans.
-
-Les professeurs de l'enseignement supérieur et les autres personnels enseignants qui relèvent du ministre chargé de l'enseignement supérieur restent en fonctions jusqu'au 31 août quand ils atteignent la limite d'âge en cours d'année universitaire, si les besoins du service d'enseignement le justifient.
-
-Pour l'année universitaire 1991-1992, la date du 31 août est remplacée par la date du 30 septembre.
-
-Les dispositions du présent article sont applicables aux directeurs de recherche des établissements publics à caractère scientifique et technologique relevant de la loi n° 82-610 du 15 juillet 1982 et aux personnels titulaires de l'enseignement supérieur assimilés aux professeurs d'université pour les élections au Conseil supérieur des universités.
+La radiation des cadres et la liquidation de la pension des fonctionnaires maintenus dans leur emploi en application du présent article sont différées à la date de cessation de leur prolongation d'activité.
