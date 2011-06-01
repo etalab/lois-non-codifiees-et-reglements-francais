@@ -1,17 +1,15 @@
 # Article 18
 
-Le jury de diplôme est composé de neuf membres.
+Le jury de diplôme est composé de neuf membres, nommés par arrêté annuel du ministre de la défense (chef d'état-major de l'armée de terre).
 
-Il est présidé conjointement par deux personnalités choisies par le ministre de la défense, d'une part, parmi les officiers généraux ayant rang de généraux d'armée et, d'autre part, parmi les professeurs des universités.
+Il est présidé par un officier général ayant rang de général d'armée, assisté d'un vice-président choisi parmi les professeurs d'université.
 
 Les sept autres membres du jury de diplôme sont :
 
-- le général commandant l'école ;
+- le général commandant l'école ou son représentant ;
 
 - deux universitaires ;
 
 - deux officiers supérieurs chargés de la formation à l'école ;
 
 - deux chargés d'enseignement à l'école, dont au moins un universitaire.
-
-Hormis le général commandant l'école, membre de droit, les membres du jury sont nommés par arrêté annuel du ministre de la défense (chef d'état-major de l'armée de terre).

@@ -8,7 +8,9 @@ Il est assisté :
 
 - d'un directeur général de l'enseignement et de la recherche ;
 
-- d'un conseil d'instruction et d'un conseil de discipline, dans les conditions prévues par le décret du 28 juin 1978 susvisé.
+- d'un conseil d'instruction et d'un conseil de discipline, dans les conditions prévues par le
+décret n° 2008-947 du 12 septembre 2008
+fixant certaines dispositions applicables aux élèves militaires des écoles militaires d'élèves officiers de carrière.
 
 Il dispose :
 
