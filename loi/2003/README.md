@@ -47,4 +47,3 @@
 - [Loi n° 76-655 du 16 juillet 1976](loi-n-76-655-du-16-juillet-1976)
 - [Loi n° 83-629 du 12 juillet 1983](loi-n-83-629-du-12-juillet-1983)
 - [Loi n° 86-826 du 11 juillet 1986](loi-n-86-826-du-11-juillet-1986)
-- [Loi n°2003-8 du 3 janvier 2003 (ECOX0200139L)](loi-n2003-8-du-3-janvier-2003-ecox0200139l)

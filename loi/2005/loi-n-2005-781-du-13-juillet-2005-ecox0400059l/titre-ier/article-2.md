@@ -1,15 +1,5 @@
 # Article 2
 
-Pour atteindre les objectifs définis à l'article 1er, l'Etat veille à :
-
-- maîtriser la demande d'énergie ;
-
-- diversifier les sources d'approvisionnement énergétique ;
-
-- développer la recherche dans le domaine de l'énergie ;
-
-- assurer des moyens de transport et de stockage de l'énergie adaptés aux besoins.
-
 En outre, l'Etat favorise la réduction de l'impact sanitaire et environnemental de la consommation énergétique et limite, à l'occasion de la production ou de la consommation de l'énergie, les pollutions sur les milieux liées à l'extraction et à l'utilisation des combustibles ainsi que les rejets liquides ou gazeux, en particulier les émissions de gaz à effet de serre, de poussières ou d'aérosols. A cette fin, l'Etat renforce progressivement la surveillance de la qualité de l'air en milieu urbain ainsi que, parallèlement à l'évolution des technologies, les normes s'appliquant aux rejets de polluants et aux conditions de transport des combustibles fossiles. Son action vise aussi à limiter :
 
 - le bruit, notamment dans les transports ;

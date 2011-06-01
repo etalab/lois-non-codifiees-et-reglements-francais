@@ -6,5 +6,4 @@
 - [Titre IV : L'accès aux réseaux publics d'électricité.](titre-iv)
 - [Titre V : La dissociation comptable et la transparence de la comptabilité.](titre-v)
 - [Titre VI : La régulation.](titre-vi)
-- [Titre VIII : Dispositions applicables à Mayotte.](titre-viii)
 - [Titre IX : Dispositions diverses ou transitoires.](titre-ix)
