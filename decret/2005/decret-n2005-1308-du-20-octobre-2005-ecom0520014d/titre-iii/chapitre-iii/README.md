@@ -5,3 +5,4 @@
 - [Section 3 : Concours.](section-3)
 - [Section 5 : Marché de conception-réalisation](section-5)
 - [Section 6 : Marché de maîtrise d'œuvre](section-6)
+- [Section 7 : Marchés et accords-cadres relatifs à l'achat de véhicules à moteur](section-7)
