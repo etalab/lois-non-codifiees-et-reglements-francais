@@ -185,7 +185,6 @@
 - [Arrêté du 8 septembre 1999 (DEFD9901844A)](arrete-du-8-septembre-1999-defd9901844a)
 - [Arrêté du 8 septembre 1999 (ECOC9900090A)](arrete-du-8-septembre-1999-ecoc9900090a)
 - [Arrêté du 8 septembre 1999 (ECOT9914037A)](arrete-du-8-septembre-1999-ecot9914037a)
-- [Arrêté du 8 septembre 1999 (EQUP9901260A)](arrete-du-8-septembre-1999-equp9901260a)
 - [Arrêté du 8 septembre 1999 (MENS9901789A)](arrete-du-8-septembre-1999-mens9901789a)
 - [Arrêté du 8 septembre 1999 (MESS9922821A)](arrete-du-8-septembre-1999-mess9922821a)
 - [Arrêté du 9 août 1999 (ECOT9951828A)](arrete-du-9-aout-1999-ecot9951828a)
