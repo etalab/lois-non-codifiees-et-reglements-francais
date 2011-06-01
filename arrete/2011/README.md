@@ -51,7 +51,6 @@
 - [Arrêté du 3 février 2011 (IOCC1104401A)](arrete-du-3-fevrier-2011-iocc1104401a)
 - [Arrêté du 3 février 2011 (IOCC1104474A)](arrete-du-3-fevrier-2011-iocc1104474a)
 - [Arrêté du 3 février 2011 (JUSC1103949A)](arrete-du-3-fevrier-2011-jusc1103949a)
-- [Arrêté du 3 janvier 2011 (AGRS1031072A)](arrete-du-3-janvier-2011-agrs1031072a)
 - [Arrêté du 3 janvier 2011 (AGRT1031994A)](arrete-du-3-janvier-2011-agrt1031994a)
 - [Arrêté du 3 janvier 2011 (BCRD1100027A)](arrete-du-3-janvier-2011-bcrd1100027a)
 - [Arrêté du 3 janvier 2011 (BCRD1100031A)](arrete-du-3-janvier-2011-bcrd1100031a)
