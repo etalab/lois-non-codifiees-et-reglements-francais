@@ -1,6 +1,8 @@
 # Article 64-1
 
-L'avocat désigné d'office qui intervient dans les conditions prévues à l'article 63-4 du code de procédure pénale a droit à une rétribution.
+L'avocat désigné d'office qui intervient au cours de la garde à vue dans les conditions prévues par le code de procédure pénale ou au cours de la retenue douanière dans les conditions prévues par le code des douanes a droit à une rétribution.
+
+Le premier alinéa est également applicable lorsque l'avocat intervient pour assister une victime lors d'une confrontation avec une personne gardée à vue.
 
 L'Etat affecte annuellement à chaque barreau une dotation représentant sa part contributive aux missions ainsi assurées par les avocats.
 
