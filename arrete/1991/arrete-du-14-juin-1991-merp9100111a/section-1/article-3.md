@@ -1,6 +1,6 @@
 # Article 3
 
-Le nombre de licences pour chaque métier est fixé chaque année par le secrétaire d'Etat à la mer après avis de l'Institut français de la recherche pour l'exploitation de la mer, en fonction :
+Le nombre de licences pour chaque métier est fixé chaque année par le ministre chargé des pêches maritimes après avis de l'Institut français de la recherche pour l'exploitation de la mer, en fonction :
 
 - des capacités biologiques des secteurs exploités ;
 
@@ -8,9 +8,7 @@ Le nombre de licences pour chaque métier est fixé chaque année par le secrét
 
 - des antériorités de pêche.
 
-Le nombre de licences est fixé comme suit :
-
-- chalutage : dix licences ;
+Compte tenu des consultations effectuées, le nombre de licences est fixé comme suit :
 
 - petits métiers côtiers : deux cent soixante-cinq licences ;
 

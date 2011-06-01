@@ -1093,7 +1093,6 @@
 - [Arrêté du 12 septembre 2006 (AGRG0601345A)](arrete-du-12-septembre-2006-agrg0601345a)
 - [Arrêté du 12 mai 2004 (AGRA0400590A)](arrete-du-12-mai-2004-agra0400590a)
 - [Arrêté du 12 mai 2010 (AGRG1010271A)](arrete-du-12-mai-2010-agrg1010271a)
-- [Arrêté du 12 mai 2010 (AGRM1012775A)](arrete-du-12-mai-2010-agrm1012775a)
 - [Arrêté du 12 mai 2010 (AGRM1012776A)](arrete-du-12-mai-2010-agrm1012776a)
 - [Arrêté du 12 mai 2010 (AGRT1012951A)](arrete-du-12-mai-2010-agrt1012951a)
 - [Arrêté du 12 mai 2010 (DEFH1008895A)](arrete-du-12-mai-2010-defh1008895a)

@@ -319,6 +319,11 @@ Les dispositifs utilisés doivent être conformes aux modèles désignés ci-apr
 </td>
 </tr>
 <tr>
+<td/>
+<td>12. Bracelet Easy-flex fabriqué par la société Biwi, nouvelle version d'avril 2011, entièrement en plastique, double languette détachable et personnalisable, languettes des jours et mois, identification du département, millésime et numéro d'ordre.<br/>
+</td>
+</tr>
+<tr>
 <td>
 <p align="center">Oiseaux. </p>
 </td>
