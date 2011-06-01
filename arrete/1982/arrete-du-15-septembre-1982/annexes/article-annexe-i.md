@@ -1,31 +1,31 @@
 # Article Annexe I
 
-Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées,
+Semences de céréales ne devant être commercialisées que dans les catégories de prébase, semences de base et semences certifiées, telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
 
-telles qu'elles sont définies par les règlements techniques cités à l'article 2 :
+- avoine (Avena sativa L.) ;
 
-- avoine (Aven Sativa L.)
+- avoine nue (Avena nuda L.) ;
 
-- blé dur (Triticum Durum, Desf.) ;
+- avoine maigre ou rude (Avena strigosa Schreb.) ;
 
-- blé tendre (froment) (Triticum aestivum L., emend, Fiori et Pasl) ;
+- blé dur (Triticum durum Desf.) ;
 
-- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. partim ) ;
+- blé tendre (froment) (Triticum aestivum L.) ;
 
-- orge (Hordeum Vulgare L.) ;
+- maïs, à l'exception du pop-corn et maïs sucré (Zea maïs L. "partim") ;
 
-- riz (Oryza Saliva L.) ;
+- orge (Hordeum vulgare L.) ;
 
-- Sarrasin (Fagopyrum Esculentum)
+- riz (Oryza sativa L.) ;
 
-- seigle (Secale Cereale L.) ;
+- sarrasin (Fagopyrum esculentum Moench) ;
 
-- sorgho (Sorghum Bicolor "L." , Moench) ;
+- seigle (Secale cereale L.) ;
 
-- sorgho du Soudan (Sorghum Sundanese "piper", Stapf) ;
+- sorgho (Sorghum bicolor "L." Moench) ;
 
-- hybride résultant du croisement entre le sorgho et le sorgho du Soudan (Sorghum Bicolor "L.". Moench X (Sorghum Sundanese
+- sorgho du Soudan (Sorghum sudanense "Piper" Stapf) ;
 
-"piper", Stapf)
+- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor "L." Moench X Sorghum sudanense "Piper" Stapf) ;
 
-- triticale (X Triticosecale, Wittm).
+- triticale (Triticosecale Wittm. ex A. Camus).
