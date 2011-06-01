@@ -1,0 +1,7 @@
+# Article 12
+
+I. - Si la législation de l'un des territoires subordonne l'ouverture, le maintien ou le recouvrement du droit aux prestations, en vertu d'un régime qui n'est pas un régime spécial au sens du II du présent article, à l'accomplissement de périodes d'assurance ou assimilées, l'institution compétente de ce territoire tient compte, dans la mesure nécessaire, des périodes d'assurance ou assimilées accomplies sous la législation de l'autre territoire, que ce soit dans le cadre d'un régime général ou spécial, comme s'il s'agissait de périodes accomplies sous la législation ou la réglementation qu'elle applique.
+
+II. - Si la législation de l'un des territoires subordonne l'octroi de certaines prestations à la condition que les périodes d'assurance aient été accomplies dans un régime spécial ou dans une profession ou un emploi déterminé, les périodes accomplies sur l'autre territoire ne sont prises en compte, pour l'octroi des prestations du régime spécial, que si elles ont été accomplies sous un régime correspondant ou, à défaut, dans la même profession ou dans le même emploi.
+
+III. - Si, compte tenu de la totalisation prévue au II ou des périodes accomplies auprès des régimes qui y sont mentionnés, l'intéressé ne satisfait pas aux conditions d'ouverture des droits prévues par ce régime spécial, les périodes d'assurance accomplies auprès de ce régime spécial sont prises en compte en vue de la totalisation pour l'ouverture et le calcul des droits selon les dispositions du régime général.

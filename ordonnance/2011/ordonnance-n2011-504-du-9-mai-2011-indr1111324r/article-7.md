@@ -1,0 +1,3 @@
+# Article 7
+
+La procédure de première certification, prévue à l'article L. 111-3 du code de l'énergie, doit être achevée au plus tard le 3 mars 2012, conformément aux paragraphes 2 des articles 3 des règlements (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour les échanges transfrontaliers d'électricité et (CE) n° 715/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les conditions d'accès aux réseaux de transport de gaz naturel. La Commission de régulation de l'énergie ouvre la procédure dès la publication de la présente ordonnance.

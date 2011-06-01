@@ -1,0 +1,3 @@
+# Article 6
+
+La consommation de carburant ainsi que les émissions de CO2 et de polluants par kilomètre, sont fondées sur les procédures d'essai communautaires normalisées, en ce qui concerne les véhicules pour lesquels de telles procédures d'essai sont définies dans la législation communautaire en matière de réception par type. Pour les véhicules qui ne sont pas couverts par une procédure d'essai communautaire normalisée, la comparabilité des différentes offres est assurée au moyen de procédures d'essai largement reconnues ou de résultats d'essais réalisés pour l'autorité publique, ou d'informations fournies par le constructeur.
