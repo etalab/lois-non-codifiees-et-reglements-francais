@@ -1153,7 +1153,6 @@
 - [Arrêté du 15 décembre 2009 (BCFF0930113A)](arrete-du-15-decembre-2009-bcff0930113a)
 - [Arrêté du 15 décembre 2009 (DEVK0820779A)](arrete-du-15-decembre-2009-devk0820779a)
 - [Arrêté du 15 décembre 2009 (DEVP0924349A)](arrete-du-15-decembre-2009-devp0924349a)
-- [Arrêté du 15 décembre 2009 (DEVT0928887A)](arrete-du-15-decembre-2009-devt0928887a)
 - [Arrêté du 15 décembre 2009 (DEVU0927951A)](arrete-du-15-decembre-2009-devu0927951a)
 - [Arrêté du 15 décembre 2009 (ECED0930258A)](arrete-du-15-decembre-2009-eced0930258a)
 - [Arrêté du 15 décembre 2009 (IMIK0924703A)](arrete-du-15-decembre-2009-imik0924703a)

@@ -372,7 +372,6 @@
 - [Arrêté du 6 août 2010 (BCRE1021333A)](arrete-du-6-aout-2010-bcre1021333a)
 - [Arrêté du 6 août 2010 (BCRE1021859A)](arrete-du-6-aout-2010-bcre1021859a)
 - [Arrêté du 6 août 2010 (DEVT1017732A)](arrete-du-6-aout-2010-devt1017732a)
-- [Arrêté du 6 août 2010 (DEVT1017932A)](arrete-du-6-aout-2010-devt1017932a)
 - [Arrêté du 6 août 2010 (ECEZ1021297A)](arrete-du-6-aout-2010-ecez1021297a)
 - [Arrêté du 6 août 2010 (IOCB1016949A)](arrete-du-6-aout-2010-iocb1016949a)
 - [Arrêté du 6 avril 2009 (AGRE0906401A)](arrete-du-6-avril-2009-agre0906401a)
