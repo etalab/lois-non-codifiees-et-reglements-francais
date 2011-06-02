@@ -44,7 +44,7 @@ PLAFONDS DE LA PARTIE DE REDEVANCE MENSUELLE CORRESPONDANT AU DROIT DE L'ACCÉDA
 </tr>
 <tr>
 <td colspan="2">
-<p>(*) La zone A bis est constituée des communes de la zone A limitées à Paris et aux communes limitrophes.</p>
+<p>(*) </p>
 </td>
 </tr>
 </tbody>
