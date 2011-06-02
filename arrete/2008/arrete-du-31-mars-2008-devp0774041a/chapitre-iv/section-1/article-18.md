@@ -1,15 +1,9 @@
 # Article 18
 
-Tout organisme souhaitant être agréé doit en faire la demande auprès du ministre chargé de l'environnement.
+La déclaration des organismes souhaitant procéder à la vérification des déclarations d'émissions de gaz à effet de serre est effectuée dans les conditions suivantes :
 
-I. ― Pour les organismes accrédités par le COFRAC, la demande d'agrément sera constituée d'une copie de l'attestation d'accréditation et son annexe technique.
+I. - Pour les organismes accrédités par le COFRAC, la déclaration est accompagnée d'une copie de l'attestation d'accréditation et son annexe technique.
 
-II. ― Pour les organismes accrédités par un autre membre de l'EA, la demande d'agrément comportera, en plus de la copie de l'attestation d'accréditation et de son annexe technique, des éléments permettant de démontrer que l'ensemble des personnels impliqués dans le processus de vérification des émissions :
+II. - Pour les organismes accrédités par un autre membre de l'EA, la déclaration comporte, en plus de la copie de l'attestation d'accréditation et de son annexe technique, un engagement à prendre connaissance de l'ensemble de la réglementation française applicable au système d'échange de quotas d'émission de gaz à effet de serre dans l'Union européenne.
 
-― d'une part, maîtrise la langue française ;
-
-― d'autre part, a une connaissance détaillée des spécificités de la réglementation française applicable au système d'échange de quotas d'émission de gaz à effet de serre dans l'Union européenne.
-
-En complément de ces exigences spécifiques, l'organisme ainsi agréé fera l'objet, au moins une fois au cours de la période 2008-2012, d'une mission de supervision de ses travaux de vérification, effectuée par le COFRAC et réalisée en coordination avec l'organisme d'accréditation membre de l'EA.
-
-Tout organisme qui ferait de fausses déclarations dans son dossier de demande est passible d'un retrait d'agrément.
+III. - Tout organisme qui ferait de fausses déclarations est passible d'un retrait de la liste citée à l'article 19.
