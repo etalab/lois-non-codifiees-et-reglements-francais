@@ -609,7 +609,6 @@
 - [Arrêté du 29 janvier 1993 (SPSI9300305A)](arrete-du-29-janvier-1993-spsi9300305a)
 - [Arrêté du 29 juillet 2005 (DEFM0501074A)](arrete-du-29-juillet-2005-defm0501074a)
 - [Arrêté du 29 juillet 2005 (DEVP0540333A)](arrete-du-29-juillet-2005-devp0540333a)
-- [Arrêté du 29 juillet 2005 (JUSB0510475A)](arrete-du-29-juillet-2005-jusb0510475a)
 - [Arrêté du 29 juin 2005 (DEFP0500720A)](arrete-du-29-juin-2005-defp0500720a)
 - [Arrêté du 29 juin 2005 (MAEF0510058A)](arrete-du-29-juin-2005-maef0510058a)
 - [Arrêté du 29 mars 2005 (MAEF0510027A)](arrete-du-29-mars-2005-maef0510027a)
