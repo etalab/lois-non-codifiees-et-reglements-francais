@@ -10,4 +10,4 @@ c) Les charges réciproques des établissements consécutives aux absences éven
 
 d) La participation des établissements contractants aux frais de déplacement exposés par le praticien pour accomplir ses obligations de service.
 
-Ces frais de déplacement sont remboursés au praticien conformément aux dispositions de l'article 33 du décret du 24 février 1984 susvisé.
+Ces frais de déplacement sont remboursés au praticien conformément aux dispositions des articles R. 6152-32, R. 6152-220-1 (6°), R. 6152-514 (6°) et R. 6152-612 (6°) du code de la santé publique.

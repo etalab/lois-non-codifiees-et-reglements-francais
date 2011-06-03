@@ -6,6 +6,6 @@ Le nombre total de points obtenus permet de déterminer le taux de l'indemnité 
 
 Cependant, selon le choix fait par l'équipe, le taux peut être modulé par praticien selon des modalités déterminées par le contrat.
 
-La proposition de taux est validée par le directeur de l'agence régionale de l'hospitalisation après avis de la commission paritaire régionale qui dispose de l'évaluation prévue à l'article 3 ci-dessus et peut proposer une péréquation.
+La proposition de taux est validée par le directeur général de l'agence régionale de santé après avis de la commission paritaire régionale qui dispose de l'évaluation prévue à l'article 3 ci-dessus et peut proposer une péréquation.
 
 Les contestations portant sur l'engagement contractuel et le niveau de l'indemnité sont examinées par la commission régionale paritaire.

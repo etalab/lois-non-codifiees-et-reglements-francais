@@ -8,4 +8,4 @@ a) Si la convention intervient postérieurement à la nomination ou au recruteme
 
 b) Si la convention est antérieure à la nomination ou au recrutement du praticien, l'établissement de rattachement est celui dans lequel il exercera le temps d'activité le plus important ;
 
-c) En cas de partage égal du temps d'activité, l'établissement de rattachement sera celui présentant, au moment de la nomination ou du recrutement, le budget d'exploitation le plus élevé.
+c) En cas de partage égal du temps d'activité, l'établissement de rattachement sera celui présentant, au moment de la nomination ou du recrutement, le total des comptes de produits du compte de résultat principal le plus élevé.

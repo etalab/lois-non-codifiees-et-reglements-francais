@@ -10,7 +10,7 @@ Cette indemnité est accordée :
 
 -aux personnels particuliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires assujettis au décret du 22 septembre 1965 susvisé, exerçant leurs fonctions à temps plein dans les conditions définies aux articles 6 à 11,
 
-qui s'engagent, par contrat passé avec le directeur de l'établissement public de santé dans lequel ils sont nommés, à n'exercer aucune activité libérale pendant une durée de trois ans. Ce contrat doit être transmis au préfet de département et peut être renouvelé dans les mêmes conditions.
+qui s'engagent, par contrat passé avec le directeur de l'établissement public de santé dans lequel ils sont nommés, à n'exercer aucune activité libérale mentionnée à l'article L. 6154-1 du code de la santé publique pendant une durée de trois ans. Ce contrat doit être transmis au directeur général de l'agence régionale de santé et peut être renouvelé dans les mêmes conditions.
 
 L'indemnité est versée mensuellement par le directeur de l'établissement public de santé dans lequel ces personnels sont nommés.
 
