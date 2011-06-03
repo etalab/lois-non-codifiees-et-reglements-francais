@@ -2,3 +2,4 @@
 
 - [Section I : Dispositions générales.](section-i)
 - [Section II : Indemnité versée aux personnels enseignants et hospitaliers visés à l'article 1er du présent arrêté.](section-ii)
+- [Article 7](article-7.md)
