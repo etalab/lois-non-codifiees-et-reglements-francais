@@ -10,7 +10,7 @@ b) Des armes des paragraphes 1, 2, 4 à 7, 9 du I et du paragraphe 1 du II de la
 
 2° Les personnes âgées de vingt et un ans au moins et les tireurs sélectionnés de moins de vingt et un ans participant à des concours internationaux, membres desdites associations, titulaires du carnet de tir conforme aux dispositions de l'article 32 du présent décret, licenciés d'une fédération ayant reçu délégation selon la réglementation localement applicable et titulaires d'un avis favorable de cette fédération, dans la limite de douze armes, dont au maximum sept des armes visées aux paragraphes 1 à 3 de la 1re catégorie ou des armes de la 4e catégorie à percussion centrale, les autres devant être des armes de 4e catégorie à percussion annulaire d'un calibre égal ou inférieur à 6 mm. Ces armes ne peuvent être utilisées que dans un stand de tir déclaré selon la réglementation localement applicable.
 
-Les personnes âgées de douze ans au moins peuvent être autorisées à acquérir des armes de poing de la 4e catégorie, à percussion annulaire à un coup, sous réserve d'être titulaires de la licence prévue au b du 3° de l'article 51 et, pour les mineurs de dix-huit ans, d'une autorisation de la personne exerçant l'autorité parentale.
+Les personnes âgées de douze ans au moins peuvent être autorisées à détenir des armes de poing de la 4e catégorie, à percussion annulaire à un coup, sous réserve d'être titulaires de la licence prévue au b du 3° de l'article 51 et, pour les mineurs de dix-huit ans, d'une autorisation de la personne exerçant l'autorité parentale.
 
 Les autorisations d'acquisition et de détention délivrées au titre du présent 2° sont subordonnées à un nombre minimum de séances contrôlées de pratique du tir fixé par arrêté.
 

@@ -5,3 +5,4 @@
 - [Chapitre III : Obligations des titulaires d'autorisation.](chapitre-iii)
 - [Chapitre IV : Obligations des commerçants en armes des 5e et 7e catégories.](chapitre-iv)
 - [Chapitre V : Inscriptions au registre en cas de vente par correspondance.](chapitre-v)
+- [Chapitre VI : Marquage](chapitre-vi)

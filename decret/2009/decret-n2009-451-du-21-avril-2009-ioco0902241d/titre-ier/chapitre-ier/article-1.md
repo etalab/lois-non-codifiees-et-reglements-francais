@@ -36,10 +36,12 @@ La longueur de référence du canon d'une arme d'épaule se mesure de l'extrémi
 
 ― douille chargée : une douille qui comporte une charge de poudre sans comporter d'amorce ;
 
-― élément d'arme : partie d'une arme essentielle à son fonctionnement ;
+― élément d'arme : tout élément ou élément de remplacement spécifiquement conçu pour une arme à feu et essentiel pour son fonctionnement ainsi que tout dispositif conçu pour atténuer le bruit causé par une arme à feu ;
 
 ― élément de munition : partie d'une munition telle que projectile, amorce, douille, douille amorcée, douille chargée, douille amorcée et chargée ;
 
-― armurier : un armurier s'entend de toute personne physique ou morale dont l'activité professionnelle consiste en tout ou partie dans la fabrication, le commerce, l'échange, la location, la réparation ou la transformation d'armes à feu ;
+― armurier : un armurier s'entend de toute personne physique ou morale dont l'activité professionnelle consiste en tout ou partie dans la fabrication, le commerce, l'échange, la location, la réparation ou la transformation d'armes à feu, d'éléments d'armes et de munition ;
 
-― activité d'intermédiation : toute opération à caractère commercial ou à but lucratif dont l'objet est soit de rapprocher des personnes souhaitant conclure un contrat d'achat ou de vente de matériels de guerre ou de matériels assimilés, soit de conclure un tel contrat pour le compte d'une des parties. Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou bien celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission.
+― activité d'intermédiation : toute opération à caractère commercial ou à but lucratif dont l'objet est soit de rapprocher des personnes souhaitant conclure un contrat d'achat ou de vente de matériels de guerre ou de matériels assimilés, soit de conclure un tel contrat pour le compte d'une des parties. Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou bien celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission ;
+
+- traçabilité : possibilité de suivre par l'identification de leurs détenteurs successifs, depuis leur fabrication jusqu'à leur destruction ou leur neutralisation, une arme à feu et ses éléments numérotés.

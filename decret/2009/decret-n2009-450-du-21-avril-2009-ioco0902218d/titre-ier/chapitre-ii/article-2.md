@@ -10,7 +10,7 @@ Paragraphe 1 : armes de poing semi-automatiques ou à répétition, tirant une m
 
 Paragraphe 2 : fusils, mousquetons et carabines de tous calibres, à répétition ou semi-automatiques, conçus pour l'usage militaire.
 
-Paragraphe 3 : éléments d'arme (mécanismes de fermeture, chambres, canons, carcasses, barillets) des armes des paragraphes 1 et 2 à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'arme des armes classées en 5e ou 7e catégorie.
+Paragraphe 3 : éléments d'arme (mécanismes de fermeture, chambres, canons, carcasses, barillets, dispositifs conçus pour atténuer le bruit du tir) des armes des paragraphes 1 et 2 à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'arme des armes classées en 5e ou 7e catégorie.
 
 Dispositifs additionnels ou de substitution qui modifient ou transforment l'arme pour la classer dans cette catégorie, notamment en permettant le tir par rafales.
 
@@ -20,11 +20,11 @@ Chargeurs des armes des paragraphes 1 et 2 de la 1re catégorie. Le régime appl
 
 Paragraphe 4 : pistolets automatiques, pistolets-mitrailleurs et fusils automatiques de tous calibres.
 
-Eléments d'arme (mécanismes de fermeture, chambres, canons, carcasses), chargeurs des armes ci-dessus.
+Eléments d'arme (mécanismes de fermeture, chambres, canons, carcasses, dispositifs conçus pour atténuer le bruit du tir), chargeurs des armes ci-dessus.
 
 Paragraphe 5 : autres armes automatiques de tous calibres.
 
-Eléments d'arme (mécanismes de fermeture, chambres, canons, carcasses), chargeurs des armes ci-dessus.
+Eléments d'arme (mécanismes de fermeture, chambres, canons, carcasses, dispositifs conçus pour atténuer le bruit du tir), chargeurs des armes ci-dessus.
 
 Paragraphe 6 : lunettes de tir de nuit ou par conditions de visibilité réduite utilisant l'intensification de lumière, l'infrarouge ou toute autre technique, à l'exclusion des lunettes utilisant uniquement des lentilles optiques, destinées à l'équipement de toutes armes de toutes catégories.
 
@@ -116,7 +116,7 @@ Paragraphe 9 : armes semi-automatiques ou à répétition ayant l'apparence d'un
 
 Paragraphe 10 : armes à feu camouflées sous la forme d'un autre objet.
 
-Paragraphe 11 : éléments d'arme (mécanismes de fermeture, canons, chambres, barillets) des armes de la présente catégorie, à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'armes classées en 5e ou 7e catégorie.
+Paragraphe 11 : éléments d'arme (mécanismes de fermeture, canons, chambres, barillets, dispositifs conçus pour atténuer le bruit du tir) des armes de la présente catégorie, à l'exclusion de ceux d'entre eux qui sont aussi des éléments d'armes classées en 5e ou 7e catégorie.
 
 Paragraphe 12 : munitions à projectiles métalliques à l'usage des armes de la présente catégorie, à l'exception des munitions classées par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes dans la 5e ou la 7e catégorie.
 
@@ -128,7 +128,11 @@ Paragraphe 2 : armes à feu d'épaule et armes de poing fabriquées pour tirer u
 
 Paragraphe 3 : armes de signalisation dont les caractéristiques sont fixées par l'arrêté prévu au paragraphe 1 ci-dessus.
 
-III. - Paragraphe 1 : chargeurs des armes de 4e catégorie. Le régime applicable à ces chargeurs est fixé par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports.
+III. - Paragraphe 1 : Armes à impulsions électriques permettant de provoquer un choc électrique à distance par la projection de dards ou par tout autre procédé.
+
+Paragraphe 2 : Armes à impulsions électriques de contact permettant de provoquer un choc électrique à bout touchant, classées dans cette catégorie par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
+
+IV. - Paragraphe 1 : chargeurs des armes de 4e catégorie. Le régime applicable à ces chargeurs est fixé par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports.
 
 5e catégorie : armes de chasse et leurs munitions :
 
@@ -144,7 +148,7 @@ Paragraphe 4 : fusils et carabines à canon rayé et à percussion centrale, aut
 
 Paragraphe 5 : fusils combinant un canon rayé et un canon lisse (mixte), deux canons lisses et un canon rayé ou deux canons rayés et un canon lisse (drilling), deux canons rayés (express), quatre canons dont un rayé (vierling) tirant un coup par canon, dont la longueur totale est supérieure à 80 centimètres ou dont la longueur des canons est supérieure à 45 centimètres, à l'exception des fusils pouvant tirer des munitions utilisables dans les armes classées matériel de guerre.
 
-Paragraphe 6 : éléments d'arme (mécanismes de fermeture, chambres, canons) des armes ci-dessus.
+Paragraphe 6 : éléments d'arme (mécanismes de fermeture, chambres, canons, dispositifs conçus pour atténuer le bruit du tir) des armes ci-dessus.
 
 II. - Munitions, éléments de munition (douilles amorcées, douilles chargées, douilles amorcées et chargées) pour les armes de la présente catégorie et amorces pour toutes munitions d'armes d'épaule ou de poing. Leur acquisition et leur détention ne sont pas soumises à déclaration.
 
@@ -160,7 +164,7 @@ I. - Armes dont l'acquisition et la détention sont soumises à déclaration.
 
 Paragraphe 1 : armes à feu de tous calibres à percussion annulaire, autres que celles classées dans la 4e catégorie ci-dessus.
 
-Eléments d'arme (mécanismes de fermeture, chambres, canons) des armes ci-dessus.
+Eléments d'arme (mécanismes de fermeture, chambres, canons, dispositifs conçus pour atténuer le bruit du tir) des armes ci-dessus.
 
 Paragraphe 2 : armes dont le projectile est propulsé par des gaz ou de l'air comprimé développant une énergie à la bouche supérieure à dix joules autres que celles classées en 4e catégorie.
 
