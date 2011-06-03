@@ -751,7 +751,6 @@
 - [Décret n°95-947 du 25 août 1995 (ECOT9551454D)](decret-n95-947-du-25-aout-1995-ecot9551454d)
 - [Décret n°95-948 du 25 août 1995 (ECOF9510014D)](decret-n95-948-du-25-aout-1995-ecof9510014d)
 - [Décret n°95-950 du 25 août 1995 (EQUB9501119D)](decret-n95-950-du-25-aout-1995-equb9501119d)
-- [Décret n°95-953 du 25 août 1995 (REFB9500251D)](decret-n95-953-du-25-aout-1995-refb9500251d)
 - [Décret n°95-954 du 25 août 1995 (REFB9500252D)](decret-n95-954-du-25-aout-1995-refb9500252d)
 - [Décret n°95-955 du 25 août 1995 (REFB9500253D)](decret-n95-955-du-25-aout-1995-refb9500253d)
 - [Décret n°95-956 du 25 août 1995 (AGRE9500755D)](decret-n95-956-du-25-aout-1995-agre9500755d)

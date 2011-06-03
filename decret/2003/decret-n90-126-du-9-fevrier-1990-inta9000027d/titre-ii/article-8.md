@@ -2,7 +2,7 @@
 
 I.-Peuvent être inscrits sur la liste d'aptitude prévue au 2° du a de l'article 6 ci-dessus :
 
-1° Après examen professionnel, les membres du cadre d'emplois des techniciens territoriaux justifiant à cette date de huit ans de services effectifs dans un cadre d'emplois technique de catégorie B ;
+1° Après examen professionnel, les membres du cadre d'emplois des techniciens territoriaux justifiant   de huit ans de services effectifs dans un cadre d'emplois technique de catégorie B ;
 
 2° Après examen professionnel, les fonctionnaires relevant du cadre d'emplois des techniciens territoriaux qui, seuls de leur grade, dirigent depuis au moins deux ans la totalité des services techniques des communes ou des établissements publics de coopération intercommunale de moins de 20 000 habitants dans lesquelles il n'existe pas d'ingénieur ou d'ingénieur principal.
 
