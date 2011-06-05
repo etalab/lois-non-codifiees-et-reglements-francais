@@ -27,3 +27,5 @@
 13. Le commandant du centre technique de la gendarmerie nationale pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
 
 14. Le commandant du groupe d'intervention de la gendarmerie nationale pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
+
+15. Le commandant du pôle judiciaire de la gendarmerie nationale pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
