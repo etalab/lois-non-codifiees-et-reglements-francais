@@ -34,20 +34,22 @@ A cet effet, elle assure le recensement des besoins, la définition, la rédacti
 
 7° D'approvisionner l'administration centrale et les cabinets.
 
-8° D'assurer pour l'administration centrale les services généraux suivants : courrier, location de salles, suivi du parc automobile, reprographie. Elle est également en charge de la logistique, de la documentation et de la gestion des déplacements de la direction de l'administration générale et de la modernisation des services.
+8° D'assurer la gestion du centre de documentation interdirections et de définir la politique nationale documentaire du ministère chargé du travail et de l'emploi, en lien avec la direction générale du travail et la direction de l'animation de la recherche, des études et des statistiques, dans le cadre d'un comité de pilotage.
 
-9° De gérer le patrimoine locatif et domanial occupé par les services centraux et les cabinets ministériels.
+9° D'assurer pour l'administration centrale les services généraux suivants : courrier, location de salles, suivi du parc automobile, reprographie. Elle est également en charge de la logistique et de la gestion des déplacements de la direction de l'administration générale et de la modernisation des services.
+
+10° De gérer le patrimoine locatif et domanial occupé par les services centraux et les cabinets ministériels.
 
 A cet effet, elle veille à l'entretien et à la maintenance des sites immobiliers. Elle programme et suit les travaux sur ces sites, sous le pilotage de France domaine pour la partie domaniale.
 
-10° D'allouer aux directions et cabinets la partie du budget de fonctionnement gérée par la division et en assurer l'exécution.
+11° D'allouer aux directions et cabinets la partie du budget de fonctionnement gérée par la division et en assurer l'exécution.
 
 A cet effet, elle établit la synthèse des besoins, propose la répartition des moyens, construit le plan d'emploi des crédits correspondants et en assure le suivi.
 
 Elle contribue à l'élaboration d'outils d'aide et de contrôle de l'utilisation des moyens.
 
-11° De définir la politique ministérielle du voyage, la piloter et assurer sa mise en œuvre dans le cadre des déplacements de l'administration centrale et des cabinets.
+12° De définir la politique ministérielle du voyage, la piloter et assurer sa mise en œuvre dans le cadre des déplacements de l'administration centrale et des cabinets.
 
-12° De contrôler et liquider les dépenses de fonctionnement payées par la régie d'avances.
+13° De contrôler et liquider les dépenses de fonctionnement payées par la régie d'avances.
 
-13° De veiller à la mise en œuvre des règles d'hygiène et de sécurité dans le patrimoine immobilier occupé par l'administration centrale et les cabinets.
+14° De veiller à la mise en œuvre des règles d'hygiène et de sécurité dans le patrimoine immobilier occupé par l'administration centrale et les cabinets.

@@ -6,6 +6,6 @@ La direction de l'administration générale et de la modernisation des services 
 
 ― la sous-direction des systèmes d'information ;
 
-― la division des affaires financières ;
+― la   sous-direction des affaires financières ;
 
 ― la division de la logistique et du patrimoine.

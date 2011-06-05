@@ -1,6 +1,6 @@
 # Article 5
 
-La division des affaires financières est chargée :
+La   sous-direction des affaires financières est chargée :
 
 1° De traiter l'ensemble des questions relatives à la préparation et à l'exécution du budget du ministère chargé du travail.
 

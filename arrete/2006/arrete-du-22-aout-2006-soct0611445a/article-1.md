@@ -6,6 +6,6 @@ La direction générale du travail comprend :
 
 - le service de l'animation territoriale de la politique du travail et de l'action de l'inspection du travail ;
 
-- la sous-direction des conseils de prud'hommes et du support.
+- le département des affaires générales et des prud'hommes.
 
-Un chef de service assure la responsabilité du service des relations et des conditions de travail. La sous-direction des conseils de prud'hommes et du support lui est également rattachée.
+Un chef de service assure la responsabilité du service des relations et des conditions de travail ainsi que celle du département des affaires générales et des prud'hommes.
