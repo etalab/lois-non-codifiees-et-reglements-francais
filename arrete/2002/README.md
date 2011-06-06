@@ -730,7 +730,6 @@
 - [Arrêté du 30 juillet 2002 (MENE0201715A)](arrete-du-30-juillet-2002-mene0201715a)
 - [Arrêté du 30 juillet 2002 (MENE0201760A)](arrete-du-30-juillet-2002-mene0201760a)
 - [Arrêté du 30 mars 2001 (AGRG0100727A)](arrete-du-30-mars-2001-agrg0100727a)
-- [Arrêté du 30 octobre 2002 (SPRK0270225A)](arrete-du-30-octobre-2002-sprk0270225a)
 - [Arrêté du 30 septembre 2002 (AGRA0201587A)](arrete-du-30-septembre-2002-agra0201587a)
 - [Arrêté du 30 septembre 2002 (AGRG0202168A)](arrete-du-30-septembre-2002-agrg0202168a)
 - [Arrêté du 30 septembre 2002 (AGRP0202057A)](arrete-du-30-septembre-2002-agrp0202057a)
