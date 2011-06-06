@@ -50,4 +50,4 @@ Ecole nationale de voile et des sports nautiques ;
 
 Ecole nationale de ski et d'alpinisme ;
 
-Centres d'éducation populaire et de sport.
+Centres de ressources, d'expertise et de performance sportives.

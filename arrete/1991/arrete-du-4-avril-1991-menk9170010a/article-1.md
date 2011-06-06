@@ -28,4 +28,4 @@ Directeur de l'Ecole nationale de voile.
 
 c) Centres d'éducation populaire et de sport
 
-Directeur de centre d'éducation populaire et de sport (C.R.E.P.S.).
+Directeur de       centre de ressources, d'expertise et de performance sportives  (C. R. E. P. S.).

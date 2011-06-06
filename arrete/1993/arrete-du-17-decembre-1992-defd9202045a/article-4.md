@@ -10,7 +10,7 @@ Les commissions de circonscription des sports militaires comprennent :
 
 - un représentant des services déconcentrés du ministère chargé de la jeunesse et des sports ;
 
-- un représentant du ou des centres d'éducation populaire et de sport situés sur le territoire de la circonscription militaire de défense ;
+- un représentant du ou des centres de ressources, d'expertise et de performance sportives situés sur le territoire de la circonscription militaire de défense ;
 
 - un officier de la marine nationale, un officier de l'armée de l'air et un officier de la gendarmerie nationale, désignés respectivement par les commandants d'arrondissement maritime, de région aérienne et de circonscription de gendarmerie concernés ;
 

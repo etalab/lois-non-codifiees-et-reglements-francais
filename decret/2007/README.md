@@ -102,7 +102,6 @@
 - [Décret n°2007-508 du 3 avril 2007 (AGRF0700661D)](decret-n2007-508-du-3-avril-2007-agrf0700661d)
 - [Décret n°2007-509 du 3 avril 2007 (AGRP0700007D)](decret-n2007-509-du-3-avril-2007-agrp0700007d)
 - [Décret n°2007-511 du 3 avril 2007 (DEVO0640054D)](decret-n2007-511-du-3-avril-2007-devo0640054d)
-- [Décret n°2007-512 du 3 avril 2007 (MJSK0770070D)](decret-n2007-512-du-3-avril-2007-mjsk0770070d)
 - [Décret n°94-955 du 3 novembre 1994 (AGRA9401650D)](decret-n94-955-du-3-novembre-1994-agra9401650d)
 - [Décret n°96-282 du 3 avril 1996 (ECOT9640303D)](decret-n96-282-du-3-avril-1996-ecot9640303d)
 - [Décret n°2007-664 du 3 mai 2007 (DEFX0700034D)](decret-n2007-664-du-3-mai-2007-defx0700034d)

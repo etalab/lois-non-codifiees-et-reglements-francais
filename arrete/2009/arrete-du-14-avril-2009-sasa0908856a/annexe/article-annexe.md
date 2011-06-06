@@ -4,18 +4,18 @@
 
 Institut national de la jeunesse et de l'éducation populaire.
 
-Centre d'éducation populaire et de sport du Limousin.
+Centre de ressources, d'expertise et de performance sportives du Limousin.
 
-Centre d'éducation populaire et de sport d'Ajaccio.
+Centre de ressources, d'expertise et de performance sportives d'Ajaccio.
 
-Centre d'éducation populaire et de sport de Picardie.
+Centre de ressources, d'expertise et de performance sportives de Picardie.
 
-Centre d'éducation populaire et de sport d'Houlgate.
+Centre de ressources, d'expertise et de performance sportives d'Houlgate.
 
-Centre d'éducation populaire et de sport de Mâcon.
+Centre de ressources, d'expertise et de performance sportives de Mâcon.
 
-Centre d'éducation populaire et de sport de Franche-Comté.
+Centre de ressources, d'expertise et de performance sportives de Franche-Comté.
 
-Centre d'éducation populaire et de sport de Dinard.
+Centre de ressources, d'expertise et de performance sportives de Dinard.
 
-Centre d'éducation populaire et de sport de Rhône-Alpes, site de Voiron.
+Centre de ressources, d'expertise et de performance sportives de Rhône-Alpes, site de Voiron.

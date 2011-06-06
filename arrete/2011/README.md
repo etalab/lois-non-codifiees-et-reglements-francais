@@ -1319,6 +1319,7 @@
 - [Arrêté du 30 mars 2011 (JUST1108798A)](arrete-du-30-mars-2011-just1108798a)
 - [Arrêté du 30 mars 2011 (MAEA1108643A)](arrete-du-30-mars-2011-maea1108643a)
 - [Arrêté du 30 novembre 2010 (EFIT1027551A)](arrete-du-30-novembre-2010-efit1027551a)
+- [Arrêté du 30 octobre 2002 (SPRK0270225A)](arrete-du-30-octobre-2002-sprk0270225a)
 - [Arrêté du 30 mai 2011 (ETSO1114890A)](arrete-du-30-mai-2011-etso1114890a)
 - [Arrêté du 30 mai 2011 (ETSO1114908A)](arrete-du-30-mai-2011-etso1114908a)
 - [Arrêté du 30 mai 2011 (ETSP1110270A)](arrete-du-30-mai-2011-etsp1110270a)

@@ -1,6 +1,6 @@
 # Article 1
 
-Les emplois de directeur et de directeur adjoint de l'Institut national de la jeunesse et de l'éducation populaire, de l'Ecole nationale de ski et d'alpinisme, de l'Institut français du cheval et de l'équitation, de l'Ecole nationale de voile et des centres d'éducation populaire et de sport sont pourvus par arrêté du ministre chargé de la jeunesse et des sports.
+Les emplois de directeur et de directeur adjoint de l'Institut national de la jeunesse et de l'éducation populaire, de l'Ecole nationale de ski et d'alpinisme, de l'Institut français du cheval et de l'équitation, de l'Ecole nationale de voile et des centres de ressources, d'expertise et de performance sportives sont pourvus par arrêté du ministre chargé de la jeunesse et des sports.
 
 Les fonctionnaires sont nommés dans l'un des emplois susmentionnés pour une durée maximale de trois ans, éventuellement renouvelable pour trois ans au plus dans le même emploi.
 

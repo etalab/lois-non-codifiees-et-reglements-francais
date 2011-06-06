@@ -12,7 +12,7 @@ Le jury dont les membres sont nommés par arrêté de la garde des sceaux, minis
 
 ― un directeur régional de la jeunesse et des sports ou son représentant ;
 
-― un directeur d'un centre d'éducation populaire et de sport ou son représentant ;
+― un directeur d'un       centre de ressources, d'expertise et de performance sportives  ou son représentant ;
 
 ― un membre du personnel des services déconcentrés de l'administration pénitentiaire.
 

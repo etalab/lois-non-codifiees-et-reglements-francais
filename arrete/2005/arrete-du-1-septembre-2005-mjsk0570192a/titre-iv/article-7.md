@@ -6,4 +6,4 @@ L'équipe des formateurs du stage de préformation est composée de cadres titul
 
 Le stage de préformation a une durée de soixante-dix heures.
 
-Le stage de préformation peut être délégué par le centre d'éducation populaire et de sport de Franche-Comté, Centre national de ski nordique après convention avec un autre établissement du ministère chargé des sports, après avis de la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+Le stage de préformation peut être délégué par le       centre de ressources, d'expertise et de performance sportives  de Franche-Comté, Centre national de ski nordique après convention avec un autre établissement du ministère chargé des sports, après avis de la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.

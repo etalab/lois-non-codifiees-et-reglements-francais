@@ -1,14 +1,14 @@
 # Article 2
 
-Précédée d'un test technique d'accès, la formation au brevet d'Etat d'éducateur sportif du premier degré, option ski nordique de fond, est assurée par le centre d'éducation populaire et de sport de Franche-Comté, Centre national de ski nordique (CNSN), qui peut passer convention avec un établissement public ou un autre organisme de formation lorsqu'il n'est pas en mesure d'assurer la totalité de la formation, après avis de la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne pour les séquences de formations prévues aux articles 7, 19-1, 19-3 et 19-4 du présent arrêté.
+Précédée d'un test technique d'accès, la formation au brevet d'Etat d'éducateur sportif du premier degré, option ski nordique de fond, est assurée par le       centre de ressources, d'expertise et de performance sportives  de Franche-Comté, Centre national de ski nordique (CNSN), qui peut passer convention avec un établissement public ou un autre organisme de formation lorsqu'il n'est pas en mesure d'assurer la totalité de la formation, après avis de la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne pour les séquences de formations prévues aux articles 7,19-1,19-3 et 19-4 du présent arrêté.
 
 La formation comprend :
 
-- le stage et examen de préformation ;
+-le stage et examen de préformation ;
 
-- le stage pédagogique de sensibilisation d'une durée minimum de vingt jours ;
+-le stage pédagogique de sensibilisation d'une durée minimum de vingt jours ;
 
-- le test de capacité technique.
+-le test de capacité technique.
 
 Le premier cycle, constitué d'une unité de formation :
 
@@ -36,16 +36,16 @@ Pour se présenter au troisième cycle, les candidats doivent avoir satisfait à
 
 Le cursus de formation doit être suivi selon la chronologie suivante :
 
-- le stage et examen de préformation ;
+-le stage et examen de préformation ;
 
-- le stage pédagogique de sensibilisation ;
+-le stage pédagogique de sensibilisation ;
 
-- le test de capacité technique ;
+-le test de capacité technique ;
 
-- le premier cycle ;
+-le premier cycle ;
 
-- le stage pédagogique d'application ;
+-le stage pédagogique d'application ;
 
-- le deuxième cycle ;
+-le deuxième cycle ;
 
-- le troisième cycle.
+-le troisième cycle.
