@@ -666,7 +666,6 @@
 - [Arrêté du 24 septembre 2004 (AGRB0402170A)](arrete-du-24-septembre-2004-agrb0402170a)
 - [Arrêté du 24 septembre 2004 (MCCK0400396A)](arrete-du-24-septembre-2004-mcck0400396a)
 - [Arrêté du 24 septembre 2004 (MCCK0400402A)](arrete-du-24-septembre-2004-mcck0400402a)
-- [Arrêté du 24 septembre 2004 (SANH0423487A)](arrete-du-24-septembre-2004-sanh0423487a)
 - [Arrêté du 24 septembre 2004 (SANH0423490A)](arrete-du-24-septembre-2004-sanh0423490a)
 - [Arrêté du 24 septembre 2004 (SANH0423491A)](arrete-du-24-septembre-2004-sanh0423491a)
 - [Arrêté du 24 mai 2004 (MCCF0400487A)](arrete-du-24-mai-2004-mccf0400487a)
