@@ -4,6 +4,8 @@
 - [Décret n°2011-479 du 2 mai 2011 (AGRT1108831D)](decret-n2011-479-du-2-mai-2011-agrt1108831d)
 - [Décret n°2011-480 du 2 mai 2011 (PRMG1033449D)](decret-n2011-480-du-2-mai-2011-prmg1033449d)
 - [Décret n°2011-627 du 3 juin 2011 (IOCC1109096D)](decret-n2011-627-du-3-juin-2011-iocc1109096d)
+- [Décret n°2011-630 du 3 juin 2011 (SPOV1104643D)](decret-n2011-630-du-3-juin-2011-spov1104643d)
+- [Décret n°2011-631 du 3 juin 2011 (SPOV1104896D)](decret-n2011-631-du-3-juin-2011-spov1104896d)
 - [Décret n°2011-484 du 3 mai 2011 (DEVA0909921D)](decret-n2011-484-du-3-mai-2011-deva0909921d)
 - [Décret n°2011-486 du 3 mai 2011 (DEFH1102578D)](decret-n2011-486-du-3-mai-2011-defh1102578d)
 - [Décret n°2011-366 du 4 avril 2011 (MAEA1031598D)](decret-n2011-366-du-4-avril-2011-maea1031598d)
