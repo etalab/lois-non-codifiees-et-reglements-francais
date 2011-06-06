@@ -2,7 +2,7 @@
 
 I. - Sont soumis au visa de l'autorité chargée du contrôle financier les actes d'engagement suivants :
 
-- les marchés publics dont le montant, calculé sur la durée totale, est supérieur à 3 millions d'euros TTC, ainsi que les avenants correspondants ;
+- les marchés publics dont le montant, calculé sur la durée totale, est supérieur à 3 millions d'euros TTC ainsi que les avenants correspondants, à l'exception des marchés subséquents à un accord-cadre relatif à l'approvisionnement en carburéacteur sur un marché SPOT ;
 
 - les transactions et contentieux liés aux marchés publics dont le montant est supérieur à 80 000 euros et les transactions, hors marchés publics, dont le montant est supérieur à 30 000 euros ;
 
@@ -14,7 +14,9 @@ I. - Sont soumis au visa de l'autorité chargée du contrôle financier les acte
 
 - les conventions pluriannuelles de partenariat avec une association, dès lors que l'engagement prévisionnel de l'Etat sur la période dépasse un montant de 500 000 euros ;
 
-- les conventions et remboursements divers dont la dépense annuelle est supérieure à 1 million d'euros.
+- les conventions et rembourse
+
+ments divers dont la dépense annuelle est supérieure à 1 million d'euros.
 
 II. - Sont soumis au visa de l'autorité chargée du contrôle financier les actes d'affectation des autorisations d'engagement des opérations visées à l'article 8 de la loi organique relative aux lois de finances du 1er août 2001 dont le montant est supérieur à 15 millions d'euros.
 
@@ -22,7 +24,7 @@ Les retraits d'affectation et d'engagement dont l'acte initial a été visé par
 
 III. - Sont soumis à l'avis de l'autorité chargée du contrôle financier les actes d'engagement suivants :
 
-- les marchés publics dont le montant, calculé sur la durée totale, est compris entre 1 et 3 millions d'euros TTC, ainsi que les avenants correspondants ;
+- les marchés publics dont le montant, calculé sur la durée totale, est compris entre 1 et 3 millions d'euros TTC ainsi que les avenants correspondants, à l'exception des marchés subséquents à un accord-cadre relatif à l'approvisionnement en carburéacteur sur un marché SPOT ;
 
 - les transactions et contentieux liés aux marchés publics dont le montant est compris entre 50 000 et 80 000 et les transactions, hors marchés publics, dont le montant est compris entre 10 000 et 30 000 ;
 
