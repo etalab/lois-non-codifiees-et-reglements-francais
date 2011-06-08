@@ -2,7 +2,7 @@
 
 Le jury commun aux deux concours, nommé par arrêté du ministre chargé de la santé, est composé comme suit :
 
-- un directeur régional des affaires sanitaires et sociales ou son représentant, président ;
+- un directeur d'agence régionale de santé ou son représentant, président ou son représentant, président ;
 
 - un ingénieur du génie sanitaire ;
 
