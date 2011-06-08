@@ -696,6 +696,7 @@
 - [Arrêté du 18 avril 2011 (IOCB1110222A)](arrete-du-18-avril-2011-iocb1110222a)
 - [Arrêté du 18 avril 2011 (JUSB1109163A)](arrete-du-18-avril-2011-jusb1109163a)
 - [Arrêté du 18 avril 2011 (JUSB1110012A)](arrete-du-18-avril-2011-jusb1110012a)
+- [Arrêté du 18 février 1992 (MENN9200404A)](arrete-du-18-fevrier-1992-menn9200404a)
 - [Arrêté du 18 février 2011 (AGRG1005803A)](arrete-du-18-fevrier-2011-agrg1005803a)
 - [Arrêté du 18 février 2011 (DEVR1105644A)](arrete-du-18-fevrier-2011-devr1105644a)
 - [Arrêté du 18 février 2011 (DEVR1105665A)](arrete-du-18-fevrier-2011-devr1105665a)
