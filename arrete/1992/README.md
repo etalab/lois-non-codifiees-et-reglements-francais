@@ -597,7 +597,6 @@
 - [Arrêté du 18 décembre 1992 (PRMG9270184A)](arrete-du-18-decembre-1992-prmg9270184a)
 - [Arrêté du 18 février 1992 (DEFC9102311A)](arrete-du-18-fevrier-1992-defc9102311a)
 - [Arrêté du 18 février 1992 (EQUS9200266A)](arrete-du-18-fevrier-1992-equs9200266a)
-- [Arrêté du 18 février 1992 (MENN9200404A)](arrete-du-18-fevrier-1992-menn9200404a)
 - [Arrêté du 18 juillet 1992 (EQUA9201121A)](arrete-du-18-juillet-1992-equa9201121a)
 - [Arrêté du 18 juin 1992 (SPSS9201889A)](arrete-du-18-juin-1992-spss9201889a)
 - [Arrêté du 18 mars 1992 (ECOT9210145A)](arrete-du-18-mars-1992-ecot9210145a)
