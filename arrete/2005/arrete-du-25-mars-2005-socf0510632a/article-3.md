@@ -1,6 +1,6 @@
 # Article 3
 
-Le titre professionnel d'orthoprothésiste est composé de deux unités constitutives dont la liste suit :
+Le titre professionnel d'agent(e) technique prothésiste et orthésiste est composé de deux unités constitutives dont la liste suit :
 
 1. Fabriquer des orthèses ;
 
