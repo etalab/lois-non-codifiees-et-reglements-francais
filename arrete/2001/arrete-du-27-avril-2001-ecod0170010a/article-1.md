@@ -18,4 +18,6 @@ Afin de permettre le contrôle par le service des douanes des quantités d'huile
 
 3.2. Un thermomètre à dilatation de liquide ;
 
-3.3. Une éprouvette transparente.
+3.3. Une éprouvette transparente ;
+
+4. Pour la détermination des quantités de produit stockées en conditionné, une bascule certifiée au titre de la métrologie légale.
