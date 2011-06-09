@@ -102,7 +102,6 @@
 - [Arrêté du 5 juillet 2004 (EQUK0400988A)](arrete-du-5-juillet-2004-equk0400988a)
 - [Arrêté du 5 juillet 2004 (JUSA0400163A)](arrete-du-5-juillet-2004-jusa0400163a)
 - [Arrêté du 5 juillet 2004 (SANH0422315A)](arrete-du-5-juillet-2004-sanh0422315a)
-- [Arrêté du 5 mars 2004 (AGRG0400670A)](arrete-du-5-mars-2004-agrg0400670a)
 - [Arrêté du 5 mars 2004 (ECOT0410499A)](arrete-du-5-mars-2004-ecot0410499a)
 - [Arrêté du 5 novembre 2004 (JUSC0420822A)](arrete-du-5-novembre-2004-jusc0420822a)
 - [Arrêté du 5 novembre 2004 (MENS0402496A)](arrete-du-5-novembre-2004-mens0402496a)
