@@ -108,10 +108,6 @@ Au centre d'exploitation, de développement et d'études du réseau d'informatiq
 
 ― chef du département administratif (AD).
 
-Au service national d'ingénierie aéroportuaire (SNIA) :
-
-― conseiller en gestion de patrimoine immobilier.
-
 Au département du contrôle budgétaire central (DCB) :
 
 ― adjoint au chef du département.
@@ -169,8 +165,6 @@ b) A la direction personnels navigants (PN) :
 ― chef du pôle "licences" (PN/LIC) ;
 
 ― chef du pôle "examens" (PN/EXA).
-
-c) A la direction coopération européenne et réglementation de sécurité (ERS) :
 
 ― chef du pôle "personnels de l'aviation civile" (ERS/PAC).
 
