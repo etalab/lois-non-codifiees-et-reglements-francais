@@ -668,6 +668,8 @@ Paris-Tyumen.
 
 Paris-Volgograd.
 
+Paris-Krasnodar.
+
 Salvador (jusqu'au 31 décembre 2012)
 
 Paris-San Salvador.
