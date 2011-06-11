@@ -2,110 +2,222 @@
 
 Le service pénitentiaire d'insertion et de probation du Nord comporte une ou plusieurs entités fonctionnelles ou antennes dans les conditions précisées dans le tableau ci-dessous :
 
+<div align="left">
 <table>
-<thead>
-<tr>
-<td>
-<p align="center">DÉPARTEMENT </p>
-</td>
-<td>
-<p align="center">SITUATION<br/>ANTÉRIEURE </p>
-</td>
-<td colspan="3">
-<p align="center">SITUATION NOUVELLE </p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td>
-<p align="center">Siège <br/>de rattachement </p>
+<th>DÉPARTEMENT <br/>
+</th>
+<th>
+<br/>SITUATION ANTÉRIEURE <br/>
+</th>
+<th colspan="3">
+<br/>SITUATION NOUVELLE <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th/>
+<th>
+<br/>Siège <br/>
+<br/>de rattachement <br/>
+</th>
+<th>
+<br/>Entités fonctionnelles <br/>
+<br/>et résidences administratives (RA) <br/>
+</th>
+<th>
+<br/>Ressort <br/>
+<br/>de compétences <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Nord <br/>
 </td>
-<td>
-<p align="center">Entités fonctionnelles <br/>et résidences administratives (RA) </p>
+<td align="center">
+<br/>CPAL de Lille <br/>
+<br/>Service socio-éducatif de la maison d'arrêt de Loos <br/>
 </td>
-<td>
-<p align="center">Ressort <br/>de compétences </p>
+<td align="center">
+<br/>Lille <br/>
+</td>
+<td align="center">
+<br/>Antenne de Lille Loos-Sequedin <br/>
+</td>
+<td align="center">
+<br/>Circonscription judiciaire de Lille <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="7">
-<p align="center">Nord </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td>
-<p>CPAL de Lille <br/>Service socio-éducatif de la maison d'arrêt de Loos </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td rowspan="7">
-<p align="center">Lille </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td>
-<p>Antenne de Lille-Loos-Sequedin <br/>RA : Lille ou Loos-Sequedin </p>
+<td align="center">
+<br/>RA : Lille ou Loos ou Sequedin <br/>
 </td>
-<td>
-<p>Circonscription judiciaire de Lille <br/>CP Lille-Loos-Sequedin </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>CPAL d'Avesnes-sur-Helpe <br/>Service socio-éducatif du centre pénitentiaire de Maubeuge </p>
-</td>
-<td>
-<p>Antenne d'Avesnes-sur-Helpe-Maubeuge <br/>RA : Maubeuge </p>
-</td>
-<td>
-<p>Circonscription judiciaire d'Avesnes-sur-Helpe <br/>Centre pénitentiaire de Maubeuge </p>
+<td align="center">
+<br/>Centre pénitentiaire de Lille-Loos-Sequedin (quartier maison d'arrêt de Sequedin, quartier maison d'arrêt de Loos, quartier centre de détention de Loos et quartier de semi-liberté de Haubourdin) <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>CPAL de Cambrai </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td>
-<p>Antenne de Cambrai <br/>RA : Cambrai </p>
+<td align="center">
+<br/>CPAL d'Avesnes-sur-Helpe <br/>
+<br/>Service socio-éducatif du centre pénitentiaire de Maubeuge <br/>
 </td>
-<td>
-<p>Circonscription judiciaire de Cambrai </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-</tr>
-<tr>
-<td>
-<p>CPAL de Douai <br/>Service socio-éducatif de la maison d'arrêt de Douai </p>
+<td align="center">
+<br/>Antenne d'Avesnes-sur-Helpe-Maubeuge <br/>
+<br/>RA : Maubeuge <br/>
 </td>
-<td>
-<p>Antenne de Douai <br/>RA : Douai </p>
-</td>
-<td>
-<p>Circonscription judiciaire de Douai <br/>Maison d'arrêt de Douai </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>CPAL de Dunkerque <br/>Service socio-éducatif de Dunkerque </p>
-</td>
-<td>
-<p>Antenne de Dunkerque <br/>RA : Dunkerque </p>
-</td>
-<td>
-<p>Circonscriptions judiciaires de Dunkerque et d'Hazebrouck </p>
+<td align="center">
+<br/>Circonscription judiciaire d'Avesnes-sur-Helpe <br/>
+<br/>Centre pénitentiaire de Maubeuge <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>CPAL d'Hazebrouck </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td/>
-<td/>
+<td align="center">
+<br/>CPAL de Cambrai <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Antenne de Cambrai <br/>
+<br/>RA : Cambrai <br/>
+</td>
+<td align="center">
+<br/>Circonscription judiciaire de Cambrai <br/>
+</td>
 </tr>
 <tr>
-<td>
-<p>CPAL de Valenciennes <br/>Service socio-éducatif de Valenciennes </p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td>
-<p>Antenne de Valenciennes <br/>RA : Valenciennes </p>
+<td align="center">
+<br/>CPAL de Douai <br/>
+<br/>Service socio-éducatif de la maison d'arrêt de Douai <br/>
 </td>
-<td>
-<p>Circonscription judiciaire de Valenciennes <br/>Maison d'arrêt de Valenciennes</p>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Antenne de Douai <br/>
+<br/>RA : Douai <br/>
+</td>
+<td align="center">
+<br/>Circonscription judiciaire de Douai <br/>
+<br/>Maison d'arrêt de Douai <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>CPAL de Dunkerque <br/>
+<br/>Service socio-éducatif de Dunkerque <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Antenne de Dunkerque <br/>
+<br/>RA : Dunkerque <br/>
+</td>
+<td align="center">
+<br/>Circonscriptions judiciaires de Dunkerque et de Hazebrouck <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>CPAL d'Hazebrouck <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Antenne de Lille-Annoeullin <br/>
+<br/>RA : Annœullin <br/>
+</td>
+<td align="center">
+<br/>Centre pénitentiaire de Lille-Annœullin <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>CPAL de Valenciennes <br/>
+<br/>Service socio-éducatif de Valenciennes <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Antenne de Valenciennes <br/>
+<br/>RA : Valenciennes <br/>
+</td>
+<td align="center">
+<br/>Circonscription judiciaire de Valenciennes <br/>
+<br/>Maison d'arrêt de Valenciennes<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
