@@ -4,7 +4,7 @@ En application de l'article 2 du décret du 28 octobre 2008 susvisé, les foncti
 
 - chef d'un bureau dont la liste figure en annexe du présent arrêté.
 
-- chef de division ;
+- chef de division, à l'exception de ceux mentionnés à l'article 4 ci-dessous ;
 
 - responsable qualité et pilotage par objectifs.
 
@@ -38,10 +38,6 @@ Au service technique de l'aviation civile (STAC) :
 
 Au centre d'exploitation, de développement et d'études du réseau d'informatique de gestion (CEDRe) :
 
-- chef de la division exploitation des systèmes ;
-
-- chef de la division application finances ;
-
 - adjoint au chef du département exploitation.
 
 Dans les services outre-mer de l'aviation civile :
@@ -64,9 +60,7 @@ A la direction des services de la navigation aérienne (DSNA) :
 
 3. A la direction de la technique et de l'innovation (DSNA/DTI) :
 
-- chef de la division finances/comptabilité ;
-
-- chef de la division marchés/contrats ;
+- chef du pôle support informatique (DTI/SG/SIB).
 
 A la direction de la sécurité de l'aviation civile (DSAC) :
 

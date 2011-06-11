@@ -20,6 +20,10 @@ En administration centrale :
 
 - chargé de corps à la sous-direction des personnels (MGPEEC).
 
+Au service national d'ingénierie aéroportuaire (SNIA) :
+
+- secrétaire général.
+
 A la direction des services de la navigation aérienne (DSNA) :
 
 1. A la direction des opérations (DSNA/DO) :
