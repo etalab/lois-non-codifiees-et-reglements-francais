@@ -1,0 +1,11 @@
+# Article 58
+
+I. ― Jusqu'à la date du premier renouvellement général, mentionné au III de l'article 57, des représentants du personnel aux comités techniques de la fonction publique territoriale suivant l'entrée en vigueur du présent décret et par dérogation à l'article 49 du même décret :
+
+1° Les fonctionnaires territoriaux et les agents non titulaires de droit public employés dans un office public de l'habitat peuvent bénéficier, lorsque leur nombre au sein de cet établissement est inférieur à cinquante, des autorisations spéciales d'absence prévues à l'article 14 du décret du 3 avril 1985 susvisé. Toutefois, ils ne sont pas pris en compte dans l'effectif des agents servant au calcul du contingent global par le centre de gestion correspondant ;
+
+2° Les fonctionnaires territoriaux et les agents non titulaires de droit public occupant un emploi au budget des offices publics de l'habitat sont pris en compte par les centres de gestion dans l'effectif des agents servant au calcul de l'étendue des décharges d'activité de service dans les conditions fixées par les articles 17 et 18 du décret du 3 avril 1985 susvisé.
+
+II. ― Pour l'application des dispositions de l'article 20 du présent décret, les mises à disposition ou les décharges d'activité de membres du personnel des offices publics de l'habitat en vue de l'exercice d'activités syndicales et pour lesquelles ces offices apportent une contribution financière continuent de s'appliquer dans les conditions du régime spécial des offices publics tel qu'il est défini par la convention relative à l'exercice du droit syndical signée entre la Fédération nationale des offices publics de l'habitat et les organisations syndicales représentatives, jusqu'à la date de publication de l'arrêté du ministre chargé du travail portant extension d'un accord collectif ayant le même objet que la convention mentionnée à cet article, conclu au niveau national entre les représentants de la Fédération nationale des offices publics de l'habitat et les représentants des organisations syndicales représentatives.
+
+La négociation en vue de la conclusion d'un tel accord est engagée dans le délai de six mois à compter du jour de la publication du présent décret.

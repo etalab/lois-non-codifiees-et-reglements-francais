@@ -1,0 +1,3 @@
+# Article 49
+
+Les fonctionnaires territoriaux et les agents non titulaires de droit public employés par les offices publics de l'habitat bénéficient, outre des décharges dont ils bénéficient en application des articles 17 à 20 du présent décret, des décharges d'activité de service prévues pour les agents des collectivités territoriales et des établissements publics affiliés aux centres de gestion de la fonction publique territoriale dans les conditions fixées par les articles 17 et 18 du décret du 3 avril 1985 susvisé. Toutefois, ils ne sont pas pris en compte dans l'effectif des agents servant au calcul de l'étendue de ces décharges d'activité de service.
