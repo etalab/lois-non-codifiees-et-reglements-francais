@@ -64,7 +64,6 @@
 - [Décret n°2005-473 du 16 mai 2005 (EQUA0500675D)](decret-n2005-473-du-16-mai-2005-equa0500675d)
 - [Décret n°2005-475 du 16 mai 2005 (DEVO0530027D)](decret-n2005-475-du-16-mai-2005-devo0530027d)
 - [Décret n°2005-143 du 17 février 2005 (JUSK0440127D)](decret-n2005-143-du-17-fevrier-2005-jusk0440127d)
-- [Décret n°2005-1426 du 18 novembre 2005 (INTT0500312D)](decret-n2005-1426-du-18-novembre-2005-intt0500312d)
 - [Décret n°2005-1429 du 18 novembre 2005 (ECOP0500907D)](decret-n2005-1429-du-18-novembre-2005-ecop0500907d)
 - [Décret n°2005-383 du 18 avril 2005 (DEFD0500466D)](decret-n2005-383-du-18-avril-2005-defd0500466d)
 - [Décret n°96-1009 du 18 novembre 1996 (ENVP9640051D)](decret-n96-1009-du-18-novembre-1996-envp9640051d)
