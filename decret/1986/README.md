@@ -166,7 +166,6 @@
 - [Décret n°86-514 du 14 mars 1986](decret-n86-514-du-14-mars-1986)
 - [Décret n°86-516 du 14 mars 1986](decret-n86-516-du-14-mars-1986)
 - [Décret n°86-517 du 14 mars 1986](decret-n86-517-du-14-mars-1986)
-- [Décret n°86-518 du 14 mars 1986](decret-n86-518-du-14-mars-1986)
 - [Décret n°86-520 du 14 mars 1986](decret-n86-520-du-14-mars-1986)
 - [Décret n°86-522 du 14 mars 1986](decret-n86-522-du-14-mars-1986)
 - [Décret n°86-534 du 14 mars 1986](decret-n86-534-du-14-mars-1986)

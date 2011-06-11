@@ -369,7 +369,6 @@
 - [Décret n°93-407 du 17 mars 1993 (SANH9300302D)](decret-n93-407-du-17-mars-1993-sanh9300302d)
 - [Décret n°93-425 du 17 mars 1993 (SPSS9300416D)](decret-n93-425-du-17-mars-1993-spss9300416d)
 - [Décret n°93-427 du 17 mars 1993 (DOMP9300008D)](decret-n93-427-du-17-mars-1993-domp9300008d)
-- [Décret n°93-852 du 17 juin 1993 (LOGC9300024D)](decret-n93-852-du-17-juin-1993-logc9300024d)
 - [Décret n°94-234 du 17 mars 1994 (EQUA9400211D)](decret-n94-234-du-17-mars-1994-equa9400211d)
 - [Décret n°96-339 du 17 avril 1996 (MCCB9600046D)](decret-n96-339-du-17-avril-1996-mccb9600046d)
 - [Décret n°96-341 du 17 avril 1996 (MCCB9600047D)](decret-n96-341-du-17-avril-1996-mccb9600047d)
