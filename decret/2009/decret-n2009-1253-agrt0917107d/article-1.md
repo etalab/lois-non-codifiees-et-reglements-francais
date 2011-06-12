@@ -10,6 +10,8 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― "Orléans-Cléry" ;
 
+― "Touraine Noble Joué" ;
+
 ― "Valençay" ;
 
 ― "Orléans" ;
