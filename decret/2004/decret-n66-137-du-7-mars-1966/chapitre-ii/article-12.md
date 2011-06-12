@@ -2,7 +2,7 @@
 
 I. - Le bureau de l'assemblée est composé d'un président, de vice-présidents élus dans l'ordre de préséance, d'un secrétaire, de secrétaires adjoints, d'un trésorier et d'un trésorier adjoint. Il ne peut comporter plus de treize membres.
 
-Il est élu par l'assemblée générale dans les deux mois qui suivent chaque renouvellement quinquennal effectué en application du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres régionales de métiers et de l'artisanat et des chambres de métiers et de l'artisanat et à l'élection de leurs membres.
+Il est élu par l'assemblée générale dans les deux mois qui suivent chaque renouvellement quinquennal effectué en application du décret n° 99-433 du 27 mai 1999 relatif à la composition des chambres de métiers et de l'artisanat de région et  de leurs sections, des chambres régionales de métiers et de l'artisanat  et des chambres de métiers et de l'artisanat départementales et à  l'élection de leurs membres.
 
 Les membres sortants sont rééligibles.
 
