@@ -121,6 +121,7 @@
 - [Décret n°2011-408 du 15 avril 2011 (ETSS1100819D)](decret-n2011-408-du-15-avril-2011-etss1100819d)
 - [Décret n°2011-415 du 15 avril 2011 (EFII1105351D)](decret-n2011-415-du-15-avril-2011-efii1105351d)
 - [Décret n°2007-923 du 15 mai 2007 (MENF0754257D)](decret-n2007-923-du-15-mai-2007-menf0754257d)
+- [Décret n°2009-1253 du 16 octobre 2009 (AGRT0917107D)](decret-n2009-1253-du-16-octobre-2009-agrt0917107d)
 - [Décret n°2011-274 du 16 mars 2011 (EFIE1032827D)](decret-n2011-274-du-16-mars-2011-efie1032827d)
 - [Décret n°2011-275 du 16 mars 2011 (EFIT1103770D)](decret-n2011-275-du-16-mars-2011-efit1103770d)
 - [Décret n°2011-276 du 16 mars 2011 (EFIE1101169D)](decret-n2011-276-du-16-mars-2011-efie1101169d)
