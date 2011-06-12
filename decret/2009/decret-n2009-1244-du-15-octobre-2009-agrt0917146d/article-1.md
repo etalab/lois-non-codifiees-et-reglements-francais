@@ -2,18 +2,20 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― Bourgueil ;
+― « Bourgueil » ;
 
-― Saint-Nicolas-de-Bourgueil ;
+― « Saint-Nicolas-de-Bourgueil » ;
 
-― Chinon ;
+― « Chinon » ;
 
-― Coteaux du Loir ;
+― « Coteaux du Loir » ;
 
-― Cheverny ;
+― « Vouvray » ;
 
-― Côtes de Toul ;
+― « Cheverny » ;
 
-― Grand Roussillon ;
+― « Côtes de Toul » ;
 
-― Muscat de Rivesaltes .
+― « Grand Roussillon » ;
+
+― « Muscat de Rivesaltes ».
