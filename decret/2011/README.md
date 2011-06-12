@@ -257,6 +257,7 @@
 - [Décret n°2011-464 du 27 avril 2011 (DEFD1101386D)](decret-n2011-464-du-27-avril-2011-defd1101386d)
 - [Décret n°2011-465 du 27 avril 2011 (DEVL1105922D)](decret-n2011-465-du-27-avril-2011-devl1105922d)
 - [Décret n°2011-467 du 27 avril 2011 (ETSS1101818D)](decret-n2011-467-du-27-avril-2011-etss1101818d)
+- [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
 - [Décret n°2011-594 du 27 mai 2011 (ETSS1112715D)](decret-n2011-594-du-27-mai-2011-etss1112715d)
 - [Décret n°2011-598 du 27 mai 2011 (MCCB1111925D)](decret-n2011-598-du-27-mai-2011-mccb1111925d)
 - [Décret n°2011-601 du 27 mai 2011 (ETSS1017505D)](decret-n2011-601-du-27-mai-2011-etss1017505d)
