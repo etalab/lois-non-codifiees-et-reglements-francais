@@ -136,7 +136,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
+<p>Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -589,7 +589,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g par hectolitre de bière.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm </p>
+<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm.</p>
 <br/>
 </td>
 </tr>
@@ -834,6 +834,21 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p>Dose techniquement inévitable. <br/>
 </p>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Ether diméthylique.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Solvants d'extraction.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Préparation de produits à base de protéines animales dégraissées.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">0,009 mg/kg dans le produit à base de protéines dégraissées.</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1116,7 +1131,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
+<p>A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1332,7 +1347,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
