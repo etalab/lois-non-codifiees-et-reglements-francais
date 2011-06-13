@@ -1,8 +1,0 @@
-# Arrêté du 28 juillet 2010 relatif à la désignation des délégués de zone de défense et de sécurité et à l'organisation territoriale de la défense et de la sécurité dans le domaine de la jeunesse, des sports et de la cohésion sociale
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Annexe](annexe)
