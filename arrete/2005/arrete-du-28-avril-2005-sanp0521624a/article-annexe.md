@@ -24,7 +24,7 @@ La pharmacovigilance a désormais une dimension européenne. Le système europé
 
 La présente annexe résulte d'une collaboration entre l'AFSSAPS, les CRPV, les représentants de l'industrie pharmaceutique et les professionnels de santé.
 
-Les bonnes pratiques de pharmacovigilance définissent la manière dont les professionnels de santé, les autorités sanitaires et le responsable de la mise sur le marché d'un médicament doivent remplir leurs obligations. Elles doivent être prises en compte dans le cas de la mise en place d'un système d'assurance de qualité, le cas échéant en liaison avec les dispositions pertinentes des lignes directrices publiées par la Commission des Communautés européennes dans le volume 9 « Pharmacovigilance des médicaments à usage humain et vétérinaire » de la réglementation des médicaments dans la Communauté européenne.
+Les bonnes pratiques de pharmacovigilance définissent la manière dont les professionnels de santé, les autorités sanitaires et le responsable de la mise sur le marché d'un médicament doivent remplir leurs obligations. Elles doivent être prises en compte dans le cas de la mise en place d'un système d'assurance de qualité, le cas échéant en liaison avec les dispositions pertinentes des lignes directrices publiées par la Commission des Communautés européennes dans le volume 9 Pharmacovigilance des médicaments à usage humain et vétérinaire de la réglementation des médicaments dans la Communauté européenne.
 
 Champ d'application de la pharmacovigilance
 
@@ -70,7 +70,7 @@ La pharmacovigilance s'exerce sur les médicaments et produits à finalité sani
 
 (Art. L. 1211-1, L. 1261-2, L. 5111-1, alinéa 2, L. 5111-2, L. 5121-1 à L. 5121-3 et L. 5136-1 du code de la santé publique.)
 
-L'ensemble de ces produits est ci-après désigné par « médicament » ou « médicament ou produit ».
+L'ensemble de ces produits est ci-après désigné par médicament ou médicament ou produit .
 
 Chapitre 1er
 
@@ -132,11 +132,11 @@ Procédure centralisée
 
 La demande d'AMM est adressée à l'Agence européenne des médicaments par une personne établie dans la Communauté européenne. Après évaluation effectuée par le comité des médicaments à usage humain, la Commission européenne octroie au demandeur une AMM unique (mêmes résumé des caractéristiques du produit, notice, étiquetage), valable dans tous les Etats membres de la Communauté européenne où le produit peut dès lors être commercialisé.
 
-L'AMM ainsi délivrée est contraignante dans tous les Etats membres et confère les mêmes droits et obligations que les AMM délivrées par les autorités sanitaires nationales de ceux-ci. Cette procédure est obligatoire pour les médicaments de haute technologie, issus de trois procédés biotechnologiques (cités dans la partie A de l'annexe du règlement [CEE] n° 2309/93 du 22 juillet 1993) et facultative pour les médicaments qualifiés d'« innovants » (cités à la partie B).
+L'AMM ainsi délivrée est contraignante dans tous les Etats membres et confère les mêmes droits et obligations que les AMM délivrées par les autorités sanitaires nationales de ceux-ci. Cette procédure est obligatoire pour les médicaments de haute technologie, issus de trois procédés biotechnologiques (cités dans la partie A de l'annexe du règlement [CEE] n° 2309/93 du 22 juillet 1993) et facultative pour les médicaments qualifiés d' innovants (cités à la partie B).
 
 Procédure de reconnaissance mutuelle
 
-Il s'agit d'une procédure basée sur la reconnaissance, par les autorités nationales des Etats membres de la Communauté européenne désignés par le demandeur, d'une première AMM délivrée par un Etat membre dit « Etat de référence ».
+Il s'agit d'une procédure basée sur la reconnaissance, par les autorités nationales des Etats membres de la Communauté européenne désignés par le demandeur, d'une première AMM délivrée par un Etat membre dit Etat de référence .
 
 Le recours à cette procédure est obligatoire dès lors que la commercialisation d'une spécialité est envisagée dans au moins deux Etats membres de la Communauté européenne, à l'exception :
 
@@ -266,7 +266,7 @@ En pratique, le terme d'effet nouveau est parfois utilisé comme synonyme d'effe
 
 Enquête de pharmacovigilance
 
-Travail d'évaluation, réalisé à la demande des autorités compétentes par un CRPV, en collaboration avec la personne responsable de la pharmacovigilance de l'entreprise ou organisme exploitant le médicament ou produit concerné, chaque fois qu'il existe des raisons de penser qu'un risque médicamenteux doit être évalué ou réévalué. Il existe deux types d'« enquêtes » :
+Travail d'évaluation, réalisé à la demande des autorités compétentes par un CRPV, en collaboration avec la personne responsable de la pharmacovigilance de l'entreprise ou organisme exploitant le médicament ou produit concerné, chaque fois qu'il existe des raisons de penser qu'un risque médicamenteux doit être évalué ou réévalué. Il existe deux types d' enquêtes :
 
 - le suivi de pharmacovigilance, réalisé dans le but d'effectuer une surveillance particulière du profil de tolérance du médicament ou produit dès sa mise sur le marché, pendant les premières années, voire pendant toute la durée de sa commercialisation ;
 
@@ -294,7 +294,7 @@ Analyse au cas par cas du lien de causalité entre la prise d'un médicament et 
 
 Les méthodes d'imputabilité servent à harmoniser et standardiser la démarche d'imputation, à la rendre reproductible d'un évaluateur à l'autre. Elles servent également à améliorer la qualité des données, un cas ne pouvant être imputé que si l'on dispose de suffisamment d'informations.
 
-La méthode officielle française est d'utilisation obligatoire en France (Bulletin officiel du ministère chargé de la santé n° 84/50, 24 janvier 1985). Elle combine trois critères « chronologiques » et trois critères « sémiologiques » et est accompagnée d'un score bibliographique.
+La méthode officielle française est d'utilisation obligatoire en France (Bulletin officiel du ministère chargé de la santé n° 84/50, 24 janvier 1985). Elle combine trois critères chronologiques et trois critères sémiologiques et est accompagnée d'un score bibliographique.
 
 Information de pharmacovigilance
 
@@ -340,7 +340,7 @@ Dans le cadre des bonnes pratiques de pharmacovigilance, le mésusage s'entend p
 
 Sont notamment considérées comme des données de référence le résumé des caractéristiques du produit (RCP), les recommandations de bonnes pratiques de l'AFSSAPS et de la Haute Autorité de santé, les conférences de consensus, les fiches de service médical rendu (SMR) et d'amélioration du service médical rendu (ASMR), les fiches de transparence, les recommandations médicales opposables (RMO) et la littérature.
 
-On entend par la « chaîne de soins » l'ensemble du circuit du médicament, prescription, préparation, dispensation, administration, surveillance, concernant tous les acteurs de santé, le patient et leur environnement.
+On entend par la chaîne de soins l'ensemble du circuit du médicament, prescription, préparation, dispensation, administration, surveillance, concernant tous les acteurs de santé, le patient et leur environnement.
 
 Notice
 
@@ -356,7 +356,7 @@ Lorsque la notification émane d'un professionnel de santé non prescripteur, de
 
 Il est recommandé que la notification soit confirmée par écrit par le notificateur ou établie à partir des éléments originaux du dossier clinique.
 
-Dans le cas particulier où le signalement émane d'un patient, la structure de pharmacovigilance doit inciter le patient à se retourner vers un professionnel de santé, de préférence celui qui l'a pris en charge, car les faits doivent être confirmés par un professionnel de santé.
+Dans le cas particulier où le signalement émane d'un patient, la structure de pharmacovigilance doit inciter le patient à se retourner vers un professionnel de santé, de préférence celui qui l'a pris en charge.
 
 Pharmacien responsable
 
@@ -804,8 +804,6 @@ Déclarer conformément aux dispositions de la présente annexe (voir chapitre 1
 
 - les effets indésirables graves survenus dans les autres Etats membres susceptibles d'être dus à un médicament ou produit dont l'AMM initialement obtenue en France a fait l'objet d'une procédure de reconnaissance mutuelle dans ces autres Etats membres.
 
-Toute déclaration d'un effet indésirable grave effectuée directement par un patient ou son entourage doit être préalablement confirmée par un professionnel de santé avant d'être transmise à l'AFSSAPS, au plus tard dans les 15 jours suivant la réception de cette confirmation.
-
 5.2. Effets indésirables résultant d'un surdosage ou d'un abus :
 
 La déclaration des effets indésirables résultant d'un surdosage ou d'un abus est soumise aux mêmes obligations et modalités que celle concernant les effets indésirables survenus dans les conditions normales d'emploi ou lors d'un mésusage, telles qu'énoncées ci-dessus. Toutefois, lorsque le médicament contient des substances psychoactives, la déclaration doit être effectuée auprès du système national de pharmacodépendance (voir supra dans Glossaire à l'entrée Abus).
@@ -1004,7 +1002,7 @@ A l'issue de ce travail, sont dégagés les arguments qui plaident en faveur ou 
 
 6. Tentative d'estimation d'une incidence des cas notifiés
 
-A moins de disposer de données épidémiologiques plus précises, le taux de notification est calculé. Il doit être estimé, de préférence, par rapport au « nombre de traitements vendus exprimés en jours de traitement » ou dans une autre unité adaptée. Si nécessaire, cette estimation est complétée en fonction des différents degrés d'imputabilité et de gravité.
+A moins de disposer de données épidémiologiques plus précises, le taux de notification est calculé. Il doit être estimé, de préférence, par rapport au nombre de traitements vendus exprimés en jours de traitement ou dans une autre unité adaptée. Si nécessaire, cette estimation est complétée en fonction des différents degrés d'imputabilité et de gravité.
 
 Chaque fois que cela est possible, sont évalués le nombre de personnes traitées et les caractéristiques de l'utilisation des médicaments ou produits (durée de prescription, indication, posologie).
 
@@ -1082,7 +1080,9 @@ Pour les médicaments enregistrés selon une procédure européenne, les conclus
 
 Lorsqu'une publication des données du suivi est envisagée, le document est adressé pour information avant sa parution ou sa présentation aux responsables de la mise sur le marché concernés et à l'AFSSAPS.
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 121 du 26/05/2005 texte numéro 14
 
 Chapitre 8
 
@@ -1144,4 +1144,90 @@ Chapitre 9
 
 Coordonnées des centres régionaux de pharmacovigilance
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 121 du 26/05/2005 texte numéro 14
+
+Chapitre 10
+
+Modalités de signalement d'effets indésirables
+
+par les patients et les associations agréées de patients
+
+Les signalements d'effets indésirables susceptibles d'être liés aux médicaments et produits mentionnés à l'article L. 5121-1 du code de la santé publique, qui peuvent être adressés par les patients ou par les associations agréées de patients aux centres régionaux de pharmacovigilance (CRPV), sont effectués au moyen du formulaire ci-après.
+
+A des fins d'aide au remplissage du formulaire, les informations suivantes peuvent être apportées :
+
+1. Généralités
+
+Lorsqu'un patient a pris un ou plusieurs médicaments et qu'il pense que l'un d'entre eux peut être à l'origine d'une réaction non voulue (effet indésirable), pendant ou après le traitement, il a la possibilité d'effectuer un signalement auprès du CRPV dont il dépend géographiquement et dont les coordonnées sont indiquées sur le formulaire.
+
+Dans ce cadre, il est indispensable que l'Agence française de sécurité sanitaire des produits de santé et le réseau des CRPV puissent avoir accès à l'ensemble des données médicales concernant le patient pour procéder à une évaluation du lien entre le médicament et l'effet indésirable constaté. Aussi, le patient doit joindre au formulaire tous documents permettant de compléter le signalement (comptes rendus d'hospitalisation, examens complémentaires...), sachant qu'ils seront utilisés dans le respect de la confidentialité.
+
+Il est toutefois possible que ce que le patient pense être un effet indésirable soit en fait un nouveau symptôme de sa maladie, susceptible de modifier le diagnostic ou de nécessiter une modification de la prise en charge. Dans tous les cas, le patient est donc encouragé à se rapprocher de son médecin pour qu'il l'examine et, le cas échéant, qu'il effectue lui-même la déclaration de l'effet indésirable.
+
+Le patient peut également s'adresser à son pharmacien afin qu'il déclare l'effet indésirable ou qu'il l'aide à remplir le formulaire. De même, s'il le souhaite, il peut s'adresser à une association agréée de patients.
+
+2. Informations relatives au (x) médicament (s) suspecté (s)
+
+Les informations données doivent être aussi précises et complètes que possible.
+
+Nom du médicament suspecté
+
+Préciser le nom exact et complet du médicament pris, tel qu'indiqué sur le conditionnement extérieur (emballage), ainsi que son dosage et la forme sous laquelle il se présente (comprimé, sirop, suppositoire, poudre pour solution buvable...). Si le nom est incomplet, faux, illisible ou inconnu, il sera impossible d'évaluer le lien entre l'effet indésirable et le médicament et le signalement ne sera pas pris en compte. (Par exemple : Médic 500 mg, comprimés.)
+
+Numéro de lot de fabrication
+
+Il s'agit du numéro figurant sur l'emballage du médicament, généralement à côté de la date de péremption ; il permet de suivre le produit de sa fabrication jusqu'à son utilisation.
+
+Mode d'utilisation et dose utilisée
+
+Il est nécessaire d'indiquer la façon dont le médicament a été utilisé par le patient (médicament avalé, injecté, appliqué sur la peau, instillé dans l'œil...) ainsi que la posologie (par exemple, dose utilisée et nombre de prises par jour) et ce, alors même qu'il ne s'agirait pas des conditions habituelles d'utilisation du médicament indiquées dans la notice ou prescrites par le médecin.
+
+Dates de traitement (début et fin d'utilisation)
+
+Ces dates permettent d'estimer la durée d'utilisation du médicament, sachant que certains effets indésirables ne se manifestent parfois qu'après une certaine durée de traitement. Si le patient ne se souvient plus des dates exactes, mention a minima de la durée d'utilisation.
+
+Motif de l'utilisation
+
+Indication de la raison (nature de la maladie, simple symptôme ou mesure de prévention) pour laquelle le patient a pris le médicament.
+
+Autres médicaments/ produits (compléments alimentaires, phytothérapie...) utilisés pendant la période précédant la survenue de l'effet indésirable
+
+Il peut s'agir de médicaments pris ponctuellement ou tous les jours, de médicaments prescrits par un médecin, de médicaments/ produits achetés par le patient de sa propre initiative ou qu'il avait déjà dans son armoire à pharmacie.
+
+Cette information est importante dans la mesure où :
+
+- l'interaction entre deux médicaments ou un médicament et un complément alimentaire est parfois à l'origine d'un effet indésirable ;
+
+- le médicament suspecté n'est pas forcément le produit réellement responsable, même si celui-ci a déjà été incriminé pour les mêmes effets indésirables ;
+
+- la connaissance des traitements suivis permet de mieux connaître l'état de santé général du patient, ce qui est un paramètre important pour comprendre un effet indésirable.
+
+3. Description de l'effet indésirable
+
+Utilisation de l'encadré pour décrire les manifestations ressenties (exemple : des taches rouges sur la peau, des démangeaisons, des fourmillements, des picotements...) et leur évolution (par exemple : diminution, aggravation, disparition ou persistance). Il est recommandé au patient de ne pas désigner les manifestations par des termes médicaux ou sous la forme d'un diagnostic médical, sauf si le diagnostic a été clairement posé par un médecin (par exemple, le patient ne doit pas dire qu'il a eu un eczéma si le médecin n'a pas donné ce diagnostic et même si le patient estime qu'il s'agit bien de cela).
+
+Outre l'effet indésirable, le patient doit décrire ses conditions de survenue (progressivement, du jour au lendemain, après le repas...), les soins effectués pour le soulager ou encore l'évolution, en étant si possible précis sur le déroulement des effets dans le temps.
+
+Il est recommandé, dans la mesure du possible, de joindre au formulaire de signalement tout élément supplémentaire permettant de compléter ledit signalement (comptes rendus d'hospitalisation, examens complémentaires...).
+
+Il est important d'apprécier le délai entre l'administration du médicament et l'apparition des premières manifestations de l'effet indésirable. C'est pourquoi doit être indiqué le délai entre la première utilisation du médicament et la survenue de l'effet indésirable, ou bien, si le patient avait déjà arrêté le traitement lorsque l'effet indésirable est apparu, le délai entre la dernière utilisation du médicament et la survenue de l'effet indésirable.
+
+L'évolution de l'effet indésirable est aussi un critère permettant de juger la responsabilité d'un médicament dans la survenue d'un effet indésirable. Il est donc utile de mentionner la durée des manifestations et leur évolution. Il est également important de signaler si le patient a arrêté de prendre le médicament ou non, ainsi que l'évolution constatée après l'éventuel arrêt (s'il s'agit d'un médicament qui doit être pris tous les jours, attention à ne pas arrêter le traitement sans consultation médicale).
+
+Il est également utile que soit précisé si l'effet indésirable a eu des conséquences sur la capacité du patient à gérer ses tâches quotidiennes, à travailler, à sortir de chez lui, ou encore à mener une vie sociale normale.
+
+Si la personne présentant l'effet indésirable est un nouveau-né : l'effet indésirable peut être lié à un médicament administré au nouveau-né lui-même ou utilisé par sa mère pendant la grossesse, ou encore lors de l'allaitement. Il est alors nécessaire de préciser dans quel cas de figure l'enfant a été exposé afin de réaliser une analyse adéquate.
+
+4. Coordonnées de la personne ayant présenté l'effet indésirable et, le cas échéant, de la personne signalant l'effet indésirable (si le patient ne le signale pas lui-même)
+
+Afin de recueillir les informations complémentaires nécessaires à la validation du signalement, le patient doit indiquer ses nom et prénom, lesquels seront traités dans le respect de la confidentialité. Seuls les initiales, l'âge et le sexe seront enregistrés dans la base nationale de pharmacovigilance. Ces informations serviront uniquement à contacter le patient si besoin (par exemple, si des informations sont manquantes) ou à l'identifier auprès du professionnel de santé dont il aura indiqué les coordonnées. Dans cette perspective, la date de naissance ou l'âge, le sexe, ainsi que le code postal, sont des informations indispensables.
+
+5. Coordonnées du médecin ayant constaté l'effet indésirable, du médecin traitant de la personne ayant présenté l'effet indésirable ou encore de tout autre professionnel de santé pouvant confirmer la survenue de l'effet indésirable
+
+Si le médecin qui a prescrit le médicament suspecté n'est pas le même que celui qui a pris en charge l'effet indésirable, ce sont les coordonnées de ce dernier qu'il faut donner en priorité. Les coordonnées du professionnel de santé sont également considérées comme confidentielles et ne sont donc pas enregistrées dans la base nationale de pharmacovigilance.
+
+Vous pouvez consulter le cliché dans le
+
+JO n° 136 du 12/06/2011 texte numéro 19
