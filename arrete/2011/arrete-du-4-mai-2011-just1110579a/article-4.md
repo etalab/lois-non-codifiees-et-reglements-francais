@@ -8,7 +8,7 @@ Seul l'entretien avec le jury donne lieu à la notation. Le dossier de reconnais
 
 En vue de cette épreuve, le service organisateur fournira aux candidats lors de leur inscription un dossier type et toutes les informations utiles pour la constitution de celui-ci.
 
-Le candidat établit le dossier de reconnaissance des acquis de son expérience en décrivant son cursus professionnel, ses motivations personnelles et professionnelles pour l'exercice des fonctions de directeur pénitentiaire d'insertion et de probation. Il remettra ce dossier au service organisateur à la date qui sera fixée dans l'arrêté d'ouverture de l'examen professionnel. Tout dossier parvenu hors délai sera rejeté.
+Le candidat établit le dossier de reconnaissance des acquis de son expérience en décrivant son cursus professionnel, ses motivations personnelles et professionnelles pour l'exercice des fonctions de conseiller pénitentiaire d'insertion et de probation. Il remettra ce dossier au service organisateur à la date qui sera fixée dans l'arrêté d'ouverture de l'examen professionnel. Tout dossier parvenu hors délai sera rejeté.
 
 Le service organisateur transmettra le dossier de reconnaissance des acquis de l'expérience professionnelle aux membres du jury.
 
