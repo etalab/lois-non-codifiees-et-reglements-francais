@@ -70,6 +70,7 @@
 - [Décret n°2011-259 du 10 mars 2011 (AGRX1105268D)](decret-n2011-259-du-10-mars-2011-agrx1105268d)
 - [Décret n°2011-260 du 10 mars 2011 (AGRT1032629D)](decret-n2011-260-du-10-mars-2011-agrt1032629d)
 - [Décret n°2011-261 du 10 mars 2011 (AGRT1023525D)](decret-n2011-261-du-10-mars-2011-agrt1023525d)
+- [Décret n°2011-643 du 10 juin 2011 (IOCJ1106959D)](decret-n2011-643-du-10-juin-2011-iocj1106959d)
 - [Décret n°2011-654 du 10 juin 2011 (DEVL1111885D)](decret-n2011-654-du-10-juin-2011-devl1111885d)
 - [Décret n°2011-655 du 10 juin 2011 (ETSP1024824D)](decret-n2011-655-du-10-juin-2011-etsp1024824d)
 - [Décret n°2011-656 du 10 juin 2011 (ETSS1104568D)](decret-n2011-656-du-10-juin-2011-etss1104568d)
