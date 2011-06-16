@@ -416,7 +416,6 @@
 - [Décret n°90-837 du 21 septembre 1990 (EQUA9001011D)](decret-n90-837-du-21-septembre-1990-equa9001011d)
 - [Décret n°90-838 du 21 septembre 1990 (SPSS9001579D)](decret-n90-838-du-21-septembre-1990-spss9001579d)
 - [Décret n°90-839 du 21 septembre 1990 (SPSH9001846D)](decret-n90-839-du-21-septembre-1990-spsh9001846d)
-- [Décret n°90-840 du 21 septembre 1990 (SPSH9001847D)](decret-n90-840-du-21-septembre-1990-spsh9001847d)
 - [Décret n°90-841 du 21 septembre 1990 (SPSH9001849D)](decret-n90-841-du-21-septembre-1990-spsh9001849d)
 - [Décret n°90-842 du 21 septembre 1990 (RESY9000196D)](decret-n90-842-du-21-septembre-1990-resy9000196d)
 - [Décret n°90-862 du 21 septembre 1990 (MAEJ9030066D)](decret-n90-862-du-21-septembre-1990-maej9030066d)
