@@ -124,6 +124,7 @@
 - [Décret n°2011-399 du 14 avril 2011 (ETSS1107672D)](decret-n2011-399-du-14-avril-2011-etss1107672d)
 - [Décret n°2011-404 du 14 avril 2011 (ETSH1027871D)](decret-n2011-404-du-14-avril-2011-etsh1027871d)
 - [Décret n°2011-405 du 14 avril 2011 (ETSH1028680D)](decret-n2011-405-du-14-avril-2011-etsh1028680d)
+- [Décret n°2011-661 du 14 juin 2011 (ETSH1105688D)](decret-n2011-661-du-14-juin-2011-etsh1105688d)
 - [Décret n°2001-424 du 14 mai 2001 (MESH0121152D)](decret-n2001-424-du-14-mai-2001-mesh0121152d)
 - [Décret n°2009-1244 du 15 octobre 2009 (AGRT0917146D)](decret-n2009-1244-du-15-octobre-2009-agrt0917146d)
 - [Décret n°2011-180 du 15 février 2011 (EFIT1101429D)](decret-n2011-180-du-15-fevrier-2011-efit1101429d)
