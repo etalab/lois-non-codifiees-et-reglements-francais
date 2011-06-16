@@ -48,7 +48,7 @@ La sous-direction des affaires domaniales et administratives coordonne l'experti
 
 Le département du patrimoine et de la décoration est chargé de la conservation et la restauration des objets mobiliers à caractère patrimonial, dans les bâtiments relevant, en France et à l'étranger, du ministère des affaires étrangères. Il a la responsabilité, dans ces bâtiments, de l'inventaire, de la gestion, du contrôle et de la traçabilité de ces objets. Il apporte son expertise scientifique et technique lors des travaux effectués dans les immeubles historiques relevant, en France et à l'étranger, du ministère des affaires étrangères. Il assure l'entretien et le renouvellement périodique de la décoration de ces bâtiments.
 
-V.-Le service de la sécurité diplomatique et de défense est chargé de la définition des normes et de la mise en œuvre des moyens humains, matériels et logistiques liés à la politique de défense et de sécurité des personnes, des biens et des sites du ministère à l'administration centrale et à l'étranger.
+V.-Le service de la sécurité diplomatique et de défense est chargé de la définition des normes, de l'emploi et de la mise en œuvre des moyens humains, matériels et logistiques liés à la politique de défense et de sûreté des personnes, des biens et des sites du ministère à l'administration centrale et à l'étranger.
 
 Le chef du service de la sécurité diplomatique et de défense exerce les fonctions de haut fonctionnaire correspondant de défense et de sécurité adjoint et assiste le directeur général de l'administration pour l'accomplissement des missions prévues par les articles R. 1143-1 à R. 1143-8 du code de la défense.
 
