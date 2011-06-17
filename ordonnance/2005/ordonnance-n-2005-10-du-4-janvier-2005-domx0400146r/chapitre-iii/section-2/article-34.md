@@ -10,7 +10,9 @@ c) Des subventions versées par des collectivités publiques.
 
 II. - La cotisation mentionnée au a du I est assise sur la masse des rémunérations versées aux agents relevant de la commune, du groupement de communes ou de l'établissement telles qu'elles apparaissent aux états liquidatifs mensuels dressés pour le règlement des charges sociales.
 
-Cette cotisation est liquidée selon les mêmes modalités et périodicité que les versements à la caisse de prévoyance sociale. Le taux de cette cotisation est fixé par délibération du conseil d'administration du centre de gestion et de formation, dans la limite du taux maximum de 5 %.
+Cette cotisation est liquidée et versée selon les mêmes modalités et périodicité que les versements à la caisse de prévoyance sociale. Le taux de cette cotisation est fixé par délibération du conseil d'administration du centre de gestion et de formation, dans la limite du taux maximum de 5 %. A défaut, la cotisation est recouvrée dans les conditions fixées par l'article L. 1612-16 du code général des collectivités territoriales.
+
+Elle est inscrite sur le bulletin de salaire de chaque agent comme charge patronale.
 
 III. - Les dépenses supportées par le centre de gestion et de formation pour l'exercice de ses missions de gestion mentionnées à l'article 31, pour le fonctionnement du secrétariat du Conseil supérieur de la fonction publique des communes de la Polynésie française et pour la formation obligatoire des agents sont financées par les cotisations mentionnées au a du I et, le cas échéant, par des subventions mentionnées au c du I.
 

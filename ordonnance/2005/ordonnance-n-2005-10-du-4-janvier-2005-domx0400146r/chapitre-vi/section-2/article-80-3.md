@@ -4,7 +4,7 @@ Avant l'installation du Conseil supérieur de la fonction publique des communes 
 
 1° Le conseil est composé paritairement :
 
-a) Des représentants des communes dans les conditions définies au cinquième alinéa de l'article 25 ;
+a) Des représentants des communes dans les conditions définies au quatrième alinéa de l'article 25 ;
 
 b) De représentants des organisations syndicales dans les conditions définies à l'article 80-2 ;
 

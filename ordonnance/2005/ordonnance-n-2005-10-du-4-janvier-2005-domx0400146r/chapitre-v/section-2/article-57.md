@@ -2,9 +2,7 @@
 
 Le détachement est la position du fonctionnaire placé hors de son cadre d'emplois d'origine, mais continuant à bénéficier dans son cadre d'origine de ses droits à l'avancement et à la retraite.
 
-Il est prononcé sur la demande du fonctionnaire par l'autorité de nomination dont il dépend. Il est révocable par l'autorité de la collectivité d'accueil.
-
-Le fonctionnaire ne peut être détaché qu'auprès de la Polynésie française pour occuper un emploi vacant de cette collectivité d'outre-mer ou auprès d'une collectivité ou d'un établissement mentionné à l'article 1er autre que sa collectivité ou son établissement d'origine pour occuper un emploi vacant relevant d'un autre cadre d'emplois que celui auquel il appartient.
+Il est prononcé sur la demande du fonctionnaire par l'autorité de nomination dont il dépend. Il est révocable.
 
 Le fonctionnaire détaché est soumis aux règles régissant la fonction qu'il exerce par l'effet de son détachement.
 

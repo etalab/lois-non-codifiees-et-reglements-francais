@@ -2,7 +2,7 @@
 
 Le centre de gestion et de formation assure, pour l'ensemble des fonctionnaires, le fonctionnement des commissions administratives paritaires et des conseils de discipline.
 
-Le centre de gestion et de formation organise les concours et les examens professionnels. Il établit les listes d'aptitude prévues aux articles 43 et 44.
+Le centre de gestion et de formation organise les concours et les examens professionnels. Il établit les listes d'aptitude prévues aux articles 43 et 44. Le centre de gestion et de formation assure le fonctionnement d'une commission d'équivalence des diplômes, dans les conditions fixées par arrêté du haut-commissaire de la République en Polynésie française.
 
 Il assure la publicité des créations et vacances d'emplois des collectivités et établissements mentionnés à l'article 1er pour toutes les catégories d'agents. A peine de nullité des nominations, les créations et vacances d'emplois doivent être préalablement communiquées au centre de gestion et de formation.
 

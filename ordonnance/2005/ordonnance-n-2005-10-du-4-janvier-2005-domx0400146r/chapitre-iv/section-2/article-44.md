@@ -6,6 +6,6 @@ En vue de favoriser la promotion interne, les statuts des cadres d'emplois fixen
 
 2° Inscription sur une liste d'aptitude après examen professionnel ;
 
-3° Inscription sur une liste d'aptitude après avis de la commission administrative paritaire compétente.
+3° Inscription sur une liste d'aptitude après avis de la commission administrative paritaire compétente, par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des agents.
 
 Les listes d'aptitude sont valables sur l'ensemble du territoire de la Polynésie française. Leur validité cesse automatiquement au terme d'un délai de deux ans à compter soit de la proclamation des résultats du concours visé au 1° ou de l'examen visé au 2°, soit de la publication de la liste visée au 3°.

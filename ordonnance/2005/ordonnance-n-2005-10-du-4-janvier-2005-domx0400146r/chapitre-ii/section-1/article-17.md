@@ -11,3 +11,5 @@ Il précise les motifs du recours à la grève.
 Le préavis doit parvenir cinq jours francs avant le déclenchement de la grève à l'autorité hiérarchique ou à la direction de l'établissement public intéressé. Il fixe le lieu, la date et l'heure du début ainsi que la durée limitée ou non de la grève envisagée.
 
 Pendant la durée du préavis, les parties intéressées sont tenues de négocier.
+
+Des fonctionnaires peuvent être tenus, pendant tout ou partie du déroulement de la grève, d'assurer leur service si leur concours est indispensable au fonctionnement des services dont l'interruption porterait atteinte aux besoins essentiels de la population.

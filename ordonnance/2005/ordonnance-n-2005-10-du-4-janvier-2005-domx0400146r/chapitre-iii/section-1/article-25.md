@@ -1,8 +1,6 @@
 # Article 25
 
-Il est créé un Conseil supérieur de la fonction publique des communes de la Polynésie française.
-
-Ce conseil supérieur est composé paritairement de représentants des organisations syndicales représentatives de fonctionnaires en Polynésie française et de représentants des communes.
+Le Conseil supérieur de la fonction publique des communes de la Polynésie française est composé paritairement de représentants des organisations syndicales représentatives de fonctionnaires en Polynésie française et de représentants des communes.
 
 Il est présidé par un représentant des communes élu en son sein.
 

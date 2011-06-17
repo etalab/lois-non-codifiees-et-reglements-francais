@@ -28,4 +28,6 @@ Si la maladie ouvrant droit au congé de longue durée a été contractée dans 
 
 8° Au congé lié aux charges parentales.
 
-Un arrêté du haut-commissaire de la République en Polynésie française fixe les règles d'organisation et de fonctionnement des comités médicaux compétents en cas de maladie et de maternité.
+9° Au congé pour validation des acquis de l'expérience.
+
+Un arrêté du haut-commissaire de la République en Polynésie française fixe les règles relatives au congé pour validation des acquis de l'expérience ainsi qu'au congé lié aux charges parentales et celles concernant l'organisation et le fonctionnement des comités médicaux compétents en cas de maladie et de maternité.

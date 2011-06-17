@@ -6,6 +6,6 @@ Les fonctionnaires sont recrutés par voie de concours ouverts dans des conditio
 
 2° Dans les conditions prévues par les statuts particuliers, aux fonctionnaires régis par le présent statut général. Les intéressés doivent avoir accompli une certaine durée de services publics et, le cas échéant, reçu une formation.
 
-Les matières et les programmes sont fixés par le haut-commissaire.
+Les matières et les programmes sont fixés par le haut-commissaire, après avis du Conseil supérieur de la fonction publique des communes de la Polynésie française.
 
 Les modalités d'organisation des concours sont déterminées par le centre de gestion et de formation.
