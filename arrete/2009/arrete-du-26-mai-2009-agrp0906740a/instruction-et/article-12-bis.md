@@ -14,6 +14,16 @@ Le calcul de la minoration s'effectue sur la base du taux moyen à l'hectare du 
 
 En cas de versement par avance, le calcul de la minoration s'effectue après application des dispositions spécifiques aux avances prévues par le règlement (CEE) n° 2220 / 85.
 
+Si la demande d'aide est reçue à FranceAgriMer après la date limite prévue par l'arrêté de campagne relatif aux modalités d'octroi de l'aide à la restructuration et à la reconversion du vignoble, l'aide due après application, le cas échéant, des précédentes minorations est réduite :
+
+- de 10 % si le dossier est reçu jusqu'au dixième jour ouvré suivant la date limite ;
+
+- de 20 % si le dossier est reçu entre le onzième jour ouvré et le dernier jour ouvré du deuxième mois suivant la date limite ;
+
+- de 50 % si le dossier est reçu entre le troisième mois et le dernier jour ouvré du mois de juin suivant la date limite.
+
+Au-delà du dernier jour ouvré du mois de juin suivant la date limite de réception du dossier, aucune aide n'est versée.
+
 2. Lorsqu'il est constaté à l'issue des contrôles physiques et administratifs visés à l'article 12 du présent arrêté que la superficie totale arrachée validée d'un plan collectif local, tel que visé à l'article 8 du présent arrêté, est supérieure à la superficie totale éligible effectivement replantée, pour l'ensemble du plan, l'aide excédentaire est reversée.
 
 Son montant correspond à l'écart de superficie multiplié par le taux moyen à l'hectare de l'aide versée pour les actions d'arrachage, y compris l'indemnité de perte de recettes liée à l'arrachage.

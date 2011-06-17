@@ -24,7 +24,7 @@ Dans le cas du surgreffage, lorsqu'une variété a été primée au titre d'un s
 
 ― la modification de la densité d'une vigne après arrachage et replantation. L'écart de densité doit être au minimum de 10 % par rapport à la densité initiale ;
 
-― la modification de l'écartement des rangs d'une vigne sans modification de la densité, après arrachage et replantation, sous réserve d'une modification de l'écartement interrang d'au moins 0,25 mètre ;
+― la modification de l'écartement des rangs d'une vigne, après arrachage et replantation, sous réserve d'une modification de l'écartement interrang d'au moins 0,25 mètre ;
 
 ― l'arrachage d'une vigne non irriguée et la replantation d'une vigne irriguée avec une installation d'irrigation fixe après contrôle préalable de la vigne à arracher.
 

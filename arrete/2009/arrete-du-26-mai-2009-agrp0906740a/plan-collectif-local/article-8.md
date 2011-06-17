@@ -36,7 +36,9 @@ Le montant des garanties présentées à l'appui des demandes de paiement doit :
 
 - pour ce qui concerne les actions d'arrachage, être au moins égal au montant de la participation aux coûts de l'arrachage et de l'indemnité pour pertes de recettes liée à l'arrachage ;
 
-- pour ce qui concerne les actions de plantation être au moins égal à 80 % du montant de la participation aux coûts de plantation et de l'indemnité pour pertes de recettes liée aux plantations.
+- pour ce qui concerne les actions de plantations des plans collectifs locaux déposés au titre des campagnes 2008-2009 ou 2009-2010, être au moins égal à 80 % du montant de la participation aux coûts de plantation et de l'indemnité pour pertes de recettes liées aux plantations ;
+
+- pour ce qui concerne les actions de plantation des plans collectifs locaux déposés au titre de la campagne 2010-2011, être au moins égal à 80 % du montant de la participation aux coûts de plantation et de l'indemnité pour pertes de recettes liées aux plantations. Ces plans collectifs locaux étant les derniers du programme national d'aide, une garantie complémentaire allant jusqu'à 20 % de ce même montant et amenant la garantie totale à 100 % sera exigée pour les plantations de la dernière année (campagne 2012-2013) afin qu'il soit procédé à un paiement d'avance avant la fin du programme national d'aide.
 
 Les formes de garanties recevables peuvent être définies par décision du directeur général de FranceAgriMer.
 
@@ -45,3 +47,5 @@ Les formes de garanties recevables peuvent être définies par décision du dire
 A défaut de reversement dans un délai de trente jours suivant la demande de FranceAgriMer, la garantie, individuelle ou collective, reste acquise.
 
 Les garanties constituées par la structure ou les exploitants participant au plan sont libérées après constat de la pleine exécution du plan ou reversement de toutes les sommes dues.
+
+6. Aucun nouveau plan collectif local n'est agréé à compter de la campagne 2011-2012.
