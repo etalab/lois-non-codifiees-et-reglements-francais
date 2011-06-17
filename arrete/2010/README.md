@@ -1583,7 +1583,6 @@
 - [Arrêté du 17 juin 2010 (BCRP1014005A)](arrete-du-17-juin-2010-bcrp1014005a)
 - [Arrêté du 17 juin 2010 (DEFM1017449A)](arrete-du-17-juin-2010-defm1017449a)
 - [Arrêté du 17 juin 2010 (MAEF1016093A)](arrete-du-17-juin-2010-maef1016093a)
-- [Arrêté du 17 juin 2010 (MTSS1014506A)](arrete-du-17-juin-2010-mtss1014506a)
 - [Arrêté du 17 mars 2010 (IOCC0918974A)](arrete-du-17-mars-2010-iocc0918974a)
 - [Arrêté du 17 mars 2010 (JUSA1007900A)](arrete-du-17-mars-2010-jusa1007900a)
 - [Arrêté du 17 mars 2010 (JUSF1008175A)](arrete-du-17-mars-2010-jusf1008175a)
