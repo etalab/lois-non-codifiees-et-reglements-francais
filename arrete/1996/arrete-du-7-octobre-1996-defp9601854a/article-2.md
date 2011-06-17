@@ -10,4 +10,6 @@ La mise à disposition peut être prononcée auprès de l'un des organismes ou c
 
 4° Les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ;
 
-5° L'Association nationale pour la formation professionnelle des adultes.
+5° Les organismes contribuant à la mise en œuvre d'une politique de l'Etat, des collectivités territoriales ou de leurs établissements publics administratifs, pour l'exercice des seules missions de service public confiées à ces organismes ;
+
+6° Les organisations internationales intergouvernementales.

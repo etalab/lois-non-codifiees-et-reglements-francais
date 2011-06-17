@@ -24,7 +24,7 @@ L : Etablissements ou services d'aide par le travail (ESAT) - Activité sociale
 
 M : Etablissements ou services d'aide par le travail (ESAT) - Activité de production et de commercialisation
 
-P :Autres activités relevant de l'article L. 312-1 du CASF
+P : Autres activités relevant de l'article L. 312-1 du CASF
 
 EPRD synthétique
 
@@ -800,7 +800,7 @@ Compte de résultat prévisionnel principal (CRPP)
 <p align="center">6421</p>
 </td>
 <td width="326">
-<p>Praticiens temps plein et temps partiel</p>
+<p>Praticiens hospitaliers temps plein et temps partiel</p>
 </td>
 <td width="93"/>
 <td width="117"/>
@@ -811,7 +811,7 @@ Compte de résultat prévisionnel principal (CRPP)
 <p align="center">6422</p>
 </td>
 <td width="326">
-<p>Praticiens attachés renouvelables de droit</p>
+<p>Praticiens contractuels renouvelables de droit</p>
 </td>
 <td width="93"/>
 <td width="117"/>
@@ -3591,7 +3591,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettre A (DNA et SIC)
 <p align="center">CHAPITRES</p>
 </td>
 <td width="304">
-<p align="center"> INTITULE DES CHAPITRES</p>
+<p align="center">INTITULE DES CHAPITRES</p>
 </td>
 <td width="100">
 <p align="center">REALISATIONS<br/>N-2</p>
@@ -3909,7 +3909,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres B, E et J
 <p align="center">6421</p>
 </td>
 <td width="303">
-<p>Praticiens temps plein et temps partiel</p>
+<p>Praticiens hospitaliers temps plein et temps partiel</p>
 </td>
 <td width="101"/>
 <td width="102"/>
@@ -3920,7 +3920,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres B, E et J
 <p align="center">6422</p>
 </td>
 <td width="303">
-<p>Praticiens attachés renouvelables de droit</p>
+<p>Praticiens contractuels renouvelables de droit</p>
 </td>
 <td width="101"/>
 <td width="102"/>
@@ -4865,7 +4865,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres C
 <p align="center">6421</p>
 </td>
 <td width="336">
-<p>Praticiens temps plein et temps partiel</p>
+<p>Praticiens hospitaliers temps plein et temps partiel</p>
 </td>
 <td width="95">
 <br/>
@@ -4882,7 +4882,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres C
 <p align="center">6422</p>
 </td>
 <td width="336">
-<p>Praticiens attachés renouvelables de droit</p>
+<p>Praticiens contractuels renouvelables de droit</p>
 </td>
 <td width="95">
 <br/>
@@ -5959,7 +5959,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres N et P
 <p align="center">6421</p>
 </td>
 <td width="335">
-<p>Praticiens temps plein et temps partiel</p>
+<p>Praticiens hospitaliers temps plein et temps partiel</p>
 </td>
 <td width="98">
 <br/>
@@ -5976,7 +5976,7 @@ Compte de résultat prévisionnel annexe (CRPA) : lettres N et P
 <p align="center">6422</p>
 </td>
 <td width="335">
-<p>Praticiens attachés renouvelables de droit</p>
+<p>Praticiens contractuels renouvelables de droit</p>
 </td>
 <td width="98">
 <br/>
