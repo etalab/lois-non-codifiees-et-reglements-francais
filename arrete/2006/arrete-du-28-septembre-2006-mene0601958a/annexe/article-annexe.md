@@ -1,8 +1,6 @@
 # Article Annexe
 
-ÉPREUVES DE L'OPTION INTERNATIONALE
-
-DU BACCALAURÉAT GÉNÉRAL
+ÉPREUVES DE L'OPTION INTERNATIONALE DU BACCALAURÉAT GÉNÉRAL
 
 Epreuve spécifique commune :
 
@@ -16,7 +14,7 @@ Histoire et géographie :
 
 L'épreuve spécifique porte sur le programme aménagé enseigné dans la section internationale dont est issu le candidat. Elle se substitue à l'épreuve obligatoire d'histoire-géographie. Elle consiste, pour toutes les séries, en une épreuve écrite rédigée, au choix du candidat, en français ou dans la langue nationale de la section, d'une durée de quatre heures et affectée du coefficient 5 dans les séries L et ES, 4 dans la série S, et en une épreuve orale dans la langue nationale de la section, affectée du coefficient 3 dans les séries L et S, 4 dans la série ES.
 
-A l'épreuve écrite, le candidat traite un des deux sujets d'histoire et un des deux sujets de géographie proposés à son choix. Il compose sur le sujet d'histoire et sur le sujet de géographie dans la même langue.
+A l'épreuve écrite, le candidat traite un des sujets d'histoire et un des sujets de géographie proposés à son choix. Il compose sur le sujet d'histoire et sur le sujet de géographie dans la même langue.
 
 Mathématiques :
 
