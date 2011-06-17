@@ -16,6 +16,8 @@
 - [LOI n° 2011-575 du 26 mai 2011 (IOCX1025121L)](loi-n-2011-575-du-26-mai-2011-iocx1025121l)
 - [LOI n° 2011-590 du 26 mai 2011 (MCCX1027694L)](loi-n-2011-590-du-26-mai-2011-mccx1027694l)
 - [LOI n° 2011-617 du 1er juin 2011 (SPOX1108274L)](loi-n-2011-617-du-1er-juin-2011-spox1108274l)
+- [LOI n° 2011-663 du 15 juin 2011 (MAEX1104580L)](loi-n-2011-663-du-15-juin-2011-maex1104580l)
+- [LOI n° 2011-665 du 15 juin 2011 (VILX1109987L)](loi-n-2011-665-du-15-juin-2011-vilx1109987l)
 - [LOI n° 2011-94 du 25 janvier 2011 (JUSC0909345L)](loi-n-2011-94-du-25-janvier-2011-jusc0909345l)
 - [Loi n° 55-385 du 3 avril 1955](loi-n-55-385-du-3-avril-1955)
 - [Loi n° 87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n-87-550-du-16-juillet-1987-jusx8700098l)
