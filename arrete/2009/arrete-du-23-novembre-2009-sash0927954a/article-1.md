@@ -34,8 +34,6 @@ Diplôme d'Etat d'infirmier de bloc opératoire ;
 
 Diplôme de cadre de santé ;
 
-Diplôme de cadre sage-femme ;
-
 Diplôme d'Etat d'aide médico-psychologique ;
 
 Diplôme d'Etat d'assistant de service social ;

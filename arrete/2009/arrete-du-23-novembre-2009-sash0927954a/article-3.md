@@ -1,3 +1,5 @@
 # Article 3
 
-La directrice de l'hospitalisation et de l'organisation des soins au ministère de la santé et des sports est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+A abrogé les dispositions suivantes :
+> - Arrêté du 5 avril 1990
+> > Art. 1,   Art. 2
