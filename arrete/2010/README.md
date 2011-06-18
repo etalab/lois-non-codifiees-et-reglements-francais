@@ -1382,7 +1382,6 @@
 - [Arrêté du 15 juin 2010 (DEVK1007929A)](arrete-du-15-juin-2010-devk1007929a)
 - [Arrêté du 15 juin 2010 (ECEC1000062A)](arrete-du-15-juin-2010-ecec1000062a)
 - [Arrêté du 15 juin 2010 (ECES1015553A)](arrete-du-15-juin-2010-eces1015553a)
-- [Arrêté du 15 juin 2010 (ECES1015554A)](arrete-du-15-juin-2010-eces1015554a)
 - [Arrêté du 15 juin 2010 (MTSW1016011A)](arrete-du-15-juin-2010-mtsw1016011a)
 - [Arrêté du 15 juin 2010 (PRMD1015844A)](arrete-du-15-juin-2010-prmd1015844a)
 - [Arrêté du 15 juin 2010 (SASH1016191A)](arrete-du-15-juin-2010-sash1016191a)
