@@ -154,7 +154,6 @@
 - [Arrêté du 5 janvier 1995 (ECOT9451395A)](arrete-du-5-janvier-1995-ecot9451395a)
 - [Arrêté du 5 janvier 1995 (EQUS9500058A)](arrete-du-5-janvier-1995-equs9500058a)
 - [Arrêté du 5 janvier 1995 (MCCE9500032A)](arrete-du-5-janvier-1995-mcce9500032a)
-- [Arrêté du 5 janvier 1995 (RESR9402059A)](arrete-du-5-janvier-1995-resr9402059a)
 - [Arrêté du 5 janvier 1995 (SPSA9500035A)](arrete-du-5-janvier-1995-spsa9500035a)
 - [Arrêté du 5 juillet 1994 (INDB9400579A)](arrete-du-5-juillet-1994-indb9400579a)
 - [Arrêté du 5 juillet 1995 (ECOD9570011A)](arrete-du-5-juillet-1995-ecod9570011a)
