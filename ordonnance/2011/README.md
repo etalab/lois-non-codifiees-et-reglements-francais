@@ -7,6 +7,7 @@
 - [Ordonnance n°2011-504 du 9 mai 2011 (INDR1111324R)](ordonnance-n2011-504-du-9-mai-2011-indr1111324r)
 - [Ordonnance n° 2011-253 du 10 mars 2011 (DEVP1033903R)](ordonnance-n-2011-253-du-10-mars-2011-devp1033903r)
 - [Ordonnance n°2003-1067 du 12 novembre 2003 (ECOX0300160R)](ordonnance-n2003-1067-du-12-novembre-2003-ecox0300160r)
+- [Ordonnance n° 2011-673 du 16 juin 2011 (ETSX1110605R)](ordonnance-n-2011-673-du-16-juin-2011-etsx1110605r)
 - [Ordonnance n° 2011-78 du 20 janvier 2011 (AGRG1027105R)](ordonnance-n-2011-78-du-20-janvier-2011-agrg1027105r)
 - [Ordonnance n° 2011-91 du 20 janvier 2011 (INDI1009820R)](ordonnance-n-2011-91-du-20-janvier-2011-indi1009820r)
 - [Ordonnance n° 2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n-2010-686-du-24-juin-2010-iocx1013964r)

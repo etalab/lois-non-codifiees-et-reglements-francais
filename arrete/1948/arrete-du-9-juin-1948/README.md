@@ -5,6 +5,7 @@
 - [Cessation de fonctions](cessation-de-fonctions)
 - [Congés](conges)
 - [Discipline](discipline)
+- [Embauchage](embauchage)
 - [Mesures sociales](mesures-sociales)
 - [Outillage](outillage)
 - [Rémunération](remuneration)
