@@ -1,8 +1,6 @@
 # Article 2
 
-La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 3,5 fois le plafond prévu à l'article L. 241-3 du code de la sécurité sociale en vigueur le 1er janvier de l'année au cours de laquelle la cotisation est appelée..
-
-Ce plafond évolue chaque année comme la variation, entre le 1er septembre de l'avant-dernière année et le 1er septembre de l'année précédente, de l'indice mensuel des prix à la consommation de l'ensemble des ménages, publié par l'Institut national de la statistique et des études économiques.
+La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 3,5 fois le plafond prévu à l'article L. 241-3 du code de la sécurité sociale en vigueur le 1er janvier de l'année au cours de laquelle la cotisation est appelée.
 
 Le taux de la cotisation est fixé, chaque année par décret, sur proposition du conseil d'administration de la section professionnelle des médecins. Il ne pourra excéder 14 %.
 
