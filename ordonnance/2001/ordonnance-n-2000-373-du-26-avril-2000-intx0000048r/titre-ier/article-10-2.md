@@ -1,6 +1,6 @@
 # Article 10-2
 
-Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006  relative à l'immigration et à l'intégration, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, les officiers de police judiciaire, assistés des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés respectivement à l'article 20 et au 1° de l'article 21 du code de procédure pénale, peuvent procéder, avec l'accord du conducteur ou, à défaut, sur instructions du procureur de la République, à la visite sommaire de tout véhicule circulant sur la voie publique, à l'exclusion des voitures particulières, en vue de rechercher et constater les infractions relatives à l'entrée et au séjour des étrangers à Mayotte.
+Dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, les officiers de police judiciaire, assistés des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés respectivement à l'article 20 et au 1° de l'article 21 du code de procédure pénale, peuvent procéder, avec l'accord du conducteur ou, à défaut, sur instructions du procureur de la République, à la visite sommaire de tout véhicule circulant sur la voie publique, à l'exclusion des voitures particulières, en vue de rechercher et constater les infractions relatives à l'entrée et au séjour des étrangers à Mayotte.
 
 Dans l'attente des instructions du procureur de la République, le véhicule peut être immobilisé pour une durée qui ne peut excéder huit heures.
 

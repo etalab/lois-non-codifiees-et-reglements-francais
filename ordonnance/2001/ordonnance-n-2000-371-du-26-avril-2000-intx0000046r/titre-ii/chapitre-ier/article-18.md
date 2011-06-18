@@ -8,13 +8,11 @@ III. - La carte mentionnée au I est attribuée au vu du contenu et de la nature
 
 Lorsque l'étranger souhaitant bénéficier d'une carte "compétences et talents" réside régulièrement dans les îles Wallis et Futuna, il présente sa demande auprès de l'administrateur supérieur. Lorsque l'étranger réside hors du territoire de la République, il présente sa demande auprès des autorités diplomatiques et consulaires françaises territorialement compétentes. L'autorité administrative compétente pour délivrer cette carte est l'administrateur supérieur.
 
-IV. - Il est tenu compte, pour l'appréciation des conditions mentionnées au III, de critères déterminés annuellement par la Commission nationale des compétences et des talents, prévue à l'article L. 315-4 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+IV. (Abrogé)
 
 V. - La carte de séjour mentionnée au I permet à son titulaire d'exercer toute activité professionnelle de son choix, dans le cadre du projet mentionné au premier alinéa du III.
 
-VI. - Lorsque le titulaire de la carte de séjour "compétences et talents" est ressortissant d'un pays de la zone de solidarité prioritaire, il apporte son concours, pendant la durée de validité de cette carte, à une action de coopération ou d'investissement économique définie par la France avec le pays dont il a la nationalité.
-
-Lors du premier renouvellement de cette carte, il est tenu compte du non-respect de cette obligation.
+VI. (Abrogé)
 
 VII. - Le conjoint, s'il est âgé d'au moins dix-huit ans, et les enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article 11 d'un étranger titulaire de la carte de séjour mentionnée au I bénéficient de plein droit de la carte de séjour portant la mention "vie privée et familiale". La carte de séjour ainsi accordée est renouvelée de plein droit durant la période de validité restant à courir de la carte mentionnée au I.
 
