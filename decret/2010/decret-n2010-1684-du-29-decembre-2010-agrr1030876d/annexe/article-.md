@@ -474,7 +474,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Centre hospitalier Sud Gironde</p>
+<p align="left">Association Réseau des maisons de santé pluridisciplinaires du Sud Gironde </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Création d'un réseau de maisons de santé rurales sur le territoire Sud Gironde</p>
