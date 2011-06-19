@@ -10,7 +10,7 @@ a) La délivrance de cette autorisation est soumise aux conditions suivantes ;
 
 - l'exposant a fourni un document de navigabilité et un document délivré par l'Etat d'immatriculation attestant qu'un vol identique au cours d'une manifestation aérienne sur son territoire serait autorisé ;
 
-- l'exposant a défini une liste de manoeuvres que l'appareil est capable d'effectuer avec un niveau de sécurité comparable à celui des aéronefs visés à l'article 17 ;
+- l'exposant a défini une liste des évolutions que l'appareil est capable d'effectuer avec un niveau de sécurité comparable à celui des aéronefs visés à l'article 17 ;
 
 - pour les aéronefs inhabités, l'exposant doit avoir satisfait à toute autre condition technique ou opérationnelle jugée nécessaire par l'autorité ayant autorisé le vol, pour des raisons de sécurité ou d'environnement ;
 

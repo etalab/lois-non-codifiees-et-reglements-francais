@@ -8,7 +8,7 @@ b) Participe, au sein du comité d'organisation et de coordination, à la valida
 
 c) S'assure que les équipages ont reçu de la part de l'organisateur toutes les informations concernant l'organisation et les règles de sécurité ;
 
-d) Approuve les programmes individuels de présentation, aucun vol de présentation ne pouvant avoir lieu sans son autorisation ;
+d) Approuve les programmes individuels de présentation. Si, à l'issue d'un vol de répétition ou en raison d'éléments dont il aurait connaissance tenant, notamment, à la compétence du pilote ou au type d'aéronef présenté, il estime que la sécurité des vols n'est pas assurée, il peut refuser d'inscrire un postulant dans le programme des vols de la manifestation. Il en informe la commission interministérielle de contrôle ;
 
 e) Approuve chaque jour le minutage établi conjointement par l'organisateur et le service local de la circulation aérienne, en vérifiant qu'il est compatible avec les règles de sécurité ;
 

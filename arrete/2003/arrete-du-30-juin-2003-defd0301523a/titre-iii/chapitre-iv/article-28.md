@@ -8,9 +8,9 @@ Toute trajectoire doit comporter une marge suffisante pour ne conduire en aucun 
 
 Pendant la durée de la manifestation aérienne, la hauteur minimale des vols de présentation est de 100 mètres, à l'exception des manoeuvres d'atterrissage et de décollage qui sont effectuées conformément aux procédures générales et consignes particulières en vigueur sur l'aérodrome.
 
-La hauteur minimale de présentation est relevée à 150 mètres pour les appareils effectuant des manoeuvres de voltige et les gros porteurs. Toutefois, les aéronefs légers de voltige pilotés par des navigants professionnels peuvent être autorisés par le directeur des vols, après accord de la commission interministérielle de contrôle, à effectuer leur présentation à la hauteur minimale de 100 mètres.
+La hauteur minimale de présentation est relevée à 150 mètres pour les appareils effectuant des évolutions de voltige et les gros porteurs. Toutefois, les aéronefs légers de voltige pilotés par des navigants professionnels peuvent être autorisés par le directeur des vols, après accord de la commission interministérielle de contrôle, à effectuer leur présentation à la hauteur minimale de 100 mètres.
 
-Les manoeuvres à forte incidence ne peuvent être réalisées à une hauteur inférieure à 300 mètres.
+Les évolutions à forte incidence ne peuvent être réalisées à une hauteur inférieure à 300 mètres.
 
 Toutefois, une hauteur minimale particulière est fixée par le directeur des vols pour certains appareils au domaine de vol particulier évoluant dans le cadre de leur emploi normal, notamment les appareils agricoles, les appareils à décollage vertical, les hélicoptères ou les aéronefs inhabités. Le directeur des vols fixe cette hauteur minimale en fonction des caractéristiques des appareils et définit les limites géographiques dans lesquelles elle est applicable.
 

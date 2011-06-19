@@ -12,9 +12,9 @@ d) De vérifier que toutes les dispositions sont prises pour minimiser les nuisa
 
 e) De provoquer, le cas échéant, les mesures administratives propres à garantir un déroulement sûr et ordonné de la manifestation aérienne ; dans ce but, la commission se tient notamment en liaison avec le préfet de la Seine-Saint-Denis, auquel elle propose les décisions urgentes qui relèvent des pouvoirs de police de ce dernier ;
 
-f) De faire interdire pour des raisons de sécurité ou à titre de sanction en cas d'infraction aux règles de sécurité, par le directeur des vols ou le commissaire général selon le cas, la participation en vol au salon en cours ou aux salons suivants d'un aéronef, d'un type d'aéronef ou de parachute, d'un ou de plusieurs membres d'équipage ou de parachutistes, de l'exposant d'un aéronef ou d'un parachute ;
+f) De faire interdire pour des raisons de sécurité ou en cas d'infraction aux règles de sécurité, par le directeur des vols ou le commissaire général selon le cas, la participation en vol au salon en cours ainsi que, le cas échéant, aux salons suivants d'un aéronef, d'un type d'aéronef ou de parachute, d'un ou de plusieurs membres d'équipage ou de parachutistes, de l'exposant d'un aéronef ou d'un parachute ;
 
-g) D'arbitrer les désaccords qui pourraient survenir entre le commissaire général ou le comité d'organisation et de coordination, d'une part, le directeur des vols, d'autre part, à l'exclusion des menaces graves pour la sécurité de la manifestation, les dispositions de l'alinéa  e  s'appliquant dans ce cas ;
+g) D'arbitrer les désaccords qui pourraient survenir entre le commissaire général ou le comité d'organisation et de coordination, d'une part, le directeur des vols, d'autre part, à l'exclusion des menaces graves pour la sécurité de la manifestation, les dispositions de l'alinéa e s'appliquant dans ce cas ;
 
 h) De transmettre aux organismes français ou étrangers intéressés, si elle le juge utile, le relevé des infractions aux règlements et instructions spécifiques à la manifestation, appuyé de son avis ;
 

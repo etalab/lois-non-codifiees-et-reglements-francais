@@ -1,6 +1,6 @@
 # Article 17
 
-Les aéronefs de série en service courant, immatriculés en France ou à l'étranger, qui participent à la manifestation aérienne, doivent respecter les conditions d'emploi fixées par les autorités de l'Etat d'immatriculation et mentionnées sur un document approuvé par ces autorités.
+Les aéronefs de série en service courant, immatriculés en France ou à l'étranger, qui participent à la manifestation aérienne, doivent respecter les conditions d'emploi et les limitations fixées par les autorités de l'Etat d'immatriculation et mentionnées sur un document approuvé par ces autorités.
 
 Ce document doit être présenté au directeur des vols. Dans le cas où la documentation fournie par l'exposant ne lui paraît pas suffisante, le directeur des vols est habilité à définir toute limitation d'emploi qu'il estimerait opportune.
 

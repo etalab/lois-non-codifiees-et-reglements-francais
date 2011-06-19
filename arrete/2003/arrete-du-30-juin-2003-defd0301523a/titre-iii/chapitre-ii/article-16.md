@@ -4,7 +4,7 @@ Nul ne peut effectuer un vol ou un saut en parachute dans le cadre de la manifes
 
 Cette autorisation ne peut être délivrée que si le postulant satisfait aux conditions suivantes :
 
-- être titulaire des brevets, licences, certificats ou autorisations exigés par la réglementation de son pays l'habilitant à utiliser les appareils à présenter, aéronefs ou parachutes, pour le type de vol ou de saut envisagé ;
+- être titulaire des brevets, licences, certificats ou autorisations exigés par la réglementation de son pays l'habilitant à utiliser les aéronefs à présenter pour le type de vol ou de saut envisagé ;
 
 - pouvoir justifier auprès du directeur des vols d'une expérience aéronautique suffisante ;
 

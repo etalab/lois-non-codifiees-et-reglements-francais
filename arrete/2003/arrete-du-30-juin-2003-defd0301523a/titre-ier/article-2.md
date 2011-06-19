@@ -2,6 +2,8 @@
 
 Pour l'application du présent arrêté, les termes ci-dessous sont employés avec la signification suivante :
 
+Aéronef inhabité : aéronef qui circule sans personne à bord ;
+
 Aéronefs légers de voltige : planeurs et avions de voltige certifiés respectivement CS 22 ou CS 23, ou une norme équivalente, en catégorie acrobatique ou en utilisation dans les forces armées en catégorie acrobatique.
 
 Aire de présentation : projection au sol du volume nécessaire à la présentation en vol.
@@ -18,7 +20,7 @@ Exposant : personne physique ou morale retenue par le salon international de l'a
 
 Exposition statique : présentation d'un aéronef parqué dans la zone publique du salon.
 
-Pilote-opérateur d'aéronef inhabité : personne qui possède les connaissances et autorisations requises pour assurer la conduite du vol d'un aéronef inhabité.
+Pilote à distance d'aéronef inhabité : personne qui possède les connaissances et autorisations requises pour assurer la conduite du vol d'un aéronef inhabité.
 
 Programme individuel de présentation : décrit tous les éléments du vol de présentation, notamment les évolutions , altitudes, minutage.
 
