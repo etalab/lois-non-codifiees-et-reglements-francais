@@ -1,0 +1,7 @@
+# Article 3
+
+Les licences d'agent sportif en cours de validité à la date de publication du présent décret dont sont titulaires des personnes physiques expirent six mois après la date de publication du présent décret. Toutefois, le titulaire qui, antérieurement à cette expiration, sollicite la délivrance d'une licence sur le fondement des dispositions issues du présent décret peut poursuivre l'exercice de son activité sous couvert de son ancienne licence jusqu'à la décision de la commission des agents sportifs. Il est dispensé, pour la délivrance de la nouvelle licence, de l'examen prévu à l'article R. 222-14 du code du sport et de la formation préalable prévue à l'article R. 222-19.
+
+Lorsqu'une licence délivrée à une personne morale était en cours de validité à la date de publication du présent décret, la personne physique ayant passé l'examen pour le compte de cette personne morale qui en fait la demande dans le délai prévu au premier alinéa obtient une licence d'agent sportif sans avoir à subir à nouveau l'examen ni suivre la formation préalable. Elle peut exercer l'activité d'agent sportif dans l'attente de la décision de la commission des agents sportifs.
+
+La commission des agents sportifs fixe, trois mois au plus tard après la date de publication du présent décret, les conditions de forme dans lesquelles sont effectuées les demandes de licence d'agent sportif mentionnées au présent article.
