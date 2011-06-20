@@ -939,7 +939,7 @@ Concours externe
 
 Epreuves écrites d'admissibilité :
 
-1. L'épreuve de culture disciplinaire porte sur la thématique générale de  culture et société . Elle s'appuie sur le programme de référence.
+1. L'épreuve de culture disciplinaire porte sur la thématique générale de culture et société . Elle s'appuie sur le programme de référence.
 
 Le sujet prend la forme d'une question, d'un thème pouvant s'appuyer sur une courte citation. Le candidat doit rédiger une composition faisant appel à ses connaissances dans le champ concerné et à leur actualité.
 
@@ -2255,6 +2255,180 @@ L'épreuve vise à évaluer :
 
 4. Cette épreuve est présentée aux articles 3 et 4 du présent arrêté.
 
+SECTION INGÉNIERIE DE FORMATION PROFESSIONNELLE
+
+Concours externe
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">
+<br/>NATURE DES ÉPREUVES</p>
+</td>
+<td>
+<p align="center">
+<br/>DURÉE</p>
+</td>
+<td>
+<p align="center"> COEFFICIENT</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuves écrites d'admissibilité<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1. Culture disciplinaire<br/>
+</td>
+<td align="center">
+<br/>5 heures<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2. Etude de thème(s)<br/>
+</td>
+<td align="center">
+<br/>5 heures<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuves orales d'admission<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3. Exercice pédagogique<br/>
+</td>
+<td align="center">
+<br/>Préparation : 2 heures<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Exposé : 30 minutes maximum<br/>
+<br/>Entretien : 30 minutes maximum<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4. Epreuve professionnelle : exposé et entretien avec le jury<br/>
+</td>
+<td align="center">
+<br/>Préparation : 1 heure<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Exposé : 15 minutes maximum<br/>
+<br/>Entretien : 30 minutes maximum<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Epreuves écrites d'admissibilité :
+
+1. La première épreuve d'admissibilité porte sur les connaissances fondamentales en sciences de l'ingénierie de la formation et sur la capacité des candidats à les mobiliser dans l'exercice des missions d'un chargé d'ingénierie au sein de l'enseignement agricole.
+
+L'épreuve s'appuie sur un corpus de documents mettant en avant une thématique. A partir de l'analyse critique de ces documents et d'un questionnement mettant en jeu des aspects relevant du champ de l'ingénierie, le candidat construit une argumentation structurée en mobilisant des connaissances relatives aux dispositifs de formation et à la structuration de l'appareil de formation, dans un contexte social, professionnel et réglementaire.
+
+L'épreuve doit permettre d'apprécier :
+
+- le niveau des savoirs, des connaissances et des démarches exposées ou mobilisées ;
+
+- la capacité du candidat à faire des choix pertinents concernant les aspects à développer au regard du sujet et à les argumenter ;
+
+- la capacité du candidat à situer son analyse et ses propositions dans un contexte social, professionnel et réglementaire ;
+
+- la capacité du candidat à structurer son exposé et la qualité de l'expression écrite.
+
+2. La deuxième épreuve d'admissibilité consiste en une étude de cas portant sur l'exercice des missions de l'enseignement agricole, au niveau des établissements, centres de formation et réseaux. Elle vise à vérifier les capacités du candidat à utiliser ses compétences en matière d'ingénierie. Le candidat pourra être amené à analyser et à interpréter le cas sous les aspects suivants : techniques, humains, pédagogiques, réglementaires, juridiques et financiers.
+
+L'épreuve doit permettre d'apprécier :
+
+- la capacité du candidat à mobiliser ses connaissances en ingénierie dans l'étude d'une situation professionnelle ;
+
+- la capacité de réflexion du candidat sur la place de l'ingénierie de formation dans le système éducatif, et en particulier dans un établissement d'enseignement technique agricole ;
+
+- les capacités d'expression et de communication du candidat.
+
+Epreuves orales d'admission :
+
+3. L'épreuve consiste en la présentation d'un exposé destiné à un public prédéfini relatif :
+
+- soit à une action d'élaboration, d'organisation et de gestion d'une formation ;
+
+- soit aux modalités d'accompagnement, de suivi et de régulation de parcours de formation ;
+
+- soit à une action de coordination et d'animation d'une équipe de formateurs face à une situation contextualisée ;
+
+- soit à une action de coordination et d'animation de professionnels associés à la formation.
+
+Le candidat peut disposer de documents correspondant au thème proposé mis à disposition par le jury. Il peut aussi lui être proposé de choisir une situation liée à son expérience personnelle.
+
+L'exposé est suivi d'un entretien avec le jury portant sur l'exposé réalisé et sur d'autres aspects de l'activité professionnelle d'un chargé d'ingénierie de formation en établissement public local d'enseignement et de formation professionnelle agricole.
+
+L'épreuve vise à évaluer :
+
+- la cohérence, la faisabilité et la pertinence de la démarche proposée par le candidat en fonction du contexte défini ;
+
+- la capacité du candidat à conduire une action d'ingénierie dans un contexte défini ;
+
+- la capacité du candidat à adopter des modes de communication adaptés, à animer et à réguler un groupe ;
+
+- la capacité du candidat à analyser ses propres pratiques.
+
+4. Cette épreuve est présentée aux articles 3 et 4 du présent arrêté.
+
 SECTION NAVIGATION ET TECHNIQUE DU NAVIRE
 
 Concours externe
@@ -2264,12 +2438,16 @@ Concours externe
 <table>
 <tbody>
 <tr>
-<th>NATURE DES ÉPREUVES<br/>
-</th>
-<th>DURÉE<br/>
-</th>
-<th>COEFFICIENT<br/>
-</th>
+<td>
+<p align="center"> NATURE DES ÉPREUVES<br/>
+</p>
+</td>
+<td>
+<p align="center"> DURÉE</p>
+</td>
+<td>
+<p align="center"> COEFFICIENT</p>
+</td>
 </tr>
 <tr>
 <td align="center">Epreuves écrites d'admissibilité<br/>

@@ -1,6 +1,6 @@
 # Article 1
 
-A compter de la session 2011, les concours prévus à l'article 4 du décret du 24 janvier 1990 susvisé sont organisés conformément aux modalités définies dans le présent arrêté, dans les sections et éventuellement options suivantes du certificat d'aptitude au professorat de l'enseignement du second degré agricole :
+A compter de la session 2011, les concours prévus à l'article 4 du décret du 24 janvier 1990 susvisé sont organisés conformément aux modalités définies dans le présent arrêté, dans les sections et éventuellement options suivantes du certificat d'aptitude au professorat de lycée professionnel agricole :
 
 Section mathématiques - physique-chimie ;
 
@@ -65,6 +65,8 @@ Section chef de travaux :
 ― option A : exploitation agricole, productions végétales dominantes ;
 
 ― option B : exploitation agricole, productions animales dominantes ;
+
+Section ingénierie de formation professionnelle ;
 
 Sections enseignement maritime :
 
