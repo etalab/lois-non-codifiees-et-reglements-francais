@@ -2,7 +2,7 @@
 
 Les épreuves facultatives du baccalauréat technologique sont fixées comme suit :
 
-- Série ST2S : langue vivante étrangère ou régionale, langue des signes française (LSF), éducation physique et sportive.
+- Série ST2S : langue vivante étrangère ou régionale, langue des signes française (LSF), éducation physique et sportive, arts.
 
 Cette disposition est applicable à compter de la session 2009 et prend effet pour les épreuves anticipées passées en 2008.
 
