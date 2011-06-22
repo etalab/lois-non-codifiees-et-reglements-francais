@@ -1,7 +1,9 @@
 # Article CTS 36
 
-Rapport de vérification périodique.
+Centralisation des rapports. - Vignettes
 
-§ 1. Le rapport de vérification périodique doit comprendre au minimum les éléments mentionnés dans les annexes VI ou VII. Il est adressé au propriétaire de l'établissement et au préfet ayant délivré le registre de sécurité. Toute anomalie grave de nature à entraîner le retrait du registre de sécurité est signalée au préfet l'ayant délivrée.
+Tous les rapports de vérification sont centralisés par les bureaux de vérification visés à l'article CTS 4.
 
-§ 2. Le propriétaire d'un CTS tient à disposition de l'organisme agréé de vérification technique CTS auquel il fait appel le registre de sécurité, l'extrait de registre et l'ensemble des rapports de vérifications et autres documents de contrôle relatifs à l'exploitation de l'établissement.
+Des vignettes, attestant des vérifications, doivent être apposées sur les équipements et les installations par les bureaux de vérification lorsque les réserves éventuelles ont été levées.
+
+Les équipements techniques (chauffage, cuisson, électricité, gradins...) munis de leurs vignettes respectives en cours de validité peuvent être utilisés dans des établissements différents.

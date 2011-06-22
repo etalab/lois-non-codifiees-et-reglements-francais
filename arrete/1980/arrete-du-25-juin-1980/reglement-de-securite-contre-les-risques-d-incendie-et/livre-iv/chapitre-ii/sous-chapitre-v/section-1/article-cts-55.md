@@ -1,10 +1,10 @@
 # Article CTS 55
 
-Demande de registre de sécurité. - Notice de montage.
+Attestation de conformité, registre de sécurité, notice de montage
 
-§ 1. Demande de registre de sécurité :
+§ 1. Attestation de conformité :
 
-Les dispositions de l'article CTS 3 s'appliquent. Le rapport de l'organisme agréé de vérification technique CTS doit porter sur la stabilité mécanique de l'ossature (montage et assemblage) pour chacune des configurations de montage prévues dans la notice du fabricant.
+Les dispositions de l'article CTS 3 s'appliquent. Le rapport du bureau de vérification habilité doit porter sur la stabilité mécanique de l'ossature (montage et assemblage) pour chacune des configurations de montage prévues dans la notice du fabricant.
 
 § 2. Registre de sécurité :
 

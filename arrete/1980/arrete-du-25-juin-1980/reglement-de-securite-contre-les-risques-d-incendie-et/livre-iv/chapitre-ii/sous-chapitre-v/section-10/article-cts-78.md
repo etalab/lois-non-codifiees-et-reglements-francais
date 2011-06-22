@@ -1,5 +1,5 @@
 # Article CTS 78
 
-Vérifications techniques
+Vérifications
 
-Les dispositions de l'article CTS 35 s'appliquent.
+Les dispositions des articles CTS 33 et CTS 35 s'appliquent.

@@ -218,6 +218,7 @@
 - [Décret n°2011-440 du 20 avril 2011 (ESRS1107907D)](decret-n2011-440-du-20-avril-2011-esrs1107907d)
 - [Décret n°2011-441 du 20 avril 2011 (AGRT1101337D)](decret-n2011-441-du-20-avril-2011-agrt1101337d)
 - [Décret n°2011-442 du 20 avril 2011 (MCCK1107218D)](decret-n2011-442-du-20-avril-2011-mcck1107218d)
+- [Décret n°2011-694 du 20 juin 2011 (AGRT1113544D)](decret-n2011-694-du-20-juin-2011-agrt1113544d)
 - [Décret n°2011-553 du 20 mai 2011 (AGRT1102115D)](decret-n2011-553-du-20-mai-2011-agrt1102115d)
 - [Décret n°2011-554 du 20 mai 2011 (EFIR1111651D)](decret-n2011-554-du-20-mai-2011-efir1111651d)
 - [Décret n°2011-555 du 20 mai 2011 (DEFD1101368D)](decret-n2011-555-du-20-mai-2011-defd1101368d)

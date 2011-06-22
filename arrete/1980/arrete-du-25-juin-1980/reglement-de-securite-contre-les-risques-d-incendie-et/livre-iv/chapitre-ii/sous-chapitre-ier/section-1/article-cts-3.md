@@ -1,23 +1,19 @@
 # Article CTS 3
 
-Demande de registre de sécurité.
+Attestation de conformité
 
-§ 1. Le registre de sécurité est délivré par le préfet du département dans lequel l'établissement est fabriqué, assemblé ou implanté pour la première fois sur le territoire français, après avis de la commission consultative départementale de sécurité et d'accessibilité. La délivrance du registre de sécurité vaut autorisation d'exploiter l'établissement selon les dispositions de l'article CTS 31.
+§ 1.L'attestation de conformité au présent règlement est délivrée par le préfet du département dans lequel l'établissement est construit, assemblé ou implanté pour la première fois, après avis de la commission consultative départementale de la protection civile.
 
-Compte tenu de la spécificité des établissements (ensembles démontables) et de leurs conditions particulières d'exploitation, leur propriétaire ou le fabricant doit au préalable faire appel à un organisme agréé de vérification technique CTS, afin d'établir le registre de sécurité en conformité avec le présent règlement, avant de le transmettre au préfet du département. La composition de ce registre de sécurité est précisée dans l'annexe I au présent chapitre.
+Compte tenu des dispositions particulières d'exploitation de ces établissements, le propriétaire ou le constructeur doit au préalable faire appel à un " bureau de vérification ", bureau centralisateur des demandes et habilité par le ministre de l'intérieur dans les conditions prévues à l'article CTS 4.
 
-L'organisme agréé de vérification technique CTS adresse les documents mentionnés aux chapitre I et chapitre II de l'annexe I au moins un mois avant la date prévue pour la première implantation, au préfet du département dans lequel cette opération est effectuée ou au préfet de police pour Paris.
+La demande du propriétaire ou du constructeur doit parvenir au bureau de vérification dans un délai tel qu'il permette à ce dernier de saisir la commission de sécurité au moins 8 jours avant la date prévue pour la 1re implantation.
 
-Les autres pièces du dossier sont transmises dès que possible au préfet, pour avis, en vue de la délivrance du registre de sécurité.
+§ 2. Le rapport du bureau de vérification doit porter sur les domaines suivants :
 
-§ 2. Pour les établissements atypiques, innovants, à structures à étage, à implantation prolongée ou disposant d'aménagements intérieurs, le registre de sécurité ne peut être délivré qu'après la visite de la commission de sécurité et la notification d'avis favorable vaut registre de sécurité provisoire.
+-la stabilité mécanique de l'ossature (montage et assemblage) ;
 
-§ 3. Pour les établissements modulaires ou multistandard à la conception, conformes à un modèle type d'un fabricant, ou pour les établissements sans aménagement intérieur, le registre de sécurité peut être délivré par le préfet sans la visite de l'établissement par la commission de sécurité.
+-la réaction au feu de l'enveloppe.
 
-Toutes les configurations prévues par le fabricant sont décrites dans le dossier adressé au préfet conformément à l'annexe I.
+En ce qui concerne les autres vérifications techniques (chauffage, électricité, moyens de secours, etc.), il est fait appel aux personnes ou aux organismes agréés, en application notamment de l'article R. 123-43 du code de la construction et de l'habitation. Toutefois, dans certains cas exceptionnels nécessitant une intervention immédiate, le bureau de vérification peut formuler un premier avis dans les domaines précités. Cet avis ne se substitue pas à l'intervention des personnes ou des organismes agréés qui doit être effectuée dans un délai maximal de 2 mois après la 1re admission au public.
 
-Le récépissé de dépôt du dossier accompagné de l'avis technique favorable formulé par un organisme agréé de vérification technique CTS vaut registre de sécurité provisoire.
-
-§ 4. Dans un délai ne dépassant pas un mois après la première implantation, le préfet attribue un numéro d'identification à l'établissement et retourne le registre de sécurité à l'organisme agréé de vérification technique CTS ayant fait la demande.
-
-Pour Paris, la demande de registre de sécurité est adressée au préfet de police.
+§ 3. Pour les établissements étrangers, la délivrance de l'attestation de conformité doit s'effectuer dans les mêmes conditions que pour les établissements nouveaux.

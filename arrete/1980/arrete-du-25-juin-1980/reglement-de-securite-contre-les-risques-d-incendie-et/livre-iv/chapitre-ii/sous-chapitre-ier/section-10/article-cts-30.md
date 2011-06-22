@@ -2,8 +2,14 @@
 
 Registre de sécurité
 
-§ 1. Le registre de sécurité de l'établissement délivré par le préfet possède le même numéro d'identification que l'établissement auquel il se rapporte. Il est tenu à jour par le propriétaire.
+§ 1. Chaque propriétaire doit tenir à jour, pour chaque établissement, un registre de sécurité.
 
-Le contenu de ce document est détaillé dans l'annexe I du présent chapitre. Il doit faire apparaître clairement l'ensemble des caractéristiques de l'établissement ainsi que les documents complémentaires de contrôle.
+Ce document, dont le contenu figure en annexe I, doit comprendre :
 
-§ 2. Des extraits de registre, dont le contenu figure en annexe II, sont délivrés aux organisateurs d'une manifestation ou d'un spectacle pour une implantation donnée. Ces derniers doivent les remplir et les parapher.
+-une partie visée par le commissaire de la République : l'attestation de conformité visée à l'article CTS 3 ;
+
+-une partie tenue à jour par le propriétaire relative à l'exploitation ;
+
+-le plan de base et la photographie de l'établissement (avec ses extensions possibles).
+
+§ 2. En aucun cas il ne peut être délivré un duplicata de ce registre. Toutefois, des extraits, dont le contenu figure en annexe II, peuvent être délivrés aux organisateurs d'une manifestation ou d'un spectacle pour une implantation donnée. Un double du registre de sécurité doit être conservé par le commissaire de la République qui a délivré l'attestation de conformité.

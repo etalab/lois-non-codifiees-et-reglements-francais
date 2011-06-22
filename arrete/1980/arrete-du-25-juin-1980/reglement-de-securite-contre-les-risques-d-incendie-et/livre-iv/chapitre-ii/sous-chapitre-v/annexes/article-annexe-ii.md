@@ -2,161 +2,26 @@
 
 Extrait du registre de sécurité
 
-INFORMATIONS MINIMALES DEVANT FIGURER DANS L'EXTRAIT DU REGISTRE DE SÉCURITÉ
+I. - Partie réservée au propriétaire
 
-I. - Renseignements concernant le registre de sécurité de l'établissement
+Numéro du registre de sécurité.
 
-Evacuation de l'établissement
+Nom, raison sociale et adresse du propriétaire.
 
-Vitesse de vent supérieure à : km/h
+Date de la visite de réception, lieu, autorité qui a délivré la conformité.
 
-Epaisseur de neige supérieure à : cm
+Dimensions et coloris de l'établissement.
 
-Numéro d'identification :
+Référence des procès-verbaux de réaction au feu (si non-marquage NF).
 
-Date de la délivrance du registre de sécurité :
+Date et visa du bureau de vérification qui a délivré l'extrait (partie réservée au propriétaire) et qui atteste de la conformité des installations.
 
-Autorité qui a délivré le registre de sécurité (CTS 3) :
+Mention de la conformité au règlement des installations électriques propres à l'établissement et date de la dernière vérification.
 
-Date de la prochaine visite périodique (CTS 34) :
+II. - Partie réservée à l'organisateur de la manifestation ou du spectacle
 
-II. - Partie réservée au propriétaire
+Nom, raison sociale et adresse de l'organisateur.
 
-Nom, raison sociale, adresse, téléphone et courriel du propriétaire :
+Activité(s) prévue(s).
 
-Caractéristiques de l'établissement :
-
-Dimensions (hauteur, largeur, longueur, nombre de modules) :
-
-Surface maximale :
-
-Coloris de l'établissement à l'origine :
-
-Référence(s) du rapport de solidité réalisé par un organisme agréé par le ministère de l'intérieur, si l'établissement est susceptible de recevoir plus de 300 personnes :
-
-Référence des procès-verbaux de réaction au feu (si non marquage NF) :
-
-III. - Schéma(s) de montage
-
-3.1. Description des configurations possibles de l'établissement prévues par le fabricant.
-
-3.2. Schémas de l'établissement décrivant les éléments concourant à la solidité et à la stabilité, complétés par les dimensions des pièces principales de la structure de l'établissement y compris les valeurs de liaisonnement au sol.
-
-Exemple :
-
-Vous pouvez consulter le tableau dans le JO n° 52 du 03/03/2010 texte numéro 26
-
-IV. - Suivi de l'évolution de l'établissement
-
-Date et lieu du dernier passage de la commission de sécurité :
-
-<table>
-<tbody>
-<tr>
-<th>
-<br/>CONTRÔLES</th>
-<th>
-<br/>ORGANISMES</th>
-<th>
-<br/>DATE</th>
-<th>
-<br/>VALIDITÉ</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Structure</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Installations électriques (1)</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gradins (1)</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chauffage (1)</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ventilation (1)</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Extincteurs (1)</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>(1) Cette rubrique n'est renseignée que si l'établissement dispose d'installations techniques qui lui sont propres. Dans le cas contraire, les installations doivent être vérifiées par une personne ou un organisme agréé. Il y a lieu de vérifier la présence des vignettes en cours de validité.</td>
-</tr>
-</tbody>
-</table>
-
-V. - Partie réservée à l'organisateur de la manifestation ou du spectacle
-
-a) Nom, raison sociale et adresse de l'organisateur.
-
-b) Date(s), lieu et durée de la manifestation.
-
-c) Activité(s) prévue(s).
-
-d) Effectif(s) théorique(s) du public reçu (en fonction des activités prévues).
-
-e) Visa du propriétaire et de l'organisateur ou le pétitionnaire.
-
-f) Date, nom du vérificateur et visa de l'organisme agréé de vérification technique CTS qui a délivré l'extrait du registre de sécurité et qui atteste de la conformité des installations propres à l'établissement.
+Effectif(s) du public reçu (en fonction des activités prévues).
