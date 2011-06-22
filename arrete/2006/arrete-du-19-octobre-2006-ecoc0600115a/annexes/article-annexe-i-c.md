@@ -184,14 +184,22 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Alpha amylase de Bacillus licheniformis SJ7199 contenant le gène codant une alpha amylase de Bacillus stearothermophilus. <br/>
+<td align="left" valign="top">
+<p align="left">Alpha amylase de Bacillus licheniformis SJ7199 contenant le gène codant une alpha amylase de Bacillus stearothermophilus. <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p>Enzymes.</p>
 </td>
-<td align="left" valign="top">Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie </td>
-<td align="left" valign="top">Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides.</td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Industrie de la brasserie, de l'amidonnerie, de l'alcool et de la sucrerie </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons endo-alpha-1-4- glycosidiques des oligosaccharides et des polysaccharides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2083,30 +2091,60 @@
 <td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
-<td align="left" valign="top">Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum.</td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale. <p>Viennoiserie, biscuiterie, pâtisserie. <br/>
+<td align="left" valign="top">
+<p align="left">Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale. </p>
+<p align="left">Viennoiserie, biscuiterie, pâtisserie. <br/>
 </p>
 </td>
-<td align="left" valign="top">Modification des interactions triglycérides / gluten. <br/>
+<td align="left" valign="top">
+<p align="left">Modification des interactions triglycérides / gluten. <br/>
+</p>
 </td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable. <br/>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum.</td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Industrie des huiles alimentaires.</td>
-<td align="left" valign="top">Hydrolyse des triglycérides. </td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Industrie des huiles alimentaires.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des triglycérides. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="top">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum. </td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Panification (à l'exception du pain de tradition française). <p>Viennoiserie.</p>
+<td align="left" valign="top">
+<p align="left">Lipase issue de la souche de Pichia angusta B14-CBSsynt modifiée génétiquement contenant un gène synthétique codant la lipase de Fusarium heterosporum. </p>
 </td>
-<td align="left" valign="top">Modification des interactions triglycérides/gluten.</td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française). </p>
+<p align="left">Viennoiserie.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Modification des interactions triglycérides/gluten.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2146,6 +2184,23 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Lipase immobilisée d'une souche de Rhizopus niveus non génétiquement modifiée (NL-1). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Industrie des huiles et graisses alimentaires. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des triglycérides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Lysophospholipase d'Aspergillus niger ATCC 13496.</p>
 </td>
 <td align="left" valign="top">
@@ -2165,10 +2220,18 @@
 <td align="left" valign="top">
 <p align="left">Lysophospholipase d'Aspergillus niger génétiquement modifiée Lp-1.</p>
 </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Amidonnerie.<br/>Industrie de l'alcool. </td>
-<td align="left" valign="top">Hydrolyse des lysophospholipides. </td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie.<br/>Industrie de l'alcool. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des lysophospholipides. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2462,14 +2525,23 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). </td>
-<td align="left" valign="top">Enzymes</td>
-<td align="left" valign="top">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine. <br/>
-</td>
-<td align="left" valign="top">Hydrolyse des phospholipides. <br/>
+<td align="left" valign="top">
+<p align="left">Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). </p>
 </td>
 <td align="left" valign="top">
-<br/>Teneur résiduelle techniquement inévitable. </td>
+<p align="left">Enzymes</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des phospholipides. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2530,14 +2602,24 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
+<td align="left" valign="top">
+<p align="left">Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
+</p>
 </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
 </td>
-<td align="left" valign="top">Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
+<td align="left" valign="top">
+<p align="left">Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
+</p>
 </td>
-<td align="left" valign="top">Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2577,11 +2659,19 @@
 <tr>
 <td align="left" valign="top">
 <br/>Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. </td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Jus de fruits. <br/>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
 </td>
-<td align="left" valign="top">Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. </td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable. <br/>
+<td align="left" valign="top">
+<p align="left">Jus de fruits. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2647,11 +2737,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Protéase d'Aspergillus niger recombinée génétiquement GEP 44.</td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Bière.<br/>Hydrolysats de protéines. </td>
-<td align="left" valign="top">Hydrolyse de la liaison peptidique au niveau du groupe carboxyl des résidus proline.</td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Protéase d'Aspergillus niger recombinée génétiquement GEP 44.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bière.<br/>Hydrolysats de protéines. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la liaison peptidique au niveau du groupe carboxyl des résidus proline.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2690,11 +2790,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Protéase de Bacillus amyloliquefaciens autocloné. </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
-<td align="left" valign="top">Hydrolyse des liaisons peptidiques des protéines.</td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Protéase de Bacillus amyloliquefaciens autocloné. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières, produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons peptidiques des protéines.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2750,11 +2860,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Production d'hydrolysats de protéines. </td>
-<td align="left" valign="top">Hydrolyse des liaisons peptidiques des protéines avec une segmentation préférentielle pour Leu¹Phe.</td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Production d'hydrolysats de protéines. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons peptidiques des protéines avec une segmentation préférentielle pour Leu¹Phe.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3097,13 +3217,39 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. <br/>
-</td>
-<td align="left" valign="top">Enzymes</td>
-<td align="left" valign="top">Brasserie, amidonnerie, alcool.</td>
-<td align="left" valign="top">Hydrolyse des liaisons α1-6 glycosidiques des polysaccharides.</td>
 <td align="left" valign="top">
-<br/>Teneur résiduelle techniquement inévitable</td>
+<p align="left">Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brasserie, amidonnerie, alcool.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons α1-6 glycosidiques des polysaccharides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Pullulanase de type I ou pullulane 6-glucohydrolase d'une souche non génériquement modifiée de Pullulanibacillus sp. DSM 22469.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Production d'édulcorants et de maltodextrines à partir d'amidon.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha 1-6 glucosides de l'amidon.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3123,11 +3269,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Ribonucléase de Penicillium citrinum sous formes granulée et poudre.</td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Extraits de levures hydrolysés. </td>
-<td align="left" valign="top">Traitement d'extraits de levures.<br/>Hydrolyse de polyribonucléotides. </td>
-<td align="left" valign="top">Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. </td>
+<td align="left" valign="top">
+<p align="left">Ribonucléase de Penicillium citrinum sous formes granulée et poudre.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Extraits de levures hydrolysés. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Traitement d'extraits de levures.<br/>Hydrolyse de polyribonucléotides. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable. L'absence de citrinine dans la préparation enzymatique et dans le produit fini doit être contrôlée régulièrement. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3338,18 +3494,38 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </td>
-<td align="left" valign="top">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Produits de boulangerie et boulangerie fine à l'exception du pain de tradition française. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="top">Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. </td>
-<td align="left" valign="top">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses. A la dose strictement nécessaire pour obtenir l'effet recherché. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3403,13 +3579,40 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</td>
-<td align="left" valign="top">Enzymes <br/>
+<td align="left" valign="top">
+<p align="left">Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</p>
 </td>
-<td align="left" valign="top">Brasserie </td>
-<td align="left" valign="top">Hydrolyse des liaisons osidiques des hémicelluloses. <br/>
+<td align="left" valign="top">
+<p align="left">Enzymes. <br/>
+</p>
 </td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Brasserie.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Xylanase d'une souche de Trichoderma longibrachiatum non génétiquement modifiée CBS 614.94.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.</p>
 </td>
 </tr>
 </tbody>

@@ -136,7 +136,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
+<p>Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -589,7 +589,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g par hectolitre de bière.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm.</p>
+<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm </p>
 <br/>
 </td>
 </tr>
@@ -635,6 +635,23 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <td align="left" valign="top">
 <p>Dose techniquement inévitable. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cires autorisées par l'arrêté du 2 octobre 1997 (cires de carnauba, de candelilla et cire d'abeille). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de démoulage. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Biscuiterie, viennoiserie, pâtisserie, panification sèche (à l'exception du pain de tradition française).</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 6 % (p/p) de cires (pour l'une des cires utilisée seule, ou la somme de deux ou trois cires utilisées en combinaison) dans la formulation d'agents de démoulage à base d'huiles ou de graisses végétales.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
@@ -1040,7 +1057,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1131,7 +1148,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
+<p>A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1325,7 +1342,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
