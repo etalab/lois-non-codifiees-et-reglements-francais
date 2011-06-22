@@ -1,39 +1,55 @@
 # Article 5
 
-La demande de candidature comprend :
+I.-Epreuves de type I :
 
-I.-Pour tous les candidats :
+Pour les épreuves de type I mentionnées à l'article R. 6152-303 du code de la santé publique, la demande de candidature comprend :
 
--un dossier technique tel que défini à l'article 6 ;
+1. Le formulaire d'inscription dûment complété et signé.
 
--un formulaire d'inscription dûment complété et signé, conforme au modèle fixé à l'annexe II du présent arrêté ;
+2. La copie lisible de la pièce d'identité, du passeport ou du titre de séjour.
 
--la photocopie lisible de la pièce d'identité, du passeport ou du titre de séjour ;
+3. La copie du diplôme, certificat ou autre titre autorisant l'exercice de la profession dans le pays d'obtention.
 
--la copie du diplôme, certificat ou autre titre autorisant l'exercice de la profession dans le pays d'obtention, accompagnée d'une attestation de conformité aux directives européennes lorsque le diplôme, certificat ou autre titre a été délivré par un des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
+4. La copie du diplôme ou certificat ou autre titre permettant l'exercice de la spécialité d'inscription.
 
--la copie du document attestant de l'inscription auprès de l'ordre des pharmaciens, chirurgiens-dentistes ou médecins, mentionnant la date de la première inscription auprès de l'ordre et, pour les médecins, la qualification ordinale ;
+Lorsqu'il n'existe pas de diplôme, certificat ou autre titre correspondant à l'une des spécialités offertes au concours, la copie de l'un des diplômes, certificat ou autre titre tels que définis à l'annexe I du présent arrêté.
 
--la copie du diplôme, certificat ou autre titre permettant l'exercice de la spécialité d'inscription, tel que mentionné à l'annexe I du présent arrêté, ou, pour les médecins, de la qualification ordinale dans ladite spécialité. La copie du diplôme, certificat ou autre titre précité doit être accompagnée d'une attestation de conformité aux directives européennes lorsque le diplôme, certificat ou autre titre a été délivré par un des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen.
+Lorsque le diplôme, certificat ou autre titre mentionné aux 3° et 4° ci-dessus a été délivré par un des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen, ou par la Confédération suisse, la copie du diplôme, certificat ou autre titre précité doit être accompagnée d'une attestation de conformité à la directive 2005/36/ CE du Parlement européen et du Conseil de l'Europe du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
 
-II.-En sus des pièces mentionnées au I, la demande de candidature comprend :
+5. La copie du document attestant de l'inscription auprès de l'ordre des médecins, pharmaciens et chirurgiens-dentistes, mentionnant la date de la première inscription auprès de l'ordre ; cette attestation n'est pas exigée pour les personnes visées par les articles L. 4112-6 et L. 4222-7 du code de la santé publique.
 
-a) Pour les personnes titulaires d'un diplôme, certificat ou autre titre obtenu en dehors de l'Union européenne, ou pour les personnes de nationalité hors Union européenne titulaires d'un diplôme, certificat ou autre titre délivré par un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, la copie de l'autorisation définitive d'exercer la profession sur tout le territoire français, délivrée par le ministre chargé de la santé ;
+6. Les pièces justificatives attestant des fonctions exercées dans une administration, un établissement public ou un organisme à but non lucratif, soit les arrêtés de nomination, les contrats de travail ou les attestations délivrées par l'autorité ayant procédé à leur nomination ou à leur recrutement ; ces pièces doivent clairement mentionner la nature des fonctions exercées, les périodes ainsi que les quotités de travail. Les fonctions équivalentes exercées dans un des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen sont prises en compte dans les mêmes conditions.
 
-b) Lorsqu'il n'existe pas de diplôme, certificat ou autre titre correspondant à l'une des spécialités offertes au concours, la copie de l'un des diplômes, certificats ou autres titres tels que définis à l'annexe I du présent arrêté ;
+L'absence de pièces permettant d'apprécier la nature et la durée des fonctions exigées entraîne l'inscription du candidat aux épreuves de type II, sous réserve que la demande de candidature contienne les pièces requises aux points 1 à 5 de l'article 4 du présent arrêté.
 
-c) Pour les candidats de la discipline biologie non titulaires du diplôme d'études spécialisées de biologie médicale :
+II.-Epreuves de type II :
 
--la copie de quatre des certificats d'études spéciales énumérés à l'article D. 6221-2 du code de la santé publique ;
+Pour les candidats aux épreuves de type II mentionnées à l'article R. 6152-304 du code de la santé publique, la demande de candidature comprend :
 
--ou la copie de l'autorisation d'exercer les fonctions de directeur ou directeur adjoint de laboratoire d'analyses de biologie médicale, délivrée à titre exceptionnel au candidat par le ministre chargé de la santé après consultation de la Commission nationale permanente de biologie médicale, en application de l'article L. 6221-2 du code de la santé publique.
+1. Le formulaire d'inscription dûment complété et signé.
 
-III.-En sus des pièces mentionnées aux I et II, la demande de candidature comprend, pour justifier des fonctions effectives mentionnées au deuxième alinéa de l'article R. 6152-303 du code de la santé publique :
+2. La copie lisible de la pièce d'identité, du passeport ou du titre de séjour.
 
--des attestations des autorités qui ont procédé à leur nomination ou recrutement précisant à quelles dates, en quelle qualité, pour quelle durée et selon quelle quotité de travail lesdites fonctions ont été exercées ;
+3. La copie du diplôme, certificat ou autre titre autorisant l'exercice de la profession dans le pays d'obtention ou de l'autorisation ministérielle d'exercice.
 
--pour les fonctions effectuées dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, une attestation précisant en sus la nature juridique et le statut de l'organisme dans lequel lesdites fonctions ont été effectuées.
+4. La copie du diplôme, certificat ou autre titre permettant l'exercice de la spécialité d'inscription, ou :
 
-Toutes les pièces justificatives accompagnant la demande de candidature doivent être rédigées en langue française ou traduites par un traducteur assermenté.
+A.-Lorsqu'il n'existe pas de diplôme, certificat ou autre titre correspondant à l'une des spécialités offertes au concours, la copie de l'un des diplômes, certificat ou autre titre tels que définis à l'annexe I du présent arrêté ;
 
-L'absence ou la production tardive d'une des pièces mentionnées au présent article entraîne le rejet de la demande de candidature.
+B.-Pour les candidats de la discipline biologie non titulaires du diplôme d'études spécialisées de biologie médicale qui relèvent des dispositions de l'article L. 6213-2 du code de la santé publique :
+
+a) Soit la copie de quatre des certificats d'études spéciales énumérés à l'article D. 6221-2 du code de la santé publique ;
+
+b) Soit la copie de l'autorisation d'exercer les fonctions de directeur ou directeur adjoint de laboratoire d'analyses médicales délivrée avant le 15 janvier 2010, en application de l'article L. 6221-2 du code de la santé publique ;
+
+c) Soit la copie de l'attestation d'exercice de la biologie médicale dans un établissement public de santé pendant une durée équivalente à deux ans à temps plein au cours des dix dernières années et, en cas d'exercice dans un domaine de spécialisation déterminée :
+
+-la copie de la pièce justifiant la reconnaissance du domaine de spécialisation (diplôme ou concours, autorisation ou agrément) ; ou
+
+-la copie de la validation ministérielle du domaine de spécialisation après avis de la commission mentionnée à l'article L. 6213-12 du code de la santé publique ;
+
+d) Soit la copie de l'autorisation ministérielle d'exercice de la biologie médicale délivrée en application de l'article L. 6213-3 du code de la santé publique.
+
+Lorsque le diplôme, certificat ou autre titre mentionné aux 3° et 4° ci-dessus a été délivré par un des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen, ou par la Confédération suisse, la copie du diplôme, certificat ou autre titre précité doit être accompagnée d'une attestation de conformité à la directive européenne du 7 septembre 2005 déjà citée.
+
+5. La copie du document attestant de l'inscription auprès de l'ordre des médecins, pharmaciens et chirurgiens-dentistes, mentionnant la date de la première inscription auprès de l'ordre ; cette attestation n'est pas exigée pour les personnes visées par les articles L. 4112-6 et L. 4222-7 du code de la santé publique.

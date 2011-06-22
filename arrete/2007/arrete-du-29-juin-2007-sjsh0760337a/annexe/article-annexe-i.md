@@ -14,9 +14,6 @@
 <td>
 <p>DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -26,10 +23,7 @@
 <p>Biologie médicale. </p>
 </td>
 <td>
-<p>DES de biologie médicale ou équivalent tel que défini à l'article 5-II c du présent arrêté. </p>
-</td>
-<td>
-<br/>
+<p>DES de biologie médicale ou équivalent tel que défini à l'article 5-II 4 b du présent arrêté. </p>
 </td>
 </tr>
 <tr>
@@ -42,9 +36,6 @@
 <td>
 <p>DES de chirurgie générale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -55,9 +46,6 @@
 </td>
 <td>
 <p>DESC de chirurgie viscérale et digestive. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -70,9 +58,6 @@
 <td>
 <p>DESC de chirurgie infantile. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -83,9 +68,6 @@
 </td>
 <td>
 <p>DESC de chirurgie maxillo-faciale et stomatologie. DESC de chirurgie de la face et du cou. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -98,9 +80,6 @@
 <td>
 <p>DESC de chirurgie orthopédique et traumatologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -111,9 +90,6 @@
 </td>
 <td>
 <p>DESC de chirurgie plastique reconstructrice et esthétique. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -126,9 +102,6 @@
 <td>
 <p>DESC de chirurgie thoracique et cardio-vasculaire. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -139,9 +112,6 @@
 </td>
 <td>
 <p>DESC de chirurgie urologique. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -154,9 +124,6 @@
 <td>
 <p>DESC de chirurgie vasculaire. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -167,9 +134,6 @@
 </td>
 <td>
 <p>DES de gynécologie-obstétrique. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -182,9 +146,6 @@
 <td>
 <p>DES de neurochirurgie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td valign="top">
@@ -195,9 +156,6 @@
 </td>
 <td valign="top">
 <p>DES d'ophtalmologie. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -210,9 +168,6 @@
 <td valign="top">
 <p>DES d'oto-rhino-laryngologie et chirurgie cervico-faciale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td valign="top">
@@ -223,9 +178,6 @@
 </td>
 <td valign="top">
 <p>DES de stomatologie. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -238,9 +190,6 @@
 <td valign="top">
 <p>DES d'anatomie et cytologie pathologiques. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -251,9 +200,6 @@
 </td>
 <td>
 <p>DES d'anesthésie-réanimation. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -266,9 +212,6 @@
 <td>
 <p>DES de cardiologie et maladies vasculaires. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -279,9 +222,6 @@
 </td>
 <td>
 <p>DES de dermatologie et vénéréologie. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -294,23 +234,6 @@
 <td>
 <p>DES d'endocrinologie et métabolisme. </p>
 </td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">79 </p>
-</td>
-<td>
-<p>Explorations fonctionnelles. </p>
-</td>
-<td>
-<p>Un des DES de spécialités médicales ou chirurgicales. DES de pédiatrie. DES de gynécologie médicale. DES de gynécologie-obstétrique. </p>
-</td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -321,9 +244,6 @@
 </td>
 <td>
 <p>DES de gastro-entérologie et hépatologie. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -336,9 +256,6 @@
 <td>
 <p>DES de génétique médicale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td>
@@ -349,9 +266,6 @@
 </td>
 <td>
 <p>DESC de gériatrie. Capacité de gérontologie. </p>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -364,9 +278,6 @@
 <td>
 <p>DES d'hématologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td rowspan="2">
@@ -378,10 +289,6 @@
 <td rowspan="2">
 <p>DES d'hématologie. DESC d'hémobiologie transfusion. Capacité de technologie transfusionnelle. </p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -394,374 +301,287 @@
 <td>
 <p align="center">CODE </p>
 </td>
-<td colspan="2">
+<td>
 <p>LIBELLÉ spécialité </p>
 </td>
-<td colspan="2">
-<p>DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité </p>
-</td>
 <td>
-<br/>
+<p>DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité </p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="center">14 </p>
 </td>
-<td colspan="2">
+<td>
 <p>Hygiène hospitalière. </p>
 </td>
-<td colspan="2">
-<p>DES de biologie médicale. DES de santé publique. DES de pharmacie. DESC de pathologie infectieuse et tropicale, clinique et biologique. DESC de biologie des agents infectieux. </p>
-</td>
 <td>
-<br/>
+<p>DES de biologie médicale. DES de santé publique. DES de pharmacie. DESC de pathologie infectieuse et tropicale, clinique et biologique. DESC de biologie des agents infectieux. </p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="center">57 </p>
 </td>
-<td colspan="2">
+<td>
 <p>Immunologie clinique. </p>
 </td>
-<td colspan="2">
-<p>DES d'hématologie. DES de médecine interne. DESC d'allergologie et immunologie clinique. </p>
-</td>
 <td>
-<br/>
+<p>DES d'hématologie. DES de médecine interne. DESC d'allergologie et immunologie clinique. </p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="center">24 </p>
 </td>
-<td colspan="2">
+<td>
 <p>Maladies infectieuses, maladies tropicales. </p>
 </td>
-<td colspan="2">
+<td>
 <p>DES de médecine interne. DESC de pathologie infectieuse et tropicale, clinique et biologique. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">77 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine d'urgence. </p>
 </td>
-<td>
+<td width="422">
 <p>DESC de médecine d'urgence. Capacité de médecine d'urgence. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top" width="35">
 <p align="center">17 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine de la reproduction et gynécologie médicale. </p>
 </td>
-<td>
-<p>DES de gynécologie médicale. DESC de médecine de la reproduction. </p>
-</td>
-<td>
-<br/>
+<td width="422">
+<p>DES de gynécologie médicale. DESC de médecine de la reproduction. DES de gynécologie-obstétrique.</p>
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">23 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine du travail. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de médecine du travail. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">71 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine générale. </p>
 </td>
-<td>
-<p>DES de médecine générale. </p>
-</td>
-<td>
-<br/>
+<td width="422">
+<p>DES de médecine générale qualification en médecine générale annexée au diplôme d'Etat de docteur en médecine. </p>
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">25 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine interne. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de médecine interne. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top" width="35">
 <p align="center">26 </p>
 </td>
-<td colspan="2" valign="top">
+<td valign="top" width="145">
 <p>Médecine légale. </p>
 </td>
-<td>
+<td width="422">
 <p>DESC de médecine légale et expertises médicales. Capacité de pratiques médico-judiciaires. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">44 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine physique et de réadaptation. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de médecine physique et de réadaptation. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">28 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Néphrologie. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de néphrologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">30 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Neurologie. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de neurologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">6 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Oncologie médicale. </p>
 </td>
-<td>
+<td width="422">
 <p>DES d'oncologie, option onco-hématologie. DES d'oncologie, option oncologie médicale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">36 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Pédiatrie. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de pédiatrie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">59 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Pharmacologie clinique et toxicologie. </p>
 </td>
-<td>
+<td width="422">
 <p>Diplôme d'Etat de docteur en pharmacie. DESC de pharmacologie clinique et évaluation des thérapeutiques. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">38 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Pneumologie. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de pneumologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">42 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Oncologie radiothérapique. </p>
 </td>
-<td>
+<td width="422">
 <p>DES d'oncologie, option radiothérapique. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">43 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Réanimation médicale. </p>
 </td>
-<td>
+<td width="422">
 <p>DESC de réanimation médicale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">45 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Rhumatologie. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de rhumatologie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">56 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Santé publique. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de santé publique et médecine sociale. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">75 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Odontologie polyvalente. </p>
 </td>
-<td>
+<td width="422">
 <p>Diplôme d'Etat de docteur en chirurgie dentaire. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">72 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Pharmacie polyvalente et pharmacie hospitalière. </p>
 </td>
-<td>
+<td width="422">
 <p>Diplôme d'Etat de docteur en pharmacie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">74 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Psychiatrie polyvalente. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de psychiatrie. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="35">
 <p align="center">27 </p>
 </td>
-<td colspan="2">
+<td width="145">
 <p>Médecine nucléaire. </p>
 </td>
-<td>
+<td width="422">
 <p>DES de médecine nucléaire. </p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">
+<td width="35">
 <p align="center">41 </p>
 </td>
-<td colspan="2" rowspan="2">
+<td width="145">
 <p>Radiologie. </p>
 </td>
-<td rowspan="2">
+<td width="422">
 <p>DES de radiodiagnostic et imagerie médicale. </p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
-</tr>
-<tr>
-<td width="30"/>
-<td width="45"/>
-<td width="107"/>
-<td width="5"/>
-<td width="273"/>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
