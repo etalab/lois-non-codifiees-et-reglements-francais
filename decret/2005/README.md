@@ -40,7 +40,6 @@
 - [Décret n°2005-453 du 10 mai 2005 (BUDF0500019D)](decret-n2005-453-du-10-mai-2005-budf0500019d)
 - [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
 - [Décret n°2005-790 du 12 juillet 2005 (JUSC0520196D)](decret-n2005-790-du-12-juillet-2005-jusc0520196d)
-- [Décret du 13 septembre 2005 (AGRP0500336D)](decret-du-13-septembre-2005-agrp0500336d)
 - [Décret n° 2005-789 du 13 juillet 2005 (MAEA0520189D)](decret-n-2005-789-du-13-juillet-2005-maea0520189d)
 - [Décret n°2005-1150 du 13 septembre 2005 (INTE0500266D)](decret-n2005-1150-du-13-septembre-2005-inte0500266d)
 - [Décret n°2005-1157 du 13 septembre 2005 (INTE0500252D)](decret-n2005-1157-du-13-septembre-2005-inte0500252d)
