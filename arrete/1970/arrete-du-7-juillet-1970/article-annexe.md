@@ -1,8 +1,6 @@
 # Article Annexe
 
-**COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES FONCTIONNAIRES**
-
-**DES SERVICES JUDICIAIRES APPARTENANT AUX CORPS DE L'ÉTAT POUR L'ADMINISTRATION DE LA POLYNÉSIE FRANÇAISE**
+COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES CORPS DE FONCTIONNAIRES DES SERVICES JUDICIAIRES APPARTENANT AUX CORPS DE L'ÉTAT POUR L'ADMINISTRATION DE LA POLYNÉSIE FRANÇAISE
 
 <table>
 <tbody>
@@ -68,7 +66,7 @@
 </tr>
 <tr>
 <td>
-<p>Greffiers</p>
+<p align="center">Greffiers</p>
 </td>
 <td>
 <p align="center">3</p>
@@ -128,7 +126,7 @@
 </tr>
 <tr>
 <td>
-<p>Adjoints administratifs</p>
+<p align="center">Adjoints administratifs</p>
 </td>
 <td>
 <p align="center">4</p>

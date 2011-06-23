@@ -34,7 +34,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 </tr>
 <tr>
 <td valign="top" width="143">
-<p align="center">Commission n° 1</p>
+<p align="center">Commission n° 25</p>
 </td>
 <td valign="top" width="66">
 <br/>
@@ -106,7 +106,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 </tr>
 <tr>
 <td valign="top" width="143">
-<p align="center">Commission n° 2</p>
+<p align="center">Commission n° 26</p>
 </td>
 <td valign="top" width="66">
 <br/>
