@@ -6,7 +6,9 @@ La durée maximale de validité des accords préalables, permis et agréments de
 
 - permis de transfert : six mois ;
 
-- agrément de transfert : trois ans.
+- agrément de transfert : trois ans ;
+
+- accord préalable de transfert revêtant une forme globale : un an à compter de la date de délivrance, renouvelable par tacite reconduction.
 
 A la demande de l'un des ministres intéressés, la validité de ces décisions peut être réduite à trois mois pour les accords préalables et les permis de transfert et à un an pour les agréments de transfert.
 

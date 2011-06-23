@@ -1,5 +1,11 @@
 # Article 29-1
 
-Les titulaires d'une autorisation d'exportation de produits explosifs délivrée en application des articles D. 2352-7 et R. 2352-2 et suivants du code de la défense ou d'une licence d'exportation délivrée en application du décret du 30 novembre 1944 fixant les conditions d'importation en France et dans les territoires d'outre-mer des marchandises étrangères ainsi que les conditions d'exportation et de réexportation des marchandises hors de France et des territoires français d'outre-mer à destination de l'étranger, en cours de validité à la date du 21 juin 2009, accordée avant cette date pour des opérations d'exportation de matériels ajoutés par l'arrêté du 17 juin 2009 à la liste des matériels de guerre et matériels assimilés soumis à une procédure spéciale d'exportation, sont réputés avoir obtenu, jusqu'au terme de la durée de validité de l'autorisation ou de la licence, l'agrément préalable et l'autorisation d'exportation prévus par les articles L. 2335-2 et L. 2335-3 du code de la défense.
+Le ministre chargé des douanes peut suspendre le permis de transfert, après avis favorable du ministre des affaires étrangères et du ministre de la défense, l'agrément de transfert, après avis favorable du ministre des affaires étrangères, du ministre de la défense et du ministre de l'intérieur, l'accord préalable de transfert, après avis favorable des ministres de la défense et de l'intérieur, dans les cas suivants :
 
-Les opérations d'exportation concernant les matériels ajoutés par l'arrêté du 17 juin 2009 à la liste des matériels de guerre et matériels assimilés soumis à une procédure spéciale d'exportation qui ont fait l'objet d'une commande ou d'un contrat signé avant la date d'entrée en vigueur de l'arrêté du 17 juin 2009 sont réputées avoir obtenu, dans les limites de la commande ou du contrat, l'agrément préalable et l'autorisation d'exportation prévus par les articles L. 2335-2 et L. 2335-3 du code de la défense.
+- lorsque son maintien risque de porter atteinte aux intérêts fondamentaux de la nation, à la défense nationale, à la sécurité publique, à la sécurité extérieure de l'Etat ou aux engagements internationaux de la France ;
+
+- lorsque les conditions auxquelles est subordonnée la délivrance du permis, de l'agrément ou de l'accord préalable ne sont plus réunies ;
+
+- lorsque le titulaire du permis, de l'agrément ou de l'accord préalable cesse l'exercice de l'activité pour laquelle ces derniers ont été délivrés.
+
+La suspension est notifiée au titulaire du permis, de l'agrément de transfert et de l'accord préalable de transfert par le ministre chargé des douanes.

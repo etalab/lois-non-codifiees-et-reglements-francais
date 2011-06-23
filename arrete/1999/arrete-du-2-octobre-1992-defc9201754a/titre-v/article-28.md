@@ -10,7 +10,7 @@ Dans les cas prévus par le décret du 6 mai 1995 susvisé, le permis, l'agréme
 
 § 2. En ce qui concerne les armes, munitions et leurs éléments des b et c de l'article 91 du 6 mai 1995 :
 
-1° Aux fabricants ou commerçants qui ont effectué la déclaration prévue à l'article 6 du décret du 6 mai 1995 ;
+1° Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions de l'article 6, de l'article 7 ou de l'article 8 du décret du 6 mai 1995 ;
 
 2° Aux particuliers, soit pour les transférer vers un autre Etat membre, soit pour les acquérir ou les détenir à titre personnel ou professionnel.
 

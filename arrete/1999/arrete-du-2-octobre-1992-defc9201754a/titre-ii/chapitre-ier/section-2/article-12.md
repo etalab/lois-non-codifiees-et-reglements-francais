@@ -4,8 +4,10 @@ L'arrivée des matériels au pays de destination est garantie par un acquit-à-c
 
 L'acquit-à-caution ou la soumission ne peuvent être déchargés que sur présentation d'un document délivré par les services des douanes du pays importateur établissant que les matériels exportés sont arrivés au pays désigné sur l'acquit-à-caution ou sur la soumission.
 
-Lorsque le document prévu au paragraphe précédent n'a pu être obtenu, l'administration des douanes et droits indirects peut, par dérogation aux dispositions de ce paragraphe, accepter un document contractuel, commercial ou de transport établissant que les matériels sont arrivés au pays désigné sur l'acquit-à-caution ou sur la soumission.
+Par dérogation aux dispositions du précédent alinéa, l'administration des douanes et droits indirects peut accepter, à titre de preuve alternative, un document contractuel, commercial ou de transport établissant que les matériels sont arrivés au pays désigné sur l'acquit-à-caution ou sur la soumission.
 
 L'administration des douanes et droits indirects peut accorder une dispense d'acquit-à-caution ou de soumission pour les envois de faible importance.
 
 Sont dispensées des formalités prévues par le présent article les expéditions des matériels bénéficiant des dérogations prévues aux articles 13 à 16 ou bénéficiant d'une autorisation d'exportation revêtant une forme globale.
+
+Les dispositions du présent article ne sont pas applicables lorsque le pays destinataire est un Etat membre de l'Union européenne.

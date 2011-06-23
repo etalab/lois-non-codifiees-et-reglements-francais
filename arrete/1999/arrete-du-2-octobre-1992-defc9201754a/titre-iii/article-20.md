@@ -4,4 +4,4 @@ Le service des douanes, lorsqu'il estime, tant à l'importation qu'à l'exportat
 
 En ce qui concerne les armes de la première catégorie acquises pour la pratique de tir sportif, les armes de la 4e, de la 5e ou de la 7e catégorie, les contestations visées au précédent alinéa seront examinées dans les conditions fixées au deuxième alinéa de l'article 21.
 
-Les dispositions des deux alinéas précédents sont applicables aux armes, munitions et leurs éléments de la 1re catégorie (§ 1 à 3) acquis à titre personnel, du I de la 4e catégorie, de la 5e et de la 7e catégorie, transférés en provenance ou à destination d'un Etat membre de la Communauté européenne.
+Les dispositions des deux alinéas précédents sont applicables aux armes, munitions et leurs éléments de la 1re catégorie (§ 1 à 3) acquis à titre personnel, du I de la 4e catégorie, de la 5e et de la 7e catégorie, transférés en provenance ou à destination d'un Etat membre de l'Union européenne.
