@@ -445,7 +445,6 @@
 - [Arrêté du 14 novembre 1994 (AGRE9402282A)](arrete-du-14-novembre-1994-agre9402282a)
 - [Arrêté du 14 novembre 1994 (SPSS9403094A)](arrete-du-14-novembre-1994-spss9403094a)
 - [Arrêté du 14 novembre 1994 (SPSS9403095A)](arrete-du-14-novembre-1994-spss9403095a)
-- [Arrêté du 14 novembre 1994 (TEFF9401186A)](arrete-du-14-novembre-1994-teff9401186a)
 - [Arrêté du 14 octobre 1994 (AGRG9402010A)](arrete-du-14-octobre-1994-agrg9402010a)
 - [Arrêté du 14 octobre 1994 (AGRG9402011A)](arrete-du-14-octobre-1994-agrg9402011a)
 - [Arrêté du 14 octobre 1994 (EQUA9401467A)](arrete-du-14-octobre-1994-equa9401467a)
