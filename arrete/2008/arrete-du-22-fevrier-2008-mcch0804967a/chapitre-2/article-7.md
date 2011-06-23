@@ -12,6 +12,8 @@ La commission dispose en outre d'une évaluation de la formation établie conjoi
 
 - un représentant de la direction générale de la création artistique ou, pour les renouvellements d'habilitation, une personnalité qualifiée.
 
+Pour les demandes d'habilitation, jusqu'au 31 décembre 2011, l'évaluation de la formation peut être établie par un des experts désignés ci-dessus.
+
 L'évaluation de la formation donne lieu à un rapport transmis à l'établissement évalué qui fait connaître ses observations. Le rapport et les observations de l'établissement évalué sont remis aux membres de la commission nationale d'habilitation.
 
 Elle peut émettre des recommandations, notamment sur les évolutions souhaitables de l'offre de formation, les objectifs et les contenus d'enseignement proposés.
