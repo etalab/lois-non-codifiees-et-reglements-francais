@@ -2,7 +2,7 @@
 
 Matériel radioélectrique des navires de pêche - Zone océanique A1
 
-Tout navire doit être pourvu :
+Tout navire, autre qu'un navire aquacole conforme à la division 230, doit être pourvu :
 
 1. D'une installation fixe VHF permettant d'émettre et de recevoir des alertes de détresse par ASN et d'assurer une veille permanente sur la voie 70 ;
 
@@ -35,15 +35,3 @@ Cette radiobalise est bi-fréquence 406/121,5 MHz, approuvée de type COSPAS-SAR
 - Une antenne dédiée à l'installation de veille prescrite au paragraphe 1.1 ci dessus n'est pas exigée ;
 
 - Les navires armés en 5e catégorie sont dispensés de l'emport du matériel prescrit dans cet article.
-
-6. Nonobstant les dispositions des paragraphes ci dessus, les navires aquacoles respectent les dispositions particulières suivantes :
-
-- les navires exploités en quatrième catégorie de navigation sont équipés d'une installation VHF fixe ; toutefois cette VHF peut être portative sur les navires dépourvus de timonerie ;
-
-- les navires exploités en troisième catégorie de navigation limitée à 5 milles des côtes sont équipés d'une installation fixe VHF permettant d'émettre et de recevoir des alertes de détresse par ASN et d'assurer une veille permanente sur la voie 70 ;
-
-- tout navire exploité en troisième catégorie de navigation limitée à 5 milles des côtes et armé par une seule personne est équipé d'une radiobalise de survie personnelle adaptée au milieu marin ;
-
-cette radiobalise est portée en permanence.
-
-Cette radiobalise est bi-fréquence 406/121,5 MHz, approuvée de type COSPASSARSAT, équipée d'un système de positionnement par GPS, et codée avec un numéro d'identification maritime (MMSI).

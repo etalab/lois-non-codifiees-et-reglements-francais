@@ -1,8 +1,8 @@
 # Article 130.10
 
-_Plans et documents a fournir_
+Plans et documents a fournir
 
-Les plans et documents permettant de vérifier que les prescriptions des règlements applicables sont satisfaites sont fournis, par l'armateur ou son représentant, dans les conditions prévues aux articles 130. 12, 130. 13 et 130. 14.
+Les plans et documents permettant de vérifier que les prescriptions des règlements applicables sont satisfaites sont fournis, par l'armateur ou son représentant, dans les conditions prévues aux articles 130.12, 130.13, 130.13 bis et 130.14.
 
 Dans tous les cas, les éventuelles demandes de dérogation et / ou d'exemption sont formulées ou confirmées directement par l'armateur.
 
@@ -14,7 +14,7 @@ Les certificats d'approbation des équipements marins embarqués sont fournis (v
 
 L'autorité compétente ne contrôle pas l'authenticité ni l'exactitude des plans, documents et renseignements qui lui sont fournis.
 
-Une liste non limitative de ces plans et documents fait l'objet de l'annexe 130.A. 1 pour les navires dont l'étude est de la compétence de la commission régionale de sécurité ou du chef de centre de sécurité, et de l'annexe 130.A. 2 pour les navires dont l'étude est de la compétence de la commission centrale de sécurité. Tous ces plans et documents sont exigibles dans la mesure où le navire est concerné. Pour les navires dont l'examen est soumis à une commission régionale de sécurité ainsi que pour les navires d'une longueur inférieure à 12 mètres, le    directeur interrégional de la mer peut apporter toutes modifications utiles et fondées dans la composition du dossier type, telle qu'elle est prévue dans l'annexe 130.A. 1.
+Une liste non limitative de ces plans et documents fait l'objet de l'annexe 130.A. 1 pour les navires dont l'étude est de la compétence de la commission régionale de sécurité ou du chef de centre de sécurité, et de l'annexe 130.A. 2 pour les navires dont l'étude est de la compétence de la commission centrale de sécurité. Tous ces plans et documents sont exigibles dans la mesure où le navire est concerné. Pour les navires dont l'examen est soumis à une commission régionale de sécurité ainsi que pour les navires d'une longueur inférieure à 12 mètres, le directeur interrégional de la mer peut apporter toutes modifications utiles et fondées dans la composition du dossier type, telle qu'elle est prévue dans l'annexe 130.A. 1.
 
 Les renseignements et documents énumérés dans les annexes 130.A. 1 et 130.A. 2 sont libellés en français. Les documents des navires construits a l'étranger, rédigés en anglais, peuvent être acceptés. Ils doivent être clairs, lisibles et rédigés d'une manière conforme aux normes en usage. Ils sont transmis à la commission de sécurité compétente dans les délais suffisants permettant leur examen avant la réalisation des travaux sur lesquels portent les documents.
 

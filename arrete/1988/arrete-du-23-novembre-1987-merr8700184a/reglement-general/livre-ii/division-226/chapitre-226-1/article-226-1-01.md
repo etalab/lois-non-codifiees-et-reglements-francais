@@ -13,3 +13,5 @@ Champ d'application.
 2.3. Pour la recherche et la formation ; ou
 
 2.4. Pour le transport de cargaisons de poisson.
+
+3. En outre, les dispositions de la présente division ne s'appliquent pas aux navires aquacoles conformes à la division 230, sous réserve des dispositions des articles 230-1.01 et 230-1.02.

@@ -1,8 +1,6 @@
 # Article 130.03
 
-_Déclaration de mise en chantier_
-
-Déclaration de mise en refonte, modifications importantes ou grande réparation.
+Déclaration de mise en chantier. -Déclaration de mise en refonte, modifications importantes ou grande réparation.
 
 1. Déclaration de mise en chantier :
 
@@ -28,4 +26,4 @@ Lorsque les travaux sont réalisés en France, dans un lieu dépendant d'un cent
 
 Lorsque les travaux sont réalisés à l'étranger, l'armateur en informe également l'autorité consulaire.
 
-Les plans et documents sont transmis, par l'armateur et sous sa responsabilité, au président de la commission de sécurité compétente dans les conditions prévues aux articles 130.12 et 130.13.
+Les plans et documents sont transmis, par l'armateur et sous sa responsabilité, au président de la commission de sécurité compétente dans les conditions prévues aux articles 130.12, 130.13 et 130.13 bis.

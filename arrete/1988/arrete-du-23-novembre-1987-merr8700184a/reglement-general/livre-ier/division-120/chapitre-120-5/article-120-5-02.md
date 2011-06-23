@@ -1,6 +1,6 @@
 # Article 120-5.02
 
-_Navires autres que de plaisance_
+Navires autres que de plaisance
 
 1. L'inspection de la partie directement accessible de la coque des navires est effectuée au moins une fois par an, en principe à l'occasion de la visite périodique.
 
@@ -90,6 +90,8 @@ _Navires autres que de plaisance_
 
 3. La périodicité de visite des navires de pêche d'une longueur inférieure à 12 mètres est celle prescrite par l'article 227-1.07.
 
-4. La date d'échéance normale de la visite de la face externe de la carène et des éléments associés est la date anniversaire de la délivrance du certificat de sécurité.
+4. Nonobstant les paragraphes 2 et 3 ci-dessus, la périodicité de visite des navires aquacoles de longueur inférieure à 24 mètres conformes à la division 230 est celle prescrite par l'article 230-1.06.
 
-5. En cas de visite par plongeurs, la procédure applicable est celle de la société de classification qui a délivré ou renouvelé le certificat de franc-bord, ou si ce dernier est renouvelé par l'autorité, celle de la société de classification reconnue choisie par l'armateur.
+5. La date d'échéance normale de la visite de la face externe de la carène et des éléments associés est la date anniversaire de la délivrance du certificat de sécurité.
+
+6. En cas de visite par plongeurs, la procédure applicable est celle de la société de classification qui a délivré ou renouvelé le certificat de franc-bord ou, si ce dernier est renouvelé par l'autorité, celle de la société de classification reconnue choisie par l'armateur.

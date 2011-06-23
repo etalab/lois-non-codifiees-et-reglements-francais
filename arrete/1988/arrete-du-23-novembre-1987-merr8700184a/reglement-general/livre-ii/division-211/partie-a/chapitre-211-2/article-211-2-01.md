@@ -2,7 +2,7 @@
 
 Objet du présent chapitre
 
-1. Le présent chapitre prescrit la composition des dossiers de stabilité à l'état intact des navires de pêche français qui doivent être présentés à l'autorité compétente et remis aux capitaines des navires. Pour son application, par navire de pêche l'on entend un navire de pêche ou un navire de conchyliculture.
+1. Le présent chapitre prescrit la composition des dossiers de stabilité à l'état intact des navires de pêche français qui doivent être présentés à l'autorité compétente et remis aux capitaines des navires. Pour son application, par "navire de pêche" l'on entend un navire de pêche ou un navire de conchyliculture hors navire aquacole conforme à la division 230.
 
 2. Il spécifie les critères à respecter.
 

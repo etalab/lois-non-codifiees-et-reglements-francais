@@ -13,6 +13,7 @@
 - [Article 130.11](article-130-11.md)
 - [Article 130.12](article-130-12.md)
 - [Article 130.13](article-130-13.md)
+- [Article 130.13 bis](article-130-13-bis.md)
 - [Article 130.14](article-130-14.md)
 - [Article 130.15](article-130-15.md)
 - [Article 130.16](article-130-16.md)
