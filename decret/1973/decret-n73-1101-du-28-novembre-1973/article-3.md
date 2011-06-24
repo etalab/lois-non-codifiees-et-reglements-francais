@@ -1,5 +1,0 @@
-# Article 3
-
-Sans préjudice des dispositions prises en application de l'article L. 235-1 du code rural, sont interdites la détention, la mise en vente, la vente ou la distribution à titre gratuit d'additifs, de matières premières, de prémélanges ou d'aliments composés pour animaux auxquels ont été incorporés des additifs autres que ceux qui auront été reconnus à la fois comme ayant un des effets mentionnés au deuxième alinéa de l'article 2 du présent décret, sans influence défavorable sur la santé humaine ou animale ou sur l'environnement et sans capacité d'altération des caratéristiques des produits animaux sous réserve de certaines conditions d'emploi et de teneur.
-
-Ces mêmes additifs doivent être contrôlables au point de vue de leur nature et de leur teneur dans les prémélanges, dans les aliments composés ou, le cas échéant, dans les matières premières pour aliments des animaux. Ils ne peuvent être destinés, sauf exceptions prévues, au traitement ou à la prévention des maladies ou réservés à l'usage médical ou vétérinaire.
