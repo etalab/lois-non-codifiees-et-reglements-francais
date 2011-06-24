@@ -12,6 +12,6 @@ La commission consultative comprend, outre son président, les membres suivants 
 
 4° Le directeur du budget, ou son représentant ;
 
-5° Le président de la mission d'appui à la réalisation des contrats de partenariat, ou son représentant.
+5° Le président de la          mission d'appui aux partenariats public-privé, ou son représentant.
 
 Sur décision de son président, la commission consultative peut recueillir l'avis d'experts qui sont astreints au secret professionnel.
