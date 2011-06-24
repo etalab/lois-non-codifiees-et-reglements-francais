@@ -32,7 +32,7 @@ a) Présence d'un service permanent d'information touristique ;
 
 b) Présence d'un bureau d'information touristique lorsque l'office de tourisme compétent sur le territoire faisant l'objet du classement est institué par un établissement public de coopération intercommunale à fiscalité propre ;
 
-c) Classement de l'office de tourisme au moins au niveau deux étoiles.
+c) Classement de l'office de tourisme dans la catégorie I.
 
 5° Services de proximité autour de la commune touristique :
 
