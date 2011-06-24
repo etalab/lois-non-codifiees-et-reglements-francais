@@ -22,10 +22,10 @@
 </tr>
 <tr>
 <td>
-<p align="left">Attaché principal </p>
+<p align="left">Attachés principaux </p>
 </td>
 <td>
-<p align="center">20 %</p>
+<p align="center">15 %</p>
 </td>
 </tr>
 <tr>
@@ -35,18 +35,18 @@
 </tr>
 <tr>
 <td>
-<p align="left">Adjoint des cadres hospitaliers de classe supérieure </p>
+<p align="left">Adjoints des cadres hospitaliers de classe supérieure </p>
 </td>
 <td>
-<p align="center">6 %</p>
+<p align="center">20 %</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Adjoint des cadres hospitaliers de classe exceptionnelle</p>
+<p align="left">Adjoints des cadres hospitaliers de classe exceptionnelle</p>
 </td>
 <td>
-<p align="center">7 %</p>
+<p align="center">15 %</p>
 </td>
 </tr>
 <tr>
@@ -56,18 +56,18 @@
 </tr>
 <tr>
 <td>
-<p align="left">Secrétaire médical de classe supérieure</p>
+<p align="left">Secrétaires médicales de classe supérieure</p>
 </td>
 <td>
-<p align="center">6 %</p>
+<p align="center">12 %</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Secrétaire médical de classe exceptionnelle </p>
+<p align="left">Secrétaires médicales de classe exceptionnelle </p>
 </td>
 <td>
-<p align="center">7 %</p>
+<p align="center">10 %</p>
 </td>
 </tr>
 <tr>
