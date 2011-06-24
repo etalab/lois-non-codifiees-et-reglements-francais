@@ -465,7 +465,6 @@
 - [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
 - [Décret n°2004-420 du 18 mai 2004 (INDI0402885D)](decret-n2004-420-du-18-mai-2004-indi0402885d)
 - [Décret n°2004-421 du 18 mai 2004 (INTD0400115D)](decret-n2004-421-du-18-mai-2004-intd0400115d)
-- [Décret n°2004-1119 du 19 octobre 2004 (ECOM0400477D)](decret-n2004-1119-du-19-octobre-2004-ecom0400477d)
 - [Décret n°2004-1130 du 19 octobre 2004 (SANS0422722D)](decret-n2004-1130-du-19-octobre-2004-sans0422722d)
 - [Décret n°2004-1131 du 19 octobre 2004 (SANS0422723D)](decret-n2004-1131-du-19-octobre-2004-sans0422723d)
 - [Décret n°2004-171 du 19 février 2004 (SOCF0410135D)](decret-n2004-171-du-19-fevrier-2004-socf0410135d)
