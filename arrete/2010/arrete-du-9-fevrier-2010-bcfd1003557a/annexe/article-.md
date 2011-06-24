@@ -41,7 +41,7 @@ A N N E X E
 <p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
 </td>
 <td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières (supprimé à compter du 1er octobre 2011)</p>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières (supprimé à compter du 1er novembre 2011)</p>
 <br/>
 </td>
 </tr>
@@ -74,7 +74,7 @@ A N N E X E
 <p align="center">Lyon</p>
 </td>
 <td>
-<p align="center">Rhône-Alpes - Auvergne (à compter du 1er octobre 2011)</p>
+<p align="center">Rhône-Alpes - Auvergne (à compter du 1er novembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center"> Nantes</p>
+<p align="center">Nantes</p>
 </td>
 <td>
 <p align="center">Nantes (à compter du 26 janvier 2012)</p>
@@ -175,7 +175,7 @@ A N N E X E
 <p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
 </td>
 <td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières (à compter du 1er octobre 2011)</p>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières (à compter du 1er novembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ A N N E X E
 <p align="center">Lyon</p>
 </td>
 <td>
-<p align="center">Rhône-Alpes - Auvergne (supprimé à compter du 1er octobre 2011)</p>
+<p align="center">Rhône-Alpes - Auvergne (supprimé à compter du 1er novembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ A N N E X E
 <p align="center">Rennes </p>
 </td>
 <td>
-<p align="center">Rennes (ajouté à compter du 15 juin 2011 puis supprimé à compter du 1er décembre 2011))</p>
+<p align="center">Rennes (supprimé à compter du 1er décembre 2011))</p>
 </td>
 </tr>
 <tr>
@@ -266,12 +266,11 @@ A N N E X E
 </td>
 <td>
 <br/>
-<p align="center">Toulouse (supprimé à compter du 1er octobre 2011 puis ajouté à compter du 26 janvier 2012))</p>
-<br/>
+<p align="center">Toulouse (supprimé à compter du 1er octobre 2011 puis ajouté à compter du 26 janvier 2012) </p>
 </td>
 </tr>
 <tr>
-<td rowspan="25">
+<td rowspan="24">
 <p align="center">Emplois de 2e catégorie</p>
 </td>
 <td>
@@ -425,14 +424,6 @@ A N N E X E
 </td>
 <td>
 <p align="center">Reims</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Rennes</p>
-</td>
-<td>
-<p align="center">Rennes (supprimé à compter du 15 juin 2011)</p>
 </td>
 </tr>
 <tr>
