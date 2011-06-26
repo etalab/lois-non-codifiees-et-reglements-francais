@@ -6,7 +6,7 @@ Le montant de la rémunération pour un dossier est égal au produit du nombre d
 
 Le nombre de vacations horaires est fixé par le président du comité concerné d'après le temps réellement passé pour l'établissement du rapport. Ce nombre est arrêté à l'unité ou à la demi-unité la plus proche.
 
-Le montant total des rémunérations perçues annuellement par un même rapporteur auprès d'un même comité ne peut excéder cent vacations horaires.
+Le montant total des rémunérations perçues annuellement par un même rapporteur, tous comités confondus, ne peut excéder 350 vacations horaires.
 
 Le nombre de vacations pouvant être versées à un rapporteur pour l'étude d'un dossier est limité à cinquante pour les dossiers soumis au comité désigné à l'article 1er et à trente pour les dossiers soumis aux comités désignés à l'article 2.
 
