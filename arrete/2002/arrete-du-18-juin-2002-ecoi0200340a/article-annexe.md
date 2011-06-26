@@ -3180,6 +3180,27 @@ LISTE DES DONNÉES À FOURNIR
 </td>
 </tr>
 <tr>
+<td> Nombre de contrats et puissance installée bénéficiant de l'obligation d'achat par type de contrat </td>
+<td>
+<p align="center"> KW</p>
+</td>
+<td>
+<p align="center"> commune</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center"> Annuelle</p>
+</td>
+<td>
+<p align="center"> A + 6 mois </p>
+</td>
+<td>
+<p align="center"> Acheteur</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="214">
 <p>3.7. Impact sur l'emploi des personnes affectées aux activités de production, transport, distribution et fourniture d'élec­tricité</p>
 </td>
