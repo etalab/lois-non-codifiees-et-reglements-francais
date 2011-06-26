@@ -821,7 +821,6 @@
 - [Arrêté du 21 juillet 1995 (ECOT9510241A)](arrete-du-21-juillet-1995-ecot9510241a)
 - [Arrêté du 21 juillet 1995 (INTC9500384A)](arrete-du-21-juillet-1995-intc9500384a)
 - [Arrêté du 21 juillet 1995 (MIPA9500800A)](arrete-du-21-juillet-1995-mipa9500800a)
-- [Arrêté du 21 juin 1995 (SANC9501955A)](arrete-du-21-juin-1995-sanc9501955a)
 - [Arrêté du 21 mars 1995 (AGRG9500589A)](arrete-du-21-mars-1995-agrg9500589a)
 - [Arrêté du 21 mars 1995 (ECOS9570002A)](arrete-du-21-mars-1995-ecos9570002a)
 - [Arrêté du 21 mars 1995 (EQUT9500379A)](arrete-du-21-mars-1995-equt9500379a)
