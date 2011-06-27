@@ -2,9 +2,9 @@
 
 Peuvent être nommés à l'emploi de contrôleur budgétaire et comptable ministériel, par voie de détachement :
 
-1° Les   trésoriers-payeurs généraux et les administrateurs des finances publiques ayant accompli trois années de services effectifs dans le corps ;
+1° Les trésoriers-payeurs généraux et les administrateurs généraux des finances publiques ;
 
-2° Les membres du corps du contrôle général économique et financier ayant accompli trois années de services effectifs dans le corps ;
+2° Les membres du corps du contrôle général économique et financier ayant atteint le grade de contrôleur général de première classe ou ayant accompli trois années de services effectifs dans le corps ;
 
 3° Les fonctionnaires ayant exercé les fonctions de secrétaire général ou des fonctions financières dans des emplois de directeur général ou de directeur d'administration centrale ;
 
