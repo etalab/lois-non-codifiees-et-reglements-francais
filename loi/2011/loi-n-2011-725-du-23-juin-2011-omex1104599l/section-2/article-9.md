@@ -1,0 +1,45 @@
+# Article 9
+
+I. ― Dans les secteurs d'habitat informel tels que définis au deuxième alinéa du g de l'article 4 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le représentant de l'Etat dans le département peut, à l'intérieur d'un périmètre qu'il définit et qui fait l'objet d'un projet global d'aménagement et d'assainissement établi par délibération du conseil municipal ou, le cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière d'habitat, déclarer par arrêté l'insalubrité des locaux, ensembles de locaux, installations ou terrains, utilisés aux fins d'habitation mais impropres à cet objet pour des raisons d'hygiène, de salubrité ou de sécurité.
+
+A l'intérieur du périmètre mentionné au premier alinéa, il peut, dans un délai qu'il fixe, ordonner la démolition et interdire à l'habitation les locaux et installations qu'il a désignés. Il prescrit toutes mesures nécessaires pour en empêcher l'accès et l'usage au fur et à mesure de leur évacuation. Ces mesures peuvent être exécutées d'office après avertissement de la personne à l'origine de l'édification des locaux en cause ou de la personne qui a mis le terrain à disposition aux fins d'habitation. L'avertissement est effectué par affichage sur la façade des bâtiments concernés. Les mêmes mesures peuvent être décidées à tout moment par le maire au nom de l'Etat et exécutées d'office.
+
+A l'intérieur du même périmètre, il peut également désigner, au vu d'une appréciation sommaire de leur état, les locaux, ensembles de locaux et installations pouvant être conservés ou améliorés. Il peut prescrire les travaux d'amélioration de l'habitat à effectuer dans un délai qu'il fixe, en tenant compte du projet global d'aménagement et d'assainissement mentionné au premier alinéa.
+
+La réalisation des travaux d'amélioration mis à la charge des personnes occupant des locaux à usage d'habitation sans droit ni titre sur le terrain d'assiette, les donnant à bail ou les exploitant n'ouvre aucun droit à leur profit, sous réserve de l'application de l'article 555 du code civil.
+
+II. ― L'arrêté du représentant de l'Etat dans le département est pris sur le rapport de l'agence régionale de santé ou, par application du dernier alinéa de l'article L. 1422-1 du code de la santé publique, du service communal d'hygiène et de santé, après avis de la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques à laquelle le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent en matière d'habitat est invité à présenter ses observations et après délibération du conseil municipal ou, le cas échéant, de l'organe délibérant de l'établissement public compétent portant sur le projet d'aménagement et d'assainissement mentionné au premier alinéa du I du présent article.
+
+L'arrêté du représentant de l'Etat dans le département est affiché à la mairie de la commune et fait l'objet d'une publicité dans au moins un journal diffusé localement. Il est publié au recueil des actes administratifs du département.
+
+III. ― Pour les locaux ou terrains donnés à bail et inclus dans le périmètre défini par le représentant de l'Etat dans le département, les loyers ou toute autre somme versée en contrepartie de l'occupation aux fins d'habitation ne sont plus dus par les occupants à compter du premier jour du mois suivant l'affichage de l'arrêté à la mairie du lieu de situation des biens jusqu'à leur relogement définitif ou l'affichage à la mairie de l'attestation des services sanitaires ou du maire constatant l'exécution des travaux. Le présent alinéa n'est pas applicable aux locaux d'habitation inclus dans le périmètre et donnés à bail ne faisant l'objet d'aucune prescription particulière.
+
+Les locaux et terrains vacants ne peuvent être donnés à bail ni utilisés à quelque usage que ce soit avant la délivrance de l'attestation mentionnée au premier alinéa.
+
+Lorsque l'état des locaux ou la nature des travaux prescrits impose un hébergement temporaire des occupants, celui-ci est assuré par la personne publique à l'initiative du projet d'aménagement et d'assainissement ou par son concessionnaire.
+
+Le relogement des occupants de bonne foi des locaux ou terrains faisant l'objet d'une interdiction définitive d'habiter est à la charge de la personne les ayant donnés à bail. En cas de défaillance de cette personne, le relogement ou l'hébergement d'urgence des occupants est assuré par la personne publique à l'initiative du projet d'aménagement et d'assainissement ou par son concessionnaire. L'offre de relogement peut être constituée par une proposition d'accession sociale à la propriété compatible avec les ressources des occupants.
+
+Lorsque la personne tenue au relogement n'a pas proposé aux occupants, dans le délai fixé par le représentant de l'Etat dans le département, un relogement dans un logement décent répondant à leurs ressources et à leurs besoins, elle est redevable à la personne publique qui a assuré le relogement ou à son concessionnaire d'une indemnité d'un montant correspondant à six mois du nouveau loyer ou à six fois le coût de l'hébergement de chaque ménage.
+
+IV. ― Lorsque la personne tenue d'effectuer les travaux de démolition prescrits par l'arrêté du représentant de l'Etat dans le département n'y a pas procédé, le représentant de l'Etat dans le département, ou le maire au nom de l'Etat, après mise en demeure restée infructueuse, les fait exécuter d'office aux frais de la personne défaillante sur ordonnance du juge statuant en la forme des référés rendue à la demande de l'autorité administrative. Si l'adresse actuelle du propriétaire est inconnue ou si ce dernier ne peut être identifié, la saisine du juge n'est pas requise. Elle n'est pas non plus requise lorsque le propriétaire du terrain a donné son accord à la démolition des locaux en cause.
+
+Lorsque la personne tenue d'effectuer les travaux de réparation prescrits par l'arrêté du représentant de l'Etat dans le département ne les a pas exécutés dans le délai fixé, l'autorité administrative lui adresse une mise en demeure d'y procéder dans un délai qu'il fixe. Si cette personne donne les lieux à bail, l'autorité administrative peut assortir cette mise en demeure d'une astreinte journalière d'un montant compris entre 30 et 300 € qui court à compter de la réception de la mise en demeure jusqu'à complète exécution des mesures prescrites, attestée par les services sanitaires ou par le maire.
+
+Lors de la liquidation de l'astreinte, le total des sommes demandées ne peut être supérieur au montant prévu au I de l'article 13. L'autorité administrative peut consentir une remise ou un reversement partiel ou total du produit de l'astreinte lorsque les travaux prescrits par l'arrêté ont été exécutés et que le redevable peut justifier qu'il n'a pu respecter le délai imposé pour l'exécution totale de ses obligations.
+
+Si après mise en demeure les travaux n'ont pas été exécutés, l'autorité administrative prononce l'interdiction définitive d'habiter les lieux et ordonne la démolition de la construction concernée et, le cas échéant, la fait exécuter d'office aux frais de la personne défaillante. Si la mise en demeure a été accompagnée d'une astreinte journalière, le montant de celle-ci est inclus dans la créance correspondant aux frais de démolition.
+
+Les premier et quatrième alinéas du présent IV ne font pas obstacle à l'application de l'article L. 1331-29 du code de la santé publique lorsque les locaux déclarés insalubres ont été édifiés par une personne titulaire de droits réels sur le terrain d'assiette.
+
+Le bailleur est tenu d'assurer le relogement des occupants ou d'y contribuer selon les dispositions des deux derniers alinéas du  III du présent article. En cas de défaillance du bailleur, le relogement des occupants est assuré selon les dispositions de l'avant-dernier alinéa du même III.
+
+En cas de démolition des locaux à usage d'habitation des occupants à l'origine de leur édification, le relogement de ces personnes est effectué par la personne publique ou le concessionnaire de l'opération d'aménagement ou d'assainissement intéressant le périmètre concerné.
+
+V. ― Le recouvrement des créances relatives à la démolition et à l'obligation de relogement est effectué comme en matière de contributions directes.
+
+VI. ― Le présent article ne fait pas obstacle à l'application de l'article L. 1331-25 du code de la santé publique.
+
+VII. ― Lorsque l'assainissement du périmètre délimité par l'arrêté du représentant de l'Etat dans le département nécessite l'expropriation des terrains d'assiette des locaux utilisés aux fins d'habitation, celle-ci peut être conduite selon les dispositions des articles 13, 14, 15, 17 et 19 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre.
+
+L'indemnité d'expropriation du propriétaire est calculée sur la valeur du terrain sans qu'il soit tenu compte de celle des locaux et installations à usage d'habitation édifiés par des personnes non titulaires de droits réels sur ce terrain.
