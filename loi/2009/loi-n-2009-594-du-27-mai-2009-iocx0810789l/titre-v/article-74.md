@@ -6,7 +6,7 @@ La commission est composée en majorité de membres des assemblées parlementair
 
 Elle assure le suivi de la mise en œuvre des politiques publiques de l'Etat outre-mer, en particulier des mesures prises pour favoriser le développement économique et social des collectivités concernées, qu'elles soient antérieures ou postérieures à la promulgation de la présente loi.
 
-Elle établit tous les deux ans un rapport public d'évaluation de l'impact socio-économique de l'application des titres II à IV de la présente loi. Ce rapport rend compte, en particulier, de l'impact de l'organisation des circuits de distribution et du niveau des rémunérations publiques et privées outre-mer sur les mécanismes de formation des prix.
+Elle établit tous les deux ans un rapport public d'évaluation de l'impact socio-économique de l'application des titres II à IV de la présente loi. Ce rapport rend compte, en particulier, de l'impact de l'organisation des circuits de distribution et du niveau des rémunérations publiques et privées outre-mer sur les mécanismes de formation des prix. Il comporte en outre un volet spécifique sur la mise en œuvre de la loi n° 2011-725 du 23 juin 2011 portant dispositions particulières relatives aux quartiers d'habitat informel et à la lutte contre l'habitat indigne dans les départements et régions d'outre-mer.
 
 La Commission nationale d'évaluation des politiques de l'Etat outre-mer remet chaque année au Parlement, avant le 1er octobre, un rapport d'activité qui présente sommairement les évaluations entreprises.
 
