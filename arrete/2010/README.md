@@ -1614,7 +1614,6 @@
 - [Arrêté du 17 mai 2010 (AGRS1002366A)](arrete-du-17-mai-2010-agrs1002366a)
 - [Arrêté du 17 mai 2010 (BCRB1009821A)](arrete-du-17-mai-2010-bcrb1009821a)
 - [Arrêté du 17 mai 2010 (DEVL1011025A)](arrete-du-17-mai-2010-devl1011025a)
-- [Arrêté du 17 mai 2010 (JUSA1012777A)](arrete-du-17-mai-2010-jusa1012777a)
 - [Arrêté du 17 mai 2010 (MTSA1011316A)](arrete-du-17-mai-2010-mtsa1011316a)
 - [Arrêté du 17 mai 2010 (SASF1013128A)](arrete-du-17-mai-2010-sasf1013128a)
 - [Arrêté du 17 mai 2010 (SASV1013102A)](arrete-du-17-mai-2010-sasv1013102a)
