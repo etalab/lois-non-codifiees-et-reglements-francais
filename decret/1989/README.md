@@ -70,7 +70,6 @@
 - [Décret n°89-364 du 7 juin 1989 (SPSS8901125D)](decret-n89-364-du-7-juin-1989-spss8901125d)
 - [Décret n°89-464 du 7 juillet 1989 (MAEJ8930064D)](decret-n89-464-du-7-juillet-1989-maej8930064d)
 - [Décret n°89-481 du 7 juillet 1989 (MAEJ8930065D)](decret-n89-481-du-7-juillet-1989-maej8930065d)
-- [Décret n°89-632 du 7 septembre 1989 (MICT8900507D)](decret-n89-632-du-7-septembre-1989-mict8900507d)
 - [Décret n°89-75 du 7 février 1989 (BUDX8910067D)](decret-n89-75-du-7-fevrier-1989-budx8910067d)
 - [Décret n°89-819 du 7 novembre 1989 (TEFT8903764D)](decret-n89-819-du-7-novembre-1989-teft8903764d)
 - [Décret n°89-820 du 7 novembre 1989 (AGRS8901989D)](decret-n89-820-du-7-novembre-1989-agrs8901989d)
