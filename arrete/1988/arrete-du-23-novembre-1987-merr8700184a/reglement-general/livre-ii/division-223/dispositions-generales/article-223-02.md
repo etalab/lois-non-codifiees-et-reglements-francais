@@ -1,8 +1,8 @@
 # Article 223.02
 
-Classes de navires à passagers
+Classes des navires à passagers
 
-1. Pour les engins à passagers à grande vitesse, les catégories définies au chapitre 1 paragraphes 1.4.10 et 1.4.11 du recueil international de règles de sécurité applicables aux engins à grande vitesse sont d'application.
+1. Pour les engins à passagers à grande vitesse, les catégories définies au chapitre 1er, paragraphes 1.4.10 et 1.4.11, du recueil international de règles de sécurité applicables aux engins à grande vitesse de 1994 ou chapitre 1er, paragraphes 1.4.12 et 1.4.13, dans sa version actualisée de 2000 sont d'application.
 
 2. Nonobstant les dispositions de l'article 110-2.01, les navires à passagers relevant de la section 223a effectuant une navigation nationale sont répartis en quatre classes, en fonction de la zone maritime dans laquelle ils opèrent, à savoir :
 

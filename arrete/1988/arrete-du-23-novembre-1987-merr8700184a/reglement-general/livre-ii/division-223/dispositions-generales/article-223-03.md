@@ -8,15 +8,15 @@ Définitions
 
 1. 2. Recueil de règles de stabilité à l'état intact : le " recueil de règles de stabilité à l'état intact de tous les types de navires visés par des instruments de l'OMI ", contenu dans la résolution A. 749 (18) de l'assemblée de l'OMI du 4 novembre 1993, dans sa version actualisée.
 
-1. 3. Recueil HSC : le " recueil international de règles de sécurité applicables aux engins à grande vitesse ", contenu dans la résolution MSC 36 (63) du comité de la sécurité maritime de l'OMI, du 20 mai 1994, dans sa version actualisée.
+1. 3. Recueil HSC : le "recueil international de règles de sécurité applicables aux engins à grande vitesse", contenu dans la résolution MSC.36(63) du comité de la sécurité maritime de l'OMI, du 20 mai 1994 ou Recueil HSC 2000 contenu dans la résolution MSC.97(73) de décembre 2000 dans sa version actualisée.
 
 1. 4. SMDSM : le système mondial de détresse et de sécurité en mer tel qu'il figure dans le chapitre 221-IV de la division 221 du présent règlement, tel que modifié.
 
-1. 5. Engins à passagers à grande vitesse : aux fins de la présente division, ne sont pas considérés comme engins à grande vitesse les navires à passagers de classe B, C ou D, répondant à la définition de la règle X / 1 de la convention SOLAS de 1974, dans sa version actualisée, qui effectuent des voyages nationaux, lorsque :
+1. 5. Engins à passagers à grande vitesse : aux fins de la présente division, ne sont pas considérés comme engins à grande vitesse les navires à passagers de classe B, C ou D, répondant à la définition de la règle X/1 de la convention SOLAS de 1974, dans sa version actualisée, qui effectuent des voyages nationaux, lorsque :
 
--leur déplacement correspondant à la ligne de flottaison est de moins de 500 m3 ; et
+- leur déplacement correspondant à la ligne de flottaison est de moins de 500 m³ ; et
 
--leur vitesse maximale, telle que définie au point 1. 4. 30 du recueil HSC, est inférieure à 20 nœuds.
+- leur vitesse maximale, telle que définie au point 1.4.30 du recueil HSC de 1994 et dans la règle 1.4.38 du recueil HSC 2000 dans sa version actualisée, est inférieure à 20 nœuds.
 
 1. 6. Hauteur d'étrave : la hauteur d'étrave définie à la règle 39 de la convention internationale de 1966 sur les lignes de charge comme la distance verticale au droit de la perpendiculaire avant, entre la flottaison correspondant au franc-bord d'été assigné et à l'assiette prévue et le livet en abord du pont exposé ;
 
@@ -24,7 +24,7 @@ Définitions
 
 1. 8. Zone maritime : une zone telle que définie conformément à l'article 223. 02. point 4. Toutefois, pour l'application des dispositions relatives aux radiocommunications, les définitions des zones maritimes sont celles figurant dans l'article 219-2.
 
-1. 9. Zone portuaire : toute zone qui n'est pas une zone maritime telle que définie par les Etats membres, qui s'inscrit dans les limites portuaires et dans laquelle le navire demeure constamment dans les eaux abritées telles que rades non exposées lacs, bassins, étangs d'eaux salées etc., ou dans les limites éventuellement fixées par le    directeur interrégional de la mer sur proposition du chef de quartier.
+1. 9. Zone portuaire : toute zone qui n'est pas une zone maritime telle que définie par les Etats membres, qui s'inscrit dans les limites portuaires et dans laquelle le navire demeure constamment dans les eaux abritées telles que rades non exposées, lacs, bassins, étangs d'eau salée, etc., ou dans les limites éventuellement fixées par le directeur interrégional de la mer.
 
 1. 10. Refuge : toute zone naturellement ou artificiellement abritée qui peut être utilisée comme abri par un navire ou un engin soumis à des conditions qui risquent de mettre en danger sa sécurité.
 
