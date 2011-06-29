@@ -4,7 +4,7 @@ Calcul des rapports.
 
 1. Cas des courses sans chevaux non partants :
 
-Le montant des paris remboursés et de la déduction proportionnelle sur enjeux, est défalqué du total des enjeux.
+Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du total des enjeux.
 
 La masse à partager ainsi obtenue est divisée par le total des mises sur les différentes combinaisons payables pour obtenir le rapport brut 2 sur 4.
 

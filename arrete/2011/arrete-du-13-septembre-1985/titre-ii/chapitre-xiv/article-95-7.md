@@ -113,3 +113,5 @@ Si ce rapport unique brut est inférieur à 1,10 euro, les calculs de répartiti
 Si le rapport unique brut est égal ou supérieur à 1,10 euro, le rapport net "Bonus 4 sur 5" est alors égal à une fois et demie le rapport net "Bonus 3".
 
 Si, après application des dispositions qui précèdent, le rapport net "Bonus 4 sur 5" se trouve supérieur à la moitié du rapport net payé "Bonus 4", les calculs de répartition sont effectués en application des règles énoncées au paragraphe a ci-dessus.
+
+h) Si après application des dispositions des paragraphes a à g ci-dessus et, cumulativement de celles de l'article 95.6, les proportions minima fixées aux articles 95.6 et 95.7 ne se trouvent plus respectées pour un ou plusieurs des rapports concernés, les calculs de répartitions sont faits de sorte que la proportion minimum des rapports " Quinté Plus ", " Bonus 4 ", " Bonus 4 sur 5 " et " Bonus 3 " soit rétablie.

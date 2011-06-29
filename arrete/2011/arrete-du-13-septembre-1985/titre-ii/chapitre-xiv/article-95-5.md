@@ -2,7 +2,7 @@
 
 Calcul des rapports.
 
-Le montant des paris remboursés et de la déduction proportionnelle sur enjeux est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
+Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du montant des enjeux, on obtient ainsi la masse à partager.
 
 3 % de cette masse à partager sont réservés pour constituer un "Fonds Tirelire selon les dispositions de l'article 95.9.4. ci-après.
 

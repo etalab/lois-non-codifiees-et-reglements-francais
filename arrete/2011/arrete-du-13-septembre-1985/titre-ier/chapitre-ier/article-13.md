@@ -37,5 +37,3 @@ c) Si un des chevaux de base est non partant, le cheval de complément complète
 d) Dans le cas visé au paragraphe c ci-dessus, le ou les paris unitaires inclus dans une formule "champ comportant à la fois un non-partant et la désignation du même cheval que le cheval de complément sont traités en application du pararagraphe I du présent article.
 
 4. Si deux ou plusieurs chevaux sont déclarés non-partants dans l'épreuve dans laquelle ils étaient engagés et que plus d'un cheval non partant a été désigné par le parieur, le cheval de complément ne remplace qu'un seul d'entre eux.
-
-5. Dans l'éventualité où le cheval de complément désigné par le parieur vient à être déclaré hors mutuel, les paris unitaires ou chaque pari unitaire inclus dans une formule combinée ou champ sont traités en application des dispositions du paragraphe I du présent article.

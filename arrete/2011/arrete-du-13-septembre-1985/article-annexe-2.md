@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-Les différents types de paris susceptibles d'être engagés au pari mutuel sont classés selon le tableau ci-dessous. L'affectation effective de chaque type de paris dans un des trois groupes est portée à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
+De la même façon, et pour les vecteurs offrant cette possibilité, un parieur peut bloquer l'utilisation de son compte soit temporairement pour une période qu'il choisit parmi une sélection offerte, soit définitivement. Dans ce dernier cas, le compte est clôturé, le parieur ne pouvant solliciter à nouveau l'ouverture d'un compte joueur avant l'expiration d'un délai portée à sa connaissance. Les différents types de paris susceptibles d'être engagés au pari mutuel sont classés selon le tableau ci-dessous. L'affectation effective de chaque type de paris dans un des trois groupes est portée à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré.
 
 <table>
 <tbody>
@@ -115,9 +115,9 @@ Les différents types de paris susceptibles d'être engagés au pari mutuel sont
 <br/>
 </td>
 <td align="center">
-<br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact et Tirelire</td>
+<br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact</td>
 <td align="center">
-<br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact et Tirelire</td>
+<br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact </td>
 </tr>
 <tr>
 <td align="center">

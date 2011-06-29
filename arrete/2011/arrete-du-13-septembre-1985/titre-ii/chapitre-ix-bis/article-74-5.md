@@ -2,11 +2,11 @@
 
 Calcul des rapports.
 
-Le montant des paris remboursés et de la déduction proportionnelle sur enjeux, est défalqué du total des enjeux.
+Le montant de la déduction proportionnelle sur enjeux et des paris remboursés est défalqué du total des enjeux.
 
 Après déduction du montant des paiements effectués sur les paris traités en paris "Simple gagnant" et en paris "Couplé Ordre" en application des articles 74.4 et 74.6, on obtient la masse à partager.
 
-Le calcul des rapports bruts s'effectue comme suit :
+Le calcul des rapports bruts, auxquels s'appliquent les dispositions du troisième alinéa du I de l'article 19.1 du présent arrêté, s'effectue comme suit :
 
 1. Cas d'arrivée normale.
 

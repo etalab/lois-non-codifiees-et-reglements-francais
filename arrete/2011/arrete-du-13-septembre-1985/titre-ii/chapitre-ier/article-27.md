@@ -1,6 +1,6 @@
 # Article 27
 
-Calcul des rapports. - Pour chaque type de pari, les enjeux totalisés, après défalcation du montant des paris remboursé, et application de la déduction proportionnelle sur enjeux, déterminent la masse à partager.
+Calcul des rapports. - Pour chaque type de pari, les enjeux totalisés, après application de la déduction proportionnelle sur enjeux et défalcation du montant des paris remboursés, déterminent la masse à partager.
 
 Le calcul des rapports bruts s'effectue comme suit :
 

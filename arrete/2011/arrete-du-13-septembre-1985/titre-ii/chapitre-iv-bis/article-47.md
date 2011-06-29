@@ -14,4 +14,4 @@ Un pari "Couplé placé hippodrome" est payable si les deux chevaux choisis occu
 
 Chaque cheval participant à la course est traité séparément dans la détermination des combinaisons payables.
 
-Ces paris sont soumis aux dispositions des articles 42 à 43-I et 44 à 46.
+Ces paris sont soumis aux dispositions de l'article 42, du I de l'article 43 et des articles 44 à 46 du présent arrêté. Pour ces paris, le calcul des rapports défini à l'article 44 s'effectue sans appliquer les modalités particulières prévues au troisième alinéa de l'article 19.1.
