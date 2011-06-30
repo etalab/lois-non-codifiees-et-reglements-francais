@@ -1,3 +1,0 @@
-# CHAPITRE IER : MODIFICATIONS DU DECRET N° 99 433 DU 27 MAI 1999
-
-- [Article 1](article-1.md)

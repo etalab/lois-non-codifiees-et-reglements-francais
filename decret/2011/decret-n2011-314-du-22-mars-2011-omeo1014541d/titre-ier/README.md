@@ -1,3 +1,0 @@
-# TITRE IER : ORGANISATION TERRITORIALE
-
-- [Article 1](article-1.md)

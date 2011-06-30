@@ -1,3 +1,0 @@
-# Article 14
-
-Les agents contractuels recrutés en application de l'article 27 de la loi du 9 janvier 1986 susvisée et qui ont vocation à être titularisés dans le grade d'adjoint des cadres hospitaliers de classe normale ou dans le grade de secrétaire médical de classe normale régis par le décret du 21 septembre 1990 susvisé sont maintenus en fonction et ont vocation à être titularisés dans le grade d'adjoint des cadres hospitaliers de classe normale du corps des adjoints des cadres hospitaliers régis par le présent décret ou d'assistant médico-administratif de classe normale du corps des assistants médico-administratifs régis par le présent décret.

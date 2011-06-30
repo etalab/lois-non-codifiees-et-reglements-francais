@@ -1,3 +1,0 @@
-# Article 46
-
-Les salariés relevant du présent titre qui justifient d'un minimum de deux années d'ancienneté au sein de l'office public de l'habitat ou au sein de l'office public d'habitations à loyer modéré ou de l'office public d'aménagement et de construction, avant sa transformation en office public de l'habitat, reçoivent, au moment de leur départ à la retraite, une indemnité d'un montant équivalant à celui de l'indemnité de licenciement prévue à l'article 45, sans qu'elle puisse excéder trois fois la dernière rémunération mensuelle globale, ni être inférieure à l'indemnité prévue à l'article L. 1237-9 du code du travail.

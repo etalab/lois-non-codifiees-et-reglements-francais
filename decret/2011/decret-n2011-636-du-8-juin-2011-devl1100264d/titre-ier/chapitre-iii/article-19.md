@@ -1,5 +1,0 @@
-# Article 19
-
-I. ― Les personnels des offices publics de l'habitat soumis au présent décret ont droit à un congé pour formation syndicale avec rémunération d'une durée maximale de douze jours ouvrables par an, dans les mêmes conditions que celles prévues par le décret du 22 mai 1985 susvisé. Dans les offices dont l'effectif est d'au moins cent personnes calculé selon les modalités définies par l'article 2, ces congés sont accordés dans la limite de 5 % de l'effectif réel de ces salariés et dans des conditions fixées par l'accord d'entreprise conclu au sein de chacun des offices.
-
-II. ― Outre ce congé, tout salarié relevant du titre II du présent décret a droit à un congé non rémunéré pour fonctions syndicales à l'extérieur de l'office public de l'habitat, pendant lequel son contrat de travail est suspendu. L'accord collectif conclu au sein de cet office précise les durées minimales et maximales de ce congé, les conditions d'ancienneté requises pour son obtention, les conditions matérielles pour en demander le bénéfice et les modalités de réinsertion professionnelle au sein de cet office à l'issue du congé.

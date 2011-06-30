@@ -1,5 +1,0 @@
-# Article 19
-
-I. ― Les tableaux d'avancement établis au titre de l'année 2011 pour l'accès aux grades d'adjoint des cadres hospitaliers de classe supérieure et d'adjoint des cadres hospitaliers de classe exceptionnelle ainsi que pour l'accès aux grades de secrétaire médical de classe supérieure et de secrétaire médical de classe exceptionnelle, conformément aux dispositions du décret du 21 septembre 1990 susvisé, demeurent valables jusqu'au 31 décembre 2011.
-
-II. ― Les fonctionnaires promus en application du I sont classés dans le grade d'adjoint des cadres hospitaliers de classe supérieure ou d'adjoint des cadres hospitaliers de classe exceptionnelle ou d'assistant médico-administratif de classe supérieure ou d'assistant médico-administratif de classe exceptionnelle en tenant compte de la situation qui aurait été la leur s'ils avaient été promus dans l'un des grades mentionnés au I dans les conditions prévues à l'article 39 du décret du 21 septembre 1990 susvisé, puis reclassés à la date de leur promotion en application des dispositions de l'article 13 du présent décret.

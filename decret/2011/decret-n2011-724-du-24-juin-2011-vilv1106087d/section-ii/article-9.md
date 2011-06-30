@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsqu'il apparaît qu'une action ou opération pour laquelle le projet de contrat validé précise valoir déclaration de projet n'est pas compatible avec les dispositions des documents d'urbanisme, l'examen conjoint des dispositions proposées pour assurer la mise en compatibilité du schéma directeur de la région d'Ile-de-France prévu par l'article L. 141-1-2 du code de l'urbanisme est immédiatement engagé par le préfet de la région d'Ile-de-France et l'examen des schémas de cohérence territoriale, des schémas de secteurs et des plans locaux d'urbanisme prévu par les articles L. 122-15, L. 122-17 et L. 123-16 du code de l'urbanisme est engagé par les préfets des départements concernés.

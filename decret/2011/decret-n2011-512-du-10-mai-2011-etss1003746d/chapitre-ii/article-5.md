@@ -1,7 +1,0 @@
-# Article 5
-
-I. ― Les personnes assurées auprès d'un régime en vigueur dans un département métropolitain, d'outre-mer, à Saint-Barthélemy et Saint-Martin ou à Saint-Pierre-et-Miquelon, ainsi que leurs ayants droit, bénéficient, le cas échéant, des prestations en nature et en espèces de l'assurance maladie et maternité prévues par le régime du territoire de leur résidence pour autant qu'elles remplissent, sur ce territoire, les conditions requises pour l'obtention des prestations en cause, notamment la reprise d'une activité sur ce territoire.
-
-II. - Dans le cas où, pour l'ouverture, le maintien ou le recouvrement du droit aux prestations, les intéressés ne justifient pas de la durée d'assurance prévue par la législation ou la réglementation du nouveau territoire, il est fait appel, dans la mesure nécessaire, pour compléter les périodes d'assurance ou assimilées accomplies sur ce territoire, aux périodes d'assurance ou assimilées antérieurement accomplies dans le précédent territoire.
-
-III. - Lorsqu'un marin exerce, en même temps que son métier de marin, une activité entraînant son affiliation au régime de sécurité sociale géré par la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon, il bénéficie des prestations en nature et en espèces de l'assurance maladie et maternité auprès du régime dont il dépend au titre de son activité principale, en tenant compte de l'ensemble de ses activités.

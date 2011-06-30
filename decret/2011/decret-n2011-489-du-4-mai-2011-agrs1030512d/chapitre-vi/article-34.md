@@ -1,5 +1,0 @@
-# Article 34
-
-Les personnels mentionnés à l'article 5 de l'ordonnance du 25 mars 2009 susvisée pouvant, en application de l'article 3 du décret du 20 octobre 2010 susvisé, demander à être titularisés dans le corps des techniciens supérieurs des services du ministère chargé de l'agriculture et titularisés après la date d'entrée en vigueur du présent décret ont vocation à être titularisés, dans les conditions prévues par le décret du 20 octobre 2010 susmentionné, dans le corps des techniciens supérieurs du ministère chargé de l'agriculture régi par le présent décret.
-
-A cet effet, ils sont classés dans le corps des techniciens supérieurs du ministère chargé de l'agriculture en prenant en compte la situation qui aurait été la leur s'ils avaient été titularisés dans le corps des techniciens supérieurs des services du ministère chargé de l'agriculture, conformément aux dispositions du décret du 20 octobre 2010 susvisé, puis reclassés, à la même date, dans le corps des techniciens supérieurs du ministère chargé de l'agriculture conformément aux dispositions de l'article 25 du présent décret.

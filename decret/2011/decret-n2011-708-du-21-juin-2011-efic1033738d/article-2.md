@@ -1,5 +1,0 @@
-# Article 2
-
-En application du paragraphe 2 de l'article 3 du règlement du 22 septembre 2003 susvisé, l'autorisation d'utiliser, à des fins de recherche scientifique, en tant qu'additifs pour l'alimentation animale des substances non autorisées au niveau de l'Union européenne est délivrée par le ministre chargé de la consommation, après avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail, lorsque les essais sont conduits en condition d'élevage ou lorsque les animaux sur lesquels sont conduits les essais sont destinés à entrer dans la chaîne alimentaire.
-
-En ce qui concerne l'utilisation aux mêmes fins et dans les mêmes conditions de substances histomonostatiques ou coccidiostatiques définies à l'article 2 du règlement du 22 septembre 2003 susvisé, lorsque l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail ne peut pas conclure à l'innocuité du produit, l'autorisation est délivrée conjointement par les ministres chargés de la consommation, de la santé et de l'agriculture.

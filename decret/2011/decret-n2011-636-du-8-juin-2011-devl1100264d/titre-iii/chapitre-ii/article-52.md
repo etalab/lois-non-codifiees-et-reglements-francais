@@ -1,5 +1,0 @@
-# Article 52
-
-I. ― Les fonctionnaires mentionnés à l'article 118 de la loi du 26 janvier 1984 susvisée employés par les offices publics de l'habitat peuvent bénéficier des décharges d'activité de service attribuées aux organisations syndicales dans les conditions prévues au dernier alinéa de l'article 16 du décret du 28 mai 1982 susvisé dans sa rédaction applicable aux personnels des administrations parisiennes, en vertu du 5° de l'article 24 et du 3° de l'article 25 du décret du 24 mai 1994 susvisé.
-
-II. ― Sur présentation de leur convocation à ces organismes, ces fonctionnaires, lorsqu'ils sont appelés en tant que représentants syndicaux à siéger au Conseil supérieur des administrations parisiennes, au sein de commissions administratives paritaires ou à participer à des groupes de travail ou à des réunions organisés par la Ville de Paris, se voient accorder une autorisation d'absence, dont la durée comprend les délais de route, la durée prévisible de la réunion et un temps égal à cette dernière durée pour permettre aux intéressés d'assurer la préparation et le compte rendu des travaux.

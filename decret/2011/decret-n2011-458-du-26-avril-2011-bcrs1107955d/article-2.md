@@ -1,3 +1,0 @@
-# Article 2
-
-Le mandat des membres du conseil d'administration et du président de la Caisse d'amortissement de la dette sociale nommés sous l'empire des dispositions en vigueur antérieurement à la modification de l'article 3 de l'ordonnance susvisée du 24 janvier 1996 par l'article 3 de la loi organique susvisée du 13 novembre 2010 expire à la date de publication d'un arrêté pris par le ministre chargé de la sécurité sociale dressant la liste des membres du conseil d'administration de la caisse nommés ou désignés conformément aux dispositions prévues par l'article 3 de cette ordonnance modifiée par l'article 3 de ladite loi organique et aux dispositions de l'article 1er du présent décret.
