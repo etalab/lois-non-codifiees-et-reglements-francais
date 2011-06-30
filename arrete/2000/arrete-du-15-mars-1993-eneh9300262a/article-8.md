@@ -1,15 +1,11 @@
 # Article 8
 
-Le coefficient d'équivalence et le pourcentage maximum de pétrole brut et de certains produits intermédiaires du raffinage admis en substitution, mentionnés au II de l'article 3 du décret n° 93-131 du 29 janvier 1993 susvisé, sont fixés comme suit :
+Les coefficients d'équivalence et les pourcentages maximaux de substitution mentionnés au II de l'article D. 1336-51 du code de la défense sont fixés comme suit :
 
-Coefficient d'équivalence : 0,8 ;
+1. Coefficient d'équivalence pour les produits : 1.
 
-Pourcentage de substitution :
+2. Coefficient d'équivalence pour le pétrole brut et les produits intermédiaires de raffinage : 0,8.
 
-44 % pour les produits de catégorie I (essences) ;
+3. Pourcentage maximal de substitution : 50 %.
 
-45 % pour les produits de catégorie II (gazole, fioul domestique, pétrole lampant) ;
-
-45 % pour les produits de catégorie III (carburéacteur) ;
-
-50 % pour les produits de catégorie IV (fioul lourd).
+4. Pourcentage maximal de substitution par des produits : 10 %.

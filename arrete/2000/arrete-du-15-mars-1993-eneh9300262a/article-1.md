@@ -9,5 +9,3 @@ II. - Gazole, fioul domestique, pétrole lampant (autre que carburéacteur) ;
 III. - Carburéacteurs ;
 
 IV. - Fiouls lourds.
-
-Il ne peut être opéré de compensation entre les catégories de produits. Celle-ci ne peut s'exercer qu'entre produits de la même catégorie.

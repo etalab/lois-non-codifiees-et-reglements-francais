@@ -1,7 +1,3 @@
 # Article 2
 
-Les obligations de stockage stratégique des opérateurs pétroliers agréés sont calculées chaque année de façon préalable au cours du mois de février. Elles entrent en vigueur le 30 juin suivant.
-
-A cet effet, les quantités mises à la consommation ou livrées à l'avitaillement des aéronefs et la production nationale sur les douze mois de l'année civile précédente sont arrêtées au 31 décembre de cette même année.
-
-L'obligation légale de stockage stratégique par catégorie de produits d'un opérateur pétrolier agréé résulte des quantités ainsi déclarées au cours de l'année civile précédente.
+Les biocarburants et les additifs sont pris en compte dans le calcul des niveaux de stocks effectivement maintenus permettant de couvrir l'obligation de stocks stratégiques, après mélange s'ils entrent dans la composition des produits pétroliers visés par l'article 1er, ou avant mélange sous réserve que tous les constituants entrant dans la composition du mélange soient localisés dans le même lieu et en quantité suffisante, l'ETBE et l'éthanol carburant étant comptabilisés au titre des essences (1re catégorie) et les esters méthyliques au titre du gazole routier (2e catégorie).
