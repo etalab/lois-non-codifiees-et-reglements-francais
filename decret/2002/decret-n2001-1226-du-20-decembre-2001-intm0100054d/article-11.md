@@ -1,3 +1,3 @@
 # Article 11
 
-Le présent décret s'applique jusqu'au 30 juin 2011.
+Le présent décret s'applique jusqu'au 30 septembre 2012.
