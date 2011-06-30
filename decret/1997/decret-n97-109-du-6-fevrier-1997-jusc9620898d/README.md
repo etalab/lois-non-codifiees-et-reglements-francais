@@ -5,4 +5,5 @@
 - [Section 3 : Procédure de délivrance de l'agrément.](section-3)
 - [Section 4 : Procédure de retrait de l'agrément.](section-4)
 - [Section 5 : Agrément des personnes susceptibles d'être requises aux fins de procéder à une analyse d'identification par empreintes génétiques](section-5)
+- [Section 6 : Dispositions applicables à l'outre-mer](section-6)
 - [Article 16](article-16.md)
