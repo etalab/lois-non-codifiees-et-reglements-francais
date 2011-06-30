@@ -1,5 +1,3 @@
 # Article 27
 
 A l'exception des dispositions prévues aux 1° et 2° de l'article 4 et au I de l'article 13, les avis de recrutement par concours sur épreuves, par concours sur titres, par examen professionnel ou par liste d'aptitude font l'objet d'un affichage dans les locaux de l'établissement concerné, dans ceux des préfectures de département de la région où est implanté cet établissement et de chaque sous-préfecture du département d'implantation ainsi que d'une insertion au recueil des actes administratifs des préfectures de département et de la région. Ils peuvent également être portés à la connaissance des candidats par tout autre moyen d'information.
-
-Le concours externe et le concours interne de recrutement des agents-chefs de la fonction publique hospitalière font l'objet d'une mesure de publicité au Journal officiel de la République française et d'un affichage dans les établissements où les postes sont à pourvoir.

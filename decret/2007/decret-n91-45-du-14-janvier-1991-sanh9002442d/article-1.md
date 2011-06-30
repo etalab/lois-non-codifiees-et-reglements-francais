@@ -1,15 +1,9 @@
 # Article 1
 
-Sont régis par les dispositions du présent décret les personnels des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée constituant les corps suivants :
+Sont régis par les dispositions du présent décret les personnels des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée constituant les corps classés en catégorie C ci-dessous énumérés :
 
-Catégorie B
+1° Le corps de la maîtrise ouvrière ;
 
-Le corps des agents chefs.
+2° Le corps des personnels ouvriers ;
 
-Catégorie C
-
-Le corps de la maîtrise ouvrière,
-
-Le corps des personnels ouvriers,
-
-Le corps des conducteurs ambulanciers.
+3° Le corps des conducteurs ambulanciers.

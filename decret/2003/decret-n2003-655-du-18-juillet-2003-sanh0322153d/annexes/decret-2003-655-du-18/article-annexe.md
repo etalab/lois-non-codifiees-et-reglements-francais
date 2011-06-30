@@ -24,11 +24,11 @@ Sous-groupe unique : attachés principaux d'administration hospitalière, attach
 
 CORPS DE CATÉGORIE B
 
-CAP n° 4 : personnels d'encadrement technique et ouvrier
+CAP n° 4 : personnel d'encadrement technique.
 
-Groupe unique
+Groupe unique :
 
-Sous-groupe unique : techniciens supérieurs hospitaliers chefs, agents chefs de classe exceptionnelle, techniciens supérieurs hospitaliers principaux, agents-chefs de 1re catégorie, techniciens supérieurs hospitaliers, agents-chefs de 2e catégorie.
+Sous-groupe unique : techniciens hospitaliers, techniciens supérieurs hospitaliers de 2e classe, techniciens supérieurs hospitaliers de 1re classe.
 
 CAP n° 5 : personnels des services de soins, des services médico-techniques et des services sociaux
 
