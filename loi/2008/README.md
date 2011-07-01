@@ -11,6 +11,7 @@
 - [LOI n° 2008-3 du 3 janvier 2008 (ECEX0768213L)](loi-n-2008-3-du-3-janvier-2008-ecex0768213l)
 - [LOI n° 2008-492 du 26 mai 2008 (DEFX0600007L)](loi-n-2008-492-du-26-mai-2008-defx0600007l)
 - [LOI n° 2008-518 du 3 juin 2008 (ESRX0700048L)](loi-n-2008-518-du-3-juin-2008-esrx0700048l)
+- [LOI n° 2008-582 du 20 juin 2008 (IOCX0766959L)](loi-n-2008-582-du-20-juin-2008-iocx0766959l)
 - [LOI n° 2008-595 du 25 juin 2008 (DEVX0771876L)](loi-n-2008-595-du-25-juin-2008-devx0771876l)
 - [LOI n° 2008-660 du 4 juillet 2008 (DEVX0809024L)](loi-n-2008-660-du-4-juillet-2008-devx0809024l)
 - [LOI n° 2008-776 du 4 août 2008 (ECEX0808477L)](loi-n-2008-776-du-4-aout-2008-ecex0808477l)
