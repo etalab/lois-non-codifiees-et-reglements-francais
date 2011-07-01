@@ -1,6 +1,6 @@
 # Article 16
 
-Le directeur est nommé pour une durée de cinq ans, par décret en conseil des ministres pris sur proposition du ministre chargé de la culture. Son mandat peut être renouvelé pour une durée de trois ans.
+Le directeur est nommé pour une durée de cinq ans, par décret en conseil des ministres pris sur proposition du ministre chargé de la culture. Son mandat peut être renouvelé pour une durée de trois ans. Lorsque le directeur atteint, au cours de son premier ou de son deuxième mandat, la limite d'âge fixée par la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public, il exerce ses fonctions jusqu'à la fin du mandat en cours.
 
 Il est responsable, dans le respect des clauses du contrat pluriannuel mentionné à l'article 3, de la politique artistique et culturelle de l'établissement, sous réserve des pouvoirs qu'il délègue au directeur délégué en application de l'article 18 et il assure la direction des services de l'établissement.
 
