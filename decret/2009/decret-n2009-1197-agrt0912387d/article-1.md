@@ -4,11 +4,9 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Château-Chalon " ;
 
-― " Vin de Corse " ou "Corse " ;
+― " Vin de Corse " ou " Corse " ;
 
 ― " Ajaccio " ;
-
-― " Patrimonio " ;
 
 ― " Médoc " ;
 
