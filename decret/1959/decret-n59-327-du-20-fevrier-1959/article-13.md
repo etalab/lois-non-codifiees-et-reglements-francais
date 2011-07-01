@@ -16,7 +16,9 @@ Les fonctions de président de la cour régionale des pensions peuvent égalemen
 
 Si néanmoins la cour régionale est dans l'impossibilité de se constituer, le premier président peut exceptionnellement désigner d'autres magistrats de la cour d'appel, pour siéger à une audience d'autres magistrats de la cour d'appel, pour siéger à une audience déterminée.
 
-Les fonctions de commissaire du Gouvernement sont remplies par un fonctionnaire civil ou militaire en activité de service ou retraité désigné, sur le territoire de la France métropolitaine et dans les départements d'outre-mer, par le ministre des anciens combattants et victimes de guerre et, dans les territoires d'outre-mer, par le ministre dont relèvent ces territoires.
+Un commissaire du Gouvernement est chargé de représenter à l'audience le ministre de la défense. Il y formule toutes observations orales au soutien des observations écrites produites par ce ministre.
+
+Les fonctions de commissaire du Gouvernement sont remplies par un agent public ou un militaire en activité de service désigné par le ministre de la défense.
 
 Ces fonctions sont, dans tous les cas, rémunérées à la vacation.
 

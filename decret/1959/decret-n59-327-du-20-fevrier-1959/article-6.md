@@ -2,7 +2,7 @@
 
 Le tribunal est saisi par l'envoi d'une lettre recommandée adressée au greffier.
 
-Dans les huit jours qui suivent, communication est faite de la requête du demandeur au commissaire du Gouvernement près le tribunal des pensions afin que l'administration produise, au plus tard dans les trois mois, le dossier devant le tribunal avec ses observations.
+Dans les huit jours qui suivent la réception de ce courrier, le greffe du tribunal communique la requête à l'auteur de la décision contestée et lui demande de produire, au plus tard dans les trois mois, le dossier avec ses observations.
 
 Le demandeur est informé par lettre recommandée avec accusé de réception des propositions de l'administration.
 
@@ -14,4 +14,4 @@ En cas d'accord des parties, il en est donné acte par ordonnance du président 
 
 En cas de non-comparution du demandeur à la suite de sa requête ou en cas de non-conciliation à la confrontation, le président du tribunal en dresse procès-verbal et si une expertise médicale est reconnue nécessaire, l'expert peut être immédiatement désigné par le président dans ce procès-verbal ; si la conciliation ne peut se faire sur le résultat de cette expertise et suivant la procédure ci-dessus indiquée, le demandeur est cité devant le tribunal des pensions, par lettre recommandée avec accusé de réception et ce, à la date fixée par le président en observant au moins un délai de huit jours.
 
-La procédure est dirigée par le président du tribunal ; celui-ci peut notamment impartir au commissaire du Gouvernement un délai pour produire ses conclusions ou, à tout moment de la procédure, le commissaire du Gouvernement entendu, ordonner les mesures d'instruction qu'il juge nécessaire.
+La procédure est dirigée par le président du tribunal ; celui-ci peut notamment impartir à l'auteur de la décision contestée un délai pour produire ses observations ou, à tout moment de la procédure, ordonner les mesures d'instruction qu'il estime nécessaires.
