@@ -425,7 +425,6 @@
 - [Décret n°2001-785 du 27 août 2001 (AGRS0100646D)](decret-n2001-785-du-27-aout-2001-agrs0100646d)
 - [Décret n°92-280 du 27 mars 1992 (MICT9200113D)](decret-n92-280-du-27-mars-1992-mict9200113d)
 - [Décret n°2001-1130 du 28 novembre 2001 (MCCK0100444D)](decret-n2001-1130-du-28-novembre-2001-mcck0100444d)
-- [Décret n°2001-1131 du 28 novembre 2001 (ECOI0100532D)](decret-n2001-1131-du-28-novembre-2001-ecoi0100532d)
 - [Décret n°2001-1280 du 28 décembre 2001 (ECOT0194976D)](decret-n2001-1280-du-28-decembre-2001-ecot0194976d)
 - [Décret n°2001-1315 du 28 décembre 2001 (ECOF0120058D)](decret-n2001-1315-du-28-decembre-2001-ecof0120058d)
 - [Décret n°2001-1317 du 28 décembre 2001 (MESS0123722D)](decret-n2001-1317-du-28-decembre-2001-mess0123722d)
