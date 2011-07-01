@@ -1,6 +1,6 @@
 # Article Annexe Haute-Garonne à Lot-et-G.
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Haute-Garonne
+Direction départementale des territoires de la Haute-Garonne
 
 <table>
 <tbody>
@@ -62,7 +62,7 @@ Direction départementale de l'équipement et de l'agriculture (2) de la Haute-G
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="left">Instructeur des dossiers d'OPAH</p>
+<p align="left">Assistant en charge de la politique de la ville </p>
 </td>
 <td rowspan="2">
 <p align="center">C</p>

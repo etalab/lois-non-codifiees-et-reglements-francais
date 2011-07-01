@@ -8,3 +8,4 @@
 - [Chapitre III : Préparation et déroulement des opérations électorales.](chapitre-iii)
 - [Chapitre IV : Elections partielles.](chapitre-iv)
 - [Chapitre V : Contentieux.](chapitre-v)
+- [Chapitre VI : Dispositions diverses.](chapitre-vi)

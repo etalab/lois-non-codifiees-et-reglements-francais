@@ -34,7 +34,7 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― directeur interrégional des anciens combattants de Marseille ;
 
-― directeur interrégional des anciens combattants de Lyon ;
+― chef de la division mobilité et dialogue social au centre ministériel de gestion de Lyon (à compter du 1er juillet 2011) ;
 
 ― directeur interrégional des anciens combattants de Paris ;
 

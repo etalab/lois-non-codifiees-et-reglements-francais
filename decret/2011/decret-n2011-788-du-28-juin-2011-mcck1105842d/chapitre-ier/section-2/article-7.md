@@ -1,0 +1,5 @@
+# Article 7
+
+Pour chaque mission d'expertise technique, un ordre de mission, qui en précise l'objet, est établi par le président du Centre national du cinéma et de l'image animée et délivré, de manière individuelle et nominative, à la ou aux personnes qui en sont chargées.
+
+Avant de confier un ordre de mission, le président du Centre national du cinéma et de l'image animée veille à ce que la personne pressentie ne se trouve pas en conflit d'intérêts avec les personnes concernées par la procédure. A cette fin, la personne pressentie confirme au président du Centre national du cinéma et de l'image animée l'absence de relations professionnelles, au cours des trois années précédentes, avec la personne appelée à être l'objet de la mission d'expertise technique. Le président du Centre national du cinéma et de l'image animée ne peut lui confier une mission d'expertise technique si, au cours de la période considérée, elle a contrôlé la personne appelée à être l'objet de la mission d'expertise technique ou si elle a effectué une prestation pour son compte ou pour le compte d'une autre personne concernée par la procédure.

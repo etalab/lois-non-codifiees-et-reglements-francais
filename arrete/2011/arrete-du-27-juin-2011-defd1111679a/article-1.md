@@ -1,0 +1,3 @@
+# Article 1
+
+La cession des munitions, actives ou non, et éléments de munitions mentionnés à l'article L. 2331-1 du code de la défense, et remis aux établissements de la défense en application de l'arrêté du 31 juillet 2001 susvisé, est réalisée par le ministère de la défense. La cession des matériels de guerre, armes et éléments d'armes mentionnés au même article est réalisée par le ministère de la défense lorsque s'y attachent des considérations tenant à la défense nationale, à la protection du secret, à la sécurité publique, à la politique industrielle concernant la défense ou à la préservation du patrimoine, ou bien lorsque la présence de substances dangereuses dans ces matériels ne permet pas leur cession en l'état.
