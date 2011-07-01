@@ -7,4 +7,3 @@
 - [Article AOC " Menetou-Salon "](article-aoc-menetou-salon.md)
 - [Article AOC " Pouilly "](article-aoc-pouilly.md)
 - [Article AOC " Quincy "](article-aoc-quincy.md)
-- [Article AOC " Reuilly "](article-aoc-reuilly.md)
