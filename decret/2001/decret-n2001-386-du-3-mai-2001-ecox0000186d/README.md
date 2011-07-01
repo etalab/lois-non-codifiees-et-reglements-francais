@@ -5,7 +5,6 @@
 - [Titre III : Conformité des équipements sous pression transportables.](titre-iii)
 - [Titre IV : Organismes habilités.](titre-iv)
 - [Titre V : Surveillance des équipements et des organismes habilités.](titre-v)
-- [Titre VI : Surveillance des équipements et des organismes habilités ou agréés.](titre-vi)
 - [Titre VII : Sanctions.](titre-vii)
 - [Titre VIII : Dispositions diverses et entrée en vigueur.](titre-viii)
 - [Article 31](article-31.md)
