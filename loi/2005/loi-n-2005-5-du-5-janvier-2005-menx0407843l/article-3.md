@@ -12,9 +12,9 @@ II. - Les cotisations, dont les taux sont fixés par arrêté conjoint des minis
 
 L'ouverture des droits des bénéficiaires est subordonnée à la condition :
 
-- qu'ils justifient de quinze années de services en qualité de personnels enseignants et de documentation habilités par agrément ou par contrat à exercer leurs fonctions dans les établissements d'enseignement privés liés par contrat à l'Etat ;
+- qu'ils justifient de dix-sept  années de services en qualité de personnels enseignants et de documentation habilités par agrément ou par contrat à exercer leurs fonctions dans les établissements d'enseignement privés liés par contrat à l'Etat ;
 
-- soit qu'ils aient atteint l'âge de soixante ans et aient été admis à la retraite, soit qu'ils bénéficient d'un avantage temporaire de retraite servi par l'Etat.
+- soit qu'ils aient atteint l'âge de soixante-deux  ans et aient été admis à la retraite, soit qu'ils bénéficient d'un avantage temporaire de retraite servi par l'Etat.
 
 La retraite additionnelle mise en paiement est servie en rente. Toutefois, lorsque la rente annuelle est inférieure à un montant fixé par arrêté conjoint des ministres chargés de l'éducation, de l'agriculture et du budget, la retraite additionnelle est servie en capital.
 

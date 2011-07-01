@@ -1,6 +1,6 @@
 # Article 7
 
-En l'absence de dispositions particulières prévues par les textes législatifs ou réglementaires régissant l'établissement, la limite d'âge des présidents de conseil d'administration, directeurs généraux et directeurs des établissements publics de l'Etat est fixée à soixante-cinq ans. Toutefois, les fonctionnaires ou magistrats dont la limite d'âge est fixée à soixante-huit ans en application de l'article 1er continuent à présider, jusqu'à ce qu'ils atteignent cette limite, les établissements publics dont les statuts leur confèrent de droit la présidence.
+En l'absence de dispositions particulières prévues par les textes législatifs ou réglementaires régissant l'établissement, la limite d'âge des présidents de conseil d'administration, directeurs généraux et directeurs des établissements publics de l'Etat est fixée conformément au premier alinéa de l'article 1er. Toutefois, les fonctionnaires ou magistrats dont la limite d'âge est fixée à soixante-huit ans en application de l'article 1er continuent à présider, jusqu'à ce qu'ils atteignent cette limite, les établissements publics dont les statuts leur confèrent de droit la présidence.
 
 Les règles relatives à la limite d'âge ne font pas obstacle à ce que les titulaires des fonctions mentionnées à l'alinéa précédent soient maintenus en fonction, au-delà de cette limite, pour continuer à les exercer à titre intérimaire.
 

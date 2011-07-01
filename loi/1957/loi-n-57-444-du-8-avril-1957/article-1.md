@@ -4,6 +4,6 @@ Les agents des services actifs de police de la préfecture de police, soumis à 
 
 A l'exception des contrôleurs généraux, sous-directeurs, directeurs, adjoints, chefs de service et directeurs des services actifs, le bénéfice de la bonification acquise dans les conditions qui précédent est maintenu aux fonctionnaires des services actifs de la préfecture de police également soumis aux dispositions de la loi précitée du 28 septembre 1948 et dont la limite d'âge était, au 1er décembre 1956, supérieure à cinquante-cinq ans, auxquels sont également applicables les dispositions de l'alinéa précédent.
 
-Toutefois, la bonification ainsi maintenue ou acquise sera réduite à concurrence de la durée des services accomplis au-delà de cinquante-cinq ans sans qu'il soit tenu compte des reculs de limite d'âge pour enfants.
+Toutefois, la bonification ainsi maintenue ou acquise sera réduite à concurrence de la durée des services accomplis au-delà de cinquante-sept  ans sans qu'il soit tenu compte des reculs de limite d'âge pour enfants.
 
 Les années de services ouvrant droit au bénéfice des dispositions de l'article 17 de la loi n° 55-366 du 3 avril 1955 ne sont pas retenues pour le calcul de la bonification prévue aux alinéas précédents.

@@ -10,7 +10,7 @@ Pour le calcul des pensions et des rentes viagères d'invalidité attribuées au
 
 Ces dispositions prennent effet au 1er janvier 1983, dans des conditions fixées par décret en Conseil d'Etat.
 
-III. Les sapeurs-pompiers professionnels de tous grades des services d'incendie et de secours, bénéficient à compter de l'âge de cinquante-cinq ans et sous certaines conditions, notamment d'une durée minimale de service susceptible d'être prise en compte dans la constitution de leurs droits à pension du régime de retraite des agents des collectivités locales et d'une durée de quinze ans de service effectif en qualité de sapeur-pompier professionnel, d'une bonification du temps du service accompli pour la liquidation de leur pension de retraite dans la limite de cinq annuités.
+III. Les sapeurs-pompiers professionnels de tous grades des services d'incendie et de secours, bénéficient à compter de l'âge de cinquante-sept ans et sous certaines conditions, notamment d'une durée minimale de service susceptible d'être prise en compte dans la constitution de leurs droits à pension du régime de retraite des agents des collectivités locales et d'une durée de dix-sept ans de service effectif en qualité de sapeur-pompier professionnel, d'une bonification du temps du service accompli pour la liquidation de leur pension de retraite dans la limite de cinq annuités.
 
 Cet avantage est également accordé aux sapeurs-pompiers professionnels radiés des cadres pour invalidité imputable au service ainsi qu'aux sapeurs-pompiers professionnels reclassés pour raison opérationnelle et aux sapeurs-pompiers professionnels admis au bénéfice d'un congé pour raison opérationnelle.
 
@@ -21,7 +21,5 @@ Les années de service effectuées dans le cadre du reclassement ou du congé po
 Les années passées en congé pour raison opérationnelle sont prises en compte au titre de la durée minimale de service ouvrant droit au bénéfice de la bonification.
 
 Cette bonification ne peut avoir pour effet de porter à plus de trente-sept annuités et demie la durée des services effectifs pris en compte dans la pension, sans préjudice des dispositions communes relatives aux bonifications de service sous un plafond global de quarante annuités.
-
-Les dispositions de l'ordonnance n° 82-290 du 30 mars 1982 relatives à la limitation des possibilités du cumul entre pension de retraite et revenu d'activités, sont applicables aux sapeurs-pompiers professionnels qui ont atteint l'âge de cinquante-cinq ans.
 
 Un décret en Conseil d'Etat fixe les conditions que doivent remplir les intéressés et notamment la durée et la nature des services publics qu'ils devront avoir préalablement accomplis ainsi que les modalités d'attribution de la bonification et notamment le taux de la retenue supplémentaire pour pension qui sera mise à la charge des sapeurs-pompiers professionnels.

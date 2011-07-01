@@ -6,7 +6,7 @@ Les agents du corps des aides-soignants de la fonction publique hospitalière so
 
 La prise en compte de la prime spéciale de sujétion mentionnée au premier alinéa et le supplément de pension qui en découle seront réalisés progressivement du 1er janvier 2004 au 1er janvier 2008 dans des conditions fixées par décret en Conseil d'Etat.
 
-Le bénéfice du supplément de pension résultant de l'intégration de cette prime est ouvert à partir de l'âge de cinquante-cinq ans et à condition d'avoir accompli quinze ans de services effectifs dans la fonction publique hospitalière.
+Le bénéfice du supplément de pension résultant de l'intégration de cette prime est ouvert à partir de l'âge de cinquante-sept  ans et à condition d'avoir accompli dix-sept  ans de services effectifs dans la fonction publique hospitalière.
 
 Les deux conditions prévues à l'alinéa précédent ne sont pas applicables aux agents du corps des aides-soignants qui sont radiés des cadres ou mis à la retraite pour invalidité et aux ayants cause de ces fonctionnaires décédés avant leur admission à la retraite.
 
