@@ -1,5 +1,5 @@
 # Article 5
 
-Les ministres désignent dans les administrations de l'Etat les fonctionnaires qui sont chargés d'assurer les fonctions d'inspection en matière d'hygiène et de sécurité.
+Les fonctionnaires ou agents chargés d'assurer les fonctions d'inspection en matière de santé et de sécurité au travail définies à l'article 5-2 sont désignés dans les administrations de l'Etat par le ministre, et dans les établissements publics de l'Etat soumis aux dispositions du présent décret par le directeur de l'établissement, sous réserve des dispositions prévues au deuxième alinéa de l'article 5-1.
 
-Ces fonctionnaires sont rattachés, dans l'exercice de leurs attributions, aux services d'inspection générale des ministères. Des arrêtés conjoints du ministre chargé de la fonction publique et des ministres concernés désignent les services d'inspection générale compétents et définissent les conditions de rattachement de ces fonctionnaires auxdites inspections générales.
+Ces fonctionnaires et agents, appelés inspecteurs santé et sécurité au travail, peuvent exercer leurs missions pour le compte de plusieurs administrations et établissements publics.

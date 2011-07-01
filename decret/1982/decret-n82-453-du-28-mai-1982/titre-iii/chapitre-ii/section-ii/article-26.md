@@ -4,4 +4,4 @@ Le médecin de prévention est habilité à proposer des aménagements de poste 
 
 Il peut également proposer des aménagements temporaires de poste de travail ou de conditions d'exercice des fonctions au bénéfice des femmes enceintes.
 
-Lorsque ces propositions ne sont pas agréés par l'Administration, celle-ci doit motiver son refus.
+Lorsque ces propositions ne sont pas agréées par l'administration, celle-ci doit motiver son refus et le comité d'hygiène, de sécurité et des conditions de travail doit en être tenu informé.

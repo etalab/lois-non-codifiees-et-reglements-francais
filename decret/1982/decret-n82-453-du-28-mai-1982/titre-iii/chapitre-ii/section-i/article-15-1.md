@@ -4,6 +4,6 @@ Dans chaque service ou établissement public de l'Etat entrant dans le champ d'a
 
 Le médecin de prévention a accès aux informations utiles lui permettant d'établir la fiche des risques professionnels susévoquée.
 
-Cette fiche est établie conformément aux dispositions de l'article R. 241-41-3 du Code du travail. Elle est communiquée au chef de service ou d'établissement. Elle est tenue à la disposition des agents mentionnés aux articles 5, 5-1, 5-4 et 5-5 du présent décret. Elle est présentée au comité d'hygiène et de sécurité en même temps que le rapport annuel du médecin de prévention prévu aux articles 28 et 49 du présent décret.
+Cette fiche est communiquée au chef de service ou d'établissement. Elle est tenue à la disposition des agents mentionnés aux articles 5, 5-4 et 5-5 du présent décret. Elle est présentée au comité d'hygiène, de sécurité et des conditions de travail en même temps que le rapport annuel du médecin de prévention prévu aux articles 28 et 63 du présent décret.
 
-Les comités d'hygiène et de sécurité sont, en outre, régulièrement informés de l'évolution des risques professionnels entrant dans leur champ de compétence.
+Les comités d'hygiène, de sécurité et des conditions de travail sont, en outre, régulièrement informés de l'évolution des risques professionnels entrant dans leur champ de compétence.

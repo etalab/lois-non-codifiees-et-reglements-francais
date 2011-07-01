@@ -5,6 +5,7 @@
 - [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)
 - [Article 3-1](article-3-1.md)
+- [Article 3-2](article-3-2.md)
 - [Article 4](article-4.md)
 - [Article 4-1](article-4-1.md)
 - [Article 4-2](article-4-2.md)
@@ -18,3 +19,4 @@
 - [Article 5-7](article-5-7.md)
 - [Article 5-8](article-5-8.md)
 - [Article 5-9](article-5-9.md)
+- [Article 5-10](article-5-10.md)

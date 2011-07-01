@@ -1,5 +1,11 @@
 # Article 5-7
 
-Si un membre du comité d'hygiène et de sécurité constate qu'il existe une cause de danger grave et imminent, notamment par l'intermédiaire d'un agent qu'il s'est retiré de la situation de travail définie au premier alinéa de l'article 5-6, il en avise immédiatement le chef de service ou son représentant et consigne cet avis dans le registre établi dans les conditions fixées à l'article 5-8. Il est procédé à une enquête immédiate par le chef de service, en compagnie du membre du comité d'hygiène et de sécurité ayant signalé le danger. Le chef de service prend les mesures nécessaires pour remédier à la situation et informe le comité des décisions prises.
+Le représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail qui constate qu'il existe une cause de danger grave et imminent, notamment par l'intermédiaire d'un agent, en alerte immédiatement le chef de service ou son représentant selon la procédure prévue au premier alinéa de l'article 5-5 et consigne cet avis dans le registre établi dans les conditions fixées à l'article 5-8.
 
-En cas de divergence sur la réalité du danger ou la façon de le faire cesser, le chef de service arrête les mesures à prendre, après avis du comité d'hygiène et de sécurité compétent réuni en urgence dans un délai n'excédant pas vingt-quatre heures. L'inspecteur du travail est obligatoirement saisi selon les modalités prévues à l'article 5-5 ci-dessus et assiste de plein droit à la réunion du comité d'hygiène et de sécurité. Après avoir pris connaissance de l'avis émis par le comité d'hygiène et de sécurité, l'autorité administrative arrête les mesures à prendre.
+Le chef de service procède immédiatement à une enquête avec le représentant du comité d'hygiène, de sécurité et des conditions de travail qui lui a signalé le danger et prend les dispositions nécessaires pour y remédier. Il informe le comité des décisions prises.
+
+En cas de divergence sur la réalité du danger ou la façon de le faire cesser, notamment par arrêt du travail, de la machine ou de l'installation, le comité d'hygiène, de sécurité et des conditions de travail compétent est réuni d'urgence, dans un délai n'excédant pas vingt-quatre heures. L'inspecteur du travail est informé de cette réunion et peut y assister.
+
+Après avoir pris connaissance de l'avis émis par le comité d'hygiène, de sécurité et des conditions de travail compétent, l'autorité administrative arrête les mesures à prendre.
+
+A défaut d'accord entre l'autorité administrative et le comité d'hygiène, de sécurité et des conditions de travail sur les mesures à prendre et leurs conditions d'exécution, l'inspecteur du travail est obligatoirement saisi.

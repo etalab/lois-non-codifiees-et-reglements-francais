@@ -1,7 +1,15 @@
 # Article 10
 
-Un service de médecine de prévention est créé dans les administrations et établissements publics de l'Etat soumis aux dispositions du présent décret en application de l'article 1er ci-dessus. Le service de médecine de prévention a pour rôle de prévenir toute altération de la santé des agents du fait de leur travail.
+Un service de médecine de prévention, dont les modalités d'organisation sont fixées à l'article 11, est créé dans les administrations et établissements publics de l'Etat soumis aux dispositions du présent décret.
 
-Ce service peut être commun à plusieurs administrations et établissements publics.
+Le service de médecine de prévention a pour rôle de prévenir toute altération de la santé des agents du fait de leur travail. Il conduit les actions de santé au travail, dans le but de préserver la santé physique et mentale des travailleurs tout au long de leur parcours professionnel.
 
-Les administrations ou les établissements publics peuvent, le cas échéant, après avis du comité d'hygiène et de sécurité compétent, faire appel aux services de médecine du travail régis par le titre IV, livre II, du code du travail, en bénéficiant par convention des services de médecine du travail ayant reçu un agrément pour un secteur médical spécifique réservé aux agents publics. Dans ce cas, les articles R. 241-14 à R. 241-20 du code du travail ne s'appliquent pas et le comité d'hygiène et de sécurité compétent est informé pour avis de l'organisation et des modalités de fonctionnement de ce secteur médical. Les modalités d'agrément sont fixées par arrêté conjoint du ministre chargé du travail, du ministre chargé de la fonction publique et du ministre chargé du budget. Des conventions peuvent également être passées avec les services médicaux du travail en agriculture agréés dans les conditions fixées aux articles 3 et 4 du décret n° 82-397 du 11 mai 1982 susvisé.
+Afin d'assurer la mise en œuvre des compétences médicales, techniques et organisationnelles nécessaires à la prévention des risques professionnels et à l'amélioration des conditions de travail, le service de médecine de prévention fait appel en tant que de besoin, aux côtés du médecin de prévention, des infirmiers et le cas échéant des secrétaires médicaux, à des personnes ou des organismes possédant des compétences dans ces domaines.
+
+L'équipe pluridisciplinaire ainsi constituée est placée sous la responsabilité du chef de service et est coordonnée par le médecin de prévention. L'indépendance des personnes et organismes associés extérieurs à l'administration est garantie dans le cadre d'une convention qui précise :
+
+1° Les actions qui leur sont confiées et les modalités de leur exercice ;
+
+2° Les moyens mis à leur disposition ainsi que les règles assurant leur accès aux lieux de travail et les conditions d'accomplissement de leurs missions, notamment celles propres à assurer la libre présentation de leurs observations ou propositions.
+
+Les services sociaux peuvent être associés à la mise en œuvre des actions menées par l'équipe pluridisciplinaire.
