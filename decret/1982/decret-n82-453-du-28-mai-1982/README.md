@@ -3,5 +3,5 @@
 - [Titre Ier : Règles relatives à l'hygiène et à la sécurité et contrôle de leur application.](titre-ier)
 - [Titre II : Formation en matière d'hygiène et de sécurité.](titre-ii)
 - [Titre III : Médecine de prévention.](titre-iii)
-- [Titre IV : Organismes compétents en matière d'hygiène et de sécurité](titre-iv)
+- [Titre IV : Comité d'hygiène, de sécurité et des conditions de travail](titre-iv)
 - [Article 64](article-64.md)
