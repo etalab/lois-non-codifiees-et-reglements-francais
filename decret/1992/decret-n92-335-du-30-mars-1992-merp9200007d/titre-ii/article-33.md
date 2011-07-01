@@ -1,3 +1,0 @@
-# Article 33
-
-Les conditions de fonctionnement de chaque comité régional sont fixées par un règlement intérieur soumis à l'approbation du préfet de la région dans laquelle le comité régional a son siège.
