@@ -527,7 +527,6 @@
 - [Arrêté du 7 juin 2010 (JUSA1014871A)](arrete-du-7-juin-2010-jusa1014871a)
 - [Arrêté du 7 juin 2010 (MCCB1014511A)](arrete-du-7-juin-2010-mccb1014511a)
 - [Arrêté du 7 juin 2010 (MENE1010854A)](arrete-du-7-juin-2010-mene1010854a)
-- [Arrêté du 7 juin 2010 (MENE1015003A)](arrete-du-7-juin-2010-mene1015003a)
 - [Arrêté du 7 juin 2010 (SASP1014839A)](arrete-du-7-juin-2010-sasp1014839a)
 - [Arrêté du 7 octobre 2010 (AGRG1025723A)](arrete-du-7-octobre-2010-agrg1025723a)
 - [Arrêté du 7 octobre 2010 (AGRT1024549A)](arrete-du-7-octobre-2010-agrt1024549a)
