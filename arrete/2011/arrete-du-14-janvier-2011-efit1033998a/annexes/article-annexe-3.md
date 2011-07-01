@@ -2,8 +2,7 @@
 
 <div>
 <div>
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -39,7 +38,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 1 000 € or qualité Brillant Universel</td>
+<p align="left">
+<br/>Pièces 1 000 € or qualité Brillant Universel</p>
+</td>
 <td align="center">
 <br/>39</td>
 <td align="center">
@@ -55,7 +56,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 200 € or qualité Brillant Universel</td>
+<p align="left">
+<br/>Pièces 200 € or qualité Brillant Universel</p>
+</td>
 <td align="center">
 <br/>21</td>
 <td align="center">
@@ -71,13 +74,15 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 100 € en argent qualité circulante</td>
+<p align="left">
+<br/>Pièces 100 € en argent qualité circulante</p>
+</td>
 <td align="center">
 <br/>47</td>
 <td align="center">
 <br/>Argent 900 Cuivre 100</td>
 <td align="center">
-<br/>+10<br/>― 5</td>
+<br/>+10<br/>- 5</td>
 <td align="center">
 <br/>50</td>
 <td align="center">
@@ -87,13 +92,15 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 10 € en argent qualité circulante<br/>Euros des  Régions millésime 2011</td>
+<p align="left">
+<br/>Pièces 10 € en argent qualité circulante<br/>Euros des Régions millésime 2011</p>
+</td>
 <td align="center">
 <br/>29</td>
 <td align="center">
 <br/>Argent 500 Cuivre 500</td>
 <td align="center">
-<br/>+10<br/>― 5</td>
+<br/>+10<br/>- 5</td>
 <td align="center">
 <br/>10</td>
 <td align="center">
@@ -103,7 +110,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 10 € en argent qualité circulante Mayotte</td>
+<p align="left">
+<br/>Pièces 10 € en argent qualité circulante Mayotte</p>
+</td>
 <td align="center">
 <br/>29</td>
 <td align="center">
@@ -119,7 +128,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 2 € qualité Belle Epreuve</td>
+<p align="left">
+<br/>Pièces 2 € qualité Belle Epreuve</p>
+</td>
 <td align="center">
 <br/>25,75</td>
 <td align="center">
@@ -135,7 +146,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 2 € qualité Brillant Universel</td>
+<p align="left">
+<br/>Pièces 2 € qualité Brillant Universel</p>
+</td>
 <td align="center">
 <br/>25,75</td>
 <td align="center">
@@ -151,7 +164,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Pièces 1 € 1/2 qualité Brillant Universel</td>
+<p align="left">
+<br/>Pièces 1 € 1/2 qualité Brillant Universel</p>
+</td>
 <td align="center">
 <br/>30</td>
 <td align="center">
@@ -165,9 +180,50 @@
 <td align="center">
 <br/>Cannelée</td>
 </tr>
+<tr>
+<td>Pièces 20 € en argent qualité circulante</td>
+<td>
+<p align="center">31</p>
+</td>
+<td>
+<p align="center">Argent 900 Cuivre 100</p>
+</td>
+<td>
+<p align="center">± 5</p>
+</td>
+<td>
+<p align="center">15</p>
+</td>
+<td>
+<p align="center">± 15</p>
+</td>
+<td>
+<p align="center">Lisse</p>
+</td>
+</tr>
+<tr>
+<td>Pièces 50 € en argent qualité circulante</td>
+<td>
+<p align="center">41</p>
+</td>
+<td>
+<p align="center">Argent 900 Cuivre 100</p>
+</td>
+<td>
+<p align="center">+10<br/>- 5</p>
+</td>
+<td>
+<p align="center">36</p>
+</td>
+<td>
+<p align="center">± 15</p>
+</td>
+<td>
+<p align="center">Lisse</p>
+</td>
+</tr>
 </tbody>
 </table>
-
 </div>
 <br/>
 </div>
