@@ -18,6 +18,6 @@ Cette remise ne donne pas lieu à contrepartie financière.
 
 Le ministre de la défense a la libre disposition de ces matériels, armes, éléments d'armes, munitions et éléments de munitions.
 
-Il remet les matériels de guerre de 2e et 3e catégorie dont il n'a plus l'utilisation au service des domaines.
+Il remet à l'administration chargée des domaines les matériels de guerre de 2e et 3e catégorie dont il n'a plus l'utilisation et qui ne sont pas inscrits sur la liste prévue à l'article 2 de l'arrêté du 27 juin 2011 relatif aux spécificités justifiant la cession par le ministère de la défense des matériels de guerre, armes et munitions.
 
 Le ministre de la défense procède ou fait procéder à la destruction des autres matériels dont il n'a plus l'utilisation.
