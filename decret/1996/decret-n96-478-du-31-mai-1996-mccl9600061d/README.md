@@ -6,5 +6,5 @@
 - [Titre IV : Code des devoirs professionnels.](titre-iv)
 - [Titre V : Organisation et administration de l'ordre](titre-v)
 - [Titre VI : Surveillance, contrôle et discipline.](titre-vi)
-- [Titre VII : Des activités accessoires d'entremise et de gestion immobilières](titre-vii)
+- [Titre VII : Des activités d'entremise et de gestion immobilières](titre-vii)
 - [Titre VIII : Dispositions finales.](titre-viii)
