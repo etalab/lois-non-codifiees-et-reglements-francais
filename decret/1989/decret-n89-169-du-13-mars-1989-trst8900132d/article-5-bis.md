@@ -2,7 +2,7 @@
 
 Un conseil scientifique est institué auprès du conseil d'administration. Il est composé de six membres désignés ainsi qu'il suit :
 
-a) Deux représentants du ministre chargé des transports, un représentant du ministre chargé de l'économie et des finances et un représentant d'un organisme d'analyse choisi par le ministre chargé des transports, désignés dans des conditions fixées par un arrêté interministériel ;
+a) Quatre personnalités choisies par le ministre chargé des transports en raison de leur compétence dans le domaine des transports.
 
 b) Deux personnes qualifiées, dont le mandat est de trois ans, désignées par le conseil d'administration.
 

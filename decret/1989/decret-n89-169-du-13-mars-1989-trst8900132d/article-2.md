@@ -1,13 +1,15 @@
 # Article 2
 
-Le Comité national routier a pour mission de :
+Le Comité national routier est chargé des missions suivantes :
 
-a) Participer à l'observation économique du marché et diffuser à la profession des transporteurs routiers de marchandises et aux pouvoirs publics les informations qu'il recueille et les analyses économiques qu'il réalise ;
+a) Participer à l'observation et au suivi des aspects économiques du marché du transport routier de marchandises, notamment à travers l'analyse des coûts, et diffuser les informations qu'il collecte et les analyses économiques qu'il réalise ;
 
-b) Effectuer des travaux de recherche et des études socio-économiques utiles à l'ensemble de la profession ;
+b) Effectuer des travaux de recherche et des études socio-économiques concernant le marché des transports de marchandises et utiles à l'ensemble des professionnels du transport ;
 
-c) Mener toute mission d'intérêt général pour la profession confiée par le ministre chargé des transports.
+c) Mettre au point et diffuser des outils de gestion utiles aux transporteurs routiers ;
 
-Le Comité national routier peut être saisi par le ministre chargé des transports de toute demande d'étude et évaluation concernant le secteur des transports de marchandises et la profession de transporteur, pour tout ce qui concerne l'état du marché et les relations entre les clients, les transporteurs et les destinataires.
+d) Mener toute mission d'intérêt général pour la profession.
 
-Il adresse au ministre chargé des transports et au président du Conseil national des transports un rapport annuel sur son activité.
+Le Comité national routier peut être saisi par le ministre chargé des transports de toute demande s'inscrivant dans le cadre des missions définies ci-dessus.
+
+Le comité adresse au ministre chargé des transports un rapport annuel sur son activité.

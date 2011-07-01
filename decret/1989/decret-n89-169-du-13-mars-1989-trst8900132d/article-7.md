@@ -1,6 +1,6 @@
 # Article 7
 
-Le directeur des transports terrestres au ministère chargé des transports exerce, auprès du conseil d'administration, les fonctions de commissaire du Gouvernement.
+Le   directeur chargé des transports terrestres au ministère chargé des transports exerce, auprès du conseil d'administration, les fonctions de commissaire du Gouvernement.
 
 Il assiste de droit, sans prendre part au vote, à toutes les séances du conseil d'administration ainsi qu'à celles de toutes les commissions créées par celui-ci. Il peut se faire représenter.
 
