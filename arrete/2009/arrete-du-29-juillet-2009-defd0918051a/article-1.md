@@ -10,16 +10,14 @@ I. ― La direction du service national comprend, outre la mission liaisons-part
 
 4° La sous-direction des affaires financières et du soutien.
 
-II. - Elle a autorité sur les organismes extérieurs suivants :
+II.-Elle a autorité sur les organismes extérieurs suivants :
 
-1° Les directions interrégionales du service national ;
+1° (Supprimé)
 
 2° Les établissements du service national ;
 
-3° Les bureaux du service national ;
-
-4° Les centres du service national ;
+3° et 4° (Supprimés)
 
 5° Le bureau central des archives administratives militaires ;
 
-6° Les centres du service national relevant des commandements supérieurs dans les collectivités territoriales d'outre-mer.
+6° Les centres du service national relevant des commandements supérieurs dans les départements et régions d'outre-mer, dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
