@@ -2,9 +2,9 @@
 
 Pour l'application des dispositions du deuxième alinéa de l'article L. 382-27 du code de la sécurité sociale, sont applicables les dispositions suivantes :
 
-I. - L'âge fixé au premier alinéa de l'article D. 721-6 du code de la sécurité sociale, dans sa rédaction en vigueur au 31 décembre 1997 est également abaissé à soixante ans au profit des assurés qui justifient, dans le régime d'assurance vieillesse des ministres des cultes et des membres des congrégations et collectivités religieuses et un ou plusieurs autres régimes de base obligatoires, de périodes d'assurance et de périodes reconnues équivalentes, d'une durée au moins égale à la durée fixée au 1° de l'article R. 351-27 du code de la sécurité sociale, ou par les dispositions des III à V de l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+I. - L'âge fixé au premier alinéa de l'article D. 721-6 du code de la sécurité sociale, dans sa rédaction en vigueur au 31 décembre 1997 est celui résultant des dispositions de l'article L. 161-17-2 du code de la sécurité sociale pour les assurés qui justifient, dans le régime d'assurance vieillesse des ministres des cultes et des membres des congrégations et collectivités religieuses et un ou plusieurs autres régimes de base obligatoires, de périodes d'assurance et de périodes reconnues équivalentes, d'une durée au moins égale à la durée fixée au 1° de l'article R. 351-27 du code de la sécurité sociale, ou par les dispositions des III à V de l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
-II. - Pour les assurés qui ne remplissent pas les conditions fixées au I du présent article, la pension de vieillesse mentionnée à l'article D. 721-6 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997 peut également être allouée à partir de l'âge de soixante ans. Il lui est alors appliqué le coefficient de minoration fixé au 2° du I et au II de l'article R. 351-27 du code de la sécurité sociale.
+II. - Pour les assurés qui ne remplissent pas les conditions fixées au I du présent article, la pension de vieillesse mentionnée à l'article D. 721-6 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997 peut également être allouée à partir de l'âge mentionné au I. Il lui est alors appliqué le coefficient de minoration fixé au 2° du I et au II de l'article R. 351-27 du code de la sécurité sociale.
 
 III. - La pension mentionnée au premier alinéa de l'article D. 721-7 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997 est allouée pour son montant maximum à l'assuré qui justifie d'une durée d'assurance dans le régime d'assurance vieillesse des ministres des cultes et des membres des congrégations et collectivités religieuses au moins égale à la durée maximale fixée à l'article R. 351-6 du code de la sécurité sociale.
 
@@ -30,7 +30,7 @@ e) 100 % de l'écart pour les assurés nés après 1942.
 
 La majoration est attribuée au prorata du nombre de trimestres cotisés par l'assuré entre le 1er janvier 1979 et le 31 décembre 1997, rapporté au nombre de trimestres nécessaires pour atteindre la durée maximale fixée à l'article R. 351-6 du code de la sécurité sociale.
 
-Pour l'application des dispositions du présent V, sont prises en compte les valeurs respectives en vigueur     à la date d'entrée en jouissance de la pension du maximum de pension et du minimum de pension et de sa majoration visés au premier alinéa dudit V.
+Pour l'application des dispositions du présent V, sont prises en compte les valeurs respectives en vigueur à la date d'entrée en jouissance de la pension du maximum de pension et du minimum de pension et de sa majoration visés au premier alinéa dudit V.
 
 V bis. - Pour les assurés qui soit remplissent les conditions prévues à l'article D. 721-6 du code de la sécurité sociale, dans sa rédaction en vigueur au 31 décembre 1997, soit justifient de la durée d'assurance visée au I du présent article, la pension prévue à l'article D. 721-7 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997 est, lors de sa liquidation, assortie d'une majoration.
 
