@@ -6,7 +6,7 @@ Pour bénéficier de ce versement, l'entreprise de production doit remplir les c
 
 1° Etre titulaire d'un compte ouvert chaque année à son nom au Centre national de la cinématographie depuis au moins trois ans ;
 
-2° Ne pas avoir fait l'objet d'une décision du directeur général du Centre national de la cinématographie prise en application de l'article 8-1 du décret n° 98-35 du 14 janvier 1998 relatif au soutien financier de l'industrie audiovisuelle au cours des cinq dernières années ;
+2° Ne pas avoir fait l'objet d'une décision de sanction prononcée par la commission du contrôle de la réglementation en application de l'article L. 423-1 du code du cinéma et de l'image animée au cours des cinq dernières années ;
 
 3° Présenter un programme de production ;
 
