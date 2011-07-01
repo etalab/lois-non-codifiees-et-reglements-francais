@@ -1,5 +1,5 @@
 # Article 10
 
-Les titulaires du brevet national de sécurité et de sauvetage aquatique sont astreints tous les cinq ans à une session de recyclage et de perfectionnement à l'issue de laquelle ils reçoivent un certificat validant leur aptitude à la surveillance et au sauvetage.
+Le titulaire du brevet national de sécurité et de sauvetage aquatique qui souhaite prolonger la validité de son diplôme est soumis, tous les cinq ans, à une vérification de maintien des acquis, comprenant les seules épreuves n° 1 et 3 figurant en annexe I du présent arrêté.
 
-L'organisation des sessions de recyclage et les conditions de déroulement du test de contrôle sont fixées par voie de circulaire.
+Si, à l'issue de cette vérification, il est jugé apte à chacune des épreuves, le préfet du département établit, au vu du procès-verbal du jury, une attestation nominative de validation du maintien des acquis qui est notifiée au candidat, par l'intermédiaire de l'organisme compétent. La validité de cette vérification est de cinq ans.

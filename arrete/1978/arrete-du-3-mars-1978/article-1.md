@@ -20,23 +20,23 @@ Confédération française démocratique du travail (CFDT) : un membre ;
 
 Confédération française des travailleurs chrétiens (CFTC) : un membre ;
 
-Confédération générale de l'encadrement confédération générale des cadres (CFE- CGC) : un membre.
+Confédération générale de l'encadrement confédération générale des cadres (CFE-CGC) : un membre.
 
-c) Syndicats de restaurateurs et de commerces susceptibles d'être assimilés à des restaurateurs :
+c) Syndicats de restaurateurs, de détaillants en fruits et légumes et de commerces susceptibles d'être assimilés à des restaurateurs :
 
-Fédération nationale de l'industrie hôtelière de France et d'outre-mer : un membre.
+-Confédération des professionnels indépendants de l'hôtellerie (CPIH) : un membre ;
 
-Union des chambres syndicales des cafetiers, limonadiers et restaurateurs : un membre ;
+-Groupement national de la restauration (GNR) : un membre ;
 
-Syndicat national des restaurateurs, limonadiers et hôteliers : un membre ;
+-Union des métiers et des industries de l'hôtellerie (UMIH) : un membre ;
 
-Confédération française des hôteliers-restaurateurs, cafetiers, discothèques : un membre ;
+-Syndicat national des hôteliers restaurateurs (SYNHORCAT) : un membre ;
 
-Le groupement national de la restauration : un membre ;
+-Union nationale des syndicats de détaillants en fruits, légumes et primeurs (UNFD) : un membre ;
 
-Confédération nationale de la charcuterie de France : un membre ;
+-Confédération française de la boucherie, boucherie-charcuterie, traiteurs (CFBCF) : un membre ;
 
-Confédération nationale de la boulangerie et de la boulangerie-¬pâtisserie française : un membre.
+-Confédération nationale de la boulangerie, boulangerie-pâtisserie française : un membre.
 
 d) Entreprises émettrices de titres-restaurant :
 

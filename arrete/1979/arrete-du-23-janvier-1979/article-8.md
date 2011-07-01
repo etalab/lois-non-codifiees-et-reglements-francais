@@ -1,15 +1,15 @@
 # Article 8
 
-Tout candidat au brevet national de sécurité et de sauvetage aquatique doit présenter, quinze jours au moins avant la date de la session, une demande écrite à laquelle il devra joindre :
+Les dossiers de candidature sont constitués par l'association ou l'organisme formateur. Ils comprennent, pour chaque candidat, les pièces suivantes :
 
-Le brevet national de secourisme ;
+-une demande écrite du candidat ;
 
-Une pièce attestant de la mention en ranimation du brevet national de secourisme ;
+-une copie du certificat de compétences de secouriste-premiers secours en équipe de niveau 1-du candidat ou un titre équivalent ;
 
-Le certificat médical d'aptitude à la natation ;
+-un justificatif attestant du maintien des compétences de secouriste du candidat, en application des dispositions de l'arrêté du 27 août 2007 susvisé modifié ;
 
-Le certificat médical d'acuité visuelle ;
+-un certificat médical conforme au modèle figurant en annexe de l'arrêté 26 juin 1991 susvisé ;
 
-Le certificat médical d'acuité auditive ;
+-une fiche de renseignements administratifs, conforme au modèle joint en annexe 2 du présent arrêté.
 
-Une fiche de renseignements administratifs.
+La demande du mineur ou du mineur émancipé doit être présentée, en tenant compte des précisions spécifiées dans l'article 2 bis du présent arrêté.

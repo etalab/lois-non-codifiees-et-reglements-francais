@@ -1,25 +1,9 @@
 # Article 3
 
-L'examen pour l'obtention du brevet national de sécurité et de sauvetage aquatique comporte :
+L'examen de ce brevet national comporte quatre épreuves définies et précisées à l'annexe 1 du présent arrêté.
 
-- cinq épreuves pratiques éliminatoires non cotées :
+L'ordre de déroulement des épreuves est laissé à la libre appréciation du jury.
 
-- épreuve d'apnée ;
+Pour être déclaré admis à l'examen, le candidat doit être jugé apte à chacune des épreuves, dans les conditions définies à l'annexe 1 précitée.
 
-- épreuve du mannequin ;
-
-- épreuve de plongeon ;
-
-- épreuve avec palmes, masque et tuba ;
-
-- épreuve de premiers secours ;
-
-- trois épreuves cotées, chacune des épreuves est notée de 0 à 20, elles sont affectées des coefficients suivants :
-
-- natation (coefficient 1) ;
-
-- action du sauveteur sur le noyé (coefficient 2) ;
-
-- réglementation et prévention (coefficient 3).
-
-Le brevet national de sécurité et de sauvetage aquatique est délivré aux candidats admis aux épreuves éliminatoires et ayant obtenu au moins 72 points sur 120, sans aucune note inférieure à 6, aux épreuves cotées.
+Toutefois, le diplôme est délivré aux candidats admis à l'examen de ce brevet national dans les conditions définies à l'article 2 du présent arrêté.
