@@ -1,8 +1,11 @@
 # Décret n°2002-1434 du 4 décembre 2002 relatif à la procédure d'appel d'offres pour les installations de production d'électricité
 
 - [Article 1](article-1.md)
+- [Section 1 : Dispositions communes aux appels d'offres](section-1)
 - [Article 2](article-2.md)
+- [Section 2 : Dispositions particulières applicables aux appels d'offres mis en œuvre selon la procédure ordinaire](section-2)
 - [Article 3](article-3.md)
+- [Section 3 : Dispositions particulières applicables aux appels d'offres mis en œuvre selon la procédure accélérée](section-3)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
