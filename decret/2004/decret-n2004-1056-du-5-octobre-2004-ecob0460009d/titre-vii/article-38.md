@@ -1,8 +1,10 @@
 # Article 38
 
-I.-Le salaire correspondant à la durée légale de travail appliquée dans l'établissement, augmenté de la prime d'ancienneté, éventuellement de la prime de fonction, de la prime de rendement et des avantages familiaux, est payé, à l'exclusion de toute autre indemnité ou allocation, jusqu'à la fin du mois civil au cours duquel les intéressés sont soit radiés des contrôles, soit décédés en service.
+I.-La rémunération est interrompue à compter du jour de la radiation des contrôles.
 
-II.-Le paiement de la pension de l'intéressé ou de celle de ses ayants cause commence le premier jour du mois suivant.
+II.-La pension est due à compter du premier jour du mois suivant la radiation des contrôles. Toutefois, lorsque la liquidation de la pension intervient à raison de la limite d'âge ou pour invalidité, le paiement prend effet au jour de la radiation des contrôles.
+
+Lorsque l'intéressé est décédé en service, la pension des ayants droit est due à compter du lendemain du décès.
 
 Pour les intéressés radiés des contrôles avant l'âge normal d'ouverture des droits, le paiement de la pension ne peut intervenir conformément au I de l'article 21 avant l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale ou avant l'âge de cinquante-sept ans s'ils ont effectivement accompli dix-sept ans de services dans des emplois comportant des risques particuliers d'insalubrité.
 
