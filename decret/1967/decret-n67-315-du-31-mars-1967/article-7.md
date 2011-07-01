@@ -1,3 +1,3 @@
 # Article 7
 
-Un arrêté conjoint du du ministre chargé du tourisme, du ministre de l'équipement et du ministre de la jeunesse et des sports fixera en tant que de besoin, les modalités d'application du présent décret.
+Un arrêté conjoint du ministre chargé de la mer, du ministre chargé des voies navigables, du ministre chargé des sports, du ministre chargé du tourisme et du ministre chargé des industries nautiques fixera, en tant que de besoin, les modalités d'application du présent décret.
