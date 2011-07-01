@@ -1,0 +1,7 @@
+# Article 24-4
+
+Sans préjudice des dispositions des articles 24-1 et 25, lorsqu'il est constaté qu'un équipement ou une série d'équipements sous pression transportables sont utilisés en méconnaissance des règles mentionnées aux articles 12, 13, 14 et 20, le préfet, s'il s'agit d'un équipement individuel, le ministre chargé de la sécurité industrielle, dans le cas d'un récipient, ou le ministre chargé des transports terrestres de matières dangereuses, dans le cas d'une citerne, s'il s'agit d'une série d'équipements, met le propriétaire ou, à défaut, l'opérateur, selon les dispositions contractuelles qui les lient, en demeure de régulariser sa situation dans un délai qu'il lui fixe.
+
+Sauf urgence, l'opérateur économique concerné est, préalablement à la décision du ministre ou du préfet, mis à même de produire ses observations dans un délai qui ne peut être inférieur à dix jours. Si une mesure a été prise sans que l'opérateur ait été entendu, il est donné à ce dernier l'occasion d'être entendu dès que possible et la mesure prise est réexaminée. Il est informé des voies de recours dont il dispose en vertu de la législation en vigueur ainsi que des délais d'introduction de ces recours.
+
+Si la non-conformité persiste, le préfet ou le ministre concerné, selon le cas, prend les mesures appropriées pour restreindre ou interdire l'utilisation de l'équipement en cause ou, le cas échéant, assurer son retrait.

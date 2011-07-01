@@ -1,31 +1,13 @@
 # Article 8
 
-Les procédures d'évaluation de la conformité autorisées au titre du présent décret sont :
+Les obligations des propriétaires sont les suivantes :
 
-- le contrôle interne de la fabrication (module A) ;
+1° Les propriétaires qui estiment ou ont des raisons de croire qu'un équipement sous pression transportable n'est pas conforme aux exigences énoncées dans l'arrêté TMD, y compris les exigences relatives au contrôle périodique, ou dans le présent décret, ne peuvent mettre cet équipement à disposition ni l'utiliser qu'après sa mise en conformité. En outre, si l'équipement sous pression transportable présente un risque, les propriétaires en informent immédiatement le fabricant, l'importateur ou le distributeur ainsi que le ministre chargé de la sécurité industrielle le cas d'un récipient ou le ministre chargé des transports terrestres de matières dangereuses dans le cas d'une citerne.
 
-- le contrôle interne de la fabrication avec surveillance de la vérification finale (module A1) ;
+Les propriétaires fournissent les documents illustrant tous les cas de non-conformité rencontrés et les mesures correctives adoptées.
 
-- l'examen CE de type (module B) ;
+2° Tant qu'un équipement sous pression transportable est sous leur responsabilité, les propriétaires s'assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité aux exigences énoncées dans l'arrêté TMD ;
 
-- l'examen CE de la conception (module B1) ;
+3° Les propriétaires ne communiquent des informations qu'aux opérateurs qui satisfont aux exigences définies dans l'arrêté TMD et dans le présent décret ;
 
-- la conformité au type (module C1) ;
-
-- l'assurance qualité production (module D) ;
-
-- l'assurance qualité production (module D1) ;
-
-- l'assurance qualité produits (module E) ;
-
-- l'assurance qualité produits (module E1) ;
-
-- la vérification sur produits de la conformité au type (module F) ;
-
-- la vérification à l'unité (module G) ;
-
-- l'assurance complète de qualité (module H) ;
-
-- l'assurance qualité complète avec contrôle de la conception et surveillance particulière de l'essai final (module H1).
-
-Elles sont décrites à l'annexe 2 du présent décret.
+4° Le présent article ne s'applique pas aux personnes privées prévoyant d'utiliser ou utilisant un équipement sous pression transportable pour leur usage personnel ou domestique ou pour leurs activités sportives ou de loisirs.

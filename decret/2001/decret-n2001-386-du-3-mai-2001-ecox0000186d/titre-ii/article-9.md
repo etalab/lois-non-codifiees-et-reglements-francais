@@ -1,5 +1,7 @@
 # Article 9
 
-Les documents et la correspondance relatifs à l'évaluation de la conformité ou à la réévaluation de la conformité effectuées sur le territoire national sont rédigés en langue française ou dans une langue acceptée par l'organisme habilité ou par l'organisme agréé, le cas échéant.
+Les obligations des opérateurs sont les suivantes :
 
-Les informations relatives au mode d'utilisation ou à la sécurité sont obligatoirement fournies en langue française.
+1° Les opérateurs n'utilisent que des équipements sous pression transportables qui sont conformes aux exigences énoncées dans l'arrêté TMD et dans le présent décret ;
+
+2° Si l'équipement sous pression transportable présente un risque, l'opérateur en informe immédiatement le propriétaire ainsi que le ministre chargé de la sécurité industrielle dans le cas d'un récipient ou le ministre chargé des transports terrestres de matières dangereuses dans le cas d'une citerne.

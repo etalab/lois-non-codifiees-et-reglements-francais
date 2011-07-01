@@ -1,11 +1,15 @@
 # Article 5
 
-1° Des arrêtés du ministre chargé de l'industrie, pris après avis de la Commission centrale des appareils à pression pour les récipients, ou du ministre chargé des transports, pris après avis de la commission interministérielle du transport des matières dangereuses pour les citernes, peuvent préciser les dispositions particulières applicables au stockage ou à l'utilisation des équipements sous pression transportables. Ces arrêtés peuvent maintenir les dispositions existantes pour les dispositifs de raccordement, les codes de couleur et la température de référence.
+Les obligations des mandataires sont les suivantes :
 
-2° Par dérogation au premier alinéa du 2° de l'article 4, un arrêté du ministre chargé de l'industrie peut autoriser sur le territoire national, dans des conditions qu'il précise, la mise sur le marché, le transport et la mise en service des récipients neufs mentionnés à l'article 1er, y compris leurs robinets et autres accessoires utilisés pour le transport, dont l'évaluation de la conformité a été effectuée par un organisme agréé conformément aux dispositions de l'article 14 ci-après.
+1° Les mandataires exécutent les tâches précisées dans le mandat reçu du fabricant. Le mandat autorise le mandataire, au minimum :
 
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'autorisation de mise sur le marché national de certains récipients sous pression transportables vaut décision de rejet.
+a) A conserver la documentation technique à la disposition du ministre chargé de la sécurité industrielle et du ministre chargé des transports terrestres de matières dangereuses pendant au moins la période précisée dans l'arrêté TMD pour les fabricants ;
 
-L'organisme agréé ne peut intervenir que pour le groupe dont il fait partie. Les procédures applicables sont les modules A1, C1, F et G décrits à la partie I de l'annexe 2 du présent décret ;
+b) A communiquer au ministre chargé de la sécurité industrielle au ministre chargé des transports terrestres de matières dangereuses qui en fait la demande toutes les informations et tous les documents nécessaires pour démontrer la conformité de l'équipement sous pression transportable, rédigés en langue française ;
 
-Les équipements ne peuvent pas alors porter le marquage mentionné au 1° de l'article 10 ci-après.
+c) A coopérer avec le ministre chargé de la sécurité industrielle ou le ministre chargé des transports terrestres de matières dangereuses qui en fait la demande à la mise en œuvre de toute mesure prise en vue d'éliminer les risques présentés par les équipements sous pression transportables couverts par le mandat ;
+
+2° L'identité et l'adresse du mandataire sont indiquées sur le certificat de conformité visé dans l'arrêté TMD ;
+
+3° Les mandataires ne communiquent des informations qu'aux opérateurs qui satisfont aux exigences définies dans l'arrêté TMD et dans le présent décret.

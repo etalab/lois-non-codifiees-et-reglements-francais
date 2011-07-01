@@ -1,17 +1,19 @@
 # Article 4
 
-On entend par mise sur le marché au sens du présent décret l'exposition, la mise en vente, la vente, l'importation, la location, la mise à disposition ou la cession d'équipements, à quelque titre que ce soit.
+Les obligations des fabricants sont les suivantes :
 
-1° A leur mise sur le marché, les équipements sous pression transportables neufs, définis à l'article 1er, de même que les robinets et autres accessoires neufs utilisés pour le transport, doivent respecter les dispositions applicables des arrêtés ADR ou RID précités et de leurs annexes.
+1° Lorsqu'ils mettent sur le marché leur équipement sous pression transportable, les fabricants veillent à ce qu'il ait été conçu et fabriqué et soit accompagné des documents requis conformément aux exigences énoncées dans l'arrêté TMD et dans le présent décret ;
 
-2° La conformité de ces équipements avec les dispositions concernées est établie par un organisme habilité conformément aux dispositions de l'article 14 ci-après. Elle est prouvée exclusivement au moyen des procédures d'évaluation de la conformité mentionnées à l'article 8 du présent décret.
+2° Lorsqu'au terme de la procédure d'évaluation de la conformité prévue dans l'arrêté TMD et dans le présent décret, la conformité de l'équipement sous pression transportable aux dispositions applicables a été établie, le fabricant appose le marquage Pi conformément aux dispositions de l'article 19 ;
 
-Les agréments CEE de modèles de bouteilles délivrés en application des arrêtés du 11 mars 1986 précités sont réputés équivalents aux attestations d'examen CE de type prévus à l'annexe 2 du présent décret.
+3° Les fabricants conservent la documentation technique mentionnée dans l'arrêté TMD pendant la durée qu'il prévoit ;
 
-3° Les robinets et autres accessoires ayant une fonction directe de sécurité pour l'équipement sous pression transportable, notamment les soupapes de sécurité, les robinets de remplissage et de vidange et les robinets de bouteilles, doivent être soumis à une procédure d'évaluation de la conformité de niveau égal ou supérieur à celui du récipient ou de la citerne sur lesquels ils sont installés.
+4° Les fabricants qui estiment ou ont des raisons de croire qu'un équipement sous pression transportable qu'ils ont mis sur le marché n'est pas conforme aux exigences énoncées dans l'arrêté TMD ou dans le présent décret prennent sans délai les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, s'il y a lieu. En outre, si l'équipement sous pression transportable présente un risque, les fabricants en informent immédiatement le ministre chargé de la sécurité industrielle dans le cas d'un récipient ou le ministre chargé des transports terrestres de matières dangereuses dans le cas d'une citerne ainsi que les autorités compétentes des Etats membres de l'Union dans lesquels ils ont mis l'équipement sous pression transportable à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur les mesures correctives adoptées.
 
-Ces robinets et autres accessoires utilisés pour le transport peuvent être soumis à une procédure d'évaluation de la conformité séparée de celle du récipient ou de la citerne.
+Les fabricants fournissent les documents illustrant tous les cas de non-conformité rencontrés et les mesures correctives adoptées ;
 
-4° Lorsque les annexes des arrêtés ADR ou RID ne contiennent pas de dispositions techniques détaillées pour les robinets et accessoires mentionnés au 1°, ces robinets et accessoires doivent répondre aux exigences du décret du 13 décembre 1999 susvisé et être soumis à une procédure d'évaluation de la conformité de catégorie II, III ou IV, telle que prévue à ses articles 8 et 9 selon que le récipient ou la citerne relèvent des catégories 1, 2 ou 3 respectivement, telles que définies à l'article 7 ci-après.
+5° Les fabricants communiquent au ministre chargé de la sécurité industrielle au ministre chargé des transports terrestres de matières dangereuses qui en fait la demande toutes les informations et tous les documents nécessaires pour démontrer la conformité de l'équipement sous pression transportable, rédigés en langue française. A la demande d'une de ces autorités, ils coopèrent à la mise en place de toute mesure visant à éliminer les risques présentés par des équipements sous pression transportables qu'ils ont mis sur le marché ;
 
-5° Par dérogation au premier alinéa du présent article, la présentation lors des foires et expositions d'équipements sous pression transportables non conformes aux dispositions du présent décret est autorisée, pour autant qu'un panneau visible indique clairement leur non-conformité ainsi que l'impossibilité d'acquérir ces équipements avant leur mise en conformité par le fabricant ou son mandataire établi dans la Communauté européenne. La mise sous pression de ces équipements est interdite.
+6° Les fabricants ne communiquent des informations qu'aux opérateurs qui satisfont aux exigences définies dans l'arrêté TMD et dans le présent décret ;
+
+7° Les fabricants peuvent désigner un mandataire par un mandat écrit. Dans ce cas, les obligations énoncées aux 1° et 2° et l'établissement de la documentation technique ne peuvent relever du mandat du mandataire.

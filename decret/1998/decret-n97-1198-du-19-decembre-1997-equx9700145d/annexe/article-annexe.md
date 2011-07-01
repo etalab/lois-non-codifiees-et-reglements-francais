@@ -850,33 +850,46 @@ Code des ports maritimes :
 
 Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
 
+<div>
 <table>
 <tbody>
 <tr>
-<td valign="top" width="48">
-<p align="center">1</p>
+<td align="center">1 <br/>
 </td>
-<td valign="top" width="356">
-<p>Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.</p>
-<p>Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipement dangereux (citernes).</p>
+<td align="center">
+<br/>Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait. <br/>
 </td>
-<td valign="top" width="202">
-<p>Articles 19, 20 et 21.</p>
+<td align="center">
+<br/>Articles 24-1,24-2,24-3 et 24-4 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="48">
-<p align="center">2</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top" width="356">
-<p>Habilitation ou agrément des organismes de contrôle ainsi que leur suspension ou retrait (citernes).</p>
+<td align="center">
+<br/>Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients et citernes). <br/>
 </td>
-<td valign="top" width="202">
-<p>Articles 14 et 24.</p>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Habilitation des organismes de contrôle ainsi que leur suspension ou retrait (récipients et citernes). <br/>
+</td>
+<td align="center">
+<br/>Articles 22 et 24-7.<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
 Décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés
 
@@ -1750,6 +1763,118 @@ Code de l'environnement
 <p>bateaux de la navigation intérieure. </p>
 </td>
 <td>Article R. 224-12. </td>
+</tr>
+</tbody>
+</table>
+
+Décret du 2 avril 1926 modifié portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression) <br/>
+</td>
+<td align="center">
+<br/>Articles 5 et 6.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Retrait du marché de produits dangereux. <br/>
+</td>
+<td align="center">
+<br/>Article 45-1. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Décret n° 43-63 du 18 janvier 1943 modifié portant règlement sur les appareils à pression de gaz
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Retrait du marché d'appareils ou de produits dangereux <br/>
+</td>
+<td align="center">
+<br/>Article 8.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression) <br/>
+</td>
+<td align="center">
+<br/>Article 6 bis. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression :
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Habilitation d'organismes de contrôle mentionnés aux articles 10,12,18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation. <br/>
+</td>
+<td align="center">
+<br/>Articles 14,21 et 23. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation. <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Interdiction ou restriction de mise sur le marché, de mise en service ou de maintien en service d'équipements dangereux ainsi que leur retrait. <br/>
+</td>
+<td align="center">
+<br/>Articles 28 et 29. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux. <br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
