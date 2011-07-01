@@ -19,8 +19,8 @@ II. - Jusqu'au 31 décembre 2008, est fixé comme indiqué dans le tableau suiva
 <p align="center">
 <strong>NOMBRE DE TRIMESTRES <br/>
 </strong>
-<br/>nécessaire pour obtenir le pourcentage maximum de la pension civile ou militaire <br/>
-<br/>(art. 16)</p>
+<br/>nécessaire pour obtenir le pourcentage maximum de la pension civile ou militaire </p>
+<p>(art. 16)</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ III. - Jusqu'au 31 décembre 2019, sont fixés comme indiqué dans le tableau su
 
 1° Le taux du coefficient de minoration, par dérogation aux dispositions du deuxième alinéa du I de l'article 20 ;
 
-2° L'âge auquel s'annule le coefficient de minoration, exprimé par rapport à la limite d'âge, par dérogation au 1° du I de l'article 20.
+2° L'âge auquel s'annule le coefficient de minoration, exprimé par rapport à la limite d'âge, par dérogation au quatrième alinéa du I de l'article 20.
 
 <table>
 <tbody>
@@ -86,22 +86,22 @@ III. - Jusqu'au 31 décembre 2019, sont fixés comme indiqué dans le tableau su
 <td align="left" valign="middle">
 <p align="center">
 <strong>ANNEE</strong>
-<br/>
-<br/>au cours de laquelle sont réunies les conditions mentionnées à l'article 25</p>
+</p>
+<p>au cours de laquelle sont réunies les conditions mentionnées à l'article 25</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
 <strong>TAUX <br/>
 </strong>
-<br/>du coefficient de minoration par trimestre <br/>
-<br/>(2e alinéa du I de l'article 20)</p>
+<br/>du coefficient de minoration par trimestre </p>
+<p>(2e alinéa du I de l'article 20)</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
 <strong>AGE <br/>
 </strong>
-<br/>auquel le coefficient de minoration s'annule, exprimé par rapport à la limite d'âge du grade. <br/>
-<br/>(1° du I de l'article 20)</p>
+<br/>auquel le coefficient de minoration s'annule, exprimé par rapport à la limite d'âge du grade. </p>
+<p>(quatrième alinéa du I de l'article 20)</p>
 </td>
 </tr>
 <tr>
@@ -290,8 +290,8 @@ Jusqu'au 31 décembre 2013, les dispositions présentées dans le tableau suivan
 <td align="left" valign="middle">
 <p align="center">
 <strong>POUR </strong>
-<br/>
-<br/>les pensions liquidés en :</p>
+</p>
+<p>les pensions liquidés en :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
@@ -300,20 +300,20 @@ Jusqu'au 31 décembre 2013, les dispositions présentées dans le tableau suivan
 <td align="left" valign="middle">
 <p align="center">
 <strong>DU MONTANT</strong>
-<br/>
-<br/>correspondant à la valeur, au 1<sup>er</sup> janvier 2004 de l'indice majoré</p>
+</p>
+<p>correspondant à la valeur, au 1<sup>er</sup> janvier 2004 de l'indice majoré</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
 <strong>CETTE FRACTION</strong>
-<br/>
-<br/>étant augmentée de :</p>
+</p>
+<p>étant augmentée de :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
 <strong>PAR ANNEE</strong>
-<br/>
-<br/>supplémentaire de services de quinze à :</p>
+</p>
+<p>supplémentaire de services de quinze à :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">

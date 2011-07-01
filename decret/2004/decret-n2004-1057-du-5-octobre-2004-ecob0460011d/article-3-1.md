@@ -1,0 +1,3 @@
+# Article 3-1
+
+Les limites d'âge mentionnées à l'article 1er du présent décret évoluent conformément aux valeurs respectivement fixées par le décret prévu au II de l'article 28 et au II de l'article 31 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites. La durée de service mentionnée à l'article 1er du présent décret évolue conformément aux valeurs fixées par le décret prévu au II de l'article 35 de cette même loi. Par dérogation, cette durée reste fixée à quinze ans pour les agents qui, après avoir effectué cette durée de services au 1er janvier 2011, ont été soit affectés dans un emploi ne comportant pas des risques particuliers d'insalubrité, soit radiés des contrôles.

@@ -1,0 +1,7 @@
+# Article 65-4
+
+Les âges d'ouverture du droit mentionnés aux a et b du 2° du II de l'article 15, au 2° du III de l'article 25, au premier alinéa de l'article 26 et au dernier alinéa de l'article 27 évoluent conformément aux valeurs respectivement fixées par le décret prévu au II de l'article 22 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites.
+
+Les durées de services effectifs exigées en application du 1° et des a, b et d du 2° du II de l'article 15, au premier alinéa de l'article 18, au 2° du III de l'article 25, au premier alinéa de l'article 26 et au dernier alinéa de l'article 27 évoluent conformément aux valeurs respectivement fixées par le décret prévu au II de l'article 35 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites. Par dérogation, ces durées de services effectifs restent celles applicables à la veille de la publication de la loi précitée pour les fonctionnaires qui, après avoir effectué à cette date les durées de services effectifs exigées avant l'entrée en vigueur de cette loi, ont été soit intégrés dans un corps ou cadre d'emploi dont les emplois ne sont pas classés en catégorie active, soit ont été radiés des cadres.
+
+La limite d'âge mentionnée au III de l'article 21 évolue conformément aux valeurs fixées par le décret prévu au II de l'article 31 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites.
