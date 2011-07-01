@@ -121,3 +121,7 @@ Jusqu'au 1er mars 2016 :
 Paris-Maurice (île Maurice) ;
 
 Lyon-Maurice (île Maurice).
+
+Jusqu'au 15 juin 2016 :
+
+Dzaoudzi - Antananarivo (Madagascar).
