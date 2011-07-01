@@ -25,3 +25,4 @@
 - [Décret n°2011-752 du 28 juin 2011 (BCRB1112530D)](decret-n2011-752-du-28-juin-2011-bcrb1112530d)
 - [Décret n°2011-753 du 28 juin 2011 (BCRF1116463D)](decret-n2011-753-du-28-juin-2011-bcrf1116463d)
 - [Décret n°94-1225 du 30 décembre 1994 (AGRE9402354D)](decret-n94-1225-du-30-decembre-1994-agre9402354d)
+- [Décret n°2009-1227 (AGRT0916823D)](decret-n2009-1227-agrt0916823d)
