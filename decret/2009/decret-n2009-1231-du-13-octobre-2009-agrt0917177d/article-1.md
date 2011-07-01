@@ -12,8 +12,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Muscat de Beaumes-de-Venise " ;
 
-― " Muscat du Cap Corse " ;
-
 ― " Banyuls " ;
 
 ― " Banyuls grand cru " ;
