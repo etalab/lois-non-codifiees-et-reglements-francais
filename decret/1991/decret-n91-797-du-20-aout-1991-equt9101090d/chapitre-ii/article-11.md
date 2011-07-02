@@ -1,6 +1,6 @@
 # Article 11
 
-A. - Pour les ouvrages autres que les ouvrages liés à un usage agricole, le taux de base mentionné au a du II de l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) susvisée est fixé à :
+A.-Pour les ouvrages autres que les ouvrages liés à un usage agricole, le taux de base mentionné au a du II de l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) susvisée est fixé à :
 
 1° 1,15 euro par mètre carré pour une emprise située dans une commune de moins de 2 000 habitants ;
 
@@ -14,7 +14,7 @@ Pour l'ensemble des usages, ce taux est réduit de 50 % pour la fraction de la s
 
 Le nombre d'habitants de chaque commune est déterminé par le dernier recensement disponible de l'Institut national de la statistique et des études économiques. La population de référence est la population avec doubles comptes.
 
-B. - Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susvisée, le taux de base mentionné au b du II du même article 124 est fixé à 0,460 centimes d'euro par mètre cube prélevable ou rejetable.
+B.-Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susvisée, le taux de base mentionné au b du II du même article 124 est fixé à 5,7 euros par millier de mètres cubes prélevables ou rejetables.
 
 Le volume prélevable ou rejetable est défini ainsi qu'il suit :
 
@@ -26,7 +26,7 @@ Les coefficients d'abattement appliqués à ce deuxième élément de la taxe so
 
 La superficie d'emprise et les volumes définis ci-dessus seront mentionnés dans les actes autorisant l'occupation du domaine confié à l'établissement public qui interviendront après l'entrée en vigueur du présent décret.
 
-C. - Pour les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susmentionnée, le taux de base mentionné au troisième alinéa du b du II du même article 124 est fixé à 8,67 euros.
+C.-Pour les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 susmentionnée, le taux de base mentionné au troisième alinéa du b du II du même article 124 est fixé à 8,67 euros.
 
 Le coefficient d'abattement appliqué à ce deuxième élément de la taxe est celui applicable aux usages industriels, tel qu'il est défini au B du présent article.
 
