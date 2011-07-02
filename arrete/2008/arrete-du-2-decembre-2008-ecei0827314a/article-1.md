@@ -16,25 +16,27 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - adjoint au directeur de la direction des équipements sous pression nucléaire à l'Autorité de sûreté nucléaire ;
 
-- adjoint au chef du bureau de la qualité de l'air à la direction générale de l'énergie et du climat ;
+- adjoint au chef du bureau de la qualité de l'air à la direction générale de l'énergie et du climat (A compter du 1er juillet 2011) ;
 
 - adjoint au chef du bureau de la sécurité des équipements industriels à la direction générale de la prévention des risques ;
 
 - adjoint au directeur de la recherche de l'Ecole des mines de Douai ;
 
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin (A compter du 4 janvier 2010) ;
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin (A compter du 8 février 2010) ;
 
 - adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin, plus particulièrement chargé des domaines énergie, risques et après-mines, notamment uranium (A compter du 1er octobre 2010) ;
 
-- adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Corse ;
+- adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Corse (A compter du 1er juillet 2011) ;
+
+- adjoint aux directeurs régionaux de l'environnement, de l'aménagement et du logement de Corse (A compter du 1er juillet 2011) ;
 
 - adjoint au chef du bureau de la réglementation, du pilotage de l'inspection et des contrôles, et de la qualité, responsable du pôle contrôles techniques de sécurité à la direction générale de la prévention des risques ;
 
-- adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques ;
+- adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques (A compter du 4 avril 2011) ;
 
 - adjoint au chef du bureau de la gestion des corps techniques à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+- adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées (A compter du 1er juillet 2011) ;
 
 - adjoint au chef du service risques naturels et technologiques, chef de l'unité risques technologiques chroniques de la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon (A compter du 4 janvier 2010) ;
 
@@ -46,9 +48,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
+- adjoint au chef du service prévention des risques en charge des risques technologiques à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (A compter du 1er juillet 2011) ;
+
 - chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Franche-Comté, chargé de l'environnement industriel et des risques (A compter du 23 juillet 2010).
+- chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Franche-Comté, chargé de l'environnement industriel et des risques (A compter du 1er avril 2011).
 
 - chargé de mission auprès du directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France (supprimé au 1er août 2011) ;
 
@@ -78,9 +82,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale du Haut-Rhin à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
 
-- chef du service énergie, climat, logement et aménagement à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
+- chef du service énergie, climat, logement et aménagement à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace (A compter du 1er janvier 2011) ;
 
-- chef de la division environnement, énergie et techniques industrielles à la direction régionale de l'environnement, de l'aménagement et du logement d'Antilles-Guyane ;
+- chef de la division environnement, énergie et techniques industrielles à la direction régionale de l'environnement, de l'aménagement et du logement d'Antilles-Guyane (A compter du 1er janvier 2011) ;
 
 - chef de l'unité territoriale de la Gironde de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
 
@@ -92,11 +96,13 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef du service risques à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne ;
 
+- chef du service risque, énergie, mines et déchets à la direction de l'environnement, de l'aménagement et du logement de Guyane (A compter du 1er janvier 2011) ;
+
 - chef du service risques technologiques et naturels (SRTN) à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie ;
 
 - chef du service énergie construction climat air (SECCA) à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie ;
 
-- chef de l'unité territoriale de Saône-et-Loire de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne ;
+- chef de l'unité territoriale de Saône-et-Loire de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne (A compter du 1er juin 2011);
 
 - chef du service prévention des risques de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne ;
 
@@ -156,7 +162,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-- chef de la mission pilotage information crédits de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
+- chef de la mission pilotage information crédits de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (A compter du 1er juillet 2011) ;
 
 - chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
@@ -190,7 +196,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne (A compter du 15 février 2010) ;
 
-- chef du service appui au développement et à la pérennisation des entreprises et des emplois au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin (A compter du 15 février 2010) ;
+- chef du service appui au développement et à la pérennisation des entreprises et des emplois au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Limousin (A compter du 1er février 2011) ;
 
 - chef du pôle sous-sol de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er février 2010) ;
 
@@ -220,11 +226,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - directeur adjoint de la direction de la planification du spectre et des affaires internationales à l'Agence nationale des fréquences ;
 
-- directeur régional de l'environnement de l'aménagement et du logement de la Réunion ;
+- directeur régional de l'environnement de l'aménagement et du logement de la Réunion (A compter du 6 janvier 2011) ;
 
 - directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes ;
 
-- directeur régional de l'environnement de l'aménagement et du logement d'Antilles-Guyane ;
+- directeur régional de l'environnement de l'aménagement et du logement d'Antilles-Guyane (A compter du 1er janvier 2011) ;
 
 - responsable du bureau des risques technologiques accidentels, adjoint au chef de service à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
@@ -234,7 +240,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- responsable de l'unité territoriale du Val-d'Oise de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
+- responsable de l'unité territoriale du Val-d'Oise de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er janvier 2011) ;
 
 - responsable de l'unité territoriale de l'Essonne à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (A compter du 1er juillet 2010) ;
 
