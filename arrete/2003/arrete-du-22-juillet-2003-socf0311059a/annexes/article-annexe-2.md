@@ -5,60 +5,73 @@ CORRESPONDANCES EN VUE DE L'OBTENTION DU TITRE AMIS
 <table>
 <tbody>
 <tr>
-<td width="154">
-<p align="center">TITRE PROFESSIONNEL AGENT(E) de médiation, information, services</p>
+<th>
+<br clear="none"/>CERTIFICATEURS </th>
+<th>
+<br clear="none"/>JEUNESSE ET SPORTS </th>
+<th>
+<br clear="none"/>ÉDUCATION NATIONALE </th>
+<th>
+<br clear="none"/>ÉDUCATION NATIONALE </th>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">
+<br clear="none"/>Titre professionnel <br clear="none"/>Agent (e) de médiation, information, services </p>
 </td>
-<td width="154">
-<p align="center">CAP GARDIEN D'IMMEUBLES (arrêté 3 novembre 1994)</p>
+<td align="left" valign="top">
+<p align="center">
+<br clear="none"/>BAPAAT <br clear="none"/>Brevet d'aptitude professionnelle d'assistant animateur technicien (décret n° 93-53 du 12 janvier 1993) </p>
 </td>
-<td width="154">
-<p align="center">CAP AGENT DE PRÉVENTION et de médiation (arrêté 3 décembre 1998)</p>
+<td align="left" valign="top">
+<p align="center">
+<br clear="none"/>CAP Gardien d'immeubles (arrêté 23 février 2010) </p>
 </td>
-<td width="154">
-<p align="center">BAPAAT BREVET D'APTITUDE professionnelle d'assistant animateur technicien (décret n° 93-53 du 12 janvier 1993)</p>
+<td align="left" valign="top">
+<p align="center">
+<br clear="none"/>CAP Agent de prévention et de médiation (arrêté 23 février 2010) </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
-<p>CCP 1 : prévenir les situations de dysfonctionnement par une démarche de veille active</p>
+<td align="center">
+<p align="left">
+<br clear="none"/>CCP 1.-Prévenir les situations de tension, de conflit et de dysfonctionnement, par une démarche de veille active. </p>
 </td>
-<td valign="top" width="154">
-<p align="center">E P 1</p>
+<td align="center">
+<br clear="none"/>
 </td>
-<td valign="top" width="154">
-<br/>
-</td>
-<td valign="top" width="154">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="154">
-<p>CCP 2 : réguler par la médiation des situations de dysfonctionnement</p>
-</td>
-<td valign="top" width="154">
-<br/>
-</td>
-<td valign="top" width="154">
-<p align="center">U 2</p>
-</td>
-<td valign="top" width="154">
-<br/>
+<td align="center">
+<br clear="none"/>EP 1 </td>
+<td align="center">
+<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
-<p>CCP 3 : participer à des manifestations ou actions ponctuelles en tant qu'AMIS</p>
+<td align="center">
+<p align="left">
+<br clear="none"/>CCP 2.-Réguler par la médiation des situations de tension et de conflit. </p>
 </td>
-<td valign="top" width="154">
-<br/>
+<td align="center">
+<br clear="none"/>
 </td>
-<td valign="top" width="154">
-<p align="center">U 1 et U 3</p>
+<td align="center">
+<br clear="none"/>
 </td>
-<td valign="top" width="154">
-<p align="center">BAPAAT</p>
+<td align="center">
+<br clear="none"/>U 2 </td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br clear="none"/>CCP 3.-Participer à des projets partenariaux ou actions ponctuelles. </p>
 </td>
+<td align="center">
+<br clear="none"/>BAPAAT </td>
+<td align="center">
+<br clear="none"/>
+</td>
+<td align="center">
+<br clear="none"/>U 1 et U 3</td>
 </tr>
 </tbody>
 </table>
