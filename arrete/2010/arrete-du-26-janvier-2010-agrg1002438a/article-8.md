@@ -12,4 +12,6 @@ Dans le cadre de l'identification des animaux de l'espèce bovine, le ministre c
 
 ― le modèle " Zeetag Z 3 laser " de la société Zeetag, de code d'agrément " FR 30 " ;
 
-- le modèle " Bov'ardes " de la société Ardes, de code d'agrément " FR 31 ".
+- le modèle " Bov'ardes " de la société Ardes, de code d'agrément " FR 31 " ;
+
+- le modèle " Ecoflex " de la société Chevillot, de code d'agrément " FR 47 ".
