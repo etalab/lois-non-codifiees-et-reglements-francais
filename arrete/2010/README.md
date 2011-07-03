@@ -736,7 +736,6 @@
 - [Arrêté du 9 décembre 2003 (SOCF0311957A)](arrete-du-9-decembre-2003-socf0311957a)
 - [Arrêté du 9 décembre 2003 (SOCF0311964A)](arrete-du-9-decembre-2003-socf0311964a)
 - [Arrêté du 9 décembre 2003 (SOCF0311970A)](arrete-du-9-decembre-2003-socf0311970a)
-- [Arrêté du 9 décembre 2009 (AGRM0924529A)](arrete-du-9-decembre-2009-agrm0924529a)
 - [Arrêté du 9 décembre 2009 (DEVA0923637A)](arrete-du-9-decembre-2009-deva0923637a)
 - [Arrêté du 9 décembre 2009 (DEVO1010020A)](arrete-du-9-decembre-2009-devo1010020a)
 - [Arrêté du 9 décembre 2009 (ECEP0927306A)](arrete-du-9-decembre-2009-ecep0927306a)
