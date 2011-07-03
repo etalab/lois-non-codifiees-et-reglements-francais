@@ -4,17 +4,17 @@ En application des dispositions de l'article 5 du décret du 21 octobre 1983 sus
 
 - officiers généraux commandants de région terre ou de région ;
 
--officier général commandant en chef les forces françaises et l'élément civil stationnés en Allemagne ;
+- officier général commandant en chef les forces françaises et l'élément civil stationnés en Allemagne ;
 
 - officiers généraux commandants supérieurs des forces armées dans les départements, régions et collectivités d'outre-mer et en Nouvelle-Calédonie ;
 
--officier général commandant le centre d'expérimentations du Pacifique ;
+- officier général commandant le centre d'expérimentations du Pacifique ;
 
--commandant de la marine à Paris ;
+- commandant de la marine à Paris ;
 
--commandants de forces maritimes indépendantes ;
+- commandants de forces maritimes indépendantes ;
 
-- les commandants de région de gendarmerie ;
+- les commandants d'arrondissement maritime ;
 
 - les commandants de base de défense ;
 
