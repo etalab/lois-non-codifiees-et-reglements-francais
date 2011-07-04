@@ -1,0 +1,3 @@
+# Article 9
+
+Pour tout mouvement externe entre établissements ou installations se traduisant par un transfert de responsabilité de la ou des matières nucléaires expédiées, le déclarant expéditeur s'assure que le destinataire a bien reçu les matières nucléaires qui lui étaient destinées, au plus tard dans un délai de huit jours à compter de la date d'arrivée prévue. Un justificatif de la réception des matières nucléaires expédiées comportant la date de leur arrivée effective est établi par le destinataire. Il est conservé par le déclarant dans les conditions fixées à l'article 10 du présent arrêté.
