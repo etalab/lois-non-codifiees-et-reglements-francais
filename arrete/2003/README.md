@@ -73,7 +73,6 @@
 - [Arrêté du 3 juillet 2003 (MCCB0300534A)](arrete-du-3-juillet-2003-mccb0300534a)
 - [Arrêté du 3 juillet 2003 (SANS0322404A)](arrete-du-3-juillet-2003-sans0322404a)
 - [Arrêté du 3 juillet 2003 (SOCF0310925A)](arrete-du-3-juillet-2003-socf0310925a)
-- [Arrêté du 3 juillet 2003 (SOCF0310927A)](arrete-du-3-juillet-2003-socf0310927a)
 - [Arrêté du 3 juillet 2003 (SOCS0320505A)](arrete-du-3-juillet-2003-socs0320505a)
 - [Arrêté du 3 juin 2003 (BUDD0340001A)](arrete-du-3-juin-2003-budd0340001a)
 - [Arrêté du 3 juin 2003 (DEFE0301651A)](arrete-du-3-juin-2003-defe0301651a)
