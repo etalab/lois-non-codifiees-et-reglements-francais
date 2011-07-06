@@ -10,7 +10,7 @@ La Commission nationale contre les violences envers les femmes comprend :
 
 - le président de l'Association des départements de France ;
 
-3° Dix représentants de l'Etat :
+3° Onze représentants de l'Etat :
 
 - le directeur général de la cohésion sociale ;
 
@@ -19,6 +19,8 @@ La Commission nationale contre les violences envers les femmes comprend :
 - le directeur général de l'offre de soins ;
 
 - le directeur général de la police nationale ;
+
+- le directeur général de la gendarmerie nationale ;
 
 - le directeur des affaires criminelles et des grâces ;
 
