@@ -2,6 +2,7 @@
 
 - [Décret n°89-613 du 1 septembre 1989 (SPSH8901738D)](decret-n89-613-du-1-septembre-1989-spsh8901738d)
 - [Décret n°92-376 du 1 avril 1992 (MERP9200008D)](decret-n92-376-du-1-avril-1992-merp9200008d)
+- [Décret n°2011-802 du 4 juillet 2011 (SCSA1114371D)](decret-n2011-802-du-4-juillet-2011-scsa1114371d)
 - [Décret n°91-868 du 5 septembre 1991 (SANH9101413D)](decret-n91-868-du-5-septembre-1991-sanh9101413d)
 - [Décret n°91-869 du 5 septembre 1991 (SANH9101414D)](decret-n91-869-du-5-septembre-1991-sanh9101414d)
 - [Décret n°2011-388 du 13 avril 2011 (IOCJ1104080D)](decret-n2011-388-du-13-avril-2011-iocj1104080d)
