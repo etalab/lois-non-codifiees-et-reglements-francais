@@ -1,9 +1,9 @@
 # Article 3
 
-Les catégories de destinataires de ces informations sont :
+- les agents des directions départementales des territoires et de la mer et les agents des services de navigation ;
 
-- les agents relevant du secrétariat d'Etat à la mer ;
+- les personnels des établissements de formation agréés au titre du décret du 2 août 2007 modifié susvisé ;
 
 - les agents chargés de la police de la navigation maritime ;
 
-- les intéressés.
+- le service technique de recherches judiciaires et de documentation de la gendarmerie nationale.
