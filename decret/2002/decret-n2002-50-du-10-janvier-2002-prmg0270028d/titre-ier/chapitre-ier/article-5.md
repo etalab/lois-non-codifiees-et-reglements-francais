@@ -1,6 +1,6 @@
 # Article 5
 
-Les jurys des concours sont nommés chaque année par arrêté du ministre chargé de la fonction publique sur proposition du directeur de l'ENA.
+Les jurys des concours sont nommés chaque année par arrêté du Premier ministre et du ministre chargé de la fonction publique, sur proposition du directeur de l'ENA.
 
 Le jury comprend, outre le président :
 
