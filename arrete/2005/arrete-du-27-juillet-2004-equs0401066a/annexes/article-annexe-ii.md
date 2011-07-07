@@ -14,7 +14,7 @@ Son grammage est au minimum de 80 g / m ².
 
 Les informations figurant sur le procès-verbal sont de deux types : les inscriptions fixes communes à tous les procès-verbaux et les informations variables relatives à chaque contrôle effectué.
 
-Le procès-verbal reprend les informations prévues à la présente annexe. Le procès-verbal reprend les informations prévues à la présente annexe. Le graphisme du procès-verbal est conforme à celui du fac-similé disponible sur le site internet de l'organisme technique central. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
+Le procès-verbal reprend les informations prévues à la présente annexe. Le graphisme du procès-verbal est conforme à celui du fac-similé disponible sur le site internet de l'organisme technique central. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
 
 Il est impératif de faire figurer sur le procès-verbal le sigle du réseau dans les couleurs de son choix à un emplacement n'affectant pas la lisibilité du document. Les défauts peuvent être inscrits sur le procès-verbal avec des caractères spécifiques (gras ou italique).
 
@@ -48,7 +48,7 @@ Les observations et commentaires de l'annexe I relevés lors du contrôle :
 
 - les commentaires issus du contrôle ;
 
-- le numéro de série relevé sur la plaque constructeur en cas de divergence avec le numéro de série relevé sur le document d'identification.
+Le numéro de série relevé sur la plaque constructeur en cas de divergence avec le numéro de série relevé sur le document d'identification.
 
 Le numéro de frappe à froid sur le châssis en cas de divergence avec le numéro de série relevé sur le document d'identification.
 
@@ -60,13 +60,11 @@ Des informations complémentaires :
 
 - "Attention, ce procès-verbal contient x pages", x correspondant au nombre de pages ayant servi à éditer l'ensemble du procès-verbal.
 
-Les mesures relevées au cours des essais : efficacités de freinage, décélérations.
+Les mesures relevées au cours des essais. La liste des mesures imprimées sur le procès-verbal est définie dans le protocole prévu au point a de l'article 38 du présent arrêté.
 
 Dans le cas d'un frein de secours par indépendance, la mention "Freinage de secours : indépendance des circuits" est inscrite sur le procès-verbal.
 
-Dans le cas de défauts concernant le freinage suite à un essai réalisé sur freinomètre à rouleaux, la mention "contre-visite à repasser sur un centre muni d'un freinomètre" est inscrite sur le procès-verbal.
-
-2. Informations relatives à la visite technique périodique en cas de contre-visite :
+2. Information sur la visite technique périodique défavorable :
 
 Le numéro du procès-verbal de visite technique périodique.
 
@@ -74,43 +72,43 @@ Le numéro de l'installation ayant émis le procès-verbal.
 
 La date d'émission du procès-verbal.
 
-3. Informations relatives à l'installation de contrôle :
+3. Identification de l'installation de contrôle :
 
 Le numéro d'agrément du centre.
 
-Le nom du centre.
+Raison sociale de l'installation.
 
 L'adresse du centre.
 
-4. Informations relatives au contrôleur :
+4. Identité du contrôleur :
 
-L'identité du contrôleur.
+Nom et prénom.
 
-Le numéro d'agrément du contrôleur et son habilitation.
+Numéro d'agrément.
 
-Le visa du contrôleur (signature).
+Signature
 
-5. Informations relatives à l'identification du véhicule contrôlé :
+5. Identification du véhicule :
 
-Le numéro d'immatriculation et le symbole du pays d'immatriculation.
+Le numéro d'immatriculation et le symbole du pays d'immatriculation (1).
 
-La date d'immatriculation.
+Date d'immatriculation.
 
-La date de première mise en circulation.
+Date de première mise en circulation.
 
-Le genre.
+Genre.
 
-La marque.
+Marque.
 
-Le type ou CNIT.
+Carrosserie.
 
-Le numéro dans la série du type ou VIN.
+N° de série.
 
-L'énergie.
+Type.
 
-Le kilométrage inscrit au compteur (en l'absence de chronotachygraphe).
+Energie.
 
-La carrosserie.
+Kilométrage au compteur
 
 6. Informations complémentaires au véhicule :
 
@@ -148,13 +146,13 @@ Véhicule associé :
 
 - le numéro d'immatriculation.
 
-7. Informations relatives au propriétaire du véhicule ou de la personne qui en dispose :
+7. Propriétaire :
 
-Le nom et le prénom ;
+Nom.
 
-Le domicile.
+Adresse
 
-8. Résultat global du contrôle :
+8. Résultat du contrôle technique :
 
 Le résultat du contrôle :
 
@@ -169,12 +167,6 @@ Le résultat du contrôle :
 La date du prochain contrôle.
 
 Le numéro de la vignette pare-brise en cas de visite technique périodique favorable.
-
-9. Informations relatives à la personne ayant présenté le véhicule au contrôle :
-
-Le nom et la signature de la personne ayant présenté le véhicule et qui reconnaît avoir pris connaissance des résultats.
-
-La dimension en hauteur et l'épaisseur des caractères utilisés pour l'édition de ces informations variables sont suffisantes afin d'obtenir une bonne lisibilité de ces informations.
 
 10. Version de logiciel utilisée :
 
@@ -236,59 +228,67 @@ La dimension en hauteur et l'épaisseur des caractères utilisés pour l'éditio
 
 2. Timbre
 
-2. 1. Généralités
+2.1. Généralités.
 
-Le timbre se présente sous la forme d'un rectangle horizontal de 2, 7 centimètres de large par 1, 8 centimètre de haut.
+Le timbre autocollant se présente sous la forme d'un rectangle horizontal de 27 mm de large par 18 mm de haut.
 
-Les informations figurant sur le timbre sont des informations variables particulières à chaque contrôle.
+La répartition des informations figurant sur le timbre est conforme à celles du fac-similé disponible sur le site de l'OTC.
 
-La répartition de ces informations fixes et variables est conforme à celle du fac-similé disponible sur le site internet de l'OTC.
+2.2. Inscriptions.
 
-2. 2. Informations variables
+Les inscriptions visées au 2.1 ci-dessus figurant sur le timbre sont les suivantes :
 
-Les inscriptions variables visées au 2. 1 ci-dessus et figurant sur le timbre sont les suivantes :
+- au niveau de la première ligne, le numéro d'agrément préfectoral du contrôleur ;
 
-- sur la première ligne du timbre, le numéro d'agrément préfectoral du contrôleur ;
+- au niveau de la deuxième ligne, la lettre A, S ou R, selon que les observations constatées, s'il y en a, ne justifient pas une contre-visite, justifient une contre-visite sans ou avec interdiction de circuler. Cette lettre est suivie de la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à une nouvelle visite. Dans le cas d'un véhicule soumis à contre-visite avec interdiction de circuler, c'est la date du contrôle qui est mentionnée sur le certificat d'immatriculation ;
 
-- au niveau de la deuxième ligne, la lettre A, S ou R, selon que les observations constatées, s'il y en a, ne justifient pas une contre-visite, justifient une contre-visite sans ou avec interdiction de circuler ;
+- au niveau de la troisième ligne, le numéro d'immatriculation du véhicule.
 
-- au niveau de la troisième ligne, la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à une nouvelle visite. Dans le cas d'un véhicule soumis à contre-visite avec interdiction de circuler, c'est la date du contrôle qui est mentionnée sur le certificat d'immatriculation ;
+2.3. Sécurité du timbre.
 
-- le numéro d'immatriculation du véhicule (disposition applicable à compter du 1er janvier 2011).
+Le timbre comporte un prédécoupage devant entraîner son déchirement ou un dépôt d'une partie de l'encre, lors d'une tentative d'extraction du certificat d'immatriculation.
 
-Ces informations permettent une lecture facile du timbre.
+Il ne permet également pas, du moins sans sa destruction partielle ou totale, un quelconque effacement des informations variables pouvant y être portées.
+
+Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme latent révélable sur toute photocopie.
 
 3. Vignette pare-brise
 
-3. 1. Généralités
+3.1. Généralités.
 
 La vignette se présente sous la forme d'un document carré de cinq centimètres de côté.
 
 Les informations figurant sur la vignette sont de deux types : les inscriptions fixes communes à toutes les vignettes et les informations variables particulières à chaque contrôle.
 
-Le graphisme de la vignette est conforme à celui du modèle disponible sur le site internet de l'OTC. Aucune mention ou information supplémentaire ne figure ni n'est apposée sur ou à proximité immédiate de la vignette.
+Le graphisme de la vignette est conforme à celui du fac-similé disponible sur le site internet de l'OTC. Aucune mention ou information supplémentaire ne figure ou n'est apposée sur ou à proximité immédiate de la vignette.
 
-3. 2. Recto
+3.2. Recto.
 
-3. 2. 1. Inscriptions fixes
+3.2.1. Inscriptions fixes
 
-1. Les inscriptions relatives aux mois de l'année :
+- N° d'agrément
 
-"J", "F", "M", "A", "M", "J", "J", "A", "S", "0", "N", "D".
+- N° de série
 
-2. Le numéro de la vignette : "N° PL".
+- N° d'imprimé.
 
-3. Les inscriptions relatives aux deux derniers chiffres de l'année pour, au moins, quatre années consécutives.
+Les inscriptions fixes sont imprimées en lettres capitales avec une encre résistant à la lumière pendant une durée d'au moins deux ans. La taille des caractères d'imprimerie de ces inscriptions est de type Univers 65.
 
-Les inscriptions fixes sont visibles, facilement identifiables et imprimées en lettres capitales avec une encre résistant à la lumière pendant une durée d'au moins un an. La taille des caractères d'imprimerie de ces inscriptions est de type Univers 65.
+3.2.2. Informations variables
 
-3. 2. 2. Information variable
+Ces informations sont :
 
-Cette information est constituée par le numéro de la vignette qui est imprimé à la fabrication du document en lettres capitales.
+L'immatriculation du véhicule ;
 
-La vignette est éditée en tant que volet indépendant séparé du procès-verbal. Son numéro d'ordre figure cependant toujours dans une série continue à 9 caractères définie par chaque réseau ou centre non exploité par un réseau et est précédé de la lettre d'identification du réseau ou de la lettre Z dans le cas d'un centre de contrôle non exploité par un réseau.
+La date avant laquelle la prochaine visite est à réaliser ;
 
-La hauteur et la grosseur des caractères utilisés pour cette information variable propre à chaque vignette permettent une lecture facile de la vignette et correspondent à une utilisation optimale de la surface disponible. Leur dimension en hauteur n'est pas inférieure à 2 millimètres, l'épaisseur et la graisse de ces caractères sont comparables à celles des indications fixes afin d'obtenir une bonne lisibilité de cette information.
+Le numéro d'agrément du centre ;
+
+Le numéro de série du véhicule ;
+
+Le numéro d'imprimé (imprimé à la fabrication du document).
+
+La hauteur et la grosseur des caractères utilisés pour cette information variable propre à chaque vignette permettent une lecture facile de la vignette et correspondent à une utilisation optimale de la surface disponible. Leur dimension en hauteur n'est pas inférieure à 2 millimètres, l'épaisseur et la graisse de ces caractères sont comparables à celles des indications fixes afin d'obtenir une bonne lisibilité de cette information. L'encre utilisée résiste à la lumière pendant une durée d'au moins deux ans.
 
 3. 3. Verso
 
@@ -303,9 +303,3 @@ Elles sont les suivantes :
 - textes : noir.
 
 Les encres utilisées ont une résistance à la lumière d'un minimum d'un an.
-
-3. 5. Sécurité de la vignette
-
-Outre la numérotation figurant sur la vignette, la vignette est rendue autocollante (soit d'origine, soit par l'apposition d'une pellicule plastique recto verso transparente, soit par tout autre moyen équivalent) de manière à pouvoir être apposée par le contrôleur sur la face intérieure du pare-brise, recto visible de l'extérieur.
-
-Elle comporte également un prédécoupage capable d'entraîner lors d'une tentative d'extraction du pare-brise, un déchirement ou un dépôt d'une partie de l'encre sur le pare-brise.
