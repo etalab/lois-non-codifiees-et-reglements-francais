@@ -1,0 +1,5 @@
+# Article 5
+
+Le titulaire de l'autorisation organise des exercices comportant des mises en situation in situ permettant de tester régulièrement l'efficacité du système de protection physique. Les conditions de leur réalisation et notamment leur fréquence sont décrites dans l'autorisation. Ces exercices font l'objet de rapports, tenus à la disposition du ministre compétent, qui récapitulent les constats effectués, les enseignements tirés ainsi que les axes d'amélioration devant être mis en œuvre. Chaque installation détenant des matières nucléaires relevant de la catégories I définie à l'article R. 1333-70 du code de la défense ou comportant une zone vitale telle que mentionnée au chapitre II du présent arrêté est impliquée dans un exercice au moins une fois par an. Les installations détenant des matières nucléaires de la catégorie II sont concernées par au moins un exercice tous les deux ans.
+
+Le titulaire de l'autorisation informe le préfet territorialement compétent des exercices qu'il organise afin que les services de l'Etat concernés puissent y être associés.

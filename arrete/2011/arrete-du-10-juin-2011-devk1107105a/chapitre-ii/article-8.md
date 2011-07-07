@@ -1,0 +1,7 @@
+# Article 8
+
+Les matières nucléaires dont l'altération, la détérioration ou la dispersion ainsi que les équipements ou les fonctions identifiés dans l'étude réalisée en application du 5° de l'article R. 1333-4 du code de la défense dont la défaillance, l'endommagement ou le dysfonctionnement peuvent entraîner des conséquences radiologiques supérieures au niveau d'intervention en situation d'urgence relatif à l'évacuation des populations fixé par l'Autorité de sûreté nucléaire au titre de l'article R. 1333-80 du code de la santé publique sont placés dans une zone vitale, sauf si l'étude précitée montre que la protection assurée par une zone à protection renforcée est suffisante.
+
+Lorsque les conséquences radiologiques potentielles sont supérieures à l'un des deux niveaux en situation d'urgence relatifs à la mise à l'abri des populations ou à l'administration d'iode stable fixés par l'Autorité de sûreté nucléaire au titre de l'article précité du code de la santé publique, les matières, les équipements ou les fonctions identifiés dans l'étude mentionnée à l'alinéa précédent sont situés dans une zone à protection renforcée, sauf si cette étude montre que la protection assurée par une zone à protection normale est suffisante.
+
+Dans les autre cas, les équipements ou les fonctions dont la défaillance, l'endommagement ou le dysfonctionnement peuvent entraîner des conséquences radiologiques sont protégés par une zone à accès contrôlé.
