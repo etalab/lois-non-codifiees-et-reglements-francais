@@ -1,8 +1,8 @@
 # Article Annexe
 
-LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR
+LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION
 
-ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
+DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 
 <table>
 <tbody>
@@ -14,13 +14,10 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfectures : <br/>
-</p>
+<p align="left">Préfectures : </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -33,77 +30,65 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Nord <br/>
-</p>
+<p align="left">Nord </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la réglementation et des libertés publiques. <br/>
-</p>
+<p align="left">Directeur de la réglementation et des libertés publiques. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhône <br/>
-</p>
+<p align="left">Rhône </p>
 </td>
 <td align="center">
 <p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Seine-et-Marne <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur de la citoyenneté et de la réglementation. <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
+<td align="left" rowspan="2" valign="top">
+<p align="left">Seine-et-Marne</p>
 <br/>
-</p>
 </td>
-<td align="center">
-<p align="left">Directeur de la coordination des services de l'Etat. </p>
+<td align="left" valign="top">
+<p align="left">Directeur de la citoyenneté et de la réglementation.</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Yvelines <br/>
-</p>
+<td align="center">
+<p align="left">Directeur de la coordination des services de l'Etat.</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Yvelines </p>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration. </p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="left">Directeur du management, des moyens et de la modernisation interministérielle. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur du développement durable. <br/>
-</p>
+<p align="left">Directeur du développement durable. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Essonne <br/>
-</p>
+<p align="left">Essonne </p>
 </td>
 <td align="center">
 <p align="left">Directeur des relations avec les collectivités locales. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Hauts-de-Seine <br/>
-</p>
+<td align="center" rowspan="2">
+<p align="left">Hauts-de-Seine </p>
+<br/>
 </td>
 <td align="center">
 <p align="left">Directeur de l'immigration et de l'intégration. </p>
@@ -111,50 +96,38 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur des finances et des moyens de l'Etat. <br/>
-</p>
+<p align="left">Directeur des finances et des moyens de l'Etat. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Seine-Saint-Denis <br/>
-</p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Seine-Saint-Denis </p>
 </td>
-<td align="center">
-<p align="left">Directeur des étrangers. </p>
+<td align="left" valign="top">
+<p align="left">Directeur de l'immigration et de l'intégration.</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="left">Directeur de la réglementation. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Val-de-Marne <br/>
-</p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Val-de-Marne </p>
 </td>
-<td align="center">
-<p align="left">Directeur de la citoyenneté et des étrangers. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Directeur de l'immigration et de l'intégration.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Directeur des relations avec les collectivités territoriales.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur des relations avec les collectivités locales. <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Val-d'Oise <br/>
-</p>
+<p align="left">Val-d'Oise </p>
 </td>
 <td align="center">
 <p align="left">Directeur du respect des lois et des libertés locales. </p>
@@ -162,8 +135,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales : <br/>
-</p>
+<p align="left">Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales : </p>
 </td>
 <td align="center">
 <p align="left">
@@ -173,8 +145,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Cabinet du ministre <br/>
-</p>
+<p align="left">Cabinet du ministre </p>
 </td>
 <td align="center">
 <p align="left">Chef du bureau des cabinets. <br/>
@@ -183,18 +154,15 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction des libertés publiques et des affaires juridiques <br/>
-</p>
+<p align="left">Direction des libertés publiques et des affaires juridiques </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage. <br/>
-</p>
+<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières <br/>
-</p>
+<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières </p>
 </td>
 <td align="center">
 <p align="left">Chef du bureau du budget et du fonctionnement.<br/>
@@ -203,60 +171,47 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction des ressources et des compétences de la police nationale <br/>
-</p>
+<p align="left">Direction des ressources et des compétences de la police nationale </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des affaires disciplinaires. <br/>
-</p>
+<p align="left">Chef du bureau des affaires disciplinaires. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfecture de police : <br/>
-</p>
+<p align="left">Préfecture de police : </p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de la police générale <br/>
-</p>
+<p align="left">Direction de la police générale </p>
 </td>
 <td align="center">
-<p align="left">Chef du 2e bureau. <br/>
-</p>
+<p align="left">Chef du 2e bureau. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 <td align="center">
-<p align="left">Chef du 8e bureau. <br/>
-</p>
+<p align="left">Chef du 8e bureau. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de la police urbaine de proximité <br/>
-</p>
+<p align="left">Direction de la police urbaine de proximité </p>
 </td>
 <td align="center">
-<p align="left">Chef du service de gestion opérationnelle et des équipements. <br/>
-</p>
+<p align="left">Chef du service de gestion opérationnelle et des équipements. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction opérationnelle des services techniques et logistiques <br/>
-</p>
+<p align="left">Direction opérationnelle des services techniques et logistiques</p>
 </td>
 <td align="center">
 <p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation. </p>
@@ -264,13 +219,10 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Secrétariat général pour l'administration de la police : <br/>
-</p>
+<p align="left">Secrétariat général pour l'administration de la police :</p>
 </td>
 <td align="center">
-<p align="left">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -278,8 +230,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Sud</p>
 </td>
 <td align="center">
-<p align="left">Directeur des personnels et des relations sociales. <br/>
-</p>
+<p align="left">Directeur des personnels et des relations sociales. </p>
 </td>
 </tr>
 <tr>
@@ -287,8 +238,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Ouest</p>
 </td>
 <td align="center">
-<p align="left">Directeurs des ressources humaines. <br/>
-</p>
+<p align="left">Directeurs des ressources humaines. </p>
 </td>
 </tr>
 <tr>
@@ -296,29 +246,21 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Sud-Est</p>
 </td>
 <td align="center">
-<p align="left">Directeurs des ressources humaines. <br/>
-</p>
+<p align="left">Directeurs des ressources humaines. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Versailles <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Directeur de l'administration générale et des finances. <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
+<td align="left" rowspan="2" valign="top">
+<p align="left">Versailles </p>
 <br/>
-</p>
 </td>
+<td align="left" valign="top">
+<p align="left">Directeur de l'administration générale et des finances. </p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Directeur des ressources humaines.<br/>
-</p>
+<p align="left">Directeur des ressources humaines.</p>
 </td>
 </tr>
 </tbody>

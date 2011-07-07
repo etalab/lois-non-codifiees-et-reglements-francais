@@ -2,8 +2,6 @@
 
 La liste des emplois de chef des services techniques accédant à l'indice brut 1015 et bénéficiant de la nouvelle bonification indiciaire est la suivante :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -21,11 +19,13 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <p align="left">SGAP de Lyon. </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la logistique. </p>
+<p align="left">Directeur de la logistique.</p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p align="center">1 </p>
 </td>
-<td align="center">40 <br/>
+<td align="center">
+<p align="center">40 </p>
 </td>
 </tr>
 <tr>
@@ -35,9 +35,11 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <td align="center">
 <p align="left">Directeur de la logistique. </p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p align="center">1 </p>
 </td>
-<td align="center">40 <br/>
+<td align="center">
+<p align="center">40 </p>
 </td>
 </tr>
 <tr>
@@ -47,9 +49,11 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <td align="center">
 <p align="left">Directeur de la logistique. </p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p align="center">1 </p>
 </td>
-<td align="center">40<br/>
+<td align="center">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
@@ -59,48 +63,52 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <td align="center">
 <p align="left">Adjoint au chef de l'établissement central logistique de la police nationale. </p>
 </td>
-<td align="center">1 <br/>
-</td>
-<td align="center">40<br/>
-</td>
-</tr>
-<tr>
 <td align="center">
-<p align="left">Direction des ressources et des compétences de la police nationale. </p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau de l'informatique et des méthodes à la sous-direction de la logistique. </p>
-</td>
-<td align="center">1 <br/>
-</td>
-<td align="center">40 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Direction de la défense et de la sécurité civiles. </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Directeur de l'établissement de soutien opérationnel et logistique Sud. </p>
-</td>
-<td align="left" valign="top">
 <p align="center">1 </p>
 </td>
-<td align="left" valign="top">
+<td align="center">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction des ressources et des compétences de la police nationale.</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau du soutien logistique à la sous-direction de l'équipement et de la logistique.</p>
+</td>
+<td align="center">
+<p align="center">1 </p>
+</td>
+<td align="center">
 <p align="center">40 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Direction de la défense et de la sécurité civiles. </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Directeur de l'établissement de soutien opérationnel et logistique Nord. </p>
+<td align="center">
+<p align="left">Directeur de l'établissement de soutien opérationnel et logistique Sud. </p>
 </td>
-<td align="left" valign="top">
+<td align="center">
 <p align="center">1 </p>
 </td>
-<td align="left" valign="top">
+<td align="center">
+<p align="center">40 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction de la défense et de la sécurité civiles. </p>
+</td>
+<td align="center">
+<p align="left">Directeur de l'établissement de soutien opérationnel et logistique Nord. </p>
+</td>
+<td align="center">
+<p align="center">1 </p>
+</td>
+<td align="center">
 <p align="center">40 </p>
 </td>
 </tr>
@@ -111,12 +119,12 @@ La liste des emplois de chef des services techniques accédant à l'indice brut 
 <td align="center">
 <p align="left">Adjoint au chef du bureau des affaires immobilières de l'administration territoriale. </p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p align="center">1 </p>
 </td>
-<td align="center">40<br/>
+<td align="center">
+<p align="center">40</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>

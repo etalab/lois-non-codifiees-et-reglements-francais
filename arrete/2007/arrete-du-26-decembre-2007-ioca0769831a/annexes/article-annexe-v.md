@@ -50,11 +50,44 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <p align="left">Préfecture du Jura.</p>
 </td>
 <td align="center">
-<p align="left">Chargé de mission développement territorial et ingénierie de projet.</p>
+<p align="left">Chargé de mission "développement territorial et ingénierie de projet".</p>
 </td>
 <td align="center">
 <p align="center">
 <br/>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préfecture des Bouches-du-Rhône </p>
+</td>
+<td>
+<p align="left">Chargé de mission "grands projets". </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préfecture de la Savoie</p>
+</td>
+<td>
+<p align="left">Chargé de mission "grand chantier Lyon Turin Ferroviaire". </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Préfecture de la Loire-Atlantique</p>
+</td>
+<td>
+<p align="left">Chef du service de l'immigration et de l'intégration.</p>
+</td>
+<td>
+<p align="center">50</p>
 </td>
 </tr>
 </tbody>
