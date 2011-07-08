@@ -446,7 +446,6 @@
 - [Arrêté du 16 juin 2004 (INTC0400268A)](arrete-du-16-juin-2004-intc0400268a)
 - [Arrêté du 16 juin 2004 (INTC0400432A)](arrete-du-16-juin-2004-intc0400432a)
 - [Arrêté du 16 juin 2004 (SANG0422094A)](arrete-du-16-juin-2004-sang0422094a)
-- [Arrêté du 16 mars 2004 (INDI0402661A)](arrete-du-16-mars-2004-indi0402661a)
 - [Arrêté du 16 mars 2004 (JUSA0400093A)](arrete-du-16-mars-2004-jusa0400093a)
 - [Arrêté du 16 mars 2004 (MCCB0300626A)](arrete-du-16-mars-2004-mccb0300626a)
 - [Arrêté du 16 mars 2004 (MCCB0300628A)](arrete-du-16-mars-2004-mccb0300628a)
