@@ -1,3 +1,0 @@
-# Article 3
-
-Lorsqu'il existe une différence substantielle de niveau entre la qualification dont se prévaut le demandeur, attestée conformément aux articles 1er et 2 du présent arrêté avec la qualification requise sur le territoire national pour exercer l'activité d'agent sportif et que cette différence est entièrement couverte par les connaissances qu'il a acquises au cours de son expérience professionnelle, la commission des agents sportifs reconnaît au demandeur un niveau de qualification lui permettant de demander d'obtenir une licence d'agent sportif sans se soumettre aux épreuves de l'examen écrit mentionné aux articles R. 222-1 et R. 222-8 du code du sport.

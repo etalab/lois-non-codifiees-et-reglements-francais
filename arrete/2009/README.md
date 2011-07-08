@@ -2418,7 +2418,6 @@
 - [Arrêté du 26 novembre 2009 (AGRT0925596A)](arrete-du-26-novembre-2009-agrt0925596a)
 - [Arrêté du 26 novembre 2009 (DEVA0928172A)](arrete-du-26-novembre-2009-deva0928172a)
 - [Arrêté du 26 novembre 2009 (DEVU0928339A)](arrete-du-26-novembre-2009-devu0928339a)
-- [Arrêté du 26 novembre 2009 (SASV0929236A)](arrete-du-26-novembre-2009-sasv0929236a)
 - [Arrêté du 26 octobre 2001 (MENF0101927A)](arrete-du-26-octobre-2001-menf0101927a)
 - [Arrêté du 26 octobre 2009 (BCFR0923098A)](arrete-du-26-octobre-2009-bcfr0923098a)
 - [Arrêté du 26 octobre 2009 (DEVN0922396A)](arrete-du-26-octobre-2009-devn0922396a)

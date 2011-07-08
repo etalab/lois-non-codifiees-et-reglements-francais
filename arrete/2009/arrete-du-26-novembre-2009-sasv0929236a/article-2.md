@@ -1,7 +1,0 @@
-# Article 2
-
-La commission des agents sportifs, après avoir accusé réception de la demande prévue à l'article R. 222-2 du code du sport, reconnaît au demandeur, dans le mois qui suit le dépôt de sa demande, un niveau de qualification permettant la délivrance d'une licence d'agent sportif lorsque :
-
-1° Conformément au 1° de l'article 1er du présent arrêté, le demandeur est titulaire d'une licence d'agent sportif, d'une attestation de compétences ou d'un titre de formation délivrés par l'autorité compétente d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen dans lequel l'exercice de la profession est réglementé qui attestent pour l'activité d'agent sportif d'un niveau de qualification équivalent à celui requis sur le territoire national ;
-
-2° Conformément au 2° de l'article 1er du présent arrêté, le demandeur a exercé la profession pendant deux ans au cours des dix années précédentes dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen qui ne réglemente pas l'exercice de la profession et il est titulaire d'une licence d'agent sportif, d'une ou plusieurs attestation(s) de compétences ou d'un ou plusieurs titre(s) de formation délivrés par l'autorité compétente d'un de ces Etats, qui attestent de sa préparation à l'exercice de la profession pour l'activité d'agent sportif ainsi que d'un niveau de qualification équivalent à celui requis sur le territoire national.
