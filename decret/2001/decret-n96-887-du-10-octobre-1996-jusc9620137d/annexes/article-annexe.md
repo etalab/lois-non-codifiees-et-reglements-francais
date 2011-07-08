@@ -12,7 +12,7 @@ Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 9
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
-2° Les interventions au cours de la garde à vue en cas de désignation d'office ;
+2° Les interventions au cours de la garde à vue ou de la retenue douanière en cas de désignation d'office ;
 
 3° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent ;
 
@@ -30,7 +30,7 @@ Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture
 
 a) Carpa-aide juridictionnelle ;
 
-b) Carpa-garde à vue ;
+b) Carpa- garde à vue et de la retenue douanière ;
 
 c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
 
@@ -164,23 +164,15 @@ Article 18
 
 Section 2
 
-Les interventions au cours de la garde à vue
+Les interventions au cours de la garde à vue ou de la retenue douanière
 
 Article 19
 
-La rétribution pour l'intervention de l'avocat au cours de la garde à vue est versée à l'avocat commis d'office contre la remise de l'imprimé visé audeuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police ou de gendarmerie compétentes ainsi que par le bâtonnier ou son représentant.
+La rétribution pour l'intervention de l'avocat au cours de la garde à vue ou de la retenue douanière est versée à l'avocat commis d'office contre la remise de l'imprimé visé audeuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police ou de gendarmerie compétentes ainsi que par le bâtonnier ou son représentant.
 
 Article 20
 
-Le montant de la rétribution due à l'avocat est fixé sur la base de l'une ou l'autre des options suivantes :
-
-1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires) ;
-
-2° Rétribution calculée selon des modalités particulières (à déterminer).
-
-Dans le deuxième cas, il est procédé à deux enregistrements distincts : celui de la rétribution effectivement versée et celui de la contribution due par l'Etat lorsque la rétribution versée correspond à la contribution due par l'Etat.
-
-Dans tous les cas, il prend en compte la situation de l'avocat au regard de la T. V. A.
+Il est tenu compte dans le montant de la contribution de l'Etat à la rétribution de l'avocat de la situation de l'avocat au regard de la TVA.
 
 Section 3
 
@@ -222,7 +214,7 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue ou de la retenue douanière et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
 Article 23
 
@@ -232,11 +224,11 @@ a) Mentionné dans la décision du bureau d'aide juridictionnelle ;
 
 b) Mentionné dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
 
-c) Désigné par le bâtonnier pour les interventions au cours de la garde à vue ;
+c) Désigné par le bâtonnier pour les interventions au cours de la garde à vue et de la retenue douanière ;
 
 d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Toutefois, en cas de changement d'avocat en cours de procédure, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
+Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
 
 Article 24
 
@@ -330,7 +322,7 @@ La Carpa transmet à l'ordonnateur compétent un état de trésorerie dont le mo
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
-2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue ;
+2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue ou de la retenue douanière ;
 
 3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
 
