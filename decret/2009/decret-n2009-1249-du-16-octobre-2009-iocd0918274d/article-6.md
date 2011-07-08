@@ -1,6 +1,6 @@
 # Article 6
 
-Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par le premier alinéa de l'article 17-1 de la loi du 21 janvier 1995 susvisée, sont autorisés à accéder aux données mentionnées aux articles 2 et 3 :
+Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par les premier et troisième alinéas de l'article 17-1 de la loi du 21 janvier 1995 susvisée, sont autorisés à accéder aux données mentionnées aux articles 2 et 3 :
 
 1° Les fonctionnaires relevant de la sous-direction de l'information générale de la direction centrale de la sécurité publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ;
 
