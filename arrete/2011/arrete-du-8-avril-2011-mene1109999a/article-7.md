@@ -1,5 +1,5 @@
 # Article 7
 
-Les correspondances entre les épreuves de l'examen organisé conformément à l'arrêté du 9 décembre 1998 portant création du certificat d'aptitude professionnelle « tailleur homme » et à l'arrêté du 5 novembre 1998 portant création du certificat d'aptitude professionnelle « tailleur dame » et les épreuves de l'examen organisé conformément au présent arrêté sont précisées en annexe V au présent arrêté.
+Les correspondances entre les épreuves de l'examen organisé conformément à l'arrêté du 22 avril 2005 portant définition et fixant les modalités de délivrance du certificat d'aptitude professionnelle tailleur homme et à l'arrêté du 22 avril 2005 portant définition et fixant les modalités de délivrance du certificat d'aptitude professionnelle tailleur dame et les épreuves de l'examen organisé conformément au présent arrêté sont précisées en annexe V au présent arrêté.
 
-Toute note obtenue aux épreuves de l'examen passé selon les dispositions des arrêtés des 9 décembre 1998 et 5 novembre 1998 précités est, à la demande du candidat et pour sa durée de validité, reportée sur l'unité correspondante de l'examen organisé selon les dispositions du présent arrêté.
+Toute note obtenue aux épreuves de l'examen passé selon les dispositions des arrêtés du 22 avril 2005 précités est, à la demande du candidat et pour sa durée de validité, reportée sur l'unité correspondante de l'examen organisé selon les dispositions du présent arrêté.
