@@ -21,6 +21,7 @@
 - [LOI n° 2011-672 du 16 juin 2011 (IOCK1003689L)](loi-n-2011-672-du-16-juin-2011-iock1003689l)
 - [LOI n° 2011-702 du 22 juin 2011 (DEFX1022079L)](loi-n-2011-702-du-22-juin-2011-defx1022079l)
 - [LOI n° 2011-725 du 23 juin 2011 (OMEX1104599L)](loi-n-2011-725-du-23-juin-2011-omex1104599l)
+- [LOI n° 2011-814 du 7 juillet 2011 (ETSX1117652L)](loi-n-2011-814-du-7-juillet-2011-etsx1117652l)
 - [LOI n° 2011-94 du 25 janvier 2011 (JUSC0909345L)](loi-n-2011-94-du-25-janvier-2011-jusc0909345l)
 - [Loi n° 55-385 du 3 avril 1955](loi-n-55-385-du-3-avril-1955)
 - [Loi n° 87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n-87-550-du-16-juillet-1987-jusx8700098l)
