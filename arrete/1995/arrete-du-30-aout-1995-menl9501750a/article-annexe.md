@@ -1,6 +1,6 @@
 # Article Annexe
 
-LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNOLOGIE SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2009-2010
+Liste des établissements habilités à délivrer le diplôme national de technologie spécialisé dans les spécialités suivantes pour les années universitaires 2010-2011 et 2011-2012
 
 <table>
 <tbody>
@@ -24,17 +24,6 @@ LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNO
 </td>
 <td align="center">
 <br/>Maintenance nucléaire <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nantes <br/>
-</td>
-<td align="center">
-<br/>Lycée Chevrollier, Angers <br/>
-</td>
-<td align="center">
-<br/>Vente de solutions informatiques<br/>
 </td>
 </tr>
 </tbody>
