@@ -20,6 +20,7 @@
 - [Décret n°2011-388 du 13 avril 2011 (IOCJ1104080D)](decret-n2011-388-du-13-avril-2011-iocj1104080d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2011-295 du 21 mars 2011 (IOCC1032899D)](decret-n2011-295-du-21-mars-2011-iocc1032899d)
+- [Décret n°2010-1451 du 25 novembre 2010 (BCRX1029603D)](decret-n2010-1451-du-25-novembre-2010-bcrx1029603d)
 - [Décret n°2011-1028 du 26 août 2011 (ETSS1117702D)](decret-n2011-1028-du-26-aout-2011-etss1117702d)
 - [Décret n°2009-1307 du 27 octobre 2009 (AGRT0919577D)](decret-n2009-1307-du-27-octobre-2009-agrt0919577d)
 - [Décret n°2011-736 du 27 juin 2011 (PRMX1111650D)](decret-n2011-736-du-27-juin-2011-prmx1111650d)
