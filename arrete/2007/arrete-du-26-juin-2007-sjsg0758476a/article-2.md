@@ -2,98 +2,128 @@
 
 La composition de cette commission est fixée ainsi qu'il suit :
 
-GRADES
-
-Adjoints administratifs principaux de 1re classe
-
-NOMBRE DE REPRÉSENTANTS du personnel
-
-Titulaires
-
-3
-
-Suppléants
-
-3
-
-NOMBRE DE REPRÉSENTANTS de l'administration
-
-Titulaires
-
-3
-
-Suppléants
-
-3
-
-GRADES
-
-Adjoints administratifs principaux de 2e classe
-
-NOMBRE DE REPRÉSENTANTS du personnel
-
-Titulaires
-
-3
-
-Suppléants
-
-3
-
-NOMBRE DE REPRÉSENTANTS de l'administration
-
-Titulaires
-
-3
-
-Suppléants
-
-3
-
-GRADES
-
-Adjoints administratifs de 1re classe
-
-NOMBRE DE REPRÉSENTANTS du personnel
-
-Titulaires
-
-4
-
-Suppléants
-
-4
-
-NOMBRE DE REPRÉSENTANTS de l'administration
-
-Titulaires
-
-4
-
-Suppléants
-
-4
-
-GRADES
-
-Adjoints administratifs de 2e classe
-
-NOMBRE DE REPRÉSENTANTS du personnel
-
-Titulaires
-
-2
-
-Suppléants
-
-2
-
-NOMBRE DE REPRÉSENTANTS de l'administration
-
-Titulaires
-
-2
-
-Suppléants
-
-2
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> GRADES REPRÉSENTÉS</p>
+</td>
+<td colspan="4">
+<p align="center"> NOMBRE DE REPRÉSENTANTS <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td colspan="2">
+<p align="center"> Du personnel </p>
+</td>
+<td colspan="2">
+<p align="center"> De l'administration </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center"> Titulaires</p>
+</td>
+<td>
+<p align="center"> Suppléants</p>
+</td>
+<td>
+<p align="center"> Titulaires</p>
+</td>
+<td>
+<p align="center"> Suppléants</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Adjoints administratifs principaux de 1re classe </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Adjoints administratifs principaux de 2e classe </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Adjoints administratifs de 1re classe </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Adjoints administratifs de 2e classe </p>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+</tr>
+</tbody>
+</table>

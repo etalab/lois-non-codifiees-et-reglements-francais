@@ -22,7 +22,7 @@ Diplôme des hospices civils d'Amiens délivré antérieurement à 1935.
 
 Diplôme du centre hospitalier de Clermont-Ferrand.
 
-4° Diplôme d'Etat de sage-femme.
+4° (alinéa abrogé)
 
 5° Attestation d'études de médecine correspondant soit à deux inscriptions annuelles à la faculté de médecine validées au titre de l'ancien régime d'études fixé par le décret du 6 mars 1964, soit à trois inscriptions annuelles validées au titre des régimes d'études fixés par le décret n° 60-759 du 28 juillet 1960 et le décret n° 63-875 du 24 août 1963.
 
