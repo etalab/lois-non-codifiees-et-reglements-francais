@@ -22,6 +22,7 @@
 - [Décret n°2011-819 du 8 juillet 2011 (JUSC1115324D)](decret-n2011-819-du-8-juillet-2011-jusc1115324d)
 - [Décret n°2011-820 du 8 juillet 2011 (IOCV1115190D)](decret-n2011-820-du-8-juillet-2011-iocv1115190d)
 - [Décret n°2011-826 du 8 juillet 2011 (MFPX1118162D)](decret-n2011-826-du-8-juillet-2011-mfpx1118162d)
+- [Décret n°2011-827 du 8 juillet 2011 (ETSS1113116D)](decret-n2011-827-du-8-juillet-2011-etss1113116d)
 - [Décret n°2011-388 du 13 avril 2011 (IOCJ1104080D)](decret-n2011-388-du-13-avril-2011-iocj1104080d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2011-295 du 21 mars 2011 (IOCC1032899D)](decret-n2011-295-du-21-mars-2011-iocc1032899d)
