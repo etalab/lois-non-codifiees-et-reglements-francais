@@ -4,113 +4,71 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : infographiste en multimédia.
+Intitulé : infographiste en multimédia.
 
 Niveau : III.
 
-Code NSF : 322 t.
+Code NSF : 322 t.-Techniques de l'imprimerie et de l'édition.
 
 Résumé du référentiel d'emploi
 
-L'infographiste en multimédia est un(e) professionnel(le) de la communication visuelle.
+L'infographiste en multimédia participe aux étapes de production d'éléments multimédia, publiés en réseau ou édités sur un support numérique, pour créer des outils de communication sur écran.
 
-Il (elle) participe à l'ensemble des étapes de production d'éléments multimédias, publiés sur internet ou édités sur tout support :
+A partir d'un cahier des charges ou d'instructions de son hiérarchique, il (elle) participe à la conception de projets multimédias pour la réalisation ou l'adaptation d'une charte graphique en tenant compte des critères d'ergonomies, de l'interactivité des utilisateurs, des normes et des contraintes techniques liées aux supports de diffusion. Il (elle) prépare des médias (textes, images, animations, sons, vidéos, etc.) avec des logiciels professionnels et en fonction de la finalité du produit attendu.
 
-- il (elle) analyse la demande, les instructions ou le cahier des charges ;
+Pour la réalisation de sites web dynamiques, il (elle) échange avec d'autres professionnels (webmestre, directeur artistique, développeur informatique, marketing, commerciaux, etc.), il (elle) effectue la mise en page écran en intégrant et optimisant les différents médias et par des langages de description ou de programmation pour le référencement naturel.
 
-- il (elle) prépare les médias avec différents logiciels spécifiques (textes, images, animations, sons, vidéos, etc.) ;
+Il (elle) utilise également pour réaliser ces sites, ou configurer des gestionnaires de contenus, des langages de programmation ou de description (JavaScript, PHP, XML, HTML). Dans le cas de commandes clients, nécessitant des médias animés en deux dimensions et/ ou interactifs, il (elle) conçoit des animations composées de textes, d'images, de sons et de vidéos et les réalise avec des logiciels professionnels. Il (elle) élabore l'interactivité et la met en œuvre en utilisant un langage de script spécifique. Il (elle) s'assure de la conformité des réalisations pour la diffusion. Il (elle) assure une veille technique et technologique continue dans son secteur professionnel et s'approprie les évolutions majeures pour la réalisation des supports numériques multimédias.
 
-- il (elle) exécute un plan de structure arborescente, une charte graphique, des roughs (dessin à main levée) et une maquette interactive qui comporteront toutes les indications nécessaires à la fabrication du produit (travail de recherche et de création d'esquisses de maquettes) et des feuilles de style ;
-
-- après négociation avec le client, il (elle) exécute la mise en pages définitive pour la réalisation du site web, du CD-ROM ou du DVD.
-
-L'infographiste en multimédia peut être spécialisé dans la réalisation d'animations en trois dimensions.
-
-Une culture visuelle est fondamentale, notamment la culture du multimédia (l'interactivité, le scénario arborescent, la mise en pages d'écrans dynamiques, les animations vectorielles, l'audiovisuel...).
-
-La connaissance des outils logiciels d'exécution, des langages de programmation courants tels que le HTML et le JavaScript ainsi qu'un certain niveau de maîtrise des plates-formes d'intégration est également indispensable.
+Cet emploi s'exerce dans une agence web spécialisée, une agence de publicité, un studio de création graphique indépendant ou dans un service de communication d'une structure publique ou privée. Il peut également s'exercer avec le statut de travailleur indépendant. Les horaires sont généralement fixes, mais peuvent être soutenus par le volume d'activité (bouclage de projet, etc.). Il (elle) travaille en position assise et face à des écrans de façon continue. Il (elle) est autonome dans les phases techniques et créatives de son activité, il (elle) échange avec d'autres professionnels pour l'élaboration et la finalisation des produits multimédias, il (elle) rend compte des différentes phases de ces réalisations à son hiérarchique. Il (elle) peut être en relation avec le client.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Préparer des graphismes et photomontages
+1. Réaliser des infographies pour des supports numériques
 
-pour des supports numériques
-
-Gérer un poste de travail informatique.
-
-Utiliser les outils de recherche et d'échange d'informations sur internet.
-
-Préparer les médias (texte, images fixes ou animées...).
+Préparer la production et les médias (texte, images fixes ou animées...).
 
 Réaliser des graphismes et illustrations fixes élaborés.
 
 Réaliser des photomontages complexes.
 
-2. Réaliser les pages web destinées à la chaîne
+Concevoir et mettre en page des documents imprimés simples.
 
-d'édition multimédia en ligne
+Assurer une veille technique et technologique.
 
-Réaliser un site web statique.
+2. Réaliser des sites web
+
+destinés à la chaîne d'édition multimédia en ligne
+
+Concevoir la mise en page de sites web en tenant compte des critères ergonomiques, du référencement et de l'accessibilité.
 
 Réaliser un site web dynamique.
 
-Publier un site web.
+Configurer et/ ou adapter des systèmes de gestion de contenus.
 
-3. Elaborer des séquences
+3. Elaborer des séquences d'animations interactives
 
-d'animations vectorielles interactives
+Concevoir une animation pour le web ou pour l'affichage dynamique.
 
-Réaliser des animations vectorielles en deux dimensions (2 D).
+Réaliser une animation en deux dimensions (2D).
 
-Réaliser des séquences d'animations vectorielles interactives en deux dimensions (2 D).
+Réaliser des séquences d'animation vectorielles interactives en deux dimensions (2D).
 
-4. Elaborer un produit de communication graphique
-
-imprimé, gravé ou en ligne
-
-Concevoir un site web et un produit multimédia interactif gravé.
-
-Réaliser un produit multimédia interactif, intégrer les médias et leurs comportements.
-
-Concevoir et exécuter une maquette de mise en pages pour support imprimé (préparation des médias, mise en pages, suivi de l'impression).
-
-Finaliser un produit multimédia (CD-ROM, DVD).
-
-Unité de spécialisation complémentaire
-
-Concevoir et réaliser une animation en trois dimensions (3 D)
-
-Interpréter les fichiers de dessin industriel et de conception assistée par ordinateur (CAO) et modéliser des objets en trois dimensions.
-
-Concevoir un scénarimage d'une animation en trois dimensions.
-
-Concevoir et appliquer l'habillage et l'éclairage sur des objets en trois dimensions et leur décor.
-
-Finaliser une animation en trois dimensions et lui appliquer une interactivité simple.
-
-Secteurs d'activités ou types d'emploi
+Secteur d'activité ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Les secteurs d'activités de l'infographiste en multimédia sont la communication, l'édition, la publicité et l'information et le commerce sur internet.
+Cet emploi s'exerce dans une agence web spécialisée, une agence de publicité, un studio de création graphique indépendant ou dans un service de communication d'une structure publique ou privée. Il peut également s'exercer avec le statut de travailleur indépendant.
 
-Cet emploi s'exerce :
+Codes ROME :
 
-- en studio graphique, agence de publicité, agence de communication : cellule création ou commerciale ;
+E1104-Conception de contenus multimédias ;
 
-- en prestation directe auprès des entreprises : travailleur indépendant, ou EURL (entreprise unipersonnelle à responsabilité limitée).
+E1205-Réalisation de contenus multimédias ;
 
-Code ROME :
-
-32212 - Créateur de support de communication visuelle.
-
-Réglementation de l'activité :
-
-Néant.
+E1306-Prépresse.
 
 Autorité responsable de la certification :
 
@@ -118,8 +76,9 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5,
+L. 335-6 et R. 335-13 et R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
