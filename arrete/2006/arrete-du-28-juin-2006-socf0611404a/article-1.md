@@ -6,4 +6,4 @@ Il est délivré dans les conditions prévues par l'arrêté du 9 mars 2006 susv
 
 Il est classé au niveau IV de la Nomenclature des niveaux de formation telle que définie à l'article 2 du décret n° 2002-616 du 26 avril 2002 susvisé et dans le domaine d'activité 320 t (code NSF).
 
-Il sera réexaminé par la commission professionnelle consultative compétente dans un délai de cinq ans.
+Le titre professionnel de conseiller (ère) et assistant (e) en technologies de l'information et de la communication sera examiné par la commission professionnelle consultative dans un délai de cinq ans à compter du 13 juillet 2011.
