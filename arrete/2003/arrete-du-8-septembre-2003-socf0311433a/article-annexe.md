@@ -1,12 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de chef d'équipe aménagement-finitions.
+Titre professionnel : chef d'équipe aménagement-finitions.
 
 Niveau : IV.
 
@@ -14,51 +12,57 @@ Code NSF : 233 p.
 
 Résumé du référentiel d'emploi
 
-Le chef d'équipe aménagement-finitions est chargé, en complément de ses activités d'ouvrier hautement qualifié, de conduire une équipe de 2 à 8 ouvriers, suivant les directives du responsable de chantier dont il dépend.
+Le chef d'équipe aménagement-finitions est un ouvrier hautement qualifié sur l'un des métiers du secteur de l'aménagement finitions : peintre, plaquiste, plâtrier, carreleur, poseur de revêtement souple, peintre-façadier. Il assure, en complément de ses activités de compagnon, le premier niveau d'encadrement des travaux réalisés par une équipe.
 
-Il participe à la préparation "amont" de l'intervention. Puis, au cours de la réalisation des travaux, il intervient à tous les stades de la construction des ouvrages qui lui sont confiés : préparation et organisation des tâches, contrôle de la qualité de mise en oeuvre, approvisionnement en matériaux et matériel, application des règles de sécurité, respect des délais et animation de l'équipe.
+A cette fin, il organise, encadre et contrôle les travaux d'une équipe de 2 à 8 ouvriers professionnels. Il prend en compte les critères liés au respect de la performance énergétique des bâtiments et assure la gestion des interfaces techniques avec les autres lots.
 
-Il exerce sur des chantiers de construction neuve ou de réhabilitation, aussi bien à l'extérieur et en plein air pour les façades, qu'à l'abri pour des interventions à l'intérieur de locaux dits  clos et couverts . L'activité de chantier peut s'accompagner de travaux administratifs et de gestion réalisés le plus souvent en fin de journée : pointage du personnel et du matériel utilisé, suivi des commandes de matériaux, compte rendu d'activité, préparation des réunions de chantier.
+Il met en place des procédures de contrôle et d'autocontrôle. Il est informé sur la pathologie des bâtiments, il veille à la bonne application des réglementations sur le tri et le stockage des déchets et effectue quelques tâches administratives.
 
-Les déplacements sont fréquents à cause de l'éloignement du lieu de travail et des changements de chantiers. Les horaires sont réguliers, mais le rythme de travail peut être conditionné par des impératifs techniques et le respect des délais.
+Le chef d'équipe aménagement finitions travaille sur des chantiers de construction neuve ou en réhabilitation, à l'intérieur de locaux clos et couverts ou à l'extérieur, en plein air pour les activités sur les façades. Les chantiers peuvent être éloignés du siège de l'entreprise. Les horaires sont réguliers, le rythme de travail est conditionné par des impératifs techniques et le respect des délais. Il réalise son activité dans le respect des consignes de sécurité et de prévention de la santé.
 
-Le chef d'équipe est responsable de la bonne réalisation des travaux qui lui sont confiés depuis la préparation des travaux jusqu'à leur réception finale, ainsi que de l'animation de l'équipe qu'il conduit.
+Capacités attestées et descriptif
 
-Capacités attestées et descriptif des composantes de la certification
+des composantes de la certification
 
-1. Préparer, pour une équipe, la réalisation des travaux d'aménagement-finitions
+1. Préparer la réalisation des travaux
 
-Organiser, pour une équipe, l'approvisionnement des matériaux de l'aménagement-finitions de la commande à la livraison.
+en intégrant la performance énergétique
 
-Planifier et organiser, pour une équipe, les travaux de l'aménagement-finitions.
+Préparer l'approvisionnement des matériaux et du matériel pour une équipe AF.
 
-Gérer la location et l'utilisation du matériel, pour une équipe, de l'aménagement-finitions.
+Préparer l'intervention d'une équipe AF.
 
-2. Contrôler et suivre une équipe, lors de la réalisation des travaux d'aménagement-finitions
+Réaliser la liste des contrôles préalables à l'intervention d'une équipe AF.
 
-Animer une équipe de production de l'aménagement-finitions.
+2. Encadrer une équipe
 
-Contrôler l'exécution des travaux d'une équipe de l'aménagement-finitions.
+et gérer les interfaces techniques
 
-Organiser les postes de travail au quotidien d'une équipe de l'aménagement-finitions.
+Encadrer une équipe AF.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Coordonner l'intervention d'une équipe AF et gérer les interfaces techniques.
 
-Moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+Secteurs d'activités ou types d'emploi
+
+accessibles par le détenteur du titre
+
+Moyennes entreprises du second œuvre intervenant dans le domaine de l'aménagement-finitions.
 
 Entreprises de travail temporaire.
 
 Services d'entretien de sociétés et de services publics.
 
-Code(s) ROME :
+Codes ROME :
 
-42222 - Monteur/monteuse plaquiste en agencements ;
+F1604-Montage d'agencements.
 
-42231 - Poseur/poseuse de revêtements rigides ;
+F1608-Pose de revêtements rigides.
 
-42232 - Poseur/poseuse de revêtements souples ;
+F1609-Pose de revêtements souples.
 
-42233 - Peintre en bâtiment.
+F1606-Peinture en bâtiment.
+
+F1611-Réalisation et restauration de façades.
 
 Réglementation de l'activité :
 
@@ -70,8 +74,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
