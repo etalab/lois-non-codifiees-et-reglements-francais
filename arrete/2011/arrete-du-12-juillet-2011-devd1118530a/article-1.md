@@ -1,0 +1,3 @@
+# Article 1
+
+Une association agréée dans le cadre national au titre de l'article L. 141-1 du code de l'environnement souhaitant prendre part au débat sur l'environnement se déroulant au sein de certaines instances consultatives nationales satisfait la condition visée au 1° de l'article R. 141-21 du code de l'environnement lorsqu'elle justifie, pour l'exercice précédant la date de dépôt de la demande, d'un nombre de membres à jour de leur cotisation supérieur à 2 000. Ces membres doivent être domiciliés dans au moins six régions, dont aucune ne peut regrouper plus de la moitié du nombre total des membres.
