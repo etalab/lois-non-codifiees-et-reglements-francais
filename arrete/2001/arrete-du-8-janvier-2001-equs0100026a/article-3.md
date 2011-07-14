@@ -20,8 +20,6 @@ L'agrément fait l'objet d'un arrêté préfectoral comportant les éléments su
 
 -la mention de la ou des formations à la conduite et à la sécurité routières dispensées dans l'établissement ;
 
--le nom du directeur pédagogique (lorsque la réglementation l'impose) ;
-
 -le nombre d'élèves que l'établissement est autorisé à accueillir.
 
 Les éléments fournis pour l'obtention de l'agrément sont inscrits dans le registre national de l'enseignement de la conduite des véhicules à moteur créé par arrêté du 8 janvier 2001.

@@ -16,8 +16,6 @@ Tout exploitant d'un établissement d'enseignement de la conduite des véhicules
 
 - le ou les programmes de formation conformes aux objectifs pédagogiques retenus par le programme national de formation à la conduite (PNF) défini par l'arrêté du ministre chargé des transports ;
 
-- l'arrêté portant l'agrément de l'établissement ;
-
-- le nom et qualité du directeur pédagogique, le cas échéant.
+- l'arrêté portant l'agrément de l'établissement.
 
 3° Procéder aux inscriptions individuelles des élèves uniquement dans ce local, à l'exclusion de tout autre lieu.

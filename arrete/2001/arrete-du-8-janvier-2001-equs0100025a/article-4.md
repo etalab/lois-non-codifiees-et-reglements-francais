@@ -6,9 +6,7 @@ a) Identité de l'exploitant : nom, prénoms, date et lieu de naissance, nationa
 
 b) Identité de l'établissement : nom ou raison sociale, statut juridique, adresse du local d'activité ;
 
-c) Expérience professionnelle de l'enseignement de la conduite :
-
-dates d'exercice et nombre d'années d'expérience ;
+c) (Abrogé)
 
 d) Capacité à la gestion d'un établissement d'enseignement de la conduite : diplôme détenu ou attestation de formation ;
 

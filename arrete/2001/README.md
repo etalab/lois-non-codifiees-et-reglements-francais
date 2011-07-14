@@ -134,7 +134,6 @@
 - [Arrêté du 8 janvier 2001 (EQUS0100025A)](arrete-du-8-janvier-2001-equs0100025a)
 - [Arrêté du 8 janvier 2001 (EQUS0100026A)](arrete-du-8-janvier-2001-equs0100026a)
 - [Arrêté du 8 janvier 2001 (EQUS0100027A)](arrete-du-8-janvier-2001-equs0100027a)
-- [Arrêté du 8 janvier 2001 (EQUS0100028A)](arrete-du-8-janvier-2001-equs0100028a)
 - [Arrêté du 8 janvier 2001 (EQUS0100029A)](arrete-du-8-janvier-2001-equs0100029a)
 - [Arrêté du 8 janvier 2001 (MENF0003104A)](arrete-du-8-janvier-2001-menf0003104a)
 - [Arrêté du 8 juin 2001 (AGRP0101144A)](arrete-du-8-juin-2001-agrp0101144a)

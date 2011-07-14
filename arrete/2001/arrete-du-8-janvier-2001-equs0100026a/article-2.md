@@ -16,17 +16,11 @@ a) Pour le demandeur :
 
 6° La photocopie certifiée conforme soit d'un titre ou diplôme, soit d'une attestation de formation justifiant de la capacité du demandeur à gérer un établissement d'enseignement de la conduite, dans les conditions fixées par l'arrêté du 8 janvier 2001 ;
 
-7° La photocopie des justificatifs attestant que le demandeur bénéficie d'une expérience professionnelle de l'enseignement de la conduite automobile et de la sécurité routière dans les conditions prévues par l'arrêté du 8 janvier 2001 ;
+7° (Abrogé)
 
 8° La justification de l'inscription au rôle de la taxe professionnelle ou, à défaut, une déclaration d'inscription à l'URSSAF.
 
-b) Pour le directeur pédagogique :
-
-Si le demandeur est titulaire d'un agrément délivré avant le 1er janvier 2001 et ne remplit pas les conditions fixées à l'article R. 245-1 (4°) du code de la route, il doit fournir les pièces suivantes :
-
-9° La photocopie de l'engagement contractuel désignant le directeur pédagogique chargé d'organiser et d'encadrer effectivement la formation dispensée dans l'établissement ainsi que les justificatifs attestant qu'il bénéficie de trois ans d'expérience professionnelle de l'enseignement de la conduite automobile et de la sécurité routière ;
-
-10° L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière du directeur pédagogique, en cours de validité.
+b), 9°, 10° (Abrogé)
 
 c) Pour les moyens de l'établissement :
 

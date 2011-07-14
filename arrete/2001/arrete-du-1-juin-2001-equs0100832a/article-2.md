@@ -16,7 +16,7 @@ a) Pour le demandeur :
 
 6° La photocopie soit d'un titre ou diplôme, soit d'une attestation de formation justifiant de sa capacité à gérer un établissement d'enseignement de la conduite, dans les conditions fixées par l'arrêté du 8 janvier 2001 susvisé ;
 
-7° La photocopie des justificatifs attestant qu'il bénéficie d'une expérience professionnelle de l'enseignement de la conduite automobile et de la sécurité routière dans les conditions prévues par l'arrêté du 8 janvier 2001 susvisé ;
+7° (Abrogé)
 
 8° La justification de l'inscription au rôle de la taxe professionnelle ou, à défaut, une déclaration d'inscription à l'URSSAF.
 
