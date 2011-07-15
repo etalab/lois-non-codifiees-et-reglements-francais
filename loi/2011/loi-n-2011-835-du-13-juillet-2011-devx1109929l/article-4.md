@@ -1,0 +1,3 @@
+# Article 4
+
+Le Gouvernement remet annuellement un rapport au Parlement sur l'évolution des techniques d'exploration et d'exploitation et la connaissance du sous-sol français, européen et international en matière d'hydrocarbures liquides ou gazeux, sur les conditions de mise en œuvre d'expérimentations réalisées à seules fins de recherche scientifique sous contrôle public, sur les travaux de la commission nationale d'orientation, de suivi et d'évaluation créée par l'article 2, sur la conformité du cadre législatif et réglementaire à la Charte de l'environnement de 2004 dans le domaine minier et sur les adaptations législatives ou réglementaires envisagées au regard des éléments communiqués dans ce rapport.

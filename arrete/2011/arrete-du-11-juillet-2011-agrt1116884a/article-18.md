@@ -1,0 +1,3 @@
+# Article 18
+
+Sauf en cas de force majeure ou de circonstances exceptionnelles dûment constatés, si, une modification ou une sous-réalisation du plan de développement remettant en cause son objet ou sa finalité initiale est constatée, sans que le bénéficiaire n'en ait préalablement informé la DDT(M), une mise en demeure est adressée au bénéficiaire, en vue de régulariser l'opération dans un délai fixé par la DDT(M) mais qui ne peut être supérieur à un an. En cas d'absence de régularisation, préfet prononce une déchéance partielle à hauteur de 30 % ou totale selon la gravité du manquement constaté. Dans le cas d'une déchéance totale, le remboursement du montant d'aide publique accordée (part nationale et contrepartie FEADER) est assorti d'une pénalité de 3 %.
