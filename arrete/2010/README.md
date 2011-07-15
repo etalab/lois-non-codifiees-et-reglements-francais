@@ -2595,7 +2595,6 @@
 - [Arrêté du 26 janvier 2010 (DEVE1002384A)](arrete-du-26-janvier-2010-deve1002384a)
 - [Arrêté du 26 janvier 2010 (DEVT1001023A)](arrete-du-26-janvier-2010-devt1001023a)
 - [Arrêté du 26 juillet 2010 (AGRT1014455A)](arrete-du-26-juillet-2010-agrt1014455a)
-- [Arrêté du 26 juillet 2010 (BCRS1019207A)](arrete-du-26-juillet-2010-bcrs1019207a)
 - [Arrêté du 26 juillet 2010 (DEVA1002265A)](arrete-du-26-juillet-2010-deva1002265a)
 - [Arrêté du 26 juillet 2010 (DEVA1018706A)](arrete-du-26-juillet-2010-deva1018706a)
 - [Arrêté du 26 juillet 2010 (DEVO0910833A)](arrete-du-26-juillet-2010-devo0910833a)
