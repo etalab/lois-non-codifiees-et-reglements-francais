@@ -10,6 +10,4 @@ Seul est autorisé, sous réserve des prescriptions particulières qui leur sont
 
 4. Les pièges à lacet déclenchés par pression sur une palette, ou tout autre système de détente, et ayant pour objet de capturer l'animal par une partie de son corps, sans le tuer ;
 
-5. Les pièges rustiques dits assommoirs perchés ;
-
-6. Les pièges n'appartenant pas aux catégories précédentes et ayant pour effet d'entraîner la mort de l'animal par noyade.
+5. Les pièges n'appartenant pas aux catégories précédentes et ayant pour effet d'entraîner la mort de l'animal par noyade.

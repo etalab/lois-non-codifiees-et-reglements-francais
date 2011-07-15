@@ -7,4 +7,3 @@
 - [Chapitre IV : Déclaration des opérations de piégeage.](chapitre-iv)
 - [Chapitre V : Prescriptions générales pour le piégeage.](chapitre-v)
 - [Chapitre VI : Dispositions diverses.](chapitre-vi)
-- [Article 25](article-25.md)

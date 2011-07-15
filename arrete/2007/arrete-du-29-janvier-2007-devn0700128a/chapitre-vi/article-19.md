@@ -1,3 +1,3 @@
 # Article 19
 
-Le piégeage du sanglier est interdit.
+L'utilisation de pièges à feu ou de batteries d'armes à feu est interdite.
