@@ -34,6 +34,7 @@
 - [Décret n°2011-836 du 13 juillet 2011 (DEFX1118442D)](decret-n2011-836-du-13-juillet-2011-defx1118442d)
 - [Décret n°2011-837 du 13 juillet 2011 (SCSX1118416D)](decret-n2011-837-du-13-juillet-2011-scsx1118416d)
 - [Décret n°2011-838 du 13 juillet 2011 (TRAX1118798D)](decret-n2011-838-du-13-juillet-2011-trax1118798d)
+- [Décret n°2011-841 du 13 juillet 2011 (AGRG1118524D)](decret-n2011-841-du-13-juillet-2011-agrg1118524d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2011-295 du 21 mars 2011 (IOCC1032899D)](decret-n2011-295-du-21-mars-2011-iocc1032899d)
 - [Décret n°2010-1451 du 25 novembre 2010 (BCRX1029603D)](decret-n2010-1451-du-25-novembre-2010-bcrx1029603d)
