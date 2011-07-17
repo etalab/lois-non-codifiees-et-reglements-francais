@@ -1,5 +1,0 @@
-# Article 11
-
-La liste des électeurs appelés à voter est arrêtée pour chaque niveau de catégorie par l'autorité auprès de laquelle la commission est placée. Elle comprend le nom et prénom ainsi que l'affectation des agents. Elle est affichée deux mois au moins avant la date fixée pour le scrutin dans chacun des sites situés dans le périmètre de la commission consultative paritaire, au choix de l'autorité auprès dont relève la commission pour l'ensemble des électeurs de ladite commission ou pour les seuls électeurs affectés dans le site concerné.
-
-Dans les quinze jours qui suivent l'affichage de la liste électorale, les électeurs peuvent vérifier les inscriptions et, le cas échéant, présenter des demandes d'inscription. Dans le même délai, et pendant trois jours à compter de son expiration, des réclamations peuvent être formulées contre les inscriptions ou omissions sur les listes électorales. L'autorité auprès de laquelle la commission est placée statue sans délai sur les réclamations.

@@ -626,7 +626,6 @@
 - [Arrêté du 30 juin 2005 (DEFD0500919A)](arrete-du-30-juin-2005-defd0500919a)
 - [Arrêté du 30 juin 2005 (DEFP0500912A)](arrete-du-30-juin-2005-defp0500912a)
 - [Arrêté du 30 juin 2005 (DEVP0540241A)](arrete-du-30-juin-2005-devp0540241a)
-- [Arrêté du 30 juin 2005 (SOCF0511220A)](arrete-du-30-juin-2005-socf0511220a)
 - [Arrêté du 30 mars 2005 (DEFD0500436A)](arrete-du-30-mars-2005-defd0500436a)
 - [Arrêté du 30 mars 2005 (JUSK0540041A)](arrete-du-30-mars-2005-jusk0540041a)
 - [Arrêté du 30 mars 2005 (MAEF0410072A)](arrete-du-30-mars-2005-maef0410072a)
