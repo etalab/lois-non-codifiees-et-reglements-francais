@@ -6,16 +6,16 @@ Un délégué ministériel au handicap, chargé d'animer et développer la polit
 
 II. ― La sous-direction comprend :
 
-Le bureau  affaires juridiques
+Le bureau affaires juridiques
 
 Il est chargé de coordonner la conception et la mise en œuvre des textes statutaires et indemnitaires concernant les agents des ministères. Il instruit les contentieux et assure une mission de conseil juridique. Il traite les affaires soumises à la commission de recours du Conseil supérieur de la fonction publique de l'Etat ainsi que toute question relative à la déontologie.
 
-Le bureau  gestion des compétences, formation, emploi et mobilité
+Le bureau gestion des compétences, formation, emploi et mobilité
 
-Il est chargé des travaux ministériels relatifs à la gestion prévisionnelle des effectifs, des emplois et des compétences ainsi qu'à la mobilité professionnelle. En liaison avec le délégué à la diversité et à l'égalité professionnelle, il coordonne les politiques ministérielles de recrutement et de formation et, le cas échéant, conduit des projets d'intérêt commun.
+Il est chargé de la définition et du pilotage des actions ministérielles relatives à la gestion prévisionnelle des effectifs, des emplois et des compétences, au recrutement, à la formation initiale et au long de la vie, ainsi qu'à la mobilité professionnelle, et conduit, le cas échéant, des projets d'intérêt commun.
 
-La mission  veille et mutualisation
+La mission veille et mutualisation
 
 Dans le domaine des ressources humaines, elle exerce une activité de veille et diffuse de l'information. Elle est notamment chargée de fournir aux responsables et gestionnaires des ressources humaines des ministères des outils de pilotage des évolutions et de conduite du changement. Elle développe la mutualisation des bonnes pratiques. Elle définit les principes et coordonne les mesures mises en œuvre pour l'accompagnement social des réformes.
 
-III. - Le délégué ministériel au handicap dirige la cellule de recrutement et d'insertion des personnes handicapées (CRIPH). Cette cellule suscite et coordonne pour les ministères, en liaison avec son réseau de  correspondants handicap  qu'elle forme et anime, des mesures visant à promouvoir le recrutement et l'insertion des personnes handicapées ainsi que la réinsertion d'agents devenus handicapés.
+III. - Le délégué ministériel au handicap dirige la cellule de recrutement et d'insertion des personnes handicapées (CRIPH). Cette cellule suscite et coordonne pour les ministères, en liaison avec son réseau de correspondants handicap qu'elle forme et anime, des mesures visant à promouvoir le recrutement et l'insertion des personnes handicapées ainsi que la réinsertion d'agents devenus handicapés.

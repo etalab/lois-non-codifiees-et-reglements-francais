@@ -4,14 +4,14 @@ I. ― La sous-direction des affaires budgétaires et de la performance est char
 
 II. ― La sous-direction comprend :
 
-Le bureau  synthèse budgétaire du MEIE
+Le bureau synthèse budgétaire du MINEFI
 
-Sur les programmes budgétaires du ministère de l'économie, de l'industrie et de l'emploi, il conduit la procédure budgétaire et coordonne le suivi de l'exécution budgétaire.
+Sur les programmes budgétaires du ministère de l'économie, des finances et de l'industrie, il conduit la procédure budgétaire et coordonne le suivi de l'exécution budgétaire.
 
-Le bureau  synthèse budgétaire du MBCPRE
+Le bureau synthèse budgétaire du MBCPRE
 
 Sur les programmes budgétaires du ministère du budget, des comptes publics et de la réforme de l'Etat, il conduit la procédure budgétaire et coordonne le suivi de l'exécution budgétaire.
 
-Le bureau  performance et contrôle de gestion
+Le bureau performance et contrôle de gestion
 
 Il participe à la définition des modalités d'évaluation de la performance et du contrôle de gestion dans les directions et services des ministères, en coordonne la mise en place et en assure le pilotage. Il coordonne les travaux de présentation de la performance dans les documents budgétaires.
