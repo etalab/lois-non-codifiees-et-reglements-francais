@@ -18,7 +18,7 @@ Conseillers de chambres régionales des comptes : 4 postes.
 
 Conseillers des affaires étrangères : 4 postes.
 
-Administrateurs civils (43 postes) :
+Administrateurs civils (45 postes) :
 
 ― ministère de la défense et des anciens combattants : 4 postes ;
 
@@ -28,7 +28,7 @@ Administrateurs civils (43 postes) :
 
 ― ministère de l'économie, des finances et de l'industrie, ministère du budget, des comptes publics et de la réforme de l'Etat, ministère de la fonction publique : 16 postes ;
 
-― ministère du travail, de l'emploi et de la santé, ministère des solidarités et de la cohésion sociale, ministère de la ville, ministère des sports : 6 postes ;
+― ministère du travail, de l'emploi et de la santé, ministère des solidarités et de la cohésion sociale, ministère de la ville, ministère des sports : 8 postes ;
 
 ― ministère de l'éducation nationale, de la jeunesse et de la vie associative et ministère de l'enseignement supérieur et de la recherche : 2 postes ;
 
