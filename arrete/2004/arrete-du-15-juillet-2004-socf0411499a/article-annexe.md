@@ -1,12 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : assistant(e) chef de chantier gros oeuvre.
+Titre professionnel : assistant chef de chantier gros œuvre.
 
 Niveau : IV.
 
@@ -14,63 +12,57 @@ Code NSF : 232 p.
 
 Résumé du référentiel d'emploi
 
-L'assistant(e) chef de chantier gros oeuvre exerce ses activités dans les entreprises de bâtiment gros oeuvre.
+L'assistant chef de chantier gros œuvre intervient pendant les différentes phases des travaux du gros œuvre d'une opération de bâtiment. A partir d'instructions permanentes de son chef de chantier et sous son contrôle, il est amené à participer à la préparation des méthodes, à la réalisation et à la clôture des travaux. Il analyse le dossier d'exécution et repère les contraintes du chantier dans le domaine d'activité du gros œuvre. Il propose les modes d'exécution et participe à la rédaction du plan particulier de sécurité et de protection de la santé (PPSPS) et des fiches de contrôle du plan d'assurance qualité (PAQ). Il participe à l'élaboration du planning et des cycles de production pour en déduire les besoins en main-d'œuvre, matériaux et matériels pour les ouvrages qui lui sont assignés. Il gère le démarrage et la réalisation des travaux du gros œuvre dans le respect des objectifs définis pendant la préparation et transmet les informations nécessaires pour assurer l'exploitation des résultats du chantier.
 
-Il participe aux différentes phases des travaux courants du gros oeuvre, sous le contrôle du chef de chantier, et à partir des plans et des pièces écrites du dossier d'exécution (de la préparation des méthodes à la clôture des travaux).
+L'assistant chef de chantier exerce sur des chantiers, le plus fréquemment à l'extérieur mais aussi à l'intérieur de locaux clos et couverts. Il assure des déplacements permanents entre les différents postes de travail du chantier, aussi bien de plain-pied qu'en hauteur, et est exposé aux actions climatiques, au bruit et à la poussière. Sa mission comporte des déplacements fréquents (lieu de travail éloigné du domicile, changement de chantier...). Les horaires sont réguliers mais le rythme de travail peut être conditionné par des impératifs techniques et le respect des délais.
 
-Il exerce une part d'initiative et de responsabilité dans l'organisation et l'exécution des travaux ainsi que dans le commandement des équipes.
+Capacités attestées et descriptif des composantes de la certification
 
-Cependant, en fonction de l'organisation de l'entreprise, il peut être amené à effectuer des travaux simples de petit génie, de voirie et réseaux divers, de démolition ou de réhabilitation, ou suppléer le chef de chantier pour des ouvrages de moindre importance.
+1. Préparer, en assistance au chef de chantier, la réalisation des travaux gros œuvre sur un chantier de bâtiment
 
-Son activité s'exerce le plus fréquemment sur des chantiers en hauteur ou de plein pied, et est soumise aux conditions climatiques au bruit et à la poussière. Elle nécessite également de nombreux déplacements.
+Analyser et exploiter le dossier d'exécution d'un chantier de gros œuvre bâtiment.
 
-Capacités attestées et descriptif
+Evaluer les besoins en main-d'œuvre, matériaux et matériel pour réaliser le gros œuvre d'un bâtiment.
 
-des composantes de la certification
+Préparer l'intervention des équipes gros œuvre d'un chantier de bâtiment.
 
-1. Réaliser, en assistance au chef de chantier et avec ses équipes,
+Proposer les solutions permettant d'organiser un chantier de gros œuvre bâtiment " à faibles nuisances ".
 
-le gros oeuvre d'un chantier d'habitat ou de tertiaire
+2. Réaliser, en assistance au chef de chantier et avec ses équipes, l'infrastructure gros œuvre d'un chantier de bâtiment
 
-Préparer et organiser la réalisation de l'ensemble des ouvrages courants composant le gros oeuvre d'un chantier d'habitat ou de tertiaire.
+Procéder à l'installation d'un chantier de gros œuvre bâtiment.
 
-Exécuter avec une équipe gros oeuvre des travaux de béton armé et de maçonnerie sur un chantier d'habitat ou de tertiaire.
+Elaborer le mode opératoire pour implanter les ouvrages d'un chantier de gros œuvre bâtiment.
 
-Diriger la réalisation des travaux courants du gros oeuvre d'un chantier d'habitat ou de tertiaire.
+Organiser les travaux d'infrastructure gros œuvre d'un chantier de bâtiment.
 
-Effectuer les opérations de repliement du gros oeuvre d'un chantier d'habitat ou de tertiaire.
+Animer les équipes réalisant les travaux du gros œuvre d'un chantier de bâtiment.
 
-2. Réaliser, en assistance au chef de chantier et avec ses équipes, les travaux courants du gros oeuvre d'un chantier de bâtiment industriel
+Rendre compte de la production des équipes gros œuvre d'un chantier de bâtiment.
 
-Préparer et démarrer la réalisation de travaux courants du gros oeuvre d'un chantier de bâtiment industriel.
+3. Conduire, en assistance au chef de chantier, les travaux de superstructure gros œuvre d'un chantier de bâtiment
 
-Exécuter, avec une équipe gros oeuvre, des travaux de béton armé et de maçonnerie sur un chantier de bâtiment industriel.
+Organiser les travaux de superstructure gros œuvre d'un chantier de bâtiment.
 
-Diriger la réalisation de travaux courants du gros oeuvre d'un chantier de bâtiment industriel.
+Animer les équipes réalisant les travaux du gros œuvre d'un chantier de bâtiment.
 
-Effectuer des opérations de repliement du gros oeuvre d'un chantier de bâtiment industriel.
+Organiser la préfabrication foraine de pièces en BA et leur mise en œuvre sur un chantier de bâtiment.
 
-3. Réaliser, en assistance au chef de chantier et avec ses équipes,
+Rendre compte de la production des équipes gros œuvre d'un chantier de bâtiment.
 
-les travaux courants du gros oeuvre d'un ouvrage fonctionnel
+Diriger l'exécution des travaux du gros œuvre dans un chantier de réhabilitation de bâtiment.
 
-Préparer et démarrer la réalisation des travaux courants du gros oeuvre d'un ouvrage fonctionnel.
+Préparer les opérations de repliement du gros œuvre d'un chantier de bâtiment.
 
-Exécuter avec une équipe gros oeuvre des travaux de béton armé et de maçonnerie sur un chantier dit  ouvrage fonctionnel .
+Participer à la livraison d'un chantier de gros œuvre bâtiment.
 
-Diriger la réalisation des travaux courants du gros oeuvre d'un ouvrage fonctionnel.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Effectuer des opérations de repliement d'un chantier gros oeuvre d'un ouvrage fonctionnel.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Entreprises de gros oeuvre.
+Entreprise de bâtiment gros œuvre.
 
 Code ROME :
 
-61321 - Chef de chantier du BTP.
+F1202-Direction de chantier du BTP.
 
 Réglementation de l'activité :
 
@@ -82,8 +74,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
