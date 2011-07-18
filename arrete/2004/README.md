@@ -654,7 +654,6 @@
 - [Arrêté du 24 juin 2004 (ECOF0400032A)](arrete-du-24-juin-2004-ecof0400032a)
 - [Arrêté du 24 juin 2004 (SANA0422206A)](arrete-du-24-juin-2004-sana0422206a)
 - [Arrêté du 24 juin 2004 (SOCF0411337A)](arrete-du-24-juin-2004-socf0411337a)
-- [Arrêté du 24 juin 2004 (SOCF0411340A)](arrete-du-24-juin-2004-socf0411340a)
 - [Arrêté du 24 mars 2004 (BUDF0400018A)](arrete-du-24-mars-2004-budf0400018a)
 - [Arrêté du 24 mars 2004 (ECOE0400003A)](arrete-du-24-mars-2004-ecoe0400003a)
 - [Arrêté du 24 mars 2004 (EQUP0400366A)](arrete-du-24-mars-2004-equp0400366a)
