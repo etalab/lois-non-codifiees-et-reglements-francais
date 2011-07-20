@@ -1,15 +1,17 @@
 # Article 6
 
-La première épreuve d'admission consiste en un entretien avec le jury organisé en deux parties.
+La première épreuve d'admission consiste en une épreuve orale durant laquelle le candidat traite un sujet à partir d'un dossier thématique proposé par le jury et comportant plusieurs documents correspondant à la spécialité choisie lors de l'inscription.
 
-Dans un premier temps, l'entretien se déroule à partir d'un dossier proposé par le jury se rapportant à une option déterminée dans les conditions ci-après. Le dossier comporte au moins quatre documents (images, textes, graphiques...).
+Sous réserve de leur ouverture au concours, les spécialités sont les suivantes :
 
-L'entretien des candidats qui concourent dans une ou dans deux des spécialités Archéologie, Monuments historiques et inventaire, Musées, Patrimoine scientifique, technique et naturel porte sur un dossier se rapportant à l'option qu'ils ont choisie pour la deuxième épreuve d'admissibilité.
+- archéologie ;
 
-Les candidats qui concourent dans la spécialité Archives choisissent l'option « Documents d'archives de l'époque contemporaine (de 1789 à nos jours) » figurant au C de l'annexe I.
+- archives ;
 
-Les candidats qui concourent dans deux spécialités, dont la spécialité Archives, choisissent l'option « Documents d'archives de l'époque contemporaine (de 1789 à nos jours) » ainsi que la seconde option choisie pour la deuxième épreuve d'admissibilité.
+- monuments historiques et inventaire ;
 
-Dans un second temps, l'entretien doit permettre d'apprécier les motivations et les aptitudes du candidat par rapport à la ou les spécialité(s) présentée(s). Le jury apprécie également ses aptitudes au management.
+- musées ;
 
-Cette épreuve est notée sur dix pour la première partie et sur dix pour la seconde partie (durée : une heure ; préparation : une heure ; coefficient 5).
+- patrimoine scientifique, technique et naturel.
+
+Les candidats admissibles dans deux spécialités présentent les deux épreuves orales de spécialité correspondantes (durée : trente minutes ; préparation : trente minutes ; coefficient 3).

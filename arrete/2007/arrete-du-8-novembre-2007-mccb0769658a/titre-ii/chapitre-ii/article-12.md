@@ -1,9 +1,11 @@
 # Article 12
 
-La première épreuve d'admission consiste en un entretien avec le jury organisé en deux parties.
+La première épreuve d'admission consiste en un entretien avec le jury visant à apprécier la personnalité ainsi que les qualités du candidat et à évaluer les acquis de son expérience professionnelle (durée : trente minutes ; coefficient 3).
 
-Dans un premier temps, l'entretien se déroule à partir d'un dossier proposé par le jury se rapportant à l'option choisie par le candidat pour la deuxième épreuve d'admissibilité. Le dossier comporte au moins quatre documents (images, textes, graphiques...).
+Pour conduire cet entretien qui a pour point de départ un exposé du candidat sur son expérience professionnelle, d'une durée de dix minutes au plus, le jury dispose du dossier constitué par le candidat en vue de la reconnaissance des acquis de l'expérience professionnelle. Au cours de cet entretien, le candidat est également interrogé sur le contenu des fonctions de conservateur du patrimoine.
 
-Dans un second temps, l'entretien doit permettre d'apprécier les motivations, les aptitudes et, le cas échéant, l'expérience professionnelle du candidat par rapport à la ou les spécialité(s) présentée(s). L'entretien doit également permettre d'apprécier la compréhension par le candidat des enjeux liés aux fonctions d'encadrement et de gestion d'un service ainsi que ses aptitudes au management.
+Le jury évalue le niveau et la nature de l'expérience acquise par le candidat lors de son parcours professionnel, ses compétences professionnelles et techniques, ses motivations. Cette épreuve vise aussi à apprécier la qualité et la rigueur de sa démarche professionnelle, sa capacité à appréhender les enjeux liés aux fonctions d'encadrement et de gestion d'un service et ses aptitudes au management.
 
-Cette épreuve est notée sur dix pour la première partie et sur dix pour la seconde partie (durée : une heure ; préparation : une heure ; coefficient 5).
+Seul l'entretien avec le jury donne lieu à notation.
+
+En vue de l'épreuve orale de sélection, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées à l'annexe V du présent arrêté. Ce dossier sera transmis aux membres du jury.

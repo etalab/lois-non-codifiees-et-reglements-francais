@@ -8,8 +8,8 @@ Les candidats qui concourent dans une ou dans deux des spécialités Archéologi
 
 Les candidats qui concourent dans la spécialité Patrimoine scientifique, technique et naturel choisissent une des options figurant sur la liste mentionnée au B de l'annexe I.
 
-Les candidats qui concourent dans la spécialité Archives choisissent l'option « Documents d'archives du Moyen Age et de l'époque moderne (476-1789) » figurant au C de l'annexe I.
+Les candidats qui concourent dans la spécialité Archives choisissent l'épreuve " Documents d'archives du Moyen Age à nos jours " figurant au C de l'annexe I.
 
 Les candidats qui concourent dans deux spécialités, autres que la spécialité Archives, choisissent une des options figurant sur la liste mentionnée au A ou au B de l'annexe I, selon qu'ils ont ou non choisi la spécialité Patrimoine scientifique, technique ou naturel.
 
-Les candidats qui concourent dans deux spécialités, dont la spécialité Archives, choisissent l'option « Documents d'archives du Moyen Age et de l'époque moderne (476-1789) » ainsi qu'une seconde option dans les conditions prévues à l'alinéa précédent.
+Les candidats qui concourent dans deux spécialités, dont la spécialité Archives, choisissent l'épreuve " Documents d'archives du Moyen Age à nos jours " ainsi qu'une seconde option dans les conditions prévues à l'alinéa précédent.
