@@ -170,8 +170,6 @@ Maison de retraite, à Moutiers-Saint-Jean (Côte-d'Or) ;
 
 Maison de retraite, à Bligny-sur-Ouche (Côte-d'Or) ;
 
-Maison de retraite, à Caulnes (Côtes-d'Armor) ;
-
 Maison de retraite, à Créhen (Côtes-d'Armor) ;
 
 Maison de retraite, à Trébrivan (Côtes-d'Armor) ;
@@ -183,8 +181,6 @@ Etablissement d'hébergement pour personnes âgées dépendantes, à l'Ile-de-Br
 Etablissement d'hébergement pour personnes âgées, à Mainsat (Creuse) ;
 
 Centre départemental de l'enfance et de la famille, à Guéret (Creuse) ;
-
-Etablissement d'hébergement pour personnes âgées, à Neuvic-sur-l'Isle (Dordogne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Hautefort (Dordogne) ;
 
@@ -252,8 +248,6 @@ Maison de retraite, à Samatan (Gers) ;
 
 Maison de retraite, à Ambes (Gironde) ;
 
-Foyer François Constant, à Libourne (Gironde) ;
-
 Maison de retraite Hubert Lalanne, à Préchac (Gironde) ;
 
 Maison de retraite, à La Salvetat-sur-Agout (Hérault) ;
@@ -307,8 +301,6 @@ Maison de retraite, à Cour-Cheverny (Loir-et-Cher) ;
 Maison de retraite, à Selommes (Loir-et-Cher) ;
 
 Maison de retraite, à Savigny-sur-Braye (Loir-et-Cher) ;
-
-Maison de retraite, à Yvoy-le-Marron (Loir-et-Cher) ;
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Amand-Longpré (Loir-et-Cher) ;
 
@@ -568,8 +560,6 @@ Etablissement d'hébergement pour personnes âgées, à Varennes-en-Argonne (Meu
 
 Maison de retraite, à Void-Vacon (Meuse) ;
 
-Maison de retraite, à Elven (Morbihan) ;
-
 Maison de retraite, à Baud (Morbihan) ;
 
 Etablissement d'hébergement pour personnes âgées, à Caudan (Morbihan) ;
@@ -592,15 +582,11 @@ Etablissement d'hébergement pour personnes âgées, à Haverskerque (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à La Chapelle-d'Armentières (Nord) ;
 
-Etablissement d'hébergement pour personnes âgées, à Merville (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Méteren (Nord) ;
+Etablissement d'hébergement pour personnes âgées Paul Cordonnier, à Marcq-en-Barœul (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Morbecque (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Steenbecque (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Vieux-Berquin (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Annœullin (Nord) ;
 
@@ -608,21 +594,11 @@ Etablissement d'hébergement pour personnes âgées, à Anzin (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Bavay (Nord) ;
 
-Maison de retraite, à Boeschepe (Nord) ;
-
-Maison de retraite, à Bondues (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Bray-Dunes (Nord) ;
-
 Etablissement d'hébergement pour personnes âgées, à Cassel (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Cysoing (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Esquelbecq (Nord) ;
 
 Etablissement d'hébergement pour personnes âgées, à Godewaersvelde (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Herlies (Nord) ;
 
 Maison de retraite, à Landrecies (Nord) ;
 
@@ -633,8 +609,6 @@ Etablissement d'hébergement pour personnes âgées, à Sainghin-en-Weppes (Nord
 Maison de retraite, à Sains-du-Nord (Nord) ;
 
 Maison de retraite, à Solesmes (Nord) ;
-
-Etablissement d'hébergement pour personnes âgées, à Templeuve (Nord) ;
 
 ESAT rural et équestre, à Montigny-en-Ostrevent (Nord) ;
 
@@ -683,12 +657,6 @@ Centre maternel départemental, à Alençon (Orne) ;
 Etablissement d'hébergement pour personnes âgées, à Avion (Pas-de-Calais) ;
 
 Maison de retraite, à Ardres (Pas-de-Calais) ;
-
-Maison de retraite, à Auxi-le-Château (Pas-de-Calais) ;
-
-Etablissement d'hébergement pour personnes âgées, à Lestrem (Pas-de-Calais) ;
-
-Etablissement d'hébergement pour personnes âgées, à Nedonchel (Pas-de-Calais) ;
 
 Maison de retraite, à Croisilles (Pas-de-Calais) ;
 
@@ -852,15 +820,9 @@ Foyer de l'enfance Tandou, à Paris (Paris) ;
 
 Centre d'hébergement et de réinsertion sociale Pixérécourt, à Paris (Paris) ;
 
-Etablissement d'accueil mère-enfant Ledru-Rollin, à Fontenay-aux-Roses (Paris) ;
-
-Centre d'éducation et de formation professionnelle Pontourny, à Beaumont-en-Véron (Paris) ;
-
-Foyer Parent de Rosan, à Paris (Paris) ;
-
 Centre éducatif Dubreuil, à Orsay (Paris) ;
 
-Foyer d'accueil de Forges, à Forges-les-Bains (Paris) ;
+Maison de retraite, à Vanves (Hauts-de-Seine) ;
 
 EPA Education motricité, surdité et langage, au Havre (Seine-Maritime) ;
 
@@ -904,9 +866,11 @@ Centre maternel Ledru Rollin, à Fontenay-aux-Roses (Seine-et-Marne) ;
 
 Maison de retraite, à Dammartin-en-Goële (Seine-et-Marne) ;
 
-Etablissement d'hébergement pour personnes âgées, à Dormelles (Seine-et-Marne) ;
+Externat médico-pédagogique, à Livry-Gargan (Seine-Saint-Denis) ;
 
-Maison de retraite, à Ablis (Yvelines) ;
+Centre Simone Delthil, à Saint-Denis (Seine-Saint-Denis) ;
+
+Institut médico-éducatif, au Blanc-Mesnil (Seine-Saint-Denis) ;
 
 Maison de retraite, à Limalonges (Deux-Sèvres) ;
 
@@ -919,8 +883,6 @@ Etablissement d'hébergement pour personnes âgées, à Saint-Loup-sur-Thouet (D
 Etablissement d'hébergement pour personnes âgées, à Nueil-les-Aubiers (Deux-Sèvres) ;
 
 Etablissement public départemental pour adultes handicapés, à Mauléon (Deux-Sèvres) ;
-
-Etablissement d'hébergement pour personnes âgées, à Oisemont (Somme) ;
 
 Etablissement d'hébergement pour personnes âgées, à Cayeux-sur-Mer (Somme) ;
 
@@ -946,6 +908,16 @@ Etablissement d'hébergement pour personnes âgées, à La Magistère (Tarn-et-G
 
 Centre départemental de l'enfance et de la famille, à Montauban (Tarn-et-Garonne) ;
 
+Centre départemental de l'enfance, à Belfort (Territoire de Belfort) ;
+
+Foyer de l'enfance Le Relais, à Vitry-sur-Seine (Val-de-Marne) ;
+
+Foyer départemental de l'enfance, à Sucy-en-Brie (Val-de-Marne) ;
+
+Foyer de l'enfance, à Villiers-sur-Marne (Val-de-Marne) ;
+
+Foyer départemental de l'enfance, à Vitry-sur-Seine (Val-de-Marne) ;
+
 Maison de retraite, à La Garde (Var) ;
 
 Etablissement d'hébergement pour personnes âgées, à Flassans-sur-Issole (Var) ;
@@ -957,8 +929,6 @@ Etablissement d'hébergement pour personnes âgées, à Grimaud (Var) ;
 Maison de retraite, à Aups (Var) ;
 
 Etablissement d'hébergement pour personnes âgées, à Cotignac (Var) ;
-
-Etablissement d'hébergement pour personnes âgées, à Rians (Var) ;
 
 Maison de retraite, à Solliès-Pont (Var) ;
 
@@ -1074,23 +1044,7 @@ Maison de l'enfance Henri Coulanges, à Coulanges-sur-Yonne (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Bris-le-Vineux (Yonne) ;
 
-Centre départemental de l'enfance, à Belfort (Territoire de Belfort) ;
-
-Maison de retraite, à Vanves (Hauts-de-Seine) ;
-
-Externat médico-pédagogique, à Livry-Gargan (Seine-Saint-Denis) ;
-
-Centre Simone Delthil, à Saint-Denis (Seine-Saint-Denis) ;
-
-Institut médico-éducatif, au Blanc-Mesnil (Seine-Saint-Denis) ;
-
-Foyer de l'enfance Le Relais, à Vitry-sur-Seine (Val-de-Marne) ;
-
-Foyer départemental de l'enfance, à Sucy-en-Brie (Val-de-Marne) ;
-
-Foyer de l'enfance, à Villiers-sur-Marne (Val-de-Marne) ;
-
-Foyer départemental de l'enfance, à Vitry-sur-Seine (Val-de-Marne) ;
+Maison de retraite, à Ablis (Yvelines) ;
 
 Maison de retraite, au Robert (Martinique) ;
 

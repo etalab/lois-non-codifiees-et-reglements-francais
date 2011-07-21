@@ -26,6 +26,8 @@ Hôpital local, à Villeneuve-de-Berg (Ardèche) ;
 
 Etablissement départemental public d'accompagnement médico-social Jacques Sourdille, à Belleville-sur-Bar (Ardennes) ;
 
+Centre hospitalier, à Bar-sur-Seine (Aube) ;
+
 Hôpital local, à Espalion (Aveyron) ;
 
 Centre hospitalier, à Allauch (Bouches-du-Rhône) ;
@@ -186,7 +188,13 @@ Centre hospitalier, à Bailleul (Nord) ;
 
 Hôpital maritime Vancauwenberghe, à Zuydcoote (Nord) ;
 
-Hôpital local de Crépy-en-Valois (Oise) ;
+Etablissement d'hébergement pour personnes âgées, à Comines (Nord) ;
+
+Centre hospitalier, à Haubourdin (Nord) ;
+
+Centre hospitalier, à Jeumont (Nord) ;
+
+Centre hospitalier, à Loos (Nord) ;
 
 Centre hospitalier intercommunal, à Wasquehal (Nord) ;
 
@@ -197,6 +205,8 @@ Institut Vancauwenberghe, à Zuydcoote (Nord) ;
 Centre départemental de l'enfance et de la famille, à Beauvais (Oise) ;
 
 Hôpital local, à Crépy-en-Valois (Oise) ;
+
+Hôpital local de Crépy-en-Valois (Oise) ;
 
 Hôpital local, à Sées (Orne) ;
 
@@ -210,6 +220,12 @@ EPDAEAH, à Arras (Pas-de-Calais) ;
 
 EPDAHA, à Arras (Pas-de-Calais) ;
 
+Centre hospitalier, à Carvin (Pas-de-Calais) ;
+
+Centre hospitalier, à Hesdin (Pas-de-Calais) ;
+
+Centre hospitalier, à Saint-Pol-sur-Ternoise (Pas-de-Calais) ;
+
 Centre hospitalier Etienne Clémentel, à Enval (Puy-de-Dôme) ;
 
 Etablissement hébergement personnes âgées dépendantes, à Aigueperse (Puy-de-Dôme) ;
@@ -221,6 +237,8 @@ Centre départemental de travail protégé, à Castelnau-Rivière-Basse (Hautes-
 Centre hospitalier, à Bischwiller (Bas-Rhin) ;
 
 Centre départemental de repos et de soins, à Colmar (Haut-Rhin) ;
+
+Institut Les Tournesols, à Sainte-Marie-aux-Mines (Haut-Rhin) ;
 
 Hôpital local intercommunal, à Thizy-Bourg-Cours (Rhône) ;
 
@@ -242,6 +260,10 @@ Centre hospitalier, à Rumilly (Haute-Savoie) ;
 
 Maison de retraite, à Reignier (Haute-Savoie) ;
 
+Centre de gérontologie Les Abondances, à Boulogne-Billancourt (Hauts-de-Seine) ;
+
+Fondation Roguet, à Clichy-la-Garenne (Hauts-de-Seine) ;
+
 Centre hospitalier, à Neufchâtel-en-Bray (Seine-Maritime) ;
 
 Centre hospitalier, à Barentin (Seine-Maritime) ;
@@ -260,13 +282,17 @@ Institut départemental de l'enfance, de la famille et du handicap pour l'insert
 
 Hôpital local intercommunal, à Jouarre-la-Ferté (Seine-et-Marne) ;
 
-Hôpital local, à Houdan (Yvelines) ;
+Centre départemental de l'enfance et de la famille, à Bobigny (Seine-Saint-Denis) ;
 
-Hôpital local, à Jouars-Pontchartrain (Yvelines) ;
+Centre de moyen et long séjour, à Montfermeil (Seine-Saint-Denis) ;
 
-Centre de pédiatrie et de rééducation, à Bullion (Yvelines) ;
+Maison de retraite, à Pantin (Seine-Saint-Denis) ;
 
 Hôpital local, à Saint-Maixent-l'Ecole (Deux-Sèvres) ;
+
+Etablissement public social et médico-social intercommunal, à Amiens (Somme) ;
+
+Etablissement public intercommunal de santé du Sud-Ouest Somme, à Poix-de-Picardie (Somme) ;
 
 Centre hospitalier, à Albert (Somme) ;
 
@@ -275,6 +301,20 @@ Centre hospitalier, à Corbie (Somme) ;
 Centre hospitalier, à Ham (Somme) ;
 
 Centre hospitalier, à Gaillac (Tarn) ;
+
+Centre hospitalier du Vexin, à Magny-en-Vexin (Val-d'Oise) ;
+
+Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
+
+Hôpital Le Parc, à Taverny (Val-d'Oise) ;
+
+Etablissement d'hébergement pour personnes âgées, à Saint-Maur-des-Fossés (Val-de-Marne) ;
+
+Institut Le Val Mandé, à Saint-Mandé (Val-de-Marne) ;
+
+Fondation Favier, à Bry-sur-Marne (Val-de-Marne) ;
+
+Maison de retraite intercommunale, à Fontenay-sous-Bois (Val-de-Marne) ;
 
 Hôpital local départemental, au Luc-en-Provence (Var) ;
 
@@ -290,31 +330,13 @@ Centre hospitalier, à Golbey (Vosges) ;
 
 Maison départementale de retraite de l'Yonne, à Auxerre (Yonne) ;
 
+Hôpital local, à Houdan (Yvelines) ;
+
+Hôpital local, à Jouars-Pontchartrain (Yvelines) ;
+
+Centre de pédiatrie et de rééducation, à Bullion (Yvelines) ;
+
 Centre de soins de longue durée Le Chenois, à Bavilliers (Territoire de Belfort) ;
-
-Centre de gérontologie Les Abondances, à Boulogne-Billancourt (Hauts-de-Seine) ;
-
-Fondation Roguet, à Clichy-la-Garenne (Hauts-de-Seine) ;
-
-Centre départemental de l'enfance et de la famille, à Bobigny (Seine-Saint-Denis) ;
-
-Centre de moyen et long séjour, à Montfermeil (Seine-Saint-Denis) ;
-
-Maison de retraite, à Pantin (Seine-Saint-Denis) ;
-
-Etablissement d'hébergement pour personnes âgées, à Saint-Maur-des-Fossés (Val-de-Marne) ;
-
-Institut Le Val Mandé, à Saint-Mandé (Val-de-Marne) ;
-
-Fondation Favier, à Bry-sur-Marne (Val-de-Marne) ;
-
-Maison de retraite intercommunale, à Fontenay-sous-Bois (Val-de-Marne) ;
-
-Centre hospitalier du Vexin, à Magny-en-Vexin (Val-d'Oise) ;
-
-Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
-
-Hôpital Le Parc, à Taverny (Val-d'Oise) ;
 
 Centre hospitalier Louis Daniel Beaupertuy, à Pointe-Noire (Guadeloupe) ;
 
@@ -326,4 +348,4 @@ Centre hospitalier, au Marin (Martinique) ;
 
 Centre hospitalier, à Saint-Esprit (Martinique) ;
 
-Centre hospitalier, au Carbet (Martinique) ;
+Centre hospitalier, au Carbet (Martinique).
