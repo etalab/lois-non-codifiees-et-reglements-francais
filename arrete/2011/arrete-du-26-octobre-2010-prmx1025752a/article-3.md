@@ -177,6 +177,7 @@ Art. 3.2.-Le montant de la rémunération due en contrepartie de la cession de l
 </td>
 <td valign="top" width="170">
 <br/>
+<br/>
 </td>
 <td valign="top" width="170">
 <p align="center">791,51</p>
@@ -191,6 +192,7 @@ Art. 3.2.-Le montant de la rémunération due en contrepartie de la cession de l
 </td>
 <td valign="top" width="170">
 <br/>
+<br/>
 </td>
 <td valign="top" width="170">
 <p align="center">2 063,12</p>
@@ -204,6 +206,7 @@ Art. 3.2.-Le montant de la rémunération due en contrepartie de la cession de l
 <p>CNIL </p>
 </td>
 <td valign="top" width="170">
+<br/>
 <br/>
 </td>
 <td valign="top" width="170">
@@ -220,14 +223,14 @@ Les coûts ci-dessus sont majorés d'un forfait de 400 euros par commande.
 
 Art. 3.3.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion des annonces publiées au Bulletin officiel des annonces de marchés publics et des annonces MAPA en ligne sur le site internet www.journal-officiel.gouv.fr est de 10 952 euros.
 
-Art. 3.4.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion des annonces publiées au Bulletin officiel des annonces légales obligatoires en ligne sur le site internet www.journal-officiel.gouv.fr est de 5 250 euros.
+Art. 3.4.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion des annonces publiées au Bulletin officiel des annonces légales obligatoires en ligne sur le site internet  www.journal-officiel.gouv.fr  est de 5 250 euros.
 
-Art. 3.5.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion Info financière et du BALO en ligne sur le site internet www.journal-officiel.gouv.fr est de 12 600 euros.
+Art. 3.5.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion Info financière et du BALO en ligne sur le site internet  www.journal-officiel.gouv.fr  est de 12 600 euros.
 
 Art. 3.6.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion des annonces publiées au Journal officiel Associations, associations syndicales de propriétaires et fondations d'entreprises est de 6 480 euros.
 
 Art. 3.7.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion des annonces publiées au Bulletin officiel des annonces civiles et commerciales est de 20 532 euros.
 
-Art. 3.8.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion de la base des questions et réponses écrites de l'Assemblée nationale est de 6 480 euros.
+Art. 3.8.- (Abrogé)
 
-Art. 3.9.-Le montant de la rémunération due en contrepartie de la cession de la licence de rediffusion de la base des questions et réponses écrites du Sénat est de 6 480 euros.
+Art. 3.9.- (Abrogé)
