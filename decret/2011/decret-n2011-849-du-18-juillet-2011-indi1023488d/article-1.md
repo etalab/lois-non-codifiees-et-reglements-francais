@@ -1,0 +1,3 @@
+# Article 1
+
+Le maillage complémentaire permettant d'assurer la mission d'aménagement du territoire mentionné au IV de l'article 6 de la loi du 2 juillet 1990 susvisée correspond au nombre de points de contact déployés par La Poste pour lui permettre d'assurer cette mission, en complément de ceux résultant de la seule obligation d'accessibilité du service universel telle que définie à l'article R. 1-1 du code des postes et des communications électroniques, dès lors que ces points de contact additionnels sont nécessaires pour satisfaire aux critères du dernier alinéa du I de l'article 6 de la loi du 2 juillet 1990 précitée ou pour disposer d'au moins 17 000 points de contact.
