@@ -1,6 +1,6 @@
 # Article 1
 
-Conformément à la mission de service public de l'enseignement supérieur qui leur est confiée, les écoles d'architecture placées sous la tutelle du ministre chargé de l'architecture ont notamment pour objet :
+Conformément à la mission de service public de l'enseignement supérieur qui leur est confiée, les écoles nationales supérieures d'architecture placées sous la tutelle du ministre chargé de l'architecture ont notamment pour objet :
 
 1. La formation initiale, à ses différents niveaux, des professionnels de l'architecture ;
 
@@ -20,6 +20,6 @@ Conformément à la mission de service public de l'enseignement supérieur qui l
 
 9. L'échange des savoirs et des pratiques au sein de la communauté scientifique et culturelle internationale, notamment par le développement de programmes de coopération avec des institutions étrangères.
 
-Pour l'accomplissement des missions définies ci-dessus, les écoles d'architecture peuvent s'associer entre elles, avec d'autres établissements d'enseignement ou avec des organismes de recherche.
+Pour l'accomplissement des missions définies ci-dessus, les écoles nationales supérieures d'architecture peuvent s'associer entre elles, avec d'autres établissements d'enseignement ou avec des organismes de recherche.
 
-Quand une école nationale supérieure d'architecture assure également la formation de paysagistes diplômés par le Gouvernement, elle accomplit, en ce qui concerne le paysage, les mêmes missions que pour l'architecture et se dénomme "école nationale supérieure d'architecture et de paysage".
+Quand une école nationale supérieure d'architecture assure également la formation de paysagistes diplômés par le Gouvernement, elle accomplit, en ce qui concerne le paysage, les mêmes missions que pour l'architecture et se dénomme " école nationale supérieure d'architecture et de paysage ".

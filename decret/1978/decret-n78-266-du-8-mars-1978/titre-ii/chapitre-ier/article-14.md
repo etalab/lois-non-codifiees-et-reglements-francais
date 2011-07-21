@@ -14,10 +14,12 @@ Le directeur dirige l'établissement et a autorité sur l'ensemble des services 
 
 6. Il s'assure de l'application conforme du programme d'enseignement de l'école nationale supérieure d'architecture qu'il transmet pour approbation au ministre chargé de la culture avant le début de chaque année universitaire ;
 
-7. Il transcrit sur les cartes nationales d'unités de valeur les résultats obtenus par les étudiants après avoir vérifié la régularité des procès-verbaux établis par les enseignants ;
+7. Sans préjudice des compétences dévolues au ministre chargé de l'enseignement supérieur en matière de collation des grades universitaires, il exerce les compétences dévolues au ministre chargé de l'architecture pour signer au nom de l'Etat les diplômes nationaux d'enseignement supérieur et au nom de l'établissement les diplômes qui lui sont propres ainsi que les attestations provisoires concernant ces diplômes.
 
-8. Il est seul habilité à signer les cartes nationales d'unités de valeur et les attestations provisoires de diplôme. Il ne peut à ce titre déléguer sa signature sans autorisation expresse du ministre chargé de la culture ;
+8. Il transmet annuellement pour publication au ministre chargé de l'architecture les listes des titulaires du diplôme d'Etat d'architecte conférant le grade de master et de l'habilitation de l'architecte diplômé d'Etat à exercer la maîtrise d'œuvre en son nom propre ;
 
 9. Il est responsable du bon fonctionnement de l'établissement, du respect de l'ordre et de la sécurité ;
 
-10.  Il rédige chaque année un rapport sur l'activité de l'établissement.
+10. Il rédige chaque année un rapport sur l'activité de l'établissement.
+
+Sauf en ce qui concerne les actes mentionnés au 7, le directeur peut déléguer sa signature au secrétaire général et aux responsables des services de l'école dans les limites qu'il détermine.
