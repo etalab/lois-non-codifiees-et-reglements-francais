@@ -1,37 +1,29 @@
 # Article 18
 
-Le conseil supérieur des messageries de presse est composé comme suit :
+Le Conseil supérieur des messageries de presse comprend vingt membres, nommés par arrêté du ministre chargé de la communication :
 
-Un représentant du ministre chargé du commerce ;
+1° Neuf représentants des éditeurs de journaux et publications périodiques sur proposition des organisations professionnelles les plus représentatives ;
 
-Un représentant du ministre des affaires étrangères ;
+2° Trois représentants des sociétés coopératives de messageries de presse sur proposition des assemblées générales des sociétés coopératives de messageries de presse ;
 
-Un représentant du Premier ministre ;
+3° Deux représentants des entreprises commerciales et des messageries de presse concourant aux opérations matérielles de distribution de la presse sur proposition des assemblées générales de ces entreprises ou messageries ;
 
-Un représentant du ministre des transports ;
+4° Deux représentants des dépositaires de journaux ou publications périodiques sur proposition des organisations professionnelles les plus représentatives ou, à défaut, d'une assemblée générale des dépositaires ;
 
-Un représentant du ministre chargé des postes, télégraphes et téléphones ;
+5° Deux représentants des diffuseurs de presse sur proposition des organisations professionnelles les plus représentatives ou, à défaut, d'une assemblée générale des diffuseurs ;
 
-Un représentant du ministre chargé de l'information ;
+6° Deux représentants du personnel occupé dans les entreprises de messageries de presse sur proposition des organisations syndicales les plus représentatives.
 
-Trois représentants des sociétés coopératives de messageries de presse désignés par les organisations professionnelles les plus représentatives ou, à défaut, par une assemblée générale des sociétés coopératives de messageries de presse ;
+Les membres du Conseil supérieur des messageries de presse sont nommés pour quatre ans et leur mandat est renouvelable.
 
-Neuf représentants des organisations professionnelles de presse les plus représentatives ;
+Le président du Conseil supérieur des messageries de presse est élu par l'ensemble de ses membres, parmi les membres ayant la qualité d'éditeur de presse. Son mandat est de quatre ans et il est renouvelable. En cas d'empêchement du président, le doyen d'âge des représentants des éditeurs préside le conseil.
 
-Deux représentants des dépositaires de journaux et publications périodiques désignés par les organisations professionnelles les plus représentatives, ou à défaut, par une assemblée générale des dépositaires ;
+A l'expiration de leur mandat, les membres restent en fonction jusqu'à la première réunion du conseil dans sa nouvelle composition.
 
-Un représentant des entreprises commerciales concourant à la distribution de la presse ;
+Il est mis fin de plein droit au mandat de tout membre du conseil qui perd la qualité en raison de laquelle il a été nommé.
 
-Trois représentants du personnel occupé dans les entreprises de messageries de presse désignés par les organisations syndicales les plus représentatives ;
+En cas de vacance d'un siège d'un membre du conseil pour quelque cause que ce soit, il est procédé à son remplacement pour la durée du mandat restant à courir.
 
-Le président de la Société nationale des chemins de fer français ou son représentant ;
+Pour l'exercice de ses attributions, le Conseil supérieur des messageries de presse peut constituer des commissions spécialisées en s'appuyant, le cas échéant, sur le concours d'experts.
 
-Le président de la compagnie Air France ;
-
-Le président de l'organisation professionnelle la plus représentative des transporteurs par route.
-
-Le président du conseil supérieur des messageries de presse est élu pour un an par les membres du conseil ; il est rééligible.
-
-Il nomme les membres du secrétariat permanent.
-
-Les frais afférents au fonctionnement du conseil et du secrétariat sont à la charge des sociétés coopératives de messageries de presse régies par la présente loi.
+Les attributions, la composition et les modalités de fonctionnement de ces commissions spécialisées sont fixées par le règlement intérieur du Conseil supérieur des messageries de presse.

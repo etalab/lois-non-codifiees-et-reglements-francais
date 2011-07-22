@@ -1,0 +1,3 @@
+# Article 18-15
+
+L'Autorité de régulation de distribution de la presse formule, avant la fin du premier semestre de chaque année, un avis sur l'exécution par le Conseil supérieur des messageries de presse des missions qui lui sont confiées par l'article 16 et les 10° et 11° de l'article 18-6. Elle peut demander au Conseil supérieur des messageries de presse, aux sociétés coopératives de messageries de presse et aux entreprises commerciales mentionnées à l'article 4 que lui soient adressés sans délai tous les documents utiles à cette fin. Elle peut entendre toute personne dont l'audition lui paraît susceptible de contribuer utilement à son information.
