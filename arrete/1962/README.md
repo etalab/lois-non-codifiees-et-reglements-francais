@@ -5,7 +5,6 @@
 - [Arrêté du 4 juillet 1962](arrete-du-4-juillet-1962)
 - [Arrêté du 6 janvier 1962](arrete-du-6-janvier-1962)
 - [Arrêté du 6 juin 1962](arrete-du-6-juin-1962)
-- [Arrêté du 6 mars 1962](arrete-du-6-mars-1962)
 - [Arrêté du 8 janvier 1962](arrete-du-8-janvier-1962)
 - [Arrêté du 9 janvier 1962](arrete-du-9-janvier-1962)
 - [Arrêté du 9 novembre 1962](arrete-du-9-novembre-1962)
