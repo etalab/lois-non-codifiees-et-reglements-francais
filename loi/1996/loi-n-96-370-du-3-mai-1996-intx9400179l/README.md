@@ -1,6 +1,7 @@
 # Loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers (1)
 
 - [Article 1](article-1.md)
-- [TITRE Ier : LA DISPONIBILITÉ DU SAPEUR-POMPIER VOLONTAIRE.](titre-ier)
-- [TITRE II : Les vacations horaires, l'allocation de vétérance et la prestation de fidélisation et de reconnaissance des sapeurs-pompiers volontaires](titre-ii)
-- [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
+- [TITRE Ier :  L'ENGAGEMENT EN QUALITÉ DE SAPEUR-POMPIER VOLONTAIRE](titre-ier)
+- [TITRE II : LA DISPONIBILITÉ DU SAPEUR-POMPIER VOLONTAIRE.](titre-ii)
+- [TITRE III : LES INDEMNITES HORAIRES, L'ALLOCATION DE VETERANCE ET LA PRESTATION DE FIDELISATION ET DE RECONNAISSANCE DES SAPEURS-POMPIERS VOLONTAIRES.](titre-iii)
+- [TITRE IV : DISPOSITIONS DIVERSES.](titre-iv)
