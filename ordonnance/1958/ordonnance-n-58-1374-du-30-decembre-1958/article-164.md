@@ -1,6 +1,6 @@
 # Article 164
 
-I. - Sont fournis au Parlement :
+I.-Sont fournis au Parlement :
 
 a) (abrogé).
 
@@ -20,31 +20,31 @@ h) Un état retraçant en recettes et en dépenses l'activité de la direction g
 
 Ces documents devront être déposés avant la fin du premier trimestre de l'année d'exécution du budget.
 
-II. - Sont fournis annuellement au Parlement, à l'appui du projet de loi de finances :
+II.-Sont fournis annuellement au Parlement, à l'appui du projet de loi de finances :
 
-- le tableau récapitulatif par service des effectifs budgétaires tels qu'ils résultent du vote du budget de l'année précédente (personnel titulaire, contractuel, auxiliaire et ouvrier) ;
+-le tableau récapitulatif par service des effectifs budgétaires tels qu'ils résultent du vote du budget de l'année précédente (personnel titulaire, contractuel, auxiliaire et ouvrier) ;
 
-- le tableau par service des créations, transformations et suppressions d'emplois ;
+-le tableau par service des créations, transformations et suppressions d'emplois ;
 
-- le tableau par service de l'organisation des services au 1er juillet de l'année précédente ;
+-le tableau par service de l'organisation des services au 1er juillet de l'année précédente ;
 
-- un état par chapitre et par service des dépenses de personnel effectuées sur fonds de concours au titre de l'année précédente.
+-un état par chapitre et par service des dépenses de personnel effectuées sur fonds de concours au titre de l'année précédente.
 
-III. - Sont adressés périodiquement aux commissions compétentes du Parlement, par le ministre des finances et des affaires économiques, les renseignements suivants :
+III.-Sont adressés périodiquement aux commissions compétentes du Parlement, par le ministre des finances et des affaires économiques, les renseignements suivants :
 
-- après la clôture de la gestion, la situation des dépenses engagées au 31 décembre précédent ;
+-après la clôture de la gestion, la situation des dépenses engagées au 31 décembre précédent ;
 
-- au début de chaque mois, la situation des dépenses engagées au cours du mois précédent ;
+-au début de chaque mois, la situation des dépenses engagées au cours du mois précédent ;
 
-- avant la fin du trimestre suivant, un état par chapitre au 31 mars, au 30 juin, au 30 septembre, au 31 décembre et à la clôture de la gestion, des dépenses ordonnancées ou mandatées sur crédits budgétaires ;
+-avant la fin du trimestre suivant, un état par chapitre au 31 mars, au 30 juin, au 30 septembre, au 31 décembre et à la clôture de la gestion, des dépenses ordonnancées ou mandatées sur crédits budgétaires ;
 
-- avant la fin du premier trimestre de chaque année, un état donnant par chapitre le montant des engagements pris au titre d'un budget antérieur et réimputés sur les crédits du budget en cours, lorsque ces engagements sont inscrits dans la comptabilité administrative spéciale visée à l'article 8 du décret n° 55-1487 du 14 novembre 1955. Sont également communiqués aux mêmes commissions les arrêtés accompagnés d'états nominatifs pris par le ministre des finances et des affaires économiques en application du premier alinéa de l'article 9 du décret précité ;
+-avant la fin du premier trimestre de chaque année, un état donnant par chapitre le montant des engagements pris au titre d'un budget antérieur et réimputés sur les crédits du budget en cours, lorsque ces engagements sont inscrits dans la comptabilité administrative spéciale visée à l'article 8 du décret n° 55-1487 du 14 novembre 1955. Sont également communiqués aux mêmes commissions les arrêtés accompagnés d'états nominatifs pris par le ministre des finances et des affaires économiques en application du premier alinéa de l'article 9 du décret précité ;
 
-- les textes portant transformation d'emplois pris, dans la cadre de ses pouvoirs, par le Gouvernement, lorsque ces transformations comportent soit une amélioration des niveaux de rémunération, soit une titularisation de personnel.
+-les textes portant transformation d'emplois pris, dans la cadre de ses pouvoirs, par le Gouvernement, lorsque ces transformations comportent soit une amélioration des niveaux de rémunération, soit une titularisation de personnel.
 
-La situation résumée des opérations du Trésor et la situation mensuelle de la dette publique de l'Etat seront publiées mensuellement au Journal officiel.
+La situation mensuelle de l'Etat et la situation mensuelle de la dette publique de l'Etat seront publiées mensuellement au Journal officiel.
 
-IV. - Le rapport d'ensemble établi par chaque contrôleur financier sur l'exécution du budget du département ministériel dont il assume le contrôle, au cours de la gestion écoulée, est adressé au Parlement par le ministre de l'économie et des finances avant le 2 octobre suivant la clôture de l'exercice budgétaire concerné.
+IV.-Le rapport d'ensemble établi par chaque contrôleur financier sur l'exécution du budget du département ministériel dont il assume le contrôle, au cours de la gestion écoulée, est adressé au Parlement par le ministre de l'économie et des finances avant le 2 octobre suivant la clôture de l'exercice budgétaire concerné.
 
 La commission de contrôle de la circulation monétaire adresse au Parlement son rapport annuel sur les résultats de la fabrication effectuée pendant l'année précédente et sur la situation matérielle de la circulation monétaire.
 
