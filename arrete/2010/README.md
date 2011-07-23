@@ -153,7 +153,6 @@
 - [Arrêté du 3 décembre 2010 (ETSO1030489A)](arrete-du-3-decembre-2010-etso1030489a)
 - [Arrêté du 3 décembre 2010 (IOCA1030290A)](arrete-du-3-decembre-2010-ioca1030290a)
 - [Arrêté du 3 décembre 2010 (IOCA1030296A)](arrete-du-3-decembre-2010-ioca1030296a)
-- [Arrêté du 3 décembre 2010 (MCCB1029223A)](arrete-du-3-decembre-2010-mccb1029223a)
 - [Arrêté du 3 décembre 2010 (MCCB1030616A)](arrete-du-3-decembre-2010-mccb1030616a)
 - [Arrêté du 3 décembre 2010 (MENH1031002A)](arrete-du-3-decembre-2010-menh1031002a)
 - [Arrêté du 3 décembre 2010 (SCSA1029743A)](arrete-du-3-decembre-2010-scsa1029743a)
