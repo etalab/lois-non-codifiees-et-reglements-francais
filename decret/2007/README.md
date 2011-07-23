@@ -1580,7 +1580,6 @@
 - [Décret n°2007-1295 du 31 août 2007 (MENH0758945D)](decret-n2007-1295-du-31-aout-2007-menh0758945d)
 - [Décret n°2007-1298 du 31 août 2007 (PRMX0760625D)](decret-n2007-1298-du-31-aout-2007-prmx0760625d)
 - [Décret n°2007-1299 du 31 août 2007 (PRMX0758020D)](decret-n2007-1299-du-31-aout-2007-prmx0758020d)
-- [Décret n°2007-1300 du 31 août 2007 (IMIN0762256D)](decret-n2007-1300-du-31-aout-2007-imin0762256d)
 - [Décret n°2007-1301 du 31 août 2007 (SJSH0762979D)](decret-n2007-1301-du-31-aout-2007-sjsh0762979d)
 - [Décret n°2007-1552 du 31 octobre 2007 (IOCB0769051D)](decret-n2007-1552-du-31-octobre-2007-iocb0769051d)
 - [Décret n°2007-1553 du 31 octobre 2007 (IOCB0767710D)](decret-n2007-1553-du-31-octobre-2007-iocb0767710d)
