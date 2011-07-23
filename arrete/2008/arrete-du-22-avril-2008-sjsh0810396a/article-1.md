@@ -546,8 +546,6 @@ Centre hospitalier Henri Dunant, à La Charité-sur-Loire (Nièvre) ;
 
 Centre de soins USLD de Luzy (Nièvre) ;
 
-Centre hospitalier de Comines (Nord) ;
-
 Centre hospitalier d'Haubourdin (Nord) ;
 
 Etablissement public de santé Les Erables, à La Bassée (Nord) ;
@@ -591,8 +589,6 @@ Centre hospitalier de Bapaume (Pas-de-Calais) ;
 Hôpital local d'Hesdin (Pas-de-Calais) ;
 
 Centre hospitalier de Carvin (Pas-de-Calais) ;
-
-Centre hospitalier de Lillers (Pas-de-Calais) ;
 
 Hôpital local d'Aire-sur-la-Lys (Pas-de-Calais) ;
 
