@@ -1,0 +1,9 @@
+# Article 
+
+DEMANDE DE DÉLIVRANCE D'UN TITRE DE CONDUITE DES BATEAUX
+
+DE PLAISANCE À MOTEUR PAR ÉQUIVALENCE AVEC UN TITRE DE CONDUITE ÉTRANGER
+
+Vous pouvez consulter le tableau dans le
+
+JO 						n° 168 du 22/07/2011 texte numéro 38
