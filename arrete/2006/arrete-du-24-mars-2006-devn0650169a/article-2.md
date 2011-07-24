@@ -20,7 +20,7 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 </tr>
 <tr>
 <td width="170">
-<p align="center">Partie du domaine public maritime et de l'estuaire de la Gironde et certains étangs aquitains (**)</p>
+<p align="center">Territoires décrits au paragraphe (**) ci-dessous </p>
 </td>
 <td width="170">
 <p align="center">Autres territoires mentionnés à l'article L. 424-6 du code de l'environnement</p>
@@ -341,7 +341,9 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <td valign="top" width="170">
 <p>15 septembre à 7 heures</p>
 </td>
-<td valign="top" width="170">15 septembre à 7 heures </td>
+<td valign="top" width="170">
+<p>15 septembre à 7 heures </p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -580,6 +582,8 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <p>(**) Domaine public maritime des départements côtiers de la façade maritime de l'Atlantique, de la Manche et de la mer du Nord, à l'exception des étangs et des plans d'eau salés reliés ou non à la mer.</p>
 <p>Partie de l'estuaire de la Gironde qui comprend la partie du domaine public fluvial qui est située entre le domaine public maritime et la limite de salure des eaux et qui inclut l'estran et les îles jusqu'à la limite des plus hautes eaux avant débordement.</p>
 <p>Etangs suivants de la Gironde et des Landes : étangs du Porge, étang de Hourtin-Carcans, étang de Cazaux et de Sanguinet, étang du Cousseau, étang de Lacanau, étang de La Forge-Uza, étang de Moïsan, étangs de la Maillouèyre, étang des dunes domaniales de Moliets et Maa, lac de Moliets, lac de la Prade, lac de Hardy, lac Blanc, étang Noir, étang d'Irieu, lac du Turc, étang de Garros, étang d'Aureilhan, étang de Parentis-Biscarrosse, étang de Pontenx-les-Forges, étang de Léon et étang de Soustons.</p>
+<p>Hors du domaine public maritime, sur le canton de La Teste : les parties soumises aux marées, du domaine du Rocher, du domaine de Bayonne et des grands prés du Teich ; </p>
+<p>Hors du domaine public maritime, sur le canton d'Audenge : les parties soumises aux marées des îlots de Biganos. </p>
 <p>(***) Jusqu'au premier jour de la troisième décade d'août à 6 heures, sur les seules prairies humides et les<br/>zones de marais non asséchées spécifiquement aménagées pour la chasse de ces deux espèces, par la réalisation<br/>de platières et la mise en eau, entre 10 heures et 17 heures.</p>
 </td>
 </tr>
