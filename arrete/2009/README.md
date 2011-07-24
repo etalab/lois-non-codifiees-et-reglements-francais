@@ -2647,7 +2647,6 @@
 - [Arrêté du 27 mai 2009 (MAEA0910235A)](arrete-du-27-mai-2009-maea0910235a)
 - [Arrêté du 28 août 2000 (ECOI0000412A)](arrete-du-28-aout-2000-ecoi0000412a)
 - [Arrêté du 28 août 2009 (AGRG0914088A)](arrete-du-28-aout-2009-agrg0914088a)
-- [Arrêté du 28 août 2009 (AGRM0914508A)](arrete-du-28-aout-2009-agrm0914508a)
 - [Arrêté du 28 août 2009 (BCFF0908998A)](arrete-du-28-aout-2009-bcff0908998a)
 - [Arrêté du 28 août 2009 (BCFS0922926A)](arrete-du-28-aout-2009-bcfs0922926a)
 - [Arrêté du 28 août 2009 (ECEC0918593A)](arrete-du-28-aout-2009-ecec0918593a)
