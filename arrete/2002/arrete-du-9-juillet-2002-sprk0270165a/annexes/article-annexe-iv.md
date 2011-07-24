@@ -74,13 +74,23 @@ Support "canoë-kayak, eau calme mer et vagues" et "canoë-kayak, eau calme et r
 
 - support "canoë-kayak, eau calme mer et vagues" : détention du permis de conduire des bateaux de plaisance à moteur option "côtier" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent ;
 
-- support "canoë-kayak, eau calme et rivière d'eau vive" : détention du permis de conduire des bateaux de plaisance à moteur option "eaux intérieures" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent.
+- support "canoë-kayak, eau calme et rivière d'eau vive" : détention du permis de conduire des bateaux de plaisance à moteur option "eaux intérieures" et d'un certificat autorisant l'utilisation de la radiotéléphonie ou son équivalent ;
+
+- support " canoë-kayak, eau calme, mer et vagues " ou support " canoë-kayak, eau calme et rivière d'eau vive " être capable de :
+
+- conduire une action d'animation dans le cadre d'activités nautiques en canoë-kayak ;
+
+- réaliser une intervention auprès d'un pratiquant en difficulté ;
+
+- gérer les moyens de la sécurité des pratiquants ;
+
+- mettre en œuvre les actions de secours et d'assistance en milieu aquatique.
 
 2. Dispenses et équivalences :
 
 Est dispensé du test de sécurité et de la conduite d'une séance d'apprentissage du test de capacités et connaissances préalables mentionné au point 1 de l'annexe IV pour la mention "canoë-kayak et disciplines associées" le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
-"activités nautiques" du B.P. J.E.P.S.
+Est dispensé du test de capacités et connaissances préalables à la mise en situation pédagogique pour les supports " canoë-kayak, eau calme, mer et vagues " et " canoë-kayak, eau calme et rivière d'eau vive " le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
 Mention "char à voile" et support "char à voile d'initiation et de découverte"
 

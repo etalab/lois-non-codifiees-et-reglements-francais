@@ -6,7 +6,7 @@ Cette spécialité est délivrée au titre de mentions dont la liste est ainsi d
 
 Aviron ;
 
-Canoë-kayak ;
+Canoë-kayak et disciplines associées ;
 
 Char à voile ;
 

@@ -44,7 +44,23 @@ Etre capable de :
 
 - Le diplôme "brevet fédéral 2nd degré", tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française des Sociétés d'aviron, dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B.P. J.E.P.S., pour la mention "aviron" et les supports "aviron de mer" et "aviron d'initiation et de découverte".
 
-Mention "canoë-kayak " et supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive"
+Mention monovalente " canoë-kayak et disciplines associées " :
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées ", le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+
+Support " canoë-kayak, eau calme, mer et vagues " :
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme, mer et vagues ", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme, mer et vagues ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+
+Support " canoë-kayak, eau calme et rivière d'eau vive " :
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme et rivière d'eau vive ", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
+
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme et rivière d'eau vive ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
 L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "canoë-kayak" et les supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
 
