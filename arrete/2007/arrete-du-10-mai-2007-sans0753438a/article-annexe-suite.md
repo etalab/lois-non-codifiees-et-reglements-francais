@@ -1,495 +1,747 @@
 # Article Annexe (suite)
 
-Préambule
+TITRE IV : DISPOSITIONS SOCIALES
 
-Afin de préserver le caractère universel, obligatoire et solidaire de l'assurance maladie auquel elles sont attachées, les parties signataires entendent contribuer, chacune pour leur part, à la qualité des soins et au bon usage des ressources qui lui sont consacrées par la collectivité.
+Les parties à la convention conviennent que les caisses d'assurance maladie participeront au financement des cotisations sociales dues par les masseurs-kinésithérapeutes conventionnés selon les modalités suivantes :
 
-Conscientes de la situation financière de l'assurance maladie, les parties signataires ont pour objectif d'accroître l'efficience du système de soins, de manière à participer à son équilibre économique tout en dégageant les ressources nécessaires à la juste rémunération des actes de masso-kinésithérapie.
+Au titre du régime d'assurance maladie, maternité, décès des praticiens et auxiliaires médicaux conventionnés, les masseurs-kinésithérapeutes conventionnés doivent une cotisation prévue à l'article L. 722-4 du code de la sécurité sociale.
 
-L'UNCAM et les syndicats représentatifs des masseurs-kinésithérapeutes libéraux ont convenu, dans le courant de l'année 2006, de négocier une nouvelle convention nationale.
+Au titre du régime des avantages complémentaires de vieillesse, la participation des caisses au financement de la cotisation annuelle obligatoire prévue à l'article L. 645-2 du code de la sécurité sociale et due par les masseurs-kinésithérapeutes libéraux conventionnés est fixée aux deux tiers du montant de ladite cotisation, tel que fixé par le décret n° 2008-1044 du 10 octobre 2008 publié au Journal officiel du 11 octobre 2008.
 
-Les parties signataires se sont rencontrées à plusieurs reprises afin d'élaborer un nouveau texte.
+La participation des caisses à la cotisation d'ajustement prévue à l'article L. 645-3 du code de la sécurité sociale, et due par les masseurs-kinésithérapeutes libéraux au titre du régime des avantages complémentaires de vieillesse, s'élève à 60 % du montant de ladite cotisation, tel que fixé par le décret susvisé.
 
-Elles se sont engagées à concrétiser cette démarche par la conclusion d'une convention nationale innovante, intégrant notamment les thématiques suivantes :
+Au titre du régime des avantages complémentaires de vieillesse prévu à l'article L. 645-2 du code de la sécurité sociale, la participation des caisses à la cotisation due par les masseurs-kinésithérapeutes conventionnés est fixée au double de la cotisation des masseurs-kinésithérapeutes bénéficiaires. Le montant de cette dernière est fixé à 40 fois la valeur de l'index AMV.
 
-- une vie conventionnelle rénovée ;
+Ces dispositions pourront être revues ultérieurement par les partenaires dans le cadre de la convention, ou, éventuellement, dans le cadre d'un accord commun interprofessionnel.
 
-- un accès aux soins préservé et amélioré ;
+La participation de l'assurance maladie est versée aux organismes de recouvrement, sur leur appel, par :
 
-- une meilleure orientation des patients dans leur parcours de soins ;
+- la CPAM du lieu d'installation du masseur-kinésithérapeute pour la cotisation due au titre du régime d'assurance maladie, maternité et décès ;
 
-- un développement de la prévention et de la coordination des soins ;
+- chacun des organismes participant au financement pour la cotisation due au titre du régime des avantages complémentaires vieillesse.
 
-- une valorisation de la profession des masseurs-kinésithérapeutes au travers de la nomenclature de leurs actes et de la formation continue conventionnelle ;
+Le montant annuel de la participation des caisses aux cotisations sociales des masseurs-kinésithérapeutes est réparti entre les régimes d'assurances maladie selon des clefs fixées par arrêté interministériel pour les répartitions de la contribution prévue à l'article L. 138-1 du code de la sécurité sociale et des remises prévues à l'article L. 162-18 du code de la sécurité sociale.
 
-- une amélioration des relations entre les masseurs-kinésithérapeutes et les caisses.
+TITRE V : VIE CONVENTIONNELLE
 
-Les parties signataires conviennent par ailleurs de la nécessité d'une relation conventionnelle de qualité reposant sur des relations régulières permettant de tenir compte rapidement de l'adaptation des pratiques et des techniques masso-kinésithérapiques aux besoins de la population, de la profession et aux moyens de l'assurance maladie.
+5.1. Durée et résiliation de la convention
 
-TITRE Ier : QUALITÉ DES SOINS DE MASSO-KINÉSITHÉRAPIE ET MAÎTRISE MÉDICALISÉE
+5.1.1. Durée de la convention
 
-Les partenaires conventionnels, soucieux de répondre aux grandes problématiques de santé publique, souhaitent promouvoir, dans le cadre d'un régime fondé sur les preuves, la qualité et l'efficience des soins en s'appuyant notamment sur les recommandations de la Haute Autorité de santé.
+La convention est conclue pour une durée de cinq ans à compter de la date d'entrée en vigueur du texte.
 
-1.1. Les références et recommandations en masso-kinésithérapie
+5.1.2. Résiliation de la convention
 
-Les recommandations et les références professionnelles élaborées par la Haute Autorité de santé en matière de masso-kinésithérapie seront prises en compte par les partenaires au fur et à mesure de leur publication, afin de participer à l'amélioration des pratiques professionnelles.
+La présente convention peut être résiliée soit par une décision de l'UNCAM, soit par décision conjointe des organisations syndicales représentatives signataires, dans les cas suivants :
 
-Les partenaires veilleront à ce que la mise en application de ces recommandations et références place le patient au coeur du système de santé, et y associeront l'ensemble des acteurs concernés.
+- non-respect grave et répété des engagements conventionnels du fait de l'une des parties ;
 
-Ils s'accordent en premier lieu pour mettre en oeuvre, sans délai, les recommandations de la HAS du 29 mars 2006 déterminant une liste d'interventions chirurgicales pour lesquelles la rééducation du patient peut être prise en charge de façon préférentielle en cabinet de ville par un masseur-kinésithérapeute libéral.
+- modifications législatives ou réglementaires affectant substantiellement les rapports entre les organismes d'assurance maladie et les masseurs-kinésithérapeutes.
 
-En second lieu, ils définissent comme prioritaire la mise en oeuvre des recommandations de la Haute Autorité de santé de mai 2005 relatives à la prescription et à la prise en charge de la rééducation kinésithérapique dans la lombalgie commune.
+La résiliation s'effectue par lettre recommandée avec avis de réception adressée à tous les signataires de la convention. L'UNCAM invite alors les organisations syndicales représentatives à engager de nouvelles négociations conventionnelles dans un délai de six mois.
 
-1.2. Optimisation du placement en soins de suite et de réadaptation et en centres de rééducation fonctionnelle et engagements de maîtrise médicalisée
+5.2. Modalités de notification et d'adhésion des praticiens
 
-A la suite de la publication par la HAS, conformément à l'article 29 de la loi de financement de la sécurité sociale pour 2006, le 29 mars 2006, de recommandations déterminant une liste d'interventions chirurgicales pour lesquelles la rééducation du patient peut être prise en charge de façon préférentielle en cabinet de ville par un masseur-kinésithérapeute libéral, des études médico-économiques ont été menées par l'UNCAM en fonction des données disponibles et des possibilités actuelles des systèmes d'information.
+5.2.1. Notification
 
-A l'issue de ces études, les parties signataires constatent que le respect de ces recommandations est de nature à accroître l'efficience du système de soins, malgré l'absence de fongibilité à ce jour entre l'enveloppe des soins de ville et l'enveloppe hospitalière.
+Les URCAM notifient par courrier aux masseurs-kinésithérapeutes le présent texte conventionnel, ainsi que ses avenants, dans le mois qui suit leur publication.
 
-Elles constatent par ailleurs que la mise en oeuvre de ce dispositif d'orientation du patient adulte vers la prise en charge la plus adaptée à son besoin de soins, son contexte de vie et son état de santé nécessite la participation active des médecins prescripteurs. C'est pourquoi, les parties signataires ont engagé des discussions sur ce thème avec les syndicats représentatifs des médecins libéraux, et s'accordent pour rendre opérationnelles, sans délai, les recommandations de la HAS.
+5.2.2. Modalités d'adhésion
 
-Les masseurs-kinésithérapeutes s'engagent à garantir la qualité de la prise en charge et la continuité des soins en sortie d'hospitalisation, en concertation avec le médecin prescripteur. La fiche de synthèse, reflet du bilan-diagnostic kinésithérapique, prend ici tout son sens comme outil de coordination entre le masseur-kinésithérapeute et le médecin.
+Les masseurs-kinésithérapeutes précédemment conventionnés à la date d'entrée en vigueur de la convention sont considérés tacitement comme y adhérant. Dans le cas où ils souhaiteraient être placés en dehors des présentes dispositions conventionnelles, ces praticiens devront adresser à la caisse primaire d'assurance maladie dans le ressort de laquelle ils exercent leur activité un courrier recommandé l'en informant.
 
-La HAS a été saisie, au début de l'année 2007, afin de parachever ses travaux relatifs à la liste complémentaire des actes qui pourraient relever d'une prise en charge en cabinet de ville par un masseur-kinésithérapeute libéral.
+Les masseurs-kinésithérapeutes précédemment placés en dehors de la convention nationale, de même que les praticiens s'installant en exercice libéral au cours de la vie conventionnelle qui souhaitent adhérer à la convention en font la demande par LRAR adressée à la caisse primaire d'assurance maladie dans le ressort de laquelle ils exercent leur activité. Leur adhésion à la convention est effective à la date à laquelle la caisse accuse réception de leur demande.
 
-Les parties signataires souhaitent évaluer, une fois par an, sur la base des indicateurs précisés ci-après, la portée des mesures mises en place.
+Le masseur-kinésithérapeute qui souhaite ne plus être régi par les dispositions de la convention en informe la caisse primaire de son lieu d'installation par lettre recommandée avec avis de réception. Sa décision prend effet un mois après la date de réception de son courrier par la caisse.
 
-Elles conviennent de la diminution de la part des séjours MCO des patients de 18 à 79 ans sans comorbidité ni multipathologies avec diagnostic principal appartenant à l'un des 6 groupes retenus (*) comportant au moins un acte des listes I ou II issues des recommandations HAS et poursuivis en SSR, sur la totalité des séjours MCO des patients de 18 à 79 ans.
+5.3. Instances conventionnelles
 
-Les partenaires conventionnels se fixent pour 2008 l'objectif suivant :
+Les parties signataires affirment leur attachement à une gestion paritaire de la vie conventionnelle et mettent en place pour en faciliter l'exercice :
 
-- de 4,9 % à 3,4 % pour le secteur privé ;
+- une commission socioprofessionnelle nationale ;
 
-- de 8,7 % à 7,2 % pour le secteur public.
+- une commission socioprofessionnelle dans chaque région ;
 
-Au regard des résultats de ces évaluations annuelles, et sous réserve d'une concertation régulière avec les prescripteurs éventuellement concernés par ces thèmes, un bilan général sera réalisé pour permettre aux partenaires conventionnels de décider d'éventuelles mesures d'ajustement du dispositif.
+- une commission socioprofessionnelle dans chaque département.
 
-1.3. Prévention en masso-kinésithérapie
+5.3.1. La commission socioprofessionnelle nationale (CSPN)
 
-Dans le cadre des travaux réalisés au cours de l'année 2006 par l'UNCAM et les syndicats, il est apparu que les partenaires conventionnels estiment très important de développer le sujet de la prévention ; par ailleurs, la profession souhaite particulièrement voir son implication reconnue en ce domaine.
+Il est institué une commission socioprofessionnelle nationale composée paritairement.
 
-Conscientes de la place des masseurs-kinésithérapeutes comme acteurs de santé publique dans leur domaine d'intervention, les parties signataires s'engagent à poursuivre, en 2007, leurs travaux visant à définir et mettre en oeuvre des actions de prévention, notamment dans le domaine de la rééducation rachidienne, dont le champ serait délimité et qui favoriseraient une meilleure coordination avec le médecin traitant.
+a) Composition
 
-1.4. Masso-kinésithérapie et coordination des soins : promotion du bilan-diagnostic kinésithérapique (BDK)
+La CSPN est composée pour moitié :
 
-Les parties signataires entendent encourager l'utilisation du bilan-diagnostic kinésithérapique (BDK) en tant qu'outil privilégié de promotion de la qualité des soins et de favoriser la coordination entre le médecin traitant et le masseur-kinésithérapeute libéral, au service des patients, par le biais de la fiche de synthèse.
+- de représentants des organisations syndicales signataires de la présente convention qui constituent la section professionnelle ;
 
-Conscients des difficultés actuelles de mise en oeuvre du BDK, les partenaires ont mis en place un groupe de travail visant à optimiser son fonctionnement à travers la simplification des circuits, une concertation préalable avec les prescripteurs et une normalisation des outils.
+- de représentants de l'UNCAM qui constituent la section sociale.
 
-Les partenaires conviennent de mettre en oeuvre ses conclusions par voie d'avenant ou par tout autre moyen juridique pertinent.
+Chaque section désigne son président.
 
-Les parties signataires reconnaissent également, au vu de leur expérience, que la seule méthode efficace pour atteindre une généralisation d'emploi du BDK, chaque fois que cela est médicalement pertinent, repose sur un travail d'accompagnement de l'ensemble des acteurs concernés.
+Section professionnelle
 
-Elles mettront en place tous les outils nécessaires à la pleine réalisation de cet objectif, notamment en termes de formation des prescripteurs et des masseurs-kinésithérapeutes et d'information des assurés.
+La section professionnelle comprend 6 sièges répartis comme suit :
 
-1.5. Suivi médicalisé de l'activité
+3 masseurs-kinésithérapeutes désignés par la Fédération française des masseurs-kinésithérapeutes rééducateurs (FFMKR) ;
 
-1.5.1. Suivi de l'activité individuelle
+3 masseurs-kinésithérapeutes désignés par l'Union nationale des syndicats de masseurs-kinésithérapeutes libéraux (UNSMKL).
 
-a) Principes
+Cette répartition prend en compte les résultats de la dernière enquête de représentativité prévue à l'article L. 162-33 du code de la sécurité sociale.
 
-Les parties conviennent de définir les modalités du suivi de l'activité individuelle des masseurs-kinésithérapeutes et notamment la méthodologie à observer pour assurer ce suivi en tenant compte des conditions spécifiques d'exercice de la profession.
+Les représentants des syndicats signataires sont désignés parmi leurs adhérents placés sous le régime de la présente convention. Seuls les masseurs-kinésithérapeutes conventionnés libéraux en exercice peuvent siéger dans cette instance.
 
-Le dispositif de suivi mis en place est fondé sur une analyse quantitative et qualitative de l'activité individuelle (approche médico-économique) prenant en considération divers éléments concourant particulièrement à la bonne distribution de soins de qualité en masso-kinésithérapie et à l'amélioration de la pratique de la masso-kinésithérapie.
+Un suppléant est désigné pour chaque siège.
 
-b) Suivi individuel de la promotion du BDK
+Section sociale
 
-L'objectif du suivi individuel du BDK, facteur de qualité et d'efficience des soins, est d'observer son développement au travers de la pratique de chaque professionnel, et du poids de la prise en charge individuelle de cet acte au niveau national et départemental.
+La section sociale comprend 6 représentants de l'UNCAM, dont 2 médecins-conseils, répartis comme suit :
 
-Les caisses évalueront pour chaque masseur-kinésithérapeute la part de BDK réalisés dans son activité. De plus, le nombre de bilans-diagnostics kinésithérapiques facturé par le masseur-kinésithérapeute sera comparé à la moyenne du département.
+4 représentants pour le régime général : 2 administratifs, 1 conseiller, 1 praticien-conseil ;
 
-La procédure le cas échéant applicable à la suite de ce suivi est précisée en annexe 7.2.
+1 représentant pour le régime agricole ;
 
-Ce suivi fera l'objet d'un bilan annuel par la CSPN qui fera parvenir ses conclusions aux CSPD.
+1 représentant pour le régime social des indépendants.
 
-Les modalités de la mise en oeuvre de ce suivi pourront être réévaluées dans le cadre du groupe simplification administrative et donner lieu à un avenant.
+Un suppléant est désigné pour chaque siège.
 
-1.5.2. Suivi et évaluation de l'activité de masso-kinésithérapie
+b) Missions
 
-a) Principes
+La CSPN a un rôle d'orientation et de coordination ; elle décide des actions à mener afin de garantir la réussite de la politique conventionnelle et assure le suivi régulier des différents aspects de la vie conventionnelle.
 
-Les parties signataires considèrent que le suivi collectif et l'évaluation de l'activité doit être réalisé dans trois domaines, médical, économique et social.
+Ses travaux portent sur l'ensemble du champ conventionnel, et en particulier sur :
 
-L'ensemble des acteurs étant amené à participer à ce suivi, les masseurs-kinésithérapeutes s'engagent à conserver dans le dossier médical du patient les renseignements nécessaires au suivi et à répondre le plus efficacement possible à toute sollicitation des caisses ou du service médical de l'assurance maladie réalisée selon les modalités définies entre les parties signataires.
+- le suivi de l'évolution des dépenses de masso-kinésithérapie ; elle étudie toutes les statistiques pertinentes concernant les soins ambulatoires et hospitaliers dont l'UNCAM dispose ;
 
-En contrepartie les caisses d'assurance maladie conviennent de mettre à disposition des masseurs-kinésithérapeutes les éléments analytiques pour le suivi.
+- le suivi des engagements de maîtrise médicalisée ;
 
-b) Suivi collectif de l'activité de rééducation des actes des listes I ou II issues des recommandations de la HAS du 29 mars 2006
+- l'élaboration et le suivi d'outils de régulation nationaux, ainsi que, le cas échéant, la définition des modalités de leur mise en oeuvre au niveau régional ;
 
-Le dispositif mis en place est notamment fondé sur une analyse qualitative de la prise en charge et de la continuité des soins dispensés aux patients par les professionnels dont l'activité porte sur la rééducation des actes des listes I ou II issues des recommandations HAS du 29 mars 2006.
+- la proposition d'actions permettant de préciser les conditions de prise en charge des soins et/ou de renforcer le respect des dispositions législatives et réglementaires relatives aux conditions de prise en charge des actes, ainsi que les modalités de paiement et de remboursement de ces actes ;
 
-Ce suivi sera réalisé sur un échantillon de patients ayant des soins de masso-kinésithérapie réalisés en ville suite à au moins un acte des listes suscitées.
+- la préparation des avenants et annexes à la convention ;
 
-Les parties signataires conviennent de recueillir certains éléments permettant d'apprécier la qualité de la prise en charge et la continuité des soins en sortie d'hospitalisation, en faveur des patients :
+- la mise en oeuvre de mesures facilitant l'exercice de la profession au quotidien ;
 
-- pour le domaine médical notamment :
+Enfin, la CSPN :
 
-- la nature des actes ;
+- installe la commission socioprofessionnelle nationale de formation continue conventionnelle (CSPN-FCC), dont les missions sont décrites au titre 6 de la présente convention ;
 
-- le délai entre date de sortie d'hospitalisation et début des séances ;
+- installe et suit les travaux du comité technique paritaire permanent (CTPP) décrit au point 3.4.4 ;
 
-- pour le domaine économique notamment par l'évolution de la part de ces patients pris en charge par un masseur-kinésithérapeute ;
+- étudie, à la demande de l'une ou l'autre des parties signataires, d'une commission socioprofessionnelle régionale ou départementale, tout problème d'ordre général soulevé par les rapports entre les masseurs-kinésithérapeutes et les caisses ; la CSPN propose alors une solution pour régler ces difficultés ;
 
-- pour le domaine social notamment par l'âge des patients, leur lieu de vie, la part de patients bénéficiant de la CMU, la part de patient exonérés du ticket modérateur.
+- prend toutes les dispositions nécessaires au bon fonctionnement des instances paritaires.
 
-La méthode utilisée, les critères retenus ainsi que les informations à recueillir à des fins d'évaluation médicale, économique et sociale dans le cadre du suivi et de la régulation médicalisée individuelle feront l'objet d'une validation par la commission socioprofessionnelle nationale. Les conclusions de ce suivi permettront aux parties conventionnelles d'adopter conjointement des mesures de régulation pour optimiser la qualité et l'efficience des soins.
+5.3.2. La commission socioprofessionnelle régionale (CSPR)
 
-TITRE II : VALORISATION DE L'ACTIVITÉ DES MASSEURS-KINÉSITHÉRAPEUTES LIBÉRAUX
+Il est institué une commission socioprofessionnelle régionale composée paritairement. Elle se réunit en tant que de besoin et au minimum une fois par an.
 
-En cohérence avec les recommandations de la HAS du 29 mars 2006, les partenaires souhaitent aménager la nomenclature de manière à mieux valoriser les actes de rééducation ostéo-articulaires et rachidiennes.
+a) Composition
 
-A cet effet, ils s'entendent sur une revalorisation des cotations suivantes (affectées de la lettre-clé AMS) de l'article 1er du chapitre II du titre XIV de la nomenclature générale des actes professionnels (NGAP) :
+La CSPR est composée pour moitié :
+
+- de représentants des organisations syndicales signataires de la présente convention, qui constituent la section professionnelle ;
+
+- de représentants des caisses d'assurance maladie, qui constituent la section sociale.
+
+Chaque section désigne son président.
+
+Section professionnelle
+
+La section professionnelle comprend 6 sièges répartis en fonction des résultats régionaux de la dernière enquête de représentativité nationale entre :
+
+- des masseurs-kinésithérapeutes représentant la Fédération française des masseurs-kinésithérapeutes rééducateurs (FFMKR) ;
+
+- et des masseurs-kinésithérapeutes représentant l'Union nationale des syndicats de masseurs-kinésithérapeutes libéraux (UNSMKL), délégués par le syndicat au niveau national.
+
+Les représentants régionaux des syndicats de masseurs-kinésithérapeutes signataires sont désignés parmi leurs adhérents libéraux conventionnés et exerçant à titre principal dans la région.
+
+Un suppléant est désigné pour chaque siège.
+
+Section sociale
+
+La section sociale comprend 6 sièges, dont 2 médecins-conseils, et répartis comme suit :
+
+4 représentants pour le régime général : 2 administratifs, 1 conseiller, 1 praticien-conseil ;
+
+1 représentant pour le régime agricole ;
+
+1 représentant pour le régime social des indépendants.
+
+Un suppléant est désigné pour chaque siège.
+
+b) Missions
+
+La CSPR a pour mission de veiller à la régulation de la démographie des masseurs-kinésithérapeutes en :
+
+- contribuant aux travaux de la mission régionale de santé ;
+
+- mettant en oeuvre les dispositifs conventionnels que les parties signataires pourraient adopter dans le cadre prévu à l'article 3.2 de la présente convention ;
+
+- développant une offre de service régionale pour orienter les installations des masseurs-kinésithérapeutes libéraux vers les zones sous-dotées.
+
+La CSPR suit également l'évolution des dépenses régionales en rapport avec les soins de masso-kinésithérapie. Ses analyses portent en particulier sur la problématique de l'optimisation des placements, après intervention, en soins de suite et de réadaptation et en centres de rééducation fonctionnelle.
+
+La CSPR transmettra à la CSPN tous travaux dont elle aurait eu à connaître concernant la profession des masseurs-kinésithérapeutes libéraux, notamment en matière de maîtrise médicalisée ou d'optimisation des placements, après intervention, en soins de suite et de réadaptation et en centres de rééducation fonctionnelle.
+
+La CSPR adresse à la CSPN, au cours du dernier trimestre de chaque année, un rapport sur ses activités de l'année en cours ; elle informe régulièrement l'instance nationale de ses travaux.
+
+5.3.3. La commission socioprofessionnelle départementale (CSPD)
+
+Il est institué une commission socioprofessionnelle départementale composée paritairement.
+
+a) Composition
+
+La CSPD est composée pour moitié :
+
+- de représentants des organisations syndicales signataires de la présente convention, qui constituent la section professionnelle ;
+
+- de représentants des caisses d'assurance maladie, qui constituent la section sociale.
+
+Chaque section désigne son président.
+
+Section professionnelle
+
+La section professionnelle comprend 6 sièges répartis en fonction des résultats départementaux de la dernière enquête de représentativité nationale entre :
+
+- des masseurs-kinésithérapeutes représentant la Fédération française des masseurs-kinésithérapeutes rééducateurs (FFMKR) ;
+
+- et des masseurs-kinésithérapeutes représentant l'Union nationale des syndicats de masseurs-kinésithérapeutes libéraux (UNSMKL), délégués par le syndicat au niveau national.
+
+Les représentants départementaux des syndicats de masseurs-kinésithérapeutes signataires sont désignés parmi leurs adhérents libéraux conventionnés et exerçant à titre principal dans le département du ressort de la CSPD.
+
+Un suppléant est désigné pour chaque siège.
+
+Section sociale
+
+La section sociale comprend 6 sièges, dont 2 médecins-conseils, et répartis comme suit :
+
+- 4 représentants pour le régime général : 2 administratifs, 1 conseiller, 1 praticien-conseil ;
+
+- 1 représentant pour le régime agricole ;
+
+- 1 représentant pour le régime social des indépendants.
+
+Missions
+
+La CSPD a pour rôle de faciliter l'application de la convention par une concertation permanente au plan local entre les caisses et les représentants des masseurs-kinésithérapeutes.
+
+Concernant la maîtrise médicalisée des dépenses, la CSPD assure au moins deux fois par an le suivi de l'évolution des dépenses de masso-kinésithérapie ; elle met en place notamment :
+
+- des actions d'information auprès des assurés ou des professionnels ;
+
+- des actions de sensibilisation ponctuelles auprès des masseurs-kinésithérapeutes ne respectant pas leurs engagements conventionnels, notamment en matière de nomenclature.
+
+La CSPD transmettra à la CSPN tous travaux dont elle aurait eu à connaître concernant la profession des masseurs-kinésithérapeutes libéraux, notamment en matière de maîtrise médicalisée ou d'optimisation des placements, après intervention, en soins de suite et de réadaptation et en centres de rééducation fonctionnelle.
+
+La CSPD a également pour missions, notamment :
+
+- d'analyser les dépenses d'assurance maladie relatives aux soins dispensés par les masseurs-kinésithérapeutes présentées par les caisses ;
+
+- de suivre l'application de la dispense d'avance des frais dans le département et prendre toutes dispositions nécessaires en cas d'abus ;
+
+- de suivre la mise en oeuvre de l'application des recommandations de la HAS ;
+
+- d'organiser des actions pédagogiques d'information et de promotion sur le dispositif de télétransmission en tenant compte des spécificités de l'exercice individuel des masseurs-kinésithérapeutes ;
+
+- de veiller au respect de la présente convention par les parties.
+
+La CSPD étudie toutes les statistiques pertinentes concernant les soins ambulatoires et hospitaliers dont l'assurance maladie dispose. Elle peut, par ailleurs, entamer tous travaux sur ces thèmes de nature économique, médicale ou sociale et diligenter des enquêtes.
+
+L'assurance maladie s'engage à communiquer chaque année à la CSPD les thèmes de contrôle prévus par l'échelon local du service du contrôle médical, avant mise en oeuvre.
+
+La CSPD rend un avis sur les situations individuelles de non-respect des règles conventionnelles constatées par les caisses, conformément à la procédure décrite au point 5.4.1 du présent texte.
+
+La CSPD adresse à la CSPN, au cours du dernier trimestre de chaque année, un rapport sur ses activités de l'année en cours ; elle informe régulièrement l'instance nationale de ses travaux.
+
+5.3.4. Dispositions communes aux instances
+
+Les instances conventionnelles sont mises en place dans les trois mois suivant l'entrée en vigueur de la convention.
+
+Pour ce qui concerne les CSPD et CSPR, lorsque la commission n'est pas constituée dans le délai de trois mois du fait d'un désaccord entre les syndicats sur leur représentation respective, la section professionnelle de la CSPN dispose d'un délai d'un mois pour proposer une composition.
+
+Si aucune proposition n'est faite dans ce délai, ou si les représentants au niveau local ne l'acceptent pas, la section sociale se substitue de plein droit dans les attributions de la commission le temps que celle-ci se mette en place.
+
+Pour les instances locales (CSPR et CSPD), à la demande conjointe des représentants de la section professionnelle concernée, le nombre de membres siégeant dans cette section peut être réduit jusqu'à deux. Dans cette situation, les voix de chaque syndicat doivent être reportées sur les membres présents afin de conserver la parité des voix entre les deux sections.
+
+Chaque instance adopte un règlement intérieur, reprenant a minima le règlement type en annexe, qui précise notamment les règles de convocation aux réunions, de fixation de l'ordre du jour, de quorum et les procédures de vote. Dans le cas où un règlement intérieur ne serait pas adopté par la commission, le règlement type annexé à la convention s'appliquera en l'état.
+
+Les présidents de chacune des sections assurent, par alternance annuelle (année civile), la présidence et la vice-présidence de l'instance.
+
+Les sections professionnelle et sociale s'engagent à être toujours représentées dans des conditions permettant le fonctionnement des commissions.
+
+Le secrétariat et les moyens nécessaires au fonctionnement sont mis en place par l'UNCAM pour la CSPN, l'URCAM pour la CSPR et la caisse locale d'assurance maladie pour la CSPD. Le secrétariat assure les tâches administratives de l'instance et rédige chaque année un bilan d'activité.
+
+Les membres de l'instance sont soumis au secret des délibérations.
+
+Chaque instance met en place les groupes de travail paritaires qu'elle juge nécessaires.
+
+Chaque instance, ainsi que chacune de ses sections, fait appel aux conseillers techniques dont elles jugent la présence nécessaire. Le nombre de conseillers est limité à un par syndicat.
+
+Chaque instance, ainsi que chacune de ses sections, fait appel aux experts dont elle juge la présence nécessaire. Les experts n'interviennent que sur le point inscrit à l'ordre du jour pour lequel leur compétence est requise.
+
+Les représentants des syndicats signataires membres de la section professionnelle perçoivent une indemnité de vacation égale à 50 AMK par réunion et une indemnité de déplacement dans les conditions prévues par le règlement intérieur de l'instance à laquelle ils appartiennent. Les mêmes dispositions s'appliquent aux masseurs-kinésithérapeutes qui participent à la CSPN-FCC, au CTPP et aux groupes de travail créés par les instances conventionnelles, ainsi qu'à la commission chargée de déterminer les règles de hiérarchisation des actes et prestations.
+
+5.4. Mesures conventionnelles
+
+5.4.1. Non-respect des dispositions de la présente convention
+
+Les parties signataires sont convenues de définir dans le présent paragraphe les situations pour lesquelles un professionnel qui, dans son exercice, ne respecte pas ses engagements conventionnels, est susceptible de faire l'objet d'un examen de sa situation par les instances paritaires et d'une éventuelle sanction.
+
+Les partenaires conventionnels souhaitent néanmoins que les caisses, les CSPD et les professionnels favorisent autant que possible le dialogue et la concertation avant d'entamer une procédure. Ils rappellent que les sanctions conventionnelles visent avant tout à atteindre un changement durable de comportement qui ne serait pas conforme à la convention.
+
+a) Non-respect des règles conventionnelles constaté par une caisse
+
+En cas de constatation, par une caisse, du non-respect des dispositions de la présente convention par un masseur-kinésithérapeute libéral, notamment sur :
+
+- l'application, de façon répétée, de tarifs supérieurs aux tarifs opposables ;
+
+- l'utilisation abusive du DE ;
+
+- l'utilisation abusive de la dispense d'avance des frais ;
+
+- la non-utilisation ou la mauvaise utilisation, de façon répétée, des documents ou de la procédure auxquels sont subordonnées la constatation des soins et leur prise en charge par l'assurance maladie ;
+
+- la non-inscription, de façon répétée, du montant des honoraires perçus, au sens de l'article 3.3.4 de la présente convention ;
+
+- le non-respect, de façon répétée, de la liste visée à l'article L. 162.1.7 du code de la sécurité sociale (NGAP),
+
+la procédure décrite au b peut être mise en oeuvre.
+
+b) Procédure
+
+1. La CPAM qui constate le non-respect par un masseur-kinésithérapeute des dispositions de la présente convention lui adresse un avertissement par lettre recommandée avec accusé de réception. L'avertissement doit comporter l'ensemble des faits qui sont reprochés au professionnel.
+
+Le masseur-kinésithérapeute dispose d'un délai d'un mois à compter de cet avertissement pour modifier sa pratique :
+
+- si, à l'issue de ce délai, le masseur-kinésithérapeute n'a pas modifié la pratique reprochée, la CPAM, pour le compte de l'ensemble des caisses, communique le relevé des constatations au masseur-kinésithérapeute concerné par lettre recommandée avec avis de réception, avec copie aux membres titulaires des deux sections de la CSPD ;
+
+- la CPAM procédera à ce même envoi et la procédure d'avertissement sera réputée effectuée si dans un délai d'un an suivant le courrier d'avertissement non suivi de sanction, le masseur-kinésithérapeute a renouvelé les mêmes faits reprochés.
+
+2. Le masseur-kinésithérapeute dispose d'un délai d'un mois à compter de la date de communication du relevé des constatations pour présenter ses observations écrites éventuelles et/ou être entendu à sa demande par le directeur de la caisse ou son représentant. Le masseur-kinésithérapeute peut se faire assister par un avocat ou un confrère de son choix.
+
+La CSPD, pour donner son avis, peut inviter le praticien à lui faire connaître ses observations écrites ou demander à l'entendre dans un délai qu'elle lui fixe. Dans le même temps, le masseur-kinésithérapeute peut être entendu à sa demande par la CSPD, il peut se faire assister par un avocat ou un confrère de son choix.
+
+L'avis de la CSPD est rendu dans les soixante jours à compter de sa saisine. A l'issue de ce délai, l'avis est réputé rendu.
+
+A l'issue de ce délai, les caisses décident de l'éventuelle sanction.
+
+Le directeur de la CPAM, pour le compte des autres régimes, notifie au professionnel la mesure prise à son encontre, par lettre recommandée avec accusé de réception. La caisse communique également la décision aux membres de la CSPD en lui envoyant la copie de la lettre adressée au professionnel.
+
+Cette notification précise la date d'effet de la décision et les voies de recours ; cette décision doit être motivée.
+
+Lorsque le directeur de la CPAM prend à l'encontre d'un professionnel une mesure :
+
+- de suspension de tout ou partie de la participation des caisses au financement des cotisations sociales supérieure ou égale à six mois ;
+
+- ou de suspension de la possibilité d'exercer dans le cadre conventionnel supérieure ou égale à trois mois,
+
+et que cette mesure est supérieure à celle proposée par la CSPD dans son avis, il en informe par courrier le secrétariat de la CSPN qui inscrit ce point à l'ordre du jour de la réunion suivante.
+
+c) Mesures encourues
+
+Lorsqu'un masseur-kinésithérapeute ne respecte pas les dispositions de la présente convention, il peut, après mise en oeuvre de la procédure prévue au b ci-dessus, encourir une ou plusieurs des mesures suivantes :
+
+- interdiction temporaire ou définitive de pratiquer le DE ;
+
+- suspension de tout ou partie de la participation des caisses au financement des cotisations sociales du professionnel. Cette suspension est de un, trois, six, neuf ou douze mois ;
+
+- suspension de la possibilité d'exercer dans le cadre conventionnel. Cette suspension peut être temporaire (une semaine, un, trois, six, neuf ou douze mois) ou prononcée pour la durée d'application de la convention, selon l'importance des griefs. La mise hors convention de trois mois ou plus entraîne la suspension de la participation des caisses au financement des cotisations sociales pour une durée égale à celle de la mise hors convention.
+
+5.4.2. Condamnation par une instance ordinale ou judiciaire
+
+Lorsque les chambres disciplinaires de première instance ou nationale d'appel des conseils régionaux de l'ordre et du Conseil national de l'ordre des masseurs-kinésithérapeutes ou une autre juridiction ont prononcé, à l'égard d'un masseur-kinésithérapeute, une sanction devenue définitive :
+
+- d'interdiction temporaire ou définitive de donner des soins ;
+
+- d'interdiction temporaire ou définitive d'exercer,
+
+le professionnel se trouve placé de fait et simultanément hors convention, à partir de la date d'application de la sanction ordinale ou judiciaire, et pour la même durée.
+
+Lorsqu'une juridiction a prononcé à l'égard d'un masseur-kinésithérapeute une peine effective d'emprisonnement, le professionnel se trouve placé de fait et simultanément hors convention, à partir de la date d'application de la sanction judiciaire et pour la même durée.
+
+Le directeur de la CPAM informe le professionnel de sa situation par rapport à la convention. Une copie de cette lettre est adressée aux membres de la CSPD.
+
+Lorsque les faits sanctionnés par une instance ordinale ou judiciaire constituent, en outre, une infraction au regard des règles et/ou des pratiques conventionnelles, les caisses peuvent envisager à l'encontre du professionnel concerné l'une des mesures prévues au c du point 5.4.1, en application de la procédure décrite au b du même article.
+
+TITRE VI : FORMATION CONTINUE CONVENTIONNELLE
+
+6.1. Principes
+
+Les parties signataires rappellent l'intérêt commun qu'elles attachent au développement et à la promotion de la formation continue, qui doit permettre au professionnel d'entretenir et de perfectionner ses connaissances et de lui garantir une adaptation permanente et nécessaire aux évolutions des pratiques et des soins.
+
+Dans un souci d'amélioration de la qualité des soins et d'optimisation des dépenses de santé, les parties signataires s'entendent pour promouvoir la formation continue conventionnelle comme modalité de formation offerte aux masseurs-kinésithérapeutes conventionnés. Le dispositif de la FCC accompagne les orientations de la convention et notamment les engagements de maîtrise médicalisée.
+
+Les parties signataires définissent les orientations et les thèmes de formation continue qu'elles souhaitent soutenir dans le cadre conventionnel. Elles entendent notamment développer la prévention et l'éducation à la santé et élargir les formations dans une approche interprofessionnelle, conduite avec les syndicats signataires des conventions nationales des différentes professions de santé.
+
+Les parties signataires définissent les modalités de financement et de gestion de la formation continue conventionnelle.
+
+Les caisses nationales, chacune en ce qui la concerne, participent au financement de la formation continue conventionnelle des masseurs-kinésithérapeutes placés sous le régime de la présente convention, par le versement :
+
+- d'indemnités quotidiennes de formation compensatrices de perte de ressources, pour les masseurs-kinésithérapeutes libéraux conventionnés ;
+
+- d'une dotation à l'organisme gestionnaire, comprenant la prise en charge des formations titulaires de l'agrément conventionnel et la prise en charge des frais de structure de l'organisme gestionnaire.
+
+Les parties signataires préconisent la diffusion auprès des médecins prescripteurs des recommandations de la Haute Autorité de santé relatives à la prescription des soins de masso-kinésithérapie. Elles en saisiront donc les parties signataires de la convention nationale des médecins libéraux. Elles proposent également le développement d'actions d'information et de formation commune qui associent médecins prescripteurs et masseurs-kinésithérapeutes, afin de favoriser la coordination entre ces deux professions qui concourent à la prise en charge optimale des patients.
+
+6.2. Instances de la FCC
+
+La CSPN installe :
+
+- une commission socioprofessionnelle nationale de formation continue conventionnelle (CSPN-FCC), à laquelle elle délègue la mise en oeuvre de la FCC. La CSPN-FCC est composée et fonctionne sur le mode de la CSPN définie au point 5.3.1.
+
+En collaboration avec l'organisme gestionnaire (OG), la CSPN-FCC :
+
+- arrête chaque année les thèmes de formation qui doivent être en rapport avec les thèmes conventionnels de la maîtrise médicalisée des dépenses de santé et avec les objectifs de la loi de santé publique ;
+
+- prépare les appels d'offre destinés aux organismes de formation ;
+
+- rédige les cahiers des charges ;
+
+- définit les critères d'agrément des organismes et des formations ;
+
+- agrée les actions de formation ;
+
+- évalue le dispositif de FCC mis en place ;
+
+- un organisme gestionnaire (OG), est mandaté par les partenaires conventionnels pour mettre en oeuvre la formation continue conventionnelle de la profession des masseurs-kinésithérapeutes et gérer la dotation allouée par la CNAMTS. En particulier, l'organisme gestionnaire assure le lancement et la gestion des appels d'offres et transmet, après les avoir enregistrés, les projets présentés par les organismes de formation à la CSPN-FCC. Un protocole de financement est signé entre l'organisme gestionnaire et la CNAMTS pour détailler ses missions et les modalités de versement de la dotation allouée.
+
+6.3. Modalités de gestion et de mise en oeuvre de la formation continue conventionnelle
+
+Les parties signataires définissent la politique qu'elles entendent mener pour favoriser le développement de la formation continue conventionnelle et en arrêtent les modalités de financement et de gestion.
+
+6.3.1. Thèmes de formation
+
+La commission socioprofessionnelle nationale FCC arrête annuellement, avant le 1er juillet, la liste des thèmes d'actions de formation qu'elle entend promouvoir pour l'année suivante ainsi que le calendrier prévisionnel de l'appel d'offres FCC.
+
+L'ensemble de ces thèmes constitue le " programme annuel " de la FCC.
+
+Les parties signataires mandatent l'organisme gestionnaire pour assurer la diffusion de ce programme auprès des organismes de formation continue selon le cahier des charges en vigueur.
+
+6.3.2. Choix des formations
+
+Pour la réalisation de ce programme annuel de formation, les parties signataires confient à l'organisme gestionnaire le lancement et la gestion d'un appel d'offres auprès des organismes de formation continue.
+
+Le cahier des charges relatif à cet appel d'offres est élaboré par la CSPN-FCC.
+
+En vue de l'agrément des projets déposés en réponse à l'appel d'offres, se tiennent :
+
+- une commission d'ouverture des plis, constituée paritairement d'au moins un représentant de chacune des sections de la CSPN-FCC et du représentant de l'OG ;
+
+- une commission des marchés constituée paritairement d'au moins trois représentants de chacune des sections de la CSPN-FCC et du représentant de l'OG, qui examine la qualité pédagogique et vérifie la conformité budgétaire des projets de formation. Elle émet un avis sur chacun des projets de formation ;
+
+- la CSPN-FCC, réunie en commission des agréments, agrée les formations qui lui paraissent les mieux appropriées dans le respect des thèmes retenus pour l'année et des critères définis dans le cahier des charges. Les agréments sont délivrés dans la limite de la dotation attribuée annuellement par la CNAMTS.
+
+La CSPN-FCC confie le suivi et la gestion des formations agréées à l'OG.
+
+6.3.3. Financement des formations relevant de la FCC
+
+Le financement de la FCC est effectué par la CNAMTS sous la forme d'une dotation annuelle destinée à financer au cours de chaque année civile les actions de formation conventionnelle agréées ainsi que les frais de structure de l'OG. Le financement des actions de formation prend la forme d'une prise en charge plafonnée du coût de la formation, par participant, dans les conditions fixées dans le cahier des charges de la FCC transmis aux organismes de formation.
+
+Chaque caisse nationale participe au financement de la FCC à hauteur de la part respective que son régime représente dans les dépenses d'assurance maladie.
+
+La dotation est arrêtée en CSPN, sur proposition de la CSPN-FCC, au cours de l'année qui précède l'année de réalisation des actions de formation conventionnelle et sous réserve de disposer des crédits suffisants sur le Fonds national de l'action sanitaire et sociale (FNASS).
+
+Un protocole de financement est conclu entre la CNAMTS et l'OG pour la durée de la convention nationale, qui fixe les conditions et les modalités de versement de la dotation.
+
+La CSPN-FCC peut procéder à tout contrôle sur pièce ou sur place de l'OG, notamment au moyen d'audit.
+
+6.3.4. Indemnisation pour perte de ressources du masseur- kinésithérapeute formé dans le cadre du dispositif de la FCC
+
+Les caisses nationales s'engagent à favoriser la participation des masseurs-kinésithérapeutes exerçant à titre libéral, placés sous le régime de la convention, aux actions de FCC, en prévoyant le versement d'une indemnité de formation compensatrice de perte de ressources aux masseurs-kinésithérapeutes libéraux conventionnés.
+
+Chaque caisse nationale participe au financement des indemnisations à hauteur de la part respective que son régime représente dans les dépenses d'assurance maladie.
+
+Cette dotation annuelle est arrêtée en CSPN, sur proposition de la CSPN-FCC, au cours de l'année qui précède l'année de réalisation des actions de formation conventionnelle et sous réserve de disposer de crédits suffisants sur le Fonds national de l'action sanitaire et sociale (FNASS). Elle couvre l'indemnisation de l'ensemble des participants prévus aux formations agréées de l'année civile d'exercice.
+
+a) Champ d'application
+
+Les masseurs-kinésithérapeutes peuvent prétendre au versement d'une indemnité quotidienne pour perte de ressources, sous réserve de remplir les conditions suivantes :
+
+- exercer sous le régime de la présente convention dans le cadre libéral ;
+
+- suivre, dans son intégralité, une action de formation titulaire de l'agrément conventionnel et d'une durée au moins égale à deux journées ouvrables consécutives ;
+
+- ne pas avoir exercé pendant la durée effective de la formation ;
+
+- ne pas avoir perçu, dans l'année civile au cours de laquelle s'est tenue l'action de formation conventionnelle, le nombre maximum d'indemnités quotidiennes pour perte de ressources précisé ci-après.
+
+Seules sont indemnisables les journées ouvrables.
+
+b) Montant de l'indemnité pour perte de ressources
+
+Le montant de l'indemnité pour perte de ressources est fixé à 110 AMK par jour par participant.
+
+Le montant total des indemnités quotidiennes versées à un masseur-kinésithérapeute participant s'inscrit dans la limite de cinq journées par année civile.
+
+c) Modalités de versement de l'indemnité pour perte de ressources
+
+L'indemnité quotidienne est versée au masseur-kinésithérapeute formé par la caisse primaire d'assurance maladie de son lieu d'exercice, qui agit pour le compte des autres régimes.
+
+Le versement de l'indemnité pour perte de ressources est effectué sur production d'une attestation de participation dûment complétée par l'organisme de formation et le professionnel formé. Elle est visée par l'organisme gestionnaire.
+
+L'attestation de participation comprend notamment les informations suivantes :
+
+- identification du professionnel ;
+
+- numéro d'agrément conventionnel de la formation suivie ;
+
+- thème, lieu, dates de la formation suivie, etc.
+
+Le modèle de l'attestation de participation est arrêté entre les partenaires conventionnels et figure dans le cahier des charges.
+
+L'indemnité pour perte de ressources est versée au professionnel dans un délai de deux mois à compter de la réception par la caisse primaire d'assurance maladie de l'attestation de participation.
+
+6.3.5. Actions de formation conventionnelle interprofessionnelle
+
+Afin de contribuer à l'amélioration de la coordination des soins, la commission socioprofessionnelle nationale peut déterminer, en concertation avec les instances conventionnelles des autres professions de santé libérales, des thèmes réservés à des actions de formation interprofessionnelle.
+
+Ces formations feront l'objet de cahiers des charges spécifiques, déterminés en commun par les instances conventionnelles des différentes professions concernées.
+
+Ces actions ne pourront être financées, pour la part concernant les masseurs-kinésithérapeutes libéraux, que si elles sont agréées par la CSPN-FCC et d'une durée maximale de deux jours.
+
+Le montant de l'indemnisation versée à un masseur-kinésithérapeute dans le cadre d'une formation interprofessionnelle ne pourra ainsi excéder deux journées ouvrables par an. Ces deux journées sont décomptées dans les cinq journées visées plus haut.
+
+Les autres dispositions prévues dans le cadre de la FCC concernant l'agrément des actions de formation, les modalités d'indemnisation des masseurs-kinésithérapeutes participants et l'évaluation des actions de formation s'appliquent à la formation conventionnelle interprofessionnelle.
+
+6.3.6. Gestion des actions de formation
+
+En cas de vide conventionnel ou en cas de résiliation du protocole de financement par l'une ou l'autre des parties, l'UNCAM garantit la prise en charge des actions de formation prévues au cours de l'année civile de sorte qu'elles puissent se réaliser. Les formations concernées sont les formations agréées pour lesquelles des frais ont été avancés par l'organisme de formation à la date où il est informé par l'OG de la résiliation du protocole ou de la date du vide conventionnel.
+
+6.3.7. Evaluation de la formation continue conventionnelle
+
+Au vu des résultats du bilan du programme annuel et de l'évaluation des actions FCC, la CSPN-FCC met en oeuvre toutes les mesures pertinentes destinées à améliorer la qualité et l'efficience de la FCC.
+
+a) Evaluation de l'impact des formations sur les pratiques
+
+La CSPN-FCC est chargée de définir les orientations de l'évaluation pédagogique des formations dispensées dans le cadre du programme annuel de formation conventionnelle et visant à apprécier l'impact des formations sur les pratiques des masseurs-kinésithérapeutes formés.
+
+La CSPN-FCC mandate l'OG pour vérifier si les organismes de formation ont satisfait aux obligations d'évaluation telles que définies dans le cahier des charges de la FCC.
+
+b) Bilan du programme annuel de FCC
+
+Dans le cadre de son rapport annuel d'activité, l'OG réalise un bilan du programme annuel de FCC permettant aux parties signataires d'apprécier notamment le coût et les conditions de réalisation des formations agréées.
+
+L'OG transmet le bilan du programme annuel de formation à la CSPN-FCC sous forme de rapport d'activité.
+
+Fait à Paris, le 3 avril 2007.
+
+TITRE VII
+
+ANNEXES
+
+7.1. Tarifs des honoraires et frais accessoires
 
 Vous pouvez consulter le tableau dans le JO n° 113 du 16/05/2007 texte numéro 245
 
-Les parties conventionnelles s'engagent à mettre en oeuvre les moyens nécessaires pour que ces mesures soient applicables dès le lendemain de la publication de la présente convention au Journal officiel.
+Les IFO, IFR, IFN, IFP, IFS ne sont pas cumulables entre elles, ni avec l'IFD.
 
-Les mesures définies ci-dessus ne s'appliqueront que sous réserve de la publication préalable de la modification de la liste citée à l'article L. 162-1-7 du code de la sécurité sociale.
+7.2. Procédure de régulation médicalisée pour les dossiers présentant des anomalies
 
-Les partenaires conventionnels conviennent de se réunir régulièrement pour analyser les résultats obtenus et envisager les possibilités de revalorisations tarifaires, ou, le cas échéant, de nomenclature, c'est-à-dire, en termes de valorisation de la lettre-clé ou de cotations d'actes, dégagées notamment par les résultats de la maîtrise médicalisée et par les marges prévues par les lois de financement de la sécurité sociale.
+A l'issue du suivi décrit au point 1.5.1, les caisses retiennent les dossiers qui présentent des anomalies au regard des engagements en termes de qualité des soins et de la pratique.
 
-Un premier point d'étape sera entrepris avant la fin de l'année 2007, au vu du projet de loi de financement de la sécurité sociale pour 2008 et des premiers résultats obtenus.
+La CPAM, pour le compte des autres caisses, transmet les dossiers de façon anonyme à la commission socioprofessionnelle départementale (CSPD).
 
-TITRE III : MODALITÉS D'EXERCICE CONVENTIONNEL
+Les caisses doivent effectuer ces investigations au plus tard avant le 30 juin de l'année qui suit l'exercice pour lequel l'activité du professionnel est examinée, pour une présentation ultérieure en CSPD.
 
-3.1. Champ d'application de la convention
+Dès réception des dossiers présélectionnés par la CPAM, la CSPD dispose d'un délai d'un mois maximum pour se prononcer sur les dossiers des professionnels qui lui sont soumis, et notamment :
 
-La présente convention s'applique, d'une part, aux caisses primaires d'assurance maladie, aux caisses de mutualité sociale agricole et aux caisses du régime social des indépendants et, d'autre part, exclusivement aux masseurs-kinésithérapeutes exerçant à titre libéral, pour les soins dispensés au cabinet, au domicile du malade et dans les structures de soins dès lors que ceux-ci sont tarifés à l'acte.
+- examiner l'ensemble des éléments du dossier ;
 
-Pour être prises en charge dans le cadre de la convention, les prestations de masso-kinésithérapie doivent être facturées à l'acte et exécutées par un professionnel libéral conventionné.
+- lever l'anonymat pour les dossiers dont l'activité paraît incompatible avec le respect de soins de qualité ;
 
-Sont exclus du champ d'application de la convention :
+- rendre un premier avis ;
 
-- l'activité des masseurs-kinésithérapeutes exerçant dans des locaux commerciaux ;
+- en avertir la CPAM.
 
-- les masseurs-kinésithérapeutes salariés exclusifs exerçant dans un établissement public ou privé d'hospitalisation ou dans un centre de santé.
+Dès l'avis rendu par la CSPD, la CPAM, pour le compte des autres caisses :
 
-Les masseurs-kinésithérapeutes sont tenus de faire connaître aux caisses leur numéro d'inscription à l'ordre des masseurs-kinésithérapeutes de leur département d'exercice, ainsi que l'adresse de leur lieu d'exercice professionnel principal et/ou secondaire.
+- informe les masseurs-kinésithérapeutes concernés de l'examen de leur dossier par la CSPD et leur transmet ses constatations ainsi que les pièces afférentes à son dossier par lettre recommandée avec accusé de réception ;
 
-Il peut s'agir soit d'un cabinet personnel, soit d'un cabinet de groupe, soit d'une société. Les masseurs-kinésithérapeutes doivent faire connaître aux caisses les modifications intervenues dans leur mode d'exercice dans un délai de deux mois au maximum à compter de cette modification.
+- informe simultanément la CSPD de cette démarche.
 
-Lorsqu'un masseur-kinésithérapeute a la qualité de salarié d'un professionnel de santé libéral, il doit faire connaître aux caisses : le nom, l'adresse et la qualification de son employeur et l'indication de son propre numéro d'immatriculation à la sécurité sociale.
+La procédure applicable est celle décrite au b du point 5.4.1 de la convention nationale.
 
-Les masseurs-kinésithérapeutes placés sous le régime de la présente convention s'obligent à ne pas utiliser comme moyen de publicité (*) auprès du public la prise en charge des soins de masso-kinésithérapie par les caisses d'assurance maladie.
+7.3. Modalités pratiques relatives à la télétransmission
 
-Pour donner lieu à remboursement sur la base des tarifs conventionnels, les soins dispensés doivent être effectués soit à domicile en cas de nécessité médicale, soit dans des locaux distincts de tout local commercial et sans aucune communication avec celui-ci.
+7.3.1. Mise en oeuvre de la télétransmission
 
-3.2. La démographie des masseurs-kinésithérapeutes
+Equipement informatique du masseur-kinésithérapeute
 
-Les parties signataires soulignent que l'installation des masseurs-kinésithérapeutes libéraux - comme pour l'ensemble des professionnels de santé - est caractérisée par de fortes disparités géographiques. De ce fait, dans les zones à faible densité démographique, les patients peuvent rencontrer des difficultés d'accès aux soins, tandis que les conditions de travail des professionnels de santé sont dégradées.
+Le masseur-kinésithérapeute a la liberté de choix de l'équipement informatique grâce auquel il effectue la télétransmission des feuilles de soins électroniques (FSE).
 
-Afin de mettre en oeuvre une politique de gestion prévisionnelle de la démographie et de la répartition géographique de l'activité, en partenariat notamment avec l'Etat et les collectivités territoriales, les parties signataires estiment nécessaire d'obtenir un constat détaillé de l'état de la démographie des masseurs-kinésithérapeutes au niveau local.
+Pour assurer l'élaboration et la télétransmission des feuilles de soins électroniques sécurisées, le masseur-kinésithérapeute s'engage à se doter :
 
-Les missions régionales de santé (MRS), créées par la loi de réforme de l'assurance maladie du 13 août 2004, ont notamment pour mission de définir les zones rurales et urbaines déficitaires en offre de soins de masso-kinésithérapie.
+- ou bien d'un logiciel agréé par le Centre national de dépôt et d'agrément de l'assurance maladie (CNDA) et d'un lecteur de cartes homologué conforme aux référentiels publiés par le GIE SESAM-Vitale ;
 
-Dès publication de l'arrêté déterminant les zones déficitaires, les partenaires conventionnels conviennent de proposer des mesures structurantes pour remédier aux difficultés rencontrées dans ces zones.
+- ou bien d'un dispositif équivalent, homologué conforme au référentiel publié par le GIE SESAM-Vitale ;
 
-Les parties signataires mettront notamment en oeuvre des outils complémentaires qui permettront aux masseurs-kinésithérapeutes s'installant dans ces zones de bénéficier d'un accompagnement spécifique et adapté (développement des outils d'aide à l'installation inst@lsanté et  c@rtosanté ).
+- et des moyens de télécommunication suffisants.
 
-En outre, sur les zones considérées comme déficitaires, les partenaires mèneront des réflexions autour du :
+7.3.2. Carte de professionnel de santé
 
-- déploiement d'une offre de service globale dédiée à l'installation des jeunes masseurs-kinésithérapeutes ;
+La réalisation et l'émission de feuilles de soins électroniques conformément aux spécifications SESAM-Vitale nécessitent l'utilisation d'une carte de professionnel de santé.
 
-- soutien au développement de cabinets pluridisciplinaires dans les zones sous-dotées ;
+Le masseur-kinésithérapeute se dote d'une carte de professionnel de santé (CPS ou CPE).
 
-- l'expérimentation de mesures liées aux dispositions législatives prévoyant la possibilité de moduler la participation des caisses aux avantages sociaux des professionnels installés en zone déficitaire.
+7.3.3. Liberté de choix du réseau
 
-Les parties signataires souhaitent évaluer la portée des mesures qui seront mises en place en termes de maintien et d'amélioration de l'offre de soins dans les zones déficitaires.
+La télétransmission des feuilles de soins électroniques nécessite une connexion à un réseau de transmission utilisant le protocole internet conforme aux spécifications du système SESAM-Vitale.
 
-Ils définissent les indicateurs de suivi et d'évaluation à mettre en oeuvre.
+Le masseur-kinésithérapeute a le libre choix de son fournisseur d'accès internet ou de tout service informatique dès lors qu'il est conforme aux spécifications du système SESAM-Vitale et compatible avec la configuration de son équipement.
 
-Une première évaluation aura lieu au terme d'une année de mise en oeuvre : elle permettra aux partenaires conventionnels de décider d'éventuelles mesures d'ajustement du dispositif.
+Il peut aussi recourir à un organisme concentrateur technique (OCT), dans le respect des dispositions légales et réglementaires ayant trait à l'informatique, aux fichiers et aux libertés et relatives à la confidentialité et à l'intégrité des feuilles de soins électroniques.
 
-Les commissions socioprofessionnelles régionales, dans le cadre de leurs missions définies au point 5.3.2 de la présente convention, seront l'interlocuteur de la MRS pour la définition des zones ; ces commissions seront également chargées le cas échéant de suivre la mise en oeuvre des dispositifs relatifs à la démographie négociés au plan national.
+Cet organisme tiers, dont le masseur-kinésithérapeute a le libre choix, agit pour le compte et sous la responsabilité du masseur-kinésithérapeute, avec lequel il conclut un contrat à cet effet.
 
-Les parties conventionnelles conviennent également que ces travaux sur la démographie devront intégrer la problématique des zones à forte densité en masseurs-kinésithérapeutes, afin d'envisager les mesures permettant un rééquilibrage de la répartition des professionnels sur le territoire.
+Lorsqu'il souhaite utiliser les services d'un OCT, le masseur-kinésithérapeute doit impérativement s'assurer que les procédures de mise en oeuvre par l'OCT sont conformes aux spécifications de SESAM-Vitale et, le cas échéant, aux autres procédures convenues entre ledit OCT et les organismes destinataires de flux électroniques.
 
-3.3. Délivrance des soins aux assurés
+7.3.4. Procédure de transmission des feuilles de soins électroniques
 
-3.3.1. Modalités pratiques liées à l'activité du professionnel
+a) Etablissement de la feuille de soins électronique
 
-a) Le libre choix du patient
+La télétransmission des feuilles de soins électroniques s'applique à l'ensemble des masseurs-kinésithérapeutes, et des caisses d'assurance maladie du territoire national selon des règles contenues dans les textes législatifs et réglementaires ainsi que dans les spécifications du système SESAM-Vitale en vigueur, complétées des dispositions de la présente convention. Le masseur-kinésithérapeute réalise des télétransmissions des feuilles de soins électroniques pour toutes les catégories d'assurés sociaux.
 
-Les assurés et leurs ayants droit ont le libre choix entre tous les masseurs-kinésithérapeutes légalement autorisés à exercer en France et placés sous le régime de la présente convention.
+b) Validité des informations contenues dans la carte
 
-Les caisses s'engagent à ne faire aucune discrimination entre les masseurs-kinésithérapeutes placés sous le régime de la présente convention et les autres praticiens ou professionnels conventionnés, légalement habilités à dispenser les mêmes actes.
+Sous réserve de l'inscription de la carte Vitale à la liste d'opposition, les informations contenues dans la carte d'assurance maladie le jour de la réalisation de l'acte sont opposables aux caisses comme au masseur-kinésithérapeute et sont seules prises en compte pour le règlement des prestations dues.
 
-Les caisses s'engagent à donner à leurs ressortissants toutes informations utiles sur la situation des masseurs-kinésithérapeutes de leur circonscription au regard de la présente convention. Les syndicats locaux peuvent faire de même à l'égard de leurs adhérents.
+La mise à jour par l'assuré des données administratives contenues dans la carte d'assurance maladie, en particulier pour ce qui concerne la validité des droits ou l'ouverture d'une exonération du ticket modérateur, est de la seule responsabilité des caisses.
 
-b) La situation des remplaçants
+c) Garantie de paiement
 
-Le remplaçant d'un masseur-kinésithérapeute placé sous le régime de la présente convention est tenu de faire connaître aux caisses son numéro d'inscription à l'ordre des masseurs-kinésithérapeutes ainsi que l'adresse du cabinet professionnel dans lequel il assure son activité de remplaçant.
+Les caisses d'assurance maladie s'engagent, en procédure de dispense d'avance des frais, à effectuer le paiement aux masseurs-kinésithérapeutes de la part obligatoire des prestations facturées dans la feuille de soins électronique, sur la base des informations relatives à la couverture maladie obligatoire contenues dans la carte d'assurance maladie au jour de sa présentation.
 
-Durant la période effective de son remplacement, le masseur-kinésithérapeute remplacé s'interdit toute activité dans le cadre conventionnel, à l'exception toutefois du suivi d'une formation continue conventionnelle.
+La garantie de paiement intervient sous réserve que la carte ne figure pas sur la liste d'opposition, laquelle fera l'objet, dès qu'elle sera disponible, d'une consultation en ligne en temps réel.
 
-Les caisses pourront, en tant que de besoin, demander la communication de l'attestation de remplacement.
+d) Liste nationale inter-régimes d'opposition des cartes
 
-Le masseur-kinésithérapeute remplacé vérifie que le masseur-kinésithérapeute remplaçant remplit bien les conditions nécessaires à l'exercice du remplacement dans le cadre de la présente convention. Ainsi, il s'engage à porter à la connaissance de son remplaçant les dispositions de la présente convention et à l'informer des droits et obligations qui s'imposent à lui dans ce cadre.
+L'assurance maladie fait évoluer le système SESAM-Vitale afin de diffuser régulièrement la liste d'opposition aux masseurs-kinésithérapeutes et de permettre son utilisation conformément à la réglementation. La CSPN prendra acte de la mise en oeuvre de cette liste et de ses conséquences.
 
-Le remplaçant prend la situation conventionnelle du remplacé. En conséquence, le masseur-kinésithérapeute remplaçant ne peut remplacer, dans le cadre conventionnel, un masseur-kinésithérapeute déconventionné.
+La liste d'opposition sera constituée des numéros de série, classés par ordre croissant, des cartes définitivement mises en opposition.
 
-L'activité du remplaçant est assimilée à celle du remplacé dans le cadre des suivis d'activité et de dépenses. Cette disposition sera annulée de plein droit dès que la reconnaissance des remplaçants dans les systèmes d'information de l'assurance maladie sera mise en oeuvre
+Elle est accessible sous forme électronique. Elle nécessite l'utilisation de la dernière version du cahier des charges ou de son addendum mis en oeuvre par les éditeurs, publiée par le GIE SESAM-Vitale.
 
-3.3.2. Documents ouvrant droit au remboursement des prestations
+La diffusion aux masseurs-kinésithérapeutes de la liste d'opposition débutera un an après la date à laquelle le GIE SESAM-Vitale aura mis à la disposition des sociétés de service informatiques intéressées l'ensemble des éléments permettant d'accéder à cette liste et de l'utiliser. Cette date sera constatée par la commission socioprofessionnelle nationale.
 
-Les masseurs-kinésithérapeutes s'engagent à n'utiliser que les feuilles de soins, imprimés et documents sur support papier ou électronique conformes aux modèles prévus par les lois et règlements en vigueur.
+A l'expiration du délai mentionné ci-dessus, seuls les masseurs-kinésithérapeutes équipés d'un logiciel agréé ou d'un dispositif homologué permettant l'utilisation de la liste d'opposition bénéficieront, en cas de dispense d'avance des frais, de la garantie de paiement.
 
-Pour les actes dispensés dans un établissement ou une structure d'hébergement et non pris en charge par l'assurance maladie à un autre titre (forfait de soins,...), les masseurs-kinésithérapeutes doivent noter sur la feuille de soins, à côté du pavé d'identification, l'adresse et la raison sociale de l'établissement (maison de retraite, foyer logement...) ou de la structure où ont été effectués les soins.
+7.3.5. Transmission des feuilles de soins électroniques
 
-L'UNCAM s'engage à consulter les organisations syndicales nationales signataires préalablement à toute création ou modification d'imprimés nécessaires à l'application de la législation et de la réglementation de la sécurité sociale.
+Le masseur-kinésithérapeute s'engage à adresser à la caisse d'affiliation de l'assuré les feuilles de soins par voie électronique dans les délais réglementairement fixés.
 
-3.3.3. Rédaction des ordonnances
+a) Tiers payant légal
 
-Le masseur-kinésithérapeute formule ses prescriptions sur une ordonnance portant, de façon lisible, son nom, son adresse et son numéro d'identification ainsi que le nom et le prénom du bénéficiaire.
+La gestion du tiers payant légal par l'assurance maladie obligatoire suit les mêmes modalités que celles de la délégation de paiement conventionnelle.
 
-Les ordonnances sont formulées quantitativement et qualitativement avec toute la précision nécessaire ; elles doivent être conformes à la réglementation en vigueur.
+b) Tri et transmission des ordonnances
 
-En application de l'article L. 162-8 du code de la sécurité sociale, lorsqu'il prescrit un dispositif médical non remboursable, le masseur-kinésithérapeute en informe son patient et porte la mention NR sur l'ordonnance, en face de la spécialité ou du produit concerné.
+En cas de dispense d'avance des frais et sauf disposition particulière énoncée à l'alinéa suivant, le masseur-kinésithérapeute s'engage à transmettre simultanément les ordonnances papier à l'organisme d'assurance maladie (régime de l'assuré mais circonscription d'exercice du professionnel de santé) dans les mêmes délais que ceux réglementairement prévus pour la transmission des feuilles de soins électroniques, et non à la caisse gestionnaire de l'assuré.
 
-Les parties signataires à la présente convention s'engagent à porter à la connaissance des partenaires locaux toute information utile sur les modalités d'application du droit de prescription des masseurs-kinésithérapeutes.
+Si l'ordonnance est déjà transmise à la caisse de l'assuré avec une demande d'entente préalable ou si l'ordonnance est transmise à l'appui d'une feuille de soins antérieure, aucune copie n'en sera exigée par la caisse.
 
-3.3.4. Facturation des honoraires
+Ces dispositions sont applicables uniquement lorsque aucune disposition réglementaire ou conventionnelle locale n'a expressément prévu ces cas.
 
-Lors de chaque acte, le masseur-kinésithérapeute porte sur la feuille de soins ou le document de facturation toutes les indications prévues par la réglementation en vigueur :
+Dans tous les cas, l'ordonnance est nécessaire pour la prise en charge des soins.
 
-- lorsqu'il réalise des actes ou prestations remboursables par l'assurance maladie, le masseur-kinésithérapeute est tenu de mentionner ces actes sur une feuille de soins ou tout autre support en tenant lieu ;
+c) Traitement des incidents
 
-- lorsque le masseur-kinésithérapeute réalise des actes ou prestations non remboursables par l'assurance maladie, ce dernier n'établit pas de feuille de soins ni d'autre support en tenant lieu, conformément à l'article L. 162-8 du code de la sécurité sociale ;
+Informations réciproques :
 
-- dans les situations où le masseur-kinésithérapeute réalise des actes ou prestations remboursables (y compris le DE) et non remboursables au cours de la même séance, il porte uniquement les premiers sur la feuille de soins.
+Les partenaires conventionnels s'engagent à s'informer réciproquement de tout dysfonctionnement du système et à collaborer pour y apporter une réponse appropriée dans les meilleurs délais.
 
-La prestation des soins, y compris lorsqu'il s'agit d'actes en série, doit être mentionnée au jour le jour, en utilisant la cotation prévue à la nomenclature générale des actes professionnels.
+Dysfonctionnement lors de l'élaboration des feuilles de soins électroniques :
 
-Le masseur-kinésithérapeute est tenu d'inscrire, sur la feuille de soins ou le document de facturation, l'intégralité du montant des honoraires (y compris le DE) qu'il a perçus au titre des actes remboursables et en donne l'acquit par sa signature.
+En cas de dispense d'avance des frais et d'impossibilité de produire une feuille de soins électronique sécurisée, chaque organisme d'assurance maladie peut autoriser le masseur-kinésithérapeute à lui transmettre des feuilles de soins électroniques en mode " dégradé ", c'est-à-dire non signées électroniquement par l'assuré. Parallèlement, le masseur-kinésithérapeute transmet la feuille de soins papier correspondante à l'organisme d'assurance maladie. La feuille de soins ainsi transmise comporte explicitement la notion de télétransmission en mode " dégradé ".
 
-Il ne donne l'acquit que pour les actes qu'il a accomplis personnellement, et pour lesquels il a perçu l'intégralité des honoraires dus, réserve faite des dispositions du point 3.3.6.
+Dans tous les autres cas d'impossibilité de produire une feuille de soins électronique, le masseur-kinésithérapeute remplit une feuille de soins sur support papier sans mention particulière.
 
-En cas d'actes en série, sous réserve de respecter les dispositions prévues au présent point, le masseur-kinésithérapeute peut éventuellement donner l'acquit des honoraires lorsque la série des séances est achevée.
+Dysfonctionnement lors de la transmission des feuilles de soins électroniques :
 
-Sous réserve d'une modification éventuelle de la réglementation en vigueur, le masseur-kinésithérapeute remplit et signe les imprimés nécessaires aux demandes d'entente préalable dans les conditions prévues à la nomenclature générale des actes professionnels.
+En cas d'échec de la télétransmission d'une feuille de soins électronique, le masseur-kinésithérapeute fait une nouvelle tentative dans les délais réglementairement prévus. En cas de nouvel échec dans la télétransmission de la feuille de soins électronique, et selon les conditions décrites par le code de la sécurité sociale, le masseur-kinésithérapeute établit un duplicata sous forme papier de la feuille de soins électronique.
 
-En aucun cas, la feuille de soins acquittée ne doit être conservée par le masseur-kinésithérapeute, sous réserve des dispositions réglementaires ou contractuelles particulières applicables à certaines catégories d'assurés.
+Ce duplicata mentionne expressément le motif de sa délivrance et les références de la FSE non transmise (numéro de FSE et de lot).
 
-3.3.5. Facturation des soins effectués par un masseur-kinésithérapeute salarié
+En cas de duplicata d'une feuille de soins établie sans dispense d'avance des frais consentie à l'assuré, le masseur-kinésithérapeute signe le duplicata et le remet à l'assuré.
 
-Lorsque les actes sont effectués par un masseur-kinésithérapeute salarié d'un membre d'une profession médicale ou d'un auxiliaire médical :
+En cas de duplicata de dispense totale ou partielle des frais consentie à l'assuré, le masseur-kinésithérapeute adresse à la caisse gestionnaire de l'assuré le duplicata de la feuille de soins signé par lui-même et si possible par l'assuré ; à défaut, il coche la case " l'assuré n'a pas pu signer ".
 
-- les feuilles de maladie sur lesquelles sont inscrits les soins doivent permettre l'identification nominale et codée de l'employeur, suivie de l'identification nominale du masseur-kinésithérapeute salarié ;
+d) Les retours d'information
 
-- le masseur-kinésithérapeute salarié atteste la prestation de l'acte et le professionnel de santé employeur le paiement des honoraires ; ils apposent respectivement leur signature dans la colonne réservée à l'exécution de l'acte et dans la colonne réservée à l'attestation du paiement des honoraires ;
+Les retours tiers sont les informations transmises par l'assurance maladie sous la norme NOEMIE concernant l'état de la liquidation des prestations servies par le masseur-kinésithérapeute.
 
-- la signature du professionnel de santé employeur, sur la feuille de soins, engage sa responsabilité sur l'application, par le masseur-kinésithérapeute salarié, des cotations de la nomenclature générale des actes professionnels et des tarifs en vigueur.
+Les caisses s'engagent à développer la norme NOEMIE afin de permettre aux professionnels de santé de disposer des informations utiles et d'améliorer leur lisibilité. Son développement implique en particulier la définition des informations essentielles permettant l'identification et le traitement de la facturation de tout autre paiement ou régulation comptable.
 
-Ces différentes conditions doivent être obligatoirement remplies pour que ces actes donnent lieu à un remboursement par la caisse.
+Les parties signataires définissent les principaux éléments du retour :
 
-3.3.6. Modalités de paiement des honoraires
+- le libellé sera identifié par les caractéristiques de la facture transmise. Il sera commun à tous les organismes d'assurance maladie obligatoire, excepté les situations spécifiques ;
 
-a) Le règlement direct
+- le retour correspondra au virement bancaire effectué sur la base du total du remboursement issu des traitements effectués par la caisse pour une journée comptable donnée. Il ne peut pas être partiel ;
 
-Le patient règle directement au masseur-kinésithérapeute ses honoraires. Seuls donnent lieu à un remboursement par l'assurance maladie les actes prescrits pour lesquels le masseur-kinésithérapeute atteste qu'ils ont été dispensés et rémunérés, conformément à la réglementation en vigueur.
+- le cumul, la régulation ou la récupération d'indus seront clairement signalés ;
 
-Pour les assurés bénéficiaires d'actes dispensés à titre gratuit, le masseur-kinésithérapeute peut porter, sur la feuille de soins, la mention " acte gratuit ".
+- le rejet sera accompagné des informations permettant d'identifier l'erreur. Il impliquera la modification et le renvoi de la facture par le masseur-kinésithérapeute ;
 
-b) Modalités particulières
+- tout mouvement financier ou paiement conventionnellement prévu sera spécifié distinctement des factures.
 
-Actes réalisés dans un établissement de santé privé ne participant pas au service public hospitalier :
+7.4. Règlements intérieurs types des instances conventionnelles (CSPN, CSPR et CSPD)
 
-Pour les actes de masso-kinésithérapie effectués au cours d'une hospitalisation dans un établissement de santé privé ne participant pas au service public hospitalier, la part garantie par la caisse peut, dans les conditions prévues par la législation en vigueur, être versée selon le choix du professionnel :
+Les instances sont mises en place dans les trois mois suivant la date d'entrée en vigueur de la convention.
 
-- soit globalement à un praticien, exerçant dans l'établissement, désigné par l'ensemble des dispensateurs de soins ;
+Réunions et tenue du secrétariat :
 
-- soit individuellement, à chaque masseur-kinésithérapeute.
+La commission se réunit en tant que de besoin et au moins deux fois par an en ce qui concerne la CSPN et les CSPD et une fois par an pour les CSPR.
 
-Dispense d'avance des frais :
+La réunion est de droit lorsqu'elle est demandée par le président ou par le vice-président.
 
-En dehors des cas de dispenses d'avance des frais légales (aide médicale d'Etat, CMU,...), le masseur-kinésithérapeute libéral peut accepter, dans des cas exceptionnels justifiés par des situations sociales particulières, le paiement différé de ses honoraires.
+Les convocations sont adressées par le secrétariat aux membres de la commission, quinze jours avant la date de la réunion, accompagnées de l'ordre du jour, établi par le secrétariat en accord avec le président et le vice-président et, le cas échéant, de la documentation nécessaire.
 
-Dans ce cas, le masseur-kinésithérapeute coche, sur la feuille de soins, la (les) case(s) suivante(s) : " l'assuré(e) n'a pas payé la part obligatoire " et/ou " l'assuré(e) n'a pas payé la part complémentaire ".
+Les moyens nécessaires à la tenue du secrétariat et au fonctionnement de l'instance sont mis en place par les caisses locales, pour ce qui concerne les instances départementales, par l'URCAM pour ce qui concerne les instances régionales et par l'UNCAM en ce qui concerne les instances nationales. Le secrétariat assure toutes les tâches administratives de l'instance (convocations, relevés de décisions, constat de carence...).
 
-La procédure de paiement différé des honoraires s'applique pour les dépenses relevant des risques maladie et maternité, au sens du code de la sécurité sociale.
+Délibérations :
 
-Tout assuré entrant dans l'un des cas visés au présent article et porteur d'une prescription de soins de masso-kinésithérapie peut, sur présentation de sa carte Vitale ou de son attestation d'ouverture de droit, solliciter le bénéfice du paiement différé des honoraires dus au masseur-kinésithérapeute.
+La commission ne peut délibérer valablement que si le quorum est atteint.
 
-La procédure de dispense d'avance des frais ne pourra cependant être utilisée que pour les actes effectués à l'occasion d'un traitement de longue durée dont le coût total est au moins égal à 30 AMK.
+Le quorum s'entend comme un nombre de membres présents ou valablement représentés au moins égal à la moitié des membres composant chacune des sections.
 
-En l'absence d'ouverture des droits aux prestations, la caisse en avise le masseur-kinésithérapeute et l'assuré. Elle restitue le dossier de l'assuré concerné au masseur-kinésithérapeute.
+En l'absence de quorum, une nouvelle commission est convoquée dans un délai de quinze jours. Elle délibère valablement quel que soit le nombre de membres présents, sous réserve que la parité soit respectée.
 
-En cas d'erreur de transmission du dossier, la caisse précise, s'il y a lieu, l'organisme dont relève l'assuré afin que le masseur-kinésithérapeute le lui transmette.
+En l'absence du titulaire ou du suppléant, une délégation de vote est donnée à un représentant présent de la même section.
 
-En l'absence d'exonération du ticket modérateur constatée lors de la liquidation, la caisse règle la part due par l'assurance maladie au masseur-kinésithérapeute.
+Les membres de la commission sont soumis au secret des délibérations.
 
-Le recouvrement de la participation de l'assuré est laissé à la diligence du masseur-kinésithérapeute.
+Conditions de vote :
 
-Le masseur-kinésithérapeute ne peut, lorsqu'il utilise cette procédure, appliquer les dispositions de la convention concernant les dépassements (DE).
+Les décisions sont prises à la majorité des suffrages exprimés. Le nombre de votes est calculé sans tenir compte des bulletins blancs ou nuls.
 
-Le règlement des dossiers s'effectuera directement par la caisse au masseur-kinésithérapeute, pour la part obligatoire, dans un délai qui ne saurait excéder quinze jours en cas de feuille de soins papier et cinq jours en cas de feuille de soins électronique.
+En cas de partage égal des voix et s'il n'est pas présenté de proposition transactionnelle, la délibération sur le point litigieux est reportée à une réunion ultérieure de l'instance intervenant au plus tard dans le mois qui suit.
 
-3.4. Télétransmission des documents nécessaires au remboursement
+Il est alors procédé à un second vote. La décision est adoptée à la majorité simple des voix exprimées. En cas de maintien du partage égal des voix lors de cette deuxième réunion, la voix du président est prépondérante.
 
-Dans le cadre de la réglementation relative à la télétransmission des feuilles de soins électroniques, les parties signataires ont défini comme suit les modalités de transmission par voie électronique des documents nécessaires au remboursement des actes de masso-kinésithérapie.
+Les délibérations font l'objet d'un relevé de décisions signé par le président et par le vice-président. Ce document, conservé par le secrétariat, est adressé à chaque membre, titulaire ou suppléant, de la commission, puis soumis à l'approbation des membres à la séance suivante.
 
-3.4.1. Télétransmission des feuilles de soins électroniques par les masseurs-kinésithérapeutes
+Les instances départementales et régionales adressent, après approbation et signature, leurs relevés de décisions à l'UNCAM.
 
-Tout masseur-kinésithérapeute adhérant à la présente convention s'engage à offrir le service de la télétransmission des feuilles de soins aux assurés sociaux.
+La constitution de groupes de travail :
 
-Il met en oeuvre les moyens nécessaires à la réalisation et à l'émission des feuilles de soins électroniques conformément à la réglementation et à la dernière version du cahier des charges ou l'addendum du cahier des charges, publié par le GIE SESAM-Vitale.
+Chaque instance conventionnelle met en place les groupes de travail qu'elle juge nécessaire.
 
-Les parties signataires à la convention favorisent la procédure d'échange électronique des feuilles de soins sécurisées, notamment en menant des actions partenariales en direction des masseurs-kinésithérapeutes qui ne facturent pas sous format électronique SESAM-Vitale.
+Indemnité de vacation :
 
-Ces actions se traduisent notamment par l'identification des correspondants dans chaque organisme local de l'assurance maladie, de manière à apporter toutes les informations, l'assistance et le conseil qui leur sont nécessaires, sur le dispositif SESAM-Vitale et sa mise en oeuvre.
+Les représentants des organisations syndicales signataires des masseurs-kinésithérapeutes, membres de la commission, ont droit à une indemnité de vacation égale à 50 AMK et à une indemnité de déplacement, pour leur participation aux réunions de la commission.
 
-Compte tenu des aides décrites ci-après, les parties signataires conviennent de faire progresser de manière significative le taux de télétransmission des feuilles de soins électroniques d'ici le terme de la convention. Ils s'engagent sur une progression annuelle du taux de télétransmission, avec pour objectif d'atteindre à terme un taux de télétransmission de l'ordre de 85 %.
+Carence :
 
-Les parties signataires s'accordent pour considérer que c'est par l'incitation des praticiens à télétransmettre, et non par des sanctions conventionnelles, que cet objectif pourra être atteint.
+Il y a situation de carence dans les cas suivants :
 
-3.4.2. Maintenance et évolution du système SESAM-Vitale
+- défaut d'installation dans le délai imparti : dans ce cas, la section valablement constituée constate la carence et adresse, le cas échéant, ce constat à la CSPN, qui assure alors ses missions ;
 
-L'assurance maladie met en oeuvre les moyens nécessaires :
+- dysfonctionnement : non-tenue de réunion résultant de l'incapacité répétée (deux fois consécutives) des sections soit à fixer une date de réunion, soit à arrêter un ordre du jour commun du fait de l'une ou l'autre section ;
 
-- pour spécifier et organiser au mieux les évolutions du système SESAM-Vitale imposées par la réglementation, contraintes par des changements techniques ou demandées par les usagers ;
+- absence répétée de quorum (deux fois consécutives) à des réunions ayant donné lieu à convocation officielle, du fait de l'une ou l'autre des sections ;
 
-- pour faciliter aux masseurs-kinésithérapeutes les opérations de mise à jour du système qui les concernent.
+- refus répété (deux fois consécutives), par l'une ou l'autre section, de voter un point inscrit à l'ordre du jour.
 
-Le masseur-kinésithérapeute met en oeuvre les moyens nécessaires :
+Dans tous les cas, un constat de carence est dressé. Le cas échéant, la section à l'origine de la situation de carence est invitée par le président ou le vice-président à prendre toute disposition pour remédier à la situation dans les meilleurs délais. Si aucune solution n'est intervenue dans le mois suivant le constat, la section n'étant pas à l'origine de la carence exerce les attributions dévolues à cette instance jusqu'à ce qu'il soit remédié à la situation de carence.
 
-- pour intégrer en temps utile les évolutions de son équipement lui permettant de rester conforme à la réglementation et à la dernière version en vigueur du système SESAM-Vitale ;
-
-- pour assurer au mieux la continuité du service de la télétransmission au bénéfice des assurés sociaux et pour respecter les délais réglementaires de transmission des feuilles de soins électroniques, également en cas de dysfonctionnement de son équipement.
-
-3.4.3. Aides à la télétransmission
-
-a) Aide pérenne
-
-Les masseurs-kinésithérapeutes reçoivent, à compter de la date d'entrée en vigueur de la convention, une aide forfaitaire annuelle d'un montant de 300 euros.
-
-Cette aide est octroyée pour les FSE élaborées, émises par le masseur-kinésithérapeute et reçues par la caisse conformément aux spécifications SESAM-Vitale, lorsque la part d'activité télétransmise correspond au moins à 70 %. Concernant les masseurs-kinésithérapeutes dont le taux de télétransmission se situe entre 65 % et 70 %, la commission socioprofessionnelle départementale examinera les situations individuelles et, en fonction des motifs de non-atteinte du taux de 70 %, pourra décider à titre dérogatoire du versement de l'aide pérenne.
-
-Le taux de télétransmission est égal au ratio entre le nombre d'actes télétransmis et le nombre d'actes total établi selon les données issues du système national informationnel de l'assurance maladie. Le calcul s'effectue sur la période du 1er janvier au 31 décembre de l'année considérée ou, lorsque le professionnel a démarré la télétransmission au cours de l'année, à compter du premier jour du mois qui suit sa date de première feuille de soins électronique sécurisée.
-
-La télétransmission d'une feuille de soins non sécurisée ne peut faire l'objet d'une aide à la télétransmission.
-
-b) Aide à la maintenance
-
-En contrepartie de l'obligation de maintenance, une aide forfaitaire de 100 euros sera versée chaque année à la condition d'avoir transmis au moins une feuille de soins électronique sécurisée au cours de l'année considérée.
-
-c) Aide CPS
-
-Les coûts relatifs à l'attribution de la carte de professionnel de santé sont pris en charge par les caisses pour la durée de la présente convention. Il en va de même pour les coûts relatifs à la carte dite de personnels d'établissements (CPE) attribuée à leur salarié, dans la limite d'une CPE par masseur-kinésithérapeute libéral conventionné.
-
-d) Modalités de versement
-
-Chaque aide est versée annuellement par les caisses d'assurance maladie, au plus tard au mois de mars de chaque année au titre de l'année civile précédente.
-
-Chaque aide est versée par la caisse primaire d'assurance maladie du lieu d'installation du masseur-kinésithérapeute, pour le compte de l'ensemble des régimes.
-
-3.4.4. Comité technique paritaire permanent
-
-L'information des procédures, la dématérialisation des documents, le développement des échanges électroniques, la mise en place des services en ligne s'inscrivent dans le cadre des échanges entre les masseurs-kinésithérapeutes et les caisses d'assurance maladie.
-
-Ces échanges doivent permettre à chaque partie d'évaluer et d'harmoniser ses propres besoins par une réponse technique appropriée.
-
-Un comité technique paritaire permanent sera donc instauré près la CSPN.
-
-a) Attributions
-
-Les attributions de ce comité seront spécifiques aux masseurs-kinésithérapeutes dans le cadre des échanges de données dématérialisées et de leur engagement conventionnel de télétransmission SESAM Vitale après expertise et accord par la profession de l'impact des évolutions de SESAM Vitale sur le poste de travail du masseur-kinésithérapeute en termes de coûts, de contraintes techniques et financières (matériel, fournisseurs d'accès internet, normalisation des systèmes, maintenance...).
-
-Ce comité sera saisi de tout dysfonctionnement, évolution et modification du système et examinera les réponses pour garantir la continuité et l'adaptabilité du service de la télétransmission des FSE.
-
-Il analysera et assurera éventuellement le suivi des procédures informatiques de gestion de la dispense d'avance des frais, relative à la CMU ou à tout autre dispositif issu de la réglementation (modalités d'application de la DRE issues de la version 1.40 de SESAM Vitale) ou expérimentation si celle-ci est compatible avec l'exercice libéral.
-
-b) Objectifs
-
-Le comité examinera, conjointement avec l'UNCAM, les propositions des services en ligne (SEL) sur :
-
-- la liste d'opposition ;
-
-- la dématérialisation des supports papier (bordereaux tiers payant) ;
-
-- la messagerie sécurisée permettant l'envoi électronique des fiches de synthèse des bilans ;
-
-- le DMP ;
-
-- etc.
-
-Le comité participera aux groupes techniques pour l'élaboration et l'adaptation de ces nouveaux services proposés aux masseurs-kinésithérapeutes afin d'assurer l'appropriation par la profession, notamment, de :
-
-- l'application de la norme Noémie 580 ;
-
-- la liste d'opposition ;
-
-- l'examen avec l'UNCAM des conditions et des modes d'exercice des masseurs-kinésithérapeutes pour satisfaire l'obligation de télétransmettre afin de déterminer les dérogations et les taux pour bénéficier de l'aide pérenne.
-
-Le comité définira les outils nécessaires pour télétransmettre ou utiliser les services en ligne.
-
-Il mandatera les expertises techniques via la CSPN pour analyser l'impact financier et technique des évolutions de SESAM Vitale et des services en ligne sur le poste de travail du masseur-kinésithérapeute ainsi que les mises à jour de ces systèmes et leur appropriation par la profession.
-
-Il examinera et évaluera les applications et les obligations de la MISS (mission d'informatisation du système de santé) sur le poste de travail du masseur-kinésithérapeute (logiciels, API, chiffrement de transport).
-
-Il procédera à un bilan annuel des actions pédagogiques menées par les CSPD sur le dispositif de télétransmission.
-
-Ce comité se réunira au moins deux fois par an et/ou à la demande d'une des parties en tant que de besoin.
-
-En annexe 7.3, est précisé l'ensemble des modalités pratiques relatives à la télétransmission.
-
-3.5. Cotation et hiérarchisation des actes
-
-3.5.1. Cotation et codage des actes
-
-Les masseurs-kinésithérapeutes s'engagent à respecter les dispositions prévues à la liste mentionnée à l'article L. 162-1-7 du code de la sécurité sociale et à en utiliser les cotations.
-
-Les syndicats signataires et les caisses s'engagent à faciliter la mise en oeuvre du codage des actes pour ce qui concerne les masseurs-kinésithérapeutes.
-
-3.5.2. Commission de hiérarchisation des actes de masso-kinésithérapie
-
-Afin d'assurer une plus grande concertation entre partenaires en matière de cotation et de codage des actes, une commission de hiérarchisation des actes et des prestations de masso-kinésithérapie est créée en application de l'article L. 162-1-7 du code de la sécurité sociale.
-
-a) Rôle de la commission
-
-Cette commission a pour objet de définir les règles de hiérarchisation des actes et prestations de masso-kinésithérapie pris en charge ou remboursés par l'assurance maladie et de valider la hiérarchisation qui en résulte. Elle peut faire appel, en tant que de besoin, à des experts, des sociétés savantes ou des experts économistes.
-
-En cas de divergence d'interprétation de la nomenclature, la CHAP peut être saisie, pour avis, conjointement par l'UNCAM et les syndicats signataires.
-
-b) Composition de la commission
-
-La commission est composée de représentants des syndicats représentatifs et de représentants de l'UNCAM. Un représentant de l'Etat assiste à ses travaux.
-
-Sont membres avec voix délibérative :
-
-Deux collèges comprenant autant de membres chacun :
-
-- le collège professionnel, composé de deux représentants pour chaque syndicat représentatif des masseurs-kinésithérapeutes, avec, pour chacun d'entre eux, un titulaire et un suppléant ;
-
-- le collège de l'UNCAM comprenant autant de membres (titulaires et suppléants) que le collège professionnel ;
-
-- un président désigné d'un commun accord par les membres de la commission.
-
-Peuvent assister aux travaux avec voix consultative :
-
-- un représentant de l'Agence technique de l'information sur l'hospitalisation (ATIH) et/ou de la direction de l'hospitalisation et de l'organisation des soins (DHOS) ;
-
-- un représentant de la Haute Autorité de santé (HAS).
-
-Le secrétariat de cette commission est assuré par l'UNCAM.
-
-c) Indemnisation des membres de la commission
-
-Le président et les membres titulaires du collège professionnel de la commission, ou, en leur absence, les membres suppléants, perçoivent une indemnité pour perte de ressources dont le montant est établi selon les règles d'indemnisation définies par la convention nationale des masseurs-kinésithérapeutes pour la commission socioprofessionnelle nationale.
-
-Les frais de déplacement du président, des membres titulaires du collège professionnel de la commission (ou, en leur absence, des membres suppléants) et des personnalités ou experts désignés par le président après avis de la commission, sont pris en charge par la CNAMTS dans les conditions applicables aux agents de direction de la CNAMTS.
-
-Des honoraires peuvent être versés aux personnalités ou experts désignés par le président après avis de la commission. Le montant de ces honoraires est fixé au cas par cas par le président, en fonction de l'importance des travaux demandés.
-
-d) Règlement intérieur
-
-La commission élabore et adopte un règlement intérieur, qui précise notamment les règles de convocation aux réunions, de fixation de l'ordre du jour, de quorum et de vote.
-
-3.6. Tarifs
-
-Les tarifs d'honoraires et frais accessoires correspondant aux soins dispensés aux assurés et à leurs ayants droit sont mentionnés en annexe.
-
-Le masseur-kinésithérapeute s'interdit tout dépassement en dehors des cas ci-après : circonstances exceptionnelles de temps ou de lieu dues à une exigence particulière du malade, telles que soins donnés à heure fixe ou en dehors de l'horaire normal d'activité du masseur-kinésithérapeute, déplacement anormal imposé au masseur-kinésithérapeute à la suite du choix par le malade d'un masseur-kinésithérapeute éloigné de sa résidence, etc.
-
-En cas de dépassement de tarifs, le masseur-kinésithérapeute fixe ses honoraires avec tact et mesure et indique le montant perçu sur la feuille de soins, ainsi que le motif (DE).
-
-Les parties signataires s'engagent à mettre en oeuvre les moyens de contrôle nécessaires à l'application du tact et de la mesure dans la fixation du DE et du bon usage de celui-ci.
+Lorsque la carence résulte du refus de voter un point inscrit à l'ordre du jour, le constat de carence ne porte que sur ce point.
