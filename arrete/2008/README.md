@@ -1109,7 +1109,6 @@
 - [Arrêté du 28 octobre 2008 (ESRS0824401A)](arrete-du-28-octobre-2008-esrs0824401a)
 - [Arrêté du 28 octobre 2008 (IOCD0825628A)](arrete-du-28-octobre-2008-iocd0825628a)
 - [Arrêté du 28 octobre 2008 (JUSG0818164A)](arrete-du-28-octobre-2008-jusg0818164a)
-- [Arrêté du 28 octobre 2008 (JUSG0818165A)](arrete-du-28-octobre-2008-jusg0818165a)
 - [Arrêté du 28 octobre 2008 (MTSS0826592A)](arrete-du-28-octobre-2008-mtss0826592a)
 - [Arrêté du 28 octobre 2008 (MTSS0826593A)](arrete-du-28-octobre-2008-mtss0826593a)
 - [Arrêté du 28 octobre 2008 (MTSS0826596A)](arrete-du-28-octobre-2008-mtss0826596a)
