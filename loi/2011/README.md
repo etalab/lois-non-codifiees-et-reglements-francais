@@ -25,6 +25,7 @@
 - [LOI n° 2011-835 du 13 juillet 2011 (DEVX1109929L)](loi-n-2011-835-du-13-juillet-2011-devx1109929l)
 - [LOI n° 2011-851 du 20 juillet 2011 (IOCX1114088L)](loi-n-2011-851-du-20-juillet-2011-iocx1114088l)
 - [LOI n° 2011-859 du 20 juillet 2011 (BCRX1114226L)](loi-n-2011-859-du-20-juillet-2011-bcrx1114226l)
+- [LOI n° 2011-867 du 20 juillet 2011 (ETSX1104600L)](loi-n-2011-867-du-20-juillet-2011-etsx1104600l)
 - [LOI n° 2011-94 du 25 janvier 2011 (JUSC0909345L)](loi-n-2011-94-du-25-janvier-2011-jusc0909345l)
 - [Loi n° 55-385 du 3 avril 1955](loi-n-55-385-du-3-avril-1955)
 - [Loi n° 87-550 du 16 juillet 1987 (JUSX8700098L)](loi-n-87-550-du-16-juillet-1987-jusx8700098l)
