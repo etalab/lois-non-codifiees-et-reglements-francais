@@ -546,7 +546,6 @@
 - [Arrêté du 17 juin 1996 (TASG9621805A)](arrete-du-17-juin-1996-tasg9621805a)
 - [Arrêté du 17 octobre 1995 (SANS9502262A)](arrete-du-17-octobre-1995-sans9502262a)
 - [Arrêté du 17 octobre 1996 (AGRE9602189A)](arrete-du-17-octobre-1996-agre9602189a)
-- [Arrêté du 17 octobre 1996 (MCCB9600583A)](arrete-du-17-octobre-1996-mccb9600583a)
 - [Arrêté du 17 octobre 1996 (TASG9611609A)](arrete-du-17-octobre-1996-tasg9611609a)
 - [Arrêté du 17 septembre 1996 (DEFP9601673A)](arrete-du-17-septembre-1996-defp9601673a)
 - [Arrêté du 17 septembre 1996 (INDG9600653A)](arrete-du-17-septembre-1996-indg9600653a)
