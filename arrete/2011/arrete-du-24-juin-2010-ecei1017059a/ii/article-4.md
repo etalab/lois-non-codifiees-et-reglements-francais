@@ -1,0 +1,3 @@
+# Article 4
+
+L'électeur introduit son bulletin de vote dans l'enveloppe électorale de couleur bulle qui ne doit comporter aucune mention, ni aucun signe de reconnaissance. L'électeur introduit l'enveloppe électorale dans l'enveloppe d'envoi de vote par correspondance et doit, sous peine de nullité, si ces mentions ne sont pas préremplies, inscrire ses nom de famille et/ou nom d'épouse et prénoms, et apposer sa signature au verso de l'enveloppe. L'enveloppe d'envoi doit être adressée à la préfecture, siège de la commission d'organisation des élections, au plus tard le dernier jour du scrutin (le cachet de la poste faisant foi).
