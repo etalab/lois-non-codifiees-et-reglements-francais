@@ -1,0 +1,3 @@
+# Article 8
+
+Lorsque les tissus mentionnés au deuxième alinéa de l'article 6 sont importés et que le dépistage génomique viral n'a pas été effectué, et lorsque l'échantillon mentionné à l'article 3 ne permet pas de réaliser ce dépistage, l'organisme importateur devra s'assurer que la prise d'échantillons et les examens mentionnés à l'article 1er, à l'exception de l'Ag p24, ont été recommencés à l'issue d'une quarantaine sérologique ou que les tissus importés ont été soumis à des procédés de viro-inactivation. Cette quarantaine doit être de 180 jours pour les importations en provenance des Etats membres de l'Union européenne.

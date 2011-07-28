@@ -1,0 +1,7 @@
+# Article 20
+
+Le titulaire de l'office saisit le président de la commission par lettre recommandée avec demande d'avis de réception. La lettre de saisine précise les motifs invoqués au soutien du licenciement envisagé. Une copie de la lettre est adressée au président de la chambre départementale des huissiers de justice et au procureur général près la cour d'appel dans le ressort de laquelle l'office a son siège.
+
+Les parties sont convoquées au moins huit jours avant la date fixée pour la réunion de la commission. Une copie de la lettre de saisine est annexée à la convocation adressée à l'huissier de justice salarié.
+
+Les parties comparaissent en personne devant la commission. Elles peuvent se faire assister d'un conseil.
