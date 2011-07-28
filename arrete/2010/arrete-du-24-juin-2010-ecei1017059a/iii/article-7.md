@@ -1,3 +1,0 @@
-# Article 7
-
-Donnent lieu à remboursement, dans la limite de tarifs maxima fixés par arrêté préfectoral, le coût du papier nécessaire à la confection des bulletins de vote, des circulaires et des affiches électorales dont les caractéristiques et le nombre sont fixés par le présent arrêté, ainsi que les frais d'impression et les frais d'affichage de ces documents. Toutefois, la somme remboursée pour les travaux d'impression des bulletins de vote ne peut excéder celle résultant de l'application, au nombre des documents effectivement remis à la commission d'organisation des élections, des tarifs d'impression fixés par arrêté préfectoral, à l'exclusion de tous travaux de photogravure, dans la limite des frais réellement exposés par les listes de candidats.
