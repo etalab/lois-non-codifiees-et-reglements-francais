@@ -1,0 +1,3 @@
+# Article Annexes
+
+Le présent arrêté et ses annexes sont également publiés au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité, et de l'aménagement du territoire et peuvent être consultés au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, direction générale de l'enseignement et de la recherche, sous-direction de l'enseignement supérieur et de la recherche, bureau des formations de l'enseignement supérieur, 1 ter, avenue de Lowendal, 75700 Paris 07 SP, et sur le site de l'enseignement agricole ChloroFil.

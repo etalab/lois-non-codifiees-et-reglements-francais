@@ -1,0 +1,3 @@
+# Article 6
+
+Tout au long des opérations de démantèlement et d'assainissement, l'exploitant prend les dispositions nécessaires à la communication d'une information régulière aux populations locales, aux collectivités et à la commission locale d'information (CLI), en particulier, sur l'avancement et la planification des opérations, sur les transports de déchets, sur les dispositions prises en matière de protection des travailleurs et de l'environnement, de gestion des effluents et des déchets ainsi que sur l'état des connaissances en matière de bilan radiologique des ouvrages, des sols et des eaux souterraines.
