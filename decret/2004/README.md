@@ -165,7 +165,6 @@
 - [Décret n°2004-521 du 7 juin 2004 (ECOS0450011D)](decret-n2004-521-du-7-juin-2004-ecos0450011d)
 - [Décret n°2004-527 du 7 juin 2004 (DEVG0420016D)](decret-n2004-527-du-7-juin-2004-devg0420016d)
 - [Décret n°2004-528 du 7 juin 2004 (MCCB0400414D)](decret-n2004-528-du-7-juin-2004-mccb0400414d)
-- [Décret n°2004-967 du 7 septembre 2004 (EQUD0400983D)](decret-n2004-967-du-7-septembre-2004-equd0400983d)
 - [Décret n°66-137 du 7 mars 1966](decret-n66-137-du-7-mars-1966)
 - [Décret n°2004-399 du 7 mai 2004 (INTA0400114D)](decret-n2004-399-du-7-mai-2004-inta0400114d)
 - [Décret n°2004-400 du 7 mai 2004 (SOCT0410790D)](decret-n2004-400-du-7-mai-2004-soct0410790d)
