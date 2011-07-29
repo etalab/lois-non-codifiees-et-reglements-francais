@@ -4,13 +4,13 @@ Le conseil d'administration de l'Ecole nationale supérieure maritime comprend 2
 
 1° Huit membres nommés au titre de l'Etat :
 
-a) Le secrétaire général du ministère chargé de la mer ;
+a) Le secrétaire général du ministère chargé de la mer ou son représentant ;
 
-b) Le directeur général des infrastructures, des transports et de la mer ;
+b) Le directeur général des infrastructures, des transports et de la mer ou son représentant ;
 
-c) L'inspecteur général de l'enseignement maritime ;
+c) L'inspecteur général de l'enseignement maritime ou son représentant ;
 
-d) Le chef d'état-major de la marine nationale ;
+d) Le chef d'état-major de la marine nationale ou son représentant ;
 
 e) Quatre personnalités qualifiées, dont une au moins issue de l'enseignement supérieur, reconnues pour leur compétence dans les domaines mentionnés à l'article 4, parmi lesquelles est choisi le président. Celui-ci est nommé par décret pour trois ans sur proposition du ministre chargé de la mer, après avis du conseil d'administration.
 
