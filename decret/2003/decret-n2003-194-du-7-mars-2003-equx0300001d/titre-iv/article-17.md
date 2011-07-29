@@ -12,9 +12,11 @@ c) Les règles de répartition des capacités d'infrastructure, celles-ci préci
 
 d) Les délais et modalités de présentation et d'instruction des demandes d'attribution des capacités ;
 
-e) Les principes de tarification et le projet de tarification de l'infrastructure ferroviaire mentionné à l'article 9 du décret n° 97-446 du 5 mai 1997 susvisé, en précisant les règles d'imputation comptable, par nature, des diverses charges prises en compte pour l'établissement des redevances, les hypothèses d'évolution de fréquentation du réseau et des charges de Réseau ferré de France par rapport, d'une part, aux coûts constatés dans sa comptabilité et, d'autre part, à l'évolution constatée du coût des unités d'œuvre des travaux de renouvellement. Ces hypothèses tiennent compte des objectifs de productivité fixés dans le cadre de la convention conclue en application de l'article 14 du décret n° 97-444 du 5 mai 1997 susvisé ;
+e) Les principes de tarification et le projet de tarification de l'infrastructure ferroviaire mentionné à l'article 9 du décret n° 97-446 du 5 mai 1997 susvisé, en précisant les règles d'imputation comptable, par nature, des diverses charges prises en compte pour l'établissement des redevances, les hypothèses d'évolution de fréquentation du réseau et des charges de Réseau ferré de France par rapport, d'une part, aux coûts constatés dans sa comptabilité et, d'autre part, à l'évolution constatée du coût des unités d'œuvre des travaux de renouvellement. Ces hypothèses tiennent compte des objectifs de productivité fixés dans le cadre des conventions mentionnées aux articles 11-1 et 11-2 du décret n° 97-444 du 5 mai 1997 susvisé ;
 
-f) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national mettent en oeuvre la réglementation relative à l'utilisation de l'infrastructure.
+f) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national mettent en œuvre la réglementation relative à l'utilisation de l'infrastructure ;
+
+g) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national reçoivent et peuvent fournir les informations nécessaires à la mise en œuvre ou à l'exploitation du service pour lequel des capacités ont été accordées.
 
 Réseau ferré de France soumet le projet de document de référence du réseau à l'avis du ministre chargé des transports, aux entreprises ferroviaires utilisant le réseau ferré national et aux organisations nationales représentatives des usagers des transports ferroviaires. Les avis sont réputés favorables s'ils ne sont pas intervenus dans les deux mois suivant la transmission du projet.
 

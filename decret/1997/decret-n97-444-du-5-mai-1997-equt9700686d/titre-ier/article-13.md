@@ -1,3 +1,7 @@
 # Article 13
 
-Le réseau ferré national est utilisé par la Société nationale des chemins de fer français pour l'exploitation des services de transports ferroviaires, dans le respect de l'article 18 de la loi d'orientation des transports intérieurs du 30 décembre 1982, et par les entreprises ferroviaires        dans les conditions définies à l'article 2 du décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré national.
+Les conventions mentionnées aux articles 11-1 et 11-2 sont soumises à l'approbation préalable des ministres chargés des transports, de l'économie et du budget. L'autorisation est réputée accordée en l'absence d'opposition motivée d'un des ministres notifiée dans le mois suivant la réception du projet de convention.
+
+Les modifications substantielles des conventions donnent lieu à la même procédure d'approbation.
+
+RFF peut diligenter tout audit nécessaire au suivi de ces conventions.

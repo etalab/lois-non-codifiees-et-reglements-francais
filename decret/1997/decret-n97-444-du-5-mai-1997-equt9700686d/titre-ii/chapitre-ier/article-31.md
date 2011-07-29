@@ -6,7 +6,7 @@ Le conseil d'administration délibère sur les affaires relatives à l'objet de 
 
 -il arrête les programmes généraux d'activité et d'investissement, les états prévisionnels des recettes et dépenses, les comptes de l'établissement ;
 
--il autorise la signature des conventions avec la SNCF prévues à l'article 14 ;
+-il autorise la signature des conventions avec la SNCF prévues aux articles 11-1 et 11-2 ;
 
 -il arrête le barème des redevances d'utilisation des infrastructures ferroviaires. Il détermine, sous réserve des dispositions du titre IV, les conditions générales de passation des contrats, conventions et marchés et les règles générales d'emploi des disponibilités et des réserves ;
 

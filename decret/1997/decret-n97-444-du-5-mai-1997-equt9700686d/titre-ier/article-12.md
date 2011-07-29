@@ -1,9 +1,7 @@
 # Article 12
 
-RFF met à la disposition de la SNCF l'ensemble des installations et équipements du réseau ferré national nécessaires à l'exercice des missions définies à l'article 11.
+Les conventions mentionnées aux articles 11-1 et 11-2 prévoient les conditions dans lesquelles certaines interventions peuvent donner lieu à un ajustement de budget ou de rémunération, en particulier celles rendues nécessaires lors d'événements exceptionnels et imprévisibles.
 
-En cohérence avec les programmes d'investissements mentionnés à l'article 4, RFF arrête un programme d'opérations de gros entretien et de grosses réparations sur proposition de la SNCF qui en assure la mise en oeuvre.
+Elles peuvent prévoir la conclusion de conventions particulières de durée adaptée pour l'exécution des différentes missions confiées à la SNCF.
 
-RFF tient la SNCF informée de tous les éléments susceptibles d'influer sur l'établissement du graphique de circulation, sur la gestion opérationnelle des circulations et sur l'entretien du réseau.
-
-Les dispositions du présent article ne font pas obstacle à l'application des conventions prévues à l'article 4-1 du cahier des charges de la SNCF.
+Ces conventions ne font pas obstacle à ce que, pour l'application des articles L. 2111-9 à L. 2111-12 du code des transports, RFF décide en cours d'exécution du retrait ou de l'ajout de certaines missions. Les conditions d'exécution et de rémunération de ces conventions sont adaptées en conséquence en accord avec la SNCF.

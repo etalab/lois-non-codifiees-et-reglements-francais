@@ -1,19 +1,11 @@
 # Article 14
 
-Une convention pour l'exercice des missions mentionnées aux articles 11 et 12 est conclue entre RFF et la SNCF ; elle est soumise aux ministres chargés des transports, de l'économie et du budget avant signature. A défaut d'opposition motivée d'un de ces ministres dans un délai d'un mois après cette soumission, cette convention est réputée approuvée. Les modifications significatives qui lui sont apportées donnent lieu à la même procédure d'approbation.
+RFF met à la disposition de la SNCF l'ensemble des installations et équipements du réseau ferré national qui sont nécessaires à l'exercice de chacune de ses missions définies aux articles 11-1 et 11-2.
 
-Cette convention fixe :
+RFF tient le service gestionnaire du trafic et des circulations informé de tous les éléments susceptibles d'influer sur l'établissement du graphique de circulation et sur la gestion opérationnelle des circulations.
 
-- les conditions d'exécution des missions énumérées à l'article 11 ;
+RFF tient la SNCF informée de tous les éléments susceptibles d'influer sur l'entretien du réseau.
 
-- les conditions de rémunération de la SNCF pour ces missions, les échéances des paiements et les modalités d'ajustement de cette rémunération en fonction des caractéristiques réellement constatées ;
+RFF arrête le programme d'opérations de gros entretien et de grosses réparations mentionné à l'article 11-2 que lui propose la SNCF en cohérence avec les programmes d'investissements mentionnés à l'article 4.
 
-- les hypothèses faites en matière de circulations et d'évolution des caractéristiques du réseau ;
-
-- les objectifs de niveau de service, de qualité et de productivité fixés à la SNCF ;
-
-- les programmes de gros entretien et de grosses réparations ;
-
-- les modalités du contrôle de l'exécution de ces missions, avec notamment des indicateurs de performance et de qualité.
-
-La convention peut prévoir, en tant que de besoin, la conclusion de conventions particulières de durée adaptée pour l'exécution des différentes missions confiées à la SNCF en application de l'article 11.
+Les dispositions du présent article ne font pas obstacle à l'application des conventions prévues à l'article 4-1 du cahier des charges de la SNCF.

@@ -4,10 +4,6 @@ Les demandes de sillons sont adressées à Réseau ferré de France dans les con
 
 Les demandes portent sur une période égale au plus à celle de l'horaire de service. Lorsque la demande est présentée au titre d'un accord-cadre, la reconduction des sillons antérieurement attribués pour l'horaire de service suivant s'effectue selon les stipulations de cet accord-cadre.
 
-Réseau ferré de France confie les études techniques d'exécution nécessaires à l'instruction des demandes de sillons à la Société nationale des chemins de fer français chargée, pour son compte, de la gestion du trafic et des circulations sur le réseau ferré national. Ces études donnent lieu à une rémunération, à la charge du demandeur, égale au coût directement imputable à leur réalisation.
-
-La Société nationale des chemins de fer français prend, sous le contrôle de Réseau ferré de France, les mesures nécessaires pour assurer l'indépendance fonctionnelle du service qui réalise les rapports techniques, afin de garantir l'absence de toute discrimination dans l'exercice de ces fonctions. Ce service respecte la confidentialité des informations à caractère commercial qui lui sont communiquées pour les besoins de ces rapports.
-
 A l'issue de l'instruction des demandes de sillons, Réseau ferré de France établit un projet d'horaire de service quatre mois au plus tard avant la date d'entrée en vigueur de celui-ci. Ce projet tient compte des demandes formulées, des priorités dans l'utilisation du réseau ferré national, des périodes nécessaires pour l'entretien programmé du réseau et les travaux d'investissement et, le cas échéant, de la nécessité de réserver des capacités suffisantes pour répondre aux demandes ponctuelles de sillons.
 
 Lorsque plusieurs demandes sont faites pour un même service, Réseau ferré de France peut mettre en réserve un sillon qui sera accordé à l'entreprise ferroviaire qui assurera le service. A cette fin il peut, pour l'instruction des demandes d'attribution de sillons, demander des informations complémentaires portant sur la nature du service projeté. Il respecte la confidentialité des informations à caractère commercial qui lui sont communiquées.
