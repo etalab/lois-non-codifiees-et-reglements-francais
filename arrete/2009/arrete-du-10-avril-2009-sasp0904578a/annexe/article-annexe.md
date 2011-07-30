@@ -1,6 +1,6 @@
 # Article Annexe
 
-**RÈGLEMENT INTÉRIEUR DU CONSEIL DE MODÉRATION ET DE PRÉVENTION**
+RÈGLEMENT INTÉRIEUR DU CONSEIL DE MODÉRATION ET DE PRÉVENTION
 
 Article 1er
 
@@ -48,19 +48,41 @@ En cas d'adoption soit à l'unanimité, soit par consensus, le procès-verbal de
 
 Le détail des votes est consigné dans le procès-verbal de réunion.
 
+Article 4 bis
+
+Tout membre susceptible d'avoir sur l'un ou plusieurs des points inscrits à l'ordre du jour un lien d'intérêt personnel, privé ou public constitutif d'un conflit d'intérêt lui interdisant de prendre part à la délibération en informe le président dans les meilleurs délais avant la tenue de la séance.
+
+A l'ouverture de la séance, le président indique si des liens d'intérêt ont été portés à sa connaissance et les présente aux membres du Conseil de modération et de prévention.
+
+Le président invite également les participants à déclarer tout nouveau conflit d'intérêt imprévu qui apparaîtrait en début ou en cours de séance. Il les soumet également à l'assemblée.
+
+Le président évalue si les intérêts déclarés par les membres sont de nature à faire obstacle à leur participation aux débats et aux votes.
+
+Si tel est le cas, les débats ont lieu hors la présence de la personne ayant déclaré un conflit d'intérêt.
+
+Sa présence est néanmoins décomptée dans le calcul du quorum pour l'ensemble des autres points inscrits à l'ordre du jour sur lesquels il n'a pas déclaré de conflit d'intérêt, et, le cas échéant, pour les autres points.
+
 Article 5
 
 Un procès-verbal est rédigé à l'issue de chaque séance par le secrétariat du conseil.
 
 Le procès-verbal contient notamment les éléments suivants :
 
-― la date de la réunion ;
+- la date de la réunion ;
 
-― les noms et qualités des participants ;
+- les noms et qualités des participants ;
 
-― les questions débattues au cours de la séance ;
+- les questions débattues au cours de la séance ;
 
-― le détail des votes.
+- le détail des votes ;
+
+- l'indication de l'existence ou non de conflit d'intérêt par la mention, selon le cas, de l'une ou l'autre des formules suivantes :
+
+Conflits d'intérêt : néant.
+
+Conflits d'intérêt : une situation de conflit d'intérêt majeur concernant X points de l'ordre du jour (les lister) a été déclarée et évaluée préalablement à la séance. M. ou Mme X (membre titulaire en qualité de) ayant déclaré des liens (préciser la nature) a quitté la séance lors de la discussion et de la délibération sur le point concerné ou n'a pas pris part à la discussion et à la délibération sur le point concerné.
+
+Les personnes dont les noms (les lister) suivent ont déclaré des intérêts qui n'ont pas été jugés de nature à faire obstacle à leur participation aux débats et aux votes.
 
 Le procès-verbal de la séance fait l'objet d'une approbation formelle en début de séance suivante, ou préalablement à cette séance, et par écrit, si nécessaire.
 
