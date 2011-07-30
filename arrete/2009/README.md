@@ -1103,7 +1103,6 @@
 - [Arrêté du 14 septembre 2009 (ECER0919265A)](arrete-du-14-septembre-2009-ecer0919265a)
 - [Arrêté du 14 septembre 2009 (JUSF0921569A)](arrete-du-14-septembre-2009-jusf0921569a)
 - [Arrêté du 14 septembre 2009 (SASP0921299A)](arrete-du-14-septembre-2009-sasp0921299a)
-- [Arrêté du 14 mai 2009 (DEFH0902461A)](arrete-du-14-mai-2009-defh0902461a)
 - [Arrêté du 14 mai 2009 (DEVK0910077A)](arrete-du-14-mai-2009-devk0910077a)
 - [Arrêté du 14 mai 2009 (ECED0909104A)](arrete-du-14-mai-2009-eced0909104a)
 - [Arrêté du 14 mai 2009 (ECEP0910932A)](arrete-du-14-mai-2009-ecep0910932a)
