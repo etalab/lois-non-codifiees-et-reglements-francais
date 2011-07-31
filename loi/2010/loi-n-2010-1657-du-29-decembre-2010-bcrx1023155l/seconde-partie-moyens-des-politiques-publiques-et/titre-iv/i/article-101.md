@@ -1,13 +1,14 @@
 # Article 101
 
 A créé les dispositions suivantes :
-> - Code général des impôts, CGI.
-> > Art. 242 septies,   Art. 1740-00 AB
 
-> - Livre des procédures fiscales
+> -Code général des impôts, CGI.
+> > Art. 242 septies, Art. 1740-00 AB
+
+> -Livre des procédures fiscales
 > > Art. L135 Z
 
-> - Code général des impôts, CGI.
+> -Code général des impôts, CGI.
 
 >
 
@@ -16,7 +17,7 @@ A créé les dispositions suivantes :
 >
 >
 >
-> Cette déclaration doit s'accompagner de la présentation, pour chacun de leurs dirigeants et associés, d'un bulletin n° 2 du casier judiciaire, vierge de toute condamnation, et de la signature d'une charte de déontologie dont le contenu est déterminé par décret.
+> Cette déclaration doit s'accompagner de la présentation, pour chacun de leurs dirigeants et associés, d'un bulletin n° 3 du casier judiciaire, vierge de toute condamnation, et de la signature d'une charte de déontologie dont le contenu est déterminé par décret.
 >
 >
 >

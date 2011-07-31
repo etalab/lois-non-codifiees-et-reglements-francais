@@ -1,15 +1,15 @@
 # Article 31
 
-Jusqu'au 31 décembre 2010, il pourra être procédé, sur proposition du premier président de la Cour des comptes, au recrutement complémentaire de conseillers de chambre régionale des comptes par voie d'un ou plusieurs concours.
+Jusqu'au 31 décembre 2016, il pourra être procédé, sur proposition du premier président de la Cour des comptes, au recrutement complémentaire de conseillers de chambre régionale des comptes par voie d'un ou plusieurs concours.
 
-Le nombre de postes pourvus à ce titre ne pourra excéder de plus de 50 % le nombre de postes offerts chaque année au titre du recrutement statutaire.
+Le nombre de postes pourvus à ce titre ne peut excéder, pour le premier concours organisé, le nombre de postes offerts, à compter de la promulgation de la loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011, dans le corps des magistrats de chambre régionale des comptes au titre des articles L. 221-3 et L. 221-4 du code des juridictions financières et, pour les concours suivants, le nombre de postes offerts au titre des mêmes articles à compter des nominations au titre du précédent concours.
 
 Le concours est ouvert :
 
-- aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps de catégorie A ou assimilé et justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans effectifs dans la catégorie A ;
+-aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps de catégorie A ou assimilé et justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans effectifs dans la catégorie A ;
 
-- aux magistrats de l'ordre judiciaire ;
+-aux magistrats de l'ordre judiciaire ;
 
-- aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration.
+-aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.

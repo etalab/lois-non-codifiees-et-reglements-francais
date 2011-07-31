@@ -4,329 +4,317 @@ I. ― Pour 2011, les ressources affectées au budget, évaluées dans l'état A
 
 (En millions d'euros)
 
-<div>
-<br/>
 <div align="center">
 
 <table>
+<tbody>
 <tr>
 <th>
 <br/>
 </th>
-<th>
-<br/>RESSOURCES </th>
-<th>
-<br/>CHARGES </th>
-<th>
-<br/>SOLDES </th>
+<th>RESSOURCES <br/>
+</th>
+<th>CHARGES <br/>
+</th>
+<th>SOLDES <br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Budget général </td>
+<td align="center">Budget général <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recettes fiscales brutes/ dépenses brutes </td>
-<td align="center">
-<br/>337   034 </td>
-<td align="center">
-<br/>368   543 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Recettes fiscales brutes/ dépenses brutes <br/>
+</td>
+<td align="center">337   034 <br/>
+</td>
+<td align="center">368   543 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>A déduire : <br/>Remboursements et dégrèvements </td>
-<td align="center">
-<br/>82   153 </td>
-<td align="center">
-<br/>82   153 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">A déduire : <br/>Remboursements et dégrèvements <br/>
+</td>
+<td align="center">82   153 <br/>
+</td>
+<td align="center">82   153 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Recettes fiscales nettes/ dépenses nettes </td>
-<td align="center">
-<br/>254   881 </td>
-<td align="center">
-<br/>286   390 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Recettes fiscales nettes/ dépenses nettes <br/>
+</td>
+<td align="center">254   881 <br/>
+</td>
+<td align="center">286   390 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Recettes non fiscales </td>
-<td align="center">
-<br/>16   873 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Recettes non fiscales <br/>
+</td>
+<td align="center">16   873 <br/>
+</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recettes totales nettes/ dépenses nettes </td>
-<td align="center">
-<br/>271   754 </td>
-<td align="center">
-<br/>286   390 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Recettes totales nettes/ dépenses nettes <br/>
+</td>
+<td align="center">271   754 <br/>
+</td>
+<td align="center">286   390 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>A déduire : <br/>Prélèvements sur recettes au profit des collectivités territoriales et de l'Union européenne </td>
-<td align="center">
-<br/>73   578 </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>  </td>
+<td align="center">A déduire : <br/>Prélèvements sur recettes au profit des collectivités territoriales et de l'Union européenne <br/>
+</td>
+<td align="center">73   578 <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Montants nets pour le budget général </td>
-<td align="center">
-<br/>198   176 </td>
-<td align="center">
-<br/>286   390 </td>
-<td align="center">
-<br/>― 88   214 </td>
+<td align="center">Montants nets pour le budget général <br/>
+</td>
+<td align="center">198   176 <br/>
+</td>
+<td align="center">286   390 <br/>
+</td>
+<td align="center">― 88   214 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Evaluation des fonds de concours et crédits correspondants </td>
-<td align="center">
-<br/>3   226 </td>
-<td align="center">
-<br/>3   226 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Evaluation des fonds de concours et crédits correspondants <br/>
+</td>
+<td align="center">3   226 <br/>
+</td>
+<td align="center">3   226 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Montants nets pour le budget général, y compris fonds de concours </td>
-<td align="center">
-<br/>201   402 </td>
-<td align="center">
-<br/>289   616 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Montants nets pour le budget général, y compris fonds de concours <br/>
+</td>
+<td align="center">201   402 <br/>
+</td>
+<td align="center">289   616 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">Budgets annexes <br/>Contrôle et exploitation aériens <br/>
+</td>
+<td align="center">1   999 <br/>
+</td>
+<td align="center">1   999 <br/>
+</td>
 <td align="center">
-<br/>Budgets annexes <br/>Contrôle et exploitation aériens </td>
-<td align="center">
-<br/>1   999 </td>
-<td align="center">
-<br/>1   999 </td>
-<td align="center">
-<br/>» </td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Publications officielles et information administrative </td>
-<td align="center">
-<br/>204 </td>
-<td align="center">
-<br/>193 </td>
-<td align="center">
-<br/>11 </td>
+<td align="center">Publications officielles et information administrative <br/>
+</td>
+<td align="center">204 <br/>
+</td>
+<td align="center">193 <br/>
+</td>
+<td align="center">11 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Totaux pour les budgets annexes </td>
-<td align="center">
-<br/>2   203 </td>
-<td align="center">
-<br/>2   192 </td>
-<td align="center">
-<br/>11 </td>
+<td align="center">Totaux pour les budgets annexes <br/>
+</td>
+<td align="center">2   203 <br/>
+</td>
+<td align="center">2   192 <br/>
+</td>
+<td align="center">11 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Evaluation des fonds de concours et crédits correspondants : <br/>Contrôle et exploitation aériens </td>
-<td align="center">
-<br/>23 </td>
-<td align="center">
-<br/>23 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Evaluation des fonds de concours et crédits correspondants : <br/>Contrôle et exploitation aériens <br/>
+</td>
+<td align="center">23 <br/>
+</td>
+<td align="center">23 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">Publications officielles et information administrative <br/>
+</td>
 <td align="center">
-<br/>Publications officielles et information administrative </td>
+<br/>
+</td>
 <td align="center">
-<br/>» </td>
-<td align="center">
-<br/>» </td>
-<td align="center">
-<br/>  </td>
+<br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Totaux pour les budgets annexes, y compris fonds de concours </td>
-<td align="center">
-<br/>2   226 </td>
-<td align="center">
-<br/>2   215 </td>
-<td align="center">
-<br/>  </td>
+<td align="center">Totaux pour les budgets annexes, y compris fonds de concours <br/>
+</td>
+<td align="center">2   226 <br/>
+</td>
+<td align="center">2   215 <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">
-<br/>Comptes spéciaux <br/>Comptes d'affectation spéciale </td>
-<td align="center">
-<br/>60   370 </td>
-<td align="center">
-<br/>60   570 </td>
-<td align="center">
-<br/>― 200 </td>
+<td align="center">Comptes spéciaux <br/>Comptes d'affectation spéciale <br/>
+</td>
+<td align="center">60   370 <br/>
+</td>
+<td align="center">60   570 <br/>
+</td>
+<td align="center">― 200 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Comptes de concours financiers </td>
-<td align="center">
-<br/>101   794 </td>
-<td align="center">
-<br/>105   044 </td>
-<td align="center">
-<br/>― 3   250 </td>
+<td align="center">Comptes de concours financiers <br/>
+</td>
+<td align="center">101   794 <br/>
+</td>
+<td align="center">105   044 <br/>
+</td>
+<td align="center">― 3   250 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Comptes de commerce (solde) </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>― 32 </td>
+<td align="center">Comptes de commerce (solde) <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">― 32 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Comptes d'opérations monétaires (solde) </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>57 </td>
+<td align="center">Comptes d'opérations monétaires (solde) <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">57 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Solde pour les comptes spéciaux </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>― 3   425 </td>
+<td align="center">Solde pour les comptes spéciaux <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">― 3   425 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Solde général </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>  </td>
-<td align="center">
-<br/>― 91   628 </td>
+<td align="center">Solde général <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">― 91   628 <br/>
+</td>
 </tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-<br/>II. ― Pour 2011 : <br/>1° Les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier sont évaluées comme suit : </div>
-<div>
-<br/>(En milliards d'euros) <div align="center">
+
+II. ― Pour 2011 :
+
+1° Les ressources et les charges de trésorerie qui concourent à la réalisation de l'équilibre financier sont évaluées comme suit :
+
+(En milliards d'euros)
+
+<div align="center">
 
 <table>
+<tbody>
 <tr>
-<td align="center">
-<br/>Besoin de financement </td>
+<td align="center">Besoin de financement <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Amortissement de la dette à long terme </td>
-<td align="center">
-<br/>48,8 </td>
+<td align="center">Amortissement de la dette à long terme <br/>
+</td>
+<td align="center">48,8 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Amortissement de la dette à moyen terme </td>
-<td align="center">
-<br/>48,0 </td>
+<td align="center">Amortissement de la dette à moyen terme <br/>
+</td>
+<td align="center">48,0 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Amortissement de dettes reprises par l'Etat </td>
-<td align="center">
-<br/>0,6 </td>
+<td align="center">Amortissement de dettes reprises par l'Etat <br/>
+</td>
+<td align="center">0,6 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Déficit budgétaire </td>
-<td align="center">
-<br/>91,6 </td>
+<td align="center">Déficit budgétaire <br/>
+</td>
+<td align="center">91,6 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Total </td>
-<td align="center">
-<br/>189,0 </td>
+<td align="center">Total <br/>
+</td>
+<td align="center">189,0 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ressources de financement </td>
+<td align="center">Ressources de financement <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emissions à moyen et long termes (obligations assimilables du Trésor et bons du Trésor à taux fixe et intérêt annuel), nettes des rachats effectués par l'Etat et par la Caisse de la dette publique </td>
-<td align="center">
-<br/>186,0 </td>
+<td align="center">Emissions à moyen et long termes (obligations assimilables du Trésor et bons du Trésor à taux fixe et intérêt annuel), nettes des rachats effectués par l'Etat et par la Caisse de la dette publique <br/>
+</td>
+<td align="center">186,0 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Annulation de titres de l'Etat par la Caisse de la dette publique </td>
-<td align="center">
-<br/>2,9 </td>
+<td align="center">Annulation de titres de l'Etat par la Caisse de la dette publique <br/>
+</td>
+<td align="center">2,9 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Variation nette des bons du Trésor à taux fixe et intérêts précomptés </td>
-<td align="center">
-<br/>― 1,1 </td>
+<td align="center">Variation nette des bons du Trésor à taux fixe et intérêts précomptés <br/>
+</td>
+<td align="center">― 1,1 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Variation des dépôts des correspondants </td>
-<td align="center">
-<br/>― 3,0 </td>
+<td align="center">Variation des dépôts des correspondants <br/>
+</td>
+<td align="center">― 3,0 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Variation du compte de Trésor </td>
-<td align="center">
-<br/>1,2 </td>
+<td align="center">Variation du compte de Trésor <br/>
+</td>
+<td align="center">1,2 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Autres ressources de trésorerie </td>
-<td align="center">
-<br/>3,0 </td>
+<td align="center">Autres ressources de trésorerie <br/>
+</td>
+<td align="center">3,0 <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Total </td>
-<td align="center">
-<br/>189,0 </td>
+<td align="center">Total <br/>
+</td>
+<td align="center">189,0 <br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
 </div>
 
 2° Le ministre chargé de l'économie est autorisé à procéder, en 2011, dans des conditions fixées par décret :
@@ -337,7 +325,7 @@ b) A l'attribution directe de titres de dette publique négociable à la Caisse 
 
 c) A des conversions facultatives, à des opérations de pension sur titres d'Etat ;
 
-d) A des opérations de dépôts de liquidités auprès de la Caisse de la dette publique, sur le marché interbancaire de la zone euro, et auprès des Etats de la même zone ;
+d) A des opérations de dépôts de liquidités auprès de la Caisse de la dette publique, auprès du Fonds européen de stabilité financière, sur le marché interbancaire de la zone euro, et auprès des Etats de la même zone ;
 
 e) A des souscriptions de titres de créances négociables émis par des établissements publics administratifs, à des rachats, à des échanges d'emprunts, à des échanges de devises ou de taux d'intérêt, à l'achat ou à la vente d'options, de contrats à terme sur titres d'Etat ou d'autres instruments financiers à terme ;
 

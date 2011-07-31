@@ -91,6 +91,8 @@ III.-Le II de l'article 1609 quinquies C du même code dans sa rédaction en vig
 
 Par dérogation aux dispositions du I de l'article 1639 A du code général des impôts et du premier alinéa de l'article L. 1612-2 du code général des collectivités territoriales, la date limite de vote des budgets et des taux des collectivités territoriales est reportée au 15 avril pour l'exercice 2010 et au 30 avril pour l'exercice 2011.
 
+Toutefois, les décisions relatives soit aux taux, soit aux produits, selon le cas, des impositions directes perçues par les collectivités territoriales et organismes compétents prises entre le 1er mai et le 30 juin 2011 inclus sont réputées valables.
+
 A modifié les dispositions suivantes :
 
 > -Loi n° 2002-1575 du 30 décembre 2002
