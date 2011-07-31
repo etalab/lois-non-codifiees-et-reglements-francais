@@ -1,6 +1,17 @@
-# Arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants professionnels de l'aéronautique civile (personnel de conduite des aéronefs à l'exception du personnel des essais et réception).
+# Arrêté du 31 juillet 1981 relatif aux brevets, licences et qualifications des navigants non professionnels de l'aéronautique civile (personnel de conduite des aéronefs)
 
 - [Article 1](article-1.md)
+- [Chapitre I : Terminologie](chapitre-i)
 - [Article 2](article-2.md)
+- [Chapitre II : Règles générales](chapitre-ii)
 - [Article 3](article-3.md)
+- [Chapitre III : Stagiaire](chapitre-iii)
+- [Chapitre IV : Brevets et licences de pilotes](chapitre-iv)
+- [Chapitre V : Brevets et  licences des membres de l'équipage de conduite autres que les pilotes](chapitre-v)
+- [Chapitre VI : Qualifications de pilotes autres que celles d'instructeur](chapitre-vi)
+- [Chapitre VII : Instructeurs](chapitre-vii)
+- [Chapitre VIII : Carnet de vol et décompte du temps de vol](chapitre-viii)
+- [Chapitre IX : Dispositions transitoires](chapitre-ix)
+- [Chapitre X : Examinateurs](chapitre-x)
 - [ANNEXE](annexe)
+- [APPENDICE](appendice)
