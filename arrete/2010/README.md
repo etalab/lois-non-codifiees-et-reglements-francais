@@ -2135,7 +2135,6 @@
 - [Arrêté du 22 juillet 2010 (JUSF1020219A)](arrete-du-22-juillet-2010-jusf1020219a)
 - [Arrêté du 22 juillet 2010 (JUSF1020221A)](arrete-du-22-juillet-2010-jusf1020221a)
 - [Arrêté du 22 juillet 2010 (JUSF1020222A)](arrete-du-22-juillet-2010-jusf1020222a)
-- [Arrêté du 22 juillet 2010 (MCCC1019423A)](arrete-du-22-juillet-2010-mccc1019423a)
 - [Arrêté du 22 juillet 2010 (MCCD1019741A)](arrete-du-22-juillet-2010-mccd1019741a)
 - [Arrêté du 22 juin 1989 (DOME8900025A)](arrete-du-22-juin-1989-dome8900025a)
 - [Arrêté du 22 juin 1994 (DOMP9400031A)](arrete-du-22-juin-1994-domp9400031a)
