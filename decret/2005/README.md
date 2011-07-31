@@ -16,7 +16,6 @@
 - [Décret n°2005-1261 du 3 octobre 2005 (INDX0508743D)](decret-n2005-1261-du-3-octobre-2005-indx0508743d)
 - [Décret n°2005-98 du 3 février 2005 (INTB0500030D)](decret-n2005-98-du-3-fevrier-2005-intb0500030d)
 - [Décret n°80-993 du 3 décembre 1980](decret-n80-993-du-3-decembre-1980)
-- [Décret n°2005-215 du 4 mars 2005 (SOCN0510296D)](decret-n2005-215-du-4-mars-2005-socn0510296d)
 - [Décret n°2005-420 du 4 mai 2005 (SANP0521306D)](decret-n2005-420-du-4-mai-2005-sanp0521306d)
 - [Décret n°2005-1122 du 6 septembre 2005 (INTD0500243D)](decret-n2005-1122-du-6-septembre-2005-intd0500243d)
 - [Décret n°2005-1123 du 6 septembre 2005 (INTD0500244D)](decret-n2005-1123-du-6-septembre-2005-intd0500244d)

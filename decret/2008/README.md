@@ -1148,7 +1148,6 @@
 - [Décret n°2008-293 du 31 mars 2008 (ECEL0804812D)](decret-n2008-293-du-31-mars-2008-ecel0804812d)
 - [Décret n°2008-296 du 31 mars 2008 (JUSC0773333D)](decret-n2008-296-du-31-mars-2008-jusc0773333d)
 - [Décret n°2008-96 du 31 janvier 2008 (MTST0765681D)](decret-n2008-96-du-31-janvier-2008-mtst0765681d)
-- [Décret n°2008-99 du 31 janvier 2008 (PRMX0768723D)](decret-n2008-99-du-31-janvier-2008-prmx0768723d)
 - [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
 - [Décret n°2008-1012 du 1er octobre 2008 (MENE0817392D)](decret-n2008-1012-du-1er-octobre-2008-mene0817392d)
 - [Décret n°2008-1013 du 1er octobre 2008 (SJSF0818332D)](decret-n2008-1013-du-1er-octobre-2008-sjsf0818332d)
