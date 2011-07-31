@@ -1,0 +1,3 @@
+# Article 2
+
+Dans leurs systèmes d'évaluation et de gestion des risques de blanchiment de capitaux et de financement du terrorisme prévus à l'article L. 561-32 du code monétaire et financier, les personnes mentionnées à l'article L. 561-2 du même code sont tenues de prendre en compte notamment les informations et les déclarations diffusées par l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme dont la France est membre ou par le ministre chargé de l'économie, qui sont susceptibles de réfuter la présomption d'équivalence établie à l'article 1er du présent arrêté.

@@ -2,7 +2,7 @@
 
 La liste d'émargement et l'urne électronique doivent faire l'objet d'un procédé garantissant leur intégrité durant le vote, c'est-à-dire assurant qu'elles ne peuvent être respectivement modifiées que par l'ajout, dont l'intégrité est assurée, d'un bulletin et d'un émargement émanant d'un électeur régulièrement authentifié.
 
-Dix jours au plus tard avant la date d'ouverture des scrutins, le comité technique d'organisation des élections teste le système de vote en présence du bureau de vote et de l'expert.
+Dix jours au plus tard avant la date d'ouverture des scrutins, les membres du bureau de vote testent le système de vote en présence du comité technique d'organisation des élections et de l'expert.
 
 Il vérifie que le système est en parfait état de fonctionnement avec toutes les fonctionnalités voulues pour chaque scrutin et s'assure notamment que :
 
@@ -15,6 +15,10 @@ Il vérifie que le système est en parfait état de fonctionnement avec toutes l
 ― la liste d'émargement est vierge ;
 
 ― le système de vote expertisé n'a pas été modifié après l'expertise.
+
+Lors de la procédure de test du système avant le scellement, le système de vote, fourni par le prestataire prévu au chapitre II, génère trois clés de déchiffrement distinctes en présence des membres du bureau de vote, des membres du comité technique d'organisation des élections et de l'expert.
+
+Celles-ci sont générées au moyen d'un procédé sécurisé auquel aucune personne, et notamment les personnels techniques chargés du déploiement du système de vote, ne peut accéder. Chaque clé comporte un mot de passe distinct. Ces clés sont stockées, chacune sous support clé USB, respectivement remis au président du bureau de vote et à chacun de ses assesseurs. Le président du bureau de vote et ses deux assesseurs conservent ces clés dans un lieu sécurisé distinct. Elles servent à procéder au déchiffrement des urnes avant le dépouillement des scrutins.
 
 Si aucune anomalie n'est constatée, le bureau de vote scelle le système de vote électronique en place, les listes des candidats et les listes des électeurs.
 

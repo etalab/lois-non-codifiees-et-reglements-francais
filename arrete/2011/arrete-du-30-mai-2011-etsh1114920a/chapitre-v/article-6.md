@@ -6,7 +6,7 @@ Les réclamations concernant les inscriptions sur la liste électorale doivent p
 
 Les modifications sont publiées sur le site internet du Centre national de gestion. Elles peuvent être contestées et doivent parvenir dans un délai de cinq jours suivant leur publication.
 
-Les réclamations et les contestations des modifications prévues aux deuxième et troisième alinéas sont adressées au directeur général du Centre national de gestion, par lettre, portant la mention  Elections professionnelles des praticiens hospitaliers. ― Commission statutaire nationale .
+Les réclamations et les contestations des modifications prévues aux deuxième et troisième alinéas sont adressées au directeur général du Centre national de gestion, par voie postale, portant la mention Elections professionnelles des praticiens hospitaliers. ― Commission statutaire nationale .
 
 Le directeur général du Centre national de gestion statue sur ces réclamations et publie la liste électorale définitive sur le site interner du Centre national de gestion. A compter de cette publication, la liste électorale est close.
 
