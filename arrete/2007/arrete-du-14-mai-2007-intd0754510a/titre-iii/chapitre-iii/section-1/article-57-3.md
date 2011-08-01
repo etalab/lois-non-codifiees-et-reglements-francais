@@ -2,7 +2,7 @@
 
 Minima des enjeux au texas hold'em poker.
 
-Le minimum de mise est fixé par l'arrêté d'autorisation. Il ne saurait être inférieur à 1 euro.
+Le minimum de mise est fixé par l'arrêté d'autorisation. Il ne saurait être inférieur à 0,50 euro.
 
 Le directeur responsable a la possibilité d'augmenter, à l'ouverture des tables ou en cours de séance, le minimum des mises fixé par l'arrêté d'autorisation.
 

@@ -1,6 +1,6 @@
 # Article 57-7
 
-Un tournoi de poker, jeu défini par l'article 57 du présent arrêté, est organisé sous la forme d'une compétition dans laquelle tous les joueurs commencent avec le même nombre de jetons.
+Un tournoi de poker, est organisé sous la forme d'une compétition dans laquelle tous les joueurs commencent avec le même nombre de jetons.
 
 Lorsqu'un joueur a perdu tous ses jetons, il est éliminé de la compétition.
 
@@ -16,13 +16,13 @@ Le tournoi peut consister en :
 
 Ce tournoi peut porter sur une ou sur plusieurs séances.
 
-Lorsque le tournoi à table unique porte sur une séance, le directeur responsable est tenu d'en aviser le chef du service de la direction centrale de la police judiciaire territorialement compétent et le comptable du Trésor chef de poste au moins soixante-douze heures à l'avance.
+Lorsque le tournoi à table unique porte sur une séance, le directeur responsable est tenu d'en aviser le chef du service de la direction centrale de la police judiciaire territorialement compétent au moins soixante-douze heures à l'avance.
 
-Lorsqu'un tournoi à table unique est annulé à la dernière heure, faute d'un nombre suffisant de participants, il peut être reporté au lendemain ou les jours suivants, sous réserve que le directeur responsable en informe le chef du service de la direction centrale de la police judiciaire territorialement compétent et le comptable du Trésor chef de poste dans les plus brefs délais.
+Lorsqu'un tournoi à table unique est annulé à la dernière heure, faute d'un nombre suffisant de participants, il peut être reporté au lendemain ou les jours suivants, sous réserve que le directeur responsable en informe le chef du service de la direction centrale de la police judiciaire territorialement compétent dans les plus brefs délais.
 
 Le tournoi échelonné sur plusieurs séances fait l'objet d'un calendrier joint au règlement mentionné à l'article 57-5, alinéa 3.
 
-Avant le commencement de la saison des jeux, le directeur responsable adresse au chef du service de la direction centrale de la police judiciaire territorialement compétent et au comptable du Trésor chef de poste une note précisant le numéro de la table de jeu affectée aux tournois de poker à table unique.
+Avant le commencement de la saison des jeux, le directeur responsable adresse au chef du service de la direction centrale de la police judiciaire territorialement compétent une note précisant le numéro de la table de jeu affectée aux tournois de poker à table unique.
 
 Les dates et modalités d'inscription au tournoi sont fixées par le règlement.
 

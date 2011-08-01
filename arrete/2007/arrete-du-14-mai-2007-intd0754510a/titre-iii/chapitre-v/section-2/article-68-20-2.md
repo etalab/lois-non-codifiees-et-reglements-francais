@@ -12,13 +12,13 @@ Chaque fin de mois, et lors du gain du JPM, le directeur responsable de chaque c
 
 L'arrêt d'un JPM peut intervenir dans les conditions décrites au troisième alinéa de l'article 68-20-1 du présent arrêté.
 
-Le ministre de l'intérieur et le comptable du Trésor, chef de poste, en sont immédiatement informés.
+Le ministre de l'intérieur en est immédiatement informé.
 
 En cas d'arrêt global du JPM, chaque casino adhérent annote le registre des orphelins à concurrence de sa quote-part d'incrément. Si un nouveau jackpot progressif multisites est créé avant le 31 octobre de l'année en cours, seuls les casinos adhérant à ce nouveau jackpot progressif multisites peuvent récupérer cet incrément versé temporairement au registre des orphelins.
 
 Celui-ci est ajouté à la valeur de départ du nouveau jackpot progressif multisites. Dans le cas contraire, il entre définitivement dans la catégorie des orphelins visée à l'article 68-22-2 du présent arrêté.
 
-Si un casino souhaite se retirer du JPM, il informe le ministre de l'intérieur et le comptable du Trésor, chef de poste, dans les quinze jours qui précèdent son retrait.
+Si un casino souhaite se retirer du JPM, il informe le ministre de l'intérieur dans les quinze jours qui précèdent son retrait.
 
 Le jour du retrait, il établit, par machine, un bon d'incrémentation à concurrence du montant des incréments du jackpot principal et éventuellement du sous-jackpot progressif masqué constaté au cours de la période pendant laquelle il a participé au JPM depuis le dernier gain.
 

@@ -10,7 +10,7 @@ Le directeur responsable, lorsqu'il s'absente plus de trois jours, est tenu d'en
 
 Le membre du comité de direction qui remplace momentanément le directeur responsable absent doit, dans un délai raisonnable, pouvoir disposer de la totalité des documents qui constituent la comptabilité spéciale des jeux et de la comptabilité commerciale et être en mesure de donner suite aux demandes ou observations des agents de surveillance ou de contrôle.
 
-En cas de fermeture saisonnière, le directeur responsable, s'il quitte la commune, est tenu de laisser son adresse personnelle et celle du membre du comité de direction chargé de le remplacer au chef du service de la direction centrale de la police judiciaire territorialement compétent et au comptable du Trésor, chef de poste, en vue de répondre à toute demande formulée par les agents de surveillance ou de contrôle.
+En cas de fermeture saisonnière, le directeur responsable, s'il quitte la commune, est tenu de laisser son adresse personnelle et celle du membre du comité de direction chargé de le remplacer au chef du service de la direction centrale de la police judiciaire territorialement compétent, en vue de répondre à toute demande formulée par les agents de surveillance ou de contrôle.
 
 En cas de cessation de fonction, le directeur responsable est tenu de laisser soit au siège de son établissement, soit au chef du service de la direction centrale de la police judiciaire territorialement compétent les documents relatifs à la comptabilité spéciale des jeux.
 

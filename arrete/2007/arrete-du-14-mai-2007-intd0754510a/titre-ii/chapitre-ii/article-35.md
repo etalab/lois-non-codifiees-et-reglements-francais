@@ -202,4 +202,4 @@ Les gains sont délivrés soit directement, en pièces de monnaies, en jetons ou
 
 Les opérations de change s'effectuent soit en caisse, soit auprès de changeurs itinérants spécialement affectés à cette tâche. Aucune opération de change de fausses pièces ou de monnaies étrangères provenant de la machine ne peut être effectuée à la demande du joueur par les changeurs ou caissiers.
 
-Les fonctionnaires de la direction centrale de la police judiciaire au ministère de l'intérieur (service central des courses et jeux) ou ses représentants dans les services territoriaux de police judiciaire, ainsi que les fonctionnaires du ministère chargé de l'économie, des finances et du budget ou leurs représentants sont chargés du contrôle et de la sincérité du fonctionnement de ces jeux.
+Les fonctionnaires de la direction centrale de la police judiciaire au ministère de l'intérieur (service central des courses et jeux) ou ses représentants dans les services territoriaux de police judiciaire,  sont chargés du contrôle et de la sincérité du fonctionnement de ces jeux.

@@ -6,5 +6,6 @@
 - [Section 3 : Règles applicables aux divers jeux de baccara.](section-3)
 - [Section 4 : Règles applicables à la banque ouverte.](section-4)
 - [Section 5 : Règles spéciales applicables à l'écarté.](section-5)
+- [Section 6 : Jackpot progressif aux jeux de cercle](section-6)
 - [Article 56-1](article-56-1.md)
 - [Article 56-2](article-56-2.md)

@@ -6,11 +6,11 @@ Tout casino qui exploite les machines à sous dans un local distinct doit au moi
 
 Dans tout casino où fonctionnent plus de 75 machines à sous doivent être présents au minimum :
 
-― un membre du comité de direction spécialisé ;
+- un membre du comité de direction ;
 
-― un caissier ;
+- un caissier ;
 
-― un mécanicien chargé des opérations de dépannage courant.
+- un mécanicien chargé des opérations de dépannage courant.
 
 Dans tout casino où fonctionnent 75 machines à sous au plus, l'un des contrôleurs aux entrées ou le caissier pourra être chargé des opérations courantes d'entretien ou de dépannage à la condition qu'il soit préalablement formé à ces opérations.
 

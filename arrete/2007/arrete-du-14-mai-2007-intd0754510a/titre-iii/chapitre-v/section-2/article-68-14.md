@@ -4,7 +4,7 @@ Dispositif d'ouverture, de fermeture et de réinitialisation d'une machine.
 
 Toute machine à sous doit être dotée de deux dispositifs de fermeture au moins, le premier donnant accès à la partie supérieure de l'appareil, le second donnant accès à la partie inférieure où se trouve la boîte qui reçoit les pièces ou les jetons, et de tout dispositif de fermeture supplémentaire justifié par l'installation d'un dispositif particulier (accepteurs de billets, ticket in, ticket out).
 
-Toute ouverture de la partie supérieure de l'appareil demande la présence du directeur responsable ou d'un membre du comité de direction, et du mécanicien ou de l'employé chargé de l'opération à effectuer pour les casinos de moins de 75 machines à sous.
+Toute ouverture de la partie supérieure de l'appareil demande la présence du directeur responsable ou d'un membre du comité de direction, et du mécanicien ou de l'employé chargé de l'opération à effectuer pour les casinos de 75 machines à sous au plus.
 
 Les clés des dispositifs d'ouverture de la partie supérieure et inférieure de l'appareil sont détenues par le membre du comité de direction ou le directeur responsable.
 
