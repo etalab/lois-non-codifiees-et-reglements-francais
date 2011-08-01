@@ -80,7 +80,11 @@ Niveau III
 
 Zone de contrôle des émissions
 
-6. Aux fins de la présente règle, une zone de contrôle des émissions est toute zone maritime, y compris toute zone portuaire, désignée par l'OMI conformément aux critères et procédures énoncés dans l'appendice III du présent chapitre.
+6. Aux fins de la présente règle, les zones de contrôle des émissions sont :
+
+6.1. La zone de contrôle des émissions de l'Amérique du Nord, soit la zone délimitée par les coordonnées figurant à l'appendice VII du présent chapitre ; et
+
+6.2. Toute autre zone maritime, y compris toute zone portuaire, désignée par l'Organisation maritime internationale, conformément aux critères et procédures énoncés à l'appendice III du présent chapitre.
 
 Moteurs Diesel marins installés à bord de navires construits avant le 1er janvier 2000
 

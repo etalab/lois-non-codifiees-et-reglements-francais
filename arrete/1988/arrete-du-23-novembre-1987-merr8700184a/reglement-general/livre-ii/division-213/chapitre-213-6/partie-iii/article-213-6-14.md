@@ -16,11 +16,13 @@ Prescriptions générales.
 
 Prescriptions applicables dans les zones de contrôle des émissions
 
-3. Aux fins du présent article, les zones de contrôle des émissions sont :
+3. Aux fins de la présente règle, les zones de contrôle des émissions sont :
 
-.1 la zone de la mer Baltique, telle que définie à la règle 1.11.2 de l'annexe I de la convention MARPOL, la mer du Nord, telle que définie à la règle 5 1) f de l'annexe V de la convention MARPOL ; et
+3.1. La zone de la mer Baltique, telle que définie à la règle 1.11.2 de l'annexe I de la convention Marpol et la mer du Nord, telle que définie à la règle 5 (1, f) de l'annexe V de la convention Marpol ;
 
-.2 toute autre zone maritime, y compris les zones portuaires, désignée par l'OMI conformément aux critères et procédures énoncés à l'appendice III du présent chapitre.
+3.2. La zone de l'Amérique du Nord, telle que délimitée par les coordonnées figurant à l'appendice VII du présent chapitre (application effective au 1er août 2012) et
+
+3.3. Toute autre zone maritime, y compris toute zone portuaire, désignée par l'Organisation maritime internationale, conformément aux critères et procédures énoncés à l'appendice III du présent chapitre.
 
 4. Lorsque des navires sont exploités dans une zone de contrôle des émissions, la teneur en soufre du fuel-oil utilisé à leur bord ne doit pas dépasser les limites suivantes :
 

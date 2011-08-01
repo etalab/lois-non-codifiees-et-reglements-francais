@@ -7,6 +7,6 @@
 - [Partie 5 : Prévention de la pollution résultant d'un évènement de pollution par les hydrocarbures](partie-5)
 - [Partie 6 : Installations de réception](partie-6)
 - [Partie 7 : Prescriptions spéciales applicables aux plates-formes fixes ou flottantes](partie-7)
-- [Partie 8 : Prévention de la pollution au cours des opérations de transfert de cargaison d'hydrocarbures entre pétroliers en mer](partie-8)
+- [Partie 8 : Prescriptions spéciales relatives à l'utilisation ou au transport d'hydrocarbures dans la zone de l'Antarctique](partie-8)
 - [Annexes](annexes)
 - [Appendices](appendices)
