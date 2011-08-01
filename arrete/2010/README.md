@@ -991,7 +991,6 @@
 - [Arrêté du 12 avril 2010 (ECEP1009910A)](arrete-du-12-avril-2010-ecep1009910a)
 - [Arrêté du 12 avril 2010 (MAEF1009370A)](arrete-du-12-avril-2010-maef1009370a)
 - [Arrêté du 12 avril 2010 (MAEF1009849A)](arrete-du-12-avril-2010-maef1009849a)
-- [Arrêté du 12 avril 2010 (OMEO1009863A)](arrete-du-12-avril-2010-omeo1009863a)
 - [Arrêté du 12 décembre 2011 (TRAT1125723A)](arrete-du-12-decembre-2011-trat1125723a)
 - [Arrêté du 12 février 2001 (MCCI0100097A)](arrete-du-12-fevrier-2001-mcci0100097a)
 - [Arrêté du 12 février 2010 (AGRS1002186A)](arrete-du-12-fevrier-2010-agrs1002186a)
