@@ -876,7 +876,6 @@
 - [Arrêté du 11 mai 2009 (AGRG0910668A)](arrete-du-11-mai-2009-agrg0910668a)
 - [Arrêté du 11 mai 2009 (DEFD0910610A)](arrete-du-11-mai-2009-defd0910610a)
 - [Arrêté du 11 mai 2009 (DEVE0911841A)](arrete-du-11-mai-2009-deve0911841a)
-- [Arrêté du 11 mai 2009 (ECEI0910082A)](arrete-du-11-mai-2009-ecei0910082a)
 - [Arrêté du 11 mai 2009 (JUSA0908041A)](arrete-du-11-mai-2009-jusa0908041a)
 - [Arrêté du 11 mai 2009 (MAEF0910254A)](arrete-du-11-mai-2009-maef0910254a)
 - [Arrêté du 11 mai 2009 (SASF0910625A)](arrete-du-11-mai-2009-sasf0910625a)

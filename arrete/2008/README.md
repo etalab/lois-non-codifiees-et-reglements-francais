@@ -10,7 +10,6 @@
 - [Arrêté du 2 décembre 2008 (DEVP0822572A)](arrete-du-2-decembre-2008-devp0822572a)
 - [Arrêté du 2 décembre 2008 (ECED0828483A)](arrete-du-2-decembre-2008-eced0828483a)
 - [Arrêté du 2 décembre 2008 (ECED0828484A)](arrete-du-2-decembre-2008-eced0828484a)
-- [Arrêté du 2 décembre 2008 (ECEI0827314A)](arrete-du-2-decembre-2008-ecei0827314a)
 - [Arrêté du 2 décembre 2008 (MTSS0829141A)](arrete-du-2-decembre-2008-mtss0829141a)
 - [Arrêté du 2 décembre 2008 (SJSH0828502A)](arrete-du-2-decembre-2008-sjsh0828502a)
 - [Arrêté du 2 décembre 2008 (SJSP0828522A)](arrete-du-2-decembre-2008-sjsp0828522a)
