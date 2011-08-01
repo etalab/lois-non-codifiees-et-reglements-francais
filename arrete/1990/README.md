@@ -367,7 +367,6 @@
 - [Arrêté du 15 octobre 1990 (ECOT9010087A)](arrete-du-15-octobre-1990-ecot9010087a)
 - [Arrêté du 15 octobre 1990 (INDD9000728A)](arrete-du-15-octobre-1990-indd9000728a)
 - [Arrêté du 15 octobre 1990 (PTTT9000816A)](arrete-du-15-octobre-1990-pttt9000816a)
-- [Arrêté du 15 mai 1990 (BUDR9004015A)](arrete-du-15-mai-1990-budr9004015a)
 - [Arrêté du 15 mai 1990 (COMC9000004A)](arrete-du-15-mai-1990-comc9000004a)
 - [Arrêté du 15 mai 1990 (EQUS9000760A)](arrete-du-15-mai-1990-equs9000760a)
 - [Arrêté du 16 août 1990 (ENVE9061473A)](arrete-du-16-aout-1990-enve9061473a)
