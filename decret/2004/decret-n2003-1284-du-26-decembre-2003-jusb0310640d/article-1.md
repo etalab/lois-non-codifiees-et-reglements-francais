@@ -8,8 +8,6 @@ Cette indemnité comprend :
 
 a) Une prime forfaitaire ;
 
-b) Une prime modulable ;
+b) Une prime modulable.
 
-c) Une prime pour travaux supplémentaires.
-
-Certaines catégories de magistrats auxquels le présent décret est applicable peuvent en outre percevoir une prime complémentaire à raison d'attributions spécifiques qui leur sont confiées.
+Une prime spécifique est en outre allouée aux magistrats qui connaissent à titre habituel des infractions visées à l'article 706-16 du code de procédure pénale dans l'exercice des fonctions de poursuite, d'instruction et de jugement ainsi qu'aux magistrats chargés du suivi des personnes condamnées pour de telles infractions.
