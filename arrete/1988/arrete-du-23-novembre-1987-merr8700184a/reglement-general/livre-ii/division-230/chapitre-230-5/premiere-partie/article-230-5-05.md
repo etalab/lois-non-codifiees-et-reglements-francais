@@ -12,7 +12,7 @@ Les jonctions et dérivations sont toutes réalisées par boîtes de jonction ap
 
 Il convient de prévoir en outre un dispositif qui puisse contrôler en permanence le degré d'isolation par rapport à la masse et donner une alerte sonore ou visuelle lorsque le degré d'isolation est anormalement bas.
 
-3. L'appareillage de transformation du courant primaire en courant TBT doit répondre aux conditions 471.3.2 de la norme NF C 15-100.
+3. L'appareillage de transformation du courant primaire en courant TBT doit répondre aux conditions 414.3.2 de la norme NF C 15-100.
 
 4. Toutes les parties métalliques découvertes des machines et de l'équipement électrique qui ne sont pas destinées à être mises sous tension mais qui peuvent l'être fortuitement, telles que carcasse de moteur, bâti, coffret métallique, enveloppe métallique d'appareil, etc. sont mises à la masse.
 

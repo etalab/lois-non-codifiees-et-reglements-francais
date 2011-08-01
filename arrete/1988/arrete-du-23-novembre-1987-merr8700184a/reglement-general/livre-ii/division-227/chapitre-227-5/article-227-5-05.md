@@ -10,7 +10,7 @@ Les jonctions et dérivations sont toutes réalisées par boîtes de jonction ap
 
 2. Sur tous les navires, il est installé une mise à la masse telle que définie à l'article 227-5.03.
 
-3. L'appareillage de transformation du courant primaire en courant TBT doit répondre aux conditions 471.3.2 de la Norme NF C 15-100.
+3. L'appareillage de transformation du courant primaire en courant TBT doit répondre aux conditions 414.3.2 de la Norme NF C 15-100.
 
 4. Toutes les parties métalliques découvertes des machines et de l'équipement électrique qui ne sont pas destinées à être mises sous tension mais qui peuvent l'être fortuitement, telles que carcasse de moteur, bâti, coffret métallique, enveloppe métallique d'appareil, etc. sont mises à la masse.
 

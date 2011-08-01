@@ -8,4 +8,4 @@ En outre, si l'intervention d'une société de classification agréée est requi
 
 A l'appui de sa demande de renouvellement, l'armateur indique si depuis sa dernière visite le navire a subi ou non des modifications et lesquelles.
 
-La périodicité de renouvellement du permis de navigation des navires aquacoles de longueur inférieure à 24 mètres effectuant une navigation en 3e, 4e ou 5e catégorie est portée à cinq ans.
+La périodicité de renouvellement du permis de navigation des navires aquacoles de longueur inférieure à douze mètres effectuant une navigation en 4e ou 5e catégorie est portée à quatre ans.
