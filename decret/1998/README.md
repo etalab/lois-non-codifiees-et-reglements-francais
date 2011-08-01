@@ -9,7 +9,6 @@
 - [Décret n°98-231 du 1 avril 1998 (FPPA9800069D)](decret-n98-231-du-1-avril-1998-fppa9800069d)
 - [Décret n°98-232 du 1 avril 1998 (FPPA9800059D)](decret-n98-232-du-1-avril-1998-fppa9800059d)
 - [Décret n°98-248 du 1 avril 1998 (DEFE9755011D)](decret-n98-248-du-1-avril-1998-defe9755011d)
-- [Décret n°98-252 du 1 avril 1998 (MESS9820822D)](decret-n98-252-du-1-avril-1998-mess9820822d)
 - [Décret n°98-547 du 1 juillet 1998 (ECOU9800005D)](decret-n98-547-du-1-juillet-1998-ecou9800005d)
 - [Décret n°98-548 du 1 juillet 1998 (ECOU9800006D)](decret-n98-548-du-1-juillet-1998-ecou9800006d)
 - [Décret n°98-557 du 1 juillet 1998 (ECOF9820828D)](decret-n98-557-du-1-juillet-1998-ecof9820828d)
