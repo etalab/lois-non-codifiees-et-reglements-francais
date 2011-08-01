@@ -1,0 +1,5 @@
+# Article 43-1
+
+Les services nationaux de transport ferroviaire de voyageurs donnant lieu à l'attribution d'une compensation par l'Etat, quelle qu'en soit la nature, en contrepartie de la réalisation d'obligations de service public, font l'objet d'une convention de service public entre l'Etat et la SNCF.
+
+Conformément aux dispositions de l'article 4 du règlement (CE) n° 1370/2007 du Parlement européen et du Conseil du 23 octobre 2007, la convention définit notamment sa durée, la consistance des services, les conditions de leur exploitation, les modalités de leur financement, y compris pour ce qui concerne le financement du matériel roulant affecté à cette exploitation, ainsi que les principes et les règles de leur tarification. Elle indique les dessertes assurées, la fréquence des circulations, les objectifs de qualité de service et les prestations inhérentes au voyage devant être proposées. Elle précise les catégories des charges liées à la fourniture des services et leurs modalités d'évaluation.
