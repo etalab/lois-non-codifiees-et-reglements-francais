@@ -1390,6 +1390,5 @@
 - [Décret n°2010-1718 (EFIT1027834D)](decret-n2010-1718-efit1027834d)
 - [Décret n°2010-630 (SASV1007865D)](decret-n2010-630-sasv1007865d)
 - [Décret n°2010-870 (MTSA1010703D)](decret-n2010-870-mtsa1010703d)
-- [Décret n°2010-995 (OMEO1003899D)](decret-n2010-995-omeo1003899d)
 - [Décret n°2011-379 (PRMX1109196D)](decret-n2011-379-prmx1109196d)
 - [LOI organique n°2009-1523 du 10 décembre 2009 (JUSX0902104L)](loi-organique-n2009-1523-du-10-decembre-2009-jusx0902104l)
