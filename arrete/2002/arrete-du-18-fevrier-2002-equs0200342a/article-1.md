@@ -4,7 +4,7 @@ En application de l'article R. 212-3 (III) du code de la route, le titulaire d'u
 
 La demande d'équivalence, datée et signée, doit être accompagnée des pièces suivantes :
 
-1. Un justificatif d'identité et d'état civil ;
+1. La photocopie d'un justificatif d'identité  ;
 
 2. Une photographie d'identité récente ;
 
@@ -14,18 +14,18 @@ La demande d'équivalence, datée et signée, doit être accompagnée des pièce
 
 5. La photocopie des titres, diplômes ou certificats obtenus pour l'enseignement de la conduite d'une ou plusieurs catégories de véhicules ;
 
-6. Une attestation de l'autorité compétente de l'Etat membre d'origine ou de provenance indiquant que les titres, diplômes ou certificats obtenus permettent d'accéder dans cet Etat à la profession d'enseignant de la conduite d'une ou plusieurs catégories de véhicules ;
+6. En outre, pour les personnes titulaires d'un titre, diplôme ou certificat délivré dans un Etat membre qui ne réglemente pas l'exercice de cette profession ou la formation y conduisant, le demandeur apporte par tous moyens la preuve qu'il a exercé, dans cet Etat membre, la profession d'enseignant de la conduite d'une ou plusieurs catégories de véhicules, pendant une durée d'au moins deux ans à temps plein ou pendant une période équivalente à temps partiel, au cours des dix années précédentes.
 
-7. Un document de l'autorité ayant délivré les titres, diplômes ou certificats faisant état :
+Pour les personnes ayant acquis leur titre, diplôme ou certificat dans un pays tiers et admis en équivalence dans un autre Etat membre, la durée de l'expérience professionnelle dans cet Etat est de trois ans.
 
-- du contenu et de la durée des enseignements théoriques et pratiques sanctionnés par ces titres, diplômes ou certificats ;
+En complément des pièces mentionnées au 5, le préfet peut inviter le demandeur à lui fournir des informations concernant le niveau, la durée et le contenu de sa formation propres à lui permettre de déterminer l'existence éventuelle de différences substantielles avec la formation française exigée visée au I de l'article R. 212-3 du code de la route.
 
-- des conditions de leur délivrance ;
+Si le demandeur est dans l'impossibilité de fournir ces informations, le préfet s'adresse à l'autorité compétente ou au point de contact de l'Etat membre d'origine au sens des articles 3 et 57 de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, ou à tout autre organisme compétent de l'Etat membre d'origine, le cas échéant par l'intermédiaire du Centre international d'études pédagogiques (CIEP), agissant en tant que point de contact.
 
-8. En outre, pour les personnes titulaires d'un titre, diplôme ou certificat soit délivré par un pays tiers et reconnu équivalent dans un Etat membre, soit délivré dans un Etat membre qui ne réglemente pas l'exercice de cette profession : une attestation de l'autorité compétente de l'Etat membre d'origine ou de provenance certifiant que le demandeur a exercé, dans cet Etat membre, la profession d'enseignant de la conduite d'une ou plusieurs catégories de véhicules, pendant une durée d'au moins deux ans à temps plein ou pendant une période équivalente à temps partiel, au cours des dix années précédentes. Les dates d'exercice doivent être précisées sur l'attestation.
+Si aucune information complémentaire n'est disponible, le préfet arrête sa décision sur la base des éléments dont il dispose.
 
-Les documents précités doivent être rédigés en français ou traduits par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, ou d'un Etat partie à l'accord sur l'Espace économique européen.
+Les documents mentionnés aux 5 et 6 du présent article doivent être rédigés en français ou traduits par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, ou d'un Etat partie à l'accord sur l'Espace économique européen.
 
 Le préfet accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant.
 
-En cas de doute sur la validité des photocopies produites ou envoyées, le préfet peut demander de manière motivée par lettre recommandée avec une demande d'avis de réception la présentation des pièces originales. Les procédures en cours sont suspendues jusqu'à la production des pièces originales.
+En cas de doute sur la validité des photocopies produites ou envoyées, le préfet peut demander par lettre recommandée avec accusé de réception la présentation de copies certifiées conformes. Les procédures en cours sont suspendues jusqu'à la production de ces documents.
