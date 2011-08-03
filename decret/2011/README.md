@@ -142,6 +142,7 @@
 - [Décret n°2011-797 du 30 juin 2011 (TRAX1112474D)](decret-n2011-797-du-30-juin-2011-trax1112474d)
 - [Décret n°94-1225 du 30 décembre 1994 (AGRE9402354D)](decret-n94-1225-du-30-decembre-1994-agre9402354d)
 - [Décret n°2011-798 du 1er juillet 2011 (DEVA1110985D)](decret-n2011-798-du-1er-juillet-2011-deva1110985d)
+- [Décret n°2011-916 du 1er août 2011 (ETSS1120788D)](decret-n2011-916-du-1er-aout-2011-etss1120788d)
 - [Décret n°2009-1227 (AGRT0916823D)](decret-n2009-1227-agrt0916823d)
 - [Décret n°2011-294 (IOCC1033670D)](decret-n2011-294-iocc1033670d)
 - [Décret n°2011-846 (JUSC1118185D)](decret-n2011-846-jusc1118185d)

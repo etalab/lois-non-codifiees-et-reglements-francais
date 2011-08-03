@@ -26,5 +26,6 @@
 - [Ordonnance n°2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n2010-686-du-24-juin-2010-iocx1013964r)
 - [Ordonnance n° 2011-592 du 27 mai 2011 (EFIT1107940R)](ordonnance-n-2011-592-du-27-mai-2011-efit1107940r)
 - [Ordonnance n°2011-337 du 29 mars 2011 (JUSB1105063R)](ordonnance-n2011-337-du-29-mars-2011-jusb1105063r)
+- [Ordonnance n° 2011-915 du 1er août 2011 (EFIT1113500R)](ordonnance-n-2011-915-du-1er-aout-2011-efit1113500r)
 - [Ordonnance n° 2011-337 (JUSB1105063R)](ordonnance-n-2011-337-jusb1105063r)
 - [Ordonnance n°2011-91 (INDI1009820R)](ordonnance-n2011-91-indi1009820r)
