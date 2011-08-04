@@ -5,3 +5,4 @@
 - [LOI organique n°2011-333 du 29 mars 2011 (JUSX0918101L)](loi-organique-n2011-333-du-29-mars-2011-jusx0918101l)
 - [LOI organique n°2011-410 du 14 avril 2011 (IOCX0913613L)](loi-organique-n2011-410-du-14-avril-2011-iocx0913613l)
 - [LOI organique n°2011-883 du 27 juillet 2011 (IOCX1031502L)](loi-organique-n2011-883-du-27-juillet-2011-iocx1031502l)
+- [LOI organique n°2011-918 du 1er août 2011 (IOCX1107574L)](loi-organique-n2011-918-du-1er-aout-2011-iocx1107574l)
