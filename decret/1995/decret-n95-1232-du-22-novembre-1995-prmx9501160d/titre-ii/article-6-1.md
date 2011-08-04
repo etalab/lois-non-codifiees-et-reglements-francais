@@ -1,6 +1,6 @@
 # Article 6-1
 
-I.-Le secrétaire général de la mer réunit sous sa présidence un comité directeur de la fonction garde-côtes comprenant :
+I. - Le secrétaire général de la mer réunit sous sa présidence un comité directeur de la fonction garde-côtes comprenant :
 
 -le chef d'état-major de la marine ;
 
@@ -14,7 +14,7 @@ I.-Le secrétaire général de la mer réunit sous sa présidence un comité dir
 
 -le directeur de la sécurité civile.
 
-II.-Peuvent être entendus par le comité des représentants d'autres services de l'Etat ainsi que les représentants d'établissements publics ou d'organismes investis d'une mission d'intérêt général.
+II. - Peuvent être entendus par le comité des représentants d'autres services de l'Etat ainsi que les représentants d'établissements publics ou d'organismes investis d'une mission d'intérêt général.
 
 Peuvent notamment être entendus à ce titre :
 
@@ -30,7 +30,7 @@ Peuvent notamment être entendus à ce titre :
 
 -les présidents d'organismes agréés pour les opérations de secours et de sauvetage par le ministre chargé de la mer en application de l'article 13 du décret du 2 mai 1988 susvisé.
 
-III.-Le comité directeur contribue à la définition des politiques conduites au titre de la fonction garde-côtes, à l'identification des priorités d'action et des mesures d'organisation en découlant.A cet effet :
+III. - Le comité directeur contribue à la définition des politiques conduites au titre de la fonction garde-côtes, à l'identification des priorités d'action et des mesures d'organisation en découlant.A cet effet :
 
 1° Il propose des priorités d'action et soumet au Gouvernement, à partir des priorités fixées, des propositions sur le format global des moyens contribuant à la fonction garde-côtes ;
 
@@ -42,4 +42,6 @@ III.-Le comité directeur contribue à la définition des politiques conduites a
 
 Le comité directeur de la fonction garde-côtes établit, chaque année, à l'attention du comité interministériel à la mer un bilan de son action.
 
-IV.-Le comité directeur se réunit au moins deux fois par an, sur convocation de son président ou sur demande de l'un de ses membres permanents. Le secrétariat du comité directeur est assuré par le secrétariat général de la mer.
+IV. - Le comité directeur se réunit au moins deux fois par an, sur convocation de son président ou sur demande de l'un de ses membres permanents. Le secrétariat du comité directeur est assuré par le secrétariat général de la mer.
+
+V. - Le secrétaire général de la mer dispose d'un centre opérationnel de la fonction garde-côtes dont les missions, la composition et le fonctionnement sont fixés par décret.
