@@ -10,7 +10,7 @@ L'examen est organisé en épreuves ponctuelles terminales pour les autres candi
 
 Epreuve E1 : langue française, langages, éléments d'une culture humaniste et compréhension du monde
 
-Elle valide la capacité C1  communiquer dans un contexte social et professionnel en mobilisant des références culturelles .
+Elle valide la capacité C1 communiquer dans un contexte social et professionnel en mobilisant des références culturelles .
 
 Elle est affectée du coefficient 4.
 
@@ -28,7 +28,7 @@ Pour les candidats hors CCF, elle se compose d'une épreuve ponctuelle terminale
 
 Epreuve E2 : langue et culture étrangères
 
-L'épreuve valide la capacité C2  communiquer dans une langue étrangère dans des situations courantes de la vie professionnelle .
+L'épreuve valide la capacité C2 communiquer dans une langue étrangère dans des situations courantes de la vie professionnelle .
 
 Elle est affectée du coefficient 1.
 
@@ -40,7 +40,7 @@ Elle atteste du niveau B 1 + du cadre européen commun de référence pour les l
 
 Epreuve E3 : motricité, santé et socialisation par la pratique des activités physiques, sportives, artistiques et d'entretien de soi (APSAES)
 
-L'épreuve valide la capacité C3  développer sa motricité . Elle est affectée du coefficient 1.
+L'épreuve valide la capacité C3 développer sa motricité . Elle est affectée du coefficient 1.
 
 Pour les candidats bénéficiant du CCF, elle se compose de 3 CCF, à partir de trois APSAES différentes.
 
@@ -48,7 +48,7 @@ Pour les candidats hors CCF, elle se compose d'une épreuve pratique qui porte s
 
 Epreuve E4 : culture scientifique et technologique
 
-L'épreuve valide la capacité C4  mettre en œuvre des savoirs et savoir-faire scientifiques et techniques .
+L'épreuve valide la capacité C4 mettre en œuvre des savoirs et savoir-faire scientifiques et techniques .
 
 Elle est affectée d'un coefficient 4.
 
@@ -62,11 +62,11 @@ Pour les candidats hors CCF, elle se compose d'une épreuve ponctuelle terminale
 
 Epreuve E5 : choix techniques
 
-Elle valide la capacité C5  justifier des choix techniques d'intervention de génie écologique en fonction d'enjeux sociaux, économiques et environnementaux .
+Elle valide la capacité C5 justifier des choix techniques d'intervention de génie écologique en fonction d'enjeux sociaux, économiques et environnementaux .
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures. L'épreuve est corrigée à l'aide d'une grille critériée nationale, par deux enseignants choisis parmi trois disciplines :
+C'est une épreuve ponctuelle terminale écrite d'une durée de 2 h 30. L'épreuve est corrigée à l'aide d'une grille critériée nationale, par deux enseignants choisis parmi trois disciplines :
 
 - sciences et techniques de l'aménagement de l'espace/gestion et aménagements des espaces naturels ;
 
@@ -76,7 +76,7 @@ C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures. L'�
 
 Epreuve E6 : expérience en milieu professionnel
 
-Elle valide les capacités C6  analyser les conditions de mise en œuvre d'une action de génie écologique  et C7  communiquer en situation professionnelle .
+Elle valide les capacités C6 analyser les conditions de mise en œuvre d'une action de génie écologique et C7 communiquer en situation professionnelle .
 
 Elle est affectée du coefficient 3.
 
@@ -100,7 +100,7 @@ Les examinateurs sont :
 
 Epreuve E7 : pratiques professionnelles
 
-Elle valide les capacités C8  conduire en sécurité le travail d'une équipe sur une intervention de génie écologique dans une perspective de durabilité , C9  conduire en sécurité des travaux d'entretien d'espaces naturels et de reconstitution d'écosystèmes , C10  réaliser des actions de protection et de surveillance de l'environnement , C11  mettre en œuvre des activités d'accueil du public et d'animation-nature  et C12  s'adapter à des enjeux professionnels particuliers .
+Elle valide les capacités C8 conduire en sécurité le travail d'une équipe sur une intervention de génie écologique dans une perspective de durabilité , C9 conduire en sécurité des travaux d'entretien d'espaces naturels et de reconstitution d'écosystèmes , C10 réaliser des actions de protection et de surveillance de l'environnement , C11 mettre en œuvre des activités d'accueil du public et d'animation-nature et C12 s'adapter à des enjeux professionnels particuliers .
 
 Elle est affectée du coefficient 5.
 
