@@ -794,7 +794,6 @@
 - [Décret n°2008-836 du 22 août 2008 (BCFF0818552D)](decret-n2008-836-du-22-aout-2008-bcff0818552d)
 - [Décret n°2008-838 du 22 août 2008 (MTST0816808D)](decret-n2008-838-du-22-aout-2008-mtst0816808d)
 - [Décret n°2008-839 du 22 août 2008 (SJSP0816564D)](decret-n2008-839-du-22-aout-2008-sjsp0816564d)
-- [Décret n°2008-840 du 22 août 2008 (SJSH0815571D)](decret-n2008-840-du-22-aout-2008-sjsh0815571d)
 - [Décret n°2008-841 du 22 août 2008 (SJSP0816560D)](decret-n2008-841-du-22-aout-2008-sjsp0816560d)
 - [Décret n°2008-994 du 22 septembre 2008 (IOCB0819307D)](decret-n2008-994-du-22-septembre-2008-iocb0819307d)
 - [Décret n°2008-995 du 22 septembre 2008 (AGRF0811074D)](decret-n2008-995-du-22-septembre-2008-agrf0811074d)
