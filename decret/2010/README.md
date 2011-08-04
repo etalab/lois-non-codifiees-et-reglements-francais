@@ -10,7 +10,6 @@
 - [Décret n°2010-1308 du 2 novembre 2010 (MTSA1027265D)](decret-n2010-1308-du-2-novembre-2010-mtsa1027265d)
 - [Décret n°2010-1309 du 2 novembre 2010 (DEVU1019479D)](decret-n2010-1309-du-2-novembre-2010-devu1019479d)
 - [Décret n°2010-1310 du 2 novembre 2010 (JUSC1009177D)](decret-n2010-1310-du-2-novembre-2010-jusc1009177d)
-- [Décret n°2010-1311 du 2 novembre 2010 (ECET1026274D)](decret-n2010-1311-du-2-novembre-2010-ecet1026274d)
 - [Décret n°2010-1314 du 2 novembre 2010 (BCRB1023245D)](decret-n2010-1314-du-2-novembre-2010-bcrb1023245d)
 - [Décret n°2010-1315 du 2 novembre 2010 (OMEO1017448D)](decret-n2010-1315-du-2-novembre-2010-omeo1017448d)
 - [Décret n°2010-1468 du 2 décembre 2010 (EFIX1030333D)](decret-n2010-1468-du-2-decembre-2010-efix1030333d)
