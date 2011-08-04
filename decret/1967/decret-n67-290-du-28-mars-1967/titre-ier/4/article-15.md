@@ -2,9 +2,9 @@
 
 Les agents en service à l'étranger, à l'exception des chefs de mission diplomatique, subissent une retenue portant sur le total formé par la rémunération principale et les avantages familiaux, lorsqu'ils occupent un logement mis à leur disposition par l'Etat français, par un Etat étranger ou toute autre organisation.
 
-Le taux de cette retenue est de 15% pour les magistrats et les fonctionnaires appartenant à des corps de catégorie A et B au sens de l'article 29 de la loi 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat, ainsi que pour tous les personnels civils dont l'emploi ou le corps comporte une rémunération de début au moins égale au traitement afférent à l'indice brut 250.
+Le taux de cette retenue est de 15 % pour les magistrats et les fonctionnaires appartenant à des corps de catégorie A et B au sens de l'article 29 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ainsi que pour tous les personnels civils occupant des fonctions de niveau équivalent.
 
-Ce taux est réduit à 10% dans tous les autres cas.
+Pour les fonctionnaires appartenant à un corps de catégorie C et les personnels civils occupant des fonctions de niveau équivalent, le taux de la retenue est réduit à 10 %.
 
 Le montant de la retenue résultant de l'application des taux de 15 et 10% ci-dessus est, le cas échéant, augmenté respectivement de 25% ou de 15% de la partie du loyer excédant ce montant. Le montant du loyer à retenir est :
 

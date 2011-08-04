@@ -1,18 +1,20 @@
 # Article 2
 
-Les émoluments des personnels visés à l'article 1er comprennent limitativement, sous réserve des modalités d'attribution prévues au titre II, les éléments suivants :
+Les émoluments des personnels visés à l'article 1er comprennent limitativement, sous réserve des modalités d'attribution prévues par le présent décret, les éléments suivants :
 
 1° Rémunération principale.
 
 Le traitement ;
 
-L'indemnité de résidence.
+L'indemnité de résidence à l'étranger, qui tient lieu d'indemnité de résidence au sens de l'article 20 de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires.
+
+1° bis Prime de performance individuelle ;
 
 2° Avantages familiaux :
 
-- le supplément familial ;
+-le supplément familial ;
 
-- les majorations familiales pour enfant à charge.
+-les majorations familiales pour enfant à charge qui tiennent lieu de supplément familial de traitement au sens de l'article 20 de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires.
 
 3° Indemnités forfaitaires pour rembourser des frais éventuels ;
 
