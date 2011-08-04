@@ -28,7 +28,7 @@ A.-Pour le président de la Polynésie française, le conseil des ministres et l
 
 B.-Pour l'assemblée de la Polynésie française :
 
-1° Ses délibérations, autres que les actes prévus à l'article 140 dénommés " lois du pays ", et celles prises par sa commission permanente par délégation de l'assemblée ;
+1° Ses délibérations, autres que les actes prévus à l'article 140 dénommés " lois du pays ", et celles prises par sa commission permanente ;
 
 2° Les décisions individuelles de son président relatives à la nomination, à la mise à la retraite d'office, à la révocation et au licenciement d'agents de l'assemblée ;
 

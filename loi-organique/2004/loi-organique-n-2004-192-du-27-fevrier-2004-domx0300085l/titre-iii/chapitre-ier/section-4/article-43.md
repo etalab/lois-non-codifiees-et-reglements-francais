@@ -1,6 +1,6 @@
 # Article 43
 
-I. - Dans le cadre des règles édictées par l'Etat et par la Polynésie française conformément à leurs compétences respectives, et sans préjudice des attributions qui leur sont réservées à la date d'entrée en vigueur de la présente loi organique, par les lois et règlements en vigueur, les communes de la Polynésie française sont compétentes dans les matières suivantes :
+I.-Dans le cadre des règles édictées par l'Etat et par la Polynésie française conformément à leurs compétences respectives, et sans préjudice des attributions qui leur sont réservées à la date d'entrée en vigueur de la présente loi organique, par les lois et règlements en vigueur, les communes de la Polynésie française sont compétentes dans les matières suivantes :
 
 1° Police municipale ;
 
@@ -20,7 +20,7 @@ I. - Dans le cadre des règles édictées par l'Etat et par la Polynésie franç
 
 9° Collecte et traitement des eaux usées.
 
-II. - Dans les conditions définies par les actes prévus à l'article 140 dénommés "lois du pays" et la réglementation édictée par la Polynésie française, sous réserve du transfert des moyens nécessaires à l'exercice de ces compétences, les communes peuvent intervenir dans les matières suivantes :
+II.-Dans les conditions définies par les actes prévus à l'article 140 dénommés " lois du pays " et la réglementation édictée par la Polynésie française, sous réserve du transfert des moyens nécessaires à l'exercice de ces compétences, les communes ou les établissements publics de coopération intercommunale peuvent intervenir dans les matières suivantes :
 
 1° Aides et interventions économiques ;
 

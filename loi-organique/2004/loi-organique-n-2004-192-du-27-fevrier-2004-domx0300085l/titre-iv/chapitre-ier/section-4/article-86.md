@@ -1,3 +1,7 @@
 # Article 86
 
 Le président de la Polynésie française et les autres membres du gouvernement de la Polynésie française sont, au même titre que les fonctionnaires ou agents publics et les personnes qui les assistent, tenus de garder le secret sur les faits dont ils ont eu connaissance en raison de leurs fonctions.
+
+Le nombre de collaborateurs de cabinet du président de la Polynésie française, du vice-président et des autres membres du gouvernement ne peut excéder la limite fixée par l'assemblée de la Polynésie française, sur proposition de sa commission de contrôle budgétaire et financier. L'assemblée de la Polynésie française inscrit dans le budget de la collectivité, sur un chapitre spécialement créé à cet effet, les crédits nécessaires à la rémunération de ces collaborateurs de cabinet, sans que ces crédits puissent excéder 3 % des crédits consacrés à la rémunération des personnels de la Polynésie française (1).
+
+Les fonctions de collaborateur de cabinet auprès du président de la Polynésie française, du vice-président ou d'un autre membre du gouvernement prennent fin au plus tard en même temps que les fonctions de l'autorité auprès de laquelle chaque collaborateur est placé. Le président de la Polynésie française peut librement mettre fin aux fonctions des collaborateurs exerçant au sein de son cabinet ainsi que dans ceux du vice-président et des autres membres du gouvernement (1).

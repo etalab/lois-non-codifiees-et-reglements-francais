@@ -8,7 +8,7 @@ Les électeurs sont convoqués par décret. Le décret est publié au Journal of
 
 L'annulation des opérations électorales dans une circonscription entraîne l'organisation d'une nouvelle élection dans cette circonscription dans les trois mois suivant la lecture de l'arrêt du Conseil d'Etat. Les électeurs sont convoqués selon les modalités fixées au troisième alinéa. Le mandat des nouveaux membres expire en même temps que celui des autres membres de l'assemblée de la Polynésie française.
 
-II. - Lorsqu'un siège de représentant à l'assemblée de la Polynésie française devient vacant pour quelque cause que ce soit, il est pourvu par le candidat venant immédiatement après le dernier élu sur la liste dont le membre sortant est issu.
+II. - Lorsqu'un siège de représentant à l'assemblée de la Polynésie française devient vacant pour quelque cause que ce soit, il est pourvu par le candidat venant immédiatement après le dernier élu sur la section de la liste dont le membre sortant est issu.
 
 Lorsque l'application de cette règle ne permet pas de combler une vacance, il est procédé dans les trois mois à une élection partielle.
 

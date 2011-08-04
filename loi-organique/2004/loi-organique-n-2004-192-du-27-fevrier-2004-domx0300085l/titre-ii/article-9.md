@@ -8,6 +8,8 @@ L'assemblée de la Polynésie française est consultée :
 
 3° Sur les projets de loi autorisant la ratification ou l'approbation des engagements internationaux qui interviennent dans les domaines de compétence de la Polynésie française.
 
+Les projets de loi mentionnés aux 1° et 3° sont accompagnés, le cas échéant, des documents prévus aux articles 8 et 11 de la loi organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44 de la Constitution.
+
 L'assemblée dispose d'un délai d'un mois pour rendre son avis. Ce délai est réduit à quinze jours, en cas d'urgence, à la demande du haut-commissaire de la République. Le délai expiré, l'avis est réputé avoir été donné.
 
 Sauf lorsqu'est en cause la définition du statut de la Polynésie française prévue par l'article 74 de la Constitution, l'avis peut être émis par la commission permanente si elle y a été habilitée par l'assemblée de la Polynésie française.

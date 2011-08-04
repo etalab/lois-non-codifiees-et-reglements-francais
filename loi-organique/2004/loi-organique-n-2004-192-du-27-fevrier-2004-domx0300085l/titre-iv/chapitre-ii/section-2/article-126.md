@@ -1,6 +1,6 @@
 # Article 126
 
-Les représentants à l'assemblée de la Polynésie française perçoivent mensuellement une indemnité dont le montant est fixé par l'assemblée par référence au traitement des agents publics de la Polynésie française. Cette indemnité est versée jusqu'à la première réunion de l'assemblée prévue au deuxième alinéa de l'article 118.
+Les représentants à l'assemblée de la Polynésie française perçoivent mensuellement une indemnité dont le montant est fixé par l'assemblée par référence au traitement des agents publics de la Polynésie française et plafonné au traitement afférent à l'indice 707. Cette indemnité est versée jusqu'à la première réunion de l'assemblée prévue au deuxième alinéa de l'article 118.
 
 Cette indemnité peut se cumuler avec celle de membre du Parlement dans le respect des conditions fixées par l'article 4 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement.
 

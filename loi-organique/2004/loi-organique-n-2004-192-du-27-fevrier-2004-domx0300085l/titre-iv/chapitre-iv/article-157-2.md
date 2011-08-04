@@ -2,7 +2,7 @@
 
 Le président de la Polynésie française transmet à l'assemblée de la Polynésie française tout projet de décision relatif :
 
-1° A l'attribution d'une aide financière ou d'une garantie d'emprunt à une personne morale;
+1° A l'attribution d'une aide financière supérieure à un seuil défini par l'assemblée sur proposition de sa commission de contrôle budgétaire et financier ou à l'attribution d'une garantie d'emprunt à une personne morale. Le gouvernement fait annuellement rapport à l'assemblée sur le montant, l'objet et l'utilisation des aides financières situées en deçà de ce seuil ;
 
 2° Aux participations de la Polynésie française au capital des sociétés mentionnées à l'article 30 et au capital des sociétés d'économie mixte;
 

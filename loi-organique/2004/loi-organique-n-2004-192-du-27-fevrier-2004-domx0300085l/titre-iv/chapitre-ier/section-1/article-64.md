@@ -16,4 +16,4 @@ Il signe tous contrats.
 
 Il est l'ordonnateur du budget de la Polynésie française.
 
-Il peut déléguer le pouvoir d'ordonnateur. Il peut adresser un ordre de réquisition au comptable de la Polynésie française dans les conditions fixées à l'article LO 274-5 du code des juridictions financières, mais ne peut pas déléguer ce pouvoir.
+Il peut déléguer le pouvoir d'ordonnateur au vice-président et aux ministres ainsi qu'aux responsables des services de la Polynésie française. Il peut adresser un ordre de réquisition au comptable de la Polynésie française dans les conditions fixées à l'article LO 274-5 du code des juridictions financières, mais ne peut pas déléguer ce pouvoir.

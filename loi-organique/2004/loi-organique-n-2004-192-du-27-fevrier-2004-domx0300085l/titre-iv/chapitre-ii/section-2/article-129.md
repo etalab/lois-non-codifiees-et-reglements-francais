@@ -7,3 +7,5 @@ Son président est ordonnateur du budget de l'assemblée ; il peut déléguer se
 Les crédits nécessaires au budget de l'assemblée font l'objet de propositions préparées par une commission dont les membres sont désignés par l'assemblée de la Polynésie française. Les propositions ainsi arrêtées sont transmises au président de la Polynésie française, au plus tard le 15 octobre, et inscrites au projet de budget de la Polynésie française auquel est annexé un rapport explicatif.
 
 La progression d'une année sur l'autre du budget de fonctionnement de l'assemblée ne peut à représentation constante excéder celle de l'évolution prévisible des recettes ordinaires telle qu'elle est communiquée à l'assemblée, au plus tard le 1er octobre, par le président de la Polynésie française.
+
+Les fonctions de collaborateur du président de l'assemblée de la Polynésie française ou d'un représentant à cette assemblée prennent fin en même temps que le mandat de l'élu auprès duquel chaque collaborateur est placé. Le président de l'assemblée ou le représentant peut librement mettre fin aux fonctions de ses collaborateurs (1).
