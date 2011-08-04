@@ -1,224 +1,301 @@
 # Article 3
 
-<div>
-<br/>La composition des commissions consultatives paritaires instituées à l'article 1er est fixée comme suit :<br/>
-<div align="center">
+La composition des commissions consultatives paritaires instituées à l'article 1er est fixée comme suit :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>NUMÉROS<br/>des commissions</th>
+<br/>NUMÉROS<br/>
+<br/>des<br/>
+<br/>commissions<br/>
+</th>
 <th>
-<br/>CATÉGORIES REPRÉSENTÉES</th>
+<br/>
+<br/>
+<br/>CATÉGORIES REPRÉSENTÉES<br/>
+</th>
 <th colspan="4">
-<br/>NOMBRE DE REPRÉSENTANTS</th>
+<br/>NOMBRE DE REPRÉSENTANTS<br/>
+</th>
 </tr>
 <tr>
 <th/>
 <th/>
 <th colspan="2">
-<br/>Du personnel</th>
+<br/>Du personnel<br/>
+</th>
 <th colspan="2">
-<br/>De l'administration</th>
+<br/>De l'administration<br/>
+</th>
 </tr>
 <tr>
 <th/>
 <th/>
 <th>
-<br/>Titulaires</th>
+<br/>Titulaires<br/>
+</th>
 <th>
-<br/>Suppléants</th>
+<br/>Suppléants<br/>
+</th>
 <th>
-<br/>Titulaires</th>
+<br/>Titulaires<br/>
+</th>
 <th>
-<br/>Suppléants</th>
+<br/>Suppléants<br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>1</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>Agent contractuel sous CDI.</td>
+<br/>Agent contractuel sous CDI<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>Agent contractuel sous CDD<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>4</td>
+<br/>4<br/>
+</td>
 <td align="center">
-<br/>4</td>
+<br/>4<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>Agent contractuel sous CDD.</td>
+<br/>Chargé de mission contractuel régi par la décision ministérielle de 1971 et agent contractuel assimilé<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>2<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2</td>
+<br/>3<br/>
+</td>
 <td align="center">
-<br/>Chargé de mission contractuel régi par la décision de 1971 et agent contractuel assimilé.</td>
+<br/>Chargé de mission de classe exceptionnelle<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3</td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>Chargé de mission de classe exceptionnelle.</td>
+<br/>Chargé de mission de classe normale<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>6<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>6<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>Chargé de mission de classe normale.</td>
+<br/>Agent contractuel hors catégorie<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>6</td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>6</td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>Agent contractuel hors catégorie.</td>
+<br/>Agent contractuel de 1re et de 2e catégorie<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>4<br/>
+</td>
 <td align="center">
-<br/>Agent contractuel de 1re et 2e catégorie.</td>
+<br/>Ingénieur mécanicien électricien <br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4</td>
+<br/>5<br/>
+</td>
 <td align="center">
-<br/>Architecte de classe exceptionnelle et ingénieur mécanicien électricien de classe exceptionnelle.</td>
+<br/>Ingénieur adjoint <br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>6<br/>
+</td>
 <td align="center">
-<br/>Ingénieur mécanicien électricien de classe normale.</td>
+<br/>Ouvrier (statut alcools)<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>1</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/> </td>
+<br/>1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5</td>
+<br/>7<br/>
+</td>
 <td align="center">
-<br/>Ingénieur adjoint et contrôleur principal des installations téléphoniques.</td>
+<br/>Conducteur de véhicules poids lourd (statut alcools)<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>1<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6</td>
+<br/>8<br/>
+</td>
 <td align="center">
-<br/>Contremaître, chef d'équipe et ouvrier professionnel (statut alcools).</td>
+<br/>Médecin de prévention<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 <td align="center">
-<br/>2</td>
+<br/>2<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>7</td>
-<td align="center">
-<br/>Conducteur de véhicules poids-lourds (statut alcools).</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>1</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-<br/>
-<br/>
-</div>
