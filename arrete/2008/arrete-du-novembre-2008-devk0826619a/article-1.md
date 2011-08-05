@@ -38,4 +38,8 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 18° Les opérations liées à la réorganisation de l'administration territoriale de l'Etat en Ile-de-France ;
 
-19° La réorganisation de l'administration territoriale de l'Etat en outre-mer.
+19° La réorganisation de l'administration territoriale de l'Etat en outre-mer ;
+
+20° La création de trois pôles interrégionaux de collecte et de production des statistiques de la construction et du logement ;
+
+21° La création d'un service à compétence nationale pour l'instruction et la délivrance des certificats d'économies d'énergie.
