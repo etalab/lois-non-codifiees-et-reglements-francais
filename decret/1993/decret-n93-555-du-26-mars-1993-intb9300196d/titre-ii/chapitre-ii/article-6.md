@@ -1,23 +1,23 @@
 # Article 6
 
-Les épreuves d'admissibilité du concours externe pour le recrutement des conseillers territoriaux des activités physiques et sportives comprennent :
+Les épreuves d'admissibilité du concours externe comprennent :
 
-1° Au choix du jury soit une composition, soit une note de synthèse portant sur un sujet d'ordre général relatif aux aspects éthiques, sociaux, économiques, législatifs et réglementaires du sport en France, dans la Communauté européenne et au niveau international ou sur un sujet d'ordre général relatif aux institutions politiques et administratives de la France (durée :
+1° Une épreuve écrite consistant en la réponse à six questions portant sur les éléments essentiels dans chacun des domaines suivants :
 
-quatre heures ; coefficient 3) ;
+a) Des techniques et méthodes de l'entraînement sportif ;
 
-2° Une composition se rapportant aux connaissances relatives à la pratique et à l'enseignement des activités physiques et sportives. Cette épreuve doit permettre de vérifier les connaissances du candidat dans les domaines des sciences biologiques et des sciences humaines (durée : quatre heures ; coefficient 3) ;
+b) De l'enseignement des activités physiques et sportives ;
 
-3° La rédaction d'une note ayant pour objet de vérifier l'aptitude des candidats à l'analyse d'un dossier soulevant un problème d'organisation ou de gestion du sport rencontré par une collectivité territoriale (durée : trois heures ; coefficient 3) ;
+c) De la sociologie des pratiques sportives ;
 
-4° Une composition permettant d'apprécier les connaissances du candidat dans l'un des domaines suivants choisi par le candidat au moment de l'inscription :
+d) De la gestion financière appliquée aux services des sports ;
 
-a) Les techniques et méthodes de l'entraînement sportif ;
+e) De la conception et l'entretien des équipements sportifs et de loisirs ;
 
-b) L'enseignement des activités physiques et sportives ;
+f) Des sciences biologiques et des sciences humaines,
 
-c) La sociologie des pratiques sportives ;
+(durée : quatre heures ; coefficient 3).
 
-d) La gestion financière appliquée aux services des sports ;
+Cette épreuve doit permettre au jury d'apprécier, outre les connaissances du candidat, sa capacité à présenter ses réponses de manière organisée.
 
-e) La conception et l'entretien des équipement sportifs et de loisirs (durée : trois heures ; coefficient 2).
+2° La rédaction d'une note ayant pour objet de vérifier l'aptitude des candidats à l'analyse d'un dossier soulevant un problème d'organisation ou de gestion rencontré par une collectivité territoriale dans le domaine des activités physiques et sportives ; (durée : quatre heures ; coefficient 4).
