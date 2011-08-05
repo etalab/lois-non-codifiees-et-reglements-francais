@@ -44,7 +44,6 @@
 - [Décret n°92-1080 du 2 octobre 1992 (RESY9200392D)](decret-n92-1080-du-2-octobre-1992-resy9200392d)
 - [Décret n°90-390 du 2 mai 1990 (FPPX9000042D)](decret-n90-390-du-2-mai-1990-fppx9000042d)
 - [Décret n°90-391 du 2 mai 1990 (FPPX9000055D)](decret-n90-391-du-2-mai-1990-fppx9000055d)
-- [Décret n°90-393 du 2 mai 1990 (SPSX9000010D)](decret-n90-393-du-2-mai-1990-spsx9000010d)
 - [Décret du 3 mars 1990 (INTX9010671D)](decret-du-3-mars-1990-intx9010671d)
 - [Décret n°87-495 du 3 juillet 1987 (MENF8700318D)](decret-n87-495-du-3-juillet-1987-menf8700318d)
 - [Décret n°90-1073 du 3 décembre 1990 (AGRS9001695D)](decret-n90-1073-du-3-decembre-1990-agrs9001695d)

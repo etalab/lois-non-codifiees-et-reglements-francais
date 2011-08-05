@@ -1,5 +1,0 @@
-# Article 1
-
-Le corps de l'inspection générale des affaires sociales est classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée. Il est placé sous l'autorité directe des ministres chargés de la sécurité sociale, de la santé, de l'action sociale, de la famille, du travail, de l'emploi et de la formation professionnelle.
-
-Outre les missions et les attributions qui lui sont dévolues par la loi et par les textes réglementaires, l'inspection générale des affaires sociales exerce une mission générale de contrôle, d'audit, d'étude, de conseil et d'évaluation en matière administrative et sociale. Elle peut également recevoir des missions du Premier ministre. Elle peut être autorisée par un des ministres auprès desquels elle est placée à effectuer des missions à la demande d'autres autorités nationales, d'organismes publics, de collectivités territoriales ou de leurs groupements, de fondations ou d'associations, d'Etats étrangers, d'organisations internationales ou de l'Union européenne.
