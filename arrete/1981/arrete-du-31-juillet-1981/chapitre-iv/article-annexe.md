@@ -24,13 +24,11 @@ Sous réserve des conditions relatives à l'inaptitude temporaire, aux privilèg
 
 1) Pour piloter un planeur utilisant un dispositif d'envol autre que celui ou ceux déjà mentionné (s) sur son carnet de vol, l'intéressé doit y être autorisé par un instructeur habilité après avoir suivi l'instruction nécessaire appropriée ;
 
-2) Pour voler en campagne, le pilote de planeur doit, sous réserve d'avoir acquis au préalable une expérience suf ﬁ sante concernant le pilotage de base et la détection et la montée en ascendance, répondre aux conditions suivantes :
+2) Pour voler en campagne, le pilote de planeur doit, sous réserve d'avoir acquis au préalable une expérience suffisante concernant le pilotage de base et la détection et la montée en ascendance, répondre aux conditions suivantes :
 
--avoir suivi 10 heures d'instruction en double commande réalisée sous la conduite d'un instructeur de vol à voile (ITV) dont au moins 8 heures de vol en circuit de campagne en un minimum de 3 vols ;
+- avoir suivi au moins 5 heures d'instruction en double commande réalisée sous la conduite d'un instructeur de vol à voile (ITV) ou un instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne
 
--avoir effectué, lors de la formation en vol dite de " campagne ", un entraînement à l'atterrissage en campagne et un atterrissage en double commande sur un lieu différent du point de départ ;
-
--avoir effectué comme pilote seul à bord au moins 2 circuits de campagne comportant un point de virage situé à au moins 50 kilomètres du terrain de décollage. Au moins un de ces vols en campagne s'achève sur un aérodrome différent de l'aérodrome de départ ou dans un champ. Une autorisation de l'instructeur de vol à voile (ITV) mentionnée sur le carnet de vol du pilote de planeur est nécessaire pour la réalisation de chacun de ces circuits en campagne.
+- avoir effectué un circuit d'au moins 100 kilomètres avec un instructeur ou d'au moins 50 kilomètres, comme pilote seul à bord, une autorisation mentionnée sur le carnet de vol du pilote de planeur est nécessaire pour la réalisation de ce circuit en campagne. Cette autorisation est délivrée par l'instructeur de vol à voile (ITV) ou l'instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne.
 
 3) Pour exercer les fonctions de commandant de bord sur tout planeur transportant des passagers, le pilote de planeur doit avoir accompli 50 heures (25 heures pour les titulaires d'une licence de pilote d'avion) de vol sur planeur comme pilote commandant de bord depuis l'obtention de sa licence, et y avoir été autorisé par un instructeur habilité après avoir satisfait à un contrôle en vol.
 
@@ -178,7 +176,7 @@ Pour obtenir le brevet et la licence de pilote privé " hélicoptère " par équ
 
 -brevet de pilote de ligne " hélicoptère ",
 
-2) Justi ﬁ er de l'accomplissement dans les 6 mois précédant la demande de délivrance par équivalence de la licence d'au moins 3 heures de vol en qualité de pilote d'hélicoptère commandant de bord. Si le candidat ne remplit pas cette condition, il doit satisfaire à un contrôle d'un instructeur habilité portant sur les épreuves pratiques exigées pour la délivrance du brevet de pilote privé " hélicoptère ".
+2) Justiﬁer de l'accomplissement dans les 6 mois précédant la demande de délivrance par équivalence de la licence d'au moins 3 heures de vol en qualité de pilote d'hélicoptère commandant de bord. Si le candidat ne remplit pas cette condition, il doit satisfaire à un contrôle d'un instructeur habilité portant sur les épreuves pratiques exigées pour la délivrance du brevet de pilote privé " hélicoptère ".
 
 À compter du 1er janvier 2006, le candidat qui remplit les conditions ﬁ xées au 1° ci-dessus et aux conditions d'expérience ﬁ xées au 2° ci-dessus peut obtenir le brevet et la licence de pilote privé hélicoptère.
 

@@ -22,13 +22,19 @@ f. Avoir satisfait à une épreuve d'aptitude en vue de la délivrance de la qua
 
 7.1.1.2. Privilèges
 
-La qualiﬁcation d'instructeur de pilote de planeur (ITP) permet à son titulaire de dispenser l'instruction en vol relative au programme du brevet de pilote de planeur et de délivrer, sous réserve qu'il en soit titulaire, les autorisations des moyens de lancement suivantes :
+La qualification d'instructeur de pilote de planeur (ITP) permet à son titulaire :
 
-- Autorisation par remorquage avion;
+- de dispenser l'instruction en vol relative au programme du brevet de pilote de planeur ;
 
-- Autorisation par treuillage;
+- sous réserve qu'il ait été formé à l'enseignement de cette pratique, de dispenser l'enseignement du vol sur la campagne ;
 
-- Autorisation par puissance embarquée (motoplaneur).
+- sous réserve qu'il en soit titulaire, de délivrer les autorisations des moyens de lancement suivantes :
+
+- autorisation par remorquage avion ;
+
+- autorisation par treuillage ;
+
+- autorisation par puissance embarquée (moto-planeur).
 
 7.1.1.3. Validité et renouvellement
 
