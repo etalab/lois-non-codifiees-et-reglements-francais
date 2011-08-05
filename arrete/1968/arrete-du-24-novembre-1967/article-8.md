@@ -52,9 +52,7 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 le marquage constitué d'un ensemble de triangles blancs et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
 
--marques relatives aux emplacements réservés au stationnement des véhicules utilisés par les personnes handicapées à mobilité réduite :
-
-grands invalides civils, grands invalides de guerre ou titulaires des titres mentionnés à l'article L. 2213-2 (3°) du code général des collectivités territoriales : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur les limites ou le long d'un emplacement de stationnement, rappelle que cet emplacement est réservé au stationnement des véhicules utilisés par des personnes handicapées à mobilité réduite;
+-marques relatives aux emplacements réservés au stationnement des véhicules  utilisés par les personnes titulaires de la carte de stationnement prévue à  l'article L. 241-3-2 du code de l'action sociale et des familles : le  pictogramme représentant une silhouette dans un fauteuil roulant, peint sur les  limites ou le long d'un emplacement de stationnement, indique que cet  emplacement est réservé au stationnement des véhicules utilisés par les  personnes mentionnées ci-dessus ;
 
 -marques relatives aux emplacements réservés au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs : le pictogramme représentant un véhicule électrique peint sur les limites ou le long d'un emplacement de stationnement rappelle que cet emplacement est réservé au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs ;
 

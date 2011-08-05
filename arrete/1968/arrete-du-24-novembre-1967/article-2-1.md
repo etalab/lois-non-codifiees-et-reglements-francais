@@ -92,7 +92,7 @@ Il donne des précisions concernant la réglementation relative au stationnement
 
 On distingue les différents types suivants :
 
-M6a qui indique que le stationnement et / ou l'arrêt est gênant au sens de l'article R. 417-10 du code de la route. Dans le cas de stationnement gênant, il complète le panneau B6a1 ou B6b1. Dans le cas de stationnement et d'arrêt gênants, il complète le panneau B6d.
+M6a qui indique que le stationnement et/ ou l'arrêt est gênant au sens de l'article R. 417-10 du code de la route. Dans le cas de stationnement gênant, il complète le panneau B6a1 ou B6b1. Dans le cas de stationnement et d'arrêt gênants, il complète le panneau B6d.
 
 Dans les deux cas, un véhicule en infraction est susceptible d'une mise en fourrière.
 
@@ -110,7 +110,7 @@ M 6 f qui donne des précisions concernant l'interdiction.
 
 M 6 g qui donne des indications diverses ne concernant pas les interdictions.
 
-M 6 h qui signale que le stationnement est réservé aux véhicules utilisés par les personnes handicapées à mobilité réduite : grands invalides civils, grands invalides de guerre ou titulaires des titres mentionnés à l'article L. 2213-2,3°, du code général des collectivités territoriales.
+M 6 h qui signale que le stationnement est réservé, en application de l'article L. 2213-2 (3°) du code général des collectivités territoriales, aux véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du code de l'action sociale et des familles.
 
 M 6 i qui signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
 
