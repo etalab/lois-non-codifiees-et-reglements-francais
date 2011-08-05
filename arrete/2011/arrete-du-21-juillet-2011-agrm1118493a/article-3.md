@@ -1,0 +1,3 @@
+# Article 3
+
+A l'appui de la demande doivent être joints le ou les titres d'autorisation d'exploitation correspondants ainsi qu'un projet de convention entre le concessionnaire et le nouvel exploitant, précisant les modalités du remplacement et sa durée. Lorsque l'exploitation de cultures marines est située sur le domaine public maritime géré par une personne publique autre que l'Etat, l'autorisation d'occupation du domaine public maritime délivrée par la personne publique gestionnaire des parcelles concédées est jointe à la demande. La convention pourra être signée et appliquée après décision favorable du directeur départemental des territoires et de la mer.

@@ -1,0 +1,3 @@
+# Article 4
+
+Après instruction de la demande, le directeur départemental des territoires et de la mer prend une décision qui, si elle est favorable, précise la durée de remplacement accordée. Cette durée ne peut excéder celle mentionnée par l'article 18 du décret n° 83-228 du 22 mars 1983 modifié. Les membres de la commission des cultures marines concernée sont informés de la demande et de la décision prise par le directeur départemental des territoires et de la mer et disposent de huit jours ouvrables pour faire part de leur position sur la décision prise. En l'absence de réponse, l'avis est réputé favorable à la décision prise. Au vu des avis exprimés, le directeur départemental des territoires et de la mer peut modifier sa décision.
