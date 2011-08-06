@@ -1,0 +1,3 @@
+# Article 24
+
+Les dispositions de la présente section sont applicables aux installations autorisées après le 3 mars 1999 ou ayant fait l'objet de modifications substantielles au sens de l'article R. 512-33 du code de l'environnement après cette date, à l'exception des installations relevant des rubriques 1432,1434,2210,2251,2565,2730,2731,2910 ou 2921 ainsi que des cimenteries, des papeteries, des verreries, cristalleries et installations de fabrication de fibres minérales et produits manufacturés dérivés, des installations de traitement, de stockage ou de transit de résidus urbains ou de déchets industriels, des établissements d'élevage et des installations d'incinération de cadavres d'animaux de compagnie.
