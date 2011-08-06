@@ -10,6 +10,7 @@
 - [Article Annexe VII d](article-annexe-vii-d.md)
 - [Article Annexe VII a](article-annexe-vii-a.md)
 - [Article Annexe VII b](article-annexe-vii-b.md)
+- [Substances visées à l'article 25](substances-visees-a)
 - [Méthodes de mesure de référence (art. 63)](methodes-de-mesure-de-reference-art)
 - [Méthodes de référence (art. 21)](methodes-de-reference-art)
 - [Substances nocives pour l'environnement visées au 15 du 3° de l'article 32](substances-nocives-pour-l-environnement-visees-au-15)
