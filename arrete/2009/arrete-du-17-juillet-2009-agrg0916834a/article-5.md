@@ -1,37 +1,31 @@
 # Article 5
 
-Les catégories de données enregistrées pour chaque détenteur déclaré auprès de l'établissement de l'élevage (EdE) sont précisées dans le cahier des charges annexé au présent arrêté et dans les articles 9 et 10 de l'arrêté du 24 novembre 2005 modifié susvisé.
+Les catégories de données enregistrées dans le système d'information TRACES pour chaque opérateur sont précisées dans le cahier des charges annexé au présent arrêté. Les catégories de données nominatives enregistrées pour chaque opérateur dans le système d'information TRACES sont les suivantes :
 
-Les catégories de données nominatives enregistrées pour chaque détenteur déclaré auprès de l'établissement de l'élevage (EdE) sont les suivantes :
+1. Informations relatives à l'expéditeur des animaux :
 
-1. Informations relatives au détenteur :
+- nom, prénom, civilité de l'expéditeur ;
 
-― numéro du détenteur délivré par l'EdE ;
+- adresse, code postal, commune, pays de l'expéditeur.
 
-― raison sociale ou situation civile ;
+2. Informations relatives au destinataire des animaux :
 
-― nom, prénom, civilité du détenteur ;
+- nom, prénom, civilité du destinataire ;
 
-― adresse, code postal, commune du détenteur ;
+- adresse, code postal, commune, pays du destinataire.
 
-― téléphone, adresse électronique du détenteur, fax ;
+3. Informations relatives au lieu d'origine des animaux échangés :
 
-― le numéro SIREN du détenteur ou le numéro NUMAGRIN.
+- nom du lieu d'origine des animaux échangés ;
 
-2. Informations relatives à l'exploitation :
+- numéro d'agrément et type du lieu d'origine des animaux échangés ;
 
-― numéro d'exploitation attribué par l'établissement de l'élevage à un détenteur ;
+- adresse, code postal, commune du lieu d'origine des animaux échangés.
 
-― raison sociale ou situation civile ;
+4. Informations relatives au lieu de destination des animaux échangés :
 
-― dénomination de l'exploitation ;
+- nom du lieu de destination des animaux échangés ;
 
-― adresse, code postal, commune de l'exploitation ;
+- numéro d'agrément et type du lieu de destination des animaux échangés ;
 
-― le numéro de SIRET de l'exploitation ou le numéro NUMAGRIT.
-
-3. Informations relatives aux sites d'élevage :
-
-― numéro d'identification du site d'élevage porcin ;
-
-― adresse, code postal, commune du site d'élevage.
+- adresse, code postal, commune du lieu de destination des animaux échangés.
