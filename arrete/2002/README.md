@@ -187,7 +187,6 @@
 - [Arrêté du 7 février 2002 (EQUT0101907A)](arrete-du-7-fevrier-2002-equt0101907a)
 - [Arrêté du 7 février 2002 (INTA0100804A)](arrete-du-7-fevrier-2002-inta0100804a)
 - [Arrêté du 7 février 2002 (INTA0100805A)](arrete-du-7-fevrier-2002-inta0100805a)
-- [Arrêté du 7 janvier 2002 (ATEP0210030A)](arrete-du-7-janvier-2002-atep0210030a)
 - [Arrêté du 7 janvier 2002 (EQUS0101904A)](arrete-du-7-janvier-2002-equs0101904a)
 - [Arrêté du 7 janvier 2002 (EQUS0101905A)](arrete-du-7-janvier-2002-equs0101905a)
 - [Arrêté du 7 juillet 2000 (MESS0022235A)](arrete-du-7-juillet-2000-mess0022235a)
