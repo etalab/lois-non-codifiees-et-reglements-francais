@@ -2,7 +2,7 @@
 
 Déroulement des épreuves au sol et en vol.
 
-Avant le premier vol, le postulant informe les services de la circulation aérienne concernés.
+Avant le premier vol, le postulant informe par écrit l'autorité de l'aviation civile locale compétente dans le ressort territorial de laquelle ce premier vol aura lieu.
 
 Les épreuves au sol et en vol sont conduites de manière à déterminer la conformité aux caractéristiques techniques décrites dans le dossier technique et les capacités au vol de l'aéronef concerné.
 

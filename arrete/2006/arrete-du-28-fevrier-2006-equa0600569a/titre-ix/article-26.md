@@ -2,4 +2,4 @@
 
 Modalités d'application.
 
-Les modalités d'application du présent arrêté sont précisées par instruction du directeur du contrôle de la sécurité.
+Les modalités d'application du présent arrêté sont précisées par instruction de la directrice de la sécurité de l'aviation civile.

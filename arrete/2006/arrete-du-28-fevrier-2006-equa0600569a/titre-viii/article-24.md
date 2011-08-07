@@ -1,6 +1,6 @@
 # Article 24
 
-Formation.
+Formation aux qualifications de type.
 
 a) Formation théorique et contrôle des connaissances :
 

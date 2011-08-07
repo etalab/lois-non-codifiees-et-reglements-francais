@@ -4,9 +4,7 @@ Suspension et retrait du CNRAC.
 
 Le CNRAC est suspendu dans au moins l'un des cas suivants :
 
-- le propriétaire ne peut montrer que l'aéronef est conforme à l'état dans lequel il était lors de la délivrance du CNRAC et que la navigabilité de l'aéronef est gérée conformément aux dispositions des articles 16 et 17 du présent arrêté ;
-
-- le propriétaire ne peut montrer que les exigences applicables pour l'entretien et le maintien de la navigabilité ont été satisfaites conformément aux dispositions de l'article 18 ;
+- le propriétaire ne peut montrer que l'aéronef est conforme à l'état dans lequel il était lors de la délivrance du CNRAC et que la navigabilité de l'aéronef est gérée conformément aux dispositions du titre V du présent arrêté ;
 
 - l'expérience en service fait apparaître que l'aéronef présente des risques ou des dangers qui n'étaient pas connus lors de la délivrance du CNRAC ;
 

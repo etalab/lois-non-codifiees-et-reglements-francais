@@ -1,7 +1,7 @@
 # Arrêté du 28 février 2006 relatif au certificat de navigabilité restreint d'aéronef de collection (CNRAC).
 
 - [TITRE Ier : GÉNÉRALITÉS.](titre-ier)
-- [TITRE II : COMMISSION CONSULTATIVE D'EXPERTS.](titre-ii)
+- [TITRE II : EXPERTS.](titre-ii)
 - [TITRE III : DÉLIVRANCE DU CNRAC.](titre-iii)
 - [TITRE IV : VALIDITÉ, RENOUVELLEMENT, SUSPENSION ET RETRAIT DU CNRAC.](titre-iv)
 - [TITRE V : GESTION DE LA NAVIGABILITÉ DE L'AÉRONEF.](titre-v)

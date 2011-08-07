@@ -1,21 +1,19 @@
 # Article 5
 
-Composition.
+Consultation des experts :
 
-La commission consultative d'experts est composée comme suit :
+Le ministre chargé de l'aviation civile peut consulter les experts mentionnés à l'article 4 afin :
 
-- le président de la commission ;
+- d'examiner les critères justifiant le classement de l'aéronef, notamment ses caractéristiques techniques, sa rareté et sa représentativité ;
 
-- quatre membres représentant les services ou les organismes habilités de l'aviation civile ;
+- d'évaluer les conditions techniques d'utilisation et de maintenance de l'aéronef, notamment en tenant compte des questions de nuisances ;
 
-- un membre sur proposition du directeur du musée de l'air et de l'espace ;
+- d'évaluer la qualification de type ou de classe applicable, et dans le cas d'une qualification de type d'aéronef de collection, d'évaluer les conditions de délivrance, de prorogation ou de renouvellement de cette qualification de type d'aéronef de collection ;
 
-- quatre membres sur proposition du président du "réseau du sport de l'air (RSA)".
+- d'évaluer la désignation des pilotes chargés de la formation telle que prévue à l'article 22.
 
-Les membres de la commission sont nommés pour trois ans par le ministre chargé de l'aviation civile.
+Ces experts peuvent également appeler l'attention du ministre chargé de l'aviation civile sur l'intérêt d'autoriser dans un régime adéquat avec les limitations appropriées les vols d'un appareil qui ne peut pas être classé en aéronef de collection mais dont la conservation en état de vol est jugée importante pour la communauté aéronautique.
 
-Chaque membre titulaire peut désigner un membre suppléant pour le représenter lorsqu'il est empêché.
+Le ministre chargé de l'aviation civile ou les experts peuvent faire appel à toute personne extérieure dont la compétence leur paraît utile.
 
-La commission peut faire appel à toute personne extérieure dont la compétence lui paraît utile.
-
-Les membres de la commission consultative d'experts nommés en application de l'arrêté du 21 septembre 1998 demeurent en fonctions jusqu'à la date prévue d'expiration de leur mandat. A la date d'application du présent arrêté, cette commission est complétée de deux membres : un membre représentant l'aviation civile, désigné par le ministre chargé de l'aviation civile, et un membre désigné par le ministre chargé de l'aviation civile, sur proposition du président du réseau des sports de l'air.
+Les experts sont informés de toute décision du ministre chargé de l'aviation civile relative au refus de classement, à la qualification de classe ou de type applicable et aux conditions de formation et de maintien des compétences associées.
