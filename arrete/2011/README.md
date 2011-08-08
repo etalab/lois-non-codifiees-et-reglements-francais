@@ -109,6 +109,7 @@
 - [Arrêté du 3 mai 2011 (MCCB1111675A)](arrete-du-3-mai-2011-mccb1111675a)
 - [Arrêté du 3 mai 2011 (MENH1111846A)](arrete-du-3-mai-2011-menh1111846a)
 - [Arrêté du 3 mai 2011 (PRMD1110178A)](arrete-du-3-mai-2011-prmd1110178a)
+- [Arrêté du 4 août 2011 (TRAT1120867A)](arrete-du-4-aout-2011-trat1120867a)
 - [Arrêté du 4 avril 2011 (AGRG1109062A)](arrete-du-4-avril-2011-agrg1109062a)
 - [Arrêté du 4 avril 2011 (BCRE1108608A)](arrete-du-4-avril-2011-bcre1108608a)
 - [Arrêté du 4 avril 2011 (BCRE1109815A)](arrete-du-4-avril-2011-bcre1109815a)
