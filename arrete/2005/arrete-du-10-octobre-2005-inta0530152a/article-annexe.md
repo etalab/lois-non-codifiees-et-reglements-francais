@@ -7,178 +7,212 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Chargé de la mise en place des nouvelles technologies au sein du cabinet<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Administrateur des systèmes d'information et de communication<br/>
+<td valign="top" width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mise en place du travail collaboratif législatif et réglementaire avec Matignon<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td valign="top" width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Section ressources humaines, référent RH<br/>
+<td valign="top" width="567">
+<p align="left">Chargé de la mise en place des nouvelles technologies au sein du cabinet</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Responsable d'un bureau d'ordre<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières comptables et juridiques<br/>
-<br/>Affaires budgétaires cellule subventions chapitre 122<br/>
+<td valign="top" width="567">
+<p align="left">Administrateur des systèmes d'information et de communication</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Affaires budgétaires cellule subventions chapitre 122<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td valign="top" width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestion budgétaire cabinet<br/>
+<td valign="top" width="567">
+<p>Mise en place du travail collaboratif législatif et réglementaire avec Matignon</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES<br/>
-<br/>ET DE RESPONSABILITÉS PARTICULIÈRES<br/>
-<br/>Adjoint au chef de bureau<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td valign="top" width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Traitement affaires réservées<br/>
+<td valign="top" width="567">
+<p align="left">Section ressources humaines, référent RH</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Distinctions honorifiques<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td valign="top" width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable logistique<br/>
+<td valign="top" width="567">
+<p align="center">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat de membres de cabinet<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td valign="top" width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat de membres de cabinet<br/>
+<td valign="top" width="567">
+<p align="left">Responsable d'un bureau d'ordre </p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat de membres de cabinet<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat de membres de cabinet<br/>
+<td valign="top" width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat de membres de cabinet<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTION D'ACCUEIL<br/>
-<br/>Huissier <br/>
+<td valign="top" width="567">
+<p align="left">Affaires budgétaires cellule subventions chapitre 122</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Huissier<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Huissier <br/>
+<td valign="top" width="567">
+<p align="left">Affaires budgétaires cellule subventions chapitre 122</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Gestion budgétaire cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Adjoint au chef de bureau</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p>Traitement affaires réservées</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chef de la section des ressources humaines</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p>Responsable logistique</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétariat de membres de cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p>Secrétariat de membres de cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétariat de membres de cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétariat de membres de cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétariat de membres de cabinet</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">FONCTION D'ACCUEIL</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Huissier</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p>Huissier</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Huissier</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
@@ -191,30 +225,44 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des compétences techniques<br/>
-<br/>Responsable de la section "missions et rapports"<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Gestionnaire en charge de la carrière et de la rémunération des membres du corps de l'IGA<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Gestionnaire en charge de la carrière et de la rémunération des membres du corps de l'IGA</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES<br/>ET DE RESPONSABILITÉS PARTICULIÈRES</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Secrétaire général adjoint</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
@@ -227,362 +275,397 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
-<br/>Secrétaire du directeur de cabinet et du directeur adjoint <br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire du directeur de cabinet et du directeur adjoint <br/>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Emplois de secrétariat</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du secrétaire général <br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire du secrétaire général <br/>
+<td valign="top" width="567">
+<p align="left">Secrétaire du directeur de cabinet et du directeur adjoint </p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Assistant de gestion<br/>
+<td valign="top" width="567">
+<p align="left">Secrétaire du directeur de cabinet et du directeur adjoint</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétaire du secrétaire général</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétaire du secrétaire général</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chargé de mission "archives et ressources documentaires" chargé de l'accompagnement et de la sécurité des systèmes d'information</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A ou B</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-DÉLÉGATION À LA PROSPECTIVE ET À LA STRATÉGIE
+SECRÉTARIAT GÉNÉRAL
+
+DIRECTION DE LA PROSPECTIVE ET DE LA PLANIFICATION DE SÉCURITÉ NATIONALE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
+<td width="567">
+<p align="center">LIBELLÉ</p>
+</td>
+<td width="170">
+<p align="center">CATÉGORIE</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES<br/>
-<br/>ET DE RESPONSABILITÉS PARTICULIÈRES<br/>
-<br/>Secrétaire général de la DPS<br/>
+<td valign="top" width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chef de la section conseil, audit et formation</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Au titre de la modernisation</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chargé de mission coordination</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Adjoint au chargé de mission coordination</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p>Responsable mission affaires générales</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Adjoint au responsable mission affaires générales</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">EMPLOIS DE SECRÉTARIAT</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétaire du directeur</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Secrétaire du directeur</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-DIRECTION DE LA PLANIFICATION DE SÉCURITÉ NATIONALE
+SECRÉTARIAT GÉNÉRAL
+
+DIRECTION DE LA MODERNISATION ET DE L'ADMINISTRATION TERRITORIALE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des compétences techniques<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
+</td>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de quart au centre de chiffrement BEAUVAU<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de quart au centre de chiffrement BEAUVAU<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de quart au centre de chiffrement BEAUVAU<br/>
+<td width="567">
+<p align="left">Pilotage de la LOLF</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de quart au centre de chiffrement BEAUVAU<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Chargé de mission coordination<br/>
+<td width="567">
+<p align="left">Chargé de la conception et de la généralisation du contrôle de gestion dans les préfectures</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Emplois de secrétariat<br/>
-<br/>Secrétaire du directeur<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire du directeur<br/>
+<td width="567">
+<p align="left">GPEEC administrateurs civils</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">GPEEC préfets</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Analyse et étude des carrières des hauts fonctionnaires</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Le chef du service d'immatriculation des cyclomoteurs à la sous-direction de la circulation et de la sécurité routières</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Suivi du projet SIV</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable de la gestion des crédits élections</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Gestionnaire du programme administration territoriale</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Le responsable du suivi des crédits de rémunération des hauts fonctionnaires</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Gestionnaire des marchés publics élections</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Référent RH - référent budget</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Gestionnaire des crédits élections</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section permis à points</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section de la fiabilisation de la base de données SNPC</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Préparation et suivi des réformes des professions réglementées de la route</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chargé du suivi de l'application informatique système national des permis de conduire</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Adjoint au chef du service du fichier national des permis de conduire</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable du groupe gestion contrôle sur l'application informatique système national des permis de conduire</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Emplois de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du directeur</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du directeur</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-SECRÉTARIAT GÉNÉRAL DIRECTION DE LA MODERNISATION ET DE L'ADMINISTRATION TERRITORIALE
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-<table>
-<tbody>
-<tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Pilotage de la LOLF<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de la conception et de la généralisation du contrôle de gestion dans les préfectures<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>GPEEC administrateurs civils<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>GPEEC préfets<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Analyse et étude des carrières des hauts fonctionnaires<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Suivi du projet titres sécurisés<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Responsable de la gestion des crédits élections<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gestionnaire du programme administration territoriale<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du suivi des crédits de rémunération des hauts fonctionnaires<br/>
-</td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gestionnaire des marchés publics élections<br/>
-</td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Référent RH - référent budget<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gestionnaire des crédits élections<br/>
-</td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section permis à points<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section de la fiabilisation de la base de données SNPC<br/>
-</td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du bureau de la sécurité et de la réglementation routières<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Chargé du suivi de l'application informatique système national des permis de conduire<br/>
-</td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du service du fichier national des permis de conduire<br/>
-</td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du groupe gestion contrôle sur l'application informatique système national des permis de conduire<br/>
-</td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du directeur<br/>
-</td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du directeur<br/>
-</td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du directeur<br/>
-</td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-</tbody>
-</table>
+SECRÉTARIAT GÉNÉRAL
 
 DIRECTION DES RESSOURCES HUMAINES
 
@@ -591,639 +674,703 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Assistant "GRH" du chef de cabinet (DIR)<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du pôle concours (SDRF)<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du pôle concours (SDRF)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières comptables et juridiques<br/>
+<td width="567">
+<p align="left">Assistante GRH du chef de cabinet (DIR)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Encadrement et instruction dossiers pensions, adjoint chef de secteur (BPAI) (SDAS)<br/>
+<td width="567">
+<p align="left">Chef du pôle concours (SDRF)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section "marchés publics" (SDRF)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Correspondant ACCORD (SDRF)<br/>
+<td width="567">
+<p>Adjoint au chef du pôle concours (SDRF)</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la cellule comptable (SDRF)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enregistrement des données et suivi du tableau de pilotage de l'activité de la SDRF <br/>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section "rémunérations-primes" ( BFPP)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section "budgétisation des dépenses de personnel" (BFPP)<br/>
+<td width="567">
+<p align="left">Encadrement et instructions dossiers pensions, adjoint chef de secteur (BPAI) (SDAS)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de bureau (BFPP)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable du pôle "rémunérations PTS" (BFPP) <br/>
+<td width="567">
+<p align="left">Chef de la section "marchés publics" (SDRF)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du pôle "régimes indemnitaires" (BFPP)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section "coordination des programmes" (BFPP)<br/>
+<td width="567">
+<p align="left">Adjoint au régisseur (SDRF)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section "coordination des programmes" (BFPP)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestionnaire des indemnités particulières et des TMO (BFPP)<br/>
+<td width="567">
+<p align="left">Chef de la cellule comptable (SDRF)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du pôle "rémunérations administration centrale" (BFPP)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestionnaire PTS (BFPP)<br/>
+<td width="567">
+<p align="left">Enregistrement des données et suivi du tableau de pilotage de l'activité de la SDRF</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de bureau (BAGES)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section GPEEC (BAGES)<br/>
+<td width="567">
+<p align="left">Chef de la section rémunérations-primes ( BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section affaires générales ( BAGES)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section affaires générales (BAGES)<br/>
+<td width="567">
+<p align="left">Chef de la section budgétisation des dépenses de personnel (BFPP)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section affaires générales (BAGES)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section dialogue social (BAGES)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de bureau (BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section dialogue social (BAGES)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section des personnels SIC (BPTS)<br/>
+<td width="567">
+<p align="left">Chargé d'études juridiques auprès de la chef de section rémunérations-primes (BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section des personnels SIC (BPTS)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section des personnels techniques (BPTS)<br/>
+<td width="567">
+<p align="left">Chef du pôle indemnitaire (BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section des personnels techniques chargé des personnels techniques A et B et des ouvriers d'Etat (BPTS)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section des personnels techniques chargé du pôle C technique (BPTS)<br/>
+<td width="567">
+<p align="left">Chef de la section "coordination des programmes" (BFPP)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section contractuels (BPTS)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section contractuels (BPTS)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section "coordination des programmes" (BFPP)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section A (BPA)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section B (BPA) <br/>
+<td width="567">
+<p align="left">Chef du pôle paie (BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section C (BPA)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section A (BPA) <br/>
+<td width="567">
+<p align="left">Gestionnaire de paie (BFPP)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de la section B (BPA) <br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section C (BPA) <br/>
+<td width="567">
+<p align="left">Adjoint au chef de bureau (BAGES)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section d'appui et synthèse (BPA)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
+<td width="567">
+<p align="left">Chef de la section GPRH (BGPRH)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la mission e-formation (SDRF)<br/>
+<td width="567">
+<p align="left">Chef de la section affaires générales (BAGES)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du département "pilotage du plan de formation" (SDRF)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable projet informatique (BPAI) (SDAS)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section affaires générales (BAGES)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION D'ACCUEIL<br/>
-<br/>Correspondant handicap national (BPSH) (SDAS) <br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la mission projet professionnel (MPP)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section affaires générales (BAGES)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de bureau (BPSH) (SDAS)<br/>
+<td width="567">
+<p align="left">Chef de la section dialogue social (BAGES)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef de bureau (BAFED) (SDAS)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de secteur (BPSH) (SDAS)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section dialogue social (BAGES)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de secteur (BPSH) (SDAS)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de secteur (BPSH) (SDAS)<br/>
+<td width="567">
+<p align="left">Chef de la section des personnels SIC (BPTS)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de secteur (BAFED) (SDAS)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emplois de secrétariat<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section des personnels SIC (BPTS)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat du directeur (DIR)<br/>
+<td width="567">
+<p align="left">Chef de la section des personnels techniques (BPTS)</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat du sous-directeur (DIR)<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire du chef de cabinet (DIR)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section des personnels techniques chargé des personnels techniques A et B et des ouvriers d'Etat (BPTS)</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat du sous-directeur (SDAS)<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat du sous-directeur (SDRF)<br/>
+<td width="567">
+<p align="left">Adjoint au chef de la section des personnels techniques chargé du pôle C technique (BPTS)</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat de l'adjoint au sous-directeur, chef du bureau des formations (SDRF)<br/>
+<td width="567">
+<p align="left">Chef de la section contractuels (BPTS)</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la section contractuels (BPTS)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section A (BPA)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section B (BPA) </p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section C (BPA)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la section A (BPA) </p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la section B (BPA) </p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la section C (BPA) </p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section pilotage stratégique (BPA)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de section GPRH (BGPRH)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la mission e-formation (SDRF)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du département "pilotage du plan de formation" (SDRF)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable projet informatique (BPAI) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION D'ACCUEIL</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Correspondant handicap national (BPSH) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de la mission projet professionnel (MPP)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de bureau (BPSH) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Adjoint au chef de bureau (BAFED) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de secteur (BPSH) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Chef de secteur (BPSH) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de secteur (BPSH) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Chef de secteur (BAFED) (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Emplois de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat du directeur (DIR)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat du sous-directeur (DIR)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du chef de cabinet (DIR)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Secrétariat du sous-directeur (SDAS)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat du sous-directeur (SDRF)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Secrétariat de l'adjoint au sous-directeur, chef du bureau des formations (SDRF)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-DIRECTION DE L'ÉVALUATION DE LA PERFORMANCE,
+SECRÉTARIAT GÉNÉRAL
 
-DES AFFAIRES FINANCIÈRES ET IMMOBILIÈRES
+DIRECTION DE L'ÉVALUATION DE LA PERFORMANCE, DES AFFAIRES FINANCIÈRES ET IMMOBILIÈRES
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Fonction RH, adjoint au chef du BRPA<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de pôle achats<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du pôle approvisionnement (BBFAC)<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de l'exécution budgétaire<br/>
+<td valign="top" width="567">
+<p align="left">Chef du bureau des ressources et des achats</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef de la section dépenses (BQJC)<br/>
+<td valign="top" width="567">
+<p align="left">Fonction RH, adjoint au chef du BRA</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du pôle ménage (BAIAC)<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du pôle administratif et financier (BAIAC)<br/>
+<td valign="top" width="567">
+<p>Chargé de l'exécution budgétaire BEAD</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de la mise en œuvre du contrôle interne comptable<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du pôle finances-régies (BBFAC)<br/>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Suivi de la programmation des crédits immobiliers de la police nationale (BAIPN)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de projet, adjoint au chef du BAIAC<br/>
+<td valign="top" width="567">
+<p align="left">Responsable du pôle ménage (BAIAC)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Chef du pôle budget de synthèse<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
+<td valign="top" width="567">
+<p>Chef du pôle administratif et financier (BAIAC)</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistante de direction<br/>
+<td valign="top" width="567">
+<p align="left">Chargé de la mise en œuvre du contrôle interne comptable</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Assistante de direction<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistante de direction<br/>
+<td valign="top" width="567">
+<p align="left">Chef de projet, adjoint au chef du BAIAC</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Responsable du pôle RDP sur le centre de service Chorus AG</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B ou C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Responsable du pôle RDP sur le centre de service Chorus PN</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B ou C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Responsable de pôle dépense du centre de service Chorus AG</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A ou B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Responsable de pôle dépense du centre de service Chorus AG</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A ou B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Responsable de pôle dépense du centre de service Chorus AG</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A ou B</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Correspondant Chorus habilitation à la mission Chorus de la SDAF</p>
+</td>
+<td valign="top" width="170">
+<p align="center">B ou C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chef du pôle budget de synthèse</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="center">FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Emplois de secrétariat</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Assistante de direction</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Assistante de direction</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Assistante de direction</p>
+</td>
+<td valign="top" width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+SECRÉTARIAT GÉNÉRAL
 
 DIRECTION DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION
 
@@ -1232,192 +1379,210 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Contrôleur de gestion<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Contrôleur de gestion<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé du développement des compétences<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé du reclassement des agents dans le cadre de la restructuration des services<br/>
+<td width="567">
+<p align="left">Contrôleur de gestion</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pilotage des projets<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de la mise en œuvre des nouvelles procédures bugétaires et financières<br/>
+<td width="567">
+<p align="left">Chargé du développement des compétences</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de la mise en œuvre des nouvelles procédures bugétaires et financières<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de la mise en œuvre des nouvelles procédures bugétaires et financières<br/>
+<td width="567">
+<p align="left">Chargé du reclassement des agents dans le cadre de la restructuration des services</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Animateur de la formation et du développement des compétences<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Acheteur au sein de la mission achats<br/>
+<td width="567">
+<p align="left">Pilotage des projets</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES<br/>
-<br/>ET DE RESPONSABILITÉS PARTICULIÈRES<br/>
-<br/>Adjoint au chef du bureau des affaires juridiques<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>adjoint au chef du bureau du budget, de la programmation financière<br/>
+<td width="567">
+<p align="left">Chargé de la mise en œuvre des nouvelles procédures budgétaires et financières</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du bureau du personnel et des compétences<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef du bureau du pilotage et de la gestion opérationnelle<br/>
+<td width="567">
+<p align="left">Chargé de la mise en œuvre des nouvelles procédures budgétaires et financières</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du bureau de la coordination, du pilotage et de la gestion<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du pôle gestion de proximité<br/>
+<td width="567">
+<p align="left">Chargé de la mise en œuvre des nouvelles procédures budgétaires et financières</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable de l'équipe d'intervention du site Beauvau<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable de l'équipe d'intervention du site Nélaton<br/>
+<td width="567">
+<p align="left">Animatrice de la formation et du développement des compétences</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du site de production de Val-Maubuée<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emplois de secrétariat<br/>
+<td width="567">
+<p align="left">Acheteur au sein de la mission achats</p>
+</td>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistante de direction <br/>
+<td width="567">
+<p align="center">FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES<br/>ET DE RESPONSABILITÉS PARTICULIÈRES</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistante de direction <br/>
+<td width="567">
+<p align="left">Adjoint au chef du bureau des affaires juridiques</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du bureau du budget, de la programmation financière</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du bureau du personnel et des compétences</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Adjoint au chef du bureau du pilotage et de la gestion opérationnelle</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjointe au chef du bureau de la coordination, du pilotage et de la gestion</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Chef du pôle gestion de proximité</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable de l'équipe d'intervention du site Beauvau</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Responsable de l'équipe d'intervention du site Nélaton</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau de la coordination, du pilotage et de la gestion</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la mission modernisation, achat et logistique</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Emplois de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Assistante de direction</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Assistante de direction</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+SECRÉTARIAT GÉNÉRAL
 
 DÉLÉGATION À L'INFORMATION ET À LA COMMUNICATION
 
@@ -1426,31 +1591,45 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
-<br/>Secrétariat particulier<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des compétences techniques<br/>
-<br/>Responsable adjoint de l'unité des productions événementielles<br/>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Emplois de secrétariat</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat particulier</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable de l'unité de production vidéo</p>
+</td>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 </tbody>
@@ -1463,597 +1642,657 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Gestion ressources humaines équipement de la DULE<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rédacteur à la section des affaires signalées<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Développeur d'application<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable cellule veille, analyse, documentation et prospective<br/>
+<td width="567">
+<p align="left">Chargé des emplois et des compétences</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rédacteur cellule veille, analyse, documentation et prospective<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section accès au logement des agents de l'Etat<br/>
+<td width="567">
+<p align="left">Rédacteur des affaires réservées</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Contrôleur de gestion chef du bureau de la modernisation<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au contrôleur de gestion<br/>
+<td width="567">
+<p align="left">Développeur d'application</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Chargé de la comptabilité et du mandatement<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de la comptabilité et du mandatement<br/>
+<td width="567">
+<p align="left">Assistant documentaire</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de la comptabilité et du mandatement<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Suivi des subventions de fonctionnement<br/>
+<td width="567">
+<p>Assistant documentaire</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Assistant gestion comptable et administrative, marchés : section saturnisme<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistant gestion comptable et administrative, marchés : section saturnisme<br/>
+<td width="567">
+<p align="left">Adjoint au chef de bureau du contingent fonctionnaire</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du bureau du budget, marchés, logistique<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de la section paie et prévisions<br/>
+<td width="567">
+<p>Chef du bureau de l'animation des actions de l'Etat</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Régisseur, chargé des opérations d'archivage<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Comptabilité de l'unité opérationnelle DULE<br/>
+<td width="567">
+<p align="left">Adjoint au chef de bureau de l'animation des actions de l'Etat</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gestion statistique, comptable des opérations de construction et logement<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rédacteur pôle protection et habitat<br/>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de la comptabilité et du mandatement<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section analyse financière des organismes reconnus d'utilité publique<br/>
+<td width="567">
+<p align="left">Chargé de la comptabilité et du mandatement</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Suivi des crédits d'investissement des BOP<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Analyse financière des organismes reconnus d'utilité publique<br/>
+<td width="567">
+<p align="left">Chargé de la comptabilité et du mandatement</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé du suivi de la comptabilité analytique<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé du suivi de la comptabilité analytique<br/>
+<td width="567">
+<p align="left">Chargé de la comptabilité et du mandatement</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du bureau des finances de l'Etat<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Correspondant paie "agents ministère de l'intérieur et écoles architecture"<br/>
+<td width="567">
+<p align="left">Suivi des subventions de fonctionnement</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION D'ACCUEIL<br/>
-<br/>Rédacteur au pôle protection de l'habitation<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enquêteur au pôle protection de l'habitation<br/>
+<td width="567">
+<p align="left">Gestion comptable</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Enquêteur au pôle protection de l'habitation<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enquêteur au pôle protection de l'habitation<br/>
+<td width="567">
+<p align="left">Gestion comptable</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable de l'accueil et orientation des entreprises<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lutte contre le travail illégal, correspondant fonds européen<br/>
+<td width="567">
+<p align="left">Adjoint au chef du bureau</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef bureau élections et groupements associatifs<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rédacteur au pôle protection de l'habitation<br/>
+<td width="567">
+<p align="left">Chargé de la section paie et prévisions</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Enquêteur au pôle protection de l'habitation<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enquêteur au pôle protection de l'habitation<br/>
+<td width="567">
+<p>Régisseur, chargé des opérations d'archivage</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable cellule des dérogations au travail dominical des salariés<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agent d'accueil<br/>
+<td width="567">
+<p align="left">Chef du service utilité publique et équilibres</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Agent d'accueil<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable du service intérieur de l'immeuble Daumesnil<br/>
+<td width="567">
+<p align="left">Chef du bureau des finances de l'Etat</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Secrétariat<br/>
-<br/>Secrétariat, accueil téléphonique, visiteurs<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestion secrétariat, statistiques et comptabilité au pôle application du droit des sols<br/>
+<td width="567">
+<p align="left">Contrôleur de gestion</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat, organisation logistique, accueil téléphonique et statistiques "droit au logement opposable"<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat, organisation logistique, accueil téléphonique et statistiques "droit au logement opposable"<br/>
+<td width="567">
+<p align="left">Chargé de la comptabilité et du mandatement</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section analyse financière des organismes reconnus d'utilité publique</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Suivi des crédits d'investissement des BOP</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Gestionnaire Chorus</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chargé du suivi de la comptabilité analytique</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Gestionnaire paie</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du bureau des finances de l'Etat</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Correspondant paie agents ministère de l'intérieur et écoles architecture </p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau des libertés publiques et de la citoyenneté</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION D'ACCUEIL</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat commission de médiation "Droit au logement opposable"</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat commission de médiation "Droit au logement opposable"</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat commission de médiation "Droit au logement opposable"</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat commission de médiation "Droit au logement opposable"</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Rédacteur mission DALO</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable du pôle veille et analyse</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat commission de médiation "Droit au logement opposable"</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Enquêteur au pôle protection de l'habitation</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Enquêteur au pôle protection de l'habitation</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable cellule des dérogations au travail dominical des salariés</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Accueil demandeurs</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Accueil demandeurs</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable du service intérieur de l'immeuble Daumesnil</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES</p>
+<p align="center">Secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat direction</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat et gestion du pôle "droit des sols"</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Assistante</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Assistante</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-DIRECTION DES LIBERTÉS PUBLIQUES ET DES AFFAIRES JURIDIQUES NATIONALE
+DIRECTION DES LIBERTÉS PUBLIQUES ET DES AFFAIRES JURIDIQUES
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Responsable de la gestion du fichier des interdits de jeux<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de mission ressources humaines auprès du directeur de cabinet<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable du bureau d'ordre de la direction<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
+<td width="567">
+<p align="left">Chef de cabinet</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable de l'élaboration informatisée des passeports de service<br/>
+<td width="567">
+<p align="left">Responsable de la gestion du fichier des interdits de jeux</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Responsable de l'élaboration informatisée des passeports de service<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Correspondant Acmo pour le site Beauvau <br/>
+<td width="567">
+<p align="left">Chargé de mission ressources humaines auprès du directeur de cabinet</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Suivi des questions européennes<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
+<td width="567">
+<p align="left">Responsable du bureau d'ordre de la direction</p>
+</td>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Fonctions de secrétaire greffier en relation avec l'ensemble des juridictions administratives<br/>
+<td width="567">
+<p align="left">Responsable coordinateur de la cellule passeports de service</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section greffe<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la section comptabilité au bureau de la responsabilité de l'administration, des dommages et de l'assurance<br/>
+<td width="567">
+<p align="left">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé du suivi des crédits globalisés de la direction<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Référent juridique pour les mesures individuelles d'expulsion des étrangers et les interdictions du territoire<br/>
+<td width="567">
+<p align="left">Responsable de l'élaboration informatisée des passeports de service</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
-<br/>Secrétaire du directeur des libertés publiques et des affaires juridiques<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire du directeur des libertés publiques et des affaires juridiques<br/>
+<td width="567">
+<p align="left">Responsable de l'élaboration informatisée des passeports de service</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable du secrétariat du sous-directeur CJC<br/>
+<td width="567">
+<p align="left">Adjoint au chef du bureau du contentieux des polices administratives</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section greffe</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section comptabilité au bureau de la responsabilité de l'administration, des dommages et de l'assurance</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chargé du suivi des crédits globalisés de la direction</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Référent juridique pour les mesures individuelles d'expulsion des étrangers et les interdictions du territoire</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>Emploi de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du directeur des libertés publiques et des affaires juridiques</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Secrétaire du directeur des libertés publiques et des affaires juridiques</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire à la sous-direction du conseil juridique et du contentieux</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-DIRECTION GÉNÉRALE DE LA POLICE NATIONALE
+DIRECTION GÉNÉRALE DE LA POLICE NATIONALE,
+
+DIRECTION DES RESSOURCES ET DES COMPÉTENCES DE LA POLICE NATIONALE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Directeur d'application Dialogue à la SDAGF de la DAPN<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Adjoint au chef du bureau des budgets d'équipement et de fonctionnement des services<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du bureau des moyens généraux<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef de la mission pilotage de la performance et synthèse<br/>
+<td width="567">
+<p align="left">Directeur d'application Dialogue à la SDAGF de la DAPN</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Chef du bureau d'ordre au cabinet du directeur général de la police nationale<br/>
+<td width="567">
+<p align="left">Adjoint au chef du bureau des gradés et gardiens de la paix de la sous-direction de l'administration des ressources humaines</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la mission d'appui, de synthèse et de coordination (SDFP-DRCPN)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau des moyens généraux</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la mission pilotage de la performance et synthèse</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
@@ -2066,105 +2305,123 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Chef du département stratégie au service des affaires immobilières (SAI)<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Chef du bureau des affaires budgétaires au service des affaires immobilières (SAI)<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du 1er bureau de la sous-direction des services administratifs du cabinet (CABINET)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Emplois d'encadrement à contraintes et responsabilités particulières de la préfecture de police<br/>
-<br/>Chef de la mission d'appui et de soutien à la modernisation à la direction de la police générale (DPG)<br/>
+<td width="567">
+<p align="left">Chef du département stratégie au service des affaires immobilières (SAI)</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du 1er bureau de la sous-direction de la citoyenneté et des libertés publiques à la direction de la police générale (DPG)<br/>
+<td width="567">
+<p align="left">Chef du bureau des ressources et de la modernisation (CABINET)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du bureau de la police sanitaire et de l'environnement à la sous-direction de la protection sanitaire et de l'environnement de la direction des transports et de la protection du public (DTPP)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du bureau des hôtels et foyers à la sous-direction de la sécurité du public de la direction des transports et de la protection du public<br/>
+<td width="567">
+<p align="center">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du bureau des rémunérations et pensions de l'administration générale à la direction des ressources humaines (DRH)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chef du centre de formation à la direction des ressources humaines (DRH)<br/>
+<td width="567">
+<p align="left">Chef du département constructions et travaux (SAI)</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur des services administratifs du cabinet, chef du 2e bureau (CABINET)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chefs de bureau des étrangers, de la circulation et de l'hygiène mentale<br/>
-<br/>Chef du 4e bureau de la sous-direction des services administratifs du cabinet (CABINET)<br/>
+<td width="567">
+<p align="left">Secrétaire général, adjoint au chef du service de la mémoire et des affaires culturelles (SMAC)</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES PARTICULIÈRES<br/>Emplois d'encadrement à contraintes et responsabilités de la préfecture de police</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la mission d'appui et de soutien à la modernisation à la direction de la police générale (DPG)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du 1er bureau de la sous-direction de la citoyenneté et des libertés publiques à la direction de la police générale (DPG)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau de la police sanitaire et de l'environnement à la sous-direction de la protection sanitaire et de l'environnement de la direction des transports et de la protection du public (DTPP)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau des hôtels et foyers à la sous-direction de la sécurité du public de la direction des transports et de la protection du public</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du bureau des rémunérations et pensions de l'administration générale à la direction des ressources humaines (DRH)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef du centre de formation à la direction des ressources humaines (DRH)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au sous-directeur des services administratifs du cabinet, chef du 2e bureau (CABINET)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
@@ -2177,174 +2434,203 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Chargé de mission auprès du sous-directeur des finances locales et de l'action économique<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Référent instances consultatives <br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre de la modernisation</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Référent transferts de compétences-suivi simplifications du droit<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Référent revenu de solidarité active - interventions des collectivités dans le secteur social<br/>
+<td width="567">
+<p align="left">Référent instances consultatives</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Administration des crédits "organismes nationaux relatifs aux collectivités territoriales"<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Correspondant "Accord" gestion des concours financiers de l'Etat<br/>
+<td width="567">
+<p align="left">Chargé de mission auprès du sous-directeur des compétences et des institutions locales, référent suivi simplifications du droit</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Administrateur du parc informatique<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Administrateur du parc informatique<br/>
+<td width="567">
+<p>Référent revenu de solidarité active - interventions des collectivités dans le secteur social</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Répartition de dotations (dotation élu local, outre-mer et dotation solidarité urbaine) <br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Référent statut des élus locaux<br/>
+<td width="567">
+<p align="left">Correspondant "accord" gestion des concours financiers de l'Etat</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétariat de la Commission nationale d'évaluation des normes<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Webmestre technique<br/>
+<td width="567">
+<p align="left">Administrateur du parc informatique</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Elaboration du code des collectivités territoriales<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé de la synthèse budgétaire et de la répartition des dotations<br/>
+<td width="567">
+<p>Responsable de la gouvernance des systèmes d'information et de communication</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Référent gestion dotation générale de décentralisation (DGD)<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS ASSORTIES DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES<br/>
-<br/>Emplois de secrétariat<br/>
-<br/>Secrétariat particulier du directeur général des collectivités locales<br/>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat particulier du directeur général des collectivités locales<br/>
+<td width="567">
+<p align="left">Répartition de dotations (dotation élu local, outre-mer et dotation solidarité urbaine)</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION D'ACCUEIL<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable de la coordination du logiciel "portail et système d'informations" (PSI)<br/>
+<td width="567">
+<p align="left">Référent statut des élus locaux</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Correspondant du Conseil supérieur de la fonction publique territoriale (accueil, renseignement et orientation des membres du CSFPT)<br/>
+<td width="567">
+<p align="left">Secrétariat de la commission nationale d'évaluation des normes</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Référent mise en œuvre du droit relatif au transfert, à la création et à l'extension des compétences des collectivités territoriales</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Référent mise en œuvre de la législation relative à la coopération intercommunale</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable du pôle financier et logistique</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">Au titre des compétences techniques</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Webmestre technique</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chargé de la synthèse budgétaire et de la répartition des dotations</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Référent gestion dotation générale de décentralisation (DGD)</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTIONS ASSORTIES DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES<br/>Emplois de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétariat particulier du directeur général des collectivités locales</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Secrétariat particulier du directeur général des collectivités locales</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION D'ACCUEIL</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Responsable de la coordination du logiciel "Elise" de gestion et de suivi du courrier</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Correspondant du Conseil supérieur de la fonction publique territoriale (accueil, renseignement et orientation des membres du CSFPT)</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
@@ -2357,185 +2643,213 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Adjoint du chef du bureau des ressources humaines, responsable du suivi des cadres juridiques des personnels opérationnels<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé du suivi des dossiers de personnels de la DSC<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre de la modernisation<br/>
+<br/>
+</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section des ressources humaines<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des compétences techniques<br/>
-<br/>Chef de la section de gestion des officiers de sapeurs-pompiers<br/>
+<td width="567">
+<p align="left">Adjointe du chef du bureau des ressources humaines, responsable du suivi des cadres juridiques des personnels opérationnels</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Suivi du cadre d'emplois des services de santé et du secours médical<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Mise en œuvre de la procédure de déclaration de l'état de catastrophe naturelle<br/>
+<td width="567">
+<p>Chargée du suivi des dossiers de personnels de la DSC</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mise en œuvre de la procédure de déclaration de l'état de catastrophe naturelle<br/>
-</td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Au titre des attributions financières, comptables et juridiques<br/>
-<br/>Responsable de la division administrative et financière du groupement d'hélicoptères<br/>
+<td width="567">
+<p align="left">Chef de la section des ressources humaines</p>
 </td>
-<td align="center">
-<br/>B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé du suivi des crédits d'étude et des affaires financières<br/>
-</td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Responsable de la comptabilité de la direction<br/>
+<td width="567">
+<p align="left">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du GMA pour les questions administratives, budgétaires et financières<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef du bureau des statuts et du dialogue social, chargé de la définition et mise en œuvre des cadres d'emplois des sapeurs-pompiers territoriaux<br/>
+<td width="567">
+<p>Chef de la section de gestion des officiers de sapeurs- pompiers</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la section examen et concours des sapeurs-pompiers<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint du chef du bureau du soutien opérationnel et logistique, chargé des affaires administratives<br/>
+<td width="567">
+<p align="left">Suivi du cadre d'emploi des services de santé et du secours médical</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé du suivi des dossiers de MAD des sapeurs-pompiers<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint du chef du bureau des affaires financières et juridiques de la DSC, responsable de l'exécution budgétaire<br/>
+<td width="567">
+<p>Mise en œuvre de la procédure de déclaration de l'état de catastrophe naturelle</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES<br/>
-<br/>ET DE RESPONSABILITÉS PARTICULIÈRES<br/>
-<br/>Adjoint du chef du service du déminage<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjoint au chef du bureau de la coordination interministérielle, chargé des questions relatives aux EMZ de défense et du suivi du COGIC<br/>
+<td width="567">
+<p align="left">Mise en œuvre de la procédure de déclaration de l'état de catastrophe naturelle</p>
 </td>
-<td align="center">
-<br/>A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du bureau du management et des concours <br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emploi de secrétaire du directeur comportant des obligations spéciales d'horaires atypiques<br/>
+<td width="567">
+<p align="center">Au titre des attributions financières, comptables et juridiques</p>
 </td>
-<td align="center">
-<br/>B<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emploi de secrétaire du directeur comportant des obligations spéciales d'horaires atypiques<br/>
+<td width="567">
+<p align="left">Responsable de la division administrative et financière du groupement d'hélicoptères</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chargée du suivi des crédits d'étude et des affaires financières</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Responsable de la comptabilité de la direction</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjointe au chef du GMA pour les questions administratives, budgétaires et financières</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du bureau des statuts, du management et du dialogue social, chargé de la définition et mise en œuvre des cadres d'emploi des sapeurs-pompiers territoriaux</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Chef de la section examen et concours des sapeurs-pompiers</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint du chef du bureau du soutien opérationnel et logistique, chargé des affaires administratives</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p>Chargé du suivi des dossiers de MAD des sapeurs-pompiers</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint du chef du bureau des affaires financières et juridiques de la DSC, responsable de l'exécution budgétaire</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES<br/>ET DE RESPONSABILITÉS PARTICULIÈRES</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint du chef du service du déminage</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef du bureau de la coordination interministérielle, chargé des questions relatives aux EMZ de défense et du suivi du COGIC</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au directeur de cabinet du directeur de la sécurité civile et responsable central de la sécurité des systèmes d'information (RCSSI) pour la direction y compris l'ensemble de ses services délocalisés</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Emploi de secrétaire du directeur comportant des obligations spéciales d'horaires atypiques</p>
+</td>
+<td width="170">
+<p align="center">B</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Emploi de secrétaire du directeur comportant des obligations spéciales d'horaires atypiques</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
@@ -2548,46 +2862,59 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des compétences techniques<br/>
-<br/>Emploi nécessitant l'utilisation de documentations techniques très particulières - secrétaire documentaliste<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>
-<br/>Secrétaire du directeur du cabinet du Président de la République<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>C<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Secrétaire du directeur du cabinet du Président de la République<br/>
-</td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétaire d'un membre du cabinet du Président de la République<br/>
+<td width="567">
+<p align="left">Emploi nécessitant l'utilisation de documentations techniques très particulières - secrétaire documentaliste</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="center">FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES<br/>Emplois de secrétariat</p>
+</td>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du directeur du cabinet du Président de la République</p>
+</td>
+<td width="170">
+<p align="center">C</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire du directeur du cabinet du Président de la République</p>
+</td>
+<td width="170">
+<p align="center">A</p>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Secrétaire d'un membre du cabinet du Président de la République</p>
+</td>
+<td width="170">
+<p align="center">C</p>
 </td>
 </tr>
 </tbody>
@@ -2600,48 +2927,28 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Collaborateur auprès du conseiller d'administration<br/>
+<td width="567">
+<p align="center">LIBELLÉ</p>
 </td>
-<td align="center">
-<br/>C<br/>
+<td width="170">
+<p align="center">CATÉGORIE</p>
 </td>
 </tr>
-</tbody>
-</table>
-
-INSTITUT NATIONAL DES HAUTES ÉTUDES DE SÉCURITÉ
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-<table>
-<tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre de la modernisation</p>
+</td>
+<td width="170">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Secrétaire général adjoint <br/>
+<td width="567">
+<p align="left">Assistante du coordonnateur de la délégation</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
@@ -2654,47 +2961,62 @@ Emplois bénéficiaires de la nouvelle bonification indiciaire
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
+<td width="567">
+<p align="center">LIBELLÉ</p>
+</td>
+<td width="170">
+<p align="center">CATÉGORIE</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre des compétences techniques<br/>
-<br/>Adjoint au chef de service<br/>
+<td width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des compétences techniques</p>
 </td>
-<td align="center">
-<br/>A<br/>
+<td width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="567">
+<p align="left">Adjoint au chef de service</p>
+</td>
+<td width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-SECRÉTARIAT GÉNÉRAL DU COMITÉ INTERMINISTÉRIEL DE PRÉVENTION DE LA DÉLINQUANCE
+SECRÉTARIAT GÉNÉRAL DU COMITÉ INTERMINISTERIEL DE PRÉVENTION DE LA DÉLINQUANCE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>LIBELLÉ<br/>
-</th>
-<th>
-<br/>CATÉGORIE<br/>
-</th>
+<td width="567">
+<p align="center">LIBELLÉ</p>
+</td>
+<td width="170">
+<p align="center">CATÉGORIE</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE<br/>
-<br/>Au titre de la modernisation<br/>
-<br/>Chargé de mission "vidéoprotection, FIPD, document de politique transversale et suivi des violences intrafamiliales"</td>
-<td align="center">
-<br/>A<br/>
+<td valign="top" width="567">
+<p align="center">FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE</p>
+<p align="center">Au titre des attributions financières et juridiques</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="567">
+<p align="left">Chargé de mission "interministérialité et actions territoriales" au SGCIPD</p>
+</td>
+<td valign="top" width="170">
+<p align="center">A</p>
 </td>
 </tr>
 </tbody>
