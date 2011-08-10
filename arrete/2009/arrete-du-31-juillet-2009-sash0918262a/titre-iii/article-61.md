@@ -1,6 +1,6 @@
 # Article 61
 
-Le jury régional se prononce au vu de l'ensemble du dossier de l'étudiant.
+Le jury régional se prononce au vu de l'ensemble du    dossier de l'étudiant et d'une synthèse réalisée par l'équipe pédagogique.
 
 Le dossier comporte :
 

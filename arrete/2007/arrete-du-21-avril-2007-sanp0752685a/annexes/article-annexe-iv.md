@@ -160,6 +160,8 @@ Stages
 
 Les étudiants doivent, pendant les stages, observer les instructions des responsables des structures d'accueil. Ils sont tenus aux mêmes obligations que le personnel de la structure d'accueil, notamment au secret professionnel et à la discrétion professionnelle.
 
+Les absences injustifiées sont passibles de sanctions disciplinaires.
+
 TITRE III
 
 DISPOSITIONS APPLICABLES AUX PERSONNELS

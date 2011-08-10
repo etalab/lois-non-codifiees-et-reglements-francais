@@ -1,5 +1,6 @@
 # TITRE II : DISPENSES DE SCOLARITE
 
+- [Article 23 bis](article-23-bis.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Article 26](article-26.md)
@@ -13,4 +14,5 @@
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
+- [Article 36 bis](article-36-bis.md)
 - [Article 37](article-37.md)

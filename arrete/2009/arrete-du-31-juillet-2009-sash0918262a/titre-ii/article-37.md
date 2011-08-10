@@ -1,3 +1,3 @@
 # Article 37
 
-Les modalités de classement des candidats, d'affichage des résultats, de validité des résultats et de déroulement des épreuves prévues à l'article 14 sont applicables aux candidats visés par le titre II.
+Les modalités d'organisation des épreuves, de classement des candidats, d'affichage et de validité des résultats prévues pour les candidats du titre Ier sont applicables aux candidats soumis à des épreuves de sélection visés par le titre II.

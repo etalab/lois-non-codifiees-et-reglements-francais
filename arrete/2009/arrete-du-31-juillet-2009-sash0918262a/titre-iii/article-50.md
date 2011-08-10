@@ -7,3 +7,5 @@ Les étudiants qui ne répondent pas à ces critères et qui ont obtenu entre 30
 Les étudiants qui ont acquis moins de 30 crédits européens peuvent être autorisés à redoubler par le directeur de l'institut de formation en soins infirmiers après avis du conseil pédagogique.
 
 Les étudiants autorisés à redoubler conservent le bénéfice des crédits acquis.
+
+Les étudiants autorisés à redoubler en ayant validé les crédits correspondants aux stages effectuent un stage complémentaire dont les modalités sont définies par l'équipe pédagogique. Le conseil pédagogique en est informé.

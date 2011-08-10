@@ -4,4 +4,4 @@ Les étudiants bénéficiant d'un mandat électif lié à leur qualité d'étudi
 
 Ils peuvent également bénéficier, en sus de ces absences, d'autorisations exceptionnelles d'absences accordées par le directeur de l'institut de formation.
 
-Dans tous les cas, les jours accordés aux étudiants ne sont pas décomptés de la franchise visée à l'article 30. Toutefois, ils doivent récupérer les heures de stage dans les conditions prévues à l'article 31.
+Dans tous les cas, les jours accordés aux étudiants ne sont pas décomptés du temps de présence effectif tel que défini aux articles 30 et 31.

@@ -16,11 +16,11 @@ Le conseil pédagogique est notamment consulté pour avis sur :
 
 a) Etudiants en difficulté pédagogique : le conseil peut alors proposer un soutien particulier, susceptible de lever les difficultés, sans allongement de la formation ;
 
-b) Etudiants ayant dépassé leur franchise dans les conditions définies à l'article 33 ;
+b) Etudiants en difficulté pédagogique en lien avec des absences répétées à plusieurs unités d'enseignement ;
 
 c) Demandes de redoublement formulées par les étudiants, dans le cas où l'avis du conseil est requis pour l'examen de celles-ci par les textes relatifs à la formation concernée ;
 
-d) Etudiants ayant accompli des actes incompatibles avec la sécurité des personnes prises en charge. Dans ce cas, le conseil pédagogique peut proposer une des possibilités suivantes : alerter l'étudiant sur sa situation en lui fournissant des conseils pédagogiques pour y remédier ou le soumettre à une évaluation théorique et/ou pratique complémentaire en situation simulée au sein de l'institut selon des modalités fixées par le conseil. A l'issue de cette évaluation, le directeur de l'institut décide de la poursuite de la formation ou de l'exclusion définitive de l'institut de formation ;
+d) Etudiants ayant accompli des actes incompatibles avec la sécurité des personnes prises en charge ;
 
 e) Modalités de reprise de la formation après une interruption de formation inférieure à trois ans, dans les conditions prévues aux articles 38 et 39 ;
 
@@ -31,6 +31,8 @@ g) Le cas échéant, les demandes des candidats titulaires d'un diplôme extraco
 Concernant les points 1 et 2, lorsque le directeur ne souhaite pas suivre l'avis émis par le conseil pédagogique, il le convoque à nouveau afin de recueillir son avis. Cette nouvelle délibération doit avoir lieu dans un délai d'un mois à compter de la première réunion du conseil pédagogique.
 
 Lors de cette nouvelle délibération, le directeur peut soumettre au conseil son projet initial ou un projet tenant compte de l'avis émis par le conseil lors de sa première délibération.
+
+Le projet pédagogique et le règlement intérieur sont transmis aux membres du conseil au moins quinze jours avant sa réunion.
 
 Pour les situations d'étudiants visées au 6, les membres du conseil reçoivent communication du dossier de l'étudiant, accompagné d'un rapport motivé du directeur, au moins quinze jours avant la réunion de ce conseil.
 
