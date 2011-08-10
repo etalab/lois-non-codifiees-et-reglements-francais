@@ -125,3 +125,9 @@ Lyon-Maurice (île Maurice).
 Jusqu'au 15 juin 2016 :
 
 Dzaoudzi - Antananarivo (Madagascar).
+
+Jusqu'au 20 juillet 2016 :
+
+Fort-de-France - Sainte-Lucie ;
+
+Pointe-à-Pitre - Saint-Barthélemy.
