@@ -12,7 +12,7 @@ Paris-Mayotte.
 
 2. Liaisons internationales extracommunautaires
 
-2. 1. De/vers la France métropolitaine
+2.1. De/ vers la France métropolitaine
 
 Afrique du Sud (jusqu'au 31 décembre 2012)
 
@@ -100,13 +100,13 @@ Paris-Cotonou.
 
 Brésil (jusqu'au 31 décembre 2012)
 
-Paris - Belém.
+Paris-Belém.
 
 Paris-Belo Horizonte.
 
 Paris-Brasilia.
 
-Paris - Campinas.
+Paris-Campinas.
 
 Paris-Curitiba.
 
@@ -114,7 +114,7 @@ Paris-Florianopolis.
 
 Paris-Fortaleza.
 
-Paris - Palmas.
+Paris-Palmas.
 
 Paris-Porto Alegre.
 
@@ -192,7 +192,7 @@ Paris-Séoul.
 
 Costa Rica (jusqu'au 31 décembre 2012)
 
-Paris - Liberia
+Paris-Liberia
 
 Paris-San José.
 
@@ -342,6 +342,8 @@ Paris-Bombay.
 
 Paris-Delhi.
 
+Paris-Calcutta.
+
 Indonésie (jusqu'au 31 décembre 2012)
 
 Paris-Djarkata.
@@ -478,7 +480,7 @@ Paris-Culiacan.
 
 Paris-Guadalajara.
 
-Paris-Léon/Guanajuato.
+Paris-Léon/ Guanajuato.
 
 Paris-Mérida.
 
@@ -720,7 +722,7 @@ Thaïlande (jusqu'au 31 décembre 2012)
 
 Paris-Bangkok.
 
-Paris - Trat.
+Paris-Trat.
 
 Togo (jusqu'au 31 décembre 2012)
 
@@ -780,7 +782,7 @@ Zimbabwe (jusqu'au 31 décembre 2012)
 
 Paris-Harare.
 
-2. 2. De/vers les Antilles et la Guyane
+2.2. De/ vers les Antilles et la Guyane
 
 Cuba (jusqu'au 31 décembre 2012)
 
@@ -824,7 +826,7 @@ Venezuela (jusqu'au 31 décembre 2012)
 
 Fort-de-France-Caracas.
 
-2. 3. De/vers La Réunion
+2.3. De/ vers La Réunion
 
 Madagascar (jusqu'au 31 décembre 2012)
 
@@ -840,7 +842,7 @@ Saint-Pierre de la Réunion-Maurice (exclusivement dans le cadre de l'article R.
 
 Saint-Pierre de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
 
-2. 4. De/vers Mayotte
+2.4. De/ vers Mayotte
 
 Seychelles (jusqu'au 31 décembre 2012)
 
