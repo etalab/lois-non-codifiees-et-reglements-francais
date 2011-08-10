@@ -2,7 +2,7 @@
 
 BCAE « Maintien des particularités topographiques ».
 
-Le seuil visé au deuxième alinéa de l'article 615-50-1 du code rural et de la pêche maritime est fixé à 1 % en 2010.
+Le seuil visé au deuxième alinéa de l'article 615-50-1 du code rural et de la pêche maritime est fixé à   3 % en 2011.
 
 En application du troisième alinéa de l'article 615-50-1 du code rural et de la pêche maritime, les particularités topographiques qui peuvent être retenues et leur valeur de « surface équivalente topographique » (SET) sont mentionnées à l'annexe III du présent arrêté.
 

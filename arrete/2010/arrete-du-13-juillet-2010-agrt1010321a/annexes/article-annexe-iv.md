@@ -248,14 +248,6 @@ LISTE DES PLANTES INVASIVES
 </td>
 </tr>
 <tr>
-<td align="center">Robinia pseudoacacia<br/>
-</td>
-<td align="center">Robinier faux-acacia<br/>
-</td>
-<td align="center">Fabaceae<br/>
-</td>
-</tr>
-<tr>
 <td align="center">Senecio inaequidens<br/>
 </td>
 <td align="center">Séneçon du Cap<br/>
