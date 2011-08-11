@@ -653,7 +653,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">4 ans<br/>
 </td>
 <td align="center">
-<p align="left">CCI DE TULLE ET USSEL ― INSTITUT SUPERIEUR DE MANAGEMENT DES INDUSTRIES DU BOIS (ISMIB)<br/>
+<p align="left">CHAMBRE DE COMMERCE ET D'INDUSTRIE (CCI) DE LA CORREZE<br/>
 </p>
 </td>
 </tr>
@@ -1087,7 +1087,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">3 ans<br/>
 </td>
 <td align="center">
-<p align="left">INSTITUT DE FORMATION ET D'ETUDES SUPERIEURES<br/>
+<p align="left">INFORMATIQUE CAMPUS<br/>
 </p>
 </td>
 </tr>
