@@ -1,0 +1,3 @@
+# Article 11
+
+Le directeur des pêches maritimes et de l'aquaculture, le directeur interrégional de la mer Méditerranée et les directeurs départementaux des territoires et de la mer sont chargés, chacun pour ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
