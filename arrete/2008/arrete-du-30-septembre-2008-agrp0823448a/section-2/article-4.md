@@ -30,7 +30,7 @@ Ce montant est porté à 50 % pour les organisations de producteurs mettant en �
 
 ― forfaits des mesures environnementales ;
 
-― obtention et/ou maintien de la certification.
+― obtention et/ ou maintien de la certification.
 
 Seuls des montants forfaitaires se rapportant à une ou plusieurs des actions prioritaires listées ci-dessus peuvent être imputés au-delà du plafond de 20 %.
 
@@ -42,14 +42,14 @@ Seuls des montants forfaitaires se rapportant à une ou plusieurs des actions pr
 
 ― elle est agréée par le ministère de l'agriculture et de la pêche (direction générale des politiques agricole, agroalimentaire et des territoires [DGPAAT]).
 
-4. Les coûts spécifiques de gestion environnementale des emballages de commercialisation, hors palettes, peuvent être pris en compte sur la base d'un taux forfaitaire correspondant à 9,3 % maximum du coût des emballages, sur présentation par l'organisation de producteurs des factures acquittées d'achat ou de location. La prise en compte de ces coûts spécifiques sur la base du taux forfaitaire de 9,3 % des dépenses éligibles liées à la gestion environnementale des emballages de commercialisation est exclusive de tout autre prise en charge par le programme opérationnel d'autres frais réels concernant la gestion environnementale des emballages de commercialisation et vice versa.
+4. Les coûts spécifiques de gestion environnementale des emballages de commercialisation, hors palettes, peuvent être pris en compte sur la base d'un taux forfaitaire correspondant à 6 % maximum du coût des emballages, sur présentation par l'organisation de producteurs des factures acquittées d'achat ou de location. La prise en compte de ces coûts spécifiques sur la base du taux forfaitaire de 6 % des dépenses éligibles liées à la gestion environnementale des emballages de commercialisation est exclusive de tout autre prise en charge par le programme opérationnel d'autres frais réels concernant la gestion environnementale des emballages de commercialisation et vice versa.
 
-5. Les coûts spécifiques pour la réduction de l'emploi de produits phytosanitaires par utilisation de plants greffés (plants maraîchers) peuvent être pris en charge sur la base d'un taux forfaitaire correspondant à 40 % maximum du coût hors taxe d'achat des plants greffés sur présentation par l'organisation de producteurs des factures acquittées d'achat.
+5. Les coûts spécifiques pour la réduction de l'emploi de produits phytosanitaires par utilisation de plants greffés (plants maraîchers) peuvent être pris en charge sur la base d'un taux forfaitaire correspondant à 40 % maximum du coût hors taxe des plants greffés sur présentation par l'organisation de producteurs des factures acquittées.
 
 6. Pour les organisations de producteurs qui possèdent un programme opérationnel approuvé au titre des règlements (CE) n° 2200/96 et n° 1433/2003 et qui souhaitent le poursuivre conformément à son agrément, sans le modifier pour satisfaire aux exigences du règlement (CE) n° 1234/2007 modifié :
 
-― le taux forfaitaire relatif à la gestion environnementale des emballages de commercialisation sera porté à 9,3 % au moment du paiement de leurs fonds opérationnels 2009 et suivants ;
+― le taux forfaitaire relatif à la gestion environnementale des emballages de commercialisation sera porté à 6 % au moment du paiement de leurs fonds opérationnels 2009 et suivants ;
 
-― le taux forfaitaire relatif à l'agréage de second niveau au stade  production  et en station est maintenu conformément à son agrément dans le programme opérationnel ;
+― le taux forfaitaire relatif à l'agréage de second niveau au stade production et en station est maintenu conformément à son agrément dans le programme opérationnel ;
 
 ― le taux forfaitaire relatif à l'utilisation de plants, semences et mycéliums certifiés est maintenu conformément à son agrément dans le programme opérationnel.
