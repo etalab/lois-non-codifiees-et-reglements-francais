@@ -54,8 +54,6 @@ Services départementaux d'incendie et de secours :
 
 Associations nationales :
 
-― Association française des premiers secours ;
-
 ― Association nationale des instructeurs et moniteurs de secourisme ;
 
 ― Association nationale des premiers secours ;
