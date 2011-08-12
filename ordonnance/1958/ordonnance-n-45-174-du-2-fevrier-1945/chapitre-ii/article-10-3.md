@@ -1,0 +1,3 @@
+# Article 10-3
+
+Les mineurs âgés de seize à dix-huit ans peuvent être placés sous assignation à résidence avec surveillance électronique dans les conditions et selon les modalités prévues aux articles 142-5 à 142-13 du code de procédure pénale lorsqu'ils encourent une peine d'emprisonnement d'au moins deux ans. En cas d'assignation à résidence avec surveillance électronique au domicile des représentants légaux du mineur, leur accord écrit doit être préalablement recueilli par le magistrat compétent pour ordonner la mesure. Les dispositions relatives au placement sous surveillance électronique mobile ne sont toutefois pas applicables aux mineurs.

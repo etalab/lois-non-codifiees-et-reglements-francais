@@ -1,4 +1,4 @@
-# Chapitre III : Le tribunal pour enfants.
+# Chapitre III : Le tribunal pour enfants et la cour d'assises des mineurs.
 
 - [Article 13](article-13.md)
 - [Article 13-1](article-13-1.md)
@@ -21,7 +21,6 @@
 - [Article 20-4-1](article-20-4-1.md)
 - [Article 20-5](article-20-5.md)
 - [Article 20-6](article-20-6.md)
-- [Article 20-7](article-20-7.md)
 - [Article 20-8](article-20-8.md)
 - [Article 20-9](article-20-9.md)
 - [Article 20-10](article-20-10.md)

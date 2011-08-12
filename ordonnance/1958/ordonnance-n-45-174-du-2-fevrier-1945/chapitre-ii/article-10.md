@@ -24,4 +24,4 @@ S'ils estiment que l'état physique ou psychique du mineur justifie une observat
 
 Le garde provisoire pourra, le cas échéant, être exercée sous le régime de la liberté surveillée.
 
-Le juge des enfants saisi de la procédure est compétent pour modifier ou révoquer la mesure de garde jusqu'à la comparution du mineur devant le tribunal pour enfant.
+Le juge des enfants saisi de la procédure est compétent pour modifier ou révoquer la mesure de garde jusqu'à la comparution du mineur devant le tribunal pour enfant ou devant le tribunal correctionnel pour mineurs.

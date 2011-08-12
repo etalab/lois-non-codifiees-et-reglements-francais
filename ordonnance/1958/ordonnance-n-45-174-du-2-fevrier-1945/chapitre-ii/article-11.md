@@ -1,6 +1,6 @@
 # Article 11
 
-Les mineurs de treize à dix-huit ans mis en examen par le juge d'instruction ou le juge des enfants ne peuvent être placés en détention provisoire par le juge des libertés et de la détention saisi soit par le juge d'instruction, soit par le juge des enfants, conformément aux dispositions des articles 137 à 137-4, 144 et 145 du code de procédure pénale, que dans les cas prévus par le présent article, à la condition que cette mesure soit indispensable ou qu'il soit impossible de prendre toute autre disposition et à la condition que les obligations du contrôle judiciaire prévues par l'article 10-2 soient insuffisantes.
+Les mineurs de treize à dix-huit ans mis en examen par le juge d'instruction ou le juge des enfants ne peuvent être placés en détention provisoire par le juge des libertés et de la détention saisi soit par le juge d'instruction, soit par le juge des enfants, conformément aux dispositions des articles 137 à 137-4,144 et 145 du code de procédure pénale, que dans les cas prévus par le présent article, à la condition que cette mesure soit indispensable ou qu'il soit impossible de prendre toute autre disposition et à la condition que les obligations du contrôle judiciaire prévues par l'article 10-2 et les obligations de l'assignation à résidence avec surveillance électronique soient insuffisantes.
 
 Les mineurs âgés de seize ans révolus ne peuvent être placés en détention provisoire que dans l'un des cas suivants :
 
