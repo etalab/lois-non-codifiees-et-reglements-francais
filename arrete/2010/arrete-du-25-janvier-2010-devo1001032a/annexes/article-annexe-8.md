@@ -2,9 +2,7 @@
 
 ÉVALUATION DE L'ÉTAT CHIMIQUE DES EAUX
 
-1. Liste des polluants concernés
-
-et normes de qualité environnementales correspondantes
+1. Liste des polluants concernés et normes de qualité environnementales correspondantes
 
 MA : moyenne annuelle.
 
@@ -1689,9 +1687,7 @@ Unités : eau [µg/l] ; biote [µg/kg].
 </tbody>
 </table>
 
-2. Evaluation du respect de la norme de qualité
-
-pour une substance donnée
+2. Evaluation du respect de la norme de qualité pour une substance donnée
 
 Dans l'eau, les normes sont établies en concentration moyenne annuelle et, pour certaines substances, également en concentration maximale admissible. Les normes s'appliquent sur eau brute (non filtrée), à l'exception des métaux pour lesquels elles se rapportent à la fraction dissoute, obtenue par filtration de l'eau brute à travers un filtre de porosité 0,45 micromètre ou par tout autre traitement préliminaire équivalent.
 
@@ -1715,9 +1711,11 @@ La concentration moyenne annuelle est calculée en faisant la moyenne des concen
 
 - le paragraphe précédent ne s'applique pas aux familles de substances ainsi qu'aux substances pour lesquelles la norme de qualité s'applique à plusieurs isomères ou à ses métabolites, produits de dégradation ou de réaction. En pareil cas, les résultats inférieurs à la limite de quantification des substances individuelles (à savoir chaque substance de la famille, chaque isomère, métabolite, produit de réaction ou de dégradation) sont remplacés par zéro ;
 
-- si cette moyenne annuelle est supérieure ou égale à la limite de quantification, cette dernière étant elle-même inférieure ou égale à 30 % de la norme et l'incertitude des mesures étant inférieure ou égale à 50 % (k = 2, estimée au niveau de la norme) alors on compare la moyenne annuelle à la norme : la norme est respectée quand la concentration moyenne annuelle lui est inférieure, sinon elle ne l'est pas ;
+- si cette moyenne annuelle est supérieure ou égale à la limite de quantification, cette dernière étant elle-même inférieure ou égale à 30 % de la norme et l'incertitude des mesures étant inférieure ou égale à 50 % (k = 2) au niveau de la norme, alors on compare la moyenne annuelle à la norme : la norme est respectée quand la concentration moyenne annuelle lui est inférieure, sinon elle ne l'est pas ;
 
 - si l'une des conditions précédentes n'est pas respectée, on calcule les bornes inférieure et supérieure de la moyenne annuelle en remplaçant respectivement les valeurs non quantifiées par zéro ou par la limite de quantification dans son calcul. La norme est respectée quand la borne supérieure de la moyenne annuelle est inférieure ou égale à la norme et elle ne l'est pas lorsque la borne inférieure est strictement supérieure à la norme. Dans les autres cas, le respect de la norme est non défini.
+
+- lorsque la valeur moyenne calculée des résultats de mesure visés au deuxième alinéa est inférieure à la limite de quantification, il est fait référence à la valeur en indiquant " inférieure à la limite de quantification ".
 
 2.2. Respect de la norme de qualité environnementale en concentration maximale admissible
 
