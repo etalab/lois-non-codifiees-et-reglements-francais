@@ -448,7 +448,6 @@
 - [Arrêté du 19 décembre 2001 (EQUS0200008A)](arrete-du-19-decembre-2001-equs0200008a)
 - [Arrêté du 19 décembre 2001 (EQUT0101504A)](arrete-du-19-decembre-2001-equt0101504a)
 - [Arrêté du 19 décembre 2001 (JUSD0130166A)](arrete-du-19-decembre-2001-jusd0130166a)
-- [Arrêté du 19 décembre 2002 (SOCC0211887A)](arrete-du-19-decembre-2002-socc0211887a)
 - [Arrêté du 19 février 2002 (MENF0200492A)](arrete-du-19-fevrier-2002-menf0200492a)
 - [Arrêté du 19 juillet 2002 (AGRG0201612A)](arrete-du-19-juillet-2002-agrg0201612a)
 - [Arrêté du 19 juillet 2002 (MENA0201725A)](arrete-du-19-juillet-2002-mena0201725a)
