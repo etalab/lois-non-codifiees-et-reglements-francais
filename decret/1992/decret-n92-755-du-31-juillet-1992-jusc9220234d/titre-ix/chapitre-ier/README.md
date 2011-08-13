@@ -1,8 +1,5 @@
-# TITRE IX : Les mesures d'expulsion.
+# Chapitre Ier : Dispositions générales
 
-- [Chapitre Ier : Dispositions générales](chapitre-ier)
-- [Chapitre II : Dispositions propres à la reprise des lieux](chapitre-ii)
-- [Chapitre III : Dispositions communes](chapitre-iii)
 - [Article 194](article-194.md)
 - [Article 195](article-195.md)
 - [Article 196](article-196.md)
@@ -18,4 +15,3 @@
 - [Article 206](article-206.md)
 - [Article 207](article-207.md)
 - [Article 208](article-208.md)
-- [Article 209](article-209.md)
