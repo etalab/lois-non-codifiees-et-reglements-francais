@@ -16,9 +16,9 @@ Les candidats mentionnés à l'article 10 et à l'article 15 du présent décret
 
 -de trois ans, lorsqu'elle est de neuf ans et plus.
 
-Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au troisième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.
+Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au cinquième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.
 
-Ceux des agents issus du concours prévu à l'article 15 du présent décret peuvent opter entre la bonification prévue au troisième alinéa du présent article et la prise en compte des années d'activité professionnelle qu'ils ont accomplies avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
+Ceux des agents issus du concours prévu à l'article 15 du présent décret peuvent opter entre la bonification prévue au cinquième alinéa du présent article et la prise en compte des années d'activité professionnelle qu'ils ont accomplies avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 
 Les professeurs certifiés recrutés à la suite du concours auquel il se sont présentés conformément aux dispositions de l'article 10 du décret du 1er septembre 1989 susvisé bénéficient d'une bonification d'ancienneté égale au tiers de la période durant laquelle ils ont perçu l'allocation d'enseignement prévue par ce décret.
 

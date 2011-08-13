@@ -1,5 +1,5 @@
 # Article 2
 
-Le corps des professeurs d'éducation physique et sportive est classé dans la catégorie A prévue à l'article 17 de l'ordonnance susvisée du 4 février 1959.
+Le corps des professeurs d'éducation physique et sportive est classé dans la catégorie A prévue à l'          article 29 de la loi du 11 janvier 1984 susmentionnée .
 
 Ses membres sont nommés par arrêté du ministre chargé de l'éducation.

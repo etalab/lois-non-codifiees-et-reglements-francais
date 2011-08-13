@@ -1,6 +1,6 @@
 # Article 22
 
-Les professeurs de lycée professionnel sont reclassés conformément aux dispositions du décret du 5 décembre 1951 susvisé.A cet effet, la classe normale du corps des professeurs de lycée professionnel est affectée du coefficient caractéristique 135.
+Les professeurs de lycée professionnel sont reclassés conformément aux dispositions du décret du 5 décembre 1951 susvisé. A cet effet, la classe normale du corps des professeurs de lycée professionnel est affectée du coefficient caractéristique 135.
 
 A l'exception de ceux classés en application de l'article 11-2 du décret du 5 décembre 1951 susvisé, les professeurs de lycée professionnel bénéficient, lors de leur classement, d'une bonification d'ancienneté d'un an. Les agents relevant de l'article 11-5 du décret du 5 décembre 1951 précité bénéficient, lors de leur classement, de cette bonification avant l'application, le cas échéant, des dispositions figurant au dernier alinéa du même article.
 
@@ -22,9 +22,9 @@ Les candidats mentionnés à l'article 7-1 du présent décret bénéficient, su
 
 -de trois ans, lorsqu'elle est de neuf ans et plus.
 
-Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au sixième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.
+Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au huitième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.
 
-Les agents issus du troisième concours peuvent opter entre la bonification prévue au sixième alinéa du présent article et la prise en compte des années d'activité professionnelle qu'ils ont accomplies avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
+Les agents issus du troisième concours peuvent opter entre la bonification prévue au huitième alinéa du présent article et la prise en compte des années d'activité professionnelle qu'ils ont accomplies avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 
 Les professeurs de lycée professionnel recrutés à la suite du concours auquel ils se sont présentés conformément aux dispositions de l'article 10 du décret du 1er septembre 1989 susvisé bénéficient d'une bonification d'ancienneté égale au tiers de la période durant laquelle ils ont perçu l'allocation d'enseignement prévue par ce décret.
 
@@ -34,6 +34,6 @@ Dans la limite de la durée prévue à l'article 12 ci-dessus, le temps passé e
 
 Le temps passé en qualité d'élève professeur du cycle préparatoire au concours externe est pris en compte, pour le classement des professeurs de lycée professionnel stagiaires, dans la limite d'une année.
 
-Ceux des élèves professeurs du cycle préparatoire au concours externe qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination peuvent opter entre l'application des dispositions de l'alinéa précédent et celle des dispositions du premier ou du quatorzième alinéa du présent article.
+Ceux des élèves professeurs du cycle préparatoire au concours externe qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination peuvent opter entre l'application des dispositions de l'alinéa précédent et celle des dispositions du premier ou du seizième  alinéa du présent article.
 
 Le recteur procède au reclassement des professeurs de lycée professionnel.

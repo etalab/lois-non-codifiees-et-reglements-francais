@@ -16,4 +16,4 @@ Les professeurs d'éducation physique et sportive recrutés en application des d
 
 -de trois ans, lorsqu'elle est de neuf ans et plus.
 
-Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au troisième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.
+Ceux des agents issus du troisième concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au cinquième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du premier alinéa du présent article.

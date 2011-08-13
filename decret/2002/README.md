@@ -7,6 +7,7 @@
 - [Décret n°2002-747 du 2 mai 2002 (EQUT0200476D)](decret-n2002-747-du-2-mai-2002-equt0200476d)
 - [Décret n°2002-835 du 2 mai 2002 (EQUG0200710D)](decret-n2002-835-du-2-mai-2002-equg0200710d)
 - [Décret n°2003-10 du 3 janvier 2003 (PRMX0206215D)](decret-n2003-10-du-3-janvier-2003-prmx0206215d)
+- [Décret n°87-496 du 3 juillet 1987 (MENF8700319D)](decret-n87-496-du-3-juillet-1987-menf8700319d)
 - [Décret n°2002-715 du 3 mai 2002 (ECOP0100646D)](decret-n2002-715-du-3-mai-2002-ecop0100646d)
 - [Décret n°2002-764 du 3 mai 2002 (PRMG0270271D)](decret-n2002-764-du-3-mai-2002-prmg0270271d)
 - [Décret n°2002-765 du 3 mai 2002 (PRMX0200040D)](decret-n2002-765-du-3-mai-2002-prmx0200040d)

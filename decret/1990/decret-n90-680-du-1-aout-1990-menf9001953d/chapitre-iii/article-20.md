@@ -20,4 +20,4 @@ Les professeurs des écoles recrutés par la voie des troisièmes concours bén�
 
 -de trois ans, lorsqu'elle est de neuf ans et plus.
 
-Ceux des agents issus des troisièmes concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au cinquième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du décret du 5 décembre 1951 susvisé.
+Ceux des agents issus des troisièmes concours qui avaient la qualité de fonctionnaire ou d'agent non titulaire préalablement à leur nomination, peuvent opter entre la bonification prévue au septième alinéa du présent article et la prise en compte de l'ancienneté acquise au titre des services antérieurs, en application des dispositions du décret du 5 décembre 1951 susvisé.
