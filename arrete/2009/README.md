@@ -1089,7 +1089,6 @@
 - [Arrêté du 14 novembre 2009 (MCCT0923443A)](arrete-du-14-novembre-2009-mcct0923443a)
 - [Arrêté du 14 octobre 2009 (AGRT0923520A)](arrete-du-14-octobre-2009-agrt0923520a)
 - [Arrêté du 14 octobre 2009 (BCFR0923791A)](arrete-du-14-octobre-2009-bcfr0923791a)
-- [Arrêté du 14 octobre 2009 (DEFH0923724A)](arrete-du-14-octobre-2009-defh0923724a)
 - [Arrêté du 14 octobre 2009 (DEVE0924224A)](arrete-du-14-octobre-2009-deve0924224a)
 - [Arrêté du 14 octobre 2009 (DEVE0924266A)](arrete-du-14-octobre-2009-deve0924266a)
 - [Arrêté du 14 octobre 2009 (DEVE0924298A)](arrete-du-14-octobre-2009-deve0924298a)
