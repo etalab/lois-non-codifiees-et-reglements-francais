@@ -1,0 +1,3 @@
+# Article 43
+
+Par dérogation aux dispositions de l'article 12-3 du décret du 10 octobre 1984 susvisé, de l'article 4-1 du décret du 14 mars 1986 susvisé, de l'article 5-1 du décret du 3 juillet 1987 susvisé, de l'article 14 du décret du 31 août 1990 susvisé et de l'article 5-1 du décret du 23 septembre 1991 susvisé, dans leur rédaction issue du présent décret, pour les élections des représentants du personnel aux commissions administratives paritaires organisées en 2011, la date limite de dépôt des listes de candidats doit être antérieure d'au moins quatre semaines à celle du premier jour du scrutin.

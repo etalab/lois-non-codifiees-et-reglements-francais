@@ -1,0 +1,5 @@
+# Article 12
+
+Les cotisations versées avant la date d'entrée en vigueur du présent décret en application du 1° du IV de l'article 6 du décret du 5 avril 1968 susvisé par les assurés nés à compter du 1er janvier 1957 leurs sont remboursées, sur leur demande, à la condition qu'ils n'aient fait valoir aucun des droits aux pensions personnelles de retraite auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires. Les demandes de remboursement doivent être présentées dans un délai de trois ans suivant l'entrée en vigueur du présent décret. Les assurés concernés sont informés de cette possibilité, quel que soit leur lieu de résidence.
+
+Le montant des cotisations à rembourser est calculé en revalorisant les cotisations versées par l'assuré par application chaque année du coefficient annuel de revalorisation mentionné à l'article L. 161-23-1 du code de la sécurité sociale ou, pour l'année 2009, du coefficient annuel de revalorisation effectivement appliqué aux pensions de retraite versées par la caisse de retraites des personnels de l'Opéra national de Paris.

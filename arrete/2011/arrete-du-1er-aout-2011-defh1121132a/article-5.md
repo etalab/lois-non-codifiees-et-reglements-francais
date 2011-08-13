@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur des ressources humaines de la direction générale de l'armement, le directeur des ressources humaines de l'armée de terre, le directeur du personnel militaire de la marine, le directeur des ressources humaines de l'armée de l'air, le directeur du personnel militaire de la gendarmerie nationale, le directeur central du service de santé des armées et le directeur central du service des essences des armées, le directeur central du service du commissariat des armées et le directeur central du service d'infrastructure de la défense sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
