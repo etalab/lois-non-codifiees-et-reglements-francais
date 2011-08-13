@@ -1,6 +1,6 @@
 # Article 17
 
-I. - Les stages dans les lieux de stage agréés pour leur formation ou auprès des praticiens agréés-maîtres de stage sont offerts tous les six mois aux internes. La durée de chaque stage est d'un semestre.
+I. - Les stages dans les lieux de stage agréés pour leur formation ou auprès des praticiens agréés-maîtres de stage des universités sont offerts tous les six mois aux internes. La durée de chaque stage est d'un semestre.
 
 II. - Le choix des internes s'effectue par ancienneté de fonctions validées pour un nombre entier de semestres. A ancienneté égale, le choix s'effectue selon le rang de classement.
 

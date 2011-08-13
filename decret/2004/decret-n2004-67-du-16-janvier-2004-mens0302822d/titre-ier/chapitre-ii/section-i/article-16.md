@@ -2,11 +2,11 @@
 
 La formation pratique prévue à l'article 13 comporte des fonctions hospitalières et extra-hospitalières.
 
-Les fonctions hospitalières sont exercées dans les lieux des stages agréés des centres hospitaliers universitaires et des autres établissements de santé, liés par convention à ces centres.
+Les fonctions hospitalières sont exercées dans les lieux de stages agréés des centres hospitaliers universitaires et des autres établissements de santé, liés par convention à ces centres.
 
-Les fonctions extra-hospitalières sont exercées soit auprès de praticiens agréés-maîtres de stage, soit dans les lieux des stages agréés par des organismes extra-hospitaliers, des laboratoires de recherche, des centres de santé ou des structures de soins alternatives à l'hospitalisation, liés par convention aux centres hospitaliers universitaires.
+Les fonctions extra-hospitalières sont exercées soit auprès de praticiens agréés-maîtres de stage des universités, soit dans les lieux de stages agréés des organismes extra-hospitaliers, des laboratoires de recherche, des centres de santé ou des structures de soins alternatives à l'hospitalisation, liés par convention aux centres hospitaliers universitaires.
 
-L'interne est placé sous l'autorité du responsable médical du lieu de stage agréé dans lequel il est affecté ou du praticien agréé-maître de stage.
+L'interne est placé sous l'autorité du responsable médical du lieu de stage agréé dans lequel il est affecté ou du praticien agréé-maître de stage des universités.
 
 Un arrêté des ministres chargés de l'enseignement supérieur et de la santé précise les conditions d'organisation de ces stages et le contenu des conventions prévues aux alinéas précédents.
 
