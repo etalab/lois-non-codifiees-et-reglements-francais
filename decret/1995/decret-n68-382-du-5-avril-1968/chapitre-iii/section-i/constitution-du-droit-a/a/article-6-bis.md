@@ -1,6 +1,6 @@
 # Article 6 bis
 
-I. - La condition d'âge de 60 ans mentionnée au quatrième tiret du I de l'article 6 est abaissée :
+I. - L'âge d'ouverture du droit à pension est fixé :
 
 1° A cinquante-cinq ans pour les assurés handicapés qui ont accompli dans le régime de l'Opéra national de Paris et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à 80 %, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au I de l'article 14 diminuée de 40 trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de 60 trimestres ;
 

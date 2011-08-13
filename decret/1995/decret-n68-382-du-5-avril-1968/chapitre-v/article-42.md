@@ -16,17 +16,17 @@ b) Le directeur de l'Opéra national de Paris, ou son représentant, qui dispose
 
 Six artistes ou employés, tributaires non retraités de la caisse de retraites, élus par les membres du personnel inscrits sur les registres de ladite caisse, représentant chacun des services groupés de la façon suivante :
 
-Artistes lyriques et services de la scène ;
+Artistes du ballet ;
 
-Artistes chorégraphiques ;
+Artistes des chœurs ;
 
-Artistes de l'orchestre ;
+Musiciens ;
 
-Artistes des choeurs ;
+Personnels occupant des emplois reconnus comme comportant des fatigues exceptionnelles mentionnés au 3° du I de l'article 6 ;
 
-Machinistes, électriciens, accessoiristes, chauffeurs et pompiers ;
+Techniciens ;
 
-Services de l'administration, du contrôle, de l'habillement et services autres que ceux ci-dessus mentionnés.
+Cadres, administratifs et autres.
 
 Les membres désignés par arrêté sont nommés pour trois ans ; leurs fonctions peuvent être renouvelées.
 
@@ -42,7 +42,7 @@ En cas de partage égal des voix, la voix du président est prépondérante.
 
 En cas d'absence ou d'empêchement du président, celui-ci est suppléé par le vice-président.
 
-Les fonctions de membres de la commission sont gratuites.
+Les fonctions de membres du conseil d'administration sont gratuites.
 
 Le président désigne un secrétaire et un secrétaire adjoint qui n'ont pas voix délibérative.
 

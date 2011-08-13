@@ -1,6 +1,6 @@
 # Article 7
 
-Les services accomplis au théâtre au titre d'engagements temporaires à compter des âges mentionnés au dernier alinéa du II de l'article 6 peuvent, lorsque l'intéressé fait l'objet d'un engagement à durée indéterminée, entrer en compte pour le calcul de la pension, sous réserve du versement rétroactif des retenues calculées sur le traitement afférent à cet engagement.
+Les services accomplis au théâtre au titre d'engagements temporaires à compter des âges mentionnés au dernier alinéa du II de l'article 6 peuvent, lorsque l'intéressé fait l'objet d'un engagement à durée indéterminée, au plus tard le 1er janvier 2017 entrer en compte pour le calcul de la pension, sous réserve du versement rétroactif des retenues calculées sur le traitement afférent à cet engagement.
 
 La demande de validation doit être effectuée dans les deux années qui suivent la date d'affiliation à la caisse de retraite. Elle porte obligatoirement sur la totalité de ces services.
 
