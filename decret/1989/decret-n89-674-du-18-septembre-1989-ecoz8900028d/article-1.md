@@ -1,3 +1,0 @@
-# Article 1
-
-On entend par "additif alimentaire" : toute substance habituellement non consommée comme aliment en soi et habituellement non utilisée comme ingrédient caractéristique dans l'alimentation, possédant ou non une valeur nutritive, et dont l'adjonction intentionnelle aux denrées alimentaires, dans un but technologique au stade de leur fabrication, transformation, préparation, traitement, conditionnement, transport ou entreposage, a pour effet, ou peut raisonnablement être estimée avoir pour effet, qu'elle devient elle-même ou que ses dérivés deviennent, directement ou indirectement, un composant de ces denrées alimentaires.

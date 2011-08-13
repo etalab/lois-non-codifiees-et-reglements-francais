@@ -206,7 +206,6 @@
 - [Décret n°89-509 du 18 juillet 1989 (DEFD8901654D)](decret-n89-509-du-18-juillet-1989-defd8901654d)
 - [Décret n°89-669 du 18 septembre 1989 (MENF8902138D)](decret-n89-669-du-18-septembre-1989-menf8902138d)
 - [Décret n°89-670 du 18 septembre 1989 (MENF8902135D)](decret-n89-670-du-18-septembre-1989-menf8902135d)
-- [Décret n°89-674 du 18 septembre 1989 (ECOZ8900028D)](decret-n89-674-du-18-septembre-1989-ecoz8900028d)
 - [Décret n°89-677 du 18 septembre 1989 (INTB8900275D)](decret-n89-677-du-18-septembre-1989-intb8900275d)
 - [Décret n°89-683 du 18 septembre 1989 (PRME8961378D)](decret-n89-683-du-18-septembre-1989-prme8961378d)
 - [Décret n°89-684 du 18 septembre 1989 (MENZ8902003D)](decret-n89-684-du-18-septembre-1989-menz8902003d)

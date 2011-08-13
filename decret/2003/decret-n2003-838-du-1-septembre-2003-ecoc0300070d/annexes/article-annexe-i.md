@@ -2,7 +2,7 @@
 
 DÉNOMINATIONS, DÉFINITIONS ET CARACTÉRISTIQUES DES PRODUITS
 
-I. - Définitions
+I.-Définitions
 
 1. a) Jus de fruits :
 
@@ -20,21 +20,21 @@ Le produit ainsi obtenu doit présenter des caractéristiques organoleptiques et
 
 Le produit obtenu à partir de jus de fruits d'une ou plusieurs espèces par l'élimination physique d'une partie déterminée de l'eau de constitution. Lorsque le produit est destiné à la consommation directe, cette élimination est d'au moins 50 %.
 
-3. Jus de fruits déshydraté/en poudre :
+3. Jus de fruits déshydraté/ en poudre :
 
 Le produit obtenu à partir de jus de fruits d'une ou plusieurs espèces par l'élimination physique de la quasi-totalité de l'eau de constitution.
 
 4. Nectar de fruits :
 
-a) Le produit fermentescible mais non fermenté, obtenu en ajoutant de l'eau et des sucres et/ou du miel aux produits définis aux points 1, 2 et 3, à de la purée de fruits ou à un mélange de ces produits, et qui est en outre conforme à l'annexe IV.
+a) Le produit fermentescible mais non fermenté, obtenu en ajoutant de l'eau et des sucres et/ ou du miel aux produits définis aux points 1, 2 et 3, à de la purée de fruits ou à un mélange de ces produits, et qui est en outre conforme à l'annexe IV.
 
-L'addition de sucres et/ou de miel est autorisée dans une quantité non supérieure à 20 % en poids par rapport au poids total du produit fini.
+L'addition de sucres et/ ou de miel est autorisée dans une quantité non supérieure à 20 % en poids par rapport au poids total du produit fini.
 
 Dans le cas de la fabrication de nectars de fruits sans addition de sucres ou à faible valeur énergétique, les sucres peuvent être remplacés totalement ou partiellement par des édulcorants, conformément au décret du 18 septembre 1989 susvisé ;
 
-b) Par dérogation au point a ci-dessus, les fruits figurant à l'annexe IV, parties II et III, ainsi que l'abricot, peuvent servir, individuellement ou en mélange, à la fabrication de nectars sans addition de sucres, de miel et/ou d'édulcorants.
+b) Par dérogation au point a ci-dessus, les fruits figurant à l'annexe IV, parties II et III, ainsi que l'abricot, peuvent servir, individuellement ou en mélange, à la fabrication de nectars sans addition de sucres, de miel et/ ou d'édulcorants.
 
-II. - Ingrédients, traitements et substances autorisés
+II.-Ingrédients, traitements et substances autorisés
 
 1. Ingrédients autorisés :
 
@@ -46,13 +46,13 @@ Uniquement dans le cas du jus de raisin, les sels d'acides tartriques peuvent ê
 
 Pour les produits définis dans la partie I, points 1, 2 et 3, autres que les jus de poires ou de raisins, l'addition de sucres est autorisée :
 
-- pour corriger le goût acide, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 15 grammes par litre de jus ;
+-pour corriger le goût acide, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 15 grammes par litre de jus ;
 
-- à des fins d'édulcoration, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 150 grammes par litre de jus.
+-à des fins d'édulcoration, la quantité de sucres ajoutée, exprimée en matière sèche, ne peut dépasser 150 grammes par litre de jus.
 
 La quantité totale de sucres ajoutée pour corriger le goût acide et à des fins d'édulcoration ne doit pas dépasser 150 grammes par litre.
 
-Pour les produits définis dans la partie I, points 1, 2, 3 et 4, dans le but de corriger le goût acide, l'addition de jus de citrons et/ou de jus concentré de citrons, jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre, est autorisée.
+Pour les produits définis dans la partie I, points 1, 2, 3 et 4, dans le but de corriger le goût acide, l'addition de jus de citrons et/ ou de jus concentré de citrons, jusqu'à 3 grammes par litre de jus, exprimé en acide citrique anhydre, est autorisée.
 
 Le dioxyde de carbone, en tant qu'ingrédient, est autorisé.
 
@@ -60,28 +60,28 @@ L'addition, au même jus de fruits, de sucres et de jus de citrons, concentré o
 
 2. Traitements et substances autorisés :
 
-- procédés mécaniques d'extraction ;
+-procédés mécaniques d'extraction ;
 
-- procédés physiques usuels et procédés d'extraction à l'eau (procédé in line, diffusion) de la partie comestible des fruits autres que le raisin pour la fabrication des jus de fruits concentrés, à condition que les jus de fruits concentrés ainsi obtenus soient conformes à la partie I, point 1 ;
+-procédés physiques usuels et procédés d'extraction à l'eau (procédé in line, diffusion) de la partie comestible des fruits autres que le raisin pour la fabrication des jus de fruits concentrés, à condition que les jus de fruits concentrés ainsi obtenus soient conformes à la partie I, point 1 ;
 
-- pour les jus de raisins issus de raisins traités par sulfitage à l'aide d'anhydride sulfureux, le désulfitage par des procédés physiques est autorisé à condition que la quantité totale de SO2 présent dans le produit fini n'excède pas 10 mg/l ;
+-pour les jus de raisins issus de raisins traités par sulfitage à l'aide d'anhydride sulfureux, le désulfitage par des procédés physiques est autorisé à condition que la quantité totale de SO2 présent dans le produit fini n'excède pas 10 mg/ l ;
 
-- enzymes pectolytiques ;
+-enzymes pectolytiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
 
-- enzymes protéolytiques ;
+-enzymes protéolytiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
 
-- enzymes amylolitiques ;
+-enzymes amylolitiques conformes aux exigences du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008 concernant les enzymes alimentaires et modifiant la directive 83/417/CEE du Conseil, le règlement (CE) n° 1493/1999 du Conseil, la directive 2000/13/CE, la directive 2001/112/CE du Conseil et le règlement (CE) n° 258/97 ;
 
-- gélatine alimentaire ;
+-gélatine alimentaire ;
 
-- tanins ;
+-tanins ;
 
-- bentonite ;
+-bentonite ;
 
-- gel de silice ;
+-gel de silice ;
 
-- charbons ;
+-charbons ;
 
-- adjuvants de filtration et adjuvants de précipitation chimiquement inertes (par exemple perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène), conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
+-adjuvants de filtration et adjuvants de précipitation chimiquement inertes (par exemple perlites, diatomite lavée, cellulose, polyamide insoluble, polyvinylpyrrolidone, polystyrène), conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires ;
 
-- adjuvants d'adsorption chimiquement inertes conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
+-adjuvants d'adsorption chimiquement inertes conformes aux textes réglementaires concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et utilisés pour réduire les teneurs en naringine et en limonoïdes des jus d'agrumes sans modifier sensiblement les teneurs en glucosides limonoïdes, en acides, en sucres (y compris les oligosaccharides) ou en minéraux.
