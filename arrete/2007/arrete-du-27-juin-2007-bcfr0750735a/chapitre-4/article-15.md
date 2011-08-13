@@ -1,6 +1,6 @@
 # Article 15
 
-Au terme des travaux d'évaluation, chaque centre d'évaluation de la sécurité des technologies de l'information remet un rapport au commanditaire et à la direction générale de la comptabilité publique du ministère en charge du budget. Ce rapport est un document confidentiel dont les informations sont couvertes par le secret industriel et commercial.
+Au terme des travaux d'évaluation, chaque centre d'évaluation de la sécurité des technologies de l'information remet un rapport au commanditaire et à la direction générale   des finances publiques  du ministère en charge du budget. Ce rapport est un document confidentiel dont les informations sont couvertes par le secret industriel et commercial.
 
 Le commanditaire et l'administration valident les rapports d'évaluation en liaison avec le centre d'évaluation concerné. Sur la base du ou des rapports d'évaluation validés, l'administration établit un rapport tendant à prononcer l'homologation ou à la refuser.
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Sans convention spécifique préalable, les ordonnateurs et les comptables publics des collectivités et établissements publics locaux peuvent s'échanger des fichiers informatiques comportant des informations budgétaires et comptables en respectant la version la plus récente des protocoles décrits en annexe des instructions budgétaires et comptables propres à chaque catégorie de collectivité et d'établissement public local :
+Sans convention spécifique préalable et sans préjudice des dispositions du second alinéa de l'article 8, les ordonnateurs et les comptables publics des organismes publics visés à l'article 1er peuvent s'échanger des fichiers informatiques comportant des informations budgétaires et comptables en respectant la version la plus récente des protocoles décrits en annexe des instructions budgétaires et comptables propres à chaque catégorie d'organismes publics  :
 
 INDIGO, MAIDEP, MAIREC ou BUDMRE, pour les transmissions électroniques de données, de l'ordonnateur au comptable, quelle que soit la catégorie de collectivité ou d'établissement public local ;
 

@@ -6,4 +6,4 @@ L'homologation est délivrée pour une période de cinq ans. Toute prolongation 
 
 En cas de discordance entre le dispositif homologué et sa mise en oeuvre opérationnelle, l'homologation peut être annulée par arrêté du ministre en charge du budget.
 
-Le ministère en charge du budget ne peut être tenu responsable des dysfonctionnements des dispositifs de transmission et de leurs conséquences pour les collectivités territoriales et pour les établissements publics locaux qui les mettent en oeuvre.
+Le ministère en charge du budget ne peut être tenu responsable des dysfonctionnements des dispositifs de transmission et de leurs conséquences pour        les organismes publics visés à l'article 1er  qui les mettent en oeuvre.
