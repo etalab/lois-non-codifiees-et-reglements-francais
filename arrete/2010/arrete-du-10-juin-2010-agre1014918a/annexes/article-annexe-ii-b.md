@@ -132,7 +132,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Terminale ponctuelle écrite<br/>
 </td>
-<td align="center">2 h<br/>
+<td align="center">2 h 30<br/>
 </td>
 <td align="center">CCF<br/>
 </td>
@@ -141,7 +141,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Ecrite<br/>
 </td>
-<td align="center">2 h<br/>
+<td align="center">2 h 30<br/>
 </td>
 </tr>
 <tr>

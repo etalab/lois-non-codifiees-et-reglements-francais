@@ -70,7 +70,7 @@ Elle valide la capacité C5 :  justifier des choix techniques d'aménagements pa
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants :
+C'est une épreuve ponctuelle terminale écrite d'une durée de 2 h 30. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants :
 
 - un enseignant de sciences et techniques de l'aménagement de l'espace/aménagements paysagers ;
 
