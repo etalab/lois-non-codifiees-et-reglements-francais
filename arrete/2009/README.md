@@ -772,7 +772,6 @@
 - [Arrêté du 10 juillet 2002 (EQUP0201208A)](arrete-du-10-juillet-2002-equp0201208a)
 - [Arrêté du 10 juillet 2002 (EQUP0201209A)](arrete-du-10-juillet-2002-equp0201209a)
 - [Arrêté du 10 juillet 2002 (EQUP0201210A)](arrete-du-10-juillet-2002-equp0201210a)
-- [Arrêté du 10 juillet 2009 (AGRE0916482A)](arrete-du-10-juillet-2009-agre0916482a)
 - [Arrêté du 10 juillet 2009 (AGRS0916191A)](arrete-du-10-juillet-2009-agrs0916191a)
 - [Arrêté du 10 juillet 2009 (DEVA0916292A)](arrete-du-10-juillet-2009-deva0916292a)
 - [Arrêté du 10 juillet 2009 (DEVO0915086A)](arrete-du-10-juillet-2009-devo0915086a)
