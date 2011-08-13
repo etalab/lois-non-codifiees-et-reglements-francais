@@ -575,7 +575,6 @@
 - [Arrêté du 20 juillet 1998 (MESO9810561A)](arrete-du-20-juillet-1998-meso9810561a)
 - [Arrêté du 20 juillet 1998 (MESP9822682A)](arrete-du-20-juillet-1998-mesp9822682a)
 - [Arrêté du 20 mars 1998 (DEFP9702241A)](arrete-du-20-mars-1998-defp9702241a)
-- [Arrêté du 20 mars 1998 (EQUA9800414A)](arrete-du-20-mars-1998-equa9800414a)
 - [Arrêté du 20 mars 1998 (EQUA9800415A)](arrete-du-20-mars-1998-equa9800415a)
 - [Arrêté du 20 mars 1998 (EQUP9800071A)](arrete-du-20-mars-1998-equp9800071a)
 - [Arrêté du 20 mars 1998 (INTC9800104A)](arrete-du-20-mars-1998-intc9800104a)
