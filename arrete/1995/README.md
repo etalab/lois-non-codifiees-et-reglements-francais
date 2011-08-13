@@ -237,7 +237,6 @@
 - [Arrêté du 6 novembre 1995 (MAEF9510027A)](arrete-du-6-novembre-1995-maef9510027a)
 - [Arrêté du 6 novembre 1995 (MCCB9500548A)](arrete-du-6-novembre-1995-mccb9500548a)
 - [Arrêté du 6 novembre 1995 (MCCB9500549A)](arrete-du-6-novembre-1995-mccb9500549a)
-- [Arrêté du 6 novembre 1995 (MCCE9500646A)](arrete-du-6-novembre-1995-mcce9500646a)
 - [Arrêté du 6 novembre 1995 (MENA9502597A)](arrete-du-6-novembre-1995-mena9502597a)
 - [Arrêté du 6 novembre 1995 (MENL9502467A)](arrete-du-6-novembre-1995-menl9502467a)
 - [Arrêté du 6 novembre 1995 (MENL9502496A)](arrete-du-6-novembre-1995-menl9502496a)
