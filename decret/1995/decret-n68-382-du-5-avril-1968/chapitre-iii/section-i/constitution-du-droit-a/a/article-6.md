@@ -2,13 +2,21 @@
 
 I.-Le droit à pension est ouvert :
 
--à quarante ans d'âge pour les artistes du ballet ;
+1° A quarante ans pour les artistes du ballet ;
 
--à cinquante ans d'âge, pour les artistes du chant et les artistes des choeurs ;
+2° A cinquante-sept ans pour les artistes des chœurs ;
 
--à cinquante-cinq ans d'âge, pour les machinistes, les électriciens, les régisseurs ayant la responsabilité du spectacle et les pompiers civils ainsi que pour les emplois des autres catégories qui seraient reconnus comme comportant des fatigues exceptionnelles par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget ;
+3° A cinquante-sept ans pour les personnels qui occupent des emplois reconnus par arrêté conjoint des ministres chargés de la sécurité sociale et du budget comme comportant des fatigues exceptionnelles ou qui ont accompli dix-sept ans de services effectifs dans ces emplois. Sont reconnus comme comportant des fatigues exceptionnelles les emplois cumulant deux au moins des caractéristiques suivantes :
 
--à soixante ans d'âge, pour les autres catégories de personnel.
+-travail de nuit fréquent ;
+
+-organisation du temps de travail générant des contraintes importantes ;
+
+-port fréquent de charges lourdes ;
+
+4° A soixante ans pour les musiciens, chefs de chant et pianistes accompagnateurs ;
+
+5° A soixante-deux ans pour les autres catégories de personnel ;
 
 II.-Le droit à pension est acquis après un minimum d'un an de services effectifs au théâtre entraînant l'affiliation à la caisse de retraites dans les conditions prévues à l'article 2.
 
@@ -48,6 +56,6 @@ Ces trimestres ne doivent pas avoir donné lieu à une validation dans un régim
 
 Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 6 bis et 6 ter du présent décret.
 
-2° Les périodes d'interruption ou de réduction d'activité durant lesquelles les assurés ont bénéficié d'un congé de présence parentale, d'un congé parental d'éducation, d'un congé de disponibilité pour éducation d'enfants ou d'un temps partiel accordé pour élever un enfant. La durée ainsi prise en compte est limitée à un an pour les enfants nés ou adoptés avant le 1er juillet 2008 et à trois ans pour les enfants nés ou adoptés à compter de cette date. En cas de réduction d'activité, la durée prise en compte est la durée non travaillée.L'interruption d'activité doit avoir eu une durée continue d'au moins deux mois.
+2° Les périodes d'interruption ou de réduction d'activité durant lesquelles les assurés ont bénéficié d'un congé de présence parentale, d'un congé parental d'éducation, d'un congé de disponibilité pour éducation d'enfants ou d'un temps partiel accordé pour élever un enfant. La durée ainsi prise en compte est limitée à un an pour les enfants nés ou adoptés avant le 1er juillet 2008 et à trois ans pour les enfants nés ou adoptés à compter de cette date. En cas de réduction d'activité, la durée prise en compte est la durée non travaillée. L'interruption d'activité doit avoir eu une durée continue d'au moins deux mois. Le cumul, au titre du même enfant né ou adopté avant le 1er juillet 2008, de la durée d'assurance prise en compte en application du présent alinéa et de la bonification prévue aux b et b bis de l'article L. 12 du code des pensions civiles et militaires de retraite ou de la majoration de durée d'assurance prévue à l'article L. 12 bis du même code ne peut avoir pour effet d'augmenter la durée des services et bonifications mentionnée au I de l'article 14 et la durée d'assurance définie au IV dudit article 14 d'une durée supérieure à un an. La majoration de durée d'assurance accordée en application de l'article L. 12 bis susmentionné ne peut se cumuler, au titre du même enfant né à compter du 1er janvier 2008, avec la durée d'assurance prise en compte au titre du présent alinéa lorsque celle-ci est supérieure à six mois.
 
-Les dispositions de l'alinéa précédent sont exclusives, pour les périodes en cause, de toute possibilité de validation complémentaire à titre onéreux à la charge de l'assuré. Toutefois, pour les enfants nés ou adoptés avant le 1er juillet 2008, les assurés ayant procédé antérieurement à cette date à une validation à titre onéreux à leur charge pour les périodes en cause bénéficient des dispositions de l'alinéa précédent.L'application de ces dispositions ne peut conduire à ce que la durée non travaillée puisse être retenue deux fois ni pour la détermination du droit à pension ni pour le calcul de la durée d'assurance définie au IV de l'article 14.
+Les dispositions de l'alinéa précédent sont exclusives, pour les périodes en cause, de toute possibilité de validation complémentaire à titre onéreux à la charge de l'assuré. Toutefois, pour les enfants nés ou adoptés avant le 1er juillet 2008, les assurés ayant procédé antérieurement à cette date à une validation à titre onéreux à leur charge pour les périodes en cause bénéficient des dispositions de l'alinéa précédent. L'application de ces dispositions ne peut conduire à ce que la durée non travaillée puisse être retenue deux fois ni pour la détermination du droit à pension ni pour le calcul de la durée d'assurance définie au IV de l'article 14.
