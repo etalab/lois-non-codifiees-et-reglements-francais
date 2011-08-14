@@ -12,8 +12,6 @@ Sont mises à part sans être ouvertes :
 
 - les enveloppes n° 2 multiples parvenues sous la signature d'un même agent ;
 
-- les enveloppes n° 2 contenant un bulletin de vote sans enveloppe n° 1 ;
-
 - les enveloppes n° 1 portant une mention ou un signe distinctif ;
 
 - les enveloppes n° 1 parvenues en nombre multiple sous une même enveloppe n° 2.
