@@ -6,15 +6,11 @@ La sous-direction des ressources, de l'évaluation et de la stratégie comprend 
 
 ― la division nationale du budget et de la logistique ;
 
-― la division nationale des ressources humaines et de la formation promotionnelle ;
+― la division nationale des ressources humaines et de la formation ;
 
-― la division du contrôle technique ;
+― la division du contrôle technique et du suivi de la performance  ;
 
-― la division de la communication ;
-
-― la division de la logistique opérationnelle ;
-
-― la section du contrôle de gestion et de la performance.
+― la division de la communication.
 
 Elle est chargée de l'élaboration de la doctrine et de la stratégie de la direction centrale de la police judiciaire et coordonne les travaux menés au sein de la direction centrale en matière juridique ou technique ainsi qu'en matière d'organisation et de prospective. Elle assure la coordination de la veille technologique.
 

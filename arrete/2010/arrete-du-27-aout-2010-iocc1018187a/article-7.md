@@ -2,15 +2,13 @@
 
 La sous-direction de l'équipement et de la logistique comprend :
 
-― le bureau des moyens généraux ;
+― le bureau du soutien logistique  ;
 
 ― le bureau des moyens mobiles ;
 
 ― le bureau de l'habillement ;
 
 ― le bureau de l'armement et des matériels techniques ;
-
-― le service du soutien informatique et des méthodes ;
 
 ― l'établissement central logistique de la police nationale ;
 

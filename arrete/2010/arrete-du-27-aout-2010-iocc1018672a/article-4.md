@@ -6,7 +6,7 @@ L'inspection générale de la police nationale comprend, à son siège :
 
 ― un cabinet central d'enquêtes ;
 
-― un cabinet des audits ;
+― un cabinet des inspections et  des audits ;
 
 ― un cabinet des études.
 
