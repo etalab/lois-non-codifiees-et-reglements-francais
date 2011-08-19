@@ -14,6 +14,8 @@ Sont prises par les directeurs interrégionaux, les chefs de service à compéte
 
 2 quater : Décisions de prélèvement d'échantillons et de leur remise au titulaire du droit, prévues par l'article 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 et par les articles L. 521-17 et L. 716-8-3 du code de la propriété intellectuelle ;
 
+2 quinquies : Retenue des marchandises prévue au 2 de l'article 10 du règlement (CE) n° 1236/2005 du Conseil du 27 juin 2005 ;
+
 3° Décisions de sanctions en matière de déclaration périodique, prévues par l'article 15 ter de la loi du 17 juillet 1992 susvisée ;
 
 4° Décision de dérogation aux restrictions de tonnage concernant les navires transportant certaines marchandises sensibles prévue par le 2 de l'article 1er de l'arrêté du 9 juin 1969 portant institution des restrictions de tonnage à l'importation et à l'exportation en application de l'article 24 du code des douanes ;
