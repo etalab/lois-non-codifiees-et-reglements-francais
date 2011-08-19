@@ -364,6 +364,5 @@
 - [Décret n°85-1510 du 31 décembre 1985](decret-n85-1510-du-31-decembre-1985)
 - [Décret n°85-1530 du 31 décembre 1985](decret-n85-1530-du-31-decembre-1985)
 - [Décret n°85-1531 du 31 décembre 1985](decret-n85-1531-du-31-decembre-1985)
-- [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
 - [Décret n°86-156 du 31 janvier 1986](decret-n86-156-du-31-janvier-1986)
 - [Décret n°86-166 du 31 janvier 1986](decret-n86-166-du-31-janvier-1986)
