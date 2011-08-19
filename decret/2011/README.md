@@ -55,6 +55,7 @@
 - [Décret n°2011-844 du 15 juillet 2011 (SCSA1030101D)](decret-n2011-844-du-15-juillet-2011-scsa1030101d)
 - [Décret n°2011-848 du 18 juillet 2011 (MCCB1108599D)](decret-n2011-848-du-18-juillet-2011-mccb1108599d)
 - [Décret n°2011-849 du 18 juillet 2011 (INDI1023488D)](decret-n2011-849-du-18-juillet-2011-indi1023488d)
+- [Décret n°89-752 du 18 octobre 1989 (DEFP8901865D)](decret-n89-752-du-18-octobre-1989-defp8901865d)
 - [Décret n°2011-853 du 19 juillet 2011 (DEVL1030800D)](decret-n2011-853-du-19-juillet-2011-devl1030800d)
 - [Décret n°2011-860 du 20 juillet 2011 (DEVL1112892D)](decret-n2011-860-du-20-juillet-2011-devl1112892d)
 - [Décret n°2011-861 du 20 juillet 2011 (IOCL1115405D)](decret-n2011-861-du-20-juillet-2011-iocl1115405d)
