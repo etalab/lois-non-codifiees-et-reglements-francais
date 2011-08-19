@@ -1,31 +1,31 @@
 # Article 1
 
-Sont instituées auprès du ministre chargé de l'éducation nationale et pour une durée de quatre ans les commissions professionnelles consultatives ci-dessous énumérées :
+Sont instituées auprès du ministre chargé de l'éducation nationale et pour une durée de cinq ans renouvelables les commissions professionnelles consultatives ci-dessous énumérées :
 
-- métallurgie ;
+-métallurgie ;
 
-- bâtiment, travaux publics, matériaux de construction ;
+-bâtiment, travaux publics, matériaux de construction ;
 
-- chimie, bio-industrie, environnement ;
+-chimie, bio-industrie, environnement ;
 
-- alimentation ;
+-alimentation ;
 
-- métiers de la mode et industries connexes ;
+-métiers de la mode et industries connexes ;
 
-- bois et dérivés ;
+-bois et dérivés ;
 
-- transport, logistique, sécurité et autres services ;
+-transport, logistique, sécurité et autres services ;
 
-- communication graphique et audiovisuel ;
+-communication graphique et audiovisuel ;
 
-- arts appliqués ;
+-arts appliqués ;
 
-- commercialisation et distribution ;
+-commercialisation et distribution ;
 
-- services administratifs et financiers ;
+-services administratifs et financiers ;
 
-- tourisme, hôtellerie, restauration ;
+-tourisme, hôtellerie, restauration ;
 
-- coiffure, esthétique et services connexes ;
+-coiffure, esthétique et services connexes ;
 
-- secteurs sanitaire et social, médico-social.
+-secteurs sanitaire et social, médico-social.
