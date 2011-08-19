@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué une commission consultative paritaire compétente à l'égard des agents non titulaires de droit public exerçant dans les services relevant de l'autorité des ministres chargés de la santé, de la jeunesse et de la vie associative, des solidarités et de la cohésion sociale, de la ville et des sports, recrutés en application du décret du 17 janvier 1986 susvisé ou par contrat à durée indéterminée. Cette commission n'est pas compétente pour les agents non titulaires dont le contrat de recrutement indique explicitement leur appartenance à un cabinet ministériel ainsi que pour les agents non titulaires relevant d'une instance paritaire de concertation déjà existante.
