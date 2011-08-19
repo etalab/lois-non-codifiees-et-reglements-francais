@@ -155,6 +155,7 @@
 - [Décret n°2011-796 du 30 juin 2011 (MFPX1115892D)](decret-n2011-796-du-30-juin-2011-mfpx1115892d)
 - [Décret n°2011-797 du 30 juin 2011 (TRAX1112474D)](decret-n2011-797-du-30-juin-2011-trax1112474d)
 - [Décret n°94-1225 du 30 décembre 1994 (AGRE9402354D)](decret-n94-1225-du-30-decembre-1994-agre9402354d)
+- [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
 - [Décret n°2011-798 du 1er juillet 2011 (DEVA1110985D)](decret-n2011-798-du-1er-juillet-2011-deva1110985d)
 - [Décret n°2011-916 du 1er août 2011 (ETSS1120788D)](decret-n2011-916-du-1er-aout-2011-etss1120788d)
 - [Décret n°2011-919 du 1er août 2011 (PRMX1115981D)](decret-n2011-919-du-1er-aout-2011-prmx1115981d)
