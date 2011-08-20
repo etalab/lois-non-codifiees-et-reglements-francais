@@ -1,0 +1,3 @@
+# Article 5
+
+Le titulaire du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « plongée subaquatique » ou du monitorat fédéral 2e degré de plongée subaquatique délivré par la Fédération française d'études et de sports sous-marins ou la Fédération sportive et gymnique du travail et de la qualification de plongeur nitrox confirmé et de l'attestation de premiers secours en équipe de niveau 1 (PSE 1) obtient de droit l'unité capitalisable 4 du diplôme d'Etat supérieur de la jeunesse de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « plongée subaquatique ».
