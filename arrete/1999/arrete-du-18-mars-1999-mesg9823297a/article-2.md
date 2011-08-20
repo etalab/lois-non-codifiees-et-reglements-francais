@@ -1,15 +1,17 @@
 # Article 2
 
-Le jury commun aux deux concours, nommé par arrêté du ministre de l'emploi, du travail et de la cohésion sociale, du ministre de la santé et de la protection sociale, de la ministre de la famille et de l'enfance et de la ministre de la parité et de l'égalité professionnelle, est composé comme suit :
+Le jury, commun aux concours externe et interne, nommé par arrêté du ministre chargé des affaires sociales, est composé comme suit :
 
--le      directeur général de la cohésion sociale  ou son représentant, président ;
+- un inspecteur pédagogique et technique de la direction générale de la cohésion sociale, président ;
 
--un conseiller technique et pédagogique des fonctions éducatives ;
+- le directeur des ressources humaines ou son représentant ;
 
--un directeur de centre de formation en travail social agréé ;
+- le directeur d'un institut national de jeunes sourds ou le directeur de l'Institut national des jeunes aveugles ou son représentant ;
 
--un membre choisi parmi les directeurs régionaux des affaires sanitaires et sociales, les directeurs départementaux des affaires sanitaires et sociales ou les directeurs d'instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles ;
+- un conseiller technique et pédagogique des fonctions éducatives ;
 
--un inspecteur principal de l'action sanitaire et sociale ou un inspecteur technique et pédagogique ;
+- un directeur de centre de formation en travail social agréé ;
 
--un conseiller technique d'éducation spécialisée.
+- un conseiller technique d'éducation spécialisée.
+
+En cas d'absence ou d'empêchement du président, la présidence est assurée par le directeur des ressources humaines ou son représentant.
