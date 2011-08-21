@@ -462,6 +462,7 @@
 - [Arrêté du 9 mars 2011 (ETSH1107375A)](arrete-du-9-mars-2011-etsh1107375a)
 - [Arrêté du 9 mars 2011 (ETSS1033016A)](arrete-du-9-mars-2011-etss1033016a)
 - [Arrêté du 9 mars 2011 (IOCE1106974A)](arrete-du-9-mars-2011-ioce1106974a)
+- [Arrêté du 9 mai 1990 (JUSG9060032A)](arrete-du-9-mai-1990-jusg9060032a)
 - [Arrêté du 9 mai 2000 (EQUA0000905A)](arrete-du-9-mai-2000-equa0000905a)
 - [Arrêté du 9 mai 2011 (AGRM1112341A)](arrete-du-9-mai-2011-agrm1112341a)
 - [Arrêté du 9 mai 2011 (DEVL1112010A)](arrete-du-9-mai-2011-devl1112010a)
