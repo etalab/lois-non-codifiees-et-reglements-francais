@@ -1,12 +1,12 @@
 # Article 5
 
-I. ― La sous-direction « synthèse » :
+I. ― La sous-direction "synthèse" :
 
-1. Elabore, en conformité avec les orientations données par l'inspecteur des armées, la stratégie ainsi que les objectifs de performance du service et met en œuvre les actions qui en découlent.
+1. Elabore la stratégie ainsi que les objectifs de performance du service et met en œuvre les actions qui en découlent.
 
 A ce titre, elle :
 
-a) Assure la programmation et le suivi des actions d'audit et de contrôle internes du service ;
+a) Définit le dispositif de contrôle interne du service, l'anime et participe à la programmation des actions relevant de la politique générale de l'audit interne dans les armées, directions et services interarmées ;
 
 b) Définit les procédures et l'organisation du contrôle de gestion et anime le dialogue de gestion ;
 
@@ -40,12 +40,12 @@ a) Coordonne les besoins et l'action du service dans le domaine des systèmes d'
 
 b) Fixe et assure le respect des règles de sécurité informatique dans le service.
 
-II. ― Pour l'exercice de ces attributions, la sous-direction « synthèse » comprend quatre bureaux :
+II. ― Pour l'exercice de ces attributions, la sous-direction "synthèse" comprend quatre bureaux :
 
-1. Le bureau « pilotage et prospective » ;
+1. Le bureau "pilotage et prospective" ;
 
-2. Le bureau « systèmes d'information » ;
+2. Le bureau "systèmes d'information" ;
 
-3. Le bureau « organisation, effectifs et métiers » ;
+3. Le bureau "organisation, effectifs et métiers" ;
 
-4. Le bureau « ressources budgétaires et patrimoniales ».
+4. Le bureau "ressources budgétaires et patrimoniales".

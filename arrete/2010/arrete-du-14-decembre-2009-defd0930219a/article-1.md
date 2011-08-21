@@ -52,7 +52,7 @@ u) Le centre de liquidation des factures ;
 
 v) Le centre d'expertise du soutien du combattant et des forces ;
 
-w) Le centre d'audit administratif et financier ;
+w) (supprimé)
 
 x) Le centre d'analyse et de contrôle interne comptable ;
 

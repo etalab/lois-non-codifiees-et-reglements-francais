@@ -1,6 +1,6 @@
 # Article 20
 
-Les véhicules de téléphérique monocâble peuvent être récupérés si le couple « attache-appui de câble » reste identique à celui pris en compte dans l'essai de fatigue initial quand celui-ci a été réalisé, soit en appliquant un coefficient de 1,5 aux contraintes dynamiques mesurées sur l'installation de référence, soit, si le véhicule a été autorisé par les services de contrôle, pour tout type de balancier en appliquant un coefficient de 2 aux contraintes statiques.
+Les véhicules de téléphérique monocâble peuvent être récupérés si le couple "attache-appui de câble" reste identique à celui pris en compte dans l'essai de fatigue initial quand celui-ci a été réalisé, soit en appliquant un coefficient de 1,5 aux contraintes dynamiques mesurées sur l'installation de référence, soit, si le véhicule a été autorisé par le service de contrôle, pour tout type de balancier en appliquant un coefficient de 2 aux contraintes statiques.
 
 Si les exigences prévues à l'alinéa précédent ne sont pas satisfaites, les véhicules récupérés doivent satisfaire à une des deux conditions ci-après :
 

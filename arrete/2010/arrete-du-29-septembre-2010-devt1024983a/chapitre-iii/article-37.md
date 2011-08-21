@@ -1,6 +1,6 @@
 # Article 37
 
-I. ― Les tapis roulants mentionnés à l'article 1er sont exploités, maintenus, contrôlés et vérifiés de façon à permettre le maintien permanent de la sécurité des usagers, des personnels et des tiers, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnables prévisibles.
+I. ― Les dispositions du présent chapitre fixent les conditions dans lesquelles les tapis roulants mentionnés à l'article 1er sont exploités, maintenus, contrôlés, vérifiés et modifiés de façon à permettre le maintien permanent de la sécurité des usagers, des personnes et des tiers, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles.
 
 Les exploitants sont responsables du respect des exigences prévues à l'alinéa précédent et de la mise en œuvre des dispositions prévues dans le présent chapitre fixant :
 
@@ -14,7 +14,7 @@ Les exploitants sont responsables du respect des exigences prévues à l'alinéa
 
 ― les conditions de modification de tout ou partie des éléments d'un tapis roulant.
 
-II. ― Les exigences prévues par le présent chapitre sont présumées satisfaites dès lors que sont respectées les dispositions prévues par le « Guide technique du service technique des remontées mécaniques et des transports guidés ― Tapis roulants de station de montagne ― Instructions techniques » publié, dans le respect des prescriptions du présent arrêté et après avis de la commission des téléphériques, par le STRMTG sur son site internet et dans un registre écrit, coté et paraphé consultable au siège de ce service.
+II. ― Les exigences prévues par le présent chapitre sont présumées satisfaites dès lors que sont respectées les dispositions prévues par le "Guide technique du service technique des remontées mécaniques et des transports guidés ― Tapis roulants de station de montagne ― Instructions techniques" publié, dans le respect des prescriptions du présent arrêté et après avis de la commission des téléphériques, par le STRMTG sur son site internet et dans un registre écrit, coté et paraphé consultable au siège de ce service.
 
 III. ― La présomption prévue au II ne fait pas obstacle à la mise en œuvre par les personnes concernées de solutions différentes de celles prévues par le guide technique précité, sous réserve de la justification du respect des exigences prévues au I au vu d'analyses de sécurité pouvant s'appuyer :
 

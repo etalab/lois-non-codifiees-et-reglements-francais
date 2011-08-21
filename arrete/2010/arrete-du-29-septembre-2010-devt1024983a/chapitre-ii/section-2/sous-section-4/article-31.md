@@ -15,3 +15,5 @@ Ce coffret de commande comporte au moins :
 Les commandes du coffret principal ne doivent pas pouvoir être actionnées par les usagers.
 
 D'autres coffrets de commande peuvent être installés en plus du coffret principal. Ils respectent les exigences prévues au premier alinéa et à l'alinéa précédent. Ils ne peuvent être actifs simultanément. La sélection est effectuée à partir du coffret de commande principal.
+
+Toutefois, des coffrets de commande peuvent ne pas respecter le premier alinéa. Dans ce cas, la remise en marche depuis un tel coffret de commande n'est possible que pour les arrêts de service provoqués depuis ce coffret.

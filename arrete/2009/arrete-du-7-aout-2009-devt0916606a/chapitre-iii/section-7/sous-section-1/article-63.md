@@ -2,7 +2,7 @@
 
 Les fabricants des constituants de sécurité neufs non marqués CE identiques ou quasi identiques à la pièce d'origine doivent être certifiés conformes à la norme NF EN ISO 9001.
 
-Par dérogation accordée par le service de contrôle, cette exigence n'est pas requise si :
+Cette exigence n'est pas requise si :
 
 ― l'exploitant est certifié ou accrédité par tierce partie dans le domaine de la maintenance ;
 

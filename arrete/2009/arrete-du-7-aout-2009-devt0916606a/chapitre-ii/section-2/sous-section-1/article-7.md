@@ -8,7 +8,7 @@ II. ― Tout bâtiment survolé susceptible de présenter un risque d'incendie e
 
 ― horizontalement : 8 mètres.
 
-Ces distances peuvent être réduites après accord des services de contrôle et à condition que toutes dispositions aient été prises pour qu'un incendie du bâtiment survolé ne puisse mettre en péril les usagers du téléphérique.
+Ces distances peuvent être réduites après accord du service de contrôle et à condition que toutes dispositions aient été prises pour qu'un incendie du bâtiment survolé ne puisse mettre en péril les usagers du téléphérique.
 
 Un téléphérique ne peut survoler un espace boisé qu'à la condition que le sol situé à sa verticale soit libre de tout boisement en respectant des distances de sécurité de 1,5 mètre de part et d'autre de l'installation.
 

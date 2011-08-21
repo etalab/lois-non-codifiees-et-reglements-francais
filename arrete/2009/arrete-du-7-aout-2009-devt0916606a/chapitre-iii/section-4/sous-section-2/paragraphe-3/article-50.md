@@ -16,6 +16,6 @@ L'exploitant désigne une personne chargée de :
 
 ― la formulation d'un avis sur la poursuite de l'exploitation.
 
-La personne mentionnée à l'alinéa précédent doit posséder les compétences professionnelles nécessaires à l'accomplissement des missions énumérées ci-dessus.
+La personne mentionnée au premier alinéa possède les compétences professionnelles nécessaires à l'accomplissement des missions énumérées ci-dessus.
 
-L'exploitant présente le programme de la grande inspection aux services en charge du contrôle de l'Etat au moins deux mois avant le début de son exécution. Ces services disposent de deux mois pour approuver ce document et, le cas échéant, l'assortir d'observations et de prescriptions.
+L'exploitant présente le programme de cette inspection au service de contrôle au moins deux mois avant le début de son exécution. Le service de contrôle dispose de deux mois pour approuver ce programme et, le cas échéant, l'assortir d'observations et de prescriptions.

@@ -1,6 +1,6 @@
 # Article 6
 
-Une installation ne peut être réalisée ou modifiée sans que la cohérence entre sa conception et sa réalisation ne soit garantie.
+Une installation ne peut être réalisée ou substantiellement modifiée sans que la cohérence entre sa conception et sa réalisation ne soit garantie.
 
 Cette exigence est satisfaite :
 

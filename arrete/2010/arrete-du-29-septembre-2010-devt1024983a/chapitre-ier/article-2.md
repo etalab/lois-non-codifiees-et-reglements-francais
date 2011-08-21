@@ -8,7 +8,7 @@ Au sens du présent arrêté, on désigne par :
 
 ― dispositif de sécurité : l'ensemble des constituants électriques qui sont utilisés pour réaliser toutes les opérations d'une fonction de sécurité ;
 
-― fonction de sécurité : l'ensemble des opérations destinées à détecter l'apparition de certains états/événements constitutifs d'une situation dangereuse et à arrêter l'installation ;
+― fonction de sécurité : l'ensemble des opérations destinées à détecter l'apparition de certains états/ événements constitutifs d'une situation dangereuse et à arrêter l'installation ;
 
 ― installation : le système complet de tapis roulant, y compris l'ouvrage support, implanté dans son site ;
 
@@ -22,9 +22,9 @@ Au sens du présent arrêté, on désigne par :
 
 ― règlement de police : le document mentionné à l'article R. 472-15 du code de l'urbanisme et à l'article R. 342-11 du code du tourisme ;
 
-― services de contrôle : les services mentionnés à l'article R. 342-8 du code du tourisme ;
+― service de contrôle : le service chargé des missions mentionnées à l'article R. 342-8 du code du tourisme ;
 
-― STRMTG : le service technique des remontées mécaniques et des transports guidés créé par le décret du 31 juillet 2001 susvisé ;
+― STRMTG : le service technique des remontées mécaniques et des transports guidés créé par le décret n° 2010-1580 du 17 décembre 2010 relatif au service technique des remontées mécaniques et des transports guidés ;
 
 ― tapis roulant : un appareil destiné au transport de personnes comprenant une bande transporteuse entraînée par un moteur ;
 

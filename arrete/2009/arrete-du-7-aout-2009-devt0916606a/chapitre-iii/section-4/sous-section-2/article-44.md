@@ -18,4 +18,4 @@ III. ― Dans les cas prévus par le présent arrêté, l'exploitant fait réali
 
 ― les contrôles non destructifs et les inspections périodiques des câbles par un vérificateur agréé au titre de contrôleur de câbles.
 
-IV. ― Toute inspection périodique donne lieu à l'établissement d'un rapport adressé aux services de l'Etat en charge du contrôle.
+IV. ― Toute inspection périodique donne lieu à l'établissement d'un rapport adressé au service de contrôle.

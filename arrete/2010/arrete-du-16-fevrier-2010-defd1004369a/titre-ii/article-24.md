@@ -46,4 +46,6 @@ XX. - Les officiers généraux chargés des zones de soutien ;
 
 XXI. - Les commandants de base de défense ;
 
-XXII. - Le service interarmées des munitions.
+XXII. - Le service interarmées des munitions ;
+
+XXIII. - Le centre d'audit des armées.

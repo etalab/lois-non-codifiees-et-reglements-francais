@@ -1,6 +1,6 @@
 # Article 26
 
-I. ― Les téléphériques mentionnés à l'article 1er sont exploités, maintenus, contrôlés et vérifiés de façon à permettre le maintien permanent de la sécurité des usagers, des personnes et des tiers, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles.
+I. ― Les dispositions du présent chapitre fixent les conditions dans lesquelles les téléphériques mentionnés à l'article 1er sont exploités, maintenus, contrôlés, vérifiés et modifiés de façon à permettre le maintien permanent de la sécurité des usagers, des personnes et des tiers, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles.
 
 Les exploitants sont responsables du respect des exigences prévues à l'alinéa précédent et de la mise en œuvre des dispositions prévues dans le présent chapitre fixant :
 

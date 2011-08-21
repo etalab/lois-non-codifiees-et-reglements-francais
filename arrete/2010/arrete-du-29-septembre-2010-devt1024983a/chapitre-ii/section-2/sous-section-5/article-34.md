@@ -10,7 +10,7 @@ b) Le profil du tapis roulant et sa sortie latérale permettent le changement de
 
 c) Une rambarde est installée pour faciliter la sortie de l'usager ;
 
-d) Un dispositif de sécurité est installé après la zone de débarquement de sorte à arrêter la bande transporteuse avant que l'usager n'ait atteint le point rentrant de fin de bande. La fonction de sécurité associée à l'activation de ce dispositif déclenche un arrêt d'urgence, sans possibilité de redémarrage automatique ;
+d) Un dispositif de sécurité est installé après la zone de débarquement de sorte à arrêter la bande transporteuse avant que l'usager n'ait atteint le point rentrant de fin de bande. La fonction de sécurité associée à l'activation de ce dispositif déclenche un arrêt d'urgence, sans possibilité de redémarrage automatique. Toutefois, si le tapis est équipé d'une trappe de sécurité telle que définie à l'article 26, alors la fonction de sécurité associée à l'activation du dispositif mentionné ci-avant déclenche au moins un arrêt de service ;
 
 e) Un bouton d'arrêt d'urgence est mis à la disposition des usagers à proximité de chaque zone de débarquement latéral ;
 

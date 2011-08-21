@@ -8,4 +8,4 @@ La zone de libération de la trappe de secours présente une longueur minimale d
 
 Elle comporte un dispositif de contrôle qui immobilise la bande transporteuse si la trappe de secours ne se trouve pas dans la position de repos prévue.
 
-La fonction de sécurité associée à l'activation de la trappe de sécurité déclenche un arrêt d'urgence.
+La fonction de sécurité associée à l'activation de la trappe de secours déclenche un arrêt d'urgence.

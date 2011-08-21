@@ -1,6 +1,6 @@
 # Article 26
 
-I. ― Une trappe de sécurité est installée à l'arrivée du tapis roulant destiné à déclencher l'arrêt d'urgence de la bande transporteuse dès qu'un corps étranger, tel qu'un vêtement ou un membre d'un usager, risque d'être entraîné entre cette bande et les composants de sortie (plaque de débarquement ou trappe de sécurité).
+I. ― Une trappe de sécurité est installée à l'arrivée du tapis roulant destinée à déclencher l'arrêt d'urgence de la bande transporteuse dès qu'un corps étranger, tel qu'un vêtement ou un membre d'un usager, risque d'être entraîné entre cette bande et les composants de sortie (plaque de débarquement ou trappe de sécurité).
 
 II. ― La trappe de sécurité est conçue dans le respect des dispositions suivantes :
 
@@ -18,7 +18,7 @@ d) L'effort nécessaire pour ouvrir la trappe n'excède pas 50 newtons ;
 
 e) Sous la trappe de sécurité, sur une hauteur minimale de 20 centimètres, le passage d'une sphère d'un diamètre de 57 millimètres en contact avec la bande transporteuse doit être possible. A l'intérieur de cet espace, les éventuels dispositifs de sécurité complémentaires s'écartent sous un effort gravitaire maximal de 20 newtons et dégagent un espace libre au-delà de la bande transporteuse supérieur à 57 millimètres ;
 
-f) La fonction de contrôle de la position « ouverte » de la trappe de sécurité au-delà de 20 millimètres déclenche un arrêt d'urgence. Un redémarrage automatique de la bande transporteuse après ouverture de la trappe de sécurité peut être admis à condition que les dispositions suivantes soient respectées :
+f) La fonction de contrôle de la position  ouverte  de la trappe de sécurité au-delà de 20 millimètres déclenche un arrêt d'urgence. Un redémarrage automatique de la bande transporteuse après ouverture de la trappe de sécurité peut être admis à condition que les dispositions suivantes soient respectées :
 
 1. La trappe est revenue en position de repos moins de 5 secondes après son ouverture ;
 
