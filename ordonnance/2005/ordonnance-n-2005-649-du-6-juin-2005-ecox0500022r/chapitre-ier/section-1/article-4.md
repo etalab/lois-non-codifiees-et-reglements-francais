@@ -1,6 +1,6 @@
 # Article 4
 
-Les entités adjudicatrices soumises à la présente ordonnance sont :
+I. - Les entités adjudicatrices soumises à la présente ordonnance sont :
 
 1° Les pouvoirs adjudicateurs définis à l'article 3 qui exercent une des activités d'opérateur de réseaux énumérées à l'article 26 ;
 
@@ -13,3 +13,5 @@ L'influence des pouvoirs adjudicateurs est réputée dominante lorsque ceux-ci, 
 3° Les organismes de droit privé bénéficiant de droits spéciaux ou exclusifs ayant pour effet de leur réserver l'exercice d'une ou de plusieurs des activités énumérées à l'article 26 et d'affecter substantiellement la capacité des autres opérateurs économiques d'exercer ces activités.
 
 Ne sont pas considérés comme des droits spéciaux ou exclusifs pour l'application de ces dispositions les droits accordés à l'issue d'une procédure permettant de garantir la prise en compte de critères objectifs, proportionnels et non discriminatoires.
+
+II. - La présente ordonnance ne fait pas obstacle à la possibilité pour les entités adjudicatrices d'appliquer volontairement les règles de passation ou d'exécution prévues par le code des marchés publics.

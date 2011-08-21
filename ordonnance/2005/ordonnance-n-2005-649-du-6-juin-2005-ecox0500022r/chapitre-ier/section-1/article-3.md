@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Les pouvoirs adjudicateurs soumis à la présente ordonnance sont :
+I.-Les pouvoirs adjudicateurs soumis à la présente ordonnance sont :
 
 1° Les organismes de droit privé ou les organismes de droit public autres que ceux soumis au code des marchés publics dotés de la personnalité juridique et qui ont été créés pour satisfaire spécifiquement des besoins d'intérêt général ayant un caractère autre qu'industriel ou commercial, dont :
 
@@ -26,4 +26,4 @@ c) Soit par des pouvoirs adjudicateurs soumis au code des marchés publics et de
 
 Un décret en Conseil d'État fixe les modalités d'application de cette disposition et, notamment, les conditions dans lesquelles lesdits établissements fixent, en tant que pouvoir adjudicateur, les modalités de passation des marchés pour leurs achats scientifiques.
 
-II. - Les dispositions de la présente ordonnance ne font pas obstacle à la possibilité pour les pouvoirs adjudicateurs d'appliquer volontairement les règles prévues par le code des marchés publics.
+II.-Les dispositions de la présente ordonnance ne font pas obstacle à la possibilité pour les pouvoirs adjudicateurs d'appliquer volontairement les règles de passation ou d'exécution prévues par le code des marchés publics.
