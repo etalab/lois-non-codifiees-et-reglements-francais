@@ -210,7 +210,6 @@
 - [Arrêté du 9 mars 1990 (LOGC9000035A)](arrete-du-9-mars-1990-logc9000035a)
 - [Arrêté du 9 mars 1990 (PRME9061142A)](arrete-du-9-mars-1990-prme9061142a)
 - [Arrêté du 9 mai 1990 (ECOT9010074A)](arrete-du-9-mai-1990-ecot9010074a)
-- [Arrêté du 9 mai 1990 (JUSG9060032A)](arrete-du-9-mai-1990-jusg9060032a)
 - [Arrêté du 9 mai 1990 (JUSJ9050030A)](arrete-du-9-mai-1990-jusj9050030a)
 - [Arrêté du 9 mai 1990 (TEFF9003494A)](arrete-du-9-mai-1990-teff9003494a)
 - [Arrêté du 10 août 1990 (MERP9000139A)](arrete-du-10-aout-1990-merp9000139a)
