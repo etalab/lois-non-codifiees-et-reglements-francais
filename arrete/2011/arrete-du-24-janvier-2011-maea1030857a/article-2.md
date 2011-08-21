@@ -80,7 +80,7 @@ Centre d'études et de documentation économique, juridique et sociale.
 
 RÉPUBLIQUE ARABE DE SYRIE
 
-Institut français du Proche-Orient.
+Institut français du Proche-Orient (dont antennes à Erbil et Jérusalem).
 
 RÉPUBLIQUE DU YÉMEN
 
@@ -136,7 +136,7 @@ Centre culturel français de Tlemcen.
 
 ALLEMAGNE
 
-Institut français d'Allemagne (dont antennes à Brême, Cologne, Dresde, Düsseldorf, Francfort, Hambourg, Leipzig, Mayence, Munich et Stuttgart).
+Institut français d'Allemagne (dont antennes à Bonn, Brême, Cologne, Dresde, Düsseldorf, Erfurt, Francfort, Hambourg, Heidelberg, Leipzig, Magdeburg, Mayence, Munich, Potsdam et Stuttgart).
 
 ARGENTINE
 
@@ -212,7 +212,7 @@ Institut français de Chypre.
 
 COLOMBIE
 
-Centre pour les études en France de Bogota.
+Centre pour les études en France de Bogota (dont antenne à Lima/Pérou).
 
 RÉPUBLIQUE DU CONGO
 
@@ -268,7 +268,7 @@ Institut français d'Estonie.
 
 ÉTATS-UNIS
 
-La maison française de Washington.
+La maison française de Washington (dont antenne à New York).
 
 FINLANDE
 
@@ -310,7 +310,7 @@ INDONÉSIE
 
 Centre culturel français de Bandung.
 
-Institut français en Indonésie (dont antenne à Wigaya).
+Institut français d'Indonésie (dont antenne à Wigaya).
 
 Centre culturel français de Surabaya.
 
@@ -328,7 +328,7 @@ ISRAËL
 
 Centre culturel français d'Haïfa et de Nazareth.
 
-Institut français en Israël (dont antenne à Beersheva [et du Néguev]).
+Institut français d'Israël (dont antenne à Beersheva et du Néguev).
 
 ITALIE
 
@@ -388,7 +388,7 @@ Institut français de Skopje.
 
 MADAGASCAR
 
-Institut français de Madagascar.
+Institut français de Madagascar (dont antennes à Antsirabe, Diégo-Suarez, Tamatave, Fianarantsoa, Tuléar, Mahajanga).
 
 MALAWI
 
@@ -464,19 +464,19 @@ QATAR
 
 Institut français du Qatar.
 
-ROYAUME-UNI
-
-Institut français du Royaume-Uni (dont antenne à l'Institut français du Royaume-Uni, annexe d'Edimbourg, Institut français d'Ecosse).
-
 ROUMANIE
 
 Institut français de Bucarest.
 
 Centre culturel français de Cluj-Napoca.
 
-Centre culturel français de Lasi.
+Centre culturel français de Iasi.
 
 Centre culturel français de Timisoara.
+
+ROYAUME-UNI
+
+Institut français du Royaume-Uni (dont antenne Institut français d'Ecosse).
 
 RUSSIE
 
@@ -486,7 +486,7 @@ Institut français de Saint-Pétersbourg.
 
 RWANDA
 
-Institut français du Rwanda, Centre d'échanges culturels franco-rwandais (dont antenne à Igikari).
+Institut français du Rwanda (dont antenne à Igikari).
 
 SAINT-SIÈGE
 
@@ -514,7 +514,7 @@ Institut français du Soudan (dont antenne à Juba).
 
 SUÈDE
 
-Institut français de Stockholm.
+Institut français de Suède.
 
 RÉPUBLIQUE ARABE DE SYRIE
 
