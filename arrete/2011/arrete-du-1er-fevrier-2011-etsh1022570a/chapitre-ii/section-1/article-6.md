@@ -10,6 +10,6 @@ a) En application de l'arrêté du 20 mars 1953 instituant une commission interm
 
 b) Sur la base des arrêtés du 25 septembre 1985 et du 26 mars 1990 relatif aux ocularistes ;
 
-3° Ou dont la compétence professionnelle est reconnue par la commission nationale de validation des épithésistes prévue à l'article 8 et dans les conditions définies aux articles 10 à 13 du présent arrêté.
+3° Ou dont la compétence professionnelle est reconnue par la commission nationale prévue à l'article 8 et dans les conditions définies aux articles 9 à 12 du présent arrêté.
 
 Les médecins spécialistes en stomatologie, en chirurgie maxillo-faciale ou les chirurgiens-dentistes peuvent exercer la profession d'épithésiste dès lors qu'ils répondent aux conditions du 1°, du 2° ou du 3° du présent article.

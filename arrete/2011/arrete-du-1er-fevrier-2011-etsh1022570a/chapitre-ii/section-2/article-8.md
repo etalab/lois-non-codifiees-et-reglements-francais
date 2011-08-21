@@ -20,7 +20,7 @@ e) Deux orthopédistes-orthésistes satisfaisant aux conditions prévues à l'ar
 
 4° Soit, lorsqu'elle statue sur une demande d'exercice de la profession d'oculariste ou d'épithésiste :
 
-a) Un médecin spécialiste en chirurgie plastique et reconstructrice ;
+a) Un médecin spécialiste en chirurgie plastique et reconstructrice ou spécialiste en chirurgie de la face et du cou ou spécialiste en chirurgie maxillo-faciale et stomatologie, compétent en appareillage ;
 
 b) Un médecin spécialiste en ophtalmologie, compétent en appareillage ;
 

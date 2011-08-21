@@ -8,6 +8,6 @@ Les locaux sont équipés d'un éclairage convenable et d'un point d'eau. Ils co
 
 Ils comportent, selon le cas, une table ou un fauteuil d'examen.
 
-Les locaux de l'orthoprothésiste et du podo-orthésiste doivent également comporter un négatoscope à définition numérique (3D) ; ceux du podo-orthésiste et de l'orthopédiste-orthésiste doivent comporter un podoscope ou un matériel de prise d'empreinte.
+Les locaux de l'orthoprothésiste et du podo-orthésiste doivent également comporter un négatoscope ; ceux du podo-orthésiste et de l'orthopédiste-orthésiste doivent comporter un podoscope ou un matériel de prise d'empreinte.
 
 Les locaux sont équipés du matériel nécessaire, conforme aux règles d'hygiène et de sécurité du travail, à l'adaptation et au suivi des appareils relevant de la compétence du professionnel et permettant de réaliser les retouches et adaptations possibles sur place.
