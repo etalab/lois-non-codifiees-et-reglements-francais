@@ -16,18 +16,18 @@ Quatre représentants des associations de défense de l'environnement ;
 
 Quatre représentants des organisations de consommateurs, membres du Conseil national de la consommation,
 
-nommés par arrêté conjoint des ministres chargés de l'environnement, de l'économie, de l'industrie, de l'agriculture et des collectivités locales ;
+nommés par le ministre chargé de l'environnement ;
 
 Cinq représentants de l'Etat ne participant pas à la formulation des avis émis par la commission, dont :
 
-- le directeur de la prévention des pollutions et des risques ou son représentant ;
+-le directeur de la prévention des pollutions et des risques ou son représentant ;
 
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+-le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le directeur général des collectivités locales ou son représentant ;
+-le directeur général des collectivités locales ou son représentant ;
 
-- le directeur des politiques économique et internationale ou son représentant ;
+-le directeur des politiques économique et internationale ou son représentant ;
 
-- le directeur général de l'industrie, des technologies de l'information et des postes ou son représentant.
+-le directeur général des entreprises ou son représentant.
 
-Le ou les censeur(s) représentant l'Etat auprès des organismes agréés dans le cadre du décret du 1er avril 1992 susvisé assiste aux réunions de la commission consultative d'agrément.
+Le ou les censeur (s) représentant l'Etat auprès des organismes agréés dans le cadre du décret du 1er avril 1992 susvisé assiste aux réunions de la commission consultative d'agrément.
