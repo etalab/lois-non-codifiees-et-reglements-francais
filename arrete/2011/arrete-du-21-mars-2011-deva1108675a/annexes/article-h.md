@@ -26,7 +26,7 @@ OPS 3.520 Décollage
 
 (A) Avec un hélicoptère qui possède une configuration maximale en sièges passagers supérieure à 19 ; et
 
-(B) Avec un hélicoptère exploité depuis ou vers une héli-plateforme située en environnement hostile non habité comme défini au paragraphe OPS 3.003 (11) (ii) (A),
+(B) à partir du 1er janvier 2015 avec un hélicoptère exploité depuis ou vers une héli-plate-forme située en environnement hostile non habité comme défini au paragraphe OPS 3.003 (11) (ii) (A),
 
 la masse au décollage prend en compte : la procédure, l'évitement du bord de la platefome, et le creusement de la trajectoire approprié en fonction de la hauteur de la platefome - avec le groupe motopropulseur critique inopérant et avec les autres groupes motopropulseurs fonctionnant à une puissance appropriée.
 
