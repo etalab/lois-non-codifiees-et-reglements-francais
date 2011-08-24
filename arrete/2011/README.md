@@ -1373,7 +1373,6 @@
 - [Arrêté du 23 juin 2011 (ETSP1113955A)](arrete-du-23-juin-2011-etsp1113955a)
 - [Arrêté du 23 juin 2011 (ETSS1116725A)](arrete-du-23-juin-2011-etss1116725a)
 - [Arrêté du 23 juin 2011 (ETSS1117375A)](arrete-du-23-juin-2011-etss1117375a)
-- [Arrêté du 23 juin 2011 (INDR1117159A)](arrete-du-23-juin-2011-indr1117159a)
 - [Arrêté du 23 juin 2011 (MAEF1117121A)](arrete-du-23-juin-2011-maef1117121a)
 - [Arrêté du 23 juin 2011 (PRMX1117017A)](arrete-du-23-juin-2011-prmx1117017a)
 - [Arrêté du 23 mars 2011 (AGRG1108375A)](arrete-du-23-mars-2011-agrg1108375a)
