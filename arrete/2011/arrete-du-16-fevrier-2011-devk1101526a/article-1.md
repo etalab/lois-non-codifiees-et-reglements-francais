@@ -18,8 +18,16 @@ A compter du 1er mai 2011 pour ceux en fonctions :
 
 A compter du 1er juillet 2011 pour ceux en fonctions :
 
-― à l'Ecole nationale des ponts et chaussées.
+― à l'Ecole nationale des ponts et chaussées ;
+
+― à l'Ecole nationale des travaux publics de l'Etat.
 
 A compter du 1er septembre 2011 pour ceux en fonctions :
 
-― dans un service de la direction générale de l'aviation civile.
+― dans un service de la direction générale de l'aviation civile ;
+
+― dans un établissement d'enseignement supérieur agricole ou vétérinaire public relevant du ministre chargé de l'agriculture.
+
+A compter du 1er janvier 2012, pour ceux en fonctions :
+
+― à l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
