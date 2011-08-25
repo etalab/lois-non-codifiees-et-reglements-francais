@@ -711,7 +711,6 @@
 - [Arrêté du 21 novembre 1996 (INDB9600819A)](arrete-du-21-novembre-1996-indb9600819a)
 - [Arrêté du 21 novembre 1996 (INDB9600820A)](arrete-du-21-novembre-1996-indb9600820a)
 - [Arrêté du 21 novembre 1996 (INDB9600821A)](arrete-du-21-novembre-1996-indb9600821a)
-- [Arrêté du 21 novembre 1996 (MJSK9670110A)](arrete-du-21-novembre-1996-mjsk9670110a)
 - [Arrêté du 21 octobre 1996 (ECOT9610284A)](arrete-du-21-octobre-1996-ecot9610284a)
 - [Arrêté du 21 octobre 1996 (ECOT9651551A)](arrete-du-21-octobre-1996-ecot9651551a)
 - [Arrêté du 21 octobre 1996 (EQUP9600741A)](arrete-du-21-octobre-1996-equp9600741a)
