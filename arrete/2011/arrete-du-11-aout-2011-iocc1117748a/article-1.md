@@ -1,0 +1,3 @@
+# Article 1
+
+Les réorganisations des services de la direction de l'administration de la police nationale, de la direction de la formation de la police nationale, de la sous-direction de la police technique et scientifique de la direction centrale de la police judiciaire et du service de coopération technique internationale de police, mentionnées en annexe du présent arrêté, constituent des opérations de restructuration qui ouvrent droit, jusqu'au 31 décembre 2011, au bénéfice de la prime de restructuration de service et à l'allocation d'aide à la mobilité du conjoint instituées par le décret du 17 avril 2008 susvisé.

@@ -1,0 +1,3 @@
+# Article 7
+
+Le candidat titulaire du brevet d'Etat d'éducateur sportif du premier degré, option "patinage sur glace", spécialité "patinage de vitesse", ou le candidat titulaire du brevet d'assistant fédéral deuxième degré de patinage de vitesse délivré par la Fédération française des sports de glace obtient sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale l'unité capitalisable trois (UC3) "être capable de conduire une démarche de perfectionnement sportif en patinage de vitesse" et l'unité capitalisable quatre (UC4) "être capable d'encadrer le patinage de vitesse en sécurité" du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "perfectionnement sportif", mention "patinage de vitesse".

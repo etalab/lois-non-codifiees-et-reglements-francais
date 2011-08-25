@@ -1,0 +1,3 @@
+# Article 7
+
+Dans les cinq ans suivant la date de publication du présent arrêté, le titulaire du brevet d'Etat d'éducateur sportif du premier degré option « parachutisme » obtient, sur demande auprès du directeur régional de la jeunesse, des sports et de cohésion sociale, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « parachutisme », s'il justifie d'une expérience de responsable technique au sein d'une école de parachutisme pendant deux années au minimum. Cette expérience est attestée par le directeur technique national du parachutisme.

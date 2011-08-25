@@ -1,0 +1,3 @@
+# Article 8
+
+Dans les cinq ans suivant la date de publication du présent arrêté, le titulaire du brevet d'Etat d'éducateur sportif du premier degré option « bobsleigh » obtient sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « descente sur glace », s'il a exercé la fonction de coordonnateur ou d'entraîneur dans l'une des trois disciplines mentionnées à l'article 2 pendant deux cents heures au cours de deux saisons sportives durant les cinq années précédant la demande. L'expérience est attestée par le directeur technique national des sports de glace.

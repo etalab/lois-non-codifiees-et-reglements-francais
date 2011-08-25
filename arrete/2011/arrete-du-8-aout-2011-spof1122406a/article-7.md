@@ -1,0 +1,3 @@
+# Article 7
+
+Le candidat titulaire du brevet d'Etat d'éducateur sportif du premier degré, option « patinage sur glace », spécialité « patinage artistique » ou « danse sur glace » ou le candidat titulaire du brevet d'assistant fédéral deuxième degré dans l'une des quatre disciplines mentionnées à l'article 2 délivré par la Fédération française des sports de glace obtient de droit l'unité capitalisable trois (UC3) « être capable de conduire une démarche de perfectionnement sportif en patinage » et l'unité capitalisable quatre (UC4) « être capable d'encadrer le patinage en sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité « perfectionnement sportif », mention « patinage ».

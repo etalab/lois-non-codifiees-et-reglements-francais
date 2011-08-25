@@ -76,6 +76,8 @@
 - [Décret n°2010-166 du 22 février 2010 (ECEI0927343D)](decret-n2010-166-du-22-fevrier-2010-ecei0927343d)
 - [Décret n°2011-868 du 22 juillet 2011 (IOCD1108795D)](decret-n2011-868-du-22-juillet-2011-iocd1108795d)
 - [Décret n°2011-869 du 22 juillet 2011 (IOCD1109587D)](decret-n2011-869-du-22-juillet-2011-iocd1109587d)
+- [Décret n°2011-980 du 23 août 2011 (JUSK1108043D)](decret-n2011-980-du-23-aout-2011-jusk1108043d)
+- [Décret n°2011-983 du 23 août 2011 (ETSO1117897D)](decret-n2011-983-du-23-aout-2011-etso1117897d)
 - [Décret n°2010-1451 du 25 novembre 2010 (BCRX1029603D)](decret-n2010-1451-du-25-novembre-2010-bcrx1029603d)
 - [Décret n°2011-873 du 25 juillet 2011 (DEVL1105488D)](decret-n2011-873-du-25-juillet-2011-devl1105488d)
 - [Décret n°2011-874 du 25 juillet 2011 (DEVL1113756D)](decret-n2011-874-du-25-juillet-2011-devl1113756d)
