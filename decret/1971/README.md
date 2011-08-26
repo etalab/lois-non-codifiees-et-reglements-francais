@@ -37,7 +37,6 @@
 - [Décret n°71-792 du 20 septembre 1971](decret-n71-792-du-20-septembre-1971)
 - [Décret n°74-543 du 20 mai 1974](decret-n74-543-du-20-mai-1974)
 - [Décret n°71-867 du 21 octobre 1971](decret-n71-867-du-21-octobre-1971)
-- [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)
 - [Décret n°72-73 du 21 janvier 1972](decret-n72-73-du-21-janvier-1972)
 - [Décret n°71-615 du 23 juillet 1971](decret-n71-615-du-23-juillet-1971)
 - [Décret n°71-1058 du 24 décembre 1971](decret-n71-1058-du-24-decembre-1971)
