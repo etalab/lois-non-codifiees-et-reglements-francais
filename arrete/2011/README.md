@@ -1001,6 +1001,7 @@
 - [Arrêté du 17 novembre 2006 (EQUP0601902A)](arrete-du-17-novembre-2006-equp0601902a)
 - [Arrêté du 17 novembre 2006 (EQUP0601908A)](arrete-du-17-novembre-2006-equp0601908a)
 - [Arrêté du 17 novembre 2006 (EQUP0601914A)](arrete-du-17-novembre-2006-equp0601914a)
+- [Arrêté du 17 octobre 2008 (JUSA0821323A)](arrete-du-17-octobre-2008-jusa0821323a)
 - [Arrêté du 17 septembre 2009 (ECEI0918365A)](arrete-du-17-septembre-2009-ecei0918365a)
 - [Arrêté du 17 mai 2011 (AGRM1107007A)](arrete-du-17-mai-2011-agrm1107007a)
 - [Arrêté du 17 mai 2011 (DEVT1112115A)](arrete-du-17-mai-2011-devt1112115a)
