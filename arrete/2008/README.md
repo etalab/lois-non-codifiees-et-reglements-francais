@@ -646,7 +646,6 @@
 - [Arrêté du 17 octobre 2008 (DEVN0815239A)](arrete-du-17-octobre-2008-devn0815239a)
 - [Arrêté du 17 octobre 2008 (DEVN0815240A)](arrete-du-17-octobre-2008-devn0815240a)
 - [Arrêté du 17 octobre 2008 (ECEP0825803A)](arrete-du-17-octobre-2008-ecep0825803a)
-- [Arrêté du 17 octobre 2008 (JUSA0821323A)](arrete-du-17-octobre-2008-jusa0821323a)
 - [Arrêté du 17 octobre 2008 (MTSW0825557A)](arrete-du-17-octobre-2008-mtsw0825557a)
 - [Arrêté du 17 septembre 2008 (ECEP0816278A)](arrete-du-17-septembre-2008-ecep0816278a)
 - [Arrêté du 18 août 2008 (DEVK0819392A)](arrete-du-18-aout-2008-devk0819392a)
