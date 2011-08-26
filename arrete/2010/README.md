@@ -1985,7 +1985,6 @@
 - [Arrêté du 21 juillet 2010 (AGRG1019588A)](arrete-du-21-juillet-2010-agrg1019588a)
 - [Arrêté du 21 juillet 2010 (ECES1019615A)](arrete-du-21-juillet-2010-eces1019615a)
 - [Arrêté du 21 juillet 2010 (MCCB1018284A)](arrete-du-21-juillet-2010-mccb1018284a)
-- [Arrêté du 21 juillet 2010 (MCCE1019224A)](arrete-du-21-juillet-2010-mcce1019224a)
 - [Arrêté du 21 juillet 2010 (MENE1019556A)](arrete-du-21-juillet-2010-mene1019556a)
 - [Arrêté du 21 juillet 2010 (MENE1019619A)](arrete-du-21-juillet-2010-mene1019619a)
 - [Arrêté du 21 juillet 2010 (MENE1019634A)](arrete-du-21-juillet-2010-mene1019634a)
