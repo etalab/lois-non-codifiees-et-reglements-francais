@@ -677,7 +677,6 @@
 - [Arrêté du 18 décembre 2008 (SJSF0830772A)](arrete-du-18-decembre-2008-sjsf0830772a)
 - [Arrêté du 18 décembre 2008 (SJSP0830456A)](arrete-du-18-decembre-2008-sjsp0830456a)
 - [Arrêté du 18 décembre 2008 (SJSS0817851A)](arrete-du-18-decembre-2008-sjss0817851a)
-- [Arrêté du 18 février 2008 (DEVT0803630A)](arrete-du-18-fevrier-2008-devt0803630a)
 - [Arrêté du 18 février 2008 (IOCA0773698A)](arrete-du-18-fevrier-2008-ioca0773698a)
 - [Arrêté du 18 janvier 2008 (AGRG0801623A)](arrete-du-18-janvier-2008-agrg0801623a)
 - [Arrêté du 18 janvier 2008 (ECEZ0803539A)](arrete-du-18-janvier-2008-ecez0803539a)
