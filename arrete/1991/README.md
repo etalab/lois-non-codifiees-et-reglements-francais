@@ -709,8 +709,6 @@
 - [Arrêté du 27 février 1991 (SPSS9100459A)](arrete-du-27-fevrier-1991-spss9100459a)
 - [Arrêté du 27 février 1991 (TEFE9103220A)](arrete-du-27-fevrier-1991-tefe9103220a)
 - [Arrêté du 27 février 1991 (TEFO9103223A)](arrete-du-27-fevrier-1991-tefo9103223a)
-- [Arrêté du 27 mars 1991 (MENT9001669A)](arrete-du-27-mars-1991-ment9001669a)
-- [Arrêté du 27 mars 1991 (MENT9001670A)](arrete-du-27-mars-1991-ment9001670a)
 - [Arrêté du 27 mars 1991 (MENT9100630A)](arrete-du-27-mars-1991-ment9100630a)
 - [Arrêté du 27 mars 1991 (MENT9100631A)](arrete-du-27-mars-1991-ment9100631a)
 - [Arrêté du 27 mars 1991 (MERR9100061A)](arrete-du-27-mars-1991-merr9100061a)
