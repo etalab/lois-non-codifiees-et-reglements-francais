@@ -2,9 +2,7 @@
 
 Un jury est institué pour chacun des concours par arrêté du ministre chargé de l'éducation nationale.
 
-Chaque jury comprend un président et deux vice-présidents nommés par le ministre chargé de l'éducation nationale, sur proposition du directeur chargé des personnels d'encadrement.
-
-Le président et les vice-présidents sont choisis parmi les inspecteurs généraux du ministère de l'éducation nationale.
+Les présidents de jury sont nommés par le ministre chargé de l'éducation nationale et peuvent être assistés d'un ou plusieurs vice-présidents.
 
 Les membres du jury sont choisis parmi :
 

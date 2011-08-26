@@ -8,80 +8,108 @@ Inspecteurs de l'enseignement primaire
 
 Définition du métier
 
-Mettre en œuvre les politiques éducatives et pédagogiques de l'enseignement primaire au sein d'une circonscription
+Mettre en œuvre les politiques éducatives de l'enseignement primaire, exercer des missions de pilotage pédagogique, de management et de conseil.
 
 Activités principales
 
-Pilotage administratif et pédagogique d'une circonscription, sous l'autorité de l'inspecteur d'académie
+Pilotage de l'action éducative à l'échelle de la circonscription ou du département.
 
-Evaluation des enseignants et du fonctionnement des écoles
+Evaluation des enseignements, des écoles et des enseignants.
 
-Formation des enseignants et animation pédagogique d'une circonscription
+Suivi des évaluations nationales et analyse des résultats.
 
-Participation aux jurys de concours de recrutement des professeurs des écoles et conception des sujets
+Gestion de la carte scolaire.
 
-Contribution à la préparation de la rentrée scolaire dans le premier degré
+Mesure de l'efficacité de l'enseignement dispensé en fonction des résultats et des acquis des élèves.
 
-Relations avec les communes, les groupements de communes et les partenaires de l'école
+Conseil aux enseignants, impulsion et développement des bonnes pratiques.
 
-Missions d'expertise dans le cadre du pilotage académique et départemental
+Détection des talents et promotion de ces derniers en lien avec les services de ressources humaines.
+
+Conseil donné à l'inspecteur d'académie-directeur des services départementaux de l'éducation nationale (IA-DSDEN) et participation aux instances départementales.
+
+Contribution aux principaux actes de gestion des personnels (recrutement, titularisation, évaluation, avancement, promotion et affectation).
 
 Savoir-faire
 
-Mobiliser les personnels et les écoles autour des apprentissages attendus à l'école primaire
+Conduire des entretiens.
 
-Accompagner les enseignants dans l'acquisition des concepts et méthodes clefs sous-jacents aux programmes du primaire
+Evaluer les compétences et détecter des potentiels.
 
-Conduire une inspection individuelle et conseiller les personnels
+Travailler en équipe.
 
-Animer l'équipe de circonscription
+Evaluer et hiérarchiser des besoins.
 
-Négocier avec des interlocuteurs variés
+Prévenir et gérer les conflits ou situations sensibles.
+
+Jouer un rôle de conseil et d'aide à la décision.
 
 Connaissances
 
-Organisation et réglementation de l'enseignement primaire
+Système éducatif et ses enjeux.
 
-Programmes nationaux et orientations pédagogiques nationales et académiques
+Techniques de management.
 
-Diagnostics et analyses d'organisations
+Techniques de conduite du changement.
 
-Organisation générale de l'état, de l'administration et des collectivités
+Méthodologie de conduite de projet.
+
+Notions sur la scolarisation et la prise en charge des élèves handicapés.
+
+Technologies de l'information et de la communication/ culture internet.
 
 Inspecteurs de l'enseignement secondaire
 
 Définition du métier
 
-Exercer des missions d'évaluation, d'animation et de formation dans le cadre d'une discipline ou d'une spécialité.
+Mettre en œuvre la politique éducative, exercer des missions de pilotage pédagogique, de management et de conseil.
 
 Activités principales
 
-Evaluation des enseignants du second degré et du fonctionnement des établissements d'enseignements secondaires
+Pilotage de l'action éducative dans l'académie.
 
-Conception des sujets d'examen et participation aux jurys d'examens et de concours de recrutement des enseignants
+Evaluation des pratiques des enseignants et des équipes disciplinaires ou pédagogiques, des enseignements et des établissements (suivi des évaluations nationales, analyse des résultats aux examens, etc.).
 
-Participation à la formation initiale et continue des enseignants
+Vérification de la qualité et mesure de l'efficacité de l'enseignement dispensé (respect des programmes, applications des réformes, résultats et acquis des élèves).
 
-Contribution au pilotage pédagogique dans une académie
+Contribution aux principaux actes de gestion des personnels (recrutement, titularisation, évaluation, avancement, promotion et affectation).
 
-Missions d'expertise et d'aide à la décision dans leur domaine de compétence
+Conseil aux enseignants, impulsion et développement des bonnes pratiques.
+
+Détection des talents et promotion de ces derniers en lien avec les services de ressources humaines.
+
+Conception d'actions de formation continue.
+
+Conception des sujets et organisation des examens et concours en lien avec les services compétents.
+
+Animation de groupes d'experts lors de l'écriture de programmes ou des référentiels de formation.
 
 Savoir-faire
 
-Conduire une inspection individuelle et conseiller les personnels du second degré
+Conduire des entretiens.
 
-Concevoir des formations et les mettre en œuvre
+Jouer un rôle de conseil et d'aide à la décision.
 
-Animer des groupes de travail
+Evaluer les compétences et détecter des potentiels.
 
-Travailler avec les personnels de direction et les autres inspecteurs dans le cadre d'un pilotage pédagogique partagé
+Initier et conduire des partenariats.
+
+Réaliser des synthèses.
+
+Travailler en équipe.
 
 Connaissances
 
-Expertise dans le cadre d'une discipline ou spécialité
+Système éducatif et ses enjeux.
 
-Programmes et référentiels nationaux, orientations pédagogiques nationales et académiques
+Domaine disciplinaire.
 
-Organisation des examens et concours
+Techniques de conduite du changement.
 
-Organisation générale de l'état, de l'administration et des collectivités
+Techniques de management.
+
+Méthodologie de conduite de projet.
+
+Technologies de l'information et de la communication/ culture internet.
+
+Environnement professionnel.
