@@ -76,6 +76,7 @@ L'accompagnement général des convois bénéficiant d'autorisation de portée l
 
 Dans le cas d'un train de convois, l'accompagnement prescrit correspond à celui nécessité par le convoi le plus contraignant.
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -330,19 +331,26 @@ Dans le cas d'un train de convois, l'accompagnement prescrit correspond à celui
 <p align="center">l &gt; 5 et/ ou L &gt; 40 </p>
 </td>
 <td/>
-<td/>
+<td>
+<ul>
+<li>
+<br/>
+</li>
+</ul>
+</td>
 <td colspan="3">
 <p align="center">Véhicule pilote + <br/>Véhicule de protection arrière + Guidage </p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
-Le préfet pourra imposer toute mesure d'accompagnement plus contraignante que les obligations minimales d'accompagnement des convois exceptionnels définies ci-dessus, ou toute mesure complémentaire, pouvant aller, lorsque des circonstances exceptionnelles le justifient, jusqu'à la présence des forces de l'ordre.
+Le préfet pourra imposer toute mesure d'accompagnement plus contraignante que les obligations minimales d'accompagnement des convois exceptionnels définies ci-dessus, ou toute mesure complémentaire, pouvant aller, lorsque des circonstances exceptionnelles le justifient, jusqu'à la présence d'une escorte constituée des forces de l'ordre.
 
 Lorsque le convoi est accompagné d'une escorte constituée des forces de l'ordre, le chef du convoi doit se conformer aux indications du chef de l'escorte.
 
-Lorsque la présence des forces de l'ordre est prescrite, le pétitionnaire doit adresser au commandant de groupement de gendarmerie du lieu de départ du convoi (départ en zone de gendarmerie) ou à la direction centrale des compagnies républicaines de sécurité ou à la direction centrale de la sécurité publique (départ en zone police) la copie de sa demande au moins quinze jours avant la date prévue pour le transport, puis la copie de son autorisation individuelle au moins trois jours ouvrés avant la date prévue pour le transport. Tout report non justifié du transport implique un nouvel envoi de ces documents dans les délais décrits ci-dessus. En cas de report dûment justifié du transport, le pétitionnaire doit reformuler par écrit sa demande auprès des services d'ordre désignés ci-dessus au moins trois jours ouvrés avant la nouvelle date prévue pour le transport.
+Lorsque la présence d'une escorte constituée des forces de l'ordre est prescrite, le pétitionnaire doit adresser au commandant de groupement de gendarmerie du lieu de départ du convoi (départ en zone de gendarmerie) ou à la direction centrale des compagnies républicaines de sécurité ou à la direction centrale de la sécurité publique (départ en zone police) la copie de sa demande au moins quinze jours avant la date prévue pour le transport, puis la copie de son autorisation individuelle au moins trois jours ouvrés avant la date prévue pour le transport. Tout report non justifié du transport implique un nouvel envoi de ces documents dans les délais décrits ci-dessus. En cas de report dûment justifié du transport, le pétitionnaire doit reformuler par écrit sa demande auprès des services d'ordre désignés ci-dessus au moins trois jours ouvrés avant la nouvelle date prévue pour le transport.
 
 Règles d'accompagnement local des convois :
 
