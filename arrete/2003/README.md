@@ -80,7 +80,6 @@
 - [Arrêté du 3 juin 2003 (EQUP0300791A)](arrete-du-3-juin-2003-equp0300791a)
 - [Arrêté du 3 mars 2003 (ECOP0200525A)](arrete-du-3-mars-2003-ecop0200525a)
 - [Arrêté du 3 mars 2003 (ECOP0201145A)](arrete-du-3-mars-2003-ecop0201145a)
-- [Arrêté du 3 mars 2003 (EQUP0300080A)](arrete-du-3-mars-2003-equp0300080a)
 - [Arrêté du 3 mars 2003 (SANA0320806A)](arrete-du-3-mars-2003-sana0320806a)
 - [Arrêté du 3 mars 2003 (SANP0320928A)](arrete-du-3-mars-2003-sanp0320928a)
 - [Arrêté du 3 mars 2003 (SANS0320801A)](arrete-du-3-mars-2003-sans0320801a)
