@@ -10,6 +10,8 @@ Elle exerce la tutelle des établissements publics relevant du ministre chargé 
 
 Conjointement avec la direction générale pour la recherche et l'innovation, elle élabore les politiques documentaire et d'information scientifique et technique, ainsi que la politique de l'emploi scientifique, et assure la cohérence du système d'information de l'enseignement supérieur et de la recherche.
 
+Conjointement avec la direction générale pour la recherche et l'innovation et en liaison avec la direction générale des ressources humaines, elle définit la stratégie en matière de politique de gestion des ressources humaines et de gestion prévisionnelle des emplois et des compétences des établissements de formation et de recherche.
+
 Conjointement avec la direction générale pour la recherche et l'innovation, elle assure la cohérence nationale et territoriale des stratégies et des politiques d'enseignement supérieur et de recherche.
 
 Elle définit la politique du patrimoine immobilier de l'enseignement supérieur et assure le suivi des contrats de projet Etat-régions pour ce qui concerne les établissements d'enseignement supérieur.

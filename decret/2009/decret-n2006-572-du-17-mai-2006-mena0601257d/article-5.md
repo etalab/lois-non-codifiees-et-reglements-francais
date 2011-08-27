@@ -30,6 +30,8 @@ Elle assure le suivi des contrats de projet Etat-régions pour ce qui concerne l
 
 Conjointement avec la direction générale pour l'enseignement supérieur et l'insertion professionnelle, elle élabore les politiques documentaire et d'information scientifique et technique, la politique de l'emploi scientifique et assure la cohérence du système d'information de l'enseignement supérieur et de la recherche.
 
+Conjointement avec la direction générale pour l'enseignement supérieur et l'insertion professionnelle et en liaison avec la direction générale des ressources humaines, elle définit la stratégie en matière de politique de gestion des ressources humaines et de gestion prévisionnelle des emplois et des compétences des établissements de formation et de recherche.
+
 Conjointement avec la direction générale pour l'enseignement supérieur et l'insertion professionnelle, elle assure la cohérence nationale et territoriale des stratégies et politiques d'enseignement supérieur et de recherche.
 
 Elle assure le secrétariat du Haut Conseil de la science et de la technologie et celui du Conseil supérieur de la recherche et de la technologie.
