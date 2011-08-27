@@ -591,7 +591,6 @@
 - [Arrêté du 16 janvier 1995 (ECOS9550002A)](arrete-du-16-janvier-1995-ecos9550002a)
 - [Arrêté du 16 janvier 1995 (MENA9402128A)](arrete-du-16-janvier-1995-mena9402128a)
 - [Arrêté du 16 janvier 1995 (SPSI9500123A)](arrete-du-16-janvier-1995-spsi9500123a)
-- [Arrêté du 16 juin 1995 (AGRE9501127A)](arrete-du-16-juin-1995-agre9501127a)
 - [Arrêté du 16 juin 1995 (SANI9502477A)](arrete-du-16-juin-1995-sani9502477a)
 - [Arrêté du 16 juin 1995 (SANP9501911A)](arrete-du-16-juin-1995-sanp9501911a)
 - [Arrêté du 16 mars 1995 (AGRG9500555A)](arrete-du-16-mars-1995-agrg9500555a)
