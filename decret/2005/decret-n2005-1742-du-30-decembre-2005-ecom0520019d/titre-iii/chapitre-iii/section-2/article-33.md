@@ -2,7 +2,7 @@
 
 Les pouvoirs adjudicateurs peuvent passer des marchés négociés dans les cas définis ci-dessous.
 
-I. - Peuvent être négociés après publicité préalable et mise en concurrence :
+I.-Peuvent être négociés après publicité préalable et mise en concurrence :
 
 1° Les marchés pour lesquels, après appel d'offres ou dialogue compétitif, il n'a été proposé que des offres non conformes au sens du I de l'article 24. Les conditions initiales du marché ne doivent pas être substantiellement modifiées.
 
@@ -14,7 +14,7 @@ Le pouvoir adjudicateur est dispensé de procéder à une nouvelle mesure de pub
 
 4° Dans des cas exceptionnels, lorsqu'il s'agit de travaux, de fournitures ou de services dont la nature ou les aléas qui peuvent affecter leur réalisation ne permettent pas une fixation préalable et globale des prix.
 
-II. - Peuvent être négociés sans publicité préalable et sans mise en concurrence :
+II.-Peuvent être négociés sans publicité préalable et sans mise en concurrence :
 
 1° Dans la mesure strictement nécessaire, quand une urgence impérieuse résultant de circonstances imprévisibles pour le pouvoir adjudicateur et n'étant pas de son fait, n'est pas compatible avec les délais exigés par les procédures d'appel d'offres ou de marchés négociés avec publicité et mise en concurrence préalable, et notamment les marchés conclus pour faire face à des situations d'urgence impérieuse relevant d'une catastrophe technologique ou naturelle ;
 
@@ -22,7 +22,7 @@ II. - Peuvent être négociés sans publicité préalable et sans mise en concur
 
 3° Les marchés passés selon la procédure de l'appel d'offres, pour lesquels il n'a été déposé aucune offre appropriée au sens du I de l'article 24, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées et qu'un rapport soit communiqué, à sa demande, à la Commission européenne ;
 
-4° Les marchés complémentaires de fournitures qui sont exécutés par le fournisseur initial et qui sont destinés soit au renouvellement partiel de fournitures ou d'installations d'usage courant, soit à l'extension d'installations existantes, lorsque le changement de fournisseur obligerait le pouvoir adjudicateur à acquérir un matériel de technique différente entraînant une incompatibilité avec le matériel déjà acquis ou des difficultés techniques d'utilisation et d'entretien disproportionnées. La durée de ces marchés complémentaires, périodes de reconduction comprises, ne peut dépasser trois ans. Le montant total du marché, livraisons complémentaires comprises, ne peut être égal ou supérieur au seuil fixé au I de l'article 7, sauf si le marché a été passé initialement par appel d'offres et a fait l'objet d'un avis d'appel à concurrence publié au Journal officiel de l'Union européenne ;
+4° Les marchés complémentaires de fournitures qui sont exécutés par le fournisseur initial et qui sont destinés soit au renouvellement partiel de fournitures ou d'installations d'usage courant, soit à l'extension d'installations existantes, lorsque le changement de fournisseur obligerait le pouvoir adjudicateur à acquérir un matériel de technique différente entraînant une incompatibilité avec le matériel déjà acquis ou des difficultés techniques d'utilisation et d'entretien disproportionnées. La durée de ces marchés complémentaires, périodes de reconduction comprises, ne peut dépasser trois ans. Le montant total du marché, livraisons complémentaires comprises, ne peut être égal ou supérieur au seuil       de procédure formalisée, sauf si le marché a été passé initialement par appel d'offres et a fait l'objet d'un avis d'appel à concurrence publié au Journal officiel de l'Union européenne ;
 
 5° Les marchés complémentaires de services ou de travaux qui consistent en des prestations qui ne figurent pas dans le marché initialement conclu mais qui sont devenues nécessaires, à la suite d'une circonstance imprévue, à l'exécution du service ou à la réalisation de l'ouvrage tel qu'il est décrit dans le marché initial, à condition que l'attribution soit faite à l'opérateur économique qui a exécuté ce service ou réalisé cet ouvrage :
 

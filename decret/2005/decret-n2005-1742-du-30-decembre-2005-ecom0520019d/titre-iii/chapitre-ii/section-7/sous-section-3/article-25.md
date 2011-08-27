@@ -1,16 +1,16 @@
 # Article 25
 
-I. - Une enchère électronique est une procédure de sélection des offres, réalisée par voie électronique, et permettant aux candidats de réviser leurs prix à la baisse et de modifier la valeur de certains autres éléments quantifiables de leur offre.
+I.-Une enchère électronique est une procédure de sélection des offres, réalisée par voie électronique, et permettant aux candidats de réviser leurs prix à la baisse et de modifier la valeur de certains autres éléments quantifiables de leur offre.
 
-II. - Le pouvoir adjudicateur ne peut recourir à l'enchère électronique que pour les marchés de fournitures d'un montant supérieur au seuil fixé au I de l'article 7.
+II.-Le pouvoir adjudicateur ne peut recourir à l'enchère électronique que pour les marchés de fournitures d'un montant supérieur au seuil       de procédure formalisée.
 
 Le pouvoir adjudicateur ne peut recourir aux enchères électroniques de façon abusive ou de manière à empêcher, restreindre ou fausser la concurrence ou de manière à modifier l'objet du marché.
 
-III. - L'enchère électronique porte sur le prix, sur d'autres critères quantifiables ou à la fois sur le prix et d'autres critères quantifiables.
+III.-L'enchère électronique porte sur le prix, sur d'autres critères quantifiables ou à la fois sur le prix et d'autres critères quantifiables.
 
-Elle intervient après une première évaluation complète des offres, mettant en œuvre le cas échéant les critères non quantifiables au sens de l'article précédent, et permettant d'effectuer leur classement final sur la base d'un traitement automatisé.
+Elle intervient après une première évaluation complète des offres, mettant en œuvre le cas échéant les critères non quantifiables, et permettant d'effectuer leur classement final sur la base d'un traitement automatisé.
 
-IV. - Le pouvoir adjudicateur qui décide de recourir à une enchère électronique en fait mention dans l'avis d'appel à concurrence.
+IV.-Le pouvoir adjudicateur qui décide de recourir à une enchère électronique en fait mention dans l'avis d'appel à concurrence.
 
 Les documents de la consultation comportent, au moins, les informations suivantes :
 
@@ -26,7 +26,7 @@ Les documents de la consultation comportent, au moins, les informations suivante
 
 6° La durée de l'enchère ;
 
-V. - L'enchère électronique commence après que les offres ont été évaluées au regard des critères ne faisant pas l'objet de l'enchère.
+V.-L'enchère électronique commence après que les offres ont été évaluées au regard des critères ne faisant pas l'objet de l'enchère.
 
 Tous les candidats ayant présenté des offres conformes au sens du I de l'article 24 sont invités simultanément par voie électronique à participer à l'enchère en présentant de nouveaux prix ou de nouvelles valeurs.
 
@@ -36,11 +36,11 @@ L'invitation mentionne également la formule mathématique qui déterminera lors
 
 Dans le cas où des variantes sont autorisées, des formules doivent être fournies séparément pour chaque variante.
 
-VI. - L'enchère électronique peut se dérouler en plusieurs phases dans des conditions précisées dans les documents de la consultation. Elle ne peut débuter moins de deux jours ouvrables après la date d'envoi des invitations.
+VI.-L'enchère électronique peut se dérouler en plusieurs phases dans des conditions précisées dans les documents de la consultation. Elle ne peut débuter moins de deux jours ouvrables après la date d'envoi des invitations.
 
-VII. - Les candidats sont informés instantanément de leur classement ou des montants correspondant à la meilleure offre. Ils peuvent également être informés du nombre de candidats à l'enchère et, si les documents de la consultation le prévoient, des prix et valeurs proposés par les autres candidats. Cependant, en aucun cas, l'identité des candidats ne peut être divulguée pendant le déroulement des phases de l'enchère électronique.
+VII.-Les candidats sont informés instantanément de leur classement ou des montants correspondant à la meilleure offre. Ils peuvent également être informés du nombre de candidats à l'enchère et, si les documents de la consultation le prévoient, des prix et valeurs proposés par les autres candidats. Cependant, en aucun cas, l'identité des candidats ne peut être divulguée pendant le déroulement des phases de l'enchère électronique.
 
-VIII. - Le pouvoir adjudicateur clôt l'enchère électronique selon l'une des modalités suivantes :
+VIII.-Le pouvoir adjudicateur clôt l'enchère électronique selon l'une des modalités suivantes :
 
 1° Aux date et heure fixées dans l'invitation à participer à l'enchère ;
 
@@ -48,4 +48,4 @@ VIII. - Le pouvoir adjudicateur clôt l'enchère électronique selon l'une des m
 
 3° Lorsque toutes les phases de l'enchère, prévues dans l'invitation à participer à l'enchère, ont eu lieu.
 
-IX. - Après la clôture de l'enchère électronique, le marché est attribué conformément au II de l'article 24, en fonction des résultats de l'enchère électronique et sous réserve que le candidat dont l'offre est retenue produise les certificats et attestations mentionnés aux I et II de l'article 18, dans les conditions fixées par le III du même article.
+IX.-Après la clôture de l'enchère électronique, le marché est attribué conformément au II de l'article 24, en fonction des résultats de l'enchère électronique et sous réserve que le candidat dont l'offre est retenue produise les certificats et attestations mentionnés aux I et II de l'article 18, dans les conditions fixées par le III du même article.

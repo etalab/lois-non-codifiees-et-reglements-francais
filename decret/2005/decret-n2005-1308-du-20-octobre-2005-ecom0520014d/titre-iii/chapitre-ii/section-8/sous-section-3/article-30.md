@@ -2,7 +2,7 @@
 
 I. - Une enchère électronique est une procédure de sélection des offres, réalisée par voie électronique et permettant aux candidats de réviser leurs prix à la baisse et de modifier la valeur de certains autres éléments quantifiables de leur offre.
 
-II. - L'entité adjudicatrice ne peut recourir à l'enchère électronique que pour les marchés de fournitures d'un montant supérieur au seuil fixé au I de l'article 7.
+II. - L'entité adjudicatrice ne peut recourir à l'enchère électronique que pour les marchés de fournitures d'un montant supérieur au seuil de procédure formalisée.
 
 L'entité adjudicatrice ne peut recourir aux enchères électroniques de façon abusive ou de manière à empêcher, restreindre ou fausser la concurrence ou de manière à modifier l'objet du marché.
 

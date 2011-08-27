@@ -1,6 +1,6 @@
 # Article 16
 
-I. - La mise en concurrence des marchés passés selon une des procédures formalisées mentionnées à l'article 7 donne lieu à la publication d'un avis d'appel à concurrence.
+I. - La mise en concurrence des marchés passés selon une des procédures formalisées donne lieu à la publication d'un avis d'appel à concurrence.
 
 Cet avis est conforme au modèle fixé par le règlement communautaire n° 1564/2005 susvisé.
 

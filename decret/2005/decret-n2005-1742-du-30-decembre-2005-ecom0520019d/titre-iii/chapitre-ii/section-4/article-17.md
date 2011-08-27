@@ -10,7 +10,7 @@ Pour les marchés qui le justifient, le pouvoir adjudicateur peut exiger des can
 
 Pour les marchés de travaux et de services dont l'exécution implique la mise en œuvre de mesures de gestion environnementale, ces certificats sont fondés sur le système communautaire de management environnemental et d'audit (EMAS) ou sur les normes européennes ou internationales de gestion environnementale.
 
-Dans les cas prévus aux trois alinéas précédents, le pouvoir adjudicateur accepte les certificats équivalents d'organismes établis dans les autres Etats membres de la Communauté européenne et d'autres preuves équivalentes.
+Dans les cas prévus aux trois alinéas précédents, le pouvoir adjudicateur accepte les certificats équivalents d'organismes établis dans les autres Etats membres de  l'Union européenne  et d'autres preuves équivalentes.
 
 Pour justifier de ses capacités professionnelles, techniques et financières, le candidat, même s'il s'agit d'un groupement, peut demander que soient également prises en compte les capacités professionnelles, techniques et financières d'autres opérateurs économiques quelle que soit la nature juridique des liens existant entre ces opérateurs et lui. Dans ce cas, il doit justifier des capacités de ce ou ces opérateurs économiques et du fait qu'il en disposera pour l'exécution du marché.
 

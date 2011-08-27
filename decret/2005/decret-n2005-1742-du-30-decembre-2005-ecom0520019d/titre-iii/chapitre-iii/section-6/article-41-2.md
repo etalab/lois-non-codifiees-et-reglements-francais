@@ -2,7 +2,7 @@
 
 I.-Les marchés de maîtrise d'œuvre ont pour objet, en vue de la réalisation d'un ouvrage ou d'un projet urbain ou paysager, l'exécution d'un ou plusieurs éléments de mission définis par l'article 7 de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée et par le décret n° 93-1268 du 29 novembre 1993 pris pour son application.
 
-II.-1° Pour les marchés de maîtrise d'œuvre d'un montant supérieur au seuil prévu au I de l'article 7, le pouvoir adjudicateur peut recourir, à l'exception du système d'acquisition dynamique, aux procédures énumérées dans ce même article dans les conditions fixées pour leur utilisation.
+II.-1° Pour les marchés de maîtrise d'œuvre d'un montant supérieur au seuil  de procédure formalisée, le pouvoir adjudicateur peut recourir, à l'exception du système d'acquisition dynamique, aux procédures énumérées dans ce même article dans les conditions fixées pour leur utilisation.
 
 2° Lorsque le pouvoir adjudicateur est soumis aux dispositions de la loi du 12 juillet 1985 susmentionnée et choisit la procédure du concours pour la passation d'un marché de maîtrise d'œuvre, il respecte la procédure du concours restreint définie à l'article 41 selon les modalités qui suivent.
 
