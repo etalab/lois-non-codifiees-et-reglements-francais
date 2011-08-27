@@ -48,6 +48,6 @@ Il comprend également les personnes bénéficiant de la formation continue et l
 
 3-PERSONNELS ADMINISTRATIFS, TECHNIQUES, OUVRIERS ET DE SERVICE.
 
-Ce collège comprend les personnels ingénieurs, administratifs, techniques, ouvriers et de service.
+Ce collège comprend les personnels ingénieurs, administratifs, techniques, ouvriers et de service, les personnels des bibliothèques autres que les personnels scientifiques des bibliothèques et les personnels des services sociaux et de santé.
 
 Il comprend également les membres des corps d'ingénieurs, des personnels techniques et d'administration de la recherche.
