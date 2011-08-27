@@ -4,7 +4,7 @@ Service de l'action administrative et de la modernisation :
 
 I. - Le service de l'action administrative et de la modernisation assure la gestion administrative et financière des moyens de l'administration centrale.
 
-Il réalise pour l'ensemble des personnels de l'administration centrale les prévisions relatives à la masse salariale dont il assure le pilotage et la gestion. Il a compétence en matière de gestion des emplois et des personnels, à l'exception de ceux gérés par la direction de l'encadrement.
+Il réalise pour l'ensemble des personnels de l'administration centrale les prévisions relatives à la masse salariale dont il assure le pilotage et la gestion. Il a compétence en matière de gestion des emplois et des personnels, à l'exception des personnels d'encadrement supérieur et d'inspection gérés par la direction générale des ressources humaines.
 
 Il définit et conduit, en relation avec la direction générale des ressources humaines et la direction des affaires financières, la politique des ressources humaines des personnels qu'il gère.
 

@@ -1,0 +1,3 @@
+# Article 4
+
+Le ministre de la défense et des anciens combattants, le ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de la jeunesse et de la vie associative, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, le ministre de la culture et de la communication, le ministre de l'enseignement supérieur et de la recherche et la secrétaire d'Etat auprès du ministre de l'éducation nationale, de la jeunesse et de la vie associative, chargée de la jeunesse et de la vie associative, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

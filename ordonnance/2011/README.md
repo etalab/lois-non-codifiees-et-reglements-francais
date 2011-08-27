@@ -21,6 +21,7 @@
 - [Ordonnance n° 2011-865 du 22 juillet 2011 (AGRX1117441R)](ordonnance-n-2011-865-du-22-juillet-2011-agrx1117441r)
 - [Ordonnance n° 2011-866 du 22 juillet 2011 (AGRM1029978R)](ordonnance-n-2011-866-du-22-juillet-2011-agrm1029978r)
 - [Ordonnance n° 2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n-2010-686-du-24-juin-2010-iocx1013964r)
+- [Ordonnance n° 2011-1012 du 24 août 2011 (INDX1116689R)](ordonnance-n-2011-1012-du-24-aout-2011-indx1116689r)
 - [Ordonnance n° 2011-204 du 24 février 2011 (DEVX1032941R)](ordonnance-n-2011-204-du-24-fevrier-2011-devx1032941r)
 - [Ordonnance n° 2011-322 du 24 mars 2011 (EFIM1105039R)](ordonnance-n-2011-322-du-24-mars-2011-efim1105039r)
 - [Ordonnance n°2010-686 du 24 juin 2010 (IOCX1013964R)](ordonnance-n2010-686-du-24-juin-2010-iocx1013964r)

@@ -1,0 +1,3 @@
+# Article 2
+
+L'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche est chargée de la conception, du pilotage et de la mise en œuvre de la formation des personnels d'encadrement pédagogiques et administratifs, des personnels ingénieurs, administratifs, techniques, sociaux et de santé et des personnels des bibliothèques du ministère chargé de l'éducation nationale et du ministère chargé de l'enseignement supérieur, à l'exception de ceux gérés par le service de l'action administrative et de la modernisation. Elle concourt à des actions de réflexions et d'échanges sur le système français d'enseignement et de formation.

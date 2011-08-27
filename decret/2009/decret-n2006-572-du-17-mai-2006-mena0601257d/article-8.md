@@ -2,11 +2,13 @@
 
 Direction générale des ressources humaines :
 
-La direction générale des ressources humaines, dont le responsable a rang de secrétaire général adjoint, est chargée de la gestion prévisionnelle des recrutements et des carrières des personnels des ministères, à l'exception des personnels d'administration centrale.
+La direction générale des ressources humaines, dont le responsable a rang de secrétaire général adjoint, est chargée de la gestion des recrutements et des carrières des personnels des ministères, à l'exception des personnels d'administration centrale.
 
-La direction générale des ressources humaines prépare, en liaison avec la direction générale de l'enseignement scolaire et la direction générale pour l'enseignement supérieur et l'insertion professionnelle, la politique de recrutement des ministères. Elle la met en oeuvre en veillant à la cohérence des actions conduites par les autorités académiques.
+La direction générale des ressources humaines prépare, en liaison avec la direction générale de l'enseignement scolaire, la direction générale pour l'enseignement supérieur et l'insertion professionnelle et la direction générale pour la recherche et l'innovation, la politique et la gestion prévisionnelle des recrutements des ministères. Elle les met en œuvre en veillant à la cohérence des actions conduites par les autorités académiques.
 
 En relation avec ces directions générales, elle définit les orientations relatives à la gestion de carrière de ces personnels et élabore les projets statutaires et indemnitaires. S'agissant des personnels relevant des organismes de recherche sous tutelle, elle coordonne l'élaboration des projets statutaires et indemnitaires.
+
+Elle définit et met en œuvre la politique de recrutement, de formation et de gestion des personnels d'encadrement supérieur des services centraux, des services déconcentrés et des établissements publics relevant des ministères ainsi que des personnels d'inspection.
 
 Elle contribue aux politiques contractuelles en apportant son expertise en matière de ressources humaines.
 
@@ -21,5 +23,3 @@ Elle veille au dialogue social et assure une fonction d'analyse sur les relation
 Elle répartit les contingents d'autorisations spéciales d'absence et de décharges de service entre les organisations syndicales compte tenu de leur représentativité.
 
 Elle assure le secrétariat des comités techniques paritaires ministériels.
-
-La direction générale des ressources humaines comprend une direction de l'encadrement.
