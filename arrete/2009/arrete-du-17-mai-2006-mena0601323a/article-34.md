@@ -1,13 +1,17 @@
 # Article 34
 
-La sous-direction du recrutement et de la gestion des carrières assure la gestion des enseignants-chercheurs de statut universitaire et de statut hospitalo-universitaire. Elle gère la procédure de qualification, organise les concours de l'agrégation et procède aux actes de gestion administrative pour ces personnels.
+La sous-direction du pilotage du recrutement et de la gestion des enseignants-chercheurs est chargée du pilotage et du conseil en gestion des enseignants-chercheurs et assure la gestion des actes relatifs aux enseignants-chercheurs lorsque ces actes ne sont pas déconcentrés.
 
-La sous-direction du recrutement et de la gestion des carrières est constituée :
+Elle organise les concours de l'agrégation de l'enseignement supérieur, les concours de recrutement des enseignants de médecine générale et coordonne les procédures de recrutement des enseignants-chercheurs.
 
-- du bureau des lettres et des sciences humaines ;
+Elle organise les concours de recrutement des personnels de statut hospitalo-universitaire et la gestion administrative de ces personnels en relation avec le ministère chargé de la santé.
 
-- du bureau du droit, de l'économie et de la gestion ;
+Elle prépare les travaux nécessaires à la qualification, la promotion et l'évaluation des enseignants-chercheurs et est chargée de la gestion administrative des instances qui y concourent. A ce titre, elle assure le secrétariat permanent prévu à l'article 13 du décret n° 92-70 du 16 janvier 1992 relatif au Conseil national des universités.
 
-- du bureau des sciences ;
+La sous-direction du pilotage du recrutement et de la gestion des enseignants-chercheurs est constituée :
 
-- du bureau des personnels de santé.
+― du département du pilotage et d'appui aux établissements ;
+
+― du département de conseil et d'appui aux instances nationales ;
+
+― du département des personnels enseignants-chercheurs des disciplines de santé.

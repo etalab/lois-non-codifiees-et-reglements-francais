@@ -14,8 +14,6 @@ La délégation à la communication comprend :
 
 ― le bureau de la création graphique et de la production multimédia ;
 
-― le bureau des campagnes, des événements et des partenariats ;
+― le bureau des campagnes, des événements et des partenariats.
 
-― le bureau des affaires financières et des marchés publics.
-
-Le délégué à la communication est assisté par un sous-directeur, adjoint au délégué.
+Le délégué à la communication est assisté par un sous-directeur, adjoint au délégué, compétent pour les questions transversales et par deux adjoints sectoriels, respectivement chargés de l'éducation nationale et de l'enseignement supérieur et de la recherche.

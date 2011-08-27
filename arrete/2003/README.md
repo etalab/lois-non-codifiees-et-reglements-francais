@@ -895,7 +895,6 @@
 - [Arrêté du 29 août 2003 (INDI0301842A)](arrete-du-29-aout-2003-indi0301842a)
 - [Arrêté du 29 avril 2003 (ECOP0300386A)](arrete-du-29-avril-2003-ecop0300386a)
 - [Arrêté du 29 avril 2003 (INTC0300151A)](arrete-du-29-avril-2003-intc0300151a)
-- [Arrêté du 29 avril 2003 (MEND0300685A)](arrete-du-29-avril-2003-mend0300685a)
 - [Arrêté du 29 avril 2003 (MENF0300474A)](arrete-du-29-avril-2003-menf0300474a)
 - [Arrêté du 29 janvier 2003 (AGRG0300242A)](arrete-du-29-janvier-2003-agrg0300242a)
 - [Arrêté du 29 janvier 2003 (INTE0300065A)](arrete-du-29-janvier-2003-inte0300065a)
