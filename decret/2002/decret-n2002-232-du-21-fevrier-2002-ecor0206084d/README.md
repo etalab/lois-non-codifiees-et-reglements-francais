@@ -4,5 +4,4 @@
 - [TITRE II : DÉLAI GLOBAL DE PAIEMENT DU SOUS-TRAITANT.](titre-ii)
 - [TITRE III : INTÉRÊTS MORATOIRES.](titre-iii)
 - [TITRE IV : MODALITÉS D'INTERVENTION DU COMPTABLE PUBLIC.](titre-iv)
-- [TITRE V : ENTRÉE EN VIGUEUR.](titre-v)
 - [Article 12](article-12.md)
