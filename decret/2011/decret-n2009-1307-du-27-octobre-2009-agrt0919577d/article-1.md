@@ -2,18 +2,16 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― "Reuilly " ;
+― " Reuilly " ;
 
-― "Sancerre " ;
+― " Quincy " ;
 
-― "Quincy " ;
+― " Coteaux du Giennois " ;
 
-― "Coteaux du Giennois " ;
+― " Menetou-Salon " ;
 
-― "Menetou-Salon " ;
+― " Jurançon " ;
 
-― "Jurançon " ;
+― " Gaillac " ;
 
-― "Gaillac " ;
-
-― "Gaillac premières côtes ".
+― " Gaillac premières côtes ".
