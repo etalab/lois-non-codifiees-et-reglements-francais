@@ -1452,7 +1452,6 @@
 - [Arrêté du 23 mai 2011 (ETSH1114388A)](arrete-du-23-mai-2011-etsh1114388a)
 - [Arrêté du 23 mai 2011 (ETSH1114420A)](arrete-du-23-mai-2011-etsh1114420a)
 - [Arrêté du 23 mai 2011 (ETSH1114424A)](arrete-du-23-mai-2011-etsh1114424a)
-- [Arrêté du 23 mai 2011 (ETSP1114600A)](arrete-du-23-mai-2011-etsp1114600a)
 - [Arrêté du 23 mai 2011 (ETSS1113535A)](arrete-du-23-mai-2011-etss1113535a)
 - [Arrêté du 23 mai 2011 (ETST1113559A)](arrete-du-23-mai-2011-etst1113559a)
 - [Arrêté du 24 août 2011 (MCCB1115801A)](arrete-du-24-aout-2011-mccb1115801a)
