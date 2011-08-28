@@ -18,6 +18,8 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des installations d'incinération de cadavres d'animaux de compagnie ;
 
+- des installations de production d'électricité utilisant l'énergie mécanique du vent ;
+
 - des installations relevant de la rubrique 2565 de la nomenclature des installations classées ;
 
 - des installations relevant de la rubrique 2251 (préparation, conditionnement de vin, la capacité de production étant supérieure à 20 000 hl/an) de la nomenclature des installations classées.
