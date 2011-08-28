@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― "Bellet" ou "Vin de Bellet" ;
 
-― "Beaumes de Venise" ;
-
 ― "Vinsobres" ;
 
 ― "Côtes du Rhône Villages" ;
