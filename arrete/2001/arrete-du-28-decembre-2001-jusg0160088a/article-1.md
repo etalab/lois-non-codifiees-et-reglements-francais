@@ -2,7 +2,7 @@
 
 Conformément aux articles 1er et 2 du décret du 28 décembre 2001 susvisé, les montants de la rémunération et les modalités de compensation horaire des astreintes sont fixés selon les dispositions suivantes :
 
-I.-Administration pénitentiaire
+I. - Administration pénitentiaire
 
 a) Rémunération :
 
@@ -18,27 +18,29 @@ b) Compensation horaire : cinq nuits de jours ouvrés, un jour férié ou un jou
 
 Les modalités de rémunération et de compensation prévues au présent article ne concernent pas les personnels de surveillance soumis aux dispositions du décret du 9 avril 1998 susvisé.
 
-II.-Services judiciaires
+<div align="center">II. - Services judiciaires <br/>
+</div>
 
-Rémunération : 30 euros pour une astreinte de samedi, de dimanche ou de jour férié, dans la limite d'un plafond par agent de 229 euros par mois.
+Rémunération : 40 euros pour une astreinte de samedi, de dimanche ou de jour férié, dans la limite d'un plafond par agent de 306 euros par mois.
 
-III.-Protection judiciaire de la jeunesse
+<div align="center">III. - Protection judiciaire de la jeunesse <br/>
+</div>
 
 Rémunération :
 
-60 euros pour une astreinte de samedi et dimanche ;
+80 euros pour une astreinte de samedi et dimanche ;
 
-30 euros pour une astreinte un samedi, un dimanche ou un jour férié ;
+40 euros pour une astreinte de samedi, dimanche ou un jour férié ;
 
 50 euros pour une astreinte de semaine, du lundi au vendredi inclus.
 
-IV.-Administration centrale
+IV. - Administration centrale
 
 a) Rémunération :
 
 60 euros pour une astreinte de samedi et dimanche ;
 
-30 euros pour une astreinte un samedi, un dimanche ou un jour férié ;
+40 euros pour une astreinte un samedi, un dimanche ou un jour férié ;
 
 50 euros pour une astreinte de semaine, du lundi au vendredi inclus.
 
