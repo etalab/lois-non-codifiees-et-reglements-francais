@@ -1,43 +1,15 @@
 # Article 1
 
-Le nombre de représentants au conseil d'administration du Conseil supérieur de la pêche des fédérations départementales des associations agréées de pêche et de pisciculture, est fixé à un titulaire et un suppléant pour chacune des circonscriptions ci-après :
+Il est institué des commissions consultatives paritaires compétentes à l'égard des personnels non titulaires des services du Premier ministre, quel que soit leur mode de recrutement et de rémunération, relevant de la gestion de la direction des services administratifs et financiers et employés dans les services désignés ci-après :
 
-1re circonscription
+- cabinets ministériels (personnels administratifs) et services centraux ;
 
-Aisne, Eure, Nord, Oise, Pas-de-Calais, Seine-Maritime et Somme.
+- direction de la Documentation française (agents rémunérés sur le budget général et sur le compte de commerce) ;
 
-2e circonscription
+- service d'information et de diffusion ;
 
-Ardennes, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin et Vosges.
+- service d'observation des programmes ;
 
-3e circonscription
+- délégation à la formation professionnelle ;
 
-Aube, Eure-et-Loir, Loiret, Marne, Seine-et-Marne, Yvelines, Essonne, Val-d'Oise, fédération regroupant les associations agréées de pêche et de pisciculture des départements de Paris, des Hauts-de-Seine, de Seine-Saint-Denis et du Val-de-Marne.
-
-4e circonscription
-
-Calvados, Côtes-du-Nord, Finistère, Ille-et-Vilaine, Manche, Mayenne, Morbihan, Orne et Sarthe.
-
-5e circonscription
-
-Côte-d'Or, Doubs, Jura, Nièvre, Haute-Saône, Saône-et-Loire, Yonne et Territoire de Belfort.
-
-6e circonscription
-
-Cher, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Maine-et-Loire, Deux-Sèvres, Vendée et Vienne.
-
-7e circonscription
-
-Ain, Alpes-de-Haute-Provence, Hautes-Alpes - Alpes-Maritimes, Ardèche, fédération regroupant les associations agréées de pêche et de pisciculture de la Corse-du-Sud et de la Haute-Corse, Drôme, Isère, Rhône, Savoie, Haute-Savoie et Var.
-
-8e circonscription
-
-Allier, Cantal, Corrèze, Creuse, Loire, Haute-Loire, Lot, Puy-de-Dôme et Haute-Vienne.
-
-9e circonscription
-
-Charente, Charente-Maritime, Dordogne, Gers, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Hautes-Pyrénées et Tarn-et-Garonne.
-
-10e circonscription
-
-Ariège, Aude, Aveyron, Bouches-du-Rhône, Gard, Haute-Garonne, Hérault, Lozère, Pyrénées-Orientales, Réunion, Tarn et Vaucluse.
+- service d'information du Gouvernement.

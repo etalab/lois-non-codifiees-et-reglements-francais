@@ -1,4 +1,4 @@
-# Arrêté du 17 janvier 1986 fixant les conditions d'élection au conseil d'admistration du Conseil supérieur de la pêche des représentants des fédérations départementales des associations agréées de pêche et de pisciculture.
+# Arrêté du 17 janvier 1986 portant création de commissions consultatives paritaires compétentes à l'égard des agents non titulaires des services du Premier ministre
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)

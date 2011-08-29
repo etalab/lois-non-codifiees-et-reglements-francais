@@ -232,7 +232,6 @@
 - [Arrêté du 13 septembre 1989 (MENL8901055A)](arrete-du-13-septembre-1989-menl8901055a)
 - [Arrêté du 13 septembre 1989 (TEFT8903723A)](arrete-du-13-septembre-1989-teft8903723a)
 - [Arrêté du 13 septembre 1990 (MENT9000007A)](arrete-du-13-septembre-1990-ment9000007a)
-- [Arrêté du 14 avril 1989 (PRMZ8905034A)](arrete-du-14-avril-1989-prmz8905034a)
 - [Arrêté du 14 avril 1989 (TEFT8903356A)](arrete-du-14-avril-1989-teft8903356a)
 - [Arrêté du 14 décembre 1988 (MENK8870070A)](arrete-du-14-decembre-1988-menk8870070a)
 - [Arrêté du 14 décembre 1988 (TEFT8804183A)](arrete-du-14-decembre-1988-teft8804183a)

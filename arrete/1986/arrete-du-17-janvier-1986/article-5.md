@@ -1,3 +1,3 @@
 # Article 5
 
-Les postulants aux fonctions de membre titulaire et de membre suppléant du conseil d'administration du Conseil supérieur de la pêche doivent faire connaître leur candidature au président du bureau de vote au cours de l'assemblée générale visée à l'article 2, à l'appel du président de cette assemblée générale.
+A l'égard des fonctionnaires d'autres administrations détachés dans les services du Premier ministre sur des emplois d'agent contractuel, les commisions consultatives paritaires sont compétentes pour les questions énumérées aux 2°, 3°, 4°, 6°, 8° et 9° ci-dessus ainsi que pour les refus opposés aux demandes de congé pour formation syndicale.
