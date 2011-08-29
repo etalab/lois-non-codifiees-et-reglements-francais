@@ -1,0 +1,11 @@
+# Article 1
+
+Il est créé auprès du Premier ministre un comité technique ministériel ayant compétence, dans le cadre des dispositions du titre III du décret du 15 février 2011 susvisé, pour connaître de toutes les questions concernant l'ensemble des services du Premier ministre.
+
+En outre, le comité technique ministériel est compétent pour les questions communes à tout ou partie des établissements publics administratifs suivants :
+
+1° Institut des hautes études de défense nationale ;
+
+2° Institut national des hautes études de la sécurité et de la justice.
+
+Il est également compétent pour les questions communes aux services du Premier ministre et aux deux établissements publics.
