@@ -92,7 +92,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Directeur divisionnaire</p>
+<p>Administrateur des finances publiques adjoint</p>
 </td>
 <td width="112">
 <p align="center">2</p>
@@ -134,7 +134,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Inspecteur départemental de 1re classe</p>
+<p>Inspecteur divisionnaire des finances publiques hors classe</p>
 </td>
 <td width="112">
 <p align="center">2</p>
@@ -274,7 +274,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 <p align="center">6</p>
 </td>
 <td width="196">
-<p>Agent administratif principal des impôts de 1re classe</p>
+<p>Agent administratif principal des finances publiques de 1re classe</p>
 </td>
 <td width="112">
 <p align="center">4</p>
@@ -291,7 +291,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Agent administratif principal des impôts de 2e classe</p>
+<p>Agent administratif principal des finances publiques de 2e classe</p>
 </td>
 <td width="112">
 <p align="center">4</p>
@@ -302,7 +302,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Agent administratif des impôts de 1re classe</p>
+<p>Agent administratif des finances publiques de 1re classe</p>
 </td>
 <td width="112">
 <p align="center">4</p>
@@ -313,7 +313,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Agent administratif des impôts de 2e classe</p>
+<p>Agent administratif des finances publiques de 2e classe</p>
 </td>
 <td width="112">
 <p align="center">1</p>
@@ -327,7 +327,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 <p align="center">7</p>
 </td>
 <td width="196">
-<p>Adjoint technique principal des impôts de 1re classe</p>
+<p>Agent technique principal des finances publiques de 1re classe</p>
 </td>
 <td width="112">
 <p align="center">0</p>
@@ -344,7 +344,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Adjoint technique principal des impôts de 2e classe</p>
+<p>Agent technique principal des finances publiques de 2e classe</p>
 </td>
 <td width="112">
 <p align="center">0</p>
@@ -355,7 +355,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Adjoint technique des impôts de 1re classe</p>
+<p>Agent technique des finances publiques de 1re classe</p>
 </td>
 <td width="112">
 <p align="center">2</p>
@@ -366,7 +366,7 @@ La composition des commissions administratives paritaires nationales mentionnée
 </tr>
 <tr>
 <td width="196">
-<p>Adjoint technique des impôts de 2e classe</p>
+<p>Agent technique des finances publiques de 2e classe</p>
 </td>
 <td width="112">
 <p align="center">2</p>
