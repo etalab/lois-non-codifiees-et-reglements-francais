@@ -10,7 +10,7 @@ b) Dix-neuf membres de droit :
 
 -un député et un sénateur désignés par leur assemblée respective ;
 
--le    directeur général des patrimoines ou son représentant ;
+-le directeur général des patrimoines ou son représentant ;
 
 -le chef de l'inspection générale de la direction générale des patrimoines ou son représentant ;
 
@@ -44,12 +44,12 @@ b) Dix-neuf membres de droit :
 
 c) Treize personnalités qualifiées nommées en fonction de leur compétence en matière archivistique, de conservation ou de recherche historique ou en fonction de leur qualité d'utilisateurs d'archives ;
 
-d) Un représentant de chaque organisation syndicale représentée au comité technique paritaire de la direction générale des patrimoines.
+d) Un représentant de chaque organisation syndicale représentée au comité technique de la direction générale des patrimoines.
 
 Participent en outre aux discussions avec voix consultative :
 
 -les inspecteurs généraux et les chefs de service de la direction générale des patrimoines, ainsi que les responsables des services à compétence nationale Archives nationales, Archives nationales d'outre-mer, Archives nationales du monde du travail ;
 
--toute personne désignée par le    directeur général des patrimoines en fonction de l'ordre du jour.
+-toute personne désignée par le directeur général des patrimoines en fonction de l'ordre du jour.
 
 Les membres mentionnés aux a et c sont nommés par arrêté du ministre chargé de la culture pour une durée de trois ans. Leur mandat est renouvelable.

@@ -12,7 +12,7 @@ L'observatoire des carrières de la justice est composé :
 
 - de cinq membres des juridictions et des services déconcentrés désignés par le garde des sceaux pour un mandat de trois ans renouvelable une fois ;
 
-- d'un représentant de chacune des organisations syndicales et professionnelles de fonctionnaires siégeant au comité technique paritaire ministériel ;
+- d'un représentant de chacune des organisations syndicales et professionnelles de fonctionnaires siégeant au comité technique ministériel ;
 
 - d'un représentant de chacune des organisations représentatives des magistrats ;
 
