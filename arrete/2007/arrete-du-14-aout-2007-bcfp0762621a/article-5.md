@@ -161,7 +161,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 <p align="center">3</p>
 </td>
 <td width="200">
-<p>Trésoriers principaux du Trésor public de 1re catégorie</p>
+<p>Inspecteurs divisionnaires des finances publiques hors classe</p>
 </td>
 <td width="87">
 <p align="center">2</p>
@@ -178,9 +178,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<div align="right">
-<pre>Trésoriers principaux du Trésor public de 1re catégorie</pre>
-</div>
+<div align="left">Inspecteurs divisionnaires des finances publiques hors classe</div>
 </td>
 <td width="87">
 <div align="center">
@@ -195,10 +193,10 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td rowspan="2" width="89">
-<p align="center">4</p>
+<p align="center">4A</p>
 </td>
 <td width="200">
-<p>Directeurs départementaux du Trésor public</p>
+<p>administrateurs des finances publiques adjoint</p>
 </td>
 <td width="87">
 <p align="center">2</p>
@@ -233,7 +231,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 <p align="center">5</p>
 </td>
 <td width="200">
-<p>Receveurs-percepteurs du Trésor public</p>
+<p>Inspecteurs divisionnaires des finances publiques de classe normale</p>
 </td>
 <td width="87">
 <p align="center">3</p>
@@ -253,7 +251,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 <p align="center">6</p>
 </td>
 <td width="200">
-<p>Inspecteurs du Trésor public</p>
+<p>Inspecteurs des finances publiques</p>
 </td>
 <td width="87">
 <p align="center">4</p>
@@ -275,7 +273,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </div>
 </td>
 <td width="200">
-<pre>Contrôleurs principaux du Trésor public</pre>
+<pre>Contrôleurs principaux des finances publiques</pre>
 </td>
 <td width="87">
 <div align="center">
@@ -329,7 +327,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </div>
 </td>
 <td width="200">
-<pre>Agents d'administration principaux du Trésor public de 1re classe</pre>
+<pre>Agents administratifs principaux des finances publiques de 1re classe</pre>
 </td>
 <td width="87">
 <div align="center">
@@ -350,7 +348,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<p align="left">Agents d'administration principaux du Trésor public de 2e classe</p>
+<pre>Agents administratifs principaux des finances publiques de 2e classe</pre>
 </td>
 <td width="87">
 <p align="center">4</p>
@@ -361,7 +359,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<pre>Agents d'administration du Trésor public de 1re classe</pre>
+<pre>Agents administratifs des finances publiques de 1re classe</pre>
 </td>
 <td width="87">
 <div align="center">
@@ -377,7 +375,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 <tr>
 <td width="200">
 <div align="right">
-<pre>Agents d'administration du Trésor public de 2e classe</pre>
+<pre>Agents administratifs des finances publiques de 2e classe</pre>
 </div>
 </td>
 <td width="87">
@@ -398,7 +396,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </div>
 </td>
 <td width="200">
-<pre>Adjoints techniques principaux du Trésor public de 1re classe</pre>
+<pre>Agents techniques principaux des finances publiques de 1re classe</pre>
 </td>
 <td width="87">
 <div align="center">
@@ -419,7 +417,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<pre>Adjoints techniques principaux du Trésor public de 2e classe</pre>
+<pre>Agents techniques principaux des finances publiques de 2e classe</pre>
 </td>
 <td width="87">
 <div align="center">
@@ -434,7 +432,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<p>Adjoints techniques du Trésor public de 1re classe</p>
+<p>Agent technique des finances publiques de 1re classe</p>
 </td>
 <td width="87">
 <p align="center">1</p>
@@ -445,7 +443,7 @@ La composition des commissions administratives paritaires centrales mentionnées
 </tr>
 <tr>
 <td width="200">
-<pre>Adjoints techniques du Trésor public de 2e classe</pre>
+<pre>Agent technique des finances publiques de 2e classe</pre>
 </td>
 <td width="87">
 <div align="center">
