@@ -538,7 +538,6 @@
 - [Arrêté du 17 juin 1994 (EQUA9401107A)](arrete-du-17-juin-1994-equa9401107a)
 - [Arrêté du 17 mars 1994 (DEFP9401301A)](arrete-du-17-mars-1994-defp9401301a)
 - [Arrêté du 17 mars 1994 (MENL9400500A)](arrete-du-17-mars-1994-menl9400500a)
-- [Arrêté du 17 mars 1994 (MENL9400502A)](arrete-du-17-mars-1994-menl9400502a)
 - [Arrêté du 17 mars 1994 (RESM9400431A)](arrete-du-17-mars-1994-resm9400431a)
 - [Arrêté du 17 novembre 1994 (SPSA9403550A)](arrete-du-17-novembre-1994-spsa9403550a)
 - [Arrêté du 17 octobre 1994 (BUDF9400019A)](arrete-du-17-octobre-1994-budf9400019a)
