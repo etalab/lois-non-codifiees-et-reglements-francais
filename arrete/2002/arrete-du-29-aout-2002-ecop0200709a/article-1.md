@@ -162,7 +162,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 </tr>
 <tr>
 <td valign="top" width="454">Au-delà de l'indice brut 380 : </td>
-<td rowspan="23" width="151">
+<td rowspan="22" width="151">
 <p align="center">3e catégorie </p>
 </td>
 </tr>
@@ -191,10 +191,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <td valign="top" width="454">Contrôleurs des douanes et droits indirects. </td>
 </tr>
 <tr>
-<td valign="top" width="454">Contrôleurs des impôts, corps des  géomètres-cadastreurs des finances publiques. </td>
-</tr>
-<tr>
-<td valign="top" width="454">Contrôleurs du Trésor public. </td>
+<td valign="top" width="454">Contrôleurs des finances publiques, corps des géomètres-cadastreurs des finances publiques. </td>
 </tr>
 <tr>
 <td valign="top" width="454">Contrôleurs principaux des installations téléphoniques. </td>

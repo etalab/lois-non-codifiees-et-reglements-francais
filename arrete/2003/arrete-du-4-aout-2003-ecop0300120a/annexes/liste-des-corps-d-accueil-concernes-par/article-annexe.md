@@ -20,7 +20,7 @@ Traducteurs du ministère de l'économie, des finances et de l'industrie.
 
 Corps de catégorie B
 
-Contrôleurs des impôts.
+Contrôleurs des finances publiques.
 
 Contrôleurs des douanes et droits indirects.
 

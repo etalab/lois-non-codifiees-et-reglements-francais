@@ -1,6 +1,6 @@
 # Article 1
 
-Le concours interne spécial pour l'emploi de contrôleur du Trésor public prévu à l'article 6 (3°) du décret du 10 avril 1995 susvisé comporte les épreuves écrites d'admissibilité et l'épreuve orale d'admission suivantes :
+Le concours interne spécial pour l'emploi de contrôleur des finances publiques prévu à l'article 6 (3°) du décret du 10 avril 1995 susvisé comporte les épreuves écrites d'admissibilité et l'épreuve orale d'admission suivantes :
 
 I.-Epreuves écrites d'admissibilité
 

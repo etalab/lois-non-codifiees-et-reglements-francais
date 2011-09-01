@@ -38,7 +38,7 @@ TABLEAU DE CORRESPONDANCE
 <p align="left">Fonctions administratives correspondant à celles dévolues au corps d'accueil.</p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Inspecteur des impôts</p>
+<p align="left">Inspecteur des finances publiques </p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ TABLEAU DE CORRESPONDANCE
 <p align="left">Fonctions administratives correspondant à celles dévolues au corps d'accueil.</p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Contrôleurs des impôts.</p>
+<p align="left">Contrôleurs des finances publiques .</p>
 </td>
 </tr>
 <tr>

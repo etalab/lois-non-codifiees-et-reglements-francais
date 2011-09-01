@@ -20,7 +20,7 @@ Corps de catégorie A :
 
 Corps de catégorie B :
 
-- contrôleurs des impôts ;
+- contrôleurs des finances publiques ;
 
 - contrôleurs des douanes et droits indirects ;
 

@@ -16,7 +16,7 @@ Les fonctionnaires du corps des contrôleurs des impôts dont la rémunération 
 </tr>
 <tr>
 <td valign="top">
-<p>Contrôleurs de 2 <sup>e </sup>classe des impôts. </p>
+<p>Contrôleurs de 2 <sup>e </sup>classe des finances publiques. </p>
 </td>
 <td valign="top">
 <p>Agents du premier grade de la catégorie B. </p>
@@ -24,7 +24,7 @@ Les fonctionnaires du corps des contrôleurs des impôts dont la rémunération 
 </tr>
 <tr>
 <td valign="top">
-<p>Contrôleurs de 1 <sup>re </sup>classe des impôts. </p>
+<p>Contrôleurs de 1 <sup>re </sup>classe des finances publiques. </p>
 </td>
 <td valign="top">
 <p>Agents du deuxième grade de la catégorie B. </p>
@@ -32,7 +32,7 @@ Les fonctionnaires du corps des contrôleurs des impôts dont la rémunération 
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p>Contrôleurs principaux des impôts. </p>
+<p>Contrôleurs principaux des finances publiques. </p>
 </td>
 <td rowspan="2" valign="top">
 <p>Agents du troisième grade de la catégorie B.</p>

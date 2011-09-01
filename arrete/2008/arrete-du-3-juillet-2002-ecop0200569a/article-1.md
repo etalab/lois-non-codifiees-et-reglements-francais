@@ -346,14 +346,6 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Contrôleurs de 2 <sup>e </sup>classe du Trésor public. </p>
-</td>
-<td valign="top">
-<p align="center">/ / </p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Contrôleurs des alcools de classe normale. </p>
 </td>
 <td valign="top">
@@ -362,7 +354,7 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Contrôleurs des impôts de 2 <sup>e </sup>classe. </p>
+<p>Contrôleurs des finances publiques de 2 <sup>e </sup>classe. </p>
 </td>
 <td valign="top">
 <p align="center">/ / </p>
@@ -434,7 +426,7 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Techniciens  géomètres-cadastreurs des finances publiques. </p>
+<p>Techniciens géomètres-cadastreurs des finances publiques. </p>
 </td>
 <td valign="top">
 <p align="center">/ / </p>
@@ -569,7 +561,7 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux dessinateurs projeteurs de 2 <sup>e </sup>classe des finances, aux infirmières ou infirmiers de l'État, aux secrétaires administratifs de classe normale, aux techniciens de laboratoire de classe normale des écoles nationales supérieures des mines, aux techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie, aux techniciens de l'industrie et des mines (1 <sup>er </sup>grade) et aux techniciens  géomètres-cadastreurs des finances publiques. </p>
+<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux dessinateurs projeteurs de 2 <sup>e </sup>classe des finances, aux infirmières ou infirmiers de l'État, aux secrétaires administratifs de classe normale, aux techniciens de laboratoire de classe normale des écoles nationales supérieures des mines, aux techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie, aux techniciens de l'industrie et des mines (1 <sup>er </sup>grade) et aux techniciens géomètres-cadastreurs des finances publiques. </p>
 </td>
 <td>
 <p align="center">/ / </p>
