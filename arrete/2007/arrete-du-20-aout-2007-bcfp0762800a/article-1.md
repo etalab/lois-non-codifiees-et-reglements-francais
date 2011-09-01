@@ -12,7 +12,7 @@ Directeur départemental.
 
 Conservateur des hypothèques.
 
-Directeur divisionnaire.
+Administrateur des finances publiques adjoint.
 
 _Commission administrative paritaire n° 2_
 
@@ -20,11 +20,9 @@ Inspecteur principal de 1re classe.
 
 Inspecteur principal de 2e classe.
 
-Inspecteur départemental de 1re classe.
+Inspecteur divisionnaire des finances publiques hors classe.
 
-Inspecteur départemental de 2e classe.
-
-Inspecteur départemental de 3e classe.
+Inspecteur divisionnaire des finances publiques hors classe.
 
 _Commission administrative paritaire n° 3_
 
@@ -48,13 +46,13 @@ Contrôleur 2e classe.
 
 _Commission administrative paritaire n° 6_
 
-Agent administratif principal des impôts de 1re classe.
+Agent administratif principal des finances publiques de 1re classe.
 
-Agent administratif principal des impôts de 2e classe.
+Agent administratif principal des finances publiques de 2e classe.
 
-Agent administratif des impôts de 1re classe.
+Agent administratif des finances publiques de 1re classe.
 
-Agent administratif des impôts de 2e classe.
+Agent administratif des finances publiques de 2e classe.
 
 _Commission administrative paritaire n° 7_
 
