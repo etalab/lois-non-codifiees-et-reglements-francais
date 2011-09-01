@@ -61,7 +61,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">Inspecteurs principaux</p>
 </td>
 <td colspan="2">
-<p align="center">Directeurs divisionnaires</p>
+<p align="center">Administrateurs des finances publiques adjoints </p>
 </td>
 <td width="67">
 <p align="center">Directeurs départementaux</p>
@@ -70,7 +70,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">Chefs des services fiscaux</p>
 </td>
 <td>
-<br/>
 <br/>
 </td>
 <td>
@@ -112,7 +111,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">CL. F</p>
 </td>
 <td rowspan="2">
-<br/>
 <br/>
 </td>
 <td rowspan="2">
@@ -175,7 +173,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td>
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -207,7 +204,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">17,50</p>
 </td>
 <td rowspan="2">
-<br/>
 <br/>
 </td>
 </tr>
@@ -439,7 +435,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td rowspan="2" width="98">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -562,7 +557,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="98">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -571,14 +565,11 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 <td width="108">
 <br/>
-<br/>
 </td>
 <td width="96">
 <br/>
-<br/>
 </td>
 <td width="98">
-<br/>
 <br/>
 </td>
 </tr>
@@ -620,7 +611,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Contrôleurs des impôts</p>
+<p>Contrôleurs des finances publiques</p>
 </td>
 </tr>
 <tr>
@@ -776,7 +767,6 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <p align="center">15,00</p>
 </td>
 <td width="98">
-<br/>
 <br/>
 </td>
 </tr>
@@ -958,16 +948,16 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td valign="top" width="276">
 <p>Adjoints administratifs</p>
 </td>
-<td rowspan="11" width="99">
+<td rowspan="9" width="99">
 <p align="center">13,00</p>
 </td>
-<td rowspan="11" width="88">
+<td rowspan="9" width="88">
 <p align="center">13,25</p>
 </td>
-<td rowspan="11" width="90">
+<td rowspan="9" width="90">
 <p align="center">14,00</p>
 </td>
-<td rowspan="11" width="90">
+<td rowspan="9" width="90">
 <p align="center">15,75</p>
 </td>
 </tr>
@@ -978,17 +968,12 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </tr>
 <tr>
 <td valign="top" width="276">
-<p>Agents administratifs des impôts</p>
+<p>Agents administratifs des finances publiques</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="276">
 <p>Agents de constatation des douanes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="276">
-<p>Agents d'administration du Trésor public</p>
 </td>
 </tr>
 <tr>
@@ -1013,12 +998,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </tr>
 <tr>
 <td valign="top" width="276">
-<p>Adjoints techniques des impôts</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="276">
-<p>Adjoints techniques du Trésor public</p>
+<p>Agents techniques des finances publiques</p>
 </td>
 </tr>
 </tbody>
