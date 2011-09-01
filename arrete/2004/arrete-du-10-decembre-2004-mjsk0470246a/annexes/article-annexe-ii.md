@@ -1,23 +1,43 @@
 # Article Annexe II
 
-REFERENTIEL PROFESSIONNEL
+Référentiel professionnel
 
-Les différents éléments descriptifs du référentiel professionnel pour la création d'un certificat de spécialisation activités athlétiques sont précisés dans les arrêtés portant création des différentes spécialités du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports définies à l'annexe I.
+Les éléments descriptifs du référentiel professionnel pour la création d'un certificat de spécialisation "activités athlétiques" sont précisés dans l'arrêté portant création des spécialités du brevet professionnel de la jeunesse, de l'éducation populaire et du sport définies dans l'annexe I.
 
 Toutefois, il convient de compléter cette description par les éléments suivants :
 
-I - Descriptif du métier :
+I) Descriptif du métier :
 
-L'appellation est : animateur des activités athlétiques
+L'appellation est : "animateur des activités athlétiques".
 
-II - Fiche descriptive d'activités complémentaires :
+Le titulaire du certificat de spécialisation "activités athlétiques" du brevet professionnel de la jeunesse, de l'éducation populaire et du sport peut notamment être employé par les différentes structures suivantes :
 
-Le ou la titulaire du certificat de spécialisation activités athlétiques du BPJEPS-APT
+- association sportive ;
 
-- réalise de manière autonome des prestations de découverte, d'initiation et d'animation dans les disciplines de l'athlétisme ;
+- association de jeunesse et d'éducation populaire ;
 
-- conduit des cycles d'apprentissage de l'athlétisme jusqu'au premier niveau de compétition en garantissant au pratiquant les conditions optimales de sécurité ;
+- organismes de vacances ;
 
-- accompagne les publics, individuels ou en groupes, en tous lieux où se pratique l'athlétisme ;
+- structures d'animation post et périscolaires ;
 
-- participe à la gestion et à la maintenance du matériel spécifique à l'athlétisme.
+- salles de remise en forme ;
+
+- écoles municipales des sports ;
+
+- collectivités locales et territoriales ;
+
+- comité central d'entreprise ;
+
+- structures privées de loisirs ;
+
+- accueils collectifs de mineurs à caractère éducatif.
+
+II) Fiche descriptive d'activités complémentaires
+
+Le titulaire du certificat de spécialisation "activités athlétiques" :
+
+- réalise de manière autonome des cycles de découverte, d'initiation et d'animation dans les disciplines de l'athlétisme et des disciplines associées ;
+
+- accompagne les publics de moins de 14 ans, individuels ou en groupes, en tous lieux où se pratique l'athlétisme et les disciplines associées ;
+
+- participe à la gestion et à la maintenance du matériel spécifique à l'athlétisme, des disciplines associées et des pratiques émergentes.

@@ -1,9 +1,7 @@
 # Article 2
 
-Ce certificat est composé de trois unités capitalisables (UC) attestant des compétences de l'animateur à assurer en autonomie pédagogique jusqu'à un premier niveau de compétition :
+Ce certificat est composé de deux unités capitalisables (UC) attestant des compétences de l'animateur à assurer en autonomie pédagogique jusqu'à un premier niveau de compétition :
 
-- la conduite de cycles de découverte des pratiques athlétiques (UC 11) ;
+- la conduite des cycles de découverte et d'initiation de l'athlétisme et de ses disciplines associées pour les jeunes de moins de 14 ans en sécurité ;
 
-- la conduite de cycles d'initiation et d'apprentissage de l'athlétisme pour les jeunes (UC 12) ;
-
-- la conduite de cycles d'initiation et d'apprentissage de l'athlétisme hors stade (UC 13).
+- la conduite des cycles d'animation ou de découverte des pratiques émergentes de l'athlétisme.
