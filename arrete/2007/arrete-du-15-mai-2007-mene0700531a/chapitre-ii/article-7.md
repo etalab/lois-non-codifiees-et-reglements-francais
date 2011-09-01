@@ -1,6 +1,6 @@
 # Article 7
 
-Le comité interprofessionnel consultatif créé pour une durée de quatre ans comprend :
+Le comité interprofessionnel consultatif créé pour une durée de cinq ans comprend :
 
 1° Les présidents des commissions professionnelles consultatives ;
 
