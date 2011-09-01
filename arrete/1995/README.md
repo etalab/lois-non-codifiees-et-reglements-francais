@@ -520,7 +520,6 @@
 - [Arrêté du 13 novembre 1995 (MENU9502497A)](arrete-du-13-novembre-1995-menu9502497a)
 - [Arrêté du 13 novembre 1995 (MENU9502499A)](arrete-du-13-novembre-1995-menu9502499a)
 - [Arrêté du 13 octobre 1993 (SPSS9303057A)](arrete-du-13-octobre-1993-spss9303057a)
-- [Arrêté du 13 octobre 1995 (ECOP9500265A)](arrete-du-13-octobre-1995-ecop9500265a)
 - [Arrêté du 13 octobre 1995 (MENU9502217A)](arrete-du-13-octobre-1995-menu9502217a)
 - [Arrêté du 13 octobre 1995 (TEFS9501086A)](arrete-du-13-octobre-1995-tefs9501086a)
 - [Arrêté du 13 septembre 1995 (ECOT9513820A)](arrete-du-13-septembre-1995-ecot9513820a)
