@@ -1,6 +1,6 @@
 # Article 228
 
-Le conseil d'administration des caisses régionales peut décider, après accord de la Caisse autonome nationale, de la constitution de réseaux de santé, tels que prévus à l'article L. 6321-1 du code de la santé publique.
+Le conseil d'administration de la caisse autonome nationale peut décider de la constitution de réseaux de santé, tels que prévus à l'article L. 6321-1 du code de la santé publique.
 
 Ces réseaux peuvent, conformément à l'article L. 6321-2 du code précité, se constituer en groupements de coopération sanitaire, groupements d'intérêt économique, groupements d'intérêt public ou associations.
 

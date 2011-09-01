@@ -1,3 +1,0 @@
-# Article 213
-
-Les praticiens-conseils du régime minier exerçant au profit de celui-ci sont soumis à la convention collective des praticiens-conseils du régime général de manière à garantir le maintien de leurs avantages salariaux acquis, dans le cadre d'un contrat de travail qu'ils concluent avec la Caisse nationale de l'assurance maladie des travailleurs salariés. Ils sont intégrés au sein des échelons régionaux du contrôle médical du régime général dans des conditions d'organisation et de gestion définies par une convention entre la Caisse autonome nationale de la sécurité sociale dans les mines et la Caisse nationale de l'assurance maladie des travailleurs salariés, agréée par le ministre chargé de la sécurité sociale.

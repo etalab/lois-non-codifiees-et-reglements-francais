@@ -2,7 +2,7 @@
 
 Les actions de prévention exercées par la Caisse autonome nationale dans le cadre défini à l'article 202 sont les suivantes :
 
-1° La caisse nationale peut, sur avis du comité technique visé à l'article 72, inviter un exploitant ou plusieurs exploitants exerçant une même activité, à adopter certaines mesures de prévention.L'application de ces mesures est soumise à l'homologation préalable du ou des              directeurs régionaux de l'environnement, de l'aménagement et du logement  intéressés. Le recours hiérarchique éventuel contre ces décisions est adressé au ministre chargé des mines.
+1° La caisse nationale peut inviter un exploitant ou plusieurs exploitants exerçant une même activité, à adopter certaines mesures de prévention.L'application de ces mesures est soumise à l'homologation préalable du ou des directeurs régionaux de l'environnement, de l'aménagement et du logement intéressés. Le recours hiérarchique éventuel contre ces décisions est adressé au ministre chargé des mines.
 
 2° La Caisse autonome nationale peut signaler au directeur régional de l'industrie et de la recherche les défauts d'application parvenus à sa connaissance en ce qui concerne les mesures prévues par la réglementation du travail dans les mines.
 
@@ -28,10 +28,10 @@ b) Créer ou développer des institutions ou des services dont le but est le per
 
 c) Consentir aux exploitations minières et assimilées des avances sans intérêt ou à taux réduit en vue de leur faciliter la réalisation d'aménagements destinés à assurer une meilleure protection des salariés.
 
-Le remboursement des avances est effectué normalement par le maintien de la cotisation au taux antérieur pendant le temps nécessaire ; exceptionnellement, en raison du montant de l'avance, la cotisation pourra être temporairement majorée dans les conditions fixées par le comité technique de la Caisse autonome nationale et approuvées par le directeur régional des affaires sanitaires et sociales et le directeur régional de l'industrie et de la recherche ;
+Le remboursement des avances est effectué normalement par le maintien de la cotisation au taux antérieur pendant le temps nécessaire ; exceptionnellement, en raison du montant de l'avance, la cotisation pourra être temporairement majorée dans les conditions fixées par la Caisse autonome nationale ;
 
 d) En vue de réaliser à titre d'expérience et sous son contrôle certaines mesures de protection et de prévention, conclure avec des exploitations des conventions comportant une participation au financement de ces mesures. Cette participation peut prendre la forme soit d'avances remboursables, soit de subventions, soit d'avances susceptibles, suivant les résultats obtenus, d'être transformées en tout ou partie, en subventions.
 
-Les exploitants bénéficiaires des avances ou subventions visées aux c et d ci-dessus doivent joindre aux réponses aux questionnaires mentionnés au 3° ci-dessus un rapport précisant les résultats obtenus en matière de prévention et indiquant, s'il y a lieu, les mesures complémentaires à envisager ; ce rapport est soumis pour avis au comité technique prévu à l'article 72.
+Les exploitants bénéficiaires des avances ou subventions visées aux c et d ci-dessus doivent joindre aux réponses aux questionnaires mentionnés au 3° ci-dessus un rapport précisant les résultats obtenus en matière de prévention et indiquant, s'il y a lieu, les mesures complémentaires à envisager.
 
 7° La Caisse autonome nationale peut, par l'intermédiaire de son directeur ou de son représentant, participer à toute initiative visant à coordonner au niveau régional des actions de prévention au profit des salariés.

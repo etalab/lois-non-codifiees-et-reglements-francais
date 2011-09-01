@@ -2,7 +2,7 @@
 
 Des cotisations d'assurance vieillesse, invalidité sont dues :
 
-1° Au titre des personnes visées aux articles 2 à 6,8 bis et 8 ter du présent décret et 5,7,8,18 et 19 du décret n° 75-8 du 6 janvier 1975 relatif au régime de sécurité sociale dans les mines ; ces cotisations sont assises sur :
+1° Au titre des personnes visées aux articles 2 à 6, 8 bis et 8 ter du présent décret dans leur rédaction antérieure au décret n° 2011-1034 du 30 août 2011 relatif au régime spécial de sécurité sociale dans les mines et 5, 7, 8, 18 et 19 du décret n° 75-8 du 6 janvier 1975 relatif au régime de sécurité sociale dans les mines ; ces cotisations sont assises sur :
 
 a) Les rémunérations ou gains, dans la limite du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, à hauteur de 15,60 %, soit 7,75 % à la charge des employeurs et 7,85 % à la charge des salariés ou assimilés ;
 

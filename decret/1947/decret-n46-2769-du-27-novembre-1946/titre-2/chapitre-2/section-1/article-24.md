@@ -1,27 +1,19 @@
 # Article 24
 
-Les organismes mentionnés à l'article 10 sont administrés par un conseil d'administration ainsi composé :
+La Caisse autonome nationale est administrée par un conseil d'administration de trente et un membres ainsi composé :
 
-1° Pour la Caisse autonome nationale, de trente-trois membres dont :
+a) Le président nommé, à chaque renouvellement du conseil d'administration, par décret pris sur le rapport du ministre chargé de la sécurité sociale ;
 
-a) Le président, nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale ;
+b) Huit membres représentant les exploitants et anciens exploitants ;
 
-b) Six membres représentant les ministres chargés de la sécurité sociale, du budget et des mines, désignés par ceux-ci à raison de deux chacun ainsi qu'un membre représentant le directeur général de la Caisse des dépôts et consignations ;
+c) Deux membres représentant la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-c) Huit membres représentant les exploitants ;
+d) Cinq personnalités qualifiées désignées conjointement par le ministre chargé de la sécurité sociale et le ministre du budget ;
 
-d) Quinze membres représentant les affiliés ;
+e) Quinze membres représentant les affiliés, désignés en nombre égal par les organisations syndicales représentatives dans la branche à la date de cette désignation.
 
-e) Siégeant avec voix consultative, deux membres représentant respectivement la Fédération nationale de la mutualité française et la Caisse nationale de l'assurance maladie des travailleurs salariés ; les dispositions des articles 29,30 et 31 leur sont applicables.
+Le ministre chargé de la sécurité sociale et le ministre chargé du budget désignent chacun un commissaire du Gouvernement qui assiste aux réunions du conseil d'administration et de ses commissions et est entendu chaque fois qu'il le demande.
 
-2° Dans les caisses régionales, de dix-neuf membres dont :
+Un représentant du ministre chargé des mines assiste également aux séances du conseil d'administration et de ses commissions et est entendu chaque fois qu'il le demande.
 
-a) Dix membres représentant les affiliés ;
-
-b) Cinq membres représentant les exploitants ;
-
-c) Deux membres représentant les personnels de l'organisme, siégeant avec voix consultative.
-
-Les membres représentant les exploitants au conseil d'administration de la Caisse autonome nationale sont nommés par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé des mines ;
-
-d) Siégeant avec voix consultative, deux membres représentant respectivement la Fédération nationale de la mutualité française et la caisse primaire d'assurance maladie dans le ressort de laquelle la Caisse régionale a son siège ; les dispositions des articles 29,30 et 31 leur sont applicables.
+Les membres du conseil d'administration de la Caisse autonome nationale sont nommés par arrêté du ministre chargé de la sécurité sociale.

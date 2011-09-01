@@ -2,9 +2,9 @@
 
 Des cotisations d'assurance maladie, maternité et congé de paternité, décès sont dues :
 
-1° Au titre des personnes visées aux articles 2 à 5,6 bis et 8 ter du présent décret et aux articles 2 à 4 et 18 du décret n° 75-8 du 6 janvier 1975 précité ; elles sont assises sur leurs rémunérations ou gains et à la charge des employeurs et des salariés ; leur taux est de 12,70 p. 100, soit respectivement 11,95 p. 100 et 0,75 p. 100 ;
+1° Au titre des personnes visées aux articles 2 à 5, 6 bis et 8 ter du présent décret dans leur rédaction antérieure audécret n° 2011-1034 du 30 août 2011 relatif au régime spécial de sécurité sociale dans les mines et aux articles 2 à 4 et 18 du décret n° 75-8 du 6 janvier 1975 précité ; elles sont assises sur leurs rémunérations ou gains et à la charge des employeurs et des salariés ; leur taux est de 12,70 %, soit respectivement 11,95 % et 0,75 % ;
 
-2° Par les personnes visées à l'article 14 du décret du 6 janvier 1975 susvisé ; elles sont supportées et calculées comme indiqué audit article ; leur taux est de 12,70 p. 100 ;
+2° Par les personnes visées à l'article 14 du décret du 6 janvier 1975 susvisé ; elles sont supportées et calculées comme indiqué audit article ; leur taux est de 12,70 % ;
 
 3° Par les titulaires des avantages de retraite et revenus de remplacement mentionnés à l'article L. 711-2 du code de la sécurité sociale ainsi que par les titulaires d'avantages servis au titre de l'assurance invalidité du présent régime ; ces cotisations sont assises sur lesdits avantages et revenus et à la charge exclusive des titulaires.
 

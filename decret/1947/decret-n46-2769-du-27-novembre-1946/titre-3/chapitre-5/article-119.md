@@ -1,6 +1,6 @@
 # Article 119
 
-Pour le paiement des prestations, des dépenses de gestion administrative ou d'action sanitaire et sociale ou toute autre charge imputable ainsi que pour les recettes ou tout autre produit dont bénéficie le régime minier, la Caisse autonome nationale et les caisses régionales disposent d'un compte ouvert dans les écritures de la Caisse des dépôts et consignations à Paris.
+Pour le paiement des prestations, des dépenses de gestion administrative ou d'action sanitaire et sociale ou toute autre charge imputable ainsi que pour les recettes ou tout autre produit dont bénéficie le régime minier, la Caisse autonome nationale dispose d'un compte ouvert dans les écritures de la Caisse des dépôts et consignations.
 
 La Caisse autonome nationale dispose, en outre, en tant que de besoin, de comptes ouverts dans les banques agréées.
 

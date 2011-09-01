@@ -1,53 +1,9 @@
 # Article 73
 
-Nomination des directeurs et agents comptables
+I.-Le directeur général de la Caisse autonome nationale est nommé par décret pris sur le rapport du ministre chargé de la sécurité sociale, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget, sur proposition du directeur. Les autres agents de direction sont nommés par le directeur.
 
-Les directeurs et agents comptables des caisses régionales de la sécurité sociale dans les mines sont nommés parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale. Ces nominations sont soumises à l'agrément du responsable du service mentionné à l'article R. 155-1 du code de la sécurité sociale après avis, pour ce qui concerne l'agent comptable du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions : son retrait met fin à celles-ci.
+Sauf pour les missions confiées à la Caisse des dépôts et consignations, le directeur et l'agent comptable exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-8, D. 253-12 et D. 253-13, D. 253-67 et D. 253-68 du code de la sécurité sociale.
 
-Les candidatures sont reçues par le directeur de la Caisse autonome nationale pendant un mois à compter de la publication de l'appel à candidatures au Bulletin périodique d'information ; copie doit être adressée au responsable du service mentionné à l'article R. 155-1 du code de la sécurité sociale dont relève l'organisme dans lequel les candidats exercent leurs fonctions.
+II.-Les directeurs régionaux sont nommés par le directeur général de la Caisse autonome nationale parmi les personnes inscrites sur la liste d'aptitude mentionnée à l'article R. 123-45 du code de la sécurité sociale. Ces nominations sont soumises à agrément du responsable du service mentionné à l'article R. 155-1 du même code.
 
-Pour chaque nomination, le directeur de la Caisse autonome nationale propose au conseil d'administration concerné une liste d'au plus trois noms, établie après avis du comité d'évaluation institué par le présent article. Le directeur de la Caisse autonome nationale informe chaque candidat de la présence ou de l'absence de son nom sur cette liste.
-
-Le conseil d'administration choisit sur cette liste, à la majorité de ses membres, le candidat dont il propose la nomination. Le directeur de la Caisse autonome nationale procède en conséquence à ladite nomination. Si le conseil d'administration ne propose aucun des candidats figurant sur la liste susmentionnée dans le délai de trente jours, le directeur de la Caisse autonome nationale nomme l'un de ces candidats.
-
-Il peut être mis fin, par le directeur de la Caisse autonome nationale, aux fonctions des directeurs et agents comptables mentionnés au premier alinéa du présent article, pour un motif tiré de l'intérêt du service, après avis du conseil d'administration de l'organisme concerné et sous les garanties, notamment de reclassement, prévues par la convention collective. La décision du directeur de la Caisse autonome nationale devient exécutoire à l'issue d'un délai de trente jours, pendant lequel le conseil d'administration de l'organisme concerné peut s'y opposer, à la majorité des deux tiers des suffrages exprimés.
-
-Comité d'évaluation
-
-Il est institué un comité d'évaluation placé auprès de la Caisse autonome nationale de la sécurité sociale dans les mines, et chargé d'émettre un avis motivé sur l'adéquation des candidatures aux postes à pourvoir, pour les nominations des directeurs et agents comptables mentionnés au premier alinéa du présent article.
-
-Ce comité est présidé par un inspecteur général des affaires sociales désigné par le chef de l'inspection générale des affaires sociales pour une durée de cinq ans ; il comprend en outre les personnalités suivantes :
-
--le directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
-
--le directeur de Centre national d'études supérieures de sécurité sociale ;
-
--un ancien agent de direction du régime minier, y ayant exercé les fonctions de directeur ou d'agent comptable, et ayant fait valoir ses droits à la retraite depuis moins de trois ans, désigné par le président du conseil d'administration de la Caisse autonome nationale de la sécurité sociale dans les mines ;
-
-- un représentant du service mentionné à l'article R. 155-1 du code de la sécurité sociale désigné par le directeur de la sécurité sociale.
-
-Le comité ne peut valablement délibérer que si la moitié au moins de ses membres sont présents. Il rend ses avis à la majorité des suffrages exprimés ; en cas de partage des voix, le président a voix prépondérante.
-
-En cas d'empêchement, un membre du comité peut donner délégation à un autre membre. Aucun membre ne peut recevoir plus d'une délégation.
-
-Le secrétariat du comité est assuré par le directeur de la Caisse autonome nationale de la sécurité sociale dans les mines.
-
-Le directeur de la Caisse autonome nationale transmet aux membres du comité d'évaluation, dans un délai de huit jours à compter de la date de clôture du dépôt de candidatures, les dossiers constitués dans des formes identiques à celles fixées par arrêté du ministre chargé de la sécurité sociale pris en application du quatrième alinéa de l'article R. 217-6 du code de la sécurité sociale.
-
-Le secrétariat du comité communique aux candidats, sur leur demande et chacun pour ce qui le concerne, les avis motivés du comité.
-
-Le comité se réunit sur convocation de son président, en tant que de besoin et au moins une fois par an pour dresser un bilan de l'activité de l'exercice précédent. La date et l'ordre du jour des réunions sont rendus publics par les soins du directeur de la Caisse autonome nationale.
-
-Nomination des autres cadres de direction
-
-Les autres cadres de direction des caisses régionales de la sécurité sociale dans les mines sont nommés par le directeur de l'organisme parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale, après avis conforme du conseil d'administration. En cas de divergence, le bureau de la caisse autonome nationale décide. Il est mis fin à leur fonction dans les mêmes conditions.
-
-Toutes les nominations susvisées sont soumises à l'agrément du responsable du service mentionné à l'article R. 155-1 du code de la sécurité sociale après avis, en ce qui concerne l'agent comptable, du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions ; son retrait met fin à celles-ci.
-
-Le directeur de la caisse autonome nationale est nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale. Son directeur adjoint est nommé par arrêté des ministres chargés de la sécurité sociale, du budget et des mines, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget sur proposition du directeur. Les autres agents de direction sont nommés, par le directeur, après avis du conseil d'administration.
-
-Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13, D. 253-67 et D. 253-68 du code de la sécurité sociale.
-
-Ces dispositions ne s'appliquent pas au directeur et à l'agent comptable de la Caisse autonome nationale pour les missions confiées à la Caisse des dépôts et consignations.
-
-L'intérim des fonctions d'agent comptable des organismes mentionnés à l'article 10 est assuré dans les conditions prévues par l'article D. 253-14 du code de la sécurité sociale.
+Il peut être mis fin, par le directeur général de la Caisse autonome nationale, aux fonctions des directeurs régionaux, pour un motif tiré de l'intérêt du service, après avis du conseil d'administration de la Caisse autonome nationale.

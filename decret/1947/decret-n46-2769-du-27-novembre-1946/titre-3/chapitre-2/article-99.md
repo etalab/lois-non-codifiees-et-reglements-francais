@@ -22,7 +22,9 @@ I.-Les ressources de la branche vieillesse et invalidité sont constituées par 
 
 10° Tous produits ou contributions prévus par des dispositions législatives ou réglementaires ;
 
-11° Le versement des cotisations dues au titre du risque vieillesse par les agents de la Caisse autonome nationale transférés à la Caisse des dépôts et consignations et par l'employeur conformément aux taux fixés, au titre de l'année 2008, en vertu de l'article R. 81 du code des pensions civiles et militaires de retraite.
+11° Le versement des cotisations dues au titre du risque vieillesse par les agents de la Caisse autonome nationale transférés à la Caisse des dépôts et consignations et par l'employeur conformément aux taux fixés, au titre de l'année 2008, en vertu de l'article R. 81 du code des pensions civiles et militaires de retraite ;
+
+12° Le remboursement des prêts accordés par la Caisse autonome nationale.
 
 II.-Les dépenses de la branche vieillesse et invalidité sont constituées par :
 

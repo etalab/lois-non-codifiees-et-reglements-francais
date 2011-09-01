@@ -14,21 +14,19 @@ I.-Les ressources de la branche maladie, maternité et congé de paternité et d
 
 6° Le remboursement par la Caisse nationale des allocations familiales des indemnités versées en application de l'article 197 bis ;
 
-7° abrogé.
+7° Le solde excédentaire de la section " maladie " du Fonds national d'action sanitaire et sociale ;
 
-8° Le solde excédentaire de la section " maladie " du Fonds national d'action sanitaire et sociale ;
+8° Le solde excédentaire du Fonds national de prévention et de promotion de la santé ;
 
-9° Le solde excédentaire du Fonds national de prévention et de promotion de la santé ;
+9° Les produits ou contributions en application des dispositions législatives et réglementaires ;
 
-10° abrogé.
-
-11° Les produits ou contributions en application des dispositions législatives et réglementaires.
+10° Le remboursement des prêts accordés par la Caisse autonome nationale.
 
 En outre, le conseil d'administration de la caisse autonome nationale affecte en tant que de besoin à la branche maladie, maternité et congé de paternité et décès tout ou partie du solde excédentaire du Fonds national de modernisation des oeuvres.
 
 II.-Les dépenses de la branche maladie, maternité et congé de paternité et décès sont constituées par :
 
-1° Les dépenses de prestations dues au titre de l'assurance maladie, maternité et congé de paternité et décès servies par les organismes locaux pour le compte de la Caisse autonome nationale ;
+1° Les dépenses de prestations dues au titre de l'assurance maladie, maternité et congé de paternité et décès servies par la Caisse autonome nationale ;
 
 2° Les dépenses de la Caisse autonome nationale au titre des prestations des assurances maladie, maternité et congé de paternité et décès versées à l'étranger ;
 

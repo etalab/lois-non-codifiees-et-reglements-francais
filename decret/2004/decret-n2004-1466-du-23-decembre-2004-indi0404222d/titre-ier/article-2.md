@@ -45,3 +45,5 @@ L'agence n'assure des obligations résultant des deux alinéas précédents qu'�
 L'agence succède aux employeurs dans les instances des organismes où ils étaient représentés, notamment, les organismes du régime de la sécurité sociale dans les mines et les institutions de retraites complémentaires, sous réserve du statut de ces organismes.
 
 Elle conserve les archives relatives aux anciens agents des mêmes entreprises.
+
+L'agence peut gérer l'action sanitaire et sociale mentionnée au 5° du I de l'article 15 du décret n° 46-2769 du 27 novembre 1946 portant organisation de la sécurité sociale dans les mines.

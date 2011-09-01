@@ -12,15 +12,15 @@ I.-Les ressources de la branche accidents du travail et maladies professionnelle
 
 5° Le solde excédentaire de la section " accidents du travail et maladies professionnelles " du Fonds national d'action sanitaire et sociale ;
 
-6° abrogé.
+6° Une fraction du solde excédentaire du Fonds national de prévention et de promotion de la santé ;
 
-7° Une fraction du solde excédentaire du Fonds national de prévention et de promotion de la santé ;
+7° Les produits ou contributions en application des dispositions législatives et réglementaires ;
 
-8° Les produits ou contributions en application des dispositions législatives et réglementaires.
+8° Le remboursement des prêts accordés par la Caisse autonome nationale.
 
 II.-Les dépenses de la branche accidents du travail et maladies professionnelles sont constituées par :
 
-1° Les prestations servies par les organismes locaux pour le compte de la Caisse autonome nationale et pour les dépenses de prévention ;
+1° Les prestations servies par la Caisse autonome nationale et pour les dépenses de prévention ;
 
 2° Les dépenses de la Caisse autonome nationale au titre des prestations de même nature versées à l'étranger ;
 

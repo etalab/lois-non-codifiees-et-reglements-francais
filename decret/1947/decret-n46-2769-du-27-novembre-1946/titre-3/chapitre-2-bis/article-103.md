@@ -8,8 +8,4 @@ I. - Les ressources du Fonds national de prévention et de promotion de la sant�
 
 3° Des dons et legs.
 
-II. - Les charges du Fonds national de prévention et de promotion de la santé sont constituées par :
-
-1° Des dotations aux organismes locaux pour le financement, dans le cadre de conventions, des actions de prévention menées en partenariat avec des structures de gestion agréées ou mises en oeuvre par les centres de santé ou dans le cadre du réseau de santé ;
-
-2° Les dépenses engagées par la Caisse autonome nationale dans le cadre d'actions visant la prévention ou la promotion de la santé.
+II. - Les charges du Fonds national de prévention et de promotion de la santé sont constituées par les dépenses engagées par la Caisse autonome nationale dans le cadre d'actions visant la prévention ou la promotion de la santé.

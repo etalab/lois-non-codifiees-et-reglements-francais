@@ -1,37 +1,67 @@
 # Article 15
 
-I.-La Caisse autonome nationale détermine la politique générale de la sécurité sociale dans les mines et elle représente son organisation auprès des pouvoirs publics.
+I.-La Caisse autonome nationale a pour mission de gérer le régime spécial de sécurité sociale dans les mines.
 
 Dans ce cadre :
 
-1° Elle assure au plan national le financement de la trésorerie des branches du régime minier : assurance maladie, maternité et congé de paternité, décès, accidents du travail et maladies professionnelles, vieillesse et invalidité ;
+1° Elle assure le financement de la trésorerie des branches du régime minier : assurance maladie, maternité et congé de paternité, décès, accidents du travail et maladies professionnelles, vieillesse et invalidité ;
 
-2° Elle centralise l'ensemble des opérations des organismes y compris pour les comptes de tiers et assure soit le transfert vers les organismes bénéficiaires, soit le règlement vers tous les organismes désignés à cet effet, conformément aux dispositions législatives et réglementaires en vigueur ;
+2° Elle veille à la mise en œuvre du contrôle médical dans le régime minier ;
 
-3° Elle passe des contrats pluriannuels de gestion avec les organismes locaux du régime minier et en assure le suivi ; à ce titre, elle approuve les budgets dans le cadre d'enveloppes pluriannuelles et exerce une mission de contrôle a posteriori ; les dispositions de l'article L. 224-13 du code de la sécurité sociale sont applicables ;
+3° Elle assure la gestion de l'assurance maladie, de l'assurance maternité et congé de paternité, de l'assurance décès, des accidents du travail et des maladies professionnelles et procède aux affiliations correspondantes ;
 
-4° Elle organise et dirige les systèmes d'information et met en oeuvre les technologies de l'information et de la communication dans l'ensemble du régime sauf pour la gestion de la branche vieillesse et invalidité ;
+4° Elle organise les systèmes d'information et met en œuvre les technologies de l'information et de la communication dans le régime sauf pour la gestion de la branche vieillesse et invalidité ;
 
-5° Elle promeut une politique de prévention des accidents du travail et des maladies professionnelles, d'information et d'éducation de nature à améliorer l'état de santé de ses ressortissants ;
+5° Elle détermine les orientations de la politique de prévention et d'action sanitaire et sociale et contrôle l'action exercée en ce domaine dans les conditions précisées au titre X ;
 
-6° Elle détermine les orientations de la politique de prévention et d'action sanitaire et sociale et peut exercer une action en ce domaine dans les conditions précisées au titre X ;
+6° Elle promeut une politique de prévention des accidents du travail et des maladies professionnelles, d'information et d'éducation de nature à améliorer l'état de santé de ses ressortissants ;
 
-7° Elle évalue et contrôle la politique des opérations immobilières des caisses du régime ;
+7° Elle organise la politique des opérations immobilières du régime ;
 
-8° Elle dirige, coordonne et contrôle l'ensemble des actions des organismes du régime minier, lesquels ont une obligation d'information envers elle ; les dispositions de l'article L. 224-11 du code de la sécurité sociale sont applicables ;
+8° Elle assure la gestion des œuvres, services et établissements sanitaires, médico-sociaux et sociaux.
 
-9° Elle peut conclure des accords avec des tiers en vue de l'acquisition aux meilleures conditions, par les organismes, de biens, fournitures et services ;
+Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes.
 
-10° Elle agrée les décisions des caisses régionales en matière de restructuration des oeuvres et des établissements sanitaires et sociaux.
+II.-Le conseil d'administration de la Caisse autonome nationale détermine :
 
-II.-La Caisse autonome nationale de la sécurité sociale dans les mines peut déléguer tout ou partie de ses compétences.
+1° Les orientations relatives à la mise en œuvre de la politique de santé ainsi qu'à l'organisation du système de soins et au bon usage de la prévention et des soins ;
 
-A ce titre :
+2° Les orientations de la politique de gestion du risque et les objectifs prévus pour sa mise en œuvre ;
 
-1° Elle veille à la mise en oeuvre des dispositions du contrôle médical dans le régime minier ;
+3° Les orientations de la politique de prévention et d'action sanitaire et sociale ;
 
-2° Elle assure la gestion de l'assurance maladie, de l'assurance maternité et congé de paternité, de l'assurance décès, des accidents du travail et des maladies professionnelles et procède aux affiliations correspondantes. Sur sa délégation, les organismes locaux du régime minier assurent l'organisation du service de ces prestations, conformément à un cahier des charges défini par elle et dans ce cadre elle peut autoriser la mise en place d'antennes locales ;
+4° Les budgets nationaux de gestion et d'intervention.
 
-3° Elle gère des établissements sanitaires et sociaux et des établissements de vacances et coordonne les actions menées en ce domaine par les organismes locaux du régime.
+Le conseil d'administration peut, par délibération motivée adoptée à la majorité des deux tiers de ses membres, diligenter tout contrôle nécessaire à l'exercice de ses missions.
 
-Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes. Dans les affaires relevant du risque vieillesse et invalidité de ce régime, le président de la Caisse autonome nationale peut déléguer au directeur général de la Caisse des dépôts et consignations, par mandat spécial ou général, les prérogatives qu'il tient de l'article R. 121-2 du code de la sécurité sociale.
+Le président du conseil d'administration représente la Caisse autonome nationale en justice et dans tous les actes de la vie civile. Il peut déléguer ses pouvoirs, par mandat spécial ou général, au directeur général de la Caisse autonome nationale ou, dans les affaires relevant de leur champ de compétences, aux directeurs régionaux mentionnés au IV. Dans les affaires relevant du risque vieillesse et invalidité de ce régime, le président du conseil d'administration de la Caisse autonome nationale peut également déléguer ses pouvoirs au directeur général de la Caisse des dépôts et consignations.
+
+III.-Le directeur général de la Caisse autonome nationale prépare les orientations et les budgets nationaux mentionnés au II en vue de leur approbation par le conseil d'administration. Le conseil d'administration peut, par délibération motivée, demander au directeur général un second projet relatif à l'orientation ou au budget proposé. Il ne peut s'opposer à ce second projet qu'à la majorité des deux tiers de ses membres.
+
+Le directeur général met en œuvre les orientations fixées par le conseil d'administration et le tient périodiquement informé. Le conseil d'administration formule, en tant que de besoin, les recommandations qu'il estime nécessaires pour leur aboutissement.
+
+Le directeur général dirige la Caisse autonome nationale et a autorité sur les caisses régionales mentionnées à l'article 10. A ce titre, il prend toutes décisions nécessaires et exerce toutes les compétences qui ne sont pas attribuées à une autre autorité.
+
+Il est notamment chargé pour ce qui concerne la gestion de la Caisse autonome nationale :
+
+1° De prendre toutes décisions et d'assurer toutes les opérations relatives à l'organisation et au fonctionnement de la caisse nationale, à sa gestion administrative, financière et immobilière et, dans le cadre de cette gestion, de contracter, le cas échéant, des emprunts ;
+
+2° D'établir et d'exécuter les budgets de gestion et d'intervention et les budgets des différents fonds, de conclure au nom de la caisse toute convention et d'en contrôler la bonne application ;
+
+3° De prendre les mesures nécessaires à l'organisation et au pilotage du réseau des services territoriaux ; il peut notamment définir les circonscriptions d'intervention de ces services après avis du conseil d'administration des caisses régionales concernées ;
+
+4° D'assurer pour les systèmes d'information les responsabilités prévues à l'article L. 161-28 du code de la sécurité sociale.
+
+Le directeur général a autorité sur le personnel, fixe l'organisation du travail dans les services et assure la discipline générale. Sous réserve de dispositions législatives ou réglementaires donnant compétence à une autre autorité, il prend toutes mesures individuelles concernant la gestion du personnel.
+
+Le directeur général signe les marchés, conventions et transactions au sens de l'article 2044 du code civil. Il est l'ordonnateur des dépenses et des recettes de la caisse et vise le compte financier. Il peut déléguer sa signature aux directeurs des caisses régionales.
+
+IV.-Les caisses régionales mentionnées à l'article 10 sont dirigées par des directeurs régionaux placés sous l'autorité du directeur général de la Caisse autonome nationale. Le directeur général de la Caisse autonome nationale anime un comité de direction composé notamment des directeurs des caisses régionales.
+
+Dans le cadre des orientations fixées par le directeur général de la Caisse autonome nationale, les directeurs régionaux sont responsables de l'organisation et du fonctionnement de leurs services, ont autorité sur le personnel qui y est affecté et assurent la discipline générale.
+
+Pour assurer le fonctionnement des caisses régionales de sécurité sociale dans les mines, le directeur général de la Caisse autonome nationale donne délégation de compétence aux directeurs régionaux qui peuvent, dans ce cadre, déléguer leur signature aux agents affectés à la caisse régionale.
+
+Le directeur général de la Caisse autonome nationale peut, en outre, charger un directeur régional de toute mission transversale qu'il jugerait utile.
+
+V.-L'agent comptable de la caisse autonome nationale peut donner délégation de pouvoirs aux agents comptables des caisses régionales maintenus en place.

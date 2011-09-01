@@ -12,12 +12,6 @@ II.-Les charges du Fonds national de gestion administrative sont constituées pa
 
 2° Le paiement des frais de fonctionnement et des dépenses en capital facturés par la Caisse des dépôts et consignations au vu du mandat de gestion ;
 
-3° Les dotations aux caisses régionales de la sécurité sociale au titre de leurs services administratifs ;
+3° Des dépenses d'intérêt national prises en charge par la Caisse autonome nationale à la demande de tiers, notamment les participations aux frais de fonctionnement d'autres organismes de protection sociale et conformément aux dispositions du présent décret ;
 
-4° La dotation à la Caisse autonome nationale au titre du contrôle médical ;
-
-5° Des dépenses d'intérêt national prises en charge par la Caisse autonome nationale à la demande de tiers, notamment les participations aux frais de fonctionnement d'autres organismes de protection sociale et conformément aux dispositions du présent décret ;
-
-6° Les charges de la Caisse autonome nationale au titre de la retraite anticipée versée au personnel des organismes locaux ainsi qu'au titre des avantages en nature dus, le cas échéant, à leurs anciens agents ;
-
-7° Les dotations destinées à couvrir les charges des organismes locaux au titre des aides à la conversion et des prestations de retraite anticipée demeurant à leur charge.
+4° Les charges de la Caisse autonome nationale au titre des aides à la conversion et des prestations de retraite anticipée versées à ses personnels ainsi qu'au titre des avantages en nature dus, le cas échéant, à ses anciens agents.
