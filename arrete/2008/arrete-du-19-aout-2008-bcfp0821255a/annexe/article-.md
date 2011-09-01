@@ -34,7 +34,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">Directeur divisionnaire.<br/>
+<td align="center">Administrateur des finances publiques adjoint.<br/>
 </td>
 <td align="center">7 %<br/>
 </td>
@@ -58,7 +58,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">Inspecteur départemental de 1re classe.<br/>
+<td align="center">Inspecteur divisionnaire des finances publiques hors classe.<br/>
 </td>
 <td align="center">12 %<br/>
 </td>
@@ -138,7 +138,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">Adjoints techniques des impôts de 1re classe. <br/>
+<td align="center">Agent technique des finances publiques de 1re classe. <br/>
 </td>
 <td align="center">66 %<br/>
 </td>
@@ -244,18 +244,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Corps des adjoints techniques relevant du décret n° 2006-1761 du 23 décembre 2006
-<br/>
+<td align="center">Corps des adjoints techniques relevant du décret n° 2006-1761 du 23 décembre 2006<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint technique principal du Trésor public de 2e classe.<br/>
+<td align="center">Agent technique principal des finances publiques de 2e classe.<br/>
 </td>
 <td align="center">55 %<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint technique du Trésor public de 1re classe.<br/>
+<td align="center">Agent technique des finances publiques de 1re classe.<br/>
 </td>
 <td align="center">66 %<br/>
 </td>
