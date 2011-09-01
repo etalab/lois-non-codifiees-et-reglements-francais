@@ -16,6 +16,7 @@
 - [Décret n°2011-815 du 6 juillet 2011 (DEVL1101034D)](decret-n2011-815-du-6-juillet-2011-devl1101034d)
 - [Décret n°2011-816 du 6 juillet 2011 (DEVL1113631D)](decret-n2011-816-du-6-juillet-2011-devl1113631d)
 - [Décret n°2011-817 du 6 juillet 2011 (JUST1105431D)](decret-n2011-817-du-6-juillet-2011-just1105431d)
+- [Décret n°82-1038 du 6 décembre 1982](decret-n82-1038-du-6-decembre-1982)
 - [Décret n°2011-818 du 7 juillet 2011 (MCCB1114439D)](decret-n2011-818-du-7-juillet-2011-mccb1114439d)
 - [Décret n°2011-822 du 7 juillet 2011 (ETST1112186D)](decret-n2011-822-du-7-juillet-2011-etst1112186d)
 - [Décret n°2011-825 du 7 juillet 2011 (MCCB1110522D)](decret-n2011-825-du-7-juillet-2011-mccb1110522d)
