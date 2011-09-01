@@ -38,25 +38,25 @@ Receveurs-percepteurs du Trésor public.
 
 _Commission administrative paritaire n° 6_
 
-Inspecteurs du Trésor public.
+Inspecteurs des finances publiques.
 
 _Commission administrative paritaire n° 7_
 
-Contrôleurs principaux du Trésor public.
+Contrôleurs principaux des finances publiques.
 
-Contrôleurs du Trésor public de 1re classe.
+Contrôleurs des finances publiques de 1re classe.
 
-Contrôleurs du Trésor public de 2e classe.
+Contrôleurs des finances publiques de 2e classe.
 
 _Commission administrative paritaire n° 8_
 
-Agents d'administration principaux du Trésor public de 1re classe.
+Agents administratifs principaux des finances de 1re classe.
 
-Agents d'administration principaux du Trésor public de 2e classe.
+Agents administratifs principaux des finances de 2e classe.
 
-Agents d'administration du Trésor public de 1re classe.
+Agents administratifs des finances publiques de 1re classe.
 
-Agents d'administration du Trésor public de 2e classe.
+Agents administratifs des finances publiques de 2e classe.
 
 _Commission administrative paritaire n° 9_
 
