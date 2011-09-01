@@ -142,7 +142,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td/>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er septembre 2011)</p>
 </td>
 <td/>
 </tr>
@@ -204,7 +204,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Pau (Bayonne). </p>
 </td>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er septembre 2011)</p>
 </td>
 <td/>
 </tr>
@@ -243,7 +243,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td> Emploi de responsable du contentieux </td>
+<td>Emploi de responsable du contentieux </td>
 <td/>
 </tr>
 <tr>
@@ -334,6 +334,18 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
+<td> DDPP 63 </td>
+<td> Emploi de responsable dans le domaine des fonctions supports. </td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td> DDCSPP 43 </td>
+<td> Encadrement.</td>
+<td/>
+</tr>
+<tr>
+<td/>
 <td>DIRECCTE Auvergne Pôle C</td>
 <td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
 <td/>
@@ -353,7 +365,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td> Encadrement </td>
+<td>Encadrement </td>
 <td/>
 </tr>
 <tr>
@@ -426,6 +438,12 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td>BIEV 69</td>
 <td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td> DDPP 71 </td>
+<td> Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché . </td>
 <td/>
 </tr>
 <tr>
@@ -525,7 +543,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td> Emploi d'expertise au titre des activités syndicales exercées </td>
+<td>Emploi d'expertise au titre des activités syndicales exercées </td>
 <td/>
 </tr>
 <tr>
@@ -612,6 +630,12 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td>DIRECCTE Centre Pôle C</td>
 <td>Emploi de responsable d'animation au niveau régional</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td> DDPP 37 </td>
+<td> Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché . </td>
 <td/>
 </tr>
 <tr>
@@ -728,6 +752,12 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td>DDCSPP 90</td>
 <td>Encadrement</td>
+<td/>
+</tr>
+<tr>
+<td/>
+<td> DIRECCTE Franche-Comté </td>
+<td> Emploi de responsable du contentieux. </td>
 <td/>
 </tr>
 <tr>
@@ -864,7 +894,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td/>
 <td>
-<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er septembre 2011)</p>
 </td>
 <td/>
 </tr>
@@ -1375,6 +1405,16 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>Encadrement</td>
 </tr>
 <tr>
+<td/>
+<td> DIRECCTE Midi-Pyrénées </td>
+<td> Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+</tr>
+<tr>
+<td/>
+<td> DDCSPP 47 </td>
+<td> Encadrement. </td>
+</tr>
+<tr>
 <td>
 <p>Nord. </p>
 </td>
@@ -1622,6 +1662,16 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs</td>
 </tr>
 <tr>
+<td/>
+<td>  DIRECCTE Provence-Alpes-Côte d'Azur </td>
+<td> Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence.</td>
+</tr>
+<tr>
+<td/>
+<td> DDPP 83 </td>
+<td> Encadrement. </td>
+</tr>
+<tr>
 <td>
 <p>Pays de la Loire. </p>
 </td>
@@ -1731,6 +1781,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>Encadrement</td>
 </tr>
 <tr>
+<td/>
+<td> DDPP 17 </td>
+<td> Encadrement. </td>
+</tr>
+<tr>
 <td>
 <p>Picardie. </p>
 </td>
@@ -1760,7 +1815,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td> Encadrement</td>
+<td>Encadrement</td>
 </tr>
 <tr>
 <td>
@@ -1969,7 +2024,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Valence. </p>
 </td>
 <td>
-<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 1er septembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -1995,6 +2050,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td>DIRECCTE Rhône-Alpes Pôle C</td>
 <td>Emploi d'expertise dans les enquêtes complexes de concurrence</td>
+</tr>
+<tr>
+<td/>
+<td> DDPP 69 </td>
+<td> Encadrement. </td>
 </tr>
 <tr>
 <td>
@@ -2046,6 +2106,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise en matière d'informatique. </p>
 </td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td> Emploi d'expertise en matière d'informatique.</td>
 </tr>
 <tr>
 <td>DGCCRF Services centraux</td>
@@ -2142,7 +2207,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td>SCN ENCCRF</td>
 <td>SCN ENCCRF 34 Perm</td>
-<td>Emploi d'expertise en matière de formation</td>
+<td>Emploi d'expertise en matière de formation (supprimé à compter du 1er septembre 2011) </td>
 </tr>
 <tr>
 <td>
