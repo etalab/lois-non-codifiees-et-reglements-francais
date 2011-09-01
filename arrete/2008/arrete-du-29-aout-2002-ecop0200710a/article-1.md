@@ -12,7 +12,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 </td>
 <td>
 <p align="center">
-<strong>FONCTIONNAIRES D'ADMINISTRATION CNETRALE</strong>
+<strong>FONCTIONNAIRES D'ADMINISTRATION CENTRALE</strong>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Techniciens  géomètres-cadastreurs des finances publiques. </td>
+<td>Techniciens géomètres-cadastreurs des finances publiques. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -189,11 +189,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Contrôleurs principaux des impôts. </td>
-<td>d° </td>
-</tr>
-<tr>
-<td>Contrôleurs principaux du Trésor public. </td>
+<td>Contrôleurs principaux des finances publiques. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -301,7 +297,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Inspecteurs du Trésor public. </td>
+<td>Inspecteurs des finances publiques. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -361,11 +357,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Inspecteurs départementaux de 3e classe des impôts. </td>
-<td>d° </td>
-</tr>
-<tr>
-<td>Inspecteurs départementaux de 2e classe des impôts. </td>
+<td>Inspecteurs divisionnaires des finances publiques de classe normale. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -377,11 +369,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Inspecteurs principaux des impôts de 2e classe. </td>
-<td>d° </td>
-</tr>
-<tr>
-<td>Inspecteurs principaux du Trésor public de 2e classe. </td>
+<td>Inspecteur principal des finances publiques. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -462,10 +450,6 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 </tr>
 <tr>
 <td>Inspecteurs principaux des douanes de 1re classe. </td>
-<td>d° </td>
-</tr>
-<tr>
-<td>Inspecteurs principaux des impôts de 1re classe. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -577,7 +561,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Receveurs des finances. </td>
+<td>Receveur des finances.</td>
 <td>d° </td>
 </tr>
 <tr>
