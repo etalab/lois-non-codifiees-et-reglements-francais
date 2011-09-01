@@ -19,3 +19,9 @@ Le formateur valide au fur et à mesure les compétences acquises par l'élève 
 Pendant la durée de la formation pratique embarquée, le port par l'élève d'un gilet de sauvetage ou d'une brassière conforme aux exigences du règlement annexé à l'arrêté du 23 novembre 1987 susvisé est obligatoire.
 
 L'établissement de formation agréé pour la formation à l'extension " grande plaisance eaux intérieures " est autorisé à effectuer des formations sur des bateaux de propriétaires privés. Dans ce cas, il doit déclarer au service qui l'a agréé la période et le lieu de cette formation et lui communiquer copie du titre de navigation du bateau utilisé.
+
+L'établissement de formation tient à jour un registre de bord pour chaque bateau de formation utilisé. Ce registre, paginé, daté et composé de feuillets non détachables est visé par le service instructeur préalablement à sa première utilisation. Il doit être à bord du bateau pendant la durée de la formation. L'établissement conserve ce registre à la disposition de l'administration pendant cinq années après la date de fin d'utilisation.
+
+Les informations devant obligatoirement figurer sur ce registre sont celles énumérées à l'article 3 du présent arrêté.
+
+Lorsque la formation pratique à l'extension "grande plaisance eaux intérieures" s'effectue sur le bateau d'un propriétaire privé, sont ajoutés à ces informations le nom du propriétaire, le nom ou la devise du bateau et son numéro d'immatriculation.

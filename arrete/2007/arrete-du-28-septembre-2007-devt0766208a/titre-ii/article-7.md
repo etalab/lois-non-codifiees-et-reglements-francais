@@ -10,7 +10,7 @@ b) Le bateau utilisé pour la formation pratique aux options " côtière " ou " 
 
 - avoir une longueur minimale de 5,50 mètres ;
 
-- être équipé d'un moteur d'une puissance motrice supérieure à 37 kilowatts ;
+- être équipé d'un moteur d'une puissance motrice supérieure à 37 kilowatts et d'un horamètre ;
 
 - être doté d'un système de commandes à distance ;
 
@@ -28,7 +28,9 @@ c) Le bateau utilisé pour la formation pratique à l'extension " grande plaisan
 
 - avoir une longueur égale ou supérieure à 20 mètres ;
 
-- avoir des caractéristiques techniques permettant la réalisation du programme de formation tel que défini à l'article 5 du présent arrêté.
+- avoir des caractéristiques techniques permettant la réalisation du programme de formation tel que défini à l'article 5 du présent arrêté ;
+
+- être équipé d'un horamètre.
 
 d) Le plan d'eau utilisé pour la formation à la pratique commune aux options " côtière " et " eaux intérieures " doit permettre la réalisation du programme de formation et de l'ensemble des manoeuvres prévues à l'article 3 du présent arrêté. Le service instructeur vérifie si le plan d'eau choisi permet l'accomplissement de l'ensemble de la formation pratique.
 
