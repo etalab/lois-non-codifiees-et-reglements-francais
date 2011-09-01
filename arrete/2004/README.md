@@ -119,7 +119,6 @@
 - [Arrêté du 6 août 2004 (SANP0422958A)](arrete-du-6-aout-2004-sanp0422958a)
 - [Arrêté du 6 août 2004 (SOCF0411631A)](arrete-du-6-aout-2004-socf0411631a)
 - [Arrêté du 6 décembre 2003 (SOCT0311946A)](arrete-du-6-decembre-2003-soct0311946a)
-- [Arrêté du 6 décembre 2004 (EQUA0401619A)](arrete-du-6-decembre-2004-equa0401619a)
 - [Arrêté du 6 décembre 2004 (FPPA0410102A)](arrete-du-6-decembre-2004-fppa0410102a)
 - [Arrêté du 6 décembre 2004 (MJSK0470239A)](arrete-du-6-decembre-2004-mjsk0470239a)
 - [Arrêté du 6 février 2004 (SANS0420658A)](arrete-du-6-fevrier-2004-sans0420658a)
