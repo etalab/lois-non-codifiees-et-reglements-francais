@@ -1,6 +1,6 @@
 # Article 1
 
-Le recrutement des agents d'administration du Trésor public de 1re classe, des agents administratifs des impôts de 1re classe, des agents de constatation des douanes de 1re classe et des adjoints de contrôle de la concurrence, de la consommation et de la répression des fraudes de 1re classe a lieu par la voie de concours ouverts à titre externe et interne selon des modalités communes définies au présent arrêté.
+Le recrutement des agents administratifs des finances publiques de 1re classe, des agents de constatation des douanes de 1re classe et des adjoints de contrôle de la concurrence, de la consommation et de la répression des fraudes de 1re classe a lieu par la voie de concours ouverts à titre externe et interne selon des modalités communes définies au présent arrêté.
 
 Ces concours nationaux peuvent être ouverts avec affectation régionale.
 

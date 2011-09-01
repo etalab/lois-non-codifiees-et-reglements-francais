@@ -4,9 +4,7 @@ Chaque concours, externe et interne, comporte deux branches :
 
 Une branche administrative, qui permet l'accès aux corps suivants :
 
-― agents d'administration du Trésor public de la direction générale de la comptabilité publique ;
-
-― agents administratifs des impôts de la direction générale des impôts ;
+― agents administratifs des finances publiques ;
 
 ― agents de constatation des douanes de la branche opérations commerciales ;
 

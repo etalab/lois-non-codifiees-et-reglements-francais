@@ -167,7 +167,7 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="center">3</p>
 </td>
 <td valign="top" width="240">
-<p>Agents administratifs principaux des impôts de 1re classe</p>
+<p>Agents administratifs principaux des finances publiques de 1re classe</p>
 </td>
 <td width="69">
 <p align="center">1 à 2 (*)</p>
@@ -184,7 +184,7 @@ La composition des commissions administratives paritaires visées à l'article 1
 </tr>
 <tr>
 <td valign="top" width="240">
-<p>Agents administratifs principaux des impôts de 2e classe</p>
+<p>Agents administratifs principaux des finances publiques de 2e classe</p>
 </td>
 <td width="69">
 <p align="center">1 à 2 (*)</p>
@@ -201,7 +201,7 @@ La composition des commissions administratives paritaires visées à l'article 1
 </tr>
 <tr>
 <td valign="top" width="240">
-<p>Agents administratifs des impôts de 1re classe</p>
+<p>Agents administratifs des finances publiques de 1re classe</p>
 </td>
 <td width="69">
 <p align="center">1 à 2 (*)</p>
@@ -218,7 +218,7 @@ La composition des commissions administratives paritaires visées à l'article 1
 </tr>
 <tr>
 <td valign="top" width="240">
-<p>Agents administratifs des impôts de 2e classe</p>
+<p>Agents administratifs des finances publiques de 2e classe</p>
 </td>
 <td width="69">
 <p align="center">1 à 2 (*)</p>

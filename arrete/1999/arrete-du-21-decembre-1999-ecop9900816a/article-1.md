@@ -16,10 +16,10 @@ Contrôleurs de 2e classe.
 
 Commission administrative paritaire n° 3
 
-Agents administratifs principaux des impôts de 1re classe.
+Agents administratifs principaux des finances publiques de 1re classe.
 
-Agents administratifs principaux des impôts de 2e classe.
+Agents administratifs principaux des finances publiques de 2e classe.
 
-Agents administratifs des impôts de 1re classe.
+Agents administratifs des finances publiques de 1re classe.
 
-Agents administratifs des impôts de 2e classe
+Agents administratifs des finances publiques de 2e classe

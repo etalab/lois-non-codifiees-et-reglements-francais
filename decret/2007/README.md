@@ -249,7 +249,6 @@
 - [Décret n°2007-531 du 6 avril 2007 (AGRM0700443D)](decret-n2007-531-du-6-avril-2007-agrm0700443d)
 - [Décret n°2007-532 du 6 avril 2007 (MCCB0700252D)](decret-n2007-532-du-6-avril-2007-mccb0700252d)
 - [Décret n°2007-533 du 6 avril 2007 (DEVN0710016D)](decret-n2007-533-du-6-avril-2007-devn0710016d)
-- [Décret n°50-213 du 6 février 1950](decret-n50-213-du-6-fevrier-1950)
 - [Décret n°88-646 du 6 mai 1988 (RESM8800453D)](decret-n88-646-du-6-mai-1988-resm8800453d)
 - [Décret n°98-347 du 6 mai 1998 (ECOP9800091D)](decret-n98-347-du-6-mai-1998-ecop9800091d)
 - [Décret n° 2007-170 du 7 février 2007 (INDI0709647D)](decret-n-2007-170-du-7-fevrier-2007-indi0709647d)

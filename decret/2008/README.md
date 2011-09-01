@@ -798,7 +798,6 @@
 - [Décret n°2008-994 du 22 septembre 2008 (IOCB0819307D)](decret-n2008-994-du-22-septembre-2008-iocb0819307d)
 - [Décret n°2008-995 du 22 septembre 2008 (AGRF0811074D)](decret-n2008-995-du-22-septembre-2008-agrf0811074d)
 - [Décret n°2009-454 du 22 avril 2009 (DEVA0901439D)](decret-n2009-454-du-22-avril-2009-deva0901439d)
-- [Décret n°68-464 du 22 mai 1968](decret-n68-464-du-22-mai-1968)
 - [Décret n°2008-482 du 22 mai 2008 (ECEL0808089D)](decret-n2008-482-du-22-mai-2008-ecel0808089d)
 - [Décret n°2008-483 du 22 mai 2008 (JUSB0810265D)](decret-n2008-483-du-22-mai-2008-jusb0810265d)
 - [Décret n°2008-484 du 22 mai 2008 (JUSC0802578D)](decret-n2008-484-du-22-mai-2008-jusc0802578d)
