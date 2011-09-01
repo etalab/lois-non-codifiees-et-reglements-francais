@@ -143,7 +143,6 @@
 - [Décret n°2007-510 du 4 avril 2007 (MCCB0700270D)](decret-n2007-510-du-4-avril-2007-mccb0700270d)
 - [Décret n°2007-515 du 4 avril 2007 (BUDF0720517D)](decret-n2007-515-du-4-avril-2007-budf0720517d)
 - [Décret n°2007-520 du 4 avril 2007 (DEVN0710006D)](decret-n2007-520-du-4-avril-2007-devn0710006d)
-- [Décret n°2008-896 du 4 septembre 2008 (DEVA0771502D)](decret-n2008-896-du-4-septembre-2008-deva0771502d)
 - [Décret n°98-153 du 4 mars 1998 (ECOT9840386D)](decret-n98-153-du-4-mars-1998-ecot9840386d)
 - [Décret n°2007-677 du 4 mai 2007 (DEFH0752505D)](decret-n2007-677-du-4-mai-2007-defh0752505d)
 - [Décret n°2007-678 du 4 mai 2007 (DEFD0752061D)](decret-n2007-678-du-4-mai-2007-defd0752061d)

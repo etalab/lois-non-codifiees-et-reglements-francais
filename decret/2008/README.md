@@ -710,7 +710,6 @@
 - [Décret n°2008-805 du 20 août 2008 (SJSH0800943D)](decret-n2008-805-du-20-aout-2008-sjsh0800943d)
 - [Décret n°2008-806 du 20 août 2008 (SJSH0816392D)](decret-n2008-806-du-20-aout-2008-sjsh0816392d)
 - [Décret n°87-31 du 20 janvier 1987](decret-n87-31-du-20-janvier-1987)
-- [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
 - [Décret n°98-941 du 20 octobre 1998 (EQUP9801318D)](decret-n98-941-du-20-octobre-1998-equp9801318d)
 - [Décret n°2008-470 du 20 mai 2008 (AGRP0802248D)](decret-n2008-470-du-20-mai-2008-agrp0802248d)
 - [Décret n°2008-479 du 20 mai 2008 (JUSC0806841D)](decret-n2008-479-du-20-mai-2008-jusc0806841d)

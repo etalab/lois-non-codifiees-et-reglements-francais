@@ -165,7 +165,6 @@
 - [Décret n°2001-832 du 12 septembre 2001 (MESK0110899D)](decret-n2001-832-du-12-septembre-2001-mesk0110899d)
 - [Décret n°2001-834 du 12 septembre 2001 (PRMG0170638D)](decret-n2001-834-du-12-septembre-2001-prmg0170638d)
 - [Décret n°2001-835 du 12 septembre 2001 (PRMG0170639D)](decret-n2001-835-du-12-septembre-2001-prmg0170639d)
-- [Décret n°2001-848 du 12 septembre 2001 (MENF0101771D)](decret-n2001-848-du-12-septembre-2001-menf0101771d)
 - [Décret n°2001-853 du 12 septembre 2001 (EQUU0101221D)](decret-n2001-853-du-12-septembre-2001-equu0101221d)
 - [Décret n°2001-934 du 12 octobre 2001 (ECOT0137007D)](decret-n2001-934-du-12-octobre-2001-ecot0137007d)
 - [Décret n°2001-936 du 12 octobre 2001 (MCCB0100556D)](decret-n2001-936-du-12-octobre-2001-mccb0100556d)

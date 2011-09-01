@@ -433,7 +433,6 @@
 - [Arrêté du 23 septembre 1987 (BUDR8703116A)](arrete-du-23-septembre-1987-budr8703116a)
 - [Arrêté du 23 septembre 1987 (MERI8700143A)](arrete-du-23-septembre-1987-meri8700143a)
 - [Arrêté du 24 août 1987 (MERG8700124A)](arrete-du-24-aout-1987-merg8700124a)
-- [Arrêté du 24 août 1987 (RESY8700558A)](arrete-du-24-aout-1987-resy8700558a)
 - [Arrêté du 24 août 1987 (RESY8700559A)](arrete-du-24-aout-1987-resy8700559a)
 - [Arrêté du 24 avril 1987 (AGRP8700870A)](arrete-du-24-avril-1987-agrp8700870a)
 - [Arrêté du 24 avril 1987 (ECOT8710017A)](arrete-du-24-avril-1987-ecot8710017a)

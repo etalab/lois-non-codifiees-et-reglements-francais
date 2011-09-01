@@ -635,7 +635,6 @@
 - [Décret n°92-458 du 22 mai 1992 (BUDF9220498D)](decret-n92-458-du-22-mai-1992-budf9220498d)
 - [Décret n°92-459 du 22 mai 1992 (LOGC9200009D)](decret-n92-459-du-22-mai-1992-logc9200009d)
 - [Décret n°92-462 du 22 mai 1992 (SANH9201000D)](decret-n92-462-du-22-mai-1992-sanh9201000d)
-- [Décret n°88-1059 du 23 novembre 1988 (TRSA8800577D)](decret-n88-1059-du-23-novembre-1988-trsa8800577d)
 - [Décret n°91-730 du 23 juillet 1991 (TEFT9103792D)](decret-n91-730-du-23-juillet-1991-teft9103792d)
 - [Décret n°91-986 du 23 septembre 1991 (INDD9100641D)](decret-n91-986-du-23-septembre-1991-indd9100641d)
 - [Décret n°92-1015 du 23 septembre 1992 (SPSS9202118D)](decret-n92-1015-du-23-septembre-1992-spss9202118d)

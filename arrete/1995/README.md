@@ -308,7 +308,6 @@
 - [Arrêté du 8 mars 1995 (INDP9500312A)](arrete-du-8-mars-1995-indp9500312a)
 - [Arrêté du 8 mars 1995 (MCCK9500101A)](arrete-du-8-mars-1995-mcck9500101a)
 - [Arrêté du 8 mars 1995 (RESM9500383A)](arrete-du-8-mars-1995-resm9500383a)
-- [Arrêté du 8 mars 1995 (RESM9500384A)](arrete-du-8-mars-1995-resm9500384a)
 - [Arrêté du 8 septembre 1994 (AGRG9401745A)](arrete-du-8-septembre-1994-agrg9401745a)
 - [Arrêté du 8 septembre 1995 (AGRS9501835A)](arrete-du-8-septembre-1995-agrs9501835a)
 - [Arrêté du 8 septembre 1995 (ECOS9550028A)](arrete-du-8-septembre-1995-ecos9550028a)
