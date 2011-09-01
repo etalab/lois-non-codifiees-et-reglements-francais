@@ -1,6 +1,6 @@
 # Article 15
 
-I. - Les pièges des catégories 2 et 5 de l'article 2 ci-dessus ne peuvent être tendus à moins de 200 m des habitations des tiers et à moins de 50 m des routes et chemins ouverts au public.
+I. - Les pièges de la catégorie 2 de l'article 2 ci-dessus ne peuvent être tendus à moins de 200 mètres des habitations des tiers et à moins de 50 mètres des routes et chemins ouverts au public.
 
 II. - L'utilisation en coulée des pièges de catégorie 2 est interdite.
 
