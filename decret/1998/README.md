@@ -514,7 +514,6 @@
 - [Décret n°98-194 du 20 mars 1998 (MESG9810118D)](decret-n98-194-du-20-mars-1998-mesg9810118d)
 - [Décret n°98-195 du 20 mars 1998 (INTC9800073D)](decret-n98-195-du-20-mars-1998-intc9800073d)
 - [Décret n°98-196 du 20 mars 1998 (AGRS9800164D)](decret-n98-196-du-20-mars-1998-agrs9800164d)
-- [Décret n°98-203 du 20 mars 1998 (DEFP9702238D)](decret-n98-203-du-20-mars-1998-defp9702238d)
 - [Décret n°98-205 du 20 mars 1998 (DEFP9702240D)](decret-n98-205-du-20-mars-1998-defp9702240d)
 - [Décret n°98-298 du 20 avril 1998 (INTE9800092D)](decret-n98-298-du-20-avril-1998-inte9800092d)
 - [Décret n°98-310 du 20 avril 1998 (MESP9820900D)](decret-n98-310-du-20-avril-1998-mesp9820900d)

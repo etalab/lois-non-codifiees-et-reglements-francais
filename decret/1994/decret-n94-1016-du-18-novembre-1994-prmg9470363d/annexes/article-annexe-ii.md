@@ -6,8 +6,6 @@ Techniciens de l'environnement.
 
 Techniciens de laboratoire.
 
-Techniciens du ministère de la défense.
-
 Contrôleurs des travaux publics de l'Etat.
 
 Techniciens de l'éducation nationale.
