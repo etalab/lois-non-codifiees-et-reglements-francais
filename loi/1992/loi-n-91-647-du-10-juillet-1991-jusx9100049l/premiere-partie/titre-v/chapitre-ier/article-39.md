@@ -7,3 +7,5 @@ Dans le cas où le bénéficiaire de l'aide juridictionnelle renonce à poursuiv
 Lorsque l'aide a été accordée en vue de parvenir à une transaction avant l'introduction de l'instance et qu'une transaction n'a pu être conclue, le versement de la rétribution due à l'avocat, dont le montant est fixé par décret en Conseil d'Etat, est subordonné à la justification, avant l'expiration du délai de six mois qui suit la décision d'admission, de l'importance et du sérieux des diligences accomplies par ce professionnel.
 
 Lorsqu'une instance est engagée après l'échec de pourparlers transactionnels, la rétribution versée à l'avocat à raison des diligences accomplies durant ces pourparlers s'impute, dans des conditions fixées par décret en Conseil d'Etat, sur celle qui lui est due pour l'instance.
+
+Les modalités de rétribution des auxiliaires de justice prévues par les alinéas précédents en matière de transaction s'appliquent également en cas de procédure participative prévue par le code civil, dans des conditions fixées par décret en Conseil d'Etat.
