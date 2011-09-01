@@ -20,135 +20,35 @@
 </td>
 </tr>
 <tr>
-<td rowspan="10" valign="top">
-<p align="center">DGI</p>
+<td valign="top">
+<p align="center">DGFiP</p>
 </td>
 <td valign="top">
-<p>Responsable d'un service déconcentré </p>
+<p>Administrateur général des finances publiques<br/>
+<br/>Administrateur des finances publiques<br/>
+<br/>Administrateur des finances publiques adjoint<br/>
+<br/>Inspecteur principal des finances publiques<br/>
+<br/>Inspecteur divisionnaire des finances publiques<br/>
+<br/>Inspecteur des finances publiques, responsable d'un poste comptable ou chef de service<br/>
+<br/>Conservateur des hypothèques<br/>
+<br/>Chef des services fiscaux Directeur départemental des impôts<br/>
+<br/>Trésorier-payeur général<br/>
+<br/>Receveur des finances de 1re catégorie<br/>
+<br/>Chef des services du Trésor public</p>
 </td>
 <td valign="top">
-<p>Vérificateur </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable d'un service à compétence nationale et assistant </p>
-</td>
-<td valign="top">
-<p>Inspecteur des brigades de contrôle et de recherche </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable d'un centre des impôts et adjoint (A 2e niveau) </p>
-</td>
-<td valign="top">
-<p>Agent des brigades de contrôle et de recherche (B ou C) </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable d'une recette principale ou d'une recette divisionnaires et adjoint de catégorie A 2e niveau) </p>
-</td>
-<td rowspan="7" valign="top">
-<p>Chargés de mission d'enseignement des établissements nationaux de formation</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable d'un centre des impôts fonciers (A 1er et 2e niveaux) </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Conservateur des hypothèques et adjoint (A 2e niveau) </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable de division dans des services déconcentrés ou des services à compétence nationale </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable d'une section dans les services centraux et adjoint (A 2e niveau) </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de brigade </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Inspecteur principal des services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="8" valign="top">
-<p align="center">DGCP</p>
-</td>
-<td valign="top">
-<p>Receveur des finances </p>
-</td>
-<td valign="top">
-<p>Assistants de vérification </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Directeur départemental </p>
-</td>
-<td valign="top">
-<p>Huissiers du Trésor public </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Inspecteur principal </p>
-</td>
-<td valign="top">
-<p>Agents enquêteurs </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de poste </p>
-</td>
-<td valign="top">
-<p>Producteurs CNP </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de division </p>
-</td>
-<td valign="top">
-<p>Chargés de micro-informatique et bureautique </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de service </p>
-</td>
-<td valign="top">
-<p>Chargés de mission </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Adjoint au chef de poste </p>
-</td>
-<td valign="top">
-<p>Personnels des centres de contrôle de la redevance </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Chef de secteur (administration centrale)</p>
-</td>
-<td valign="top">
-<p>Contrôleurs commissionnés</p>
+<p>Inspecteur vérificateur<br/>
+<br/>Agent (inspecteur, B ou C) des brigades de contrôle et de recherche<br/>
+<br/>Inspecteur en administration centrale<br/>
+<br/>Agent (inspecteur ou B) chargé des fonctions d'huissier<br/>
+<br/>Assistant auditeur<br/>
+<br/>Agent enquêteur (B ou C)<br/>
+<br/>Agent (inspecteur, B ou C) des services de contrôle de la redevance audiovisuelle<br/>
+<br/>Contrôleur commissionné<br/>
+<br/>Agent (inspecteur, B ou C) des équipes mobiles de renfort<br/>
+<br/>Chargé d'enseignement auprès des établissements nationaux de formation<br/>
+<br/>Chargé de l'assistance informatique<br/>
+<br/>Chargé de mission</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +196,9 @@
 <td valign="top">
 <p>Responsables de services déconcentrés (direction nationale, régionale, départementale ou laboratoire) et leurs adjoints </p>
 </td>
-<td rowspan="2" valign="top"/>
+<td rowspan="2" valign="top">
+<br/>
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -320,7 +222,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top">
+<td rowspan="6" valign="top">
 <p align="center">DARPMI (DRIRE)</p>
 </td>
 <td valign="top">
@@ -331,14 +233,11 @@
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td rowspan="6" valign="top">
-<p>Cadre fonctionnel en division ou en bureau national et au secrétariat général</p>
-</td>
-</tr>
-<tr>
 <td valign="top">
 <p>Chef de division et adjoints </p>
+</td>
+<td rowspan="5">
+<br/>
 </td>
 </tr>
 <tr>

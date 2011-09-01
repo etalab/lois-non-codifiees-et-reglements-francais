@@ -1,0 +1,3 @@
+# Article 19
+
+L'arrêté du 26 janvier 1971 relatif aux conditions d'application du décret n° 56-585 du 12 juin 1956 modifié aux enseignements et aux jurys de concours ou d'examens organisés dans le cadre du ministère de l'équipement et du logement, l'arrêté du 26 janvier 1971 fixant les conditions d'application du décret n° 56-585 du 12 juin 1956 modifié aux enseignements et aux jurys de concours ou d'examens organisés dans le cadre de l'Institut géographique national et l'arrêté du 28 mai 1999 relatif à la rétribution des agents de l'Etat ou des personnels non fonctionnaires chargés des fonctions d'enseignement à titre d'occupation accessoire à l'Ecole nationale des ponts et chaussées sont abrogés.

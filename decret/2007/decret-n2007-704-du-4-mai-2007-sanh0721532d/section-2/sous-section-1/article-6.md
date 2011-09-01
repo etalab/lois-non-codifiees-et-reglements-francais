@@ -28,7 +28,7 @@ Chacun d'eux peut se faire accompagner par une personne de ses services.
 
 4° Sept membres représentant les personnels gérés par le centre :
 
-a) Quatre membres représentant les organisations syndicales des praticiens hospitaliers ;
+a) Quatre membres proposés par les quatre organisations syndicales les plus représentatives des praticiens hospitaliers et des personnels enseignants et hospitaliers titulaires, à raison d'un représentant chacune ;
 
 b) Trois membres proposés par les trois organisations syndicales les plus représentatives des personnels de direction et des directeurs des soins, à raison d'un représentant chacune ;
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Les intervenants participant à titre d'activité accessoire à des activités de formation au sein des établissements publics relevant du ministre chargé de l'enseignement supérieur, à des activités de fonctionnement de jurys de concours nationaux d'agrégation de l'enseignement supérieur et de jurys de concours d'entrée aux écoles, de jurys d'examens, hors troisième cycle de médecine, pharmacie et odontologie, ou de jurys de validation des acquis de l'expérience, conduisant à la délivrance de diplômes, de titres ou de certifications professionnelles, relevant du ministre chargé de l'enseignement supérieur, sont rémunérées dans les conditions fixées aux articles suivants.

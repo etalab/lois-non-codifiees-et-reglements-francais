@@ -1,0 +1,3 @@
+# Article 8
+
+La participation au fonctionnement des jurys d'examens et de concours visée dans le présent arrêté recouvre notamment les activités de préparation des sujets, de participation aux réunions de cadrage de l'activité du jury, d'examen des dossiers de présélection, d'admissibilité et d'admission (y compris les dossiers soumis au titre de la reconnaissance des acquis de l'expérience professionnelle), de participation aux instances délivrant des autorisations à concourir, de correction de copies, de participation aux épreuves orales et de participation aux réunions d'admissibilité et d'admission. Ces activités peuvent être exercées en tant que président de jury, membre de jury ou examinateur spécialisé.

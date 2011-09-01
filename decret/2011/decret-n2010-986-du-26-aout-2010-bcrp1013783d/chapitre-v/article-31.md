@@ -1,0 +1,7 @@
+# Article 31
+
+A la date d'entrée en vigueur du présent décret, les receveurs des finances, les directeurs départementaux du Trésor public et les directeurs divisionnaires des impôts sont reclassés dans le grade d'administrateur des finances publiques adjoint à l'échelon de ce grade comportant un indice égal ou à défaut immédiatement supérieur à celui détenu dans leur grade d'origine. Les directeurs départementaux du Trésor public et les directeurs divisionnaires des impôts conservent l'ancienneté acquise dans l'échelon de leur ancien grade dans la limite de la durée de l'échelon d'accueil. Les receveurs des finances conservent trois cinquièmes de l'ancienneté acquise dans leur grade dans la limite de la durée de l'échelon d'accueil.
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas aux directeurs départementaux du Trésor public détachés, à la date d'entrée en vigueur du présent décret, dans un emploi de chef des services du Trésor public régi par le décret n° 95-870 du 2 août 1995 susvisé.
+
+Les inspecteurs départementaux de 1re classe, les receveurs des finances et les trésoriers principaux de 1re catégorie qui détenaient antérieurement respectivement le grade de directeur divisionnaire des impôts ou de directeur départemental du Trésor public sont reclassés dans le grade d'administrateur des finances publiques adjoint en fonctions de l'échelon et du rang qui auraient été les leurs s'ils n'avaient pas cessé d'appartenir au grade de directeur divisionnaire des impôts ou de directeur départemental du Trésor public.

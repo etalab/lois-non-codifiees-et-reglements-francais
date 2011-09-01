@@ -1128,82 +1128,6 @@
 <p>A compter du 1er août 1996</p>
 </td>
 </tr>
-<tr>
-<td valign="top" width="331">
-<p>Assistant ingénieur</p>
-</td>
-<td valign="top" width="113">
-<p align="center">366 - 660</p>
-<p align="center">(250)(280)(300)(330)</p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er janvier 1997</p>
-<p>Echelons provisoires</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Technicien</p>
-<p>classe exceptionnelle</p>
-<p>classe supérieure</p>
-<p>classe normale</p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">425 - 612</p>
-<p align="center">384 - 579</p>
-<p align="center">306 - 544</p>
-<p align="center">(250)(280)</p>
-</td>
-<td valign="top" width="279">
-<p>A compter du 1er août 1994</p>
-<p>A compter du 1er août 1995</p>
-<p>A compter du 1er août 1995</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Adjoint technique principal de recherche et de formation</p>
-<p>1ère classe</p>
-<p>2e classe</p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">E 6</p>
-<p align="center">E 5</p>
-</td>
-<td valign="top" width="279">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Adjoint technique de recherche et de formation</p>
-<p>1ère classe</p>
-<p>2e classe</p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">E 4</p>
-<p align="center">E 3</p>
-</td>
-<td valign="top" width="279"/>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Chargé d'administration de la recherche</p>
-<p>1èreclasse</p>
-<p>2e classe</p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">616 - 841</p>
-<p align="center">457 - 721</p>
-</td>
-<td valign="top" width="279">
-<p>en extinction D.2002-136</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table>
@@ -1251,21 +1175,6 @@
 <p>A compter du 1er août 1995</p>
 <p>A compter du 1er août 1993</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Secrétaire d'administration de recherche et de formation</p>
-<p>classe exceptionnelle</p>
-<p>classe supérieure</p>
-<p>classe normale</p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">425 - 612</p>
-<p align="center">399- 579</p>
-<p align="center">306 - 544</p>
-</td>
-<td valign="top" width="279"/>
 </tr>
 <tr>
 <td valign="top" width="331">

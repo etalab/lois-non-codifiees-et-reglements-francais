@@ -1,0 +1,3 @@
+# Article 25
+
+Les tableaux d'avancement établis, au choix, au titre de l'année 2011 pour l'accès aux grades d'agent administratif des impôts de 1re classe, d'agent administratif principal des impôts de 2e classe, d'agent administratif principal des impôts de 1re classe, d'agent d'administration du Trésor public de 1re classe, d'agent d'administration principal du Trésor public de 2e classe et d'agent d'administration principal du Trésor public de 1re classe demeurent valables jusqu'au 31 décembre 2011 pour l'accès aux grades d'agent administratif des finances publiques de 1re classe, d'agent administratif principal des finances publiques de 2e classe et d'agent administratif principal des finances publiques de 1re classe.

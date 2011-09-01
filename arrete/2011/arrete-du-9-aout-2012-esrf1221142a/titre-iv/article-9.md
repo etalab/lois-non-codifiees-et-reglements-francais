@@ -1,0 +1,3 @@
+# Article 9
+
+Les montants de rémunération des activités accessoires de fonctionnement de jurys d'examens ou de jurys de validation des acquis de l'expérience conduisant à la délivrance de diplômes, de titres ou de certifications professionnelles, dont les membres sont nommés par le ministre chargé de l'enseignement supérieur ou par délégation par le recteur d'académie, hors diplômes délivrés par les établissements d'enseignement supérieur privés et consulaires, sont fixés en fonction du niveau de recrutement des concours et examens ou du niveau du public destinataire conformément aux articles 9 et 10 du présent arrêté.

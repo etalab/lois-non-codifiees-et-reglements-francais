@@ -1,0 +1,3 @@
+# Article 6
+
+Les montants de rémunération des activités accessoires de fonctionnement de jurys de concours d'entrée aux écoles, de jurys d'examens ou de jurys de validation des acquis de l'expérience conduisant à la délivrance de diplômes, de titres ou de certifications professionnelles organisés par des établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur sont fixés en fonction du niveau de recrutement des concours et examens ou du niveau du public destinataire, par délibération du conseil d'administration de l'établissement, à l'intérieur des limites fixées aux articles 6 et 7 du présent arrêté.

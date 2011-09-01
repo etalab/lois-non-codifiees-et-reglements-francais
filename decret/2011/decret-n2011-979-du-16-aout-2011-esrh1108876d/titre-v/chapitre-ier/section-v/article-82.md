@@ -1,0 +1,5 @@
+# Article 82
+
+Les tableaux d'avancement aux grades d'adjoint technique de laboratoire de 1re classe, d'adjoint technique principal de laboratoire de 2e classe et d'adjoint technique principal de laboratoire de 1re classe, établis au titre de l'année où est prononcée l'intégration dans le corps des adjoints techniques de recherche et de formation, demeurent valables jusqu'au 31 décembre de ladite année, au titre du corps d'intégration.
+
+Les agents promus en application de l'alinéa précédent postérieurement à la date d'entrée en vigueur du présent décret sont classés dans les grades d'avancement du corps des adjoints techniques de recherche et de formation en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien corps jusqu'à la date de leur promotion, puis promus dans les grades d'avancement de ce corps en application des dispositions du décret n° 2006-1762 du 23 décembre 2006 susvisé, et enfin reclassés à cette même date dans le corps d'intégration.

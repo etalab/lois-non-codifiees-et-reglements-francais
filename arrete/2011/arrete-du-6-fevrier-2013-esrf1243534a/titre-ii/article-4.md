@@ -1,0 +1,5 @@
+# Article 4
+
+Les montants de rémunération des activités de formation organisées par l'Institut national de la santé et de la recherche médicale, effectuées à titre d'activité accessoire, sont fixés par délibération du conseil d'administration de l'établissement en fonction du niveau du public destinataire, du niveau d'expertise de l'intervenant et de la difficulté et de la rareté de la matière dans le cycle et la session de formation concernés, à l'intérieur des limites fixées pour chaque type de formation par l'article 2 de l'arrêté du 9 août 2012 fixant la rémunération des intervenants participant à titre d'activité accessoire à des activités de formation et de fonctionnement de jurys relevant du ministre chargé de l'enseignement supérieur.
+
+Les montants prévus pour les conférences exceptionnelles ne peuvent être versés qu'aux personnalités ne relevant pas du ministère chargé de l'enseignement supérieur et de la recherche et de ses établissements publics, reconnues en raison de leur expertise qui se caractérise, notamment, par leur rayonnement au niveau national ou international, leur notoriété ou leurs publications.

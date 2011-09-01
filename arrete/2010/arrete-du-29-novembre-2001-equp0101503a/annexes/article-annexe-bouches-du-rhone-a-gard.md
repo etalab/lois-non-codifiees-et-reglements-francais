@@ -272,7 +272,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 <p align="center">1</p>
 </td>
 <td>
-<p align="center"> 20 points</p>
+<p align="center">20 points</p>
 </td>
 </tr>
 <tr>
@@ -301,6 +301,110 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 </td>
 <td rowspan="2">
 <p align="center">10 points</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU CALVADOS
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>FONCTIONS EXERCÉES <br/>
+</th>
+<th>
+<br/>NIVEAU <br/>
+<br/>de qualification <br/>
+<br/>de l'emploi <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>(IM) par emploi <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable délégation territoriale Sud Pays d'Auge en charge du renouvellement urbain de Lisieux au bureau de pilotage du réseau territorial <br/>
+</td>
+<td align="center">
+<br/>A <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 points <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable de l'unité rénovation urbaine au service habitat rénovation urbaine <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 points <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DU CALVADOS
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>FONCTIONS EXERCÉES <br/>
+</th>
+<th>
+<br/>NIVEAU <br/>
+<br/>de qualification <br/>
+<br/>de l'emploi <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>(IM) par emploi <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Responsable de l'unité traitement des situations individuelles <br/>
+</td>
+<td align="center">
+<br/>A <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 points <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Gestionnaire au sein de la CDAPL, chargé de la présidence de la CDAPL en cas d'absence du titulaire <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>10 points<br/>
 </td>
 </tr>
 </tbody>
