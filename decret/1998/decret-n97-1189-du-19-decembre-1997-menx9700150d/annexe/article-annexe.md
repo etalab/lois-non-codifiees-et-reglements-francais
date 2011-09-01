@@ -111,7 +111,7 @@ Décret n° 92-276 du 26 mars 1992 relatif aux groupements d'intérêt public d�
 <p>Nomination des agents comptables des mêmes groupements d'intérêt public (décision prise conjointement avec le ministre chargé du budget).</p>
 </td>
 <td valign="top" width="189">
-<p>Article 16. </p>
+<p>Article 16.</p>
 </td>
 </tr>
 </tbody>
@@ -142,7 +142,7 @@ Décret n° 85-605 du 13 juin 1985 relatif aux groupements d'intérêt public co
 <p>Nomination des agents comptables des mêmes groupements d'intérêt public (décision prise conjointement avec le ministre chargé du budget).</p>
 </td>
 <td valign="top" width="189">
-<p>Article 8.</p>
+<p>Article 8. </p>
 </td>
 </tr>
 </tbody>
@@ -159,7 +159,7 @@ Décret n° 83-204 du 15 mars 1983 relatif aux groupements d'intérêt public d�
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Approbation du contrat constitutif des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national (décision prise conjointement avec le ministre chargé du budget). </p>
+<p>Approbation du contrat constitutif des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national (décision prise conjointement avec le ministre chargé du budget).</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 1er et 2. </p>
@@ -177,10 +177,10 @@ Décret n° 93-773 du 27 mars 1993 pris pour l'application de l'article 6 de la 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Agrément pour l'utilisation d'organismes génétiquement modifiés, après avis de la Commission de génie génétique (décision prise conjointement avec le ministre chargé de l'environnement). </p>
+<p>Agrément pour l'utilisation d'organismes génétiquement modifiés, après avis de la Commission de génie génétique (décision prise conjointement avec le ministre chargé de l'environnement).</p>
 </td>
 <td valign="top" width="189">
-<p>Article 1er. </p>
+<p>Article 1er.</p>
 </td>
 </tr>
 </tbody>
@@ -197,22 +197,18 @@ Décret n° 2009-643 du 9 juin 2009 relatif aux autorisations délivrées en app
 <br/>
 </td>
 <td valign="top" width="416">
-<p>Autorisation d'opération spatiale. </p>
+<p>Autorisation d'opération spatiale.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
 <br/>
 </td>
 <td valign="top" width="416">
-<p>Suspension ou retrait d'autorisation d'opération spatiale. </p>
+<p>Suspension ou retrait d'autorisation d'opération spatiale.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 </tbody>
 </table>
@@ -246,7 +242,7 @@ Décret n° 76-47 du 12 janvier 1976 modifié portant institution du certificat 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Fixation de la liste des établissements publics d'enseignement habilités à dispenser la formation d'éducateur technique spécialisé. </p>
+<p>Fixation de la liste des établissements publics d'enseignement habilités à dispenser la formation d'éducateur technique spécialisé.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 3. </p>
@@ -300,10 +296,10 @@ Décret n° 92-1200 du 6 novembre 1992 relatif aux relations du ministère charg
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Agrément des associations éducatives complémentaires de l'enseignement public à caractère national. </p>
+<p>Agrément des associations éducatives complémentaires de l'enseignement public à caractère national.</p>
 </td>
 <td valign="top" width="189">
-<p>Articles 4 et 5.</p>
+<p>Articles 4 et 5. </p>
 </td>
 </tr>
 </tbody>
@@ -318,7 +314,7 @@ Arrêté du 3 novembre 1986 modifié relatif au concours général des lycées
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions d'attribution des récompenses du concours général. </p>
+<p>Décisions d'attribution des récompenses du concours général.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 3 (10). </p>
@@ -336,7 +332,7 @@ Arrêté du 6 janvier 1995 modifié relatif au concours général des métiers
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions d'attribution des récompenses du concours général des métiers. </p>
+<p>Décisions d'attribution des récompenses du concours général des métiers.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 3 (8). </p>
@@ -365,11 +361,9 @@ Arrêté du 13 octobre 1995 portant création du diplôme de compétence en lang
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions de règlement amiable des demandes en indemnités mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence des services extérieurs et portant sur un montant égal ou supérieur à 50 000 F. </p>
+<p>Décisions de règlement amiable des demandes en indemnités mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence des services extérieurs et portant sur un montant égal ou supérieur à 50 000 F.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 </tbody>
 </table>
@@ -383,7 +377,7 @@ Code de l'éducation.
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Délivrance du diplôme professionnel "un des meilleurs ouvriers de France". </p>
+<p>Délivrance du diplôme professionnel "un des meilleurs ouvriers de France".</p>
 <p>Délivrance du titre de "un des meilleurs ouvriers de France" honoris causa.</p>
 </td>
 <td valign="top" width="189">
@@ -404,7 +398,7 @@ Code de la sécurité sociale
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Habilitation des mutuelles ou sections de mutuelles d'étudiants à assurer le service des prestations d'assurance maladie-maternité des étudiants. </p>
+<p>Habilitation des mutuelles ou sections de mutuelles d'étudiants à assurer le service des prestations d'assurance maladie-maternité des étudiants.</p>
 </td>
 <td valign="top" width="189">
 <p>Article R. 381-29. </p>
@@ -422,7 +416,7 @@ Décret n° 72-1025 du 8 novembre 1972 modifié relatif au titre de maître ès 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions d'attribution du titre de maître ès sciences médicales. </p>
+<p>Décisions d'attribution du titre de maître ès sciences médicales.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 1er. </p>
@@ -440,7 +434,7 @@ Décret n° 78-1111 du 22 novembre 1978 relatif aux concours généraux ouverts 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions relatives à l'inscription des candidats, au choix des sujets et à l'attribution des prix et mentions honorables aux lauréats.</p>
+<p>Décisions relatives à l'inscription des candidats, au choix des sujets et à l'attribution des prix et mentions honorables aux lauréats. </p>
 </td>
 <td valign="top" width="189">
 <p>Articles 1er, 2, 7 et 10. </p>
@@ -458,7 +452,7 @@ Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du cod
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, dispenses de la première année d'études médicales pour les étudiants ayant accompli avec succès une première année d'études médicales à l'étranger et figurant en rang utile sur la liste de classement établie à l'issue des épreuves de fin de 1re année d'études médicales en France. </p>
+<p>Jusqu'au 31 décembre 1998, dispenses de la première année d'études médicales pour les étudiants ayant accompli avec succès une première année d'études médicales à l'étranger et figurant en rang utile sur la liste de classement établie à l'issue des épreuves de fin de 1re année d'études médicales en France.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 3 (1°) et 10. </p>
@@ -480,7 +474,7 @@ Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du cod
 <p align="center">3</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'acquisition du diplôme d'Etat de docteur en chirurgie dentaire, pour les étudiants justifiant d'une ou plusieurs années d'études médicales ou odontologiques accomplies à l'étranger ou d'un diplôme de chirurgien-dentiste délivré à l'étranger. </p>
+<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'acquisition du diplôme d'Etat de docteur en chirurgie dentaire, pour les étudiants justifiant d'une ou plusieurs années d'études médicales ou odontologiques accomplies à l'étranger ou d'un diplôme de chirurgien-dentiste délivré à l'étranger.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 4 et 10. </p>
@@ -491,7 +485,7 @@ Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du cod
 <p align="center">4</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de sage-femme, pour les personnes titulaires d'un diplôme étranger de sage-femme. </p>
+<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de sage-femme, pour les personnes titulaires d'un diplôme étranger de sage-femme.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 9 et 10. </p>
@@ -502,7 +496,7 @@ Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du cod
 <p align="center">5</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention médecine, en diplôme d'Etat de docteur en médecine. </p>
+<p>Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention médecine, en diplôme d'Etat de docteur en médecine.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 6 et 10. </p>
@@ -513,7 +507,7 @@ Décret n° 84-177 du 2 mars 1984 portant application de l'article L. 358 du cod
 <p align="center">6</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention chirurgie dentaire, en diplôme d'Etat de docteur en chirurgie dentaire. </p>
+<p>Jusqu'au 31 décembre 1998, autorisation de transformer un diplôme de docteur d'une université française, mention chirurgie dentaire, en diplôme d'Etat de docteur en chirurgie dentaire.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 7 et 10. </p>
@@ -531,7 +525,7 @@ Décret n° 85-605 du 13 juin 1985 relatif aux groupements d'intérêt public co
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public comprenant des établissements publics à caractère scientifique, culturel et professionnel et dont les attributions ou les activités ne s'exercent pas au plan national. </p>
+<p>Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public comprenant des établissements publics à caractère scientifique, culturel et professionnel et dont les attributions ou les activités ne s'exercent pas au plan national.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 6. </p>
@@ -549,7 +543,7 @@ Décret n° 89-684 du 18 septembre 1989 portant création du diplôme d'Etat de 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Agrément des cycles de formation au diplôme d'Etat de psychologie scolaire organisés dans le cadre des instituts universitaires de formation des maîtres. </p>
+<p>Agrément des cycles de formation au diplôme d'Etat de psychologie scolaire organisés dans le cadre des instituts universitaires de formation des maîtres.</p>
 </td>
 <td valign="top" width="189">
 <p>Articles 1er et 2. </p>
@@ -567,7 +561,7 @@ Décret n° 90-255 du 22 mars 1990 fixant la liste des diplômes permettant de f
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Reconnaissance, sur demande individuelle des titulaires, de l'équivalence de diplômes étrangers aux diplômes français permettant l'exercice de la profession de psychologue. </p>
+<p>Reconnaissance, sur demande individuelle des titulaires, de l'équivalence de diplômes étrangers aux diplômes français permettant l'exercice de la profession de psychologue.</p>
 </td>
 <td valign="top" width="189">
 <p>3e alinéa de l'article 1er. </p>
@@ -585,10 +579,10 @@ Décret n° 91-291 du 20 mars 1991 portant création du diplôme d'Etat de conse
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Agrément des établissements habilités à dispenser une formation en vue de la préparation au diplôme d'Etat de conseiller d'orientation-psychologue. </p>
+<p>Agrément des établissements habilités à dispenser une formation en vue de la préparation au diplôme d'Etat de conseiller d'orientation-psychologue.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 2. </p>
+<p>Article 2.</p>
 </td>
 </tr>
 </tbody>
@@ -603,7 +597,7 @@ Arrêté du 4 octobre 1988 relatif à l'obtention du diplôme d'Etat de docteur 
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de docteur en pharmacie, pour les étudiants justifiant d'une ou plusieurs années d'études pharmaceutiques accomplies à l'étranger ou d'un diplôme de pharmacien délivré à l'étranger. </p>
+<p>Jusqu'au 31 décembre 1998, dispenses partielles d'études, en vue de l'obtention du diplôme d'Etat de docteur en pharmacie, pour les étudiants justifiant d'une ou plusieurs années d'études pharmaceutiques accomplies à l'étranger ou d'un diplôme de pharmacien délivré à l'étranger.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 2. </p>
@@ -621,7 +615,7 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Agrément des plans de formation des instituts universitaires de formation des maîtres. </p>
+<p>Agrément des plans de formation des instituts universitaires de formation des maîtres.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 1er. </p>
@@ -632,11 +626,9 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Nomination des directeurs et des présidents non élus d'établissement d'enseignement supérieur public en application des textes réglementaires fixant les statuts de ces établissements.</p>
+<p>Nomination des directeurs et des présidents non élus d'établissement d'enseignement supérieur public en application des textes réglementaires fixant les statuts de ces établissements. </p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -645,9 +637,7 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <td valign="top" width="416">
 <p>Nomination des membres non élus des conseils des établissements d'enseignement supérieur public n'ayant pas le statut d'établissement public national à caractère administratif, en application des textes réglementaires fixant les statuts de ces établissements.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -656,20 +646,16 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <td valign="top" width="416">
 <p>Nomination des personnalités appelées à siéger dans les organes délibérants des grands établissements d'enseignement supérieur et des établissements publics nationaux à caractère administratif sans mission d'enseignement, en application des textes réglementaires fixant les statuts de ces établissements.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
 <p align="center">4</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions administratives individuelles relatives aux concours ou examens nationaux des grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, à l'exclusion de l'inscription des candidats aux concours, en application des textes réglementaires fixant les statuts de ces écoles. </p>
+<p>Décisions administratives individuelles relatives aux concours ou examens nationaux des grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, à l'exclusion de l'inscription des candidats aux concours, en application des textes réglementaires fixant les statuts de ces écoles.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -678,8 +664,24 @@ Arrêté du 2 juillet 1991 relatif au contenu et à la validation des formations
 <td valign="top" width="416">
 <p>Jusqu'au 31 décembre 1998, inscription des candidats aux concours d'accès aux grandes écoles placées sous le contrôle du ministre chargé de l'enseignement supérieur, en application des textes réglementaires fixant les statuts de ces écoles.</p>
 </td>
+<td valign="top" width="189"/>
+</tr>
+</tbody>
+</table>
+
+Décret n° 2011-995 du 23 août 2011 relatif au diplôme supérieur d'arts appliqués
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="76">
+<p align="center">1</p>
+</td>
+<td valign="top" width="416">
+<p>Autorisation d'ouverture des formations conduisant aux diplômes supérieurs d'arts appliqués.</p>
+</td>
 <td valign="top" width="189">
-<br/>
+<p>Article 3</p>
 </td>
 </tr>
 </tbody>
@@ -699,7 +701,7 @@ Décret n° 71-742 du 6 septembre 1971 et décret n° 74-899 du 17 octobre 1974 
 <p>Attribution du titre de docteur honoris causa.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 3 (décret de 1971).</p>
+<p>Article 3 (décret de 1971). </p>
 <p>Article 1er (décret de 1974).</p>
 </td>
 </tr>
@@ -715,7 +717,7 @@ Décret n° 83-204 du 15 mars 1983 relatif aux groupements d'intérêt public d�
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national. </p>
+<p>Nomination des commissaires du Gouvernement auprès des groupements d'intérêt public définis à l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France et dont les attributions ou les activités ne s'exercent pas au plan national.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 3. </p>
@@ -733,7 +735,7 @@ Décret n° 85-402 du 3 avril 1985 modifié relatif aux allocations de recherche
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions d'attribution d'allocations de recherche et de bourses d'information scientifique et technique. </p>
+<p>Décisions d'attribution d'allocations de recherche et de bourses d'information scientifique et technique.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 7 du décret. </p>
@@ -754,7 +756,7 @@ Code des marchés publics
 <p align="center">1</p>
 </td>
 <td valign="top" width="416">
-<p>Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics. </p>
+<p>Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics.</p>
 </td>
 <td valign="top" width="189">
 <p>Article 42. </p>
@@ -785,9 +787,7 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <td valign="top" width="416">
 <p>Décisions de règlement amiable des demandes d'indemnité mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence de l'administration centrale.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -796,9 +796,7 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <td valign="top" width="416">
 <p>Décisions à caractère financier prises pour l'exécution des décisions de justice, pour les litiges relevant de la compétence de l'administration centrale.</p>
 </td>
-<td valign="top" width="189">
-<br/>
-</td>
+<td valign="top" width="189"/>
 </tr>
 <tr>
 <td valign="top" width="76">
