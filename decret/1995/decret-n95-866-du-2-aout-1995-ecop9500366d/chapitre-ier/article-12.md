@@ -1,3 +1,0 @@
-# Article 12
-
-Les inspecteurs-élèves sont astreints à rester au service de l'Etat pendant une période minimum de huit ans, la durée d'enseignement théorique prévue à l'alinéa premier de l'article 14 ci-dessous ne pouvant être prise en compte au titre de cette période que pour sa durée normale. En cas de manquement à cette obligation plus de trois mois après la date d'installation en qualité d'inspecteur-élève, les intéressés doivent, sauf si le manquement ne leur est pas imputable, verser au Trésor une indemnité égale au traitement et à l'indemnité de résidence perçus en qualité d'inspecteur-élève ainsi qu'aux dépenses de toute nature résultant de la période d'enseignement théorique. Le montant de cette indemnité est fixé par arrêté du ministre chargé du budget.

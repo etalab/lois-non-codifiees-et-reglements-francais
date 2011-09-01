@@ -1,6 +1,6 @@
 # Article 1
 
-L'examen professionnel prévu aux articles 1er et 2 du décret du 20 mai 2009 susvisé pour l'accès au grade d'inspecteur du Trésor public ou d'inspecteur des impôts comporte l'épreuve écrite d'admissibilité et l'épreuve orale d'admission suivantes :
+L'examen professionnel prévu aux articles 1er et 2 du décret du 20 mai 2009 susvisé pour l'accès au grade d'inspecteur des finances publiques ou d'inspecteur des impôts comporte l'épreuve écrite d'admissibilité et l'épreuve orale d'admission suivantes :
 
 I. ― Epreuve écrite d'admissibilité (durée : quatre heures ; coefficient 5) :
 
@@ -8,7 +8,7 @@ Etude d'un dossier contenant des documents en rapport avec les métiers de la di
 
 L'épreuve consiste en la réponse à plusieurs questions en lien direct avec les documents.
 
-Trois sujets au choix sont proposés au candidat : « métiers de la gestion publique », « métiers de la fiscalité », « métiers transversaux ».
+Trois sujets au choix sont proposés au candidat : métiers de la gestion publique , métiers de la fiscalité , métiers transversaux .
 
 Le candidat effectue, le jour de l'épreuve, le choix du sujet sur lequel il souhaite composer.
 

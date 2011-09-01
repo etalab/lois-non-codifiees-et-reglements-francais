@@ -4,7 +4,7 @@ Les destinataires de ces informations sont :
 
 les agents habilités du poste comptable du Trésor compétent territorialement pour le recouvrement des taxes d'urbanisme ;
 
-le receveur des finances et le trésorier-payeur général, en leur qualité de supérieur hiérarchique ;
+l'administrateur des finances publiques adjoint et le trésorier-payeur général, en leur qualité de supérieur hiérarchique ;
 
 les collectivités locales bénéficiaires des produits recouvrés, dans les cas visés à l'article L. 133 du livre des procédures fiscales, pour les seuls nom du redevable, numéro de dossier et montant acquitté ;
 

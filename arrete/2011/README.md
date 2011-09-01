@@ -1525,6 +1525,7 @@
 - [Arrêté du 24 mai 2011 (MENE1114358A)](arrete-du-24-mai-2011-mene1114358a)
 - [Arrêté du 24 mai 2011 (MENE1114370A)](arrete-du-24-mai-2011-mene1114370a)
 - [Arrêté du 24 mai 2011 (SCSA1101781A)](arrete-du-24-mai-2011-scsa1101781a)
+- [Arrêté du 25 août 2004 (ECOP0400666A)](arrete-du-25-aout-2004-ecop0400666a)
 - [Arrêté du 25 août 2011 (AGRG1121044A)](arrete-du-25-aout-2011-agrg1121044a)
 - [Arrêté du 25 août 2011 (IOCC1122837A)](arrete-du-25-aout-2011-iocc1122837a)
 - [Arrêté du 25 février 2011 (AGRT1105602A)](arrete-du-25-fevrier-2011-agrt1105602a)

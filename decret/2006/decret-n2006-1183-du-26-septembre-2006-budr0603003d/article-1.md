@@ -80,25 +80,25 @@ Traitement attaché à l'indice le plus élevé afférent à l'emploi de chef de
 
 Autres recettes des finances :
 
-Traitement attaché à l'indice le plus élevé afférent au grade de receveur des finances
+Traitement attaché à l'indice le plus élevé afférent au grade d'administrateur des finances publiques adjoint
 
 4
 
 Autres trésoreries principales :
 
-Traitement attaché à l'indice le plus élevé afférent au grade de trésorier principal du Trésor public de 1re catégorie
+Traitement attaché à l'indice le plus élevé afférent au grade d'inspecteur divisionnaire des finances publiques hors classe
 
 4
 
 Recettes-perceptions :
 
-Traitement à l'indice le plus élevé afférent au grade de receveur-percepteur du Trésor public
+Traitement à l'indice le plus élevé afférent au grade d'inspecteur divisionnaire des finances publiques de classe normale
 
 4
 
 Perceptions :
 
-Traitement attaché à l'indice le plus élevé afférent au grade d'inspecteur du Trésor public
+Traitement attaché à l'indice le plus élevé afférent au grade d'inspecteur des finances publiques
 
 3
 

@@ -1,12 +1,12 @@
 # Article 
 
 <div align="center">
-<b> 					RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP) (1)</b>
+<b>RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP) (1)</b>
 </div>
 
 Examen professionnel d'accès au grade
 
-d'inspecteur du Trésor public ou d'inspecteur des impôts
+d'inspecteur des finances publiques ou d'inspecteur des impôts
 
 Identification du candidat :
 
@@ -45,5 +45,5 @@ Déclaration sur l'honneur.
 Accusé de réception.
 
 <font color="#808080" size="1">
-<i> (1) Le dossier de RAEP et le guide d'aide au remplissage sont disponibles sur le site intranet de la direction générale des finances publiques. </i>
+<i>(1) Le dossier de RAEP et le guide d'aide au remplissage sont disponibles sur le site intranet de la direction générale des finances publiques. </i>
 </font>

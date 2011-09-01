@@ -652,7 +652,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Trésorier principal du Trésor public </p>
+<p>Inspecteur divisionnaire des finances publiques de classe normale</p>
 </td>
 <td valign="top" width="113">
 <p align="center">901 </p>
@@ -670,7 +670,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Receveur des finances </p>
+<p>Administrateur des finances publiques adjoint </p>
 </td>
 <td valign="top" width="113">
 <p align="center">901 </p>
@@ -679,7 +679,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Receveur percepteur du Trésor public </p>
+<p>Inspecteur divisionnaire des finances publiques de classe normale</p>
 </td>
 <td valign="top" width="113">
 <p align="center">780-821 </p>
@@ -688,7 +688,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur départemental du Trésor public </p>
+<p>Administrateur des finances publiques adjoint </p>
 </td>
 <td valign="top" width="113">
 <p align="center">759-985 </p>
@@ -926,7 +926,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur divisionnaire </p>
+<p>Administrateur des finances publiques adjoint </p>
 </td>
 <td valign="top" width="113">
 <p align="center">759-985 </p>

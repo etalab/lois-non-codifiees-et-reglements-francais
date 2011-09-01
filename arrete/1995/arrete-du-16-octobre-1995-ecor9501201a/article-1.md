@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des titres ou diplômes prévus à l'article 7 (1°) du décret du 2 août 1995 susvisé pour l'accès au concours externe pour l'emploi d'inspecteur du Trésor public est fixée comme suit :
+La liste des titres ou diplômes prévus à l'article 7 (1°) du décret du 2 août 1995 susvisé pour l'accès au concours externe pour l'emploi d'inspecteur des finances publiques est fixée comme suit :
 
 -diplôme national sanctionnant un troisième cycle d'études supérieures ;
 
@@ -14,7 +14,9 @@ La liste des titres ou diplômes prévus à l'article 7 (1°) du décret du 2 ao
 
 -diplôme de l'Ecole nationale de la statistique et de l'analyse de l'information ;
 
--diplôme délivré par les instituts universitaires de formation des maîtres ;-diplôme d'un établissement reconnu par l'Etat autorisé à délivrer un diplôme visé du ministre de l'éducation nationale ou du ministre de l'enseignement supérieur et de la recherche en application de l'arrêté du 15 février 1921 modifié ;
+-diplôme délivré par les instituts universitaires de formation des maîtres ;
+
+-diplôme d'un établissement reconnu par l'Etat autorisé à délivrer un diplôme visé du ministre de l'éducation nationale ou du ministre de l'enseignement supérieur et de la recherche en application de l'arrêté du 15 février 1921 modifié ;
 
 -diplôme d'ingénieur délivré par une école ou un institut habilité par la commission des titres d'ingénieurs en application de l'article 11 de la loi du 10 juillet 1934 modifiée.
 

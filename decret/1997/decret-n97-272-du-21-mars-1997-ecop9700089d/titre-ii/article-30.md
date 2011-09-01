@@ -37,7 +37,7 @@ Pour l'application des dispositions de l'article L. 16 du code des pensions civi
 <p align="center">Directeur adjoint des services du Trésor hors métropole</p>
 </td>
 <td width="302">
-<p align="center">Directeur départemental du Trésor public</p>
+<p align="center">Administrateur des finances publiques adjoint </p>
 </td>
 </tr>
 <tr>

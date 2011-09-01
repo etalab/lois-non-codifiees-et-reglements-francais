@@ -1,258 +1,255 @@
 # Article 2
 
-<div>
-<br/>L'échelonnement indiciaire applicable au corps de catégorie A relevant du décret n° 95-869 du 2 août 1995 susvisé est fixé ainsi qu'il suit :<br/>
+L'échelonnement indiciaire applicable au corps de catégorie A relevant du décret n° 95-869 du 2 août 1995 susvisé est fixé ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<th>GRADES ET ÉCHELONS<br/>
+</th>
+<th>INDICES BRUTS<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Trésorier principal du Trésor public de 1re catégorie</td>
+<td align="center">Inspecteur divisionnaire des finances publiques hors classe<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon unique</td>
-<td align="center">
-<br/>985</td>
+<td align="center">Echelon unique<br/>
+</td>
+<td align="center">985<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Trésorier principal du Trésor public</td>
+<td align="center">Inspecteur divisionnaire des finances publiques de classe normale</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon unique</td>
-<td align="center">
-<br/>901</td>
+<td align="center">Echelon unique<br/>
+</td>
+<td align="center">901<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Receveur des finances de 1re catégorie</td>
+<td align="center">Receveur des finances de 1re catégorie<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon unique</td>
-<td align="center">
-<br/>985</td>
+<td align="center">Echelon unique<br/>
+</td>
+<td align="center">985<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Receveur des finances</td>
+<td align="center">Administrateur des finances publiques adjoint</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Echelon unique</td>
-<td align="center">
-<br/>901</td>
+<td align="center">Echelon unique<br/>
+</td>
+<td align="center">901<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Receveur-percepteur du Trésor public</td>
+<td align="center">Inspecteur divisionnaire des finances publiques de classe normale</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>821</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">821<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>780</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">780<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Directeur départemental du Trésor public</td>
+<td align="center">Administrateur des finances publiques adjoint <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>985</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">985<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>940</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">940<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>875</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">875<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>821</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">821<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>759</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">759<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Inspecteur principal du Trésor public de 1re classe</td>
+<td align="center">Inspecteur principal des finances publiques <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>966</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">966<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>916</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">916<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>864</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">864<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Inspecteur principal du Trésor public de 2e classe</td>
+<td align="center">Inspecteur principal des finances publiques <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>821</td>
+<td align="center">7e échelon<br/>
+</td>
+<td align="center">821<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>759</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">759<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>705</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">705<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>660</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">660<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>603</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">603<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>572</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">572<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>538</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">538<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Inspecteur</td>
+<td align="center">Inspecteur<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>12e échelon</td>
-<td align="center">
-<br/>801</td>
+<td align="center">12e échelon<br/>
+</td>
+<td align="center">801<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon</td>
-<td align="center">
-<br/>759</td>
+<td align="center">11e échelon<br/>
+</td>
+<td align="center">759<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon</td>
-<td align="center">
-<br/>703</td>
+<td align="center">10e échelon<br/>
+</td>
+<td align="center">703<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon</td>
-<td align="center">
-<br/>653</td>
+<td align="center">9e échelon<br/>
+</td>
+<td align="center">653<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon</td>
-<td align="center">
-<br/>625</td>
+<td align="center">8e échelon<br/>
+</td>
+<td align="center">625<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon</td>
-<td align="center">
-<br/>588</td>
+<td align="center">7e échelon<br/>
+</td>
+<td align="center">588<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon</td>
-<td align="center">
-<br/>542</td>
+<td align="center">6e échelon<br/>
+</td>
+<td align="center">542<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>500</td>
+<td align="center">5e échelon<br/>
+</td>
+<td align="center">500<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>466</td>
+<td align="center">4e échelon<br/>
+</td>
+<td align="center">466<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>442</td>
+<td align="center">3e échelon<br/>
+</td>
+<td align="center">442<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>423</td>
+<td align="center">2e échelon<br/>
+</td>
+<td align="center">423<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>379</td>
+<td align="center">1er échelon<br/>
+</td>
+<td align="center">379<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Inspecteur stagiaire</td>
-<td align="center">
-<br/>340</td>
+<td align="center">Inspecteur stagiaire<br/>
+</td>
+<td align="center">340<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

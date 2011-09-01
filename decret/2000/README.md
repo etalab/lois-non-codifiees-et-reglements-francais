@@ -59,6 +59,7 @@
 - [Décret n°2000-908 du 19 septembre 2000 (ATET0080025D)](decret-n2000-908-du-19-septembre-2000-atet0080025d)
 - [Décret n°2000-909 du 19 septembre 2000 (ATET0080026D)](decret-n2000-909-du-19-septembre-2000-atet0080026d)
 - [Décret n°2000-933 du 19 septembre 2000 (ECOI0000333D)](decret-n2000-933-du-19-septembre-2000-ecoi0000333d)
+- [Décret n°2000-1029 du 20 octobre 2000 (ECOP0000926D)](decret-n2000-1029-du-20-octobre-2000-ecop0000926d)
 - [Décret n°2000-45 du 20 janvier 2000 (FPPA9910021D)](decret-n2000-45-du-20-janvier-2000-fppa9910021d)
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)
 - [Décret n°2003-770 du 20 août 2003 (SOCO0310798D)](decret-n2003-770-du-20-aout-2003-soco0310798d)
