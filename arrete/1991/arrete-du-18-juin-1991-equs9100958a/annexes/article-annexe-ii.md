@@ -12,7 +12,7 @@ Le procès-verbal se présente sous la forme d'un document de format utile de 21
 
 Les informations figurant sur le procès-verbal sont de deux types : les inscriptions fixes communes à tous les rapports, et les informations variables relatives à chaque contrôle effectué.
 
-Le graphisme du procès-verbal est conforme à celui du fac-similé disponible sur le site internet de l'organisme technique central. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
+Le procès-verbal reprend les informations prévues à la présente annexe. Le graphisme du procès-verbal est conforme à celui du fac-similé disponible sur le site internet de l'organisme technique central. Toutefois, chaque réseau peut utiliser pour son impression les couleurs qui lui sont propres.
 
 Il est impératif de faire figurer sur le procès-verbal le sigle du réseau dans les couleurs de son choix à un emplacement n'affectant pas la lisibilité du document.
 
@@ -52,9 +52,9 @@ Le papier utilisé est de couleur blanche et son grammage est au minimum de 80 g
 
 -" CV Taxi " ;
 
--" VP Tourisme avec chauffeur" (2) ;
+-" VP Tourisme avec chauffeur " ;
 
--" CV Tourisme avec chauffeur" (2) ;
+-" CV Tourisme avec chauffeur " ;
 
 -" VP VLTP " ;
 
@@ -88,6 +88,8 @@ La date du contrôle ;
 
 -" Contrôles du lambda, du CO ralenti et du CO ralenti accéléré réalisés selon une méthode spécifique " ;
 
+-"Numéro d'identification de la frappe à froid identique à la plaque constructeur" est signalé sur le PV de conrôle
+
 -Les mesures réalisées ;
 
 2. Informations sur la visite technique périodique défavorable :
@@ -116,7 +118,7 @@ La date du contrôle ;
 
 5. Identification du véhicule :
 
--Le numéro d'immatriculation ;
+-Le numéro d'immatriculation et le symbole du pays d'immatriculation ; (1)
 
 -La date d'immatriculation ;
 
@@ -145,6 +147,10 @@ La date du contrôle ;
 7. Résultat du contrôle technique :
 
 - La nature et la date du prochain contrôle ou la mention "Report du contrôle", suivant le cas.
+
+8. Version de logiciel utilisée :
+
+- la référence du logiciel utilisé.
 
 1. 2. 2. Inscriptions fixes
 
@@ -254,7 +260,7 @@ Outre la numérotation figurant sur la vignette, l'emploi d'un fond de sécurit�
 
 Ce fond de sécurité doit être constitué d'une trame comprise entre 100 et 150 lignes au pouce dans un pourcentage de 10 à 15 pour-cent, et laisser apparaître en transparence les lettres " CT " d'une hauteur de trente millimètres et d'une graisse de cinq millimètres, centrées sur la vignette Il doit, en outre, être renforcé :
 
--Soit par la présence d'un pictogramme latent, constitué d'une croix de 10 millimètres d'épaisseur de trait calquée sur les deux diagonales de la vignette, révélable sur toute photocopie ;
+-Soit par la présence d'un pictogramme latent, constitué d'une croix de 10 millimètres d'épaisseur de trait calquée sur les deux diagonales de la vignette, relevable sur toute photocopie ;
 
 -Soit par la présence d'un timbre réfléchissant avec perforation.
 
@@ -300,7 +306,7 @@ Elles sont les suivantes :
 
 - Fond : bleu PMS 287 solidité lumière ;
 
-- Textes : bleu reflex (centre non rattaché) et/ou couleurs spécifiques du réseau.
+- Textes : bleu reflex ou noir (centre non rattaché) et/ou couleurs spécifiques du réseau.
 
 3.4. Sécurité du timbre
 

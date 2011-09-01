@@ -52,6 +52,8 @@ Sans préjudice des vérifications et opérations périodiques imposées par d'a
 
 6.1.4. Des statistiques d'activité, au minimum mensuelles, précisant notamment le nombre total et par contrôleur de visites initiales, le nombre total et par contrôleur de contre-visites et le nombre ou le taux totaux et par contrôleur de refus, qui doivent être comparés aux taux annuels nationaux.
 
+6.1.5. Un document (registre, fiches, etc.) mentionnant les conclusions des analyses des compteurs d'exception fournis par l'OTC.
+
 6.2. Tous ces documents sont archivés pendant au moins quatre ans, sans préjudice des autres réglementations en vigueur.
 
 7. Audit des installations de contrôle

@@ -1,5 +1,7 @@
 # Article 45
 
-Le préfet peut accorder des dérogations aux dispositions des paragraphes 1 et 3 de l'annexe III du présent arrêté aux installations de contrôle ayant été utilisées dans le cadre de l'application de l'arrêté du 15 novembre 1954 susvisé.
+Pour répondre aux besoins des usagers, dans les portions de territoire dont l'accès nécessite l'emploi de moyens de transport spéciaux (bateau, hélicoptère) et dont le nombre de véhicules à contrôler ne permet pas de justifier de l'implantation d'une installation de contrôle économiquement viable, le préfet peut autoriser, à titre dérogatoire, un centre agréé à réaliser les contrôles avec la mise en œuvre de méthodes alternatives, sur avis favorable du ministre chargé des transports.
 
-Toutefois, les dérogations aux dispositions du paragraphe 1 de l'annexe III ainsi accordées prennent fin à compter du 1er janvier 2008.
+Dans ce cas, la portée de la dérogation est mentionnée sur la décision préfectorale d'agrément prévue à l'article 24 du présent arrêté.
+
+La validité des contrôles techniques effectués dans l'installation agréée dans ces conditions est limitée au territoire considéré et mention particulière en est faite sur le procès-verbal.

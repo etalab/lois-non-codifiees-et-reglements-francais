@@ -36,10 +36,9 @@ II. - Demande d'agrément
 
 L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché.
 
-<div align="center">III. - Modification du dossier d'agrément</div>
-<div align="center"/>
-
-3.1. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture les modifications suivantes entraînant l'annulation de l'agrément :
+<div align="center">III. - Modification du dossier d'agrément </div>
+<div align="left"/>
+<div align="left">3.1. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture les modifications suivantes entraînant l'annulation de l'agrément :</div>
 
 3.1.1. La cessation d'activité.
 
@@ -371,13 +370,21 @@ c) Description des moyens techniques ;
 
 d) Le protocole établi avec l'Organisme Technique Central conformément à l'article 28 du présent arrêté ;
 
-e) L'engagement du demandeur d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
+e) L'engagement du demandeur :
+
+- d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports ;
+
+- de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
+
+- de signer la convention d'assistance technique prévue au point d de l'article 29 du présent arrêté ;
 
 f) La liste des installations de contrôle agréées affiliées au réseau de contrôle (cf. paragraphe II ci-dessous) ;
 
 g) La description des procédures internes du réseau prévues par l'annexe VI ;
 
-h) Le cahier des charges type des installations de contrôle.
+h) Le cahier des charges type des installations de contrôle ;
+
+i) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté.
 
 5. La procédure du réseau définissant, pour les installations de contrôle rattachées ou exploitées par le réseau, les sanctions prévues au point 3.1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
 
@@ -390,26 +397,6 @@ III. - Modifications du dossier d'agrément
 Toute modification importante du cahier des charges doit être soumise à l'approbation préalable du ministre chargé des transports.
 
 L'ensemble des modifications apportées au dossier d'agrément doit être transmis en tant que de besoin au ministre chargé des transports, et doit faire l'objet d'une mise à jour annuelle transmise le premier trimestre de chaque année.
-
-APPENDICE 1 : FICHE RECAPITULATIVE RELATIVE A LA QUALIFICATION ET A L'EXPERIENCE PROFESSIONNELLE
-
-APPENDICE 2 : AGREMENT D'UN CONTROLEUR
-
-APPENDICE 3 : AGREMENT D'UN CONTROLEUR DECLARATION SUR L'HONNEUR
-
-APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERSDECLARATION SUR L'HONNEUR
-
-APPENDICE 5 : AGREMENT DES INSTALLATIONS D'UN CENTRE DE CONTROLEATTESTATION D'AFFILIATION A UN RESEAU PARTIE A REMPLIR PAR LE CENTRE DE CONTROLE
-
-APPENDICE 6 : AGREMENT D'UN CENTRE DE CONTROLE OU D'UNE INSTALLATION AUXILIAIREDESCRIPTION DE L'ORGANISATION ET DES MOYENS MATERIELS
-
-APPENDICE 7 : AGREMENT D'UN CENTRE DE CONTROLE DES VEHICULES LEGERS NON-RATTACHE A UN RESEAU AVIS DE L'ORGANISME TECHNIQUE CENTRAL
-
-APPENDICE 8 : AGREMENT D'UNE INSTALLATION AUXILIAIRE POUR LE CONTROLE DES VEHICULES LEGERS AVIS DE L'ORGANISME TECHNIQUE CENTRAL
-
-APPENDICE 9 : NOTIFICATION DE CHANGEMENT DE CENTRE DE RATTACHEMENT D'UN CONTRÔLEUR DE VÉHICULES LÉGERS
-
-(formulaires non reproduits)
 
 IV. - Demande de renouvellement d'agrément
 
@@ -436,3 +423,23 @@ Toute modification du dossier d'agrément est portée à la connaissance du mini
 III. - Demande de renouvellement d'agrément
 
 Le dossier de demande de renouvellement prévu à l'article 26-3 du présent arrêté est transmis au ministre chargé des transports, à la direction régionale et interdépartementale de l'énergie et de l'environnement d'Ile-de-France et à l'organisme technique central au plus tard six mois avant la date d'échéance de l'agrément.
+
+APPENDICE 1 : FICHE RECAPITULATIVE RELATIVE A LA QUALIFICATION ET A L'EXPERIENCE PROFESSIONNELLE
+
+APPENDICE 2 : AGREMENT D'UN CONTROLEUR
+
+APPENDICE 3 : AGREMENT D'UN CONTROLEUR DECLARATION SUR L'HONNEUR
+
+APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERS DECLARATION SUR L'HONNEUR
+
+APPENDICE 5 : AGREMENT DES INSTALLATIONS D'UN CENTRE DE CONTROLEATTESTATION D'AFFILIATION A UN RESEAU PARTIE A REMPLIR PAR LE CENTRE DE CONTROLE
+
+APPENDICE 6 : AGREMENT D'UN CENTRE DE CONTROLE OU D'UNE INSTALLATION AUXILIAIREDESCRIPTION DE L'ORGANISATION ET DES MOYENS MATERIELS
+
+APPENDICE 7 : AGREMENT D'UN CENTRE DE CONTROLE DES VEHICULES LEGERS NON-RATTACHE A UN RESEAU AVIS DE L'ORGANISME TECHNIQUE CENTRAL
+
+APPENDICE 8 : AGREMENT D'UNE INSTALLATION AUXILIAIRE POUR LE CONTROLE DES VEHICULES LEGERS AVIS DE L'ORGANISME TECHNIQUE CENTRAL
+
+APPENDICE 9 : NOTIFICATION DE CHANGEMENT DE CENTRE DE RATTACHEMENT D'UN CONTRÔLEUR DE VÉHICULES LÉGERS
+
+(formulaires non reproduits)

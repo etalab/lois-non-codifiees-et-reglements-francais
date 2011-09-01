@@ -6,4 +6,4 @@ En cas de décision de rejet de la demande d'agrément, la décision est motivé
 
 Les dispositions relatives aux modifications d'agrément d'une installation auxiliaire sont décrites au paragraphe III du chapitre IV de l'annexe VII du présent arrêté.
 
-L'agrément d'une installation auxiliaire qui cesse d'être rattachée à un réseau de contrôle agréé doit prendre fin à compter de la date où cesse son rattachement au réseau.
+L'agrément d'une installation auxiliaire qui cesse d'être exploitée par un réseau de contrôle agréé prend fin à compter de la date où cesse l'exploitation par le réseau.

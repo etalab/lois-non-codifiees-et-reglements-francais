@@ -37,8 +37,7 @@ Catégories de véhicules soumis à réglementation spécifique
 <p align="center">1 an </p>
 </td>
 <td rowspan="3" width="132">
-<p align="left">
-Arrêté du 30 septembre 1975 modifié</p>
+<p>Arrêté du 30 septembre 1975 modifié</p>
 </td>
 </tr>
 <tr>
@@ -65,14 +64,12 @@ Arrêté du 30 septembre 1975 modifié</p>
 <p align="center">1 an </p>
 </td>
 <td width="132">
-<p align="left">
-Décret n° 87-965 du 30 novembre 1987
-</p>
+<p>Décret n° 87-965 du 30 novembre 1987 </p>
 </td>
 </tr>
 <tr>
 <td width="132">
-<p align="left">Arrêté du 25 juin 2001 </p>
+<p>Arrêté du 25 juin 2001 </p>
 </td>
 </tr>
 <tr>
@@ -86,7 +83,7 @@ Décret n° 87-965 du 30 novembre 1987
 <p align="center">Régime général de l'AM du 18/06/1991 </p>
 </td>
 <td rowspan="2" width="132">
-<p align="left">Arrêté du 8 janvier 2001 </p>
+<p>Arrêté du 8 janvier 2001 </p>
 </td>
 </tr>
 <tr>
@@ -98,31 +95,26 @@ Décret n° 87-965 du 30 novembre 1987
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="123">
+<td valign="top" width="123">
 <p>D. Taxis et voitures de tourisme avec chauffeur </p>
 </td>
 <td valign="top" width="122">
-<p align="center">Licence de circulation pour les véhicules de grande remise </p>
+<br/>
+<br/>
+<p align="center">Néant </p>
 </td>
-<td rowspan="3" valign="top" width="156">
+<td valign="top" width="156">
 <p>1 an après la première mise en circulation ou immédiat si l'affectation à cet usage a lieu après ce délai. </p>
 </td>
-<td rowspan="3" width="72">
+<td width="72">
 <p align="center">1 an </p>
 </td>
-<td width="132">Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme </td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="122">
-<p align="center">Néant pour les autres véhicules </p>
-</td>
 <td width="132">
-<p align="left">Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme </p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p align="left">Arrêté préfectoral </p>
+<br/>Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme <p>
+<br/>Arrêté préfectoral<br/>
+<br/>
+<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +131,7 @@ Décret n° 87-965 du 30 novembre 1987
 <p align="center">1 an </p>
 </td>
 <td width="132">
-<p align="left">Article R. 323-24 du Code de la route</p>
+<p>Article R. 323-24 du Code de la route</p>
 <p>arrêté du 29 novembre 1994 modifié </p>
 </td>
 </tr>

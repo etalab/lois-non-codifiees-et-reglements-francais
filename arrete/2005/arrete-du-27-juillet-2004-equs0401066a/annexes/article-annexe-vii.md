@@ -66,7 +66,7 @@ A défaut, l'attestation visée par l'ancien centre est remplacée par une copie
 
 La notification est accompagnée :
 
-- d'une attestation visée par les exploitants des deux centres, conformément au modèle de l'appendice 4 de la présent annexe ;
+- d'une attestation visée par les exploitants des deux centres, conformément au modèle de l'appendice 4 de la présente annexe ;
 
 - de la copie de la notification d'agrément du contrôleur en vigueur ;
 
@@ -264,7 +264,7 @@ La décision d'annulation d'agrément est notifiée simultanément au réseau et
 
 Dans ce cas, l'agrément de l'installation auxiliaire peut être suspendu ou retiré dans les conditions fixées aux articles 30 et 30-1.
 
-4.3. Le réseau signale à la préfecture toute modification des installations par rapport à la descriptif figurant dans le dossier d'agrément.
+4.3. Le réseau signale à la préfecture toute modification des installations par rapport au descriptif figurant dans le dossier d'agrément.
 
 La modification ci-dessus affectant le plan de situation ou le plan de masse nécessite, en outre, la transmission de l'attestation d'audit du réseau favorable suite aux travaux effectués.
 
@@ -290,13 +290,21 @@ c) Description des moyens techniques ;
 
 d) Le protocole établi avec l'organisme technique central, conformément à l'article 39 du présent arrêté ;
 
-e) L'engagement du demandeur d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports et de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
+e) L'engagement du demandeur :
+
+- d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports ;
+
+- de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des installations de contrôle ;
+
+- de signer la convention d'assistance technique prévue au point d de l'article 37 du présent arrêté ;
 
 f) La liste des installations de contrôle agréées exploitées par le réseau de contrôle (cf. paragraphe II ci-dessous) ;
 
 g) La description des procédures internes du réseau prévues par l'annexe VI du présent arrêté ;
 
-h) Le cahier des charges type des installations de contrôle.
+h) Le cahier des charges type des installations de contrôle ;
+
+i) L'attestation de conformité de l'outil informatique délivrée par l'Organisme technique central en application des dispositions de l'article 37 du présent arrêté.
 
 5. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 32 attestant que le réseau a déposé, en vue de son accréditation, son système qualité complet établi en référence à la norme NF EN ISO/CEI 17020 : 2005.
 

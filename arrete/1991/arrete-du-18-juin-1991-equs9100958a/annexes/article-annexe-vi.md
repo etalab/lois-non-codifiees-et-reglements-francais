@@ -80,7 +80,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 3.1. Le réseau se fait rendre compte régulièrement des opérations de surveillance effectuées (audit des installations de contrôle, contrôle statistique, contrôle de la formation, etc.) et procède à la mise en place des actions correctives éventuellement nécessaires, ainsi qu'à la prise des sanctions indispensables.
 
-3.2. Le réseau reçoit les informations relatives aux contrôles techniques effectués dans l'ensemble des installations de contrôle du réseau, conformément à la procédure prévue au paragraphe 2.4.2.
+3.2. Le réseau reçoit les informations relatives aux contrôles techniques effectués dans l'ensemble des installations de contrôle du réseau, conformément à la procédure prévue au paragraphe 2.4.7.
 
 3.2.1. Cette procédure doit garantir une fréquence de transfert compatible avec celle prévue entre le réseau et l'Organisme Technique Central, ainsi que l'intégrité (exactitude, exhaustivité) et la confidentialité des informations décrites aux paragraphes 2.2.1.3 et 2.2.2.3 de l'annexe III.
 
