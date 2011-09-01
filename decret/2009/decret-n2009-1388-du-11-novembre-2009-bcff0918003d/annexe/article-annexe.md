@@ -1,12 +1,10 @@
 # Article Annexe
 
-Contrôleurs des impôts.
-
 Contrôleurs des douanes et droits indirects.
 
-Contrôleurs de l'Institut national de la statistique et des études économiques.
+Contrôleurs des finances publiques.
 
-Contrôleurs du Trésor public.
+Contrôleurs de l'Institut national de la statistique et des études économiques.
 
 Contrôleurs de la concurrence, de la consommation et de la répression des fraudes.
 
@@ -35,3 +33,7 @@ Secrétaires d'administration de la Caisse des dépôts et consignations.
 Secrétaires administratifs des services du Premier ministre.
 
 Techniciens supérieurs du ministère chargé de l'agriculture.
+
+Techniciens supérieurs d'études et de fabrications du ministère de la défense.
+
+Techniciens de recherche et de formation.

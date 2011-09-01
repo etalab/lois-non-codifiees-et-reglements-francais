@@ -4,4 +4,4 @@ Ces fonctionnaires peuvent être détachés dans des entreprises, des organismes
 
 Le détachement ne peut être prononcé que si les intéressés n'ont pas eu, au cours des cinq dernières années, soit à exercer un contrôle sur l'organisme considéré, soit à participer à l'élaboration ou à la passation de marchés avec lui.
 
-Le détachement peut également être sollicité dans les conditions fixées par l'article 25-1 de la loi du 15 juillet 1982 susvisée.
+Le détachement peut également être sollicité dans les conditions fixées par les articles L. 413-1 à L. 413-7 du code de la recherche.

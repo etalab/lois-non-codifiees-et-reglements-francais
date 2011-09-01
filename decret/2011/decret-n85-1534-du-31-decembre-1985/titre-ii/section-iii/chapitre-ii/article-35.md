@@ -2,33 +2,17 @@
 
 Les concours mentionnés au 1° de l'article 34 sont organisés dans les conditions précisées ci-après :
 
-1° Des concours externes sont ouverts aux candidats titulaires de l'un des diplômes suivants :
+1° Des concours externes sur épreuves sont ouverts aux candidats titulaires d'un titre ou d'un diplôme classé au moins au niveau III.
 
--diplôme universitaire de technologie ;
+Ces concours sont également ouverts aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission mentionnée à l'article 15 qui, à cet effet, peut prendre l'avis d'experts figurant sur une liste fixée par arrêté du ministre chargé de l'enseignement supérieur ;
 
--brevet de technicien supérieur ;
+2° Des concours internes sur titres et travaux, complétés d'épreuves, sont ouverts aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, aux militaires et magistrats ainsi qu'aux candidats en fonction dans une organisation internationale intergouvernementale.
 
--diplôme d'études universitaires scientifiques et technologiques ;
+Les candidats mentionnés à l'alinéa précédent doivent justifier au 1er janvier de l'année au titre de laquelle est organisé le concours de quatre années au moins de services publics.
 
--diplôme délivré par un établissement public au privé dont l'équivalence avec l'un des diplômes ci-dessus, pour l'application du présent décret, aura été reconnue par la commission prévue à l'article 15 ci-dessus.
+Ces concours sont également ouverts aux candidats justifiant de quatre ans de services auprès d'une administration, d'un organisme ou d'un établissement mentionnés au troisième alinéa du 2° de l'article 19 de la loi du 11 janvier 1984 susvisée, dans les conditions fixées par ledit alinéa ;
 
-Ces concours sont également ouverts :
-
-Aux candidats titulaires d'un titre étranger jugé équivalent, pour l'application du présent décret, par la commission mentionnée à l'article 15, à l'un des diplômes ci-dessus ;
-
-Aux candidats titulaires d'un diplôme de niveau III et aux candidats possédant une qualification professionnelle jugée équivalente à l'un des diplômes cités ci-dessus par la commission mentionnée à l'article 15 qui, à cet effet, peut prendre l'avis d'experts figurant sur la liste prévue au 2° de l'article 131 du présent décret ;
-
-2° Des concours internes sont ouverts ;
-
-a) Aux techniciens de recherche et de formation et aux secrétaires d'administration de recherche et de formation justifiant de cinq années de services effectuées en position d'activité dans leur corps ou en position de détachement ainsi qu'aux adjoints techniques de recherche et de formation justifiant de huit années de services effectuées en position d'activité dans leur corps ou en position de détachement ;
-
-b) Aux fonctionnaires régis par des statuts particuliers pris en application de la loi du 15 juillet 1982 susvisée appartenant à un corps de techniciens, de secrétaires d'administration ou d'adjoints techniques et remplissant les conditions de services correspondantes fixées au a ;
-
-c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie C et remplissant les conditions de services correspondantes fixées au a ;
-
-d) Aux agents non titulaires remplissant les mêmes conditions de services que celles prévues pour les corps mentionnés au a.
-
-3° Des troisièmes concours sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice, durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée.
+3° Des troisièmes concours sur épreuves sont ouverts aux candidats qui justifient, au 1er janvier de l'année du concours, de l'exercice, durant quatre ans au moins, d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée.
 
 Les activités professionnelles prises en compte doivent avoir été exercées dans le domaine de l'éducation, de la formation ou de la recherche.
 

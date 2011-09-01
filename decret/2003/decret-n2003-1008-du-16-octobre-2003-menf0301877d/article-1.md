@@ -1,6 +1,6 @@
 # Article 1
 
-Le ministre chargé de l'enseignement supérieur peut déléguer par arrêté aux recteurs d'académie, pour les commissions administratives paritaires compétentes à l'égard des adjoints techniques de recherche et de formation, des agents techniques de recherche et de formation et des agents des services techniques de recherche et de formation régis par le décret du 31 décembre 1985 susvisé, le pouvoir :
+Le ministre chargé de l'enseignement supérieur peut déléguer par arrêté aux recteurs d'académie, pour les commissions administratives paritaires compétentes à l'égard des adjoints techniques de recherche et de formation régis par le décret du 31 décembre 1985 susvisé, le pouvoir :
 
 1° De réduire ou proroger la durée du mandat des membres des commissions administratives paritaires académiques dans les conditions prévues au deuxième alinéa de l'article 7 du décret du 28 mai 1982 susvisé, après avis du comité technique paritaire académique, et dans les cas prévus au troisième alinéa du même article ;
 

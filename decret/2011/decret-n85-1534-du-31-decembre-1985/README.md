@@ -2,7 +2,6 @@
 
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Dispositions statutaires propres aux divers corps d'ingénieurs et de personnels techniques de recherche et de formation du ministère chargé de l'enseignement supérieur.](titre-ii)
-- [Titre III : Dispositions statutaires propres aux divers corps de personnels administratifs de recherche et de formation du ministère de l'éducation nationale.](titre-iii)
+- [TITRE III : Dispositions statutaires relatives au corps des attachés d'administration de recherche et de formation du ministère chargé de l'enseignement supérieur.](titre-iii)
 - [Titre IV : Dispositions statutaires communes](titre-iv)
-- [Titre V : Dispositions transitoires](titre-v)
 - [Article 174](article-174.md)

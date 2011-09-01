@@ -1,8 +1,6 @@
 # Article 133
 
-I. - Les candidats reçus aux concours externes d'accès aux corps régis par le présent décret et aux concours prévus au 3° des articles 26 et 35, ainsi que les adjoints techniques de 2e classe recrutés, en application des articles 52 à 52-3, sont nommés en qualité de stagiaire.
-
-Ils accomplissent un stage d'une durée d'un an, qui fait l'objet d'un rapport établi par l'autorité chargée de la direction de l'établissement.
+I. ― Les candidats reçus aux concours externes d'accès aux corps régis par le présent décret et aux concours prévus au 3° des articles 26 et 35 ainsi que les adjoints techniques de 2e classe recrutés en application des articles 52 à 52-2 sont nommés en qualité de stagiaire. Ils accomplissent un stage d'une durée d'un an, qui fait l'objet d'un rapport établi par l'autorité mentionnée à l'article 2 du présent décret.
 
 II. - A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés.
 

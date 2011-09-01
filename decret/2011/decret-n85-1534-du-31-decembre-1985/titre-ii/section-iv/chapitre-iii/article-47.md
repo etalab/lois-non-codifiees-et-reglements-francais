@@ -1,13 +1,7 @@
 # Article 47
 
-Les avancements au grade de technicien de classe exceptionnelle sont prononcés par le ministre de l'éducation nationale. Ils s'effectuent, dans une proportion comprise entre un tiers et deux tiers, par la voie d'un examen professionnel et, pour la proportion restante, au choix, dans les conditions précisées ci-après :
+Les avancements au grade de technicien de classe exceptionnelle sont prononcés par le ministre chargé de l'enseignement supérieur dans les conditions fixées par les II et III de l'article 25 du décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat.
 
-Peuvent être promus les techniciens de classe supérieure ainsi que les techniciens de classe normale justifiant d'au moins une année d'ancienneté dans le 6e échelon de leur grade.
+Pour être promus, les fonctionnaires mentionnés au 1° du II de l'article 25 du même décret doivent être inscrits à un tableau d'avancement établi par le ministre chargé de l'enseignement supérieur, après avis de la commission administrative paritaire.
 
-Pour être promus, les intéressés doivent être inscrits à un tableau d'avancement établi par le ministre de l'éducation nationale après avis de la commission administrative paritaire, au vu des résultats d'une sélection organisée par voie d'examen professionnel.
-
-Les fonctionnaires qui ont présenté leur candidature pour l'accès au grade de technicien de classe exceptionnelle doivent subir cette sélection professionnelle devant un jury dont la composition est celle prévue à l'article 132 du présent décret. Le jury établit une liste de classement des candidats retenus. Cette liste ne peut pas comprendre un nombre de candidats supérieur de plus de 50 p. 100 à celui des postes à pourvoir. Seuls les candidats figurant sur la liste établie au titre d'une année peuvent être inscrits, après avis de la commission administrative paritaire compétente, au tableau d'avancement suivant.
-
-Un arrêté conjoint du ministre de l'éducation nationale et du ministre chargé de la fonction publique détermine les conditions de la sélection professionnelle.
-
-2° Peuvent être promus au choix au grade de technicien de classe exceptionnelle les techniciens de classe supérieure ayant atteint le 4e échelon de leur grade inscrits à un tableau d'avancement établi par le ministre de l'enseignement supérieur, sur proposition des présidents, directeurs ou responsables d'établissement, après avis de la commission administrative paritaire.
+Pour être promus, les fonctionnaires mentionnés au 2° du II de l'article 25 du même décret doivent être inscrits à un tableau d'avancement établi par le ministre chargé de l'enseignement supérieur, sur proposition du recteur, du président, du responsable d'établissement ou du chef de service, après avis de la commission administrative paritaire.

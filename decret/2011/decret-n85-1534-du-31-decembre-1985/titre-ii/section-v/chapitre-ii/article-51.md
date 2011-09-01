@@ -1,6 +1,6 @@
 # Article 51
 
-I.-Les adjoints techniques de recherche et de formation sont recrutés sans concours dans le grade d'adjoint technique de 2e classe dans les conditions prévues aux articles 52 à 52-3 et 54.
+I.-Les adjoints techniques de recherche et de formation sont recrutés sans concours dans le grade d'adjoint technique de 2e classe dans les conditions prévues  aux articles 52 à 52-2 et 54.
 
 Ils sont recrutés par concours dans le grade d'adjoint technique principal de 2e classe dans les conditions prévues aux articles 53 et 54.
 
