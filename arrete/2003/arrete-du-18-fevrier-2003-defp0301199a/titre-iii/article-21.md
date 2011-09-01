@@ -8,4 +8,4 @@ Ces proportions se répartissent entre formation militaire, professionnelle et h
 
 Dans tous les cas, la note de jury de diplôme ne peut être inférieure à 6 % de l'ensemble des coefficients de la scolarité considérée.
 
-La note finale obtenue détermine l'aptitude de l'élève à se voir décerner le diplôme.
+Le diplôme est décerné à l'élève qui obtient la note moyenne minimale de 10 sur 20.
