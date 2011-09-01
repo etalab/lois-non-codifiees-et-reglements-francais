@@ -16,6 +16,6 @@ Le nombre de places offertes à ce concours ne peut être inférieur à un dixi�
 
 3° Par voie d'un examen professionnel :
 
-Cet examen professionnel est accessible aux agents administratifs des impôts, aux adjoints techniques des impôts, aux agents d'administration du Trésor public et aux adjoints techniques du Trésor public justifiant, au 31 décembre de l'année de leur nomination, d'au moins neuf années de services publics.
+Cet examen professionnel est accessible aux agents administratifs des finances publiques et aux agents techniques des finances publiques justifiant, au 31 décembre de l'année de leur nomination, d'au moins neuf années de services publics.
 
 Le nombre total de nominations susceptibles d'être prononcées ne peut excéder deux cinquièmes du nombre des nominations prononcées en application des 1° et 2°, des détachements de longue durée et des intégrations directes.
