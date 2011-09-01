@@ -550,7 +550,6 @@
 - [Arrêté du 23 décembre 2002 (EQUU0201602A)](arrete-du-23-decembre-2002-equu0201602a)
 - [Arrêté du 23 décembre 2002 (EQUU0201603A)](arrete-du-23-decembre-2002-equu0201603a)
 - [Arrêté du 23 décembre 2002 (INTB0200686A)](arrete-du-23-decembre-2002-intb0200686a)
-- [Arrêté du 23 décembre 2002 (JUSE0240169A)](arrete-du-23-decembre-2002-juse0240169a)
 - [Arrêté du 23 décembre 2002 (MCCB0200612A)](arrete-du-23-decembre-2002-mccb0200612a)
 - [Arrêté du 23 décembre 2002 (SANS0223971A)](arrete-du-23-decembre-2002-sans0223971a)
 - [Arrêté du 23 janvier 2002 (AGRM0200132A)](arrete-du-23-janvier-2002-agrm0200132a)
