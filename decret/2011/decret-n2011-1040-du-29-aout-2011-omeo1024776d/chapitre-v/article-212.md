@@ -1,0 +1,3 @@
+# Article 212
+
+Lorsque les agents occupent plusieurs emplois à temps non complet de nature identique, dans plusieurs communes, plusieurs groupements ou plusieurs établissements publics administratifs relevant des communes de la Polynésie française, ils sont intégrés par arrêté conjoint des autorités dont ils relèvent dans le cadre d'emplois correspondant à ces emplois à l'échelon correspondant à l'indice égal ou, à défaut, immédiatement supérieur à celui obtenu en pondérant les rémunérations antérieurement perçues dans chacun des emplois occupés par le nombre d'heures effectué dans chacun de ces emplois.

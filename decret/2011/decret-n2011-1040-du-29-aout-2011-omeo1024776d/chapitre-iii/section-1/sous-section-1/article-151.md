@@ -1,0 +1,5 @@
+# Article 151
+
+I. ― Lorsque les effectifs du personnel d'une commune, d'un groupement de communes ou d'un établissement public administratif relevant des communes de la Polynésie française sont égaux ou supérieurs au seuil fixé par un arrêté du haut-commissaire de la République en Polynésie française, l'autorité de nomination met un local commun à usage de bureau à la disposition des organisations syndicales ayant une section syndicale dans la commune, le groupement de communes ou l'établissement public administratif relevant des communes de la Polynésie française et représentées au comité technique paritaire de la commune, du groupement de communes ou de l'établissement public administratif relevant des communes de la Polynésie française ou au Conseil supérieur de la fonction publique des communes de la Polynésie française. Dans toute la mesure du possible, l'autorité de nomination met un local distinct à la disposition de chacune de ces organisations.
+
+II. - Un arrêté du haut-commissaire de la République en Polynésie française détermine les conditions de mise à disposition des locaux.

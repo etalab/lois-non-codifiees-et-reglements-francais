@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les administrations de l'Etat et ses établissements publics, ainsi que dans les juridictions, mentionnés à l'annexe au présent décret, il peut être créé, dans les conditions et sous les réserves prévues ci-après, une prime d'intéressement à la performance collective des services. Peuvent bénéficier de la prime, dans les administrations de l'Etat et ses établissements publics ne présentant pas un caractère industriel et commercial, les fonctionnaires, les magistrats et les agents non titulaires d'un même service ou groupe de services et, dans les établissements publics de l'Etat à caractère industriel et commercial, les fonctionnaires d'un même service ou groupe de services affectés dans l'établissement en position d'activité.

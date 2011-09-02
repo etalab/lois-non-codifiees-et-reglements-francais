@@ -1,0 +1,3 @@
+# Article 122
+
+Lorsque l'état physique d'un fonctionnaire, sans lui interdire d'exercer toute activité, ne lui permet pas d'exercer des fonctions correspondant aux emplois de son grade, l'autorité dont il relève ou le président du centre de gestion et de formation, après avis du comité médical, invite l'intéressé soit à présenter une demande de détachement dans un emploi d'un autre cadre d'emplois conformément aux dispositions du troisième alinéa de l'article 57 de l'ordonnance du 4 janvier 2005 susvisée, soit à demander le bénéfice des modalités de reclassement prévues à l'article 51 de l'ordonnance susmentionnée.

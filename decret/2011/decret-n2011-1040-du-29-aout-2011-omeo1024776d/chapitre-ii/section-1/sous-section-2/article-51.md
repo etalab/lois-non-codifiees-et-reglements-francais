@@ -1,0 +1,3 @@
+# Article 51
+
+L'autorité de la commune, du groupement de communes ou de l'établissement public administratif relevant des communes de la Polynésie française d'origine ayant pouvoir de nomination exerce le pouvoir disciplinaire. Elle peut être saisie par la commune, le groupement de communes, l'établissement public administratif relevant des communes de la Polynésie française ou l'organisme public d'accueil ou, en cas de pluralité de communes, de groupements de communes, d'établissements publics administratifs relevant des communes de la Polynésie française ou d'organismes publics d'accueil, par chaque administration ou organisme public d'accueil.

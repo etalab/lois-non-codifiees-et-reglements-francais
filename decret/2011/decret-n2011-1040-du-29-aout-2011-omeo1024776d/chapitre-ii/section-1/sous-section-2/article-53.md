@@ -1,0 +1,5 @@
+# Article 53
+
+La convention de mise à disposition mentionnée à l'article 46 peut prévoir le remboursement de la rémunération et des charges sociales par la commune, le groupement de communes, l'établissement public administratif relevant des communes de la Polynésie française ou l'organisme public d'accueil du ou des fonctionnaires intéressés ; en cas de pluralité de communes, de groupements de communes, d'établissements publics administratifs relevant des communes de la Polynésie française ou d'organismes publics d'accueil, ce remboursement est effectué par chacune des administrations ou chacun des organismes publics d'accueil au prorata du temps de travail du ou des fonctionnaires mis à disposition dans ces administrations ou organismes publics d'accueil.
+
+Lorsqu'elle prévoit l'exonération partielle ou totale, temporaire ou permanente, de ce remboursement, elle requiert une délibération de l'assemblée délibérante de la commune, du groupement de communes ou de l'établissement public administratif relevant des communes de la Polynésie française gestionnaire.

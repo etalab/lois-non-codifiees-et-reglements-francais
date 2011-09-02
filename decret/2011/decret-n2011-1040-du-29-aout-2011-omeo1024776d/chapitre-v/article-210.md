@@ -1,0 +1,3 @@
+# Article 210
+
+Les agents mentionnés à l'article 74 de l'ordonnance du 4 janvier 2005 susvisée occupant un ou plusieurs emplois dans une ou plusieurs communes, un ou plusieurs groupements de communes ou un ou plusieurs établissements publics administratifs relevant des communes de la Polynésie française, d'une durée totale au moins égale à la durée légale du travail applicable localement, sont intégrés dans les cadres d'emplois de la fonction publique des communes, des groupements de communes et des établissements publics administratifs relevant des communes de la Polynésie française dans les conditions prévues aux articles 74 à 76 de l'ordonnance du 4 janvier 2005 susvisée et selon les modalités mentionnées aux articles 211 à 214 du présent décret.

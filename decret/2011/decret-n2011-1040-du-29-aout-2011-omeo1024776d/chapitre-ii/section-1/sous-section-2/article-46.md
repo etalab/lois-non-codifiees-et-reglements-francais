@@ -1,0 +1,5 @@
+# Article 46
+
+La commune, le groupement de communes ou l'établissement public administratif relevant des communes de la Polynésie française d'origine et la commune, le groupement de communes, l'établissement public administratif relevant des communes de la Polynésie française ou l'organisme public d'accueil concluent une convention qui est annexée à l'arrêté de mise à disposition. Cette convention précise les conditions de mise à disposition des fonctionnaires intéressés et, notamment, la nature et le niveau hiérarchique des fonctions qui leur sont confiées, leurs conditions d'emploi et les modalités de contrôle et d'évaluation de leurs activités.
+
+Lorsqu'il est fait application du dernier alinéa de l'article 44, une convention est conclue entre l'administration d'origine et chacune des administrations ou organismes publics d'accueil ; chaque convention ainsi que ses avenants éventuels sont adressés aux administrations ou organismes publics qui bénéficient également de la mise à disposition du fonctionnaire.
