@@ -1,8 +1,10 @@
 # Article 11
 
-1° a) Quatre commissions thématiques permanentes sont constituées au sein du comité pour en faciliter le travail de suivi, d'évaluation et de prospective :
+1° a) Cinq commissions thématiques permanentes sont constituées au sein du comité pour en faciliter le travail de suivi, d'évaluation et de prospective :
 
-- la commission permanente chargée des questions de logement et de restauration ;
+- la commission permanente chargée des questions de logement ;
+
+- la commission permanente chargée des questions de restauration ;
 
 - la commission permanente chargée des questions liées à la famille, l'enfance, la culture, aux loisirs, aux sports, aux vacances et aux retraités ;
 
@@ -24,11 +26,9 @@ En cas d'urgence et de façon exceptionnelle, après consultation préalable du 
 
 c) Les commissions sont coanimées par un représentant de l'administration, membre du comité ou désigné par l'administration, et par un représentant du personnel, membre du comité.
 
-Un rapporteur, représentant du personnel, membre du comité, est désigné par une organisation syndicale autre que celle du coanimateur de la parité syndicale.
+Les organisations syndicales siégeant au comité proposent, en début de mandat du président du comité, les coanimateurs de la parité syndicale pour chaque commission.
 
-Les organisations syndicales siégeant au comité proposent, en début de mandat du président du comité, les coanimateurs de la parité syndicale et les rapporteurs pour chaque commission.
-
-Les coanimateurs représentant le personnel ainsi que les rapporteurs sont désignés dans le respect de la représentation tournante entre organisations syndicales.
+Les coanimateurs représentant le personnel sont désignés dans le respect de la représentation tournante entre organisations syndicales.
 
 Si un renouvellement doit intervenir en cours de mandat, la désignation d'un représentant pour la période restant à courir s'effectue au sein de la même organisation syndicale, sur proposition de celle-ci.
 
