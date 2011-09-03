@@ -18,6 +18,8 @@ Le produit de cette recette est assimilé à un fonds de concours pour dépense 
 
 Le nom et le grade du fonctionnaire de la police nationale ayant participé à l'intervention ainsi que les date et heure de cette dernière doivent être portés sur un registre spécial tenu par l'huissier de justice ;
 
+5 bis. Indemnités versées aux conseillers municipaux, fonctionnaires municipaux, autorités de gendarmerie, fonctionnaires de la police nationale ou témoins requis en application de l'article 1309 du code de procédure civile, dont le montant et le produit sont déterminés conformément aux 4° et 5° ;
+
 6. Toute somme due à des tiers à l'occasion de leur activité professionnelle et payée directement par eux ;
 
 7° Frais engagés pour la recherche des informations auprès du service du fichier des comptes bancaires.

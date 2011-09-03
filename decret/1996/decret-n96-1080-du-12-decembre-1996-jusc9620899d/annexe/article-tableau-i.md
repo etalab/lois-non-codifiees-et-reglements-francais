@@ -2773,10 +2773,10 @@ VIII. - Actes divers
 <p align="center">108</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Signification en<br/>provenance d'un autre<br/>Etat.</p>
+<p align="left">Signification en<br/>provenance d'un<br/>autre<br/>Etat.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du 29 mai 2000.<br/>- article 688-2 du<br/>NCPC. </p>
+<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du<br/>29 mai 2000.<br/>- article 688-2 du<br/>NCPC. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">50 € *</p>
@@ -2795,7 +2795,9 @@ VIII. - Actes divers
 <td align="left" valign="top">
 <p align="center">109</p>
 </td>
-<td align="left" valign="top">Transmission de la<br/>demande de<br/>signification ou de<br/>notification dans un<br/>autre Etat étranger. </td>
+<td align="left" valign="top">
+<p align="left">Transmission de la<br/>demande de<br/>signification ou de<br/>notification dans un<br/>autre Etat étranger. </p>
+</td>
 <td align="left" valign="top">
 <p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du<br/>29 mai 2000.<br/>- article 684 du<br/>NCPC. </p>
 </td>
@@ -2806,6 +2808,210 @@ VIII. - Actes divers
 <p align="center">Non</p>
 </td>
 <td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Scellés</p>
+</td>
+<td align="left" valign="top">
+<p align="center">110</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Procès-verbal d’apposition<br/>des scellés sans diligences<br/>particulières </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 1308 CPC </p>
+</td>
+<td align="left" valign="top">
+<p align="center">51,5 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">111</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Procès-verbal d’apposition<br/>des scellés donnant lieu<br/>à des diligences particulières </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 1311 CPC</p>
+<p align="left">Art. 1312 CPC</p>
+<p align="left">Art. 1313 CPC</p>
+<p align="left">Art. 1314 CPC </p>
+</td>
+<td align="left" valign="top">
+<p align="center">67</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">112</p>
+</td>
+<td>
+<p align="left">Procès-verbal de carence </p>
+</td>
+<td>
+<p align="left">Art. 1304 CPC </p>
+</td>
+<td>
+<p align="center">15,5 </p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">113 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sommation d’assister<br/>aux opérations de levée des scellés </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 1317 CPC </p>
+</td>
+<td align="left" valign="top">
+<p align="center">11,5 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">114 </p>
+</td>
+<td>
+<p align="left">Acte d’inventaire lors de la levée des scellés </p>
+</td>
+<td>
+<p align="left">Art. 1319 CPC </p>
+</td>
+<td>
+<p align="center">26,5 </p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">115 </p>
+</td>
+<td>
+<p align="left">Procès-verbal de levée<br/>des scellés </p>
+</td>
+<td>
+<p align="left">Art. 1320 CPC </p>
+</td>
+<td>
+<p align="center">51,5 </p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">116 </p>
+</td>
+<td>
+<p align="left">Etat descriptif </p>
+</td>
+<td>
+<p align="left">Art. 1323 CPC </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">117</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Etat descriptif avec diligences particulières </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Art. 1312 CPC </p>
+<p align="left">Art. 1313 CPC </p>
+<p align="left">Art. 1314 CPC </p>
+</td>
+<td align="left" valign="top">
+<p align="center">45,5 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">118</p>
+</td>
+<td>
+<p align="left">Procès-verbal de déplacement des scellés </p>
+</td>
+<td>
+<p align="left">Art. 1324 CPC </p>
+</td>
+<td>
+<p align="center">15,5 </p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
 <p align="center">Non</p>
 </td>
 </tr>
