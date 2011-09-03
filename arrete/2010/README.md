@@ -2757,7 +2757,6 @@
 - [Arrêté du 28 avril 2010 (AGRG1011524A)](arrete-du-28-avril-2010-agrg1011524a)
 - [Arrêté du 28 avril 2010 (DEVA1012398A)](arrete-du-28-avril-2010-deva1012398a)
 - [Arrêté du 28 avril 2010 (DEVP1010527A)](arrete-du-28-avril-2010-devp1010527a)
-- [Arrêté du 28 avril 2010 (DEVU0925540A)](arrete-du-28-avril-2010-devu0925540a)
 - [Arrêté du 28 avril 2010 (JUSD1011557A)](arrete-du-28-avril-2010-jusd1011557a)
 - [Arrêté du 28 avril 2010 (MCCB1010224A)](arrete-du-28-avril-2010-mccb1010224a)
 - [Arrêté du 28 avril 2010 (MENH1010125A)](arrete-du-28-avril-2010-menh1010125a)
