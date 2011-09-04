@@ -921,6 +921,7 @@
 - [Arrêté du 15 mars 2011 (IOCC1106402A)](arrete-du-15-mars-2011-iocc1106402a)
 - [Arrêté du 15 novembre 2010 (DEVA1024087A)](arrete-du-15-novembre-2010-deva1024087a)
 - [Arrêté du 15 septembre 2009 (DEFD0922680A)](arrete-du-15-septembre-2009-defd0922680a)
+- [Arrêté du 15 mai 1996 (INTD9500738A)](arrete-du-15-mai-1996-intd9500738a)
 - [Arrêté du 15 mai 2007 (MENF0754278A)](arrete-du-15-mai-2007-menf0754278a)
 - [Arrêté du 15 mai 2011 (ETSH1120002A)](arrete-du-15-mai-2011-etsh1120002a)
 - [Arrêté du 16 août 2011 (AGRM1112338A)](arrete-du-16-aout-2011-agrm1112338a)
