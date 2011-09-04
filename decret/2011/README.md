@@ -2,6 +2,7 @@
 
 - [Décret n°89-613 du 1 septembre 1989 (SPSH8901738D)](decret-n89-613-du-1-septembre-1989-spsh8901738d)
 - [Décret n°92-376 du 1 avril 1992 (MERP9200008D)](decret-n92-376-du-1-avril-1992-merp9200008d)
+- [Décret n°2011-1045 du 2 septembre 2011 (JUSK1122224D)](decret-n2011-1045-du-2-septembre-2011-jusk1122224d)
 - [Décret n°2011-239 du 3 mars 2011 (AGRG1015082D)](decret-n2011-239-du-3-mars-2011-agrg1015082d)
 - [Décret n°2011-802 du 4 juillet 2011 (SCSA1114371D)](decret-n2011-802-du-4-juillet-2011-scsa1114371d)
 - [Décret n°2011-804 du 4 juillet 2011 (PRMX1114594D)](decret-n2011-804-du-4-juillet-2011-prmx1114594d)
@@ -249,6 +250,7 @@
 - [Décret n°2011-1424 du 31 octobre 2011 (ESRH1109915D)](decret-n2011-1424-du-31-octobre-2011-esrh1109915d)
 - [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
 - [Décret n°2011-1043 du 1er septembre 2011 (JUSC1105243D)](decret-n2011-1043-du-1er-septembre-2011-jusc1105243d)
+- [Décret n°2011-1044 du 1er septembre 2011 (JUSB1123729D)](decret-n2011-1044-du-1er-septembre-2011-jusb1123729d)
 - [Décret n°2011-798 du 1er juillet 2011 (DEVA1110985D)](decret-n2011-798-du-1er-juillet-2011-deva1110985d)
 - [Décret n°2011-916 du 1er août 2011 (ETSS1120788D)](decret-n2011-916-du-1er-aout-2011-etss1120788d)
 - [Décret n°2011-919 du 1er août 2011 (PRMX1115981D)](decret-n2011-919-du-1er-aout-2011-prmx1115981d)
