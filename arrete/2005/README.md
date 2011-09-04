@@ -288,7 +288,6 @@
 - [Arrêté du 15 novembre 2005 (MAEA0520442A)](arrete-du-15-novembre-2005-maea0520442a)
 - [Arrêté du 15 septembre 2005 (AGRF0502168A)](arrete-du-15-septembre-2005-agrf0502168a)
 - [Arrêté du 15 septembre 2005 (ECOD0550004A)](arrete-du-15-septembre-2005-ecod0550004a)
-- [Arrêté du 15 mai 1996 (INTD9500738A)](arrete-du-15-mai-1996-intd9500738a)
 - [Arrêté du 16 août 2005 (ECOZ0500065A)](arrete-du-16-aout-2005-ecoz0500065a)
 - [Arrêté du 16 décembre 2004 (ECOP0401033A)](arrete-du-16-decembre-2004-ecop0401033a)
 - [Arrêté du 16 décembre 2005 (INTC0500881A)](arrete-du-16-decembre-2005-intc0500881a)
