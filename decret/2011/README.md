@@ -121,6 +121,7 @@
 - [Décret n°2011-1013 du 24 août 2011 (PRMX1121366D)](decret-n2011-1013-du-24-aout-2011-prmx1121366d)
 - [Décret n°2011-728 du 24 juin 2011 (MENE1016345D)](decret-n2011-728-du-24-juin-2011-mene1016345d)
 - [Décret n°2011-729 du 24 juin 2011 (MENE1016342D)](decret-n2011-729-du-24-juin-2011-mene1016342d)
+- [Décret n°2011-732 du 24 juin 2011 (MCCE1029693D)](decret-n2011-732-du-24-juin-2011-mcce1029693d)
 - [Décret n°2011-997 du 24 août 2011 (DEFD1117869D)](decret-n2011-997-du-24-aout-2011-defd1117869d)
 - [Décret n°2011-998 du 24 août 2011 (DEVL1120380D)](decret-n2011-998-du-24-aout-2011-devl1120380d)
 - [Décret n°2011-999 du 24 août 2011 (IOCB1118963D)](decret-n2011-999-du-24-aout-2011-iocb1118963d)
