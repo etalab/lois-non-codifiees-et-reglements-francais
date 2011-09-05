@@ -1,0 +1,3 @@
+# Article 4
+
+Le quota d'effort de pêche, calculé en application de l'article 11 du règlement (UE) n° 57/2011 du 18 janvier 2011, octroyé aux navires français titulaires d'un permis de pêche spécial « espèces d'eau profonde » s'élève, pour l'année 2011, à 6 893 057 kW.jours, soit 65 % de l'effort de pêche déployé par les navires français titulaires d'un permis de pêche spécial « espèces d'eau profonde » en 2003 et/ou ayant pêché, en 2003, plus de 100 kg d'espèces d'eau profonde figurant aux annexes I et II du règlement CE n° 2347/2002, à l'exception de la grande argentine. Il est réparti comme fixé à l'annexe 9 du présent arrêté.
