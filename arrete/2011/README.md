@@ -836,6 +836,7 @@
 - [Arrêté du 14 juin 2011 (ETSH1113981A)](arrete-du-14-juin-2011-etsh1113981a)
 - [Arrêté du 14 juin 2011 (ETSH1116391A)](arrete-du-14-juin-2011-etsh1116391a)
 - [Arrêté du 14 juin 2011 (JUST1115460A)](arrete-du-14-juin-2011-just1115460a)
+- [Arrêté du 14 juin 2011 (MENE1116113A)](arrete-du-14-juin-2011-mene1116113a)
 - [Arrêté du 14 mars 2011 (DEFH1107994A)](arrete-du-14-mars-2011-defh1107994a)
 - [Arrêté du 14 mars 2011 (DEFT1107694A)](arrete-du-14-mars-2011-deft1107694a)
 - [Arrêté du 14 mars 2011 (DEVT1107424A)](arrete-du-14-mars-2011-devt1107424a)
