@@ -2,4 +2,4 @@
 
 ENSEIGNEMENTS DISPENSÉS DANS LES LYCÉES DE LA DÉFENSE
 
-Vous pouvez consulter le tableau dans le JO n° 195 du 22 août 2008 texte n° 18
+Vous pouvez consulter le tableau dans le JO n° 123 du 27/05/2011 texte numéro 6

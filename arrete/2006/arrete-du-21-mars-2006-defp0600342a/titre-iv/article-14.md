@@ -16,6 +16,12 @@ II. - Investi d'un pouvoir disciplinaire, il peut prononcer directement les mesu
 
 Il saisit le conseil de discipline lorsque le comportement de l'élève lui semble justifier une exclusion temporaire supérieure à huit jours ou une exclusion définitive.
 
-En cas de nécessité, le chef d'établissement peut, à titre conservatoire, interdire l'accès de l'établissement à un élève en attendant la comparution de celui-ci devant le conseil de discipline. S'il est mineur, l'élève est remis à ses représentants légaux ou à toute personne désignée par eux.
+En cas de nécessité, le chef d'établissement peut, à titre conservatoire, interdire l'accès de l'établissement à un élève :
+
+- en attendant la comparution de celui-ci devant le conseil de discipline ;
+
+- postérieurement à la comparution de celui-ci devant le conseil de discipline et jusqu'à la notification de la décision prise par l'autorité compétente.
+
+S'il est mineur, l'élève est remis à ses représentants légaux ou à toute personne désignée par eux.
 
 Cette mesure ne présente pas le caractère de sanction.

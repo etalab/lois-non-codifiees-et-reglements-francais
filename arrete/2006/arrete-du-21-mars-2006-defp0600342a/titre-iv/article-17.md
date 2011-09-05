@@ -28,13 +28,15 @@ a) Des membres de droit :
 
 - le proviseur ou son adjoint ;
 
-- un conseiller principal d'éducation.
+- un officier d'encadrement.
 
 b) Des membres désignés par le commandant du lycée :
 
-- deux cadres de l'établissement ;
+- un conseiller principal d'éducation ;
 
-- deux professeurs.
+- un professeur ;
+
+- deux cadres de l'établissement.
 
 2° Il comprend également, avec voix consultative :
 
@@ -48,11 +50,11 @@ Un suppléant est désigné pour chacun des membres.
 
 Ne peuvent faire partie du conseil de discipline les parents et alliés jusqu'au 4e degré inclusivement ou le tuteur de l'élève traduit devant le conseil ; dans ce cas, les membres concernés sont remplacés par leur suppléant.
 
-III. - Fonctionnement
+III. - Fonctionnement.
 
 L'élève, s'il est majeur, ou les personnes responsables de l'élève mineur sont informés par lettre recommandée avec avis de réception des faits reprochés par le commandant du lycée au moins huit jours avant la date de réunion du conseil de discipline et de la possibilité :
 
-1° Pour l'élève, de se faire assister par le défenseur de son choix (un officier, un sous-officier ou un personnel civil appartenant à l'établissement) ou, à défaut, désigné par le commandant du lycée.
+1° Pour l'élève, de se faire assister par le défenseur de son choix ou, à défaut, désigné par le commandant du lycée ;
 
 2° Pour l'élève et les personnes responsables de l'élève mineur :
 
@@ -60,9 +62,9 @@ a) De recevoir communication de toute pièce se rapportant à l'affaire ;
 
 b) De produire des observations ;
 
-c) D'être entendus, à leur demande, par le commandant du lycée.
+c) D'être entendus, à leur demande, par le commandant du lycée ;
 
-3° Pour les personnes responsables de l'élève mineur, d'être entendus, à leur demande, par le conseil de discipline.
+3° Pour les personnes responsables de l'élève mineur, d'être entendues, à leur demande, par le conseil de discipline.
 
 Le conseil entend toute personne dont le témoignage lui paraît utile.
 
@@ -70,9 +72,9 @@ Hors la présence des délégués des élèves, les membres du conseil de discip
 
 Les membres du conseil de discipline et les personnes ayant pris part aux délibérations de celui-ci sont soumis à l'obligation du secret en ce qui concerne tous les faits et documents dont ils ont eu connaissance.
 
-La décision motivée, arrêtée par le conseil de discipline pour l'exclusion temporaire ou par l'autorité de tutelle pour l'exclusion définitive, est notifiée, sous la responsabilité du commandant du lycée, par lettre recommandée avec avis de réception, à l'élève majeur ou aux représentants légaux de l'élève si celui-ci est mineur.
+La décision motivée d'exclusion définitive, arrêtée par l'autorité de tutelle après proposition du conseil de discipline, est notifiée, sous la responsabilité du commandant du lycée, par lettre recommandée avec avis de réception, à l'élève majeur ou aux représentants légaux de l'élève si celui-ci est mineur.
 
-L'élève mineur faisant l'objet d'une exclusion temporaire est remis à ses représentants légaux ou, à défaut, à toute personne désignée par eux.
+L'élève mineur faisant l'objet d'une exclusion temporaire ou définitive est remis à ses représentants légaux ou, à défaut, à toute personne désignée par eux. est remis à ses représentants légaux ou, à défaut, à toute personne désignée par eux.
 
 IV. - Recours
 
