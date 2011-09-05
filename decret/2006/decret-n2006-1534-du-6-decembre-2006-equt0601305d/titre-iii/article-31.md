@@ -1,3 +1,0 @@
-# Article 31
-
-L'accès, la réservation et l'utilisation effective de l'infrastructure ferroviaire et, le cas échéant, des prestations complémentaires ou connexes mentionnées au II de l'article 19 du présent décret mises à disposition dans le cadre d'un contrat de partenariat conclu en application de l'article 1er-2 de la loi du 13 février 1997 donnent lieu à la perception au profit de l'Etat des redevances prévues à l'article 26 du présent décret et dans les mêmes conditions. Leur tarif et leur modulation sont fixés par un arrêté conjoint des ministres en charge des transports, de l'économie et du budget.

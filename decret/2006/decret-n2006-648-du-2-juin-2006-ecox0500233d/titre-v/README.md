@@ -1,3 +1,0 @@
-# TITRE V : MUTATION ET AMODIATION DES TITRES.
-
-- [Article 52](article-52.md)

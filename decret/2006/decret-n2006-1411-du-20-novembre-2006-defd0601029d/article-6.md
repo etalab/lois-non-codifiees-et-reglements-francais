@@ -1,5 +1,0 @@
-# Article 6
-
-Dans le cadre des missions, enquêtes ou interventions prévues à l'article 17-1 de la loi du 21 janvier 1995 susvisée, les données à caractère personnel figurant dans le traitement qui se rapportent à des procédures judiciaires en cours ou closes, à l'exception des cas où sont intervenues des mesures ou décisions mentionnées au quatrième alinéa de l'article 3 et des données relatives aux victimes, peuvent être consultées sans autorisation du ministère public, par les personnels de la gendarmerie et de la police nationales individuellement désignés et spécialement habilités à cet effet, dans les conditions prévues au 1° de l'article 5.
-
-Cette consultation peut également être effectuée par des personnels investis de missions de police administrative individuellement désignés et spécialement habilités par le préfet. L'habilitation précise limitativement les motifs qui peuvent justifier pour chaque personne les consultations autorisées. Dans tous les cas, l'accès à l'information est alors limité à la seule connaissance de l'enregistrement de l'identité de la personne concernée dans le traitement en tant que mis en cause.

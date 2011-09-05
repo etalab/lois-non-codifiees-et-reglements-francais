@@ -1,3 +1,0 @@
-# Article 6-2
-
-Dans les bassins d'emploi mentionnés à l'article 6-1, l'institution mentionnée à l'article L. 5312-1 du code du travail assure les missions dévolues par le présent décret à la filiale de l'Association nationale pour la formation professionnelle des adultes. Elle formalise par écrit le contrat de transition professionnelle avec son bénéficiaire conformément au modèle de contrat annexé au présent décret, sous réserve de la substitution, dans ce modèle, de l'institution mentionnée à l'article L. 5312-1 du code du travail à la filiale de l'Association nationale pour la formation professionnelle des adultes.

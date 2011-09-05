@@ -1,3 +1,0 @@
-# Article 1
-
-Par dérogation aux dispositions des décrets n° 68-464 du 22 mai 1968, n° 95-381 du 10 avril 1995 et n° 95-869 du 2 août 1995 susvisés, les personnels des corps de la direction générale des impôts exerçant leurs fonctions dans les services en charge de missions domaniales, mis à la disposition de la direction générale de la comptabilité publique entre le 1er janvier 2007 et le 31 décembre 2009, peuvent, sur demande formulée avant le 31 décembre 2009 et après avis de la commission administrative paritaire compétente, être intégrés directement dans les corps de la direction générale de la comptabilité publique.

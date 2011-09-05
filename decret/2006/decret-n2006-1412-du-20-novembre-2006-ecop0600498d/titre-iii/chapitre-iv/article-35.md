@@ -1,3 +1,0 @@
-# Article 35
-
-Les agents des douanes pour l'administration de Mayotte qui justifient d'un an dans le 6e échelon de leur corps sont intégrés immédiatement dans le corps des agents de constatation des douanes. Cette intégration, prononcée par arrêté du directeur général des douanes et droits indirects, a un caractère automatique. Elle s'effectue dans le corps d'intégration sans consultation de la commission administrative paritaire compétente à l'égard de ce corps. Les intéressés sont reclassés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps d'origine, avec ancienneté acquise.L'intégration ne donne lieu à aucun autre reclassement que celui prévu au présent article.

@@ -1,3 +1,0 @@
-# Article 5
-
-Sont admis à se présenter aux épreuves du diplôme supérieur de comptabilité et de gestion les candidats qui sont titulaires du diplôme de comptabilité et de gestion, du diplôme d'études comptables et financières, d'un master ou d'un diplôme conférant le grade de master délivrés en France ou dans un autre Etat membre de l'Espace européen de l'enseignement supérieur, ou qui sont titulaires de titres ou de diplômes admis en dispense du diplôme de comptabilité et de gestion par arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé du budget.

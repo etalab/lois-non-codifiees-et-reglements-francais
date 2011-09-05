@@ -1,3 +1,0 @@
-# Annexes
-
-- [FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE](fonctions-exercees-pouvant-ouvrir-droit-au)

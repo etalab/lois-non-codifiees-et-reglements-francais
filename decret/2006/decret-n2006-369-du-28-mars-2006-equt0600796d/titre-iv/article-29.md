@@ -1,3 +1,0 @@
-# Article 29
-
-Dès sa nomination et jusqu'à la première réunion du conseil d'administration, le directeur général prend toute décision nécessaire à l'organisation et au fonctionnement courant de l'établissement. Il établit un projet de budget provisoire qui, par dérogation à l'article 9 du présent décret, devient exécutoire dès son approbation par le ministre chargé du budget et le ministre chargé des transports. Ce budget reste exécutoire jusqu'à l'adoption du budget définitif par le conseil d'administration de l'établissement. Le directeur général rend compte au conseil d'administration au cours de sa première séance des actes et décisions qu'il a pris et qui relèvent des compétences du conseil d'administration en vertu de l'article 9.

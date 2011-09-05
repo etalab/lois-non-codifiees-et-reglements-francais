@@ -1,9 +1,0 @@
-# Article 23
-
-I. - Peuvent seuls être détachés dans le corps des agents des douanes pour l'administration de Mayotte régis par le présent décret les fonctionnaires relevant d'un autre corps ou cadre d'emplois de fonctionnaires propre à Mayotte de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière, titulaires d'un grade dont l'indice brut de début est au moins égal à l'indice afférent au 1er échelon du grade d'agent des douanes pour l'administration de Mayotte.
-
-Le détachement est prononcé à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans la situation d'origine. Les fonctionnaires détachés conservent l'ancienneté d'échelon acquise dans leur grade d'origine dans la limite de la durée de l'échelon du grade d'accueil. Pendant leur détachement, ils concourent, pour l'avancement d'échelon, avec les fonctionnaires du corps dans lequel ils sont détachés.
-
-II. - Les fonctionnaires placés en position de détachement dans le corps des agents des douanes pour l'administration de Mayotte depuis au moins un an peuvent, sur leur demande, être intégrés dans ce corps, après avis de la commission administrative paritaire prévue à l'article 25. Ils sont nommés dans leur nouveau corps à l'échelon qu'ils occupaient en position de détachement, et conservent l'ancienneté d'échelon acquise pendant ce détachement. Les services accomplis dans le grade ou emploi d'origine sont assimilés à des services accomplis en détachement dans le nouveau corps.
-
-III. - Les dispositions du présent article ne sont pas applicables aux fonctionnaires de la collectivité départementale de Mayotte régis par des dispositions réglementaires prises par arrêté préfectoral qui n'ont pas fait l'objet d'une intégration ou d'un recrutement préalables dans les corps ou cadres d'emplois de la fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière.

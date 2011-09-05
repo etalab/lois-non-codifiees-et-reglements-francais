@@ -1,5 +1,0 @@
-# Article 28
-
-Les commissions paritaires régionales mentionnées à l'article R. 6152-215 du code de la santé publique restent en fonctions jusqu'à la publication de l'arrêté du ministre chargé de la santé prévu par l'article 29 du présent décret et exercent les attributions dévolues à la commission statutaire nationale mentionnée à l'article R. 6152-324 du code de la santé publique pour les praticiens relevant de la section 2 du chapitre II du titre V du livre Ier de la sixième partie du code de la santé publique, à l'exclusion de celle prévue à l'article R. 6152-258 du même code.
-
-A compter de la date de publication de l'arrêté mentionné à l'alinéa ci-dessus et jusqu'à la mise en place du collège prévu au b du 2° de l'article R. 6152-324 du code de la santé publique, lorsque la commission statutaire nationale est réunie pour examiner la situation des praticiens régis par la section 2 du chapitre II du titre V du livre Ier de la sixième partie du code de la santé publique, le collège mentionné au a de l'article R. 6152-324 du même code siège en lieu et place du collège mentionné au b du même article.

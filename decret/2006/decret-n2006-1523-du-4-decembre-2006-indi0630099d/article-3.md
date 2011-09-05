@@ -1,3 +1,0 @@
-# Article 3
-
-Le ministre de l'emploi, de la cohésion sociale et du logement, le ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de la santé et des solidarités, le ministre de l'agriculture et de la pêche, la ministre de l'écologie et du développement durable, le ministre délégué à l'emploi, au travail et à l'insertion professionnelle des jeunes, le ministre délégué à l'enseignement supérieur et à la recherche et le ministre délégué à l'industrie sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

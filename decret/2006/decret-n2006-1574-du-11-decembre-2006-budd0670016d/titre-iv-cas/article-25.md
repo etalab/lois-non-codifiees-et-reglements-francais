@@ -1,5 +1,0 @@
-# Article 25
-
-Le titulaire de l'entrepôt fiscal de production ou de stockage d'huiles végétales pures est responsable de l'incorporation du traceur et des colorants nécessaires lors de la vente des huiles végétales pures comme carburant dans les moteurs des engins et tracteurs agricoles, ainsi que comme carburant d'avitaillement des bateaux de pêche professionnelle, conformément aux dispositions de l'article 4 du décret n° 2007-446 du 23 mars 2007 fixant les mesures auxquelles doivent se conformer les distributeurs et les utilisateurs d'huiles végétales pures en application de l'article 265 quater du code des douanes.
-
-Lorsque l'huile végétale pure est destinée à être utilisée soit comme carburant agricole par les exploitants ayant produit les plantes dont l'huile est issue, soit comme carburant dans les véhicules des flottes captives des collectivités territoriales ou de leurs groupements, le titulaire de l'entrepôt fiscal doit dénaturer l'huile obtenue au moyen de 5 % en volume de fioul domestique.

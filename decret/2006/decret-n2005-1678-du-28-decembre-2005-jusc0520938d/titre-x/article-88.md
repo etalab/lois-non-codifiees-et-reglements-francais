@@ -1,3 +1,0 @@
-# Article 88
-
-Par dérogation aux dispositions de l'article 87, l'article 73 entre en vigueur le 1er janvier 2009. Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans le ressort des juridictions et pour les actes de procédure qu'il désigne. Pour les procédures avec représentation obligatoire, cet arrêté est pris après conclusion de conventions passées entre le président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la communication électronique dans les conditions prévues par cet article.

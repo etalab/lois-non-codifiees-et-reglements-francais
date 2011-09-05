@@ -1,3 +1,0 @@
-# Article 3
-
-Les représentants des commissions administratives paritaires des corps de secrétaires administratifs, d'adjoints administratifs, de conducteurs automobiles et d'agents administratifs du centre d'analyse stratégique sont maintenus en fonction et se réunissent en formation commune jusqu'au renouvellement des commissions administratives des corps de secrétaires administratifs d'administration centrale, d'adjoints administratifs, de conducteurs d'automobile et d'agents administratifs des services du Premier ministre, qui interviendra dans un délai d'un an à compter de la date de publication du présent décret.

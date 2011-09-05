@@ -1,3 +1,0 @@
-# Article 1
-
-Le décret n° 2000-540 du 16 juin 2000 relatif à la gestion des conventions conclues dans le cadre du dispositif adultes-relais est abrogé.

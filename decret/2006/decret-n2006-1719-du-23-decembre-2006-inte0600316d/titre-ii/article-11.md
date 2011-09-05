@@ -1,5 +1,0 @@
-# Article 11
-
-Les stagiaires sont rémunérés par le service départemental d'incendie et de secours qui a procédé au recrutement sur la base de l'indice afférent au 1er échelon du grade d'infirmier d'encadrement de sapeurs-pompiers professionnels. Toutefois, ceux qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire perçoivent le traitement indiciaire correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant au 1er échelon du grade d'infirmier d'encadrement, sans que ce traitement conservé puisse être supérieur au traitement indiciaire afférent à l'échelon terminal du grade d'infirmier d'encadrement.
-
-Lorsque les stagiaires sont titularisés, ils sont placés, sous réserve des règles définies aux articles 12 à 14, à l'échelon du grade d'infirmier d'encadrement de sapeurs-pompiers professionnels correspondant à l'ancienneté acquise depuis leur nomination dans le cadre d'emplois, sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue au quatrième alinéa de l'article 10.

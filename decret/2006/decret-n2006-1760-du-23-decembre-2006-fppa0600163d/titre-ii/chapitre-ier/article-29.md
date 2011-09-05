@@ -1,3 +1,0 @@
-# Article 29
-
-Les fonctionnaires qui, en application des dispositions de l'article 26 de la loi du 11 janvier 1984 susvisée, ont réussi un examen professionnel ouvert au titre de l'année 2006, ou sont inscrits sur une liste d'aptitude établie au titre de cette même année, pour l'accès à l'un des corps d'adjoints administratifs régi par le décret n° 90-713 du 1er août 1990 susmentionné, y compris à la suite d'un recrutement exceptionnel dans ce même corps, conservent la possibilité d'être nommés dans le grade correspondant du corps d'intégration, conformément au tableau figurant à l'article 20.

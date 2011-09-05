@@ -1,3 +1,0 @@
-# TITRE III : DISPOSITIONS DIVERSES ET TRANSITOIRES.
-
-- [Article 17](article-17.md)

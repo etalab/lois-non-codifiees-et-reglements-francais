@@ -1,3 +1,0 @@
-# Article 27
-
-Lorsque la durée résiduelle de la convention de délégation de service public est insuffisante pour permettre l'amortissement normal d'investissements supplémentaires de modernisation d'infrastructures existantes demandées par la personne publique délégante, y compris lorsque cette durée peut être prorogée en application de l'article 40 de la loi du 29 janvier 1993 susvisée, les parties peuvent convenir des conditions d'indemnisation du délégataire pour les investissements qui ne seraient pas amortis au terme du contrat. La personne publique peut se faire rembourser tout ou partie du montant de cette indemnisation par le nouveau cocontractant désigné pour poursuivre l'exploitation de l'infrastructure.

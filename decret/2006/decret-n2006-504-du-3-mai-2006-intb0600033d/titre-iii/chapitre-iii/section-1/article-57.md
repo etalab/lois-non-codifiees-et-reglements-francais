@@ -1,3 +1,0 @@
-# Article 57
-
-Le placement des fonds qui proviennent des ressources mentionnées aux 2°, 3°, 4° sauf s'il s'agit de subventions versées par une personne publique, 5°, 6° si la réalisation des travaux qui a justifié l'emprunt est retardée pour des raisons indépendantes de la volonté de l'association, et 8° de l'article 31 de l'ordonnance du 1er juillet 2004 susvisée, ainsi que les fonds qui proviennent des ressources prévues à l'article R. 1618-1 du code général des collectivités territoriales déroge, sur le fondement de l'article 32 de la même ordonnance et dans les conditions prévues aux II et III de l'article L. 1618-2 du même code, à l'obligation de dépôt auprès de l'Etat.

@@ -1,3 +1,0 @@
-# Article 13
-
-Le présent décret prend effet le premier jour du mois qui suit sa publication au Journal officiel, à l'exception des dispositions du III de l'article 3 du décret du 18 novembre 1994 susvisé, dans sa rédaction issue de l'article 1er, qui prennent effet au 1er octobre 2005 pour les fonctionnaires appartenant à un corps de catégorie C de la fonction publique d'Etat, au 1er novembre 2005 pour les fonctionnaires appartenant à un cadre d'emplois de catégorie C de la fonction publique territoriale, au 27 février 2006 pour les fonctionnaires appartenant à un corps de catégorie C de la fonction publique hospitalière.

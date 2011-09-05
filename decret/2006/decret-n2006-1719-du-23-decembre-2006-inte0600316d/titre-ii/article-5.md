@@ -1,9 +1,0 @@
-# Article 5
-
-Sont inscrits sur la liste d'aptitude prévue à l'article 4 les candidats déclarés admis :
-
-1° A un concours interne sur épreuves ouvert, pour 90 % au plus et 80 % au moins des postes mis au concours, d'une part, aux fonctionnaires relevant du cadre d'emplois des infirmiers de sapeurs-pompiers professionnels, titulaires du brevet d'infirmier de sapeurs-pompiers professionnels et du diplôme sanctionnant la formation d'adaptation à l'emploi de niveau groupement et comptant, au 1er janvier de l'année du concours, au moins cinq ans de services effectifs accomplis dans leur cadre d'emplois, d'autre part, aux agents non titulaires des services départementaux d'incendie et de secours qui justifient de l'un des diplômes d'accès au cadre d'emplois des infirmiers de sapeurs-pompiers professionnels ainsi que du brevet d'infirmier de sapeurs-pompiers professionnels et du diplôme sanctionnant la formation d'adaptation à l'emploi de niveau groupement, ayant accompli au moins cinq ans de services effectifs en qualité d'infirmier de sapeurs-pompiers professionnels ;
-
-2° A un concours sur titres ouvert, pour 10 % au moins et 20 % au plus des postes mis au concours, aux candidats titulaires de l'un des diplômes d'accès au cadre d'emplois des infirmiers de sapeurs-pompiers professionnels ainsi que du diplôme de cadre de santé ou d'un titre équivalent, justifiant de l'exercice d'une activité professionnelle d'infirmier pendant au moins cinq ans à temps plein ou une durée de cinq ans d'équivalent temps plein.
-
-Lorsque le nombre des candidats ayant subi avec succès les épreuves de l'un des deux concours est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours, dans la limite de 15 % des places offertes à l'un ou l'autre des concours, ou d'une place au moins.

@@ -1,3 +1,0 @@
-# Article 9
-
-Jusqu'à l'installation des commissions administratives paritaires créées au centre de gestion de Mayotte pour les agents des catégories I, II et III des communes et des établissements publics, qui interviendra dans les deux ans suivant la publication du présent décret, leurs compétences sont exercées par les commissions administratives paritaires correspondantes constituées auprès du syndicat mixte de gestion du personnel de Mayotte mentionné à l'article 19 du décret du 30 décembre 2004 susvisé, dans la composition qui était la leur à cette date. Le mandat de leurs membres représentant les personnels est prorogé à cet effet et elles sont présidées par le président du centre de gestion.

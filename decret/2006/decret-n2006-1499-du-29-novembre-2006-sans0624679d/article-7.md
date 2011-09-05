@@ -1,7 +1,0 @@
-# Article 7
-
-Lorsque les provisions techniques comptabilisées par l'institution au titre du régime ne sont pas représentées de manière au moins équivalente par les actifs du régime, le plan de provisionnement prévoit les modalités permettant de parfaire cette représentation en affectant au régime des actifs autres que ceux représentatifs des engagements réglementés de l'institution. Ces actifs sont obligatoirement choisis dans les catégories d'actifs définies aux 1° et 2° de l'article R. 932-3-1 et au 16° de l'article R. 931-10-21 du code de la sécurité sociale.
-
-Le changement d'affectation d'actifs emporte affectation au régime du produit des droits attachés à ces actifs, y compris les produits correspondant aux éventuels crédits d'impôts attachés à la détention de ces mêmes actifs. Les actifs ainsi affectés au régime sont inscrits à son bilan pour leur valeur de réalisation déterminée conformément aux dispositions de l'article R. 931-10-42 du code de la sécurité sociale. La différence entre cette valeur et la valeur comptable antérieure est constatée dans le compte de résultat de l'institution. L'affectation de ces actifs au régime est définitive.
-
-En contrepartie de cette affectation, l'institution peut opérer d'éventuels prélèvements sur la provision technique spéciale, par dérogation au premier alinéa de l'article R. 932-4-4 du code de la sécurité sociale. Le plan de provisionnement précise le montant, la périodicité et la durée de ces prélèvements.

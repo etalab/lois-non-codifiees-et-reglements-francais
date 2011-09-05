@@ -1,3 +1,0 @@
-# TITRE Ier : DISPOSITIONS MODIFIANT LE DÉCRET N° 85-1389 DU 27 DÉCEMBRE 1985.
-
-- [Article 1](article-1.md)

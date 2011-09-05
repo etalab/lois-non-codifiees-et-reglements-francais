@@ -1,3 +1,0 @@
-# Article 35
-
-Pendant une période de trois ans à compter de la publication du présent décret, peuvent être intégrés, sur leur demande, dans les corps des maîtres de conférences des universités-praticiens hospitaliers des disciplines pharmaceutiques et des professeurs des universités-praticiens hospitaliers des disciplines pharmaceutiques, par voie d'intégration directe, les professeurs des universités et les maîtres de conférences régis par le décret du 6 juin 1984 visé ci-dessus qui, à la date de publication du présent décret, ont également la qualité de praticien hospitalier régi par les articles R. 6152-1 à R. 6152-99 du code de la santé publique ou de praticien hospitalier à temps partiel régi par les articles R. 6152-201 à R. 6152-277 du code de la santé publique.

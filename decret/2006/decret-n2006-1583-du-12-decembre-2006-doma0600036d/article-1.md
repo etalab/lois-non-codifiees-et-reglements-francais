@@ -1,3 +1,0 @@
-# Article 1
-
-Les agents titulaires et les agents non titulaires de la collectivité départementale de Mayotte, des communes et de leurs établissements publics administratifs, qui n'ont pas été intégrés ou titularisés dans un corps ou un cadre d'emplois de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière en application des II et III de l'article 64-1 de la loi du 11 juillet 2001 susvisée, sont régis par les dispositions statutaires et de rémunération applicables respectivement aux agents titulaires et aux agents non titulaires de la collectivité départementale et par les dispositions du présent décret.

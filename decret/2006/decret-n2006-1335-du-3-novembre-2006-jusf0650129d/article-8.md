@@ -1,3 +1,0 @@
-# Article 8
-
-Le décret n° 71-318 du 27 avril 1971 modifié relatif à l'indemnité de risques et de sujétions spéciales allouée à certaines catégories de personnels des services extérieurs de l'éducation surveillée et de l'administration pénitentiaire en tant qu'il concerne les personnels de la protection judiciaire de la jeunesse, le décret n° 2002-805 du 3 mai 2002 instituant une indemnité particulière de service allouée à certains personnels de la protection judiciaire de la jeunesse et le décret n° 2002-806 du 3 mai 2002 instituant une indemnité pour travaux supplémentaires d'enseignement en faveur de certains personnels de la protection judiciaire de la jeunesse sont abrogés.
