@@ -174,6 +174,7 @@
 - [Décret n°2011-897 du 27 juillet 2011 (AGRT1112440D)](decret-n2011-897-du-27-juillet-2011-agrt1112440d)
 - [Décret n°2011-899 du 27 juillet 2011 (TRAT1104377D)](decret-n2011-899-du-27-juillet-2011-trat1104377d)
 - [Décret n°2011-910 du 27 juillet 2011 (TRAT1104397D)](decret-n2011-910-du-27-juillet-2011-trat1104397d)
+- [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
 - [Décret n°2011-600 du 27 mai 2011 (JUSB1003150D)](decret-n2011-600-du-27-mai-2011-jusb1003150d)
 - [Décret n°2011-737 du 28 juin 2011 (DEFD1108775D)](decret-n2011-737-du-28-juin-2011-defd1108775d)
 - [Décret n°2011-738 du 28 juin 2011 (DEVL1113133D)](decret-n2011-738-du-28-juin-2011-devl1113133d)
