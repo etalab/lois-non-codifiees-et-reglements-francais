@@ -6,6 +6,8 @@ L'étudiant inscrit en cycle court choisit, en fin d'année propédeutique, une 
 
 - design d'espace ;
 
-- design de produit.
+- design de produit ;
+
+- design textile.
 
 Aux options citées ci-dessus peuvent être ajoutées, dans le cadre des projets pédagogiques des établissements, des mentions spécifiques dont l'appellation est déterminée par le directeur de l'établissement concerné en accord avec l'inspection générale de l'enseignement artistique.

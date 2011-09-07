@@ -1,9 +1,9 @@
 # Article 23
 
-Le diplôme national d'arts plastiques est délivré par le ministre chargé de la culture.
+Le jury du diplôme national d'arts plastiques, nommé par le directeur de l'établissement, comprend trois membres :
 
-Le jury comprend trois membres nommés par le ministre de la culture :
+- deux personnalités extérieures à l'établissement, dont l'une assure la présidence ;
 
-- un enseignant de l'école ;
+- un professeur de l'établissement, chargé de fonctions de coordination dans l'année ou le cursus considéré.
 
-- deux représentants du ministre chargé de la culture, dont l'un est président du jury.
+Des suppléants sont nommés dans les mêmes conditions.

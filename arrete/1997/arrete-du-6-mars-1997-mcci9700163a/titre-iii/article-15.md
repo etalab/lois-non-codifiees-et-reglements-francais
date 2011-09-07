@@ -1,7 +1,11 @@
 # Article 15
 
-Les jurys du diplôme national d'arts et techniques comprennent :
+Le jury du diplôme national d'arts et techniques, nommé par le directeur de l'établissement, comprend quatre membres :
 
--le   directeur général de la création artistique ou son représentant, président ;
+- trois personnalités extérieures à l'établissement, dont un professeur des champs théoriques ;
 
--deux enseignants et un représentant de la profession artistique concernée, nommés par le ministre chargé de la culture.
+- un professeur de l'établissement.
+
+La présidence est confiée à l'une des personnalités extérieures.
+
+Des suppléants sont nommés dans les mêmes conditions.
