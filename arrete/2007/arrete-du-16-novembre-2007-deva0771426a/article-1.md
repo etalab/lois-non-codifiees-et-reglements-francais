@@ -1,3 +1,5 @@
 # Article 1
 
-L'examen professionnel d'accès au corps des adjoints d'administration de l'aviation civile visé à l'article 8 du décret du 26 mars 1993 susvisé comporte une épreuve pratique d'une durée de trente minutes en présence de membres du jury ou d'examinateurs spécialisés nommés pour cette épreuve consistant à mettre le candidat en situation professionnelle et destiné à vérifier son aptitude à accueillir le public, à classer les documents et à présenter les éléments d'un dossier.
+L'examen professionnel pour l'accès dans le corps des adjoints d'administration de 1re classe comporte une épreuve orale, d'une durée de 20 minutes, qui consiste en un exposé présenté par le candidat d'une durée de 5 minutes portant sur son expérience professionnelle et les fonctions qu'il a exercées dans le corps des adjoints d'administration de 2e classe.
+
+Cet exposé est suivi d'un entretien avec le jury destiné à vérifier les connaissances professionnelles du candidat. Cet entretien doit également permettre de déterminer les capacités de l'intéressé à se situer dans un environnement professionnel et son aptitude à s'adapter aux missions confiées aux adjoints d'administration de 1re classe de l'aviation civile.

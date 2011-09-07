@@ -8,7 +8,7 @@ Il assure la gestion des moyens communs de l'administration centrale et territor
 
 Il est secondé par un secrétaire général adjoint, directeur de la modernisation et de l'action territoriale, qui le remplace en cas d'absence ou d'empêchement et qui l'assiste dans ses missions ; à ce titre, il anime et coordonne notamment les missions " titres sécurisés " et " prévention et lutte contre la fraude documentaire " rattachées au secrétaire général. Il dispose d'un cabinet.
 
-Au titre de ses fonctions de haut fonctionnaire de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, directeur de la prospective et de la planification de sécurité nationale.
+Au titre de ses fonctions de haut fonctionnaire de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, chef du service du haut fonctionnaire de défense.
 
 Il est pour le ministère de l'intérieur l'interlocuteur du secrétaire général de la défense et de la sécurité nationale et des fonctionnaires de défense et de sécurité.
 

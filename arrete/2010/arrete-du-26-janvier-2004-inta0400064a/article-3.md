@@ -14,8 +14,8 @@ Il définit la politique du ministère en matière d'informatique et de téléco
 
 Il impulse la modernisation des statuts de l'ensemble des corps de fonctionnaires relevant de sa compétence. Il assure la cohérence des évolutions statutaires de l'ensemble des corps de fonctionnaires relevant du ministère, des politiques de formation et des politiques d'action sociale.
 
-Le secrétaire général est chargé d'une mission de veille stratégique sur les changements institutionnels, juridiques ou technologiques susceptibles de concerner le ministère.
-
-Il détermine et conduit les actions de communication interne et externe du ministère.
+Le secrétaire général détermine et conduit les actions de communication interne et externe du ministère.
 
 Il peut assurer au nom du ministre la présidence du comité technique paritaire ministériel.
+
+Il assure le secrétariat du collège stratégique.

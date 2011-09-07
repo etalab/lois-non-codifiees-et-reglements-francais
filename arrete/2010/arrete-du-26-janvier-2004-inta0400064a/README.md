@@ -8,7 +8,7 @@
 - [Section III : Direction de l'évaluation de la performance, et des affaires financières et immobilières.](section-iii)
 - [Article 4](article-4.md)
 - [Section IV : Direction des systèmes d'information et de communication.](section-iv)
-- [Section V :      Direction de la prospective et de la planification de sécurité nationale.](section-v)
+- [Section V : Le service du haut fonctionnaire de défense.](section-v)
 - [Section VII : Délégation aux affaires internationales et européennes.](section-vii)
 - [Section VIII : Délégation à l'information et à la communication.](section-viii)
 - [Article 30](article-30.md)

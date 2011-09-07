@@ -10,7 +10,7 @@ Le secrétaire général dirige les activités des directions et de la délégat
 
 4. La direction des systèmes d'information et de communication ;
 
-5. La direction de la prospective et de la planification de sécurité nationale ;
+5. Le service du haut fonctionnaire de défense ;
 
 6. La délégation à l'information et à la communication ;
 
