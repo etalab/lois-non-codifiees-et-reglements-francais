@@ -1,6 +1,6 @@
 # Article 1
 
-Les cotisations dues au régime général de sécurité sociale et au fonds national d'aide au logement [*FNAL*] sont calculées forfaitairement, conformément au tableau ci-après, sur les rémunérations mensuelles minimales légales des apprentis fixées, en application des articles L. 117-10 et L. 118-1 du code du travail, sur la base des cinquante-deux douzièmes de la durée légale hebdomadaire du travail :
+Les cotisations dues au régime général de sécurité sociale et au fonds national d'aide au logement sont calculées forfaitairement, conformément au tableau ci-après, sur les rémunérations mensuelles minimales légales des apprentis fixées, en application des articles L. 117-10 et L. 118-1 du code du travail, sur la base des cinquante-deux douzièmes de la durée légale hebdomadaire du travail :
 
 <table>
 <tbody>
@@ -9,7 +9,7 @@ Les cotisations dues au régime général de sécurité sociale et au fonds nati
 <p align="center">REMUNERATION MINIMALE EN FONCTION<br/>du semestre d'apprentissage et du type de contrat.</p>
 </td>
 <td width="340">
-<p align="center">BASE FORFAITAIRE MENSUELLE<br/>des cotisations [*assiette*].</p>
+<p align="center">BASE FORFAITAIRE MENSUELLE<br/>des cotisations.</p>
 </td>
 </tr>
 <tr>
@@ -71,4 +71,4 @@ Les cotisations dues au régime général de sécurité sociale et au fonds nati
 </tbody>
 </table>
 
-Pour l'application du présent article, l'assiette mensuelle est calculée sur la base de cent soixante-neuf-fois le montant du SMIC en vigueur au 1er janvier de l'année au cours de laquelle est versée la rémunération.
+Pour l'application du présent article, l'assiette mensuelle est calculée sur la base de 151,67 fois le montant horaire du SMIC en vigueur au 1er janvier de l'année au cours de laquelle est versée la rémunération.
