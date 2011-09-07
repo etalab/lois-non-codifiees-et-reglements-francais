@@ -18,7 +18,7 @@ Deux officiers professionnels du grade de capitaine ou d'un grade supérieur, me
 
 désigné en application des dispositions du troisième alinéa de l'article 14 du décret n° 85-1229 du 20 novembre 1985
 
-Le conseiller juridique de la direction de la sécurité civile ;
+Le conseiller juridique de la    direction générale de la sécurité civile et de la gestion des crises ;
 
 Deux professeurs de sciences d'une école d'ingénieurs.
 

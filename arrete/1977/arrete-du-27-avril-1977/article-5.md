@@ -4,7 +4,7 @@ La Commission nationale paritaire des sapeurs-pompiers volontaires est constitu�
 
 " a) Représentants de l'administration
 
-" Le directeur de la sécurité civile ou son représentant ;
+" Le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 " Un président de conseil général ou un conseiller général le représentant ;
 
@@ -16,11 +16,11 @@ La Commission nationale paritaire des sapeurs-pompiers volontaires est constitu�
 
 " Le directeur général des collectivités locales ou son représentant ;
 
-" Le sous-directeur de l'administration générale à la direction de la sécurité civile ;
+" Le sous-directeur de l'administration générale à la direction générale de la sécurité civile et de la gestion des crises ;
 
-" Un administrateur civil désigné par le directeur de la sécurité civile ;
+" Un administrateur civil désigné par le directeur général de la sécurité civile et de la gestion des crises ;
 
-" Un médecin de corps de sapeurs-pompiers désigné par le directeur de la sécurité civile. "
+" Un médecin de corps de sapeurs-pompiers désigné par le directeur général de la sécurité civile et de la gestion des crises. "
 
 " b) Représentants des personnels
 

@@ -105,6 +105,7 @@
 - [Décret n°2011-985 du 23 août 2011 (DEVP1115326D)](decret-n2011-985-du-23-aout-2011-devp1115326d)
 - [Décret n°2011-986 du 23 août 2011 (JUSA1111558D)](decret-n2011-986-du-23-aout-2011-jusa1111558d)
 - [Décret n°2011-987 du 23 août 2011 (JUSC1112998D)](decret-n2011-987-du-23-aout-2011-jusc1112998d)
+- [Décret n°2011-988 du 23 août 2011 (IOCA1119682D)](decret-n2011-988-du-23-aout-2011-ioca1119682d)
 - [Décret n°2011-989 du 23 août 2011 (EFII1116568D)](decret-n2011-989-du-23-aout-2011-efii1116568d)
 - [Décret n°2011-990 du 23 août 2011 (MENH1022567D)](decret-n2011-990-du-23-aout-2011-menh1022567d)
 - [Décret n°2011-991 du 23 août 2011 (BCRD1104894D)](decret-n2011-991-du-23-aout-2011-bcrd1104894d)
