@@ -367,7 +367,7 @@ Services de l'administration centrale
 <p align="center">57</p>
 </td>
 <td valign="top" width="273">
-<p>Direction de la sécurité civile</p>
+<p>Direction générale de la sécurité civile et de la gestion des crises</p>
 </td>
 <td valign="top" width="221">
 <p>Chef démineur (CID, Metz)</p>

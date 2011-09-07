@@ -4,7 +4,7 @@ Le comité de sélection à l'emploi de directeur départemental des services d'
 
 Président :
 
--le        directeur de la sécurité civile ou son représentant.
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant.
 
 Autres membres :
 

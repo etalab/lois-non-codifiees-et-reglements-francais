@@ -26,7 +26,7 @@ Ministère de l'éducation nationale :
 
 Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales :
 
-― direction de la sécurité civile : équipe pédagogique nationale de secourisme des sapeurs-pompiers ;
+―    direction générale de la sécurité civile et de la gestion des crises : équipe pédagogique nationale de secourisme des sapeurs-pompiers ;
 
 ― direction générale de la police nationale ;
 

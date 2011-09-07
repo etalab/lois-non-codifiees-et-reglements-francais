@@ -4,7 +4,7 @@ La commission d'appel d'offres est composée comme suit :
 
 a) Sont membres de la commission avec voix délibérative :
 
-Le        directeur de la sécurité civile, haut fonctionnaire de défense ou son représentant, président de la commission ;
+Le    directeur général de la sécurité civile et de la gestion des crises, haut fonctionnaire de défense ou son représentant, président de la commission ;
 
 Le sous-directeur de l'administration et de la logistique ou son représentant :
 

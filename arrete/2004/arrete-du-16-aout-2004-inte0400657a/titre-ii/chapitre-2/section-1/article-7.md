@@ -4,7 +4,7 @@ Le jury d'attribution du brevet de médecin sapeur-pompier professionnel de 2e c
 
 Il est constitué des membres suivants :
 
-Président : le        directeur de la sécurité civile ou son représentant.
+Président : le    directeur général de la sécurité civile et de la gestion des crises ou son représentant.
 
 Autres membres :
 

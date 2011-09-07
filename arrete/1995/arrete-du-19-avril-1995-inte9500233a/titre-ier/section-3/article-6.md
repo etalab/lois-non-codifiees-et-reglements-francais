@@ -2,22 +2,22 @@
 
 Le jury est nommé par arrêté du ministre chargé de la sécurité civile et composé ainsi qu'il suit :
 
-- le directeur de la sécurité civile ou son représentant, président ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, président ;
 
-- deux élus locaux, membres de la commission administrative paritaire nationale compétente à l'égard des lieutenants de sapeurs-pompiers professionnels ;
+-deux élus locaux, membres de la commission administrative paritaire nationale compétente à l'égard des lieutenants de sapeurs-pompiers professionnels ;
 
-- le chef de l'inspection de la sécurité civile ou son représentant ;
+-le chef de l'inspection de la sécurité civile ou son représentant ;
 
-- un chef d'état-major de zone de la sécurité civile ;
+-un chef d'état-major de zone de la sécurité civile ;
 
-- un directeur départemental des services d'incendie et de secours ;
+-un directeur départemental des services d'incendie et de secours ;
 
-- le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant, choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
+-le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant, choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
 
-- un officier de sapeurs-pompiers professionnels ayant au moins le grade de commandant de sapeurs-pompiers professionnels ;
+-un officier de sapeurs-pompiers professionnels ayant au moins le grade de commandant de sapeurs-pompiers professionnels ;
 
-- un représentant du Centre national de la fonction publique territoriale ;
+-un représentant du Centre national de la fonction publique territoriale ;
 
-- deux représentants du personnel, membres de la commission administrative paritaire compétente à l'égard des lieutenants de sapeurs-pompiers professionnels désignés par tirage au sort parmi ces représentants.
+-deux représentants du personnel, membres de la commission administrative paritaire compétente à l'égard des lieutenants de sapeurs-pompiers professionnels désignés par tirage au sort parmi ces représentants.
 
 En cas de partage égal des voix, la voix de président est prépondérante.

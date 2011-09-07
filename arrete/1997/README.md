@@ -166,6 +166,7 @@
 - [Arrêté du 6 août 1997 (ECOC9700155A)](arrete-du-6-aout-1997-ecoc9700155a)
 - [Arrêté du 6 août 1997 (ECOC9700175A)](arrete-du-6-aout-1997-ecoc9700175a)
 - [Arrêté du 6 décembre 1996 (COPC9600020A)](arrete-du-6-decembre-1996-copc9600020a)
+- [Arrêté du 6 décembre 1996 (EQUT9601643A)](arrete-du-6-decembre-1996-equt9601643a)
 - [Arrêté du 6 décembre 1996 (TASS9624291A)](arrete-du-6-decembre-1996-tass9624291a)
 - [Arrêté du 6 février 1997 (JUSG9760010A)](arrete-du-6-fevrier-1997-jusg9760010a)
 - [Arrêté du 6 février 1997 (MCCB9600629A)](arrete-du-6-fevrier-1997-mccb9600629a)

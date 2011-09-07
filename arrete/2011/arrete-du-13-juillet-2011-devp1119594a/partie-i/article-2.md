@@ -20,7 +20,7 @@ Au titre du ministère chargé du développement durable :
 
 Au titre du ministère chargé de l'intérieur :
 
-― le directeur de la sécurité civile ou son représentant ;
+― le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 ― un préfet ou son représentant ;
 

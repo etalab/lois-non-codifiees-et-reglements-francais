@@ -6,7 +6,7 @@ Le conseil d'administration comprend vingt-quatre membres :
 
 a) Trois membres de droit :
 
--le directeur de la sécurité civile ou son représentant ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 -le directeur de l'évaluation de la performance et des affaires financières et immobilières ou son représentant ;
 

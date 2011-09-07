@@ -10,7 +10,7 @@ c) De deux représentants des sapeurs-pompiers désignés par les organisations 
 
 d) Du directeur départemental des services d'incendie et de secours mentionné au f de l'article 1er ;
 
-e) Du        directeur de la sécurité civile.
+e) Du    directeur général de la sécurité civile et de la gestion des crises.
 
 Le bureau établit l'ordre du jour des séances de la conférence nationale. Il peut recevoir délégation de la conférence pour émettre des voeux ou des avis relatifs aux projets portant sur certaines catégories d'actes réglementaires, dans les conditions fixées par le règlement intérieur ou en cas d'urgence à condition d'en rendre compte à la séance la plus proche.
 

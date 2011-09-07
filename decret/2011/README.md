@@ -93,6 +93,7 @@
 - [Décret n°2012-250 du 21 février 2012 (BCRP1128913D)](decret-n2012-250-du-21-fevrier-2012-bcrp1128913d)
 - [Décret n°2012-251 du 21 février 2012 (BCRP1128918D)](decret-n2012-251-du-21-fevrier-2012-bcrp1128918d)
 - [Décret n°2010-166 du 22 février 2010 (ECEI0927343D)](decret-n2010-166-du-22-fevrier-2010-ecei0927343d)
+- [Décret n°2011-314 du 22 mars 2011 (OMEO1014541D)](decret-n2011-314-du-22-mars-2011-omeo1014541d)
 - [Décret n°2011-868 du 22 juillet 2011 (IOCD1108795D)](decret-n2011-868-du-22-juillet-2011-iocd1108795d)
 - [Décret n°2011-869 du 22 juillet 2011 (IOCD1109587D)](decret-n2011-869-du-22-juillet-2011-iocd1109587d)
 - [Décret n°2011-1171 du 23 septembre 2011 (DEVA1122974D)](decret-n2011-1171-du-23-septembre-2011-deva1122974d)

@@ -24,4 +24,4 @@ En référence à l'article 2 de l'arrêté du 6 mai 2000 susvisé, la tenue du 
 
 La tenue est adaptée en fonction des manœuvres, des conditions climatiques et du règlement intérieur de l'union départementale ou de l'association départementale habilitée.
 
-Les caractéristiques de l'écusson seront définies par une note d'information technique diffusée par la direction de la sécurité civile.
+Les caractéristiques de l'écusson seront définies par une note d'information technique diffusée par la    direction générale de la sécurité civile et de la gestion des crises.

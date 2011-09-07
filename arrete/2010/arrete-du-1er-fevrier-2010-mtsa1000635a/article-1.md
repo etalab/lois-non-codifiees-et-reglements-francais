@@ -4,9 +4,9 @@ Le Comité national de pilotage du centre national de relais chargé de la réce
 
 ― le directeur général de l'action sociale ou son représentant ;
 
-― le           directeur général de l'offre de soins  ou son représentant ;
+― le directeur général de l'offre de soins ou son représentant ;
 
-― le directeur de la sécurité civile ou son représentant ;
+― le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 ― le directeur général de la police nationale ou son représentant ;
 

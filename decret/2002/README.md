@@ -60,6 +60,7 @@
 - [Décret n°2002-212 du 12 février 2002 (EQUA0101663D)](decret-n2002-212-du-12-fevrier-2002-equa0101663d)
 - [Décret n°2002-511 du 12 avril 2002 (DEFM0201373D)](decret-n2002-511-du-12-avril-2002-defm0201373d)
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
+- [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
 - [Décret n°2002-1260 du 14 octobre 2002 (FPPA0210023D)](decret-n2002-1260-du-14-octobre-2002-fppa0210023d)

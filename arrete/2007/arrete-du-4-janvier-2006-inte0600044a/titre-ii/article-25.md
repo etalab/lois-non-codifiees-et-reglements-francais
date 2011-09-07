@@ -12,7 +12,7 @@ Présidé par le sous-directeur des sapeurs-pompiers et des acteurs du secours o
 
 -un représentant du Centre national de la fonction publique territoriale désigné par ce dernier ;
 
--deux chefs d'état-major de zone de défense désignés par le        directeur de la sécurité civile ;
+-deux chefs d'état-major de zone de défense désignés par le    directeur général de la sécurité civile et de la gestion des crises ;
 
 -le président de la Conférence nationale des services d'incendie et de secours ou son représentant ;
 

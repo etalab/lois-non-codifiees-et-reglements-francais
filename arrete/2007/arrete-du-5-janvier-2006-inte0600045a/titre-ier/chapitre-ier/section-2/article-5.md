@@ -4,11 +4,11 @@ Le jury validant la formation d'intégration des élèves lieutenants et des lie
 
 Membres de droit :
 
--le directeur de la sécurité civile ou son représentant, président ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, président ;
 
 -le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant.
 
-Membres et leurs suppléants ayant même qualité, nommés par le directeur de la sécurité civile :
+Membres et leurs suppléants ayant même qualité, nommés par le    directeur général de la sécurité civile et de la gestion des crises :
 
 -un élu territorial, membre du conseil d'administration d'un service départemental d'incendie et de secours ;
 

@@ -1,6 +1,6 @@
 # Article 4
 
-Le CHEMI est composé d'une équipe d'encadrement pluridisciplinaire issue principalement du secrétariat général, de la direction générale de la police nationale, de la direction générale de la gendarmerie nationale et de la direction de la sécurité civile.
+Le CHEMI est composé d'une équipe d'encadrement pluridisciplinaire issue principalement du secrétariat général, de la direction générale de la police nationale, de la direction générale de la gendarmerie nationale et de la    direction générale de la sécurité civile et de la gestion des crises.
 
 Son organisation et son budget de fonctionnement sont fixés par le secrétaire général du ministère.
 

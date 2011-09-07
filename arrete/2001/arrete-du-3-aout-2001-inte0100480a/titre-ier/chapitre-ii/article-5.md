@@ -2,7 +2,7 @@
 
 Le jury est nommé par arrêté du ministre de l'intérieur et composé d'au moins six membres titulaires répartis en trois collèges égaux représentant les officiers de sapeurs-pompiers professionnels, les personnalités qualifiées et les élus locaux :
 
-Président : le        directeur de la sécurité civile ou son représentant.
+Président : le    directeur général de la sécurité civile et de la gestion des crises ou son représentant.
 
 Autres membres :
 

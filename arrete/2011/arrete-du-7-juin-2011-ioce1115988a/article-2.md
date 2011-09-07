@@ -14,7 +14,7 @@ d) Ne pas effectuer la vérification d'établissements appartenant à une person
 
 e) Fournir l'engagement écrit de respecter les exigences réglementant la profession du spectacle, notamment en ce qui concerne les incompatibilités prévues à l'article L. 762-5 du code du travail et les conditions de création et de fonctionnement des entreprises de spectacles régies par l'ordonnance du 13 octobre 1945 ;
 
-f) Adresser au ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration (direction de la sécurité civile) un dossier comprenant :
+f) Adresser au ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration (    direction générale de la sécurité civile et de la gestion des crises) un dossier comprenant :
 
 ― les statuts de cet organisme ;
 

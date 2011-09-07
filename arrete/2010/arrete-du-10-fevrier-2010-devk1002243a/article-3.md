@@ -22,7 +22,7 @@ Un représentant d'une direction départementale des territoires.
 
 Sur proposition du ministre chargé de l'intérieur
 
-Un représentant de la direction de la sécurité civile.
+Un représentant de la    direction générale de la sécurité civile et de la gestion des crises.
 
 Sur proposition du ministre chargé de l'agriculture
 

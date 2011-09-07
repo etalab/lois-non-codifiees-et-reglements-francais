@@ -10,7 +10,7 @@ Emplois de guichet et emplois d'encadrement dans les bureaux des étrangers.
 
 Fonction d'encadrement
 
-Emplois de chef de bureau de personnel des préfectures et des secrétariats généraux pour l'administration de la police (S.G.A.P.).
+Emplois de chef de bureau de personnel des préfectures et des secrétariats généraux pour l'administration de la police (S. G. A. P.).
 
 Fonction impliquant une technicité particulière
 
@@ -34,21 +34,21 @@ Fonction impliquant une technicité particulière
 
 Au titre des actions de modernisation :
 
-- emplois liés notamment à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
+-emplois liés notamment à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
 
 Au titre des attributions financières, comptables et juridiques :
 
-- emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
+-emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
 
-- emplois d'adjoint aux régisseurs de recettes ;
+-emplois d'adjoint aux régisseurs de recettes ;
 
-- emplois de responsable de l'établissement des documents budgétaires ;
+-emplois de responsable de l'établissement des documents budgétaires ;
 
-- emplois afférents à la gestion des marchés.
+-emplois afférents à la gestion des marchés.
 
 Au titre des compétences techniques :
 
-- emplois hautement spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières.
+-emplois hautement spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières.
 
 3° PERSONNELS DES CORPS DES SERVICES techniques du matériel
 
@@ -60,17 +60,17 @@ Fonction impliquant une technicité particulière
 
 Police :
 
-- emplois requérant une technicité particulière en matière d'études ou d'habillement, de véhicules et d'armement.
+-emplois requérant une technicité particulière en matière d'études ou d'habillement, de véhicules et d'armement.
 
 Immobilier :
 
-- emplois de gestionnaire immobilier ;
+-emplois de gestionnaire immobilier ;
 
-- emplois de responsable de la définition des programmes immobiliers.
+-emplois de responsable de la définition des programmes immobiliers.
 
 Sécurité civile :
 
-- emplois hautement spécialisés de la direction de la sécurité civile.
+-emplois hautement spécialisés de la direction générale de la sécurité civile et de la gestion des crises.
 
 4° PERSONNELS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION
 
@@ -136,21 +136,21 @@ Fonction impliquant une technicité particulière
 
 Au titre des actions de modernisation :
 
-- emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
+-emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
 
 Au titre des attributions financières, comptables et juridiques :
 
-- emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
+-emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
 
-- emplois d'adjoint aux régisseurs de recettes ;
+-emplois d'adjoint aux régisseurs de recettes ;
 
-- emplois de responsable de l'établissement des documents budgétaires ;
+-emplois de responsable de l'établissement des documents budgétaires ;
 
-- emplois afférents à la gestion des marchés ;
+-emplois afférents à la gestion des marchés ;
 
 Au titre des compétences techniques :
 
-- emplois hautement spécialisés impliquant l'utilisation de matériels et de documentations techniques très particulières.
+-emplois hautement spécialisés impliquant l'utilisation de matériels et de documentations techniques très particulières.
 
 PERSONNELS DU CADRE NATIONAL DES PREFECTURES
 
@@ -160,7 +160,7 @@ Emplois de guichet et emplois d'encadrement dans les bureaux délivrant les cart
 
 Fonction d'encadrement
 
-Emplois de chefs de bureau des services interministériels des affaires civiles et économiques de défense et de protection civile (S.I.A.C.E.D.P.C.) et de chefs de bureau de l'habillement, des moyens de fonctionnement, des moyens mobiles et de l'armement dans les S.G.A.P.
+Emplois de chefs de bureau des services interministériels des affaires civiles et économiques de défense et de protection civile (S. I. A. C. E. D. P. C.) et de chefs de bureau de l'habillement, des moyens de fonctionnement, des moyens mobiles et de l'armement dans les S. G. A. P.
 
 Fonction impliquant une technicité particulière :
 
@@ -178,15 +178,15 @@ Fonction impliquant une technicité particulière :
 
 Police :
 
-- emplois requérant une technicité particulière en matière d'étude, de moyens de fonctionnement, d'habillement, de véhicules et d'armement.
+-emplois requérant une technicité particulière en matière d'étude, de moyens de fonctionnement, d'habillement, de véhicules et d'armement.
 
 Immobilier :
 
-- emplois de gestionnaire immobilier ou responsable de la définition des programmations.
+-emplois de gestionnaire immobilier ou responsable de la définition des programmations.
 
 Sécurité civile :
 
-- emplois hautement spécialisés de la direction de la sécurité civile.
+-emplois hautement spécialisés de la direction générale de la sécurité civile et de la gestion des crises.
 
 PERSONNELS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION
 
@@ -252,21 +252,21 @@ Fonction impliquant une technicité particulière
 
 Au titre des actions de modernisation :
 
-- emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
+-emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
 
 Au titre des attributions financières, comptables et juridiques :
 
-- emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
+-emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
 
-- emplois d'adjoint aux régisseurs de recettes ;
+-emplois d'adjoint aux régisseurs de recettes ;
 
-- emplois de responsable de l'établissement des documents budgétaires ;
+-emplois de responsable de l'établissement des documents budgétaires ;
 
-- emplois afférents à la gestion des marchés.
+-emplois afférents à la gestion des marchés.
 
 Au titre des compétences techniques :
 
-- emplois hautement spécialisés impliquant l'utilisation de
+-emplois hautement spécialisés impliquant l'utilisation de
 
 matériels et de documentations techniques très particulières.
 
@@ -308,7 +308,7 @@ Police : emplois requérant une technicité particulière en matière d'étude, 
 
 Immobilier : emplois de gestionnaire immobilier ou responsable de la définition des programmes.
 
-Sécurité civile : emplois hautement spécialisés à la direction de la sécurité civile.
+Sécurité civile : emplois hautement spécialisés à la direction générale de la sécurité civile et de la gestion des crises.
 
 PERSONNELS DES CORPS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION ET DE L'INFORMATIQUE
 

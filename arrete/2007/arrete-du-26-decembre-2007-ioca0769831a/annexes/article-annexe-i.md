@@ -1,6 +1,8 @@
 # Article Annexe I
 
-LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRALE ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
+LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRALE
+
+ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
 <table>
 <tbody>
@@ -36,84 +38,88 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Cabinet du ministre. </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du bureau des cabinets. </p>
 </td>
-<td align="center">
-<p align="center">
-<br/>60 <br/>
-</p>
+<td align="left" valign="top">
+<p align="center">60</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="left" rowspan="4" valign="top">
 <p align="left">Direction des libertés publiques et des affaires juridiques. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage. </p>
-<p>Chef du bureau du contentieux des polices administratives. </p>
-<p>Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières. </p>
-<p>Chef du bureau du droit et des procédures d'expulsion. </p>
+<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">60<br/>
-</p>
+<p align="center">60</p>
+</td>
+</tr>
+<tr>
+<td>Chef du bureau du contentieux des polices administratives. </td>
+<td>
 <p align="center">50 </p>
-<p align="center">30 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Chef du bureau du droit et des procédures d'expulsion.</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Direction générale de la sécurité civile et de la gestion des crises. <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du bureau des affaires financières et juridiques.</p>
+</td>
+<td align="center">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du bureau du statut, du management et du dialogue social. </p>
+</td>
+<td align="center">
 <p align="center">30</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de la sécurité civile. <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau des affaires financières et juridiques. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du bureau du statut, du management et du dialogue social. </p>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
 <p align="left">Adjoint au chef du groupement d'hélicoptères. </p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Adjoint administratif du chef de la base avions de la sécurité civile. <br/>
-</p>
+<p align="left">Adjoint administratif du chef de la base avions de la sécurité civile.</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td>
+<td align="left" valign="top">
 <p align="left">Chef du bureau de l'alerte, de la planification et de la préparation aux crises. </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">30</p>
 </td>
 </tr>
@@ -129,8 +135,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p>Chef de cabinet. </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>50 </p>
+<p align="center">50 </p>
 <p align="center">30 </p>
 <p align="center">30 <br/>
 </p>
@@ -138,27 +143,50 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>Direction de l'évaluation de la performance et des affaires financières et immobilières. (2)<br/>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Direction de l'évaluation de la performance et des affaires financières et immobilières. (2)</p>
 </td>
 <td align="left" valign="top">
-<br/>Chef du bureau du budget et du fonctionnement. <p>Chef du bureau de la qualité juridique et comptable. </p>
-<p>Chef du centre de service Chorus pour l'administration générale. </p>
-<p>Adjoint au chef du bureau de la synthèse budgétaire et financière. </p>
-<p>Adjoint au chef du bureau des affaires immobilières d'administration centrale. <br/>
-</p>
+<p align="left">Chef du bureau du budget et du fonctionnement.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>60 </p>
+<p align="center">60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef du bureau de la qualité juridique et comptable. </p>
+</td>
+<td>
 <p align="center">50 </p>
-<p align="center">30 </p>
-<p align="center">30 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef du centre de service Chorus pour l'administration générale.</p>
+</td>
+<td align="left" valign="top">
 <p align="center">30 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du bureau de la synthèse budgétaire et financière. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">30 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du bureau des affaires immobilières d'administration centrale.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
 <p align="left">Direction de la modernisation et de l'action territoriale. <br/>
 </p>
 </td>
@@ -171,7 +199,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p>Chef du bureau de la sécurité et de la réglementation routières. <br/>
 </p>
@@ -181,9 +208,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef du service du fichier national des permis de conduire. <br/>
+<td align="center">
+<p align="left">Chef du service du fichier national des permis de conduire. <br/>
 </p>
 </td>
 <td align="center">
@@ -196,15 +222,13 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </p>
 </td>
 <td align="center">
-<p align="left">Coordonnateur de la délégation aux affaires internationales et européennes. <br/>
-</p>
+<p align="left">Coordonnateur de la délégation aux affaires internationales et européennes.</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" rowspan="7" valign="top">
 <p align="left">Direction des ressources humaines. <br/>
 </p>
 </td>
@@ -213,95 +237,72 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </p>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du bureau des affaires financières et de l'évaluation de la dépense. <br/>
+<p align="center">50 <br/>
 </p>
 </td>
+</tr>
+<tr>
 <td align="center">
-<br/>30 <br/>
+<p align="left">Chef du bureau des affaires financières et de l'évaluation de la dépense.</p>
+</td>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p align="left">Adjoint au chef du bureau des personnels administratifs. <br/>
 </p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Adjoint au chef du bureau des personnels techniques et spécialisés. <br/>
-</p>
+<p align="left">Adjoint au chef du bureau des personnels techniques et spécialisés.</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Chef de la mission projets professionnels. <br/>
-</p>
+<p align="left">Chef de la mission projets professionnels. </p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Chef de cabinet. <br/>
-</p>
+<p align="left">Chef de cabinet.</p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td/>
 <td align="center">
-<p align="left">Chef de projet SINOPE. <br/>
-</p>
+<p align="left">Chef de projet SINOPE.</p>
 </td>
 <td align="center">30</td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" rowspan="3" valign="top">
 <p align="left">Direction générale des collectivités locales. <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. <br/>
-</p>
+<p align="left">Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat.</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Chef du bureau de l'emploi territorial et de la protection sociale. <br/>
-</p>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef de cabinet. <br/>
-</p>
+<p align="left">Chef du bureau de l'emploi territorial et de la protection sociale.</p>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -309,6 +310,15 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </tr>
 <tr>
 <td align="center">
+<p align="left">Chef de cabinet.</p>
+</td>
+<td align="center">
+<p align="center">30 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="12" valign="top">
 <p align="left">Direction générale de la police nationale. <br/>
 </p>
 </td>
@@ -321,17 +331,14 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p align="left">Chef du bureau des personnels administratifs, techniques et scientifiques. (1) <br/>
 </p>
 </td>
-<td align="center">
-<br/>50 <br/>
+<td align="center">50 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p align="left">Chef du bureau de la sécurité et de la santé au travail. </p>
 </td>
@@ -340,7 +347,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p align="left">Chef du département de la coordination des établissements. <br/>
 </p>
@@ -350,7 +356,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
 <p align="left">Chef du bureau de l'habillement. <br/>
 </p>
@@ -360,8 +365,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
+<td align="center">
 <p>Chef du bureau de la gestion et de la formation des personnels. <br/>
 </p>
 </td>
@@ -370,9 +374,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef de la division de l'organisation des concours et examens professionnels. <br/>
+<td align="center">
+<p align="left">Chef de la division de l'organisation des concours et examens professionnels. <br/>
 </p>
 </td>
 <td align="center">
@@ -380,107 +383,90 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef de cabinet du directeur des ressources et des compétences de la police nationale. <br/>
-</p>
+<td align="center">
+<p align="left">Chef de cabinet du directeur des ressources et des compétences de la police nationale.</p>
 </td>
 <td align="center">
 <br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef de la mission CHORUS de la police nationale. </p>
+<td align="center">
+<p align="left">Chef de la mission CHORUS de la police nationale. </p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef de la division de la programmation. <br/>
+<td align="center">
+<p align="left">Chef de la division de la programmation.</p>
+</td>
+<td align="center">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de la division de la formation des personnels administratifs, techniques et scientifiques. <br/>
 </p>
 </td>
-<td align="center">
-<br/>50 <br/>
+<td align="center">50 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="left">
-<p>Chef de la division de la formation des personnels administratifs, techniques et scientifiques. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td align="left"> Chef du bureau des politiques sociales. </td>
+<td> Chef du bureau des politiques sociales. </td>
 <td align="center"> 30</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfecture de police : <br/>
-</p>
+<p align="left">Préfecture de police : </p>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Service du cabinet. <br/>
-</p>
+<p align="left">Service du cabinet.</p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des expulsions locatives et de la voie publique. <br/>
-</p>
+<p align="left">Chef du bureau des expulsions locatives et de la voie publique.</p>
 </td>
 <td align="center">
-<br/>50 <br/>
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Service des affaires juridiques et du contentieux. <br/>
-</p>
+<p align="left">Service des affaires juridiques et du contentieux.</p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau de la protection juridique et de l'assurance. <br/>
-</p>
+<p align="left">Chef du bureau de la protection juridique et de l'assurance.</p>
 </td>
 <td align="center">
-<br/>50 <br/>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Direction des finances, de la commande publique et de la performance.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du bureau du budget de l'Etat.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction des finances, de la commande publique et de la performance. <br/>
-</p>
+<p align="left">Direction des ressources humaines.</p>
 </td>
 <td align="center">
-<p align="left">Adjoint au chef du bureau du budget de l'Etat. <br/>
-</p>
+<p align="left">Chef du bureau du recrutement.</p>
 </td>
 <td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction des ressources humaines. <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Chef du bureau du recrutement. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
@@ -488,101 +474,85 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p align="left">Service des affaires immobilières. <br/>
 </p>
 </td>
-<td align="left">
-<p>Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. </p>
+<td align="center">
+<p align="left">Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. </p>
 </td>
 <td align="center">
 <br/>50 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" rowspan="9" valign="top">
 <p align="left">Direction de la police générale. <br/>
 </p>
 </td>
-<td align="center">
-<p align="left">Chef du 2e bureau. <br/>
+<td align="left" valign="top">
+<p align="left">Chef du 2e bureau.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">60 <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 3e bureau. </p>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 4e bureau. </p>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 5e bureau. </p>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 6e bureau. </p>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 7e bureau. </p>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du 8e bureau. </p>
 </td>
 <td align="center">
 <br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Chef du 3e bureau. <br/>
-</p>
+<p align="left">Chef du 9e bureau. </p>
 </td>
 <td align="center">
 <br/>50 <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
 <td align="center">
-<p align="left">Chef du 4e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 5e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 6e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 7e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 8e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 9e bureau. <br/>
-</p>
-</td>
-<td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<p align="left">Chef du 10e bureau. <br/>
-</p>
+<p align="left">Chef du 10e bureau. </p>
 </td>
 <td align="center">
 <br/>50 <br/>
@@ -590,7 +560,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Direction des transports et de la protection du public. <br/>
+<p align="left">Direction des transports et de la protection du public. <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Chef du bureau des taxis et des transports publics. </p>
@@ -606,8 +577,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p align="center">50 </p>
 <p align="center">50 </p>
 <p align="center">50 </p>
-<p align="center">50 <br/>
-</p>
+<p align="center">50</p>
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
@@ -619,21 +590,19 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p align="left">Chef du service de gestion opérationnelle des personnels et des équipements. <br/>
 </p>
 </td>
-<td align="center">
-<br/>60 <br/>
+<td align="center">60 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction opérationnelle des services techniques et logistiques. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Direction opérationnelle des services techniques et logistiques.</p>
 </td>
-<td align="center">
-<p align="left">Chef du bureau des finances et de la commande publique. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Chef du bureau des finances et de la commande publique.</p>
 </td>
-<td align="center">
-<br/>60 <br/>
+<td align="left" valign="top">
+<p align="center">60 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -649,41 +618,37 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </tr>
 <tr>
 <td align="center">
-<p align="left">Délégation générale à l'outre-mer. <br/>
-</p>
+<p align="left">Délégation générale à l'outre-mer.</p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des ressources et de la coordination. <br/>
-</p>
+<p align="left">Chef du bureau des ressources et de la coordination. </p>
+</td>
+<td align="center">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Service des affaires juridiques et institutionnelles.</p>
+</td>
+<td align="center">
+<p align="left">Chef de la mission contentieux, légistique et fonction publique.</p>
 </td>
 <td align="center">
 <br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Service des affaires juridiques et institutionnelles. <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Service de l'évaluation, de la prospective et de la dépense de l'Etat. </p>
 </td>
-<td align="center">
-<p align="left">Chef de la mission contentieux, légistique et fonction publique. <br/>
-</p>
-</td>
-<td align="center">
-<br/>30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Service de l'évaluation, de la prospective et de la dépense de l'Etat. <br/>
-</p>
-</td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du département de la dépense de l'Etat. <br/>
 </p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="left" valign="top">
+<p align="center">30 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -697,8 +662,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>30 </p>
+<p align="center">30 </p>
 <p align="center">30<br/>
 </p>
 </td>

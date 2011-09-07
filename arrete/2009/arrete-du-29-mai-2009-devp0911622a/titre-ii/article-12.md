@@ -2,7 +2,7 @@
 
 Notification d'expédition à l'Autorité de sûreté nucléaire et au ministère chargé de l'intérieur pour certaines matières radioactives.
 
-1. La notification préalable prévue au 5.1.5.1.4 est adressée par l'expéditeur à l'Autorité de sûreté nucléaire ainsi qu'au ministère de l'intérieur (direction de la sécurité civile ― COGIC) avec copie au transporteur. Ces dispositions s'appliquent également à toute expédition de colis chargé de matière fissile.
+1. La notification préalable prévue au 5.1.5.1.4 est adressée par l'expéditeur à l'Autorité de sûreté nucléaire ainsi qu'au ministère de l'intérieur (    direction générale de la sécurité civile et de la gestion des crises ― COGIC) avec copie au transporteur. Ces dispositions s'appliquent également à toute expédition de colis chargé de matière fissile.
 
 2. La notification préalable prévue au paragraphe 1 du présent article doit parvenir sept jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie.
 
@@ -10,7 +10,7 @@ Notification d'expédition à l'Autorité de sûreté nucléaire et au ministèr
 
 3.1. Les matières transportées :
 
-― nom(s) de la (des) matière(s) radioactive(s) et du (des) nucléide(s) ;
+― nom (s) de la (des) matière (s) radioactive (s) et du (des) nucléide (s) ;
 
 ― activité ;
 
@@ -36,7 +36,7 @@ Notification d'expédition à l'Autorité de sûreté nucléaire et au ministèr
 
 ― numéro du téléphone mobile à bord du véhicule pour les transports par route ;
 
-― nom du (ou des) conducteur(s) ;
+― nom du (ou des) conducteur (s) ;
 
 ― pour les transports par voies de navigation intérieure :
 
@@ -54,7 +54,7 @@ Notification d'expédition à l'Autorité de sûreté nucléaire et au ministèr
 
 ― du destinataire ;
 
-― du (des) sous-traitant(s).
+― du (des) sous-traitant (s).
 
 3.5. Les dispositions particulières (selon le cas) :
 
@@ -64,4 +64,4 @@ Notification d'expédition à l'Autorité de sûreté nucléaire et au ministèr
 
 4. Pour ce qui concerne les transports ferroviaires, le transporteur transmet les informations nécessaires au gestionnaire de l'infrastructure qui prend les dispositions utiles pour que toutes les gares du parcours soient avisées de la circulation de telles expéditions.
 
-5. Les transports intéressant la défense nationale et les transports relevant des articles L. 1333-1 à 14 du code de la défense peuvent faire l'objet, dans certains cas, d'accords particuliers avec la direction de la sécurité civile.
+5. Les transports intéressant la défense nationale et les transports relevant des articles L. 1333-1 à 14 du code de la défense peuvent faire l'objet, dans certains cas, d'accords particuliers avec la    direction générale de la sécurité civile et de la gestion des crises.

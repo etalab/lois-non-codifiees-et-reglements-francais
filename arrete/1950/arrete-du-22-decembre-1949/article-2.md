@@ -1,8 +1,8 @@
 # Article 2
 
-Le comité, qui se réunit à la diligence et sous la présidence du directeur de la sécurité civile ou de son délégué, est composé comme suit :
+Le comité, qui se réunit à la diligence et sous la présidence du    directeur général de la sécurité civile et de la gestion des crises ou de son délégué, est composé comme suit :
 
-Deux représentants de la direction de la sécurité civile ;
+Deux représentants de la direction générale de la sécurité civile et de la gestion des crises ;
 
 Le directeur de la construction au ministère chargé de la construction et de l'habitation ou son représentant ;
 
@@ -24,7 +24,7 @@ Le directeur de la Société nationale des poudres et explosifs, Matériaux éne
 
 Le directeur de l'Institut français du textile et de l'habillement ou son représentant ;
 
-Le directeur de l'Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement) ou son représentant ;
+Le directeur de l'Institut technologique FCBA (forêt, cellulose, bois-construction, ameublement) ou son représentant ;
 
 Le directeur du Centre de recherche et d'études sur les procédés d'ignifugation des matériaux ou son représentant ;
 

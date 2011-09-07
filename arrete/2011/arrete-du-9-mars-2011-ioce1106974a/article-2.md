@@ -12,7 +12,7 @@ La commission des matériels, des équipements et des technologies de l'informat
 
 ― le ministre chargé de la santé ou son représentant ;
 
-― le directeur de la sécurité civile ou son représentant ;
+― le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 ― le directeur des systèmes d'information et de communication ou son représentant ;
 

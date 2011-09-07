@@ -4,7 +4,7 @@
 
 ― le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-― le           directeur général de l'offre de soins  ou son représentant.
+― le directeur général de l'offre de soins ou son représentant.
 
 2° Les membres du comité de pilotage représentant les services utilisateurs sont :
 
@@ -20,7 +20,7 @@ b) Au titre de l'Etat :
 
 ― le directeur général de la gendarmerie nationale ou son représentant ;
 
-― le directeur de la sécurité civile ou son représentant ;
+― le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 ― le préfet de police, préfet de la zone de défense de Paris, ou son représentant.
 

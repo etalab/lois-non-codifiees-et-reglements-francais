@@ -20,21 +20,21 @@ Fonction impliquant une technicité particulière
 
 Au titre des actions de modernisation :
 
-- emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
+-emplois liés à l'informatique, la gestion des ressources humaines et à diverses actions de modernisation du fonctionnement interne de l'administration.
 
 Au titre des attributions financières, comptables et juridiques :
 
-- emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
+-emplois afférents au calcul des délégations de crédits, à la mise à jour des fichiers importants et au suivi de la consommation des crédits ;
 
-- emplois d'adjoint aux régisseurs de recettes ;
+-emplois d'adjoint aux régisseurs de recettes ;
 
-- emplois de responsable de l'établissement des documents budgétaires ;
+-emplois de responsable de l'établissement des documents budgétaires ;
 
-- emplois afférents à la gestion des marchés.
+-emplois afférents à la gestion des marchés.
 
 Au titre des compétences techniques :
 
-- emplois hautement spécialisés impliquant l'utilisation de matériels et de documentations techniques très particulières.
+-emplois hautement spécialisés impliquant l'utilisation de matériels et de documentations techniques très particulières.
 
 Personnels du cadre national des préfectures
 
@@ -76,7 +76,7 @@ Police : emplois requérant une technicité particulière en matière d'étude, 
 
 Immobilier : emplois de gestionnaire immobilier ou responsable de la définition des programmes.
 
-Sécurité civile : emplois hautement spécialisés à la direction de la sécurité civile.
+Sécurité civile : emplois hautement spécialisés à la    direction générale de la sécurité civile et de la gestion des crises.
 
 Personnels des corps des transmissions et de l'informatique
 

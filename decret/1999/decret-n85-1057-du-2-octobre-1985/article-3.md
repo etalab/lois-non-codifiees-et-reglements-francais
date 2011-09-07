@@ -24,8 +24,8 @@ c) La direction de l'évaluation de la performance, et des affaires financières
 
 d) La direction des systèmes d'information et de communication ;
 
-e) La direction de la prospective et de la planification de sécurité nationale ;
+e) Le service du haut fonctionnaire de défense ;
 
 f) La délégation à l'information et à la communication.
 
-Pour l'exercice de ses missions de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, directeur de la prospective et de la planification de sécurité nationale.
+Pour l'exercice de ses missions de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, chef du service du haut fonctionnaire de défense.

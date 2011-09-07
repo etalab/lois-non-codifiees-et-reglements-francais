@@ -12,7 +12,7 @@ Membres de droit :
 
 -le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant.
 
-Membres et leurs suppléants ayant même qualité, nommés par le        directeur de la sécurité civile :
+Membres et leurs suppléants ayant même qualité, nommés par le    directeur général de la sécurité civile et de la gestion des crises :
 
 -un élu, membre du conseil d'administration d'un service départemental d'incendie et de secours ;
 

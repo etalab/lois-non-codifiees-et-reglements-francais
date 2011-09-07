@@ -2,7 +2,7 @@
 
 Dispositions particulières.
 
-1.A compter du 1er janvier 2009, les postulants aux emplois d'agent, de chef d'équipe et de chef de service de sécurité incendie doivent être titulaires des diplômes mentionnés dans le présent arrêté. Les titulaires des diplômes délivrés pour exercer un emploi en application du présent arrêté peuvent accéder aux emplois et aux sessions de recyclage ou de remise à niveau mentionnés, en fonction de leur expérience professionnelle. Ils doivent, au préalable, être titulaires du diplôme de secourisme.
+1. A compter du 1er janvier 2009, les postulants aux emplois d'agent, de chef d'équipe et de chef de service de sécurité incendie doivent être titulaires des diplômes mentionnés dans le présent arrêté. Les titulaires des diplômes délivrés pour exercer un emploi en application du présent arrêté peuvent accéder aux emplois et aux sessions de recyclage ou de remise à niveau mentionnés, en fonction de leur expérience professionnelle. Ils doivent, au préalable, être titulaires du diplôme de secourisme.
 
 2. Les personnes précitées ne pouvant justifier d'au moins 1 607 heures de l'activité réglementée par le présent arrêté sur les trente-six derniers mois doivent se soumettre à une remise à niveau pour accéder à l'emploi (annexe V). Les candidats à la remise à niveau SSIAP 1 ou SSIAP 2 doivent au préalable être déclarés aptes physiquement. Cette aptitude doit être attestée par un certificat médical datant de moins de trois mois conformément à l'annexe VII du présent arrêté.
 
@@ -16,6 +16,6 @@ Il revient au chef du service public d'incendie compétent pour le lieu où s'es
 
 6. Les agréments délivrés en application des arrêtés du 18 mai 1998 précités restent en vigueur jusqu'à la date d'expiration de leur validité.
 
-7. Les dispositions des paragraphes 1,2 et 3 du présent article peuvent faire l'objet de dérogations.A cette fin, une demande doit être adressée par lettre accompagnée des pièces justificatives au ministère de l'intérieur, direction de la sécurité civile, bureau de la réglementation incendie et des risques de la vie courante.
+7. Les dispositions des paragraphes 1,2 et 3 du présent article peuvent faire l'objet de dérogations. A cette fin, une demande doit être adressée par lettre accompagnée des pièces justificatives au ministère de l'intérieur,    direction générale de la sécurité civile et de la gestion des crises, bureau de la réglementation incendie et des risques de la vie courante.
 
 Les justificatifs fournis, notamment concernant les diplômes, peuvent être transmis aux services déconcentrés aux fins de vérification de leur authenticité.

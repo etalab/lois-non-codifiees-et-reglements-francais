@@ -30,7 +30,7 @@ d) Trois représentants des directions régionales de l'industrie, de la recherc
 
 e) Un représentant du bureau des biens d'équipement de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-f) Deux représentants de la direction de la sécurité civile au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales ;
+f) Deux représentants de la    direction générale de la sécurité civile et de la gestion des crises au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales ;
 
 g) Quatre personnalités qualifiées en raison de leur compétence en matière de prévention des pollutions et des risques ;
 

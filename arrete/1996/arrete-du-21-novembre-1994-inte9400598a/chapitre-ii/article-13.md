@@ -20,6 +20,6 @@
 
 " Ces épreuves sont notées sur 20 en fonction du barème figurant en annexe II. Le total de ces notes est divisé par six. La moyenne ainsi obtenue constitue la note des épreuves physiques et sportives qui est affectée du coefficient 1.
 
-" Toute note inférieure à 5 sur 20 obtenue à l'une des épreuves mentionnées ci-dessus et/ou toute moyenne inférieure à 10 sur 20 entraînent l'élimination du candidat. "
+" Toute note inférieure à 5 sur 20 obtenue à l'une des épreuves mentionnées ci-dessus et/ ou toute moyenne inférieure à 10 sur 20 entraînent l'élimination du candidat. "
 
-(Les annexes sont disponibles au ministère de l'intérieur (direction de la sécurité civile, bureau de la formation), place Beauvau, 75800 Paris, dans les préfectures et les services départementaux d'incendie et de secours).
+(Les annexes sont disponibles au ministère de l'intérieur (    direction générale de la sécurité civile et de la gestion des crises, bureau de la formation), place Beauvau, 75800 Paris, dans les préfectures et les services départementaux d'incendie et de secours).

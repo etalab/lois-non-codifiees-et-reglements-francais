@@ -28,4 +28,4 @@ Pour le personnel militaire, la licence se distingue du brevet ou du diplôme mi
 
 Pour le personnel relevant du ministre de la défense, la décision de retrait ou de suspension de la licence est prononcée à l'issue des procédures prévues par les dispositions statutaires applicables à ce personnel, sur demande du ministre de la défense ou de l'autorité habilitée à cet effet.
 
-Pour le personnel relevant de la direction de la sécurité civile, la décision de retrait ou de suspension de la licence est prononcée à l'issue des procédures prévues par les dispositions statutaires applicables à ce personnel, sur demande du ministre de l'intérieur ou de l'autorité habilitée à cet effet.
+Pour le personnel relevant de la    direction générale de la sécurité civile et de la gestion des crises, la décision de retrait ou de suspension de la licence est prononcée à l'issue des procédures prévues par les dispositions statutaires applicables à ce personnel, sur demande du ministre de l'intérieur ou de l'autorité habilitée à cet effet.

@@ -14,7 +14,7 @@ Le comité de pilotage est composé :
 
 5° Du directeur des libertés publiques et des affaires juridiques ou de son représentant ;
 
-6° Du directeur de la sécurité civile ou de son représentant ;
+6° Du    directeur général de la sécurité civile et de la gestion des crises ou de son représentant ;
 
 7° Du chef de l'inspection générale de l'administration ou de son représentant ;
 

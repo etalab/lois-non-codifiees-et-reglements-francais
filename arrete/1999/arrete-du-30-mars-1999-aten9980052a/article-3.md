@@ -1,6 +1,6 @@
 # Article 3
 
-Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article      R. 413-6 du code de l'environnement , ou lorsqu'elle est chargée, conformément à l' article R. 413-4 du code de l'environnement , d'organiser l'épreuve d'aptitude pour les demandes de dispense de certificat de capacité concernant des activités de présentation au public d'animaux d'espèces non domestiques, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite " formation pour la délivrance des certificats de capacité " présidée par le directeur général de l'aménagement, du logement et de la nature  ou son représentant et comprenant en outre :
+Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article R. 413-6 du code de l'environnement, ou lorsqu'elle est chargée, conformément à l'article R. 413-4 du code de l'environnement, d'organiser l'épreuve d'aptitude pour les demandes de dispense de certificat de capacité concernant des activités de présentation au public d'animaux d'espèces non domestiques, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite " formation pour la délivrance des certificats de capacité " présidée par le directeur général de l'aménagement, du logement et de la nature ou son représentant et comprenant en outre :
 
 a) S'agissant des représentants des ministères intéressés :
 
@@ -8,7 +8,7 @@ a) S'agissant des représentants des ministères intéressés :
 
 -au ministère chargé de la recherche : le directeur de la recherche ou son représentant ;
 
--au ministère chargé de l'intérieur : le directeur de la sécurité civile ou son représentant ;
+-au ministère chargé de l'intérieur : le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 b) Cinq responsables d'établissements dont la finalité principale est la présentation au public d'animaux appartenant à des espèces non domestiques ;
 

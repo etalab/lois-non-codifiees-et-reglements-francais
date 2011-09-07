@@ -4,15 +4,15 @@ Le jury du concours exceptionnel et le jury de l'examen exceptionnel sont nommé
 
 Ces jurys comprennent six membres :
 
-- le directeur de la sécurité civile ou son représentant, président du jury ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, président du jury ;
 
-- le chef de l'inspection de la sécurité civile ou un inspecteur de la sécurité civile le représentant ;
+-le chef de l'inspection de la sécurité civile ou un inspecteur de la sécurité civile le représentant ;
 
-- un élu local, membre de la commission administrative paritaire nationale compétente à l'égard de la catégorie A des sapeurs-pompiers professionnels ;
+-un élu local, membre de la commission administrative paritaire nationale compétente à l'égard de la catégorie A des sapeurs-pompiers professionnels ;
 
-- un directeur départemental des services d'incendie et de secours ;
+-un directeur départemental des services d'incendie et de secours ;
 
-- deux officiers de sapeurs-pompiers professionnels choisis, par la commission administrative paritaire nationale compétente à l'égard de la catégorie A des sapeurs-pompiers professionnels, parmi les officiers membres de cette commission.
+-deux officiers de sapeurs-pompiers professionnels choisis, par la commission administrative paritaire nationale compétente à l'égard de la catégorie A des sapeurs-pompiers professionnels, parmi les officiers membres de cette commission.
 
 Le président désigne parmi les membres du jury ceux chargés de la correction des épreuves.
 

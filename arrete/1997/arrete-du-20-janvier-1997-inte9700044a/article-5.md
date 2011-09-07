@@ -2,18 +2,18 @@
 
 La formation élémentaire comprend les modules suivants :
 
-- culture administrative ;
+-culture administrative ;
 
-- interventions diverses ;
+-interventions diverses ;
 
-- incendie ;
+-incendie ;
 
-- techniques opérationnelles ;
+-techniques opérationnelles ;
 
-- formation aux premiers secours ;
+-formation aux premiers secours ;
 
-- activités physiques et sportives.
+-activités physiques et sportives.
 
 Sous réserve des dispositions de l'article 6, la durée de cet enseignement est de 259 heures. Son contenu est défini dans les annexes I à VI (1).
 
-(1) Les annexes au présent arrêté peuvent être consultées auprès de la direction de la sécurité civile et dans les services départementaux d'incendie et de secours.
+(1) Les annexes au présent arrêté peuvent être consultées auprès de la    direction générale de la sécurité civile et de la gestion des crises et dans les services départementaux d'incendie et de secours.

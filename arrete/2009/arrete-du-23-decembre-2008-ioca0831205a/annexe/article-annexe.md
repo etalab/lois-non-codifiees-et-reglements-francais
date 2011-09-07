@@ -357,7 +357,7 @@ Services de l'administration centrale
 <p align="center">57</p>
 </td>
 <td valign="top" width="277">
-<p>Direction de la sécurité civile</p>
+<p>Direction générale de la sécurité civile et de la gestion des crises</p>
 </td>
 <td valign="top" width="222">
 <p>Centre interdépartemental de déminage (Metz)</p>

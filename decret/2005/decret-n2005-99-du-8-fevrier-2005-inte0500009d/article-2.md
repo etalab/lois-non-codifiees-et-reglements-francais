@@ -8,7 +8,7 @@ La composition des collèges est établie comme suit :
 
 -le secrétaire général de la défense et de la sécurité nationale, ou son représentant ;
 
--le directeur de la sécurité civile, ou son représentant ;
+-le    directeur général de la sécurité civile et de la gestion des crises, ou son représentant ;
 
 -le directeur de la prévention des pollutions et des risques, délégué aux risques majeurs, ou son représentant ;
 

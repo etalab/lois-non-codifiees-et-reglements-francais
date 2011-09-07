@@ -2,7 +2,7 @@
 
 La commission qui statue sur la reconnaissance des acquis de l'expérience des sapeurs-pompiers de Mayotte et de la reconnaissance des attestations, titres ou diplômes est composée comme suit :
 
--le        directeur de la sécurité civile ou son représentant, président ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, président ;
 
 -le chef d'état-major de la zone de défense de l'océan Indien ou son représentant ;
 

@@ -8,47 +8,47 @@ Centre interrégional d'études de la sécurité civile.
 
 Ecole d'application de sécurité civile.
 
-Electricité et Gaz de France - Mission secourisme (uniquement pour la formation continue).
+Electricité et Gaz de France-Mission secourisme (uniquement pour la formation continue).
 
 Ministère de la défense :
 
-- armée de l'air ;
+-armée de l'air ;
 
-- bataillon de marins-pompiers de Marseille ;
+-bataillon de marins-pompiers de Marseille ;
 
-- brigade de sapeurs-pompiers de Paris ;
+-brigade de sapeurs-pompiers de Paris ;
 
-- centre d'instruction santé de l'armée de terre ;
+-centre d'instruction santé de l'armée de terre ;
 
-- direction générale de la gendarmerie nationale.
+-direction générale de la gendarmerie nationale.
 
 Ministère de l'éducation nationale.
 
 Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales :
 
-- direction de la sécurité civile ;
+-    direction générale de la sécurité civile et de la gestion des crises ;
 
-- direction générale de la police nationale.
+-direction générale de la police nationale.
 
 Ministère de la santé et des sports :
 
-- direction générale de la santé.
+-direction générale de la santé.
 
 Services départementaux d'incendie et de secours :
 
-- des Bouches-du-Rhône ;
+-des Bouches-du-Rhône ;
 
-- d'Ille-et-Vilaine ;
+-d'Ille-et-Vilaine ;
 
-- de Loir-et-Cher ;
+-de Loir-et-Cher ;
 
-- de Seine-et-Marne ;
+-de Seine-et-Marne ;
 
-- des Yvelines ;
+-des Yvelines ;
 
-- de l'Essonne ;
+-de l'Essonne ;
 
-- du Val-d'Oise.
+-du Val-d'Oise.
 
 Associations nationales
 

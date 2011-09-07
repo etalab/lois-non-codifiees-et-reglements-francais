@@ -4,7 +4,7 @@ Un conseil de discipline est constitué au sein de la Commission nationale de ch
 
 Le conseil de discipline comprend :
 
--le directeur de la sécurité civile ou son représentant, qui le préside ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, qui le préside ;
 
 -le chef du bureau des sapeurs-pompiers volontaires ou son représentant ;
 

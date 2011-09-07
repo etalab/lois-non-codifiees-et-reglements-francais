@@ -12,7 +12,7 @@ a) En leur qualité de représentants des responsables de programme budgétaires
 
 ― un représentant du directeur général de la gendarmerie nationale ;
 
-― un représentant du directeur de la sécurité civile ;
+― un représentant du    directeur général de la sécurité civile et de la gestion des crises ;
 
 ― un représentant du délégué général à l'outre-mer ;
 
@@ -26,7 +26,7 @@ b) En leur qualité de principaux représentants du pouvoir adjudicateur :
 
 ― un représentant du directeur général de la gendarmerie nationale ;
 
-― un représentant du directeur de la sécurité civile ;
+― un représentant du    directeur général de la sécurité civile et de la gestion des crises ;
 
 ― un représentant du directeur de la modernisation et de l'action territoriale ;
 

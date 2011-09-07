@@ -14,9 +14,9 @@ a) S'agissant des représentants des ministères intéressés :
 
 -au ministère chargé de la santé : le directeur général de la santé ou son représentant ;
 
--au ministère chargé de l'intérieur : le directeur de la sécurité civile ou son représentant ;
+-au ministère chargé de l'intérieur : le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
--au ministère chargé de la culture : le             directeur général de la création artistique ou son représentant ;
+-au ministère chargé de la culture : le directeur général de la création artistique ou son représentant ;
 
 b) Neuf responsables d'établissements détenant des animaux d'espèces non domestiques ;
 

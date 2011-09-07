@@ -10,11 +10,11 @@ Le directeur de l'évaluation de la performance et des affaires financières et 
 
 Le directeur de la modernisation et de l'administration territoriale, ou son représentant ;
 
-Le        directeur des ressources et des compétences de la police nationale, ou son représentant ;
+Le directeur des ressources et des compétences de la police nationale, ou son représentant ;
 
 Le directeur des libertés publiques et des affaires juridiques, ou son représentant ;
 
-Le directeur de la sécurité civile, ou son représentant ;
+Le    directeur général de la sécurité civile et de la gestion des crises, ou son représentant ;
 
 b) Avec voix consultative :
 

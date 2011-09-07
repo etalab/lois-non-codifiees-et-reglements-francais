@@ -348,6 +348,7 @@
 <tr>
 <td valign="top" width="96">
 <br/>
+<br/>
 </td>
 <td valign="top" width="275"/>
 <td valign="top" width="221">
@@ -404,6 +405,7 @@
 <p>Chef du garage </p>
 </td>
 <td valign="top" width="88">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1697,7 +1699,7 @@
 <p align="center">92 </p>
 </td>
 <td valign="top" width="275">
-<p>Direction de la sécurité civile </p>
+<p>Direction générale de la sécurité civile et de la gestion des crises</p>
 </td>
 <td valign="top" width="221">
 <p>Chef de l'atelier " Impression " </p>

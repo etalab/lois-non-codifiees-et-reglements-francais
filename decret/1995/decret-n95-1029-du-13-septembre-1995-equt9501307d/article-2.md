@@ -4,47 +4,47 @@ La commission interministérielle du transport des matières dangereuses est com
 
 1. Membres de droit :
 
-- le directeur général de l'énergie et du climat ou son représentant ;
+-le directeur général de l'énergie et du climat ou son représentant ;
 
-- le directeur des infrastructures de transport ou son représentant ;
+-le directeur des infrastructures de transport ou son représentant ;
 
-- le sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire ou son représentant ;
+-le sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire ou son représentant ;
 
-- le sous-directeur des ports et du transport fluvial ou son représentant ;
+-le sous-directeur des ports et du transport fluvial ou son représentant ;
 
-- le sous-directeur des transports routiers ou son représentant ;
+-le sous-directeur des transports routiers ou son représentant ;
 
-- le directeur des affaires maritimes ou son représentant ;
+-le directeur des affaires maritimes ou son représentant ;
 
-- le directeur général de l'aviation civile ou son représentant ;
+-le directeur général de l'aviation civile ou son représentant ;
 
-- le délégué à la sécurité et à la circulation routières ou son représentant ;
+-le délégué à la sécurité et à la circulation routières ou son représentant ;
 
-- le directeur général de la prévention des risques ou son représentant ;
+-le directeur général de la prévention des risques ou son représentant ;
 
-- le chef du service des risques technologiques ou son représentant ;
+-le chef du service des risques technologiques ou son représentant ;
 
-- le sous-directeur des risques accidentels ou son représentant ;
+-le sous-directeur des risques accidentels ou son représentant ;
 
-- le chef de la mission de la sûreté nucléaire et de la radioprotection ou son représentant ;
+-le chef de la mission de la sûreté nucléaire et de la radioprotection ou son représentant ;
 
-- le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+-le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
-- le directeur général des douanes et droits indirects ou son représentant ;
+-le directeur général des douanes et droits indirects ou son représentant ;
 
-- le directeur de la sécurité civile ou son représentant ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
-- le délégué général pour l'armement ou son représentant ;
+-le délégué général pour l'armement ou son représentant ;
 
-- le directeur général de la gendarmerie nationale ou son représentant ;
+-le directeur général de la gendarmerie nationale ou son représentant ;
 
-- le chef d'état-major de la marine ou son représentant ;
+-le chef d'état-major de la marine ou son représentant ;
 
-- le directeur général de la santé ou son représentant ;
+-le directeur général de la santé ou son représentant ;
 
-- le directeur général du travail ou son représentant ;
+-le directeur général du travail ou son représentant ;
 
-- le directeur des affaires criminelles et des grâces ou son représentant.
+-le directeur des affaires criminelles et des grâces ou son représentant.
 
 Le président de la commission invite le président de l'Autorité de sûreté nucléaire ou son représentant à participer avec voix délibérative aux réunions de la commission lorsque celle-ci connaît de questions relatives au transport de matières relevant du contrôle de la sûreté nucléaire et de la radioprotection.
 
@@ -52,11 +52,11 @@ Le président de la commission invite le président de l'Autorité de sûreté n
 
 -huit représentants des laboratoires, organismes chargés des contrôles et des organismes de formation ;
 
-- deux représentants d'entreprises ferroviaires effectuant sur le réseau ferré national des transports de matières dangereuses ;
+-deux représentants d'entreprises ferroviaires effectuant sur le réseau ferré national des transports de matières dangereuses ;
 
-- un représentant de Réseau ferré de France ;
+-un représentant de Réseau ferré de France ;
 
-- un représentant de l'Etablissement public de sécurité ferroviaire ;
+-un représentant de l'Etablissement public de sécurité ferroviaire ;
 
 -un représentant des Voies navigables de France ;
 

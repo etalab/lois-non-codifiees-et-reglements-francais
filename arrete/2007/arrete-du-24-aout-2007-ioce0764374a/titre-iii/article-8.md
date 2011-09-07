@@ -4,9 +4,9 @@ La liste des candidats reçus au brevet est établie par un jury composé comme 
 
 Membres de droit :
 
--le directeur de la sécurité civile ou son représentant, président ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, président ;
 
--le           directeur général de l'offre de soins  ou son représentant, vice-président ;
+-le directeur général de l'offre de soins ou son représentant, vice-président ;
 
 -le directeur de l'ENSOSP ou son représentant ;
 

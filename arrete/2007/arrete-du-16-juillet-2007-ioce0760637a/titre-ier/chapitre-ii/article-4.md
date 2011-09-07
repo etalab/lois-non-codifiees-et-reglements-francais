@@ -4,7 +4,7 @@ Le jury de l'examen professionnel de commandant de sapeurs-pompiers professionne
 
 Président :
 
-Le        directeur de la sécurité civile ou son représentant.
+Le    directeur général de la sécurité civile et de la gestion des crises ou son représentant.
 
 Autres membres :
 

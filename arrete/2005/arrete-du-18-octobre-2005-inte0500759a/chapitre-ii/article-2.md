@@ -2,7 +2,7 @@
 
 La Commission nationale de changement de grade comprend :
 
--le directeur de la sécurité civile ou son représentant, qui la préside ;
+-le    directeur général de la sécurité civile et de la gestion des crises ou son représentant, qui la préside ;
 
 -le chef du bureau des sapeurs-pompiers volontaires ou son représentant ;
 

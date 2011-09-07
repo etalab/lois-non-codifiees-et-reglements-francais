@@ -22,7 +22,7 @@ g) Cinq représentants de l'Etat :
 
 -un représentant du ministre de l'intérieur ;
 
--le        directeur de la sécurité civile ;
+-le    directeur général de la sécurité civile et de la gestion des crises ;
 
 -le directeur général des collectivités locales ;
 

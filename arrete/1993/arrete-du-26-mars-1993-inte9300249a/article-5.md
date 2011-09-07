@@ -4,7 +4,7 @@ Le jury de l'examen est nommé par le directeur départemental des services d'in
 
 Ce jury comprend les cinq membres suivants :
 
-Président du jury : le chef d'état-major de zone de la sécurité civile ou un officier de sapeur-pompier professionnel affecté dans un état-major de zone et désigné par le directeur de la sécurité civile ;
+Président du jury : le chef d'état-major de zone de la sécurité civile ou un officier de sapeur-pompier professionnel affecté dans un état-major de zone et désigné par le    directeur général de la sécurité civile et de la gestion des crises ;
 
 Un officier de sapeurs-pompiers professionnels ;
 

@@ -14,7 +14,7 @@ Les membres permanents du collège stratégique sont :
 
 ― le directeur des libertés publiques et des affaires juridiques ;
 
-― le directeur de la sécurité civile ;
+― le    directeur général de la sécurité civile et de la gestion des crises ;
 
 ― le délégué général à l'outre-mer ;
 

@@ -8,4 +8,4 @@ Il est institué une unité de valeur de responsable de l'équipe pédagogique d
 
 Le contenu de cette unité de valeur est précisé par une circulaire validée par les ministres chargés respectivement de la sécurité civile et de la jeunesse, des sports et de la vie associative. Elle est disponible auprès des services d'incendie et de secours et des directions départementales de la jeunesse, des sports et de la vie associative.
 
-Cette unité de valeur de formation est sanctionnée par un diplôme de responsable de l'équipe pédagogique de sections de jeunes sapeurs-pompiers défini par la direction de la sécurité civile. Ce diplôme est délivré par le directeur départemental des services d'incendie et de secours ou par le général commandant la brigade de sapeurs-pompiers de Paris.
+Cette unité de valeur de formation est sanctionnée par un diplôme de responsable de l'équipe pédagogique de sections de jeunes sapeurs-pompiers défini par la    direction générale de la sécurité civile et de la gestion des crises. Ce diplôme est délivré par le directeur départemental des services d'incendie et de secours ou par le général commandant la brigade de sapeurs-pompiers de Paris.

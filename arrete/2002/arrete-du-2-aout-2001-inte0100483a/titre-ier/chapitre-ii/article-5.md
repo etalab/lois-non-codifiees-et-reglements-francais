@@ -2,7 +2,7 @@
 
 Les jurys du concours interne et de l'examen professionnel sont nommés par arrêté du ministre de l'intérieur et composés d'au moins six membres titulaires répartis en trois collèges égaux représentant les officiers de sapeurs-pompiers professionnels, les personnalités qualifiées et les élus locaux :
 
--président : le        directeur de la sécurité civile ou son représentant.
+-président : le    directeur général de la sécurité civile et de la gestion des crises ou son représentant.
 
 Autres membres :
 
