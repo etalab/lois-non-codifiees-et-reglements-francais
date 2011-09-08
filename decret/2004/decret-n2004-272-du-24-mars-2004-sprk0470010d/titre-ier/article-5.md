@@ -4,7 +4,7 @@ Il est institué, pour chacun des deux domaines prévus à l'article 1er, une co
 
 Chaque commission comprend :
 
-a) Quatre membres titulaires et quatre membres suppléants du corps des conseillers techniques et pédagogiques supérieurs du domaine concerné, élus pour une durée de trois ans renouvelable une fois, par les personnels appartenant à ce domaine d'activité ;
+a) Quatre membres titulaires et quatre membres suppléants du corps des conseillers techniques et pédagogiques supérieurs du domaine concerné, élus pour une durée de trois ans renouvelable  , par les personnels appartenant à ce domaine d'activité ;
 
 b) Quatre membres de l'administration relevant du ministre chargé de la jeunesse et du ministre chargé des sports, nommés pour trois ans par arrêté conjoint du ministre chargé de la jeunesse et du ministre chargé des sports.
 
