@@ -468,7 +468,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">II<br/>
 </td>
 <td align="center">
-<p align="left">Directeur de projets de communication</p>
+<p align="left">Responsable de projets marketing et communication</p>
 </td>
 <td align="center">321n<br/>
 </td>
