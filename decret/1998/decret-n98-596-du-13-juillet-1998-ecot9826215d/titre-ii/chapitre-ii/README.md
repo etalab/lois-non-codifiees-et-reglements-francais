@@ -1,5 +1,7 @@
-# Chapitre II : Des comités mixtes paritaires
+# Chapitre II : Comités techniques
 
-- [Section 1 : Composition.](section-1)
-- [Section 2 : Attributions.](section-2)
-- [Section 3 : Fonctionnement.](section-3)
+- [Section 1 : Organisation](section-1)
+- [Section 2 : Composition](section-2)
+- [Article 3](article-3.md)
+- [Section 3 : Attributions](section-3)
+- [Section 4 : Fonctionnement](section-4)

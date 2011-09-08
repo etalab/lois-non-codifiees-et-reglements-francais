@@ -1,5 +1,5 @@
 # TITRE II : INSTANCES DE CONCERTATION
 
 - [Chapitre Ier : Organisation.](chapitre-ier)
-- [Chapitre II : Des comités mixtes paritaires](chapitre-ii)
-- [Chapitre III : Des comités mixtes d'hygiène et de sécurité.](chapitre-iii)
+- [Chapitre II : Comités techniques](chapitre-ii)
+- [Chapitre III : Comité d'hygiène, de sécurité  et des conditions de travail](chapitre-iii)
