@@ -4959,130 +4959,145 @@ PURETÉ
 </tbody>
 </table>
 
-E160d LYCOPENE
+E 160d LYCOPÈNE
 
-Synonyme : Jaune naturel 27
+i) Lycopène synthétique
 
-DÉFINITION : Le lycopène est obtenu par extraction par solvant à partir de souches naturelles de tomates rouges (Lycopersicon esculentum L.), puis élimination du solvant. Seuls les solvants suivants peuvent être utilisés : dichlorométhane, dioxyde de carbone, acétate d'éthyle, acétone, propanol-2, méthanol, éthanol, hexane. Le principe colorant majeur des tomates est le lycopène; de faibles quantités d'autres pigments caroténoïdes peuvent être présents. Outre les autres pigments colorés, le produit peut contenir des huiles, graisses, cires et des aromatisants naturellement présents dans les tomates.
+Synonymes : Lycopène obtenu par synthèse chimique.
 
-Classe : Caroténoïde
+Définition : Le lycopène synthétique, mélange d'isomères géométriques de lycopènes, est obtenu par la condensation de Wittig d'intermédiaires de synthèse couramment utilisés dans la production d'autres caroténoïdes employés dans les denrées alimentaires. Le lycopène synthétique se compose essentiellement de lycopène tout-trans et contient aussi du lycopène cis-5 et de faibles quantités d'autres isomères. Les préparations commerciales de lycopène destinées à être utilisées dans les denrées alimentaires se présentent sous la forme de suspensions dans des huiles comestibles ou de poudre hydrodispersable ou hydrosoluble.
 
-N° d'index : 75125
+Numéro d'index : 75125.
 
-EINECS
+EINECS : 207-949-1.
 
-Dénominations chimiques : Lycopène, ø , ø-carotène
+Dénomination chimique : Ψ, <font size="1">Ψ</font>-carotène, lycopène tout-trans, lycopène (tout-E), (tout-E)-2,6,10,14,19,23,27,31-octaméthyl-2,6,8,10,12,14,16,18,20,22,24,26,30-dotriacontatridécane.
 
-Formule chimique : C40H56
+Formule chimique : C40 H56.
 
-Poids moléculaire : 536,85
+Poids moléculaire : 536,85.
 
-Composition : Pas moins de 5 % de matières colorantes totales
+Composition : Pas moins de 96 % de lycopènes, tous lycopènes confondus (pas moins de 70 % de lycopène tout-trans) E1cm ¹ % à 465 à 475 nm dans l'hexane (pour 100 % de lycopène tout-trans pur) de 3 450.
 
-E 1 %/1 cm 3450 à env. 472 nm dans l'hexane
+Description : Poudre cristalline rouge.
 
-Description : Liquide visqueux rouge foncé
+Identification :
 
-IDENTIFICATION :
+Spectrophotométrie : Une solution dans l'hexane révèle une absorption maximale à environ 470 nm.
 
-A. Spectrométrie : Absorption maximale dans l'hexane à env. 472 nm
+Test de dépistage de caroténoïdes : La couleur de la solution de l'échantillon dans l'acétone disparaît après ajouts successifs d'une solution de 5 % de nitrite de sodium et d'acide sulfurique 1N.
 
-PURETÉ
+Solubilité : Insoluble dans l'eau, facilement soluble dans le chloroforme.
 
-<table>
-<tbody>
-<tr>
-<td height="8" width="216">
-<p>Résidus de solvants</p>
-</td>
-<td width="443"/>
-</tr>
-<tr>
-<td height="9" valign="top" width="216">
-<p>Méthanol</p>
-</td>
-<td rowspan="5" width="443">
-<p>Pas plus de 50 mg/kg, seuls ou en association</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Ethanol</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Acétone</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Hexane</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Propanol-2</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Dichlorométhane</p>
-</td>
-<td width="443">
-<p>Pas plus de 10 mg/kg</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Cendres sulfuriques</p>
-</td>
-<td width="443">
-<p>Pas plus de 0,1 %</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Arsenic</p>
-</td>
-<td width="443">
-<p>Pas plus de 3 mg/kg</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Plomb</p>
-</td>
-<td width="443">
-<p>Pas plus de 10 mg/kg</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Mercure</p>
-</td>
-<td width="443">
-<p>Pas plus de 1 mg/kg</p>
-</td>
-</tr>
-<tr>
-<td height="9" width="216">
-<p>Cadmium</p>
-</td>
-<td width="443">
-<p>Pas plus de 1 mg/kg</p>
-</td>
-</tr>
-<tr>
-<td height="8" width="216">
-<p>Métaux lourds (exprimés en plomb)</p>
-</td>
-<td width="443">
-<p>Pas plus de 40 mg/kg</p>
-</td>
-</tr>
-</tbody>
-</table>
+Propriétés d'une solution de 1 % dans le chloroforme : Clair et couleur rouge-orange intense.
+
+Pureté
+
+Perte par déshydratation : Pas plus de 0,5 % (40° C, 4 h à 20 mm Hg).
+
+Apo-12'-lycopénal : Pas plus de 0,15 %.
+
+Oxyde de triphénylphosphine : Pas plus de 0,01 %.
+
+Résidus de solvants
+
+Méthanol : pas plus de 200 mg/kg.
+
+Hexane, propane-2-ol : pas plus de 10 mg/kg chacun.
+
+Dichlorométhane : pas plus de 10 mg/kg (en préparations commerciales uniquement).
+
+Plomb : Pas plus de 1 mg/kg.
+
+ii) Lycopène de tomates rouges
+
+Synonymes : Jaune naturel 27.
+
+Définition : Le lycopène est obtenu par extraction par solvant de tomates rouges (Lycopersicon esculentum L.), puis élimination du solvant. Seuls les solvants suivants peuvent être utilisés : dioxyde de carbone, acétate d'éthyle, acétone, propane-2-ol, méthanol, éthanol et hexane. Le principe colorant majeur des tomates est le lycopène ; de faibles quantités d'autres pigments caroténoïdes peuvent être présentes. Outre les autres pigments colorés, le produit peut contenir des huiles, des graisses, des cires et des aromatisants naturellement présents dans les tomates.
+
+Numéro d'index : 75125.
+
+EINECS : 207-949-1.
+
+Dénomination chimique : Ψ, <font size="1">Ψ</font>-carotène, lycopène tout-trans, lycopène (tout-E), (tout-E)-2,6,10,14,19,23,27,31-octaméthyl-2,6,8,10,12,14,16,18,20,22,24,26,30-dotriacontatridécane.
+
+Formule chimique : C40 H56.
+
+Poids moléculaire : 536,85.
+
+Composition : E1cm ¹ % à 465 à 475 nm dans l'hexane (pour 100 % de lycopène tout-trans pur) de 3 450.
+
+Pas moins de 5 % de matières colorantes, toutes matières confondues.
+
+Description : Liquide visqueux rouge foncé.
+
+Identification
+
+Spectrophotométrie : Absorption maximale dans l'hexane à environ 472 nm.
+
+Pureté
+
+Résidus de solvants
+
+Propane-2-o, hexane, acétone, éthanol, méthanol, acétate d'éthyle, pas plus de 50 mg/ kg, seuls ou en association.
+
+Cendres sulfatées : Pas plus de 1 %.
+
+Mercure : Pas plus de 1 mg/kg.
+
+Cadmium : Pas plus de 1 mg/kg.
+
+Arsenic : Pas plus de 3 mg/kg.
+
+Plomb : Pas plus de 2 mg/kg.
+
+iii) Lycopène issu de Blakeslea trispora
+
+Synonymes : Jaune naturel 27.
+
+Définition : Le lycopène issu de Blakeslea trispora est extrait de la biomasse fongique et purifié par cristallisation et filtration. Il se compose essentiellement de lycopène tout-trans. Il contient également de faibles quantités d'autres caroténoïdes. L'isopropanol et l'acétate d'isobutyle sont les seuls solvants utilisés pour l'élaborer. Les préparations commerciales de lycopène destinées à être utilisées dans les denrées alimentaires se présentent sous la forme de suspensions dans des huiles comestibles ou de poudre hydrodispersable ou hydrosoluble.
+
+Numéro d'index : 75125.
+
+EINECS : 207-949-1.
+
+Dénomination chimique : Ψ, Ψ-carotène, lycopène tout-trans, lycopène (tout-E), (tout-E)-2,6,10,14,19,23,27,31-octaméthyl-2,6,8,10,12,14,16,18,20,22,24,26,30-dotriacontatridécane.
+
+Formule chimique : C40 H56.
+
+Poids moléculaire : 536,85.
+
+Composition : Pas moins de 95 % de lycopènes, tous lycopènes confondus, et pas moins de 90 % de lycopène tout-trans de toutes les matières colorantes E 1cm ¹ % à 465 à 475 nm dans l'hexane (pour 100 % de lycopène tout-trans pur) de 3 450.
+
+Description : Poudre cristalline rouge.
+
+Identification
+
+Spectrophotométrie : Une solution dans l'hexane révèle une absorption maximale à environ 470 nm.
+
+Test de dépistage de caroténoïdes : La couleur de la solution de l'échantillon dans l'acétone disparaît après ajouts successifs d'une solution de 5 % de nitrite de sodium et d'acide sulfurique 1N.
+
+Solubilité : Insoluble dans l'eau, facilement soluble dans le chloroforme.
+
+Propriétés d'une solution de 1 % dans le chloroforme : Clair et couleur rouge-orange intense.
+
+Pureté
+
+Perte par déshydratation : Pas plus de 0,5 % (40° C, 4 h à 20 mm Hg).
+
+Autres caroténoïdes : Pas plus de 5 %.
+
+Résidus de solvants
+
+Propane-2-ol : pas plus de 0,1 %.
+
+Acétate d'isobutyle : pas plus de 1,0 %.
+
+Dichlorométhane : pas plus de 10 mg/kg (en préparations commerciales uniquement).
+
+Cendres sulfatées : Pas plus de 0,3 %.
+
+Plomb : Pas plus de 1 mg/kg.
 
 E160e BETA-APO-8'-CAROTENALE (C 30)
 

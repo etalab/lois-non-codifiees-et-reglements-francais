@@ -2642,31 +2642,6 @@ Autres conservateurs
 </td>
 </tr>
 <tr>
-<td height="9" width="56">
-<p>(*17) E 231</p>
-</td>
-<td width="147">
-<p>Orthophénylphénol</p>
-</td>
-<td width="254">
-<p>Traitement en surface des agrumes</p>
-</td>
-<td rowspan="2" width="166">
-<p align="left">12 mg/kg seul ou en mélange exprimé en orthophénylphénol (17*)</p>
-</td>
-</tr>
-<tr>
-<td height="16" width="56">
-<p>E 232 </p>
-</td>
-<td width="147">
-<p>Orthophénylphénate de sodium </p>
-</td>
-<td width="254">
-<p>Traitement en surface des agrumes </p>
-</td>
-</tr>
-<tr>
 <td height="18" width="56">
 <p>E 233 </p>
 </td>
@@ -3699,7 +3674,7 @@ Notes :
 <tr>
 <td/>
 <td/>
-<td>Pommes de terre déshydratées<br/>Ovoproduits<br/>Chewing-gum  </td>
+<td>Pommes de terre déshydratées<br/>Ovoproduits<br/>Chewing-gum </td>
 <td>200 mg/kg (exprimant la somme du carnosol et de l'acide carnosique)</td>
 </tr>
 <tr>
@@ -3720,17 +3695,17 @@ Notes :
 </tr>
 <tr>
 <td/>
-<td>Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs  </td>
+<td>Produits à base de viande et de poisson, à l'exception de la viande déshydratée et des saucissons secs </td>
 <td>150 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) exprimée par rapport à la matière grasse </td>
 </tr>
 <tr>
 <td/>
-<td> Saucissons secs </td>
+<td>Saucissons secs </td>
 <td>100 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
 </tr>
 <tr>
 <td/>
-<td> Arômes </td>
+<td>Arômes </td>
 <td>1 000 mg/kg (exprimant la somme du carnosol et de l'acide carnosique) </td>
 </tr>
 <tr>
