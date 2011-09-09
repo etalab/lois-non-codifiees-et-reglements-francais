@@ -1,8 +1,8 @@
 # Article 29
 
-Chaque commission administrative paritaire élabore son règlement intérieur selon le règlement type mentionné à l'article 29 du décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires et le soumet à l'approbation du président du conseil d'administration.
+Chaque commission administrative paritaire élabore son règlement intérieur selon le règlement type mentionné à l'article 29 du décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires et le soumet à l'approbation du président du conseil d'administration ou du responsable auprès duquel la commission administrative paritaire est placée.
 
-Le secrétariat est assuré par un représentant de l'exploitant public qui peut n'être pas membre de la commission.
+Le secrétariat est assuré par un représentant de   La Poste qui peut n'être pas membre de la commission.
 
 Un représentant du personnel est désigné par la commission en son sein pour exercer les fonctions de secrétaire adjoint.
 
