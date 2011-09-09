@@ -12,9 +12,9 @@ Une note inférieure à 5 à l'une ou l'autre de ces épreuves est éliminatoire
 
 2. Épreuves orales d'admission
 
-a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et relatif à une situation professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 3).
+a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 3).
 
-b) Entretien de culture générale avec le jury, débutant par le commentaire d'un texte tiré au sort au début de l'épreuve, portant sur les grands thèmes de l'actualité intellectuelle, culturelle, économique et sociale (préparation : trente minutes ; durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum et entretien : vingt minutes minimum ; coefficient 3).
+b) Entretien de culture générale avec le jury, débutant par le commentaire d'un texte portant sur les grands thèmes de l'actualité intellectuelle, culturelle, économique et sociale (préparation : trente minutes ; durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum et entretien : vingt minutes minimum ; coefficient 3).
 
 c) Épreuve orale facultative de langue comportant la traduction d'un texte rédigé en langue vivante étrangère (allemand, anglais, arabe, espagnol, italien, portugais ou russe, au choix du candidat exprimé au moment de l'inscription), suivie d'un échange dans la même langue avec le jury à partir de questions posées par celui-ci portant sur ledit texte. L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation de la traduction. Chaque candidat ne peut être muni que d'un seul dictionnaire.
 
