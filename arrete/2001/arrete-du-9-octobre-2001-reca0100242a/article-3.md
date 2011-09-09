@@ -19,3 +19,5 @@ Sont mises à part, sans être ouvertes :
 Le nom des électeurs dont émanent ces enveloppes n'est pas émargé sur la liste électorale.
 
 Les enveloppes n° 3 parvenues au bureau de vote après l'heure de clôture du scrutin sont renvoyées aux intéressés avec l'indication de la date et de l'heure de leur réception.
+
+Le dépouillement du scrutin est opéré par le bureau de vote. Nonobstant les dispositions des articles 2 et 3 du présent arrêté, le dépouillement peut être assuré par un système automatique. Les modalités propres à ce dépouillement sont fixées par décision du président de l'INRA.
