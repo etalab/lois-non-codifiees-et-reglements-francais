@@ -1,7 +1,9 @@
 # Article Annexe I
 
-<div align="center">DÉFINITIONS RELATIVES AUX INFRASTRUCTURES AÉRONAUTIQUES TERRESTRES <br/>UTILISÉES EXCLUSIVEMENT PAR DES HÉLICOPTÈRES À UN SEUL AXE ROTOR PRINCIPAL </div>
-
+<div align="center">DÉFINITIONS RELATIVES AUX INFRASTRUCTURES AÉRONAUTIQUES TERRESTRES <br/>UTILISÉES EXCLUSIVEMENT PAR DES HÉLICOPTÈRES À UN SEUL AXE ROTOR PRINCIPAL <br/>
+<br/>
+<br/>
+</div>
 <div align="center">
 
 <table>
@@ -16,6 +18,12 @@
 <td align="center">Aire d'approche finale et de décollage (FATO). <br/>
 </td>
 <td align="center">Aire définie au-dessus de laquelle se déroule la phase finale de la manœuvre d'approche jusqu'au vol stationnaire ou jusqu'à l'atterrissage et à partir de laquelle commence la manœuvre de décollage ; lorsque l'aire d'approche finale et de décollage est destinée aux hélicoptères exploités en classe de performances 1, l'aire définie comprend l'aire sur laquelle ces hélicoptères peuvent effectuer un décollage interrompu. <br/>
+</td>
+</tr>
+<tr>
+<td>Aire de mouvement.<br/>
+</td>
+<td>Partie d'un aérodrome à utiliser pour les décollages, les atterrissages et la circulation des aéronefs à la surface, et qui comprend l'aire de manœure et les aires de trafic. <br/>
 </td>
 </tr>
 <tr>
@@ -123,7 +131,9 @@
 <tr>
 <td align="center">Obstacle. <br/>
 </td>
-<td align="center">Tout ou partie d'un objet hors sol, fixe (temporaire ou permanent) ou mobile, situé sur une aire destinée à la circulation des aéronefs à la surface, ou faisant saillie au-dessus d'une surface définie, destinée à protéger les aéronefs en vol. <br/>
+<td align="center">Tout ou partie d'un objet fixe (temporaire ou permanent) ou mobile : <p>i) qui est situé sur une aire destinée à la circulation des aéronefs à la surface ; ou </p>
+<p>ii) qui fait saillie au-dessus d'une surface définie destinée à protéger les aéronefs en vol ; ou </p>
+<p>iii) qui se trouve à l'extérieur de ces surfaces définies et qui est jugé être un danger pour la navigation aérienne.</p>
 </td>
 </tr>
 <tr>
@@ -148,6 +158,11 @@
 <td align="center">Translation dans l'effet de sol. <br/>
 </td>
 <td align="center">Mouvement d'un hélicoptère au-dessus du sol à une hauteur normalement associée à l'effet de sol et à une vitesse sol inférieure à 37 km / h. <br/>
+</td>
+</tr>
+<tr>
+<td>Voie de circulation pour hélicoptères.</td>
+<td>Voie définie sur un aérodrome terrestre aménagé pour la circulation exclusive des hélicoptères. Il s'agit soit d'une voie de circulation au sol pour hélicoptères, soit d'une voie de circulation en translation dans l'effet de sol, soit d'une voie de circulation à usage mixte. <br/>
 </td>
 </tr>
 <tr>

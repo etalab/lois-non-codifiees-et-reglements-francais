@@ -2,7 +2,7 @@
 
 Le présent arrêté est applicable aux infrastructures suivantes :
 
-― hélistations terrestres ouvertes à la circulation aérienne publique ou agréées à usage restreint, y compris les hélistations terrestres spécialement destinées au transport public à la demande prévues par l'arrêté du 6 mai 1995 susvisé ;
+― hélistations terrestres ouvertes à la circulation aérienne publique ou agréées à usage restreint, y compris les hélistations terrestres spécialement destinées au transport public à la demande        prévues par l'arrêté du 6 mai 1995 modifié susvisé ;
 
 ― parties utilisées exclusivement par les hélicoptères sur les aérodromes terrestres ouverts à la circulation aérienne publique ou agréés à usage restreint.
 

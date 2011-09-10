@@ -350,7 +350,7 @@ Caractéristiques
 
 La marque axiale est interrompue au niveau de la marque de stationnement d'un poste de stationnement situé sur la voie de circulation.
 
-2.12.4. La balise de bord de voie de circulation en translation dans l'effet de sol est rétroréfléchissante et présente trois bandes horizontales d'égale hauteur et de couleurs alternées jaune, verte et jaune.
+2.12.4. La balise de bord de voie de circulation en translation dans l'effet de sol est rétroréfléchissante et présente trois bandes horizontales d'égale hauteur et de couleurs alternées jaune, bleue et jaune.
 
 2.13. Marques de voie de circulation à usage mixte
 
@@ -412,7 +412,7 @@ Lorsque la zone impropre est autre qu'une aire d'approche finale et de décollag
 
 Caractéristiques
 
-2.15.4. La marque de zone impropre aux manœuvres des hélicoptères consiste en une croix de couleur blanche ou jaune.
+2.15.4. La marque de zone impropre aux manœuvres des hélicoptères consiste en une croix de Saint-André de couleur blanche ou jaune.
 
 3. Aides lumineuses
 
