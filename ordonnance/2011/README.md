@@ -2,6 +2,8 @@
 
 - [Ordonnance n° 59-61 du 3 janvier 1959](ordonnance-n-59-61-du-3-janvier-1959)
 - [Ordonnance n°59-61 du 3 janvier 1959](ordonnance-n59-61-du-3-janvier-1959)
+- [Ordonnance n° 2011-1068 du 8 septembre 2011 (DEVX1116948R)](ordonnance-n-2011-1068-du-8-septembre-2011-devx1116948r)
+- [Ordonnance n° 2011-1069 du 8 septembre 2011 (IOCD1114994R)](ordonnance-n-2011-1069-du-8-septembre-2011-iocd1114994r)
 - [Ordonnance n° 2011-821 du 8 juillet 2011 (EFII1113179R)](ordonnance-n-2011-821-du-8-juillet-2011-efii1113179r)
 - [Ordonnance n° 2011-827 du 8 juillet 2011 (OMEX1111485R)](ordonnance-n-2011-827-du-8-juillet-2011-omex1111485r)
 - [Ordonnance n° 2011-635 du 9 juin 2011 (DEVX1108164R)](ordonnance-n-2011-635-du-9-juin-2011-devx1108164r)
