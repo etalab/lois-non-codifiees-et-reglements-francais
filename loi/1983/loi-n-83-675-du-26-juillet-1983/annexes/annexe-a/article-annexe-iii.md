@@ -12,7 +12,7 @@ Economat des armées ;
 
 Entreprise de recherche et d'activité pétrolières ;
 
-Etablissements publics d'aménagement définis à l'article L. 321-2 du Code de l'urbanisme ;
+Etablissements publics d'aménagement définis à l'article L. 321-14 du code de l'urbanisme ;
 
 Etablissement public de Paris-Saclay ;
 
@@ -39,3 +39,7 @@ Sociétés concessionnaires des grands aéroports régionaux créées en applica
 Société du Grand Paris.
 
 L'Agence de l'innovation industrielle (1).
+
+Les établissements publics fonciers définis à l'article L. 321-1 du code de l'urbanisme.
+
+L'Agence foncière et technique de la région parisienne.
