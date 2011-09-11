@@ -1,4 +1,4 @@
-# Arrêté du 22 août 2011 portant création de la spécialité « conduite et gestion de l'entreprise hippique » du baccalauréat professionnel et fixant ses conditions de délivrance
+# Arrêté du 22 août 2011 portant création de la spécialité « services aux personnes et aux territoires » du baccalauréat professionnel et fixant ses conditions de délivrance
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
