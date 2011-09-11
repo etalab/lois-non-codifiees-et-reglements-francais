@@ -1837,7 +1837,6 @@
 - [Arrêté du 22 décembre 2008 (BCFF0825412A)](arrete-du-22-decembre-2008-bcff0825412a)
 - [Arrêté du 22 décembre 2008 (BCFF0825424A)](arrete-du-22-decembre-2008-bcff0825424a)
 - [Arrêté du 22 décembre 2008 (DEVA0828435A)](arrete-du-22-decembre-2008-deva0828435a)
-- [Arrêté du 22 décembre 2008 (DEVL0809065A)](arrete-du-22-decembre-2008-devl0809065a)
 - [Arrêté du 22 décembre 2008 (ECEC0829196A)](arrete-du-22-decembre-2008-ecec0829196a)
 - [Arrêté du 22 décembre 2008 (ECED0828279A)](arrete-du-22-decembre-2008-eced0828279a)
 - [Arrêté du 22 décembre 2008 (ECED0830686A)](arrete-du-22-decembre-2008-eced0830686a)
