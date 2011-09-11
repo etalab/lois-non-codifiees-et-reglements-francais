@@ -4,110 +4,28 @@
 <tbody>
 <tr>
 <td align="left" colspan="2" valign="top">
-<p align="center">A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE, <br/>de l'enseignement supérieur et de la recherche <br/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé, <br/>services du ministère chargé de l'éducation nationale </p>
+<p align="center">
+<br/>A. - I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,<br/>de l'enseignement supérieur et de la recherche relevant de l'article 58 du décret du 3 décembre 1983 susvisé,<br/>services du ministre chargé de l'éducation nationale<br/>
+</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">NOMBRE <br/>d'emplois</p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">Localisation </p>
+<p align="center">Académies</p>
 </td>
 <td align="left" valign="top">
-<p align="center">Intitulé du poste </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie d'Aix-Marseille <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, chargé des affaires générales <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">Localisation</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie d'Aix-Marseille-Inspection académique des Bouches-du-Rhône <br/>
-</p>
+<p align="left">Aix-Marseille </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie d'Amiens <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie d'Amiens-Inspection académique de l'Oise <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Bordeaux <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, délégué aux relations et ressources humaines-A effet du 1er février 2009. <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Bordeaux-Inspection académique de la Gironde <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Caen</p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au secrétaire général d'académie</p>
+<p align="left">Rectorat </p>
 </td>
 <td align="left" valign="top">
 <p align="center">1</p>
@@ -115,79 +33,20 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Créteil <br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des établissements et de la performance</p>
-</td>
+<br/>Inspection académique des Bouches-du-Rhône </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Créteil <br/>
-</p>
+<p align="left">Amiens</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Créteil-Inspection académique de Seine-et-Marne <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Créteil-Inspection académique de Seine-Saint-Denis <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Créteil-Inspection académique du Val-de-Marne <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Dijon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie</p>
+<p align="left">Rectorat </p>
 </td>
 <td align="left" valign="top">
 <p align="center">1</p>
@@ -195,24 +54,29 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Grenoble <br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
-</p>
-</td>
+<br/>Inspection académique de l'Oise</td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Grenoble</p>
+<br/>Bordeaux </td>
+<td align="left" valign="top">
+<br/>Rectorat </td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines</p>
+<p align="left">Inspection académique de la Gironde </p>
 </td>
 <td align="left" valign="top">
 <p align="center">1</p>
@@ -220,534 +84,443 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Grenoble-Inspection académique de l'Isère <br/>
-</p>
-</td>
+<br/>Caen </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Lille <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Lille <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Lille-Inspection académique du Nord <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Lille-Inspection académique du Pas-de-Calais <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Lyon <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Lyon-Inspection académique du Rhône <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Montpellier <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Montpellier-Inspection académique de l'Hérault <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Nancy-Metz <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Nancy-Metz-Inspection académique de la Moselle <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Nantes <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Nantes</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, en charge des moyens, du pilotage et du contrôle de gestion</p>
-</td>
+<br/>Rectorat </td>
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Nantes-Inspection académique de la Loire-Atlantique <br/>
-</p>
+<br/>Créteil <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
+<br/>Rectorat <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Nice <br/>
-</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Nice-Inspection académique des Alpes-Maritimes <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Nice-Inspection académique du Var <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie d'Orléans-Tours <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie d'Orléans-Tours <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Paris <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Paris <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, en charge du premier degré <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Paris <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, en charge du second degré <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Poitiers</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie</p>
-</td>
+<br/>Inspection académique de Seine-et-Marne </td>
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Rennes <br/>
-</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie <br/>
-</p>
-</td>
+<br/>Inspection académique de Seine-Saint-Denis </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Académie de Rennes-Inspection académique du Finistère <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Rennes-Inspection académique d'Ille-et-Vilaine <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de la Réunion <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Rouen <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Académie de Rouen-Inspection académique de la Seine-Maritime <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Toulouse <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Toulouse<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Administration centrale du ministère chargé de l'éducation nationale</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chargé de mission </p>
-</td>
-<td align="left" valign="top">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Strasbourg</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie</p>
-</td>
+<br/>Inspection académique du Val-de-Marne </td>
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Versailles <br/>
-</p>
+<br/>Dijon <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, en charge du pôle gestion des ressources humaines <br/>
-</p>
-</td>
+<br/>Rectorat </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Rectorat de l'académie de Versailles <br/>
-</p>
-</td>
+<br/>Grenoble </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au secrétaire général d'académie, expertise et services <br/>
-</p>
-</td>
+<br/>Rectorat </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique des Yvelines <br/>
-</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
+<br/>Inspection académique de l'Isère</td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique de l'Essonne <br/>
-</p>
+<br/>Lille <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
-</td>
+<br/>Rectorat</td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique des Hauts-de-Seine <br/>
-</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
+<br/>Inspection académique du Nord <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<p align="center">
+<br/>1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie de Versailles-Inspection académique du Val-d'Oise <br/>
-</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Secrétaire général <br/>
-</p>
+<br/>Inspection académique du Pas-de-Calais </td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Lyon <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br/>
-</p>
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique du Rhône <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Montpellier <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Nancy-Metz <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique de la Moselle <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Nantes <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique de la Loire-Atlantique <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Nice <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique des Alpes-Maritimes <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique du Var <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Orléans-Tours <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Paris <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Poitiers <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rennes <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique du Finistère <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique d'Ille-et-Vilaine <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>La Réunion <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rouen <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique de la Seine-Maritime <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Strasbourg <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Toulouse <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Versailles <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rectorat <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique des Yvelines <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique de l'Essonne <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique des Hauts-de-Seine <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspection académique du Val-d'Oise <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<br/>Administration centrale</td>
+<td align="left" valign="top">
+<p align="center">3 </p>
 </td>
 </tr>
 </tbody>

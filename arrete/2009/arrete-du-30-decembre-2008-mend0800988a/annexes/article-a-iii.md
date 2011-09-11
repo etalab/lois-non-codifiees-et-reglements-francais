@@ -5,26 +5,50 @@
 <tbody>
 <tr>
 <td align="left" colspan="2" valign="top">
-<p align="center">A-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,<br clear="none"/>de l'enseignement supérieur et de la recherche<br clear="none"/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé,<br clear="none"/>services du ministère chargé de l'enseignement supérieur </p>
+<p align="center">A. - III. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,<br/>de l'enseignement supérieur et de la recherche<br/>relevant de l'article 58 du décret du 3 décembre 1983 susvisé,<br/>services et établissements relevant du ministre chargé de l'enseignement supérieur <br/>
+</p>
 </td>
 <td align="left" rowspan="2" valign="top">
-<p align="center">NOMBRE<br clear="none"/>d'emplois </p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">Localisation</p>
+<p align="left">Académies </p>
 </td>
 <td align="left" valign="top">
-<p align="center">Intitulé du poste </p>
+<p align="left">Localisation</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Administration centrale du ministère chargé de l'enseignement supérieur. </p>
+<p align="left">Aix-Marseille </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chargé de mission. </p>
+<p align="left">Université Aix-Marseille-I </p>
+</td>
+<td align="left" valign="top">
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Université Aix-Marseille-II</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Université Aix-Marseille-III </p>
 </td>
 <td align="left" valign="top">
 <p align="center">1 </p>
@@ -32,10 +56,68 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Académie d'Aix-Marseille-Université Aix-Marseille-I </p>
+<br/>Amiens</td>
+<td align="left" valign="top">
+<br/>Université d'Amiens</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Besançon <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">Adjoint au directeur général des services, directeur des relations et des ressources humaines </p>
+<br/>Université de Besançon</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Bordeaux <br/>
+</td>
+<td align="left" valign="top">
+<br/>Université Bordeaux-I</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Caen</td>
+<td align="left" valign="top">
+<br/>Université de Caen</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Créteil </td>
+<td align="left" valign="top">
+<br/>Université Paris-XII </td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>Université Paris-XIII</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Dijon <br/>
+</td>
+<td align="left" valign="top">
+<br/>Université de Dijon <br/>
 </td>
 <td align="left" valign="top">
 <p align="center">1 </p>
@@ -43,130 +125,10 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie d'Aix-Marseille-Université Aix-Marseille-II </p>
+<br/>Grenoble <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, directeur des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie d'Aix-Marseille-Université Aix-Marseille-III </p>
-</td>
-<td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie d'Amiens-Université d'Amiens </p>
-</td>
-<td align="left" valign="top">
-<p>Responsable du service de prospective et aide au pilotage </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Besançon-Université de Besançon </p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au directeur général des services, chargé des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Bordeaux-Université Bordeaux-I </p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au directeur général des services, chargé des finances </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Caen-Université de Caen </p>
-</td>
-<td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Créteil-Université Paris-XII </p>
-</td>
-<td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Créteil-Université Paris-XIII </p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Dijon-Université de Dijon </p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au directeur général des services, directeur des ressources humaines </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Grenoble-Université Grenoble-I </p>
-</td>
-<td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p>Académie de Lille-Université Lille-I </p>
-</td>
-<td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
+<br/>Université Grenoble-I <br/>
 </td>
 <td align="left" valign="top">
 <p align="center">1 </p>
@@ -174,22 +136,21 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Lyon-Université Lyon-I </p>
+<br/>Lille <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, chargé des affaires financières </p>
+<br/>Université Lille-I <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Montpellier-Université Montpellier-II </p>
+<br/>Lyon <br/>
 </td>
 <td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
+<br/>Université Lyon-I <br/>
 </td>
 <td align="left" valign="top">
 <p align="center">1 </p>
@@ -197,227 +158,229 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Nancy-Université Nancy-I </p>
+<br/>Montpellier <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, chargé de la coordination générale des instances de l'université </p>
+<br/>Université Montpellier-II <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Nantes-Université de Nantes </p>
+<br/>Nancy-Metz <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université Nancy-I <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1<br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Nice-Université de Nice </p>
+<br/>Nantes <br/>
 </td>
 <td align="left" valign="top">
-<p>Chef de projet du pilotage de la masse salariale de l'université </p>
+<br/>Université de Nantes <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1<br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie d'Orléans-Tours-Université de Tours </p>
+<br/>Nice <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université de Nice <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Université Paris-I </p>
+<br/>Orléans-Tours <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, en charge de la politique budgétaire </p>
+<br/>Université de Tours <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Université Paris-V </p>
+<br/>Paris <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, chargé des ressources humaines </p>
+<br/>Université Paris-I <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Université Paris-VI </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université Paris-V <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Université Paris-VII </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Chargé de l'aide au pilotage, des tableaux de bord et des indicateurs de l'établissement </p>
+<br/>Université Paris-VI <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Conservatoire national des arts et métiers (CNAM) </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université Paris-VII <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Paris-Muséum national d'histoire naturelle (MNHN) </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Conservatoire national des arts et métiers (CNAM) <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Poitiers-Université de Poitiers </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p>Directeur des ressources humaines </p>
+<br/>Muséum national d'histoire naturelle (MNHN) <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Reims-Université de Reims </p>
+<br/>Poitiers <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université de Poitiers <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Rennes-Université Rennes-I </p>
+<br/>Reims <br/>
 </td>
 <td align="left" valign="top">
-<p>Directeur des services financiers </p>
+<br/>Université de Reims <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Rouen-Université de Rouen </p>
+<br/>Rennes <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, directeur des affaires financières </p>
+<br/>Université Rennes-I <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Strasbourg-Université de Strasbourg </p>
+<br/>Rouen <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, en charge des ressources de l'université </p>
+<br/>Université de Rouen <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Toulouse-Université Toulouse-III </p>
+<br/>Strasbourg <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services, directeur des relations et des ressources humaines </p>
+<br/>Université de Strasbourg <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Versailles-Université Paris-X </p>
+<br/>Toulouse <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université Toulouse-III <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1 <br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Académie de Versailles-Université Paris-XI </p>
+<br/>Versailles <br/>
 </td>
 <td align="left" valign="top">
-<p>Adjoint au directeur général des services </p>
+<br/>Université Paris-X <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">1<br clear="none"/>
-</p>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Centre national des œuvres universitaires et scolaires (services centraux) </p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Responsable des services financiers </p>
+<br/>Université Paris-XI <br/>
 </td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<br/>Réseau national des œuvres universitaires et scolaires</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="top">
+<br/>Administration centrale</td>
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
