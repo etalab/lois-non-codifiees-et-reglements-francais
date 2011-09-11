@@ -29,7 +29,6 @@
 - [Arrêté du 4 août 2006 (INDI0608092A)](arrete-du-4-aout-2006-indi0608092a)
 - [Arrêté du 4 août 2006 (JUSC0620539A)](arrete-du-4-aout-2006-jusc0620539a)
 - [Arrêté du 4 décembre 2006 (DEFD0601633A)](arrete-du-4-decembre-2006-defd0601633a)
-- [Arrêté du 4 janvier 2006 (MCCB0500915A)](arrete-du-4-janvier-2006-mccb0500915a)
 - [Arrêté du 4 octobre 2006 (AGRS0601478A)](arrete-du-4-octobre-2006-agrs0601478a)
 - [Arrêté du 4 octobre 2006 (MENS0602431A)](arrete-du-4-octobre-2006-mens0602431a)
 - [Arrêté du 4 septembre 2006 (INTE0600773A)](arrete-du-4-septembre-2006-inte0600773a)
