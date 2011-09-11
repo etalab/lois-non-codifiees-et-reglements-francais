@@ -760,7 +760,6 @@
 - [Décret n°2010-1438 du 22 novembre 2010 (AGRT1024208D)](decret-n2010-1438-du-22-novembre-2010-agrt1024208d)
 - [Décret n°2010-1439 du 22 novembre 2010 (AGRT1026452D)](decret-n2010-1439-du-22-novembre-2010-agrt1026452d)
 - [Décret n°2010-1441 du 22 novembre 2010 (AGRT0929479D)](decret-n2010-1441-du-22-novembre-2010-agrt0929479d)
-- [Décret n°2010-1442 du 22 novembre 2010 (AGRT1027144D)](decret-n2010-1442-du-22-novembre-2010-agrt1027144d)
 - [Décret n°2010-1610 du 22 décembre 2010 (ETSH1028268D)](decret-n2010-1610-du-22-decembre-2010-etsh1028268d)
 - [Décret n°2010-1614 du 22 décembre 2010 (ETSS1023618D)](decret-n2010-1614-du-22-decembre-2010-etss1023618d)
 - [Décret n°2010-163 du 22 février 2010 (DEVS0922971D)](decret-n2010-163-du-22-fevrier-2010-devs0922971d)
