@@ -33,7 +33,6 @@
 - [Arrêté du 2 mai 2002 (DEFP0201370A)](arrete-du-2-mai-2002-defp0201370a)
 - [Arrêté du 3 août 2001 (ATEP0100268A)](arrete-du-3-aout-2001-atep0100268a)
 - [Arrêté du 3 août 2001 (INTE0100480A)](arrete-du-3-aout-2001-inte0100480a)
-- [Arrêté du 3 avril 2001 (MENE0100754A)](arrete-du-3-avril-2001-mene0100754a)
 - [Arrêté du 3 décembre 2001 (JUSA0100339A)](arrete-du-3-decembre-2001-jusa0100339a)
 - [Arrêté du 3 janvier 2001 (ECOC0000140A)](arrete-du-3-janvier-2001-ecoc0000140a)
 - [Arrêté du 3 janvier 2001 (FPPA0110001A)](arrete-du-3-janvier-2001-fppa0110001a)
