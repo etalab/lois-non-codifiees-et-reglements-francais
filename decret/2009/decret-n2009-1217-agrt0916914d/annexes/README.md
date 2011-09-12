@@ -9,4 +9,3 @@
 - [Article AOC "Monbazillac"](article-aoc-monbazillac.md)
 - [Article AOC "Quarts de Chaume"](article-aoc-quarts-de-chaume.md)
 - [Article AOC "Rosé de Loire"](article-aoc-rose-de-loire.md)
-- [Article AOC "Savennières"](article-aoc-savennieres.md)

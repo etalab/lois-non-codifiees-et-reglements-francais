@@ -10,8 +10,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― "Coteaux du Layon" ;
 
-― "Savennières" ;
-
 ― "Monbazillac" ;
 
 ― "Côtes de Duras" ;
