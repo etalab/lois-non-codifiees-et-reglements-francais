@@ -6,6 +6,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Médoc " ;
 
-― " Haut-Médoc " ;
-
-― " Pessac-Léognan ".
+― " Haut-Médoc ".
