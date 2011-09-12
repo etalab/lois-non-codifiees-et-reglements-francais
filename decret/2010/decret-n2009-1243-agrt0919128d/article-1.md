@@ -4,6 +4,8 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Arbois" ;
 
+― "L'Etoile" ;
+
 ― "Côtes du Jura" ;
 
 ― "Macvin du Jura" ;
