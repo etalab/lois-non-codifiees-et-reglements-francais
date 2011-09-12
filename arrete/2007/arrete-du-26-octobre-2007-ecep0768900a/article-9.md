@@ -1,3 +1,3 @@
 # Article 9
 
-Sauf le cas de renouvellement anticipé de la commission, les élections à la commission consultative paritaire visée au présent arrêté ont lieu quatre mois au plus et deux mois au moins avant la date d'expiration du mandat de leurs membres en exercice. La date de ces élections est fixée par la ministre de l'économie, des finances et de l'emploi.
+Les élections pour le renouvellement général de la commission consultative paritaire ont lieu à la date prévue pour le renouvellement général des commissions administratives telle que définie à l'article 11 du décret n° 82-451 du 28 mai 1982 modifié relatif aux commissions administratives paritaires. La durée des mandats est réduite ou prorogée en conséquence.
