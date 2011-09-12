@@ -2,20 +2,18 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Château-Grillet ";
+― " Château-Grillet " ;
 
-― " Condrieu ";
+― " Condrieu " ;
 
-― " Cornas ";
+― " Cornas " ;
 
-― " Côte Rôtie ";
+― " Côte Rôtie " ;
 
-― " Saint-Joseph ";
+― " Saint-Joseph " ;
 
-― " Saint-Péray ";
+― " Saint-Péray " ;
 
-― " Hermitage "ou " Ermitage "ou " l'Hermitage "ou " l'Ermitage ";
+― " Hermitage " ou " Ermitage " ou " l'Hermitage " ou " l'Ermitage " ;
 
-― " Lirac ";
-
-― " Pierrevert ".
+― " Lirac ".
