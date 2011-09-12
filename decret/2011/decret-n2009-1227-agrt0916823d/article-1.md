@@ -4,7 +4,7 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Saumur " et " Cabernet de Saumur " ;
 
-― " Anjou ", " Anjou Villages ", Cabernet d'Anjou " et " Rosé d'Anjou " ;
+― " Anjou ", Cabernet d'Anjou " et " Rosé d'Anjou " ;
 
 ― " Anjou-Coteaux de la Loire " ;
 
