@@ -1380,7 +1380,6 @@
 - [Décret n°2010-738 du 1er juillet 2010 (PRMX1011208D)](decret-n2010-738-du-1er-juillet-2010-prmx1011208d)
 - [Décret n°2010-742 du 1er juillet 2010 (PRMG1008911D)](decret-n2010-742-du-1er-juillet-2010-prmg1008911d)
 - [Décret n°2010-745 du 1er juillet 2010 (MTSF1005095D)](decret-n2010-745-du-1er-juillet-2010-mtsf1005095d)
-- [Décret n°2009-1243 (AGRT0919128D)](decret-n2009-1243-agrt0919128d)
 - [Décret n°2010-1140 (SASH1016424D)](decret-n2010-1140-sash1016424d)
 - [Décret n°2010-1243 (SASH1010567D)](decret-n2010-1243-sash1010567d)
 - [Décret n°2010-1369 (JUSB1026680D)](decret-n2010-1369-jusb1026680d)
