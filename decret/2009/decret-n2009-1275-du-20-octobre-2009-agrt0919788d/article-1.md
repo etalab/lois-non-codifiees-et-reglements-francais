@@ -2,12 +2,10 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-―  Bugey  ;
+― Roussette du Bugey ;
 
-―  Roussette du Bugey  ;
+― Morey-Saint-Denis ;
 
-―  Morey-Saint-Denis  ;
+― Tavel ;
 
-―  Tavel  ;
-
-―  Châteauneuf-du-Pape .
+― Châteauneuf-du-Pape.
