@@ -19,8 +19,9 @@ Enquêtes statistiques publiques d'initiative régionale pour 2011
 <tr>
 <td align="center">
 <br/>ENQUÊTES D'INTÉRÊT GÉNÉRAL <br/>Ministère de l'économie, des finances<br/>et de l'industrie<br/>
-<br/>Institut national de la statistique et des études économiques<br/>
-<br/>Direction régionales <p>Aquitaine et Midi-Pyrénées</p>
+<p>Institut national de la statistique et des études économiques</p>
+<p>Direction régionales </p>
+<p>Aquitaine et Midi-Pyrénées</p>
 </td>
 <td align="center"/>
 </tr>
@@ -102,10 +103,20 @@ Enquêtes statistiques publiques d'initiative régionale pour 2011
 </td>
 </tr>
 <tr>
+<td align="center"> Direction régionale de Rhône-Alpes en partenariat avec la préfecture de la Drôme et la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td> (*) Enquête auprès des sous-traitants et fournisseurs des établissements des sites du Tricastin et de Marcoule.<br/>
+</td>
+<td>L'enquête a pour objectif de dresser une typologie des emplois liés à la filière électronucléaire du Tricastin et de Marcoule. Elle se déroulera en septembre par voie postale auprès d'une centaine d'établissements ayant réalisé plus de 500 000 euros de chiffre d'affaires avec les trois entreprises suivantes : EDF, Areva et le Commissariat à l'énergie atomique. Seuls les sous-traitants "locaux" implantés dans les départements de la Drôme, de l'Ardèche, du Gard et de Vaucluse sont concernés. <br/>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p>
-<br/>Ministère de l'agriculture, de l'alimentation,<br/>de la pêche, de la ruralité<br/>et de l'aménagement du territoire<br/>
-<br/>Direction régionale de l'agriculture<br/>et de la forêt de Bretagne</p>
+<p>Ministère de l'agriculture, de l'alimentation,<br/>de la pêche, de la ruralité<br/>et de l'aménagement du territoire</p>
+<p>Direction régionale de l'agriculture<br/>et de la forêt de Bretagne</p>
 <p>Service régional de la statistique agricole<br/>
 </p>
 </td>
@@ -121,8 +132,7 @@ Enquêtes statistiques publiques d'initiative régionale pour 2011
 </tr>
 <tr>
 <td colspan="2">
-<p align="left">
-<br/>(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
+<p>(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
 </p>
 </td>
 </tr>
