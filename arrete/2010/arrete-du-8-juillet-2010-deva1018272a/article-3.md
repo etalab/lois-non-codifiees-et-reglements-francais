@@ -80,6 +80,8 @@ A l'Ecole nationale de l'aviation civile (ENAC) :
 
 - adjoint au chef du département logistique ;
 
+- chargé de missions auprès du directeur des études et de la recherche ;
+
 - chef du bureau des concours ;
 
 - conseiller juridique ;

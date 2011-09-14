@@ -176,7 +176,7 @@ b) A la direction personnels navigants (PN) :
 
 A l'Ecole nationale de l'aviation civile (ENAC) :
 
-― adjoint au secrétaire général ;
+― chef du département admission et vie des campus ;
 
 ― chef du département langues, sciences humaines et sociales ;
 

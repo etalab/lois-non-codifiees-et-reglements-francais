@@ -96,7 +96,7 @@ A l'Ecole nationale de l'aviation civile (ENAC) :
 
 - chef du département langues, sciences humaines et sociales.
 
-- adjoint au secrétaire général ;
+- chef du département admission et vie des campus ;
 
 - chef de cabinet.
 
