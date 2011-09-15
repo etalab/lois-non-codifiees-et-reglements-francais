@@ -201,7 +201,6 @@
 - [Arrêté du 6 mars 2007 (SANP0721119A)](arrete-du-6-mars-2007-sanp0721119a)
 - [Arrêté du 6 novembre 2007 (DEVP0765936A)](arrete-du-6-novembre-2007-devp0765936a)
 - [Arrêté du 6 octobre 2006 (INDI0608538A)](arrete-du-6-octobre-2006-indi0608538a)
-- [Arrêté du 6 septembre 2007 (DEFD0764994A)](arrete-du-6-septembre-2007-defd0764994a)
 - [Arrêté du 6 septembre 2007 (ECEK0700054A)](arrete-du-6-septembre-2007-ecek0700054a)
 - [Arrêté du 7 août 2007 (DEVL0763154A)](arrete-du-7-aout-2007-devl0763154a)
 - [Arrêté du 7 août 2007 (ECEP0753983A)](arrete-du-7-aout-2007-ecep0753983a)
