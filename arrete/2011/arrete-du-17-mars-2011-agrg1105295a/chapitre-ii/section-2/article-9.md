@@ -4,7 +4,7 @@ Sans préjudice des dispositions de l'article 8, toute parcelle contaminée à p
 
 Toute parcelle non entretenue depuis plus d'un an en zone focale est arrachée en totalité et dévitalisée en cas de repousse.
 
-Le seuil de destruction totale des parcelles contaminées peut être abaissé sur un périmètre donné à 5 %, ou à moins de 5 %, par arrêté préfectoral.
+Le seuil de destruction totale des parcelles contaminées peut être abaissé sur un périmètre donné         à moins de 10 %, par arrêté préfectoral.
 
 Cette décision est prise sur la base d'une analyse de risque réalisée par le service régional chargé de la protection des végétaux, tenant compte :
 
