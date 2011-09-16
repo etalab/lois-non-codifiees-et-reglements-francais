@@ -2,7 +2,7 @@
 
 La présidence de la commission est assurée par le directeur général des douanes et droits indirects.
 
-Le président est, en cas d’empêchement, remplacé par un fonctionnaire de cette administration, titulaire d’un grade d’administrateur civil, de directeur régional, de directeur adjoint, d’inspecteur principal ou d’attaché principal.
+Le président est, en cas d’empêchement, remplacé par un fonctionnaire de cette administration, titulaire d’un grade d’administrateur civil, de directeur fonctionnel, de directeur des services douaniers, d’inspecteur principal ou d’attaché principal.
 
 La commission consultative paritaire élabore son règlement intérieur selon le règlement type établi pour les commissions administratives paritaires centrales de la direction générale des douanes et droits indirects.
 

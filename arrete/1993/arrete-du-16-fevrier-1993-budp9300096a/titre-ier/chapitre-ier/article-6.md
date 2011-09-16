@@ -1,11 +1,11 @@
 # Article 6
 
-Si, avant l'expiration de son mandat, un représentant du personnel, membre titulaire ou suppléant de la commission, se trouve dans l'impossibilité d'exercer ses fonctions pour l'un des motifs énumérés à l'article 5, il est remplacé jusqu'à renouvellement de la commission dans les conditions ci-après :
+Le remplacement des représentants du personnel, membres titulaires ou suppléants de la commission, venant en cours de mandat, par suite de démission, de mise en congé de longue durée au titre de l'article 34 de la loi du 11 janvier 1984, de mise en disponibilité ou pour toute autre cause que l'avancement, à cesser les fonctions pour lesquelles ils ont été nommés s'effectue dans les conditions suivantes :
 
-Lorsqu'un représentant titulaire se trouve dans l'impossibilité d'exercer ses fonctions, son suppléant est nommé titulaire et est remplacé par le premier candidat non élu de la même liste.
+- s'il s'agit d'un représentant titulaire, le premier suppléant de la liste au titre de laquelle il a été élu est nommé titulaire et remplacé par le premier candidat non élu de la même liste ;
 
-Lorsqu'un représentant suppléant se trouve dans l'impossibilité d'exercer ses fonctions, il est remplacé par le premier candidat non élu de la même liste.
+- s'il s'agit d'un représentant suppléant, il est remplacé par le premier candidat non élu de la même liste.
 
-Lorsqu'une liste se trouve dans l'impossibilité de pourvoir dans les conditions prévues aux deux alinéas précédents aux sièges de membre titulaire ou de membre suppléant auxquels elle a droit dans un grade, les sièges laissés vacants sont attribués selon la procédure prévue au dernier alinéa de l'article 18 lorsque la durée du mandat restant à courir est inférieure ou égale au tiers de la durée prévue au premier alinéa de l'article 4. Lorsque la durée du mandat restant à courir est supérieure au tiers de la durée prévue au premier alinéa de l'article 4, il est procédé au renouvellement de la commission pour la durée du mandat restant à courir.
+Lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues aux deux alinéas précédents, aux sièges de membres titulaires ou de membres suppléants auxquels elle a droit, l'organisation syndicale ayant présenté la liste désigne son représentant parmi les personnels relevant de la commission, éligibles au moment où se fait la désignation, pour la durée du mandat restant à courir.
 
-En cas de démission des représentants du personnel pour d'autres causes que celle de force majeure, les sièges laissés vacants par les titulaires sont attribués à leurs suppléants ou, si ces derniers ont également démissionné, selon la procédure prévue au dernier alinéa de l'article 18 ci-dessous ; les sièges vacants par des suppléants nommés titulaires ou ayant démissionné sont attribués selon la même procédure.
+Le mandat des remplaçants prend fin en même temps que celui des autres membres de la commission.
