@@ -27,3 +27,9 @@ Fort-de-France-Roseau (La Dominique) ;
 Saint-Martin-Roseau (La Dominique) ;
 
 Saint-Barthélemy-Roseau (La Dominique).
+
+Jusqu'au 15 août 2016 :
+
+Fort-de-France - Sainte-Lucie ;
+
+Pointe-à-Pitre - Sainte-Lucie.
