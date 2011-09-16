@@ -10,13 +10,13 @@ Toutefois :
 
 -pour les marchés industriels ou de prestations intellectuelles du ministère de la défense d'une durée d'exécution supérieure à six mois, le point de départ du délai global de paiement du solde ou des paiements partiels définitifs est la date de la notification de la date d'effet de la décision de réception ou d'admission, si cette date est postérieure à la date de réception de la demande de paiement, arrêtées selon les modalités du marché.
 
-La date de réception de la demande de paiement et la date d'exécution des prestations sont constatées par les services de la personne publique contractante.A défaut, c'est la date de la demande de paiement augmentée de deux jours qui fait foi. En cas de litige, il appartient au titulaire de la commande d'administrer la preuve de cette date.
+La date de réception de la demande de paiement et la date d'exécution des prestations sont constatées par les services de la personne publique contractante. A défaut, c'est la date de la demande de paiement augmentée de deux jours qui fait foi. En cas de litige, il appartient au titulaire de la commande d'administrer la preuve de cette date.
 
 II.-Lorsque les documents contractuels prévoient l'échelonnement dans le temps de phases successives d'exécution et de paiement, le délai global de paiement afférent à chacune de ces phases ne peut commencer avant la date prévue au marché ou avant la date d'exécution, si celle-ci est postérieure.
 
 En cas de versement d'une avance, le délai global de paiement de celle-ci court à partir de la notification de l'acte qui emporte commencement d'exécution du marché si un tel acte est prévu ou, à défaut, à partir de la date de notification du marché.
 
-Lorsque, conformément à l'article 89 ou à l'article 90 du code des marchés publics, la constitution d'une garantie à première demande ou d'une caution personnelle et solidaire est exigée, pour tout ou partie du remboursement d'une avance, le délai global de paiement ne peut courir avant la réception de cette garantie ou de cette caution.
+Lorsque, conformément à l'article 89, à l'article 90 ou à l'article 263 du code des marchés publics, la constitution d'une garantie à première demande ou d'une caution personnelle et solidaire est exigée, pour tout ou partie du remboursement d'une avance, le délai global de paiement ne peut courir avant la réception de cette garantie ou de cette caution.
 
 En cas de versement d'une avance, le délai global de paiement de celle-ci court à partir de la réception par la personne indiquée au marché des justificatifs éventuellement prévus au marché pour le versement de cette avance.
 

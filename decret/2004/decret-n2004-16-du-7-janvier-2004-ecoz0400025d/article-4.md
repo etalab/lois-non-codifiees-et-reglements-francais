@@ -1,7 +1,0 @@
-# Article 4
-
-I.-A l'appui des candidatures et au-delà des renseignements qui peuvent être exigés en vertu de l'article 45 du code des marchés publics, le pouvoir adjudicateur peut demander, afin d'apprécier la capacité des candidats à exécuter les prestations de l'accord-cadre ou du marché au vu des exigences particulières que celui-ci requiert, notamment s'agissant des critères de sécurité des approvisionnements, des renseignements complémentaires concernant la composition de leur actionnariat, la valeur ajoutée créée sur le territoire national, l'implantation de leur patrimoine technologique, leurs capacités industrielles sur le site de réalisation de la prestation ou les compétences des personnes devant intervenir pour la réalisation du marché. Ces exigences devront être indiquées dès le début de la procédure et, le cas échéant, dans l'avis d'appel public à la concurrence.
-
-Le pouvoir adjudicateur peut exiger des niveaux minimaux de capacités auxquels les candidats ou soumissionnaires doivent satisfaire. Dans cette hypothèse, ces niveaux minimaux sont indiqués dans l'avis de publicité.
-
-II.-Lorsqu'il estime que le nombre de candidats ayant répondu aux mesures de publicité n'offre pas une concurrence effective, le pouvoir adjudicateur peut ajouter un ou plusieurs opérateurs économiques à la liste des candidats admis à négocier. Ces candidats devront, au plus tard lors de la remise de leur offre initiale, fournir les renseignements exigés à l'appui des candidatures conformément aux dispositions du I du présent article.
