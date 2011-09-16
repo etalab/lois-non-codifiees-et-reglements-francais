@@ -179,7 +179,6 @@
 - [Arrêté du 6 août 2007 (MAEF0762373A)](arrete-du-6-aout-2007-maef0762373a)
 - [Arrêté du 6 août 2007 (MAEG0762670A)](arrete-du-6-aout-2007-maeg0762670a)
 - [Arrêté du 6 avril 2007 (AGRG0753551A)](arrete-du-6-avril-2007-agrg0753551a)
-- [Arrêté du 6 avril 2007 (JUSF0750826A)](arrete-du-6-avril-2007-jusf0750826a)
 - [Arrêté du 6 avril 2007 (SOCO0751718A)](arrete-du-6-avril-2007-soco0751718a)
 - [Arrêté du 6 avril 2007 (SOCU0751182A)](arrete-du-6-avril-2007-socu0751182a)
 - [Arrêté du 6 avril 2007 (SOCU0751203A)](arrete-du-6-avril-2007-socu0751203a)
