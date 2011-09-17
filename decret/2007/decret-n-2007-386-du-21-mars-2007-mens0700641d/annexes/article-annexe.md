@@ -1,78 +1,114 @@
 # Article ANNEXE
 
-STATUTS DE L'UNIVERSITÉ DE LYON
+STATUTS DE L'ÉTABLISSEMENT PUBLIC DE COOPÉRATION
 
-Chapitre Ier : Dispositions générales
+SCIENTIFIQUE " UNIVERSITÉ DE LYON "
+
+Chapitre Ier
+
+Dispositions générales
 
 Article 1er
 
-L'Université de Lyon est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+Université de Lyon est un établissement public de coopération scientifique régi notamment par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
-Cet établissement est chargé de mener les projets prévus dans le cadre du pôle de recherche et d'enseignement supérieur et de gérer la mise en commun des moyens que les établissements et organismes fondateurs et associés y consacrent.
+Cet établissement est chargé de mener les projets prévus dans le cadre du pôle de recherche et d'enseignement supérieur et de gérer la mise en commun des activités et des moyens que les établissements et organismes fondateurs et associés de Lyon et Saint-Etienne y consacrent.
 
 Son siège est à Lyon. Il pourra être transféré par décision du conseil d'administration.
 
 Article 2
 
-Au moment de sa création, l'établissement comprend les membres fondateurs et les membres associés suivants :
+Au moment de l'approbation de ses statuts, l'établissement comprend les membres fondateurs et les membres associés suivants :
 
 Membres fondateurs :
 
-- l'université Lyon-I ;
+-l'université Lyon-I ;
 
-- l'université Lyon-II ;
+-l'université Lyon-II ;
 
-- l'université Lyon-III ;
+-l'université Lyon-III ;
 
-- l'Ecole normale supérieure de Lyon ;
+-l'université de Saint-Etienne ;
 
-- l'Ecole normale supérieure de Fontenay - Saint-Cloud ;
+-l'Ecole normale supérieure de Lyon ;
 
-- l'Ecole centrale de Lyon.
+-l'Ecole centrale de Lyon ;
+
+-l'Institut national des sciences appliquées de Lyon ;
+
+-l'Ecole nationale supérieure des mines de Saint-Etienne.
 
 Membres associés :
 
-- l'Institut d'études politiques de Lyon ;
+-l'Institut d'études politiques de Lyon ;
 
-- l'institut universitaire de formation des maîtres de Lyon ;
+-l'Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (Vet Agro Sup) ;
 
-- l'Ecole vétérinaire de Lyon ;
+-l'Ecole nationale des travaux publics de l'Etat ;
 
-- l'Ecole nationale des travaux publics de l'Etat ;
+-l'Ecole nationale supérieure des arts et techniques du théâtre ;
 
-- l'Institut polytechnique de Lyon ;
+-l'Ecole nationale supérieure des sciences de l'information et des bibliothèques ;
 
-- l'Institut catholique de Lyon.
+-l'Ecole nationale supérieure d'architecture de Lyon ;
+
+-l'Ecole nationale d'ingénieurs de Saint-Etienne ;
+
+-l'Ecole de management de Lyon ;
+
+-l'Institut polytechnique de Lyon ;
+
+-l'Institut catholique de Lyon.
 
 Article 3
 
 L'établissement a pour missions :
 
-1° La prise en charge du doctorat de l'Université de Lyon délivré par les établissements membres habilités. Ces établissements transfèrent à l'Université de Lyon les formations doctorales réunies au sein d'un collège doctoral international qui en assure la coordination ;
+1° La prise en charge du doctorat d'Université de Lyon délivré par les établissements membres habilités. Ces établissements transfèrent à Université de Lyon les écoles doctorales (et les moyens afférents), réunies au sein d'un collège doctoral qui en assure la coordination ;
 
-2° La promotion internationale de ses activités ;
+2° La promotion internationale du site de Université de Lyon ;
 
-3° La signature, sous l'appellation Université de Lyon en première mention, conjointe avec celle des établissements, de la production scientifique réalisée en leur sein ;
+3° La signature, sous l'appellation " Université de Lyon " en première mention, conjointe avec celle des établissements, de la production scientifique réalisée en leur sein ;
 
-4° La délivrance de masters sur propositions conjointes d'établissements membres de l'Université de Lyon ;
+4° La délivrance de masters sur propositions conjointes d'établissements membres de Université de Lyon ;
 
-5° Le suivi de la stratégie des réseaux thématiques de recherche avancée de Lyon et de l'institut d'études avancées de Lyon ; la définition des projets d'instituts ou campus fédérateurs de recherche, en partenariat avec les organismes de recherche et en liaison avec les pôles de compétitivité ;
+5° Le suivi de la stratégie des réseaux thématiques de recherche avancée de Lyon et Saint-Etienne et de l'Institut d'études avancées de Lyon ; la définition des projets d'instituts ou campus fédérateurs de recherche, en partenariat avec les organismes de recherche et en liaison avec les pôles de compétitivité ;
 
 6° La mise en place et la gestion d'équipements partagés entre ses membres ;
 
-7° Le suivi de l'insertion professionnelle des étudiants diplômés ;
+7° La préparation et la mise en œuvre, pour le site d'Université de Lyon, de la stratégie d'organisation et d'insertion urbaine de l'enseignement supérieur et de la recherche lyonnais et stéphanois dans l'espace métropolitain, assurer la gouvernance, piloter, mettre en œuvre et suivre l'exécution de l'opération " campus " ;
 
-8° La valorisation des activités de recherche menées en commun ;
+8° Le suivi de l'insertion professionnelle des étudiants diplômés ;
 
-9° La politique de recrutement d'enseignants-chercheurs étrangers et de post-doctorants ;
+9° La valorisation des activités de recherche menées en commun ;
 
-10° Plus généralement, la mise en oeuvre de projets communes à tout ou partie des membres, dans les domaines entrant dans leurs missions.
+10° La politique de recrutement d'enseignants-chercheurs étrangers et de post-doctorants ;
 
-Chapitre II : Organisation administrative
+11° La représentation de ses membres au sein d'institutions sur leurs demandes ;
+
+12° La définition des politiques documentaires coordonnées et l'appui à la mutualisation de certaines ressources en ce domaine ;
+
+13° Plus généralement, la mise en œuvre de projets communs à tout ou partie des membres, dans les domaines entrant dans leurs missions ainsi qu'en matière d'attractivité et de vie des campus.
+
+Dans l'accomplissement de ses missions, l'établissement peut notamment :
+
+-participer à toutes formes d'associations ;
+
+-prendre des participations et créer des filiales entrant dans les domaines d'activités de ses membres dans les conditions fixées par les articles 58 à 63 du décret n° 2008-618 du 27 juin 2008 relatif au budget et au régime financier des établissements publics à caractère scientifique, culturel et professionnel bénéficiant des responsabilités et compétences élargies et dans la limite de ses ressources ;
+
+-se voir confier par les établissements membres un mandat de négociation pour contracter, au nom des établissements, avec des partenaires publics ou privés ;
+
+-confier ou se voir confier par un ou plusieurs de ces établissements l'exercice d'une de leurs compétences, notamment dans le domaine de la gestion immobilière des biens confiés en gestion ;
+
+-être propriétaire, locataire ou se voir mettre à disposition par l'Etat des biens immobiliers.
+
+Chapitre II
+
+Organisation administrative
 
 Article 4
 
-L'établissement est dirigé par un président et administré par un conseil d'administration, assisté d'un conseil d'orientation scientifique.
+L'établissement est dirigé par un président et administré par un conseil d'administration, assisté, autant que de besoin, de conseils dont les missions et la composition sont fixées par le conseil d'administration.
 
 Article 5
 
@@ -98,7 +134,7 @@ Le président assure la direction de l'établissement dans le cadre des orientat
 
 8° Il signe les marchés, conventions et transactions autorisés par le conseil d'administration ;
 
-9° Il soumet le règlement intérieur de l'établissement à l'approbation du conseil d'administration et veille à sa mise en oeuvre.
+9° Il soumet le règlement intérieur de l'établissement à l'approbation du conseil d'administration et veille à sa mise en œuvre.
 
 Il peut déléguer sa signature au délégué général, aux membres du bureau et au personnel de l'établissement, dans des limites et des conditions déterminées par le conseil d'administration. En cas de vacance du poste ou d'empêchement, ses fonctions sont assurées par un des membres du bureau dans des conditions déterminées par le conseil d'administration.
 
@@ -118,17 +154,17 @@ b) Un représentant du monde économique ;
 
 c) Trois représentants des collectivités territoriales ;
 
-d) Un représentant des hospices civils de Lyon ;
+d) Un représentant des Hospices civils de Lyon ;
 
 4° Trois représentants des enseignants-chercheurs, enseignants et chercheurs exerçant leurs fonctions au sein de l'établissement ;
 
 5° Trois représentants des autres personnels exerçant leurs fonctions au sein de l'établissement ;
 
-6° Trois représentants des étudiants qui suivent une formation doctorale au sein de l'établissement.
+6° Trois représentants des étudiants qui suivent une formation au sein de l'établissement.
 
 Le règlement intérieur fixe la composition du conseil d'administration conformément au dernier alinéa de l'article L. 344-7 du code de la recherche.
 
-Le recteur d'académie, chancelier des universités, assiste ou se fait représenter au sein du conseil d'administration.
+Le recteur d'académie, chancelier des universités, assiste ou se fait représenter au conseil d'administration.
 
 Article 7
 
@@ -136,9 +172,9 @@ Les membres associés mentionnés au 3° de l'article 6 désignent leurs représ
 
 Les membres mentionnés aux 4°, 5° et 6° du même article sont élus dans les conditions fixées par délibération du conseil d'administration.
 
-Le mandat des membres mentionnés au 2°, aux b, c et d du 3°, aux 4° et 5° du même article est fixé à quatre ans renouvelable.
+Le mandat des membres mentionnés au 2°, aux b, c et d du 3°, aux 4° et 5° du même article est fixé à quatre ans renouvelables.
 
-Le mandat des membres mentionnés au a du 3° et au 6° du même article est fixé à deux ans renouvelable.
+Le mandat des membres mentionnés au a du 3° et au 6° du même article est fixé à deux ans renouvelables.
 
 Toute modification du nombre de membres fondateurs ou associés implique le renouvellement des membres du conseil.
 
@@ -166,29 +202,27 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 9° Les acquisitions, aliénations et échanges d'immeubles ;
 
-9° Les acquisitions, aliénations et échanges d'immeubles ;
-
 10° L'aliénation des biens mobiliers ;
 
-11° Les baux et location d'immeubles ;
+11° Les baux et locations d'immeubles ;
 
-12° Les emprunts ;
+12° Les contrats et conventions ;
 
-13° Les contrats et conventions ;
+13° La participation à des organismes dotés de la personnalité morale ;
 
-14° La participation à des organismes dotés de la personnalité morale ;
+14° La prise de participation et la création de filiales ;
 
 15° L'adhésion de nouveaux membres, fondateurs ou associés, et la fixation des conditions de ces adhésions ;
 
 16° L'exclusion d'un membre.
 
-Dans les limites qu'il définit, le conseil d'administration peut déléguer certaines de ses attributions au président, à l'exception de celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 12°, 15° et 16° ci-dessus.
+Dans les limites qu'il définit, le conseil d'administration peut déléguer certaines de ses attributions au président, à l'exception de celles mentionnées aux 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 12°, 14°, 15° et 16° ci-dessus.
 
 Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
 
-- ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces différentes délégations.
 
@@ -228,41 +262,31 @@ Ses attributions et ses modalités de fonctionnement sont définies par le règl
 
 Article 11
 
-Le conseil d'orientation scientifique est composé de personnalités scientifiques extérieures au site de Lyon, qui représentent les différents champs scientifiques couverts par les établissements d'enseignement supérieur et de recherche membres de l'établissement. Ces personnalités sont réparties en deux collèges :
-
-l'un pour les sciences humaines et sociales, l'autre pour les sciences exactes.
-
-Les membres du conseil d'orientation scientifique sont nommés par le conseil d'administration de l'établissement sur proposition du bureau.
-
-Le conseil d'orientation scientifique est présidé par le président de l'établissement.
-
-Les attributions du conseil d'orientation scientifique et ses modalités de fonctionnement sont définies dans le règlement intérieur de l'établissement.
+Les fonctions de membres des différents conseils sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation en vigueur.
 
 Article 12
 
-Les fonctions de membres des différents conseils sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation en vigueur.
+Tout établissement peut se retirer d'Université de Lyon à l'expiration d'un exercice budgétaire, sous réserve qu'il ait notifié son intention au moins trois mois avant la fin de l'exercice en cours.
+
+Son éventuelle demande d'adhésion ultérieure s'effectue dans les conditions fixées à l'alinéa 8 de l'article 9.
+
+Chapitre III
+
+Dispositions financières
 
 Article 13
 
-Tout établissement peut se retirer de l'université de Lyon à l'expiration d'un exercice budgétaire, sous réserve qu'il ait notifié son intention trois mois avant la fin de l'exercice en cours.
-
-Son éventuelle demande d'adhésion ultérieure s'effectue dans les conditions fixées à l'article 9, alinéa 9.
-
-Chapitre III : Dispositions financières
+L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux et les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
 
 Article 14
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux, les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique, ainsi qu'au contrôle financier a posteriori prévu par l'article L. 719-9 du code de l'éducation.
+L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
 
 Article 15
 
-L'agent comptable est nommé par arrêté conjoint des ministres chargés de l'enseignement supérieur et du budget.
-
-Article 16
-
 Les ressources de l'établissement comprennent notamment :
 
-1° Les contributions de toutes natures de ses membres fondateurs et associés ;
+1° Les contributions de toute nature des membres fondateurs et associés ;
 
 2° Les subventions versées par l'Etat et les collectivités territoriales ;
 
@@ -288,28 +312,10 @@ Les ressources de l'établissement comprennent notamment :
 
 Ces ressources ne sont pas limitatives et peuvent comprendre toute autre ressource autorisée par les lois et règlements en vigueur.
 
-Article 17
+Article 16
 
 Les dépenses de l'établissement comprennent les frais de personnel, les charges d'équipement et de fonctionnement et, de manière générale, toutes les dépenses nécessaires à l'activité de l'établissement.
 
-Article 18
+Article 17
 
-Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et régies d'avances des organismes publics.
-
-Chapitre IV : Dispositions transitoires
-
-Article 19
-
-Par dérogation à l'article 5 ci-dessus, les représentants des membres fondateurs élisent un président qui prendra toutes les mesures nécessaires au fonctionnement de l'établissement jusqu'à la constitution définitive du conseil d'administration prévu à l'article 6.
-
-Article 20
-
-Par dérogation à l'article 8, le premier budget primitif de l'établissement est arrêté par les membres fondateurs, sur proposition du président élu dans les conditions prévues à l'article 19.
-
-Article 21
-
-Jusqu'à la première élection des membres mentionnés aux 4°, 5°, 6° de l'article 6, le conseil d'administration siège valablement avec les seuls membres mentionnés aux 1°, 2° et 3° de cet article et adopte le règlement intérieur dans un délai de quatre mois.
-
-En application de ce règlement intérieur, le président élu dans les conditions prévues à l'article 19 organise les élections des membres mentionnés aux 4°, 5° et 6° de l'article 6, dans un délai maximum de six mois à compter de l'adoption du règlement intérieur.
-
-Les membres élus mentionnés aux 4°, 5° et 6° de l'article 6 siègent dès leur élection ; leur mandat prend fin à la même date que celui des membres mentionnés aux 2° et 3° de ce même article.
+Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
