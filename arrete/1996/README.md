@@ -1013,7 +1013,6 @@
 - [Arrêté du 29 février 1996 (MIPP9600107A)](arrete-du-29-fevrier-1996-mipp9600107a)
 - [Arrêté du 29 janvier 1996 (EQUA9600186A)](arrete-du-29-janvier-1996-equa9600186a)
 - [Arrêté du 29 janvier 1996 (TASS9623382A)](arrete-du-29-janvier-1996-tass9623382a)
-- [Arrêté du 29 juillet 1996 (AGRA9601459A)](arrete-du-29-juillet-1996-agra9601459a)
 - [Arrêté du 29 juillet 1996 (BUDD9670015A)](arrete-du-29-juillet-1996-budd9670015a)
 - [Arrêté du 29 juillet 1996 (ECOB9610059A)](arrete-du-29-juillet-1996-ecob9610059a)
 - [Arrêté du 29 juillet 1996 (EQUA9601069A)](arrete-du-29-juillet-1996-equa9601069a)
