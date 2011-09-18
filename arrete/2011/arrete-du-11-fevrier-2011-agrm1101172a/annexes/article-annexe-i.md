@@ -9,143 +9,118 @@ Quotas en tonnes
 <br/>
 </th>
 <th>
+<br/>
 <br/>NUMÉRO <br/>
 <br/>du navire <br/>
 </th>
 <th>
+<br/>
 <br/>NOM DU NAVIRE <br/>
 </th>
 <th>
+<br/>
 <br/>QUOTA 2011 <br/>
 <br/>en mer Méditerranée <br/>
 </th>
 <th>
 <br/>QUOTA 2011 <br/>
 <br/>en océan Atlantique <br/>
-<br/>à l'est de la longitude 45° Ouest <br/>
+<br/>à l'est de <br/>
+<br/>la longitude 45° Ouest <br/>
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="6" valign="top">
+<p align="left">OP SATHOAN<br/>
+</p>
 <br/>
-<br/>
 </td>
 <td align="center">
-<br/>900265 <br/>
+<p align="center">900265</p>
 </td>
 <td align="center">
-<br/>Jean Marie Christian 6 <br/>
+<p align="left">
+<br/>Jean Marie Christian 6 </p>
 </td>
 <td align="center">
-<br/>100 <br/>
+<br/>99,9 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
 <td align="center">
 <br/>900270 <br/>
 </td>
 <td align="center">
-<br/>Jean Marie Christian 7 <br/>
+<p align="left">
+<br/>Jean Marie Christian 7 </p>
 </td>
 <td align="center">
-<br/>100 <br/>
+<br/>99,9 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
 <td align="center">
 <br/>923752 <br/>
 </td>
 <td align="center">
-<br/>Saint Sophie François 3 <br/>
+<p align="left">
+<br/>Saint Sophie François 3 </p>
 </td>
 <td align="center">
-<br/>66 <br/>
+<br/>63,6 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>OP SA. THO. AN <br/>
-</td>
 <td align="center">
 <br/>925310 <br/>
 </td>
 <td align="center">
-<br/>Janvier Louis Raphaël <br/>
+<p align="left">
+<br/>Janvier Louis Raphaël </p>
 </td>
 <td align="center">
-<br/>122 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Palangriers hauturiers <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Canneurs, ligneurs ou palangriers  petits métiers  titulaires d'un permis de pêche spécial  thon rouge  <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>26,5 (1) <br/>
+<br/>121,2 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td align="center" colspan="2">
+<p align="left">
+<br/>Palangriers hauturiers</p>
 </td>
 <td align="center">
-<br/>
-<br/>
+<br/>20,2 <br/>
 </td>
 <td align="center">
-<br/>Total SA. THO. AN <br/>
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="left">Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"</p>
+</td>
+<td align="center">
+<br/>29,7 (1) <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center" colspan="2">
+<p align="left">Total SATHOAN</p>
 </td>
 <td align="center">
 <br/>434,5 <br/>
@@ -155,9 +130,8 @@ Quotas en tonnes
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Groupement de navires STM</p>
 </td>
 <td align="center">
 <br/>900236 <br/>
@@ -166,17 +140,13 @@ Quotas en tonnes
 <br/>Gérard Luc IV <br/>
 </td>
 <td align="center">
-<br/>55 <br/>
+<br/>54,7 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
 <td align="center">
 <br/>916469 <br/>
 </td>
@@ -184,17 +154,13 @@ Quotas en tonnes
 <br/>Gérald Jean IV <br/>
 </td>
 <td align="center">
-<br/>52 <br/>
+<br/>51,7 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
 <td align="center">
 <br/>923751 <br/>
 </td>
@@ -202,16 +168,13 @@ Quotas en tonnes
 <br/>Cisberlande V <br/>
 </td>
 <td align="center">
-<br/>70 <br/>
+<br/>69,4 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Groupement de navires STM <br/>
-</td>
 <td align="center">
 <br/>924860 <br/>
 </td>
@@ -219,7 +182,21 @@ Quotas en tonnes
 <br/>Eric Marin <br/>
 </td>
 <td align="center">
-<br/>68 <br/>
+<br/>68,0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>733526 <br/>
+</td>
+<td align="center">
+<br/>La rose des vents <br/>
+</td>
+<td align="center">
+<br/>0,6 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -230,42 +207,23 @@ Quotas en tonnes
 <br/>
 <br/>
 </td>
-<td align="center">
-<br/>Canneurs, ligneurs ou palangriers  petits métiers  titulaires d'un permis de pêche spécial  thon rouge  <br/>
+<td align="center" colspan="2">
+<p align="left">Total STM   </p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<br/>244,4 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" rowspan="3" valign="top">
+<p align="left">OP PRO. QUA. PORT </p>
 <br/>
 <br/>
-</td>
-<td align="center">
 <br/>
 <br/>
-</td>
-<td align="center">
-<br/>Total STM <br/>
-</td>
-<td align="center">
-<br/>245 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>OP PRO. QUA. PORT <br/>
 </td>
 <td align="center">
 <br/>863686 <br/>
@@ -274,7 +232,33 @@ Quotas en tonnes
 <br/>Chrisderic II <br/>
 </td>
 <td align="center">
-<br/>50 <br/>
+<br/>49,7 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<p align="left">
+<br/>Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" </p>
+</td>
+<td align="center">
+<br/>17,2 (2) <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>917384 <br/>
+</td>
+<td align="center">
+<br/>Petit Tom <br/>
+</td>
+<td align="center">
+<br/>2,7 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -285,50 +269,20 @@ Quotas en tonnes
 <br/>
 <br/>
 </td>
-<td align="center">
-<br/>Canneurs, ligneurs ou palangriers  petits métiers  titulaires d'un permis de pêche spécial  thon rouge  <br/>
+<td align="center" colspan="2">
+<p align="left">Total PRO. QUA. PORT </p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>19 (2) <br/>
+<br/>69,6 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Total PRO. QUA. PORT <br/>
-</td>
-<td align="center">
-<br/>69 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Navires non adhérents à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre  petits métiers  titulaires d'un permis de pêche spécial  thon rouge  <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td align="center" colspan="3">
+<p align="left">
+<br/>Navires non adhérant à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" </p>
 </td>
 <td align="center">
 <br/>49,5 (3) <br/>
@@ -342,13 +296,7 @@ Quotas en tonnes
 <br/>
 <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Total <br/>
-</td>
+<td align="center" colspan="2">Total</td>
 <td align="center">
 <br/>798 <br/>
 </td>
@@ -358,9 +306,9 @@ Quotas en tonnes
 </tr>
 <tr>
 <td colspan="5">
-<br/>(1) Dont 12 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
+<p align="left">(1) Dont 12 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
 <br/>(2) Dont 10 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
-<br/>(3) Dont 22 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
+<br/>(3) Dont 22 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.</p>
 </td>
 </tr>
 </tbody>
