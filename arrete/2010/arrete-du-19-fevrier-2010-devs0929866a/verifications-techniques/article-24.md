@@ -1,8 +1,10 @@
 # Article 24
 
-A l'occasion d'un arrêt et à la demande de l'expert, le candidat procède à des vérifications portant notamment sur un élément technique à l'intérieur et à l'extérieur du véhicule.
+A l'occasion d'un arrêt et à la demande de l'expert, le candidat procède à des vérifications portant notamment sur :
 
-Il répond ensuite à une question en lien avec la sécurité routière.
+- un élément technique à l'intérieur du véhicule ;
+
+- un élément technique à l'extérieur du véhicule, suivi d'une question en lien avec la sécurité routière.
 
 Les vérifications interviennent à différents moments de l'examen, avant le retour au point de départ. L'expert choisit le moment et le lieu les mieux adaptés pour questionner le candidat. Lorsque la vérification le nécessite, la participation de l'accompagnateur doit être sollicitée par le candidat auprès de l'expert.
 

@@ -16,9 +16,7 @@ La réalisation de deux manœuvres différentes, dont une au moins en marche arr
 
 La vérification d'un élément technique à l'intérieur et à l'extérieur du véhicule, complétée par une question en lien avec la sécurité routière ;
 
-L'établissement du certificat d'examen du permis de conduire ;
-
-Le cas échéant, l'annonce du résultat et son commentaire.
+L'établissement du certificat d'examen du permis de conduire et sa mise sous pli ;
 
 Les candidats dont les véhicules sont spécialement aménagés pour tenir compte de leur handicap physique, ainsi que les candidats sourds ou malentendants, peuvent bénéficier d'un temps supplémentaire permettant de réaliser l'évaluation des candidats, telle que décrite aux articles 1er à 4 du présent arrêté, en tenant compte de leurs difficultés éventuelles de mobilité ou de communication.
 

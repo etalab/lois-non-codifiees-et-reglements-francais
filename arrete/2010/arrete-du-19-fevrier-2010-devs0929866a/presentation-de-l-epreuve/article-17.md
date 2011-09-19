@@ -18,8 +18,6 @@ Les questions et les réponses dans le cadre des vérifications techniques ;
 
 Les recommandations, questionnements ou conseils formulés par l'expert ;
 
-Le bilan de l'évaluation, le cas échéant.
-
 Si le candidat désire être assisté d'un interprète en langue des signes ou d'un codeur en langage parlé complété, ce dernier s'installera à la place arrière droite du véhicule.
 
 Concernant la conduite effective, l'expert donne les indications de direction par gestes, et peut, s'il le juge nécessaire, faire appel à l'interprète.
