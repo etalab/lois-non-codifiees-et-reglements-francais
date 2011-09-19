@@ -6,8 +6,8 @@ La composition des commissions administratives paritaires visées à l'article 1
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">NUMÉROS <br/>
-<br/>d'ordre</p>
+<p align="center">NUMÉROS </p>
+<p>d'ordre</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">GRADES</p>
@@ -178,16 +178,15 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="left">Adjoint administratif de 2e classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1  </p>
+</td>
+<td align="center" valign="middle">1 <br/>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -198,16 +197,16 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="left">Adjoint technique principal de 1re classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -238,16 +237,16 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="left">Adjoint technique de 1re classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
