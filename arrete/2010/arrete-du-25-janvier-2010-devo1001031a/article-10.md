@@ -1,8 +1,8 @@
 # Article 10
 
-I. ― Les captages d'eau de surface fournissant en moyenne plus de 100 m ³ / jour pour l'alimentation en eau potable font l'objet d'un programme d'analyses de la qualité de l'eau au titre des contrôles additionnels.
+I. ― Les captages d'eau de surface fournissant en moyenne plus de 100 m ³/ jour pour l'alimentation en eau potable font l'objet d'un programme d'analyses de la qualité de l'eau au titre des contrôles additionnels.
 
-Ces contrôles additionnels sont inclus dans le contrôle sanitaire prévu par les articles R. 1321-15 et R. 1321-16 du code de la santé publique et précisé par arrêté du ministre chargé de la santé pris en application de ces articles.
+Ces contrôles additionnels sont inclus dans le contrôle sanitaire prévu par les articles R. 1321-15 et R. 1321-16 du code de la santé publique et précisé par l'arrêté du 21 janvier 2010 susvisé du ministre chargé de la santé pris en application de ces articles.
 
 Il porte sur :
 

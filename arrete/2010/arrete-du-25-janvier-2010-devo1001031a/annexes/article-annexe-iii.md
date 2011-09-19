@@ -1,15 +1,7 @@
 # Article Annexe III
 
-SUBSTANCES DE L'ÉTAT CHIMIQUE DES EAUX DE SURFACE
+SUBSTANCES DE L'ÉTAT CHIMIQUE
 
-Les substances de l'état chimique sont les substances prioritaires identifiées à l'annexe X de la directive-cadre sur l'eau 2000/60/CE et les huit autres polluants pour lesquels des normes de qualité environnementales ont également été définies au niveau communautaire. Ces huit polluants sont :
+DES EAUX DE SURFACE
 
-- le tétrachoroéthylène ;
-
-- le trichloréthylène ;
-
-- le tétrachlorure de carbone ;
-
-- les quatre pesticides cyclodiènes : aldrine, dieldrine, endrine et isodrine ;
-
-- le DDT (DDT total et para-para-DDT).
+Les substances de l'état chimique sont celles identifiées à l'annexe 8 de l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R. 212-11 et R. 212-18 du code de l'environnement.

@@ -291,9 +291,9 @@ La fréquence des contrôles requise pour tout paramètre est déterminée de ma
 </tbody>
 </table>
 
-Les fréquences intra-annuelles et interannuelles sont choisies de manière à parvenir à un niveau de confiance et de précision acceptable. Les fréquences interannuelles sont notamment à adapter en fonction des caractéristiques et de l'état de la masse d'eau ainsi que de la nature des mesures mises en place.L'évaluation de la confiance et de la précision atteinte par le système de contrôle utilisé est indiquée dans le schéma directeur d'aménagement et de gestion des eaux.
+Les fréquences intra-annuelles et interannuelles sont choisies de manière à parvenir à un niveau de confiance et de précision acceptable. Les fréquences interannuelles sont notamment à adapter en fonction des caractéristiques et de l'état de la masse d'eau ainsi que de la nature des mesures mises en place. L'évaluation de la confiance et de la précision atteinte par le système de contrôle utilisé est indiquée dans le schéma directeur d'aménagement et de gestion des eaux.
 
-Les fréquences de contrôle sont choisies de manière à tenir compte de la variabilité des paramètres résultant des conditions à la fois naturelles et humaines.L'époque à laquelle les contrôles sont effectués est déterminée de manière à réduire au minimum l'effet des variations saisonnières sur les résultats, et donc à assurer que les résultats reflètent les modifications subies par la masse d'eau du fait des variations des pressions humaines.
+Les fréquences de contrôle sont choisies de manière à tenir compte de la variabilité des paramètres résultant des conditions à la fois naturelles et anthropiques. L'époque à laquelle les contrôles sont effectués est déterminée de manière à réduire au minimum l'effet des variations saisonnières sur les résultats, et donc à assurer que les résultats reflètent les modifications subies par la masse d'eau du fait des variations des pressions anthropiques.
 
 II.-Paramètres et éléments de qualité à suivre par type d'eaux à titre indicatif
 
@@ -683,7 +683,7 @@ D.-Cours d'eau
 </tr>
 <tr>
 <td colspan="2" valign="top" width="698">
-<p>(a) Les substances de l'état chimique sont suivies dans l'eau et, en complément, dans les sédiments si ce support est pertinent. Les polluants spécifiques de l'état écologique sont suivies dans le support le plus pertinent.</p>
+<p>(a) Les substances de l'état chimique sont suivies dans l'eau et, en complément, dans les sédiments ou le biote si ce support est pertinent. Les polluants spécifiques de l'état écologique sont suivies dans le support le plus pertinent.</p>
 </td>
 </tr>
 </tbody>
@@ -693,7 +693,7 @@ E.-Plans d'eau
 
 Un suivi préalable pour le contrôle opérationnel des plans d'eau est réalisé avant la mise en œuvre des programmes de mesures pour établir l'état et identifier les éléments les plus sensibles aux pressions.
 
-Le suivi pour le contrôle opérationnel des plans d'eau porte sur l'ensemble des éléments de qualité de l'annexe ID.
+Le suivi pour le contrôle opérationnel des plans d'eau porte sur l'ensemble des éléments de qualité de l'annexe I.
 
 Les suivis des micropolluants et des éléments biologiques seront adaptés à leur pertinence en fonction de l'état et du type de masse d'eau.
 
