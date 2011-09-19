@@ -58,13 +58,13 @@
 <tr>
 <td>Adjoint administratif principal de deuxième classe. <br/>
 </td>
-<td align="center">17, 5 % <br/>
+<td align="center">17,5 % <br/>
 </td>
 </tr>
 <tr>
 <td>Adjoint administratif principal de première classe. <br/>
 </td>
-<td align="center">17, 5 % <br/>
+<td align="center">17,5 % <br/>
 </td>
 </tr>
 <tr>
@@ -72,31 +72,25 @@
 <br/>
 <div align="center">
 <i>Corps des secrétaires administratifs </i>
-<p>(Décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes <br/>applicables à divers corps de fonctionnaires de la catégorie B </p>
 <p>
-Décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes <br/>applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues) <br/>
-</p>
+Décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique d'Etat </p>
 </div>
+<p align="center">
+Décret n° 2010-302 du 19 mars 2010 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues relevant du décret n° 2009-1388 du 11 novembre 2009 portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique d'Etat </p>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">Secrétaire administratif de classe supérieure. <br/>
+<td>Secrétaire administratif de classe supérieure. <br/>
 </td>
-<td align="center">2010-2011 : 18 % <br/>
-</td>
-</tr>
-<tr>
-<td align="center">2012 : 16 % <br/>
-</td>
+<td align="center">2012 : 10 % </td>
 </tr>
 <tr>
 <td>Secrétaire administratif de classe exceptionnelle. <br/>
-<i>Les promotions s'effectueront pour les deux tiers par la voie de l'examen professionnel et pour un tiers au choix. </i>
 <br/>
 </td>
-<td align="center">7 % <br/>
-</td>
+<td align="center">2012 : 10 % </td>
 </tr>
 <tr>
 <td>
