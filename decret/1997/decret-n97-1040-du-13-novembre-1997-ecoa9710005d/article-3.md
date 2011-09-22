@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de l'artisanat est commissaire du Gouvernement.
+Le directeur général de la compétitivité, de l'industrie et des services est commissaire du Gouvernement.

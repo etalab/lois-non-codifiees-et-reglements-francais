@@ -4,10 +4,10 @@ Le conseil d'administration se réunit au moins deux fois par an, sur convocatio
 
 Les délibérations du conseil d'administration sont prises à la majorité des membres présents ; en cas de partage des voix, celle du président est prépondérante.
 
-Le membre du corps du contrôle général économique et financier, l'agent comptable et le commissaire du Gouvernement assistent aux séances avec voix consultatives.
+L'autorité chargée du contrôle financier, l'agent comptable et le commissaire du Gouvernement ou son représentant assistent aux séances avec voix consultatives.
 
 Le président peut appeler à participer aux séances avec voix consultative toute personne dont il juge la présence utile pour l'étude d'un point particulier de l'ordre du jour.
 
 Les fonctions de membre du conseil d'administration sont gratuites.
 
-Les membres du conseil d'administration bénéficient du remboursement des frais de déplacement et de séjour supportés par eux à l'occasion des réunions du conseil dans les conditions prévues par le décret du 28 mai 1990 susvisé relatif aux frais de déplacement des fonctionnaires de l'Etat et des établissements publics de l'Etat.
+Les membres du conseil d'administration bénéficient du remboursement des frais de déplacement et de séjour supportés par eux à l'occasion des réunions du conseil dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
