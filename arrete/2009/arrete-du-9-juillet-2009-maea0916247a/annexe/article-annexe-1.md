@@ -1,5 +1,6 @@
 # Article Annexe 1
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -330,7 +331,7 @@
 <br/>6 %<br/>
 </td>
 <td align="center">
-<br/>6 %<br/>
+<br/>9 %<br/>
 </td>
 </tr>
 <tr>
@@ -378,3 +379,4 @@
 </tr>
 </tbody>
 </table>
+</div>
