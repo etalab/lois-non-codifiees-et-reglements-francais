@@ -2236,7 +2236,6 @@
 - [Arrêté du 31 mai 2011 (ETSZ1115256A)](arrete-du-31-mai-2011-etsz1115256a)
 - [Arrêté du 31 mai 2011 (JUSC1115424A)](arrete-du-31-mai-2011-jusc1115424a)
 - [Arrêté du 31 mai 2011 (JUSK1115374A)](arrete-du-31-mai-2011-jusk1115374a)
-- [Arrêté du 31 mai 2011 (MAEA1115063A)](arrete-du-31-mai-2011-maea1115063a)
 - [Arrêté du 31 mai 2011 (MENE1115107A)](arrete-du-31-mai-2011-mene1115107a)
 - [Arrêté du 31 mai 2011 (MENE1115135A)](arrete-du-31-mai-2011-mene1115135a)
 - [Arrêté du 31 mai 2011 (MENE1115141A)](arrete-du-31-mai-2011-mene1115141a)
