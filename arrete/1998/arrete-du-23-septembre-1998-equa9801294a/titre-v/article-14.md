@@ -6,7 +6,7 @@ a) Les conditions techniques générales de conception, applicables à la date d
 
 b) Les éventuelles conditions techniques spéciales de conception notifiées par le ministre chargé de l'aviation civile sont appliquées ;
 
-c) L'ULM est conforme à la partie descriptive de sa fiche d'identification ;
+c) L'ULM est conforme aux éléments descriptifs de sa fiche d'identification ;
 
 d) Les modifications éventuelles ont été effectuées conformément au présent arrêté ;
 
@@ -22,8 +22,8 @@ Le ministre chargé de l'aviation civile peut déclarer inapte au vol un ULM :
 
 1. Dans les cas prévus à l'alinéa précédent, ou
 
-2. Lorsque le propriétaire ne présente pas l'ULM à la requête du ministre chargé de l'aviation civile, ou
+2. Lorsque le détenteur de la carte d'identification ne présente pas l'ULM à la requête du ministre chargé de l'aviation civile, ou
 
-3. Lorsque le propriétaire ne se conforme pas à l'obligation de fournir les renseignements sur la navigabilité et l'utilisation de l'ULM exigés par les dispositions réglementaires en vigueur.
+3. Lorsque le détenteur de la carte d'identification ne se conforme pas à l'obligation de fournir les renseignements sur la navigabilité et l'utilisation de l'ULM exigés par les dispositions réglementaires en vigueur.
 
-Dans ce cas, le propriétaire est informé directement par écrit par le ministre chargé de l'aviation civile. L'inaptitude au vol de l'ULM peut être directement annotée sur la carte d'identification.
+Dans ce cas, le détenteur de la carte d'identification est informé directement par écrit par le ministre chargé de l'aviation civile. L'inaptitude au vol de l'ULM peut être directement annotée sur la carte d'identification.

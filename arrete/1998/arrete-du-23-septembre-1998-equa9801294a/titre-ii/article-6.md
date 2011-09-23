@@ -1,21 +1,23 @@
 # Article 6
 
-Dans le cas de cession d'un ULM, le nouveau propriétaire doit disposer des éléments suivants transmis par l'ancien propriétaire :
+Dans le cas de cession d'un ULM, le détenteur de la carte transmet au nouveau postulant les éléments suivants :
 
-a) Carte d'identification avec la mention " vendu " et la date de vente ;
+a) La carte d'identification avec la mention " cédé " et la date de cession ;
 
-b) Une déclaration de l'aptitude au vol de l'ULM ;
+b) Une déclaration de l'état de l'ULM concernant son aptitude au vol ;
 
-c) La fiche d'identification ;
+c) La fiche d'identification de l'ULM ;
 
 d) Le dossier d'utilisation, qui comprend pour tout ULM :
 
 1. Un manuel d'utilisation ;
 
-2. Un manuel d'entretien.
+2. Un manuel d'entretien ;
 
-Le visa de la nouvelle carte d'identification est effectué par le ministre chargé de l'aviation civile au vu de l'ancienne carte et de sa fiche d'identification associée.
+e) La fiche de pesée, sauf pour les ULM de classe 1.
 
-Le visa de la nouvelle carte d'identification doit être effectué au plus tard un mois après la date de cession qui a été annotée par l'ancien propriétaire.
+L'ancien détenteur de la carte informe de la vente, dans un délai de quinze jours, par recommandé avec accusé de réception, l'autorité ayant délivré la carte d'identification.
 
-En cas de cession de l'ULM, le propriétaire dispose d'un délai de quinze jours pour informer de la vente, par recommandé avec accusé de réception, l'autorité ayant délivré la carte d'identification.
+La nouvelle carte d'identification est visée et délivrée par le ministre chargé de l'aviation civile au vu de l'ancienne carte d'identification, de la fiche d'identification associée et d'une déclaration du postulant selon l'article 5.
+
+L'ancienne carte d'identification reste valide pendant un mois après la date de cession de l'ULM.

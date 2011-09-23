@@ -4,7 +4,7 @@ Est qualifié ULM un aéronef monoplace ou biplace faiblement motorisé, répond
 
 Classe 1 (dite paramoteur)
 
-Un ULM paramoteur est un aéronef monomoteur sustenté par une voilure souple, de type parachute. Il répond aux conditions techniques suivantes :
+Un ULM paramoteur est un aéronef monomoteur sustenté par une voilure souple, de type parachute ou parapente. Il répond aux conditions techniques suivantes :
 
 - la puissance maximale est inférieure ou égale à 60 kW pour un monoplace et à 75 kW pour un biplace ;
 
@@ -61,5 +61,3 @@ Un ULM à motorisation auxiliaire répond aux conditions techniques suivantes :
 - la masse maximale est inférieure ou égale à 170 kg ;
 
 - la charge alaire à la masse maximale est inférieure à 30 kg/m2.
-
-Le ministre chargé de l'aviation civile tient à jour une liste des moteurs répondant aux caractéristiques décrites au présent article.
