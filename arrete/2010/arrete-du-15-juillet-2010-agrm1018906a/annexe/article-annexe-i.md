@@ -26,15 +26,15 @@ Tourteau (Cancer pagurus) : 14 cm au nord du 48e parallèle Nord et 13 cm au sud
 
 Langouste rouge (Palinurus spp) : 11 cm.
 
-Coque (Cerastoderma edule) : 2, 7 cm. Gisement de la baie de Somme, région Basse-Normandie, gisement de La Baule : 3 cm.
+Coque (Cerastoderma edule) : 2,7 cm. Gisement de la baie de Somme, région Basse-Normandie, gisement de La Baule : 3 cm.
 
-Praire (Venus verrucosa) : 4, 3 cm.
+Praire (Venus verrucosa) : 4,3 cm.
 
 Huître plate (Ostrea edulis) : 6 cm.
 
 Huître creuse (Crassostrea gigas) : 5 cm.
 
-Oursin (Paracentrotus lividus) : 4 cm piquants exclus ; région Bretagne : 5, 5 cm piquants exclus.
+Oursin (Paracentrotus lividus) : 4 cm piquants exclus ; région Bretagne : 5,5 cm piquants exclus.
 
 Moule (Mytilus edulis) : 4 cm.
 
@@ -42,25 +42,27 @@ Ormeau (Haliotis spp.) : 9 cm.
 
 Bouquet (Palaemon serratus) : 5 cm dans les régions Bretagne, Basse-Normandie et secteur de la baie de Granville.
 
-Palourde rose (Venerupis rhomboides) : 3, 8 cm.
+Palourde rose (Venerupis rhomboides) : 3,8 cm.
 
-Vénus (Spisula spp.) : 2, 8 cm.
+Vénus (Spisula spp.) : 2,8 cm.
 
 Vernis (Challista spp.) : 6 cm.
 
-Coquille Saint-Jacques (Pecten maximus) : 10, 2 cm en VIIe.
+Coquille Saint-Jacques (Pecten maximus) : 10,2 cm en VIIe.
 
-Coquille Saint-Jacques (Pecten maximus) : 10, 2 cm pour les gisements de Bretagne Sud (Concarneau-Les Glénan ― Lorient Groix-Quiberon).
+Coquille Saint-Jacques (Pecten maximus) : 10,2 cm pour les gisements de Bretagne Sud (Concarneau-Les Glénan ― Lorient Groix-Quiberon).
 
-Coquille Saint-Jacques (Pecten maximus) : 10, 5 cm pour la rade de Brest et les pertuis charentais.
+Coquille Saint-Jacques (Pecten maximus) : 10,5 cm pour la rade de Brest et les pertuis charentais.
 
 Palourde japonaise (Ruditapes philippinarum) : 4 cm dans la région Basse-Normandie.
+
+Maigre (Argyrosomus regius) : 30 cm.
 
 II. ― Méditerranée
 
 Mollusques, crustacés et autres organismes marins
 
-Coque ou hénon (Cerastoderma edule) : 2, 7 cm.
+Coque ou hénon (Cerastoderma edule) : 2,7 cm.
 
 Huître creuse (Crassostrea gigas) : 6 cm.
 
@@ -68,13 +70,15 @@ Huître plate (Ostrea edulis) : 6 cm.
 
 Oursin (Paracentrotus lividus) : pêché en mer, 5 cm piquants exclus.
 
-Oursin (Paracentrotus lividus) : pêché en étang, 3, 5 cm piquants exclus.
+Oursin (Paracentrotus lividus) : pêché en étang, 3,5 cm piquants exclus.
 
-Palourde européenne (Ruditapes decussatus) : 3, 5 cm.
+Palourde européenne (Ruditapes decussatus) : 3,5 cm.
 
 Palourde jaune ou clovisse (Venerupis aureus) : 3 cm.
 
-Tellines (Donax truncullus et Tellina spp.) : 2, 5 cm.
+Tellines (Donax truncullus et Tellina spp.) : 2,5 cm.
+
+Maigre (Argyrosomus regius) : 30 cm.
 
 III. ― Mayotte
 
