@@ -6,7 +6,7 @@ Pour être éligibles, les personnes physiques et les sociétés dont l'objet es
 
 ― déclarer respecter les normes minimales requises dans le domaine de l'environnement applicables à l'investissement concerné par la demande d'aide.
 
-En outre, pour être éligibles, les personnes physiques doivent déclarer être âgées d'au moins 18 ans et de moins de 60 ans au 1er janvier de l'année de la demande et les sociétés satisfaire aux conditions suivantes :
+En outre, pour être éligibles, les personnes physiques doivent déclarer être âgées d'au moins 18 ans et n'avoir pas fait valoir leurs droits à la retraite dans un régime d'assurance vieillesse obligatoire de base au 1er janvier de l'année de la demande et les sociétés satisfaire aux conditions suivantes :
 
 ― l'objet social doit concerner la mise en valeur directe d'une exploitation agricole ;
 

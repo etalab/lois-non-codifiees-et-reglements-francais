@@ -68,88 +68,110 @@ Le taux de subvention est de 80 % de la dépense éligible dans la limite des co
 </table>
 
 </div>
-
-<div align="center">
-
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left">
 <table>
 <tbody>
 <tr>
-<th>TYPE D'INVESTISSEMENT<br/>
+<th colspan="2">
+<br/>TYPE D'INVESTISSEMENT <br/>
 </th>
-<th>CATÉGORIE<br/>de troupeau<br/>
+<th>
+<br/>CATÉGORIE DE TROUPEAU <br/>
 </th>
-<th>MONTANT PLAFOND DE DÉPENSES<br/>
+<th>
+<br/>MONTANT PLAFOND DE DÉPENSES <p>ou forfait, le cas échéant <br/>
+</p>
 </th>
 </tr>
 <tr>
-<td align="center">Option chien de protection<br/>
+<td align="center">
+<br/>Option chien de protection <br/>
 </td>
 <td align="center">
+<br/>Achat de chiens (1) <br/>
+</td>
+<td align="center">
+<br/>Indifférenciée <br/>
+</td>
+<td align="center">
+<br/>375 € par chien <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
 <br/>
 </td>
 <td align="center">
+<br/>Entretien de chiens (2) <br/>
+</td>
+<td align="center">
+<br/>Indifférenciée <br/>
+</td>
+<td align="center">
+<br/>Forfait 652 € par chien <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
 <br/>
 </td>
-</tr>
-<tr>
-<td align="center">Achat de chiens (1)<br/>
+<td align="center">
+<br/>Stérilisation <br/>
 </td>
-<td align="center">Indifférenciée<br/>
+<td align="center">
+<br/>Indifférenciée <br/>
 </td>
-<td align="center">375 € par chien<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Entretien de chiens (2)<br/>
-</td>
-<td align="center">Indifférenciée<br/>
-</td>
-<td align="center">815 € par chien<br/>
+<td align="center">
+<br/>250 € par chien <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Stérilisation<br/>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td align="center">Indifférenciée<br/>
+<td align="center">
+<br/>Test de comportement (3) <br/>
 </td>
-<td align="center">250 € par chien<br/>
+<td align="center">
+<br/>Indifférenciée <br/>
+</td>
+<td align="center">
+<br/>500 € par chien <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Test de comportement (3)<br/>
-</td>
-<td align="center">Indifférenciée<br/>
-</td>
-<td align="center">500 € par chien <br/>
-</td>
-</tr>
-<tr>
-<td colspan="3">(1) Le préfet pourra à titre exceptionnel autoriser le remplacement d'un chien reconnu inapte à la fonction de protection du troupeau ou reconnu agressif et présentant de ce fait un danger bien que le bénéficiaire ait atteint le plafond de chiens finançables fixé pour chaque catégorie de troupeau par voie de circulaire du ministère de l'agriculture et de la pêche.<br/>(2) L'entretien du chien finance les dépenses suivantes : les frais vétérinaires, y compris les soins et traitements, l'identification, la vaccination et les frais de nourriture.<br/>(3) Les titulaires de contrats pluriannuels mentionnés à l'article 19 ont également accès à cette mesure.<br/>
+<td colspan="4">
+<br/>(1) Le préfet pourra, à titre exceptionnel, autoriser le remplacement d'un chien reconnu inapte à la fonction de protection du troupeau ou reconnu agressif et présentant de ce fait un danger bien que le bénéficiaire ait atteint le plafond de chiens finançables fixé pour chaque catégorie de troupeau par voie de circulaire du ministère de l'alimentation, de l'agriculture et de la pêche. <p>(2) L'entretien du chien finance les dépenses suivantes : les frais vétérinaires, y compris les soins et traitements, l'identification, la vaccination et les frais de nourriture. </p>
+<p>(3) Les titulaires de contrats pluriannuels mentionnés à l'article 19 ont également accès à cette mesure.<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 </div>
 
 Financement du gardiennage renforcé :
 
 Le taux de subvention du gardiennage renforcé est de 80 % de la dépense éligible dans la limite de coûts plafonds.
 
-En cas d'embauche ou de prestation de service, le plafond de dépenses éligibles est de : 77 € par jour.
+En cas d'embauche ou de prestation de service, le plafond de dépenses éligibles est de 77 € par jour.
 
-Le travail de surveillance du troupeau effectué par l'éleveur peut être pris en compte au titre des contributions en nature dans la limite d'un plafond d'aide mensuel et dans la limite du montant total des dépenses admissibles hors contributions en nature.
+Le travail de surveillance du troupeau effectué par l'éleveur est pris en charge sur la base d'un forfait d'aide établi en fonction de la catégorie de troupeau.
 
-Les modalités de calcul du plafond et son montant en fonction de la catégorie de troupeau sont fixées par voie de circulaire. Toutefois, le plafond d'aide maximal ne peut excéder 651 € mensuel.
+Les modalités de calcul des montants (plafond ou forfait) sont fixées par voie de circulaire. Toutefois, le plafond d'aide maximal ne peut excéder 651 € mensuel.
 
 La valeur des prestations est déterminée sur la base du temps passé ainsi que d'une rémunération horaire correspondant au SMIC.
 
-Les modalités de calcul sont définies par voie de circulaire du ministère de l'agriculture et de la pêche.
+Les modalités de calcul sont définies par voie de circulaire du ministère de l'alimentation, de l'agriculture et de la pêche.
 
-Dispositif 323 C  mesures de protection contre la prédation (en cercle 1)
-
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -285,7 +307,6 @@ Dispositif 323 C  mesures de protection contre la prédation (en cercle 1)
 </tr>
 </tbody>
 </table>
-
 </div>
-
-En cercle 2, les bénéficiaires s'engagent sur au moins une des deux options parmi les options : chien de protection et parc de regroupement mobile.
+<div align="left">
+<br/>En cercle 2, les bénéficiaires s'engagent sur au moins une des deux options parmi les options : chien de protection et parc de regroupement mobile.</div>
