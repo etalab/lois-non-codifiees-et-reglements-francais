@@ -1133,7 +1133,6 @@
 - [Arrêté du 13 janvier 2010 (AGRT0931326A)](arrete-du-13-janvier-2010-agrt0931326a)
 - [Arrêté du 13 janvier 2010 (DEVA0900307A)](arrete-du-13-janvier-2010-deva0900307a)
 - [Arrêté du 13 janvier 2010 (DEVK1000260A)](arrete-du-13-janvier-2010-devk1000260a)
-- [Arrêté du 13 janvier 2010 (DEVU0926206A)](arrete-du-13-janvier-2010-devu0926206a)
 - [Arrêté du 13 janvier 2010 (ECED1000816A)](arrete-du-13-janvier-2010-eced1000816a)
 - [Arrêté du 13 janvier 2010 (ECES1000359A)](arrete-du-13-janvier-2010-eces1000359a)
 - [Arrêté du 13 janvier 2010 (PRMG1000365A)](arrete-du-13-janvier-2010-prmg1000365a)
