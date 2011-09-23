@@ -4,6 +4,8 @@ Le militaire a droit à la prise en charge de ses frais de changement de réside
 
 1° A une mutation pour raison de service ;
 
+Le militaire muté pour raison de service moins de trois ans avant qu'il n'atteigne la limite d'âge ou la limite de durée de services et qui n'est pas logé par nécessité absolue de service ou par utilité de service peut, sur demande agréée, faire valoir ses droits à prise en charge des frais de changement de résidence par anticipation sur les droits ouverts au titre des cas prévus au 3° du présent article. Le militaire ne pourra alors plus bénéficier de la prise en charge de ses frais au titre d'un changement de résidence ultérieur, sauf si ce dernier est effectué au titre des cas prévus au 2° ;
+
 2° A un changement de résidence effectué sur ordre du commandement, soit pour occuper, soit pour libérer un logement occupé par nécessité absolue de service ou par utilité de service ;
 
 3° A la cessation de l'état militaire, soit d'office par atteinte de la limite d'âge ou de la limite de durée de services, soit par démission ou résiliation du contrat ouvrant droit à pension militaire de retraite ;
