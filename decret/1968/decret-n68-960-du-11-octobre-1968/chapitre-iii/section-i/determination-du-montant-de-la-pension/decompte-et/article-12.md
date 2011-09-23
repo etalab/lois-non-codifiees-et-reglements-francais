@@ -20,17 +20,23 @@ Le nombre de trimestres pris en compte pour ce calcul est égal :
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur. Le plus petit des deux nombres de trimestres résultant des dispositions du 1° et du 2° ci-dessus est pris en considération.
 
-Le coefficient de minoration n'est pas applicable aux assurés handicapés dont l'incapacité permanente est au moins égale à 80 % ni aux assurés mis à la retraite d'office suite à une invalidité.
+Le coefficient de minoration n'est pas applicable :
 
-Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont l'assuré aurait pu bénéficier intervient après son décès en activité.
+a) Aux assurés handicapés dont l'incapacité permanente est au moins égale à 80 % ni aux assurés mis à la retraite d'office pour invalidité ;
 
-III.-Lorsque la durée d'assurance définie au IV ci-après est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension mentionné au I ci-dessus, sans être inférieure à cent soixante trimestres, et que l'assuré a atteint l'âge de soixante ans, un coefficient de majoration s'applique au montant de la pension calculée en application du I du présent article.
+b) Aux pensions de réversion lorsque la liquidation de la pension dont l'assuré aurait pu bénéficier intervient après son décès en activité ;
 
-Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du IV ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge de soixante ans et en sus du nombre de trimestres mentionné à l'alinéa précédent. Toutefois, lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction égale à celle que définit le régime de travail autorisé.
+c) Aux assurés âgés d'au moins soixante-cinq ans qui bénéficient d'un nombre minimum de trimestres, fixé par le décret prévu au septième alinéa du I de l'article L. 14 du code des pensions civiles et militaires de retraite, au titre de la majoration de durée d'assurance prévue au IV de l'article 11 bis ou qui, pendant une durée et dans des conditions fixées par le même décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
+
+III.-Lorsque la durée d'assurance définie au IV ci-après est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension mentionné au I ci-dessus, sans être inférieure à cent soixante trimestres, et que l'assuré a atteint l'âge mentionné au 1° de l'article 6, un coefficient de majoration s'applique au montant de la pension calculée en application du I du présent article.
+
+Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du IV ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge mentionné au 1° de l'article 6 et en sus du nombre de trimestres mentionné à l'alinéa précédent. Toutefois, lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction égale à celle que définit le régime de travail autorisé.
+
+Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour le calcul de la durée d'assurance mentionnée au premier alinéa du présent III. La liste des bonifications et majorations de durée auxquelles s'applique le présent alinéa est celle fixée par le décret prévu au troisième alinéa du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
-Le taux du coefficient de majoration est égal, par trimestre supplémentaire dans la limite de vingt trimestres, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires.
+Le taux du coefficient de majoration est égal, par trimestre supplémentaire, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires.
 
 IV.-La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs autres régimes de retraite de base obligatoires.
 
@@ -40,10 +46,10 @@ Pour le calcul de la durée d'assurance :
 
 2° Une année civile ne peut compter plus de quatre trimestres, sous réserve des majorations de durée de services et des bonifications prévues par le présent texte.
 
-V.-Dispositions transitoires.
-
-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
+V.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
 
 Le coefficient de minoration prévu au II ci-dessus n'est applicable qu'aux personnes remplissant les conditions définies à l'article 6 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet 2010 et le 30 juin 2011 inclus, il est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du II ci-dessus. Pour les personnes remplissant les conditions définies audit article postérieurement au 30 juin 2011 ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du II ci-dessus.
 
 L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du II diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
+
+VI.-Le VI de l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, dans sa rédaction issue de l'article 17 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, est applicable aux assurés affiliés au régime spécial de retraite régi par le présent décret.

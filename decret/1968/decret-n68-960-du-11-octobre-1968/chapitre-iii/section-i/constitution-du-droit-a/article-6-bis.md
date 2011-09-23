@@ -1,6 +1,6 @@
 # Article 6 bis
 
-I. - L'âge prévu au 1° de l'article 6 est abaissé pour les assurés handicapés :
+I. -Pour les assurés handicapés, l'âge d'ouverture du droit à pension est fixé :
 
 1° A cinquante-cinq ans pour ceux qui ont accompli dans le régime de la Comédie-Française, et, le cas échéant, dans un ou plusieurs autres régimes de retraite obligatoires, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à 80 %, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de quarante trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de soixante trimestres ;
 
