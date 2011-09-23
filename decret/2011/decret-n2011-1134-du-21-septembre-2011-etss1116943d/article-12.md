@@ -1,0 +1,5 @@
+# Article 12
+
+Les cotisations versées avant la date d'entrée en vigueur du présent décret en application de l'article 11 ter du décret du 11 octobre 1968 susvisé par les assurés nés à compter du 1er janvier 1957 leurs sont remboursées, sur leur demande, à la condition qu'ils n'aient fait valoir aucun des droits aux pensions personnelles de retraite auxquels ils peuvent prétendre au titre des régimes légaux ou rendus légalement obligatoires, de base et complémentaires. Les demandes de remboursement doivent être présentées dans un délai de trois ans suivant l'entrée en vigueur du présent décret. Les assurés concernés sont informés de cette possibilité, quel que soit leur lieu de résidence.
+
+Le montant des cotisations à rembourser est calculé en revalorisant les cotisations versées par l'assuré par application chaque année du coefficient annuel de revalorisation mentionné à l'article L. 161-23-1 du code de la sécurité sociale ou, le cas échéant, du coefficient annuel de revalorisation effectivement appliqué aux pensions de retraite versées par la caisse de retraites du personnel de la Comédie-Française.
