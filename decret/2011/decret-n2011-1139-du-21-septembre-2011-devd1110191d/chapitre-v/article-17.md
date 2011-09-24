@@ -1,0 +1,3 @@
+# Article 17
+
+Les fonctionnaires civils appartenant à un corps ou cadre d'emplois classé dans la catégorie B ou de niveau équivalent peuvent être détachés puis, le cas échéant, intégrés, ou directement intégrés dans le corps des techniciens supérieurs de la météorologie régi par le présent décret, conformément aux dispositions des articles 28 à 30 du décret du 11 novembre 2009 susvisé. Ils peuvent être tenus de suivre une formation d'une durée au moins égale à trois mois tenant compte de leur formation antérieure. Le contenu de cette formation est fixé par arrêté conjoint des ministres chargés des transports et de la fonction publique.

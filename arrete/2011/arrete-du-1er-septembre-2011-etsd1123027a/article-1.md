@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les conditions prévues à l'article L. 1233-66 du code du travail, l'employeur est tenu de proposer à chaque salarié dont il envisage de prononcer le licenciement pour motif économique le bénéfice d'un contrat de sécurisation professionnelle, qui est conclu avec Pôle emploi ou un opérateur de placement mentionné à l'article L. 5321-1 ou, pour les salariés des établissements implantés dans les bassins d'emploi de Charleville-Mézières, Montbéliard, Morlaix, Saint-Dié-des-Vosges, Toulon, Valenciennes et Vitré, avec la filiale de l'Association nationale pour la formation professionnelle des adultes dénommée SG-CTP.

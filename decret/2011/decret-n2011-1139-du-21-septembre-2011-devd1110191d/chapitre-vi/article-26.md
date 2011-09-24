@@ -1,0 +1,3 @@
+# Article 26
+
+Par dérogation aux dispositions du premier alinéa de l'article 1er du décret du 30 décembre 2010 susvisé et jusqu'à la constitution de la commission administrative paritaire du corps des techniciens supérieurs de la météorologie régi par le présent décret, qui interviendra au plus tard dans le délai de dix-huit mois à compter de sa date d'entrée en vigueur, les commissions administratives paritaires du corps des techniciens supérieurs de la météorologie et du corps des techniciens de la météorologie demeurent compétentes, le mandat de leurs membres est maintenu et ces commissions siègent en formation commune.
