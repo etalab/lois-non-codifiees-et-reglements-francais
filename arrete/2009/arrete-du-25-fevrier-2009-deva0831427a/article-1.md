@@ -2,14 +2,18 @@
 
 Le service technique de l'aviation civile est dirigé par un chef de service assisté d'un adjoint. Il comprend :
 
-― un département « aménagement, capacité, environnement » (STAC/ACE) ;
+a) Quatre départements techniques :
 
-― un département « infrastructures aéroportuaires » (STAC/IA) ;
+1° Le département "aménagement, capacité, environnement" (STAC/ACE) ;
 
-― un département « sûreté, équipements » (STAC/SE) ;
+2° Le département "infrastructures aéroportuaires" (STAC/IA) ;
 
-― un département « systèmes d'information et navigation aérienne » (STAC/SINA) ;
+3° Le département "sûreté, équipements" (STAC/SE) ;
 
-― un département administratif (STAC/DA) ;
+4° Le département "systèmes d'information et navigation aérienne" (STAC/SINA) ;
 
-― une cellule « aéronavale » (STAC/AN).
+b) Le département administratif (STAC/DA) ;
+
+c) La cellule aéronavale (STAC/AN) ;
+
+d) Le pôle support (STAC/SUP).

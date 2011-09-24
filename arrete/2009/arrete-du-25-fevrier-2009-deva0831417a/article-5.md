@@ -1,11 +1,19 @@
 # Article 5
 
-Le service technique de l'aviation civile comprend un département administratif et quatre départements techniques, respectivement chargés :
+Le service technique de l'aviation civile comprend :
 
-― des systèmes d'information et de la navigation aérienne ;
+a) Quatre départements techniques :
 
-― de l'aménagement, de la capacité et de l'environnement ;
+1° Le département "aménagement, capacité, environnement" (STAC/ACE) ;
 
-― des infrastructures aéroportuaires ;
+2° Le département "infrastructures aéroportuaires" (STAC/IA) ;
 
-― de la sûreté et des équipements.
+3° Le département "sûreté, équipements" (STAC/SE) ;
+
+4° Le département "systèmes d'information et navigation aérienne" (STAC/SINA) ;
+
+b) Le département administratif (STAC/DA) ;
+
+c) La cellule aéronavale (STAC/AN) ;
+
+d) Le pôle support (STAC/SUP).
