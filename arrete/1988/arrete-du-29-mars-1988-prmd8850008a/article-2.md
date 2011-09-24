@@ -1,3 +1,3 @@
 # Article 2
 
-Les commissions consultatives paritaires, au nombre de trois, sont compétentes à l'égard des agents civils non titulaires du niveau de la catégorie A, de la catégorie B ainsi que des catégories C et D de la fonction publique de l'État.
+Lorsque les effectifs de chaque catégorie de personnels sont supérieurs à 10, des commissions consultatives paritaires compétentes respectivement à l'égard des agents civils non titulaires du niveau de catégorie A, B et C de la fonction publique de l'Etat sont instituées.
