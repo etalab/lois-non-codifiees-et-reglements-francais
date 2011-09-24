@@ -1,5 +1,7 @@
 # Article Annexe
 
+Bibliothécaires assistants spécialisés
+
 Contrôleurs des douanes et droits indirects.
 
 Contrôleurs des finances publiques.
@@ -35,5 +37,7 @@ Secrétaires administratifs des services du Premier ministre.
 Techniciens supérieurs du ministère chargé de l'agriculture.
 
 Techniciens supérieurs d'études et de fabrications du ministère de la défense.
+
+Techniciens supérieurs de la météorologie.
 
 Techniciens de recherche et de formation.
