@@ -46,7 +46,6 @@
 - [Décret n°94-965 du 2 novembre 1994 (JUSE9440139D)](decret-n94-965-du-2-novembre-1994-juse9440139d)
 - [Décret n°94-966 du 2 novembre 1994 (DEFP9401628D)](decret-n94-966-du-2-novembre-1994-defp9401628d)
 - [Décret n°94-967 du 2 novembre 1994 (DEFP9401629D)](decret-n94-967-du-2-novembre-1994-defp9401629d)
-- [Décret n°95-118 du 2 février 1995 (EQUL9401865D)](decret-n95-118-du-2-fevrier-1995-equl9401865d)
 - [Décret n°97-916 du 2 octobre 1997 (ECOI9700368D)](decret-n97-916-du-2-octobre-1997-ecoi9700368d)
 - [Décret n°94-346 du 2 mai 1994 (TEFT9400303D)](decret-n94-346-du-2-mai-1994-teft9400303d)
 - [Décret n°94-347 du 2 mai 1994 (TEFT9400304D)](decret-n94-347-du-2-mai-1994-teft9400304d)
