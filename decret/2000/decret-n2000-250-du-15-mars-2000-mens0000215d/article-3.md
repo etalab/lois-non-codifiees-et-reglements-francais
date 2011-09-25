@@ -36,4 +36,6 @@ Muséum national d'histoire naturelle ;
 
 Observatoire de Paris ;
 
+Université de Lorraine ;
+
 Université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
