@@ -1,0 +1,5 @@
+# Article 16
+
+Les services communs de l'université de Lorraine assurent les activités confiées aux services communs des universités par l'article L. 714-1 du code de l'éducation. Leurs modalités de création, d'organisation et de fonctionnement sont fixées par les décrets pris pour l'application de cet article.
+
+L'université de Lorraine peut en outre décider, en vertu de l'article L. 714-2 du même code, de créer avec d'autres établissements publics d'enseignement supérieur ou de recherche un ou plusieurs services communs. Les établissements intéressés règlent par convention l'organisation et les modalités de gestion de ce service. Cette convention mentionne les missions dévolues au service, l'établissement de rattachement, au sein duquel le service établit son siège, ainsi que les droits et obligations des établissements contractants. Elle précise en outre les conditions de nomination du directeur de ce service, la durée de son mandat, ainsi que, le cas échéant, la composition, les attributions et les modalités de fonctionnement de l'instance consultative qui assiste le directeur.
