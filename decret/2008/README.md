@@ -62,7 +62,6 @@
 - [Décret n°2008-1134 du 3 novembre 2008 (ESRS0809737D)](decret-n2008-1134-du-3-novembre-2008-esrs0809737d)
 - [Décret n°2008-1135 du 3 novembre 2008 (SJSH0807099D)](decret-n2008-1135-du-3-novembre-2008-sjsh0807099d)
 - [Décret n°2008-1136 du 3 novembre 2008 (BCFF0820151D)](decret-n2008-1136-du-3-novembre-2008-bcff0820151d)
-- [Décret n°2008-1140 du 3 novembre 2008 (AGRP0817189D)](decret-n2008-1140-du-3-novembre-2008-agrp0817189d)
 - [Décret n°2008-12 du 3 janvier 2008 (ECEA0760576D)](decret-n2008-12-du-3-janvier-2008-ecea0760576d)
 - [Décret n°2008-1260 du 3 décembre 2008 (ECEP0816238D)](decret-n2008-1260-du-3-decembre-2008-ecep0816238d)
 - [Décret n°2008-1267 du 3 décembre 2008 (JUSA0823989D)](decret-n2008-1267-du-3-decembre-2008-jusa0823989d)
