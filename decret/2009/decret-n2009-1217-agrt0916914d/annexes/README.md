@@ -5,4 +5,3 @@
 - [Article AOC "Côtes de Duras"](article-aoc-cotes-de-duras.md)
 - [Article AOC "Monbazillac"](article-aoc-monbazillac.md)
 - [Article AOC "Quarts de Chaume"](article-aoc-quarts-de-chaume.md)
-- [Article AOC "Rosé de Loire"](article-aoc-rose-de-loire.md)
