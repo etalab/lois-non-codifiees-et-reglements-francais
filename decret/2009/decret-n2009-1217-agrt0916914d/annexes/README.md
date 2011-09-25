@@ -1,6 +1,5 @@
 # Annexes
 
-- [Article AOC "Bergerac"](article-aoc-bergerac.md)
 - [Article AOC "Bonnezeaux"](article-aoc-bonnezeaux.md)
 - [Article AOC "Buzet"](article-aoc-buzet.md)
 - [Article AOC "Coteaux du Layon"](article-aoc-coteaux-du-layon.md)
