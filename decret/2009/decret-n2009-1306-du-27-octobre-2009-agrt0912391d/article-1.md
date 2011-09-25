@@ -1,5 +1,17 @@
 # Article 1
 
-Est homologué le cahier des charges, annexé au présent décret, de l'appellation d'origine contrôlée suivante :
+Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Côtes de Bordeaux-Saint-Macaire ".
+― " Vin de Savoie " ou " Savoie " ;
+
+― " Roussette de Savoie " ;
+
+― " Côtes de Bordeaux-Saint-Macaire " ;
+
+― " Cadillac " ;
+
+― " Entre-deux-Mers " ;
+
+― " Sainte-Foy-Bordeaux " ;
+
+― " Graves de Vayres ".

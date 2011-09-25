@@ -8,5 +8,4 @@
 - [Article AOC "Graves de Vayres"](article-aoc-graves-de-vayres.md)
 - [Article AOC "Saint-Macaire"](article-aoc-saint-macaire.md)
 - [Article AOC "Sainte-Foy-Bordeaux"](article-aoc-sainte-foy-bordeaux.md)
-- [Article AOC "Seyssel"](article-aoc-seyssel.md)
 - [Article AOC "Vin de Savoie"](article-aoc-vin-de-savoie.md)
