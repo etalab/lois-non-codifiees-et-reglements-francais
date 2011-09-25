@@ -2,14 +2,10 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― "Quincy" ;
+― " Coteaux du Giennois " ;
 
-― "Coteaux du Giennois" ;
+― " Jurançon " ;
 
-― "Menetou-Salon" ;
+― " Gaillac " ;
 
-― "Jurançon" ;
-
-― " Gaillac" ;
-
-― "Gaillac premières côtes".
+― " Gaillac premières côtes ".
