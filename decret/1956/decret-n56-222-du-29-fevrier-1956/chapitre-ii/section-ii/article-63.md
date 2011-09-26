@@ -2,9 +2,9 @@
 
 Les membres de la chambre régionale sont élus pour six ans et sont rééligibles.
 
-La chambre régionale est renouvelée par tiers tous les deux ans dans les mêmes conditions que les chambres départementales.
+La chambre ne peut comprendre parmi ses membres, dans une proportion supérieure à un tiers, des huissiers de justice associés ou salariés d'une même société.
 
-Les membres des deux premières séries sortantes sont désignés par voie de tirage au sort auquel la chambre régionale procède lors de sa dernière réunion avant le renouvellement.
+La chambre régionale est renouvelée par tiers tous les deux ans dans les mêmes conditions que les chambres départementales.
 
 Si un membre vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est pourvu dans le délai de trois mois à son remplacement. En ce cas les fonctions du nouveau membre expire à l'époque où auraient cessé celles du membre qu'il a remplacé.
 
