@@ -1,14 +1,21 @@
 # Article Annexe 2
 
+ANNEXE 2
+
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>PAYS<br/>
-</th>
-<th>NOUVEAU<br/>groupe 9<br/>
-</th>
+<td>
+<p align="center"> PAYS<br/>
+</p>
+</td>
+<td>
+<p align="center"> NOUVEAU groupe 9</p>
+<p align="center">(ancien groupe 13)<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">AFGHANISTAN<br/>

@@ -1,6 +1,6 @@
 # Article 3
 
-Les montants mensuels de l'indemnité de résidence et de l'indemnité d'expatriation des nouveaux groupes 2 à 8 et 10 à 18 sont fixés en pourcentage par rapport au nouveau groupe 9, conformément au tableau de correspondance suivant :
+Les montants mensuels de l'indemnité de résidence et de l'indemnité d'expatriation des nouveaux groupes 2 à 8 et 10 à 18 sont fixés en pourcentage par rapport   au nouveau groupe 9 (ancien groupe 13), conformément au tableau de correspondance suivant :
 
 Montant mensuel du groupe 2 = montant mensuel du groupe 9 majoré de 125,8 % ;
 
