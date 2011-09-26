@@ -4,17 +4,19 @@ Prestations, salaires ou traitements.
 
 Paragraphe 1.
 
-En cas de maladie ou de blessures non couvertes en raison de la législation sur les accidents du travail, les agents statutaires soumis au présent statut et ainsi mis dans l'incapacité de travailler, ont droit, pour la durée de leur incapacité de travail, à leur salaire ou traitement intégral, allocations et avantages de toute nature compris, à l'exclusion des indemnités de fonction et cela à concurrence :
+En cas de maladie ou de blessures non couvertes en raison de la législation sur les accidents du travail, les agents statutaires soumis au présent statut et ainsi mis dans l'incapacité de travailler, ont droit, pendant leur incapacité de travail, à leur salaire ou traitement intégral, allocations et avantages de toute nature compris, à l'exclusion des indemnités de fonction et cela à concurrence d'une durée maximale :
 
-a) D'une durée de 365 jours sur une période de quinze mois pour les maladies ou blessures courantes ;
+a) De 365 jours sur une période de quinze mois pour les maladies ou blessures courantes ;
 
-b) D'une durée de trois ans en cas de longue maladie quel qu'en soit le caractère (pulmonaire, mentale, cancéreuse, vénérienne, etc., ou de blessures à conséquences prolongées).
+b) De trois ans en cas de longue maladie quel qu'en soit le caractère.
 
-Dans le cas où un repos supplémentaire s'avérerait nécessaire, l'agent intéressé bénéficierait, au delà de ces trois ans à salaire ou traitement intégral, de son demi-salaire ou traitement pendant une nouvelle période de deux années.
+Dans le cas où un repos supplémentaire s'avérerait nécessaire, l'agent intéressé bénéficierait, au delà de ces trois ans à salaire ou traitement intégral, de son demi-salaire ou traitement pendant une nouvelle période de deux années maximum.
 
 En cette circonstance, la caisse d'assurance maladie des industries électriques et gazières prévue à l'article 23 ci-dessous peut permettre à l'agent intéressé, sur sa simple demande, de continuer ses traitements, soins, cures ou convalescence en maintenant les prestations complémentaires de celles du régime général de sécurité sociale dont l'agent bénéficiait précédemment.
 
 Par ailleurs, la caisse mutuelle complémentaire et d'action sociale prévue à l'article 25 ci-dessous peut accorder une indemnité dite de moyens d'existence, qui s'ajouterait au demi-salaire statutaire dû à l'agent par son employeur.
+
+Lorsqu'avant la stabilisation de son état de santé ou la consolidation de ses blessures, l'agent ne peut reprendre le travail qu'à mi-temps, il continue à bénéficier des prestations de salaire définies au présent article, en complément de son salaire d'activité, si cette reprise à mi-temps est de nature à favoriser l'amélioration de son état de santé en vue d'une reprise à temps complet, et selon les conditions et durées qui sont fixées par le règlement spécial de contrôle médical des industries électriques et gazières.
 
 Pendant ou à l'issue de ces congés, l'ouverture du droit aux prestations d'invalidité du régime spécial est appréciée dans les conditions prévues à l'annexe 3 du présent statut.
 
@@ -62,14 +64,12 @@ b) La perte automatique des avantages du présent statut en ce qu'ils sont supé
 
 c) L'application des mesures fixées au règlement spécial de contrôle des malades, blessés et accidentés du travail ci-dessus prévu en ce qu'elles porteraient suppression partielle du totale des prestations, salaires, traitements et soins prévus au présent statut.
 
-Afin de permettre l'unité de contrôle des malades blessés et accidentés du travail et autres bénéficiaires des dispositions dites de sécurité sociale déterminées au présent statut, un règlement spécial de contrôle sera établi par arrêté du ministre du travail et de la sécurité sociale et du ministre de l'industrie et du commerce, après avis de la commission supérieure nationale du personnel.
+Afin de permettre l'unité de contrôle des malades blessés et accidentés du travail et autres bénéficiaires des dispositions dites de sécurité sociale déterminées au présent statut, un règlement spécial de contrôle sera établi par arrêté du ministre chargé de la sécurité sociale et du ministre chargé de l'énergie.
 
-Ce règlement spécial de contrôle sera commun à toutes les exploitations et entreprises de gaz et d'électricité et à toutes les organisations de sécurité sociale appelées à couvrir le personnel visé au présent statut.
-
-Les délégués des caisses mutuelles complémentaires et d'action sociale seront appelés à participer, dans le cadre du règlement spécial de contrôle mentionné ci-dessus, au contrôle de leurs ressortissants, conjointement avec la commission secondaire du personnel correspondante, ou avec la commission paritaire s'il s'agit d'une caisse instituée dans une entreprise exclue de la nationalisation, et avec les organismes de sécurité sociale intéressés.
+Ce règlement spécial de contrôle est commun à toutes les entreprises et organismes appelés à couvrir le personnel visé au présent statut.
 
 Imputations, charges.
 
 Paragraphe 7.
 
-Les dépenses afférentes aux prestations, salaires et traitements ci-dessus fixées pour les cas de maladie ou blessures de courte ou de longue durée, d'accidents de travail, de maladie professionnelle, d'accouchements normaux ou de couches pathologiques, sont inscrites au compte d'exploitation respectif des services nationaux ou régionaux du gaz et de l'électricité de France, chapitre "Salaires, traitements du personnel en activité".
+Les dépenses afférentes aux prestations, salaires et traitements ci-dessus fixées pour les cas de maladie ou blessures de courte ou de longue durée, d'accidents de travail, de maladie professionnelle, d'accouchements normaux ou de couches pathologiques, sont inscrites au compte d'exploitation respectif des services nationaux ou régionaux du gaz et de l'électricité de France, chapitre " Salaires, traitements du personnel en activité ".
