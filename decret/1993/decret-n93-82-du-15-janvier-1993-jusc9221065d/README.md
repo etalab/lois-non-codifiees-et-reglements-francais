@@ -4,6 +4,6 @@
 - [Chapitre II : Nomination du notaire salarié.](chapitre-ii)
 - [Chapitre III : Entrée en fonction.](chapitre-iii)
 - [Chapitre IV : Litiges nés à l'occasion de l'exécution d'un contrat de travail.](chapitre-iv)
-- [Chapitre V : Cessation des fonctions du notaire salarié en cas de démission ou de licenciement.](chapitre-v)
+- [Chapitre V : Cessation des fonctions de notaire salarié en cas de rupture du contrat de travail.](chapitre-v)
 - [Chapitre VI : Dispositions applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](chapitre-vi)
 - [Article 26](article-26.md)

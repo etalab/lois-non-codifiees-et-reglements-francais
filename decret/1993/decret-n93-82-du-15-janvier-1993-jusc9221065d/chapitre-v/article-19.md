@@ -6,7 +6,7 @@ Tout licenciement envisagé par le titulaire de l'office d'un notaire salarié e
 
 2° Deux notaires titulaires d'office ou associés, désignés sur proposition du conseil régional ou des conseils régionaux des notaires conjointement par le premier président et le procureur général mentionnés ci-dessus ;
 
-3° Deux notaires salariés exerçant dans le ressort de la cour, désignés dans les mêmes conditions sur proposition des organisations syndicales de salariés du notariat, ayant parmi leurs membres des notaires salariés, les plus représentatives.
+3° Deux notaires salariés exerçant dans le ressort de la cour, désignés dans les mêmes conditions sur proposition des organisations syndicales de salariés du notariat, ayant parmi leurs membres des notaires salariés,  les plus représentatives, ou, à défaut de proposition, du conseil régional ou des conseils régionaux des notaires.
 
 Les membres de la commission sont nommés pour quatre ans.
 

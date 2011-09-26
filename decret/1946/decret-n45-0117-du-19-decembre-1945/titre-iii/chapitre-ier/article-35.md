@@ -14,4 +14,6 @@ Les fonctions de délégué au conseil supérieur sont incompatibles avec celles
 
 Lorsque les conseils régionaux doivent élire deux délégués, chacun d'eux est désigné alternativement tous les deux ans.
 
-Lors du premier renouvellement des mandats des délégués, un délégué est élu pour quatre ans et l'autre pour deux ans. Le mandat de ce dernier est renouvelable pour quatre ans.
+Lorsqu'un conseil régional atteint le seuil de dix-huit membres, il est procédé, lors du prochain renouvellement partiel du conseil supérieur, à l'élection d'un second délégué.
+
+Si cette élection intervient alors que le mandat du premier délégué en exercice vient à expiration, un délégué est élu pour quatre ans et l'autre pour deux ans. Le mandat de ce dernier est renouvelable pour quatre ans.

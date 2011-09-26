@@ -1,4 +1,4 @@
-# Chapitre V : Cessation des fonctions du notaire salarié en cas de démission ou de licenciement.
+# Chapitre V : Cessation des fonctions de notaire salarié en cas de rupture du contrat de travail.
 
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)

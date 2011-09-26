@@ -6,4 +6,4 @@ En cas de faute grave, le titulaire de l'office peut, avant de saisir pour avis 
 
 La mise à pied entraîne, dès la notification qui lui en a été faite, la suspension de l'exercice des fonctions d'officier public et des mandats professionnels du notaire salarié.
 
-Dans les cinq jours de la notification du licenciement ou de la mise à pied, le titulaire de l'office en informe, par lettre recommandée avec demande d'avis de réception, le procureur  général, le président de la chambre et le président de la commission instituée à l'article 19.
+Dans les cinq jours de la notification du licenciement ou de la mise à pied, le titulaire de l'office en informe, par lettre recommandée avec demande d'avis de réception,                    le président de la chambre, le président de la commission instituée à l'article 19 et le procureur général, qui transmet le dossier au garde des sceaux, ministre de la justice, avec son avis motivé.
