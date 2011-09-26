@@ -40,6 +40,8 @@ La commission supérieure nationale du personnel :
 
 5° Concourt à l'établissement du tableau d'avancement national d'échelles pour les agents des échelles 15 à 20 (cadres), ainsi qu'il est précisé à l'article 11 du présent statut ;
 
+5° bis Rend un avis sur le référentiel de classement des emplois en service  actif de la branche professionnelle des industries électriques et gazières  conformément au B du complément relatif aux prestations invalidité, vieillesse,  décès figurant à l'annexe 3 du présent statut ;
+
 6° Etudie les requêtes individuelles pour les domaines de compétence des commissions secondaires, notamment en matière disciplinaire, qui lui seraient transmises après examen par les commissions secondaires, ces requêtes n'étant pas suspensives des décisions prises par les directions, et exerce pour les entreprises n'ayant pas de commission secondaire du personnel les attributions dévolues aux commissions secondaires à l'égard du personnel de ces entreprises ; exerce pour celles qui n'ont ni commission cadre, ni délégation cadre dans les conditions précisées ci-après, les attributions dévolues aux commissions secondaires à l'égard des cadres de ces entreprises ;
 
 7° Exerce les attributions qui lui sont confiées par le code du travail.
@@ -98,7 +100,9 @@ Les commissions secondaires :
 
 - examinent, pour les domaines de compétence ci-dessus énumérés, les requêtes individuelles concernant le ou les collèges concernés, et émettent un avis sur la suite à donner à ces requêtes. Ces requêtes demeurent susceptibles d'un recours auprès de la Commission supérieure nationale du personnel (CSNP) ;
 
-- émettent des suggestions sur toutes les questions relevant des domaines ci-dessus. Lorsque ces suggestions ont une portée générale, elles sont obligatoirement transmises à la CSNP par le président de la commission secondaire.
+- émettent des suggestions sur toutes les questions relevant des domaines ci-dessus. Lorsque ces suggestions ont une portée générale, elles sont obligatoirement transmises à la CSNP par le président de la commission secondaire ;
+
+- sont informées du taux de services actifs attribué aux agents du ou des  collèges concernés occupant un emploi classé en services actifs.
 
 Paragraphe 3.
 
