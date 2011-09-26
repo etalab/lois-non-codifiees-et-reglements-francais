@@ -1,6 +1,6 @@
 # Article 68
 
-La chambre nationale tient au moins une session chaque année.
+La chambre nationale tient au moins une session chaque trimestre.
 
 Le garde des sceaux, ministre de la justice, la réunit aussi souvent qu'il le juge nécessaire.
 

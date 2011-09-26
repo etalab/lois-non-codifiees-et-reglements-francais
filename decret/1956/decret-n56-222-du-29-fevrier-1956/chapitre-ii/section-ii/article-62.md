@@ -8,7 +8,7 @@ Chaque assemblée générale désigne autant de délégués que la compagnie com
 
 Les compagnies comptant moins de vingt-cinq huissiers de justice désignent un délégué.
 
-Si le total des délégués ainsi obtenu pour l'ensemble du ressort est inférieur à sept, les septs sièges sont attribués proportionnellement au rapport existant entre le nombre des études de chaque département du ressort de la cour d'appel et le nombre total des études du ressort.
+Si le total des délégués ainsi obtenu pour l'ensemble du ressort est inférieur à sept, les septs sièges sont attribués proportionnellement au rapport existant entre le nombre des huissiers de justice de chaque département du ressort de la cour d'appel et le nombre total des huissiers de justice du ressort.
 
 Au cas où, après la répartition au quotient, il subsisterait des sièges non pourvus, ceux-ci seraient attribués aux départements justifiant des plus forts restes.
 
