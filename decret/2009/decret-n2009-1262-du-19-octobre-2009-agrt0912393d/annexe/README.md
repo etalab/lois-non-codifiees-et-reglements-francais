@@ -1,6 +1,5 @@
 # Annexe
 
-- [Article AOC Cahors](article-aoc-cahors.md)
 - [Article AOC Côtes du Marmandais](article-aoc-cotes-du-marmandais.md)
 - [Article AOC Fronton](article-aoc-fronton.md)
 - [Article AOC Madiran](article-aoc-madiran.md)
