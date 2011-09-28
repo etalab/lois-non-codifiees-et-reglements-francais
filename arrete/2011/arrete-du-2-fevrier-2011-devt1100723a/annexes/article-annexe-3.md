@@ -12,94 +12,131 @@ Conformément au modèle donné par la partie VI, lettre D, de l'annexe 3 de l'a
 <th>
 <br/>
 </th>
-<th>SOCIÉTÉ</th>
 <th>
-<br/>ADRESSE<br/>
+<br/>SOCIÉTÉ <br/>
 </th>
 <th>
-<br/>
-<p>APPAREILS AGRÉÉS POUR LESQUELS<br/>la société reçoit l'habilitation <br/>
-</p>
+<br/>ADRESSE <br/>
+</th>
+<th>
+<br/>APPAREILS AGRÉÉS POUR LESQUELS <br/>
+<br/>la société reçoit l'habilitation <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="center">1</p>
+<br/>1 <br/>
 </td>
 <td align="center">
-<p align="center">G2HE</p>
+<br/>AEMI <br/>
 </td>
 <td align="center">
-<p align="left">3, rue Sophie-Germain, 75014 Paris</p>
+<br/>56, avenue Pierre-Berthelot, 14000 Caen <br/>
 </td>
 <td align="center">
-<p align="left">Appareils radar : Periskal </p>
+<br/>Appareils radar : Furuno, Simrad <br/>
+<br/>Indicateur de vitesse de giration : Simrad <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">ATEYS</p>
+<td align="center">
+<br/>ATEYS <br/>
 </td>
-<td>35, rue de Valmy, 76600 Le Havre </td>
-<td>
-<p align="left">Appareils radar : Furuno, Swiss radar. </p>
-<p>Indicateurs de vitesse de giration : Radio Zeeland </p>
+<td align="center">
+<br/>35, rue de Valmy, 76600 Le Havre <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">Sud Communication </p>
-</td>
-<td>95, rue Rajol, Espace Fréjorgues Est, 34130 Mauguio </td>
-<td>Appareils radar : ICOM </td>
-</tr>
-<tr>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">AEMI</p>
-</td>
-<td>56, avenue Pierre-Berthelot, 14000 Caen </td>
-<td>
-<p align="left">Appareils radar : Furuno, Simrad. </p>
-<p>Indicateur de vitesse de giration : Simrad </p>
+<td align="center">
+<br/>Appareils radar : Furuno, Radio Holland, Radio Zeeland, Swiss radar <br/>
+<br/>Indicateurs de vitesse de giration : Radio Zeeland <br/>
 </td>
 </tr>
 <tr>
-<td>5</td>
-<td>
-<p align="center">SIECMI</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>3, quai Est, 29900 Concarneau </td>
-<td>
-<p align="left">Appareils radar : Radio Holland, Radio Zeeland, Alphatron. </p>
-<p>Indicateurs de vitesse de giration : Radio Holland, Radio Zeeland, Alphatron</p>
+<td align="center">
+<br/>GH2E <br/>
+</td>
+<td align="center">
+<br/>3, rue Sophie-Germain, 75014 Paris <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : Periskal <br/>
 </td>
 </tr>
 <tr>
-<td>6</td>
-<td>
-<p align="center">THEMYS</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td>
-<p align="left">Quartier de la chaume, CD 45, Pont-de-l'Etoile, 13360 Roquevaire </p>
+<td align="center">
+<br/>MAP Marine <br/>
 </td>
-<td>Appareils radar : SAM Electronics </td>
+<td align="center">
+<br/>1, quai de la Grande-Bigue, bât. B, 13002 Marseille <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : Furuno, Radio Holland <br/>
+<br/>Indicateurs de vitesse de giration : Radio Zeeland <br/>
+</td>
 </tr>
 <tr>
-<td>7</td>
-<td>
-<p align="center">PROMAT</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td>68, boulevard Jules-Durand, 76056 Le Havre </td>
-<td>Appareils radar : Furuno </td>
+<td align="center">
+<br/>PROMAT <br/>
+</td>
+<td align="center">
+<br/>68, boulevard Jules-Durand, 76056 Le Havre <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : Furuno <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>SIECMI <br/>
+</td>
+<td align="center">
+<br/>3, quai Est, 29900 Concarneau <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : Radio Holland, Radio Zeeland, Alphatron <br/>
+<br/>Indicateurs de vitesse de giration : Radio Holland, Radio Zeeland, Alphatron <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>Sud Communication <br/>
+</td>
+<td align="center">
+<br/>95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : ICOM <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>THEMYS <br/>
+</td>
+<td align="center">
+<br/>Quartier de la chaume, CD 45, pont de l'Etoile, 13360 Roquevaire <br/>
+</td>
+<td align="center">
+<br/>Appareils radar : SAM Electronics </td>
 </tr>
 </tbody>
 </table>

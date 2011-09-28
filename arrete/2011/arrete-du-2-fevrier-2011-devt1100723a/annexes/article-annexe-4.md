@@ -4,6 +4,7 @@ LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION
 
 ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS
 
+<div align="center">
 <table>
 <tbody>
 <tr>
@@ -11,143 +12,160 @@ ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS
 <br/>
 </th>
 <th>
-<br/>SOCIÉTÉ<br/>
+<br/>SOCIÉTÉ <br/>
 </th>
 <th>
-<br/>ADRESSE<br/>
+<br/>ADRESSE <br/>
 </th>
 <th>
 <br/>TYPES D'APPAREILS AGRÉÉS (*) <br/>
 </th>
 </tr>
 <tr>
-<td align="center">1</td>
 <td align="center">
-<p align="center">G2HE</p>
-</td>
-<td align="center">
-<p align="left">3, rue Sophie-Germain, 75014 Paris </p>
+<br/>1 <br/>
 </td>
 <td align="center">
-<p align="left">OceanSat </p>
+<br/>AEMI <br/>
+</td>
+<td align="center">
+<br/>56, avenue Pierre-Berthelot, 14000 Caen <br/>
+</td>
+<td align="center">
+<br/>Furuno, OceanSat <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">ATEYS</p>
+<td align="center">
+<br/>ATEYS <br/>
 </td>
-<td>
-<p align="left">35, rue de Valmy 76600 Le Havre</p>
+<td align="center">
+<br/>35, rue de Valmy, 76600 Le Havre <br/>
 </td>
-<td>
-<p align="left">Nauticast AIS et Furuno AIS </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">Sud Communication </p>
-</td>
-<td>
-<p align="left">95, rue Rajol, Espace Fréjorgues Est, 34130 Mauguio </p>
-</td>
-<td>
-<p align="left">ICOM</p>
+<td align="center">
+<br/>Nauticast, Furuno, Comnav <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">4</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">AEMI</p>
+<td align="center">
+<br/>Etablissement Max Guerdin et fils <br/>
 </td>
-<td>
-<p align="left">56, avenue Pierre-Berthelot, 14000 Caen </p>
+<td align="center">
+<br/>13, rue de Clermont, 60200 Compiègne <br/>
 </td>
-<td>
-<p align="left">Furuno</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5</p>
-</td>
-<td>
-<p align="center">SIECMI</p>
-</td>
-<td>
-<p align="left">3, quai Est, 29900 Concarneau </p>
-</td>
-<td>
-<p align="left">Saab R 4 IAIS, CNS VDL 6000, SRT Comnav Voyager X3 </p>
+<td align="center">
+<br/>OceanSat <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td>
-<p align="center">Etablissement Max Guerdin et fils </p>
+<td align="center">
+<br/>ETNA <br/>
 </td>
-<td>
-<p align="left">13, rue de Clermont, 60200 Compiègne </p>
+<td align="center">
+<br/>31, rue des Ponts, 76620 Le Havre <br/>
 </td>
-<td>
-<p align="left">OceanSat </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7</p>
-</td>
-<td>
-<p align="center">ETNA</p>
-</td>
-<td>
-<p align="left">31, rue des Ponts, 76620 Le Havre</p>
-</td>
-<td>
-<p align="left">JRC Japon </p>
+<td align="center">
+<br/>JRC Japon <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">8</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td>
-<p align="center">THEMYS</p>
+<td align="center">
+<br/>GH2E <br/>
 </td>
-<td>
-<p align="left">Quartier de La Chaume, CD 45, Pont-de-l'Etoile, 13360 Roquevaire </p>
+<td align="center">
+<br/>3, rue Sophie-Germain, 75014 Paris <br/>
 </td>
-<td>
-<p align="left">SAM Electronics, Saab R 4 IAIS </p>
+<td align="center">
+<br/>OceanSat <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">9</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td>
-<p align="center">PROMAT </p>
+<td align="center">
+<br/>MAP Marine <br/>
 </td>
-<td>
-<p align="left">68, boulevard Jules-Durand, 76056 Le Havre </p>
+<td align="center">
+<br/>1, quai de la Grande-Bigue, bât. B, 13002 Marseille <br/>
 </td>
-<td>
-<p align="left">Appareils radar : Furuno </p>
+<td align="center">
+<br/>Nauticast, Furuno, Transas, Comnav <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>PROMAT <br/>
+</td>
+<td align="center">
+<br/>68, boulevard Jules-Durand, 76056 Le Havre <br/>
+</td>
+<td align="center">
+<br/>Furuno, OceanSat <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>SIECMI <br/>
+</td>
+<td align="center">
+<br/>3, quai Est, 29900 Concarneau <br/>
+</td>
+<td align="center">
+<br/>Saab R 4 IAIS, CNS VDL 6000, SRT Comnav Voyager X3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>Sud Communication <br/>
+</td>
+<td align="center">
+<br/>95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio <br/>
+</td>
+<td align="center">
+<br/>ICOM <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>THEMYS <br/>
+</td>
+<td align="center">
+<br/>Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire <br/>
+</td>
+<td align="center">
+<br/>SAM Electronics, Saab R 4 IAIS <br/>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<p align="left">(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin.</p>
+<br/>(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin.<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
