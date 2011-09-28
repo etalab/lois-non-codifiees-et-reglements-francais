@@ -4,4 +4,3 @@
 - [Article AOC Fronton](article-aoc-fronton.md)
 - [Article AOC Madiran](article-aoc-madiran.md)
 - [Article AOC Pécharmant](article-aoc-pecharmant.md)
-- [Article AOC Rosette](article-aoc-rosette.md)
