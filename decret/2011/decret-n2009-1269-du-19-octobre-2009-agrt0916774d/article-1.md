@@ -4,6 +4,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Bourgogne mousseux " ;
 
-― " Crémant de Bourgogne " ;
-
-― " Crémant de Loire ".
+― " Crémant de Bourgogne ".
