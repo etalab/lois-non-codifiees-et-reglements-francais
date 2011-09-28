@@ -389,7 +389,6 @@
 - [Décret n°2011-937 du 1er août 2011 (SCSA1109087D)](decret-n2011-937-du-1er-aout-2011-scsa1109087d)
 - [Décret n°2011-938 du 1er août 2011 (COTB1116225D)](decret-n2011-938-du-1er-aout-2011-cotb1116225d)
 - [Décret n°2009-1227 (AGRT0916823D)](decret-n2009-1227-agrt0916823d)
-- [Décret n°2009-1306 (AGRT0912391D)](decret-n2009-1306-agrt0912391d)
 - [Décret n°2011-1094 (AGRT1107886D)](decret-n2011-1094-agrt1107886d)
 - [Décret n°2011-294 (IOCC1033670D)](decret-n2011-294-iocc1033670d)
 - [Décret n°2011-846 (JUSC1118185D)](decret-n2011-846-jusc1118185d)
