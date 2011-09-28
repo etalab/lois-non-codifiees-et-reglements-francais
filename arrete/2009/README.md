@@ -1219,7 +1219,6 @@
 - [Arrêté du 16 décembre 2009 (PRMX0918726A)](arrete-du-16-decembre-2009-prmx0918726a)
 - [Arrêté du 16 décembre 2009 (SASP0930659A)](arrete-du-16-decembre-2009-sasp0930659a)
 - [Arrêté du 16 février 2009 (AGRE0903689A)](arrete-du-16-fevrier-2009-agre0903689a)
-- [Arrêté du 16 février 2009 (AGRP0817828A)](arrete-du-16-fevrier-2009-agrp0817828a)
 - [Arrêté du 16 février 2009 (AGRP0826987A)](arrete-du-16-fevrier-2009-agrp0826987a)
 - [Arrêté du 16 février 2009 (AGRP0901675A)](arrete-du-16-fevrier-2009-agrp0901675a)
 - [Arrêté du 16 février 2009 (AGRP0903519A)](arrete-du-16-fevrier-2009-agrp0903519a)
