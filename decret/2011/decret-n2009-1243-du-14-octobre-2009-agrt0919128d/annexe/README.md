@@ -1,6 +1,5 @@
 # Annexe
 
-- [Article AOC "Arbois"](article-aoc-arbois.md)
 - [Article AOC "Bergerac"](article-aoc-bergerac.md)
 - [Article AOC "Côtes du Jura"](article-aoc-cotes-du-jura.md)
 - [Article AOC "Côtes du Rhône"](article-aoc-cotes-du-rhone.md)
