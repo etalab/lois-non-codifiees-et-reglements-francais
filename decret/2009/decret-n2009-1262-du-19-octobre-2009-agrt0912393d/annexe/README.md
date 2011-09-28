@@ -7,4 +7,3 @@
 - [Article AOC Montravel](article-aoc-montravel.md)
 - [Article AOC Pécharmant](article-aoc-pecharmant.md)
 - [Article AOC Rosette](article-aoc-rosette.md)
-- [Article AOC Saussignac](article-aoc-saussignac.md)
