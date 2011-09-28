@@ -2,10 +2,6 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Arbois " ;
-
-― " Côtes du Jura " ;
-
 ― " Côtes de Bergerac " ;
 
 ― " Côtes du Rhône " ;
