@@ -108,6 +108,7 @@
 - [Décret n°2011-842 du 15 juillet 2011 (DEVP1102171D)](decret-n2011-842-du-15-juillet-2011-devp1102171d)
 - [Décret n°2011-843 du 15 juillet 2011 (IOCA1111908D)](decret-n2011-843-du-15-juillet-2011-ioca1111908d)
 - [Décret n°2011-844 du 15 juillet 2011 (SCSA1030101D)](decret-n2011-844-du-15-juillet-2011-scsa1030101d)
+- [Décret n°2009-1253 du 16 octobre 2009 (AGRT0917107D)](decret-n2009-1253-du-16-octobre-2009-agrt0917107d)
 - [Décret n°2011-1110 du 16 septembre 2011 (EFIE1113114D)](decret-n2011-1110-du-16-septembre-2011-efie1113114d)
 - [Décret n°2011-1111 du 16 septembre 2011 (ETSD1105631D)](decret-n2011-1111-du-16-septembre-2011-etsd1105631d)
 - [Décret n°2011-1112 du 16 septembre 2011 (ETSS1117098D)](decret-n2011-1112-du-16-septembre-2011-etss1117098d)
