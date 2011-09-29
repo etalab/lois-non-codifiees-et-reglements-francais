@@ -604,7 +604,8 @@ Code civil
 <p>Décisions déclarant irrecevable, ajournant ou rejetant une demande de naturalisation ou de réintégration dans la nationalité française ou rejetant une demande d'autorisation de perdre la nationalité française.</p>
 </td>
 <td valign="top" width="151">
-<p>Décret n° 93-1362 du 30 décembre 1993, art. 47, 49 et 55. </p>
+<p>
+Décret n° 93-1362 du 30 décembre 1993, art. 47, 49 et 55. </p>
 </td>
 </tr>
 </tbody>
@@ -1233,6 +1234,15 @@ Code de la mutualité
 </td>
 <td valign="top" width="151">
 <p>R.* 212-64.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5</p>
+</td>
+<td>Immatriculation des mutuelles, unions et fédérations en application des dispositions de l'article L. 111-1</td>
+<td>
+<p align="center">R. 414-2</p>
 </td>
 </tr>
 </tbody>
@@ -2015,7 +2025,8 @@ Code des marchés publics
 <p>Autorisation de dissémination d'organismes génétiquement modifiés.</p>
 </td>
 <td valign="top" width="151">
-<p>Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 30).</p>
+<p>
+Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 30).</p>
 </td>
 </tr>
 </tbody>
