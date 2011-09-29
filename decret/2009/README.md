@@ -431,7 +431,6 @@
 - [Décret n°2009-534 du 12 mai 2009 (ESRS0907698D)](decret-n2009-534-du-12-mai-2009-esrs0907698d)
 - [Décret n°2009-1220 du 13 octobre 2009 (DEVK0921591D)](decret-n2009-1220-du-13-octobre-2009-devk0921591d)
 - [Décret n°2009-1224 du 13 octobre 2009 (IOCE0921993D)](decret-n2009-1224-du-13-octobre-2009-ioce0921993d)
-- [Décret n°2009-1231 du 13 octobre 2009 (AGRT0917177D)](decret-n2009-1231-du-13-octobre-2009-agrt0917177d)
 - [Décret n°2009-169 du 13 février 2009 (CPTX0902308D)](decret-n2009-169-du-13-fevrier-2009-cptx0902308d)
 - [Décret n°2009-172 du 13 février 2009 (JUSC0901652D)](decret-n2009-172-du-13-fevrier-2009-jusc0901652d)
 - [Décret n°2009-173 du 13 février 2009 (AGRS0829819D)](decret-n2009-173-du-13-fevrier-2009-agrs0829819d)
