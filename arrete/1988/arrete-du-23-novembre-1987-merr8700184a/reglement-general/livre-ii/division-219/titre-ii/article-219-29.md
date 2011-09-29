@@ -12,4 +12,4 @@ A titre de variante, le contrat peut être signé avec l'importateur de la marqu
 
 - un lot de petit outillage et un lot de fusibles et de témoins de signalisation, identiques à ceux prévus à l'annexe 219-A.1.
 
-3. Les navires navigants exclusivement en zone A1 sont exemptés du contrat d'entretien.
+3. Les navires naviguant en zones A1 et A1 + A2 sont exemptés du contrat d'entretien.
