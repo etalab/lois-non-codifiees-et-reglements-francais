@@ -2959,7 +2959,6 @@
 - [Arrêté du 29 juin 2010 (DEFD1017288A)](arrete-du-29-juin-2010-defd1017288a)
 - [Arrêté du 29 juin 2010 (DEVA1014650A)](arrete-du-29-juin-2010-deva1014650a)
 - [Arrêté du 29 juin 2010 (DEVE1017485A)](arrete-du-29-juin-2010-deve1017485a)
-- [Arrêté du 29 juin 2010 (DEVE1019048A)](arrete-du-29-juin-2010-deve1019048a)
 - [Arrêté du 29 juin 2010 (ESRR1012316A)](arrete-du-29-juin-2010-esrr1012316a)
 - [Arrêté du 29 juin 2010 (IOCB1014006A)](arrete-du-29-juin-2010-iocb1014006a)
 - [Arrêté du 29 juin 2010 (JUSC1009999A)](arrete-du-29-juin-2010-jusc1009999a)
