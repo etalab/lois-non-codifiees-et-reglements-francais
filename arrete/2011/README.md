@@ -451,7 +451,6 @@
 - [Arrêté du 8 avril 2011 (DEVR1110053A)](arrete-du-8-avril-2011-devr1110053a)
 - [Arrêté du 8 avril 2011 (EFIE1104050A)](arrete-du-8-avril-2011-efie1104050a)
 - [Arrêté du 8 avril 2011 (IOCE1110004A)](arrete-du-8-avril-2011-ioce1110004a)
-- [Arrêté du 8 avril 2011 (MAEF1109323A)](arrete-du-8-avril-2011-maef1109323a)
 - [Arrêté du 8 avril 2011 (MENE1109954A)](arrete-du-8-avril-2011-mene1109954a)
 - [Arrêté du 8 avril 2011 (MENE1109999A)](arrete-du-8-avril-2011-mene1109999a)
 - [Arrêté du 8 avril 2011 (MENE1110006A)](arrete-du-8-avril-2011-mene1110006a)
