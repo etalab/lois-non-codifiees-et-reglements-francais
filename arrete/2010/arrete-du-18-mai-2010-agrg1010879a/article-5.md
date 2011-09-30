@@ -17,3 +17,7 @@ Peuvent être destinataires de tout ou partie des données listées aux articles
 7. Les gestionnaires agréés des bases de données conformément à l'article L. 212-12-1 du code rural.
 
 8. Les systèmes nationaux d'information génétique des espèces bovine, ovine, caprine et porcine.
+
+9. Les services de l'administration centrale du ministère en charge de l'économie dans le cadre de leur mission de contrôle de la concurrence, de la consommation et de la répression des fraudes ;
+
+10. Les services de l'administration centrale du ministère en charge de l'environnement dans le cadre de la gestion de la redevance pour pollution par les activités d'élevage.
