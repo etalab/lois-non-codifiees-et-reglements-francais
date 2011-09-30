@@ -131,3 +131,17 @@ Jusqu'au 20 juillet 2016 :
 Fort-de-France - Sainte-Lucie ;
 
 Pointe-à-Pitre - Saint-Barthélemy.
+
+Jusqu'au 31 août 2016 :
+
+Fort-de-France - Puerto Plata ;
+
+Fort-de-France - Punta Cana ;
+
+Fort-de-France - Saint-Domingue ;
+
+Pointe-à-Pitre - Puerto Plata ;
+
+Pointe-à-Pitre - Punta Cana ;
+
+Pointe-à-Pitre - Saint-Domingue.
