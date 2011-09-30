@@ -6,8 +6,6 @@ Pour les cent premières tonnes de produits destinés à la commercialisation en
 
 Pour chaque tonne ou hectolitre supplémentaire, le montant suivant :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -40,9 +38,15 @@ Pour chaque tonne ou hectolitre supplémentaire, le montant suivant :
 <td align="center">0, 044 € par hectolitre <br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">Sel</p>
+</td>
+<td>
+<p align="center">0, 15 € par tonne </p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
 
 Ce droit, exigible annuellement, est perçu sur les quantités commercialisées pendant l'année civile précédente ou l'exercice comptable clôturé pendant l'année d'acquittement du droit.
