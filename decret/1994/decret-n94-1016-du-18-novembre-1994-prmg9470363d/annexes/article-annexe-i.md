@@ -2,8 +2,6 @@
 
 Assistants d'administration de l'aviation civile.
 
-Assistants des bibliothèques.
-
 Contrôleurs des affaires maritimes.
 
 Contrôleurs des services techniques du matériel du ministère de l'intérieur.

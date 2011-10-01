@@ -1,3 +1,0 @@
-# Article 2
-
-Dans les bibliothèques, départements ou services auxquels ils sont affectés, les assistants de bibliothèques effectuent des tâches de caractère technique dans le domaine du traitement documentaire des collections ainsi que dans celui de leur gestion. Ils peuvent en outre être chargés de la gestion des magasins, des lieux accessibles au public et des matériels, notamment des matériels d'accès à l'information. Ils ont vocation à encadrer les personnels chargés du magasinage. Ils participent à l'accueil, à l'information ainsi qu'à la formation du public. Ils peuvent se voir confier des fonctions touchant à la sécurité des personnes, des locaux et des collections.

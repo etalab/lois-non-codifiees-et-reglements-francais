@@ -8,9 +8,9 @@ Le ministre chargé de l'enseignement supérieur exerce à l'égard :
 
 3° Des bibliothécaires ;
 
-4° Des bibliothécaires adjoints spécialisés ;
+4° Des bibliothécaires assistants spécialisés ;
 
-5° Des assistants des bibliothèques ;
+5° (Abrogé)
 
 6° Des magasiniers des bibliothèques,
 

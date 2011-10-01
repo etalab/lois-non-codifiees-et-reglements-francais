@@ -2,7 +2,7 @@
 
 1° Chefs de mission, régis par le décret n° 2002-106 du 23 janvier 2002 relatif à l'emploi de chef de mission d'administration centrale des ministères chargés de l'éducation nationale, de la recherche et de la jeunesse et des sports.
 
-2° Abrogé
+2° (Abrogé)
 
 3° (Supprimé)
 
@@ -50,8 +50,8 @@
 
 25° Bibliothécaires, régis par le décret n° 92-29 du 9 janvier 1992 modifié portant statut particulier du corps des bibliothécaires.
 
-26° Bibliothécaires adjoints spécialisés, régis par le décret n° 92-30 du 9 janvier 1992 modifié portant statut particulier des bibliothécaires adjoints spécialisés.
+26° Bibliothécaires assistants spécialisés.
 
-27° Assistants des bibliothèques, régis par le décret n° 2001-326 du 13 avril 2001 portant dispositions statutaires applicables au corps des assistants des bibliothèques.
+27° (Abrogé)
 
 28° Magasiniers des bibliothèques, régis par le décret n° 88-646 du 6 mai 1988 modifié relatif aux dispositions statutaires applicables au corps des magasiniers des bibliothèques.
