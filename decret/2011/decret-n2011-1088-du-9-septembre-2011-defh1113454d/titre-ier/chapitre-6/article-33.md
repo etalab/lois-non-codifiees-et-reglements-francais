@@ -1,0 +1,3 @@
+# Article 33
+
+Jusqu'à l'installation de la commission administrative mixte compétente pour le corps des agents techniques de la direction générale de la sécurité extérieure régi par le présent décret, qui interviendra dans le délai d'un an à compter de la date d'entrée en vigueur du présent décret, les commissions administratives mixtes composées des représentants des corps de fonctionnaires faisant l'objet de l'intégration prévue au présent chapitre siègent en formation commune et demeurent compétentes à l'égard du corps des agents techniques de la direction générale de la sécurité extérieure régi par le présent décret.

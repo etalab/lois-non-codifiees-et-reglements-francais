@@ -1,0 +1,3 @@
+# Article 18
+
+Jusqu'à l'installation de la commission administrative mixte compétente pour le corps du personnel de surveillance de la direction générale de la sécurité extérieure régi par le présent décret, qui interviendra dans le délai d'un an à compter de la date d'entrée en vigueur du présent décret, la commission administrative mixte composée des représentants du corps du personnel de surveillance régi par certaines dispositions statutaires applicables à la direction générale de la sécurité extérieure avant la date d'entrée en vigueur du présent décret demeure compétente à l'égard du corps du personnel de surveillance régi par le présent décret.
