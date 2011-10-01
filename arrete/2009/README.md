@@ -1739,7 +1739,6 @@
 - [Arrêté du 20 mai 2009 (JUSC0904601A)](arrete-du-20-mai-2009-jusc0904601a)
 - [Arrêté du 20 mai 2009 (LOGU0907610A)](arrete-du-20-mai-2009-logu0907610a)
 - [Arrêté du 20 mai 2009 (SASV0911618A)](arrete-du-20-mai-2009-sasv0911618a)
-- [Arrêté du 20 mai 2010 (DEVK1011081A)](arrete-du-20-mai-2010-devk1011081a)
 - [Arrêté du 21 août 2009 (AGRG0919842A)](arrete-du-21-aout-2009-agrg0919842a)
 - [Arrêté du 21 août 2009 (AGRM0918951A)](arrete-du-21-aout-2009-agrm0918951a)
 - [Arrêté du 21 août 2009 (DEVN0911300A)](arrete-du-21-aout-2009-devn0911300a)
