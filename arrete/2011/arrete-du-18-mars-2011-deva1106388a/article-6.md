@@ -1,865 +1,865 @@
 # Article 6
 
-<div>
-<br/>Le produit de la majoration de la taxe d'aéroport autre que celui mentionné aux articles 1 à 5 est réparti entre les aéroports ainsi qu'il suit :<br/>
+Le produit de la majoration de la taxe d'aéroport autre que celui mentionné aux articles 1 à 5 est réparti entre les aéroports ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>AÉROPORT</th>
-<th>
-<br/>POURCENTAGE<br/>de répartition</th>
+<th> 										AÉROPORT<br/>
+</th>
+<th> 										POURCENTAGE<br/> 										de répartition<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>AGEN-LA GARENNE</td>
-<td align="center">
-<br/>0,430</td>
+<td align="center"> 										AGEN-LA GARENNE<br/>
+</td>
+<td align="center"> 										0,430<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AHE</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										AHE<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AJACCIO - NAPOLEON-BONAPARTE</td>
-<td align="center">
-<br/>3,856</td>
+<td align="center"> 										AJACCIO - NAPOLEON-BONAPARTE<br/>
+</td>
+<td align="center"> 										3,856<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ALBERT BRAY (MEAULTE)</td>
-<td align="center">
-<br/>0,463</td>
+<td align="center"> 										ALBERT BRAY (MEAULTE)<br/>
+</td>
+<td align="center"> 										0,463<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ALBI-LE SEQUESTRE</td>
-<td align="center">
-<br/>0,070</td>
+<td align="center"> 										ALBI-LE SEQUESTRE<br/>
+</td>
+<td align="center"> 										0,070<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANAA</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										ANAA<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANGERS MARCE</td>
-<td align="center">
-<br/>0,921</td>
+<td align="center"> 										ANGERS MARCE<br/>
+</td>
+<td align="center"> 										0,921<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANGOULEME-BRIE-CHAMPNIERS</td>
-<td align="center">
-<br/>0,212</td>
+<td align="center"> 										ANGOULEME-BRIE-CHAMPNIERS<br/>
+</td>
+<td align="center"> 										0,212<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANNECY-MEYTHET</td>
-<td align="center">
-<br/>1,206</td>
+<td align="center"> 										ANNECY-MEYTHET<br/>
+</td>
+<td align="center"> 										1,206<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>APATAKI</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										APATAKI<br/>
+</td>
+<td align="center"> 										0,023<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ARATIKA NORD</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										ARATIKA NORD<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ARUTUA</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										ARUTUA<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AURILLAC</td>
-<td align="center">
-<br/>0,045</td>
+<td align="center"> 										AURILLAC<br/>
+</td>
+<td align="center"> 										0,045<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AUXERRE-BRANCHES</td>
-<td align="center">
-<br/>0,289</td>
+<td align="center"> 										AUXERRE-BRANCHES<br/>
+</td>
+<td align="center"> 										0,289<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AVIGNON-CAUMONT</td>
-<td align="center">
-<br/>0,916</td>
+<td align="center"> 										AVIGNON-CAUMONT<br/>
+</td>
+<td align="center"> 										0,916<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BASTIA-PORETTA</td>
-<td align="center">
-<br/>3,657</td>
+<td align="center"> 										BASTIA-PORETTA<br/>
+</td>
+<td align="center"> 										3,657<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BERGERAC-ROUMANIERE</td>
-<td align="center">
-<br/>0,352</td>
+<td align="center"> 										BERGERAC-ROUMANIERE<br/>
+</td>
+<td align="center"> 										0,352<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BESANÇON-LA VEZE</td>
-<td align="center">
-<br/>0,108</td>
+<td align="center"> 										BESANÇON-LA VEZE<br/>
+</td>
+<td align="center"> 										0,108<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BEZIERS-VIAS</td>
-<td align="center">
-<br/>1,363</td>
+<td align="center"> 										BEZIERS-VIAS<br/>
+</td>
+<td align="center"> 										1,363<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BOURGES</td>
-<td align="center">
-<br/>0,158</td>
+<td align="center"> 										BOURGES<br/>
+</td>
+<td align="center"> 										0,158<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BREST-BRETAGNE</td>
-<td align="center">
-<br/>0,035</td>
+<td align="center"> 										BREST-BRETAGNE<br/>
+</td>
+<td align="center"> 										0,035<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BRIVE-SOUILLAC</td>
-<td align="center">
-<br/>0,975</td>
+<td align="center"> 										BRIVE-SOUILLAC<br/>
+</td>
+<td align="center"> 										0,975<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CAEN-CARPIQUET</td>
-<td align="center">
-<br/>1,322</td>
+<td align="center"> 										CAEN-CARPIQUET<br/>
+</td>
+<td align="center"> 										1,322<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CALAIS-DUNKERQUE</td>
-<td align="center">
-<br/>0,272</td>
+<td align="center"> 										CALAIS-DUNKERQUE<br/>
+</td>
+<td align="center"> 										0,272<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CALVI - SAINTE-CATHERINE</td>
-<td align="center">
-<br/>3,580</td>
+<td align="center"> 										CALVI - SAINTE-CATHERINE<br/>
+</td>
+<td align="center"> 										3,580<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CANNES-MANDELIEU</td>
-<td align="center">
-<br/>1,904</td>
+<td align="center"> 										CANNES-MANDELIEU<br/>
+</td>
+<td align="center"> 										1,904<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CARCASSONNE-SALVAZA</td>
-<td align="center">
-<br/>0,008</td>
+<td align="center"> 										CARCASSONNE-SALVAZA<br/>
+</td>
+<td align="center"> 										0,008<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CASTRES-MAZAMET</td>
-<td align="center">
-<br/>0,351</td>
+<td align="center"> 										CASTRES-MAZAMET<br/>
+</td>
+<td align="center"> 										0,351<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CAYENNE-ROCHAMBEAU</td>
-<td align="center">
-<br/>5,524</td>
+<td align="center"> 										CAYENNE-ROCHAMBEAU<br/>
+</td>
+<td align="center"> 										5,524<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHALON-CHAMPFORGUEIL </td>
-<td align="center">
-<br/>0,124</td>
+<td align="center"> 										CHALON-CHAMPFORGUEIL <br/>
+</td>
+<td align="center"> 										0,124<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHALONS-VATRY</td>
-<td align="center">
-<br/>1,442</td>
+<td align="center"> 										CHALONS-VATRY<br/>
+</td>
+<td align="center"> 										1,442<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHAMBERY - AIX-LES-BAINS</td>
-<td align="center">
-<br/>1,733</td>
+<td align="center"> 										CHAMBERY - AIX-LES-BAINS<br/>
+</td>
+<td align="center"> 										1,733<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHATEAUROUX-DEOLS</td>
-<td align="center">
-<br/>1,988</td>
+<td align="center"> 										CHATEAUROUX-DEOLS<br/>
+</td>
+<td align="center"> 										1,988<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHERBOURG-MAUPERTUS</td>
-<td align="center">
-<br/>0,169</td>
+<td align="center"> 										CHERBOURG-MAUPERTUS<br/>
+</td>
+<td align="center"> 										0,169<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHOLET-LE PONTREAU</td>
-<td align="center">
-<br/>0,014</td>
+<td align="center"> 										CHOLET-LE PONTREAU<br/>
+</td>
+<td align="center"> 										0,014<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CLERMONT-FERRAND - AUVERGNE</td>
-<td align="center">
-<br/>2,968</td>
+<td align="center"> 										CLERMONT-FERRAND - AUVERGNE<br/>
+</td>
+<td align="center"> 										2,968<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>COLMAR-HOUSSEN</td>
-<td align="center">
-<br/>0,294</td>
+<td align="center"> 										COLMAR-HOUSSEN<br/>
+</td>
+<td align="center"> 										0,294<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DEAUVILLE - SAINT-GATIEN</td>
-<td align="center">
-<br/>0,635</td>
+<td align="center"> 										DEAUVILLE - SAINT-GATIEN<br/>
+</td>
+<td align="center"> 										0,635<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DIJON-LONGVIC</td>
-<td align="center">
-<br/>0,075</td>
+<td align="center"> 										DIJON-LONGVIC<br/>
+</td>
+<td align="center"> 										0,075<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DINARD - PLEURTUIT - SAINT-MALO</td>
-<td align="center">
-<br/>1,395</td>
+<td align="center"> 										DINARD - PLEURTUIT - SAINT-MALO<br/>
+</td>
+<td align="center"> 										1,395<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DOLE-TAVAUX</td>
-<td align="center">
-<br/>0,336</td>
+<td align="center"> 										DOLE-TAVAUX<br/>
+</td>
+<td align="center"> 										0,336<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>EPINAL-MIRECOURT</td>
-<td align="center">
-<br/>0,281</td>
+<td align="center"> 										EPINAL-MIRECOURT<br/>
+</td>
+<td align="center"> 										0,281<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FAAITE</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										FAAITE<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FAKAHINA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										FAKAHINA<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FAKARAVA</td>
-<td align="center">
-<br/>0,007</td>
+<td align="center"> 										FAKARAVA<br/>
+</td>
+<td align="center"> 										0,083<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FANGATAU</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										FANGATAU<br/>
+</td>
+<td align="center"> 										0,023<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FIGARI - SUD-CORSE</td>
-<td align="center">
-<br/>1,073</td>
+<td align="center"> 										FIGARI - SUD-CORSE<br/>
+</td>
+<td align="center"> 										1,073<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GRAND-SANTI</td>
-<td align="center">
-<br/>0,151</td>
+<td align="center"> 										GRAND-SANTI<br/>
+</td>
+<td align="center"> 										0,151<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GRENOBLE-ISERE</td>
-<td align="center">
-<br/>1,790</td>
+<td align="center"> 										GRENOBLE-ISERE<br/>
+</td>
+<td align="center"> 										1,790<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HAO</td>
-<td align="center">
-<br/>0,008</td>
+<td align="center"> 										HAO<br/>
+</td>
+<td align="center"> 										0,094<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HIKUERU</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										HIKUERU<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HIVA OA</td>
-<td align="center">
-<br/>0,008</td>
+<td align="center"> 										HIVA OA<br/>
+</td>
+<td align="center"> 										0,094<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HUAHINE</td>
-<td align="center">
-<br/>0,007</td>
+<td align="center"> 										HUAHINE<br/>
+</td>
+<td align="center"> 										0,083<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>HYERES - LE PALYVESTRE (TOULON)</td>
-<td align="center">
-<br/>0,828</td>
+<td align="center"> 										HYERES - LE PALYVESTRE (TOULON)<br/>
+</td>
+<td align="center"> 										0,828<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ILE-D'YEU-LE GRAND PHARE</td>
-<td align="center">
-<br/>0,070</td>
+<td align="center"> 										ILE-D'YEU-LE GRAND PHARE<br/>
+</td>
+<td align="center"> 										0,070<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ISSY-LES-MOULINEAUX</td>
-<td align="center">
-<br/>0,419</td>
+<td align="center"> 										ISSY-LES-MOULINEAUX<br/>
+</td>
+<td align="center"> 										0,419<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>KATIU</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										KATIU<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>KAUEHI</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										KAUEHI<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>KAUKURA</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										KAUKURA<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA ROCHE-SUR-YON</td>
-<td align="center">
-<br/>0,070</td>
+<td align="center"> 										LA ROCHE-SUR-YON<br/>
+</td>
+<td align="center"> 										0,070<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA MOLE (SAINT-TROPEZ)</td>
-<td align="center">
-<br/>0,603</td>
+<td align="center"> 										LA MOLE (SAINT-TROPEZ)<br/>
+</td>
+<td align="center"> 										0,603<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LANNION</td>
-<td align="center">
-<br/>0,547</td>
+<td align="center"> 										LANNION<br/>
+</td>
+<td align="center"> 										0,547<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA ROCHELLE-ILE DE RE</td>
-<td align="center">
-<br/>1,395</td>
+<td align="center"> 										LA ROCHELLE-ILE DE RE<br/>
+</td>
+<td align="center"> 										1,395<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LAVAL-ENTRAMMES</td>
-<td align="center">
-<br/>0,091</td>
+<td align="center"> 										LAVAL-ENTRAMMES<br/>
+</td>
+<td align="center"> 										0,091<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE HAVRE-OCTEVILLE</td>
-<td align="center">
-<br/>0,740</td>
+<td align="center"> 										LE HAVRE-OCTEVILLE<br/>
+</td>
+<td align="center"> 										0,740<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE MANS-ARNAGE</td>
-<td align="center">
-<br/>0,335</td>
+<td align="center"> 										LE MANS-ARNAGE<br/>
+</td>
+<td align="center"> 										0,335<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE PUY-LOUDES</td>
-<td align="center">
-<br/>0,144</td>
+<td align="center"> 										LE PUY-LOUDES<br/>
+</td>
+<td align="center"> 										0,144<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE TOUQUET - PARIS-PLAGE</td>
-<td align="center">
-<br/>0,456</td>
+<td align="center"> 										LE TOUQUET - PARIS-PLAGE<br/>
+</td>
+<td align="center"> 										0,456<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LORIENT - LANN - BIHOUE</td>
-<td align="center">
-<br/>0,767</td>
+<td align="center"> 										LORIENT - LANN - BIHOUE<br/>
+</td>
+<td align="center"> 										0,767<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MAKEMO</td>
-<td align="center">
-<br/>0,006</td>
+<td align="center"> 										MAKEMO<br/>
+</td>
+<td align="center"> 										0,071<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MANIHI</td>
-<td align="center">
-<br/>0,008</td>
+<td align="center"> 										MANIHI<br/>
+</td>
+<td align="center"> 										0,094<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MARIPASOULA</td>
-<td align="center">
-<br/>0,313</td>
+<td align="center"> 										MARIPASOULA<br/>
+</td>
+<td align="center"> 										0,313<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MARTINIQUE - AIME-CESAIRE </td>
-<td align="center">
-<br/>4,313</td>
+<td align="center"> 										MARTINIQUE - AIME-CESAIRE <br/>
+</td>
+<td align="center"> 										4,313<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MATAIVA</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										MATAIVA<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MAUPITI</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										MAUPITI<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MAYOTTE - DZAOUDZI - PAMANDZI</td>
-<td align="center">
-<br/>0,009</td>
+<td align="center"> 										MAYOTTE - DZAOUDZI - PAMANDZI<br/>
+</td>
+<td align="center"> 										0,009<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MERVILLE-CALONNE</td>
-<td align="center">
-<br/>0,150</td>
+<td align="center"> 										MERVILLE-CALONNE<br/>
+</td>
+<td align="center"> 										0,150<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>METZ - NANCY - LORRAINE</td>
-<td align="center">
-<br/>1,927</td>
+<td align="center"> 										METZ - NANCY - LORRAINE<br/>
+</td>
+<td align="center"> 										1,927<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTBELIARD-COURCELLES</td>
-<td align="center">
-<br/>0,220</td>
+<td align="center"> 										MONTBELIARD-COURCELLES<br/>
+</td>
+<td align="center"> 										0,220<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTLUÇON-GUERET</td>
-<td align="center">
-<br/>0,124</td>
+<td align="center"> 										MONTLUÇON-GUERET<br/>
+</td>
+<td align="center"> 										0,124<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTPELLIER-MEDITERRANEE</td>
-<td align="center">
-<br/>1,796</td>
+<td align="center"> 										MONTPELLIER-MEDITERRANEE<br/>
+</td>
+<td align="center"> 										1,796<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MOOREA</td>
-<td align="center">
-<br/>0,007</td>
+<td align="center"> 										MOOREA<br/>
+</td>
+<td align="center"> 										0,083<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MORLAIX-PLOUJEAN</td>
-<td align="center">
-<br/>0,109</td>
+<td align="center"> 										MORLAIX-PLOUJEAN<br/>
+</td>
+<td align="center"> 										0,109<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NANCY-ESSEY</td>
-<td align="center">
-<br/>0,289</td>
+<td align="center"> 										NANCY-ESSEY<br/>
+</td>
+<td align="center"> 										0,289<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NAPUKA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										NAPUKA<br/>
+</td>
+<td align="center"> 										0,023<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NEVERS-FOURCHAMBAULT</td>
-<td align="center">
-<br/>0,145</td>
+<td align="center"> 										NEVERS-FOURCHAMBAULT<br/>
+</td>
+<td align="center"> 										0,145<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NIAU</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										NIAU<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NIMES-GARONS</td>
-<td align="center">
-<br/>1,246</td>
+<td align="center"> 										NIMES-GARONS<br/>
+</td>
+<td align="center"> 										1,246<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NOUMEA-LA TONTOUTA</td>
-<td align="center">
-<br/>6,111</td>
+<td align="center"> 										NOUMEA-LA TONTOUTA<br/>
+</td>
+<td align="center"> 										6,111<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NUKU HIVA</td>
-<td align="center">
-<br/>0,006</td>
+<td align="center"> 										NUKU HIVA<br/>
+</td>
+<td align="center"> 										0,071<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NUKU TAVAKE</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										NUKU TAVAKE<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ORLEANS - SAINT-DENIS-DE-L'HOTEL</td>
-<td align="center">
-<br/>0,245</td>
+<td align="center"> 										ORLEANS - SAINT-DENIS-DE-L'HOTEL<br/>
+</td>
+<td align="center"> 										0,245<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PAMIERS-LES PUJOLS</td>
-<td align="center">
-<br/>0,040</td>
+<td align="center"> 										PAMIERS-LES PUJOLS<br/>
+</td>
+<td align="center"> 										0,040<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PAU-PYRENEES</td>
-<td align="center">
-<br/>0,861</td>
+<td align="center"> 										PAU-PYRENEES<br/>
+</td>
+<td align="center"> 										0,861<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PERIGUEUX-BASSILLAC</td>
-<td align="center">
-<br/>0,291</td>
+<td align="center"> 										PERIGUEUX-BASSILLAC<br/>
+</td>
+<td align="center"> 										0,291<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PERPIGNAN-RIVESALTES</td>
-<td align="center">
-<br/>0,550</td>
+<td align="center"> 										PERPIGNAN-RIVESALTES<br/>
+</td>
+<td align="center"> 										0,550<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>POINTE-A-PITRE - LE RAIZET</td>
-<td align="center">
-<br/>2,696</td>
+<td align="center"> 										POINTE-A-PITRE - LE RAIZET<br/>
+</td>
+<td align="center"> 										2,696<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>POITIERS-BIARD</td>
-<td align="center">
-<br/>1,682</td>
+<td align="center"> 										POITIERS-BIARD<br/>
+</td>
+<td align="center"> 										1,682<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PONTOISE</td>
-<td align="center">
-<br/>0,887</td>
+<td align="center"> 										PONTOISE<br/>
+</td>
+<td align="center"> 										0,887<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PUKA PUKA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										PUKA PUKA<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PUKARUA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										PUKARUA<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>QUIMPER-PLUGUFFAN</td>
-<td align="center">
-<br/>0,971</td>
+<td align="center"> 										QUIMPER-PLUGUFFAN<br/>
+</td>
+<td align="center"> 										0,971<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RAIATEA </td>
-<td align="center">
-<br/>0,011</td>
+<td align="center"> 										RAIATEA <br/>
+</td>
+<td align="center"> 										0,011<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RAIVAVAE</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										RAIVAVAE<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RANGIROA </td>
-<td align="center">
-<br/>0,101</td>
+<td align="center"> 										RANGIROA <br/>
+</td>
+<td align="center"> 										0,101<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RAROIA</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										RAROIA<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>REAO</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										REAO<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>REIMS-PRUNAY</td>
-<td align="center">
-<br/>0,092</td>
+<td align="center"> 										REIMS-PRUNAY<br/>
+</td>
+<td align="center"> 										0,092<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RENNES - SAINT-JACQUES</td>
-<td align="center">
-<br/>2,074</td>
+<td align="center"> 										RENNES - SAINT-JACQUES<br/>
+</td>
+<td align="center"> 										2,074<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RIMATARA</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										RIMATARA<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RODEZ-MARCILLAC</td>
-<td align="center">
-<br/>1,301</td>
+<td align="center"> 										RODEZ-MARCILLAC<br/>
+</td>
+<td align="center"> 										1,301<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ROUEN-VALLEE DE SEINE</td>
-<td align="center">
-<br/>0,303</td>
+<td align="center"> 										ROUEN-VALLEE DE SEINE<br/>
+</td>
+<td align="center"> 										0,303<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RURUTU</td>
-<td align="center">
-<br/>0,006</td>
+<td align="center"> 										RURUTU<br/>
+</td>
+<td align="center"> 										0,071<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-LAURENT-DU-MARONI</td>
-<td align="center">
-<br/>0,204</td>
+<td align="center"> 										SAINT-LAURENT-DU-MARONI<br/>
+</td>
+<td align="center"> 										0,204<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-BRIEUC - ARMOR</td>
-<td align="center">
-<br/>0,340</td>
+<td align="center"> 										SAINT-BRIEUC - ARMOR<br/>
+</td>
+<td align="center"> 										0,340<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-ETIENNE - BOUTHEON</td>
-<td align="center">
-<br/>0,789</td>
+<td align="center"> 										SAINT-ETIENNE - BOUTHEON<br/>
+</td>
+<td align="center"> 										0,789<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-MARTIN - GRAND'CASE</td>
-<td align="center">
-<br/>0,717</td>
+<td align="center"> 										SAINT-MARTIN - GRAND'CASE<br/>
+</td>
+<td align="center"> 										0,717<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-NAZAIRE - MONTOIR</td>
-<td align="center">
-<br/>0,702</td>
+<td align="center"> 										SAINT-NAZAIRE - MONTOIR<br/>
+</td>
+<td align="center"> 										0,702<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-PIERRE - PIERREFONDS</td>
-<td align="center">
-<br/>1,424</td>
+<td align="center"> 										SAINT-PIERRE - PIERREFONDS<br/>
+</td>
+<td align="center"> 										1,424<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAUL</td>
-<td align="center">
-<br/>0,202</td>
+<td align="center"> 										SAUL<br/>
+</td>
+<td align="center"> 										0,202<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-YAN</td>
-<td align="center">
-<br/>0,101</td>
+<td align="center"> 										SAINT-YAN<br/>
+</td>
+<td align="center"> 										0,101<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>STRASBOURG-ENTZHEIM</td>
-<td align="center">
-<br/>1,809</td>
+<td align="center"> 										STRASBOURG-ENTZHEIM<br/>
+</td>
+<td align="center"> 										1,809<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TAHITI-FAAA</td>
-<td align="center">
-<br/>2,587</td>
+<td align="center"> 										TAHITI-FAAA<br/>
+</td>
+<td align="center"> 										2,587<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TAKAPOTO</td>
-<td align="center">
-<br/>0,006</td>
+<td align="center"> 										TAKAPOTO<br/>
+</td>
+<td align="center"> 										0,071<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TAKAROA</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										TAKAROA<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TAKUME</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										TAKUME<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TARBES - LOURDES - PYRENEES</td>
-<td align="center">
-<br/>1,268</td>
+<td align="center"> 										TARBES - LOURDES - PYRENEES<br/>
+</td>
+<td align="center"> 										1,268<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TATAKOTO</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										TATAKOTO<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TIKEHAU</td>
-<td align="center">
-<br/>0,008</td>
+<td align="center"> 										TIKEHAU<br/>
+</td>
+<td align="center"> 										0,094<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TOTEGEGIE</td>
-<td align="center">
-<br/>0,005</td>
+<td align="center"> 										TOTEGEGIE<br/>
+</td>
+<td align="center"> 										0,059<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TOULOUSE-FRANCAZAL</td>
-<td align="center">
-<br/>0,165</td>
+<td align="center"> 										TOULOUSE-FRANCAZAL<br/>
+</td>
+<td align="center"> 										0,165<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TOUSSUS-LE NOBLE</td>
-<td align="center">
-<br/>0,851</td>
+<td align="center"> 										TOUSSUS-LE NOBLE<br/>
+</td>
+<td align="center"> 										0,851<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TROYES-BARBEREY</td>
-<td align="center">
-<br/>0,300</td>
+<td align="center"> 										TROYES-BARBEREY<br/>
+</td>
+<td align="center"> 										0,300<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TUBUAI</td>
-<td align="center">
-<br/>0,006</td>
+<td align="center"> 										TUBUAI<br/>
+</td>
+<td align="center"> 										0,071<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TUREIA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										TUREIA<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>UA HUKA</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										UA HUKA<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>UA POU</td>
-<td align="center">
-<br/>0,004</td>
+<td align="center"> 										UA POU<br/>
+</td>
+<td align="center"> 										0,047<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>VAHITAHI</td>
-<td align="center">
-<br/>0,002</td>
+<td align="center"> 										VAHITAHI<br/>
+</td>
+<td align="center"> 										0,024<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>VALENCIENNES-DENAIN</td>
-<td align="center">
-<br/>0,360</td>
+<td align="center"> 										VALENCIENNES-DENAIN<br/>
+</td>
+<td align="center"> 										0,360<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>VANNES-MEUCON</td>
-<td align="center">
-<br/>0,437</td>
+<td align="center"> 										VANNES-MEUCON<br/>
+</td>
+<td align="center"> 										0,437<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Part du produit restant à répartir entre les exploitants dont la concession est échue</td>
+<td align="center"> 										Part du produit restant à répartir entre les exploitants dont la concession est échue<br/>
+</td>
 <td align="center">
-<br/>
-<br/>9,742</td>
+<br/>7,636<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
