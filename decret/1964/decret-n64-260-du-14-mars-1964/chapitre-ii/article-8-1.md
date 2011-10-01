@@ -8,7 +8,7 @@ Les fonctionnaires nommés alors qu'ils avaient atteint l'échelon le plus élev
 
 Les fonctionnaires qui, dans leur corps, cadre d'emplois ou emploi d'origine, percevaient un traitement supérieur à celui afférent au 9e échelon du grade de sous-préfet sont placés à cet échelon et conservent, à titre personnel, le traitement correspondant à l'indice qu'ils détenaient dans leur situation antérieure.
 
-II. - Les sous-préfets recrutés au choix par application du paragraphe c du I de l'article 8 qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire sont classés selon les modalités suivantes :
+II. - Les sous-préfets recrutés au choix par application du 3° du I de l'article 8 qui, antérieurement à leur nomination, n'avaient pas la qualité de fonctionnaire sont classés selon les modalités suivantes :
 
 a) Sont placés au 3e échelon du grade de sous-préfet sans ancienneté ceux qui, au 1er janvier de l'année de leur nomination, détenaient la qualité d'agent public non titulaire et justifiaient de huit années au moins de services effectifs dans un emploi de catégorie A ou assimilé ;
 
