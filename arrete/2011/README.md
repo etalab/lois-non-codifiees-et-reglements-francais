@@ -1404,7 +1404,6 @@
 - [Arrêté du 21 décembre 2010 (MENH1031418A)](arrete-du-21-decembre-2010-menh1031418a)
 - [Arrêté du 21 décembre 2010 (MENH1031419A)](arrete-du-21-decembre-2010-menh1031419a)
 - [Arrêté du 21 février 2011 (AGRT1105545A)](arrete-du-21-fevrier-2011-agrt1105545a)
-- [Arrêté du 21 février 2011 (DEVT1032034A)](arrete-du-21-fevrier-2011-devt1032034a)
 - [Arrêté du 21 février 2011 (EFIC1008347A)](arrete-du-21-fevrier-2011-efic1008347a)
 - [Arrêté du 21 février 2011 (ETSS1104243A)](arrete-du-21-fevrier-2011-etss1104243a)
 - [Arrêté du 21 février 2011 (JUSB1105154A)](arrete-du-21-fevrier-2011-jusb1105154a)
