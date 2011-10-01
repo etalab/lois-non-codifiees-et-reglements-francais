@@ -645,7 +645,6 @@
 - [Arrêté du 9 juin 2009 (ESRS0912416A)](arrete-du-9-juin-2009-esrs0912416a)
 - [Arrêté du 9 juin 2009 (JUSA0912956A)](arrete-du-9-juin-2009-jusa0912956a)
 - [Arrêté du 9 juin 2009 (JUSA0912961A)](arrete-du-9-juin-2009-jusa0912961a)
-- [Arrêté du 9 juin 2009 (JUSA0912963A)](arrete-du-9-juin-2009-jusa0912963a)
 - [Arrêté du 9 juin 2009 (JUSB0913034A)](arrete-du-9-juin-2009-jusb0913034a)
 - [Arrêté du 9 juin 2009 (MAEA0913028A)](arrete-du-9-juin-2009-maea0913028a)
 - [Arrêté du 9 juin 2009 (MAEA0913031A)](arrete-du-9-juin-2009-maea0913031a)
