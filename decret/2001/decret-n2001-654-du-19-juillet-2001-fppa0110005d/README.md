@@ -5,4 +5,5 @@
 - [Chapitre III : Dispositions particulières en matière de changement de résidence.](chapitre-iii)
 - [Chapitre IV : Dispositions particulières en matière de transports de personnes.](chapitre-iv)
 - [Chapitre V : Dispositions particulières relatives aux modalités de prise en charge des frais de déplacement.](chapitre-v)
+- [Chapitre VI : Dispositions particulières relatives aux modalités de remboursement des frais de transport des fonctionnaires territoriaux soumis, à titre expérimental, au contrôle des caisses primaires d'assurance maladie](chapitre-vi)
 - [Article 18](article-18.md)
