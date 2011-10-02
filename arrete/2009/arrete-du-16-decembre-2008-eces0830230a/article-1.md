@@ -11,11 +11,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction régionale d'Aquitaine</p>
+<td align="left" valign="top">
+<p align="left">Direction régionale d'Aquitaine <br/>
+</p>
 </td>
-<td align="center">
-<p align="left">Chef du service études et diffusion</p>
+<td align="left" valign="top">
+<p align="left">Chef du service études et diffusion <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -27,27 +29,31 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction régionale de Basse-Normandie</p>
+<td align="left" valign="top">
+<p align="left">Direction régionale de Basse-Normandie - service de statistiques nationales d'entreprises<br/>(ajouté à compter du 1er janvier 2011)</p>
 </td>
-<td>
-<p align="left">Chef du service de statistiques nationales d'entreprises</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Bourgogne</p>
-</td>
-<td align="center">
-<p align="left">Chef du service études et diffusion</p>
+<td align="left" valign="top">
+<p align="left">Chef de la division méthodes et coordination de la production <br/>(ajouté à compter du 1er janvier 2011)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Bretagne</p>
+<p align="left">Direction régionale de Bourgogne <br/>
+</p>
 </td>
 <td align="center">
-<p align="left">Chef du service administration des ressources</p>
+<p align="left">Chef du service études et diffusion <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction régionale de Bretagne <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Chef du service administration des ressources <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,11 +65,21 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Direction régionale du Centre<br/>(ajouté à compter du 1er septembre 2011)</p>
+</td>
+<td>
+<p align="left">Chef du service statistique<br/>(ajouté à compter du 1er septembre 2011)</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Direction régionale de Franche-Comté</p>
+<p align="left">Direction régionale de Franche-Comté <br/>
+</p>
 </td>
 <td align="center">
-<p align="left">Chef du service statistique</p>
+<p align="left">Chef du service statistique <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,10 +92,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Haute-Normandie</p>
+<p align="left">Direction régionale de Haute-Normandie <br/>
+</p>
 </td>
 <td align="center">
-<p align="left">Chef du service statistique</p>
+<p align="left">Chef du service statistique <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +105,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction régionale d'Ile-de-France</p>
 </td>
 <td>
-<p align="left">Chef adjoint du service études diffusion</p>
+<p align="left">Chef adjoint du service études diffusion </p>
 </td>
 </tr>
 <tr>
@@ -100,7 +118,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td>
-<p align="left">Direction régionale du Limousin.</p>
+<p align="left">Direction régionale du Limousin</p>
 </td>
 <td>
 <p align="left">Chef du service de l'administration des ressources.</p>
@@ -112,14 +130,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td>
 <p align="left">Chef du service études et diffusion</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Lorraine</p>
-</td>
-<td align="center">
-<p align="left">Chef du service statistique</p>
 </td>
 </tr>
 <tr>
@@ -142,10 +152,20 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Picardie</p>
+<p align="left">Direction régionale de Picardie <br/>
+</p>
 </td>
 <td align="center">
-<p align="left">Chef du service administration des ressources</p>
+<p align="left">Chef du service administration des ressources <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction régionale de Picardie<br/>(ajouté à compter du 1er septembre 2011)</p>
+</td>
+<td>
+<p align="left">Chef du service statistique<br/>(ajouté à compter du 1er septembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +185,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td>
 <p align="left">Direction régionale de Rhône-Alpes</p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="left">Responsable du pôle national de compétence Prix à la production industrielle</p>
 </td>
 </tr>
@@ -181,10 +201,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td>
 <p align="left">Direction des statistiques démographiques et sociales</p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="left">Chef de la cellule administration des ressources</p>
 </td>
 </tr>
@@ -213,10 +233,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">Département des ressources humaines</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Adjoint au chef de la division développement et valorisation des ressources humaines</p>
 </td>
 </tr>
@@ -237,13 +257,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Centre national informatique d'Orléans <br/>
-</p>
+<td>
+<p align="left">Département de la production et de l'infrastructure informatiques (ajouté à compter du 1er septembre 2011)</p>
 </td>
-<td align="center">
-<p align="left">Chef du service production<br/>
-</p>
+<td>
+<p align="left">Responsable produit échanges télématiques et coordinateur des transferts applicatifs (ajouté à compter du 1er septembre 2011)</p>
 </td>
 </tr>
 <tr>
@@ -257,11 +275,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Ecole nationale de la statistique et de l'analyse de l'information<br/>
 </p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Secrétaire général de l'ENSAI <br/>
 </p>
 </td>
@@ -287,30 +305,20 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Direction générale, département des services généraux<br/>
 </p>
 </td>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Chef de la cellule conditions de travail et actions sociales<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction générale, département répertoire infrastructures et statistiques structurelles<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chargé de l'interface ESANE/Services statistiques sectorielles <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction générale - département des ressources humaines</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Adjoint au chef de la DARC (division administration et rémunérations centrales), chargé de la politique de rémunération<br/>
 </p>
 </td>
