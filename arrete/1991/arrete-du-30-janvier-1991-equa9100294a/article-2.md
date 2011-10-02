@@ -12,7 +12,7 @@ Epreuve technique :
 
 Cette épreuve comporte une série de questions portant, au choix du candidat, sur l'une des trois matières suivantes (durée : une heure ; coefficient 1) :
 
-Transport aérien et navigabilité des aéronefs ;
+Techniques aéronautiques et exploitation du transport aérien ;
 
 Equipements et systèmes de la navigation aérienne ;
 
