@@ -1,38 +1,56 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : agent(e) de maintenance en marine de plaisance.
+Titre professionnel : agent (e) de maintenance en marine de plaisance.
 
 Niveau : V.
 
-Code NSF : 230 r.
+Code NSF : 230 r-Spécialités pluritechnologiques génie civil, construction, bois.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) de maintenance en marine de plaisance assure les opérations courantes de maintenance sur des bateaux de plaisance à voile ou à moteur d'une longueur de 6 à 12 mètres.
+L'agent (e) de maintenance en marine de plaisance assure la maintenance des bateaux de plaisance à voiles ou à moteur à l'exception de la réparation des moteurs et des ouvrages de menuiserie complexes.
 
-Il (elle) effectue la "mise au sec" et "mise à l'eau" des bateaux, procède à leur mâtage et démâtage, entretient et répare les coques, les servitudes, l'accastillage et les gréements.
+L'agent (e) de maintenance en marine de plaisance :
 
-Il (elle) procède aux opérations d'hivernage des moteurs hors bord et réalise leur entretien courant, vérifie les installations électriques, raccorde et met en service de nouveaux matériels.
+-réalise ou participe à la manutention des bateaux : mises au sec ou à l'eau, mâtages/ démâtages, calages et inventaires des bateaux ;
 
-Il (elle) travaille généralement seul(e), à partir d'un ordre d'intervention ou de la demande orale d'un client et doit :
+-entretient et répare les coques (carénage), essentiellement en composite ;
 
-- interpréter la demande du client, simplement énoncée ou esquissée ;
+-entretient ou améliore les servitudes ;
 
-- préparer, organiser et planifier l'intervention et renseigner les documents administratifs ;
+-entretient l'accastillage et les gréements, optimise ceux-ci à la demande du client ;
 
-- rechercher et exploiter les informations, les schémas d'implantation et de raccordement contenus dans les documentations techniques.
+-hiverne les moteurs hors bord et réalise leur entretien courant ;
 
-Il (elle) peut utiliser des engins de manutention, manoeuvrer des bateaux au moteur et utiliser un véhicule routier pour se déplacer.
+-vérifie l'installation électrique des bateaux, raccorde et met en service de nouveaux matériels.
 
-Compétences attestées et descriptif des composantes
+Ces interventions portent principalement sur des bateaux en composite verre/ polyester de 6 à 12 mètres qui constituent 85 % du parc.
 
-de la certification
+Il (elle) travaille généralement seul (e), à partir d'un ordre d'intervention ou de la demande orale d'un client et doit :
+
+-préparer, organiser et planifier son intervention ;
+
+-rechercher et exploiter les informations contenues dans les documentations techniques ;
+
+-interpréter des projets simplement énoncés ou seulement esquissés ;
+
+-utiliser des schémas d'implantation, de raccordement ;
+
+-renseigner les documents administratifs (bons de travail, ordre de réparation, commandes de pièces ou de matériaux spécifiques).
+
+L'agent (e) de maintenance en marine de plaisance travaille généralement dans un chantier nautique ou fluvial spécialisé dans la maintenance, la location ou la vente de bateaux de plaisance à voile ou à moteur.
+
+Son activité s'exerce le plus souvent à l'extérieur, sur terre-plein ou à flot, en hauteur, dans des espaces réduits et des positions inconfortables, parfois en présence de la clientèle. Il (elle) manipule des charges lourdes ou encombrantes, des outils ou des produits dangereux.
+
+Il (elle) peut être conduit (e) à utiliser des engins de manutention, manœuvrer des bateaux au moteur, utiliser un véhicule routier pour se déplacer.
+
+Son amplitude de travail peut être variable, durant la saison il (elle) peut travailler le week end.
+
+Capacités attestées et descriptif des composantes de la certification
 
 1. Manutentionner des bateaux de plaisance
 
@@ -40,15 +58,13 @@ Entreposer les bateaux de plaisance.
 
 Mâter et démâter les bateaux de plaisance.
 
-Manoeuvrer au port les bateaux de plaisance.
+Manœuvrer au port les bateaux de plaisance.
 
 Procéder aux opérations de mise à terre et de mise à l'eau des bateaux de plaisance.
 
-2. Entretenir et réparer les coques et les ponts
+2. Entretenir et réparer les coques et les ponts des bateaux de plaisance
 
-des bateaux de plaisance
-
-Effectuer la maintenance des coques et des ponts des bateaux de plaisance de structure verre/polyester.
+Effectuer la maintenance des coques et des ponts des bateaux de plaisance de structure verre/ polyester.
 
 Caréner les bateaux de plaisance et nettoyer leurs superstructures.
 
@@ -66,13 +82,11 @@ Entretenir et régler les pilotes et les gouvernails des bateaux de plaisance.
 
 Poser et entretenir l'accastillage de pont des bateaux de plaisance.
 
-4. Réaliser la maintenance mécanique et électrique
-
-des bateaux de plaisance
+4. Réaliser la maintenance mécanique et électrique des bateaux de plaisance
 
 Entretenir et hiverner les moteurs des bateaux de plaisance.
 
-Installer à bord des bateaux de plaisance des moteurs hors-bords et leurs commandes.
+Installer à bord des bateaux de plaisance des moteurs hors-bord et leurs commandes.
 
 Implanter et entretenir les systèmes de production et de gestion d'énergie électrique des bateaux de plaisance.
 
@@ -82,25 +96,27 @@ Redimensionner les installations électriques dans des bateaux de plaisance.
 
 Poser et mettre en service des équipements électriques additionnels à bord des bateaux de plaisance.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-accessibles par le détenteur du titre
+Secteurs d'activité :
 
-L'agent(e) de maintenance en marine de plaisance exerce son activité dans les entreprises du secteur nautique. Il (elle) travaille généralement dans un chantier nautique spécialisé dans la maintenance, la location ou la vente de bateaux de plaisance, à voile ou à moteur.
+L'agent (e) de maintenance en marine de plaisance exerce son activité dans les entreprises du secteur nautique. Il travaille généralement dans un chantier nautique spécialisé dans la maintenance, la location ou la vente de bateaux de plaisance, à voile ou à moteur.
 
-Types d'emplois accessibles : ouvrier(ère) de maintenance, technicien(ne) de maintenance.
+Type d'emplois accessibles :
+
+Ouvrier de maintenance.
+
+Technicien de maintenance.
 
 Code ROME :
 
-Pas de fiche ROME de rattachement.
+I1601-Installation et maintenance en nautisme.
 
 Réglementation de l'activité :
 
 Néant.
 
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
