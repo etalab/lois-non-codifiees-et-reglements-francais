@@ -1317,7 +1317,6 @@
 - [Arrêté du 17 décembre 2009 (AGRT0929340A)](arrete-du-17-decembre-2009-agrt0929340a)
 - [Arrêté du 17 décembre 2009 (AGRT0930260A)](arrete-du-17-decembre-2009-agrt0930260a)
 - [Arrêté du 17 décembre 2009 (DEFD0927260A)](arrete-du-17-decembre-2009-defd0927260a)
-- [Arrêté du 17 décembre 2009 (DEFH0921774A)](arrete-du-17-decembre-2009-defh0921774a)
 - [Arrêté du 17 décembre 2009 (DEVK0931182A)](arrete-du-17-decembre-2009-devk0931182a)
 - [Arrêté du 17 décembre 2009 (ECET0929060A)](arrete-du-17-decembre-2009-ecet0929060a)
 - [Arrêté du 17 décembre 2009 (MAEA0929548A)](arrete-du-17-decembre-2009-maea0929548a)
