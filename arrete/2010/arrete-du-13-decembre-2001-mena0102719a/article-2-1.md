@@ -50,4 +50,6 @@ Ecole nationale de voile et des sports nautiques ;
 
 Ecole nationale de ski et d'alpinisme ;
 
-Centres de ressources, d'expertise et de performance sportives.
+Centres de ressources, d'expertise et de performance sportives ;
+
+Etablissement public du palais de la Découverte et de la Cité des sciences et de l'industrie.
