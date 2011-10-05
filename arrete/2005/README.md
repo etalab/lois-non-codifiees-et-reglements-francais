@@ -384,7 +384,6 @@
 - [Arrêté du 19 septembre 2005 (SOC00511426A)](arrete-du-19-septembre-2005-soc00511426a)
 - [Arrêté du 19 mai 2005 (SANH0521918A)](arrete-du-19-mai-2005-sanh0521918a)
 - [Arrêté du 19 mai 2005 (SANP0521868A)](arrete-du-19-mai-2005-sanp0521868a)
-- [Arrêté du 20 avril 2005 (BUDL0500008A)](arrete-du-20-avril-2005-budl0500008a)
 - [Arrêté du 20 avril 2005 (DEFP0500312A)](arrete-du-20-avril-2005-defp0500312a)
 - [Arrêté du 20 avril 2005 (DEVO0540125A)](arrete-du-20-avril-2005-devo0540125a)
 - [Arrêté du 20 avril 2005 (DEVP0540156A)](arrete-du-20-avril-2005-devp0540156a)
