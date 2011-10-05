@@ -7,19 +7,20 @@ A. - Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE D'EMPLOIS </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Vice-président du Conseil général de l'environnement et du développement durable <br/>
+<p align="left">Vice-président du Conseil général de l'environnement et du développement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -36,19 +37,20 @@ A. - Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE D'EMPLOIS</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Secrétaire général <br/>
+<p align="left">Secrétaire général <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -59,7 +61,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur, adjoint du secrétaire général <br/>
+<p align="left">Directeur, adjoint du secrétaire général <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -70,7 +73,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des ressources humaines <br/>
+<p align="left">Directeur des ressources humaines <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -81,7 +85,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des affaires européennes et internationales.... <br/>
+<p align="left">Directeur des affaires européennes et internationales.... <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -92,7 +97,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des affaires juridiques <br/>
+<p align="left">Directeur des affaires juridiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -103,7 +109,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de la communication <br/>
+<p align="left">Directeur de la communication <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -114,7 +121,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire général du développement durable <br/>
+<p align="left">Commissaire général du développement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -125,7 +133,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur, adjoint du commissaire général au développement durable <br/>
+<p align="left">Directeur, adjoint du commissaire général au développement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -136,7 +145,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de la recherche et de l'innovation <br/>
+<p align="left">Directeur de la recherche et de l'innovation <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -147,7 +157,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général de l'énergie et du climat <br/>
+<p align="left">Directeur général de l'énergie et du climat <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -158,7 +169,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'énergie <br/>
+<p align="left">Directeur de l'énergie <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -169,7 +181,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général des infrastructures, des transports et de la mer <br/>
+<p align="left">Directeur général des infrastructures, des transports et de la mer <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -180,7 +193,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des infrastructures de transport <br/>
+<p align="left">Directeur des infrastructures de transport <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -191,7 +205,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services de transport <br/>
+<p align="left">Directeur des services de transport <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -202,7 +217,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des affaires maritimes <br/>
+<p align="left">Directeur des affaires maritimes <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -213,7 +229,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général de l'aviation civile <br/>
+<p align="left">Directeur général de l'aviation civile <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -224,7 +241,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur du transport aérien <br/>
+<p align="left">Directeur du transport aérien <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -235,7 +253,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général de l'aménagement, du logement et de la nature <br/>
+<p align="left">Directeur général de l'aménagement, du logement et de la nature <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -246,7 +265,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'habitat, de l'urbanisme et des paysages <br/>
+<p align="left">Directeur de l'habitat, de l'urbanisme et des paysages <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -257,7 +277,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'eau et de la biodiversité <br/>
+<p align="left">Directeur de l'eau et de la biodiversité <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -268,7 +289,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur général de la prévention des risques <br/>
+<p align="left">Directeur général de la prévention des risques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -279,7 +301,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Délégué à la circulation et à la sécurité routières <br/>
+<p align="left">Délégué à la circulation et à la sécurité routières <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -290,7 +313,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p align="center">Délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées </p>
+<p align="left">Délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées </p>
 </td>
 <td>
 <p align="center">1</p>
@@ -301,7 +324,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Délégué aux cadres dirigeants <br/>
+<p align="left">Délégué aux cadres dirigeants <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -318,28 +342,23 @@ A. - Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+</td>
+<td>
+<p align="center">NOMBRE D'EMPLOIS </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI </p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">a) Secrétariat général</td>
 </tr>
 <tr>
 <td align="center">
-<br/>a) Secrétariat général <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de service, adjoint du directeur des ressources humaines <br/>
+<p align="left">Chef de service, adjoint du directeur des ressources humaines <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -350,7 +369,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service des emplois et des compétences <br/>
+<p align="left">Chef de service, chargé dans le domaine des ressources humaines, de la modernisation, de l'innovation et de la qualité </p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -361,7 +380,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de la gestion du personnel <br/>
+<p align="left">Chef de service, chargé des questions sociales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -372,7 +392,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service des politiques support et des systèmes d'information <br/>
+<p align="left">Chef du service des politiques support et des systèmes d'information <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -383,7 +404,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service du pilotage et de l'évolution des services <br/>
+<p align="left">Chef du service du pilotage et de l'évolution des services <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -394,7 +416,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service des affaires financières <br/>
+<p align="left">Chef du service des affaires financières <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -405,7 +428,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de défense, de sécurité et d'intelligence économique <br/>
+<p align="left">Chef de service, haut fonctionnaire de défense et de sécurité adjoint (en vigueur le 13 juillet 2010)<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -416,7 +440,25 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de service, adjoint du directeur des affaires juridiques <br/>
+<p align="left">Chef de service, adjoint du directeur des affaires juridiques <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<p align="center">b) Commissariat général au développement durable</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du service de la recherche <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -427,16 +469,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>b) Commissariat général au développement durable <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de la recherche <br/>
+<p align="left">Chef du service de l'observation et des statistiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -447,7 +481,39 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de l'observation et des statistiques <br/>
+<p align="left">Chef du service de l'économie, de l'évaluation et de l'intégration du développement durable <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">c) Direction générale de l'énergie et du climat</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du service du climat et de l'efficacité énergétique <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">d) Direction générale des infrastructures, des transports et de la mer<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du service de la gestion du réseau routier national <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -458,7 +524,67 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de l'économie, de l'évaluation et de l'intégration du développement durable <br/>
+<p align="left">Chef du service de l'administration générale et de la stratégie <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">e) Direction générale de l'aviation civile</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du service du secrétariat général <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef de service, adjoint au directeur du transport aérien (en vigueur le 13 juillet 2010)<br/>
+</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<p align="center">f) Direction générale de l'aménagement, du logement et de la nature</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef du service des affaires générales et de la performance <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">g) Direction générale de la prévention des risques</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de service, adjoint au directeur général de la prévention des risques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -469,16 +595,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>c) Direction générale de l'énergie et du climat <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service du climat et de l'efficacité énergétique <br/>
+<p align="left">Chef du service des risques technologiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -489,16 +607,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>d) Direction générale des infrastructures, des transports et de la mer <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de la gestion du réseau routier national <br/>
+<p align="left">Chef du service de la prévention des nuisances et de la qualité de l'environnement <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -509,7 +619,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de l'administration générale et de la stratégie <br/>
+<p align="left">Chef du service des risques naturels et hydrauliques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -519,110 +630,12 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>e) Direction générale de l'aviation civile <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">h) Délégation à la circulation et à la sécurité routières</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service du secrétariat général <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service des affaires générales et de la performance <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>g) Direction générale de la prévention des risques <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de service, adjoint au directeur général de la prévention des risques <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service des risques technologiques <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de la prévention des nuisances et de la qualité de l'environnement <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service des risques naturels et hydrauliques <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>120 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>h) Délégation à la circulation et à la sécurité routières <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au délégué, chef de service <br/>
+<p align="left">Adjoint au délégué, chef de service <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -639,28 +652,24 @@ A. - Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>a) Secrétariat général <br/>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI <br/>
+</p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">NOMBRE D'EMPLOIS </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI </p>
 </td>
-<td align="center"/>
 </tr>
 <tr>
+<td align="center" colspan="3">a) Secrétariat général</td>
+</tr>
+<tr>
 <td align="center">
-<br/>Sous-directeur de la gestion des ressources en emplois et en compétences <br/>
+<p align="left">Sous-directeur du pilotage, de la performance et de la synthèse<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -671,7 +680,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement des compétences et de la formation <br/>
+<p align="left">Sous-directeur des carrières et de l'encadrement<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -682,7 +692,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des parcours professionnels et des mobilités <br/>
+<p align="left">Sous-directeur de la modernisation et de la gestion statutaires <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -693,7 +704,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des personnels d'encadrement, maritimes et des contractuels <br/>
+<p align="left">Sous-directeur du recrutement et de la mobilité </p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -704,7 +715,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres <br/>
+<p align="left">Sous-directeur de la formation, des compétences et des qualifications<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -715,7 +727,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des politiques sociales et des pensions <br/>
+<p align="left">Sous-directeur des politiques sociales, de la prévention et des pensions<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -726,7 +739,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale <br/>
+<p align="left">Sous-directeur de la gestion administrative et de la paye<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -737,7 +751,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la conduite et de la gestion des moyens budgétaires des fonctions support <br/>
+<p align="left">Sous-directeur de la conduite et de la gestion des moyens budgétaires des fonctions support <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -748,7 +763,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur d'appui technique et logistique de l'administration centrale <br/>
+<p align="left">Sous-directeur d'appui technique et logistique de l'administration centrale <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -759,7 +775,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du schéma directeur et de la politique des systèmes d'information <br/>
+<p align="left">Sous-directeur du schéma directeur et de la politique des systèmes d'information <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -770,7 +787,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des systèmes d'information pour les activités support <br/>
+<p align="left">Sous-directeur des systèmes d'information pour les activités support <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -781,7 +799,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la modernisation <br/>
+<p align="left">Sous-directeur de la modernisation <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -792,7 +811,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du pilotage des services et des écoles <br/>
+<p align="left">Sous-directeur du pilotage et de la performance des services et des tutelles </p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -803,7 +822,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la conduite et de l'accompagnement du changement <br/>
+<p align="left">Sous-directeur de l'accompagnement du changement et de l'enseignement supérieur </p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -814,7 +833,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du budget et des contrôles <br/>
+<p align="left">Sous-directeur du budget et des contrôles <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -825,7 +845,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des marchés et de la comptabilité <br/>
+<p align="left">Sous-directeur des marchés et de la comptabilité <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -836,7 +857,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique <br/>
+<p align="left">Adjoint au chef du service de défense, de sécurité et d'intelligence économique <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -847,7 +869,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville <br/>
+<p align="left">Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé des relations institutionnelles, des affaires juridiques et de l'animation du réseau de défense et de sécurité <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -858,7 +881,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé de la mer <br/>
+<p align="left">Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé de la mer <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -869,7 +893,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du changement climatique et du développement durable <br/>
+<p align="left">Sous-directeur du changement climatique et du développement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -880,7 +905,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la régulation européenne <br/>
+<p align="left">Sous-directeur de la régulation européenne <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -891,7 +917,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des échanges internationaux <br/>
+<p align="left">Sous-directeur des échanges internationaux <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -902,7 +929,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires juridiques de l'administration générale <br/>
+<p align="left">Sous-directeur des affaires juridiques de l'administration générale <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -913,7 +941,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires juridiques de l'environnement et de l'urbanisme <br/>
+<p align="left">Sous-directeur des affaires juridiques de l'environnement et de l'urbanisme <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -924,7 +953,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires juridiques de l'énergie et des transports <br/>
+<p align="left">Sous-directeur des affaires juridiques de l'énergie et des transports <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -934,17 +964,12 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>b) Commissariat général au développement durable <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">b) Commissariat général au développement durable</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'innovation <br/>
+<p align="left">Sous-directeur de l'innovation <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -955,7 +980,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'animation scientifique et technique <br/>
+<p align="left">Sous-directeur de l'animation scientifique et technique <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -966,7 +992,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'économie des ressources naturelles et des risques <br/>
+<p align="left">Sous-directeur de l'économie des ressources naturelles et des risques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -977,7 +1004,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la mobilité et de l'aménagement <br/>
+<p align="left">Sous-directeur de la mobilité et de l'aménagement <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -988,7 +1016,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'intégration des démarches de développement durable par les acteurs économiques <br/>
+<p align="left">Sous-directeur de l'intégration des démarches de développement durable par les acteurs économiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -999,7 +1028,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'intégration des démarches de développement durable dans les politiques publiques <br/>
+<p align="left">Sous-directeur de l'intégration des démarches de développement durable dans les politiques publiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1010,7 +1040,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des statistiques de l'énergie</td>
+<p align="left">Sous-directeur des statistiques de l'énergie</p>
+</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1020,7 +1051,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des statistiques du logement et de la construction<br/>
+<p align="left">Sous-directeur des statistiques du logement et de la construction<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1031,7 +1063,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des statistiques des transports</td>
+<p align="left">Sous-directeur des statistiques des transports</p>
+</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1041,7 +1074,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'information environnementale <br/>
+<p align="left">Sous-directeur de l'information environnementale <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1052,7 +1086,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des méthodes et données pour le développement durable</td>
+<p align="left">Sous-directeur des méthodes et données pour le développement durable</p>
+</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1062,7 +1097,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires générales <br/>
+<p align="left">Sous-directeur des affaires générales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1072,17 +1108,13 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>c) Direction générale de l'énergie et du climat <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>c) Direction générale de l'énergie et du climat </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des marchés de l'énergie et des affaires sociales <br/>
+<p align="left">Sous-directeur des marchés de l'énergie et des affaires sociales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1093,7 +1125,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques <br/>
+<p align="left">Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1104,7 +1137,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du système électrique et des énergies renouvelables <br/>
+<p align="left">Sous-directeur du système électrique et des énergies renouvelables <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1115,7 +1149,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'industrie nucléaire <br/>
+<p align="left">Sous-directeur de l'industrie nucléaire <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1126,7 +1161,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du climat et de la qualité de l'air <br/>
+<p align="left">Sous-directeur du climat et de la qualité de l'air <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1137,7 +1173,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la sécurité et des émissions des véhicules <br/>
+<p align="left">Sous-directeur de la sécurité et des émissions des véhicules <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1148,7 +1185,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires générales et de la synthèse <br/>
+<p align="left">Sous-directeur des affaires générales et de la synthèse <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1158,17 +1196,13 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>d) Direction générale des infrastructures, des transports et de la mer <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>d) Direction générale des infrastructures, des transports et de la mer</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la gestion du réseau autoroutier concédé <br/>
+<p align="left">Sous-directeur de la gestion du réseau autoroutier concédé <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1178,19 +1212,20 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sous-directeur de la construction et de la politique technique <br/>
+<td>
+<p align="left">Sous-directeur des services routiers déconcentrés et du contrôle de gestion<br/>
+</p>
 </td>
-<td align="center">
-<br/>1 <br/>
+<td>
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>90 <br/>
+<td>
+<p align="center">90</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la gestion du réseau routier non concédé et du trafic <br/>
+<p align="left">Sous-directeur de l'aménagement du réseau routier national</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1201,7 +1236,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires <br/>
+<p align="left">Sous-directeur de la gestion du réseau routier non concédé et du trafic <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1212,7 +1248,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement du réseau routier national <br/>
+<p align="left">Sous-directeur du développement et de la gestion des réseaux ferroviaires et des voies navigables <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1223,7 +1260,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des services ferroviaires et des déplacements urbains <br/>
+<p align="left">Sous-directeur des transports ferroviaires et collectifs et des déplacements urbains<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1234,7 +1272,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire <br/>
+<p align="left">Sous-directeur de la sécurité et de la régulation ferroviaires<br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1245,7 +1284,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des ports et du transport fluvial <br/>
+<p align="left">Sous-directeur des ports et du transport fluvial <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1256,7 +1296,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des transports routiers <br/>
+<p align="left">Sous-directeur des transports routiers <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1267,7 +1308,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du travail et des affaires sociales <br/>
+<p align="left">Sous-directeur du travail et des affaires sociales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1278,7 +1320,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la sécurité maritime <br/>
+<p align="left">Sous-directeur de la sécurité maritime <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1289,7 +1332,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des gens de mer et de l'enseignement maritime <br/>
+<p align="left">Sous-directeur des gens de mer et de l'enseignement maritime <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1300,7 +1344,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des activités maritimes <br/>
+<p align="left">Sous-directeur des activités maritimes <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1311,7 +1356,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des systèmes d'information maritimes <br/>
+<p align="left">Sous-directeur des systèmes d'information maritimes <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1322,7 +1368,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des études et de la prospective <br/>
+<p align="left">Sous-directeur des études et de la prospective <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1333,7 +1380,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du budget, du contrôle de gestion et des services <br/>
+<p align="left">Sous-directeur du budget, du contrôle de gestion et des services <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1344,7 +1392,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de santé des gens de mer <br/>
+<p align="left">Chef du service de santé des gens de mer <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1354,17 +1403,14 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>e) Direction générale de l'aviation civile <br/>
+<td align="center" colspan="3">
+<p align="center">e) Direction générale de l'aviation civile</p>
 </td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement durable <br/>
+<p align="left">Sous-directeur du développement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1375,7 +1421,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des transporteurs et services aériens <br/>
+<p align="left">Sous-directeur des transporteurs et services aériens <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1386,7 +1433,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des aéroports <br/>
+<p align="left">Sous-directeur des aéroports <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1397,7 +1445,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la construction aéronautique <br/>
+<p align="left">Sous-directeur de la construction aéronautique <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1408,7 +1457,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la sûreté et de la défense <br/>
+<p align="left">Sous-directeur de la sûreté et de la défense <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1419,7 +1469,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'Europe et de l'international <br/>
+<p align="left">Sous-directeur de l'Europe et de l'international <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1430,7 +1481,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des études, des statistiques et de la prospective <br/>
+<p align="left">Sous-directeur des études, des statistiques et de la prospective <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1441,7 +1493,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des personnels <br/>
+<p align="left">Sous-directeur des personnels <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1452,7 +1505,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires financières et du contrôle de gestion <br/>
+<p align="left">Sous-directeur des affaires financières et du contrôle de gestion <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1463,7 +1517,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires juridiques <br/>
+<p align="left">Sous-directeur des affaires juridiques <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1474,7 +1529,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des systèmes d'information et de la modernisation <br/>
+<p align="left">Sous-directeur des systèmes d'information et de la modernisation <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1484,17 +1540,12 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">f) Direction générale de l'aménagement, du logement et de la nature</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du financement du logement <br/>
+<p align="left">Sous-directeur du financement du logement <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1505,7 +1556,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des politiques de l'habitat <br/>
+<p align="left">Sous-directeur des politiques de l'habitat <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1516,7 +1568,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la législation de l'habitat et des organismes constructeurs <br/>
+<p align="left">Sous-directeur de la législation de l'habitat et des organismes constructeurs <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1527,7 +1580,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la qualité et du développement durable dans la construction <br/>
+<p align="left">Sous-directeur de la qualité et du développement durable dans la construction <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1538,7 +1592,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la qualité du cadre de vie <br/>
+<p align="left">Sous-directeur de la qualité du cadre de vie <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1549,7 +1604,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'aménagement durable <br/>
+<p align="left">Sous-directeur de l'aménagement durable <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1560,7 +1616,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des espaces naturels <br/>
+<p align="left">Sous-directeur des espaces naturels <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1571,7 +1628,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la protection et de la valorisation des espèces et de leurs milieux <br/>
+<p align="left">Sous-directeur de la protection et de la valorisation des espèces et de leurs milieux <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1582,7 +1640,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières <br/>
+<p align="left">Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1593,7 +1652,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la protection et de la gestion des ressources en eau et minérales <br/>
+<p align="left">Sous-directeur de la protection et de la gestion des ressources en eau et minérales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1604,7 +1664,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du littoral et des milieux marins <br/>
+<p align="left">Sous-directeur du littoral et des milieux marins <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1615,7 +1676,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des affaires générales <br/>
+<p align="left">Sous-directeur des affaires générales <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1626,7 +1688,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la performance <br/>
+<p align="left">Sous-directeur de la performance <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1637,7 +1700,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Secrétaire permanent du Plan urbanisme construction architecture <br/>
+<p align="left">Secrétaire permanent du Plan urbanisme construction architecture <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1647,17 +1711,12 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>g) Direction générale de la prévention des risques <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">g) Direction générale de la prévention des risques</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des risques accidentels <br/>
+<p align="left">Sous-directeur des risques accidentels <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1668,7 +1727,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des risques chroniques et du pilotage <br/>
+<p align="left">Sous-directeur des risques chroniques et du pilotage <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1678,17 +1738,12 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>h) Délégation à la circulation et à la sécurité routières <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">h) Délégation à la circulation et à la sécurité routières</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'action interministérielle <br/>
+<p align="left">Sous-directeur de l'action interministérielle <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1699,7 +1754,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'éducation routière <br/>
+<p align="left">Sous-directeur de l'éducation routière <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1710,7 +1766,8 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des actions transversales et des ressources <br/>
+<p align="left">Sous-directeur des actions transversales et des ressources <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1734,18 +1791,16 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France </p>
+<p>Directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1767,7 +1822,7 @@ B.-Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire </p>
+<p>Directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire </p>
 </td>
 <td>
 <p align="center">9 </p>
@@ -1778,7 +1833,7 @@ B.-Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td rowspan="2">
-<p>directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes </p>
+<p>Directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes </p>
 </td>
 <td rowspan="2">
 <p align="center">9 </p>
@@ -1800,12 +1855,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -1854,7 +1907,7 @@ B.-Fonctions exercées dans un service déconcentré
 <p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
-<p>NOMBRE d'emplois </p>
+<p align="center">NOMBRE d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE de points par emploi </p>
@@ -1928,12 +1981,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2005,12 +2056,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2049,12 +2098,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2093,12 +2140,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2159,12 +2204,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2192,12 +2235,10 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points par emploi </p>
 </td>
 </tr>
@@ -2224,36 +2265,34 @@ B.-Fonctions exercées dans un service déconcentré
 </td>
 </tr>
 </tbody>
-</table>C - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
+</table>
+
+C - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
 Directeur ou délégué ou chef de service ou chef de centre :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI <br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS <br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
-</th>
+<td>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+</td>
+<td>
+<p align="center">NOMBRE D'EMPLOIS </p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI </p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<br/>a) Centre d'études sur les réseaux, les transports, l'urbanisme <p>et les constructions publiques</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>a) Centre d'études sur les réseaux, les transports, l'urbanisme <p>et les constructions publiques <br/>
+<p>Directeur <br/>
 </p>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -2263,17 +2302,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>b) Service technique des remontées mécaniques et des transports guidés <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>b) Service technique des remontées mécaniques et des transports guidés</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service <br/>
+<p>Chef du service <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -2283,17 +2318,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>c) Centre d'études techniques maritimes et fluviales <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>c) Centre d'études techniques maritimes et fluviales</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du centre <br/>
+<p>Chef du centre <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -2303,17 +2334,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>d) Service d'études sur les transports, les routes et leurs aménagements <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>d) Service d'études sur les transports, les routes et leurs aménagements</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur <br/>
+<p>Directeur <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -2323,17 +2350,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>e) Centre d'études des tunnels <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>e) Centre d'études des tunnels</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur <br/>
+<p>Directeur <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -2343,17 +2366,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>f) Délégation à l'action foncière et immobilière <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center"/>
+<td align="center" colspan="3">
+<br/>f) Délégation à l'action foncière et immobilière</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Délégué à l'action foncière et immobilière <br/>
+<p>Délégué à l'action foncière et immobilière <br/>
+</p>
 </td>
 <td align="center">
 <br/>1 <br/>

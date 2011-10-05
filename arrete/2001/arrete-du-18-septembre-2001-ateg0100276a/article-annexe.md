@@ -368,7 +368,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service des emplois et des compétences <br/>
+<br/>Chef de service, chargé dans le domaine des ressources humaines, de la modernisation, de l'innovation et de la qualité<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -379,8 +379,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de la gestion du personnel <br/>
-</td>
+<br/>Chef de service, chargé des questions sociales</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -423,7 +422,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de défense, de sécurité et d'intelligence économique <br/>
+<br/>Chef de service, haut fonctionnaire de défense et de sécurité adjoint (en vigueur le 13 juillet 2010)<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -557,6 +556,18 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Chef de service, adjoint au directeur du transport aérien (en vigueur le 13 juillet 2010)<br/>
+</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
 </td>
@@ -678,7 +689,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la gestion des ressources en emplois et en compétences <br/>
+<br/>Sous-directeur du pilotage, de la performance et de la synthèse <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -689,7 +700,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement des compétences et de la formation <br/>
+<br/>Sous-directeur des carrières et de l'encadrement <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -700,7 +711,17 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des parcours professionnels et des mobilités <br/>
+<br/>Sous-directeur de la modernisation et de la gestion statutaires</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>sous-directeur du recrutement et de la mobilité<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -711,7 +732,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des personnels d'encadrement, maritimes et des contractuels <br/>
+<br/>Sous-directeur de la formation, des compétences et des qualifications <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -722,7 +743,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres <br/>
+<br/>Sous-directeur des politiques sociales, de la prévention et des pensions <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -733,19 +754,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des politiques sociales et des pensions <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale <br/>
-</td>
+<br/>Sous-directeur de la gestion administrative et de la paye</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -810,8 +819,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du pilotage des services et des écoles <br/>
-</td>
+<br/>Sous-directeur du pilotage et de la performance des services et des tutelles</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -820,9 +828,7 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sous-directeur de la conduite et de l'accompagnement du changement <br/>
-</td>
+<td align="center">Sous-directeur de l'accompagnement du changement et de l'enseignement supérieur </td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -865,7 +871,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville <br/>
+<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé des relations institutionnelles, des affaires juridiques et de l'animation du réseau de défense et de sécurité<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1196,9 +1202,19 @@ A. - Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sous-directeur de la construction et de la politique technique <br/>
+<td>
+<p align="center"> Sous-directeur des services routiers déconcentrés et du contrôle de gestion</p>
 </td>
+<td>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center"> 90</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de l'aménagement du réseau routier national</td>
 <td align="center">
 <br/>1 <br/>
 </td>
@@ -1219,7 +1235,17 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires <br/>
+<br/>Sous-directeur du développement et de la gestion des réseaux ferroviaires et des voies navigables</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des transports ferroviaires et collectifs et des déplacements urbains <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -1230,29 +1256,7 @@ A. - Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du développement du réseau routier national <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des services ferroviaires et des déplacements urbains <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire <br/>
+<br/>Sous-directeur de la sécurité et de la régulation ferroviaires<br/>
 </td>
 <td align="center">
 <br/>1 <br/>
