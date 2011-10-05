@@ -1292,6 +1292,7 @@
 - [Arrêté du 19 mai 2011 (MCCK1111041A)](arrete-du-19-mai-2011-mcck1111041a)
 - [Arrêté du 19 mai 2011 (MCCK1111042A)](arrete-du-19-mai-2011-mcck1111042a)
 - [Arrêté du 19 mai 2011 (MCCK1111043A)](arrete-du-19-mai-2011-mcck1111043a)
+- [Arrêté du 20 avril 2005 (BUDL0500008A)](arrete-du-20-avril-2005-budl0500008a)
 - [Arrêté du 20 avril 2011 (DEFD1111060A)](arrete-du-20-avril-2011-defd1111060a)
 - [Arrêté du 20 avril 2011 (DEVA1110835A)](arrete-du-20-avril-2011-deva1110835a)
 - [Arrêté du 20 avril 2011 (DEVA1111046A)](arrete-du-20-avril-2011-deva1111046a)
