@@ -1,3 +1,0 @@
-# PROTÉINES ANIMALES DESTINÉES À L'ALIMENTATION ANIMALE.
-
-- [Article ANNEXE II](article-annexe-ii.md)
