@@ -1,0 +1,11 @@
+# Article 25 bis
+
+A la fin d'un semestre quelconque, lorsque les conditions de succès du bloc F sont réunies, les ECTS de ce bloc sont attribués à l'élève conformément aux tableaux de l'annexe C.
+
+A la fin d'un semestre quelconque, lorsque les conditions de succès du bloc F ne sont pas réunies, l'élève acquiert les ECTS des épreuves de ce bloc pour lesquelles il a obtenu une note au contrôle de synthèse supérieure ou égale à 10. Lorsqu'il passe avec succès un contrôle de transition dans les conditions fixées aux articles 19 à 24, l'élève acquiert la totalité des ECTS du semestre dans ce bloc. Lorsqu'il passe sans succès un contrôle de transition dans les conditions fixées aux articles 19 à 24, l'élève acquiert les ECTS des épreuves de ce bloc pour lesquelles il a obtenu une note au contrôle de synthèse supérieure ou égale à 10. Lorsqu'il ne se présente pas au contrôle de transition, l'élève n'acquiert aucun ECTS nouveau.
+
+A la fin du semestre S1, S3, S5, S7, S8, S9 ou S10, lorsque les conditions de succès d'un bloc autre que le bloc F sont réunies, les ECTS du bloc sont attribués à l'élève conformément aux tableaux de l'annexe C.
+
+A la fin des semestres S2, S4 ou S6, lorsque les conditions de succès d'un bloc autre que le bloc F sont réunies, l'élève acquiert la moitié des ECTS indiqués dans les tableaux de l'annexe C pour cet autre bloc. L'autre moitié de ces ECTS lui sont éventuellement attribués à son retour d'embarquement après étude de son journal de bord rédigé et évalué dans les conditions fixées par instruction de l'inspecteur général de l'enseignement maritime.
+
+A la fin d'un semestre quelconque, lorsque les conditions de succès d'un bloc autre que le bloc F ne sont pas réunies, l'élève se voit attribuer les ECTS du champ de compétence pour lequel sa moyenne est supérieure ou égale à 10 sans qu'il ait de note éliminatoire dans ce champ. Lorsqu'il passe avec succès un contrôle de transition dans les conditions fixées aux articles 19 à 24 ci-dessus, l'élève acquiert tous les ECTS du semestre. Lorsqu'il passe sans succès un contrôle de transition dans les conditions fixées aux articles 19 à 24 ci-dessus, l'élève n'acquiert aucun ECTS nouveau. Lorsqu'il ne se présente pas au contrôle de transition, l'élève n'acquiert aucun ECTS nouveau.
