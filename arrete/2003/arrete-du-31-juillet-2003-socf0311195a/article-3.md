@@ -1,13 +1,9 @@
 # Article 3
 
-Le titre professionnel de mécanicien(ne) automobile est composé des quatre unités constitutives suivantes :
+Le titre professionnel de mécanicien (ne) réparateur (trice) automobile est composé des deux unités constitutives dont la liste suit :
 
-1. Effectuer les interventions d'entretien et de montage d'accessoires en service rapide automobile.
+1. Effectuer les opérations d'entretien des VL et des VUL, poser des accessoires.
 
-2. Contrôler et échanger les pièces d'usure d'un véhicule automobile.
+2. Réparer les véhicules automobiles par remplacement de pièces ou d'organes.
 
-3. Contrôler et remplacer les composants du groupe motopropulseur et des organes automobiles.
-
-4. Réparer les équipements des véhicules automobiles.
-
-Elles sont sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

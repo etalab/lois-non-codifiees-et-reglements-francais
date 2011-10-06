@@ -4,133 +4,83 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+
 Intitulé :
 
-Titre professionnel : électricien automobile.
+Titre professionnel : mécanicien (ne) électricien (ne) automobile (ancien intitulé : électricien [ne] automobile).
 
-Niveau : IV.
+Niveau : V.
 
 Code NSF : 252 r.
 
 Résumé du référentiel d'emploi
 
-L'Electricien Automobile intervient principalement sur des interventions de diagnostic et de réparation des fonctions électriques des véhicules légers ou lourds.
+Le (la) mécanicien (ne) électricien (ne) automobile assure l'entretien, le montage d'accessoires, la réparation sur la base d'un diagnostic des organes et des systèmes embarqués des véhicules de transport de moins de dix personnes et de transport de marchandises de moins de 3,5 tonnes. Ces véhicules sont mus par des motorisations thermiques.
 
-Dans les garages et concessions, il effectue des contrôles électriques au moyen d'appareils de mesure pour déterminer l'origine des pannes des différents équipements électriques et électroniques embarqués, échange les sous-ensembles défectueux, effectue leur remise en état, répare les faisceaux endommagés et réalise l'installation et la mise en service d'équipements électriques complémentaires.
+Le (la) professionnel (le) intervient sous la responsabilité d'un supérieur hiérarchique à qui il (elle) rend compte des interventions réalisées.
 
-Dans un centre de services rapides, son activité est davantage centrée sur l'entretien périodique des véhicules, la réalisation d'opérations de courte durée et la pose d'accessoires.
+L'emploi se pratique en atelier. Les postures vont de la station debout, face à un plan de travail ou un appareil, jusqu'à des positions fléchies. Une bonne dextérité est nécessaire.
 
-Les travaux à réaliser sont définis par le réceptionnaire d'atelier en accord avec le client et consignés sur un ordre de réparation faisant office de contrat de service.
+Les horaires de travail nécessitent parfois des aménagements pour assurer le service.
 
-Il exerce généralement son emploi :
+L'environnement sonore peut atteindre des niveaux élevés mais pour de courtes durées.
 
-- dans les ateliers équipés pour les interventions sur systèmes électriques des entreprises de maintenance automobile ;
+Le déplacement et la manipulation de charges lourdes sont parfois nécessaires.
 
-- dans des baies de services rapides ouvertes sur l'extérieur ;
+La manipulation de déchets industriels spéciaux est très fréquente.
 
-- dans les ateliers d'entreprises spécialisées dans l'aménagement, l'équipement ou la maintenance de véhicules spéciaux (engins de l'équipement, ambulance, véhicules de pompiers, poids lourds ...).
+Le permis de conduire B est nécessaire pour les déplacements des véhicules.
 
-Les horaires de travail sont tributaires des prestations à la clientèle et nécessitent parfois des aménagements pour assurer le service.
+Capacités attestées et descriptif
 
-Placé sous l'égide d'un chef d'équipe, il est autonome dans la conduite des opérations techniques à effectuer sur le véhicule, qu'il réalise conformément aux modes opératoires décrits dans le manuel de réparation du véhicule fourni par le constructeur, en respect des temps barèmes relatifs à chaque opération professionnelle. Dans certains cas, l'électricien automobile peut être amené à accueillir lui-même le client pour réceptionner son véhicule, le conseiller sur le choix d'un équipement ou expliquer les travaux réalisés.
+des composantes de la certification
 
-Il doit assurer la qualité de ses interventions en exerçant un auto-contrôle à chaque étape de son travail, le contrôle global étant généralement à la charge du responsable d'atelier, avant livraison du véhicule.
+1. Effectuer les opérations d'entretien des VL et des VUL, poser des accessoires
 
-L'accès à l'emploi s'opère généralement à partir d'un titre ou diplôme professionnel de niveau V de la réparation automobile.
+Prendre en charge un VL ou un VUL pour réaliser des opérations d'entretien programmées et des remplacements courants et simples.
 
-Le permis de conduire B est souhaité pour qu'il puisse réaliser les essais de véhicules.
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-Liste des activités et compétences attestées par la certification.
+Poser des accessoires pour les véhicules légers.
 
-1. Effectuer l'entretien périodique des véhicules automobiles
+2. Réparer les systèmes châssis moteur et transmission des VL et VUL
 
-Réceptionner et prendre en charge un véhicule pour une intervention en service rapide.
+Réparer les systèmes de freinage, de suspension et direction.
 
-Remplacer les éléments consommables les plus courants des véhicules automobiles (pneumatiques, plaquettes, échappements ...).
+Réparer la transmission.
 
-Réaliser les opérations d'entretien périodique programmé des véhicules automobiles.
+Réparer des sous ensembles de motorisations thermiques.
 
-Préparer un véhicule automobile pour sa livraison au client.
+3. Réparer les liaisons et les éléments des systèmes embarqués
 
-2. Contrôler et échanger les pièces d'usure
+Réparer les périphériques du moteur.
 
-d'un véhicule automobile
+Réparer les systèmes de visibilité, d'information, de chauffage et de signalisation.
 
-Echanger les organes du système de freinage des véhicules automobiles (tambours, flexibles ...).
+Réparer les ouvrants, les systèmes de retenue et de protection des occupants.
 
-Echanger les organes de liaison au sol des véhicules automobiles (suspension, rotule, roulement, transmission ...).
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre.
 
-Contrôler et régler la géométrie des véhicules.
+Les différents secteurs d'activités concernés sont principalement :
 
-Echanger les éléments d'équipements annexes du moteur des véhicules automobiles (courroie de distribution, radiateur, embrayage...).
+Commerce et réparation automobile.
 
-Contrôler les circuits électriques du moteur et remplacer les éléments défectueux (allumage, charge, démarrage, préchauffage ...).
+Commerce de gros et intermédiaires du commerce.
 
-Effectuer le pré-contrôle technique d'un véhicule automobile.
+Transports terrestres.
 
-3. Monter les accessoires complémentaires courants
-
-sur un véhicule automobile
-
-Réaliser ou adapter les supports mécano-soudés nécessaires à l'installation d'accessoires sur un véhicule automobile.
-
-Monter, brancher et mettre en service les accessoires d'éclairage et de signalisation sur un véhicule automobile.
-
-Monter, brancher et mettre en service les accessoires audio sur un véhicule automobile.
-
-Monter, brancher et mettre en service les équipements d'attelage et de portage sur un véhicule automobile.
-
-4. Installer et remettre en état les organes électriques des véhicules
-
-Remettre en état les démarreurs et les alternateurs.
-
-Remettre en état les équipements électriques des moteurs essence et Diesel.
-
-Remettre en état les circuits électriques de bord.
-
-Installer et dépanner les équipements de sonorisation et de navigation embarqués.
-
-Installer et dépanner les systèmes de protection du véhicule.
-
-Contrôler et remettre en état une climatisation.
-
-5. Réparer les systèmes électriques des véhicules
-
-Contrôler et réparer les systèmes d'injection des moteurs essence.
-
-Contrôler et réparer les systèmes d'injection des moteurs Diesel.
-
-Contrôler et réparer les systèmes d'assistance et de confort des véhicules.
-
-Contrôler et remettre en état les systèmes de sécurité des véhicules.
-
-Activité d'extension de l'emploi
-
-Installer des équipements spéciaux sur des véhicules.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-L'électricien automobile exerce ses activités le plus généralement :
-
-- dans les entreprises spécialisées de l'automobile (ESA) ;
-
-- dans les centres auto spécialisés dans le service rapide ;
-
-- dans les agences, concessions et succursales des réseaux de SAV des constructeurs automobiles ;
-
-- dans les entreprises spécialisées dans l'aménagement, l'équipement ou la maintenance de véhicules spéciaux (engins de l'équipement, ambulance, véhicules de pompiers, poids lourds ...) ;
-
-- dans les ateliers intégrés de maintenance d'une flotte de véhicule de collectivité ou de grande entreprise.
-
-Réglementation de l'activité :
-
-Néant.
+Administration publique.
 
 Code ROME :
 
-44321 - Mécanicien de véhicules particuliers et industriels.
+I1604-Mécanique automobile.
+
+Réglementation de l'activité
+
+La tenue de l'emploi exige la détention d'une attestation à manipuler les fluides frigorigènes en famille 2 catégorie V, ou un document prouvant l'équivalence en conformité au règlement CE 307/2008.
+
+Pour les interventions et les travaux à effectuer sur les véhicules ayant un mode de propulsion ou de traction électrique le (la) professionnel (le) doit être habilité conformément à la norme UTEC 18550.
 
 Autorité responsable de la certification :
 
@@ -138,8 +88,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
