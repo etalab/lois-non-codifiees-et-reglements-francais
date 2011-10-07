@@ -2,7 +2,7 @@
 
 Les eaux de baignade sont classées comme étant de bonne qualité si :
 
-1° Elles ne sont pas classées en qualité insuffisante selon les règles définies à l'article 7 du présent arrêté et ne sont pas classées en bonne qualité selon les règles définies à l'article 8 du présent arrêté ; et
+1° Elles ne sont pas classées en qualité insuffisante selon les règles définies à l'article 7 du présent arrêté et ne sont pas classées  en qualité suffisante selon les règles définies à l'article 8 du présent arrêté ; et
 
 2° Les valeurs des 95es percentiles pour les dénombrements bactériens d'au moins un des paramètres indiqués à la colonne A des tableaux de l'annexe 1 du présent arrêté, calculées selon la méthode décrite en annexe 2, sont supérieures aux valeurs limites relatives à la qualité excellente indiquées dans la colonne B du tableau, figurant à l'annexe 1, pour le type d'eau concerné ; et
 

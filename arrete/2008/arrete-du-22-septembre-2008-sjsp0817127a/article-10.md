@@ -2,7 +2,7 @@
 
 Les eaux de baignade sont classées comme étant de qualité excellente si :
 
-1° Les valeurs des 95es percentiles, pour les dénombrements bactériens d'au moins un des paramètres indiqués à la colonne A des tableaux de l'annexe 1, calculées selon la méthode décrite en annexe 2, sont inférieures ou égales aux valeurs limites relatives à la qualité excellente indiquées dans la colonne B du tableau, figurant à l'annexe 1, pour le type d'eau concerné ; et
+1° Les valeurs des 95es percentiles, pour les dénombrements bactériens      des deux paramètres indiqués à la colonne A des tableaux de l'annexe 1, calculées selon la méthode décrite en annexe 2, sont inférieures ou égales aux valeurs limites relatives à la qualité excellente indiquées dans la colonne B du tableau, figurant à l'annexe 1, pour le type d'eau concerné ; et
 
 2° Si l'eau de baignade présente une pollution à court terme sous les conditions cumulatives suivantes :
 
