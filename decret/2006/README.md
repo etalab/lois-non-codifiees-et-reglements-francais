@@ -5,5 +5,4 @@
 - [Décret n°2006-1139 du 12 septembre 2006 (ECOT0637137D)](decret-n2006-1139-du-12-septembre-2006-ecot0637137d)
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
-- [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
