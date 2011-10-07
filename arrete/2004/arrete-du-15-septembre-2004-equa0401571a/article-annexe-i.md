@@ -416,6 +416,8 @@ Paris-Koweït.
 
 Liban (jusqu'au 31 décembre 2012)
 
+Marseille - Beyrouth.
+
 Paris-Beyrouth.
 
 Liberia (jusqu'au 31 décembre 2012)
@@ -630,6 +632,8 @@ Paris-Bucarest.
 
 Russie (jusqu'au 31 décembre 2012)
 
+Marseille - Moscou.
+
 Nice-Moscou.
 
 Paris-Moscou.
@@ -752,6 +756,8 @@ Turquie (jusqu'au 31 décembre 2012)
 
 Paris-Istanbul.
 
+Turquie : Marseille - Istanbul.
+
 Ukraine (jusqu'au 31 décembre 2012)
 
 Paris-Kiev.
@@ -826,11 +832,9 @@ Venezuela (jusqu'au 31 décembre 2012)
 
 Fort-de-France-Caracas.
 
-2.3. De/ vers La Réunion
+2.3. De/ vers La Réunion (jusqu'au 31 décembre 2012)
 
-Madagascar (jusqu'au 31 décembre 2012)
-
-Réunion-Antananarivo.
+Madagascar Réunion-Antananarivo.
 
 Maurice (jusqu'au 31 décembre 2012)
 
