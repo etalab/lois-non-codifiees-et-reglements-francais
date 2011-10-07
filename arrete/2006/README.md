@@ -274,6 +274,7 @@
 - [Arrêté du 25 octobre 2006 (INDI0608782A)](arrete-du-25-octobre-2006-indi0608782a)
 - [Arrêté du 25 septembre 1998 (MESS9823151A)](arrete-du-25-septembre-1998-mess9823151a)
 - [Arrêté du 25 septembre 2006 (EQUA0601839A)](arrete-du-25-septembre-2006-equa0601839a)
+- [Arrêté du 26 avril 2006 (AGRS0600752A)](arrete-du-26-avril-2006-agrs0600752a)
 - [Arrêté du 26 décembre 2005 (DEFP0501738A)](arrete-du-26-decembre-2005-defp0501738a)
 - [Arrêté du 26 décembre 2005 (MENR0502778A)](arrete-du-26-decembre-2005-menr0502778a)
 - [Arrêté du 26 décembre 2006 (EQUA0602482A)](arrete-du-26-decembre-2006-equa0602482a)
