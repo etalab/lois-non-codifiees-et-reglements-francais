@@ -1,6 +1,6 @@
 # Article 5
 
-La sélection des candidats aux classes préparatoires est effectuée par une commission présidée avec voix prépondérante par le directeur de l'Ecole nationale de la magistrature ou le directeur adjoint chargé des recrutements, de la formation initiale et de la recherche de l'école.
+La sélection des candidats aux classes préparatoires est effectuée par une commission présidée avec voix prépondérante par le directeur adjoint en charge des recrutements, de la formation initiale et de la recherche ou, en cas d'empêchement, par l'un des sous-directeurs que le directeur de l'école désigne à cet effet.
 
 La commission est en outre composée de trois autres membres nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'Ecole nationale de la magistrature :
 
