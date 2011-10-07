@@ -85,7 +85,6 @@
 - [Arrêté du 5 août 2004 (DEFN0400980A)](arrete-du-5-aout-2004-defn0400980a)
 - [Arrêté du 5 août 2004 (DEFP0401075A)](arrete-du-5-aout-2004-defp0401075a)
 - [Arrêté du 5 décembre 2003 (EQUH0301793A)](arrete-du-5-decembre-2003-equh0301793a)
-- [Arrêté du 5 février 2004 (ECOP0400082A)](arrete-du-5-fevrier-2004-ecop0400082a)
 - [Arrêté du 5 février 2004 (EQUP0400098A)](arrete-du-5-fevrier-2004-equp0400098a)
 - [Arrêté du 5 février 2004 (EQUT0400099A)](arrete-du-5-fevrier-2004-equt0400099a)
 - [Arrêté du 5 février 2004 (SANH0420418A)](arrete-du-5-fevrier-2004-sanh0420418a)
