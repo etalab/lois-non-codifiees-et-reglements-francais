@@ -2,6 +2,7 @@
 
 - [Décret n°96-772 du 4 septembre 1996 (INTE9600202D)](decret-n96-772-du-4-septembre-1996-inte9600202d)
 - [Décret n°2006-1551 du 7 décembre 2006 (DEFD0601418D)](decret-n2006-1551-du-7-decembre-2006-defd0601418d)
+- [Décret n°2006-1139 du 12 septembre 2006 (ECOT0637137D)](decret-n2006-1139-du-12-septembre-2006-ecot0637137d)
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
