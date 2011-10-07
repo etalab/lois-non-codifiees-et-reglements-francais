@@ -14,7 +14,7 @@ b) Le sous-directeur de la gestion et des systèmes d'information à la directio
 
 c) Le chef du bureau de la direction de la sécurité sociale chargé de la liste d'aptitude ;
 
-d) Deux membres de l'inspection générale des affaires sociales ;
+d) Un membre de l'inspection générale des affaires sociales disposant de deux voix ;
 
 e) Deux représentants du service mentionné à l'article R. 155-1 du code de la sécurité sociale ;
 
@@ -44,7 +44,7 @@ b) Cinq représentants des agents de direction des organismes de sécurité soci
 
 c) Un représentant des agents de direction relevant de la convention collective du régime social des indépendants, élu ;
 
-d) Un représentant des agents de direction des caisses régionales de sécurité sociale dans les mines (1), désigné par l'organisation syndicale la plus représentative au plan national au sein du régime minier.
+d) Un représentant des agents de direction des caisses régionales de sécurité sociale dans les mines, désigné par l'organisation syndicale la plus représentative au plan national au sein du régime minier.
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modalités de l'élection des représentants des agents de direction visés au 4° (c) du présent article.
 

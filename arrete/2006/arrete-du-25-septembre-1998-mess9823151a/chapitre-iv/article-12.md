@@ -20,6 +20,6 @@ La durée d'exercice prévue au premier alinéa ne peut être inférieure à cel
 
 4° Classe IF 2 : neuf ans.
 
-Toutefois, lors d'une demande d'inscription dans la classe AD 3, la commission peut décider de réduire, à la demande du candidat, cette durée d'exercice à six ans, en raison d'éléments particuliers du parcours professionnel que celui-ci aura fait valoir.
+Toutefois, lors d'une demande d'inscription dans la classe AD 3, la commission peut décider de réduire cette durée d'exercice à six ans, en raison d'éléments particuliers du parcours professionnel du candidat.
 
 La scolarité passée à l'Ecole nationale supérieure de sécurité sociale est prise en compte pour sa durée effective pour le calcul de l'ancienneté fixée ci-dessus. Pour les candidats visés à l'article 8, les durées fixées ci-dessus sont réduites de quatre ans ou de six ans quand l'inscription en classe AD 3 requiert une durée d'exercice de huit ans.

@@ -18,9 +18,7 @@ b) Pour le régime social des indépendants :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
--directeur de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
-
--directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
+-directeur de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines chargé de la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou de la caisse régionale de sécurité sociale dans les mines de l'Est ;
 
 d) Pour la caisse de prévoyance et de retraite de la Société nationale des chemins de fer (SNCF) :
 
@@ -52,7 +50,7 @@ b) Pour le régime social des indépendants :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
--directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
+-directeur de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines chargé de la caisse régionale de sécurité sociale dans les mines du Centre-Est, ou de la caisse régionale de sécurité sociale dans les mines du Centre-Ouest, ou de la caisse régionale de sécurité sociale dans les mines du Sud-Est, ou de la caisse régionale de sécurité sociale dans les mines du Sud-Ouest ;
 
 d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
@@ -60,7 +58,9 @@ d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAV
 
 e) Pour la caisse de retraite du personnel de la régie autonome des transports parisiens (RATP) :
 
--directeur.
+-directeur ;
+
+f) directeur commun de l'Association pour la gestion de la sécurité sociale des auteurs-AGESSA et de la Maison des artistes.
 
 3° Classe D 3 :
 
@@ -72,15 +72,13 @@ b) Pour le régime social des indépendants :
 
 ― directeur d'organisme de catégorie III ;
 
-― directeur de mission de la caisse nationale équivalent à directeur d'organisme de catégorie III;
+― directeur de mission de la caisse nationale équivalent à directeur d'organisme de catégorie III ;
 
-c) Pour le régime de sécurité sociale dans les mines :
+c) (Supprimé)
 
--directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
+d)-le directeur de l'Association pour la gestion de la sécurité sociale des auteurs-AGESSA ;
 
-d) Pour les organismes agréés à l'article R. 382-6 du code de la sécurité sociale (l'Association pour la gestion de la sécurité sociale des auteurs-AGESSA, la Maison des artistes) :
-
--directeur.
+-le directeur de la Maison des artistes.
 
 4° Classe AD 1 :
 
@@ -110,13 +108,11 @@ b) Pour le régime social des indépendants :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
--agent comptable de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
+-agent comptable de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou dans la caisse régionale de sécurité sociale dans les mines de l'Est ;
 
--agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
+-directeur adjoint de la Caisse autonome nationale de sécurité sociale dans les mines ;
 
--directeur adjoint de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
-
--directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
+-directeur adjoint de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou dans la caisse régionale de sécurité sociale dans les mines de l'Est ;
 
 d) Pour la caisse de prévoyance et de retraite de la Société nationale des chemins de fer (SNCF) :
 
@@ -170,13 +166,13 @@ b) Pour le régime social des indépendants :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
--agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
+-agent comptable de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines du Centre-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Centre-Ouest, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Ouest ;
 
--directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
+-directeur adjoint de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines du Centre-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Centre-Ouest, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Ouest ;
 
--sous-directeur de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
+-sous-directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
 
--sous-directeur de niveau 1 de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
+-sous-directeur de niveau 1 de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou dans la caisse régionale de sécurité sociale dans les mines de l'Est ; ;
 
 d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
@@ -242,15 +238,11 @@ b) Pour le régime social des indépendants :
 
 c) Pour le régime de sécurité sociale dans les mines :
 
--agent comptable de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
+-agent comptable adjoint de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou dans la caisse régionale de sécurité sociale dans les mines de l'Est ;
 
--agent comptable adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
+-sous-directeur de niveau 2 de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines de Nord-Pas-de-Calais ou dans la caisse régionale de sécurité sociale dans les mines de l'Est ;
 
--directeur adjoint de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie D ;
-
--sous-directeur de niveau 2 de caisse régionale de la sécurité sociale dans les mines (CARMI) des catégories A et B ;
-
--sous-directeur de caisse régionale de la sécurité sociale dans les mines (CARMI) de catégorie C ;
+-sous-directeur de service territorial de la Caisse autonome nationale de la sécurité sociale dans les mines en fonction dans la caisse régionale de sécurité sociale dans les mines du Centre-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Centre-Ouest, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Est, ou dans la caisse régionale de sécurité sociale dans les mines du Sud-Ouest. ;
 
 d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC° :
 
@@ -300,6 +292,4 @@ a) Pour le régime général :
 
 b) (supprimé) ;
 
-c) Pour le régime de sécurité sociale dans les mines :
-
--directeur de centre informatique régional.
+c) (supprimé).
