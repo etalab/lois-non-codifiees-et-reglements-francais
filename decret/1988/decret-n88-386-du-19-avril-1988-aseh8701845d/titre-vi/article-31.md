@@ -8,4 +8,6 @@ Le comité médical doit, en même temps qu'il se prononce sur la dernière pér
 
 Si le fonctionnaire n'est pas présumé définitivement inapte, il appartient au comité médical de se prononcer, à l'expiration de la période de congé rémunéré, sur l'aptitude du fonctionnaire à reprendre ses fonctions.
 
+A l'expiration de la dernière période de congé de longue maladie ou de longue durée, le fonctionnaire reconnu apte à exercer ses fonctions par le comité médical reprend son activité.
+
 Si le comité médical estime qu'il y a présomption d'inaptitude définitive, le cas de l'intéressé est soumis à la commission départementale de réforme prévue au décret du 9 septembre 1965 susvisé, qui se prononce sur l'application de l'article 35 ci-après.

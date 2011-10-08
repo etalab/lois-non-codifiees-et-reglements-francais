@@ -8,4 +8,4 @@ Le comité médical doit alors donner son avis sur la prolongation du congé et 
 
 S'il y a présomption d'inaptitude définitive, la commission de réforme prévue par le décret n° 65-773 du 9 septembre 1965 susvisé se prononce, à l'expiration de la période de congé rémunéré, sur l'application de l'article 37 ci-dessous.
 
-S'il n'y a pas présomption d'inaptitude définitive, le comité médical se prononce, à l'expiration de la période de congé rémunéré, sur l'aptitude du fonctionnaire à reprendre ses fonctions.
+A l'expiration de la dernière période de congé de longue maladie ou de longue durée, le fonctionnaire reconnu apte à exercer ses fonctions par le comité médical reprend son activité.
