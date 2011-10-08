@@ -10,4 +10,4 @@ L'échelon de direction est constitué :
 
 -d'un adjoint pour la mer qui assure notamment les responsabilités de point de contact national pour la sûreté maritime telles que définies par les dispositions communautaires et internationales ;
 
--d'un chargé de mission pour la coordination et l'action internationale intéressant le secteur nucléaire.
+- d'un adjoint chargé des relations institutionnelles, des affaires juridiques et de l'animation du réseau de défense et de sécurité.

@@ -2,48 +2,30 @@
 
 La sous-direction de la gestion du réseau routier non concédé et du trafic exerce les missions suivantes sur le réseau routier national non concédé :
 
-- définition, pilotage, suivi et évaluation de la politique nationale de régulation dynamique du trafic, visant à optimiser l'écoulement des trafics et le maillage du réseau, dans une perspective intermodale et de développement durable ;
+- définition, pilotage et évaluation des politiques nationales d'entretien routier, d'exploitation routière et d'information routière ;
 
-- définition, pilotage, suivi et évaluation de la politique nationale d'information des usagers, incluant l'animation et la gestion du réseau des centres régionaux d'information et de coordination routière et le suivi des crises hivernales, en liaison avec le service de défense, de sécurité et d'intelligence économique ;
+- définition, pilotage et évaluation de la politique d'aménagements du réseau routier destinée à améliorer la sécurité routière ainsi que des politiques de service aux usagers ;
 
-- définition des politiques de gestion, d'entretien, de préservation et de viabilité du réseau ;
+- contribution, dans toutes ses missions, à la prise en compte de l'amélioration de la sécurité des agents ;
 
-- définition de la politique d'aménagement du réseau destinée à améliorer la sécurité routière ainsi que des politiques de service aux usagers ;
+- programmation et gestion budgétaire correspondant aux missions susmentionnées ;
 
-- participation à l'élaboration de la politique technique pour ce qui relève de son domaine de compétence ;
+- pilotage de l'élaboration des outils d'aide à la décision et d'évaluation des politiques ;
 
-- application des dispositions relatives à la sûreté, la sécurité et la défense liées à la conception et à l'exploitation des infrastructures routières nationales, en liaison avec la mission sûreté défense de la direction des services de transport et en liaison avec le service de défense, de sécurité et d'intelligence économique ;
+- application des dispositions relatives à la sûreté, la sécurité et la défense liées à l'exploitation des infrastructures routières nationales, en liaison avec le département de la sûreté dans les transports de la direction des services de transport et en liaison avec le service de défense, de sécurité et d'intelligence économique ;
 
-- veille qualifiée et gestion du trafic sur le réseau routier national non concédé, en liaison avec les autres gestionnaires de réseaux ;
+- participation à la gestion du volet routier des crises de niveau régional et national en relation avec le service de défense, de sécurité et d'intelligence économique ;
 
-- relations avec le bureau d'enquêtes sur les accidents des transports terrestres et examen des suites données aux enquêtes relatives aux accidents sur le réseau routier national ;
+- animation du réseau des centres régionaux d'information et de coordination routières en collaboration avec les divisions police et gendarmerie ;
 
-- programmation annuelle des opérations ;
-
-- définition, suivi et évaluation de la politique nationale d'information des usagers, et pilotage de sa mise en œuvre sur le réseau routier national en liaison avec l'ensemble des gestionnaires de réseaux ;
-
-- animation du réseau des centres régionaux d'information et de coordination routière en collaboration avec les divisions police et gendarmerie ;
-
-- synthèse et diffusion de l'information routière au niveau national ;
-
-- planification des plans de gestion du trafic et plans "intempéries" ;
-
-- suivi du volet circulation des crises, en relation avec le service de défense, de sécurité et d'intelligence économique ;
-
-- prévision et suivi du trafic "grandes mailles".
+- animation des réseaux métiers relevant des champs de compétence de la sous-direction.
 
 Elle comprend :
 
-- le bureau de la régulation du trafic ;
+- le bureau du patrimoine routier national non concédé ;
 
-- le bureau des systèmes d'exploitation et d'information routière ;
+- le bureau de l'exploitation routière et de la sécurité ;
 
-- le bureau de l'organisation du travail, de la viabilité et des achats ;
+- le bureau de l'information routière et de systèmes d'information.
 
-- le bureau du patrimoine routier national ;
-
-- le bureau des aménagements de sécurité et du service aux usagers ;
-
-- la division transport du Centre national d'information routière.
-
-La division transport du Centre national d'information routière est mise à la disposition de la délégation à la sécurité et à la circulation routières pour l'exercice de ses compétences en matière de communication "grand public" sur la sécurité routière.
+Le bureau de l'information routière et des systèmes d'information est mis à la disposition de la délégation à la sécurité et à la circulation routières pour l'exercice de ses compétences en matière de communication à destination du grand public sur la sécurité routière.

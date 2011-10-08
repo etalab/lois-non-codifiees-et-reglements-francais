@@ -1,14 +1,14 @@
 # Article 5.1.2
 
-La sous-direction du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires :
+La sous-direction du développement et de la gestion des réseaux ferroviaires et des voies navigables :
 
-― planifie les grands projets de développement des infrastructures de transports ferroviaires ainsi que les projets de développement des infrastructures portuaires et de navigation intérieure relevant de l'Etat en relation avec le Commissariat général au développement durable ;
+― planifie les grands projets de développement des infrastructures de transports ferroviaires et des voies navigables relevant de l'Etat en relation avec le Commissariat général au développement durable ;
 
 ― définit, en liaison avec les maîtres d'ouvrage des réseaux d'infrastructures concernés, les modalités de financement de ces projets et précise la répartition des risques entre les intervenants ;
 
 ― programme et gère les opérations contractualisées d'infrastructures de transport ferroviaires hors Ile-de-France ;
 
-― oriente et contrôle la modernisation des réseaux ferroviaires et de navigation intérieure ;
+― oriente et contrôle la modernisation des réseaux ferroviaires et des voies navigables ;
 
 ― exerce la tutelle de Réseau ferré de France et de Voies navigables de France ;
 
@@ -24,4 +24,4 @@ Elle comprend :
 
 ― le bureau du réseau ferré national ;
 
-― le bureau des voies navigables et des infrastructures portuaires et fluviales.
+― le bureau des voies navigables.

@@ -4,7 +4,7 @@ La direction de la communication, outre le pôle des « correspondants communica
 
 ― le département « médias et suivi des opinions » ;
 
-― le département « communication interne et animation des réseaux » ;
+― le département « communication interne et  animation du réseau communication » ;
 
 ― le département « campagnes et événementiel » ;
 

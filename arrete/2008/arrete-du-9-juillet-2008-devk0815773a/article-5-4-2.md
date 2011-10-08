@@ -8,9 +8,7 @@ Elle assure le contrôle de gestion de ces budgets et fournit en particulier au 
 
 Elle est chargée également d'assurer un suivi et un contrôle interne de la régularité des procédures d'achat public dans les domaines de compétences de la direction générale des infrastructures, des transports et de la mer, sans préjudice des attributions dévolues au secrétariat général.
 
-Elle est chargée d'animer le management des services déconcentrés en charge du développement, de l'entretien et de l'exploitation du réseau routier national et des voies navigables et de gérer l'allocation des ressources affectées à ces services.
-
-Elle contribue à la gestion des emplois et des compétences des personnels chargés de l'exécution des programmes relevant de la responsabilité de la direction générale des infrastructures, des transports et de la mer et coordonne les réseaux métiers correspondants.
+Elle contribue à la gestion des emplois et des compétences des personnels chargés de l'exécution des programmes relevant de la responsabilité de la direction générale des infrastructures, des transports et de la mer.
 
 Elle exerce la tutelle de l'Agence de financement des infrastructures de transports de France.
 
@@ -24,6 +22,4 @@ Elle comprend :
 
 - le bureau de la gestion ;
 
-- le bureau des ressources humaines des services déconcentrés ;
-
-- le bureau de l'animation des services et de la qualité.
+- le bureau des ressources humaines des services déconcentrés.

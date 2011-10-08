@@ -8,8 +8,8 @@ Elle assure les fonctions de secrétaire et de rapporteur de la commission des c
 
 La sous-direction des statistique des transports comprend :
 
-― le bureau de la statistique des transports et des véhicules ;
+- le bureau des statistiques de la route et des véhicules ;
 
-― le bureau de la statistique d'entreprises et des prix du transport ;
+- le bureau des statistiques de la multimodalité ;
 
 ― le bureau des synthèses économiques et sociales sur les transports.

@@ -4,9 +4,9 @@ Le service du pilotage et de l'évolution des services comprend :
 
 ― la sous-direction de la modernisation ;
 
-― la sous-direction du pilotage des services des tutelles et des écoles ;
+- la sous-direction du pilotage et de la performance des services et des tutelles ;
 
-― la sous-direction de la conduite et de l'accompagnement du changement ;
+- la sous-direction de l'accompagnement du changement et de l'enseignement supérieur ;
 
 Lui sont par ailleurs rattachés deux services à compétence nationale :
 

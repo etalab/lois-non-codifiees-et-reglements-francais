@@ -1,7 +1,19 @@
 # Article 2.5.4
 
-Le département des relations sociales est chargé du suivi du climat social, du bon fonctionnement des instances paritaires, de la professionnalisation des acteurs du dialogue social et du suivi des interventions des syndicats du ministère.
+La sous-direction du recrutement et de la mobilité :
 
-Il assure le secrétariat du comité technique paritaire ministériel.
+- contribue à définir la politique de recrutement des personnels et la met en œuvre ;
 
-Il assure la rédaction des réponses aux divers courriers d'intervention dans le secteur de compétences de la direction.
+- coordonne les recrutements nécessaires à l'exercice, par les services du ministère, de leurs missions, le cas échéant dans le cadre d'engagements contractualisés conclus à cet effet avec les services ;
+
+- organise la politique d'affectation des personnels en premier poste ;
+
+- définit les postes à pourvoir en priorité et organise la mobilité des personnels.
+
+Elle comprend :
+
+- le bureau des recrutements par concours ;
+
+- le bureau des mobilités et des recrutements interministériels ;
+
+- le bureau de l'appui aux services pour les recrutements.

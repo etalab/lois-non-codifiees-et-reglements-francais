@@ -2,9 +2,9 @@
 
 La direction des services de transport comprend :
 
-― la sous-direction des services ferroviaires et des déplacements urbains ;
+― la sous-direction des transports ferroviaires et collectifs et des déplacements urbains ;
 
-― la sous-direction de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire ;
+― la sous-direction de la sécurité et de la régulation ferroviaires ;
 
 ― la sous-direction des ports et du transport fluvial ;
 
@@ -12,10 +12,10 @@ La direction des services de transport comprend :
 
 ― la sous-direction du travail et des affaires sociales ;
 
-― la mission sûreté-défense ;
+― le département de la sûreté dans les transports ;
 
 ― la mission intermodalité fret ;
 
-― l'Observatoire national de la délinquance dans les transports en commun.
+― le secrétariat général au tunnel sous la Manche.
 
-La direction des services de transport s'appuie, en tant que de besoin, sur les compétences de l'Etablissement public de sécurité ferroviaire, du service technique des remontées mécaniques et des transports guidés, de l'organisme de régulation ferroviaire, du service d'études techniques des routes, des autoroutes et du centre d'études sur les réseaux de transport et de l'urbanisme et du centre d'études techniques maritimes et fluviales.
+La direction des services de transport s'appuie, en tant que de besoin, sur les compétences de l'Etablissement public de sécurité ferroviaire, du service technique des remontées mécaniques et des transports guidés, de l'organisme de régulation ferroviaire, du service d'études sur les transports, les routes et leurs aménagements, du centre d'études sur les réseaux de transport et de l'urbanisme et du centre d'études techniques maritimes et fluviales.

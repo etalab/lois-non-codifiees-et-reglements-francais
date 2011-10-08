@@ -1,0 +1,5 @@
+# Article 2.5.13
+
+Le chef de service, qui assiste le directeur dans le domaine des ressources humaines, de la modernisation, de l'innovation et de la qualité, est chargé de la promotion de la parité et de l'égalité professionnelle entre les femmes et les hommes, et de l'égalité des chances pour l'accès aux emplois au sein du ministère, notamment en matière de concours et de recrutement. Il est responsable de la fonction de modernisation dans le domaine des ressources humaines. Il est chargé de la promotion de l'innovation et de la qualité dans les processus dont la direction est chargée. Il coordonne la mise en place du volet ressources humaines dans les réorganisations de services, veille au développement de la fonction ressources humaines en région, et coordonne la clarification des niveaux de gestion des ressources humaines.
+
+Le chef de service, qui assiste le directeur dans le domaine des questions sociales, assure une fonction générale de veille sociale. Il est chargé de la mise en place et de l'animation d'un dispositif d'information et d'alerte sociale et assure une fonction d'appui aux chefs de services déconcentrés en matière de dialogue social local.

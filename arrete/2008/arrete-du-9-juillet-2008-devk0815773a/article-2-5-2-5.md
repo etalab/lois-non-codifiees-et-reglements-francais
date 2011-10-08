@@ -1,3 +1,0 @@
-# Article 2.5.2.5
-
-La mission de pilotage des centres supports de gestion administrative et de paye est chargée de piloter l'organisation et la coordination de la gestion administrative et de la paye dans les centres supports mutualisés du ministère, en intégrant les dispositifs à mettre en place en interministériel, pour les personnels relevant de statuts gérés par d'autres ministères. Notamment, la mission pilote l'équipe chargée, pour le ministère, des différents chantiers relatifs à la mise en place de l'opérateur national de paye, sur les plans tant méthodologiques, organisationnels que techniques. A ce titre, son responsable représente le ministère auprès de l'opérateur national de paye.

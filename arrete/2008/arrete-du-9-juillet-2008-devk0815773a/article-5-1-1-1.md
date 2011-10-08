@@ -22,13 +22,13 @@ La sous-direction de la gestion du réseau autoroutier concédé exerce les attr
 
 ― assistance auprès de la direction de la sécurité routière pour ce qui concerne l'activité des concessionnaires relevant de son domaine de compétence ;
 
-― tutelle des établissements publics intervenant dans le secteur autoroutier concédé
+― tutelle des établissements publics intervenant dans le secteur autoroutier concédé ;
+
+- secrétariat de la délégation française aux commissions intergouvernementales des tunnels du Fréjus et du Mont-Blanc.
 
 Elle comprend :
 
 ― le bureau du suivi des contrats et de l'aménagement du réseau ;
-
-― le pôle des commissions intergouvernementales et d'appui juridique ;
 
 ― la division de la construction et du patrimoine ;
 

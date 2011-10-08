@@ -10,8 +10,6 @@ La direction générale des infrastructures, des transports et de la mer compren
 
 ― le service de l'administration générale et de la stratégie ;
 
-― le secrétariat général au tunnel sous la Manche ;
-
 ― des services techniques centraux :
 
 ― le centre d'études des tunnels ;

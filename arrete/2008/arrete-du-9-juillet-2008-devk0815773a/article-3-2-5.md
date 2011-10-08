@@ -1,6 +1,6 @@
 # Article 3.2.5
 
-La sous-direction des méthodes et données pour le développement durable traite du thème du développement durable dans sa globalité. Elle concourt à la mise en œuvre de la convention d'Aarhus et produit des indicateurs de développement durable. Elle assure des activités techniques nécessitant une coordination ou une centralisation forte et spécifique à la fonction statistique.A ce titre, elle assure la coordination du contenu des systèmes d'information, la collecte, la production, la mise à disposition des données, la mise au point de méthodes adaptées, l'assistance à la maîtrise d'ouvrage informatique et statistique et la diffusion.
+La sous-direction des méthodes et données pour le développement durable traite du thème du développement durable dans sa globalité. Elle produit des indicateurs de développement durable. Elle assure des activités techniques nécessitant une coordination ou une centralisation forte et spécifique à la fonction statistique.A ce titre, elle assure la coordination du contenu des systèmes d'information, la collecte, la production, la mise à disposition des données, la mise au point de méthodes adaptées, l'assistance à la maîtrise d'ouvrage informatique et statistique et la diffusion.
 
 Elle est un centre de ressources en matière de traitements statistiques et géographiques.
 

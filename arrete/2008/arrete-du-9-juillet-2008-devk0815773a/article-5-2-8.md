@@ -1,13 +1,7 @@
 # Article 5.2.8
 
-L'observatoire national de la délinquance dans les transports :
+Le secrétariat général au tunnel sous la Manche assiste la délégation française à la commission intergouvernementale créée par le traité entre la République française et le Royaume-Uni concernant la liaison fixe transmanche ; il assure, à ce titre, la préparation et l'exécution des décisions de la commission ainsi que le secrétariat du comité de sécurité créé par le traité.
 
-― apporte un appui technique pour toute question intéressant la prévention de la délinquance aux services et missions de la direction générale des infrastructures, des transports et de la mer et, en tant que de besoin, au service de défense, de sécurité et d'intelligence économique ;
+Le secrétariat général est chargé, en liaison avec les administrations concernées, du suivi et de la coordination des actions nécessaires à la construction et à l'exploitation de la liaison fixe transmanche. Il administre les moyens nécessaires au fonctionnement de la commission intergouvernementale, du comité de sécurité, et des autres organes de coordination nationaux ou binationaux contribuant aux travaux de la commission intergouvernementale.
 
-― veille à la prise en compte des risques propres à la délinquance dans la démarche globale de sûreté conduite par la direction générale des infrastructures, des transports et de la mer ;
-
-― apporte un appui aux autorités organisatrices et aux opérateurs de transports pour la réalisation de diagnostics et l'élaboration d'outils de suivi ;
-
-― participe à tous travaux intéressant l'ingénierie de la prévention de la délinquance dans les transports ;
-
-― recueille les données relatives aux faits de délinquance survenus dans les réseaux de transport et procède à l'analyse des évolutions.
+Le secrétariat général au tunnel sous la Manche est placé sous l'autorité du secrétaire général de la délégation française à la commission intergouvernementale.

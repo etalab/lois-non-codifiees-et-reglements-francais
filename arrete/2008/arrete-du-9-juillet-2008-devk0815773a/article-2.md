@@ -16,4 +16,6 @@ Le secrétariat général, outre le cabinet, comprend :
 
 ― le service des affaires financières ;
 
-― le service de défense, de sécurité et d'intelligence économique.
+― le service de défense, de sécurité et d'intelligence économique ;
+
+- la délégation aux cadres dirigeants.

@@ -14,9 +14,7 @@ Elle assure la coordination du suivi de la transposition des directives et du pr
 
 Elle comprend :
 
-― le bureau du droit pénal, de la protection juridique et de la déontologie ;
-
-― le bureau du droit privé ;
+- le bureau du droit pénal, du droit privé et de la déontologie ;
 
 ― le bureau du droit de la commande publique ;
 

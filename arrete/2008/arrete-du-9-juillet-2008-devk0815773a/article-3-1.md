@@ -12,6 +12,8 @@ La direction de la recherche et de l'innovation comprend :
 
 Elle est assistée d'un conseil scientifique.
 
+Le directeur de la recherche et de l'innovation est le secrétaire permanent du Conseil national de l'information géographique.
+
 Les secrétaires permanents des programmes interministériels de recherche et d'innovation coordonnés par le ministère sont placés, en tant que directeurs de projet, auprès du directeur de la direction de la recherche et de l'innovation.
 
 Le chargé de mission pour la coordination du programme Galileo est placé auprès du directeur de la direction de la recherche et de l'innovation.

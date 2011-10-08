@@ -22,14 +22,14 @@ La sous-direction des affaires financières et du contrôle de gestion est charg
 
 Elle comprend :
 
-― le bureau du pilotage budgétaire et de la performance ;
+- le bureau du pilotage budgétaire et de la performance ;
 
-― le bureau de l'exécution budgétaire et financière ;
+- le bureau de la performance de la dépense publique ;
 
-― le bureau de la qualité comptable et de l'analyse financière ;
+- le bureau de la qualité comptable et de l'analyse financière ;
 
-― le bureau des marchés et de la coordination de l'achat public ;
+- le bureau de la fiscalité ;
 
-― le bureau de la fiscalité ;
+- la mission du système d'information financier ;
 
-― la mission du système d'information financier.
+- la mission des achats.

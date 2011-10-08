@@ -1,13 +1,25 @@
 # Article 2.5.6
 
-La mission de la parité et de l'égalité professionnelle entre les femmes et les hommes a pour objectif de promouvoir et d'intégrer, dans tous les domaines d'activité du ministère, la parité et l'égalité professionnelle entre les femmes et les hommes. Elle :
+La sous-direction des politiques sociales, de la prévention et des pensions :
 
-― veille à la conformité des règles de gestion des corps, avec le principe d'égalité professionnelle au sein du ministère ;
+- est chargée des politiques sociales ;
 
-― définit des mesures incitatives visant à favoriser l'accès des femmes à l'encadrement ;
+- anime le service social du travail du ministère ;
 
-― suit la réalisation au sein du ministère des programmes interministériels relatifs à la parité et à l'égalité professionnelle ;
+- contribue à définir la politique d'action sociale et la politique de prestations spécifiques du ministère et les met en œuvre ;
 
-― apporte son concours à l'ensemble des services du ministère pour la mise en application de ces politiques ;
+- assure les relations avec les organismes associatifs, sociaux et mutualistes, prépare les conventions nationales et en suit la mise en œuvre ;
 
-― propose et accompagne la conduite des études, des actions de communication et des formations nécessaires à la prise en compte de ces politiques.
+- conduit l'action du ministère en matière de sécurité et de santé au travail, et de prévention des risques professionnels ;
+
+- conduit la politique du ministère en faveur du recrutement, de l'insertion, du reclassement et du maintien dans l'emploi des travailleurs handicapés ;
+
+- instruit les dossiers relatifs aux droits à pension des agents et participe à la mise en œuvre du droit à l'information sur les retraites.
+
+Elle comprend :
+
+- le bureau de la prévention, de la santé au travail, du service social et des travailleurs handicapés ;
+
+- le bureau des prestations d'action sociale ;
+
+- le bureau des pensions.

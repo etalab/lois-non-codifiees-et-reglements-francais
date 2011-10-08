@@ -10,6 +10,8 @@ Elle est chargée d'assurer un suivi et un contrôle interne de la régularité 
 
 Elle assure la maîtrise d'ouvrage des applications et outils informatiques correspondant aux activités et aux métiers dans le domaine de compétences du commissariat.
 
+Elle concourt à la mise en œuvre de la convention d'Aarhus.
+
 Elle s'assure du bon fonctionnement interne du commissariat et suit l'utilisation des moyens correspondants en relation avec le secrétariat général du ministère.
 
 En liaison avec les services du secrétariat général du ministère, elle prépare et exécute les budgets des programmes relevant de la responsabilité du commissariat, prépare les documents annuels de performance et est chargé d'organiser le dialogue de gestion avec les services et organismes relevant du commissariat.

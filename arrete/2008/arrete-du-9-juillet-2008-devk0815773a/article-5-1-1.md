@@ -2,9 +2,9 @@
 
 Le service de la gestion du réseau routier national exerce les attributions suivantes :
 
-― élaboration et mise en œuvre de la politique d'entretien, de viabilité, d'aménagement et de remise en état du réseau routier national ;
+- définition, planification et mise en œuvre de la stratégie d'évolution du réseau routier national ;
 
-― mise en œuvre de la politique d'évolution de ce réseau ;
+― élaboration et mise en œuvre de la politique d'entretien, de viabilité et de remise en état du réseau routier national ;
 
 ― mise en œuvre de la politique nationale de sécurité des infrastructures sur ce réseau et de la politique de lutte contre les nuisances sonores qui leur sont liées ;
 
@@ -18,6 +18,6 @@ Il comprend :
 
 ― la sous-direction de la gestion du réseau autoroutier concédé ;
 
-― la sous-direction de la construction et de la politique technique ;
+― la sous-direction de l'aménagement du réseau routier national ;
 
 ― la sous-direction de la gestion du réseau routier non concédé et du trafic.

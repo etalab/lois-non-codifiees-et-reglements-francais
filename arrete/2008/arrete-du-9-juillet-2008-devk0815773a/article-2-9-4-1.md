@@ -14,4 +14,6 @@ Il comprend :
 
 - la mission de protection des matières et des installations nucléaires ;
 
-- la mission de protection des transports nucléaires.
+- la mission de protection des transports nucléaires ;
+
+- la mission des relations internationales.

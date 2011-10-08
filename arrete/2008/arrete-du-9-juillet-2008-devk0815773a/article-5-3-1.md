@@ -12,7 +12,7 @@ La sous-direction de la sécurité maritime exerce les attributions suivantes :
 
 ― relations avec le bureau d'enquêtes sur les accidents en mer en cas d'événement en mer ;
 
-― suivi de l'activité du service à compétence nationale dénommé « Armement des phares et balises ».
+― suivi de l'activité du service à compétence nationale dénommé " Armement des phares et balises ".
 
 Elle comprend :
 
@@ -22,4 +22,6 @@ Elle comprend :
 
 ― le bureau du contrôle des navires au titre de l'Etat du port ;
 
-― le bureau des phares et balises.
+― le bureau des phares et balises ;
+
+- la mission sûreté des navires.

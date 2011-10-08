@@ -13,3 +13,5 @@ Le service de l'administration générale et de la stratégie comprend :
 ― la mission de la tarification ;
 
 ― la mission des Alpes et des Pyrénées.
+
+Le service de l'administration générale et de la stratégie s'appuie, en tant que de besoin, sur les compétences de l'Agence française pour l'information multimodale et la billettique.

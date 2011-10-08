@@ -10,8 +10,8 @@ Elle comprend :
 
 ― le bureau des affaires juridiques de la mer ;
 
-― le bureau des affaires juridiques de la route ;
+- le bureau des affaires juridiques des infrastructures de transport ;
 
-― le bureau du droit général des transports et de la législation économique ;
+- le bureau du droit général des transports, de la domanialité publique et de la législation économique ;
 
 ― le bureau des affaires juridiques de l'énergie.

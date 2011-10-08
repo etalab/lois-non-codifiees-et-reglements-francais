@@ -1,13 +1,25 @@
 # Article 5.1.6
 
-La mission d'audit du réseau routier national exerce, pour le compte du directeur des infrastructures de transport, les missions suivantes :
+La mission d'appui du réseau routier national exerce, pour le compte de la direction des infrastructures de transport, les missions suivantes :
 
-― conseil et contrôle extérieur sur les plans technique et déontologique de l'activité et de la production de la direction et des services déconcentrés concourent à la mise en œuvre du développement, de l'entretien et de l'exploitation du réseau routier national ;
+- contribution à la définition des actions visant à assurer la cohérence du réseau routier dans son ensemble ;
 
-― audit des systèmes de management de la qualité mis en place ;
+- coordination de l'élaboration de la politique technique routière ;
 
-― avis pour le directeur des infrastructures de transport concernant la conception et la réalisation des projets routiers ;
+- élaboration de la politique de la qualité et audit des systèmes de management de la qualité mis en place ;
 
-― inspections préalables à la mise en service des projets routiers ;
+- conseil et avis, aux plans technique et organisationnel, sur l'activité et la production de la direction et des services déconcentrés qui concourent à la mise en œuvre de l'aménagement, de l'entretien et de l'exploitation du réseau routier national ;
 
-― contribution à l'amélioration des règles de l'art et participation à leur évolution.
+- conseil et avis concernant la conception et la réalisation des aménagements du réseau routier national pour la direction des infrastructures de transport, la délégation à la sécurité routière, dans ses domaines de compétence, et les maîtres d'ouvrage déconcentrés ;
+
+- inspections préalables à la mise en service des projets d'investissement routier ;
+
+- relations avec le bureau d'enquête sur les accidents des transports terrestres pour les propositions de mesures concernant le réseau routier dans son ensemble ;
+
+- coordination de l'animation et du management des services déconcentrés en charge de l'aménagement, de l'entretien et de l'exploitation du réseau routier national.
+
+Elle comprend :
+
+- un pôle " animation des services et qualité, politique technique " ;
+
+- des pôles territoriaux.

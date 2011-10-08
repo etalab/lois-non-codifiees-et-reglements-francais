@@ -14,13 +14,15 @@ La sous-direction des transports routiers exerce les attributions suivantes :
 
 ― suivi de l'application des sanctions et de leur harmonisation ;
 
-― définition, en liaison avec la mission sûreté défense, des orientations relatives à la sûreté des transports routiers et proposition à cet effet des dispositions législatives, élaboration et mise en œuvre des réglementations, en lien avec la direction des affaires juridiques ;
+― définition, en liaison avec le département de la sûreté dans les transports, des orientations relatives à la sûreté des transports routiers et proposition à cet effet des dispositions législatives, élaboration et mise en œuvre des réglementations, en lien avec la direction des affaires juridiques ;
 
 ― suivi de la mise en œuvre et de la sécurité du système du chronotachygraphe électronique ;
 
 ― élaboration et suivi des accords bilatéraux en matière de transport routier ;
 
 ― délivrance et gestion des autorisations internationales de transport routier de voyageurs ;
+
+- détermination des règles relatives à la circulation des transports routiers.
 
 Elle comprend :
 
@@ -30,4 +32,6 @@ Elle comprend :
 
 ― le bureau de l'économie des transports routiers ;
 
-― le bureau de l'organisation et de l'animation du contrôle des transports routiers.
+― le bureau de l'organisation et de l'animation du contrôle des transports routiers ;
+
+- le bureau de la circulation des transports routiers.

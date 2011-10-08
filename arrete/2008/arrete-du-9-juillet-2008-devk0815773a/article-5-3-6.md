@@ -4,6 +4,8 @@ La mission de la navigation de plaisance et des loisirs nautiques exerce les att
 
 ― élaboration des règles relatives à la sécurité et à la prévention des pollutions des navires de plaisance en mer et des bateaux de plaisance en eaux intérieures ;
 
+- élaboration et mise en œuvre des règles relatives à l'application de la directive concernant le suivi des marchés ;
+
 ― instruction des dossiers d'approbation des navires soumis à la Commission nationale de sécurité de la navigation de plaisance et secrétariat de cette instance ;
 
 ― coordination entre le Conseil supérieur de la navigation de plaisance et des sports nautiques et les autres départements ministériels ;

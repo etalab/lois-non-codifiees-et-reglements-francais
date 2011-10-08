@@ -1,7 +1,7 @@
 # Article 5.1.7
 
-Le secrétariat de la planification multimodale exerce les attributions suivantes :
+La mission de coordination des affaires européennes et internationales exerce les attributions suivantes, en appui à la direction des affaires européennes et internationales :
 
-― élaboration du schéma national des infrastructures de transports dans ses volets routier, ferroviaire, portuaire et aéroportuaire ;
+- coordination des affaires européennes et internationales de la direction des infrastructures de transport ;
 
-― appui au Commissariat général au développement durable pour l'évaluation de ce schéma national des infrastructures.
+- coopération technique avec les administrations routières étrangères.

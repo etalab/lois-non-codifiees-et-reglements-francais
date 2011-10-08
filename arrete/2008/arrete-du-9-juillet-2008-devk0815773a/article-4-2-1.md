@@ -8,6 +8,8 @@ La sous-direction du climat et de la qualité de l'air :
 
 - élabore et propose la stratégie de gestion des actifs carbone de l'Etat et d'intervention sur les marchés carbone en cas de recours à des achats ou cessions de droits ou quotas d'émission ;
 
+- exerce les attributions attachées aux missions de l'autorité nationale désignée et du point focal désigné auprès de la convention-cadre des Nations unies sur les changements climatiques dans le cadre de la mise en œuvre des activités de projet relevant des articles 6 et 12 du protocole de Kyoto ;
+
 ― réalise des études et recherches sur les risques liés au réchauffement climatique et aux phénomènes extrêmes, et évalue leurs impacts sur l'économie et l'environnement ;
 
 ― en coordination avec la direction générale de la prévention des risques, connaît et évalue les pollutions et les nuisances atmosphériques créées par les installations fixes et les activités de transport et veille à leur prévention ; élabore la réglementation de la lutte contre la pollution atmosphérique et définit les conditions de surveillance de la qualité de l'air, de ses effets sur la santé et sur l'environnement ; veille à l'application de ces dispositions ;
