@@ -2,7 +2,7 @@
 
 Le secrétaire général assiste le ministre pour l'administration du ministère. A cette fin, il coordonne l'action de l'ensemble des services et participe à leur évaluation. Il leur alloue les moyens de leur activité. Il organise la préparation du budget et s'assure de son exécution. Il propose au ministre les arbitrages relatifs aux crédits du ministère. Il est l'ordonnateur principal délégué des crédits du ministère. Il conduit les réflexions stratégiques relatives à l'organisation et à l'administration du ministère, propose ses évolutions et met en œuvre la politique de modernisation. Il organise l'exercice de la tutelle des établissements publics nationaux et coordonne la relation du ministère avec ses services déconcentrés. Il élabore les principes généraux de gestion des ressources humaines, assure leur mise en œuvre et garantit le dialogue avec les personnels et leurs représentants. Il élabore la stratégie d'information et de communication interne et externe du ministère, la met en œuvre et évalue son efficacité. Il définit les modalités de traitement des questions juridiques et veille à leur mise en œuvre. Il propose au ministre la nomination des cadres dirigeants et experts de haut niveau. Il assure la préparation des nominations des représentants du ministère dans les différents organismes où il est représenté. Il assiste le ministre pour l'élaboration de la position du ministère dans les choix européens et internationaux. Il est responsable des missions de défense, de sécurité et d'intelligence économique du ministère. Il est assisté d'un adjoint, directeur.
 
-Le délégué à l'action foncière et immobilière et le délégué aux cadres dirigeants lui sont rattachés.
+Le délégué à l'action foncière et immobilière et la délégation aux cadres dirigeants lui sont rattachés.
 
 Le secrétaire général dirige les activités des directions et services suivants qui composent le secrétariat général :
 
@@ -52,15 +52,31 @@ Elle est l'interlocuteur du service d'information du Gouvernement pour la coordi
 
 Elle est responsable de la communication interne du ministère et veille à ce titre à répondre aux besoins d'information des agents sur l'ensemble des champs d'action du ministère.
 
-IV. ― La direction des ressources humaines élabore et met en œuvre la politique du personnel. Dans le cadre des orientations fixées par le service du pilotage et de l'évolution des services, elle élabore le schéma directeur de la politique de gestion prévisionnelle des effectifs, des emplois et des compétences et en conduit la mise en œuvre. Elle élabore le budget lié au personnel et en assure la mise en place. Elle conduit l'action du ministère en matière de conditions de travail.
+IV. - La direction des ressources humaines élabore et met en œuvre la politique ministérielle des ressources humaines.
 
-Dans le cadre des orientations fixées par le service du pilotage et de l'évolution des services, elle élabore le schéma directeur de la formation, le met en œuvre, anime et coordonne le parcours professionnel. Elle coordonne et anime les services en charge du développement professionnel et de la formation professionnelle, et oriente leur activité.
+Elle élabore le plan national de gestion prévisionnelle des effectifs, des emplois et des compétences et en conduit la mise en œuvre. Elle élabore le budget du personnel du ministère, en effectifs et en crédits, et en assure la mise en place.
 
-Elle est chargée de la politique sociale, des conditions matérielles et humaines de sa mise en œuvre et des relations sociales, notamment du dialogue avec les représentants des personnels et leurs organisations syndicales.
+Elle anime et coordonne les parcours professionnels.
 
-Elle assure la gestion administrative des personnels à l'exception de ceux gérés par la direction générale de l'aviation civile et de ceux faisant l'objet d'une gestion déconcentrée. Elle assure la gestion et la paye des agents de l'administration centrale. Elle élabore les statuts particuliers du personnel.
+Elle met en œuvre la politique de modernisation des statuts des personnels et élabore les statuts particuliers auxquels ils sont soumis, à l'exception des personnels gérés par la direction générale de l'aviation civile.
+
+Elle organise les recrutements et les mobilités des personnels.
+
+Elle élabore le plan national annuel de formation et le document d'orientation à moyen terme de la formation professionnelle, et les met en œuvre. Elle coordonne et anime les services en charge du développement des compétences et de la formation professionnelle, et oriente leur activité.
+
+Elle est chargée des politiques sociales. Elle conduit l'action du ministère en matière de conditions de travail, de sécurité et de santé au travail, et de prévention des risques professionnels. Elle conduit la politique d'emploi, pour le ministère, des travailleurs handicapés.
+
+Elle instruit les dossiers relatifs aux droits à pension des agents et concourt à la mise en œuvre du droit à l'information sur les retraites.
+
+Elle assure la gestion administrative et la paye des personnels, à l'exception de ceux qui sont gérés par la direction générale de l'aviation civile et de ceux ne relevant pas du périmètre de l'administration centrale et dont la gestion ou la paye est déconcentrée.
+
+Elle définit et anime la mise en œuvre, dans les services, de la politique de rémunération des personnels.
+
+Elle est chargée des relations sociales et anime le dialogue social national.
 
 Elle assure la coordination des entités chargées de la gestion de proximité dans les directions générales.
+
+Elle promeut la parité et l'égalité professionnelle entre les femmes et les hommes et l'égalité des chances pour l'accès aux emplois au sein du ministère.
 
 V. ― Le service du pilotage et de l'évolution des services élabore la stratégie de modernisation, d'évolution et d'organisation de l'ensemble des services du ministère, et coordonne sa mise en œuvre.
 
@@ -92,11 +108,11 @@ Il assure la tutelle de :
 
 Il oriente l'activité de l'Ecole nationale des techniciens de l'équipement.
 
-Il assiste le secrétaire général pour la gestion personnalisée des cadres dirigeants et des experts de haut niveau. Il élabore la politique d'accompagnement et de rénovation des pratiques managériales.
+Il élabore la politique d'accompagnement et de rénovation des pratiques managériales.
 
 Il établit et propose la politique immobilière, foncière et patrimoniale du ministère et coordonne sa mise en œuvre.
 
-VI. ― Le service des politiques support et des systèmes d'information élabore la politique des moyens de fonctionnement, veille à sa mise en œuvre et gère les moyens budgétaires des fonctions « support » du ministère. Il met en œuvre la politique immobilière du ministère. Il anime et coordonne la politique des achats généraux du ministère de manière écoresponsable. Il élabore la politique documentaire et d'archivage dans les services.
+VI. ― Le service des politiques support et des systèmes d'information élabore la politique des moyens de fonctionnement, veille à sa mise en œuvre et gère les moyens budgétaires des fonctions  support  du ministère. Il met en œuvre la politique immobilière du ministère. Il anime et coordonne la politique des achats généraux du ministère de manière écoresponsable. Il élabore la politique documentaire et d'archivage dans les services.
 
 Dans le cadre des orientations fixées par le service du pilotage et de l'évolution des services, il élabore le schéma directeur des systèmes d'information du ministère, y compris les systèmes d'information géographiques et en conduit la mise en œuvre. Il veille à la qualité et à la cohérence des systèmes d'information. Il oriente et coordonne les activités des services informatiques du réseau scientifique et technique du ministère.
 

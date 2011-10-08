@@ -34,9 +34,7 @@ Elle assure la tutelle, pour le compte du ministre chargé des transports :
 
 ― de Météo-France ;
 
-― de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
-
-― de l'Institut national de recherche sur les transports et leur sécurité.
+― de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
 
 II. ― Le service de l'observation et des statistiques est chargé de la mobilisation des données et de la maîtrise d'ouvrage des systèmes d'information associés pour élaborer et animer la stratégie générale du ministère. Il organise le système d'observation socio-économique et statistique en matière d'environnement et de développement durable, en liaison avec les institutions nationales, européennes et internationales intéressées. Il recueille, élabore et diffuse l'information statistique concernant les domaines de compétences du ministère, et ceux du ministère chargé du logement. Il définit les indicateurs du développement durable pour les politiques publiques et élabore ceux du ministère.
 

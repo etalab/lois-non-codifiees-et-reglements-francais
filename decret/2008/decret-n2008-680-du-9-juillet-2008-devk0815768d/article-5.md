@@ -14,9 +14,7 @@ La direction générale des infrastructures, des transports et de la mer compren
 
 ― la direction des services de transport ;
 
-― la direction des affaires maritimes ;
-
-― le secrétariat général au tunnel sous la Manche.
+― la direction des affaires maritimes.
 
 I. ― La direction des infrastructures de transport planifie, dans un souci de limitation des nuisances et d'économie de l'espace, les grands projets de développement des infrastructures de transports routier, ferroviaire et de navigation intérieure, ainsi que les grands projets des ports intérieurs et maritimes et de plates-formes aéroportuaires nationales. Elle élabore un schéma national des infrastructures de transports qui comprend également les aéroports.
 
@@ -26,7 +24,7 @@ Elle veille à la cohérence du réseau routier dans son ensemble. Sous réserve
 
 Elle élabore les contrats de concessions d'autoroutes et en assure le contrôle du respect.
 
-Elle oriente et contrôle la modernisation des réseaux ferroviaires et de navigation intérieure, traite des questions intéressant les infrastructures des ports intérieurs et maritimes relevant de l'Etat.
+Elle oriente et contrôle la modernisation des réseaux ferroviaires et de navigation intérieure.
 
 Elle participe à la lutte contre les nuisances sonores liées aux infrastructures.
 
@@ -38,13 +36,11 @@ Elle exerce, pour le compte du ministre chargé des transports, la tutelle :
 
 ― de Voies navigables de France ;
 
-― de la Caisse nationale des autoroutes ;
-
-― d'Autoroutes de France.
+― de la Caisse nationale des autoroutes.
 
 II. ― La direction des services de transport élabore et met en œuvre les orientations de la politique des transports maritimes, routiers, fluviaux, ferroviaires et des transports collectifs de voyageurs ainsi que les orientations de la politique des déplacements et des transports multimodaux de voyageurs et de marchandises.
 
-Elle élabore les orientations de la politique relative aux ports.
+Elle élabore les orientations de la politique relative aux ports et traite des questions intéressant les infrastructures des ports intérieurs et maritimes relevant de l'Etat.
 
 Elle définit et anime la politique relative à la réglementation du travail, aux conditions de travail, à la formation professionnelle, à l'emploi et à la protection sociale dans les transports terrestres.
 
@@ -54,6 +50,8 @@ Elle exerce, les attributions du ministre en matière de réglementation et de r
 
 Elle exerce les attributions du ministre en matière de réglementation et régulation économique des infrastructures ferroviaires et de navigation intérieure, des ports maritimes et intérieurs et des services de transport de marchandises et de personnes.
 
+Elle exerce les compétences de l'Etat en qualité d'autorité organisatrice des transports nationaux ferroviaires de voyageurs.
+
 Elle élabore et met en œuvre, en liaison avec l'Etablissement public de sécurité ferroviaire, les dispositifs législatifs et réglementaires relatifs, respectivement, à la sécurité et à la sûreté des infrastructures et des services de transports ferroviaires, des remontées mécaniques et des transports guidés et, dans le respect des compétences de l'Etablissement public de sécurité ferroviaire, veille à leur respect.
 
 Elle exerce, pour le compte du ministre chargé des transports et des ports maritimes, la tutelle :
@@ -62,7 +60,7 @@ Elle exerce, pour le compte du ministre chargé des transports et des ports mari
 
 ― de la Régie autonome des transports parisiens ;
 
-― des ports autonomes de Bordeaux, Dunkerque, Le Havre, La Rochelle, Marseille, Nantes - Saint-Nazaire, Paris, Rouen, Strasbourg et de la Guadeloupe ;
+- des grands ports maritimes de Bordeaux, Dunkerque, Le Havre, La Rochelle, Marseille, Nantes-Saint-Nazaire et Rouen et des ports autonomes de Paris, Strasbourg et de la Guadeloupe ;
 
 ― de la Chambre nationale de la batellerie artisanale ;
 
@@ -88,8 +86,8 @@ Elle assure la maîtrise d'ouvrage des projets informatiques nationaux et intern
 
 Elle exerce, pour le compte du ministre chargé de la mer, la tutelle :
 
-― de l'Etablissement national des invalides de la marine ;
+- de l'Etablissement national des invalides de la marine ;
 
-― des écoles nationales de la marine marchande ;
+- de l'Ecole nationale supérieure maritime ;
 
-― des lycées professionnels maritimes.
+- des lycées professionnels maritimes.
