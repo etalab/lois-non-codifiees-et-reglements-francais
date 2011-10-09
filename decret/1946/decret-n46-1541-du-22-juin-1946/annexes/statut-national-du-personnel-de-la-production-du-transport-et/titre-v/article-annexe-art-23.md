@@ -232,7 +232,7 @@ Les dispositions des articles R. 142-1, R. 142-3 à R. 142-6 du code de la sécu
 
 H. - Abrogé.
 
-J.-Le directeur de la caisse d'assurance maladie des industries électriques et gazières est nommé pour un mandat de six ans. Ce mandat n'est pas renouvelable.
+J.-Le directeur de la caisse d'assurance maladie des industries électriques et gazières est nommé pour un mandat de six ans.
 
 Il est nommé, parmi les personnes remplissant l'une des conditions suivantes :
 
