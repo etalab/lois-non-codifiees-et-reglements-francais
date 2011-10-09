@@ -108,7 +108,6 @@
 - [Arrêté du 12 février 2006 (BUDD0570028A)](arrete-du-12-fevrier-2006-budd0570028a)
 - [Arrêté du 12 juillet 2006 (DEFA0600958A)](arrete-du-12-juillet-2006-defa0600958a)
 - [Arrêté du 12 juillet 2006 (DEFA0600959A)](arrete-du-12-juillet-2006-defa0600959a)
-- [Arrêté du 12 juillet 2006 (EQUA0601488A)](arrete-du-12-juillet-2006-equa0601488a)
 - [Arrêté du 12 juin 2006 (DEFD0600709A)](arrete-du-12-juin-2006-defd0600709a)
 - [Arrêté du 12 octobre 2006 (JUSK0640193A)](arrete-du-12-octobre-2006-jusk0640193a)
 - [Arrêté du 12 octobre 2006 (JUSK0640194A)](arrete-du-12-octobre-2006-jusk0640194a)
