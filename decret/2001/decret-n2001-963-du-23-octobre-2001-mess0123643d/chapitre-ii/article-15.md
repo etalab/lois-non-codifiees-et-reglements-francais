@@ -2,7 +2,7 @@
 
 I. - La demande d'indemnisation est présentée au fonds au moyen d'un formulaire conforme au modèle approuvé par le conseil d'administration ; elle est accompagnée des pièces justificatives qui y sont précisées, notamment d'un certificat médical attestant la maladie et de tous documents de nature à établir la réalité de l'exposition à l'amiante.
 
-Toutefois, lorsque la maladie en conséquence de laquelle est présentée la demande d'indemnisation figure sur la liste établie en application de la deuxième phrase du quatrième alinéa du III de l'article 53 de la loi du 23 décembre 2000 susvisée, le demandeur est dispensé de produire les documents établissant l'exposition à l'amiante et présente seulement un certificat médical attestant cette maladie, établi par un médecin spécialiste ou compétent en pneumologie ou en oncologie.
+Toutefois, lorsque la maladie en conséquence de laquelle est présentée la demande d'indemnisation figure sur la liste établie en application de la deuxième phrase du quatrième alinéa du III de l'article 53 de la loi du 23 décembre 2000 susvisée, le demandeur est dispensé de produire les documents établissant l'exposition à l'amiante et présente seulement un certificat médical attestant cette maladie.
 
 II. - Le demandeur précise si le préjudice est susceptible ou non d'avoir une origine professionnelle et, dans l'affirmative, produit, en sus des pièces justificatives prévues au I ci-dessus, un certificat médical attestant le lien possible entre l'affection et l'activité professionnelle.
 

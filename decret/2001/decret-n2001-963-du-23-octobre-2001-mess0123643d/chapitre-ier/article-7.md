@@ -8,9 +8,9 @@ La commission comprend, outre le président nommé par arrêté conjoint du mini
 
 1° Deux personnes ayant des connaissances particulières dans l'appréciation du risque lié à l'exposition à l'amiante ;
 
-2° Deux médecins spécialistes ou compétents en pneumologie ou en médecine du travail possédant des connaissances particulières dans le domaine des pneumoconioses.
+2° Deux professeurs des universités-praticiens hospitaliers ou praticiens hospitaliers justifiant d'une expérience professionnelle dans le domaine des pathologies liées à l'amiante.
 
-Les membres de la commission ont, chacun, un suppléant désigné dans les mêmes conditions que le titulaire.
+Les membres de la commission ont, chacun, deux suppléants désignés dans les mêmes conditions que le titulaire.
 
 Les membres de la commission sont nommés par le conseil d'administration pour une période de trois ans renouvelables. En cas de vacance, un remplaçant est nommé dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à courir.
 
