@@ -7,214 +7,223 @@ Préfectures
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="371">
-<p align="center">LOCALISATION</p>
+<th colspan="2">
+<br/>LOCALISATION<br/>
+</th>
+<th>
+<br/>FONCTIONS<br/>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>06<br/>
 </td>
-<td width="222">
-<p align="center">SERVICE</p>
+<td align="center">
+<br/>Préfecture des Alpes-Maritimes<br/>
 </td>
-<td width="87">
-<p align="center">NOMBRE d'emplois</p>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">06</p>
+<td align="center">
+<br/>13<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture des Alpes-Maritimes</p>
+<td align="center">
+<br/>Préfecture des Bouches-du-Rhône<br/>
 </td>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
+<td align="center">
+<br/>Chef du garage<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="94">
-<p align="center">13</p>
-</td>
-<td rowspan="2" valign="top" width="277">
-<p>Préfecture des Bouches-du-Rhône</p>
-</td>
-<td valign="top" width="222">
-<p>Chef du garage</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="94">
-<p align="center">21</p>
-</td>
-<td valign="top" width="277">
-<p>Préfecture de la Côte-d'Or</p>
-</td>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">33</p>
+<td align="center">
+<br/>21<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture de la Gironde</p>
+<td align="center">
+<br/>Préfecture de la Côte-d'Or<br/>
 </td>
-<td valign="top" width="222">
-<p>Chef de l'équipe logistique</p>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="94">
-<p align="center">59</p>
-</td>
-<td rowspan="2" valign="top" width="277">
-<p>Préfecture du Nord</p>
-</td>
-<td valign="top" width="222">
-<p>Chef du garage</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="222">
-<p>Maître d'hôtel de la résidence du préfet</p>
+<td align="center">
+<br/>33<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>Préfecture de la Gironde<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="94">
-<p align="center">67</p>
+<td align="center">
+<br/>Chef de l'équipe logistique<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture du Bas-Rhin</p>
-</td>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="94">
-<p align="center">69</p>
+<td align="center">
+<br/>59<br/>
 </td>
-<td rowspan="2" valign="top" width="277">
-<p>Préfecture du Rhône</p>
+<td align="center">
+<br/>Préfecture du Nord<br/>
 </td>
-<td valign="top" width="222">
-<p>Chef du garage</p>
+<td align="center">
+<br/>Chef du garage<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="222">
-<p>Maître d'hôtel de la résidence du préfet</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">75</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Maître d'hôtel de la résidence du préfet<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture de la région Ile-de-France</p>
-</td>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">81</p>
+<td align="center">
+<br/>67<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture du Tarn</p>
+<td align="center">
+<br/>Préfecture du Bas-Rhin<br/>
 </td>
-<td valign="top" width="222">
-<p>Adjoint au chef du service intérieur</p>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="94">
-<p align="center">87</p>
-</td>
-<td valign="top" width="277">
-<p>Préfecture de la Haute-Vienne</p>
-</td>
-<td valign="top" width="222">
-<p>Chef de l'équipe du service intérieur</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="94">
-<p align="center">93</p>
+<td align="center">
+<br/>69<br/>
 </td>
-<td rowspan="2" valign="top" width="277">
-<p>Préfecture de la Seine-Saint-Denis</p>
+<td align="center">
+<br/>Préfecture du Rhône<br/>
 </td>
-<td valign="top" width="222">
-<p>Chef de l'équipe du service intérieur</p>
+<td align="center">
+<br/>Chef du garage<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="222">
-<p>Chef du garage</p>
-</td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">974</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Maître d'hôtel de la résidence du préfet<br/>
 </td>
-<td valign="top" width="277">
-<p>Préfecture de la Réunion</p>
+<td align="center">
+<br/>1<br/>
 </td>
-<td valign="top" width="222">
-<p>Intendant de la résidence du préfet</p>
+</tr>
+<tr>
+<td align="center">
+<br/>75<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>Préfecture de la région Ile-de-France<br/>
+</td>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>81<br/>
+</td>
+<td align="center">
+<br/>Préfecture du Tarn<br/>
+</td>
+<td align="center">
+<br/>Adjoint au chef du service intérieur<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>87<br/>
+</td>
+<td align="center">
+<br/>Préfecture de la Haute-Vienne<br/>
+</td>
+<td align="center">
+<br/>Chef de l'équipe du service intérieur<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>93<br/>
+</td>
+<td align="center">
+<br/>Préfecture de la Seine-Saint-Denis<br/>
+</td>
+<td align="center">
+<br/>Chef de l'équipe du service intérieur<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Chef du garage<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>974<br/>
+</td>
+<td align="center">
+<br/>Préfecture de La Réunion<br/>
+</td>
+<td align="center">
+<br/>Intendant de la résidence du préfet<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
@@ -225,91 +234,111 @@ Secrétariats généraux pour l'administration de la police (SGAP)
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="371">
-<p align="center">LOCALISATION</p>
+<th colspan="2">
+<br/>LOCALISATION<br/>
+</th>
+<th>
+<br/>FONCTIONS<br/>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>06<br/>
 </td>
-<td width="221">
-<p align="center">SERVICE</p>
+<td align="center">
+<br/>SGAP de la zone de défense Sud<br/>
 </td>
-<td width="88">
-<p align="center">NOMBRE d'emplois</p>
+<td align="center">
+<br/>Adjoint au chef de l'atelier du BMM (Nice)<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="98">
-<p align="center">06</p>
+<td align="center">
+<br/>13<br/>
 </td>
-<td rowspan="3" valign="top" width="273">
-<p>SGAP de la zone de défense Sud</p>
+<td align="center"/>
+<td align="center">
+<br/>Adjoint au chef de l'atelier mécanique (Marseille)<br/>
 </td>
-<td valign="top" width="221">
-<p>Adjoint au chef de l'atelier du BMM (Nice)</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="98">
-<p align="center">13</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Chef de l'atelier carrosserie-peinture (Marseille)<br/>
 </td>
-<td valign="top" width="221">
-<p>Adjoint au chef de l'atelier mécanique (Marseille)</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="221">
-<p>Chef de l'atelier carrosserie-peinture (Marseille)</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="98">
-<p align="center">77</p>
+<td align="center">
+<br/>34<br/>
 </td>
-<td rowspan="4" valign="top" width="273">
-<p>SGAP de Versailles</p>
+<td align="center"/>
+<td align="center">
+<br/>Responsable de l'atelier mécanique (Montpellier)<br/>
 </td>
-<td valign="top" width="221">
-<p>Adjoint au chef de l'atelier avancé de Melun</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="98">
-<p align="center">78</p>
+<td align="center">
+<br/>77<br/>
 </td>
-<td valign="top" width="221">
-<p>Adjoint au chef de la section "Deux-roues" à l'atelier du Chesnay</p>
+<td align="center">
+<br/>SGAP de Versailles<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>Adjoint au chef de l'atelier avancé de Melun<br/>
 </td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="98">
-<p align="center">95</p>
-</td>
-<td valign="top" width="221">
-<p>Adjoint au chef de l'équipe "Mécanique générale" à l'atelier du Chesnay</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="221">
-<p>Adjoint au chef de l'atelier avancé de Taverny</p>
+<td align="center">
+<br/>78<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center"/>
+<td align="center">
+<br/>Adjoint au chef de la section "deux roues" à l'atelier du Chesnay<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Adjoint au chef de l'équipe "mécanique générale" à l'atelier du Chesnay<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>95<br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>Adjoint au chef de l'atelier avancé de Taverny<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
@@ -320,28 +349,29 @@ Formations administratives de la gendarmerie nationale
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="371">
-<p align="center">LOCALISATION</p>
-</td>
-<td width="222">
-<p align="center">SERVICE</p>
-</td>
-<td width="87">
-<p align="center">NOMBRE d'emplois</p>
-</td>
+<th colspan="2">
+<br/>LOCALISATION<br/>
+</th>
+<th>
+<br/>FONCTIONS<br/>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois<br/>
+</p>
+</th>
 </tr>
 <tr>
-<td valign="top" width="94">
-<p align="center">29</p>
+<td align="center">
+<br/>29<br/>
 </td>
-<td valign="top" width="277">
-<p>Ecole de gendarmerie de Châteaulin</p>
+<td align="center">
+<br/>Ecole de gendarmerie de Châteaulin<br/>
 </td>
-<td valign="top" width="222">
-<p>Cuisinier</p>
+<td align="center">
+<br/>Cuisinier<br/>
 </td>
-<td valign="top" width="87">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
@@ -352,100 +382,105 @@ Services de l'administration centrale
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="371">
-<p align="center">LOCALISATION</p>
+<th colspan="2">
+<br/>LOCALISATION<br/>
+</th>
+<th>
+<br/>FONCTIONS<br/>
+</th>
+<th>
+<br/>NOMBRE <p>d'emplois<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>57<br/>
 </td>
-<td width="221">
-<p align="center">SERVICE</p>
+<td align="center">
+<br/>Direction de la sécurité civile<br/>
 </td>
-<td width="88">
-<p align="center">NOMBRE d'emplois</p>
+<td align="center">
+<br/>Chef démineur (CID, Metz)<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="98">
-<p align="center">57</p>
+<td align="center">
+<br/>75<br/>
 </td>
-<td valign="top" width="273">
-<p>Direction générale de la sécurité civile et de la gestion des crises</p>
+<td align="center">
+<br/>Direction de la programmation, des affaires financières et de l'immobilier<br/>
 </td>
-<td valign="top" width="221">
-<p>Chef démineur (CID, Metz)</p>
+<td align="center">
+<br/>Chef de la section "imprimerie reprographie" au BBFAC<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="98">
-<p align="center">75</p>
-</td>
-<td rowspan="2" valign="top" width="273">
-<p>Direction de la programmation, des affaires financières et de l'immobilier</p>
-</td>
-<td valign="top" width="221">
-<p>Chef de la section "Imprimerie reprographie" au BBFAC</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="221">
-<p>Responsable du pôle "Manutention" au BAIAC</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Responsable du pôle "manutention" au BAIAC<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="98">
-<p align="center">75</p>
-</td>
-<td rowspan="2" valign="top" width="273">
-<p>Préfecture de police</p>
-</td>
-<td valign="top" width="221">
-<p>Adjoint opérationnel au responsable du magasin de la DOSTL</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="221">
-<p>Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier Nord (DOSTL)</p>
+<td align="center">
+<br/>75<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>Préfecture de police<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="98">
-<p align="center">87</p>
+<td align="center">
+<br/>Adjoint opérationnel au responsable du magasin de la DOSTL<br/>
 </td>
-<td valign="top" width="273">
-<p>Direction des systèmes d'information et de communication</p>
-</td>
-<td valign="top" width="221">
-<p>Adjoint au responsable de la cellule exploitation de la SDES (CNPT, Limoges)</p>
-</td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="98">
-<p align="center">87</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center">
+<br/>Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier nord (DOSTL)<br/>
 </td>
-<td valign="top" width="273">
-<p>Direction générale de la police nationale</p>
+<td align="center">
+<br/>1<br/>
 </td>
-<td valign="top" width="221">
-<p>Responsable de la gestion des matériels à l'ECLPN (Limoges)</p>
+</tr>
+<tr>
+<td align="center">
+<br/>87<br/>
 </td>
-<td valign="top" width="88">
-<p align="center">1</p>
+<td align="center">
+<br/>Direction des systèmes d'information et de communication<br/>
+</td>
+<td align="center">
+<br/>Adjoint au responsable de la cellule exploitation de la SDES (CNPT, Limoges)<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>87<br/>
+</td>
+<td align="center">
+<br/>Direction générale de la police nationale<br/>
+</td>
+<td align="center">
+<br/>Responsable de la gestion des matériels à l'ECLPN (Limoges)<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
