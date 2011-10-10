@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation à l'article 22 du décret du 9 mai 1995 susvisé, les candidats des spécialités du brevet de technicien supérieur concernées par l'article 1er du présent décret ayant préparé le brevet de technicien supérieur par la voie scolaire dans un établissement public ou privé sous contrat, par la voie de la formation professionnelle continue dans un établissement public habilité ou bien par la voie de l'apprentissage dans un centre de formation d'apprentis habilité ou une section d'apprentissage habilitée passent l'examen sous la forme d'au moins une épreuve ponctuelle et d'épreuves validées totalement ou partiellement par contrôle en cours de formation.
