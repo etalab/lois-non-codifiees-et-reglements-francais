@@ -26,6 +26,8 @@ Secrétaires administratifs relevant des ministres chargés de l'économie et du
 
 Secrétaires administratifs relevant du ministre chargé de l'agriculture.
 
+Secrétaires administratifs du ministère de la justice.
+
 Secrétaires administratifs du Conseil d'Etat et de la Cour nationale du droit d'asile.
 
 Secrétaires administratifs relevant des ministres chargés des affaires sociales.

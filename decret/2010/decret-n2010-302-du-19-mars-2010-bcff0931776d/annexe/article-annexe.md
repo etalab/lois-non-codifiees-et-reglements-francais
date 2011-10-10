@@ -18,4 +18,6 @@ Secrétaires administratifs relevant du ministre chargé de l'agriculture.
 
 Secrétaires administratifs du ministère de la défense.
 
+Secrétaires administratifs du ministère de la justice.
+
 Secrétaires administratifs des services du Premier ministre.

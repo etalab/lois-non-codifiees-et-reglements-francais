@@ -25,5 +25,3 @@ Techniciens des services culturels et des Bâtiments de France.
 Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
 
 Secrétaires de protection de l'Office de protection des réfugiés et apatrides.
-
-Secrétaires administratifs du ministère de la justice.

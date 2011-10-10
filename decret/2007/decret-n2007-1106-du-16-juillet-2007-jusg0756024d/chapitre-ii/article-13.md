@@ -1,3 +1,0 @@
-# Article 13
-
-Les tableaux d'avancement établis au titre de l'année 2009 pour l'accès aux grades de secrétaire administratif de classe exceptionnelle et de secrétaire administratif de classe supérieure des corps de secrétaires administratifs d'administration centrale relevant du ministère de la justice et de la grande chancellerie de la Légion d'honneur, de secrétaires administratifs de la protection judiciaire de la jeunesse, de secrétaires d'administration et d'intendance des services déconcentrés de l'administration pénitentiaire demeurent valables jusqu'au 31 décembre 2009, au titre du corps des secrétaires administratifs du ministère de la justice.
