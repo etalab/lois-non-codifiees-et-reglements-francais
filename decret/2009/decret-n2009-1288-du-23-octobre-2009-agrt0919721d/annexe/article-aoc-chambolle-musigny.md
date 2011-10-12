@@ -1,0 +1,607 @@
+# Article AOC " Chambolle-Musigny "
+
+CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE CHAMBOLLE-MUSIGNY
+
+Chapitre Ier
+
+I. - Nom de l'appellation
+
+Seuls peuvent prétendre à l'appellation d'origine contrôlée Chambolle-Musigny , initialement reconnue par le décret du 11 septembre 1936, les vins répondant aux dispositions particulières fixées ci-après.
+
+II. - Dénominations géographiques et mentions complémentaires
+
+Le nom de l'appellation peut être complété d'un nom de climat d'origine ou de la mention premier cru ou de l'un et de l'autre pour les vins répondant aux conditions de production fixées pour ces mentions dans le présent cahier des charges.
+
+III. - Couleur et types de produit
+
+L'appellation d'origine contrôlée Chambolle-Musigny est réservée aux vins tranquilles rouges.
+
+IV. - Aires et zones dans lesquelles différentes opérations sont réalisées
+
+1° Aire géographique :
+
+La récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Chambolle-Musigny dans le département de la Côte-d'Or.
+
+2° Aire parcellaire délimitée :
+
+a) Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent du 4 et 5 novembre 1997.
+
+L'Institut national de l'origine et de la qualité dépose auprès de la mairie de la commune mentionnée au 1° les documents graphiques établissant les limites parcellaires de l'aire de production ainsi approuvées.
+
+b) Pour pouvoir adjoindre la mention premier cru, les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production particulière telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent des 1er et 2 juin 1988.L'Institut national de l'origine et de la qualité dépose auprès de la mairie de la commune mentionnée au 1° les documents graphiques établissant les limites parcellaires de l'aire de production ainsi approuvées. La liste des climats classés en premier cru figure dans la liste ci-dessous :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>COMMUNE </th>
+<th>
+<br/>NOM DE CLIMAT </th>
+<th>
+<br/>LIEUDIT </th>
+</tr>
+<tr>
+<td align="center">
+<br/>CHAMBOLLE-MUSIGNY </td>
+<td align="center">
+<br/>Les Véroilles </td>
+<td align="center">
+<br/>Les Véroilles (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Sentiers </td>
+<td align="center">
+<br/>Les Sentiers </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Baudes </td>
+<td align="center">
+<br/>Les Baudes </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Noirots </td>
+<td align="center">
+<br/>Les Noirots </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Lavrottes </td>
+<td align="center">
+<br/>Les Lavrottes </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Fuées </td>
+<td align="center">
+<br/>Les Fuées (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Aux Beaux Bruns </td>
+<td align="center">
+<br/>Aux Beaux Bruns (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Aux Echanges </td>
+<td align="center">
+<br/>Aux Echanges (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Charmes </td>
+<td align="center">
+<br/>Les Charmes </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Plantes </td>
+<td align="center">
+<br/>Les Plantes </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Aux Combottes </td>
+<td align="center">
+<br/>Aux Combottes (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Derrière la Grange </td>
+<td align="center">
+<br/>Derrière la Grange </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Gruenchers </td>
+<td align="center">
+<br/>Les Gruenchers (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Groseilles </td>
+<td align="center">
+<br/>Les Groseilles (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Combottes </td>
+<td align="center">
+<br/>Les Combottes (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Feusselottes (ou Les Feusselotes) </td>
+<td align="center">
+<br/>Les Grands Murs </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Feusselottes (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Feusselotes (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Chatelots </td>
+<td align="center">
+<br/>Les Chatelots </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Cras </td>
+<td align="center">
+<br/>Les Cras (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Carrières </td>
+<td align="center">
+<br/>Les Carrières (en partie) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Chabiots </td>
+<td align="center">
+<br/>Les Chabiots </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Amoureuses </td>
+<td align="center">
+<br/>Les Amoureuses </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Borniques </td>
+<td align="center">
+<br/>Les Borniques </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Les Hauts Doix </td>
+<td align="center">
+<br/>Les Hauts Doix </td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>La Combe d'Orveau </td>
+<td align="center">
+<br/>La Combe d'Orveau (en partie) </td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+<br/>
+<br/>c) Les vins issus des vignes situées dans l'aire parcellaire délimitée de l'appellation d'origine contrôlée Musigny peuvent également prétendre à l'appellation d'origine contrôlée Chambolle-Musigny complétée de la mention premier cru sans nom du climat d'origine. <p>3° Aire de proximité immédiate : <br/>L'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins, est constituée par le territoire des communes suivantes : </p>
+<p>Département de la Côte-d'Or </p>
+<p>Agencourt, Aloxe-Corton, Ancey, Arcenant, Argilly, Autricourt, Auxey-Duresses, Baubigny, Beaune, Belan-sur-Ource, Bévy, Bissey-la-Côte, Bligny-lès-Beaune, Boncourt-le-Bois, Bouix, Bouze-lès-Beaune, Brion-sur-Ource, Brochon, Cérilly, Chambœuf, Channay, Charrey-sur-Seine, Chassagne-Montrachet, Châtillon-sur-Seine, Chaumont-le-Bois, Chaux, Chenôve, Chevannes, Chorey-lès-Beaune, Clémencey, Collonges-lès-Bévy, Combertault, Comblanchien, Corcelles-les-Arts, Corcelles-les-Monts, Corgoloin, Cormot-le-Grand, Corpeau, Couchey, Curley, Curtil-Vergy, Daix, Dijon, Ebaty, Echevronne, Epernay-sous-Gevrey, L'Etang-Vergy, Etrochey, Fixin, Flagey-Echézeaux, Flavignerot, Fleurey-sur-Ouche, Fussey, Gerland, Gevrey-Chambertin, Gilly-lès-Cîteaux, Gomméville, Grancey-sur-Ource, Griselles, Ladoix-Serrigny, Lantenay, Larrey, Levernois, Magny-lès-Villers, Mâlain, Marcenay, Marey-lès-Fussey, Marsannay-la-Côte, Massingy, Mavilly-Mandelot, Meloisey, Merceuil, Messanges, Meuilley, Meursanges, Meursault, Molesme, Montagny-lès-Beaune, Monthelie, Montliot-et-Courcelles, Morey-Saint-Denis, Mosson, Nantoux, Nicey, Noiron-sur-Seine, Nolay, Nuits-Saint-Georges, Obtrée, Pernand-Vergelesses, Perrigny-lès-Dijon, Plombières-lès-Dijon, Poinçon-lès-Larrey, Pommard, Pothières, Premeaux-Prissey, Prusly-sur-Ource, Puligny-Montrachet, Quincey, Reulle-Vergy, La Rochepot, Ruffey-lès-Beaune, Saint-Aubin, Saint-Bernard, Saint-Philibert, Saint-Romain, Sainte-Colombe-sur-Seine, Sainte-Marie-la-Blanche, Santenay, Savigny-lès-Beaune, Segrois, Tailly, Talant, Thoires, Vannaire, Vauchignon, Velars-sur-Ouche, Vertault, Vignoles, Villars-Fontaine, Villebichot, Villedieu, Villers-la-Faye, Villers-Patras, Villy-le-Moutier, Vix, Volnay, Vosne-Romanée et Vougeot. </p>
+<p>Département du Rhône </p>
+<p>Alix, Anse, L'Arbresle, Les Ardillats, Arnas, Bagnols, Beaujeu, Belleville, Belmont-d'Azergues, Blacé, Le Bois-d'Oingt, Le Breuil, Bully, Cercié, Chambost-Allières, Chamelet, Charentay, Charnay, Châtillon, Chazay-d'Azergues, Chénas, Chessy, Chiroubles, Cogny, Corcelles-en-Beaujolais, Dareizé, Denicé, Dracé, Emeringes, Fleurie, Frontenas, Gleizé, Jarnioux, Juliénas, Jullié, Lacenas, Lachassagne, Lancié, Lantignié, Légny, Létra, Liergues, Limas, Lozanne, Lucenay, Marchampt, Marcy, Moiré, Montmelas-Saint-Sorlin, Morancé, Nuelles, Odenas, Oingt, Les Olmes, Le Perréon, Pommiers, Pouilly-le-Monial, Quincié-en-Beaujolais, Régnié-Durette, Rivolet, Saint-Clément-sur-Valsonne, Saint-Cyr-le-Chatoux, Saint-Didier-sur-Beaujeu, Saint-Etienne-des-Oullières, Saint-Etienne-la-Varenne, Saint-Georges-de-Reneins, Saint-Germain-sur-l'Arbresle, Saint-Jean-d'Ardières, Saint-Jean-des-Vignes, Saint-Julien, Saint-Just-d'Avray, Saint-Lager, Saint-Laurent-d'Oingt, Saint-Loup, Saint-Romain-de-Popey, Saint-Vérand, Sainte-Paule, Salles-Arbuissonnas-en-Beaujolais, Sarcey, Taponas, Ternand, Theizé, Vaux-en-Beaujolais, Vauxrenard, Vernay, Villefranche-sur-Saône, Ville-sur-Jarnioux et Villié-Morgon. </p>
+<p>Département de Saône-et-Loire </p>
+<p>Aluze, Ameugny, Azé, Barizey, Beaumont-sur-Grosne, Berzé-la-Ville, Berzé-le-Châtel, Bissey-sous-Cruchaud, Bissy-la-Mâconnaise, Bissy-sous-Uxelles, Bissy-sur-Fley, Blanot, Bonnay, Bouzeron, Boyer, Bray, Bresse-sur-Grosne, Burgy, Burnand, Bussières, Buxy, Cersot, Chagny, Chaintré, Chalon-sur-Saône, Chamilly, Champagny-sous-Uxelles, Champforgeuil, Chânes, Change, Chapaize, La Chapelle-de-Bragny, La Chapelle-de-Guinchay, La Chapelle-sous-Brancion, Charbonnières, Chardonnay, La Charmée, Charnay-lès-Mâcon, Charrecey, Chasselas, Chassey-le-Camp, Château, Châtenoy-le-Royal, Chaudenay, Cheilly-lès-Maranges, Chenôves, Chevagny-lès-Chevrières, Chissey-lès-Mâcon, Clessé, Cluny, Cormatin, Cortambert, Cortevaix, Couches, Crêches-sur-Saône, Créot, Cruzille, Culles-les-Roches, Curtil-sous-Burnand, Davayé, Demigny, Dennevy, Dezize-lès-Maranges, Donzy-le-National, Donzy-le-Pertuis, Dracy-le-Fort, Dracy-lès-Couches, Epertully, Etrigny, Farges-lès-Chalon, Farges-lès-Mâcon, Flagy, Fleurville, Fley, Fontaines, Fuissé, Genouilly, Germagny, Givry, Granges, Grevilly, Hurigny, Igé, Jalogny, Jambles, Jugy, Jully-lès-Buxy, Lacrost, Laives, Laizé, Lalheue, Leynes, Lournand, La Loyère, Lugny, Mâcon, Malay, Mancey, Martailly-lès-Brancion, Massilly, Massy, Mellecey, Mercurey, Messey-sur-Grosne, Milly-Lamartine, Montagny-lès-Buxy, Montbellet, Montceaux-Ragny, Moroges, Nanton, Ozenay, Paris-l'Hôpital, Péronne, Pierreclos, Plottes, Préty, Prissé, Pruzilly, Remigny, La Roche-Vineuse, Romanèche-Thorins, Rosey, Royer, Rully, Saint-Albain, Saint-Ambreuil, Saint-Amour-Bellevue, Saint-Boil, Saint-Clément-sur-Guye, Saint-Denis-de-Vaux, Saint-Désert, Saint-Gengoux-de-Scissé, Saint-Gengoux-le-National, Saint-Germain-lès-Buxy, Saint-Gervais-sur-Couches, Saint-Gilles, Saint-Jean-de-Trézy, Saint-Jean-de-Vaux, Saint-Léger-sur-Dheune, Saint-Mard-de-Vaux, Saint-Martin-Belle-Roche, Saint-Martin-du-Tartre, Saint-Martin-sous-Montaigu, Saint-Maurice-de-Satonnay, Saint-Maurice-des-Champs, Saint-Maurice-lès-Couches, Saint-Pierre-de-Varennes, Saint-Rémy, Saint-Sernin-du-Plain, Saint-Symphorien-d'Ancelles, Saint-Vallerin, Saint-Vérand, Saint-Ythaire, Saisy, La Salle, Salornay-sur-Guye, Sampigny-lès-Maranges, Sancé, Santilly, Sassangy, Saules, Savigny-sur-Grosne, Sennecey-le-Grand, Senozan, Sercy, Serrières, Sigy-le-Châtel, Sologny, Solutré-Pouilly, Taizé, Tournus, Uchizy, Varennes-lès-Mâcon, Vaux-en-Pré, Vergisson, Vers, Verzé, Le Villars, La Vineuse, Vinzelles et Viré. </p>
+<p>Département de l'Yonne </p>
+<p>Accolay, Aigremont, Annay-sur-Serin, Arcy-sur-Cure, Asquins, Augy, Auxerre, Avallon, Bazarnes, Beine, Bernouil, Béru, Bessy-sur-Cure, Bleigny-le-Carreau, Censy, Chablis, Champlay, Champs-sur-Yonne, Champvallon, Chamvres, La Chapelle-Vaupelteigne, Charentenay, Châtel-Gérard, Chemilly-sur-Serein, Cheney, Chevannes, Chichée, Chitry, Collan, Coulangeron, Coulanges-la-Vineuse, Courgis, Cravant, Cruzy-le-Châtel, Dannemoine, Dyé, Epineuil, Escamps, Escolives-Sainte-Camille, Fleys, Fontenay-près-Chablis, Gy-l'Evêque, Héry, Irancy, Island, Joigny, Jouancy, Junay, Jussy, Lichères-près-Aigremont, Lignorelles, Ligny-le-Châtel, Lucy-sur-Cure, Maligny, Mélisey, Merry-Sec, Migé, Molay, Molosmes, Montigny-la-Resle, Mouffy, Moulins-en-Tonnerois, Nitry, Noyers, Ouanne, Paroy-sur-Tholon, Pasilly, Pierre-Perthuis, Poilly-sur-Serein, Pontigny, Préhy, Quenne, Roffey, Rouvray, Sacy, Saint-Bris-le-Vineux, Saint-Cyr-les-Colons, Saint-Père, Sainte-Pallaye, Sainte-Vertu, Sarry, Senan, Serrigny, Tharoiseau, Tissey, Tonnerre, Tronchoy, Val-de-Mercy, Vallan, Venouse, Venoy, Vermenton, Vézannes, Vézelay, Vézinnes, Villeneuve-Saint-Salves, Villiers-sur-Tholon, Villy, Vincelles, Vincelottes, Viviers, Volgré et Yrouerre.<br/>
+</p>
+<p align="center">
+<br/>V. - Encépagement </p>
+<p>1° Encépagement : <br/>Les vins sont issus des cépages suivants : <br/>- cépage principal : pinot noir N ; <br/>- cépages accessoires : chardonnay B, pinot blanc B, pinot gris G. </p>
+<p>2° Règles de proportion à l'exploitation : <br/>Les cépages accessoires sont autorisés uniquement en mélange de plants dans les vignes. Leur proportion totale est limitée à 15 % au sein de chaque parcelle. </p>
+<p align="center">
+<br/>VI. - Conduite du vignoble </p>
+<p>1° Modes de conduite : <br/>a) Densité de plantation. <br/>Les vignes présentent une densité minimale à la plantation de 9 000 pieds à l'hectare. </p>
+<p>Les vignes ne peuvent présenter un écartement entre rangs supérieur à 1, 25 mètre. </p>
+<p>Les vignes ne peuvent présenter un écartement entre pieds sur un même rang inférieur à 0, 50 mètre. <br/>Les vignes peuvent être plantées en foule sous réserve de respecter la densité minimale à la plantation et un écartement entre les pieds supérieur à 0, 50 mètre. </p>
+<p>b) Règles de taille. <br/>Les vins proviennent des vignes taillées selon les techniques suivantes : <br/>- soit en taille courte (vignes conduites en cordon de Royat, cordon bilatéral, gobelet et éventail), avec un nombre d'yeux francs par pied inférieur ou égal à 8 ; <br/>- soit en taille longue Guyot simple, avec un nombre d'yeux francs par pied inférieur ou égal à 8. </p>
+<p>Quel que soit le mode de taille, les vignes peuvent être taillées avec 4 yeux francs supplémentaires par pied sous réserve qu'au stade phénologique correspondant à 11 ou 12 feuilles le nombre de rameaux fructifères de l'année par pied soit inférieur ou égal au nombre d'yeux francs défini pour les règles de taille. </p>
+<p>c) Règles de palissage et de hauteur de feuillage. <br/>La hauteur de feuillage palissée doit être au minimum égale à 0, 6 fois l'écartement entre les rangs, la hauteur de feuillage palissée étant mesurée entre la limite inférieure du feuillage établie à 0, 30 mètre au moins au-dessus du sol et la limite supérieure de rognage. </p>
+<p>Lorsque les vignes ne sont pas taillées en gobelet, elles doivent obligatoirement être relevées sur un échalas ou palissées ; le palissage doit être entretenu. </p>
+<p>Lorsque les vignes sont plantées en foule, elles sont conduites sur échalas. </p>
+<p>d) Charge maximale moyenne à la parcelle. <br/>La charge maximale moyenne à la parcelle est fixée à 9 000 kilogrammes par hectare. </p>
+<p>e) Seuil de manquants. <br/>Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural est fixé à 20 %. </p>
+<p>f) Etat cultural de la vigne. <br/>Les parcelles doivent être conduites afin d'assurer un bon état cultural global de la vigne qui se traduit notamment par : <br/>- la maîtrise d'un bon état sanitaire permettant d'obtenir un feuillage sain et des baies saines ; <br/>- l'entretien du sol et la maîtrise de : <br/>- l'enherbement par une hauteur d'enherbement inférieure à la moitié de la hauteur de palissage (hauteur entre le sol et le fil supérieur de palissage) ; <br/>- l'érosion par une absence de racine apparente. </p>
+<p>2° Autres pratiques culturales : <br/>a) Les plantations de vignes ne peuvent se faire qu'avec du matériel végétal sain ayant fait l'objet d'un traitement à l'eau chaude. <br/>b) L'enherbement permanent des tournières est obligatoire. <br/>c) Seuls sont autorisés les aménagements ou travaux avant plantation de vignes qui n'entraînent pas de modification substantielle de la topographie, du sous-sol, de la couche arable ou des éléments structurant le paysage d'une parcelle de l'aire délimitée. </p>
+<p>3° Irrigation : <br/>L'irrigation est interdite. </p>
+<p align="center">
+<br/>VII. - Récolte, transport et maturité du raisin </p>
+<p>1° Récolte : <br/>a) Les vins proviennent de raisins récoltés à bonne maturité. <br/>b) Dispositions particulières de récolte. <br/>Pas de disposition particulière. <br/>c) Dispositions particulières de transport de la vendange. <br/>La vendange doit être protégée de la pluie pendant son transport et lors de sa réception. </p>
+<p>2° Maturité du raisin : <br/>a) Richesse en sucre des raisins. <br/>Ne peuvent être considérés comme étant à bonne maturité les raisins présentant une richesse en sucre inférieure à 171 grammes par litre de moût. <br/>Lorsque le nom de l'appellation est complété d'un nom de climat d'origine ou de la mention premier cru ou de l'un et de l'autre pour les vins issus des climats classés en premier cru, ne peuvent être considérés comme étant à bonne maturité les raisins présentant une richesse en sucre inférieure à 180 grammes par litre de moût. </p>
+<p>b) Titre alcoométrique volumique naturel minimum. <br/>Les vins présentent un titre alcoométrique volumique naturel minimum de 10, 5 %. </p>
+<p>Lorsque le nom de l'appellation est complété d'un nom de climat d'origine ou de la mention premier cru ou de l'un et de l'autre pour les vins issus des climats classés en premier cru, les vins présentent un titre alcoométrique volumique naturel minimum de 11 %. </p>
+<p align="center">
+<br/>VIII. - Rendements. - Entrée en production </p>
+<p>1° Rendement : <br/>Le rendement visé à l'article D. 644-25 du code rural est fixé à 40 hectolitres par hectare. </p>
+<p>2° Rendement butoir : <br/>Le rendement butoir visé à l'article D. 644-25 du code rural est fixé à : <br/>
+</p>
+<p>
+<br/>
+</p>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>APPELLATION </th>
+<th>
+<br/>RENDEMENT <br/>(hectolitres par hectare) </th>
+</tr>
+<tr>
+<td align="center">
+<br/>AOC Chambolle-Musigny </td>
+<td align="center">
+<br/>58 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>AOC Chambolle-Musigny complétée d'un nom de climat d'origine ou de la mention premier cru ou de l'un et de l'autre pour les vins issus des climats classés en premier cru </td>
+<td align="center">
+<br/>56 </td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<br/>
+<br/>
+<br/>3° Rendement maximum de production : <br/>Pas de disposition particulière. </p>
+<p>4° Entrée en production des jeunes vignes : <br/>Le bénéfice de l'appellation d'origine contrôlée ne peut être accordé aux vins provenant : <br/>- des parcelles de jeunes vignes qu'à partir de la deuxième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 juillet ; <br/>- des parcelles de jeunes vignes qu'à partir de la première année suivant celle au cours de laquelle le greffage sur place a été réalisé avant le 31 juillet ; <br/>- des parcelles de vignes ayant fait l'objet d'un surgreffage, au plus tôt la première année suivant celle au cours de laquelle le surgreffage a été réalisé avant le 31 juillet, et dès que les parcelles ne comportent plus que des cépages admis pour l'appellation. Par dérogation, l'année suivant celle au cours de laquelle le surgreffage a été réalisé avant le 31 juillet, les cépages admis pour l'appellation peuvent ne représenter que 80 % de l'encépagement de chaque parcelle en cause. </p>
+<p>5° Dispositions particulières : <br/>Pas de disposition particulière. </p>
+<p align="center">
+<br/>IX. - Transformation, élaboration, élevage, conditionnement, stockage </p>
+<p>1° Dispositions générales : <br/>Les vins sont vinifiés conformément aux usages locaux, loyaux et constants. <br/>a) Réception et pressurage. <br/>Pas de disposition particulière. </p>
+<p>b) Assemblage des cépages. <br/>Dans le cas où des vins rouges sont produits à partir de parcelles complantées de plants blancs comme défini au point V (2°), les vins sont vinifiés par assemblage des raisins concernés dans la limite de 15 %. </p>
+<p>c) Fermentation malolactique. <br/>Les vins présentent au stade du conditionnement une teneur maximale en acide malique de 0, 4 gramme par litre. </p>
+<p>d) Normes analytiques.<br/>A l'issue de la période d'élevage les vins finis prêts à être mis à la consommation au sens de l'article D. 644-36-I du code rural présentent une teneur maximale en sucres fermentescibles (glucose + fructose) de 2 grammes par litre. </p>
+<p>e) Pratiques œnologiques et traitements physiques. <br/>La concentration partielle de moûts de raisins est autorisée suivant toute méthode en vigueur pour les vins rouges. Cette concentration doit être mise en œuvre sur les moûts et ne pas dépasser 10 % du volume maximum de départ. Ce volume de départ doit être compris dans le rendement butoir. Les appareils utilisés sont équipés d'un compteur permettant la déclaration du volume d'eau éliminé.</p>
+<p>L'utilisation de morceaux de bois de chêne est interdite. <br/>Après enrichissement, les vins ne dépassent pas un titre alcoométrique volumique total de 13, 5 %. Lorsque le nom de l'appellation est complété d'un nom de climat d'origine ou de la mention premier cru ou de l'un et de l'autre pour les vins issus des climats classés en premier cru, les vins ne dépassent pas, après enrichissement, un titre alcoométrique volumique total de 14 %. </p>
+<p>f) Matériel interdit. <br/>Les pressoirs continus sont interdits. </p>
+<p>g) Capacité globale de la cuverie de vinification. <br/>Tout opérateur doit disposer d'une capacité globale de cuverie de vinification équivalente au minimum à 80 % du volume de vin vinifié pour la récolte de l'année précédente, et porté soit sur la déclaration de récolte au prorata de l'évolution de la surface en production de l'exploitation, soit sur la déclaration de production. </p>
+<p>h) Bon état d'entretien global du chai (sol et murs) et du matériel (hygiène). <br/>Le chai et le matériel doivent être bien entretenus ; cela se traduit notamment par : <br/>- une hygiène générale des locaux d'élaboration avec un état de propreté générale, des sols entretenus, une évacuation adéquate et un revêtement évitant les stagnations ; <br/>- une innocuité des matériels et des produits entrant en contact avec le vin ; <br/>- une séparation et une spécificité des locaux : les locaux n'ayant pas les mêmes fonctions doivent être séparés comme les zones de stockage des produits phytosanitaires, produits de nettoyage ou hydrocarbures avec les locaux de vinifications, d'élevage et de stockage des matières sèches (bouchons, cartons) ; <br/>- une gestion des effluents vinicoles : les effluents doivent être retirés le plus vite possible des locaux des denrées alimentaires, déposés dans des conteneurs bien entretenus, faciles à nettoyer et ayant une fermeture. Les aires de stockage des déchets doivent être maintenues propres ; les déchets doivent être éliminés de manière hygiénique et dans le respect de l'environnement ; une zone de stockage et d'évacuation des déchets doit être prévue ; <br/>- une absence de substances à risque ou odorantes dans les locaux de vinification, d'élevage et de stockage (odeur). </p>
+<p>i) Elevage. <br/>Les vins font l'objet d'un élevage au minimum jusqu'au 15 juin de l'année qui suit celle de la récolte. <br/>La température des contenants au cours de la phase d'élevage doit être maîtrisée et inférieure ou égale à 25° C. </p>
+<p>2° Dispositions par type de produit : <br/>Pas de disposition particulière. </p>
+<p>3° Dispositions relatives au conditionnement : <br/>Tout opérateur définit une procédure de nettoyage du circuit d'embouteillage et du matériel de conditionnement. <br/>Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de contrôle agréé : <br/>- les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural ; <br/>- les bulletins d'analyses réalisées avant conditionnement permettant le suivi analytique des lots conditionnés. Ces bulletins sont conservés pendant une période de six mois à compter de la date de conditionnement. </p>
+<p>4° Dispositions relatives au stockage : <br/>L'opérateur justifie d'un lieu de stockage protégé pour les produits conditionnés en bouteille nue répondant aux conditions suivantes : <br/>- température : entre 5° C et 22° C ; <br/>- hygrométrie : supérieure ou égale à 50 %. </p>
+<p>5° Dispositions relatives à la circulation des produits et à la mise en marché à destination du consommateur : <br/>a) Date de mise en marché à destination du consommateur.<br/>A l'issue de la période d'élevage, les vins ne sont mis en marché à destination du consommateur qu'après le 30 juin de l'année qui suit celle de la récolte. </p>
+<p>b) Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés. <br/>Pas de disposition particulière.</p>
+<p align="center">
+<br/>X. - Lien à l'origine <br/>
+</p>
+<p align="center">XI. - Mesures transitoires </p>
+<p>1° Mode de conduite : <br/>Les vignes en place avant 1980, situées en dehors du vignoble délimité de l'appellation d'origine contrôlée Bourgogne complétée par les dénominations géographiques Hautes Côtes de Beaune et Hautes Côtes de Nuits , ne respectant pas les dispositions relatives à la densité de plantation fixées dans le présent cahier des charges et conduites en palissage monoplan continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée jusqu'à la récolte 2010 sous réserve : <br/>- de présenter une densité à la plantation supérieure à 3 000 pieds par hectare ; <br/>- d'être taillées avec un maximum de 6 yeux francs par mètre carré ; <br/>- de disposer d'une hauteur de feuillage palissé égale au minimum à 1, 50 mètre, la hauteur de feuillage palissée étant mesurée entre la limite inférieure du feuillage établie à 0, 30 mètre au moins au-dessus du sol et la limite supérieure de rognage. <br/>
+<br/>Le volume pouvant être revendiqué en appellation d'origine contrôlée est calculé sur la base du rendement autorisé pour l'appellation d'origine contrôlée affecté du coefficient de 0, 80. </p>
+<p>2° Capacité de cuverie : <br/>A titre transitoire jusqu'à la récolte 2010 incluse, par dérogation au point IX (1°, g), tout opérateur doit disposer d'une capacité de cuverie de vinification équivalente au minimum à 60 % du volume de vin vinifié pour la récolte de l'année précédente, et porté soit sur la déclaration de récolte au prorata de l'évolution de la surface en production de l'exploitation, soit sur la déclaration de production. Les cuves de vinification ne pourront pas être utilisées pour plus de deux vinifications au cours de la même récolte. </p>
+<p align="center">
+<br/>XII. - Règles de présentation et étiquetage </p>
+<p>1° Dispositions générales : <br/>Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'appellation d'origine contrôlée Chambolle-Musigny qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents. </p>
+<p>2° Dispositions particulières : <br/>Pour les vins issus de parcelles classées en premier cru telles que définies au point IV (2°), lorsque l'appellation est complétée par le nom du climat d'origine, il devra être placé après celui de l'appellation et imprimé en caractères dont les dimensions aussi bien en hauteur qu'en largeur ne devront pas dépasser celles de l'appellation. </p>
+<p>Pour les vins issus des autres parcelles, lorsque l'appellation est complétée par le nom du climat d'origine, il devra être placé après celui de l'appellation et imprimé en caractères dont les dimensions aussi bien en hauteur qu'en largeur ne devront pas dépasser la moitié de celles de l'appellation. </p>
+<p align="center">
+<br/>Chapitre II <br/>
+</p>
+<p align="center">I. - Obligations déclaratives </p>
+<p>1. Déclaration de revendication : <br/>La déclaration de revendication doit être adressée à l'organisme de défense et de gestion quinze jours minimum avant circulation entre entrepositaires agréés et au plus tard le 1er décembre de l'année de récolte. </p>
+<p>Elle indique notamment : <br/>- l'appellation revendiquée ; <br/>- le volume du vin ; <br/>- le numéro EVV ou SIRET ; <br/>- le nom et l'adresse du demandeur ; <br/>- le lieu d'entrepôt du vin. </p>
+<p>Elle est accompagnée notamment d'une copie de la déclaration de récolte et, selon le cas, d'une copie de la déclaration de production ou d'un extrait de la comptabilité matières pour les acheteurs de raisins et de moûts. </p>
+<p>2. Déclaration préalable à la transaction et retiraisons : <br/>Tout opérateur doit déclarer chaque transaction en vrac auprès de l'organisme de contrôle agréé dans des délais fixés dans le plan de contrôle ou d'inspection compris entre six et quinze jours ouvrés avant toute retiraison de produit. </p>
+<p>Cette déclaration, accompagnée le cas échéant d'une copie du contrat d'achat, précise notamment : <br/>- l'identité de l'opérateur ; <br/>- le numéro EVV ou SIRET ; <br/>- l'identification du lot ; <br/>- le volume du lot ; <br/>- l'identification des contenants ; <br/>- l'identité de l'acheteur. </p>
+<p>En cas de retiraisons réalisées pour des volumes inférieurs à ceux déterminés dans la déclaration de transaction, l'opérateur devra informer l'organisme de contrôle par écrit. </p>
+<p>3. Déclaration de mise à la consommation : <br/>Chaque lot de vin destiné à être mis à la consommation au sens de l'article D. 644-36-I du code rural doit faire l'objet d'une déclaration de mise à la consommation auprès de l'organisme de contrôle agréé dans des délais minimum fixés dans le plan de contrôle ou d'inspection compris entre six et quinze jours ouvrés avant la mise à la consommation. Cette déclaration peut aussi être établie pour des lots déjà conditionnés dans des délais minimum fixés dans le plan de contrôle ou d'inspection compris entre six et quinze jours ouvrés avant l'expédition des lots concernés hors des chais de l'opérateur. </p>
+<p>Elle précise notamment : <br/>- l'identité de l'opérateur ; <br/>- le numéro EVV ou SIRET ; <br/>- l'identification du lot ; <br/>- le volume du lot ; <br/>- le numéro de lot pour les vins déjà conditionnés ; <br/>- l'identification des contenants pour les vins non conditionnés. </p>
+<p>4. Déclaration relative à l'expédition hors du territoire national d'un vin non conditionné : <br/>Tout opérateur souhaitant effectuer une expédition hors du territoire national d'un vin non conditionné bénéficiant de l'appellation d'origine contrôlée devra en faire la déclaration auprès de l'organisme de contrôle agréé dans des délais fixés dans le plan de contrôle ou d'inspection compris entre six et quinze jours ouvrés avant toute expédition. </p>
+<p>5. Déclaration de replis : <br/>Tout opérateur commercialisant un vin bénéficiant de l'appellation d'origine contrôlée concernée par ce cahier des charges dans une appellation plus générale devra en faire la déclaration auprès de l'organisme de défense et de gestion et de l'organisme de contrôle agréé : <br/>- de façon concomitante à la déclaration préalable à la transaction si le vin fait l'objet d'une transaction en vrac après le repli ; <br/>- de façon concomitante à la déclaration de conditionnement si le vin fait l'objet d'un conditionnement après le repli ; <br/>- dans des délais fixés dans le plan de contrôle ou d'inspection compris entre six et quinze jours ouvrés suivant l'enregistrement du repli sur le registre vitivinicole, si le vin fait l'objet d'un repli après conditionnement.</p>
+<p>L'organisme de défense et de gestion et l'organisme de contrôle agréé en informent, respectivement et sans délai, l'organisme de défense et de gestion de l'appellation plus générale concernée et l'organisme de contrôle agréé pour l'appellation plus générale concernée. </p>
+<p>6. Déclaration de déclassement : <br/>Tout opérateur effectuant un déclassement de vins bénéficiant de l'appellation d'origine contrôlée adresse à l'organisme de défense et de gestion et à l'organisme de contrôle agréé un récapitulatif trimestriel. </p>
+<p>7. Déclaration d'appareil pour TSE : <br/>Tout opérateur détenteur d'un appareil de concentration doit le déclarer dès l'achat à l'organisme de défense et de gestion en précisant les spécifications.L'organisme de défense et de gestion tient à jour la liste des opérateurs détenteurs d'un appareil et la transmet chaque année au service de l'INAO au plus tard le 1er septembre. </p>
+<p>Tout opérateur faisant appel à un prestataire de services le déclare auprès de l'organisme de défense et de gestion, lequel établit la liste de ces opérateurs et la transmet chaque année au service de l'INAO au plus tard le 1er septembre. </p>
+<p>8. Remaniement des parcelles : <br/>Avant tout aménagement ou tous travaux modifiant la topographie, le sous-sol, la couche arable (y compris tout apport de terre exogène) ou des éléments structurants du paysage d'une parcelle délimitée, allant au-delà des travaux de défonçage classique, une déclaration doit être adressée par l'opérateur à l'organisme de défense et de gestion au moins quatre semaines avant le début des travaux envisagés.L'organisme de défense et de gestion transmet une copie de cette déclaration aux services de l'INAO sans délai. </p>
+<p>9. Système dérogatoire : <br/>Les opérateurs qui réalisent au moins cinq transactions par semaine et / ou au moins quarante-deux préparations à la mise à la consommation au sens de l'article D. 644-36-I du code rural par an peuvent regrouper leurs déclarations de transaction, de mise à la consommation et de repli. Dans ce cas, ils doivent fournir à l'organisme de contrôle agréé leur prévision de transaction, de mise à la consommation et de repli puis transmettre le récapitulatif trimestriel de l'ensemble des déclarations visées aux points 2, 3 et 5 ci-dessus. </p>
+<p align="center">
+<br/>II. - Tenue de registres <br/>
+</p>
+<p>1. Plan général des lieux de stockage et de vinification : <br/>Tout opérateur vinificateur doit tenir à jour et à disposition de l'organisme de contrôle agréé un plan général des lieux de stockage et de vinification, permettant notamment d'identifier le nombre, la désignation et la contenance des récipients. </p>
+<p>2. Registre TSE : <br/>Tout opérateur mettant en œuvre la concentration partielle de moûts doit tenir à jour un registre TSE comprenant notamment : <br/>- le volume initial ; <br/>- le volume d'eau évaporé ; <br/>- l'identification du lot après concentration (volume et titre alcoométrique potentiel). </p>
+<p align="center">
+<br/>Chapitre III <br/>
+<br/>
+<br/>
+</p>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>POINTS PRINCIPAUX À CONTRÔLER </th>
+<th>
+<br/>MÉTHODES D'ÉVALUATION </th>
+</tr>
+<tr>
+<td align="center">
+<br/>A. - RÈGLES STRUCTURELLES </td>
+</tr>
+<tr>
+<td align="center">
+<br/>A. 1. Localisation des opérateurs dans l'aire de proximité immédiate </td>
+<td align="center">
+<br/>Contrôle documentaire </td>
+</tr>
+<tr>
+<td align="center">
+<br/>A. 2. Appartenance des parcelles plantées dans l'aire délimitée </td>
+<td align="center">
+<br/>Contrôle documentaire (fiche parcellaire CVI tenue à jour) <br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>A. 3. Potentiel de production revendicable (encépagement et règles de proportion, suivi des mesures dérogatoires éventuelles, densité de plantation, matériel végétal) </td>
+<td align="center">
+<br/>Contrôle documentaire et visites sur le terrain (détail dans plan d'inspection) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>A. 4. Outil de transformation, élevage, conditionnement et stockage </td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Capacité de cuverie de vinification </td>
+<td align="center">
+<br/>Contrôle documentaire : plan général des lieux de stockage <br/>Visite sur site </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Elevage (maitrise des températures et durée d'élevage) </td>
+<td align="center">
+<br/>Contrôle documentaire : enregistrement des températures et déclaration de conditionnement <br/>Visite sur site </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Etat d'entretien du chai et du matériel (hygiène) </td>
+<td align="center">
+<br/>Visite sur site </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lieu de stockage protégé et conditions de stockage (T° C, hygrométrie) </td>
+<td align="center">
+<br/>Contrôle documentaire : enregistrement des températures <br/>Visite sur site </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. - RÈGLES LIÉES AU CYCLE DE PRODUCTION </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. 1. Conduite du vignoble </td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Taille </td>
+<td align="center">
+<br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Charge maximale moyenne à la parcelle </td>
+<td align="center">
+<br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Etat cultural et sanitaire de la vigne (état sanitaire du feuillage et des baies, entretien du sol, entretien du palissage) </td>
+<td align="center">
+<br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. 2. Récolte, transport et maturité du raisin </td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maturité du raisin </td>
+<td align="center">
+<br/>Contrôle documentaire : bulletin analyse de moût <br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. 3. Transformation, élaboration, élevage, conditionnement, stockage </td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pratiques ou traitements œnologiques (enrichissement, pratiques interdites...) </td>
+<td align="center">
+<br/>Contrôle documentaire : déclaration des appareils et registre TSE, registre d'enrichissement, acidification désacidification <br/>Visite sur site </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Comptabilité matières, traçabilité analytique </td>
+<td align="center">
+<br/>Contrôle documentaire : tenue des registres pour des opérateurs, bulletins d'analyses </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B. 4. Déclaration de récolte et déclaration de revendication </td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Manquants </td>
+<td align="center">
+<br/>Contrôle documentaire (obligations déclaratives) <br/>Visite sur le terrain </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Rendement autorisé </td>
+<td align="center">
+<br/>Contrôle documentaire (contrôle des déclarations, suivi des autorisations accordées par les services de l'INAO, après enquête desdits services sur demande individuelle de l'opérateur) </td>
+</tr>
+<tr>
+<td align="center">
+<br/>VSI, volumes récoltés en dépassement du rendement autorisé </td>
+<td align="center">
+<br/>Contrôle documentaire : suivi des attestations de destruction </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Déclaration de revendication </td>
+<td align="center">
+<br/>Contrôle documentaire et visite sur site : respect des modalités et délais, concordance avec la déclaration de récolte, de production. Contrôle de la mise en circulation des produits </td>
+</tr>
+<tr>
+<td align="center">
+<br/>C. - CONTRÔLES DES PRODUITS </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Vins conditionnés </td>
+<td align="center">
+<br/>Examen analytique et organoleptique avant ou après conditionnement </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Vins non conditionnés </td>
+<td align="center">
+<br/>Examen analytique et organoleptique à la transaction </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Vins non conditionnés destinés à une expédition hors du territoire national </td>
+<td align="center">
+<br/>Examen analytique et organoleptique de tous les lots </td>
+</tr>
+<tr>
+<td align="center">
+<br/>D. - PRÉSENTATION DES PRODUITS </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Etiquetage </td>
+<td align="center">
+<br/>Visite sur site </td>
+</tr>
+</tbody>
+</table>
+
+</div>
