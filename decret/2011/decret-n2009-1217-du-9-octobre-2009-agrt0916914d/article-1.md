@@ -12,6 +12,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Monbazillac " ;
 
-― " Côtes de Duras " ;
-
-― " Buzet ".
+― " Côtes de Duras ".
