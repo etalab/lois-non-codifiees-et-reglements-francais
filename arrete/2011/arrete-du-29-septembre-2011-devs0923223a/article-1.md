@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions du décret du 8 juillet 1992 susvisé sont applicables aux panneaux de signalisation routière permanente et aux dispositifs des types J4 et J5, définis aux articles 2 à 6-1 de l'arrêté du 24 novembre 1967 modifié susvisé, et aux revêtements rétroréfléchissants, aux panneaux éclairés de l'intérieur et de l'extérieur et leurs supports, entrant dans le domaine d'application de la norme harmonisée NF EN 12899-1 « Signaux fixes de signalisation routière verticale. ― Partie 1 : Panneaux fixes », à l'exception des portiques et potences et des panneaux à messages variables.

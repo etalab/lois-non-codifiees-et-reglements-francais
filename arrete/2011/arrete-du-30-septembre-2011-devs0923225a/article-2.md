@@ -1,0 +1,5 @@
+# Article 2
+
+Les panneaux de signalisation routière permanente ne peuvent être mis en service sur les voies du domaine public routier au sens de l'article L. 111-1 du code de la voirie routière et sur les voies privées ouvertes à la circulation publique au sens de l'article R. 163-1 du même code, que s'ils sont munis des marquages CE et NF ou autres marques d'attestation de la conformité présentant des garanties au moins égales, et respectent les spécifications techniques, les performances ou classes de performances appropriées aux types de routes ou d'ouvrages dans lesquels ces produits sont installés.
+
+Les spécifications techniques, performances ou classes de performances, exigées pour chacune des caractéristiques techniques harmonisées dans le cas du marquage CE, non harmonisées dans le cas de la marque NF ou d'autres marques d'attestation de la conformité présentant des garanties au moins égales, sont fixées respectivement au I et au II de l'annexe du présent arrêté, en référence aux normes qui y sont mentionnées.
