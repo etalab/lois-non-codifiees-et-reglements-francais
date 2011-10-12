@@ -6,4 +6,3 @@
 - [Article AOC " Saint-Bris "](article-aoc-saint-bris.md)
 - [Article AOC " Saint-Véran "](article-aoc-saint-veran.md)
 - [Article AOC "Viré-Clessé "](article-aoc-vire-clesse.md)
-- [Article AOC " Vougeot "](article-aoc-vougeot.md)
