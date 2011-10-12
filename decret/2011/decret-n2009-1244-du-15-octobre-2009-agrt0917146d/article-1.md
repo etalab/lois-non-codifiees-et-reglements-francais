@@ -4,8 +4,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― Chinon ;
 
-― Coteaux du Loir ;
-
 ― Grand Roussillon ;
 
 ― Muscat de Rivesaltes.
