@@ -283,7 +283,6 @@
 - [Arrêté du 11 juin 1993 (INDA9300535A)](arrete-du-11-juin-1993-inda9300535a)
 - [Arrêté du 11 juin 1993 (INTB9300385A)](arrete-du-11-juin-1993-intb9300385a)
 - [Arrêté du 11 mars 1993 (INDA9300143A)](arrete-du-11-mars-1993-inda9300143a)
-- [Arrêté du 11 mars 1993 (MENB9300146A)](arrete-du-11-mars-1993-menb9300146a)
 - [Arrêté du 11 mars 1993 (MENK9300139A)](arrete-du-11-mars-1993-menk9300139a)
 - [Arrêté du 11 mars 1993 (MENK9300140A)](arrete-du-11-mars-1993-menk9300140a)
 - [Arrêté du 11 mars 1993 (MERG9300043A)](arrete-du-11-mars-1993-merg9300043a)
