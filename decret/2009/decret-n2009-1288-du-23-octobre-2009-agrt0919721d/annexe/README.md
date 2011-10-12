@@ -1,6 +1,5 @@
 # Annexe
 
-- [Article AOC "Aloxe-Corton "](article-aoc-aloxe-corton.md)
 - [Article AOC " Chambolle-Musigny "](article-aoc-chambolle-musigny.md)
 - [Article AOC " Clos de la Roche.. "](article-aoc-clos-de-la-roche.md)
 - [Article AOC " Musigny "](article-aoc-musigny.md)
