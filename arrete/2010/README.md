@@ -2821,7 +2821,6 @@
 - [Arrêté du 28 juin 2010 (JUSC1016105A)](arrete-du-28-juin-2010-jusc1016105a)
 - [Arrêté du 28 juin 2010 (JUSD1017158A)](arrete-du-28-juin-2010-jusd1017158a)
 - [Arrêté du 28 juin 2010 (PRMG1007869A)](arrete-du-28-juin-2010-prmg1007869a)
-- [Arrêté du 28 juin 2011 (IOCC1117793A)](arrete-du-28-juin-2011-iocc1117793a)
 - [Arrêté du 28 mars 2006 (BUDL0600030A)](arrete-du-28-mars-2006-budl0600030a)
 - [Arrêté du 28 octobre 2008 (ECEP0812023A)](arrete-du-28-octobre-2008-ecep0812023a)
 - [Arrêté du 28 octobre 2009 (ESRS0920573A)](arrete-du-28-octobre-2009-esrs0920573a)
