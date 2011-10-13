@@ -12,8 +12,6 @@ Sont membres de droit :
 
 -le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;
 
--le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère chargé de la santé ou son représentant ;
-
 -le directeur général de l'Institut de veille sanitaire ou son représentant ;
 
 -le président du Conseil national de l'ordre des médecins ou son représentant ;
