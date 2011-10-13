@@ -1,0 +1,10 @@
+# Arrêté du 21 septembre 2011 portant création d'un traitement automatisé d'informations individuelles relatif à une enquête auprès des salariés de l'Etat, complémentaire à l'enquête annuelle sur le coût de la main-d'œuvre et la structure des salaires (ECMOSS)
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)

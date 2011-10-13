@@ -1,0 +1,5 @@
+# Article 8
+
+Préalablement à la cession, à la mise à la réforme ou au changement d'emploi d'un moyen de transport agréé ou ayant été agréé pour l'acheminement de matières nucléaires des catégories I ou II non irradiée, le titulaire de l'agrément est tenu de procéder à la dépose de tous les dispositifs qui l'équipent en application des spécifications techniques mentionnées à l'article 3 du présent arrêté et de faire constater cette dépose par les agents désignés à l'article L. 1333-5 du code de la défense.
+
+Toutefois, il peut être dérogé à cette disposition lorsque la cession est réalisée au bénéfice d'un transporteur titulaire de l'autorisation prévue à l'article L. 1333-2 du code de la défense, dès lors que cette autorisation concerne l'activité de transport de matières nucléaires des catégories I ou II non irradiée. Dans ce cas l'acquéreur dépose une demande d'agrément auprès du ministre compétent constitué de la référence du dernier contrôle technique de ce moyen de transport effectué en application de l'article 6 du présent arrêté.
