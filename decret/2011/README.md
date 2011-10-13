@@ -334,7 +334,6 @@
 - [Décret n°2011-749 du 27 juin 2011 (ETSH1116081D)](decret-n2011-749-du-27-juin-2011-etsh1116081d)
 - [Décret n°2011-751 du 27 juin 2011 (BCRD1110313D)](decret-n2011-751-du-27-juin-2011-bcrd1110313d)
 - [Décret n°2011-755 du 27 juin 2011 (AGRE1105448D)](decret-n2011-755-du-27-juin-2011-agre1105448d)
-- [Décret n°2011-885 du 27 juillet 2011 (DEVC1120442D)](decret-n2011-885-du-27-juillet-2011-devc1120442d)
 - [Décret n°2011-886 du 27 juillet 2011 (DEVP1120518D)](decret-n2011-886-du-27-juillet-2011-devp1120518d)
 - [Décret n°2011-896 du 27 juillet 2011 (IOCJ1118780D)](decret-n2011-896-du-27-juillet-2011-iocj1118780d)
 - [Décret n°2011-897 du 27 juillet 2011 (AGRT1112440D)](decret-n2011-897-du-27-juillet-2011-agrt1112440d)
