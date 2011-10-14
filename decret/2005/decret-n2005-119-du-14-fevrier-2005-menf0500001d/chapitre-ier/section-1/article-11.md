@@ -1,6 +1,6 @@
 # Article 11
 
-L'ancienneté de service des instituteurs recrutés par le concours mentionné à l'article 4 qui avaient la qualité de fonctionnaire ou d'agent non titulaire est prise en compte, lors de leur titularisation, dans les conditions suivantes :
+L'ancienneté de service des instituteurs recrutés par l'un des concours mentionnés à l'article 4 qui avaient la qualité de fonctionnaire ou d'agent non titulaire est prise en compte, lors de leur titularisation, dans les conditions suivantes :
 
 1° Les fonctionnaires de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent sont classés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient en dernier lieu dans leur corps ou cadre d'emplois d'origine.
 

@@ -1,6 +1,6 @@
 # Article 12
 
-Par dérogation aux dispositions des articles 7 et 10, les modalités du stage et de la titularisation des instituteurs stagiaires qui, avant leur réussite au concours, exerçaient des fonctions d'enseignement sont fixées dans les conditions suivantes :
+Par dérogation aux dispositions des articles 7 et 10, les modalités du stage et de la titularisation des instituteurs stagiaires qui, avant leur réussite à l'un des concours, exerçaient des fonctions d'enseignement sont fixées dans les conditions suivantes :
 
 Durant leur stage, dont la durée est fixée à deux années, ils exercent les fonctions d'instituteur et bénéficient d'une formation professionnelle spécifique de deux années qui tient compte de leurs obligations d'enseignement et dont les modalités sont définies par arrêté du ministre chargé de l'éducation nationale.
 
