@@ -2,14 +2,12 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― "Touraine" ;
+― " Touraine " ;
 
-― "Coteaux du Vendômois" ;
+― " Coteaux du Vendômois " ;
 
-― "Montlouis-sur-Loire" ;
+― " Orléans-Cléry " ;
 
-― "Orléans-Cléry" ;
+― " Orléans " ;
 
-― "Orléans" ;
-
-― "Jasnières".
+― " Jasnières ".
