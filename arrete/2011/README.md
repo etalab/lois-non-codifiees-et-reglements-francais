@@ -2328,6 +2328,7 @@
 - [Arrêté du 30 mai 2011 (ETSP1110270A)](arrete-du-30-mai-2011-etsp1110270a)
 - [Arrêté du 30 mai 2011 (IOCD1111288A)](arrete-du-30-mai-2011-iocd1111288a)
 - [Arrêté du 30 mai 2011 (JUSK1115380A)](arrete-du-30-mai-2011-jusk1115380a)
+- [Arrêté du 31 août 2006 (SOCF0611828A)](arrete-du-31-aout-2006-socf0611828a)
 - [Arrêté du 31 août 2010 (ECEI1021806A)](arrete-du-31-aout-2010-ecei1021806a)
 - [Arrêté du 31 août 2011 (AGRG1123893A)](arrete-du-31-aout-2011-agrg1123893a)
 - [Arrêté du 31 août 2011 (APPD1123750A)](arrete-du-31-aout-2011-appd1123750a)
