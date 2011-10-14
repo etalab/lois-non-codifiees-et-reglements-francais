@@ -1,0 +1,5 @@
+# Article 4
+
+Dans la limite du besoin d'en connaître, sont autorisés à accéder aux informations mentionnées à l'article 2 les officiers et agents de police judiciaire affectés au service chargé de la lutte contre l'immigration irrégulière et le travail illégal des étrangers de la direction du renseignement de la préfecture de police, individuellement désignés et spécialement habilités par le préfet de police.
+
+Peuvent également être destinataires des données mentionnées à l'article 2, dans la limite du besoin d'en connaître, les officiers et agents de police judiciaire des directions et services actifs de la préfecture de police ayant procédé aux opérations prévues au chapitre III du titre II du livre Ier du code de procédure pénale, les agents de la police nationale affectés à la direction de l'ordre public et de la circulation de la préfecture de police chargés des opérations de transfert des étrangers en situation irrégulière, les agents de la direction de la préfecture de police chargée de la police des étrangers ainsi que les magistrats du parquet et de l'instruction.

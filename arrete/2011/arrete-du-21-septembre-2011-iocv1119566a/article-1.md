@@ -1,0 +1,3 @@
+# Article 1
+
+Le préfet de police (service chargé de la lutte contre l'immigration irrégulière et le travail illégal des étrangers de la direction du renseignement) est autorisé à mettre en œuvre un traitement automatisé de données à caractère personnel dénommé « gestion des étrangers en situation irrégulière » (GESI), dont l'objet est, d'une part, d'assurer la gestion des dossiers en temps réel, de l'interpellation jusqu'à la reconduite à la frontière, des étrangers en situation irrégulière interpellés par les services de la préfecture de police et, d'autre part, l'exploitation des données contenues à des fins de recherches statistiques.
