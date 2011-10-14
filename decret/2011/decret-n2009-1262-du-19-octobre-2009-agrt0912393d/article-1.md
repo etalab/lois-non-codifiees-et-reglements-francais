@@ -2,16 +2,14 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― "Fronton" ;
+― " Fronton " ;
 
-― "Madiran" ;
+― " Madiran " ;
 
-― "Montravel" ;
+― " Pécharmant " ;
 
-― "Pécharmant" ;
+― " Rosette " ;
 
-― "Rosette" ;
+― " Côtes du Marmandais " ;
 
-― "Côtes du Marmandais" ;
-
-― "Cahors".
+― " Cahors ".
