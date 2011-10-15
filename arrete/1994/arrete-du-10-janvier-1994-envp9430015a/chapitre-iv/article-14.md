@@ -1,3 +1,0 @@
-# Article 14
-
-La détection automatique d'incendie ou de combustion par détecteurs de gaz, de chaleur ou de fumée est obligatoire dans le magasin de stockage. Le type de détecteur de gaz est déterminé en fonction de la nature des engrais entreposés. Ils sont conformes aux normes en vigueur et vérifiés tous les trois mois. Leur nombre est fixé pour permettre de détecter la décomposition d'engrais moins d'un quart d'heure après l'apparition des premières fumées. Des postes d'alerte sont installés dans le magasin de stockage et les alarmes sont centralisées pour une intervention immédiate. De plus, si les tas d'engrais simples à base de nitrates sont supérieurs à 5 000 tonnes, des caméras devront permettre de contrôler toute la surface de stockage.
