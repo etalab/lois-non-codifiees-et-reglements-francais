@@ -2,6 +2,8 @@
 
 L'examen de passage en troisième année, organisé en deux sessions, comprend trois épreuves écrites et anonymes et trois épreuves pratiques.
 
+Le directeur de l'institut de formation peut autoriser, après avis du conseil pédagogique, les personnes mentionnées à l'article 4 à présenter ces épreuves sur deux années.
+
 Les trois épreuves écrites, qui peuvent faire appel à des connaissances acquises au cours de la première et de la deuxième année, portent respectivement sur les matières suivantes :
 
 Une épreuve d'anatomie et de biomécanique d'une durée de deux heures, notée sur 40 points ;

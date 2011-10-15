@@ -2,6 +2,8 @@
 
 L'examen de passage en deuxième année, organisé en deux sessions, comprend cinq épreuves écrites et anonymes et trois épreuves pratiques.
 
+Le directeur de l'institut de formation peut autoriser, après avis du conseil pédagogique, les personnes mentionnées à l'article 4 à présenter ces épreuves sur deux années.
+
 Les cinq épreuves écrites portent respectivement sur les matières suivantes :
 
 Une épreuve de pathologie pédicurale d'une durée d'une heure et trente minutes notée sur 20 points ;
