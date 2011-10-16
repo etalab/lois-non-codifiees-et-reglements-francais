@@ -752,7 +752,6 @@
 - [Arrêté du 24 septembre 1993 (BUDF9300031A)](arrete-du-24-septembre-1993-budf9300031a)
 - [Arrêté du 24 septembre 1993 (BUDR9305030A)](arrete-du-24-septembre-1993-budr9305030a)
 - [Arrêté du 24 septembre 1993 (ECOC9300155A)](arrete-du-24-septembre-1993-ecoc9300155a)
-- [Arrêté du 24 septembre 1993 (ECOU9300022A)](arrete-du-24-septembre-1993-ecou9300022a)
 - [Arrêté du 24 septembre 1993 (ECOZ9300013A)](arrete-du-24-septembre-1993-ecoz9300013a)
 - [Arrêté du 24 septembre 1993 (SPSS9302914A)](arrete-du-24-septembre-1993-spss9302914a)
 - [Arrêté du 24 mai 1993 (JUSF9350029A)](arrete-du-24-mai-1993-jusf9350029a)
