@@ -5,534 +5,197 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 8 jui
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="181">
-<p align="center">Désignation de la fonction </p>
+<td>
+<p align="center"> DÉSIGNATION DE LA FONCTION <br/>
+</p>
 </td>
-<td rowspan="2" width="111">
-<p align="center">Niveau des responsabilités exercées </p>
+<td>
+<p align="center"> NIVEAU </p>
+<p align="center">des responsabilités exercées </p>
 </td>
-<td rowspan="2" width="57">
-<p align="center">Nombre d'emplois éligibles </p>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS </p>
+<p align="center">éligibles </p>
 </td>
-<td colspan="5" width="275">
-<p align="center">Nombre de points par emploi à compter du </p>
-</td>
-</tr>
-<tr>
-<td width="55">
-<p align="center">1er août 1991 </p>
-</td>
-<td width="55">
-<p align="center">1er août 1992 </p>
-</td>
-<td width="55">
-<p align="center">1er août 1993 </p>
-</td>
-<td width="55">
-<p align="center">1er août 1994 </p>
-</td>
-<td width="55">
-<p align="center">1er août 1995 </p>
+<td>
+<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="181">
-<p>Commandant en second, chef de groupement ou officier supérieur adjoint au commandant </p>
+<td align="center">
+<p align="left">
+<br/>Commandant en second, chef de groupement opérationnel, chef de groupement soutien <br/>
+</p>
 </td>
-<td rowspan="2" valign="top" width="111">
-<p>Officier </p>
+<td align="center">
+<br/>Officier <br/>
 </td>
-<td valign="top" width="57">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <p>2 </p>
+<p>1 <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="55">
-<p align="center">30 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>50 <p>30 </p>
+<p>25 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">1 </p>
+<td align="center">
+<p align="left">
+<br/>Commandant ou assimilé d'unité opérationnelle ou de soutien <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier <p>ou officier marinier <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>19 <p>9 <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<p align="center">30 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">0 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="181">
-<p>Commandant ou assimilé d'unité opérationnelle ou de soutien </p>
-</td>
-<td rowspan="2" valign="top" width="111">
-<p>Officier ou officier marinier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">21 </p>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>20 <p>10 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">2 </p>
+<td align="center">
+<p align="left">
+<br/>Officier en second ou assimilé d'unité opérationnelle ou de soutien <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier <p>ou officier marinier <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>3 <p>2 </p>
+<p>17 <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="181">
-<p>Officier en second ou assimilé d'unité opérationnelle ou de soutien </p>
-</td>
-<td rowspan="2" valign="top" width="111">
-<p>Officier ou officier marinier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">8 </p>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
+<td align="center">
+<br/>20 <p>15 </p>
+<p>10 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">1 </p>
+<td align="center">
+<p align="left">
+<br/>Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier <p>ou officier marinier <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>119 <br/>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="181">
-<p>Responsable technique ou opérationnel en unité opérationnelle ou de soutien </p>
+<td align="center">
+<p align="left">
+<br/>Chef de division ou assimilé <br/>
+</p>
 </td>
-<td rowspan="4" valign="top" width="111">
-<p>Officier ou officier marinier </p>
+<td align="center">
+<br/>Officier <br/>
 </td>
-<td valign="top" width="57">
-<p align="center">32 </p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">6 </p>
+<td align="center">
+<p align="left">
+<br/>Adjoint au chef de division ou assimilé <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier <p>ou officier marinier <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>8 <p>10 <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">48 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>20 <p>10 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">18 </p>
+<td align="center">
+<p align="left">
+<br/>Directeur de l'enseignement <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier <br/>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="181">
-<p>Chef de division ou assimilé </p>
+<td align="center">
+<p align="left">
+<br/>Adjoint au directeur de l'enseignement <br/>
+</p>
 </td>
-<td rowspan="2" valign="top" width="111">
-<p>Officier </p>
+<td align="center">
+<br/>Officier <br/>
 </td>
-<td valign="top" width="57">
-<p align="center">8 </p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">25 </p>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">1 </p>
+<td align="center">
+<p align="left">
+<br/>Responsable de la formation, de la pédagogie ou de l'encadrement en école <br/>
+</p>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>Officier marinier <br/>
 </td>
-<td valign="top" width="55">
-<br/>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">25 </p>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="181">
-<p>Adjoint au chef de la division ou assimilé </p>
-</td>
-<td rowspan="3" valign="top" width="111">
-<p>Officier ou officier marinier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">3 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">5 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">13 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="181">
-<p>Directeur de l'enseignement </p>
-</td>
-<td valign="top" width="111">
-<p>Officier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">25 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="181">
-<p>Adjoint au directeur de l'enseignement ou assimilé </p>
-</td>
-<td rowspan="3" valign="top" width="111">
-<p>Officier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="181">
-<p>Responsable de la formation, de la pédagogie ou de l'encadrement en école </p>
-</td>
-<td valign="top" width="111">
-<p>Officier marinier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">4 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="181">
-<p>Responsable de la discipline </p>
-</td>
-<td rowspan="2" valign="top" width="111">
-<p>Officier marinier </p>
-</td>
-<td valign="top" width="57">
-<p align="center">9 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="57">
-<p align="center">3 </p>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<br/>
-</td>
-<td valign="top" width="55">
-<p align="center">10</p>
+<td align="center">
+<p align="left">
+<br/>Responsable ressource humaine, discipline <br/>
+</p>
+</td>
+<td align="center">
+<br/>Officier marinier <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>10<br/>
 </td>
 </tr>
 </tbody>
