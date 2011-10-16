@@ -2,7 +2,7 @@
 
 Avant toute opération funéraire, un devis écrit, gratuit, détaillé et chiffré selon les mêmes rubriques que la documentation générale présentée à la clientèle fait apparaître, pour chaque prestation ou fourniture, la nature et le prix TTC ainsi que le montant total du devis TTC. Il est remis à la clientèle.
 
-Le devis doit être conforme aux dispositions des articles 3 à 6 du décret du 9 mai 1995 susvisé.
+Le devis doit être conforme aux dispositions des articles R. 2223-25 à R. 2223-29 du code général des collectivités territoriales et de l'arrêté du 23 août 2010 modifié portant définition du modèle de devis applicable aux prestations fournies par les opérateurs funéraires.
 
 Lorsque l'opérateur de pompes funèbres mandaté par le client fait appel à des entreprises tierces désignées par le client lui-même, le devis précise de plus les noms et qualités de ces entreprises ainsi que le prix des prestations et fournitures assurées par ces dernières pour le montant net facturé et, le cas échéant, le montant des honoraires correspondant à la représentation du client auprès de ces entreprises.
 
