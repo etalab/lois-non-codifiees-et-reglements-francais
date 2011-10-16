@@ -2,7 +2,7 @@
 
 I. ― Sous réserve de l'application de l'article R. 6153-20 du code de la santé publique, un stage est validé, après avis du responsable médical du lieu de stage agréé ou du praticien-maître de stage agréé responsable du stage dans lequel a été affecté l'interne ou le résident, par le directeur de l'unité de formation et de recherche ou le président du comité de coordination des études médicales en cas de pluralité d'unités de formation et de recherche de médecine.
 
-a) A l'issue de chaque stage validant, le responsable du lieu de stage agréé ou le praticien agréé-maître de stage remplit le carnet de validation de stage obtenu par l'interne ou le résident lors de son inscription à l'entrée en troisième cycle des études médicales auprès de l'unité de formation et de recherche dont il dépend. Ce carnet de validation, spécifique à chaque diplôme d'études spécialisées ou diplôme d'études spécialisées complémentaires, doit être validé par le conseil de l'unité de formation et de recherche ;
+a) A l'issue de chaque stage validant, le responsable du lieu de stage agréé ou le praticien agréé-maître de stage des universités remplit le carnet de validation de stage obtenu par l'interne ou le résident lors de son inscription à l'entrée en troisième cycle des études médicales auprès de l'unité de formation et de recherche dont il dépend. Ce carnet de validation, spécifique à chaque diplôme d'études spécialisées ou diplôme d'études spécialisées complémentaires, doit être validé par le conseil de l'unité de formation et de recherche ;
 
 b) Le responsable médical du lieu de stage agréé ou le praticien-maître de stage agréé renseigne en outre une fiche d'évaluation portant sur ce stage ;
 

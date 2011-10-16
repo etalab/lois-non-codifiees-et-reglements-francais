@@ -6,7 +6,7 @@ I. ― Une description du lieu de stage indiquant le type d'activité exercée e
 
 II. ― Une description de l'encadrement assurant la continuité de la formation.
 
-III. ― Une description des moyens mis à disposition de l'interne, et notamment la fréquence des réunions d'enseignement régulières durant lesquelles les dossiers doivent être discutés et présentés de façon multidisciplinaire et contradictoire par les internes et le responsable médical agréé ou praticien agréé-maître de stage.
+III. ― Une description des moyens mis à disposition de l'interne, et notamment la fréquence des réunions d'enseignement régulières durant lesquelles les dossiers doivent être discutés et présentés de façon multidisciplinaire et contradictoire par les internes et le responsable médical agréé ou praticien agréé-maître de stage des universités.
 
 IV. ― Une description, le cas échéant, de l'activité de recherche et de publication du lieu de stage dans des revues à comité de lecture à laquelle pourra progressivement participer l'interne.
 

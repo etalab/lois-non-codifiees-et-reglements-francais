@@ -10,4 +10,4 @@ Pour valider la deuxième partie du deuxième cycle des études médicales, le c
 
 4° Validé trente-six gardes ;
 
-5° Validé le stage auprès d'un médecin généraliste ;
+5° Validé le stage auprès d'un praticien agréé-maître de stage des universités ;

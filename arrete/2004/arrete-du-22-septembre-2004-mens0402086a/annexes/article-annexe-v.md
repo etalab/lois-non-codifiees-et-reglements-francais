@@ -4,7 +4,7 @@ DIPLÔME D'ÉTUDES SPÉCIALISÉES DE MÉDECINE GÉNÉRALE- DURÉE : TROIS ANS
 
 **I - Enseignements (deux cents heures environ)**
 
-**A) Enseignements généraux**
+A) Enseignements généraux
 
 - Méthodologie de l'évaluation des pratiques de soins et de la recherche clinique en médecine générale ;
 
@@ -12,7 +12,7 @@ DIPLÔME D'ÉTUDES SPÉCIALISÉES DE MÉDECINE GÉNÉRALE- DURÉE : TROIS ANS
 
 - Organisation, gestion, éthique, droit et responsabilité médicale en médecine générale, économie de la santé.
 
-**B) Enseignements spécifiques**
+B) Enseignements spécifiques
 
 - La médecine générale et son champ d'application ;
 
@@ -40,7 +40,7 @@ B) Deux semestres dans un lieu de stage agréé au titre de la discipline médec
 
 - un semestre libre.
 
-C) Un semestre auprès d'un médecin généraliste, praticien agréé-maître de stage.
+C) Un semestre auprès d'un médecin généraliste, praticien agréé-maître de stage des universités.
 
 D) Un semestre, selon le projet professionnel de l'interne de médecine générale, effectué en dernière année d'internat, soit en médecine générale ambulatoire (sous la forme d'un stage autonome en soins primaires ambulatoires supervisé), soit dans une structure médicale agréée dans le cadre d'un projet personnel validé par le coordonnateur de médecine générale.
 

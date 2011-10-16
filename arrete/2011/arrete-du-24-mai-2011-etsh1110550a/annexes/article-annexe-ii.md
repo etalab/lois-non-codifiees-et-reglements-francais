@@ -14,7 +14,7 @@ Convention entre :
 
 - le directeur de l'unité de formation et de recherche :
 
-- le représentant légal de l'organisme, ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé, maître de stage ;
+- le représentant légal de l'organisme, ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé-maître de stage des universités ;
 
 En vue de l'accueil d'internes.
 
@@ -22,9 +22,9 @@ Il est convenu ce qu'il suit :
 
 Article 1er
 
-L' (organisme d'accueil,
+L'organisme d'accueil,
 
-ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé, maître de stage) accueille des internes dans le cadre de sa mission de service public portant sur l`enseignement universitaire et postuniversitaire telle que définie par son contrat pluriannuel d'objectif et de moyens, en date du
+ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé-maître de stage des universités accueille des internes dans le cadre de sa mission de service public portant sur l`enseignement universitaire et postuniversitaire telle que définie par son contrat pluriannuel d'objectif et de moyens, en date du
 
 Article 2
 
@@ -38,9 +38,9 @@ Les versements afférents aux charges sociales correspondant à la rémunératio
 
 Article 3
 
-L' (organisme d'accueil
+L'organisme d'accueil
 
-ou l'établissement de santé d'accueil) verse directement aux internes les indemnités que les intéressés peuvent percevoir au titre du service de gardes prévues au 3° de l'article R. 6153-10 du code de la santé publique.
+ou l'établissement de santé d'accueil verse directement aux internes les indemnités que les intéressés peuvent percevoir au titre du service de gardes prévues au 3° de l'article R. 6153-10 du code de la santé publique.
 
 Article 4
 
@@ -48,17 +48,11 @@ Lorsque les internes bénéficient des congés prévus aux articles R. 6153-12 �
 
 Article 5
 
-L' (organisme d'accueil,
+L'organisme d'accueil, ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé-maître de stage des universités s'engage à contracter une assurance auprès de pour couvrir les risques que les internes peuvent occasionner dans l'exercice de leurs fonctions ou dont ils peuvent être victimes.
 
-ou le représentant légal de l'établissement de santé d'accueil et, le cas échéant, le responsable médical, ou le praticien agréé, maître de stage) s'engage à contracter une assurance auprès de pour couvrir les risques que les internes peuvent occasionner dans l'exercice de leurs fonctions ou dont ils peuvent être victimes.
+Il déclare être titulaire auprès de la compagnie d'assurance d'une assurance en responsabilité professionnelle comportant une clause particulière considérant comme tiers les stagiaires qu'il accueille et prévoyant que les faits dommageables causés par les stagiaires ou dont ils peuvent être victimes sont pris en charge en sa qualité de commettant.
 
-Il déclare être titulaire auprès de la compagnie d'assurance
-
-d'une assurance en responsabilité professionnelle comportant une clause particulière considérant comme tiers les stagiaires qu'il accueille et prévoyant que les faits dommageables causés par les stagiaires ou dont ils peuvent être victimes sont pris en charge en sa qualité de commettant.
-
-L' (organisme d'accueil
-
-ou établissement de santé d'accueil ou le praticien agréé, maître de stage) s'assure que chaque interne a souscrit une assurance en responsabilité civile lors de sa prise de fonctions.
+L'organisme d'accueil ou établissement de santé d'accueil ou le praticien agréé-maître de stage des universités s'assure que chaque interne a souscrit une assurance en responsabilité civile lors de sa prise de fonctions.
 
 Article 6
 
@@ -70,7 +64,7 @@ Pour les stages extrahospitaliers, le CHU de rattachement est remboursé des som
 
 Article 7
 
-L'interne demeure soumis, pendant la durée du stage, au régime disciplinaire prévu aux articles R. 6153-29 à R. 6153-40 du code de la santé publique. Le directeur général du centre hospitalier universitaire de rattachement avise, le cas échéant, le directeur de l'unité de formation et de recherche des sanctions prononcées. Le directeur de l'unité de formation et de recherche dont relève l'interne peut mettre fin au stage ou le suspendre de sa propre initiative ou à la demande soit du responsable médical, maître de stage, soit du praticien agréé, maître de stage, soit du stagiaire. En tout état de cause, il ne pourra être mis fin à ce stage de façon unilatérale sans réunion préalable des parties contractantes et sous réserve d'un préavis de quinze jours.
+L'interne demeure soumis, pendant la durée du stage, au régime disciplinaire prévu aux articles R. 6153-29 à R. 6153-40 du code de la santé publique. Le directeur général du centre hospitalier universitaire de rattachement avise, le cas échéant, le directeur de l'unité de formation et de recherche des sanctions prononcées. Le directeur de l'unité de formation et de recherche dont relève l'interne peut mettre fin au stage ou le suspendre de sa propre initiative ou à la demande soit du responsable médical, maître de stage, soit du praticien agréé-maître de stage des universités, soit du stagiaire. En tout état de cause, il ne pourra être mis fin à ce stage de façon unilatérale sans réunion préalable des parties contractantes et sous réserve d'un préavis de quinze jours.
 
 Article 8
 
@@ -82,13 +76,11 @@ A l'issue du stage :
 
 - l'interne doit remettre un rapport de stage portant sur la formation théorique et pratique acquise durant le stage, visé par le responsable médical de stage, au responsable de l'enseignement et au directeur de l'établissement d'accueil ;
 
-- le responsable médical, maître de stage, ou le praticien agréé, maître de stag,e adresse au directeur de l'unité de formation et de recherche dont relève l'interne un rapport sur le déroulement du stage aux fins de validation du stage. Ce rapport est également communiqué, par le responsable médical ou par le praticien agréé, maître de stage, à l'interne.
+- le responsable médical, maître de stage, ou le praticien agréé-maître de stage des universités adresse au directeur de l'unité de formation et de recherche dont relève l'interne un rapport sur le déroulement du stage aux fins de validation du stage. Ce rapport est également communiqué, par le responsable médical ou par le praticien agréé-maître de stage des universités, à l'interne.
 
 Article 9
 
-Le responsable de (l'organisme d'accueil,
-
-ou le représentant légal de l'établissement de santé d'accueil, ou le praticien agréé, maître de stage) porte à la connaissance de l'interne le règlement intérieur de (organisme ou établissement d'accueil ou de structure ambulatoire) auquel il doit se conformer pendant la durée du stage.
+Le responsable de l'organisme d'accueil, ou le représentant légal de l'établissement de santé d'accueil, ou le praticien agréé-maître de stage des universités porte à la connaissance de l'interne le règlement intérieur de (organisme ou établissement d'accueil ou de structure ambulatoire) auquel il doit se conformer pendant la durée du stage.
 
 Les obligations de présence sont notifiées à l'interne par son maître de stage.
 
@@ -110,6 +102,4 @@ Le directeur de l'unité de formation et de recherche
 
 Le représentant légal de l'organisme
 
-ou établissement d'accueil ou le praticien agréé,
-
-maître de stage
+ou établissement d'accueil ou le praticien agréé-maître de stage des universités

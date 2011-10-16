@@ -12,7 +12,7 @@ Le dossier de demande de stage hors subdivision comporte :
 
 ― l'avis du coordonnateur local du diplôme d'études spécialisées d'origine concerné ;
 
-― l'avis du responsable médical du lieu de stage agréé ou du praticien agréé-maître de stage d'accueil, ainsi que celui du directeur de l'établissement hospitalier ou de l'organisme d'accueil.
+― l'avis du responsable médical du lieu de stage agréé ou du     praticien agréé-maître de stage des universités  d'accueil, ainsi que celui du directeur de l'établissement hospitalier ou de l'organisme d'accueil.
 
 Le directeur de l'unité de formation et de recherche donne son accord pour la réalisation de ce stage après consultation des représentants de l'agence régionale de santé, du centre hospitalier universitaire de rattachement et des internes.
 

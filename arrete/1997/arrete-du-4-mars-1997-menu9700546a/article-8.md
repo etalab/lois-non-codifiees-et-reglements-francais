@@ -1,6 +1,6 @@
 # Article 8
 
-La formation clinique comporte une participation à l'activité hospitalière et un stage chez un médecin généraliste.
+La formation clinique comporte une participation à l'activité hospitalière et un stage chez un praticien agréé-maître de stage des universités.
 
 I. - Participation à l'activité hospitalière
 
@@ -36,6 +36,6 @@ La note de stage tient compte :
 
 La validation de la totalité des stages afférents à une année d'études conditionne le passage dans l'année supérieure.
 
-II. - Stage chez le médecin généraliste
+II. - Stage chez le praticien agréé-maître de stage des universités
 
-Chaque étudiant doit effectuer pendant la deuxième partie du deuxième cycle des études médicales un stage d'initiation à la médecine générale dont la durée et les modalités sont fixées par arrêté. Ce stage est réalisé sur la base d'un projet pédagogique, élaboré par le conseil de l'unité de formation et de recherche de médecine sur les propositions du département de médecine générale ou de la commission de coordination et d'évaluation du troisième cycle de médecine générale visés à l'article 23 du décret du 16 janvier 2004 susvisé. Ce projet fait l'objet d'un contrat entre le directeur de l'unité de formation et de recherche de médecine, le médecin généraliste et le directeur du centre hospitalier régional et universitaire.
+Chaque étudiant doit effectuer pendant la deuxième partie du deuxième cycle des études médicales un stage d'initiation à la médecine générale dont la durée et les modalités sont fixées par arrêté. Ce stage est réalisé sur la base d'un projet pédagogique, élaboré par le conseil de l'unité de formation et de recherche de médecine sur les propositions du département de médecine générale ou de la commission de coordination et d'évaluation du troisième cycle de médecine générale visés à l'article 23 du décret du 16 janvier 2004 susvisé. Ce projet fait l'objet d'un contrat entre le directeur de l'unité de formation et de recherche de médecine, le praticien agréé-maître de stage des universités et le directeur du centre hospitalier régional et universitaire.

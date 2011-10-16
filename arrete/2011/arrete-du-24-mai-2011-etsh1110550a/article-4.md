@@ -8,6 +8,6 @@ La convention est signée par :
 
 ― le directeur de l'unité de formation et de recherche dont relève l'interne ;
 
-― le responsable légal de l'établissement ou organisme d'accueil, ou le praticien agréé, maître de stage auprès duquel l'interne effectue son stage.
+― le responsable légal de l'établissement ou organisme d'accueil, ou le praticien agréé-maître de stage des universités auprès duquel l'interne effectue son stage.
 
 La convention est, en outre, communiquée au responsable médical du lieu de stage agréé de l'établissement de santé d'accueil.

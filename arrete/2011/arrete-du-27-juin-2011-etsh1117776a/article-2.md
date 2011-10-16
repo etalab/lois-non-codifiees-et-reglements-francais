@@ -2,7 +2,7 @@
 
 Les fonctions extrahospitalières sont effectuées :
 
-1° Soit sous la responsabilité de praticiens agréés maîtres de stage, exerçant dans des structures ambulatoires, notamment des cabinets libéraux, des centres de santé, maisons de santé pluridisciplinaires ;
+1° Soit sous la responsabilité de praticiens agréés-maîtres de stage des universités, exerçant dans des structures ambulatoires, notamment des cabinets libéraux, des centres de santé, maisons de santé pluridisciplinaires ;
 
 2° Soit dans des organismes agréés extrahospitaliers, des laboratoires agréés de recherche, des structures de soins alternatives à l'hospitalisation agréées.
 
