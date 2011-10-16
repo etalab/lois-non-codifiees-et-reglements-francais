@@ -1,4 +1,4 @@
-# Article ANNEXE II
+# Article Annexe II
 
 LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 
@@ -19,7 +19,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p align="center">d'animaux</p>
 </td>
 <td width="110">
-<p align="center">DÉCLARATIONS D'ÉTIQUETAGE</p>
+<p align="center">DÉCLARATIONS d'étiquetage</p>
 </td>
 <td width="103">
 <p align="center">DURÉE</p>
@@ -1604,32 +1604,82 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </td>
 </tr>
 <tr>
-<td valign="top" width="111">
-<p>Calcium.</p>
+<td align="left" valign="top">
+<p align="left">Calcium.</p>
 </td>
-<td rowspan="5" valign="top" width="140">
-<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence."</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="111">
-<p>Phosphore.</p>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Indiquer dans le mode d'emploi : "Eau disponible en permanence."</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="111">
-<p>Potassium.</p>
+<td>
+<p align="left">Phosphore.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="111">
-<p>Magnésium.</p>
+<td>
+<p align="left">Potassium.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="111">
-<p>Sodium.</p>
+<td>
+<p align="left">Magnésium.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Sodium.</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Soutien du métabolisme des articulations en cas d'ostéoarthrose</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chiens : <br/>Teneur minimale en matière sèche du total des acides gras oméga-3 : 3,3 % </p>
+<p align="left">Teneur minimale en matière sèche du total des acides eicosapentaénoïques (EPA) : 0,38 % </p>
+<p align="left">Teneur en vitamine E appropriée</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Chiens et chats </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chiens : </p>
+<p align="left">Total des acides gras oméga-3 </p>
+<p align="left">Total EPA </p>
+<p align="left">Vitamine E totale</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Au départ, jusqu'à trois mois</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Il est recommandé de consulter un vétérinaire avant utilisation ou prolongation de la période d'utilisation</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chats : </p>
+<p>Teneur minimale en matière sèche du total des acides gras oméga-3 : 1,2 % </p>
+<p>Teneur minimale en matière sèche du total des acides docosahexaénoïques (DHA) : 0,28 % </p>
+<p>Teneurs accrues en méthionine et manganèse. </p>
+<p>Teneur en vitamine E appropriée</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chats : </p>
+<p>Total des acides gras oméga-3 </p>
+<p>Total DHA </p>
+<p>Méthionine totale </p>
+<p>Manganèse total </p>
+<p>Vitamine E totale</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td colspan="6" width="643">
