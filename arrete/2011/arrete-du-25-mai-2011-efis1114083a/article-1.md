@@ -18,7 +18,7 @@ Les actes de gestion suivants concernant les fonctionnaires titulaires et stagia
 
 ― actes relatifs à la mise en œuvre des entretiens professionnels et décisions individuelles de réductions moyennes de durée d'échelon ;
 
-― décisions relatives aux sanctions disciplinaires du premier groupe pour les titulaires et propositions de sanctions disciplinaires autres que celles du premier groupe pour les titulaires et de tous types pour les stagiaires ;
+― décisions relatives aux sanctions disciplinaires du premier groupe pour les titulaires, décisions relatives à l'avertissement et au blâme pour les stagiaires, et propositions de sanctions disciplinaires autres que celles du premier groupe pour les titulaires et autres que l'avertissement et le blâme pour les stagiaires ;
 
 ― décisions relatives à l'aménagement des postes de travail pendant la grossesse ou en cas d'invalidité et sur recommandation du médecin de prévention ;
 
