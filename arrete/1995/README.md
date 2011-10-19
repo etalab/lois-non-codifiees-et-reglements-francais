@@ -584,7 +584,6 @@
 - [Arrêté du 16 février 1995 (DEFT9501220A)](arrete-du-16-fevrier-1995-deft9501220a)
 - [Arrêté du 16 février 1995 (ECOC9400174A)](arrete-du-16-fevrier-1995-ecoc9400174a)
 - [Arrêté du 16 février 1995 (INDE9401518A)](arrete-du-16-fevrier-1995-inde9401518a)
-- [Arrêté du 16 janvier 1995 (AGRG9500079A)](arrete-du-16-janvier-1995-agrg9500079a)
 - [Arrêté du 16 janvier 1995 (ECOP9500021A)](arrete-du-16-janvier-1995-ecop9500021a)
 - [Arrêté du 16 janvier 1995 (ECOS9550002A)](arrete-du-16-janvier-1995-ecos9550002a)
 - [Arrêté du 16 janvier 1995 (MENA9402128A)](arrete-du-16-janvier-1995-mena9402128a)
