@@ -166,6 +166,7 @@
 - [Décret n°2011-1304 du 14 octobre 2011 (ETSP1120161D)](decret-n2011-1304-du-14-octobre-2011-etsp1120161d)
 - [Décret n°2011-1305 du 14 octobre 2011 (MENF1120804D)](decret-n2011-1305-du-14-octobre-2011-menf1120804d)
 - [Décret n°2011-1306 du 14 octobre 2011 (ESRS1120767D)](decret-n2011-1306-du-14-octobre-2011-esrs1120767d)
+- [Décret n°2011-1308 du 14 octobre 2011 (IOCD1117904D)](decret-n2011-1308-du-14-octobre-2011-iocd1117904d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2009-1244 du 15 octobre 2009 (AGRT0917146D)](decret-n2009-1244-du-15-octobre-2009-agrt0917146d)
 - [Décret n°2011-1108 du 15 septembre 2011 (AGRT1114771D)](decret-n2011-1108-du-15-septembre-2011-agrt1114771d)
