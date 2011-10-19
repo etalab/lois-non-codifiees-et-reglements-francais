@@ -35,6 +35,7 @@
 - [Décret n°2011-813 du 5 juillet 2011 (TRAT1109586D)](decret-n2011-813-du-5-juillet-2011-trat1109586d)
 - [Décret n°91-868 du 5 septembre 1991 (SANH9101413D)](decret-n91-868-du-5-septembre-1991-sanh9101413d)
 - [Décret n°91-869 du 5 septembre 1991 (SANH9101414D)](decret-n91-869-du-5-septembre-1991-sanh9101414d)
+- [Décret n°2005-1124 du 6 septembre 2005 (INTD0500247D)](decret-n2005-1124-du-6-septembre-2005-intd0500247d)
 - [Décret n°2011-1049 du 6 septembre 2011 (IOCV1115871D)](decret-n2011-1049-du-6-septembre-2011-iocv1115871d)
 - [Décret n°2011-1050 du 6 septembre 2011 (EFIT1118070D)](decret-n2011-1050-du-6-septembre-2011-efit1118070d)
 - [Décret n°2011-1051 du 6 septembre 2011 (MENR1118078D)](decret-n2011-1051-du-6-septembre-2011-menr1118078d)

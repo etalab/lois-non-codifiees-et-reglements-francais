@@ -2,7 +2,7 @@
 
 Peuvent être enregistrées les catégories de données à caractère personnel suivantes :
 
-1° Concernant les personnes mentionnées au 1° du II de l'article 21-1 de la loi du 18 mars 2003 susvisée :
+1° Concernant les personnes mentionnées au 1° de l'article 230-13 du code de procédure pénale :
 
 ― nom de famille, nom d'usage, nom d'emprunt officiel, prénoms ;
 
@@ -14,11 +14,11 @@ Peuvent être enregistrées les catégories de données à caractère personnel 
 
 ― situation familiale ;
 
-― adresse(s) ;
+― adresse (s) ;
 
-― numéro(s) de téléphone ;
+― numéro (s) de téléphone ;
 
-― profession(s) ;
+― profession (s) ;
 
 ― signalement ;
 
@@ -28,27 +28,27 @@ Peuvent être enregistrées les catégories de données à caractère personnel 
 
 ― éléments caractéristiques du mode de vie susceptibles de répondre aux finalités du traitement définies à l'article 1er ;
 
-2° Concernant les personnes mentionnées au 2° du II de l'article 21-1 de la même loi :
+2° Concernant les personnes mentionnées au 2° de l'article 230-13 du même code :
 
 ― nom de famille, nom d'usage, prénoms ;
 
 ― date de naissance ;
 
-― adresse(s) ;
+― adresse (s) ;
 
 ― photographie ;
 
-3° Concernant les personnes mentionnées au 3° du II de l'article 21-1 de la même loi :
+3° Concernant les personnes mentionnées au 3° de l'article 230-13 du même code :
 
 ― nom de famille, nom d'usage, prénoms ;
 
 ― date de naissance ;
 
-― adresse(s) ;
+― adresse (s) ;
 
 ― photographie ;
 
-4° Concernant les personnes mentionnées aux 4° et 5° du II de l'article 21-1 de la même loi :
+4° Concernant les personnes mentionnées aux 4° et 5° de l'article 230-13 du même code :
 
 ― nom de famille, nom d'usage, nom d'emprunt officiel, prénoms ;
 
@@ -56,9 +56,9 @@ Peuvent être enregistrées les catégories de données à caractère personnel 
 
 ― date et lieu de naissance ;
 
-― adresse(s) ;
+― adresse (s) ;
 
-― numéro(s) de téléphone ;
+― numéro (s) de téléphone ;
 
 ― signalement ;
 
