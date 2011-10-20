@@ -2,7 +2,7 @@
 
 Nul ne peut être notaire s'il ne remplit les conditions suivantes :
 
-1° Etre français ;
+1° Etre français ou ressortissant d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 
