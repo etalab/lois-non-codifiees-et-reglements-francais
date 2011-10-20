@@ -447,7 +447,6 @@
 - [Arrêté du 16 mars 2004 (JUSA0400093A)](arrete-du-16-mars-2004-jusa0400093a)
 - [Arrêté du 16 mars 2004 (MCCB0300626A)](arrete-du-16-mars-2004-mccb0300626a)
 - [Arrêté du 16 mars 2004 (MCCB0300628A)](arrete-du-16-mars-2004-mccb0300628a)
-- [Arrêté du 16 mars 2004 (MCCF0400225A)](arrete-du-16-mars-2004-mccf0400225a)
 - [Arrêté du 16 mars 2004 (MCCF0400227A)](arrete-du-16-mars-2004-mccf0400227a)
 - [Arrêté du 16 mars 2004 (MCCF0400229A)](arrete-du-16-mars-2004-mccf0400229a)
 - [Arrêté du 16 novembre 2004 (SANH0423894A)](arrete-du-16-novembre-2004-sanh0423894a)
