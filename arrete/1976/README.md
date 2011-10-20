@@ -1,6 +1,5 @@
 # 1976
 
-- [Arrêté du 1 avril 1976](arrete-du-1-avril-1976)
 - [Arrêté du 1 octobre 1976](arrete-du-1-octobre-1976)
 - [Arrêté du 1 septembre 1975](arrete-du-1-septembre-1975)
 - [Arrêté du 2 juillet 1976](arrete-du-2-juillet-1976)

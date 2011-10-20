@@ -1299,7 +1299,6 @@
 - [Arrêté du 17 août 2009 (DEFD0919490A)](arrete-du-17-aout-2009-defd0919490a)
 - [Arrêté du 17 août 2009 (DEVA0915101A)](arrete-du-17-aout-2009-deva0915101a)
 - [Arrêté du 17 août 2009 (DEVA0919730A)](arrete-du-17-aout-2009-deva0919730a)
-- [Arrêté du 17 août 2009 (DEVK0913795A)](arrete-du-17-aout-2009-devk0913795a)
 - [Arrêté du 17 avril 2009 (AGRF0908910A)](arrete-du-17-avril-2009-agrf0908910a)
 - [Arrêté du 17 avril 2009 (AGRP0909488A)](arrete-du-17-avril-2009-agrp0909488a)
 - [Arrêté du 17 avril 2009 (DEVU0906148A)](arrete-du-17-avril-2009-devu0906148a)
