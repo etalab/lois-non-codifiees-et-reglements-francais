@@ -7,34 +7,30 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <tr>
 <td rowspan="3">
 <p align="center">COMMISSIONS</p>
-<pre> </pre>
-<pre> </pre>
 </td>
 <td rowspan="3">
 <p align="center">CORPS ET GRADES</p>
-<pre> </pre>
-<pre> </pre>
 </td>
 <td colspan="4">
-<p align="center">REPRÉSENTANTS</p>
+<p align="center">NOMBRE DE REPRÉSENTANTS</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="110">
+<td colspan="2">
 <p align="center">Du personnel</p>
 </td>
-<td colspan="2" width="110">
+<td colspan="2">
 <p align="center">De l'administration</p>
 </td>
 </tr>
 <tr>
-<td width="49">
+<td>
 <p align="center">Titulaires</p>
 </td>
-<td width="58">
+<td>
 <p align="center">Suppléants</p>
 </td>
-<td width="49">
+<td>
 <p align="center">Titulaires</p>
 </td>
 <td>
@@ -42,161 +38,136 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td>
 <p align="center">1</p>
-<pre> </pre>
-<pre> </pre>
 </td>
 <td>
 <p>Directeurs de recherche de classe exceptionnelle</p>
 </td>
-<td width="49">
+<td>
 <p align="center">2</p>
 </td>
-<td width="58">
+<td>
 <p align="center">2</p>
 </td>
-<td rowspan="3" width="49">
-<pre> </pre>
-<p align="center">8</p>
-<pre> </pre>
+<td align="center" rowspan="3" valign="middle">
+<pre>8</pre>
 </td>
-<td rowspan="3">
-<pre> </pre>
-<p align="center">8</p>
-<pre> </pre>
+<td align="center" rowspan="3" valign="middle">
+<pre>8</pre>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeurs de recherche de 1<sup>re</sup> classe</p>
-</td>
-<td width="49">
-<p align="center">3</p>
-</td>
-<td width="58">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeurs de recherche de 2<sup>e</sup> classe </p>
-</td>
-<td width="49">
-<p align="center">3</p>
-</td>
-<td width="58">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p align="center">2</p>
 <pre> </pre>
 </td>
 <td>
-<p>Chargés de recherche de 1<sup>re</sup> classe</p>
+<p>Directeurs de recherche de 1re classe</p>
 </td>
-<td width="49">
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Directeurs de recherche de 2e classe </p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p>Chargés de recherche de 1re classe</p>
+</td>
+<td>
 <p align="center">4</p>
 </td>
-<td width="58">
+<td>
 <p align="center">4</p>
 </td>
-<td rowspan="2" width="49">
+<td align="center" rowspan="2" valign="middle">
 <p align="center">7</p>
-<pre> </pre>
 </td>
 <td rowspan="2">
 <p align="center">7</p>
-<pre> </pre>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chargés de recherche de 2<sup>e</sup> classe</p>
+<pre> </pre>
 </td>
-<td width="49">
+<td>
+<p>Chargés de recherche de 2e classe</p>
+</td>
+<td>
 <p align="center">3</p>
 </td>
-<td width="58">
+<td>
 <p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">3</p>
-<pre> </pre>
-<pre> </pre>
+<td align="center" rowspan="3" valign="top">
+<p align="center">3 </p>
 </td>
 <td>
-<p>Ingénieurs d'études hors classe</p>
+<p>Ingénieurs de recherche hors classe</p>
 </td>
-<td width="49">
+<td>
 <p align="center">2</p>
 </td>
-<td width="58">
+<td>
 <p align="center">2</p>
 </td>
-<td rowspan="3" width="49">
-<pre> </pre>
-<p align="center">7</p>
-<pre> </pre>
+<td align="center" rowspan="3" valign="middle">
+<pre>8</pre>
 </td>
-<td rowspan="3">
-<pre> </pre>
-<p align="center">7</p>
-<pre> </pre>
+<td align="center" rowspan="3" valign="middle">
+<pre>8</pre>
 </td>
 </tr>
 <tr>
 <td>
 <p>Ingénieurs de recherche de 1re classe </p>
 </td>
-<td width="49">
-<p align="center">2</p>
+<td>
+<p align="center">3</p>
 </td>
-<td width="58">
-<p align="center">2</p>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
 <td>
 <p>Ingénieurs de recherche de 2e classe </p>
 </td>
-<td width="49">
+<td>
 <p align="center">3</p>
 </td>
-<td width="58">
+<td>
 <p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td align="center" rowspan="3" valign="top">
 <p align="center">4</p>
-<pre> </pre>
 </td>
 <td>
-<p>Ingénieurs d'études de hors classe</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-<td rowspan="3" width="49">
-<pre> </pre>
-<p align="center">7</p>
-</td>
-<td rowspan="3">
-<pre> </pre>
-<p align="center">7</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ingénieurs d'études de 1re classe, chargés de mission de la recherche et attachés principaux d'administration de la recherche de 2e classe </p>
+<p align="left">Ingénieurs d'études hors classe</p>
+<p align="left">Attachés principaux d'administration de la recherche de 1re classe</p>
 </td>
 <td>
 <p align="center">2</p>
@@ -204,127 +175,144 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <td>
 <p align="center">2</p>
 </td>
-</tr>
-<tr>
-<td>
-<p>Ingénieurs d'études de 2e classe et attachés d'administration de la recherche. </p>
-</td>
-<td width="49">
-<p align="center">3</p>
-</td>
-<td width="58">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<pre> </pre>
+<td rowspan="3" valign="middle">
 <div align="center">
-<pre>5</pre>
+<pre>8</pre>
 </div>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<pre>8</pre>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ingénieurs d'études de 1re classe </p>
+<p>Attachés principaux de la recherche de 2e classe </p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ingénieurs d'études de 2e classe </p>
+<p>Attachés d'administration de la recherche</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 5</p>
 </td>
 <td>
 <p>Assistants ingénieurs</p>
 </td>
-<td width="49">
-<p align="center">4</p>
-</td>
-<td width="58">
-<p align="center">4</p>
-</td>
-<td width="49">
-<p align="center">4</p>
+<td>
+<p align="center"> 4</p>
 </td>
 <td>
-<p align="center">4</p>
+<p align="center"> 4</p>
+</td>
+<td>
+<p align="center"> 4</p>
+</td>
+<td>
+<p align="center"> 4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<div align="center">
-<pre>6</pre>
-</div>
+<td align="center" rowspan="3" valign="top">
+<p align="center">6</p>
 </td>
 <td>
-<p>Techniciens de la recherche de classe exceptionnelle et secrétaires d'administration de la recherche de classe exceptionnelle</p>
+<p align="left">Techniciens de la recherche de classe exceptionnelle </p>
+<p>Secrétaires d'administration de la recherche de classe exceptionnelle </p>
 </td>
-<td width="49">
+<td>
 <p align="center">2</p>
 </td>
-<td width="58">
+<td>
 <p align="center">2</p>
-</td>
-<td rowspan="3" width="49">
-<p align="center">8</p>
 </td>
 <td rowspan="3">
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Techniciens de la recherche de classe supérieure et secrétaires d'administration de la recherche de classe supérieure</p>
-</td>
-<td width="49">
-<p align="center">3</p>
-</td>
-<td width="58">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Techniciens de la recherche de classe normale et secrétaires d'administration de la recherche de classe normale</p>
-</td>
-<td width="49">
-<p align="center">3</p>
-</td>
-<td width="58">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3">
-<div align="center">
-<pre>7</pre>
-</div>
-</td>
-<td>
-<p>Adjoints techniques principaux de la recherche de 1re classe</p>
-</td>
-<td width="49">
-<p align="center">2</p>
-</td>
-<td width="58">
-<p align="center">2</p>
-</td>
-<td rowspan="3" width="49">
-<p align="center">5</p>
+<p align="center">7 </p>
 </td>
 <td rowspan="3">
-<p align="center">5</p>
+<p align="center">7</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques principaux de la recherche de 2e classe</p>
+<p align="left">Techniciens de la recherche de classe supérieure </p>
+<p>Secrétaires d'administration de la recherche de classe supérieure </p>
 </td>
-<td width="49">
+<td>
 <p align="center">2</p>
 </td>
-<td width="58">
+<td>
+<p align="center">2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Techniciens de la recherche de classe normale </p>
+<p>Secrétaires d'administration de la recherche de classe normale </p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3" valign="top">
+<p align="center">7</p>
+</td>
+<td>
+<p align="left">Adjoints techniques principaux de la recherche de 1re classe </p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td rowspan="3" valign="middle">
+<p align="center">6</p>
+</td>
+<td rowspan="3" valign="middle">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoints techniques principaux de la recherche de 2e classe </p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques de la recherche de 1re classe</p>
+<p align="left">Adjoints techniques de la recherche de 1re classe </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 </tr>
 </tbody>
