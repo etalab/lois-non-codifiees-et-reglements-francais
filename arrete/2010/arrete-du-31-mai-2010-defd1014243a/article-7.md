@@ -17,5 +17,3 @@ La sous-direction du logement est chargée :
 ― de coordonner les organismes chargés de la mise en œuvre de la politique du ministère en matière de logement ;
 
 ― de préparer les actes relatifs à l'exercice de la tutelle administrative de l'établissement public des fonds de prévoyance militaire et de l'aéronautique ;
-
-― d'assurer la présidence du comité du logement et la coprésidence des commissions régionales du logement.
