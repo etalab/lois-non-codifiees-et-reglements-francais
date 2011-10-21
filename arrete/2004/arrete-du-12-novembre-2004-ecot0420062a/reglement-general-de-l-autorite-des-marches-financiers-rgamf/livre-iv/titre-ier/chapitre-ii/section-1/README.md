@@ -7,5 +7,3 @@
 - [Article 412-2-1](article-412-2-1.md)
 - [Article 412-2-2](article-412-2-2.md)
 - [Article 412-2-3](article-412-2-3.md)
-- [Article 412-3](article-412-3.md)
-- [Article 412-4](article-412-4.md)

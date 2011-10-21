@@ -92,7 +92,6 @@
 - [Arrêté du 9 mai 2006 (MENE0601247A)](arrete-du-9-mai-2006-mene0601247a)
 - [Arrêté du 10 août 2006 (BUDF0620458A)](arrete-du-10-aout-2006-budf0620458a)
 - [Arrêté du 10 janvier 2006 (INDI0606591A)](arrete-du-10-janvier-2006-indi0606591a)
-- [Arrêté du 10 janvier 2006 (SOCF0610079A)](arrete-du-10-janvier-2006-socf0610079a)
 - [Arrêté du 10 juillet 2006 (EQUA0600935A)](arrete-du-10-juillet-2006-equa0600935a)
 - [Arrêté du 10 mars 2006 (ECOS0650011A)](arrete-du-10-mars-2006-ecos0650011a)
 - [Arrêté du 10 mars 2006 (INTE0600176A)](arrete-du-10-mars-2006-inte0600176a)

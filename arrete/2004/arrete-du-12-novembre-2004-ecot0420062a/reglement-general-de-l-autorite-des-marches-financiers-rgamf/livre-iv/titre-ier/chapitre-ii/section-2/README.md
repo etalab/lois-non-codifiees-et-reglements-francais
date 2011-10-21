@@ -2,4 +2,3 @@
 
 - [Sous-section 1 : OPCVM à vocation générale](sous-section-1)
 - [Sous-section 2 : Fonds communs de placement à risques](sous-section-2)
-- [Article 412-5](article-412-5.md)

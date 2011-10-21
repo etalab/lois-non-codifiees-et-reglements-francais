@@ -1,3 +1,0 @@
-# Article 312-9
-
-Une société de gestion de portefeuille peut détenir des participations dans des établissements de crédit, des entreprises d'investissement, des sociétés de gestion de sociétés civiles de placement immobilier, de fonds communs de créances et de sociétés d'épargne forestière, des sociétés d'assurance, des sociétés constituées pour gérer l'épargne retraite ou des entreprises dont l'activité porte sur un ou plusieurs des services énumérés à l'article L. 321-2 du code monétaire et financier. Elle peut également détenir des participations dans des sociétés dont l'objet constitue un prolongement de ses activités.
