@@ -14,8 +14,6 @@ Chef d'état-major de la marine.
 
 Chef d'état-major de l'armée de l'air.
 
-Directeur général de la gendarmerie nationale.
-
 Inspecteur général des armées, armée de terre.
 
 Inspecteur général des armées, marine.
@@ -58,10 +56,6 @@ Officier général de zone de défense de Marseille, gouverneur militaire de Mar
 
 Général commandant la force d'action terrestre.
 
-Général commandant la force logistique terrestre.
-
-Général commandant les organismes de formation de l'armée de terre.
-
 Amiral commandant la force d'action navale.
 
 Général commandant de la défense aérienne et des opérations aériennes.
@@ -72,7 +66,7 @@ Général commandant le soutien des forces aériennes.
 
 Directeur du renseignement militaire.
 
-Directeur    de l'Ecole de guerre.
+Directeur de l'Ecole de guerre.
 
 Commandant supérieur des forces armées aux Antilles.
 
@@ -88,14 +82,6 @@ Général commandant l'état-major des forces de Marseille.
 
 Général commandant l'état-major des forces de Besançon.
 
-Général commandant l'état-major des forces de Nantes.
-
-Général commandant l'état-major des forces de Limoges.
-
-Général commandant la brigade du génie, gouverneur militaire de Strasbourg.
-
-Général commandant la 4e brigade aéromobile, gouverneur militaire de Nancy.
-
 Général commandant la 1re brigade mécanisée.
 
 Général commandant la 11e brigade parachutiste.
@@ -105,6 +91,10 @@ Général commandant la 27e brigade d'infanterie de montagne.
 Général commandant la 6e brigade légère blindée.
 
 Général commandant la 2e brigade blindée.
+
+Général commandant la 9e brigade légère blindée et d'infanterie de marine.
+
+Général commandant la 3e brigade mécanisée.
 
 Général commandant suprême allié transformation à Norfolk (Etats-Unis d'Amérique).
 
