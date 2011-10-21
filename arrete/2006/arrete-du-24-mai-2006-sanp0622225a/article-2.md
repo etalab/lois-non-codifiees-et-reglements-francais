@@ -10,11 +10,11 @@ I.-Un dossier administratif contenant les informations suivantes :
 
 3° Le document additionnel à la demande d'avis au comité de protection des personnes décrit en annexe au présent arrêté, daté et signé, accompagné des supports susceptibles d'être utilisés en vue du recrutement des personnes ;
 
-4° Le reçu de confirmation du numéro EudraCT ;
+4° (Supprimé)
 
-5° Le cas échéant, la liste des autorités compétentes des Etats membres de la Communauté européenne auxquelles la demande a été soumise et la nature de leur décision finale, si elle est disponible ;
+5° (Supprimé)
 
-6° Si le demandeur n'est pas le promoteur, l'autorisation écrite lui permettant d'agir pour le compte du promoteur ;
+6° (Supprimé)
 
 7° Le cas échéant, la copie de la ou des autorisations de lieux de recherches biomédicales mentionnées à l'article L. 1121-13 du code de la santé publique.
 
