@@ -650,6 +650,7 @@
 - [Arrêté du 10 février 2011 (EFII1102061A)](arrete-du-10-fevrier-2011-efii1102061a)
 - [Arrêté du 10 février 2011 (ESRH1100216A)](arrete-du-10-fevrier-2011-esrh1100216a)
 - [Arrêté du 10 février 2011 (ETSD1103582A)](arrete-du-10-fevrier-2011-etsd1103582a)
+- [Arrêté du 10 janvier 2006 (SOCF0610079A)](arrete-du-10-janvier-2006-socf0610079a)
 - [Arrêté du 10 janvier 2011 (AGRE1100158A)](arrete-du-10-janvier-2011-agre1100158a)
 - [Arrêté du 10 janvier 2011 (DEFH1021848A)](arrete-du-10-janvier-2011-defh1021848a)
 - [Arrêté du 10 janvier 2011 (EFIP1033214A)](arrete-du-10-janvier-2011-efip1033214a)
