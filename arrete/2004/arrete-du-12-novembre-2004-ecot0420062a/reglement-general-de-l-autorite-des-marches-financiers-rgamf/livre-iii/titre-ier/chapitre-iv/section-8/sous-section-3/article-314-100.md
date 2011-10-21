@@ -1,6 +1,6 @@
 # Article 314-100
 
-La société de gestion de portefeuille élabore un document intitulé "politique de vote, mis à jour en tant que de besoin, qui présente les conditions dans lesquelles elle entend exercer les droits de vote attachés aux titres détenus par les OPCVM dont elle assure la gestion.
+La société de gestion de portefeuille élabore un document intitulé " politique de vote ", mis à jour en tant que de besoin, qui présente les conditions dans lesquelles elle entend exercer les droits de vote attachés aux titres détenus par les OPCVM dont elle assure la gestion.
 
 Ce document décrit notamment :
 
@@ -28,4 +28,4 @@ g) Tout autre type de résolution spécifique que la société de gestion de por
 
 5° L'indication du mode courant d'exercice des droits de vote tel que la participation effective aux assemblées, le recours aux procurations sans indication du mandataire ou le recours aux votes par correspondance.
 
-Ce document est tenu à la disposition de l'AMF. Il peut être consulté sur le site de la société de gestion de portefeuille o
+Ce document est tenu à la disposition de l'AMF. Il peut être consulté sur le site de la société de gestion de portefeuille ou au siège de celle-ci selon les modalités précisées dans le prospectus. Il est mis gratuitement à la disposition des porteurs de parts ou actionnaires de l'OPCVM qui le demandent.

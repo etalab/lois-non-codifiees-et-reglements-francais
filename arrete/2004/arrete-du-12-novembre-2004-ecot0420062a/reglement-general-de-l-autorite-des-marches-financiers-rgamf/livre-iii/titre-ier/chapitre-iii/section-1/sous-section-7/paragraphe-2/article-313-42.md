@@ -1,6 +1,6 @@
 # Article 313-42
 
-L'examen consiste en un entretien avec un jury du candidat à l'attribution de la carte professionnelle, présenté par le prestataire de services d'investissement pour le compte duquel il est appelé à exercer ses fonctions.
+-L'examen consiste en un entretien avec un jury du candidat à l'attribution de la carte professionnelle, présenté par le prestataire de services d'investissement pour le compte duquel il est appelé à exercer ses fonctions.
 
 Le programme et les modalités de cet examen sont précisés par une instruction de l'AMF.
 

@@ -14,7 +14,7 @@ II. - Après avis du Haut Conseil certificateur de place, l'AMF :
 
 3° Définit et vérifie les modalités des examens qui valident l'acquisition des connaissances minimales ;
 
-4° Délivre une certification des examens pour deux ans dans un délai de trois mois suivant le dépôt du dossier. En tant que de besoin, ce délai est suspendu jusqu'à la réception des éléments complémentaires demandés. Cette certification peut être renouvelée par période de trois ans ;
+4° Délivre une certification des examens pour deux ans dans un délai de trois mois suivant le dépôt du dossier. En tant que de besoin, ce délai est suspendu jusqu'à la réception des éléments complémentaires demandés. Cette certification peut être renouvelée par période de trois ans.
 
 5° Le dépôt d'une demande de certification donne lieu au versement à l'AMF de frais de dossiers dont elle fixe le montant.
 

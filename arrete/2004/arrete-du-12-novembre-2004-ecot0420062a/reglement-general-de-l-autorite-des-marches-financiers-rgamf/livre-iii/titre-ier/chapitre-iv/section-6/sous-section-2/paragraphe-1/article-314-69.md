@@ -8,6 +8,8 @@ Pour l'application du I de l'article L. 533-18 du code monétaire et financier, 
 
 3° Les caractéristiques des instruments financiers qui font l'objet de cet ordre ;
 
-4° Les caractéristiques des lieux d'exécution vers lesquels cet ordre peut être acheminé.
+4° Les caractéristiques des lieux d'exécution vers lesquels cet ordre peut être acheminé ;
 
-Pour l'application de la présente sous-section, on entend par  lieu d'exécution  un marché réglementé, un système multilatéral de négociation, un internalisateur systématique, un teneur de marché, un autre fournisseur de liquidité, ou une entité qui s'acquitte de tâches similaires dans un pays non partie à l'accord sur l'Espace économique européen.
+5° Pour l'activité de gestion d'OPCVM, les objectifs, la politique d'investissement et les risques spécifiques à l'OPCVM indiqués dans le prospectus ou, le échéant, dans le règlement ou les statuts de l'OPCVM.
+
+Pour l'application de la présente sous-section, on entend par " lieu d'exécution " un marché réglementé, un système multilatéral de négociation, un internalisateur systématique, un teneur de marché, un autre fournisseur de liquidité, ou une entité qui s'acquitte de tâches similaires dans un pays non partie à l'accord sur l'Espace économique européen.

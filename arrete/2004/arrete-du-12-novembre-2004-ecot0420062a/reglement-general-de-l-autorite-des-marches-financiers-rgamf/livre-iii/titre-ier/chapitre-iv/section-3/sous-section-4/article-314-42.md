@@ -1,8 +1,8 @@
 # Article 314-42
 
-Le prestataire de services d'investissement fournit aux clients non professionnels des informations sur les coûts et les frais liés, contenant s'il y a lieu, les renseignements suivants :
+Le prestataire de services d'investissement fournit aux clients non professionnels des informations sur les coûts et les frais liés, contenant, s'il y a lieu, les renseignements suivants :
 
-1° Le prix total à payer par le client en rapport avec l'instrument financier ou le service d'investissement ou le service connexe, y compris tous les frais, commissions, charges et dépenses connexes, ainsi que toutes les taxes payables par l'intermédiaire du prestataire de services d'investissement ou, si le prix exact ne peut pas être indiqué, la base de calcul du prix total de façon à ce que le client puisse le vérifier ;
+1° Le prix total à payer par le client en rapport avec l'instrument financier ou le service d'investissement ou le service connexe, y compris tous les frais, commissions, charges et dépenses connexes, ainsi que toutes les taxes payables par l'intermédiaire du prestataire de services d'investissement ou, si le prix exact ne peut pas être indiqué, la base de calcul du prix total de façon que le client puisse le vérifier ;
 
 Les commissions facturées par le prestataire de services d'investissement doivent être ventilées séparément dans chaque cas ;
 

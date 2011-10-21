@@ -4,7 +4,7 @@ Afin de permettre à la fonction de conformité de s'acquitter de ses missions d
 
 1° La fonction de conformité dispose de l'autorité, des ressources et de l'expertise nécessaires et d'un accès à toutes les informations pertinentes ;
 
-2° Un responsable de la conformité est désigné et chargé de cette fonction et de l'établissement de tout rapport en lien avec la conformité, notamment du rapport mentionné à l'article 313-7.
+2° Un responsable de la conformité est désigné et chargé de cette fonction et de l'établissement de tout rapport en lien avec la conformité, notamment du rapport mentionné à l'article 313-7 ;
 
 3° Les personnes concernées participant à la fonction de conformité ne sont pas impliquées dans l'exécution des services et activités qu'elles contrôlent ;
 

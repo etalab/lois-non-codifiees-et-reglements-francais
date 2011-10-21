@@ -18,4 +18,4 @@ Le prestataire de services d'investissement doit fournir au client non professio
 
 8° Une description générale, éventuellement fournie sous forme résumée, de la politique suivie par le prestataire de services d'investissement en matière de conflits d'intérêts, conformément aux articles 313-20 et 313-21 ;
 
-9° Dès qu'un client en fait la demande, un complément d'information sur cette politique en matière de conflits d'intérêts sur un support durable ou sur un site Internet dans les conditions de l'article 314-27.
+9° Dès qu'un client en fait la demande, un complément d'information sur cette politique en matière de conflits d'intérêts sur un support durable ou sur un site internet dans les conditions de l'article 314-27.

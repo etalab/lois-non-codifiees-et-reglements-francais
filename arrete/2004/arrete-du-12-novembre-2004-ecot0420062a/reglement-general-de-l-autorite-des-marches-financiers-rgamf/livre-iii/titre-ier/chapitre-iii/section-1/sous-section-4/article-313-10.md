@@ -8,7 +8,7 @@ a) La transaction est interdite par les dispositions du livre VI ;
 
 b) La transaction suppose l'utilisation abusive ou la communication inappropriée d'informations privilégiées ou confidentielles ;
 
-c) La transaction est incompatible, ou susceptible de l'être, avec les obligations professionnelles du prestataire de services d'investissement mentionnées au II de l'article L. 621-15 du code monétaire et financier.
+c) La transaction est incompatible, ou susceptible de l'être, avec les obligations professionnelles du prestataire de services d'investissement mentionnées au II de l'article L. 621-15 du code monétaire et financier ;
 
 2° Conseiller ou assister toute personne, en dehors du cadre de la fonction de la personne concernée, en vue de l'exécution d'une transaction sur instruments financiers qui, s'il s'agissait d'une transaction personnelle de la personne concernée, relèverait du 1° ci-dessus, de l'article 313-27 ou du III de l'article 314-66 ;
 

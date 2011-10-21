@@ -1,43 +1,47 @@
 # Article 323-11
 
-Le dépositaire établit avec l'OPC une convention écrite qui comporte au moins les clauses suivantes :
+Le dépositaire établit avec l'OPC ou, le cas échéant, sa société de gestion, une convention écrite qui comporte au moins les clauses suivantes :
 
-1° L'identité des parties ainsi que le nom de la ou des personnes habilitées à agir au nom et pour le compte de l'OPC ;
+1° Une description des procédures, y compris celles relatives à la conservation, qui seront adoptées pour chaque type d'actif de l'OPC confié au dépositaire ;
 
-2° Les clauses relatives à :
+2° Une description des procédures qui seront suivies si l'OPC envisage de modifier son règlement ou ses statuts ou son prospectus, précisant lorsque le dépositaire doit être informé ou si la modification nécessite l'accord préalable du dépositaire ;
 
-a) Tous les services fournis ainsi que les catégories d'instruments financiers sur lesquelles portent ces services ;
+3° Une description des moyens et des procédures utilisés par le dépositaire pour transmettre à l'OPC toutes les informations dont celui-ci a besoin pour s'acquitter de ses missions, y compris une description des moyens et des procédures en rapport avec l'exercice des droits rattachés aux instruments financiers et des moyens et procédures mis en œuvre pour permettre à l'OPC de disposer d'un accès rapide et fiable aux informations relatives à ses comptes ;
 
-b) La tarification des services fournis par le prestataire de services d'investissement ;
+4° Une description des moyens et des procédures par lesquels le dépositaire aura accès à toutes les informations dont il a besoin pour s'acquitter de ses missions ;
 
-c) La durée de validité de la convention ;
+5° Une description des procédures au moyen desquelles le dépositaire peut s'informer de la manière dont l'OPC mène ses activités et évaluer la qualité des informations obtenues, notamment par des visites sur place ;
 
-d) Les obligations de confidentialité à la charge des parties conformément aux lois et règlements en vigueur relatifs au secret professionnel ;
+6° Une description des procédures au moyen desquelles l'OPC peut examiner le respect par le dépositaire de ses obligations contractuelles ;
 
-3° Lorsque le dépositaire n'effectue pas la compensation des contrats financiers :
+7° Les éléments suivants relatifs à l'échange d'informations et aux obligations en matière de confidentialité et de blanchiment de capitaux :
 
-a) L'identité de l'établissement désigné pour assurer la compensation des instruments financiers à terme ;
+a) Une liste de toutes les informations qui doivent être échangées entre l'OPC et le dépositaire en relation avec la souscription, le remboursement, l'émission, l'annulation et le rachat de ses parts ou actions ;
 
-b) Les modalités de transmission au dépositaire des instructions relatives à la constitution des couvertures des opérations, les modalités d'appel de marges et de dépôts de garantie auprès de l'établissement compensateur ;
+b) Les obligations de confidentialité applicables aux parties à l'accord conformément aux lois et règlements en vigueur relatifs au secret professionnel. Ces obligations sont définies de telle manière que, le cas échéant, elles n'empêchent pas les autorités compétentes de l'Etat membre d'origine de l'OPC d'accéder aux documents et aux informations nécessaires ;
 
-4° Les informations relatives aux obligations en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme ;
+c) Des informations sur les tâches et les responsabilités des parties à l'accord en ce qui concerne les obligations en matière de prévention du blanchiment de capitaux et du financement du terrorisme, le cas échéant ;
 
-5° Le cas échéant, l'usage que le dépositaire peut, après accord exprès de la société de gestion de portefeuille, faire des instruments financiers qu'il conserve ;
+8° Lorsque les parties prévoient de désigner des tiers pour remplir leurs fonctions respectives, elles font figurer au moins les éléments suivants dans cet accord :
 
-6° Les modalités de transmission et la nature des informations permettant au dépositaire de conserver les actifs de contrôler l'inventaire de l'OPC, de contrôler la régularité des décisions et de s'assurer de la sécurité des opérations de l'OPC ;
+a) L'engagement, de la part des deux parties à l'accord, de fournir régulièrement des informations détaillées sur les tiers désignés par le dépositaire ou l'OPC pour s'acquitter de leurs missions respectives ;
 
-7° Les modalités de transmission des instructions entre l'OPC et le dépositaire ;
+b) L'engagement que, sur demande de l'une des parties, l'autre partie fournira des informations sur les critères utilisés pour sélectionner le tiers et sur les mesures prises pour assurer le suivi des activités menées par ce tiers ;
 
-8° Les modalités de communication de l'inventaire, notamment :
+c) Une déclaration selon laquelle la responsabilité du dépositaire, telle qu'elle est mentionnée au II de l'article L. 214-10 du code monétaire et financier, " n'est pas affectée par le fait qu'il confie à un tiers tout ou partie des actifs dont il a la garde " ;
 
-a) Les modalités de communication au dépositaire d'un inventaire détaillé permettant l'identification exhaustive de chacun des actifs détenus par l'OPC et d'un inventaire valorisé ;
+9° Les éléments suivants relatifs aux modifications et à l'annulation éventuelles de cet accord :
 
-b) Les modalités de communication à la société de gestion, de l'inventaire issu de la conservation des actifs par le dépositaire tel que mentionné à l'article 323-10 ;
+a) La durée de validité de l'accord ;
 
-9° La liste des informations que le dépositaire doit remettre à la société de gestion de portefeuille afin d'établir les déclarations fiscales.
+b) Les conditions dans lesquelles l'accord peut être modifié ou résilié ;
 
-Le cas échéant, la convention prévoit les modalités de sous-conservation des actifs de l'OPC lorsque le dépositaire recourt à un mandataire conformément aux articles 322-39 à 322-45 et à l'article 323-13.
+c) Les conditions nécessaires pour faciliter la transition à destination d'un autre dépositaire et, en cas de transition, la procédure par laquelle le dépositaire transmettra toutes les informations pertinentes à cet autre dépositaire ;
 
-La convention prévoit également un préavis de résiliation de trois mois minimum. Toutefois, elle peut prévoir que ce préavis peut être réduit, d'un commun accord des parties, au moment de sa résiliation.
+10° Lorsque l'accord porte sur un OPCVM de droit français conforme à la directive 2009/65/ CE du 13 juillet 2009 géré par une société de gestion établie dans un autre Etat membre de l'Union européenne, il est précisé que le droit applicable à cet accord est le droit français ;
 
-Lorsque l'OPC détient des actifs mentionnés au 2° du I de l'article L. 214-118 du code monétaire et financier, la convention prévoit expressément la possibilité pour le dépositaire de procéder au contrôle des éléments qui lui sont transmis au titre de l'article 323-19 sur pièce ou sur place auprès de la société de gestion de portefeuille ou de ses prestataires.
+11° Dans le cas où les parties à l'accord conviennent de transmettre par voie électronique tout ou partie des informations qu'elles se communiquent, l'accord doit comporter des stipulations garantissant que ces informations sont enregistrées ;
+
+12° Les parties peuvent prévoir que l'accord porte sur plusieurs OPC gérés par la société de gestion. Dans ce cas, la liste des OPC concernés figure dans l'accord ;
+
+Les parties peuvent faire figurer les informations relatives aux moyens et procédures mentionnées aux 3° et 4° dans un accord écrit distinct du présent accord.

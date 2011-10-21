@@ -1,6 +1,6 @@
 # Article 313-9
 
-I. - Au sens du présent livre, on entend par "transaction personnelle une opération réalisée par une personne concernée ou pour son compte, lorsqu'au moins une des conditions suivantes est remplie :
+I. - Au sens du présent livre, on entend par " transaction personnelle " une opération réalisée par une personne concernée ou pour son compte, lorsqu'au moins une des conditions suivantes est remplie :
 
 1° Cette personne concernée agit en dehors du cadre de ses fonctions ;
 
