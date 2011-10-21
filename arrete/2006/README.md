@@ -288,6 +288,7 @@
 - [Arrêté du 27 janvier 2006 (JUSC0620003A)](arrete-du-27-janvier-2006-jusc0620003a)
 - [Arrêté du 27 juillet 2003 (BUDD0370009A)](arrete-du-27-juillet-2003-budd0370009a)
 - [Arrêté du 27 juin 2006 (BUDD0670019A)](arrete-du-27-juin-2006-budd0670019a)
+- [Arrêté du 27 juin 2006 (SANS0622672A)](arrete-du-27-juin-2006-sans0622672a)
 - [Arrêté du 27 mars 2006 (DEFP0600366A)](arrete-du-27-mars-2006-defp0600366a)
 - [Arrêté du 27 mars 2006 (DEFP0600367A)](arrete-du-27-mars-2006-defp0600367a)
 - [Arrêté du 27 novembre 2006 (AGRG0602473A)](arrete-du-27-novembre-2006-agrg0602473a)

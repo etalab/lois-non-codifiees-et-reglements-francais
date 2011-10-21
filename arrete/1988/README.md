@@ -41,7 +41,6 @@
 - [Arrêté du 3 novembre 1987 (ECOC8700123A)](arrete-du-3-novembre-1987-ecoc8700123a)
 - [Arrêté du 3 novembre 1988 (PTTT8800946A)](arrete-du-3-novembre-1988-pttt8800946a)
 - [Arrêté du 3 novembre 1988 (SPSP8801641A)](arrete-du-3-novembre-1988-spsp8801641a)
-- [Arrêté du 3 octobre 1988 (SPSP8801520A)](arrete-du-3-octobre-1988-spsp8801520a)
 - [Arrêté du 3 mai 1988 (PTTT8800412A)](arrete-du-3-mai-1988-pttt8800412a)
 - [Arrêté du 4 août 1988 (DEFD8801659A)](arrete-du-4-aout-1988-defd8801659a)
 - [Arrêté du 4 août 1988 (EQUP8800616A)](arrete-du-4-aout-1988-equp8800616a)
