@@ -44,6 +44,15 @@ DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE PRÉFET DE RÉGION
 <p>Article R.* 141-12 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
+<tr>
+<td>Agrément prévu au I de l'article L. 254-1 du code rural et de la pêche maritime pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article <br/>
+</td>
+<td>Article R. 254-15 du code rural et de la pêche maritime </td>
+</tr>
+<tr>
+<td>Décisions de suspension et de retrait prévues à l'article L. 254-9 du code rural et de la pêche maritime, de l'agrément prévu au I de l'article L. 254-1 pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article </td>
+<td>Article R. 254-27 du code rural et de la pêche maritime </td>
+</tr>
 </tbody>
 </table>
 

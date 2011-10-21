@@ -40,6 +40,26 @@ PAR LE DIRECTEUR RÉGIONAL DE L'ALIMENTATION DE L'AGRICULTURE ET DE LA FORÊT OU
 <p>Décret n° 88-922 du 14 septembre 1988 pris pour application de la loi n° 84-1285 du 31 décembre 1984 portant réforme des relations entre l'Etat et les établissements d'enseignement agricole privés. </p>
 </td>
 </tr>
+<tr>
+<td>
+<p>Délivrance des certificats individuels prévus aux articles L. 254-3 et L. 254-4 du code rural et de la pêche maritime</p>
+</td>
+<td>Article R. 254-11 du code rural et de la pêche maritime</td>
+</tr>
+<tr>
+<td>
+<p>Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire ne dépassant pas celui de la région </p>
+</td>
+<td>Article R. 254-14 du code rural et de la pêche maritime </td>
+</tr>
+<tr>
+<td>
+<p>Décisions de suspension et de retrait des certificats individuels prévues à l'article L. 254-9 du code rural et de la pêche maritime</p>
+</td>
+<td>
+<p>Article R. 254-28 du code rural et de la pêche maritime</p>
+</td>
+</tr>
 </tbody>
 </table>
 

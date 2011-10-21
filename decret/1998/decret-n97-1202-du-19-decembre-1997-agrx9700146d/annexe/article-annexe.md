@@ -241,7 +241,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des experts chargés de la vérification de l'existence des propriétés définies à l'article L. 617-2 du code de la santé publique en vue de la mise sur le marché des médicaments vétérinaires. </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 5146-19 du code de la santé publique. </p>
+<p>
+Article R. 5146-19 du code de la santé publique. </p>
 </td>
 </tr>
 <tr>
@@ -351,6 +352,18 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <td valign="top" width="302">
 <p>R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural et de la pêche maritime. </p>
 </td>
+</tr>
+<tr>
+<td>
+<p>Reconnaissance des organismes certificateurs prévue au 2° de l'article L. 254-2 du code rural et de la pêche maritime</p>
+</td>
+<td>Article R. 254-2 du code rural et de la pêche maritime </td>
+</tr>
+<tr>
+<td>
+<p>Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire dépassant celui de la région</p>
+</td>
+<td>Article R. 254-14 du code rural et de la pêche maritime </td>
 </tr>
 <tr>
 <td valign="top" width="302">
