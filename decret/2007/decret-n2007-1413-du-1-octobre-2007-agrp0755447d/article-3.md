@@ -1,3 +1,0 @@
-# Article 3
-
-Tout récoltant peut demander à bénéficier d'un plafond limite de classement (PLC) visé à l'article D. 641-76 du code rural, dès lors qu'il peut démontrer une maîtrise qualitative de ses rendements. Cette maîtrise s'apprécie en examinant, chaque année, dans quelle mesure la quantité de raisins des récoltes antérieures est plus ou moins proche du rendement de base et reste inférieure au PLC. L'attribution d'un PLC au récoltant ne doit pas conduire à dépasser la quantité maximum qu'il a mise en réserve en application de l'article 41 du règlement (CE) n° 1493/1999 susvisé. Lorsque cette quantité maximum est atteinte, il ne peut plus bénéficier d'un PLC.
