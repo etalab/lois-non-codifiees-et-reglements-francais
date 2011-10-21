@@ -1,6 +1,6 @@
 # Article 227
 
-Un avocat n'est autorisé à conclure des conventions de garantie avec plusieurs garants pour l'ensemble des activités prévues à l'article 212 que dans le cas où le montant des sommes qu'il envisage de recevoir est supérieur au montant de la garantie que chacun des garants peut lui accorder.
+Un avocat n'est autorisé à conclure des conventions de garantie avec plusieurs garants pour l'ensemble des activités prévues au premier alinéa de l'article 212 que dans le cas où le montant des sommes qu'il envisage de recevoir est supérieur au montant de la garantie que chacun des garants peut lui accorder.
 
 En ce cas, chaque garant doit avoir été avisé de toutes les conventions passées avec les autres garants et doit être avisé, le cas échéant, de toute modification qui aurait pour effet de réduire, de suspendre ou de supprimer tout ou partie des garanties initialement accordées par les autres garants.
 
