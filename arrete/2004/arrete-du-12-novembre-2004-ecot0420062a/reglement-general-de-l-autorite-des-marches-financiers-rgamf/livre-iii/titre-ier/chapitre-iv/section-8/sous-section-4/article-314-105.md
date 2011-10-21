@@ -1,6 +1,6 @@
 # Article 314-105
 
-I. - Le prestataire de services d'investissement qui détient des instruments financiers pour le compte de clients adresse au moins une fois par an, à son client, sur un support durable, un relevé de ses instruments à moins que les mêmes informations n'aient été fournies dans une autre note d'information périodique.
+I. - Le prestataire de services d'investissement qui détient des instruments financiers pour le compte de clients adresse au moins une fois par an à son client, sur un support durable, un relevé de ses instruments à moins que les mêmes informations n'aient été fournies dans une autre note d'information périodique.
 
 II. - Le relevé des actifs de clients mentionné au I doit comporter les informations suivantes :
 

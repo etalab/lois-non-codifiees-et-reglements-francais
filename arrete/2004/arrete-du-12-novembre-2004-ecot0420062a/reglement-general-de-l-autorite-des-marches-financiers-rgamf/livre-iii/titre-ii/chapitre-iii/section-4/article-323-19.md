@@ -18,7 +18,7 @@ Les contrôles portent notamment sur les éléments suivants :
 
 7° Dans le cadre du contrôle de l'inventaire relatif aux actifs mentionnés au 2° du I de l'article L. 214-118 du code monétaire et financier, l'existence de ces actifs. Le contrôle de l'existence de ces actifs consiste, pour le dépositaire, à identifier ces actifs et à s'assurer de l'existence d'un titre attestant de leur propriété par l'OPC ;
 
-8° L'état de rapprochement de l'inventaire transmis par la société de gestion. La société de gestion établit, au minimum de façon semestrielle et sous contrôle du dépositaire, l'inventaire des actifs de l'OPC mentionné aux articles L. 214-8, L. 214-48 et L. 214-106 du code monétaire et financier.
+8° L'état de rapprochement de l'inventaire transmis par la société de gestion. La société de gestion établit, au minimum de façon semestrielle et sous contrôle du dépositaire, l'inventaire des actifs de l'OPC mentionné aux articles L. 214-17, L. 214-48 et L. 214-106 du code monétaire et financier.
 
 Les caractéristiques du plan de contrôle tiennent compte des éléments recueillis lors de l'entrée en relation avec l'OPC ou la société de gestion. Le plan est mis à jour selon une périodicité adaptée aux caractéristiques de l'activité exercée et est tenu à la disposition de l'AMF.
 

@@ -6,6 +6,6 @@ Lorsqu'il délègue la conservation des actifs de l'OPC, le dépositaire établi
 
 Chaque mandataire transmet au dépositaire une attestation annuelle de son contrôleur légal des comptes portant sur le contrôle des comptes ouverts au nom des OPC dans ses livres.
 
-La responsabilité du dépositaire n'est pas affectée par le fait qu'il mandate un tiers pour conserver les actifs de l'OPC.
+Par dérogation à l'alinéa précédent, et en application des articles L. 214-33-3, L. 214-36-4, D. 214-81 et D. 214-87-1 du code monétaire et financier, le dépositaire d'un OPCVM agréé réservé à certains investisseurs ou d'un OPCVM contractuel peut établir une convention limitant son obligation de restitution des actifs de cet OPVCM.
 
 Par dérogation à l'alinéa précédent, et en application des articles L. 214-34-1 et D. 214-28-1 du code monétaire et financier, le dépositaire d'un OPCVM Aria ou d'un OPCVM contractuel peut établir une convention limitant son obligation de restitution des actifs de cet OPVCM
