@@ -776,6 +776,12 @@ Paris-Hanoi.
 
 Paris-Hô Chi Minh-Ville.
 
+Paris - Da Nang.
+
+Paris - Nha Trang.
+
+Paris - Huê.
+
 Yémen (jusqu'au 31 décembre 2012)
 
 Paris-Sanaa.
