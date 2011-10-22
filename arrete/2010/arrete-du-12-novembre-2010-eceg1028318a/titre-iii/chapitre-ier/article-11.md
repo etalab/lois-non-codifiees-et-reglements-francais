@@ -47,9 +47,7 @@ a) Filière MP :
 
 </div>
 
-b) Filière PC :
-
-<div align="center">
+b) Filière PC : <div align="center">
 
 <table>
 <tbody>
@@ -92,9 +90,7 @@ b) Filière PC :
 
 </div>
 
-c) Filière PSI :
-
-<div align="center">
+c) Filière PSI : <div align="center">
 
 <table>
 <tbody>
@@ -136,8 +132,6 @@ c) Filière PSI :
 </table>
 
 </div>
-
-Tout candidat absent à au moins deux épreuves orales est éliminé.
 
 Le programme des connaissances des épreuves orales de mathématiques, de physique et chimie, de sciences industrielles est le programme, défini par le ministre chargé de l'éducation nationale, de la filière indiquée par le candidat lors de son inscription au concours.
 

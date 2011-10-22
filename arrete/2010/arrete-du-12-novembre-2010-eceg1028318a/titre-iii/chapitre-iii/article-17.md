@@ -54,8 +54,4 @@ Ces épreuves et les coefficients associés sont fixés comme suit :
 
 </div>
 
-Tout candidat qui ne se présente pas à la totalité des épreuves orales perd définitivement le bénéfice de son admissibilité.
-
-La langue vivante est celle choisie par le candidat parmi les trois langues suivantes : allemand, anglais, espagnol, lors de son inscription aux épreuves orales des concours communs polytechniques.
-
-Les candidats ayant choisi lors de leur inscription aux concours communs polytechniques une langue vivante autre que l'anglais, l'allemand ou l'espagnol devront passer une épreuve orale d'anglais.
+La langue vivante est celle choisie par le candidat parmi celles proposées par les concours communs polytechniques.

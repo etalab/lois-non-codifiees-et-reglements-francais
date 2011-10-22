@@ -1,3 +1,3 @@
 # Article 20
 
-Au vu des listes dressées par les directeurs des écoles, le ministre chargé de l'industrie arrête, pour chaque école, les noms des candidats admis au concours, nommés élèves titulaires de première année en formation initiale.
+Les modalités pratiques d'exécution du concours objet du présent arrêté sont fixées dans la notice publiée annuellement par le secrétariat du concours et mise à la disposition des candidats sur le site internet du concours ( www.mines.net). Cette notice vaut règlement du concours.
