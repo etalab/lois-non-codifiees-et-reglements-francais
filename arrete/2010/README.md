@@ -1420,8 +1420,6 @@
 - [Arrêté du 15 octobre 2010 (IOCJ1025152A)](arrete-du-15-octobre-2010-iocj1025152a)
 - [Arrêté du 15 octobre 2010 (JUSA1023073A)](arrete-du-15-octobre-2010-jusa1023073a)
 - [Arrêté du 15 octobre 2010 (MCCB1021591A)](arrete-du-15-octobre-2010-mccb1021591a)
-- [Arrêté du 15 octobre 2010 (MCCB1023739A)](arrete-du-15-octobre-2010-mccb1023739a)
-- [Arrêté du 15 octobre 2010 (MCCB1023742A)](arrete-du-15-octobre-2010-mccb1023742a)
 - [Arrêté du 15 octobre 2010 (MENH1025191A)](arrete-du-15-octobre-2010-menh1025191a)
 - [Arrêté du 15 septembre 2010 (BCRE1023150A)](arrete-du-15-septembre-2010-bcre1023150a)
 - [Arrêté du 15 septembre 2010 (DEFK1024009A)](arrete-du-15-septembre-2010-defk1024009a)
