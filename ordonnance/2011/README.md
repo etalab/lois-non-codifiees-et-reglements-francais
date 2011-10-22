@@ -19,6 +19,7 @@
 - [Ordonnance n° 2011-673 du 16 juin 2011 (ETSX1110605R)](ordonnance-n-2011-673-du-16-juin-2011-etsx1110605r)
 - [Ordonnance n° 2011-78 du 20 janvier 2011 (AGRG1027105R)](ordonnance-n-2011-78-du-20-janvier-2011-agrg1027105r)
 - [Ordonnance n° 2011-91 du 20 janvier 2011 (INDI1009820R)](ordonnance-n-2011-91-du-20-janvier-2011-indi1009820r)
+- [Ordonnance n°2011-1328 du 20 octobre 2011 (ETSX1117448R)](ordonnance-n2011-1328-du-20-octobre-2011-etsx1117448r)
 - [Ordonnance n° 2011-862 du 22 juillet 2011 (AGRG1115136R)](ordonnance-n-2011-862-du-22-juillet-2011-agrg1115136r)
 - [Ordonnance n° 2011-863 du 22 juillet 2011 (AGRG1105535R)](ordonnance-n-2011-863-du-22-juillet-2011-agrg1105535r)
 - [Ordonnance n° 2011-864 du 22 juillet 2011 (AGRT1112756R)](ordonnance-n-2011-864-du-22-juillet-2011-agrt1112756r)
