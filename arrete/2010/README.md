@@ -2993,7 +2993,6 @@
 - [Arrêté du 29 octobre 2010 (DEVA1027874A)](arrete-du-29-octobre-2010-deva1027874a)
 - [Arrêté du 29 octobre 2010 (IOCD1020533A)](arrete-du-29-octobre-2010-iocd1020533a)
 - [Arrêté du 29 octobre 2010 (IOCE1027783A)](arrete-du-29-octobre-2010-ioce1027783a)
-- [Arrêté du 29 octobre 2010 (MCCB1023280A)](arrete-du-29-octobre-2010-mccb1023280a)
 - [Arrêté du 29 octobre 2010 (MENE1027791A)](arrete-du-29-octobre-2010-mene1027791a)
 - [Arrêté du 29 octobre 2010 (MENE1027798A)](arrete-du-29-octobre-2010-mene1027798a)
 - [Arrêté du 29 octobre 2010 (SASS1027822A)](arrete-du-29-octobre-2010-sass1027822a)
