@@ -2,23 +2,23 @@
 
 A la direction des services de la navigation aérienne (DSNA), sont créés :
 
-a) Un bureau de vote spécial auprès de la sous-direction des ressources humaines (DSNA/SDRH). Ce bureau est compétent pour l'échelon central de la direction des services de la navigation aérienne et pour le service de l'aviation civile à Saint-Pierre-et-Miquelon (DSNA/SPM), à l'égard des personnels appartenant aux corps ou catégorie contractuelle suivants :
+a) Un bureau de vote spécial auprès de la sous-direction des ressources humaines (DSNA/SDRH), compétent pour l'échelon central de la direction des services de la navigation aérienne, et une section de vote auprès du service de l'aviation civile à Saint-Pierre-et-Miquelon (DSNA/SPM). Les personnels appartenant aux corps ou catégorie contractuelle suivants relèvent de ce bureau et cette section de vote :
 
-― ingénieurs des études et de l'exploitation de l'aviation civile ;
+- ingénieurs des études et de l'exploitation de l'aviation civile ;
 
-― ingénieurs du contrôle de la navigation aérienne ;
+- ingénieurs du contrôle de la navigation aérienne ;
 
-― ingénieurs électroniciens des systèmes de la sécurité aérienne ;
+- ingénieurs électroniciens des systèmes de la sécurité aérienne ;
 
-― techniciens supérieurs des études et de l'exploitation de l'aviation civile ;
+- techniciens supérieurs des études et de l'exploitation de l'aviation civile ;
 
-― attachés d'administration de l'aviation civile ;
+- attachés d'administration de l'aviation civile ;
 
-― assistants d'administration de l'aviation civile ;
+- assistants d'administration de l'aviation civile ;
 
-― adjoints d'administration de l'aviation civile ;
+- adjoints d'administration de l'aviation civile ;
 
-― agents contractuels 84-16 ;
+- agents contractuels 84-16 ;
 
 b) Des bureaux de vote spéciaux auprès des services respectifs suivants :
 
