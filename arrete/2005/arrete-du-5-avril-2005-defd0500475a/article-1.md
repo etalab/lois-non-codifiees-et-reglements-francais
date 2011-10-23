@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'exercice de ses attributions, la sous-direction  gestion du personnel  de la direction du personnel militaire de la marine comprend :
+Pour l'exercice de ses attributions, la sous-direction gestion du personnel de la direction du personnel militaire de la marine comprend :
 
 - le bureau des officiers ;
 
@@ -16,4 +16,4 @@ Elle dispose en outre :
 
 - d'organismes extérieurs : les antennes pour l'emploi des réservistes, rattachés au bureau de la réserve militaire ;
 
-- du centre d'évaluation des ressources humaines de la marine, chargé d'analyser la notation annuelle des officiers, de préparer les travaux de classement les concernant et d'élaborer leur bilan de carrière.
+- du centre d'évaluation du personnel de la marine, chargé d'analyser la notation annuelle des officiers, de préparer les travaux de classement les concernant et d'élaborer leur bilan de carrière.

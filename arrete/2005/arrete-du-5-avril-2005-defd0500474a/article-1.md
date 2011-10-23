@@ -1,17 +1,19 @@
 # Article 1
 
-La direction du personnel militaire de la marine comprend deux sous-directions :
+La direction du personnel militaire de la marine comprend :
 
-- la sous-direction "gestion du personnel" ;
+- la sous-direction  " gestion du personnel  " ;
 
-- la sous-direction "compétences".
+- la sous-direction " compétences " ;
 
-Les organismes extérieurs suivants lui sont rattachés :
+- le bureau " droits financiers individuels " ;
 
-- le service de recrutement de la marine ;
+- le bureau des finances.
 
-- le service de psychologie de la marine ;
+Relèvent, par ailleurs, de la direction du personnel militaire de la marine les organismes extérieurs suivants :
 
-- le centre de traitement de l'information pour les ressources humaines.
+- le service de recrutement de la marine et le centre d'expertise des ressources humaines, directement rattachés au directeur du personnel militaire de la marine ;
 
-En outre, les organismes de formation de la marine, à l'exception de ceux relevant des échelons centraux des services de la marine, ainsi que le service commun des cercles et des foyers, sont placés sous l'autorité organique du directeur du personnel militaire de la marine.
+- le service de psychologie de la marine.
+
+En outre, les organismes de formation de la marine, à l'exception de ceux relevant des échelons centraux des services de la marine, sont placés sous l'autorité organique du directeur du personnel militaire de la marine.

@@ -1,7 +1,7 @@
 # Article 4
 
-La sous-direction "compétences" traite des questions relatives à la formation et au suivi psychologique du personnel militaire.
+La sous-direction " compétences " traite des questions relatives au recrutement, à la formation et à la reconversion du personnel militaire.
 
-Elle dirige l'action de l'ensemble des organismes de formation de la marine placés sous l'autorité du directeur du personnel militaire de la marine ainsi que, en liaison avec les échelons centraux des services de la marine, l'action du service marine mobilité.
+Elle dirige l'action du service de recrutement de la marine ainsi que de l'ensemble des organismes de formation de la marine placés sous son autorité.
 
-Elle dirige également l'action du service de psychologie de la marine.
+Elle est le correspondant pour la marine de l'agence de reconversion de la défense.
