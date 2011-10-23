@@ -8,5 +8,4 @@
 - [Article AOC GRAVES ET GRAVES SUPÉRIEURES](article-aoc-graves-et-graves-superieures.md)
 - [Article AOC MARGAUX](article-aoc-margaux.md)
 - [Article AOC PAUILLAC](article-aoc-pauillac.md)
-- [Article AOC PREMIÈRES CÔTES DE BORDEAUX](article-aoc-premieres-cotes-de-bordeaux.md)
 - [Article AOC SAINT-JULIEN](article-aoc-saint-julien.md)
