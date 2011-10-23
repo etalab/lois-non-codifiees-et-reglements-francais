@@ -9,5 +9,4 @@
 - [Article AOC MARGAUX](article-aoc-margaux.md)
 - [Article AOC PAUILLAC](article-aoc-pauillac.md)
 - [Article AOC PREMIÈRES CÔTES DE BORDEAUX](article-aoc-premieres-cotes-de-bordeaux.md)
-- [Article AOC SAINT-ESTÈPHE](article-aoc-saint-estephe.md)
 - [Article AOC SAINT-JULIEN](article-aoc-saint-julien.md)
