@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Quarts de Chaume " ;
 
-― " Rosé de Loire " ;
-
 ― " Coteaux du Layon " ;
 
 ― " Monbazillac " ;
