@@ -1434,11 +1434,11 @@ Les épreuves d'admission comprennent :
 
 Des épreuves orales.
 
-Une épreuve d'aptitude générale (durée : 45 minutes ; coefficient 8).
+Une épreuve d'aptitude générale (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 8).
 
-Une épreuve sur l'organisation générale de la défense et de la sécurité intérieure (durée : 30 minutes ; coefficient 4).
+Une épreuve sur l'organisation générale de la défense et de la sécurité intérieure (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 4).
 
-Une épreuve de langue vivante étrangère (durée : 30 minutes ; coefficient 4).
+Une épreuve de langue vivante étrangère (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 4).
 
 Des épreuves sportives dont la moyenne des notes est affectée du coefficient 2.
 
@@ -1460,7 +1460,7 @@ Elle comporte :
 
 ― un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-― un entretien individuel du candidat avec le président du jury assisté de deux examinateurs. Il débute par un exposé d'une durée de 15 à 20 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
+― un entretien individuel du candidat avec le président du jury assisté de deux examinateurs. Il débute par un exposé d'une durée de 10 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
 
 Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de 20 minutes.
 
@@ -1534,13 +1534,11 @@ Le dispositif de sécurité intérieure :
 
 2.1.3. Epreuve de langue vivante étrangère
 
-Cette épreuve consiste à commenter dans la langue choisie, puis à traduire, en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec le jury.
+Cette épreuve consiste à traduire dans la langue choisie, puis à commenter, en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec le jury.
 
-Le candidat opte pour l'une des langues suivantes : allemand, anglais, espagnol, italien.
+Le candidat opte pour l'une des langues suivantes : allemand, anglais, espagnol, italien. La langue choisie est obligatoirement différente de celle éventuellement choisie par le candidat pour l'épreuve à option d'admissibilité.
 
-La langue choisie est obligatoirement différente de celle éventuellement choisie par le candidat pour l'épreuve à option d'admissibilité.
-
-L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de trente minutes.
+L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de vingt minutes.
 
 2.2. Nature, forme et barème des épreuves sportives
 

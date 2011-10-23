@@ -10,7 +10,7 @@ L'épreuve d'admissibilité consiste en l'examen du dossier du candidat, dont le
 
 II. - Nature, forme et programme de l'épreuve orale d'admission
 
-(durée : 30 minutes / préparation : 10 minutes ; coefficient 1)
+(durée : 50 minutes, dont 20 minutes de préparation ; coefficient 1)
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit, son équilibre émotionnel et son niveau de qualification dans sa spécialité.
 

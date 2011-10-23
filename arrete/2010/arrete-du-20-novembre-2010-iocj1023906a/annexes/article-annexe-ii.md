@@ -66,7 +66,7 @@ Elle comporte :
 
 - un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de quinze à vingt minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
+- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
 II. - Epreuve de connaissances professionnelles (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 15).
 
@@ -112,13 +112,13 @@ Les ministères.
 
 Les organismes consultatifs.
 
-III. - Epreuve facultative de langue vivante étrangère (durée : 1 heure, dont 30 minutes de préparation ; seuls les points au-dessus de 10 sur 20 sont pris en compte, multipliés par 10 et ajoutés au total de points du candidat).
+III. - Epreuve facultative de langue vivante étrangère (durée : 50 minutes, dont 20 minutes de préparation ; seuls les points au-dessus de 10 sur 20 sont pris en compte, multipliés par 10 et ajoutés au total de points du candidat).
 
-Cette épreuve consiste à commenter dans la langue choisie, puis à traduire en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec l'examinateur.
+Cette épreuve consiste à traduire dans la langue choisie, puis à commenter en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec l'examinateur.
 
 Le candidat opte pour l'une des langues suivantes : allemand, anglais, espagnol, italien.
 
-L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de trente minutes.
+L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de vingt minutes.
 
 IV. - Nature, forme et barème des épreuves sportives (la moyenne des notes est affectée du coefficient 10).
 

@@ -20,7 +20,7 @@ II. - Nature, forme et programmes des épreuves d'admission
 
 Les épreuves d'admission comprennent :
 
-- une épreuve orale d'aptitude générale (durée : 45 minutes ; coefficient 20) ;
+- une épreuve orale d'aptitude générale (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 20 ;
 
 - des épreuves sportives dont la moyenne des notes est affectée du coefficient 10 :
 
@@ -40,7 +40,7 @@ Elle comporte :
 
 - un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de 15 à 20 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
+- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de 10 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
 
 Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de 20 minutes.
 

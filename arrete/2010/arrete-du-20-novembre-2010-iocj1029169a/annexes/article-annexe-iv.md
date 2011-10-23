@@ -30,7 +30,7 @@ II. - Nature, forme et programme des épreuves d'admission
 
 Les épreuves d'admission comprennent :
 
-- un entretien oral avec le jury (durée : 30 minutes ; coefficient 5 pour le concours 2011 et coefficient 4 à partir du concours 2012) ;
+- un entretien oral avec le jury (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 4)
 
 - une épreuve sportive : course de demi-fond (coefficient 1).
 

@@ -70,7 +70,7 @@ Elle comporte :
 
 - un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de 15 à 20 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
+- un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de 10 minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury.
 
 Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de 20 minutes.
 

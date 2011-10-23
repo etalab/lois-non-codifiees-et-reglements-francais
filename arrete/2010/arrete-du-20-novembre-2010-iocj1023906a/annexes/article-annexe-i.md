@@ -138,7 +138,7 @@ d) Comptabilité privée :
 
 Nature, forme et programme des épreuves d'admission
 
-I. - Epreuve d'aptitude générale (durée : 80 minutes, dont 40 minutes de préparation ; coefficient 30).
+I. - Epreuve d'aptitude générale (durée : 50 minutes, dont 20 minutes de préparation ; coefficient 30)
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
 
@@ -146,7 +146,7 @@ Elle comporte :
 
 ― un entretien individuel, réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-― un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Le candidat tire au sort deux sujets sur un thème général se rapportant à des idées ou des faits dont la connaissance est nécessaire à la compréhension du monde moderne, dont l'un se rapporte à la sécurité intérieure ou à la défense. Il traite au choix l'un d'entre eux. Il expose ensuite le sujet choisi pendant dix minutes. L'épreuve se poursuit sous la forme d'un entretien de trente minutes environ avec le jury.
+― un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Le candidat tire au sort deux sujets sur un thème général se rapportant à des idées ou des faits dont la connaissance est nécessaire à la compréhension du monde moderne, dont l'un se rapporte à la sécurité intérieure ou à la défense. Il traite au choix l'un d'entre eux. Il expose ensuite le sujet choisi pendant dix minutes. L'épreuve se poursuit sous la forme d'un entretien de vingt minutes avec le jury.
 
 II. - Nature, forme et barème des épreuves sportives (la moyenne des notes est affectée du coefficient 10).
 
