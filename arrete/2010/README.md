@@ -2959,7 +2959,6 @@
 - [Arrêté du 29 juin 2010 (JUSC1009999A)](arrete-du-29-juin-2010-jusc1009999a)
 - [Arrêté du 29 juin 2010 (MAEA1015714A)](arrete-du-29-juin-2010-maea1015714a)
 - [Arrêté du 29 juin 2010 (MENE1017206A)](arrete-du-29-juin-2010-mene1017206a)
-- [Arrêté du 29 juin 2010 (MTST1016030A)](arrete-du-29-juin-2010-mtst1016030a)
 - [Arrêté du 29 mars 2010 (AGRS1008810A)](arrete-du-29-mars-2010-agrs1008810a)
 - [Arrêté du 29 mars 2010 (DEVE1009187A)](arrete-du-29-mars-2010-deve1009187a)
 - [Arrêté du 29 mars 2010 (ECES1008789A)](arrete-du-29-mars-2010-eces1008789a)
