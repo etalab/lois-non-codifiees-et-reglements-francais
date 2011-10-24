@@ -1,537 +1,561 @@
 # Article 
 
-COMPÉTENCE DES SOUS-DIRECTIONS ET BUREAUX DE LA DIRECTION DU BUDGET :
+COMPÉTENCE DES SOUS-DIRECTIONS ET BUREAUX DE LA DIRECTION DU BUDGET
 
 SUR LES MISSIONS ET PROGRAMMES DU BUDGET GÉNÉRAL ET HORS BUDGET GÉNÉRAL
 
-<font size="2">Première sous-direction</font>
+Première sous-direction
 
-Programme " entretien des bâtiments de l'Etat "
+Bureau "lois de finances"
 
-Bureau lois de finances
+Mission "engagements financiers de l'Etat" :
 
-Mission provisions :
+Programme charge de la dette et trésorerie de l'Etat".
 
-Programme provision relative aux rémunérations publiques ;
+Mission "gestion des finances publiques et des ressources humaines" :
 
-Programme dépenses accidentelles et imprévisibles.
+Programme "entretien des bâtiments de l'Etat".
 
-Mission engagements financiers de l'Etat :
+Mission "provisions" :
 
-Programme charge de la dette et trésorerie de l'Etat .
+Programme "provision relative aux rémunérations publiques" ;
 
-Mission gestion du patrimoine immobilier de l'Etat :
+Programme "dépenses accidentelles et imprévisibles".
 
-Programme contribution au désendettement de l'Etat ;
+Mission "gestion du patrimoine immobilier de l'Etat" :
 
-Programme dépenses immobilières.
+Programme "contribution au désendettement de l'Etat" ;
 
-Bureau recettes
+Programme "contribution aux dépenses immobilières".
 
-Mission remboursements et dégrèvements :
+Bureau "recettes"
 
-Programme remboursements et dégrèvements d'impôts d'Etat ;
+Mission "remboursements et dégrèvements" :
 
-Programme remboursements et dégrèvements d'impôts locaux.
+Programme "remboursements et dégrèvements d'impôts d'Etat" ;
 
-Mission accords monétaires internationaux :
+Programme "remboursements et dégrèvements d'impôts locaux".
 
-Programme relations avec l'Union monétaire ouest-africaine ;
+Mission "accords monétaires internationaux" :
 
-Programme relations avec l'Union monétaire d'Afrique centrale ;
+Programme "relations avec l'Union monétaire ouest-africaine" ;
 
-Programme relations avec l'Union des Comores.
+Programme "relations avec l'Union monétaire d'Afrique centrale" ;
 
-Mission avances à divers services de l'Etat ou organismes gérant des services publics :
+Programme "relations avec l'Union des Comores".
 
-Programme avances à l'Agence de services et de paiement au titre du préfinancement des aides communautaires de la politique agricole commune ;
+Mission "avances à divers services de l'Etat ou organismes gérant des services publics" :
 
-Programme avances à des organismes distincts de l'Etat et gérant des services publics ;
+Programme "avances à des organismes distincts de l'Etat et gérant des services publics" ;
 
-Programme avances à des services de l'Etat.
+Programme "avances à des services de l'Etat".
 
-Mission avances aux collectivités territoriales :
+Mission "avances aux collectivités territoriales" :
 
-Programme avances aux collectivités et établissements publics et à la Nouvelle-Calédonie ;
+Programme "avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie" ;
 
-Programme avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
+Programme "avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes".
 
-<font size="2">Troisième sous-direction</font>
+Troisième sous-direction
 
-Bureau enseignement scolaire
+Bureau "enseignement scolaire"
 
-Mission enseignement scolaire :
+Mission "enseignement scolaire" :
 
-Programme enseignement scolaire public du premier degré ;
+Programme "enseignement scolaire public du premier degré" ;
 
-Programme enseignement scolaire public du second degré ;
+Programme "enseignement scolaire public du second degré" ;
 
-Programme vie de l'élève ;
+Programme "vie de l'élève" ;
 
-Programme enseignement privé du premier et du second degré ;
+Programme "enseignement privé du premier et du second degrés" ;
 
-Programme soutien de la politique de l'éducation nationale.
+Programme "soutien de la politique de l'éducation nationale".
 
-Bureau recherche et enseignement supérieur
+Bureau "recherche et enseignement supérieur"
 
-Mission recherche et enseignement supérieur :
+Mission "recherche et enseignement supérieur" :
 
-Programme formations supérieures et recherche universitaire ;
+Programme "formations supérieures et recherche universitaire" ;
 
-Programme vie étudiante ;
+Programme "vie étudiante" ;
 
-Programme recherches scientifiques et technologiques pluridisciplinaires ;
+Programme "recherches scientifiques et technologiques pluridisciplinaires" ;
 
-Programme recherche dans le domaine de la gestion des milieux et des ressources ;
+Programme "recherche dans le domaine de la gestion des milieux et des ressources" ;
 
-Programme recherche spatiale ;
+Programme "recherche spatiale".
 
-Programme recherche culturelle et culture scientifique
-
-Bureau énergie, participations, industrie et innovation
-
-Mission recherche et enseignement supérieur :
-
-Programme recherche dans le domaine de l'énergie ;
-
-Programme recherche industrielle ;
-
-Programme recherche dans le domaine des transports, de l'équipement et de l'habitat ;
-
-Programme recherche dans le domaine des risques et des pollutions.
+Bureau "énergie, participations, industrie et innovation"
 
 Mission "économie" :
 
-Programme développement des entreprises ;
+Programme "développement des entreprises et de l'emploi" ;
 
-Programme Tourisme.
+Programme "tourisme".
 
-Mission prêts et avances à des particuliers ou à des organismes privés :
+Mission "recherche et enseignement supérieur" :
 
-Programme prêts et avances à des particuliers ou à des associations ;
+Programme "recherche dans les domaines de l'énergie, du développement et de l'aménagement durables" ;
 
-Programme prêts pour le développement économique et social.
+Programme "recherche et enseignement supérieur en matière économique et industrielle".
 
-Mission participations financières de l'Etat :
+Mission "participations financières de l'Etat" :
 
-Programme opérations en capital intéressant les participations financières de l'Etat ;
+Programme "opérations en capital intéressant les participations financières de l'Etat" ;
 
-Programme désendettement de l'Etat et d'établissements publics de l'Etat.
+Programme "désendettement de l'Etat et d'établissements publics de l'Etat".
 
-<font size="2">Quatrième sous-direction</font>
+Mission "prêts et avances à des particuliers ou à des organismes privés" :
 
-Bureau transports
+Programme "prêts et avances à des particuliers ou à des associations" ;
 
-Mission écologie, développement et aménagement durables :
+Programme "prêts pour le développement économique et social" ;
 
-Programme réseau routier national ;
+Programme "prêts à la filière automobile" ;
 
-Programme sécurité routière ;
+Programme "prêts et avances au Fonds de prévention des risques naturels majeurs".
 
-Programme transports terrestres et maritimes ;
+Quatrième sous-direction
 
-Programme passifs financiers ferroviaires ;
+Bureau "transports"
 
-Programme sécurité et affaires maritimes ;
+Mission "écologie, développement et aménagement durables" :
 
-Programme transports aériens ;
+Programme "infrastructures et services de transports" ;
 
-Mission contrôle et exploitation aériens :
+Programme "sécurité et affaires maritimes".
 
-Programme soutien aux prestations de l'aviation civile ;
+Mission "contrôle et exploitation aériens" :
 
-Programme navigation aérienne ;
+Programme "soutien aux prestations de l'aviation civile" ;
 
-Programme surveillance et certification ;
+Programme "navigation aérienne" ;
 
-Programme formation aéronautique.
+Programme "transports aériens, surveillance et certification" ;
 
-Mission contrôle et sanction automatisés des infractions au code de la route :
+Programme "formation aéronautique".
 
-Programme radars.
+Mission "contrôle de la circulation et du stationnement routiers" :
 
-Bureau développement durable
+Programme "radars".
 
-Mission écologie, développement et aménagement durables :
+Bureau "développement durable"
 
-Programme urbanisme, paysages, eau et biodiversité :
+Mission "écologie, développement et aménagement durables" :
 
-- action gestion des milieux et biodiversité ;
+Programme "météorologie" ;
 
-Programme météorologie ;
+Programme "urbanisme, paysages, eau et biodiversité" :
 
-Programme conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire ;
+- action "gestion des milieux et biodiversité" ;
 
-Programme énergie et après-mines ;
+Programme "prévention des risques" ;
 
-Programme prévention des risques .
+Programme "énergie, climat et après-mines" ;
 
-Mission avances au fonds d'aide à l'acquisition de véhicules propres :
+Programme "conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer".
 
-Programme avances au titre du paiement de l'aide à l'acquisition de véhicules propres ;
+Mission "services nationaux de transport conventionnés de voyageurs" :
 
-Programme avances au titre du paiement de la majoration de l'aide à l'acquisition de véhicules propres en cas de destruction simultanée d'un véhicule de plus de quinze ans .
+Programme "contribution à l'exploitation des services nationaux de transport conventionnés" ;
 
-Bureau logement, ville et territoires
+Programme "contribution au matériel roulant des services nationaux de transport conventionnés".
 
-Mission ville et logement :
+Mission "avances au fonds d'aide à l'acquisition de véhicules propres" :
 
-Programme politique de la ville ;
+Programme "avances au titre du paiement de l'aide à l'acquisition de véhicules propres" ;
 
-Programme aide à l'accès au logement ;
+Programme "avances au titre du paiement de la majoration de l'aide à l'acquisition de véhicules propres en cas de destruction simultanée d'un véhicule de plus de quinze ans".
 
-Programme développement et amélioration de l'offre de logement .
+Bureau "logement, ville et territoires"
 
-Mission politique des territoires :
+Mission "écologie, développement et aménagement durables" :
 
-Programme impulsion et coordination de la politique d'aménagement du territoire ;
+Programme "information géographique et cartographique" ;
 
-Programme interventions territoriales de l'Etat .
+Programme "urbanisme, paysages, eau et biodiversité" :
 
-Mission écologie, développement et aménagement durables :
+- action "urbanisme, aménagement et sites - planification".
 
-Programme urbanisme, paysages, eau et biodiversité :
+Mission "engagements financiers de l'Etat" :
 
-- action urbanisme ;
+Programme "épargne".
 
-Programme information géographique et cartographique .
+Mission "politique des territoires" :
 
-Mission engagements financiers de l'Etat :
+Programme "impulsion et coordination de la politique d'aménagement du territoire" ;
 
-Programme épargne .
+Programme "interventions territoriales de l'Etat".
 
-<font size="2">Cinquième sous-direction</font>
+Mission "ville et logement" :
 
-Bureau défense et mémoire
+Programme "développement et amélioration de l'offre de logement" ;
 
-Mission défense :
+Programme "aide à l'accès au logement" ;
 
-Programme environnement et prospective de la politique de défense ;
+Programme "politique de la ville et Grand Paris".
 
-Programme préparation et emploi des forces ;
+Cinquième sous-direction
 
-Programme soutien de la politique de la défense ;
+Bureau "défense et mémoire"
 
-Programme équipement des forces.
+Mission "anciens combattants, mémoire et liens avec la nation" :
 
-Mission anciens combattants, mémoire et liens avec la nation :
+Programme "liens entre la nation et son armée" ;
 
-Programme liens entre la nation et son armée ;
+Programme "reconnaissance et réparation en faveur du monde combattant" ;
 
-Programme mémoire, reconnaissance et réparation en faveur du monde combattant ;
+Programme "indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la Seconde Guerre mondiale".
 
-Programme indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la Seconde Guerre mondiale.
+Mission "défense" :
 
-Mission pensions :
+Programme "environnement et prospective de la politique de défense" ;
 
-Programme pensions militaires d'invalidité et des victimes de guerre et autres pensions.
+Programme "préparation et emploi des forces" ;
 
-Mission recherche et enseignement supérieur :
+Programme "soutien de la politique de la défense" ;
 
-Programme recherche duale.
+Programme "équipement des forces".
 
-Bureau intérieur et action gouvernementale
+Mission "recherche et enseignement supérieur" :
 
-Mission administration générale et territoriale de l'Etat :
+Programme "recherche duale (civile et militaire)".
 
-Programme administration territoriale ;
+Mission "pensions" :
 
-Programme vie politique, cultuelle et associative ;
+Programme "pensions militaires d'invalidité et des victimes de guerre et autres pensions".
 
-Programme conduite et pilotage des politiques de l'intérieur.
+Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien" :
 
-Mission sécurité civile :
+Programme "optimisation de l'usage du spectre hertzien".
 
-Programme intervention des services opérationnels ;
+Bureau "intérieur et action gouvernementale"
 
-Programme coordination des moyens de secours.
+Mission "administration générale et territoriale de l'Etat" :
 
-Mission sécurité :
+Programme "administration territoriale" ;
 
-Programme police nationale.
+Programme "vie politique, cultuelle et associative" ;
 
-Programme gendarmerie nationale.
+Programme "conduite et pilotage des politiques de l'intérieur".
 
-Mission direction de l'action du Gouvernement :
+Mission "direction de l'action du Gouvernement" :
 
-Programme coordination du travail gouvernemental ;
+Programme "coordination du travail gouvernemental" ;
 
-Mission pouvoirs publics :
+Programme "protection des droits et libertés" ;
 
-Dotation présidence de la République ;
+Programme "moyens mutualisés des administrations déconcentrées".
 
-Dotation Assemblée nationale ;
+Mission "écologie, développement et aménagement durables" :
 
-Dotation Sénat ;
+Programme "sécurité et circulation routières".
 
-Dotation La Chaîne parlementaire ;
+Mission "pouvoirs publics" :
 
-Dotation Conseil constitutionnel ;
+Dotation "présidence de la République" ;
 
-Dotation Haute Cour de justice ;
+Dotation "Assemblée nationale" ;
 
-Dotation Cour de justice de la République ;
+Dotation "Sénat" ;
 
-Dotation indemnités des représentants français au Parlement européen.
+Dotation "La Chaîne parlementaire" ;
 
-Mission publications officielles et information administrative :
+Dotation "indemnités des représentants français au Parlement européen" ;
 
-Programme accès au droit, publications officielles et annonces légales ;
+Dotation "Conseil constitutionnel" ;
 
-Programme édition publique et information administrative.
+Dotation "Haute Cour" ;
 
-Mission contrôle et sanctions automatisés des infractions au code de la route :
+Dotation "Cour de justice de la République".
 
-Programme fichier national du permis de conduire.
+Mission "sécurité" :
 
-Bureau collectivités locales
+Programme "police nationale" ;
 
-Mission relations avec les collectivités territoriales :
+Programme "gendarmerie nationale".
 
-Programme concours financiers aux communes et groupements de communes ;
+Mission "sécurité civile" :
 
-Programme concours financiers aux départements ;
+Programme "intervention des services opérationnels" ;
 
-Programme concours financiers aux régions ;
+Programme "coordination des moyens de secours".
 
-Programme concours spécifiques et administration.
+Mission "publications officielles et information administrative" :
 
-<font size="2">Sixième sous-direction</font>
+Programme "édition et diffusion" ;
 
-Bureau comptes sociaux et santé
+Programme "pilotage et activités de développement des publications".
 
-Mission santé :
+Mission "contrôle de la circulation et du stationnement routiers" :
 
-Programme santé publique et prévention ;
+Programme "fichier national du permis de conduire" ;
 
-Programme offre de soins et qualité du système de soins ;
+Programme "contrôle et modernisation de la politique de la circulation et du stationnement routiers".
 
-Programme drogue et toxicomanie.
+Bureau "collectivités locales"
 
-Mission solidarité insertion et égalité des chances :
+Mission "relations avec les collectivités territoriales" :
 
-Programme protection maladie.
+Programme "concours financiers aux communes et groupements de communes" ;
 
-Mission sécurité sanitaire :
+Programme "concours financiers aux départements" ;
 
-Programme veille et sécurité sanitaire.
+Programme "concours financiers aux régions" ;
 
-Bureau emploi et formation professionnelle
+Programme "concours spécifiques et administration".
 
-Mission travail et emploi :
+Mission "contrôle de la circulation et du stationnement routiers" :
 
-Programme accès et retour à l'emploi ;
+Programme "contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières" ;
 
-Programme accompagnement des mutations économiques, et développement de l'emploi ;
+Programme "désendettement de l'Etat".
 
-Programme amélioration de la qualité de l'emploi et des relations du travail ;
+Sixième sous-direction
 
-Programme conception, gestion et évaluation des politiques de l'emploi et du travail.
+Bureau "comptes sociaux et santé"
 
-Bureau solidarité et insertion
+Mission "santé" :
 
-Mission solidarité, insertion et égalité des chances :
+Programme "prévention, sécurité sanitaire et offre de soins".
 
-Programme prévention de l'exclusion et insertion des personnes vulnérables ;
+Programme "protection maladie".
 
-Programme lutte contre les exclusions-expérimentations ;
+Bureau "emploi et formation professionnelle"
 
-Programme actions en faveur des familles vulnérables ;
+Mission "travail et emploi" :
 
-Programme handicap et dépendance ;
+Programme "accès et retour à l'emploi" ;
 
-Programme égalité entre les hommes et les femmes ;
+Programme "accompagnement des mutations économiques et développement de l'emploi" ;
 
-Programme conduite et soutien des politiques sanitaires et sociales.
+Programme "amélioration de la qualité de l'emploi et des relations du travail" ;
 
-Bureau retraites et régimes spéciaux
+Programme "conception, gestion et évaluation des politiques de l'emploi et du travail".
 
-Mission régimes sociaux et de retraite :
+Mission "financement national du développement et de la modernisation de l'apprentissage" :
 
-Programme régimes sociaux et de retraite des transports terrestres ;
+Programme "péréquation entre régions des ressources de la taxe d'apprentissage" ;
 
-Programme régimes de retraite et de sécurité sociale des marins ;
+Programme "contractualisation pour le développement et la modernisation de l'apprentissage" ;
 
-Programme régimes de retraites des mines, de la SEITA et divers.
+Programme "incitations financières en direction des entreprises respectant les quotas en alternance".
 
-Mission engagements financiers de l'Etat :
+Bureau "solidarité et insertion"
 
-Programme majoration de rentes.
+Mission "solidarité, insertion et égalité des chances" :
 
-Mission pensions :
+Programme "lutte contre la pauvreté : revenu de solidarité active et expérimentations sociales" ;
 
-Programme ouvriers des établissements industriels de l'Etat ;
+Programme "actions en faveur des familles vulnérables" ;
 
-Programme pensions civiles et militaires de retraite et allocations temporaires d'invalidité.
+Programme "handicap et dépendance" ;
 
-<font size="2">Septième sous-direction</font>
+Programme "égalité entre les hommes et les femmes" ;
 
-Bureau agriculture
+Programme "conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative".
 
-Mission agriculture, pêche, alimentation, forêt et affaires rurales :
+Mission "ville et logement" :
 
-Programme gestion durable de l'agriculture, de la pêche et développement rural ;
+Programme "prévention de l'exclusion et insertion des personnes vulnérables".
 
-Programme valorisation des produits, orientation et régulation des marchés ;
+Bureau "retraites et régimes spéciaux"
 
-Programme forêt ;
+Mission "engagements financiers de l'Etat" :
 
-Programme conduite et pilotage des politiques de l'agriculture.
+Programme "majoration de rentes".
 
-Compte d'affectation spéciale développement agricole et rural :
+Mission "régimes sociaux et de retraite" :
 
-Programme développement agricole et rural pluriannuel ;
+Programme "régimes sociaux et de retraite des transports terrestres" ;
 
-Programme innovation et partenariat.
+Programme "régimes de retraite et de sécurité sociale des marins" ;
 
-Mission sécurité sanitaire :
+Programme "régimes de retraite des mines, de la SEITA et divers".
 
-Programme sécurité et qualité sanitaire de l'alimentation.
+Mission "pensions" :
 
-Mission enseignement scolaire :
+Programme "ouvriers des établissements industriels de l'Etat" ;
 
-Programme enseignement technique agricole.
+Programme "pensions civiles et militaires de retraite et allocations temporaires d'invalidité".
 
-Mission recherche et enseignement supérieur :
+Septième sous-direction
 
-Programme enseignement supérieur et recherche agricole.
+Bureau "agriculture"
 
-Bureau affaires étrangères et aide au développement
+Mission "agriculture, pêche, alimentation, forêt et affaires rurales" :
 
-Mission action extérieure de l'Etat :
+Programme "économie et développement durable de l'agriculture, de la pêche et des territoires" ;
 
-Programme action de la France en Europe et dans le monde ;
+Programme "forêt" ;
 
-Programme rayonnement culturel et scientifique ;
+Programme "sécurité et qualité sanitaires de l'alimentation" ;
 
-Programme Français à l'étranger et affaires consulaires .
+Programme "conduite et pilotage des politiques de l'agriculture".
 
-Mission aide publique au développement :
+Mission "enseignement scolaire" :
 
-Programme aide économique et financière au développement ;
+Programme "enseignement technique agricole".
 
-Programme solidarité à l'égard des pays en développement ;
+Mission "recherche et enseignement supérieur" :
 
-Programme développement solidaire et migrations .
+Programme "enseignement supérieur et recherche agricoles".
 
-Mission immigration, asile et intégration :
+Mission "développement agricole et rural" :
 
-Programme immigration et asile ;
+Programme "développement et transfert en agriculture" ;
 
-Programme intégration et accès à la nationalité française .
+Programme "recherche appliquée et innovation en agriculture".
 
-Mission prêts à des Etats étrangers :
+Bureau "affaires étrangères et aide au développement"
 
-Programme prêts à des Etats étrangers pour consolidation de dettes envers la France ;
+Mission "action extérieure de l'Etat" :
 
-Programme prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers .
+Programme "action de la France en Europe et dans le monde" ;
 
-Bureau finances et politiques de l'Union européenne
+Programme "diplomatie culturelle et d'influence" ;
 
-Programme Présidence française de l'Union européenne.
+Programme "Français à l'étranger et affaires consulaires" ;
 
-Mission commerce extérieur et garanties de l'Etat
+Programme "Présidence française du G20 et du G8".
 
-Mission prêts à des Etats étrangers :
+Mission "aide publique au développement" :
 
-Programme prêts à des Etats étrangers de la Réserve pays émergents en vue de faciliter la réalisation de projets d'infrastructure.
+Programme "aide économique et financière au développement" ;
 
-Mission engagements financiers de l'Etat :
+Programme "solidarité à l'égard des pays en développement" ;
 
-Programme appels en garantie de l'Etat.
+Programme "développement solidaire et migrations".
 
-<font size="2">Huitième sous-direction</font>
+Mission "immigration, asile et intégration" :
 
-Bureau culture, jeunesse et sports
+Programme "immigration et asile" ;
 
-Mission culture :
+Programme "intégration et accès à la nationalité française".
 
-Programme patrimoines ;
+Mission "engagements en faveur de la forêt dans le cadre de la lutte contre le changement climatique" :
 
-Programme création ;
+Programme "projets de lutte contre la déforestation dans le cadre du financement précoce" ;
 
-Programme transmission des savoirs et démocratisation de la culture.
+Programme "actions des fonds environnementaux contre la déforestation dans le cadre du financement précoce".
 
-Mission sport, jeunesse et vie associative :
+Mission "prêts à des Etats étrangers" :
 
-Programme sport ;
+Programme "prêts à des Etats étrangers pour consolidation de dettes envers la France" ;
 
-Programme jeunesse et vie associative ;
+Programme "prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers".
 
-Programme conduite et pilotage de la politique du sport, de la jeunesse et de la vie associative.
+Bureau "finances et politiques de l'Union européenne"
 
-Bureau économie, finances et outre-mer
+Mission "avances à divers services de l'Etat ou organismes gérant des services publics" :
 
-Mission gestion des finances publiques et des ressources humaines :
+Programme "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune".
 
-Programme gestion fiscale et financière de l'Etat et du secteur public local ;
+Mission "prêts à des Etats étrangers" :
 
-Programme gestion fiscale et financière de l'Etat et du secteur public local : expérimentations Chorus ;
+Programme "Prêts aux Etats membres de l'Union européenne dont la monnaie est l'euro".
 
-Programme stratégie des finances publiques et modernisation de l'Etat ;
+Mission "commerce extérieur et garanties de l'Etat"
 
-Programme conduite et pilotage des politiques économique et financière ;
+Mission "engagements financiers de l'Etat" :
 
-Programme facilitation et sécurisation des échanges ;
+Programme "appels en garantie de l'Etat".
 
-Programme fonction publique .
+Mission "prêts à des Etats étrangers" :
 
-Mission économie :
+Programme "prêts à des Etats étrangers, de la Réserve pays émergents, en vue de faciliter la réalisation de projets d'infrastructure".
 
-Programme statistiques et études économiques ;
+Huitième sous-direction
 
-Programme stratégie économique et fiscale .
+Bureau "culture, jeunesse et sports"
 
-Mission Outre-mer :
+Mission "culture" :
 
-Programme emploi outre-mer ;
+Programme "patrimoines" ;
 
-Programme conditions de vie outre-mer .
+Programme "création" ;
 
-Bureau justice et médias
+Programme "transmission des savoirs et démocratisation de la culture".
 
-Mission justice :
+Mission "sport, jeunesse et vie associative" :
 
-Programme justice judiciaire ;
+Programme "sport" ;
 
-Programme administration pénitentiaire ;
+Programme "jeunesse et vie associative".
 
-Programme protection judiciaire de la jeunesse ;
+Mission "recherche et enseignement supérieur" :
 
-Programme accès au droit et à la justice ;
+Programme "recherche culturelle et culture scientifique".
 
-Programme conduite et pilotage de la politique de la justice : expérimentations Chorus ;
+Bureau "économie, finances et outre-mer"
 
-Programme conduite et pilotage de la politique de la justice .
+Mission "économie" :
 
-Mission conseil et contrôle de l'Etat :
+Programme "statistiques et études économiques" ;
 
-Programme Conseil d'Etat et autres juridictions administratives ;
+Programme "stratégie économique et fiscale".
 
-Programme Conseil économique, social et environnemental ;
+Mission "gestion des finances publiques et des ressources humaines" :
 
-Programme Cour des comptes et autres juridictions financières .
+Programme "gestion fiscale et financière de l'Etat et du secteur public local" ;
 
-Mission avances à l'audiovisuel :
+Programme "stratégie des finances publiques et modernisation de l'Etat" ;
 
-Programme France Télévisions ;
+Programme "conduite et pilotage des politiques économique et financière" ;
 
-Programme ARTE France ;
+Programme "facilitation et sécurisation des échanges" ;
 
-Programme Radio France ;
+Programme "fonction publique".
 
-Programme Contribution au financement d'Audiovisuel Extérieur de la France ;
+Mission "outre-mer" :
 
-Programme Institut national de l'audiovisuel ;
+Programme "emploi outre-mer" ;
 
-Programme passage à la télévision tout numérique .
+Programme "conditions de vie outre-mer".
 
-Mission médias :
+Bureau "justice et médias"
 
-Programme presse ;
+Mission "conseil et contrôle de l'Etat" :
 
-Programme soutien à l'expression radiophonique locale ;
+Programme "Conseil d'Etat et autres juridictions administratives" ;
 
-Programme contribution au financement de l'audiovisuel public ;
+Programme "Conseil économique, social et environnemental" ;
 
-Programme audiovisuel extérieur de la France .
+Programme "Cour des comptes et autres juridictions financières".
+
+Mission "justice" :
+
+Programme "justice judiciaire" ;
+
+Programme "administration pénitentiaire" ;
+
+Programme "protection judiciaire de la jeunesse" ;
+
+Programme "accès au droit et à la justice" ;
+
+Programme "conduite et pilotage de la politique de la justice".
+
+Mission "médias, livre et industries culturelles" :
+
+Programme "presse, livre et industries culturelles" ;
+
+Programme "contribution à l'audiovisuel et à la diversité radiophonique" ;
+
+Programme "action audiovisuelle extérieure".
+
+Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien" :
+
+Programme "désendettement de l'Etat".
+
+Mission "avances à l'audiovisuel public" :
+
+Programme "France Télévisions" ;
+
+Programme "ARTE France" ;
+
+Programme "Radio France" ;
+
+Programme "contribution au financement de l'action audiovisuelle extérieure" ;
+
+Programme "Institut national de l'audiovisuel".
