@@ -12,65 +12,69 @@ Code NSF : 234 s.
 
 Résumé du référentiel d'emploi
 
-Le menuisier de fabrication bâtiment ameublement participe, sur une ou plusieurs machines ou sur une chaîne automatisée, à la fabrication d'ouvrages en bois ou matériaux dérivés du bois. En fonction de consignes écrites précises (fiche de fabrication, bon de travail, etc.), et rarement en décidant par lui-même, il est amené à réaliser les opérations suivantes : le débit optimisé des matériaux, les calibrages courants droits et de formes, les usinages, sur différents types de machines dédiées, nécessaires à la fabrication du produit et les travaux de finition et de montage final. Il peut effectuer, sur les machines, des opérations simples de réglage et de maintenance préventive. Il peut également assumer la responsabilité de l'affûtage et de la fabrication d'outils de coupe ou de montage d'usinage.
+L'activité s'exerce dans des entreprises de taille variable soit sur un travail posté, soit en tenant indifféremment tous les postes mais toujours selon une organisation de type industriel.
 
-Il est en relation permanente avec les menuisiers de fabrication chargés des phases amont et aval, coordonnés par un chef d'équipe ou par le chef d'atelier qui peut modifier à tout moment le plan de charge. Il travaille le plus souvent debout dans des ateliers assez bruyants, dépoussiérés et chauffés et il peut être amené à déplacer des charges lourdes. Il est sédentaire, ses horaires de travail sont réguliers.
+Elle repose sur la conduite d'une ou de plusieurs machines, fonctionnant sur le principe de l'enlèvement de copeaux, sur lesquelles il faut assurer des opérations simples de réglage et de maintenance préventive.
 
-Le respect des consignes strictes de fabrication et des règles de sécurité tant individuelles que collectives est déterminant dans l'exercice de l'emploi.
+Le menuisier de fabrication bâtiment ameublement effectue seul des opérations de débit, d'usinage et de profilage de pièces d'ouvrages menuisés telles que meubles, huisseries, portes, fenêtres, à partir de bois massifs, de matériaux dérivés du bois et matériaux associés. Il assure le montage de ces ouvrages.
+
+Pour y parvenir, il dispose de documents de fabrication et de consignes verbales remis par le chef d'atelier. Il met en œuvre différents types de machines couramment utilisées dans la profession (scie à panneaux, scie à format, perceuse multibroche, plaqueuse de chants, toupie, cadreuse, ponceuse, matériel portatif, etc.) à réglage manuel et à positionnement numérique.
+
+La prise en compte des principes de développement durable-le tri sélectif de déchets, la loi sur l'eau, la loi sur l'air notamment-a une incidence sur l'organisation de l'entreprise qui, pour assumer sa responsabilité sociétale et environnementale, met en place des procédures spécifiques applicables à tout le personnel de fabrication notamment.
+
+L'emploi s'exerce de manière sédentaire en atelier.
+
+Les règles d'hygiène, de sécurité et de protection de la santé au travail nécessitent le port d'éléments de protection individuelle (EPI) adaptés : lunettes, chaussures de sécurité, masque antipoussières, bouchons auditifs, casque antibruit...
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Débiter et calibrer des pièces de menuiserie et d'ameublement
+1. Fabriquer des éléments et des meubles en panneaux dérivés du bois
 
-Débiter du bois massif avivé et en plots.
+Fabriquer sur mesure des meubles non démontables en panneaux dérivés du bois.
 
-Débiter des panneaux dérivés du bois.
+Fabriquer aux dimensions standards des meubles démontables en panneaux dérivés du bois.
 
-Corroyer du bois massif.
+Fabriquer sur mesure un ensemble en panneaux dérivés du bois replaqués.
 
-Calibrer des panneaux bois et dérivés prédébités.
+Fabriquer des éléments de forme courbe en panneaux dérivés du bois revêtus.
 
-Coller des revêtements sur des panneaux dérivés du bois.
+2. Fabriquer des meubles et des ensembles menuisés en bois massif
 
-2. Usiner les assemblages de liaison, les profils et les formes sur des pièces de menuiserie et d'ameublement
+Fabriquer des éléments droits en bois massif.
 
-Usiner des assemblages de liaison sur des pièces de bois massif.
+Fabriquer des éléments courbes en bois massif.
 
-Usiner des assemblages de liaison sur des panneaux dérivés du bois.
+Monter un meuble en bois massif prêt à vernir.
 
-Profiler des pièces de bois massif et des panneaux dérivés du bois.
+Monter une menuiserie en bois massif prête à vernir.
 
-Calibrer en forme des pièces en bois massif et des panneaux dérivés du bois.
+3. Produire en série des meubles et des ensembles menuisés
 
-Coller des chants sur des panneaux dérivés du bois.
+Préparer et usiner en série des pièces de bois massif.
 
-3. Monter et finir des pièces de menuiserie et d'ameublement
+Préparer et usiner en série des pièces de panneaux dérivés du bois.
 
-Poncer des pièces en bois massif et des panneaux dérivés du bois.
+Monter des ouvrages menuisés fabriqués en série.
 
-Poser des quincailleries et des accessoires sur des menuiseries et des meubles.
+Secteurs d'activités ou types d'emplois accessibles par le détenteur du titre
 
-Monter et assembler des éléments plans de menuiserie et d'ameublement.
+La fabrication industrielle d'ouvrages en bois,
 
-Monter et assembler des éléments volumiques de menuiserie et d'ameublement.
+Le bâtiment et travaux publics-BTP.
 
-Appliquer une protection sur des menuiseries et une finition sur des meubles.
+Type d'emplois accessibles :
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Menuisier de fabrication ;
 
-Les grandes, moyennes et petites entreprises du meuble, de la charpente et des menuiseries.
+Opérateur de débit ;
 
-Les sociétés d'intérim.
+Opérateur d'usinage ;
 
-Les grandes et moyennes entreprises du travail mécanique du bois.
+Opérateur de montage.
 
-Codes ROME :
+Code ROME :
 
-46321 - Conducteur/conductrice de machine de fabrication des industries de l'ameublement et du bois et matériaux associés.
-
-46322 - Façonneur/façonneuse bois et matériaux associés (production de série).
-
-46323 - Monteur/monteuse d'ouvrages en bois et matériaux associés (production de série).
+H-2202-Conduite d'équipement de fabrication de l'ameublement et du bois.
 
 Réglementation de l'activité :
 
@@ -78,10 +82,16 @@ Néant.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi
+Ministère chargé de l'emploi.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié portant règlement général des sessions de validation pour l'obtention du professionnel du ministère chargé de l'emploi.

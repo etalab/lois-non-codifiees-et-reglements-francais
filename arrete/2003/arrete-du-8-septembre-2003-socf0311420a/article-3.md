@@ -2,10 +2,10 @@
 
 Le titre professionnel de menuisier de fabrication bâtiment ameublement est composé des trois unités constitutives dont la liste suit :
 
-1. Débiter et calibrer des pièces de menuiserie et d'ameublement ;
+1. Fabriquer des éléments et des meubles en panneaux dérivés du bois.
 
-2. Usiner les assemblages de liaison, les profils et les formes sur des pièces de menuiserie et d'ameublement ;
+2. Fabriquer des meubles et des ensembles menuisés en bois massif.
 
-3. Monter et finir des pièces de menuiserie et d'ameublement.
+3. Produire en série des meubles et des ensembles menuisés.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Ces unités peuvent être sanctionnées par des certificats de compétences professionnelles dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
