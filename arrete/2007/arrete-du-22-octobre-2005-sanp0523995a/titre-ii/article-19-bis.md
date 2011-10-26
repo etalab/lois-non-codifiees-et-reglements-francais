@@ -1,0 +1,3 @@
+# Article 19 bis
+
+Les titulaires d'un diplôme d'aide-soignant délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen dans lequel la formation n'est pas réglementée ou présente des différences substantielles avec la formation au diplôme d'Etat français d'aide-soignant sont dispensées des épreuves de sélection. La dispense de certaines unités de formation peut être accordée par le directeur de l'institut, après avis du conseil technique, sur la base d'une comparaison entre la formation suivie par les candidats et les unités de formation du diplôme d'Etat d'aide-soignant.

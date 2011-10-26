@@ -8,7 +8,7 @@ a) Un représentant de l'organisme gestionnaire ;
 
 b) Une puéricultrice, formatrice permanente de l'institut de formation, élue chaque année par ses pairs ;
 
-c) Deux auxiliaires de puériculture d'établissements accueillant des élèves auxiliaires de puériculture en stage, l'un exerçant dans un établissement hospitalier, l'autre dans un établissement d'accueil de la petite enfance, chacun désigné pour trois ans par le directeur de l'institut  ;
+c) Deux auxiliaires de puériculture d'établissements accueillant des élèves auxiliaires de puériculture en stage, l'un exerçant dans un établissement hospitalier, l'autre dans un établissement d'accueil de la petite enfance, chacun désigné pour trois ans par le directeur de l'institut ;
 
 d) Le conseiller technique régional en soins infirmiers ou le conseiller pédagogique dans les régions où il existe ;
 

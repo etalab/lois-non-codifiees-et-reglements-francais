@@ -1,6 +1,6 @@
 # Article 22
 
-Le jury du diplôme d'Etat d'auxiliaire de puériculture est nommé par le préfet de région, sur proposition du      directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par ce dernier ou son représentant et comprend :
+Le jury du diplôme d'Etat d'auxiliaire de puériculture est nommé par le préfet de région, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par ce dernier ou son représentant et comprend :
 
 - le directeur général de l'agence régionale de santé ou son représentant ;
 

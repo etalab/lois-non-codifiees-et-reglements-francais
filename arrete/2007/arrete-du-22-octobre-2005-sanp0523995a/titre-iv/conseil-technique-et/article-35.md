@@ -2,13 +2,13 @@
 
 Dans chaque institut de formation d'aides-soignants, le directeur est assisté d'un conseil technique, qui est consulté sur toute question relative à la formation des élèves. Ce conseil est constitué par arrêté du directeur général de l'agence régionale de santé.
 
-Le conseil technique est présidé par le directeur général de l'agence régionale de santé ou son représentant ou son représentant. Il comprend, outre le directeur de l'institut :
+Le conseil technique est présidé par le directeur général de l'agence régionale de santé ou son représentant. Il comprend, outre le directeur de l'institut :
 
 a) Un représentant de l'organisme gestionnaire ;
 
 b) Un infirmier, formateur permanent de l'institut de formation, élu chaque année par ses pairs ;
 
-c) Un aide-soignant d'un établissement accueillant des élèves en stage, désigné pour trois ans par le directeur de l'institut de formation  ;
+c) Un aide-soignant d'un établissement accueillant des élèves en stage, désigné pour trois ans par le directeur de l'institut de formation ;
 
 d) Le conseiller technique régional en soins infirmiers ou le conseiller pédagogique dans les régions où il existe ;
 

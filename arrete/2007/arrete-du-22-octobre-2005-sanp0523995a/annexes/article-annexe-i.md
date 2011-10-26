@@ -1117,46 +1117,36 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </td>
 </tr>
 <tr>
-<td width="76">
-<p align="center">1</p>
+<td align="left" valign="top">
+<p align="left">1</p>
+<br/>
 </td>
-<td width="151">
+<td align="left" valign="top">
 <p>Une épreuve écrite en deux parties :</p>
 <p>- une série de questions (QROC et/ou</p>
 <p>QCM) ;</p>
 <p>- un cas clinique.</p>
+<p>Et une épreuve de MSP avec prise en charge d'une personne.</p>
 </td>
-<td width="151">
+<td align="left" valign="top">
 <p>Durée : 2 heures. </p>
 <p>Epreuve anonyme. </p>
 </td>
-<td width="151">
+<td align="left" valign="top">
 <p>Sur 20 points : </p>
 <p>- questions sur 8 points. </p>
 <p>- cas clinique sur 12 points.</p>
-</td>
-<td width="151">
-<p>Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles. </p>
-</td>
-</tr>
-<tr>
-<td width="76">
-<br/>
-</td>
-<td width="151">
-<p>Et une épreuve de MSP avec prise en charge d'une personne.</p>
-</td>
-<td width="151"/>
-<td width="151">
 <p>Sur 20 points :</p>
 <p>- participation D D S sur 8 points ;</p>
 <p>- réalisation du ou des soins sur 12 points.</p>
 </td>
-<td width="151"/>
+<td align="left" valign="top">
+<p>Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles. </p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="left">2</p>
 </td>
 <td width="151">
 <p>Une épreuve écrite : </p>
@@ -1175,7 +1165,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="left">3</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve de MSP avec prise en charge d'une personne. </p>
@@ -1193,7 +1183,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">4</p>
+<p align="left">4</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve pratique. </p>
@@ -1210,7 +1200,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">5</p>
+<p align="left">5</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve écrite et orale : </p>
@@ -1232,7 +1222,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">6</p>
+<p align="left">6</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve écrite : </p>
@@ -1251,7 +1241,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">7</p>
+<p align="left">7</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve écrite ou orale : </p>
@@ -1270,7 +1260,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">8</p>
+<p align="left">8</p>
 </td>
 <td valign="top" width="151">
 <p>Une épreuve écrite : </p>
