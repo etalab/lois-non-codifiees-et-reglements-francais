@@ -10,6 +10,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Côte de Beaune" ;
 
-― "Fixin" ;
-
-― "Côte de Nuits-Villages".
+― "Fixin".
