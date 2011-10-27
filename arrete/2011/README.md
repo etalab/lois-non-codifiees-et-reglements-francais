@@ -1297,6 +1297,7 @@
 - [Arrêté du 18 juillet 2011 (ETSR1120230A)](arrete-du-18-juillet-2011-etsr1120230a)
 - [Arrêté du 18 juillet 2011 (PRMX1119759A)](arrete-du-18-juillet-2011-prmx1119759a)
 - [Arrêté du 18 juillet 2011 (TRAT1119109A)](arrete-du-18-juillet-2011-trat1119109a)
+- [Arrêté du 18 juin 1986](arrete-du-18-juin-1986)
 - [Arrêté du 18 mars 2011 (BCRB1105451A)](arrete-du-18-mars-2011-bcrb1105451a)
 - [Arrêté du 18 mars 2011 (DEFH1107669A)](arrete-du-18-mars-2011-defh1107669a)
 - [Arrêté du 18 mars 2011 (DEVA1106388A)](arrete-du-18-mars-2011-deva1106388a)
