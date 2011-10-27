@@ -2,14 +2,12 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-―  Irouléguy  ;
+― Irouléguy ;
 
-―  Luberon  ;
+― Luberon ;
 
-―  Béarn  ;
+― Béarn ;
 
-―  Sainte-Croix-du-Mont  ;
+- Loupiac ;
 
-―  Loupiac  ;
-
-―  Sauternes .
+― Sauternes.
