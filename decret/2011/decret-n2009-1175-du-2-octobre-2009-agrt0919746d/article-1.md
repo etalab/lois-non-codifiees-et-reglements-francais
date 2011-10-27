@@ -8,10 +8,10 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― "Chambertin", "Chambertin-Clos de Bèze", "Chapelle-Chambertin", "Charmes-Chambertin", "Griotte-Chambertin", "Latricières-Chambertin", "Mazis-Chambertin" et "Ruchottes-Chambertin" ;
 
-― "Romanée-Saint-Vivant", "Romanée-Conti", "La Romanée", "La Tâche", "Richebourg", "La Grande Rue", "Echezeaux", "Grands-Echezeaux" ;
+― "Romanée-Conti", "La Romanée", "La Tâche", "Richebourg", "La Grande Rue", "Grands-Echezeaux" ;
 
 ― "Saint-Romain" ;
 
 ― "Volnay" ;
 
-― "Vosne-Romanée".
+- "Vosne-Romanée".
