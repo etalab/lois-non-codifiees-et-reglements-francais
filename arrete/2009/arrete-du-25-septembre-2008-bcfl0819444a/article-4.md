@@ -8,6 +8,8 @@ Les informations restituées par le traitement TDF (transfert des données fisca
 
 -les rectifications apportées, par le contribuable ou les services fiscaux, aux mêmes rubriques, en cas d'émission de rôles supplémentaires ou de dégrèvements ;
 
+-le code assujetti ISF, le cas échéant ;
+
 -le numéro d'ordre du traitement de l'imposition ;
 
 -le numéro du rôle d'émission ;
