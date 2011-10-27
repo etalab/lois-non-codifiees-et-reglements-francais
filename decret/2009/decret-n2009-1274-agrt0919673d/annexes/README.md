@@ -4,7 +4,6 @@
 - [Article Annexe AOC "Fronsac"](article-annexe-aoc-fronsac.md)
 - [Article Annexe "Lussac-Saint-Emilion"](article-annexe-lussac-saint-emilion.md)
 - [Article Annexe Montagne-Saint-Emilion](article-annexe-montagne-saint-emilion.md)
-- [Article AOC "Canon Fronsac"](article-aoc-canon-fronsac.md)
 - [Article AOC "Fronsac"](article-aoc-fronsac.md)
 - [Article AOC "Listrac-Médoc"](article-aoc-listrac-medoc.md)
 - [Article AOC "Lussac-Saint-Emilion"](article-aoc-lussac-saint-emilion.md)
