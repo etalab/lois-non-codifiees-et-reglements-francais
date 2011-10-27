@@ -5,7 +5,6 @@
 - [Article Annexe "Lussac-Saint-Emilion"](article-annexe-lussac-saint-emilion.md)
 - [Article Annexe Montagne-Saint-Emilion](article-annexe-montagne-saint-emilion.md)
 - [Article AOC "Fronsac"](article-aoc-fronsac.md)
-- [Article AOC "Listrac-Médoc"](article-aoc-listrac-medoc.md)
 - [Article AOC "Lussac-Saint-Emilion"](article-aoc-lussac-saint-emilion.md)
 - [Article AOC "Montagne-Saint-Emilion"](article-aoc-montagne-saint-emilion.md)
 - [Article AOC "Moulis"](article-aoc-moulis.md)
