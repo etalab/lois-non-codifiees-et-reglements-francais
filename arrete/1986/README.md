@@ -113,7 +113,6 @@
 - [Arrêté du 18 avril 1986](arrete-du-18-avril-1986)
 - [Arrêté du 18 février 1986](arrete-du-18-fevrier-1986)
 - [Arrêté du 18 juillet 1986](arrete-du-18-juillet-1986)
-- [Arrêté du 18 juin 1986](arrete-du-18-juin-1986)
 - [Arrêté du 18 mars 1986](arrete-du-18-mars-1986)
 - [Arrêté du 18 novembre 1986](arrete-du-18-novembre-1986)
 - [Arrêté du 19 décembre 1985](arrete-du-19-decembre-1985)
