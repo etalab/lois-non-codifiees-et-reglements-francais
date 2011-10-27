@@ -1,6 +1,5 @@
 # Annexe
 
-- [Article AOC Gevrey-Chambertin](article-aoc-gevrey-chambertin.md)
 - [Article AOC Irancy](article-aoc-irancy.md)
 - [Article AOC Ladoix](article-aoc-ladoix.md)
 - [Article AOC Maranges](article-aoc-maranges.md)
