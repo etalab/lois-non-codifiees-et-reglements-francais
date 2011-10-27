@@ -2898,7 +2898,6 @@
 - [Arrêté du 30 mars 2009 (AGRS0900858A)](arrete-du-30-mars-2009-agrs0900858a)
 - [Arrêté du 30 mars 2009 (AGRS0907012A)](arrete-du-30-mars-2009-agrs0907012a)
 - [Arrêté du 30 mars 2009 (BCFR0907192A)](arrete-du-30-mars-2009-bcfr0907192a)
-- [Arrêté du 30 mars 2009 (DEVA0907197A)](arrete-du-30-mars-2009-deva0907197a)
 - [Arrêté du 30 mars 2009 (DEVT0912406A)](arrete-du-30-mars-2009-devt0912406a)
 - [Arrêté du 30 mars 2009 (DEVU0903668A)](arrete-du-30-mars-2009-devu0903668a)
 - [Arrêté du 30 mars 2009 (ECED0907050A)](arrete-du-30-mars-2009-eced0907050a)
