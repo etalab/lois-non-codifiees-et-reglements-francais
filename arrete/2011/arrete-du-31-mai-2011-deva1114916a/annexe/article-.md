@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 septembre 2011
+Jusqu'au 30 septembre 2016
 
 Lyon―Sétif (Algérie).
 
