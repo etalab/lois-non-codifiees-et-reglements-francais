@@ -6,4 +6,3 @@
 - [Article AOC Meursault](article-aoc-meursault.md)
 - [Article AOC Monthelie](article-aoc-monthelie.md)
 - [Article AOC Pernand-Vergelesses](article-aoc-pernand-vergelesses.md)
-- [Article AOC Pommard](article-aoc-pommard.md)
