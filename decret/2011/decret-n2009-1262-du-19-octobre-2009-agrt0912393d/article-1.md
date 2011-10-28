@@ -10,6 +10,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Rosette " ;
 
-― " Côtes du Marmandais " ;
-
-― " Cahors ".
+― " Côtes du Marmandais ".
