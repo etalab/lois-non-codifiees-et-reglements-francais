@@ -5,4 +5,3 @@
 - [Article AOC "Cadillac"](article-aoc-cadillac.md)
 - [Article AOC "Entre-deux-Mers"](article-aoc-entre-deux-mers.md)
 - [Article AOC "Saint-Macaire"](article-aoc-saint-macaire.md)
-- [Article AOC "Sainte-Foy-Bordeaux"](article-aoc-sainte-foy-bordeaux.md)
