@@ -42,4 +42,12 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 20° La création de trois pôles interrégionaux de collecte et de production des statistiques de la construction et du logement ;
 
-21° La création d'un service à compétence nationale pour l'instruction et la délivrance des certificats d'économies d'énergie.
+21° La création d'un service à compétence nationale pour l'instruction et la délivrance des certificats d'économies d'énergie ;
+
+22° Le rattachement des missions régaliennes de police de l'eau  exercées par les services de navigation aux directions régionales de  l'environnement, de l'aménagement et du logement ou aux directions  départementales des territoires concernées ;
+
+23° La restructuration  de l'Institut géographique national dans le cadre de la constitution de  l'Institut national de l'information géographique et forestière ;
+
+24° La relocalisation à Lille de la mission d'inspection générale territoriale du Nord ;
+
+25°  La restructuration des services locaux concourant à l'entretien,  l'exploitation et la gestion du réseau routier national au sein des  directions interdépartementales des routes.
