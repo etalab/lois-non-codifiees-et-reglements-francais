@@ -2,20 +2,18 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― "Saint-Véran" ;
+― " Saint-Véran " ;
 
-― "Viré-Clessé" ;
+― " Viré-Clessé " ;
 
-― "Aloxe-Corton" ;
+― " Clos de la Roche ", " Bonnes-Mares ", " Clos des Lambrays ", " Clos de Tart " ;
 
-― "Clos de la Roche", "Bonnes-Mares", "Clos des Lambrays", "Clos de Tart" ;
+― " Musigny " ;
 
-― "Musigny" ;
+― " Chambolle-Musigny " ;
 
-― "Chambolle-Musigny" ;
+― " Vougeot " ;
 
-― "Vougeot" ;
+― " Saint-Aubin " ;
 
-― "Saint-Aubin" ;
-
-― "Saint-Bris".
+― " Saint-Bris ".
