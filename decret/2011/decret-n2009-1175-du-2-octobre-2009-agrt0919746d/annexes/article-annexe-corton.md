@@ -1,12 +1,12 @@
 # Article Annexe " Corton "
 
-**CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CORTON , CORTON-CHARLEMAGNE , CHARLEMAGNE**
+**CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CORTON, CHARLEMAGNE**
 
 Chapitre Ier
 
 I. ― Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées Corton , Corton-Charlemagne et Charlemagne , initialement reconnues par le décret du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre aux appellations d'origine contrôlées Corton et Charlemagne , initialement reconnues par le décret du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. ― Dénominations géographiques et mentions complémentaires
 
@@ -16,7 +16,7 @@ III. ― Couleur et types de produit
 
 L'appellation d'origine contrôlée Corton est réservée aux vins tranquilles blancs ou rouges.
 
-Les appellations d'origine contrôlées Corton-Charlemagne et Charlemagne sont réservées aux vins tranquilles blancs.
+L'appellation d'origine contrôlée Charlemagne est réservée aux vins tranquilles blancs.
 
 IV. ― Aires et zones dans lesquelles différentes opérations sont réalisées
 
@@ -593,7 +593,7 @@ XII. ― Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées Corton , Corton-Charlemagne et Charlemagne qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées Corton et Charlemagne qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
