@@ -1,6 +1,5 @@
 # 1984
 
-- [Décret du 1 mars 1984](decret-du-1-mars-1984)
 - [Décret n°65-686 du 1 juillet 1965](decret-n65-686-du-1-juillet-1965)
 - [Décret n°80-679 du 1 septembre 1980](decret-n80-679-du-1-septembre-1980)
 - [Décret n°84-1060 du 1 décembre 1984](decret-n84-1060-du-1-decembre-1984)
