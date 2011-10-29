@@ -88,7 +88,7 @@
 <td align="left" valign="top">
 <br/>Rectorat </td>
 <td align="left" valign="top">
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -103,10 +103,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Inspection académique de Seine-et-Marne </td>
 <td align="left" valign="top">
@@ -114,10 +111,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Inspection académique de Seine-Saint-Denis </td>
 <td align="left" valign="top">
@@ -520,7 +514,7 @@
 <td align="left" colspan="2" valign="top">
 <br/>Administration centrale</td>
 <td align="left" valign="top">
-<p align="center">3 </p>
+<p align="center">2 </p>
 </td>
 </tr>
 </tbody>

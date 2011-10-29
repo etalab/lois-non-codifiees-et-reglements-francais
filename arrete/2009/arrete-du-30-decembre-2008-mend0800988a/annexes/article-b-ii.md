@@ -32,10 +32,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Aix-Marseille-II <br/>
 </td>
@@ -45,10 +42,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Aix-Marseille-III <br/>
 </td>
@@ -58,10 +52,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université d'Avignon <br/>
 </td>
@@ -107,10 +98,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Bordeaux-II <br/>
 </td>
@@ -120,10 +108,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Bordeaux-III <br/>
 </td>
@@ -133,10 +118,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Bordeaux-IV <br/>
 </td>
@@ -146,10 +128,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Pau <br/>
 </td>
@@ -159,10 +138,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ecole nationale supérieure d'électronique, informatique, et radiocommunication <br/>
 </td>
@@ -196,10 +172,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Clermont-II <br/>
 </td>
@@ -209,10 +182,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut français de mécanique avancée (IFMA) <br/>
 </td>
@@ -234,10 +204,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-VIII <br/>
 </td>
@@ -247,10 +214,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-XII <br/>
 </td>
@@ -260,10 +224,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-XIII <br/>
 </td>
@@ -297,10 +258,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Grenoble-II <br/>
 </td>
@@ -310,10 +268,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Grenoble-III <br/>
 </td>
@@ -323,10 +278,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Chambéry <br/>
 </td>
@@ -336,10 +288,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut polytechnique de Grenoble <br/>
 </td>
@@ -373,10 +322,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Lille-II <br/>
 </td>
@@ -386,10 +332,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Lille-III <br/>
 </td>
@@ -399,10 +342,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Valenciennes <br/>
 </td>
@@ -412,10 +352,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université d'Artois <br/>
 </td>
@@ -425,10 +362,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université du Littoral <br/>
 </td>
@@ -438,10 +372,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ecole centrale de Lille <br/>
 </td>
@@ -475,10 +406,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Lyon-II <br/>
 </td>
@@ -488,10 +416,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Lyon-III <br/>
 </td>
@@ -501,10 +426,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Saint-Etienne <br/>
 </td>
@@ -514,10 +436,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ecole normale supérieure de Lyon <br/>
 </td>
@@ -539,10 +458,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Montpellier-II <br/>
 </td>
@@ -552,10 +468,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Montpellier-III <br/>
 </td>
@@ -565,10 +478,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Perpignan <br/>
 </td>
@@ -590,10 +500,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Nancy-II <br/>
 </td>
@@ -603,10 +510,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Metz <br/>
 </td>
@@ -616,10 +520,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut national polytechnique de Lorraine <br/>
 </td>
@@ -641,10 +542,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université d'Angers <br/>
 </td>
@@ -654,10 +552,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université du Mans <br/>
 </td>
@@ -679,10 +574,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Toulon <br/>
 </td>
@@ -704,10 +596,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Tours <br/>
 </td>
@@ -729,10 +618,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-II <br/>
 </td>
@@ -742,10 +628,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-III <br/>
 </td>
@@ -755,10 +638,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-IV <br/>
 </td>
@@ -768,10 +648,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-V <br/>
 </td>
@@ -781,10 +658,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-VI <br/>
 </td>
@@ -794,10 +668,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-VII <br/>
 </td>
@@ -807,10 +678,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université technologique Paris-Dauphine <br/>
 </td>
@@ -820,10 +688,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Collège de France <br/>
 </td>
@@ -833,10 +698,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Conservatoire national des arts et métiers <br/>
 </td>
@@ -846,10 +708,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ecole pratique des hautes études <br/>
 </td>
@@ -859,10 +718,16 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
+<td/>
+<td>
+<p align="left">Ecole des hautes études en sciences sociales </p>
 </td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Muséum national d'histoire naturelle <br/>
 </td>
@@ -872,10 +737,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut national d'histoire de l'art <br/>
 </td>
@@ -885,10 +747,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Agence d'évaluation de la recherche et de l'enseignement supérieur <br/>
 </td>
@@ -898,10 +757,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut national des langues et civilisations orientales <br/>
 </td>
@@ -911,10 +767,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Chancellerie des universités de Paris <br/>
 </td>
@@ -936,10 +789,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de La Rochelle <br/>
 </td>
@@ -973,10 +823,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Rennes-II <br/>
 </td>
@@ -986,10 +833,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Brest <br/>
 </td>
@@ -999,10 +843,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Bretagne-Sud <br/>
 </td>
@@ -1036,10 +877,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université du Havre <br/>
 </td>
@@ -1061,10 +899,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Mulhouse <br/>
 </td>
@@ -1086,10 +921,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Toulouse-II <br/>
 </td>
@@ -1099,10 +931,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Toulouse-III <br/>
 </td>
@@ -1124,10 +953,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université Paris-XI <br/>
 </td>
@@ -1137,10 +963,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Cergy-Pontoise <br/>
 </td>
@@ -1150,10 +973,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université d'Evry-Val d'Essonne <br/>
 </td>
@@ -1163,10 +983,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Université de Versailles-Saint-Quentin-en-Yvelines <br/>
 </td>
@@ -1176,10 +993,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés <br/>
 </td>
@@ -1189,10 +1003,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>Ecole nationale supérieure de l'électronique et de ses applications - Cergy-pontoise <br/>
 </td>
