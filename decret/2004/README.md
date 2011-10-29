@@ -1047,7 +1047,6 @@
 - [Décret n°2003-1391 du 31 décembre 2003 (EQUU0301830D)](decret-n2003-1391-du-31-decembre-2003-equu0301830d)
 - [Décret n°2003-1393 du 31 décembre 2003 (SANS0324993D)](decret-n2003-1393-du-31-decembre-2003-sans0324993d)
 - [Décret n°2003-1394 du 31 décembre 2003 (SANS0324994D)](decret-n2003-1394-du-31-decembre-2003-sans0324994d)
-- [Décret n°2003-1395 du 31 décembre 2003 (INTX0300194D)](decret-n2003-1395-du-31-decembre-2003-intx0300194d)
 - [Décret n°2003-1396 du 31 décembre 2003 (JUSX0300206D)](decret-n2003-1396-du-31-decembre-2003-jusx0300206d)
 - [Décret n°2004-919 du 31 août 2004 (EQUA0400815D)](decret-n2004-919-du-31-aout-2004-equa0400815d)
 - [Décret n°2004-920 du 31 août 2004 (MCCB0400543D)](decret-n2004-920-du-31-aout-2004-mccb0400543d)
