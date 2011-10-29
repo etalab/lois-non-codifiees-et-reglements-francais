@@ -52,7 +52,6 @@
 - [Arrêté du 3 juin 2008 (ECED0813417A)](arrete-du-3-juin-2008-eced0813417a)
 - [Arrêté du 3 juin 2008 (SJSH0805925A)](arrete-du-3-juin-2008-sjsh0805925a)
 - [Arrêté du 3 mars 2008 (SJSH0805636A)](arrete-du-3-mars-2008-sjsh0805636a)
-- [Arrêté du 3 novembre 2008 (AGRP0824114A)](arrete-du-3-novembre-2008-agrp0824114a)
 - [Arrêté du 3 novembre 2008 (BCFF0825378A)](arrete-du-3-novembre-2008-bcff0825378a)
 - [Arrêté du 3 novembre 2008 (DEVA0822168A)](arrete-du-3-novembre-2008-deva0822168a)
 - [Arrêté du 3 novembre 2008 (DEVK0826061A)](arrete-du-3-novembre-2008-devk0826061a)

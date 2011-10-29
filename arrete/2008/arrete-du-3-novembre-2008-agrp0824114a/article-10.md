@@ -1,3 +1,0 @@
-# Article 10
-
-Les vins pour lesquels, aux termes du présent arrêté, est revendiquée l'appellation d'origine vin délimité de qualité supérieure « Côtes d'Auvergne » et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte et de stock, dans les documents d'accompagnement et les documents commerciaux, dans les annonces, sur les étiquettes, récipients quelconques et tout support publicitaire l'appellation d'origine susvisée soit inscrite et accompagnée de la mention « appellation d'origine vin délimité de qualité supérieure », le tout en caractères très apparents.
