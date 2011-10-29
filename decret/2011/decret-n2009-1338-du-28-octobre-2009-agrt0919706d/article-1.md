@@ -4,8 +4,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Collioure " ;
 
-― " Fitou " ;
-
 ― " Côtes du Roussillon " ;
 
 ― " Côtes du Roussillon Villages " ;
