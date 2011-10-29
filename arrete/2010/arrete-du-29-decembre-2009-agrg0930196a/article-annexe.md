@@ -8,122 +8,130 @@ Contaminants biologiques présents dans les denrées alimentaires
 <tbody>
 <tr>
 <th>
-<p align="center">DOMAINE DE COMPÉTENCE</p>
+<br/>DOMAINE DE COMPÉTENCE<br/>
 </th>
 <th>
-<p align="center">LABORATOIRE NATIONAL DE RÉFÉRENCE</p>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Contrôle des biotoxines marines</p>
+<br/>Biotoxines marines<br/>
 </td>
 <td align="center">
-<p align="left">Agence française de sécurité sanitaire des aliments (AFSSA) ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Campylobacter sp.</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Microbiologie des coquillages</p>
+<br/>Campylobacter spp.<br/>
 </td>
 <td align="center">
-<p align="left">Institut français de recherche pour l'exploitation de la mer (IFREMER) ― Nantes</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Echinococcus sp.</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la rage et la pathologie des animaux sauvages (LERRPAS) ― Nancy</p>
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Escherichia coli, y compris E. coli vérotoxinogènes (VTEC)</p>
+<br/>Microbiologie des coquillages<br/>
 </td>
 <td align="center">
-<p align="left">Ecole nationale vétérinaire de Lyon (ENVL) ― Unité de microbiologie alimentaire et prévisionnelle (UMAP) ― Marcy-l'Etoile</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Histamine</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les produits de la pêche (LERPP) ― Boulogne-sur-Mer</p>
+<br/>Institut français de recherche pour l'exploitation de la mer (IFREMER) - Nantes<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Lait et produits laitiers (en particulier la qualité sanitaire du lait cru)</p>
+<br/>Echinococcus spp.<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Listeria monocytogenes</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
+<br/>ANSES - Laboratoire de la rage et de la faune sauvage de Nancy<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mycotoxines (groupe B3d selon l'annexe I de la directive 96/23/CE du Conseil)</p>
+<br/>Escherichia coli, y compris E. coli vérotoxinogènes (VTEC)<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Mycotoxines dans les aliments pour animaux</p>
-</td>
-<td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire de Rennes</p>
+<br/>VET AGRO SUP - Campus vétérinaire de Lyon, laboratoire d'études des micro-organismes alimentaires pathogènes (LMAP) - Marcy-l'Etoile<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Parasites transmis par les aliments, hormis Echinococcus sp.</p>
+<br/>Histamine<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort, unité mixte de recherche Biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR)</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Résistance antimicrobienne</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les médicaments vétérinaires et les désinfectants (LERMVD) ― Fougères</p>
+<br/>ANSES - Laboratoire des produits de la pêche de Boulogne-sur-Mer<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Salmonella sp.</p>
+<br/>Lait et produits laitiers (en particulier la qualité sanitaire du lait cru)<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Staphylocoques à coagulase positive, y compris Staphylococcus aureus et entérotoxines staphylococciques</p>
+<br/>Listeria monocytogenes<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mycotoxines (groupe B3d selon l'annexe I de la directive 96/23/CE du Conseil) dans les denrées d'origine animale<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mycotoxines dans les denrées d'origine végétale et aliments pour animaux<br/>
+</td>
+<td align="center">
+<br/>Service commun des laboratoires - Laboratoire de Rennes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Parasites transmis par les aliments, hormis Echinococcus sp.<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort, unité mixte de recherche biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Résistance antimicrobienne<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Fougères<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Salmonella spp. <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Staphylocoques à coagulase positive, y compris Staphylococcus aureus et entérotoxines staphylococciques<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Vibrio spp. dans les produits de la pêche<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire des produits de la pêche de Boulogne-sur-Mer<br/>
 </td>
 </tr>
 </tbody>
@@ -135,106 +143,122 @@ Contaminants physiques et chimiques, résidus et additifs
 <tbody>
 <tr>
 <th>
-<p align="center">DOMAINE DE COMPÉTENCE</p>
+<br/>DOMAINE DE COMPÉTENCE<br/>
 </th>
 <th>
-<p align="center">LABORATOIRE NATIONAL DE RÉFÉRENCE</p>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Additifs utilisés dans l'alimentation des animaux</p>
+<br/>Additifs utilisés dans l'alimentation des animaux<br/>
 </td>
 <td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire de Rennes</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Détection de protéines animales dans les aliments pour animaux</p>
-</td>
-<td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire de Rennes</p>
+<br/>Service commun des laboratoires - Laboratoire de Rennes<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Dioxines et PCB dans l'alimentation humaine et animale</p>
+<br/>Détection de protéines animales dans les aliments pour animaux<br/>
 </td>
 <td align="center">
-<p align="left">Ecole nationale vétérinaire de Nantes (ENVN)― Laboratoire d'études des résidus et contaminants dans les aliments (LABERCA) ― Nantes</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Hydrocarbures aromatiques polycycliques</p>
-</td>
-<td align="center">
-<p align="left">ENVN ― Laboratoire d'études des résidus et contaminants dans les aliments (LABERCA) ― Nantes</p>
+<br/>Service commun des laboratoires - Laboratoire de Rennes<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Matériaux au contact des denrées alimentaires</p>
+<br/>Dioxines et PCB dans l'alimentation humaine et animale <br/>
 </td>
 <td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire Bordeaux-Pessac</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Métaux lourds dans les denrées alimentaires d'origine animale (groupe B3c selon l'annexe I de la directive 96/23/CE du Conseil)</p>
-</td>
-<td align="center">
-<p align="left">Agence française de sécurité sanitaire des aliments (AFSSA) ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
+<br/>LABERCA ONIRIS - Nantes<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a et B3b selon l'annexe I de la directive 96/23/CE du Conseil)</p>
+<br/>Hydrocarbures aromatiques polycycliques <br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la qualité des aliments et sur les procédés agroalimentaires (LERQAP) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Résidus de pesticides dans les fruits et légumes</p>
-</td>
-<td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire de Montpellier</p>
+<br/>LABERCA ONIRIS - Nantes<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Résidus de pesticides dans les céréales</p>
+<br/>Matériaux au contact des denrées alimentaires<br/>
 </td>
 <td align="center">
-<p align="left">Service commun des laboratoires ― Laboratoire Paris-Massy</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Radionucléides</p>
-</td>
-<td align="center">
-<p align="left">Institut de radioprotection et de sûreté nucléaire (IRSN)</p>
+<br/>Service commun des laboratoires - Laboratoire de Bordeaux-Pessac<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Résidus de médicaments vétérinaires et colorants dans les denrées alimentaires d'origine animale et aliments pour animaux (groupes A6, B1, B2a, B2b, B2d, B2e, B2f (sauf glucocorticoïdes), B3e selon l'annexe I de la directive 96/23/CE du Conseil)</p>
+<br/>Eléments traces métalliques dans les denrées alimentaires d'origine animale (groupe B3c selon l'annexe I de la directive 96/23/CE du Conseil)<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les médicaments vétérinaires et les désinfectants (LERMVD) ― Fougères</p>
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Substances ayant un effet anabolisant et substances non autorisées chez les animaux vivant et dans les denrées alimentaires d'origine animale (groupes A1 à A5 et B2f ― glucocorticoïdes uniquement ― selon l'annexe I de la directive 96/23/CE du Conseil)</p>
+<br/>Eléments traces métalliques dans les denrées alimentaires d'origine végétale et les aliments pour animaux<br/>
 </td>
 <td align="center">
-<p align="left">Ecole nationale vétérinaire de Nantes ― Laboratoire d'études des résidus et contaminants dans les aliments (LABERCA) ― Nantes</p>
+<br/>Service commun des laboratoires - Laboratoire de Bordeaux-Pessac<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a sauf PCB et dioxines et B3b selon l'annexe I de la directive 96/23/CE du Conseil) <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pesticides par méthodes monorésidus<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Résidus de pesticides dans les fruits et légumes<br/>
+</td>
+<td align="center">
+<br/>Service commun des laboratoires - Laboratoire de Montpellier<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Résidus de pesticides dans les céréales et aliments pour animaux<br/>
+</td>
+<td align="center">
+<br/>Service commun des laboratoires - Laboratoire de Paris-Massy<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Radionucléides <br/>
+</td>
+<td align="center">
+<br/>Institut de radioprotection et de sûreté nucléaire (IRSN) - Le Vésinet<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Résidus de médicaments vétérinaires et colorants dans les denrées alimentaires d'origine animale et aliments pour animaux (groupes A6, B1, B2a, B2b, B2d, B2e, B2f sauf glucocorticoïdes, B3e selon l'annexe I de la directive 96/23/CE du Conseil) <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Fougères<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Substances ayant un effet anabolisant et substances non autorisées chez les animaux vivants et dans les denrées alimentaires d'origine animale (groupes A1 à A5 et B2f - glucocorticoïdes uniquement - selon l'annexe I de la directive 96/23/CE du Conseil)<br/>
+</td>
+<td align="center">
+<br/>LABERCA ONIRIS - Nantes<br/>
 </td>
 </tr>
 </tbody>
@@ -246,338 +270,621 @@ Maladies animales
 <tbody>
 <tr>
 <th>
-<p align="center">DOMAINE DE COMPÉTENCE</p>
+<br/>DOMAINE DE COMPÉTENCE<br/>
 </th>
 <th>
-<p align="center">LABORATOIRE NATIONAL DE RÉFÉRENCE</p>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Anémie infectieuse des équidés</p>
+<br/>Anémie infectieuse des équidés<br/>
 </td>
 <td align="center">
-<p align="left">Agence française de sécurité sanitaire des aliments (AFSSA) ― Laboratoire d'études et de recherches en pathologie équine (LERPE) ― Dozulé </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Artérite virale équine</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie équine (LERPE) ― Dozulé</p>
+<br/>ANSES - Laboratoire de pathologie équine de Dozulé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Arthrite-encéphalite caprine à virus (AECV)</p>
+<br/>Artérite virale équine<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches caprines (LERC) ― Niort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Brucelloses animales (y compris pour le contrôle officiel des brucellines)</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
+<br/>ANSES - Laboratoire de pathologie équine de Dozulé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Chlamydiose aviaire</p>
+<br/>Arthrite-encéphalite caprine à virus (AECV)<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Dourine</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie équine (LERPE) ― Dozulé</p>
+<br/>ANSES - Laboratoire de Niort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Encéphalites virales des équidés : encéphalite West-Nile</p>
+<br/>Botulisme aviaire<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Encéphalopathies spongiformes transmissibles</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie bovine et hygiène des viandes (LERPBHV) ― Lyon</p>
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Fièvre aphteuse</p>
+<br/>Brucelloses animales (y compris pour le contrôle officiel des brucellines)<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fièvre catarrhale ovine : diagnostic sérologique vecteurs</p>
-</td>
-<td align="center">
-<p align="left">Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) ― Montpellier</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Fièvre catarrhale ovine : diagnostic virologique</p>
+<br/>Chlamydiose aviaire<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fièvre charbonneuse</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Fièvre de la vallée du Rift ― diagnostic sérologique</p>
+<br/>Dourine <br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie bovine et hygiène des viandes (LERPBHV) ― Lyon</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fièvre Q</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les petits ruminants et les abeilles (LERPRA) ― Sophia Antipolis</p>
+<br/>ANSES - Laboratoire de pathologie équine de Dozulé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Herpèsviroses équines</p>
+<br/>Encéphalites virales des équidés : encéphalite West-Nile <br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie équine (LERPE) ― Dozulé</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Hypodermose</p>
-</td>
-<td align="center">
-<p align="left">Laboratoire départemental de la Côte-d'Or (LDCO) ― Dijon</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Influenza aviaire</p>
+<br/>Encéphalopathies spongiformes transmissibles<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Influenza A/H1N1 pandémique porcin chez le porc</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>ANSES - Laboratoire de Lyon<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Leucose bovine enzootique</p>
+<br/>Fièvre aphteuse<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches caprines (LERC) ― Niort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Maedi-visna</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches caprines (LERC) ― Niort</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maladie d'Aujeszky</p>
+<br/>Fièvre catarrhale ovine : diagnostic sérologique et vecteurs<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Maladie hémorragique épizootique du cerf</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
+<br/>Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) - Montpellier<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maladies des mollusques bivalves</p>
+<br/>Fièvre catarrhale ovine : diagnostic virologique<br/>
 </td>
 <td align="center">
-<p align="left">Institut français de recherche pour l'exploitation de la mer (IFREMER) ― La Tremblade</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Maladie de Newcastle</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maladie vésiculeuse des suidés</p>
+<br/>Fièvre charbonneuse<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Métrite contagieuse des équidés</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie équine (LERPE) ― Dozulé</p>
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Morve</p>
+<br/>Fièvre de la vallée du Rift - diagnostic sérologique<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Mycoplasmoses aviaires</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>ANSES - Laboratoire de Lyon<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maladies réglementées des poissons</p>
+<br/>Fièvre de la vallée du Rift - diagnostic virologique<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Brest</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Maladies des abeilles</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les petits ruminants et les abeilles (LERPRA) ― Sophia Antipolis</p>
+<br/>CIRAD - Montpellier<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Peste équine</p>
+<br/>Fièvre Q<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Peste porcine africaine</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>ANSES - Laboratoire de Sophia-Antipolis<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Peste porcine classique</p>
+<br/>Herpès viroses équines<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Rage (y compris pour le contrôle de l'efficacité des vaccins antirabiques)</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur la rage et la pathologie des animaux sauvages (LERRPAS) ― Nancy</p>
+<br/>ANSES - Laboratoire de pathologie équine de Dozulé <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhinotrachéite infectieuse bovine (IBR)</p>
+<br/>Hypodermose<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les petits ruminants et les abeilles (LERPRA) ― Sophia Antipolis</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Salmonelloses aviaires</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches avicole, porcine et piscicole (LERAPP) ― Ploufragan</p>
+<br/>Laboratoire départemental de la Côte-d'Or (LDCO) - Dijon<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Stomatite vésiculeuse</p>
+<br/>Influenza aviaire <br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Susceptibilité génétique à la tremblante</p>
-</td>
-<td align="center">
-<p align="left">Laboratoire d'analyses génétiques pour les espèces animales (LABOGENA) ― Jouy-en-Josas</p>
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Tuberculose (y compris pour le contrôle officiel des réactifs destinés aux analyses notamment des tuberculines)</p>
+<br/>Virus Influenza porcin <br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Tularémie (forme clinique)</p>
-</td>
-<td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches en pathologie animale et zoonoses (LERPAZ) ― Maisons-Alfort</p>
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vibrio sp. dans les produits de la pêche</p>
+<br/>Leucose bovine enzootique<br/>
 </td>
 <td align="center">
-<p align="left">AFSSA ― Laboratoire d'études et de recherches sur les produits de la pêche (LERPP) ― Boulogne-sur-mer</p>
+<br/>ANSES - Laboratoire de Niort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maedi-visna<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Niort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladie d'Aujeszky<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladie hémorragique épizootique du cerf<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladies des mollusques bivalves<br/>
+</td>
+<td align="center">
+<br/>Institut français de recherche pour l'exploitation de la mer (IFREMER) - La Tremblade<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladie de Newcastle<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladie vésiculeuse des suidés<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Métrite contagieuse des équidés<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de pathologie équine de Dozulé <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Morve<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Mycoplasmoses aviaires<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladies réglementées des poissons<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Maladies des abeilles<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Sophia-Antipolis<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Peste bovine<br/>
+</td>
+<td align="center">
+<br/>CIRAD - Montpellier<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Peste équine<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Peste des petits ruminants<br/>
+</td>
+<td align="center">
+<br/>CIRAD - Montpellier<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Peste porcine africaine<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Peste porcine classique<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Poxvirus des ruminants, dont clavelée et variole caprine<br/>
+</td>
+<td align="center">
+<br/>CIRAD - Montpellier<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Rage (y compris pour le contrôle de l'efficacité des vaccins antirabiques)<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la rage et de la faune sauvage de Nancy<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Rhinotrachéite infectieuse bovine (IBR)<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Sophia-Antipolis<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Salmonelloses aviaires<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de Ploufragan - Plouzané<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Stomatite vésiculeuse<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Susceptibilité génétique à la tremblante<br/>
+</td>
+<td align="center">
+<br/>Laboratoire d'analyses génétiques pour les espèces animales (LABOGENA) - Jouy-en-Josas<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Tuberculose (y compris pour le contrôle officiel des réactifs destinés aux analyses notamment des tuberculines)<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Tularémie (forme clinique)<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de santé animale de Maisons-Alfort<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+OGM
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>OGM dans le maïs (parties végétatives) et pommes de terre, betteraves, riz, coton et blé (semences et parties végétatives)<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>OGM dans le maïs (semences) et soja, colza et lin (semences et parties végétatives)<br/>
+</td>
+<td align="center">
+<br/>GEVES/BioGEVES - Surgères<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>OGM dans les semences (toutes espèces) et dans les denrées alimentaires d'origine végétale et les aliments pour animaux<br/>
+</td>
+<td align="center">
+<br/>Service commun des laboratoires - Laboratoire d'Illkirch-Graffenstaden<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Santé des végétaux
+
+Bactéries phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Bactéries sur bananier, agrumes et plantes tropicales <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bactéries sur autres matrices<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Phytoplasmes phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Phytoplasmes sur toutes matrices<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Virus phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Virus sur bananier et plantes tropicales <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Virus de la Sharka (PPV), virus de la pomme de terre et virus sur agrumes<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité quarantaine - station de Lempdes (près de Clermont-Ferrand)<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Autres virus<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Viroïdes phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Viroïdes sur toutes matrices<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Champignons (*) phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Champignons sur toutes matrices<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité mycologie - station de Malzéville (près de Nancy)<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) Champignons sensu stricto, ainsi que les organismes généralement assimilés (i.e. oomycètes, plasmodiophoromycètes).
+
+Nématodes phytopathogènes
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Nématodes phytoparasites sur toutes matrices <br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité nématologie - station du Rheu (près de Rennes)<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Insectes, acariens phytopathogènes et auxiliaires
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Insectes, acariens phytoparasites et auxiliaires sur toutes matrices<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité entomologie, plantes invasives - station de Montferrier-sur-Lèz (près de Montpellier)<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Plantes invasives
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DOMAINE DE COMPÉTENCE<br/>
+</th>
+<th>
+<br/>LABORATOIRE NATIONAL DE RÉFÉRENCE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Plantes invasives<br/>
+</td>
+<td align="center">
+<br/>ANSES - Laboratoire de la santé des végétaux, unité entomologie, plantes invasives - station de Montferrier-sur-Lèz (près de Montpellier)<br/>
 </td>
 </tr>
 </tbody>

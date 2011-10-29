@@ -51,7 +51,6 @@
 - [Arrêté du 2 septembre 2004 (DEFP0400853A)](arrete-du-2-septembre-2004-defp0400853a)
 - [Arrêté du 2 septembre 2004 (MPEC0411832A)](arrete-du-2-septembre-2004-mpec0411832a)
 - [Arrêté du 3 août 2004 (MCCI0400655A)](arrete-du-3-aout-2004-mcci0400655a)
-- [Arrêté du 3 décembre 2003 (AGRE0302579A)](arrete-du-3-decembre-2003-agre0302579a)
 - [Arrêté du 3 décembre 2004 (FPPA0400147A)](arrete-du-3-decembre-2004-fppa0400147a)
 - [Arrêté du 3 décembre 2004 (MENS0402683A)](arrete-du-3-decembre-2004-mens0402683a)
 - [Arrêté du 3 mars 2004 (AGRP0400659A)](arrete-du-3-mars-2004-agrp0400659a)
