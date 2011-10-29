@@ -6,7 +6,7 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Viré-Clessé " ;
 
-― " Clos de la Roche ", " Bonnes-Mares ", " Clos des Lambrays ", " Clos de Tart " ;
+― " Clos de la Roche ", " Bonnes-Mares ", " Clos de Tart " ;
 
 ― " Musigny " ;
 
