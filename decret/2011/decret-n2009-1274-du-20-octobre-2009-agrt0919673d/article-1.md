@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Lussac-Saint-Emilion " ;
 
-― " Canon Fronsac " ;
-
 ― " Fronsac " ;
 
 ― " Moulis " ou " Moulis-en-Médoc " ;
