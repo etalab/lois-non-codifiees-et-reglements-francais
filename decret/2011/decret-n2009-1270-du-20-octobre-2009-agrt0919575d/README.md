@@ -1,6 +1,3 @@
-# Décret n° 2009-1270 du 20 octobre 2009 relatif aux appellations d'origine contrôlées « Gevrey-Chambertin », « Irancy », « Ladoix », « Maranges », « Meursault », « Monthélie », « Pernand-Vergelesses » et « Pommard »
+# Décret n° 2009-1270 du 20 octobre 2009 relatif aux appellations d'origine contrôlées « Irancy », « Ladoix », « Maranges », « Meursault », « Monthélie », « Pernand-Vergelesses » et « Pommard »
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Annexe](annexe)

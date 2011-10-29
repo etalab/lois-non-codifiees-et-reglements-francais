@@ -2,18 +2,16 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Gevrey-Chambertin ";
+― " Irancy " ;
 
-― " Irancy ";
+― " Ladoix " ;
 
-― " Ladoix ";
+― " Maranges " ;
 
-― " Maranges ";
+― " Meursault " ;
 
-― " Meursault ";
+― " Monthélie " ;
 
-― " Monthélie ";
-
-― " Pernand-Vergelesses ";
+― " Pernand-Vergelesses " ;
 
 ― " Pommard ".
