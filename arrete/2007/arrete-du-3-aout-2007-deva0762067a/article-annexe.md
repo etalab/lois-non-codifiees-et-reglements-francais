@@ -65,3 +65,7 @@ Paris - Punta Cana (République dominicaine).
 Jusqu'au 15 mai 2015 :
 
 Paris - Las Vegas (Etats-Unis).
+
+Jusqu'au 15 octobre 2016 :
+
+Paris - Salvador de Bahia (Brésil).
