@@ -2,15 +2,13 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― " Corton " et " Charlemagne " ;
+― " Charlemagne " ;
 
 ― " Côte de Beaune-Villages " ;
 
-― " Chambertin ", " Chambertin-Clos de Bèze ", " Chapelle-Chambertin ", " Charmes-Chambertin ", " Griotte-Chambertin ", " Latricières-Chambertin ", " Mazis-Chambertin " et " Ruchottes-Chambertin " ;
+― " Charmes-Chambertin ", " Griotte-Chambertin ", " Latricières-Chambertin " et " Ruchottes-Chambertin " ;
 
-― " La Romanée ", " La Tâche ", " Richebourg ", " La Grande Rue " ;
-
-― " Saint-Romain " ;
+― " Richebourg ", " La Grande Rue " ;
 
 ― " Volnay " ;
 
