@@ -128,7 +128,6 @@
 - [Arrêté du 3 mars 2011 (BCRS1106405A)](arrete-du-3-mars-2011-bcrs1106405a)
 - [Arrêté du 3 mars 2011 (DEFH1106522A)](arrete-du-3-mars-2011-defh1106522a)
 - [Arrêté du 3 mars 2011 (DEVA1104613A)](arrete-du-3-mars-2011-deva1104613a)
-- [Arrêté du 3 mars 2011 (DEVA1104621A)](arrete-du-3-mars-2011-deva1104621a)
 - [Arrêté du 3 mars 2011 (DEVA1106104A)](arrete-du-3-mars-2011-deva1106104a)
 - [Arrêté du 3 mars 2011 (DEVL1106263A)](arrete-du-3-mars-2011-devl1106263a)
 - [Arrêté du 3 mars 2011 (INDR1106756A)](arrete-du-3-mars-2011-indr1106756a)
