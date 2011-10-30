@@ -247,6 +247,7 @@
 - [Décret n°2011-860 du 20 juillet 2011 (DEVL1112892D)](decret-n2011-860-du-20-juillet-2011-devl1112892d)
 - [Décret n°2011-861 du 20 juillet 2011 (IOCL1115405D)](decret-n2011-861-du-20-juillet-2011-iocl1115405d)
 - [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
+- [Décret n°2011-554 du 20 mai 2011 (EFIR1111651D)](decret-n2011-554-du-20-mai-2011-efir1111651d)
 - [Décret n°2011-1129 du 21 septembre 2011 (DEFH1105157D)](decret-n2011-1129-du-21-septembre-2011-defh1105157d)
 - [Décret n°2011-1134 du 21 septembre 2011 (ETSS1116943D)](decret-n2011-1134-du-21-septembre-2011-etss1116943d)
 - [Décret n°2011-1135 du 21 septembre 2011 (ETSS1121255D)](decret-n2011-1135-du-21-septembre-2011-etss1121255d)
