@@ -8,6 +8,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Côtes du Roussillon Villages " ;
 
-― " Cabardès " ;
-
-― " Clairette du Languedoc ".
+― " Cabardès ".
