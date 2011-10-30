@@ -1,5 +1,5 @@
 # Article PO 4
 
-Désenfumage des circulations horizontales
+Portes
 
-En complément des dispositions de l'article PE 30 (§ 2), la mise en route du désenfumage dans les circulations horizontales communes du niveau sinistré doit être asservie à la détection automatique d'incendie située dans ces circulations.
+A l'exception des sanitaires, tous les locaux doivent être équipés de blocs-portes pare-flammes de degré 1/2 heure munis d'un ferme-porte ou E30-C.

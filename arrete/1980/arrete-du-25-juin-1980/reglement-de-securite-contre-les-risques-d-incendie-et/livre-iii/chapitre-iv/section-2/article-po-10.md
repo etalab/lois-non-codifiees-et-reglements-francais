@@ -2,4 +2,4 @@
 
 Isolement des locaux dangereux
 
-Les locaux présentant des risques particuliers d'incendie doivent respecter les dispositions de l'article PE 9 du présent livre.
+Les dispositions de l'article PE 9 sont applicables. Le bloc-porte d'isolement est muni d'un ferme-porte.

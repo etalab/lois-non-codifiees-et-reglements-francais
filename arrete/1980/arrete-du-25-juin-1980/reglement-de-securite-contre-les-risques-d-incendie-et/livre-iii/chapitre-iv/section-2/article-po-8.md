@@ -1,9 +1,9 @@
 # Article PO 8
 
-Champ d'application
+Généralités
 
-§ 1. Les établissements pouvant recevoir plus de vingt personnes (11) sont soumis aux dispositions de la présente section complétant ou modifiant les mesures définies dans l'arrêté du 4 novembre 1976. Ces mesures doivent être réalisées dans le délai maximal de cinq ans à compter de la date de publication du présent arrêté au Journal officiel.
+§ 1. Les prescriptions définies dans la présente section sont applicables en complément des articles PE 4, PE 24, PE 26, PE 27, PE 32, PE 36, PO 1 (§ 3) et PO 5.
 
-Les établissements recevant vingt personnes au plus sont assujettis aux seules dispositions del'arrêté précité.
+§ 2. Les dispositions de l'article PE 13 ne sont pas applicables à l'intérieur des chambres.
 
-§ 2. Dans le cas où certaines dispositions ne peuvent être appliquées pour des raisons techniques, architecturales ou économiques, des mesures compensatoires adaptées peuvent être choisies par l'exploitant en liaison avec la commission de sécurité, dans le respect du niveau minimal global de sécurité défini dans le présent sous-chapitre.
+§ 3. Lorsque certaines dispositions prévues dans la présente section ne peuvent être appliquées pour des raisons architecturales ou techniques propres à l'établissement, le chef d'établissement propose des solutions alternatives adaptées aux caractéristiques de son établissement. Elles sont approuvées par la commission de sécurité compétente après une étude basée sur l'analyse de risque propre à l'établissement.

@@ -2,20 +2,44 @@
 
 Escaliers
 
-§ 1. Tout établissement comportant plus de deux étages et recevant plus de cinquante personnes doit comporter deux escaliers.
+§ 1. Les dispositions de l'article PO 2 sont applicables.
 
-§ 2. Toutefois lorsqu'il est fait application des dispositions de l'article PO 8 (§ 2), le deuxième escalier n'est pas exigé si l'une au moins des mesures suivantes est réalisée :
+En atténuation de l'article PO 2 et pour pallier des difficultés techniques ou pour des raisons architecturales, le chef d'établissement propose des solutions alternatives adaptées aux caractéristiques de son établissement. Elles sont approuvées par la commission de sécurité compétente après une étude basée sur une analyse de risque propre à l'établissement.
 
-a) Un système de détection automatique sensible aux fumées et aux gaz de combustion est installé dans les circulations horizontales des niveaux, ainsi qu'un système d'alarme conforme aux dispositions de l'article MS 62 ; de plus, toute temporisation est interdite;
+La protection du ou des escaliers doit être assurée conformément à l'article PE 11 (§ 6). Toutefois, il est admis que :
 
-b) Les circulations horizontales des étages desservant des locaux réservés au sommeil sont désenfumées si la distance entre la porte d'une chambre (ou d'un appartement) et l'accès à l'escalier dépasse 12 mètres. Le désenfumage doit être réalisé conformément aux dispositions de l'instruction technique n° 246 ;
+- deux portes d'accès par niveau puissent déboucher sur un palier traversant ;
 
-c) Chaque porte de chambre, ou de tout local accessible au public, est pare-flamme de degré 1/2 heure et munie d'un ferme-porte ;
+- les parois existantes pleines soient considérées comme résistantes au feu compte tenu des matériaux utilisés et de leur mode de construction ;
 
-d) Une fenêtre de chaque chambre est accessible aux échelles des sapeurs-pompiers ;
+- un ouvrant en partie haute de 0,60 m ² minimum, actionnable à partir du niveau d'accès des secours, constitue un exutoire ;
 
-e) Les chambres non accessibles aux échelles des sapeurs-pompiers disposent, outre leur sortie normale, d'un moyen d'évacuation accessoire non simultanément enfumable avec la sortie normale. Ce moyen peut être constitué par une passerelle, une échelle, un balcon, une terrasse, une manche d'évacuation, etc. ;
+- un bloc-porte comportant une porte pleine en bois massif d'une épaisseur de 30 mm équivaut à un degré de résistance au feu pare-flammes 1/2 heure ou E 30.
 
-f) Toute autre solution adaptée après avis de la commission de sécurité.
+Toute porte ouvrant sur le volume de la cage d'escalier ou sur une circulation horizontale y conduisant est munie d'un ferme-porte, à l'exception de celle des sanitaires.
 
-Les mesures d et e ne peuvent être retenues dans le cadre du paragraphe 2 que si elles n'ont pas déjà été retenues dans le cadre de l'article Po 12 de l'arrêté du 4 novembre 1976.
+En cas d'impossibilité architecturale ou technique reconnue par la sous-commission départementale de sécurité pour l'encloisonnement de l'escalier au rez-de-chaussée, le volume dans lequel il débouche doit servir uniquement de hall d'accueil. Il doit être isolé des locaux adjacents par les aménagements suivants :
+
+- réalisation d'un écran de cantonnement au droit de l'accès à l'escalier ;
+
+- isolement des locaux adjacents par des parois pleines ou vitrées résistantes au feu ;
+
+- accès aux locaux adjacents par des portes munies de ferme-portes ou asservies à la détection incendie ;
+
+- toute autre solution alternative adaptée.
+
+Dans l'hypothèse d'une unique chambre par niveau donnant sur le volume de protection de l'escalier, y compris dans le cas d'un palier traversant, l'accès à cette chambre devra se faire :
+
+- soit par une circulation horizontale commune ;
+
+- soit par un espace privatif sous détection automatique d'incendie, délimité par deux blocs-portes dont les caractéristiques de résistance au feu répondent aux dispositions du présent paragraphe. Les installations sanitaires de cette chambre peuvent s'ouvrir sur cette circulation.
+
+§ 2. Il est admis que le second escalier n'est pas exigé si l'une au moins des mesures suivantes est réalisée :
+
+a) La distance entre la porte de chaque chambre et la porte d'accès à l'escalier ne dépasse pas dix mètres ;
+
+b) Les circulations horizontales des étages desservant des locaux réservés au sommeil sont désenfumées conformément aux dispositions de l'instruction technique n° 246 ;
+
+c) Une fenêtre de chaque chambre est accessible aux échelles des sapeurs-pompiers à partir du deuxième étage. A défaut, des détecteurs automatiques d'incendie, appropriés aux risques, doivent être installés dans l'ensemble de l'établissement, à l'exception des escaliers et des sanitaires ;
+
+d) Toute autre solution alternative adaptée.

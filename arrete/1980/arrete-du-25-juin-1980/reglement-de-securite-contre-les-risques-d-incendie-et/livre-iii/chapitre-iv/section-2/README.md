@@ -1,4 +1,4 @@
-# Section 2 : Prescriptions spéciales applicables aux établissements existant à la date de publication du présent arrêté.
+# Section 2 : Prescriptions applicables aux établissements existant
 
 - [Article PO 8](article-po-8.md)
 - [Article PO 9](article-po-9.md)
