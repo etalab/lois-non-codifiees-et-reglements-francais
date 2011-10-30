@@ -4,6 +4,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Quarts de Chaume " ;
 
-― " Coteaux du Layon " ;
-
-― " Côtes de Duras ".
+― " Coteaux du Layon ".
