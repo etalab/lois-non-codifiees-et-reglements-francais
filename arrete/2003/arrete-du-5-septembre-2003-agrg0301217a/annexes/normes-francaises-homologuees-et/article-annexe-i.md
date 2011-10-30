@@ -26,6 +26,8 @@ NF U 44-001 (avril 2009). - Amendements minéraux basiques. - Dénominations et 
 
 NF U 44-051 (avril 2006). Amendements organiques. - Dénominations, spécifications et marquage.
 
+NF U 44-051/A1 (décembre 2010). Amendements organiques. - Dénominations, spécifications et marquage.
+
 NF U 44-203 (septembre 1988). - Matières fertilisantes ayant des caractéristiques mixtes : amendements calciques et / ou magnésiens - engrais - Dénominations et spécifications.
 
 NF U 44-203 / A1 (mars 2005). - Matières fertilisantes ayant des caractéristiques mixtes : amendements calciques et / ou magnésiens - engrais - Dénominations et spécifications.
