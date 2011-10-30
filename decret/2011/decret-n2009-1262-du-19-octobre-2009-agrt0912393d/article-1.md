@@ -8,6 +8,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Pécharmant " ;
 
-― " Rosette " ;
-
 ― " Côtes du Marmandais ".
