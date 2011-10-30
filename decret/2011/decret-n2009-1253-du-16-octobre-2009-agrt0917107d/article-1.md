@@ -4,6 +4,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Touraine " ;
 
-― " Orléans-Cléry " ;
-
 ― " Jasnières ".
