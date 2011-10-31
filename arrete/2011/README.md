@@ -1575,7 +1575,6 @@
 - [Arrêté du 21 janvier 2011 (ETSP1103702A)](arrete-du-21-janvier-2011-etsp1103702a)
 - [Arrêté du 21 janvier 2011 (IOCJ1033614A)](arrete-du-21-janvier-2011-iocj1033614a)
 - [Arrêté du 21 janvier 2011 (JUSA1033604A)](arrete-du-21-janvier-2011-jusa1033604a)
-- [Arrêté du 21 janvier 2011 (JUSA1102161A)](arrete-du-21-janvier-2011-jusa1102161a)
 - [Arrêté du 21 janvier 2011 (MAEF1101949A)](arrete-du-21-janvier-2011-maef1101949a)
 - [Arrêté du 21 janvier 2011 (MCCB1101888A)](arrete-du-21-janvier-2011-mccb1101888a)
 - [Arrêté du 21 juillet 2011 (AGRM1118490A)](arrete-du-21-juillet-2011-agrm1118490a)
