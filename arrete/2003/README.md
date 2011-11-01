@@ -838,8 +838,6 @@
 - [Arrêté du 27 janvier 2003 (BUDL0300014A)](arrete-du-27-janvier-2003-budl0300014a)
 - [Arrêté du 27 juin 2003 (DEFP0301508A)](arrete-du-27-juin-2003-defp0301508a)
 - [Arrêté du 27 juin 2003 (INDI0301683A)](arrete-du-27-juin-2003-indi0301683a)
-- [Arrêté du 27 juin 2003 (MENF0300924A)](arrete-du-27-juin-2003-menf0300924a)
-- [Arrêté du 27 juin 2003 (MENF0300925A)](arrete-du-27-juin-2003-menf0300925a)
 - [Arrêté du 27 juin 2003 (MENS0301411A)](arrete-du-27-juin-2003-mens0301411a)
 - [Arrêté du 27 juin 2003 (SOCF0310835A)](arrete-du-27-juin-2003-socf0310835a)
 - [Arrêté du 27 juin 2003 (SOCT0310872A)](arrete-du-27-juin-2003-soct0310872a)
