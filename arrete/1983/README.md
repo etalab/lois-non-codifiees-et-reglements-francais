@@ -44,7 +44,6 @@
 - [Arrêté du 11 juillet 1983](arrete-du-11-juillet-1983)
 - [Arrêté du 11 octobre 1983](arrete-du-11-octobre-1983)
 - [Arrêté du 11 mai 1983](arrete-du-11-mai-1983)
-- [Arrêté du 12 août 1983](arrete-du-12-aout-1983)
 - [Arrêté du 12 juillet 1983](arrete-du-12-juillet-1983)
 - [Arrêté du 12 septembre 1983](arrete-du-12-septembre-1983)
 - [Arrêté du 13 avril 1983](arrete-du-13-avril-1983)
