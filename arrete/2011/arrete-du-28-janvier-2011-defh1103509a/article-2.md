@@ -32,13 +32,13 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― chef du bureau de la diffusion multimédia au service parisien de soutien de l'administration centrale ;
 
-― directeur interrégional des anciens combattants de Marseille ;
+― chargé de mission conduite du changement auprès du directeur du centre ministériel de gestion de Toulon ;
 
-― chef de la division mobilité et dialogue social au centre ministériel de gestion de Lyon (à compter du 1er juillet 2011) ;
+― chef de la division mobilité et dialogue social au centre ministériel de gestion de Lyon ;
 
 ― directeur interrégional des anciens combattants de Paris ;
 
-― directeur interrégional des anciens combattants de Metz ;
+― directeur du pôle des sépultures de guerre et hauts lieux de mémoire nationale à l'Office national des anciens combattants et victimes de guerre ;
 
 ― directeur interrégional des anciens combattants de Lille ;
 
