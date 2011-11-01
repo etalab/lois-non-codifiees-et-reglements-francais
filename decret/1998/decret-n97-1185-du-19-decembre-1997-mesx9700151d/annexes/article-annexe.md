@@ -112,6 +112,13 @@ Code de la santé publique
 <td>Agrément des organismes chargés de l'enlèvement et de la destruction des médicaments à usage humain non utilisés (conjointement avec le ministre chargé de l'environnement). </td>
 <td>R. 4211-28</td>
 </tr>
+<tr>
+<td>
+<p align="center">14</p>
+</td>
+<td>Agrément des organismes chargés de la gestion des déchets mentionnés à l'article R. 1335-8-1 (conjointement avec les ministres chargés de l'environnement et des collectivités territoriales). </td>
+<td>R. 1335-8-8. </td>
+</tr>
 </tbody>
 </table>
 
@@ -604,8 +611,7 @@ Code civil
 <p>Décisions déclarant irrecevable, ajournant ou rejetant une demande de naturalisation ou de réintégration dans la nationalité française ou rejetant une demande d'autorisation de perdre la nationalité française.</p>
 </td>
 <td valign="top" width="151">
-<p>
-Décret n° 93-1362 du 30 décembre 1993, art. 47, 49 et 55. </p>
+<p>Décret n° 93-1362 du 30 décembre 1993, art. 47, 49 et 55. </p>
 </td>
 </tr>
 </tbody>
@@ -1238,12 +1244,10 @@ Code de la mutualité
 </tr>
 <tr>
 <td>
-<p align="center">5</p>
+<p align="center"> 5</p>
 </td>
 <td>Immatriculation des mutuelles, unions et fédérations en application des dispositions de l'article L. 111-1</td>
-<td>
-<p align="center">R. 414-2</p>
-</td>
+<td> R. 414-2</td>
 </tr>
 </tbody>
 </table>
@@ -2025,8 +2029,7 @@ Code des marchés publics
 <p>Autorisation de dissémination d'organismes génétiquement modifiés.</p>
 </td>
 <td valign="top" width="151">
-<p>
-Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 30).</p>
+<p>Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 30).</p>
 </td>
 </tr>
 </tbody>

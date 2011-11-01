@@ -4,20 +4,20 @@ TITRE 1er
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES, PRISES AU TITRE DU CODE DE L'ENVIRONNEMENT, PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT SEUL OU CONJOINTEMENT AVEC UN OU PLUSIEURS MINISTRES
 
-I. - Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
+I.-Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">Livre II</p>
+<p align="center">Livre II </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues.</p>
-<p>Arrêté conjoint des ministres chargés de l'énergie et de l'environnement.</p>
+<p align="left">Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues. </p>
+<p>Arrêté conjoint des ministres chargés de l'énergie et de l'environnement. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">R. 214-148</p>
+<p align="left">R. 214-148 </p>
 </td>
 </tr>
 <tr>
@@ -144,43 +144,43 @@ I. - Décisions administratives individuelles prises par le ministre chargé de 
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale.</p>
-<p align="left">Décision conjointe du ministre de la défense et du ministre en charge de l'environnement.</p>
+<p align="left">Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale. </p>
+<p align="left">Décision conjointe du ministre de la défense et du ministre en charge de l'environnement. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 521-1</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<p align="left">Agrément d'organismes chargés de délivrer les certificats au personnel.</p>
-<p>Arrêté des ministres chargés de l'environnement et de l'industrie.</p>
-</td>
-<td align="left" valign="top">
-<p>Article R. 521-59</p>
+<p>Article R. 521-1 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Agrément d'organismes chargés de délivrer les certificats aux entreprises.</p>
-<p>Arrêté des ministres chargés de l'environnement et de l'industrie.</p>
+<p align="left">Agrément d'organismes chargés de délivrer les certificats au personnel. </p>
+<p>Arrêté des ministres chargés de l'environnement et de l'industrie. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 521-60</p>
+<p>Article R. 521-59 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Agrément d'organismes chargés de délivrer les certificats aux entreprises. </p>
+<p>Arrêté des ministres chargés de l'environnement et de l'industrie. </p>
+</td>
+<td align="left" valign="top">
+<p>Article R. 521-60 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-II. - Décisions administratives individuelles prises par le ministre chargé de l'environnement :
+II.-Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">Livre Ier</p>
+<p align="center">Livre Ier </p>
 </td>
 <td valign="top" width="378">
 <p>Agrément des associations de protection de la nature et de l'environnement exerçant leur activité dans un cadre excédant les limites d'une région. </p>
@@ -191,7 +191,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">Livre II</p>
+<p align="center">Livre II </p>
 </td>
 <td valign="top" width="378">
 <p>Agrément des personnes compétentes pour siéger aux comités de bassin et désignation des représentants des milieux socioprofessionnels. </p>
@@ -356,7 +356,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">Livre III</p>
+<p align="center">Livre III </p>
 </td>
 <td valign="top" width="378">
 <p>Nomination des membres du conseil d'administration d'un établissement public de parc national. </p>
@@ -400,7 +400,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">Livre IV</p>
+<p align="center">Livre IV </p>
 </td>
 <td valign="top" width="378">
 <p>Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. </p>
@@ -499,7 +499,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">Livre V</p>
+<p align="center">Livre V </p>
 </td>
 <td valign="top" width="378">
 <p>Fixation des prescriptions assortissant l'autorisation délivrée aux installations classées mentionnées à l'article L. 512-2. </p>
@@ -612,7 +612,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15, 17 et 23 mentionnés au tableau annexé à l'article R. 522-9. </p>
+<p>Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15,17 et 23 mentionnés au tableau annexé à l'article R. 522-9. </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 522-29 </p>
@@ -656,7 +656,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Toutes décisions relatives à l'évaluation et au contrôle des risques présentés par les substances existantes (produits chimiques et biocides) conformément aux articles 9, 10, 12, 13 et 16 du règlement n° 793/93/CEE du 23 mars 1993. </p>
+<p>Toutes décisions relatives à l'évaluation et au contrôle des risques présentés par les substances existantes (produits chimiques et biocides) conformément aux articles 9,10,12,13 et 16 du règlement n° 793/93/ CEE du 23 mars 1993. </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 523-1 </p>
@@ -667,7 +667,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3, 4 et 5 du règlement n° 304/2003/CE. </p>
+<p>Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3,4 et 5 du règlement n° 304/2003/ CE. </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 523-2 </p>
@@ -678,7 +678,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Toutes décisions relatives à la production, l'importation, l'exportation, l'offre, l'utilisation et la récupération de substances qui appauvrissent la couche d'ozone conformément aux articles 3, 4 et 6 du règlement 2037/2000/CEE du 29 juin 2000. </p>
+<p>Toutes décisions relatives à la production, l'importation, l'exportation, l'offre, l'utilisation et la récupération de substances qui appauvrissent la couche d'ozone conformément aux articles 3,4 et 6 du règlement 2037/2000/ CEE du 29 juin 2000. </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 523-3 </p>
@@ -742,7 +742,7 @@ II. - Décisions administratives individuelles prises par le ministre chargé de
 </tbody>
 </table>
 
-I. - Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
+I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
 
 TITRE II
 
@@ -754,41 +754,45 @@ PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
 <tbody>
 <tr>
 <td valign="top" width="342">
-<p>Autorisation spéciale de travaux prévue par les décrets instituant des zones de protection.</p>
+<p>Autorisation spéciale de travaux prévue par les décrets instituant des zones de protection. </p>
 </td>
 <td valign="top" width="342">
-<p>Articles 17 et 20 de la loi du 2 mai 1930, abrogés par l'article 72 de la loi n° 83-8.</p>
+<p>Articles 17 et 20 de la loi du 2 mai 1930, abrogés par l'article 72 de la loi n° 83-8. </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-II. - Code de l'urbanisme :
+II.-Code de l'urbanisme :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="342">
-<p>Dérogations à l'interdiction du camping et du stationnement des caravanes dans un site classé ou naturel.</p>
+<p>Dérogations à l'interdiction du camping et du stationnement des caravanes dans un site classé ou naturel. </p>
 </td>
 <td valign="top" width="342">
-<p>Article R. 443-9 (2°)</p>
+<p>Article R. 443-9 (2°) </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-III. - Code de la défense :
+III.-Code de la défense :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="342">
-<p align="left">Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures.</p>
+<p align="left">Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures. </p>
 </td>
 <td valign="top" width="342">
-<p>Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6</p>
+<p>Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6 </p>
 </td>
 </tr>
 </tbody>
 </table>
+
+IV.-Code de la santé publique :
+
+Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8.

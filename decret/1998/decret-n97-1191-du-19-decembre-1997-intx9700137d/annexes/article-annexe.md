@@ -8,13 +8,13 @@ Ordonnance royale du 3 mars 1825 relative aux presbytères modifiée par le déc
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Distraction des parties superflues d'un presbytère lorsqu'il y a opposition de l'autorité diocésaine.</p>
+<p>Distraction des parties superflues d'un presbytère lorsqu'il y a opposition de l'autorité diocésaine. </p>
 </td>
 <td valign="top" width="151">
-<p>1er alinéa de l'article 1er.</p>
+<p>1er alinéa de l'article 1er. </p>
 </td>
 </tr>
 </tbody>
@@ -28,10 +28,10 @@ Ordonnance royale du 25 mai 1844 portant règlement pour l'organisation du culte
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Confirmation de l'élection des membres laïques des consistoires israélites.</p>
+<p>Confirmation de l'élection des membres laïques des consistoires israélites. </p>
 </td>
 <td valign="top" width="151">
 <p>1er alinéa de l'article 24 et alinéa 2 de l'article 65.</p>
@@ -39,10 +39,10 @@ Ordonnance royale du 25 mai 1844 portant règlement pour l'organisation du culte
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Autorisation d'ouverture d'un oratoire particulier.</p>
+<p>Autorisation d'ouverture d'un oratoire particulier. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 63. </p>
@@ -57,32 +57,32 @@ Décret du 26 mars 1852 modifié portant réorganisation des cultes protestants
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Dissolution du conseil presbytéral.</p>
+<p>Dissolution du conseil presbytéral. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 1-8. </p>
+<p>Article 1-8.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Opposition à la désignation des présidents de consistoires.</p>
+<p>Opposition à la désignation des présidents de consistoires. </p>
 </td>
 <td valign="top" width="151">
-<p>3e alinéa de l'article 3. </p>
+<p>3e alinéa de l'article 3.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Nomination d'un membre laïque et d'un inspecteur ecclésiastique au directoire de l'Eglise de la confession d'Augsbourg.</p>
+<p>Nomination d'un membre laïque et d'un inspecteur ecclésiastique au directoire de l'Eglise de la confession d'Augsbourg. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 11. </p>
@@ -97,21 +97,21 @@ Décret du 19 mars 1859 sur les cultes non reconnus
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Autorisation pour l'exercice public d'un culte non reconnu.</p>
+<p>Autorisation pour l'exercice public d'un culte non reconnu. </p>
 </td>
 <td valign="top" width="151">
-<p>1er alinéa de l'article 3. </p>
+<p>1er alinéa de l'article 3.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Révocation des autorisations pour l'exercice public d'un culte non reconnu.</p>
+<p>Révocation des autorisations pour l'exercice public d'un culte non reconnu. </p>
 </td>
 <td valign="top" width="151">
 <p>1er alinéa de l'article 4. </p>
@@ -126,10 +126,10 @@ Décret du 23 novembre 1994 portant déconcentration en matière de désaffectat
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Désaffectation des édifices cultuels lorsqu'il n'y a pas accord de l'autorité religieuse.</p>
+<p>Désaffectation des édifices cultuels lorsqu'il n'y a pas accord de l'autorité religieuse. </p>
 </td>
 <td valign="top" width="76">
 <p>Article 1er. </p>
@@ -148,13 +148,31 @@ Décret n° 93-571 du 27 mars 1993
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Décisions d'approbation ou de refus d'approbation de la convention constitutive des groupements d'intérêt public de coopération interrégionale et transfrontalière (décision prise conjointement avec le ministre chargé du budget).</p>
+<p>Décisions d'approbation ou de refus d'approbation de la convention constitutive des groupements d'intérêt public de coopération interrégionale et transfrontalière (décision prise conjointement avec le ministre chargé du budget). </p>
 </td>
 <td valign="top" width="151">
-<p>3e alinéa de l'article 2. </p>
+<p>3e alinéa de l'article 2.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Code de la santé publique
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="76">
+<p align="center">1 </p>
+</td>
+<td valign="top" width="378">
+<p>Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique.</p>
+</td>
+<td valign="top" width="151">
+<p> Article R. 1335-8-8</p>
 </td>
 </tr>
 </tbody>
@@ -170,21 +188,21 @@ Code de la route
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Retrait et reconstitution des points sur les permis de conduire.</p>
+<p>Retrait et reconstitution des points sur les permis de conduire. </p>
 </td>
 <td valign="top" width="151">
-<p>Alinéa 3 de l'article R. 258. </p>
+<p>Alinéa 3 de l'article R. 258.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Délivrance des certificats d'immatriculation.</p>
+<p>Délivrance des certificats d'immatriculation. </p>
 </td>
 <td valign="top" width="151">
 <p>Article R. 322-1 et suivants. </p>
@@ -199,10 +217,10 @@ Arrêté du 1er décembre 1959 modifié portant application du décret n° 55-13
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Autorisation pour les courses et épreuves sportives se déroulant sur des voies ouvertes à la circulation publique.</p>
+<p>Autorisation pour les courses et épreuves sportives se déroulant sur des voies ouvertes à la circulation publique. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 1er. </p>
@@ -210,10 +228,10 @@ Arrêté du 1er décembre 1959 modifié portant application du décret n° 55-13
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision d'homologation des circuits de vitesse.</p>
+<p>Décision d'homologation des circuits de vitesse. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 17. </p>
@@ -232,10 +250,10 @@ Convention relative à la détermination de l'Etat responsable de l'examen d'une
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision de prise en charge par la France d'un demandeur d'asile sur la requête d'un Etat signataire de la convention de Schengen du 19 juin 1990 ou de la convention de Dublin du 15 juin 1990.</p>
+<p>Décision de prise en charge par la France d'un demandeur d'asile sur la requête d'un Etat signataire de la convention de Schengen du 19 juin 1990 ou de la convention de Dublin du 15 juin 1990. </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -248,112 +266,112 @@ Code de l'entrée et du séjour des étrangers et du droit d'asile
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision refusant l'entrée en France à un demandeur d'asile.</p>
+<p>Décision refusant l'entrée en France à un demandeur d'asile. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 213-3 </p>
+<p>R. * 213-3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément individuel d'un représentant du Haut-Commissariat des Nations unies pour les réfugiés pour accéder à la zone d'attente.</p>
+<p>Agrément individuel d'un représentant du Haut-Commissariat des Nations unies pour les réfugiés pour accéder à la zone d'attente. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 223-4 </p>
+<p>R. * 223-4 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Habilitation d'une association humanitaire, agrément individuel d'un membre d'association pour accéder à la zone d'attente et décision autorisant des visites supplémentaires.</p>
+<p>Habilitation d'une association humanitaire, agrément individuel d'un membre d'association pour accéder à la zone d'attente et décision autorisant des visites supplémentaires. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 223-12 </p>
+<p>R. * 223-12 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td valign="top" width="378">
-<p>Interdiction faite à un étranger de résider dans un ou plusieurs départements.</p>
+<p>Interdiction faite à un étranger de résider dans un ou plusieurs départements. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 321-3 </p>
+<p>R. * 321-3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 <td valign="top" width="378">
-<p>Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.</p>
+<p>Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 522-2 </p>
+<p>R. * 522-2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 <td valign="top" width="378">
-<p>Fixation du pays de renvoi d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.</p>
+<p>Fixation du pays de renvoi d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 523-2 </p>
+<p>R. * 523-2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">7</p>
+<p align="center">7 </p>
 </td>
 <td valign="top" width="378">
-<p>Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue.</p>
+<p>Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion en application des articles L. 521-2 ou L. 521-3 ainsi qu'en cas d'urgence absolue. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 523-5 </p>
+<p>R. * 523-5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">8</p>
+<p align="center">8 </p>
 </td>
 <td valign="top" width="378">
-<p>Remise aux autorités d'un Etat membre de l'Union européenne d'un demandeur d'asile se présentant à la frontière.</p>
+<p>Remise aux autorités d'un Etat membre de l'Union européenne d'un demandeur d'asile se présentant à la frontière. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 531-2 </p>
+<p>R. * 531-2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">9</p>
+<p align="center">9 </p>
 </td>
 <td valign="top" width="378">
-<p>Assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire.</p>
+<p>Assignation à résidence d'un étranger faisant l'objet de la peine d'interdiction du territoire. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 541-1 </p>
+<p>R. * 541-1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">10</p>
+<p align="center">10 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision prononçant l'amende prévue à l'article L. 625-2.</p>
+<p>Décision prononçant l'amende prévue à l'article L. 625-2. </p>
 </td>
 <td valign="top" width="151">
-<p>R.* 625-2 </p>
+<p>R. * 625-2 </p>
 </td>
 </tr>
 </tbody>
@@ -367,21 +385,21 @@ Décret n° 59-1489 du 22 décembre 1959 portant réglementation des jeux dans l
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément du modèle des appareils et matériels employés pour les jeux et du modèle de la machine automatique utilisée pour le prélèvement opéré au profit de la cagnotte.</p>
+<p>Agrément du modèle des appareils et matériels employés pour les jeux et du modèle de la machine automatique utilisée pour le prélèvement opéré au profit de la cagnotte. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 6 et 3e alinéa de l'article 16. </p>
+<p>Article 6 et 3e alinéa de l'article 16.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Etablissement de la liste des personnes exclues des salles de jeux.</p>
+<p>Etablissement de la liste des personnes exclues des salles de jeux. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 14. </p>
@@ -396,21 +414,21 @@ Arrêté du 23 décembre 1959 modifié relatif à la réglementation des jeux da
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Accord pour la cession de certains matériels de jeux après le départ d'un directeur responsable.</p>
+<p>Accord pour la cession de certains matériels de jeux après le départ d'un directeur responsable. </p>
 </td>
 <td valign="top" width="151">
-<p>Dernier alinéa de l'article 13. </p>
+<p>Dernier alinéa de l'article 13.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision d'interdire aux personnes ayant des intérêts dans le casino de prendre part aux jeux, sous peine d'exclusion.</p>
+<p>Décision d'interdire aux personnes ayant des intérêts dans le casino de prendre part aux jeux, sous peine d'exclusion. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 19.</p>
@@ -418,10 +436,10 @@ Arrêté du 23 décembre 1959 modifié relatif à la réglementation des jeux da
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Fixation du nombre de sixains (cartes à jouer). Agrément des fabricants de sixains.</p>
+<p>Fixation du nombre de sixains (cartes à jouer). Agrément des fabricants de sixains. </p>
 </td>
 <td valign="top" width="151">
 <p>1er alinéa de l'article 40 et 4e alinéa de l'article 10.</p>
@@ -429,22 +447,22 @@ Arrêté du 23 décembre 1959 modifié relatif à la réglementation des jeux da
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td valign="top" width="378">
-<p>Fixation du nombre de paires de dès (pour le craps). Agrément des fabricants de dés (pour le craps).</p>
+<p>Fixation du nombre de paires de dès (pour le craps). Agrément des fabricants de dés (pour le craps). </p>
 </td>
 <td valign="top" width="151">
-<p>3e alinéa de l'article 57-6.</p>
+<p>3e alinéa de l'article 57-6. </p>
 <p>4e alinéa de l'article 57-6.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des modèles de sabot.</p>
+<p>Agrément des modèles de sabot. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 57-13 (et article 60). </p>
@@ -452,10 +470,10 @@ Arrêté du 23 décembre 1959 modifié relatif à la réglementation des jeux da
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément d'un système de convoyage.</p>
+<p>Agrément d'un système de convoyage. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 69-13. </p>
@@ -470,87 +488,87 @@ Instruction ministérielle du 15 juillet 1947 sur la réglementation des jeux da
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Cercles ouverts. - Approbation du contrat de jeux intervenu entre le conseil d'administration et le directeur des jeux.</p>
+<p>Cercles ouverts.-Approbation du contrat de jeux intervenu entre le conseil d'administration et le directeur des jeux. </p>
 </td>
 <td valign="top" width="151">
-<p>Alinéa 2 de l'article 4. </p>
+<p>Alinéa 2 de l'article 4.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Approbation des mutations intervenues dans les cercles.</p>
+<p>Approbation des mutations intervenues dans les cercles. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 12. </p>
+<p>Article 12.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Demande de remplacement ou de désignation d'un membre du comité des jeux.</p>
+<p>Demande de remplacement ou de désignation d'un membre du comité des jeux. </p>
 </td>
 <td valign="top" width="151">
-<p>2e alinéa de l'article 17. </p>
+<p>2e alinéa de l'article 17.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des employés de jeux.</p>
+<p>Agrément des employés de jeux. </p>
 </td>
 <td valign="top" width="151">
-<p>1er alinéa de l'article 21. </p>
+<p>1er alinéa de l'article 21.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 <td valign="top" width="378">
-<p>Demande de renvoi des employés de jeux.</p>
+<p>Demande de renvoi des employés de jeux. </p>
 </td>
 <td valign="top" width="151">
-<p>1er alinéa de l'article 23. </p>
+<p>1er alinéa de l'article 23.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 <td valign="top" width="378">
-<p>Exclusion des jeux.</p>
+<p>Exclusion des jeux. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 38. </p>
+<p>Article 38.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">7</p>
+<p align="center">7 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des fabricants de cartes à jouer.</p>
+<p>Agrément des fabricants de cartes à jouer. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 45. </p>
+<p>Article 45.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">8</p>
+<p align="center">8 </p>
 </td>
 <td valign="top" width="378">
-<p>Baccara chemin de fer : agrément du modèle de sabot et de panier.</p>
+<p>Baccara chemin de fer : agrément du modèle de sabot et de panier. </p>
 </td>
 <td valign="top" width="151">
 <p>4e alinéa de l'article 47. </p>
@@ -567,10 +585,10 @@ Décret impérial du 30 décembre 1809 modifié concernant les fabriques des ég
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Révocation d'un conseil de fabrique d'église.</p>
+<p>Révocation d'un conseil de fabrique d'église. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 8-1. </p>
@@ -585,21 +603,21 @@ Ordonnance royale du 25 mai 1844 portant règlement pour l'organisation du culte
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Révocation d'un membre laïque du consistoire israélite.</p>
+<p>Révocation d'un membre laïque du consistoire israélite. </p>
 </td>
 <td valign="top" width="151">
-<p>2e alinéa de l'article 11. </p>
+<p>2e alinéa de l'article 11.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Dissolution d'un consistoire israélite.</p>
+<p>Dissolution d'un consistoire israélite. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 23. </p>
@@ -614,13 +632,13 @@ Décret du 26 mars 1852 modifié portant réorganisation des cultes protestants
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Dispense pour l'élection au conseil presbytéral des paroisses de moins de 60 électeurs.</p>
+<p>Dispense pour l'élection au conseil presbytéral des paroisses de moins de 60 électeurs. </p>
 </td>
 <td valign="top" width="151">
-<p>Dernier alinéa de l'article 1-2</p>
+<p>Dernier alinéa de l'article 1-2 </p>
 </td>
 </tr>
 </tbody>
@@ -632,10 +650,10 @@ Décret du 19 mars 1859 sur les cultes non reconnus
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Suspension provisoire des autorisations pour l'exercice public d'un culte non reconnu.</p>
+<p>Suspension provisoire des autorisations pour l'exercice public d'un culte non reconnu. </p>
 </td>
 <td valign="top" width="151">
 <p>2e alinéa de l'article 4. </p>
@@ -650,13 +668,13 @@ Arrêté du 10 septembre 1852 portant règlement pour la formation des conseils 
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Admission de pasteurs auxiliaires et suffragants, d'aumôniers des lycées ou collèges, d'hospices et prisons aux séances du conseil presbytéral et du consistoire avec voix consultative.</p>
+<p>Admission de pasteurs auxiliaires et suffragants, d'aumôniers des lycées ou collèges, d'hospices et prisons aux séances du conseil presbytéral et du consistoire avec voix consultative. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 5.</p>
+<p>Article 5. </p>
 </td>
 </tr>
 </tbody>
@@ -668,10 +686,10 @@ Arrêté du 3 mai 1922 portant règlement pour l'obtention de l'aptitude aux fon
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Nomination des membres de la commission pour l'examen pro ministerio.</p>
+<p>Nomination des membres de la commission pour l'examen pro ministerio. </p>
 </td>
 <td valign="top" width="151">
 <p>2e alinéa de l'article 5. </p>
@@ -688,10 +706,10 @@ Code des communes
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des modèles de bracelets plombés.</p>
+<p>Agrément des modèles de bracelets plombés. </p>
 </td>
 <td valign="top" width="151">
 <p>2e alinéa de l'article R. 364-2. </p>
@@ -708,25 +726,25 @@ Code de la construction et de l'habitation
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
 <p>Détermination de la compétence des laboratoires chargés de procéder aux essais en vue du classement des matériaux en réaction et résistance au feu des matériaux. </p>
 </td>
 <td valign="top" width="151">
-<p>Article R. 121-5. </p>
+<p>Article R. 121-5.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Homologation de classement par rapport au danger d'incendie d'un matériau ou d'un élément de construction et retrait de cette homologation.</p>
+<p>Homologation de classement par rapport au danger d'incendie d'un matériau ou d'un élément de construction et retrait de cette homologation. </p>
 </td>
 <td valign="top" width="151">
-<p>Article R. 121-7.</p>
-<p>Article R. 121-10.</p>
+<p>Article R. 121-7. </p>
+<p>Article R. 121-10. </p>
 </td>
 </tr>
 </tbody>
@@ -738,13 +756,13 @@ Arrêté du 15 juillet 1968 relatif aux conditions d'agrément pour les contrôl
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les immeubles de grande hauteur.</p>
+<p>Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les immeubles de grande hauteur. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 1er.</p>
+<p>Article 1er. </p>
 </td>
 </tr>
 </tbody>
@@ -756,10 +774,10 @@ Arrêté du 7 novembre 1990 relatif aux conditions d'agrément pour les vérific
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les établissements recevant du public.</p>
+<p>Agrément des personnes et organismes chargés d'assurer les vérifications réglementaires dans les établissements recevant du public. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 1er. </p>
@@ -776,10 +794,10 @@ Loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la R
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses électorales des candidats à l'élection du Président de la République.</p>
+<p>Remboursement des dépenses électorales des candidats à l'élection du Président de la République. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 3-V. </p>
@@ -794,10 +812,10 @@ Décret n° 64-231 du 14 mars 1964 relatif à l'élection du Président de la R�
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des frais d'impression de la propagande officielle des candidats à l'élection du Président de la République.</p>
+<p>Remboursement des frais d'impression de la propagande officielle des candidats à l'élection du Président de la République. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 17. </p>
@@ -812,24 +830,24 @@ Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au P
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses électorales des candidats à l'élection des représentants au Parlement européen.</p>
+<p>Remboursement des dépenses électorales des candidats à l'élection des représentants au Parlement européen. </p>
 </td>
 <td valign="top" width="151">
-<p>Articles 2 et 19-1 de la loi et article L. 52-11-1 du code électoral.</p>
+<p>Articles 2 et 19-1 de la loi et article L. 52-11-1 du code électoral. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des frais d'impression de la propagande officielle des candidats à l'élection des représentants au Parlement européen.</p>
+<p>Remboursement des frais d'impression de la propagande officielle des candidats à l'élection des représentants au Parlement européen. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 18.</p>
+<p>Article 18. </p>
 </td>
 </tr>
 </tbody>
@@ -843,13 +861,13 @@ Décret n° 64-231 du 14 mars 1964 relatif à l'élection du Président de la R�
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection du Président de la République.</p>
+<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection du Président de la République. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 12.</p>
+<p>Article 12. </p>
 </td>
 </tr>
 </tbody>
@@ -861,10 +879,10 @@ Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au P
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection des représentants au Parlement européen.</p>
+<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'élection des représentants au Parlement européen. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 19. </p>
@@ -879,21 +897,21 @@ Code électoral
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux élections législatives.</p>
+<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux élections législatives. </p>
 </td>
 <td valign="top" width="151">
-<p>Article L. 167-1. </p>
+<p>Article L. 167-1.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'Assemblée de Corse.</p>
+<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats à l'Assemblée de Corse. </p>
 </td>
 <td valign="top" width="151">
 <p>Article L. 375. </p>
@@ -908,10 +926,10 @@ Loi n° 88-1028 du 9 novembre 1988 portant dispositions statutaires et préparat
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux assemblées provinciales en Nouvelle-Calédonie.</p>
+<p>Remboursement des dépenses de propagande officielle radiotélévisée des candidats aux assemblées provinciales en Nouvelle-Calédonie. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 76. </p>
@@ -928,21 +946,21 @@ Décret du 10 octobre 1859 relatif aux attributions du préfet de la Seine
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Autorisation du ministre compétent de poursuivre l'exécution de travaux gênants pour la circulation en dépit de l'opposition du préfet de police.</p>
+<p>Autorisation du ministre compétent de poursuivre l'exécution de travaux gênants pour la circulation en dépit de l'opposition du préfet de police. </p>
 </td>
 <td valign="top" width="151">
-<p>3e alinéa de l'article 2. </p>
+<p>3e alinéa de l'article 2.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision du ministre de passer outre en cas d'opposition du préfet de police à la demande d'avis formulée par le préfet de Paris concernant la concession d'emplacement d'échoppe ou d'étalage fixe ou mobile, de lieu de stationnement de voiture sur la voie publique ou la délivrance d'autorisation concernant les établissements sur la rivière, les canaux ou leurs dépendances.</p>
+<p>Décision du ministre de passer outre en cas d'opposition du préfet de police à la demande d'avis formulée par le préfet de Paris concernant la concession d'emplacement d'échoppe ou d'étalage fixe ou mobile, de lieu de stationnement de voiture sur la voie publique ou la délivrance d'autorisation concernant les établissements sur la rivière, les canaux ou leurs dépendances. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 3. </p>
@@ -957,10 +975,10 @@ Décret n° 66-388 du 13 juin 1966 modifié relatif à la tutelle administrative
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Autorisation de libéralités au profit d'Etats ou d'établissements étrangers.</p>
+<p>Autorisation de libéralités au profit d'Etats ou d'établissements étrangers. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 3. </p>
@@ -975,10 +993,10 @@ Décret du 18 octobre 1978 modifiant le décret n° 73-364 du 12 mars 1973 relat
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Port d'armes temporaire et permanent.</p>
+<p>Port d'armes temporaire et permanent. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 1er. </p>
@@ -993,10 +1011,10 @@ Arrêté du 1er décembre 1944 relatif aux passeports de service
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Délivrance des passeports de service.</p>
+<p>Délivrance des passeports de service. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 2. </p>
@@ -1011,10 +1029,10 @@ Code des marchés publics
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Décision d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics.</p>
+<p>Décision d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5°, 6° de l'article 50 du code des marchés publics. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 42. </p>
@@ -1029,10 +1047,10 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.</p>
+<p>Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité. </p>
 </td>
 <td valign="top" width="151">
 <p>Article 8.</p>
@@ -1044,31 +1062,31 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Décisions amiables à caractère financier résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité de l'administration centrale.</p>
+<p>Décisions amiables à caractère financier résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité de l'administration centrale. </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
 <p>Décisions à caractère financier résultant de l'application des décisions :</p>
-<p>- des cours administratives d'appel ;</p>
-<p>- du Conseil d'Etat ;</p>
-<p>- d'un tribunal administratif en tant qu'elles se rapportent à l'activité de l'administration centrale.</p>
+<p>-des cours administratives d'appel ;</p>
+<p>-du Conseil d'Etat ;</p>
+<p>-d'un tribunal administratif en tant qu'elles se rapportent à l'activité de l'administration centrale. </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire du Trésor ou le ministre des affaires étrangères représentait l'Etat en défense.</p>
+<p>Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire du Trésor ou le ministre des affaires étrangères représentait l'Etat en défense. </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
