@@ -154,7 +154,6 @@
 - [Arrêté du 5 janvier 2007 (DEFM0700079A)](arrete-du-5-janvier-2007-defm0700079a)
 - [Arrêté du 5 janvier 2007 (ECOP0700016A)](arrete-du-5-janvier-2007-ecop0700016a)
 - [Arrêté du 5 janvier 2007 (INTB0600994A)](arrete-du-5-janvier-2007-intb0600994a)
-- [Arrêté du 5 janvier 2007 (JUSK0640259A)](arrete-du-5-janvier-2007-jusk0640259a)
 - [Arrêté du 5 janvier 2007 (MENS0603204A)](arrete-du-5-janvier-2007-mens0603204a)
 - [Arrêté du 5 janvier 2007 (MENS0603252A)](arrete-du-5-janvier-2007-mens0603252a)
 - [Arrêté du 5 janvier 2007 (SANH0720114A)](arrete-du-5-janvier-2007-sanh0720114a)
