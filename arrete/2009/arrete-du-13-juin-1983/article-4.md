@@ -1,3 +1,0 @@
-# Article 4
-
-Chaque comité technique paritaire départemental est composé de dix membres titulaires et dix membres suppléants représentant l'administration, nommés par arrêté de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ; et de dix membres titulaires et dix membres suppléants représentant les personnels et nommés par arrêté de l'inspecteur d'académie sur proposition des organisations syndicales de fonctionnaires remplissant les conditions exigées aux articles L. 2131-3 et L. 2133-2 du code du travail et regardées comme représentatives des personnels exerçant leurs fonctions dans les services et établissements visés à l'article précédent au moment où se fait la désignation.
