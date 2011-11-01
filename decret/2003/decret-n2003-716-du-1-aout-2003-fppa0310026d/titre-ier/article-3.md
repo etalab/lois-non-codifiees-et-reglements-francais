@@ -6,6 +6,6 @@ Ces conventions établissent notamment la liste des emplois transférés, y comp
 
 Elles précisent également la consistance des biens mis à la disposition de la collectivité territoriale en application de l'article L. 4422-44 du code général des collectivités territoriales.
 
-Les comités techniques paritaires compétents sont consultés sur les projets de convention. Les conventions sont approuvées par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre intéressé.
+Les  comités techniques compétents sont consultés sur les projets de convention. Les conventions sont approuvées par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre intéressé.
 
 A défaut de conclusion des conventions prévues au premier alinéa, dans les délais impartis, le transfert des services est constaté par arrêté conjoint du ministre de l'intérieur, de la sécurité intérieure et des libertés locales et du ministre intéressé.

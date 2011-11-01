@@ -30,4 +30,4 @@ IV. ― Pour cinq nominations prononcées en catégorie 3 au titre du présent a
 
 Les nominations sont prononcées par la directrice générale, sur proposition des commissions de requalification créées à cet effet et après avis du conseil scientifique pour les agents relevant de la filière scientifique et technique.
 
-Les critères de requalification, les modalités de composition du dossier de sélection ainsi que la composition et les modalités de fonctionnement des commissions de requalification sont fixés par décision du directeur général, après avis du comité technique paritaire de l'Institut national de recherches archéologiques préventives.
+Les critères de requalification, les modalités de composition du dossier de sélection ainsi que la composition et les modalités de fonctionnement des commissions de requalification sont fixés par décision du directeur général, après avis du  comité technique de l'Institut national de recherches archéologiques préventives.

@@ -4,9 +4,7 @@ CONCOURS EXTERNES
 
 ÉPREUVE ÉCRITE DE PRÉADMISSIBILITÉ
 
-(Branche du contrôle des opérations commerciales et de l'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et de l'administration générale et branche de la surveillance)
 
 I. ― Connaissances générales
 
@@ -98,15 +96,13 @@ Problèmes du premier degré à une ou deux inconnues.
 
 IV. ― Raisonnement logique
 
-Les questions consistent, selon un ordre logique à déterminer, à compléter des ensembles d'objets mathématiques et/ou alphabétiques, présentés linéairement ou à partir de graphes et de tableaux, et à constituer des ensembles homogènes de figures géométriques ou de symboles et représentations diverses.
+Les questions consistent, selon un ordre logique à déterminer, à compléter des ensembles d'objets mathématiques et/ ou alphabétiques, présentés linéairement ou à partir de graphes et de tableaux, et à constituer des ensembles homogènes de figures géométriques ou de symboles et représentations diverses.
 
 ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
 Option mathématiques
 
-(Branche du contrôle des opérations commerciales
-
-et d'administration générale et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Fonctions numériques
 
@@ -130,11 +126,11 @@ x
 
 et de :
 
-ln(x)
+ln (x)
 
 x
 
-limite en 0 de xln(x).
+limite en 0 de xln (x).
 
 (v) Dérivation de la composée de deux fonctions.
 
@@ -182,7 +178,7 @@ V. ― Suites
 
 (i) Suites monotones, majorées, minorées, bornées, convergentes.
 
-(ii) Suites arithmétiques, suites géométriques, suites vérifiant une relation de récurrence du type : un-+ 1= au b, ou un + 2= aun+1 + b un
+(ii) Suites arithmétiques, suites géométriques, suites vérifiant une relation de récurrence du type : un-+ 1 = au b, ou un + 2 = aun + 1 + b un
 
 VI. ― Géométrie dans l'espace
 
@@ -192,9 +188,7 @@ VI. ― Géométrie dans l'espace
 
 Option comptabilité privée
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -260,9 +254,7 @@ Le bilan et le compte de résultats prévisionnels.
 
 Option économie
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -398,15 +390,11 @@ Le contrat de travail :
 
 Rôle du conseil des prud'hommes.
 
-D. ― Les dispositions législatives et réglementaires
-
-en matière de salaire et de durée du travail
+D. ― Les dispositions législatives et réglementaires en matière de salaire et de durée du travail
 
 Option géographie économique
 
-(Branche du contrôle des opérations commerciales
-
-et d'administration générale et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― L'Europe des Etats
 
@@ -554,9 +542,7 @@ V. ― Commandement
 
 Les fonctions, prérogatives et devoirs des commandants et des différents membres d'équipage.
 
-ÉPREUVE D'ADMISSION N° 3 DU CONCOURS EXTERNE
-
-DE LA BRANCHE DE LA SURVEILLANCE
+ÉPREUVE D'ADMISSION N° 3 DU CONCOURS EXTERNE DE LA BRANCHE DE LA SURVEILLANCE
 
 Epreuve d'exercices physiques
 
@@ -589,213 +575,213 @@ Candidats masculins :
 <table>
 <tbody>
 <tr>
-<th>NOTE OBTENUE<br/>
+<th>NOTE OBTENUE <br/>
 </th>
-<th>100 MÈTRES<br/>
+<th>100 MÈTRES <br/>
 </th>
-<th>1 000 MÈTRES<br/>
+<th>1 000 MÈTRES <br/>
 </th>
-<th>SAUT EN HAUTEUR<br/>(en mètres)<br/>
+<th>SAUT EN HAUTEUR <br/>(en mètres) <br/>
 </th>
 </tr>
 <tr>
-<td align="center">20<br/>
+<td align="center">20 <br/>
 </td>
-<td align="center">12 s 2<br/>
+<td align="center">12 s 2 <br/>
 </td>
-<td align="center">3 min 7 s<br/>
+<td align="center">3 min 7 s <br/>
 </td>
-<td align="center">1,65<br/>
-</td>
-</tr>
-<tr>
-<td align="center">19<br/>
-</td>
-<td align="center">12 s 4<br/>
-</td>
-<td align="center">3 min 11 s<br/>
-</td>
-<td align="center">1,61<br/>
+<td align="center">1,65 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18<br/>
+<td align="center">19 <br/>
 </td>
-<td align="center">12 s 6<br/>
+<td align="center">12 s 4 <br/>
 </td>
-<td align="center">3 min 15 s<br/>
+<td align="center">3 min 11 s <br/>
 </td>
-<td align="center">1,57<br/>
-</td>
-</tr>
-<tr>
-<td align="center">17<br/>
-</td>
-<td align="center">12 s 8<br/>
-</td>
-<td align="center">3 min 19 s<br/>
-</td>
-<td align="center">1,53<br/>
+<td align="center">1,61 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">16<br/>
+<td align="center">18 <br/>
 </td>
-<td align="center">13 s<br/>
+<td align="center">12 s 6 <br/>
 </td>
-<td align="center">3 min 23 s<br/>
+<td align="center">3 min 15 s <br/>
 </td>
-<td align="center">1,49<br/>
+<td align="center">1,57 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">15<br/>
+<td align="center">17 <br/>
 </td>
-<td align="center">13 s 2<br/>
+<td align="center">12 s 8 <br/>
+</td>
+<td align="center">3 min 19 s <br/>
+</td>
+<td align="center">1,53 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">16 <br/>
+</td>
+<td align="center">13 s <br/>
+</td>
+<td align="center">3 min 23 s <br/>
+</td>
+<td align="center">1,49 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">15 <br/>
+</td>
+<td align="center">13 s 2 <br/>
 </td>
 <td align="center">3 min 27 s <br/>
 </td>
-<td align="center">1,45<br/>
+<td align="center">1,45 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14<br/>
+<td align="center">14 <br/>
 </td>
-<td align="center">13 s 4<br/>
+<td align="center">13 s 4 <br/>
 </td>
-<td align="center">3 min 33 s<br/>
+<td align="center">3 min 33 s <br/>
 </td>
-<td align="center">1,4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">13<br/>
-</td>
-<td align="center">13 s 6<br/>
-</td>
-<td align="center">3 min 39 s<br/>
-</td>
-<td align="center">1,35<br/>
+<td align="center">1,4 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">12<br/>
+<td align="center">13 <br/>
 </td>
-<td align="center">13 s 8<br/>
+<td align="center">13 s 6 <br/>
 </td>
-<td align="center">3 min 45 s<br/>
+<td align="center">3 min 39 s <br/>
 </td>
-<td align="center">1,3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">11<br/>
-</td>
-<td align="center">14 s 1<br/>
-</td>
-<td align="center">3 min 53 s<br/>
-</td>
-<td align="center">1,25<br/>
+<td align="center">1,35 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">10<br/>
+<td align="center">12 <br/>
 </td>
-<td align="center">14 s 4<br/>
+<td align="center">13 s 8 <br/>
 </td>
-<td align="center">3 min 59 s<br/>
+<td align="center">3 min 45 s <br/>
 </td>
-<td align="center">1,2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">9<br/>
-</td>
-<td align="center">14 s 7<br/>
-</td>
-<td align="center">4 min 07 s<br/>
-</td>
-<td align="center">1,17<br/>
+<td align="center">1,3 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">8<br/>
+<td align="center">11 <br/>
 </td>
-<td align="center">15 s<br/>
+<td align="center">14 s 1 <br/>
 </td>
-<td align="center">4 min 15 s<br/>
+<td align="center">3 min 53 s <br/>
 </td>
-<td align="center">1,13<br/>
-</td>
-</tr>
-<tr>
-<td align="center">7<br/>
-</td>
-<td align="center">15 s 3<br/>
-</td>
-<td align="center">4 min 23 s<br/>
-</td>
-<td align="center">1,1<br/>
+<td align="center">1,25 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6<br/>
+<td align="center">10 <br/>
 </td>
-<td align="center">15 s 6<br/>
+<td align="center">14 s 4 <br/>
 </td>
-<td align="center">4 min 31 s<br/>
+<td align="center">3 min 59 s <br/>
 </td>
-<td align="center">1,05<br/>
-</td>
-</tr>
-<tr>
-<td align="center">5<br/>
-</td>
-<td align="center">15 s 9<br/>
-</td>
-<td align="center">4 min 39 s<br/>
-</td>
-<td align="center">1<br/>
+<td align="center">1,2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">9 <br/>
 </td>
-<td align="center">16 s 2<br/>
+<td align="center">14 s 7 <br/>
 </td>
-<td align="center">4 min 49 s<br/>
+<td align="center">4 min 07 s <br/>
 </td>
-<td align="center">0,95<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3<br/>
-</td>
-<td align="center">16 s 5<br/>
-</td>
-<td align="center">4 min 59 s<br/>
-</td>
-<td align="center">0,9<br/>
+<td align="center">1,17 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2<br/>
+<td align="center">8 <br/>
 </td>
-<td align="center">16 s 8<br/>
+<td align="center">15 s <br/>
 </td>
-<td align="center">5 min 09 s<br/>
+<td align="center">4 min 15 s <br/>
 </td>
-<td align="center">0,85<br/>
+<td align="center">1,13 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">7 <br/>
 </td>
-<td align="center">17 s 1<br/>
+<td align="center">15 s 3 <br/>
 </td>
-<td align="center">5 min 24 s<br/>
+<td align="center">4 min 23 s <br/>
 </td>
-<td align="center">0,8<br/>
+<td align="center">1,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">6 <br/>
+</td>
+<td align="center">15 s 6 <br/>
+</td>
+<td align="center">4 min 31 s <br/>
+</td>
+<td align="center">1,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">5 <br/>
+</td>
+<td align="center">15 s 9 <br/>
+</td>
+<td align="center">4 min 39 s <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">16 s 2 <br/>
+</td>
+<td align="center">4 min 49 s <br/>
+</td>
+<td align="center">0,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">3 <br/>
+</td>
+<td align="center">16 s 5 <br/>
+</td>
+<td align="center">4 min 59 s <br/>
+</td>
+<td align="center">0,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 <br/>
+</td>
+<td align="center">16 s 8 <br/>
+</td>
+<td align="center">5 min 09 s <br/>
+</td>
+<td align="center">0,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 <br/>
+</td>
+<td align="center">17 s 1 <br/>
+</td>
+<td align="center">5 min 24 s <br/>
+</td>
+<td align="center">0,8 <br/>
 </td>
 </tr>
 </tbody>
@@ -810,213 +796,213 @@ Candidates féminines :
 <table>
 <tbody>
 <tr>
-<th>NOTE OBTENUE<br/>
+<th>NOTE OBTENUE <br/>
 </th>
-<th>60 MÈTRES<br/>
+<th>60 MÈTRES <br/>
 </th>
-<th>300 MÈTRES<br/>
+<th>300 MÈTRES <br/>
 </th>
-<th>SAUT EN HAUTEUR<br/>(en mètres)<br/>
+<th>SAUT EN HAUTEUR <br/>(en mètres) <br/>
 </th>
 </tr>
 <tr>
-<td align="center">20<br/>
+<td align="center">20 <br/>
 </td>
-<td align="center">9 s 1<br/>
+<td align="center">9 s 1 <br/>
 </td>
-<td align="center">52 s<br/>
+<td align="center">52 s <br/>
 </td>
-<td align="center">1,27<br/>
-</td>
-</tr>
-<tr>
-<td align="center">19<br/>
-</td>
-<td align="center">9 s 2<br/>
-</td>
-<td align="center">53 s<br/>
-</td>
-<td align="center">1,25<br/>
+<td align="center">1,27 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18<br/>
+<td align="center">19 <br/>
 </td>
-<td align="center">9 s 3<br/>
+<td align="center">9 s 2 <br/>
 </td>
-<td align="center">54 s<br/>
+<td align="center">53 s <br/>
 </td>
-<td align="center">1,23<br/>
-</td>
-</tr>
-<tr>
-<td align="center">17<br/>
-</td>
-<td align="center">9 s 5<br/>
-</td>
-<td align="center">55 s<br/>
-</td>
-<td align="center">1,21<br/>
+<td align="center">1,25 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">16<br/>
+<td align="center">18 <br/>
 </td>
-<td align="center">9 s 7<br/>
+<td align="center">9 s 3 <br/>
 </td>
-<td align="center">56 s<br/>
+<td align="center">54 s <br/>
 </td>
-<td align="center">1,19<br/>
-</td>
-</tr>
-<tr>
-<td align="center">15<br/>
-</td>
-<td align="center">9 s 9<br/>
-</td>
-<td align="center">57 s<br/>
-</td>
-<td align="center">1,17<br/>
+<td align="center">1,23 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14<br/>
+<td align="center">17 <br/>
 </td>
-<td align="center">10 s 1<br/>
+<td align="center">9 s 5 <br/>
 </td>
-<td align="center">59 s<br/>
+<td align="center">55 s <br/>
 </td>
-<td align="center">1,14<br/>
-</td>
-</tr>
-<tr>
-<td align="center">13<br/>
-</td>
-<td align="center">10 s 3<br/>
-</td>
-<td align="center">1 min 01 s<br/>
-</td>
-<td align="center">1,11<br/>
+<td align="center">1,21 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">12<br/>
+<td align="center">16 <br/>
 </td>
-<td align="center">10 s 5<br/>
+<td align="center">9 s 7 <br/>
 </td>
-<td align="center">1 min 03 s<br/>
+<td align="center">56 s <br/>
 </td>
-<td align="center">1,08<br/>
-</td>
-</tr>
-<tr>
-<td align="center">11<br/>
-</td>
-<td align="center">10 s 7<br/>
-</td>
-<td align="center">1 min 05 s<br/>
-</td>
-<td align="center">1,05<br/>
+<td align="center">1,19 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">10<br/>
+<td align="center">15 <br/>
 </td>
-<td align="center">10 s 9<br/>
+<td align="center">9 s 9 <br/>
 </td>
-<td align="center">1 min 07 s<br/>
+<td align="center">57 s <br/>
 </td>
-<td align="center">1,02<br/>
-</td>
-</tr>
-<tr>
-<td align="center">9<br/>
-</td>
-<td align="center">11 s 1<br/>
-</td>
-<td align="center">1 min 09 s<br/>
-</td>
-<td align="center">0,99<br/>
+<td align="center">1,17 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">8<br/>
+<td align="center">14 <br/>
 </td>
-<td align="center">11 s 3<br/>
+<td align="center">10 s 1 <br/>
 </td>
-<td align="center">1 min 11 s<br/>
+<td align="center">59 s <br/>
 </td>
-<td align="center">0,95<br/>
-</td>
-</tr>
-<tr>
-<td align="center">7<br/>
-</td>
-<td align="center">11 s 5<br/>
-</td>
-<td align="center">1 min 13 s<br/>
-</td>
-<td align="center">0,91<br/>
+<td align="center">1,14 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6<br/>
+<td align="center">13 <br/>
 </td>
-<td align="center">11 s 7<br/>
+<td align="center">10 s 3 <br/>
 </td>
-<td align="center">1 min 15 s<br/>
+<td align="center">1 min 01 s <br/>
 </td>
-<td align="center">0,87<br/>
-</td>
-</tr>
-<tr>
-<td align="center">5<br/>
-</td>
-<td align="center">11 s 9<br/>
-</td>
-<td align="center">1 min 18 s<br/>
-</td>
-<td align="center">0,83<br/>
+<td align="center">1,11 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">12 <br/>
 </td>
-<td align="center">12 s 1<br/>
+<td align="center">10 s 5 <br/>
 </td>
-<td align="center">1 min 21 s<br/>
+<td align="center">1 min 03 s <br/>
 </td>
-<td align="center">0,79<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3<br/>
-</td>
-<td align="center">12 s 3<br/>
-</td>
-<td align="center">1 min 24 s<br/>
-</td>
-<td align="center">0,75<br/>
+<td align="center">1,08 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2<br/>
+<td align="center">11 <br/>
 </td>
-<td align="center">12 s 6<br/>
+<td align="center">10 s 7 <br/>
 </td>
-<td align="center">1 min 27 s<br/>
+<td align="center">1 min 05 s <br/>
 </td>
-<td align="center">0,71<br/>
+<td align="center">1,05 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">10 <br/>
 </td>
-<td align="center">12 s 9<br/>
+<td align="center">10 s 9 <br/>
 </td>
-<td align="center">1 min 30 s<br/>
+<td align="center">1 min 07 s <br/>
 </td>
-<td align="center">0,67<br/>
+<td align="center">1,02 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">9 <br/>
+</td>
+<td align="center">11 s 1 <br/>
+</td>
+<td align="center">1 min 09 s <br/>
+</td>
+<td align="center">0,99 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">8 <br/>
+</td>
+<td align="center">11 s 3 <br/>
+</td>
+<td align="center">1 min 11 s <br/>
+</td>
+<td align="center">0,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">7 <br/>
+</td>
+<td align="center">11 s 5 <br/>
+</td>
+<td align="center">1 min 13 s <br/>
+</td>
+<td align="center">0,91 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">6 <br/>
+</td>
+<td align="center">11 s 7 <br/>
+</td>
+<td align="center">1 min 15 s <br/>
+</td>
+<td align="center">0,87 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">5 <br/>
+</td>
+<td align="center">11 s 9 <br/>
+</td>
+<td align="center">1 min 18 s <br/>
+</td>
+<td align="center">0,83 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">12 s 1 <br/>
+</td>
+<td align="center">1 min 21 s <br/>
+</td>
+<td align="center">0,79 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">3 <br/>
+</td>
+<td align="center">12 s 3 <br/>
+</td>
+<td align="center">1 min 24 s <br/>
+</td>
+<td align="center">0,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 <br/>
+</td>
+<td align="center">12 s 6 <br/>
+</td>
+<td align="center">1 min 27 s <br/>
+</td>
+<td align="center">0,71 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 <br/>
+</td>
+<td align="center">12 s 9 <br/>
+</td>
+<td align="center">1 min 30 s <br/>
+</td>
+<td align="center">0,67 <br/>
 </td>
 </tr>
 </tbody>
@@ -1031,53 +1017,53 @@ Conditions de déroulement de l'épreuve :
 <table>
 <tbody>
 <tr>
-<th>ÉPREUVE<br/>
+<th>ÉPREUVE <br/>
 </th>
-<th>HOMMES<br/>
+<th>HOMMES <br/>
 </th>
-<th>FEMMES<br/>
+<th>FEMMES <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Course<br/>
+<td align="center">Course <br/>
 </td>
-<td align="center">100 m<br/>
+<td align="center">100 m <br/>
 </td>
-<td align="center">60 m<br/>
+<td align="center">60 m <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Un seul essai, course individuelle<br/>
+<td align="center">Un seul essai, course individuelle <br/>
 </td>
-<td align="center">Un seul essai, course individuelle<br/>
+<td align="center">Un seul essai, course individuelle <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Course<br/>
+<td align="center">Course <br/>
 </td>
-<td align="center">1 000 m<br/>
+<td align="center">1 000 m <br/>
 </td>
-<td align="center">300 m<br/>
+<td align="center">300 m <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif<br/>
+<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif <br/>
 </td>
-<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif<br/>
+<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Saut en hauteur<br/>
+<td align="center">Saut en hauteur <br/>
 </td>
-<td align="center">Trois essais à chaque hauteur<br/>
+<td align="center">Trois essais à chaque hauteur <br/>
 </td>
-<td align="center">Trois essais à chaque hauteur<br/>
+<td align="center">Trois essais à chaque hauteur <br/>
 </td>
 </tr>
 </tbody>
@@ -1087,15 +1073,11 @@ Conditions de déroulement de l'épreuve :
 
 Toute performance qui se traduirait par une fraction de note serait appréciée à la note inférieure.
 
-CONCOURS INTERNES
-
-ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
+CONCOURS INTERNES ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
 Option missions, organisation et la réglementation douanières
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Les missions de l'administration des douanes et droits indirects
 
@@ -1145,9 +1127,7 @@ Les infractions : constatation, qualification et mise en œuvre de la sanction
 
 Les personnes responsables
 
-VI. ― Contributions indirectes : législation, réglementation
-
-et contentieux
+VI. ― Contributions indirectes : législation, réglementation et contentieux
 
 Généralité et rôle du service en matière d'impôts indirects
 
@@ -1175,9 +1155,7 @@ La procédure fiscale
 
 Option comptabilité privée
 
-(Branche du contrôle des opérations commerciales et de l'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et de l'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -1243,9 +1221,7 @@ Le bilan et le compte de résultats prévisionnels
 
 Option gestion administrative
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Organisation générale des services de l'Etat
 
@@ -1271,7 +1247,7 @@ A. ― Organes de gestion dans la fonction publique :
 
 ― les commissions administratives paritaires ;
 
-― les comités techniques paritaires ;
+― les comités techniques ;
 
 ― les comités d'hygiène et de sécurité ;
 
@@ -1317,7 +1293,7 @@ B. ― Le déroulement de la carrière :
 
 ― la sécurité sociale ;
 
-― les services sociaux
+― les services sociaux.
 
 4. La cessation de fonctions et la cessation définitive d'activité :
 
@@ -1351,9 +1327,7 @@ IV. ― Les facteurs d'évolution de la gestion des administrations
 
 2. L'impact de la réforme de l'Etat.
 
-Option connaissances techniques de navigation maritime
-
-et connaissances de réglementation douanière maritime
+Option connaissances techniques de navigation maritime et connaissances de réglementation douanière maritime
 
 Epreuve d'admissibilité n° 2 du concours interne de la branche de la surveillance
 
@@ -1463,9 +1437,7 @@ D. ― Le contrôle de la navigation réservée
 
 E. ― L'avitaillement des navires
 
-ÉPREUVE D'ADMISSION N° 3 DU CONCOURS INTERNE
-
-DE LA BRANCHE DE LA SURVEILLANCE
+ÉPREUVE D'ADMISSION N° 3 DU CONCOURS INTERNE DE LA BRANCHE DE LA SURVEILLANCE
 
 Epreuve d'exercices physiques
 
@@ -1498,213 +1470,213 @@ Candidats masculins :
 <table>
 <tbody>
 <tr>
-<th>NOTE OBTENUE<br/>
+<th>NOTE OBTENUE <br/>
 </th>
-<th>100 MÈTRES<br/>
+<th>100 MÈTRES <br/>
 </th>
-<th>1 000 MÈTRES<br/>
+<th>1 000 MÈTRES <br/>
 </th>
-<th>SAUT EN HAUTEUR<br/>(en mètres)<br/>
+<th>SAUT EN HAUTEUR <br/>(en mètres) <br/>
 </th>
 </tr>
 <tr>
-<td align="center">20<br/>
+<td align="center">20 <br/>
 </td>
-<td align="center">12 s 2<br/>
+<td align="center">12 s 2 <br/>
 </td>
-<td align="center">3 min 07 s<br/>
+<td align="center">3 min 07 s <br/>
 </td>
-<td align="center">1,65<br/>
-</td>
-</tr>
-<tr>
-<td align="center">19<br/>
-</td>
-<td align="center">12 s 4<br/>
-</td>
-<td align="center">3 min 11 s<br/>
-</td>
-<td align="center">1,61<br/>
+<td align="center">1,65 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18<br/>
+<td align="center">19 <br/>
 </td>
-<td align="center">12 s 6<br/>
+<td align="center">12 s 4 <br/>
 </td>
-<td align="center">3 min 15 s<br/>
+<td align="center">3 min 11 s <br/>
 </td>
-<td align="center">1,57<br/>
-</td>
-</tr>
-<tr>
-<td align="center">17<br/>
-</td>
-<td align="center">12 s 8<br/>
-</td>
-<td align="center">3 min 19 s<br/>
-</td>
-<td align="center">1,53<br/>
+<td align="center">1,61 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">16<br/>
+<td align="center">18 <br/>
 </td>
-<td align="center">13 s<br/>
+<td align="center">12 s 6 <br/>
 </td>
-<td align="center">3 min 23 s<br/>
+<td align="center">3 min 15 s <br/>
 </td>
-<td align="center">1,49<br/>
+<td align="center">1,57 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">15<br/>
+<td align="center">17 <br/>
 </td>
-<td align="center">13 s 2<br/>
+<td align="center">12 s 8 <br/>
+</td>
+<td align="center">3 min 19 s <br/>
+</td>
+<td align="center">1,53 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">16 <br/>
+</td>
+<td align="center">13 s <br/>
+</td>
+<td align="center">3 min 23 s <br/>
+</td>
+<td align="center">1,49 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">15 <br/>
+</td>
+<td align="center">13 s 2 <br/>
 </td>
 <td align="center">3 min 27 s <br/>
 </td>
-<td align="center">1,45<br/>
+<td align="center">1,45 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14<br/>
+<td align="center">14 <br/>
 </td>
-<td align="center">13 s 4<br/>
+<td align="center">13 s 4 <br/>
 </td>
-<td align="center">3 min 33 s<br/>
+<td align="center">3 min 33 s <br/>
 </td>
-<td align="center">1,4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">13<br/>
-</td>
-<td align="center">13 s 6<br/>
-</td>
-<td align="center">3 min 39 s<br/>
-</td>
-<td align="center">1,35<br/>
+<td align="center">1,4 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">12<br/>
+<td align="center">13 <br/>
 </td>
-<td align="center">13 s 8<br/>
+<td align="center">13 s 6 <br/>
 </td>
-<td align="center">3 min 45 s<br/>
+<td align="center">3 min 39 s <br/>
 </td>
-<td align="center">1,3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">11<br/>
-</td>
-<td align="center">14 s 1<br/>
-</td>
-<td align="center">3 min 53 s<br/>
-</td>
-<td align="center">1,25<br/>
+<td align="center">1,35 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">10<br/>
+<td align="center">12 <br/>
 </td>
-<td align="center">14 s 4<br/>
+<td align="center">13 s 8 <br/>
 </td>
-<td align="center">3 min 59 s<br/>
+<td align="center">3 min 45 s <br/>
 </td>
-<td align="center">1,2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">9<br/>
-</td>
-<td align="center">14 s 7<br/>
-</td>
-<td align="center">4 min 07 s<br/>
-</td>
-<td align="center">1,17<br/>
+<td align="center">1,3 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">8<br/>
+<td align="center">11 <br/>
 </td>
-<td align="center">15 s<br/>
+<td align="center">14 s 1 <br/>
 </td>
-<td align="center">4 min 15 s<br/>
+<td align="center">3 min 53 s <br/>
 </td>
-<td align="center">1,13<br/>
-</td>
-</tr>
-<tr>
-<td align="center">7<br/>
-</td>
-<td align="center">15 s 3<br/>
-</td>
-<td align="center">4 min 23 s<br/>
-</td>
-<td align="center">1,1<br/>
+<td align="center">1,25 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6<br/>
+<td align="center">10 <br/>
 </td>
-<td align="center">15 s 6<br/>
+<td align="center">14 s 4 <br/>
 </td>
-<td align="center">4 min 31 s<br/>
+<td align="center">3 min 59 s <br/>
 </td>
-<td align="center">1,05<br/>
-</td>
-</tr>
-<tr>
-<td align="center">5<br/>
-</td>
-<td align="center">15 s 9<br/>
-</td>
-<td align="center">4 min 39 s<br/>
-</td>
-<td align="center">1<br/>
+<td align="center">1,2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">9 <br/>
 </td>
-<td align="center">16 s 2<br/>
+<td align="center">14 s 7 <br/>
 </td>
-<td align="center">4 min 49 s<br/>
+<td align="center">4 min 07 s <br/>
 </td>
-<td align="center">0,95<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3<br/>
-</td>
-<td align="center">16 s 5<br/>
-</td>
-<td align="center">4 min 59 s<br/>
-</td>
-<td align="center">0,9<br/>
+<td align="center">1,17 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2<br/>
+<td align="center">8 <br/>
 </td>
-<td align="center">16 s 8<br/>
+<td align="center">15 s <br/>
 </td>
-<td align="center">5 min 09 s<br/>
+<td align="center">4 min 15 s <br/>
 </td>
-<td align="center">0,85<br/>
+<td align="center">1,13 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">7 <br/>
 </td>
-<td align="center">17 s 1<br/>
+<td align="center">15 s 3 <br/>
 </td>
-<td align="center">5 min 24 s<br/>
+<td align="center">4 min 23 s <br/>
 </td>
-<td align="center">0,8<br/>
+<td align="center">1,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">6 <br/>
+</td>
+<td align="center">15 s 6 <br/>
+</td>
+<td align="center">4 min 31 s <br/>
+</td>
+<td align="center">1,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">5 <br/>
+</td>
+<td align="center">15 s 9 <br/>
+</td>
+<td align="center">4 min 39 s <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">16 s 2 <br/>
+</td>
+<td align="center">4 min 49 s <br/>
+</td>
+<td align="center">0,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">3 <br/>
+</td>
+<td align="center">16 s 5 <br/>
+</td>
+<td align="center">4 min 59 s <br/>
+</td>
+<td align="center">0,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 <br/>
+</td>
+<td align="center">16 s 8 <br/>
+</td>
+<td align="center">5 min 09 s <br/>
+</td>
+<td align="center">0,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 <br/>
+</td>
+<td align="center">17 s 1 <br/>
+</td>
+<td align="center">5 min 24 s <br/>
+</td>
+<td align="center">0,8 <br/>
 </td>
 </tr>
 </tbody>
@@ -1712,220 +1684,218 @@ Candidats masculins :
 
 </div>
 
-Candidates féminines :
-
-<div align="center">
+Candidates féminines : <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>NOTE OBTENUE<br/>
+<th>NOTE OBTENUE <br/>
 </th>
-<th>60 MÈTRES<br/>
+<th>60 MÈTRES <br/>
 </th>
-<th>300 MÈTRES<br/>
+<th>300 MÈTRES <br/>
 </th>
-<th>SAUT EN HAUTEUR<br/>(en mètres)<br/>
+<th>SAUT EN HAUTEUR <br/>(en mètres) <br/>
 </th>
 </tr>
 <tr>
-<td align="center">20<br/>
+<td align="center">20 <br/>
 </td>
-<td align="center">9 s 1<br/>
+<td align="center">9 s 1 <br/>
 </td>
-<td align="center">52 s<br/>
+<td align="center">52 s <br/>
 </td>
-<td align="center">1,27<br/>
-</td>
-</tr>
-<tr>
-<td align="center">19<br/>
-</td>
-<td align="center">9 s 2<br/>
-</td>
-<td align="center">53 s<br/>
-</td>
-<td align="center">1,25<br/>
+<td align="center">1,27 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18<br/>
+<td align="center">19 <br/>
 </td>
-<td align="center">9 s 3<br/>
+<td align="center">9 s 2 <br/>
 </td>
-<td align="center">54 s<br/>
+<td align="center">53 s <br/>
 </td>
-<td align="center">1,23<br/>
-</td>
-</tr>
-<tr>
-<td align="center">17<br/>
-</td>
-<td align="center">9 s 5<br/>
-</td>
-<td align="center">55 s<br/>
-</td>
-<td align="center">1,21<br/>
+<td align="center">1,25 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">16<br/>
+<td align="center">18 <br/>
 </td>
-<td align="center">9 s 7<br/>
+<td align="center">9 s 3 <br/>
 </td>
-<td align="center">56 s<br/>
+<td align="center">54 s <br/>
 </td>
-<td align="center">1,19<br/>
-</td>
-</tr>
-<tr>
-<td align="center">15<br/>
-</td>
-<td align="center">9 s 9<br/>
-</td>
-<td align="center">57 s<br/>
-</td>
-<td align="center">1,17<br/>
+<td align="center">1,23 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14<br/>
+<td align="center">17 <br/>
 </td>
-<td align="center">10 s 1<br/>
+<td align="center">9 s 5 <br/>
 </td>
-<td align="center">59 s<br/>
+<td align="center">55 s <br/>
 </td>
-<td align="center">1,14<br/>
-</td>
-</tr>
-<tr>
-<td align="center">13<br/>
-</td>
-<td align="center">10 s 3<br/>
-</td>
-<td align="center">1 min 01 s<br/>
-</td>
-<td align="center">1,11<br/>
+<td align="center">1,21 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">12<br/>
+<td align="center">16 <br/>
 </td>
-<td align="center">10 s 5<br/>
+<td align="center">9 s 7 <br/>
 </td>
-<td align="center">1 min 03 s<br/>
+<td align="center">56 s <br/>
 </td>
-<td align="center">1,08<br/>
-</td>
-</tr>
-<tr>
-<td align="center">11<br/>
-</td>
-<td align="center">10 s 7<br/>
-</td>
-<td align="center">1 min 05 s<br/>
-</td>
-<td align="center">1,05<br/>
+<td align="center">1,19 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">10<br/>
+<td align="center">15 <br/>
 </td>
-<td align="center">10 s 9<br/>
+<td align="center">9 s 9 <br/>
 </td>
-<td align="center">1 min 07 s<br/>
+<td align="center">57 s <br/>
 </td>
-<td align="center">1,02<br/>
-</td>
-</tr>
-<tr>
-<td align="center">9<br/>
-</td>
-<td align="center">11 s 1<br/>
-</td>
-<td align="center">1 min 09 s<br/>
-</td>
-<td align="center">0,99<br/>
+<td align="center">1,17 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">8<br/>
+<td align="center">14 <br/>
 </td>
-<td align="center">11 s 3<br/>
+<td align="center">10 s 1 <br/>
 </td>
-<td align="center">1 min 11 s<br/>
+<td align="center">59 s <br/>
 </td>
-<td align="center">0,95<br/>
-</td>
-</tr>
-<tr>
-<td align="center">7<br/>
-</td>
-<td align="center">11 s 5<br/>
-</td>
-<td align="center">1 min 13 s<br/>
-</td>
-<td align="center">0,91<br/>
+<td align="center">1,14 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6<br/>
+<td align="center">13 <br/>
 </td>
-<td align="center">11 s 7<br/>
+<td align="center">10 s 3 <br/>
 </td>
-<td align="center">1 min 15 s<br/>
+<td align="center">1 min 01 s <br/>
 </td>
-<td align="center">0,87<br/>
-</td>
-</tr>
-<tr>
-<td align="center">5<br/>
-</td>
-<td align="center">11 s 9<br/>
-</td>
-<td align="center">1 min 18 s<br/>
-</td>
-<td align="center">0,83<br/>
+<td align="center">1,11 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4<br/>
+<td align="center">12 <br/>
 </td>
-<td align="center">12 s 1<br/>
+<td align="center">10 s 5 <br/>
 </td>
-<td align="center">1 min 21 s<br/>
+<td align="center">1 min 03 s <br/>
 </td>
-<td align="center">0,79<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3<br/>
-</td>
-<td align="center">12 s 3<br/>
-</td>
-<td align="center">1 min 24 s<br/>
-</td>
-<td align="center">0,75<br/>
+<td align="center">1,08 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2<br/>
+<td align="center">11 <br/>
 </td>
-<td align="center">12 s 6<br/>
+<td align="center">10 s 7 <br/>
 </td>
-<td align="center">1 min 27 s<br/>
+<td align="center">1 min 05 s <br/>
 </td>
-<td align="center">0,71<br/>
+<td align="center">1,05 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td align="center">10 <br/>
 </td>
-<td align="center">12 s 9<br/>
+<td align="center">10 s 9 <br/>
 </td>
-<td align="center">1 min 30 s<br/>
+<td align="center">1 min 07 s <br/>
 </td>
-<td align="center">0,67<br/>
+<td align="center">1,02 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">9 <br/>
+</td>
+<td align="center">11 s 1 <br/>
+</td>
+<td align="center">1 min 09 s <br/>
+</td>
+<td align="center">0,99 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">8 <br/>
+</td>
+<td align="center">11 s 3 <br/>
+</td>
+<td align="center">1 min 11 s <br/>
+</td>
+<td align="center">0,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">7 <br/>
+</td>
+<td align="center">11 s 5 <br/>
+</td>
+<td align="center">1 min 13 s <br/>
+</td>
+<td align="center">0,91 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">6 <br/>
+</td>
+<td align="center">11 s 7 <br/>
+</td>
+<td align="center">1 min 15 s <br/>
+</td>
+<td align="center">0,87 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">5 <br/>
+</td>
+<td align="center">11 s 9 <br/>
+</td>
+<td align="center">1 min 18 s <br/>
+</td>
+<td align="center">0,83 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 <br/>
+</td>
+<td align="center">12 s 1 <br/>
+</td>
+<td align="center">1 min 21 s <br/>
+</td>
+<td align="center">0,79 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">3 <br/>
+</td>
+<td align="center">12 s 3 <br/>
+</td>
+<td align="center">1 min 24 s <br/>
+</td>
+<td align="center">0,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 <br/>
+</td>
+<td align="center">12 s 6 <br/>
+</td>
+<td align="center">1 min 27 s <br/>
+</td>
+<td align="center">0,71 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 <br/>
+</td>
+<td align="center">12 s 9 <br/>
+</td>
+<td align="center">1 min 30 s <br/>
+</td>
+<td align="center">0,67 <br/>
 </td>
 </tr>
 </tbody>
@@ -1940,53 +1910,53 @@ Conditions de déroulement de l'épreuve :
 <table>
 <tbody>
 <tr>
-<th>ÉPREUVE<br/>
+<th>ÉPREUVE <br/>
 </th>
-<th>HOMMES<br/>
+<th>HOMMES <br/>
 </th>
-<th>FEMMES<br/>
+<th>FEMMES <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Course<br/>
+<td align="center">Course <br/>
 </td>
-<td align="center">100 m<br/>
+<td align="center">100 m <br/>
 </td>
-<td align="center">60 m<br/>
+<td align="center">60 m <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Un seul essai, course individuelle<br/>
+<td align="center">Un seul essai, course individuelle <br/>
 </td>
-<td align="center">Un seul essai, course individuelle<br/>
+<td align="center">Un seul essai, course individuelle <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Course<br/>
+<td align="center">Course <br/>
 </td>
-<td align="center">1 000 m<br/>
+<td align="center">1 000 m <br/>
 </td>
-<td align="center">300 m<br/>
+<td align="center">300 m <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif<br/>
+<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif <br/>
 </td>
-<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif<br/>
+<td align="center">Course en ligne de 2 à 5 candidats, suivant l'effectif <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Saut en hauteur<br/>
+<td align="center">Saut en hauteur <br/>
 </td>
-<td align="center">Trois essais à chaque hauteur<br/>
+<td align="center">Trois essais à chaque hauteur <br/>
 </td>
-<td align="center">Trois essais à chaque hauteur<br/>
+<td align="center">Trois essais à chaque hauteur <br/>
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 # Article 3
 
-I. ― Le nombre des membres du comité technique paritaire unique est fixé comme suit :
+I. ― Le nombre des membres du  comité technique unique est fixé comme suit :
 
 a) Représentants de l'administration : quinze membres titulaires et quinze membres suppléants ;
 

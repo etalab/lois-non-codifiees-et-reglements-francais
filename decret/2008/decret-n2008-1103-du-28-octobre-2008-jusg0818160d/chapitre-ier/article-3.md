@@ -4,4 +4,4 @@ Le nombre d'emplois de conseiller d'administration du ministère de la justice a
 
 La liste et la localisation de ces emplois sont fixées par arrêté du ministre de la justice. Cette liste est révisée au moins tous les cinq ans.
 
-La création d'emplois de conseiller d'administration au sein d'un établissement public administratif sous tutelle et à la grande chancellerie de la Légion d'honneur est subordonnée à l'avis du comité technique paritaire central de l'établissement considéré.
+La création d'emplois de conseiller d'administration au sein d'un établissement public administratif sous tutelle et à la grande chancellerie de la Légion d'honneur est subordonnée à l'avis du  comité technique central de l'établissement considéré.

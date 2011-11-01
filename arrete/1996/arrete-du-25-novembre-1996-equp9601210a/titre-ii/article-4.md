@@ -4,4 +4,4 @@ L'école est dirigée par un directeur assisté de deux directeurs d'établissem
 
 Une équipe de direction assiste chaque directeur d'établissement.
 
-Le directeur propose après avis du comité technique paritaire spécial de l'école l'organisation de son école qui fait l'objet d'une décision du directeur du personnel et des services.
+Le directeur propose après avis du comité technique spécial de l'école l'organisation de son école qui fait l'objet d'une décision du directeur du personnel et des services.

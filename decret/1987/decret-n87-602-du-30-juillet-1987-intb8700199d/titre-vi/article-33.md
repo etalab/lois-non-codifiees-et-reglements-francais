@@ -6,4 +6,4 @@ Le dossier soumis au comité médical comporte un rapport écrit du médecin du 
 
 Si l'intéressé bénéficie d'un aménagement des conditions de son travail, le comité médical, après avis du service de médecine professionnelle et préventive, est appelé de nouveau, à l'expiration de périodes successives d'une durée comprise entre trois et six mois, à formuler des recommandations auprès de l'autorité territoriale sur l'opportunité du maintien ou de la modification de ces aménagements.
 
-Le comité d'hygiène et de sécurité ou, à défaut, le comité technique paritaire est informé chaque année des aménagements accordés par l'autorité territoriale, en application du présent article.
+Le comité d'hygiène et de sécurité ou, à défaut, le  comité technique est informé chaque année des aménagements accordés par l'autorité territoriale, en application du présent article.

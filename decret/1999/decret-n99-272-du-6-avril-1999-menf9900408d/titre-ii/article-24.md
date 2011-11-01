@@ -1,6 +1,6 @@
 # Article 24
 
-Chaque commission paritaire d'établissement élabore son règlement intérieur selon un règlement type établi après avis du comité technique paritaire ministériel.
+Chaque commission paritaire d'établissement élabore son règlement intérieur selon un règlement type établi après avis du  comité technique ministériel.
 
 Le secrétariat est assuré par un représentant de l'établissement qui peut n'être pas membre de la commission.
 

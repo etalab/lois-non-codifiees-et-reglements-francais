@@ -16,7 +16,7 @@ Le bureau des statuts et des relations sociales :
 
 ― assure le suivi et la gestion des relations sociales et veille à l'application des droits syndicaux ;
 
-― assure la préparation, le secrétariat et le suivi des travaux des comités techniques paritaires et de la commission permanente d'études pour ce qui concerne les matières intéressant les fonctionnaires des greffes ;
+― assure la préparation, le secrétariat et le suivi des travaux des  comités techniques et de la commission permanente d'études pour ce qui concerne les matières intéressant les fonctionnaires des greffes ;
 
 ― en liaison avec la sous-direction de la synthèse des ressources humaines du secrétariat général, est chargé de la promotion des mesures visant au développement de l'action sociale en faveur des personnels ainsi qu'au respect des règles d'hygiène et de sécurité et de prévention des risques professionnels ;
 

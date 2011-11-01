@@ -4,4 +4,4 @@ Le nombre des emplois de conseiller d'administration de la défense est fixé pa
 
 La liste de ces emplois est fixée par arrêté du ministre de la défense. Cette liste est révisée au moins tous les cinq ans.
 
-La création d'emplois de conseiller d'administration au sein d'un établissement public administratif sous tutelle est subordonné à l'avis du comité technique paritaire central de l'établissement considéré.
+La création d'emplois de conseiller d'administration au sein d'un établissement public administratif sous tutelle est subordonné à l'avis du  comité technique central de l'établissement considéré.

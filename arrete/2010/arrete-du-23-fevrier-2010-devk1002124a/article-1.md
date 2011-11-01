@@ -2,7 +2,7 @@
 
 En application de l'article 4 du décret du 25 août 2000 susvisé, le travail est organisé selon des périodes de référence dénommées cycles de travail.
 
-La modalité d'organisation du temps de travail du service applicable au service ou partie de service est fixée par le chef de service dans le cadre du règlement intérieur parmi celles prévues par le présent arrêté, après concertation et avis du comité technique paritaire compétent.
+La modalité d'organisation du temps de travail du service applicable au service ou partie de service est fixée par le chef de service dans le cadre du règlement intérieur parmi celles prévues par le présent arrêté, après concertation et avis du  comité technique compétent.
 
 Pour les activités qui le nécessitent, des cycles hebdomadaires et non hebdomadaires peuvent coexister dans un même service.
 

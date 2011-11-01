@@ -4,7 +4,7 @@ La liste des commissions prévues à l'article 3 du décret du 28 mai 1990 susvi
 
 1° Direction de l'administration générale
 
-Comités techniques paritaires (ministériel, central, locaux et spéciaux).
+Comités techniques (ministériel, central, locaux et spéciaux).
 
 Comités d'hygiène et de sécurité.
 

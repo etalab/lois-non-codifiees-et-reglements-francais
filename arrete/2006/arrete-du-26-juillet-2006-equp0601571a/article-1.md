@@ -1,6 +1,6 @@
 # Article 1
 
-Siègent au comité technique paritaire ministériel présidé par le ministre des transports, de l'équipement, du tourisme et de la mer en qualité de représentants de l'administration :
+Siègent au  comité technique ministériel présidé par le ministre des transports, de l'équipement, du tourisme et de la mer en qualité de représentants de l'administration :
 
 **Membres titulaires**
 
@@ -54,7 +54,7 @@ La sous-directrice du développement professionnel de la direction générale du
 
 La chargée du développement professionnel de la direction générale du personnel et de l'administration.
 
-Un    directeur interrégional de la mer.
+Un directeur interrégional de la mer.
 
 La chef du service de la navigation de la Seine.
 

@@ -32,6 +32,6 @@ Il coordonne les initiatives visant à développer l'aménagement culturel du te
 
 Il conduit et réalise des études prospectives et d'évaluation. Il coordonne la production, l'exploitation et la publication des statistiques culturelles.
 
-III. ― Le secrétaire général préside le comité des directeurs. Il peut présider, en tant que représentant du ministre, le comité technique paritaire ministériel et le comité ministériel d'hygiène et de sécurité.
+III. ― Le secrétaire général préside le comité des directeurs. Il peut présider, en tant que représentant du ministre, le  comité technique ministériel et le comité ministériel d'hygiène et de sécurité.
 
 IV. ― Le secrétaire général est assisté d'un secrétaire général adjoint, directeur.

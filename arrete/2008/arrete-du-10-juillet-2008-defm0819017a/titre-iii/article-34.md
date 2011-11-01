@@ -1,3 +1,3 @@
 # Article 34
 
-En cas de difficulté dans le fonctionnement de la commission, le directeur général en informe le comité technique paritaire central.
+En cas de difficulté dans le fonctionnement de la commission, le directeur général en informe le  comité technique central.

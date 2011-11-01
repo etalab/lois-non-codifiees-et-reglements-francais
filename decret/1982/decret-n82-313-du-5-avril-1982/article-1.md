@@ -1,6 +1,6 @@
 # Article 1
 
-Sont délégués aux préfets des départements auprès desquels a été créé, conformément à l'article 40 du décret du 14 février 1959 susvisé, un comité technique paritaire des services de préfecture, les pouvoirs :
+Sont délégués aux préfets des départements auprès desquels a été créé, conformément à l'article 40 du décret du 14 février 1959 susvisé, un  comité technique des services de préfecture, les pouvoirs :
 
 1° De fixer, dans les limites prévues à l'article 41 de ce décret, le nombre des membres du comité ;
 

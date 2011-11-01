@@ -2,7 +2,7 @@
 
 Les règles applicables à la durée quotidienne de travail, continue ou discontinue, sont les suivantes :
 
-1° En cas de travail continu, la durée quotidienne de travail ne peut excéder 9 heures pour les équipes de jour, 10 heures pour les équipes de nuit. Toutefois lorsque les contraintes de continuité du service public l'exigent en permanence, le chef d'établissement peut, après avis du comité technique d'établissement, ou du comité technique paritaire, déroger à la durée quotidienne du travail fixée pour les agents en travail continu, sans que l'amplitude de la journée de travail ne puisse dépasser 12 heures.
+1° En cas de travail continu, la durée quotidienne de travail ne peut excéder 9 heures pour les équipes de jour, 10 heures pour les équipes de nuit. Toutefois lorsque les contraintes de continuité du service public l'exigent en permanence, le chef d'établissement peut, après avis du comité technique d'établissement, ou du  comité technique, déroger à la durée quotidienne du travail fixée pour les agents en travail continu, sans que l'amplitude de la journée de travail ne puisse dépasser 12 heures.
 
 2° Le travail de nuit comprend au moins la période comprise entre 21 heures et 6 heures, ou toute autre période de 9 heures consécutives entre 21 heures et 7 heures, sans préjudice de la protection appropriée prévue à l'article 3 et des mesures prises au titre de l'article 9. Pour les agents soumis à un régime d'équivalence ainsi que pour les agents travaillant exclusivement de nuit selon les dispositions de l'article 2, le temps de travail est décompté heure pour heure.
 

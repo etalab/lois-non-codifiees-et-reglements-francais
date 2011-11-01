@@ -32,4 +32,4 @@ La mise à disposition peut prendre fin, avant l'expiration de sa durée, à la 
 
 A l'issue de sa mise à disposition, l'agent est réemployé pour exercer les fonctions dont il était précédemment chargé ou, à défaut, sur un poste équivalent de son administration d'origine.
 
-VII.-Chaque administration établit un état faisant apparaître le nombre de ses agents non titulaires mis à disposition ainsi que leur répartition entre les organismes bénéficiaires. Cet état est inclus dans le rapport annuel aux comités techniques paritaires prévu à l'article 15 du décret n° 82-452 du 28 mai 1982 relatif aux comités techniques paritaires.
+VII.-Chaque administration établit un état faisant apparaître le nombre de ses agents non titulaires mis à disposition ainsi que leur répartition entre les organismes bénéficiaires. Cet état est inclus dans le rapport annuel aux  comités techniques prévu à l'article 15 du décret n° 82-452 du 28 mai 1982 relatif aux  comités techniques.

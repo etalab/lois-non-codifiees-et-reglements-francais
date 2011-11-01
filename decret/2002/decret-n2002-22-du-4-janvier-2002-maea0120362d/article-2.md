@@ -1,6 +1,6 @@
 # Article 2
 
-Ces fonctionnaires sont détachés auprès de l'Agence pour l'enseignement français à l'étranger (AEFE) pour servir, à l'étranger, dans le cadre d'un contrat qui précise la qualité de résident ou d'expatrié, la nature de l'emploi et les fonctions exercées, la durée pour laquelle il est conclu et les conditions de son renouvellement. Les types de contrat sont arrêtés par le directeur de l'agence après consultation du comité technique paritaire. Pour les expatriés, le contrat est accompagné d'une lettre qui précise leur mission.
+Ces fonctionnaires sont détachés auprès de l'Agence pour l'enseignement français à l'étranger (AEFE) pour servir, à l'étranger, dans le cadre d'un contrat qui précise la qualité de résident ou d'expatrié, la nature de l'emploi et les fonctions exercées, la durée pour laquelle il est conclu et les conditions de son renouvellement. Les types de contrat sont arrêtés par le directeur de l'agence après consultation du  comité technique. Pour les expatriés, le contrat est accompagné d'une lettre qui précise leur mission.
 
 Les personnels expatriés sont recrutés par l'agence, après avis de la commission consultative paritaire centrale compétente, hors du pays d'affectation, sur des postes dont la liste limitative est fixée chaque année par le directeur de l'agence.
 

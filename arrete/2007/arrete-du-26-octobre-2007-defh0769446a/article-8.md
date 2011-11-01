@@ -4,7 +4,7 @@ Pour l'accomplissement des opérations électorales, les électeurs qui exercent
 
 Le scrutin a lieu à bulletin secret et sous enveloppe. Le vote par procuration n'est pas autorisé.
 
-Lors de la consultation, chaque électeur est invité à indiquer l'organisation syndicale par laquelle il entend être représenté au comité technique paritaire central de l'institut.
+Lors de la consultation, chaque électeur est invité à indiquer l'organisation syndicale par laquelle il entend être représenté au  comité technique central de l'institut.
 
 Seuls les enveloppes et les bulletins de vote fournis par l'institut pourront être utilisés pour le scrutin.
 

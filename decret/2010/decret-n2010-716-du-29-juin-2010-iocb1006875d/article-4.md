@@ -1,6 +1,6 @@
 # Article 4
 
-Les critères à partir desquels la valeur professionnelle du fonctionnaire est appréciée, au terme de cet entretien, sont fonction de la nature des tâches qui lui sont confiées et du niveau de responsabilité assumé. Ces critères, fixés après avis du comité technique paritaire, portent notamment sur :
+Les critères à partir desquels la valeur professionnelle du fonctionnaire est appréciée, au terme de cet entretien, sont fonction de la nature des tâches qui lui sont confiées et du niveau de responsabilité assumé. Ces critères, fixés après avis du  comité technique, portent notamment sur :
 
 1° L'efficacité dans l'emploi et la réalisation des objectifs ;
 

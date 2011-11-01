@@ -20,4 +20,4 @@ Le président du Centre national du cinéma et de l'image animée dirige l'étab
 
 9° Il signe les conventions engageant l'établissement ; il est l'autorité responsable en matière de passation de marché public ;
 
-10° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+10° Il préside le  comité technique et le comité d'hygiène et de sécurité.

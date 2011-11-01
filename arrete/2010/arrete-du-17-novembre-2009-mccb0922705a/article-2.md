@@ -40,7 +40,7 @@ Elle facilite les mobilités de tous les agents et la construction de parcours p
 
 Elle définit les politiques relatives à l'action sociale, à la médecine de prévention et aux conditions de travail, d'hygiène et de sécurité.
 
-Elle organise le dialogue social ministériel. A ce titre, elle assure le secrétariat du comité technique paritaire ministériel, du comité technique paritaire placé auprès du secrétaire général, du Comité national d'action sociale, du comité ministériel d'hygiène et de sécurité et du comité d'hygiène et de sécurité placé auprès du secrétaire général. Elle établit le bilan social du ministère.
+Elle organise le dialogue social ministériel. A ce titre, elle assure le secrétariat du  comité technique ministériel, du  comité technique placé auprès du secrétaire général, du Comité national d'action sociale, du comité ministériel d'hygiène et de sécurité et du comité d'hygiène et de sécurité placé auprès du secrétaire général. Elle établit le bilan social du ministère.
 
 La sous-direction des politiques de ressources humaines et des relations sociales comprend :
 

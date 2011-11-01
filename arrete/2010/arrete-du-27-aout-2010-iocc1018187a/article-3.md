@@ -28,4 +28,4 @@ En liaison avec les sous-directions compétentes, elle prépare les textes légi
 
 Avec les services déconcentrés, elle assure la gestion administrative des personnels, le suivi de l'aptitude médicale, la procédure disciplinaire, la répartition des agents dans les services et l'organisation et la gestion de la réserve civile de la police nationale.
 
-Elle organise les relations avec les organisations syndicales et assure la préparation et le suivi des réunions du comité technique paritaire central de la police nationale et du comité technique paritaire ministériel pour ce qui concerne la police nationale.
+Elle organise les relations avec les organisations syndicales et assure la préparation et le suivi des réunions du  comité technique central de la police nationale et du  comité technique ministériel pour ce qui concerne la police nationale.

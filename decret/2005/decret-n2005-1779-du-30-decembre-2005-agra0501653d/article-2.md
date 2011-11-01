@@ -18,4 +18,4 @@ b) Pour faire face, temporairement, pour une durée maximale de 18 mois, à la v
 
 c) Pour assurer le remplacement momentané d'un fonctionnaire autorisé à exercer ses fonctions à temps partiel ou indisponible, au maximum pour la durée du temps partiel ou de l'indisponibilité de l'agent remplacé.
 
-Les dispositions du décret du 17 janvier 1986 susvisé sont, à l'exception de celles des articles 1er et 5 à 8, applicables aux personnels contractuels de droit public recrutés par l'office. Le directeur général de l'Office national des forêts fixe les conditions de rémunération applicables à ces agents après avis du comité technique paritaire central de l'établissement.
+Les dispositions du décret du 17 janvier 1986 susvisé sont, à l'exception de celles des articles 1er et 5 à 8, applicables aux personnels contractuels de droit public recrutés par l'office. Le directeur général de l'Office national des forêts fixe les conditions de rémunération applicables à ces agents après avis du  comité technique central de l'établissement.

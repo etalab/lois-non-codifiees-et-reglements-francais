@@ -26,4 +26,4 @@ La durée quotidienne de travail ne peut excéder quinze heures. Les agents bén
 
 L'amplitude maximale de la journée de travail est fixée à seize heures. Dans le cas des conducteurs d'un véhicule administratif, la durée de conduite effective ne peut excéder huit heures.
 
-Les représentants du personnel au comité technique paritaire compétent sont informés dans les meilleurs délais des raisons et des conditions qui ont présidé à la mise en oeuvre de ces dispositions dont il sera par ailleurs rendu compte annuellement aux comités techniques paritaires intéressés.
+Les représentants du personnel au comité technique compétent sont informés dans les meilleurs délais des raisons et des conditions qui ont présidé à la mise en oeuvre de ces dispositions dont il sera par ailleurs rendu compte annuellement aux  comités techniques intéressés.

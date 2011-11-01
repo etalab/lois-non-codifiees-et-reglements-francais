@@ -10,7 +10,7 @@ La sous-direction des affaires générales et de la synthèse, rattachée direct
 
 ― assure la gestion de proximité des agents affectés à cette direction générale (gestion prévisionnelle des emplois, suivi des équivalents temps plein, préparation des cycles de mobilité, propositions d'avancement, évaluation des agents, proposition des primes et indemnités) en liaison avec les services du secrétariat général du ministère ;
 
-― organise le dialogue social de la direction générale (comité technique paritaire spécial, commission locale de formation), élabore le plan de formation de la direction et assure la maîtrise d'ouvrage des formations métiers correspondantes ;
+― organise le dialogue social de la direction générale (  comité technique spécial, commission locale de formation), élabore le plan de formation de la direction et assure la maîtrise d'ouvrage des formations métiers correspondantes ;
 
 ― prépare et conclut les marchés et conventions relatifs aux domaines de compétences de la direction dans la limite des attributions dévolues au service gérant les prestations communes du secrétariat général ;
 

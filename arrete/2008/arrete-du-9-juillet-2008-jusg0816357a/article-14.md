@@ -14,7 +14,7 @@ Il est l'interlocuteur privilégié pour la concertation syndicale sur l'ensembl
 
 Il pilote la mise en place de l'Observatoire social, dont il définit les indicateurs.
 
-Il suit les questions relatives à la gestion des relations sociales, au droit syndical, au fonctionnement des comités techniques paritaires.
+Il suit les questions relatives à la gestion des relations sociales, au droit syndical, au fonctionnement des  comités techniques.
 
 En liaison avec le secrétariat général, il est chargé de la promotion des mesures visant au développement de l'action sociale en faveur des personnels ainsi qu'au respect des règles d'hygiène et de sécurité et de la prévention des risques professionnels.
 

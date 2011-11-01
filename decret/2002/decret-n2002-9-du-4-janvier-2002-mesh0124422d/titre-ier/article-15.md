@@ -10,4 +10,4 @@ Sans préjudice du respect des garanties mentionnées à l'article 6, les heures
 
 Les heures supplémentaires font l'objet soit d'une compensation horaire donnant lieu à une récupération au moins d'égale durée, soit d'une indemnisation.
 
-Les conditions de la compensation ou de l'indemnisation sont fixées par décret. Les modalités générales de recours à la compensation ou à l'indemnisation sont fixées par le chef d'établissement après avis du comité technique d'établissement ou du comité technique paritaire.
+Les conditions de la compensation ou de l'indemnisation sont fixées par décret. Les modalités générales de recours à la compensation ou à l'indemnisation sont fixées par le chef d'établissement après avis du comité technique d'établissement ou du  comité technique.

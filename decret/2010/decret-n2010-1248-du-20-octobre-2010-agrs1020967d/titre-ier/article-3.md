@@ -8,4 +8,4 @@ Elles comprennent en nombre égal des représentants de l'administration et des 
 
 Chaque commission consultative paritaire interétablissements est compétente pour l'examen des questions ayant trait aux situations individuelles concernant les agents du groupe au titre duquel elle est instituée.
 
-Les modalités d'application du présent article sont fixées par une décision du comité des établissements employeurs après avis du comité technique paritaire compétent.
+Les modalités d'application du présent article sont fixées par une décision du comité des établissements employeurs après avis du  comité technique compétent.

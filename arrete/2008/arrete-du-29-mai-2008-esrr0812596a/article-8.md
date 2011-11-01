@@ -1,0 +1,5 @@
+# Article 8
+
+Les listes de candidats doivent chacune comporter autant de noms que de sièges à pourvoir dans la catégorie des chercheurs et dans la catégorie des ingénieurs, personnels techniques et d'administration de la recherche, ou dans une seule de ces deux catégories. Elles doivent être déposées auprès du délégué pour les élections avant une date fixée par le directeur général du Centre national de la recherche scientifique. Chaque liste doit en outre être accompagnée des déclarations de candidature individuelle signées par chaque candidat et faire apparaître le nom d'un délégué de liste habilité à la représenter auprès de la commission électorale.
+
+Les professions de foi des listes de candidats sont adressées au délégué pour les élections par les délégués de liste, avant une date fixée par le calendrier électoral. Ces documents sont envoyés par voie postale aux électeurs. Ils sont accessibles sur un site internet consacré à l'organisation des élections, dont l'adresse est portée à la connaissance des électeurs.

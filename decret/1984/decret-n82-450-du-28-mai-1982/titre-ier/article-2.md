@@ -10,13 +10,13 @@ Le Conseil supérieur de la fonction publique de l'Etat est saisi :
 
 4° Des projets de décret relatifs à la situation de l'ensemble des agents publics de l'Etat ;
 
-5° Des projets de décret comportant des dispositions statutaires communes à plusieurs corps de fonctionnaires de l'Etat sauf lorsque, par application de l'article 14 du décret n° 82-452 du 28 mai 1982, ces projets relèvent de la compétence d'un seul comité technique paritaire ministériel ou d'un seul comité technique paritaire central d'établissement public ;
+5° Des projets de décret comportant des dispositions statutaires communes à plusieurs corps de fonctionnaires de l'Etat sauf lorsque, par application de l'article 14 du décret n° 82-452 du 28 mai 1982, ces projets relèvent de la compétence d'un seul comité technique ministériel ou d'un seul comité technique central d'établissement public ;
 
-6° Des projets de décrets qui modifient ou abrogent, de manière coordonnée pour des corps d'une même catégorie et par des dispositions ayant le même objet, plusieurs statuts particuliers de corps, lorsque ces projets relèvent de plusieurs comités techniques paritaires ;
+6° Des projets de décrets qui modifient ou abrogent, de manière coordonnée pour des corps d'une même catégorie et par des dispositions ayant le même objet, plusieurs statuts particuliers de corps, lorsque ces projets relèvent de plusieurs  comités techniques ;
 
 7° Des projets de décret concernant des corps interministériels ou à vocation interministérielle relevant du Premier ministre ou régissant des emplois communs à l'ensemble des administrations.
 
-La consultation du Conseil supérieur de la fonction publique de l'Etat, lorsqu'elle est obligatoire en application des dispositions du présent décret ou de toute autre disposition législative ou réglementaire, remplace celle du ou des comités techniques paritaires compétents, sauf si la consultation successive de l'un et l'autre de ces deux types d'organismes consultatifs est expressément prévue dans le même texte.
+La consultation du Conseil supérieur de la fonction publique de l'Etat, lorsqu'elle est obligatoire en application des dispositions du présent décret ou de toute autre disposition législative ou réglementaire, remplace celle du ou des  comités techniques compétents, sauf si la consultation successive de l'un et l'autre de ces deux types d'organismes consultatifs est expressément prévue dans le même texte.
 
 Le Conseil supérieur de la fonction publique de l'Etat joue un rôle de coordination à l'égard des commissions et des comités prévus à l'article 12 de la loi du 11 janvier 1984 précitée.
 
@@ -26,6 +26,6 @@ Le Conseil supérieur de la fonction publique de l'Etat est consulté sur les pr
 
 Il est chargé d'examiner les questions d'ordre général relatives à l'élaboration, à la mise en oeuvre et au bilan des actions liées à la modernisation du service publie, aux restructurations administratives, à la déconcentration et aux implantations des administrations publiques sur le territoire.
 
-En outre, dans les cas prévus aux articles 67, 70 et 72 de la loi du 11 janvier 1984 précitée et dans le cas d'un licenciement prononcé en application du deuxième alinéa de l'article 51 de cette loi ainsi qu'à l'article 17 du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires de l'Etat, le Conseil supérieur de la fonction publique de l'Etat joue un rôle d'organe supérieur de recours.
+En outre, dans les cas prévus aux articles 67,70 et 72 de la loi du 11 janvier 1984 précitée et dans le cas d'un licenciement prononcé en application du deuxième alinéa de l'article 51 de cette loi ainsi qu'à l'article 17 du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires de l'Etat, le Conseil supérieur de la fonction publique de l'Etat joue un rôle d'organe supérieur de recours.
 
 Dans le cadre de la compétence qui lui est attribuée par le présent article, le Conseil supérieur de la fonction publique de l'Etat émet des avis ou des recommandations.

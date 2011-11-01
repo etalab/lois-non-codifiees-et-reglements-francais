@@ -18,6 +18,6 @@ La convention d'activités intitulée " convention relative au parc de l'équipe
 
 En cas de prorogation de la date d'expiration de la convention par défaut d'avenant, le montant des prestations à réaliser reste identique à celui de la dernière année d'application prévue contractuellement. Toutefois, ce montant doit être ajusté ultérieurement selon l'évolution du barème à l'année considérée.
 
-Le projet de convention est soumis pour avis au comité technique paritaire de la direction départementale de l'équipement. Il en est de même des projets annuels d'avenant.
+Le projet de convention est soumis pour avis au  comité technique de la direction départementale de l'équipement. Il en est de même des projets annuels d'avenant.
 
 Un modèle de convention relative au parc de l'équipement est annexé au présent décret.

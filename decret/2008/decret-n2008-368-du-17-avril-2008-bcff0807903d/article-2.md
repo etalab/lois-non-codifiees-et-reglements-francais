@@ -1,6 +1,6 @@
 # Article 2
 
-Un arrêté du ministre intéressé, pris après avis des comités techniques paritaires compétents, précise :
+Un arrêté du ministre intéressé, pris après avis des  comités techniques compétents, précise :
 
 ― les services, corps, grades, emplois ou assimilés concernés par une restructuration et pour lesquels l'indemnité peut être attribuée ;
 

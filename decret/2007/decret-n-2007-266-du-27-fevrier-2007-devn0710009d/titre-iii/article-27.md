@@ -46,7 +46,7 @@ b) Le président du comité de vie locale de l'établissement public du parc ;
 
 c) Onze personnalités à compétence locale :
 
--trois personnes représentant respectivement la chambre d'agriculture, la chambre des métiers et la      chambre de commerce et d'industrie territoriale de Guyane ;
+-trois personnes représentant respectivement la chambre d'agriculture, la chambre des métiers et la chambre de commerce et d'industrie territoriale de Guyane ;
 
 -deux représentants d'associations de protection de l'environnement, nommés sur proposition du préfet de la Guyane ;
 
@@ -64,7 +64,7 @@ d) Trois personnalités à compétence nationale ou représentant des organismes
 
 -un représentant de l'Office national des forêts.
 
-4° D'un représentant du personnel, élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire de l'établissement.
+4° D'un représentant du personnel, élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au  comité technique de l'établissement.
 
 II.-Les membres mentionnés aux 1° et 2° du I peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent ou un élu de la même assemblée délibérante, à l'exception des représentants des autorités coutumières, qui peuvent se faire représenter par un autre membre de la communauté du territoire concerné.
 

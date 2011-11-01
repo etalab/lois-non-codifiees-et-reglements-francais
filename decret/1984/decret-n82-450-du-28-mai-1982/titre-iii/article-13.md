@@ -4,9 +4,9 @@ La formation spéciale dite commission des statuts est présidée par l'un des m
 
 Elle examine :
 
-a) Les projets de décret comportant des dispositions de nature statutaire communes à plusieurs corps de fonctionnaires de l'Etat sauf lorsque, par application de l'article 14 du décret n° 82-452 du 28 mai 1982, ces projets relèvent de la compétence d'un seul comité technique paritaire ministériel ou d'un seul comité technique paritaire central d'un établissement public ;
+a) Les projets de décret comportant des dispositions de nature statutaire communes à plusieurs corps de fonctionnaires de l'Etat sauf lorsque, par application de l'article 14 du décret n° 82-452 du 28 mai 1982, ces projets relèvent de la compétence d'un seul comité technique ministériel ou d'un seul comité technique central d'un établissement public ;
 
-b) Les projets de décret qui modifient ou abrogent, de manière coordonnée pour des corps d'une même catégorie et par des dispositions ayant le même objet, plusieurs statuts particuliers de corps, lorsque ces projets relèvent de la compétence de plusieurs comités techniques paritaires ;
+b) Les projets de décret qui modifient ou abrogent, de manière coordonnée pour des corps d'une même catégorie et par des dispositions ayant le même objet, plusieurs statuts particuliers de corps, lorsque ces projets relèvent de la compétence de plusieurs  comités techniques ;
 
 c) Les projets de décret concernant des corps interministériels ou à vocation interministérielle relevant du Premier ministre ;
 

@@ -22,7 +22,7 @@ Le président dirige l'établissement public. Les activités scientifiques de l'
 
 10° Il a autorité sur l'ensemble des personnels de l'établissement et les affecte dans les différents services ;
 
-11° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+11° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 12° Il fixe les tarifs et les droits d'entrée dans le cadre de la politique définie par le conseil d'administration en application du 4° de l'article 20. Il rend compte des décisions prises dans ce cadre.
 

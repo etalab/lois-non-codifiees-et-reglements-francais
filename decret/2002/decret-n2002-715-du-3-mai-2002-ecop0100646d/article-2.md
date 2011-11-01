@@ -8,4 +8,4 @@ Ces taux moyens annuels sont indexés sur la valeur du point fonction publique.
 
 Les attributions individuelles ne peuvent excéder le double des taux moyens. Exceptionnellement, et pour 10 % au maximum de l'effectif, elles peuvent atteindre le triple des taux moyens.
 
-Les modalités d'attribution de cette part sont fixées par décision du directeur général, après avis du comité technique paritaire de l'institut.
+Les modalités d'attribution de cette part sont fixées par décision du directeur général, après avis du  comité technique de l'institut.

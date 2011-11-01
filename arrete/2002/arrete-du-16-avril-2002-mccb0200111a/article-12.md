@@ -14,4 +14,4 @@ b) Dans les services déconcentrés, sont concernés les :
 
 -chefs des services départementaux de l'architecture et du patrimoine, adjoints au chef de service.
 
-c) Dans les services à compétence nationale et les établissements publics à caractère administratif, les personnels exerçant des fonctions dont la liste est fixée par le responsable du service à compétence nationale ou de l'établissement public concerné, après consultation du comité technique paritaire compétent.
+c) Dans les services à compétence nationale et les établissements publics à caractère administratif, les personnels exerçant des fonctions dont la liste est fixée par le responsable du service à compétence nationale ou de l'établissement public concerné, après consultation du  comité technique compétent.

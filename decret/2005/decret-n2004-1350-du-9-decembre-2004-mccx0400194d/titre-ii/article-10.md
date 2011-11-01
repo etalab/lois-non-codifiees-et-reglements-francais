@@ -28,7 +28,7 @@ Le président dirige l'établissement public. A ce titre :
 
 13° Il accepte, au nom et pour le compte de l'Etat, les dons et legs qui consistent en des oeuvres ou objets destinés à prendre place dans les collections dont l'établissement a la garde. Il en informe le conseil d'administration ; il décide des acquisitions dans les conditions prévues à l'article 18 ;
 
-14° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+14° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 Il peut, dans les conditions qu'il détermine, déléguer ses attributions au directeur général délégué.
 

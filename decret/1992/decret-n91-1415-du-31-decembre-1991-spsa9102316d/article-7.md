@@ -2,7 +2,7 @@
 
 Dans les établissements du secteur public, les représentants des personnels au conseil d'établissement sont désignés par les organisations syndicales les plus représentatives.
 
-Dans les établissements dont les personnels sont soumis aux dispositions de la loi du 11 janvier 1984 susvisée, les sièges leur sont attribués dans les conditions fixées pour leur représentation au comité technique paritaire.
+Dans les établissements dont les personnels sont soumis aux dispositions de la loi du 11 janvier 1984 susvisée, les sièges leur sont attribués dans les conditions fixées pour leur représentation au  comité technique.
 
 Dans les établissements dont le personnel est soumis aux dispositions de la loi du 26 janvier 1984 susvisée, les sièges sont attribués aux organisations syndicales proportionnellement au nombre moyen de voix qu'elles ont obtenu aux élections organisées pour la désignation des représentants du personnel aux commissions paritaires compétentes, avec répartition des restes à la plus forte moyenne.
 

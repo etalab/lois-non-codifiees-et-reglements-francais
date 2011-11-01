@@ -24,7 +24,7 @@ Le directeur général dirige l'établissement. A ce titre :
 
 11° Il met en oeuvre, après avis du conseil d'orientation de l'établissement, les relations avec le réseau des partenaires de l'établissement ;
 
-12° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+12° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
 
 13° Il rend compte de sa gestion au conseil d'administration.
 

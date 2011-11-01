@@ -2,7 +2,7 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Formations d'intégrations et formations initiales.](chapitre-ii)
-- [Chapitre III : Formations continues.](chapitre-iii)
+- [Chapitre III : Formations continues et formations de professionnalisation.](chapitre-iii)
 - [Chapitre IV : Formations concernant les spécialités.](chapitre-iv)
 - [Chapitre V : Formations d'adaptation aux risques locaux.](chapitre-v)
 - [Chapitre VI : Organisation des formations.](chapitre-vi)

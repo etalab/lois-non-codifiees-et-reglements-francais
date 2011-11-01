@@ -1,6 +1,6 @@
 # Article 3
 
-Toute opération de restructuration agréée fait l'objet d'un plan définissant les mesures destinées à la reconversion personnelle des agents et soumis à l'examen du comité technique paritaire ou de l'organisme paritaire compétent.
+Toute opération de restructuration agréée fait l'objet d'un plan définissant les mesures destinées à la reconversion personnelle des agents et soumis à l'examen du  comité technique ou de l'organisme paritaire compétent.
 
 Ce plan définit les services ou parties de service et, le cas échéant, la nature des emplois pour lesquels le droit à congé de restructuration est ouvert et arrêté le calendrier des opérations.
 

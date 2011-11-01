@@ -4,7 +4,7 @@ La sous-direction des affaires générales est chargée :
 
 ― d'assurer la gestion de proximité des agents affectés à la direction générale (gestion prévisionnelle des emplois, suivi des équivalents temps plein, préparation des cycles de mobilité, propositions d'avancement, évaluation des agents, proposition des primes et indemnités) ;
 
-― d'organiser le dialogue social de la direction générale (comité technique paritaire spécial, commission locale de formation) ;
+― d'organiser le dialogue social de la direction générale (  comité technique spécial, commission locale de formation) ;
 
 ― d'élaborer le plan de formation de la direction générale ;
 

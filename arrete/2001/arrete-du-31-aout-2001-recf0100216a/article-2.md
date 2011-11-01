@@ -8,4 +8,4 @@ La réduction du temps de travail s'opère selon les modalités d'ARTT ci-après
 
 3. Par une combinaison des deux modalités ci-dessus.
 
-Ces modalités sont fixées par le directeur général ou le directeur après avis du comité technique paritaire.
+Ces modalités sont fixées par le directeur général ou le directeur après avis du  comité technique.

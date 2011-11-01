@@ -16,7 +16,7 @@ A ce titre :
 
 6° Il a autorité sur l'ensemble des services et des personnels de l'établissement. Il gère le personnel, notamment il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement, sauf lorsque l'affectation est consécutive à un concours. Il affecte les personnels dans les différents services de l'établissement ;
 
-7° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+7° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
 
 8° Il accorde les concessions de logement après avoir recueilli les avis de la commission des logements de l'établissement et du représentant de l'Etat chargé des domaines et sans autre formalité ;
 

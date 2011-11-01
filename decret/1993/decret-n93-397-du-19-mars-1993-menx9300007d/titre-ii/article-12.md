@@ -1,6 +1,6 @@
 # Article 12
 
-Le président dirige l'établissement public.A ce titre :
+Le président dirige l'établissement public. A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration et en assure l'exécution ;
 
@@ -12,7 +12,7 @@ Le président dirige l'établissement public.A ce titre :
 
 5° Il a autorité sur le personnel. Il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement ;
 
-6° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+6° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
 
 7° Il arrête les décisions modificatives provisoires portant sur le budget de l'établissement dans les conditions fixées à l'article 20 ci-après.
 

@@ -20,4 +20,4 @@ Les concours externe et interne de recrutement des techniciens d'art prévus à 
 
 -matériaux et volumes.
 
-Chaque métier peut comporter plusieurs spécialités dont la liste est fixée par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la culture, pris après avis du comité technique paritaire ministériel du ministère chargé de la culture.
+Chaque métier peut comporter plusieurs spécialités dont la liste est fixée par arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la culture, pris après avis du  comité technique ministériel du ministère chargé de la culture.

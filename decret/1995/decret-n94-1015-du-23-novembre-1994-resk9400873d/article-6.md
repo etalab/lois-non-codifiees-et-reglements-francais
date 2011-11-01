@@ -4,9 +4,9 @@ Dans le cadre général de la politique de développement concerté des formatio
 
 Les ministres chargés de l'éducation, de l'agriculture et des armées décident respectivement de la création et de la suppression des divisions destinées à accueillir les étudiants de classes préparatoires aux grandes écoles dans les lycées relevant de leur compétence.
 
-Pour les lycées relevant de la compétence du ministre chargé de l'éducation, ces décisions interviennent à partir des propositions effectuées par les recteurs d'académie sur la base, notamment, des projets présentés par les établissements après avis des collectivités territoriales régionales, du comité technique paritaire académique et du conseil académique de l'éducation nationale.
+Pour les lycées relevant de la compétence du ministre chargé de l'éducation, ces décisions interviennent à partir des propositions effectuées par les recteurs d'académie sur la base, notamment, des projets présentés par les établissements après avis des collectivités territoriales régionales, du  comité technique académique et du conseil académique de l'éducation nationale.
 
-Pour les lycées relevant de la compétence du ministre chargé de l'agriculture, ces décisions interviennent à partir des propositions effectuées par les         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt sur la base, notamment, des projets présentés par les établissements après avis des collectivités territoriales régionales et du Conseil national de l'enseignement agricole.
+Pour les lycées relevant de la compétence du ministre chargé de l'agriculture, ces décisions interviennent à partir des propositions effectuées par les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt sur la base, notamment, des projets présentés par les établissements après avis des collectivités territoriales régionales et du Conseil national de l'enseignement agricole.
 
 Pour les lycées relevant de la compétence du ministre de la défense, ces dispositions sont prises conformément aux dispositions du décret n° 2006-246 du 1er mars 2006 relatif aux lycées de la défense.
 

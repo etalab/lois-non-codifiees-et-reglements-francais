@@ -30,7 +30,7 @@ Le directeur général dirige l'établissement public. A ce titre :
 
 14° Il attribue les pièces de céramique dans les conditions prévues à l'article 21. Il autorise les dépôts mentionnés à l'article 22 ;
 
-15° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+15° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.
 

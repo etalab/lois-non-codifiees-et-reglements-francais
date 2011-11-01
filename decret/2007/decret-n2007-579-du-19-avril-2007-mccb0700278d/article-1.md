@@ -4,4 +4,4 @@ Par dérogation aux articles 7 et 8 du décret du 2 avril 2002 susvisé et dans 
 
 La conclusion de ces avenants est soumise, pour les agents concernés, à l'avis de la commission consultative paritaire compétente.
 
-Ces avenants ne sont pas soumis à l'accomplissement de la période d'essai prévue à l'article 12 du décret du 2 avril 2002 susvisé. Les modalités de saisine, de fonctionnement et de décision de la commission mentionnée à l'article 10 du décret du 2 avril 2002 susvisé sont fixées par décision du directeur général après avis du comité technique paritaire central de l'institut.
+Ces avenants ne sont pas soumis à l'accomplissement de la période d'essai prévue à l'article 12 du décret du 2 avril 2002 susvisé. Les modalités de saisine, de fonctionnement et de décision de la commission mentionnée à l'article 10 du décret du 2 avril 2002 susvisé sont fixées par décision du directeur général après avis du  comité technique central de l'institut.

@@ -6,6 +6,6 @@ Le recours aux astreintes a pour objet, pour des corps, des grades ou des emploi
 
 Les astreintes visent également à permettre toute intervention touchant à la sécurité et au fonctionnement des installations et des équipements y concourant, lorsqu'il apparaît que ces prises en charge, soins et interventions ne peuvent être effectués par les seuls personnels en situation de travail effectif dans l'établissement.
 
-Le chef d'établissement établit, après avis du comité technique d'établissement ou comité technique paritaire, la liste des activités, des services et des catégories de personnels concernés par les astreintes, ainsi que le mode d'organisation retenu, compte tenu de l'évaluation des besoins, notamment du degré de réponse à l'urgence, des délais de route et de la périodicité des appels.
+Le chef d'établissement établit, après avis du comité technique d'établissement ou  comité technique, la liste des activités, des services et des catégories de personnels concernés par les astreintes, ainsi que le mode d'organisation retenu, compte tenu de l'évaluation des besoins, notamment du degré de réponse à l'urgence, des délais de route et de la périodicité des appels.
 
 Les dispositions des articles 20 à 25 ne sont pas applicables aux astreintes auxquelles sont soumis, en raison de leurs fonctions, les personnels de direction ainsi que les cadres, désignés par le chef d'établissement, qui bénéficient soit d'une concession de logement pour nécessité absolue de service, soit d'une indemnité compensatrice définies par décret.

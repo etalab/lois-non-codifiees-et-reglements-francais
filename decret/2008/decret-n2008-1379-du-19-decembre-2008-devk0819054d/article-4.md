@@ -1,16 +1,16 @@
 # Article 4
 
-I. ― Le préfet précise la consistance des services ou parties de services faisant l'objet des transferts prévus aux articles 1er et 2 et fournit des éléments représentatifs de l'état des charges liées à ces services ou parties de services. A cet effet, il prend, après avis du comité technique paritaire spécial de la direction départementale de l'équipement ou de la direction départementale de l'équipement et de l'agriculture, un arrêté comportant :
+I. ― Le préfet précise la consistance des services ou parties de services faisant l'objet des transferts prévus aux articles 1er et 2 et fournit des éléments représentatifs de l'état des charges liées à ces services ou parties de services. A cet effet, il prend, après avis du  comité technique spécial de la direction départementale de l'équipement ou de la direction départementale de l'équipement et de l'agriculture, un arrêté comportant :
 
 a) La liste détaillée des services ou parties de services à transférer ;
 
 b) Le nombre des emplois à transférer déterminé en fonction des emplois pourvus au 31 décembre 2007, en indiquant le nombre des emplois pourvus au 31 décembre 2002 ;
 
-c) Un état des charges supportées par l'Etat pour les années 2005, 2006 et 2007 relatif aux indemnités de service fait (indemnités de sujétion horaire, indemnités d'astreintes, indemnités de permanence, indemnités horaires pour travaux supplémentaires) liées à l'organisation du travail ;
+c) Un état des charges supportées par l'Etat pour les années 2005,2006 et 2007 relatif aux indemnités de service fait (indemnités de sujétion horaire, indemnités d'astreintes, indemnités de permanence, indemnités horaires pour travaux supplémentaires) liées à l'organisation du travail ;
 
-d) Un état des charges de fonctionnement, autres que celles de personnel, supportées par l'Etat pour les années 2005, 2006 et 2007 relatives aux services ou parties de services à transférer ;
+d) Un état des charges de fonctionnement, autres que celles de personnel, supportées par l'Etat pour les années 2005,2006 et 2007 relatives aux services ou parties de services à transférer ;
 
-e) Un état des charges supportées par l'Etat au titre des années 2005, 2006 et 2007 pour les vacations nécessaires au fonctionnement des services ou parties de services à transférer.
+e) Un état des charges supportées par l'Etat au titre des années 2005,2006 et 2007 pour les vacations nécessaires au fonctionnement des services ou parties de services à transférer.
 
 II. ― Dans le même temps, le préfet communique au président du conseil général :
 

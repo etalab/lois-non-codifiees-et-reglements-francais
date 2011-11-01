@@ -6,8 +6,8 @@ L'horaire variable comprend des plages horaires quotidiennes fixes d'une durée 
 
 Au cours du mois, un agent peut effectuer un nombre d'heures de travail inférieur ou supérieur de 12 heures au plus à l'horaire mensuel de travail découlant du cycle de travail dont il relève.
 
-Pour chaque service, le chef de service arrête le règlement de l'horaire variable dans le respect d'un règlement type arrêté après consultation du comité technique paritaire compétent.
+Pour chaque service, le chef de service arrête le règlement de l'horaire variable dans le respect d'un règlement type arrêté après consultation du  comité technique compétent.
 
 A titre exceptionnel, et si les nécessités impérieuses du service le réclament, la faculté reconnue à l'agent de déterminer ses horaires dans le cadre de l'horaire variable peut être provisoirement suspendue.
 
-A défaut d'horaire variable, les heures d'arrivée et de départ et les horaires des pauses sont fixés par le chef de service après consultation du comité technique paritaire compétent.
+A défaut d'horaire variable, les heures d'arrivée et de départ et les horaires des pauses sont fixés par le chef de service après consultation du  comité technique compétent.

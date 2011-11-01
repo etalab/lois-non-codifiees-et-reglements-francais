@@ -10,4 +10,4 @@ Les agents recrutés par contrat à durée déterminée relèvent de la commissi
 
 Les agents du Centre national de la cinématographie nommés sur un emploi fonctionnel dans les conditions prévues à l'article 9 demeurent électeurs pour la désignation des représentants du personnel à la commission consultative paritaire de leur catégorie d'origine.
 
-La composition, les modalités de fonctionnement et les attributions autres que celles mentionnées au deuxième alinéa des commissions sont fixées par décision du directeur général de l'établissement, après avis du comité technique paritaire de l'établissement.
+La composition, les modalités de fonctionnement et les attributions autres que celles mentionnées au deuxième alinéa des commissions sont fixées par décision du directeur général de l'établissement, après avis du  comité technique de l'établissement.

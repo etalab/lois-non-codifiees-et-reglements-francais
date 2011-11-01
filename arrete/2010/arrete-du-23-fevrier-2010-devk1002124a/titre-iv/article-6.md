@@ -8,4 +8,4 @@ Le repos hebdomadaire est de deux jours consécutifs comprenant en principe le d
 
 L'organisation détaillée du travail en équipes successives prévoit les modalités de pause et de repos des agents, de remplacement en cas d'absence et d'exercice des droits syndicaux et sociaux.
 
-Cette organisation est soumise pour avis aux comités d'hygiène et sécurité et aux comités techniques paritaires compétents.
+Cette organisation est soumise pour avis aux comités d'hygiène et sécurité et aux  comités techniques compétents.

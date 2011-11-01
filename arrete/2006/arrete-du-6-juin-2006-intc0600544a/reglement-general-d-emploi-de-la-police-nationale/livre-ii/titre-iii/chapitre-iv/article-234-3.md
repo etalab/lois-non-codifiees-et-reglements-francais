@@ -10,4 +10,4 @@ Dans le respect des dispositions communes ci-dessus du présent règlement gén�
 
 4. De certaines unités de coopération internationale policière placées au sein de la direction centrale de la police judiciaire.
 
-Les modalités d'organisation et de fonctionnement de ces services sont arrêtées après consultation des comités techniques paritaires compétents.
+Les modalités d'organisation et de fonctionnement de ces services sont arrêtées après consultation des  comités techniques compétents.

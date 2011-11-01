@@ -8,4 +8,4 @@ Une journée, le cas échéant fractionnée en deux demi-journées, est consacr�
 
 Sa date est déterminée par le chef d'établissement après consultation des équipes pédagogiques.
 
-2° Pour les autres personnels de la communauté éducative, la journée de solidarité prend la forme d'une journée ou d'une durée de travail de sept heures, continue ou fractionnée, effectuée aux dates déterminées par l'autorité responsable de l'organisation du service après consultation des personnels concernés et présentation du dispositif devant le comité technique paritaire local compétent.
+2° Pour les autres personnels de la communauté éducative, la journée de solidarité prend la forme d'une journée ou d'une durée de travail de sept heures, continue ou fractionnée, effectuée aux dates déterminées par l'autorité responsable de l'organisation du service après consultation des personnels concernés et présentation du dispositif devant le  comité technique local compétent.

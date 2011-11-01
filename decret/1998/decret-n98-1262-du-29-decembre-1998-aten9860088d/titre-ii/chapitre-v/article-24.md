@@ -1,14 +1,14 @@
 # Article 24
 
-Les sanctions disciplinaires sont prises par le directeur de l'Office national de la chasse. Celui-ci définit, après avis du comité technique paritaire central de l'établissement et dans le respect des dispositions de l'article 44 du décret du 17 janvier 1986 susvisé, les conditions d'organisation de la procédure disciplinaire et les modalités selon lesquelles un agent ayant commis une faute grave peut être suspendu.
+Les sanctions disciplinaires sont prises par le directeur de l'Office national de la chasse. Celui-ci définit, après avis du  comité technique central de l'établissement et dans le respect des dispositions de l'article 44 du décret du 17 janvier 1986 susvisé, les conditions d'organisation de la procédure disciplinaire et les modalités selon lesquelles un agent ayant commis une faute grave peut être suspendu.
 
 Afin de tenir compte des missions particulières des agents de l'Office national de la chasse, outre les sanctions prévues à l'article 43 du décret du 17 janvier 1986 susvisé, les sanctions suivantes sont susceptibles d'être appliquées :
 
-- l'abaissement d'échelon ;
+-l'abaissement d'échelon ;
 
-- le déplacement d'office ;
+-le déplacement d'office ;
 
-- le reclassement dans le groupe ou la classe immédiatement inférieur.
+-le reclassement dans le groupe ou la classe immédiatement inférieur.
 
 L'avertissement n'est pas inscrit au dossier de l'agent. Le blâme, inscrit au dossier, est effacé automatiquement de celui-ci au bout de trois ans, si aucune sanction n'est intervenue pendant cette période.
 

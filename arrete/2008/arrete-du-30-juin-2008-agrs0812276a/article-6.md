@@ -1,0 +1,3 @@
+# Article 6
+
+Le service de l'enseignement supérieur, de la recherche et de l'innovation définit les politiques de formation supérieure, recherche, innovation et développement. Il pilote et coordonne les actions du ministère qui permettent de favoriser l'innovation pour les secteurs économiques relevant du champ de compétences du ministère chargé de l'agriculture. Il veille à favoriser les liens, au travers de ces politiques, avec l'enseignement technique notamment dans l'exercice de la mission de développement, d'expérimentation et de recherche appliquée et des missions d'animation et de développement des territoires et de coopération internationale. Il organise le dialogue de gestion avec les établissements d'enseignement supérieur agricole publics.

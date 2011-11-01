@@ -8,4 +8,4 @@ Pour les fonctionnaires et agents non titulaires exerçant leurs fonctions dans 
 
 -soit d'une journée de sept heures prise sur un jour mentionné sur la liste des fêtes légales, à l'exception du 1er Mai.
 
-L'autorité responsable de l'organisation du service fixe les modalités différenciées de mise en oeuvre de la journée de solidarité dans les services et établissements du ministère de la culture après consultation des comités techniques paritaires compétents.
+L'autorité responsable de l'organisation du service fixe les modalités différenciées de mise en oeuvre de la journée de solidarité dans les services et établissements du ministère de la culture après consultation des comités techniques compétents.

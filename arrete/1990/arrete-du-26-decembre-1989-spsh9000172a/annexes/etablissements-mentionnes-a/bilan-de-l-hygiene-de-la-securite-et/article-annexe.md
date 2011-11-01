@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-**I. - Présentation de l'établissement.**
+**I.-Présentation de l'établissement.**
 
 1.1. Identification
 
@@ -18,50 +18,50 @@ Dans l'hypothèse où des comités d'hygiène, de sécurité et des conditions d
 
 1.2. Effectif
 
-1.2.1. Effectif du nombre d'agents couverts par le C.H.S.C.T.
+1.2.1. Effectif du nombre d'agents couverts par le C. H. S. C. T.
 
-ou par chacun des C.H.S.C.T. s'il existe plusieurs comités (1)
+ou par chacun des C. H. S. C. T. s'il existe plusieurs comités (1)
 
 <table>
 <tbody>
 <tr>
 <td/>
 <td>
-<p align="center">HOMMES</p>
+<p align="center">HOMMES </p>
 </td>
 <td>
-<p align="center">FEMMES</p>
+<p align="center">FEMMES </p>
 </td>
 <td>
-<p align="center">TOTAL</p>
+<p align="center">TOTAL </p>
 </td>
 <td>
 <p align="center">DONT </p>
-<p align="center">étrangers</p>
+<p align="center">étrangers </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Personnel médical : </p>
-<p>-praticiens hospitaliers (note 2)........................... </p>
-<p>-internes.................. </p>
+<p>Personnel médical :</p>
+<p>-praticiens hospitaliers (note 2)...........................</p>
+<p>-internes..................</p>
 <p>-sages-femmes.......... </p>
 <p>Personnel administratif </p>
 <p>Personnel soignant et éducatif </p>
 <p>Personnel technique </p>
-<p>Personnel médico-technique</p>
+<p>Personnel médico-technique </p>
 </td>
 <td rowspan="2">
-<pre> </pre>
+<pre/>
 </td>
 <td rowspan="2">
-<pre> </pre>
+<pre/>
 </td>
 <td rowspan="2">
-<pre> </pre>
+<pre/>
 </td>
 <td rowspan="2">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 </tbody>
@@ -69,7 +69,7 @@ ou par chacun des C.H.S.C.T. s'il existe plusieurs comités (1)
 
 1.2.2. Mouvements de personnel
 
-Nombre d'agents recrutés dans l'année dans l'établissement (s'il n'y a qu'un seul C.H.S.C.T.) ou affectés dans le secteur d'activité couvert par le C.H.S.C.T. (s'il existe plusieurs C.H.S.C.T.).
+Nombre d'agents recrutés dans l'année dans l'établissement (s'il n'y a qu'un seul C. H. S. C. T.) ou affectés dans le secteur d'activité couvert par le C. H. S. C. T. (s'il existe plusieurs C. H. S. C. T.).
 
 Nombre de départs dans l'année (pour quelque raison que ce soit, y compris détachement, disponibilité).
 
@@ -79,7 +79,7 @@ Nombre de journées travaillées par des entreprises extérieures sous-traitants
 
 Nombre d'heures travaillées par des entreprises extérieures participant occasionnellement.
 
-**II - Principaux indicateurs**
+**II-Principaux indicateurs**
 
 Ces données doivent être fournies par tous les établissements pour l'année concernée et pour chacune des deux années précédentes. A titre transitoire, pour le bilan 1989 (année concernée par le premier bilan à établir), les données 1987 et 1988 ne seront fournies que si elles sont disponibles, et de même pour le bilan 1990 en ce qui concerne les données 1988.
 
@@ -111,9 +111,9 @@ Nombre d'incapacités permanentes (partielles ou totales) reconnues au cours de 
 
 Nombre d'accidents mortels :
 
-- de travail ;
+-de travail ;
 
-- de trajet.
+-de trajet.
 
 Nombre d'accidents de trajet ayant entraîné un arrêt de travail.
 
@@ -165,31 +165,31 @@ Nombre d'agents ayant bénéficié tout au long de l'année de deux jours de rep
 
 Cette partie consacrée aux indicateurs peut être assortie d'un commentaire qui devrait notamment éclairer les actions d'information et de formation en matière de prévention.
 
-**III. - Faits saillants**
+**III.-Faits saillants**
 
 Etude des faits intervenus durant l'année écoulée, qui sont particulièrement significatifs pour le choix des priorités auxquelles devrait répondre le programme d'action mentionné à l'article L. 236-4 du code du travail.
 
-Lorsque la taille et la configuration de l'établissement ou du secteur couvert par le C.H.S.C.T. le justifient, il est possible de présenter cette troisième partie en regroupant les informations pour chacune des unités qui peuvent être distinguées selon la nature de leur activité.
+Lorsque la taille et la configuration de l'établissement ou du secteur couvert par le C. H. S. C. T. le justifient, il est possible de présenter cette troisième partie en regroupant les informations pour chacune des unités qui peuvent être distinguées selon la nature de leur activité.
 
 Doivent en premier lieu être mentionnés les faits survenus dans l'établissement qui sont liés à son activité et aux interventions de ses différents interlocuteurs sur les questions de l'hygiène, de la sécurité et des conditions de travail :
 
-- accidents graves, maladies professionnelles et imputables au service, accidents et incidents révélateurs des dangers encourus, même s'ils n'ont pas eu de conséquences graves pour les personnes (en présentant synthétiquement les enseignements à en tirer) ;
+-accidents graves, maladies professionnelles et imputables au service, accidents et incidents révélateurs des dangers encourus, même s'ils n'ont pas eu de conséquences graves pour les personnes (en présentant synthétiquement les enseignements à en tirer) ;
 
-- situations de danger grave et imminent qui ont motivé la mise en oeuvre des articles L. 231-8, L. 231-8-1 et L. 231-8-2 et L. 231-9 du code du travail ;
+-situations de danger grave et imminent qui ont motivé la mise en oeuvre des articles L. 231-8, L. 231-8-1 et L. 231-8-2 et L. 231-9 du code du travail ;
 
-- observations formulées par le médecin du travail, le service d'inspection du travail et le service de prévention de l'organisme de sécurité sociale compétent ;
+-observations formulées par le médecin du travail, le service d'inspection du travail et le service de prévention de l'organisme de sécurité sociale compétent ;
 
-- principales observations portées dans les rapports des organismes de contrôle technique et dans ceux des experts appelés par le C.H.S.C.T. en application de l'article L. 236-9 du code du travail.
+-principales observations portées dans les rapports des organismes de contrôle technique et dans ceux des experts appelés par le C. H. S. C. T. en application de l'article L. 236-9 du code du travail.
 
 Doivent en second lieu être indiquées les modifications intervenues dans l'établissement ayant des conséquences importantes dans le domaine de la sécurité et des conditions de travail :
 
-- introduction de nouvelles machines, de nouvelles techniques ou procédés de travail ;
+-introduction de nouvelles machines, de nouvelles techniques ou procédés de travail ;
 
-- modifications dans l'organisation du travail (modifications d'horaires, création ou suppression de certains services, réorganisation des postes de travail dans l'établissement).
+-modifications dans l'organisation du travail (modifications d'horaires, création ou suppression de certains services, réorganisation des postes de travail dans l'établissement).
 
 Les conséquences peuvent concerner les caractéristiques des postes de travail, leur environnement ainsi que l'organisation et le contenu du travail.
 
-**IV. - Moyens et actions**
+**IV.-Moyens et actions**
 
 Cette quatrième partie est consacrée au bilan des moyens et des actions de l'administration et du comité d'hygiène, de sécurité et des conditions de travail.
 
@@ -199,13 +199,13 @@ Le rapport mentionne :
 
 a) Les moyens spécialisés en prévention des risques et amélioration des conditions de travail :
 
-- personnel spécialisé pour la sécurité et l'amélioration des conditions de travail (quand il existe) ;
+-personnel spécialisé pour la sécurité et l'amélioration des conditions de travail (quand il existe) ;
 
-- sommes consacrées à la prévention des risques et à l'amélioration des conditions de travail (quand elles peuvent être isolées). Doivent être distingués les frais de personnel spécialisé, les investissements en matériel et les sommes consacrées à l'organisation des actions (10).
+-sommes consacrées à la prévention des risques et à l'amélioration des conditions de travail (quand elles peuvent être isolées). Doivent être distingués les frais de personnel spécialisé, les investissements en matériel et les sommes consacrées à l'organisation des actions (10).
 
 b) Les autres moyens :
 
-- description des actions visant à intégrer la composante sécurité et amélioration des conditions de travail dans la conception et le choix des bâtiments, installations, machines.
+-description des actions visant à intégrer la composante sécurité et amélioration des conditions de travail dans la conception et le choix des bâtiments, installations, machines.
 
 4.2. Le comité d'hygiène, de sécurité et des conditions de travail (11)
 
@@ -213,15 +213,15 @@ Moyens du secrétariat.
 
 Nombre de réunions :
 
-- nombre de réunions ordinaires ;
+-nombre de réunions ordinaires ;
 
-- nombre de réunions extraordinaires.
+-nombre de réunions extraordinaires.
 
-- à la demande des représentants du personnel ;
+-à la demande des représentants du personnel ;
 
-- à la suite d'un accident.
+-à la suite d'un accident.
 
-Nombre d'enquêtes menées par le C.H.S.C.T. (12).
+Nombre d'enquêtes menées par le C. H. S. C. T. (12).
 
 Nombre de cas de mise en oeuvre de la procédure prévue en cas de danger grave et imminent (13).
 
@@ -229,19 +229,19 @@ Nombre de cas de recours à un expert (14).
 
 Nombre de représentants du personnel formés (15).
 
-Nombre de consultations du C.H.S.C.T. avant une décision d'aménagement important (16).
+Nombre de consultations du C. H. S. C. T. avant une décision d'aménagement important (16).
 
 4.3. Actions menées et mise en oeuvre du programme
 
 Dans toute la mesure du possible, il convient de suivre l'ordre d'exécution du programme établi pour l'année écoulée au titre de l'article L. 236-4, même si des actions ont dû être ajoutées ou substituées à certaines qui étaient prévues, par exemple à la suite d'un accident. Faire apparaître clairement (par exemple dans une annexe récapitulative) les actions en cours au 31 décembre.
 
-Quel que soit l'ordre de présentation adopté, mentionner distinctement les actions de formation en matière d'hygiène, de sécurité et des conditions de travail (hors représentants du personnel au C.H.S.C.T.), soit :
+Quel que soit l'ordre de présentation adopté, mentionner distinctement les actions de formation en matière d'hygiène, de sécurité et des conditions de travail (hors représentants du personnel au C. H. S. C. T.), soit :
 
-- nombre total de personnels formés ;
+-nombre total de personnels formés ;
 
-- effectif formé à la prévention et à la sécurité dans l'année (17) ;
+-effectif formé à la prévention et à la sécurité dans l'année (17) ;
 
-- organismes de formation ayant assuré les formations.
+-organismes de formation ayant assuré les formations.
 
 **NOTES**
 
@@ -265,7 +265,7 @@ Quel que soit l'ordre de présentation adopté, mentionner distinctement les act
 
 (10) Avec la variation par rapport à l'année précédente, en pourcentage.
 
-(11) Ou, à défaut, dans les établissements comptant moins de 50 agents, les représentants du personnel au comité technique paritaire pour leur activité en matière d'hygiène, de sécurité et des conditions de travail.
+(11) Ou, à défaut, dans les établissements comptant moins de 50 agents, les représentants du personnel au  comité technique pour leur activité en matière d'hygiène, de sécurité et des conditions de travail.
 
 (12) Enquêtes menées en application des articles L. 236-2, 3e alinéa, et L. 236-7, 5e alinéa, du code du travail.
 

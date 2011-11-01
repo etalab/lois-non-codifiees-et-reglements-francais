@@ -18,7 +18,7 @@ Elle élabore les règles, méthodes et procédures visant à organiser le déro
 
 2° Elle est chargée des questions juridiques concernant les personnels qu'elle gère, notamment la préparation et l'application des dispositions statutaires et indemnitaires. Elle apporte son expertise aux gestionnaires des ressources humaines.
 
-Elle met en œuvre la politique de relations sociales et du dialogue social. A cet effet, elle organise les élections professionnelles et prépare et anime, sous réserve des compétences attribuées à d'autres services, les réunions des instances représentatives du personnel, notamment des comités techniques paritaires ministériel et central. Elle est informée de l'activité des comités techniques paritaires des services déconcentrés.
+Elle met en œuvre la politique de relations sociales et du dialogue social. A cet effet, elle organise les élections professionnelles et prépare et anime, sous réserve des compétences attribuées à d'autres services, les réunions des instances représentatives du personnel, notamment des  comités techniques ministériel et central. Elle est informée de l'activité des  comités techniques des services déconcentrés.
 
 Elle définit la répartition des compétences en matière d'actes de gestion des personnels entre services centraux et déconcentrés.
 

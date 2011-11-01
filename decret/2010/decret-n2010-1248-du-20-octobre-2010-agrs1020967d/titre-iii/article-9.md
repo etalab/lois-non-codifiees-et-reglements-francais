@@ -18,4 +18,4 @@ Peuvent être promus au troisième niveau du groupe I les agents du deuxième ni
 
 Peuvent être promus au quatrième niveau du groupe I les agents du troisième niveau de ce groupe ayant atteint au moins le 5e échelon.
 
-Une décision du comité des établissements employeurs fixe les critères de l'avancement de niveau et en précise les modalités d'organisation après avis du comité technique paritaire compétent.
+Une décision du comité des établissements employeurs fixe les critères de l'avancement de niveau et en précise les modalités d'organisation après avis du  comité technique compétent.

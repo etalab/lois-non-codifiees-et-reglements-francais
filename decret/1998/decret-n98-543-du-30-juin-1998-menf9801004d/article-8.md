@@ -4,19 +4,19 @@ La représentation des personnels au sein des commissions académiques ou de la 
 
 Pour chaque commission, sont constituées les sections suivantes :
 
-- première section : enseignement dans le premier degré ;
+-première section : enseignement dans le premier degré ;
 
-- deuxième section : disciplines d'enseignement général et technique, spécialités d'enseignement professionnel, éducation physique et sportive, enseignement bivalent comportant de l'éducation physique et sportive ;
+-deuxième section : disciplines d'enseignement général et technique, spécialités d'enseignement professionnel, éducation physique et sportive, enseignement bivalent comportant de l'éducation physique et sportive ;
 
-- troisième section : documentation, orientation, éducation, surveillance ;
+-troisième section : documentation, orientation, éducation, surveillance ;
 
-- quatrième section : inspection, direction.
+-quatrième section : inspection, direction.
 
 Chaque section comprend deux sièges de représentants des personnels.
 
-Les sièges de représentants des personnels à la commission nationale sont attribués aux organisations syndicales représentées au comité technique paritaire ministériel, compte tenu de leur représentativité acquise dans cette instance.
+Les sièges de représentants des personnels à la commission nationale sont attribués aux organisations syndicales représentées au  comité technique ministériel, compte tenu de leur représentativité acquise dans cette instance.
 
-Les sièges de représentants des personnels à une commission académique sont attribués aux organisations syndicales représentées au comité technique paritaire académique concerné, compte tenu de leur représentativité acquise dans cette instance.
+Les sièges de représentants des personnels à une commission académique sont attribués aux organisations syndicales représentées au  comité technique académique concerné, compte tenu de leur représentativité acquise dans cette instance.
 
 Les organisations syndicales choisissent les sièges qu'elles souhaitent se voir attribuer, successivement, dans l'ordre décroissant du nombre de sièges qu'elles ont obtenus. Elles ne peuvent d'emblée prétendre à plus d'un siège par section.
 

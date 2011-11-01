@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué un comité technique paritaire central auprès :
+Il est institué un  comité technique central auprès :
 
 -du chancelier de l'Institut de France ;
 

@@ -4,4 +4,4 @@ Chacun des agents mentionnés au premier alinéa de l'article 1er fait l'objet d
 
 L'intéressé a communication du compte rendu de l'entretien d'évaluation. Dans un délai de deux mois après notification de celui-ci, il peut en demander l'évocation devant la commission consultative paritaire qui a la possibilité de proposer le réexamen des conclusions de l'entretien.
 
-La périodicité, les modalités et les critères de l'évaluation individuelle sont fixés par le directeur général après consultation du comité technique paritaire.
+La périodicité, les modalités et les critères de l'évaluation individuelle sont fixés par le directeur général après consultation du  comité technique.

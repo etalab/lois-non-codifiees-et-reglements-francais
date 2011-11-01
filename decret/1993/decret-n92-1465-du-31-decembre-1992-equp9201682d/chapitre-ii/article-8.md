@@ -16,6 +16,6 @@ La convention d'activités intitulée " Convention relative à la mise à dispos
 
 En cas de prorogation de la date d'expiration de la convention par défaut d'avenant, la nature et le volume des prestations à réaliser restent identiques à ceux de la dernière année d'application prévue contractuellement. La participation dont est redevable en contrepartie le département doit être ajustée ultérieurement selon l'évolution des dépenses correspondantes de fonctionnement, d'équipement, d'heures supplémentaires et d'indemnités demeurant à la charge de la collectivité départementale.
 
-Le projet de convention est soumis pour avis au comité technique paritaire du service déconcentré de l'équipement concerné. Il en est de même des projets annuels d'avenant.
+Le projet de convention est soumis pour avis au  comité technique du service déconcentré de l'équipement concerné. Il en est de même des projets annuels d'avenant.
 
 Un modèle de convention relative à la mise à disposition des services de l'équipement est annexé au présent décret.

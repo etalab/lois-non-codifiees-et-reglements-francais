@@ -1,6 +1,6 @@
 # Article 13
 
-Le président du musée national Picasso - Paris dirige l'établissement public.
+Le président du musée national Picasso-Paris dirige l'établissement public.
 
 A ce titre :
 
@@ -18,7 +18,7 @@ A ce titre :
 
 7° Il a autorité sur l'ensemble des services de l'établissement. Il gère le personnel. Il recrute les personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires à l'établissement. Il affecte les personnels dans les différents services de l'établissement ;
 
-8° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ;
+8° Il préside le  comité technique et le comité d'hygiène et de sécurité ;
 
 9° Il signe les contrats engageant l'établissement ;
 

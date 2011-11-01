@@ -22,6 +22,6 @@ Le président dirige l'établissement public. A ce titre :
 
 10° Il conclut les transactions et passe les actes d'acquisition, d'échanges et de vente concernant les immeubles, autorisés dans les conditions prévues à l'article 17 ;
 
-11° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+11° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.

@@ -56,11 +56,11 @@ c) Trente-quatre personnalités à compétence locale ;
 
 -quatre représentants d'associations agréées pour la protection de l'environnement, nommés sur proposition du préfet de la Réunion ;
 
--trois représentants respectivement de la chambre d'agriculture, de la chambre des métiers et de la      chambre de commerce et d'industrie territoriale ;
+-trois représentants respectivement de la chambre d'agriculture, de la chambre des métiers et de la chambre de commerce et d'industrie territoriale ;
 
 -un représentant de l'organisme régional chargé du tourisme de la Réunion ;
 
--deux personnalités compétentes en matière de tourisme, nommées sur proposition de la      chambre de commerce et d'industrie territoriale ;
+-deux personnalités compétentes en matière de tourisme, nommées sur proposition de la chambre de commerce et d'industrie territoriale ;
 
 -trois personnalités compétentes en matière d'artisanat, nommées sur proposition de la chambre de métiers ;
 
@@ -98,7 +98,7 @@ d) Trois personnalités à compétence nationale ou représentant des organismes
 
 -un représentant de l'Office national des forêts.
 
-4° D'un représentant du personnel élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique paritaire de l'établissement.
+4° D'un représentant du personnel élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au  comité technique de l'établissement.
 
 II.-Les membres mentionnés aux 1° et 2° du I du présent article peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent ou un élu de la même assemblée délibérante.
 

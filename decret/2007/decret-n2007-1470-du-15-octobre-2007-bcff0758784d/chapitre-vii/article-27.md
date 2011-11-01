@@ -14,4 +14,4 @@ Si une demande de congé de formation professionnelle présentée par un fonctio
 
 La satisfaction de la demande peut être différée, après avis de la commission administrative paritaire, lorsqu'elle aboutirait à l'absence simultanée, au titre du congé de formation professionnelle, de plus de 5 % des agents du service ou de plus d'un agent si le service en compte moins de dix. Dans les autres cas, il est donné satisfaction à la demande dans le délai d'un an à compter de la saisine de la commission administrative paritaire.
 
-Les comités techniques paritaires sont informés chaque année du nombre des demandes formulées et des congés attribués au titre de la formation personnelle.
+Les  comités techniques sont informés chaque année du nombre des demandes formulées et des congés attribués au titre de la formation personnelle.

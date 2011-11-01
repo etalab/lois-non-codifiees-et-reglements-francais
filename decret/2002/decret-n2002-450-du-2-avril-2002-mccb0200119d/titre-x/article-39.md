@@ -1,0 +1,5 @@
+# Article 39
+
+Les salariés qui, à la date d'effet du décret du 16 janvier 2002 susvisé, exercent des fonctions correspondant à celles définies au dernier alinéa de l'article 1er sont maintenus dans leurs fonctions et bénéficient d'un contrat à durée indéterminée de droit public dans les conditions précisées au titre IX du présent décret. Ils ne sont pas astreints à la période d'essai prévue à l'article 33 du présent décret. Ils conservent la rémunération qui était la leur à l'Association pour les fouilles archéologiques nationales.
+
+Les salariés classés hors classe par l'Association pour les fouilles archéologiques nationales qui, à la date d'effet du décret du 16 janvier 2002 susvisé, n'exerçaient pas des fonctions définies au dernier alinéa de l'article 1er du présent décret, sont intégrés dans l'une des filières mentionnées à l'article 3 à un échelon leur assurant une rémunération égale ou, à défaut, immédiatement supérieure à celle qui était la leur à la date d'effet du décret du 16 janvier 2002 susvisé.

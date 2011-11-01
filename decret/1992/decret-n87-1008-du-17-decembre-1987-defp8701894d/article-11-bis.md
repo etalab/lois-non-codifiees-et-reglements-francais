@@ -4,12 +4,12 @@ Les dispositions du présent décret sont applicables aux ouvriers de l'Etat en 
 
 Ce conseil est composé comme suit :
 
-- le directeur de l'établissement ou son représentant, président ;
+-le directeur de l'établissement ou son représentant, président ;
 
-- un officier ou fonctionnaire de catégorie A en fonction dans l'établissement, membre ;
+-un officier ou fonctionnaire de catégorie A en fonction dans l'établissement, membre ;
 
-- deux ouvriers en fonction dans l'établissement, membres.
+-deux ouvriers en fonction dans l'établissement, membres.
 
-Les membres représentant le personnel sont désignés par les syndicats les plus représentatifs au vu des élections organisées pour constituer le comité technique paritaire de l'établissement.
+Les membres représentant le personnel sont désignés par les syndicats les plus représentatifs au vu des élections organisées pour constituer le  comité technique de l'établissement.
 
 Après consultation obligatoire de ce conseil et quel que soit l'avis émis, les sanctions sont prononcées par le directeur de l'établissement.

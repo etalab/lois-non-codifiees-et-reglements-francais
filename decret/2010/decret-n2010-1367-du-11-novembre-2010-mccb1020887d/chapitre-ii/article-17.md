@@ -32,7 +32,7 @@ A ce titre :
 
 14° Il assure la police de la circulation des voies et chemins des domaines remis en dotation ou mis à disposition de l'établissement ;
 
-15° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+15° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.
 

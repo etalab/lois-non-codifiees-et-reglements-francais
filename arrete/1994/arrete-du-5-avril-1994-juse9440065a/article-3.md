@@ -20,7 +20,7 @@ un directeur de probation ;
 
 deux personnalités extérieures qualifiées en matière de formation.
 
-3° Six représentants désignés par les organisations syndicales selon la répartition des sièges au comité technique paritaire régional.
+3° Six représentants désignés par les organisations syndicales selon la répartition des sièges au comité technique régional.
 
 Par ailleurs, le directeur interrégional peut faire appel, en tant que de besoin, à des experts, notamment à des représentants du directeur de l'Ecole nationale d'administration pénitentiaire, ainsi qu'à des fonctionnaires affectés dans les établissements et services pénitentiaires de la région, choisis au sein des différentes catégories de personnels.
 

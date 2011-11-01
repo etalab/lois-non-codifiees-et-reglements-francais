@@ -1,0 +1,3 @@
+# Article 3
+
+Le service de l'enseignement technique définit et met en œuvre les politiques de l'enseignement technique agricole, en termes de formation et de pilotage des établissements publics locaux et des établissements privés sous contrat dans le cadre d'un dialogue avec les services déconcentrés, les collectivités territoriales, les filières professionnelles et les fédérations de l'enseignement privé. Le service organise le dialogue de gestion avec les services déconcentrés. Il veille à ce que les établissements publics locaux s'impliquent dans l'ensemble des missions dévolues à l'enseignement agricole.

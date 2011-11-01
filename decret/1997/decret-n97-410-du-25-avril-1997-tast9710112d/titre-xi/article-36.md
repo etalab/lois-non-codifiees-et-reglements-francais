@@ -8,6 +8,6 @@ Les agents antérieurement dénommés intervenants juniors sont reclassés comme
 
 Les agents antérieurement dénommés assistants techniques et administratifs sont reclassés comme contractuels B et les agents antérieurement dénommés agents administratifs comme contractuels C.
 
-Les secrétaires de département seront progressivement reclassés entre les commissions administratives paritaires 1996 et 2000, et selon des critères définis par le directeur général après avis du comité technique paritaire, comme contractuels du niveau de la catégorie B, par transformation d'emploi au fur et à mesure des disponibilités budgétaires.
+Les secrétaires de département seront progressivement reclassés entre les commissions administratives paritaires 1996 et 2000, et selon des critères définis par le directeur général après avis du  comité technique, comme contractuels du niveau de la catégorie B, par transformation d'emploi au fur et à mesure des disponibilités budgétaires.
 
 Les contractuels du niveau de la catégorie A reclassés comme chargés de mission groupe 2 ou comme responsables de département sont soumis à une procédure d'évaluation approfondie dans les trois ans suivant leur reclassement.

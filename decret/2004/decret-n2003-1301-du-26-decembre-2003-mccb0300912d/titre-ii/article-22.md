@@ -22,6 +22,6 @@ A ce titre :
 
 9° Il a autorité sur l'ensemble des personnels de l'établissement et les affecte dans les différents services ;
 
-10° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité.
+10° Il préside le  comité technique et le comité d'hygiène et de sécurité.
 
 Il rend compte de sa gestion au conseil d'administration.

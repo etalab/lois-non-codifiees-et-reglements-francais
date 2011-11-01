@@ -4,7 +4,7 @@ I.-Les établissements et services du secteur public de la protection judiciaire
 
 A l'exception des services éducatifs en établissement pénitentiaire spécialisé pour mineurs, la création, l'extension ou la transformation des établissements et des services est préalablement soumise à autorisation du préfet conformément aux modalités prévues aux articles L. 313-1 et suivants du code de l'action sociale et des familles.
 
-II.-Le        directeur interrégional de la protection judiciaire de la jeunesse propose la création, la transformation ou la suppression des établissements, des services et des unités éducatives ou donne son avis sur ces projets. Le comité technique paritaire départemental ou, à défaut, le comité technique paritaire régional compétent est consulté au préalable.
+II.-Le directeur interrégional de la protection judiciaire de la jeunesse propose la création, la transformation ou la suppression des établissements, des services et des unités éducatives ou donne son avis sur ces projets. Le  comité technique départemental ou, à défaut, le  comité technique régional compétent est consulté au préalable.
 
 Le projet ou la proposition doit :
 

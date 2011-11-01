@@ -8,6 +8,6 @@ Le compte rendu de l'entretien individuel d'évaluation est établi par le supé
 
 Ce compte rendu est communiqué à l'agent qui, le cas échéant, le complète par ses observations sur ses besoins de formation et sur ses perspectives de carrière et de mobilité. Il est signé par le fonctionnaire et versé à son dossier.
 
-La périodicité de l'entretien individuel d'évaluation, son contenu et ses modalités d'organisation sont fixés par corps ou groupe de corps, après avis du comité technique paritaire de l'établissement, par décision du directeur de l'INED.
+La périodicité de l'entretien individuel d'évaluation, son contenu et ses modalités d'organisation sont fixés par corps ou groupe de corps, après avis du  comité technique de l'établissement, par décision du directeur de l'INED.
 
 Les résultats de l'évaluation sont pris en compte dans la gestion de la carrière, la mobilité et la formation du fonctionnaire.

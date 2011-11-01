@@ -4,7 +4,7 @@ I. ― Pour l'exercice de ses attributions, le secrétaire général dispose d'u
 
 Le secrétariat général comprend une direction des ressources humaines, chargée de la mise en œuvre des missions mentionnées à l'article 2. Le directeur des ressources humaines assiste le secrétaire général pour l'ensemble de ses attributions. Il le remplace en cas d'absence ou d'empêchement.
 
-II. ― Le secrétaire général peut présider, en qualité de représentant des ministres, le comité technique paritaire ministériel unique et commun aux ministères.
+II. ― Le secrétaire général peut présider, en qualité de représentant des ministres, le  comité technique ministériel unique et commun aux ministères.
 
 Il préside le comité des directeurs qui réunit les directeurs généraux et directeurs des ministères.
 

@@ -1,6 +1,6 @@
 # Article 18
 
-Le directeur général établit, après avis du comité technique paritaire, une liste des emplois correspondant, en termes de qualification et de responsabilité, aux catégories d'emplois énumérées ci-dessous :
+Le directeur général établit, après avis du  comité technique, une liste des emplois correspondant, en termes de qualification et de responsabilité, aux catégories d'emplois énumérées ci-dessous :
 
 1° Les employés administratifs effectuent des tâches de gestion et d'exécution courantes. Cette catégorie d'emplois comporte quatorze échelons dont trois échelons exceptionnels.
 

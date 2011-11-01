@@ -1,6 +1,6 @@
 # Article 5
 
-Par dérogation à l'article 9 du décret du 28 mai 1982 susvisé, la durée des mandats des membres des comités techniques paritaires suivants est prorogée jusqu'au 16 mai 2010 :
+Par dérogation à l'article 9 du décret du 28 mai 1982 susvisé, la durée des mandats des membres des  comités techniques suivants est prorogée jusqu'au 16 mai 2010 :
 
 1° Comités techniques paritaires ministériels dont la liste est annexée au présent décret (annexe 1) ;
 

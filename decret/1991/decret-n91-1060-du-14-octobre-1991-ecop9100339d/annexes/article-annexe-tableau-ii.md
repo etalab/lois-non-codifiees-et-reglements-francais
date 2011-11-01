@@ -6,8 +6,8 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 <tbody>
 <tr>
 <td valign="top" width="614">
-<p align="center">DÉFINITION DE L'EMPLOI</p>
-<p align="center">justifiant de l'obtention de la nouvelle bonification indiciaire</p>
+<p align="center">DÉFINITION DE L'EMPLOI </p>
+<p align="center">justifiant de l'obtention de la nouvelle bonification indiciaire </p>
 </td>
 </tr>
 <tr>
@@ -27,27 +27,27 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>4° Responsable du secrétariat : </p>
-<p>- procureur général ; </p>
-<p>- du premier avocat général ;</p>
-<p>- des avocats généraux.</p>
+<p>4° Responsable du secrétariat :</p>
+<p>-procureur général ;</p>
+<p>-du premier avocat général ;</p>
+<p>-des avocats généraux. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>5° Responsable du secrétariat : </p>
-<p>- du premier président ;</p>
-<p>- du secrétaire général ;</p>
-<p>- des secrétaires généraux adjoints. </p>
+<p>5° Responsable du secrétariat :</p>
+<p>-du premier président ;</p>
+<p>-du secrétaire général ;</p>
+<p>-des secrétaires généraux adjoints. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>6° Responsable du secrétariat : </p>
-<p>- des 1re et 2e chambres ;</p>
-<p>- de la 3e chambre ;</p>
-<p>- des 4e et 5e chambres ;</p>
-<p>- des 6e et 7e chambres. </p>
+<p>6° Responsable du secrétariat :</p>
+<p>-des 1re et 2e chambres ;</p>
+<p>-de la 3e chambre ;</p>
+<p>-des 4e et 5e chambres ;</p>
+<p>-des 6e et 7e chambres. </p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>8° Responsable du secrétariat administratif du service informatique.</p>
+<p>8° Responsable du secrétariat administratif du service informatique. </p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>40°  Chargé de l'organisation des comités d'hygiène et de sécurité et des  comités techniques paritaires des juridictions financières. </p>
+<p>40° Chargé de l'organisation des comités d'hygiène et de sécurité et des  comités techniques des juridictions financières. </p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>47°  Adjoint à la documentaliste responsable de la division Communication  interne - documentation des chambres régionales des comptes au service  de la communication, de la documentation et des archives. </p>
+<p>47°  Adjoint à la documentaliste responsable de la division Communication  interne-documentation des chambres régionales des comptes au service de  la communication, de la documentation et des archives. </p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ Attribution de la nouvelle bonification indiciaire à la Cour des comptes
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>49°  Responsable de la gestion budgétaire et administrative des stages de  formation professionnelle des juridictions financières (magistrats et  personnels administratifs). </p>
+<p>49°  Responsable de la gestion budgétaire et administrative des stages de  formation professionnelle des juridictions financières (magistrats et  personnels administratifs).</p>
 </td>
 </tr>
 </tbody>

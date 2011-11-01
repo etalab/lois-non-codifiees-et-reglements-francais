@@ -2,7 +2,7 @@
 
 La sous-direction A (Ressources humaines, relations sociales et organisation) comprend trois bureaux :
 
-Le bureau A/1. - Politique générale du personnel
+Le bureau A/1.-Politique générale du personnel
 
 Il est chargé de la politique du personnel, du recrutement, de la formation professionnelle, de la discipline et de la déontologie, de la modernisation et de la réforme de l'Etat, des rémunérations et des régimes indemnitaires, ainsi que de la réglementation des congés.
 
@@ -12,7 +12,7 @@ Il assure le suivi des relations sociales et traite des questions relatives à l
 
 Il est responsable des questions de principe liées à la constitution ainsi qu'à l'organisation et au fonctionnement des organismes paritaires.
 
-Le bureau A/2. - Gestion du personnel
+Le bureau A/2.-Gestion du personnel
 
 Il est chargé de la gestion directe des actes relatifs à la carrière des personnels des douanes : nominations, titularisations, avancements, mutations, positions statutaires, retraites.
 
@@ -26,13 +26,13 @@ Il est chargé de la politique d'action sociale en faveur des personnels.
 
 Les personnels chargés de la surveillance du ministère et des services communs à l'administration centrale lui sont rattachés.
 
-Le bureau A/3. - Organisation, suivi de l'activité et animation des services
+Le bureau A/3.-Organisation, suivi de l'activité et animation des services
 
 Il est chargé de l'organisation de l'ensemble des services de la direction générale des douanes et droits indirects.
 
 Il en définit les missions et fixe les objectifs de la politique d'implantation territoriale des services. Il évalue la charge de travail et détermine la répartition des effectifs.
 
-Il prépare et assure le suivi des comités techniques paritaires et des comités hygiène et sécurité.
+Il prépare et assure le suivi des  comités techniques et des comités hygiène et sécurité.
 
 Il définit les méthodes de travail ainsi que la doctrine d'emploi des personnels de l'administration générale, des services des opérations commerciales et de la surveillance.
 

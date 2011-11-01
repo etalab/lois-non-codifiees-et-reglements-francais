@@ -1,6 +1,6 @@
 # Article 13
 
-Le bureau de vote comptabilise l'ensemble des votes portés sur les organisations syndicales en présence. Il détermine ensuite le quotient électoral en divisant le nombre de suffrages valablement exprimés par le nombre de représentants titulaires du personnel au sein du comité technique paritaire central. Chaque organisation syndicale s'étant présentée a droit à autant de sièges de représentants titulaires du personnel que le nombre de voix recueillies par elle contient de fois le quotient électoral.
+Le bureau de vote comptabilise l'ensemble des votes portés sur les organisations syndicales en présence. Il détermine ensuite le quotient électoral en divisant le nombre de suffrages valablement exprimés par le nombre de représentants titulaires du personnel au sein du  comité technique central. Chaque organisation syndicale s'étant présentée a droit à autant de sièges de représentants titulaires du personnel que le nombre de voix recueillies par elle contient de fois le quotient électoral.
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont répartis suivant la règle de la plus forte moyenne.
 

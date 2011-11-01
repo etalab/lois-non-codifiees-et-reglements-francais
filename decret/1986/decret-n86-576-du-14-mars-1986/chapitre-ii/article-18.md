@@ -10,4 +10,4 @@ Ce compte rendu est communiqué à l'agent qui, le cas échéant, le complète p
 
 Les résultats de cette évaluation sont pris en compte dans la gestion de la carrière, la mobilité et la formation du fonctionnaire.
 
-La périodicité de l'entretien d'activité et d'évolution de carrière, son contenu et ses modalités d'organisation ainsi que la forme détaillée du compte rendu sont fixés par corps ou groupe de corps, après avis du comité technique paritaire compétent, par décision du président de l'INRIA.
+La périodicité de l'entretien d'activité et d'évolution de carrière, son contenu et ses modalités d'organisation ainsi que la forme détaillée du compte rendu sont fixés par corps ou groupe de corps, après avis du comité technique compétent, par décision du président de l'INRIA.

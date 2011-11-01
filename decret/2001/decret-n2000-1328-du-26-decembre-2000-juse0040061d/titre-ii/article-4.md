@@ -4,36 +4,36 @@ Le conseil d'administration comprend, outre le président nommé par décret, su
 
 a) Six membres de droit :
 
-- le directeur de l'administration pénitentiaire ;
+-le directeur de l'administration pénitentiaire ;
 
-- un représentant du ministre chargé de l'emploi et de la formation professionnelle ;
+-un représentant du ministre chargé de l'emploi et de la formation professionnelle ;
 
-- un représentant du ministre chargé de la santé ;
+-un représentant du ministre chargé de la santé ;
 
-- un représentant du ministre de l'éducation nationale ;
+-un représentant du ministre de l'éducation nationale ;
 
-- un représentant du ministre de l'intérieur ;
+-un représentant du ministre de l'intérieur ;
 
-- un représentant du ministre de la défense.
+-un représentant du ministre de la défense.
 
 b) Quatre fonctionnaires des services déconcentrés de l'administration pénitentiaire :
 
-- un directeur interrégional des services pénitentiaires ;
+-un directeur interrégional des services pénitentiaires ;
 
-- un directeur des services pénitentiaires d'insertion et de probation ;
+-un directeur des services pénitentiaires d'insertion et de probation ;
 
-- deux fonctionnaires exerçant en établissement pénitentiaire dont un chef d'établissement.
+-deux fonctionnaires exerçant en établissement pénitentiaire dont un chef d'établissement.
 
 c) Trois personnalités extérieures choisies en raison de leurs compétences.
 
 d) Trois délégués titulaires et trois délégués suppléants élus par les élèves en cours de scolarité à l'Ecole nationale d'administration pénitentiaire répartis en trois collèges :
 
-- personnel de surveillance ;
+-personnel de surveillance ;
 
-- personnel socio-éducatif ;
+-personnel socio-éducatif ;
 
-- personnel de direction.
+-personnel de direction.
 
-e) Un représentant du personnel désigné par chacune des organisations syndicales siégeant au comité technique paritaire central de l'administration pénitentiaire ; en cas de nouvelles consultations du personnel des services pénitentiaires, la liste des représentants peut faire l'objet, le cas échéant, de modifications.
+e) Un représentant du personnel désigné par chacune des organisations syndicales siégeant au  comité technique central de l'administration pénitentiaire ; en cas de nouvelles consultations du personnel des services pénitentiaires, la liste des représentants peut faire l'objet, le cas échéant, de modifications.
 
 f) Deux représentants titulaires et deux représentants suppléants élus par le personnel de l'école.
