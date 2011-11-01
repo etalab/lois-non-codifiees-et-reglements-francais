@@ -6,7 +6,7 @@ A ce titre, elle est notamment chargée :
 
 ― d'assurer la gestion de proximité des agents affectés à la délégation (gestion prévisionnelle des emplois, suivi des équivalents temps plein, préparation des cycles de mobilité, propositions d'avancement, évaluation des agents, proposition des primes et indemnités...) ;
 
-― d'organiser le dialogue social (comité technique paritaire spécial, commission locale de formation...), d'élaborer le plan de formation et d'assurer la maîtrise d'ouvrage des formations métiers correspondantes ;
+― d'organiser le dialogue social (  comité technique spécial, commission locale de formation...), d'élaborer le plan de formation et d'assurer la maîtrise d'ouvrage des formations métiers correspondantes ;
 
 ― d'assister les unités de la délégation dans la préparation, la conclusion et l'exécution des marchés et conventions relatifs aux domaines de compétence de la délégation, dans la limite des attributions dévolues au service des prestations communes du secrétariat général du ministère ;
 
