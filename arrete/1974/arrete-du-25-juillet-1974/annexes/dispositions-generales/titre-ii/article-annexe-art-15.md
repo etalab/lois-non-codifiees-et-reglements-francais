@@ -1,6 +1,6 @@
 # Article ANNEXE art. 15
 
-Des consignes doivent être établies par le chef d'établissement en collaboration avec le comité d'hygiène et de sécurité ou à défaut les délégués du personnel en ce qui concerne la conduite des appareils. Des extraits de celles-ci doivent être affichés à chaque poste de travail. Ces derniers doivent préciser notamment :
+Des consignes doivent être établies par le chef d'établissement en collaboration avec le      comité d'hygiène, de sécurité et des conditions de travail  ou à défaut les délégués du personnel en ce qui concerne la conduite des appareils. Des extraits de celles-ci doivent être affichés à chaque poste de travail. Ces derniers doivent préciser notamment :
 
 a) La nature des oléagineux à traiter suivant l'appareil ;
 

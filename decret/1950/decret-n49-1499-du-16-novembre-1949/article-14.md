@@ -1,6 +1,6 @@
 # Article 14
 
-Un registre spécial mis constamment à jour et tenu à la disposition de l'inspecteur du Travail ainsi que du Comité d'Hygiène et de Sécurité ou, à défaut, des délégués du personnel mentionne pour chaque ouvrier [*mentions obligatoires*] :
+Un registre spécial mis constamment à jour et tenu à la disposition de l'inspecteur du Travail ainsi que du Comité d'Hygiène, de Sécurité et des conditions de travail ou, à défaut, des délégués du personnel mentionne pour chaque ouvrier :
 
 1° Les dates et durées d'absence pour cause de maladie quelconque ;
 

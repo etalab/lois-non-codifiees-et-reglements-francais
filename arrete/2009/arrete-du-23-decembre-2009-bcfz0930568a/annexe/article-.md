@@ -1,7 +1,5 @@
 # Article 
 
-A N N E X E
-
 TITRE Ier
 
 DE LA FORMATION DES ÉLÈVES ISSUS DES CONCOURS
@@ -54,7 +52,9 @@ Les élèves sont affectés en stage pour chaque module par décision du directe
 
 Les stages effectués dans le cadre des modules sont d'une durée au moins égale à quatorze semaines.
 
-L'affectation en stage des élèves est accompagnée d'une lettre de cadrage adressée par le directeur de l'Ecole au maître de stage. Cette lettre indique quels sont les objectifs recherchés par l'Ecole ainsi que les critères de l'évaluation des stagiaires.
+L'affectation en stage des élèves est accompagnée d'une lettre de cadrage adressée par le directeur de l'Ecole au maître de stage.
+
+Cette lettre indique quels sont les objectifs recherchés par l'Ecole ainsi que les critères de l'évaluation des stagiaires.
 
 Durant les stages, les élèves sont placés sous l'autorité des administrateurs, des chefs de service et des dirigeants des entreprises ou des organismes auprès desquels ils les accomplissent.
 
@@ -134,7 +134,7 @@ Un jury composé d'une ou plusieurs personnalités qualifiées désignées par l
 
 Article 13
 
-Le module « Europe » donne lieu à l'attribution de trois notes, selon les modalités suivantes :
+Le module " Europe " donne lieu à l'attribution de trois notes, selon les modalités suivantes :
 
 ― stage ;
 
@@ -144,7 +144,7 @@ Le module « Europe » donne lieu à l'attribution de trois notes, selon les mod
 
 Article 14
 
-Le module « Territoires » donne lieu à l'attribution de trois notes selon les modalités suivantes :
+Le module " Territoires " donne lieu à l'attribution de trois notes selon les modalités suivantes :
 
 ― stage ;
 
@@ -154,7 +154,7 @@ Le module « Territoires » donne lieu à l'attribution de trois notes selon les
 
 Article 15
 
-Le module « Gestion et management publics » donne lieu à l'attribution de quatre notes selon les modalités suivantes :
+Le module " Gestion et management publics " donne lieu à l'attribution de quatre notes selon les modalités suivantes :
 
 ― stage ;
 
@@ -174,44 +174,28 @@ Les activités sportives sont évaluées par une note de travaux.
 
 Article 18
 
-<div>
-<br/> Les stages, les travaux et les épreuves sont notés de 0 à 10 par demi-point.<br/> Les coefficients affectés aux stages, travaux et épreuves sont définis selon le tableau suivant :<br/>
+Les stages, les travaux et les épreuves sont notés de 0 à 10 par demi-point.
+
+Les coefficients affectés aux stages, travaux et épreuves sont définis selon le tableau suivant :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<td align="center">
-<br/>EUROPE</td>
-<td align="center">
-<br/>Stage</td>
-<td align="center">
-<br/>13</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">EUROPE <br/>
 </td>
-<td align="center">
-<br/>Epreuve écrite individuelle</td>
-<td align="center">
-<br/>
+<td align="center">Stage <br/>
+</td>
+<td align="center">13 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Note sur dossier de mise en situation</td>
-<td align="center">
-<br/>7</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">Epreuve écrite individuelle <br/>
 </td>
-<td align="center">
-<br/>Epreuve écrite collective</td>
 <td align="center">
 <br/>
 </td>
@@ -220,34 +204,17 @@ Article 18
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Thème d'observation</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Note sur dossier de mise en situation <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>SOUS-TOTAL</td>
-<td align="center">
-<br/>27</td>
-</tr>
-<tr>
-<td align="center">
-<br/>TERRITOIRES</td>
-<td align="center">
-<br/>Stage</td>
-<td align="center">
-<br/>17</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">Epreuve écrite collective <br/>
 </td>
-<td align="center">
-<br/>Epreuve orale</td>
 <td align="center">
 <br/>
 </td>
@@ -256,16 +223,34 @@ Article 18
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Simulation collective accompagnée d'une conclusion écrite</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Thème d'observation <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+</td>
+<td align="center">SOUS-TOTAL <br/>
+</td>
+<td align="center">27 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">TERRITOIRES <br/>
+</td>
+<td align="center">Stage <br/>
+</td>
+<td align="center">17 <br/>
+</td>
+</tr>
+<tr>
 <td align="center">
-<br/>Epreuve écrite individuelle</td>
+<br/>
+</td>
+<td align="center">Epreuve orale <br/>
+</td>
 <td align="center">
 <br/>
 </td>
@@ -274,50 +259,17 @@ Article 18
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Epreuve écrite individuelle répondant à une commande pratique portant sur un sujet économique et social</td>
-<td align="center">
-<br/>7</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>SOUS-TOTAL</td>
-<td align="center">
-<br/>31</td>
-</tr>
-<tr>
-<td align="center">
-<br/>MANAGEMENT ET<br/>GESTION PUBLICS</td>
-<td align="center">
-<br/>Stage en entreprise</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Simulation collective accompagnée d'une conclusion écrite <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Epreuve écrite individuelle</td>
-<td align="center">
-<br/>
+<td align="center">Epreuve écrite individuelle <br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Dossier d'analyse et de rédaction de texte juridique</td>
-<td align="center">
-<br/>7</td>
-</tr>
-<tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Epreuve écrite individuelle</td>
 <td align="center">
 <br/>
 </td>
@@ -326,16 +278,34 @@ Article 18
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>Dossier de gestion économique et financière</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Epreuve écrite individuelle répondant à une commande pratique portant sur un sujet économique et social <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+</td>
+<td align="center">SOUS-TOTAL <br/>
+</td>
+<td align="center">31 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">MANAGEMENT ET <br/>GESTION PUBLICS <br/>
+</td>
+<td align="center">Stage en entreprise <br/>
+</td>
+<td align="center">9 <br/>
+</td>
+</tr>
+<tr>
 <td align="center">
-<br/>Epreuves orales individuelles de management appliqué</td>
+<br/>
+</td>
+<td align="center">Epreuve écrite individuelle <br/>
+</td>
 <td align="center">
 <br/>
 </td>
@@ -344,56 +314,95 @@ Article 18
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>(organisation en projet, fixation d'objectifs, évaluation d'une performance...)</td>
-<td align="center">
-<br/>8</td>
+<td align="center">Dossier d'analyse et de rédaction de texte juridique <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+</td>
+<td align="center">Epreuve écrite individuelle <br/>
+</td>
 <td align="center">
-<br/>SOUS-TOTAL</td>
-<td align="center">
-<br/>31</td>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Langues étrangères</td>
-<td align="center">
-<br/>― première langue<br/>― deuxième langue</td>
-<td align="center">
-<br/>6<br/>4</td>
+<br/>
+</td>
+<td align="center">Dossier de gestion économique et financière <br/>
+</td>
+<td align="center">7 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Education physique et sportive</td>
+<br/>
+</td>
+<td align="center">Epreuves orales individuelles de management appliqué <br/>
+</td>
 <td align="center">
-<br/>Note de travaux</td>
-<td align="center">
-<br/>1</td>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>TOTAL DES COEFFICIENTS</td>
-<td align="center">
-<br/>100/100</td>
+<br/>
+</td>
+<td align="center">(organisation en projet, fixation d'objectifs, évaluation d'une performance...) <br/>
+</td>
+<td align="center">8 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
-<td align="center">
-<br/>NOMBRE D'ÉPREUVES</td>
-<td align="center">
-<br/>13</td>
+<br/>
+</td>
+<td align="center">SOUS-TOTAL <br/>
+</td>
+<td align="center">31 <br/>
+</td>
 </tr>
+<tr>
+<td align="center">Langues étrangères <br/>
+</td>
+<td align="center">― première langue <br/>― deuxième langue <br/>
+</td>
+<td align="center">6 <br/>4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Education physique et sportive <br/>
+</td>
+<td align="center">Note de travaux <br/>
+</td>
+<td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">TOTAL DES COEFFICIENTS <br/>
+</td>
+<td align="center">100/100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">NOMBRE D'ÉPREUVES <br/>
+</td>
+<td align="center">13 <br/>
+</td>
+</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-<br/>
 </div>
 
 Article 19
@@ -516,7 +525,7 @@ Ce cycle s'adresse à des hauts fonctionnaires étrangers en début de carrière
 
 A l'issue d'une période d'accueil organisée par l'Ecole, les élèves effectuent une scolarité identique à celle des élèves issus des concours pour les deux premiers modules et sont évalués dans les mêmes conditions.
 
-La formation est sanctionnée par un diplôme international d'administration publique avec la mention « cycle international long ».
+La formation est sanctionnée par un diplôme international d'administration publique avec la mention  cycle international long .
 
 Le diplôme est délivré par le directeur de l'Ecole au vu de l'ensemble des résultats et évaluations dont chaque élève a fait l'objet.
 
@@ -540,7 +549,7 @@ A l'issue du stage, chaque élève remet un rapport visé par le maître de stag
 
 L'évaluation des connaissances s'appuie sur des épreuves écrites et orales complétées par la note de stage ainsi qu'un entretien final d'évaluation devant un jury dont la composition est fixée par le directeur de l'Ecole.
 
-La formation est sanctionnée par un diplôme international d'administration publique avec la mention « cycle international court ».
+La formation est sanctionnée par un diplôme international d'administration publique avec la mention " cycle international court ".
 
 Le diplôme est délivré par le directeur de l'Ecole, au vu de l'ensemble des résultats et évaluations dont chaque élève a fait l'objet, aux élèves ayant obtenu une moyenne égale ou supérieure à 10.
 
@@ -574,7 +583,7 @@ A l'issue du stage, chaque élève remet un rapport visé par le maître de stag
 
 L'évaluation des connaissances s'appuie sur des épreuves écrites et orales complétées par la note de stage ainsi qu'un entretien final d'évaluation devant un jury dont la composition est fixée par le directeur de l'Ecole.
 
-La formation est sanctionnée par un diplôme international d'administration publique, avec la mention « cycle international d'administration publique ».
+La formation est sanctionnée par un diplôme international d'administration publique, avec la mention " cycle international d'administration publique ".
 
 Le diplôme est délivré par le directeur de l'Ecole, au vu de l'ensemble des résultats et évaluations dont chaque élève a fait l'objet, aux élèves ayant obtenu une moyenne égale ou supérieure à 10/20.
 
@@ -610,7 +619,7 @@ L'Ecole complète son offre de formations par la participation à des activités
 
 Article 42
 
-L'Ecole organise un cycle annuel dénommé « le cycle des hautes études européennes » (CHEE) qui s'adresse aux décideurs des secteurs publics et privés, aux cadres des organisations non gouvernementales et aux élus, français ou ressortissants des Etats membres de l'Union européenne ou de pays tiers.
+L'Ecole organise un cycle annuel dénommé " le cycle des hautes études européennes " (CHEE) qui s'adresse aux décideurs des secteurs publics et privés, aux cadres des organisations non gouvernementales et aux élus, français ou ressortissants des Etats membres de l'Union européenne ou de pays tiers.
 
 L'objectif de ce cycle est d'approfondir leurs connaissances des enjeux, des processus de décision, et des politiques de l'Union européenne.
 
@@ -734,9 +743,7 @@ Les candidats admis aux formations visées par le présent titre doivent, dès l
 
 TITRE III
 
-DROITS ET OBLIGATIONS DES ÉLÈVES, AUDITEURS, STAGIAIRES DES CYCLES
-
-PRÉPARATOIRES, ET ÉTUDIANTS DE LA CLASSE PRÉPARATOIRE
+DROITS ET OBLIGATIONS DES ÉLÈVES, AUDITEURS, STAGIAIRES DES CYCLES PRÉPARATOIRES, ET ÉTUDIANTS DE LA CLASSE PRÉPARATOIRE
 
 Chapitre Ier
 
@@ -744,9 +751,7 @@ Représentation
 
 Section 1
 
-Représentation des élèves issus des concours
-
-et du cycle international long
+Représentation des élèves issus des concours et du cycle international long
 
 Article 56
 
@@ -766,9 +771,9 @@ Article 58
 
 Les délégués sont élus au début de la première année de la scolarité.
 
-Le mandat des délégués élus par les élèves du cycle international long dure jusqu'à la fin de leur scolarité à l'issue du module « Territoires ».
+Le mandat des délégués élus par les élèves du cycle international long dure jusqu'à la fin de leur scolarité à l'issue du module " Territoires ".
 
-Le mandat des délégués élus par les élèves issus des concours dure jusqu'à la fin du stage effectué dans le cadre du module « Territoires ». A l'issue de leur mandat, il est procédé à une nouvelle élection, à laquelle ils peuvent se représenter. Le mandat des délégués alors élus dure jusqu'à la fin de la procédure d'affectation.
+Le mandat des délégués élus par les élèves issus des concours dure jusqu'à la fin du stage effectué dans le cadre du module " Territoires ". A l'issue de leur mandat, il est procédé à une nouvelle élection, à laquelle ils peuvent se représenter. Le mandat des délégués alors élus dure jusqu'à la fin de la procédure d'affectation.
 
 Tout élève qui a fait l'objet d'une mesure d'exclusion prévue au c de l'article 85 est inéligible ou perd de plein droit et définitivement la qualité de délégué.
 
@@ -802,9 +807,7 @@ Le directeur de l'Ecole réunit la commission quand il le juge nécessaire ou à
 
 Section 2
 
-Représentation des élèves du cycle supérieur de perfectionnement
-
-des administrateurs et du cycle international court
+Représentation des élèves du cycle supérieur de perfectionnement des administrateurs et du cycle international court
 
 Article 62
 
@@ -824,9 +827,7 @@ Il est constitué un bureau de vote présidé par un représentant de la directi
 
 Section 3
 
-Représentation des élèves
-
-du cycle international d'administration publique
+Représentation des élèves du cycle international d'administration publique
 
 Article 64
 
@@ -840,9 +841,7 @@ Il est constitué un bureau de vote pour l'ensemble des filières, présidé par
 
 Section 4
 
-Représentation
-
-des auditeurs des autres cycles de formation
+Représentation des auditeurs des autres cycles de formation
 
 Article 65
 
@@ -968,9 +967,7 @@ La décision est notifiée à l'intéressé par le directeur de l'Ecole.
 
 Section 2
 
-Dispositions applicables aux élèves
-
-du cycle supérieur de perfectionnement des administrateurs
+Dispositions applicables aux élèves du cycle supérieur de perfectionnement des administrateurs
 
 Article 82
 
@@ -980,9 +977,7 @@ Lorsqu'il doit être saisi, le conseil de discipline est composé conformément 
 
 Section 3
 
-Dispositions applicables aux élèves
-
-des cycles internationaux
+Dispositions applicables aux élèves des cycles internationaux
 
 Article 83
 
@@ -1166,7 +1161,7 @@ Sans préjudice des dispositions de l'article 106, les agents non titulaires son
 
 Article 108
 
-Un comité d'hygiène et de sécurité est placé auprès du comité technique paritaire central de l'Ecole, conformément aux dispositions prévues par le décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique et à l'arrêté du 13 mars 2007 modifié portant création du comité d'hygiène et de sécurité à l'Ecole nationale d'administration et désignation des représentants de l'administration au sein de ce comité.
+Un comité d'hygiène, de sécurité et des conditions de travail est placé auprès du comité technique paritaire central de l'Ecole, conformément aux dispositions prévues par le décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique et à l'arrêté du 13 mars 2007 modifié portant création du comité d'hygiène, de sécurité et des conditions de travail à l'Ecole nationale d'administration et désignation des représentants de l'administration au sein de ce comité.
 
 Article 109
 

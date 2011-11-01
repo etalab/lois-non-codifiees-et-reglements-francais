@@ -4,6 +4,6 @@ Le dossier d'une demande de prêt ou de subvention établi à la requête des em
 
 En ce qui concerne les subventions visées à l'alinéa 2 de l'article 1er du présent arrêté, le rapport doit établir le progrès présenté par les aménagements ou dispositifs envisagés sur les réalisations déjà existantes dans ce domaine.
 
-La demande de prêt ou de subvention doit être soumise le cas échéant, par le chef d'exploitation ou d'entreprise, à l'examen pour avis du comité d'hygiène et de sécurité ou, à défaut, à celui des délégués du personnel s'il en existe.
+La demande de prêt ou de subvention doit être soumise le cas échéant, par le chef d'exploitation ou d'entreprise, à l'examen pour avis du      comité d'hygiène, de sécurité et des conditions de travail  ou, à défaut, à celui des délégués du personnel s'il en existe.
 
 Les propositions d'aide financière retenues par les conseils d'administration des caisses départementales de mutualité sociale agricole sont soumises à l'examen pour avis du comité technique régional de prévention compétent.

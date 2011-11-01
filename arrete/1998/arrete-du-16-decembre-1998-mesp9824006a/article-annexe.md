@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - DISPOSITIONS COMMUNES
+I.-DISPOSITIONS COMMUNES
 
 Ces dispositions communes s'appliquent aux étapes de prélèvement de transport, de transformations et aux contrôles de la qualité du produit cellulaire.
 
@@ -18,21 +18,21 @@ L'assurance de la qualité représente l'ensemble des mesures prises pour s'assu
 
 Un système d'assurance de la qualité approprié au prélèvement et à la transformation du produit cellulaire, et dont la mise en oeuvre est placée sous la responsabilité de la direction, doit pouvoir garantir que :
 
-- les produits cellulaires sont prélevés et transformés en tenant compte des bonnes pratiques de prélèvement et de transformation et des bonnes pratiques de laboratoire ;
+-les produits cellulaires sont prélevés et transformés en tenant compte des bonnes pratiques de prélèvement et de transformation et des bonnes pratiques de laboratoire ;
 
-- les opérations de prélèvement, de transformation et de contrôle sont clairement décrites dans des procédures adaptées et dans le respect des bonnes pratiques ;
+-les opérations de prélèvement, de transformation et de contrôle sont clairement décrites dans des procédures adaptées et dans le respect des bonnes pratiques ;
 
-- les responsabilités de chacun des intervenants aux différents stades du processus sont définies ;
+-les responsabilités de chacun des intervenants aux différents stades du processus sont définies ;
 
-- des dispositions sont prises pour que le prélèvement des produits cellulaires et la fabrication, l'approvisionnement des matières premières et des articles de conditionnement soient corrects ;
+-des dispositions sont prises pour que le prélèvement des produits cellulaires et la fabrication, l'approvisionnement des matières premières et des articles de conditionnement soient corrects ;
 
-- tous les contrôles nécessaires des produits intermédiaires ont bien été réalisés, de même que tous les contrôles en cours de prélèvement et de transformation du produit et toutes les validations ;
+-tous les contrôles nécessaires des produits intermédiaires ont bien été réalisés, de même que tous les contrôles en cours de prélèvement et de transformation du produit et toutes les validations ;
 
-- le produit fini a bien été convenablement transformé et contrôlé selon les procédures définies ;
+-le produit fini a bien été convenablement transformé et contrôlé selon les procédures définies ;
 
-- des dispositions satisfaisantes sont prises pour garantir dans la mesure du possible que la conservation et le transport des produits cellulaires se font dans des conditions telles que leur qualité soit préservée pendant la période située avant le jour et l'heure de leur greffe ou de leur administration ;
+-des dispositions satisfaisantes sont prises pour garantir dans la mesure du possible que la conservation et le transport des produits cellulaires se font dans des conditions telles que leur qualité soit préservée pendant la période située avant le jour et l'heure de leur greffe ou de leur administration ;
 
-- une procédure d'auto-inspection existe et des audits de la qualité évaluent régulièrement l'efficacité et l'application du système d'assurance de la qualité.
+-une procédure d'auto-inspection existe et des audits de la qualité évaluent régulièrement l'efficacité et l'application du système d'assurance de la qualité.
 
 1.2. Les bonnes pratiques
 
@@ -40,11 +40,11 @@ Elles constituent un des éléments de l'assurance de la qualité ; elles garant
 
 Les bonnes pratiques s'appliquent à la fois à toutes les étapes qui précèdent l'obtention du produit cellulaire final et au contrôle de la qualité. Les exigences de base de ces bonnes pratiques sont les suivantes :
 
-- tout procédé de prélèvement et de transformation du produit cellulaire est clairement défini et revu systématiquement à la lumière de l'expérience ; il doit être démontré que le procédé est capable de produire de façon répétée des produits cellulaires répondant à leurs spécifications ;
+-tout procédé de prélèvement et de transformation du produit cellulaire est clairement défini et revu systématiquement à la lumière de l'expérience ; il doit être démontré que le procédé est capable de produire de façon répétée des produits cellulaires répondant à leurs spécifications ;
 
-- les étapes critiques de ces actes ainsi que toutes leurs modifications ultérieures sont validées ;
+-les étapes critiques de ces actes ainsi que toutes leurs modifications ultérieures sont validées ;
 
-- tous les moyens nécessaires à la mise en oeuvre des bonnes pratiques sont fournis, y compris :
+-tous les moyens nécessaires à la mise en oeuvre des bonnes pratiques sont fournis, y compris :
 
 a) Un personnel qualifié et formé de façon appropriée ;
 
@@ -58,19 +58,19 @@ e) Des procédures et instructions approuvées ;
 
 f) Un stockage et des moyens de transport appropriés ;
 
-- les instructions et les procédures sont rédigées dans un style approprié et utilisant un vocabulaire clair et sans ambiguïté, particulièrement adapté aux moyens fournis ;
+-les instructions et les procédures sont rédigées dans un style approprié et utilisant un vocabulaire clair et sans ambiguïté, particulièrement adapté aux moyens fournis ;
 
-- les opérateurs reçoivent une formation afin de mettre en oeuvre les procédures ;
+-les opérateurs reçoivent une formation afin de mettre en oeuvre les procédures ;
 
-- des relevés sont établis manuellement ou avec des appareils d'enregistrement, pendant tous les actes du prélèvement au produit cellulaire fini ; ils prouvent que toutes les étapes requises par les procédures ont effectivement été suivies et que qualitativement et quantitativement le produit cellulaire obtenu est conforme à des spécifications. Toute déviation significative est enregistrée de façon détaillée et examinée ;
+-des relevés sont établis manuellement ou avec des appareils d'enregistrement, pendant tous les actes du prélèvement au produit cellulaire fini ; ils prouvent que toutes les étapes requises par les procédures ont effectivement été suivies et que qualitativement et quantitativement le produit cellulaire obtenu est conforme à des spécifications. Toute déviation significative est enregistrée de façon détaillée et examinée ;
 
-- des dossiers relatifs au prélèvement, à la transformation du produit et à son attribution sont établis en vue de retracer l'historique complet de chaque produit ; ils sont rédigés de façon claire et archivés ;
+-des dossiers relatifs au prélèvement, à la transformation du produit et à son attribution sont établis en vue de retracer l'historique complet de chaque produit ; ils sont rédigés de façon claire et archivés ;
 
-- les conditions du transport des produits cellulaires doivent permettre de préserver leur qualité ;
+-les conditions du transport des produits cellulaires doivent permettre de préserver leur qualité ;
 
-- un système de vigilance est organisé pour le cas où un effet indésirable ou inattendu serait décrit après greffe, injection ou administration ou au cours de cet acte ;
+-un système de vigilance est organisé pour le cas où un effet indésirable ou inattendu serait décrit après greffe, injection ou administration ou au cours de cet acte ;
 
-- les effets indésirables ou inattendus décrits sont examinés, les causes recherchées et les mesures appropriées prises, non seulement en ce qui concerne le produit cellulaire lui-même mais également en vue de prévenir le renouvellement de ces incidents.
+-les effets indésirables ou inattendus décrits sont examinés, les causes recherchées et les mesures appropriées prises, non seulement en ce qui concerne le produit cellulaire lui-même mais également en vue de prévenir le renouvellement de ces incidents.
 
 1.3. Contrôle de la qualité
 
@@ -78,23 +78,23 @@ Le contrôle de la qualité fait partie des bonnes pratiques. Il concerne l'éch
 
 Les exigences fondamentales du contrôle de la qualité sont les suivantes :
 
-- des installations adéquates, du personnel formé et des procédures agréées sont disponibles pour l'échantillonnage, le contrôle et l'analyse des matières premières, des articles de conditionnement, des produits cellulaires prélevés, des produits intermédiaires, finis et, le cas échéant, pour la surveillance des paramètres de l'environnement en ce qui concerne les bonnes pratiques de transformation du produit ;
+-des installations adéquates, du personnel formé et des procédures agréées sont disponibles pour l'échantillonnage, le contrôle et l'analyse des matières premières, des articles de conditionnement, des produits cellulaires prélevés, des produits intermédiaires, finis et, le cas échéant, pour la surveillance des paramètres de l'environnement en ce qui concerne les bonnes pratiques de transformation du produit ;
 
-- des échantillons de matières premières, des articles de conditionnement, des produits intermédiaires, finis sont prélevés, selon des méthodes approuvées, par le personnel du contrôle de la qualité ;
+-des échantillons de matières premières, des articles de conditionnement, des produits intermédiaires, finis sont prélevés, selon des méthodes approuvées, par le personnel du contrôle de la qualité ;
 
-- les méthodes de contrôle sont validées ;
+-les méthodes de contrôle sont validées ;
 
-- des relevés sont établis manuellement ou par des appareils d'enregistrement ; ils prouvent que les procédures requises pour l'échantillonnage, le contrôle et l'analyse sont effectivement appliquées. Toutes les déviations sont enregistrées de façon détaillée et examinées ;
+-des relevés sont établis manuellement ou par des appareils d'enregistrement ; ils prouvent que les procédures requises pour l'échantillonnage, le contrôle et l'analyse sont effectivement appliquées. Toutes les déviations sont enregistrées de façon détaillée et examinées ;
 
-- les produits cellulaires finis contiennent en nombre et en qualité les cellules prévues par leurs spécifications et sont contenus dans des emballages corrects et étiquetés ;
+-les produits cellulaires finis contiennent en nombre et en qualité les cellules prévues par leurs spécifications et sont contenus dans des emballages corrects et étiquetés ;
 
-- des relevés sont établis à partir des résultats des contrôles des matières premières, des articles de conditionnement, des produits cellulaires intermédiaires et finis en vue d'être comparés aux spécifications.
+-des relevés sont établis à partir des résultats des contrôles des matières premières, des articles de conditionnement, des produits cellulaires intermédiaires et finis en vue d'être comparés aux spécifications.
 
 L'évaluation du produit comporte un examen et une revue critique des documents de prélèvement et de transformation, ainsi qu'une estimation concernant les déviations par rapport aux procédures établies ;
 
-- aucun produit cellulaire n'est attribué avant que le responsable des transformations n'ait certifié qu'il répond aux spécifications préétablies ;
+-aucun produit cellulaire n'est attribué avant que le responsable des transformations n'ait certifié qu'il répond aux spécifications préétablies ;
 
-- des échantillons de référence des matières premières et des produits cellulaires sont conservés en quantité suffisante pour permettre un contrôle ultérieur si nécessaire.
+-des échantillons de référence des matières premières et des produits cellulaires sont conservés en quantité suffisante pour permettre un contrôle ultérieur si nécessaire.
 
 1.4. Gestion des anomalies
 
@@ -134,27 +134,27 @@ Les activités sont coordonnées entre les différentes unités concernées.
 
 Pour chaque unité, le responsable s'assure du respect des règles techniques, éthiques et administratives de l'activité ainsi que de la sécurité sanitaire liée à celle-ci. Il est responsable notamment :
 
-- de l'organisation générale de l'unité et des validations techniques nécessaires ;
+-de l'organisation générale de l'unité et des validations techniques nécessaires ;
 
-- de la mise en place et du respect des bonnes pratiques et des procédures, et notamment des règles d'hygiène et de sécurité ;
+-de la mise en place et du respect des bonnes pratiques et des procédures, et notamment des règles d'hygiène et de sécurité ;
 
-- de la rédaction du rapport d'activité annuel, avec description du personnel impliqué et des ressources matérielles ;
+-de la rédaction du rapport d'activité annuel, avec description du personnel impliqué et des ressources matérielles ;
 
-- des relations avec les autres partenaires de l'ensemble du processus thérapeutique ;
+-des relations avec les autres partenaires de l'ensemble du processus thérapeutique ;
 
-- des relations avec les sociétés savantes concernées.
+-des relations avec les sociétés savantes concernées.
 
 Il participe à :
 
-- l'information et la formation du personnel ;
+-l'information et la formation du personnel ;
 
-- l'établissement des fiches de fonction ;
+-l'établissement des fiches de fonction ;
 
-- relations avec les autorités sanitaires ;
+-relations avec les autorités sanitaires ;
 
-- relations avec les fournisseurs ;
+-relations avec les fournisseurs ;
 
-- la gestion et l'évaluation des besoins en personnel et en matériel.
+-la gestion et l'évaluation des besoins en personnel et en matériel.
 
 Il doit se tenir informé et participer régulièrement aux développements technologiques afin d'améliorer les performances de son activité.
 
@@ -166,7 +166,7 @@ Les différents responsables des unités de prélèvement, de transformation et 
 
 Les fonctions du responsable, outre ces fonctions générales, sont définies plus en détail dans chaque chapitre développé à propos du prélèvement, de la transformation du produit cellulaire ou du contrôle de qualité.
 
-2.2. Qualifications. - Formation
+2.2. Qualifications.-Formation
 
 2.2.1. Qualifications
 
@@ -184,13 +184,13 @@ La formation comporte un enseignement, adapté aux connaissances globales requis
 
 En particulier, la formation doit comporter l'acquisition des données :
 
-- sur l'hygiène et la sécurité, établies et adaptées aux différents besoins, notamment sur les règles à appliquer dans les zones à atmosphère contrôlée et sur les risques de contamination inhérents à ce genre de manipulations ;
+-sur l'hygiène et la sécurité, établies et adaptées aux différents besoins, notamment sur les règles à appliquer dans les zones à atmosphère contrôlée et sur les risques de contamination inhérents à ce genre de manipulations ;
 
-- sur les démarches d'assurance qualité ;
+-sur les démarches d'assurance qualité ;
 
-- sur les produits cellulaires pris en charge du prélèvement à la greffe ou l'administration ;
+-sur les produits cellulaires pris en charge du prélèvement à la greffe ou l'administration ;
 
-- sur l'informatique, en fonction de la place de cet outil dans l'unité.
+-sur l'informatique, en fonction de la place de cet outil dans l'unité.
 
 Le programme détaillé des connaissances minimales à acquérir doit faire l'objet d'un document écrit, permettant de définir les compléments de formation théorique et pratique nécessaires avant toute prise de fonction ainsi que l'établissement d'un plan de formation continue pour l'ensemble du personnel.
 
@@ -200,7 +200,7 @@ L'efficacité pratique de cette formation doit être périodiquement évaluée. 
 
 Tout membre du personnel doit subir une visite médicale lors de l'embauche. Après cette première visite, d'autres doivent être pratiquées en fonction du type de travail et de l'état de santé du personnel. Il est de la responsabilité du directeur de l'établissement ou de l'organisme de prévoir des instructions qui garantissent que toute affection pouvant avoir de l'importance lui soit signalée au regard de la sécurité du personnel et des produits manipulés. Notamment, il convient de prendre les dispositions nécessaires en vue d'éviter qu'une personne souffrant d'une maladie contagieuse ou présentant des plaies non recouvertes soit employée au prélèvement et aux transformations des produits.
 
-Des documents définissent les procédures retenues pour assurer l'hygiène et la sécurité ; les procédures sont adaptées aux activités pratiquées et tiennent compte des recommandations relatives au respect des précautions générales d'hygiène ou précautions standard décrites dans l'annexe II de la circulaire DGS/DH du 20 avril 1998 relative à la prévention de la transmission d'agents infectieux véhiculés par le sang ou les liquides biologiques lors des soins dans les établissements de santé. Ces procédures concernent notamment la santé, l'hygiène et l'habillage du personnel ou de toute personne pénétrant dans les zones où sont réalisées les activités.
+Des documents définissent les procédures retenues pour assurer l'hygiène et la sécurité ; les procédures sont adaptées aux activités pratiquées et tiennent compte des recommandations relatives au respect des précautions générales d'hygiène ou précautions standard décrites dans l'annexe II de la circulaire DGS/ DH du 20 avril 1998 relative à la prévention de la transmission d'agents infectieux véhiculés par le sang ou les liquides biologiques lors des soins dans les établissements de santé. Ces procédures concernent notamment la santé, l'hygiène et l'habillage du personnel ou de toute personne pénétrant dans les zones où sont réalisées les activités.
 
 Le port de la blouse est obligatoire et celui des bijoux proscrit lors des manipulations de produits cellulaires.
 
@@ -210,7 +210,7 @@ Les gants à usage unique doivent être mis à disposition du personnel préleva
 
 Pour le personnel, il est interdit de boire, de manger et de fumer dans les zones de prélèvement, de transformations, et dans les laboratoires de contrôle de la qualité ainsi que de déposer des denrées alimentaires dans les réfrigérateurs des unités.
 
-Les procédures sont transmises au comité d'hygiène et de sécurité et des conditions de travail de l'établissement concerné et au comité de lutte contre les infections nosocomiales dans l'établissement de santé public.
+Les procédures sont transmises au comité d'hygiène, de sécurité et des conditions de travail de l'établissement concerné et au comité de lutte contre les infections nosocomiales dans l'établissement de santé public.
 
 3. Locaux
 
@@ -244,43 +244,43 @@ Le matériel défectueux doit être retiré de la zone d'activité ou étiqueté
 
 Le matériel fait l'objet d'un cahier des charges préalable établi par l'utilisateur précisant :
 
-- la destination du matériel et sa justification ;
+-la destination du matériel et sa justification ;
 
-- les exigences de l'utilisateur ;
+-les exigences de l'utilisateur ;
 
-- la durée et les conditions de garantie du constructeur ;
+-la durée et les conditions de garantie du constructeur ;
 
-- les conditions d'installation telles que l'alimentation en eau, l'électricité, l'environnement et la température ;
+-les conditions d'installation telles que l'alimentation en eau, l'électricité, l'environnement et la température ;
 
-- la fréquence et les différents contrôles à réaliser pour la maintenance ;
+-la fréquence et les différents contrôles à réaliser pour la maintenance ;
 
-- la formation nécessaire lors de la mise en service.
+-la formation nécessaire lors de la mise en service.
 
 Le matériel doit faire l'objet d'une qualification selon un protocole écrit.
 
 La qualification du matériel consiste à démontrer qu'il fonctionne correctement et donne réellement les résultats attendus. Ainsi, elle consiste à vérifier que le matériel répond au cahier des charges de l'établissement et aux spécifications du fournisseur. Elle est obligatoire dans deux circonstances :
 
-- lors de l'installation d'un nouvel équipement ;
+-lors de l'installation d'un nouvel équipement ;
 
-- après toute réparation ou adaptation pouvant modifier le fonctionnement ou la destination du matériel.
+-après toute réparation ou adaptation pouvant modifier le fonctionnement ou la destination du matériel.
 
 4.3. Utilisation
 
 Pour chaque matériel, une fiche technique doit être établie précisant notamment :
 
-- le nom, le type et le numéro de série ou de référence de l'appareil ;
+-le nom, le type et le numéro de série ou de référence de l'appareil ;
 
-- la date d'achat, la date de qualification et la date de mise en service ;
+-la date d'achat, la date de qualification et la date de mise en service ;
 
-- le nom et la référence du fabricant ;
+-le nom et la référence du fabricant ;
 
-- la référence du service de maintenance ;
+-la référence du service de maintenance ;
 
-- le mode et les précautions d'emploi ;
+-le mode et les précautions d'emploi ;
 
-- les conditions de sécurité ;
+-les conditions de sécurité ;
 
-- la procédure ou la référence à une procédure en cas de panne.
+-la procédure ou la référence à une procédure en cas de panne.
 
 4.4. Maintenance
 
@@ -304,11 +304,11 @@ Le matériel doit être entretenu, étalonné et calibré à intervalles de temp
 
 Les vérifications à effectuer et leur périodicité sont détaillées sur une fiche de maintenance, placée près de chaque appareil et donnant en particulier les renseignements suivants :
 
-- le nom, le type, la marque et le numéro de référence ou le numéro de série de l'appareil ;
+-le nom, le type, la marque et le numéro de référence ou le numéro de série de l'appareil ;
 
-- les conditions d'entretien et de nettoyage ou leurs références à une procédure ;
+-les conditions d'entretien et de nettoyage ou leurs références à une procédure ;
 
-- les procédures de calibrage et d'étalonnage à effectuer et leurs fréquences.
+-les procédures de calibrage et d'étalonnage à effectuer et leurs fréquences.
 
 Les fiches techniques peuvent prendre la forme de tableaux d'opérations réalisées ou à réaliser.
 
@@ -318,15 +318,15 @@ Certains contrôles de qualité demandent une plus grande technicité et doivent
 
 Un programme de maintenance doit être établi, il doit mentionner :
 
-- le nom du responsable de la maintenance ou de la société assurant la maintenance ;
+-le nom du responsable de la maintenance ou de la société assurant la maintenance ;
 
-- le type de vérification ou d'étalonnage à effectuer ;
+-le type de vérification ou d'étalonnage à effectuer ;
 
-- la périodicité des interventions et des vérifications ;
+-la périodicité des interventions et des vérifications ;
 
-- la procédure pour appeler cet agent extérieur ;
+-la procédure pour appeler cet agent extérieur ;
 
-- la procédure pour réceptionner les opérations réalisées.
+-la procédure pour réceptionner les opérations réalisées.
 
 L'ensemble des ces items sont précisés sur la fiche technique.
 
@@ -344,7 +344,7 @@ Des procédures écrites précisent la fréquence de départ des déchets à l'i
 
 Les déchets ménagers sont placés dans des récipients qui sont acheminés selon les circuits d'élimination des ordures ménagères.
 
-La classification en déchets ménagers et déchets potentiellement contaminés liquides/solides est définie dans une procédure établie par le responsable de l'unité et révisée périodiquement.
+La classification en déchets ménagers et déchets potentiellement contaminés liquides/ solides est définie dans une procédure établie par le responsable de l'unité et révisée périodiquement.
 
 6. Transport
 
@@ -386,21 +386,21 @@ Le transport des produits cellulaires s'établit selon des circuits validés qui
 
 L'étiquetage apposé sur le conditionnement extérieur du produit cellulaire doit comporter les informations nécessaires au suivi et à la traçabilité, conformément à la réglementation en vigueur, et notamment :
 
-- la mention produit cellulaire d'origine humaine à usage thérapeutique ;
+-la mention produit cellulaire d'origine humaine à usage thérapeutique ;
 
-- la nature, la description et les caractéristiques précises du produit, notamment le nombre d'unités transportées ;
+-la nature, la description et les caractéristiques précises du produit, notamment le nombre d'unités transportées ;
 
-- un numéro d'identification de la personne prélevée ;
+-un numéro d'identification de la personne prélevée ;
 
-- le lieu et la date du prélèvement et des transformations ;
+-le lieu et la date du prélèvement et des transformations ;
 
-- la date de péremption ;
+-la date de péremption ;
 
-- le nom et les coordonnées précises de l'expéditeur et du destinataire ;
+-le nom et les coordonnées précises de l'expéditeur et du destinataire ;
 
-- la température de transport ;
+-la température de transport ;
 
-- une signalisation adéquate pour les colis contenant des récipients fragiles ou des matières liquides.
+-une signalisation adéquate pour les colis contenant des récipients fragiles ou des matières liquides.
 
 6.2. Transport des produits cellulaires entre deux unités
 
@@ -462,7 +462,7 @@ Si l'on utilise des éléments réfrigérants, ils sont impérativement isolés 
 
 Ils sont transportés dans un récipient spécifique permettant une autonomie suffisante, égale à la durée estimée du transport augmentée d'un délai de sécurité de quarante-huit heures au moins, quelle que soit la température de transport.
 
-Si des produits cellulaires congelés à des températures inférieures à - 80 oC sont transportés dans de la glace carbonique, celle-ci est séparée du conditionnement primaire du produit cellulaire par une enveloppe protectrice. La glace carbonique est en quantité suffisante pour assurer un transport de durée deux fois supérieure à celle estimée au départ.
+Si des produits cellulaires congelés à des températures inférieures à-80 oC sont transportés dans de la glace carbonique, celle-ci est séparée du conditionnement primaire du produit cellulaire par une enveloppe protectrice. La glace carbonique est en quantité suffisante pour assurer un transport de durée deux fois supérieure à celle estimée au départ.
 
 6.3. Transport de produits cellulaires à l'intérieur
 
@@ -478,17 +478,17 @@ Une procédure générale décrit la gestion de l'ensemble des documents. Elle p
 
 Les documents doivent être signés et datés par les personnes compétentes et autorisées. Les documents sont clairs et lisibles. Les caractéristiques minima associées à tout document sont :
 
-- titre, nature et objet ;
+-titre, nature et objet ;
 
-- date de réalisation et de révision ;
+-date de réalisation et de révision ;
 
-- identité du ou des auteurs qualifiés qui valident et signent les documents ;
+-identité du ou des auteurs qualifiés qui valident et signent les documents ;
 
-- destinataires ;
+-destinataires ;
 
-- lieu(x) de consultation ;
+-lieu (x) de consultation ;
 
-- règles de mise à jour.
+-règles de mise à jour.
 
 Lorsqu'un document a été révisé, l'utilisation par inadvertance de documents périmés ne doit pas être possible. Toute correction apportée à un document doit être signée et datée, la correction permettant la lecture de la mention originale. Le cas échéant, le motif de la correction doit être noté.
 
@@ -502,21 +502,21 @@ Les relevés doivent être effectués au moment où chaque action est réalisée
 
 La liste des documents comprend notamment :
 
-- le rapport annuel d'activité des unités ;
+-le rapport annuel d'activité des unités ;
 
-- les documents liés au matériels, à leur maintenance et leur qualification ;
+-les documents liés au matériels, à leur maintenance et leur qualification ;
 
-- les documents liés aux locaux, leur situation, leur nettoyage et leur entretien ;
+-les documents liés aux locaux, leur situation, leur nettoyage et leur entretien ;
 
-- les documents liés au personnel, leurs responsabilités, leurs fonctions, leurs qualifications et leur formation ;
+-les documents liés au personnel, leurs responsabilités, leurs fonctions, leurs qualifications et leur formation ;
 
-- les documents liés aux différentes étapes techniques réalisées pour prélever et transformer les produits cellulaires ;
+-les documents liés aux différentes étapes techniques réalisées pour prélever et transformer les produits cellulaires ;
 
-- les documents liés aux contrôles de qualité et à l'assurance qualité ;
+-les documents liés aux contrôles de qualité et à l'assurance qualité ;
 
-- les documents liés à l'évaluation de l'activité ;
+-les documents liés à l'évaluation de l'activité ;
 
-- les document liés à la traçabilité des produits cellulaires.
+-les document liés à la traçabilité des produits cellulaires.
 
 Toutes ces données peuvent être enregistrées par des systèmes de traitement électronique. Dans ce cas, les procédures détaillées du fonctionnement du système doivent être disponibles et l'exactitude des enregistrements doit être vérifiée. Le système adopté doit permettre l'accès aux données pendant la période d'archivage.
 
@@ -540,7 +540,7 @@ Les dossiers des produits conservés par un système informatique doivent être 
 
 Il est particulièrement important, pendant toute la durée d'archivage, de pouvoir restituer les données dans un délai convenable et de façon lisible notamment dans le cadre des enquêtes ascendantes de traçabilité. Des procédures d'archivage sont écrites.
 
-II. - BONNES PRATIQUES DE PRELEVEMENT
+II.-BONNES PRATIQUES DE PRELEVEMENT
 
 Elles s'appliquent aux cellules humaines dont les caractéristiques sont spécifiées ci-après, qu'elles soient destinées à être greffées ou administrées.
 
@@ -562,11 +562,11 @@ Lorsque le personnel de l'établissement de transfusion sanguine réalise les pr
 
 L'équipe de prélèvement comporte au minimum :
 
-- un médecin ;
+-un médecin ;
 
-- un(e) infirmier(ère) diplômé(e) d'Etat ;
+-un (e) infirmier (ère) diplômé (e) d'Etat ;
 
-- éventuellement, une secrétaire et une personne assurant la collation.
+-éventuellement, une secrétaire et une personne assurant la collation.
 
 Le prélèvement est fait par un médecin ou sous sa responsabilité. Un médecin doit être présent sur le site de prélèvement.
 
@@ -586,45 +586,45 @@ Prise en charge des incidents.
 
 Suivi médical du donneur ou du patient à long terme en collaboration avec l'équipe médicale en charge du receveur et rédaction d'un compte rendu médical du prélèvement.
 
-1.1.1.2. Fonctions de l'infirmier(ère) DE
+1.1.1.2. Fonctions de l'infirmier (ère) DE
 
-L'infirmier(ère) assure ses fonctions sous la responsabilité du médecin responsable du prélèvement.
+L'infirmier (ère) assure ses fonctions sous la responsabilité du médecin responsable du prélèvement.
 
 Elles consistent à :
 
-- s'assurer de la validation de l'aptitude au prélèvement de la personne qui se présente avant la mise en route du prélèvement grâce à la fiche de données administratives et biologiques la concernant ;
+-s'assurer de la validation de l'aptitude au prélèvement de la personne qui se présente avant la mise en route du prélèvement grâce à la fiche de données administratives et biologiques la concernant ;
 
-- mettre en place ou brancher des voies de prélèvement et de retour dans les conditions d'asepsie conformes aux procédures s'y rapportant ;
+-mettre en place ou brancher des voies de prélèvement et de retour dans les conditions d'asepsie conformes aux procédures s'y rapportant ;
 
-- respecter les procédures de prélèvement ;
+-respecter les procédures de prélèvement ;
 
-- surveiller en permanence le prélèvement et appeler le médecin en cas de difficulté technique ou d'incident médical ;
+-surveiller en permanence le prélèvement et appeler le médecin en cas de difficulté technique ou d'incident médical ;
 
-- enregistrer sur la fiche technique de prélèvement les principaux paramètres techniques et cliniques de l'acte réalisé ;
+-enregistrer sur la fiche technique de prélèvement les principaux paramètres techniques et cliniques de l'acte réalisé ;
 
-- administrer des médicaments sur prescription médicale ;
+-administrer des médicaments sur prescription médicale ;
 
-- suivre l'acheminement des échantillons et des produits cellulaires issus de l'acte de prélèvement, de la zone de prélèvement vers les laboratoires de contrôles pour les échantillons et l'unité de transformation pour les produits cellulaires ;
+-suivre l'acheminement des échantillons et des produits cellulaires issus de l'acte de prélèvement, de la zone de prélèvement vers les laboratoires de contrôles pour les échantillons et l'unité de transformation pour les produits cellulaires ;
 
-- rassembler les résultats des prélèvements.
+-rassembler les résultats des prélèvements.
 
 La fiche des données administratives et biologiques concernant la personne prélevée et la fiche technique de prélèvement sont des fiches remplies pour chaque acte et dont les données sont nécessaires à l'évaluation et à la maîtrise de la qualité des actes de prélèvement.
 
-1.1.2. Qualifications/expérience
+1.1.2. Qualifications/ expérience
 
 1.1.2.1. Médecins
 
 Les médecins de prélèvement doivent exercer la médecine dans l'établissement, soit qu'ils y soient affectés, soit qu'ils soient mis à disposition par convention. L'expérience requise est de 25 cytaphérèses sous la direction d'un médecin qualifié.
 
-1.1.2.2. Infirmiers(ères) diplômés(ées) d'Etat
+1.1.2.2. Infirmiers (ères) diplômés (ées) d'Etat
 
-Seuls les infirmiers(ères) diplômés(ées) d'Etat sont habilités à réaliser les prélèvements de cellules souches hématopoïétiques et de cellules mononucléées sanguines. L'expérience requise est de 25 cytaphérèses sous la direction d'un(e) infirmier(ère) qualifié(e).
+Seuls les infirmiers (ères) diplômés (ées) d'Etat sont habilités à réaliser les prélèvements de cellules souches hématopoïétiques et de cellules mononucléées sanguines. L'expérience requise est de 25 cytaphérèses sous la direction d'un (e) infirmier (ère) qualifié (e).
 
 1.1.3. Effectif du personnel en fonction
 
 du volume et de la nature des activités
 
-Un(e) infirmier(ère) DE peut réaliser au maximum deux prélèvements à la fois, à condition que les lits ou les fauteuils de prélèvement soient dans la même zone et proches l'un de l'autre.
+Un (e) infirmier (ère) DE peut réaliser au maximum deux prélèvements à la fois, à condition que les lits ou les fauteuils de prélèvement soient dans la même zone et proches l'un de l'autre.
 
 1.2. Locaux et matériel
 
@@ -638,15 +638,15 @@ Quel que soit le lieu de prélèvement, les installations sanitaires réservées
 
 Les locaux doivent comprendre :
 
-- une zone d'accueil ;
+-une zone d'accueil ;
 
-- un ou plusieurs bureaux de médecin assurant la confidentialité des entretiens ;
+-un ou plusieurs bureaux de médecin assurant la confidentialité des entretiens ;
 
-- une zone de prélèvement comportant lits ou fauteuils et des plans de travail ergonomiques ;
+-une zone de prélèvement comportant lits ou fauteuils et des plans de travail ergonomiques ;
 
-- éventuellement, une zone de repos et de collation séparée de la salle de prélèvement ;
+-éventuellement, une zone de repos et de collation séparée de la salle de prélèvement ;
 
-- éventuellement, une zone, isolée et ventilée, comportant un lit de repos.
+-éventuellement, une zone, isolée et ventilée, comportant un lit de repos.
 
 1.2.2. Matériel
 
@@ -686,7 +686,7 @@ Dans le cas où le donneur et le receveur ne sont pas apparentés :
 
 Les limites d'âge des donneurs : les donneurs sont âgés de dix-huit à cinquante ans ;
 
-Les limites de volume des prélèvements : le volume maximal prélevé unitairement est de 10 ml/kg, sans dépasser un volume maximal recueilli de 600 ml par jour ;
+Les limites de volume des prélèvements : le volume maximal prélevé unitairement est de 10 ml/ kg, sans dépasser un volume maximal recueilli de 600 ml par jour ;
 
 Les limites de fréquence des prélèvements : le rythme de prélèvement est adapté à la nécessité thérapeutique et à la tolérance du donneur. Il doit faire l'objet d'une décision conjointe du médecin responsable du receveur, du médecin responsable de la greffe ou de l'administration et du médecin responsable du prélèvement.
 
@@ -696,7 +696,7 @@ Les prélèvements peuvent être effectués en dehors des limites d'âge, de vol
 
 Règles du prélèvement autologue :
 
-Par aphérèse cellulaire, le volume maximal prélevé est de 10 ml/kg, sans dépasser un volume maximal recueilli de 600 ml par jour ;
+Par aphérèse cellulaire, le volume maximal prélevé est de 10 ml/ kg, sans dépasser un volume maximal recueilli de 600 ml par jour ;
 
 Le nombre et la fréquence des prélèvements sont adaptés à la thérapeutique et à la tolérance du patient. Ils résultent d'une décision conjointe du médecin responsable du patient, du médecin responsable de la greffe ou de l'injection et du médecin responsable du prélèvement.
 
@@ -766,7 +766,7 @@ Une procédure définit cette étape et notamment la pose du garrot, le choix de
 
 1.4.4.1. Aphérèse cellulaire
 
-La procédure précise les paramètres de prélèvement notamment le débit de celui-ci, le rapport sang/anticoagulant, la durée du prélèvement et la masse sanguine prélevée.
+La procédure précise les paramètres de prélèvement notamment le débit de celui-ci, le rapport sang/ anticoagulant, la durée du prélèvement et la masse sanguine prélevée.
 
 Au-delà des valeurs fixées par la procédure, le protocole de prélèvement doit faire l'objet d'une évaluation.
 
@@ -802,11 +802,11 @@ Elle comporte les éléments d'information prévus dans le chapitre Documentatio
 
 Des incidents peuvent survenir lors d'un prélèvement. Ils peuvent être liés :
 
-- à la personne prélevée ;
+-à la personne prélevée ;
 
-- à la personne qualifiée responsable du prélèvement ;
+-à la personne qualifiée responsable du prélèvement ;
 
-- au matériel de prélèvement.
+-au matériel de prélèvement.
 
 Leur survenue impose l'arrêt du prélèvement, le maintien de la perfusion aux points de ponction et l'appel du médecin responsable qui prendra la décision de reprendre ou non l'aphérèse cellulaire.
 
@@ -854,23 +854,23 @@ Elle est constituée par des informations relatives à l'identification du donne
 
 Un compte rendu de l'aphérèse cellulaire est réalisé faisant apparaître les points suivants :
 
-- l'identité du médecin responsable du prélèvement et celle du médecin prescripteur ;
+-l'identité du médecin responsable du prélèvement et celle du médecin prescripteur ;
 
-- l'établissement de rattachement ;
+-l'établissement de rattachement ;
 
-- l'identité de la personne ayant réalisé le prélèvement ;
+-l'identité de la personne ayant réalisé le prélèvement ;
 
-- le lieu de prélèvement ;
+-le lieu de prélèvement ;
 
-- l'identité de la personne prélevée et son numéro d'identification ;
+-l'identité de la personne prélevée et son numéro d'identification ;
 
-- le numéro de prélèvement ;
+-le numéro de prélèvement ;
 
-- le matériel utilisé : séparateur identifié par la marque et son type, numéro de lot des solutions injectées et du dispositif à usage unique ;
+-le matériel utilisé : séparateur identifié par la marque et son type, numéro de lot des solutions injectées et du dispositif à usage unique ;
 
-- le déroulement de l'aphérèse cellulaire : vitesse de centrifugation, vitesse de prélèvement, durée de l'aphérèse cellulaire, volume de sang traité, volume d'anticoagulant utilisé, incidents éventuels ;
+-le déroulement de l'aphérèse cellulaire : vitesse de centrifugation, vitesse de prélèvement, durée de l'aphérèse cellulaire, volume de sang traité, volume d'anticoagulant utilisé, incidents éventuels ;
 
-- l'arrêt éventuel de l'aphérèse cellulaire, son motif, le suivi de l'incident.
+-l'arrêt éventuel de l'aphérèse cellulaire, son motif, le suivi de l'incident.
 
 Ce compte-rendu peut faire l'objet soit d'un document individualisé, soit d'un complément d'informations de la fiche de prescription de cytaphérèses.
 
@@ -878,19 +878,19 @@ Ce compte-rendu peut faire l'objet soit d'un document individualisé, soit d'un 
 
 Les renseignements suivants sont notamment à consigner :
 
-- nombre de donneurs et de patients accueillis ;
+-nombre de donneurs et de patients accueillis ;
 
-- nombre de prélèvements allogéniques et autologues réalisés ;
+-nombre de prélèvements allogéniques et autologues réalisés ;
 
-- nombre de prélèvements interrompus et motifs de l'arrêt ;
+-nombre de prélèvements interrompus et motifs de l'arrêt ;
 
-- tous renseignements concernant les donneurs ou les patients exclus avec les motifs de leur exclusion en respectant le principe d'anonymat ;
+-tous renseignements concernant les donneurs ou les patients exclus avec les motifs de leur exclusion en respectant le principe d'anonymat ;
 
-- tous renseignements concernant les réactions indésirables associées à chaque type de don ;
+-tous renseignements concernant les réactions indésirables associées à chaque type de don ;
 
-- personnel impliqué dans l'activité ;
+-personnel impliqué dans l'activité ;
 
-- ressources en locaux et matériel pour effectuer l'activité citée.
+-ressources en locaux et matériel pour effectuer l'activité citée.
 
 Ces documents permettent d'établir régulièrement des statistiques que le médecin responsable du prélèvement analyse et exploite afin d'améliorer la qualité et l'organisation de l'activité.
 
@@ -904,9 +904,9 @@ issues de sang placentaire
 
 Au moment du prélèvement, l'équipe comporte au minimum :
 
-- un médecin obstétricien (cf. supra glossaire) ;
+-un médecin obstétricien (cf. supra glossaire) ;
 
-- une sage-femme.
+-une sage-femme.
 
 Le prélèvement est fait par un médecin ou sous sa responsabilité.
 
@@ -916,13 +916,13 @@ du médecin obstétricien responsable du prélèvement
 
 Il doit s'assurer :
 
-- de l'aptitude de la mère au prélèvement ;
+-de l'aptitude de la mère au prélèvement ;
 
-- de la réalisation de l'information pré-prélèvement sur l'acte de prélèvement ;
+-de la réalisation de l'information pré-prélèvement sur l'acte de prélèvement ;
 
-- du respect des bonnes pratiques de prélèvement ;
+-du respect des bonnes pratiques de prélèvement ;
 
-- de la mise en oeuvre des procédures décrivant la traçabilité du prélèvement.
+-de la mise en oeuvre des procédures décrivant la traçabilité du prélèvement.
 
 La parturiente doit être informée que ce prélèvement ne sera utilisable que si elle se soumet à une surveillance au regard de ce prélèvement. Son consentement doit être recueilli et il convient de s'assurer de sa bonne compréhension sur les conséquences du prélèvement (cf. infra II-2.3.1).
 
@@ -932,29 +932,29 @@ Elles sont assurées sous la responsabilité du médecin obstétricien. Elles co
 
 Avant le prélèvement à :
 
-- s'assurer de l'accord médical au prélèvement ;
+-s'assurer de l'accord médical au prélèvement ;
 
-- vérifier que la candidate au prélèvement ne présente pas de contre-indications obstétricales et infectieuses au prélèvement en salle de travail : terme inférieur à trente-sept semaines, rupture de la poche des eaux supérieure à vingt-quatre heures, fièvre maternelle supérieure à 38 oC, liquide amniotique méconial, poids du nouveau-né inférieur à 2 600 g et tout événement susceptible de mettre en jeu la vie de l'enfant et celle de la mère ;
+-vérifier que la candidate au prélèvement ne présente pas de contre-indications obstétricales et infectieuses au prélèvement en salle de travail : terme inférieur à trente-sept semaines, rupture de la poche des eaux supérieure à vingt-quatre heures, fièvre maternelle supérieure à 38 oC, liquide amniotique méconial, poids du nouveau-né inférieur à 2 600 g et tout événement susceptible de mettre en jeu la vie de l'enfant et celle de la mère ;
 
-- vérifier que l'accouchement se déroule de façon compatible avec la réalisation du prélèvement.
+-vérifier que l'accouchement se déroule de façon compatible avec la réalisation du prélèvement.
 
 Pendant le prélèvement à :
 
-- respecter des procédures de prélèvement ;
+-respecter des procédures de prélèvement ;
 
-- surveiller le prélèvement en permanence.
+-surveiller le prélèvement en permanence.
 
 Après le prélèvement à :
 
-- étiqueter la poche de prélèvement ;
+-étiqueter la poche de prélèvement ;
 
-- remplir la fiche technique de prélèvement rassemblant les principaux paramètres de l'acte de prélèvement et le comportement clinique de la femme prélevée (cf. infra II-2.7.4) ;
+-remplir la fiche technique de prélèvement rassemblant les principaux paramètres de l'acte de prélèvement et le comportement clinique de la femme prélevée (cf. infra II-2.7.4) ;
 
-- suivre les produits prélevés dirigés vers un autre laboratoire.
+-suivre les produits prélevés dirigés vers un autre laboratoire.
 
 La sage-femme s'assure de la réalisation des prélèvements associés au don :
 
-- prélèvement maternel veineux avant toute hémodilution pour la réalisation des examens de laboratoire de qualification de la suspension cellulaire prélevée.
+-prélèvement maternel veineux avant toute hémodilution pour la réalisation des examens de laboratoire de qualification de la suspension cellulaire prélevée.
 
 Après la délivrance, elle pratique éventuellement des prélèvements tissulaires de villosités choriales qui doivent être conservés dans des conditions stériles.
 
@@ -966,9 +966,9 @@ Les médecins de prélèvement doivent exercer dans l'établissement, soit qu'il
 
 2.1.2.2. Sage-femme
 
-Les personnes habilitées à prélever sont des sages-femmes diplômé(e)s d'Etat.
+Les personnes habilitées à prélever sont des sages-femmes diplômé (e) s d'Etat.
 
-Avant que la sage-femme nouvellement recruté(e) puisse réaliser seule le prélèvement de cellules hématopoïétiques issues de sang placentaire, elle doit avoir réalisé au minimum cinq prélèvements sous encadrement.
+Avant que la sage-femme nouvellement recruté (e) puisse réaliser seule le prélèvement de cellules hématopoïétiques issues de sang placentaire, elle doit avoir réalisé au minimum cinq prélèvements sous encadrement.
 
 2.1.3. Effectif du personnel en fonction du volume
 
@@ -986,17 +986,17 @@ Le prélèvement doit être réalisé exclusivement dans un service d'obstétriq
 
 Le matériel nécessaire au prélèvement se compose notamment de :
 
-- un dispositif de prélèvement approprié ;
+-un dispositif de prélèvement approprié ;
 
-- un plan de travail stérile comportant les éléments nécessaires aux prélèvements tels que des gants à usage unique, des pinces à clamper, des compresses sèches et compresses imbibées d'un antiseptique ;
+-un plan de travail stérile comportant les éléments nécessaires aux prélèvements tels que des gants à usage unique, des pinces à clamper, des compresses sèches et compresses imbibées d'un antiseptique ;
 
-- un plan propre comportant les éléments nécessaires aux prélèvements tels qu'une fiche de prélèvement, des tubes échantillons pour les prélèvements maternels, des flacons échantillons pour le prélèvement tissulaire, un agitateur, des portoirs pour tubes échantillons ;
+-un plan propre comportant les éléments nécessaires aux prélèvements tels qu'une fiche de prélèvement, des tubes échantillons pour les prélèvements maternels, des flacons échantillons pour le prélèvement tissulaire, un agitateur, des portoirs pour tubes échantillons ;
 
-- une soudeuse ;
+-une soudeuse ;
 
-- des récipients étanches verrouillables destinés à recevoir les aiguilles et les déchets ayant trait aux prélèvements ;
+-des récipients étanches verrouillables destinés à recevoir les aiguilles et les déchets ayant trait aux prélèvements ;
 
-- une enceinte thermostatée éventuellement.
+-une enceinte thermostatée éventuellement.
 
 2.3. Sélection des parturientes
 
@@ -1014,13 +1014,13 @@ Le dossier des femmes ayant reçu l'information est enregistré afin de permettr
 
 Elle comporte :
 
-- un complément d'information orale sur le don de sang placentaire ;
+-un complément d'information orale sur le don de sang placentaire ;
 
-- un interrogatoire sur les antécédents de la parturiente et la recherche de contre-indications à l'utilisation thérapeutique du sang placentaire ;
+-un interrogatoire sur les antécédents de la parturiente et la recherche de contre-indications à l'utilisation thérapeutique du sang placentaire ;
 
-- un recueil d'informations utiles à la sécurisation du don ;
+-un recueil d'informations utiles à la sécurisation du don ;
 
-- la réalisation d'un dossier relatif au don de sang placentaire (cf. infra II-2.7.3).
+-la réalisation d'un dossier relatif au don de sang placentaire (cf. infra II-2.7.3).
 
 Le médecin obstétricien chargé de l'entretien s'assure que les analyses biologiques et tests de dépistage des maladies transmissibles pratiqués sont conformes à la réglementation en vigueur, relative aux prélèvements de sang et de ses composants destinés à la réalisation de préparations cellulaires.
 
@@ -1030,7 +1030,7 @@ Lorsque la parturiente est jugée inapte, elle doit être informée des motifs d
 
 relatif au don de sang placentaire
 
-Le dossier médical de la parturiente doit comporter un sous-dossier relatif au don de sang placentaire qui permet d'identifier, lors de l'accouchement, les candidates au prélèvement (cf. II.2.7.3).
+Le dossier médical de la parturiente doit comporter un sous-dossier relatif au don de sang placentaire qui permet d'identifier, lors de l'accouchement, les candidates au prélèvement (cf. II. 2.7.3).
 
 Le sous-dossier doit permettre la liaison entre les informations générées dans le cadre de l'activité de prélèvement avant et après le don et les informations relatives à la qualification biologique et à la validation sérologique du don obtenues par les laboratoires concernés.
 
@@ -1050,11 +1050,11 @@ Des procédures écrites précisent les différentes étapes chronologiques du p
 
 Le respect des procédures a pour but d'éviter :
 
-- les fautes d'asepsie ;
+-les fautes d'asepsie ;
 
-- les fautes techniques impliquant la défaillance du matériel de prélèvement ;
+-les fautes techniques impliquant la défaillance du matériel de prélèvement ;
 
-- les fautes susceptibles de causer des incidents ou accidents chez la patiente prélevée, le nouveau-né, le receveur et le personnel.
+-les fautes susceptibles de causer des incidents ou accidents chez la patiente prélevée, le nouveau-né, le receveur et le personnel.
 
 2.4.1. Hygiène du personnel
 
@@ -1144,15 +1144,15 @@ Il doit être conforme à la réglementation en vigueur le concernant.
 
 Il contient toutes les informations générées dans le cadre de l'activité de prélèvement avant et après le don et les informations relatives à la qualification biologique et à la validation sérologique du don fournies par les laboratoires concernés, et notamment les informations administratives suivantes :
 
-- nom de naissance suivi du nom marital s'il y a lieu ;
+-nom de naissance suivi du nom marital s'il y a lieu ;
 
-- prénom ;
+-prénom ;
 
-- date et lieu de naissance ;
+-date et lieu de naissance ;
 
-- adresse personnelle complète ;
+-adresse personnelle complète ;
 
-- numéros de téléphone : personnel et professionnel s'il y a lieu.
+-numéros de téléphone : personnel et professionnel s'il y a lieu.
 
 Il doit mentionner le terme prévu de la grossesse, les informations obtenues lors de l'examen médical et les résultats d'examens biologiques de la parturiente.
 
@@ -1162,19 +1162,19 @@ Il peut être informatisé. Dans ce cas, seules les personnes autorisées peuven
 
 Les renseignements suivants sont notamment à consigner :
 
-- numéro d'identification de la parturiente ;
+-numéro d'identification de la parturiente ;
 
-- informations relatives au déroulement du prélèvement en particulier s'il existait des contre-indications obstétricales ou infectieuses empêchant le prélèvement ou lors d'un problème technique ou toute anomalie survenant au cours du prélèvement ;
+-informations relatives au déroulement du prélèvement en particulier s'il existait des contre-indications obstétricales ou infectieuses empêchant le prélèvement ou lors d'un problème technique ou toute anomalie survenant au cours du prélèvement ;
 
-- identité de la sage-femme ayant assuré le prélèvement ;
+-identité de la sage-femme ayant assuré le prélèvement ;
 
-- identité du médecin responsable du prélèvement ;
+-identité du médecin responsable du prélèvement ;
 
-- numéro d'identification de l'enfant ;
+-numéro d'identification de l'enfant ;
 
-- date, heure et poids de naissance ;
+-date, heure et poids de naissance ;
 
-- toutes informations médicales susceptibles d'invalider l'utilisation thérapeutique du sang placentaire recueillies lors de la qualification clinique néonatale et post-néonatale.
+-toutes informations médicales susceptibles d'invalider l'utilisation thérapeutique du sang placentaire recueillies lors de la qualification clinique néonatale et post-néonatale.
 
 L'ensemble des informations recueillies et mentionnées ci-dessus doivent être conservées dans le sous-dossier relatif au don, et éventuellement dans un fichier informatisé.
 
@@ -1186,19 +1186,19 @@ L'enregistrement des numéros d'identification de la parturiente, du nouveau-né
 
 Les renseignements suivants sont notamment à consigner :
 
-- nombre de parturientes accueillies ;
+-nombre de parturientes accueillies ;
 
-- nombre de prélèvements réalisés ;
+-nombre de prélèvements réalisés ;
 
-- nombre de prélèvements interrompus et motifs de l'arrêt ;
+-nombre de prélèvements interrompus et motifs de l'arrêt ;
 
-- tous renseignements concernant les parturientes exclues lors de l'entretien médical avec les motifs de leur exclusion, sans mentionner leur identité ;
+-tous renseignements concernant les parturientes exclues lors de l'entretien médical avec les motifs de leur exclusion, sans mentionner leur identité ;
 
-- tous renseignements concernant les réactions indésirables associées au prélèvement ;
+-tous renseignements concernant les réactions indésirables associées au prélèvement ;
 
-- tous renseignements concernant les nouveau-nés et les mères ayant généré le rejet du prélèvement lors de la qualification clinique néonatale et postnéonatale sans précision de leur identité ;
+-tous renseignements concernant les nouveau-nés et les mères ayant généré le rejet du prélèvement lors de la qualification clinique néonatale et postnéonatale sans précision de leur identité ;
 
-- nombre de travaux et publications et congrès.
+-nombre de travaux et publications et congrès.
 
 Ces documents permettent au personnel d'identifier chaque phase importante du prélèvement et d'établir régulièrement des statistiques que le médecin responsable du prélèvement analyse et exploite afin d'améliorer la qualité et l'organisation de l'activité.
 
@@ -1214,11 +1214,11 @@ Le prélèvement de cellules souches hématopoïétiques de moelle osseuse allog
 
 L'équipe pour un prélèvement de cellules souches hématopoïétiques de la moelle comprend au minimum :
 
-- un médecin préleveur, de préférence hématologue ou oncologue (cf. supra glossaire) associé à un autre médecin nommément désigné ;
+-un médecin préleveur, de préférence hématologue ou oncologue (cf. supra glossaire) associé à un autre médecin nommément désigné ;
 
-- un médecin anesthésiste-réanimateur (cf. supra glossaire) ;
+-un médecin anesthésiste-réanimateur (cf. supra glossaire) ;
 
-- deux infirmiers(ères) diplômés(ées) d'Etat de l'équipe du bloc opératoire, du service d'hématologie ou d'oncologie, du centre de transfusion, dont au moins une est habillée stérilement pour participer directement au prélèvement.
+-deux infirmiers (ères) diplômés (ées) d'Etat de l'équipe du bloc opératoire, du service d'hématologie ou d'oncologie, du centre de transfusion, dont au moins une est habillée stérilement pour participer directement au prélèvement.
 
 Le prélèvement est réalisé sous la responsabilité du médecin préleveur.
 
@@ -1226,11 +1226,11 @@ Le prélèvement est réalisé sous la responsabilité du médecin préleveur.
 
 Son rôle dans l'organisation de cette activité est de :
 
-- faire la demande à l'autorité administrative de l'autorisation de prélèvement pour son établissement en application de la réglementation en vigueur ;
+-faire la demande à l'autorité administrative de l'autorisation de prélèvement pour son établissement en application de la réglementation en vigueur ;
 
-- identifier un ou plusieurs locaux de prélèvement dans son établissement et les personnes qui en ont la responsabilité ;
+-identifier un ou plusieurs locaux de prélèvement dans son établissement et les personnes qui en ont la responsabilité ;
 
-- s'assurer que les moyens en matériel, locaux et personnels nécessaires à cette activité sont conformes aux dispositions réglementaires relatives aux conditions d'autorisation des établissements de santé effectuant des prélèvements et aux régles de bonnes pratiques de prélèvement.
+-s'assurer que les moyens en matériel, locaux et personnels nécessaires à cette activité sont conformes aux dispositions réglementaires relatives aux conditions d'autorisation des établissements de santé effectuant des prélèvements et aux régles de bonnes pratiques de prélèvement.
 
 Dans le cas d'un prélèvement envisagé sur un donneur mineur, il est responsable de la saisine du comité d'experts compétent pour autoriser le prélèvement, en application des dispositions légales et réglementaires en vigueur.
 
@@ -1246,17 +1246,17 @@ Il assure la consultation au cours de laquelle un entretien permet, d'une part, 
 
 Il est responsable du déroulement technique du prélèvement, ce qui implique de :
 
-- s'assurer du respect des procédures de prélèvement ;
+-s'assurer du respect des procédures de prélèvement ;
 
-- désigner et former la personne qui prépare, pèse et filtre les poches de recueil de la moelle osseuse ;
+-désigner et former la personne qui prépare, pèse et filtre les poches de recueil de la moelle osseuse ;
 
-- désigner le matériel de prélèvement ;
+-désigner le matériel de prélèvement ;
 
-- assurer la surveillance du prélèvement en vue de contrôler la quantité et de la qualité du produit ;
+-assurer la surveillance du prélèvement en vue de contrôler la quantité et de la qualité du produit ;
 
-- rédiger une fiche technique de prélèvement qui rassemble les principaux paramètres de l'acte de prélèvement (cf. infra II-3.4.4) ; cette fiche est jointe à un registre de prélèvements et au sous-dossier relatif au don de moelle osseuse ;
+-rédiger une fiche technique de prélèvement qui rassemble les principaux paramètres de l'acte de prélèvement (cf. infra II-3.4.4) ; cette fiche est jointe à un registre de prélèvements et au sous-dossier relatif au don de moelle osseuse ;
 
-- s'assurer que le produit prélevé est acheminé par une personne dûment désignée vers l'organisme de transformation des produits cellulaires autorisé.
+-s'assurer que le produit prélevé est acheminé par une personne dûment désignée vers l'organisme de transformation des produits cellulaires autorisé.
 
 Il prend en charge d'éventuels incidents relatifs au prélèvement et assure le suivi médical du donneur à moyen et long terme.
 
@@ -1284,11 +1284,11 @@ Il informe et forme le personnel du bloc opératoire à l'activité de prélève
 
 Il gère le matériel et sa maintenance, les stocks des produits consommables et les relations avec les fournisseurs. Il tient à jour le registre du bloc opératoire en y inscrivant le nom de l'opérateur, le nom de la personne prélevée, l'acte réalisé.
 
-3.1.2. Qualifications/expérience
+3.1.2. Qualifications/ expérience
 
 Les personnes habilitées à prélever des cellules souches hématopoïétiques médullaires sont des médecins, de préférence hématologues ou oncologues (cf. supra glossaire) ou des médecins en formation désignés par le médecin responsable du prélèvement.
 
-L'expérience requise pour les médecins et les infirmiers(ères) est de 25 prélèvements effectués sous la direction de médecins et infirmiers(ères), respectivement, déjà qualifiés.
+L'expérience requise pour les médecins et les infirmiers (ères) est de 25 prélèvements effectués sous la direction de médecins et infirmiers (ères), respectivement, déjà qualifiés.
 
 3.2. Locaux et matériel
 
@@ -1310,27 +1310,27 @@ Matériel nécessaire à l'anesthésie de la personne à prélever. Il est tenu 
 
 Matériel nécessaire au prélèvement des cellules souches hématopoïétiques médullaires soit :
 
-- des poches de recueil contenant un milieu de conservation ;
+-des poches de recueil contenant un milieu de conservation ;
 
-- des trocarts de prélèvement ;
+-des trocarts de prélèvement ;
 
-- des tubes échantillons ;
+-des tubes échantillons ;
 
-- des seringues ;
+-des seringues ;
 
-- des produits anticoagulants ;
+-des produits anticoagulants ;
 
-- une balance ;
+-une balance ;
 
-- des tubulures ;
+-des tubulures ;
 
-- une soudeuse ;
+-une soudeuse ;
 
-- un filtre ;
+-un filtre ;
 
-- des portoirs pour tubes échantillons ;
+-des portoirs pour tubes échantillons ;
 
-- des enveloppes de protection pour le produit cellulaire transporté et des récipients de transport ;
+-des enveloppes de protection pour le produit cellulaire transporté et des récipients de transport ;
 
 Matériel nécessaire à la réalisation des procédures aseptiques concernant l'habillement et la préparation du site opératoire.
 
@@ -1352,15 +1352,15 @@ Outre l'identification, les renseignements recueillis permettent d'informer le d
 
 3.3.1.2. Sélection des donneurs
 
-En cas de prélèvement en vue de greffe de moelle osseuse allogénique, la sélection des donneurs repose sur l'appariement immunologique donneur/receveur, sur le respect de la réglementation en vigueur et sur les principes établis dans les bonnes pratiques de prélèvement homologuées.
+En cas de prélèvement en vue de greffe de moelle osseuse allogénique, la sélection des donneurs repose sur l'appariement immunologique donneur/ receveur, sur le respect de la réglementation en vigueur et sur les principes établis dans les bonnes pratiques de prélèvement homologuées.
 
 3.3.1.3. Règles du don
 
 Les règles essentielles qui régissent le prélèvement allogénique sont :
 
-- des circonstances particulières pour les donneurs apparentés, notamment en ce qui concerne la femme enceinte ; la décision est prise conjointement par les médecins responsables du prélèvement et un comité d'experts ;
+-des circonstances particulières pour les donneurs apparentés, notamment en ce qui concerne la femme enceinte ; la décision est prise conjointement par les médecins responsables du prélèvement et un comité d'experts ;
 
-- des limites de volume et de fréquence des prélèvements. Le volume maximal prélevé unitairement est de 20 ml par kilogramme du poids de la personne prélevée et le nombre de prélèvements est adapté à la nécessité thérapeutique et fait l'objet d'une décision conjointe du donneur, du médecin préleveur et de l'anesthésiste-réanimateur.
+-des limites de volume et de fréquence des prélèvements. Le volume maximal prélevé unitairement est de 20 ml par kilogramme du poids de la personne prélevée et le nombre de prélèvements est adapté à la nécessité thérapeutique et fait l'objet d'une décision conjointe du donneur, du médecin préleveur et de l'anesthésiste-réanimateur.
 
 3.3.1.4. Entretien médical préalable
 
@@ -1390,17 +1390,17 @@ Les personnes jugées aptes au prélèvement à l'issue de l'examen médical son
 
 Les contrôles avant prélèvement comprennent au minimum :
 
-- un hémogramme ;
+-un hémogramme ;
 
-- un bilan d'hémostase ;
+-un bilan d'hémostase ;
 
-- un ionogramme ;
+-un ionogramme ;
 
-- un dosage des transaminases ;
+-un dosage des transaminases ;
 
-- la détermination des groupes sanguins avec phénotypage et recherche d'anticorps irréguliers anti-érythrocytaires ;
+-la détermination des groupes sanguins avec phénotypage et recherche d'anticorps irréguliers anti-érythrocytaires ;
 
-- le bilan microbiologique selon la réglementation en vigueur.
+-le bilan microbiologique selon la réglementation en vigueur.
 
 Le bilan doit être effectué dans le mois qui précède le prélèvement.
 
@@ -1412,9 +1412,9 @@ En cas de besoin transfusionnel et en l'absence de contre-indication à la trans
 
 Les cellules souches hématopoïétiques médullaires sont prélevées par aspiration de la moelle osseuse au moyen de trocards.
 
-Le produit cellulaire prélevé contient, au minimum, 2.108 cellules nucléées totales/kg de poids du receveur.
+Le produit cellulaire prélevé contient, au minimum, 2.108 cellules nucléées totales/ kg de poids du receveur.
 
-Si le produit cellulaire prélevé est inférieur à 2.108 cellules nucléées totales/kg de poids du receveur, une décision conjointe entre le médecin préleveur et le médecin anesthésiste-réanimateur doit être prise pour la poursuite du prélèvement.
+Si le produit cellulaire prélevé est inférieur à 2.108 cellules nucléées totales/ kg de poids du receveur, une décision conjointe entre le médecin préleveur et le médecin anesthésiste-réanimateur doit être prise pour la poursuite du prélèvement.
 
 Les poches sont étiquetées dès le prélèvement et la personne désignée pour cette tâche doit vérifier que le numéro de prélèvement figurant sur la fiche de prélèvement est le même que celui figurant sur les poches de prélèvement et les tubes échantillons.
 
@@ -1440,19 +1440,19 @@ Il doit être conforme à la législation en vigueur le concernant.
 
 Il contient toutes les informations générées dans le cadre de l'activité de prélèvement avant et après le don et les informations relatives à la qualification biologique et à la validation sérologique du don fournies par les laboratoires concernés, et notamment les informations administratives suivantes :
 
-- nom, nom de naissance suivi du nom marital s'il y a lieu ;
+-nom, nom de naissance suivi du nom marital s'il y a lieu ;
 
-- prénom ;
+-prénom ;
 
-- sexe ;
+-sexe ;
 
-- date et lieu de naissance ;
+-date et lieu de naissance ;
 
-- adresse personnelle complète ;
+-adresse personnelle complète ;
 
-- numéros de téléphone : personnel et professionnel s'il y a lieu ;
+-numéros de téléphone : personnel et professionnel s'il y a lieu ;
 
-- numéro d'identification de la personne à prélever.
+-numéro d'identification de la personne à prélever.
 
 Il contient également les informations obtenues lors de l'examen médical et les sérologies virales du donneur. Il doit respecter l'anonymat du donneur en situation non apparentée. Il peut être informatisé. Dans ce cas, seules les personnes autorisées peuvent entrer ou modifier des données dans l'ordinateur et les changements ou suppression doivent être relevés ; l'accès doit être protégé par des mots de passe ou tout autre moyen. Ils doivent être accessibles au médecin qui réalise l'examen médical. Il appartient au directeur de l'établissement de veiller au respect des dispositions législatives et réglementaires en vigueur. Le responsable de l'activité s'assure que la personne à prélever reçoit toute information nécessaire quant aux droits qui lui sont garantis par la loi (cf. supra I-7.5).
 
@@ -1464,16 +1464,16 @@ Une fiche technique de prélèvement est rédigée par le médecin préleveur po
 
 Ce rapport indique notamment, dans le respect des prescriptions réglementaires applicables :
 
-- le nombre de donneurs et de patients accueillis ;
+-le nombre de donneurs et de patients accueillis ;
 
-- le nombre de prélèvements autologues et allogéniques effectués ;
+-le nombre de prélèvements autologues et allogéniques effectués ;
 
-- le nombre de prélèvements non effectués et leurs motifs ;
+-le nombre de prélèvements non effectués et leurs motifs ;
 
-- les renseignements concernant les réactions indésirables voire les accidents ;
+-les renseignements concernant les réactions indésirables voire les accidents ;
 
-- la liste du personnel impliqué dans l'activité ;
+-la liste du personnel impliqué dans l'activité ;
 
-- les formations suivies par ce personnel ;
+-les formations suivies par ce personnel ;
 
-- les perspectives du secteur d'activité.
+-les perspectives du secteur d'activité.

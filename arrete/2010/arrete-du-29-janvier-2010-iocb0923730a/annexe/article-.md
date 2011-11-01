@@ -32,9 +32,7 @@ Nombre de fonctionnaires par sexe et catégorie hiérarchique (4) occupant un em
 
 ― en cessation progressive d'activité.
 
-Nombre d'agents non titulaires
-
-occupant un emploi permanent rémunérés au 31 décembre
+Nombre d'agents non titulaires occupant un emploi permanent rémunérés au 31 décembre
 
 Nombre d'agents non titulaires occupant un emploi permanent à temps complet (temps plein, temps partiel) par sexe, par filière (2), par cadre d'emplois (3) et par type de recrutement.
 
@@ -82,9 +80,7 @@ Nombre de personnes bénéficiant d'une rémunération accessoire autorisée par
 
 Autres (agents non classables dans les catégories précédentes) : nombre total sur l'année (en nombre de personnes physiques).
 
-Positions statutaires particulières au 31 décembre
-
-des agents gérés par la collectivité territoriale
+Positions statutaires particulières au 31 décembre des agents gérés par la collectivité territoriale
 
 Nombre d'agents en congé parental.
 
@@ -110,9 +106,7 @@ Nombre d'agents mis à disposition :
 
 Nombre de fonctionnaires originaires de la collectivité pris en charge par le centre de gestion ou le Centre national de la fonction publique territoriale par classe d'ancienneté de prise en charge (6).
 
-Mouvements du personnel : recrutements, titularisations
-
-ou promotions d'agents sur emploi permanent
+Mouvements du personnel : recrutements, titularisations ou promotions d'agents sur emploi permanent
 
 Nombre d'agents (fonctionnaires, non-titulaires sur emploi permanent) ayant quitté la collectivité durant l'année : recensement par motif (mise à disposition, détachement, décharge de service, démission, fin de contrat, retraite, licenciement, décès...).
 
@@ -314,9 +308,7 @@ Nombre d'accidents de service, d'accidents de travail imputables au trajet avec 
 
 Nombre de maladies professionnelles reconnues imputables au service, par filière (2) et par cadre d'emplois (3).
 
-Fonctionnaires inaptes
-
-par sexe, âge, ancienneté, filière et catégorie
+Fonctionnaires inaptes par sexe, âge, ancienneté, filière et catégorie
 
 Nombre de fonctionnaires ayant demandé à être reclassés au cours de l'année suite à une inaptitude liée à un accident du travail ou une maladie professionnelle, par sexe, âge, ancienneté, filière et catégorie.
 
@@ -392,9 +384,7 @@ Frais de déplacement des stagiaires.
 
 Coût total des actions de formation.
 
-Concours et examens professionnels
-
-organisés par les collectivités territoriales non affiliées à un centre de gestion
+Concours et examens professionnels organisés par les collectivités territoriales non affiliées à un centre de gestion
 
 (En référence à la liste des concours et examens professionnels relevant de leur compétence)
 
@@ -408,7 +398,7 @@ Droits sociaux
 
 Nombre de réunions du comité technique paritaire (CTP).
 
-Nombre de réunions du comité d'hygiène et de sécurité (CHS).
+Nombre de réunions du comité d'hygiène, de sécurité et des conditions de travail (CHS).
 
 Nombre de réunions de la commission administrative paritaire (CAP).
 
@@ -463,5 +453,5 @@ Taux de participation.
 </font>
 
 <font color="#808080" size="1">
-<em>(6) Classes d'ancienneté de prise en charge : inférieur à un an, entre un et deux ans, deux à cinq ans, supérieur à cinq ans. </em>
+<em>(6) Classes d'ancienneté de prise en charge : inférieur à un an, entre un et deux ans, deux à cinq ans, supérieur à cinq ans.</em>
 </font>

@@ -98,7 +98,7 @@ Les voies de recours ;
 
 Les comités techniques :
 
-Les comités d'hygiène et de sécurité et des conditions de travail ;
+Les      comités d'hygiène, de sécurité et des conditions de travail et des conditions de travail ;
 
 Les commissions administratives paritaires.
 

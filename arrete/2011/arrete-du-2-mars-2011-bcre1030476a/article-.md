@@ -1,12 +1,8 @@
 # Article 
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter le tableau dans le JO n° 55 du 06/03/2011 texte numéro 19
 
-n° 55 du 06/03/2011 texte numéro 19
-
-PROGRAMME DE L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
-
-ET DE L'ÉPREUVE ORALE D'ADMISSION N° 2 DU CONCOURS EXTERNE
+PROGRAMME DE L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2 ET DE L'ÉPREUVE ORALE D'ADMISSION N° 2 DU CONCOURS EXTERNE
 
 1. Droit constitutionnel et administratif
 
@@ -450,7 +446,7 @@ Espace de probabilités.
 
 Lois discrètes usuelles (Bernoulli, binomiale, géométrique, hypergéométrique, Poisson...).
 
-Lois continues usuelles (uniforme, exponentielle, de Cauchy, de Gauss, normale centrée réduite, de Pareto, loi du  khi-deux , Student...).
+Lois continues usuelles (uniforme, exponentielle, de Cauchy, de Gauss, normale centrée réduite, de Pareto, loi du khi-deux, Student...).
 
 Indépendance en probabilité, probabilités conditionnelles, formule de Bayes, formule des probabilités totales.
 
@@ -478,7 +474,7 @@ Méthode des moindres carrés.
 
 Statistiques inductives
 
-Estimateurs d'une suite (Xn)n e N de variables aléatoires indépendantes et de même loi dépendant d'un paramètre u e Rm :
+Estimateurs d'une suite (Xn) n e N de variables aléatoires indépendantes et de même loi dépendant d'un paramètre u e Rm :
 
 ― estimateurs simples, estimateur du maximum de vraisemblance, vraisemblance ;
 
@@ -492,7 +488,7 @@ Estimateurs d'une suite (Xn)n e N de variables aléatoires indépendantes et de 
 
 Estimation par intervalle de confiance, niveau de confiance et de risque.
 
-Tests d'hypothèses : Bayes, Neyman-Pearson,  khi-deux , Fisher-Snedecor...
+Tests d'hypothèses : Bayes, Neyman-Pearson, khi-deux, Fisher-Snedecor...
 
 7. Mathématiques
 
@@ -526,7 +522,7 @@ Systèmes de numération.
 
 III. ― Structures algébriques
 
-Groupes, anneaux, corps : définitions, exemples simples (N, Q, R, C, Z/nZ, Z/pZ, de cardinal fini, matrices).
+Groupes, anneaux, corps : définitions, exemples simples (N, Q, R, C, Z/ nZ, Z/ pZ, de cardinal fini, matrices).
 
 Anneaux unitaires, intègres, euclidiens, principaux : définitions, exemples simples, contre-exemples.
 
@@ -552,7 +548,7 @@ Topologie des réels : voisinage d'un point, ouverts et fermés de R, intérieur
 
 Suites de réels. Suites croissantes, bornées, adjacentes, géométriques, arithmétiques, de Cauchy. Développement décimal illimité : nombres rationnels, nombres irrationnels.
 
-Suites définies par une relation de récurrence, notamment étude des suites récurrentes linéaires d'ordre 1 et 2. Etude des suites définies par une fonction f : un + 1 = f(un).
+Suites définies par une relation de récurrence, notamment étude des suites récurrentes linéaires d'ordre 1 et 2. Etude des suites définies par une fonction f : un + 1 = f (un).
 
 Convergence, limites, limites de la somme, du produit, du quotient de deux suites réelles.
 
@@ -588,7 +584,7 @@ Développements en séries entières.
 
 VIII. ― Etude des polynômes et fractions rationnelles
 
-Arithmétique dans K[X] où K= R ou C. PGCD, PPCM, division euclidienne, division selon les puissances croissantes, polynômes irréductibles.
+Arithmétique dans K [X] où K = R ou C. PGCD, PPCM, division euclidienne, division selon les puissances croissantes, polynômes irréductibles.
 
 Théorème de d'Alembert, résolution des équations de degré 1 ou 2, des équations bicarrées. Factorisation d'un polynôme. Relations entre coefficients et racines.
 
@@ -840,9 +836,7 @@ Tutelle et pilotage.
 
 III. ― Les finances locales
 
-A. ― Organisation administrative, financière et comptable
-
-des collectivités territoriales et des établissements publics locaux
+A. ― Organisation administrative, financière et comptable des collectivités territoriales et des établissements publics locaux
 
 B. ― Ressources et charges des collectivités territoriales
 
@@ -940,7 +934,7 @@ Tenue des fichiers.
 
 D. ― Les remboursements de crédits TVA
 
-E. ― Le régime particulier des biens d'occasion (à l'exclusion des autres régimes spéciaux
+E. ― Le régime particulier des biens d'occasion (à l'exclusion des  autres régimes spéciaux
 
 tels que celui de l'agriculture ou des marchands de biens...)
 
@@ -1148,15 +1142,13 @@ VIII. ― L'impôt de solidarité sur la fortune
 
 IX. ― Le contrôle des DFE
 
-Contrôle corrélé revenus/patrimoine (IR-ISF) : méthodologie et balance de cohérence.
+Contrôle corrélé revenus/ patrimoine (IR-ISF) : méthodologie et balance de cohérence.
 
 X. ― Organisation des services relevant de la fiscalité immobilière
 
 XI. ― Procédures de contrôle sur pièces et de contentieux en matière de fiscalité patrimoniale
 
-XII. ― Outils informatiques permettant le traitement
-
-et le suivi des dossiers en matière de fiscalité patrimoniale
+XII. ― Outils informatiques permettant le traitement et le suivi des dossiers en matière de fiscalité patrimoniale
 
 3. Gestion publique
 
@@ -1358,9 +1350,7 @@ II. ― Analyse financière
 
 Les soldes intermédiaires de gestion, la capacité d'autofinancement et les ratios de gestion
 
-5. Budget, immobilier, gestion des ressources humaines, logistique
-
-et organisation de la DGFiP
+5. Budget, immobilier, gestion des ressources humaines, logistique et organisation de la DGFiP
 
 I. ― Gestion des ressources humaines
 
@@ -1384,7 +1374,7 @@ Le déroulement de carrière :
 
 Règles déontologiques.
 
-Les organismes de gestion et de dialogue social de la fonction publique : Conseil supérieur de la fonction publique, commissions administratives paritaires et comités techniques, comités d'hygiène et de sécurité.
+Les organismes de gestion et de dialogue social de la fonction publique : Conseil supérieur de la fonction publique, commissions administratives paritaires et comités techniques, comités d'hygiène, de sécurité et des conditions de travail.
 
 Le droit syndical et ses conditions d'exercice.
 
@@ -1414,7 +1404,7 @@ L'action sociale : organisation et missions des relais locaux des services socia
 
 C. ― Le recrutement et la formation professionnelle
 
-Organisation et gestion des recrutements et concours : recrutements spécifiques (auxiliaires, contractuels,  PACTE ...). Gestion logistique des épreuves de concours.
+Organisation et gestion des recrutements et concours : recrutements spécifiques (auxiliaires, contractuels, PACTE...). Gestion logistique des épreuves de concours.
 
 Objectifs, organisation et gestion administrative de la formation professionnelle.
 

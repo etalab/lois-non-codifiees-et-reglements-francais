@@ -106,7 +106,7 @@ Pour l'avancement d'échelon, de grade, de corps, et toute autre mesure découla
 
 Article 28
 
-Des emplois de chef de service et d'attaché d'administration ainsi que de secrétaire administratif peuvent être occupés par des fonctionnaires des administrations centrales de l'Etat ou des agents administratifs permanents du régime minier, dans la limite du 1 / 20 de l'effectif des chefs de service et attachés d'administration, d'une part, et des secrétaires administratifs, d'autre part.
+Des emplois de chef de service et d'attaché d'administration ainsi que de secrétaire administratif peuvent être occupés par des fonctionnaires des administrations centrales de l'Etat ou des agents administratifs permanents du régime minier, dans la limite du 1/20 de l'effectif des chefs de service et attachés d'administration, d'une part, et des secrétaires administratifs, d'autre part.
 
 Ces agents ne peuvent, sauf exceptions prévues par la réglementation, être affiliés au régime de retraite du personnel de la caisse autonome nationale, ni acquérir, à ce titre, des droits quelconques à pensions ou allocations.
 
@@ -138,9 +138,7 @@ Les dispositions applicables en matière de régime de travail (temps partiel), 
 
 Les agents de la caisse autonome nationale bénéficient d'actions de formation professionnelle dans des conditions analogues à celles prévues pour les fonctionnaires des administrations centrales de l'Etat et de la Caisse des dépôts et consignations.
 
-Traitements, accessoires de rémunération,
-
-indemnités et primes
+Traitements, accessoires de rémunération, indemnités et primes
 
 Article 34
 
@@ -268,7 +266,7 @@ III.-Instances représentatives du personnel
 
 Article 44
 
-Il est institué au siège de la Caisse autonome nationale de la sécurité sociale dans les mines des commissions administratives paritaires et un comité technique paritaire assisté d'un comité d'hygiène et de sécurité.
+Il est institué au siège de la Caisse autonome nationale de la sécurité sociale dans les mines des commissions administratives paritaires et un comité technique paritaire assisté d'un comité d'hygiène, de sécurité et des conditions de travail.
 
 Leur organisation, leur composition, leurs attributions et leur fonctionnement sont fixés par référence aux modalités prévues pour les instances correspondantes dans les administrations centrales de l'Etat, sous réserve des dispositions ci-après.
 
@@ -411,13 +409,11 @@ Le comité technique paritaire est présidé par le directeur.
 
 Le président peut toutefois, en cas d'empêchement, se faire remplacer par le représentant de la direction au sein du comité qui est le plus ancien dans l'emploi ou le grade le plus élevé.
 
-Comité d'hygiène et de sécurité. ―
-
-Commission de formation professionnelle continue
+Comité d'hygiène et de sécurité. ― Commission de formation professionnelle continue
 
 Article 52
 
-Le comité d'hygiène et de sécurité et la commission de formation professionnelle continue sont présidés par le directeur, ou par un représentant de la direction désigné par lui.
+Le comité d'hygiène, de sécurité et des conditions de travail et la commission de formation professionnelle continue sont présidés par le directeur, ou par un représentant de la direction désigné par lui.
 
 Commission consultative paritaire
 
@@ -463,7 +459,7 @@ Article 56
 
 (Modifié avec effet au 1er janvier 1997)
 
-La dotation annuelle du comité de gestion des services sociaux pour les prestations, à l'exception des prêts, est égale à 2, 55 % des charges de personnel.
+La dotation annuelle du comité de gestion des services sociaux pour les prestations, à l'exception des prêts, est égale à 2,55 % des charges de personnel.
 
 Le conseil d'administration fixe chaque année les crédits ouverts pour le service des prêts sociaux aux agents en activité ou pensionnés.
 

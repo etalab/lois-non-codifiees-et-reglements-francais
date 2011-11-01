@@ -16,7 +16,7 @@ En liaison avec le secrétariat général :
 
 ― elle participe au suivi des recrutements opérés dans les services déconcentrés ;
 
-― elle participe à la gestion collective des agents qui relèvent de la direction générale ; à ce titre, elle met en place une gestion prévisionnelle des emplois et des compétences ; elle assure le fonctionnement des organismes consultatifs paritaires et des comités d'hygiène et de sécurité qui lui sont rattachés.
+― elle participe à la gestion collective des agents qui relèvent de la direction générale ; à ce titre, elle met en place une gestion prévisionnelle des emplois et des compétences ; elle assure le fonctionnement des organismes consultatifs paritaires et des      comités d'hygiène, de sécurité et des conditions de travail qui lui sont rattachés.
 
 Elle assure le secrétariat général du programme dont le directeur général est responsable. En liaison avec le secrétariat général et le service du contrôle budgétaire et comptable ministériel, elle veille à la bonne exécution de la programmation, en recettes et en dépenses.
 

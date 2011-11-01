@@ -114,6 +114,6 @@ Les collectivités territoriales : la région, le département, la commune, les 
 
 5. Les services pénitentiaires d'insertion et de probation
 
-La gestion des ressources humaines : commissions administratives paritaires, comités techniques paritaires, comités d'hygiène et de sécurité.
+La gestion des ressources humaines : commissions administratives paritaires, comités techniques paritaires,      comités d'hygiène, de sécurité et des conditions de travail.
 
 Les missions, les champs de compétence : mobilité, liste d'aptitude, avancement.

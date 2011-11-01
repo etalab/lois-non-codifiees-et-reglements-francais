@@ -6,7 +6,7 @@ Le service de santé et de secours médical exerce les missions suivantes :
 
 2° L'exercice de la médecine professionnelle et d'aptitude des sapeurs-pompiers professionnels et de la médecine d'aptitude des sapeurs-pompiers volontaires ;
 
-3° Le conseil en matière de médecine préventive, d'hygiène et de sécurité, notamment auprès du comité d'hygiène et de sécurité ;
+3° Le conseil en matière de médecine préventive, d'hygiène et de sécurité, notamment auprès du      comité d'hygiène, de sécurité et des conditions de travail ;
 
 4° Le soutien sanitaire des interventions de l'établissement public d'incendie et de secours de la Nouvelle-Calédonie et les soins d'urgence aux sapeurs-pompiers ;
 

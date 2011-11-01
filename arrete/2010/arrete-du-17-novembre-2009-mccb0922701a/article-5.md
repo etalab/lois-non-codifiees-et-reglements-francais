@@ -4,7 +4,7 @@ Sous-direction des affaires financières et générales.
 
 La sous-direction des affaires financières et générales exerce une mission d'organisation et de coordination du fonctionnement de la direction générale et assure la gestion des moyens humains, logistiques et budgétaires affectés à la direction générale, en liaison avec les services de la direction générale et avec le secrétariat général.
 
-I. ― Elle contribue à la définition de la politique des ressources humaines s'appliquant à la direction générale et aux services à compétence nationale qui lui sont rattachés. Elle participe à la gestion collective des agents et met notamment en place à ce titre une gestion prévisionnelle des emplois et des compétences et un plan de formation. Elle assure le fonctionnement des organismes consultatifs paritaires et des comités d'hygiène et de sécurité qui lui sont rattachés. Elle participe à la programmation des recrutements au niveau ministériel. Elle veille au respect du plafond d'emploi des services et des opérateurs rattachés à la direction générale. Elle participe, en liaison avec les autres services de la direction générale, au suivi des recrutements opérés dans les services déconcentrés.
+I. ― Elle contribue à la définition de la politique des ressources humaines s'appliquant à la direction générale et aux services à compétence nationale qui lui sont rattachés. Elle participe à la gestion collective des agents et met notamment en place à ce titre une gestion prévisionnelle des emplois et des compétences et un plan de formation. Elle assure le fonctionnement des organismes consultatifs paritaires et des      comités d'hygiène, de sécurité et des conditions de travail qui lui sont rattachés. Elle participe à la programmation des recrutements au niveau ministériel. Elle veille au respect du plafond d'emploi des services et des opérateurs rattachés à la direction générale. Elle participe, en liaison avec les autres services de la direction générale, au suivi des recrutements opérés dans les services déconcentrés.
 
 II. ― Elle est responsable de la préparation et de la coordination de la programmation budgétaire, de l'exécution budgétaire et comptable et du suivi des crédits gérés en administration centrale. Elle propose au directeur général les choix de répartition des crédits et des effectifs entre l'administration centrale, les services déconcentrés, les services à compétence nationale et les opérateurs relevant du domaine de compétence de la direction générale.
 
@@ -48,7 +48,7 @@ VIII. ― Elle met en œuvre l'observation statistique des secteurs du spectacle
 
 Elle coordonne la programmation des études menées par la direction générale.
 
-IX. - La sous-direction des affaires financières et générales comprend :
+IX.-La sous-direction des affaires financières et générales comprend :
 
 ― le bureau des affaires générales ;
 

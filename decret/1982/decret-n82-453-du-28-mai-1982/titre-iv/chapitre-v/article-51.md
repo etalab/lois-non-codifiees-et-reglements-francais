@@ -1,3 +1,9 @@
 # Article 51
 
-Le comité d'hygiène et de sécurité peut demander à l'autorité administrative de faire appel à un expert agréé en application de l'article R. 236-40 du Code du travail en cas de risque grave, révélé ou non par un accident de service, ou de maladie à caractère professionnel. Les frais d'expertise sont supportés par l'Administration ou l'établissement dont relève le comité d'hygiène et de sécurité. Le chef de service ou d'établissement fournit à l'expert les informations nécessaires à sa mission. Ce dernier est soumis à l'obligation de discrétion définie à l'article 56 ci-dessous. La décision de l'administration refusant la désignation d'un expert doit être substantiellement motivée. Cette décision est communiquée au comité d'hygiène et de sécurité ministériel.
+Le comité d'hygiène, de sécurité et des conditions de travail procède à l'analyse des risques professionnels dans les conditions définies par l'article L. 4612-2 du code du travail.
+
+Le comité d'hygiène, de sécurité et des conditions de travail contribue en outre à la promotion de la prévention des risques professionnels et suscite toute initiative qu'il estime utile dans cette perspective conformément à l'article L. 4612-3 du même code. Il peut proposer notamment des actions de prévention du harcèlement moral et du harcèlement sexuel.
+
+Le comité d'hygiène, de sécurité et des conditions de travail suggère toute mesure de nature à améliorer l'hygiène et la sécurité du travail, à assurer l'instruction et le perfectionnement des agents dans les domaines de l'hygiène et de la sécurité. Il coopère à la préparation des actions de formation à l'hygiène et à la sécurité et veille à leur mise en œuvre.
+
+Il exerce ses attributions et est consulté dans les conditions et limites précisées pour chaque catégorie de comité par les articles 49 et 50 du présent décret.
