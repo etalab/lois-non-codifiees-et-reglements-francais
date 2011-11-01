@@ -9,3 +9,4 @@
 - [Chapitre VII :   Gestion et traitement des déchets   issus de l'incinération et de la co-incinération](chapitre-vii)
 - [Chapitre VIII :   Surveillance des rejets   et de l'impact sur l'environnement](chapitre-viii)
 - [Chapitre IX :   Informations sur le fonctionnement   ou l'arrêt de l'installation](chapitre-ix)
+- [Chapitre X : Performance énergétique des installations d'incinération](chapitre-x)
