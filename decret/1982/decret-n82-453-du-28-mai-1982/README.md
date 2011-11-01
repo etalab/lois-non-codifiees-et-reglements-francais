@@ -4,4 +4,3 @@
 - [Titre II : Formation en matière d'hygiène et de sécurité.](titre-ii)
 - [Titre III : Médecine de prévention.](titre-iii)
 - [Titre IV : Comité d'hygiène, de sécurité et des conditions de travail](titre-iv)
-- [Article 64](article-64.md)
