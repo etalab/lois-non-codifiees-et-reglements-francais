@@ -4,7 +4,7 @@ Le secrétaire général assure la gestion du corps préfectoral, des administra
 
 Il étudie, propose et exécute les mesures relatives à la modernisation, à l'organisation, à la déconcentration, au contrôle de gestion du ministère et veille à la mise en oeuvre des nouvelles formes de la gestion publique.
 
-Il est responsable des programmes de la mission "administration générale et territoriale de l'Etat".
+Il est responsable des programmes de la mission " administration générale et territoriale de l'Etat ".
 
 Il est chargé des questions budgétaires et financières. Il représente le ministre dans le cadre des négociations budgétaires interministérielles.
 
@@ -16,6 +16,6 @@ Il impulse la modernisation des statuts de l'ensemble des corps de fonctionnaire
 
 Le secrétaire général détermine et conduit les actions de communication interne et externe du ministère.
 
-Il peut assurer au nom du ministre la présidence du comité technique paritaire ministériel.
+Il peut assurer au nom du ministre la présidence du comité technique ministériel.
 
 Il assure le secrétariat du collège stratégique.
