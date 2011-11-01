@@ -4,13 +4,15 @@ Par dérogation à l'article 37 du décret du 28 mai 1982 susvisé et à l'artic
 
 1° Lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire appartient :
 
-a) A la hors-classe des professeurs agrégés, le représentant du personnel titulaire siège avec un suppléant qui a voix délibérative ;
+a) A la hors-classe des professeurs agrégés, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative ;
 
 b) A la hors-classe des professeurs certifiés, les trois représentants du personnel titulaires siègent avec trois suppléants qui ont voix délibérative ;
 
-c) A la hors-classe des professeurs d'éducation physique et sportive, le représentant du personnel titulaire siège avec son suppléant qui a voix délibérative ;
+c) A la hors-classe des professeurs d'éducation physique et sportive, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative ;
 
-d) A la hors-classe ou à la classe exceptionnelle des chargés d'enseignement d'éducation physique et sportive, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative.
+d) A la hors-classe ou à la classe exceptionnelle des chargés d'enseignement d'éducation physique et sportive, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative ;
+
+e) A la hors-classe des professeurs de lycée professionnel, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative.
 
 2° Les représentants du personnel titulaires et suppléants mentionnés au 1° sont les élus du grade auquel le fonctionnaire appartient.
 

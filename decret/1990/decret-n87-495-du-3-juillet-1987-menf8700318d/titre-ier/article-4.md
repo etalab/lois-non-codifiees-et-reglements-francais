@@ -1,3 +1,0 @@
-# Article 4
-
-Par dérogation aux dispositions de l'article 37 du décret du 28 mai 1982 susvisé, lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire des professeurs de lycée professionnel appartient à la hors-classe du 2e grade de ce corps, le représentant de cette hors-classe siège avec son premier suppléant ou à défaut son deuxième suppléant qui a alors voix délibérative. Il est, dans ce cas, fait appel à un représentant supplémentaire de l'administration choisi parmi les suppléants.

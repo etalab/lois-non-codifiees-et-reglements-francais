@@ -1,49 +1,44 @@
 # Article 5
 
-Pour l'application de l'article 4 ci-dessus, les sièges des membres titulaires au sein de chaque commission administrative paritaire sont répartis conformément au tableau suivant :
+Pour l'application de l'article 4, les sièges des membres titulaires au sein de chaque commission administrative paritaire départementale ainsi qu'au sein de celle du Département de Mayotte sont répartis conformément au tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<strong>DEPARTEMENTS <br/>
-</strong>
-<br/>de 2 800 emplois et plus</p>
+<th>
+<br/>DÉPARTEMENTS DONT L'EFFECTIF <br/>
+<br/>est égal ou supérieur à 2   800 <br/>
+</th>
+<th>
+<br/>DÉPARTEMENTS DONT L'EFFECTIF <br/>
+<br/>est égal ou supérieur à 1   500 <br/>
+<br/>et inférieur à 2   800 <br/>
+</th>
+<th>
+<br/>DÉPARTEMENTS DONT L'EFFECTIF <br/>
+<br/>est inférieur à 1   500 <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Professeurs des écoles de classe normale et instituteurs : 9 sièges. <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">
-<strong>DEPARTEMENTS <br/>
-</strong>
-<br/>dont le nombre d'emplois est égal ou supérieur à 1 500 et inférieur à 2 800</p>
+<td align="center">
+<br/>Professeurs des écoles de classe normale et instituteurs : 6 sièges. <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">
-<strong>DEPARTEMENTS <br/>
-</strong>
-<br/>de moins de 1 500 emplois</p>
+<td align="center">
+<br/>Professeurs des écoles de classe normale et instituteurs : 4 sièges. <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">Professeurs des écoles de classe normale et instituteurs : 9 sièges.</p>
+<td align="center">
+<br/>Professeurs des écoles hors classe : 1 siège. <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Quatre professeurs des écoles de classe normale et instituteurs : 6 sièges.</p>
+<td align="center">
+<br/>Professeurs des écoles hors classe : 1 siège. <br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Professeurs des écoles de classe normale : 4 sièges.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">Professeur des écoles hors classe : 1 siège.</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Professeur des écoles hors classe 1 siège.</p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Professeur des écoles hors classe : 1 siège.</p>
+<td align="center">
+<br/>Professeurs des écoles hors classe : 1 siège.<br/>
 </td>
 </tr>
 </tbody>

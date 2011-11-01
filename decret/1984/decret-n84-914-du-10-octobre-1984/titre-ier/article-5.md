@@ -1,16 +1,16 @@
 # Article 5
 
-Par dérogation aux dispositions de l'article 34 du décret du 29 mai 1992 susvisé, les commissions administratives paritaires nationales des corps mentionnés à l'article 2 ci-dessus siègent en formations paritaires mixtes nationales lorsqu'elles sont appelées à donner un avis sur les tableaux de mutations interacadémiques de maîtres enseignant une même discipline mais appartenant à des corps différents.
+Par dérogation aux dispositions de l'article 34 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires nationales des corps mentionnés aux 1,2 et 3 de l'article 2 du présent décret siègent en formations paritaires mixtes nationales lorsqu'elles sont appelées à donner un avis sur les tableaux de mutations interacadémiques de maîtres enseignant une même discipline mais appartenant à des corps différents.
 
 Les formations paritaires mixtes nationales comprennent en nombre égal des représentants de l'administration et des représentants du personnel. Elles ont des membres titulaires et un nombre égal de membres suppléants.
 
 Le nombre des représentants titulaires du personnel au sein des formations paritaires mixtes nationales est fixé ainsi qu'il suit :
 
-1. Pour les disciplines comportant des professeurs agrégés, des professeurs certifiés, des adjoints d'enseignement et des chargés d'enseignement : neuf représentants des professeurs agrégés et dix-neuf représentants des professeurs certifiés, des adjoints d'enseignement et des chargés d'enseignement ;
+1. Pour les disciplines comportant des professeurs agrégés, des professeurs certifiés et des adjoints d'enseignement : dix représentants des professeurs agrégés et dix-neuf représentants des professeurs certifiés et des adjoints d'enseignement ;
 
-2. Pour les disciplines comportant des professeurs certifiés, des adjoints d'enseignement et des chargés d'enseignement dix-neuf représentants ;
+2. Pour les disciplines comportant des professeurs certifiés et des adjoints d'enseignement dix-neuf représentants ;
 
-3. Pour l'éducation physique et sportive : un représentant des professeurs agrégés, six représentants des professeurs d'éducation physique et sportive et des chargés d'enseignement d'éducation physique et sportive.
+3. Pour l'éducation physique et sportive : un représentant des professeurs agrégés, sept représentants des professeurs d'éducation physique et sportive et des chargés d'enseignement d'éducation physique et sportive.
 
 Les représentants du personnel appelés à siéger dans la formation paritaire mixte nationale sont choisis, en leur sein, par les représentants titulaires et suppléants de chaque liste aux commissions administratives paritaires nationales.
 
