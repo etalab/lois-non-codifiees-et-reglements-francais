@@ -1,7 +1,7 @@
 # Article 30
 
-Les fonctionnaires placés en position de détachement dans le corps des officiers de protection des réfugiés et apatrides depuis deux ans au moins peuvent, sur leur demande, être intégrés dans ce corps. L'intégration est prononcée par le ministre des affaires étrangères, après avis de la commission administrative paritaire compétente.
+Les fonctionnaires placés en position de détachement dans le corps des officiers de protection de l'Office français de protection des réfugiés et apatrides depuis au moins deux ans peuvent, sur leur demande, être intégrés dans ce corps par décision du directeur général de l'Office français de protection des réfugiés et apatrides, après avis de la commission administrative paritaire compétente de ce même corps.
 
-Les fonctionnaires bénéficiaires des dispositions de l'alinéa précédent sont nommés au grade et à l'échelon qu'ils occupent en position de détachement, avec conservation de l'ancienneté acquise dans l'échelon.
+Sous réserve des dispositions prévues par le décret du 16 septembre 1985 précité, les fonctionnaires mentionnés à l'alinéa précédent sont nommés dans leur nouveau corps au grade et à l'échelon qu'ils occupaient en position de détachement et conservent l'ancienneté d'échelon acquise pendant ce détachement.
 
-Les services accomplis dans le corps, le cadre d'emplois ou l'emploi d'origine sont assimilés à des services accomplis dans le corps des officiers de protection des réfugiés et apatrides.
+Les services accomplis par les fonctionnaires mentionnés au présent article dans le corps ou cadre d'emplois d'origine sont assimilés à des services accomplis en détachement dans le corps d'accueil.

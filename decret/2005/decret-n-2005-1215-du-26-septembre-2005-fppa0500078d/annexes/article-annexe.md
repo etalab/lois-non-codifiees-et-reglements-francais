@@ -31,3 +31,5 @@ Corps des attachés d'administration du Conseil d'Etat.
 Corps des attachés d'administration de l'aviation civile.
 
 Corps des attachés d'administration de l'Office national des forêts.
+
+Corps des officiers de protection des réfugiés et apatrides.

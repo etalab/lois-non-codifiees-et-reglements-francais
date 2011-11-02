@@ -1,4 +1,4 @@
-# TITRE Ier BIS : CORPS DES AGENTS DE PROTECTION DES RÉFUGIÉS ET APATRIDES
+# TITRE Ier BIS :  DISPOSITIONS COMMUNES
 
-- [Chapitre Ier : Dispositions générales](chapitre-ier)
-- [Chapitre II : Recrutement](chapitre-ii)
+- [Chapitre Ier : Recrutement](chapitre-ier)
+- [Chapitre II : Nomination](chapitre-ii)

@@ -16,8 +16,6 @@ Corps des secrétaires des affaires étrangères.
 
 Corps des attachés des systèmes d'information et de communication.
 
-Corps des officiers de protection de l'Office français de protection des réfugiés et apatrides.
-
 **Ministère de la culture et de la communication**
 
 Corps des chefs de travaux d'art du ministère chargé de la culture.

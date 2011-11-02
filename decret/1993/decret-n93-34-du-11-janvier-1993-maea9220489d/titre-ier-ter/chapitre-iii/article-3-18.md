@@ -8,6 +8,4 @@ I. - L'avancement au grade d'adjoint de protection de 1re classe s'opère selon 
 
 3° Soit par combinaison des modalités définies au 1° et au 2°, sans que le nombre des promotions prononcées par l'une de ces modalités puisse être inférieur au tiers du nombre total des promotions. Lorsque le nombre de candidats admis à l'examen professionnel est inférieur au nombre de promotions à prononcer par cette voie, le nombre de promotions à prononcer au choix est augmenté à due concurrence.
 
-II. - Le choix entre les trois modalités d'avancement de grade mentionnées au I est fixé par arrêté du ministre des affaires étrangères après avis du directeur général de l'Office français de protection des réfugiés et apatrides.
-
-III. - Les règles relatives à l'organisation de l'examen professionnel, à la composition et au fonctionnement du jury sont fixées par le ministre des affaires étrangères, après avis du directeur général de l'Office français de protection des réfugiés et apatrides.
+II. - Le choix entre les trois modalités d'avancement de grade mentionnées au I est fixé par décision du directeur général de l'Office français de protection des réfugiés et apatrides.
