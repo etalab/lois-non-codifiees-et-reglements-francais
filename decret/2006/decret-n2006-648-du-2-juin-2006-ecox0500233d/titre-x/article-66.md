@@ -1,0 +1,3 @@
+# Article 66
+
+Par dérogation aux dispositions du premier alinéa de l'article 46, la demande de prolongation de validité d'un titre de stockage souterrain délivré antérieurement à la date d'entrée en vigueur du présent décret est adressée au ministre chargé des mines, par lettre recommandée avec avis de réception, au plus tard avant l'expiration de la période de validité lorsqu'il s'agit d'un permis exclusif de recherches, quatre mois avant l'expiration de la période de validité lorsqu'il s'agit d'une concession de stockage souterrain de gaz et un an avant l'expiration de la période de validité lorsqu'il s'agit d'une concession de stockage souterrain d'hydrocarbures.
