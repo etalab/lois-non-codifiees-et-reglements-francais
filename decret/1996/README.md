@@ -491,7 +491,6 @@
 - [Décret n°96-557 du 21 juin 1996 (BUDF9600022D)](decret-n96-557-du-21-juin-1996-budf9600022d)
 - [Décret n°96-558 du 21 juin 1996 (ECOT9613881D)](decret-n96-558-du-21-juin-1996-ecot9613881d)
 - [Décret n°96-564 du 21 juin 1996 (AGRA9600942D)](decret-n96-564-du-21-juin-1996-agra9600942d)
-- [Décret n°96-573 du 21 juin 1996 (INTC9600132D)](decret-n96-573-du-21-juin-1996-intc9600132d)
 - [Décret n°96-741 du 21 août 1996 (TASP9622433D)](decret-n96-741-du-21-aout-1996-tasp9622433d)
 - [Décret n°96-746 du 21 août 1996 (ENVN9640018D)](decret-n96-746-du-21-aout-1996-envn9640018d)
 - [Décret n°96-747 du 21 août 1996 (MENF9602115D)](decret-n96-747-du-21-aout-1996-menf9602115d)
