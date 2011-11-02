@@ -16,7 +16,7 @@ L'indemnité de fonction prévue à l'article 1er du décret du 28 mai 1997 susv
 <td align="center">
 <p align="left">Officier de protection principal de 1re classe<br/>Officier de protection principal de 2e classe<br/>Officier de protection</p>
 </td>
-<td align="center">8 684<br/>8 332<br/>7 369<br/>
+<td align="center">11 153<br/>10 906 <br/>8   787<br/>
 </td>
 </tr>
 <tr>
