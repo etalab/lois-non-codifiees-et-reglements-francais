@@ -19,7 +19,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="247">
+<td valign="top" width="247">
 <p>Direction centrale du service de santé des armées </p>
 </td>
 <td valign="top" width="304">
@@ -27,54 +27,6 @@
 </td>
 <td valign="top" width="152">
 <p>Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeurs régionaux du service de santé des armées </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeurs interarmées du service de santé outre-mer </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Commandants des écoles de formation et directeur de l'école du Val-de-Grâce </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeurs des instituts du service de santé des armées </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeur du centre de recherches du service de santé des armées </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Médecins-chefs des hôpitaux des armées en métropole </p>
-</td>
-<td valign="top" width="152">
-<p>Dans les limites mentionnées en (2) </p>
 </td>
 </tr>
 <tr>
@@ -245,7 +197,7 @@
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Directeurs des plates-formes achats-finances </p>
+<p align="left">Directeurs des plates-formes achats-finances </p>
 </td>
 <td valign="top" width="152">
 <p>Sans limitation </p>
@@ -280,18 +232,17 @@
 <p>Direction centrale du service des essences des armées </p>
 </td>
 <td valign="top" width="304">
-<p>Directeur de l'exploitation et de la logistique pétrolières interarmées<br/>
-</p>
+<p>Directeur de l'exploitation et de la logistique pétrolières interarmées</p>
 </td>
-<td valign="top" width="152">Sans limitation (10) <p>MAPA × 100 (11)</p>
-<br/>
+<td valign="top" width="152">
+<p align="left">Sans limitation (10) </p>
+<p>MAPA × 100 (11)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="304">
 <p>Adjoint interarmées de soutien pétrolier<br/>
 </p>
-<br/>
 </td>
 <td valign="top" width="152">
 <p>Sans limitation (12)</p>
@@ -309,12 +260,10 @@
 <td valign="top" width="304">
 <p>Directeur de la base pétrolière interarmées<br/>
 </p>
-<br/>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 20<br/>
 </p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -326,9 +275,13 @@
 </td>
 </tr>
 <tr>
-<td>Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)<br/>
+<td align="left" valign="top">
+<p align="left">Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)<br/>
+</p>
 </td>
-<td>MAPA x 7</td>
+<td align="left" valign="top">
+<p align="left">MAPA x 7</p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="247">
@@ -357,7 +310,7 @@
 </tr>
 <tr>
 <td valign="top" width="247">
-<p>Chef d'état-major de l'armée de terre </p>
+<p>Etat-major de l'armée de terre </p>
 </td>
 <td valign="top" width="304">
 <p>Directeur de la section technique de l'armée de terre (4) </p>
@@ -367,69 +320,61 @@
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="247">
+<td/>
+<td>
+<p align="left">Directeur du service de la maintenance industrielle terrestre</p>
+</td>
+<td>
+<p align="left">Sans limitation</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">MAPA x 3</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du détachement de Moulins de la base de soutien du matériel de Clermont-Ferrand (service de la maintenance industrielle terrestre)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">MAPA x 3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="247">
 <p>Direction centrale du matériel de l'armée de terre </p>
 </td>
 <td valign="top" width="304">
-<p>Directeur du service central des achats de la maintenance </p>
+<p>Chef du centre d'études et de développements informatiques du matériel de l'armée de terre</p>
 </td>
 <td valign="top" width="152">
-<p>Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeurs régionaux du matériel </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 45 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeurs régionaux adjoints du matériel </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 1, 5 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Commandants des bases de soutien des matériels </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 1 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Chefs de détachements des bases de soutien des matériels </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 1 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Chef du centre d'études et de développements informatiques du matériel de l'armée de terre </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 1 </p>
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="247">
 <p>Divers </p>
 </td>
-<td valign="top" width="304">Chef de la section géographique militaire (4) </td>
+<td valign="top" width="304">
+<p align="left">Chef de la section géographique militaire (4) </p>
+</td>
 <td valign="top" width="152">
 <p>MAPA × 1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Commandants des corps de troupes et chefs des organismes administrés comme tels (9) </p>
-<br/>
+<p align="left">Commandants des corps de troupes et chefs des organismes administrés comme tels (9) </p>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 0,66 </p>
@@ -632,7 +577,9 @@
 </td>
 </tr>
 <tr>
-<td>Adjoints du chef du service centralisé des achats techniques </td>
+<td>
+<p align="left">Adjoints du chef du service centralisé des achats techniques </p>
+</td>
 <td>MAPA × 50 </td>
 </tr>
 <tr>
@@ -657,17 +604,9 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="247">
+<td valign="top" width="247">
 <p>Direction du service national </p>
 </td>
-<td valign="top" width="304">
-<p>Directeurs interrégionaux et adjoints de ces directeurs </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA x 10 </p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="304">
 <p>Directeurs d'établissements et adjoints de ces directeurs </p>
 </td>
@@ -708,13 +647,19 @@
 <td valign="top" width="304">
 <p>Directeurs d'établissements d'infrastructure de la défense </p>
 </td>
-<td valign="top" width="152">Sans limitation (5) <p>MAPA x 70 (6) </p>
+<td valign="top" width="152">
+<p align="left">Sans limitation (5) </p>
+<p>MAPA x 70 (6) </p>
 <p>MAPA x 30 (7) </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="304">Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger </td>
-<td valign="top" width="152">Sans limitation</td>
+<td valign="top" width="304">
+<p align="left">Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger </p>
+</td>
+<td valign="top" width="152">
+<p align="left">Sans limitation</p>
+</td>
 </tr>
 <tr>
 <td colspan="3" width="702">
@@ -770,6 +715,17 @@
 </td>
 <td valign="top" width="152">
 <p>Sans limitation (5) (6) (7) </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Mission militaire au sein de la mission diplomatique française à Washington</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Attaché de défense adjoint en charge des questions "armement" </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sans limitation</p>
 </td>
 </tr>
 <tr>
