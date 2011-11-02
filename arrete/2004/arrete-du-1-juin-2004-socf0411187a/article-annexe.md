@@ -1,10 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de technicien(ne) commercial(e) du tourisme, option commercialisation ou option vente.
+Conseiller (ère) en séjours et voyages.
 
 Niveau : IV.
 
@@ -12,47 +12,71 @@ Code NSF : 334 w.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) commercial(e) du tourisme, option commercialisation ou option vente, élabore, à partir de prestations de base sélectionnées par son entreprise, des voyages ou des séjours touristiques adaptés à la clientèle.
+Le (la) conseiller (ère) en séjours et voyages informe, conseille, vend, y compris en anglais, des forfaits ou des prestations de tourisme sur catalogue ou assemblées à la demande, en réponse à une clientèle française ou étrangère, individuelle ou en groupe, selon les objectifs commerciaux de l'entité.
 
-Le (la) technicien(ne) commercial(e), option commercialisation, effectue, en outre, la prospection et le démarchage d'une clientèle ciblée par son entreprise et en gère le suivi. La langue utilisée pour les contacts avec les prestataires ou les partenaires étrangers est l'anglais. Il (elle) peut être affecté(e) à un secteur géographique déterminé et peut, dans le cadre de son activité de prospection, être conduit(e) à effectuer des déplacements, à l'étranger, le cas échéant. Sa rémunération est constituée d'une partie fixe et d'une partie variable en fonction de l'atteinte des objectifs fixés.
+Il (elle) assure le suivi administratif des dossiers de la vente à la facturation et à l'après-vente.
 
-Le (la) technicien(ne) commercial(e) option vente reçoit les clients en agence, analyse leurs demandes, les conseille et procède à la vente de prestations. Il (elle) assure les différentes réservations et suit administrativement les dossiers. En relation directe avec les clients, il (elle) doit faire preuve de capacités d'écoute et de disponibilité. Cet emploi nécessite un travail prolongé sur écran (logiciels bureautiques et de télébilletterie). L'emploi peut parfois s'exercer en horaires décalés, en matinée ou en soirée, y compris en fin de semaine.
+L'exercice de ses missions comporte des repères objectifs et mesurables : exactitude des cotations, rapidité d'exécution des tâches, nombre de ventes, volume d'affaires, fidélisation de la clientèle.
 
-Le (la) technicien(ne) commercial(e), option vente ou option commercialisation, est autonome dans l'exercice de son activité et rend compte de son activité au chef de service.
+Le (la) conseiller (ère) en séjours et voyages exerce ses activités en face à face ou à distance, avec les fournisseurs ou la clientèle, en utilisant les technologies de traitement de l'information et de la communication : il (elle) maîtrise l'utilisation d'un serveur ou multiserveur tourisme (GDS et progiciels), des outils de réservation BtoB, BtoC, CtoC, internet, les logiciels bureautiques pour le travail administratif et comptable inhérent à son activité, l'utilisation des TIC liées à la mobilité (smartphones, tablettes, applications spécifiques touristiques).
+
+Les contacts avec les prestataires, les partenaires ou les clients étrangers sont fréquents dans le cadre de l'emploi ; dans ces cas, la langue commune utilisée est l'anglais.
+
+Le (la) conseiller (ère) en séjours et voyages peut être soumis (e) à des objectifs de vente avec une incidence sur sa rémunération.
+
+Le (la) conseiller (ère) en séjours et voyages est le plus souvent sédentaire.
+
+Il (elle) opère généralement au sein d'une équipe animée par un responsable hiérarchique.
+
+Le repos hebdomadaire est accordé principalement en fin de semaine ; toutefois, selon le lieu d'exercice, l'activité peut s'exercer le samedi, le dimanche ou les jours fériés et en horaires décalés.
+
+Les contrats sont à durée indéterminée, après un début de carrière généralement en CDD.
+
+Selon la taille de l'entité, le (la) conseiller (ère) en séjours et voyages peut exercer à temps plein, une mono-activité telle que la billetterie, la réservation, le forfait.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Elaborer une offre de produits touristiques
+1. Vendre des prestations touristiques
 
-Sélectionner une gamme de prestations pour élaborer un produit touristique défini en respectant le cahier des charges économique et commercial de l'entreprise.
+Conseiller, y compris en anglais, des prestations touristiques, en prenant en compte les besoins du client et les objectifs de l'entité.
 
-Construire un forfait touristique en respectant la faisabilité technique, budgétaire et commerciale.
+Vendre des prestations touristiques, en utilisant les moyens de réservation et de vente sur tous supports.
 
-2. Unité constitutive du titre professionnel à choisir parmi les deux options suivantes
+2. Construire un forfait touristique à la demande
 
-Soit l'option commercialisation : commercialiser des produits touristiques :
+Assembler des prestations touristiques et effectuer les réservations correspondantes
 
-- prospecter une clientèle ciblée sur un marché touristique identifié, en réalisant des actions de démarchage et de marketing direct ;
+Assurer le suivi technique du dossier client, y compris l'après-vente, en mettant en œuvre les procédures de l'entité.
 
-- gérer en continu un portefeuille de clients en tenant compte de l'évolution de leurs caractéristiques et de leur degré de satisfaction ;
+Compétences transversales de l'emploi
 
-Soit l'option vente : vendre des produits touristiques :
-
-- conseiller un client et lui vendre une prestation touristique en utilisant les moyens de réservation en ligne ;
-
-- assurer l'ouverture et le suivi d'un dossier client, de la signature du contrat jusqu'à l'après-vente.
+Néant.
 
 Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Le (la) technicien(ne) commercial(e) du tourisme, option commercialisation, option vente, travaille principalement dans les entreprises émettrices de voyages (agences de voyages, voyagistes, autocaristes, croisiéristes) ou plus rarement dans des offices de tourisme importants.
+Le secteur d'activité concerné est celui des opérateurs de voyages (*) qui prennent en charge :
 
-Le (la) technicien(ne) commercial(e) du tourisme, option commercialisation, est également appelé(e) "délégué commercial du tourisme , "assistant de production voyages , "démarcheur ". Le (la) technicien(ne) commercial(e) du tourisme, option vente, est appelé(e) "agent de comptoir ", "agent de vente ou de réservation ".
+-la production, la distribution de prestations et de produits touristiques : entreprises telles que agences de voyage, transporteurs, plateaux d'affaires, centrales de réservations, croisiéristes, hébergeurs, loueurs de véhicule ;
 
-Codes ROME :
+-le réceptif, accueil et prise en charge des visiteurs sur le territoire, dans les organismes locaux de tourisme tels qu'offices de tourisme, comités départementaux du tourisme, comités régionaux du tourisme et les associations assurant la production et la commercialisation de produits touristiques. (*)
 
-12241 - Technicien(ne) de vente du tourisme et du transport.
+Les principaux types d'emplois accessibles sont les suivants :
 
-14314 - Attaché(e) commercial(e) en services pour entreprises.
+Conseiller (ère) voyages ;
+
+Conseiller (ère) séjours en organisme de tourisme local ;
+
+Conseiller (ère) de voyages en ligne ;
+
+Agent (e) de voyage ;
+
+Agent (e) de comptoir en vente de voyages ;
+
+Agent (e) de réservation.
+
+Code ROME :
+
+G1303-Vente de voyages.
 
 Réglementation de l'activité :
 
@@ -64,8 +88,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation : les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+(*) Loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques (art. L. 211-18 [II, c]).
