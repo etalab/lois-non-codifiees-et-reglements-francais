@@ -1,10 +1,12 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien (ne) en diagnostic et réparation automobiles.
+Titre professionnel : technicien (ne) après-vente automobile (ancien intitulé : technicien [ne] en diagnostic et réparation automobile).
 
 Niveau : IV.
 
@@ -12,116 +14,86 @@ Code NSF : 252 r.
 
 Résumé du référentiel d'emploi
 
-Le technicien en diagnostic et réparation automobiles assure la maintenance, le diagnostic, la réparation ou le remplacement des différents sous-ensembles mécaniques, électriques et électroniques des véhicules automobiles.
+Le (la) technicien (ne) après-vente automobile assure le diagnostic, l'entretien, le montage d'accessoires et, le cas échéant, la réparation des systèmes des véhicules de transport de moins de dix personnes et de transport de marchandises de moins de 3,5 tonnes. Ces véhicules sont mus par des motorisations thermiques.
 
-Il intervient plus spécialement sur les équipements complexes nécessitant des compétences techniques opérationnelles et une maîtrise des procédures de diagnostic permettant d'identifier l'origine des dysfonctionnements et de procéder à leur remise en état.
+Le (la) professionnel (le) intervient sous la responsabilité d'un hiérarchique à qui il (elle) rend compte des interventions réalisées. Il (elle) assure la fonction de référent technique pour les salariés du service de maintenance et de réparation.
 
-Dans ce cadre, il s'entretient avec le client pour rechercher des informations et indices susceptibles de faciliter le diagnostic et, en s'appuyant sur des schémas électriques et mécaniques complexes, effectue les contrôles adéquats à l'aide de stations et d'appareils pilotés par l'informatique.
+L'emploi se pratique en atelier. Les postures vont de la station debout, face à un plan de travail ou un appareil, jusqu'à des positions fléchies. Une bonne dextérité est nécessaire.
 
-Il installe, met en service et remet en état les équipements et les accessoires complémentaires de confort, de sécurité et de communication équipant les différents types de véhicules.
+Les horaires de travail nécessitent parfois des aménagements pour assurer le service.
 
-Placé généralement sous la responsabilité d'un chef d'atelier, il est autonome dans la conduite de ses interventions et assume la responsabilité de son travail et de celui qu'il a confié aux mécaniciens.
+L'environnement sonore peut atteindre des niveaux élevés mais pour de courtes durées.
 
-Il centralise l'ensemble de la documentation technique en utilisant les réseaux constructeurs, s'informe des nouvelles technologies et techniques d'intervention et retransmet ces informations aux mécaniciens.
+Le déplacement et la manipulation de charges lourdes sont parfois nécessaires.
 
-Son niveau de technicité et ses connaissances actualisées lui permettent de jouer un rôle de référent technique au sein de l'équipe de mécaniciens d'atelier.
+La manipulation de déchets industriels spéciaux est très fréquente.
 
-Il participe, avec l'encadrement de l'entreprise, à la planification et à la gestion des interventions ainsi qu'à l'organisation de l'atelier.
-
-Ses horaires de travail sont globalement réguliers mais peuvent être aménagés pour assurer le service et satisfaire les exigences de la clientèle.
+Le permis de conduire B est nécessaire pour les déplacements des véhicules.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Assurer la réception de la clientèle
+1. Effectuer les opérations d'entretien des VL et des VUL,
 
-et gérer les interventions de service rapide
+poser des accessoires
 
-Réceptionner et prendre en charge un véhicule pour une intervention en service rapide.
+Prendre en charge un VL ou un VUL pour réaliser des opérations d'entretien programmées et des remplacements courants et simples.
 
-Gérer les opérations d'entretien des véhicules automobiles.
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-Contrôler, échanger et régler les éléments du système de freinage et de liaison au sol des véhicules.
+Poser des accessoires pour les véhicules légers.
 
-Remplacer les équipements périphériques des moteurs d'automobiles.
+2. Diagnostiquer, remédier aux dysfonctionnements
 
-Après intervention, assurer la préparation des véhicules automobiles en vue de leur livraison aux clients et gérer la qualité des interventions.
+des systèmes châssis moteur et transmission des VL et VUL
 
-2. Réparer les automobiles par remplacement d'organes
+Diagnostiquer, réparer les systèmes de freinage, de suspension et de direction.
 
-et de pièces mécaniques
+Diagnostiquer la transmission.
 
-Effectuer des bilans d'état de moteurs et d'ensembles mécaniques d'automobiles.
+Diagnostiquer les moteurs thermiques.
 
-Définir les processus et l'organisation à mettre en œuvre pour la remise en état d'ensembles mécaniques.
+3. Diagnostiquer, remédier aux dysfonctionnements
 
-Remettre en état les groupes motopropulseurs des automobiles.
+des systèmes embarqués
 
-Remettre en état les systèmes de suspension, de direction et de freinage des automobiles.
+Diagnostiquer et réparer les périphériques du moteur.
 
-3. Remettre en état les fonctions électriques des automobiles
+Diagnostiquer et réparer les systèmes de visibilité, de chauffage et de signalisation.
 
-Effectuer le contrôle des installations électriques des véhicules automobiles.
-
-Remettre en conformité les équipements électriques des moteurs thermiques des véhicules automobiles.
-
-Contrôler et réparer les circuits électriques de bord des véhicules automobiles.
-
-Contrôler et dépanner les équipements de confort et de sécurité des véhicules automobiles.
-
-Contrôler et remettre en état les systèmes de conditionnement d'air des véhicules automobiles.
-
-4. Gérer les interventions dans le cadre du diagnostic
-
-des automobiles
-
-Recueillir et analyser les indications fournies par le client et prendre en charge les véhicules automobiles.
-
-Réaliser les différents contrôles et essais sur automobiles en vue d'établir un diagnostic.
-
-Déterminer l'origine des anomalies de fonctionnement des groupes motopropulseurs, des équipements de confort et de sécurité des véhicules automobiles et gérer l'intervention.
-
-Etablir des devis de remise en état suite aux interventions de diagnostic.
-
-Gérer les relations professionnelles et commerciales avec le client et le constructeur.
-
-Assurer la gestion de la documentation et la communication des informations techniques de service après-vente d'automobiles.
+Diagnostiquer et réparer les ouvrants, les systèmes de retenue et de protection des occupants.
 
 Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Les techniciens en diagnostic et réparation automobile s'emploient principalement dans :
+Les différents secteurs d'activités concernés sont principalement :
 
--les réseaux des constructeurs (succursales, concessions, agences) ;
+Commerce et réparation automobile ;
 
--les entreprises de services rapides pour encadrer et gérer l'activité ;
+Commerce de gros et intermédiaires du commerce ;
 
--les spécialistes dépendant des équipementiers (Valéo, Bosch, Delphi...) ;
+Transports terrestres ;
 
-Mais également :
-
--les entreprises artisanales pour réparer des véhicules de toutes marques ;
-
--les ateliers intégrés des entreprises publiques et de transport pour entretenir leurs flottes de véhicules ;
-
--les collectivités locales ou territoriales.
+Administration publique.
 
 Code ROME :
 
-I1604-Mécanique automobile.
+I1604.
 
 Réglementation de l'activité :
 
-Néant.
+La tenue de l'emploi exige la détention d'une attestation à manipuler les fluides frigorigènes en famille 2, catégorie V, ou un document prouvant l'équivalence en conformité au règlement (CE) 307/2008.
+
+Pour les interventions et les travaux à effectuer sur les véhicules ayant un mode de propulsion ou de traction électrique le (la) professionnel (le) doit être habilité (e) conformément à la norme UTEC 18550.
 
 Autorité responsable de la certification :
 
-Ministre chargé de l'emploi.
+Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

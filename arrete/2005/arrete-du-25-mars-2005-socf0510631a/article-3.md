@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de technicien(ne) en diagnostic et réparation automobile est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel de technicien (ne) après-vente automobile est composé des trois unités constitutives dont la liste suit :
 
-1. Assurer la réception de la clientèle et gérer les interventions de service rapide ;
+1. Diagnostiquer, remédier aux dysfonctionnements des systèmes châssis moteur et transmission des VL et VUL.
 
-2. Réparer les automobiles par remplacement d'organes et de pièces mécaniques ;
+2. Diagnostiquer, remédier aux dysfonctionnements des systèmes embarqués.
 
-3. Remettre en état les fonctions électriques des automobiles ;
+3. Effectuer les opérations d'entretien des VL et des VUL, poser des accessoires.
 
-4. Gérer les interventions dans le cadre du diagnostic des automobiles.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
