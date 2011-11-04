@@ -1,6 +1,6 @@
 # Article 1
 
-Le Conseil national de l'action sociale participe à la définition de la politique d'action sociale en faveur des fonctionnaires et agents du ministère de l'économie, des finances et de l'emploi et ministère du budget, des comptes publics et de la fonction publique.
+Le Conseil national de l'action sociale participe à la définition de la politique d'action sociale en faveur des fonctionnaires et agents du ministère de l'économie, des finances et de l'industrie et ministère du budget, des comptes publics et de la réforme de l'Etat.
 
 A ce titre, il se prononce sur :
 

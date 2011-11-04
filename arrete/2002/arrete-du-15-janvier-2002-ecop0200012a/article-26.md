@@ -4,7 +4,7 @@ Le délégué départemental de l'action sociale est placé sous l'autorité du 
 
 A ce titre, il anime, exécute et coordonne l'ensemble des missions d'action sociale mises en place par le ministère et met en oeuvre les actions définies par le conseil départemental dans le cadre de ses attributions.
 
-Dans le cadre des moyens dont il dispose, il assure l'organisation et le fonctionnement de la délégation, pour lesquels il est assisté par un ou plusieurs agents mis à disposition par les services locaux du ministère de l'économie, des finances et de l'emploi et ministère du budget, des comptes publics et de la fonction publique.
+Dans le cadre des moyens dont il dispose, il assure l'organisation et le fonctionnement de la délégation, pour lesquels il est assisté par un ou plusieurs agents mis à disposition par les services locaux du ministère de l'économie, des finances et de l'industrie et ministère du budget, des comptes publics et de la réforme de l'Etat.
 
 Il facilite le travail en réseau des acteurs qui concourent à l'action sociale (assistants de délégation, assistants de service social, infirmiers, médecins), en tenant compte des spécificités professionnelles des personnels médicaux et sociaux, et assure leur accompagnement administratif.
 

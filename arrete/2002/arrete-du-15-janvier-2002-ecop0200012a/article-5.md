@@ -1,8 +1,8 @@
 # Article 5
 
-Sont appelés à siéger, avec voix délibérative, en qualité de membres représentant l'administration au Conseil national de l'action sociale :
+Sont appelés à siéger, en qualité de membres représentant l'administration au Conseil national de l'action sociale :
 
--le            secrétaire général des ministères économique et financier, président ;
+-le secrétaire général des ministères économique et financier, président ou son représentant ;
 
 -le directeur général des finances publiques ;
 
@@ -12,12 +12,10 @@ Sont appelés à siéger, avec voix délibérative, en qualité de membres repr�
 
 -le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
--le directeur général des entreprises ;
+-le directeur général de la compétitivité, de l'industrie et des services ;
 
 -le chef de service du contrôle général économique et financier ;
 
 -le chef de service du secrétariat général des ministères économique et financier ;
 
 -le sous-directeur des politiques sociales et des conditions de travail ;
-
--six membres désignés par le ministre de l'économie, des finances et de l'emploi et le ministre du budget, des comptes publics et de la fonction publique choisis parmi les présidents de conseil départemental de l'action sociale.
