@@ -1,0 +1,7 @@
+# Article 9
+
+Une commission d'appel d'offres est constituée, composée des membres suivants : le directeur de l'organisme ou son représentant, président de la commission, et quatre membres titulaires au moins, dont l'agent comptable, désignés par le directeur parmi les représentants des services de l'organisme. Le directeur peut aussi constituer une commission spécifique pour la passation d'un marché ou d'un accord-cadre déterminé. Des suppléants, en nombre égal à celui des titulaires, sont également désignés par le directeur. La commission ne peut valablement délibérer que si trois de ses membres au moins sont présents pendant l'ensemble de la séance. Les suppléants n'assistent pas aux séances s'ils ne sont pas appelés à remplacer les titulaires. La commission peut faire appel en tant que de besoin à des personnalités qualifiées par leur compétence eu égard à la matière objet de la consultation. Ces personnalités sont désignées par le président de la commission et participent aux réunions de la commission d'appel d'offres avec voix consultative.
+
+La commission d'appel d'offres des organismes visés au présent article émet un avis sur l'attribution des marchés et accords-cadres.
+
+Tout projet de marché ou d'accord-cadre soumis à l'avis de la commission d'appel d'offres doit être assorti d'une note de présentation, qui doit être transmise aux membres de la commission au moins cinq jours francs avant la date de la réunion. La motivation de l'avis rendu par la commission d'appel d'offres est portée au procès-verbal.

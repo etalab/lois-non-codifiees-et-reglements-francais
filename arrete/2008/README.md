@@ -528,6 +528,7 @@
 - [Arrêté du 16 juin 2008 (BCFL0815833A)](arrete-du-16-juin-2008-bcfl0815833a)
 - [Arrêté du 16 juin 2008 (BCFL0815883A)](arrete-du-16-juin-2008-bcfl0815883a)
 - [Arrêté du 16 juin 2008 (IMIK0814493A)](arrete-du-16-juin-2008-imik0814493a)
+- [Arrêté du 16 juin 2008 (MTSS0814622A)](arrete-du-16-juin-2008-mtss0814622a)
 - [Arrêté du 16 octobre 2008 (DEFD0824826A)](arrete-du-16-octobre-2008-defd0824826a)
 - [Arrêté du 16 octobre 2008 (SJSS0824734A)](arrete-du-16-octobre-2008-sjss0824734a)
 - [Arrêté du 16 septembre 2008 (IOCB0821085A)](arrete-du-16-septembre-2008-iocb0821085a)
