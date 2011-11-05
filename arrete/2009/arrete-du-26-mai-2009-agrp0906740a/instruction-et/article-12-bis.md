@@ -22,7 +22,7 @@ Si la demande d'aide est reçue à FranceAgriMer après la date limite prévue p
 
 - de 50 % si le dossier est reçu entre le troisième mois et le dernier jour ouvré du mois de juin suivant la date limite.
 
-Au-delà du dernier jour ouvré du mois de juin suivant la date limite de réception du dossier, aucune aide n'est versée.
+Au-delà du dernier jour ouvré du mois de juin suivant la date limite de réception du dossier, aucune aide n'est versée. En outre les demandes d'aide reçues à FranceAgriMer après la date limite prévue par l'arrêté de campagne relatif aux modalités d'octroi de l'aide à la restructuration et à la reconversion du vignoble ne bénéficient pas de versement par avance.
 
 2. Lorsqu'il est constaté à l'issue des contrôles physiques et administratifs visés à l'article 12 du présent arrêté que la superficie totale arrachée validée d'un plan collectif local, tel que visé à l'article 8 du présent arrêté, est supérieure à la superficie totale éligible effectivement replantée, pour l'ensemble du plan, l'aide excédentaire est reversée.
 

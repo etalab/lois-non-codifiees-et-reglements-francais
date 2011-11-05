@@ -42,6 +42,8 @@ Le montant des garanties présentées à l'appui des demandes de paiement doit :
 
 Les formes de garanties recevables peuvent être définies par décision du directeur général de FranceAgriMer.
 
+4 bis. Si pour un plan collectif local validé par le directeur général de FranceAgriMer conformément au paragraphe 3 du présent article des demandes de paiement relatives aux plantations ont été payées à hauteur d'au moins 90 % des surfaces validées de ce plan et que le montant des garanties déjà acceptées au titre du plan couvre les engagements pour les arrachages et les plantations correspondant à la réalisation totale du plan collectif local validé, alors aucune garantie n'est exigée à l'appui des nouvelles demandes de paiement à la condition que ces nouvelles demandes correspondent à des actions réalisées et contrôlées.
+
 5. En cas d'avances indues ou en cas d'application de l'article 12 bis du présent arrêté, les reversements sont effectués solidairement par la structure collective et chaque exploitant participant au plan concerné, en fonction des versements sollicités ou des engagements pris.
 
 A défaut de reversement dans un délai de trente jours suivant la demande de FranceAgriMer, la garantie, individuelle ou collective, reste acquise.
