@@ -452,7 +452,6 @@
 - [Arrêté du 6 octobre 2010 (MENE1025609A)](arrete-du-6-octobre-2010-mene1025609a)
 - [Arrêté du 6 septembre 2010 (DEFH1023314A)](arrete-du-6-septembre-2010-defh1023314a)
 - [Arrêté du 6 septembre 2010 (ECEI1019761A)](arrete-du-6-septembre-2010-ecei1019761a)
-- [Arrêté du 6 septembre 2010 (PRMX1023070A)](arrete-du-6-septembre-2010-prmx1023070a)
 - [Arrêté du 6 mai 2010 (IMIK1007579A)](arrete-du-6-mai-2010-imik1007579a)
 - [Arrêté du 6 mai 2010 (INDI1002077A)](arrete-du-6-mai-2010-indi1002077a)
 - [Arrêté du 6 mai 2010 (JUSA1012202A)](arrete-du-6-mai-2010-jusa1012202a)
