@@ -1,96 +1,87 @@
 # Article 1
 
-Les taux annuels moyens de l'indemnité de fonction attribuée aux personnels de police technique et scientifique de la police nationale, en application du décret du 28 octobre 2002 susvisé, sont fixés comme suit :
+Les taux annuels moyens de l'indemnité de fonctions attribuée aux personnels de police technique et scientifique de la police nationale, en application du décret du 28 octobre 2002 susvisé, sont fixés comme suit :
 
 <table>
 <tbody>
 <tr>
 <td align="center">
-<p align="left">Directeur </p>
+<br/>Directeur <br/>
 </td>
 <td align="center">
-<br/>11   589 € <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Chef de service </p>
-</td>
-<td align="center">
-<br/>10   988 € <br/>
+<br/>11   840 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ingénieur en chef </p>
+<br/>Chef de service <br/>
 </td>
 <td align="center">
-<br/>9   607 € <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Ingénieur principal </p>
-</td>
-<td align="center">
-<br/>8   141 € <br/>
+<br/>11   239 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ingénieur </p>
+<br/>Ingénieur en chef <br/>
 </td>
 <td align="center">
-<br/>6   015 € <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Technicien en chef </p>
-</td>
-<td align="center">
-<br/>5   509 € <br/>
+<br/>9   936 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Technicien principal </p>
+<br/>Ingénieur principal <br/>
 </td>
 <td align="center">
-<br/>4   956 € <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Technicien </p>
-</td>
-<td align="center">
-<br/>4   419 € <br/>
+<br/>8   470 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Agent spécialisé principal </p>
+<br/>Ingénieur <br/>
 </td>
 <td align="center">
-<br/>3   709 € <br/>
+<br/>6   344 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Agent spécialisé </p>
+<br/>Technicien en chef <br/>
 </td>
 <td align="center">
-<br/>3   387 €<br/>
+<br/>5   948 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Technicien principal <br/>
+</td>
+<td align="center">
+<br/>5   395 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Technicien <br/>
+</td>
+<td align="center">
+<br/>4   858 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Agent spécialisé principal <br/>
+</td>
+<td align="center">
+<br/>4   258 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Agent spécialisé <br/>
+</td>
+<td align="center">
+<br/>3   936 €<br/>
 </td>
 </tr>
 </tbody>
