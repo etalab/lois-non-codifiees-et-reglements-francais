@@ -7,5 +7,3 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 ― " Ventoux " ;
 
 ― " Pacherenc du Vic-Bilh " ;
-
-― " Grignan-les-Adhémar ".
