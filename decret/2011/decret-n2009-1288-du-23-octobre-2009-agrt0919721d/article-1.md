@@ -8,8 +8,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Clos de la Roche ", " Bonnes-Mares ", " Clos de Tart " ;
 
-― " Musigny " ;
-
 ― " Chambolle-Musigny " ;
 
 ― " Vougeot " ;
