@@ -1,4 +1,4 @@
-# Arrêté du 16 janvier 1979 portant organisation du comité technique central des préfectures
+# Arrêté du 24 octobre 2011 relatif aux modalités d'exercice du contrôle financier sur l'Etablissement public du Marais poitevin
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 8](article-8.md)
