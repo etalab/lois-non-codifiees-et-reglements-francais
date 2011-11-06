@@ -6,7 +6,7 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Côte de Beaune-Villages " ;
 
-― " Charmes-Chambertin ", " Griotte-Chambertin ", " Latricières-Chambertin " et " Ruchottes-Chambertin " ;
+― " Latricières-Chambertin " et " Ruchottes-Chambertin " ;
 
 ― " Richebourg ", " La Grande Rue " ;
 
