@@ -12,6 +12,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 " Graves " et " Graves Supérieures " ;
 
-" Premières Côtes de Bordeaux " ;
-
 " Cérons ".
