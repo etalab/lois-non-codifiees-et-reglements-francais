@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>I.-Administration centrale (y compris le ministère chargé de la jeunesse et des sports et le ministère chargé de l'enseignement supérieur) </p>
+<p>I.-Administration centrale (Y compris le secrétariat d'Etat chargé de la jeunesse et de la vie associative et du ministère chargé de l'enseignement supérieur et de la recherche). </p>
 </td>
 <td valign="top" width="74">
 <p align="center">f </p>
@@ -98,7 +98,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>a) Chef de bureau, de division ou de département (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 985) </p>
+<p>a) Chef de bureau, de division ou de département</p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
