@@ -2,48 +2,64 @@
 
 Les dossiers relatifs aux demandes d'autorisation visées au 2° du I de l'article R. 123-1 du code de commerce peuvent être déposés ou transmis sur support papier aux centres de formalités des entreprises pour les activités suivantes :
 
-― agent immobilier ;
+1° Agent immobilier ;
 
-― boucherie ;
+2° Boucherie ;
 
-― boulangerie artisanale ;
+3° Boulangerie artisanale ;
 
-― centre équestre ;
+4° Centre équestre ;
 
-― charcuterie ;
+5° Charcuterie ;
 
-― coiffure en salon ;
+6° Coiffure en salon ;
 
-― activités commerciales et artisanales ambulantes ;
+7° Activités commerciales et artisanales ambulantes ;
 
-― contrôle technique de la construction ;
+8° Contrôle technique de la construction ;
 
-― expert-comptable ;
+9° Expert-comptable ;
 
-― géomètre expert ;
+10° Géomètre expert ;
 
-― architecte ;
+11° Architecte ;
 
-― vétérinaire ;
+12° Vétérinaire ;
 
-― marchand de biens ;
+13° Marchand de biens ;
 
-— construction, entretien et réparation des bâtiments ;
+14° Construction, entretien et réparation des bâtiments ;
 
-— mise en place, entretien et réparation des réseaux et des équipements utilisant les fluides ainsi que des matériels et équipements destinés à l'alimentation en gaz, au chauffage des immeubles et aux installations électriques, à l'exception des opérations sur des équipements contenant des fluides frigorigènes ;
+15° Mise en place, entretien et réparation des réseaux et des équipements utilisant les fluides ainsi que des matériels et équipements destinés à l'alimentation en gaz, au chauffage des immeubles et aux installations électriques, à l'exception des opérations sur des équipements contenant des fluides frigorigènes ;
 
-— artisans d'art ;
+16° Artisans d'art ;
 
-— coiffure à domicile ;
+17° Coiffure à domicile ;
 
-— soins esthétiques à la personne autres que médicaux et paramédicaux et modelages esthétiques de confort sans finalité médicale ;
+18° Soins esthétiques à la personne autres que médicaux et paramédicaux et modelages esthétiques de confort sans finalité médicale ;
 
-— maréchal-ferrant ;
+19° Maréchal-ferrant ;
 
-— pâtisserie ;
+20° Pâtisserie ;
 
-— préparation ou fabrication de glaces alimentaires artisanales ;
+21° Préparation ou fabrication de glaces alimentaires artisanales ;
 
-— poissonnerie ;
+22° Poissonnerie ;
 
-— ramonage.
+23° Ramonage ;
+
+24° Commissaire aux comptes ;
+
+25° Blanchisserie et teinturerie de détail, à l'exception des laveries automatiques en libre-service ;
+
+26° Commissionnaire de transport ;
+
+27° Entretien et réparation des véhicules et des machines, à l'exception des opérations sur des équipements contenant des fluides frigorigènes ;
+
+28° Courtier de fret fluvial ;
+
+29° Courtier en vins et spiritueux ;
+
+30° Expert foncier et agricole ;
+
+31° Expert forestier.
