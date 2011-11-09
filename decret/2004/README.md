@@ -1007,7 +1007,6 @@
 - [Décret n°2004-1527 du 30 décembre 2004 (FPPA0410015D)](decret-n2004-1527-du-30-decembre-2004-fppa0410015d)
 - [Décret n°2004-1529 du 30 décembre 2004 (FPPA0410017D)](decret-n2004-1529-du-30-decembre-2004-fppa0410017d)
 - [Décret n°2004-1531 du 30 décembre 2004 (MCCB0400869D)](decret-n2004-1531-du-30-decembre-2004-mccb0400869d)
-- [Décret n°2004-388 du 30 avril 2004 (INDI0402817D)](decret-n2004-388-du-30-avril-2004-indi0402817d)
 - [Décret n°2004-389 du 30 avril 2004 (DEFP0400251D)](decret-n2004-389-du-30-avril-2004-defp0400251d)
 - [Décret n°2004-390 du 30 avril 2004 (DEFP0400268D)](decret-n2004-390-du-30-avril-2004-defp0400268d)
 - [Décret n°2004-635 du 30 juin 2004 (SANP0421820D)](decret-n2004-635-du-30-juin-2004-sanp0421820d)

@@ -1,3 +1,0 @@
-# Titre III : Dispositions transitoires et diverses.
-
-- [Article 7](article-7.md)
