@@ -4,8 +4,6 @@ La commission prévue à l'article L. 311-5 du code de la propriété intellectu
 
 1. Fabricants et importateurs de supports.
 
-Alliance des technologies de l'information, de la communication et des services (Alliance-TICS) : 1.
-
 Fédération du e-commerce et de la vente à distance (FEVAD) : 1.
 
 Fédération française des télécoms (FFT) : 1.
@@ -13,6 +11,8 @@ Fédération française des télécoms (FFT) : 1.
 Syndicat des entreprises de commerce international de matériel audio, vidéo et informatique grand public (SECIMAVI) : 1.
 
 Syndicat des industries de matériels audiovisuels électroniques (SIMAVELEC) : 1.
+
+Syndicat de l'industrie des technologies de l'information (SFIB) : 1.
 
 Syndicat national des supports d'image et d'information (SNSII) : 1.
 
@@ -32,9 +32,7 @@ Union nationale des associations familiales (UNAF) : 1.
 
 3. Bénéficiaires du droit à rémunération.
 
-Société pour la rémunération de la copie privée sonore (SORECOP) : 5.
-
-Société pour la rémunération de la copie privée audiovisuelle (Copie France) : 5.
+Société pour la perception de la rémunération pour copie privée audiovisuelle et sonore (Copie France) : 10.
 
 Société française des intérêts des auteurs de l'écrit (SOFIA) : 1.
 
