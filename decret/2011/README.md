@@ -564,6 +564,7 @@
 - [Décret n°2011-913 du 29 juillet 2011 (JUSB1116770D)](decret-n2011-913-du-29-juillet-2011-jusb1116770d)
 - [Décret n°2011-914 du 29 juillet 2011 (TRAT1117969D)](decret-n2011-914-du-29-juillet-2011-trat1117969d)
 - [Décret n° 2011-794 du 30 juin 2011 (IOCJ1008798D)](decret-n-2011-794-du-30-juin-2011-iocj1008798d)
+- [Décret n°2004-388 du 30 avril 2004 (INDI0402817D)](decret-n2004-388-du-30-avril-2004-indi0402817d)
 - [Décret n°2010-1016 du 30 août 2010 (MTSC0928813D)](decret-n2010-1016-du-30-aout-2010-mtsc0928813d)
 - [Décret n°2010-1018 du 30 août 2010 (MTST1016633D)](decret-n2010-1018-du-30-aout-2010-mtst1016633d)
 - [Décret n°2010-1734 du 30 décembre 2010 (ETSS1033341D)](decret-n2010-1734-du-30-decembre-2010-etss1033341d)

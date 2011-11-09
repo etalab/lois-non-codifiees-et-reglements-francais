@@ -1,6 +1,6 @@
 # Article 3
 
-Le ministre chargé de l'énergie délivre ou refuse l'autorisation de fourniture de gaz dans un délai de trois mois à compter de la date de réception de la demande complète d'autorisation. Conformément aux dispositions de l'article 16 de la loi du 3 janvier 2003 et du décret du 19 mars 2004 susvisés, cette autorisation mentionne les obligations de service public qui incombent à son détenteur. Elle précise les catégories de clients qu'il peut approvisionner.
+Le ministre chargé de l'énergie délivre ou refuse l'autorisation de fourniture de gaz dans un délai de trois mois à compter de la date de réception de la demande complète d'autorisation. Conformément aux dispositions de l'article L. 121-32 du code de l'énergie et du décret du 19 mars 2004 susvisé, cette autorisation mentionne les obligations de service public qui incombent à son détenteur. Elle précise les catégories de clients qu'il peut approvisionner.
 
 Le silence gardé par le ministre chargé de l'énergie pendant plus de trois mois vaut décision de rejet.
 
