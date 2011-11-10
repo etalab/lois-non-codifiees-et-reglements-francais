@@ -851,8 +851,6 @@
 - [Arrêté du 22 janvier 2008 (SJSF0801981A)](arrete-du-22-janvier-2008-sjsf0801981a)
 - [Arrêté du 22 janvier 2008 (SJSF0801988A)](arrete-du-22-janvier-2008-sjsf0801988a)
 - [Arrêté du 22 janvier 2008 (SJSH0801806A)](arrete-du-22-janvier-2008-sjsh0801806a)
-- [Arrêté du 22 juillet 2008 (DEVN0816908A)](arrete-du-22-juillet-2008-devn0816908a)
-- [Arrêté du 22 juillet 2008 (DEVN0816912A)](arrete-du-22-juillet-2008-devn0816912a)
 - [Arrêté du 22 juillet 2008 (ECEI0815404A)](arrete-du-22-juillet-2008-ecei0815404a)
 - [Arrêté du 22 juillet 2008 (IOCA0812199A)](arrete-du-22-juillet-2008-ioca0812199a)
 - [Arrêté du 22 juillet 2008 (IOCC0815458A)](arrete-du-22-juillet-2008-iocc0815458a)
