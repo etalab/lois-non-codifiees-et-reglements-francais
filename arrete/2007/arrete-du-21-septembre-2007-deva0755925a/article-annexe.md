@@ -4,13 +4,11 @@ RÈGLEMENT POUR L'ASSISTANCE MÉTÉOROLOGIQUE À LA NAVIGATION AÉRIENNE
 
 Préambule
 
-Lorsqu'il est fait référence à l'annexe 3 de l'Organisation de l'aviation civile internationale (OACI) dans le présent règlement, il s'agit de la seizième édition de l'annexe à la convention relative à l'aviation civile internationale susvisée, qui intègre l'amendement n° 74 entré en vigueur dans son intégralité le 5 novembre 2008.
+Lorsqu'il est fait référence à l'annexe 3 de l'Organisation de l'aviation civile internationale (OACI) dans le présent règlement, il s'agit de la dix-septième édition de l'annexe à la convention relative à l'aviation civile internationale susvisée, qui intègre l'amendement n° 75 entré en vigueur le 18 novembre 2010.
 
 La mention Réservé apparaît chaque fois qu'une recommandation OACI n'a pas été reprise dans le texte français correspondant.
 
-Afin de conserver une numérotation identique au texte OACI d'origine et de faciliter la comparaison entre les deux textes (français et OACI), les paragraphes concernés sont conservés et identifiés par la mention Réservé .
-
-Cependant, un chapitre 12 Délai de mise en œuvre a été ajouté à la fin de cette annexe.
+Afin de conserver une numérotation identique au texte OACI d'origine et de faciliter la comparaison entre les deux textes (français et OACI), les paragraphes concernés sont conservés et identifiés par la mention Réservé.
 
 1. Définitions
 
@@ -38,6 +36,8 @@ De plus, au sens de la présente annexe, on entend par :
 
 Les services météorologiques minimaux requis qui s'appliquent aux plates-formes aéronautiques pour répondre aux besoins de la navigation aérienne sont précisés dans ces documents.
 
+La mise en œuvre de ces services minimaux doit être effectuée au plus tard le 1er mars 2013.
+
 2.1.4. Les renseignements concernant la prestation de services météorologiques figurent dans les publications d'information aéronautique.
 
 2.1.5. Le prestataire de services météorologiques suit les prescriptions de l'Organisation mondiale de la météorologie en ce qui concerne les qualifications et la formation du personnel procurant l'assistance météorologique à la navigation aérienne, l'installation des instruments et les méthodes d'observation utilisées dans les stations météorologiques aéronautiques.
@@ -62,11 +62,9 @@ Les services météorologiques minimaux requis qui s'appliquent aux plates-forme
 
 Les dispositions prévues au paragraphe 2.3 de l'annexe 3 de l'OACI, y compris les recommandations, doivent être appliquées, du paragraphe 2.3.1 au paragraphe 2.3.4. La mise en œuvre de ces dispositions est précisée dans les publications d'information aéronautique.
 
-3. Système mondial de prévisions de zone
+3. Système mondial de prévisions de zone et centres météorologiques
 
-et centres météorologiques
-
-3.1. Le prestataire de services météorologiques se conforme aux dispositions du chapitre 3 de l'annexe 3 de l'OACI sauf celles du paragraphe 3.2 et de l'appendice 2.
+3.1. Le prestataire de services météorologiques se conforme aux dispositions du chapitre 3 de l'annexe 3 de l'OACI sauf celles du paragraphe 3.2, ainsi qu'à celles de l'appendice 2.
 
 3.2. Le prestataire de services météorologiques assure de plus le soutien approprié au fonctionnement du système mondial de prévision de zone.
 
@@ -96,29 +94,27 @@ Le prestataire de services météorologiques met en œuvre les dispositions pré
 
 - au paragraphe 4.6.1.1, la direction du vent est exprimée par rapport au nord magnétique dans les messages d'observations régulières et spéciales locales ;
 
-- au paragraphe 4.6.4.1, le signalement d'orages n'est pas effectué par les sites automatisés où la couverture radar ne permet pas ce signalement au niveau du site concerné ;
+- au paragraphe 4.6.4.1, le signalement d'activités convectives n'est pas effectué par les sites automatisés où la couverture radar ne permet pas ce signalement au niveau du site concerné ;
 
-- au paragraphe 4.6.4.3, dans les messages provenant de systèmes d'observation entièrement automatiques, les phénomènes au voisinage de l'aérodrome autres que les orages peuvent ne pas être signalés ;
+- au paragraphe 4.6.4.3, dans les messages provenant de systèmes d'observation entièrement automatiques, les phénomènes au voisinage de l'aérodrome autres que les orages (TS) peuvent ne pas être signalés ;
 
 - au paragraphe 4.6.8, les messages provenant de systèmes d'observation entièrement automatiques peuvent ne pas contenir de renseignements supplémentaires.
 
 Le prestataire de services météorologiques met en œuvre les dispositions prévues à l'appendice 3 de l'annexe 3 de l'OACI moyennant les adaptations pour les dispositions suivantes :
 
-- au paragraphe 2.1.1, les messages d'observations régulières et spéciales sont établis en langage clair abrégé, dans un format adapté. Le type de format sera précisé au niveau des documents découlant de la convention demandée au paragraphe 2.1.3 de la présente annexe ;
+- au paragraphe 2.1.1, les messages d'observations régulières et spéciales sont établis en langage clair abrégé, dans un format adapté. Le type de format est précisé au niveau des documents découlant de la convention demandée au paragraphe 2.1.3 de la présente annexe ;
 
 - au paragraphe 2.1.3, les METAR peuvent ne pas être diffusés dans la forme symbolique BUFR ;
 
 - au paragraphe 2.2, l'abréviation CAVOK peut ne pas être utilisée dans les messages provenant de systèmes d'observation automatiques ;
 
-- au paragraphe 4.1.3.1 b, les moyennes des observations du vent de surface peuvent être établies sans tenir compte d'une éventuelle discontinuité ;
+- au paragraphe 4.1.3.1 b, les moyennes des observations du vent de surface diffusés dans les METAR et SPECI peuvent être établies sans tenir compte d'une éventuelle discontinuité ;
 
 - au paragraphe 4.1.5.2 c, dans les messages d'observations régulières et spéciales locales, les variations par rapport à la vitesse moyenne du vent (rafales) au cours des dix dernières minutes ne sont signalées que lorsque la vitesse maximale du vent dépasse la vitesse moyenne d'au moins 20 km/h (10 kt) même si des procédures antibruit sont utilisées ;
 
-- au paragraphe 4.1.5.2 f, les moyennes des observations du vent de surface peuvent ne pas tenir compte d'une éventuelle discontinuité ;
+- au paragraphe 4.1.5.2 f, les moyennes des observations du vent de surface diffusés dans les METAR et SPECI peuvent ne pas tenir compte d'une éventuelle discontinuité ;
 
-- au paragraphe 4.2.4.2, dans les messages d'observations régulières et spéciales locales, la visibilité le long des pistes n'est pas indiquée. Seule la visibilité minimale du site est transmise ; toutefois, en présence d'un observateur, les visibilités minimale et dominante sont transmises ;
-
-- au paragraphe 4.2.4.4, pour les sites produisant des observations entièrement automatiques et équipés d'un seul point de mesure de visibilité, les variations directionnelles de la visibilité ne sont pas indiquées dans les METAR correspondants ;
+- au paragraphe 4.2.4.2, dans les messages d'observations régulières et spéciales locales, la visibilité le long des pistes n'est pas indiquée. Seule la visibilité minimale du site est transmise ;
 
 - au paragraphe 4.3.1.2, l'emplacement du visibilimètre est fixé entre 120 et 170 mètres de l'axe de la piste ;
 
@@ -126,29 +122,31 @@ Le prestataire de services météorologiques met en œuvre les dispositions pré
 
 - au paragraphe 4.3.6.3, dans les messages d'observations régulières et spéciales locales, les RVR supérieures à la valeur maximale qui peut être déterminée par le système sont indiquées par P suivie de la valeur maximale. Lorsque les RVR sont inférieures à la valeur minimale qui peut être déterminée par le système, elles sont indiquées par M suivie de la valeur minimale ;
 
-- au paragraphe 4.3.6.5, dans les METAR, lorsque la RVR est mesurée aux deux extrémités de la piste, ces deux mesures sont transmises sans tenir compte du seuil en service. Dans ce cas, un METAR/SPECI peut contenir plus de quatre valeurs pour la RVR ;
+- au paragraphe 4.3.6.5, dans les METAR, lorsque la RVR est mesurée aux deux extrémités de la piste, ces deux mesures sont transmises sans tenir compte du seuil en service. Dans ce cas, un METAR peut contenir plus de quatre valeurs pour la RVR ;
 
-- au paragraphe 4.4.2.2, le caractère de proximité des phénomènes de temps présent autres que les orages peut ne pas être indiqué dans les messages provenant de systèmes d'observation entièrement automatiques ;
+- au paragraphe 4.4.2.2, le caractère de proximité des phénomènes de temps présent autres que les orages (TS) peut ne pas être indiqué dans les messages provenant de systèmes d'observation entièrement automatiques ;
 
 - au paragraphe 4.4.2.3, les phénomènes météorologiques suivants peuvent ne pas être signalés dans les messages provenant de systèmes d'observation entièrement automatiques : neige en grains (SG), granules de glace (PL), cristaux de glace (IC), grêle (GR), grésil et /ou neige roulée (GS), tempête de poussière (DS), tempête de sable (SS), tourbillons de poussière/de sable (PO), trombe(s) (FC), sable (SA), poussière étendue (DU), brume de poussière (HZ), fumée (FU), cendres volcaniques (VA), grain (SQ) ;
 
-- au paragraphe 4.4.2.5, mince (MI), bancs (BC), partiel (PR), (chasse-...) basse (DR), (chasse-...) élevée (BL) peuvent ne pas être indiqués dans les messages provenant de systèmes d'observation entièrement automatiques ;
+- au paragraphe 4.4.2.6, mince (MI), bancs (BC), partiel (PR), (chasse-...) basse (DR), (chasse-...) élevée (BL) peuvent ne pas être indiqués dans les messages provenant de systèmes d'observation entièrement automatiques ;
 
-- au paragraphe 4.4.2.6, le caractère de proximité des phénomènes de temps présent autres que les orages peut ne pas être indiqué dans les messages provenant de systèmes d'observation entièrement automatiques ;
+- au paragraphe 4.4.2.7, le caractère de proximité des phénomènes de temps présent autres que les orages peut ne pas être indiqué dans les messages provenant de systèmes d'observation entièrement automatiques ;
 
-- au paragraphe 4.5.4.1, si le prestataire des services de la circulation aérienne le demande, pour faciliter la mise en œuvre des procédures LVP, dans les messages d'observation locale, la hauteur de la base des nuages est signalée par pas de 30 ft en dessous de 300 ft. Des informations sont communiquées pour des hauteurs de base nuageuses supérieures à 10 000 ft, en présence de nuages significatifs ;
+- au paragraphe 4.5.4.2, si le prestataire des services de la circulation aérienne le demande, pour faciliter la mise en œuvre des procédures LVP, dans les messages d'observation locale, la hauteur de la base des nuages est signalée par pas de 30 ft en dessous de 300 ft. Des informations sont communiquées pour des hauteurs de base nuageuses supérieures à 10 000 ft, en présence de nuages significatifs ;
 
-- au paragraphe 4.5.4.2 c, la visibilité verticale n'est pas mesurée si les capteurs ne sont pas adaptés à ce type de mesure ;
+- au paragraphe 4.5.4.3 c, la visibilité verticale n'est pas mesurée si les capteurs ne sont pas adaptés à ce type de mesure ;
 
-- au paragraphe 4.5.4.2 d, dans les messages provenant de systèmes d'observation entièrement automatiques, CAVOK peut ne pas être utilisé et NSC, lorsqu'il est codé, signifie l'absence de nuages significatifs détectés par le système automatique ;
+- au paragraphe 4.5.4.3 d, dans les messages provenant de systèmes d'observation entièrement automatiques, CAVOK peut ne pas être utilisé et NSC, lorsqu'il est codé, signifie l'absence de nuages significatifs détectés par le système automatique ;
 
-- au paragraphe 4.5.4.4 b, dans les messages provenant de systèmes d'observation entièrement automatiques, NCD signifie que le type des nuages ne peut être observé et qu'aucun nuage n'est détecté par le(s) télémètre(s) en dessous de l'altitude minimale de secteur.
+- au paragraphe 4.5.4.5 b, dans les messages provenant de systèmes d'observation entièrement automatiques.
 
 Lorsque le type des nuages peut être observé, si aucun nuage n'est détecté par le système, les couches nuageuses sont codées NSC ;
 
 - au paragraphe 4.8, les messages provenant de systèmes d'observation entièrement automatiques peuvent ne pas contenir de renseignements supplémentaires ;
 
 - au paragraphe 4.8.1.4, le cisaillement du vent n'est pas transmis sauf si des capteurs adéquats sont disponibles.
+
+Le format et les abréviations utilisés pour communiquer les renseignements météorologiques, notamment lorsqu'ils diffèrent des normes et pratiques recommandées de l'annexe 3 de l'OACI, sont précisés dans les publications d'information aéronautique (AIP).
 
 5. Observations d'aéronef et comptes rendus d'aéronef
 
@@ -164,23 +162,19 @@ Les dispositions prévues au chapitre 6 de l'annexe 3 de l'OACI et à son append
 
 - les termes : administration météorologique sont remplacés par : prestataire de services météorologiques ;
 
+- un service de prévision spécifique dénommé "aperçu de zone", couvrant plusieurs aérodromes, peut être établi. Les modalités d'établissement de ce service ainsi que la zone géographique où il s'applique sont précisées dans les documents cités au paragraphe 2.1.3 de la présente annexe ;
+
 - au paragraphe 6.5.3, les prévisions de zone pour vols à basse altitude sont produites sous forme de cartes toutes les 3 heures de 9 UTC à 18 UTC (et de 06 UTC à 18 UTC de juin à août) et peuvent ne pas être produites au-delà de ces horaires ;
 
 - à l'apprendice 5, paragraphe 1.1.2, les TAF peuvent ne pas être diffusés dans la forme symbolique BUFR ;
 
 - à l'appendice 5, paragraphe 2, les prévisions de type tendance peuvent ne pas être accolées aux messages provenant de systèmes d'observation automatiques.
 
-7. Renseignements SIGMET et AIRMET, avertissements
-
-d'aérodromes et avertissements de cisaillement de vent
+7. Renseignements SIGMET et AIRMET, avertissements d'aérodromes et avertissements de cisaillement de vent
 
 Les dispositions prévues au chapitre 7 de l'annexe 3 de l'OACI et à son appendice 6 sont applicables y compris les recommandations, sous réserve des adaptations pour les dispositions suivantes :
 
 - les termes : administration météorologique sont remplacés par : prestataire de services météorologiques ;
-
-- au paragraphe 7.1.6, dans le cas particulier des messages SIGMET concernant un nuage de cendres volcaniques ou un cyclone tropical, les messages sont établis dès que possible mais au plus tôt douze heures avant le début de la période de validité ;
-
-- les dispositions du paragraphe 7.2 ne s'appliquent pas ;
 
 - les dispositions du paragraphe 7.4 s'appliquent aux aérodromes sur lesquels un capteur est mis en œuvre pour des raisons de sécurité de la navigation aérienne ;
 
@@ -194,30 +188,22 @@ Les dispositions prévues au chapitre 7 de l'annexe 3 de l'OACI et à son append
 
 Les dispositions prévues au chapitre 8 de l'annexe 3 de l'OACI et à son appendice 7 sont toutes applicables y compris les recommandations sous réserve de la modification suivante :
 
-- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques .
+- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques.
 
-9. Assistance aux exploitants
+9. Assistance aux exploitants et aux membres d'équipage de conduite
 
-et aux membres d'équipage de conduite
+Les dispositions prévues au chapitre 9 de l'annexe 3 de l'OACI ainsi qu'aux appendices 1 et 8 sont toutes applicables y compris les recommandations, excepté le paragraphe 6.2 f de l'appendice 8, sous réserve de la modification suivante :
 
-Les dispositions prévues au chapitre 9 de l'annexe 3 de l'OACI ainsi qu'aux appendices 1 et 8 sont toutes applicables y compris les recommandations sous réserve de la modification suivante :
-
-- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques .
+- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques.
 
 10. Renseignements destinés aux services de la circulation aérienne, aux services de recherche et de sauvetage et aux services d'information aéronautique
 
 Les dispositions prévues au chapitre 10 de l'annexe 3 de l'OACI et à son appendice 9 sont toutes applicables y compris les recommandations, sous réserve de la modification suivante :
 
-- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques .
+- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques.
 
-11. Besoins de moyens de communication
-
-et utilisation de ces moyens
+11. Besoins de moyens de communication et utilisation de ces moyens
 
 Les dispositions prévues au chapitre 11 de l'annexe 3 de l'OACI et à son appendice 10 sont toutes applicables y compris les recommandations, sous réserve de la modification suivante :
 
-- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques .
-
-12. Délai de mise en œuvre
-
-La mise à niveau nécessaire des services météorologiques pour répondre aux exigences de la présente annexe doit être achevée dans un délai maximal de dix-huit mois à compter de la date de publication du présent arrêté au Journal officiel de la République française.
+- les termes : administration météorologique sont remplacés par : prestataire de services météorologiques.
