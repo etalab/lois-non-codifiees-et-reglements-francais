@@ -1,0 +1,3 @@
+# Article 9
+
+Les récipients-mesures destinés au stockage des produits alcooliques, visés à l'article 403 du code général des impôts et utilisés exclusivement dans le cadre des opérations fiscales, qui n'ont pas fait l'objet d'une vérification avec jaugeage à l'échéance prévue par l'arrêté du 8 juillet 2003 susvisé avant l'entrée en vigueur du présent arrêté, peuvent faire l'objet d'une vérification périodique conformément au présent arrêté, même si la validité du certificat de jaugeage est dépassée. Toutefois, la validité du certificat prorogatif délivré ne pourra pas dépasser la date du dernier jaugeage augmentée de vingt ans.

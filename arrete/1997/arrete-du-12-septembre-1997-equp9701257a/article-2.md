@@ -61,23 +61,6 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Centre d'études techniques maritimes et fluviales </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
 <p align="left">Centre d'évaluation, de documentation et d'innovations pédagogiques. </p>
 </td>
 <td align="left" valign="middle">
@@ -108,21 +91,6 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 </td>
 <td align="left" valign="middle">
 <p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td> Service d'études sur les transports, les routes et leurs aménagements</td>
-<td>
-<p align="center"> 10</p>
-</td>
-<td>
-<p align="center"> 10</p>
-</td>
-<td>
-<p align="center"> 10</p>
-</td>
-<td>
-<p align="center"> 10</p>
 </td>
 </tr>
 </tbody>
