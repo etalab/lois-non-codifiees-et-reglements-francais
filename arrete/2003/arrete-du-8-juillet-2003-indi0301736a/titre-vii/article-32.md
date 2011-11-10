@@ -1,16 +1,16 @@
 # Article 32
 
-Les dispositions du présent article s'appliquent spécifiquement aux récipients-mesures destinés à des utilisations sur véhicule de transport routier ou ferroviaire, dont les exigences techniques sont fixées par l'arrêté du 28 novembre 1990 susvisé.
+Les dispositions du présent article s'appliquent spécifiquement aux récipients-mesures destinés à des utilisations sur véhicule de transport routier ou ferroviaire, dont les exigences techniques sont fixées par l'arrêté du 28 septembre 1990 susvisé.
 
 32.1. La vérification périodique est effectuée à intervalles n'excédant pas douze ans pour les récipients sur wagons-citernes et six ans pour les récipients sur camions-citernes.
 
 32.2. Les plans détaillés doivent comprendre, en plus des éléments indiqués à l'article 4.1 ci-dessus, les éléments permettant de caractériser :
 
-- les plans de référence à partir desquels sont déterminées les hauteurs de liquides ou permettant de vérifier la stabilité dimensionnelle des récipients-mesures ;
+-les plans de référence à partir desquels sont déterminées les hauteurs de liquides ou permettant de vérifier la stabilité dimensionnelle des récipients-mesures ;
 
-- l'absence de possibilité de détournement de liquide, notamment en cas de présence d'un collecteur ;
+-l'absence de possibilité de détournement de liquide, notamment en cas de présence d'un collecteur ;
 
-- la verticale de pige.
+-la verticale de pige.
 
 La demande d'approbation est accompagnée d'une note de calcul établie selon un modèle défini par décision du ministre chargé de l'industrie.
 
@@ -18,13 +18,13 @@ Par dérogation à l'article 15 ci-dessus, il n'est pas obligatoire de présente
 
 32.3. Les volumes figurant sur le certificat de jaugeage et le barème de jaugeage doivent être déterminés avec des incertitudes relatives, en plus et en moins, n'excédant pas les valeurs suivantes :
 
-- dans la zone de barémage correspondant à la sensibilité minimale exigée : 0,2 % ;
+-dans la zone de barémage correspondant à la sensibilité minimale exigée : 0,2 % ;
 
-- dans la zone de barémage étendue autorisée dans le cas des récipients-mesures sur wagons : 1,0 %.
+-dans la zone de barémage étendue autorisée dans le cas des récipients-mesures sur wagons : 1,0 %.
 
 Une table des volumes complémentaire n'est autorisée que conformément à une décision du ministre chargé de l'industrie.
 
-32.4 Un organisme agréé et accrédité peut constituer un réseau de stations de jaugeage. Cet organisme, désigné par "tête de réseau", et le responsable d'une autre station de jaugeage doivent formaliser leur accord dans un document signé par les deux parties. Ce document indique leurs engagements réciproques et fait partie intégrante du système d'assurance de la qualité.
+32.4 Un organisme agréé et accrédité peut constituer un réseau de stations de jaugeage. Cet organisme, désigné par " tête de réseau ", et le responsable d'une autre station de jaugeage doivent formaliser leur accord dans un document signé par les deux parties. Ce document indique leurs engagements réciproques et fait partie intégrante du système d'assurance de la qualité.
 
 La tête de réseau a la responsabilité de s'assurer que les stations de jaugeage du réseau respectent les obligations réglementaires et le document ci-dessus évoqué doit en faire état.
 

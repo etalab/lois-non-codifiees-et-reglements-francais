@@ -4,15 +4,15 @@ Les dispositions du présent article s'appliquent spécifiquement aux réservoir
 
 35.1. La vérification périodique doit être effectuée à intervalles n'excédant pas dix ans.
 
-La vérification périodique des récipients-mesures destinés au stockage des liquides autres que les produits alcooliques visés à l'article 403 du code général des impôts et utilisés exclusivement dans le cadre des opérations fiscales ne comprend un jaugeage que sur demande explicite du détenteur ou en cas de nécessité, telle que, par exemple ;
+Pour les récipients-mesures utilisés exclusivement dans le cadre des opérations fiscales, la vérification périodique peut ne pas comprendre de jaugeage, sauf demande explicite du détenteur :
 
-- si le récipient-mesure a subi des déformations, des modifications ou toute évolution susceptible de compromettre ses qualités métrologiques ;
+- dans le cas de stockage des liquides autres que les produits alcooliques visés à l'article 403 du code général des impôts ;
 
-- si le récipient-mesure a été déplacé ou a basculé et qu'il n'a pas été possible de le replacer dans sa position de référence ;
+- dans le cas de stockage de produits alcooliques visés à l'article 403 du code général des impôts si un jaugeage a été réalisé lors de la précédente vérification périodique et si le récipient-mesure dispose d'un certificat de jaugeage en cours de validité, avec une incertitude relative, en plus et en moins, n'excédant pas 0,3 %.
 
-- sur demande explicite d'un service de l'Etat.
+Les dispositions du précédent alinéa ne s'appliquent pas et le jaugeage est indispensable lors de la vérification périodique si un service de l'Etat en fait la demande ou si, depuis la dernière opération de contrôle comprenant un jaugeage, le récipient-mesure a subi des déformations, modifications ou toute évolution susceptible de remettre en cause ses qualités métrologiques ou s'il a été déplacé ou basculé et qu'il n'a pas été possible de le replacer dans sa position de référence.
 
-Lorsqu'elle ne comporte pas de jaugeage, la vérification périodique est sanctionnée par la délivrance d'un certificat prorogeant le certificat de jaugeage et le barème. Ce certificat prorogatif tient lieu de marque de vérification périodique.
+Lorsqu'elle ne comporte pas de jaugeage, la vérification périodique est sanctionnée par la délivrance d'un certificat prorogeant le certificat de jaugeage et le barème, avec une incertitude relative, en plus et en moins, égale à 0,7 %. Ce certificat prorogatif tient lieu de marque de vérification périodique.
 
 35.2. Lorsque le détenteur estime que le jaugeage n'est pas utile ou nécessaire, il établit un document attestant que le récipient-mesure n'a subi aucune intervention de nature à affecter ses caractéristiques métrologiques, de modification en particulier, et le remet à l'organisme de vérification périodique qui l'archive.
 
@@ -20,11 +20,9 @@ L'organisme de vérification périodique peut néanmoins décider qu'un jaugeage
 
 35.3. En plus des dispositions générales prévues à l'article 17 ci-dessus, la vérification périodique des récipients-mesures comprend notamment un examen du respect de la position de référence. Si le récipient-mesure n'est plus dans sa position de référence, il y a lieu de procéder systématiquement au jaugeage.
 
-35.4. Les volumes figurant sur le certificat de jaugeage et le barème de jaugeage doivent être déterminés avec des incertitudes relatives, en plus et en moins, n'excédant pas les valeurs suivantes :
+35.4. Les volumes figurant sur le certificat de jaugeage et le barème de jaugeage sont déterminés avec des incertitudes relatives en plus et en moins n'excédant pas les valeurs suivantes :
 
-- pour les récipients-mesures destinés au stockage des alcools, en particulier les produits alcooliques visés à l'article 403 du code général des impôts : 0,3 % ;
-
-- pour les récipients-mesures mentionnés au deuxième alinéa au paragraphe 35.1 ci-dessus : 0,7 % ;
+- pour les récipients-mesures destinés au stockage des alcools, notamment ceux visés à l'article 403 du code général des impôts : 0,3 % ;
 
 - pour les autres récipients-mesures : 0,4 %.
 
