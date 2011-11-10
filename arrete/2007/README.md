@@ -1058,7 +1058,6 @@
 - [Arrêté du 29 mars 2007 (SANH0721283A)](arrete-du-29-mars-2007-sanh0721283a)
 - [Arrêté du 29 mars 2007 (SOCU0751093A)](arrete-du-29-mars-2007-socu0751093a)
 - [Arrêté du 29 mars 2007 (SOCV0710927A)](arrete-du-29-mars-2007-socv0710927a)
-- [Arrêté du 29 novembre 2006 (DEVO0630201A)](arrete-du-29-novembre-2006-devo0630201a)
 - [Arrêté du 29 novembre 2007 (DEVA0771953A)](arrete-du-29-novembre-2007-deva0771953a)
 - [Arrêté du 29 novembre 2007 (DEVT0766964A)](arrete-du-29-novembre-2007-devt0766964a)
 - [Arrêté du 29 novembre 2007 (SJSP0772087A)](arrete-du-29-novembre-2007-sjsp0772087a)
