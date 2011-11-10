@@ -1116,7 +1116,6 @@
 - [Arrêté du 13 décembre 2001 (MENA0102719A)](arrete-du-13-decembre-2001-mena0102719a)
 - [Arrêté du 13 décembre 2010 (DEFD1032008A)](arrete-du-13-decembre-2010-defd1032008a)
 - [Arrêté du 13 décembre 2010 (DEFF1032079A)](arrete-du-13-decembre-2010-deff1032079a)
-- [Arrêté du 13 décembre 2010 (DEVK1025043A)](arrete-du-13-decembre-2010-devk1025043a)
 - [Arrêté du 13 décembre 2010 (DEVL1028703A)](arrete-du-13-decembre-2010-devl1028703a)
 - [Arrêté du 13 décembre 2010 (ETSH1032096A)](arrete-du-13-decembre-2010-etsh1032096a)
 - [Arrêté du 13 décembre 2010 (IOCC1029864A)](arrete-du-13-decembre-2010-iocc1029864a)
