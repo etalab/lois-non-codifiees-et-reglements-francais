@@ -6,10 +6,8 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Côte de Beaune-Villages " ;
 
-― " Ruchottes-Chambertin " ;
+― " Richebourg " ;
 
-― " Richebourg ", " La Grande Rue " ;
-
-― " Volnay " ;
+― " Volnay ";
 
 - "Vosne-Romanée".
