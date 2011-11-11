@@ -3004,7 +3004,6 @@
 - [Arrêté du 1er décembre 2009 (AGRG0929753A)](arrete-du-1er-decembre-2009-agrg0929753a)
 - [Arrêté du 1er décembre 2009 (AGRT0928482A)](arrete-du-1er-decembre-2009-agrt0928482a)
 - [Arrêté du 1er décembre 2009 (DEVU0928879A)](arrete-du-1er-decembre-2009-devu0928879a)
-- [Arrêté du 1er décembre 2009 (JUSA0928034A)](arrete-du-1er-decembre-2009-jusa0928034a)
 - [Arrêté du 1er décembre 2009 (MCCK0926316A)](arrete-du-1er-decembre-2009-mcck0926316a)
 - [Arrêté du 1er décembre 2009 (MENG0922729A)](arrete-du-1er-decembre-2009-meng0922729a)
 - [Arrêté du 1er décembre 2009 (SASS0928842A)](arrete-du-1er-decembre-2009-sass0928842a)
