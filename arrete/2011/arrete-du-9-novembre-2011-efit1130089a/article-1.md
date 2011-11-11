@@ -1,0 +1,3 @@
+# Article 1
+
+Est prorogée pour une durée ne pouvant excéder trois mois la décision du collège de l'Autorité des marchés financiers en date du 25 août 2011 d'interdire toute position courte nette ou tout accroissement d'une telle position existante, y compris en cours de journée, par toute personne établie ou résidant en France ou à l'étranger, sur les titres de capital ou donnant accès au capital des établissements de crédit et entreprises d'assurances dont la liste est portée en annexe au présent arrêté, cette mesure ne s'appliquant pas aux intermédiaires financiers agissant en qualité de teneur de marché ou d'apporteur de liquidité signataires d'un contrat avec l'entreprise de marché ou avec l'émetteur, ou en qualité de contrepartiste sur blocs d'actions.

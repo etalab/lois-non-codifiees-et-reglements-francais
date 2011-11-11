@@ -1,0 +1,5 @@
+# Article 14
+
+Préalablement à sa conclusion, le projet de contrat du responsable de la conformité, mentionné à l'article L. 111-34 du code de l'énergie, est adressé pour approbation à la Commission de régulation de l'énergie par le conseil d'administration ou de surveillance de la société gestionnaire de réseau de transport d'électricité ou de gaz. Il est accompagné, s'il s'agit d'une personne physique, d'un descriptif détaillé des fonctions occupées par la personne concernée pendant une période de trois ans avant son engagement et, dans tous les cas, de toutes les informations utiles pour que la Commission de régulation de l'énergie puisse vérifier les compétences professionnelles et l'indépendance de la personne concernée.
+
+Tout projet de dénonciation ou de modification du contrat liant la société gestionnaire de réseau de transport et le responsable de la conformité est préalablement soumis à l'approbation de la Commission de régulation de l'énergie. La demande d'approbation de la dénonciation du contrat est motivée.

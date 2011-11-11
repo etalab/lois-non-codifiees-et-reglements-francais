@@ -1,0 +1,7 @@
+# Article 19
+
+I. ― 1° Dans le délai de six mois à compter de la date de publication du présent décret, les armuriers en fonctions à cette date doivent déposer une demande d'agrément dans les conditions définies à l'article 5-1 du décret du 6 mai 1995 susvisé. Ils sont dispensés de produire une des pièces énumérées au 2° de l'article 5-2 justifiant de leurs compétences professionnelles. Il leur est remis un récépissé qui leur permet de poursuivre leur activité jusqu'à ce qu'il soit statué sur la demande d'agrément.
+
+2° Les demandeurs de l'agrément défini à l'article 5-1 du décret du 6 mai 1995 susvisé autres que ceux en fonctions à la date de publication du présent décret et qui ne peuvent produire une des pièces énumérées au 2° de l'article 5-2 du décret du 6 mai 1995 susvisé justifiant de leurs compétences professionnelles en sont dispensés pour les demandes présentées jusqu'au 31 décembre 2012. Il leur est, le cas échéant, délivré un agrément d'une durée de cinq ans. La demande de renouvellement est accompagnée d'une des pièces justifiant de leurs compétences professionnelles.
+
+II. ― Les dispositions du présent article sont applicables en Polynésie française et en Nouvelle-Calédonie. A cette fin, les références à des articles du décret du 6 mai 1995 susvisé sont remplacées par celles aux articles correspondants des décrets susvisés n° 2009-450 du 21 avril 2009 pour la Polynésie française et n° 2009-451 du 21 avril 2009 pour la Nouvelle-Calédonie.
