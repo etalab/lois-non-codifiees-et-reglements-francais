@@ -1,7 +1,5 @@
 # Article 2
 
-Le ministre de la défense détermine, par voie de décision particulière, sur proposition du chef d'état-major des armées :
+A titre collectif, la croix de la Valeur militaire peut également être décernée aux unités françaises s'étant particulièrement distinguées à l'occasion d'une ou plusieurs actions d'éclat hors du territoire national, au cours de missions ou d'opérations extérieures, mettant ainsi à l'honneur les qualités et valeurs militaires traditionnelles des armées françaises.
 
-- le ou les territoires ouvrant droit à attribution de la croix de la Valeur militaire ;
-
-- la date à partir de laquelle la croix peut être décernée sur ce ou ces territoires.
+La croix de la Valeur militaire peut être attribuée, dans les mêmes conditions, à des unités étrangères.
