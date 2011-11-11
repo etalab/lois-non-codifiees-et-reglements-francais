@@ -1,6 +1,6 @@
 # Article Annexe G
 
-1. LISTE DE DÉPENSES TRAITÉES HORS DE L'APPLICATIF CHORUS EN 2011
+1. Liste des dépenses traitées hors de l'applicatif Chorus en 2011
 
 <table>
 <tbody>
@@ -73,3 +73,5 @@
 - les recettes d'indus des pôles emplois ;
 
 - Certaines recettes liées à l'activité régalienne spécifique de la DGFiP, qui seront précisées par lettre collective du directeur général des finances publiques.
+
+-les recettes émises par les services du ministère de l'écologie, du développement durable, des transports et du logement sur la spécification 230621 " Produits de la vente de divers services : recettes d'ingénierie publique - Equipement ".
