@@ -154,7 +154,6 @@
 - [Décret n°94-40 du 7 janvier 1994 (ENVE9310108D)](decret-n94-40-du-7-janvier-1994-enve9310108d)
 - [Décret n°94-471 du 7 juin 1994 (AGRM9400196D)](decret-n94-471-du-7-juin-1994-agrm9400196d)
 - [Décret n°94-472 du 7 juin 1994 (COPC9400001D)](decret-n94-472-du-7-juin-1994-copc9400001d)
-- [Décret n°94-566 du 7 juillet 1994 (INDE9400592D)](decret-n94-566-du-7-juillet-1994-inde9400592d)
 - [Décret n°94-787 du 7 septembre 1994 (ECOM9400270D)](decret-n94-787-du-7-septembre-1994-ecom9400270d)
 - [Décret n°94-790 du 7 septembre 1994 (BUDR9404215D)](decret-n94-790-du-7-septembre-1994-budr9404215d)
 - [Décret n°94-794 du 7 septembre 1994 (DEFX9400121D)](decret-n94-794-du-7-septembre-1994-defx9400121d)
