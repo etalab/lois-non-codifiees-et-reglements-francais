@@ -1,8 +1,8 @@
 # Article 13
 
-La direction « gestion des ressources » (DSAC/GR) comprend :
+La direction  gestion des ressources  (DSAC/GR) comprend :
 
-Le pôle « ressources humaines » (GR/RH) qui :
+Le pôle  ressources humaines  (GR/RH) qui :
 
 ― établit en liaison avec les échelons interrégionaux les effectifs cible de la direction de la sécurité de l'aviation civile, notamment concernant la répartition fonctionnelle et géographique ;
 
@@ -16,7 +16,7 @@ Le pôle « ressources humaines » (GR/RH) qui :
 
 Dans ces domaines, il coordonne l'action des directions interrégionales chargées des tâches correspondantes pour leur direction.
 
-Le pôle « finances » (GR/FIN), qui :
+Le pôle  finances  (GR/FIN), qui :
 
 ― assure, en liaison avec le secrétariat général de la DGAC, la préparation en dépenses du budget de la direction de la sécurité de l'aviation civile et établit les documents budgétaires correspondants ;
 
@@ -30,7 +30,7 @@ Le pôle « finances » (GR/FIN), qui :
 
 ― assure le suivi et l'analyse des coûts des activités de la direction de la sécurité de l'aviation civile et propose les pistes d'optimisation des recettes et des dépenses.
 
-Le pôle « achats et logistique » (GR/LOG), qui :
+Le pôle " achats et dépenses " (GR/ DEP) qui :
 
 ― assure, en liaison avec les directions techniques concernées et les directions interrégionales, la politique, la programmation et la réalisation des achats de la direction de la sécurité de l'aviation civile, sous réserve des compétences du secrétariat général de la DGAC ;
 

@@ -2,7 +2,7 @@
 
 La direction sûreté (DSAC/SUR) comprend :
 
-L'unité méthodes (SUR/MET), qui :
+Le pôle " méthodes " (SUR/ MET), qui :
 
 ― définit les référentiels de contrôle, les outils, les procédures et les méthodes nécessaires aux actions de surveillance et s'assure de leur mise en œuvre ;
 
