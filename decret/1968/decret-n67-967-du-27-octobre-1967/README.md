@@ -7,5 +7,5 @@
 - [Chapitre V : Hypothèques maritimes](chapitre-v)
 - [Chapitre VI : Saisie des navires](chapitre-vi)
 - [Chapitre VII : Fonds de limitation](chapitre-vii)
-- [Chapitre VIII : Publicité de la propriété et de l'état des navires](chapitre-viii)
+- [Chapitre IX : Publicité de la propriété et de l'état des navires](chapitre-ix)
 - [Dispositions générales](dispositions-generales)

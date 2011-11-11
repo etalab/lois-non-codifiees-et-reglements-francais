@@ -1,4 +1,4 @@
-# Article 93
+# Article 98
 
 Aucun des actes mentionnés à l'article 92 (1°, 2°, 3°, 4°, 5° et 6°) n'est opposable aux tiers avant son inscription sur la fiche matricule.
 
