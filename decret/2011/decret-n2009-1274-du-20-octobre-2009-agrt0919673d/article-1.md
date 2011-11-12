@@ -10,6 +10,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Moulis " ou " Moulis-en-Médoc " ;
 
-― " Listrac-Médoc " ;
-
 ― " Montagne-Saint-Emilion ".
