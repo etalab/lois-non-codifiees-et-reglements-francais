@@ -866,7 +866,6 @@
 - [Décret n°2009-1280 du 22 octobre 2009 (IOCE0916737D)](decret-n2009-1280-du-22-octobre-2009-ioce0916737d)
 - [Décret n°2009-1281 du 22 octobre 2009 (IOCE0915847D)](decret-n2009-1281-du-22-octobre-2009-ioce0915847d)
 - [Décret n°2009-1283 du 22 octobre 2009 (SASP0917871D)](decret-n2009-1283-du-22-octobre-2009-sasp0917871d)
-- [Décret n°2009-1287 du 22 octobre 2009 (AGRT0919617D)](decret-n2009-1287-du-22-octobre-2009-agrt0919617d)
 - [Décret n°2009-449 du 22 avril 2009 (DEVN0826304D)](decret-n2009-449-du-22-avril-2009-devn0826304d)
 - [Décret n°2009-452 du 22 avril 2009 (JUSC0908088D)](decret-n2009-452-du-22-avril-2009-jusc0908088d)
 - [Décret n°2009-453 du 22 avril 2009 (DEVE0900117D)](decret-n2009-453-du-22-avril-2009-deve0900117d)
