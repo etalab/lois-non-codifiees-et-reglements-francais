@@ -1,0 +1,3 @@
+# Article 1
+
+Les éléments accessoires propres à l'édition numérique mentionnés au premier alinéa de l'article 1er de la loi du 26 mai 2011 susvisée s'entendent des variations typographiques et de composition, des modalités d'accès aux illustrations et au texte telles que le moteur de recherche associé, les modalités de défilement ou de feuilletage des éléments contenus, ainsi que des ajouts de textes ou de données relevant de genres différents, notamment sons, musiques, images animées ou fixes, limités en nombre et en importance, complémentaires du livre et destinés à en faciliter la compréhension.
