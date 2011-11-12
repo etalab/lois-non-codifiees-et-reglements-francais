@@ -6,4 +6,4 @@ a) De coordonner les différentes missions de l'observatoire en matière d'exper
 
 b) De mettre en oeuvre les programmes et les conventions de recherche ;
 
-c) D'entretenir des relations avec les services concernés des ministères chargés de la défense, de la santé, de la sécurité sociale et des anciens combattants.
+c) D'entretenir des relations avec les services concernés des ministères chargés de la défense, de la santé, de la sécurité sociale et des anciens combattants ainsi qu'avec des organismes partenaires, en particulier les instituts de recherche et de santé.

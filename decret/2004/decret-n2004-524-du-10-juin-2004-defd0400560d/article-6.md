@@ -1,21 +1,25 @@
 # Article 6
 
-L'Observatoire de la santé des vétérans comprend un comité directeur et un comité d'experts.
+L'Observatoire de la santé des vétérans est composé d'un comité directeur et d'un conseil scientifique.
 
 1. Le comité directeur de l'Observatoire de la santé des vétérans :
 
-a) Planifie les travaux ;
+a) Définit les orientations stratégiques de l'observatoire ;
 
-b) Etablit les conventions de recherche ;
+b) Examine les demandes d'études pouvant être confiées au conseil scientifique de l'observatoire et en propose une liste au ministre de la défense qui les arrête ;
 
-c) Coordonne la prise en charge médicale.
+c) Valide les modalités de réalisation de ces études et suit l'exécution de celles-ci.
 
-2. Le comité d'experts :
+2. Le conseil scientifique de l'Observatoire de la santé des vétérans :
 
 a) Participe à la vigilance à l'égard des risques sanitaires auxquels les militaires sont exposés ;
 
-b) Conseille le délégué de l'Observatoire de la santé des vétérans en matière :
+b) Emet un avis sur les propositions d'études de santé dont il est saisi par le délégué de l'Observatoire de la santé des vétérans ;
 
-1° D'élaboration d'outils épidémiologiques afin d'établir une traçabilité des pathologies ;
+c) Prépare et pilote les études de santé dont est saisi l'Observatoire de la santé des vétérans ;
 
-2° De veille scientifique et technologique.
+d) Conseille le délégué de l'Observatoire de la santé des vétérans en matière :
+
+- d'élaboration d'outils épidémiologiques permettant d'établir une traçabilité des pathologies ;
+
+- de veille scientifique et technologique.

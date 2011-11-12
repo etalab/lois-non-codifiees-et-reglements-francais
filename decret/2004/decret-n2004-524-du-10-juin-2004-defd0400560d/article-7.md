@@ -8,9 +8,9 @@ a) Le chef d'état-major des armées ou son représentant ;
 
 b) Le directeur central du service de santé des armées ou son représentant ;
 
-c) Le directeur de la fonction militaire et du personnel civil ou son représentant ;
+c) Le directeur des ressources humaines du ministère de la défense ou son représentant ;
 
-d) Le directeur des statuts, des pensions et de la réinsertion sociale ou son représentant ;
+d) Le directeur général de l'Office national des anciens combattants et victimes de guerre ou son représentant ;
 
 e) Le directeur général de la santé ou son représentant ;
 
@@ -20,4 +20,6 @@ g) Le directeur de la caisse nationale militaire de sécurité sociale ou son re
 
 h) Le directeur général de l'Institut de veille sanitaire ou son représentant ;
 
-i) Le président du comité d'experts ou son représentant.
+i) Le président du conseil scientifique de l'Observatoire de la santé des vétérans ou son représentant ;
+
+j) L'inspecteur général des armées pour le service de santé des armées ou son représentant.

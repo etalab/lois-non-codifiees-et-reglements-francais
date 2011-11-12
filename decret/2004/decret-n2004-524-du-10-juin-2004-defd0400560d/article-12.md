@@ -1,3 +1,3 @@
 # Article 12
 
-La communication des informations sur les travaux de l'Observatoire de la santé des vétérans est effectuée avec l'aval du ministre de la défense.
+Les travaux conduits sous l'égide du conseil scientifique de l'Observatoire de la santé des vétérans sont rendus publics.
