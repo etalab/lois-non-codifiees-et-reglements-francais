@@ -50,7 +50,7 @@ Métier Ancienneté dans le corps des adjoints (administratifs ou techniques)
 
 Diplômes
 
-Joindre un état de services civils effectifs accomplis. Les attestations sont délivrées par l'administration où le candidat est (ou a été) employé, indiquant la durée exacte des services civils effectifs, ainsi que les diverses fonctions et les périodes d'emploi.
+Joindre un état de services publics. Les attestations sont délivrées par l'administration où le candidat est (ou a été) employé, indiquant la durée exacte des services publics ainsi que les diverses fonctions et les périodes d'emploi.
 
 Direction/service/établissement :
 
@@ -235,12 +235,8 @@ Caractérisez en quelques mots les éléments qui constituent selon vous les acq
 Précisez, par ailleurs, vos motivations pour exercer les missions d'un secrétaire administratif de classe supérieure dans les services du Premier ministre (1 à 2 pages maximum dactylographiées).
 
 <font color="#808080" size="1">
-<em>(*) Extrait de l'article 3 du décret n° 2010-302 du 19 mars 2010 : I. ― Les secrétaires administratifs sont chargés de tâches administratives d'application. A ce titre, ils participent à la mise en œuvre, dans les cas particuliers qui leur sont soumis, des textes de portée générale. Ils exercent notamment des tâches administratives de gestion dans les domaines des ressources humaines, logistiques, financiers ou comptables. Ils peuvent se voir confier des tâches de rédaction et être chargés de l'animation d'une équipe. Ils peuvent également assurer des fonctions d'assistant de direction. II. ― Les secrétaires administratifs de classe supérieure et les secrétaires administratifs de classe exceptionnelle ont vocation à occuper les emplois qui, relevant des domaines d'activité mentionnés au I, correspondent à un niveau d'expertise acquis par l'expérience professionnelle, par la formation initiale ou par la formation professionnelle tout au long de la vie. Ils peuvent également être investis de responsabilités particulières de coordination d'une ou plusieurs équipes. </em>
+<em>(*) Extrait de l'article 3 du décret n° 2010-302 du 19 mars 2010 : I. ― Les secrétaires administratifs sont chargés de tâches administratives d'application. A ce titre, ils participent à la mise en œuvre, dans les cas particuliers qui leur sont soumis, des textes de portée générale. Ils exercent notamment des tâches administratives de gestion dans les domaines des ressources humaines, logistiques, financiers ou comptables. Ils peuvent se voir confier des tâches de rédaction et être chargés de l'animation d'une équipe. Ils peuvent également assurer des fonctions d'assistant de direction. II. ― Les secrétaires administratifs de classe supérieure et les secrétaires administratifs de classe exceptionnelle ont vocation à occuper les emplois qui, relevant des domaines d'activité mentionnés au I, correspondent à un niveau d'expertise acquis par l'expérience professionnelle, par la formation initiale ou par la formation professionnelle tout au long de la vie. Ils peuvent également être investis de responsabilités particulières de coordination d'une ou plusieurs équipes.</em>
 </font>
-
-_<font color="#808080" size="1"/>_
-
-_<font color="#808080" size="1"/>_
 
 Votre appréciation des acquis de votre expérience professionnelle
 
@@ -269,15 +265,15 @@ Descriptif des pièces annexes au dossier RAEP que vous allez joindre
 <br/>DOMAINE CONCERNÉ<br/>
 </th>
 <th>
-<br/>RÉCAPITULATIF DES DOCUMENTS<br/>
-<br/>susceptibles de figurer<br/>
-<br/>dans le dossier RAEP<br/>
+<br/>RÉCAPITULATIF DES DOCUMENTS <p>susceptibles de figurer</p>
+<p>dans le dossier RAEP<br/>
+</p>
 </th>
 <th>
-<br/>NOMBRE MAXIMUM<br/>
-<br/>de documents<br/>
-<br/>pouvant être joints<br/>
-<br/>au dossier RAEP<br/>
+<br/>NOMBRE MAXIMUM <p>de documents</p>
+<p>pouvant être joints</p>
+<p>au dossier RAEP<br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -362,7 +358,7 @@ Constitue un faux toute altération frauduleuse de la vérité, de nature à cau
 
 Le faux et l'usage de faux sont punis de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
-Le fait de se faire délivrer indûment par une administration publique ou un organisme chargé d'une mission de service public, par quelque moyen frauduleux que ce soit, un document destiné à constater un droit, une identité ou une qualité ou à accorder une autorisation est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.  (Code pénal, art. 441-6.)
+Le fait de se faire délivrer indûment par une administration publique ou un organisme chargé d'une mission de service public, par quelque moyen frauduleux que ce soit, un document destiné à constater un droit, une identité ou une qualité ou à accorder une autorisation est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. (Code pénal, art. 441-6.)
 
 A , le
 
