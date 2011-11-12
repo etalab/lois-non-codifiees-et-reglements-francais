@@ -1,3 +1,3 @@
-# Décret n° 2008-1140 du 3 novembre 2008 relatif aux appellations d'origine contrôlées « Bordeaux », « Muscadet », « Muscadet Coteaux de la Loire », « Muscadet Côtes de Grandlieu » et « Muscadet Sèvre et Maine »
+# Décret n° 2008-1140 du 3 novembre 2008 relatif aux appellations d'origine contrôlées « Bordeaux », « Muscadet », « Muscadet Coteaux de la Loire »
 
 - [Article 1](article-1.md)
