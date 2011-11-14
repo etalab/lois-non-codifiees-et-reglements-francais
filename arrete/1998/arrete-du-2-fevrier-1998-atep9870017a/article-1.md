@@ -32,7 +32,11 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des installations relevant de la rubrique n° 2921 de la Nomenclature des installations classées (installations de refroidissement par dispersion d'eau dans un flux d'air).
 
-Les points a à e de l'article 27.7 du présent arrêté ne s'appliquent pas au stockage en réservoirs aériens manufacturés de liquides inflammables exploités dans un stockage soumis à autorisation au titre de la rubrique 1432 de la législation des installations classées pour la protection de l'environnement.
+Les points a à e de l'article 27.7 du présent arrêté ne s'appliquent pas :
+
+- aux stockages en réservoirs aériens manufacturés de liquides inflammables exploités dans un stockage soumis à autorisation au titre de la rubrique 1432 de la nomenclature des installations classées pour la protection de l'environnement ;
+
+- aux installations soumises à autorisation au titre de la rubrique 1434-2 de la nomenclature des installations classées pour la protection de l'environnement.
 
 Les dispositions du présent arrêté s'appliquent aux arrêtés d'autorisation des installations classées nouvelles et existantes selon les modalités définies au chapitre X.
 
