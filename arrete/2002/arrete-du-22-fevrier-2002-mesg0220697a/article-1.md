@@ -6,11 +6,7 @@ Dès lors qu'ils exercent en services déconcentrés du ministère de l'emploi e
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNEL TITULAIRE </p>
-<br/>
-<p align="center">du ministère de l'emploi et de la solidarité </p>
-<br/>
-<p align="center">et du ministère de la santé, de la famille et des personnes handicapées </p>
+<p align="center">PERSONNEL TITULAIRE<br/>du ministère de l'emploi et de la solidarité<br/>et du ministère de la santé, de la famille et des personnes handicapées </p>
 </td>
 <td>
 <p align="center">CATÉGORIES </p>
@@ -61,19 +57,19 @@ Dès lors qu'ils exercent en services déconcentrés du ministère de l'emploi e
 <p>Moniteurs-éducateurs des INJS et de l'INJA dont l'indice brut est supérieur à 380 </p>
 </td>
 <td rowspan="2">
-<p align="center">3e </p>
+<p align="center">3e</p>
 </td>
 </tr>
 </tbody>
 </table>
 
+.
+
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNEL NON TITULAIRE </p>
-<br/>
-<p align="center">du ministère de l'emploi et de la solidarité </p>
+<p align="center"> PERSONNEL NON TITULAIRE<br/>du ministère de l'emploi et de la solidarité </p>
 </td>
 <td>
 <p align="center">CATÉGORIES </p>
@@ -109,6 +105,27 @@ Dès lors qu'ils exercent en services déconcentrés du ministère de l'emploi e
 </td>
 <td rowspan="2">
 <p align="center">3e</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> PERSONNEL TITULAIRE<br/>du ministère du travail, de l'emploi et de la santé<br/>et du ministère des solidarités et de la cohésion sociale </p>
+</td>
+<td>
+<p align="center">CATÉGORIES </p>
+</td>
+</tr>
+<tr>
+<td>Agent principal des services techniques.</td>
+<td>
+<p align="center">3e </p>
 </td>
 </tr>
 </tbody>
