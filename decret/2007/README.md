@@ -1399,7 +1399,6 @@
 - [Décret n°2007-1672 du 27 novembre 2007 (SJSP0769065D)](decret-n2007-1672-du-27-novembre-2007-sjsp0769065d)
 - [Décret n°2007-1674 du 27 novembre 2007 (DEVE0769592D)](decret-n2007-1674-du-27-novembre-2007-deve0769592d)
 - [Décret n°2007-1678 du 27 novembre 2007 (MCCH0764447D)](decret-n2007-1678-du-27-novembre-2007-mcch0764447d)
-- [Décret n°2007-260 du 27 février 2007 (ECOP0700142D)](decret-n2007-260-du-27-fevrier-2007-ecop0700142d)
 - [Décret n°2007-620 du 27 avril 2007 (DEFH0751326D)](decret-n2007-620-du-27-avril-2007-defh0751326d)
 - [Décret n°2007-627 du 27 avril 2007 (SOCX0600157D)](decret-n2007-627-du-27-avril-2007-socx0600157d)
 - [Décret n°2007-628 du 27 avril 2007 (ECOC0750331D)](decret-n2007-628-du-27-avril-2007-ecoc0750331d)
