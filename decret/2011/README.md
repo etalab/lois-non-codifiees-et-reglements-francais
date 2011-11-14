@@ -170,6 +170,7 @@
 - [Décret n°2011-1267 du 10 octobre 2011 (EFIE1101844D)](decret-n2011-1267-du-10-octobre-2011-efie1101844d)
 - [Décret n°2011-1488 du 10 novembre 2011 (DEVK1125948D)](decret-n2011-1488-du-10-novembre-2011-devk1125948d)
 - [Décret n°2011-1499 du 10 novembre 2011 (MCCE1126876D)](decret-n2011-1499-du-10-novembre-2011-mcce1126876d)
+- [Décret n°2011-1501 du 10 novembre 2011 (BCRE1119153D)](decret-n2011-1501-du-10-novembre-2011-bcre1119153d)
 - [Décret n°2011-164 du 10 février 2011 (ESRS1014943D)](decret-n2011-164-du-10-fevrier-2011-esrs1014943d)
 - [Décret n°2011-944 du 10 août 2011 (DEFH1120197D)](decret-n2011-944-du-10-aout-2011-defh1120197d)
 - [Décret n°2011-945 du 10 août 2011 (JUSC1105239D)](decret-n2011-945-du-10-aout-2011-jusc1105239d)
