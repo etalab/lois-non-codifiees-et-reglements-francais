@@ -1096,7 +1096,6 @@
 - [Arrêté du 28 juin 1995 (ECOJ9500002A)](arrete-du-28-juin-1995-ecoj9500002a)
 - [Arrêté du 28 juin 1995 (ECOR9505009A)](arrete-du-28-juin-1995-ecor9505009a)
 - [Arrêté du 28 juin 1995 (SANH9502089A)](arrete-du-28-juin-1995-sanh9502089a)
-- [Arrêté du 28 mars 1995 (DEFP9501355A)](arrete-du-28-mars-1995-defp9501355a)
 - [Arrêté du 28 mars 1995 (ECOT9510234A)](arrete-du-28-mars-1995-ecot9510234a)
 - [Arrêté du 28 mars 1995 (ECOT9590064A)](arrete-du-28-mars-1995-ecot9590064a)
 - [Arrêté du 28 mars 1995 (LOGC9500015A)](arrete-du-28-mars-1995-logc9500015a)
