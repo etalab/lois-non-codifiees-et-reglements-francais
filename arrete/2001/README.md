@@ -101,7 +101,6 @@
 - [Arrêté du 6 mars 2001 (MCCE0100076A)](arrete-du-6-mars-2001-mcce0100076a)
 - [Arrêté du 6 novembre 2001 (MAEA0120374A)](arrete-du-6-novembre-2001-maea0120374a)
 - [Arrêté du 6 septembre 2001 (INTE0100538A)](arrete-du-6-septembre-2001-inte0100538a)
-- [Arrêté du 6 septembre 2001 (MESO0111307A)](arrete-du-6-septembre-2001-meso0111307a)
 - [Arrêté du 6 septembre 2001 (MESP0123163A)](arrete-du-6-septembre-2001-mesp0123163a)
 - [Arrêté du 6 mai 1988 (ENVP8800108A)](arrete-du-6-mai-1988-envp8800108a)
 - [Arrêté du 7 août 2001 (ECOD0170017A)](arrete-du-7-aout-2001-ecod0170017a)
