@@ -189,7 +189,6 @@
 - [Arrêté du 7 novembre 1997 (ECOI9700753A)](arrete-du-7-novembre-1997-ecoi9700753a)
 - [Arrêté du 7 octobre 1998 (EQUH9800574A)](arrete-du-7-octobre-1998-equh9800574a)
 - [Arrêté du 7 octobre 1998 (JUSB9810333A)](arrete-du-7-octobre-1998-jusb9810333a)
-- [Arrêté du 7 octobre 1998 (MESG9823027A)](arrete-du-7-octobre-1998-mesg9823027a)
 - [Arrêté du 7 septembre 1998 (DEFD9801667A)](arrete-du-7-septembre-1998-defd9801667a)
 - [Arrêté du 7 mai 1998 (ATEN9870178A)](arrete-du-7-mai-1998-aten9870178a)
 - [Arrêté du 7 mai 1998 (ATEN9870179A)](arrete-du-7-mai-1998-aten9870179a)
