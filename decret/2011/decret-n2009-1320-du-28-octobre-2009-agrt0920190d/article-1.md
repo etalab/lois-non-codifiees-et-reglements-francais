@@ -10,6 +10,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Saint-Péray " ;
 
-― " Hermitage " ou " Ermitage " ou " l'Hermitage " ou " l'Ermitage " ;
-
-― " Lirac ".
+― " Hermitage " ou " Ermitage " ou " l'Hermitage " ou " l'Ermitage " .
