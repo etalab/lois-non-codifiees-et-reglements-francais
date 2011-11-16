@@ -1,4 +1,0 @@
-# SECTION 1 : PROCEDURE DE QUALIFICATION  DES SERVICES RENDUS PAR L'OPERATEUR
-
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
