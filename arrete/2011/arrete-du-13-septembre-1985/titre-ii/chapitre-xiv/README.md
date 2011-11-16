@@ -1,7 +1,6 @@
 # Chapitre XIV : Pari quinté plus
 
 - [Article 95-1](article-95-1.md)
-- [Article 95-2](article-95-2.md)
 - [Article 95-3](article-95-3.md)
 - [Article 95-4](article-95-4.md)
 - [Article 95-5](article-95-5.md)

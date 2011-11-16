@@ -2,7 +2,7 @@
 
 Lorsqu'un même type de pari donne lieu à l'enregistrement, en France ou en masse commune avec d'autres pays, pour des minima d'enjeux, exprimés en euros, différents, les rapports définissent la somme à payer en proportion de ces différents minima.
 
-Si le total des mises gagnantes à un rang de rapport donné est inférieur au minimum d'enjeu le plus élevé existant pour le pari considéré, le rapport correspondant est pondéré dans une proportion égale au quotient résultant de la division du total des mises gagnantes pour le rapport considéré par le minimum d'enjeu le plus élevé auquel le pari est enregistré.
+Lorsque les opérations de répartition sont effectuées en France, si le total des mises gagnantes à un rang de rapport donné est inférieur au minimum d'enjeu visé à l'article 14 ci-avant auquel le Pari considéré est enregistré, le rapport correspondant est pondéré dans une proportion égale au quotient résultant de la division du total des mises gagnantes pour le rapport considéré par le minimum d'enjeu visé à l'article 14 ci-avant auquel ce pari est enregistré.
 
 La fraction de la masse à partager, ou du bénéfice à répartir selon le cas, non distribuée lors des opérations de répartition est alors réservée pour constituer une tirelire qui est dévolue, selon le type de pari et, le cas échéant, le rapport considéré, dans les conditions suivantes :
 

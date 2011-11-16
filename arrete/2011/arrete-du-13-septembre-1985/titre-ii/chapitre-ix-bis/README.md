@@ -1,7 +1,6 @@
 # Chapitre IX bis : Pari Trio Ordre
 
 - [Article 74-1](article-74-1.md)
-- [Article 74-2](article-74-2.md)
 - [Article 74-3](article-74-3.md)
 - [Article 74-4](article-74-4.md)
 - [Article 74-5](article-74-5.md)
