@@ -12,6 +12,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Monthélie " ;
 
-― " Pernand-Vergelesses " ;
-
-― " Pommard ".
+― " Pernand-Vergelesses ".
