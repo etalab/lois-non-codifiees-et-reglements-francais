@@ -1,16 +1,18 @@
 # Article Annexe II
 
-RENSEIGNEMENTS RELATIFS A L'ÉTAT CIVIL
+FIXANT LES RENSEIGNEMENTS RELATIFS
 
-ET AU DROIT DE LA FAMILLE
+À L'ÉTAT CIVIL ET AU DROIT DE LA FAMILLE
 
 I. - Renseignements relatifs à l'état civil
 
-Délivrance des copies ou extraits d'actes de l'état civil
+1° Délivrance des copies ou extraits
+
+d'actes de l'état civil
 
 On peut obtenir des copies ou extraits d'actes de l'état civil en s'adressant à la mairie qui a établi l'acte.
 
-Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant), la demande doit en être adressée au service central d'état civil du ministère des affaires étrangères, 44941 Nantes Cedex 9. Les personnes bénéficiaires du statut de réfugié ou d'apatride peuvent obtenir des certificats tenant lieu d'actes de l'état civil en s'adressant à l'Office français de protection des réfugiés et apatrides, 201, rue Carnot, 94136 Fontenay-sous-Bois Cedex.
+Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant), la demande doit en être adressée au service central d'état civil du ministère des affaires étrangères, BP 23612, 44036 Nantes Cedex 1. Les personnes bénéficiaires du statut de réfugié ou d'apatride peuvent obtenir des certificats tenant lieu d'actes de l'état civil en s'adressant à l'Office français de protection des réfugiés et apatrides, 201, rue Carnot, 94136 Fontenay-sous-Bois Cedex.
 
 Les copies ou extraits sont gratuits. Toutefois, une enveloppe timbrée doit être jointe pour leur envoi.
 
@@ -18,9 +20,9 @@ Les copies intégrales d'acte de naissance sont délivrées à l'intéressé lui
 
 Ces copies consistent en la reproduction fidèle de l'acte avec toutes les mentions.
 
-Les extraits d'acte de naissance avec indication de la filiation sont délivrés aux mêmes personnes et dans les mêmes conditions ainsi qu'aux héritiers de l'intéressé et comportent l'indication des noms, prénoms, dates et lieux de naissance de ses père et mère. Toutefois, les héritiers autres que les ascendants, descendants, frères et soeurs ou conjoint n'ont pas à fournir l'indication des nom et prénom usuel des parents de la personne que l'acte concerne, dès lors qu'ils justifient de leur qualité.
+Les extraits d'acte de naissance avec indication de la filiation sont délivrés aux mêmes personnes et dans les mêmes conditions ainsi qu'aux héritiers de l'intéressé et comportent l'indication des noms, prénoms, dates et lieux de naissance de ses père et mère. Toutefois, les héritiers autres que les ascendants, descendants, frères et sœurs ou conjoint n'ont pas à fournir l'indication des nom et prénom usuel des parents de la personne que l'acte concerne, dès lors qu'ils justifient de leur qualité.
 
-Les extraits délivrés à tout requérant ne comportent que l'année, le jour, l'heure et le lieu de naissance, le sexe, les prénoms et le nom de l'intéressé ainsi qu'éventuellement les mentions de mariage, divorce, séparation de corps et décès.
+Les extraits délivrés à tout requérant ne comportent que l'année, le jour, l'heure et le lieu de naissance, le sexe, les prénoms et le nom de l'intéressé ainsi qu'éventuellement les mentions de mariage, divorce, séparation de corps, pacte civil de solidarité (PACS), dissolution de PACS et décès.
 
 Les copies intégrales d'acte de mariage sont délivrées à l'intéressé lui-même s'il est majeur ou mineur émancipé, à ses ascendants, ses descendants, son conjoint et son représentant légal, sur indication des nom et prénom usuel des parents de l'intéressé.
 
@@ -28,37 +30,37 @@ Les extraits d'acte de mariage sont délivrés à tout requérant et indiquent, 
 
 Les copies intégrales d'actes de reconnaissance sont délivrées à l'intéressé lui-même s'il est majeur ou mineur émancipé, à ses ascendants, ses descendants, son conjoint, son représentant légal et à ses héritiers.
 
-Mention d'un acte d'enfant sans vie
+2° Mention d'un acte d'enfant sans vie
 
 L'indication d'enfant sans vie, avec énonciation des jour, heure et lieu de l'accouchement, peut, à la demande des parents, être apposée par l'officier de l'état civil qui a établi l'acte sur le livret de famille qu'ils détiennent.
 
 Cette indication est possible même si l'acte d'enfant sans vie a été dressé antérieurement à la délivrance du livret de famille.
 
-Mention de la nationalité française
+3° Mention de la nationalité française
 
-Les mentions relatives à la nationalité portées sur l'acte de naissance peuvent figurer sur les extraits d'acte de naissance ou sur le livret de famille, à la demande de l'intéressé.
+Les mentions relatives à la nationalité portées sur l'acte de naissance peuvent figurer sur les extraits d'acte de naissance sans filiation ou sur le livret de famille, à la demande de l'intéressé. Elles figurent obligatoirement sur les extraits d'acte de naissance avec filiation.
 
-Dans cette hypothèse, la mention de perte, de déclination, de déchéance, d'opposition à l'acquisition de la nationalité française, de retrait du décret d'acquisition, de naturalisation ou de réintégration ou de la décision judiciaire ayant constaté l'extranéité de l'intéressé sera portée d'office sur lesdits documents.
+Dans ces hypothèses, la mention de perte, de déclination, de déchéance, d'opposition à l'acquisition de la nationalité française, de retrait du décret d'acquisition, de naturalisation ou de réintégration ou de la décision judiciaire ayant constaté l'extranéité de l'intéressé sera portée d'office sur lesdits documents.
 
-Attribution et acquisition de la nationalité française :
+4° Attribution et acquisition de la nationalité française
 
 La nationalité française peut être conférée dès la naissance ou acquise par la suite.
 
-La nationalité française est transmise de plein droit à la naissance, en France ou à l'étranger, par filiation paternelle ou maternelle. Elle est également attribuée de plein droit dès la naissance à l'enfant qui naît en France d'un parent y étant lui-même né ainsi qu'à l'enfant né en France de parents inconnus, de parents apatrides ou qui ne lui transmettent pas leur nationalité.
+La nationalité française est transmise de plein droit à la naissance, en France ou à l'étranger, par filiation paternelle ou maternelle. Elle est également attribuée de plein droit, dès la naissance, à l'enfant qui naît en France d'un parent y étant lui-même né ainsi qu'à l'enfant né en France de parents inconnus, de parents apatrides ou qui ne lui transmettent pas leur nationalité.
 
 La nationalité française est acquise de plein droit par tout enfant né en France de parents étrangers à sa majorité si, à cette date, il a en France sa résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans depuis l'âge de onze ans. Les enfants mineurs non mariés d'une personne qui acquiert la nationalité française deviennent français de plein droit sous certaines conditions.
 
-La nationalité française peut être réclamée par déclaration par un certain nombre de personnes satisfaisant à des conditions légales, notamment le mineur de treize ans ou plus qui remplit les conditions de résidence ou la personne qui se marie avec un(e) Français(e) ou encore si l'intéressé jouit de la possession d'état de Français depuis dix ans. La déclaration est souscrite en France devant le juge d'instance et à l'étranger devant le consul général de France.
+La nationalité française peut être réclamée par déclaration par un certain nombre de personnes satisfaisant à des conditions légales, notamment le mineur de treize ans ou plus qui remplit les conditions de résidence ou la personne qui se marie avec un(e) Français(e) ou encore si l'intéressé jouit de la possession d'état de Français depuis dix ans. La déclaration est souscrite en France selon les cas devant le représentant de l'Etat dans le département (ou le préfet de police à Paris) ou le greffier en chef du tribunal d'instance et à l'étranger devant l'autorité consulaire.
 
 L'acquisition de la nationalité française par naturalisation, prononcée par décret, est une faveur accordée par l'Etat à l'étranger qui la sollicite. Elle est soumise à des conditions légales et à une appréciation souveraine du ministre chargé des naturalisations.
 
-Preuve de la nationalité française :
+5° Preuve de la nationalité française
 
 En dehors des titres propres à la nationalité française, tels que décret, déclaration enregistrée ou décision juridictionnelle définitive reconnaissant la qualité de Français, le seul mode légal de preuve de la nationalité française est le certificat de nationalité française, délivré par le greffier en chef du tribunal d'instance.
 
 Cette preuve est facilitée par la mention systématique, en marge de l'acte de naissance, des actes administratifs et déclarations ayant trait à la nationalité ainsi que des décisions juridictionnelles et, depuis le 1er septembre 1998, de toute première délivrance de certificat de nationalité française.
 
-Livret de famille et formalités administratives
+6° Livret de famille et formalités administratives
 
 Dans les procédures administratives instruites par les administrations, services et établissements publics de l'Etat ou des collectivités territoriales, ou par les entreprises, caisses et organismes contrôlés par l'Etat, les usagers sont dispensés de produire un extrait de l'acte de mariage des parents, de l'acte de naissance des parents ou des enfants ou la copie de l'acte de décès des parents ou des enfants morts avant leur majorité, dans tous les cas où, pour la justification de leur identité, de leur état civil, de leur situation familiale ou de leur nationalité française, ils présentent l'original ou produisent ou envoient une photocopie lisible du livret de famille régulièrement tenu à jour.
 
@@ -66,7 +68,7 @@ Pour pouvoir remplacer la production d'un certificat de nationalité française 
 
 II. - Renseignements relatifs au droit de la famille
 
-Filiation
+1° Filiation
 
 A l'égard de la mère, la filiation est établie par la seule désignation de son nom dans l'acte de naissance de l'enfant. Elle peut toutefois le reconnaître avant la naissance ou postérieurement, si son nom a été omis dans l'acte de naissance de l'enfant.
 
@@ -80,7 +82,7 @@ Lorsque l'enfant n'a pas été reconnu, le tribunal peut déclarer la paternité
 
 Lorsque l'action en recherche de paternité n'est pas possible ou ne peut prospérer, la mère peut réclamer en justice au père le versement d'une pension alimentaire pendant la minorité de l'enfant, si elle est en mesure de prouver l'existence de relations intimes pendant la période de la conception.
 
-Nom des enfants
+2° Nom des enfants
 
 Les parents peuvent choisir le nom de famille de leur enfant, lorsque sa filiation est établie à leur égard au plus tard le jour de la déclaration de sa naissance (ou par la suite mais simultanément). Ils peuvent alors choisir, soit le nom du père, soit celui de la mère, soit leurs deux noms accolés dans l'ordre choisi par eux dans la limite d'un nom de famille pour chacun d'eux. En l'absence de déclaration conjointe de choix de nom à l'officier de l'état civil, l'enfant prend le nom de celui de ses parents à l'égard duquel sa filiation est établie en premier lieu et le nom de son père si sa filiation est établie simultanément à l'égard des père et mère (c'est le cas lorsque les parents sont mariés).
 
@@ -88,7 +90,7 @@ Si la filiation de l'enfant n'est établie qu'à l'égard d'un parent au jour de
 
 Le nom dévolu au premier enfant vaut pour les autres enfants communs.
 
-Adoption
+3° Adoption
 
 L'adoption peut être demandée par deux époux lorsque le mariage dure depuis plus de deux ans ou lorsque les deux époux ont plus de vingt-huit ans. Un époux peut également adopter l'enfant de son conjoint dans certaines conditions.
 
@@ -98,11 +100,11 @@ L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande
 
 L'enfant adopté plénièrement acquiert le nom de l'adoptant, qui se substitue à son nom d'origine.
 
-En cas d'adoption simple, le nom de l'adopté est ajouté au nom de l'enfant. Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix appartient à l'adoptant qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction du premier nom de l'adoptant au premier nom de l'adopté. L'adoptant peut demander à ce que seul son nom soit porté par l'enfant. Dans ce cas, l'enfant âgé de plus de treize ans doit donner son consentement.
+En cas d'adoption simple, le nom de l'adoptant est ajouté au nom de l'adopté. Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix appartient à l'adoptant qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction du premier nom de l'adoptant au premier nom de l'adopté. L'adoptant peut demander à ce que seul son nom soit porté par l'enfant. Dans ce cas, l'enfant âgé de plus de treize ans doit donner son consentement.
 
 L'adoptant est seul investi de l'autorité parentale, que l'adoption soit simple ou plénière. Toutefois, en cas d'adoption simple de l'enfant du conjoint, ce dernier conserve l'autorité parentale qui est exercée en commun.
 
-Autorité parentale
+4° Autorité parentale
 
 L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant. Elle appartient en commun aux père et mère jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé et sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
 
@@ -110,35 +112,37 @@ Les parents associent l'enfant aux décisions qui le concernent, selon son âge 
 
 L'autorité parentale est exercée en commun par les père et mère. A l'égard des tiers, chacun d'eux peut accomplir seul les actes usuels qui concernent l'enfant.
 
-Toutefois, lorsque la filiation est établie à l'égard de l'un des parents plus d'un an après son premier anniversaire, l'autre parent exerce seul cette autorité. Le parent qui ne bénéficie pas de l'exercice de l'autorité parentale conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant et doit être informé des choix importants relatifs à la vie de l'enfant. Les parents peuvent, afin d'exercer en commun l'autorité parentale, faire une déclaration conjointe devant le greffier en chef du tribunal de grande instance du domicile de l'enfant.
+Toutefois, lorsque la filiation est établie à l'égard de l'un des parents plus d'un an après la naissance de l'enfant, l'autre parent exerce seul cette autorité. Le parent qui ne bénéficie pas de l'exercice de l'autorité parentale conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant et doit être informé des choix importants relatifs à la vie de l'enfant. Les parents peuvent, afin d'exercer en commun l'autorité parentale, faire une déclaration conjointe devant le greffier en chef du tribunal de grande instance du domicile de l'enfant.
 
 En outre, en cas de désaccord, l'un des parents peut saisir le juge aux affaires familiales, afin qu'il statue sur les modalités d'exercice de l'autorité parentale (notamment sur la résidence de l'enfant). Le cas échéant, il peut décider d'un exercice conjoint, ou si l'intérêt de l'enfant le commande, confier l'exercice de l'autorité parentale à l'un des parents.
 
-Contribution à l'entretien et à l'éducation de l'enfant
+5° Contribution à l'entretien
 
-Chacun des parents contribue à l'entretien et à l'éducation de l'enfant à proportion de ses ressources, de celles de l'autre parent, ainsi que des besoins de l'enfant. Cette obligation ne cesse pas de plein droit lorsque l'enfant est majeur.
+et à l'éducation de l'enfant
+
+Chacun des parents contribue à l'entretien et à l'éducation de l'enfant à proportion de ses ressources, de celles de l'autre parent ainsi que des besoins de l'enfant. Cette obligation ne cesse pas de plein droit lorsque l'enfant est majeur.
 
 Une fois que cette contribution a pris fin, les parents doivent des aliments à leurs enfants, si ceux-ci sont dans le besoin. Cette obligation est réciproque.
 
-Droits successoraux de l'enfant
+6° Droits successoraux de l'enfant
 
 L'enfant succède à sa mère ou à son père prédécédé. Il partage la succession avec les autres enfants du défunt et le conjoint survivant. A défaut de leur présence, l'enfant recueille l'entière succession.
 
 Le père ou la mère peut aménager les droits successoraux de l'enfant par testament. Toutefois, en toute hypothèse, une partie de la succession lui est réservée.
 
-INFORMATIONS SPÉCIFIQUES AUX ÉPOUX
+III. - Informations spécifiques aux époux
 
-Nom des époux
+1° Nom des époux
 
-Le mariage est sans effet sur le nom des époux, qui continuent chacun d'avoir pour seul nom officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux peut utiliser dans la vie courante, s'il le désire, le nom de son conjoint, en l'ajoutant à son propre nom ou même, pour la femme, en le substituant au sien.
+Le mariage est sans effet sur le nom des époux, qui continuent chacun d'avoir pour seul nom officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux bénéficie de l'usage, s'il le désire, du nom de son conjoint, en l'ajoutant ou en le substituant à son propre nom.
 
-Logement des époux
+2° Logement des époux
 
 Les époux sont cotitulaires du bail qui sert exclusivement à leur habitation, même s'il a été conclu par l'un seulement d'entre eux avant le mariage.
 
 Les époux ne peuvent l'un sans l'autre disposer des droits par lesquels est assuré le logement de la famille (notamment par vente ou résiliation du bail) ni des meubles meublants dont il est garni.
 
-Droits et devoirs respectifs des époux
+3° Droits et devoirs respectifs des époux
 
 Les époux se doivent mutuellement respect, fidélité, secours, assistance et s'obligent à une communauté de vie.
 
@@ -148,7 +152,7 @@ Les époux contribuent aux charges du mariage à proportion de leurs facultés r
 
 Toutefois, un aménagement de cette contribution peut être prévu par contrat de mariage.
 
-Chacun des époux peut passer seul les contrats qui ont pour objet l'entretien du ménage ou l'éducation des enfants. Les dettes ainsi contractées engagent les deux époux, sauf lorsqu'elles sont manifestement excessives.
+Chacun des époux peut passer seul les contrats qui ont pour objet l'entretien du ménage ou l'éducation des enfants. Les dettes ainsi contractées engagent les deux époux, sauf lorsqu'elles sont manifestement excessives ou qu'elles sont issues d'un emprunt conclu sans l'accord de l'autre époux.
 
 Chaque époux peut librement exercer une profession, percevoir ses gains et salaires et en disposer après s'être acquitté des charges du mariage.
 
@@ -156,25 +160,25 @@ Chacun des époux peut se faire ouvrir tout compte de dépôt (notamment compte 
 
 Si l'un des époux se trouve hors d'état de manifester sa volonté ou s'il met en péril les intérêts de la famille, l'autre époux peut faire prendre en justice toutes mesures nécessaires ou même se faire transférer l'administration des biens normalement gérés par son conjoint.
 
-Obligations alimentaires
+4° Obligations alimentaires
 
 Les gendres et belles-filles doivent des aliments à leur beau-père et belle-mère. Cette obligation cesse lorsque celui des époux qui produisait l'affinité et les enfants issus de son union avec l'autre époux sont décédés. Réciproquement, les beaux-pères et belles-mères sont tenus de cette obligation envers leur gendre et belle-fille.
 
-Fiscalité entre époux
+5° Fiscalité entre époux
 
 Les époux sont soumis à une imposition commune pour les revenus perçus par chacun d'eux.
 
 Chacun des époux est tenu solidairement avec son conjoint du paiement de l'impôt sur le revenu et de la taxe d'habitation.
 
-Régime matrimonial
+6° Régime matrimonial
 
 Les époux peuvent choisir librement leur régime matrimonial en établissant un contrat de mariage devant notaire.
 
 A défaut de contrat, les époux sont soumis automatiquement au régime légal de la communauté.
 
-Lorsque l'un des conjoints est de nationalité étrangère ou a son domicile à l'étranger, les époux peuvent choisir au moment du mariage, ou au cours de l'union, la loi applicable à leur régime matrimonial. Cette loi est celle de l'Etat dont l'un des époux a la nationalité ou celle de l'Etat sur le territoire duquel l'un des époux a ou aura sa résidence habituelle après le mariage. A défaut de cette désignation, le régime matrimonial est soumis à la loi interne de l'Etat sur le territoire duquel les époux établissent leur première résidence habituelle après le mariage, sous réserve de certaines exceptions, notamment en cas de nationalité commune des époux.
+Lorsque l'un des conjoints est de nationalité étrangère ou a son domicile à l'étranger, les époux peuvent choisir au moment du mariage ou au cours de l'union la loi applicable à leur régime matrimonial. Cette loi est celle de l'Etat dont l'un des époux a la nationalité ou celle de l'Etat sur le territoire duquel l'un des époux a ou aura sa résidence habituelle après le mariage. A défaut de cette désignation, le régime matrimonial est soumis à la loi interne de l'Etat sur le territoire duquel les époux établissent leur première résidence habituelle après le mariage, sous réserve de certaines exceptions, notamment en cas de nationalité commune des époux.
 
-Régime légal de la communauté :
+a) Régime légal de la communauté :
 
 Les biens acquis par les époux et les revenus sont communs.
 
@@ -186,13 +190,13 @@ Les actes de dispositions sur les biens communs peuvent être passés par chacun
 
 Chaque époux administre et dispose librement de ses biens propres.
 
-La communauté est tenue du paiement des dettes contractées par un époux au cours du mariage.
+La communauté est tenue au paiement des dettes contractées par un époux au cours du mariage.
 
-Régimes conventionnels de communauté :
+b) Régimes conventionnels de communauté :
 
 Le régime légal de la communauté peut être aménagé par contrat de mariage. Notamment, les époux peuvent prévoir une communauté universelle qui regroupe l'ensemble de leurs biens présents et à venir ou encore prévoir qu'en cas de décès de l'un deux, il sera attribué au survivant une part inférieure ou supérieure à la moitié de la communauté ou même la totalité des biens communs.
 
-Régime de la séparation de biens :
+c) Régime de la séparation de biens :
 
 Les biens acquis par chaque époux et les revenus qu'ils perçoivent pendant le mariage leur demeurent personnels. Cependant, les époux peuvent effectuer des achats en indivision.
 
@@ -200,7 +204,7 @@ Les biens sur lesquels aucun des époux ne peut justifier d'une propriété excl
 
 Les dettes contractées par un époux n'engagent pas son conjoint, à l'exception de celles qui ont pour objet l'entretien du ménage ou l'éducation des enfants.
 
-Régime de la participation aux acquêts :
+d) Régime de la participation aux acquêts :
 
 Pendant le mariage, le régime fonctionne comme si les époux étaient mariés sous le régime de la séparation de biens.
 
@@ -208,13 +212,13 @@ Au moment de la dissolution du mariage, les biens qui ont été acquis pendant l
 
 Les dettes contractées par un époux n'engagent pas son conjoint, à l'exception de celles qui ont pour objet l'entretien du ménage ou l'éducation des enfants.
 
-Changement de régime matrimonial :
+e) Changement de régime matrimonial :
 
-Quel que soit le régime matrimonial choisi au moment du mariage, les époux peuvent au bout de deux ans, dans l'intérêt de la famille, décider de le modifier ou d'en changer. Un acte notarié, soumis à l'homologation du tribunal, doit être établi à cet effet.
+Quel que soit le régime matrimonial choisi au moment du mariage, les époux peuvent au bout de deux ans, dans l'intérêt de la famille, décider de le modifier ou d'en changer. Un acte notarié, soumis dans certains cas à l'homologation du tribunal, doit être établi à cet effet.
 
-Droits du conjoint survivant
+7° Droits du conjoint survivant
 
-Le conjoint hérite en pleine propriété d'une partie de la succession quels que soient les membres de la famille laissés par le défunt, sous réserve des actes de disposition à titre gratuit (donation ou testament) consentis par l'époux prédécédé à d'autres personnes. En présence d'enfants ou de descendants, le conjoint hérite d'un quart en propriété. Lorsque les enfants sont issus des deux époux, le conjoint peut choisir de recevoir l'usufruit de la totalité des biens existants, plutôt qu'un quart en propriété. Dans ce dernier cas, une conversion en rente viagère de l'usufruit peut être demandée par l'un des héritiers nus-propriétaires ou par le conjoint lui-même. En présence des père et mère du défunt, le conjoint reçoit la moitié en propriété. En cas de prédécès du père ou de la mère, le conjoint hérite des trois quarts. A défaut d'enfants, de descendants et des père et mère, le conjoint survivant hérite de l'entière succession.
+Le conjoint hérite en pleine propriété d'une partie de la succession quels que soient les membres de la famille laissés par le défunt, sous réserve des actes de disposition à titre gratuit (donation ou testament) consentis par l'époux prédécédé à d'autres personnes. En présence d'enfants ou de descendants, le conjoint hérite d'un quart en propriété. Lorsque les enfants sont issus des deux époux, le conjoint peut choisir de recevoir l'usufruit de la totalité des biens existants plutôt qu'un quart en propriété. Dans ce dernier cas, une conversion en rente viagère de l'usufruit peut être demandée par l'un des héritiers nus-propriétaires ou par le conjoint lui-même. En présence des père et mère du défunt, le conjoint reçoit la moitié en propriété. En cas de prédécès du père ou de la mère, le conjoint hérite des trois quarts. A défaut d'enfant, de descendant et des père et mère, le conjoint survivant hérite de l'entière succession.
 
 Au décès de l'un des époux, le conjoint survivant peut rester dans son logement pendant un an. Lorsque le logement appartient aux époux ou dépend de la succession, il s'agit d'une jouissance gratuite. Lorsque le logement est assuré en vertu d'un contrat de bail, la succession doit rembourser les loyers au conjoint survivant. Au cours de ce délai d'un an, le conjoint peut demander à bénéficier de droits viagers d'habitation sur le logement et d'usage sur le mobilier.
 
@@ -226,6 +230,6 @@ En cas de partage, le conjoint survivant bénéficie d'une attribution préfére
 
 Les droits du conjoint survivant peuvent être aménagés par contrat de mariage, donation ou testament. Toutefois, en toute hypothèse, lorsque le défunt ne laisse que des parents éloignés, un quart de la succession est réservé au conjoint survivant.
 
-Hypothèque légale des époux
+8° Hypothèque légale des époux
 
 Si pendant le mariage il y a lieu de transférer d'un époux à l'autre l'administration de certains biens ou si l'un d'eux introduit une demande en justice pour faire constater une créance contre son conjoint ou les héritiers de celui-ci, une inscription d'hypothèque peut être prise au profit de l'époux qui a été dessaisi de ses pouvoirs ou qui a introduit la demande sur les immeubles de son conjoint.
