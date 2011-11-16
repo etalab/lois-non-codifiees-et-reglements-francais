@@ -8,6 +8,8 @@ Diphtérie ;
 
 Grippe ;
 
+Hépatite A ;
+
 Hépatite B ;
 
 Infections à Haemophilus influenzae B ;
