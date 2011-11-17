@@ -4,8 +4,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 - Mâcon ;
 
-- Montagny ;
-
 - Pouilly-Fuissé ;
 
 - Rully .
