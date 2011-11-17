@@ -2343,6 +2343,7 @@
 - [Arrêté du 28 octobre 1994 (EQUP9401701A)](arrete-du-28-octobre-1994-equp9401701a)
 - [Arrêté du 28 octobre 2010 (DEVA1025603A)](arrete-du-28-octobre-2010-deva1025603a)
 - [Arrêté du 28 octobre 2011 (BCRE1129821A)](arrete-du-28-octobre-2011-bcre1129821a)
+- [Arrêté du 28 octobre 2011 (DEFD1129622A)](arrete-du-28-octobre-2011-defd1129622a)
 - [Arrêté du 28 octobre 2011 (DEVA1124717A)](arrete-du-28-octobre-2011-deva1124717a)
 - [Arrêté du 28 octobre 2011 (DEVK1128584A)](arrete-du-28-octobre-2011-devk1128584a)
 - [Arrêté du 28 octobre 2011 (DEVK1128861A)](arrete-du-28-octobre-2011-devk1128861a)
