@@ -4,6 +4,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 "Bordeaux" ;
 
-"Muscadet" ;
-
-"Muscadet Coteaux de la Loire" ;
+"Muscadet".
