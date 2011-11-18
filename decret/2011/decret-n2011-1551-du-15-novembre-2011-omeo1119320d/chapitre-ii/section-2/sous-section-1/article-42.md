@@ -1,0 +1,5 @@
+# Article 42
+
+Si, avant l'expiration de son mandat, l'un des représentants du personnel, membre titulaire ou suppléant de la commission, démissionne, se trouve dans l'impossibilité d'exercer ses fonctions, est frappé d'une des causes d'inéligibilité prévue au second alinéa de l'article 47 du présent décret, constatée par le haut-commissaire de la République en Polynésie française, ou perd, sauf dans le cas mentionné au dernier alinéa, la qualité d'électeur à la commission administrative paritaire concernée, il est remplacé par son suppléant jusqu'au renouvellement de la commission dans les conditions fixées par arrêté du haut-commissaire de la République en Polynésie française.
+
+Lorsqu'un représentant du personnel, membre titulaire ou suppléant de la commission, bénéficie d'un avancement, d'une promotion interne ou d'une intégration dans un grade classé dans un cadre d'emplois supérieur ou dans une catégorie supérieure, il continue à représenter le groupe dont il relevait précédemment.
