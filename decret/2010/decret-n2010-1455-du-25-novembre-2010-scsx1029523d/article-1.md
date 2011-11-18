@@ -10,6 +10,4 @@ A ce titre :
 
 2° Il prépare et met en œuvre les règles relatives aux régimes et à la gestion administrative des organismes de sécurité sociale en matière de prestations familiales ;
 
-3° Il élabore et met en œuvre des programmes de lutte contre la pauvreté. Il participe, en lien avec les ministres intéressés, à l'action du Gouvernement en matière de minima sociaux, d'insertion économique et sociale, d'innovation sociale et d'économie sociale. Il veille à la mise en œuvre du revenu de solidarité active et en assure le suivi. Il prépare les travaux du comité interministériel de lutte contre les exclusions et du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale et il organise les travaux du Conseil national de l'insertion par l'activité économique ;
-
-4° Il est chargé des questions relatives aux rapatriés.
+3° Il élabore et met en œuvre des programmes de lutte contre la pauvreté. Il participe, en lien avec les ministres intéressés, à l'action du Gouvernement en matière de minima sociaux, d'insertion économique et sociale, d'innovation sociale et d'économie sociale. Il veille à la mise en œuvre du revenu de solidarité active et en assure le suivi. Il prépare les travaux du comité interministériel de lutte contre les exclusions et du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale et il organise les travaux du Conseil national de l'insertion par l'activité économique.
