@@ -1,8 +1,0 @@
-# Annexe
-
-- [Article AOC " Chambolle-Musigny "](article-aoc-chambolle-musigny.md)
-- [Article AOC " Clos de Tart."](article-aoc-clos-de-tart.md)
-- [Article AOC " Saint-Aubin "](article-aoc-saint-aubin.md)
-- [Article AOC " Saint-Bris "](article-aoc-saint-bris.md)
-- [Article AOC " Saint-Véran "](article-aoc-saint-veran.md)
-- [Article AOC "Viré-Clessé "](article-aoc-vire-clesse.md)

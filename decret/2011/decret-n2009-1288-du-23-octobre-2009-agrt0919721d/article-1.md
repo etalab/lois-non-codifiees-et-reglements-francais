@@ -8,8 +8,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Bonnes-Mares ", " Clos de Tart " ;
 
-― " Chambolle-Musigny " ;
-
 ― " Saint-Aubin " ;
 
 ― " Saint-Bris ".
