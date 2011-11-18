@@ -11,14 +11,19 @@
 </th>
 </tr>
 <tr>
+<td>
+<p>Université D'Aix-Marseille</p>
+</td>
+<td rowspan="16">
+<p align="center">1er janvier 2012 </p>
+<p>
+<br/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Université Grenoble-III</p>
-</td>
-<td align="center" rowspan="15" valign="middle">1er janvier 2012<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
