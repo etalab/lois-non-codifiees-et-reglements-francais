@@ -8,6 +8,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Faugères " ;
 
-― " Minervois " ;
-
-― " Minervois-La Livinière " ;
+― " Minervois-La Livinière ".
