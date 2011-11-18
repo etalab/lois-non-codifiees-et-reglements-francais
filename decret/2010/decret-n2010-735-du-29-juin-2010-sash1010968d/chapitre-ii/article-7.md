@@ -2,7 +2,9 @@
 
 I. ― Au cours de la dernière année de leurs études, les internes ayant signé un contrat d'engagement de service public optent pour leur futur lieu d'exercice au sein de la liste mentionnée à l'article 6 par lettre recommandée avec accusé de réception au directeur général du centre national de gestion, au directeur général de l'agence régionale de santé et à l'employeur éventuel. En exprimant un ordre préférentiel, ils peuvent se porter candidats simultanément à cinq lieux d'exercice.
 
-II. ― Par dérogation aux dispositions du précédent alinéa, les internes qui bénéficient d'un report de l'installation ou de la prise de fonctions tel que mentionné au III de l'article 11 du présent décret choisissent leur futur lieu d'exercice au cours de la dernière année de cette période de report.
+Les internes qui en expriment le souhait auprès du directeur général de l'agence régionale de santé dont ils relèvent bénéficient, à projet professionnel présentant un intérêt égal, d'une priorité de choix de leur lieu d'exercice dans ladite région.
+
+II. ― Par dérogation aux dispositions du premier alinéa du I du présent article, les internes qui bénéficient d'un report de l'installation ou de la prise de fonctions tel que mentionné au III de l'article 11 du présent décret choisissent leur futur lieu d'exercice au cours de la dernière année de cette période de report.
 
 III. ― En cas d'exercice salarié, l'employeur est l'autorité compétente en matière de recrutement.
 

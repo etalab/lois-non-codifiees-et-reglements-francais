@@ -6,6 +6,8 @@ L'étudiant ou l'interne dispose d'un délai de trente jours calendaires pour fa
 
 A défaut, le directeur général du centre national de gestion adresse une proposition de contrat à l'étudiant ou à l'interne le mieux classé sur la liste principale ou complémentaire concernée.
 
+Lorsque l'une des listes complémentaires est épuisée, le directeur général du Centre national de gestion propose des contrats aux personnes inscrites sur l'autre liste.
+
 II. ― Le contrat d'engagement de service public stipule :
 
 1° L'engagement du signataire à consacrer la totalité de son exercice professionnel, à compter de la fin de sa formation et pour une durée égale à celle pendant laquelle lui aura été versée l'allocation mensuelle mentionnée au second alinéa de l'article L. 632-6 du code de l'éducation et au chapitre III du présent décret, dans un ou plusieurs lieux d'exercice tels que mentionnés au quatrième alinéa de l'article L. 632-6 du code de l'éducation et au chapitre II du présent décret ;
