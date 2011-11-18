@@ -210,7 +210,6 @@
 - [Décret n°2011-829 du 11 juillet 2011 (DEVR1113798D)](decret-n2011-829-du-11-juillet-2011-devr1113798d)
 - [Décret n°2012-871 du 11 juillet 2012 (MENF1221119D)](decret-n2012-871-du-11-juillet-2012-menf1221119d)
 - [Décret n°2001-848 du 12 septembre 2001 (MENF0101771D)](decret-n2001-848-du-12-septembre-2001-menf0101771d)
-- [Décret n°2009-1227 du 12 octobre 2009 (AGRT0916823D)](decret-n2009-1227-du-12-octobre-2009-agrt0916823d)
 - [Décret n°2010-1372 du 12 novembre 2010 (ECEP1003124D)](decret-n2010-1372-du-12-novembre-2010-ecep1003124d)
 - [Décret n°2011-1101 du 12 septembre 2011 (MENF1120314D)](decret-n2011-1101-du-12-septembre-2011-menf1120314d)
 - [Décret n°2011-1102 du 12 septembre 2011 (MENF1120325D)](decret-n2011-1102-du-12-septembre-2011-menf1120325d)
