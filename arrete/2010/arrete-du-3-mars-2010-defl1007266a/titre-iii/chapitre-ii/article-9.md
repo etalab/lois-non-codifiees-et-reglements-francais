@@ -2,7 +2,7 @@
 
 I. ― Le recrutement en vue de servir en tant que sous-officier est ouvert aux militaires du rang engagés qui remplissent les conditions suivantes :
 
-1° Se situer dans la quatrième ou cinquième année à compter de la date de prise d'effet du contrat d'engagement initial ;
+1° Se situer dans la troisième, quatrième ou cinquième année à compter de la date de prise d'effet du contrat d'engagement initial ;
 
 2° Etre titulaire du certificat d'aptitude à l'emploi de technicien ou de musicien.
 
