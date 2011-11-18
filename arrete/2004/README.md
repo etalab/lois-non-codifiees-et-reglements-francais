@@ -711,7 +711,6 @@
 - [Arrêté du 26 novembre 2004 (FPPA0400145A)](arrete-du-26-novembre-2004-fppa0400145a)
 - [Arrêté du 26 novembre 2004 (INTC0400874A)](arrete-du-26-novembre-2004-intc0400874a)
 - [Arrêté du 26 novembre 2004 (SANG0423073A)](arrete-du-26-novembre-2004-sang0423073a)
-- [Arrêté du 26 novembre 2004 (SANH0424066A)](arrete-du-26-novembre-2004-sanh0424066a)
 - [Arrêté du 26 octobre 2004 (DEVN0430359A)](arrete-du-26-octobre-2004-devn0430359a)
 - [Arrêté du 26 mai 2004 (ECOP0400135A)](arrete-du-26-mai-2004-ecop0400135a)
 - [Arrêté du 26 mai 2004 (INDI0403051A)](arrete-du-26-mai-2004-indi0403051a)
