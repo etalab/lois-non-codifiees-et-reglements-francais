@@ -1,9 +1,5 @@
 # Article 1
 
-Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
+Est homologué le cahier des charges annexé au présent décret de l'appellation d'origine contrôlée suivante :
 
-― " Charlemagne " ;
-
-― " Côte de Beaune-Villages " ;
-
-- "Vosne-Romanée".
+― " Charlemagne ".
