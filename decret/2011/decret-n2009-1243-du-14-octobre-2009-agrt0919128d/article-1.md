@@ -2,6 +2,4 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Ventoux " ;
-
 ― " Pacherenc du Vic-Bilh ".
