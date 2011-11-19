@@ -13,3 +13,5 @@ A ce titre :
 - elle coordonne, en liaison avec le bureau de la communication, les actions de communication spécifiques de la direction ;
 
 - en liaison avec la sous-direction de la vie fédérale et du sport de haut niveau, elle suit les travaux de la commission spécialisée de terminologie et de néologie.
+
+- elle participe à la programmation des études statistiques et des projets informatiques.
