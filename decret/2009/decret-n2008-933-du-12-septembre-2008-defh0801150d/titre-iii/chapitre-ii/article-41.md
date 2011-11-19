@@ -6,4 +6,4 @@ Lorsque le dernier semestre de formation validé a débuté au cours d'une anné
 
 La reconnaissance du niveau de qualification de responsable de spécialité ouvre droit à une bonification de temps d'échelon d'un an.
 
-Les médecins, pharmaciens, vétérinaires et chirurgiens-dentistes chefs des services sont classés au 10e échelon de leur classe lorsqu'ils totalisent trente ans de service.
+Les médecins, pharmaciens, vétérinaires et chirurgiens-dentistes chefs des services sont classés au 2e échelon de leur classe lorsqu'ils totalisent trente ans de service.

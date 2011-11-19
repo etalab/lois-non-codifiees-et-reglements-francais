@@ -149,7 +149,7 @@ A la date du 1er janvier 2009, les praticiens des armées sont reclassés, avec 
 <p align="center">2e échelon exceptionnel</p>
 </td>
 <td>
-<p align="center">2e échelon exceptionnel</p>
+<p align="center"> échelon exceptionnel</p>
 </td>
 <td>
 <p align="center">Ancienneté acquise</p>
@@ -160,7 +160,7 @@ A la date du 1er janvier 2009, les praticiens des armées sont reclassés, avec 
 <p align="center">1er échelon exceptionnel</p>
 </td>
 <td>
-<p align="center">1er échelon exceptionnel</p>
+<p align="center">6ème échelon</p>
 </td>
 <td>
 <p align="center">Ancienneté acquise</p>
@@ -333,7 +333,5 @@ A la date du 1er janvier 2009, les praticiens des armées sont reclassés, avec 
 </tr>
 </tbody>
 </table>
-<br/>
-<br/>
 
 </div>

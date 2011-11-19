@@ -12,8 +12,8 @@ Les médecins des armées occupent les emplois de direction générale du servic
 
 Les pharmaciens des armées assurent la conception, la direction, la mise en œuvre, l'évaluation et l'inspection des activités relatives à l'exercice de la pharmacie.
 
-Les vétérinaires des armées assurent la conception, la direction, la mise en œuvre, l'évaluation et l'inspection des activités relatives, d'une part, au contrôle de la qualité et de l'hygiène des denrées alimentaires et, d'autre part, au suivi sanitaire des animaux.
+Les vétérinaires des armées assurent la conception, la direction, la mise en œuvre, l'évaluation et l'inspection en matière de médecine vétérinaire et de santé publique vétérinaire, conformément à l'article L. 231-1 du code rural.
 
 Les chirurgiens-dentistes des armées assurent la conception, la direction, la mise en œuvre, l'évaluation et l'inspection des activités relatives à l'hygiène et aux soins bucco-dentaires.
 
-Les pharmaciens, vétérinaires et chirurgiens-dentistes des armées participent, dans les emplois correspondant à leur spécialité, aux missions définies aux troisième, quatrième et cinquième alinéas.
+Les pharmaciens, vétérinaires et chirurgiens-dentistes des armées remplissent, dans les emplois correspondant à leur spécialité, les missions définies aux troisième, quatrième et cinquième alinéas.
