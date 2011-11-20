@@ -62,22 +62,39 @@ Ces commissions sont composées comme suit :
 <table>
 <tbody>
 <tr>
-<th colspan="5">NOMBRE DE REPRÉSENTANTS <br/>
+<th>
+<br/>COMMISSION ADMINISTRATIVE PARITAIRE <p>compétente à l'égard du corps des professeurs </p>
+<p>d'enseignement technique des instituts nationaux </p>
+<p>de jeunes sourds et de l'Institut national </p>
+<p>des jeunes aveugles <br/>
+</p>
+</th>
+<th colspan="4">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
 </th>
 </tr>
 <tr>
-<th>
-<br/>GRADE <br/>
-</th>
+<th/>
 <th colspan="2">
 <br/>Du personnel <br/>
 </th>
 <th colspan="2">
-<br/>De l'administration <p>Titulaires </p>
-<p>Suppléants </p>
-<p>Titulaires </p>
-<p>Suppléants <br/>
-</p>
+<br/>De l'administration <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
 </th>
 </tr>
 <tr>
@@ -102,16 +119,16 @@ Ces commissions sont composées comme suit :
 <br/>Professeurs d'enseignement technique de classe normale <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>2<br/>
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
