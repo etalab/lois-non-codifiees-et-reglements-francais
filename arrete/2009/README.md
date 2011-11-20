@@ -1182,7 +1182,6 @@
 - [Arrêté du 15 octobre 2009 (JUSA0922317A)](arrete-du-15-octobre-2009-jusa0922317a)
 - [Arrêté du 15 octobre 2009 (JUSK0924320A)](arrete-du-15-octobre-2009-jusk0924320a)
 - [Arrêté du 15 octobre 2009 (MEND0916744A)](arrete-du-15-octobre-2009-mend0916744a)
-- [Arrêté du 15 octobre 2009 (SASP0924157A)](arrete-du-15-octobre-2009-sasp0924157a)
 - [Arrêté du 15 septembre 2009 (DEVE0918467A)](arrete-du-15-septembre-2009-deve0918467a)
 - [Arrêté du 15 septembre 2009 (DEVN0920833A)](arrete-du-15-septembre-2009-devn0920833a)
 - [Arrêté du 15 septembre 2009 (DEVN0920889A)](arrete-du-15-septembre-2009-devn0920889a)

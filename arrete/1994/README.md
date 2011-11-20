@@ -216,7 +216,6 @@
 - [Arrêté du 7 novembre 1994 (MAEF9410042A)](arrete-du-7-novembre-1994-maef9410042a)
 - [Arrêté du 7 novembre 1994 (MENA9401822A)](arrete-du-7-novembre-1994-mena9401822a)
 - [Arrêté du 7 novembre 1994 (RESK9401602A)](arrete-du-7-novembre-1994-resk9401602a)
-- [Arrêté du 7 novembre 1994 (SPSN9402965A)](arrete-du-7-novembre-1994-spsn9402965a)
 - [Arrêté du 7 octobre 1994 (ECOT9410221A)](arrete-du-7-octobre-1994-ecot9410221a)
 - [Arrêté du 7 octobre 1994 (INDP9401138A)](arrete-du-7-octobre-1994-indp9401138a)
 - [Arrêté du 7 septembre 1994 (DEFP9401655A)](arrete-du-7-septembre-1994-defp9401655a)
