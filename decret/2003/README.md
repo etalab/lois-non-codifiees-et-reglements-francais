@@ -403,7 +403,6 @@
 - [Décret n°2003-792 du 22 août 2003 (EQUP0300577D)](decret-n2003-792-du-22-aout-2003-equp0300577d)
 - [Décret n°2003-911 du 22 septembre 2003 (SOCF0311277D)](decret-n2003-911-du-22-septembre-2003-socf0311277d)
 - [Décret n°2003-920 du 22 septembre 2003 (EQUK0301036D)](decret-n2003-920-du-22-septembre-2003-equk0301036d)
-- [Décret du 23 juillet 2003 (AGRP0300859D)](decret-du-23-juillet-2003-agrp0300859d)
 - [Décret du 23 septembre 2003 (AGRP0300957D)](decret-du-23-septembre-2003-agrp0300957d)
 - [Décret n°2002-1514 du 23 décembre 2002 (MCCB0200831D)](decret-n2002-1514-du-23-decembre-2002-mccb0200831d)
 - [Décret n°2002-1515 du 23 décembre 2002 (MCCB0200832D)](decret-n2002-1515-du-23-decembre-2002-mccb0200832d)
