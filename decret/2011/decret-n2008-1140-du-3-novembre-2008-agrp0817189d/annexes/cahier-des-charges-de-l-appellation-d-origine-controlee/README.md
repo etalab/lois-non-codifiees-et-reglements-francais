@@ -1,3 +1,0 @@
-# CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE « BORDEAUX »
-
-- [Article ](article-.md)

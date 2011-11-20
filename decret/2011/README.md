@@ -10,7 +10,6 @@
 - [Décret n°2011-1425 du 2 novembre 2011 (PRMX1118649D)](decret-n2011-1425-du-2-novembre-2011-prmx1118649d)
 - [Décret n°2011-1426 du 2 novembre 2011 (DEVX1129293D)](decret-n2011-1426-du-2-novembre-2011-devx1129293d)
 - [Décret n°2011-1427 du 2 novembre 2011 (ETSD1123446D)](decret-n2011-1427-du-2-novembre-2011-etsd1123446d)
-- [Décret n°2008-1140 du 3 novembre 2008 (AGRP0817189D)](decret-n2008-1140-du-3-novembre-2008-agrp0817189d)
 - [Décret n°2011-1231 du 3 octobre 2011 (IOCC1116305D)](decret-n2011-1231-du-3-octobre-2011-iocc1116305d)
 - [Décret n°2011-1232 du 3 octobre 2011 (EFIE1108416D)](decret-n2011-1232-du-3-octobre-2011-efie1108416d)
 - [Décret n°2011-1429 du 3 novembre 2011 (DEFH1117421D)](decret-n2011-1429-du-3-novembre-2011-defh1117421d)
