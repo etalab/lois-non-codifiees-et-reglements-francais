@@ -2,4 +2,4 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― " Petit Chablis ", " Chablis " et " Chablis grand cru ".
+― " Petit Chablis "et " Chablis ".
