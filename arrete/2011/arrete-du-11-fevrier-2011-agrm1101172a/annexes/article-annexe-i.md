@@ -5,310 +5,346 @@ Quotas en tonnes
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-<br/>NUMÉRO <br/>
-<br/>du navire <br/>
-</th>
-<th>
-<br/>
-<br/>NOM DU NAVIRE <br/>
-</th>
-<th>
-<br/>
-<br/>QUOTA 2011 <br/>
-<br/>en mer Méditerranée <br/>
-</th>
-<th>
-<br/>QUOTA 2011 <br/>
-<br/>en océan Atlantique <br/>
-<br/>à l'est de <br/>
-<br/>la longitude 45° Ouest <br/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="6" valign="top">
-<p align="left">OP SATHOAN<br/>
-</p>
+<td>
 <br/>
 </td>
-<td align="center">
-<p align="center">900265</p>
+<td>
+<p align="center">NUMÉRO<br/>du navire</p>
 </td>
-<td align="center">
-<p align="left">
-<br/>Jean Marie Christian 6 </p>
+<td>
+<p align="center">NOM DU NAVIRE</p>
 </td>
-<td align="center">
-<br/>99,9 <br/>
+<td>
+<p align="center">QUOTA 2011<br/>en mer Méditerranée</p>
 </td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>900270 <br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Jean Marie Christian 7 </p>
-</td>
-<td align="center">
-<br/>99,9 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">QUOTA 2011<br/>en océan Atlantique<br/>à l'est de<br/>la longitude 45° Ouest </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>923752 <br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Saint Sophie François 3 </p>
-</td>
-<td align="center">
-<br/>63,6 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>925310 <br/>
-</td>
-<td align="center">
-<p align="left">
-<br/>Janvier Louis Raphaël </p>
-</td>
-<td align="center">
-<br/>121,2 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<p align="left">
-<br/>Palangriers hauturiers</p>
-</td>
-<td align="center">
-<br/>20,2 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<p align="left">Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"</p>
-</td>
-<td align="center">
-<br/>29,7 (1) <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td align="center" colspan="2">
-<p align="left">Total SATHOAN</p>
-</td>
-<td align="center">
-<br/>434,5 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="5" valign="top">
-<p align="left">Groupement de navires STM</p>
-</td>
-<td align="center">
-<br/>900236 <br/>
-</td>
-<td align="center">
-<br/>Gérard Luc IV <br/>
-</td>
-<td align="center">
-<br/>54,7 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>916469 <br/>
-</td>
-<td align="center">
-<br/>Gérald Jean IV <br/>
-</td>
-<td align="center">
-<br/>51,7 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>923751 <br/>
-</td>
-<td align="center">
-<br/>Cisberlande V <br/>
-</td>
-<td align="center">
-<br/>69,4 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>924860 <br/>
-</td>
-<td align="center">
-<br/>Eric Marin <br/>
-</td>
-<td align="center">
-<br/>68,0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>733526 <br/>
-</td>
-<td align="center">
-<br/>La rose des vents <br/>
-</td>
-<td align="center">
-<br/>0,6 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td rowspan="6" valign="top">
+<p>OP SA. THO. AN </p>
 <br/>
 </td>
-<td align="center" colspan="2">
-<p align="left">Total STM   </p>
+<td valign="top">
+<p align="center">
+<br/>900265 </p>
 </td>
-<td align="center">
-<br/>244,4 <br/>
+<td valign="top">
+<p align="center">
+<br/>Jean Marie Christian 6</p>
 </td>
-<td align="center">
-<br/>0 <br/>
+<td valign="top">
+<p align="center">
+<br/>99,9 </p>
 </td>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">OP PRO. QUA. PORT </p>
-<br/>
-<br/>
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>863686 <br/>
-</td>
-<td align="center">
-<br/>Chrisderic II <br/>
-</td>
-<td align="center">
-<br/>49,7 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td valign="top">
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-<p align="left">
-<br/>Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" </p>
+<td>
+<p align="center">
+<br/>900270 </p>
 </td>
-<td align="center">
-<br/>17,2 (2) <br/>
+<td>
+<p align="center">
+<br/>Jean Marie Christian 7</p>
 </td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">
+<br/>99,9 </p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>917384 <br/>
-</td>
-<td align="center">
-<br/>Petit Tom <br/>
-</td>
-<td align="center">
-<br/>2,7 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>923752 </p>
 </td>
-<td align="center" colspan="2">
-<p align="left">Total PRO. QUA. PORT </p>
+<td>
+<p align="center">
+<br/>Saint Sophie François 3</p>
 </td>
-<td align="center">
-<br/>69,6 <br/>
+<td>
+<p align="center">
+<br/>63,6 </p>
 </td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<p align="left">
-<br/>Navires non adhérant à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" </p>
-</td>
-<td align="center">
-<br/>49,5 (3) <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p align="center">
+<br/>925310 </p>
+</td>
+<td>
+<p align="center">
+<br/>Janvier Louis Raphaël</p>
+</td>
+<td>
+<p align="center">
+<br/>121,2 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Palangriers hauturiers</p>
+</td>
+<td>
+<p align="center">
+<br/>20,2 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"</p>
+</td>
+<td>
+<p align="center">
+<br/>29,7 (1) </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Total SA. THO. AN</p>
+</td>
+<td>
+<p align="center">
+<br/>434,5 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top">
+<p>OP PRO. QUA. PORT </p>
+</td>
+<td valign="top">
+<p>
+<br/>863686 </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>Chrisderic II </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>49,7 </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" </p>
+</td>
+<td>
+<p align="center">
+<br/>17,2 (2) </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
 <br/>
 </td>
-<td align="center" colspan="2">Total</td>
-<td align="center">
-<br/>798 <br/>
+<td>
+<p align="center">
+<br/>917384 </p>
 </td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">
+<br/>Petit Tom </p>
+</td>
+<td>
+<p align="center">
+<br/>2,7 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Total PRO. QUA. PORT</p>
+</td>
+<td>
+<p align="center">
+<br/>69,6 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top">
+<p>
+<br/>Groupement de navires STM </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>900236 </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>Gérard Luc IV </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>54,7 </p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>916469 </p>
+</td>
+<td>
+<p align="center">
+<br/>Gérald Jean IV </p>
+</td>
+<td>
+<p align="center">
+<br/>51,7 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>923751 </p>
+</td>
+<td>
+<p align="center">
+<br/>Cisberlande V </p>
+</td>
+<td>
+<p align="center">
+<br/>69,4 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>924860 </p>
+</td>
+<td>
+<p align="center">
+<br/>Eric Marin </p>
+</td>
+<td>
+<p align="center">
+<br/>68,0 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Total STM</p>
+</td>
+<td>
+<p align="center">
+<br/>243,8 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<br/>733526 </p>
+</td>
+<td>
+<p align="center">
+<br/>La Rose des vents </p>
+</td>
+<td>
+<p align="center">
+<br/>0,6 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Navires non adhérents à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" à l'exception du navire 733526 </p>
+</td>
+<td>
+<p align="center">
+<br/>45,5 (3) </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">Total</p>
+</td>
+<td>
+<p align="center">
+<br/>794 </p>
+</td>
+<td>
+<p align="center">
+<br/>0 </p>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p align="left">(1) Dont 12 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
-<br/>(2) Dont 10 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg. <br/>
-<br/>(3) Dont 22 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.</p>
+<p>(1) Dont 12 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg. </p>
+<p>(2) Dont 10 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg. </p>
+<p>(3) Dont 22 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg. </p>
 </td>
 </tr>
 </tbody>

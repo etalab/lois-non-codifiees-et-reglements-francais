@@ -5,30 +5,25 @@ Quotas en tonnes
 <table>
 <tbody>
 <tr>
-<th rowspan="2">
-<br/>
-</th>
-<th colspan="2">
-<br/>QUOTA 2011 EN OCÉAN ATLANTIQUE <br/>
-<br/>à l'est de la longitude 45° Ouest <br/>
-</th>
-<th align="center" rowspan="2" valign="top">
-<br/>QUOTA <br/>
-<br/>en mer Méditerranée <br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center">QUOTA 2011 EN OCÉAN ATLANTIQUE<br/>à l'est de la longitude 45° Ouest</p>
+</td>
+<td rowspan="2">
+<p align="center">QUOTA<br/>en mer Méditerranée</p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>Pour la pêche au chalut <br/>
-</th>
-<th>
-<br/>Pour la pêche à l'hameçon <br/>
-</th>
+<td>
+<p align="center">Pour la pêche au chalut </p>
+</td>
+<td>
+<p align="center">Pour la pêche à l'hameçon</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Fonds régional<br/>d'organisation du marché du poisson du Nord-Normandie (FROM Nord) </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -42,8 +37,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Coopérative<br/>maritime étaploise (CME) </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -57,8 +51,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs marins pêcheurs<br/>de Basse-Normandie (OPBN) </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -72,8 +65,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Coopérative<br/>Bretagne-Nord (COBRENORD) </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -87,8 +79,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Organisation des pêcheries de l'Ouest Bretagne (OPOB) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Organisation<br/>des pêcheries de l'Ouest Bretagne (OPOB) </p>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -102,8 +93,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA) </p>
+<p align="left">Navires adhérant à l'Union des pêcheurs de la Manche<br/>et de l'Atlantique (PMA) </p>
 </td>
 <td align="center">
 <br/>4 <br/>
@@ -117,8 +107,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Organisation<br/>de producteurs des pêcheurs artisans de l'île de<br/>Noirmoutier (OPPAN) </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -132,29 +121,13 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Vendée </p>
+<p align="left">Navires adhérant à l'organisation de producteurs VENDÉE </p>
 </td>
 <td align="center">
-<br/>7 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<br/>4 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu </p>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>28 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -162,8 +135,21 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs<br/>Organisation de producteurs des marins pêcheurs de l'île d'Yeu </p>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Navires adhérant à l'organisation de producteurs Fonds<br/>régional d'organisation du marché du poisson du Sud-Ouest<br/>(FROM Sud-ouest) </p>
 </td>
 <td align="center">
 <br/>2 <br/>
@@ -177,23 +163,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Côtinière </p>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs<br/>Organisation de producteurs de La Cotinière </p>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -207,8 +177,21 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD) </p>
+<p align="left">Navires adhérant à l'organisation de producteurs Coopérative<br/>de mareyage des pêcheurs arcachonnais (ARCA-COOP) </p>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD) </p>
 </td>
 <td align="center">
 <br/>12 <br/>
@@ -222,11 +205,10 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Navires non adhérant à une organisation de producteurs </p>
+<p align="left">Navires non adhérents à une organisation de producteurs </p>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -237,8 +219,7 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Réserve pour les navires participant à la pêche expérimentale </p>
+<p align="left">Réserve pour les navires participant à la pêche expérimentale </p>
 </td>
 <td align="center">
 <br/>12 <br/>
@@ -252,14 +233,13 @@ Quotas en tonnes
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Total </p>
+<p align="left">Total </p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<br/>35 <br/>
 </td>
 <td align="center">
-<br/>110 <br/>
+<br/>114 <br/>
 </td>
 <td align="center">
 <br/>0<br/>
