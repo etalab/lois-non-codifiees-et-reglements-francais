@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 " Pauillac " ;
 
-" Margaux " ;
-
 " Côtes de Bourg ", " Bourg " et " Bourgeais " ;
 
 " Graves " et " Graves Supérieures " ;
