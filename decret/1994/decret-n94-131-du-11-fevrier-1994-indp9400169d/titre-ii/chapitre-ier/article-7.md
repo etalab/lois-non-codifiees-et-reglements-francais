@@ -2,6 +2,6 @@
 
 Les membres des commissions administratives paritaires sont désignés pour une période de quatre années. Leur mandat est renouvelable.
 
-La durée du mandat peut être exceptionnellement réduite ou prorogée par décision du président de France Télécom dans un intérêt de service après avis du conseil paritaire, notamment pour permettre le renouvellement simultané de plusieurs commissions relevant d'un même service ou d'un groupe de services. Ces réductions ou prorogations ne peuvent excéder la durée d'un an.
+En cas de fusion de corps ou d'intégration de corps, les commissions administratives paritaires des corps ainsi fusionnés ou intégrés peuvent demeurer compétentes et le mandat de leurs membres être maintenu, par décision du président de France Télécom, jusqu'au renouvellement suivant. Durant cette période, ces commissions siègent en formation conjointe.
 
 Lors du renouvellement d'une commission, les nouveaux membres entrent en fonction à la date à laquelle prend fin, en application des dispositions précédentes, le mandat des membres auxquels ils succèdent.
