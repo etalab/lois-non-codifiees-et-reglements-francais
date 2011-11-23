@@ -4,7 +4,7 @@ Equipements de détection.
 
 L'entreprise ou l'organisme est tenu :
 
-a) Lorsque leur certification est exigée, de n'utiliser que des équipements de détection certifiés et de disposer pour chacun d'eux d'un certificat individuel en cours de validité ;
+a) De n'utiliser, lorsque leur certification ou justification de performances est exigée, que des équipements de détection certifiés ou ayant justifié de leurs performances et de disposer pour chacun d'eux d'un certificat individuel ou d'une attestation individuelle de justification de performances en cours de validité ;
 
 b) Lorsque seule la justification de leurs performances est nécessaire, de constituer un dossier technique des équipements de détection et de prêter son concours à la réalisation d'un test de performance spécifié par les services compétents de l'Etat ;
 
