@@ -61,14 +61,14 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td>Chef du bureau du contentieux des polices administratives. </td>
+<td>Chef du bureau du contentieux des étrangers. </td>
 <td>
 <p align="center">50 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières. </p>
+<p align="left">Chef du bureau du contentieux indemnitaire et des affaires financières.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">30</p>
@@ -407,15 +407,15 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Chef de la division de la formation des personnels administratifs, techniques et scientifiques. <br/>
+<td align="left">
+<p>Chef de la division de la formation des personnels administratifs, techniques et scientifiques. <br/>
 </p>
 </td>
 <td align="center">50 <br/>
 </td>
 </tr>
 <tr>
-<td> Chef du bureau des politiques sociales. </td>
+<td align="left"> Chef du bureau des politiques sociales. </td>
 <td align="center"> 30</td>
 </tr>
 <tr>
