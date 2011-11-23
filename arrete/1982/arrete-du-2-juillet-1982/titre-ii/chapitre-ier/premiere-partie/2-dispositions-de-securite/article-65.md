@@ -2,7 +2,7 @@
 
 Boîte de premier secours.
 
-Chaque véhicule doit être doté d'au moins une boîte de premiers secours, chacune étant disposée à un emplacement prévu en application de l'article 18 du présent arrêté.
+Chaque véhicule doit être doté d'au moins une boîte de premiers secours, chacune étant disposée à un emplacement prévu en application de l'    article 18 du présent arrêté ou des articles équivalents de la directive 2001/85/CE ou du règlement de Genève n° 107 précités.
 
 Le contenu minimum de chaque boîte de premiers secours doit être conforme à la liste définie à l'annexe 10.
 

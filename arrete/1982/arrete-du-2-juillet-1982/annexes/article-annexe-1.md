@@ -212,7 +212,7 @@ Essais requis
 
 II - EXTINCTEUR
 
-L'extincteur devant être disposé à proximité du chauffeur, en application des dispositions de l'article 17 du présent arrêté, doit être conforme aux dispositions de l'arrêté du 24 octobre 1984 modifié portant mise en application obligatoire de normes ou à des spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen. Il doit être conçu, ainsi que son support, pour résister aux conditions de transport dans les véhicules et ses capacités et performances doivent au minimum être les suivantes :
+L'extincteur devant être disposé à proximité du chauffeur, en application des dispositions de l'article 64 du présent arrêté, doit être conforme aux dispositions de l'arrêté du 24 octobre 1984 modifié portant mise en application obligatoire de normes ou à des spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen. Il doit être conçu, ainsi que son support, pour résister aux conditions de transport dans les véhicules et ses capacités et performances doivent au minimum être les suivantes :
 
 <table>
 <tbody>

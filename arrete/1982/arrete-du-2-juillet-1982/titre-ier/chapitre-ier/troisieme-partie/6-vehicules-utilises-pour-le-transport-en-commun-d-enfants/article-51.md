@@ -6,7 +6,7 @@ Issues.
 
 - la porte doit pouvoir être verrouillée et déverrouillée depuis le poste de conduite ; ce verrouillage peut être effectué de façon mécanique, électrique, pneumatique ou par tout autre moyen équivalent ;
 
-- dans le cas des véhicules autres que les véhicules de transport en commun de personnes de faible capacité, de l'intérieur, hormis depuis le poste de conduite, la porte doit être déverrouillée à proximité de celle-ci par une commande clairement désignée et seulement en cet autre point ; dans le cas de porte commandée à distance, cette commande et la commande de secours visée au sixième alinéa de l'article 22 a peuvent être confondues ;
+- dans le cas des véhicules autres que les véhicules de transport en commun de personnes de faible capacité, de l'intérieur, hormis depuis le poste de conduite, la porte doit être déverrouillée à proximité de celle-ci par une commande clairement désignée et seulement en cet autre point ; dans le cas de porte commandée à distance, cette commande et la commande de secours visée soit au sixième alinéa de l'article 22 a du présent arrêté, soit aux articles équivalents de la directive 2001/85/CE du Parlement et du Conseil du 20 novembre 2001 concernant des dispositions particulières applicables aux véhicules destinés au transport des passagers et comportant, outre le siège du conducteur, plus de huit places assises ou du règlement de Genève n° 107 série 02 d'amendements, annexé à l'accord de Genève du 20 mars 1958, concernant des prescriptions uniformes relatives à l'homologation des véhicules des catégories M2 et M3 en ce qui concerne leurs caractéristiques générales de construction peuvent être confondues ;
 
 - l'ouverture doit être possible de l'extérieur lorsque le véhicule est à l'arrêt ;
 

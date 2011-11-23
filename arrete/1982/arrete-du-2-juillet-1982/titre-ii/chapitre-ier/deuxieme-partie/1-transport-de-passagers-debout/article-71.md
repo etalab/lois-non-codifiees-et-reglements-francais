@@ -12,6 +12,6 @@ En dehors des agglomérations, sans préjudice des pouvoirs de police de la circ
 
 En cas d'urgence le justifiant, le représentant de l'Etat dans le département peut exceptionnellement autoriser de façon limitée tout service, en ayant recours aux véhicules ci-dessus.
 
-En aucun cas la vitesse maximale des véhicules visés au présent article ne peut excéder la vitesse maximale autorisée à l'article R. 413-10-III du code de la route.
+En aucun cas la vitesse maximale des véhicules visés au présent article ne peut excéder la vitesse maximale autorisée à l'article R. 413-10-III du code de la route. Dans les autocars de classe II, le nombre maximal de places debout est au plus égal à la moitié du nombre de places assises destinées aux passagers, dans la limite du nombre de places debout prévues dans la réception du véhicule.
 
 Dans les diverses circonstances mentionnées au présent article, l'usage du siège de convoyeur prévu à l'article 46 est interdit ; ce siège est alors condamné ou enlevé.
