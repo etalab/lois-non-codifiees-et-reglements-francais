@@ -85,7 +85,6 @@
 - [Décret n°2000-800 du 24 août 2000 (INTC0000230D)](decret-n2000-800-du-24-aout-2000-intc0000230d)
 - [Décret n°2000-810 du 24 août 2000 (EQUX0000110D)](decret-n2000-810-du-24-aout-2000-equx0000110d)
 - [Décret du 25 août 2000 (ECOC0000037D)](decret-du-25-aout-2000-ecoc0000037d)
-- [Décret du 25 août 2000 (ECOC0000039D)](decret-du-25-aout-2000-ecoc0000039d)
 - [Décret n°2000-704 du 25 juillet 2000 (AGRB0000165D)](decret-n2000-704-du-25-juillet-2000-agrb0000165d)
 - [Décret n°2000-1261 du 26 décembre 2000 (JUSB0010494D)](decret-n2000-1261-du-26-decembre-2000-jusb0010494d)
 - [Décret n°2000-1262 du 26 décembre 2000 (JUSB0010495D)](decret-n2000-1262-du-26-decembre-2000-jusb0010495d)
