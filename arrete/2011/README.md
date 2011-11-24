@@ -2622,6 +2622,7 @@
 - [Arrêté du 30 septembre 2011 (PRMX1126706A)](arrete-du-30-septembre-2011-prmx1126706a)
 - [Arrêté du 30 septembre 2011 (TRAT1118096A)](arrete-du-30-septembre-2011-trat1118096a)
 - [Arrêté du 30 septembre 2011 (TRAT1125836A)](arrete-du-30-septembre-2011-trat1125836a)
+- [Arrêté du 30 mai 1984](arrete-du-30-mai-1984)
 - [Arrêté du 30 mai 2011 (DEVA1108902A)](arrete-du-30-mai-2011-deva1108902a)
 - [Arrêté du 30 mai 2011 (ETSH1114880A)](arrete-du-30-mai-2011-etsh1114880a)
 - [Arrêté du 30 mai 2011 (ETSH1114920A)](arrete-du-30-mai-2011-etsh1114920a)
