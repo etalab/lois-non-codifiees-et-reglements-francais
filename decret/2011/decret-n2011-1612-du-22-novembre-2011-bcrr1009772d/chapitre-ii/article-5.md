@@ -1,0 +1,3 @@
+# Article 5
+
+Dans la région d'Ile-de-France, les sociétés d'économie mixte dans lesquelles l'Etat ou ses établissements publics détiennent, ensemble ou séparément, la majorité du capital peuvent solliciter le concours du service spécialisé mentionné à l'article R. 1212-19 du code général de la propriété des personnes publiques en vue des opérations d'acquisitions et de cessions immobilières, définies aux articles R. 1212-19 et R. 3221-1 du même code, qu'elles poursuivent. Ce concours peut consister à faire procéder pour leur compte aux levés de plans des immeubles, à conduire les négociations préalables aux acquisitions et aux aliénations et à agir en leur nom devant les juridictions compétentes en ce qui concerne la fixation des indemnités en matière d'expropriation.
