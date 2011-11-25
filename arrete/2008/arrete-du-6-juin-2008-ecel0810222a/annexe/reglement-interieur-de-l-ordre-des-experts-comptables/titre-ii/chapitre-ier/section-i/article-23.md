@@ -1,0 +1,3 @@
+# Article 23
+
+Le président dirige les délibérations et peut seul accorder ou retirer la parole ; il ne peut toutefois la refuser lorsqu'il s'agit d'un rappel au règlement. Il peut rappeler à l'ordre tout membre du conseil qui prend la parole sans l'avoir demandée et obtenue, excède le temps de parole imparti ou qui, après avoir été invité par le président à se cantonner à la question en cours de discussion, ne se conforme pas à cette invitation. Il peut rappeler à l'ordre avec inscription au procès-verbal tout membre de l'ordre qui se livre soit à des attaques personnelles, soit à toute manifestation provoquant du désordre ou qui, dans la même séance, a déjà encouru un rappel à l'ordre.
