@@ -648,7 +648,6 @@
 - [Arrêté du 30 septembre 1999 (INTE9900480A)](arrete-du-30-septembre-1999-inte9900480a)
 - [Arrêté du 30 septembre 1999 (MAEA9920394A)](arrete-du-30-septembre-1999-maea9920394a)
 - [Arrêté du 30 mai 2000 (DEFP0001493A)](arrete-du-30-mai-2000-defp0001493a)
-- [Arrêté du 30 mai 2001 (ECOP0000227A)](arrete-du-30-mai-2001-ecop0000227a)
 - [Arrêté du 31 août 1999 (AGRB9901851A)](arrete-du-31-aout-1999-agrb9901851a)
 - [Arrêté du 31 décembre 1998 (ECOT9820096A)](arrete-du-31-decembre-1998-ecot9820096a)
 - [Arrêté du 31 mars 1999 (DEFM9901363A)](arrete-du-31-mars-1999-defm9901363a)
