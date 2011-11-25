@@ -4,7 +4,6 @@
 - [Décret n°2000-739 du 1 août 2000 (ECOD0070013D)](decret-n2000-739-du-1-aout-2000-ecod0070013d)
 - [Décret n°2000-762 du 1 août 2000 (MESD0022398D)](decret-n2000-762-du-1-aout-2000-mesd0022398d)
 - [Décret n°2000-847 du 1 septembre 2000 (ECOP0000379D)](decret-n2000-847-du-1-septembre-2000-ecop0000379d)
-- [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°77-1017 du 1 septembre 1977](decret-n77-1017-du-1-septembre-1977)
 - [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
