@@ -1,6 +1,5 @@
 # Annexe
 
-- [Article AOC Banyuls](article-aoc-banyuls.md)
 - [Article AOC Banyuls Grand cru](article-aoc-banyuls-grand-cru.md)
 - [Article AOC Maury](article-aoc-maury.md)
 - [Article AOC Muscat Beaumes de Venise](article-aoc-muscat-beaumes-de-venise.md)
