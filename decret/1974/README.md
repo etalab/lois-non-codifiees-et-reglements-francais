@@ -25,7 +25,6 @@
 - [Décret n°74-487 du 17 mai 1974](decret-n74-487-du-17-mai-1974)
 - [Décret n°74-496 du 17 mai 1974](decret-n74-496-du-17-mai-1974)
 - [Décret n°74-514 du 17 mai 1974](decret-n74-514-du-17-mai-1974)
-- [Décret n°74-535 du 17 mai 1974](decret-n74-535-du-17-mai-1974)
 - [Décret n°74-546 du 17 mai 1974](decret-n74-546-du-17-mai-1974)
 - [Décret n°74-551 du 17 mai 1974](decret-n74-551-du-17-mai-1974)
 - [Décret n°74-37 du 18 janvier 1974](decret-n74-37-du-18-janvier-1974)
