@@ -6,7 +6,7 @@ I. ― Pour l'Ordre national des médecins :
 
 1° Pour le renouvellement par moitié des conseils régionaux et interrégionaux :
 
-a) Les membres titulaires et suppléants du conseil régional ou interrégional sont répartis en trois fractions numérotées respectivement 1, 2 ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants du conseil régional ou interrégional sont répartis en trois fractions numérotées respectivement 1,2 ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction venant à échéance après la publication de la loi n° 2009-879 du 21 juillet 2009 susvisée est prorogé pour une durée de deux ans ;
 
@@ -16,7 +16,7 @@ d) Le premier renouvellement par moitié des conseils interviendra au terme du m
 
 2° Pour le renouvellement par moitié des chambres disciplinaires et conformément aux dispositions du deuxième alinéa de l'article R. 4122-6 et du troisième alinéa de l'article R. 4124-5 :
 
-a) Les membres titulaires et suppléants du collège externe de la chambre disciplinaire nationale et des chambres disciplinaires de première instance sont répartis en trois fractions numérotées respectivement 1, 2 ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants du collège externe de la chambre disciplinaire nationale et des chambres disciplinaires de première instance sont répartis en trois fractions numérotées respectivement 1,2 ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction venant à échéance après la publication de la loi précitée est prorogé pour une durée de deux ans ;
 
@@ -122,7 +122,7 @@ IV. ― Pour l'Ordre national des masseurs-kinésithérapeutes :
 
 1° Pour le renouvellement des conseils départementaux :
 
-a) Les membres titulaires et suppléants des conseils départementaux sont répartis en trois fractions numérotées respectivement 1, 2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants des conseils départementaux sont répartis en trois fractions numérotées respectivement 1,2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction élue en 2008 n'est pas modifié ;
 
@@ -148,7 +148,7 @@ f) Ces dispositions s'appliquent aux conseillers titulaires et aux conseillers s
 
 2° Pour le renouvellement des conseils régionaux et interrégionaux :
 
-a) Les membres titulaires et suppléants des conseils régionaux et interrégionaux sont répartis en trois fractions numérotées respectivement 1, 2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants des conseils régionaux et interrégionaux sont répartis en trois fractions numérotées respectivement 1,2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction élue en 2009 est écourté d'un an et prendra fin en 2014 ;
 
@@ -160,13 +160,13 @@ d) Les membres de la troisième fraction élue en 2007 pour une durée de six an
 
 ― dans les conseils composés de dix membres libéraux et de trois membres salariés, deux membres libéraux et un membre salarié auront un mandat prolongé d'un an qui prendra fin en 2014 et un membre libéral aura un mandat écourté de deux ans qui prendra fin en 2011 ;
 
-― pour le conseil interrégional Ile-de-France - Réunion, trois membres libéraux et un membre salarié auront un mandat prolongé d'un an qui prendra fin en 2014 et deux membres libéraux auront un mandat écourté de deux ans qui prendra fin en 2011 ;
+― pour le conseil interrégional Ile-de-France-Réunion, trois membres libéraux et un membre salarié auront un mandat prolongé d'un an qui prendra fin en 2014 et deux membres libéraux auront un mandat écourté de deux ans qui prendra fin en 2011 ;
 
 e) Le premier renouvellement par moitié aura lieu au plus tard à la fin du quatrième trimestre 2011 et le deuxième renouvellement à la fin du quatrième trimestre 2014 ;
 
 3° Pour le renouvellement du conseil national :
 
-a) Les membres titulaires et suppléants du conseil national sont répartis en trois fractions numérotées respectivement 1, 2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants du conseil national sont répartis en trois fractions numérotées respectivement 1,2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction élue en 2008 n'est pas modifié ;
 
@@ -182,13 +182,15 @@ e) Le premier renouvellement par moitié aura lieu au plus tard à la fin du deu
 
 4° Pour les chambres disciplinaires de première instance et la chambre disciplinaire nationale :
 
-Dans les quatre mois qui suivent le premier renouvellement des conseils régionaux après la publication du présent décret, les chambres disciplinaires de première instance et la chambre disciplinaire du conseil national seront intégralement renouvelées dans les conditions prévues aux articles R. 4125-6 ; R. 4321-39 à R. 4321-41 et R. 4321-48 à R. 4321-50 du code de la santé publique.
+Dans les quatre mois qui suivent le premier renouvellement par moitié des conseils régionaux et du conseil national après la publication du présent décret, les chambres disciplinaires de première instance et la chambre disciplinaire du conseil national seront intégralement renouvelées dans les conditions prévues aux articles R. 4125-6 ; R. 4321-39 à R. 4321-41 et R. 4321-48 à R. 4321-50 du code de la santé publique.
+
+Le mandat des membres des chambres disciplinaires de première instance et des membres de la chambre disciplinaire nationale est prorogé jusqu'à ces dates.
 
 V. ― Pour l'Ordre national des pédicures-podologues :
 
 1° Pour le renouvellement du conseil national :
 
-a) Les membres titulaires et suppléants du conseil national sont répartis en trois fractions numérotées respectivement 1, 2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
+a) Les membres titulaires et suppléants du conseil national sont répartis en trois fractions numérotées respectivement 1,2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat ;
 
 b) Le mandat des membres de la première fraction venant à échéance en 2010 est prorogé pour une durée de deux ans et prendra fin en 2012 ;
 
@@ -198,7 +200,7 @@ d) Le premier renouvellement par moitié du conseil interviendra au terme du man
 
 2° Pour le renouvellement des conseils régionaux :
 
-Les membres titulaires et suppléants des conseils régionaux sont répartis en trois fractions numérotées respectivement 1, 2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat :
+Les membres titulaires et suppléants des conseils régionaux sont répartis en trois fractions numérotées respectivement 1,2, ou 3 selon la date de leur élection et l'ordre chronologique d'échéance de leur mandat :
 
 a) Pour les conseils régionaux composés de quatre membres titulaires et d'autant de suppléants :
 
@@ -230,13 +232,15 @@ d) Pour le renouvellement du conseil régional de Picardie :
 
 ― le mandat des membres de la deuxième fraction n'est pas modifié et prendra fin en 2012. Les postes restés vacants par ces conseillers ne seront pas renouvelés ;
 
-― le mandat des membres de la troisième fraction n'est pas modifié et prendra fin en 2015 ;
+― Le mandat des membres de la troisième fraction venant à échéance en 2014 est prolongé d'un an et prendra fin en 2015 ;
 
 3° Pour les chambres disciplinaires de première instance et la chambre disciplinaire nationale :
 
 a) Renouvellement des chambres disciplinaires de première instance, à l'exception de celle d'Ile-de-France :
 
 ― dans les quatre mois qui suivent le premier renouvellement des conseils régionaux en 2012, les chambres disciplinaires de première instance seront entièrement renouvelées dans les conditions prévues aux articles R. 4125-6, R. 4322-20, R. 4322-27 et R. 4322-30 ;
+
+Le mandat des membres de la chambre disciplinaire de première instance est prorogé jusqu'à cette date.
 
 b) Renouvellement de la chambre disciplinaire de la région Ile-de-France :
 
@@ -253,3 +257,5 @@ c) Renouvellement des membres assesseurs du second collège de la chambre discip
 ― le mandat des membres assesseurs issus du second collège, élus en 2009, pour une durée de quatre ans, est prolongé de deux ans et prendra fin en 2015 ;
 
 ― le mandat des membres assesseurs issus du second collège, élus en 2009, pour une durée de six ans, n'est pas modifié et prendra fin en 2015.
+
+VI.-Pour l'ordre national des infirmiers, le premier renouvellement par moitié des membres des chambres disciplinaires de première instance et des membres de la chambre disciplinaire nationale aura lieu conformément aux dispositions des articles R. 4311-90 et R. 4311-94, dans les quatre mois suivant le premier renouvellement par moitié des conseils régionaux, interrégionaux et national qui se dérouleront au plus tard en 2013.

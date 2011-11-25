@@ -18,12 +18,16 @@ A modifié les dispositions suivantes :
 > >
 > > XVIII.-Dispositions transitoires.
 
-Le mandat des membres des conseils départementaux, régionaux et national de l'ordre national des infirmiers en cours à la date de publication de la présente loi est prolongé comme suit :
+1° Le mandat des membres des conseils départementaux, régionaux et national de l'ordre national des infirmiers en cours à la date de publication de la présente loi est prolongé comme suit :
 
 a) Les mandats de deux ans sont portés à trois ans ;
 
 b) Les mandats de quatre ans sont portés à six ans ;
 
-c) Les mandats des présidents élus avant la même date sont portés à trois ans.
+c) Les mandats des présidents élus avant la même date sont portés à trois ans ;
 
-> >
+2° Les mandats des membres du conseil national en cours à la date de publication du décret n° 2011-1611 du 23 novembre 2011 sont ainsi modifiés :
+
+a) Les mandats de trois ans sont portés à cinq ans ;
+
+b) Les mandats de six ans sont portés à huit ans.
