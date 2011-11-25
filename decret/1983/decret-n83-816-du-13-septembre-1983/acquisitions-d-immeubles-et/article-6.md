@@ -1,6 +1,6 @@
 # Article 6
 
-La Société nationale des chemins de fer français procède elle-même aux acquisitions de biens immobiliers après avoir consulté le directeur des services fiscaux dans les conditions fixées par les articles R. 4, premier alinéa, R. 6, R. 7, R. 8 et R. 9 du code du domaine de l'Etat et recueilli l'avis de la commission des opérations immobilières compétente, dans les conditions fixées par les articles R. 10, R. 14 à R. 17, R. 20 et R. 21 du code du domaine de l'Etat.
+La Société nationale des chemins de fer français procède elle-même aux acquisitions de biens immobiliers après avoir consulté le directeur départemental des finances publiques dans les conditions fixées par les articles R. 1211-1 à R. 1211-8 du code général de la propriété des personnes publiques.
 
 La Société nationale des chemins de fer français est investie, pour l'exécution des missions qui lui incombent, de tous les droits que la loi confère à l'administration pour l'acquisition de terrains par voie d'expropriation pour cause d'utilité publique.
 

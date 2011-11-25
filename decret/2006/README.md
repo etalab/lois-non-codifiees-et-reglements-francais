@@ -14,6 +14,7 @@
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
 - [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
+- [Décret n°2006-608 du 26 mai 2006 (EQUT0600697D)](decret-n2006-608-du-26-mai-2006-equt0600697d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
 - [Décret n°2002-634 du 29 avril 2002 (PRMG0270289D)](decret-n2002-634-du-29-avril-2002-prmg0270289d)
 - [Décret n°2006-386 du 30 mars 2006 (JUSK0640055D)](decret-n2006-386-du-30-mars-2006-jusk0640055d)

@@ -191,7 +191,6 @@
 - [Décret n°95-589 du 6 mai 1995 (DEFC9501482D)](decret-n95-589-du-6-mai-1995-defc9501482d)
 - [Décret n°95-590 du 6 mai 1995 (DEFP9501563D)](decret-n95-590-du-6-mai-1995-defp9501563d)
 - [Décret n°95-594 du 6 mai 1995 (ECOC9500052D)](decret-n95-594-du-6-mai-1995-ecoc9500052d)
-- [Décret n°95-595 du 6 mai 1995 (BUDL9500026D)](decret-n95-595-du-6-mai-1995-budl9500026d)
 - [Décret n°95-596 du 6 mai 1995 (INDG9500472D)](decret-n95-596-du-6-mai-1995-indg9500472d)
 - [Décret n°95-598 du 6 mai 1995 (INDD9500336D)](decret-n95-598-du-6-mai-1995-indd9500336d)
 - [Décret n°95-599 du 6 mai 1995 (INDH9500478D)](decret-n95-599-du-6-mai-1995-indh9500478d)

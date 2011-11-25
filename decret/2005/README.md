@@ -56,7 +56,6 @@
 - [Décret n°2005-799 du 15 juillet 2005 (ECOP0500450D)](decret-n2005-799-du-15-juillet-2005-ecop0500450d)
 - [Décret n° 2005-992 du 16 août 2005 (DEVO0530028D)](decret-n-2005-992-du-16-aout-2005-devo0530028d)
 - [Décret n°2005-146 du 16 février 2005 (EQUH0401743D)](decret-n2005-146-du-16-fevrier-2005-equh0401743d)
-- [Décret n°2005-992 du 16 août 2005 (DEVO0530028D)](decret-n2005-992-du-16-aout-2005-devo0530028d)
 - [Décret n°98-1057 du 16 novembre 1998 (DEFP9801941D)](decret-n98-1057-du-16-novembre-1998-defp9801941d)
 - [Décret n°2005-469 du 16 mai 2005 (PRMX0508393D)](decret-n2005-469-du-16-mai-2005-prmx0508393d)
 - [Décret n°2005-471 du 16 mai 2005 (EQUP0500599D)](decret-n2005-471-du-16-mai-2005-equp0500599d)

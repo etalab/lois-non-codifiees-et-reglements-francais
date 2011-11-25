@@ -23,7 +23,6 @@
 - [Décret n°62-975 du 13 août 1962](decret-n62-975-du-13-aout-1962)
 - [Décret n° 62-1085 du 14 septembre 1962](decret-n-62-1085-du-14-septembre-1962)
 - [Décret n°62-1093 du 14 septembre 1962](decret-n62-1093-du-14-septembre-1962)
-- [Décret n°62-1352 du 14 novembre 1962](decret-n62-1352-du-14-novembre-1962)
 - [Décret n°62-439 du 14 avril 1962](decret-n62-439-du-14-avril-1962)
 - [Décret n°63-957 du 17 septembre 1963](decret-n63-957-du-17-septembre-1963)
 - [Décret n°62-585 du 18 mai 1962](decret-n62-585-du-18-mai-1962)

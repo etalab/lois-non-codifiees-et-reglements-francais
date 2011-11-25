@@ -4,7 +4,7 @@ I. - L'abrogation des dispositions suivantes du code du domaine de l'Etat prévu
 
 1° La première phrase de l'article L. 10 ;
 
-2° A l'article L. 11, les mots : "par arrêté du ministre compétent, qui statue par voie d'arrêté." ;
+2° A l'article L. 11, les mots : "par le ministre compétent qui statue par voie d'arrêté" ;
 
 3° A l'article L. 12, les mots : "par arrêté interministériel" ;
 
