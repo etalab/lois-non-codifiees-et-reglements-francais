@@ -1,8 +1,8 @@
-# Article ANNEXE II
+# Article ANNEXE I
 
-ORGANISATION DES ÉPREUVES
+ORGANISATION DES ÉPREUVES DU CONCOURS EXTERNE
 
-A. - Epreuves d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1. Epreuve de français
 
