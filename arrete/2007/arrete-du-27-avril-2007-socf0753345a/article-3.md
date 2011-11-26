@@ -1,55 +1,60 @@
 # Article 3
 
-Les titulaires des certificats de compétences professionnelles (CCP) du titre professionnel créé par l'arrêté du 6 août 2004 susvisé sont réputés être titulaires des certificats de compétences professionnelles (CCP) du titre professionnel créé par le présent arrêté selon les correspondances établies comme indiqué dans le tableau suivant : <table>
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
+
+<table>
 <tbody>
 <tr>
-<td width="214">
-<p align="center">ANCIEN TITRE</p>
-<p align="center">Monteur(se) truquiste, option trucages évolués, option monteur(se) graphiste</p>
+<th>
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>monteur (se) graphiste vidéo <br/>
+<br/>(arrêté du 27 avril 2007) <br/>
+</th>
+<th>
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>monteur (se) graphiste vidéo <br/>
+<br/>(présent arrêté) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Configurer un système de montage non linéaire pour l'acquisition, la gestion, le montage, et la sauvegarde des médias </p>
 </td>
-<td width="214">
-<p align="center">NOUVEAU TITRE</p>
-<p align="center">Monteur(se) graphiste vidéo</p>
+<td align="center">
+<p align="left">
+<br/>Exploiter un poste de montage pour l'acquisition, la gestion, le montage, la sauvegarde et les sorties des médias </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="214">
-<p>Configurer un système de montage non linéaire pour l'acquisition, la gestion, le montage et la sauvegarde des médias.</p>
+<td align="center">
+<p align="left">
+<br/>Exécuter différents types de montage </p>
 </td>
-<td valign="top" width="214">
-<p>Configurer un système de montage non linéaire pour l'acquisition, la gestion, le montage et la sauvegarde des médias.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="214">
-<p>Réaliser différents types de montage.</p>
-</td>
-<td valign="top" width="214">
-<p>Exécuter différents types de montage.</p>
+<td align="center">
+<p align="left">
+<br/>Exécuter différents types de montage </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="214">
-<p>Corriger et retoucher des séquences vidéo et exécuter des montages trucages simples.</p>
+<td align="center">
+<p align="left">
+<br/>Corriger, retoucher et modifier des séquences vidéo et exécuter des montages trucages simples </p>
 </td>
-<td valign="top" width="214">
-<p>Corriger, retoucher et modifier des séquences vidéo et exécuter des montages trucages simples.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="214">
-<p>Option trucages évolués : exécuter des montages trucages évolués.</p>
-</td>
-<td valign="top" width="214">
-<p>Néant.</p>
+<td align="center">
+<p align="left">
+<br/>Corriger et améliorer des séquences vidéo et son </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="214">
-<p>Option monteur(se) graphiste : exécuter des travaux graphistes destinés aux montages vidéo.</p>
+<td align="center">
+<p align="left">
+<br/>Concevoir et réaliser des éléments graphiques et/ ou typographiques destinés à un montage vidéo </p>
 </td>
-<td valign="top" width="214">
-<p>Concevoir et réaliser des éléments graphiques et/ou typographiques destinés à un montage vidéo.</p>
+<td align="center">
+<p align="left">
+<br/>Mettre en œuvre des techniques simples de trucage multicouches et d'animation pour réaliser des effets visuels<br/>
+</p>
 </td>
 </tr>
 </tbody>
