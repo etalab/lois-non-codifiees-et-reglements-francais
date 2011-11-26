@@ -523,7 +523,6 @@
 - [Décret n°2004-1154 du 21 octobre 2004 (EQUP0401141D)](decret-n2004-1154-du-21-octobre-2004-equp0401141d)
 - [Décret n°2004-1381 du 21 décembre 2004 (SOCT0412504D)](decret-n2004-1381-du-21-decembre-2004-soct0412504d)
 - [Décret n°2004-1386 du 21 décembre 2004 (JUSC0420949D)](decret-n2004-1386-du-21-decembre-2004-jusc0420949d)
-- [Décret n°2004-342 du 21 avril 2004 (ECOT0491205D)](decret-n2004-342-du-21-avril-2004-ecot0491205d)
 - [Décret n°2004-346 du 21 avril 2004 (SANX0400022D)](decret-n2004-346-du-21-avril-2004-sanx0400022d)
 - [Décret n°2004-576 du 21 juin 2004 (INDI0402942D)](decret-n2004-576-du-21-juin-2004-indi0402942d)
 - [Décret n°2004-581 du 21 juin 2004 (SANS0420260D)](decret-n2004-581-du-21-juin-2004-sans0420260d)

@@ -713,7 +713,6 @@
 - [Décret n°97-1252 du 29 décembre 1997 (MESS9723935D)](decret-n97-1252-du-29-decembre-1997-mess9723935d)
 - [Décret n°97-1253 du 29 décembre 1997 (JUSC9720733D)](decret-n97-1253-du-29-decembre-1997-jusc9720733d)
 - [Décret n°97-1255 du 29 décembre 1997 (INTM9700015D)](decret-n97-1255-du-29-decembre-1997-intm9700015d)
-- [Décret n°97-1264 du 29 décembre 1997 (AGRS9702398D)](decret-n97-1264-du-29-decembre-1997-agrs9702398d)
 - [Décret n°97-1275 du 29 décembre 1997 (MESS9723471D)](decret-n97-1275-du-29-decembre-1997-mess9723471d)
 - [Décret n°97-1278 du 29 décembre 1997 (INTB9700330D)](decret-n97-1278-du-29-decembre-1997-intb9700330d)
 - [Décret n°97-1315 du 29 décembre 1997 (EQUA9701682D)](decret-n97-1315-du-29-decembre-1997-equa9701682d)

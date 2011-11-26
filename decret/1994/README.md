@@ -115,7 +115,6 @@
 - [Décret n°94-35 du 5 janvier 1994 (RESK9301183D)](decret-n94-35-du-5-janvier-1994-resk9301183d)
 - [Décret n°94-556 du 5 juillet 1994 (PRMX9400279D)](decret-n94-556-du-5-juillet-1994-prmx9400279d)
 - [Décret n°94-671 du 5 août 1994 (ENVN9420067D)](decret-n94-671-du-5-aout-1994-envn9420067d)
-- [Décret n°94-775 du 5 septembre 1994 (COMC9400006D)](decret-n94-775-du-5-septembre-1994-comc9400006d)
 - [Décret n°94-864 du 5 octobre 1994 (MAEF9410030D)](decret-n94-864-du-5-octobre-1994-maef9410030d)
 - [Décret n°94-865 du 5 octobre 1994 (EQUB9401177D)](decret-n94-865-du-5-octobre-1994-equb9401177d)
 - [Décret n°94-358 du 5 mai 1994 (EQUS9400010D)](decret-n94-358-du-5-mai-1994-equs9400010d)
