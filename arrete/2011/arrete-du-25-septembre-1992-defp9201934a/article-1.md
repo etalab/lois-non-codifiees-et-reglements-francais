@@ -32,7 +32,11 @@ Unités d'encadrement des unités de protection en métropole ;
 
 Escadron de maintenance cynophile de l'armée de l'air ;
 
-Division aérotactique de l'escadron de survie opérationnelle et des parachutistes d'essai (ESOPE) de l'armée de l'air.
+Division aérotactique de l'escadron de survie opérationnelle et des parachutistes d'essai (ESOPE) de l'armée de l'air ;
+
+état-major des opérations spéciales de l'OTAN à compter du 11 juillet 2011 ;
+
+bureaux sécurité nucléaire des bases aériennes de Dijon, Saint-Dizier, Luxeuil, Istres et Bourges-Avord à compter du 1er septembre 2011.
 
 3° Gendarmerie :
 
