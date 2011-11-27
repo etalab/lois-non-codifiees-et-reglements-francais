@@ -337,7 +337,6 @@
 - [Arrêté du 13 septembre 2004 (INDI0403669A)](arrete-du-13-septembre-2004-indi0403669a)
 - [Arrêté du 13 septembre 2004 (INDI0403671A)](arrete-du-13-septembre-2004-indi0403671a)
 - [Arrêté du 13 septembre 2004 (INDI0403672A)](arrete-du-13-septembre-2004-indi0403672a)
-- [Arrêté du 13 mai 2004 (INTC0400367A)](arrete-du-13-mai-2004-intc0400367a)
 - [Arrêté du 13 mai 2004 (MAEA0420129A)](arrete-du-13-mai-2004-maea0420129a)
 - [Arrêté du 13 mai 2004 (MENA0401126A)](arrete-du-13-mai-2004-mena0401126a)
 - [Arrêté du 13 mai 2004 (MENE0400867A)](arrete-du-13-mai-2004-mene0400867a)
