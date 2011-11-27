@@ -6,6 +6,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Viré-Clessé" ;
 
-― "Bonnes-Mares", "Clos de Tart" ;
+― "Bonnes-Mares" ;
 
 ― "Saint-Aubin".
