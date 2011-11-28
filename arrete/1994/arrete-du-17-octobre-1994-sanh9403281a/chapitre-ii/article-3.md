@@ -1,5 +1,0 @@
-# Article 3
-
-Une banque nationale de questions est constituée par le conseil scientifique en odontologie, en application de l'arrêté du 25 septembre 2008 susvisé. La constitution de cette banque est assurée par des enseignants relevant des sous-sections n°s 56-01, 56-02, 56-03, 57-01, 57-02, 57-03, 58-01, 58-02 et 58-03 du Conseil national des universités, à raison de neuf enseignants par centre de soins, d'enseignement et de recherches dentaires, désignés chaque année par les directeurs des unités de formation et de recherche d'odontologie. Un conseil scientifique de l'internat en odontologie, constitué par arrêté conjoint des ministres chargés de la santé et de l'enseignement supérieur, vérifie l'appartenance des questions au programme et les valide. La gestion de cette banque est assurée par le conseil scientifique de l'internat en odontologie. Le conseil scientifique en odontologie vérifie l'appartenance des questions au programme et les valide.
-
-La gestion de cette banque est assurée par le conseil scientifique en odontologie. Le président ou son représentant procède au tirage au sort des questions du concours.
