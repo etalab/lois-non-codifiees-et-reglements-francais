@@ -632,6 +632,7 @@
 - [Décret n°2011-1404 du 28 octobre 2011 (JUSA1120699D)](decret-n2011-1404-du-28-octobre-2011-jusa1120699d)
 - [Décret n°2011-1405 du 28 octobre 2011 (JUSA1120700D)](decret-n2011-1405-du-28-octobre-2011-jusa1120700d)
 - [Décret n°2011-1406 du 28 octobre 2011 (IOCC1033831D)](decret-n2011-1406-du-28-octobre-2011-iocc1033831d)
+- [Décret n°2011-1655 du 28 novembre 2011 (TRAT1117083D)](decret-n2011-1655-du-28-novembre-2011-trat1117083d)
 - [Décret n°2011-475 du 28 avril 2011 (MCCB1105634D)](decret-n2011-475-du-28-avril-2011-mccb1105634d)
 - [Décret n°2011-737 du 28 juin 2011 (DEFD1108775D)](decret-n2011-737-du-28-juin-2011-defd1108775d)
 - [Décret n°2011-738 du 28 juin 2011 (DEVL1113133D)](decret-n2011-738-du-28-juin-2011-devl1113133d)
