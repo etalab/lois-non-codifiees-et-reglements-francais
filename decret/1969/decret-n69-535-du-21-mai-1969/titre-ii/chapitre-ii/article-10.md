@@ -8,4 +8,4 @@ Le président, les deux vice-présidents et le secrétaire du conseil d'administ
 
 Le conseil d'administration peut adjoindre au secrétaire des secrétaires auxiliaires pris dans le personnel du port autonome qui assistent aux séances sans participer aux délibérations.
 
-Le mandat des membres du bureau expire normalement avec leur mandat de membres du conseil d'administration. Toutefois, les fonctions de président et de vice-président du conseil d'administration du Port autonome de Paris prennent fin au plus tard lorsque le titulaire atteint l'âge de soixante-cinq ans.
+Le mandat des membres du bureau expire normalement avec leur mandat de membres du conseil d'administration. Toutefois, le mandat de président du conseil d'administration prend fin au plus tard lorsque son titulaire atteint l'âge de soixante-sept ans.
