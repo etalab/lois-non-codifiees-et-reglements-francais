@@ -1,7 +1,8 @@
 # Article Annexe III
 
-**POINTS D'ENTRÉE COMMUNAUTAIRES**
+POINTS D'ENTRÉE COMMUNAUTAIRES
 
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -21,11 +22,17 @@
 </th>
 </tr>
 <tr>
-<td align="center">Basse-Terre<br/>
+<td align="center">
+<p align="left">Basse-Terre<br/>
+</p>
 </td>
-<td align="center">Port<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -35,11 +42,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Bordeaux<br/>
+<td align="center">
+<p align="left">Bordeaux<br/>
+</p>
 </td>
-<td align="center">Aéroport-port<br/>
+<td align="center">
+<p align="center">Aéroport-port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -49,131 +62,9 @@
 </td>
 </tr>
 <tr>
-<td align="center">Brest-Le Paludien<br/>
-</td>
-<td align="center">Port<br/>
-</td>
 <td align="center">
-<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Caen-Honfleur<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Degrad-de-Cannes<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Dunkerque<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Fécamp-Le Havre-Rouen<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Le Havre<br/>
-</td>
-<td align="center">Fécamp<br/>Rouen<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Fort-de-France<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Fos - Port-Saint-Louis<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">La Rochelle - Rochefort - Tonnay-Charente<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">La Rochelle<br/>
-</td>
-<td align="center">Rochefort - Tonnay-Charente<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le Lamentin<br/>
-</td>
-<td align="center">Aéroport<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le Légué - Saint-Malo<br/>
+<p align="left">Brest-Le Paludien<br/>
+</p>
 </td>
 <td align="center">Port<br/>
 </td>
@@ -187,67 +78,44 @@
 </td>
 </tr>
 <tr>
-<td align="center">Le Port<br/>
+<td align="center">
+<p align="left">Caen-Honfleur<br/>
+</p>
 </td>
 <td align="center">Port<br/>
 </td>
-<td align="center">Tous<br/>
-</td>
 <td align="center">
 <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le Raizet<br/>
-</td>
-<td align="center">Aéroport<br/>
 </td>
 <td align="center">Tous<br/>
 </td>
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
 </tr>
 <tr>
-<td align="center">Lyon - Saint-Exupéry<br/>
+<td>Châteauroux-Déols</td>
+<td>
+<p align="center">Aéroport</p>
 </td>
-<td align="center">Aéroport<br/>
+<td>
+<p align="center">Tous</p>
 </td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
-<td align="center">Marseille port<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="left">Degrad-de-Cannes<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<p align="center">Port<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Marseille-Marignane<br/>
-</td>
-<td align="center">Aéroport<br/>
-</td>
-<td align="center">Tous<br/>
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -257,23 +125,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Nantes<br/>
+<td align="center">
+<p align="left">Dunkerque<br/>
+</p>
 </td>
-<td align="center">Aéroport-port<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Nantes Atlantique<br/>Montoir-de-Bretagne<br/>
-</td>
-<td align="center">Cheviré<br/>
-</td>
-<td align="center">Saint-Nazaire<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Nice Côte d'Azur<br/>
-</td>
-<td align="center">Aéroport<br/>
-</td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -283,11 +145,38 @@
 </td>
 </tr>
 <tr>
-<td align="center">Orly<br/>
+<td align="center">
+<p align="left">Fécamp-Le Havre-Rouen<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Le Havre<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Fécamp<br/>Rouen<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Fort-de-France<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Port<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -297,11 +186,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Pau<br/>
+<td align="center">
+<p align="left">Fos - Port-Saint-Louis<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -311,52 +206,38 @@
 </td>
 </tr>
 <tr>
-<td align="center">Perpignan - Port-Vendres<br/>
-</td>
-<td align="center">Aéroport-port-routier-rail<br/>
-</td>
-<td align="center">Perpignan<br/>
+<td align="center">
+<p align="left">La Rochelle - Rochefort - Tonnay-Charente<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-</td>
-<td align="center">Port-Vendres<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Pointe-à-Pitre<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
+<p align="center">Port<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<p align="center">La Rochelle<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Rochefort - Tonnay-Charente<br/>
+</p>
 </td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Rochambeau<br/>
-</td>
-<td align="center">Aéroport<br/>
-</td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="left">Le Lamentin<br/>
+</p>
 </td>
 <td align="center">
-<br/>
+<p align="center">Aéroport<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Roissy<br/>
-</td>
-<td align="center">Aéroport<br/>
-</td>
-<td align="center">Tous<br/>
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -366,11 +247,39 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rungis<br/>
+<td align="center">
+<p align="left">Le Légué - Saint-Malo<br/>
+</p>
 </td>
-<td align="center">Routier<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Le Port<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Port<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -380,11 +289,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Denis<br/>
+<td align="center">
+<p align="left">Le Raizet<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -394,11 +309,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Laurent-du-Maroni<br/>
+<td align="center">
+<p align="left">Lyon - Saint-Exupéry<br/>
+</p>
 </td>
-<td align="center">Port<br/>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -408,11 +329,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Pierre<br/>
+<td align="center">
+<p align="left">Marseille port<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -422,11 +349,17 @@
 </td>
 </tr>
 <tr>
-<td align="center">Toulouse-Blagnac<br/>
+<td align="center">
+<p align="left">Marseille-Marignane<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -436,11 +369,282 @@
 </td>
 </tr>
 <tr>
-<td align="center">Vatry<br/>
+<td align="center">
+<p align="left">Nantes<br/>
+</p>
 </td>
-<td align="center">Aéroport<br/>
+<td align="center">
+<p align="center">Aéroport-port<br/>
+</p>
 </td>
-<td align="center">Tous<br/>
+<td align="center">
+<p align="center">Nantes Atlantique<br/>Montoir-de-Bretagne<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Cheviré<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Saint-Nazaire<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Nice Côte d'Azur<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Orly<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Pau<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Perpignan - Port-Vendres<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport-port-routier-rail<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Perpignan<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Port-Vendres<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Pointe-à-Pitre<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Port<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Rochambeau<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Roissy<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Rungis<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Routier<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Saint-Denis<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Saint-Laurent-du-Maroni<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Port<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Saint-Pierre<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Toulouse-Blagnac<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Vatry<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Aéroport<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">Tous<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -451,3 +655,4 @@
 </tr>
 </tbody>
 </table>
+</div>
