@@ -2657,7 +2657,6 @@
 - [Arrêté du 28 juillet 2004 (MENF0401190A)](arrete-du-28-juillet-2004-menf0401190a)
 - [Arrêté du 28 juillet 2006 (JUSD0630096A)](arrete-du-28-juillet-2006-jusd0630096a)
 - [Arrêté du 28 juillet 2009 (DEFH0912845A)](arrete-du-28-juillet-2009-defh0912845a)
-- [Arrêté du 28 juillet 2009 (DEFH0917028A)](arrete-du-28-juillet-2009-defh0917028a)
 - [Arrêté du 28 juillet 2009 (DEVK0910630A)](arrete-du-28-juillet-2009-devk0910630a)
 - [Arrêté du 28 juillet 2009 (MENE0917779A)](arrete-du-28-juillet-2009-mene0917779a)
 - [Arrêté du 28 juillet 2009 (MENE0917832A)](arrete-du-28-juillet-2009-mene0917832a)
