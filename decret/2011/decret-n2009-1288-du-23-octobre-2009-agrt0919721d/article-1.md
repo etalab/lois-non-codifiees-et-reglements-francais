@@ -2,10 +2,8 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― "Saint-Véran" ;
+― " Saint-Véran " ;
 
-― "Viré-Clessé" ;
+― " Viré-Clessé " ;
 
-― "Bonnes-Mares" ;
-
-― "Saint-Aubin".
+― " Saint-Aubin ".
