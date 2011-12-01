@@ -1314,7 +1314,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien d'art de classe normale.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques. </p>
 </td>
 </tr>
 <tr>
@@ -1322,7 +1322,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien d'art de classe supérieure.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1330,7 +1330,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien d'art de classe exceptionnelle.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.</p>
 </td>
 </tr>
 <tr>
@@ -1338,7 +1338,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien des services culturels et des Bâtiments de France de classe normale.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques.</p>
 </td>
 </tr>
 <tr>
@@ -1346,7 +1346,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien des services culturels et des Bâtiments de France de classe supérieure.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1354,7 +1354,7 @@ Ministère de la culture et de la communication
 <p align="left">Technicien des services culturels et des Bâtiments de France de classe exceptionnelle.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.</p>
 </td>
 </tr>
 <tr>
@@ -1490,7 +1490,7 @@ Ministère de la culture et de la communication
 <p align="left">Secrétaire de documentation de la culture et de l'architecture de classe normale.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques.</p>
 </td>
 </tr>
 <tr>
@@ -1498,7 +1498,7 @@ Ministère de la culture et de la communication
 <p align="left">Secrétaire de documentation de la culture et de l'architecture de classe supérieure.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.</p>
 </td>
 </tr>
 <tr>
@@ -1506,7 +1506,7 @@ Ministère de la culture et de la communication
 <p align="left">Secrétaire de documentation de la culture et de l'architecture de classe exceptionnelle.</p>
 </td>
 <td valign="top" width="318">
-<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.</p>
+<p align="left">Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.</p>
 </td>
 </tr>
 <tr>

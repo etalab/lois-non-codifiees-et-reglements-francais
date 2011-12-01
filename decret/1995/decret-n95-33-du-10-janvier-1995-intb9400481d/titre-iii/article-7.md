@@ -1,3 +1,0 @@
-# Article 7
-
-Les candidats inscrits sur la liste d'aptitude prévue à l'article 4 ci-dessus et recrutés sur un emploi d'une des collectivités ou établissements publics mentionnés à l'article 2 de la loi du 26 janvier 1984 précitée sont nommés assistants de conservation stagiaires pour une durée d'un an par l'autorité territoriale investie du pouvoir de nomination. Au cours de leur stage, ils doivent suivre une formation, éventuellement discontinue, d'une durée totale de trois mois. Cette formation comprend des sessions théoriques d'une durée totale de deux mois et des stages pratiques d'une durée totale d'un mois accomplis en totalité ou en partie hors de la collectivité employeur.

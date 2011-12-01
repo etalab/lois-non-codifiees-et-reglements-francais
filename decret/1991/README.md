@@ -26,8 +26,6 @@
 - [Décret n°91-844 du 2 septembre 1991 (INTX9110225D)](decret-n91-844-du-2-septembre-1991-intx9110225d)
 - [Décret n°91-845 du 2 septembre 1991 (INTX9110226D)](decret-n91-845-du-2-septembre-1991-intx9110226d)
 - [Décret n°91-846 du 2 septembre 1991 (INTX9110227D)](decret-n91-846-du-2-septembre-1991-intx9110227d)
-- [Décret n°91-847 du 2 septembre 1991 (INTX9110228D)](decret-n91-847-du-2-septembre-1991-intx9110228d)
-- [Décret n°91-848 du 2 septembre 1991 (INTX9110229D)](decret-n91-848-du-2-septembre-1991-intx9110229d)
 - [Décret n°91-849 du 2 septembre 1991 (INTX9110230D)](decret-n91-849-du-2-septembre-1991-intx9110230d)
 - [Décret n°91-851 du 2 septembre 1991 (INTX9110232D)](decret-n91-851-du-2-septembre-1991-intx9110232d)
 - [Décret n°91-855 du 2 septembre 1991 (INTX9110236D)](decret-n91-855-du-2-septembre-1991-intx9110236d)
