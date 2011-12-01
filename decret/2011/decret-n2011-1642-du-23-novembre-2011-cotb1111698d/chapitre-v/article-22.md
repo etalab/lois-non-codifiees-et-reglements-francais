@@ -1,0 +1,7 @@
+# Article 22
+
+I. ― Les fonctionnaires inscrits sur une liste d'aptitude pour l'accès au cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques régi par le décret n° 95-33 du 10 janvier 1995 portant statut particulier du cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques, au titre de l'article 39 de la loi du 26 janvier 1984 susvisée, ont la possibilité d'être nommés dans le grade d'assistant de conservation du cadre d'emplois d'intégration.
+
+II. ― Les fonctionnaires inscrits sur une liste d'aptitude pour l'accès au cadre d'emplois des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques régi par le décret n° 91-847 du 2 septembre 1991 portant statut particulier du cadre d'emplois des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques, au titre de l'article 39 de la loi du 26 janvier 1984 précitée, ont la possibilité d'être nommés dans le grade d'assistant de conservation principal de 2e classe du cadre d'emplois d'intégration.
+
+III. ― Par dérogation aux dispositions du II, les fonctionnaires titulaires du grade d'assistant de conservation hors classe inscrits sur une liste d'aptitude pour l'accès au cadre d'emplois des assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques régi par le décret du 2 septembre 1991 précité ont la possibilité d'être nommés dans le grade d'assistant de conservation principal de 1re classe du cadre d'emplois d'intégration.

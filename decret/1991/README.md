@@ -636,6 +636,7 @@
 - [Décret n°91-619 du 28 juin 1991 (EQUC9100907D)](decret-n91-619-du-28-juin-1991-equc9100907d)
 - [Décret n°91-825 du 28 août 1991 (EQUS9100539D)](decret-n91-825-du-28-aout-1991-equs9100539d)
 - [Décret n°97-70 du 28 janvier 1997 (JUSF9650109D)](decret-n97-70-du-28-janvier-1997-jusf9650109d)
+- [Décret n°2011-1679 du 29 novembre 2011 (EFII1117287D)](decret-n2011-1679-du-29-novembre-2011-efii1117287d)
 - [Décret n°91-114 du 29 janvier 1991 (EQUC9100086D)](decret-n91-114-du-29-janvier-1991-equc9100086d)
 - [Décret n°91-1208 du 29 novembre 1991 (SANS9102383D)](decret-n91-1208-du-29-novembre-1991-sans9102383d)
 - [Décret n°91-1209 du 29 novembre 1991 (EQUL9100878D)](decret-n91-1209-du-29-novembre-1991-equl9100878d)
