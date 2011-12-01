@@ -2,12 +2,8 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― "Beaune" ;
+― " Beaune " ;
 
-― "Blagny" ;
+― " Chorey-lès-Beaune " ;
 
-― "Chorey-lès-Beaune" ;
-
-― "Côte de Beaune" ;
-
-― "Fixin".
+― " Fixin ".
