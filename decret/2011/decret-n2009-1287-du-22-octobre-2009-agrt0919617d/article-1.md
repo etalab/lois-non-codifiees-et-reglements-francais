@@ -2,14 +2,14 @@
 
 Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― "Auxey-Duresses" ;
+― " Auxey-Duresses " ;
 
-― "Chassagne-Montrachet" ;
+― " Chassagne-Montrachet " ;
 
-― "Bâtard-Montrachet", "Bienvenues-Bâtard-Montrachet" et "Criots-Bâtard-Montrachet" ;
+― " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " ;
 
-― "Nuits-Saint-Georges" ;
+― " Nuits-Saint-Georges " ;
 
-― "Savigny-lès-Beaune" ;
+― " Savigny-lès-Beaune " ;
 
-― "Santenay".
+― " Santenay ".
