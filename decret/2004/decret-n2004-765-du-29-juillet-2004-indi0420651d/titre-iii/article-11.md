@@ -1,257 +1,233 @@
 # Article 11
 
-Peuvent être promus au grade de collaborateur de second niveau de France Télécom, par la voie d'un concours professionnel, les collaborateurs de premier niveau de France Télécom ayant atteint au moins le 6e échelon dans leur grade à la date de clôture des listes de candidature.
+Peuvent être promus au grade de collaborateur de second niveau de France Télécom, par la voie d'un concours professionnel, les collaborateurs de premier niveau de France Télécom ayant atteint au moins le 4e échelon dans leur grade à la date de clôture des listes de candidature.
 
 Les collaborateurs de premier niveau nommés dans le grade de collaborateur de second niveau sont classés dans leur nouveau grade conformément au tableau ci-après :
 
+<div>
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">
-<strong>SITUATION ANCIENNE</strong>
-</p>
+<th>ANCIENNE SITUATION <br/>
+</th>
+<th colspan="2">
+<br/>SITUATION NOUVELLE <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Echelon <br/>
+</th>
+<th>
+<br/>Ancienneté conservée dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Collaborateur de premier niveau <br/>
 </td>
-<td align="left" colspan="2" valign="top">
-<p align="center">
-<strong>SITUATION NOUVELLE</strong>
-</p>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Collaborateur de second niveau <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<pre> </pre>
+<td align="center">
+<br/>19e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">Echelon</p>
+<td align="center">
+<br/>17e <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">Ancienneté d'échelon</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="center">
-<i>Collaborateur de premier niveau </i>
-</p>
-</td>
-<td align="left" valign="top">
-<pre> </pre>
-</td>
-<td align="left" valign="top">
-<p align="center">
-<i>Collaborateur de second niveau</i>
-</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">2e échelon exceptionnel</p>
+<td align="center">
+<br/>18e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">16e</p>
+<td align="center">
+<br/>17e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise majorée de 4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1er échelon exceptionnel</p>
-</td>
-<td align="left" valign="top">
-<p align="center">16e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
+<td align="center">
+<br/>Sans ancienneté <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">18e échelon :</p>
+<td align="center">
+<br/>17e échelon <br/>
 </td>
-<td align="left" valign="top">
-<pre> </pre>
+<td align="center">
+<br/>16e <br/>
 </td>
-<td align="left" valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">- à partir de 2 ans</p>
-</td>
-<td align="left" valign="top">
-<p align="center">15e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise diminuée de 2 ans dans la limite de 2 ans</p>
+<td align="center">
+<br/>2 fois l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">- avant 2 ans</p>
+<td align="center">
+<br/>16e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">14e</p>
+<td align="center">
+<br/>15e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">17e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">13e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">16e échelon</p>
+<td align="center">
+<br/>15e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">12e</p>
+<td align="center">
+<br/>13e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">15e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">11e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">14e échelon</p>
+<td align="center">
+<br/>14e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">10e</p>
+<td align="center">
+<br/>12e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">13e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">9e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise </p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">12e échelon</p>
+<td align="center">
+<br/>13e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">8e</p>
+<td align="center">
+<br/>11e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">3/2 de l'ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">11e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">7e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">3/2 de l'ancienneté acquise</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">10e échelon :</p>
+<td align="center">
+<br/>12e échelon <br/>
 </td>
-<td align="left" valign="top">
-<pre> </pre>
+<td align="center">
+<br/>10e <br/>
 </td>
-<td align="left" valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">- à partir de 2 ans</p>
-</td>
-<td align="left" valign="top">
-<p align="center">6e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise diminuée de 2 ans</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">- avant 2 ans</p>
+<td align="center">
+<br/>11e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">5e</p>
+<td align="center">
+<br/>9e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">1/2 de l'ancienneté acquise</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">9e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">4e</p>
-</td>
-<td align="left" valign="top">
-<p align="left">1/3 de l'ancienneté acquise </p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">8e échelon</p>
+<td align="center">
+<br/>10e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">3e</p>
+<td align="center">
+<br/>8e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">1/2 de l'ancienneté acquise </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">7e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">2e </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">6e échelon</p>
+<td align="center">
+<br/>9e échelon <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">1er </p>
+<td align="center">
+<br/>7e <br/>
 </td>
-<td align="left" valign="top">
-<p align="left">Ancienneté acquise</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e échelon : <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- à partir de 2 ans <br/>
+</td>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà de 2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>- avant 2 ans <br/>
+</td>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>1/2 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>1/3 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>1/2 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise</td>
 </tr>
 </tbody>
 </table>
+</div>

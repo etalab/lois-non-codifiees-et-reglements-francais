@@ -2,129 +2,136 @@
 
 La durée du temps passé dans chacun des échelons des grades du corps régi par le présent décret, pour accéder à l'échelon supérieur, est fixée ainsi qu'il suit :
 
+<div>
+<br/>
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<strong>GRADES ET ECHELONS</strong>
-</p>
+<th>GRADES ET ÉCHELONS <br/>
+</th>
+<th>
+<br/>DURÉE <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Agent de maîtrise <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">
-<strong>DUREE</strong>
-</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Agent de maîtrise</i>
-</p>
+<td align="center">
+<br/>13e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>4 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">11e échelon</p>
+<td align="center">
+<br/>12e et 11e échelons <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">10e, 9e, 8e, 7e, 6e, 5e et 4e échelons</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e,2e et 1er échelons</p>
+<td align="center">
+<br/>10e, 9e, 8e, 7e, 6e, 5e et 4e échelons <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Collaborateur de second niveau</i>
-</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">15e, 14e, 13e, 12e, 11e, 10e et 9e échelons</p>
+<td align="center">
+<br/>3e, 2e et 1er échelons <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">8e et 7e echelons</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>1 an <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e,5e, 4e, 3e, 2e et 1er échelons</p>
+<td align="center">
+<br/>Collaborateur de second niveau <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">
-<i>Collaborateur de premier niveau</i>
-</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">17e, 16e , 15e, 14e, 13e, 12e et 11e échelons</p>
+<td align="center">
+<br/>16e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">10e et 9e echelons</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>4 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">8e échelon</p>
+<td align="center">
+<br/>15e, 14e, 13e, 12e, 11e, 10e, 9e, 8e et 7e échelons <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">7e, 6e,5e ,4e ,3e, 2e et 1er échelons</p>
+<td align="center">
+<br/>6e, 5e, 4e, 3e, 2e et 1er échelons <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>1 an <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Collaborateur de premier niveau <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>18e échelon <br/>
+</td>
+<td align="center">
+<br/>4 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>17e, 16e, 15e, 14e, 13e, 12e, 11e, 10e et 9e échelons <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8e et 7e échelons <br/>
+</td>
+<td align="center">
+<br/>3 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e, 4e, 3e, 2e et 1er échelons <br/>
+</td>
+<td align="center">
+<br/>1 an </td>
 </tr>
 </tbody>
 </table>
+</div>
