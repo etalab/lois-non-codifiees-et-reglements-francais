@@ -6,4 +6,6 @@ La restriction de l'utilisation de cadmium dans les piles et accumulateurs porta
 
 ― équipements médicaux ;
 
-― outils électriques sans fil.
+― outils électriques sans fil ;
+
+On entend par outil électrique sans fil tout appareil portatif alimenté par une pile ou un accumulateur et destiné à des activités d'entretien, de construction ou de jardinage.
