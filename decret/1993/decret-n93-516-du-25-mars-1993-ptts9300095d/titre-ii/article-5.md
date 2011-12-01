@@ -1,3 +1,0 @@
-# Article 5
-
-Les techniciens supérieurs de La Poste et les cadres d'exploitation de France Télécom sont recrutés par la voie d'un concours externe ouvert aux candidats âgés de moins de quarante ans à la date de clôture des listes de candidatures, titulaires d'un diplôme sanctionnant deux années d'études supérieures ou de l'un des titres ou diplômes équivalents, figurant sur une liste fixée par décision du président du conseil d'administration de l'exploitant public concerné, dans le respect des dispositions prises, le cas échéant, par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé des postes et télécommunications.
