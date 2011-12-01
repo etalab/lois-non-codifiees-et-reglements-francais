@@ -674,7 +674,6 @@
 - [Décret n°90-1220 du 31 décembre 1990 (ECOT9023061D)](decret-n90-1220-du-31-decembre-1990-ecot9023061d)
 - [Décret n°90-1222 du 31 décembre 1990 (AGRS9002076D)](decret-n90-1222-du-31-decembre-1990-agrs9002076d)
 - [Décret n°90-1224 du 31 décembre 1990 (PTTA9000989D)](decret-n90-1224-du-31-decembre-1990-ptta9000989d)
-- [Décret n°90-1225 du 31 décembre 1990 (PTTA9000993D)](decret-n90-1225-du-31-decembre-1990-ptta9000993d)
 - [Décret n°90-1230 du 31 décembre 1990 (PTTA9001008D)](decret-n90-1230-du-31-decembre-1990-ptta9001008d)
 - [Décret n°90-1232 du 31 décembre 1990 (PTTA9001012D)](decret-n90-1232-du-31-decembre-1990-ptta9001012d)
 - [Décret n°90-1234 du 31 décembre 1990 (PTTA9001014D)](decret-n90-1234-du-31-decembre-1990-ptta9001014d)
