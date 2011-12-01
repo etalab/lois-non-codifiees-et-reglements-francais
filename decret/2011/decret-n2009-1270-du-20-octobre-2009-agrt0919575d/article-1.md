@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Maranges " ;
 
-― " Meursault " ;
-
 ― " Monthélie " ;
 
 ― " Pernand-Vergelesses ".
