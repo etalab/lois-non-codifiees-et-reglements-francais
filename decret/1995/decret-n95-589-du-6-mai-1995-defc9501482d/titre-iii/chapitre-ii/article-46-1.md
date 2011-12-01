@@ -1,8 +1,8 @@
 # Article 46-1
 
-1° L'acquisition et la détention par des personnes âgées de dix-huit ans au moins des armes d'épaule, éléments d'arme et munitions des 5e et 7e catégories non soumis à déclaration et 8e catégorie ainsi que des armes de 6e catégorie sont libres.
+1° L'acquisition et la détention par des personnes âgées de dix-huit ans au moins des armes d'épaule, éléments d'arme et munitions de la 7e catégorie non soumis à déclaration et 8e catégorie ainsi que des armes de 6e catégorie sont libres.
 
-2° L'acquisition et la détention par des personnes âgées de dix-huit ans au moins des armes et éléments d'arme de la 5e et de la 7e catégorie soumis à déclaration s'effectuent dans les conditions prévues aux articles 46-2 à 48 et 69.
+2° L'acquisition et la détention par des personnes âgées de dix-huit ans au moins des armes et éléments d'arme de la 5e catégorie et du I de la 7e catégorie s'effectuent dans les conditions prévues aux articles 46-2 à 48 et 69.
 
 3° L'acquisition par des mineurs des armes ou éléments d'arme des 5e, 7e et 8e catégories, des armes de la 6e catégorie ainsi que des munitions et éléments de munition des 5e, 7e et 8e catégories est interdite.
 

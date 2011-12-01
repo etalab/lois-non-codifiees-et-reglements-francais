@@ -1,4 +1,4 @@
-# Chapitre II : Déclaration d'acquisition et de détention.
+# Chapitre II : Procédures d'enregistrement et de déclaration d'acquisition et de détention.
 
 - [Article 46](article-46.md)
 - [Article 46-1](article-46-1.md)

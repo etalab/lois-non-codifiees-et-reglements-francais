@@ -4,11 +4,13 @@ I. - Sous réserve des dispositions concernant les mineurs et les munitions expa
 
 Ces armes et éléments d'arme ne peuvent être acquis auprès des personnes qui se livrent au commerce des armes ou de toute autre personne que sur remise dudit récépissé.
 
-Le vendeur, après avoir complété les deux exemplaires du récépissé, en remet un à l'acquéreur et adresse l'autre à la préfecture du lieu d'acquisition ; si le vendeur est un particulier, la préfecture lui délivre un récépissé de sa déclaration de vente.    II. - Sous réserve des dispositions concernant les mineurs et les munitions expansives et leurs projectiles visés à l'article 81 ci-dessus, un résident d'un autre Etat membre peut acquérir librement les armes, munitions et leurs éléments suivants :
+Le vendeur, après avoir complété les deux exemplaires du récépissé, en remet un à l'acquéreur et adresse l'autre à la préfecture du lieu d'acquisition ; si le vendeur est un particulier, la préfecture lui délivre un récépissé de sa déclaration de vente.
 
-- les armes et les éléments d'arme non soumis à déclaration de la 5e et de la 7e catégorie ;
+II. - Sous réserve des dispositions concernant les mineurs et les munitions expansives et leurs projectiles visés à l'article 81 ci-dessus, un résident d'un autre Etat membre peut acquérir librement les armes, munitions et leurs éléments suivants :
 
-- les munitions classées en 5e ou 7e catégorie destinées aux armes du II de la 4e catégorie, des paragraphes 3 et 4 de la 7e catégorie, des paragraphes 1 et 3 de la 8e catégorie ;
+- Les armes et éléments d'arme du II de la 7e catégorie ;
+
+- les munitions classées en 5e ou 7e catégorie destinées aux armes du II de la 4e catégorie, du paragraphe 3 de la 7e catégorie, des paragraphes 1 et 3 de la 8e catégorie ;
 
 - les amorces destinées aux munitions des armes visées au présent article ;
 

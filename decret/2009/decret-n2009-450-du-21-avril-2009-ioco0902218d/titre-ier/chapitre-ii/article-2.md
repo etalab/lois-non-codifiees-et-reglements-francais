@@ -130,7 +130,7 @@ Paragraphe 3 : armes de signalisation dont les caractéristiques sont fixées pa
 
 III. - Paragraphe 1 : Armes à impulsions électriques permettant de provoquer un choc électrique à distance par la projection de dards ou par tout autre procédé.
 
-Paragraphe 2 : Armes à impulsions électriques de contact permettant de provoquer un choc électrique à bout touchant, classées dans cette catégorie par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
+Paragraphe 2 : Armes à impulsions électriques de contact permettant de provoquer un choc électrique à bout touchant, classées dans cette catégorie en raison de leur dangerosité, par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
 
 IV. - Paragraphe 1 : chargeurs des armes de 4e catégorie. Le régime applicable à ces chargeurs est fixé par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports.
 
@@ -157,6 +157,8 @@ II. - Munitions, éléments de munition (douilles amorcées, douilles chargées,
 Paragraphe 1 : tous objets susceptibles de constituer une arme dangereuse pour la sécurité publique, et notamment les baïonnettes, sabres-baïonnettes, poignards, couteaux-poignards, matraques, casse-tête, cannes à épées, cannes plombées et ferrées, sauf celles qui ne sont ferrées qu'à un bout, arbalètes, fléaux japonais, étoiles de jets, coups de poing américains, lance-pierres de compétition, projecteurs hypodermiques.
 
 Paragraphe 2 : générateurs d'aérosols incapacitants ou lacrymogènes classés dans cette catégorie par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
+
+Paragraphe 3 : Armes à impulsions électriques de contact autres que celles classées en 4e catégorie.
 
 7e catégorie : armes de tir, de foire ou de salon et leurs munitions :
 
