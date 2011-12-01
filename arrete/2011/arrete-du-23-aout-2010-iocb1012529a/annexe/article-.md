@@ -79,6 +79,7 @@ En application de la réglementation funéraire, seules les prestations suivante
 <td colspan="3" valign="top" width="58"/>
 <td valign="top" width="159">
 <p>• Soins de conservation</p>
+<p>• Retrait d'une prothèse fonctionnant au moyen d'une pile</p>
 <p>• Toilette mortuaire : préparation et habillage du défunt</p>
 </td>
 <td valign="top" width="29"/>
@@ -376,7 +377,6 @@ En application de la réglementation funéraire, seules les prestations suivante
 <td valign="top" width="29"/>
 <td valign="top" width="181"/>
 <td valign="top" width="29"/>
-<td colspan="2" valign="top" width="33"/>
 </tr>
 </tbody>
 </table>
