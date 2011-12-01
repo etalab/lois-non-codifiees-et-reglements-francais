@@ -1,9 +1,7 @@
 # Article 12
 
-Les fonctionnaires de catégorie C, ou appartenant à un corps d'un niveau équivalent, titulaires d'un grade dont l'indice de début est au moins égal à l'indice afférent au premier échelon de l'un des grades du corps régi par le présent décret peuvent être détachés dans l'un de ces grades.
+Les fonctionnaires placés en position de détachement dans le corps régi par le présent décret sont soumis aux dispositions du titre II du décret n° 85-986 du 16 septembre 1985 modifié relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions.
 
-Le détachement est prononcé à équivalence de grade et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans le grade ou emploi d'origine.
+Les fonctionnaires détachés depuis au moins un an dans le corps régi par le présent décret peuvent, sur leur demande, y être intégrés.
 
-Les intéressés conservent, dans la limite de la durée fixée à l'article 8, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade ou emploi lorsque le gain indiciaire résultant du détachement est inférieur à celui que leur aurait procuré un avancement d'échelon dans leur situation d'origine.
-
-Pendant leur détachement, les intéressés concourent pour l'avancement d'échelon et de grade avec les fonctionnaires du corps régi par le présent décret. Pour l'avancement au grade d'agent professionnel qualifié de second niveau, ils doivent remplir dans le grade d'agent professionnel qualifié de premier niveau la condition exigée pour se présenter au concours professionnel prévu à l'article 9.
+Les services accomplis dans leur corps ou cadre d'emplois d'origine sont assimilés à des services accomplis dans leur corps d'intégration.
