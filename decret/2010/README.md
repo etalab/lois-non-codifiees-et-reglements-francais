@@ -471,7 +471,6 @@
 - [Décret n°2010-814 du 13 juillet 2010 (DEVT1002688D)](decret-n2010-814-du-13-juillet-2010-devt1002688d)
 - [Décret n°2010-815 du 13 juillet 2010 (AGRS0919484D)](decret-n2010-815-du-13-juillet-2010-agrs0919484d)
 - [Décret n°2010-816 du 13 juillet 2010 (AGRS1010355D)](decret-n2010-816-du-13-juillet-2010-agrs1010355d)
-- [Décret n°68-47 du 13 janvier 1968](decret-n68-47-du-13-janvier-1968)
 - [Décret n°2008-346 du 14 avril 2008 (MTSC0807917D)](decret-n2008-346-du-14-avril-2008-mtsc0807917d)
 - [Décret n°2009-1561 du 14 décembre 2009 (ECET0916881D)](decret-n2009-1561-du-14-decembre-2009-ecet0916881d)
 - [Décret n°2010-1080 du 14 septembre 2010 (MCCB1008886D)](decret-n2010-1080-du-14-septembre-2010-mccb1008886d)

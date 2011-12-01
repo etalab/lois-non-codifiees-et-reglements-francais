@@ -4,7 +4,7 @@ Les chambres de métiers et de l'artisanat de région adoptent, sur proposition 
 
 Le règlement intérieur prévoit notamment la création des cinq commissions suivantes, dont il fixe les règles d'organisation et de fonctionnement :
 
-La commission des affaires générales, chargée notamment des questions relatives au fonctionnement et à l'organisation de la chambre de métiers et de l'artisanat de région de région ;
+La commission des affaires générales, chargée notamment des questions relatives au fonctionnement et à l'organisation de la chambre de métiers et de l'artisanat de région ;
 
 La commission de prévention des conflits d'intérêts chargée notamment d'examiner et de donner un avis sur toute situation susceptible de créer un conflit d'intérêts entre la chambre et l'un de ses membres ;
 
@@ -14,7 +14,7 @@ La commission du développement économique et territorial, chargée notamment d
 
 La commission de la formation professionnelle, chargée de l'étude de toutes les questions d'apprentissage et de perfectionnement professionnel ;
 
-Les chambres de métiers et de l'artisanat de région départementales peuvent créer une commission du développement économique et territorial et une commission de la formation professionnelle. Ces commissions se prononcent sur les questions qui relèvent de leurs compétences dans le cadre des orientations fixées par la chambre de métiers et de l'artisanat de région de région à laquelle elles sont rattachées.
+Les chambres de métiers et de l'artisanat départementales peuvent créer une commission du développement économique et territorial et une commission de la formation professionnelle. Ces commissions se prononcent sur les questions qui relèvent de leurs compétences dans le cadre des orientations fixées par la chambre de métiers et de l'artisanat de région à laquelle elles sont rattachées.
 
 Les membres des commissions sont désignés par l'assemblée générale.
 
