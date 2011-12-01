@@ -245,7 +245,6 @@
 - [Décret n°92-938 du 7 septembre 1992 (PTTS9200380D)](decret-n92-938-du-7-septembre-1992-ptts9200380d)
 - [Décret n°92-939 du 7 septembre 1992 (PTTS9200381D)](decret-n92-939-du-7-septembre-1992-ptts9200381d)
 - [Décret n°92-941 du 7 septembre 1992 (PTTS9200383D)](decret-n92-941-du-7-septembre-1992-ptts9200383d)
-- [Décret n°92-942 du 7 septembre 1992 (PTTS9200384D)](decret-n92-942-du-7-septembre-1992-ptts9200384d)
 - [Décret n°92-943 du 7 septembre 1992 (PTTS9200385D)](decret-n92-943-du-7-septembre-1992-ptts9200385d)
 - [Décret n°92-944 du 7 septembre 1992 (PTTS9200386D)](decret-n92-944-du-7-septembre-1992-ptts9200386d)
 - [Décret n°92-945 du 7 septembre 1992 (PTTS9200387D)](decret-n92-945-du-7-septembre-1992-ptts9200387d)
