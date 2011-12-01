@@ -10,6 +10,8 @@ La sous-direction du conseil juridique et du contentieux comprend :
 
 - le bureau de la fonction publique et de la protection juridique des fonctionnaires ;
 
-- le bureau de la responsabilité de l'administration, de l'assurance et des affaires financières ;
+- le bureau du contentieux indemnitaire et des affaires financières ;
 
-- le bureau du suivi des contentieux déconcentrés, de la veille et de la qualité juridiques, auquel est attaché le centre de documentation juridique.
+- le bureau du contentieux des étrangers ;
+
+- le bureau du contentieux de la sécurité routière.
