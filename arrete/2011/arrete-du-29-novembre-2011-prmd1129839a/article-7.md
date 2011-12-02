@@ -1,0 +1,3 @@
+# Article 7
+
+La mise en œuvre des traitements mentionnés à l'article 1er par les ministères est subordonnée à l'envoi préalable à la Commission nationale de l'informatique et des libertés, en application des dispositions du IV de l'article 26 de la loi du 6 janvier 1978 susvisée, d'un engagement de conformité aux dispositions du présent arrêté, qui précise la dénomination du traitement concerné, le lieu exact d'implantation du traitement, la désignation du service gestionnaire, les mesures prises pour assurer la sécurité des données ainsi que le service compétent pour traiter des demandes de droit d'accès.
