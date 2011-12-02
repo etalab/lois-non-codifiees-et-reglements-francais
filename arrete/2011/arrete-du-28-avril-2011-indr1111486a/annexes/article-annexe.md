@@ -6,7 +6,7 @@ société anonyme
 
 et
 
-[...]
+(...)
 
 MODÈLE D'ACCORD-CADRE POUR L'ACCÈS RÉGULÉ À L'ÉLECTRICITÉ NUCLÉAIRE HISTORIQUE
 
@@ -124,7 +124,7 @@ Entre :
 
 et
 
-2. [...], (ci-après l'" Acheteur ").
+2. (...), (ci-après l'" Acheteur ").
 
 ci-après dénommées individuellement ou ensemble une Partie ou les Parties .
 
@@ -364,6 +364,8 @@ Si, faute d'avoir régularisé sa situation dans le délai de quatre (4) Jours o
 
 La cessation intervient le treizième (13e) jour ouvré du mois suivant la constatation du défaut de paiement.
 
+Dans le cas où l'acheteur régularise sa situation auprès de la CDC, agissant au nom et pour le compte d'EDF, la CDC informe dans les deux (2) jours ouvrés la CRE. La CRE notifie dans les deux (2) jours ouvrés à RTE, au vendeur et à l'acheteur la reprise de la livraison. Le rétablissement de la cession des produits au titre de l'ARENH reprend le sixième (6e) jour ouvré suivant la date d'envoi de la notification de la CRE.
+
 A compter de la deuxième (2e) cessation de transfert d'électricité au titre de l'ARENH pour défaut de paiement, l'Acheteur ne peut à nouveau bénéficier de la cession de produits au titre de l'ARENH qu'après une durée d'un an à compter de la date de cette cessation et à la condition que la régularisation du défaut de paiement ait été effectuée.
 
 9. Garantie
@@ -374,13 +376,11 @@ A compter de chaque Notification de cession annuelle d'électricité, une Garant
 
 La Garantie annuelle mentionnée au premier alinéa du présent article peut être constituée au maximum de deux garanties.
 
-La Garantie doit parvenir à la CDC dix (10) jours avant le début de livraison de la Cession annuelle d'électricité.
+La Garantie doit parvenir à la CDC douze (12) jours avant le début de livraison de la Cession annuelle d'électricité.
 
 Pendant toute la durée du présent Accord-cadre, l'acheteur s'engage à respecter ce dispositif de Garantie et à s'assurer que son Garant, ou le cas échéant ses garants, bénéficie(nt) d'une notation de crédit agréée.
 
-Les montants de garantie sont calculés par la CRE et notifiés à l'Acheteur lors de la Notification de la cession annuelle d'électricité conformément à l'article 4.2. du présent Accord-cadre. Par exception aux articles 6 et 7 du présent Accord-cadre, la Garantie doit s'entendre en euros et toutes taxes comprises.
-
-En cas de non-constitution de la Garantie selon les modalités et les délais définis au présent article, la Cession annuelle d'électricité ne sera pas effectuée.
+Les montants de garantie sont calculés par la CRE et notifiés à l'Acheteur lors de la Notification de la cession annuelle d'électricité conformément à l'article 4.2. du présent Accord-cadre. En cas de non-constitution de la Garantie selon les modalités et les délais définis au présent article, la Cession annuelle d'électricité ne sera pas effectuée.
 
 En cas d'Evénement affectant la Garantie, la CDC, agissant au nom et pour le compte d'EDF, exigera de l'Acheteur, après notification, qu'il lui fournisse, dans les cinq (5) Jours ouvrés suivant ladite notification, une Garantie conforme aux obligations stipulées au présent article.
 
@@ -392,7 +392,7 @@ Dans tous les cas de suspension du présent Accord-cadre, l'obligation de l'Ache
 
 9.2. Modalités relatives à la mise en œuvre de la Garantie de défaut de paiement
 
-Aux fins de garantie du paiement des Factures mensuelles de chaque Notification de cession annuelle d'électricité, et de tout montant dû à EDF en vertu du présent Accord-cadre, l'Acheteur s'engage à remettre à la CDC agissant au nom et pour le compte d'EDF, ou à maintenir en vigueur, au plus tard dix (10) jours avant le début de livraison de la Cession annuelle d'électricité une Garantie :
+Aux fins de garantie du paiement des Factures mensuelles de chaque Notification de cession annuelle d'électricité, et de tout montant dû à EDF en vertu du présent Accord-cadre, l'Acheteur s'engage à remettre à la CDC agissant au nom et pour le compte d'EDF, ou à maintenir en vigueur, au plus tard douze (12) jours avant le début de livraison de la Cession annuelle d'électricité une Garantie :
 
 - éventuellement constituée de deux Garanties ;
 
@@ -400,7 +400,7 @@ Aux fins de garantie du paiement des Factures mensuelles de chaque Notification 
 
 - qui pourra être appelée par la CDC au nom et pour le compte d'EDF, en cas de non paiement des Factures mensuelles et des factures relatives au Complément de prix et de tout autre montant dû au titre du présent Accord-cadre ;
 
-- pour un montant de Garantie correspondant à deux (2) fois le volume mensuel d'électricité le plus élevé de la Notification de cession annuelle d'électricité valorisé au prix de l'ARENH en vigueur.
+- pour un montant de Garantie correspondant à une fois et demie (1,5) le volume mensuel d'électricité moyen de la Notification de cession annuelle d'électricité valorisé au prix de l'ARENH en vigueur.
 
 En cas de non-paiement par l'Acheteur dans les délais prévus par le Décret et par le présent Accord-cadre, la CDC, agissant au nom et pour le compte d'EDF, appelle, à la demande de la CRE, la Garantie (pour les montants impayés dans les dix (10) jours qui suivent cette demande.
 
@@ -510,11 +510,11 @@ Pour toute notification ou communication adressée à la CDC, les Parties utilis
 
 [adresse]
 
-A l'attention de : [*]
+A l'attention de : (*)
 
-Numéro de téléphone : [*]
+Numéro de téléphone : (*)
 
-Numéro de télécopie : [*]
+Numéro de télécopie : (*)
 
 16.2. Réception
 
