@@ -1996,7 +1996,6 @@
 - [Arrêté du 21 juin 2010 (MENE1016359A)](arrete-du-21-juin-2010-mene1016359a)
 - [Arrêté du 21 juin 2010 (MENE1016377A)](arrete-du-21-juin-2010-mene1016377a)
 - [Arrêté du 21 juin 2010 (PRMX1016174A)](arrete-du-21-juin-2010-prmx1016174a)
-- [Arrêté du 21 juin 2010 (PRMX1016234A)](arrete-du-21-juin-2010-prmx1016234a)
 - [Arrêté du 21 juin 2010 (PRMX1016304A)](arrete-du-21-juin-2010-prmx1016304a)
 - [Arrêté du 21 juin 2010 (SASH1016591A)](arrete-du-21-juin-2010-sash1016591a)
 - [Arrêté du 21 octobre 2010 (BCRE1028293A)](arrete-du-21-octobre-2010-bcre1028293a)
