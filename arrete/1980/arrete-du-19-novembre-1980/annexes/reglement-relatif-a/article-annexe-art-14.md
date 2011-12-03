@@ -1,5 +1,0 @@
-# Article Annexe art. 14
-
-A titre transitoire et par dérogation aux dispositions de l'article 5, les chirurgiens-dentistes possédant des connaissances particulières en orthopédie dento-faciale mais qui ne sont titulaires ni du certificat d'études cliniques spéciales, mention Orthodontie, ni d'un titre, diplôme ou certificat de chirurgien-dentiste spécialiste en orthopédie dento-faciale délivré à l'étranger peuvent déposer une demande de qualification dans les trois mois suivant l'entrée en vigueur de la présente modification du règlement de qualification. Ces demandes qui ne sont pas renouvelables seront transmises à la Commission nationale de première instance et instruites selon la procédure prévue aux articles 6 à 11 du présent règlement de qualification.
-
-Les praticiens qui ne sont titulaires d'aucun des titres mentionnés à l'article 5 mais qui ont déposé une demande de qualification antérieurement à l'entrée en vigueur de la présente modification pourront présenter, dans un délai maximum de six ans à compter de l'entrée en vigueur de la présente modification une nouvelle demande, qui ne pourra pas être renouvelée.

@@ -1,5 +1,0 @@
-# Article Annexe art. 2
-
-Est considéré comme chirurgien-dentiste spécialiste qualifié en orthopédie dento-faciale [*définition*], sous réserve d'être inscrit sur la liste tenue par le conseil départemental de l'ordre des chirurgiens-dentistes, tout chirurgien-dentiste titulaire soit du certificat d'études cliniques spéciales mention Orthodontie, soit d'un titre, diplôme ou certificat délivré conformément aux obligations communautaires par un Etat membre des communautés européennes et mentionné aux articles 12 et 13 du présent règlement. Peuvent également être prises en considération, dans les conditions prévues aux articles 5 à 11 du présent règlement, les connaissances particulières et compétences professionnelles des praticiens titulaires d'un diplôme, certificat ou titre de chirurgien-dentiste spécialiste en orthopédie dento-faciale délivré par un pays n'appartenant pas aux communautés européennes.
-
-Le chirurgien-dentiste spécialiste qualifié en orthopédie dentofaciale exerce exclusivement cette discipline et il ne peut faire état sur sa plaque, sur ses feuilles d'ordonnance ou dans un annuaire que de cette discipline.

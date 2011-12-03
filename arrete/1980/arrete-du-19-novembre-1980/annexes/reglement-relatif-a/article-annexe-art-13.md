@@ -1,3 +1,0 @@
-# Article Annexe art. 13
-
-Lorsqu'un chirurgien-dentiste présente un diplôme, certificat ou autre titre de chirurgien-dentiste spécialiste délivré par un Etat membre des communautés européennes mentionné à l'article 12 ci-dessus qui ne répond pas aux dénominations visées dans cet article, il doit produire devant le conseil départemental un certificat délivré par les autorités compétentes du pays de délivrance attestant que ce diplôme, certificat ou autre titre de chirurgien-dentiste spécialiste sanctionne une formation conforme aux obligations communautaires et assimilée par l'Etat membre qui l'a délivré à ceux dont les dénominations figurent à l'article 12 du présent règlement.

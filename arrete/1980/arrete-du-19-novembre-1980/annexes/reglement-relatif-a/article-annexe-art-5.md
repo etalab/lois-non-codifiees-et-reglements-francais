@@ -1,5 +1,0 @@
-# Article Annexe art. 5
-
-Peuvent solliciter la qualification les praticiens inscrits au tableau de l'ordre titulaires soit du certificat d'études cliniques spéciales mention Orthodontie, soit d'un titre, diplôme ou certificat délivré par un Etat membre des communautés européennes et visé aux articles 12, 13 ou 13 bis ci-après, soit d'un autre titre, diplôme ou certificat de chirurgien-dentiste spécialiste en orthopédie dento-faciale délivré par un Etat ne faisant pas partie des communautés européennes.
-
-Les demandes de qualification sont adressées par les intéressés au conseil départemental de l'ordre accompagnées de l'engagement de ne se livrer qu'à l'exercice de l'orthopédie dento-faciale. Le candidat doit faire figurer toutes pièces justificatives à l'appui de sa demande. Les demandes qui ne sont pas assorties soit du certificat d'études cliniques spéciales mention Orthodontie, soit d'un diplôme, titre ou certificat visé aux articles 12 ou 13 ci-après sont transmises à la Commission nationale de première instance par le conseil départemental de l'ordre. Les conclusions de cette commission sont adressées au conseil départemental de l'ordre intéressé.
