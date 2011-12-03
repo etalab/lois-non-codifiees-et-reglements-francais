@@ -4,6 +4,6 @@ Des concessions dispensées du paiement de la redevance sont délivrées aux org
 
 Ces concessions sont délivrées à titre précaire et révocable pour une durée de dix ans renouvelable.
 
-Les articles 7 à 12, 18 à 28 ne leurs sont pas applicables.
+Les articles 7 à 12,18 à 28 ne leurs sont pas applicables.
 
-Les concessions mentionnées au deuxième alinéa de l'article 11, accordées aux sections régionales de la conchyliculture dans le but de favoriser le réaménagement des zones de cultures marines ou l'installation de jeunes exploitants, sont accordées dans les mêmes conditions. Toutefois, leur durée est limitée à cinq ans, renouvelable une fois.
+Les concessions mentionnées au deuxième alinéa de l'article 11, accordées aux comités régionaux de la conchyliculture dans le but de favoriser le réaménagement des zones de cultures marines ou l'installation de jeunes exploitants, sont accordées dans les mêmes conditions. Toutefois, leur durée est limitée à cinq ans, renouvelable une fois.

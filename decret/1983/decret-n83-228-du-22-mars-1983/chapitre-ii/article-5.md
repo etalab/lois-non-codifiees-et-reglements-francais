@@ -12,4 +12,4 @@ Ce schéma définit les priorités selon lesquelles les objectifs de la politiqu
 
 4° Favoriser l'agrandissement des exploitations n'atteignant pas la dimension minimale de référence ;
 
-5° Favoriser le réaménagement de zones de cultures marines et l'installation de jeunes exploitants, notamment par la mise en réserve de surfaces concédées aux sections régionales de la conchyliculture.
+5° Favoriser le réaménagement de zones de cultures marines et l'installation de jeunes exploitants, notamment par la mise en réserve de surfaces concédées aux    comités régionaux de la conchyliculture.

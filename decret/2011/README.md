@@ -167,6 +167,7 @@
 - [Décret n°2011-1497 du 9 novembre 2011 (AGRT1118180D)](decret-n2011-1497-du-9-novembre-2011-agrt1118180d)
 - [Décret n°2011-1498 du 9 novembre 2011 (AGRT1110111D)](decret-n2011-1498-du-9-novembre-2011-agrt1110111d)
 - [Décret n°2011-1502 du 9 novembre 2011 (DEVL1025049D)](decret-n2011-1502-du-9-novembre-2011-devl1025049d)
+- [Décret n°92-986 du 9 septembre 1992 (MERP9200023D)](decret-n92-986-du-9-septembre-1992-merp9200023d)
 - [Décret n°2011-1257 du 10 octobre 2011 (DEVL1114005D)](decret-n2011-1257-du-10-octobre-2011-devl1114005d)
 - [Décret n°2011-1264 du 10 octobre 2011 (IOCJ1111737D)](decret-n2011-1264-du-10-octobre-2011-iocj1111737d)
 - [Décret n°2011-1267 du 10 octobre 2011 (EFIE1101844D)](decret-n2011-1267-du-10-octobre-2011-efie1101844d)
