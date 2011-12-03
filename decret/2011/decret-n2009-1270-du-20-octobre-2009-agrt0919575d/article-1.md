@@ -4,8 +4,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Irancy " ;
 
-― " Maranges " ;
-
 ― " Monthélie " ;
 
 ― " Pernand-Vergelesses ".
