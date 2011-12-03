@@ -340,6 +340,7 @@
 - [Arrêté du 6 décembre 2010 (DEVA1031166A)](arrete-du-6-decembre-2010-deva1031166a)
 - [Arrêté du 6 décembre 2010 (ETSD1031155A)](arrete-du-6-decembre-2010-etsd1031155a)
 - [Arrêté du 6 décembre 2010 (ETSS1031279A)](arrete-du-6-decembre-2010-etss1031279a)
+- [Arrêté du 6 février 1992 (MERP9200029A)](arrete-du-6-fevrier-1992-merp9200029a)
 - [Arrêté du 6 février 2013 (ESRF1243534A)](arrete-du-6-fevrier-2013-esrf1243534a)
 - [Arrêté du 6 février 2013 (ESRF1243543A)](arrete-du-6-fevrier-2013-esrf1243543a)
 - [Arrêté du 6 février 2013 (ESRF1243563A)](arrete-du-6-fevrier-2013-esrf1243563a)
