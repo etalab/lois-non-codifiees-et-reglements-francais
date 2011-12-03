@@ -1,0 +1,3 @@
+# Article 1
+
+Le référentiel pour l'activité « distribution de produits phytopharmaceutiques à des utilisateurs non professionnels », annexé au présent arrêté, fait partie des référentiels mentionnés à l'article R. 254-3 du code rural et de la pêche maritime. Il est à destination de toute entreprise demandant une certification définie au 2° du I de l'article L. 254-2 du code rural et de la pêche maritime permettant la délivrance d'un agrément pour l'exercice des activités de mise en vente, vente ou distribution à titre gratuit de produits phytopharmaceutiques définis à l'article L. 253-1 dont l'autorisation comporte la mention « emploi autorisé dans les jardins », tel que précisé à l'article R. 254-20 du code rural et de la pêche maritime.

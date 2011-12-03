@@ -1,0 +1,3 @@
+# Article 1
+
+Le référentiel pour l'activité « application en prestation de service de produits phytopharmaceutiques », annexé au présent arrêté, fait partie des référentiels mentionnés à l'article R. 254-3. Il est à destination de toute entreprise demandant une certification définie au 2° du I de l'article L. 254-2 du code rural et de la pêche maritime permettant la délivrance d'un agrément pour l'exercice des activités d'application, en qualité de prestataire de services, des produits phytopharmaceutiques définis à l'article L. 253-1, sauf si elle est effectuée dans le cadre de contrats d'entraide à titre gratuit au sens de l'article L. 325-1.
