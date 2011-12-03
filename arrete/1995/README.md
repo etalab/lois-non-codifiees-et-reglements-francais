@@ -66,7 +66,6 @@
 - [Arrêté du 3 août 1995 (SANP9502416A)](arrete-du-3-aout-1995-sanp9502416a)
 - [Arrêté du 3 août 1995 (SANP9502438A)](arrete-du-3-aout-1995-sanp9502438a)
 - [Arrêté du 3 août 1995 (SANP9502439A)](arrete-du-3-aout-1995-sanp9502439a)
-- [Arrêté du 3 avril 1995 (AGRM9500885A)](arrete-du-3-avril-1995-agrm9500885a)
 - [Arrêté du 3 avril 1995 (ECOS9550008A)](arrete-du-3-avril-1995-ecos9550008a)
 - [Arrêté du 3 avril 1995 (ECOS9550009A)](arrete-du-3-avril-1995-ecos9550009a)
 - [Arrêté du 3 avril 1995 (EQUS9500695A)](arrete-du-3-avril-1995-equs9500695a)

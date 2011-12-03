@@ -293,7 +293,6 @@
 - [Décret n°92-983 du 9 septembre 1992 (JUSB9210032D)](decret-n92-983-du-9-septembre-1992-jusb9210032d)
 - [Décret n°92-984 du 9 septembre 1992 (JUSC9220666D)](decret-n92-984-du-9-septembre-1992-jusc9220666d)
 - [Décret n°92-985 du 9 septembre 1992 (ECOC9200051D)](decret-n92-985-du-9-septembre-1992-ecoc9200051d)
-- [Décret n°92-986 du 9 septembre 1992 (MERP9200023D)](decret-n92-986-du-9-septembre-1992-merp9200023d)
 - [Décret n°93-309 du 9 mars 1993 (BUDF9200038D)](decret-n93-309-du-9-mars-1993-budf9200038d)
 - [Décret n°93-355 du 9 mars 1993 (FPPA9200048D)](decret-n93-355-du-9-mars-1993-fppa9200048d)
 - [Décret n°88-699 du 9 mai 1988 (MCCB8800299D)](decret-n88-699-du-9-mai-1988-mccb8800299d)

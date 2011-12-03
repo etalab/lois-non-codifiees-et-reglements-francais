@@ -2920,7 +2920,6 @@
 - [Arrêté du 30 octobre 2009 (SASP0925601A)](arrete-du-30-octobre-2009-sasp0925601a)
 - [Arrêté du 30 octobre 2009 (SASV0925551A)](arrete-du-30-octobre-2009-sasv0925551a)
 - [Arrêté du 30 septembre 2009 (AGRG0922547A)](arrete-du-30-septembre-2009-agrg0922547a)
-- [Arrêté du 30 septembre 2009 (AGRM0921439A)](arrete-du-30-septembre-2009-agrm0921439a)
 - [Arrêté du 30 septembre 2009 (DEVK0922950A)](arrete-du-30-septembre-2009-devk0922950a)
 - [Arrêté du 30 septembre 2009 (ESRS0922899A)](arrete-du-30-septembre-2009-esrs0922899a)
 - [Arrêté du 30 septembre 2009 (IOCO0922854A)](arrete-du-30-septembre-2009-ioco0922854a)
