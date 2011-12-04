@@ -1,0 +1,3 @@
+# Article 1
+
+En application des articles L. 1333-1 et R. 1333-4 du code de la santé publique, une dérogation à l'interdiction d'addition intentionnelle de radionucléides dans les produits de construction est accordée à la société Lafarge pour l'analyse qualitative et quantitative des matériaux naturels constitutifs du cru cimentier par un procédé utilisant l'interrogation neutronique dans le cadre de la fabrication du ciment et dans les conditions fixées par le présent arrêté. Cette dérogation est valable pour les trois sites de Saint-Pierre-la-Cour (Mayenne), La Couronne (Charente), Port-la-Nouvelle (Aude).
