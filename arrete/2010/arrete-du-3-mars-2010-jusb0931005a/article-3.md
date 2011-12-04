@@ -1,3 +1,3 @@
 # Article 3
 
-Le nombre total de points attribués à chaque magistrat au titre de la prime pour travaux supplémentaires prévue à l'article 1er du décret du 26 décembre 2003 susvisé ne peut excéder 5.
+La prime spécifique prévue à l'article 1er du décret du 26 décembre 2003 susvisé est attribuée par décision du chef de cour dont relèvent les magistrats ou, pour les chefs de cour, par décision du garde des sceaux, ministre de la justice. Son montant maximal est de 500 euros par mois.
