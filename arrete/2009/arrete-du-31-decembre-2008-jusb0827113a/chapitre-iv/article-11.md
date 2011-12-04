@@ -6,6 +6,6 @@ Ils doivent justifier de leur identité.
 
 Dans le cas où leur convocation ne leur parviendrait pas au moins quarante-huit heures avant le début des épreuves, il leur appartient de se mettre sans délai en rapport avec le responsable du centre dont ils relèvent.
 
-Les procureurs généraux ou les autorités chargées de l'organisation des centres de concours peuvent admettre à participer aux épreuves d'admissibilité, sous réserve, des candidats qui prétendent n'avoir pas été portés sur la liste de leur centre à la suite d'une erreur matérielle, mention particulière en est faite sur le procès-verbal.
+Les procureurs généraux près les cours d'appel ou les procureurs de la République près les tribunaux supérieurs d'appel dont le ressort comporte un ou plusieurs centres d'épreuves ou les autorités chargées de l'organisation des centres de concours peuvent admettre à participer aux épreuves d'admissibilité, sous réserve, des candidats qui prétendent n'avoir pas été portés sur la liste de leur centre à la suite d'une erreur matérielle, mention particulière en est faite sur le procès-verbal.
 
 Quel que soit le motif de son retard, aucun candidat ne peut être admis dans la salle après la lecture du sujet ou la distribution des documents servant le cas échéant de base aux épreuves.
