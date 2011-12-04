@@ -6,7 +6,7 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Chassagne-Montrachet " ;
 
-― " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " ;
+― " Bienvenues- Bâtard-Montrachet " ;
 
 ― " Nuits-Saint-Georges " ;
 
