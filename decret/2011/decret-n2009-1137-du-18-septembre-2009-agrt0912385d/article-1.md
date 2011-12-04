@@ -6,6 +6,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 " Côtes de Bourg ", " Bourg " et " Bourgeais " ;
 
-" Graves " et " Graves Supérieures " ;
-
-" Cérons ".
+" Graves " et " Graves Supérieures ".
