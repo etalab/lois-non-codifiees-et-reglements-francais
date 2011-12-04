@@ -18,4 +18,10 @@ Les titres sécurisés pour lesquels l'Agence nationale des titres sécurisés e
 
 8° Le titre de voyage délivré aux réfugiés et aux apatrides titulaires d'une carte de résident ou d'une carte de séjour ;
 
-9° La carte professionnelle des agents de l'Etat.
+9° La carte professionnelle des agents de l'Etat ;
+
+10° Le permis de conduire les bateaux de plaisance à moteur ;
+
+11° Le permis de conduire ;
+
+12° La carte nationale d'identité.
