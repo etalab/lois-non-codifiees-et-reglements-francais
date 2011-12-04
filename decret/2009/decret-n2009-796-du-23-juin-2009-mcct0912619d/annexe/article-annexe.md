@@ -232,9 +232,13 @@ La programmation de France 3 assure une information nationale, régionale et loc
 
 France 4 renforce son engagement en faveur de l'innovation et de la création par la mise à l'antenne de nouveaux formats. France 4 a également vocation à prendre les risques nécessaires aux avancées éditoriales de la société ;
 
-4° France 5 : chaîne du décryptage, du partage des savoirs et de la transmission des connaissances. Ses programmes contribuent à la découverte et à la compréhension du monde, en s'attachant tout particulièrement aux registres des sciences et techniques, des sciences humaines, de l'environnement et du développement durable.
+4° France 5 : chaîne du décryptage, du partage des savoirs et de la transmission des connaissances. Ses programmes contribuent à la découverte et à la compréhension du monde, en s'attachant tout particulièrement aux registres des sciences et techniques, des sciences humaines, de l'environnement et du développement durable ;
 
 France 5 valorise l'accessibilité de ses contenus pédagogiques et de connaissances par tout moyen de communication électronique et développe la coopération avec les milieux éducatifs ;
+
+4° bis Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
+
+Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
 5° Réseau France outre-mer désigne un ensemble de services de télévision et de radio, diffusés en outre-mer et sur le territoire métropolitain.
 
@@ -242,7 +246,7 @@ Réseau France outre-mer assure également la continuité territoriale des progr
 
 Les Télé Pays et Radio Pays sont des services régionaux généralistes qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
 
-Chaîne de la mixité et de la diversité culturelle, France Ô offre une vitrine de choix à toutes les composantes qui participent de l'identité de la communauté nationale, en particulier aux populations ultra-marines.L'accent est notamment porté sur les magazines, le débat citoyen et les spectacles vivants.
+Chaîne de la mixité et de la diversité culturelle, France Ô offre une vitrine de choix à toutes les composantes qui participent de l'identité de la communauté nationale, en particulier aux populations ultra-marines. L'accent est notamment porté sur les magazines, le débat citoyen et les spectacles vivants.
 
 A travers la programmation de Réseau France outre-mer, France Télévisions diffuse quotidiennement sur les services destinés aux populations d'outre-mer des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Elle programme des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs caractéristiques économiques et sociales. Les sujets et émissions produits pour être diffusés sur ces services peuvent être diffusés sur les autres services qu'elle édite.
 
@@ -360,7 +364,7 @@ Article 9
 
 La création audiovisuelle et cinématographique
 
-I. ― France Télévisions doit être l'un des premiers investisseurs dans la création audiovisuelle et cinématographique d'expression originale française.L'effort doit porter sur l'adaptation du patrimoine littéraire français, l'illustration de l'histoire nationale et européenne, l'exploration et le suivi des mouvements de la société contemporaine.
+I. ― France Télévisions doit être l'un des premiers investisseurs dans la création audiovisuelle et cinématographique d'expression originale française. L'effort doit porter sur l'adaptation du patrimoine littéraire français, l'illustration de l'histoire nationale et européenne, l'exploration et le suivi des mouvements de la société contemporaine.
 
 La société contribue au renouvellement des genres et à la diversité des formats : promotion de nouvelles écritures et de nouveaux talents, thèmes adaptés en permanence pour être en phase avec l'évolution de la société.
 
@@ -368,13 +372,13 @@ Le contrat d'objectifs et de moyens conclu entre l'Etat et France Télévisions 
 
 La société peut par ailleurs nouer des accords spécifiques avec les organisations professionnelles du secteur de la création audiovisuelle et cinématographique.
 
-II. ― Pour l'application des dispositions du titre Ier du décret n° 2001-609 du 9 juillet 2001, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun des services France 2 et France 3 à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3, 4 % en 2009 et 3, 5 % à compter de 2010 et respecte les dispositions de l'arrêté du 28 novembre 2008 pris pour l'application du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires de France 2 et France 3 est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
+II. ― Pour l'application des dispositions du chapitre Ier du titre Ier du décret n° 2010-747 du 2 juillet 2010, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun des services France 2 et France 3 à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,4 % en 2009 et 3,5 % à compter de 2010 et respecte les dispositions de l'arrêté du 28 novembre 2008 pris pour l'application du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires de France 2 et France 3 est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
 
-Les dépenses mentionnées au 3° de l'article 4 du décret n° 2001-609 du 9 juillet 2001 sont prises en compte pour le calcul de l'obligation résultant de l'article 3 du même décret jusqu'à 0, 2 % du chiffre d'affaires annuel net de l'exercice précédent.
+Les dépenses mentionnées au 4° de l'article 4 du décret n° 2010-747 du 2 juillet 2010 sont prises en compte pour le calcul de l'obligation résultant de l'article 3 du même décret jusqu'à 0,2 % du chiffre d'affaires annuel net de l'exercice précédent.
 
 III. ― Sur ses services nationaux, France Télévisions doit aller au-delà des obligations légales pour que 70 % des œuvres audiovisuelles qu'elle diffuse soient d'origine européenne dont 50 % d'œuvres audiovisuelles d'expression originale française. Cette obligation doit être respectée entre 18 heures et 23 heures, ainsi que le mercredi, le samedi et le dimanche entre 14 heures et 18 heures.
 
-Sur chacun des services, le temps de diffusion consacré aux œuvres audiovisuelles européennes ne pourra pas être inférieur à 60 %, et le temps de diffusion consacré aux œuvres audiovisuelles d'expression originale française ne pourra pas être inférieur à 40 %.S'agissant des services destinés à l'outre-mer, ces proportions pourront être revues et adaptées à l'occasion de l'arrivée de la télévision numérique outre-mer.
+Sur chacun des services, le temps de diffusion consacré aux œuvres audiovisuelles européennes ne pourra pas être inférieur à 60 %, et le temps de diffusion consacré aux œuvres audiovisuelles d'expression originale française ne pourra pas être inférieur à 40 %. S'agissant des services destinés à l'outre-mer, ces proportions pourront être revues et adaptées à l'occasion de l'arrivée de la télévision numérique outre-mer.
 
 Sur chacun de ces services France 2, France 3 et France 5, France Télévisions diffuse annuellement un volume minimum de 120 heures d'œuvres audiovisuelles européennes ou d'expression originale française n'ayant pas été précédemment diffusées sur ces services et dont la diffusion débute entre 20 heures et 21 heures. Pour France 5 toutefois, ce volume minimum est fixé à 80 heures en 2009 et 100 heures en 2010. Ce volume peut également comporter jusqu'à 20 % de rediffusions.
 
@@ -382,9 +386,9 @@ La société veille à diversifier sur ses services de télévision les horaires
 
 IV. ― France Télévisions consacre chaque année une part de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
 
-Cette contribution est au moins égale à 18, 5 % en 2009, 19 % en 2010, 19, 5 % en 2011 et 20 % à compter de 2012.
+Cette contribution est au moins égale à 18,5 % en 2009,19 % en 2010,19,5 % en 2011 et 20 % à compter de 2012.
 
-Elle est intégralement réalisée dans des œuvres patrimoniales au sens du cinquième alinéa de l'article 8 du décret n° 2001-609 du 9 juillet 2001 et indépendantes au sens de l'article 11 du même décret. Toutefois, dans la limite de 5 % de son montant, la contribution peut être réalisée avec des entreprises qui ne sont pas indépendantes au sens de l'article 11 du décret précité. Les dépenses prises en compte sont celles mentionnées aux 1° à 6° de l'article 9 du décret n° 2001-609 du 9 juillet 2001.
+Elle est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 et indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010. Toutefois, dans la limite de 5 % de son montant, la contribution peut être réalisée avec des entreprises qui ne sont pas indépendantes au sens de l'article 15 du décret précité. Les dépenses prises en compte sont celles mentionnées aux 1° à 6° de l'article 12 du même décret.
 
 Elle porte globalement sur le chiffre d'affaires réalisé par les services suivants :
 
@@ -434,7 +438,7 @@ La société accorde une attention particulière aux programmes destinés aux en
 
 Dans le cadre de la charte visant à promouvoir une alimentation et une activité physique favorable à la santé dans les programmes et les publicités diffusées à la télévision dont elle est signataire, la programmation de la société assure la promotion de comportements nutritionnels équilibrés et la pratique d'activités physiques régulières afin de prévenir l'obésité infantile et le surpoids.
 
-II. ― France Télévisions doit renforcer sa place de premier investisseur dans les programmes jeunesse en France pour pouvoir offrir un large choix de programmes pour tous les âges.A ce titre, la société réalise un effort particulier dans le domaine de la production originale d'émissions pour la jeunesse et s'efforce de promouvoir la production d'animation d'expression originale française conformément aux accords particuliers sur l'animation qu'elle a conclus avec les représentants des professionnels.
+II. ― France Télévisions doit renforcer sa place de premier investisseur dans les programmes jeunesse en France pour pouvoir offrir un large choix de programmes pour tous les âges. A ce titre, la société réalise un effort particulier dans le domaine de la production originale d'émissions pour la jeunesse et s'efforce de promouvoir la production d'animation d'expression originale française conformément aux accords particuliers sur l'animation qu'elle a conclus avec les représentants des professionnels.
 
 Article 14
 
@@ -544,7 +548,7 @@ Les services de médias audiovisuels à la demande
 
 France Télévisions conçoit et met à disposition des services de médias audiovisuels à la demande notamment afin d'assurer l'exposition de contenus de complément ou des contenus spécifiques conformes aux missions de service public confiées à France Télévisions. Ces services s'efforcent de garantir une exposition et un accès à l'ensemble des genres de programmes : fiction, séries, animation, documentaires, spectacle vivant, magazines, information, sport, programmes religieux, divertissement, programmes culturels, etc.
 
-France Télévisions propose en particulier une offre de télévision de rattrapage permettant une nouvelle mise à disposition auprès du public des programmes diffusés sur ses services de télévision.A compter de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur l'ensemble du territoire métropolitain, l'ensemble des programmes diffusés sur les services de télévision de France Télévisions sont disponibles gratuitement pendant une période minimale de sept jours à compter de leur première diffusion à l'antenne, à l'exception des œuvres cinématographiques et, le cas échéant, des programmes sportifs.
+France Télévisions propose en particulier une offre de télévision de rattrapage permettant une nouvelle mise à disposition auprès du public des programmes diffusés sur ses services de télévision. A compter de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur l'ensemble du territoire métropolitain, l'ensemble des programmes diffusés sur les services de télévision de France Télévisions sont disponibles gratuitement pendant une période minimale de sept jours à compter de leur première diffusion à l'antenne, à l'exception des œuvres cinématographiques et, le cas échéant, des programmes sportifs.
 
 Article 23
 
@@ -686,7 +690,7 @@ Le recours aux procédés permettant de recueillir des images et des sons à l'i
 
 Dans les émissions d'information, la société s'interdit de recourir à des procédés technologiques permettant de modifier le sens et le contenu des images. Dans les autres émissions, le public est averti de l'usage de ces procédés lorsque leur utilisation peut prêter à confusion.
 
-La société fait preuve de rigueur dans la présentation et le traitement de l'information. Elle vérifie le bien-fondé et les sources de l'information.L'information incertaine est présentée au conditionnel.
+La société fait preuve de rigueur dans la présentation et le traitement de l'information. Elle vérifie le bien-fondé et les sources de l'information. L'information incertaine est présentée au conditionnel.
 
 Elle veille à l'adéquation entre le contexte dans lequel des images ont été recueillies et le sujet qu'elles viennent illustrer. Toute utilisation d'images d'archives est annoncée par une incrustation à l'écran, éventuellement répétée. Si nécessaire, mention est faite de l'origine des images.
 
@@ -710,7 +714,7 @@ La dignité de la personne humaine et la protection des mineurs
 
 France Télévisions veille au respect de la personne humaine et de sa dignité. Elle contribue, à travers ses programmes et son traitement de l'information et des problèmes de société, à la lutte contre les discriminations et les exclusions de toutes sortes.
 
-La société s'abstient de diffuser des programmes susceptibles de nuire à l'épanouissement physique, mental ou moral des mineurs.A ce titre, la société s'abstient de diffuser des programmes comprenant des scènes de pornographie et de montrer, notamment dans les journaux télévisés, de la complaisance pour la violence.
+La société s'abstient de diffuser des programmes susceptibles de nuire à l'épanouissement physique, mental ou moral des mineurs. A ce titre, la société s'abstient de diffuser des programmes comprenant des scènes de pornographie et de montrer, notamment dans les journaux télévisés, de la complaisance pour la violence.
 
 Elle met en œuvre, pour l'ensemble de son offre de programmes, le dispositif relatif à la protection du jeune public, notamment la classification des programmes et la signalétique, défini en accord avec le Conseil supérieur de l'audiovisuel.
 
@@ -724,7 +728,7 @@ La lutte contre les discriminations et la représentation de la diversité à l'
 
 France Télévisions prend en compte, dans la représentation à l'antenne, la diversité des origines et des cultures de la communauté nationale.
 
-Elle veille à ce que ses programmes donnent une image la plus impartiale possible de la société française dans toute sa diversité. Elle accorde également une attention particulière au traitement par les programmes qu'elle offre des différentes composantes de la population.A cet égard, elle contribue à la visibilité des populations et cultures ultramarines sur l'ensemble de ses services notamment par la présence de programmes de fictions et de documentaires relatifs à l'outre-mer.
+Elle veille à ce que ses programmes donnent une image la plus impartiale possible de la société française dans toute sa diversité. Elle accorde également une attention particulière au traitement par les programmes qu'elle offre des différentes composantes de la population. A cet égard, elle contribue à la visibilité des populations et cultures ultramarines sur l'ensemble de ses services notamment par la présence de programmes de fictions et de documentaires relatifs à l'outre-mer.
 
 De façon générale, elle promeut les valeurs d'une culture et d'un civisme partagés.
 
@@ -894,7 +898,7 @@ France Télévisions diffuse à une heure d'écoute appropriée des émissions d
 
 Les émissions diffusées sur chacun des services nationaux de la société sont produites par l'Institut national de la consommation et font l'objet d'une convention pluriannuelle avec celui-ci qui détermine notamment les conditions de diffusion de ces émissions et leur horaire de programmation ainsi que les conditions de remboursement par l'Institut national de la consommation des frais exposés par la société pour leur diffusion. Leur durée est fixée par convention.
 
-En outre, elle diffuse, dans les programmes régionaux et sur les réseaux d'émetteurs correspondants, des émissions réalisées par les centres techniques régionaux de la consommation, dont la durée hebdomadaire ne peut être inférieure à deux minutes en moyenne sur l'année. Une convention pluriannuelle est conclue entre la société et le ministre chargé de la consommation pour déterminer les conditions de production et de financement de ces émissions, ainsi que leur horaire de programmation et leur durée. Les frais exposés par la société pour la programmation et la diffusion de ces émissions et, le cas échéant, pour leur production sont pris en charge par le ministre chargé de la consommation lorsque ces programmes sont destinés à être diffusés en outre-mer.
+En outre, elle diffuse, dans les programmes régionaux et sur les réseaux d'émetteurs correspondants, des émissions réalisées par les centres techniques régionaux de la consommation, dont la durée hebdomadaire ne peut être inférieure à deux minutes en moyenne sur l'année. Une convention pluriannuelle est conclue entre la société et l'Institut national de la consommation pour déterminer les conditions de production et de financement de ces émissions, ainsi que leur horaire de programmation et leur durée. Les frais exposés par la société pour la programmation et la diffusion de ces émissions et, le cas échéant, pour leur production sont pris en charge par l'Institut national de la consommation.
 
 Chapitre III
 
@@ -932,7 +936,7 @@ France Télévisions est autorisée à faire parrainer les émissions de ses ser
 
 Les journaux, les émissions d'informations et les rubriques qui leur sont intégrées ainsi que les chroniques d'opinion ne peuvent être parrainés, à l'exception des émissions consacrées au sport et des émissions de services telles que météo, jardinage, bourse, etc.
 
-Les émissions parrainées doivent être clairement annoncées en tant que telles et le parrain doit être identifié dès le début de l'émission.L'identification du parrain peut s'effectuer par la citation de son nom, de sa dénomination ou de la raison sociale, de ses marques, de son secteur d'activité, ainsi que par la référence aux signes distinctifs qui lui sont habituellement associés. La mention du parrain peut apparaître dans les bandes-annonces dans la mesure où elle reste ponctuelle et discrète.
+Les émissions parrainées doivent être clairement annoncées en tant que telles et le parrain doit être identifié dès le début de l'émission. L'identification du parrain peut s'effectuer par la citation de son nom, de sa dénomination ou de la raison sociale, de ses marques, de son secteur d'activité, ainsi que par la référence aux signes distinctifs qui lui sont habituellement associés. La mention du parrain peut apparaître dans les bandes-annonces dans la mesure où elle reste ponctuelle et discrète.
 
 Lorsque le parrainage concerne une émission ou chronique comportant des jeux ou concours, les produits ou services du parrain peuvent être remis aux participants.
 
@@ -1040,7 +1044,7 @@ Le contrôle du respect des dispositions du cahier des charges
 
 La société adresse chaque année, avant le 30 avril, au ministre chargé de la communication et au Conseil supérieur de l'audiovisuel un rapport sur l'exécution du présent cahier des charges par chacun de ses services.
 
-La société communique au Conseil supérieur de l'audiovisuel toutes les informations que ce dernier juge nécessaires pour s'assurer qu'elle respecte ses obligations légales et réglementaires ainsi que celles résultant du présent cahier des charges.A cette fin, la société conserve trois mois au moins un enregistrement des émissions qu'elle diffuse ainsi que les conducteurs de programmes correspondants.
+La société communique au Conseil supérieur de l'audiovisuel toutes les informations que ce dernier juge nécessaires pour s'assurer qu'elle respecte ses obligations légales et réglementaires ainsi que celles résultant du présent cahier des charges. A cette fin, la société conserve trois mois au moins un enregistrement des émissions qu'elle diffuse ainsi que les conducteurs de programmes correspondants.
 
 Annexe : étendue des droits cédés par genre d'œuvre
 
@@ -1389,7 +1393,7 @@ Annexe : étendue des droits cédés par genre d'œuvre
 <p>36 mois </p>
 </td>
 <td valign="top" width="136">
-<p>48 mois (fenêtre de 6 mois après la 2e <sup/>diffusion) </p>
+<p>48 mois (fenêtre de 6 mois après la 2e diffusion) </p>
 </td>
 <td valign="top" width="136">
 <p>36 mois </p>
