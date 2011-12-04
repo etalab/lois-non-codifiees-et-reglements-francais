@@ -544,7 +544,6 @@
 - [Arrêté du 17 décembre 2008 (DEVP0827976A)](arrete-du-17-decembre-2008-devp0827976a)
 - [Arrêté du 17 décembre 2008 (IOCC0826677A)](arrete-du-17-decembre-2008-iocc0826677a)
 - [Arrêté du 17 décembre 2008 (SJSS0829606A)](arrete-du-17-decembre-2008-sjss0829606a)
-- [Arrêté du 17 janvier 1995 (SPSH9500298A)](arrete-du-17-janvier-1995-spsh9500298a)
 - [Arrêté du 17 juillet 2008 (AGRG0817815A)](arrete-du-17-juillet-2008-agrg0817815a)
 - [Arrêté du 17 juillet 2008 (AGRG0818894A)](arrete-du-17-juillet-2008-agrg0818894a)
 - [Arrêté du 17 juillet 2008 (BCFD0805825A)](arrete-du-17-juillet-2008-bcfd0805825a)
