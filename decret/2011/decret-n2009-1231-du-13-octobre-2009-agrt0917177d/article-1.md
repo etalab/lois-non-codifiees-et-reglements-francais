@@ -6,6 +6,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Muscat de Frontignan " ou " Frontignan " ou " Vin de Frontignan " ;
 
-― " Muscat de Beaumes-de-Venise " ;
-
 ― " Banyuls grand cru ".
