@@ -1113,7 +1113,6 @@
 - [Décret n°2009-1711 du 29 décembre 2009 (IOCB0915182D)](decret-n2009-1711-du-29-decembre-2009-iocb0915182d)
 - [Décret n°2009-1743 du 29 décembre 2009 (BCFS0920873D)](decret-n2009-1743-du-29-decembre-2009-bcfs0920873d)
 - [Décret n°2009-1758 du 29 décembre 2009 (SASS0927678D)](decret-n2009-1758-du-29-decembre-2009-sass0927678d)
-- [Décret n°2009-1766 du 29 décembre 2009 (AGRT0924635D)](decret-n2009-1766-du-29-decembre-2009-agrt0924635d)
 - [Décret n°2009-1773 du 29 décembre 2009 (MCCB0923146D)](decret-n2009-1773-du-29-decembre-2009-mccb0923146d)
 - [Décret n°2010-106 du 29 janvier 2010 (IOCA0931836D)](decret-n2010-106-du-29-janvier-2010-ioca0931836d)
 - [Décret n°2010-107 du 29 janvier 2010 (SASP0921994D)](decret-n2010-107-du-29-janvier-2010-sasp0921994d)
