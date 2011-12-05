@@ -1,5 +1,7 @@
 # Article 1
 
-Est homologué le cahier des charge annexé au présent décret de l'appellation d'origine contrôlée suivante :
+Sont homologués les cahiers des charges annexés au présent décret des appellations d'origine contrôlées suivantes :
 
-― Grand Roussillon.
+― Grand Roussillon ;
+
+― Muscat de Rivesaltes.
