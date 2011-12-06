@@ -2,30 +2,30 @@
 
 OBLIGATIONS DE SERVICE PUBLIC IMPOSÉES SUR LES SERVICES AÉRIENS RÉGULIERS ENTRE STRASBOURG ET COPENHAGUE
 
-A compter du 28 mars 2010, les obligations de service public sont les suivantes :
+A compter du 6 décembre 2011, les obligations de service public sont les suivantes :
 
-En termes de fréquences
+En termes de fréquences :
 
-Les services doivent être exploités sans changement d'appareil entre Strasbourg et Copenhague à raison, au minimum, d'un aller et retour par jour, du lundi au vendredi, toute l'année.
+Les services doivent être exploités à raison, au minimum, d'un aller-retour par jour, du lundi au vendredi, toute l'année, à l'exception des jours fériés (sauf si ces jours se situent lors des sessions strasbourgeoises du Parlement européen), d'une période de cinq semaines contiguës lors des vacances scolaires d'été et d'une semaine lors des vacances scolaires de fin d'année.
 
-En termes de catégories d'appareils utilisés
+Les services doivent être exploités sans changement d'appareil entre Strasbourg et Copenhague.
 
-et de capacité offerte
+En termes de catégories d'appareils utilisés et de capacité offerte :
 
-Les services doivent être assurés avec un appareil d'au moins trente-cinq sièges.
+Les services doivent être assurés avec un appareil d'au moins vingt-cinq sièges.
 
-En termes d'horaires
+En termes d'horaires :
 
-Les horaires doivent être adaptés aux horaires des sessions du Parlement européen, soit une arrivée à Strasbourg au plus proche de 14 heures, sans excéder cet horaire, pour un début des sessions à 15 heures, et un départ de Strasbourg au plus proche de 17 heures, heure de fin des sessions, sans anticiper cet horaire.
+Les lundis des semaines de session où le Parlement européen siège à Strasbourg, l'arrivée à Strasbourg doit avoir lieu avant 14 heures (heure locale) et avant le début de la session. Les jeudis des semaines de session où le Parlement européen siège à Strasbourg, le départ de Strasbourg doit avoir lieu après 17 heures (heure locale) et après la fin de la session.
 
-Les horaires doivent permettre des correspondances performantes avec des vols en provenance et à destination d'autres Etats européens.
+Les horaires doivent permettre des correspondances avec les vols en provenance et à destination de Scandinavie, pendant les semaines où le Parlement européen siège à Strasbourg.
 
-En termes de politique commerciale
+En termes de politique commerciale :
 
 Les vols doivent être commercialisés par au moins un système informatisé de réservation.
 
-En termes de continuité de service public
+En termes de continuité de service public :
 
-Sauf cas de force majeure, le nombre de vols annulés pour des raisons directement imputables au transporteur ne doit pas excéder, par an, 2 % du nombre de vols prévus. De plus, les services ne peuvent être interrompus par le transporteur qu'après un préavis minimal de six mois.
+Sauf cas de force majeure, le nombre de vols annulés pour des raisons directement imputables au transporteur ne doit pas excéder, par an, 3 % du nombre de vols prévus. De plus, les services ne peuvent être interrompus par le transporteur qu'après un préavis minimal de six mois.
 
-Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ou juridictionnelles.
+Les transporteurs communautaires sont informés qu'une exploitation en méconnaissance des obligations de service public peut entraîner des sanctions administratives et/ ou juridictionnelles.
