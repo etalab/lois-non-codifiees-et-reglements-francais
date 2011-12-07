@@ -1210,7 +1210,6 @@
 - [Décret n°2009-1340 du 29 octobre 2009 (MCCT0923415D)](decret-n2009-1340-du-29-octobre-2009-mcct0923415d)
 - [Décret n°2009-1341 du 29 octobre 2009 (DEVP0908338D)](decret-n2009-1341-du-29-octobre-2009-devp0908338d)
 - [Décret n°2009-1342 du 29 octobre 2009 (DEVE0918804D)](decret-n2009-1342-du-29-octobre-2009-deve0918804d)
-- [Décret n°2009-1343 du 29 octobre 2009 (AGRT0920021D)](decret-n2009-1343-du-29-octobre-2009-agrt0920021d)
 - [Décret n°2009-1345 du 29 octobre 2009 (AGRT0921845D)](decret-n2009-1345-du-29-octobre-2009-agrt0921845d)
 - [Décret n°2009-1347 du 29 octobre 2009 (IOCE0923229D)](decret-n2009-1347-du-29-octobre-2009-ioce0923229d)
 - [Décret n°2009-1348 du 29 octobre 2009 (ESRR0914957D)](decret-n2009-1348-du-29-octobre-2009-esrr0914957d)
