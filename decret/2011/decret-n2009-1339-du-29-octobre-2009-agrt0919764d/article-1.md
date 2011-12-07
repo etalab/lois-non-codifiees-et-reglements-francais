@@ -4,8 +4,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― " Corbières " ;
 
-― " Corbières-Boutenac " ;
-
-― " Faugères " ;
-
-― " Minervois-La Livinière ".
+― " Faugères ".
