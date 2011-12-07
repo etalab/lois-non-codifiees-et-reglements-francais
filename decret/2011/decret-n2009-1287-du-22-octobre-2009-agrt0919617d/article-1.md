@@ -4,12 +4,6 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Auxey-Duresses " ;
 
-― " Chassagne-Montrachet " ;
-
 ― " Bienvenues- Bâtard-Montrachet " ;
 
-― " Nuits-Saint-Georges " ;
-
-― " Savigny-lès-Beaune " ;
-
-― " Santenay ".
+― " Savigny-lès-Beaune ".
