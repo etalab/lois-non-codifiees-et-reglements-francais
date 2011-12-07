@@ -702,6 +702,7 @@
 - [Décret n°2011-898 du 28 juillet 2011 (OMEO1120367D)](decret-n2011-898-du-28-juillet-2011-omeo1120367d)
 - [Décret n°2011-909 du 28 juillet 2011 (AGRS1113930D)](decret-n2011-909-du-28-juillet-2011-agrs1113930d)
 - [Décret n°2009-1339 du 29 octobre 2009 (AGRT0919764D)](decret-n2009-1339-du-29-octobre-2009-agrt0919764d)
+- [Décret n°2009-1343 du 29 octobre 2009 (AGRT0920021D)](decret-n2009-1343-du-29-octobre-2009-agrt0920021d)
 - [Décret n°2009-1344 du 29 octobre 2009 (AGRT0920984D)](decret-n2009-1344-du-29-octobre-2009-agrt0920984d)
 - [Décret n°2009-1346 du 29 octobre 2009 (AGRT0921846D)](decret-n2009-1346-du-29-octobre-2009-agrt0921846d)
 - [Décret n°2010-1664 du 29 décembre 2010 (DEVR1024885D)](decret-n2010-1664-du-29-decembre-2010-devr1024885d)
