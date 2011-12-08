@@ -16,7 +16,7 @@ Le service interministériel des Archives de France comprend :
 
 ― la sous-direction de l'accès aux archives et de la coordination du réseau ;
 
-― la mission aux célébrations nationales.
+― la mission aux commémorations nationales.
 
 II. ― La sous-direction de la politique interministérielle et territoriale pour les archives traditionnelles et numériques élabore les dispositions législatives et réglementaires les concernant. Elle définit, en concertation avec les départements ministériels ou les organismes concernés, les chefs de mission des archives auprès d'eux, les services des Archives nationales et les directeurs des services d'archives territoriaux et en liaison avec la communauté scientifique, les règles et normes de gestion, d'évaluation, de sélection et de collecte des archives publiques, quels que soient leur âge, leur support et leur lieu de conservation. Elle coordonne et soutient l'action des chefs de mission des archives, participe à la définition de la politique d'archivage des départements ministériels et des organismes d'accueil et à l'organisation des versements, en liaison avec les services des archives nationales.
 
