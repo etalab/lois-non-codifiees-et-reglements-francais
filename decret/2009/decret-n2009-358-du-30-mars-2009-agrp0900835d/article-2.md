@@ -1,3 +1,0 @@
-# Article 2
-
-Seuls peuvent prétendre à l'appellation d'origine contrôlée « Coteaux varois en Provence » les vins répondant aux conditions fixées par le cahier des charges mentionné à l'article 1er du présent décret et dont la récolte des raisins, la vinification et l'élaboration des vins sont assurées sur le territoire des communes suivantes du département du Var : Barjols, Bras, Brignoles, Brue-Auriac, Camps-la-Source, La Celle, Châteauvert, Forcalqueiret, Garéoult, Méounes-les-Montrieux, Nans-les-Pins, Néoules, Ollières, Pontevès, Rocbaron, La Roquebrussanne, Rougiers, Saint-Maximin-la-Sainte-Baume, Saint-Zacharie, Sainte-Anastasie-sur-Issole, Salernes, Seillons-Source-d'Argens, Signes, Tavernes, Tourves, Le Val, Varages, Villecroze.
