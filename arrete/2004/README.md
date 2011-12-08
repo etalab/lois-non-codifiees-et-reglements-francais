@@ -213,7 +213,6 @@
 - [Arrêté du 9 mars 2004 (SOCF0410446A)](arrete-du-9-mars-2004-socf0410446a)
 - [Arrêté du 9 novembre 2004 (AGRG0402400A)](arrete-du-9-novembre-2004-agrg0402400a)
 - [Arrêté du 9 novembre 2004 (AGRG0402424A)](arrete-du-9-novembre-2004-agrg0402424a)
-- [Arrêté du 9 novembre 2004 (AGRG0402427A)](arrete-du-9-novembre-2004-agrg0402427a)
 - [Arrêté du 9 novembre 2004 (DEFP0401242A)](arrete-du-9-novembre-2004-defp0401242a)
 - [Arrêté du 9 novembre 2004 (DEFP0401245A)](arrete-du-9-novembre-2004-defp0401245a)
 - [Arrêté du 9 novembre 2004 (DEFP0401246A)](arrete-du-9-novembre-2004-defp0401246a)
