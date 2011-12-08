@@ -288,6 +288,7 @@
 - [Arrêté du 9 juin 2008 (ESRS0813177A)](arrete-du-9-juin-2008-esrs0813177a)
 - [Arrêté du 9 juin 2008 (ESRS0813187A)](arrete-du-9-juin-2008-esrs0813187a)
 - [Arrêté du 9 juin 2008 (MENE0813208A)](arrete-du-9-juin-2008-mene0813208a)
+- [Arrêté du 9 juin 2008 (MENE0813240A)](arrete-du-9-juin-2008-mene0813240a)
 - [Arrêté du 9 mars 2006 (SOCF0610650A)](arrete-du-9-mars-2006-socf0610650a)
 - [Arrêté du 9 novembre 2007 (DEVO0769728A)](arrete-du-9-novembre-2007-devo0769728a)
 - [Arrêté du 9 octobre 2008 (AGRG0824050A)](arrete-du-9-octobre-2008-agrg0824050a)
