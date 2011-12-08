@@ -4,6 +4,4 @@ Sont homologués les cahiers des charges annexés au présent décret des appell
 
 ― " Madiran " ;
 
-― " Pécharmant " ;
-
-― " Côtes du Marmandais ".
+― " Pécharmant ".
