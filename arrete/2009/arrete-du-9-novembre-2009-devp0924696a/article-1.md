@@ -1,11 +1,9 @@
 # Article 1
 
-Les dispositions du présent arrêté s'appliquent à toute installation relevant de la nomenclature des installations classées et exerçant au moins une des activités suivantes :
+Les dispositions du présent arrêté s'appliquent à toute installation exerçant au moins une des activités suivantes :
 
-― transit ou regroupement de piles et accumulateurs usagés ;
+- tri, transit ou regroupement de déchets de piles et accumulateurs ;
 
-― tri de piles et accumulateurs usagés ;
+- traitement thermique et non thermique de déchets de piles et accumulateurs ;
 
-― traitement thermique et non thermique de piles et accumulateurs usagés ;
-
-― stockage de piles et accumulateurs usagés.
+- élimination de déchets de piles et accumulateurs.

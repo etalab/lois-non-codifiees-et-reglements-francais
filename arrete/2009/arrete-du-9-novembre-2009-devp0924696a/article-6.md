@@ -1,11 +1,11 @@
 # Article 6
 
-Il est interdit d'éliminer les déchets suivants par mise en décharge :
+Il est interdit d'éliminer les déchets suivants par mise en décharge ou incinération :
 
-― les piles et accumulateurs portables usagés collectés sélectivement ;
+- les déchets de piles et accumulateurs portables collectés séparément ;
 
-― les piles et accumulateurs automobiles usagés ;
+- les déchets de piles et accumulateurs automobiles ;
 
-― les piles et accumulateurs industriels usagés.
+- les déchets de piles et accumulateurs industriels.
 
-Leur incinération est possible si les matériaux issus de ce traitement thermique font l'objet d'une récupération pour recyclage.
+Néanmoins, les résidus des déchets de piles et des accumulateurs qui ont été soumis à un traitement, y compris un recyclage, conformément aux dispositions du présent arrêté peuvent être éliminés par mise en décharge ou par incinération.

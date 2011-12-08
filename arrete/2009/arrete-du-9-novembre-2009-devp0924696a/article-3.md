@@ -1,8 +1,8 @@
 # Article 3
 
-En application de l'article R. 543-131 du code de l'environnement, le traitement des piles et accumulateurs usagés collectés sélectivement respectent les dispositions minimales suivantes :
+En application de l'article R. 543-131 du code de l'environnement, le traitement des déchets de piles et accumulateurs collectés séparément respectent les dispositions minimales suivantes :
 
-1. Lors du traitement des piles et accumulateurs usagés tous les fluides liquides et acides sont extraits.
+1. Lors du traitement des déchets de piles et accumulateurs  tous les fluides liquides et acides sont extraits.
 
 2. Le traitement et le stockage, y compris temporaire, ont lieu sur des surfaces imperméables résistant aux intempéries ou dans des conteneurs appropriés étanches, permettant de prévenir toute pollution du sol et du sous-sol.
 
