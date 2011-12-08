@@ -100,4 +100,8 @@ Jusqu'au 31 mai 2016 :
 
 Marseille-Dakar (Sénégal).
 
+Jusqu'au 31 octobre 2016 :
+
+Paris-Ovda (Israël).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
