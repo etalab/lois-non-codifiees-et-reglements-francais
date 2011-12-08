@@ -2,14 +2,12 @@
 
 Sont homologués les cahiers des charges, annexés au présent décret, des appellations d'origine contrôlées suivantes :
 
-― "Brouilly" ;
+― " Brouilly " ;
 
-― "Chénas" ;
+― " Chénas " ;
 
-― "Chiroubles" ;
+― " Moulin-à-Vent " ;
 
-― "Moulin-à-Vent" ;
+― " Saint-Amour " ;
 
-― "Saint-Amour" ;
-
-― "Régnié" .
+― " Régnié ".
