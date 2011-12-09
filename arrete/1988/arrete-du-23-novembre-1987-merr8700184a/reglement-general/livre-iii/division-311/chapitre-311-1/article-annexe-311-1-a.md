@@ -1,45 +1,57 @@
 # Article Annexe 311-1.A
 
-Sigles et abréviations
+SIGLES ET ABRÉVIATIONS
 
-Circ., circulaire.
+A.1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
 
-COLREG (International Regulations for Preventing Collisions at Sea), règlement international pour prévenir les abordages en mer.
+A.2 : amendement 2 concernant des documents normatifs autres que ceux de l'OMI.
 
-COMSAR, sous-comité des radiocommunications et de la recherche et du sauvetage de l'OMI.
+AC : amendement rectificatif concernant des documents normatifs autres que ceux de l'OMI.
 
-EN, norme européenne.
+CAT : catégorie d'équipement radar au sens du point 1.3 de la norme CEI 62388 (2007).
 
-ETSI, Institut européen des normes de télécommunications.
+Circ. : circulaire.
 
-Recueil FSS, recueil international des règles applicables aux systèmes de protection contre l'incendie.
+COLREG (International Regulations for Preventing Collisions at Sea) : règlement international pour prévenir les abordages en mer.
 
-Recueil FTP, recueil international pour l'application des méthodes d'essai au feu.
+COMSAR : sous-comité des radiocommunications et de la recherche et du sauvetage de l'OMI.
 
-Recueil HSC, recueil international de règles de sécurité applicables aux engins à grande vitesse.
+EN : norme européenne.
 
-Recueil IBC, recueil international de règles sur les transporteurs de produits chimiques.
+ETSI : Institut européen des normes de télécommunications.
 
-OACI, Organisation de l'aviation civile internationale.
+Recueil FSS : recueil international des règles applicables aux systèmes de protection contre l'incendie.
 
-CEI, Commission électrotechnique internationale
+Recueil FTP : recueil international pour l'application des méthodes d'essai au feu.
 
-OMI, Organisation maritime internationale.
+Recueil HSC : recueil international de règles de sécurité applicables aux engins à grande vitesse.
 
-ISO (International Standardisation Organisation), Organisation internationale de normalisation.
+Recueil IBC : recueil international de règles sur les transporteurs de produits chimiques.
 
-UIT, Union internationale des télécommunications.
+OACI : Organisation de l'aviation civile internationale.
 
-LSA (Life saving appliance), engin de sauvetage.
+CEI : Commission électrotechnique internationale.
 
-MARPOL, convention internationale pour la prévention de la pollution par les navires.
+OMI : Organisation maritime internationale.
 
-MEPC, comité de la protection du milieu marin.
+ISO (International Standardisation Organisation) : Organisation internationale de normalisation.
 
-MSC, comité de la sécurité maritime.
+UIT : Union internationale des télécommunications.
 
-SOLAS, convention internationale pour la sauvegarde de la vie humaine en mer.
+LSA (Life Saving Appliance) : engin de sauvetage.
 
-Règ., règle.
+MARPOL : convention internationale pour la prévention de la pollution par les navires.
 
-Rés., résolution.
+MEPC : comité de la protection du milieu marin.
+
+MSC : comité de la sécurité maritime.
+
+NOx : oxydes d'azote.
+
+SOLAS : convention internationale pour la sauvegarde de la vie humaine en mer.
+
+SOx : oxydes de soufre.
+
+Règ. : règle.
+
+Rés. : résolution.

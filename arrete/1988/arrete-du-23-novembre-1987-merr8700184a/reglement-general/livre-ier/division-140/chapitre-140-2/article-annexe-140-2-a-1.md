@@ -15,7 +15,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="6">Bureau Veritas </td>
+<td rowspan="7">Bureau Veritas </td>
 <td>-A.1/1 Engins de sauvetage</td>
 </tr>
 <tr>
@@ -31,7 +31,10 @@
 <td>-A.1/5 Equipements de radiocommunication</td>
 </tr>
 <tr>
-<td>-A.1/6 Equipements exigés par la Convention</td>
+<td>-A.1/6 Equipements exigés par la Convention COLREG 72 </td>
+</tr>
+<tr>
+<td>-A.1/8 Equipements relevant de la convention SOLAS Chapitre II-1</td>
 </tr>
 </tbody>
 </table>
@@ -50,28 +53,31 @@
 </tr>
 <tr>
 <td rowspan="12">Bureau Veritas </td>
-<td>-A.2/1 Engins de sauvetage.</td>
+<td>-A.2/1 Engins de sauvetage</td>
 </tr>
 <tr>
-<td>-A.2/2 Prévention de la pollution marine.</td>
+<td>-A.2/2 Prévention de la pollution marine</td>
 </tr>
 <tr>
-<td>-A.2/3 Protection contre l'incendie.</td>
+<td>-A.2/3 Protection contre l'incendie</td>
 </tr>
 <tr>
-<td>-A.2/4 Equipements de navigation.</td>
+<td>-A.2/4 Equipements de navigation</td>
 </tr>
 <tr>
-<td>-A.2/5 Equipements de radiocommunication.</td>
+<td>-A.2/5 Equipements de radiocommunication</td>
 </tr>
 <tr>
-<td>-A.2/6 Equipements exigés par la Convention</td>
-</tr>
-<tr>
-<td>COLREG 72</td>
+<td>-A.2/6 Equipements exigés par la Convention COLREG 72 </td>
 </tr>
 <tr>
 <td>-A.2/7 Equipements de sécurité des vraquiers</td>
+</tr>
+<tr>
+<td>A.2/8 Equipements relevant de la convention SOLAS, chapitre II-1</td>
+</tr>
+<tr>
+<td>-Division 218 : Gestion des eaux de ballast </td>
 </tr>
 <tr>
 <td>-Division 332 : DAHMAS</td>
@@ -81,9 +87,6 @@
 </tr>
 <tr>
 <td>-Division 361 : Dispositifs de détection et d'alarme d'envahissement</td>
-</tr>
-<tr>
-<td>- Division 218 : Gestion des eaux de ballast </td>
 </tr>
 </tbody>
 </table>
