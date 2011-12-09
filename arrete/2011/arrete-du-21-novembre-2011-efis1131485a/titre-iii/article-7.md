@@ -1,0 +1,3 @@
+# Article 7
+
+A l'Ecole nationale de la statistique et de l'administration économique, le cycle de la scolarité est de trois ans. Sont dispensés d'une partie de ce cycle les élèves, étudiants et auditeurs présentant lors de leur parcours scolaire antérieur des évaluations jugées suffisantes par le directeur de l'école après avis du comité d'enseignement et de la recherche. En outre, les élèves administrateurs ayant déjà effectué tout ou partie de la scolarité antérieurement à leur nomination peuvent être dispensés de la scolarité déjà effectuée par le directeur de l'Ecole nationale de la statistique et de l'administration économique après avis du comité d'enseignement et de la recherche.
