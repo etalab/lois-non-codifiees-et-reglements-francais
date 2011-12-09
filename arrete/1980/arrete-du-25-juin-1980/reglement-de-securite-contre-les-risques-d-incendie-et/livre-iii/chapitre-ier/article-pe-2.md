@@ -12,15 +12,17 @@ Le seuil de l'effectif à partir duquel les établissements définis à l'articl
 
 - b) les bâtiments ou locaux à usage d'hébergement qui ne relèvent d'aucun type défini à l'article GN 1 et qui permettent d'accueillir plus de 15 et moins de 100 personnes n'y élisant pas domicile. Ils sont soumis aux dispositions des chapitres Ier, II et III du présent livre ;
 
-- c) en aggravation, si l'hébergement concerne des mineurs en dehors de leurs familles, le seuil de l'effectif à partir duquel les dispositions prévues au paragraphe b ci-dessus s'appliquent est fixé à 7 mineurs.
+- c) en aggravation, si l'hébergement concerne des mineurs en dehors de leurs familles, le seuil de l'effectif à partir duquel les dispositions prévues au paragraphe b ci-dessus s'appliquent est fixé à 7 mineurs ;
 
 Toutefois, dans ce cas, lorsque les conditions suivantes sont simultanément respectées :
 
 - la capacité maximale d'accueil est inférieure ou égale à 15 personnes ;
 
-- chaque local à sommeil dispose d'au moins une sortie ouvrant de plain-pied vers l'extérieur, cette sortie ne pouvant être obturée qu'au moyen d'un dispositif de fermeture conforme aux dispositions de l'article PE 11 § 2 ;
+- chaque local à sommeil dispose d'au moins une sortie ouvrant de plain-pied vers l'extérieur, cette sortie ne pouvant être obturée qu'au moyen d'un dispositif de fermeture conforme aux dispositions de l'article PE 11, 2 ;
 
 - seules les dispositions des articles PE 4, PE 6 § 1, PE 24 § 1, PE 26 § 1, PE 27 et PE 37 sont applicables. En dérogation à l'article PE 37, le maire peut faire visiter l'établissement par la commission de sécurité compétente.
+
+- d) les maisons d'assistants maternels (MAM) dont les locaux  accessibles au public sont strictement limités à un seul étage sur  rez-de-chaussée et dont l'effectif ne dépasse pas 16 enfants (1).
 
 § 3. Sont assujettis aux seules dispositions des articles PE 4 § 2 et 3, PE 24 § 1, PE 26 § 1 et PE 27, s'ils reçoivent au plus 19 personnes constituant le public :
 
@@ -32,369 +34,318 @@ Toutefois, dans ce cas, lorsque les conditions suivantes sont simultanément res
 
 § 5. Les établissements clos et couverts, fixes, munis d'une couverture souple sont soumis aux seules dispositions appropriées du présent livre si l'effectif du public est inférieur à celui fixé dans la colonne de droite du tableau pour une activité donnée (ensemble des niveaux). De plus, leur couverture doit être réalisée en matériaux de catégorie M 2 ou C s3-d0 dont le procès-verbal de classement en réaction au feu ne comporte pas de limite de durabilité.
 
+<ul>
+<li>
+
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th colspan="3">
-<br/>SEUILS DU 1er GROUPE</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>TYPES</th>
-<th>
-<br/>
-<br/>Sous-sol</th>
-<th>
-<br/>
-<br/>Etages</th>
-<th>
-<br/>Ensemble<br/>des niveaux</th>
-</tr>
-<tr>
-<td align="center">
-<br/>J</td>
-<td align="center">
-<br/>I. - Structures d'accueil pour personnes âgées :</td>
-<td align="center">
-<br/>
+<td align="center" rowspan="2"/>
+<td align="center" rowspan="2">
+<br/>TYPES<br/>
 </td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" colspan="3">SEUILS DU 1er GROUPE<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
+<br/>Sous-sol<br/>
 </td>
 <td align="center">
-<br/>- effectif des résidents</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>25</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<br/>Etages<br/>
 </td>
-<td align="center">
-<br/>- effectif total</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>100</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>II. - Structures d'accueil pour personnes handicapées :</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center">Ensemble<br/>des niveaux<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="center" rowspan="4">J<br/>
 </td>
-<td align="center">
-<br/>- effectif des résidents</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>20</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td>I. - Structures d'accueil pour personnes âgées :<br/>- effectif des résidents <br/>
 </td>
-<td align="center">
-<br/>- effectif total</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>100</td>
-</tr>
-<tr>
-<td align="center">
-<br/>L</td>
-<td align="center">
-<br/>Salle d'auditions, de conférences, de réunions  multimédia </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">-<br/>
 </td>
-<td align="center">
-<br/>Salle de spectacles, de projections ou à usage multiple </td>
-<td align="center">
-<br/>20</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>50</td>
-</tr>
-<tr>
-<td align="center">
-<br/>M</td>
-<td align="center">
-<br/>Magasins de vente </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>N</td>
-<td align="center">
-<br/>Restaurants ou débits de boissons </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>O</td>
-<td align="center">
-<br/>Hôtels ou pensions de famille </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>100</td>
-</tr>
-<tr>
-<td align="center">
-<br/>P</td>
-<td align="center">
-<br/>Salles de danse ou salles de jeux </td>
-<td align="center">
-<br/>20</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>120</td>
-</tr>
-<tr>
-<td align="center">
-<br/>R</td>
-<td align="center">
-<br/>Ecoles maternelles, crèches, haltes-garderies et jardins d'enfants </td>
-<td align="center">
-<br/>(*)</td>
-<td align="center">
-<br/>1 (**)</td>
-<td align="center">
-<br/>100</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">-<br/>
 </td>
-<td align="center">
-<br/>Autres établissements </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">25<br/>
 </td>
-<td align="center">
-<br/>Etablissements avec locaux réservés au sommeil </td>
-<td align="center">
-<br/>
+</tr>
+<tr>
+<td>- effectif total <br/>
 </td>
-<td align="center">
-<br/>
+<td align="center">-<br/>
 </td>
-<td align="center">
-<br/>30</td>
-</tr>
-<tr>
-<td align="center">
-<br/>S</td>
-<td align="center">
-<br/>Bibliothèques ou centres de documentation (arr. du 12 juin 1995, art. 4) </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>T</td>
-<td align="center">
-<br/>Salles d'expositions </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>U</td>
-<td align="center">
-<br/>Etablissements de soins :<br/>- sans hébergement </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>100</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">-<br/>
 </td>
-<td align="center">
-<br/>- avec hébergement </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>20</td>
-</tr>
-<tr>
-<td align="center">
-<br/>V</td>
-<td align="center">
-<br/>Etablissements de culte </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-<td align="center">
-<br/>300</td>
-</tr>
-<tr>
-<td align="center">
-<br/>W</td>
-<td align="center">
-<br/>Administrations, banques, bureaux </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>X</td>
-<td align="center">
-<br/>Etablissements sportifs couverts </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Y</td>
-<td align="center">
-<br/>Musées (arr. du 12 juin 1995, art. 4) </td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>100</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>OA</td>
-<td align="center">
-<br/>Hôtels-restaurants d'altitude </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>20</td>
-</tr>
-<tr>
-<td align="center">
-<br/>GA</td>
-<td align="center">
-<br/>Gares aériennes (***) </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>200</td>
-</tr>
-<tr>
-<td align="center">
-<br/>PA</td>
-<td align="center">
-<br/>Plein air (établissements de) </td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>-</td>
-<td align="center">
-<br/>300 </td>
-</tr>
-<tr>
-<td colspan="5">
-<p>
-<br/>(*) Ces activités sont interdites en sous-sol.<br/>
-<br/>(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 20.</p>
-<p>(***) Les gares souterraines et mixtes sont classées dans le 1er groupe quel que soit l'effectif.</p>
+<td align="center">100<br/>
 </td>
+</tr>
+<tr>
+<td>II. - Structures d'accueil pour personnes handicapées :<br/>- effectif des résidents <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">20<br/>
+</td>
+</tr>
+<tr>
+<td>- effectif total <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">100<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">L<br/>
+</td>
+<td>Salle d'auditions, de conférences, de réunions multimédia <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td>Salle de spectacles, de projections ou à usage multiple <br/>
+</td>
+<td align="center">20<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">M<br/>
+</td>
+<td>Magasins de vente <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">N<br/>
+</td>
+<td>Restaurants ou débits de boissons <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">O<br/>
+</td>
+<td>Hôtels ou pensions de famille <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">P<br/>
+</td>
+<td>Salles de danse ou salles de jeux <br/>
+</td>
+<td align="center">20<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">120<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">R<br/>
+</td>
+<td>Ecoles maternelles, crèches, haltes-garderies et jardins d'enfants <br/>
+</td>
+<td align="center">(*)<br/>
+</td>
+<td align="center">1 (**)<br/>
+</td>
+<td align="center">100<br/>
+</td>
+</tr>
+<tr>
+<td>Autres établissements <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td>Etablissements avec locaux réservés au sommeil <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center">30<br/>
+</td>
+</tr>
+<tr>
+<td align="center">S<br/>
+</td>
+<td>Bibliothèques ou centres de documentation (arr. du 12 juin 1995, art. 4) <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">T<br/>
+</td>
+<td>Salles d'expositions <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">U<br/>
+</td>
+<td>Etablissements de soins <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">J<br/>
+</td>
+<td>I. - Structures d'accueil pour personnes âgées :<br/>- sans hébergement <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">100<br/>
+</td>
+</tr>
+<tr>
+<td>- avec hébergement <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">20<br/>
+</td>
+</tr>
+<tr>
+<td align="center">V<br/>
+</td>
+<td>Etablissements de culte <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+<td align="center">300<br/>
+</td>
+</tr>
+<tr>
+<td align="center">W<br/>
+</td>
+<td>Administrations, banques, bureaux <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">X<br/>
+</td>
+<td>Etablissements sportifs couverts <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Y<br/>
+</td>
+<td>Musées (arr. du 12 juin 1995, art. 4) <br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">100<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">OA<br/>
+</td>
+<td>Hôtels-restaurants d'altitude <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">20<br/>
+</td>
+</tr>
+<tr>
+<td align="center">GA<br/>
+</td>
+<td>Gares aériennes (***) <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">PA<br/>
+</td>
+<td>Plein air (établissements de) <br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">-<br/>
+</td>
+<td align="center">300 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="5">(*) Ces activités sont interdites en sous-sol.<br/>(**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 20.<br/>(***) Les gares souterraines et mixtes sont classées dans le 1er groupe quel que soit l'effectif.</td>
 </tr>
 </tbody>
 </table>
+
+</li>
+</ul>
