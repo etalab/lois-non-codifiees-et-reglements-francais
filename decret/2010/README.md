@@ -317,7 +317,6 @@
 - [Décret n°2010-140 du 10 février 2010 (AGRS0928897D)](decret-n2010-140-du-10-fevrier-2010-agrs0928897d)
 - [Décret n°2010-141 du 10 février 2010 (AGRS0928899D)](decret-n2010-141-du-10-fevrier-2010-agrs0928899d)
 - [Décret n°2010-142 du 10 février 2010 (ECET1002000D)](decret-n2010-142-du-10-fevrier-2010-ecet1002000d)
-- [Décret n°2010-143 du 10 février 2010 (ESRS1001757D)](decret-n2010-143-du-10-fevrier-2010-esrs1001757d)
 - [Décret n°2010-1535 du 10 décembre 2010 (DEVN1026617D)](decret-n2010-1535-du-10-decembre-2010-devn1026617d)
 - [Décret n°2010-243 du 10 mars 2010 (DEVN1000127D)](decret-n2010-243-du-10-mars-2010-devn1000127d)
 - [Décret n°2010-247 du 10 mars 2010 (SASS0915615D)](decret-n2010-247-du-10-mars-2010-sass0915615d)
