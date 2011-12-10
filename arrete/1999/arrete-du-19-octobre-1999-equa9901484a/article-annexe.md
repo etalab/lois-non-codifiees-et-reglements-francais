@@ -26,26 +26,6 @@ Arrivées :
 
 - de 23 h 30 à 6 h 19 locales : néant.
 
-Conditions d'utilisation des aérogares :
-
-Traitement possible en simultané, dans la zone de haute sûreté de l'aérogare Sud, de :
-
-- un très gros-porteur et un moyen-porteur, ou
-
-- deux gros-porteurs, ou
-
-- un gros-porteur et un moyen-porteur, ou
-
-- deux moyens-porteurs,
-
-étant précisé que :
-
-- un très gros-porteur est un aéronef offrant un nombre de sièges supérieur à 300 ;
-
-- un gros-porteur est un aéronef offrant un nombre de sièges inférieur ou égal à 300 et supérieur à 200 ;
-
-- un moyen-porteur est un aéronef offrant un nombre de sièges inférieur ou égal à 200.
-
 2. Capacités des terminaux
 
 A compter de la saison aéronautique d'été 2011 :
@@ -4142,11 +4122,11 @@ A compter de la saison aéronautique d'été 2008 :
 <tbody>
 <tr>
 <td>
-<p align="center"> TERMINAL</p>
+<p align="center">TERMINAL</p>
 </td>
 <td>
-<p align="center"> FLUX MAXIMAL DE PASSAGERS <br/>
-<br/>par heure au départ </p>
+<p align="center">FLUX MAXIMAL DE PASSAGERS </p>
+<p>par heure au départ </p>
 </td>
 </tr>
 <tr>
@@ -4154,7 +4134,7 @@ A compter de la saison aéronautique d'été 2008 :
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>1   950 <br/>
+<br/>1 950 <br/>
 </td>
 </tr>
 <tr>
@@ -4170,7 +4150,7 @@ A compter de la saison aéronautique d'été 2008 :
 <br/>2B <br/>
 </td>
 <td align="center">
-<br/>1   200 <br/>
+<br/>1 200 <br/>
 </td>
 </tr>
 <tr>
@@ -4186,7 +4166,7 @@ A compter de la saison aéronautique d'été 2008 :
 <br/>2D <br/>
 </td>
 <td align="center">
-<br/>1   400 <br/>
+<br/>1 400 <br/>
 </td>
 </tr>
 <tr>
@@ -4202,7 +4182,7 @@ A compter de la saison aéronautique d'été 2008 :
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>1   000<br/>
+<br/>1 000<br/>
 </td>
 </tr>
 </tbody>
