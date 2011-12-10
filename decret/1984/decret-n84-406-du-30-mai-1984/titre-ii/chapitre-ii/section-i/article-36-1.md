@@ -40,7 +40,7 @@ Sont mentionnées d'office au registre les déclarations de cessation des paieme
 
 19° Prononçant la suspension provisoire des poursuites en application de l'article L. 611-4 du code de commerce. Cette mention est radiée d'office à l'expiration de la durée de la suspension.
 
-Sont radiées d'office les mentions des décisions énumérées ci-dessus, lorsqu'il a été constaté l'achèvement de l'exécution du plan de redressement judiciaire.
+Sont radiées d'office les mentions des décisions énumérées ci-dessus, lorsqu'il a été constaté l'achèvement de l'exécution du plan de redressement ou lorsque ce plan est toujours en cours à l'expiration d'un délai de cinq ans à compter de son arrêté. Dans le second de ces cas, la radiation fait obstacle à toute nouvelle mention intéressant l'exécution du plan de redressement, sauf si celle-ci est relative à une mesure d'inaliénabilité décidée par le tribunal ou à une décision prononçant la résolution du plan.
 
 Sont en outre radiées d'office les mentions des décisions prévues au 16° lorsque, selon le cas :
 
