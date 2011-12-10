@@ -1,4 +1,4 @@
-# Chapitre Ier : Dispositions applicables à la Polynésie française, aux îles Wallis et Futuna, à la Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et à Mayotte
+# Chapitre Ier : Dispositions applicables à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, à la Polynésie française, aux îles Wallis et Futuna et à la Nouvelle-Calédonie
 
 - [Article 32](article-32.md)
 - [Article 33](article-33.md)

@@ -18,15 +18,13 @@ Les membres de droit sont, en cas d'empêchement, remplacés par ceux qui les su
 
 La commission peut s'adjoindre des rapporteurs pris parmi les membres du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes.
 
-Elle est assistée de quatre fonctionnaires :
+Elle est assistée de trois fonctionnaires :
 
 - un représentant du ministre de l'intérieur ;
 
 - un représentant du ministre chargé de l'outre-mer ;
 
-- un représentant du ministre chargé des postes ;
-
-- un représentant du ministre chargé de la communication.
+- un représentant du ministre des affaires étrangères.
 
 Ces fonctionnaires peuvent être remplacés, en cas d'empêchement, par des fonctionnaires désignés dans les mêmes conditions qu'eux.
 

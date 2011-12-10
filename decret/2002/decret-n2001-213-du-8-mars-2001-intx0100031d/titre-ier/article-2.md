@@ -4,7 +4,7 @@ Les présentations des candidats à l'élection du Président de la République 
 
 Toutefois, dans le même délai, les présentations peuvent être déposées :
 
-1° Dans les départements d'outre-mer, en Polynésie française, aux îles Wallis et Futuna, en Nouvelle-Calédonie, à Mayotte et à Saint-Pierre-et-Miquelon, auprès du représentant de l'Etat ;
+1° Dans les départements et collectivités d'outre-mer ainsi qu'en Nouvelle-Calédonie, auprès du représentant de l'Etat ;
 
 2° Lorsqu'elles émanent de membres élus de l'Assemblée des Français de l'étranger, auprès de l'ambassadeur ou du chef de poste consulaire chargé de la circonscription consulaire où réside l'auteur de la présentation.
 
