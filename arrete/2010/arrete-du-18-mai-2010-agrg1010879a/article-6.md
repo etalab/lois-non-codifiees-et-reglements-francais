@@ -12,7 +12,7 @@ Peuvent être destinataires de tout ou partie des données listées aux articles
 
 2. La direction générale des politiques agricole, agroalimentaire et des territoires (DGPAAT) les organismes suivants :
 
-― FranceAgriMer, dans le cadre d'études statistiques et économiques sur les filières animales ;
+― FranceAgriMer, dans le cadre d'études statistiques et économiques sur les filières animales et de ses missions de contrôles des informations nécessaires à la connaissance des productions et des marchés ;
 
 ― l'Agence de service et de paiement, dans le cadre de ses missions de contrôle de l'identification et d'organisme payeur des aides agricoles ;
 
