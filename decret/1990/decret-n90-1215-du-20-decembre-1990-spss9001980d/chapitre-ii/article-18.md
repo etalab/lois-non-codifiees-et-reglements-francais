@@ -1,11 +1,19 @@
 # Article 18
 
-Le conseil d'administration nomme le directeur et l'agent comptable parmi les personnes inscrites sur la liste d'aptitude mentionnée à l'article R. 123-45 du code de la sécurité sociale.
+Le conseil d'administration nomme le directeur et l'agent comptable.
 
-Aucune de ces fonctions ne peut être exercée par un membre du conseil d'administration ou par un ancien membre de celui-ci pendant un délai de quatre ans suivant la cessation des fonctions d'administrateur.
+L'agent comptable est nommé parmi les personnes inscrites sur la liste d'aptitude mentionnée à l'article R. 123-45 du code de la sécurité sociale.
 
-Conformément aux dispositions de l'article R. 123-48 et des II et III de l'article R. 123-49 du code de la sécurité sociale, les agents de direction sont agréés par le ministre chargé de la sécurité sociale. L'agrément du ministre chargé du budget est en outre requis pour l'agent comptable.
+Le directeur est nommé parmi les personnes remplissant l'une des conditions suivantes :
 
-Le refus d'agrément empêche les intéressés de poursuivre l'exercice de leurs fonctions, et son retrait entraîne la cessation de leurs fonctions. Ils peuvent également être révoqués par le conseil d'administration.
+1° Etre agréé depuis huit ans au moins dans la fonction d'agent de direction ou d'agent comptable d'un organisme de sécurité sociale mentionné à l'article R. 111-1 du code de la sécurité sociale ;
 
-Le retrait d'agrément est prononcé selon la procédure prévue à l'article R. 123-50 du code de la sécurité sociale.
+2° Avoir la qualité depuis huit ans au moins de cadre des offices notariaux au sens de la convention collective du notariat et avoir une expérience dans le domaine de la protection sociale ;
+
+3° Etre depuis huit ans au moins fonctionnaire de catégorie A et avoir une expérience dans le domaine de la protection sociale.
+
+Le directeur est nommé pour un mandat de six ans. Au terme de son mandat, le titulaire du poste peut présenter à nouveau sa candidature.
+
+Les fonctions de directeur et d'agent comptable ne peuvent être exercées par un membre du conseil d'administration en exercice.
+
+Les personnels de la caisse mentionnés à l'article R. 123-48 du code de la sécurité sociale sont agréés dans leurs fonctions par le ministre chargé de la sécurité sociale, qui exerce cette compétence conjointement avec le ministre chargé du budget en ce qui concerne l'agent comptable.
