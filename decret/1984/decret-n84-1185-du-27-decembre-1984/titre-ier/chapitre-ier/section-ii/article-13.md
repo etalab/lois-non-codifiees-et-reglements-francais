@@ -1,15 +1,15 @@
 # Article 13
 
-Il est créé en application de l'article 44 du décret du 30 décembre 1983 susvisé un jury d'admission commun aux concours de recrutement des directeurs de recherche du C.N.R.S..
+Il est créé en application de l'article 44 du décret du 30 décembre 1983 susvisé un jury d'admission commun aux concours de recrutement des directeurs de recherche du C. N. R. S..
 
-Ce jury est présidé par le directeur général ou son représentant.
+Ce jury est présidé par le président ou son représentant.
 
 Il comprend en outre :
 
-a) Le secrétaire général et les directeurs des départements scientifiques ou leurs représentants, membres de droit ;
+a) Le directeur général délégué aux ressources et les directeurs des départements scientifiques ou leurs représentants, membres de droit ;
 
-b) Des personnalités scientifiques en nombre égal à celui des membres de droit mentionnés au a. Ces personnalités sont nommées par le ministre chargé de la recherche parmi les membres du Comité national de la recherche scientifique après avis du conseil scientifique.
+b) Des personnalités scientifiques en nombre égal à celui des membres de droit mentionnés au a.
 
-La moitié de ces personnalités doit être choisie parmi les chercheurs du C.N.R.S. élus au Comité national de la recherche scientifique de rang au moins égal à celui des postes à pourvoir.
+Ces personnalités sont nommées par le ministre chargé de la recherche parmi les membres du Comité national de la recherche scientifique après avis du conseil scientifique.
 
-Dans le cas où le jury décide qu'il y a lieu d'établir une liste d'admission complémentaire, cette liste peut, par dérogation aux dispositions de l'article 44 du décret du 30 décembre 1983 susvisé, comporter un nombre de noms égal à 50 p. 100 du nombre des postes mis au concours.
+La moitié de ces personnalités doit être choisie parmi les chercheurs du C. N. R. S. élus au Comité national de la recherche scientifique de rang au moins égal à celui des postes à pourvoir.
