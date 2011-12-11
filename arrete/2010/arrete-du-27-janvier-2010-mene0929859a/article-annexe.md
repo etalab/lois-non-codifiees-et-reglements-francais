@@ -189,7 +189,7 @@ Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
 <p align="center">5 h</p>
 </td>
 <td valign="top" width="180">
-<p>ou Biologie, agronomie, territoire et développement durable (h) (e)</p>
+<p>ou Ecologie, agronomie et territoires (h) (e)</p>
 </td>
 <td valign="top" width="56">
 <p align="center">6 h</p>
@@ -462,26 +462,10 @@ Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
 <br/>
 </td>
 <td valign="top" width="180">
-<p>Pratiques professionnelles (h)</p>
-</td>
-<td valign="top" width="56">
-<p align="center">3 h</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="175"/>
-<td valign="top" width="44">
-<br/>
-</td>
-<td colspan="2" valign="top" width="182"/>
-<td valign="top" width="44">
-<br/>
-</td>
-<td valign="top" width="180">
 <p>b) atelier artistique</p>
 </td>
 <td valign="top" width="56">
-<p align="center">72 h an nuelles</p>
+<p align="center">72 h<br/>annuelles</p>
 </td>
 </tr>
 <tr>
@@ -668,7 +652,7 @@ Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
 <br/>
 </td>
 <td colspan="2" valign="top" width="180">
-<p>ou Biologie, agronomie et développement durable (h)</p>
+<p>ou Ecologie, agronomie et territoires (h)</p>
 </td>
 <td valign="top" width="56">
 <p align="center">5 h 30</p>
@@ -800,7 +784,7 @@ Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
 <p align="center">4 h</p>
 </td>
 <td colspan="2" valign="top" width="180">
-<p>Territoire et citoyenneté (h)</p>
+<p>Ecologie, agronomie et territoires (h)</p>
 </td>
 <td valign="top" width="56">
 <p align="center">2 h</p>
@@ -994,22 +978,6 @@ Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
 </td>
 <td valign="top" width="177">
 <p>Pratiques sociales et culturelles (h)</p>
-</td>
-<td valign="top" width="56">
-<p align="center">3 h</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="175"/>
-<td colspan="2" valign="top" width="49">
-<br/>
-</td>
-<td colspan="2" valign="top" width="177"/>
-<td colspan="2" valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="177">
-<p>Pratiques professionnelles (h)</p>
 </td>
 <td valign="top" width="56">
 <p align="center">3 h</p>
