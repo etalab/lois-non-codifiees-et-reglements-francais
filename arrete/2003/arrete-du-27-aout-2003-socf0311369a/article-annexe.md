@@ -1,12 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien d'atelier des matériaux composites.
+Titre professionnel : technicien (ne) d'atelier des matériaux composites.
 
 Niveau : IV.
 
@@ -14,21 +12,21 @@ Code NSF : 225 s.
 
 Résumé du référentiel d'emploi
 
-Le technicien d'atelier des matériaux composites conduit la production de pièces de tailles diverses : mobilier urbain, éléments de sanitaires, coffrets électriques, pièces diverses pour l'industrie nautique et aéronautique, coques de bateaux, citernes, éléments de carrosseries..., en matériaux composites (mariage de renforts en fibres de verre et de résine synthétique durcissant après application dans le moule), en petites et moyennes séries.
+Le (la) technicien (ne) d'atelier des matériaux composites prépare, organise, conduit et contrôle la fabrication, en petites et moyennes séries, de pièces en matériaux composites (mariage de renforts en fibres de verre et de résine synthétique durcissant après application dans un moule). Les objets fabriqués sont de tailles diverses : mobilier urbain, éléments de sanitaires, coffrets électriques, pièces élémentaires pour l'industrie nautique et aéronautique, coques de bateaux, citernes, éléments de carrosseries...
 
-Pour ce faire, il exerce les activités suivantes :
+Au sein de la production, il (elle) exerce généralement les activités suivantes :
 
-- fabrication de pièces : lancement de la première fabrication et réajustement des paramètres de fabrication ;
+-fabrication de pièces : lancement de la première fabrication et réajustement des paramètres de fabrication ;
 
-- fabrication et entretien des outillages de moulage ;
+-fabrication et entretien des outillages de moulage ;
 
-- organisation et gestion de la production (mise en place des postes de travail, rédaction des fiches d'instruction et de contrôle de la fabrication, encadrement d'un îlot de production).
+-organisation et gestion de la production (mise en place des postes de travail, rédaction des fiches d'instruction et de contrôle de la fabrication, encadrement d'un îlot de production).
 
-Il alterne entre une activité pratique manuelle (en utilisant des procédés artisanaux, semi-industriels ou industriels) ou d'assistance à la production et une action de suivi et d'encadrement (vis-à-vis du personnel qualifié ou non).
+Il (elle) alterne souvent entre une activité pratique manuelle ou d'assistance technique à la production (en utilisant des procédés artisanaux, semi-industriels ou industriels) et une action de suivi et d'encadrement du personnel de fabrication (qualifié ou non).
 
-Le travail se déroule en atelier. Le technicien d'atelier des matériaux composites est en contact permanent avec des produits dangereux et/ou allergisants (fibres de verre, résine, péroxydes).
+Le travail se déroule en atelier, dans un environnement comprenant des produits dangereux ou allergisants (fibres de verre, résine, catalyseur, solvants...).
 
-Compétences attestées et descriptif
+Capacités attestées et descriptif
 
 des composantes de la certification
 
@@ -38,15 +36,13 @@ en matériaux composites
 
 Préparer les résines, les renforts et les outillages pour une production de pièces en matériaux composites.
 
-Gel coater au pinceau ou au pistolet sur un moule et stratifier au contact des pièces en matériaux composites, composées de différents types de renforts et matrices.
+Gelcoater au pinceau ou au pistolet sur un moule et stratifier au contact des pièces en matériaux composites, composées de différents types de renforts et matrices.
 
 Usiner à l'aide d'outillages portatifs et réaliser l'assemblage et la finition de pièces en matériaux composites.
 
 Fabriquer des pièces en matériaux composites par projection simultanée.
 
-Fabriquer des pièces en matériaux composites par injection basse pression.
-
-Fabriquer des pièces en matériaux composites par injection sous vide.
+Fabriquer des pièces en matériaux composites en moule fermé par injection basse pression, injection sous vide, infusion et compression avec vide.
 
 Participer aux opérations de maintenance de l'outil de production de pièces en matériaux composites.
 
@@ -60,7 +56,7 @@ Réaliser, préparer et équiper un moule poinçon-matrice destiné à la fabric
 
 Réaliser une pièce type en matériaux composites destinée à valider un outillage de moulage.
 
-Etablir le devis estimatif et assurer le suivi de réalisation pour la fabrication ou la modification d'un moule pour pièces en matériaux composites.
+Etablir le devis matières et assurer le suivi de réalisation pour la fabrication ou la modification d'un moule pour pièces en matériaux composites.
 
 3. Organiser et gérer un îlot de production
 
@@ -74,21 +70,23 @@ Gérer des stocks de matières premières et de composants pour une production d
 
 Gérer la production d'un îlot de fabrication de pièces en matériaux composites.
 
-Secteur d'activité ou type d'emploi
+Secteurs d'activités ou types d'emploi
 
-accessible par le détenteur du titre
+accessibles par le détenteur du titre
 
-Entreprises sous-traitantes généralement de petite taille ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie.
+Entreprises de plasturgie (matériaux composites) sous-traitantes, généralement de petite taille, ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie (automobile, ferroviaire).
 
-Code(s) ROME :
+Codes ROME :
 
-45421 - Modeleur-mouliste ;
+H3203-Fabrication de pièces en matériaux composites.
 
-52231 - Technicien de production des industries de process.
+H2908-Modelage de matériaux non métalliques.
+
+H2504-Encadrement d'équipe en industrie de transformation.
 
 Réglementation de l'activité :
 
-Aucune.
+Néant.
 
 Autorité responsable de la certification :
 
@@ -96,8 +94,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
