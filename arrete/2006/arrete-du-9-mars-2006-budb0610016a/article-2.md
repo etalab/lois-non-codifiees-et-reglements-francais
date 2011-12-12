@@ -18,4 +18,4 @@ La part des sommes misées qui est dévolue au jeu se compose de la part affect�
 
 8. Pour les formules du jeu Bingo fondées sur le principe de la répartition, la part affectée aux gagnants est de 65,000 % ; pour les formules du jeu Bingo fondées sur le principe de la contrepartie, la part moyenne affectée aux gagnants est de 64,000 % et la part affectée à la dotation structurelle du fonds de contrepartie est de 1 % ;
 
-9. Pour Amigo, la part affectée aux gagnants est de 67,820 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,180 %.
+9. Pour Amigo, la part affectée aux gagnants est de 69,750 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,050 %.
