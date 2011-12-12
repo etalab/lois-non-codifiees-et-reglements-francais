@@ -7,146 +7,109 @@ relevant de chaque champ professionnel
 <table>
 <tbody>
 <tr>
-<th>
-<br/>SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL <br/>
-</th>
-<th>
-<br/>CHAMPS PROFESSIONNELS ET CLASSES <p>de seconde professionnelle <br/>
-</p>
-</th>
+<td>
+<p align="center"> SPÉCIALITÉS DU BACCALAURÉAT </p>
+<p align="center">professionnel </p>
+</td>
+<td colspan="6">
+<p align="center"> CHAMPS PROFESSIONNELS </p>
+<p align="center">et classes de seconde professionnelle </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Conduite et gestion de l'exploitation agricole, systèmes à dominante élevage</p>
+<p align="left">Conduite et gestion de l'exploitation agricole/systèmes à dominante élevage</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Conduite et gestion de l'exploitation agricole, élevage et valorisation du cheval</p>
-</td>
-<td align="center">
-<p align="left">Productions animales <br/>
+<td align="center" rowspan="4">
+<p align="center">Productions animales<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Conduite et gestion de l'élevage canin et félin</p>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Production aquacole</p>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Conduite et gestion de l'exploitation agricole, systèmes à dominante cultures</p>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Conduite et gestion de l'exploitation agricole, vigne et vin</p>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Productions horticoles, productions florales et légumières</p>
-</td>
-<td align="center">
-<p align="left">Productions végétales-Agroéquipements</p>
+<p align="left">Conduite et gestion de l'entreprise hippique</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Productions horticoles, productions fruitières</p>
-</td>
-<td align="center">
-<br/>
+<p align="left">Conduite et gestion d'une entreprise du secteur canin et félin</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Productions horticoles, pépinières</p>
-</td>
-<td align="center">
-<br/>
+<p align="left">Productions aquacoles</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Agroéquipements</p>
+<p align="left">Conduite et gestion de l'exploitation agricole/systèmes à dominante cultures</p>
 </td>
-<td align="center"/>
+<td align="center" rowspan="4">
+<p align="center">Productions végétales - agroéquipement</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Conduite et gestion de l'exploitation agricole/vigne et vin</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Productions horticoles</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Agroéquipement</p>
+</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Aménagements paysagers</p>
 </td>
-<td align="center">
-<br/>
+<td align="center" rowspan="3">
+<p align="center">Nature - jardin - paysage - forêt</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Gestion et conduite des chantiers forestiers</p>
-</td>
-<td align="center">
-<p align="left">Nature-Jardin-Paysage-Forêt </p>
+<p align="left">Forêt</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Gestion des milieux naturels et de la faune</p>
 </td>
-<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Technicien-conseil vente en animalerie</p>
+<p align="left">Technicien conseil vente en animalerie</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Technicien-conseil vente en alimentation</p>
-</td>
-<td align="center">
-<p align="left">Conseil vente</p>
+<td align="center" rowspan="3">
+<p align="center">Conseil vente</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Technicien-conseil vente de produits de jardin</p>
+<p align="left">Technicien conseil vente en alimentation</p>
 </td>
-<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Bio-industries de transformation (1)</p>
+<p align="left">Technicien conseil vente en produits de jardin</p>
 </td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Alimentation-Bio-industries-Laboratoire </p>
+<p align="left">Bio-industries de transformation</p>
+</td>
+<td align="center" rowspan="2">
+<p align="center">Alimentation - bio-industries - laboratoire</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Laboratoire contrôle qualité</p>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="left">(1) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale. </p>
 </td>
 </tr>
 </tbody>
