@@ -50,7 +50,7 @@ Patouret Dubois, 89200 Avallon : de 1890 à 1997 ;
 
 Porteret Beaulieu Industries, BP 11, 21310 Mirebeau-sur-Bèze : de 1940 à 1996 ;
 
-SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1996 ;
+SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1997 ;
 
 SERCI Isothelme, 89150 Saint-Valérien, de 1960 à 1996 ;
 
@@ -334,7 +334,7 @@ Rhône-Alpes
 
 Curty Compagnie/Cefilac SA/Société Curty/Société Curty Payen/Federal Mogul/Sealing Systems, 93-103, avenue Lacassagne, 69003 Lyon ; - 25, rue Aristide-Briand, 69800 Saint-Priest : de 1916 à 1994.
 
-Dalami/Sud Isol/Sommer Revêtement France SA, BP 25, ZI Le Cappa, 26140 Saint-Rambert-d'Albon : de 1961 à 1986.
+Dalami, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1961 à 1978, puis Sud Isol/Sommer Revêtements, France SA, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1978 à 1986 ;
 
 Entreprise Lopez, 26140 Andancette : de 1978 à 1997.
 
@@ -470,6 +470,8 @@ Bretagne
 
 Ateliers Danno, rue Arthur-Enaud, 22600 Loudéac : de 1973 à 1993 ;
 
+Ateliers mécaniques lorientais, 2, rue Fulvy, 56100 Lorient : de 1994 à 1996 ;
+
 Avel Le Pommelec, Société nouvelle Avel/Avel Industries, Kermeur, 22530 Mur-de-Bretagne, de 1971 à 1993 ;
 
 Chaffauteaux et Maury, Le Légué, 22000 Saint-Brieuc, de 1958 à 1969, puis Les Châtelets, 22440 Ploufragan, de 1969 à 1996 ;
@@ -511,6 +513,8 @@ Samua, Saint-Eloi, 22540 Louargat : de 1976 à 1986 ;
 SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CECF : Compagnie européenne de constructions de fours), puis Société d'applications électrotechniques, ZI de kerpont, 56850 Caudan : de 1968 à 1988 ;
 
 Sérupa, route de Rennes, 22230 Merdrignac : de 1974 à 1998 ;
+
+SLPM (Société de location de personnels et de matériels), 8, avenue de Kergroise,56100 Lorient : De 1980 à 1998 ;
 
 SNPE/Nobel Sport, 2, rue du Squiriou, 29590 Pont-de-Buis : de 1972 à 1996 ;
 
@@ -878,6 +882,8 @@ Société Capel/Cape/Cape contracts/Socap, ZI La Métairie, 76170 Lillebonne : d
 
 Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
 
+SNEF Electric Flux, 43 bis, rue Hippolyte-de-Tocqueville, 50100 Cherbourg de 1954 à 1985. Puis ZI, route de Beaumont, 50120 Equeurdreville-Hainneville : de 1985 à 2003 ;
+
 SNIFI/EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994 ;
 
 SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968 ;
@@ -907,6 +913,8 @@ ACB/Alstom Fluides et Mécanique, boulevard de la Prairie-au-Duc, 44945 Nantes C
 Babcock Sacom, case postale 3601, rue Julian-Grimau, 44805 Saint-Herblain : de 1929 à 1996 ;
 
 Carel et Fouche, puis Construction ferroviaire du Mans, 2, rue du Miroir, 72000 Le Mans : de 1960 à 1987 ;
+
+EATON SA, ZI de Brais, 44611 Saint-Nazaire : De 1974 à 1996 ;
 
 Inoxydable de l'Ouest, 53800 Congrier : de 1961 à 1982 ;
 
@@ -1022,7 +1030,9 @@ SNPE-Etablissement d'Angoulême, 16017 Angoulême, de 1975 à 1999.
 
 Provence-Alpes-Côte d'Azur
 
-Alpha Isolation, ZI Les Estroublans, 1, rue No-5, 13127 Vitrolles : depuis 1976.
+Alpha Isolation, ZI Les Estroublans, 1, rue No-5, 13127 Vitrolles : depuis 1976 ;
+
+AMI FROID, 52, chemin du Gavaou, 13380 Plan-de-Cuques : De 1979 à 1982, puis 5, avenue des Pins, 13013 Marseille, et 176, avenue des Poilus, quartier Les Olives, 13013 Marseille : De 1983 à 1986, puis ZAC de la Haute-Bédoule, 13240 Septèmes-les-Vallons : De 1986 à 1996 ;
 
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111, 13773 Fos-sur-Mer : de 1975 à 2001 ;
 
@@ -1032,11 +1042,17 @@ ATOFINA, usine de Saint-Auban, 04600 Saint-Auban : de 1962 à 1994 ;
 
 Babcock Sacom, 775, rue André-Ampère, 13852 Aix-en-Provence : de 1929 à 1996 ;
 
+Boulogne et Huard, ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau : De 1975 à 1996 ;
+
 BP Chemicals, BP 6, 13117 Lavera, de 1970 à 1977 ;
+
+Castellano, 274, chemin du Littoral, 13015 Marseille : de 1946 à 1980 ;
 
 Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 06600 Antibes, lieudit Font de Cine, chemin de Saint-Bernard, 06220 Vallauris, de 1953 à 1996 ;
 
 Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
+
+Chaudronnerie Bancel, 278, chemin de la Madrague-Ville, 13015 Marseille, de 1982 à 1985, puis, quai de la Lave, route du Rove, 13016 Marseille : de 1986 à 1989 ;
 
 CMPEI, CMA, CMF, CMP, Constructions métalliques de Provence, Constructions métalliques d'Arles, Constructions métalliques de France, 1, rue Nicolas-Copernic, chemin des Moines, 13200 Arles, de 1952 à 1994 ;
 
@@ -1046,6 +1062,8 @@ France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : 
 
 FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : de 1988 à 1996 ;
 
+Société de tuyauterie et de montage Friedlander, établissement secondaire de Saint-Auban, ZI Les Blâches Gombert, 04160 Château-Arnoux : De 1970 à 1996 ;
+
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
 Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Produits chimiques Ugine Kuhlmann-PCUK puis ELF Atochem, Usine de l'Estaque, 13016 Marseille : De 1916 à 1989 ;
@@ -1054,7 +1072,19 @@ L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loub
 
 Peinture Marius Dufour, 58-90, boulevard Fifi-Turin, BP 96, 13395 Marseille Cedex : de 1972 à 1994 ;
 
+Perez Tuyauterie chaudronnerie industrielle et maritime, 18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille : de 1980 à 1989 ;
+
+Perez/MTC, 16-18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille : de 1989 à 1990 ;
+
+MTC, 16, avenue Maxime, chemin de la Madrague, 13015 Marseille et 5, avenue de la Côte-Bleue, 13820 Ensuès-la-Redonne : de 1989 à 1994 ;
+
+CTIM, 18, avenue Maxime, 13015 Marseille : de 1994 à 1996, puis bâtiment Primindus, plan de campagne, 13480 Cabriès : de 1996 à 2000 ;
+
+ZI Avon n° 61, 13120 Gardanne : de 2000 à 2006 ;
+
 Pillard Frères/Pillard et compagnie/EGCI Pillard/entreprise Pillard, 15, rue des Frères-Cubbedu, 13014 Marseille, de 1961 à 1996 ;
+
+Plastique Provence,426, boulevard National, 13003 Marseille : De 1973 à 1981 ;
 
 Poudrerie nationale de Sorgues puis Société nationale des poudres et explosifs (SNPE)? 1928, route d'Avignon, BP 311, 84706 Sorgues Cedex : 1972 à 1996 ;
 
@@ -1086,7 +1116,9 @@ Saint-Marcel ferroviaire (SMF), 25, boulevard de Saint-Marcel, 13011 Marseille :
 
 SNIFI/EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994 ;
 
-SNIFI/EFI, BP 61, 13110 Port-de-Bouc, de 1965 à 1990.
+SNIFI/EFI, BP 61, 13110 Port-de-Bouc, de 1965 à 1990 ;
+
+TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-Caillol, 13012 Marseille, 95, avenue des Caillols, 13012 Marseille, 23, bassin de Radoub, forme 7, enceinte portuaire, 13002 Marseille : de 1977 à 1987.
 
 Rhône-Alpes
 
@@ -1102,19 +1134,21 @@ Bourrin, 18, Grande-Rue, 42406 Saint-Chamond Cedex : depuis sa création jusqu'e
 
 CARTONNERIES réunies VOISIN ET PASCAL, Usine du Moulin, rue de l'Etissey, 38300 Bourgoin-Jallieu : De 1948 à 1991 ;
 
-Carborundum, 17, rue Antoine-Durafour, 42420 Lorette : de 1964 à 1977.
+Carborundum, 17, rue Antoine-Durafour, 42420 Lorette : de 1964 à 1977 ;
 
-CECA Saint-Bauzille, CECA, 07210 Saint-Bauzille : de 1960 à 1970.
+CECA Saint-Bauzille, CECA, 07210 Saint-Bauzille : de 1960 à 1970 ;
 
-CME, IEE, Erome SA, chemin Vianial, 26600 Erome, de 1971 à 1986.
+CEZUS Chimie SA, Etablissement de Jarrie, route du Marais, 38560 Jarrie : De 1982 à 1994 ;
 
-Edra Stop, 8, chemin de Bessy, 42150 La Ricamarie : de 1960 à 1997.
+CME, IEE, Erome SA, chemin Vianial, 26600 Erome, de 1971 à 1986 ;
 
-Electrolux professionnel, ZI, 9, avenue Marc-Seguin, 26240 Saint-Vallier, de 1970 à 1985.
+Edra Stop, 8, chemin de Bessy, 42150 La Ricamarie : de 1960 à 1997 ;
+
+Electrolux professionnel, ZI, 9, avenue Marc-Seguin, 26240 Saint-Vallier, de 1970 à 1985 ;
 
 Entreprise lyonnaise isolation thermique (ELIT), 6, rue des Aqueducs, 69290 Craponne : de sa création à 1992 ;
 
-Etablissements Joly/groupe DSMEPP France/Cestidur industrie/Quadrant EPP France, 34, rue Louis-Saillant, 69120 Vaulx-en-Velin, puis 60, rue René-Desgrand, 69100 Villeurbanne, puis Pusignan, 69881 Meyzieu : de 1977 à 1991.
+Etablissements Joly/groupe DSMEPP France/Cestidur industrie/Quadrant EPP France, 34, rue Louis-Saillant, 69120 Vaulx-en-Velin, puis 60, rue René-Desgrand, 69100 Villeurbanne, puis Pusignan, 69881 Meyzieu : de 1977 à 1991 ;
 
 Etablissements Vital Fargere Aîné/Cefilac, rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1879 à 1997 ;
 
@@ -1134,7 +1168,7 @@ JST/Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
 
 Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 42500 Le Chambon-Feugerolles : de 1920 à 1995 ;
 
-Pavailler Equipement, Pavailler BVP, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
+Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 

@@ -274,6 +274,8 @@ Albert Villani et Fils/Villani :
 
 AMI (Alliance maritime interprofessionnelle) Quartier La Dabry RN 8 83330 Le Beausset De 1960 à 1985.
 
+AMI FROID. 52, chemin du Gavaou, 13380 Plan-de-Cuques. De 1979 à 1982. Puis 5, avenue des Pins, 13013 Marseille, et 176, avenue des Poilus, quartier Les Olives, 13013 Marseille. De 1983 à 1986. Puis ZAC de la Haute-Bédoule, 13240 Septèmes-les-Vallons De 1986 à 1996.
+
 AMM (Approvisionnement Maintenance Marine), AMM Poggioli (Automatisme Mesure Maintenance), 23, traverse Santi, 13015 Marseille, de 1985 à 2002.
 
 AMTIM (Ateliers métropolitains de travaux industriels et maritimes), 9, boulevard Pons, 13000 Marseille, de 1958 à 1971.
@@ -348,6 +350,8 @@ Azur Montage, ZI Les Bartavelles-les Négadoux, 83140 Six-Fours-les-Plages : de 
 
 Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
 
+Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau. De 1975 à 1996.
+
 Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
@@ -358,9 +362,7 @@ Carénage du port :
 
 - port, 06700 Saint-Laurent-du-Var : de 1970 à 1980.
 
-Castellano :
-
-- 274, chemin du Littoral, 13015 Marseille : depuis 1946.
+Castellano, 274, chemin du Littoral, 13015 Marseille, de 1946 à 1980.
 
 Cauvet services/Cauvet Intérim, cours Joseph-Thierry, Marseille, extension Plein Sud, avenue de la Pétanque, 13600 La Ciotat, et RN 8, quartier de la Malle, 13330 Bouc-Bel-Air : de 1967 à 1977.
 
@@ -382,7 +384,7 @@ Chantiers navals des Baux :
 
 Chantiers navals du Sud, Entreprise générale de construction et de réparation navale, anse du Pharo, 13000 Marseille, de 1967 à 1969.
 
-Chaudronnerie Bancel, quai de la Lave, route du Rove, 13016 Marseille : de 1985 à 1989.
+Chaudronnerie Bancel, 278, chemin de la Madrague-Ville, 13015 Marseille, de 1982 à 1985, puis, quai de la Lave, route du Rove, 13016 Marseille, de 1986 à 1989.
 
 Chaudronnerie Bord navires :
 
@@ -457,8 +459,6 @@ Covini SA/Covini SN/Covini Entreprise SA, ZI Camp-Laurent, 83500 La Seyne-sur-Me
 CPM (Compagnie provençale de mécanique), boulevard Toussaint-Merle, site Marépolis, 83500 La Seyne-sur-Mer : de 1989 à 1996.
 
 CRM (Compagnie radio maritime). 27, rue de la République, 13001 Marseille, puis 17-19, rue Fauchier, 13002 Marseille. De 1957 à 1987.
-
-CTIM/MTC 5 avenue de la Côte-Bleue, 13 820 Ensues-la-Redonne depuis 1994
 
 Dalmas Production ZI les Paluds, 711, avenue de la Fleuride, Aubagne. Depuis 1986
 
@@ -736,8 +736,6 @@ Motor Marine/Monaco Marine Group :
 
 - port de Saint-Laurent, 06706 Saint-Laurent : de 1970 à 1980.
 
-MTC, bâtiment Primindus/CTIM (chaudronnerie, tuyauterie, industrie mindus, plan de Campagne, 13480 Cabries et 18, avenue Maxime, 13015 Marseille, de 1989 à 1994
-
 NAFCO-Toulon Arsenal :
 
 - BP 40, 83000 Toulon : depuis sa création.
@@ -768,9 +766,19 @@ Nouvelle société provençale de remorquage :
 
 Ortec, puis Ortec Méca, puis Friedlander, puis Ortec Buzichelli et compagnie, puis Ortes Services industrie, 140, avenue L.-Lagrange, ZI Toulon-Est, 83088 Toulon Cedex : depuis 1990.
 
-Perez CTIM Boulevard Pèbre, 13008 Marseille De 1980 à 1990
+Perez Tuyauterie chaudronnerie industrielle et maritime, 18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille, de 1980 à 1989.
+
+Perez/MTC, 16-18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille, de 1989 à 1990.
+
+MTC, 16, avenue Maxime, chemin de la Madrague, 13015 Marseille et 5, avenue de la Côte-Bleue, 13820 Ensuès-la-Redonne, de 1989 à 1994.
+
+CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment Primindus, plan de campagne, 13480 Cabriès, de 1996 à 2000.
+
+ZI Avon n° 61, 13120 Gardanne, de 2000 à 2006.
 
 Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
+
+Plastique Provence. 426, boulevard National, 13003 Marseille. De 1973 à 1981.
 
 Philippou :
 
@@ -837,8 +845,6 @@ SAMIC/SPRS/SNPRS :
 - ZI camp Laurent, 83500 La Seyne-sur-Mer impasse Noël-Verlaque, 83500 La Seyne-sur-Mer, zone portuaire de Bregaillon, 83500 La Seyne-sur-Mer : de 1960 à 1990.
 
 SARL BIANCHI Mécanique générale moderne. ZI de Toulon-Est, 83078 Toulon Cedex. De 1975 à 1981.
-
-SARL CTIM ZI d'Avon 13120 Gardanne Depuis 1994.
 
 SARL Industrie marine, 40, quai Hoche, 83500 La Seyne-sur-Mer, de 1969 à 1983.
 
@@ -1160,6 +1166,8 @@ Tous travaux maritimes (TTM), 19, avenue du Cap-Pinède, 13015 Marseille : de 19
 
 Tous travaux maritimes et industriels (TTMI), 31, boulevard de Magallon, 13015 Marseille : de 1987 à 1990.
 
+TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-Caillol, 13012 Marseille, 95, avenue des Caillols, 13012 Marseille, 23, bassin de Radoub, forme 7, enceinte portuaire, 13002 Marseille, de 1977 à 1987.
+
 Travaux de chaudronnerie maritime et industrielle (TCMI), 42, rue Condorcet, Saint-André, 13016 Marseille : depuis 1998.
 
 Travaux de constructions industriels et maritimes (TCIM), 43, boulevard Gilbert-Chamasson, 13016 Marseille : de 1984 à 1988.
@@ -1167,8 +1175,6 @@ Travaux de constructions industriels et maritimes (TCIM), 43, boulevard Gilbert-
 Travaux électriques chaudronnerie hydraulique (TECH), 31, boulevard de Magallon, 13015 Marseille : de 1987 à 1990.
 
 TTPN (Tous travaux de peinture et de nettoyage), 30, rue des Phocéens, 13002 Marseille, et 7, rue Pasteur-Heuzé, 13003 Marseille : de 1978 à 1994.
-
-Tuyauterie provençale industrie marine (TPIM), 69, rue Emile-Caillol, 13012 Marseille, et enceinte portuaire, bassin de radoub, 13002 Marseille : de 1977 à 1987.
 
 Var Industrie :
 

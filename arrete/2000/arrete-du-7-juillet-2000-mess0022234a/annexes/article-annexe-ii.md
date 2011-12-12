@@ -278,9 +278,7 @@ Ateliers mécaniques Bougar :
 
 Ateliers mécaniques de Keroman, rue Maurice-Le Léon, 56100 Lorient : de 1967 à 1994
 
-Ateliers mécaniques lorientais :
-
-- 13, boulevard Louis-Nail, 56100 Lorient : depuis 1994.
+Ateliers mécaniques lorientais, 2, rue Fulvy, 56100 Lorient, de 1994 à 1996.
 
 Atelier motonautique, Port-la-Forêt, 29940 La Forêt-Fouessant : depuis 1977.
 
@@ -817,6 +815,8 @@ SIETAR Technologies :
 SIMEG (Société industrielle de mécanique générale). ZI de Kersalé, 29900 Concarneau. De 1973 à 1997.
 
 SLEN (Société lorientaise d'entretien naval), 15, quai du Pourquoi-Pas, 56100 Lorient : depuis 1977.
+
+SLPM (Société de location de personnels et de matériels). 8, avenue de Kergroise,56100 Lorient. De 1980 à 1998.
 
 SLTIM (Société lorientaise de techniques industrielles et marines Rue de Seignelelay, puis 8 B, rue Emile-Marcesche, puis 27, rue Ingénieur-Verrière, 56100 Lorient. De 1990 à 1996.
 
