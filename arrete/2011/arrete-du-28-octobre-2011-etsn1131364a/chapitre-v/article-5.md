@@ -18,6 +18,8 @@ Les données traitées relatives aux praticiens hospitaliers électeurs sont les
 
 ― le numéro de téléphone, de télécopie et le courriel personnel et/ou professionnel ;
 
-― l'appartenance syndicale ;
+― la date de naissance ;
 
-― la qualité de l'électeur (praticien hospitalier à temps plein, praticien des hôpitaux à temps partiel, personnels enseignants et hospitaliers titulaires).
+― la qualité de l'électeur (praticien hospitalier à temps plein, praticien des hôpitaux à temps partiel, personnels enseignants et hospitaliers titulaires) ;
+
+-Les données traitées relatives aux praticiens hospitaliers candidats comportent, en outre, la mention de la liste sur laquelle figurent les intéressés.
