@@ -8,7 +8,7 @@ Le jury de l'examen professionnel, dont les membres sont nommés par le ministre
 
 3° Le directeur général de la compétitivité, de l'industrie et des services, ou son représentant ;
 
-4° Un directeur régional de l'industrie, de la recherche et de l'environnement ou un directeur régional de l'environnement de l'aménagement et du logement ou un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, ou leur représentant ;
+4° Un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur régional de l'environnement, de l'aménagement et du logement ou un directeur de l'environnement, de l'aménagement et du logement ou le directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France ou leur représentant ;
 
 5° Deux ingénieur (e) s divisionnaires de l'industrie et des mines.
 
