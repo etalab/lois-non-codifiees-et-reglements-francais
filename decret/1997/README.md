@@ -452,8 +452,6 @@
 - [Décret n°97-514 du 21 mai 1997 (ECOP9700262D)](decret-n97-514-du-21-mai-1997-ecop9700262d)
 - [Décret n°97-515 du 21 mai 1997 (ECOP9700258D)](decret-n97-515-du-21-mai-1997-ecop9700258d)
 - [Décret n°97-518 du 21 mai 1997 (AGRA9700823D)](decret-n97-518-du-21-mai-1997-agra9700823d)
-- [Décret du 22 août 1997 (ECOC9700103D)](decret-du-22-aout-1997-ecoc9700103d)
-- [Décret du 22 août 1997 (ECOC9700104D)](decret-du-22-aout-1997-ecoc9700104d)
 - [Décret n°97-1167 du 22 décembre 1997 (JUSC9720784D)](decret-n97-1167-du-22-decembre-1997-jusc9720784d)
 - [Décret n°97-1168 du 22 décembre 1997 (ECOT9751636D)](decret-n97-1168-du-22-decembre-1997-ecot9751636d)
 - [Décret n°97-384 du 22 avril 1997 (MENU9700433D)](decret-n97-384-du-22-avril-1997-menu9700433d)
