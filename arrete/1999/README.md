@@ -445,7 +445,6 @@
 - [Arrêté du 21 octobre 1999 (INTA9900473A)](arrete-du-21-octobre-1999-inta9900473a)
 - [Arrêté du 21 octobre 1999 (INTA9900474A)](arrete-du-21-octobre-1999-inta9900474a)
 - [Arrêté du 21 octobre 1999 (INTA9900475A)](arrete-du-21-octobre-1999-inta9900475a)
-- [Arrêté du 21 septembre 1999 (MJSK9970048A)](arrete-du-21-septembre-1999-mjsk9970048a)
 - [Arrêté du 22 avril 1999 (JUSE9940061A)](arrete-du-22-avril-1999-juse9940061a)
 - [Arrêté du 22 décembre 1998 (INTB9900016A)](arrete-du-22-decembre-1998-intb9900016a)
 - [Arrêté du 22 décembre 1998 (MESS9821091A)](arrete-du-22-decembre-1998-mess9821091a)

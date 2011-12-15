@@ -147,7 +147,6 @@
 - [Arrêté du 5 novembre 1996 (MIPP9600374A)](arrete-du-5-novembre-1996-mipp9600374a)
 - [Arrêté du 5 novembre 1996 (TASS9624074A)](arrete-du-5-novembre-1996-tass9624074a)
 - [Arrêté du 5 septembre 1996 (INDH9600614A)](arrete-du-5-septembre-1996-indh9600614a)
-- [Arrêté du 5 septembre 1996 (MJSK9670119A)](arrete-du-5-septembre-1996-mjsk9670119a)
 - [Arrêté du 5 septembre 1996 (MJSK9670121A)](arrete-du-5-septembre-1996-mjsk9670121a)
 - [Arrêté du 5 septembre 1997 (MESG9710908A)](arrete-du-5-septembre-1997-mesg9710908a)
 - [Arrêté du 5 mai 1995 (LOGC9500034A)](arrete-du-5-mai-1995-logc9500034a)
