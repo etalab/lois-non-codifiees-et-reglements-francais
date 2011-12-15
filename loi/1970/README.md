@@ -11,3 +11,4 @@
 - [Loi n° 70-610 du 10 juillet 1970](loi-n-70-610-du-10-juillet-1970)
 - [Loi n° 70-612 du 10 juillet 1970](loi-n-70-612-du-10-juillet-1970)
 - [Loi n° 70-631 du 15 juillet 1970](loi-n-70-631-du-15-juillet-1970)
+- [Loi n° 70-632 du 15 juillet 1970](loi-n-70-632-du-15-juillet-1970)

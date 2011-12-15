@@ -8,4 +8,6 @@ S'il n'a pas été déféré à cette mise en demeure un mois après significati
 
 Pour établir l'état d'abandon du logement en vue de voir constater par le juge la résiliation du bail, l'huissier de justice dresse un procès-verbal des opérations. Si le logement lui semble abandonné, ce procès-verbal contient un inventaire des biens laissés sur place, avec l'indication qu'ils paraissent ou non avoir valeur marchande.
 
-La résiliation du bail est constatée par le juge dans des conditions prévues par voie réglementaire.
+Le juge qui constate la résiliation du bail autorise, si nécessaire, la vente aux enchères des biens laissés sur place et peut déclarer abandonnés les biens non susceptibles d'être vendus.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
