@@ -62,6 +62,12 @@ Argentine (jusqu'au 31 décembre 2012)
 
 Paris-Buenos Aires.
 
+Paris-Córdoba ;
+
+Paris-Mendoza ;
+
+Paris-Rosario.
+
 Arménie (jusqu'au 31 décembre 2012) :
 
 Lyon-Erevan ;
@@ -543,6 +549,10 @@ Paris-Tachkent.
 Panama (jusqu'au 31 décembre 2012)
 
 Paris-Panama City.
+
+Paraguay (jusqu'au 31 décembre 2012)
+
+Paris-Assomption.
 
 Pérou (jusqu'au 31 décembre 2012)
 
