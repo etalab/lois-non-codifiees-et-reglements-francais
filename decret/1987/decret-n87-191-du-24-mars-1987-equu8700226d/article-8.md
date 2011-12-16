@@ -1,14 +1,20 @@
 # Article 8
 
-L'établissement est administré par un conseil d'administration comportant : 1° Neuf membres représentant l'Etat, désignés à raison de :
+L'établissement est administré par un conseil d'administration comportant :
+
+1° Dix membres représentant l'Etat, désignés à raison de :
 
 - deux membres par le ministre chargé de l'urbanisme ;
 
-- deux membres par le ministre de l'économie et des finances ;
+- un membre par le ministre chargé du logement ;
+
+- un membre par le ministre chargé de l'économie ;
+
+- un membre par le ministre chargé du budget ;
+
+- un membre par le ministre chargé des collectivités territoriales ;
 
 - un membre par le ministre chargé des transports ;
-
-- un membre par le ministre chargé des collectivités locales ;
 
 - un membre par le ministre chargé des télécommunications ;
 
@@ -16,7 +22,7 @@ L'établissement est administré par un conseil d'administration comportant : 1�
 
 - un membre par le ministre chargé de la culture ;
 
-2° Neuf membres représentant les collectivités locales :
+2° Dix membres représentant les collectivités territoriales :
 
 - le président du conseil régional d'Ile-de-France ou son représentant ;
 
@@ -24,9 +30,9 @@ L'établissement est administré par un conseil d'administration comportant : 1�
 
 - le président du conseil général de Seine-et-Marne ou son représentant ;
 
-- un représentant du département de Seine-et-Marne désigné en son sein par le conseil général ;
+- un représentant du département de Seine-et-Marne, désigné en son sein par le conseil général ;
 
-- le maire, ou son représentant, de chacune des communes de Bailly-Romainvilliers, Chessy, Coupvray, Magny-le-Hongre et Serris.
+- le maire, ou son représentant, de chacune des communes de Bailly-Romainvilliers, Chessy, Coupvray, Magny-le-Hongre, Serris et Villeneuve-le-Comte.
 
 Pour chacun des membres prévus au 1° ci-dessus, un suppléant est désigné dans les mêmes conditions.
 
