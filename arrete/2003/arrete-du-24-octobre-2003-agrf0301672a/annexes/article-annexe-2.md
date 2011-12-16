@@ -16,11 +16,18 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Abies cephalonica Loud.</p>
+</td>
+<td>Sapin de Céphalonie.</td>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="168">
 <p>Abies grandis Lindl. </p>
 </td>
 <td valign="top" width="168">
-<p>Sapin de Vancouver </p>
+<p>Sapin de Vancouver.</p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -29,7 +36,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Acer platanoides L. </p>
 </td>
 <td valign="top" width="168">
-<p>Erable plane </p>
+<p>Erable plane. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -38,7 +45,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Acer pseudoplatanus L </p>
 </td>
 <td width="168">
-<p>Erable sycomore </p>
+<p>Erable sycomore. </p>
 </td>
 <td valign="top" width="230">
 <p>Uniquement dans la région de provenance APS 400 "Massif central" </p>
@@ -49,7 +56,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Abies pinsapo Boiss. </p>
 </td>
 <td valign="top" width="168">
-<p>Sapin d'Espagne </p>
+<p>Sapin d'Espagne. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -58,7 +65,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Alnus glutinosa Gaertn. </p>
 </td>
 <td valign="top" width="168">
-<p>Aulne glutineux </p>
+<p>Aulne glutineux. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -67,7 +74,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Alnus incana Moench. </p>
 </td>
 <td valign="top" width="168">
-<p>Aulne blanc </p>
+<p>Aulne blanc. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -76,7 +83,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Betula pendula Roth </p>
 </td>
 <td valign="top" width="168">
-<p>Bouleau verruqueux </p>
+<p>Bouleau verruqueux. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -85,7 +92,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Betula pubescens Ehrh. </p>
 </td>
 <td valign="top" width="168">
-<p>Bouleau pubescent </p>
+<p>Bouleau pubescent. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -94,25 +101,47 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Carpinus betulus L. </p>
 </td>
 <td valign="top" width="168">
-<p>Charme </p>
+<p>Charme. </p>
 </td>
 <td valign="top" width="230"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Castanea sativa Mill.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Châtaignier.</p>
+</td>
+<td align="left" valign="top">
+<p>Uniquement dans la région de provenance CSA 800 "Corse".</p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="168">
 <p>Fraxinus angustifolia Vahl. </p>
 </td>
 <td valign="top" width="168">
-<p>Frêne oxyphylle </p>
+<p>Frêne oxyphylle. </p>
 </td>
 <td valign="top" width="230"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Fraxinus excelsior L. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Frêne commun.</p>
+</td>
+<td align="left" valign="top">
+<p>Uniquement dans la région de provenance FEX 400 "Massif central".</p>
+</td>
 </tr>
 <tr>
 <td width="168">
 <p>Juglans major x regia L.. </p>
 </td>
 <td valign="top" width="168">
-<p>Noyer hybride </p>
+<p>Noyer hybride. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -121,7 +150,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Juglans nigra L. </p>
 </td>
 <td valign="top" width="168">
-<p>Noyer noir d'Amérique </p>
+<p>Noyer noir d'Amérique. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -130,7 +159,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Juglans nigra x regia L. </p>
 </td>
 <td valign="top" width="168">
-<p>Noyer hybride </p>
+<p>Noyer hybride. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -139,7 +168,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Juglans regia L. </p>
 </td>
 <td valign="top" width="168">
-<p>Noyer royal </p>
+<p>Noyer royal. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -148,36 +177,32 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Pinus cembra L. </p>
 </td>
 <td valign="top" width="168">
-<p>Pin cembro </p>
+<p>Pin cembro. </p>
 </td>
 <td valign="top" width="230"/>
-</tr>
-<tr>
-<td width="168">
-<p>Pinus pinaster Aït </p>
-</td>
-<td width="168">
-<p>Pin maritime </p>
-</td>
-<td valign="top" width="230">
-<p>Uniquement dans la région de provenance PPA 301 jusqu'au 30/06/09 </p>
-</td>
 </tr>
 <tr>
 <td width="168">
 <p>Pinus pinea L. </p>
 </td>
 <td valign="top" width="168">
-<p>Pin pignon </p>
+<p>Pin pignon. </p>
 </td>
 <td valign="top" width="230"/>
+</tr>
+<tr>
+<td>Pinus radiata D. Don.</td>
+<td>
+<p align="left">Pin de Monterey.</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td width="168">
 <p>Populus spp. </p>
 </td>
 <td valign="top" width="168">
-<p>Espèces du genre peuplier </p>
+<p>Espèces du genre peuplier. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -186,7 +211,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Prunus avium L. </p>
 </td>
 <td valign="top" width="168">
-<p>Merisier </p>
+<p>Merisier. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -195,7 +220,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Quercus cerris L. </p>
 </td>
 <td valign="top" width="168">
-<p>Chêne chevelu </p>
+<p>Chêne chevelu. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -204,7 +229,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Quercus ilex L. </p>
 </td>
 <td valign="top" width="168">
-<p>Chêne vert </p>
+<p>Chêne vert. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -213,7 +238,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Quercus pubescens Willd. </p>
 </td>
 <td valign="top" width="168">
-<p>Chêne pubescent </p>
+<p>Chêne pubescent. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -222,7 +247,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Quercus suber L. </p>
 </td>
 <td valign="top" width="168">
-<p>Chêne liège </p>
+<p>Chêne liège. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -231,7 +256,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Robinia pseudoacacia L. </p>
 </td>
 <td valign="top" width="168">
-<p>Robinier faux-acacia </p>
+<p>Robinier faux-acacia. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -240,7 +265,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Sorbus domestica L. </p>
 </td>
 <td valign="top" width="168">
-<p>Cormier </p>
+<p>Cormier. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -249,7 +274,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Sorbus torminalis L. </p>
 </td>
 <td valign="top" width="168">
-<p>Alisier torminal </p>
+<p>Alisier torminal. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -258,7 +283,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Tilia cordata Mill. </p>
 </td>
 <td valign="top" width="168">
-<p>Tilleul à petites feuilles </p>
+<p>Tilleul à petites feuilles. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>
@@ -267,7 +292,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <p>Tilia platyphyllos Scop </p>
 </td>
 <td valign="top" width="168">
-<p>Tilleul à grandes feuilles </p>
+<p>Tilleul à grandes feuilles. </p>
 </td>
 <td valign="top" width="230"/>
 </tr>

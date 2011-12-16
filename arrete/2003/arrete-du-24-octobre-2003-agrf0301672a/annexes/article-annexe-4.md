@@ -26,9 +26,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Sapin pectiné </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -49,7 +47,7 @@ de matériel identifié est interdite sur le territoire français
 <p>Châtaignier </p>
 </td>
 <td valign="top" width="326">
-<br/>
+<p>A l'exception de la région de provenance CSA 800 "Corse"</p>
 </td>
 </tr>
 <tr>
@@ -59,9 +57,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Cèdre de l'Atlas </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -70,9 +66,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Hêtre </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -82,7 +76,7 @@ de matériel identifié est interdite sur le territoire français
 <p>Frêne commun </p>
 </td>
 <td valign="top" width="326">
-<br/>
+<p>A l'exception de la région de provenance FEX 400 "Massif central"</p>
 </td>
 </tr>
 <tr>
@@ -92,9 +86,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Mélèze d'Europe </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -103,9 +95,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Melèze hybride </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -114,9 +104,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Epicéa commun </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -125,9 +113,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin d'Alep </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -136,9 +122,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin de Salzmann </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -147,9 +131,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin laricio de Calabre </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -158,9 +140,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin laricio de Corse </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -169,9 +149,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin noir d'Autriche </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -181,8 +159,8 @@ de matériel identifié est interdite sur le territoire français
 <p>Pin maritime </p>
 </td>
 <td valign="top" width="326">
-<p>1) en dehors de la région de provenance PPA 301</p>
-<p>2) y compris la région de provenance PPA 301 àcompter du 1er juillet 2011 </p>
+<p>1) En dehors de la région de provenance PPA 301 "Massif landais" et des régions administratives Bretagne et Pays-de-la-Loire ;</p>
+<p>2) Y compris la région de provenance PPA 301 "Massif landais" et les régions administratives Bretagne et Pays-de-la-Loire, à compter du 1er juillet 2012. </p>
 </td>
 </tr>
 <tr>
@@ -192,9 +170,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Pin sylvestre </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -204,7 +180,7 @@ de matériel identifié est interdite sur le territoire français
 <p>Douglas vert </p>
 </td>
 <td valign="top" width="326">
-<p>A compter du 1er juillet 2011 </p>
+<p>A compter du 1er juillet 2012 </p>
 </td>
 </tr>
 <tr>
@@ -214,9 +190,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Chêne sessile </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -225,9 +199,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Chêne pédonculé </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 <tr>
 <td valign="top" width="175">
@@ -236,9 +208,7 @@ de matériel identifié est interdite sur le territoire français
 <td valign="top" width="108">
 <p>Chêne rouge </p>
 </td>
-<td valign="top" width="326">
-<br/>
-</td>
+<td valign="top" width="326"/>
 </tr>
 </tbody>
 </table>

@@ -34,18 +34,18 @@ Dans le cas où les matériels forestiers de reproduction sont issus de matérie
 
 Quatre modèles de documents du fournisseur figurent en annexe 5 du présent arrêté. Les modèles des annexes 5-A et 5-B concernent la commercialisation de lots de semences, les annexes 5-C et 5-D la commercialisation de lots de plants et parties de plantes. Les modèles des annexes 5-B et 5-D ne peuvent être utilisés que pour les végétaux soumis à passeport phytosanitaire. Ces modèles avec passeport phytosanitaire intégré ne peuvent être utilisés que par les établissements immatriculés auprès du préfet de région (service régional en charge de la protection des végétaux) et après avis favorable de ce dernier.
 
-Les lots de plants et parties de plantes à fins forestières, comportant moins de cinquante unités (s'il s'agit de merisiers, d'alisiers, de cormiers, de noyers ou si les matériels sont issus de clones), et moins de cinq cents unités (pour tous les autres matériels), peuvent être commercialisés sur le territoire français avec une étiquette ou un document du fournisseur simplifié ou une facture ou un bon de livraison comportant les informations suivantes :
+Les lots de plants et parties de plantes à fins forestières, comportant moins de vingt-cinq unités (s'il s'agit de merisiers, d'alisiers, de cormiers, de noyers ou si les matériels sont issus de clones) et moins de deux cent cinquante unités (pour tous les autres matériels) peuvent être commercialisés sur le territoire français avec une étiquette ou un document du fournisseur simplifié ou une facture ou un bon de livraison comportant les informations suivantes :
 
--le nom (ou raison sociale), l'adresse et le numéro SIRET / SIREN du fournisseur ;
+- le nom (ou raison sociale), l'adresse et le numéro SIRET/ SIREN du fournisseur ;
 
--le nom botanique ;
+- le nom botanique ;
 
--la catégorie ;
+- la catégorie ;
 
--pour les matériels identifiés et sélectionnés, la région de provenance, pour les matériels qualifiés et testés, la référence unique figurant dans le registre national des matériels de base des essences forestières ou dans la liste communautaire des matériels de base admis lorsque les matériels sont issus d'unités d'admission non situées sur le territoire français ;
+- pour les matériels identifiés et sélectionnés, la région de provenance, pour les matériels qualifiés et testés, la référence unique figurant dans le registre national des matériels de base des essences forestières ou dans la liste communautaire des matériels de base admis lorsque les matériels sont issus d'unités d'admission non situées sur le territoire français ;
 
--la quantité livrée ;
+- la quantité livrée ;
 
--l'indication du pays de production ;
+- l'indication du pays de production ;
 
--les catégories d'âge et de hauteur.
+- les catégories d'âge et de hauteur.
