@@ -1,12 +1,8 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
-
-Intitulé :
-
-Titre professionnel : technicien (ne) d'études en mécanique (anciens intitulés : dessinateur [trice] d'exécution en systèmes mécaniques et technicien [ne] d'études en systèmes mécaniques).
+Intitulé : technicien (ne) d'études en mécanique.
 
 Niveau : IV.
 
@@ -14,59 +10,57 @@ Code NSF : 251 n.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) d'études en mécanique réalise les dossiers d'études détaillés de sous-ensembles de machines et de biens d'équipements, à partir d'un cahier des charges, d'une préétude ou d'un schéma fonctionnel et de consignes.
+Le (la) technicien (ne) d'études en mécanique réalise les dossiers d'étude détaillés de sous-ensembles de machines et de biens d'équipement, à partir d'un cahier des charges, d'une pré-étude ou d'un schéma fonctionnel et de consignes. Ces dossiers d'étude ont pour objet de permettre au département méthodes et industrialisation la production d'exemplaires du produit conformes au dossier de définition de référence.
 
-Ces dossiers comprennent des plans, des nomenclatures, des notices techniques qui précisent les ensembles mécaniques et les pièces constitutives en vue de leur fabrication, de leur montage et de leur utilisation.
+Ces dossiers comprennent les instructions nécessaires à la définition du produit, à savoir : des plans, des nomenclatures, des notices techniques qui précisent les ensembles mécaniques et les pièces constitutives en vue de leur fabrication, de leur montage et de leur utilisation. Ceux-ci sont réalisés à l'aide de logiciels de CAO-DAO et bureautiques.
 
-Autrefois réalisés à la main, ils sont maintenant réalisés à l'aide de logiciels spécifiques (DAO, CAO et outils bureautiques).
+Il (elle) intègre l'environnement, la sécurité des biens et des personnes, les règles de base en conception lors de l'étude des produits industriels et il (elle) s'informe régulièrement sur les évolutions technologiques et les coûts des composants disponibles sur le marché.
 
-Le (la) technicien (ne) d'études en mécanique travaille généralement dans un bureau d'études ou de méthodes, mais peut être amené (e) à effectuer des missions de longue durée chez un client ou sur un chantier, ou encore effectuer parfois du télétravail.
+Il (elle) travaille généralement au sein d'une équipe pluridisciplinaire, sous la responsabilité d'un chef de projet ou d'un responsable de bureau d'études, qui a en charge la répartition des tâches en fonction des compétences techniques et de la disponibilité de chacun. Ce responsable hiérarchique est à la fois l'interlocuteur principal et le support technique du technicien. Il est le garant de la cohérence du projet.
 
-Le (la) technicien (ne) d'études en mécanique travaille généralement sous la responsabilité d'un chef de projet ou d'un responsable de bureau d'études. Lors du travail en équipe projet, le travail est réparti à chacun en fonction de ses compétences techniques et de sa disponibilité. Le chef de projet est alors l'interlocuteur privilégié du (de la) technicien (ne).
+L'emploi s'exerce en bureau d'études, dans un cabinet d'ingénierie sous-traitant ou sur site chez le client (ex. : site de production) et nécessite un travail de collaboration avec l'ensemble de l'équipe projet. Le (la) salarié (e) peut être amené à être mobile géographiquement ou à pratiquer des horaires variables. Selon l'organisation de l'entreprise ou le secteur d'activité, le (la) technicien (ne) peut se trouver dans l'obligation de vivre sur le lieu de travail pendant la durée du projet.
 
-La part d'innovation laissée au (à la) technicien (ne) consiste à rechercher, transposer et adapter des solutions existantes à partir d'informations collectées dans la banque de ressources propre à l'entreprise, auprès des fournisseurs, et de plus en plus par accès internet.
+Capacités attestées et descriptif des composantes de la certification
 
-Capacités attestées et descriptif
+1. Concrétiser l'architecture mécanique d'un produit
 
-des composantes de la certification
+Modifier des dossiers d'étude en utilisant des outils CAO et bureautiques.
 
-1. Numériser des plans mécaniques
+Elaborer la maquette numérique d'un système mécanique et produire un dessin d'ensemble.
 
-Modifier des dossiers d'étude en utilisant les outils DAO et les outils bureautiques.
+Intégrer des composants technologiques dans la conception d'ensembles mécaniques.
 
-Créer des modèles de pièces et d'assemblages et réaliser la mise en plans d'ensembles mécaniques avec un logiciel CAO.
+2. Etudier l'architecture d'un système mécanique
 
-Intégrer des éléments standard de liaison et de guidage dans la conception de sous-ensembles mécaniques.
+Réaliser l'analyse fonctionnelle d'un mécanisme.
 
-2. Réaliser l'étude de sous-ensembles mécaniques
+Sélectionner des composants technologiques.
 
-Choisir des composants standard pour l'intégration dans des mécanismes.
+Réaliser des calculs simples de résistance des matériaux.
 
-Réaliser la cotation fonctionnelle de sous-ensembles mécaniques.
+Réaliser des dessins d'ensembles mécaniques.
 
-Faire des nomenclatures de sous-ensembles mécaniques.
+Rédiger des nomenclatures d'ensembles mécaniques.
 
-Réaliser des dessins d'ensemble mécaniques.
+Réaliser la cotation fonctionnelle d'ensembles mécaniques.
 
 3. Elaborer des dessins de définition de pièces mécaniques
 
-Faire l'analyse fonctionnelle d'un mécanisme.
+Réaliser l'analyse fonctionnelle d'un mécanisme.
+
+Réaliser des dessins d'ensembles mécaniques.
 
 Réaliser la cotation fonctionnelle d'une pièce mécanique.
 
-Faire un calcul simple de résistance des matériaux en utilisant un formulaire ou un logiciel.
-
 Réaliser des dessins de définition de pièces mécaniques.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-accessibles par le détenteur du titre
-
-L'emploi s'exerce soit dans un cabinet d'ingénierie travaillant en sous-traitance ou directement au sein du bureau d'études d'une entreprise du secteur de la mécanique : biens d'équipements industriels, automobile, électroménager...
+Il peut exercer dans un cabinet d'ingénierie travaillant en sous-traitance ou directement au sein du bureau d'études d'une entreprise du secteur de la mécanique dans des domaines tels que l'automobile, l'industrie agroalimentaire, la machine spéciale, la domotique, le ferroviaire, l'informatique, la construction navale, l'électroménager...
 
 Code ROME :
 
-52122-dessinateur (trice) de la construction mécanique et du travail des métaux.
+H1203-Conception et dessin produits mécaniques.
 
 Réglementation de l'activité :
 
@@ -78,6 +72,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation.
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

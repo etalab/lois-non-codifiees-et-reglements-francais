@@ -6,4 +6,4 @@ Il est délivré dans les conditions prévues par l'arrêté du 9 mars 2006 susv
 
 Il est classé au niveau IV de la Nomenclature des niveaux de formation et dans le domaine d'activité 251 n (code NSF).
 
-Il sera réexaminé par la commission professionnelle consultative compétente dans un délai de cinq ans.
+Le titre professionnel "de technicien(ne) d'études en mécanique" est enregistré pour une durée de trois ans au répertoire national des certifications professionnelles à compter de l'entrée en vigueur du présent arrêté.
