@@ -19,16 +19,17 @@ Option scientifique
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
+<td>
+<p align="center">ÉPREUVES</p>
+</td>
+<td>
+<p align="center">COEFFICIENTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Etude et synthèse de textes<br/>
+<p align="left">Etude et synthèse de textes<br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -36,7 +37,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 1 <br/>
+<p align="left">Langue 1 <br/>
+</p>
 </td>
 <td align="center">
 <br/>6<br/>
@@ -44,7 +46,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 2 <br/>
+<p align="left">Langue 2 <br/>
+</p>
 </td>
 <td align="center">
 <br/>3<br/>
@@ -52,7 +55,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Dissertation de culture générale<br/>
+<p align="left">Dissertation de culture générale<br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -60,7 +64,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Mathématiques S<br/>
+<p align="left">Mathématiques S<br/>
+</p>
 </td>
 <td align="center">
 <br/>7<br/>
@@ -68,7 +73,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Histoire géographie et géopolitique <br/>
+<p align="left">Histoire géographie et géopolitique <br/>
+</p>
 </td>
 <td align="center">
 <br/>6<br/>
@@ -76,7 +82,8 @@ Option scientifique
 </tr>
 <tr>
 <td align="center">
-<br/>Total<br/>
+<p align="left">Total<br/>
+</p>
 </td>
 <td align="center">
 <br/>30<br/>
@@ -90,67 +97,74 @@ Option économique
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Etude et synthèse de textes<br/>
+<td>
+<p align="center">ÉPREUVES</p>
 </td>
-<td align="center">
-<br/>4<br/>
+<td>
+<p align="center">COEFFICIENTS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Langue 1 <br/>
+<td>
+<p>Etude et synthèse de textes</p>
 </td>
-<td align="center">
-<br/>6<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Langue 2 <br/>
-</td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">
+<br/>4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dissertation de culture générale<br/>
+<td>
+<p>Langue 1 </p>
 </td>
-<td align="center">
-<br/>4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mathématiques E<br/>
-</td>
-<td align="center">
-<br/>6<br/>
+<td>
+<p align="center">
+<br/>6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Analyse économique et historique<br/>
+<td>
+<p>Langue 2 </p>
 </td>
-<td align="center">
-<br/>7<br/>
+<td>
+<p align="center">
+<br/>3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Total<br/>
+<td>
+<p>Dissertation de culture générale</p>
 </td>
-<td align="center">
-<br/>30<br/>
+<td>
+<p align="center">
+<br/>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mathématiques E</p>
+</td>
+<td>
+<p align="center">
+<br/>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Analyse économique et historique</p>
+</td>
+<td>
+<p align="center">
+<br/>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p align="center">
+<br/>30</p>
 </td>
 </tr>
 </tbody>
@@ -161,16 +175,17 @@ Option technologique
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
+<td>
+<p align="center">ÉPREUVES</p>
+</td>
+<td>
+<p align="center">COEFFICIENTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Etude et synthèse de textes<br/>
+<p align="left">Etude et synthèse de textes<br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -178,7 +193,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 1 <br/>
+<p align="left">Langue 1 <br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -186,7 +202,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 2 <br/>
+<p align="left">Langue 2 <br/>
+</p>
 </td>
 <td align="center">
 <br/>2<br/>
@@ -194,7 +211,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Dissertation de culture générale<br/>
+<p align="left">Dissertation de culture générale<br/>
+</p>
 </td>
 <td align="center">
 <br/>3<br/>
@@ -202,7 +220,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Mathématiques T<br/>
+<p align="left">Mathématiques T<br/>
+</p>
 </td>
 <td align="center">
 <br/>5<br/>
@@ -210,7 +229,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Economie-droit<br/>
+<p align="left">Economie-droit<br/>
+</p>
 </td>
 <td align="center">
 <br/>5<br/>
@@ -218,7 +238,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Management et gestion de l'entreprise<br/>
+<p align="left">Management et gestion de l'entreprise<br/>
+</p>
 </td>
 <td align="center">
 <br/>7<br/>
@@ -226,7 +247,8 @@ Option technologique
 </tr>
 <tr>
 <td align="center">
-<br/>Total<br/>
+<p align="left">Total<br/>
+</p>
 </td>
 <td align="center">
 <br/>30<br/>
@@ -242,88 +264,83 @@ et ENS Lyon (LSH)
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Etude et synthèse de textes<br/>
+<td>
+<p align="center">ÉPREUVES </p>
 </td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">COEFFICIENTS </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Langue 1 <br/>
+<td>
+<p>Etudes et synthèse de textes </p>
 </td>
-<td align="center">
-<br/>5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Langue 2<br/>
-</td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">
+<br/>5 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Epreuve à options<br/>
+<td>
+<p>Langue 1 </p>
 </td>
-<td align="center">
-<br/>3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dissertation littéraire<br/>
-</td>
-<td align="center">
-<br/>5<br/>
+<td>
+<p align="center">
+<br/>5 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dissertation philosophique <br/>
+<td>
+<p>Lanue 2 </p>
 </td>
-<td align="center">
-<br/>5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Histoire<br/>
-</td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">
+<br/>3 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Note moyenne des écrits du concours des ENS-BEL (*)<br/>
+<td>
+<p>Dissertation littéraire </p>
 </td>
-<td align="center">
-<br/>3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Total<br/>
-</td>
-<td align="center">
-<br/>30 <br/>
+<td>
+<p align="center">
+<br/>5 </p>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<br/>(*) BEL : banque d'épreuves littéraires.<br/>
+<td>
+<p>Dissertation philosophique </p>
+</td>
+<td>
+<p align="center">
+<br/>5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Histoire </p>
+</td>
+<td>
+<p align="center">
+<br/>3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Note moyenne des écrits du concours des ENS-BEL </p>
+</td>
+<td>
+<p align="center">
+<br/>4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total </p>
+</td>
+<td>
+<p align="center">
+<br/>30</p>
 </td>
 </tr>
 </tbody>
@@ -334,75 +351,83 @@ Option littéraire, programme B/L
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Etude et synthèse de textes<br/>
+<td>
+<p align="center">ÉPREUVES</p>
 </td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">COEFFICIENTS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Langue 1 <br/>
+<td>
+<p>Etude et synthèse de textes</p>
 </td>
-<td align="center">
-<br/>5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Langue 2<br/>
-</td>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">
+<br/>3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Epreuve à option<br/>
+<td>
+<p>Langue 1 </p>
 </td>
-<td align="center">
-<br/>4<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dissertations littéraires<br/>
-</td>
-<td align="center">
-<br/>5<br/>
+<td>
+<p align="center">
+<br/>5</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dissertations philosophiques <br/>
+<td>
+<p>Langue 2</p>
 </td>
-<td align="center">
-<br/>5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Histoire<br/>
-</td>
-<td align="center">
-<br/>5<br/>
+<td>
+<p align="center">
+<br/>3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Total<br/>
+<td>
+<p>Epreuve à option</p>
 </td>
-<td align="center">
-<br/>30<br/>
+<td>
+<p align="center">
+<br/>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dissertations littéraires</p>
+</td>
+<td>
+<p align="center">
+<br/>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dissertations philosophiques </p>
+</td>
+<td>
+<p align="center">
+<br/>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Histoire</p>
+</td>
+<td>
+<p align="center">
+<br/>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p align="center">
+<br/>30</p>
 </td>
 </tr>
 </tbody>
@@ -410,56 +435,56 @@ Option littéraire, programme B/L
 
 b) Filière d'admissions parallèles
 
-Les épreuves écrites sont des épreuves de la banque d'épreuves  passerelle 1 , auxquelles sont affectés les coefficients ci-après :
+Les épreuves écrites sont des épreuves de la banque d'épreuves "passerelle 1", auxquelles sont affectés les coefficients ci-après :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Synthèse<br/>
+<td valign="top" width="307">
+<p align="center">ÉPREUVES</p>
 </td>
-<td align="center">
-<br/>10<br/>
+<td valign="top" width="307">
+<p align="center">COEFFICIENTS</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Anglais<br/>
+<td valign="top" width="307">
+<p align="left">Synthèse</p>
 </td>
-<td align="center">
-<br/>6<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Option<br/>
-</td>
-<td align="center">
-<br/>12<br/>
+<td valign="top" width="307">
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Test Arpège<br/>
+<td valign="top" width="307">
+<p align="left">Anglais</p>
 </td>
-<td align="center">
-<br/>2<br/>
+<td valign="top" width="307">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Total<br/>
+<td valign="top" width="307">
+<p align="left">Option</p>
 </td>
-<td align="center">
-<br/>30<br/>
+<td valign="top" width="307">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="307">
+<p align="left">Test Arpège</p>
+</td>
+<td valign="top" width="307">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="307">
+<p align="left">Total</p>
+</td>
+<td valign="top" width="307">
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
@@ -474,16 +499,17 @@ Les épreuves orales sont des épreuves de la banque commune d'épreuves (BCE) a
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
+<td>
+<p align="center">ÉPREUVES</p>
+</td>
+<td>
+<p align="center">COEFFICIENTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Entretien de motivation<br/>
+<p align="left">Entretien de motivation<br/>
+</p>
 </td>
 <td align="center">
 <br/>12<br/>
@@ -491,7 +517,8 @@ Les épreuves orales sont des épreuves de la banque commune d'épreuves (BCE) a
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 1 <br/>
+<p align="left">Langue 1 <br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -499,7 +526,8 @@ Les épreuves orales sont des épreuves de la banque commune d'épreuves (BCE) a
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 2 <br/>
+<p align="left">Langue 2 <br/>
+</p>
 </td>
 <td align="center">
 <br/>4<br/>
@@ -507,7 +535,8 @@ Les épreuves orales sont des épreuves de la banque commune d'épreuves (BCE) a
 </tr>
 <tr>
 <td align="center">
-<br/>Total<br/>
+<p align="left">Total<br/>
+</p>
 </td>
 <td align="center">
 <br/>20<br/>
@@ -524,21 +553,22 @@ Les langues admises sont celles proposées par la banque de langues IENA utilis�
 
 b) Filière d'admissions parallèles
 
-Les épreuves orales sont des épreuves de la banque d'épreuves  passerelle 1  affectées des coefficients ci-après :
+Les épreuves orales sont des épreuves de la banque d'épreuves "passerelle 1" affectées des coefficients ci-après :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÉPREUVES<br/>
-</th>
-<th>
-<br/>COEFFICIENTS<br/>
-</th>
+<td>
+<p align="center">ÉPREUVES</p>
+</td>
+<td>
+<p align="center">COEFFICIENTS</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Entretien de motivation<br/>
+<p align="left">Entretien de motivation<br/>
+</p>
 </td>
 <td align="center">
 <br/>20<br/>
@@ -546,31 +576,33 @@ Les épreuves orales sont des épreuves de la banque d'épreuves  passerelle 1  
 </tr>
 <tr>
 <td align="center">
-<br/>Anglais<br/>
+<p align="left">Anglais<br/>
+</p>
 </td>
 <td align="center">
-<br/>7<br/>
+<br/>8<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Langue 2<br/>
+<p align="left">Langue 2<br/>
+</p>
 </td>
 <td align="center">
-<br/>3<br/>
+<br/>2<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Total<br/>
+<p align="left">Total<br/>
+</p>
 </td>
 <td align="center">
-<br/>30<br/>
-</td>
+<br/>30</td>
 </tr>
 </tbody>
 </table>
 
-Les épreuves de langues sont communes à toutes les écoles adhérentes à la banque d'épreuves  passerelle 1 .
+Les épreuves de langues sont communes à toutes les écoles adhérentes à la banque d'épreuves "passerelle 1".
 
 L'épreuve d'entretien est propre à l'école pour ses candidats admissibles et se déroule sur le campus d'Evry.

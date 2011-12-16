@@ -4,7 +4,7 @@ Le concours prévu à l'article 2, paragraphe 2, du présent arrêté comporte d
 
 1° Epreuves écrites d'admissibilité
 
-Les épreuves écrites sont des épreuves de la banque d'épreuves  passerelle 2 , auxquelles sont affectés les coefficients ci-après :
+Les épreuves écrites sont des épreuves de la banque d'épreuves passerelle 2 , auxquelles sont affectés les coefficients ci-après :
 
 <table>
 <tbody>
@@ -29,7 +29,7 @@ Les épreuves écrites sont des épreuves de la banque d'épreuves  passerelle 2
 <br/>Anglais<br/>
 </td>
 <td align="center">
-<br/>6<br/>
+<br/>9<br/>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ Les épreuves écrites sont des épreuves de la banque d'épreuves  passerelle 2
 <br/>Option<br/>
 </td>
 <td align="center">
-<br/>12<br/>
+<br/>9<br/>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Les épreuves écrites sont des épreuves de la banque d'épreuves  passerelle 2
 
 2° Epreuves orales d'admission
 
-Les épreuves orales sont des épreuves de la banque d'épreuves  passerelle 2 , auxquelles sont affectés les coefficients ci-après :
+Les épreuves orales sont des épreuves de la banque d'épreuves passerelle 2 , auxquelles sont affectés les coefficients ci-après :
 
 <table>
 <tbody>
@@ -86,7 +86,7 @@ Les épreuves orales sont des épreuves de la banque d'épreuves  passerelle 2 ,
 <br/>Anglais<br/>
 </td>
 <td align="center">
-<br/>7<br/>
+<br/>8<br/>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ Les épreuves orales sont des épreuves de la banque d'épreuves  passerelle 2 ,
 <br/>Langue 2<br/>
 </td>
 <td align="center">
-<br/>3<br/>
+<br/>2<br/>
 </td>
 </tr>
 <tr>
