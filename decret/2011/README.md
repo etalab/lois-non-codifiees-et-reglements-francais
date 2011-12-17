@@ -495,6 +495,7 @@
 - [Décret n°2012-249 du 21 février 2012 (BCRP1128916D)](decret-n2012-249-du-21-fevrier-2012-bcrp1128916d)
 - [Décret n°2012-250 du 21 février 2012 (BCRP1128913D)](decret-n2012-250-du-21-fevrier-2012-bcrp1128913d)
 - [Décret n°2012-251 du 21 février 2012 (BCRP1128918D)](decret-n2012-251-du-21-fevrier-2012-bcrp1128918d)
+- [Décret n°83-1116 du 21 décembre 1983](decret-n83-1116-du-21-decembre-1983)
 - [Décret n°2010-166 du 22 février 2010 (ECEI0927343D)](decret-n2010-166-du-22-fevrier-2010-ecei0927343d)
 - [Décret n°2011-1151 du 22 septembre 2011 (DEVL1118311D)](decret-n2011-1151-du-22-septembre-2011-devl1118311d)
 - [Décret n°2011-1152 du 22 septembre 2011 (AGRE1102956D)](decret-n2011-1152-du-22-septembre-2011-agre1102956d)
