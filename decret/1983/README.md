@@ -103,7 +103,6 @@
 - [Décret n°84-196 du 19 mars 1984](decret-n84-196-du-19-mars-1984)
 - [Décret n°84-197 du 19 mars 1984](decret-n84-197-du-19-mars-1984)
 - [Décret n°83-922 du 20 octobre 1983](decret-n83-922-du-20-octobre-1983)
-- [Décret n°83-1116 du 21 décembre 1983](decret-n83-1116-du-21-decembre-1983)
 - [Décret n°83-128 du 21 février 1983](decret-n83-128-du-21-fevrier-1983)
 - [Décret n°83-242 du 21 mars 1983](decret-n83-242-du-21-mars-1983)
 - [Décret n°83-32 du 21 janvier 1983](decret-n83-32-du-21-janvier-1983)
