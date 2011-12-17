@@ -2,13 +2,19 @@
 
 Les candidats constituent un dossier comprenant les pièces suivantes :
 
-1° Pour tous les candidats, une demande établie sur un imprimé dont le modèle est fixé par l'Ecole nationale de la magistrature et précisant notamment :
+1° Pour tous les candidats :
 
-a) Les matières à option et la langue étrangère choisie ;
+a) Une demande établie sur un imprimé dont le modèle est fixé par l'Ecole nationale de la magistrature et précisant notamment :
 
-b) Le centre d'épreuves écrites choisi.
+- le cas échéant, la langue étrangère facultative choisie ;
 
-2° Pour les candidats au premier concours déjà titulaires au moment du dépôt de leur demande de l'un des diplômes ou certificats visés à l'article 16 (1°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée, une copie ou une photocopie certifiée conforme de ce diplôme ou certificat.
+- le centre d'épreuves écrites choisi ;
+
+b) Les documents justifiant de l'état civil et de la nationalité française ;
+
+c) Toute pièce attestant de leur position régulière au regard du code du service national ;
+
+2° Pour les candidats au premier concours déjà titulaires au moment du dépôt de leur demande de l'un des diplômes ou certificats visés à l'article 16 (1°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée, une copie de ce diplôme ou certificat.
 
 Toutefois, les candidats au premier concours qui ne seraient pas encore, à la date limite des inscriptions, en possession de leurs diplômes ou certificats et, dans le cas des diplômes délivrés par un Etat membre de la Communauté européenne, des documents attestant de leur équivalence doivent déposer les documents en faisant foi dans un délai de huit jours au maximum après la proclamation des résultats du concours.
 
@@ -30,10 +36,10 @@ A raison de leur situation de famille : une fiche d'état civil établie depuis 
 
 En raison de leur inscription en vue de l'un des diplômes visés à l'article 16 (1°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée, dans les conditions prévues au second alinéa de l'article 17 du décret du 4 mai 1972 susvisé : toute pièce ou document propre à justifier de cette inscription ;
 
-En tant que travailleur handicapé, les pièces justificatives établies par la commission technique d'orientation et de reclassement professionnel dont ils dépendent ;
+En tant que travailleur handicapé, les pièces justificatives établies par la commission des droits et de l'autonomie des personnes handicapées dont ils dépendent ;
 
 En tant qu'ancien travailleur handicapé, tout document justifiant de la durée des traitements et des soins qu'ils ont eu à subir en cette qualité ;
 
 En tant que sportif ou ancien sportif de haut niveau, la copie de la liste visée aux articles 26 et 29 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, arrêtée par le ministre chargé des sports, sur laquelle il figure, ou tous documents justifiant de la durée de leur inscription sur cette liste ;
 
-5° Quatre enveloppes timbrées à l'adresse du candidat et une photographie d'identité récente. Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission, des états des service et des documents justificatifs visés au 3° du présent article, les candidats doivent s'adresser aux autorités auprès desquelles ils doivent déposer leurs candidatures.
+5° Quatre enveloppes timbrées à l'adresse du candidat et deux photographies d'identité récentes. Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission, des états des service et des documents justificatifs visés au 3° du présent article, les candidats doivent s'adresser aux autorités auprès desquelles ils doivent déposer leurs candidatures.
