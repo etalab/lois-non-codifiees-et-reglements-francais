@@ -138,7 +138,6 @@
 - [Arrêté du 5 octobre 1994 (DEFL9402031A)](arrete-du-5-octobre-1994-defl9402031a)
 - [Arrêté du 5 octobre 1994 (EQUA9401677A)](arrete-du-5-octobre-1994-equa9401677a)
 - [Arrêté du 5 octobre 1994 (SANH9403201A)](arrete-du-5-octobre-1994-sanh9403201a)
-- [Arrêté du 5 septembre 1994 (MEND9401355A)](arrete-du-5-septembre-1994-mend9401355a)
 - [Arrêté du 5 septembre 1994 (PRMP9460003A)](arrete-du-5-septembre-1994-prmp9460003a)
 - [Arrêté du 5 septembre 1994 (SPSP9402814A)](arrete-du-5-septembre-1994-spsp9402814a)
 - [Arrêté du 5 mai 1994 (EQUS9400200A)](arrete-du-5-mai-1994-equs9400200a)
