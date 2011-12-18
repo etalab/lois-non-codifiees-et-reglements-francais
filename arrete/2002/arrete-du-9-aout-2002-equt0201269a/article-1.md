@@ -8,7 +8,7 @@ II. - 1. Le contrôle technique routier peut porter, dans l'ordre, sur les élé
 
 a) Une inspection visuelle de l'état d'entretien du véhicule utilitaire à l'arrêt ;
 
-b) Une vérification du dernier rapport de contrôle technique routier s'il a été établi récemment, ou un contrôle des documents attestant que le véhicule est conforme à la réglementation technique qui lui est applicable et, en particulier pour les véhicules immatriculés ou mis en circulation dans un Etat membre, du document attestant que le véhicule utilitaire a été soumis au contrôle technique obligatoire, conformément à la directive 96/96/CE ;
+b) Une vérification du dernier rapport de contrôle technique routier s'il a été établi récemment, ou un contrôle des documents attestant que le véhicule est conforme à la réglementation technique qui lui est applicable et, en particulier pour les véhicules immatriculés ou mis en circulation dans un Etat membre, du document attestant que le véhicule utilitaire a été soumis au contrôle technique obligatoire, conformément à la directive 2009/40/CE ;
 
 c) Une inspection visant à déceler les défauts d'entretien. Cette inspection peut porter sur la totalité des points de contrôle énumérés dans la liste figurant à l'annexe I, point 10, du présent arrêté. A l'issue de cette inspection, l'agent habilité établit un rapport de contrôle technique routier conforme au modèle de l'annexe I. Un exemplaire du rapport est remis au conducteur.
 
@@ -26,7 +26,7 @@ La décision d'immobiliser le véhicule à la suite d'un contrôle est prise con
 
 On entend par :
 
-- véhicule utilitaire, tout véhicule à moteur appartenant aux catégories 1, 2 et 3 définies à l'annexe I à la directive 96/96/CE ainsi que ses remorques :
+- véhicule utilitaire, tout véhicule à moteur appartenant aux catégories 1, 2 et 3 définies à l'annexe I à la directive 2009/40/CE ainsi que ses remorques :
 
 - catégorie 1 : véhicules à moteur affectés au transport en commun de personnes et de leurs bagages comportant plus de neuf places assises, y compris celle du conducteur ;
 
@@ -34,4 +34,4 @@ On entend par :
 
 - catégorie 3 : remorques et semi-remorques dont le poids maximal autorisé dépasse 3,5 tonnes ;
 
-- contrôle technique, le contrôle de la conformité du véhicule à la réglementation technique tel qu'il est prévu à l'annexe II de la directive 96/96/CE.
+- contrôle technique, le contrôle de la conformité du véhicule à la réglementation technique tel qu'il est prévu à l'annexe II de la directive 2009/40/CE.

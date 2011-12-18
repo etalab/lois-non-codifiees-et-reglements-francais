@@ -2,115 +2,186 @@
 
 COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL CONSTITUÉS
 
-EN APPLICATION DE L'ARTICLE 36 DU DÉCRET DU 28 JUIN 2011
+EN APPLICATION DE L'ARTICLE 36 DU DÉCRET N° 82-453 DU 28 MAI 1982, MODIFIÉ PAR LE DÉCRET N° 2011-774 DU 28 JUIN 2011
 
 a) Direction générale des douanes et droits indirects :
 
 <table>
 <tbody>
 <tr>
-<th>INSTANCE<br/>
-</th>
-<th>AUTORITÉ<br/>de rattachement<br/>
-</th>
-<th>PÉRIMÈTRE<br/>
-</th>
-<th colspan="3">NOMBRE DE SIÈGES<br/>
-</th>
+<td align="center" rowspan="2" valign="middle">INSTANCE <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">AUTORITÉ <br/>de rattachement <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">PÉRIMÈTRE <br/>
+</td>
+<td align="center" colspan="2" valign="middle">
+<p align="center">NOMBRE DE SIÈGES </p>
+</td>
+<td align="center" rowspan="2" valign="middle">COMITÉ (S) <br/>technique (s) auxquel (s) <br/>le CHSCT apporte <br/>son concours </td>
 </tr>
 <tr>
-<th/>
-<th/>
-<th/>
-<th>Titulaires<br/>
-</th>
-<th>Suppléants<br/>
-</th>
-<th>COMITÉ(S)<br/>technique(s) auxquel(s)<br/>le CHSCT apporte<br/>son concours<br/>
-</th>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire<br/>
+<td align="left" valign="top">
+<p align="center">Titulaires </p>
 </td>
-<td align="center">Chefs de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire<br/>
-</td>
-<td align="center">Services à compétence nationales direction nationale du renseignement et des enquêtes douanières et service national de douane judiciaire <br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comités techniques des services à compétence nationales de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire<br/>
+<td align="left" valign="top">
+<p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT aéronavale Marseille<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire <br/>
+</p>
 </td>
-<td align="center">Directeur régional des douanes et droits indirects<br/>
+<td align="left" valign="top">
+<p align="left">Chefs de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire <br/>
+</p>
 </td>
-<td align="center">Direction régionale de Marseille garde-côtes <br/>
+<td align="left" valign="top">
+<p align="left">Services à compétence nationales direction nationale du renseignement et des enquêtes douanières et service national de douane judiciaire <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique de service déconcentré de la direction interrégionale de Marseille<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT aéronavale Nantes<br/>
-</td>
-<td align="center">Directeur régional des douanes et droits indirects<br/>
-</td>
-<td align="center">Direction régionale Nantes garde-côtes <br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique de service déconcentré de la direction interrégionale de Nantes<br/>
+<td align="left" valign="top">
+<p align="left">Comités techniques des services à compétence nationales de la direction nationale du renseignement et des enquêtes douanières et du service national de douane judiciaire <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT aéronavale Rouen<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT aéronavale Marseille <br/>
+</p>
 </td>
-<td align="center">Directeur régional des douanes et droits indirects<br/>
+<td align="left" valign="top">
+<p align="left">Directeur régional des douanes et droits indirects <br/>
+</p>
 </td>
-<td align="center">Direction régionale Rouen garde-côtes <br/>
+<td align="left" valign="top">
+<p align="left">Direction régionale de Marseille garde-côtes <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique de service déconcentré de la direction interrégionale de Rouen<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT aéronavale Antilles-Guyane<br/>
-</td>
-<td align="center">Directeur régional des douanes et droits indirects<br/>
-</td>
-<td align="center">Direction régionale Antilles garde-côtes <br/>
-</td>
-<td align="center">5<br/>
-</td>
-<td align="center">5<br/>
-</td>
-<td align="center">Comité technique de service déconcentré de la direction interrégionale Antilles-Guyane<br/>
+<td align="left" valign="top">
+<p align="left">Comité technique de service déconcentré de la direction interrégionale de Marseille <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT aéroterrestre Ile-de-France<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT aéronavale Nantes <br/>
+</p>
 </td>
-<td align="center">Directeur interrégional des douanes et droits indirects<br/>
+<td align="left" valign="top">
+<p align="left">Directeur régional des douanes et droits indirects <br/>
+</p>
 </td>
-<td align="center">Service aéro terrestre, brigade scanner mobile spéciale, maintenance aéronautique<br/>
+<td align="left" valign="top">
+<p align="left">Direction régionale Nantes garde-côtes <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique de service déconcentré de la direction interrégionale de Paris<br/>
+<td align="left" valign="top">
+<p align="left">Comité technique de service déconcentré de la direction interrégionale de Nantes <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT aéronavale Rouen <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Directeur régional des douanes et droits indirects <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction régionale Rouen garde-côtes <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique de service déconcentré de la direction interrégionale de Rouen <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT aéronavale Antilles-Guyane <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Directeur régional des douanes et droits indirects <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction régionale Antilles garde-côtes <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">5 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">5 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique de service déconcentré de la direction interrégionale Antilles-Guyane <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT aéroterrestre Ile-de-France <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Directeur interrégional des douanes et droits indirects <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Service aéro terrestre, brigade scanner mobile spéciale, maintenance aéronautique <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique de service déconcentré de la direction interrégionale de Paris <br/>
+</p>
 </td>
 </tr>
 </tbody>
@@ -121,164 +192,278 @@ b) Direction générale des finances publiques :
 <table>
 <tbody>
 <tr>
-<th>INSTANCE<br/>
-</th>
-<th>AUTORITÉ<br/>de rattachement<br/>
-</th>
-<th>PÉRIMÈTRE<br/>
-</th>
-<th colspan="3">NOMBRE DE SIÈGES<br/>
-</th>
+<td align="center" rowspan="2" valign="middle">INSTANCE </td>
+<td align="center" rowspan="2" valign="middle">AUTORITÉ <br/>de rattachement </td>
+<td align="center" rowspan="2" valign="middle">PÉRIMÈTRE </td>
+<td align="center" colspan="2" valign="middle">NOMBRE DE SIÈGES </td>
+<td align="center" rowspan="2" valign="middle">COMITÉ (S) <br/>technique (s) auxquel (s) <br/>le CHSCT apporte <br/>son concours </td>
 </tr>
 <tr>
-<th/>
-<th/>
-<th/>
-<th>Titulaires<br/>
-</th>
-<th>Suppléants<br/>
-</th>
-<th>COMITÉ(S)<br/>technique(s) auxquel(s)<br/>le CHSCT apporte<br/>son concours<br/>
-</th>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction impôts service <br/>
+<td align="left" valign="top">
+<p align="center">Titulaires </p>
 </td>
-<td align="center">Chef du service<br/>
-</td>
-<td align="center">Direction impôts service<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique du service à compétence nationale Direction Impôts Service<br/>
+<td align="left" valign="top">
+<p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT de la direction des services informatiques du Sud-Est<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction impôts service <br/>
+</p>
 </td>
-<td align="center">Chef du service<br/>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
 </td>
-<td align="center">Direction interrégionale des services informatiques du Sud Est<br/>
+<td align="left" valign="top">
+<p align="left">Direction impôts service <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques du Sud-Est<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction des services informatiques du Sud-Ouest<br/>
-</td>
-<td align="center">Chef du service<br/>
-</td>
-<td align="center">Direction interrégionale des services informatiques du Sud-Ouest<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques du Sud-Ouest<br/>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale Direction Impôts Service <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT de la direction des services informatiques Ouest<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques du Sud-Est <br/>
+</p>
 </td>
-<td align="center">Chef du service<br/>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
 </td>
-<td align="center">Direction interrégionale des services informatiques Ouest<br/>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques du Sud Est <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Ouest<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction des services informatiques Paris-Champagne<br/>
-</td>
-<td align="center">Chef du service<br/>
-</td>
-<td align="center">Direction interrégionale des services informatiques Paris-Champagne <br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Paris-Champagne<br/>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques du Sud-Est <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT de la direction des services informatiques Pays du Centre<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques du Sud-Ouest <br/>
+</p>
 </td>
-<td align="center">Chef du service<br/>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
 </td>
-<td align="center">Direction interrégionale des services informatiques Pays du Centre <br/>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques du Sud-Ouest <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Pays du Centre<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction des services informatiques Nord<br/>
-</td>
-<td align="center">Chef du service<br/>
-</td>
-<td align="center">Direction interrégionale des services informatiques Nord <br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Nord<br/>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques du Sud-Ouest <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT de la direction des services informatiques Est<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Ouest <br/>
+</p>
 </td>
-<td align="center">Chef du service<br/>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
 </td>
-<td align="center">Direction interrégionale des services informatiques Est <br/>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Ouest <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Est<br/>
-</td>
-</tr>
-<tr>
-<td align="center">CHSCT de la direction des services informatiques Rhône-Alpes Est Bourgogne<br/>
-</td>
-<td align="center">Chef du service<br/>
-</td>
-<td align="center">Direction interrégionale des services informatiques Rhône-Alpes Est Bourgogne <br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Rhône-Alpes Est Bourgogne <br/>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Ouest <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">CHSCT de la direction des services informatiques Paris-Normandie<br/>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Paris-Champagne <br/>
+</p>
 </td>
-<td align="center">Chef du service<br/>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
 </td>
-<td align="center">Direction interrégionale des services informatiques Paris-Normandie <br/>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Paris-Champagne <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
 </td>
-<td align="center">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Paris-Normandie <br/>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Paris-Champagne <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Pays du Centre <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Pays du Centre <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Pays du Centre <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Nord <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Nord <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Nord <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Est <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Est <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Est <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Rhône-Alpes Est Bourgogne <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Rhône-Alpes Est Bourgogne <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Rhône-Alpes Est Bourgogne <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CHSCT de la direction des services informatiques Paris-Normandie <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chef du service <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Direction interrégionale des services informatiques Paris-Normandie <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Comité technique du service à compétence nationale, direction interrégionale des services informatiques Paris-Normandie <br/>
+</p>
 </td>
 </tr>
 </tbody>
@@ -289,38 +474,42 @@ c) service commun des laboratoires :
 <table>
 <tbody>
 <tr>
-<th>INSTANCE<br/>
-</th>
-<th>AUTORITÉ<br/>de rattachement<br/>
-</th>
-<th>PÉRIMÈTRE<br/>
-</th>
-<th colspan="3">NOMBRE DE SIÈGES<br/>
-</th>
+<td align="center" rowspan="2" valign="middle">INSTANCE </td>
+<td align="center" rowspan="2" valign="middle">AUTORITÉ <br/>de rattachement </td>
+<td align="center" rowspan="2" valign="middle">PÉRIMÈTRE </td>
+<td align="center" colspan="2" valign="middle">
+<p align="center">NOMBRE DE SIÈGES </p>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">COMITÉ (S) <br/>technique (s) auxquel (s) <br/>le CHSCT apporte <br/>son concours </p>
+</td>
 </tr>
 <tr>
-<th/>
-<th/>
-<th/>
-<th>Titulaires<br/>
-</th>
-<th>Suppléants<br/>
-</th>
-<th>COMITÉ(S)<br/>technique(s) auxquel(s)<br/>le CHSCT apporte<br/>son concours<br/>
-</th>
+<td>
+<p align="center">Titulaires </p>
+</td>
+<td>
+<p align="center">Suppléants </p>
+</td>
 </tr>
 <tr>
-<td align="center">CHSCT service commun des laboratoires <br/>
+<td align="center">
+<p align="left">CHSCT service commun des laboratoires </p>
 </td>
-<td align="center">Chef du service commun des laboratoires <br/>
+<td align="center">
+<p align="left">Chef du service commun des laboratoires </p>
 </td>
-<td align="center">service commun des laboratoires <br/>
+<td align="center">
+<p align="left">service commun des laboratoires </p>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<p align="center">6 </p>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<p align="center">6 </p>
 </td>
-<td align="center">Comité technique spécial de service du service commun des laboratoires <br/>
+<td align="center">
+<p align="left">Comité technique spécial de service du service commun des laboratoires</p>
 </td>
 </tr>
 </tbody>
