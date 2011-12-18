@@ -1,0 +1,3 @@
+# Article 5
+
+Il est créé auprès de chaque recteur d'académie un comité d'hygiène, de sécurité et des conditions de travail de proximité dénommé « comité d'hygiène, de sécurité et des conditions de travail académique », en application de l'article 34 du décret du 28 mai 1982 susvisé. Le comité d'hygiène, de sécurité et des conditions de travail académique, qui apporte son concours au comité technique académique est compétent dans le cadre des dispositions du titre IV du décret du 28 mai 1982 susvisé pour connaître de toutes les questions concernant les personnels des écoles, des établissements d'enseignement et de formation du second degré et des services administratifs, situés dans le ressort territorial de l'académie concernée.

@@ -1,0 +1,3 @@
+# Article 7
+
+Il est créé auprès de chaque inspecteur d'académie, directeur des services départementaux de l'éducation nationale un comité d'hygiène, de sécurité et des conditions de travail spécial départemental, en application de l'article 36 (2°, c) du décret du 28 mai 1982 susvisé. Le comité d'hygiène, de sécurité et des conditions de travail spécial départemental, qui apporte son concours au comité technique départemental, est compétent dans le cadre des dispositions du titre IV du décret du 28 mai 1982 susvisé pour connaître de toutes les questions concernant les personnels des écoles, des établissements d'enseignement du second degré dans le département et des services administratifs, situés dans le ressort territorial du département concerné.
