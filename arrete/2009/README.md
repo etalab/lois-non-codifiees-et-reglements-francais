@@ -987,7 +987,6 @@
 - [Arrêté du 13 juillet 2009 (AGRE0914110A)](arrete-du-13-juillet-2009-agre0914110a)
 - [Arrêté du 13 juillet 2009 (AGRE0914112A)](arrete-du-13-juillet-2009-agre0914112a)
 - [Arrêté du 13 juillet 2009 (AGRG0915807A)](arrete-du-13-juillet-2009-agrg0915807a)
-- [Arrêté du 13 juillet 2009 (DEFH0905203A)](arrete-du-13-juillet-2009-defh0905203a)
 - [Arrêté du 13 juillet 2009 (DEVA0911294A)](arrete-du-13-juillet-2009-deva0911294a)
 - [Arrêté du 13 juillet 2009 (DEVA0916341A)](arrete-du-13-juillet-2009-deva0916341a)
 - [Arrêté du 13 juillet 2009 (DEVT0912618A)](arrete-du-13-juillet-2009-devt0912618a)
