@@ -25,3 +25,17 @@ b) 5 % lorsque le vin a été obtenu par vinification de moûts de raisins, de m
 Ce taux est ramené aux pourcentages définis à l'annexe 1 pour les vins d'appellation d'origine blancs et les vins avec indication géographique blancs ;
 
 c) Sans préjudice des dispositions du paragraphe 1, deuxième alinéa, b, si les pourcentages applicables ne sont pas atteints par la seule livraison des marcs et lies, l'assujetti à l'obligation de distillation doit livrer une quantité de vin de sa propre production pour assurer le respect desdits pourcentages.
+
+3. Afin de garantir le respect de l'interdiction de surpressurage des raisins, les titres alcoométriques volumiques que doivent présenter les marcs et les lies à l'entrée en distillerie sont les suivants :
+
+Pour les marcs de raisins :
+
+- en zone viticole B, 1,5 litre d'alcool pur pour 100 kg ;
+
+- en zone viticole C, 2,5 litres d'alcool pur pour 100 kg, et 1,5 litre d'alcool pur pour 100 kg lorsqu'ils sont issus de la vinification des raisins aptes à produire de l'eau-de-vie de vin à appellation d'origine contrôlée.
+
+Pour les lies de vin :
+
+- en zone viticole B, 3 litres d'alcool pur pour 100 hl ;
+
+- en zone viticole C, 4 litres d'alcool pur pour 100 hl.
