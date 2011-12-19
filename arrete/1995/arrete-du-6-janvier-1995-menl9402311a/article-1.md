@@ -1,17 +1,37 @@
 # Article 1
 
-La liste des spécialités de baccalauréat professionnel ouvrant droit au concours général des métiers pour la session de 1995 est fixée comme suit :
+La liste des spécialités de baccalauréat professionnel ouvrant droit au concours général des métiers est fixée comme suit :
 
-Productique mécanique ;
+- artisanat et métiers d'art : option arts de la pierre ;
 
-Equipements et installations électriques ;
+- artisanat et métiers d'art : option ébéniste ;
 
-Bois-construction et aménagement du bâtiment.
+- commerce ;
 
-Artisanat et métiers d'art :
+- électrotechnique énergie équipements communicants ;
 
-- option Arts de la pierre ;
+- fonderie ;
 
-- option Vêtement et accessoire de mode ;
+- maintenance de véhicules automobiles, option voitures particulières ;
 
-Restauration.
+- maintenance des matériels : option A : agricoles, option B : travaux publics et manutention et option C : parcs et jardins ;
+
+- métiers de la mode-vêtements ;
+
+- ouvrages du bâtiment : aluminium, verre et matériaux de synthèse ;
+
+- plastiques et composites ;
+
+- restauration ;
+
+- technicien d'usinage ;
+
+- technicien en chaudronnerie industrielle ;
+
+- technicien menuisier agenceur ;
+
+- transport ;
+
+- travaux publics ;
+
+- vente (prospection-négociation-suivi de clientèle).
