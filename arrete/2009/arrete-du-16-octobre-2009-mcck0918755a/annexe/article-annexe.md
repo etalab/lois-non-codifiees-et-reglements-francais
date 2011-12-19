@@ -90,15 +90,17 @@ Les droits d'entrée dématérialisés émis par un système informatisé doiven
 
 4° L'identification de la séance pour laquelle le droit d'entrée est émis, heure ou numéro de séance et date de la séance ;
 
+4° bis Le numéro du droit d'entrée dans sa série ;
+
 5° L'identification de l'établissement de spectacles cinématographiques.
 
 2.4. Cas particuliers
 
 Les billets gratuits doivent porter une indication facilement identifiable de gratuité.
 
-Les billets-tests doivent se présenter différemment des autres billets et être aisément reconnaissables par l'inscription très lisible : TEST NON VENDABLE , à l'exclusion de toute autre inscription.
+Les billets-tests doivent se présenter différemment des autres billets et être aisément reconnaissables par l'inscription très lisible : TEST NON VENDABLE, à l'exclusion de toute autre inscription.
 
-Dans le cadre d'une séance incluant des groupes scolaires, le système informatisé peut enregistrer un compte-rendu global des droits d'entrée dématérialisés émis pour un groupe identifié, mentionnant le nombre de ces droits d'entrée, ainsi que la recette correspondante, le titre de l'œuvre cinématographique, l'identification de l'établissement de spectacles cinématographiques ainsi que la date et l'heure de la séance. Ce compte-rendu doit se présenter différemment d'un billet, et être aisément reconnaissable par l'inscription très lisible GROUPE SCOLAIRE . Son édition ne doit donner lieu en aucun cas à une altération du compteur des entrées, puisqu'il ne s'agit pas d'un droit d'entrée mais d'un simple récapitulatif. En effet, chaque spectateur composant le groupe doit par ailleurs disposer d'un droit d'entrée dématérialisé dont les données sont enregistrées et conservées spécifiquement dans le système.
+Dans le cadre d'une séance incluant des groupes scolaires, le système informatisé peut enregistrer un compte-rendu global des droits d'entrée dématérialisés émis pour un groupe identifié, mentionnant le nombre de ces droits d'entrée, ainsi que la recette correspondante, le titre de l'œuvre cinématographique, l'identification de l'établissement de spectacles cinématographiques ainsi que la date et l'heure de la séance. Ce compte-rendu doit se présenter différemment d'un billet, et être aisément reconnaissable par l'inscription très lisible GROUPE SCOLAIRE. Son édition ne doit donner lieu en aucun cas à une altération du compteur des entrées, puisqu'il ne s'agit pas d'un droit d'entrée mais d'un simple récapitulatif. En effet, chaque spectateur composant le groupe doit par ailleurs disposer d'un droit d'entrée dématérialisé dont les données sont enregistrées et conservées spécifiquement dans le système.
 
 3. Enregistrement des données dans le système informatisé
 
@@ -110,11 +112,13 @@ Chaque séance programmée doit donner lieu à une inscription dans la base du s
 
 1° L'identification de la ou des œuvres ou du ou des documents cinématographiques ou audiovisuels composant le programme, par :
 
-a) Son (leurs) numéro(s) de visa ou, à défaut, par des numéros d'identification qui pourront être rattachés à ce(s) numéro(s) de visa avant l'envoi du bordereau de déclaration de recettes hebdomadaire ;
+a) Son (leurs) numéro (s) de visa ou, à défaut, par des numéros d'identification qui pourront être rattachés à ce (s) numéro (s) de visa avant l'envoi du bordereau de déclaration de recettes hebdomadaire ;
 
-b) Son (leurs) titre(s) ;
+b) Son (leurs) titre (s) ;
 
 2° La version dans laquelle l'œuvre ou le document cinématographique ou audiovisuel principal composant le programme est représenté (version originale ou version doublée en langue française) ;
+
+2° bis Le mode de projection selon lequel l'œuvre ou le document cinématographique ou audiovisuel principal composant le programme est représenté (argentique, numérique, 2D, numérique 3D, IMAX 2D, IMAX 3D) ;
 
 3° L'identification de la salle où se déroule la séance (par son numéro d'autorisation d'exercice délivrée par le Centre national du cinéma et de l'image animée) ;
 
@@ -168,9 +172,11 @@ Chaque droit d'entrée émis, avec ou sans édition de billet, doit concomitamme
 
 9° Un marqueur indiquant si le droit d'entrée a fait l'objet d'un rapatriement a posteriori depuis le point de vente, à la suite, par exemple, d'un dysfonctionnement, auquel cas la date et l'heure au dixième de seconde de ce rapatriement seront précisées.
 
-3.2.2. Identification des séries
+3.2.2. Identification des séries.
 
-Une série doit être restituée à toutes fins de contrôle par un code série sur plusieurs caractères alphanumériques ; une partie de ce code désigne le programme, une autre partie désigne la séance et une troisième partie est le code tarif décrit au 3.1.1.
+Une série " vente à entrée immédiate " doit être restituée à toutes fins de contrôle par un code série sur plusieurs caractères alphanumériques ; une partie de ce code désigne la salle, une autre partie désigne le code tarif décrit au 3.1.1.
+
+Une série " prévente " doit être restituée à toutes fins de contrôle par un code série sur plusieurs caractères alphanumériques ; une partie de ce code désigne le programme, une autre partie désigne la séance et une troisième partie est le code tarif décrit au 3.1.1.
 
 3.2.3. Ventes à entrée immédiate et préventes
 
@@ -190,7 +196,7 @@ Il ne doit exister qu'une seule série prévente pour un programme, une séance 
 
 3° Bascule de la prévente à la vente à entrée immédiate :
 
-Au plus tard une demi-heure avant le début de toute séance, le système opère un changement dans l'enregistrement des droits d'entrées s'appliquant à cette séance : ils ne sont plus enregistrés en mode prévente mais en mode vente à entrée immédiate .
+Au plus tard une demi-heure avant le début de toute séance, le système opère un changement dans l'enregistrement des droits d'entrées s'appliquant à cette séance : ils ne sont plus enregistrés en mode prévente mais en mode vente à entrée immédiate.
 
 Lors de cette bascule, avant que le premier droit d'entrée en mode vente à entrée immédiate ne puisse être édité, l'intégralité des préventes portant sur la séance concernée doit être réintégrée dans la numérotation vente à entrée immédiate de la salle où la séance est programmée.
 
@@ -212,7 +218,7 @@ Pour les séances qui ne portent pas d'indication d'interruption, conformément 
 
 La fin de la journée cinématographique désigne un horaire fixe et invariable dans le système et doit être accessible aux agents chargés du contrôle.
 
-3.2.5. Fonctionnement en mode dégradé/rapatriement
+3.2.5. Fonctionnement en mode dégradé/ rapatriement
 
 En cas de panne du système centralisant les informations de billetterie, de dysfonctionnement de la liaison établie entre ce système et les caisses, ou d'autorisation exceptionnelle de délocalisation de points de vente, il est toléré que ces derniers fonctionnent provisoirement de manière autonome pour les seules fonctions d'édition et d'annulation de droits d'entrée en mode entrée immédiate dans le cadre de séances préalablement programmées, à condition que ce mode dégradé respecte, au niveau de chaque point de vente, les règles édictées pour le fonctionnement du système global dans le présent cahier des charges, notamment en ce qui concerne l'enregistrement des données et des opérations.
 
@@ -252,15 +258,15 @@ Ainsi, les séries étant identifiables, conformément au 3.2.2, via le code tar
 
 4.1.3. Le système doit établir et transmettre chaque mois une déclaration spécifique à la taxe due en application de l'article L. 115-1 du code du cinéma et de l'image animée.
 
-4.1.4. A tout moment, il doit être possible aux agents du Centre national du cinéma et de l'image animée et aux agents des impôts chargés du contrôle d'éditer les états de contrôle et/ou d'exporter copie des états de contrôle spécifiant les billets délivrés pour les séances de la journée, l'état de la billetterie et de la programmation.
+4.1.4. A tout moment, il doit être possible aux agents du Centre national du cinéma et de l'image animée et aux agents des impôts chargés du contrôle d'éditer les états de contrôle et/ ou d'exporter copie des états de contrôle spécifiant les billets délivrés pour les séances de la journée, l'état de la billetterie et de la programmation.
 
-4.1.5. De même, il doit être possible à tout moment d'éditer un état et/ou d'exporter copie d'un état retraçant l'ensemble des opérations effectuées sur le système, reprenant le niveau de détail décrit au 3.3.
+4.1.5. De même, il doit être possible à tout moment d'éditer un état et/ ou d'exporter copie d'un état retraçant l'ensemble des opérations effectuées sur le système, reprenant le niveau de détail décrit au 3.3.
 
 Le système doit notamment toujours permettre aux agents chargés du contrôle d'établir le lien entre une opération enregistrée et les objets de la base qu'elle a créés, modifiés ou effacés (droits d'entrées, données de programmation de séances).
 
 4.2. Accessibilité des informations
 
-Pour s'assurer de la validité des recettes déclarées, les agents du Centre national du cinéma et de l'image animée et les agents des impôts chargés du contrôle doivent pouvoir, à tout moment, visualiser et/ou éditer les informations nécessaires à la vérification de la cohérence des trois éléments suivants :
+Pour s'assurer de la validité des recettes déclarées, les agents du Centre national du cinéma et de l'image animée et les agents des impôts chargés du contrôle doivent pouvoir, à tout moment, visualiser et/ ou éditer les informations nécessaires à la vérification de la cohérence des trois éléments suivants :
 
 1° Les fichiers informatiques gérés par le système ;
 
