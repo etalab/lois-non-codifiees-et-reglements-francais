@@ -1,7 +1,0 @@
-# Article 5
-
-Par exception aux dispositions des articles 3 et 4, les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, titulaires d'un titre de formation d'expert en physique médicale délivré dans l'un de ces Etats, peuvent faire reconnaître par le préfet, après avis de la commission instituée par le décret n° 2009-742 du 19 juin 2009 instituant la commission chargée d'émettre un avis sur les qualifications professionnelles des personnes spécialisées en radiophysique médicale titulaires d'un diplôme délivré hors de France, que leur formation leur permet d'exercer en France les missions de la personne spécialisée en radiophysique médicale.
-
-Dans les mêmes conditions, et sous réserve de réciprocité, les titulaires d'un titre de formation obtenu dans un Etat non membre de la Communauté européenne ou non partie à l'accord sur l'Espace économique européen, lié avec la France par un accord ou un traité prévoyant l'accès à l'exercice professionnel de la personne spécialisée en radiophysique médicale, peuvent faire reconnaître que leurs qualifications professionnelles leur permettent d'exercer en France les missions de la personne spécialisée en radiophysique médicale.
-
-Les personnes mentionnées au présent article doivent faire la preuve d'une connaissance suffisante de la langue française dans des conditions fixées par arrêté du ministre chargé de la santé.
