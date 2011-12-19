@@ -24,6 +24,10 @@ La liste des emplois de militaires commissionnés prévue à l'article 1er du d�
 
 -instrumentiste embarqué de technologies nucléaires ;
 
+- spécialiste en sûreté nucléaire civile et militaire ;
+
+- spécialiste en infrastructures nucléaires civiles et militaires ;
+
 -expert technique armement ;
 
 -psychologue ;
@@ -36,15 +40,21 @@ La liste des emplois de militaires commissionnés prévue à l'article 1er du d�
 
 -géomètre-topographe ;
 
--laborantin à l'institut de recherche criminelle de la gendarmerie nationale ;
-
 -technicien spécialisé dans le domaine de l'hygiène, de la sécurité et des conditions de travail ;
+
+- ingénieur des systèmes d'information et de communication ;
+
+- spécialiste en sécurité des systèmes d'information ;
 
 -ingénieur motoriste spécialiste banc d'essai ;
 
 -spécialiste en chimie ;
 
 -spécialiste en exploitation et logistique pétrolières navales ;
+
+- spécialiste en infrastructures industrialo-portuaires ;
+
+- spécialiste en infrastructures de haute tension ;
 
 -spécialiste concepteur en méthodes et techniques d'action ;
 
@@ -82,9 +92,11 @@ La liste des emplois de militaires commissionnés prévue à l'article 1er du d�
 
 -spécialiste dans le domaine des ressources humaines ;
 
--gestionnaire du patrimoine historique immobilier de la marine ;
+-gestionnaire de patrimoine ;
 
 -expert juridique ;
+
+-expert économique ;
 
 -spécialiste dans le domaine du contrôle de gestion ;
 
@@ -94,9 +106,13 @@ La liste des emplois de militaires commissionnés prévue à l'article 1er du d�
 
 -journaliste ;
 
--chargé d'études au service historique de la défense ;
+- documentaliste ;
 
--chargé d'études à la délégation du patrimoine culturel de la gendarmerie nationale ;
+- archiviste ;
+
+- conservateur de musée ;
+
+-chargé d'études au service historique de la défense ;
 
 -responsable de la stratégie de communication ;
 
@@ -115,12 +131,6 @@ La liste des emplois de militaires commissionnés prévue à l'article 1er du d�
 -maître d'armes ;
 
 -guide de haute montagne ;
-
--chef des orchestres de la garde républicaine ;
-
--chef adjoint des orchestres de la garde républicaine ;
-
--administrateur régisseur des formations musicales de la garde républicaine ;
 
 -chef du chœur de l'armée française ;
 
