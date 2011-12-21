@@ -38,7 +38,11 @@ i) les paiements dans le cadre de l'opération ou du montage dépendent des flux
 
 ii) la subordination des tranches détermine l'allocation des pertes pendant la durée de l'opération ou du montage ;
 
+ma)  Retitrisation : une titrisation dans laquelle le risque de crédit  associé à un portefeuille d'expositions sous-jacentes est subdivisé en  tranches et dont au moins une des expositions sous-jacentes est une  position de titrisation ;
+
 n) Position de titrisation : une exposition sur une opération ou un montage de titrisation. Les positions de titrisation comprennent les expositions sur une titrisation résultant de contrats dérivés sur taux d'intérêt ou sur taux de change ;
+
+na) Position de retitrisation : une exposition sur une opération de retitrisation ;
 
 o) Marché reconnu : un marché répondant, quel que soit son pays d'établissement, à la définition de marché réglementé figurant à l'article L. 421-3 du code monétaire et financier et disposant d'un mécanisme de compensation permettant des appels de marge quotidiens sur les contrats visés à l'annexe II ;
 
