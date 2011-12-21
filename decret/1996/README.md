@@ -451,7 +451,6 @@
 - [Décret n°96-828 du 19 septembre 1996 (INTC9600248D)](decret-n96-828-du-19-septembre-1996-intc9600248d)
 - [Décret n°96-838 du 19 septembre 1996 (TASP9623272D)](decret-n96-838-du-19-septembre-1996-tasp9623272d)
 - [Décret n°96-845 du 19 septembre 1996 (DEFD9601848D)](decret-n96-845-du-19-septembre-1996-defd9601848d)
-- [Décret n°96-999 du 19 novembre 1996 (PRMX9601746D)](decret-n96-999-du-19-novembre-1996-prmx9601746d)
 - [Décret n°98-185 du 19 mars 1998 (FPPA9700183D)](decret-n98-185-du-19-mars-1998-fppa9700183d)
 - [Décret n°98-186 du 19 mars 1998 (FPPA9700182D)](decret-n98-186-du-19-mars-1998-fppa9700182d)
 - [Décret n°98-187 du 19 mars 1998 (FPPA9700199D)](decret-n98-187-du-19-mars-1998-fppa9700199d)

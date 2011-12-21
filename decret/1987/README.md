@@ -250,7 +250,6 @@
 - [Décret du 25 mars 1987 (ACVC8700007D)](decret-du-25-mars-1987-acvc8700007d)
 - [Décret n°87-127 du 25 février 1987](decret-n87-127-du-25-fevrier-1987)
 - [Décret n°87-128 du 25 février 1987 (AGRP8700306D)](decret-n87-128-du-25-fevrier-1987-agrp8700306d)
-- [Décret n°87-135 du 25 février 1987 (MAEJ8730007D)](decret-n87-135-du-25-fevrier-1987-maej8730007d)
 - [Décret n°87-214 du 25 mars 1987 (INDG8700190D)](decret-n87-214-du-25-mars-1987-indg8700190d)
 - [Décret n°87-445 du 25 juin 1987 (DEFP8701307D)](decret-n87-445-du-25-juin-1987-defp8701307d)
 - [Décret n°87-780 du 25 septembre 1987 (MENF8700551D)](decret-n87-780-du-25-septembre-1987-menf8700551d)

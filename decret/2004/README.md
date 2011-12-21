@@ -946,7 +946,6 @@
 - [Décret n°2004-314 du 29 mars 2004 (ECOC0200167D)](decret-n2004-314-du-29-mars-2004-ecoc0200167d)
 - [Décret n°2004-315 du 29 mars 2004 (ECOA0320045D)](decret-n2004-315-du-29-mars-2004-ecoa0320045d)
 - [Décret n°2004-316 du 29 mars 2004 (ECOS0450004D)](decret-n2004-316-du-29-mars-2004-ecos0450004d)
-- [Décret n°2004-372 du 29 avril 2004 (PRMX0407300D)](decret-n2004-372-du-29-avril-2004-prmx0407300d)
 - [Décret n°2004-374 du 29 avril 2004 (INTX0400040D)](decret-n2004-374-du-29-avril-2004-intx0400040d)
 - [Décret n°2004-375 du 29 avril 2004 (INTX0407315D)](decret-n2004-375-du-29-avril-2004-intx0407315d)
 - [Décret n°2004-617 du 29 juin 2004 (PRMX0400087D)](decret-n2004-617-du-29-juin-2004-prmx0400087d)
