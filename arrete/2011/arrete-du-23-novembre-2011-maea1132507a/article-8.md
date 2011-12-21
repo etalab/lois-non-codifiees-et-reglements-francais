@@ -18,7 +18,7 @@ Pour tenir compte des effectifs et pour permettre une comparaison de la valeur p
 
 ― les agents placés sous son autorité ;
 
-― les agents affectés à la direction des Nations unies, des organisations internationales, des droits de l'homme et de la francophonie ; à la direction des affaires stratégiques, de sécurité et du désarmement ; à la direction de la coopération de sécurité et de défense ;
+― les agents affectés à la direction des Nations Unies, des organisations internationales, des droits de l'homme et de la francophonie ; à la direction des affaires stratégiques, de sécurité et du désarmement ; à la direction de la coopération de sécurité et de défense ;
 
 ― les agents affectés dans les représentations permanentes auprès des organisations internationales relevant de ces directions.
 

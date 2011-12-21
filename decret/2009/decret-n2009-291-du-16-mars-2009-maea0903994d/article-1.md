@@ -8,7 +8,7 @@ II. ― Le protocole, l'inspection générale des affaires étrangères, la dire
 
 III. ― La direction générale des affaires politiques et de sécurité, composée de :
 
-― la direction des Nations unies, des organisations internationales, des droits de l'homme et de la francophonie ;
+― la direction des Nations Unies, des organisations internationales, des droits de l'homme et de la francophonie ;
 
 ― la direction des affaires stratégiques, de sécurité et du désarmement ;
 

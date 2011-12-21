@@ -2,7 +2,7 @@
 
 La direction générale des affaires politiques et de sécurité est composée :
 
-1° De la direction des Nations unies, des organisations internationales, des droits de l'homme et de la francophonie, qui comprend :
+1° De la direction des Nations Unies, des organisations internationales, des droits de l'homme et de la francophonie, qui comprend :
 
 ― la sous-direction des affaires politiques ;
 
@@ -72,10 +72,14 @@ Elle comprend en outre, sous la coordination du directeur général :
 
 5° La direction d'Asie et d'Océanie, qui comprend :
 
-― la sous-direction d'Asie méridionale ;
+-la sous-direction d'Asie méridionale ;
 
-― la sous-direction d'Asie du Sud-Est ;
+-la sous-direction d'Asie du Sud-Est ;
 
-― la sous-direction d'Extrême-Orient ;
+-la sous-direction d'Extrême-Orient ;
 
-― la sous-direction d'Océanie.
+-la sous-direction d'Océanie ;
+
+-le secrétariat permanent pour le Pacifique ;
+
+-la cellule interministérielle pour l'Afghanistan et le Pakistan.

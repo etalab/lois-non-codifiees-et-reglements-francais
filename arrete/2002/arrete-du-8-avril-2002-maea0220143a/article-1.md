@@ -182,7 +182,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 8 avr
 </tr>
 <tr>
 <td valign="top" width="396">
-<p>Directeur des Nations unies et des organisations internationales </p>
+<p>Directeur des Nations Unies et des organisations internationales </p>
 </td>
 <td valign="top" width="101">
 <p align="center">1 </p>
@@ -534,7 +534,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 8 avr
 </tr>
 <tr>
 <td valign="top" width="396">
-<p>Directeur adjoint des Nations unies et des organisations internationales </p>
+<p>Directeur adjoint des Nations Unies et des organisations internationales </p>
 </td>
 <td valign="top" width="101">
 <p align="center">1 </p>

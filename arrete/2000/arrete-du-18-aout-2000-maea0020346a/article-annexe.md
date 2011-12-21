@@ -32,7 +32,7 @@ Les organes de la Ve République :
 
 -le Conseil constitutionnel et le contrôle de constitutionnalité ;
 
--les autres pouvoirs ou organes : l'autorité judiciaire, la Cour de justice de la République, le   Conseil économique, social et environnemental.
+-les autres pouvoirs ou organes : l'autorité judiciaire, la Cour de justice de la République, le Conseil économique, social et environnemental.
 
 La révision de la Constitution.
 
@@ -44,7 +44,7 @@ a) Les sources internes ;
 
 b) Les traités internationaux.
 
-2.L'organisation administrative :
+2. L'organisation administrative :
 
 a) Notions générales, décentralisation, déconcentration, cadres territoriaux de l'organisation administrative ;
 
@@ -96,7 +96,7 @@ Relations internationales
 
 2. Les Etats.
 
-3. Les organisations internationales : le système des Nations unies, les organes rattachés et les institutions spécialisées ; les organisations internationales régionales.
+3. Les organisations internationales : le système des Nations Unies, les organes rattachés et les institutions spécialisées ; les organisations internationales régionales.
 
 4. Les étapes de la construction européenne.
 
@@ -162,21 +162,21 @@ Droit des étrangers
 
 2. Les conditions d'entrée et de séjour.
 
-3.L'éloignement et l'aide au retour.
+3. L'éloignement et l'aide au retour.
 
 4. Le regroupement familial.
 
 5. La jurisprudence française et européenne.
 
-6.L'acquisition de la nationalité.
+6. L'acquisition de la nationalité.
 
-7.L'apatridie.
+7. L'apatridie.
 
 8. Les accords de Schengen.
 
 Droit des réfugiés
 
-1.L'évolution de la demande d'asile en France depuis 1974.
+1. L'évolution de la demande d'asile en France depuis 1974.
 
 2. Le droit d'asile dans les textes.
 
@@ -190,7 +190,7 @@ Droit des réfugiés
 
 7. La protection du réfugié en France.
 
-8.L'asile au sein de l'Union européenne.
+8. L'asile au sein de l'Union européenne.
 
 Droit de la fonction publique
 

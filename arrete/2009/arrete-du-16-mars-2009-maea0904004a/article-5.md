@@ -21,3 +21,5 @@ La direction des Français à l'étranger et de l'administration consulaire comp
 4° La mission pour la politique des visas.
 
 5° Le secrétariat général de l'Assemblée des Français de l'étranger.
+
+6° Une mission de gestion administrative et financière.

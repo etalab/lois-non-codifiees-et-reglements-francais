@@ -1,4 +1,4 @@
-# Section 1 : De l'accès à la zone d'attente du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.
+# Section 1 : De l'accès à la zone d'attente du délégué du Haut-Commissariat des Nations Unies pour les réfugiés ou de ses représentants.
 
 - [Article 117](article-117.md)
 - [Article 118](article-118.md)
