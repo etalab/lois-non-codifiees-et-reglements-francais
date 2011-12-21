@@ -17,7 +17,7 @@ Les magistrats et rapporteurs en service à l'étranger visés par le présent a
 <p align="center">Groupe I </p>
 </td>
 <td width="538">
-<p>Directeur de l'audit externe des Nations unies, représentant du premier président au comité des commissaires aux comptes (CCC) de l'Organisation des Nations unies ; directeur adjoint de l'audit externe des Nations unies ; directeur de l'audit externe, représentant du premier président en sa qualité de commissaire aux comptes d'une organisation spécialisée des Nations unies. </p>
+<p>Directeur de l'audit externe des Nations Unies, représentant du premier président au comité des commissaires aux comptes (CCC) de l'Organisation des Nations Unies ; directeur adjoint de l'audit externe des Nations Unies ; directeur de l'audit externe, représentant du premier président en sa qualité de commissaire aux comptes d'une organisation spécialisée des Nations Unies. </p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ Les magistrats et rapporteurs en service à l'étranger visés par le présent a
 <p align="center">Groupe II </p>
 </td>
 <td width="538">
-<p>Directeur adjoint de l'audit externe d'une organisation spécialisée des Nations unies ; responsable du contrôle d'un ou plusieurs organismes des Nations unies dont le budget total a excédé, en ressources, au cours de la période budgétaire biennale précédente, un milliard de dollars des États-Unis.</p>
+<p>Directeur adjoint de l'audit externe d'une organisation spécialisée des Nations Unies ; responsable du contrôle d'un ou plusieurs organismes des Nations Unies dont le budget total a excédé, en ressources, au cours de la période budgétaire biennale précédente, un milliard de dollars des États-Unis.</p>
 </td>
 </tr>
 </tbody>

@@ -1,0 +1,3 @@
+# Article 6
+
+Chaque logement ou local à usage professionnel dispose d'une installation intérieure à laquelle sont raccordés le câble téléphonique d'abonné et la ligne très haut débit en fibre optique. L'installation intérieure comporte le câblage et les dispositifs de terminaison nécessaires à l'accès à la fois au réseau téléphonique et au réseau de communications électroniques à très haut débit en fibre optique, placés dans le tableau de communication, et permettant la desserte de chacune des pièces principales grâce à un équipement de brassage. La ou, le cas échéant, les fibres optiques sont reliées par connecteurs au dispositif de terminaison optique.
