@@ -7,35 +7,29 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <table>
 <tbody>
 <tr>
-<td>
+<td width="143">
 <p align="center">Corps de catégorie A</p>
 </td>
+<td width="71">
+<p align="center">Note pivot<br/>1er échelon</p>
+</td>
+<td colspan="2">
+<p align="center">Note pivot<br/>1er échelon</p>
+</td>
+<td colspan="2">
+<p align="center">Note pivot<br/>1er échelon</p>
+</td>
 <td>
-<p align="center">Note pivot 1er échelon</p>
+<p align="center">Note pivot<br/>1er échelon</p>
 </td>
 <td colspan="2">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
+<p align="center">Note pivot<br/>1er échelon</p>
 </td>
-<td colspan="2">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
+<td width="46">
+<p align="center">Note pivot<br/>1er échelon</p>
 </td>
-<td colspan="2">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
-</td>
-<td colspan="2">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
-</td>
-<td width="67">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
-</td>
-<td colspan="2" width="59">
-<p align="center">Note pivot</p>
-<p align="center">1er échelon</p>
+<td width="42">
+<p align="center">Note pivot<br/>1er échelon</p>
 </td>
 <td>
 <p align="center">Note pivot</p>
@@ -45,163 +39,52 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
-<p>Personnels de catégorie A des services déconcentrés de la direction générale des impôts.</p>
+<td rowspan="3" valign="top" width="143">
+<p>Personnels de catégorie A de la direction générale des finances publiques</p>
 </td>
-<td>
+<td width="71">
 <p align="center">Inspecteurs</p>
 </td>
 <td colspan="2">
 <p align="center">Inspecteurs divisionnaires</p>
 </td>
-<td colspan="2">
-<p align="center">Receveurs principaux</p>
-</td>
-<td colspan="2">
+<td colspan="2"/>
+<td>
 <p align="center">Inspecteurs principaux</p>
 </td>
 <td colspan="2">
-<p align="center">Administrateurs des finances publiques adjoints </p>
+<p align="center">Administrateurs adjoints </p>
 </td>
-<td width="67">
-<p align="center">Directeurs départementaux</p>
-</td>
-<td colspan="2" width="59">
-<p align="center">Chefs des services fiscaux</p>
-</td>
+<td width="46"/>
+<td width="42"/>
 <td>
 <br/>
 </td>
 <td>
-<p align="center">Conservateurs des hypothèques 6e catégorie</p>
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td rowspan="2" width="71">
 <p align="center">13,00</p>
 </td>
 <td>
 <p align="center">CL. N</p>
 </td>
 <td>
-<p align="center">CL. E</p>
+<p align="center">H. C.</p>
 </td>
-<td>
-<p align="center">CL. 2</p>
-</td>
-<td>
-<p align="center">CL. 1</p>
-</td>
-<td>
-<p align="center">CL. 2</p>
-</td>
-<td>
-<p align="center">CL. 1</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">16,25</p>
-</td>
-<td rowspan="2" width="67">
-<p align="center">17,25</p>
-</td>
-<td width="29">
-<p align="center">CL. N</p>
-</td>
-<td width="29">
-<p align="center">CL. F</p>
-</td>
+<td colspan="2" rowspan="2"/>
 <td rowspan="2">
-<br/>
-</td>
-<td rowspan="2">
-<p align="center">17,75</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">15,25</p>
 </td>
-<td>
+<td colspan="2" rowspan="2">
 <p align="center">16,25</p>
 </td>
-<td>
-<p align="center">15,75</p>
-</td>
-<td>
-<p align="center">17,00</p>
-</td>
-<td>
-<p align="center">15,25</p>
-</td>
-<td>
-<p align="center">16,75</p>
-</td>
-<td width="29">
-<p align="center">17,75</p>
-</td>
-<td width="29">
-<p align="center">18,25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top">
-<p>Personnels de catégorie A du Trésor public.</p>
-</td>
-<td>
-<p align="center">Inspecteurs</p>
-</td>
-<td colspan="2">
-<p align="center">Receveurs percepteurs</p>
-</td>
-<td colspan="2">
-<p align="center">Trésoriers principaux</p>
-</td>
-<td colspan="2">
-<p align="center">Trésoriers principaux 1re catégorie</p>
-</td>
-<td colspan="2">
-<p align="center">Inspecteurs principaux</p>
-</td>
-<td width="67">
-<p align="center">Directeurs départementaux</p>
-</td>
-<td colspan="2" width="59">
-<p align="center">Receveurs des finances</p>
-</td>
-<td>
-<p align="center">Receveurs des finances 1re catégorie</p>
-</td>
-<td>
+<td rowspan="2" width="46"/>
+<td rowspan="2" width="42"/>
+<td rowspan="2">
 <br/>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p align="center">13,00</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">16,00</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">16,75</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">17,00</p>
-</td>
-<td>
-<p align="center">CL. 2</p>
-</td>
-<td>
-<p align="center">CL. 1</p>
-</td>
-<td rowspan="2" width="67">
-<p align="center">16,25</p>
-</td>
-<td colspan="2" rowspan="2" width="59">
-<p align="center">17,00</p>
-</td>
-<td rowspan="2">
-<p align="center">17,50</p>
 </td>
 <td rowspan="2">
 <br/>
@@ -209,35 +92,35 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </tr>
 <tr>
 <td>
-<p align="center">15,00</p>
+<p align="center">16,25</p>
 </td>
 <td>
-<p align="center">16,75</p>
+<p align="center">17</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="3" valign="top" width="143">
 <p>Personnels de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects.</p>
 </td>
-<td>
+<td width="71">
 <p align="center">Inspecteurs</p>
 </td>
 <td colspan="2">
 <p align="center">Inspecteurs principaux</p>
 </td>
-<td colspan="4">
+<td colspan="3">
 <p align="center">Inspecteurs régionaux</p>
 </td>
 <td colspan="2">
 <p align="center">Directeurs des services douaniers</p>
 </td>
-<td valign="top" width="67"/>
-<td colspan="2" valign="top" width="59"/>
+<td valign="top" width="46"/>
+<td valign="top" width="42"/>
 <td valign="top"/>
 <td valign="top"/>
 </tr>
 <tr>
-<td rowspan="2">
+<td rowspan="2" width="71">
 <p align="center">13,00</p>
 </td>
 <td>
@@ -252,7 +135,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td>
 <p align="center">CL. 2</p>
 </td>
-<td colspan="2">
+<td>
 <p align="center">CL. 1</p>
 </td>
 <td>
@@ -261,8 +144,8 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td>
 <p align="center">CL. 1</p>
 </td>
-<td rowspan="2" valign="top" width="67"/>
-<td colspan="2" rowspan="2" valign="top" width="59"/>
+<td rowspan="2" valign="top" width="46"/>
+<td rowspan="2" valign="top" width="42"/>
 <td rowspan="2" valign="top"/>
 <td rowspan="2" valign="top"/>
 </tr>
@@ -279,7 +162,7 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td>
 <p align="center">15,25</p>
 </td>
-<td colspan="2">
+<td>
 <p align="center">15,50</p>
 </td>
 <td>
@@ -290,10 +173,10 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
-<p>Agents de catégorie A des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes</p>
+<td rowspan="2" valign="top" width="143">
+<p>Personnels de catégorie A des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
-<td>
+<td width="71">
 <p align="center">Inspecteurs</p>
 </td>
 <td colspan="2">
@@ -302,65 +185,54 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td colspan="2">
 <p align="center">Directeurs départementaux de 2e classe</p>
 </td>
-<td colspan="2">
+<td>
 <p align="center">Directeurs départementaux de 1re classe</p>
 </td>
 <td colspan="2">
 <p align="center">Chefs de service régional</p>
 </td>
-<td valign="top" width="67"/>
-<td colspan="2" valign="top" width="59"/>
+<td valign="top" width="46"/>
+<td valign="top" width="42"/>
 <td valign="top"/>
 <td valign="top"/>
 </tr>
 <tr>
-<td rowspan="2">
+<td width="71">
 <p align="center">13,00</p>
 </td>
-<td>
-<p align="center">CL. 2</p>
-</td>
-<td>
-<p align="center">CL. 1</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">16,25</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">17,50</p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">17,75</p>
-</td>
-<td rowspan="2" valign="top" width="67"/>
-<td colspan="2" rowspan="2" valign="top" width="59"/>
-<td rowspan="2" valign="top"/>
-<td rowspan="2" valign="top"/>
-</tr>
-<tr>
-<td>
+<td colspan="2">
 <p align="center">15,00</p>
 </td>
-<td>
-<p align="center">16,75</p>
+<td colspan="2">
+<p align="center">16,25</p>
 </td>
+<td>
+<p align="center">17,50</p>
+</td>
+<td colspan="2">
+<p align="center">17,75</p>
+</td>
+<td valign="top" width="46"/>
+<td valign="top" width="42"/>
+<td valign="top"/>
+<td valign="top"/>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="101">
+<td rowspan="3" valign="top" width="143">
 <p>Personnnels scientifiques de laboratoire du ministère de l'économie, des finances et de l'industrie</p>
 </td>
-<td colspan="5">
+<td colspan="5" width="226">
 <p align="center">Directeurs de laboratoire</p>
 </td>
+<td valign="top"/>
 <td colspan="2" valign="top"/>
-<td colspan="2" valign="top"/>
-<td valign="top" width="67"/>
-<td colspan="2" valign="top" width="59"/>
+<td valign="top" width="46"/>
+<td valign="top" width="42"/>
 <td valign="top"/>
 <td valign="top"/>
 </tr>
 <tr>
-<td>
+<td width="71">
 <p align="center">CL. N</p>
 </td>
 <td colspan="2">
@@ -369,15 +241,15 @@ CORPS ET EMPLOIS DE FONCTIONNAIRES VISÉS PAR L'ARTICLE 1ER DE L'ARRÊTÉ ET NOT
 <td colspan="2">
 <p align="center">CL. Ex</p>
 </td>
+<td rowspan="2" valign="top"/>
 <td colspan="2" rowspan="2" valign="top"/>
-<td colspan="2" rowspan="2" valign="top"/>
-<td rowspan="2" valign="top" width="67"/>
-<td colspan="2" rowspan="2" valign="top" width="59"/>
+<td rowspan="2" valign="top" width="46"/>
+<td rowspan="2" valign="top" width="42"/>
 <td rowspan="2" valign="top"/>
 <td rowspan="2" valign="top"/>
 </tr>
 <tr>
-<td>
+<td width="71">
 <p align="center">14,50</p>
 </td>
 <td colspan="2">
