@@ -134,20 +134,6 @@
 </td>
 </tr>
 <tr>
-<td>Ecole normale supérieure de Fontenay-Saint-Cloud</td>
-<td>
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Ecole normale supérieure de Lyon </p>
-</td>
-<td>
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
 <td>
 <p align="center">Université Toulouse-III</p>
 </td>
@@ -219,7 +205,7 @@
 </tr>
 <tr>
 <td>
-<p align="center">Université Grenoble-I</p>
+<p align="center">Université Grenoble</p>
 </td>
 <td>
 <p align="center">1er janvier 2010</p>
