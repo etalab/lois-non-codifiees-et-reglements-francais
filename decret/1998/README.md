@@ -114,7 +114,6 @@
 - [Décret n°98-988 du 4 novembre 1998 (MENF9802497D)](decret-n98-988-du-4-novembre-1998-menf9802497d)
 - [Décret n°98-989 du 4 novembre 1998 (MENF9802498D)](decret-n98-989-du-4-novembre-1998-menf9802498d)
 - [Décret n°98-353 du 4 mai 1998 (MAEJ9830038D)](decret-n98-353-du-4-mai-1998-maej9830038d)
-- [Décret du 5 février 1998 (ECOC9700188D)](decret-du-5-fevrier-1998-ecoc9700188d)
 - [Décret n°84-430 du 5 juin 1984](decret-n84-430-du-5-juin-1984)
 - [Décret n°98-1008 du 5 novembre 1998 (MENF9802509D)](decret-n98-1008-du-5-novembre-1998-menf9802509d)
 - [Décret n°98-11 du 5 janvier 1998 (MCCB9700769D)](decret-n98-11-du-5-janvier-1998-mccb9700769d)
