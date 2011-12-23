@@ -78,9 +78,9 @@ Panneau B 11.-Accès interdit aux véhicules dont la largeur, chargement compris
 
 Panneau B 12.-Accès interdit aux véhicules dont la hauteur, chargement compris, est supérieure au nombre indiqué.
 
-Panneau B 12 a.-Accès interdit aux véhicules pesant sur un essieu plus que le nombre indiqué.
-
 Panneau B 13.-Accès interdit aux véhicules, véhicules articulés, trains doubles ou ensemble de véhicules dont le poids total autorisé en charge ou le poids total roulant autorisé excède le nombre indiqué.
+
+Panneau B13a. Accès interdit aux véhicules pesant sur un essieu plus que le nombre indiqué.
 
 Panneau B 14.-Limitation de vitesse. Ce panneau notifie l'interdiction de dépasser la vitesse indiquée.
 
@@ -90,11 +90,11 @@ Panneau B 16.-Signaux sonores interdits.
 
 Panneau B 17.-Interdiction aux véhicules de circuler sans maintenir entre eux un intervalle au moins égal au nombre indiqué.
 
-Panneau B 18 a.-Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B18a. Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit "arrêté TMD"), et signalés comme tels.
 
-Panneau B 18 b.-Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B18b. Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit "arrêté TMD"), et signalés comme tels.
 
-Panneau B 18 c.-Accès interdit aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B18c. Accès interdit aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit "arrêté TMD"), et signalés comme tels.
 
 Panneau B 19.-Autres interdictions dont la nature est indiquée par une inscription sur le panneau.
 
@@ -114,9 +114,7 @@ Panneau B 21 a 1.-Contournement obligatoire par la droite.
 
 Panneau B 21 a 2.-Contournement obligatoire par la gauche.
 
-Panneau B 21 b.-Direction obligatoire à la prochaine intersection :
-
-tout droit.
+Panneau B 21 b.-Direction obligatoire à la prochaine intersection : tout droit.
 
 Panneau B 21 c 1.-Direction obligatoire à la prochaine intersection : à droite.
 
@@ -128,19 +126,25 @@ Panneau B 21 d 2.-Directions obligatoires à la prochaine intersection : tout dr
 
 Panneau B 21 e.-Directions obligatoires à la prochaine intersection : à droite ou à gauche.
 
-Panneau B 21 f.-(La définition de ce panneau est supprimée par l'arrêté du 16 février 1984, art. 2.)
+Panneau B22a. Piste ou bande obligatoire pour les cycles sans side-car ou remorque et réservée aux cycles à deux ou trois roues.
 
-Panneau B 22 a.-Piste ou bande obligatoire pour les cycles sans side-car ou remorque.
+Ce panneau indique également qu'il est interdit aux piétons et aux conducteurs des autres véhicules d'emprunter la piste ou bande cyclable ou de s'y arrêter. Le panonceau M4d2 qui peut compléter le panneau indique que, par décision de l'autorité compétente, cet aménagement est accessible aux cyclomoteurs.
 
-Panneau B 22 b.-Chemin obligatoire pour piétons.
+Panneau B22b. Chemin obligatoire pour piétons et réservée aux piétons.
 
-Panneau B 22 c.-Chemin obligatoire pour cavaliers.
+Ce panneau indique également qu'il est interdit aux conducteurs de véhicules et aux cavaliers d'emprunter ce chemin ou de s'y arrêter.
+
+Panneau B22c. Chemin obligatoire pour cavaliers et réservée aux cavaliers.
+
+Ce panneau indique également qu'il est interdit aux conducteurs de véhicules et aux piétons d'emprunter ce chemin ou de s'y arrêter.
 
 Panneau B 25.-Vitesse minimale obligatoire.
 
 Panneau B 26.-Chaînes à neige obligatoires sur au moins deux roues motrices.
 
-Panneau B 27 a.-Voie réservée aux véhicules des services réguliers de transport en commun.
+Panneau B27a. Voie réservée aux véhicules des services réguliers de transport en commun.
+
+Ce panneau indique qu'il est interdit aux piétons et aux conducteurs des autres véhicules d'emprunter la voie réservée ou de s'y arrêter. Le panonceau M4d1 qui peut compléter le panneau indique que, par décision de l'autorité compétente, cette voie est accessible aux cycles.
 
 Panneau B 27 b.-Voie réservée aux tramways.
 
@@ -190,13 +194,9 @@ Panneau B. 6b 2. Entrée d'une zone à stationnement unilatéral à alternance s
 
 Panneau B. 6b 3. Entrée d'une zone à stationnement de durée limitée, avec contrôle par disque ;
 
-Panneau B. 6b 3-ancien. Entrée d'une zone à stationnement de durée limitée fixée à 1 h 30, avec contrôle par disque ;
-
 Panneau B. 6b 4. Entrée d'une zone à stationnement payant ;
 
 Panneau B 6b 5. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée, avec contrôle par disque ;
-
-Panneau B. 6b 5-ancien. Entrée d'une zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée fixée à 1 h 30, avec contrôle par disque ;
 
 Panneau B. 30. Entrée d'une zone à vitesse limitée à 30 km / h ;
 
@@ -206,13 +206,9 @@ Panneau B. 50 b. Sortie de zone à stationnement unilatéral à alternance semi-
 
 Panneau B. 50c. Sortie de zone à stationnement de durée limitée, avec contrôle par disque ;
 
-Panneau B. 50 c-ancien. Sortie de zone à stationnement de durée limitée fixée à 1 h 30, avec contrôle par disque ;
-
 Panneau B. 50 d. Sortie de zone à stationnement payant ;
 
 Panneau B. 50e. Sortie de zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée, avec contrôle par disque ;
-
-Panneau B. 50 e-ancien. Sortie de zone à stationnement unilatéral à alternance semi-mensuelle et à durée limitée fixée à 1 h 30, avec contrôle par disque ;
 
 Panneau B. 51. Sortie d'une zone à vitesse limitée à 30 km / h.
 

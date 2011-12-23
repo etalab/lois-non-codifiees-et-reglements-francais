@@ -18,7 +18,7 @@ Panneau AB 6 : Indication du caractère prioritaire d'une route.
 
 Panneau AB 7 : Fin du caractère prioritaire d'une route.
 
-Panneau AB25 : Carrefour à sens giratoire.
+Panneau AB25. Carrefour à sens giratoire. Ce panneau constitue la signalisation spécifique mentionnée à l'article R. 110-2 du code de la route.
 
 Les panneaux AB 1, AB 2 et AB 25 sont de forme triangulaire. Ils sont à fond blanc et bordés d'une bande rouge elle-même entourée d'un listel blanc.
 

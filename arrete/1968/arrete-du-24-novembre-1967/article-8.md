@@ -48,11 +48,9 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 -Le mot Taxi : cette inscription sur la chaussée signale que les emplacements de stationnement contigus et délimités par du marquage sont réservés à l'arrêt et au stationnement des taxis durant l'exercice de leur profession.
 
--marques relatives aux aménagements de modération de la vitesse :
+-marques relatives aux aménagements de modération de la vitesse : le marquage constitué d'un ensemble de triangles blancs indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
 
-le marquage constitué d'un ensemble de triangles blancs et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
-
--marques relatives aux emplacements réservés au stationnement des véhicules  utilisés par les personnes titulaires de la carte de stationnement prévue à  l'article L. 241-3-2 du code de l'action sociale et des familles : le  pictogramme représentant une silhouette dans un fauteuil roulant, peint sur les  limites ou le long d'un emplacement de stationnement, indique que cet  emplacement est réservé au stationnement des véhicules utilisés par les  personnes mentionnées ci-dessus ;
+-marques relatives aux emplacements réservés au stationnement des véhicules utilisés par les personnes titulaires de la carte de stationnement prévue à l'article L. 241-3-2 du code de l'action sociale et des familles : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur les limites ou le long d'un emplacement de stationnement, indique que cet emplacement est réservé au stationnement des véhicules utilisés par les personnes mentionnées ci-dessus ;
 
 -marques relatives aux emplacements réservés au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs : le pictogramme représentant un véhicule électrique peint sur les limites ou le long d'un emplacement de stationnement rappelle que cet emplacement est réservé au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs ;
 
@@ -60,4 +58,6 @@ le marquage constitué d'un ensemble de triangles blancs et dont les pointes son
 
 -marque relative aux emplacements réservés pour l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises : la délimitation des emplacements réservés pour l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises est effectuée par une ligne discontinue de couleur jaune. L'emplacement est barré suivant ses deux diagonales par une ligne continue de couleur jaune. Le mot : " Livraison " est peint en jaune le long de l'emplacement ;
 
--marque relative aux postes d'appel d'urgence : il est constitué d'une indication de distance, de direction et du pictogramme du poste d'appel d'urgence. Il indique la direction et la distance du poste d'appel d'urgence le plus proche. Ce marquage est de couleur blanche.
+-marque relative aux postes d'appel d'urgence : il est constitué d'une indication de distance, de direction et du pictogramme du poste d'appel d'urgence. Il indique la direction et la distance du poste d'appel d'urgence le plus proche. Ce marquage est de couleur blanche ;
+
+- marques relatives aux aménagements de modération de la vitesse : le marquage constitué d'un ensemble de triangles blancs indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse.

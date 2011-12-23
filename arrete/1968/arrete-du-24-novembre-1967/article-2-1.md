@@ -26,7 +26,9 @@ Un panonceau M3 indique la position ou la direction de la voie concernée par le
 
 **PANONCEAU DE CATEGORIE M 4**
 
-Il indique que le panneau qu'il complète s'applique à la seule catégorie d'usager qu'il désigne par une silhouette, un symbole ou une inscription.
+Lorsqu'il complète un panneau d'interdiction, un panonceau M4 indique que ce panneau s'applique à la seule catégorie d'usagers qu'il désigne par une silhouette, un symbole ou une inscription.
+
+Lorsqu'il complète un panneau d'obligation ou d'indication, un panonceau M4 indique que la catégorie qu'il désigne est également autorisée à emprunter l'aménagement concerné.
 
 On distingue les différents types suivants :
 
@@ -52,11 +54,11 @@ M 4 i qui désigne les véhicules agricoles à moteur.
 
 M 4 j qui désigne les véhicules équipés de chaîne à neige.
 
-M 4 k qui désigne les véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+M4k qui désigne les véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD "), et signalés comme tels.
 
-M 4 l qui désigne les véhicules transportant des marchandises de nature à polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+M4l qui désigne les véhicules transportant des marchandises de nature à polluer les eaux, de nature et en quantité définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD "), et signalés comme tels.
 
-M 4 m qui désigne les véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+M4m qui désigne les véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD ") et signalés comme tels.
 
 M 4 n qui désigne les installations aménagées pour handicapés physiques.
 
@@ -80,8 +82,6 @@ M 4 x qui désigne les véhicules tractant une caravane ou une remorque de plus 
 
 M4y qui désigne les cavaliers.
 
-M4z qui indique par la lettre qu'il porte, comprise entre B et E, la catégorie d'un tunnel définie en fonction des marchandises dangereuses autorisées à y circuler.
-
 **PANONCEAU STOP M 5**
 
 Il indique la distance comprise entre le signal et l'endroit où le conducteur doit marquer l'arrêt et céder le passage.
@@ -99,8 +99,6 @@ Dans les deux cas, un véhicule en infraction est susceptible d'une mise en four
 M 6 b qui indique que le stationnement est unilatéral à alternance semi-mensuelle.
 
 M6c qui indique la durée limite maximum du stationnement avec contrôle par disque, ainsi que les limites de la période d'application de la mesure.
-
-M 6 c-ancien qui indique que le stationnement est à durée limitée fixée à 1 h 30, avec contrôle par disque.
 
 M 6 d qui indique que le stationnement est payant avec parcmètre.
 
@@ -134,47 +132,55 @@ M 8 d, M 8 e, M 8 f indiquant que la section sur laquelle s'applique la prescrip
 
 La distance indiquée sur l'un de ces panonceaux, si elle existe, précise la longueur de la section concernée.
 
-**PANONCEAU D'INDICATIONS DIVERSES M 9**
+**Panonceaux d'indications diverses M9 :**
 
-Il donne des indications complémentaires ou modificatrices à celles données par le panneau qu'il complète.
+Un panonceau M9 donne des indications complémentaires à celles données par le panneau qu'il complète. On distingue les différents types suivants :
 
-On distingue les différents types suivants :
+M9a indiquant que le panneau auquel il est associé concerne une aire de danger aérien.
 
-M 9 a indiquant que le panneau auquel il est associé concerne une aire de danger aérien.
+M9b indiquant qu'à sa traversée, la voie ferrée est électrifiée.
 
-M 9 b indiquant qu'à sa traversée la voie est électrifiée.
+M9c portant l'inscription " Cédez le passage ".
 
-Panonceau M 9 c Cédez le passage.
+Ce panonceau est exclusivement employé avec le panneau AB3a.
 
 M9d indiquant que le passage pour piétons est surélevé.
 
 M9e indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence.
 
-M 9 f indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence et d'un moyen de lutte contre l'incendie.
+M9f indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence et d'un moyen de lutte contre l'incendie.
 
-M9j indiquant le risque de heurt de véhicules lents.
+M9j1 indiquant, dans une descente, le risque de heurt de véhicules lents.
 
-M9v indiquant que la prescription donnée par le panneau associé ne s'applique pas aux cyclistes.
+M9j2 indiquant, dans une montée, le risque de heurt de véhicules lents.
 
-**PANONCEAU D'INDICATIONS M10**
+M9v1 et M9v2 indiquant que la prescription donnée par le panneau associé ne s'applique pas aux cyclistes.
 
-Ils permettent d'identifier une autoroute, un échangeur ou un service et sont placés au-dessus de certains panneaux de signalisation d'indication ou de signalisation des services. On distingue les différents types suivants :
+M9z donnant des indications diverses par inscriptions.
 
-M10a indiquant le numéro d'une route ou d'une autoroute ;
+**Panonceaux d'identification M10 :**
 
-M10b indiquant le numéro d'un échangeur ;
+Un panonceau M10 est placé au-dessus de certains panneaux de signalisation d'indication ou de signalisation des services. On distingue les différents types suivants :
+
+M10a indiquant le numéro d'une route ou d'une autoroute.
+
+M10b indiquant le numéro d'un échangeur.
+
+M10c1, M10c2 et M10c3 indiquant l'accès à une rocade.
 
 M10z indiquant le nom propre d'un site ou de certains services.
 
-Ces panonceaux sont placés au-dessus du panneau qu'ils complètent.
+**Panonceaux signalant des dérogations ou des prescriptions M11 :**
 
-**Panonceaux signalant des dérogations ou des prescriptions M11**
+M11a signalant les dérogations aux prescriptions qui s'appliquent à une route à accès réglementé.
 
-M11a signalant les dérogations aux prescriptions qui s'appliquent à une route à accès réglementé ;
+M11b1 indiquant la période durant laquelle la voie a le statut d'aire piétonne.
 
-M11b signalant les prescriptions qui s'appliquent dans l'aire piétonne.
+M11b2 signalant les prescriptions particulières qui s'appliquent dans l'aire piétonne.
 
-M 9 z indications diverses par inscriptions.
+M11c1 indiquant par la lettre qu'il porte, comprise entre B et E, la catégorie d'un tunnel définie en fonction des marchandises dangereuses autorisées à y circuler.
+
+M11c2 indiquant par la lettre qu'il porte, comprise entre B et E, la catégorie d'un tunnel définie en fonction des marchandises dangereuses autorisées à y circuler et sa période d'application.
 
 Le fond des panonceaux est de couleur blanche.
 

@@ -1,67 +1,17 @@
 # Article 6
 
-Les signaux et dispositifs de types G et J sont employés pour la signalisation de position des dangers suivants :
+Les panneaux et dispositifs de type G sont employés pour la signalisation de position des passages à niveau.
 
-Panneaux G 1 et G 1 b :
+Panneaux G1 et G1b. Signalisation de position, d'une part, des passages à niveau à une voie sans barrière ni demi-barrière et non munis de signalisation automatique et, d'autre part, des aires de danger aérien où les mouvements d'avions à basse altitude constituent un danger pour la circulation routière. Dans ce dernier cas, le panneau est complété par un dispositif lumineux d'interruption de la circulation de type R24 (deux feux rouges clignotants et placés à la même hauteur).
 
-Signalisation de position, d'une part, des passages à niveau à une voie sans barrière ni demi-barrière et non munis de signalisation automatique et, d'autre part, des aires de danger aérien où les mouvements d'avions à basse altitude constituent un danger pour la circulation routière. Dans ce dernier cas le panneau est complété par un dispositif lumineux d'interruption de la circulation (deux feux rouges clignotant alternativement et placés à la même hauteur).
+Panneaux G1a et G1c. Signalisation de position des passages à niveau à plusieurs voies sans barrière ni demi-barrière et non munis de signalisation automatique.
 
-Signaux G 1 bis et G 1 b bis :
+Un panneau AB4 peut être placé en dessous des panneaux G1, G1a, G1b ou G1c pour indiquer à l'usager qu'il doit marquer un temps d'arrêt avant de franchir le passage à niveau.
 
-Signalisation de position des passages à niveau à une voie munis d'une signalisation automatique lumineuse et sonore sans barrière ni demi-barrière. Les signaux G 1 bis et G 1 b bis sont composés respectivement d'un panneau G 1 ou G 1 b complété par un signal sonore et un feu clignotant dont le fonctionnement annonce l'arrivée des trains.
+Panneaux G1bis et G1bbis. Signalisation de position des passages à niveau à une voie munis d'une signalisation automatique lumineuse et sonore sans barrière ni demi-barrière. Les panneaux G1bis et G1bbis sont composés respectivement d'un panneau G1 ou G1b complété par un signal sonore et un feu clignotant d'arrêt de type R24.
 
-Panneaux G 1 a et G 1 c :
+Panneaux G1abis et G1cbis. Signalisation de position des passages à niveau à plusieurs voies munies d'une signalisation automatique lumineuse et sonore sans barrière ni demi-barrière. Les panneaux G1abis et G1cbis sont composés respectivement d'un panneau G1a ou G1c complété par un signal sonore et un feu rouge clignotant d'arrêt de type R24.
 
-Signalisation de position des passages à niveau à plusieurs voies sans barrière ni demi-barrière et non munis de signalisation automatique.
+Signal G2. Signalisation automatique avec un feu rouge clignotant et munie de demi-barrières à fonctionnement automatique interceptant la partie droite de la chaussée. Le fonctionnement du feu rouge clignotant d'arrêt de type R24 précède de peu la fermeture des demi-barrières.
 
-Signaux G 1 a bis et G 1 c bis :
-
-Signalisation de position des passages à niveau à plusieurs voies munis d'une signalisation automatique lumineuse et sonore sans barrière et demi-barrière. Les signaux G 1 a bis et G 1 c bis sont composés respectivement d'un panneau G 1 a ou G 1 c complété par un signal sonore et un feu rouge clignotant dont le fonctionnement annonce l'arrivée des trains.
-
-Dans le cas où l'usager doit marquer un temps d'arrêt avant de franchir le passage à niveau, un panneau AB 4 est placé en dessous des panneaux G 1, G 1 a, G 1 b ou G 1 c.
-
-Signal G 2 :
-
-Signalisation automatique avec un feu rouge clignotant et munie de demi-barrières à fonctionnement automatique interceptant la partie droite de la chaussée. Le fonctionnement du feu rouge clignotant annonce l'arrière des trains et précède de peu la fermeture des demi-barrières.
-
-Portique G 3 :
-
-Signalisation des passages à niveau avec voie électrifiée lorsque la hauteur des fils de contact est inférieure à six mètres.
-
-Balise J 1 : Balisage des virages.
-
-Balisage J1 bis : Balisage des virages sur routes fréquemment enneigées.
-
-Balise J 3 : Signalisation de position des intersections de routes.
-
-Balise J 4 : Balisage des virages.
-
-Balise J 5 : Signalisation des têtes d'îlots directionnels à contourner par la droite.
-
-Balise J 6 : Délinéateur. Balisage des limites de chaussées.
-
-Balise J 7 : Manche à air. Balise indiquant l'endroit où souffle fréquemment un vent latéral violent ainsi que l'intensité et la direction de celui-ci.
-
-Balise J 10 : Balise pour passage à niveau.
-
-La balise J 10 est de couleur blanche et comporte une à trois bandes
-
-rouges obliques.
-
-Balise J 11 : Dispositif de renforcement d'un marquage continu permanent.
-
-La balise J 11 est de couleur blanche.
-
-Balise J 12 : Dispositif de renforcement d'un marquage permanent en divergent.
-
-La balise J 12 est de couleur verte.
-
-Balise J 13 : Balise de signalisation d'obstacle.
-
-La balise J 13 comporte des bandes obliques alternativement bleues et blanches.
-
-Balises J14a et J14b : balises de musoir, signalant la divergence des voies :
-
-La balise J14a est constituée d'un élément unique en forme de demi-cercle portant sur sa face avant deux flèches de couleur blanche sur fond vert ;
-
-La balise J14b est constituée d'une série d'éléments dont la face avant porte un graphisme en forme de chevron de couleur blanche sur fond vert.
+Portique G3. Signalisation des passages à niveau avec voies électrifiées lorsque la hauteur des fils de contact est inférieure à six mètres.

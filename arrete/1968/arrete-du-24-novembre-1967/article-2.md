@@ -1,17 +1,25 @@
 # Article 2
 
-Les panneaux de signalisation dont le modèle figure dans les tableaux ci-annexés (1) sont de forme et de couleur différentes suivant la nature des indications à porter à la connaissance des usagers de la route.
+Les panneaux routiers dont les modèles figurent dans les tableaux ci-annexés sont de forme et de couleur différentes suivant la nature des indications qu'ils signifient. Selon le type de signalisation, une indication de même nature peut ne pas avoir exactement la même représentation.
 
-Ils se divisent en " quatre " catégories qui sont les suivantes :
+Ces indications peuvent être portées à la connaissance des usagers par des panneaux correspondant à trois modes de signalisation :
 
-1° Signaux de danger ;
+- la signalisation permanente installée sur supports fixes ;
 
-2° Signaux comportant une prescription absolue ;
+- la signalisation temporaire installée sur supports mobiles ;
 
-3° Signaux comportant une simple indication ;
+- la signalisation dynamique affichée sur panneaux à messages variables installés sur supports fixes ou mobiles.
 
-4° Certains signaux relatifs aux intersections et aux régimes de priorité qui relèvent à la fois des diverses catégories précédentes. "
+Les panneaux se divisent en quatre catégories :
 
-Nota :
+1° Les panneaux indiquant un danger ;
 
-(1) Les panneaux de signalisation en couleurs font l'objet du tirage n° 1017.
+2° Les panneaux comportant une prescription absolue ;
+
+3° Les panneaux comportant une simple indication ou indiquant une direction ;
+
+4° Les panneaux relatifs aux intersections et aux régimes de priorité.
+
+Certains panneaux peuvent relever à la fois des plusieurs catégories.
+
+La dimension des panneaux est fonction du type de routes sur lesquelles ils sont implantés. Une gamme supérieure à celle habituellement utilisée sur une même route peut être employée pour renforcer la perception d'un panneau. Une gamme de plus petite dimension peut être utilisée pour des raisons d'encombrement ou pour des panneaux devant être perçus par une catégorie d'usagers se déplaçant à une allure plus réduite.
