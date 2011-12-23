@@ -12,9 +12,9 @@ II. - Les impôts et taxes mentionnés au I sont :
 
 3° La taxe sur la valeur ajoutée brute collectée par les producteurs de boissons alcoolisées.
 
-4° Une fraction du droit de consommation sur les tabacs mentionné à l'article  575 du code général des impôts, déterminée par l'article 61 de la loi n°  2004-1484 du 30 décembre 2004 de finances pour 2005.
+4° Une fraction du droit de consommation sur les tabacs mentionné à l'article 575 du code général des impôts, fixée à l'article L. 131-8 du code de la sécurité sociale.
 
-Toutefois, en 2010,  cette fraction est celle fixée au h de l'article 82 de la loi n° 2010-1658 du 29  décembre 2010 de finances rectificative pour 2010.
+Toutefois, en 2010, cette fraction est celle fixée au h de l'article 82 de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010.
 
 III. - Les impôts et taxes mentionnés au II sont affectés aux caisses et régimes de sécurité sociale énumérés au 1 du III de l'article L. 131-8 du code de la sécurité sociale, ainsi qu'à la Caisse nationale des industries électriques et gazières, au port autonome de Strasbourg et à la Caisse nationale de retraites des agents des collectivités locales.
 

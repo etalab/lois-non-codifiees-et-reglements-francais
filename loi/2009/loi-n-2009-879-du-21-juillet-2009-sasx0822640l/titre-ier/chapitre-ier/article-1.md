@@ -32,8 +32,6 @@ A abrogé les dispositions suivantes :
 > -Code de la santé publique
 > > Art. L6323-2
 
-VI. 2. Jusqu'en 2018, le rapport prévu au V de l'article L. 162-22-10 du code de la sécurité sociale est transmis au Parlement en même temps que le bilan d'avancement du processus de convergence mentionné au VII de l'article 33 de la loi n° 2003-1199 du 18 décembre 2003 de financement de la sécurité sociale pour 2004.
-
 XX.-Les établissements de santé privés qui ont été admis à participer à l'exécution du service public hospitalier à la date de publication de la présente loi peuvent continuer d'exercer, dans les mêmes conditions, les missions pour lesquelles ils y ont été admis ou celles prévues par leur contrat pluriannuel d'objectifs et de moyens jusqu'au terme de ce contrat ou, au plus tard, jusqu'à la date mentionnée au VII de l'article 33 de la loi n° 2003-1199 du 18 décembre 2003 de financement de la sécurité sociale pour 2004. Ils prennent la qualification d'établissement de santé privé d'intérêt collectif sauf opposition expresse de leur part notifiée par leur représentant légal au directeur général de l'agence régionale de santé, par lettre recommandée avec demande d'avis de réception.
 
 Jusqu'à la date retenue en application de l'alinéa précédent, les articles L. 6112-3-1, L. 6112-6, L. 6112-7, L. 6143-2 et L. 6143-2-1, les septième et huitième alinéas de l'article L. 6143-4 et les articles L. 6145-1 et L. 6155-1 du code de la santé publique leur sont applicables. Jusqu'à cette même date, les dispositions relatives au financement par l'assurance maladie de leurs activités de soins et à la participation de l'assuré social leur sont applicables dans les mêmes conditions qu'aux établissements publics de santé.

@@ -1,6 +1,6 @@
 # Article 15
 
-I.-Il est institué une contribution perçue à compter de 1996 et assise sur les revenus du patrimoine définis au I de l'article L. 136-6 du code de la sécurité sociale perçus par les personnes physiques désignées au I de l'article 14 de la présente ordonnance.
+I.-Il est institué une contribution perçue à compter de 1996 et assise sur les revenus du patrimoine définis au I de l'article L. 136-6 du code de la sécurité sociale perçus par les personnes physiques fiscalement domiciliées en France au sens de l'article 4 B du code général des impôts.
 
 Cette contribution est établie chaque année sur les revenus de l'année précédente, à l'exception de ceux ayant supporté la contribution prévue à l'article 16.
 
@@ -12,7 +12,7 @@ II.-La contribution est mise en recouvrement et exigible en même temps, le cas 
 
 III.-Sont également assujettis à la contribution dans les conditions et selon les modalités prévues aux I et II ci-dessus :
 
-1° Les revenus d'activité et de remplacement de source étrangère perçus à compter du 1er février 1996 et soumis en France à l'impôt sur le revenu ou au prélèvement libératoire prévu au II de l'article 163 bis du code général des impôts. Pour l'application de ces dispositions, le 3° de l'article 83, le a du 5 de l'article 158 et la dernière phrase du premier alinéa du II de l'article 163 bis du code général des impôts ne sont pas applicables. La déclaration prévue à l'article 170 du code général des impôts mentionne distinctement les revenus concernés ;
+1° (Abrogé) ;
 
 2° Les sommes soumises à l'impôt sur le revenu en application des articles 168,1649 A, 1649 quater A, 1649 quater-0 B bis et 1649 quater-0 B ter du code général des impôts et L. 69 du livre des procédures fiscales ;
 

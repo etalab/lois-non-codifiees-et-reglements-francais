@@ -10,6 +10,8 @@ Le versement des sommes ainsi déterminées doit intervenir au plus tard le 31 d
 
 II. ― Sous réserve du respect des conditions prévues au présent article, ce bonus exceptionnel est exclu de l'assiette de toutes les cotisations ou contributions d'origine légale ou conventionnelle rendues obligatoires par la loi, à l'exception des contributions définies aux articles L. 136-2 et L. 137-15 du code de la sécurité sociale et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale dès 2009, et pour une durée maximale de trois ans.
 
+La réduction prévue au deuxième alinéa du I de l'article L. 136-2 du code de la sécurité sociale n'est pas applicable à ce bonus exceptionnel.
+
 L'employeur notifie, au plus tard le 31 décembre de l'année suivant le versement à l'organisme de recouvrement dont il relève, le montant des sommes versées aux salariés en précisant le montant par salarié.
 
 III. ― Le II est applicable à Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy.

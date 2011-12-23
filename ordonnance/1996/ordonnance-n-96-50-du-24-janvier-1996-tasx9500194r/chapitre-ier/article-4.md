@@ -22,6 +22,8 @@ II quinquies. ― La couverture des déficits des exercices 2011 à 2018 de la b
 
 Dans le cas où le montant des déficits cumulés mentionnés à l'alinéa précédent excède 62 milliards d'euros, les transferts sont affectés par priorité à la couverture des déficits les plus anciens et, pour le dernier exercice, en priorité à la branche mentionnée au 3° du même article L. 200-2.
 
+II sexies. ― La couverture des déficits des exercices 2009 et 2010 de la branche mentionnée au 3° de l'article L. 722-8 du code rural et  de la pêche maritime est assurée, au plus tard le 31 décembre 2011, par  un transfert de 2 466 641 896,19 € de la Caisse d'amortissement de la  dette sociale à la Caisse centrale de la mutualité sociale agricole.
+
 III.-Dans la limite totale de 3 milliards de francs, la Caisse d'amortissement de la dette sociale verse au cours de l'année 1996 au profit de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles visée à l'article L. 611-1 du code de la sécurité sociale :
 
 -dans la limite d'un milliard de francs un apport, destiné à apurer en tout ou partie le report à nouveau négatif au 31 décembre 1995 ;

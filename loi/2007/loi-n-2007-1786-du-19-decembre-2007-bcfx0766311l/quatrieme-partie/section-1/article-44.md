@@ -1,6 +1,6 @@
 # Article 44
 
-I.-Des expérimentations peuvent être menées, à compter du 1er janvier 2008 et pour une période n'excédant pas cinq ans, portant sur de nouveaux modes de rémunération des professionnels de santé ou de financement des centres de santé prévus à l'article L. 6323-1 du code de la santé publique et des maisons de santé mentionnées à l'article L. 6323-3 du même code, complétant le paiement à l'acte ou s'y substituant, sur le fondement d'une évaluation quantitative et qualitative de leur activité réalisée à partir des informations transmises par l'organisme local d'assurance maladie dont ils dépendent.
+I.-Des expérimentations peuvent être menées, à compter du 1er janvier 2008 et pour une période n'excédant pas six ans, portant sur de nouveaux modes de rémunération des professionnels de santé ou de financement des centres de santé prévus à l'article L. 6323-1 du code de la santé publique et des maisons de santé mentionnées à l'article L. 6323-3 du même code, complétant le paiement à l'acte ou s'y substituant, sur le fondement d'une évaluation quantitative et qualitative de leur activité réalisée à partir des informations transmises par l'organisme local d'assurance maladie dont ils dépendent.
 
 En tant que de besoin, l'expérimentation peut déroger aux dispositions suivantes du code de la sécurité sociale :
 
@@ -19,6 +19,8 @@ Les dépenses mises à la charge de l'ensemble des régimes obligatoires de base
 Les mutuelles régies par le code de la mutualité, les institutions de prévoyance régies par le livre IX du code de la sécurité sociale ou par le livre VII du code rural et de la pêche maritime et les entreprises régies par le code des assurances sont associées à ces expérimentations si elles le souhaitent.
 
 Une évaluation annuelle de ces expérimentations, portant notamment sur le nombre de professionnels de santé, de centres de santé et de maisons de santé qui y prennent part et sur les dépenses afférentes aux soins qu'ils ont effectués ainsi que sur la qualité de ces soins, est réalisée par les agences régionales de santé en liaison avec les organismes locaux d'assurance maladie. Cette évaluation est transmise au Parlement.
+
+Les conventions conclues entre l'assurance maladie et les professionnels de santé ainsi que l'accord national visé à l'article L. 162-32-1 du code de la sécurité sociale peuvent prévoir, à compter du 1er janvier 2014, la rémunération de l'exercice pluriprofessionnel sur la base des résultats de l'évaluation des expérimentations.
 
 II.-A titre expérimental, à compter du 1er janvier 2008 et pour une période n'excédant pas cinq ans, les agences régionales de santé volontaires fixent, par dérogation à l'article L. 162-5 du code de la sécurité sociale, le montant et les modalités des rémunérations des médecins assurant la permanence des soins. Elles financent également des actions et des structures concourant à l'amélioration de la permanence des soins, en particulier les maisons médicales de garde, les centres de santé, ainsi que, le cas échéant, des établissements de santé.
 
