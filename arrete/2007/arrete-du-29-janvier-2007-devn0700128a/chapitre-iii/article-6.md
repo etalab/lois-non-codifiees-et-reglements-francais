@@ -2,6 +2,8 @@
 
 L'agrément visé à l'article 5 ci-dessus est subordonné à la participation du piégeur concerné à une session de formation au piégeage organisée par l'Office national de la chasse et de la faune sauvage, une fédération départementale ou interdépartementale des chasseurs ou tout autre organisme habilité à cet effet par le préfet du département où se déroule la session.
 
+La formation peut être suivie à partir de l'âge de quinze ans. Les personnes mineures doivent fournir une autorisation de leur représentant légal.
+
 Les programmes de formation font l'objet de protocoles établis par les organismes qui la dispensent et soumis à l'approbation du préfet.
 
 La formation doit comporter au moins seize heures, avec la répartition horaire globale suivante :

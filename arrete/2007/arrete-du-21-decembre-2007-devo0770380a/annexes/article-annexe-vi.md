@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-**DÉTERMINATION DU NIVEAU DE POLLUTION ÉVITÉE**
+DÉTERMINATION DU NIVEAU DE POLLUTION ÉVITÉE
 
 1. Cas d'un épandage d'effluents sur des terres agricoles
 
@@ -27,24 +27,27 @@ Détermination du coefficient de récupération des effluents
 <table>
 <tbody>
 <tr>
-<th>DONNÉES RELATIVES AUX CARACTÉRISTIQUES <br/>générales de récupération des effluents <br/>
-</th>
-<th>COEFFICIENT <br/>de récupération <br/>des effluents <br/>
-</th>
-</tr>
-<tr>
-<td align="left">NIVEAU MÉDIOCRE : <br/>Absence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel. <br/>
+<td width="515">
+<p align="center">DONNÉES RELATIVES AUX CARACTÉRISTIQUES <br/>générales de récupération des effluents</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="160">
+<p align="center">COEFFICIENT <br/>de récupération <br/>des effluents</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<p>NIVEAU BON : <br/>Existence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel et de résultats d'études montrant l'effectivité de la collecte. </p>
-<p>Suivi périodique des points de rejet au milieu naturel. <br/>
-</p>
+<td valign="top" width="515">
+<p>NIVEAU MÉDIOCRE : <br/>Absence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel. </p>
 </td>
-<td align="center">1 <br/>
+<td valign="top" width="160">
+<p align="center">0, 8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="515">
+<p>NIVEAU BON : <br/>Existence de plans identifiant les exutoires des réseaux d'eaux usées et d'eaux pluviales de l'établissement au milieu naturel et de résultats d'études montrant l'effectivité de la collecte et la bonne étanchéité des ouvrages de stockage des effluents. <br/>Suivi périodique des points de rejet au milieu naturel. </p>
+</td>
+<td valign="top" width="160">
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>
@@ -57,227 +60,305 @@ Détermination du coefficient d'élimination de la pollution
 <table>
 <tbody>
 <tr>
-<th>DONNÉES RELATIVES <br/>aux caractéristiques générales <br/>de fonctionnement de l'épandage <br/>
-</th>
-<th colspan="9">COEFFICIENT D'ÉLIMINATION DE LA POLLUTION <br/>pour chaque élément constitutif de la pollution <br/>
-</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>MES <br/>
-</th>
-<th>DBO5 <br/>
-</th>
-<th>DCO <br/>
-</th>
-<th>Chaleur <br/>
-</th>
-<th>NR <br/>
-</th>
-<th>NO <br/>
-</th>
-<th>P <br/>
-</th>
-<th>MI et AOX <br/>
-</th>
-<th>Métox et sels dissous <br/>
-</th>
-</tr>
-<tr>
-<td align="left">NIVEAU MAUVAIS :<br/>-apports de substances toxiques supérieurs aux doses ayant des effets toxiques pour les sols ou les plantes ;<br/>-l'épandage n'est pas exploité en production végétale afin que les éléments apportés soient utilisés par les cultures ;<br/>-stagnation et ruissellement d'effluents. <br/>
+<td rowspan="2" width="192">
+<p align="center">DONNÉES RELATIVES <br/>aux caractéristiques générales <br/>de fonctionnement de l'épandage</p>
 </td>
-<td align="center">
-<br/>0, 5 <br/>
-</td>
-<td align="center">
-<br/>0, 40 <br/>
-</td>
-<td align="center">
-<br/>0, 35 <br/>
-</td>
-<td align="center">
-<br/>1, 00 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td colspan="9" width="456">
+<p align="center">COEFFICIENT D'ÉLIMINATION DE LA POLLUTION <br/>pour chaque élément constitutif de la pollution</p>
 </td>
 </tr>
 <tr>
-<td align="left">NIVEAU MÉDIOCRE :<br/>-tenue d'un cahier d'épandage ;<br/>-les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure. <br/>
+<td width="44">
+<p align="center">MES</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="54">
+<p align="center">DBO5</p>
 </td>
-<td align="center">0, 70 <br/>
+<td width="51">
+<p align="center">DCO</p>
 </td>
-<td align="center">0, 65 <br/>
+<td width="55">
+<p align="center">Chaleur</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="37">
+<p align="center">NR</p>
 </td>
-<td align="center">0, 40 <br/>
+<td width="38">
+<p align="center">NO</p>
 </td>
-<td align="center">0, 40 <br/>
+<td width="28">
+<p align="center">P</p>
 </td>
-<td align="center">0, 40 <br/>
+<td width="37">
+<p align="center">MI et AOX</p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">NIVEAU MOYEN :<br/>-respect des conditions du niveau MEDIOCRE ;<br/>-existence d'un plan d'épandage et tenue d'un cahier d'épandage ;<br/>-stockage d'effluents avant épandage suffisants et adaptés au vu du plan d'épandage. <br/>
-</td>
-<td align="center">
-<br/>1, 00 <br/>
-</td>
-<td align="center">
-<br/>0, 90 <br/>
-</td>
-<td align="center">
-<br/>0, 85 <br/>
-</td>
-<td align="center">
-<br/>1, 00 <br/>
-</td>
-<td align="center">
-<br/>0, 60 <br/>
-</td>
-<td align="center">
-<br/>0, 60 <br/>
-</td>
-<td align="center">
-<br/>0, 60 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td>
+<p align="center">Métox<br/>et sels dissous</p>
 </td>
 </tr>
 <tr>
-<td align="left">NIVEAU BON :<br/>-respect des conditions du niveau MOYEN ;<br/>-réalisation d'une étude du périmètre d'épandage portant sur l'ensemble des parcelles susceptibles d'être utilisées définissant notamment la gestion des parcelles, le calendrier et les doses des apports ;<br/>-respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ;<br/>-les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle.<br/>-en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe. </td>
-<td align="center">
-<br/>1, 00 <br/>
+<td width="192">
+<p>NIVEAU MAUVAIS : <br/>- apports de substances toxiques supérieurs aux doses ayant des effets toxiques pour les sols ou les plantes ; <br/>- l'épandage n'est pas exploité en production végétale afin que les éléments apportés soient utilisés par les cultures ; <br/>- stagnation et ruissellement d'effluents. </p>
 </td>
-<td align="center">
-<br/>0, 95 <br/>
+<td valign="top" width="44">
+<p align="center">
+<br/>0,5</p>
 </td>
-<td align="center">
-<br/>0, 94 <br/>
+<td valign="top" width="54">
+<p align="center">
+<br/>0, 40</p>
 </td>
-<td align="center">
-<br/>1, 00 <br/>
+<td valign="top" width="51">
+<p align="center">
+<br/>0, 35</p>
 </td>
-<td align="center">
-<br/>0, 80 <br/>
+<td valign="top" width="55">
+<p align="center">
+<br/>1, 00</p>
 </td>
-<td align="center">
-<br/>0, 80 <br/>
+<td valign="top" width="37">
+<p align="center">
+<br/>0</p>
 </td>
-<td align="center">
-<br/>0, 80 <br/>
+<td valign="top" width="38">
+<p align="center">
+<br/>0</p>
 </td>
-<td align="center">
-<br/>(1) <br/>
+<td valign="top" width="28">
+<p align="center">
+<br/>0</p>
 </td>
-<td align="center">
-<br/>0 <br/>
+<td valign="top" width="37">
+<p align="center">
+<br/>0</p>
 </td>
-</tr>
-<tr>
-<td align="left">NIVEAU TRÈS BON :<br/>-respect des conditions du niveau BON ;<br/>-la comparaison des exportations par les récoltes prévues et des apports effectifs organiques et minéraux sur les parcelles, permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles utilisées ;<br/>-la structure et la qualité des sols ne sont pas altérées par l'épandage. <br/>
-</td>
-<td align="center">
-<br/>1, 00 <br/>
-</td>
-<td align="center">
-<br/>0, 96 <br/>
-</td>
-<td align="center">
-<br/>0, 96 <br/>
-</td>
-<td align="center">
-<br/>1, 00 <br/>
-</td>
-<td align="center">
-<br/>0, 90 <br/>
-</td>
-<td align="center">
-<br/>0, 90 <br/>
-</td>
-<td align="center">
-<br/>0, 90 <br/>
-</td>
-<td align="center">
-<br/>(1) <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
+<td valign="top">
+<p align="center">
+<br/>0</p>
 </td>
 </tr>
 <tr>
-<td align="left">NIVEAU EXCELLENT 1er niveau :<br/>-respect des conditions du niveau TRES BON ; <br/>l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (P). <br/>
+<td width="192">
+<p>NIVEAU MÉDIOCRE : <br/>- tenue d'un cahier d'épandage ; <br/>- les quantités produites de matières à épandre sont évaluées à partir soit d'analyses périodiques, soit d'évaluations forfaitaires réalisées en fonction de l'activité polluante, soit d'une campagne générale de mesure. </p>
 </td>
-<td align="center">1, 00 <br/>
+<td valign="top" width="44">
+<p align="center">1, 00</p>
 </td>
-<td align="center">0, 97 <br/>
+<td valign="top" width="54">
+<p align="center">0, 70</p>
 </td>
-<td align="center">0, 97 <br/>
+<td valign="top" width="51">
+<p align="center">0, 65</p>
 </td>
-<td align="center">1, 00 <br/>
+<td valign="top" width="55">
+<p align="center">1, 00</p>
 </td>
-<td align="center">0, 95 <br/>
+<td valign="top" width="37">
+<p align="center">0, 40</p>
 </td>
-<td align="center">0, 95 <br/>
+<td valign="top" width="38">
+<p align="center">0, 40</p>
 </td>
-<td align="center">0, 95 <br/>
+<td valign="top" width="28">
+<p align="center">0, 40</p>
 </td>
-<td align="center">(1) <br/>
+<td valign="top" width="37">
+<p align="center">0</p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">NIVEAU EXCELLENT 2e niveau :<br/>-respect des conditions du niveau EXCELLENT 1er niveau ;<br/>-la comparaison de l'ensemble des fournitures au sol et des besoins des productions effectives sur les parcelles permet de considérer qu'il y a équilibre agronomique pour l'azote et le phosphore sur chacun des îlots culturaux sur lesquels ont été épandues les pollutions ;<br/>-une étude particulière met en évidence des rendements épuratoires sur la DCO supérieurs à 97 % ;<br/>-le matériel d'épandage permet la régulation et le contrôle des dosages et la répartition des effluents sur le sol ; toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal ou pour contrôler leur stock dans le sol ;<br/>-existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement. <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">&gt; 0, 97 (2) <br/>
-</td>
-<td align="center">&gt; 0, 97 (2) <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">0, 98 <br/>
-</td>
-<td align="center">0, 98 <br/>
-</td>
-<td align="center">0, 98 <br/>
-</td>
-<td align="center">(1) <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top">
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td colspan="10">
-<p>(1) Le coefficient d'élimination de la pollution est nul. Toutefois, si les résultats d'une étude démontrent la dégradation ou l'élimination des polluants concernés dans le sol et l'absence de transfert mesurable dans les eaux souterraines, la valeur de ce coefficient est portée à 1. <br/>(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et soluble. La valeur du coefficient d'élimination de la pollution est arrondie à la valeur la plus proche comportant trois décimales. En l'absence de cette étude, le coefficient d'élimination de la pollution pour les éléments DBO5 et DCO est fixé à 98 % si l'analyse de prélèvements sur piézomètre met en évidence l'absence d'impact significatif sur la qualité de la nappe. <br/>
-</p>
+<td width="192">
+<p>NIVEAU MOYEN : <br/>- respect des conditions du niveau MEDIOCRE ; <br/>- existence d'un plan d'épandage et tenue d'un cahier d'épandage ; <br/>- stockage d'effluents avant épandage suffisants et adaptés au vu du plan d'épandage. </p>
+</td>
+<td valign="top" width="44">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="54">
+<p align="center">
+<br/>0, 90</p>
+</td>
+<td valign="top" width="51">
+<p align="center">
+<br/>0, 85</p>
+</td>
+<td valign="top" width="55">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>0, 60</p>
+</td>
+<td valign="top" width="38">
+<p align="center">
+<br/>0, 60</p>
+</td>
+<td valign="top" width="28">
+<p align="center">
+<br/>0, 60</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>0</p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>0</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>NIVEAU BON : <br/>- respect des conditions du niveau MOYEN ; <br/>- réalisation d'une étude du périmètre d'épandage portant sur l'ensemble des parcelles susceptibles d'être utilisées définissant notamment la gestion des parcelles, le calendrier et les doses des apports ; <br/>- respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ; <br/>- les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. </p>
+</td>
+<td valign="top" width="44">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="54">
+<p align="center">
+<br/>0, 95</p>
+</td>
+<td valign="top" width="51">
+<p align="center">
+<br/>0, 94</p>
+</td>
+<td valign="top" width="55">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>0, 80</p>
+</td>
+<td valign="top" width="38">
+<p align="center">
+<br/>0, 80</p>
+</td>
+<td valign="top" width="28">
+<p align="center">
+<br/>0, 80</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>(1)</p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>0</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>NIVEAU TRÈS BON : <br/>- respect des conditions du niveau BON ; <br/>- la comparaison des exportations par les récoltes prévues et des apports effectifs organiques et minéraux sur les parcelles, permet de considérer qu'il y a équilibre agronomique global sur l'ensemble des parcelles utilisées ; <br/>- la structure et la qualité des sols ne sont pas altérées par l'épandage. </p>
+</td>
+<td valign="top" width="44">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="54">
+<p align="center">
+<br/>0, 96</p>
+</td>
+<td valign="top" width="51">
+<p align="center">
+<br/>0, 96</p>
+</td>
+<td valign="top" width="55">
+<p align="center">
+<br/>1, 00</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>0, 90</p>
+</td>
+<td valign="top" width="38">
+<p align="center">
+<br/>0, 90</p>
+</td>
+<td valign="top" width="28">
+<p align="center">
+<br/>0, 90</p>
+</td>
+<td valign="top" width="37">
+<p align="center">
+<br/>(1)</p>
+</td>
+<td valign="top">
+<p align="center">
+<br/>0</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>NIVEAU EXCELLENT 1er niveau : <br/>- respect des conditions du niveau TRES BON ; <br/>l'équilibre agronomique est réalisé pour l'azote (NR et NO) et le phosphore (P). </p>
+</td>
+<td valign="top" width="44">
+<p align="center">1, 00</p>
+</td>
+<td valign="top" width="54">
+<p align="center">0, 97</p>
+</td>
+<td valign="top" width="51">
+<p align="center">0, 97</p>
+</td>
+<td valign="top" width="55">
+<p align="center">1, 00</p>
+</td>
+<td valign="top" width="37">
+<p align="center">0, 95</p>
+</td>
+<td valign="top" width="38">
+<p align="center">0, 95</p>
+</td>
+<td valign="top" width="28">
+<p align="center">0, 95</p>
+</td>
+<td valign="top" width="37">
+<p align="center">(1)</p>
+</td>
+<td valign="top">
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>NIVEAU EXCELLENT 2e niveau : <br/>- respect des conditions du niveau EXCELLENT 1er niveau ; <br/>- la comparaison de l'ensemble des fournitures au sol et des besoins des productions effectives sur les parcelles permet de considérer qu'il y a équilibre agronomique pour l'azote et le phosphore sur chacun des îlots culturaux sur lesquels ont été épandues les pollutions ; <br/>- une étude particulière met en évidence des rendements épuratoires sur la DCO supérieurs à 97 % ; <br/>- le matériel d'épandage permet la régulation et le contrôle des dosages et la répartition des effluents sur le sol ; toutes les dispositions sont prises pour amener les matières fertilisantes aux périodes favorables à leur utilisation par le couvert végétal ou pour contrôler leur stock dans le sol ; <br/>- existence d'une procédure de validation des mesures et d'un dispositif de suivi, interne à l'établissement. </p>
+</td>
+<td valign="top" width="44">
+<p align="center">1, 00</p>
+</td>
+<td valign="top" width="54">
+<p align="center">&gt; 0, 97 (2)</p>
+</td>
+<td valign="top" width="51">
+<p align="center">&gt; 0, 97 (2)</p>
+</td>
+<td valign="top" width="55">
+<p align="center">1, 00</p>
+</td>
+<td valign="top" width="37">
+<p align="center">0, 98</p>
+</td>
+<td valign="top" width="38">
+<p align="center">0, 98</p>
+</td>
+<td valign="top" width="28">
+<p align="center">0, 98</p>
+</td>
+<td valign="top" width="37">
+<p align="center">(1)</p>
+</td>
+<td valign="top">
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td colspan="10" width="650">
+<p>(1) Le coefficient d'élimination de la pollution est nul. Toutefois, si les résultats d'une étude démontrent la dégradation ou l'élimination des polluants concernés dans le sol et l'absence de transfert mesurable dans les eaux souterraines, la valeur de ce coefficient est portée à 1. <br/>(2) A définir au vu des résultats de l'étude des rendements épuratoires sur la pollution particulaire et sur la pollution soluble. </p>
 </td>
 </tr>
 </tbody>
@@ -310,163 +391,228 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 <table>
 <tbody>
 <tr>
-<th>ÉLÉMENT CONSTITUTIF <br/>de la pollution <br/>
-</th>
-<th colspan="5">FRÉQUENCE DE CONSTITUTION D'ÉCHANTILLONS JOURNALIERS <br/>en fonction du niveau théorique de pollution (NTP) <br/>déterminé en application de l'article R. 213-48-6 <br/>
-</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>1 fois par trimestre <br/>
-</th>
-<th>1 fois par mois <br/>
-</th>
-<th>1 fois par semaine <br/>
-</th>
-<th>2 fois par semaine <br/>
-</th>
-<th>1 fois par jour </th>
-</tr>
-<tr>
-<td align="center">Matières en suspension (t / an). <br/>
+<td rowspan="2" width="170">
+<p align="center">ÉLÉMENT CONSTITUTIF <br/>de la pollution</p>
 </td>
-<td align="center">NTP &lt; 100 <br/>
-</td>
-<td align="center">100 ≤ NTP &lt; 600 <br/>
-</td>
-<td align="center">600 ≤ NTP &lt; 1 000 <br/>
-</td>
-<td align="center">1 000 ≤ NTP &lt; 3 000 <br/>
-</td>
-<td align="center">NTP ≥ 3 000 <br/>
+<td colspan="5" width="469">
+<p align="center">FRÉQUENCE DE CONSTITUTION D'ÉCHANTILLONS JOURNALIERS <br/>en fonction du niveau théorique de pollution (NTP) <br/>déterminé en application de l'article R. 213-48-6</p>
 </td>
 </tr>
 <tr>
-<td align="center">Demande chimique en oxygène (t / an). <br/>
+<td width="78">
+<p align="center">1 fois par<br/>trimestre</p>
 </td>
-<td align="center">NTP &lt; 200 <br/>
+<td width="105">
+<p align="center">1 fois par mois</p>
 </td>
-<td align="center">200 ≤ NTP &lt; 600 <br/>
+<td width="106">
+<p align="center">1 fois par semaine</p>
 </td>
-<td align="center">600 ≤ NTP &lt; 1 000 <br/>
+<td width="106">
+<p align="center">2 fois par<br/>semaine</p>
 </td>
-<td align="center">1 000 ≤ NTP &lt; 3 000 <br/>
-</td>
-<td align="center">NTP ≥ 3 000 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Demande biochimique en oxygène en cinq jours (t / an). <br/>
-</td>
-<td align="center">NTP &lt; 300 <br/>
-</td>
-<td align="center">300 ≤ NTP &lt; 1 000 <br/>
-</td>
-<td align="center">1 000 ≤ NTP &lt; 2 000 <br/>
-</td>
-<td align="center">NTP 2 000 <br/>
-</td>
-<td align="center">/ <br/>
+<td>
+<p align="center">1 fois par jour</p>
 </td>
 </tr>
 <tr>
-<td align="center">Azote réduit (t / an). <br/>
+<td width="170">
+<p>Matières en suspension (t / an). </p>
 </td>
-<td align="center">NTP &lt; 40 <br/>
+<td width="78">
+<p align="center">NTP &lt; 100</p>
 </td>
-<td align="center">40 ≤ NTP &lt; 100 <br/>
+<td width="105">
+<p align="center">100 ≤ NTP &lt; 600</p>
 </td>
-<td align="center">100 ≤ NTP &lt; 200 <br/>
+<td width="106">
+<p align="center">600 ≤ NTP &lt; 1 000</p>
 </td>
-<td align="center">NTP ≥ 200 <br/>
+<td width="106">
+<p align="center">1 000 ≤ NTP &lt; 3 000</p>
 </td>
-<td align="center">/ <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Azote oxydé (nitrites et nitrates) (t / an). <br/>
-</td>
-<td align="center">NTP &lt; 40 <br/>
-</td>
-<td align="center">40 ≤ NTP &lt; 100 <br/>
-</td>
-<td align="center">100 ≤ NTP &lt; 200 <br/>
-</td>
-<td align="center">NTP ≥ 200 <br/>
-</td>
-<td align="center">/ <br/>
+<td>
+<p align="center">NTP ≥ 3 000</p>
 </td>
 </tr>
 <tr>
-<td align="center">Phosphore total, organique ou minéral (t / an). <br/>
+<td width="170">
+<p>Demande chimique en oxygène (t / an). </p>
 </td>
-<td align="center">NTP &lt; 10 <br/>
+<td width="78">
+<p align="center">NTP &lt; 200</p>
 </td>
-<td align="center">10 ≤ NTP &lt; 50 <br/>
+<td width="105">
+<p align="center">200 ≤ NTP &lt; 600</p>
 </td>
-<td align="center">50 ≤ NTP &lt; 100 <br/>
+<td width="106">
+<p align="center">600 ≤ NTP &lt; 1 000</p>
 </td>
-<td align="center">NTP ≥ 100 <br/>
+<td width="106">
+<p align="center">1 000 ≤ NTP &lt; 3 000</p>
 </td>
-<td align="center">/ <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Toxicité aiguë (téq / an). <br/>
-</td>
-<td align="center">NTP &lt; 10 <br/>
-</td>
-<td align="center">10 ≤ NTP &lt; 50 <br/>
-</td>
-<td align="center">50 ≤ NTP &lt; 100 <br/>
-</td>
-<td align="center">NTP ≥ 100 <br/>
-</td>
-<td align="center">/ <br/>
+<td>
+<p align="center">NTP ≥ 3 000</p>
 </td>
 </tr>
 <tr>
-<td align="center">Métox (t / an). <br/>
+<td width="170">
+<p>Demande biochimique en oxygène en cinq jours (t / an). </p>
 </td>
-<td align="center">NTP &lt; 10 <br/>
+<td width="78">
+<p align="center">NTP &lt; 300</p>
 </td>
-<td align="center">10 ≤ NTP &lt; 50 <br/>
+<td width="105">
+<p align="center">300 ≤ NTP &lt; 1 000</p>
 </td>
-<td align="center">50 ≤ NTP &lt; 100 <br/>
+<td width="106">
+<p align="center">1 000 ≤ NTP &lt; 2 000</p>
 </td>
-<td align="center">NTP ≥ 100 <br/>
+<td width="106">
+<p align="center">NTP ≤ 2 000</p>
 </td>
-<td align="center">/ <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Composés halogénés adsorbables sur charbon actif (t / an). <br/>
-</td>
-<td align="center">NTP &lt; 2 <br/>
-</td>
-<td align="center">2 ≤ NTP &lt; 10 <br/>
-</td>
-<td align="center">10 ≤ NTP &lt; 20 <br/>
-</td>
-<td align="center">NTP ≥ 20 <br/>
-</td>
-<td align="center">/ <br/>
+<td>
+<p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td align="center">Sels dissous (Mm ³ × S / cm / an). <br/>
+<td width="170">
+<p>Azote réduit (t / an). </p>
 </td>
-<td align="center">/ <br/>
+<td width="78">
+<p align="center">NTP &lt; 40</p>
 </td>
-<td align="center">0, 1 ≤ NTP &lt; 1 <br/>
+<td width="105">
+<p align="center">40 ≤ NTP &lt; 100</p>
 </td>
-<td align="center">1 ≤ NTP <br/>
+<td width="106">
+<p align="center">100 ≤ NTP &lt; 200</p>
 </td>
-<td align="center">/ <br/>
+<td width="106">
+<p align="center">NTP ≥ 200</p>
 </td>
-<td align="center">/<br/>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Azote oxydé (nitrites et nitrates) (t / an). </p>
+</td>
+<td width="78">
+<p align="center">NTP &lt; 40</p>
+</td>
+<td width="105">
+<p align="center">40 ≤ NTP &lt; 100</p>
+</td>
+<td width="106">
+<p align="center">100 ≤ NTP &lt; 200</p>
+</td>
+<td width="106">
+<p align="center">NTP ≥ 200</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Phosphore total, organique ou minéral (t / an). </p>
+</td>
+<td width="78">
+<p align="center">NTP &lt; 10</p>
+</td>
+<td width="105">
+<p align="center">10 ≤ NTP &lt; 50</p>
+</td>
+<td width="106">
+<p align="center">50 ≤ NTP &lt; 100</p>
+</td>
+<td width="106">
+<p align="center">NTP ≥ 100</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Toxicité aiguë (téq / an). </p>
+</td>
+<td width="78">
+<p align="center">NTP &lt; 10</p>
+</td>
+<td width="105">
+<p align="center">10 ≤ NTP &lt; 50</p>
+</td>
+<td width="106">
+<p align="center">50 ≤ NTP &lt; 100</p>
+</td>
+<td width="106">
+<p align="center">NTP ≥ 100</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Métox (t / an). </p>
+</td>
+<td width="78">
+<p align="center">NTP &lt; 10</p>
+</td>
+<td width="105">
+<p align="center">10 ≤ NTP &lt; 50</p>
+</td>
+<td width="106">
+<p align="center">50 ≤ NTP &lt; 100</p>
+</td>
+<td width="106">
+<p align="center">NTP ≥ 100</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Composés halogénés adsorbables sur charbon actif (t / an). </p>
+</td>
+<td width="78">
+<p align="center">NTP &lt; 2</p>
+</td>
+<td width="105">
+<p align="center">2 ≤ NTP &lt; 10</p>
+</td>
+<td width="106">
+<p align="center">10 ≤ NTP &lt; 20</p>
+</td>
+<td width="106">
+<p align="center">NTP ≥ 20</p>
+</td>
+<td>
+<p align="center">/</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p>Sels dissous (Mm ³ × S / cm / an). </p>
+</td>
+<td width="78">
+<p align="center">/</p>
+</td>
+<td width="105">
+<p align="center">0, 1 ≤ NTP &lt; 1</p>
+</td>
+<td width="106">
+<p align="center">1 ≤ NTP</p>
+</td>
+<td width="106">
+<p align="center">/</p>
+</td>
+<td>
+<p align="center">/</p>
 </td>
 </tr>
 </tbody>
@@ -495,346 +641,498 @@ Détermination de la valeur forfaitaire du coefficient d'élimination de la poll
 <table>
 <tbody>
 <tr>
-<th>DESCRIPTION DU DISPOSITIF <br/>d'épuration <br/>
-</th>
-<th colspan="10">VALEUR FORFAITAIRE DU COEFFICIENT D'ÉLIMINATION <br/>de la pollution pour chacun des éléments constitutifs de la redevance <br/>
-</th>
-</tr>
-<tr>
-<th>
-<br/>
-</th>
-<th>MES <br/>
-</th>
-<th>DBO5 <br/>
-</th>
-<th>DCO <br/>
-</th>
-<th>MI <br/>
-</th>
-<th>NR <br/>
-</th>
-<th>NO <br/>
-</th>
-<th>P <br/>
-</th>
-<th>AOX <br/>
-</th>
-<th>Sels dissous <br/>
-</th>
-<th>Métox <br/>
-</th>
-</tr>
-<tr>
-<td align="center">Bassin de décantation sans réactifs. <br/>
+<td rowspan="2" width="171">
+<p align="center">DESCRIPTION DU DISPOSITIF <br/>d'épuration</p>
 </td>
-<td align="center">0, 50 <br/>
-</td>
-<td align="center">0, 20 <br/>
-</td>
-<td align="center">0, 15 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 10 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td colspan="10" width="464">
+<p align="center">VALEUR FORFAITAIRE DU COEFFICIENT D'ÉLIMINATION <br/>de la pollution pour chacun des éléments constitutifs de la redevance</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de traitement physico-chimique, hors détoxication. <br/>
+<td width="49">
+<p align="center">MES</p>
 </td>
-<td align="center">0, 7 <br/>
+<td width="51">
+<p align="center">DBO5</p>
 </td>
-<td align="center">0, 45 <br/>
+<td width="42">
+<p align="center">DCO</p>
 </td>
-<td align="center">0, 35 <br/>
+<td width="45">
+<p align="center">MI</p>
 </td>
-<td align="center">0, 2 <br/>
+<td width="46">
+<p align="center">NR</p>
 </td>
-<td align="center">0 <br/>
+<td width="45">
+<p align="center">NO</p>
 </td>
-<td align="center">0 <br/>
+<td width="41">
+<p align="center">P</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="41">
+<p align="center">AOX</p>
 </td>
-<td align="center">0 <br/>
+<td>
+<p align="center">Sels dissous</p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Unité de tamisage. <br/>
-</td>
-<td align="center">0, 6 <br/>
-</td>
-<td align="center">0, 4 <br/>
-</td>
-<td align="center">0, 4 <br/>
-</td>
-<td align="center">0, 2 <br/>
-</td>
-<td align="center">0, 1 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 25 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td>
+<p align="center">Métox</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de traitement biologique assurant ni la nitrification ni la déphosphatation. <br/>
+<td width="171">
+<p>Bassin de décantation sans réactifs. </p>
 </td>
-<td align="center">0, 7 <br/>
+<td width="49">
+<p align="center">0, 50</p>
 </td>
-<td align="center">0, 75 <br/>
+<td width="51">
+<p align="center">0, 20</p>
 </td>
-<td align="center">0, 65 <br/>
+<td width="42">
+<p align="center">0, 15</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="45">
+<p align="center">0</p>
 </td>
-<td align="center">0, 2 <br/>
+<td width="46">
+<p align="center">0</p>
 </td>
-<td align="center">0 <br/>
+<td width="45">
+<p align="center">0</p>
 </td>
-<td align="center">0, 2 <br/>
+<td width="41">
+<p align="center">0, 10</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="41">
+<p align="center">0</p>
 </td>
-<td align="center">0 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">0, 5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Unité de traitement biologique assurant la nitrification. <br/>
-</td>
-<td align="center">0, 7 <br/>
-</td>
-<td align="center">0, 75 <br/>
-</td>
-<td align="center">0, 65 <br/>
-</td>
-<td align="center">0, 3 <br/>
-</td>
-<td align="center">0, 6 <br/>
-</td>
-<td align="center">0, 6 <br/>
-</td>
-<td align="center">0, 2 <br/>
-</td>
-<td align="center">0, 3 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 5 <br/>
+<td>
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de traitement biologique assurant la nitrification et la déphosphatation. <br/>
+<td width="171">
+<p>Unité de traitement physico-chimique, hors détoxication. </p>
 </td>
-<td align="center">0, 7 <br/>
+<td width="49">
+<p align="center">0, 7</p>
 </td>
-<td align="center">0, 75 <br/>
+<td width="51">
+<p align="center">0, 45</p>
 </td>
-<td align="center">0, 65 <br/>
+<td width="42">
+<p align="center">0, 35</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="45">
+<p align="center">0, 2</p>
 </td>
-<td align="center">0, 6 <br/>
+<td width="46">
+<p align="center">0</p>
 </td>
-<td align="center">0, 6 <br/>
+<td width="45">
+<p align="center">0</p>
 </td>
-<td align="center">0, 6 <br/>
+<td width="41">
+<p align="center">0, 8</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="41">
+<p align="center">0</p>
 </td>
-<td align="center">0 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">0, 5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Installation de détoxication sans précipitation des phosphates par voie physico-chimique. <br/>
-</td>
-<td align="center">0, 7 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 7 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 2 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0, 7 <br/>
+<td>
+<p align="center">0, 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique. <br/>
+<td width="171">
+<p>Unité de tamisage. </p>
 </td>
-<td align="center">0, 7 <br/>
+<td width="49">
+<p align="center">0, 6</p>
 </td>
-<td align="center">0 <br/>
+<td width="51">
+<p align="center">0, 4</p>
 </td>
-<td align="center">0 <br/>
+<td width="42">
+<p align="center">0, 4</p>
 </td>
-<td align="center">0, 7 <br/>
+<td width="45">
+<p align="center">0, 2</p>
 </td>
-<td align="center">0 <br/>
+<td width="46">
+<p align="center">0, 1</p>
 </td>
-<td align="center">0 <br/>
+<td width="45">
+<p align="center">0</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="41">
+<p align="center">0, 25</p>
 </td>
-<td align="center">0 <br/>
+<td width="41">
+<p align="center">0</p>
 </td>
-<td align="center">0 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">0, 7 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Bassin d'évaporation. <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">1, 00 <br/>
+<td>
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td align="center">Transfert des pollutions dans un autre établissement. <br/>
+<td width="171">
+<p>Unité de traitement biologique assurant ni la nitrification ni la déphosphatation. </p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="49">
+<p align="center">0, 7</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="51">
+<p align="center">0, 75</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="42">
+<p align="center">0, 65</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="45">
+<p align="center">0, 3</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="46">
+<p align="center">0, 2</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="45">
+<p align="center">0</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="41">
+<p align="center">0, 2</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="41">
+<p align="center">0, 3</p>
 </td>
-<td align="center">1, 00 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">1, 00 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Fouille fermée. <br/>
-</td>
-<td align="center">1, 00 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td>
+<p align="center">0, 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">Recyclage et revalorisation. <br/>
+<td width="171">
+<p>Unité de traitement biologique assurant la nitrification. </p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="49">
+<p align="center">0, 7</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="51">
+<p align="center">0, 75</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="42">
+<p align="center">0, 65</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="45">
+<p align="center">0, 3</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="46">
+<p align="center">0, 6</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="45">
+<p align="center">0, 6</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="41">
+<p align="center">0, 2</p>
 </td>
-<td align="center">1, 00 <br/>
+<td width="41">
+<p align="center">0, 3</p>
 </td>
-<td align="center">1, 00 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">1, 00 <br/>
+<td>
+<p align="center">0, 5</p>
 </td>
 </tr>
 <tr>
-<td align="center">Unité de séparation physique par évapoconcentration ou par dispositif à membranes. <br/>
+<td width="171">
+<p>Unité de traitement biologique assurant la nitrification et la déphosphatation. </p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="49">
+<p align="center">0, 7</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="51">
+<p align="center">0, 75</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="42">
+<p align="center">0, 65</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="45">
+<p align="center">0, 3</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="46">
+<p align="center">0, 6</p>
 </td>
-<td align="center">0, 3 <br/>
+<td width="45">
+<p align="center">0, 6</p>
 </td>
-<td align="center">0, 5 <br/>
+<td width="41">
+<p align="center">0, 6</p>
 </td>
-<td align="center">0, 8 <br/>
+<td width="41">
+<p align="center">0, 3</p>
 </td>
-<td align="center">0, 8 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">0, 8 <br/>
+<td>
+<p align="center">0, 5</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Installation de détoxication sans précipitation des phosphates par voie physico-chimique. </p>
+</td>
+<td width="49">
+<p align="center">0, 7</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="42">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0, 7</p>
+</td>
+<td width="46">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0</p>
+</td>
+<td width="41">
+<p align="center">0, 2</p>
+</td>
+<td width="41">
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0, 7</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique. </p>
+</td>
+<td width="49">
+<p align="center">0, 7</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="42">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0, 7</p>
+</td>
+<td width="46">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0</p>
+</td>
+<td width="41">
+<p align="center">0, 8</p>
+</td>
+<td width="41">
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0, 7</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Bassin d'évaporation. </p>
+</td>
+<td width="49">
+<p align="center">1, 00</p>
+</td>
+<td width="51">
+<p align="center">1, 00</p>
+</td>
+<td width="42">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="46">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Transfert des pollutions dans un autre établissement. </p>
+</td>
+<td width="49">
+<p align="center">1, 00</p>
+</td>
+<td width="51">
+<p align="center">1, 00</p>
+</td>
+<td width="42">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="46">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Fouille fermée. </p>
+</td>
+<td width="49">
+<p align="center">1, 00</p>
+</td>
+<td width="51">
+<p align="center">0</p>
+</td>
+<td width="42">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0</p>
+</td>
+<td width="46">
+<p align="center">0</p>
+</td>
+<td width="45">
+<p align="center">0</p>
+</td>
+<td width="41">
+<p align="center">0</p>
+</td>
+<td width="41">
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Recyclage et revalorisation. </p>
+</td>
+<td width="49">
+<p align="center">1, 00</p>
+</td>
+<td width="51">
+<p align="center">1, 00</p>
+</td>
+<td width="42">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="46">
+<p align="center">1, 00</p>
+</td>
+<td width="45">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td width="41">
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+<td>
+<p align="center">1, 00</p>
+</td>
+</tr>
+<tr>
+<td width="171">
+<p>Unité de séparation physique par évapoconcentration ou par dispositif à membranes. </p>
+</td>
+<td width="49">
+<p align="center">0, 8</p>
+</td>
+<td width="51">
+<p align="center">0, 8</p>
+</td>
+<td width="42">
+<p align="center">0, 8</p>
+</td>
+<td width="45">
+<p align="center">0, 3</p>
+</td>
+<td width="46">
+<p align="center">0, 8</p>
+</td>
+<td width="45">
+<p align="center">0, 3</p>
+</td>
+<td width="41">
+<p align="center">0, 5</p>
+</td>
+<td width="41">
+<p align="center">0, 8</p>
+</td>
+<td>
+<p align="center">0, 8</p>
+</td>
+<td>
+<p align="center">0, 8</p>
 </td>
 </tr>
 </tbody>
@@ -857,39 +1155,61 @@ Détermination du coefficient forfaitaire d'élimination des boues
 <table>
 <tbody>
 <tr>
-<th>DONNÉES RELATIVES AUX CARACTÉRISTIQUES <br/>générales du fonctionnement de l'épandage de boues <br/>
-</th>
-<th>COEFFICIENT <br/>d'élimination des boues <br/>
-</th>
-</tr>
-<tr>
-<td align="left">NIVEAU MAUVAIS : <br/>Absence de cahier d'épandage ; ruissellement de boues. <br/>
+<td width="455">
+<p align="center">DONNÉES RELATIVES AUX CARACTÉRISTIQUES <br/>générales de récupération des effluents</p>
 </td>
-<td align="center">0 <br/>
+<td width="220">
+<p align="center">COEFFICIENT <br/>de récupération <br/>des effluents</p>
 </td>
 </tr>
 <tr>
-<td align="left">NIVEAU MÉDIOCRE : <br/>Existence d'un plan d'épandage et tenue d'un cahier d'épandage. <br/>Le cahier d'épandage met en évidence des apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage. <br/>
+<td valign="top" width="455">
+<p>NIVEAU MAUVAIS : <br/>Absence de cahier d'épandage ; ruissellement de boues. </p>
 </td>
-<td align="center">0, 5 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">NIVEAU MOYEN : <br/>Existence d'un plan d'épandage et tenue d'un cahier d'épandage. <br/>Stockages de boues avant épandage suffisants et adaptés au vu du plan d'épandage. <br/>Absence d'apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage. <br/>
-</td>
-<td align="center">0, 8 <br/>
+<td valign="top" width="220">
+<p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td align="left">NIVEAU BON : <br/>Respect des conditions du niveau moyen. <br/>Le cahier d'épandage met en évidence des pratiques conformes aux prescription du plan d'épandage. <br/>
+<td valign="top" width="455">
+<p>NIVEAU MÉDIOCRE : <br/>Existence d'un plan d'épandage et tenue d'un cahier d'épandage. <br/>Le cahier d'épandage met en évidence des apports supérieurs aux quantités et / ou hors des périodes prescrites par le plan d'épandage. </p>
 </td>
-<td align="center">1, 00 <br/>
+<td valign="top" width="220">
+<p align="center">0, 5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="455">
+<p>NIVEAU MOYEN : <br/>Existence d'un plan d'épandage et tenue d'un cahier d'épandage. <br/>Stockages de boues avant épandage suffisants et adaptés au vu du plan d'épandage. <br/>Absence d'apports supérieurs aux quantités et/ou hors des périodes prescrites par le plan d'épandage. </p>
+</td>
+<td valign="top" width="220">
+<p align="center">0, 8</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="455">
+<p>NIVEAU BON : <br/>Respect des conditions du niveau moyen. <br/>Le cahier d'épandage met en évidence des pratiques conformes aux prescription du plan d'épandage. </p>
+</td>
+<td valign="top" width="220">
+<p align="center">1, 00</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 La valeur du coefficient ainsi déterminé est appliquée au prorata des quantités de boues éliminées par épandage en cas d'existence de plusieurs filières d'élimination des boues.
+
+d) Détermination du coefficient de pollution à déduire
+
+Si une partie des effluents et résidus liés aux activités des centrales à béton est recyclée in situ dans le procédé de fabrication, la pollution correspondante dénommée pollution à déduire est déduite de la pollution théorique produite.
+
+En l'absence de mesure, cette quantité de pollution à déduire est estimée en multipliant le niveau théorique de pollution par un coefficient de pollution à déduire. Ce coefficient est égal à 1 et le recyclage intégral des eaux de procédé est atteint si les trois critères mentionnés ci-après sont respectés. Ce coefficient est égal à 0,8 si au moins deux de ces trois critères sont respectés.
+
+1° La zone de travail, correspondant à la surface du site à l'exclusion des périmètres occupés par les parkings, les voiries d'accès et de sortie, les lieux de stockage de matières premières, les espaces verts et les bureaux, est étanche et entièrement raccordée au dispositif de dépollution ;
+
+2° Les pentes de la zone de travail permettent la collecte vers le dispositif de dépollution de la totalité des eaux de procédé, définies comme les effluents issus du lavage des matériaux, du malaxeur, des bandes transporteuses (si lavage avec de l'eau recyclée), des véhicules et des retours béton ;
+
+3° Une capacité de stockage tampon, disponible en permanence, permet de recueillir les eaux de ruissellement de la surface totale drainée vers le dispositif de dépollution en référence à une pluie intense (50 mm majoré par un coefficient de sécurité de 1,25).
 
 3. Cas des établissements raccordés à un dispositif collectif de dépollution
 
@@ -899,9 +1219,9 @@ Lorsqu'un établissement est raccordé directement à la station d'épuration pa
 
 Dans les autres cas, la valeur du coefficient d'efficacité de la collecte est déterminée forfaitairement. La valeur de base de ce coefficient fixée à 0, 8 est modulée comme suit :
 
-Elle est diminuée de 0, 2 en cas de non-conformité des réseaux de collecte des effluents au cours de l'année considérée, telle qu'établie par le service de police des eaux compte tenu des données recueillies sur le fonctionnement des réseaux d'assainissement en application de l'arrêté du 22 juin 2007 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1, 2 kg / j de DBO5.
+Elle est diminuée de 0,2 en cas de non-conformité des réseaux de collecte des effluents au cours de l'année considérée, telle qu'établie par le service de police des eaux compte tenu des données recueillies sur le fonctionnement des réseaux d'assainissement en application de l'arrêté du 22 juin 2007 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1, 2 kg/j de DBO5.
 
-Pour les années 2008 et 2009, la valeur de base est retenue. La valeur de base est ensuite ramenée à 0, 6 en l'absence de transmission par la collectivité au service de police des eaux des éléments relatifs au suivi du fonctionnement des réseaux d'assainissement demandés en application de l'arrêté mentionné à l'alinéa précédent.
+Pour les années 2008 et 2009, la valeur de base est retenue. La valeur de base est ensuite ramenée à 0,6 en l'absence de transmission par la collectivité au service de police des eaux des éléments relatifs au suivi du fonctionnement des réseaux d'assainissement demandés en application de l'arrêté mentionné à l'alinéa précédent.
 
 Elle est majorée d'un terme complémentaire en fonction de la valeur de l'indice de connaissance des rejets au milieu naturel par les réseaux de collecte des eaux usées défini par l'arrêté du 2 mai 2007 relatif aux rapports annuels sur le prix et la qualité des services publics d'eau potable et d'assainissement pris en application de l'article D. 2224-1 et de l'annexe VI du code général des collectivités territoriales. La majoration appliquée est déterminée par le tableau n° 8 suivant :
 
@@ -912,23 +1232,31 @@ Détermination du terme complémentaire applicable pour le calcul du coefficient
 <table>
 <tbody>
 <tr>
-<th>VALEUR DE L'INDICE DE CONNAISSANCE <br/>des rejets au milieu naturel par les réseaux d'assainissement <br/>
-</th>
-<th>INFÉRIEUR À 30 POINTS <br/>
-</th>
-<th>DE 30 À 50 POINTS <br/>
-</th>
-<th>SUPÉRIEUR À 50 POINTS <br/>
-</th>
+<td>
+<p align="center">VALEUR DE L'INDICE DE CONNAISSANCE <br/>des rejets au milieu naturel par les réseaux d'assainissement</p>
+</td>
+<td>
+<p align="center">INFÉRIEUR À 30 POINTS</p>
+</td>
+<td>
+<p align="center">DE 30 À 50 POINTS</p>
+</td>
+<td>
+<p align="center">SUPÉRIEUR À 50 POINTS</p>
+</td>
 </tr>
 <tr>
-<td align="center">Valeur du terme complémentaire. <br/>
+<td>
+<p>Valeur du terme complémentaire. </p>
 </td>
-<td align="center">0 <br/>
+<td>
+<p align="center">0</p>
 </td>
-<td align="center">0, 1 <br/>
+<td>
+<p align="center">0, 1</p>
 </td>
-<td align="center">0, 2 <br/>
+<td>
+<p align="center">0, 2</p>
 </td>
 </tr>
 </tbody>
