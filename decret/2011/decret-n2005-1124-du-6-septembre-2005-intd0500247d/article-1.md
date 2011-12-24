@@ -10,7 +10,7 @@ a) Des personnes physiques ayant accès aux informations et supports protégés 
 
 b) Des personnes physiques convoyant des informations ou supports protégés au titre du secret de la défense nationale ;
 
-c) Des personnes physiques employées pour participer à une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou à une activité de recherches privées, ou suivant un stage pratique dans une entreprise exerçant une telle activité ;
+c) Des personnes physiques employées pour participer à une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou de vidéoprotection ou à une activité de recherches privées, ou suivant un stage pratique dans une entreprise exerçant une telle activité ;
 
 d) Des agents des services internes de sécurité de la Société nationale des chemins de fer français et de la Régie autonome des transports parisiens, préalablement à leur affectation ;
 
@@ -54,6 +54,8 @@ k) Des officiers de port et officiers de port adjoints ;
 
 l) Des agents de surveillance de Paris ;
 
+m) Des agents du Conseil national des activités privées de sécurité.
+
 4° Agrément :
 
 a) Des agents de police municipale ;
@@ -70,7 +72,7 @@ f) Des agents de la ville de Paris chargés d'un service de police ;
 
 g) Des gardes particuliers ;
 
-h) Des personnes physiques exerçant à titre individuel une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou une activité de recherches privées ou dirigeant ou gérant une personne morale exerçant cette activité ;
+h) Des personnes physiques exerçant à titre individuel une activité privée de surveillance et de gardiennage, de transport de fonds, de protection physique des personnes ou de vidéoprotection ou une activité de recherches privées ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité ;
 
 i) Des agents de surveillance et gardiennage et des agents du service d'ordre des manifestations sportives, récréatives ou culturelles, habilités à procéder à des palpations de sécurité en application des articles 3-1 et 3-2 de la loi du 12 juillet 1983 susvisée ;
 

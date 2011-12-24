@@ -1,6 +1,6 @@
 # Article 1-1
 
-Lorsqu'une personne exerçant l'activité définie à l'article 20 de la loi du 12 juillet 1983 susvisée, en qualité de travailleur indépendant ou de salarié, dans un Etat membre de l'Union européenne autre que la France se propose de s'y rendre pour la première fois en vue d'y exercer cette activité à titre occasionnel, il en fait la déclaration au préfet de police.
+Lorsqu'une personne exerçant l'activité définie à l'article 20 de la loi du 12 juillet 1983 susvisée, en qualité de travailleur indépendant ou de salarié, dans un Etat membre de l'Union européenne autre que la France se propose de s'y rendre pour la première fois en vue d'y exercer cette activité à titre occasionnel, il en fait la déclaration à la commission régionale d'agrément et de contrôle instituée à l'article 33-5 de la loi du 12 juillet 1983 susvisée, comportant Paris dans son ressort.
 
 La déclaration est accompagnée des documents suivants :
 
@@ -14,10 +14,10 @@ La déclaration est accompagnée des documents suivants :
 
 5° Si l'activité en cause n'est pas spécifiquement réglementée dans l'Etat membre d'établissement, toute pièce établissant que l'intéressé y a exercé cette activité à temps complet pendant deux ans au moins au cours des dix dernières années.
 
-Dans le délai d'un mois à compter de la réception de la déclaration, le préfet de police fait savoir à l'intéressé s'il décide de vérifier ou non ses qualifications professionnelles, eu égard à l'existence de différences substantielles entre les qualifications déclarées et celles requises pour la délivrance des titres mentionnés aux deuxième et troisième alinéas de l'article 1er du présent décret. Ce délai peut être renouvelé une fois si le préfet de police demande à l'intéressé de compléter sa déclaration.
+Dans le délai d'un mois à compter de la réception de la déclaration, la commission régionale d'agrément et de contrôle comportant Paris dans son ressort fait savoir à l'intéressé s'il décide de vérifier ou non ses qualifications professionnelles, eu égard à l'existence de différences substantielles entre les qualifications déclarées et celles requises pour la délivrance des titres mentionnés aux deuxième et troisième alinéas de l'article 1er du présent décret. Ce délai peut être renouvelé une fois si la commission régionale d'agrément et de contrôle comportant Paris dans son ressort demande à l'intéressé de compléter sa déclaration.
 
-S'il décide une vérification, le préfet de police offre à l'intéressé la possibilité de démontrer qu'il a acquis les connaissances ou compétences manquantes en se soumettant, dans le délai d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat de qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai.
+Si elle décide une vérification, la commission régionale d'agrément et de contrôle comportant Paris dans son ressort offre à l'intéressé la possibilité de démontrer qu'il a acquis les connaissances ou compétences manquantes en se soumettant, dans le délai d'un mois, à une épreuve d'aptitude auprès d'un organisme délivrant une certification professionnelle ou un certificat de qualification professionnelle. Les résultats de l'épreuve sont communiqués à l'intéressé sans délai.
 
-Dans le silence du préfet de police à l'issue des délais mentionnés ci-dessus, ou si les résultats de la vérification sont favorables, l'intéressé est réputé remplir les conditions d'exercice imposées par le présent décret.
+Dans le silence de la commission régionale d'agrément et de contrôle comportant Paris dans son ressort, à l'issue des délais mentionnés ci-dessus, ou si les résultats de la vérification sont favorables, l'intéressé est réputé remplir les conditions d'exercice imposées par le présent décret.
 
 Perd les droits qu'elle tire de l'alinéa précédent toute personne qui, dans l'Etat de l'Union européenne dans lequel elle est établie pour exercer l'activité mentionnée à l'article 20, se voit interdire cet exercice, retirer l'autorisation de cet exercice ou infliger une condamnation incompatible avec lui.
