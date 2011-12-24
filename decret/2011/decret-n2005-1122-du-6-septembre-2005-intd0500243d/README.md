@@ -4,3 +4,4 @@
 - [Chapitre II : Dispositions spécifiques relatives à l'aptitude professionnelle et à l'agrément des dirigeants.](chapitre-ii)
 - [Chapitre III : Dispositions spécifiques relatives à l'aptitude professionnelle des salariés.](chapitre-iii)
 - [Chapitre IV : Dispositions diverses et transitoires.](chapitre-iv)
+- [Article 18](article-18.md)
