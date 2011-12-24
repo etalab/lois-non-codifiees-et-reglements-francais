@@ -1,118 +1,102 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
-
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien(ne) de maintenance en machinisme agricole.
+Titre professionnel : technicien (ne) de maintenance d'engins et de matériels  machinisme agricole  (ancien intitulé : technicien [ne] de maintenance en machinisme agricole).
 
 Niveau : IV.
 
-Code NSF : 252 r.
+Code NSF : 252 r-moteurs et mécanique auto.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) de maintenance en machinisme agricole organise, gère et effectue les différentes opérations de mises en service, d'entretien, de diagnostic et de réparation des engins et matériels agricoles.
+La finalité de cet emploi est de maintenir en état de fonctionnement les matériels agricoles et leurs équipements pour optimiser la production. Le (la) technicien (ne) de maintenance en machinisme agricole intervient sur l'ensemble des opérations d'entretien programmé, de maintenance préventive et de réparation de faible et haute technicité concernant les matériels agricoles. Il (elle) intervient sur de nombreuses familles de matériels et d'équipements agroalimentaires, pour les cultures  céréalières  par exemple : moissonneuse-batteuse, presses ramasseuses, matériels de préparation du sol, de traitement des cultures, au matériel d'élevage ou de cultures  spécialisées  (viticulture, arboriculture). Les techniques de dépannage et de réparation qu'il (elle) met en œuvre font appel à des compétences sur des systèmes et des dispositifs combinant plusieurs technologies telles que la mécanique, l'électricité, l'électronique, l'hydraulique, la pneumatique dont le pilotage est souvent assuré par des systèmes informatiques embarqués.
 
-Il (elle) intervient sur une grande diversité de matériels : tracteurs et équipements, moissonneuses-batteuses, matériels de récolte, de fenaison, de vendange..., dont l'expertise de fonctionnement s'opère à l'aide de stations et de bancs d'essais qui nécessitent une connaissance actualisée des matériels et des méthodologies de diagnostic.
+Le (la) technicien (ne) est polyvalent (e) ou spécialisé (e) sur un type de matériel, un type d'intervention ou une marque de matériel.
 
-Pour installer des équipements sur les tracteurs et réparer des pièces défectueuses, le recours à divers procédés de mécanique industrielle et de soudage est fréquent.
+En atelier de réparation, il (elle) réceptionne les matériels, établit les diagnostics, contrôle et expertise les matériels et, sous la responsabilité du chef d'atelier, élabore les devis, vérifie la disponibilité des pièces nécessaires, évalue les temps de réalisation, organise et assure le suivi technique des interventions. Pour réaliser les contrôles et les réglages, le (la) technicien (ne) utilise des matériels de diagnostic sophistiqués et adopte des méthodologies appropriées à chaque matériel. La mise en service et les essais des machines requièrent de maîtriser leurs caractéristiques et leurs fonctionnalités sur site de production. Chez le client, le (la) technicien (ne) intervient pour installer, mettre en service ou dépanner des matériels en toute autonomie.
 
-A l'atelier, le (la) technicien(ne) de maintenance assiste le responsable d'atelier dans l'organisation et la gestion des activités, ce qui le (la) conduit à intervenir de l'accueil à la restitution des matériels au client.
+Il (elle) gère la documentation et les données techniques de l'atelier pour l'ensemble des matériels,  référent technique  il (elle) informe et assiste les mécaniciens pour les opérations complexes. Il (elle) organise l'intervention, détermine les actions à réaliser et donne des instructions si le travail s'effectue en équipe sous sa responsabilité.
 
-Chez le client, il (elle) intervient pour installer, mettre en service ou dépanner des matériels en autonomie.
+Les horaires habituellement fixes sont susceptibles d'aménagement car ils sont fortement liés aux contraintes de la saisonnalité des travaux agricoles, tels que la moisson qui entraîne des aménagements liés aux pics d'activités. Certaines interventions présentent alors un caractère d'urgence, il (elle) doit adapter sa méthode de travail en fonction de ces différents paramètres.
 
-Il (elle) gère la documentation technique de l'atelier et transmet, aux mécaniciens, les informations nécessaires aux interventions de maintenance, en utilisant les techniques informatisées de communication.
+Il (elle) possède des qualités relationnelles, une bonne représentation des risques professionnels et une sensibilisation à la protection de l'environnement.
 
-Les horaires sont normalement réguliers mais la saisonnalité des travaux agricoles tels que la moisson peut entraîner des aménagements liés aux pics d'activités.
+Il (elle) travaille la plupart du temps seul et peut être secondé pour les travaux nécessitant le déplacement de pièces lourdes comme les carters de boîte de vitesses ou les embrayages. Les postures vont de la station debout, face à un plan de travail, à des positions contorsionnées indispensables pour atteindre les organes difficilement accessibles. Le port d'EPI peut être imposé. Une bonne dextérité est nécessaire.
 
-Le permis de conduire  B  est nécessaire pour les déplacements chez les clients.
+Le permis de conduire B est nécessaire pour les déplacements sur site.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser la mise en service des engins
+1. Assurer l'entretien et la maintenance
 
-et matériels agricoles
+des engins et des matériels
 
-Organiser les interventions d'installation d'équipements sur les engins et les matériels, conformément au cahier des charges du fournisseur.
+Réceptionner un matériel, organiser et réaliser les opérations d'entretien programmé et de maintenance préventive.
 
-Effectuer le montage, l'adaptation et le réglage de machines et d'équipements à partir d'un plan.
+Réparer des éléments assemblés vissés et pièces mécano-soudées.
 
-Procéder aux essais fonctionnels des engins et équipements agricoles.
+Manœuvrer les engins et les matériels en sécurité.
 
-Adapter des équipements sur des engins et matériels agricoles et réaliser les pièces mécaniques nécessaires.
+Prendre en charge un matériel, effectuer le remplacement, les réglages des équipements périphériques du moteur thermique.
 
-Réaliser la prise en main et la mise en service des engins et des équipements auprès des utilisateurs en spécifiant les règles de sécurité.
+Prendre en charge un matériel, effectuer l'entretien et le contrôle des systèmes et composants électriques et électroniques embarqués.
 
-2. Organiser et assurer la maintenance préventive
+Prendre en charge un matériel, assurer l'entretien et le contrôle des embrayages et transmissions.
 
-des engins et matériels agricoles
+Prendre en charge un matériel, entretenir et contrôler les systèmes de freinage et les pneumatiques.
 
-Etablir le bilan de fonctionnement des différents systèmes et organes de tracteurs, machines et équipements agricoles pour déterminer les opérations à engager.
+Prendre en charge un matériel, effectuer le contrôle des circuits hydrauliques et remplacer les composants.
 
-Organiser le suivi technique d'un parc de machines et assurer les interventions de maintenance préventive des matériels et engins agricoles.
+2. Assurer le diagnostic, la remise en état
 
-Effectuer sur les tracteurs, machines et équipements agricoles les différents contrôles et réglages prévus par les constructeurs dans le cadre des révisions périodiques.
+et le dépannage des matériels agricoles
 
-Procéder aux essais des ensembles tracteurs, machines et équipements agricoles et rendre compte des résultats obtenus aux utilisateurs.
+Gérer et planifier la maintenance d'un parc de matériels.
 
-3. Assurer la remise en état des organes
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-et des composants des engins et matériels agricoles
+Diagnostiquer, dépanner et réparer les moteurs thermiques des matériels agricoles.
 
-Prendre en compte les attentes des clients pour gérer le service après-vente et assurer le suivi des interventions de maintenance des matériels agricoles.
+Diagnostiquer, dépanner et réparer les systèmes des composants électriques et électroniques embarqués des matériels agricoles.
 
-Organiser les interventions de réfection des organes des engins et des matériels conformément aux consignes du responsable d'atelier et aux spécifications du constructeur.
+Diagnostiquer, dépanner et réparer les organes de transmission et de freinage des matériels agricoles.
 
-Procéder aux contrôles et statuer sur l'état d'usure des différentes pièces constituant les ensembles mécaniques des engins et matériels agricoles.
+Diagnostiquer, dépanner et réparer les circuits et les organes hydrauliques des matériels agricoles.
 
-Procéder à la réparation des engins et matériels agricoles par la remise en état des organes défectueux.
+Diagnostiquer, dépanner et remettre en état les équipements spécifiques du machinisme agricole.
 
-4. Etablir le diagnostic et procéder à la mise au point
-
-des engins et matériels agricoles
-
-Gérer la documentation technique et les bulletins de service des constructeurs pour assurer la maintenance des machines agricoles.
-
-Recueillir et analyser les indices de dysfonctionnement fournis par le client pour organiser les interventions de dépannage des engins et des matériels agricoles.
-
-Effectuer les différents essais et contrôles sur des tracteurs, machines et matériels agricoles présentant une avarie de fonctionnement pour établir le diagnostic et procéder à la remise en état de fonctionnement.
-
-Contrôler les performances avec les équipements d'essais et mettre au point les engins et matériels agricoles.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) technicien(ne) de maintenance en machinisme agricole exerce :
+Le (la) technicien (ne) de maintenance d'engins et de matériels option  machinisme agricole  exerce dans les entreprises de service et de maintenance des machines agricoles, les artisans ruraux ; les réseaux des constructeurs, concessions, agences ; les entreprises de location des matériels. Les coopératives de travaux agricoles (CUMA)...
 
-- dans les ateliers des concessions et agences des marques de matériels agricoles où il intervient sur les opérations délicates mettant en oeuvre les techniques et technologies les plus pointues.
+Le type d'emploi accessible est le suivant :
 
-- dans les réseaux de distribution des constructeurs de machines agricoles où il est le conseiller technique du réseau.
-
-- dans les entreprises de travaux agricoles, les coopératives agricoles (CUMA) où il gère et assure la maintenance du parc  matériel .
-
-- dans les grosses exploitations agricoles disposant d'un atelier intégré où il a la charge de la réalisation et du suivi de la maintenance des machines.
-
-Il (elle) exerce son activité le plus généralement :
-
-- dans les ateliers des différentes entreprises de maintenance des machines agricoles : constructeurs, concessions ou agences ou directement chez le client, sur le terrain en autonomie ;
-
-- dans les coopératives d'utilisation des machines agricoles (CUMA) ;
-
-- dans les entreprises de travaux agricoles.
-
-Réglementation de l'activité :
-
-Décret du 2 avril 1998 (JO du 3 avril 1998) relatif à la qualification professionnelle exigée pour l'exercice des activités prévues à l'article 16 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat.
+Technicien en machinisme agricole.
 
 Code ROME :
 
-44316 - mécanicien(ne) d'engins de chantier, de levage et manutention et de machines agricoles.
+I1603-Maintenance d'engins de chantier, levage, manutention et de machines agricoles.
+
+Réglementation de l'activité :
+
+Le (la) technicien (ne) de maintenance d'engins et de matériels option  machinisme agricole  doit être titulaire :
+
+- soit d'une autorisation de conduite établie par le chef d'entreprise pour le déplacement interne à l'entreprise des matériels agricoles hors production ;
+
+- soit du CACES (recommandation CNAMTS R 372 m Catégorie 10) ;
+
+- d'une attestation d'aptitude à manipuler les fluides frigorigènes en famille 2 catégorie 5 ou de son équivalence ;
+
+- d'une habilitation norme UTE-C18550 pour intervenir sur les matériels ayant un mode de propulsion ou de traction électrique ;
+
+- du permis de conduire B dans le cadre de déplacements pour interventions avec VL ou VUL.
 
 Autorité responsable de la certification :
 

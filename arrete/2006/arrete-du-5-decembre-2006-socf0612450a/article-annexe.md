@@ -6,33 +6,45 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : fabricant(e) de vêtements sur mesure.
+Titre professionnel : fabricant (e) de vêtements sur mesure.
 
 Niveau : IV.
 
-Code NSF : 242 n.
+Code NSF : 242 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) fabricant(e) de vêtements sur mesure conçoit, adapte, réalise à l'unité des vêtements féminins aux mesures des personnes qu'il (elle) reçoit. Il (elle) procède également à des interventions de retouche et de réparation des vêtements textiles qui lui sont soumis.
+Le (la) fabricant (e) de vêtements sur mesure assure des prestations de réparation et de retouches de vêtements, et réalise des vêtements féminins unitaires sur mesure ou standard.
 
-La haute valeur ajoutée des articles qu'il (elle) réalise demande de la créativité, la prise en compte des désirs et caractéristiques morphologiques des personnes, l'application de méthodes rigoureuses, la maîtrise des techniques de patronage et de fabrication des vêtements à la main et à la machine.
+Le titulaire de l'emploi propose, à partir des souhaits d'une cliente, des prestations de réparation ou différents projets en vue de la réalisation d'un modèle en un ou quelques exemplaires à ses mensurations. Il (elle) reçoit et accueille son client, oriente ses souhaits en intégrant les contraintes de faisabilité, de mode et de coût. Il (elle) choisit avec lui les fournitures et accessoires qui orneront le vêtement et contractualise un prix et des délais de mise à disposition.
 
-Le plus souvent en entreprise individuelle, il (elle) assure la gestion quotidienne de son entreprise.
+A partir des mesures relevées sur son client, il (elle) établit un patron de base qu'il (elle) adapte pour le produit souhaité. Il (elle) réalise les différentes phases de construction et de réalisation en alternant les essayages utiles. Une fois le vêtement réalisé, il (elle) s'assure une dernière fois du bien aller du vêtement par un ultime essayage avant de le remettre au client et d'encaisser le montant de sa prestation.
+
+En entreprise individuelle, il (elle) planifie et gère son activité et doit, en totale autonomie, assurer la maintenance et l'entretien de ses locaux et de son matériel. Il (elle) peut avoir la charge d'un ou plusieurs collaborateurs à qui il (elle) délègue le plus souvent des travaux de retouche et de fabrication.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Adapter ou réparer un vêtement
+1. Réaliser les retouches
 
-Réaliser les préparations nécessaires à une retouche de vêtement.
+et la fabrication unitaire de vêtements féminins
 
-Réaliser, par piquage, des opérations de retouche.
+Réaliser les retouches courantes de vêtements.
 
-Réaliser, à la main, des assemblages de parties de vêtements.
+Réaliser la découpe unitaire de vêtements.
 
-2. Confectionner des vêtements aux mesures d'une cliente
+Réaliser les préparations et assemblages à plat de parties de vêtements.
+
+Réaliser le montage de vêtements.
+
+Réaliser les finitions de retouches et de fabrication de vêtements.
+
+2. Réaliser la conception unitaire
+
+de vêtements féminins sur mesure
+
+Contractualiser les prestations de retouche et de couture sur mesure.
 
 Construire les bases de vêtements féminins.
 
@@ -40,35 +52,25 @@ Réaliser les patrons de vêtements féminins.
 
 Bâtir et valider une toile de vêtement féminin sur mesure.
 
-Couper, assembler et monter des vêtements féminins.
+Secteurs d'activités ou types d'emploi
 
-Assurer les finitions de retouches et de fabrication de vêtements.
+accessibles par le détenteur du titre
 
-3. Gérer une entreprise artisanale
+Artisanat de la retouche et de la couture.
 
-de fabrication de vêtements sur mesure
+Commerce de l'habillement.
 
-Etablir un tarif de retouches et de fabrications de vêtements sur mesure.
+Entreprises de création de l'habillement.
 
-Assurer la contractualisation d'une prestation de retouche ou de couture sur mesure.
+Entreprises industrielles de l'habillement.
 
-Assurer l'organisation matérielle et la planification du travail d'une entreprise de retouche et de couture sur mesure.
+Secteur du spectacle.
 
-Assurer les approvisionnements d'une entreprise de retouche et de couture sur mesure.
+Entreprises et chantiers d'insertion.
 
-Assurer la gestion quotidienne administrative et comptable d'une entreprise de retouche et de couture sur mesure.
+Code ROME :
 
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Commerce de l'habillement ; artisanat de la retouche et de la couture ; entreprises de création de l'habillement ; entreprises industrielles de l'habillement ; secteur du spectacle ; structures d'insertion par l'activité économique.
-
-Codes ROME :
-
-47211 - Réparateur(trice)-retoucheur(se) en habillement ;
-
-47212 - Fabricant(e) de vêtements sur mesure ou en petite série.
+B1803-Réalisation de vêtements sur mesure ou en petite série.
 
 Réglementation de l'activité :
 

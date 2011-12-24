@@ -4,121 +4,93 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien(ne) de maintenance des matériels de  chantier et de manutention (ancien intitulé : technicien[ne] de  maintenance en matériels de chantier de travaux publics).
+Titre  professionnel : technicien (ne) de maintenance d'engins et de matériels   travaux publics et manutention  (ancien intitulé : technicien [ne]  de maintenance des matériels de chantier et de manutention).
 
 Niveau : IV.
 
-Code NSF 252 r.
+Code NSF : 252 r-Moteurs et mécanique auto.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) de maintenance des matériels de chantier et  de manutention intervient sur l'ensemble des opérations de maintenance  préventive et curative concernant les engins et matériels de chantier et  de manutention.
+La  finalité de cet emploi est de maintenir en état de fonctionnement les  matériels pour optimiser la production. Le (la) technicien (ne) de  maintenance en matériels de chantier et de manutention intervient sur  l'ensemble des opérations d'entretien programmé, de maintenance  préventive et de réparation de faible et haute technicité concernant les  matériels de chantier et de manutention. Il (elle) intervient sur des  matériels diversifiés : bouteurs, niveleuses, chargeuses, pelles  hydrauliques, compacteurs, chariot élévateur.. et leurs d'équipements :  les godets, rippers, fraises hydrauliques, grappins mécaniques,  accessoires de levée... Les techniques de dépannage et de réparation  qu'il (elle) met en œuvre font appel à des compétences sur des systèmes  et des dispositifs combinant plusieurs technologies, telles que la  mécanique, l'électricité, l'électronique, l'hydraulique et la  pneumatique, dont le pilotage est souvent assuré par des systèmes  informatiques embarqués. Le (la) technicien (ne) est polyvalent ou  spécialisé sur un type de matériel, un type d'intervention, une marque.
 
-En atelier de réparation, il (elle) réceptionne les  matériels, établit les diagnostics, contrôle et expertise les matériels  et, sous la responsabilité du chef d'atelier, détermine les opérations à  engager, élabore les devis, organise et assure le suivi technique des  interventions.
+En  atelier de réparation, il (elle) réceptionne les matériels, établit les  diagnostics, contrôle et expertise les matériels et, sous la  responsabilité du chef d'atelier, élabore les devis, vérifie la  disponibilité des pièces nécessaires, évalue les temps de réalisation,  organise et assure le suivi technique des interventions. Pour réaliser  les contrôles et les réglages, le (la) technicien (ne) utilise des  matériels de diagnostic sophistiqués et adopte des méthodologies  appropriées à chaque matériel. La mise en service et les essais des  machines requièrent de maîtriser leurs caractéristiques et leurs  fonctionnalités sur chantier et site de production.
 
-Il (elle) intervient sur des matériels diversifiés :  bouteurs, niveleuses, chargeuses, pelles hydrauliques, compacteurs,  camions de chantier, matériels de carrière et de réfection des routes,  chariots élévateurs. Sur ces matériels, le développement des systèmes  d'asservissement, de pilotage, de régulation et de sécurité contribue à  l'extension des circuits et dispositifs électriques, électroniques et  hydrauliques et à l'essor de l'informatique embarquée.
+Dans  les entreprises, le (la) technicien (ne) planifie et organise la  maintenance du parc  matériel  conformément à l'organisation et à la  stratégie de l'entreprise. Il (elle) gère la documentation et les  données techniques des constructeurs pour l'ensemble des matériels,   référent technique  il (elle) informe et assiste les mécaniciens pour  les opérations complexes. Il (elle) organise l'intervention, détermine  les actions à réaliser et donne des instructions si le travail  s'effectue en équipe sous sa responsabilité.
 
-Pour réaliser  les différents contrôles et réglages, le technicien utilise des  matériels de diagnostic sophistiqués et adopte des méthodologies  appropriées à chaque matériel.
+Les  horaires, habituellement fixes, sont susceptibles d'aménagement car ils  sont fortement liés aux contraintes des chantiers. Une panne sérieuse  d'un engin peut engendrer l'arrêt de tout ou partie d'un chantier,  certaines interventions présentent alors un caractère d'urgence, il  (elle) devra adapter sa méthode de travail en fonction de ces différents  paramètres. Il (elle) possède des qualités relationnelles, une bonne  représentation des risques professionnels et une sensibilisation à la  protection de l'environnement.
 
-La mise en service et les essais des  machines requièrent de maîtriser leurs fonctionnalités et leurs  caractéristiques de fonctionnement sur chantier ou site de production.
+Il (elle) travaille  la plupart du temps seul et peut être secondé pour les travaux  nécessitant le déplacement de pièces lourdes, comme les carters de boîte  de vitesses ou les embrayages.
 
-Dans les entreprises, il planifie et organise la maintenance du parc   matériels  conformément à l'organisation et à la stratégie de  l'entreprise.
-
-Il (elle) gère la documentation et les données  techniques des constructeurs pour l'ensemble des matériels et assume un  rôle de  référent technique  et, à ce titre, informe et assiste les  mécaniciens pour les opérations complexes. Les évolutions des matériels  nécessitent une actualisation permanente de ses compétences.
-
-Les  horaires sont liés aux contraintes des chantiers et peuvent entraîner  des aménagements et les déplacements sont fréquents y compris à  l'étranger.
-
-Le permis de conduire B est nécessaire pour les déplacements sur site.
+Le travail implique  de façon générale la position debout, il doit adapter ses positions  pour atteindre les organes difficilement accessibles. Le port de charges  lourdes est fréquent. Le port d'EPI peut être imposé. Une bonne  dextérité est nécessaire. Le permis de conduire B est nécessaire pour  les déplacements sur site.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Organiser et gérer la maintenance
+1. Assurer l'entretien et la maintenance
 
-d'un parc de matériels de chantier et de manutention
+des engins et des matériels
 
-Recueillir et analyser la demande du client.
+Réceptionner un matériel, organiser et réaliser les opérations d'entretien programmé et de maintenance préventive.
 
-Etablir le plan de charge de l'équipe de mécaniciens.
+Réparer des éléments assemblés vissés et pièces mécano-soudées.
 
-Effectuer le bilan d'état et dresser un pronostic de fiabilité des matériels de chantier et de manutention.
+Manœuvrer les engins et les matériels en sécurité.
 
-Assurer la gestion de la documentation et communiquer les informations  techniques de service après-vente des matériels de chantier et de  manutention.
+Prendre en charge un matériel, effectuer le remplacement, les réglages des équipements périphériques du moteur thermique.
 
-Déterminer les coûts d'exploitation des matériels de chantier et de manutention.
+Prendre  en charge un matériel, effectuer l'entretien et le contrôle des  systèmes et composants électriques et électroniques embarqués.
 
-Organiser et assurer le suivi des interventions sur les matériels de chantier et de manutention.
+Prendre en charge un matériel, assurer l'entretien et le contrôle des embrayages et transmissions.
 
-Effectuer des vérifications générales périodiques (VGP).
+Prendre en charge un matériel, entretenir et contrôler les systèmes de freinage et les pneumatiques.
 
-2. Assurer la maintenance préventive des matériels
+Prendre en charge un matériel, effectuer le contrôle des circuits hydrauliques et remplacer les composants.
 
-de chantier et de manutention
+2. Assurer le diagnostic, la remise en état
 
-Contrôler et régler les organes de motorisation et de transmission des matériels de chantier et de manutention.
+et le dépannage des matériels de manutention et de chantier
 
-Régler les systèmes de translation et de liaison au sol des matériels de chantier et de manutention.
+Gérer et planifier la maintenance d'un parc de matériel.
 
-Contrôler le fonctionnement des circuits électriques et hydrauliques des matériels de chantier et de manutention.
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-Contrôler et régler les équipements de production des matériels de chantier et de manutention.
+Diagnostiquer, dépanner et réparer les moteurs thermiques des matériels de manutention et de chantier.
 
-Contrôler la conformité des performances des matériels de chantier et de manutention.
+Diagnostiquer,  dépanner et réparer la traction électrique et l'ensemble des systèmes  et composants électriques et électroniques embarqués des matériels de  manutention et de chantier.
 
-3. Remettre en état les matériels
+Diagnostiquer et réparer les organes de transmission et de freinage des matériels de manutention et de chantier.
 
-de chantier et de manutention
+Diagnostiquer et réparer les circuits et les organes hydrauliques des matériels de manutention et de chantier.
 
-Réaliser des échanges standards d'organes de motorisation et de translation des matériels de chantier et de manutention.
+Diagnostiquer et remettre en état des équipements des matériels de manutention et de chantier.
 
-Remplacer des organes électriques et hydrauliques sur les matériels de chantier et de manutention.
-
-Définir les modalités de réparation des matériels de chantier et de manutention après contrôle et essais.
-
-Etablir des devis de réparation et les soumettre aux clients.
-
-Réparer les moteurs thermiques des engins de chantier et de manutention.
-
-Remettre en état les organes de transmission des engins de chantier et de manutention.
-
-Réparer les organes électriques et hydrauliques des matériels de chantier et de manutention.
-
-Réparer les éléments de carrosserie et mécano soudés des matériels de chantier et de manutention.
-
-4. Assurer le dépannage des matériels
-
-de chantier et de manutention
-
-Définir et préparer les moyens pour assurer les interventions de dépannage des matériels de chantier et de manutention.
-
-Etablir un diagnostic par l'analyse des différentes informations et contrôles.
-
-Remédier aux pannes et dysfonctionnements sur site et remettre en service les matériels de chantier et de manutention.
-
-Rendre compte des interventions et conseiller les utilisateurs de matériel.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) technicien(ne) de maintenance des matériels de chantier de travaux publics exerce :
+Le (la) technicien (ne) de maintenance d'engins et de matériels, option  travaux publics et manutention , exerce dans :
 
-- dans les entreprises du bâtiment et des travaux publics où il gère la maintenance du parc matériel ;
+Les entreprises de service et de réparation des engins de chantier et de matériels de manutention.
 
-- dans les réseaux de distribution des constructeurs d'engins de chantier où il assure le service après-vente des machines ;
+Les  réseaux des constructeurs, concessionnaires et entreprises de  distribution des matériels. Les entreprises de location des matériels.  Les collectivités utilisatrices d'engins de travaux publics et de  matériels de manutention.
 
-- dans les entreprises de distribution, de location et de réparation  des engins et matériels de chantier où il gère le parc de location,  expertise les machines et assure le suivi de la maintenance ;
+Les types d'emplois accessibles sont les suivants :
 
-- dans  les ateliers des directions départementales de l'équipement où il  organise les interventions de maintenance du parc matériel.
-
-Réglementation de l'activité :
-
-Décret du 2 avril 1998 (JO du 3 avril 1998) relatif à la qualification  professionnelle exigée pour l'exercice des activités prévues à l'article  16 de la loi 96-603 du 5 juillet 1996 relative au développement et à la  promotion du commerce et de l'artisanat.
+Technicien (ne) réparateur (trice) d'engins de chantier. Technicien (ne) réparateur (trice) de matériels de manutention.
 
 Code ROME :
 
-44316 - mécanicien/mécanicienne d'engins de chantier, de levage et manutention et de machines agricoles.
+I1603-Maintenance d'engins de chantier, levage, manutention et de machines agricoles.
+
+Réglementation de l'activité :
+
+Le  (la) technicien (ne) de maintenance d'engins et de matériels, option   travaux publics et manutention , doit être titulaire :
+
+Pour  déplacer les matériels ou les engins, d'une autorisation de conduite  valide. Dans le cas contraire, la mise en place de l'engin au poste de  travail sera réalisée par le conducteur de la machine ou par une  personne habilitée. Dans le cadre des interventions de maintenance des  engins hors production, l'autorisation de conduite est délivrée par le  chef d'entreprise et correspond aux catégories d'engins de l'option  selon les recommandations de la CNAMTS. (recommandation R 389, catégorie  6, pour les matériels de levage et de manutention, recommandation  CNAMTS R 372 m catégorie 10, pour les engins travaux publics, selon la  catégorie de la recommandation CNAMTS R 386, pour les plates-formes  élévatrices mobiles de personnes [PEMP] ;
+
+D'une  attestation d'aptitude à manipuler les fluides frigorigènes en famille  2, catégorie 5, ou de son équivalence. Pour les interventions et les  travaux à effectuer sur les matériels ayant un mode de propulsion ou de  traction électrique, le professionnel doit être habilité conformément à  la norme UTE-C18550.
 
 Autorité responsable de la certification :
 
