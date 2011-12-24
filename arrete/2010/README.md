@@ -2470,7 +2470,6 @@
 - [Arrêté du 25 novembre 2009 (BCFR0927625A)](arrete-du-25-novembre-2009-bcfr0927625a)
 - [Arrêté du 25 novembre 2009 (BCFR0927680A)](arrete-du-25-novembre-2009-bcfr0927680a)
 - [Arrêté du 25 novembre 2009 (IOCE0929827A)](arrete-du-25-novembre-2009-ioce0929827a)
-- [Arrêté du 25 novembre 2010 (AGRM1029474A)](arrete-du-25-novembre-2010-agrm1029474a)
 - [Arrêté du 25 novembre 2010 (BCRE1030104A)](arrete-du-25-novembre-2010-bcre1030104a)
 - [Arrêté du 25 novembre 2010 (DEVT1029726A)](arrete-du-25-novembre-2010-devt1029726a)
 - [Arrêté du 25 novembre 2010 (MCCB1029490A)](arrete-du-25-novembre-2010-mccb1029490a)
