@@ -2797,7 +2797,6 @@
 - [Arrêté du 28 juin 2010 (DEFH1017255A)](arrete-du-28-juin-2010-defh1017255a)
 - [Arrêté du 28 juin 2010 (DEVE1017230A)](arrete-du-28-juin-2010-deve1017230a)
 - [Arrêté du 28 juin 2010 (DEVK1017014A)](arrete-du-28-juin-2010-devk1017014a)
-- [Arrêté du 28 juin 2010 (DEVU1014763A)](arrete-du-28-juin-2010-devu1014763a)
 - [Arrêté du 28 juin 2010 (DEVU1014769A)](arrete-du-28-juin-2010-devu1014769a)
 - [Arrêté du 28 juin 2010 (ESRR1016643A)](arrete-du-28-juin-2010-esrr1016643a)
 - [Arrêté du 28 juin 2010 (IOCC1014334A)](arrete-du-28-juin-2010-iocc1014334a)
