@@ -4,7 +4,7 @@ Le bureau est composé, sur une base paritaire entre producteurs et négociants 
 
 a) D'un président et d'un vice-président ; d'un secrétaire et d'un secrétaire adjoint, d'un trésorier et d'un trésorier adjoint, choisis, dans chaque cas, l'un parmi les délégués des producteurs, l'autre parmi les délégués des négociants ;
 
-b) De six membres responsables des commissions ;
+b) De seize membres, dont six responsables des commissions ;
 
 c) Du président de la fédération des syndicats des grands vins de Bordeaux à appellation d'origine contrôlée ; du président de la fédération des syndicats du commerce en gros des vins et spiritueux de Bordeaux et de Gironde.
 
