@@ -12,13 +12,10 @@
 </tr>
 <tr>
 <td>
-<p>Université D'Aix-Marseille</p>
+<p>Université d'Aix-Marseille</p>
 </td>
-<td rowspan="16">
+<td rowspan="17">
 <p align="center">1er janvier 2012 </p>
-<p>
-<br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -29,6 +26,11 @@
 <tr>
 <td align="center">
 <p align="left">Université Lille-III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Université Lyon-II</p>
 </td>
 </tr>
 <tr>
