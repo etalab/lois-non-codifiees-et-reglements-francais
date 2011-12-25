@@ -6,7 +6,7 @@
 
 1. 2. 1. Aux établissements comportant au moins une installation visée en annexe I au présent arrêté et ne comprenant aucune installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement susvisé ;
 
-1. 2. 2. Aux établissements comportant au moins une installation soumise à autorisation au titre de l'une des rubriques figurant en annexe I au présent arrêté, dès lors que la condition définie en annexe II au présent arrêté est satisfaite, et ne comprenant aucune installation figurant sur la liste prévueau IV de l'article L. 515-8 du code de l'environnement susvisé ;
+1. 2. 2. Aux établissements comportant au moins une installation soumise à autorisation, dès lors que la condition définie en annexe II au présent arrêté est satisfaite, et ne comprenant aucune installation figurant sur la liste prévueau IV de l'article L. 515-8 du code de l'environnement susvisé ;
 
 1. 2. 3. Aux établissements comportant au moins une installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement susvisé.
 

@@ -1,25 +1,31 @@
 # Article 9
 
-Sont considérés pour l'application du présent arrêté comme nouveaux les établissements définis à l'article 2 à implanter sur un site nouveau, dont les installations font l'objet de demandes d'autorisation présentées après l'expiration d'un délai de trois mois à compter de la date de la publication du présent arrêté au Journal officiel.
+Sont considérés, pour l'application du présent arrêté, comme :
 
-Sont considérés comme existants les établissements qui ne répondent pas aux conditions ci-dessus définies.
+-nouveaux les établissements à implanter sur un site nouveau dont les installations font l'objet d'une autorisation après le 1er janvier 2012 ;
+
+-existants les établissements qui étaient soumis aux dispositions du présent arrêté avant le 1er janvier 2012 ;
+
+-existants nouvellement soumis les établissements qui ne répondent pas aux conditions définies aux deux précédents alinéas.
 
 9.1. Etablissements nouveaux.
 
-Les dispositions du présent arrêté sont applicables après l'expiration d'un délai de trois mois à compter de la date de la publication du présent arrêté au Journal officiel.
+Les dispositions du présent arrêté sont applicables le lendemain de la publication de l'arrêté préfectoral autorisant les installations.
 
 9.2. Etablissements existants.
 
-9.2.1. Etablissements visés à l'article 1er, paragraphes 1.2.1 et 1.2.2.
+Les dispositions du présent arrêté sont applicables au 1er janvier 2012.
 
-Les dispositions du présent arrêté, sauf celles figurant aux articles 3 et 10, sont applicables au 3 février 2001.
+9.3. Etablissements existants nouvellement soumis.
 
-9.2.2. Etablissements visés à l'article 1er, paragraphe 1.2.3.
+Les dispositions des articles 3 et 10 sont applicables selon les modalités définies à l'article 10.
 
-9.2.2.1. Les dispositions du présent arrêté, sauf celles figurant aux articles 3 et 10, sont applicables au 3 février 2001 aux établissements qui comprenaient au moins une installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement susvisé selon la nomenclature des installations classées antérieure à la publication du décret du 28 décembre 1999 susvisé portant modification du décret de nomenclature n° 53-578 du 20 mai 1953, à la date de cette publication.
+Lorsqu'un établissement devient soumis aux dispositions du présent arrêté suite à une modification notable au sens de l'article R. 512-33 du code de l'environnement, l'ensemble de ces dispositions à l'exception des articles 3 et 10 sont applicables à partir du jour où cette modification est mise en œuvre.
 
-9.2.2.2. Les dispositions du présent arrêté, sauf celles figurant aux articles 3 et 10, sont applicables au 3 février 2002 aux établissements qui ne comprenaient pas d'installations figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement susvisé selon la nomenclature des installations classées antérieure à la publication du décret du 28 décembre 1999 susvisé portant modification du décret de nomenclature n° 53-578 du 20 mai 1953, à la date de cette publication.
+Dans les autres cas, la politique de prévention des accidents majeurs telle que prévue à l'article 4, paragraphe 5, et à l'article 6 est élaborée au plus tard un an après la date à laquelle l'établissement est soumis. L'information des exploitants d'installations classées voisines telle que prévue à l'article 5 est effectuée au plus tard deux ans après la date à laquelle l'établissement est soumis. Si l'établissement nouvellement soumis est un établissement seuil haut :
 
-9.2.3. Demandes d'autorisation intervenant avant les échéances fixées aux paragraphes 9.2.1 et 9.2.2.
+-l'étude de dangers mentionnée à l'article 4, paragraphes 1 à 4, est remise au plus tard deux ans après la date à laquelle l'établissement devient soumis ;
 
-La présentation par l'exploitant d'un établissement, avant l'échéance fixée aux paragraphes 9.2.1 et 9.2.2 pour cet établissement, d'une demande d'autorisation de changement d'exploitant ou d'une demande d'autorisation en cas d'extension, de modification ou de création d'installation, ne modifie pas cette échéance.
+-le système de gestion de la sécurité tel que défini à l'article 7 est élaboré au plus tard deux ans après la date à laquelle l'établissement devient soumis ;
+
+-le plan d'opération interne tel que défini à l'article R. 512-29 du code de l'environnement est élaboré au plus tard deux ans après la date à laquelle l'établissement devient soumis.
