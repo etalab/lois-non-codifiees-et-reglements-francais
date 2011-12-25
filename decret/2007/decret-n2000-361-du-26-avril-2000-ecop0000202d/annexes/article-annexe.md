@@ -162,7 +162,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Inférieure à 1000 tonnes</p>
+<p>Inférieure à 1 000 tonnes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">1</p>
@@ -170,7 +170,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 1000 tonnes et inférieure à 5000 tonnes</p>
+<p>Supérieure ou égale à 1 000 tonnes et inférieure à 5 000 tonnes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">2</p>
@@ -178,7 +178,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 5000 tonnes</p>
+<p>Supérieure ou égale à 5 000 tonnes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">3</p>
@@ -213,7 +213,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 1000 tonnes</p>
+<p>Supérieure ou égale à 1 000 tonnes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">3</p>
@@ -232,8 +232,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Inférieure à 10000 tonnes.</p>
-<p>Inférieure à 10000 mètres cubes</p>
+<p>Inférieure à 10 000 tonnes.</p>
+<p>Inférieure à 10 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">1</p>
@@ -241,8 +241,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 10000 tonnes et inférieure à 50000 tonnes. </p>
-<p>Supérieure ou égale à 10000 mètres cubes et inférieure à 50000 mètres cubes</p>
+<p>Supérieure ou égale à 10 000 tonnes et inférieure à 50 000 tonnes. </p>
+<p>Supérieure ou égale à 10 000 mètres cubes et inférieure à 50 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">2</p>
@@ -250,8 +250,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 50000 tonnes et inférieure à 100000 tonnes. </p>
-<p>Supérieure ou égale à 50000 mètres cubes et inférieure à 100000 mètres cubes</p>
+<p>Supérieure ou égale à 50 000 tonnes et inférieure à 100 000 tonnes. </p>
+<p>Supérieure ou égale à 50 000 mètres cubes et inférieure à 100 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">3</p>
@@ -259,8 +259,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 100000 tonnes. </p>
-<p>Supérieure ou égale à 100000 mètres cubes</p>
+<p>Supérieure ou égale à 100 000 tonnes. </p>
+<p>Supérieure ou égale à 100 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">4</p>
@@ -289,12 +289,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="218">
+<td rowspan="3" valign="top" width="218">
 <p>VI. - Installations destinées au stockage définitif de substances radioactives</p>
 </td>
 <td valign="top" width="225">
-<p>a) Installation passée en phase de surveillance.</p>
-<p>Par installation nucléaire de base</p>
+<p align="left">Capacité de stockage autorisée inférieure à 1 000 000 mètres cubes. </p>
 </td>
 <td valign="top" width="237">
 <p align="center">1</p>
@@ -302,24 +301,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>b) Autre installation de stockage.</p>
-<p>Capacité de stockage.</p>
-</td>
-<td valign="top" width="237">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="225">
-<p>Inférieure à 1000000 de mètres cubes</p>
-</td>
-<td valign="top" width="237">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="225">
-<p>Supérieure ou égale à 1000000 de mètres cubes et inférieure à 1500000 mètres cubes</p>
+<p align="left">Capacité de stockage autorisée supérieure ou égale à 1 000 000 mètres cubes et inférieure à 1 500 000 mètres cubes.</p>
 </td>
 <td valign="top" width="237">
 <p align="center">2</p>
@@ -327,7 +309,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 1500000 mètres cubes</p>
+<p align="left">Capacité de stockage autorisée supérieure ou égale à 1 500 000 mètres cubes.</p>
 </td>
 <td valign="top" width="237">
 <p align="center">3</p>
@@ -355,8 +337,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Inférieure à 10000 tonnes </p>
-<p>Inférieure à 10000 mètres cubes</p>
+<p>Inférieure à 10 000 tonnes </p>
+<p>Inférieure à 10 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">2</p>
@@ -364,7 +346,7 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 10000 tonnes et inférieure à 25000 tonnes</p>
+<p>Supérieure ou égale à 10 000 tonnes et inférieure à 25 000 tonnes</p>
 </td>
 <td valign="top" width="237">
 <br/>
@@ -372,8 +354,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 10000 tonnes et inférieure à 25000 tonnes</p>
-<p>Supérieure ou égale à 10000 mètres cubes et inférieure à 25000 mètres cubes</p>
+<p>Supérieure ou égale à 10000 tonnes et inférieure à 25 000 tonnes</p>
+<p>Supérieure ou égale à 10000 mètres cubes et inférieure à 25 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">3</p>
@@ -381,8 +363,8 @@
 </tr>
 <tr>
 <td valign="top" width="225">
-<p>Supérieure ou égale à 25000 tonnes</p>
-<p>Supérieure ou égale à 25000 mètres cubes</p>
+<p>Supérieure ou égale à 25 000 tonnes</p>
+<p>Supérieure ou égale à 25 000 mètres cubes</p>
 </td>
 <td valign="top" width="237">
 <p align="center">4</p>
