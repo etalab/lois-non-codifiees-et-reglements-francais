@@ -1,4 +1,4 @@
-# CHAPITRE III : Détachement de fonctionnaires d'autres corps.
+# CHAPITRE III : Détachement et intégration de fonctionnaires d'autres corps
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)

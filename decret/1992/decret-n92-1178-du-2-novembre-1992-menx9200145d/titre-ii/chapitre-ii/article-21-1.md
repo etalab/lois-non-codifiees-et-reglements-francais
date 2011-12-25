@@ -1,0 +1,7 @@
+# Article 21-1
+
+I. ― Le nombre maximum de professeurs du Muséum national d'histoire naturelle de 2e classe pouvant être promus chaque année à la 1re classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat. Le nombre maximum de professeurs du Muséum national d'histoire naturelle de 1re classe pouvant être promus chaque année à la classe exceptionnelle est déterminé de la même façon.
+
+II. - Le nombre de professeurs du Muséum national d'histoire naturelle du 1er échelon de la classe exceptionnelle pouvant être promus au 2e échelon de cette classe est déterminé chaque année par application à l'effectif des professeurs du Muséum national d'histoire naturelle réunissant les conditions pour être promus d'un taux fixé par arrêté du ministre chargé de l'enseignement supérieur.
+
+Avant sa signature par le ministre chargé de l'enseignement supérieur, le projet d'arrêté portant fixation du taux de promotion est transmis pour avis conforme au ministre chargé de la fonction publique et au ministre chargé du budget. Cet avis est réputé acquis en l'absence d'observation dans un délai de dix jours ouvrés à compter de la réception de la saisine. Cet arrêté est transmis pour publication au Journal officiel de la République française accompagné de l'avis conforme du ministre chargé de la fonction publique et du ministre chargé du budget.

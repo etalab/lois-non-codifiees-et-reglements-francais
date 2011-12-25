@@ -1,4 +1,4 @@
-# CHAPITRE III : Détachement de fonctionnaires d'autres corps.
+# CHAPITRE III : Détachement et intégration de fonctionnaires d'autres corps
 
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
