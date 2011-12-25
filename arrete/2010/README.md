@@ -1286,7 +1286,6 @@
 - [Arrêté du 15 décembre 2006 (PRMX0609775A)](arrete-du-15-decembre-2006-prmx0609775a)
 - [Arrêté du 15 décembre 2009 (BCFL1000204A)](arrete-du-15-decembre-2009-bcfl1000204a)
 - [Arrêté du 15 décembre 2009 (BCFL1000217A)](arrete-du-15-decembre-2009-bcfl1000217a)
-- [Arrêté du 15 décembre 2009 (BCFS0930545A)](arrete-du-15-decembre-2009-bcfs0930545a)
 - [Arrêté du 15 décembre 2009 (DEVE0930270A)](arrete-du-15-decembre-2009-deve0930270a)
 - [Arrêté du 15 décembre 2009 (DEVE0930272A)](arrete-du-15-decembre-2009-deve0930272a)
 - [Arrêté du 15 décembre 2009 (DEVP0924342A)](arrete-du-15-decembre-2009-devp0924342a)
