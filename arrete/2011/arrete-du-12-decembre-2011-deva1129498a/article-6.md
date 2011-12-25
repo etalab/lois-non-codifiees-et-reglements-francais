@@ -1,0 +1,3 @@
+# Article 6
+
+Après la délivrance des quotas gratuits aux exploitants et en cas de modification des référentiels établis par la Commission résultant d'une décision prise en application de l'article 25 bis de la directive 2003/87/CE, ou en cas d'erreur par excès constatée dans la déclaration d'activité en termes de tonnes-kilomètres d'un exploitant d'aéronefs, les quantités modifiées de quotas affectés à titre gratuit aux exploitants d'aéronefs sont arrêtées et publiées par le ministre chargé des transports. Dans ces cas, les exploitants d'aéronefs restituent à l'Etat des quotas en quantité égale à celle des quotas gratuits excédentaires qui leur ont été délivrés.

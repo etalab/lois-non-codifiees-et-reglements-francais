@@ -1,0 +1,3 @@
+# Article 4
+
+Un exploitant d'aéronefs qui, pour des raisons de force majeure, n'a pu fournir au ministre chargé des transports un rapport de vérification de sa déclaration de tonnes-kilomètres pour 2010, lui fournit ce rapport sans délai dès que la situation justifiant la force majeure prend fin. Le rapport de vérification ainsi fourni ne peut avoir comme effet éventuel qu'une modification à la baisse du total de l'activité déclarée en termes de tonnes-kilomètres, qui donne lieu, le cas échéant, à la restitution par l'exploitant de la quantité excédentaire de quotas gratuits correspondante, telle qu'établie et publiée par le ministre chargé des transports.
