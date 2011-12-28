@@ -22,23 +22,23 @@ La direction de la technique et de l'innovation est composée d'une structure de
 
 1. La structure de direction comprend :
 
-― le directeur ;
+- le directeur ;
 
-― un adjoint "exécutif ", un adjoint "stratégie" et un adjoint "ressources" ;
+- un adjoint " exécutif " et un adjoint " stratégie " ;
 
-― des directeurs de programmes, en charge de la conduite de grands programmes techniques de la DSNA ;
+- des directeurs de programmes, en charge de la conduite de grands programmes techniques de la DSNA ;
 
-― une cellule "communication" (DTI/C), chargée de la communication interne et externe de la direction de la technique et de l'innovation, en liaison avec le cabinet de la DSNA ;
+- une cellule " communication " (DTI/C) chargée de la communication interne et externe de la direction de la technique et de l'innovation, en liaison avec le cabinet de la DSNA ;
 
-― une mission "qualité-sécurité" (DTI/Q), chargée de la mise en œuvre du système de management de la qualité et de la sécurité et de piloter les processus d'amélioration et les processus de gestion de la sécurité ATM ;
+- une mission " système de management intégré " (DTI/ SM) chargée de la mise en œuvre du système de management intégré de la DSNA, du pilotage des processus qualité, de la définition et du suivi de la politique de sécurité des systèmes d'information (PSSI) pour les réseaux et systèmes opérationnels de la DSNA ;
 
-― une mission "architecture globale et programmes européens" (DTI/E), chargée de définir l'architecture globale des systèmes et d'élaborer une planification à moyen et long terme de leur évolution en conformité avec les orientations européennes, de coordonner les activités de normalisation et de standardisation et la participation de la DTI aux programmes européens ;
+- une mission " Europe " (DTI/E) chargée de définir l'architecture globale des systèmes et d'élaborer une planification à moyen et long terme de leur évolution en conformité avec les orientations européennes, de coordonner les activités de normalisation et de standardisation et la participation de la DTI aux programmes européens ;
 
-― une mission "projets" (DTI/P), chargée d'assurer le bon fonctionnement des projets au sein de la DTI.
+- une mission " projets " (DTI/P) chargée d'assurer le bon fonctionnement des projets au sein de la DTI.
 
 2. Le domaine "support général" (DTI/SG) est chargé du contrôle de gestion, de la gestion des ressources humaines, de la formation, de l'organisation des achats et de la passation des contrats, de la gestion budgétaire et comptable et du soutien logistique de la DTI. Il coordonne l'activité administrative et financière des domaines. Il est aussi chargé des systèmes d'information de gestion et du support informatique.
 
-3. Le domaine "recherche et développement" (DTI/R & D) est chargé de conduire des études et des recherches appliquées, développer des maquettes et mener des expérimentations en vue de proposer des évolutions à moyen terme du système de gestion du trafic aérien français et d'influer sur les orientations des programmes européens dans le domaine de la navigation aérienne.
+3. Le domaine " études européennes et innovations " (DTI/EEI) est chargé de mener des actions d'innovation et des études amont en vue de permettre à la DSNA de maîtriser l'évolution de son système à moyen et long terme. Il s'efforce, dans cette perspective, de positionner ses activités et de valoriser ses résultats dans un cadre européen.
 
 4. Le domaine "exigences opérationnelles des systèmes" (DTI/EOS) est chargé de contribuer au retour d'expérience, à la consolidation des besoins opérationnels et des évolutions correspondantes des méthodes de travail et de formation. Il définit les exigences techniques relatives aux systèmes d'assistance automatisée à la gestion du trafic aérien et aux systèmes d'information aéronautique. Il conduit des études relatives aux facteurs humains et à la performance.
 

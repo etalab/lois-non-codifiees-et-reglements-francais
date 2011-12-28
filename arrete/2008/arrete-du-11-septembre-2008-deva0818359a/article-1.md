@@ -4,17 +4,19 @@ La direction des services de la navigation aérienne (DSNA) comprend :
 
 Un échelon central constitué par :
 
-― la sous-direction de la planification et de la stratégie (DSNA/SDPS) ;
+- la sous-direction de la planification et de la stratégie (DSNA/ SDPS) ;
 
-― la sous-direction des ressources humaines (DSNA/SDRH) ;
+- la sous-direction des ressources humaines (DSNA/ SDRH) ;
 
-― la sous-direction des finances (DSNA/SDFI) ;
+- la sous-direction des finances (DSNA/ SDFI) ;
 
-― la mission du management de la sécurité, de la qualité et de la sûreté (DSNA/MSQS) ;
+- la mission du management de la sécurité, de la qualité et de la sûreté (DSNA/ MSQS) ;
 
-― la mission de l'environnement (DSNA/ME) ;
+- la mission de l'environnement (DSNA/ ME) ;
 
-― le cabinet.
+- des directeurs de programmes en charge de la conduite de grands programmes de la DSNA ;
+
+- le cabinet.
 
 La direction des opérations (DSNA/DO) constituée par :
 

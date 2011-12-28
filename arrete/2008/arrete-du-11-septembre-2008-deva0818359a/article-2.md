@@ -234,4 +234,6 @@ b) Le département des dépenses et recettes hors redevances (SDFI/D), chargé :
 
 - d'instruire les dossiers d'infraction aux restrictions d'exploitation environnementales en matière de circulation aérienne pour le compte de la Commission nationale de prévention des nuisances.
 
-6° Le cabinet du directeur, chargé d'assister le directeur, pour la représentation, la communication interne et externe de la DSNA, le traitement des courriers et des interventions, les affaires générales, y compris les questions de chancellerie, les affaires réservées et internationales.
+6° Les directeurs de programmes en charge de la conduite des grands programmes de la DSNA. Ils planifient les activités de la direction de la technique et de l'innovation (DTI) et de la direction des opérations (DO) relatives au programme dont ils ont la charge. Ils assurent l'attribution des ressources budgétaires allouées au programme et le suivi des dépenses en coordination avec la DO et la DTI.
+
+7° Le cabinet du directeur, chargé d'assister le directeur, pour la représentation, la communication interne et externe de la DSNA, le traitement des courriers et des interventions, les affaires générales, y compris les questions de chancellerie, les affaires réservées et internationales.
