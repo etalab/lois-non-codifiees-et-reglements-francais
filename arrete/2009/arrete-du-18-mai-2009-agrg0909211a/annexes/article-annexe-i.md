@@ -123,11 +123,7 @@
 <td align="center">
 <br/>
 </td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">E <br/>
 </td>
 </tr>
@@ -151,11 +147,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -200,11 +192,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -224,11 +212,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -247,11 +231,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -336,20 +316,12 @@
 <p align="center">Hangar 14 <br/>
 </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">E <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -523,11 +495,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -547,11 +515,7 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>
 </td>
@@ -562,11 +526,7 @@
 <p align="center">Station animalière (b) <br/>
 </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 <td align="center">E, O (a) <br/>
 </td>
 </tr>
@@ -666,8 +626,8 @@
 <p align="left">(6) Graisses, huiles et huiles de poisson liquides uniquement.</p>
 <p>(15) Cette autorisation est valable jusqu'au 31 décembre 2011. </p>
 <p>(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
-<p>(b) Cette autorisation est valable jusqu'au 31 décembre 2011. </p>
-<p>(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
+<p>b) Cette autorisation est valable jusqu'au 31 décembre 2012. </p>
+<p>c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
 <p>(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
 </p>
 </td>
