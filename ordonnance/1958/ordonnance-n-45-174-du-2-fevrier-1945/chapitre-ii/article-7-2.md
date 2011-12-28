@@ -18,6 +18,10 @@ Les mesures suivantes peuvent également être proposées au mineur, par le proc
 
 4° Consultation d'un psychiatre ou d'un psychologue ;
 
-5° Exécution d'une mesure d'activité de jour.
+5° Exécution d'une mesure d'activité de jour ;
+
+6° Accomplissement, lorsque le mineur est âgé de plus de seize ans, d'un contrat de service en établissement public d'insertion de la défense mentionné aux
+articles L. 130-1 à L. 130-5 du code du service national
+.
 
 La durée d'exécution des mesures proposées aux mineurs ne peut excéder un an.
