@@ -60,6 +60,8 @@ Biarritz-Bayonne-Anglet.
 
 Brest-Bretagne.
 
+Cayenne-Rochambeau.
+
 Clermont-Ferrand - Auvergne.
 
 Melun-Villaroche.
@@ -71,8 +73,6 @@ Groupe E
 Bastia-Poretta.
 
 Beauvais-Tillé.
-
-Cayenne-Rochambeau.
 
 Chambéry - Aix-les-Bains.
 

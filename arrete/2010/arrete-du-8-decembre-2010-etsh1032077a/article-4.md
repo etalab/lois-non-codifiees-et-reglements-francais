@@ -1,6 +1,6 @@
 # Article 4
 
-Pour chaque année, de 2010 à 2016, le tarif afférent aux soins par patient des établissements dont le tarif constaté en 2009 est supérieur au tarif plafond calculé en application des articles 1er et 2 de l'arrêté du 17 mars 2009 susvisé est réduit dans une proportion telle que l'écart entre le forfait global relatif aux soins constaté au 31 décembre de l'année précédente et le forfait résultant de l'application du tarif plafond défini à l'article 2 du présent arrêté pour l'année concernée soit totalement résorbé en 2016.
+Pour chaque année, de 2010 à 2016, le tarif afférent aux soins par patient des établissements dont le tarif constaté en année n - 1 est supérieur au tarif plafond calculé en application des articles 2 et 3 est réduit dans une proportion telle que l'écart entre le forfait global relatif aux soins constaté au 31 décembre de l'année précédente et le forfait résultant de l'application du tarif plafond défini à l'article 2 pour l'année concernée soit totalement résorbé en 2016.
 
 Le taux de réduction de l'écart mentionné à l'alinéa précédent est fixé à 10 % au titre de l'année 2010, à 16,66% au titre de l'année 2011, à 20 % au titre de l'année 2012, à 25 % au titre de l'année 2013, à 33,33% au titre de l'année 2014, à 50 % au titre de l'année 2015 et à 100 % au titre de l'année 2016.
 
