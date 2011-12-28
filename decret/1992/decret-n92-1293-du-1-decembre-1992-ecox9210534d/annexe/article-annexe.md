@@ -2,7 +2,7 @@
 
 **FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE À LA CAISSE DES DÉPOTS ET CONSIGNATIONS**
 
-Actuaire responsable de l'unité inventaire du portefeuille de la CNP Assurances ;
+Adjoint au responsable d'unité à la direction des retraites (à compter du 1er janvier 2011) ;
 
 Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers ;
 
@@ -49,6 +49,8 @@ Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une d
 Comptable responsable d'un service opérationnel (SOP) important ;
 
 Conducteur d'opérations BTP (site parisien) ;
+
+Contrôleur des risques à la direction des finances ;
 
 Développeur d'applications sur Info Service ;
 
