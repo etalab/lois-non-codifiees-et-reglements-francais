@@ -261,7 +261,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <p align="center">33</p>
 </td>
 <td>
-<p align="left">Gironde (1)</p>
+<p align="left">Gironde</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -343,6 +343,20 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 <td align="center">
 <p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">95</p>
+</td>
+<td>
+<p align="left">Val-d'Oise.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
