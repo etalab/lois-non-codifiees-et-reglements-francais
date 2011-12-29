@@ -440,6 +440,7 @@
 - [Décret n°2011-977 du 16 août 2011 (EFIT1103572D)](decret-n2011-977-du-16-aout-2011-efit1103572d)
 - [Décret n°2011-978 du 16 août 2011 (BCRD1101507D)](decret-n2011-978-du-16-aout-2011-bcrd1101507d)
 - [Décret n°2011-979 du 16 août 2011 (ESRH1108876D)](decret-n2011-979-du-16-aout-2011-esrh1108876d)
+- [Décret n°2011-523 du 16 mai 2011 (ETSD1111065D)](decret-n2011-523-du-16-mai-2011-etsd1111065d)
 - [Décret n°2010-1580 du 17 décembre 2010 (DEVK1020985D)](decret-n2010-1580-du-17-decembre-2010-devk1020985d)
 - [Décret n°2010-1582 du 17 décembre 2010 (IOCX1026170D)](decret-n2010-1582-du-17-decembre-2010-iocx1026170d)
 - [Décret n°2011-1309 du 17 octobre 2011 (JUSC1124616D)](decret-n2011-1309-du-17-octobre-2011-jusc1124616d)
