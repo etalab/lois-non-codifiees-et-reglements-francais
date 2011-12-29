@@ -192,7 +192,6 @@
 - [Arrêté du 9 janvier 2004 (AGRP0400050A)](arrete-du-9-janvier-2004-agrp0400050a)
 - [Arrêté du 9 janvier 2004 (DEFP0400028A)](arrete-du-9-janvier-2004-defp0400028a)
 - [Arrêté du 9 janvier 2004 (DEFP0400029A)](arrete-du-9-janvier-2004-defp0400029a)
-- [Arrêté du 9 janvier 2004 (SANY0420211A)](arrete-du-9-janvier-2004-sany0420211a)
 - [Arrêté du 9 juillet 2004 (ECOD0470016A)](arrete-du-9-juillet-2004-ecod0470016a)
 - [Arrêté du 9 juillet 2004 (ECOP0400317A)](arrete-du-9-juillet-2004-ecop0400317a)
 - [Arrêté du 9 juillet 2004 (MAEF0410050A)](arrete-du-9-juillet-2004-maef0410050a)
