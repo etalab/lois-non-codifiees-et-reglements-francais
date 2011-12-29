@@ -396,6 +396,8 @@ Bernard Dumas SA : 4, rue de la Papeterie, 24100 Creysse, de 1953 à 1987 ;
 
 Capen Deguy et Cie, quai Elissalt, Les Récollets, 64500 Ciboure : de 1966 à 1982 ;
 
+Cristallerie et verrerie d'art de Vianne SA, Avenue de la Verrerie, 47230 Vianne : De 1928 à 1996 ;
+
 Entreprise Babcock, 7, boulevard Alfred-Parent, BP 52, 47600 Nérac, de 1950 à 1996 ;
 
 Entreprise Polyrey, Usine de couze-Saint-Front, 24150 lalinde : de 1971 à 1984 ;
@@ -589,6 +591,8 @@ Bosch systèmes de freinage, ZI de Levier, BP 11, 25270 Levier : de 1982 à 1996
 Ile-de-France
 
 Allied Signal, 10, rue Blanqui, puis 13, rue Dieumegard, 93400 Saint-Ouen : de 1990 à 1994 ;
+
+ALSTHOM, puis TSO (Transformateurs de Saint-Ouen), puis ALSTHOM-ATLANTIQUE puis GEC-ALSTHOM, 25, rue des Bateliers, 93404 Saint-Ouen : de 1960 à 1997 ;
 
 Arpin, 25 à 29, quai des Grésillons, 92000 Gennevilliers : depuis sa création jusqu'en 1996 ;
 
@@ -1056,6 +1060,10 @@ Chaudronnerie Bancel, 278, chemin de la Madrague-Ville, 13015 Marseille, de 1982
 
 CMPEI, CMA, CMF, CMP, Constructions métalliques de Provence, Constructions métalliques d'Arles, Constructions métalliques de France, 1, rue Nicolas-Copernic, chemin des Moines, 13200 Arles, de 1952 à 1994 ;
 
+Delta Thermique, Montée les Mauruches Supérieures, 06225 Vallauris, puis 1955, route de Saint-Bernard, parc d'activités de Sophia-Antipolis, 06225 Vallauris Cedex : de 1979 à 1990 ;
+
+L'Electro-réfractaire, puis Société européenne des produits réfractaires (SEPR), Route nationale 7, 84130 Le Pontet : De 1965 à 1991 ;
+
 ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
 France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
@@ -1113,6 +1121,8 @@ Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, 
 Société nouvelle de gestion des établissements Coder (SNGEC) puis Titan Coder puis Société métallurgique de Saint-Marcel (SMSM) puis Société d'exploitation Saint-Marcel ferroviaire (SESMF) puis
 
 Saint-Marcel ferroviaire (SMF), 25, boulevard de Saint-Marcel, 13011 Marseille : De 1970 à 1994 ;
+
+Société provençale de matériel inoxydable (SPMI), devenue Glitsch France, puis Koch Glitsch France SARL, Chemin de Bigot, puis chemin des Moines, quartier du Trébon, 13200 Arles : De 1952 à 1996 ;
 
 SNIFI/EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994 ;
 
