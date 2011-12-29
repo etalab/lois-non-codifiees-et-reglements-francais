@@ -38,8 +38,6 @@ Au service de l'administration centrale :
 
 ― chef de la cellule de suivi personnalisé des parcours professionnels ;
 
-― chef du département de la programmation budgétaire, des achats et de la comptabilité.
-
 A la direction des services judiciaires
 
 ― adjoint au sous-directeur des ressources humaines des greffes ;

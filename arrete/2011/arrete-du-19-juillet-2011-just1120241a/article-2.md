@@ -22,4 +22,6 @@ En application de l'article 3 du décret du 28 octobre 2008 susvisé, les foncti
 
 ― chef du bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences de la protection judiciaire de la jeunesse ;
 
-― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Centre.
+― directeur de l'évaluation, de la programmation et des affaires financières en direction interrégionale Centre ;
+
+-chef du département des ressources humaines au secrétariat général.
