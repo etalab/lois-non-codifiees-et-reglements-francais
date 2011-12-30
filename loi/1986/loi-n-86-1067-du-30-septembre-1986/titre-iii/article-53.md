@@ -52,6 +52,6 @@ VI.-  Sous réserve des contraintes liées au décalage horaire de leur reprise 
 
 Au plus tard le 1er mai 2011, le Gouvernement transmet au Parlement un rapport évaluant, après consultation des organismes professionnels représentatifs du secteur de la publicité, l'incidence de la mise en œuvre du premier alinéa du présent VI sur l'évolution du marché publicitaire et la situation de l'ensemble des éditeurs de services de télévision.
 
-La mise en œuvre du premier alinéa du présent VI donne lieu à une compensation financière de l'Etat. Dans des conditions définies par chaque loi de finances, le montant de cette compensation est affecté à la société mentionnée au I de l'article 44.
+La mise en œuvre du premier alinéa du présent VI donne lieu à une compensation financière de l'Etat. Dans des conditions définies par chaque loi de finances, le montant de cette compensation est affecté à la société mentionnée au I de l'article 44. Le cas échéant, le montant de cette compensation est réduit à due concurrence du montant des recettes propres excédant le produit attendu de ces mêmes recettes tel que déterminé par le contrat d'objectifs et de moyens ou ses éventuels avenants conclus entre l'Etat et la société mentionnée au même I.
 
 VII. - A l'issue du premier exercice au cours duquel les règles mentionnées au VI sont appliquées, le Gouvernement présentera au Parlement un rapport évaluant leur incidence sur l'évolution du marché publicitaire.

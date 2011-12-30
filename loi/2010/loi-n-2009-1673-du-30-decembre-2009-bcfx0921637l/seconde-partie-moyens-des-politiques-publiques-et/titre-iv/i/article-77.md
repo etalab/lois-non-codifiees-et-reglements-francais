@@ -563,7 +563,7 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 >
 >
 >
-> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacune de ces allocations compensatrices avant leur agrégation pour former la dotation au profit des départements.
+> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacune de ces allocations compensatrices avant leur agrégation pour former la dotation au profit des départements. Au titre de 2012, cette minoration s'effectue par application à chacun de ces éléments, avant leur agrégation pour former la dotation au profit des départements, du taux d'évolution fixé pour 2011 et du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 >
 >
 >
@@ -626,7 +626,7 @@ Pour les groupements de communes percevant une part additionnelle des quatre imp
 > > Pour les dotations mentionnées aux huit derniers alinéas, le versement est limité à la durée d'application des exonérations ou des abattements prévus aux articles 1383 B, 1383 C, 1383 C bis, 1395 H et 1465 A, au I sexies de l'article 1466 A et à l'article 1466 F du code général des impôts.
 > A compter de 2011, il est appliqué une minoration aux allocations compensatrices mentionnées aux sixième, septième, huitième, neuvième, dixième, onzième, quatorzième, quinzième et seizième alinéas qui précèdent composant la dotation se substituant aux compensations de fiscalité directe locale, ainsi qu'à la partie des allocations compensatrices mentionnées au quatrième alinéa correspondant aux exonérations mentionnées au d du I de l'article 21 de la loi de finances pour 1992 (n° 91-1322 du 30 décembre 1991) et à la partie des allocations compensatrices mentionnées au cinquième alinéa correspondant aux exonérations mentionnées au IV de l'article 92 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale.
 >
-> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacun de ces éléments avant leur agrégation pour former la dotation au profit des régions.
+> Au titre de 2011, cette minoration s'effectue par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 à chacun de ces éléments avant leur agrégation pour former la dotation au profit des régions. Au titre de 2012, cette minoration s'effectue par application à chacun de ces éléments, avant leur agrégation pour former la dotation au profit des régions et de la collectivité territoriale de Corse, du taux d'évolution fixé pour 2011 et du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 >
 >
 >

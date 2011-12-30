@@ -36,7 +36,9 @@ Ces documents sont relatifs aux politiques suivantes :
 
 16° Justice des mineurs ;
 
-17° Politique du tourisme.
+17° Politique du tourisme ;
+
+18° Politique immobilière de l'Etat.
 
 Le document relatif à la politique mentionnée au 2° comporte également :
 
@@ -72,6 +74,6 @@ Le document relatif à la politique mentionnée au 7° comporte également :
 
 - tous les deux ans, une appréciation des différences de salaires et de prix à la consommation entre les collectivités territoriales ultramarines et la métropole.
 
-II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : " Relations financières avec l'Union européenne ".
+II. - Les relations financières entre la France et l'Union européenne font l'objet d'une présentation détaillée dans une annexe générale jointe au projet de loi de finances de l'année intitulée : "Relations financières avec l'Union européenne".
 
 III. Paragraphe modificateur

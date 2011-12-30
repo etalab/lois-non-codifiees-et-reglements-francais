@@ -22,4 +22,4 @@ III. ― Pour l'application du deuxième alinéa de l'article 784 du code géné
 
 ― 40 % si la donation est passée depuis neuf ans et moins de dix ans ou depuis dix ans.
 
-V. ― Le IV entre en vigueur le 1er janvier 2012.
+V. ― Le IV entre en vigueur le 1er janvier 2012. Toutefois, lorsqu'une convention de divorce a été présentée au juge avant le 30 juillet 2011, le partage donne lieu à l'acquittement du droit d'enregistrement ou de la taxe de publicité foncière prévus à l' article 746 du code général des impôts  dans sa rédaction antérieure à l'entrée en vigueur du IV du présent article, nonobstant la date de l'homologation de la convention par le juge.

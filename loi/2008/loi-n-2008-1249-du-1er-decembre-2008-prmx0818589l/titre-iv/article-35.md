@@ -10,9 +10,13 @@ I.-L'article 7 est ainsi modifié :
 
 " Au titre de l'année 2011, cette compensation est calculée sur la base des dépenses exposées par l'Etat en 2010 au titre de l'allocation de parent isolé, nettes des sommes exposées au titre de l'intéressement proportionnel et forfaitaire relevant de l'article L. 524-5 du code de la sécurité sociale dans sa rédaction applicable avant l'entrée en vigueur de la présente loi, constatées au 31 décembre 2010 par le ministre chargé de l'action sociale, et déduction faite du montant, constaté par le même ministre, des dépenses ayant incombé aux départements en 2010 au titre de l'intéressement proportionnel et forfaitaire relevant de l'article L. 262-11 du code de l'action sociale et des familles dans sa rédaction antérieure à l'entrée en vigueur de la présente loi. " ;
 
-3° Au huitième alinéa, la date : " 2009 " est remplacée par la date : " 2011 " ;
+3° Le huitième alinéa est ainsi rédigé :
 
-4° Au neuvième alinéa, la date : " 2010 " est remplacée par la date : " 2012 " ;
+" Cette compensation est ajustée au vu des sommes enregistrées pour chaque département d'outre-mer, pour Saint-Barthélemy et pour Saint-Martin dans les comptes des caisses d'allocations familiales pour les mois de décembre 2010 à novembre 2011 au titre du montant forfaitaire majoré mentionné à l'article L. 262-9 du code de l'action sociale et des familles, dans sa rédaction issue de la présente loi, et décaissées par ces mêmes collectivités entre janvier et décembre 2011, sous réserve que, pour chacune de ces collectivités, ces sommes ne soient pas inférieures au montant des dépenses exposées par l'Etat en 2010 au titre de l'allocation de parent isolé, nettes des sommes exposées au titre de l'intéressement proportionnel et forfaitaire relevant de l'article L. 524-5 du code de la sécurité sociale, dans sa rédaction applicable avant l'entrée en vigueur de la présente loi, constatées au 31 décembre 2010 par le ministre chargé de l'action sociale. ” ;
+
+4° Le neuvième alinéa est ainsi rédigé :
+
+" Au titre des années suivantes, la compensation est ajustée au vu des sommes enregistrées pour chaque département d'outre-mer, pour Saint-Barthélemy et pour Saint-Martin dans les comptes des caisses d'allocations familiales pour les mois de décembre 2011 à novembre 2012 au titre du montant forfaitaire majoré mentionné à l'article L. 262-9 du code de l'action sociale et des familles, dans sa rédaction issue de la présente loi, et décaissées par ces mêmes collectivités entre janvier et décembre 2012, sous réserve que, pour chacune de ces collectivités, ces sommes ne soient pas inférieures au montant des dépenses exposées par l'Etat en 2010 au titre de l'allocation de parent isolé, nettes des sommes exposées au titre de l'intéressement proportionnel et forfaitaire relevant de l'article L. 524-5 du code de la sécurité sociale, dans sa rédaction applicable avant l'entrée en vigueur de la présente loi, constatées au 31 décembre 2010 par le ministre chargé de l'action sociale.
 
 5° Le onzième alinéa est ainsi rédigé :
 
@@ -32,9 +36,11 @@ b) Le septième alinéa est ainsi rédigé :
 
 " Au titre de l'année 2011, la collectivité bénéficie d'une compensation prévisionnelle dont le montant est fixé par la loi de finances ; "
 
-c) Le huitième alinéa est ainsi rédigé :
+c) Les huitième et neuvième alinéas sont ainsi rédigés :
 
-" Cette compensation est ajustée au vu des dépenses constatées dans les comptes administratifs de Saint-Pierre-et-Miquelon pour l'année 2011 en faveur des bénéficiaires du montant forfaitaire majoré mentionné à l'article L. 262-9 du code de l'action sociale et des familles, dans sa rédaction issue de la présente loi, déduction faite du montant, constaté par le ministre chargé de l'action sociale, des dépenses ayant incombé à la collectivité en 2010 au titre de l'intéressement proportionnel et forfaitaire relevant de l'article L. 262-11 du code de l'action sociale et des familles dans sa rédaction antérieure à l'entrée en vigueur de la présente loi à Saint-Pierre-et-Miquelon. Cet ajustement est inscrit dans la loi de finances suivant l'établissement de ces comptes. " ;
+" Cette compensation est ajustée au vu des sommes enregistrées pour Saint-Pierre-et-Miquelon dans les comptes de la caisse de prévoyance sociale pour les mois de décembre 2010 à novembre 2011 au titre du montant forfaitaire majoré mentionné à l'article L. 262-9 du code de l'action sociale et des familles, dans sa rédaction issue de la présente loi, et décaissées par cette collectivité entre janvier et décembre 2011.
+
+" Au titre des années suivantes, la compensation est ajustée au vu des sommes enregistrées pour Saint-Pierre-et-Miquelon dans les comptes de la caisse de prévoyance sociale pour les mois de décembre 2011 à novembre 2012 au titre du montant forfaitaire majoré mentionné à l'article L. 262-9 du code de l'action sociale et des familles, dans sa rédaction issue de la présente loi, et décaissées par cette collectivité entre janvier et décembre 2012. ” ;
 
 d) Le onzième alinéa n'est pas applicable ;
 

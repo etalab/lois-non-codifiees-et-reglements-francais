@@ -6,6 +6,6 @@ La loi de finances précise chaque année, par titre et par ministère, le monta
 
 Au fur et à mesure du transfert des compétences, les charges déjà transférées font l'objet, pour le calcul de cette dotation l'année suivante, d'une actualisation par application d'un taux égal au taux de progression de la dotation globale de fonctionnement pour la même année.
 
-A l'issue de cette période, et conformément aux dispositions de l'article 5, la dotation générale de décentralisation versée à chaque collectivité évolue chaque année comme la dotation globale de fonctionnement de l'ensemble des collectivités territoriales. A titre dérogatoire, cette évolution ne s'applique pas en 2009, en 2010 et en 2011.
+A l'issue de cette période, et conformément aux dispositions de l'article 5, la dotation générale de décentralisation versée à chaque collectivité évolue chaque année comme la dotation globale de fonctionnement de l'ensemble des collectivités territoriales. Cette évolution ne s'applique pas à compter de 2009.
 
 III - Le comité des finances locales est tenu, chaque année, informé des conditions d'application du présent article.

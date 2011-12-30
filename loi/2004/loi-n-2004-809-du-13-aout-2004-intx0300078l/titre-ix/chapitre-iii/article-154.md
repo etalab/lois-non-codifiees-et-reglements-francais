@@ -27,3 +27,5 @@ D.-Au titre de 2009, les compensations calculées selon les dispositions des A, 
 E.-Au titre de 2010, les compensations calculées selon les A, B et C et auxquelles sont appliqués les taux d'évolution fixés par le D au titre de 2009 sont minorées par application des taux de minoration prévus pour cette année par l'article 47 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
 
 F. ― Au titre de 2011, les compensations calculées selon les A, B et C et auxquelles sont appliqués les taux d'évolution fixés par le D au titre de 2009 et le E au titre de 2010 sont minorées par application des taux de minoration prévus pour 2011 par l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+
+G. - Au titre de 2012, les compensations calculées selon les A, B et C, auxquelles sont appliqués les taux d'évolution fixés par le D au titre de 2009, le E au titre de 2010 et le F au titre de 2011, sont minorées par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.

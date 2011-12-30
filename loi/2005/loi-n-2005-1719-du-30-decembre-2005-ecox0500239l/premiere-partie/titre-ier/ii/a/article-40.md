@@ -18,8 +18,8 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>GAZOLE <br/>
 </th>
 <th>
-<br/>SUPERCARBURANT <p>sans plomb <br/>
-</p>
+<br/>SUPERCARBURANT <br/>
+<br/>sans plomb <br/>
 </th>
 </tr>
 <tr>
@@ -27,10 +27,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Alsace <br/>
 </td>
 <td align="center">
-<br/>4,70 <br/>
+<br/>4,72 <br/>
 </td>
 <td align="center">
-<br/>6,64 <br/>
+<br/>6,69 <br/>
 </td>
 </tr>
 <tr>
@@ -71,10 +71,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Bretagne <br/>
 </td>
 <td align="center">
-<br/>4,72 <br/>
+<br/>4,75 <br/>
 </td>
 <td align="center">
-<br/>6,67 <br/>
+<br/>6,72 <br/>
 </td>
 </tr>
 <tr>
@@ -104,10 +104,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Corse <br/>
 </td>
 <td align="center">
-<br/>9,63 <br/>
+<br/>9,71 <br/>
 </td>
 <td align="center">
-<br/>13,62 <br/>
+<br/>13,72 <br/>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>7,23 <br/>
 </td>
 <td align="center">
-<br/>10,21 <br/>
+<br/>10,23 <br/>
 </td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>4,68 <br/>
 </td>
 <td align="center">
-<br/>6,62 <br/>
+<br/>6,61 <br/>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>5,30 <br/>
 </td>
 <td align="center">
-<br/>7,48 <br/>
+<br/>7,49 <br/>
 </td>
 </tr>
 <tr>
@@ -261,8 +261,7 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>4,13 <br/>
 </td>
 <td align="center">
-<br/>5,84<br/>
-</td>
+<br/>5,84</td>
 </tr>
 </tbody>
 </table>

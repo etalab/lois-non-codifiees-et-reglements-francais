@@ -12,6 +12,9 @@ I à III.-.-A modifié les dispositions suivantes :
 
 > > Art. 21
 
+> -Loi n° 96-987 du 14 novembre 1996
+> > Art. 4
+
 > -Loi n° 2003-710 du 1 août 2003
 > > Art. 27
 
@@ -82,7 +85,7 @@ Les allocations compensatrices comprises dans cette dotation sont celles prévue
 
 2° Au II du B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002).
 
-En 2011, le montant de la dotation, avant prise en compte de l'article L. 1613-6 du code général des collectivités territoriales, est minoré par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+En 2011, le montant de la dotation, avant prise en compte de l'article L. 1613-6 du code général des collectivités territoriales, est minoré par application du taux défini au IV de l'article 51 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011. Au titre de 2012, le montant de la même dotation, à laquelle est appliqué le taux d'évolution fixé pour 2011, est minoré par application du taux prévu pour 2012 au III de l'article 33 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 > >
 

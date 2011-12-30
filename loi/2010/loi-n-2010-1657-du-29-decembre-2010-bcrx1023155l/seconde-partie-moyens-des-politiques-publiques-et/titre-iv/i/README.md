@@ -26,4 +26,3 @@ NON RATTACHÉES
 - [Article 131](article-131.md)
 - [Article 136](article-136.md)
 - [Article 137](article-137.md)
-- [Article 139](article-139.md)

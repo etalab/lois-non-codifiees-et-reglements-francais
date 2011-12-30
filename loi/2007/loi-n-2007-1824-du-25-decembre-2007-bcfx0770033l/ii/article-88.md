@@ -17,7 +17,6 @@ II. ― A modifié les dispositions suivantes :
 > >
 > >
 > >
-> >
 > > Art. 266 quater A
 
-III. ― Le II entre en vigueur à compter du 1er janvier 2012 et cesse de s'appliquer à compter du complet remboursement du principal et des intérêts de cette facilité et au plus tard le 1er janvier 2018.
+III. ― Le II entre en vigueur à compter du 1er janvier 2013 et cesse de s'appliquer à compter du complet remboursement du principal et des intérêts de cette facilité et au plus tard le 1er janvier 2018.

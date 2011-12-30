@@ -32,11 +32,11 @@ La première section, pour laquelle le ministre chargé de l'économie est ordon
 
 La seconde section, pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
 
-Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et des I et III de l'article 51 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, dans les conditions suivantes :
+Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), des I et III de l'article 51 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et du I de l'article 39 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, dans les conditions suivantes :
 
 1° Cette part est versée mensuellement, à raison d'un douzième du montant du droit à compensation du département ;
 
-2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu de solidarité active dans les conditions prévues par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
+2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu de solidarité, déterminé dans les conditions prévues par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion et par l'ordonnance n° 2011-1641 du 24 novembre 2011 portant extension et adaptation du revenu de solidarité active au Département de Mayotte, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
 
 A compter de l'année 2011, cette section retrace également le versement du produit de la cotisation sur la valeur ajoutée des entreprises prévue à l'article 1586 ter du code général des impôts perçu par chaque commune en application de l'article 1379 du même code, par chaque établissement public de coopération intercommunale à fiscalité propre en application des articles 1379-0 bis,1609 nonies C et 1609 quinquies C du même code, par chaque département en application de l'article 1586 du même code et par chaque région et par la collectivité territoriale de Corse en application de l'article 1599 bis du même code. Ce produit est versé mensuellement, à raison d'un douzième du montant dû.
 
@@ -48,13 +48,13 @@ Ce compte reprend en balance d'entrée le solde des opérations antérieurement 
 
 Ce compte comporte deux sections.
 
-La première section, dénommée : " Prêts et avances à des particuliers ou à des associations ", pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des :
+La première section, dénommée : " Prêts et avances pour le logement des agents de l'Etat ", pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des :
 
-1° Avances aux fonctionnaires de l'Etat pour l'acquisition de moyens de transport ;
+1° abrogé ;
 
 2° Avances aux agents de l'Etat pour l'amélioration de l'habitat ;
 
-3° Avances aux associations participant à des tâches d'intérêt général ;
+3° Abrogé ;
 
 4° Avances aux agents de l'Etat à l'étranger pour la prise en location d'un logement.
 
@@ -96,7 +96,7 @@ Ce compte retrace :
 
 1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 569,8 millions d'euros en 2011.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 526,4 millions d'euros en 2012.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
@@ -108,7 +108,7 @@ Le solde est versé lors des opérations de répartition des recettes arrêtées
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de contribution à l'audiovisuel public nets en 2011 sont inférieurs à 2 652 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de contribution à l'audiovisuel public nets en 2012 sont inférieurs à 2 764 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
 VII.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
