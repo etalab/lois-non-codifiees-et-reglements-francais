@@ -193,7 +193,6 @@
 - [Arrêté du 8 juillet 1993 (SPSS9301966A)](arrete-du-8-juillet-1993-spss9301966a)
 - [Arrêté du 8 juin 1993 (AGRH9301006A)](arrete-du-8-juin-1993-agrh9301006a)
 - [Arrêté du 8 juin 1993 (BUDD9370010A)](arrete-du-8-juin-1993-budd9370010a)
-- [Arrêté du 8 juin 1993 (JUSC9320443A)](arrete-du-8-juin-1993-jusc9320443a)
 - [Arrêté du 8 juin 1993 (SPSA9301735A)](arrete-du-8-juin-1993-spsa9301735a)
 - [Arrêté du 8 mars 1993 (BUDF9300014A)](arrete-du-8-mars-1993-budf9300014a)
 - [Arrêté du 8 mars 1993 (DEFD9301339A)](arrete-du-8-mars-1993-defd9301339a)

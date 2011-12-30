@@ -24,7 +24,7 @@ et ateliers de découpe d'ongulés domestiques
 
 1. Le préfet peut agréer, pour des abattages liés à une fête religieuse et pour une durée de quelques jours, des structures d'abattage temporaires, sous réserve d'une part que le demandeur démontre qu'il y a un réel besoin local en capacité d'abattage dans le département et les départements limitrophes et d'autre part que les conditions suivantes soient respectées :
 
-a) Transmission d'un dossier de demande d'agrément par l'exploitant tel que décrit en appendice 1 au minimum 3 mois avant le début de l'activité ;
+a) Transmission d'un dossier de demande d'agrément et d'autorisation de dérogation à l'obligation d'étourdissement des animaux  par l'exploitant tel que décrit en appendice 1 au minimum 3 mois avant le début de l'activité ;
 
 b) Engagement de l'opérateur de limiter ses achats d'animaux vivants au besoin en carcasses préalablement défini ;
 
@@ -153,6 +153,8 @@ bénéficiant d'un agrément temporaire
 Présentation d'un dossier de demande d'agrément au préfet du département d'implantation de la structure :
 
 Le dossier présenté par l'exploitant et déposé au minimum trois mois avant la fête religieuse doit comporter :
+
+-la demande d'autorisation à déroger à l'obligation d'étourdissement des animaux ;
 
 -la preuve de la nécessité de l'implantation d'un abattoir temporaire ;
 
