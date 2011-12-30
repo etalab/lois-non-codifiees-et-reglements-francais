@@ -959,6 +959,7 @@
 - [Décret n°2011-1418 du 31 octobre 2011 (EFIT1107334D)](decret-n2011-1418-du-31-octobre-2011-efit1107334d)
 - [Décret n°2011-1423 du 31 octobre 2011 (AGRE1121982D)](decret-n2011-1423-du-31-octobre-2011-agre1121982d)
 - [Décret n°2011-1424 du 31 octobre 2011 (ESRH1109915D)](decret-n2011-1424-du-31-octobre-2011-esrh1109915d)
+- [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
 - [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
 - [Décret n°2011-619 du 31 mai 2011 (EFII1031117D)](decret-n2011-619-du-31-mai-2011-efii1031117d)
 - [Décret n°2011-1043 du 1er septembre 2011 (JUSC1105243D)](decret-n2011-1043-du-1er-septembre-2011-jusc1105243d)
