@@ -48,6 +48,8 @@
 - [LOI n°2011-1862 du 13 décembre 2011 (JUSX1002218L)](loi-n2011-1862-du-13-decembre-2011-jusx1002218l)
 - [LOI n°2011-1898 du 20 décembre 2011 (MCCX1126723L)](loi-n2011-1898-du-20-decembre-2011-mccx1126723l)
 - [LOI n°2011-1906 du 21 décembre 2011 (BCRX1125833L)](loi-n2011-1906-du-21-decembre-2011-bcrx1125833l)
+- [LOI n°2011-1977 du 28 décembre 2011 (BCRX1125684L)](loi-n2011-1977-du-28-decembre-2011-bcrx1125684l)
+- [LOI n°2011-1978 du 28 décembre 2011 (BCRX1130599L)](loi-n2011-1978-du-28-decembre-2011-bcrx1130599l)
 - [LOI n°2011-392 du 14 avril 2011 (JUSX1022802L)](loi-n2011-392-du-14-avril-2011-jusx1022802l)
 - [LOI n°2011-803 du 5 juillet 2011 (ETSX1117295L)](loi-n2011-803-du-5-juillet-2011-etsx1117295l)
 - [LOI n°2011-850 du 20 juillet 2011 (JUSX0925423L)](loi-n2011-850-du-20-juillet-2011-jusx0925423l)

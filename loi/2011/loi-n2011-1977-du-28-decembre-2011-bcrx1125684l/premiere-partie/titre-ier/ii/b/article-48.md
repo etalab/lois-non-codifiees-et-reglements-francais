@@ -1,0 +1,3 @@
+# Article 48
+
+Pour l'année 2012 et par dérogation au second alinéa du II de l'article 49 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, le produit des amendes forfaitaires perçues par la voie de systèmes automatiques de contrôle et sanction excédant 457 millions d'euros est affecté pour moitié à la première section, intitulée « Contrôle automatisé », du compte d'affectation spéciale « Contrôle de la circulation et du stationnement routiers », dans la limite de 20 millions d'euros. Le solde de ce produit est affecté à l'Agence de financement des infrastructures de transport de France.

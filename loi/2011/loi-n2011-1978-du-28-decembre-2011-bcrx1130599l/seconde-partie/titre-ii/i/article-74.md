@@ -1,0 +1,3 @@
+# Article 74
+
+Les reliquats des redevances perçues par les exploitants de services de distribution d'eau potable en application de l'article L. 2335-10 du code général des collectivités territoriales en vigueur dans les départements d'outre-mer et à Mayotte avant le 1er janvier 2008 sont versés, dans les départements d'outre-mer concernés, aux offices de l'eau constitués en application de l'article L. 213-13 du code de l'environnement et, à Mayotte, au Département de Mayotte. Ces sommes sont recouvrées par le comptable de l'office de l'eau ou par le comptable du Département de Mayotte comme en matière de contributions directes.

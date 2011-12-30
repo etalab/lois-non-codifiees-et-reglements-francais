@@ -1,0 +1,3 @@
+# Article 156
+
+Les transferts des biens, droits et obligations des organismes collecteurs paritaires agréés visés au premier alinéa du I de l'article 43 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie effectués, jusqu'au 31 décembre 2012, à titre gratuit ou moyennant la seule prise en charge du passif ayant grevé l'acquisition des biens transférés au profit d'organismes agréés en application du second alinéa du même I ne donnent lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit, ni à aucun versement au profit des agents de l'Etat, d'honoraires ou des salaires prévus à l'article 879 du code général des impôts.
