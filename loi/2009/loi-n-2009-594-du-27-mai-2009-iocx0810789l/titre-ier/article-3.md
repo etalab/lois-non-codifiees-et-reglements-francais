@@ -6,6 +6,9 @@ L'accord régional ou territorial interprofessionnel peut prévoir de moduler le
 
 L'accord régional ou territorial interprofessionnel peut renvoyer à un accord de branche ou d'entreprise la fixation du montant du bonus exceptionnel et les critères de versement et de modulation, dans le respect des dispositions de l'alinéa précédent.
 
+Lorsque l'accord prévu au premier alinéa a été conclu pour une durée déterminée et n'a pas été prorogé au-delà du 31 décembre 2011, un accord régional de branche, conclu selon les modalités prévues à l'article L. 2232-6 du code du travail, ou un accord d'entreprise, conclu selon les modalités prévues aux articles L. 2232-12,
+L. 2232-21 ou L. 2232-24 du même code, peut permettre de verser le bonus exceptionnel prévu au premier alinéa du présent article, selon les modalités prévues au deuxième alinéa applicable à l'accord régional ou territorial interprofessionnel.
+
 Le versement des sommes ainsi déterminées doit intervenir au plus tard le 31 décembre de l'année civile au titre de laquelle les sommes sont dues, en application de l'accord régional interprofessionnel ou de l'accord de branche ou d'entreprise auquel il renvoie.
 
 II. ― Sous réserve du respect des conditions prévues au présent article, ce bonus exceptionnel est exclu de l'assiette de toutes les cotisations ou contributions d'origine légale ou conventionnelle rendues obligatoires par la loi, à l'exception des contributions définies aux articles L. 136-2 et L. 137-15 du code de la sécurité sociale et à l'article 14 de l'ordonnance n° 96-50 du 24 janvier 1996 relative au remboursement de la dette sociale dès 2009, et pour une durée maximale de trois ans.
@@ -14,4 +17,6 @@ La réduction prévue au deuxième alinéa du I de l'article L. 136-2 du code de
 
 L'employeur notifie, au plus tard le 31 décembre de l'année suivant le versement à l'organisme de recouvrement dont il relève, le montant des sommes versées aux salariés en précisant le montant par salarié.
 
-III. ― Le II est applicable à Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy.
+II bis.-La durée maximale de l'exclusion d'assiette prévue au II est portée à quatre ans.
+
+III. ― Les II et II bis sont applicables à Saint-Pierre-et-Miquelon, Saint-Martin et Saint-Barthélemy.
