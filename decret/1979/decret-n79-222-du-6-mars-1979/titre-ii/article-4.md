@@ -1,9 +1,5 @@
 # Article 4
 
-Les services occasionnels internationaux assurés par des entreprises françaises à l'aide de véhicules immatriculés en France doivent être effectués conformément à leurs inscriptions au plan départemental des transports pour des transports occasionnels, que ces inscriptions concernent des services à la place ou des services collectifs.
+a) Les services réguliers de transports internationaux de voyageurs entre Etats membres de l'Espace économique européen et la Confédération suisse sont soumis à autorisation préalable de l'autorité délivrante telle que définie à l'article 6.1 du règlement (CE) n° 1073/2009 précité ;
 
-Toutefois, s'il s'agit :
-
-a) Soit d'un circuit à portes fermées ;
-
-b) Soit d'un service comportant la prise en charge dans un port, un aéroport ou une gare ferroviaire de personnes non résidant en France en provenance directe de l'étranger et groupées par contrat de transport conclu avant leur arrivée sur le territoire français, ces services peuvent être effectués par toute entreprise, à la seule condition qu'elle soit inscrite à un plan de transport départemental pour des services occasionnels.
+b) Les autres services réguliers de transports internationaux de voyageurs sont soumis à des autorisations des autorités compétentes de chacun des Etats concernés par le transport.
