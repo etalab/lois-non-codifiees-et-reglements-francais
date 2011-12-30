@@ -14,10 +14,8 @@ A modifié les dispositions suivantes :
 > -Code de l'action sociale et des familles
 > > Art. L312-7
 
-> -Code du patrimoine.
-> > Art. L524-9
-
 > -Ordonnance n° 2004-632 du 1 juillet 2004
+
 > > Art. 34
 
 > -Loi n° 87-571 du 23 juillet 1987

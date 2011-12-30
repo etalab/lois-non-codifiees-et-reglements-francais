@@ -1,528 +1,525 @@
 # Article 87
 
-<div>
-<br/>Le plafond des autorisations d'emplois des opérateurs de l'Etat pour 2011, exprimé en équivalents temps plein, est fixé à 365 928 emplois. Ce plafond est réparti comme suit :<br/>
+Le plafond des autorisations d'emplois des opérateurs de l'Etat pour 2011, exprimé en équivalents temps plein, est fixé à 365 938 emplois. Ce plafond est réparti comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>MISSIONS ET PROGRAMMES</th>
-<th>
-<br/>PLAFOND<br/>exprimé en<br/>équivalents<br/>temps plein</th>
+<th>MISSIONS ET PROGRAMMES<br/>
+</th>
+<th>PLAFOND<br/>exprimé en<br/>équivalents<br/>temps plein<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Action extérieure de l'Etat</td>
-<td align="center">
-<br/>6 720</td>
+<td align="center">Action extérieure de l'Etat<br/>
+</td>
+<td align="center">6 720<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Diplomatie culturelle et d'influence</td>
-<td align="center">
-<br/>6 720</td>
+<td align="center">Diplomatie culturelle et d'influence<br/>
+</td>
+<td align="center">6 720<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Administration générale et territoriale de l'Etat</td>
-<td align="center">
-<br/>118</td>
+<td align="center">Administration générale et territoriale de l'Etat<br/>
+</td>
+<td align="center">118<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Administration territoriale</td>
-<td align="center">
-<br/>118</td>
+<td align="center">Administration territoriale<br/>
+</td>
+<td align="center">118<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Agriculture, pêche, alimentation,<br/>forêt et affaires rurales</td>
-<td align="center">
-<br/>16 268</td>
+<td align="center">Agriculture, pêche, alimentation,<br/>forêt et affaires rurales<br/>
+</td>
+<td align="center">16 268<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Economie et développement durable de l'agriculture, de la pêche et des territoires</td>
-<td align="center">
-<br/>4 529</td>
+<td align="center">Economie et développement durable de l'agriculture, de la pêche et des territoires<br/>
+</td>
+<td align="center">4 529<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Forêt</td>
-<td align="center">
-<br/>10 434</td>
+<td align="center">Forêt<br/>
+</td>
+<td align="center">10 434<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sécurité et qualité sanitaires de l'alimentation</td>
-<td align="center">
-<br/>1 298</td>
+<td align="center">Sécurité et qualité sanitaires de l'alimentation<br/>
+</td>
+<td align="center">1 298<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conduite et pilotage des politiques de l'agriculture</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Conduite et pilotage des politiques de l'agriculture<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aide publique au développement</td>
-<td align="center">
-<br/>28</td>
+<td align="center">Aide publique au développement<br/>
+</td>
+<td align="center">28<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Solidarité à l'égard des pays en développement</td>
-<td align="center">
-<br/>28</td>
+<td align="center">Solidarité à l'égard des pays en développement<br/>
+</td>
+<td align="center">28<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Anciens combattants,<br/>mémoire et liens avec la Nation</td>
-<td align="center">
-<br/>1 480</td>
+<td align="center">Anciens combattants,<br/>mémoire et liens avec la Nation<br/>
+</td>
+<td align="center">1 480<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Reconnaissance et réparation en faveur du monde combattant</td>
-<td align="center">
-<br/>1 480</td>
+<td align="center">Reconnaissance et réparation en faveur du monde combattant<br/>
+</td>
+<td align="center">1 480<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Culture</td>
-<td align="center">
-<br/>15 043</td>
+<td align="center">Culture<br/>
+</td>
+<td align="center">15 043<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Patrimoines</td>
-<td align="center">
-<br/>8 502</td>
+<td align="center">Patrimoines<br/>
+</td>
+<td align="center">8 502<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Création</td>
-<td align="center">
-<br/>3 618</td>
+<td align="center">Création<br/>
+</td>
+<td align="center">3 618<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Transmission des savoirs et démocratisation de la culture</td>
-<td align="center">
-<br/>2 923</td>
+<td align="center">Transmission des savoirs et démocratisation de la culture<br/>
+</td>
+<td align="center">2 923<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Défense</td>
-<td align="center">
-<br/>4 808</td>
+<td align="center">Défense<br/>
+</td>
+<td align="center">4 808<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Environnement et prospective de la politique de défense</td>
-<td align="center">
-<br/>3 610</td>
+<td align="center">Environnement et prospective de la politique de défense<br/>
+</td>
+<td align="center">3 610<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Soutien de la politique de la défense</td>
-<td align="center">
-<br/>1 198</td>
+<td align="center">Soutien de la politique de la défense<br/>
+</td>
+<td align="center">1 198<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction de l'action du Gouvernement</td>
-<td align="center">
-<br/>646</td>
+<td align="center">Direction de l'action du Gouvernement<br/>
+</td>
+<td align="center">646<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Coordination du travail gouvernemental</td>
-<td align="center">
-<br/>646</td>
+<td align="center">Coordination du travail gouvernemental<br/>
+</td>
+<td align="center">646<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ecologie, développement et aménagement durables</td>
-<td align="center">
-<br/>13 845</td>
+<td align="center">Ecologie, développement et aménagement durables<br/>
+</td>
+<td align="center">13 845<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Infrastructures et services de transports</td>
-<td align="center">
-<br/>475</td>
+<td align="center">Infrastructures et services de transports<br/>
+</td>
+<td align="center">475<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sécurité et affaires maritimes</td>
-<td align="center">
-<br/>85</td>
+<td align="center">Sécurité et affaires maritimes<br/>
+</td>
+<td align="center">85<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Météorologie</td>
-<td align="center">
-<br/>3 454</td>
+<td align="center">Météorologie<br/>
+</td>
+<td align="center">3 454<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Urbanisme, paysages, eau et biodiversité</td>
-<td align="center">
-<br/>5 685</td>
+<td align="center">Urbanisme, paysages, eau et biodiversité<br/>
+</td>
+<td align="center">5 685<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Information géographique et cartographique</td>
-<td align="center">
-<br/>1 601</td>
+<td align="center">Information géographique et cartographique<br/>
+</td>
+<td align="center">1 601<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prévention des risques</td>
-<td align="center">
-<br/>1 538</td>
+<td align="center">Prévention des risques<br/>
+</td>
+<td align="center">1 538<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Energie, climat et après-mines</td>
-<td align="center">
-<br/>488</td>
+<td align="center">Energie, climat et après-mines<br/>
+</td>
+<td align="center">488<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer</td>
-<td align="center">
-<br/>519</td>
+<td align="center">Conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer<br/>
+</td>
+<td align="center">519<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Economie</td>
-<td align="center">
-<br/>3 453</td>
+<td align="center">Economie<br/>
+</td>
+<td align="center">3 453<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Développement des entreprises et de l'emploi</td>
-<td align="center">
-<br/>3 118</td>
+<td align="center">Développement des entreprises et de l'emploi<br/>
+</td>
+<td align="center">3 118<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tourisme</td>
-<td align="center">
-<br/>335</td>
+<td align="center">Tourisme<br/>
+</td>
+<td align="center">335<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enseignement scolaire</td>
-<td align="center">
-<br/>4 886</td>
+<td align="center">Enseignement scolaire<br/>
+</td>
+<td align="center">4 886<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Soutien de la politique de l'éducation nationale</td>
-<td align="center">
-<br/>4 886</td>
+<td align="center">Soutien de la politique de l'éducation nationale<br/>
+</td>
+<td align="center">4 886<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestion des finances publiques<br/>et des ressources humaines</td>
-<td align="center">
-<br/>1 428</td>
+<td align="center">Gestion des finances publiques<br/>et des ressources humaines<br/>
+</td>
+<td align="center">1 428<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Fonction publique</td>
-<td align="center">
-<br/>1 428</td>
+<td align="center">Fonction publique<br/>
+</td>
+<td align="center">1 428<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Immigration, asile et intégration</td>
-<td align="center">
-<br/>1 277</td>
+<td align="center">Immigration, asile et intégration<br/>
+</td>
+<td align="center">1 287</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Immigration et asile</td>
-<td align="center">
-<br/>442</td>
+<td align="center">Immigration et asile<br/>
+</td>
+<td align="center">452</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Intégration et accès à la nationalité française</td>
-<td align="center">
-<br/>835</td>
+<td align="center">Intégration et accès à la nationalité française<br/>
+</td>
+<td align="center">835<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Justice</td>
-<td align="center">
-<br/>527</td>
+<td align="center">Justice<br/>
+</td>
+<td align="center">527<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Justice judiciaire</td>
-<td align="center">
-<br/>177</td>
+<td align="center">Justice judiciaire<br/>
+</td>
+<td align="center">177<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Administration pénitentiaire</td>
-<td align="center">
-<br/>239</td>
+<td align="center">Administration pénitentiaire<br/>
+</td>
+<td align="center">239<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conduite et pilotage de la politique de la justice</td>
-<td align="center">
-<br/>111</td>
+<td align="center">Conduite et pilotage de la politique de la justice<br/>
+</td>
+<td align="center">111<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Médias, livre et industries culturelles</td>
-<td align="center">
-<br/>2 769</td>
+<td align="center">Médias, livre et industries culturelles<br/>
+</td>
+<td align="center">2 769<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Livre et industries culturelles</td>
-<td align="center">
-<br/>2 769</td>
+<td align="center">Livre et industries culturelles<br/>
+</td>
+<td align="center">2 769<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Outre-mer</td>
-<td align="center">
-<br/>122</td>
+<td align="center">Outre-mer<br/>
+</td>
+<td align="center">122<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Emploi outre-mer</td>
-<td align="center">
-<br/>122</td>
+<td align="center">Emploi outre-mer<br/>
+</td>
+<td align="center">122<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche et enseignement supérieur</td>
-<td align="center">
-<br/>233 142</td>
+<td align="center">Recherche et enseignement supérieur<br/>
+</td>
+<td align="center">233 142<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Formations supérieures et recherche universitaire</td>
-<td align="center">
-<br/>142 665</td>
+<td align="center">Formations supérieures et recherche universitaire<br/>
+</td>
+<td align="center">142 665<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vie étudiante</td>
-<td align="center">
-<br/>12 727</td>
+<td align="center">Vie étudiante<br/>
+</td>
+<td align="center">12 727<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherches scientifiques et technologiques pluridisciplinaires</td>
-<td align="center">
-<br/>48 774</td>
+<td align="center">Recherches scientifiques et technologiques pluridisciplinaires<br/>
+</td>
+<td align="center">48 774<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche dans le domaine de la gestion des milieux et des ressources</td>
-<td align="center">
-<br/>17 205</td>
+<td align="center">Recherche dans le domaine de la gestion des milieux et des ressources<br/>
+</td>
+<td align="center">17 205<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche spatiale</td>
-<td align="center">
-<br/>2 417</td>
+<td align="center">Recherche spatiale<br/>
+</td>
+<td align="center">2 417<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche dans les domaines de l'énergie, du développement et de l'aménagement durables</td>
-<td align="center">
-<br/>4 856</td>
+<td align="center">Recherche dans les domaines de l'énergie, du développement et de l'aménagement durables<br/>
+</td>
+<td align="center">4 856<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche et enseignement supérieur en matière économique et industrielle</td>
-<td align="center">
-<br/>2 394</td>
+<td align="center">Recherche et enseignement supérieur en matière économique et industrielle<br/>
+</td>
+<td align="center">2 394<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Recherche culturelle et culture scientifique</td>
-<td align="center">
-<br/>1 187</td>
+<td align="center">Recherche culturelle et culture scientifique<br/>
+</td>
+<td align="center">1 187<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Enseignement supérieur et recherche agricoles</td>
-<td align="center">
-<br/>917</td>
+<td align="center">Enseignement supérieur et recherche agricoles<br/>
+</td>
+<td align="center">917<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Régimes sociaux et de retraite</td>
-<td align="center">
-<br/>440</td>
+<td align="center">Régimes sociaux et de retraite<br/>
+</td>
+<td align="center">440<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Régimes de retraite et de sécurité sociale des marins</td>
-<td align="center">
-<br/>440</td>
+<td align="center">Régimes de retraite et de sécurité sociale des marins<br/>
+</td>
+<td align="center">440<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Santé</td>
-<td align="center">
-<br/>2 657</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">2 657<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prévention, sécurité sanitaire et offre de soins</td>
-<td align="center">
-<br/>2 648</td>
+<td align="center">Prévention, sécurité sanitaire et offre de soins<br/>
+</td>
+<td align="center">2 648<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Protection maladie</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Protection maladie<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sécurité</td>
-<td align="center">
-<br/>129</td>
+<td align="center">Sécurité<br/>
+</td>
+<td align="center">129<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Police nationale</td>
-<td align="center">
-<br/>129</td>
+<td align="center">Police nationale<br/>
+</td>
+<td align="center">129<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Solidarité, insertion et égalité des chances</td>
-<td align="center">
-<br/>9 739</td>
+<td align="center">Solidarité, insertion et égalité des chances<br/>
+</td>
+<td align="center">9 739<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Actions en faveur des familles vulnérables</td>
-<td align="center">
-<br/>33</td>
+<td align="center">Actions en faveur des familles vulnérables<br/>
+</td>
+<td align="center">33<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Handicap et dépendance</td>
-<td align="center">
-<br/>266</td>
+<td align="center">Handicap et dépendance<br/>
+</td>
+<td align="center">266<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative</td>
-<td align="center">
-<br/>9 440</td>
+<td align="center">Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative<br/>
+</td>
+<td align="center">9 440<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sport, jeunesse et vie associative</td>
-<td align="center">
-<br/>976</td>
+<td align="center">Sport, jeunesse et vie associative<br/>
+</td>
+<td align="center">976<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sport</td>
-<td align="center">
-<br/>918</td>
+<td align="center">Sport<br/>
+</td>
+<td align="center">918<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Jeunesse et vie associative</td>
-<td align="center">
-<br/>58</td>
+<td align="center">Jeunesse et vie associative<br/>
+</td>
+<td align="center">58<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Travail et emploi</td>
-<td align="center">
-<br/>44 062</td>
+<td align="center">Travail et emploi<br/>
+</td>
+<td align="center">44 062<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Accès et retour à l'emploi</td>
-<td align="center">
-<br/>43 721</td>
+<td align="center">Accès et retour à l'emploi<br/>
+</td>
+<td align="center">43 721<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Accompagnement des mutations économiques et développement de l'emploi</td>
-<td align="center">
-<br/>94</td>
+<td align="center">Accompagnement des mutations économiques et développement de l'emploi<br/>
+</td>
+<td align="center">94<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Amélioration de la qualité de l'emploi et des relations du travail</td>
-<td align="center">
-<br/>78</td>
+<td align="center">Amélioration de la qualité de l'emploi et des relations du travail<br/>
+</td>
+<td align="center">78<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conception, gestion et évaluation des politiques de l'emploi et du travail</td>
-<td align="center">
-<br/>169</td>
+<td align="center">Conception, gestion et évaluation des politiques de l'emploi et du travail<br/>
+</td>
+<td align="center">169<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ville et logement</td>
-<td align="center">
-<br/>468</td>
+<td align="center">Ville et logement<br/>
+</td>
+<td align="center">468<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prévention de l'exclusion et insertion des personnes vulnérables</td>
-<td align="center">
-<br/>46</td>
+<td align="center">Prévention de l'exclusion et insertion des personnes vulnérables<br/>
+</td>
+<td align="center">46<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Développement et amélioration de l'offre de logement</td>
-<td align="center">
-<br/>152</td>
+<td align="center">Développement et amélioration de l'offre de logement<br/>
+</td>
+<td align="center">152<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Politique de la ville et Grand Paris</td>
-<td align="center">
-<br/>270</td>
+<td align="center">Politique de la ville et Grand Paris<br/>
+</td>
+<td align="center">270<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Contrôle et exploitation aériens (budget annexe)</td>
-<td align="center">
-<br/>897</td>
+<td align="center">Contrôle et exploitation aériens (budget annexe)<br/>
+</td>
+<td align="center">897<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Formation aéronautique</td>
-<td align="center">
-<br/>897</td>
+<td align="center">Formation aéronautique<br/>
+</td>
+<td align="center">897<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>   Total</td>
-<td align="center">
-<br/>365 928</td>
+<td align="center">Total<br/>
+</td>
+<td align="center">365 938</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

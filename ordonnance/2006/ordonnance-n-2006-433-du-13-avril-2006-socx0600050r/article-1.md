@@ -1,8 +1,8 @@
 # Article 1
 
-A titre expérimental, les dispositions de la présente ordonnance s'appliquent aux procédures de licenciement pour motif économique engagées entre le 15 avril 2006 et une date, fixée par décret et intervenant au plus tard le 15 août 2011 par les entreprises non soumises aux dispositions de l'article L. 321-4-3 du code du travail à l'égard des salariés de leurs établissements implantés dans les bassins d'emploi de Charleville-Mézières, Montbéliard, Morlaix, Saint-Dié-des-Vosges, Toulon, Valenciennes et Vitré.
+A titre expérimental, les dispositions de la présente ordonnance s'appliquent aux procédures de licenciement pour motif économique engagées entre le 15 avril 2006 et une date, fixée par décret et intervenant au plus tard le 31 août 2011 par les entreprises non soumises aux dispositions de l'article L. 321-4-3 du code du travail à l'égard des salariés de leurs établissements implantés dans les bassins d'emploi de Charleville-Mézières, Montbéliard, Morlaix, Saint-Dié-des-Vosges, Toulon, Valenciennes et Vitré.
 
-Elles s'appliquent également aux procédures de licenciement pour motif économique engagées pendant une période, dont les dates sont fixées par décret et qui ne peut aller au-delà du 15 août 2011 dans trente-trois bassins d'emploi caractérisés par une situation économique, démographique et sociale très défavorable pour l'emploi. La liste de ces bassins est fixée par décret.
+Elles s'appliquent également aux procédures de licenciement pour motif économique engagées pendant une période, dont les dates sont fixées par décret et qui ne peut aller au-delà du 31 août 2011 dans trente-trois bassins d'emploi caractérisés par une situation économique, démographique et sociale très défavorable pour l'emploi. La liste de ces bassins est fixée par décret.
 
 Pour l'application de la présente ordonnance, une procédure de licenciement est réputée engagée à la première des dates suivantes :
 

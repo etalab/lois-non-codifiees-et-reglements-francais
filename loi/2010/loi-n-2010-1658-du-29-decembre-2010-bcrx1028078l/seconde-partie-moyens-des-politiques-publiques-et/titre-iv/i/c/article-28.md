@@ -35,9 +35,6 @@ A modifié les dispositions suivantes :
 > -Code général des collectivités territoriales
 > > Art. L2331-5, Art. L3241-1, Art. L3332-3
 
-> -Code du patrimoine.
-> > Art. L524-7, Art. L524-8
-
 > -Code général de la propriété des personnes publiques.
 > > Art. L5112-6-1
 
@@ -89,7 +86,7 @@ I.B. ― 1. Le A du présent I est applicable aux demandes d'autorisations et au
 
 Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à compter du 1er mars 2012.
 
-2.A compter du 1er mars 2012, les échéances des taxes mentionnées aux articles 1585 A, 1559 B, 1599-0B et 1599 octies du code général des impôts et des taxes mentionnées aux articles L. 112-2 et L. 142-2 du code de l'urbanisme sont recouvrées selon les mêmes modalités que la taxe d'aménagement.
+2. (Abrogé)
 
 3. Le quatrième alinéa de l'article L. 410-1 du code de l'urbanisme n'est pas applicable, pour ce qui concerne la taxe d'aménagement, aux certificats d'urbanisme émis avant le 1er mars 2012.
 

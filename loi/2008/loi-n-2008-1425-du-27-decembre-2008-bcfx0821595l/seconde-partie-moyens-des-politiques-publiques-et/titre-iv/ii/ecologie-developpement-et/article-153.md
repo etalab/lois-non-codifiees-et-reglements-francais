@@ -1,6 +1,6 @@
 # Article 153
 
-I.A.-A modifié les dispositions suivantes :
+I. A.-A modifié les dispositions suivantes :
 
 > -Code des douanes
 > > Art. 285 septies, Sct. Chapitre II : Taxe nationale sur les véhicules de transport de marchandises., Sct. Section 1 : Champ d'application., Art. 269, Art. 270, Art. 271, Sct. Section 2 : Redevables., Art. 272, Sct. Section 3 : Fait générateur et exigibilité de la taxe., Art. 273, Sct. Section 4 : Assiette, taux et barème., Art. 274, Art. 275, Sct. Section 5 : Liquidation de la taxe., Art. 276, Art. 277, Sct. Section 6 : Paiement de la taxe., Art. 278, Art. 279, Art. 280, Sct. Section 7 : Recherche, constatation, sanction et poursuite., Art. 281, Art. 282, Art. 283
@@ -9,7 +9,7 @@ B. ― Sauf dispositions contraires, les modalités d'application du A sont fix�
 
 C. ― Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010.
 
-II.A.-A créé les dispositions suivantes :
+II. A.-A créé les dispositions suivantes :
 
 > -Code des douanes
 > > Sct. Section 8 : Affectation du produit de la taxe., Art. 283 bis, Art. 283 quater, Art. 283 ter, Sct. Section 9 : Dispositions diverses., Art. 283 quinquies
@@ -18,7 +18,7 @@ B. ― Sauf dispositions contraires, les modalités d'application du A sont fix�
 
 C. ― 1. Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2011.
 
-2.L'article 285 septies du code des douanes est abrogé à compter de la date d'entrée en vigueur de la taxe prévue au A.
+2. L'article 285 septies du code des douanes est abrogé à compter de la date d'entrée en vigueur de la taxe prévue au A.
 
 III. ― A. ― Pour l'application de la taxe sur les poids lourds prévue aux articles 269 à 283 quinquies et 285 septies du code des douanes, l'Etat est autorisé, dans les conditions définies au B, à confier à un ou plusieurs prestataires extérieurs les missions suivantes :
 
@@ -46,11 +46,11 @@ Pour l'application du 8° du présent A, le prestataire est autorisé à percevo
 
 11° L'archivage des données relatives à la collecte et au contrôle de la taxe ;
 
-12° L'information nominative délivrée au redevable, relative à la taxe due et aux manquements constatés.
+12° L'information délivrée au redevable.
 
 B. ― 1. Le prestataire assure les missions énumérées au A sous le contrôle de l'Etat. Ce contrôle comporte des investigations dans les locaux du prestataire pour s'assurer notamment de la fiabilité du dispositif technique et des traitements mis en œuvre dans l'exercice des missions.
 
-2. Les personnels du prestataire intervenant dans le cadre des missions prévues aux 4° à 6° et 8° à 11° du A et délivrant au redevable l'information nominative relative à la taxe due et aux manquements constatés sont agréés par l'administration des douanes et droits indirects et sont tenus à l'obligation du secret professionnel définie aux articles 226-13 et 226-14 du code pénal. Dans leurs relations avec les redevables ou leurs représentants, ces personnels indiquent agir pour le compte de l'Etat.
+2. Les personnels du prestataire intervenant dans le cadre des missions prévues aux 4° à 6° et 8° à 11° du A et les personnels délivrant au redevable l'information nominative relative à la taxe due et aux manquements constatés sont agréés par l'administration des douanes et droits indirects. Dans leurs relations avec les redevables ou leurs représentants, ces personnels indiquent agir pour le compte de l'Etat. Le prestataire et l'ensemble de son personnel sont tenus à l'obligation de secret professionnel définie aux articles 226-13 et 226-14 du code pénal.
 
 3. Le prestataire est titulaire d'une commission délivrée par l'administration des douanes et droits indirects dans les conditions fixées par décret en Conseil d'Etat. Il est seul responsable de la collecte de la taxe vis-à-vis de l'administration des douanes et droits indirects. Il verse au comptable des douanes désigné à cet effet, par virement, le vingt-cinquième jour du mois suivant la liquidation, la taxe facturée et, le vingt-cinquième jour du mois suivant le recouvrement, la taxe recouvrée à la suite des procédures prévues à l'article 282 et au 2 du VII de l'article 285 septies du code des douanes.
 
