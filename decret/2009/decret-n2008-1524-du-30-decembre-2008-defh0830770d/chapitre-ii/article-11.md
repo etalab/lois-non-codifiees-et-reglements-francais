@@ -1,6 +1,6 @@
 # Article 11
 
-Le contrat initial, d'une durée de deux ans, ne devient définitif qu'à l'issue d'une période probatoire de six mois.
+Le contrat initial, d'une durée de trois ans, ne devient définitif qu'à l'issue d'une période probatoire de six mois.
 
 Cette période probatoire peut être renouvelée par l'administration, une fois, pour raison de santé ou adaptation insuffisante aux fonctions.
 
