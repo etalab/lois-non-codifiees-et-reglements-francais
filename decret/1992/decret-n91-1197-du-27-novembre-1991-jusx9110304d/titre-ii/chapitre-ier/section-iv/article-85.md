@@ -18,7 +18,9 @@ L'obligation de formation continue est satisfaite :
 
 Au cours des deux premières années d'exercice professionnel, cette formation inclut dix heures au moins portant sur la déontologie. Toutefois, au cours de cette même période, les personnes mentionnées à l'article 98 doivent consacrer la totalité de leur obligation de formation à des enseignements portant sur la déontologie et le statut professionnel.
 
-A l'issue d'une période de cinq ans d'exercice professionnel, les titulaires d'une ou plusieurs mentions de spécialisation prévues à l'article 86 doivent avoir consacré le quart de la durée de leur formation continue à ce ou ces domaines de spécialisation.
+Sauf lorsqu'ils relèvent de l'obligation de formation mentionnée dans la seconde phrase de l'alinéa précédent, les titulaires d'un certificat de spécialisation prévu à l'article 86 consacrent la moitié de la durée de leur formation continue à ce ou ces domaines de spécialisation. S'ils sont titulaires de deux certificats de spécialisation, ils accomplissent dix heures au moins de formation dans chacun de ces domaines de spécialisation, soit vingt heures au cours d'une année civile et quarante heures au cours de deux années consécutives.
+
+A défaut, l'avocat perd le droit de faire usage de sa ou ses mentions de spécialisation dans les conditions prévues à l'article 92-5.
 
 Les modalités de mise en oeuvre des dispositions du présent article sont fixées par le Conseil national des barreaux.
 
