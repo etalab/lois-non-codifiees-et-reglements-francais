@@ -704,7 +704,6 @@
 - [Arrêté du 29 octobre 2002 (ECOU0200051A)](arrete-du-29-octobre-2002-ecou0200051a)
 - [Arrêté du 29 octobre 2002 (JUSB0210575A)](arrete-du-29-octobre-2002-jusb0210575a)
 - [Arrêté du 29 octobre 2002 (MENE0202482A)](arrete-du-29-octobre-2002-mene0202482a)
-- [Arrêté du 30 août 2001 (DEFP0101949A)](arrete-du-30-aout-2001-defp0101949a)
 - [Arrêté du 30 août 2001 (FPPA0100083A)](arrete-du-30-aout-2001-fppa0100083a)
 - [Arrêté du 30 août 2001 (FPPA0100084A)](arrete-du-30-aout-2001-fppa0100084a)
 - [Arrêté du 30 août 2001 (JUSA0100205A)](arrete-du-30-aout-2001-jusa0100205a)

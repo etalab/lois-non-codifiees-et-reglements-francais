@@ -50,4 +50,3 @@
 - [Décret n°74-825 du 27 septembre 1974](decret-n74-825-du-27-septembre-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
 - [Décret n°74-1205 du 31 décembre 1974](decret-n74-1205-du-31-decembre-1974)
-- [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
