@@ -10,4 +10,4 @@ b) Des actions ou des parts émises par les organismes mentionnés au 4° de l'a
 
 2. 1 % pour les valeurs mentionnées au 9° de l'article R. 931-10-21 du code de la sécurité sociale ;
 
-3. 1 % pour un même immeuble ou pour les valeurs mentionnées aux 12° à 12° ter et 12° quinquies du même article.
+3. 1 % pour un même immeuble.

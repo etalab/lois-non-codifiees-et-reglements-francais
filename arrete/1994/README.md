@@ -907,7 +907,6 @@
 - [Arrêté du 28 décembre 1994 (TEFT9401333A)](arrete-du-28-decembre-1994-teft9401333a)
 - [Arrêté du 28 février 1994 (EQUH9301669A)](arrete-du-28-fevrier-1994-equh9301669a)
 - [Arrêté du 28 février 1994 (EQUH9400282A)](arrete-du-28-fevrier-1994-equh9400282a)
-- [Arrêté du 28 février 1994 (EQUT9400298A)](arrete-du-28-fevrier-1994-equt9400298a)
 - [Arrêté du 28 février 1994 (MENA9400308A)](arrete-du-28-fevrier-1994-mena9400308a)
 - [Arrêté du 28 février 1995 (AGRA9500128A)](arrete-du-28-fevrier-1995-agra9500128a)
 - [Arrêté du 28 janvier 1994 (ENVN9430040A)](arrete-du-28-janvier-1994-envn9430040a)

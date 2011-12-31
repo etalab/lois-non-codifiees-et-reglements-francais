@@ -1,5 +1,0 @@
-# Article 7
-
-En application du paragraphe 2 (c) de l'article 7 du décret du 16 août 1985 susvisé, l'attestation de capacité professionnelle est délivrée par le préfet de la région dans laquelle le demandeur est domicilié aux candidats pouvant justifier d'une expérience professionnelle d'au moins cinq ans dans l'exercice de fonctions de direction, à condition que ces fonctions n'aient pas pris fin depuis plus de trois ans à la date de la demande, au sein d'une entreprise inscrite soit au registre des entreprises de transport public routier de personnes, soit au registre des entreprises de transport public routier de marchandises, soit au registre des entreprises de location de véhicules industriels sous réserve qu'il soit justifié des connaissances et compétences requises pour exercer une activité de transporteur public routier de personnes.
-
-Les fonctions visées à l'alinéa précédent doivent avoir consisté soit dans la direction d'une entreprise en tant que responsable d'établissement principal ou secondaire, soit dans l'emploi d'adjoint de ce dernier, soit dans un emploi de cadre responsable du département transport ou location de l'entreprise.

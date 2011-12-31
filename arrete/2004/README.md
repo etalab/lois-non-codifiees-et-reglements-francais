@@ -119,7 +119,6 @@
 - [Arrêté du 6 décembre 2004 (FPPA0410102A)](arrete-du-6-decembre-2004-fppa0410102a)
 - [Arrêté du 6 décembre 2004 (MJSK0470239A)](arrete-du-6-decembre-2004-mjsk0470239a)
 - [Arrêté du 6 février 2004 (SANS0420658A)](arrete-du-6-fevrier-2004-sans0420658a)
-- [Arrêté du 6 janvier 1993 (EQUT9201025A)](arrete-du-6-janvier-1993-equt9201025a)
 - [Arrêté du 6 janvier 2004 (DEVG0320378A)](arrete-du-6-janvier-2004-devg0320378a)
 - [Arrêté du 6 janvier 2004 (JUSA0400012A)](arrete-du-6-janvier-2004-jusa0400012a)
 - [Arrêté du 6 juillet 2004 (MENA0401983A)](arrete-du-6-juillet-2004-mena0401983a)

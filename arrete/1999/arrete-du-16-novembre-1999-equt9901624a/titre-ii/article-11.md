@@ -4,4 +4,4 @@ Le bénéfice des dispositions d'un accord bilatéral ou d'un acte équivalent s
 
 Lorsqu'un accord bilatéral prévoit que les autorisations sont accompagnées d'un compte rendu de voyage, celui-ci doit être complété par le transporteur avant chaque voyage effectué en charge ou à vide.
 
-La liste des Etats avec lesquels la France a conclu un accord bilatéral ou un acte équivalent pour le transport routier international est présentée à l'annexe V du présent arrêté (1).
+La liste des Etats avec lesquels la France a conclu un accord bilatéral ou un acte équivalent pour le transport routier international fait l'objet d'une annexe publiée, par décision du directeur chargé des transports routiers, au Bulletin officiel cité à l'article 5 du présent arrêté. (1)

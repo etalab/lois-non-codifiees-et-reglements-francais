@@ -615,7 +615,6 @@
 - [Arrêté du 29 mars 1999 (MESS9920640A)](arrete-du-29-mars-1999-mess9920640a)
 - [Arrêté du 29 mars 1999 (MESS9920990A)](arrete-du-29-mars-1999-mess9920990a)
 - [Arrêté du 29 mars 1999 (MESS9920991A)](arrete-du-29-mars-1999-mess9920991a)
-- [Arrêté du 29 novembre 1999 (EQUT9901626A)](arrete-du-29-novembre-1999-equt9901626a)
 - [Arrêté du 29 novembre 1999 (INTE9900587A)](arrete-du-29-novembre-1999-inte9900587a)
 - [Arrêté du 29 octobre 1999 (MCCE9900728A)](arrete-du-29-octobre-1999-mcce9900728a)
 - [Arrêté du 29 septembre 1999 (ECOT9920049A)](arrete-du-29-septembre-1999-ecot9920049a)
