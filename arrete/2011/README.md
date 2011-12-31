@@ -2918,7 +2918,6 @@
 - [Arrêté du 30 décembre 2010 (IOCJ1017174A)](arrete-du-30-decembre-2010-iocj1017174a)
 - [Arrêté du 30 décembre 2010 (JUSF1100227A)](arrete-du-30-decembre-2010-jusf1100227a)
 - [Arrêté du 30 décembre 2010 (JUSF1100228A)](arrete-du-30-decembre-2010-jusf1100228a)
-- [Arrêté du 30 décembre 2010 (SCSS1030253A)](arrete-du-30-decembre-2010-scss1030253a)
 - [Arrêté du 30 décembre 2010 (SCSS1030282A)](arrete-du-30-decembre-2010-scss1030282a)
 - [Arrêté du 30 décembre 2010 (SCSS1030294A)](arrete-du-30-decembre-2010-scss1030294a)
 - [Arrêté du 30 décembre 2010 (SCSS1030884A)](arrete-du-30-decembre-2010-scss1030884a)
