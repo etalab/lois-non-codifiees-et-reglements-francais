@@ -8,6 +8,6 @@ L'examen des titres prévu à l'alinéa précédent comprend :
 
 2° Une audition par le comité de sélection de ceux des candidats dont les mérites sont jugés satisfaisants à l'issue de cet examen.
 
-Par dérogation à l'article 2 du décret du 27 novembre 1985 susvisé, le comité de sélection interministériel précité se prononce sur la recevabilité de la candidature des fonctionnaires ou agents d'une organisation internationale intergouvernementale.
+Le comité de sélection interministériel précité se prononce sur la recevabilité de la candidature des fonctionnaires ou agents d'une organisation internationale intergouvernementale.
 
 Un arrêté du ministre chargé de la fonction publique fixe, d'une part, les modalités de l'examen des titres professionnels et de l'établissement de la liste d'aptitude prévue ci-dessus, d'autre part, l'organisation et le fonctionnement du comité de sélection interministériel qui comprend des membres ayant voix délibérative et des membres ayant voix consultative.

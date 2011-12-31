@@ -12,6 +12,6 @@ II. ― Toutefois, pour deux inspecteurs de 1re classe nommés parmi les inspect
 
 4° Les directeurs et les praticiens-conseils des organismes de sécurité sociale mentionnés à l'article 63 de la loi du 13 août 2004 susvisée ;
 
-5° Les fonctionnaires ou agents d'une catégorie équivalente à la catégorie A, en fonctions dans les organisations internationales intergouvernementales et ayant reçu l'avis de la commission interministérielle mentionnée à l'article 2 du décret du 27 novembre 1985 susvisé.
+5° Les fonctionnaires ou agents d'une catégorie équivalente à la catégorie A, en fonctions dans les organisations internationales intergouvernementales.
 
 III. ― Si au cours d'une année civile le nombre d'inspecteurs de 1re classe nommés parmi les inspecteurs de 2e classe est inférieur à deux ou n'est pas un multiple de deux, le reste est ajouté au nombre d'inspecteurs de 1re classe recrutés dans les mêmes conditions l'année suivante pour le calcul des nominations à prononcer au titre de cette nouvelle année d'application du présent article.
