@@ -1,6 +1,6 @@
 # Article 6
 
-Le congé spécial prévu à l'article 99 de la loi du 26 janvier 1984 susmentionnée peut être accordé si le fonctionnaire qui en fait la demande compte au moins vingt ans de services civils et militaires valables pour le calcul de ses droits à pension, est âgé d'au moins cinquante-cinq ans et occupe son emploi depuis deux ans au moins.
+Le congé spécial prévu à l'article 99 de la loi du 26 janvier 1984 susmentionnée peut être accordé si le fonctionnaire qui en fait la demande compte au moins vingt ans de services civils et militaires valables pour le calcul de ses droits à pension, est à moins de cinq ans de son âge d'ouverture du droit à une pension de retraite et occupe son emploi depuis deux ans au moins.
 
 Ce congé est accordé de droit dans les mêmes conditions au fonctionnaire qui en fait la demande en application de l'article 53 de la loi du 26 janvier 1984 précitée sans toutefois que puisse lui être opposée la condition d'une occupation de son emploi depuis deux ans au moins.
 
