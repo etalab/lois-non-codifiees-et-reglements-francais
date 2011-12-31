@@ -1,0 +1,5 @@
+# Article 15
+
+I. ― En application du dernier alinéa du VII de l'article 7 du décret du 16 août 1985, l'attestation de capacité professionnelle en transport routier de personnes avec des véhicules n'excédant pas neuf places, y compris le conducteur, est délivrée par le préfet de la région concernée, en fonction du justificatif d'adresse prévu à l'article 16 lorsque le demandeur fournit la preuve qu'il a dirigé de manière continue et principale une entreprise de transport public routier de personnes durant deux années sous réserve qu'il n'ait pas cessé cette activité depuis plus de dix ans.
+
+II. ― En application du cinquième alinéa du VI de l'article 9 du décret du 30 août 1999 susvisé, l'attestation de capacité professionnelle en transport léger de marchandises est délivrée par le préfet de la région concernée, en fonction du justificatif d'adresse prévu à l'article 16 le demandeur fournit la preuve qu'il a dirigé de manière continue, dans le secteur du transport public routier de marchandises, une entreprise de transport léger de marchandises durant deux années, sous réserve qu'il n'ait pas cessé cette activité depuis plus de dix ans.

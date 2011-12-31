@@ -56,7 +56,7 @@ Institut français de recherche en Afrique.
 
 MAROC
 
-Centre d'études en sciences humaines et sociales de Rabat (Jacques Berque).
+Institut français du Maroc (dont antennes à Agadir, Casablanca, Fès, Kenitra, Marrakech, Meknès, Oujda, Tanger et Tétouan).
 
 MEXIQUE
 
@@ -122,17 +122,7 @@ Institut français d'Afrique du Sud.
 
 ALGÉRIE
 
-Centre culturel français d'Alger.
-
-Centre culturel français d'Annaba.
-
-Centre culturel français de Constantine.
-
-Centre culturel français d'Oran.
-
-Centre culturel français de Tizi-Ouzou.
-
-Centre culturel français de Tlemcen.
+Institut français d'Algérie (dont antennes à Annaba, Constantine, Oran, Tizi-Ouzou, Tlemcen).
 
 ALLEMAGNE
 
@@ -186,9 +176,7 @@ Institut français du Cambodge (dont antennes à Battambang et Siem Reap).
 
 CAMEROUN
 
-Centre culturel de Yaoundé (François Villon).
-
-Centre culturel de Douala (Blaise Cendrars).
+Institut français du Cameroun (dont antenne à Douala).
 
 CANADA
 
@@ -216,9 +204,7 @@ Centre pour les études en France de Bogota (dont antenne à Lima/Pérou).
 
 RÉPUBLIQUE DU CONGO
 
-Institut français du Congo.
-
-Centre culturel de Pointe-Noire.
+Institut français du Congo (dont antenne à Pointe-Noire).
 
 RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
 
@@ -254,13 +240,7 @@ Institut français d'Egypte (dont antennes à Alexandrie, Héliopolis et au Cair
 
 ESPAGNE
 
-Institut français de Barcelone.
-
-Institut français de Madrid (dont antenne à Bilbao).
-
-Institut français de Saragosse.
-
-Institut français de Valence.
+Institut français d'Espagne (dont antennes à Barcelone, Bilbao, Saragosse, Valence).
 
 ESTONIE
 
@@ -308,13 +288,7 @@ Institut français en Inde (dont antennes à Ahmedabad, Bangalore, Bombay, Calcu
 
 INDONÉSIE
 
-Centre culturel français de Bandung.
-
-Institut français d'Indonésie (dont antenne à Wigaya).
-
-Centre culturel français de Surabaya.
-
-Centre culturel français de Yogyakarta.
+Institut français d'Indonésie et ses antennes à Wigaya, à Bandung dénommée "Centre culturel français de Bandung”, à Surabaya dénommée "Centre culturel français de Surabaya”, à Yogyakarta dénommée "Centre culturel français de Yogyakarta".
 
 IRAK
 
@@ -326,19 +300,11 @@ Institut français de Téhéran.
 
 ISRAËL
 
-Centre culturel français d'Haïfa et de Nazareth.
-
-Institut français d'Israël (dont antenne à Beersheva et du Néguev).
+Institut français d'Israël (dont antennes à Haïfa, Nazareth, Beersheva et du Néguev).
 
 ITALIE
 
-Institut français de Florence.
-
-Centre culturel français de Milan.
-
-Institut français de Naples.
-
-Bureau de coopération linguistique et artistique (BCLA) de Rome (dont antennes à Bologne, Palerme, Turin et Venise).
+Institut français d'Italie (dont antennes à Bologne, Florence, Milan, Naples, Palerme, Turin et Venise).
 
 JAPON
 
@@ -350,9 +316,7 @@ Institut franco-japonais de Tokyo (dont antenne à Yokohama).
 
 JÉRUSALEM
 
-Centre culturel français Chateaubriand (dont antennes à Gaza, Naplouse et Ramallah).
-
-Centre culturel français Romain-Gary.
+Institut français de Jérusalem (dont antennes à Jérusalem Ouest, Gaza, Naplouse et Ramallah).
 
 JORDANIE
 
@@ -392,29 +356,13 @@ Institut français de Madagascar (dont antennes à Antsirabe, Diégo-Suarez, Tam
 
 MALAWI
 
-Centre culturel français de Blantyre.
-
 MALI
 
 Institut français du Mali.
 
 MAROC
 
-Institut français d'Agadir.
-
-Institut français de Casablanca.
-
-Institut français de Fès.
-
-Institut français de Marrakech.
-
-Institut français de Meknès.
-
-Institut français d'Oujda.
-
-Institut français de Rabat (dont antenne à Kenitra).
-
-Institut français de Tanger (dont antenne à Tétouan).
+Institut français du Maroc (dont antennes à Agadir, Casablanca, Fès, Kenitra, Marrakech, Meknès, Oujda, Tanger et Tétouan).
 
 MAURICE
 
@@ -450,11 +398,7 @@ Institut français des Pays-Bas (dont antenne à Groningue).
 
 POLOGNE
 
-Institut français de Cracovie.
-
-Institut français de Varsovie (dont antennes à Poznan et Wroclaw).
-
-Centre de civilisation française et d'études francophones (CCFEF) auprès de l'université de Varsovie.
+Institut français de Pologne (dont antennes à Cracovie, Poznan et Wroclaw).
 
 PORTUGAL
 
@@ -466,13 +410,7 @@ Institut français du Qatar.
 
 ROUMANIE
 
-Institut français de Bucarest.
-
-Centre culturel français de Cluj-Napoca.
-
-Centre culturel français de Iasi.
-
-Centre culturel français de Timisoara.
+Institut français de Roumanie (dont antennes à Cluj-Napoca, Iasi et Timisoara).
 
 ROYAUME-UNI
 
@@ -480,9 +418,7 @@ Institut français du Royaume-Uni (dont antenne Institut français d'Ecosse).
 
 RUSSIE
 
-Institut français de Russie.
-
-Institut français de Saint-Pétersbourg.
+Institut français de Russie (dont antenne à Saint-Pétersbourg).
 
 RWANDA
 
@@ -510,7 +446,7 @@ Institut français de Slovénie.
 
 SOUDAN
 
-Institut français du Soudan (dont antenne à Juba).
+Institut français régional du Soudan (dont antenne à Juba).
 
 SUÈDE
 

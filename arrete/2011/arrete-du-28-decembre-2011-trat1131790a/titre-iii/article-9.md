@@ -1,0 +1,3 @@
+# Article 9
+
+Conformément à l'article 8 du décret du 28 décembre 2011 susvisé, les entreprises inscrites au registre électronique national des entreprises de transport par route à la date de publication de ce décret se voient attribuer, selon le cas, une autorisation d'exercer la profession de transporteur public routier de marchandises, de déménagement ou de loueur de véhicules industriels avec conducteur destinés au transport de marchandises, ou une autorisation d'exercer la profession de transporteur public routier de personnes, dès lors qu'elles satisfont aux exigences posées par le décret du 16 août 1985 ou par le décret du 30 août 1999 susvisés.

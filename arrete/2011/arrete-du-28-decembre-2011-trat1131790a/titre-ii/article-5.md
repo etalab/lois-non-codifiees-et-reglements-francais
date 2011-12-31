@@ -1,0 +1,3 @@
+# Article 5
+
+Dans le cas où l'une des personnes physiques mentionnées au I de l'article 6 du décret du 16 août 1985 ou au I de l'article 7 du décret du 30 août 1999 susvisés réside en France depuis moins de cinq ans et dont le ou les Etats de ses résidences précédentes durant les cinq dernières années est ou sont membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, la demande d'autorisation d'exercer la profession est complétée d'un document délivré depuis moins de trois mois par une autorité judiciaire ou administrative de ce ou de ces Etats attestant que cette personne y satisfait à la condition d'honorabilité professionnelle.
