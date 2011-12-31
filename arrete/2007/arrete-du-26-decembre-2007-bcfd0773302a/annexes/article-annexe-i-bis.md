@@ -14,11 +14,11 @@ I.-Détail des opérations relatives aux livraisons de tabac :
 
 3. Remise brute due aux débitants au titre des cigares et cigarillos (10, 588 %) : €
 
-4. Remise brute due aux débitants au titre des autres produits du tabac (11, 253 %) : €
+4. Remise brute due aux débitants au titre des autres produits du tabac (11, 387 %) : €
 
 5. Remise nette due aux débitants au titre des cigares et cigarillos (8, 236 %) : €
 
-6. Remise nette due aux débitants au titre des autres produits du tabac (8, 666 %) : €
+6. Remise nette due aux débitants au titre des autres produits du tabac (8, 80 %) : €
 
 7. Précompte dû au titre des cigares et des cigarillos (2, 352 %) : €
 
