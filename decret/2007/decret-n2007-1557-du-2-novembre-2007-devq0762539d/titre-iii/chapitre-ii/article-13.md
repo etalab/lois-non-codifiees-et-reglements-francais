@@ -1,10 +1,10 @@
 # Article 13
 
-I.-Le préfet soumet la demande d'autorisation et le dossier dont elle est assortie à enquête publique dans les conditions prévues par les articles R. 123-1 à R. 123-23 du code de l'environnement, sous réserve des dispositions particulières du présent article.
+I.-Le préfet soumet la demande d'autorisation et le dossier dont elle est assortie à enquête publique dans les conditions prévues par les articles R. 123-1 à R. 123-27 du code de l'environnement, sous réserve des dispositions particulières du présent article.
 
 L'enquête est ouverte au moins dans chacune des communes dont une partie du territoire est distante de moins de cinq kilomètres du périmètre proposé par l'exploitant.
 
-Le dossier d'enquête publique mentionné au 1° du II de l'article R. 123-6 du code de l'environnement comprend le dossier transmis en application de l'article 12 ci-dessus, à l'exception du rapport préliminaire de sûreté, et, si ces avis ont été émis avant l'ouverture de l'enquête publique, l'avis de l'Autorité de sûreté nucléaire rendu en application de l'article 6 et, le cas échéant, l'avis de l'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article L. 122-1 du code de l'environnement.
+Le dossier d'enquête publique comprend le dossier transmis en application de l'article 12 ci-dessus, à l'exception du rapport préliminaire de sûreté, les autres éléments requis par l'article R. 123-8 du code de l'environnement et, si ces avis ont été émis avant l'ouverture de l'enquête publique, l'avis de l'Autorité de sûreté nucléaire rendu en application de l'article 6 et, le cas échéant, l'avis de l'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article L. 122-1 du code de l'environnement.
 
 Le rapport préliminaire de sûreté peut être consulté par le public pendant toute la durée de l'enquête publique selon les modalités fixées par l'arrêté organisant l'enquête.
 
