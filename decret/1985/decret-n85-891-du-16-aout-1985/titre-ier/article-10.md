@@ -1,3 +1,3 @@
 # Article 10
 
-Les personnes inscrites au registre sont tenues de porter à la connaissance du préfet de région, dans un délai de deux mois, tout changement de nature à modifier leur situation au regard de l'inscription.
+Les entreprises qui disposent d'une autorisation d'exercer la profession de transporteur public routier de personnes notifient au préfet de région, dans un délai de vingt-huit jours, tout changement de nature à modifier leur situation au regard des données mentionnées aux points a à d de l'article 16,  paragraphe 2, du règlement (CE) n° 1071/2009 précité

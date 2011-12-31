@@ -32,7 +32,7 @@ b) Les marchandises sont transportées pour les besoins de la production agricol
 
 c) Le transport n'est que l'accessoire et le complément de l'activité du groupement ou de celle de ses membres ;
 
-4° Transports de marchandises exécutés par des transporteurs publics routiers de personnes au moyen de véhicules destinés au transport de personnes, à l'occasion de services réguliers ou à la demande ;
+4° Transports de marchandises exécutés, de manière accessoire, par des transporteurs publics routiers de personnes au moyen de véhicules destinés au transport de personnes, à l'occasion de services réguliers ou à la demande ;
 
 5° Transports exécutés au moyen de véhicules et matériels agricoles, matériels forestiers, matériels de travaux publics et engins spéciaux mentionnés à l'article R. 311-1 du code de la route, dont l'intervention est nécessaire pour la mise en oeuvre des matériaux qu'ils transportent ;
 
@@ -40,4 +40,6 @@ c) Le transport n'est que l'accessoire et le complément de l'activité du group
 
 7° Transports sur route de wagons de chemin de fer exécutés par des véhicules aménagés spécialement à cet effet ;
 
-8° Transports exécutés par La Poste au moyen de ses véhicules pour ses missions de service public.
+8° Transports exécutés par La Poste au moyen de ses véhicules pour ses missions de service universel postal ;
+
+9°  Transports de médicaments, d'appareils et d'équipements médicaux ainsi  que d'autres articles nécessaires en cas de secours d'urgence, notamment  en cas de catastrophes naturelles.

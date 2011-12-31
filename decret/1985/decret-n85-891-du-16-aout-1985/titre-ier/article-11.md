@@ -1,15 +1,29 @@
 # Article 11
 
-L'inscription au registre donne lieu à la délivrance par le préfet de région de l'un des deux types de licences suivantes :
+I. - Lorsqu'une entreprise ne satisfait plus à l'une des exigences d'accès à la profession de transporteur public routier de personnes ou lorsqu'elle a fourni des informations inexactes relatives à ces exigences, le préfet de région avise le responsable de l'entreprise de celle des exigences à laquelle son entreprise ne satisfait plus ainsi que des mesures susceptibles d'être prises à son encontre et, après l'avoir informé de la possibilité de présenter ses observations écrites ou orales, le cas échéant assisté par un conseil ou représenté par un mandataire de son choix, le met en demeure de régulariser sa situation dans les délais suivants :
 
-a) Une licence communautaire lorsque l'entreprise utilise des autobus ou des autocars à l'exception des entreprises inscrites en application des dispositions du b ou du d de l'article 5 ci-dessus ;
+1° Un délai maximum de neuf mois en cas d'incapacité physique ou de décès du gestionnaire de transport ;
 
-b) Une licence de transport intérieur lorsque l'entreprise utilise des véhicules autres que des autobus ou des autocars ou lorsqu'elle est inscrite au registre en application du 4 ou du 5 de l'article 5 ci-dessus, ou lorsqu'elle déclare limiter son activité au seul département ou à la seule région d'outre-mer où elle est implantée.
+2° Un délai maximum de six mois en cas de perte d'honorabilité du gestionnaire de transport ou du responsable de l'entreprise ou lorsque le gestionnaire de transport ne peut plus se prévaloir de sa capacité professionnelle en raison d'une déclaration d'inaptitude ;
 
-Une licence de transport intérieur est délivrée aux entreprises titulaires d'une licence communautaire, lorsque celles-ci utilisent également des véhicules autres que des autobus ou des autocars.
+3° Un délai maximum de six mois pour régulariser sa situation au regard de l'exigence d'établissement ;
 
-La licence, établie au nom de l'entreprise, lui est délivrée pour une durée de cinq ans renouvelable. Elle est accompagnée d'autant de copies conformes numérotées que l'entreprise peut utiliser de véhicules en application des dispositions de l'article 6-1 ci-dessus. L'original de la licence est conservé dans les locaux de l'entreprise et doit être restitué au préfet de région, ainsi que l'ensemble des copies conformes, à la fin de sa période de validité ou lorsque l'entreprise est radiée du registre des transporteurs.
+4° Un délai maximum de six mois afin qu'elle démontre qu'elle sera en mesure de satisfaire à nouveau l'exigence de capacité financière de façon permanente dans un délai raisonnable, fixé par arrêté du ministre chargé des transports, compte tenu de la situation de l'entreprise.
 
-Au plus tard le 15 janvier de chaque année, le préfet informe le ministre chargé des transports du nombre d'entreprises titulaires de la licence communautaire ou de la licence de transport intérieur au 31 décembre de l'année écoulée, ainsi que du nombre de copies conformes de ces licences en cours de validité.
+II. - Lorsque le responsable de l'entreprise ne s'est pas conformé à la mise en demeure à l'issue de l'un ou l'autre des délais prévus aux 1°, 2° ou 3° du I, le préfet de région peut suspendre, pour une durée maximale de six mois, l'autorisation d'exercer la profession de transporteur public routier de personnes.
 
-Les modalités d'application du présent article sont précisées par arrêté du ministre chargé des transports.
+Lorsque le responsable de l'entreprise ne peut démontrer, à l'issue du délai pendant lequel son autorisation a été suspendue, que l'entreprise a régularisé sa situation au regard des exigences ou des événements mentionnés aux 1°, 2° ou 3° du I, le préfet de région peut lui retirer l'autorisation d'exercer la profession.
+
+III. - Lorsque le responsable de l'entreprise ne s'est pas conformé à la mise en demeure à l'issue du délai prévu au 4° du I, le préfet de région peut :
+
+1° Lorsque le responsable de l'entreprise ne fournit aucun élément, lui retirer l'autorisation d'exercer la profession de transporteur public routier de personnes ;
+
+2° Lorsque le responsable de l'entreprise fournit des éléments relatifs à l'évolution de la situation financière de l'entreprise au regard de l'exigence de capacité financière, ajuster le nombre de copies certifiées conformes de la licence détenues par l'entreprise ou lui retirer l'autorisation d'exercer la profession de transporteur public routier de personnes si les éléments fournis ne sont pas susceptibles de permettre à l'entreprise de satisfaire à l'exigence de capacité financière.
+
+IV. - La décision de suspension de l'autorisation d'exercer la profession de transporteur public routier de personnes entraîne le retrait temporaire de la licence communautaire ou de la licence de transport intérieur mentionnées à l'article 9 et celui des copies certifiées conformes correspondantes.
+
+A défaut de restitution par l'entreprise de ses titres de transport dans le délai de quinze jours à compter de la réception de la décision de suspension, le préfet de région lui retire l'autorisation d'exercer la profession de transporteur public routier de personnes et la radie du registre électronique national des entreprises de transport par route.
+
+Lorsque l'autorisation d'exercer la profession donnée à l'entreprise a été suspendue et que celle-ci satisfait à nouveau aux exigences prévues aux articles 5-1 à 7, le préfet de région rapporte la décision de suspension de l'autorisation d'exercer la profession de transporteur public routier de personnes et restitue à l'entreprise sa licence et un nombre de copies certifiées conformes de licence correspondant au montant de sa capacité financière.
+
+V. - La décision de retrait de l'autorisation d'exercer la profession de transporteur public routier de personnes entraîne la radiation de l'entreprise du registre électronique national des entreprises de transport par route ainsi que le retrait de la licence communautaire ou de la licence de transport intérieur mentionnées à l'article 9 et celui des copies certifiées conformes correspondantes.

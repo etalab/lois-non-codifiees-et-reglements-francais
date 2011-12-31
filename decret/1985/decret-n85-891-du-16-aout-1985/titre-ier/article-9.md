@@ -1,7 +1,11 @@
 # Article 9
 
-1. Sous réserve des dispositions de l'article 8, les entreprises sont radiées du registre des entreprises de transport public routier de personnes par le préfet de région lorsqu'il n'est plus satisfait à l'une des conditions requises lors de leur inscription à ce registre. La radiation ne peut être prononcée qu'après une mise en demeure demeurée sans effet, invitant l'entreprise à régulariser dans un délai de trois mois sa situation au regard de la condition à laquelle il a cessé d'être satisfait.
+L'inscription au registre donne lieu à la délivrance par le préfet de région des licences suivantes :
 
-" Il est fait rapport semestriellement à la commission des sanctions administratives placée auprès du préfet de région  des radiations d'entreprises intervenues dans les conditions mentionnées ci-dessus.
+a) Une licence communautaire lorsque l'entreprise utilise un ou plusieurs autobus ou autocars, sous réserve, d'une part, de ne pas être inscrite au registre en application de l'article 5 et d'autre part, pour l'entreprise établie en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte, de ne pas avoir déclaré limiter son activité à la seule collectivité d'outre-mer où elle est établie ;
 
-" 2. Il est également mis fin à l'inscription au registre lorsque, pour quelque motif que ce soit, cesse l'activité de transport public routier de personnes, ou, que disparaît l'établissement de l'entreprise dans le département. "
+b) Une licence de transport intérieur lorsque l'entreprise utilise un ou plusieurs véhicules autres que des autobus ou des autocars, ou lorsqu'elle est inscrite au registre en application de l'article 5, ou lorsqu'elle déclare limiter son activité à la seule collectivité d'outre-mer où elle est établie.
+
+La licence communautaire ou de transport intérieur, établie au nom de l'entreprise, lui est délivrée pour une durée maximale de dix ans renouvelable et ne peut faire l'objet d'aucun transfert à un tiers. Elle est accompagnée de copies certifiées conformes numérotées dont le nombre correspond à celui des véhicules visés au IV de l'article 6-1.
+
+L'original de la licence est conservé dans l'établissement de l'entreprise mentionné à l'article 5-1. Il doit être restitué au préfet de région, ainsi que l'ensemble de ses copies certifiées conformes, à la fin de la période de validité de la licence ou lorsque l'autorisation d'exercer la profession a été suspendue ou retirée.

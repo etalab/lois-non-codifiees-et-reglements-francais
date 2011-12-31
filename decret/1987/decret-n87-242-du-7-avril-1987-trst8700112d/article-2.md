@@ -8,6 +8,6 @@ b) Les transports organisés par les établissements publics départementaux ou 
 
 c) Les transports mentionnés à l'article R. 213-17 du code de l'éducation ;
 
-d) Les transports organisés par des entreprises pour leur clientèle, sous réserve des dispositions de l'article 40 de la loi n° 73-1193 du 27 décembre 1973 ;
+d) Les transports organisés par des entreprises pour leur clientèle, sous réserve des dispositions de l' article L. 121-35 du code de la consommation ;
 
 e) Les transports organisés par des associations pour leurs membres, sous réserve que ces déplacements soient en relation directe avec l'objet statutaire de l'association et qu'il ne s'agisse pas d'une association dont l'objet principal est le transport de ses membres ou l'organisation de voyages touristiques.

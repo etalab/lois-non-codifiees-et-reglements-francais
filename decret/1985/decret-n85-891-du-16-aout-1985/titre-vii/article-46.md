@@ -14,6 +14,4 @@ e) Le fait de ne pas conserver dans l'entreprise de transport public routier de 
 
 f) Le fait d'exécuter, à l'occasion d'un service régulier de transport routier international de voyageurs, une ou plusieurs dessertes intérieures régulières d'intérêt national n'ayant pas fait l'objet d'une autorisation de l'Etat.
 
-II. - Est puni de l'amende prévue pour les contraventions de la 4e classe le fait de ne pas mentionner le nom ou le sigle de l'entreprise de transport, dans un endroit apparent, sur les véhicules affectés à des services de transport public routier de personnes.
-
-<div/>
+<div>II. - Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de ne pas apposer de façon apparente sur le véhicule la signalétique prévue au III de l'article 45, ou d'omettre de la retirer ou de l'occulter si le véhicule est utilisé pour une activité autre que celle de transport public routier collectif de personnes, ou de ne pas mentionner le nom ou le sigle de l'entreprise de transport dans un endroit apparent sur les véhicules affectés à des services de transport public routier collectif de personnes. </div>

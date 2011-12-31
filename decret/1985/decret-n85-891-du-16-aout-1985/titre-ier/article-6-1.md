@@ -1,9 +1,17 @@
 # Article 6-1
 
-Il est satisfait à la condition de capacité financière lorsque l'entreprise dispose de capitaux propres et de réserves ou de garanties d'un montant total au moins égal à 1 500 euros pour chaque véhicule n'excédant pas 9 places, conducteur compris, et, pour les véhicules excédant cette limite,9 000 euros pour le premier véhicule,5 000 euros pour chacun des véhicules suivants.
+I. - Il est satisfait à l'exigence de capacité financière mentionnée au II de l'article 2 lorsque l'entreprise démontre, conformément au V du présent article, qu'elle dispose chaque année de capitaux et de réserves d'un montant au moins égal à 1 500 euros pour chaque véhicule n'excédant pas neuf places, conducteur compris, et, pour les véhicules excédant cette limite, 9 000 euros pour le premier véhicule et 5 000 euros pour chacun des véhicules suivants.
 
-Pour les entreprises de transport public routier de personnes établies dans les départements et régions d'outre-mer et qui déclarent limiter leur activité au seul département et à la seule région où elles sont établies, le montant par véhicule n'excédant pas neuf places, conducteur compris, pris en compte pour le calcul de la capacité financière exigible est fixé à 1 000 euros.
+II. - Pour les entreprises de transport public routier de personnes établies en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte et qui déclarent limiter leur activité à la seule collectivité où elles sont établies, et sous réserve des dispositions des articles 5 et du 6 du décret n° 2011-2045 du 28 décembre 2011 portant diverses dispositions relatives à l'accès à la profession de transporteur routier et à l'accès au marché du transport routier, le montant pris en compte pour le calcul de la capacité financière exigible est fixé à 1 000 euros par véhicule n'excédant pas neuf places, conducteur compris.
 
-Les véhicules pris en compte pour la détermination du montant de la capacité financière exigible sont tous les véhicules utilisés de façon habituelle par l'entreprise pour le transport public routier de personnes.
+III. - A défaut de capitaux et de réserves suffisants, l'entreprise peut présenter des garanties accordées par un ou plusieurs organismes financiers se portant caution de l'entreprise pour les montants fixés aux I et II. Ces garanties ne peuvent toutefois excéder la moitié de la capacité financière exigible.
 
-Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé des transports et du ministre chargé de l'économie.
+La garantie est mise en œuvre par le liquidateur désigné en cas de liquidation judiciaire au bénéfice de tous les créanciers à proportion de leur créance.
+
+IV. - Pour la détermination du montant de la capacité financière exigible sont pris en compte tous les véhicules utilisés par l'entreprise pour le transport public routier de personnes.
+
+V. - Pour attester de sa capacité financière, l'entreprise transmet, lors de sa demande initiale d'autorisation d'exercer la profession de transporteur public routier de personnes, tous documents certifiés par un expert-comptable, un commissaire aux comptes ou un centre de gestion agréé justifiant qu'elle dispose de capitaux et de réserves à hauteur de la capacité financière exigible.
+
+Elle adresse ensuite, chaque année, au service territorial de l'Etat dont elle relève, dans les six mois qui suivent la clôture de l'exercice comptable, la liasse fiscale correspondante certifiée par un expert-comptable, un commissaire aux comptes ou un centre de gestion agréé.
+
+A défaut de transmission de la liasse fiscale dans les délais prévus à l'alinéa précédent et après une mise en demeure restée sans effet pendant trois mois, le préfet de région peut prononcer une décision de suspension de l'autorisation d'exercer la profession de transporteur routier.
