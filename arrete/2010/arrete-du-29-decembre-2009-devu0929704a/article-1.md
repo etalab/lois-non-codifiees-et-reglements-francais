@@ -1,6 +1,6 @@
 # Article 1
 
-Le montant du prélèvement opéré chaque année sur les ressources de la participation des employeurs à l'effort de construction pour le fonctionnement de l'Agence nationale pour la participation des employeurs à l'effort de construction en application de l'article L. 313-12 du code de la construction et de l'habitation, est au total de   7 268 400 €.
+Le montant du prélèvement opéré chaque année sur les ressources de la participation des employeurs à l'effort de construction pour le fonctionnement de l'Agence nationale pour la participation des employeurs à l'effort de construction en application de l'article L. 313-12 du code de la construction et de l'habitation, est au total de 6 700 000 €.
 
 Ce montant total est réparti entre les organismes collecteurs agréés soumis au contrôle de l'agence en application de l'article L. 313-7 du même code en multipliant le montant total par un coefficient individuel.
 

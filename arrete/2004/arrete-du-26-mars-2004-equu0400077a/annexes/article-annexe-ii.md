@@ -1,25 +1,21 @@
 # Article Annexe II
 
-**PLAFONDS DE PRIX DE VENTE (*) FIXÉS EN APPLICATION DE L'ARTICLE R. 331-76-5-4 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION.**
+Plafonds de prix de vente fixés en application de l'article R. 331-76-5-4 du code de la construction et de l'habitation
 
-(En euros, par mètre carré de surface utile)
+(En euros hors taxes, par mètre carré de surface utile)
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ZONE GÉOGRAPHIQUE<br/>
-</th>
-<th>
-<br/>PRIX MAXIMUM<br/>
-</th>
+<td align="center"> ZONE GÉOGRAPHIQUE</td>
+<td align="center" colspan="3"> PRIX MAXIMUM</td>
 </tr>
 <tr>
 <td align="center">
 <br/>A<br/>
 </td>
 <td align="center">
-<br/>4 100<br/>
+<br/>3 963<br/>
 </td>
 </tr>
 <tr>
@@ -27,7 +23,7 @@
 <br/>B1<br/>
 </td>
 <td align="center">
-<br/>2 750<br/>
+<br/>2 658<br/>
 </td>
 </tr>
 <tr>
@@ -35,7 +31,7 @@
 <br/>B2<br/>
 </td>
 <td align="center">
-<br/>2 400<br/>
+<br/>2 320<br/>
 </td>
 </tr>
 <tr>
@@ -43,12 +39,7 @@
 <br/>C<br/>
 </td>
 <td align="center">
-<br/>2 100 <br/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<br/>(*) La TVA ayant déjà été acquittée en amont par le vendeur, la vente n'est pas soumise à la TVA.<br/>
+<br/>2 030<br/>
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,5 @@
 # 1954
 
-- [Arrêté du 3 décembre 1954](arrete-du-3-decembre-1954)
 - [Arrêté du 3 février 1954](arrete-du-3-fevrier-1954)
 - [Arrêté du 5 juillet 1954](arrete-du-5-juillet-1954)
 - [Arrêté du 7 janvier 1954](arrete-du-7-janvier-1954)
