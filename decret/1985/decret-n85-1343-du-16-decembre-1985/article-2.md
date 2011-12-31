@@ -32,4 +32,8 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 -la déclaration annuelle des salaires adressée par les employeurs de personnel navigant professionnel de l'aéronautique civile à la caisse mentionnée à l'article L. 426-5 du code de l'aviation civile ;
 
--la déclaration mentionnée à l'article 3 de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer.
+-la déclaration mentionnée à l'article 3 de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer ;
+
+-la déclaration mentionnée à l'article R. 914-99 du code de l'éducation ;
+
+-la déclaration mentionnée à l'article R. 382-94 du code de la sécurité sociale.

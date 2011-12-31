@@ -28,8 +28,12 @@ Le Centre national de la fonction publique territoriale (CNFPT) ;
 
 -la Caisse nationale des barreaux français ;
 
--le       service des retraites de l'Etat ;
+-le service des retraites de l'Etat ;
 
 -la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français ;
 
-- la Caisse de retraite du personnel navigant professionnel de l'aéronautique civile.
+-la Caisse de retraite du personnel navigant professionnel de l'aéronautique civile ;
+
+-l'organisme gestionnaire du régime additionnel de retraite des personnels enseignants et de documentation mentionnés à l'article L. 914-1 du code de l'éducation et à l'article L. 813-8 du code rural et de la pêche maritime ;
+
+-l'Agence de services et de paiement mentionnée à l'article L. 313-1 du code rural et de la pêche maritime.
