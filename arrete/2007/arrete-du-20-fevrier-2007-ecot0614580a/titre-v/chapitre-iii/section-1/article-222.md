@@ -1,90 +1,114 @@
 # Article 222
 
-Sous réserve des dispositions de la section 2, le montant de l'exposition pondérée d'une position de titrisation bénéficiant d'une évaluation externe de crédit est calculé en appliquant à la valeur exposée au risque les pondérations suivantes :
+Sous réserve des dispositions de la section 2, le montant de l'exposition pondérée d'une position de titrisation ou de retitrisation bénéficiant d'une évaluation externe de crédit est calculé en appliquant à la valeur exposée au risque les pondérations suivantes :
 
-a) Pour les positions autres que celles bénéficiant d'une évaluation externe de crédit de court terme :
-
-<table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">ÉCHELON DE QUALITÉ<br/>de crédit</p>
-</td>
-<td width="69">
-<p align="center">1</p>
-</td>
-<td width="71">
-<p align="center">2</p>
-</td>
-<td width="71">
-<p align="center">3</p>
-</td>
-<td width="70">
-<p align="center">4</p>
-</td>
-<td width="156">
-<p align="center">5 ET AU-DELÀ</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Catégorie de pondération</p>
-</td>
-<td width="69">
-<p align="center">20 %</p>
-</td>
-<td width="71">
-<p align="center">50 %</p>
-</td>
-<td width="71">
-<p align="center">100 %</p>
-</td>
-<td width="70">
-<p align="center">350 %</p>
-</td>
-<td width="156">
-<p align="center">1 250 %</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-b) Pour les positions bénéficiant d'une évaluation externe de crédit de court terme.
+Catégories de pondération
 
 <table>
 <tbody>
 <tr>
-<td width="228">
-<p align="center">ÉCHELON DE QUALITÉ<br/>de crédit</p>
+<td width="121">
+<p align="center">
+<br/>ÉCHELON DE QUALITÉ </p>
+<p align="center">de crédit</p>
 </td>
-<td width="79">
-<p align="center">1</p>
+<td width="55">
+<p align="center">
+<br/>1</p>
 </td>
-<td width="78">
-<p align="center">2</p>
+<td width="49">
+<p align="center">
+<br/>2</p>
 </td>
-<td width="86">
-<p align="center">3</p>
+<td width="46">
+<p align="center">
+<br/>3</p>
 </td>
-<td width="196">
-<p align="center">Toute autre<br/>évaluation de crédit</p>
+<td width="190">
+<p align="center">
+<br/>4 </p>
+<p align="center">(uniquement pour les évaluations de crédits autres qu'à court terme)</p>
+</td>
+<td width="205">
+<p align="center">
+<br/>TOUS LES AUTRES ÉCHELONS </p>
+<p align="center">de qualité de crédit</p>
 </td>
 </tr>
 <tr>
-<td width="228">
-<p>Catégorie de pondération</p>
+<td width="121">
+<p align="left">
+<br/>
+<font size="1">Titrisation</font>
+</p>
 </td>
-<td width="79">
-<p align="center">20 %</p>
+<td width="55">
+<p align="center">
+<br/>
+<font size="1">20 % </font>
+</p>
 </td>
-<td width="78">
-<p align="center">50 %</p>
+<td width="49">
+<p align="center">
+<br/>
+<font size="1">50 % </font>
+</p>
 </td>
-<td width="86">
-<p align="center">100 %</p>
+<td width="46">
+<p align="center">
+<br/>
+<font size="1">100 % </font>
+</p>
 </td>
-<td width="196">
-<p align="center">1 250 %</p>
+<td width="190">
+<p align="center">
+<br/>
+<font size="1">350 %</font>
+</p>
+</td>
+<td width="205">
+<p align="center">
+<br/>
+<font size="1">1 250 %</font>
+</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p align="left">
+<br/>
+<font size="1">Retitrisation</font>
+</p>
+</td>
+<td width="55">
+<p align="center">
+<br/>
+<font size="1">40 % </font>
+</p>
+</td>
+<td width="49">
+<p align="center">
+<br/>
+<font size="1">100 % </font>
+</p>
+</td>
+<td width="46">
+<p align="center">
+<br/>
+<font size="1">225 % </font>
+</p>
+</td>
+<td width="190">
+<p align="center">
+<br/>
+<font size="1">650 %</font>
+</p>
+</td>
+<td width="205">
+<p align="center">
+<br/>
+<font size="1">1 250 %</font>
+</p>
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 # Article 244
 
-Sous réserve des dispositions de l'alinéa c de l'article 246, la pondération applicable à une position de titrisation est de 7 % ou la pondération déterminée conformément à la formule suivante lorsque cette dernière est plus élevée :
+Sous  réserve des dispositions de l'alinéa b de l'article 246, la pondération  applicable à une position de titrisation est déterminée conformément à  la formule suivante lorsque cette dernière est supérieure à 7 % pour une  position de titrisation et à 20 % pour une position de retitrisation :
 
 Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 12
 
@@ -12,7 +12,7 @@ Vous pouvez consulter la formule dans le JO n° 51 du 01/03/2007 texte numéro 1
 
 - L est le niveau du rehaussement de crédit. Il est égal au rapport entre le montant nominal de toutes les tranches subordonnées à la tranche dans laquelle la position est détenue et la somme des valeurs exposées au risque des expositions titrisées. Les bénéfices futurs capitalisés ne sont pas inclus dans le calcul de L. Les montants dus par les contreparties d'instruments dérivés visés à l'annexe II qui représentent des tranches de rang inférieur à la tranche considérée peuvent être mesurés sur la base du coût de remplacement actuel, hors risque potentiel futur ;
 
-- N est le nombre effectif d'expositions titrisées, calculé conformément aux dispositions de l'article 242-4 ;
+- N est le nombre effectif d'expositions titrisées, calculé conformément aux dispositions de l'article 242-4. En  ce qui concerne les retitrisations, l'établissement assujetti tient  compte du nombre d'expositions du portefeuille sous-jacent aux positions  de retitrisation et non pas du portefeuille sous-jacent aux positions  de titrisations ;
 
 - ELGD est la valeur moyenne pondérée des pertes en cas de défaut des expositions titrisées, calculée comme suit :
 

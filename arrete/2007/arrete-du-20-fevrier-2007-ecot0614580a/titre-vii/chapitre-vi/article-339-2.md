@@ -4,4 +4,4 @@ Pour l'application du présent chapitre, on entend par fonds propres les fonds p
 
 - les risques tels que définis à l'article 2 du règlement n° 93-05 ;
 
-- le risque de position, le risque de règlement-livraison et le risque de contrepartie, calculés selon les modalités décrites aux articles 340 et 341.
+- le risque de position et le risque de contrepartie, calculés selon les modalités décrites aux articles 340 et 341.

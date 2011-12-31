@@ -1,9 +1,11 @@
 # Article 242-4
 
-Les établissements assujettis appliquent les pondérations visées à la colonne C des tableaux visés à l'article 242-1 lorsque la position se rapporte à une titrisation où le nombre des expositions titrisées est inférieur à 6. A cet effet, toutes les expositions sur un même débiteur sont traitées comme une seule et même exposition. Le nombre effectif des expositions est calculé de la façon suivante :
+Aux fins du calcul du nombre effectif des expositions titrisées, toutes les expositions sur un même débiteur sont traitées comme une seule et même exposition. Le nombre effectif des expositions est calculé de la façon suivante :
 
-N= (∑i EADi)²/ ∑iEADi²
+Vous pouvez consulter la formule à l'adresse suivante :
 
-où EADi est la somme des valeurs exposées au risque de toutes les expositions sur le ième débiteur.
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111202&numTexte=21&pageDebut=20359&pageFin=20366
 
-En cas de titrisation de positions de titrisation, l'établissement assujetti tient compte du nombre de positions de titrisation de son portefeuille et non pas du nombre d'expositions sous-jacentes du portefeuille d'origine des expositions titrisées. Lorsque l'établissement assujetti a connaissance de la part du portefeuille associée à l'exposition la plus importante, C1, l'établissement assujetti peut calculer le nombre effectif des expositions, N, comme étant égal à 1/C1.
+où EADi est la somme des valeurs exposées au risque de toutes les expositions sur le nième débiteur.
+
+Lorsque l'établissement assujetti a connaissance de la part du portefeuille associée à l'exposition la plus importante, C1, l'établissement assujetti peut calculer le nombre effectif des expositions, N, comme étant égal à 1/ C1.

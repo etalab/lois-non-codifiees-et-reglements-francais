@@ -12,6 +12,6 @@ i) pour obtenir le risque potentiel futur des échanges sur rendement total (tot
 
 - 10 % lorsque l'actif de référence est tel qu'il ne serait pas considéré comme élément éligible au sens de l'article 323 s'il constituait un risque direct ;
 
-ii) pour les échanges sur défaut de crédit (credit default swaps, CDS en anglais) donnant lieu à une position longue sur le sous-jacent, les établissements assujettis peuvent utiliser un pourcentage de 0 %, sauf si le contrat de dérivé de crédit est assorti d'une clause de liquidation en cas d'insolvabilité de l'entité auquel cas l'exposition telle qu'elle résulte de l'échange constitue une position courte sur le sous-jacent, même si le sous-jacent n'a pas fait défaut ;
+ii) pour les échanges sur défaut de crédit (credit default swaps, CDS en anglais) donnant lieu à une position longue sur le sous-jacent, les établissements assujettis peuvent utiliser un pourcentage de 0 %, sauf si le contrat de dérivé de crédit est assorti d'une clause de liquidation en cas d'insolvabilité de  la  contrepartie. Dans ce cas, la partie de l'exposition correspondant au  risque potentiel futur se limite au montant des primes non encore  versées par l'entité à l'établissement assujetti ;
 
 c) Pour les dérivés de crédit au nième défaut, le pourcentage visé au b ci-dessus est déterminé en fonction de l'actif qui présente le nième degré de qualité de crédit et qui serait considéré comme élément éligible au sens de l'article 323 s'il était détenu directement par l'établissement assujetti.

@@ -2,6 +2,8 @@
 
 Les facteurs de risques, c'est-à-dire les principaux paramètres de marché dont les variations sont considérées par l'établissement assujetti comme les plus à même d'affecter les valeurs de ses positions de négociation, doivent être choisis de manière appropriée par rapport à son niveau d'activité sur les divers marchés.
 
+Lorsqu'il  est tenu compte dans le modèle de valorisation d'un paramètre de risque  qui n'est pas pris en compte dans le modèle de mesure des risques,  l'établissement assujetti justifie cette situation auprès de l'Autorité  de contrôle prudentiel. En outre, le modèle de mesure des risques doit  tenir compte du caractère non linéaire des options et d'autres produits,  ainsi que du risque de corrélation et du risque de base. Lorsque des  approximations sont employées pour les facteurs de risque, elles doivent  avoir fait la preuve de leur utilité pour les positions réelles  détenues.
+
 Les établissements assujettis doivent respecter les conditions suivantes :
 
 a) Pour le risque de taux d'intérêt, un ensemble de facteurs de risque doit exister pour chaque monnaie dans laquelle l'établissement détient des positions de bilan ou hors bilan sensibles aux taux d'intérêt :

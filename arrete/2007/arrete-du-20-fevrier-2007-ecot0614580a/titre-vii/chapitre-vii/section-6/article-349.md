@@ -13,3 +13,5 @@ c) Un premier type de scénario consiste à tester le portefeuille courant dans 
 d) Des scénarios doivent notamment comprendre les situations que l'établissement identifie comme étant les plus défavorables, sur la base des caractéristiques de son portefeuille. Il communique à l'Autorité de contrôle prudentiel  une description de la méthodologie utilisée pour identifier les scénarios et mesurer leur impact.
 
 Outre les simulations réalisées par les établissements assujettis eux-mêmes, l'Autorité de contrôle prudentiel peut leur demander d'évaluer l'impact de scénarios qu'elle a définis et de lui communiquer l'ensemble des conclusions.
+
+Les établissements assujettis effectuent également des scénarios de crise inversés (reversed stress tests).

@@ -14,4 +14,4 @@ L'Autorité de contrôle prudentiel vérifie que les conditions ci-dessus sont s
 
 Les établissements concernés informent l'Autorité de contrôle prudentiel de toute évolution pertinente pour vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
 
-l'Autorité de contrôle prudentiel peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie.
+l'Autorité de contrôle prudentiel peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie. Elle peut également refuser le bénéfice  du présent article lorsqu'elle estime que le régime de supervision  prudentielle, sur une matière autre que les exigences de solvabilité,  n'est pas équivalent à celui applicable en France.

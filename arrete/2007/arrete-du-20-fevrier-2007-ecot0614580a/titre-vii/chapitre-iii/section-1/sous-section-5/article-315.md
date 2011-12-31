@@ -1,6 +1,6 @@
 # Article 315
 
-En l'absence de disposition contraire, les établissements assujettis vendeurs de protection utilisent le montant notionnel des dérivés de crédit pour calculer les exigences de fonds propres au titre des risques de marché associées à leurs positions.
+En l'absence de disposition contraire, les établissements assujettis vendeurs de protection utilisent le montant notionnel des dérivés de crédit pour calculer les exigences de fonds propres au titre des risques de marché associées à leurs positions. L'établissement  assujetti peut cependant choisir de remplacer le montant notionnel par  le montant notionnel ajusté de la valeur de marché du dérivé de crédit.
 
 Pour les dérivés de crédit autres que les contrats d'échange sur rendement total (total return swaps en anglais), les établissements assujettis utilisent l'échéance du contrat pour calculer le risque spécifique.
 
@@ -42,4 +42,4 @@ v) un dérivé de crédit au premier défaut est traité comme plusieurs positio
 
 Un dérivé de crédit au deuxième défaut est traité comme plusieurs positions correspondant aux montants notionnels d'engagement sur chaque entité de référence, à l'exception de l'entité qui fait l'objet de l'exigence de fonds propres la plus faible. Lorsque le montant du paiement maximal en cas d'événement de crédit est inférieur aux exigences de fonds propres calculées en application du présent alinéa, ce montant de paiement maximal peut être retenu comme exigence de fonds propres au titre du risque spécifique.
 
-Lorsqu'un dérivé de crédit au premier ou au deuxième défaut fait l'objet d'une évaluation externe de crédit et respecte les conditions d'éligibilité visées à la section 2, les établissements assujettis peuvent calculer une seule exigence de fonds propres reflétant l'évaluation externe de crédit de l'instrument.
+Lorsqu'un  dérivé de crédit au nième défaut fait l'objet d'une évaluation externe  de crédit, les établissements assujettis peuvent calculer une seule  exigence de fonds propres reflétant l'évaluation externe de crédit de  l'instrument et appliquent, s'il y a lieu, les pondérations relatives à  la position de titrisation correspondante.

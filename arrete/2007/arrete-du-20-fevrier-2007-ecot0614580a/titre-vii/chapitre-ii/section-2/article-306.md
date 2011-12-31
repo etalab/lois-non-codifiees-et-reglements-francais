@@ -1,16 +1,18 @@
 # Article 306
 
+Les établissements assujettis évaluent leurs positions au prix du marché à chaque fois que c'est possible.
+
 Par évaluation au prix du marché, on entend l'évaluation au moins quotidienne des positions du portefeuille de négociation sur la base des valeurs liquidatives disponibles et provenant de sources indépendantes, notamment des cours boursiers, des cotations électroniques ou des cotations fournies par plusieurs courtiers de renom indépendants.
 
 Pour l'évaluation au prix du marché, les établissements assujettis retiennent le plus prudent du cours vendeur ou du cours acheteur, sauf lorsqu'ils sont teneurs de marché importants dans le type d'instrument financier ou de produit de base considéré et qu'ils sont en mesure de dénouer leur position au cours moyen du marché.
 
-Lorsqu'une évaluation au prix du marché n'est pas possible, les établissements assujettis évaluent leurs positions ou leurs portefeuilles par référence à un modèle, avant d'appliquer les exigences de fonds propres au titre du portefeuille de négociation.
+Lorsqu'une évaluation au prix du marché n'est pas possible, les établissements assujettis évaluent de manière prudente leurs positions ou leurs portefeuilles par référence à un modèle, avant d'appliquer les exigences de fonds propres au titre du portefeuille de négociation.
 
 Par évaluation par référence à un modèle, on entend toute évaluation référencée, extrapolée ou calculée de toute autre manière à partir d'une donnée de marché.
 
 En cas d'évaluation par référence à un modèle, les conditions suivantes sont respectées :
 
-a) L'organe exécutif est tenu informé des éléments du portefeuille de négociation évalués par référence à un modèle et prend connaissance du degré d'incertitude ainsi créé dans le suivi des risques et des résultats de cette activité ;
+a) L'organe exécutif est tenu informé des éléments du portefeuille de négociation ou des autres éléments évalués à la juste valeur évalués par référence à un modèle et prend connaissance du degré d'incertitude ainsi créé dans le suivi des risques et des résultats de cette activité ;
 
 b) Les données de marché utilisées sont, dans la mesure du possible, en phase avec les prix de marché ;
 

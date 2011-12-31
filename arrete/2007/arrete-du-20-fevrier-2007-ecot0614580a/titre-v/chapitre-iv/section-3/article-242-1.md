@@ -1,279 +1,340 @@
 # Article 242-1
 
-Le montant d'exposition pondérée d'une position de titrisation bénéficiant d'une évaluation externe de crédit est calculé en appliquant à la valeur exposée au risque la pondération visée ci-dessous conformément à la décision de mise en correspondance de l'Autorité de contrôle prudentiel et en multipliant le résultat obtenu par 1,06. Ce facteur multiplicateur n'est pas appliqué aux positions pondérées à 1 250 %.
+Le  montant d'exposition pondérée d'une position de titrisation ou de  retitrisation bénéficiant d'une évaluation externe de crédit est calculé  en appliquant à la valeur exposée au risque la pondération visée  ci-dessous conformément à la décision de mise en correspondance de  l'Autorité de contrôle prudentiel et en multipliant le résultat obtenu  par 1,06. Ce facteur multiplicateur n'est pas appliqué aux positions  pondérées à 1 250 %.
 
-Positions ne bénéficiant pas d'une évaluation externe de crédit de court terme
-
-<table>
-<tbody>
-<tr>
-<td rowspan="2" width="330">
-<p align="center">ÉCHELONS DE QUALITÉ<br/>de crédit</p>
-</td>
-<td colspan="3" width="370">
-<p align="center">PONDÉRATION APPLICABLE</p>
-</td>
-</tr>
-<tr>
-<td width="123">
-<p align="center">A</p>
-</td>
-<td width="123">
-<p align="center">B</p>
-</td>
-<td width="124">
-<p align="center">C</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E1</p>
-</td>
-<td width="123">
-<p align="center">6/7 %</p>
-</td>
-<td width="123">
-<p align="center">12 %</p>
-</td>
-<td width="124">
-<p align="center">20 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E2</p>
-</td>
-<td width="123">
-<p align="center">8 %</p>
-</td>
-<td width="123">
-<p align="center">15 %</p>
-</td>
-<td width="124">
-<p align="center">25 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E3</p>
-</td>
-<td width="123">
-<p align="center">10 %</p>
-</td>
-<td width="123">
-<p align="center">18 %</p>
-</td>
-<td width="124">
-<p align="center">35 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E4</p>
-</td>
-<td width="123">
-<p align="center">12 %</p>
-</td>
-<td width="123">
-<p align="center">20 %</p>
-</td>
-<td width="124">
-<p align="center">35 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E5</p>
-</td>
-<td width="123">
-<p align="center">20 %</p>
-</td>
-<td width="123">
-<p align="center">35 %</p>
-</td>
-<td width="124">
-<p align="center">35 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E6</p>
-</td>
-<td width="123">
-<p align="center">35 %</p>
-</td>
-<td width="123">
-<p align="center">50 %</p>
-</td>
-<td width="124">
-<p align="center">50 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E7</p>
-</td>
-<td width="123">
-<p align="center">60 %</p>
-</td>
-<td width="123">
-<p align="center">75 %</p>
-</td>
-<td width="124">
-<p align="center">75 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E8</p>
-</td>
-<td width="123">
-<p align="center">100 %</p>
-</td>
-<td width="123">
-<p align="center">100 %</p>
-</td>
-<td width="124">
-<p align="center">100 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E9</p>
-</td>
-<td width="123">
-<p align="center">250 %</p>
-</td>
-<td width="123">
-<p align="center">250 %</p>
-</td>
-<td width="124">
-<p align="center">250 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E10</p>
-</td>
-<td width="123">
-<p align="center">425 %</p>
-</td>
-<td width="123">
-<p align="center">425 %</p>
-</td>
-<td width="124">
-<p align="center">425 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E11</p>
-</td>
-<td width="123">
-<p align="center">650 %</p>
-</td>
-<td width="123">
-<p align="center">650 %</p>
-</td>
-<td width="124">
-<p align="center">650 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>SUP à E11</p>
-</td>
-<td width="123">
-<p align="center">1 250 %</p>
-</td>
-<td width="123">
-<p align="center">1 250 %</p>
-</td>
-<td width="124">
-<p align="center">1 250 %</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Positions bénéficiant d'une évaluation externe de crédit de court terme
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="330">
-<p align="center">ÉCHELONS DE QUALITÉ<br/>de crédit</p>
+<th colspan="2">
+<br/>ÉCHELON DE QUALITÉ DE CRÉDIT <br/>
+</th>
+<th colspan="5">
+<br/>PONDÉRATION APPLICABLE <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th colspan="3">
+<br/>Positions de titrisation <br/>
+</th>
+<th colspan="2">
+<br/>Positions de retitrisation <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Evaluations de crédit <br/>
+<br/>autres qu'à court terme <br/>
+</th>
+<th>
+<br/>Evaluations de crédit <br/>
+<br/>à court terme <br/>
+</th>
+<th>
+<br/>A <br/>
+</th>
+<th>
+<br/>B <br/>
+</th>
+<th>
+<br/>C <br/>
+</th>
+<th>
+<br/>D <br/>
+</th>
+<th>
+<br/>E <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>E1 <br/>
 </td>
-<td colspan="3" width="369">
-<p align="center">PONDÉRATION APPLICABLE</p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>7 % <br/>
+</td>
+<td align="center">
+<br/>12 % <br/>
+</td>
+<td align="center">
+<br/>20 % <br/>
+</td>
+<td align="center">
+<br/>20 % <br/>
+</td>
+<td align="center">
+<br/>30 % <br/>
 </td>
 </tr>
 <tr>
-<td width="123">
-<p align="center">A</p>
+<td align="center">
+<br/>E2 <br/>
 </td>
-<td width="123">
-<p align="center">B</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td width="124">
-<p align="center">C</p>
+<td align="center">
+<br/>8 % <br/>
 </td>
-</tr>
-<tr>
-<td width="330">
-<p>E1</p>
+<td align="center">
+<br/>15 % <br/>
 </td>
-<td width="123">
-<p align="center">6/7 %</p>
+<td align="center">
+<br/>25 % <br/>
 </td>
-<td width="123">
-<p align="center">12 %</p>
+<td align="center">
+<br/>25 % <br/>
 </td>
-<td width="124">
-<p align="center">20 %</p>
-</td>
-</tr>
-<tr>
-<td width="330">
-<p>E2</p>
-</td>
-<td width="123">
-<p align="center">12 %</p>
-</td>
-<td width="123">
-<p align="center">20 %</p>
-</td>
-<td width="124">
-<p align="center">35 %</p>
+<td align="center">
+<br/>40 % <br/>
 </td>
 </tr>
 <tr>
-<td width="330">
-<p>E3</p>
+<td align="center">
+<br/>E3 <br/>
 </td>
-<td width="123">
-<p align="center">60 %</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td width="123">
-<p align="center">75 %</p>
+<td align="center">
+<br/>10 % <br/>
 </td>
-<td width="124">
-<p align="center">75 %</p>
+<td align="center">
+<br/>18 % <br/>
+</td>
+<td align="center">
+<br/>35 % <br/>
+</td>
+<td align="center">
+<br/>35 % <br/>
+</td>
+<td align="center">
+<br/>50 % <br/>
 </td>
 </tr>
 <tr>
-<td width="330">
-<p>Autres</p>
+<td align="center">
+<br/>E4 <br/>
 </td>
-<td width="123">
-<p align="center">1 250 %</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="123">
-<p align="center">1 250 %</p>
+<td align="center">
+<br/>12 % <br/>
 </td>
-<td width="124">
-<p align="center">1 250 %</p>
+<td align="center">
+<br/>20 % <br/>
 </td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>40 % <br/>
+</td>
+<td align="center">
+<br/>65 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E5 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>20 % <br/>
+</td>
+<td align="center">
+<br/>35 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>60 % <br/>
+</td>
+<td align="center">
+<br/>100 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E6 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>35 % <br/>
+</td>
+<td align="center">
+<br/>50 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>100 % <br/>
+</td>
+<td align="center">
+<br/>150 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E7 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>60 % <br/>
+</td>
+<td align="center">
+<br/>75 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>150 % <br/>
+</td>
+<td align="center">
+<br/>225 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E8 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>100 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>200 % <br/>
+</td>
+<td align="center">
+<br/>350 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E9 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>250 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>300 % <br/>
+</td>
+<td align="center">
+<br/>500 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E10 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>425 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>500 % <br/>
+</td>
+<td align="center">
+<br/>650 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>E11 <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>650 % <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>750 % <br/>
+</td>
+<td align="center">
+<br/>850 % <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Toutes les autres et non notées <br/>
+</td>
+<td/>
+<td align="center">
+<br/>1   250 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
