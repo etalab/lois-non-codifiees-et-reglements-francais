@@ -48,4 +48,18 @@ b) Sur ressources propres (en fonction des conventions passées avec l'Etat et d
 
 21° Redevances instituées par les décrets n° 2007-1531 et n° 2007-1532 du 24 octobre 2007, modifié par le décret n° 2009-1651 du 23 décembre 2009, lorsque leur ordonnateur est le directeur général de l'Agence nationale des fréquences, dans les conditions prévues par l'article 15 du décret n° 2007-1532 modifié ;
 
-22° Créances fiscales dont l'assistance au recouvrement est prévue par les conventions fiscales et les textes communautaires.
+22° Créances fiscales et d'autres créances publiques, dont l'assistance au recouvrement est prévue par les conventions fiscales et les textes communautaires ;
+
+23° Droit d'enregistrement relevant de l'article 1635 bis AE du code général des impôts et comprenant :
+
+a) Les demandes d'enregistrement des produits homéopathiques, de leurs modifications et de leur renouvellement ;
+
+b) Les demandes d'enregistrement des médicaments traditionnels à base de plantes, de leurs modifications et de leur renouvellement ;
+
+c) Les demandes d'autorisations de mise sur le marché, de leurs modifications et de leur renouvellement ;
+
+d) les demandes de reconnaissance d'une autorisation de mise sur le marché ;
+
+e) Les demandes d'autorisation d'importation parallèle ;
+
+f) Les demandes de dépôt de publicité.
