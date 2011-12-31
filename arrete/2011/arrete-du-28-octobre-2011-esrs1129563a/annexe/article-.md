@@ -5,10 +5,12 @@
 <table>
 <tbody>
 <tr>
-<th>ÉTABLISSEMENT<br/>
-</th>
-<th>DATE D'EFFET<br/>
-</th>
+<td>
+<p align="center"> ÉTABLISSEMENT</p>
+</td>
+<td>
+<p align="center"> DATE D'EFFET</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -27,6 +29,9 @@
 <td align="center">
 <p align="left">Université Lille-III</p>
 </td>
+</tr>
+<tr>
+<td>Université de lorraine </td>
 </tr>
 <tr>
 <td>
@@ -51,11 +56,6 @@
 <tr>
 <td align="center">
 <p align="left">Université de Perpignan</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Université de La Réunion</p>
 </td>
 </tr>
 <tr>
