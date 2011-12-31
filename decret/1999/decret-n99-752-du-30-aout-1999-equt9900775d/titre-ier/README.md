@@ -1,9 +1,7 @@
 # TITRE Ier : DE L'EXERCICE DE LA PROFESSION DE TRANSPORTEUR OU DE LOUEUR
 
 - [Article 1](article-1.md)
-- [Section I : Conditions d'exercice.](section-i)
 - [Article 2](article-2.md)
-- [Section II : Inscription au registre.](section-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
