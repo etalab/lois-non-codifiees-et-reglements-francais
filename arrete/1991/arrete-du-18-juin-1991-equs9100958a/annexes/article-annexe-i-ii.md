@@ -125,7 +125,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)</p>
+<p>0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle </p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -133,7 +133,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)</p>
+<p>0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification </p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -147,7 +147,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.3.1. Absence (2)</p>
+<p>0.2.1.3.1. Absence </p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -155,7 +155,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.1.3.2. Illisible ou contrôle impossible (2)</p>
+<p>0.2.1.3.2. Illisible ou contrôle impossible </p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -175,7 +175,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)</p>
+<p>0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle </p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -183,7 +183,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="610">
-<p>0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)</p>
+<p>0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification </p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -191,7 +191,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td>
-<p align="left">0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid (2)</p>
+<p align="left">0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid </p>
 </td>
 <td>
 <p align="center">N</p>
@@ -424,19 +424,19 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td>
-<p align="left">0.4.6 Document d'identification (2)</p>
+<p align="left">0.4.6 Document d'identification</p>
 </td>
 <td/>
 </tr>
 <tr>
 <td>
-<p align="left">0.4.6.1. Spécification (2)</p>
+<p align="left">0.4.6.1. Spécification </p>
 </td>
 <td/>
 </tr>
 <tr>
 <td>
-<p align="left">0.4.6.1.1. Nombre de caractères du numéro d'identification différent de celui des numéros de plaque<br/>constructeur ou de frappe à froid  (2)</p>
+<p align="left">0.4.6.1.1. Nombre de caractères du numéro d'identification différent de celui des numéros de plaque<br/>constructeur ou de frappe à froid </p>
 </td>
 <td>
 <p align="center">N</p>
@@ -575,14 +575,20 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </td>
 </tr>
 <tr>
+<td>1.1.3.1.2. Anomalie de fonctionnement</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="607">
-<p>1.2. CIRCUIT HYDRAULIQUE</p>
+<p>1.2. CIRCUIT DE FREINAGE </p>
 </td>
 <td valign="top" width="61"/>
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>1.2.1. RESERVOIR DE LIQUIDE DE FREIN</p>
+<p>1.2.1. RÉSERVOIR (S) </p>
 </td>
 <td valign="top" width="61"/>
 </tr>
@@ -644,7 +650,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>1.2.2. MAITRE-CYLINDRE</p>
+<p>1.2.2. MAÎTRE-CYLINDRE/ ROBINET (S) DE FREINAGE </p>
 </td>
 <td valign="top" width="61"/>
 </tr>
@@ -1248,7 +1254,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 <p>1.5.1.2.1. Anomalie importante de fonctionnement</p>
 </td>
 <td valign="top" width="62">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -1321,7 +1327,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="608">
-<p align="right">1.7. ELEMENTS D'INFORMATION</p>
+<p align="left">1.7. ELEMENTS D'INFORMATION</p>
 </td>
 <td valign="top" width="62"/>
 </tr>
@@ -1339,7 +1345,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="608">
-<p align="right">1.7.1.1.1. Allumé</p>
+<p align="left">1.7.1.1.1. Allumé</p>
 </td>
 <td valign="top" width="62">
 <p align="center">N</p>
@@ -1352,16 +1358,12 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 <td valign="top" width="62"/>
 </tr>
 <tr>
-<td valign="top" width="608">
-<p>1.7.2.1. ETAT</p>
-</td>
-<td valign="top" width="62"/>
+<td>1.7.2.2. FONCTIONNEMENT</td>
+<td/>
 </tr>
 <tr>
-<td valign="top" width="608">
-<p align="right">1.7.2.1.1. Allumé</p>
-</td>
-<td valign="top" width="62">
+<td>1.7.2.2.1. Anomalie de fonctionnement</td>
+<td>
 <p align="center">O</p>
 </td>
 </tr>
@@ -1379,7 +1381,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="608">
-<p align="right">1.7.3.1.1. Allumé</p>
+<p align="left">1.7.3.1.1. Allumé</p>
 </td>
 <td valign="top" width="62">
 <p align="center">N</p>
@@ -1399,7 +1401,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle
 </tr>
 <tr>
 <td valign="top" width="608">
-<p align="right">1.7.4.1.1. Allumé</p>
+<p align="left">1.7.4.1.1. Allumé</p>
 </td>
 <td valign="top" width="62">
 <p align="center">N</p>

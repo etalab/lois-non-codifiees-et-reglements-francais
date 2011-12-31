@@ -73,7 +73,7 @@ Codage utilisé pour la localisation d'un défaut :
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="4" valign="top">
+<td align="left" rowspan="9" valign="top">
 <p align="center">
 <br/>1 </p>
 </td>
@@ -94,6 +94,31 @@ Codage utilisé pour la localisation d'un défaut :
 <tr>
 <td align="center">
 <br/>Essieu 4 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Essieu 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Essieu 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Essieu 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Essieu 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Essieu 9</p>
 </td>
 </tr>
 <tr>
@@ -439,9 +464,11 @@ I - LISTE DES POINTS DE CONTROLE
 
 1.2.11. MAINS D'ACCOUPLEMENT
 
+1.2.12. PRISE(S) DE PRESSION
+
 1.3. ELEMENTS DE COMMANDE
 
-1.3.1. PEDALE DU FREIN DE SERVICE
+1.3.1. COMMANDE DU FREIN DE SERVICE
 
 1.3.2. COMMANDE DU FREIN DE SECOURS
 
@@ -473,7 +500,7 @@ I - LISTE DES POINTS DE CONTROLE
 
 1.4.10. RALENTISSEUR
 
-1.4.11. SYSTEME ANTI-BLOCAGE
+1.4.11. SYSTEME ANTI-BLOCAGE OU CONTROLE TRAJECTOIRE
 
 1.5. ASSISTANCE DE FREINAGE A DEPRESSION
 
@@ -560,6 +587,8 @@ I - LISTE DES POINTS DE CONTROLE
 3.3.1. ESSUIE-GLACE AVANT
 
 3.3.2. LAVE-GLACE AVANT
+
+3.3.3. SYSTÈME DE DÉSEMBUAGE
 
 4 ECLAIRAGE, SIGNALISATION
 
@@ -771,19 +800,21 @@ I - LISTE DES POINTS DE CONTROLE
 
 7.3. AUTRES EQUIPEMENTS
 
-7.3.1. AVERTISSEUR SONORE
+7.3.1. AVERTISSEUR SONORE ET SA COMMANDE
 
 7.3.2. EXTINCTEUR
 
 7.3.3. INDICATEUR DE VITESSE
 
-7.3.4. CHRONOTACHYGRAPHE
+7.3.4. CHRONOTACHYGRAPHE, COMPTEUR KILOMÉTRIQUE
 
 7.3.5. LIMITEUR DE VITESSE
 
 7.3.6. DISQUE LIMITATION DE VITESSE
 
 7.3.7. PLAQUE DE TARE
+
+7.3.8. BATTERIE (S)
 
 8 ORGANES MECANIQUES
 
@@ -1028,8 +1059,6 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 15.4. EQUIPEMENTS ELECTRIQUES
 
 15.4.1. INSTALLATIONS ELECTRIQUES
-
-15.4.2. BATTERIES
 
 15.4.3. COFFRE A BATTERIES
 
@@ -2876,7 +2905,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </tr>
 <tr>
 <td valign="top" width="473">
-<p>0.4.104.2. Non concordance avec le certificat d'immatriculation</p>
+<p>0.4.10.4.2. Non concordance avec le certificat d'immatriculation</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -3505,7 +3534,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </tr>
 <tr>
 <td valign="top" width="473">
-<p>1.1.42. FONCTIONNEMENT</p>
+<p>1.1.4.2. FONCTIONNEMENT</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -5754,6 +5783,30 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </td>
 </tr>
 <tr>
+<td>1.2.12. PRISE (S) DE PRESSION </td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>1.2.12.1.1 ETAT</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>1.2.12.1.1. Détérioration</td>
+<td>
+<p align="center">13</p>
+</td>
+<td>
+<p align="center">O</p>
+</td>
+<td>
+<p align="center">T</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="473">
 <p>1.3. ELEMENTS DE COMMANDE</p>
 </td>
@@ -5772,7 +5825,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </tr>
 <tr>
 <td valign="top" width="473">
-<p>1.3.1. PEDALE DU FREIN DE SERVICE</p>
+<p>1.3.1. COMMANDE DU FREIN DE SERVICE</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -8198,7 +8251,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </tr>
 <tr>
 <td valign="top" width="473">
-<p>1.4.11. SYSTEME ANTI-BLOCAGE</p>
+<p>1.4.11. SYSTEME ANTI-BLOCAGE OU CONTROLE TRAJECTOIRE</p>
 </td>
 <td valign="top" width="76">
 <br/>
@@ -8430,6 +8483,22 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 <p align="center">O</p>
 </td>
 <td valign="top" width="76">
+<p align="center">T</p>
+</td>
+</tr>
+<tr>
+<td>1.5.1.2. FONCTIONNEMENT </td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>1.5.1.2.1. Mauvais fonctionnement</td>
+<td/>
+<td>
+<p align="center">S</p>
+</td>
+<td>
 <p align="center">T</p>
 </td>
 </tr>
@@ -10537,7 +10606,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 </tr>
 <tr>
 <td valign="top" width="473">
-<p>2.1.9.3,3. Défaut de fixation</p>
+<p>2.1.9.3.3. Défaut de fixation</p>
 </td>
 <td valign="top" width="76">
 <p align="center">3217</p>
@@ -11078,7 +11147,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 <br/>
 </td>
 <td valign="top" width="76">
-<p align="center">s</p>
+<p align="center">S</p>
 </td>
 <td valign="top" width="76">
 <p align="center">T</p>
@@ -11140,7 +11209,7 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 <br/>
 </td>
 <td valign="top" width="76">
-<p align="center">s</p>
+<p align="center">S</p>
 </td>
 <td valign="top" width="76">
 <p align="center">T</p>
@@ -11672,6 +11741,18 @@ I - LISTE DES OBSERVATIONS CONSTATABLES, RELATIVES A CHAQUE POINT DE CONTROLE
 <p align="center">O</p>
 </td>
 <td valign="top" width="76">
+<p align="center">T</p>
+</td>
+</tr>
+<tr>
+<td>2.2.2.1.3. Niveau de liquide insuffisant</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">S</p>
+</td>
+<td>
 <p align="center">T</p>
 </td>
 </tr>

@@ -18,6 +18,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -25,6 +26,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. VEHICULES DE DEPANNAGE A MOTEUR </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -34,6 +36,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -42,6 +45,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -49,6 +53,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 1. 1. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -66,6 +71,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -73,6 +79,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 1. 2. 1. SPECIFICATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -90,6 +97,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -106,6 +114,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -114,6 +123,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -121,6 +131,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 1. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -146,6 +157,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -161,6 +173,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 1. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -178,6 +191,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -185,6 +199,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 2. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -210,6 +225,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -225,6 +241,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 2. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -242,6 +259,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -249,6 +267,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 3. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -274,6 +293,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -289,6 +309,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 3. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -306,6 +327,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -313,6 +335,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 4. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -329,6 +352,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 2. 4. 2. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -354,6 +378,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -362,6 +387,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -369,6 +395,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 1. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -386,6 +413,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -393,6 +421,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 2. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -410,6 +439,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -417,6 +447,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 3. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -434,6 +465,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -441,6 +473,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 4. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -458,6 +491,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -465,6 +499,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 5. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -482,6 +517,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -489,6 +525,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>A. 3. 6. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -506,6 +543,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -513,6 +551,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>B. 1. ECLAIRAGE, SIGNALISATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -522,6 +561,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -529,6 +569,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>B. 1. 1. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -554,6 +595,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -569,6 +611,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>B. 1. 1. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -594,6 +637,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -601,6 +645,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>B. 1. 2. 1. FONCTIONNEMENT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -618,6 +663,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -634,6 +680,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -641,6 +688,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 1. IDENTIFICATION, DOCUMENTATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -650,6 +698,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -657,6 +706,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 1. 1. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -674,6 +724,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -681,6 +732,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 1. 2. 1. SPECIFICATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -698,6 +750,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -714,6 +767,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -722,6 +776,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -729,6 +784,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 2. 1. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -754,6 +810,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -777,6 +834,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 2. 1. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -810,6 +868,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -818,6 +877,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -825,6 +885,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 1. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -842,6 +903,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -857,6 +919,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 1. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -874,6 +937,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -881,6 +945,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 2. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -898,6 +963,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -913,6 +979,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 2. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -930,6 +997,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -937,6 +1005,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 3. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -954,6 +1023,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -969,6 +1039,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 3. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -986,6 +1057,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -993,6 +1065,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 4. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1018,6 +1091,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1033,6 +1107,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 4. 3. FONCTIONNEMENT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1058,6 +1133,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1074,6 +1150,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1081,6 +1158,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 5. 1. FONCTIONNEMENT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1098,6 +1176,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1114,6 +1193,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1121,6 +1201,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 6. 1. FONCTIONNEMENT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1138,6 +1219,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1154,6 +1236,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1161,6 +1244,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 7. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1178,6 +1262,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1193,6 +1278,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 7. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1210,6 +1296,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1217,6 +1304,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 8. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1234,6 +1322,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1249,6 +1338,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>C. 3. 8. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1266,21 +1356,24 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>D. 1. IDENTIFICATION, DOCUMENTATION </p>
-</td>
-<td valign="top" width="227">
 <br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>D. 1. 1. LICENCE DE CIRCULATION (véhicules de grande remise) </p>
+<p>D. 1. IDENTIFICATION</p>
 </td>
 <td valign="top" width="227">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>D. 1. 1.  VIGNETTE (véhicules de tourisme avec chauffeur) </p>
+</td>
+<td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1290,11 +1383,12 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>D. 1. 1. 1. 1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié) </p>
+<p>D. 1. 1. 1. 1. Absence du numéro d'immatriculation de l'entreprise</p>
 </td>
 <td valign="top" width="227">
 <p align="center">N</p>
@@ -1306,6 +1400,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1313,14 +1408,15 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 1. 1. 2. 1. Absence </p>
 </td>
 <td valign="top" width="227">
-<p align="center">N</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>D. 2. ECLAIRAGE, SIGNALISATION </p>
+<p>D. 2. ECLAIRAGE, SIGNALISATION (TAXIS)</p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1330,6 +1426,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1337,6 +1434,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 2. 1. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1354,6 +1452,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1369,6 +1468,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 2. 1. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1386,6 +1486,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1393,6 +1494,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 2. 2. 1. ETAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1410,6 +1512,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1425,6 +1528,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 2. 2. 3. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1442,6 +1546,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1450,6 +1555,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1457,6 +1563,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>D. 3. 1. 1. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1490,6 +1597,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1497,6 +1605,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>E. 1. IDENTIFICATION, DOCUMENTATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1506,6 +1615,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1513,6 +1623,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>E. 1. 1. 1. SPECIFICATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1529,6 +1640,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>E. 1. 1. 2. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1550,6 +1662,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1557,6 +1670,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 1. PRÉSENTATION VÉHICULE GAZ </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1566,6 +1680,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1573,6 +1688,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 1. 1. 1. SPÉCIFICATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1598,6 +1714,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1605,6 +1722,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 1. 2. 1. ÉTAT DE CIRCULATION DU VÉHICULE </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1628,6 +1746,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <td valign="top" width="454"/>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1635,6 +1754,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. ALIMENTATION GAZ </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1644,6 +1764,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1651,6 +1772,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 1. 1. ÉTAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1676,6 +1798,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1700,6 +1823,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1715,6 +1839,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 1. 4. DIVERS </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1746,6 +1871,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <td valign="top" width="454"/>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1753,6 +1879,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 2. 1. SPÉCIFICATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1769,6 +1896,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 2. 2. ÉTAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1794,6 +1922,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1801,6 +1930,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 3. 1. ÉTAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1834,6 +1964,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1849,6 +1980,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 2. 3. 3. ÉTANCHÉITÉ </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1866,6 +1998,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1882,6 +2015,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1890,6 +2024,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 </td>
 <td valign="top" width="227">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1897,6 +2032,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 3. 1. 1. ÉTAT </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1921,6 +2057,7 @@ II. - Liste des défauts constatables relatifs à chaque point de contrôle supp
 <p>G. 3. 1. 2. FIXATION </p>
 </td>
 <td valign="top" width="227">
+<br/>
 <br/>
 </td>
 </tr>

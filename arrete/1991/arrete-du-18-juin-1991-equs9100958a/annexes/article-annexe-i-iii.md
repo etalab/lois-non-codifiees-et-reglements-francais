@@ -270,7 +270,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>2.2.5.1.1. Détérioration importante (.G, D)</p>
+<p>2.2.5.1.1. Détérioration importante (G, D.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -278,7 +278,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>2.2.5.1.2. Frottement anormal (.G, D.)</p>
+<p>2.2.5.1.2. Frottement anormal (G, D.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -292,7 +292,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>2.2.5.2.1. Contrôle impossible (.G, D.)</p>
+<p>2.2.5.2.1. Contrôle impossible (G, D.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -433,7 +433,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>2.3.1.2.1. Anomalie de fonctionnement</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +447,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>2.3.1.3.1. Défaut d'étanchéité</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -567,7 +567,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="609">
-<p>3.1.2.1.1. Visibilité insuffisante (AVD. AVG. AR. ARD.ARG.)</p>
+<p>3.1.2.1.1. Visibilité insuffisante (AVD. AVG. AR. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -581,7 +581,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="609">
-<p>3.1.2.2.1. Mauvaise fixation (AVD. AVG. AR. ARD.ARG.)</p>
+<p>3.1.2.2.1. Mauvaise fixation (AVD. AVG. AR. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -595,7 +595,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="609">
-<p>3.1.2.3.1. Absence (AVD. AVG. AR. ARD.ARG.)</p>
+<p>3.1.2.3.1. Absence (AVD. AVG. AR. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -736,6 +736,24 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </td>
 </tr>
 <tr>
+<td>3.3.3. SYSTÈME DE DÉSEMBUAGE </td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>3.3.3.1. FONCTIONNEMENT </td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>3.3.3.1.1. Anomalie de fonctionnement</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="609">
 <p>4. ECLAIRAGE, SIGNALISATION</p>
 </td>
@@ -777,10 +795,28 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td>
-<p align="left">4.1.1.1.3. Réglage anormalement bas (D, G) (2)</p>
+<p align="left">4.1.1.1.3. Réglage anormalement bas (D, G) </p>
 </td>
 <td>
 <p align="center">O</p>
+</td>
+</tr>
+<tr>
+<td>4.1.2. FEU ANTIBROUILLARD AV </td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>4.1.2.1. SPÉCIFICATION </td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>4.1.2.1.1. Réglage trop haut (D, G)</td>
+<td>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
@@ -1714,7 +1750,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>4.3.12.2.1.Absence</p>
 </td>
 <td valign="top" width="61">
-<p align="center">O</p>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
@@ -1722,12 +1758,12 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>4.3.12.2.2.Contrôle impossible</p>
 </td>
 <td valign="top" width="61">
-<p align="center">O</p>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="607">
-<p>4.4. ELEMENTS DE COMMANDE, D'INFORMATION</p>
+<p>4.4. ELEMENTS DE COMMANDE, D'INFORMATION ET FAISCEAUX </p>
 </td>
 <td valign="top" width="61"/>
 </tr>
@@ -1853,6 +1889,46 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">4.4.6. FAISCEAU ÉLECTRIQUE </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">4.4.6.1. ÉTAT </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">4.4.6.1.1. Mauvais état</p>
+</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">4.4.6.2. FIXATION </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">4.4.6.2.1. Mauvaise fixation</p>
+</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="607">
 <p>5. LIAISONS AU SOL</p>
 </td>
@@ -1881,7 +1957,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>5.1.1.1.1. Anomalie importante de fonctionnement (AVD. AVG. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -2049,7 +2125,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>5.2.3.1.1. Jeu excessif (AVD. AVG. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>

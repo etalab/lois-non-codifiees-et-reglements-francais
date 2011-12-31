@@ -2,9 +2,9 @@
 
 DEFINITIONS ET PRESCRIPTIONS COMPLEMENTAIRES
 
-Nota. - La numérotation de cet appendice correspond à la numérotation des contrôles à effectuer figurant 23/03/93 à l'annexe I du présent arrêté.
+Nota. - La numérotation de cet appendice correspond à la numérotation des contrôles à effectuer figurant à l'annexe I du présent arrêté.
 
-Sauf indication contraire spécifiée dans le présent appendice, lorsqu'une contre-visite est prescrite au titre 14/02/96 d'un ou plusieurs des points de contrôle figurant à l'annexe I, seuls ce ou ces points sont à contrôler lors de la contre-visite en plus de l'ensemble de la fonction identification. Les exceptions à cette règle mentionnées ci-après définissent les groupes de points tels que visés à l'article 8 du présent arrêté.
+Sauf indication contraire spécifiée dans le présent appendice, lorsqu'une contre-visite est prescrite au titre d'un ou plusieurs des points de contrôle figurant à l'annexe I, seuls ce ou ces points sont à contrôler lors de la contre-visite en plus de l'ensemble de la fonction identification. Les exceptions à cette règle mentionnées ci-après définissent les groupes de points tels que visés à l'article 8 du présent arrêté.
 
 <u>Identification du véhicule</u>
 
@@ -12,7 +12,7 @@ Energie moteur :
 
 0.4.1.1.1 Non concordance avec le(s) document(s) d'identification
 
-Ce défaut ne doit pas être constaté si un procès-verbal de réception à titre isolé pour changement de la 13/10/06 source d'énergie du véhicule est présenté en complément du certificat d'immatriculation. Dans ce cas, la mention "Changement de la source d'énergie du véhicule : présentation du procès-verbal de réception à titre isolé n° " suivie du numéro du procès-verbal de réception à titre isolé présenté, doit figurer, conformément aux dispositions de l'article 9, sur le procès-verbal de contrôle technique et dans les enregistrements informatiques relatifs à la visite.
+Ce défaut ne doit pas être constaté si un procès-verbal de réception à titre isolé pour changement de la source d'énergie du véhicule est présenté en complément du certificat d'immatriculation. Dans ce cas, la mention "Changement de la source d'énergie du véhicule : présentation du procès-verbal de réception à titre isolé n° " suivie du numéro du procès-verbal de réception à titre isolé présenté, doit figurer, conformément aux dispositions de l'article 9, sur le procès-verbal de contrôle technique et dans les enregistrements informatiques relatifs à la visite.
 
 Dans tous les cas, l'énergie mentionnée sur le procès-verbal de contrôle technique et les contrôles de pollution effectués lors de la visite doivent correspondre à l'énergie du moteur réellement constatée sur le véhicule, même en cas de divergence avec l'énergie indiquée sur le certificat d'immatriculation.
 
@@ -26,9 +26,11 @@ Tout véhicule pour lequel une contre-visite a été prescrite au titre des feux
 
 Tout véhicule pour lequel une contre-visite a été prescrite au titre du feu stop ou du troisième feu stop fait l'objet, lors de la contre-visite, de l'ensemble des contrôles prévus pour le feu stop et le troisième feu stop.
 
+Les véhicules mis en circulation jusqu'au 30 avril 1957 ne sont pas soumis au contrôle du réglage des feux.
+
 Freinage
 
-Tout véhicule pour lequel une contre-visite a été prescrite au titre d'un des points de contrôle touchant le 23/03/93 système de freinage, doit faire l'objet lors de la contre-visite, de l'ensemble des contrôles prescrits pour le système de freinage.
+Tout véhicule pour lequel une contre-visite a été prescrite au titre d'un des points de contrôle touchant le système de freinage, doit faire l'objet lors de la contre-visite, de l'ensemble des contrôles prescrits pour le système de freinage.
 
 <u>Déséquilibre du frein de service</u>
 
@@ -38,49 +40,81 @@ Déséquilibre (AV, AR)
 
 1.1.1.1.3. Déséquilibre important (AV, AR)
 
-Le déséquilibrage d'un essieu sera défini comme étant l'écart relatif exprimé en valeur absolue et en 23/03/93 pourcent, au moment de la mesure de l'efficacité du frein de service, c'est-à-dire l'écart entre les valeurs des forces de freinage mesurées sur la roue gauche et la roue droite, ramené à la valeur la plus grande.
+Le déséquilibrage d'un essieu sera défini comme étant l'écart relatif exprimé en valeur absolue et en pourcent, au moment de la mesure de l'efficacité du frein de service, c'est-à-dire l'écart entre les valeurs des forces de freinage mesurées sur la roue gauche et la roue droite, ramené à la valeur la plus grande.
 
-Le déséquilibrage du freinage des roues d'un même essieu est considéré comme excessif lorsqu'il est 23/03/93 supérieur ou égal à 30 %.
+Pour les véhicules mis pour la première fois en circulation jusqu'au 31 décembre 1955, le déséquilibrage du freinage des roues d'un même essieu supérieur ou égal à 30 % donne lieu à une observation de déséquilibre.
 
-Toute valeur mesurée supérieure ou égale à 20 % et inférieure à 30 % doit donner lieu à une observation 23/03/93 portée sur le rapport de contrôle, attirant l'attention sur la nécessité de vérification et d'éventuelle réparation du frein de service.
+Pour les véhicules mis pour la première fois en circulation à compter du 1er janvier 1956 le déséquilibrage du freinage des roues d'un même essieu supérieur ou égal à 30 % donne lieu à une observation de déséquilibre important. Toute valeur mesurée supérieure ou égale à 20 % et inférieure à 30 % donne lieu à une observation de déséquilibre.
 
 <u>Efficacité du frein de service</u>
 
 1.1.1.1.4. Efficacité globale insuffisante
 
-L'efficacité totale du frein de service du véhicule est le rapport de la somme des forces de freinage relevées 12/07/96 successivement sur chacune des roues du véhicule, sur la somme des poids sur chaque roue mesurés au moment des essais en incluant le conducteur.
+L'efficacité totale du frein de service du véhicule est le rapport de la somme des forces de freinage relevées successivement sur chacune des roues du véhicule, sur la somme des poids sur chaque roue mesurés au moment des essais en incluant le conducteur.
 
-L'efficacité constatée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure 12/07/96 à :
+L'efficacité constatée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
-- 50 % pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 1956 12/07/96 et les véhicules utilitaires mis pour la première fois en circulation à partir du 1er octobre 1989,
+58 % pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 2012 ;
 
-- 45 % pour les véhicules utilitaires mis pour la première fois en circulation entre le 1er janvier 1956 et le 12/07/96 30 septembre 1989,
+50 % pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 1956 et les véhicules utilitaires mis pour la première fois en circulation à partir du 1er octobre 1989 ;
 
-- 35 % pour les voitures particulières mises pour la première fois en circulation avant le 12/07/96 31 décembre 1955,
+45 % pour les véhicules utilitaires mis pour la première fois en circulation entre le 1er janvier 1956 et le 30 septembre 1989 ;
 
-- 30 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955. 12/07/96 <u>Efficacité du frein de stationnement</u>
+35 % pour les voitures particulières mises pour la première fois en circulation avant le 31 décembre 1955 ;
 
-1.1.2.1.2. Efficacité globale insuffisante 08/06/01 L'efficacité totale du frein de stationnement du véhicule est le rapport de la somme des forces de freinage 12/07/96 relevées successivement sur chacune des roues concernées du véhicule, <u>sur la somme des poids sur toutes</u>
+30 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955 ;
 
-<u>les roues du véhicule</u> mesurées au moment des essais en incluant le conducteur. <u>10/10/96</u>
+Décélération
 
-L'efficacité totale du frein de stationnement est considérée comme insuffisante quand elle est strictement 12/07/96 inférieure à 18 %, et à 15 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955.
+La décélération est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
+
+5,8 m/s² pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 2012 ;
+
+5,0 m/s² pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 1956 et les véhicules utilitaires mis pour la première fois en circulation à partir du 1er octobre 1989 ;
+
+4,5 m/s² pour les véhicules utilitaires mis pour la première fois en circulation entre le 1er janvier 1956 et le 30 septembre 1989 ;
+
+3,5 m/s² pour les voitures particulières mises pour la première fois en circulation avant le 31 décembre 1955 ;
+
+3,0 m/s² pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955.
+
+<u>Efficacité du frein de stationnement</u>
+
+1.1.2.1.2. Efficacité globale insuffisante
+
+L'efficacité totale du frein de stationnement du véhicule est le rapport de la somme des forces de freinage relevées successivement sur chacune des roues concernées du véhicule, <u>sur la somme des poids sur toutes</u>
+
+<u>les roues du véhicule</u> mesurées au moment des essais en incluant le conducteur.
+
+L'efficacité totale du frein de stationnement est considérée comme insuffisante quand elle est strictement inférieure à 18 %, et à 15 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955.
 
 <u>Efficacité du frein de secours</u>
 
 1.1.3.1.1. Efficacité globale insuffisante
 
-L'efficacité totale du frein de secours du véhicule est le rapport de la somme des forces de freinage 12/07/96 relevées successivement sur chacune des roues concernées du véhicule, sur la somme des poids sur toutes les roues du véhicule mesurées au moment des essais en incluant le conducteur. <u>10/10/96</u> Lorsque la conception du véhicule permet le contrôle de l'efficacité totale de son frein de secours, celle-ci 12/07/96 est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
+L'efficacité totale du frein de secours du véhicule est le rapport de la somme des forces de freinage relevées successivement sur chacune des roues concernées du véhicule, sur la somme des poids sur toutes les roues du véhicule mesurées au moment des essais en incluant le conducteur.
 
-- 25 % pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 1956, 12/07/96
+Lorsque la conception du véhicule permet le contrôle de l'efficacité totale de son frein de secours, celle-ci est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
-- 22 % pour les véhicules utilitaires mis pour la première fois en circulation à partir du 1er janvier 1956, 12/07/96
+- 25 % pour les voitures particulières mises pour la première fois en circulation à partir du 1er janvier 1956,
 
-- 18 % pour les voitures particulières mises pour la première fois en circulation avant le 12/07/96 31 décembre 1955,
+- 22 % pour les véhicules utilitaires mis pour la première fois en circulation à partir du 1er janvier 1956,
 
-- 15 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955. 12/07/96 Pneumatiques
+- 18 % pour les voitures particulières mises pour la première fois en circulation avant le 31 décembre 1955,
 
-Tout véhicule pour lequel une contre-visite a été prescrite au titre des pneumatiques doit faire l'objet, lors 14/02/96 de la contre-visite, de l'ensemble des contrôles prescrits pour les roues et les pneumatiques.
+- 15 % pour les véhicules utilitaires mis pour la première fois en circulation avant le 31 décembre 1955.
+
+Direction
+
+Le ripage est considéré comme excessif, si la valeur est supérieure à 8 m/km (+ ou -).
+
+Suspension
+
+La dissymétrie de la suspension est considérée comme importante quand la différence de l'efficacité de la suspension constatée sur un même essieu est supérieure à 30 %.
+
+Pneumatiques
+
+Tout véhicule pour lequel une contre-visite a été prescrite au titre des pneumatiques doit faire l'objet, lors de la contre-visite, de l'ensemble des contrôles prescrits pour les roues et les pneumatiques.
 
 Roues
 
@@ -93,15 +127,15 @@ Pollution
 
 9.1.1.1.1. Teneur en CO excessive ;
 
-La teneur en CO au ralenti ne doit pas excéder 3,5 % pour les véhicules mis pour la première fois en 14/02/96 circulation après le 1er octobre 1986. Elle ne doit pas excéder 4,5 % pour les véhicules mis pour la première fois en circulation entre le 1er octobre 1972 et le 30 septembre 1986. Les véhicules mis pour la première fois en circulation avant le 1er octobre 1972 sont dispensés de ce contrôle. <u>08/06/01</u>
+La teneur en CO au ralenti ne doit pas excéder 3,5 % pour les véhicules mis pour la première fois en circulation après le 1er octobre 1986. Elle ne doit pas excéder 4,5 % pour les véhicules mis pour la première fois en circulation entre le 1er octobre 1972 et le 30 septembre 1986. Les véhicules mis pour la première fois en circulation avant le 1er octobre 1972 sont dispensés de ce contrôle.
 
-Pour les véhicules dont les émissions sont régulées par un système de dépollution comprenant un 17/11/03 catalyseur, la teneur en CO ne peut excéder la valeur spécifiée par le constructeur lorsqu'elle existe ou à défaut les valeurs suivantes :
+Pour les véhicules dont les émissions sont régulées par un système de dépollution comprenant un catalyseur, la teneur en CO ne peut excéder la valeur spécifiée par le constructeur lorsqu'elle existe ou à défaut les valeurs suivantes :
 
 - 0,5 % au ralenti et 0,3 % au ralenti accéléré pour les véhicules immatriculés jusqu'au 1er juillet 2002 ;
 
 - 0,3 % au ralenti et 0,2 % au ralenti accéléré pour les véhicules immatriculés ou mis en circulation après le 1er juillet 2002.
 
-9.1.1.1.2. Valeur du lambda excessive ou insuffisante 08/06/01
+9.1.1.1.2. Valeur du lambda excessive ou insuffisante
 
 A défaut de spécifications particulières mentionnées par le constructeur du véhicule, la valeur du lambda des gaz d'échappement ne doit pas être inférieure à 0,97 ni supérieure à 1,03, pour les voitures particulières mises pour la première fois en circulation à compter du 1er janvier 1994 et les véhicules autres que voitures particulières mis pour la première fois en circulation à compter du 1er janvier 1997, et dont les émissions sont régulées par un système de dépollution comprenant un catalyseur. Les autres véhicules ne sont pas soumis à ce contrôle.
 
@@ -118,7 +152,7 @@ Tout véhicule pour lequel une contre-visite a été prescrite au titre de la "t
 
 9.1.2.1.1. Opacité des fumées d'échappement excessive
 
-L'opacité des fumées en accélération libre, mesurée par leur coefficient d'absorption, en utilisant la 17/11/03 décision d'acceptation du paragraphe 7.3 de la norme NF R 10-025-3 : 1996, ne doit pas excéder la valeur spécifiée par le constructeur lorsqu'elle existe ou à défaut les valeurs suivantes :
+L'opacité des fumées en accélération libre, mesurée par leur coefficient d'absorption, ne doit pas excéder la valeur spécifiée par le constructeur lorsqu'elle existe ou à défaut les valeurs suivantes :
 
 - 2,5 m-1 dans le cas des moteurs Diesel à aspiration naturelle ;
 
@@ -142,15 +176,11 @@ Tout véhicule équipé d'une installation de gaz carburant pour lequel une cont
 
 Véhicules école
 
-Tout véhicule école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la 27/07/01 fonction "1. Freinage" ou du point de contrôle "C.3.4. Frein de service" doit faire l'objet, lors de la contre­visite, des contrôles prescrits par les points de contrôle de la fonction "1. Freinage" et par le point de contrôle "C.3.4. Frein de service".
-
-Véhicules ayant au moins un des défauts suivants : 0.2.2.2.4, 0.2.2.3.1, 0.2.2.3.2 (3)
-
-En présence d'un des défauts cités ci-dessus, le résultat du contrôle est égal à S. Le véhicule est soumis à 14/10/09 une nouvelle visite technique périodique en application de l'article 7, ou à une nouvelle visite technique complémentaire en application de l'article 7-1. (3)
+Tout véhicule école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la fonction "1. Freinage" ou du point de contrôle "C.3.4. Frein de service" doit faire l'objet, lors de la contre-­visite, des contrôles prescrits par les points de contrôle de la fonction "1. Freinage" et par le point de contrôle "C.3.4. Frein de service".
 
 Véhicules ayant un des défauts suivants : 0.3.1.1.2, 0.3.1.2.1, 0.3.2.1.1, H.1.8.1.1, H.1.8.2.1, H.1.9.1.1.
 
-En présence d'un des défauts ci-dessus, le contrôle est arrêté. Seul un procès-verbal de contrôle 16/07/2010 technique, qui est imprimé avec le défaut concerné et la mention "Report de la visite" au niveau du résultat du contrôle (sans date de validité), est remis à l'usager. Le timbre certificat d'immatriculation et la vignette sont rendus inutilisables.
+En présence d'un des défauts ci-dessus, le contrôle est arrêté. Seul un procès-verbal de contrôle technique, qui est imprimé avec le défaut concerné et la mention "Report de la visite" au niveau du résultat du contrôle (sans date de validité), est remis à l'usager. Le timbre certificat d'immatriculation et la vignette sont rendus inutilisables.
 
 La validité du contrôle technique précédent n'est pas modifiée.
 
@@ -172,9 +202,13 @@ Dans le cas où le frein de service est à commande hydraulique ou pneumatique s
 
 Dans le cas d'un véhicule dont le dispositif de freinage à commande hydraulique ou pneumatique n'équipe pas l'ensemble des essieux, le contrôleur vérifie :
 
-- le fonctionnement des récepteurs à l'actionnement de la commande de freinage ; - l'état, l'étanchéité et la fixation des éléments constituant le circuit de freinage. Véhicules mis en circulation à compter du 1er janvier 1956.
+- le fonctionnement des récepteurs à l'actionnement de la commande de freinage ;
 
-Les prescriptions prévues au troisième titre "Freinage" du présent appendice sont applicables. b) Direction.
+- l'état, l'étanchéité et la fixation des éléments constituant le circuit de freinage. Véhicules mis en circulation à compter du 1er janvier 1956.
+
+Les prescriptions prévues au troisième titre "Freinage" du présent appendice sont applicables.
+
+b) Direction.
 
 Angles, ripage avant.
 
@@ -204,11 +238,7 @@ Dans le cas où les roues d'un véhicule de collection sont constituées d'élé
 
 rayons) sans pneumatique, le contrôleur ne vérifie que l'état, le fonctionnement et la fixation des roues (H.3.10).
 
-Dans le cas où les roues d'un véhicule de collection sont constituées d'éléments en bois (exemple
-
-:
-
-rayons) avec des pneumatiques, le contrôleur vérifie :
+Dans le cas où les roues d'un véhicule de collection sont constituées d'éléments en bois (exemple : rayons) avec des pneumatiques, le contrôleur vérifie :
 
 - l'état, le fonctionnement et la fixation des roues (H.3.10) ;
 

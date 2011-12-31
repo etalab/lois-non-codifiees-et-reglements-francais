@@ -16,13 +16,21 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <td valign="top" width="608">
 <p>X.X.X. Point de contrôle</p>
 <p>X.X.X.X.X. Défaut constatable + localisation</p>
-<p>5.2.4.1.6. Protection rotule défectueuse (SUPD, INFD, SUPG, INFG, D, G)</p>
+<br/>
 </td>
 <td valign="top" width="61">
 <p align="center">Contre­</p>
 <p align="center">visite</p>
 <p align="center">(oui/non)</p>
-<p align="center">N</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2.4.1.6. Protection rotule défectueuse (SUPD, INFD, SUPG, INFG, D, G)</p>
+</td>
+<td>
+<p align="center"> N</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +69,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="608">
-<p>5.2.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG,</p>
+<p>5.2.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G, C)</p>
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
@@ -69,7 +77,6 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="608">
-<p>INFG, D, G, C)</p>
 <p>5.2.5.1.3. Corrosion importante (D, G)</p>
 </td>
 <td valign="top" width="61">
@@ -201,7 +208,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>5.2.7.3.1. Fuite (AV, AR, C.)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +312,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>5.3.1.2.1. Résistance anormale à la rotation (AVD. AVG. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +334,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>5.3.1.3.1. Mauvaise fixation (AVD. AVG. ARD. ARG.)</p>
 </td>
 <td valign="top" width="61">
-<p align="center">N</p>
+<p align="center">O</p>
 </td>
 </tr>
 <tr>
@@ -950,7 +957,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="609">
-<p>6.1.7.1.2. Corrosion perforante multiple</p>
+<p>6.1.7.1.2. Corrosion perforante multiple et/ ou fissure/ cassure multiple</p>
 </td>
 <td valign="top" width="61">
 <p align="center">N</p>
@@ -1396,6 +1403,20 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </td>
 </tr>
 <tr>
+<td>6.2.9. ANTI-ENCASTREMENT, PROTECTION LATÉRALE </td>
+<td/>
+</tr>
+<tr>
+<td>6.2.9.1. ÉTAT </td>
+<td/>
+</tr>
+<tr>
+<td>6.2.9.1.1. Détérioration importante et/ ou mauvaise fixation/ liaison</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="609">
 <p>7. EQUIPEMENTS</p>
 </td>
@@ -1536,7 +1557,7 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </tr>
 <tr>
 <td valign="top" width="609">
-<p>7.2.1. AVERTISSEUR SONORE</p>
+<p>7.2.1. AVERTISSEUR SONORE ET SA COMMANDE </p>
 </td>
 <td valign="top" width="61"/>
 </tr>
@@ -1552,6 +1573,16 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 </td>
 <td valign="top" width="61">
 <p align="center">O</p>
+</td>
+</tr>
+<tr>
+<td>7.2.1.2. Fixation </td>
+<td/>
+</tr>
+<tr>
+<td>7.2.1.2.1. Mauvaise fixation</td>
+<td>
+<p align="center">N</p>
 </td>
 </tr>
 <tr>
@@ -1660,6 +1691,48 @@ I- Liste des défauts constatables, relatifs à chaque contrôle (suite)
 <p>7.2.4.1.1. Anomalie de fixation et/ou détérioration importante</p>
 </td>
 <td valign="top" width="62">
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2.5. DISPOSITIF ANTIVOL </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>7.2.5.1. ÉTAT</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>7.2.5.1.1. Détérioration</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>7.2.5.1.2. Détérioration importante</td>
+<td>
+<p align="center">O</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.2.6. INDICATEUR DE VITESSE </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>7.2.6.1. ÉTAT </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>7.2.6.1.1. Mauvais état</td>
+<td>
 <p align="center">N</p>
 </td>
 </tr>
