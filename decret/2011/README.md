@@ -925,6 +925,7 @@
 - [Décret n°2004-388 du 30 avril 2004 (INDI0402817D)](decret-n2004-388-du-30-avril-2004-indi0402817d)
 - [Décret n°2010-1016 du 30 août 2010 (MTSC0928813D)](decret-n2010-1016-du-30-aout-2010-mtsc0928813d)
 - [Décret n°2010-1018 du 30 août 2010 (MTST1016633D)](decret-n2010-1018-du-30-aout-2010-mtst1016633d)
+- [Décret n°2010-1695 du 30 décembre 2010 (MAEA1026456D)](decret-n2010-1695-du-30-decembre-2010-maea1026456d)
 - [Décret n°2010-1734 du 30 décembre 2010 (ETSS1033341D)](decret-n2010-1734-du-30-decembre-2010-etss1033341d)
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
 - [Décret n°2011-1035 du 30 août 2011 (AGRS1115905D)](decret-n2011-1035-du-30-aout-2011-agrs1115905d)

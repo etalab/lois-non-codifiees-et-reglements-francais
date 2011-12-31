@@ -1,0 +1,7 @@
+# Décret n° 2010-1695 du 30 décembre 2010 relatif à l'Institut français
+
+- [TITRE IER : DISPOSITIONS GENERALES](titre-ier)
+- [TITRE II : ORGANISATION ADMINISTRATIVE](titre-ii)
+- [TITRE III : REGIME FINANCIER ET COMPTABLE](titre-iii)
+- [TITRE IV : EXPERIMENTATION](titre-iv)
+- [TITRE V : DISPOSITIONS DIVERSES ET TRANSITOIRES](titre-v)
