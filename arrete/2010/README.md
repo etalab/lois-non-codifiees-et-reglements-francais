@@ -2576,7 +2576,6 @@
 - [Arrêté du 26 mars 2010 (BCRR1008367A)](arrete-du-26-mars-2010-bcrr1008367a)
 - [Arrêté du 26 mars 2010 (ECEU1005655A)](arrete-du-26-mars-2010-eceu1005655a)
 - [Arrêté du 26 mars 2010 (ESRS1008581A)](arrete-du-26-mars-2010-esrs1008581a)
-- [Arrêté du 26 novembre 2009 (DEFM0926881A)](arrete-du-26-novembre-2009-defm0926881a)
 - [Arrêté du 26 novembre 2009 (IOCB0911798A)](arrete-du-26-novembre-2009-iocb0911798a)
 - [Arrêté du 26 novembre 2010 (BCRE1030955A)](arrete-du-26-novembre-2010-bcre1030955a)
 - [Arrêté du 26 novembre 2010 (BCRS1030162A)](arrete-du-26-novembre-2010-bcrs1030162a)
