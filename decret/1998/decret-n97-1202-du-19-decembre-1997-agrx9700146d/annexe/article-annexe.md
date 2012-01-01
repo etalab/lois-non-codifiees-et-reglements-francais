@@ -241,8 +241,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des experts chargés de la vérification de l'existence des propriétés définies à l'article L. 617-2 du code de la santé publique en vue de la mise sur le marché des médicaments vétérinaires. </p>
 </td>
 <td valign="top" width="302">
-<p>
-Article R. 5146-19 du code de la santé publique. </p>
+<p>Article R. 5146-19 du code de la santé publique. </p>
 </td>
 </tr>
 <tr>
@@ -355,15 +354,20 @@ Article R. 5146-19 du code de la santé publique. </p>
 </tr>
 <tr>
 <td>
-<p>Reconnaissance des organismes certificateurs prévue au 2° de l'article L. 254-2 du code rural et de la pêche maritime</p>
+<p>Reconnaissance des organismes certificateurs prévue au 2° de l'article L. 254-2 du code rural et de la pêche maritime </p>
 </td>
 <td>Article R. 254-2 du code rural et de la pêche maritime </td>
 </tr>
 <tr>
 <td>
-<p>Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire dépassant celui de la région</p>
+<p>Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire dépassant celui de la région </p>
 </td>
 <td>Article R. 254-14 du code rural et de la pêche maritime </td>
+</tr>
+<tr>
+<td>Agrément des matériels d'identification des animaux des espèces bovine, ovine, caprine, porcine et équine et des carnivores domestiques. </td>
+<td>Article R. 212-72 du code rural et de la pêche maritime. <br/>
+</td>
 </tr>
 <tr>
 <td valign="top" width="302">
