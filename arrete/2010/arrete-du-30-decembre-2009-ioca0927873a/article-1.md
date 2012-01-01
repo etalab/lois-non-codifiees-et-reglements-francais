@@ -14,7 +14,7 @@ c) Emploi d'agent principal des services techniques du ministère de l'intérieu
 
 Corps de catégorie B
 
-d) Corps des contrôleurs des services techniques du ministère de l'intérieur régi par le décret n° 97-259 du 17 mars 1997 modifié ;
+d) Corps des contrôleurs des services techniques du ministère de l'intérieur régi par le décret n° 2011-1988 du 27 décembre 2011  ;
 
 Corps et emplois de catégorie A
 
@@ -22,9 +22,7 @@ e) Corps des ingénieurs des services techniques du ministère de l'intérieur r
 
 f) Emploi de chef des services techniques du ministère de l'intérieur régi par le décret n° 2005-1305 du 19 octobre 2005.
 
-2. Personnels des services
-
-des systèmes d'information et de communication
+2. Personnels des services des systèmes d'information et de communication
 
 Corps de catégorie C
 
@@ -32,7 +30,7 @@ a) Corps des agents des systèmes d'information et de communication du ministèr
 
 Corps de catégorie B
 
-b) Corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur régi par le décret n° 2000-798 du 24 août 2000 modifié ;
+b) Corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur régi par le décret n° 2011-1987 du 27 décembre 2011 ;
 
 Corps et emplois de catégorie A
 
