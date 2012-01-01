@@ -22,4 +22,6 @@ Le programme générateur des RHA met en œuvre le groupage en GMD et ajoute, à
 
 II. ― Les établissements de santé mentionnés aux d et e de l'article L. 162-22-6 du code de la sécurité sociale constituent des fichiers de RSFA élaborés sous la responsabilité du médecin mentionné à l'article 4, et dont le contenu est indiqué dans l'annexe II du présent arrêté. Les informations contenues dans ce résumé sont extraites du bordereau de facturation transmis aux organismes de l'assurance maladie.
 
-III. ― Le directeur et le président de la commission médicale ou de la conférence médicale de l'établissement sont destinataires de statistiques, agrégées par unité médicale et pour l'ensemble de la structure ou, sur leur demande et dans les conditions prévues au chapitre V ter de la loi du 6 janvier 1978 susvisée, de fichiers de RHS, de RHA, de SSRHA ou d'extraits de données issues de ces fichiers.
+III. - Les établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale constituent des fichiers de RSF-ACE élaborés sous la responsabilité du médecin mentionné à l'article 4.
+
+IV. ― Le directeur et le président de la commission médicale ou de la conférence médicale de l'établissement sont destinataires de statistiques, agrégées par unité médicale et pour l'ensemble de la structure ou, sur leur demande et dans les conditions prévues au chapitre X de la loi du 6 janvier 1978 susvisée, de fichiers de RHA, de SSRHA ou d'extraits de données issues de ces fichiers.

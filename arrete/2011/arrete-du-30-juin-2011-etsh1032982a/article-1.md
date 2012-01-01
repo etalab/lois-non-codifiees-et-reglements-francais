@@ -10,4 +10,8 @@ IV. - Après avoir été rendues anonymes, certaines des informations des résum
 
 V. - Les établissements de santé mentionnés aux d et e de l'article L. 162-22-6 du code de la sécurité sociale transmettent à l'agence régionale de santé, selon les modalités décrites à l'article 6, un ou des résumés de facturation rendus anonymes, correspondant à chaque séjour d'un patient dans l'établissement, et dont le contenu est décrit dans l'annexe II jointe au présent arrêté. Les informations contenues dans les résumés standardisés de facturation anonymes (RSFA) correspondent aux bordereaux de facturation transmis aux organismes d'assurance maladie.
 
-VI. - Les établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale transmettent à l'agence selon les modalités décrites à l'article 6 un fichier dénommé "FICHCOMP" comportant les informations d'activité relatives aux spécialités pharmaceutiques mentionnées à l'article L. 162-22-7 du code de la sécurité sociale. Le fichier anonyme correspondant au fichier FICHCOMP comportant des informations à caractère personnel est dénommé FICHCOMPA.
+VI. - Les établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale transmettent à l'agence selon les modalités décrites à l'article 6 :
+
+- un fichier dénommé "FICHCOMP" comportant les informations d'activité relatives aux spécialités pharmaceutiques mentionnées à l'article L. 162-22-7 du code de la sécurité sociale. Le fichier anonyme correspondant aux fichiers FICHCOMP comportant des informations à caractère personnel est dénommé FICHCOMPA.
+
+- un fichier dénommé RSF-ACE comportant les informations d'activité relatives aux consultations et actes externes mentionnés à l'article L. 162-26 du code de la sécurité sociale. Le fichier anonyme correspondant au fichier RSF-ACE comportant des informations à caractère personnel est dénommé RAFAEL.

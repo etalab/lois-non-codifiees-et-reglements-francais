@@ -205,6 +205,14 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">235</p>
+</td>
+<td>
+<p align="center">Part investissement PPP</p>
+</td>
+</tr>
+<tr>
 <td align="center">237.<br/>
 </td>
 <td align="center">Avances et acomptes versés sur immobilisations incorporelles.<br/>
@@ -247,13 +255,13 @@
 </td>
 </tr>
 <tr>
-<td align="center"> 070 .<br/>
+<td align="center">070 .<br/>
 </td>
 <td align="center">Annulation de mandats (emplois) sur exercices clos.<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 071 .<br/>
+<td align="center">071 .<br/>
 </td>
 <td align="center">Annulation de titres (ressources) sur exercices clos.<br/>
 </td>
@@ -282,7 +290,7 @@
 </td>
 <td align="center">Achats (hors 609).<br/>
 </td>
-<td align="center">609 : voir chapitres  061  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">609 : voir chapitres 061 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -290,7 +298,7 @@
 </td>
 <td align="center">Variations des stocks.<br/>
 </td>
-<td align="center">Hors charges récupérables (chapitre  063 ).<br/>Hors atténuation de charges récupérables (chapitre  064 ).<br/>Chapitre présent dans les charges (annulation de stock initial) et dans les produits (constatation de stock final).<br/>
+<td align="center">Hors charges récupérables (chapitre 063 ).<br/>Hors atténuation de charges récupérables (chapitre 064 ).<br/>Chapitre présent dans les charges (annulation de stock initial) et dans les produits (constatation de stock final).<br/>
 </td>
 </tr>
 <tr>
@@ -298,7 +306,7 @@
 </td>
 <td align="center">Services extérieurs (hors 619).<br/>
 </td>
-<td align="center">619 : voir chapitres  061  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">619 : voir chapitres 061 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -315,7 +323,7 @@
 </td>
 <td align="center">Autres services extérieurs (hors 629).<br/>
 </td>
-<td align="center">629 : voir chapitres  061  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">629 : voir chapitres 061 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -323,7 +331,7 @@
 </td>
 <td align="center">Impôts, taxes et versements assimilés (hors 6319, 6339 et 6359).<br/>
 </td>
-<td align="center">6319, 6339 et 6359 : voir chapitres  062  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">6319, 6339 et 6359 : voir chapitres 062 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -340,7 +348,7 @@
 </td>
 <td align="center">Charges de personnel (hors rémunérations) (hors 6459, 6479 et 6489).<br/>
 </td>
-<td align="center">6459, 6479 et 6489 : voir chapitres  062  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">6459, 6479 et 6489 : voir chapitres 062 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -348,7 +356,7 @@
 </td>
 <td align="center">Rémunérations du personnel (hors 6419).<br/>
 </td>
-<td align="center">6419 : voir chapitres  062  et  064 .<br/>Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">6419 : voir chapitres 062 et 064 .<br/>Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -365,7 +373,7 @@
 </td>
 <td align="center">Autres charges de gestion courante.<br/>
 </td>
-<td align="center">Hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">Hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -382,7 +390,7 @@
 </td>
 <td align="center">Charges financières (hors 6691).<br/>
 </td>
-<td align="center">6691 : voir chapitre  061 .<br/>
+<td align="center">6691 : voir chapitre 061 .<br/>
 </td>
 </tr>
 <tr>
@@ -390,7 +398,7 @@
 </td>
 <td align="center">Charges exceptionnelles.<br/>
 </td>
-<td align="center">hors charges récupérables (chapitre  063 ).<br/>
+<td align="center">hors charges récupérables (chapitre 063 ).<br/>
 </td>
 </tr>
 <tr>
@@ -514,7 +522,7 @@
 </td>
 <td align="center">Produits exceptionnels (hors 7732).<br/>
 </td>
-<td align="center">7732 : voir chapitre  064 .<br/>
+<td align="center">7732 : voir chapitre 064 .<br/>
 </td>
 </tr>
 <tr>
@@ -563,7 +571,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"> 061 .<br/>
+<td align="center">061 .<br/>
 </td>
 <td align="center">Rabais, remises, ristournes et bonifications d'intérêts (sur charges non récupérables) : 6091, 60921, 6094, 60961, 6098, 6191, 6291, 6691.<br/>
 </td>
@@ -572,7 +580,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"> 062 .<br/>
+<td align="center">062 .<br/>
 </td>
 <td align="center">Remboursements sur salaires, charges sociales et taxes (sur charges non récupérables) : 63191, 63391, 63591, 64191, 64591, 64791, 6489.<br/>
 </td>
@@ -581,15 +589,15 @@
 </td>
 </tr>
 <tr>
-<td align="center"> 063 .<br/>
+<td align="center">063 .<br/>
 </td>
 <td align="center">Charges récupérables.<br/>
 </td>
-<td align="center">L'article 60322 figure dans le chapitre  063  (si annulation de stock initial).<br/>
+<td align="center">L'article 60322 figure dans le chapitre 063 (si annulation de stock initial).<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 064 .<br/>
+<td align="center">064 .<br/>
 </td>
 <td align="center">Atténuation de charges récupérables : 60322 (si constatation de stock final), 60922, 60962, 6192, 6292, 63192, 63392, 63592, 64192, 64592, 64792, 7732.<br/>
 </td>
@@ -598,7 +606,7 @@
 </td>
 </tr>
 <tr>
-<td align="center"> 002 .<br/>
+<td align="center">002 .<br/>
 </td>
 <td align="center">Résultat de fonctionnement reporté.<br/>
 </td>
