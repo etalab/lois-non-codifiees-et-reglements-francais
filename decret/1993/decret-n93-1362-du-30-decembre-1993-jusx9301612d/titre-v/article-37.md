@@ -1,25 +1,5 @@
 # Article 37
 
-La demande est accompagnée des pièces suivantes :
+Pour l'application de l'article 21-24 du code civil, tout demandeur doit justifier d'une connaissance de la langue française caractérisée par la compréhension des points essentiels du langage nécessaire à la gestion de la vie quotidienne et aux situations de la vie courante ainsi que par la capacité à émettre un discours simple et cohérent sur des sujets familiers dans ses domaines d'intérêt. Son niveau est celui défini par le niveau B1, rubriques " écouter ", " prendre part à une conversation " et " s'exprimer oralement en continu " du Cadre européen commun de référence pour les langues, tel qu'adopté par le comité des ministres du Conseil de l'Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008.
 
-1° Une copie intégrale de l'acte de naissance ;
-
-2° La justification par tous moyens de la résidence habituelle en France du demandeur pendant les cinq années qui précèdent le dépôt de la demande sous réserve des réductions ou dispenses de stage prévues aux articles 21-18 à 21-20 du code civil et, lorsque la demande est présentée au nom d'un mineur, la justification de la résidence habituelle de ce dernier pendant les cinq années qui précèdent le dépôt de la demande avec le parent qui a acquis la nationalité française ;
-
-3° Tous documents justifiant qu'il a sa résidence en France à la date de la demande ;
-
-4° S'il entend bénéficier de l'assimilation de résidence prévue à l'article 21-26 du code civil, toutes justifications permettant de constater qu'il remplit les conditions posées à cet article ;
-
-5° Le cas échéant, la copie intégrale des actes de naissance de ses enfants mineurs étrangers qui résident avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce ainsi que les pièces de nature à établir cette résidence ;
-
-6° Le cas échéant, la copie intégrale du ou des actes de mari age ainsi que les pièces de nature à justifier la dissolution des unions antérieures ;
-
-7° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ;
-
-8° Le cas échéant, tout document justifiant de la nationalité française du ou des enfants mineurs qui résident avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce.
-
-Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse, produite en original.
-
-Dès la production des pièces prévues ci-dessus, l'autorité auprès de laquelle la demande a été déposée délivre le récépissé prévu à l'article 21-25-1 du code civil constatant cette production.
-
-Le demandeur doit signaler à l'autorité qui a reçu sa demande tout changement de résidence et toute modification intervenue dans sa situation familiale en transmettant auprès de cette autorité le document prévu à cet effet joint au formulaire de demande d'acquisition de la nationalité française. Il sera délivré récépissé du dépôt de ce document.
+Un arrêté ministériel précise, pour les demandeurs qui ne produisent pas de diplôme justifiant d'un niveau égal ou supérieur au niveau requis, les attestations devant être produites, permettant de justifier de la possession de ce niveau de langue et délivrées par des organismes reconnus par l'Etat comme aptes à assurer une formation " français langue d'intégration ". Cet arrêté définit les conditions dans lesquelles des prestataires agréés par ces organismes peuvent délivrer de telles attestations.

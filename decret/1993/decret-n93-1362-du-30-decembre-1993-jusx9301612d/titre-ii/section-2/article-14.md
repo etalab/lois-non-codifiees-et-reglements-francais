@@ -1,19 +1,5 @@
 # Article 14
 
-Pour souscrire la déclaration prévue à l'article 21-2 du code civil le déclarant doit fournir les pièces suivantes.
+Pour l'application de l'article 21-2 du code civil, tout déclarant doit justifier d'une connaissance de la langue française caractérisée par la compréhension des points essentiels du langage nécessaire à la gestion de la vie quotidienne et aux situations de la vie courante ainsi que par la capacité à émettre un discours simple et cohérent sur des sujets familiers dans ses domaines d'intérêt. Son niveau est celui défini par le niveau B1, rubriques " écouter ", " prendre part à une conversation " et " s'exprimer oralement en continu " du Cadre européen commun de référence pour les langues, tel qu'adopté par le comité des ministres du Conseil de l'Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008.
 
-1° Une copie intégrale de son acte de naissance ;
-
-2° Une copie intégrale de son acte de mariage ou de sa transcription sur les registres consulaires français quand le mariage a été célébré à l'étranger ;
-
-3° Une attestation sur l'honneur des deux époux signée devant l'autorité qui reçoit la déclaration certifiant qu'à la date de cette déclaration la communauté de vie tant affective que matérielle n'a pas cessé entre eux depuis le mariage et accompagnée de tous documents corroborant cette affirmation, dont notamment la copie intégrale de l'acte de naissance des enfants nés avant ou après le mariage et établissant la filiation à l'égard des deux conjoints ;
-
-4° Un certificat de nationalité française, les actes de l'état civil ou tous autres documents émanant des autorités françaises de nature à établir que son conjoint avait la nationalité française au jour du mariage et l'a conservée ;
-
-5° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ;
-
-6° Le cas échéant, tout document justifiant de sa résidence régulière et ininterrompue en France pendant au moins trois ans à compter du mariage ou un certificat d'inscription du conjoint français au registre des Français établis hors de France pendant la durée de leur communauté de vie à l'étranger ;
-
-7° Le cas échéant, la copie intégrale des actes de naissance de ses enfants mineurs étrangers qui résident avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce ainsi que les pièces de nature à établir cette résidence ;
-
-8° Le cas échéant, en cas d'unions antérieures, les copies intégrales des actes de mariage et tous documents justifiant leur dissolution.
+Un arrêté ministériel précise, pour les déclarants qui ne produisent pas de diplôme justifiant d'un niveau égal ou supérieur au niveau requis, les attestations devant être produites, permettant de justifier de la possession de ce niveau de langue et délivrées par des organismes reconnus par l'Etat comme aptes à assurer une formation " français langue d'intégration ". Cet arrêté définit les conditions dans lesquelles des prestataires agréés par ces organismes peuvent délivrer de telles attestations.
