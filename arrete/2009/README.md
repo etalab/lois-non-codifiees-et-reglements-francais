@@ -1278,7 +1278,6 @@
 - [Arrêté du 16 octobre 2009 (MCCK0918755A)](arrete-du-16-octobre-2009-mcck0918755a)
 - [Arrêté du 16 septembre 2009 (AGRM0914127A)](arrete-du-16-septembre-2009-agrm0914127a)
 - [Arrêté du 16 septembre 2009 (AGRM0920472A)](arrete-du-16-septembre-2009-agrm0920472a)
-- [Arrêté du 16 septembre 2009 (BCFF0920946A)](arrete-du-16-septembre-2009-bcff0920946a)
 - [Arrêté du 16 septembre 2009 (DEVT0918676A)](arrete-du-16-septembre-2009-devt0918676a)
 - [Arrêté du 16 septembre 2009 (ECEM0908897A)](arrete-du-16-septembre-2009-ecem0908897a)
 - [Arrêté du 16 septembre 2009 (ECEM0912503A)](arrete-du-16-septembre-2009-ecem0912503a)
