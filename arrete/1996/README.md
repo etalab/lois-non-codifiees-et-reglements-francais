@@ -88,7 +88,6 @@
 - [Arrêté du 4 janvier 1996 (AGRM9600148A)](arrete-du-4-janvier-1996-agrm9600148a)
 - [Arrêté du 4 janvier 1996 (INTD9600004A)](arrete-du-4-janvier-1996-intd9600004a)
 - [Arrêté du 4 janvier 1996 (MCCE9600009A)](arrete-du-4-janvier-1996-mcce9600009a)
-- [Arrêté du 4 janvier 1996 (TASF9610010A)](arrete-du-4-janvier-1996-tasf9610010a)
 - [Arrêté du 4 juillet 1996 (AGRS9601378A)](arrete-du-4-juillet-1996-agrs9601378a)
 - [Arrêté du 4 juillet 1996 (EQUS9600811A)](arrete-du-4-juillet-1996-equs9600811a)
 - [Arrêté du 4 juillet 1996 (FCEC9600131A)](arrete-du-4-juillet-1996-fcec9600131a)
