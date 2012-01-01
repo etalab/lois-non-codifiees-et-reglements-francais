@@ -12,7 +12,7 @@ Pour l'exercice des attributions mentionnées au présent titre et à l'article 
 
 5° La direction du service national ;
 
-6° La direction des statuts, des pensions et de la réinsertion sociale ;
+6° (Abrogé)
 
 7° Le service d'infrastructure de la défense ;
 

@@ -36,7 +36,7 @@ d) La direction de la mémoire, du patrimoine et des archives et le service hist
 
 e) La direction du service national ;
 
-f) La direction des statuts, des pensions et de la réinsertion sociale ;
+f) (Abrogé)
 
 g) La direction centrale du service d'infrastructure de la défense ;
 

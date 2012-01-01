@@ -19,28 +19,11 @@ Articles D. 3341-1 et suivants du code de la défense.</p>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Comité consultatif des usagers du centre d'études et de recherche sur l'appareillage des handicapés.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">
-Arrêté du 15 novembre 1999 portant organisation des sous-directions de la direction des statuts, des pensions et de la réinsertion sociale.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Comité consultatif des utilisateurs des documents, levés et prestations du service hydrographique et océanographique de la marine.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">
 Article R. 3416-19 du code de la défense.</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Comité consultatif scientifique du centre d'études et de recherche sur l'appareillage des handicapés.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Arrêté du 15 novembre 1999 portant organisation des sous-directions de la direction des statuts, des pensions et de la réinsertion sociale.</p>
 </td>
 </tr>
 <tr>
