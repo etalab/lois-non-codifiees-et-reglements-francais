@@ -4,12 +4,6 @@ Le statut d'université déterminé par les articles 25 à 33 de la loi du 26 ja
 
 1. Universités
 
-Aix-Marseille-I.
-
-Aix-Marseille-II.
-
-Aix-Marseille-III.
-
 Aix-Marseille.
 
 Amiens.
@@ -86,8 +80,6 @@ Lyon-III.
 
 Marne-la-Vallée.
 
-Metz.
-
 Montpellier-I.
 
 Montpellier-II.
@@ -95,10 +87,6 @@ Montpellier-II.
 Montpellier-III.
 
 Mulhouse.
-
-Nancy-I.
-
-Nancy-II.
 
 Nantes.
 
@@ -167,7 +155,5 @@ Valenciennes.
 Versailles-Saint-Quentin-en-Yvelines.
 
 2. Instituts nationaux polytechniques
-
-Lorraine.
 
 Toulouse.
