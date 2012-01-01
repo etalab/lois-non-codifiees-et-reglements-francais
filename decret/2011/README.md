@@ -398,6 +398,7 @@
 - [Décret n°2011-1559 du 15 novembre 2011 (AGRT1119324D)](decret-n2011-1559-du-15-novembre-2011-agrt1119324d)
 - [Décret n°2011-1560 du 15 novembre 2011 (AGRT1116720D)](decret-n2011-1560-du-15-novembre-2011-agrt1116720d)
 - [Décret n°2011-1561 du 15 novembre 2011 (AGRT1123538D)](decret-n2011-1561-du-15-novembre-2011-agrt1123538d)
+- [Décret n°2011-184 du 15 février 2011 (BCRF1102030D)](decret-n2011-184-du-15-fevrier-2011-bcrf1102030d)
 - [Décret n°2011-1883 du 15 décembre 2011 (EFIT1132540D)](decret-n2011-1883-du-15-decembre-2011-efit1132540d)
 - [Décret n°2011-842 du 15 juillet 2011 (DEVP1102171D)](decret-n2011-842-du-15-juillet-2011-devp1102171d)
 - [Décret n°2011-843 du 15 juillet 2011 (IOCA1111908D)](decret-n2011-843-du-15-juillet-2011-ioca1111908d)
