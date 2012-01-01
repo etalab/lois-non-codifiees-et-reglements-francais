@@ -93,7 +93,7 @@ T<sub>L</sub> représente un taux complémentaire fixé ci-dessous en fonction d
 <p>Personne seule </p>
 </td>
 <td width="302">
-<p align="center">245,78 </p>
+<p align="center">248,24 </p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ T<sub>L</sub> représente un taux complémentaire fixé ci-dessous en fonction d
 <p>Couple sans personne à charge</p>
 </td>
 <td width="302">
-<p align="center">300,84 </p>
+<p align="center">303,85 </p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ T<sub>L</sub> représente un taux complémentaire fixé ci-dessous en fonction d
 <p>Personne seule ou couple ayant une personne à charge</p>
 </td>
 <td width="302">
-<p align="center">338,52</p>
+<p align="center">341,91</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ T<sub>L</sub> représente un taux complémentaire fixé ci-dessous en fonction d
 <p>Par personne supplémentaire à charge</p>
 </td>
 <td width="302">
-<p align="center">349,27</p>
+<p align="center">349,76</p>
 </td>
 </tr>
 </tbody>

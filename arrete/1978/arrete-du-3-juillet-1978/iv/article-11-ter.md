@@ -5,29 +5,30 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION <br/>
-</th>
-<th>
-<br/>TOUTES ZONES <p>(en euros) <br/>
-</p>
-</th>
+<td>
+<p align="center">DÉSIGNATION</p>
+</td>
+<td>
+<p align="center">TOUTES ZONES<br/>(en euros) </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>Bénéficiaire isolé ou couple sans personne à charge. <br/>
-</p>
+<p align="left">
+<br/>Bénéficiaire isolé ou couple sans personne à charge </p>
 </td>
 <td align="center">
-<br/>51,31</td>
+<br/>51,82 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Par personne supplémentaire à charge. <br/>
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
 </td>
 <td align="center">
-<br/>11,62</td>
+<br/>11,74 <br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -37,36 +38,39 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DÉSIGNATION <br/>
-</th>
-<th>
-<br/>TOUTES ZONES <p>(en euros) <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé. <br/>
+<td>
+<p align="center">DÉSIGNATION </p>
 </td>
-<td align="center">
-<br/>25,64<br/>
+<td>
+<p align="center">TOUTES ZONES<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Couple sans personne à charge. <br/>
+<p align="left">
+<br/>Bénéficiaire isolé </p>
 </td>
 <td align="center">
-<br/>51,31<br/>
+<br/>25,90 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Par personne supplémentaire à charge. <br/>
+<p align="left">
+<br/>Couple sans personne à charge </p>
 </td>
 <td align="center">
-<br/>11,62</td>
+<br/>51,82 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center">
+<br/>11,74<br/>
+</td>
 </tr>
 </tbody>
 </table>

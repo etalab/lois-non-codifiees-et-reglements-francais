@@ -3621,7 +3621,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td width="227">
-<p>Bénéficiaire isolé</p>
+<p align="left">Bénéficiaire isolé</p>
 </td>
 <td width="151">
 <p align="center">266,32</p>
@@ -3635,7 +3635,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td width="227">
-<p>Couple sans personne à charge</p>
+<p align="left">Couple sans personne à charge</p>
 </td>
 <td width="151">
 <p align="center">321,39</p>
@@ -3649,7 +3649,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td width="227">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge</p>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge</p>
 </td>
 <td width="151">
 <p align="center">376,46</p>
@@ -3663,7 +3663,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td width="227">
-<p>Par personne supplémentaire à charge</p>
+<p align="left">Par personne supplémentaire à charge</p>
 </td>
 <td width="151">
 <p align="center">55,07</p>
@@ -3704,7 +3704,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé. <br/>
+<p align="left">Bénéficiaire isolé. <br/>
 </p>
 </td>
 <td align="center">
@@ -3719,7 +3719,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge. <br/>
+<p align="left">Couple sans personne à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3734,7 +3734,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3749,7 +3749,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge. <br/>
+<p align="left">Par personne supplémentaire à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3789,7 +3789,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé. <br/>
+<p align="left">Bénéficiaire isolé. <br/>
 </p>
 </td>
 <td align="center">
@@ -3804,7 +3804,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge. <br/>
+<p align="left">Couple sans personne à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3819,7 +3819,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3834,7 +3834,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge. <br/>
+<p align="left">Par personne supplémentaire à charge. <br/>
 </p>
 </td>
 <td align="center">
@@ -3876,7 +3876,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -3891,7 +3891,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -3906,7 +3906,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -3921,7 +3921,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -3960,7 +3960,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -3975,7 +3975,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -3990,7 +3990,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4005,7 +4005,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4048,7 +4048,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -4063,7 +4063,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4078,7 +4078,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4093,7 +4093,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4134,7 +4134,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -4149,7 +4149,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4164,7 +4164,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4179,7 +4179,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4222,7 +4222,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -4237,7 +4237,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4252,11 +4252,11 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
-<br/>501,53  <br/>
+<br/>501,53 <br/>
 </td>
 <td align="center">
 <br/>445,83 <br/>
@@ -4267,7 +4267,7 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4308,7 +4308,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé <br/>
+<p align="left">Bénéficiaire isolé <br/>
 </p>
 </td>
 <td align="center">
@@ -4323,7 +4323,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Couple sans personne à charge <br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4338,7 +4338,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
+<p align="left">Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4353,7 +4353,7 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 <tr>
 <td align="center">
-<p>Par personne supplémentaire à charge <br/>
+<p align="left">Par personne supplémentaire à charge <br/>
 </p>
 </td>
 <td align="center">
@@ -4368,3 +4368,175 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 </tbody>
 </table>
+
+27° Lorsque la date de signature du contrat de prêt est intervenue postérieurement au 31 décembre 2011 :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">DÉSIGNATION </p>
+</td>
+<td>
+<p align="center">ZONE 1 <br/>
+<br/>(en euros)</p>
+</td>
+<td>
+<p align="center">ZONE 2 <br/>
+<br/>(en euros)</p>
+</td>
+<td>
+<p align="center">ZONE 3 <br/>
+<br/>(en euros)</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Bénéficiaire isolé </p>
+</td>
+<td align="center">
+<br/>358,55 <br/>
+</td>
+<td align="center">
+<br/>319,98 <br/>
+</td>
+<td align="center">
+<br/>298,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Couple sans personne à charge </p>
+</td>
+<td align="center">
+<br/>432,55 <br/>
+</td>
+<td align="center">
+<br/>385,12 <br/>
+</td>
+<td align="center">
+<br/>358,19 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge </p>
+</td>
+<td align="center">
+<br/>506,55 <br/>
+</td>
+<td align="center">
+<br/>450,29 <br/>
+</td>
+<td align="center">
+<br/>417,67 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center">
+<br/>73,99 <br/>
+</td>
+<td align="center">
+<br/>65,15 <br/>
+</td>
+<td align="center">
+<br/>459,47 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et, le cas échéant, améliorés :
+
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">DÉSIGNATION</p>
+</td>
+<td>
+<p align="center">ZONE 1 <br/>
+<br/>(en euros)</p>
+</td>
+<td>
+<p align="center">ZONE 2 <br/>
+<br/>(en euros)</p>
+</td>
+<td>
+<p align="center">ZONE 3 <br/>
+<br/>(en euros)</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Bénéficiaire isolé </p>
+</td>
+<td align="center">
+<br/>288,61 <br/>
+</td>
+<td align="center">
+<br/>257,28 <br/>
+</td>
+<td align="center">
+<br/>240,27 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Couple sans personne à charge </p>
+</td>
+<td align="center">
+<br/>348,29 <br/>
+</td>
+<td align="center">
+<br/>309,87 <br/>
+</td>
+<td align="center">
+<br/>288,24 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge </p>
+</td>
+<td align="center">
+<br/>407,96 <br/>
+</td>
+<td align="center">
+<br/>362,44 <br/>
+</td>
+<td align="center">
+<br/>336,23 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center">
+<br/>59,68 <br/>
+</td>
+<td align="center">
+<br/>52,58 <br/>
+</td>
+<td align="center">
+<br/>347,99<br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
