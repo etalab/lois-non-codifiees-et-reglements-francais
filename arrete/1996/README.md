@@ -76,7 +76,6 @@
 - [Arrêté du 3 septembre 1996 (MCCT9600435A)](arrete-du-3-septembre-1996-mcct9600435a)
 - [Arrêté du 3 septembre 1996 (MENA9602286A)](arrete-du-3-septembre-1996-mena9602286a)
 - [Arrêté du 3 septembre 1996 (MIPP9600296A)](arrete-du-3-septembre-1996-mipp9600296a)
-- [Arrêté du 3 mai 1996 (INDB9600359A)](arrete-du-3-mai-1996-indb9600359a)
 - [Arrêté du 3 mai 1996 (TASA9620025A)](arrete-du-3-mai-1996-tasa9620025a)
 - [Arrêté du 4 avril 1995 (TEFT9500399A)](arrete-du-4-avril-1995-teft9500399a)
 - [Arrêté du 4 avril 1996 (ECOT9610269A)](arrete-du-4-avril-1996-ecot9610269a)

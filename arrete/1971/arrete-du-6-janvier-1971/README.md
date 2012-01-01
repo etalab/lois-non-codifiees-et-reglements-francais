@@ -1,4 +1,4 @@
-# Arrêté du 6 janvier 1971 relatif à la commission consultative départementale de la protection civile
+# Arrêté du 6 janvier 1971 relatif aux réfractomètres utilisés pour mesurer la teneur en sucres des moûts de raisins naturels
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

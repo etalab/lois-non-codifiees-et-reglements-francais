@@ -6,4 +6,4 @@ La commission se réunit sur convocation de son président.
 
 Les avis sont pris à la majorité des membres et, en cas de partage, la voix du président est prépondérante.
 
-Le secrétariat de la commission est assuré par le directeur départemental de la protection civile.
+Le secrétariat de la commission est assuré par le directeur départemental de la protection civile [*fonctionnement, règles de vote*].
