@@ -1,32 +1,32 @@
 # Article 20
 
-Les émoluments du militaire autorisé à bénéficier à l'étranger du congé de maladie prévu à l'article 53 de la loi du 13 juillet 1972 susvisée comprennent pendant la totalité de ce congé :
+Les émoluments du militaire autorisé à bénéficier à l'étranger du congé de maladie prévu à l'article L. 4138-3 du code de la défense comprennent pendant la totalité de ce congé :
 
-- la solde de base ;
+-la solde de base ;
 
-- 50 % de l'indemnité de résidence ;
+-50 % de l'indemnité de résidence ;
 
-- le cas échéant, le supplément familial prévu à l'article 7 ci-dessus ;
+-le cas échéant, le supplément familial prévu à l'article 7 ci-dessus ;
 
-- les majorations familiales figurant au tableau annexé à l'arrêté visé à l'article 8 ci-dessus ;
+-les majorations familiales figurant au tableau annexé à l'arrêté visé à l'article 8 ci-dessus ;
 
-- le cas échéant, les primes et indemnités prévues à l'article 2 du présent décret, dans les conditions prévues en France lors du congé de maladie visé ci-dessus ;
+-le cas échéant, les primes et indemnités prévues à l'article 2 du présent décret, dans les conditions prévues en France lors du congé de maladie visé ci-dessus ;
 
-- les retenues prévues par les articles 2 et 13 ci-dessus.
+-les retenues prévues par les articles 2 et 13 ci-dessus.
 
 Lorsque le congé de maladie est accordé en France, les émoluments comprennent :
 
-- la solde de base ;
+-la solde de base ;
 
-- l'indemnité de résidence que percevrait un militaire de même indice hiérarchique en service à Paris ;
+-l'indemnité de résidence que percevrait un militaire de même indice hiérarchique en service à Paris ;
 
-- le cas échéant, le supplément familial prévu à l'article 7 ci-dessus ;
+-le cas échéant, le supplément familial prévu à l'article 7 ci-dessus ;
 
-- les majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté visé à l'article 8 ci-dessus ;
+-les majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté visé à l'article 8 ci-dessus ;
 
-- le cas échéant, les primes et indemnités prévues à l'article 2 du présent décret, dans les conditions prévues en France lors du congé de maladie visé au premier alinéa du présent article ;
+-le cas échéant, les primes et indemnités prévues à l'article 2 du présent décret, dans les conditions prévues en France lors du congé de maladie visé au premier alinéa du présent article ;
 
-- les retenues prévues par les articles 2 et 13 ci-dessus.
+-les retenues prévues par les articles 2 et 13 ci-dessus.
 
 Pendant la durée du congé de maladie visé au premier alinéa du présent article, l'indemnité pour frais de représentation, dont l'attribution est subordonnée au non-remplacement du titulaire du poste, est réduite des trois quarts.
 

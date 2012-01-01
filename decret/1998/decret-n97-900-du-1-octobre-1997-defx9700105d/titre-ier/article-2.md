@@ -10,7 +10,7 @@ Les émoluments des militaires visés par le présent décret comprennent limita
 
 2° Au titre des avantages familiaux :
 
--le supplément familial, dans les conditions définies à l'article 7 du présent décret, pour     les militaires mariés ou liés par un pacte civil de solidarité de plus de deux ans dont le conjoint ou le partenaire n'exerce pas d'activité professionnelle et pour les militaires célibataires, veufs, séparés de corps ou divorcés ayant au moins un enfant à charge ;
+-le supplément familial, dans les conditions définies à l'article 7 du présent décret, pour les militaires mariés ou liés par un pacte civil de solidarité de plus de deux ans dont le conjoint ou le partenaire n'exerce pas d'activité professionnelle et pour les militaires célibataires, veufs, séparés de corps ou divorcés ayant au moins un enfant à charge ;
 
 -les majorations familiales pour enfant à charge, dans les conditions définies à l'article 8 du présent décret.
 
@@ -38,7 +38,9 @@ Les émoluments des militaires visés par le présent décret comprennent limita
 
 -les indemnités de responsabilité pécuniaire prévues par le décret n° 74-705 du 6 août 1974 ;
 
--l'indemnité spéciale de risque aéronautique prévue par le décret n° 85-496 du 6 mai 1985 modifié.
+-l'indemnité spéciale de risque aéronautique prévue par le décret n° 85-496 du 6 mai 1985 modifié ;
+
+-l'indemnité forfaitaire de congé des militaires prévue par le décret n° 2006-1642 du 20 décembre 2006.
 
 Sous réserve des dispositions de l'article 3 ci-dessous, le versement de tout autre élément de rémunération auquel aurait droit le militaire en service en France métropolitaine est suspendu pendant la période où le militaire bénéficie du régime de rémunération défini par le présent décret.
 

@@ -2,10 +2,10 @@
 
 Les situations dans lesquelles peuvent être placés les militaires visés par le présent décret sont énumérées ci-après :
 
-- la présence au poste ;
+-la présence au poste ;
 
-- l'appel par ordre ;
+-l'appel par ordre ;
 
-- l'appel spécial ;
+-l'appel spécial ;
 
-- les congés (administratif, de maladie, de longue durée pour maladie, de longue maladie ou pour raisons de santé, de maternité ou d'adoption).
+-les congés (administratif, de maladie, de longue durée pour maladie, de longue maladie ou pour raisons de santé, de maternité , de paternité ou d'adoption).
