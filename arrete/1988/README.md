@@ -175,7 +175,6 @@
 - [Arrêté du 10 octobre 1988 (TEFE8804029A)](arrete-du-10-octobre-1988-tefe8804029a)
 - [Arrêté du 11 avril 1988 (ASEE8803331A)](arrete-du-11-avril-1988-asee8803331a)
 - [Arrêté du 11 avril 1988 (ASEH8800868A)](arrete-du-11-avril-1988-aseh8800868a)
-- [Arrêté du 11 avril 1988 (ASET8803325A)](arrete-du-11-avril-1988-aset8803325a)
 - [Arrêté du 11 décembre 1987 (ENVN8700268A)](arrete-du-11-decembre-1987-envn8700268a)
 - [Arrêté du 11 février 1988 (ASEM8800236A)](arrete-du-11-fevrier-1988-asem8800236a)
 - [Arrêté du 11 février 1988 (ECOT8850081A)](arrete-du-11-fevrier-1988-ecot8850081a)
