@@ -503,7 +503,6 @@
 - [Arrêté du 18 décembre 2002 (EQUS0201964A)](arrete-du-18-decembre-2002-equs0201964a)
 - [Arrêté du 18 décembre 2002 (EQUS0201965A)](arrete-du-18-decembre-2002-equs0201965a)
 - [Arrêté du 18 décembre 2002 (EQUS0201966A)](arrete-du-18-decembre-2002-equs0201966a)
-- [Arrêté du 18 décembre 2002 (SOCF0211919A)](arrete-du-18-decembre-2002-socf0211919a)
 - [Arrêté du 18 décembre 2003 (EQUU0301863A)](arrete-du-18-decembre-2003-equu0301863a)
 - [Arrêté du 18 décembre 2003 (SANS0325031A)](arrete-du-18-decembre-2003-sans0325031a)
 - [Arrêté du 18 février 2003 (DEFP0301199A)](arrete-du-18-fevrier-2003-defp0301199a)
