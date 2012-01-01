@@ -1,3 +1,0 @@
-# Article 11
-
-En cas d'impossibilité technique de mise en place d'un dispositif de comptage de l'eau prélevée dûment justifiée par des raisons de faisabilité technique ou de coût disproportionné, et sauf application des articles 8, 9 et 10 du présent arrêté, les méthodes d'évaluation appliquées avant la publication du présent arrêté et permettant la détermination des volumes d'eau prélevée à partir du temps de fonctionnement de pompes ou de la quantité d'énergie consommée restent en vigueur. Le registre mentionné à l'article 2 indique les temps de fonctionnement ou la quantité d'énergie consommée.

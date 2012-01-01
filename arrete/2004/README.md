@@ -35,7 +35,6 @@
 - [Arrêté du 2 décembre 2003 (SANY0324697A)](arrete-du-2-decembre-2003-sany0324697a)
 - [Arrêté du 2 février 2004 (DOMA0400001A)](arrete-du-2-fevrier-2004-doma0400001a)
 - [Arrêté du 2 février 2004 (ECOC0400002A)](arrete-du-2-fevrier-2004-ecoc0400002a)
-- [Arrêté du 2 février 2004 (ECOM0300718A)](arrete-du-2-fevrier-2004-ecom0300718a)
 - [Arrêté du 2 janvier 2004 (MCCK0300894A)](arrete-du-2-janvier-2004-mcck0300894a)
 - [Arrêté du 2 juillet 2004 (AGRF0401529A)](arrete-du-2-juillet-2004-agrf0401529a)
 - [Arrêté du 2 juillet 2004 (ECOB0410029A)](arrete-du-2-juillet-2004-ecob0410029a)

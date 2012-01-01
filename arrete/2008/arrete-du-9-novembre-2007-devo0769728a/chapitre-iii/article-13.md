@@ -1,3 +1,0 @@
-# Article 13
-
-Si le contrôle met en évidence une erreur de mesure supérieure à l'erreur maximale indiquée par les normes en vigueur ou à défaut par le constructeur du dispositif de comptage, le volume prélevé est déterminé sur la base des valeurs mesurées par le dispositif de comptage corrigées de la marge d'erreur déterminée lors du contrôle. En l'absence d'une validation par l'agence du dispositif en place dans un délai de deux mois à compter de la date de notification du rapport de contrôle, le redevable procède à la réparation du dispositif de comptage dans les trois mois suivants. A défaut de réparation dans ce délai, le volume prélevé est calculé en application de l'article 6 du présent arrêté.
