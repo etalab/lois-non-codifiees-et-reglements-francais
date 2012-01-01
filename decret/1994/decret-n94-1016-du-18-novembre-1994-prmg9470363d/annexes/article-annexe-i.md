@@ -4,17 +4,11 @@ Assistants d'administration de l'aviation civile.
 
 Contrôleurs des affaires maritimes.
 
-Contrôleurs des services techniques du matériel du ministère de l'intérieur.
-
 Contrôleurs des transports terrestres.
-
-Secrétaires de chancellerie.
 
 Secrétaires administratifs de l'Office national des forêts.
 
 Secrétaires administratifs de l'équipement.
-
-Secrétaires administratifs du ministère de la culture et de la communication.
 
 Secrétaires de documentation au ministère de la culture.
 
