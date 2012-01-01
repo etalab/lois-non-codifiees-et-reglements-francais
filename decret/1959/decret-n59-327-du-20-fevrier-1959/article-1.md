@@ -201,7 +201,7 @@ Le siège et le ressort des tribunaux des pensions est déterminé comme suit :
 </tr>
 <tr>
 <td colspan="2" width="680">
-<p align="center">Guyane</p>
+<p align="center">Cour d'appel de Cayenne </p>
 </td>
 </tr>
 <tr>
@@ -209,12 +209,12 @@ Le siège et le ressort des tribunaux des pensions est déterminé comme suit :
 <p>Cayenne </p>
 </td>
 <td valign="top" width="340">
-<p>Ressort du tribunal de grande instance de Cayenne </p>
+<p>Ressort de la cour d'appel de Cayenne </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" width="680">
-<p align="center">Martinique</p>
+<p align="center">Cour d'appel de Fort-de-France </p>
 </td>
 </tr>
 <tr>
