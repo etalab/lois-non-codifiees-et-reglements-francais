@@ -8,4 +8,6 @@ b) La liste des travaux d'exploration ou d'exploitation de mines ou des travaux 
 
 c) Un descriptif des moyens humains et techniques envisagés pour l'exécution des travaux.
 
+d) En Guyane, lorsque la demande porte sur un espace compris dans les zones 1 ou 2 du schéma départemental d'orientation minière, la justification de l'adhésion à une charte des bonnes pratiques approuvée par le représentant de l'Etat et du respect de celle-ci.
+
 Le demandeur peut être invité à apporter des précisions complémentaires sur les éléments d'information et les pièces mentionnés au présent article.

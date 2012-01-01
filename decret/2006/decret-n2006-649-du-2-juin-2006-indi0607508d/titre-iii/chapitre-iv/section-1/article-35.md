@@ -1,0 +1,3 @@
+# Article 35
+
+Le rapport annuel prévu par le dernier alinéa de l'article 77 du code minier est adressé au préfet avant le 31 mars de l'année suivante et, pour les stockages souterrains de gaz naturel, avant le 30 juin de l'année suivante. Pour les stockages souterrains, l'exploitant en adresse une copie au comité d'hygiène, de sécurité et des conditions de travail. Le préfet en adresse une copie aux services intéressés, aux maires des communes sur le territoire desquelles les travaux d'exploitation ont été réalisés ainsi qu'aux maires des communes où sont situés les exutoires et les points de pompage des eaux d'exhaure.
