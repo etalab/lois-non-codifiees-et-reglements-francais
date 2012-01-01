@@ -1,4 +1,4 @@
-# Chapitre VI : Notation, avancement, mutation, reclassement.
+# Chapitre VI : Evaluation, notation, avancement, mutation, reclassement.
 
 - [Article 55](article-55.md)
 - [Article 55 bis](article-55-bis.md)

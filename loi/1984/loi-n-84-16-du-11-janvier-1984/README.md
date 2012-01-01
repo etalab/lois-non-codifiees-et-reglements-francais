@@ -6,7 +6,7 @@
 - [Chapitre III : Accès à la fonction publique.](chapitre-iii)
 - [Chapitre IV : Structure des carrières](chapitre-iv)
 - [Chapitre V : Positions](chapitre-v)
-- [Chapitre VI : Notation, avancement, mutation, reclassement.](chapitre-vi)
+- [Chapitre VI : Evaluation, notation, avancement, mutation, reclassement.](chapitre-vi)
 - [Chapitre VII Rémunération.](chapitre-vii)
 - [Chapitre VIII Discipline.](chapitre-viii)
 - [Chapitre IX Cessation définitive de fonctions.](chapitre-ix)

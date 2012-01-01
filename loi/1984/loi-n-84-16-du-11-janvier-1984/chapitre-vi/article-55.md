@@ -1,7 +1,9 @@
 # Article 55
 
-Le pouvoir de fixer les notes et appréciations générales exprimant la valeur professionnelle des fonctionnaires dans les conditions définies à l'article 17 du titre Ier du statut général est exercé par le chef de service.
+Par dérogation à l'article 17 du titre Ier du statut général, l'appréciation de la valeur professionnelle des fonctionnaires se fonde sur un entretien professionnel annuel conduit par le supérieur hiérarchique direct.
 
-Les commissions administratives paritaires ont connaissance des notes et appréciations ; à la demande de l'intéressé, elles peuvent proposer la révision de la notation.
+Toutefois, les statuts particuliers peuvent prévoir le maintien d'un système de notation.
+
+A la demande de l'intéressé, la commission administrative paritaire peut demander la révision du compte rendu de l'entretien professionnel ou de la notation.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
