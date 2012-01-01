@@ -8,25 +8,23 @@ Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent d
 
 a) Corps des services déconcentrés des administrations de l'Etat :
 
-Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle (1).
+Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
 b) Corps d'établissements publics de l'Etat :
 
-- secrétaires administratifs de l'Office national des forêts ;
+-secrétaires administratifs de l'Office national des forêts ;
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
 
-- assistants d'administration de l'aviation civile ;
+-assistants d'administration de l'aviation civile ;
 
-- secrétaires administratifs du ministère de la culture et de la communication ;
-
-- secrétaires administratifs de l'équipement ;
+-secrétaires administratifs de l'équipement ;
 
 Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
 4. (supprimé)
 
-5. Corps des secrétaires de chancellerie : les fonctionnaires de ce corps ont vocation à servir à l'administration centrale et à l'étranger dans les services relevant du ministre des affaires étrangères.
+5. (supprimé)
 
 6. (supprimé)
 

@@ -10,14 +10,14 @@ Dans le cadre de leurs attributions consulaires, ils peuvent être chargés :
 
 1° De toutes les fonctions relatives à l'administration de la communauté française et notamment :
 
-- des fonctions d'officier de l'Etat civil ;
+-des fonctions d'officier de l'Etat civil ;
 
-- de fonctions notariales ;
+-de fonctions notariales ;
 
-- de l'assistance aux Français résident ou de passage ;
+-de l'assistance aux Français résident ou de passage ;
 
-- le cas échéant, de l'application de la réglementation relative aux affaires maritimes ;
+-le cas échéant, de l'application de la réglementation relative aux affaires maritimes ;
 
 2° De l'application de la réglementation relative à la circulation des étrangers.
 
-Lorsqu'ils sont affectés à l'administration centrale, ils exercent les attributions normalement dévolues aux secrétaires administratifs d'administration centrale.
+Lorsqu'ils sont affectés à l'administration centrale, ils exercent les         attributions dévolues aux secrétaires administratifs des administrations de l'Etat.
