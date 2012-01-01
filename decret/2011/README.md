@@ -673,6 +673,7 @@
 - [Décret n°2011-1369 du 24 octobre 2011 (AGRT1123527D)](decret-n2011-1369-du-24-octobre-2011-agrt1123527d)
 - [Décret n°2011-1645 du 24 novembre 2011 (AGRT1121863D)](decret-n2011-1645-du-24-novembre-2011-agrt1121863d)
 - [Décret n°2011-1646 du 24 novembre 2011 (AGRT1123304D)](decret-n2011-1646-du-24-novembre-2011-agrt1123304d)
+- [Décret n°2011-326 du 24 mars 2011 (ESRS1106155D)](decret-n2011-326-du-24-mars-2011-esrs1106155d)
 - [Décret n°2011-728 du 24 juin 2011 (MENE1016345D)](decret-n2011-728-du-24-juin-2011-mene1016345d)
 - [Décret n°2011-729 du 24 juin 2011 (MENE1016342D)](decret-n2011-729-du-24-juin-2011-mene1016342d)
 - [Décret n°2011-732 du 24 juin 2011 (MCCE1029693D)](decret-n2011-732-du-24-juin-2011-mcce1029693d)
