@@ -2,3 +2,4 @@
 
 - [Article 23-2](article-23-2.md)
 - [Article 27-1](article-27-1.md)
+- [Article 28](article-28.md)
