@@ -1,3 +1,0 @@
-# Article 19
-
-Pendant une période de cinq ans à compter de la date d'entrée en vigueur du décret n° 2006-1776 du 23 décembre 2006, la proposition de nominations pouvant être prononcées par la voie de la liste d'aptitude en application du 4° de l'article 6 du présent décret est fixée à une nomination pour deux nominations prononcées en application des 1°, 2° et 3° de l'article 6, de l'article 15 et par la voie du détachement dans les conditions fixées au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions.

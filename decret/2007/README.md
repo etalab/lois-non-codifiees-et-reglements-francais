@@ -1134,7 +1134,6 @@
 - [Décret n° 2007-94 du 24 janvier 2007 (BUDF0600054D)](decret-n-2007-94-du-24-janvier-2007-budf0600054d)
 - [Décret n° 2007-95 du 24 janvier 2007 (AGRM0602582D)](decret-n-2007-95-du-24-janvier-2007-agrm0602582d)
 - [Décret n°2000-792 du 24 août 2000 (ATEG0080044D)](decret-n2000-792-du-24-aout-2000-ateg0080044d)
-- [Décret n°2000-798 du 24 août 2000 (INTA0000212D)](decret-n2000-798-du-24-aout-2000-inta0000212d)
 - [Décret n°2006-471 du 24 avril 2006 (BUDD0670009D)](decret-n2006-471-du-24-avril-2006-budd0670009d)
 - [Décret n°2007-1132 du 24 juillet 2007 (SJSX0757921D)](decret-n2007-1132-du-24-juillet-2007-sjsx0757921d)
 - [Décret n°2007-1133 du 24 juillet 2007 (SJSV0758464D)](decret-n2007-1133-du-24-juillet-2007-sjsv0758464d)

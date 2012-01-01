@@ -1,6 +1,6 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux grades du corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur régi par le décret du 24 août 2000 susvisé est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable aux grades du corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur régi par le décret du 27 décembre 2011 est fixé ainsi qu'il suit :
 
 <table>
 <tbody>
