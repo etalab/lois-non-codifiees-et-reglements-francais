@@ -2,79 +2,103 @@
 
 CHAPITRE 10
 
-DISPOSITIFS DE DÉTECTION DE LA FUMÉE PAR PRÉLÈVEMENT D'ÉCHANTILLONS D'AIR
+DISPOSITIFS DE DETECTION DE LA FUMEE PAR PRELEVEMENT D'ECHANTILLONS D'AIR
 
-1 Application
+1 Application :
 
-Le présent chapitre contient les spécifications applicables aux dispositifs de détection de la fumée par prélèvement d'échantillons d'air qui sont prescrits aux termes du chapitre II-2 de la division 221.
+Le présent chapitre contient les spécifications applicables aux dispositifs de détection de la fumée par prélèvement d'échantillons d'air dans les espaces à cargaison qui sont prescrits aux termes du chapitre 221-II-2 de la présente division.
 
-2 Spécifications techniques
+Sauf disposition expresse contraire, les prescriptions du présent chapitre s'appliquent aux navires construits le 1er janvier 2012 ou après cette date.
 
-2.1 Prescriptions générales
+2 Spécifications techniques :
 
-2.1.1 Chaque fois que le terme dispositif est utilisé dans le texte du présent chapitre, il désigne un dispositif de
+2.1. Prescriptions générales :
 
-détection de la fumée par prélèvement d'échantillons d'air.
+2.1.1. Chaque fois que le terme "dispositif" est utilisé dans le texte du présent chapitre, il signifie un "dispositif de détection de la fumée par prélèvement d'échantillons d'air".
 
-2.1.2 Tout dispositif prescrit doit pouvoir fonctionner en permanence, à l'exception des dispositifs qui fonctionnent selon le principe de l'exploration séquentielle. Ces dispositifs peuvent être acceptés si l'intervalle qui sépare deux explorations d'un même emplacement assure un délai global de réponse jugé satisfaisant par l'Administration.
+2.1.1.1. Un dispositif de détection de la fumée par prélèvement d'échantillons d'air se compose principalement des éléments suivants :
 
-2.1.3 Le dispositif doit être conçu, construit et installé de façon à empêcher toute fuite de substances toxiques ou inflammables ou d'agents d'extinction dans les locaux d'habitation et de service, les postes de sécurité et les locaux de machines.
+.1 Accumulateurs de fumée : dispositifs collecteurs d'échantillons d'air installés aux extrémités ouvertes des tuyaux d'échantillonnage dans chaque cale de chargement qui ont pour fonction de recueillir les échantillons d'air prélevés pour les envoyer au tableau de commande par les tuyaux d'échantillonnage et qui peuvent également servir d'ajutages pour le dispositif fixe d'extinction de l'incendie par le gaz, s'il en existe un ;
 
-2.1.4 Le dispositif et son équipement doivent être conçus de manière appropriée, de façon à résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire et à supprimer toute possibilité d'inflammation d'un mélange inflammable de gaz et d'air.
+.2 Tuyaux d'échantillonnage : circuit de tuyautages qui relie les accumulateurs de fumée au tableau de commande, disposé en sections pour que le lieu où un incendie se déclare puisse être identifié rapidement ;
 
-2.1.5 Le dispositif doit être d'un type tel qu'on puisse vérifier son bon fonctionnement et le remettre en position normale de surveillance sans devoir en remplacer un élément.
+.3 Soupapes trois voies : si le dispositif est relié à un dispositif fixe d'extinction de l'incendie par le gaz, les soupapes trois voies sont utilisées en temps normal pour relier les tuyaux d'échantillonnage au tableau de commande et, si un incendie est détecté, leur position est modifiée de façon à relier les tuyaux d'échantillonnage au collecteur de diffusion du dispositif d'extinction et à isoler le tableau de commande ; et
 
-2.1.6 On doit disposer d'une source d'énergie de secours pouvant alimenter le matériel électrique utilisé pour le fonctionnement du dispositif.
+.4 Tableau de commande : principal élément du dispositif, qui permet de surveiller en permanence les espaces protégés pour y détecter la présence de fumée. Il comprend généralement une chambre d'observation ou des détecteurs de fumée. L'air prélevé dans les espaces protégés est aspiré par les accumulateurs de fumée et les tuyaux d'échantillonnage vers la chambre d'observation, puis vers la chambre de détection de fumée, dans laquelle le flux d'air est surveillé par des détecteurs de fumée électriques. Si de la fumée est détectée, le tableau répétiteur (qui se trouve normalement à la passerelle) émet automatiquement une alarme sonore (sans indication d'emplacement). L'équipage peut alors déterminer au niveau des détecteurs de fumée dans quelle cale de chargement s'est déclaré l'incendie et faire fonctionner la soupape trois voies appropriée pour diffuser l'agent d'extinction.
 
-2.2 Spécifications des éléments
+2.1.2. Tout dispositif prescrit doit pouvoir fonctionner en permanence, à l'exception des dispositifs qui fonctionnent selon le principe de l'exploration séquentielle, lesquels peuvent être acceptés si l'intervalle qui sépare deux explorations d'un même emplacement correspond à l'intervalle maximal admissible déterminé comme suit :
 
-2.2.1 Il doit être certifié que le capteur entre en action avant que la densité de la fumée dépasse 6,65 % d'obscurcissement par mètre dans la chambre de détection.
+L'intervalle (I) devrait dépendre du nombre de points d'exploration (N) et du délai de réponse des ventilateurs (T), avec une marge de 20 % :
 
-2.2.2 Les ventilateurs d'extraction utilisés pour l'échantillonnage doivent être installés en double. Ils doivent avoir une puissance suffisante pour fonctionner dans des conditions de ventilation normales à l'intérieur de la zone protégée et doivent assurer un délai global de réponse jugé satisfaisant par l'Administration.
+I = 1,2 × T × N
 
-2.2.3 Le tableau de commande doit permettre d'observer la fumée dans les différents tuyaux d'échantillonnage.
+Toutefois, l'intervalle maximal admissible ne devrait pas dépasser 120 s (Imax = 120 s).
 
-2.2.4 Il faut prévoir des dispositifs permettant de surveiller l'écoulement de l'air dans les tuyaux d'échantillonnage, qui soient conçus de manière à garantir que les quantités prélevées dans chacun des accumulateurs reliés à un même point d'échantillonnage sont autant que possible égales.
+2.1.3. Le dispositif doit être conçu, construit et installé de façon à empêcher toute fuite de substances toxiques ou inflammables ou d'agents d'extinction dans les locaux d'habitation et de service, les postes de sécurité et les locaux de machines.
 
-2.2.5 Le diamètre interne des tuyaux d'échantillonnage ne doit pas être inférieur à 12 mm, sauf lorsque ces tuyaux font partie d'un dispositif fixe d'extinction de l'incendie par le gaz, auquel cas leur calibre minimal devrait être suffisant pour permettre l'envoi du gaz d'extinction dans les délais appropriés.
+2.1.4. Le dispositif et son équipement doivent être conçus de manière appropriée, de façon à résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire et à supprimer toute possibilité d'inflammation d'un mélange inflammable de gaz et d'air.
 
-2.2.6 Les tuyaux d'échantillonnage doivent être pourvus d'un dispositif qui permette de les purger périodiquement avec de l'air comprimé.
+2.1.5. Le dispositif doit être d'un type tel qu'on puisse vérifier son bon fonctionnement et le remettre en position normale de surveillance sans devoir en remplacer un élément.
 
-2.3 Prescriptions concernant l'installation
+2.1.6. On doit disposer d'une source d'énergie de secours pouvant alimenter le matériel électrique utilisé pour le fonctionnement du dispositif.
 
-2.3.1 Accumulateurs de fumée
+2.2. Spécifications des éléments :
 
-2.3.1.1 Au moins un accumulateur de fumée doit être installé dans chaque local fermé où il est prescrit de détecter la fumée. Toutefois, lorsque le local considéré est destiné à contenir des cargaisons d'hydrocarbures ou des cargaisons réfrigérées en alternance avec des cargaisons pour lesquelles la présence d'un dispositif d'échantillonnage de la fumée est prescrite, on peut prendre des dispositions visant à isoler du dispositif les accumulateurs de fumée se trouvant dans ces locaux. Ces dispositions doivent être jugées satisfaisantes par l'Administration.
+2.2.1. Il doit être certifié que le capteur entre en action avant que la densité de la fumée dépasse 6,65 % d'obscurcissement par mètre dans la chambre de détection.
 
-2.3.1.2 L'emplacement des accumulateurs de fumée doit être choisi en vue d'une efficacité optimale et leur espacement doit être tel qu'aucune partie de la zone du pont supérieur ne se trouve à plus de 12 m d'un accumulateur, cette distance étant mesurée horizontalement. Lorsque les dispositifs sont utilisés dans des locaux susceptibles d'être ventilés mécaniquement, il convient de choisir l'emplacement des accumulateurs de fumée en tenant compte des effets de la ventilation.
+2.2.2. Les ventilateurs aspirants utilisés pour l'échantillonnage doivent être installés en double. Ils doivent avoir une puissance suffisante pour fonctionner dans des conditions de ventilation normales à l'intérieur de la zone protégée et les dimensions du tuyautage auquel ils sont reliés doivent être déterminées en fonction de la capacité d'aspiration du ventilateur et de l'agencement du circuit de tuyautages nécessaires pour que les conditions énoncées en 2.4.2.2 soient remplies. Le diamètre interne des tuyaux d'échantillonnage ne doit pas être inférieur à 12 mm. La capacité d'aspiration du ventilateur devrait être suffisante pour garantir la réponse de la zone la plus éloignée dans les délais prescrits en 2.4.2.2. Un moyen de contrôler le débit d'air doit être installé sur chaque tuyau d'échantillonnage.
 
-2.3.1.3 Les accumulateurs de fumée doivent être placés là où ils ne risquent pas de subir de chocs ou d'être endommagés.
+2.2.3. Le tableau de commande doit permettre d'observer la fumée dans chacun des différents tuyaux d'échantillonnage.
 
-2.3.1.4 Le nombre d'accumulateurs de fumée reliés à un même point d'échantillonnage ne doit pas être supérieur à quatre.
+2.2.4. Les tuyaux d'échantillonnage doivent être conçus de manière à garantir que les quantités prélevées dans chacun des accumulateurs reliés à un même point d'échantillonnage soient autant que possible égales.
 
-2.3.1.5 Les accumulateurs de fumée desservant des locaux fermés différents ne doivent pas être reliés au même point d'échantillonnage.
+2.2.5. Les tuyaux d'échantillonnage doivent être pourvus d'un dispositif qui permette de les purger périodiquement avec de l'air comprimé.
 
-2.3.2 Tuyaux d'échantillonnage
+2.2.6. Le tableau de commande du dispositif de détection de la fumée doit être mis à l'essai conformément aux normes EN 54-2 (1997) et EN 54-4 (1997) et à la norme CEI 60092-504 (2001).
 
-2.3.2.1 La tuyauterie d'échantillonnage doit être conçue de telle façon que le lieu où un incendie se déclare puisse être déterminé rapidement.
+2.3. Prescriptions concernant l'installation.
 
-2.3.2.2 Les tuyaux d'échantillonnage doivent se vidanger automatiquement et être suffisamment protégés contre les chocs ou les dommages provenant de la manutention de la cargaison.
+2.3.1. Accumulateurs de fumée.
 
-2.4 Prescriptions concernant le contrôle des dispositifs
+2.3.1.1. Au moins un accumulateur de fumée doit être installé dans chaque espace clos où il est prescrit de détecter la fumée. Toutefois, lorsque l'espace considéré est destiné à contenir des cargaisons d'hydrocarbures ou des cargaisons réfrigérées en alternance avec des cargaisons pour lesquelles la présence d'un dispositif d'échantillonnage de la fumée est prescrite, on peut prendre des dispositions pour isoler du dispositif les accumulateurs de fumée se trouvant dans de tels espaces. Ces dispositions doivent être jugées satisfaisantes par l'autorité compétente.
 
-2.4.1 Signaux d'incendie visuels et sonores
+2.3.1.2. Les accumulateurs de fumée doivent être installés au plafond ou aussi haut que possible dans l'espace protégé et leur espacement doit être tel qu'aucune partie de la zone du pont supérieur ne se trouve à plus de 12 m d'un accumulateur, cette distance étant mesurée horizontalement. Lorsque les dispositifs sont utilisés dans des locaux susceptibles d'être ventilés mécaniquement, il faut choisir l'emplacement des accumulateurs de fumée en tenant compte des effets de la ventilation. Au moins un accumulateur de fumée supplémentaire doit être placé dans la partie supérieure de chacune des gaines de sortie de ventilation. Un dispositif de filtrage approprié doit être installé sur ce détecteur supplémentaire pour éviter une contamination par la poussière.
 
-2.4.1.1 Le tableau de commande doit être situé sur la passerelle de navigation ou dans le poste de sécurité central gardé en permanence.
+2.3.1.3. Les accumulateurs de fumée doivent être placés là où ils ne risquent pas de subir de chocs ou d'être endommagés.
 
-2.4.1.2 Des renseignements clairs indiquant les locaux desservis doivent être affichés sur le tableau de commande ou à côté de celui-ci.
+2.3.1.4. Les réseaux de tuyaux d'échantillonnage doivent être équilibrés de manière à satisfaire aux dispositions du paragraphe 2.2.4. Le nombre d'accumulateurs reliés à chaque tuyau d'échantillonnage doit permettre de satisfaire aux dispositions du paragraphe 2.4.2.2.
 
-2.4.1.3 La détection de fumée ou d'autres produits de combustion doit déclencher un signal lumineux et sonore au tableau de commande et sur la passerelle de navigation ou dans le poste de sécurité central gardé en permanence.
+2.3.1.5. Les accumulateurs de fumée desservant des espaces clos différents ne doivent pas être reliés au même tuyau d'échantillonnage.
 
-2.4.1.4 Un système de surveillance des sources d'énergie nécessaires au fonctionnement du dispositif doit déceler les défaillances de l'alimentation en énergie. Toute défaillance de l'alimentation en énergie doit déclencher, au tableau de commande et sur la passerelle de navigation, un signal lumineux et sonore distinct du signal de détection de fumée.
+2.3.1.6. Dans les cales de chargement qui comportent des panneaux d'entrepont non étanches aux gaz (plates-formes d'arrimage mobiles), les accumulateurs de fumée doivent être placés dans la partie supérieure et dans la partie inférieure de la cale.
 
-2.4.2 Mise à l'essai
+2.3.2. Tuyaux d'échantillonnage.
 
-Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien du dispositif.
+2.3.2.1. Le circuit de tuyautages d'échantillonnage doit être disposé de telle façon que le lieu où un incendie se déclare puisse être identifié rapidement.
+
+2.3.2.2. Les tuyaux d'échantillonnage doivent se vidanger automatiquement et être suffisamment protégés contre les chocs ou les dommages résultant de la manutention de la cargaison.
+
+2.4. Prescriptions concernant le contrôle des dispositifs.
+
+2.4.1. Signaux d'incendie visuels et sonores.
+
+2.4.1.1. La détection de la fumée ou d'autres produits de la combustion doit déclencher un signal lumineux et sonore au tableau de commande et au tableau des indicateurs.
+
+2.4.1.2. Le tableau de commande doit être situé sur la passerelle de navigation ou dans le poste de commande du matériel d'incendie. Un tableau des indicateurs doit être situé sur la passerelle de navigation si le tableau de commande se trouve dans le poste de commande du matériel d'incendie.
+
+2.4.1.3. Des renseignements clairs indiquant les espaces desservis doivent être affichés sur le tableau de commande et le tableau des indicateurs ou à côté de ceux-ci.
+
+2.4.1.4. Un système de surveillance des sources d'énergie nécessaires au fonctionnement du dispositif doit déceler les défaillances de l'alimentation en énergie. Toute défaillance de l'alimentation en énergie doit déclencher, au tableau de commande et sur la passerelle de navigation, un signal lumineux et sonore distinct du signal de détection de fumée.
+
+2.4.1.5. Des moyens doivent être prévus au tableau de commande pour acquitter manuellement tous les signaux d'alarme et de défaillance. Les alarmes sonores du tableau de commande et des tableaux des indicateurs peuvent être arrêtées manuellement. Le tableau de commande doit permettre de distinguer nettement entre les situations normales, d'alarme, d'alarme acquittée, de défaillance et de signal sonore arrêté.
+
+2.4.1.6. Le dispositif doit être configuré de façon à se remettre automatiquement en position normale de fonctionnement après qu'il a été remédié au problème à l'origine de l'alarme et à la défaillance.
+
+2.4.2. Mise à l'essai.
+
+2.4.2.1. Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien du dispositif.
+
+2.4.2.2. Une fois le dispositif installé, il faut le soumettre à un essai de fonctionnement en produisant la fumée à l'aide de générateurs de fumée ou de dispositifs équivalents. Un signal d'alarme doit être reçu à l'organe de commande 180 secondes au plus pour les ponts-garages, et 300 secondes au plus pour les cales à conteneurs et à marchandises diverses, après l'arrivée de fumée dans l'accumulateur le plus éloigné.
 
 CHAPITRE 11
 
@@ -545,3 +569,65 @@ Des moyens doivent être prévus pour indiquer de façon continue la températur
 2.4.4 Manuels d'instructions
 
 On doit prévoir à bord des manuels d'instructions détaillées portant sur le fonctionnement, la sécurité et l'entretien du dispositif à gaz inerte ainsi que sur la prévention des risques qu'il présente pour la santé dans le cadre de son utilisation dans le système des citernes à cargaison (9). Ces manuels doivent comprendre des directives sur les méthodes à suivre en cas de défaillance ou de panne du dispositif à gaz inerte.
+
+CHAPITRE 16
+
+DISPOSITIFS FIXES DE DETECTION DES GAZ D'HYDROCARBURE
+
+1 Application.
+
+1.1. Le présent chapitre contient les spécifications applicables aux dispositifs fixes de détection des gaz d'hydrocarbure qui sont prescrits aux termes du chapitre 221-II-2 de la présente division.
+
+1.2. Un dispositif combiné de détection des gaz exigé aux termes des articles 221-II-2/4.5.7.3 et 221-II-2/4.5.10 peut être accepté dans les cas où le dispositif satisfait pleinement aux prescriptions de l'article 221-II-2/2 de la présente division.
+
+2 Spécifications techniques.
+
+2.1. Généralités.
+
+2.1.1. Le dispositif fixe de détection des gaz d'hydrocarbure mentionné au chapitre 221-II-2 de la présente division doit être conçu, construit et mis à l'essai d'une manière jugée satisfaisante par l'autorité compétente sur la base des normes de performance élaborées par l'Organisation maritime internationale (2).
+
+2.1.2. Le dispositif doit comprendre une unité centrale permettant de mesurer et d'analyser les gaz, ainsi que des conduites d'échantillonnage des gaz dans toutes les citernes à ballast et tous les espaces vides des espaces de double coque et de double fond adjacents aux citernes à cargaison, y compris le coqueron avant et toute autre citerne et tout autre espace situé au-dessous du pont de cloisonnement qui est adjacent aux citernes à cargaison.
+
+2.1.3. Le dispositif peut être intégré dans le dispositif de détection des gaz de la chambre des pompes à cargaison, à condition que les espaces mentionnés au paragraphe 2.1.2 soient échantillonnés à la fréquence prescrite en 2.2.3.1. Il est aussi possible d'envisager d'effectuer un échantillonnage continu depuis d'autres emplacements, pour autant qu'il soit satisfait à l'intervalle d'échantillonnage prescrit.
+
+2.2. Spécifications des éléments :
+
+2.2.1. Conduites d'échantillonnage des gaz :
+
+2.2.1.1. Il ne faut pas installer de conduites communes d'échantillonnage sur l'équipement de détection, à l'exception des conduites utilisées pour chaque paire de points d'échantillonnage, conformément aux dispositions du 2.2.1.3.
+
+2.2.1.2. Les matériaux de construction et les dimensions des conduites d'échantillonnage des gaz doivent être tels qu'ils empêchent l'obstruction des conduites. Lorsque les matériaux utilisés ne sont pas en métal, ils doivent être conducteurs d'électricité. Les conduites d'échantillonnage des gaz ne doivent pas être en aluminium.
+
+2.2.1.3. La configuration des conduites d'échantillonnage des gaz doit être adaptée aux caractéristiques et aux dimensions de chaque espace. Sous réserve des dispositions des 2.2.1.4 et 2.2.1.5, le dispositif d'échantillonnage doit prévoir au moins deux points d'échantillonnage des gaz d'hydrocarbure dans chaque espace, l'un situé dans la partie inférieure et l'autre dans la partie supérieure de l'espace à échantillonner. Lorsqu'il est prescrit, le point d'échantillonnage supérieur ne doit pas se trouver à moins d'un mètre du plafond de la citerne. Le point d'échantillonnage inférieur doit se trouver au-dessus de la carlingue du bordé de fond mais à au moins 0,5 m du fond de la citerne et il doit être muni d'un système de fermeture en cas d'obstruction. L'emplacement des points fixes d'échantillonnage doit être défini en tenant dûment compte de la densité des vapeurs des produits pétroliers dont le transport est prévu ainsi que de la dilution résultant du balayage ou de la ventilation de l'espace.
+
+2.2.1.4. Dans le cas des navires d'un port en lourd inférieur à 50 000 tonnes, la commission d'étude compétente peut autoriser l'installation d'un seul emplacement d'échantillonnage pour chaque citerne, pour des raisons d'ordre pratique ou liées à l'exploitation.
+
+2.2.1.5. Dans le cas des citernes à double fond, des citernes à ballast qu'il n'est pas prévu de remplir partiellement et des espaces vides, le point d'échantillonnage supérieur n'est pas exigé.
+
+2.2.1.6. Des mesures doivent être prises pour empêcher que les conduites d'échantillonnage des gaz soient obstruées lorsque les citernes sont ballastées à l'aide d'air comprimé aux fins de nettoyer les conduites après basculement entre le mode ballastage et le mode en charge. Le dispositif doit être doté d'une alarme qui se déclenche en cas d'obstruction des conduites d'échantillonnage des gaz.
+
+2.2.2. Unité d'analyse des gaz.
+
+2.2.2.1. L'unité d'analyse des gaz doit se trouver dans un espace sûr, éventuellement dans des zones situées à l'extérieur de la tranche de la cargaison du navire, par exemple dans le poste de surveillance de la cargaison et/ ou à la passerelle de navigation, indépendamment de la salle des machines hydrauliques en cas d'installation sur la cloison avant, à condition qu'il soit satisfait aux prescriptions ci-après :
+
+.1 Les conduites d'échantillonnage ne doivent pas traverser des espaces à l'abri des gaz, sauf si cette configuration est autorisée en vertu de l'alinéa 5 ;
+
+.2 Les conduites d'échantillonnage des gaz d'hydrocarbure doivent être équipées de coupe-flammes. Les échantillons de gaz d'hydrocarbure doivent être dirigés vers l'atmosphère, les tuyaux de sortie étant disposés en un lieu sûr, suffisamment loin des sources d'inflammation et des prises d'air des zones d'habitation ;
+
+.3 Une soupape de sectionnement manuelle, qui soit aisément accessible aux fins de l'exploitation et de l'entretien, doit être installée sur chacune des conduites d'échantillonnage, sur la cloison se trouvant du côté situé à l'abri des gaz ;
+
+.4 Le matériel de détection des gaz d'hydrocarbure, notamment les conduites d'échantillonnage, les pompes d'échantillonnage, les solénoïdes et les unités d'analyse, doit être placé dans un local raisonnablement étanche aux gaz (par exemple, une armoire en acier entièrement fermée, dont la porte est munie de joints d'étanchéité) qui doit être surveillé par son propre point d'échantillonnage. Lorsque la concentration de gaz dépasse 30 % de la limite inférieure d'inflammabilité dans l'armoire en acier, l'ensemble de l'unité d'analyse des gaz doit se désactiver automatiquement ; et
+
+.5 Si le local ne peut être disposé directement sur la cloison, les conduites d'échantillonnage doivent être en acier ou dans un matériau équivalent et ne doivent pas contenir de raccord amovible, à l'exception des points de raccord des soupapes de sectionnement situées sur la cloison et de l'unité d'analyse, et doivent suivre le chemin le plus court.
+
+2.2.3. Matériel de détection des gaz.
+
+2.2.3.1. Le matériel de détection des gaz doit être conçu de façon à pouvoir prélever des échantillons et effectuer des analyses à partir de chaque ligne d'échantillonnage de chaque local protégé de manière continue, à des intervalles ne dépassant pas 30 minutes.
+
+2.2.3.2. Il faut prévoir des moyens pour que des instruments portatifs puissent effectuer les mesures, pour le cas où le dispositif fixe serait hors d'usage ou pour son étalonnage. Si le dispositif est hors d'usage, des procédures doivent être en place pour que l'atmosphère continue d'être surveillée au moyen d'instruments portatifs et pour que les résultats des mesures soient enregistrés.
+
+2.2.3.3. Des alarmes sonores et lumineuses doivent se déclencher dans le poste de surveillance de la cargaison, à la passerelle de navigation et dans l'unité d'analyse lorsque la concentration de vapeurs dans un espace donné atteint une valeur prédéterminée ne dépassant pas l'équivalent de 30 % de la limite inférieure d'inflammabilité.
+
+2.2.3.4. Le matériel de détection des gaz doit être conçu de manière à pouvoir être aisément mis à l'essai et étalonné.
+
+(2) Se reporter aux directives relatives à la conception, à la construction et à la mise à l'essai des dispositifs fixes de détection des gaz d'hydrocarbure (MSC. 1/Circ. 1370).

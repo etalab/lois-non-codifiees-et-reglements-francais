@@ -176,7 +176,7 @@ Dans les locaux où des produits d'hydrocarbures peuvent pénétrer, la surface 
 
 4.4 Sous-couches
 
-S'il y a des revêtements de pont à l'intérieur des locaux d'habitation et de service et des postes de sécurité ou sur les balcons des navires à passagers construits le 1er juillet 2008 ou après cette date, les sous-couches doivent être en matériaux approuvés qui ne s'enflamment pas aisément, cela étant déterminé conformément au Code des méthodes d'essai au feu.
+S'il y a des revêtements de pont à l'intérieur des locaux d'habitation et de service et des postes de sécurité ou sur les balcons de cabine des navires à passagers construits le 1er juillet 2008 ou après cette date, les sous-couches doivent être en matériaux approuvés qui ne s'enflamment pas aisément, cela étant déterminé conformément au Code des méthodes d'essai au feu.
 
 5 Tranches de la cargaison des navires-citernes
 
@@ -322,19 +322,27 @@ A bord des transporteurs mixtes, les espaces à cargaison et tous les locaux fer
 
 .3 chaque sortie de gaz mentionnée au paragraphe 5.6.3.2 doit être munie de dispositifs d'obturation appropriés.
 
-5.7 Mesure des gaz
+5.7. Mesure et détection des gaz :
 
-5.7.1 Instrument portatif
+5.7.1. Instrument portatif.
 
-Les navires-citernes doivent être munis d'au moins un instrument portatif permettant de mesurer les concentrations de vapeurs inflammables, ainsi que d'un nombre suffisant de pièces de rechange. Des moyens appropriés doivent être prévus pour étalonner ces instruments.
+Les navires-citernes doivent être équipés d'au moins un instrument portatif permettant de mesurer l'oxygène et d'un autre permettant de mesurer les concentrations de vapeurs inflammables et avoir un nombre suffisant de pièces de rechange. Des moyens appropriés doivent être prévus pour étalonner ces instruments.
 
-5.7.2 Dispositifs de mesure des gaz dans les espaces de double coque et les espaces de double fond
+5.7.2. Dispositifs de mesure des gaz dans les espaces de double coque et les espaces de double fond.
 
-5.7.2.1 Des instruments portatifs adéquats pour mesurer les concentrations d'oxygène et de vapeurs inflammables doivent être prévus. Lorsqu'on choisit ces instruments, il faut tenir dûment compte de l'éventuelle nécessité de les utiliser conjointement avec les systèmes de conduites fixes d'échantillonnage des gaz visés au paragraphe 5.7.2.2.
+5.7.2.1. Des instruments portatifs permettant de mesurer les concentrations d'oxygène et de vapeurs inflammables dans les espaces de double coque et les espaces de double fond doivent être prévus. Lorsqu'on choisit ces instruments, il faut tenir dûment compte de la nécessité de les utiliser conjointement avec les systèmes de conduites fixes d'échantillonnage des gaz visés au paragraphe 5.7.2.2.
 
-5.7.2.2 Lorsque l'atmosphère dans les espaces de double coque ne peut être mesurée de manière fiable à l'aide de tuyaux souples de prise d'échantillon, ces espaces doivent être dotés de conduites fixes d'échantillonnage de gaz. La configuration des conduites d'échantillonnage de gaz doit être adaptée à la conception de tels espaces.
+5.7.2.2. Lorsque l'atmosphère dans les espaces de double coque ne peut être mesurée de manière fiable à l'aide de tuyaux souples de prise d'échantillons, ces espaces doivent être dotés de conduites fixes d'échantillonnage des gaz. La configuration des conduites d'échantillonnage des gaz doit être adaptée à la conception de tels espaces.
 
-5.7.2.3 Les matériaux de construction et les dimensions des conduites d'échantillonnage de gaz doivent être tels qu'ils empêchent l'obstruction des conduites. Lorsque des matériaux plastiques sont utilisés, ils doivent être conducteurs d'électricité.
+5.7.2.3. Les matériaux de construction et les dimensions des conduites d'échantillonnage des gaz doivent être de nature à éviter l'obstruction des conduites. Si des matières plastiques sont utilisées, elles doivent être conductrices d'électricité.
+
+5.7.3. Dispositions relatives aux dispositifs fixes de détection des gaz d'hydrocarbure dans les espaces de double coque et les espaces de double fond des pétroliers.
+
+5.7.3.1. Outre les prescriptions des paragraphes 5.7.1 et 5.7.2, les pétroliers d'un port en lourd égal ou supérieur à 20 000 tonnes construits le 1er janvier 2012 ou après cette date doivent être équipés d'un dispositif fixe de détection des gaz d'hydrocarbure qui soit conforme au Recueil international de règles applicables aux systèmes de protection contre l'incendie et qui permette de mesurer les concentrations de gaz d'hydrocarbure dans toutes les citernes à ballast et tous les espaces vides des espaces de double coque et de double fond adjacents aux citernes à cargaison, y compris le coqueron avant et toute autre citerne et tout autre espace situé au-dessous du pont de cloisonnement qui est adjacent aux citernes à cargaison.
+
+5.7.3.2. Les pétroliers équipés de systèmes de mise en atmosphère inerte de ces espaces qui fonctionnent en permanence ne sont pas tenus d'être équipés d'un dispositif fixe de détection des gaz d'hydrocarbure.
+
+5.7.3.3. Nonobstant ce qui précède, les chambres des pompes à cargaison auxquelles s'appliquent les dispositions du paragraphe 5.10 n'ont pas à satisfaire aux prescriptions du présent paragraphe.
 
 5.8 Approvisionnement en air des espaces de double coque et de double fond
 

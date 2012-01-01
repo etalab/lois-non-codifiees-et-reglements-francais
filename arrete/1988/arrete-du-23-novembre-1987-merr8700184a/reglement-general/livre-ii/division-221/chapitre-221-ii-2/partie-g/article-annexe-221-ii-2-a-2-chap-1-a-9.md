@@ -40,7 +40,9 @@ PRÉAMBULE
 
 1 Le présent Recueil a pour objet d'établir des normes internationales relatives aux spécifications techniques applicables aux systèmes de protection contre l'incendie prescrits aux termes du chapitre II-2 de la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée.
 
-2 Le 1er juillet 2002 ou après cette date, le présent Recueil de règles applicables aux systèmes de protection contre l'incendie prescrits aux termes de la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée, sera obligatoire. Tout amendement futur au Recueil devra être adopté et mis en vigueur conformément à la procédure énoncée à l'article VIII de la Convention.
+2 Le 1er juillet 2002 ou après cette date, le présent Recueil de règles applicables aux systèmes de protection contre l'incendie prescrits aux termes de la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, telle que modifiée, sera obligatoire. Tout amendement futur au recueil devra être adopté et mis en vigueur conformément à la procédure énoncée à l'article VIII de la convention.
+
+Toutefois, les amendements au recueil adoptés après le 1er juillet 2002 s'appliquent uniquement aux navires dont la quille est posée ou dont la construction se trouve à un stade équivalent à la date à laquelle les amendements entrent en vigueur ou après cette date, sauf disposition expresse contraire.
 
 CHAPITRE 1 - GÉNÉRALITÉS
 

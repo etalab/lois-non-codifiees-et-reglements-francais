@@ -60,6 +60,6 @@ Aux fins du présent chapitre, sauf disposition expresse contraire :
 
 26 Le milieu du navire est situé au milieu de la longueur (L).
 
-27 "Recueil IS de 2008" désigne le Recueil international de règles de stabilité à l'état intact, 2008, qui comporte une introduction, une partie A (dont les dispositions doivent être considérées comme étant obligatoires) et une partie B (dont les dispositions doivent être considérées comme ayant caractère de recommandation), tel qu'adopté par la résolution MSC.267(85) .
+27 "Recueil IS de 2008" désigne le Recueil international de règles de stabilité à l'état intact, 2008, qui comporte une introduction, une partie A (dont les dispositions doivent être considérées comme étant obligatoires) et une partie B (dont les dispositions doivent être considérées comme ayant caractère de recommandation), tel qu'adopté par la résolution MSC.267(85).
 
-28. Un navire est "en cours de navigation" dès qu'il quitte un poste de mouillage ou d'amarrage dans un port et jusqu'au moment où il est à nouveau fixé à un tel poste.
+28. Les Normes de construction des navires en fonction d'objectifs applicables aux vraquiers et aux pétroliers sont les normes internationales de construction des navires en fonction d'objectifs applicables aux vraquiers et aux pétroliers que le Comité de la sécurité maritime a adoptées par la résolution MSC. 287 (87), telles qu'elles pourront être modifiées par l'Organisation maritime internationale, sous réserve que ces amendements soient adoptés, soient mis en vigueur et prennent effet conformément aux dispositions de l'article VIII de la présente convention concernant la procédure d'amendement de l'annexe, à l'exclusion du chapitre Ier.
