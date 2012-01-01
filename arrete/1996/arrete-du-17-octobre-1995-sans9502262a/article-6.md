@@ -1,6 +1,6 @@
 # Article 6
 
-Les catégories de travailleurs visées au dernier alinéa de l'article D. 242-6-17 du code de la sécurité sociale sont les suivantes :
+Les catégories de travailleurs visées au dernier alinéa de l'article D. 242-6-22 du code de la sécurité sociale sont les suivantes :
 
 1° Voyageur de commerce, représentant, placier non exclusif (au service de plusieurs employeurs) ;
 

@@ -2,7 +2,7 @@
 
 Dans le cas de la procédure de paiement de droit commun, consistant dans le paiement direct au bénéficiaire de l'aide instituée par le décret du 26 décembre 2007 susvisé, la personne qui sollicite le versement de l'aide prévue à l'article 1er de ce décret transmet au Fonds d'aide à l'acquisition de véhicules propres, dont la gestion est assurée par l'Agence de services et de paiement, aux fins de règlement par virement sur le compte bancaire ou postal indiqué, un dossier constitué des pièces suivantes :
 
-1° Une demande de versement de l'aide conforme au modèle disponible en préfecture et sur le site  www. service-public. fr ;
+1° Une demande de versement de l'aide conforme au modèle disponible en préfecture et sur le site  http://www.service-public.fr/;
 
 2° Si le nom et l'adresse du bénéficiaire de l'aide ne figurent pas sur le certificat d'immatriculation, un justificatif de moins de trois mois établissant l'existence d'un domicile ou d'un établissement en France ;
 
@@ -12,9 +12,11 @@ Dans le cas de la procédure de paiement de droit commun, consistant dans le pai
 
 a) Une copie de la facture d'achat du véhicule ou du contrat de location ou, le cas échéant, du contrat-cadre et des conditions particulières en vigueur, ou l'offre de location signée par le locataire et contresignée par le loueur ; ces documents mentionnent notamment le nom et l'adresse du propriétaire ou du locataire du véhicule, la désignation précise du véhicule (appellation commerciale complète, numéro de série et, le cas échéant, mention qu'il s'agit d'un véhicule précédemment utilisé comme véhicule de démonstration), la nature de l'énergie utilisée pour son fonctionnement dans le cas d'un véhicule hybride et la date de facturation du véhicule.
 
+Pour les véhicules commandés au plus tard le 31 décembre 2011, dont le taux d'émission de dioxyde de carbone par kilomètre est inférieur ou égal à 60 grammes et les véhicules commandés à partir du 1er janvier 2012, dont le taux d'émission de dioxyde de carbone par kilomètre est inférieur ou égal à 50 grammes, et pour lesquels la batterie fait l'objet d'un contrat de location, les documents mentionnent notamment la valeur vénale de la batterie ou à défaut sa valeur assurée.
+
 b) Une copie du certificat d'immatriculation du véhicule ou, à compter de l'entrée en vigueur du nouveau système d'immatriculation des véhicules, du certificat provisoire d'immatriculation.
 
-c) Pour les voitures particulières affectées à la démonstration, une copie du certificat de première immatriculation en France.
+c) Pour les voitures particulières affectées à la démonstration, une copie du certificat de première immatriculation en France pour les véhicules précédemment affectés à la démonstration en France ou, pour les véhicules de démonstration acquis à l'étranger, tout document permettant d'établir la preuve qu'il s'agit d'un véhicule précédemment utilisé comme véhicule de démonstration répondant aux caractéristiques d'usage des véhicules de démonstration tels que définis au 4. D de l'article 4 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
 
 5° En cas de demande d'une aide majorée en application de l'article 4 du décret du 26 décembre 2007 susvisé, les pièces suivantes concernant le véhicule retiré de la circulation à des fins de destruction :
 
