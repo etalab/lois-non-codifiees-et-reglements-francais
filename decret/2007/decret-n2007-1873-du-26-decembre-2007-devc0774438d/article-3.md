@@ -287,7 +287,7 @@ a) Pour les véhicules, acquis ou pris en location par des personnes physiques, 
 <br/>800<br/>
 </td>
 <td align="center">
-<br/>600<br/>
+<br/>400<br/>
 </td>
 </tr>
 <tr>
@@ -297,7 +297,7 @@ a) Pour les véhicules, acquis ou pris en location par des personnes physiques, 
 <td align="center" rowspan="4" valign="top">
 <br/>400 </td>
 <td align="center" rowspan="3" valign="top">
-<br/>300 </td>
+<br/>100 </td>
 </tr>
 <tr>
 <td align="center">

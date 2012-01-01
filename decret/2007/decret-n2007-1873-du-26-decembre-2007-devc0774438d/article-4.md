@@ -1,6 +1,6 @@
 # Article 4
 
-Le montant de l'aide défini à l'article 3 est majoré de 300 euros lorsque l'acquisition ou la prise en location du véhicule neuf ou du véhicule de démonstration s'accompagne du retrait de la circulation, à des fins de destruction, d'un véhicule satisfaisant, à la date de la facturation, aux conditions suivantes :
+Le montant de l'aide défini à l'article 3 est majoré de 300 euros pour les véhicules facturés antérieurement au 1er janvier 2012 et de 200 euros pour les véhicules facturés postérieurement à cette date, lorsque l'acquisition ou la prise en location du véhicule neuf ou du véhicule de démonstration s'accompagne du retrait de la circulation, à des fins de destruction, d'un véhicule satisfaisant, à la date de la facturation, aux conditions suivantes :
 
 1° Il appartient à l'une des catégories de véhicules définies au 1° de l'article 1er ;
 
