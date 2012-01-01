@@ -4,7 +4,7 @@ Définitions
 
 Aux fins de la présente division et sauf disposition expresse contraire :
 
-1. Code IMDG désigne le code maritime international des marchandises dangereuses que le Comité de la sécurité maritime de l'Organisation Maritime Internationale a adopté par la résolution MSC.122(75) (amendement 31-02) et tel qu'il a été amendé par les résolutions MSC.157(78) (amendement 32-04), MSC.205(81) (amendement 33-06) et MSC.262(84) (amendement 34-08).
+1. Code IMDG désigne le code maritime international des marchandises dangereuses que le Comité de la sécurité maritime de l'Organisation Maritime Internationale a adopté par la résolution MSC.122(75) (amendement 31-02) et tel qu'il a été amendé par les résolutions MSC.157(78) (amendement 32-04), MSC.205(81) (amendement 33-06), MSC. 262 (84) et MSC. 294 (87) (amendement 35-10).
 
 2. Marchandises dangereuses désigne les substances, matières et objets visés par le Code IMDG.
 

@@ -17,7 +17,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">0 à 9</p>
+<p align="center">0 à 6</p>
 </td>
 <td valign="top" width="307">
 <p align="center">1</p>
@@ -25,7 +25,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">10-19</p>
+<p align="center">7-13</p>
 </td>
 <td valign="top" width="307">
 <p align="center">2</p>
@@ -33,7 +33,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">20-29</p>
+<p align="center">14-20</p>
 </td>
 <td valign="top" width="307">
 <p align="center">3</p>
@@ -41,7 +41,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">30-39</p>
+<p align="center">21-27</p>
 </td>
 <td valign="top" width="307">
 <p align="center">4</p>
@@ -49,7 +49,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">40-49</p>
+<p align="center">28-34</p>
 </td>
 <td valign="top" width="307">
 <p align="center">5</p>
@@ -57,7 +57,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">50-64</p>
+<p align="center">35-41</p>
 </td>
 <td valign="top" width="307">
 <p align="center">6</p>
@@ -65,7 +65,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">65-79</p>
+<p align="center">42-49</p>
 </td>
 <td valign="top" width="307">
 <p align="center">7</p>
@@ -73,7 +73,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">80-99</p>
+<p align="center">50-64</p>
 </td>
 <td valign="top" width="307">
 <p align="center">8</p>
@@ -81,7 +81,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">100-124</p>
+<p align="center">65-79</p>
 </td>
 <td valign="top" width="307">
 <p align="center">9</p>
@@ -89,7 +89,7 @@ Le sous-indice relatif aux particules est une fonction de la moyenne de ces conc
 </tr>
 <tr>
 <td valign="top" width="307">
-<p align="center">≥ 125</p>
+<p align="center">80</p>
 </td>
 <td valign="top" width="307">
 <p align="center">10</p>

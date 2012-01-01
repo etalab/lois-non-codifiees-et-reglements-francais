@@ -16,11 +16,11 @@ Champ d'application
 
 - de la classification des marchandises dangereuses à transporter,
 
-- de la construction, des épreuves, de l'agrément, du marquage, des contrôles périodiques et des conditions d'utilisation des emballages, des récipients, des grands récipients pour vrac (GRV), des grands emballages, des engins de transport et des conteneurs à gaz à éléments multiples,
+- de la construction, des épreuves, de l'agrément, du marquage, des contrôles périodiques et des conditions d'utilisation des emballages, des récipients, des grands récipients pour vrac (GRV), des grands emballages et des engins de transport,
 
 - de l'étiquetage des emballages, des récipients, des GRV et des grands emballages,
 
-- du placardage des engins de transport et des conteneurs à gaz à éléments multiples,
+- du placardage des engins de transport,
 
 - de la documentation permettant le contrôle ou l'intervention des secours,
 
