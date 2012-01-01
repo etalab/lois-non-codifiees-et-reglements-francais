@@ -2,52 +2,34 @@
 
 L'échelonnement indiciaire applicable aux militaires du corps des sous-officiers de gendarmerie, régis par le décret n° 2008-952 du 12 septembre 2008 susvisé, est fixé comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GRADE <br/>
-</th>
-<th>
-<br/>ÉCHELLE DE SOLDE <br/>
-</th>
-<th>
-<br/>ÉCHELON <br/>
-</th>
-<th>
-<br/>INDICE BRUT <br/>
-</th>
+<td>
+<p align="center"> GRADE </p>
+</td>
+<td>
+<p align="center"> ÉCHELLE DE SOLDE </p>
+</td>
+<td>
+<p align="center"> ÉCHELON </p>
+</td>
+<td colspan="2">
+<p align="center"> INDICE BRUT</p>
+</td>
 </tr>
 <tr>
 <td align="center">
 <br/>Major <br/>
 </td>
 <td align="center">
-<br/>Echelle de solde des majors <br/>
+<br/>Echelle de solde spécifique des sous-officiers de gendarmerie autres que les gendarmes <br/>
 </td>
 <td align="center">
-<br/>Echelon exceptionnel (1) <br/>
+<br/>Exceptionnel (1) <br/>
 </td>
 <td align="center">
-<br/>638 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>608 <br/>
+<br/>642 <br/>
 </td>
 </tr>
 <tr>
@@ -60,26 +42,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>4e échelon <br/>
+<br/>6e <br/>
 </td>
 <td align="center">
-<br/>599 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>585 <br/>
+<br/>634 <br/>
 </td>
 </tr>
 <tr>
@@ -92,40 +58,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>2e échelon <br/>
+<br/>5e <br/>
 </td>
 <td align="center">
-<br/>565 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>547 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjudant-chef <br/>
-</td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>8e échelon <br/>
-</td>
-<td align="center">
-<br/>572 <br/>
+<br/>621 <br/>
 </td>
 </tr>
 <tr>
@@ -138,7 +74,39 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>7e échelon <br/>
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>610 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>593 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e <br/>
 </td>
 <td align="center">
 <br/>566 <br/>
@@ -154,10 +122,25 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>6e échelon <br/>
+<br/>1er <br/>
 </td>
 <td align="center">
-<br/>562 <br/>
+<br/>550 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjudant-chef <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>9e <br/>
+</td>
+<td align="center">
+<br/>588 <br/>
 </td>
 </tr>
 <tr>
@@ -170,7 +153,55 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>5e échelon <br/>
+<br/>8e <br/>
+</td>
+<td align="center">
+<br/>581 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>7e <br/>
+</td>
+<td align="center">
+<br/>572 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>566 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>5e <br/>
 </td>
 <td align="center">
 <br/>558 <br/>
@@ -186,26 +217,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>4e échelon <br/>
+<br/>4e <br/>
 </td>
 <td align="center">
-<br/>553 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>544 <br/>
+<br/>554 <br/>
 </td>
 </tr>
 <tr>
@@ -218,37 +233,23 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>2e échelon <br/>
+<br/>3e <br/>
 </td>
 <td align="center">
-<br/>531 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>520 <br/>
+<br/>547 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjudant <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>Echelle de solde n° 4 <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>8e échelon <br/>
+<br/>2e <br/>
 </td>
 <td align="center">
 <br/>538 <br/>
@@ -264,10 +265,25 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>7e échelon <br/>
+<br/>1er <br/>
 </td>
 <td align="center">
-<br/>524 <br/>
+<br/>527 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjudant <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>9e <br/>
+</td>
+<td align="center">
+<br/>548 <br/>
 </td>
 </tr>
 <tr>
@@ -280,26 +296,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>6e échelon <br/>
+<br/>8e <br/>
 </td>
 <td align="center">
-<br/>518 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>508 <br/>
+<br/>540 <br/>
 </td>
 </tr>
 <tr>
@@ -312,26 +312,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>4e échelon <br/>
+<br/>7e <br/>
 </td>
 <td align="center">
-<br/>498 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>487 <br/>
+<br/>528 <br/>
 </td>
 </tr>
 <tr>
@@ -344,40 +328,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>2e échelon <br/>
+<br/>6e <br/>
 </td>
 <td align="center">
-<br/>473 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>464 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Maréchal des logis-chef <br/>
-</td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>6e échelon <br/>
-</td>
-<td align="center">
-<br/>512 <br/>
+<br/>523 <br/>
 </td>
 </tr>
 <tr>
@@ -390,7 +344,39 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>5e échelon <br/>
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>514 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e <br/>
 </td>
 <td align="center">
 <br/>491 <br/>
@@ -406,7 +392,23 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>4e échelon <br/>
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>476 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er <br/>
 </td>
 <td align="center">
 <br/>467 <br/>
@@ -414,34 +416,17 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
+<br/>Maréchal des logis-chef <br/>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>3e échelon <br/>
+<br/>7e <br/>
 </td>
 <td align="center">
-<br/>444 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2e échelon <br/>
-</td>
-<td align="center">
-<br/>425 <br/>
+<br/>521 <br/>
 </td>
 </tr>
 <tr>
@@ -454,10 +439,90 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>1er échelon <br/>
+<br/>6e <br/>
 </td>
 <td align="center">
-<br/>395 <br/>
+<br/>514 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>494 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>468 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>426 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>399 <br/>
 </td>
 </tr>
 <tr>
@@ -465,29 +530,13 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>Gendarme <br/>
 </td>
 <td align="center">
-<br/>Echelle de solde des gendarmes <br/>
+<br/>Echelle de solde spécifique des gendarmes <br/>
 </td>
 <td align="center">
-<br/>Echelon exceptionnel <br/>
+<br/>13e <br/>
 </td>
 <td align="center">
-<br/>501 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>11e échelon <br/>
-</td>
-<td align="center">
-<br/>484 <br/>
+<br/>506 <br/>
 </td>
 </tr>
 <tr>
@@ -500,26 +549,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>10e échelon <br/>
+<br/>12e <br/>
 </td>
 <td align="center">
-<br/>460 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>9e échelon <br/>
-</td>
-<td align="center">
-<br/>447 <br/>
+<br/>502 <br/>
 </td>
 </tr>
 <tr>
@@ -532,26 +565,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>8e échelon <br/>
+<br/>11e <br/>
 </td>
 <td align="center">
-<br/>432 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>7e échelon <br/>
-</td>
-<td align="center">
-<br/>423 <br/>
+<br/>486 <br/>
 </td>
 </tr>
 <tr>
@@ -564,26 +581,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>6e échelon <br/>
+<br/>10e <br/>
 </td>
 <td align="center">
-<br/>407 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>379 <br/>
+<br/>461 <br/>
 </td>
 </tr>
 <tr>
@@ -596,26 +597,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>4e échelon <br/>
+<br/>9e <br/>
 </td>
 <td align="center">
-<br/>348 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>328 <br/>
+<br/>450 <br/>
 </td>
 </tr>
 <tr>
@@ -628,10 +613,10 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>2e échelon <br/>
+<br/>8e <br/>
 </td>
 <td align="center">
-<br/>318 <br/>
+<br/>436 <br/>
 </td>
 </tr>
 <tr>
@@ -644,10 +629,106 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 <br/>
 </td>
 <td align="center">
-<br/>1er échelon <br/>
+<br/>7e <br/>
 </td>
 <td align="center">
-<br/>309 <br/>
+<br/>426 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>6e <br/>
+</td>
+<td align="center">
+<br/>414 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>5e <br/>
+</td>
+<td align="center">
+<br/>381 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e <br/>
+</td>
+<td align="center">
+<br/>350 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e <br/>
+</td>
+<td align="center">
+<br/>329 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e <br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
 </td>
 </tr>
 <tr>
@@ -665,11 +746,9 @@ L'échelonnement indiciaire applicable aux militaires du corps des sous-officier
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<p align="left">(1) Echelon exceptionnel attribué dans la limite de 21 % de l'effectif des majors.</p>
+<td colspan="5">
+<br/>(1) Echelon exceptionnel attribué dans la limite de 25 % de l'effectif des majors.<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
