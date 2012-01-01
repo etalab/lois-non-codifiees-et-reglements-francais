@@ -8,7 +8,7 @@ a) De visualiser la liste et les coordonnées des exploitants d'ouvrages connus 
 
 b) De disposer d'un numéro de consultation du téléservice ;
 
-c) De délimiter la zone d'emprise des travaux en traçant sur un fond de carte fourni par le téléservice un ou plusieurs polygones ou à défaut par une plage d'adresses. Le téléservice associe cette plage d'adresses à un polygone ;
+c) De délimiter la zone d'emprise des travaux en traçant sur un fond de carte fourni par le téléservice un ou plusieurs polygones ;
 
 d) De disposer sous format électronique d'un plan sur lequel est reportée l'emprise des travaux qu'ils prévoient et qui sera joint à leurs déclarations de projet de travaux et d'intention de commencement de travaux. Les coordonnées géoréférencées de chacun des sommets des polygones mentionnés au c sont au minimum reportées sur le fond de plan ou en légende de celui-ci. La distance entre deux polygones adjacents ne peut être supérieure à 50 mètres et la superficie totale de l'emprise des travaux ne peut excéder 2 hectares lors d'une consultation du téléservice. Lorsque l'une de ces deux conditions n'est pas respectée, le déclarant est invité par le téléservice à effectuer plusieurs consultations successives du téléservice afin d'établir autant de déclarations que de consultations du téléservice nécessaires pour respecter ces critères. Lorsque l'emprise des travaux intéresse plusieurs communes, le déclarant est invité par le téléservice à établir une déclaration pour chacune d'elles ;
 
@@ -16,7 +16,7 @@ e) De disposer sous format électronique des tracés en position géoréferencé
 
 f) A des fins d'établissement de leurs déclarations de projet de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité ;
 
-g) A des fins d'établissement de leurs déclarations d'intention de commencement de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité et avec celles dont il dispose relatives aux coordonnées des responsables de projet et aux numéros de consultation du téléservice mentionnés dans les déclarations de projet de travaux attenantes ;
+g) A des fins d'établissement de leurs déclarations d'intention de commencement de travaux, de disposer sous format électronique des formulaires de déclaration préremplis avec les informations qu'ils lui ont communiquées sous leur seule responsabilité ;
 
 h) D'utiliser leurs données à caractère personnel grâce à un compte personnel permettant de conserver les informations personnelles les concernant ainsi que l'historique sur les douze derniers mois de leurs consultations abouties du téléservice et les résultats attenants relatifs à la liste et aux coordonnées des exploitants d'ouvrages mentionnées au a et aux coordonnées géoréférencées des polygones mentionnées au d ;
 
@@ -40,9 +40,7 @@ III. ― Le téléservice met à disposition des prestataires d'aide un ensemble
 
 a) D'accéder aux éléments relatifs aux exploitants que ces derniers transmettent au téléservice ;
 
-b) D'accéder au résultat d'une consultation réalisée directement auprès du téléservice à partir d'un numéro de consultation si le déclarant associé à cette déclaration les y autorise expressément au préalable ;
-
-c) De consulter le compte personnel d'un déclarant si ce dernier les y autorise expressément au préalable en leur communiquant son identifiant et son mot de passe.
+b) D'accéder au résultat d'une consultation réalisée directement auprès du téléservice à partir d'un numéro de consultation et de la clé secrète du déclarant associé à cette déclaration ;
 
 IV. ― A raison de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées, le téléservice met gratuitement à disposition des agents chargés de l'urbanisme ou de la distribution de gaz ou de l'électricité des communes ou des établissements publics de coopération intercommunale et des syndicats mixtes, lorsque la compétence afférente à la distribution publique de gaz ou de l'électricité leur a été transférée un ensemble de services accessibles par internet leur permettant :
 
@@ -50,7 +48,9 @@ a) De visualiser et de télécharger la liste et les coordonnées des exploitant
 
 b) De visualiser et de télécharger les zones d'implantation des ouvrages situés sur le territoire où ils sont compétents ;
 
-c) De visualiser et de télécharger les tracés en position géoréferencée des ouvrages souterrains non démantelés arrêtés définitivement situés sur le territoire où ils sont compétents qui lui ont été communiqués par leurs exploitants.
+c) De visualiser et de télécharger les tracés en position géoréferencée des ouvrages souterrains non démantelés arrêtés définitivement situés sur le territoire où ils sont compétents qui lui ont été communiqués par leurs exploitants ;
+
+d) D'accéder au nombre de consultations réalisées directement auprès du téléservice au cours des douze derniers mois, ainsi qu'à leurs dates, à partir de la définition d'un secteur géographique sur le territoire duquel ils sont compétents en traçant un polygone sur un fond de carte fourni par le téléservice.
 
 V. ― A raison de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées, le téléservice met gratuitement à disposition des agents chargés de la sécurité industrielle des directions régionales de l'environnement, de l'aménagement et du logement, des directions de l'environnement, de l'aménagement et du logement et de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France, un ensemble de services accessibles par internet leur permettant :
 
@@ -70,7 +70,7 @@ a) De disposer d'un guide d'utilisation des services mentionnés aux I, II, III,
 
 b) De télécharger des documents réglementaires et pararéglementaires relatifs à la prévention des endommagements des réseaux lors de travaux effectués à proximité, dont notamment les formulaires de déclaration et de récépissé vierges et les notices d'utilisation attenantes.
 
-VII. ― Le téléservice transmet gratuitement, au minimum tous les trois mois, par télécopie aux mairies qui ne bénéficient pas de connexion internet bas débit ou plus et qui lui en font la demande une liste exhaustive et les coordonnées des exploitants d'ouvrages implantés sur leurs territoires.A chaque liste est associée un numéro unique de onze caractères dont les six premiers mentionnent le jour, le mois et l'année de sa transmission et dont le dernier caractère est la lettre M. Ce numéro vaut numéro de consultation du téléservice au sens de l'article 6 pour les déclarants se référant à une telle liste.
+VII. ― Le téléservice transmet gratuitement, au minimum tous les trois mois, par télécopie aux mairies qui ne bénéficient pas de connexion internet bas débit ou plus et qui lui en font la demande une liste exhaustive et les coordonnées des exploitants d'ouvrages implantés sur leurs territoires. A chaque liste est associée un numéro unique de 14 caractères dont les 8 premiers mentionnent l'année, le mois et le jour de sa transmission, les 5 suivants correspondant à un numéro de chrono et le dernier caractère étant la lettre M. Ce numéro vaut numéro de consultation du téléservice au sens de l'article 6 pour les déclarants se référant à une telle liste.
 
 Une liste est remplacée au plus tôt par une nouvelle liste en cas de changement de toute information contenue par cette liste.
 
