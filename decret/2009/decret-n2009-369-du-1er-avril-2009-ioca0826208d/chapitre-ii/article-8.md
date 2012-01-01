@@ -1,205 +1,412 @@
 # Article 8
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux techniciens des systèmes d'information et de communication régis par le décret du 24 août 2000 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
+L'échelonnement indiciaire applicable aux techniciens des systèmes d'information et de communication du ministère de l'intérieur régis par le décret du 27 décembre 2011 susvisé est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
+<td>
+<p align="center"> GRADES ET ÉCHELONS </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien de classe exceptionnelle</td>
+<br/>Technicien de classe exceptionnelle <p>des systèmes d'information et de communication <br/>
+</p>
+</td>
 <td align="center">
-<br/> </td>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon.</td>
+<p align="left">
+<br/>11e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>650</td>
+<br/>713 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon.</td>
+<p align="left">
+<br/>10e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>619</td>
+<br/>684 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon.</td>
+<p align="left">
+<br/>9e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>588</td>
+<br/>657 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon.</td>
+<p align="left">
+<br/>8e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>559</td>
+<br/>623 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon.</td>
+<p align="left">
+<br/>7e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>525</td>
+<br/>593 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon.</td>
+<p align="left">
+<br/>6e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>494</td>
+<br/>565 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon.</td>
+<p align="left">
+<br/>5e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>464</td>
+<br/>538 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien de classe supérieure</td>
+<p align="left">
+<br/>4e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/> </td>
+<br/>510 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon.</td>
+<p align="left">
+<br/>3e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>618</td>
+<br/>491 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon.</td>
+<p align="left">
+<br/>2e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>585</td>
+<br/>468 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon.</td>
+<p align="left">
+<br/>1er échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>556</td>
+<br/>449 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon.</td>
+<br/>Technicien de classe supérieure <p>des systèmes d'information et de communication <br/>
+</p>
+</td>
 <td align="center">
-<br/>524</td>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon.</td>
+<p align="left">
+<br/>13e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>503</td>
+<br/>652 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon.</td>
+<p align="left">
+<br/>12e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>474</td>
+<br/>620 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon.</td>
+<p align="left">
+<br/>11e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>456</td>
+<br/>589 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon.</td>
+<p align="left">
+<br/>10e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>445</td>
+<br/>559 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien de classe normale</td>
+<p align="left">
+<br/>9e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/> </td>
+<br/>531 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>13e échelon.</td>
+<p align="left">
+<br/>8e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>582</td>
+<br/>504 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>12e échelon.</td>
+<p align="left">
+<br/>7e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>551</td>
+<br/>484 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>11e échelon.</td>
+<p align="left">
+<br/>6e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>521</td>
+<br/>461 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>10e échelon.</td>
+<p align="left">
+<br/>5e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>491</td>
+<br/>444 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>9e échelon.</td>
+<p align="left">
+<br/>4e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>474</td>
+<br/>425 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon.</td>
+<p align="left">
+<br/>3e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>456</td>
+<br/>415 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon.</td>
+<p align="left">
+<br/>2e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>445</td>
+<br/>397 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon.</td>
+<p align="left">
+<br/>1er échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>431</td>
+<br/>389 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon.</td>
+<br/>Technicien de classe normale <p>des systèmes d'information et de communication <br/>
+</p>
+</td>
 <td align="center">
-<br/>409</td>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon.</td>
+<p align="left">
+<br/>13e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>386</td>
+<br/>614 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon.</td>
+<p align="left">
+<br/>12e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>378</td>
+<br/>587 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon.</td>
+<p align="left">
+<br/>11e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>356</td>
+<br/>557 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>1er échelon.</td>
+<p align="left">
+<br/>10e échelon <br/>
+</p>
+</td>
 <td align="center">
-<br/>348</td>
+<br/>524 <br/>
+</td>
 </tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>9e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>498 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>8e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>475 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>457 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>6e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>440 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>5e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>421 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>4e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>401 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>387 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>374 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1er échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>366</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-<br/>
-</div>
