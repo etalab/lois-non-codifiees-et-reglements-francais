@@ -1,92 +1,140 @@
 # Article 1
 
-<div>
-<br/>Les montants forfaitaires de l'indemnité de fidélisation en secteur difficile attribuée aux fonctionnaires actifs de la police exerçant dans les circonscriptions de sécurité publique mentionnées à l'annexe I du décret du 15 décembre 1999 susvisé sont fixés comme suit : <br/>
+Les montants forfaitaires de l'indemnité de fidélisation en secteur difficile attribuée aux fonctionnaires actifs de la police exerçant dans les circonscriptions de sécurité publique mentionnées à l'annexe I du décret du 15 décembre 1999 susvisé sont fixés comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>ANNÉE DE SERVICE CONTINU <br/>en secteur difficile </th>
-<th>
-<br/>PERSONNELS DU CORPS <br/>d'encadrement et d'application <br/>exerçant des fonctions <br/>opérationnelles <br/>(en euros par an) </th>
-<th>
-<br/>AUTRES PERSONNELS <br/>du corps d'encadrement <br/>et d'application <br/>(en euros par an) </th>
-<th>
-<br/>PERSONNELS DU CORPS <br/>de conception et de direction <br/>et du corps de commandement <br/>(en euros par an) </th>
+<td align="center"> ANNÉE DE SERVICE CONTINU <br/>en secteur difficile </td>
+<td align="center"> PERSONNELS DU CORPS <p>d'encadrement et d'application </p>
+<p>exerçant des fonctions </p>
+<p>opérationnelles </p>(en euros par an) </td>
+<td align="center"> AUTRES PERSONNELS <p>du corps d'encadrement </p>
+<p>et d'application </p>(en euros par an) </td>
+<td align="center"> PERSONNELS DU CORPS <p>de conception et de direction </p>
+<p>et du corps de commandement </p>(en euros par an) </td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e </td>
+<br/>3e <br/>
+</td>
 <td align="center">
-<br/>202 </td>
+<br/>202 <br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e </td>
+<br/>4e <br/>
+</td>
 <td align="center">
-<br/>403 </td>
+<br/>403 <br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e </td>
+<br/>5e <br/>
+</td>
 <td align="center">
-<br/>604 </td>
+<br/>604 <br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>  </td>
+<br/>
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e </td>
+<br/>6e <br/>
+</td>
 <td align="center">
-<br/>805 </td>
+<br/>805 <br/>
+</td>
 <td align="center">
-<br/>805 </td>
+<br/>805 <br/>
+</td>
 <td align="center">
-<br/>988 </td>
+<br/>988 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e </td>
+<br/>7e <br/>
+</td>
 <td align="center">
-<br/>1   005 </td>
+<br/>1 005 <br/>
+</td>
 <td align="center">
-<br/>1   005 </td>
+<br/>1 005 <br/>
+</td>
 <td align="center">
-<br/>988 </td>
+<br/>988 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e </td>
+<br/>8e <br/>
+</td>
 <td align="center">
-<br/>1   205 </td>
+<br/>1 205 <br/>
+</td>
 <td align="center">
-<br/>1   205 </td>
+<br/>1 205 <br/>
+</td>
 <td align="center">
-<br/>988 </td>
+<br/>988 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>9e </td>
+<br/>9e <br/>
+</td>
 <td align="center">
-<br/>1   405 </td>
+<br/>1 405 <br/>
+</td>
 <td align="center">
-<br/>1   405 </td>
+<br/>1 405 <br/>
+</td>
 <td align="center">
-<br/>988</td>
+<br/>988 <br/>
+</td>
 </tr>
+<tr>
+<td align="center">
+<br/>10e <br/>
+</td>
+<td align="center">
+<br/>1 605 <br/>
+</td>
+<td align="center">
+<br/>1 605 <br/>
+</td>
+<td align="center">
+<br/>988<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
