@@ -204,7 +204,6 @@
 - [Arrêté du 12 octobre 2005 (SANS0523743A)](arrete-du-12-octobre-2005-sans0523743a)
 - [Arrêté du 12 octobre 2005 (SANS0523744A)](arrete-du-12-octobre-2005-sans0523744a)
 - [Arrêté du 12 octobre 2005 (SOCO0511975A)](arrete-du-12-octobre-2005-soco0511975a)
-- [Arrêté du 12 septembre 2005 (SOCF0511784A)](arrete-du-12-septembre-2005-socf0511784a)
 - [Arrêté du 12 mai 2004 (SANY0421802A)](arrete-du-12-mai-2004-sany0421802a)
 - [Arrêté du 13 décembre 2005 (AGRG0502808A)](arrete-du-13-decembre-2005-agrg0502808a)
 - [Arrêté du 13 décembre 2005 (EQUP0501479A)](arrete-du-13-decembre-2005-equp0501479a)

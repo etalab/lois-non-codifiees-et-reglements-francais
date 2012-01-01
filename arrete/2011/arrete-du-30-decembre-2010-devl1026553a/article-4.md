@@ -1,6 +1,6 @@
 # Article 4
 
-Pour l'application de l'article L. 31-10-5 du code de la construction et de l'habitation, pour l'appréciation des ressources des personnes destinées à occuper le logement lors de la demande de prêt, l'emprunteur doit fournir son avis d'impôt sur les revenus de l'avant-dernière année précédant celle de l'émission de l'offre de prêt et, le cas échéant, les avis d'imposition des personnes destinées à occuper le logement.
+Pour l'application des articles L. 31-10-2, L. 31-10-3 et L. 31-10-5 du code de la construction et de l'habitation, pour l'appréciation des ressources des personnes destinées à occuper le logement lors de la demande de prêt, l'emprunteur doit fournir son avis d'impôt sur les revenus de l'avant-dernière année précédant celle de l'émission de l'offre de prêt et, le cas échéant, les avis d'imposition des personnes destinées à occuper le logement.
 
 Pour les personnes rattachées à un foyer fiscal ou à la charge de leurs parents l'avant-dernière année précédant celle de l'émission de l'offre de prêt, une attestation sur l'honneur, conforme au modèle figurant en annexe V, accompagne l'avis d'imposition du foyer fiscal de rattachement ou des parents, précisant le montant des revenus individualisés de l'emprunteur.
 
