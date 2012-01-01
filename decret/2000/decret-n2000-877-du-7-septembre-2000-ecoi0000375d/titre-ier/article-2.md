@@ -10,13 +10,13 @@ Sous la responsabilité du pétitionnaire, la demande comporte les indications e
 
 3° Les caractéristiques principales de l'installation de production, précisant au moins la capacité de production, les énergies primaires et les techniques de production utilisées, les rendements énergétiques, ainsi que les durées de fonctionnement (base, semi-base ou pointe) ;
 
-4° La localisation de l'installation de production, ainsi que le numéro d'identité de l'établissement considéré au répertoire national des entreprises et des établissements ;
+4° La localisation de l'installation de production, ainsi que le numéro d'identité de l'établissement considéré au répertoire national des entreprises et des établissements une installation dont l'emprise s'étend sur plusieurs départements est réputée située dans le département où se situe son point de raccordement ;
 
-5° Une note relative à l'incidence du projet sur la sécurité et la sûreté des réseaux publics d'électricité, et des installations et équipements qui leur sont associés, et établie notamment au regard des prescriptions prévues aux articles 14 et 18 de la loi du 10 février 2000 susvisée ;
+5° Une note relative à l'incidence du projet sur la sécurité et la sûreté des réseaux publics d'électricité, et des installations et équipements qui leur sont associés, et établie notamment au regard des prescriptions prévues à l'article L. 342-5 du code de l'énergie ;
 
 6° Une note relative à l'application de la législation sociale dans l'établissement ;
 
-7° Une note exposant l'influence, sur l'environnement, du parti de production retenu ;
+7° Une note exposant l'intérêt que présente le site pour la production électrique et une liste commentée des dispositions environnementales susceptibles d'être applicables sur le site ;
 
 8° La copie, s'il y a lieu, du récépissé mentionné à l'article R. 423-3 du code de l'urbanisme.
 
