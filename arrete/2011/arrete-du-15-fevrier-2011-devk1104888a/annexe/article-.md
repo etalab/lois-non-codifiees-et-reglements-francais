@@ -164,7 +164,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (EPARECA) ;
 
-― les établissements publics fonciers (Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord - Pas-de-Calais, Normandie, Ouest Rhône-Alpes (EPORA), Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val d'Oise, Vendée, Yvelines) ;
+― les établissements publics fonciers (Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord-Pas-de-Calais, Normandie, Ouest Rhône-Alpes (EPORA), Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val d'Oise, Vendée, Yvelines) ;
 
 ― l'Etablissement public de sécurité ferroviaire (EPSF) ;
 
@@ -174,7 +174,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Institut français de recherche pour l'exploitation de la mer (IFREMER) ;
 
-― l'Institut géographique national (IGN) ;
+― l'     Institut national de l'information géographique et forestière ;
 
 ― l'Institut national de l'environnement industriel et des risques (INERIS) ;
 

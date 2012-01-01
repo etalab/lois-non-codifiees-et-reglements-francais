@@ -4,9 +4,9 @@ Les ingénieurs des travaux géographiques et cartographiques de l'Etat sont nom
 
 a) Parmi les élèves ingénieurs des travaux géographiques et cartographiques de l'Etat qui ont satisfait aux conditions exigées par le règlement de l'Ecole nationale des sciences géographiques et parmi les lauréats d'un concours externe sur titres recrutés dans les conditions fixées à l'article 6-1 ;
 
-b) Parmi les fonctionnaires du corps des géomètres de l'institut géographique national qui ont satisfait à un examen professionnel et effectué un stage de perfectionnement ;
+b) Parmi les fonctionnaires du corps des géomètres de l'  Institut national de l'information géographique et forestière qui ont satisfait à un examen professionnel et effectué un stage de perfectionnement ;
 
-c) Parmi les fonctionnaires du corps des géomètres de l'institut géographique national qui ont été portés sur une liste d'aptitude dans les conditions fixées à l'article 16 ci-après.
+c) Parmi les fonctionnaires du corps des géomètres de l'  Institut national de l'information géographique et forestière qui ont été portés sur une liste d'aptitude dans les conditions fixées à l'article 16 ci-après.
 
 La proportion des nominations susceptibles d'être prononcées au titre du b et du c est comprise entre un quart et un tiers du nombre total des nominations par concours et des détachements prononcés dans les conditions définies au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions. Ces nominations sont prononcées, dans une proportion comprise entre 50 % et 60 %, par la voie de l'examen professionnel.
 

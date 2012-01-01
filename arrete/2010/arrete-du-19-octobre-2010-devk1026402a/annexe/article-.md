@@ -174,7 +174,7 @@ IFP Energies nouvelles.
 
 L'Institut français de recherche pour l'exploitation de la mer (IFREMER).
 
-L'Institut géographique national (IGN).
+L'     Institut national de l'information géographique et forestière.
 
 L'Institut national de l'environnement industriel et des risques (INERIS).
 

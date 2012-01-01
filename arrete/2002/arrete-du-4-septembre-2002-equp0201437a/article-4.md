@@ -1,6 +1,6 @@
 # Article 4
 
-La composition de l'instance de concertation susvisée placée auprès du directeur général de l'Institut géographique national est fixée comme suit :
+La composition de l'instance de concertation susvisée placée auprès du directeur général de l'  Institut national de l'information géographique et forestière est fixée comme suit :
 
 <table>
 <tbody>
@@ -60,7 +60,7 @@ La composition de l'instance de concertation susvisée placée auprès du direct
 <p align="center">2 </p>
 </td>
 <td width="75">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>

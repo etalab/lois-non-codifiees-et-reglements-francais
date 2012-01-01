@@ -20,7 +20,7 @@ Le directeur général de l'aviation civile.
 
 Le président-directeur général de Météo-France.
 
-Le directeur général de l'Institut géographique national.
+Le directeur général de l'  Institut national de l'information géographique et forestière.
 
 Le directeur du service d'études techniques des routes et autoroutes.
 

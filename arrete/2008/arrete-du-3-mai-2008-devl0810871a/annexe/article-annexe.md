@@ -1,6 +1,6 @@
 # Article Annexe
 
-**LISTE DES SERVICES DOTÉS D'UN BUREAU DE VOTE SPÉCIAL (BVS)**
+LISTE DES SERVICES DOTÉS D'UN BUREAU DE VOTE SPÉCIAL (BVS)
 
 A.-Chaque direction départementale de l'équipement et direction départementale de l'équipement et de l'agriculture.
 
@@ -158,11 +158,11 @@ W.-Chacun des établissements publics suivants :
 
 12° L'Etablissement public de sécurité ferroviaire ;
 
-13° L'Institut géographique national ;
+13° L' Institut national de l'information géographique et forestière ;
 
 14° L'Institut national de recherche sur les transports et leur sécurité ;
 
-15° L'     Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
+15° L'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 16° Météo-France ;
 
@@ -174,7 +174,7 @@ W.-Chacun des établissements publics suivants :
 
 20° Les parcs nationaux de France (Port-Cros, Vanoise, Pyrénées, Cévennes, Ecrins, Mercantour, Guyane, Guadeloupe et Réunion).
 
-Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central).
+Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central) .
 
 X.-Des bureaux de vote spéciaux sont institués dans chacun des services ou directions d'administration centrale suivantes :
 

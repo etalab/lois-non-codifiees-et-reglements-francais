@@ -38,7 +38,7 @@ p) Tourisme.
 
 2. Les autorités ci-après ou leurs représentants respectifs :
 
-a) Le     secrétaire général de la défense et de la sécurité nationale ;
+a) Le secrétaire général de la défense et de la sécurité nationale ;
 
 b) Le secrétaire général de la mer ;
 
@@ -86,7 +86,7 @@ o) L'Institut français du pétrole ;
 
 p) L'Institut Paul-Emile Victor ;
 
-q) L'Institut géographique national ;
+q) L'  Institut national de l'information géographique et forestière ;
 
 r) Météo-France ;
 

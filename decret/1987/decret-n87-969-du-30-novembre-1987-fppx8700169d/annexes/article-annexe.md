@@ -684,7 +684,7 @@ H-classe normale
 
 (1) Echelon exceptionnel
 
-H-technicien  géomètre-cadastreur des finances publiques
+H-technicien géomètre-cadastreur des finances publiques
 
 274-474
 
@@ -916,7 +916,7 @@ H-classe normale
 
 284-463
 
-V.-Institut géographique national
+V.-  Institut national de l'information géographique et forestière
 
 H-technicien géomètre
 

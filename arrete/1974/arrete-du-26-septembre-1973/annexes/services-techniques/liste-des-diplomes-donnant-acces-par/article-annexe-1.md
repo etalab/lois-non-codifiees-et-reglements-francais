@@ -268,7 +268,7 @@ Technicien d'étude en chauffage central.
 
 Technicien d'exploitation (pupitreur gros systèmes).
 
-Technicien de maintenance (ordinateurs de bureau N.C.R.).
+Technicien de maintenance (ordinateurs de bureau N. C. R.).
 
 Technicien métreur (couverture, sanitaire, chauffage, ventilation).
 
@@ -488,11 +488,11 @@ Brevet supérieur de mécanicien d'aéronautique.
 
 Brevet supérieur de mécanicien du service général.
 
-Certificat élémentaire de calcul S.E.N.I.T., certificat élémentaire de calcul digital.
+Certificat élémentaire de calcul S. E. N. I. T., certificat élémentaire de calcul digital.
 
 Certificat de programmeur supérieur.
 
-Brevets militaires professionnels (B.M.P.) ci-après :
+Brevets militaires professionnels (B. M. P.) ci-après :
 
 Brevet militaire professionnel premier degré des spécialités suivantes :
 
@@ -514,7 +514,7 @@ Electrotechnique appliquée.
 
 Instruction de conduite.
 
-Mécanicien A.L.A.T..
+Mécanicien A. L. A. T..
 
 Mécanicien d'armement classique et de machines de bureau.
 
@@ -582,9 +582,9 @@ Certificat d'électronicien.
 
 Certificat maître système.
 
-Certificat supérieur de calcul S.E.N.I.T., certificat supérieur de calcul digital.
+Certificat supérieur de calcul S. E. N. I. T., certificat supérieur de calcul digital.
 
-Brevets militaires professionnels (B.M.P.) ci-après :
+Brevets militaires professionnels (B. M. P.) ci-après :
 
 Brevet militaire professionnel deuxième degré des spécialités suivantes :
 
@@ -612,7 +612,7 @@ Mechelen, provinciale Hogere Middelbare Tuinbouwschool, Antwerpsesteenweg 145.
 
 Province de Brabant :
 
-Anderlecht, institut provincial d'horticulture,1, avenue Marius-Renard.
+Anderlecht, institut provincial d'horticulture, 1, avenue Marius-Renard.
 
 Leuven, provinciale Tuinbouwschool, Wijnpersstraat 6.
 
@@ -628,7 +628,7 @@ Melle, Rijksmiddelbare Tuinbouwschool, Brusselsesteenweg 147.
 
 Wetteren, Technische Scholen, Sint-Barbara-Beirstoppelstraat 102. Province du Hainaut :
 
-La Hestre, école d'horticulture de Mariemont,25, rue du Parc.
+La Hestre, école d'horticulture de Mariemont, 25, rue du Parc.
 
 Province du Limbourg :
 
@@ -650,29 +650,29 @@ B-Suisse.
 
 Titre d'agrotechnicien délivré par :
 
-L'école supérieure, centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine),1254 Lullier, canton de Genève.
+L'école supérieure, centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine), 1254 Lullier, canton de Genève.
 
 L'école technique supérieure de Rapperswill.
 
-L'école technique supérieure,4, rue de la Prairie,1202 Genève.
+L'école technique supérieure, 4, rue de la Prairie, 1202 Genève.
 
 Titre d'ingénieur technicien délivré par l'école supérieure,
 
-centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine),1254 Lullier, canton de Genève.
+centre horticole de Lullier, technicum horticole de Lullier (anciennement Châteleine), 1254 Lullier, canton de Genève.
 
 C-Pays-Bas.
 
 Diplômes délivrés par les établissements suivants (brevet de technicien agricole) :
 
-Middelbare Tuinbouwschool Zie onder R.K. middelbare Landbauwschoolen, Frankenthalerstraat 7, Breda.
+Middelbare Tuinbouwschool Zie onder R. K. middelbare Landbauwschoolen, Frankenthalerstraat 7, Breda.
 
 Middelbare Tuinbouwschoolen, Rijnbeekstraat 12, Venlo.
 
-Overige Bijzonderemiddelbare Tuinbouwschoolen " G.A. von Swieten ", Majoor van Swieten Laan 15, Frederiksoord.
+Overige Bijzonderemiddelbare Tuinbouwschoolen " G. A. von Swieten ", Majoor van Swieten Laan 15, Frederiksoord.
 
 Overige Bijzonderemiddelbare Tuinbouwschoolen Zie Overigebijz.
 
-Middelbare Lanbouwschoolen, Thedinghsweert,3 Kerk Avezaath.
+Middelbare Lanbouwschoolen, Thedinghsweert, 3 Kerk Avezaath.
 
 Middelbare Tuinbouwschool voor Meisjes " Huis te Lande ", van Vredenburchweg 150, Rijswijk.
 
@@ -692,7 +692,7 @@ Rijksmiddelbare Tuinbouwschool, Zwanenvechtplein 15, Utrecht.
 
 Diplômes délivrés par les établissements suivants :
 
-Hogere Tuinbouwschool van de K.N.B.T.B., onder Hogere Agrarische Scholen van de K.N.B.T.B., Baden-Powellstraat 1, S'Hertogenbosch.
+Hogere Tuinbouwschool van de K. N. B. T. B., onder Hogere Agrarische Scholen van de K. N. B. T. B., Baden-Powellstraat 1, S'Hertogenbosch.
 
 Rijks Agrarische Scholengemeenschap, Richard Wagner Lann 22, Utrecht.
 
@@ -718,15 +718,15 @@ Examen préliminaire du diplôme de géomètre expert foncier.
 
 Diplôme d'élève breveté des écoles nationales professionnelles correspondant à l'une des spécialités de brevet de technicien énumérées au I ci-dessus.
 
-Diplôme du premier cycle technique (D.P.C.T.) du Conservatoire national des arts et métiers (spécialités mathématiques, informatique, mécanique, électrotechnique, technique de construction (génie civil ou techniques industrielles d'architecture), biochimie, chimie, construction mécanique, électronique, énergétique, matériaux industriels, physique et sécurité).
+Diplôme du premier cycle technique (D. P. C. T.) du Conservatoire national des arts et métiers (spécialités mathématiques, informatique, mécanique, électrotechnique, technique de construction (génie civil ou techniques industrielles d'architecture), biochimie, chimie, construction mécanique, électronique, énergétique, matériaux industriels, physique et sécurité).
 
-Diplôme d'études supérieures techniques (D.E.S.T.) du Conservatoire national des arts et métiers délivré dans l'une des spécialités du D.P.C.T. énumérées ci-dessus.
+Diplôme d'études supérieures techniques (D. E. S. T.) du Conservatoire national des arts et métiers délivré dans l'une des spécialités du D. P. C. T. énumérées ci-dessus.
 
 Diplôme d'assistant technique spécialiste de l'assainissement des eaux, délivré par l'université de Limoges.
 
 Diplôme d'études techniques communales (Detco), délivré par la faculté de droit et de science politique de l'université de droit d'économie et des sciences d'Aix-Marseille.
 
-Diplômes ci-après délivrés par l'école nationale des sciences géographiques (institut géographique national).
+Diplômes ci-après délivrés par l'école nationale des sciences géographiques (  Institut national de l'information géographique et forestière).
 
 Certificat de fin d'études de technicien topographe (niveau IV).
 
@@ -750,17 +750,17 @@ Diplôme de technicien spécialiste du traitement des eaux, délivré par l'éco
 
 Diplôme de technicien supérieur de radioélectricité, délivré par l'institut national de l'audiovisuel (niveau III).
 
-Certificat de capacité technique agricole et rurale (C.C.T.A.R.).
+Certificat de capacité technique agricole et rurale (C. C. T. A. R.).
 
 Diplômes d'études agricoles du second degré.
 
 Diplôme des écoles régionales d'agriculture.
 
-Brevet de maîtrise délivré par les       chambres de métiers et de l'artisanat de région d'Alsace et de Moselle.
+Brevet de maîtrise délivré par les chambres de métiers et de l'artisanat de région d'Alsace et de Moselle.
 
 Diplôme de l'école spéciale d'architecture des jardins de la ville de Paris.
 
-Diplôme de technicien de maintenance en équipement automatisé délivré par l'association pour la formation et le perfectionnement du personnel des entreprises industrielles de la région parisienne (Aforpa-Afortec) et l'association pour la formation professionnelle du Mans (A.F.P.).
+Diplôme de technicien de maintenance en équipement automatisé délivré par l'association pour la formation et le perfectionnement du personnel des entreprises industrielles de la région parisienne (Aforpa-Afortec) et l'association pour la formation professionnelle du Mans (A. F. P.).
 
 Brevet d'agent technique agricole.
 
@@ -776,7 +776,7 @@ Mentions Cadre bâti et Arts graphiques.
 
 Diplôme de fin d'études de l'institut de formation du bâtiment de Grenoble (anciennement : école des arts décoratifs et du bâtiment de Grenoble).
 
-Maîtrise de sciences et techniques (M.S.T.), délivrée dans une spécialité relevant des domaines suivants : énergie, urbanisme, équipements et génie civil, services publics, logement, transport, informatique, topographie, environnement, télécommunication, agronomie, patrimoine.
+Maîtrise de sciences et techniques (M. S. T.), délivrée dans une spécialité relevant des domaines suivants : énergie, urbanisme, équipements et génie civil, services publics, logement, transport, informatique, topographie, environnement, télécommunication, agronomie, patrimoine.
 
 Diplômes donnant accès par concours sur titres à l'emploi d'ingénieur subdivisionnaire.
 

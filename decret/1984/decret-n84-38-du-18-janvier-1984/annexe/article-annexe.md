@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Agence nationale des fréquences </p>
+<p align="left">Agence nationale des fréquences</p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois des catégories A et B correspondant à l'exercice d'activités techniques dans le domaine de la planification et de la gestion du spectre, ainsi que dans le domaine de l'assignation, du contrôle et de la gestion des fréquences et des réseaux de radiocommunications. </p>
@@ -216,7 +216,7 @@
 <p align="left">Ecole polytechnique </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B.</p>
+<p align="left">Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B. </p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@
 <p align="left">Etablissement public de la Bibliothèque nationale de France </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service.</p>
+<p align="left">Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service. </p>
 </td>
 </tr>
 <tr>
@@ -268,15 +268,15 @@
 <p align="left">Fonds de solidarité </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois de catégories A, B, C et D. </p>
+<p align="left">Emplois de catégories A, B, C et D.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Institut géographique national </p>
+<p align="left">Institut national de l'information géographique et forestière</p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Institut géographique national : emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires. </p>
+<p align="left">Institut national de l'information géographique et forestière : emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires. </p>
 </td>
 </tr>
 <tr>
@@ -297,7 +297,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Institution nationale des invalides</p>
+<p align="left">Institution nationale des invalides. </p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois occupés par les praticiens hospitaliers civils. </p>
@@ -308,7 +308,7 @@
 <p align="left">Laboratoire national de dépistage du dopage </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants. </p>
+<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants.</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">Etablissement public du parc amazonien de Guyane</p>
+<p align="left">Etablissement public du parc amazonien de Guyane </p>
 </td>
 <td>
 <p align="left">Emplois de catégories B et C requérant des connaissances pratiques du milieu forestier tropical humide ainsi que de la culture et des savoir-faire des communautés d'habitants. </p>

@@ -6,7 +6,7 @@ Le jury chargé d'apprécier les prestations des candidats comprend :
 
 ― le directeur de l'Ecole nationale des sciences géographiques ou son représentant, vice-président ;
 
-― au moins quatre représentants de l'Institut géographique national, dont un de la direction des ressources humaines et de la direction technique ;
+― au moins quatre représentants de l'  Institut national de l'information géographique et forestière, dont un de la direction des ressources humaines et de la direction technique ;
 
 ― des personnalités désignées en raison de leurs compétences.
 

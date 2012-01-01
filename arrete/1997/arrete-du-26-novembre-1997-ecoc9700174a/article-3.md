@@ -16,6 +16,6 @@ Les destinataires ou catégories de destinataires de ces informations sont :
 
 -les observatoires départementaux et régionaux d'équipement commercial (ODEC et OREC) ;
 
--l'Institut géographique national (IGN), les      chambres de commerce et d'industrie territoriales et les organismes d'études ou de conseil aux entreprises ne peuvent être destinataires d'autres données du fichier que celles relatives à l'enseigne, le numéro SIRET, l'adresse, la nature de l'activité et les surfaces commerciales, les dates d'ouverture et de fermeture du magasin.
+-l'     Institut national de l'information géographique et forestière, les chambres de commerce et d'industrie territoriales et les organismes d'études ou de conseil aux entreprises ne peuvent être destinataires d'autres données du fichier que celles relatives à l'enseigne, le numéro SIRET, l'adresse, la nature de l'activité et les surfaces commerciales, les dates d'ouverture et de fermeture du magasin.
 
 Les informations enregistrées concernant l'entreprise exploitante sont mises à jour et conservées tant que celle-ci figure dans le fichier SIRENE de l'INSEE.

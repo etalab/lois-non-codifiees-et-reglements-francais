@@ -1,0 +1,17 @@
+# Article 28
+
+I. - Les fonctionnaires appartenant à un corps classé dans la catégorie A et recrutés dans le corps des chargés de recherche sont classés à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur au traitement dont ils bénéficiaient dans leur ancien corps. Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent corps, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
+
+Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent corps ou grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
+
+II. - Les fonctionnaires appartenant à un corps classé dans la catégorie B et recrutés dans le corps des chargés de recherche sont classés à un échelon déterminé en prenant en compte, sur la base des durées de service fixées à l'article 37 ci-après pour chaque avancement d'échelon, l'ancienneté dans cette catégorie dans les conditions précisées ci-après.
+
+Cette ancienneté est égale à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les intéressés ont atteints, à la date de leur nomination comme stagiaire, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon. Cette durée est calculée sur la base, d'une part, de la durée statutaire moyenne fixée pour les échelons du grade détenu, d'autre part, lorsqu'il y a lieu, de l'ancienneté en catégorie B qu'il est nécessaire d'acquérir dans le ou les grades inférieurs pour accéder au grade détenu, en tenant compte pour les avancements d'échelon de la durée statutaire moyenne.
+
+L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq premières années : elle est prise en compte à raison de la moitié pour la fraction comprise entre cinq ans et douze ans et à raison des trois quarts pour l'ancienneté acquise au-delà de douze ans.
+
+Cependant, l'application des dispositions qui précèdent ne peut avoir pour effet de classer un fonctionnaire dans une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le corps des chargés de recherche, il avait été promu au grade supérieur ou nommé dans un corps dont l'accès est réservé aux membres de son corps d'origine.
+
+III. - Les fonctionnaires appartenant à un corps classé dans les catégories C et D et recrutés dans le corps des chargés de recherche sont nommés à un échelon déterminé en appliquant les modalités fixées aux 3e, 4e, 5e et 6e alinéas du présent article à la fraction de l'ancienneté qui aurait été prise en compte, en application de l'article 5 du décret n° 73-910 du 20 septembre 1973 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B, pour leur classement dans l'un des corps régis par ce même décret.
+
+Dans le cas où l'application des dispositions précédentes aboutirait à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade précédent, ceux-ci conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficieront dans leur nouveau corps d'un indice au moins égal.

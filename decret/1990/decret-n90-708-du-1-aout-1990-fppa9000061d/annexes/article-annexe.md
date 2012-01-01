@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-I. - Liste des corps exclus de l'application des articles 1er et 2
+I.-Liste des corps exclus de l'application des articles 1er et 2
 
 Ministère de l'agriculture et de la forêt
 
-Ingénieurs du  des ponts, des eaux et des forêts.
+Ingénieurs du des ponts, des eaux et des forêts.
 
 Ingénieurs d'agronomie.
 
@@ -44,7 +44,7 @@ Experts techniques des services techniques.
 
 Dessinateurs (service de l'équipement).
 
-Géomètres de l'Institut géographique national.
+Géomètres de l'  Institut national de l'information géographique et forestière.
 
 Ingénieurs de l'aviation civile.
 

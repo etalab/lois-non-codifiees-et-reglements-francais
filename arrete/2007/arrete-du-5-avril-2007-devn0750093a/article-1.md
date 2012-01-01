@@ -4,6 +4,6 @@ Les superficies classées en coeur de parc national par les décrets de créatio
 
 Les surfaces maritimes classées en coeur de parc national, précisées en annexe II, n'entrent pas dans le champ d'application du 5° de l'article L. 2334-7 du code général des collectivités territoriales.
 
-Elles sont calculées par l'Institut géographique national à partir de sa base de données BD CARTO ou de sa numérisation de la délimitation graphique figurant sur le SCAN 25.
+Elles sont calculées par l'  Institut national de l'information géographique et forestière à partir de sa base de données BD CARTO ou de sa numérisation de la délimitation graphique figurant sur le SCAN 25.
 
-Les surfaces terrestres comprennent, le cas échéant, des zones non cadastrées telles que les coulées de laves, les lacs et les glaciers, les parties du domaine public lacustre ou du domaine public fluvial ainsi que les parties du domaine public maritime situées en deçà du trait de côte figurant dans la base de données BD CARTO de l'Institut géographique national.
+Les surfaces terrestres comprennent, le cas échéant, des zones non cadastrées telles que les coulées de laves, les lacs et les glaciers, les parties du domaine public lacustre ou du domaine public fluvial ainsi que les parties du domaine public maritime situées en deçà du trait de côte figurant dans la base de données BD CARTO de l'  Institut national de l'information géographique et forestière.

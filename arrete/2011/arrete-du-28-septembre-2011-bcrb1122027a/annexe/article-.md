@@ -916,7 +916,7 @@ Institut français pour la recherche et la technologie polaire expéditions Paul
 
 Institut franco-allemand de recherches de Saint-Louis.
 
-Institut géographique national.
+Institut national de l'information géographique et forestière.
 
 Institut méditerranéen de formation et recherche en travail social de Marseille.
 
@@ -1030,7 +1030,7 @@ Institut Télécom.
 
 Institut textile et chimique de Lyon.
 
-Inventaire forestier national.
+Institut national de l'information géographique et forestière.
 
 Maison des sciences de l'homme et de la société Ange Guepin.
 

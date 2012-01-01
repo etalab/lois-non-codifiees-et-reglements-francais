@@ -38,7 +38,7 @@ Ouvrière confectionneuse de la marine (régie par le statut fixé par l'instruc
 
 Ministère de l'équipement et du logement.
 
-Institut géographique national.
+Institut national de l'information géographique et forestière.
 
 Calculateur.
 

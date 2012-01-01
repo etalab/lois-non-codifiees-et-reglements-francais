@@ -2,7 +2,7 @@
 
 Dispositions concernant les plans de la surface.
 
-Les plans de surface comportent au moins les courbes de niveau, le réseau hydrographique, les limites communales et départementales, les bâtiments et infrastructures figurant sur les cartes de l'Institut géographique national ainsi que les limites de concession dont les sommets sont exprimés en coordonnées Lambert. L'échelle de ces plans n'est pas inférieure au 1/25000. Ces plans doivent permettre un raccordement aisé avec ceux de l'Institut géographique national.
+Les plans de surface comportent au moins les courbes de niveau, le réseau hydrographique, les limites communales et départementales, les bâtiments et infrastructures figurant sur les cartes de l'  Institut national de l'information géographique et forestière ainsi que les limites de concession dont les sommets sont exprimés en coordonnées Lambert. L'échelle de ces plans n'est pas inférieure au 1/25000. Ces plans doivent permettre un raccordement aisé avec ceux de l'  Institut national de l'information géographique et forestière.
 
 Les emplacements des ouvrages débouchant au jour sont reportés sur les plans la surface. L'indication de leurs caractéristiques essentielles, de leurs nom, appellation ou référence, ainsi que leurs coordonnées sont fournies sur un plan et, à défaut, dans une annexe.
 

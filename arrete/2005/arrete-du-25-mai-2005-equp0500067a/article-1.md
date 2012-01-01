@@ -60,7 +60,7 @@ La liste des emplois de direction d'établissements publics nationaux mentionné
 
 -le directeur général de l'Etablissement public foncier de Provence-Alpes-Côte d'Azur ;
 
--le directeur général de l'Institut géographique national ;
+-le directeur général de l'  Institut national de l'information géographique et forestière ;
 
 -le directeur général de l'Institut national de recherche sur les transports et leur sécurité ;
 

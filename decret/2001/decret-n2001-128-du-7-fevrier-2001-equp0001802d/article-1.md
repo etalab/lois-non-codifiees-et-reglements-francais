@@ -2,7 +2,7 @@
 
 Le présent décret fixe les règles de nomination et d'avancement applicables aux emplois de chef d'unité opérationnelle des travaux géographiques et cartographiques de l'Etat.
 
-Les chefs d'unité opérationnelle des travaux géographiques et cartographiques de l'Etat sont chargés, au sein de l'Institut géographique national, soit de fonctions d'animation, d'encadrement, de coordination et d'expertise, soit de fonctions de direction, comportant l'exercice de responsabilités particulièrement importantes.
+Les chefs d'unité opérationnelle des travaux géographiques et cartographiques de l'Etat sont chargés, au sein de l'  Institut national de l'information géographique et forestière, soit de fonctions d'animation, d'encadrement, de coordination et d'expertise, soit de fonctions de direction, comportant l'exercice de responsabilités particulièrement importantes.
 
 Parmi ces chefs d'unité opérationnelle, ceux qui occupent un emploi permettant l'accès à un échelon spécial sont chargés d'assurer la direction de services particulièrement importants ou d'exercer des fonctions d'encadrement, de coordination ou d'expertise d'un niveau supérieur.
 

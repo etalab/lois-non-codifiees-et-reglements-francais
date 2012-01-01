@@ -2,11 +2,11 @@
 
 Il est créé, au sein du ministère des affaires étrangères, une commission de terminologie, chargée principalement :
 
-- d'étudier le vocabulaire diplomatique et celui du droit international ;
+-d'étudier le vocabulaire diplomatique et celui du droit international ;
 
-- de proposer des désignations françaises aux appellations en usage dans les organisations internationales et la codification de noms propres utilisés dans la vie diplomatique ;
+-de proposer des désignations françaises aux appellations en usage dans les organisations internationales et la codification de noms propres utilisés dans la vie diplomatique ;
 
-- de favoriser la diffusion de terminologies nouvelles auprès des utilisateurs.
+-de favoriser la diffusion de terminologies nouvelles auprès des utilisateurs.
 
 Elle comprend :
 
@@ -14,7 +14,7 @@ Le délégué général à la langue française ou son représentant ;
 
 Le représentant du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports ;
 
-Le directeur de l'Institut géographique national ou son représentant ;
+Le directeur de l' Institut national de l'information géographique et forestière ou son représentant ;
 
 Le chef du protocole ou son représentant ;
 

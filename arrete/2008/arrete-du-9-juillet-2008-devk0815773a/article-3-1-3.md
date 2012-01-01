@@ -6,7 +6,7 @@ Elle organise l'évaluation des chercheurs relevant du ministère dans le cadre 
 
 Elle prépare les programmes budgétaires de recherche du ministère, veille à leur mise en œuvre ainsi qu'à l'évaluation et la diffusion de leurs résultats.
 
-Elle exerce la tutelle de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux, de l'Institut géographique national et de Météo-France.
+Elle exerce la tutelle de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux, de l'  Institut national de l'information géographique et forestière et de Météo-France.
 
 Elle coordonne les actions de la direction en matière de tutelle des organismes de recherche.
 

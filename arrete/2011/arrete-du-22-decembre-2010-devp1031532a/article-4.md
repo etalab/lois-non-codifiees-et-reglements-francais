@@ -2,7 +2,7 @@
 
 Conditions générales de fourniture des services.
 
-I. ― Les services sont ouverts à tout usager 24 heures/24, 7 jours/7.
+I. ― Les services sont ouverts à tout usager 24 heures/24,7 jours/7.
 
 II. ― Les services sont accessibles aux déclarants au minimum au moyen d'une connexion internet en bas débit.
 
@@ -18,6 +18,6 @@ IV. ― Les services sont autant que de possible intuitifs ou simples d'utilisat
 
 V. ― Le téléservice garantit la sécurité, la fiabilité et la traçabilité des échanges de données et d'information avec les usagers. L'INERIS s'engage à prendre toutes précautions utiles pour préserver la sécurité des données collectées auprès de l'usager, et notamment empêcher qu'elles soient déformées, endommagées ou que des tiers non autorisés y aient accès.
 
-VI. ― Les fonds de plan utilisés par le téléservice sont ceux de l'Institut géographique national et leur format ne peut être d'une précision moindre que le 1/10 000 pour les connexions internet haut débit.
+VI. ― Les fonds de plan utilisés par le téléservice sont ceux de l'  Institut national de l'information géographique et forestière et leur format ne peut être d'une précision moindre que le 1/10 000 pour les connexions internet haut débit.
 
 VII. ― En cas d'indisponibilité d'un service, une page d'information est affichée sur la page d'accueil du téléservice pour en informer l'usager.

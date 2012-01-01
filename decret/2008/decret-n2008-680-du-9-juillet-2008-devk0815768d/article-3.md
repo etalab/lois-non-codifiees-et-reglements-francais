@@ -30,7 +30,7 @@ En liaison avec le secrétaire général, elle définit les orientations du rés
 
 Elle assure la tutelle, pour le compte du ministre chargé des transports :
 
-― de l'Institut géographique national ;
+― de l'  Institut national de l'information géographique et forestière ;
 
 ― de Météo-France ;
 

@@ -253,7 +253,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur général des ponts, des eaux et des forêts</p>
+<p>Ingénieur général des ponts, des eaux et des forêts </p>
 </td>
 <td valign="top" width="113">
 <p align="center">HEB-HED </p>
@@ -275,7 +275,7 @@
 <p>Ingénieur en chef des ponts, des eaux et des forêts </p>
 </td>
 <td valign="top" width="113">
-<p align="center">750-HEB</p>
+<p align="center">750-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -844,7 +844,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>V-INSTITUT GÉOGRAPHIQUE NATIONAL </p>
+<p>V- INSTITUT NATIONAL DE L'INFORMATION GEOGRAPHIQUE ET FORESTIERE </p>
 </td>
 <td valign="top" width="113">
 <br/>

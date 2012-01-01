@@ -192,7 +192,7 @@ Aménagement du territoire, équipement, logement et tourisme
 
 Chef du service régional de l'équipement de la région parisienne, mentionné dans le décret n° 66-614 du 10 août 1966.
 
-Secrétaire général de l'institut géographique national, mentionné dans le décret n° 67-752 du 29 août 1967.
+Secrétaire général de l'  Institut national de l'information géographique et forestière, mentionné dans le décret n° 67-752 du 29 août 1967.
 
 Directeur départemental de l'équipement et chef du service régional de l'équipement, mentionnés dans le décret n° 70-912 du 5 octobre 1970.
 
@@ -200,15 +200,15 @@ Vice-président et président de section du conseil général des ponts et chaus
 
 Chef d'arrondissement mentionné dans le décret n° 76-213 du 26 février 1976 ;
 
-Directeur général adjoint et directeur de l'institut géographique national, mentionnés dans le décret n° 77-364 du 28 mars 1977.
+Directeur général adjoint et directeur de l'  Institut national de l'information géographique et forestière, mentionnés dans le décret n° 77-364 du 28 mars 1977.
 
 Intérieur
 
-Directeur adjoint et sous-directeur de la  préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police, mentionnés dans le décret n° 67-198 du 14 mars 1967.
+Directeur adjoint et sous-directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police, mentionnés dans le décret n° 67-198 du 14 mars 1967.
 
 Chef de service administratif régi par le décret n° 77-1214 du 26 octobre 1977.
 
-Directeur de la  préfecture de la région d'Ile-de-France, préfecture de Paris ;
+Directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris ;
 
 Directeur général de la préfecture de police (services administratifs) ;
 
@@ -254,7 +254,7 @@ Directeur de l'office national d'immigration, mentionné dans le décret n° 48-
 
 Directeur régional du travail, de l'emploi et de la formation professionnelle.
 
-P.T.T.
+P. T. T.
 
 Chef de service régional des postes et chef de service départemental des postes, mentionné dans les décrets n° s 79-495 et 79-496 du 20 juin 1979 ;
 

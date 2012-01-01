@@ -4,8 +4,8 @@ Le contrôleur budgétaire et comptable ministériel du ministère chargé de l'
 
 ― Agence française de sécurité sanitaire des aliments (AFSSA) ;
 
-―      Centre national de la propriété forestière ;
+― Centre national de la propriété forestière ;
 
 ― Fonds de financement des prestations sociales des non-salariés agricoles ;
 
-― Inventaire forestier national.
+―  Institut national de l'information géographique et forestière.

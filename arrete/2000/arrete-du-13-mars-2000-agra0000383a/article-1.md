@@ -4,7 +4,7 @@ La liste des établissements publics mentionnée à l'article 1er du décret du 
 
 Centre national du machinisme agricole, du génie rural, des eaux et des forêts ;
 
-Inventaire forestier national ;
+Institut national de l'information géographique et forestière ;
 
 Institut national de formation des personnels du ministère de l'agriculture ;
 

@@ -80,7 +80,7 @@ Commissions administratives paritaires (CAP) nationales compétentes pour le cor
 
 ― techniciens supérieurs de la météorologie.
 
-Institut géographique national (IGN)
+Institut national de l'information géographique et forestière
 
 Commissions administratives paritaires (CAP) locales compétentes pour le corps de :
 
@@ -124,7 +124,7 @@ Comité technique paritaire (CTP) placé auprès de chaque responsable d'établi
 
 ― Institut national de la recherche sur les transports et leur sécurité (INRETS),
 
-― Institut géographique national (IGN),
+―     Institut national de l'information géographique et forestière,
 
 ― Agence française de sécurité sanitaire de l'environnement et du travail (AFSSET).
 
@@ -238,7 +238,7 @@ Comité d'hygiène et sécurité (CHS) placé auprès de chaque responsable d'é
 
 ― Institut national de la recherche sur les transports et leur sécurité (INRETS),
 
-― Institut géographique national (IGN),
+―     Institut national de l'information géographique et forestière,
 
 ― Agence française de sécurité sanitaire de l'environnement et du travail (AFSSET).
 
@@ -304,7 +304,7 @@ Commissions consultatives paritaires (CCP) nationales compétentes pour :
 
 ― médecins de prévention,
 
-― agents sous contrat à durée déterminée ou indéterminée (CDD-CDI) en application des dispositions des articles 4 et 6-1 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et agents sous contrat sui generis ,
+― agents sous contrat à durée déterminée ou indéterminée (CDD-CDI) en application des dispositions des articles 4 et 6-1 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et agents sous contrat sui generis,
 
 ― agents contractuels de l'école des Ponts Paris Tech (ENPC).
 
@@ -442,7 +442,7 @@ CTP départemental placé auprès du directeur du service pénitentiaire d'inser
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de la Loire
 
-CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Puy-de-Dôme/Cantal
+CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Puy-de-Dôme/ Cantal
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Rhône
 
@@ -450,7 +450,7 @@ CTP départemental placé auprès du directeur du service pénitentiaire d'inser
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de la Haute-Savoie
 
-CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation des Alpes- Maritimes
+CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation des Alpes-Maritimes
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation des Bouches-du-Rhône
 
@@ -470,9 +470,9 @@ CTP départemental placé auprès du directeur du service pénitentiaire d'inser
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de la Seine-Saint-Denis
 
-CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Val-de― Marne
+CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Val-de ― Marne
 
-CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Val― d'Oise
+CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Val ― d'Oise
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Calvados
 
@@ -480,7 +480,7 @@ CTP départemental placé auprès du directeur du service pénitentiaire d'inser
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation du Finistère
 
-CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de l'Ille-et― Vilaine
+CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de l'Ille-et ― Vilaine
 
 CTP départemental placé auprès du directeur du service pénitentiaire d'insertion et de probation de la Loire-Atlantique
 

@@ -16,7 +16,7 @@ Catégorie B
 
 Techniciens supérieurs de l'équipement.
 
-Géomètres de l'Institut géographique national.
+Géomètres de l'  Institut national de l'information géographique et forestière.
 
 Contrôleurs des affaires maritimes.
 

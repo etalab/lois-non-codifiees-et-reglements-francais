@@ -22,7 +22,7 @@ Ecole nationale supérieure maritime ;
 
 Etablissement national des invalides de la marine ;
 
-Institut géographique national ;
+Institut national de l'information géographique et forestière ;
 
 Météo-France ;
 

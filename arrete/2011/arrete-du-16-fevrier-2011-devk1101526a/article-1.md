@@ -10,7 +10,7 @@ A compter du 1er janvier 2011 pour ceux en fonctions :
 
 ― dans un service des ministères autres que ceux chargés du développement durable et de l'agriculture, et hors directions départementales interministérielles ;
 
-― à l'Institut géographique national.
+― à l'  Institut national de l'information géographique et forestière.
 
 A compter du 1er mai 2011 pour ceux en fonctions :
 

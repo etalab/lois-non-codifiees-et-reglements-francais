@@ -22,7 +22,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Chef de service d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt </p>
+<p>Chef de service d'administration générale dans les directions régionales de l'alimentation, de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -232,7 +232,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Contrôleur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) </p>
+<p>Contrôleur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière</p>
 </td>
 <td valign="top" width="74">
 <p align="center">B </p>
@@ -246,7 +246,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Inventaire forestier national (IFN) </p>
+<p>Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Institut national de l'information géographique et forestière</p>
 </td>
 <td valign="top" width="74">
 <p align="center">B </p>
@@ -260,7 +260,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Vérificateur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) </p>
+<p>Vérificateur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière</p>
 </td>
 <td valign="top" width="74">
 <p align="center">B </p>
@@ -274,7 +274,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Chef d'équipe et adjoint à un chef d'équipe de l'Inventaire forestier national (IFN) </p>
+<p>Chef d'équipe et adjoint à un chef d'équipe de l'Institut national de l'information géographique et forestière </p>
 </td>
 <td valign="top" width="74">
 <p align="center">C </p>
@@ -458,8 +458,10 @@ Attribution de la nouvelle bonification indiciaire dans les établissements d'en
 </td>
 <td width="64">
 <br/>
+<br/>
 </td>
 <td width="80">
+<br/>
 <br/>
 </td>
 </tr>
@@ -658,7 +660,7 @@ Attribution de la nouvelle bonification indiciaire à l'administration centrale 
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2) </p>
+<p>Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et/ ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2) </p>
 </td>
 <td width="69">
 <p align="center">A </p>

@@ -10,7 +10,7 @@ Responsable d'un centre de congélation ou d'un centre de transfert d'embryons a
 
 Manipulateur d'échographe au service des haras, des courses et de l'équitation ;
 
-Chef d'équipe et adjoint à un chef d'équipe de l'inventaire forestier national ;
+Chef d'équipe et adjoint à un chef d'équipe de l'  Institut national de l'information géographique et forestière ;
 
 Technicien des services vétérinaires ou préposé sanitaire titulaire, responsable d'une équipe de contrôle sanitaire d'un abattoir d'une capacité annuelle supérieure à :
 
@@ -20,7 +20,7 @@ Technicien des services vétérinaires ou préposé sanitaire titulaire, respons
 
 20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces ;
 
-Chef de service régional d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
+Chef de service régional d'administration générale dans les directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
@@ -36,9 +36,9 @@ Chef d'échelon au département de santé des forêts ;
 
 Technicien, adjoint à un chef d'échelon au département de santé des forêts ;
 
-Chef du service d'administration générale et responsable de la formation initiale et continue au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
+Chef du service d'administration générale et responsable de la formation initiale et continue au Centre de formation de personnels du ministère de l'agriculture (C. F. P. M. A.) ;
 
-Responsable de la gestion comptable au Centre de formation de personnels du ministère de l'agriculture (C.F.P.M.A.) ;
+Responsable de la gestion comptable au Centre de formation de personnels du ministère de l'agriculture (C. F. P. M. A.) ;
 
 2° Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
 
@@ -64,7 +64,7 @@ Chef de bureau ;
 
 Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ;
 
-Cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique ;
+Cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique ;
 
 Agent exerçant des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, technique, juridique, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou encadrer un effectif important ;
 

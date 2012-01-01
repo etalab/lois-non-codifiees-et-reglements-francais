@@ -6,418 +6,418 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">EMPLOIS, GRADES ET ECHELONS</p>
+<p align="center">EMPLOIS, GRADES ET ECHELONS </p>
 </td>
 <td>
-<p align="center">INDICES BRUTS</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>I - Corps et emplois spéciaux de l'administration centrale de l'économie et des finances</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">INDICES BRUTS </p>
 </td>
 </tr>
 <tr>
 <td>
-<pre> </pre>
+<p>I-Corps et emplois spéciaux de l'administration centrale de l'économie et des finances </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire général adjoint aux prix : (1)</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<pre/>
 </td>
 <td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">901</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p>Commissaire général adjoint aux prix : (1) </p>
 </td>
 <td>
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire aux prix :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">968</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">901</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">841</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">780</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">721</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">663</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p>Commissaire aux prix : </p>
 </td>
 <td>
-<p align="center">612</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du centre de formation professionnelle et de perfectionnement :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">12e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">11e échelon</p>
-</td>
-<td>
-<p align="center">830</p>
+<p align="center">968 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">10e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="center">780</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">9e échelon</p>
-</td>
-<td>
-<p align="center">741</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">8e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<p align="center">682</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="center">642</p>
+<p align="center">841 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">6e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">611</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">579</p>
+<p align="center">780 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">546</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">513</p>
+<p align="center">721 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">476</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">441</p>
+<p align="center">663 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Ingénieur mécanicien électricien :</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Hors classe</p>
-</td>
-<td>
-<p align="center">852</p>
+<p align="center">612 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1re classe</p>
+<p>Chef du centre de formation professionnelle et de perfectionnement : </p>
 </td>
 <td>
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e classe</p>
-</td>
-<td>
-<p align="center">579</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e classe</p>
+<p align="center">12e échelon </p>
 </td>
 <td>
-<p align="center">416</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Architecte :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Hors classe</p>
+<p align="center">11e échelon </p>
 </td>
 <td>
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1re classe</p>
-</td>
-<td>
-<p align="center">801</p>
+<p align="center">830 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e classe</p>
+<p align="center">10e échelon </p>
 </td>
 <td>
-<p align="center">579</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e classe</p>
-</td>
-<td>
-<p align="center">416</p>
+<p align="center">780 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chargé de mission (bénéficiaire de l'ordonnance n° 59-244 du 4 février 1959) :</p>
+<p align="center">9e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Classe exceptionnelle</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">741 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td>
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">852</p>
+<p align="center">682 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>1re classe</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">801</p>
+<p align="center">642 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">701</p>
+<p align="center">611 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>2e classe</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">652</p>
+<p align="center">579 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">616</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">593</p>
+<p align="center">546 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">563</p>
+<p align="center">513 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">476 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">441 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingénieur mécanicien électricien : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Hors classe </p>
+</td>
+<td>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1re classe </p>
+</td>
+<td>
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e classe </p>
+</td>
+<td>
+<p align="center">579 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e classe </p>
+</td>
+<td>
+<p align="center">416 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Architecte : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Hors classe </p>
+</td>
+<td>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1re classe </p>
+</td>
+<td>
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e classe </p>
+</td>
+<td>
+<p align="center">579 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e classe </p>
+</td>
+<td>
+<p align="center">416 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chargé de mission (bénéficiaire de l'ordonnance n° 59-244 du 4 février 1959) : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Classe exceptionnelle </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">901 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1re classe </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e classe </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">652 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">616 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">593 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">563 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td rowspan="2">
-<p align="center">529</p>
+<p align="center">529 </p>
 </td>
 </tr>
 </tbody>
@@ -426,52 +426,52 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">II. - Services déconcentrés </p>
+<p align="center">II.-Services déconcentrés </p>
 </td>
 <td/>
 </tr>
 <tr>
 <td>
-<p align="center">A. - Trésor</p>
+<p align="center">A.-Trésor </p>
 </td>
 <td/>
 </tr>
 <tr>
-<td>Trésorier-payeur général : (1)</td>
+<td>Trésorier-payeur général : (1) </td>
 <td>
-<p align="center">1015</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">B. - Impôts</p>
+<p align="center">B.-Impôts </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Préposé à la vente directe des tabacs à Paris :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Echelon unique</p>
+<p>Préposé à la vente directe des tabacs à Paris : </p>
 </td>
 <td>
-<p align="center">579</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">C. - Douanes et droits indirects (abrogé au 1er janvier 2010)</p>
+<p align="center">Echelon unique </p>
 </td>
 <td>
-<pre> </pre>
+<p align="center">579 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">C.-Douanes et droits indirects (abrogé au 1er janvier 2010) </p>
+</td>
+<td>
+<pre/>
 </td>
 </tr>
 </tbody>
@@ -480,314 +480,314 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">D. - Service des laboratoires</p>
+<p align="center">D.-Service des laboratoires </p>
 </td>
 <td>
-<pre>           </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du service technique : (1)</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p>Chef du service technique : (1) </p>
 </td>
 <td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">920</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef adjoint du service technique :</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">1015</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">920</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">852</p>
+<p align="center">920 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Ingénieur en chef de laboratoire central :</p>
+<p>Chef adjoint du service technique : </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">958</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">891</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">821</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Ingénieur en chef :</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Classe territoriale :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">920 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Echelon unique</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Classe normale :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">852 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p>Ingénieur en chef de laboratoire central : </p>
 </td>
 <td>
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">801</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">701</p>
+<p align="center">958 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">659</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ingénieur principal :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">891 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">8e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="center">701</p>
+<p align="center">821 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">6e échelon</p>
+<p>Ingénieur en chef : </p>
 </td>
 <td>
-<p align="center">659</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ingénieur :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p>Classe territoriale : </p>
 </td>
 <td>
-<p align="center">612</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">562</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">Echelon unique </p>
 </td>
 <td>
-<p align="center">508</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">473</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p>Classe normale : </p>
 </td>
 <td>
-<p align="center">434</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Stage</p>
-</td>
-<td>
-<p align="center">379</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef du service administratif :</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">701</p>
+<p align="center">852 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">633</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">579</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">513</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">457</p>
+<p align="center">750 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">416</p>
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">659 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingénieur principal : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8e échelon </p>
+</td>
+<td>
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon </p>
+</td>
+<td>
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="center">659 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ingénieur : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">612 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">562 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">508 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">473 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">434 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Stage </p>
+</td>
+<td>
+<p align="center">379 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chef du service administratif : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">633 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">579 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">513 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">457 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">416 </p>
 </td>
 </tr>
 </tbody>
@@ -796,620 +796,620 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">F. - Institut national de la statistique et des études économiques</p>
+<p align="center">F.-Institut national de la statistique et des études économiques </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur général : (1)</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p>Inspecteur général : (1) </p>
 </td>
 <td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Administrateur hors classe :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">HEB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">HEA</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p>Administrateur hors classe : </p>
 </td>
 <td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">966</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">852</p>
+<p align="center">HEB </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Administrateur :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">HEA </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">9e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<p align="center">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">8e échelon</p>
-</td>
-<td>
-<p align="center">901</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">801</p>
+<p align="center">966 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">701</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">655</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">588</p>
+<p align="center">852 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">528</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Administrateur stagiaire :</p>
-</td>
-<td>
-<p align="center">395</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Administrateur du corps latéral :</p>
+<p>Administrateur : </p>
 </td>
 <td>
-<pre> </pre>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">9e échelon </p>
+</td>
+<td>
+<p align="center">966 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8e échelon </p>
+</td>
+<td>
+<p align="center">901 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon </p>
+</td>
+<td>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">655 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">588 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">528 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Administrateur stagiaire : </p>
+</td>
+<td>
+<p align="center">395 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Administrateur du corps latéral : </p>
+</td>
+<td>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
 <p>
-<u>1re classe</u> :</p>
+<u>1re classe</u> : </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">852</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">801</p>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td>
 <p>
-<u>2e classe</u> :</p>
+<u>2e classe</u> : </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">750</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">701</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">605</p>
+<p align="center">750 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chargé de mission de classe exceptionnelle :</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">8e échelon</p>
-</td>
-<td>
-<p align="center">966</p>
+<p align="center">701 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">916</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">841</p>
+<p align="center">605 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p>Chargé de mission de classe exceptionnelle : </p>
 </td>
 <td>
-<p align="center">780</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">741</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td>
-<p align="center">703</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">660</p>
+<p align="center">966 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="center">616</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chargé de mission de classe normale :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">916 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">10e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="center">703</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">9e échelon</p>
-</td>
-<td>
-<p align="center">653</p>
+<p align="center">841 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">8e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<p align="center">625</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="center">588</p>
+<p align="center">780 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">6e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">542</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">500</p>
+<p align="center">741 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="center">466</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">442</p>
+<p align="center">703 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">423</p>
+<p align="center">660 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="center">379</p>
+<p align="center">616 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chargé de mission de classe normale : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">10e échelon </p>
+</td>
+<td>
+<p align="center">703 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">9e échelon </p>
+</td>
+<td>
+<p align="center">653 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8e échelon </p>
+</td>
+<td>
+<p align="center">625 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon </p>
+</td>
+<td>
+<p align="center">588 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="center">542 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">500 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">466 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">442 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">423 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">379 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Attaché statisticien principal</p>
+<p>Attaché statisticien principal </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">10e échelon</p>
-</td>
-<td valign="top">
-<p align="center">966</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">9e échelon</p>
+<p align="center">10e échelon </p>
 </td>
 <td valign="top">
-<p align="center">916</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">8e échelon</p>
-</td>
-<td valign="top">
-<p align="center">864</p>
+<p align="center">966 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">7e échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td valign="top">
-<p align="center">821</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6e échelon</p>
-</td>
-<td valign="top">
-<p align="center">759</p>
+<p align="center">916 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top">
-<p align="center">712</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e échelon</p>
-</td>
-<td valign="top">
-<p align="center">660</p>
+<p align="center">864 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top">
-<p align="center">616</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e échelon</p>
-</td>
-<td valign="top">
-<p align="center">572</p>
+<p align="center">821 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1er échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top">
-<p align="center">504</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Attaché statisticien</p>
-</td>
-<td valign="top">
-<pre> </pre>
+<p align="center">759 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">12e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top">
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">11e échelon</p>
-</td>
-<td valign="top">
-<p align="center">759</p>
+<p align="center">712 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">10e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top">
-<p align="center">703</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">9e échelon</p>
-</td>
-<td valign="top">
-<p align="center">653</p>
+<p align="center">660 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">8e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top">
-<p align="center">625</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">7e échelon</p>
-</td>
-<td valign="top">
-<p align="center">588</p>
+<p align="center">616 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">6e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top">
-<p align="center">542</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">5e échelon</p>
-</td>
-<td valign="top">
-<p align="center">500</p>
+<p align="center">572 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">4e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td valign="top">
-<p align="center">466</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">3e échelon</p>
-</td>
-<td valign="top">
-<p align="center">442</p>
+<p align="center">504 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">2e échelon</p>
+<p>Attaché statisticien </p>
 </td>
 <td valign="top">
-<p align="center">423</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">1er échelon</p>
-</td>
-<td valign="top">
-<p align="center">379</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Attaché statisticien stagiaire</p>
+<p align="center">12e échelon </p>
 </td>
 <td valign="top">
-<pre> </pre>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">Après un an</p>
+<p align="center">11e échelon </p>
 </td>
 <td valign="top">
-<p align="center">379 (359)</p>
+<p align="center">759 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">10e échelon </p>
+</td>
+<td valign="top">
+<p align="center">703 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">9e échelon </p>
+</td>
+<td valign="top">
+<p align="center">653 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">8e échelon </p>
+</td>
+<td valign="top">
+<p align="center">625 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">7e échelon </p>
+</td>
+<td valign="top">
+<p align="center">588 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">6e échelon </p>
+</td>
+<td valign="top">
+<p align="center">542 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">5e échelon </p>
+</td>
+<td valign="top">
+<p align="center">500 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">4e échelon </p>
+</td>
+<td valign="top">
+<p align="center">466 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">3e échelon </p>
+</td>
+<td valign="top">
+<p align="center">442 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">2e échelon </p>
+</td>
+<td valign="top">
+<p align="center">423 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">1er échelon </p>
+</td>
+<td valign="top">
+<p align="center">379 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Attaché statisticien stagiaire </p>
+</td>
+<td valign="top">
+<pre/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">Après un an </p>
+</td>
+<td valign="top">
+<p align="center">379 (359) </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="center">Avant un an</p>
+<p align="center">Avant un an </p>
 </td>
 <td rowspan="2" valign="top">
-<p align="center">340</p>
+<p align="center">340 </p>
 </td>
 </tr>
 </tbody>
@@ -1418,370 +1418,370 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p>III - Services à l'étranger</p>
+<p>III-Services à l'étranger </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Conseiller économique de classe exceptionnelle : (1)</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Echelon unique</p>
+<p>Conseiller économique de classe exceptionnelle : (1) </p>
 </td>
 <td>
-<p align="right">HEC</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Conseiller économique hors classe :</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">Echelon unique </p>
 </td>
 <td>
-<p align="right">HEB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="right">HEA</p>
+<p align="right">HEC </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p>Conseiller économique hors classe : </p>
 </td>
 <td>
-<p align="right">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="right">966</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="right">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="right">852</p>
+<p align="right">HEB </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="right">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Conseiller économique :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="right">HEA </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">9e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<p align="right">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">8e échelon</p>
-</td>
-<td>
-<p align="right">901</p>
+<p align="right">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="right">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="right">801</p>
+<p align="right">966 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="right">750</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="right">701</p>
+<p align="right">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="right">655</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="right">588</p>
+<p align="right">852 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="right">528</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attaché économique principal de 1re classe :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="right">801 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p>Conseiller économique : </p>
 </td>
 <td>
-<p align="right">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="right">916</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td>
-<p align="right">864</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attaché économique principal de 2e classe :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="right">966 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">7e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td>
-<p align="right">821</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="right">759</p>
+<p align="right">901 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">5e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="right">705</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="right">660</p>
+<p align="right">852 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="right">616</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="right">572</p>
+<p align="right">801 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td>
-<p align="right">504</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attaché économique :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="right">750 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">12e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="right">780</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">11e échelon</p>
-</td>
-<td>
-<p align="right">759</p>
+<p align="right">701 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">10e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="right">703</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">9e échelon</p>
-</td>
-<td>
-<p align="right">653</p>
+<p align="right">655 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">8e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="right">625</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="right">588</p>
+<p align="right">588 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">6e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<p align="right">542</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="right">500</p>
+<p align="right">528 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p>Attaché économique principal de 1re classe : </p>
 </td>
 <td>
-<p align="right">466</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="right">442</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td>
-<p align="right">423</p>
+<p align="right">966 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="right">916 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="right">864 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Attaché économique principal de 2e classe : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon </p>
+</td>
+<td>
+<p align="right">821 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="right">759 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="right">705 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="right">660 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="right">616 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="right">572 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="right">504 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Attaché économique : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">12e échelon </p>
+</td>
+<td>
+<p align="right">780 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">11e échelon </p>
+</td>
+<td>
+<p align="right">759 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">10e échelon </p>
+</td>
+<td>
+<p align="right">703 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">9e échelon </p>
+</td>
+<td>
+<p align="right">653 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">8e échelon </p>
+</td>
+<td>
+<p align="right">625 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7e échelon </p>
+</td>
+<td>
+<p align="right">588 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">6e échelon </p>
+</td>
+<td>
+<p align="right">542 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="right">500 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="right">466 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="right">442 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="right">423 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td rowspan="2">
-<p align="right">379</p>
+<p align="right">379 </p>
 </td>
 </tr>
 </tbody>
@@ -1790,210 +1790,210 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">E. - Service d'exploitation industrielle des tabacs et des allumettes</p>
+<p align="center">E.-Service d'exploitation industrielle des tabacs et des allumettes </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Corps des ingénieurs des manufactures de l'Etat (1)</p>
-</td>
-<td>
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Inspecteur général : (1)</p>
+<p align="center">Corps des ingénieurs des manufactures de l'Etat (1) </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Avant 2 ans</p>
-</td>
-<td>
-<p align="center">1015</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Services administratifs et commerciaux</p>
+<p>Inspecteur général : (1) </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur administratif ou commercial de 1re classe :</p>
-</td>
-<td>
-<p align="center">750</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p>Avant 2 ans </p>
 </td>
 <td>
-<p align="center">691</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3° échelon</p>
-</td>
-<td>
-<p align="center">642</p>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">Services administratifs et commerciaux </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">597</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Inspecteur administratif ou commercial de 2e classe :</p>
+<p>Inspecteur administratif ou commercial de 1re classe : </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="center">579</p>
+<p align="center">750 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">6e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td>
-<p align="center">529</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">490</p>
+<p align="center">691 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">4e échelon</p>
+<p align="center">3° échelon </p>
 </td>
 <td>
-<p align="center">457</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">431</p>
+<p align="center">642 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td>
-<p align="center">404</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">379</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Services agronomiques</p>
+<p align="center">1er échelon </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur régional de culture :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">597 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">3e échelon</p>
+<p>Inspecteur administratif ou commercial de 2e classe : </p>
 </td>
 <td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">931</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">1er échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td>
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur régional adjoint :</p>
-</td>
-<td>
-<pre> </pre>
+<p align="center">579 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">2e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td>
-<p align="center">901</p>
+<p align="center">529 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">5e échelon </p>
+</td>
+<td>
+<p align="center">490 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">4e échelon </p>
+</td>
+<td>
+<p align="center">457 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">431 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">404 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">379 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Services agronomiques </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur régional de culture : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3e échelon </p>
+</td>
+<td>
+<p align="center">1015 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">931 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur régional adjoint : </p>
+</td>
+<td>
+<pre/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon </p>
+</td>
+<td>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td rowspan="2">
-<p align="center">841</p>
+<p align="center">841 </p>
 </td>
 </tr>
 </tbody>
@@ -2002,458 +2002,458 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td valign="top">
-<p align="center">IV. - Emplois comptables relevant de la tutelle du ministre de l'économie et des finances</p>
+<p align="center">IV.-Emplois comptables relevant de la tutelle du ministre de l'économie et des finances </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Agent comptable des services industriels de l'armement : (1)</p>
-</td>
-<td valign="top">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">2e classe</p>
+<p>Agent comptable des services industriels de l'armement : (1) </p>
 </td>
 <td valign="top">
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">3e classe</p>
-</td>
-<td valign="top">
-<p align="center">901</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">4e classe</p>
+<p align="center">2e classe </p>
 </td>
 <td valign="top">
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Agent comptable de l'office national de la navigation :</p>
-</td>
-<td valign="top">
-<pre> </pre>
+<p align="center">1015 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1re classe</p>
+<p align="center">3e classe </p>
 </td>
 <td valign="top">
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e classe</p>
-</td>
-<td valign="top">
-<p align="center">841</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e classe</p>
+<p align="center">4e classe </p>
 </td>
 <td valign="top">
-<p align="center">780</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e classe</p>
-</td>
-<td valign="top">
-<p align="center">721</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5e classe</p>
+<p>Agent comptable de l'office national de la navigation : </p>
 </td>
 <td valign="top">
-<p align="center">665</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6e classe</p>
-</td>
-<td valign="top">
-<p align="center">616</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Agent comptable du centre national de la recherche scientifique :</p>
+<p align="center">1re classe </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">8e échelon</p>
-</td>
-<td valign="top">
-<p align="center">882</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">7e échelon</p>
+<p align="center">2e classe </p>
 </td>
 <td valign="top">
-<p align="center">841</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6e échelon</p>
-</td>
-<td valign="top">
-<p align="center">801</p>
+<p align="center">841 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5e échelon</p>
+<p align="center">3e classe </p>
 </td>
 <td valign="top">
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e échelon</p>
-</td>
-<td valign="top">
-<p align="center">701</p>
+<p align="center">780 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e échelon</p>
+<p align="center">4e classe </p>
 </td>
 <td valign="top">
-<p align="center">659</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e échelon</p>
-</td>
-<td valign="top">
-<p align="center">616</p>
+<p align="center">721 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1er échelon</p>
+<p align="center">5e classe </p>
 </td>
 <td valign="top">
-<p align="center">582</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Agent comptable des monnaies et médailles :</p>
-</td>
-<td valign="top">
-<pre> </pre>
+<p align="center">665 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1re classe</p>
+<p align="center">6e classe </p>
 </td>
 <td valign="top">
-<p align="center">801</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e classe</p>
-</td>
-<td valign="top">
-<p align="center">741</p>
+<p align="center">616 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e classe</p>
+<p>Agent comptable du centre national de la recherche scientifique : </p>
 </td>
 <td valign="top">
-<p align="center">672</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e classe</p>
-</td>
-<td valign="top">
-<p align="center">616</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Agent comptable de l'office national des anciens combattants et victimes de guerre :</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">7e échelon</p>
-</td>
-<td valign="top">
-<p align="center">901</p>
+<p align="center">882 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">6e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top">
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">5e échelon</p>
-</td>
-<td valign="top">
-<p align="center">801</p>
+<p align="center">841 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">4e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top">
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">3e échelon</p>
-</td>
-<td valign="top">
-<p align="center">701</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">2e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top">
-<p align="center">659</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">1er échelon</p>
-</td>
-<td valign="top">
-<p align="center">616</p>
+<p align="center">750 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Agent comptable de l'institut national de la propriété industrielle :</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">7e échelon</p>
-</td>
-<td valign="top">
-<p align="center">750</p>
+<p align="center">701 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">6e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top">
-<p align="center">701</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">5e échelon</p>
-</td>
-<td valign="top">
-<p align="center">659</p>
+<p align="center">659 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">4e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top">
-<p align="center">616</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">3e échelon</p>
-</td>
-<td valign="top">
-<p align="center">582</p>
+<p align="center">616 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">2e échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td valign="top">
-<p align="center">546</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">1er échelon</p>
-</td>
-<td valign="top">
-<p align="center">508</p>
+<p align="center">582 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>Agent comptable de l'institut géographique national :</p>
+<p>Agent comptable des monnaies et médailles : </p>
 </td>
 <td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6e échelon</p>
-</td>
-<td valign="top">
-<p align="center">901</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5e échelon</p>
+<p align="center">1re classe </p>
 </td>
 <td valign="top">
-<p align="center">852</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e échelon</p>
-</td>
-<td valign="top">
-<p align="center">801</p>
+<p align="center">801 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e échelon</p>
+<p align="center">2e classe </p>
 </td>
 <td valign="top">
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e échelon</p>
-</td>
-<td valign="top">
-<p align="center">701</p>
+<p align="center">741 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1er échelon</p>
+<p align="center">3e classe </p>
 </td>
 <td valign="top">
-<p align="center">652</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Agent comptable du centre national d'études et d'expérimentation du machinisme agricole :</p>
-</td>
-<td valign="top">
-<pre> </pre>
+<p align="center">672 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">7e échelon</p>
+<p align="center">4e classe </p>
 </td>
 <td valign="top">
-<p align="center">750</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6e échelon</p>
-</td>
-<td valign="top">
-<p align="center">701</p>
+<p align="center">616 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5e échelon</p>
+<p>Agent comptable de l'office national des anciens combattants et victimes de guerre : </p>
 </td>
 <td valign="top">
-<p align="center">659</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">4e échelon</p>
-</td>
-<td valign="top">
-<p align="center">616</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">3e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top">
-<p align="center">582</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">2e échelon</p>
-</td>
-<td valign="top">
-<p align="center">546</p>
+<p align="center">901 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="center">1er échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top">
-<p align="center">508</p>
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">5e échelon </p>
+</td>
+<td valign="top">
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">4e échelon </p>
+</td>
+<td valign="top">
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">3e échelon </p>
+</td>
+<td valign="top">
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">2e échelon </p>
+</td>
+<td valign="top">
+<p align="center">659 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">1er échelon </p>
+</td>
+<td valign="top">
+<p align="center">616 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Agent comptable de l'institut national de la propriété industrielle : </p>
+</td>
+<td valign="top">
+<pre/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">7e échelon </p>
+</td>
+<td valign="top">
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">6e échelon </p>
+</td>
+<td valign="top">
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">5e échelon </p>
+</td>
+<td valign="top">
+<p align="center">659 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">4e échelon </p>
+</td>
+<td valign="top">
+<p align="center">616 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">3e échelon </p>
+</td>
+<td valign="top">
+<p align="center">582 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">2e échelon </p>
+</td>
+<td valign="top">
+<p align="center">546 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">1er échelon </p>
+</td>
+<td valign="top">
+<p align="center">508 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Agent comptable de l'  Institut national de l'information géographique et forestière : </p>
+</td>
+<td valign="top">
+<pre/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">6e échelon </p>
+</td>
+<td valign="top">
+<p align="center">901 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">5e échelon </p>
+</td>
+<td valign="top">
+<p align="center">852 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">4e échelon </p>
+</td>
+<td valign="top">
+<p align="center">801 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">3e échelon </p>
+</td>
+<td valign="top">
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">2e échelon </p>
+</td>
+<td valign="top">
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">1er échelon </p>
+</td>
+<td valign="top">
+<p align="center">652 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Agent comptable du centre national d'études et d'expérimentation du machinisme agricole : </p>
+</td>
+<td valign="top">
+<pre/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">7e échelon </p>
+</td>
+<td valign="top">
+<p align="center">750 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">6e échelon </p>
+</td>
+<td valign="top">
+<p align="center">701 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">5e échelon </p>
+</td>
+<td valign="top">
+<p align="center">659 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">4e échelon </p>
+</td>
+<td valign="top">
+<p align="center">616 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">3e échelon </p>
+</td>
+<td valign="top">
+<p align="center">582 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">2e échelon </p>
+</td>
+<td valign="top">
+<p align="center">546 </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="center">1er échelon </p>
+</td>
+<td valign="top">
+<p align="center">508 </p>
 </td>
 </tr>
 <tr>
@@ -2461,7 +2461,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <p>(1) La carrière se poursuit hors échelle.</p>
 </td>
 <td valign="top">
-<pre> </pre>
+<pre/>
 </td>
 </tr>
 </tbody>

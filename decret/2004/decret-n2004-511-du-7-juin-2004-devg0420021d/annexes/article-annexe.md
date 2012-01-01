@@ -16,4 +16,4 @@ CORPS de fonctionnaires :
 
 Secrétaires administratifs des services déconcentrés de l'équipement.
 
-Géomètres de l'Institut géographique national.
+Géomètres de l'  Institut national de l'information géographique et forestière.

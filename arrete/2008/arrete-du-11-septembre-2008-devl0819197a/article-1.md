@@ -48,7 +48,7 @@ La directrice du laboratoire des ponts et chaussées.
 
 Le directeur de l'Ecole nationale des travaux publics de l'Etat.
 
-Le directeur de l'Institut géographique national.
+Le directeur de l'  Institut national de l'information géographique et forestière.
 
 Le directeur de l'établissement public Parcs nationaux de France.
 

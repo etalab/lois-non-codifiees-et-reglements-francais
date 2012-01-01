@@ -84,7 +84,7 @@
 <p align="center">1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a) En extinction D. 78-309 du 15 / 3 / 78 </p>
+<p>(a) En extinction D. 78-309 du 15/3/78 </p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@
 <p align="center">612-966 </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction D. 78-309 du 15 / 3 / 78 </p>
+<p>En extinction D. 78-309 du 15/3/78 </p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p align="center">4. Corps régis par le décret n° 62-368 du 02 / 04 / 62 </p>
+<p align="center">4. Corps régis par le décret n° 62-368 du 02/04/62 </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -299,7 +299,7 @@
 <p align="center">(a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a) En extinction-D. 63-1122 du 9 / 11 / 63 </p>
+<p>(a) En extinction-D. 63-1122 du 9/11/63 </p>
 </td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@
 <p align="center">801-1 015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a) En extinction-D. 63-1122 du 9 / 11 / 63 </p>
+<p>(a) En extinction-D. 63-1122 du 9/11/63 </p>
 </td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@
 <p align="center">612-966 </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction-D. 63-1122 du 9 / 11 / 63 </p>
+<p>En extinction-D. 63-1122 du 9/11/63 </p>
 </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Chargé de mission (bénéficiaire de l'ordonnance n° 59-244 du 04 / 02 / 59) </p>
+<p>Chargé de mission (bénéficiaire de l'ordonnance n° 59-244 du 04/02/59) </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -652,7 +652,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur divisionnaire des finances publiques de classe normale</p>
+<p>Inspecteur divisionnaire des finances publiques de classe normale </p>
 </td>
 <td valign="top" width="113">
 <p align="center">901 </p>
@@ -679,7 +679,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur divisionnaire des finances publiques de classe normale</p>
+<p>Inspecteur divisionnaire des finances publiques de classe normale </p>
 </td>
 <td valign="top" width="113">
 <p align="center">780-821 </p>
@@ -778,7 +778,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Agent administratif principal des finances publiques</p>
+<p>Agent administratif principal des finances publiques </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -786,22 +786,22 @@
 <td valign="top" width="151"/>
 </tr>
 <tr>
-<td>1re classe</td>
+<td>1re classeE6</td>
 <td>
-<p align="center">E6</p>
+<br/>
 </td>
 <td/>
 </tr>
 <tr>
-<td>2e classe</td>
+<td>2e classeE5</td>
 <td>
-<p align="center">E5</p>
+<br/>
 </td>
 <td/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Agent administratif des finances publiques</p>
+<p>Agent administratif des finances publiques </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -810,10 +810,10 @@
 </tr>
 <tr>
 <td>
-<p align="left">1re classe</p>
+<p align="left">1re classe </p>
 </td>
 <td>
-<p align="center">E4</p>
+<p align="center">E4 </p>
 </td>
 <td>
 <br/>
@@ -821,10 +821,10 @@
 </tr>
 <tr>
 <td>
-<p align="left">2e classe</p>
+<p align="left">2e classe </p>
 </td>
 <td>
-<p align="center">E3</p>
+<p align="center">E3 </p>
 </td>
 <td/>
 </tr>
@@ -895,11 +895,11 @@
 <td valign="top" width="113">
 <br/>
 </td>
-<td valign="top" width="151">D 95-866classe</td>
+<td valign="top" width="151">D 95-866classefonctionnelle</td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>fonctionnelle </p>
+<br/>
 </td>
 <td valign="top" width="113">
 <p align="center">HEA-HEB </p>
@@ -1116,22 +1116,22 @@
 <td valign="top" width="151"/>
 </tr>
 <tr>
-<td>1re classe</td>
+<td>1re classeE6</td>
 <td>
-<p align="center">E6</p>
+<br/>
 </td>
 <td/>
 </tr>
 <tr>
-<td>2e classe</td>
+<td>2e classeE5</td>
 <td>
-<p align="center">E5</p>
+<br/>
 </td>
 <td/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Agent administratif des finances publiques</p>
+<p>Agent administratif des finances publiques </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1139,16 +1139,16 @@
 <td valign="top" width="151"/>
 </tr>
 <tr>
-<td>1re classe</td>
+<td>1re classeE4</td>
 <td>
-<p align="center">E4</p>
+<br/>
 </td>
 <td/>
 </tr>
 <tr>
-<td>2e classe</td>
+<td>2e classeE3</td>
 <td>
-<p align="center">E3</p>
+<br/>
 </td>
 <td/>
 </tr>
@@ -1160,7 +1160,7 @@
 <p align="center">335-603 (448) </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction D. 63-1123 du 9 / 11 / 63 </p>
+<p>En extinction D. 63-1123 du 9/11/63 </p>
 </td>
 </tr>
 <tr>
@@ -1171,7 +1171,7 @@
 <p align="center">550-603 </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction D. 63-610 du 24 / 6 / 63 </p>
+<p>En extinction D. 63-610 du 24/6/63 </p>
 </td>
 </tr>
 <tr>
@@ -1182,7 +1182,7 @@
 <p align="center">365-579 </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction D. 63-610 du 24 / 6 / 63 </p>
+<p>En extinction D. 63-610 du 24/6/63 </p>
 </td>
 </tr>
 <tr>
@@ -2041,7 +2041,7 @@
 <p align="center">655-862 </p>
 </td>
 <td valign="top" width="151">
-<p>En extinction D. 67-328 du 31 / 3 / 67 </p>
+<p>En extinction D. 67-328 du 31/3/67 </p>
 </td>
 </tr>
 <tr>
@@ -2218,7 +2218,7 @@
 <p align="center">811-1015 (1) </p>
 </td>
 <td valign="top" width="151">
-<p>(1) A titre exceptionnel, le titulaire de ce grade pourra bénéficier de l'échelonnement prévu en faveur des inspecteurs généraux des manufactures de l'Etat sans pouvoir dépasser l'indice de base affecté au directeur de l'établissement.</p>
+<p>(1) A titre exceptionnel, le titulaire de ce grade pourra bénéficier de l'échelonnement prévu en faveur des inspecteurs généraux des manufactures de l'Etat sans pouvoir dépasser l'indice de base affecté au directeur de l'établissement. </p>
 </td>
 </tr>
 <tr>
@@ -2579,7 +2579,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Corps d'extinction des personnels fonctionnaires D. 82-908 du 19 / 10 / 82 </p>
+<p>Corps d'extinction des personnels fonctionnaires D. 82-908 du 19/10/82 </p>
 </td>
 </tr>
 <tr>
@@ -2676,7 +2676,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Agent comptable de l'Institut Géographique National </p>
+<p>Agent comptable de l' Institut national de l'information géographique et forestière </p>
 </td>
 <td valign="top" width="113">
 <p align="center">652-901 </p>

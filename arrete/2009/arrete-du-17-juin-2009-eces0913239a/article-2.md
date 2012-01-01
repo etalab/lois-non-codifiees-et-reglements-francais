@@ -6,7 +6,7 @@ Outre le président, elle comprend les membres suivants :
 
 2. Le directeur du Centre d'analyse stratégique ;
 
-3. Le directeur général de l'Institut géographique national ;
+3. Le directeur général de l'  Institut national de l'information géographique et forestière ;
 
 4. Le délégué à l'aménagement et à la compétitivité des territoires ;
 

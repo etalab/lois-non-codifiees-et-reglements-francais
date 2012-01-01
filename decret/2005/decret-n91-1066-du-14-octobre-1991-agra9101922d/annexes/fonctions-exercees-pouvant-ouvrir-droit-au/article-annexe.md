@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-TABLEAU I.A
+TABLEAU I. A
 
 Fonctions exercées dans les services déconcentrées du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-1. Chef de service d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
+1. Chef de service d'administration générale dans les directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 2. Chef du service d'administration générale commun aux directions départementales de l'agriculture et de la forêt et aux directions départementales des services vétérinaires ou commun aux directions de l'agriculture et de la forêt et aux directions des services vétérinaires dans les départements d'outre-mer ou du service d'administration générale de la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
@@ -38,13 +38,13 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 17. (Supprimé) ;
 
-18. Contrôleur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+18. Contrôleur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière ;
 
-19. Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+19. Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Institut national de l'information géographique et forestière   ;
 
-20. Vérificateur technique dans les services interrégionaux de l'Inventaire forestier national (IFN) ;
+20. Vérificateur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière   ;
 
-21. Chef d'équipe et adjoint à un chef d'équipe de l'Inventaire forestier national (IFN) ;
+21. Chef d'équipe et adjoint à un chef d'équipe de l'Institut national de l'information géographique et forestière   ;
 
 22. Technicien des services vétérinaires ou préposé sanitaire titulaire, responsable d'une équipe de contrôle sanitaire d'un abattoir d'une capacité annuelle supérieure à :
 
@@ -54,7 +54,7 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces.
 
-TABLEAU I.B
+TABLEAU I. B
 
 Fonctions exercées dans les services déconcentrés du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
@@ -96,7 +96,7 @@ Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un so
 
 2. Adjoint à un chef de bureau ou expert de catégorie A :
 
-Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions, ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique.
+Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions, ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique.
 
 3. Assistant ou expert de catégorie B :
 
