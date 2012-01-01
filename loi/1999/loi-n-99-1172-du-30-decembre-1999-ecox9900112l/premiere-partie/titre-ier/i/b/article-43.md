@@ -156,7 +156,6 @@ Ces taxes sont dues par l'exploitant, sans réduction possible, à compter de la
 Pour toutes les catégories d'installations visées dans le précédent tableau, les valeurs des coefficients pour 2007 sont fixées à 4, 0 pour la taxe additionnelle " recherche ", à 1, 0 pour la taxe additionnelle " d'accompagnement " et à 0, 8 pour la taxe additionnelle " diffusion technologique ".
 
 Pour 2010, 2011 et 2012, les valeurs des coefficients s'appliquant aux catégories d'installations visées dans le tableau précédent sont fixées comme suit :
-
 <table>
 <tbody>
 <tr>
@@ -177,10 +176,7 @@ Pour 2010, 2011 et 2012, les valeurs des coefficients s'appliquant aux catégori
 </th>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Recherche <br/>
 </td>
@@ -252,7 +248,7 @@ Pour 2010, 2011 et 2012, les valeurs des coefficients s'appliquant aux catégori
 
 Les taxes additionnelles sont recouvrées dans les mêmes conditions et sous les mêmes sanctions que la taxe sur les installations nucléaires de base.
 
-Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées, le produit de la taxe additionnelle dite de " recherche " est reversé à l'Agence nationale pour la gestion des déchets radioactifs.
+Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées et dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012  le produit de la taxe additionnelle dite de " recherche " est reversé à l'Agence nationale pour la gestion des déchets radioactifs.
 
 Sous déduction des frais de collecte fixés à 1 % des sommes recouvrées, le produit de la taxe additionnelle dite " d'accompagnement " est réparti, à égalité, en un nombre de parts égal au nombre de départements mentionnés à l'article L. 542-11 du code de l'environnement. Une fraction de chacune de ces parts, déterminée par décret en Conseil d'Etat dans la limite de 20 %, est reversée par les groupements d'intérêt public mentionnés au même article L. 542-11, au prorata de leur population, aux communes du département dont une partie du territoire est distante de moins de 10 kilomètres de l'accès principal aux installations souterraines d'un laboratoire souterrain mentionné à l'article L. 542-4 du même code ou d'un centre de stockage en couche géologique profonde mentionné à l'article L. 542-10-1 du même code. Le solde de chacune de ces parts est reversé au groupement d'intérêt public mentionné à l'article L. 542-11 du même code.
 

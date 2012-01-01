@@ -8,6 +8,6 @@ Le conseil d'administration est composé de représentants de l'Etat et des coll
 
 Le président du conseil d'administration et le directeur sont nommés par décret.
 
-L'établissement public bénéficie du produit de la taxe sur les spectacles prévue à l'article 76 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) perçue au titre des spectacles de variétés. Ses ressources peuvent également comprendre, outre le produit de ses activités commerciales et toutes autres recettes autorisées par les lois et réglements en vigueur, les subventions et concours financiers de toute personne publique ou privée.
+L'établissement public bénéficie, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, du produit de la taxe sur les spectacles prévue à l'article 76 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) perçue au titre des spectacles de variétés. Ses ressources peuvent également comprendre, outre le produit de ses activités commerciales et toutes autres recettes autorisées par les lois et réglements en vigueur, les subventions et concours financiers de toute personne publique ou privée.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article. Ce décret définit également les conditions dans lesquelles sont dévolus à l'établissement public les biens, droits et obligations de l'association dénommée Association pour le soutien de la chanson, des variétés et du jazz.

@@ -8,36 +8,12 @@ I. à IV.-A modifié les dispositions suivantes :
 > >
 > >
 > >
-> > V.-Il est institué un fonds d'aide à l'acquisition de véhicules propres ayant pour mission, au moyen du produit de la taxe instituée au I, l'attribution d'aides à l'acquisition de véhicules propres qui peuvent être complétées, le cas échéant, d'aides au retrait de véhicules polluants.
-> >
-> > Un décret précise l'organisme gestionnaire du fonds ainsi que les conditions dans lesquelles il assure sa gestion.
-> >
-> > Les frais exposés au titre de la gestion du fonds sont imputés en dépenses du fonds.
+> > V.-(Abrogé).
 > >
 > >
 > >
 > >
-> > VI.-A compter du 1er janvier 2008, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé : Avances au fonds d'aide à l'acquisition de véhicules propres ».
-> >
-> >
-> >
-> >
-> > Le ministre chargé du budget est l'ordonnateur principal de ce compte. Ce compte retrace :
-> >
-> >
-> >
-> >
-> > 1° En dépenses : le montant des avances accordées au fonds d'aide à l'acquisition de véhicules propres ;
-> >
-> >
-> >
-> >
-> > 2° En recettes : les remboursements d'avances correspondant au produit de la taxe instituée à l'article 1011 bis du code général des impôts, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances.
-> >
-> >
-> >
-> >
-> > Le taux d'intérêt est celui des obligations ou bons du Trésor de même échéance que les avances ou, à défaut, d'échéance la plus proche.
+> > VI.-(Abrogé).
 > >
 > >
 > >
