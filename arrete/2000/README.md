@@ -118,7 +118,6 @@
 - [Arrêté du 24 juillet 2000 (MESA0022638A)](arrete-du-24-juillet-2000-mesa0022638a)
 - [Arrêté du 24 novembre 2000 (EQUT0001668A)](arrete-du-24-novembre-2000-equt0001668a)
 - [Arrêté du 24 novembre 2000 (MENF0003098A)](arrete-du-24-novembre-2000-menf0003098a)
-- [Arrêté du 24 octobre 2000 (DEFP0001867A)](arrete-du-24-octobre-2000-defp0001867a)
 - [Arrêté du 24 octobre 2000 (ECOI0020337A)](arrete-du-24-octobre-2000-ecoi0020337a)
 - [Arrêté du 25 août 2000 (DEFD0001939A)](arrete-du-25-aout-2000-defd0001939a)
 - [Arrêté du 25 avril 2000 (ECOI0000214A)](arrete-du-25-avril-2000-ecoi0000214a)

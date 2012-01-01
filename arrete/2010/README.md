@@ -85,7 +85,6 @@
 - [Arrêté du 2 mars 2010 (AGRS1004578A)](arrete-du-2-mars-2010-agrs1004578a)
 - [Arrêté du 2 mars 2010 (AGRS1004581A)](arrete-du-2-mars-2010-agrs1004581a)
 - [Arrêté du 2 mars 2010 (AGRS1004602A)](arrete-du-2-mars-2010-agrs1004602a)
-- [Arrêté du 2 mars 2010 (DEFD1006044A)](arrete-du-2-mars-2010-defd1006044a)
 - [Arrêté du 2 mars 2010 (DEFD1006057A)](arrete-du-2-mars-2010-defd1006057a)
 - [Arrêté du 2 mars 2010 (DEFD1006060A)](arrete-du-2-mars-2010-defd1006060a)
 - [Arrêté du 2 mars 2010 (DEFD1006062A)](arrete-du-2-mars-2010-defd1006062a)
