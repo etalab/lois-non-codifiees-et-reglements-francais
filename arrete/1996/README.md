@@ -485,7 +485,6 @@
 - [Arrêté du 15 mars 1996 (MCCK9600170A)](arrete-du-15-mars-1996-mcck9600170a)
 - [Arrêté du 15 novembre 1996 (DEFD9602128A)](arrete-du-15-novembre-1996-defd9602128a)
 - [Arrêté du 15 octobre 1996 (EQUT9600592A)](arrete-du-15-octobre-1996-equt9600592a)
-- [Arrêté du 15 septembre 1995 (ENVP9540193A)](arrete-du-15-septembre-1995-envp9540193a)
 - [Arrêté du 15 mai 1996 (DEFA9601480A)](arrete-du-15-mai-1996-defa9601480a)
 - [Arrêté du 15 mai 1996 (JUSB9610172A)](arrete-du-15-mai-1996-jusb9610172a)
 - [Arrêté du 15 mai 1996 (JUSB9610173A)](arrete-du-15-mai-1996-jusb9610173a)
