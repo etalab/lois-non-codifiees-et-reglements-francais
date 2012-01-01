@@ -5,281 +5,242 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">EMPLOIS ET ÉCHELONS</p>
+<td>
+<p align="center">EMPLOIS, GRADES ET ÉCHELONS </p>
 </td>
-<td align="left" valign="top">
-<p align="center">INDICES BRUTS</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="center">Commandant de police à l'emploi fonctionnel<br/>
-</p>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">2e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">952<br/>
+<td>
+<p align="center">INDICES BRUTS <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">1er échelon<br/>
-</p>
+<td align="center">
+<p align="center">Commandant de police à l'emploi fonctionnel</p>
 </td>
-<td align="left" valign="top">
-<p align="center">891<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="center">Commandant de police<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">
+<td align="center">
 <br/>
-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">5e échelon<br/>
-</p>
+<td>
+<p align="left">2e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">890<br/>
-</p>
+<td>
+<p align="center">966 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">4e échelon<br/>
-</p>
+<td align="center">
+<p align="left">1er échelon</p>
 </td>
-<td align="left" valign="top">
-<p align="center">842<br/>
-</p>
+<td align="center">
+<br/>901 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">3e échelon<br/>
-</p>
+<td>
+<p align="center">Commandant de police</p>
 </td>
-<td align="left" valign="top">
-<p align="center">792<br/>
-</p>
+<td/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">5e échelon</p>
+</td>
+<td align="center">
+<br/>901 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">2e échelon<br/>
-</p>
+<td align="center">
+<p align="left">4e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">742<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1er échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">700<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="center">Capitaine de police<br/>
-</p>
-</td>
-<td align="left" valign="top">
+<td align="center">
 <p align="center">
-<br/>
-</p>
+<br/>852 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Echelon exceptionnel<br/>
-</p>
+<td align="center">
+<p align="left">3e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">820<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">5e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">789<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">4e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">742<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">3e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">699<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">2e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">660<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1er échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">622<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="center">Lieutenant de police<br/>
-</p>
-</td>
-<td align="left" valign="top">
+<td align="center">
 <p align="center">
-<br/>
-</p>
+<br/>801 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">8e échelon<br/>
-</p>
+<td align="center">
+<p align="left">2e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">693<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">7e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">659<br/>
-</p>
+<td align="center">
+<p align="center">
+<br/>750 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">6e échelon<br/>
-</p>
+<td align="center">
+<p align="left">1er échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">620<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">5e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">583<br/>
-</p>
+<td align="center">
+<p align="center">
+<br/>710 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">4e échelon<br/>
-</p>
+<td>
+<p align="center">Capitaine de police</p>
 </td>
-<td align="left" valign="top">
-<p align="center">546<br/>
-</p>
+<td/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Echelon exceptionnel</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>830 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">3e échelon<br/>
-</p>
+<td align="center">
+<p align="left">5e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">509<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">2e échelon<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">469<br/>
-</p>
+<td align="center">
+<p align="center">
+<br/>801 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">1er échelon<br/>
-</p>
+<td align="center">
+<p align="left">4e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">429<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Stagiaire<br/>
-</p>
-</td>
-<td align="left" valign="top">
-<p align="center">359<br/>
-</p>
+<td align="center">
+<p align="center">
+<br/>750 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Elève<br/>
-</p>
+<td align="center">
+<p align="left">3e échelon </p>
 </td>
-<td align="left" valign="top">
-<p align="center">319<br/>
-</p>
+<td align="center">
+<p align="center">
+<br/>705 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">2e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>668 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">1er échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>629 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Lieutenant de police</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">8e échelon</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>700 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">7e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>665 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">6e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>625 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">5e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>588 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">4e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>550 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">3e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>509 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">2e échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>469 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">1er échelon </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>429 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">Stagiaire </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>359 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Elève </p>
+</td>
+<td align="center">
+<p align="center">
+<br/>320</p>
 </td>
 </tr>
 </tbody>
