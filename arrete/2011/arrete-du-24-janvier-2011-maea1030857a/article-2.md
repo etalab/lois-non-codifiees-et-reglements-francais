@@ -356,6 +356,8 @@ Institut français de Madagascar (dont antennes à Antsirabe, Diégo-Suarez, Tam
 
 MALAWI
 
+Centre culturel français de Blantyre.
+
 MALI
 
 Institut français du Mali.
@@ -399,6 +401,8 @@ Institut français des Pays-Bas (dont antenne à Groningue).
 POLOGNE
 
 Institut français de Pologne (dont antennes à Cracovie, Poznan et Wroclaw).
+
+Centre de civilisation française et d'études francophones (CCFEF) auprès de l'université de Varsovie.
 
 PORTUGAL
 

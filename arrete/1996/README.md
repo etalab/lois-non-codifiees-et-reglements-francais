@@ -627,8 +627,6 @@
 - [Arrêté du 19 septembre 1996 (MAEA9620454A)](arrete-du-19-septembre-1996-maea9620454a)
 - [Arrêté du 19 septembre 1996 (MJSK9670132A)](arrete-du-19-septembre-1996-mjsk9670132a)
 - [Arrêté du 19 septembre 1996 (TASS9623534A)](arrete-du-19-septembre-1996-tass9623534a)
-- [Arrêté du 20 août 1996 (ECOD9670018A)](arrete-du-20-aout-1996-ecod9670018a)
-- [Arrêté du 20 août 1996 (ECOD9670019A)](arrete-du-20-aout-1996-ecod9670019a)
 - [Arrêté du 20 août 1996 (MAEA9620417A)](arrete-du-20-aout-1996-maea9620417a)
 - [Arrêté du 20 décembre 1995 (ECOT9540292A)](arrete-du-20-decembre-1995-ecot9540292a)
 - [Arrêté du 20 décembre 1995 (ENVE9540434A)](arrete-du-20-decembre-1995-enve9540434a)
