@@ -10,6 +10,8 @@ Contrôleurs de l'Institut national de la statistique et des études économique
 
 Contrôleurs de la concurrence, de la consommation et de la répression des fraudes.
 
+Contrôleurs des services techniques du ministère de l'intérieur.
+
 Géomètres-cadastreurs des finances publiques.
 
 Rédacteurs-techniciens du Conseil économique, social et environnemental.
@@ -36,6 +38,10 @@ Secrétaires d'administration de la Caisse des dépôts et consignations.
 
 Secrétaires administratifs des services du Premier ministre.
 
+Secrétaires administratifs du ministère de la culture et de la communication.
+
+Secrétaires de chancellerie.
+
 Techniciens supérieurs du ministère chargé de l'agriculture.
 
 Techniciens supérieurs d'études et de fabrications du ministère de la défense.
@@ -43,3 +49,5 @@ Techniciens supérieurs d'études et de fabrications du ministère de la défens
 Techniciens supérieurs de la météorologie.
 
 Techniciens de recherche et de formation.
+
+Techniciens des systèmes d'information et de communication du ministère de l'intérieur.
