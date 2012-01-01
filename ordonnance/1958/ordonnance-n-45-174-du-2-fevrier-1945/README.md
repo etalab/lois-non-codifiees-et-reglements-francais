@@ -3,6 +3,7 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Procédure.](chapitre-ii)
 - [Chapitre III : Le tribunal pour enfants et la cour d'assises des mineurs.](chapitre-iii)
+- [Chapitre III bis : Du tribunal correctionnel pour mineurs](chapitre-iii-bis)
 - [Chapitre III ter : De la césure du procès pénal des mineurs](chapitre-iii-ter)
 - [Chapitre IV : La liberté surveillée.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
