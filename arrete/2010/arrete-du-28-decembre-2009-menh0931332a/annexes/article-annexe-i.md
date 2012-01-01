@@ -212,56 +212,6 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Sections génie civil, génie électrique, génie industriel, génie mécanique
-
-A. ― Epreuves d'admissibilité
-
-1° Epreuve de synthèse :
-
-L'épreuve a pour objectif de vérifier que le candidat est capable de mobiliser l'ensemble de ses connaissances en vue de résoudre un problème technique.
-
-Au titre de la même session, le sujet de cette épreuve peut être commun à plusieurs options d'une même section, voire commun à plusieurs sections ainsi qu'à celui, dans les mêmes conditions, de la première épreuve du concours externe de recrutement de professeurs de lycée professionnel dans les sections et les options correspondantes.
-
-Durée : cinq heures ; coefficient 3.
-
-2° Etude d'un système, d'un procédé ou d'une organisation :
-
-L'épreuve a pour objectif de vérifier, dans l'option choisie, que le candidat est capable de conduire l'analyse critique de solutions technologiques.
-
-Durée : cinq heures ; coefficient 3.
-
-B. ― Epreuves d'admission
-
-1° Leçon portant sur les programmes des lycées et des classes post-baccalauréat :
-
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 3.
-
-L'épreuve a pour but d'évaluer, dans l'option choisie, l'aptitude du candidat à concevoir et organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques relatifs à un système technique ou à un processus et comporte un exposé suivi d'un entretien avec les membres du jury.
-
-La séquence de formation s'inscrit dans les programmes de lycée ou de classes post-baccalauréat du lycée dans la discipline considérée.
-
-Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des travaux pratiques qui lui ont permis de construire sa séquence de formation, à décrire la séquence de formation qu'il a élaborée, à présenter de manière détaillée une des séances de formation constitutives de la séquence.
-
-Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il aura opérés dans la construction de la séquence de formation présentée.
-
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde (durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
-
-Première partie : soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un des domaines de la spécialité préparée, suivie d'un entretien (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
-
-Cette partie d'épreuve porte sur les programmes des lycées et, le cas échéant, des sections de techniciens supérieurs.
-
-L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
-
-En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve, ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en lycée.
-
-Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
 Section hôtellerie. ― Restauration
 
 A. ― Epreuves d'admissibilité
@@ -394,6 +344,86 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
+Section sciences industrielles de l'ingénieur (en vigueur à la session 2012 des concours)
+
+A. - Epreuves d'admissibilité
+
+1° Epreuve de synthèse de sciences industrielles :
+
+L'épreuve est commune à toutes les options.
+
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une démarche systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges.
+
+Durée : cinq heures ; coefficient 4.
+
+2° Etude d'un système, d'un procédé ou d'une organisation :
+
+L'épreuve est spécifique à l'option choisie.
+
+A partir d'un dossier technique comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable de :
+
+- conduire l'analyse fonctionnelle, temporelle, structurelle d'un système, d'un ouvrage et/ou d'une réalisation, afin de pouvoir justifier ou critiquer des solutions ou des choix ;
+
+- proposer, à l'aide de représentations appropriées, des solutions nouvelles correspondant à une modification, une adaptation, un aménagement du système, d'un ouvrage, d'une organisation et/ou du processus ;
+
+- proposer des solutions dans le cadre d'un projet relatif à un système, un ouvrage ou un équipement permettant des économies d'énergie, de réduire les effets sur l'environnement, d'améliorer l'efficacité énergétique des systèmes et des procédés ;
+
+- d'identifier l'incidence de la variation d'un paramètre d'entrée sur le comportement ;
+
+- d'effectuer une recherche de causes de dysfonctionnements, de proposer une esquisse de démarche de diagnostic.
+
+Durée : cinq heures ; coefficient 2.
+
+B. - Epreuves d'admission
+
+1° Leçon et travail pratique :
+
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; coefficient 4.
+
+Le support du travail pratique proposé est lié à la dominante mais doit être pluritechnique et permettre une démarche systémique globale. La leçon, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée.
+
+L'épreuve a pour but d'évaluer l'aptitude du candidat à :
+
+- concevoir et organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques relatifs à un système technique ;
+
+- analyser et vérifier les performances de tout ou partie d'un système pluritechnique, notamment à partir de modèles de comportement et de mesures ;
+
+- conduire une expérimentation, une analyse de fonctionnement d'une solution ;
+
+- mettre en œuvre des matériels ou équipements, notamment des systèmes informatiques associés à des logiciels de traitement, de simulation, de représentation ;
+
+- justifier les solutions constructives retenues et les choix relatifs à la réalisation (hypothèses, comparaison multicritère des choix techniques et des organisations, évaluations économiques, etc.) ;
+
+- exploiter les résultats obtenus et formuler des conclusions.
+
+Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des travaux pratiques qui lui ont permis de construire sa séquence de formation, à décrire et situer la séquence de formation qu'il a élaborée, à présenter de manière détaillée une partie significative des séances de formation constitutives de la séquence.
+
+Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
+
+2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde (durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 2).
+
+Première partie : soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un des domaines de l'option préparée, suivie d'un entretien (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
+
+L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée.
+
+Le dossier présenté par le candidat est relatif à un système technique dont la dominante est choisie par le candidat. Son authenticité et son actualité sont des éléments décisifs.
+
+L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de l'option choisie. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
+
+En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve, ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège ou en lycée.
+
+Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
+
+Les éléments constitutifs du dossier sont précisés par note publiée au Bulletin officiel de l'éducation nationale.
+
+Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
+
+Seconde partie : interrogation portant sur la compétence "Agir en fonctionnaire de l'Etat et de façon éthique et responsable" (présentation : dix minutes ; entretien avec le jury : dix minutes).
+
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
+
+L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
+
 Section sciences et techniques médico-sociales
 
 A. ― Epreuves d'admissibilité
@@ -433,54 +463,6 @@ L'épreuve porte sur les programmes des lycées et, le cas échéant, des sectio
 L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
 
 En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve, ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en lycée.
-
-Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
-
-Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
-
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
-
-L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
-
-Section technologie
-
-A. ― Epreuves d'admissibilité
-
-1° Epreuve de synthèse :
-
-L'épreuve a pour objectif de vérifier que le candidat est capable de mobiliser l'ensemble de ses connaissances en vue de résoudre un problème technique.
-
-Durée : cinq heures ; coefficient 3.
-
-2° Etude d'un système, d'un procédé ou d'une organisation :
-
-L'épreuve a pour objectif de vérifier que le candidat est capable de conduire l'analyse critique de solutions technologiques.
-
-Durée : cinq heures ; coefficient 3.
-
-B. ― Epreuves d'admission
-
-1° Leçon portant sur les programmes des collèges :
-
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 3.
-
-L'épreuve a pour but d'évaluer l'aptitude du candidat à concevoir et organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques relatifs à un système technique ou à un processus et comporte un exposé suivi d'un entretien avec les membres du jury.
-
-La séquence de formation s'inscrit dans les programmes du collège dans la discipline considérée.
-
-Le candidat est amené au cours de sa présentation orale à expliciter sa démarche méthodologique, à mettre en évidence les informations, données et résultats issus des investigations conduites au cours des travaux pratiques qui lui ont permis de construire sa séquence de formation, à décrire la séquence de formation qu'il a élaborée, à présenter de manière détaillée une des séances de formation constitutives de la séquence.
-
-Au cours de l'entretien, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
-
-2° Epreuve sur dossier comportant deux parties : 14 points sont attribués à la première partie et 6 points à la seconde (durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
-
-Première partie : soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un des domaines de la spécialité préparée, suivie d'un entretien (présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
-
-Cette partie d'épreuve porte sur les programmes du collège.
-
-L'exposé et l'entretien permettent d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Ils permettent également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
-
-En utilisant les moyens courants de présentation (vidéoprojecteur et informatique associée, en particulier), le candidat présente le support technique qu'il a choisi pour l'épreuve, ainsi que les investigations et développements qu'il a conduits pour s'en approprier le fonctionnement et les évolutions potentielles. Lors de la présentation, le candidat justifiera le choix du support d'étude et les investigations conduites qui pourraient, selon lui, donner lieu à des exploitations pertinentes en collège.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
 

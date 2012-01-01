@@ -10,18 +10,10 @@ Section économie et gestion : option communication, organisation et gestion des
 
 Section esthétique-cosmétique ;
 
-Section génie civil : option équipements techniques-énergie ; option structures et ouvrages ;
-
-Section génie électrique : option électronique et automatique ; option électrotechnique et énergie ;
-
-Section génie industriel : option bois ; option structures métalliques ; option matériaux souples ; option plastiques et composites ; option verre et céramique ;
-
-Section génie mécanique : option construction ; option productique ; option maintenance des véhicules, machines agricoles, engins de chantier ;
-
 Section hôtellerie restauration : option production et ingénierie culinaires ; option service et accueil en hôtellerie et restauration ;
 
 Section industries graphiques ;
 
-Section sciences et techniques médico-sociales ;
+Section sciences industrielles de l'ingénieur : option architecture et construction ; option énergie ; option information et numérique ; option ingénierie mécanique ;
 
-Section technologie.
+Section sciences et techniques médico-sociales ;
