@@ -1,0 +1,13 @@
+# Article 28-7
+
+I. ― Les cotisations à la charge de l'employeur au titre des assurances sociales et des allocations familiales qui sont assises sur les gains ou les rémunérations inférieures au salaire minimum interprofessionnel garanti mahorais majoré de 30 % font l'objet d'une réduction dégressive, dans des conditions fixées par décret.
+
+Le taux de 30 % mentionné au précédent alinéa est porté à 40 %, 50 % et 60 % respectivement à compter du 1er janvier 2019, du 1er janvier 2027 et du 1er janvier 2036.
+
+II. ― Cette réduction est appliquée aux gains et rémunérations versés par les employeurs entrant dans le champ du dispositif prévu au II de l'article L. 241-13 du code de la sécurité sociale. Toutefois, les références aux articles L. 351-4 et L. 351-12 du code du travail sont remplacées par la référence aux dispositions relatives à l'obligation de l'employeur d'assurer ses salariés contre le risque de privation d'emploi applicable à Mayotte.
+
+III. ― Son montant, calculé chaque année civile, pour chaque salarié, est égal au produit de la rémunération annuelle, telle que définie à l'article 28-1, par un coefficient. Celui-ci est fonction du rapport entre la rémunération annuelle hors rémunération des temps de pause, d'habillage et de déshabillage versée en application d'une convention ou d'un accord collectif étendu en vigueur au 11 octobre 2007 et le salaire minimum interprofessionnel garanti mahorais calculé pour un an sur la base de la durée légale du travail augmentée, le cas échéant, du nombre d'heures complémentaires ou supplémentaires, sans prise en compte des majorations auxquelles elles donnent lieu. Lorsque le salarié est soumis à un régime d'heures d'équivalence payées à un taux majoré en application d'une convention ou d'un accord collectif étendu en vigueur depuis le 1er janvier 2010, la majoration salariale correspondante est également déduite de la rémunération annuelle du salarié dans la limite d'un taux de 25 %. Pour les salariés qui ne sont pas employés à temps plein ou qui ne sont pas employés sur toute l'année, le salaire minimum interprofessionnel garanti mahorais pris en compte est celui qui correspond à la durée de travail prévue au contrat.
+
+IV. ― Ce coefficient varie en fonction de l'effectif de l'entreprise. A l'issue d'une période de convergence allant du 1er janvier 2012 au 31 décembre 2035, il est calculé sur les mêmes bases d'abattement qu'en métropole respectivement pour les entreprises de un à dix-neuf salariés et les entreprises de plus de dix-neuf salariés.
+
+V. ― Un décret fixe les modalités d'application du présent article.

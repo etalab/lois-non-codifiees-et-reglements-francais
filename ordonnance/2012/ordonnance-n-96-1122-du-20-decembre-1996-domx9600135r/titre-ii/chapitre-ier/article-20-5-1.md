@@ -1,0 +1,3 @@
+# Article 20-5-1
+
+Les dispositions des articles L. 162-16-5, L. 162-16-6 et L. 165-7 ainsi que des trois premières sous-sections de la section V du chapitre II du titre VI du livre Ier du code de la sécurité sociale, dans leur rédaction issue de la loi n° 2003-1199 du 18 décembre 2003 de financement de la sécurité sociale pour 2004, à l'exception de l'article L. 162-22-16, sont applicables à compter du 1er janvier 2005 aux établissements de santé privés, mentionnés aux b, d et e de l'article L. 162-22-6 du code de la sécurité sociale dans sa rédaction issue de la loi du 18 décembre 2003 susvisée, sous réserve des adaptations prévues par le présent chapitre.

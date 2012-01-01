@@ -1,0 +1,3 @@
+# Article 25-1
+
+La nomination et la cessation de fonctions du directeur et de l'agent comptable de la caisse de sécurité sociale sont soumises aux conditions prévues à l'article L. 217-3-1 du code de la sécurité sociale et les décisions relatives à leur nomination et à leur cessation de fonctions sont prises conjointement par les directeurs des caisses nationales concernées. Les mêmes directeurs exercent sur cette caisse les compétences mentionnées au douzième alinéa de l'article L. 221-3-1 et à l'avant-dernier alinéa de l'article L. 227-3 du code de la sécurité sociale, le cas échéant conjointement.
