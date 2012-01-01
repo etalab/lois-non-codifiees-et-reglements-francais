@@ -1,7 +1,0 @@
-# Article 9
-
-Le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement), sur décision du jury, arrête pour chaque concours la liste des candidats déclarés admissibles à l'issue des épreuves écrites.
-
-Ces listes, établies par ordre alphabétique, sont publiées au Bulletin officiel des armées.
-
-Le bénéfice de l'admissibilité ne peut être reporté d'une année sur l'autre.

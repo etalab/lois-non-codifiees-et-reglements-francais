@@ -1,161 +1,121 @@
 # Article Annexe IV
 
-Objectifs et contenu de l'épreuve :
+ÉPREUVE E 1 : Formation et mouvement des trains
 
-Cette épreuve doit permettre la mise en œuvre des compétences liées aux activités professionnelles de production. Elle doit conduire le candidat à réaliser les opérations de formation d'un train.
-
-L'épreuve porte sur tout ou partie des compétences professionnelles liées à C1, C4.1 et C4.2 et des savoirs associés correspondants : S14, S15, S2 et S3.
-
-Critères d'évaluation :
-
-L'épreuve doit permettre d'évaluer :
-
-- la maîtrise des savoir faire et des comportements professionnels
-
-- la pertinence des solutions proposées
-
-- le travail en équipe
-
-- la qualité des services
-
-- la qualité des rendre compte
-
-- la maîtrise des outils de communication
-
-Modes d'évaluation :
-
-Épreuve ponctuelle pratique et orale d'une durée de 2 heures
-
-L'épreuve se déroule dans un chantier de formation de trains.
-
-Elle comporte deux parties :
-
-- 1ère partie : réalisation des opérations de formation d'un train. (durée 1h30 ; coef. 3).
-
-- 2ème partie : entretien avec la commission. (durée 30 min.; coef. 1).
-
-Cette partie doit amener le candidat à justifier ses actions.
-
-Des questions d'approfondissement pourront être posées à cette occasion.
-
-Contrôle en cours de formation
-
-Il comporte une situation d'évaluation réalisée dans un chantier de formation de trains dans le courant du 1er trimestre de l'année de l'examen.
-
-A l'issue de la situation d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'épreuve ponctuelle correspondante, des fiches d'évaluation du travail réalisé sont établies et transmises au jury, avec une proposition de note.
-
-La proposition de note est établie conjointement par un ou plusieurs membres de l'équipe pédagogique et les professionnels concernés. Elle est jointe au dossier du candidat et transmise au jury.
-
-Le jury pourra éventuellement demander à avoir communication de tous documents utiles qui seront tenus à la disposition du jury et de l'autorité rectorale pour la session considérée jusqu'à la session suivante.
-
-ÉPREUVE E 2 : CIRCULATION U 2
-
-(Aiguillage et circulation des trains) coefficient 4
+U 1 coefficient 2
 
 Objectifs et contenu de l'épreuve :
 
-Cette épreuve doit permettre la mise en œuvre des compétences liées aux activités professionnelles de circulation. Elle doit conduire le candidat à assurer le service de la circulation des trains, en utilisant les installations du poste en situation normale et en situation de dérangement et en mettant en œuvre les procédures de protection des personnes, du personnel et des circulations.
+Cette épreuve doit permettre de s'assurer que le candidat a acquis l'ensemble des compétences et savoirs associés liées aux activités professionnelles de la circulation ferroviaire.
 
-L'épreuve porte sur tout ou partie des compétences professionnelles liées à C2, C3 , C4.1 et C4.2 et des savoirs associés correspondants : S1, S2 et S3.
+L'épreuve porte sur tout ou partie des compétences suivantes :
 
-Critères d'évaluation :
+- C1.1 : Identifier et exploiter le matériel fret et voyageurs
 
-L'épreuve doit permettre d'évaluer :
+- C1.2 : Effectuer la reconnaissance
 
-- la maîtrise des savoir faire et des comportements professionnels
+- C1.3 : Établir les documents utiles au transport
 
-- la pertinence des solutions proposées
+- C1.6 : Appliquer les règles de formation des trains
 
-- le travail en équipe
+- C1.7 : Compléter les écritures des trains fret et voyageurs
 
-- la qualité des services
+- C1.8 : Appliquer les règles de formation des évolutions
 
-- la qualité des rendre compte
+- C1.9 : Réaliser les essais de frein
 
-- la maîtrise des outils de communication
+- C1.10 : Réaliser la signalisation des trains
 
-Modes d'évaluation :
+- C2.1 : Assurer le service des postes
 
-Epreuve ponctuelle pratique et orale d'une durée de 2 heures
+- C2.2 : Utiliser les installations d'un poste dans les conditions normales
 
-L'épreuve se déroule dans un poste d'aiguillage ou par simulation.
+- C2.4 : Effectuer l'entretien des installations
 
-Elle comporte deux parties :
+- C2.5 : Assurer la protection des manœuvres
 
-- 1ère partie : aiguillage et circulation des trains. (durée 1h30 ; coef. 3).
+- C2.7 : Appliquer la procédure travaux pour l'entretien des installations de sécurité
 
-- 2ème partie : entretien avec la commission (durée 30 min.; coef. 1).
+- C2.8 : Assurer la protection des travaux en gare et en pleine voie
 
-Cette partie doit amener le candidat à justifier ses actions.
+- C2.9 : Engager et dégager un T.Tx sur voie protégée ou interceptée
 
-Des questions d'approfondissement pourront être posées à cette occasion.
+- C2.10 : Respecter et mettre en œuvre les procédures de protection et de manœuvre des installations liées à la traction électrique
 
-Contrôle en cours de formation
+- C3.1 : Assurer le service de la circulation
 
-Il comporte une situation d'évaluation réalisée dans un poste d'aiguillage ou par simulation dans le courant du 2ème trimestre de l'année de l'examen.
+- C3.2 : Assurer la circulation des trains en double voie
 
-A l'issue de la situation d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'épreuve ponctuelle correspondante, des fiches d'évaluation du travail réalisé sont établies et transmises au jury, avec une proposition de note.
+- C3.3 : Autoriser le départ d'un train
 
-La proposition de note est établie conjointement par un ou plusieurs membres de l'équipe pédagogique et les professionnels concernés. Elle est jointe au dossier du candidat et transmise au jury.
+- C3.4 : Assurer la surveillance des circulations ferroviaires
 
-Le jury pourra éventuellement demander à avoir communication de tous documents utiles qui seront tenus à la disposition du jury et de l'autorité rectorale pour la session considérée jusqu'à la session suivante.
+- C3.5 : Assurer l'espacement des circulations en double voie
 
-EPREUVE E 3 : INFORMATION ET COMMUNICATION PROFESSIONNELLES
+- C3.6 : Modifier l'ordre normal de circulation
 
-coefficient 4
+- C3.7 : Réceptionner les circulations
 
-Objectifs et contenu de l'épreuve :
+- C3.8 : Suivre et gérer les circulations particulières
 
-Cette épreuve doit permettre de mesurer l'aptitude du candidat à communiquer dans son environnement métier. Elle doit conduire le candidat à présenter un dossier à caractère professionnel en vue de valoriser les compétences caractéristiques de son métier.
+- C3.11 : Assurer la sécurité des voyageurs
 
-Le candidat sera en outre amené à s'exprimer dans une langue vivante étrangère.
+- C4.1 : Identifier, recueillir et transmettre les informations liées au service
 
-L'épreuve porte sur tout ou partie des compétences professionnelles liées à C4 et des savoirs associés correspondants : S1, S23, S31, S34 et S4.
+- C4.2 : Participer au management de la sécurité et de la régularité et des savoirs associés correspondants :
 
-Critères d'évaluation :
+- S14 : La documentation professionnelle
 
-L'épreuve doit permettre de prendre en compte les critères suivants :
+- S2 : Technologie professionnelle
 
-1ère partie : pertinence et structure du dossier, exactitude des informations, utilisation d'un vocabulaire professionnel adapté, maîtrise des techniques de communication orale.
+- S31 : Principes généraux de la sécurité ferroviaire et son management
 
-2ème partie : maîtrise des techniques de communication orale, maîtrise des connaissances liées aux technologies professionnelles, à l'entreprise ferroviaire, à son environnement et aux risques professionnels
+- S34 : Prévention des risques professionnels
 
-3ème partie : compréhension de la langue, utilisation du vocabulaire professionnel adapté, respect de la relation clientèle.
+- S35 : La sécurité dans les établissements recevant du public
 
-Modes d'évaluation :
+- Critères d'évaluation :
 
-Épreuve ponctuelle orale d'une durée de 50 minutes
+L'évaluation prend en compte :
 
-Elle comporte trois parties :
+- la maîtrise des savoirs professionnels,
 
-1ère partie : exposé par le candidat du contenu du dossier (durée 10 minutes ; coef 1)
+- la pertinence des solutions proposées.
 
-Présentation de l'entreprise d'accueil, situation du candidat au sein de la structure et activités réalisées, développement d'un thème ferroviaire choisi par le candidat.
+- Modes d'évaluation :
 
-Cet exposé ne donne pas lieu à un temps de préparation.
+- Épreuve ponctuelle écrite d'une durée de 2 heures
 
-2ème partie : entretien avec la commission d'évaluation (durée 30 minutes ; coef 2)
+A partir d'un dossier technique, le candidat doit répondre à un questionnaire (QCM) et à des questions ouvertes articulées autour d'une problématique professionnelle concernant la formation et la circulation des trains, portant sur cinq thèmes :
 
-A partir de l'exposé précédent, la commission d'évaluation s'entretient avec le candidat, notamment sur :
+- les règles liées à la sécurité du personnel,
 
-- la maîtrise des connaissances liées aux technologies professionnelles
+- la formation des trains en situation normale,
 
-- la maîtrise des connaissances liées à l'entreprise ferroviaire, à son environnement et aux risques professionnels
+- la circulation des trains en situation normale,
 
-Le jury (pour ces deux parties d'épreuve) est composé d'un enseignant en communication et d'un
+- les installations de sécurité et leur fonctionnement,
 
-professionnel.
+- les opérations de travaux sur les voies, les installations de sécurité et les installations de traction électriques.
 
-Le recteur fixe la date à laquelle le dossier support de l'épreuve doit être remis en deux exemplaires, par les candidats, au service du rectorat chargé de l'organisation de l'examen.
+- Contrôle en cours de formation
 
-3ème partie : entretien en langue vivante étrangère (durée 10 minutes ; coef 1)
+Il s'effectue au cours d'une situation d'évaluation réalisée dans le courant du 1er trimestre de l'année de l'examen.
 
-Lors de l'inscription à l'examen, le candidat précise la langue étrangère choisie :
+A partir d'un dossier technique, le candidat est amené à répondre à un questionnaire (QCM) et à des questions ouvertes articulées autour d'une problématique professionnelle concernant la formation et la circulation des trains, portant sur cinq thèmes :
 
-anglais ou espagnol ou italien ou allemand.
+- les règles liées à la sécurité du personnel,
 
-Le candidat est amené à :
+- la formation des trains en situation normale,
 
-- concevoir et formuler une annonce destinée à informer la clientèle, à partir d'un sujet proposé par l'évaluateur.
+- la circulation des trains en situation normale,
 
-- soutenir un échange commercial dans le cadre d'un jeu de rôle dans lequel l'évaluateur tient le rôle d'un client étranger. Le candidat pourra disposer de documents supports d'appui (horaires, plans, guides clientèle, ...)
+- les installations de sécurité et leur fonctionnement,
+
+- les opérations de travaux sur les voies, les installations de sécurité et les installations de traction électriques.
+
+A l'issue de la situation d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'épreuve ponctuelle correspondante, la proposition de note est établie par un formateur de l'équipe pédagogique du centre de formation.
+
+Elle est jointe au dossier du candidat et transmise au jury.
+
+Le jury pourra éventuellement demander à avoir communication de tous documents utiles qui seront tenus à la disposition du jury et de l'autorité rectorale pour la session considérée jusqu'à la sessionsuivante.

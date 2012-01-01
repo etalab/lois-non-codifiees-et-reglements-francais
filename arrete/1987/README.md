@@ -91,7 +91,6 @@
 - [Arrêté du 5 mars 1987 (ECOT8730011A)](arrete-du-5-mars-1987-ecot8730011a)
 - [Arrêté du 5 mars 1987 (MCCB8700078A)](arrete-du-5-mars-1987-mccb8700078a)
 - [Arrêté du 5 novembre 1987 (ASEG8703790A)](arrete-du-5-novembre-1987-aseg8703790a)
-- [Arrêté du 5 novembre 1987 (RESB8700736A)](arrete-du-5-novembre-1987-resb8700736a)
 - [Arrêté du 5 octobre 1987 (JUSB8710331A)](arrete-du-5-octobre-1987-jusb8710331a)
 - [Arrêté du 5 octobre 1987 (JUSB8710332A)](arrete-du-5-octobre-1987-jusb8710332a)
 - [Arrêté du 5 mai 1987 (BUDF8710032A)](arrete-du-5-mai-1987-budf8710032a)
