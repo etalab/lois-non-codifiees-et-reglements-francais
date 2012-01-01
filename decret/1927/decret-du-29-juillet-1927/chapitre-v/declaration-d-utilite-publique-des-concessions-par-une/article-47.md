@@ -1,5 +1,0 @@
-# Article 47
-
-Lorsque le cahier des charges d'une demande de concession par une commune ou un syndicat de communes est conforme au cahier des charges-type, qu'aucune déclaration contraire au projet n'a été produite à l'enquête et que l'avis du commissaire enquêteur est favorable, la déclaration d'utilité publique est prononcée et la concession est approuvée par arrêté motivé du préfet, en vertu de l'article 58 du décret du 5 novembre 1926. Pour les syndicats comprenant des communes situées dans des départements différents, la déclaration d'utilité publique est prononcée et la concession est approuvée par le préfet du département auquel appartient la commune, lieu du siège du syndicat.
-
-Lorsque les conditions ci-dessus ne sont pas toutes remplies, le dossier est adressé au ministre des travaux publics avec l'acte de concession passé par l'autorité locale compétente ; la concession est approuvée et déclarée d'utilité publique par un décret délibéré en conseil d'Etat sur le rapport des ministres des travaux publics et de l'intérieur, après avis du ministre de l'agriculture culture et de l'administration des postes et télégraphes.

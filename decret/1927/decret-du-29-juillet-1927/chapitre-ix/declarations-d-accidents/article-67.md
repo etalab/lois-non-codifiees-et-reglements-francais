@@ -1,5 +1,0 @@
-# Article 67
-
-Toutes les fois qu'il arrive un accident entraînant mort d'homme ou blessure grave, le permissionnaire ou concessionnaire en fait immédiatement déclaration, par la voie la plus rapide à l'agent local du contrôle technique ; cette déclaration est faite soit verbalement, par exprès, soit par dépêche télégraphique ou téléphonique et confirmée par lettre. Avis en est envoyé par la voie la plus rapide à l'ingénieur en chef du contrôle du département et au procureur de République, ainsi qu'à l'ingénieur en chef centralisateur, si l'accident concerne les installations sous le régime de concession de distribution aux services publics ou transport.
-
-Avis doit également être donné, le échéant, à ce dernier ingénieur en chef dans le cas des concessions de distribution aux services publics ou de transport, en tout cas, aux ingénieurs en chef du contrôle des départements intéressés, à l'agent du contrôle technique, des incendies ou troubles importants survenus dans le service de la distribution ou du transport.

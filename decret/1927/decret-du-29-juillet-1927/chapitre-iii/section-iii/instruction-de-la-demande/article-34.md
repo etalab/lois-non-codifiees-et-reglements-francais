@@ -1,3 +1,0 @@
-# Article 34
-
-L'ingénieur en chef du contrôle de chaque département intéressé transmet, avec son rapport, le dossier d'enquête au préfet qui l'adresse, avec son avis, à l'ingénieur en chef chargé de centraliser l'instruction administrative et le contrôle. Ce dernier entend les concessionnaires antérieurs qui le demandent, provoque les conférences entre les services intéressés, dont les avis doivent lui parvenir dans le délai d'un mois, invite le demandeur à faire connaître ses propositions dans le cas où des objections auraient été formulées au cours de l'instruction et transmet le dossier au ministre des travaux publics avec son rapport accompagné des projets de convention et de cahier des charges.

@@ -1,3 +1,0 @@
-# Article 45
-
-Dans tous les cas où le cahier des charges de la concession n'est pas conforme à l'un des cahiers des charges-type arrêtés en exécution de l'article 6 de la loi du 15 juin 1906, le dossier de la concession, après l'instruction prévue aux chapitres ci-dessus, est transmis, par les soins du ministre des travaux publics, an conseil d'Etat, avec les avis du ministre de l'intérieur, du ministre de l'agriculture et de l'administration des postes et télégraphes, si les intérêts de ces administrations sont en cause. L'approbation de la concession est prononcée par décret, conformément aux dispositions de l'article 7 de la loi du 15 juin 1906.
