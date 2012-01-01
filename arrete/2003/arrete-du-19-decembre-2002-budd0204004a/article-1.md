@@ -118,24 +118,24 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="254">
-<p>Graisses des animaux des espèces bovine, ovine ou caprine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine.</p>
+<p>Graisses des animaux des espèces bovine, ovine ou caprine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine, à l'exclusion du suif.</p>
 </td>
 <td rowspan="2" valign="top" width="96">
-<p align="center">1502.00.90</p>
+<p align="center">1502 90 90</p>
 </td>
 <td valign="top" width="232">
-<p>Graisses des animaux de l'espèce bovine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine.</p>
+<p align="left">Graisses des animaux de l'espèce bovine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine, à l'exclusion du suif.</p>
 </td>
 <td valign="top" width="98">
-<p align="center">1502.00.90.1</p>
+<p align="center">1502 90 90 1</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="232">
-<p>Graisses des animaux des espèces ovine ou caprine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine.</p>
+<p align="left">Graisses des animaux des espèces ovine ou caprine, autres que celles du n° 1503 et de celles destinées à des usages industriels autres que la fabrication de produits pour l'alimentation humaine, à l'exclusion du suif.</p>
 </td>
 <td valign="top" width="98">
-<p align="center">1502.00.90.2</p>
+<p align="center">1502 90 90 2</p>
 </td>
 </tr>
 <tr>
@@ -199,16 +199,2616 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="254">
-<p>Farines, poudres et agglomérés sous forme de pellets, de viandes ou d'abats; cretons.</p>
+<td rowspan="9" valign="top" width="254">
+<p align="left">Vins mousseux produits à partir de raisins frais avec une appellation d'origine protégée (AOP) (à l'exclusion de l'Asti spumante et du Champagne).</p>
 </td>
-<td rowspan="3" valign="top" width="96">
-<p align="center">2301.10.00</p>
+<td rowspan="9" valign="top" width="96">
+<p align="center">2204 10 93</p>
 </td>
 <td valign="top" width="232">
-<p>Farines, poudres et agglomérés, de l'espèce bovine, sous forme de pellets, de viandes ou d'abats.</p>
+<p align="left">Crémant de Loire.</p>
 </td>
 <td valign="top" width="98">
+<p align="center">2204 10 93 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crémant d'Alsace.</p>
+</td>
+<td>
+<p align="center">2204 10 93 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vouvray.</p>
+</td>
+<td>
+<p align="center">2204 10 93 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saumur.</p>
+</td>
+<td>
+<p align="center">2204 10 93 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Limoux.</p>
+</td>
+<td>
+<p align="center">2204 10 93 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Clairette et crémant de Die.</p>
+</td>
+<td>
+<p align="center">2204 10 93 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crémant de Bourgogne.</p>
+</td>
+<td>
+<p align="center">2204 10 93 7</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres AOP (français mousseux).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 10 93 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins mousseux.</p>
+</td>
+<td>
+<p align="center">2204 10 93 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins blancs d'Alsace, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (sauf vins mousseux et pétillants).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 11</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Alsace Riesling.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 11 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace Gewurztraminer.</p>
+</td>
+<td>
+<p align="center">2204 21 11 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace Pinot blanc.</p>
+</td>
+<td>
+<p align="center">2204 21 11 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace Sylvaner.</p>
+</td>
+<td>
+<p align="center">2204 21 11 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace Pinot gris.</p>
+</td>
+<td>
+<p align="center">2204 21 11 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vendanges tardives et sélection de grains nobles (Alsace et Grand Cru).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 11 6</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Alsace Edelzwicker, Gentil et sans mention de cépages.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 11 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace Grand Cru.</p>
+</td>
+<td>
+<p align="center">2204 21 11 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres Alsace blancs.</p>
+</td>
+<td>
+<p align="center">2204 21 11 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins blancs de Bordeaux, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (sauf vins mousseux et pétillants).</p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 21 12</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bordeaux.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 12 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Entre-deux-mers (y.c. Haut Benauge).</p>
+</td>
+<td>
+<p align="center">2204 21 12 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres vins blancs secs (Côtes de Blaye, Premières Côtes de Blaye, Côtes de Bourg, Côtes de Francs, Graves de Vayres).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 12 3</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Graves et Pessac-Léognan (non compris Graves Supérieures).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 12 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Sauternes et Barsac.</p>
+</td>
+<td>
+<p align="center">2204 21 12 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres blancs doux (y compris Graves Supérieures).</p>
+</td>
+<td>
+<p align="center">2204 21 12 6</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins blancs de Bourgogne, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (sauf vins mousseux et pétillants).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 13</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Grands Crus de la Côte-d'Or.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 13 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte-d'Or.</p>
+</td>
+<td>
+<p align="center">2204 21 13 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de la Côte chalonnaise.</p>
+</td>
+<td>
+<p align="center">2204 21 13 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crus du Mâconnais.</p>
+</td>
+<td>
+<p align="center">2204 21 13 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chablis Grands Crus et Premiers Crus.</p>
+</td>
+<td>
+<p align="center">2204 21 13 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Mâcon (dont Mâcon Supérieur et Mâcon Villages).</p>
+</td>
+<td>
+<p align="center">2204 21 13 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Régionales de Bourgogne.</p>
+</td>
+<td>
+<p align="center">2204 21 13 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chablis et Petit Chablis.</p>
+</td>
+<td>
+<p align="center">2204 21 13 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de l'Auxerrois-Tonnerrois.</p>
+</td>
+<td>
+<p align="center">2204 21 13 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins blancs du Val de Loire, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (sauf vins mousseux et pétillants).</p>
+</td>
+<td align="left" rowspan="8" valign="top">
+<p align="center">2204 21 17</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Gros Plant.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 17 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscadet.</p>
+</td>
+<td>
+<p align="center">2204 21 17 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Sancerre.</p>
+</td>
+<td>
+<p align="center">2204 21 17 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Anjou, Saumur et Savennières.</p>
+</td>
+<td>
+<p align="center">2204 21 17 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Coteaux du Layon et autres vins moelleux.</p>
+</td>
+<td>
+<p align="center">2204 21 17 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Touraine (avec ou sans nom de commune).</p>
+</td>
+<td>
+<p align="center">2204 21 17 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vouvray.</p>
+</td>
+<td>
+<p align="center">2204 21 17 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP blancs du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 21 17 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins blancs produits dans la Communauté, en<br/>récipientsd'une contenance n'excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants, du Vinho<br/>Verde et des vins d'Alsace, de Bordeaux, de Bourgogne,<br/>du Val de Loire, de Mosel, du Palatinat, de Hesse rhénane,<br/>de Tokaj, du Latium, de Toscane, du Trentin, du Haut-Adige,<br/>du Frioul, de Vénétie, de Penedés, de la Rioja et de Valencia).</p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 21 38</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bergerac.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 38 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Côtes du Rhône.</p>
+</td>
+<td>
+<p align="center">2204 21 38 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Languedoc.</p>
+</td>
+<td>
+<p align="center">2204 21 38 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Roussillon.</p>
+</td>
+<td>
+<p align="center">2204 21 38 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP blancs français.</p>
+</td>
+<td>
+<p align="center">2204 21 38 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP blancs produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 38 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de Bordeaux, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des<br/>vins mousseux, des vins pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 42</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bordeaux rouge.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 42 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bordeaux Supérieur.</p>
+</td>
+<td>
+<p align="center">2204 21 42 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Côtes de Bordeaux (Blaye, Cadillac, Castillon, Francs), Côtes de Bourg, Graves de Vayres, Sainte Foy Bordeaux.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 42 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Graves et Pessac-Léognan.</p>
+</td>
+<td>
+<p align="center">2204 21 42 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Médoc et Haut-Médoc.</p>
+</td>
+<td>
+<p align="center">2204 21 42 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Communales du Médoc (Margaux, Pauillac, Saint-Julien, Saint-Estèphe, Moulis, Listrac).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 42 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saint-Emilion et Saint-Emilion Grand Cru.</p>
+</td>
+<td>
+<p align="center">2204 21 42 7</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres Libournais (Montagne, Puisseguin, Lussac, Saint-Georges, Pomerol, Lalande de Pomerol, Fronsac, Canon-Fronsac).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 42 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bordeaux rosé et Clairet.</p>
+</td>
+<td>
+<p align="center">2204 21 42 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins de Bourgogne, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 43</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Grands Crus de la Côte-d'Or.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 43 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte de Beaune.</p>
+</td>
+<td>
+<p align="center">2204 21 43 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte de Nuits.</p>
+</td>
+<td>
+<p align="center">2204 21 43 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de la Côte chalonnaise.</p>
+</td>
+<td>
+<p align="center">2204 21 43 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Mâcon (dont Mâcon Supérieur).</p>
+</td>
+<td>
+<p align="center">2204 21 43 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Régionales de Bourgogne.</p>
+</td>
+<td>
+<p align="center">2204 21 43 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de l'Auxerrois-Tonnerrois.</p>
+</td>
+<td>
+<p align="center">2204 21 43 7</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins du Beaujolais, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 44</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Beaujolais et Beaujolais Villages Nouveaux ou Primeurs, rouges.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais (hors Nouveaux ou Primeurs) et Beaujolais Supérieur, rouges.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais Villages (hors Nouveaux ou Primeurs), rouges.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crus du Beaujolais.</p>
+</td>
+<td>
+<p align="center">2204 21 44 4</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais et Beaujolais Villages Nouveaux ou Primeurs, rosés.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais (hors Nouveaux ou Primeurs) et Beaujolais Supérieur, rosés.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 6</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais Villages (hors Nouveaux ou Primeurs), rosés.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 44 7</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Vins du Côtes du Rhône, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2204 21 46</p>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Châteauneuf-du-Pape</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 46 1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres AOP locales méridionales (Gigondas, Lirac, Tavel, Vacqueyras, Beaumes de Venise, Vinsobres, Rasteau).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 46 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">AOP locales septentrionales (Côtes-Rôtie, Cornas, Crozes-Hermitage, Hermitage, Saint-Joseph).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 46 3</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Côtes du Rhône Villages (communaux ou non).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 46 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Côtes du Rhône (régionaux).</p>
+</td>
+<td>
+<p align="center">2204 21 46 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins du Languedoc-Roussillon, en récipients<br/>d'une contenance n'excédant pas 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 47</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fitou.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 47 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Corbières.</p>
+</td>
+<td>
+<p align="center">2204 21 47 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Minervois.</p>
+</td>
+<td>
+<p align="center">2204 21 47 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Languedoc.</p>
+</td>
+<td>
+<p align="center">2204 21 47 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Faugères.</p>
+</td>
+<td>
+<p align="center">2204 21 47 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saint-Chinian.</p>
+</td>
+<td>
+<p align="center">2204 21 47 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Costières de Nîmes.</p>
+</td>
+<td>
+<p align="center">2204 21 47 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Roussillon.</p>
+</td>
+<td>
+<p align="center">2204 21 47 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres Languedoc-Roussillon.</p>
+</td>
+<td>
+<p align="center">2204 21 47 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins du Val de Loire, en récipients d'une contenance<br/>n'excédant pas 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol,<br/>avec AOP (à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="8" valign="top">
+<p align="center">2204 21 48 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sancerre.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 48 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Anjou rouge et Anjou Villages.</p>
+</td>
+<td>
+<p align="center">2204 21 48 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saumur rouge et Saumur Champigny.</p>
+</td>
+<td>
+<p align="center">2204 21 48 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bourgueil et Saint-Nicolas de Bourgueil.</p>
+</td>
+<td>
+<p align="center">2204 21 48 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chinon.</p>
+</td>
+<td>
+<p align="center">2204 21 48 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Touraine (avec ou sans nom de commune).</p>
+</td>
+<td>
+<p align="center">2204 21 48 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Rosé d'Anjou et cabernet d'Anjou.</p>
+</td>
+<td>
+<p align="center">2204 21 48 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP rouges et rosés du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 21 48 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux, des vins pétillants, des vins blancs et<br/>des vins de Bordeaux, de Bourgogne, du Beaujolais,<br/>des Côtes-du-Rhône, du Languedoc-Roussillon,<br/>du Val de Loire, du Piémont, de Toscane, du<br/>Trentin, du Haut-Adige, de Vénétie, du Dão,<br/>de la Barraida, du Douro, de Navarra, de Penedés,<br/>de la Rioja et de Valdepeñas).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 78</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 78 1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 78 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ventoux.</p>
+</td>
+<td>
+<p align="center">2204 21 78 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bergerac.</p>
+</td>
+<td>
+<p align="center">2204 21 78 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cahors.</p>
+</td>
+<td>
+<p align="center">2204 21 78 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alsace (Pinot noir rouges et rosés).</p>
+</td>
+<td>
+<p align="center">2204 21 78 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Grignan les Adhémar.</p>
+</td>
+<td>
+<p align="center">2204 21 78 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Luberon.</p>
+</td>
+<td>
+<p align="center">2204 21 78 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP rouges et rosés.</p>
+</td>
+<td>
+<p align="center">2204 21 78 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins blancs produits dans la Communauté,<br/>en récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique<br/>acquis n'excédant pas 15 % vol, avec indication<br/>géographique protégée (IGP) (à l'exclusion des<br/>vins mousseux et des vins pétillants).</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 79 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 79 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP Pays d'Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 79 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 21 79 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP de la région Languedoc-Roussillon sauf Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 79 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vins à IGP des régions Provence-Alpes-Côte d'Azur, Rhône-Alpes et Corse.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 79 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs français à IGP.</p>
+</td>
+<td>
+<p align="center">2204 21 79 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs à IGP produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 79 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins produits dans la Communauté, en<br/>récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique<br/>acquis n'excédant pas 15 % vol, avec IGP<br/>(à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 80</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 80 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP Pays d'Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 80 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 21 80 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP de la région Languedoc-Roussillon sauf Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 80 5</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vins à IGP des régions Provence-Alpes-Côte d'Azur, Rhône-Alpes et Corse.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 80 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rouges et rosés français à IGP.</p>
+</td>
+<td>
+<p align="center">2204 21 80 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres vins rouges et rosés à IGP produits dans la Communauté.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 80 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Vins blancs de cépages sans AOP et IGP,<br/>produits dans la Communauté, en récipients<br/>d'une contenance n'excédant pas 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol (à l'exclusion des<br/>vins mousseux et des vins pétillants).</p>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2204 21 81</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Blanc, Chardonnay français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 81 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, Sauvignon français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, bicépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, autres cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Blanc, avec mention de cépage(s) produit(s) dans la Communauté.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 81 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis <br/>'excédant pas 15 % vol (à l'exclusion des<br/>vins mousseux, des vins pétillants et des vins blancs).</p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 82</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Rouge, Merlot français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 82 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Syrah français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Cabernet Sauvignon français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Pinot français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Gamay français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, bicépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, autres cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rosé, cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Rouge et Rosé, avec mention de cépage(s) produit(s) dans un Etat membre de la Communauté.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 82 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Vins blancs produits dans la Communauté,<br/>en récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol<br/>(à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins de cépages).</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="center">2204 21 83</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Autres vins blancs français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 83 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 83 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Vins produits dans la Communauté, en<br/>récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol<br/>(à l'exclusion des vins mousseux, des vins<br/>pétillants, des vins blancs et des vins de cépages).</p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2204 21 84</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Autres vins rouges français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 84 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rosés français.</p>
+</td>
+<td>
+<p align="center">2204 21 84 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rouges et rosés produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 84 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins produits dans la Communauté, en<br/>récipients d'une contenance n'excédant pas<br/>2 litres, ayant un titre alcoométrique volumique<br/>acquis excédant 15 % vol et n'excédant pas<br/>22 % vol, avec AOP ou IGP (à l'exclusion des<br/>vins de Madère, de Xérès, de Marsala,<br/>de Samos et de Porto, ainsi que du<br/>moscatel de Setúbal et du muscat de Lemnos).</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 90</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Muscat de Rivesaltes.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 90 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Banyuls et Banyuls Grand cru.</p>
+</td>
+<td>
+<p align="center">2204 21 90 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Rivesaltes.</p>
+</td>
+<td>
+<p align="center">2204 21 90 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscat de Frontignan.</p>
+</td>
+<td>
+<p align="center">2204 21 90 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscat de Beaumes de Venise.</p>
+</td>
+<td>
+<p align="center">2204 21 90 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP français (de 15° à 22°).</p>
+</td>
+<td>
+<p align="center">2204 21 90 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP (de 15° à 22°) produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 90 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins blancs de Bordeaux, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux et des vins pétillants).</p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 29 12 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bordeaux.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 12 1</p>
+</td>
+</tr>
+<tr>
+<td>Entre-deux-mers (y.c. Haut Benauge).</td>
+<td>
+<p align="center">2204 29 12 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Autres vins blancs secs (Côtes de Blaye, Premières Côtes de Blaye, Côtes de Bourg, Côtes de Francs, Graves de Vayres).</td>
+<td align="left" valign="top">
+<p align="center">2204 29 12 3</p>
+</td>
+</tr>
+<tr>
+<td>Graves et Pessac-Léognan (non compris Graves Supérieures).</td>
+<td>
+<p align="center">2204 29 12 4</p>
+</td>
+</tr>
+<tr>
+<td>Sauternes et Barsac.</td>
+<td>
+<p align="center">2204 29 12 5</p>
+</td>
+</tr>
+<tr>
+<td>Autres blancs doux (y compris Graves Supérieures).</td>
+<td>
+<p align="center">2204 29 12 6</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins blancs de Bourgogne, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux et des vins pétillants).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 29 13</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Grands Crus de la Côte-d'Or.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 13 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte-d'Or.</p>
+</td>
+<td>
+<p align="center">2204 29 13 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de la Côte chalonnaise.</p>
+</td>
+<td>
+<p align="center">2204 29 13 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crus du Mâconnais.</p>
+</td>
+<td>
+<p align="center">2204 29 13 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chablis Grands Crus et Premiers Crus.</p>
+</td>
+<td>
+<p align="center">2204 29 13 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Mâcon (dont Mâcon Supérieur et Mâcon Villages).</p>
+</td>
+<td>
+<p align="center">2204 29 13 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Régionales de Bourgogne.</p>
+</td>
+<td>
+<p align="center">2204 29 13 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chablis et Petit Chablis.</p>
+</td>
+<td>
+<p align="center">2204 29 13 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de l'Auxerrois-Tonnerrois.</p>
+</td>
+<td>
+<p align="center">2204 29 13 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins blancs du Val de Loire, en récipients<br/>d'une contenance excédant 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux et des vins pétillants).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="8" valign="top">
+<p align="center">2204 29 17</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Gros Plant.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 17 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscadet.</p>
+</td>
+<td>
+<p align="center">2204 29 17 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Sancerre.</p>
+</td>
+<td>
+<p align="center">2204 29 17 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Anjou, Saumur et Savennières.</p>
+</td>
+<td>
+<p align="center">2204 29 17 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Coteaux du Layon et autres vins moelleux.</p>
+</td>
+<td>
+<p align="center">2204 29 17 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Touraine (avec ou sans nom de commune).</p>
+</td>
+<td>
+<p align="center">2204 29 17 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vouvray.</p>
+</td>
+<td>
+<p align="center">2204 29 17 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP blancs du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 29 17 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins blancs produits dans la Communauté, en<br/>récipients d'une contenance excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et<br/>des vins de Tokaj, de Bordeaux, de Bourgogne<br/>et du Val de Loire).</p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 29 18</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bergerac.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 18 1</p>
+</td>
+</tr>
+<tr>
+<td>Côtes du Rhône.</td>
+<td>
+<p align="center">2204 29 18 3</p>
+</td>
+</tr>
+<tr>
+<td>Languedoc.</td>
+<td>
+<p align="center">2204 29 18 4</p>
+</td>
+</tr>
+<tr>
+<td>Roussillon.</td>
+<td>
+<p align="center">2204 29 18 5</p>
+</td>
+</tr>
+<tr>
+<td>Autres AOP blancs français.</td>
+<td>
+<p align="center">2204 29 18 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP blancs produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 29 18 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de Bordeaux, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux, des vins pétillants et des vins blancs).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 29 42</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Bordeaux rouge.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 42 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bordeaux Supérieur.</p>
+</td>
+<td>
+<p align="center">2204 29 42 2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Côtes de Bordeaux (Blaye, Cadillac, Castillon, Francs), Côtes de Bourg, Graves de Vayres, Sainte Foy Bordeaux.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 42 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Graves et Pessac-Léognan.</p>
+</td>
+<td>
+<p align="center">2204 29 42 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Médoc et Haut-Médoc.</p>
+</td>
+<td>
+<p align="center">2204 29 42 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Communales du Médoc (Margaux, Pauillac, Saint-Julien, Saint-Estèphe, Moulis, Listrac).</p>
+</td>
+<td>
+<p align="center">2204 29 42 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saint-Emilion et Saint-Emilion Grand Cru.</p>
+</td>
+<td>
+<p align="center">2204 29 42 7</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres Libournais (Montagne, Puisseguin, Lussac, Saint-Georges, Pomerol, Lalande de Pomerol, Fronsac, Canon-Fronsac).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 42 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bordeaux rosé et Clairet.</p>
+</td>
+<td>
+<p align="center">2204 29 42 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins de Bourgogne, en récipients d'une contenance<br/>excédant 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol,<br/>avec AOP (à l'exclusion des vins mousseux,<br/>des vins pétillants et des vins blancs). </p>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 29 43 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Grands Crus de la Côte-d'Or. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 43 1 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte de Beaune. </p>
+</td>
+<td>
+<p align="center">2204 29 43 2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages et Premiers Crus de la Côte de Nuits. </p>
+</td>
+<td>
+<p align="center">2204 29 43 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Mâcon (dont Mâcon Supérieur). </p>
+</td>
+<td>
+<p align="center">2204 29 43 5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Régionales de Bourgogne </p>
+</td>
+<td>
+<p align="center">2204 29 43 6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Villages de l'Auxerrois-Tonnerrois</p>
+</td>
+<td>
+<p align="center">2204 29 43 7 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins du Beaujolais, en récipients d'une contenance<br/>excédant 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 29 44 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Beaujolais et Beaujolais Villages Nouveaux ou Primeurs, rouges. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 44 1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais (hors Nouveaux ou Primeurs) et Beaujolais Supérieur, rouges. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 44 2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais Villages (hors Nouveaux ou Primeurs), rouge. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 44 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Crus du Beaujolais. </p>
+</td>
+<td>
+<p align="center">2204 29 44 4 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais et Beaujolais Villages Nouveaux ou Primeurs, rosés. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 44 5 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Beaujolais (hors Nouveaux ou Primeurs) et Beaujolais Supérieur, rosés. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 44 6 </p>
+</td>
+</tr>
+<tr>
+<td>Beaujolais Villages (hors Nouveaux ou Primeurs), rosé. </td>
+<td>
+<p align="center">2204 29 44 7 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Vins des Côtes du Rhône, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion. des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2204 29 46 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Châteauneuf-du-Pape. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 46 1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres AOP locales méridionales (Gigondas, Lirac, Tavel, Vacqueyras, Beaumes de Venise, Vinsobres, Rasteau). </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 46 2 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">AOP locales septentrionales (Côtes-Rôtie, Cornas, Crozes-Hermitage, Hermitage, Saint-Joseph). </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 46 3 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Côtes du Rhône Villages (communaux ou non). </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 46 4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Côtes du Rhône (régionaux). </p>
+</td>
+<td>
+<p align="center">2204 29 46 5 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins du Languedoc-Roussillon, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 29 47 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fitou. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 47 1 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Corbières.</p>
+</td>
+<td>
+<p align="center">2204 29 47 2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Minervois. </p>
+</td>
+<td>
+<p align="center">2204 29 47 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Languedoc.</p>
+</td>
+<td>
+<p align="center">2204 29 47 4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Faugères.</p>
+</td>
+<td>
+<p align="center">2204 29 47 5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saint-Chinian. </p>
+</td>
+<td>
+<p align="center">2204 29 47 6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Costières de Nîmes. </p>
+</td>
+<td>
+<p align="center">2204 29 47 7 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Roussillon.</p>
+</td>
+<td>
+<p align="center">2204 29 47 8 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres Languedoc-Roussillon. </p>
+</td>
+<td>
+<p align="center">2204 29 47 9 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins du Val de Loire, en récipients d'une contenance<br/>excédant 2 litres, ayant un titre alcoométrique<br/>volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+</td>
+<td align="left" rowspan="8" valign="top">
+<p align="center">2204 29 48 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sancerre. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 48 1 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Anjou rouge et Anjou Villages. </p>
+</td>
+<td>
+<p align="center">2204 29 48 2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saumur rouge et Saumur Champigny. </p>
+</td>
+<td>
+<p align="center">2204 29 48 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bourgueil et Saint-Nicolas de Bourgueil. </p>
+</td>
+<td>
+<p align="center">2204 29 48 4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chinon. </p>
+</td>
+<td>
+<p align="center">2204 29 48 5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Touraine (avec ou sans nom de commune). </p>
+</td>
+<td>
+<p align="center">2204 29 48 6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Rosé d'Anjou et cabernet d'Anjou. </p>
+</td>
+<td>
+<p align="center">2204 29 48 7 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP rouges et rosés du Val de Loire. </p>
+</td>
+<td>
+<p align="center">2204 29 48 9 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance excédant 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant pas<br/>15 % vol (à l'exclusion des vins mousseux, des vins pétillants, des vins blancs et des vins de Bordeaux, de Bourgogne, du Beaujolais, des Côtes-du-Rhône, du Languedoc-Roussillon<br/>et du Val de Loire). </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="8" valign="top">
+<p align="center">2204 29 58 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix­en-Provence, Coteaux Varois en Provence, Bandol et autres AOP). </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 58 1 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP). </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 58 2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ventoux. </p>
+</td>
+<td>
+<p align="center">2204 29 58 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Bergerac. </p>
+</td>
+<td>
+<p align="center">2204 29 58 4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cahors.</p>
+</td>
+<td>
+<p align="center">2204 29 58 5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Grignan les Adhémar. </p>
+</td>
+<td>
+<p align="center">2204 29 58 7 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Luberon. </p>
+</td>
+<td>
+<p align="center">2204 29 58 8 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP rouges et rosés. </p>
+</td>
+<td>
+<p align="center">2204 29 58 9 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins blancs de raisins frais, produits dans la<br/>Communauté, en récipients d'une contenance<br/>excédant 2 litres, ayant un titre alcoométrique acquis n'excédant pas 15 % vol, avec IGP (à l'exclusion des vins mousseux et des vins pétillants). </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 29 79 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins à IGP de la région Midi-Pyrénées. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 79 2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP Pays d'Oc. </p>
+</td>
+<td>
+<p align="center">2204 29 79 3 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP du Val de Loire. </p>
+</td>
+<td>
+<p align="center">2204 29 79 4 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP de la région Languedoc-Roussillon sauf Oc. </p>
+</td>
+<td>
+<p align="center">2204 29 79 5 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP des régions Provence-Alpes-Côte d'Azur, Rhône-Alpes et Corse. </p>
+</td>
+<td>
+<p align="center">2204 29 79 6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs français à IGP. </p>
+</td>
+<td>
+<p align="center">2204 29 79 8 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs à IGP produits dans la Communauté. </p>
+</td>
+<td>
+<p align="center">2204 29 79 9 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins produits dans la Communauté, en récipients d'une contenance n'excédant pas 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant pas 15 % vol,<br/>avec IGP (à l'exclusion des vins mousseux, des vins<br/>pétillants et des vins blancs).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="center">2204 21 80</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins à IGP de la région Midi-Pyrénées.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 80 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP Pays d'Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 80 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP du Val de Loire.</p>
+</td>
+<td>
+<p align="center">2204 21 80 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP de la région Languedoc-Roussillon sauf Oc.</p>
+</td>
+<td>
+<p align="center">2204 21 80 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins à IGP des régions Provence-Alpes-Côte d'Azur, Rhône-Alpes et Corse.</p>
+</td>
+<td>
+<p align="center">2204 21 80 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rouges et rosés français à IGP.</p>
+</td>
+<td>
+<p align="center">2204 21 80 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rouges et rosés à IGP produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 80 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Vins blancs de cépages sans AOP et IGP, produits<br/>dans la Communauté, en récipients d'une contenance<br/>n'excédant pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol (à l'exclusion des vins mousseux et des vins pétillants).</p>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2204 21 81</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Blanc, Chardonnay français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 81 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, Sauvignon français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, bicépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, autres cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 81 8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Blanc, avec mention de cépage(s) produit(s) dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 21 81 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de cépages sans AOP et IGP, produits dans<br/>la Communauté, en récipients d'une contenance n'excédant<br/>pas 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol (à l'exclusion des vins mousseux,<br/>des vins pétillants et des vins blancs).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="9" valign="top">
+<p align="center">2204 21 82 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Rouge, Merlot français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 82 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Syrah français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Cabernet Sauvignon français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Pinot français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, Gamay français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, bicépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rouge, autres cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vins sans IG Rosé, cépages français.</p>
+</td>
+<td>
+<p align="center">2204 21 82 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Vins sans IG Rouge et Rosé, avec mention de cépage(s) produit(s) dans un Etat membre de la Communauté.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 21 82 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Vins blancs produits dans la Communauté, en récipients<br/>d'une contenance excédant 2 litres, ayant un titre<br/>alcoométrique acquis n'excédant pas 15 % vol (à l'exclusion. des vins mousseux, des vins pétillants et des vins de cépages).</p>
+<br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="center">2204 29 83</p>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Autres vins blancs français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 83 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins blancs produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 29 83 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance excédant 2 litres, ayant un titre<br/>alcoométrique acquis n'excédant pas 15 % vol<br/>(à l'exclusion des vins mousseux, des vins<br/>pétillants, des vins blancs et des vins de cépages).</p>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2204 29 84</p>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Autres vins rouges français.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 84 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rosés français.</p>
+</td>
+<td>
+<p align="center">2204 29 84 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres vins rouges et rosés produits dans la Communauté.</p>
+</td>
+<td>
+<p align="center">2204 29 84 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis excédant 15 %<br/>vol et n'excédant pas 22 % vol, avec AOP ou IGP (à l'exclusion des vins de Madère, de Xérès, de Marsala,<br/>de Samos et de Porto, ainsi que du moscatel de Setúbal et du muscat de Lemnos).</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="6" valign="top">
+<p align="center">2204 29 90</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Muscat de Rivesaltes.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2204 29 90 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Banyuls et Banyuls Grand cru.</p>
+</td>
+<td>
+<p align="center">2204 29 90 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Rivesaltes.</p>
+</td>
+<td>
+<p align="center">2204 29 90 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscat de Frontignan.</p>
+</td>
+<td>
+<p align="center">2204 29 90 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Muscat de Beaumes de Venise.</p>
+</td>
+<td>
+<p align="center">2204 29 90 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres AOP français (de 15° à 22°).</p>
+</td>
+<td>
+<p align="center">2204 29 90 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Liqueurs, présentées en récipients d'une contenance n'excédant pas 2 litres.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2208 70 10 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Liqueurs à base de cassis.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2208 70 10 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de fruits autres que de cassis.</p>
+</td>
+<td>
+<p align="center">2208 70 10 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de plantes et/ou de graines.</p>
+</td>
+<td>
+<p align="center">2208 70 10 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de substances autres que végétales.</p>
+</td>
+<td>
+<p align="center">2208 70 10 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres liqueurs.</p>
+</td>
+<td>
+<p align="center">2208 70 10 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">
+<p align="left">Liqueurs, présentées en récipients d'une contenance<br/>excédant 2 litres.</p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="5" valign="top">
+<p align="center">2208 70 90</p>
+<br/>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Liqueurs à base de cassis.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2208 70 90 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de fruits autres que de cassis.</p>
+</td>
+<td>
+<p align="center">2208 70 90 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de plantes et/ou de graines.</p>
+</td>
+<td>
+<p align="center">2208 70 90 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Liqueurs à base de substances autres que végétales.</p>
+</td>
+<td>
+<p align="center">2208 70 90 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres liqueurs.</p>
+</td>
+<td>
+<p align="center">2208 70 90 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Eaux-de-vie de fruits, présentées en récipients d'une contenance n'excédant pas 2 litres (à l'exclusion du<br/>Calvados et des eaux-de-vie de prunes, de poires et<br/>de cerises).</p>
+<br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="center">2208 90 48</p>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Eaux-de-vie de cidre.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2208 90 48 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres eaux-de-vie de fruits non dénommées ailleurs.</p>
+</td>
+<td>
+<p align="center">2208 90 48 9</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Eaux-de-vie de fruits, présentées en récipients d'une contenance excédant 2 litres (à l'exclusion des<br/>eaux-de-vie de prunes, de poires ou de cerises).</p>
+<br/>
+<br/>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2208 90 71 </p>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Eaux-de-vie du Calvados (AOP).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2208 90 71 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Eaux-de-vie de cidre.</p>
+</td>
+<td>
+<p align="center">2208 90 71 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Autres eaux-de-vie de fruits non dénommées ailleurs.</p>
+</td>
+<td>
+<p align="center">2208 90 71 8</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="top">
+<p>Farines, poudres et agglomérés sous<br/>forme de pellets, de viandes ou d'abats; cretons.</p>
+</td>
+<td align="left" rowspan="3" valign="top">
+<p align="center">2301.10.00</p>
+</td>
+<td align="left" valign="top">
+<p>Farines, poudres et agglomérés, de l'espèce bovine, sous forme de pellets, de viandes ou d'abats.</p>
+</td>
+<td align="left" valign="top">
 <p align="center">2301.10.00.1</p>
 </td>
 </tr>
