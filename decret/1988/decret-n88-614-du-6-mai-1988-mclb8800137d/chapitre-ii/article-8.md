@@ -1,15 +1,15 @@
 # Article 8
 
-Les émoluments perçus au cours du congé spécial sont ceux du traitement indiciaire afférent aux grade, classe et échelon atteints à la date de mise en congé, augmentés de l'indemnité de résidence et, s'il y a lieu, du supplément familial de traitement.
+I. - L'intéressé perçoit, pendant le congé spécial, une rémunération égale au montant du traitement indiciaire atteint à la date de la mise en congé, majoré du montant de l'indemnité de résidence et, s'il y a lieu, du supplément familial de traitement.
 
-Si le bénéficiaire perçoit, au cours du congé spécial, une autre rémunération publique, le montant de ses émoluments est réduit au seul montant de la retenue pour pension qu'il doit verser en vertu de l'article 9 ci-dessous.
+II. - Lorsque le fonctionnaire en congé spécial exerce, pendant le congé spécial, une activité rémunérée, la rémunération prévue au I est réduite :
 
-Si le bénéficiaire perçoit, au cours du congé spécial, une rémunération privée, le montant de ses émoluments est réduit :
+1° D'un tiers, si les émoluments perçus au titre de l'activité exercée sont supérieurs à la moitié de cette rémunération ;
 
-- du tiers, si la rémunération privée est supérieure à la moitié et inférieure aux deux tiers des émoluments du congé spécial ;
+2° De la moitié, s'ils sont supérieurs aux deux tiers de cette rémunération ;
 
-- de la moitié, si la rémunération privée est supérieure aux deux tiers des émoluments du congé spécial, tout en leur demeurant inférieure ;
+3° Des deux tiers, s'ils sont supérieurs à 100 % de cette rémunération ;
 
-- aux deux tiers, si la rémunération privée est supérieure aux émoluments du congé spécial et inférieure à 125 p. 100 de ces émoluments ;
+4° Au montant de la retenue pour pension que l'intéressé doit verser en application de l'article 9, s'ils sont supérieurs à 125 % de cette rémunération ;
 
-- au seul montant de la retenue pour pension que l'intéressé doit verser en vertu de l'article 9 ci-dessous, si la rémunération privée est supérieure à 125 p. 100 des émoluments du congé spécial.
+5° Au montant de la retenue pour pension, dans tous les cas où les émoluments alloués au titre de l'activité exercée pendant le congé spécial sont versés par une administration, une entreprise publique, un office, établissement ou organisme public, ou un organisme privé chargé d'une mission de service public.
