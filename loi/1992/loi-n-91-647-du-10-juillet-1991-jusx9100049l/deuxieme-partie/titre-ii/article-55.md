@@ -18,7 +18,7 @@ Il est constitué :
 
 7° De la chambre départementale des notaires ;
 
-8° Dans les départements sièges d'une cour d'appel, de la chambre de discipline des avoués près cette cour ;
+8° (Abrogé)
 
 9° A Paris, de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ;
 
