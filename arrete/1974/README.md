@@ -37,7 +37,6 @@
 - [Arrêté du 21 novembre 1974](arrete-du-21-novembre-1974)
 - [Arrêté du 22 août 1974](arrete-du-22-aout-1974)
 - [Arrêté du 22 février 1974](arrete-du-22-fevrier-1974)
-- [Arrêté du 22 mai 1974](arrete-du-22-mai-1974)
 - [Arrêté du 23 août 1974](arrete-du-23-aout-1974)
 - [Arrêté du 24 avril 1974](arrete-du-24-avril-1974)
 - [Arrêté du 25 février 1974](arrete-du-25-fevrier-1974)

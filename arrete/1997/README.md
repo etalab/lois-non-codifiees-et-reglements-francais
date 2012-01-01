@@ -825,7 +825,6 @@
 - [Arrêté du 26 décembre 1997 (ECOT9720036A)](arrete-du-26-decembre-1997-ecot9720036a)
 - [Arrêté du 26 décembre 1997 (ECOT9720037A)](arrete-du-26-decembre-1997-ecot9720037a)
 - [Arrêté du 26 décembre 1997 (ECOT9720038A)](arrete-du-26-decembre-1997-ecot9720038a)
-- [Arrêté du 26 décembre 1997 (INTA9700581A)](arrete-du-26-decembre-1997-inta9700581a)
 - [Arrêté du 26 décembre 1997 (MAEC9710116A)](arrete-du-26-decembre-1997-maec9710116a)
 - [Arrêté du 26 décembre 1997 (MEST9711601A)](arrete-du-26-decembre-1997-mest9711601a)
 - [Arrêté du 26 février 1996 (EQUS9600332A)](arrete-du-26-fevrier-1996-equs9600332a)

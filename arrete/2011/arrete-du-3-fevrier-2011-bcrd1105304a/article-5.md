@@ -1,3 +1,0 @@
-# Article 5
-
-Les contingents ne peuvent être loués, temporairement ou définitivement cédés, transférés, prêtés ou vendus. Toutefois, par arrêté conjoint des ministres chargés du budget, de l'agriculture et de l'outre-mer, le transfert d'éléments d'actifs incorporels, la fusion, l'absorption, l'achat d'un fonds de commerce ou d'une marque d'un établissement disposant d'un contingent, sous réserve que cette opération conduise à un transfert d'activité économique, peuvent entraîner le transfert de ce contingent d'exportation de rhum traditionnel.

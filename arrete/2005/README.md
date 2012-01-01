@@ -313,7 +313,6 @@
 - [Arrêté du 16 mai 2005 (EQUP0500557A)](arrete-du-16-mai-2005-equp0500557a)
 - [Arrêté du 17 août 2005 (AGRA0501757A)](arrete-du-17-aout-2005-agra0501757a)
 - [Arrêté du 17 août 2005 (AGRG0501915A)](arrete-du-17-aout-2005-agrg0501915a)
-- [Arrêté du 17 août 2005 (INTC0500613A)](arrete-du-17-aout-2005-intc0500613a)
 - [Arrêté du 17 août 2005 (MENA0501737A)](arrete-du-17-aout-2005-mena0501737a)
 - [Arrêté du 17 août 2005 (MENE0501454A)](arrete-du-17-aout-2005-mene0501454a)
 - [Arrêté du 17 décembre 2004 (DEVP0540024A)](arrete-du-17-decembre-2004-devp0540024a)

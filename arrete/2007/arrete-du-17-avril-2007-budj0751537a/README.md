@@ -3,4 +3,3 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [RECUEIL DES NORMES COMPTABLES DE L’ETAT](recueil-des-normes-comptables-de-l-etat)

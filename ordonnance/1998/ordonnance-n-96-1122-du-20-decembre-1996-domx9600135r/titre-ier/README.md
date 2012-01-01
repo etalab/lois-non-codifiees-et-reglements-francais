@@ -1,3 +1,0 @@
-# TITRE Ier : EXTENSION ET ADAPTATION DU TITRE Ier DU LIVRE VII DU CODE DE LA SANTE PUBLIQUE A LA COLLECTIVITE TERRITORIALE DE MAYOTTE
-
-- [Chapitre VII : Expérimentations et dispositions diverses.](chapitre-vii)

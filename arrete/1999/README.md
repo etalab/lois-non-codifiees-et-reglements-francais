@@ -79,7 +79,6 @@
 - [Arrêté du 4 novembre 1998 (MENF9802820A)](arrete-du-4-novembre-1998-menf9802820a)
 - [Arrêté du 4 octobre 1999 (FPPA9900125A)](arrete-du-4-octobre-1999-fppa9900125a)
 - [Arrêté du 4 octobre 1999 (MENP9901817A)](arrete-du-4-octobre-1999-menp9901817a)
-- [Arrêté du 4 mai 1999 (ECOP9900066A)](arrete-du-4-mai-1999-ecop9900066a)
 - [Arrêté du 4 mai 1999 (ECOT9991106A)](arrete-du-4-mai-1999-ecot9991106a)
 - [Arrêté du 4 mai 1999 (EQUA9900661A)](arrete-du-4-mai-1999-equa9900661a)
 - [Arrêté du 4 mai 1999 (FPPA9900063A)](arrete-du-4-mai-1999-fppa9900063a)
