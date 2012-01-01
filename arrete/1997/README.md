@@ -515,7 +515,6 @@
 - [Arrêté du 17 mars 1997 (AVIN9701106A)](arrete-du-17-mars-1997-avin9701106a)
 - [Arrêté du 17 mars 1997 (DEFT9701336A)](arrete-du-17-mars-1997-deft9701336a)
 - [Arrêté du 17 mars 1997 (ECOK9700016A)](arrete-du-17-mars-1997-ecok9700016a)
-- [Arrêté du 17 mars 1997 (ECOP9700008A)](arrete-du-17-mars-1997-ecop9700008a)
 - [Arrêté du 17 mars 1997 (ECOS9750010A)](arrete-du-17-mars-1997-ecos9750010a)
 - [Arrêté du 17 mars 1997 (INDZ9700179A)](arrete-du-17-mars-1997-indz9700179a)
 - [Arrêté du 17 mars 1997 (MENU9603695A)](arrete-du-17-mars-1997-menu9603695a)

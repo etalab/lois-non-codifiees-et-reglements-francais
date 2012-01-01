@@ -2710,8 +2710,6 @@
 - [Arrêté du 29 décembre 1999 (FPPA9900194A)](arrete-du-29-decembre-1999-fppa9900194a)
 - [Arrêté du 29 décembre 2003 (BUDL0300038A)](arrete-du-29-decembre-2003-budl0300038a)
 - [Arrêté du 29 décembre 2008 (BCFD0831368A)](arrete-du-29-decembre-2008-bcfd0831368a)
-- [Arrêté du 29 décembre 2008 (BCFL0824289A)](arrete-du-29-decembre-2008-bcfl0824289a)
-- [Arrêté du 29 décembre 2008 (BCFL0824295A)](arrete-du-29-decembre-2008-bcfl0824295a)
 - [Arrêté du 29 décembre 2008 (BCFL0824297A)](arrete-du-29-decembre-2008-bcfl0824297a)
 - [Arrêté du 29 décembre 2008 (DEVE0831384A)](arrete-du-29-decembre-2008-deve0831384a)
 - [Arrêté du 29 décembre 2008 (ECED0831199A)](arrete-du-29-decembre-2008-eced0831199a)
