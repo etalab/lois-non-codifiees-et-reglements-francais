@@ -20,19 +20,7 @@ I.-Le financement du régime de base.
 
 La couverture des prestations en nature du régime général d'assurance maladie et maternité est assurée par une cotisation à la charge des entreprises dont le taux est fixé par décret.
 
-Les cotisations dues au régime général de la sécurité sociale pour les prestations en nature des assurances maladies, maternité, accidents du travail et maladies professionnelles sont assises sur
-
-les rémunérations versées aux agents en activité qui relèvent du régime spécial de sécurité sociale du personnel des industries électriques et gazières.
-
-Sont toutefois exclues de l'assiette des cotisations les primes et les indemnités versées en application des articles 16, 26 et 27 du présent statut.
-
-Sont également exclues de l'assiette des cotisations les primes et les indemnités liées à la fonction ou à des sujétions de service ou ayant le caractère de remboursement de frais versées en application de l'article 28 du présent statut et selon les modalités en vigueur au 1er janvier 1997.
-
-Sont en revanche incluses dans l'assiette des cotisations les primes et les indemnités liées à la fonction qui sont versées, en application de l'article 28 du présent statut :
-
--au titre de l'aide à la mobilité géographique sur le territoire métropolitain ou de la mobilité fonctionnelle, et qui n'ont pas le caractère de remboursement de frais ;
-
--au titre de l'aide au logement.
+Les cotisations dues au régime général de la sécurité sociale pour les prestations en nature des assurances maladies, maternité, accidents du travail et maladies professionnelles sont assises sur les rémunérations entrant dans l'assiette des cotisations de sécurité sociale conformément aux dispositions de l'article L. 242-1 du code de la sécurité sociale et versées aux agents en activité qui relèvent du régime spécial de sécurité sociale du personnel des industries électriques et gazières.
 
 **Paragraphe 3.**
 
