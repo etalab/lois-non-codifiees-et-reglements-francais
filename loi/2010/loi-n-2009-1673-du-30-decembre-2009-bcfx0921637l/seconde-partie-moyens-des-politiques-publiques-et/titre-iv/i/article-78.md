@@ -64,19 +64,65 @@ Pour les établissements publics de coopération intercommunale soumis au régim
 
 III.-Le montant global de la dotation de compensation est réparti entre les communes, à l'exception de la ville de Paris, et les établissements publics de coopération intercommunale à fiscalité propre pour lesquels la différence définie au 1 du II est positive et supérieure à 50 000 euros, au prorata de cette différence.
 
-IV.-En cas de fusion de communes, la dotation de compensation de la commune nouvelle est égale à la somme des dotations de compensation calculées conformément aux II, III et présent IV pour les communes participant à la fusion.
+IV.-A.-En cas de fusion de communes, la dotation de compensation de la réforme de la taxe professionnelle de la commune nouvelle est égale à la somme des dotations de compensation calculée conformément au présent 1.1 des communes fusionnées.
 
-En cas de scission de commune, le montant de la dotation de compensation de chacune des communes résultant de la scission s'obtient par répartition, au prorata de la population, de la dotation de compensation calculée conformément aux II et III pour la commune scindée.
+B.-a. En cas de scission de commune, le montant de la dotation de compensation de la réforme de la taxe professionnelle de chacune des communes résultant de la scission s'obtient par répartition, au prorata de la part de chaque commune dans la somme des différences positives définies au b, de la dotation de compensation de la commune scindée.
 
-En cas de modification de périmètre, fusion, scission ou dissolution d'un ou plusieurs établissements publics de coopération intercommunale, le montant de la dotation de compensation de chaque établissement résultant de cette opération s'obtient :
+b. Pour chacune des communes nouvelles issues de la scission, est calculée la différence entre les deux termes suivants :
 
-1° En calculant, pour chacun des établissements préexistants concernés par cette opération, la part de la dotation de compensation de l'établissement afférente à chaque commune par répartition du montant calculé conformément aux II, III et présent IV pour cet établissement au prorata de la population ;
+1° La somme :
 
-2° Puis en additionnant, pour chacun des établissements résultant de cette opération, les parts de dotations de compensation de l'établissement, calculées conformément au 1°, afférentes aux communes que cet établissement regroupe.
+-des impositions à la taxe d'habitation et à la taxe foncière sur les propriétés non bâties émises au titre de 2010 au profit de la commune scindée sur le territoire de la commune nouvelle ;
 
-Lorsqu'à l'issue de cette opération, une commune n'est plus membre d'aucun établissement public doté d'une fiscalité propre, la dotation de compensation est égale à la somme de la dotation calculée conformément aux II, III et présent IV et de la part de la dotation de l'établissement calculée conformément au 1° pour cette commune.
+-du montant de la compensation relais définie au II de l'article 1640 B du code général des impôts versé à la commune scindée afférent aux établissements situés sur le territoire de la commune nouvelle ;
 
-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le montant de la dotation de compensation calculée conformément aux II et III du présent 1.1 et au présent IV est versé au profit de cet établissement public.
+2° La somme :
+
+-des bases nettes communales 2010 de taxe foncière sur les propriétés non bâties situées sur le territoire de la commune nouvelle, multipliées par le taux 2010 de référence de la commune scindée défini au V de l'article 1640 C du même code ;
+
+-du produit 2010 de taxe d'habitation déterminé en fonction des bases communales situées sur le territoire de la commune nouvelle et des taux appliqués en 2010 par la commune scindée dans les conditions prévues au 1 bis du II du présent 1.1 ;
+
+-des bases nettes communales 2010 de cotisation foncière des entreprises situées sur le territoire de la commune nouvelle, multipliées par le taux 2010 de référence de la commune scindée défini au A du V de l'article 1640 C du même code pour la cotisation foncière des entreprises ;
+
+-du montant de cotisation sur la valeur ajoutée des entreprises perçu au titre de l'année 2010 par la commune scindée sur le territoire de la commune nouvelle, en application des articles 1379 et 1586 octies du même code ;
+
+-pour les communes ne faisant pas partie en 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du même code, des bases départementales et régionales nettes 2010 de la taxe foncière sur les propriétés non bâties situées sur le territoire de la commune nouvelle, multipliées par le taux défini au premier alinéa du IV de l'article 1519 I du même code dans sa rédaction en vigueur au 1er janvier 2011 ;
+
+-du produit communal des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles 1519 D à 1519 H du même code sur le territoire de la commune nouvelle, dont la commune scindée aurait bénéficié au titre de l'année 2010 si les dispositions applicables au 1er janvier 2011 et relatives à ces impositions avaient été appliquées ;
+
+-du produit communal de la composante de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 HA du même code au titre de l'année 2010 sur le territoire de la commune nouvelle, dont la commune scindée aurait bénéficié si les modalités de déclaration, de perception et d'affectation de cette imposition applicables au 1er janvier 2011 avaient été appliquées au titre de l'année 2010.
+
+C.-En cas de fusion d'établissements publics de coopération intercommunale, le montant de la dotation de compensation de la réforme de la taxe professionnelle du nouvel établissement public de coopération intercommunale est égal à la somme des montants des dotations de compensation calculée conformément au présent 1.1 des établissements publics de coopération intercommunale fusionnés.
+
+D.-a. En cas de dissolution d'un établissement public de coopération intercommunale, le montant de la dotation de compensation de la réforme de la taxe professionnelle de l'établissement dissous est réparti entre ses communes membres au prorata de la part de chacune d'elles dans la somme des différences positives définies au b.
+
+b. Pour chaque commune membre d'un établissement public de coopération intercommunale à fiscalité propre dissous, est calculée la différence entre les deux termes suivants :
+
+1° La somme :
+
+-des impositions à la taxe d'habitation et à la taxe foncière sur les propriétés non bâties émises au titre de 2010 au profit de l'établissement public sur le territoire de la commune ;
+
+-du montant de la compensation relais définie au II de l'article 1640 B du code général des impôts versé à l'établissement public afférent aux établissements situés sur le territoire de la commune ;
+
+2° La somme :
+
+-des bases nettes intercommunales 2010 de taxe foncière sur les propriétés non bâties situées sur le territoire de la commune, multipliées par le taux 2010 de référence de l'établissement public défini au V de l'article 1640 C du même code ;
+
+-du produit 2010 de taxe d'habitation déterminé en fonction des bases intercommunales situées sur le territoire de la commune et des taux appliqués en 2010 par l'établissement public dans les conditions prévues au 1 bis du II du présent 1.1 ;
+
+-des bases nettes intercommunales 2010 de cotisation foncière des entreprises situées sur le territoire de la commune, multipliées par le taux 2010 de référence de l'établissement public défini au A du V du même article 1640 C pour la cotisation foncière des entreprises ;
+
+-du montant de cotisation sur la valeur ajoutée des entreprises perçu au titre de l'année 2010 par l'établissement public de coopération intercommunale à fiscalité propre sur le territoire de la commune, en application des articles 1379-0 bis et 1586 octies du même code ;
+
+-si la commune est membre d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du même code, des bases départementales et régionales nettes 2010 de la taxe foncière sur les propriétés non bâties situées sur le territoire de la commune multipliées par le taux défini au premier alinéa du IV de l'article 1519 I du même code dans sa rédaction en vigueur au 1er janvier 2011 ;
+
+-du produit intercommunal des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles 1519 D à 1519 H du même code sur le territoire de la commune, dont l'établissement public aurait bénéficié au titre de l'année 2010 si les dispositions applicables au 1er janvier 2011 et relatives à ces impositions avaient été appliquées ;
+
+-du produit intercommunal de la composante de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 HA du même code au titre de l'année 2010 sur le territoire de la commune, dont l'établissement public aurait bénéficié si les modalités de déclaration, de perception et d'affectation de cette imposition applicables au 1er janvier 2011 avaient été appliquées au titre de l'année 2010.
+
+E.-En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part de dotation de compensation de la réforme de la taxe professionnelle de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux a et b du D et la dotation de compensation de l'établissement public concerné est diminuée de cette part.
+
+F.-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le montant de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du présent 1.1 et au présent IV est versé au profit de cet établissement.
 
 1.2. Dotation de compensation de la réforme de la taxe professionnelle au profit des départements.
 
@@ -182,19 +228,39 @@ Lorsque les excédents et déficits mentionnés aux deux alinéas précédents s
 
 Il est calculé un coefficient multiplicatif unique d'équilibrage applicable à chaque reversement, assurant que la somme des reversements ainsi ajustés soit égale à la somme des prélèvements.
 
-IV.-En cas de fusion de communes, le prélèvement sur les ressources ou le reversement de la commune nouvelle est égal à la somme des prélèvements et reversements calculés conformément au III et au présent IV pour les communes participant à la fusion.
+IV.-A.-En cas de fusion de communes, le prélèvement sur les ressources ou le reversement de la commune nouvelle est égal à la somme des prélèvements et reversements calculés conformément au présent 2.1 des communes participant à la fusion.
 
-En cas de scission de commune, le montant du prélèvement sur les ressources ou du reversement de chacune des communes résultant de la scission s'obtient par répartition, au prorata de la population, du prélèvement ou du reversement calculé conformément au III pour la commune scindée.
+B.-En cas de scission de commune, le montant du prélèvement sur les ressources ou du reversement de chacune des communes résultant de la scission est égal au produit du prélèvement ou du reversement calculé conformément au présent 2.1 de la commune scindée par le rapport entre la différence définie au b du B du IV du 1.1 du 1 du présent article pour chaque nouvelle commune issue de la scission et la somme algébrique des mêmes différences de l'ensemble des communes résultant de la scission.
 
-En cas de modification de périmètre, fusion, scission ou dissolution d'un ou plusieurs établissements publics, le montant du prélèvement sur les ressources ou du reversement de chaque établissement résultant de cette opération s'obtient :
+C.-En cas de fusion d'établissements publics de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement issu de la fusion est égal à la somme des prélèvements et reversements calculés conformément au présent 2 des établissements publics de coopération intercommunale participant à la fusion.
 
-1° En calculant, pour chacun des établissements préexistants concernés par cette opération, la part du prélèvement ou du reversement intercommunal afférente à chaque commune par répartition du montant calculé conformément au III et au présent IV pour cet établissement au prorata de la population ;
+D.-En cas de dissolution d'un établissement public de coopération intercommunale, le montant du prélèvement sur les ressources ou du reversement de l'établissement dissous est réparti entre ses communes membres selon les modalités suivantes :
 
-2° Puis en additionnant, pour chacun des établissements résultant de cette opération, les parts de prélèvement ou de reversement intercommunal, calculées conformément au 1°, afférentes aux communes que cet établissement regroupe.
+1° Si l'établissement public de coopération intercommunale bénéficie d'un reversement mentionné au présent 2.1 :
 
-Lorsqu'à l'issue de cette opération, une commune n'est plus membre d'aucun établissement public doté d'une fiscalité propre, le prélèvement sur ses ressources ou le reversement est égal à la somme du prélèvement ou du reversement calculé conformément au III et au présent IV et de la part de prélèvement ou du reversement intercommunal calculée conformément au 1° pour cette commune.
+-chaque commune membre dont la différence définie au b du D du IV du 1.1 du 1 du présent article est positive bénéficie d'une fraction du reversement de l'établissement telle que la somme de cette fraction et de la part de la dotation de compensation de la réforme de la taxe professionnelle de l'établissement revenant à la commune, calculée conformément au même D, soit égale au montant de cette différence ;
 
-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, la part communale du prélèvement ou du reversement sur les ressources calculée conformément au III du présent 2.1 et au présent IV, minorée des reversements perçus par la commune en 2010 au titre du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est mise à la charge ou est versée au profit de cet établissement public.
+-chaque commune membre dont la différence définie au b du même D est négative fait l'objet d'un prélèvement égal à cette différence ;
+
+-la différence entre le reversement dont bénéficie l'établissement dissous et la somme des fractions des reversements et des prélèvements mentionnés aux deuxième et troisième alinéas du présent 1° est répartie entre les communes membres au prorata de la somme des différences en valeur absolue calculées au b du même D ;
+
+2° Si l'établissement public de coopération intercommunale fait l'objet d'un prélèvement sur les ressources mentionné au présent 2.1 :
+
+-chaque commune membre dont la différence définie au b du même D est négative fait l'objet d'un prélèvement égal à cette différence ;
+
+-chaque commune membre dont la différence définie au même b est positive bénéficie d'un reversement égal à cette différence ;
+
+-la différence entre le prélèvement mis à la charge de l'établissement dissous et la somme des prélèvements et reversements mentionnés aux deuxième et troisième alinéas du présent 2° est répartie entre les communes membres au prorata de la somme des différences en valeur absolue calculées au b du même D.
+
+E.-En cas de retrait d'une commune membre d'un établissement public de coopération intercommunale à fiscalité propre, la part du montant du prélèvement ou du reversement de l'établissement lui revenant, le cas échéant, est calculée selon les conditions prévues aux 1° et 2° du D du présent IV et le prélèvement ou le reversement de l'établissement public concerné est diminué de cette part.
+
+F.-a. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le reversement sur les ressources calculé conformément au III du présent 2.1 et au présent IV, minoré des reversements perçus par la commune au titre de 2009 en vertu du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est versé au profit de cet établissement public.
+
+Le premier alinéa du présent a n'est pas applicable lorsque les reversements perçus par la commune au titre de 2009, en vertu du 2° du II du même article 1648 A dans sa rédaction en vigueur au 31 décembre 2009, sont supérieurs au reversement au titre du Fonds national de garantie individuelle des ressources communales et intercommunales.
+
+b. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le prélèvement sur les ressources calculé conformément au III du présent 2.1 et au présent IV, majoré des reversements perçus par la commune au titre de 2009 en vertu du 2° du II de l'article 1648 A du même code dans sa rédaction en vigueur au 31 décembre 2009, est mis à la charge de cet établissement public.
+
+La commune perçoit un reversement au titre du présent Fonds national de garantie individuelle des ressources communales et intercommunales égal au montant des reversements perçus par la commune au titre de 2009 en vertu du 2° du II du même article 1648 A dans sa rédaction en vigueur au 31 décembre 2009 (1).
 
 2.2. Fonds national de garantie individuelle des ressources départementales.
 
@@ -240,19 +306,81 @@ Il est calculé un coefficient multiplicatif unique d'équilibrage applicable à
 
 Les conditions d'application des 2.1 à 2.3 du présent article sont fixées par un décret en Conseil d'Etat.
 
-3. Dispositif de compensation des pertes de bases de contribution économique territoriale.
+2 bis. Suite à la notification de la dotation de compensation de la réforme de taxe professionnelle définie au 1 et du prélèvement ou reversement du Fonds national de garantie individuelle des ressources défini au 2 au titre de l'exercice 2011, les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre ont jusqu'au 30 juin 2012 pour faire connaître à l'administration fiscale toute erreur qui entacherait le calcul détaillé au I des 1.1 à 1.3.
 
-Il est institué à compter de 2012 un prélèvement sur les recettes de l'Etat permettant de verser une compensation aux communes, aux établissements publics de coopération intercommunale, aux départements et aux régions qui enregistrent d'une année sur l'autre une diminution des bases d'imposition à la contribution économique territoriale. Les conditions que doivent remplir les communes, les établissements publics de coopération intercommunale à fiscalité propre, les départements et les régions pour bénéficier de cette contribution sont fixées par décret en Conseil d'Etat en tenant compte notamment de la perte de produit de contribution économique territoriale et de l'importance relative de la perte de produit fiscal qui en résulte par rapport aux recettes provenant des impositions mentionnées au A du I de l'article 1379, à l'article 1586 et à l'article 1599 bis du code général des impôts et de la taxe sur les surfaces commerciales prévue par la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certains commerçants et artisans âgés, majorées ou minorées des ressources perçues ou prélevées au titre du 2 du présent article.
+A l'issue des opérations de rectification d'erreurs dans les calculs individuels mentionnés aux mêmes 1.1 à 1.3 relevées par les collectivités territoriales et les établissements publics de coopération intercommunale et par l'administration des finances publiques, il est procédé à l'automne 2012, au titre de 2012 et des années suivantes, aux calculs mentionnés au 2 des II et III desdits 1.1 à 1.3 et au III des 2.1 à 2.3.
 
-Les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre éligibles à la compensation bénéficient d'une attribution égale :
+Le montant de dotation définie aux 1.1 à 1.3 et le montant de prélèvement ou reversement défini aux 2.1 à 2.3 rectifié sont notifiés aux collectivités territoriales et aux établissements publics de coopération intercommunale à l'issue des opérations de calcul global mentionnées au deuxième alinéa du présent 2 bis. La différence entre les montants ainsi notifiés et ceux notifiés en application du I vient en augmentation ou en diminution des attributions mensuelles de la dotation définie aux 1.1 à 1.3 restant à verser au titre de 2012, des attributions mensuelles au titre des versements définis aux 2.1 à 2.3 du présent article au titre de 2012, ou des avances de fiscalité mentionnées au II de l'article 46 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 restant à verser au titre de 2012.
 
--la première année, à 90 % de la perte de produit enregistrée ;
+3. I.-Il est institué à compter de 2012 un prélèvement sur les recettes de l'Etat permettant de verser une compensation :
 
--la deuxième année, à 75 % de l'attribution reçue l'année précédente ;
+1° Aux communes et établissements publics de coopération intercommunale à fiscalité propre qui enregistrent d'une année sur l'autre une perte importante de base de cotisation foncière des entreprises et une perte importante, au regard de leurs recettes fiscales, de produit de contribution économique territoriale afférent aux entreprises à l'origine de la perte de base de cotisation foncière des entreprises.
+
+Pour l'application du premier alinéa du présent 1°, les recettes fiscales s'entendent des impositions mentionnées au I de l'article 1379 du code général des impôts et de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certains commerçants et artisans âgés, majorées ou minorées des ressources perçues ou prélevées au titre du 2 du présent article.
+
+Les pertes de base ou de produit liées au rattachement d'une commune à un établissement public de coopération intercommunale à fiscalité propre, au changement de périmètre ou de régime fiscal d'un établissement public de coopération intercommunale à fiscalité propre ou à la modification de la fraction de cotisation sur la valeur ajoutée revenant, suivant le cas, à la commune ou à l'établissement public de coopération intercommunale en application de l'article 1609 quinquies BA du code général des impôts ne donnent pas lieu à compensation ;
+
+2° Aux départements et régions qui comprennent sur leur territoire au moins une commune ou un établissement public de coopération intercommunale doté d'une fiscalité propre qui bénéficie de la compensation prévue au 1°, sous réserve qu'ils enregistrent la même année, par rapport à l'année précédente, une perte importante, au regard de leurs recettes fiscales, de produit de cotisation sur la valeur ajoutée des entreprises afférent aux entreprises situées sur le territoire de ces communes ou établissements publics de coopération intercommunale dotés d'une fiscalité propre et à l'origine de la perte de base de cotisation foncière des entreprises.
+
+Pour l'application du premier alinéa du présent 2°, sont prises en compte les impositions mentionnées, respectivement, pour les départements et les régions, aux articles 1586 et 1599 bis du code général des impôts, majorées ou minorées des ressources perçues ou prélevées au titre du 2 du présent article.
+
+II.-La compensation prévue au I est assise :
+
+1° Pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre, sur la perte de produit de contribution économique territoriale calculée conformément au 1° du même I ;
+
+2° Pour les départements, sur le montant de la perte de produit de cotisation sur la valeur ajoutée des entreprises constatée la même année par les communes et les établissements publics de coopération intercommunale situés sur leur territoire et ayant ouvert droit à compensation, multiplié par un rapport égal à 48,5 sur 26,5 ;
+
+3° Pour les régions, sur le montant de la perte de produit de cotisation sur la valeur ajoutée des entreprises constatée la même année par les communes et les établissements publics de coopération intercommunale situés sur leur territoire et ayant ouvert droit à compensation, multiplié par un rapport égal à 25 sur 26,5.
+
+Cette compensation est égale :
+
+-la première année, à 90 % de la perte de produit calculée conformément aux 1° à 3° du présent II ;
+
+-la deuxième année, à 75 % de la compensation reçue l'année précédente ;
+
+-la troisième année, à 50 % de la compensation reçue la première année.
+
+Pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre, les compensations versées les deuxième et troisième années sont, le cas échéant, majorées d'un montant tenant compte de la perte de produit de cotisation sur la valeur ajoutée des entreprises afférent aux entreprises à l'origine de la perte de base de cotisation foncière des entreprises ayant déclenché l'application de la compensation la première année et constatée l'année suivante.
+
+La durée de compensation est portée à cinq ans pour les communes et les établissements publics de coopération intercommunale à fiscalité propre situés dans les cantons où l'Etat anime une politique de conversion industrielle et dont la liste est fixée par décret. Dans ce cas, les taux de la compensation sont fixés à 90 % la première année, 80 % la deuxième année, 60 % la troisième année, 40 % la quatrième année et 20 % la cinquième année.
+
+Pour les communes et les établissements publics de coopération intercommunale dotés d'une fiscalité propre, les compensations versées de la deuxième à la cinquième années sont, le cas échéant, majorées d'un montant tenant compte de la perte de produit de cotisation sur la valeur ajoutée des entreprises afférent aux entreprises à l'origine de la perte de base de cotisation foncière des entreprises ayant déclenché l'application de la compensation la première année et constatée l'année suivante.
+
+III.-A compter de 2012, ce prélèvement sur les recettes de l'Etat permet également de verser une compensation aux communes et établissements publics de coopération intercommunale à fiscalité propre qui enregistrent d'une année sur l'autre une perte importante, au regard de leurs recettes fiscales, de redevance communale des mines mentionnée à l'article 1519 du code général des impôts.
+
+Pour l'application du premier alinéa du présent III, les recettes fiscales s'entendent des impositions mentionnées au I de l'article 1379 du code général des impôts et de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 précitée, majorées ou minorées des ressources perçues ou prélevées au titre du 2 du présent article.
+
+Cette compensation est égale :
+
+-la première année, à 90 % de la perte de produit ;
+
+-la deuxième année, à 75 % de la compensation reçue l'année précédente ;
+
+-la troisième année, à 50 % de la compensation reçue la première année.
+
+IV.-Il est institué un prélèvement sur les recettes de l'Etat permettant de verser une compensation aux communes et aux établissements publics de coopération intercommunale dotés d'une fiscalité propre qui enregistrent entre 2010 et 2011 une perte de base d'imposition de cotisation foncière des entreprises.
+
+Sont éligibles à cette compensation :
+
+1° Les communes et les établissements publics de coopération intercommunale soumis au régime fiscal défini aux I et II de l'article 1609 quinquies C du code général des impôts qui ont enregistré, par rapport à l'année précédente, une perte importante de produit de cotisation foncière des entreprises entraînant une perte importante de leurs ressources fiscales par rapport au produit global de la taxe d'habitation, des taxes foncières et de la compensation relais perçues au titre de l'année 2010 ;
+
+2° Les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C du même code qui ont enregistré, par rapport à l'année précédente, une perte importante de produit de cotisation foncière des entreprises entraînant une perte importante de leurs ressources fiscales par rapport au produit de la compensation relais perçue au titre de l'année 2010.
+
+Le montant de la perte de produit de cotisation foncière des entreprises est obtenu en appliquant aux bases d'imposition résultant des rôles généraux de chacune des deux années considérées le taux relais.
+
+Les pertes de produit liées au rattachement d'une commune à un établissement public de coopération intercommunale à fiscalité propre, au changement de périmètre ou de régime fiscal d'un établissement public de coopération intercommunale à fiscalité propre ne donnent pas lieu à compensation.
+
+Les communes et les établissements publics de coopération intercommunale éligibles à la compensation au titre de l'année 2011 bénéficient d'une attribution égale :
+
+-la première année, à 90 % de la perte de produit enregistrée en 2011 ;
+
+-la deuxième année, à 75 % de l'attribution reçue la première année ;
 
 -la troisième année, à 50 % de l'attribution reçue la première année.
 
 Toutefois, la durée de compensation est portée à cinq ans pour les communes et les établissements publics de coopération intercommunale à fiscalité propre situés dans les cantons où l'Etat anime une politique de conversion industrielle et dont la liste est fixée par décret. Dans ce cas, les taux de la compensation sont fixés à 90 % la première année, 80 % la deuxième année, 60 % la troisième année, 40 % la quatrième année et 20 % la cinquième année.
+
+V.-Les conditions d'application des I à IV du présent 3 sont fixées par décret en Conseil d'Etat.
 
 4. Péréquation.
 
