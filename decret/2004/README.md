@@ -128,7 +128,6 @@
 - [Décret n°2004-1342 du 6 décembre 2004 (DOMB0400035D)](decret-n2004-1342-du-6-decembre-2004-domb0400035d)
 - [Décret n°2004-1356 du 6 décembre 2004 (DEFD0401310D)](decret-n2004-1356-du-6-decembre-2004-defd0401310d)
 - [Décret n°2004-17 du 6 janvier 2004 (INTB0300305D)](decret-n2004-17-du-6-janvier-2004-intb0300305d)
-- [Décret n°2004-20 du 6 janvier 2004 (SANS0324520D)](decret-n2004-20-du-6-janvier-2004-sans0324520d)
 - [Décret n°2004-23 du 6 janvier 2004 (MENE0302815D)](decret-n2004-23-du-6-janvier-2004-mene0302815d)
 - [Décret n°2004-28 du 6 janvier 2004 (DEVG0310089D)](decret-n2004-28-du-6-janvier-2004-devg0310089d)
 - [Décret n°2004-45 du 6 janvier 2004 (DEFP0302341D)](decret-n2004-45-du-6-janvier-2004-defp0302341d)
