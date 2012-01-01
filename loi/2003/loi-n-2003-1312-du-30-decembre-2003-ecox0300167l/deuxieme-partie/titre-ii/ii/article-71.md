@@ -2,7 +2,7 @@
 
 A.-I.-Il est institué une taxe pour le développement des industries de l'ameublement ainsi que des industries du bois.
 
-Le produit de cette taxe est affecté au Comité de développement des industries françaises de l'ameublement, ci-après dénommé le comité, au Centre technique du bois et de l'ameublement et au Centre technique des industries de la mécanique.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, au Comité de développement des industries françaises de l'ameublement, ci-après dénommé le comité, au Centre technique du bois et de l'ameublement et au Centre technique des industries de la mécanique.
 
 Elle a pour objet de financer les missions dévolues à ces organismes par la loi n° 78-654 du 22 juin 1978 concernant les comités professionnels de développement économique et la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels.
 
@@ -50,9 +50,9 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0, 20 % pour les produits du secteur de l'industrie de l'ameublement et à 0, 1 % pour les produits du secteur de l'industrie du bois.
+VII.-Le taux de la taxe est fixé à 0,20 % pour les produits du secteur de l'industrie de l'ameublement et à 0,1 % pour les produits du secteur de l'industrie du bois.
 
-Les entreprises dont l'activité dominante est la mise en œuvre de produits en bois de menuiserie, charpente ou agencement, assortie d'une activité de fabrication de produits entrant dans le champ de la taxe, peuvent retenir pour assiette de la taxe 40 % du chiffre d'affaires total hors taxes correspondant à ces opérations, fourniture et pose incluses, en y appliquant les taux indiqués ci-dessus, les entreprises de moins de vingt salariés appliquant cependant le taux unique de 0, 10 %.
+Les entreprises dont l'activité dominante est la mise en œuvre de produits en bois de menuiserie, charpente ou agencement, assortie d'une activité de fabrication de produits entrant dans le champ de la taxe, peuvent retenir pour assiette de la taxe 40 % du chiffre d'affaires total hors taxes correspondant à ces opérations, fourniture et pose incluses, en y appliquant les taux indiqués ci-dessus, les entreprises de moins de vingt salariés appliquant cependant le taux unique de 0,10 %.
 
 Pour le secteur de l'industrie de l'ameublement, son produit est affecté à hauteur de 70 % au comité, à hauteur de 24 % au Centre technique du bois et de l'ameublement et à hauteur de 6 % au Centre technique de la mécanique.
 
@@ -64,7 +64,7 @@ VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur 
 
 3. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 200 euros, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé l'année civile précédente.
 
-4.L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
+4. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
 IX.-Le paiement de la taxe intervient au moment du dépôt des déclarations. Celles-ci sont conformes à un modèle établi par le comité.
 
@@ -74,7 +74,7 @@ Les redevables lui adressent leurs déclarations selon les modalités prévues a
 
 L'ensemble des opérations liées au recouvrement de la taxe et au versement de la part de son produit revenant aux centres techniques industriels mentionnés au I fait l'objet d'une comptabilité distincte dans les comptes du comité.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -88,11 +88,11 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI.-Le comité contrôle, pour son propre compte et pour celui des centres techniques industriels mentionnés au I, les déclarations prévues au VIII.A cette fin, son directeur ou les agents qu'il a dûment habilités, peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
+XI.-Le comité contrôle, pour son propre compte et pour celui des centres techniques industriels mentionnés au I, les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités, peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité.A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du comité émet un titre de perception selon les modalités prévues au quatrième alinéa du X comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
@@ -104,7 +104,7 @@ XII.-Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieu
 
 B.-I.-Il est institué une taxe pour le développement des industries du cuir, de la maroquinerie, de la ganterie et de la chaussure.
 
-Le produit de cette taxe est affecté au Comité professionnel de développement économique des industries des secteurs du cuir, de la maroquinerie, de la ganterie et de la chaussure, ci-après dénommé le comité.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, au Comité professionnel de développement économique des industries des secteurs du cuir, de la maroquinerie, de la ganterie et de la chaussure, ci-après dénommé le comité.
 
 Elle a pour objet de financer les missions dévolues à cet organisme par la loi n° 78-654 du 22 juin 1978 concernant les comités professionnels de développement économique.
 
@@ -152,7 +152,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0, 18 %.
+VII.-Le taux de la taxe est fixé à 0,18 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -160,7 +160,7 @@ VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur 
 
 3. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 200 euros, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé l'année civile précédente.
 
-4.L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
+4. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
 IX.-Le paiement de la taxe intervient au moment du dépôt des déclarations. Celles-ci sont conformes à un modèle établi par le comité.
 
@@ -170,7 +170,7 @@ Les redevables lui adressent leurs déclarations selon les modalités prévues a
 
 L'ensemble des opérations liées au recouvrement de la taxe fait l'objet d'une comptabilité distincte dans les comptes du comité.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -184,11 +184,11 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI.-Le comité contrôle les déclarations prévues au VIII.A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
+XI.-Le comité contrôle les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité.A défaut de régularisation dans un délai de trente jours à compter du jour de réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité. A défaut de régularisation dans un délai de trente jours à compter du jour de réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du comité émet un titre de perception selon les modalités prévues au quatrième alinéa du X comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
@@ -200,7 +200,7 @@ XII.-Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieu
 
 C.-I.-Il est institué une taxe pour le développement des industries de l'horlogerie, bijouterie, joaillerie et orfèvrerie ainsi que des arts de la table.
 
-Le produit de cette taxe est affecté au Comité de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie, ci-après dénommé le comité.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, au Comité de développement de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie, ci-après dénommé le comité.
 
 Elle a pour objet de financer les missions dévolues à cet organisme par la loi n° 78-654 du 22 juin 1978 précitée.
 
@@ -238,11 +238,11 @@ V.-Le fait générateur de la taxe est constitué par :
 
 1. La livraison des produits pour les ventes et livraisons à soi-même réalisées par les fabricants et les ventes au détail ;
 
-2.L'importation sur le territoire national pour les importations.
+2. L'importation sur le territoire national pour les importations.
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0, 20 %.
+VII.-Le taux de la taxe est fixé à 0,20 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -250,7 +250,7 @@ VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur 
 
 3. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 200 euros, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé l'année civile précédente.
 
-4.L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
+4. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
 IX.-Le paiement de la taxe intervient au moment du dépôt des déclarations. Celles-ci sont conformes à un modèle établi par le comité.
 
@@ -260,7 +260,7 @@ Les redevables lui adressent leurs déclarations selon les modalités prévues a
 
 L'ensemble des opérations liées au recouvrement de la taxe fait l'objet d'une comptabilité distincte dans les comptes du comité.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -274,11 +274,11 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI.-Le comité contrôle les déclarations prévues au VIII.A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
+XI.-Le comité contrôle les déclarations prévues au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité.A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du comité émet un titre de perception selon les modalités prévues au quatrième alinéa du X comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
@@ -290,7 +290,7 @@ XII.-Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieu
 
 D.-I.-Il est institué une taxe pour le développement des industries de l'habillement.
 
-Le produit de cette taxe est affecté au Comité de développement et de promotion de l'habillement, ci-après dénommé le comité.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, au Comité de développement et de promotion de l'habillement, ci-après dénommé le comité.
 
 Elle a pour objet de financer les missions dévolues à cet organisme par la loi n° 78-654 du 22 juin 1978 concernant les comités professionnels de développement économique.
 
@@ -342,7 +342,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0, 07 %.
+VII.-Le taux de la taxe est fixé à 0,07 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -350,7 +350,7 @@ VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur 
 
 3. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 200 euros, les redevables déposent, au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé l'année civile précédente.
 
-4.L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
+4. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
 IX.-Le paiement de la taxe intervient au moment du dépôt des déclarations. Celles-ci sont conformes à un modèle établi par le comité.
 
@@ -360,7 +360,7 @@ Les redevables lui adressent leurs déclarations selon les modalités prévues a
 
 L'ensemble des opérations liées au recouvrement de la taxe fait l'objet d'une comptabilité distincte dans les comptes du comité.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du comité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -374,11 +374,11 @@ Lorsqu'elle est due sur des produits importés, la taxe est recouvrée par l'adm
 
 La taxe n'est pas mise en recouvrement lorsque son montant annuel est inférieur ou égal à 20 euros.
 
-XI.-Le comité contrôle les déclarations mentionnées au VIII.A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
+XI.-Le comité contrôle les déclarations mentionnées au VIII. A cette fin, son directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini par l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité.A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du comité. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du comité émet un titre de perception selon les modalités prévues au quatrième alinéa du X comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
@@ -400,7 +400,7 @@ E.-I.-Il est institué une taxe pour le développement des industries des secteu
 
 5° Matériels aérauliques et thermiques.
 
-Le produit de cette taxe est affecté aux centres techniques industriels couvrant ces secteurs, qui sont respectivement le Centre technique des industries mécaniques, l'Institut de la soudure, le Centre technique de l'industrie du décolletage, le Centre technique industriel de la construction métallique et le Centre technique des industries aérauliques et thermiques.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, aux centres techniques industriels couvrant ces secteurs, qui sont respectivement le Centre technique des industries mécaniques, l'Institut de la soudure, le Centre technique de l'industrie du décolletage, le Centre technique industriel de la construction métallique et le Centre technique des industries aérauliques et thermiques.
 
 Elle a pour objet de financer les missions dévolues à ces organismes par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels.
 
@@ -442,13 +442,13 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII.-Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique : 0, 1 % ;
+1° Pour les produits des secteurs de la mécanique : 0,1 % ;
 
-2° Pour les matériels et consommables de soudage et les produits du décolletage : 0, 112 % ;
+2° Pour les matériels et consommables de soudage et les produits du décolletage : 0,112 % ;
 
-3° Pour les produits du secteur de la construction métallique : 0, 3 % ;
+3° Pour les produits du secteur de la construction métallique : 0,3 % ;
 
-4° Pour les produits du secteur des matériels aérauliques et thermiques : 0, 14 %.
+4° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
 
 VIII.-Le Comité de coordination des centres de recherche en mécanique recouvre la taxe.
 
@@ -460,7 +460,7 @@ Le paiement de la taxe intervient au moment du dépôt de la déclaration. Cette
 
 L'ensemble des opérations liées au recouvrement de la taxe et au versement de son produit aux centres techniques fait l'objet d'une comptabilité distincte tenue par le Comité de coordination des centres de recherche en mécanique.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -474,11 +474,11 @@ La taxe n'est pas mise en recouvrement lorsque son montant semestriel est infér
 
 Le produit de la taxe est versé semestriellement aux centres techniques mentionnés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires réalisé par le secteur intéressé.
 
-IX.-Chacun des centres techniques mentionnés au I contrôle les déclarations mentionnées au VIII.A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
+IX.-Chacun des centres techniques mentionnés au I contrôle les déclarations mentionnées au VIII. A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné.A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du centre technique concerné émet un titre de perception selon les modalités prévues au sixième alinéa du VIII comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
@@ -490,7 +490,7 @@ X.-Les réclamations contentieuses relatives à l'assiette de la taxe sont trait
 
 F.-I.-Il est institué une taxe pour le développement des industries des matériaux de construction regroupant les industries du béton, de la terre cuite et des roches ornementales et de construction.
 
-Le produit de cette taxe est affecté au Centre d'étude et de recherche de l'industrie du béton et au Centre technique de matériaux naturels de construction.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Centre d'étude et de recherche de l'industrie du béton et au Centre technique de matériaux naturels de construction.
 
 Elle a pour objet de financer les missions dévolues à ces organismes par les dispositions des articles L. 342-1 et suivants du code de la recherche relatives au statut juridique des centres techniques industriels.
 
@@ -538,17 +538,17 @@ V.-La taxe est exigible à la date du fait générateur.
 
 VI.-Le taux de la taxe est fixé à :
 
-1° 0, 35 % pour les produits du secteur de l'industrie du béton ;
+1° 0,35 % pour les produits du secteur de l'industrie du béton ;
 
-2° 0, 40 % pour les produits du secteur de la terre cuite ;
+2° 0,40 % pour les produits du secteur de la terre cuite ;
 
-3° 0, 20 % pour les produits du secteur des roches ornementales et de construction.
+3° 0,20 % pour les produits du secteur des roches ornementales et de construction.
 
 VII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur ou égal à 450 euros, les redevables déposent, au plus tard le 25 du mois qui suit la fin de chaque trimestre de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre du trimestre échu.
 
 2. Lorsque le montant de la taxe dû au titre d'une année est inférieur à 450 euros, les redevables déposent au plus tard le 25 du mois de janvier de la deuxième année qui suit, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre de l'année civile précédente.
 
-3.L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable, qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
+3. L'année de création de l'entreprise, les redevables déposent la déclaration du chiffre d'affaires imposable, qu'ils ont réalisé au titre de cette année, au plus tard le 25 du mois de janvier de l'année suivante, quel que soit le montant de la taxe dû.
 
 Pour l'année 2007, le seuil prévu aux 1 et 2 est apprécié par référence au chiffre d'affaires de l'année 2005 réalisé par l'entreprise concernée avec les ventes des produits qui sont assujettis à la taxe.
 
@@ -560,7 +560,7 @@ Les redevables lui adressent leurs déclarations selon les modalités définies 
 
 L'ensemble des opérations liées au recouvrement de la taxe et au versement de son produit au Centre d'études et de recherche de l'industrie du béton et au Centre technique de matériaux naturels de construction fait l'objet d'une comptabilité distincte tenue par l'association précitée.
 
-Lorsque la déclaration prévue au VII est déposée sans le paiement correspondant, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %.A défaut de paiement trente jours à compter de la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur général économique et financier et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VII est déposée sans le paiement correspondant, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours à compter de la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur général économique et financier et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -576,11 +576,11 @@ La taxe n'est pas mise en recouvrement si son montant annuel est inférieur ou �
 
 Le produit de la taxe est versé trimestriellement aux centres techniques industriels visés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires et aux importations réalisés par le secteur intéressé, déduction faite d'un prélèvement représentant les frais exposés par l'association pour procéder au recouvrement. Le taux de ce prélèvement est fixé par un arrêté du ministre chargé du budget dans la limite de 5 % du produit de la taxe.
 
-X.-Chacun des centres techniques industriels mentionnés au I contrôle les déclarations mentionnées au VII.A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
+X.-Chacun des centres techniques industriels mentionnés au I contrôle les déclarations mentionnées au VII. A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables de la taxe tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné.A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office.A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
 Le directeur du centre technique concerné émet un titre de perception selon les modalités prévues au quatrième alinéa du IX comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 

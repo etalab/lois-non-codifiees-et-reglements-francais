@@ -1,0 +1,3 @@
+# Article 1
+
+Les ouvrages des réseaux publics d'électricité, qui comprennent le réseau public de transport d'électricité, les réseaux publics de distribution d'électricité et les réseaux de distribution d'électricité aux services publics ainsi que les ouvrages des lignes directes sont exécutés sous la responsabilité du maître d'ouvrage dans le respect de la réglementation technique, des normes et des règles de l'art en vigueur ainsi que, pour les réseaux publics, dans le respect des prescriptions complémentaires mentionnées par les cahiers des charges de concession et les règlements de service des réseaux précités ou annexées à ceux-ci.

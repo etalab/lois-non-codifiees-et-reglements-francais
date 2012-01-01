@@ -1,258 +1,260 @@
 # Article 1
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux personnels administratifs de la catégorie B régis par le décret n° 2011-660 du 14 juin 2011 susvisé est fixé ainsi qu'il suit :<br/>
+L'échelonnement indiciaire applicable aux personnels administratifs de la catégorie B régis par le décret n° 2011-660 du 14 juin 2011 susvisé est fixé ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th colspan="3">
-<br/>INDICES BRUTS</th>
+<th>GRADES ET ÉCHELONS<br/>
+</th>
+<th colspan="3">INDICES BRUTS<br/>
+</th>
 </tr>
 <tr>
+<td align="center">Troisième grade<br/>
+</td>
 <td align="center">
-<br/>Troisième grade</td>
-<td align="center">
-<br/> </td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon </td>
-<td align="center">
-<br/>660</td>
+<td align="center">11e échelon <br/>
+</td>
+<td align="center">675<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon </td>
-<td align="center">
-<br/>640</td>
+<td align="center">10e échelon <br/>
+</td>
+<td align="center">646</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon </td>
-<td align="center">
-<br/>619</td>
+<td align="center">9e échelon <br/>
+</td>
+<td align="center">619<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon </td>
-<td align="center">
-<br/>585</td>
+<td align="center">8e échelon <br/>
+</td>
+<td align="center">585<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon </td>
-<td align="center">
-<br/>555</td>
+<td align="center">7e échelon <br/>
+</td>
+<td align="center">555<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon </td>
-<td align="center">
-<br/>524</td>
+<td align="center">6e échelon <br/>
+</td>
+<td align="center">524<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon </td>
-<td align="center">
-<br/>497</td>
+<td align="center">5e échelon <br/>
+</td>
+<td align="center">497<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon </td>
-<td align="center">
-<br/>469</td>
+<td align="center">4e échelon <br/>
+</td>
+<td align="center">469<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon </td>
-<td align="center">
-<br/>450</td>
+<td align="center">3e échelon <br/>
+</td>
+<td align="center">450<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon </td>
-<td align="center">
-<br/>430</td>
+<td align="center">2e échelon <br/>
+</td>
+<td align="center">430<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon </td>
-<td align="center">
-<br/>404</td>
+<td align="center">1er échelon <br/>
+</td>
+<td align="center">404<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Deuxième grade<br/>
+</td>
 <td align="center">
-<br/>Deuxième grade</td>
-<td align="center">
-<br/> </td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>13e échelon </td>
-<td align="center">
-<br/>614</td>
+<td align="center">13e échelon <br/>
+</td>
+<td align="center">614<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>12e échelon </td>
-<td align="center">
-<br/>581</td>
+<td align="center">12e échelon <br/>
+</td>
+<td align="center">581<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon </td>
-<td align="center">
-<br/>551</td>
+<td align="center">11e échelon <br/>
+</td>
+<td align="center">551<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon </td>
-<td align="center">
-<br/>518</td>
+<td align="center">10e échelon <br/>
+</td>
+<td align="center">518<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon </td>
-<td align="center">
-<br/>493</td>
+<td align="center">9e échelon <br/>
+</td>
+<td align="center">493<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon </td>
-<td align="center">
-<br/>463</td>
+<td align="center">8e échelon <br/>
+</td>
+<td align="center">463<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon </td>
-<td align="center">
-<br/>444</td>
+<td align="center">7e échelon <br/>
+</td>
+<td align="center">444<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon </td>
-<td align="center">
-<br/>422</td>
+<td align="center">6e échelon <br/>
+</td>
+<td align="center">422<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon </td>
-<td align="center">
-<br/>397</td>
+<td align="center">5e échelon <br/>
+</td>
+<td align="center">397<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon </td>
-<td align="center">
-<br/>378</td>
+<td align="center">4e échelon <br/>
+</td>
+<td align="center">378<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon </td>
-<td align="center">
-<br/>367</td>
+<td align="center">3e échelon <br/>
+</td>
+<td align="center">367<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon </td>
-<td align="center">
-<br/>357</td>
+<td align="center">2e échelon <br/>
+</td>
+<td align="center">357<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon </td>
-<td align="center">
-<br/>350</td>
+<td align="center">1er échelon <br/>
+</td>
+<td align="center">350<br/>
+</td>
 </tr>
 <tr>
+<td align="center">Premier grade<br/>
+</td>
 <td align="center">
-<br/>Premier grade</td>
-<td align="center">
-<br/> </td>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>13e échelon </td>
-<td align="center">
-<br/>576</td>
+<td align="center">13e échelon <br/>
+</td>
+<td align="center">576<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>12e échelon </td>
-<td align="center">
-<br/>548</td>
+<td align="center">12e échelon <br/>
+</td>
+<td align="center">548<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>11e échelon </td>
-<td align="center">
-<br/>516</td>
+<td align="center">11e échelon <br/>
+</td>
+<td align="center">516<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>10e échelon </td>
-<td align="center">
-<br/>486</td>
+<td align="center">10e échelon <br/>
+</td>
+<td align="center">486<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9e échelon </td>
-<td align="center">
-<br/>457</td>
+<td align="center">9e échelon <br/>
+</td>
+<td align="center">457<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8e échelon </td>
-<td align="center">
-<br/>436</td>
+<td align="center">8e échelon <br/>
+</td>
+<td align="center">436<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7e échelon </td>
-<td align="center">
-<br/>418</td>
+<td align="center">7e échelon <br/>
+</td>
+<td align="center">418<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6e échelon </td>
-<td align="center">
-<br/>393</td>
+<td align="center">6e échelon <br/>
+</td>
+<td align="center">393<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5e échelon </td>
-<td align="center">
-<br/>374</td>
+<td align="center">5e échelon <br/>
+</td>
+<td align="center">374<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4e échelon </td>
-<td align="center">
-<br/>359</td>
+<td align="center">4e échelon <br/>
+</td>
+<td align="center">359<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>3e échelon </td>
-<td align="center">
-<br/>347</td>
+<td align="center">3e échelon <br/>
+</td>
+<td align="center">347<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>2e échelon </td>
-<td align="center">
-<br/>333</td>
+<td align="center">2e échelon <br/>
+</td>
+<td align="center">333<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon </td>
-<td align="center">
-<br/>325</td>
+<td align="center">1er échelon <br/>
+</td>
+<td align="center">325<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

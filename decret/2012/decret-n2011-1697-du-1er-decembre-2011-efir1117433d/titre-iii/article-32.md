@@ -1,0 +1,3 @@
+# Article 32
+
+Jusqu'à la désignation d'un organisme indépendant accrédité tel que mentionné à l'article 26, le gestionnaire du réseau public de transport d'électricité, le gestionnaire d'un réseau de distribution d'électricité aux services publics, le titulaire d'une autorisation de ligne directe et les propriétaires des ouvrages mentionnés aux articles 24 et 25 s'organisent librement pour effectuer ou faire effectuer à leurs frais le contrôle des champs électromagnétiques induits par les ouvrages. Toutefois, ils soumettent le protocole technique utilisé pour effectuer les mesures et en corriger les données brutes au ministre chargé de l'énergie qui peut y apporter des modifications après avis du comité technique de l'électricité.

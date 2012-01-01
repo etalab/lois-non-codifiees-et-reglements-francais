@@ -3,3 +3,4 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Organisation administrative.](chapitre-ii)
 - [Chapitre III : Organisation financière.](chapitre-iii)
+- [Chapitre IV : Dispositions diverses et transitoires.](chapitre-iv)

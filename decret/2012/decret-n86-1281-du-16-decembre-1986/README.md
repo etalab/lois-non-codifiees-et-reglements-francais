@@ -2,3 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : FRAIS DE MISSION.](titre-ier)
+- [TITRE II : FRAIS DE TRANSPORT.](titre-ii)
+- [TITRE III : DISPOSITIONS FINALES.](titre-iii)

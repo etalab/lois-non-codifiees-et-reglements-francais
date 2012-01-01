@@ -2,7 +2,7 @@
 
 A. - I. - Il est créé une taxe intitulée "taxe au profit de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer)".
 
-La taxe est affectée à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour assurer le financement des actions qu'il met en oeuvre fau bénéfice des produits de la pêche maritime en application de l'article L. 621-3 du code rural et de la pêche maritime.
+La taxe est affectée , dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour assurer le financement des actions qu'il met en oeuvre fau bénéfice des produits de la pêche maritime en application de l'article L. 621-3 du code rural et de la pêche maritime.
 
 II. - La taxe est due :
 

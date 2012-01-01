@@ -1,0 +1,3 @@
+# Article 10
+
+Lorsque le prélèvement d'eau est destiné à l'alimentation d'un canal, et en cas d'impossibilité technique d'installer un dispositif de mesure de l'eau prélevée, le volume prélevé est déterminé à partir des caractéristiques hydrauliques et des conditions de fonctionnement de l'ouvrage ou, en l'absence de ces données, du débit du prélèvement mentionné dans l'acte administratif relatif à ce prélèvement. A défaut de ces éléments et dans le cas des canaux de navigation, le volume prélevé est calculé en multipliant le volume prélevé par unité de grandeur caractéristique définie à l'annexe 2 au présent arrêté par le nombre d'unités de grandeur caractéristique déclaré par le redevable.

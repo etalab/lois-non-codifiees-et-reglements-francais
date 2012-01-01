@@ -1,0 +1,3 @@
+# Article 10
+
+Les réfractomètres légalement fabriqués ou commercialisés dans un autre Etat membre de l'Union européenne, dans un autre Etat partie à l'accord sur l'Espace économique européen ou en Turquie sont dispensés de l'examen de type, pour autant qu'ils offrent un degré de protection équivalent à celui recherché par le présent arrêté. En cas de demande d'examen de type pour ces instruments, les essais effectués dans cet autre Etat sont acceptés s'ils présentent des garanties équivalentes aux essais prescrits en France et si leurs résultats peuvent être mis à la disposition de l'organisme chargé de l'examen de type.

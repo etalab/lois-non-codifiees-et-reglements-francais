@@ -558,6 +558,7 @@
 - [Arrêté du 7 septembre 2011 (JUSA1124791A)](arrete-du-7-septembre-2011-jusa1124791a)
 - [Arrêté du 7 mai 2012 (MENF1220270A)](arrete-du-7-mai-2012-menf1220270a)
 - [Arrêté du 7 mai 2012 (MENF1221084A)](arrete-du-7-mai-2012-menf1221084a)
+- [Arrêté du 8 août 2011 (AGRS1115516A)](arrete-du-8-aout-2011-agrs1115516a)
 - [Arrêté du 8 août 2011 (DEFH1120884A)](arrete-du-8-aout-2011-defh1120884a)
 - [Arrêté du 8 août 2011 (DEVA1102028A)](arrete-du-8-aout-2011-deva1102028a)
 - [Arrêté du 8 août 2011 (DEVA1118356A)](arrete-du-8-aout-2011-deva1118356a)

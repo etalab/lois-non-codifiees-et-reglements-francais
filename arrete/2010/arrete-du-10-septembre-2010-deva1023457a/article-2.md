@@ -2,10 +2,6 @@
 
 En application des dispositions de l'article 1er du décret du 24 novembre 2000 susvisé, peuvent être nommés dans l'emploi de conseiller d'administration de l'aviation civile de second niveau les fonctionnaires qui exercent les fonctions suivantes :
 
-Au cabinet du directeur général (DG/CAB) :
-
-- responsable de la mission mémoire de l'aviation civile (à compter du 29 janvier 2010).
-
 A la direction du transport aérien (DTA) :
 
 1. A la mission du droit du travail et des affaires sociales (MDT) :
@@ -22,6 +18,8 @@ Au secrétariat général (SG) :
 
 - adjoint au sous-directeur des affaires juridiques (SDJ) ;
 
+- chef du bureau de la gestion des personnels et du recrutement (SDP1) ;
+
 - chef du bureau de la réglementation des personnels et du dialogue social (SDP2) ;
 
 - chef du bureau de l'analyse de gestion et du budget des ressources humaines (SDP3) ;
@@ -33,6 +31,10 @@ Au secrétariat général (SG) :
 2. A la sous-direction des affaires financières et du contrôle de gestion (SDF) :
 
 - chef du bureau de l'exécution budgétaire et financière (SDF2).
+
+Au département du contrôle budgétaire central (DCB) :
+
+- adjoint au chef du département ;
 
 Au service de gestion des taxes aéroportuaires (SGTA) :
 

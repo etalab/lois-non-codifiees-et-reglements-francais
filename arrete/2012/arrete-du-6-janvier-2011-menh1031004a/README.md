@@ -1,0 +1,4 @@
+# Arrêté du 6 janvier 2011 modifiant certaines modalités d'organisation des concours de recrutement de personnels enseignants du second degré et de personnels d'éducation relevant du ministre chargé de l'éducation nationale
+
+- [CHAPITRE IV : MODIFICATION DE L'ARRETE DU 28 DECEMBRE 2009 FIXANT LES SECTIONS ET LES MODALITES D'ORGANISATION  DES CONCOURS DU CERTIFICAT D'APTITUDE AU PROFESSORAT DE L'ENSEIGNEMENT TECHNIQUE](chapitre-iv)
+- [CHAPITRE VI : MODIFICATION DE L'ARRETE DU 28 DECEMBRE 2009 FIXANT LES SECTIONS ET LES MODALITES D'ORGANISATION  DES CONCOURS DU CERTIFICAT D'APTITUDE AU PROFESSORAT DE LYCEE PROFESSIONNEL](chapitre-vi)

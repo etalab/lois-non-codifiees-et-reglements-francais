@@ -8,11 +8,9 @@ Hôpital local de Méximieux (Ain) ;
 
 Hôpital local de Pont-de-Vaux (Ain) ;
 
-Hôpital local de Pont-de-Veyle (Ain) ;
-
 Hôpital local de Saint-Rambert (Ain) ;
 
-Hôpital local de Thoissey (Ain) ;
+Centre hospitalier intercommunal Ain-Val-de-Saône, à Thoissey (Ain) ;
 
 Hôpital local de Saint-Laurent-sur-Saône (Ain) ;
 
@@ -169,6 +167,8 @@ Centre hospitalier gériatrique d'Uzerche (Corrèze) ;
 Hôpital local de Bonifacio (Corse-du-Sud) ;
 
 Hôpital local de Sartène (Corse-du-Sud) ;
+
+Centre hospitalier, à Calvi (Haute-Corse) ;
 
 Centre hospitalier intercommunal de Corte-Tattone (Haute-Corse) ;
 

@@ -6,6 +6,8 @@ Au cabinet du directeur général (DG/CAB) :
 
 ― chef du pôle affaires réservées et territoriales.
 
+- responsable de la mission mémoire de l'aviation civile. (à compter du 11 octobre 2011) ;
+
 A la direction du transport aérien (DTA) :
 
 ― conseiller, adjoint au directeur de cabinet (DIR).
@@ -62,8 +64,6 @@ Au secrétariat général (SG) :
 
 1. A la sous-direction des personnels (SDP) :
 
-― chef du bureau de la gestion des personnels et du recrutement (SDP1) ;
-
 ― chef du bureau de l'action sociale (SDP5) ;
 
 ― chef du bureau de la formation continue (SDP6) ;
@@ -88,6 +88,8 @@ Au secrétariat général (SG) :
 
 ― adjoint au chef du bureau du contrôle de gestion et de la comptabilité analytique (SDF3) ;
 
+- chef de la mission système d'information financier ;
+
 ― chargé de mission à la mission achat.
 
 3. A la sous-direction des affaires juridiques (SDJ) :
@@ -107,10 +109,6 @@ Au secrétariat général (SG) :
 Au centre d'exploitation, de développement et d'études du réseau d'informatique de gestion (CEDRe) :
 
 ― chef du département administratif (AD).
-
-Au département du contrôle budgétaire central (DCB) :
-
-― adjoint au chef du département.
 
 Dans les services outre-mer de l'aviation civile :
 
@@ -136,7 +134,7 @@ A la direction des services de la navigation aérienne (DSNA) :
 
 ― chef du service administratif du service de la navigation aérienne Centre-Est (SNA/CE) ;
 
-― chef du service administratif du service de la navigation aérienne Sud-Est (SNA/SE) ;
+- chef du service administratif d'un service de la navigation aérienne ;
 
 ― chef de la division administrative du service de l'information aéronautique (SIA).
 

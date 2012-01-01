@@ -1,0 +1,5 @@
+# Article 2
+
+La répartition du solde du produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises mentionné au cinquième alinéa du 2 du III de l'article 1600 du code général des impôts est déterminée, pour chaque chambre de commerce et d'industrie de région, en fonction du rapport entre la somme des valeurs ajoutées imposables dans les communes de sa circonscription en application du III de l'article 1586 octies du code précité nettes des exonérations appliquées conformément à l'article 1586 nonies du même code dans les collectivités territoriales et dans les établissements publics de coopération intercommunale de cette circonscription sur la part leur revenant et la somme des valeurs ajoutées imposables globales de l'ensemble des contribuables en application du III de l'article 1586 octies du même code nettes des exonérations appliquées conformément à l'article 1586 nonies du même code.
+
+Pour l'application du premier alinéa, la valeur ajoutée s'entend de celle imposable au titre de l'année précédant celle au titre de laquelle le fonds de financement des chambres de commerce et d'industrie de région est excédentaire.

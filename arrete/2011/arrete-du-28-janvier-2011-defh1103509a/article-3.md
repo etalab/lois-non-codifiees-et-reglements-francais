@@ -4,23 +4,35 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au directeur du centre ministériel de gestion de Lyon ;
 
-- directeur du centre ministériel de gestion de Brest ;
-
 - adjoint au directeur du centre ministériel de gestion de Toulon ;
+
+- adjoint au sous-directeur finances-contrats à la direction du service de soutien de la flotte à Toulon ;
+
+- adjoint au chef du groupement de soutien de la base de défense d'Angers ;
+
+- adjoint au sous-directeur des ressources humaines à la direction du service national ;
+
+- adjoint au directeur des missions, chef du département reconnaissance et réparation de l'Office national des anciens combattants et victimes de guerre ;
+
+- adjoint au directeur des achats, du patrimoine et de l'informatique de l'Office national des anciens combattants et victimes de guerre ;
+
+- adjoint au sous-directeur de la synthèse et des statuts particuliers et chef du bureau des personnels ICT de la direction générale de l'armement ;
+
+- adjoint du directeur du centre d'analyse et de contrôle interne comptable de Rambouillet du service du commissariat des armées ;
+
+- adjoint au directeur du centre ministériel de gestion de Toulon et chef de la division gestion individuelle ;
+
+- adjoint au chef du bureau de la politique d'emploi des ressources humaines de l'armée de l'air ;
 
 - chef de division recrutement-formation du centre ministériel de gestion de Metz ;
 
 - chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
 
-- sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand ;
-
-- adjoint au sous-directeur finances-contrats à la direction du service de soutien de la flotte à Toulon ;
-
 - chef du bureau du dialogue social à la direction des ressources humaines de la direction générale de l'armement ;
 
-- directeur local de l'action sociale de la région terre Ile-de-France ;
+- chef de pôle ministériel d'action sociale de Saint-Germain-en-Laye ;
 
-- directeur local de l'action sociale de la région terre Sud-Ouest ;
+- chef de pôle ministériel d'action sociale de Bordeaux ;
 
 - chef du bureau du contentieux contractuel et domanial à la direction des affaires juridiques ;
 
@@ -30,14 +42,6 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la réglementation des primes et des indemnités à la direction des ressources humaines du ministère de la défense ;
 
-- secrétaire général de la direction régionale du service d'infrastructure de la défense de Toulon ;
-
-- adjoint au sous-directeur des ressources humaines à la direction du service national ;
-
-- directeur adjoint de l'établissement du service national Sud-Ouest ;
-
-- directeur de l'établissement du service national Sud-Est ;
-
 - chef du bureau des régies et déplacements au service parisien de soutien de l'administration centrale ;
 
 - chef du bureau de la gestion administrative et de la paie au service parisien de soutien de l'administration centrale ;
@@ -46,15 +50,11 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la correspondance parlementaire et affaires générales à la sous-direction des bureaux des cabinets ;
 
-- chef de la division de l'administration générale et des études à la direction des statuts, des pensions et de la réinsertion sociale ;
+- chef de l'organe liquidateur de la direction des statuts, des pensions et de la réinsertion sociale ;
 
 - chargé de mission auprès du sous-directeur des pensions de la direction des ressources humaines du ministère de la défense ;
 
 - chef du bureau du contentieux indemnitaire à la direction des affaires juridiques ;
-
-- conseiller personnel civil à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
-
-- secrétaire général de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement ;
 
 - chef du département identification-prestations à la Caisse nationale militaire de sécurité sociale ;
 
@@ -62,7 +62,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des programmes au contrôle budgétaire et comptable ministériel ;
 
-- inspecteur du travail dans les armées au contrôle général des armées ;
+- conseiller personnel civil à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
 - chef du département secrétariat général à la Caisse nationale militaire de sécurité sociale ;
 
@@ -70,47 +70,23 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau chancellerie et administration du personnel à la direction centrale du service d'infrastructure de la défense ;
 
-- chef de la division soutien juridique du service centralisé des achats de la direction générale de l'armement (A compter du 1er janvier 2012) ;
-
-- adjoint au sous-directeur de la synthèse et des statuts particuliers et chef du bureau des personnels ICT de la direction générale de l'armement ;
-
-- expert ressources humaines auprès de la direction des ressources humaines et du service central de la modernisation et de la qualité de la direction générale de l'armement ;
+- chef de la division soutien juridique du service centralisé des achats de la direction générale de l'armement ;
 
 - chef du bureau de la réglementation et des statuts de la direction générale de l'armement ;
-
-- adjoint au chef du bureau de la politique d'emploi des ressources humaines de l'armée de l'air ;
 
 - chef de pôle de la mobilité de l'agence de reconversion de la défense de Lille ;
 
 - chef du bureau de la gestion prévisionnelle des effectifs et du dialogue de gestion à la direction des ressources humaines du ministère de la défense ;
 
-- directeur de l'action sociale de Metz à la direction des ressources humaines du ministère de la défense ;
-
-- responsable du dispositif dédié à la réparation des conséquences sanitaires des essais nucléaires à la direction des ressources humaines du ministère de la défense ;
+- chef de pôle ministériel d'action sociale de Metz ;
 
 - chef du bureau des études internationales et publications à la direction des ressources humaines du ministère de la défense ;
 
-- directeur adjoint de l'établissement du service national d'Ile-de-France ;
-
-- directeur adjoint de l'établissement du service national Nord-Est ;
-
-- directeur adjoint de l'établissement du service national Nord-Ouest ;
-
-- adjoint au chef du groupement de soutien de la base de défense d'Angers ;
-
-- conseiller ressources humaines du directeur central du service du commissariat des armées ;
-
 - chef du bureau personnel civil à la division ressources humaines de l'état-major des armées ;
 
-- adjoint du directeur du centre d'analyse et de contrôle interne comptable de Rambouillet du service du commissariat des armées ;
-
-- chef du bureau de la réglementation et des affaires juridiques à la direction du personnel militaire de la marine (A compter du 1er janvier 2011) ;
+- chef du bureau de la réglementation et des affaires juridiques à la direction du personnel militaire de la marine ;
 
 - chef du département du contrôle de gestion et du suivi du contrat d'objectif et de moyens de l'Office national des anciens combattants et victimes de guerre ;
-
-- adjoint au directeur des missions, chef du département reconnaissance et réparation de l'Office national des anciens combattants et victimes de guerre ;
-
-- adjoint au directeur des achats, du patrimoine et de l'informatique de l'Office national des anciens combattants et victimes de guerre ;
 
 - chef de la mission des systèmes d'information du secrétariat général pour l'administration ;
 
@@ -118,6 +94,32 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau du budget opérationnel de programme de l'administration centrale du secrétariat général pour l'administration ;
 
+- conseiller ressources humaines du directeur central du service du commissariat des armées ;
+
+- directeur adjoint de l'établissement du service national d'Ile-de-France ;
+
+- directeur adjoint de l'établissement du service national Nord-Est ;
+
+- directeur adjoint de l'établissement du service national Nord-Ouest ;
+
+- directeur du centre ministériel de gestion de Brest ;
+
+- directeur du centre ministériel de gestion de Brest ;
+
+- directeur adjoint de l'établissement du service national Sud-Ouest ;
+
+- directeur de l'établissement du service national Sud-Est ;
+
+- expert ressources humaines auprès de la direction des ressources humaines et du service central de la modernisation et de la qualité de la direction générale de l'armement ;
+
+- inspecteur du travail dans les armées au contrôle général des armées ;
+
 - responsable de la direction de site de Paris intra-muros au service parisien de soutien de l'administration centrale ;
 
-- adjoint au directeur du centre ministériel de gestion de Toulon et chef de la division gestion individuelle.
+- responsable du dispositif dédié à la réparation des conséquences sanitaires des essais nucléaires à la direction des ressources humaines du ministère de la défense ;
+
+- secrétaire général de la direction régionale du service d'infrastructure de la défense de Toulon ;
+
+- secrétaire général de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement ;
+
+- sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand.

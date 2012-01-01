@@ -1,0 +1,5 @@
+# Article 4
+
+I. ― Les techniciens des systèmes d'information et de communication du ministère de l'intérieur exercent notamment des fonctions requérant des compétences techniques particulières de contrôle, d'application et d'études dans le domaine des systèmes d'information et de communication, d'exploitation et de production ainsi que des fonctions d'installation, de gestion et de maintien en condition opérationnelle des matériels et logiciels nécessaires aux systèmes d'information et de communication. Ils établissent les documentations techniques s'y rapportant.
+
+II. ― Les techniciens de classe supérieure des systèmes d'information et de communication et les techniciens de classe exceptionnelle des systèmes d'information et de communication ont vocation à occuper les emplois qui, relevant des domaines d'activité mentionnés au I, correspondent à un niveau d'expertise acquis par l'expérience professionnelle. Ils peuvent également exercer des responsabilités particulières de coordination d'une équipe.

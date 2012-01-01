@@ -1,0 +1,3 @@
+# Article 6
+
+La section mentionnée au 3° de l'article R. 641-1 du code de la sécurité sociale établit au premier semestre de l'année 2015, puis tous les cinq ans à compter de cette date, un rapport actuariel présentant l'impact des mesures prises dans le passé et l'évolution de la situation financière du régime en fonction des paramètres de ce dernier. Ce rapport est adressé au ministre chargé de la sécurité sociale, au directeur général de l'Union nationale des caisses d'assurance maladie et aux organisations syndicales signataires de la convention mentionnée à l'article L. 162-5 du code de la sécurité sociale. Il propose l'évolution des valeurs de service prévues à l'article 4 nécessaire pour garantir l'équilibre financier du régime à long terme.

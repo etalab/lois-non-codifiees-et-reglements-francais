@@ -26,7 +26,7 @@ II.-Ont également la qualité d'ouvrants droit au régime complémentaire des i
 
 7° Les agents statutaires en congé sans solde pour création d'entreprise, sous réserve qu'ils ne relèvent pas d'un autre régime que le présent régime ;
 
-8° Les médecins contractuels des industries électriques et gazières en activité qui consacrent plus de dix-sept heures trente d'activité par semaine auxdites industries ;
+8° Les médecins contractuels des industries électriques et gazières en activité et les médecins praticiens de la Caisse centrale d'activités sociales en activité, qui consacrent plus de dix-sept heures trente d'activité par semaine auxdites industries ou audit organisme ;
 
 9° Les personnels conventionnés de la Caisse centrale d'activités sociales en activité ;
 
@@ -36,25 +36,27 @@ II.-Ont également la qualité d'ouvrants droit au régime complémentaire des i
 
 12° Les personnels conventionnés de la Caisse centrale d'activités sociales à compter de la liquidation de leur pension de retraite.
 
-Le bénéfice de la qualité d'ouvrant droit prévu par le présent II est subordonné à l'option écrite, datée et signée de l'agent et adressée à la caisse d'assurance maladie des industries électriques et gazières, au plus tard dans les quatre-vingt-dix jours suivant la date à compter de laquelle les intéressés se trouvent placés dans l'une des situations mentionnées audit II.L'option est irrévocable tant qu'ils demeurent placés dans cette situation.L'option prend effet à la date à laquelle ils se trouvent placés dans cette situation. Elle vaut engagement de versement et, le cas échéant, d'autorisation de précompte, des cotisations à la charge des agents en activité prévues au paragraphe 8 de l'article 23 du statut national susvisé, pour ce qui concerne les personnes mentionnées aux 1° à 9° du présent II, ou à la charge des agents en inactivité et pensionnés de tous ordres, pour ce qui concerne les personnes mentionnées aux 10° à 12° dudit II.
+Le bénéfice de la qualité d'ouvrant droit prévu par le présent II est subordonné à l'option écrite, datée et signée de l'agent et adressée à la caisse d'assurance maladie des industries électriques et gazières, au plus tard dans les quatre-vingt-dix jours suivant la date à compter de laquelle les intéressés se trouvent placés dans l'une des situations mentionnées audit II.L'option est irrévocable tant qu'ils demeurent placés dans cette situation.L'option prend effet à la date à laquelle ils se trouvent placés dans cette situation. Elle vaut engagement de versement et, le cas échéant, d'autorisation de précompte, des cotisations à la charge des agents en activité prévues au paragraphe 8 de l'article 23 du statut national susvisé, pour ce qui concerne les personnes mentionnées aux 1° à 9° du présent II, ou à la charge des agents en inactivité et pensionnés de tous ordres, pour ce qui concerne les personnes mentionnées aux 10° à 13° dudit II.
 
 Lorsque l'agent mentionné aux 1° à 3° du présent II ne perçoit pas au titre de la période concernée de rémunération d'un employeur des industries électriques et gazières et pour les agents mentionnés aux 4° à 7°, l'assiette des cotisations dues au titre de cette période est égale à la dernière assiette soumise à cotisations au titre de la rémunération versée par un tel employeur.
 
-A défaut d'option dans le délai précité le maintien de droit prévu au paragraphe VIII du présent article s'applique à compter de la date à laquelle l'intéressé se trouve placé dans la situation mentionnée aux 1° à 12° du présent paragraphe ;
+A défaut d'option dans le délai précité le maintien de droit prévu au paragraphe VIII du présent article s'applique à compter de la date à laquelle l'intéressé se trouve placé dans la situation mentionnée aux 1° à 7° du présent paragraphe ;
+
+13° Les veufs et veuves des ouvrants droit mentionnés au 9° et au 12° du présent II ;
 
 III.-A.-L'assiette des cotisations dues par les personnes mentionnées au 8° et au 9° du II du présent article est celle fixée en application des dispositions du a du B du paragraphe 8 de l'article 23 du statut national susvisé.
 
 L'assiette des cotisations dues par les personnes mentionnées au 10° et au 12° du II du présent article est constituée des pensions de retraite de base et complémentaire.
 
-L'assiette des cotisations dues par les personnes mentionnées au 11° dudit II est constituée de l'ensemble de leurs ressources mensuelles, les revenus d'activité étant pris en compte selon les modalités fixées pour l'application des dispositions, selon les cas, de l'article L. 131-6 ou de l'article L. 242-1 ou de du code de la sécurité sociale.
+L'assiette des cotisations dues par les personnes mentionnées au 11° et au 13° dudit II est constituée de l'ensemble de leurs ressources mensuelles, les revenus d'activité étant pris en compte selon les modalités fixées pour l'application des dispositions, selon les cas, de l'article L. 131-6 ou de l'article L. 242-1 ou de du code de la sécurité sociale.
 
-B.-Les taux des cotisations dues par les personnes mentionnées au 8° et au 9° du II du présent article ainsi que par les personnes mentionnées au 11° dudit II sur leurs revenus autres que leurs pensions sont ceux fixés pour les agents en activité en application des dispositions du B du paragraphe 8 de l'article 23 précité.
+B.-Les taux des cotisations dues par les personnes mentionnées au 8° et au 9° du II du présent article ainsi que par les personnes mentionnées au 11° et au 13° dudit II sur leurs revenus autres que leurs pensions sont ceux fixés pour les agents en activité en application des dispositions du B du paragraphe 8 de l'article 23 précité.
 
-Le taux des cotisations dues par les personnes mentionnées aux 10° et au 12° du II du présent article ainsi que par les personnes mentionnées au 11° dudit II sur leurs pensions est celui fixé pour les agents en inactivité et pensionnés de tous ordres en application des dispositions du B du paragraphe 8 de l'article 23 du statut national susvisé.
+Le taux des cotisations dues par les personnes mentionnées aux 10° et au 12° du II du présent article ainsi que par les personnes mentionnées au 11° et au 13° dudit II sur leurs pensions est celui fixé pour les agents en inactivité et pensionnés de tous ordres en application des dispositions du B du paragraphe 8 de l'article 23 du statut national susvisé.
 
 C.-Pour les personnes précitées mentionnées aux 8° et 9° du II du présent article, les cotisations à la charge du salarié sont précomptées par l'employeur et versées, en même temps que les cotisations à sa charge, à la Caisse d'assurance maladie des industries électriques et gazières.
 
-Les personnes précitées mentionnées au 10°, 11° et 12° dudit II autorisent le prélèvement des cotisations sur un compte bancaire au bénéfice de la Caisse d'assurance maladie des industries électriques et gazières.
+Les personnes précitées mentionnées au 10°, 11°, 12° et 13° dudit II autorisent le prélèvement des cotisations sur un compte bancaire au bénéfice de la Caisse d'assurance maladie des industries électriques et gazières.
 
 IV.-Acquièrent la qualité d'ouvrants droit, tant qu'ils ne sont pas affiliés à un autre régime que le présent régime et sans que soient dues de cotisations au régime complémentaire des industries électriques et gazières :
 

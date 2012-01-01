@@ -2,656 +2,735 @@
 
 L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers et corps assimilés, régis par les décrets n°s 2008-930, 2008-931, 2008-953, 2008-954 et 2008-961 du 12 septembre 2008 susvisés, est fixé comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GRADE <br/>
-</th>
-<th>
-<br/>ÉCHELLE DE SOLDE <br/>
-</th>
-<th>
-<br/>ÉCHELON <br/>
-</th>
-<th>
-<br/>INDICE BRUT <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Major <br/>
+<td align="left" valign="top">
+<p align="center">GRADE</p>
 </td>
-<td align="center">
-<br/>Echelle de solde des majors <br/>
+<td align="left" valign="top">
+<p align="center">ÉCHELLE DE SOLDE</p>
 </td>
-<td align="center">
-<br/>Echelon exceptionnel (1) <br/>
+<td align="left" valign="top">
+<p align="center">ÉCHELON</p>
 </td>
-<td align="center">
-<br/>634 <br/>
+<td align="left" valign="top">
+<p align="center">INDICE BRUT</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Major </p>
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>612 <br/>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Echelle de solde des majors </p>
+<br/>
+<br/>
 </td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>Echelon exceptionnel </p>
 </td>
-<td align="center">
-<br/>595 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>581 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>640 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
 </td>
-<td align="center">
-<br/>562 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>542 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>614 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Adjudant-chef ou maître principal <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
 </td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>8e échelon <br/>
-</td>
-<td align="center">
-<br/>576 (2) <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>596 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>7e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
 </td>
-<td align="center">
-<br/>560 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>6e échelon <br/>
-</td>
-<td align="center">
-<br/>557 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>582 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
 </td>
-<td align="center">
-<br/>553 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
-</td>
-<td align="center">
-<br/>547 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>563 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
 </td>
-<td align="center">
-<br/>539 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
-</td>
-<td align="center">
-<br/>524 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>543 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Adjudant-chef ou maître principal </p>
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>513 <br/>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Echelle de solde n° 4 </p>
+<br/>
+<br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjudant ou premier maître <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>8e échelon </p>
 </td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>8e échelon <br/>
-</td>
-<td align="center">
-<br/>539</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>7e échelon <br/>
-</td>
-<td align="center">
-<br/>520 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>581 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>6e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>7e échelon </p>
 </td>
-<td align="center">
-<br/>513 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>500 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>562 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
 </td>
-<td align="center">
-<br/>494 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>484 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>558 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
 </td>
-<td align="center">
-<br/>471 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>463 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>554 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>Echelle de solde n° 3 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
 </td>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>387 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>548 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
 </td>
-<td align="center">
-<br/>374 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>365 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>540 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sergent-chef ou maître <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
 </td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>6e échelon <br/>
-</td>
-<td align="center">
-<br/>509 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>525 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
 </td>
-<td align="center">
-<br/>486 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
-</td>
-<td align="center">
-<br/>463 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>514 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
+<td align="left" rowspan="11" valign="top">
+<p align="left">Adjudant ou premier maître </p>
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>440 <br/>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Echelle de solde n° 4 </p>
+<br/>
+<br/>
 </td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>8e échelon </p>
 </td>
-<td align="center">
-<br/>420 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>392 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>540 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>Echelle de solde n° 3 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>7e échelon </p>
 </td>
-<td align="center">
-<br/>6e échelon <br/>
-</td>
-<td align="center">
-<br/>374 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>521 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
 </td>
-<td align="center">
-<br/>365 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
-</td>
-<td align="center">
-<br/>359 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>514 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
 </td>
-<td align="center">
-<br/>353 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
-</td>
-<td align="center">
-<br/>346 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>501 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
 </td>
-<td align="center">
-<br/>333 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sergent ou second maître <br/>
-</td>
-<td align="center">
-<br/>Echelle de solde n° 4 <br/>
-</td>
-<td align="center">
-<br/>7e échelon <br/>
-</td>
-<td align="center">
-<br/>463 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>495 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>6e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
 </td>
-<td align="center">
-<br/>440 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>420 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>486 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
 </td>
-<td align="center">
-<br/>392 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>372 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>473 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
 </td>
-<td align="center">
-<br/>362 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>355 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>464 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>Echelle de solde n° 3 <br/>
+<td align="left" rowspan="3" valign="top">
+<p align="left">Echelle de solde n° 3 </p>
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>8e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
 </td>
-<td align="center">
-<br/>362 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>7e échelon <br/>
-</td>
-<td align="center">
-<br/>354 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>389 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>6e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
 </td>
-<td align="center">
-<br/>348 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
-</td>
-<td align="center">
-<br/>335 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>377 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
 </td>
-<td align="center">
-<br/>332 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
-</td>
-<td align="center">
-<br/>325 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>367 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
+<td align="left" rowspan="12" valign="top">
+<p align="left">Sergent-chef ou maître </p>
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>315 <br/>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Echelle de solde n° 4 </p>
+<br/>
+<br/>
 </td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
 </td>
-<td align="center">
-<br/>306 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>Echelle de solde n° 2 <br/>
-</td>
-<td align="center">
-<br/>8e échelon <br/>
-</td>
-<td align="center">
-<br/>332 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>513 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>7e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
 </td>
-<td align="center">
-<br/>323 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>6e échelon <br/>
-</td>
-<td align="center">
-<br/>316 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>489 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>5e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
 </td>
-<td align="center">
-<br/>305 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>4e échelon <br/>
-</td>
-<td align="center">
-<br/>296 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>464 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>3e échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
 </td>
-<td align="center">
-<br/>292 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>2e échelon <br/>
-</td>
-<td align="center">
-<br/>289 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>442 </p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>1er échelon <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
 </td>
-<td align="center">
-<br/>288 <br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>422 </p>
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<br/>(1) Echelon exceptionnel attribué dans la limite de 25 % de l'effectif des majors.</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>393 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Echelle de solde n° 3 </p>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>377 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>367 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>362 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>355 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>348 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1er échelon </p>
+</td>
+<td>
+<p align="center">336</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="23" valign="top">
+<p align="left">Sergent ou second maître </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p align="center">
+<br/>
+</p>
+<br/>
+<br/>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Echelle de solde n° 4 </p>
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">7e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">465 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>441 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>422 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>395 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">3e échelon</p>
+</td>
+<td align="left" valign="top">
+<p align="center">374 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p align="center">365 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>358 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Echelle de solde n° 3 </p>
+<br/>
+<br/>
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>8e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>363 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>7e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>355 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>350 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>336 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>333 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>328 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>319 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>312 </p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Echelle de solde n° 2 </p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+<p align="center">
+<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>8e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>332 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>7e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>323 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>6e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>316 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>5e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>305 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>4e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>296 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>3e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>292 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>2e échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>289 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">
+<br/>1er échelon </p>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>288</p>
+</td>
 </tr>
 </tbody>
 </table>
-
-</div>

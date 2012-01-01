@@ -5,6 +5,7 @@
 - [Aide publique au développement](aide-publique-au)
 - [Culture](culture)
 - [Défense](defense)
+- [Administration générale et territoriale de l'Etat](administration-generale-et)
 - [Agriculture, pêche, alimentation, forêt et affaires rurales](agriculture-peche-alimentation-foret-et)
 - [Anciens combattants, mémoire et liens avec la Nation](anciens-combattants-memoire-et)
 - [Contrôle et exploitation aériens](controle-et)

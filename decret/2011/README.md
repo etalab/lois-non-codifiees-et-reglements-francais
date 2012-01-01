@@ -568,6 +568,7 @@
 - [Décret n°2011-1938 du 22 décembre 2011 (AGRT1105159D)](decret-n2011-1938-du-22-decembre-2011-agrt1105159d)
 - [Décret n°2011-1939 du 22 décembre 2011 (ESRH1126101D)](decret-n2011-1939-du-22-decembre-2011-esrh1126101d)
 - [Décret n°2011-314 du 22 mars 2011 (OMEO1014541D)](decret-n2011-314-du-22-mars-2011-omeo1014541d)
+- [Décret n°2011-451 du 22 avril 2011 (JUSC1102626D)](decret-n2011-451-du-22-avril-2011-jusc1102626d)
 - [Décret n°2011-868 du 22 juillet 2011 (IOCD1108795D)](decret-n2011-868-du-22-juillet-2011-iocd1108795d)
 - [Décret n°2011-869 du 22 juillet 2011 (IOCD1109587D)](decret-n2011-869-du-22-juillet-2011-iocd1109587d)
 - [Décret n°2011-1170 du 23 septembre 2011 (DEFH1113026D)](decret-n2011-1170-du-23-septembre-2011-defh1113026d)
