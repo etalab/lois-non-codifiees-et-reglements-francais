@@ -305,8 +305,6 @@
 - [Arrêté du 15 mars 1999 (MESP9920859A)](arrete-du-15-mars-1999-mesp9920859a)
 - [Arrêté du 15 novembre 1999 (AGRP9902294A)](arrete-du-15-novembre-1999-agrp9902294a)
 - [Arrêté du 15 novembre 1999 (ATEP9980395A)](arrete-du-15-novembre-1999-atep9980395a)
-- [Arrêté du 15 novembre 1999 (DEFD9902081A)](arrete-du-15-novembre-1999-defd9902081a)
-- [Arrêté du 15 novembre 1999 (DEFD9902089A)](arrete-du-15-novembre-1999-defd9902089a)
 - [Arrêté du 15 novembre 1999 (ECOI9900539A)](arrete-du-15-novembre-1999-ecoi9900539a)
 - [Arrêté du 15 novembre 1999 (ECOI9900540A)](arrete-du-15-novembre-1999-ecoi9900540a)
 - [Arrêté du 15 novembre 1999 (ECOI9900541A)](arrete-du-15-novembre-1999-ecoi9900541a)

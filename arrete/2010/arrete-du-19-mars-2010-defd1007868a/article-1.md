@@ -82,8 +82,4 @@ a) Relevant de la direction des affaires juridiques :
 
 ― le dépôt central des archives de la justice militaire.
 
-b) Relevant de la direction des statuts, des pensions et de la réinsertion sociale :
-
-― les directions déconcentrées du ministère de la défense chargées des anciens combattants sur le territoire national et dans les pays du Maghreb ;
-
-― le service des ressortissants résidant à l'étranger.
+b) (supprimé).
