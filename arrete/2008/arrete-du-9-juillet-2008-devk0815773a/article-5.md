@@ -24,4 +24,6 @@ L'Agence française de l'information multimodale et de la billettique est rattac
 
 L'Armement des phares et balises est rattaché, en tant que service à compétence nationale, au directeur des affaires maritimes.
 
+L'Ecole nationale de la sécurité et de l'administration de la mer est rattachée, en tant que service à compétence nationale, au directeur des affaires maritimes.
+
 En outre, le directeur des services de transport est le commissaire délégué aux transports terrestres et le directeur des affaires maritimes est le commissaire délégué aux transports maritimes.
