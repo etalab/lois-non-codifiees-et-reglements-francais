@@ -12,6 +12,6 @@ Sont dispensés de la condition de diplôme prévue à l'article 11 (2°) de la 
 
 5° Les avocats au Conseil d'Etat et à la Cour de cassation ;
 
-6° Les avoués près les cours d'appel ;
+6° Les anciens avoués près les cours d'appel ;
 
 7° Les anciens avocats inscrits à un barreau français et les anciens conseils juridiques.
