@@ -8,8 +8,7 @@ multiples](chapitre-ier)
 Magasins de vente, centres commerciaux.](chapitre-ii)
 - [Chapitre III : Etablissements du type "N"
 Restaurants et débits de boissons](chapitre-iii)
-- [Chapitre IV : Etablissements du type "O" 
-Hôtels et pensions de famille.](chapitre-iv)
+- [Chapitre IV : Etablissements du type O - Hôtels et autres établissements d'hébergement](chapitre-iv)
 - [Chapitre V : Etablissements du type P - 
 Salles de danse et salles de jeux](chapitre-v)
 - [Chapitre VI : Etablissements du type R, Etablissements d'éveil, d'enseignement, de formation, centres de vacances, centres de loisirs sans hébergement](chapitre-vi)
