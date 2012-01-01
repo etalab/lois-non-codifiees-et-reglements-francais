@@ -3,6 +3,7 @@
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2006-648 du 2 juin 2006 (ECOX0500233D)](decret-n2006-648-du-2-juin-2006-ecox0500233d)
 - [Décret n°2006-780 du 3 juillet 2006 (INTB0600134D)](decret-n2006-780-du-3-juillet-2006-intb0600134d)
+- [Décret n°2006-504 du 3 mai 2006 (INTB0600033D)](decret-n2006-504-du-3-mai-2006-intb0600033d)
 - [Décret n°96-772 du 4 septembre 1996 (INTE9600202D)](decret-n96-772-du-4-septembre-1996-inte9600202d)
 - [Décret n°2006-1341 du 6 novembre 2006 (EQUG0601210D)](decret-n2006-1341-du-6-novembre-2006-equg0601210d)
 - [Décret n°2006-1343 du 6 novembre 2006 (EQUG0601212D)](decret-n2006-1343-du-6-novembre-2006-equg0601212d)
