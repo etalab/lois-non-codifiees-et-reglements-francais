@@ -9,5 +9,3 @@ La priorité est accordée à celui qui a obtenu la note la plus élevée à la 
 2° Pour le concours interne et le troisième concours :
 
 La priorité est accordée à celui qui a obtenu la note la plus élevée à l'épreuve d'admission.
-
-Toutefois, lorsque le concours interne comporte deux épreuves d'admissibilité et deux épreuves d'admission, il est procédé conformément au 1° ci-dessus.

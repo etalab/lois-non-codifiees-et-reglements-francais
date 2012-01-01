@@ -6,17 +6,7 @@ Section arts appliqués
 
 A. ― Epreuve d'admissibilité
 
-L'épreuve, à caractère culturel, prend appui sur des œuvres et d'éventuels commentaires ou citations concernant la création artistique en général, le design ou les métiers d'art. Elle s'inscrit dans le cadre des programmes limitatifs publiés périodiquement et comportant deux thèmes d'études, l'un relatif à une période allant du début du xxe siècle à nos jours, l'autre à une époque antérieure.
-
-A partir d'un sujet et des documents nécessaires à sa compréhension, il est demandé au candidat de rédiger une étude synthétique mettant en évidence sa culture, son aptitude à organiser ses connaissances, à hiérarchiser ses observations, à maîtriser l'emploi d'un vocabulaire spécifique pour conforter et expliciter son propos.
-
-Cette épreuve permet d'évaluer :
-
-― la culture artistique du candidat, notamment sa capacité à saisir les relations entre arts, techniques et civilisations ;
-
-― sa capacité à investir ses connaissances, ses qualités d'observation et son engagement critique dans un discours construit, cohérent et exprimé dans un langage clair et correct.
-
-Durée de l'épreuve : quatre heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -32,19 +22,13 @@ Au cours de l'entretien avec le jury, le candidat sera conduit plus particulièr
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Section biotechnologies
 
 A. ― Epreuve d'admissibilité
 
-Etude scientifique et technique : épreuve spécifique à chacune des deux options. Toutefois, le sujet de l'épreuve peut être commun aux deux options.
-
-Cette épreuve permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation scientifique et technique fournie au candidat peut comprendre notamment, et selon l'option des articles ou des extraits d'articles scientifiques, des protocoles opératoires et des fiches techniques, des résultats et/ou des graphes, des caractéristiques techniques et des données numériques.
-
-Il peut être demandé au candidat d'expliciter ou de développer certains aspects scientifiques inclus dans le dossier, de décrire le principe des méthodes d'analyse utilisées, d'analyser les protocoles opératoires mis en œuvre, d'exploiter et de justifier des résultats, de proposer des modifications des protocoles opératoires.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -62,25 +46,13 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Section économie et gestion
 
 A. ― Epreuve d'admissibilité
 
-Epreuve scientifique et technique.
-
-Les questions relèvent obligatoirement, d'une part, du champ professionnel correspondant à la section, d'autre part, du domaine économique et juridique.
-
-L'épreuve a pour but de vérifier la capacité du candidat à mobiliser et organiser ses connaissances, à mettre en œuvre ses savoir-faire, à structurer sa réflexion, à communiquer par écrit.
-
-L'épreuve comporte plusieurs questions liées ou indépendantes.
-
-Elle permet de juger des aptitudes du candidat :
-
-― à analyser une question ;
-
-― à poser une problématique, à effectuer des choix pertinents, à proposer des solutions adaptées, à présenter une argumentation cohérente.
-
-Durée de l'épreuve : quatre heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -92,7 +64,9 @@ L'épreuve comprend un exposé et un entretien avec le jury. Elle vise à appré
 
 Durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum (dont exposé : trente minutes maximum, entretien : trente minutes maximum) ; coefficient 2.
 
-Les programmes de référence, sur lesquels portent l'épreuve d'admissibilité et l'épreuve d'admission, sont ceux des enseignements technologiques et professionnels conduisant aux diplômes des niveaux V, IV et III dans la spécialité correspondant à la section.
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Les programmes de référence, sur lesquels porte l'épreuve d'admission, sont ceux des enseignements technologiques et professionnels conduisant aux diplômes des niveaux V, IV et III dans la spécialité correspondant à la section.
 
 Section esthétique-cosmétique
 
@@ -100,15 +74,7 @@ A. ― Epreuve d'admissibilité
 
 Etude scientifique et technologique.
 
-L'épreuve a pour objectif d'apprécier la maîtrise des connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique relevant de la spécialité.
-
-La documentation fournie peut comprendre des articles ou extraits d'études scientifiques, des protocoles, des fiches techniques, des résultats d'investigation, des caractéristiques techniques et des données numériques liés à la biologie appliquée, à la cosmétologie, aux techniques esthétiques.
-
-A partir de ces données, il peut être demandé au candidat d'expliciter ou développer certains aspects scientifiques en lien avec le sujet, de décrire le principe des méthodes utilisées, d'analyser les protocoles mis en œuvre, d'exploiter et justifier des résultats, de proposer des solutions techniques.
-
-L'épreuve permet au candidat de mettre en valeur la précision de ses analyses, le choix des méthodes utilisées et l'exactitude des résultats ainsi que d'évaluer le niveau et l'actualité des connaissances. Elle permet également d'apprécier la pertinence des solutions proposées et la qualité des documents produits. Sont en outre pris en compte la rigueur du vocabulaire scientifique et technique, le respect de la réglementation en vigueur ainsi que la clarté et la rigueur de l'expression écrite de la composition.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -126,39 +92,13 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Section génie civil
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un système technique et/ou d'un processus technique et/ou d'un ouvrage : épreuve spécifique à chacune des options. Toutefois, le sujet de l'épreuve peut être commun à deux ou trois options.
-
-Cette épreuve à caractère technique prend appui sur un système technique et/ou un processus technique et/ou un ouvrage.
-
-Elle permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un système technique et/ou d'un processus technique et/ou d'un ouvrage ;
-
-― des schémas, graphes et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du système et/ou du processus et/ou de l'ouvrage étudiés ;
-
-― des informations sur le processus et les moyens associés ;
-
-― des caractéristiques techniques et des données numériques résultant de calculs et de simulations informatiques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-Il peut être demandé au candidat :
-
-― de conduire l'analyse de tout ou partie du système étudié ou du processus ou de l'ouvrage et de le modéliser totalement ou partiellement ;
-
-― d'effectuer des calculs de prédétermination ;
-
-― d'exploiter des résultats de simulations ou de calculs informatiques ;
-
-― de proposer, en réponse à une modification du cahier des charges, des évolutions architecturales du système et/ou des solutions constructives en réponse à des fonctions techniques.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -175,32 +115,14 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
 Section génie chimique
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un procédé.
-
-Cette épreuve à caractère technique prend appui sur un procédé de fabrication utilisé dans l'industrie chimique.
-
-Elle permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un procédé de fabrication ;
-
-― des schémas et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du procédé étudié ;
-
-― des informations sur le procédé et les moyens associés ;
-
-― des caractéristiques techniques et des données numériques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-Il peut être demandé au candidat de conduire l'analyse de tout ou partie du procédé étudié et de le modéliser totalement ou partiellement, d'exploiter des résultats, de proposer, en réponse à une modification du cahier des charges, des modifications des opérations unitaires impliquées et/ou de l'appareillage utilisé, d'optimiser un procédé de fabrication.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -217,32 +139,14 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
 Section génie électrique
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un système technique et/ou d'un processus technique et/ou d'un équipement : épreuve spécifique à chacune des deux options. Toutefois, le sujet de l'épreuve peut être commun aux deux options.
-
-Cette épreuve à caractère technique prend appui sur un système technique et/ou un processus technique et/ou un équipement.
-
-Elle permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un système technique et/ou d'un processus technique et/ou d'un équipement ;
-
-― des schémas, graphes et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du système technique et/ou du processus technique et/ou de l'équipement étudiés ;
-
-― des informations sur le processus et les procédés associés ;
-
-― des caractéristiques techniques et des données numériques résultant de calculs et de simulations informatiques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-Il peut être demandé au candidat de conduire l'analyse de tout ou partie du système étudié ou du processus ou de l'équipement et de le modéliser totalement ou partiellement, d'effectuer des calculs de prédétermination, d'exploiter des résultats de simulations ou de calculs informatiques, de proposer, en réponse à une modification du cahier des charges, des évolutions architecturales du système et/ou des solutions constructives permettant de satisfaire aux nouvelles fonctions, d'analyser un produit, un moyen de production ou un service afin d'en optimiser certaines fonctions relatives au génie électrique.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -259,32 +163,14 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
 Section génie industriel
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un système technique et/ou d'un processus technique et/ou d'un produit : épreuve spécifique à chacune des cinq options. Toutefois, le sujet de l'épreuve peut être commun à deux ou plusieurs options.
-
-Cette épreuve à caractère technique prend appui sur un système technique et/ou un processus technique et/ou un produit.
-
-Elle permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un système technique et/ou d'un processus technique et/ou d'un produit ;
-
-― des schémas, graphes et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du système technique et/ou du processus technique et/ou du produit étudiés ;
-
-― des informations sur le processus et les moyens associés ;
-
-― des caractéristiques techniques et des données numériques résultant de calculs et de simulations informatiques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-Il peut être demandé au candidat de conduire l'analyse de tout ou partie du système étudié ou du processus ou du produit et de le modéliser totalement ou partiellement, d'effectuer des calculs de prédétermination, d'exploiter des résultats de simulations ou de calculs informatiques, de proposer, en réponse à une modification du cahier des charges, des évolutions architecturales du système et/ou des solutions constructives en réponse à des fonctions techniques, d'analyser un processus de production afin de l'optimiser.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -301,32 +187,14 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
 Section génie mécanique
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un système technique et/ou d'un processus technique : épreuve spécifique à chacune des options. Toutefois, le sujet de l'épreuve peut être commun à deux ou trois options.
-
-Cette épreuve à caractère technique prend appui sur un système technique et/ou un processus technique.
-
-Elle permet d'évaluer les connaissances scientifiques et techniques du candidat et sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un système technique et/ou d'un processus technique ;
-
-― des schémas, graphes et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du système technique et/ou du processus technique étudiés ;
-
-― des informations sur le processus et les moyens associés ;
-
-― des caractéristiques techniques et des données numériques résultant de calculs et de simulations informatiques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-Il peut être demandé au candidat de conduire l'analyse de tout ou partie du système étudié ou du mécanisme et de le modéliser totalement ou partiellement, d'effectuer des calculs de prédétermination, d'exploiter des résultats de simulations ou de calculs informatiques, de proposer, en réponse à une modification du cahier des charges, des évolutions architecturales du système et/ou des solutions constructives en réponse à des fonctions techniques, d'analyser un processus de production afin de l'optimiser.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -344,29 +212,21 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Section hôtellerie-restauration
 
 A. ― Epreuve d'admissibilité
 
-Epreuve de technologie dans l'option choisie.
-
-L'épreuve peut faire appel à la fois à des connaissances d'ordre général sur le secteur hôtelier et à des connaissances précises sur la technologie spécialisée de l'option choisie.
-
-Elle doit permettre au candidat de mettre en valeur ses aptitudes pédagogiques : capacité de synthèse des savoirs et de leur adaptation à un niveau d'enseignement donné.
-
-Elle peut porter :
-
-― pour l'option organisation et production culinaire : sur l'organisation de la production, la connaissance des matériels, la détermination des coûts, l'évolution des processus de fabrication, ainsi que sur les sciences appliquées à l'alimentation et sur l'hygiène, la sécurité et l'environnement ;
-
-― pour l'option services et commercialisation, sur les systèmes de distribution, leur organisation, leur évolution, la vente, la communication, la facturation, les règlements, ainsi que sur l'œnologie, les crus des vins et les produits du bar.
-
-Durée de l'épreuve : trois heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
 Exploitation pédagogique pratique dans l'option choisie.
 
-L'épreuve comprend la réalisation d'un thème pédagogique pratique et un entretien avec le jury. L'épreuve de l'option services et commercialisation comporte une séquence en langue vivante étrangère. Le candidat indique la langue choisie lors de son inscription parmi quatre langues vivantes : allemand, anglais, espagnol et italien.
+L'épreuve comprend la réalisation d'un thème pédagogique pratique et un entretien avec le jury.
+
+L'épreuve de l'option services et commercialisation comporte une séquence en langue vivante étrangère. Le candidat indique la langue choisie lors de son inscription parmi quatre langues vivantes : allemand, anglais, espagnol et italien.
 
 Cette épreuve doit permettre de tester la valeur pédagogique du candidat et son savoir professionnel dans son aptitude à mobiliser, à intégrer, à présenter et à transmettre ses connaissances.
 
@@ -376,35 +236,17 @@ Le jury évalue l'aptitude du candidat à préparer des séquences de travaux pr
 
 L'épreuve se termine par un entretien pédagogique qui peut donner lieu à un élargissement permettant au jury de prendre en compte l'expérience professionnelle du candidat.
 
-Durée de l'épreuve : trois heures (quarante minutes pour la phase de préparation et d'organisation sous forme écrite ; deux heures pour la phase de réalisation vingt minutes pour la phase d'entretien) ; coefficient 2.
+Durée de l'épreuve : trois heures et dix minutes (quarante minutes pour la phase de préparation et d'organisation sous forme écrite ; deux heures pour la phase de réalisation ; trente minutes pour la phase d'entretien).
 
-Les programmes de référence sur lesquels portent l'épreuve d'admissibilité et l'épreuve d'admission sont, dans l'option choisie, ceux des enseignements technologiques et professionnels correspondant aux diplômes des niveaux V, IV et III conduisant aux métiers de l'hôtellerie-restauration.
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Les programmes de référence sur lesquels porte l'épreuve d'admission sont, dans l'option choisie, ceux des enseignements technologiques et professionnels correspondant aux diplômes des niveaux V, IV et III conduisant aux métiers de l'hôtellerie-restauration.
 
 Section industries graphiques
 
 A. ― Epreuve d'admissibilité
 
-Etude d'un système technique et/ou d'un processus technique :
-
-Cette épreuve à caractère technique prend appui sur un système technique et/ou un processus technique.
-
-La documentation technique fournie au candidat peut comprendre notamment :
-
-― un dossier de description et de spécification de tout ou partie d'un système et/ou d'un processus technique ;
-
-― des schémas, graphes et représentations diverses précisant l'organisation structurelle et/ou fonctionnelle et/ou temporelle du système et/ou du processus technique étudié ;
-
-― des informations sur le processus et les moyens associés ;
-
-― des caractéristiques techniques et des données numériques résultant de traitements et de simulations informatiques ;
-
-― des propositions de modification d'éléments du cahier des charges.
-
-A partir de ces données, le candidat doit pouvoir conduire l'analyse de tout ou partie du système étudié et le modéliser totalement ou partiellement, proposer et concevoir l'agencement d'un système et/ou d'un processus technique, en vue de la réalisation d'un produit imprimé ou multimédia, exploiter des résultats de tests, de simulations ou de traitements informatiques, proposer, en réponse à une modification du cahier des charges, des évolutions architecturales du système, analyser un processus de production afin de l'optimiser.
-
-L'épreuve a pour objectif d'apprécier les connaissances techniques, scientifiques et juridiques du candidat et son aptitude à les mobiliser pour résoudre un problème technique ou de fabrication. Elle permet également au candidat de mettre en valeur la pertinence et la cohérence des solutions avancées, l'exactitude des résultats fournis et leur adéquation à la problématique proposée. Sont en outre pris en compte la rigueur du vocabulaire, le respect des normes et conventions de représentation, ainsi que la clarté et la rigueur de l'expression écrite et de la composition.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve pratique d'admission
 
@@ -422,23 +264,13 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Section langues vivantes-lettres
 
 A. ― Epreuves d'admissibilité
 
-1° Langue vivante. L'épreuve comporte :
-
-― l'exploitation pédagogique en langue française de texte(s), de documents en langue étrangère proposés aux candidats ;
-
-― une version et un thème, ou l'explication en langue étrangère d'un texte en langue étrangère, ou une rédaction en langue étrangère.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
-
-Chaque partie de l'épreuve compte pour moitié dans l'attribution des points.
-
-2° Français : exploitation pédagogique d'un ou plusieurs textes d'auteurs de langue française.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 3), portant au choix du candidat au moment de l'inscription soit sur la langue vivante, soit sur le français.
 
 B. ― Epreuves d'admission
 
@@ -448,49 +280,41 @@ B. ― Epreuves d'admission
 
 ― l'explication en langue étrangère d'un texte en langue étrangère pouvant comporter une traduction partielle et la présentation en langue française d'un ou plusieurs faits de langue, suivie d'un entretien avec le jury.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 2.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
 
 Chaque partie de l'épreuve compte pour moitié dans l'attribution des points.
 
-2° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française.
+2° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 2.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
+
+Lors de l'entretien de l'épreuve d'admission correspondant à la valence choisie par le candidat pour le dossier de reconnaissance des acquis de l'expérience professionnelle de l'épreuve d'admissibilité, dix minutes maximum pourront être réservées à un échange sur le dossier qui reste, à cet effet, à la disposition du jury. Lorsque la valence choisie porte sur la langue vivante, cet entretien se déroule dans cette langue.
 
 Section lettres-histoire et géographie
 
 A. ― Epreuves d'admissibilité
 
-1° Français : exploitation pédagogique d'un ou de plusieurs textes d'auteurs de langue française :
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 3), portant au choix du candidat au moment de l'inscription soit sur le français, soit sur l'histoire ou la géographie.
 
-Durée de l'épreuve : cinq heures ; coefficient 2.
+B. - Epreuves d'admission
 
-2° Histoire-géographie : composition sur dossier d'histoire ou de géographie.
+1° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française. L'épreuve inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
 
-La discipline (histoire ou géographie) qui fait l'objet de la composition sur dossier est déterminée au choix du jury. Les candidats sont informés de ce choix au moment de l'épreuve. Les candidats ont le choix entre deux sujets.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
 
-Durée de l'épreuve : cinq heures ; coefficient 2.
+2° Histoire-géographie : commentaire, analyse scientifique et utilisation pédagogique de documents se rapportant à l'histoire ou à la géographie en fonction d'un tirage au sort au moment de l'épreuve.
 
-B. ― Epreuves d'admission
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 3.
 
-1° Français : explication et exploitation pédagogique d'un texte d'un auteur de langue française.
+Lors de l'entretien de l'épreuve d'admission correspondant à la valence choisie par le candidat pour le dossier de reconnaissance des acquis de l'expérience professionnelle de l'épreuve d'admissibilité, dix minutes maximum pourront être réservées à un échange sur le dossier qui reste, à cet effet, à la disposition du jury.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 2.
-
-2° Histoire-géographie : commentaire, analyse scientifique et utilisation pédagogique de documents, dans la discipline qui n'a pas fait l'objet de la seconde épreuve d'admissibilité.
-
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 2.
-
-Le programme des épreuves est publié au Bulletin officiel de l'éducation nationale.
+Le programme des épreuves d'admission est publié au Bulletin officiel de l'éducation nationale.
 
 Section mathématiques-sciences physiques
 
 A. ― Epreuves d'admissibilité
 
-1° Composition de mathématiques (durée de l'épreuve : quatre heures ; coefficient 2).
-
-2° Composition de sciences physiques (durée de l'épreuve : quatre heures ; coefficient 2).
-
-Le sujet de chaque composition est constitué de différentes questions, exercices ou problèmes, qui peuvent intégrer des thèmes d'études permettant au candidat de valoriser ses acquis dans l'enseignement de la discipline.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 3), portant au choix du candidat au moment de l'inscription soit sur les mathématiques, soit sur les sciences physiques (physique ou chimie).
 
 B. ― Epreuves d'admission
 
@@ -499,6 +323,8 @@ Chacune des deux épreuves professionnelles comporte un exposé suivi d'un entre
 Chaque épreuve professionnelle a pour objet la présentation par le candidat d'une séquence d'enseignement en lycée professionnel, sur le thème fixé par le sujet. Le candidat fera également état des réflexions et analyses qui l'ont conduit à effectuer ses choix pédagogiques.
 
 Pendant la préparation de ces épreuves, le candidat peut utiliser des ouvrages et des documents de mathématiques, de physique et de chimie de la bibliothèque du concours, ainsi que des textes officiels (notamment les programmes des classes de lycée professionnel), et des matériels scientifiques et informatiques mis à sa disposition sur le site des épreuves.
+
+Lors de l'entretien de l'épreuve d'admission correspondant à la valence choisie par le candidat pour le dossier de reconnaissance des acquis de l'expérience professionnelle de l'épreuve d'admissibilité, dix minutes maximum pourront être réservées à un échange sur le dossier qui reste, à cet effet, à la disposition du jury.
 
 1° Epreuve professionnelle en mathématiques.
 
@@ -514,7 +340,7 @@ L'entretien peut amener le jury à approfondir certains points de l'exposé et �
 
 Les candidats auront à leur disposition les mêmes logiciels lors de la préparation et lors de la présentation devant le jury.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 3.
 
 2° Epreuve professionnelle en sciences physiques (physique ou chimie).
 
@@ -530,31 +356,15 @@ L'entretien peut amener le jury à approfondir certains points de l'exposé et �
 
 Le candidat reçoit, pendant la préparation, l'aide logistique du personnel de laboratoire.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 3.
 
-Le programme des épreuves du concours fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves d'admission fait l'objet d'une publication au Bulletin officiel de l'éducation nationale.
 
 Section sciences et techniques médico-sociales
 
 A. ― Epreuve d'admissibilité
 
-Etude scientifique et technique.
-
-Cette épreuve permet d'évaluer les connaissances du candidat en biologie humaine, en microbiologie générale et appliquée, en sciences médico-sociales, ainsi que sa capacité à les mobiliser pour résoudre un problème technique.
-
-La documentation scientifique et technique fournie au candidat peut comprendre notamment :
-
-― des textes législatifs et réglementaires ;
-
-― des schémas, des graphes, des fiches techniques ;
-
-― des articles ou des extraits d'articles ou de banques de données ;
-
-― des documents professionnels des secteurs sanitaire et social.
-
-Il peut être demandé au candidat d'expliciter ou de développer certains aspects inclus dans le dossier, de conduire une analyse des solutions fournies ou de proposer des solutions, d'exploiter la documentation donnée, de mettre en valeur les points essentiels du sujet traité.
-
-Durée de l'épreuve : cinq heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -570,17 +380,15 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Sections pour lesquelles il n'existe pas de diplômes
 
 de niveau supérieur à celui du baccalauréat relevant du groupe A
 
 A. ― Epreuve d'admissibilité
 
-Exploitation pédagogique d'un thème professionnel.
-
-A partir de compétences figurant dans un référentiel du champ professionnel relevant de la spécialité du concours, le candidat propose l'organisation pédagogique d'une séance. Il en définit la place et les objectifs dans une séquence de formation, ses contenus, les moyens pédagogiques et les activités à mettre en œuvre ainsi que l'évaluation qu'il envisage.
-
-Durée : quatre heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -598,17 +406,15 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
 Sections pour lesquelles il n'existe pas de diplômes
 
 de niveau supérieur à celui du baccalauréat relevant du groupe B
 
 A. ― Epreuve d'admissibilité
 
-Exploitation pédagogique d'un thème professionnel.
-
-Cette épreuve permet de valider les connaissances technologiques et scientifiques liées aux métiers de l'alimentation, et d'évaluer la capacité du candidat à les exploiter dans le cadre des activités pédagogiques.
-
-Durée : trois heures ; coefficient 2.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. ― Epreuve d'admission
 
@@ -669,3 +475,5 @@ La phase pédagogique débute par un exposé du candidat portant sur le projet o
 Cet exposé, qui dure au maximum quinze minutes, est suivi d'un entretien qui doit permettre d'apprécier l'aptitude du candidat à réagir aux questions qui lui sont posées, la maîtrise de sa discipline et la qualité de sa réflexion pédagogique.
 
 Durée : cinq heures (phase de conception et d'organisation sous forme écrite : trente minutes ; phase de transformation et de réalisation : trois heures et trente minutes ; phase pédagogique : une heure) ; coefficient 2.
+
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.

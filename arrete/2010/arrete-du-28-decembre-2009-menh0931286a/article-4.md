@@ -1,7 +1,3 @@
 # Article 4
 
-Le concours interne comporte une épreuve écrite d'admissibilité et une épreuve orale d'admission.
-
-Toutefois, la section langues régionales comporte deux épreuves d'admissibilité et deux épreuves d'admission.
-
-Chacune des épreuves est affectée du coefficient 2.
+Le concours interne comporte une épreuve d'admissibilité et une épreuve d'admission.L'épreuve d'admissibilité est affectée du coefficient 1 et l'épreuve d'admission est affectée du coefficient 2.
