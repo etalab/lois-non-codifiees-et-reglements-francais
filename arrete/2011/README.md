@@ -2910,7 +2910,6 @@
 - [Arrêté du 29 septembre 2011 (DEVS0923223A)](arrete-du-29-septembre-2011-devs0923223a)
 - [Arrêté du 29 septembre 2011 (EFIC1111458A)](arrete-du-29-septembre-2011-efic1111458a)
 - [Arrêté du 29 septembre 2011 (INDR1126489A)](arrete-du-29-septembre-2011-indr1126489a)
-- [Arrêté du 29 septembre 2011 (INDR1126501A)](arrete-du-29-septembre-2011-indr1126501a)
 - [Arrêté du 29 septembre 2011 (MENE1123265A)](arrete-du-29-septembre-2011-mene1123265a)
 - [Arrêté du 29 septembre 2011 (MENE1123294A)](arrete-du-29-septembre-2011-mene1123294a)
 - [Arrêté du 29 mai 2011 (DEFT1115222A)](arrete-du-29-mai-2011-deft1115222a)
