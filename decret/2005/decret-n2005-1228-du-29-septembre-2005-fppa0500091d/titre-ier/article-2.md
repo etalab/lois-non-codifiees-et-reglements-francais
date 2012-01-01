@@ -7,12 +7,12 @@ I. - La durée moyenne et la durée minimale du temps passé dans chacun des éc
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>ECHELONS</strong>
+<b>ECHELONS</b>
 </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">
-<strong>DUREE</strong>
+<b>DUREE</b>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ II. - La durée moyenne et la durée minimale du temps passé dans chacun des é
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">
-<strong>DURÉE </strong>
+<b>DURÉE </b>
 </p>
 </td>
 </tr>
@@ -279,4 +279,4 @@ II. - La durée moyenne et la durée minimale du temps passé dans chacun des é
 </tbody>
 </table>
 
-III. - Pour les corps dotés de l'échelon spécial dans le grade classé en échelle 6 de rémunération mentionné à l'article 1er, la durée moyenne du 7e échelon est fixée à quatre ans et la durée minimale à trois ans.
+III. - Pour les corps mentionnés au troisième alinéa de l'article 1er, la durée moyenne du 7e échelon est fixée à quatre ans et la durée minimale à trois ans pour l'accès à l'échelon spécial. Pour les autres corps, les conditions d'accès à l'échelon spécial sont celles mentionnées au quatrième alinéa de l'article 1er.
