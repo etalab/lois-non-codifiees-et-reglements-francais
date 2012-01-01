@@ -3,6 +3,7 @@
 - [Chapitre Ier : Conditions générales d'aptitude aux fonctions d'huissier de justice.](chapitre-ier)
 - [Chapitre II : Le stage.](chapitre-ii)
 - [Chapitre III : L'examen professionnel.](chapitre-iii)
+- [Chapitre III bis :  La formation professionnelle continue des huissiers de justice](chapitre-iii-bis)
 - [Chapitre IV : Nomination aux offices d'huissier de justice.](chapitre-iv)
 - [Chapitre V : Créations, transferts et suppressions d'offices d'huissier de justice.](chapitre-v)
 - [Chapitre VI : Dispositions spéciales aux huissiers de justice dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle *Alsace-Lorraine*.](chapitre-vi)

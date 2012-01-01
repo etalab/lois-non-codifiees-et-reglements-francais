@@ -7,4 +7,5 @@
 - [Section VI : Le diplôme supérieur de notariat.](section-vi)
 - [Section VII : Les certificats de spécialisation.](section-vii)
 - [Article 8](article-8.md)
+- [Section VIII :  La formation professionnelle continue des notaires](section-viii)
 - [Article 9](article-9.md)
