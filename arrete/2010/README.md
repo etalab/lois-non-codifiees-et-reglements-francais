@@ -1842,7 +1842,6 @@
 - [Arrêté du 20 janvier 2010 (SASP0927622A)](arrete-du-20-janvier-2010-sasp0927622a)
 - [Arrêté du 20 janvier 2010 (SASP1001859A)](arrete-du-20-janvier-2010-sasp1001859a)
 - [Arrêté du 20 juillet 2010 (DEVA1018312A)](arrete-du-20-juillet-2010-deva1018312a)
-- [Arrêté du 20 juillet 2010 (DEVU1013660A)](arrete-du-20-juillet-2010-devu1013660a)
 - [Arrêté du 20 juillet 2010 (ECED1016047A)](arrete-du-20-juillet-2010-eced1016047a)
 - [Arrêté du 20 juillet 2010 (JUSF1019806A)](arrete-du-20-juillet-2010-jusf1019806a)
 - [Arrêté du 20 juillet 2010 (JUSF1019807A)](arrete-du-20-juillet-2010-jusf1019807a)

@@ -6,7 +6,7 @@ BARÈME DE MARGE DE L'ÉTABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 <tbody>
 <tr>
 <td width="405">
-<p align="center">POUR LA PARTIE DU PRIX FABRICANT HT<br/>comprise entre</p>
+<p align="center">POUR LA PARTIE DU PRIX<br/>fabricant HT</p>
 </td>
 <td width="237">
 <p align="center">COEFFICIENT HT</p>
@@ -14,34 +14,18 @@ BARÈME DE MARGE DE L'ÉTABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 </tr>
 <tr>
 <td valign="top" width="405">
-<p>0 et 22,90 €</p>
+<p>De 0 € à 450 €</p>
 </td>
 <td valign="top" width="237">
-<p align="center">0,099 3</p>
+<p align="center">0,066 8 avec un minimum de 0,30 €</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="405">
-<p align="left">22,90 € et 150 €</p>
+<p>Au-delà de 450 €</p>
 </td>
 <td valign="top" width="237">
-<p align="center">0,06</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">150 € et 400 €</p>
-</td>
-<td>
-<p align="center"> 0,02</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Au-delà de 400 € </p>
-</td>
-<td>
-<p align="center"> 0,00</p>
+<p align="center">0</p>
 </td>
 </tr>
 </tbody>

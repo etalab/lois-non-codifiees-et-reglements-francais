@@ -32,10 +32,6 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 1068. Excédents de fonctionnement capitalisés.
 
-1069. Reprise sur excédents capitalisés.
-
-Neutralisation 1999 de l'excédent de charges sur les produits.
-
 11. Report à nouveau (solde créditeur ou débiteur).
 
 110. Report à nouveau (solde créditeur).
@@ -54,6 +50,10 @@ Neutralisation 1999 de l'excédent de charges sur les produits.
 
 1318. Autres subventions d'équipement.
 
+13181 Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage (CFA).
+
+13188 Autres.
+
 132. Subventions d'équipement non transférables.
 
 1321. Etat.
@@ -67,6 +67,30 @@ Neutralisation 1999 de l'excédent de charges sur les produits.
 138. Autres subventions d'investissement non transférables.
 
 139. Subventions d'investissement transférées au compte de résultat.
+
+1391 Subventions d'équipement transférables.
+
+13911 Etat.
+
+13912 Collectivités et établissements publics locaux.
+
+13918 Autres subventions d'équipement.
+
+139181 Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage (CFA).
+
+139188 Autres.
+
+1392 Subventions d'équipement non transférables.
+
+13921 Etat.
+
+13922 Collectivités et établissements publics locaux.
+
+13928 Autres subventions d'équipement.
+
+1397 Autres subventions d'investissement transférables.
+
+1398 Autres subventions d'investissement non transférables.
 
 15. Provisions pour risques et charges.
 
@@ -372,7 +396,11 @@ CLASSE 4. - COMPTES DE TIERS
 
 4014. Fournisseurs. - Exercices antérieurs.
 
-4017. Fournisseurs. - Retenues de garantie et oppositions.
+4017. Fournisseurs. - Retenues de garantie, cessions, oppositions.
+
+40171 Fournisseurs - Retenues de garantie.
+
+40172 Fournisseurs - Cessions, oppositions.
 
 402. Collectivités locales.
 
@@ -392,7 +420,11 @@ CLASSE 4. - COMPTES DE TIERS
 
 4044. Fournisseurs d'immobilisations. - Exercices antérieurs.
 
-4047. Fournisseurs. - Retenues de garantie et oppositions.
+4047. Fournisseurs. - Retenues de garantie, cessions, oppositions.
+
+40471 Fournisseurs - Retenues de garantie.
+
+40472 Fournisseurs - Cessions, oppositions.
 
 405. Fournisseurs d'immobilisations. - Lettre-change relevé (LCR).
 
@@ -424,7 +456,11 @@ CLASSE 4. - COMPTES DE TIERS
 
 4124. Collectivités locales. - Exercices antérieurs.
 
-416. Créances irrécouvrables admises par le juge des comptes.
+416. Clients douteux.
+
+4161 Créances douteuses.
+
+4162 Créances irrécouvrables admises par le juge des comptes.
 
 418. Redevables. - Produits non encore facturés.
 
@@ -536,9 +572,9 @@ CLASSE 4. - COMPTES DE TIERS
 
 4487. Produits à recevoir.
 
-458. Opérations d'investissement sous mandat (à subdiviser par mandat).
+458. Opérations sous mandat.
 
-4581.  Dépenses (à subdiviser par mandat).
+4581. Dépenses (à subdiviser par mandat).
 
 4582. Recettes (à subdiviser par mandat).
 
@@ -575,6 +611,8 @@ CLASSE 4. - COMPTES DE TIERS
 46722. Débiteurs divers. - Exercice précédent.
 
 46724. Débiteurs divers. - Exercices antérieurs.
+
+4674 Taxe d'apprentissage.
 
 468. Divers. - Charges à payer et produits à recevoir.
 
@@ -719,6 +757,8 @@ CLASSE 5. - COMPTES FINANCIERS
 5412. Régisseurs de recettes (fonds de caisse).
 
 5413. Administrateurs de legs.
+
+542 Disponibilités chez d'autres tiers.
 
 58. Virements internes.
 
@@ -1078,11 +1118,13 @@ CLASSE 6. - COMPTES DE CHARGES
 
 654. Pertes sur créances irrécouvrables.
 
+6541 Créances admises en non-valeur.
+
+6542 Créances éteintes.
+
 655. Indemnités de logement versées aux instituteurs
 
 Comptes ouverts uniquement dans le budget de l'IRL.
-
-.
 
 6551. Indemnités de logement versées aux instituteurs.
 
@@ -1099,6 +1141,10 @@ Comptes ouverts uniquement dans le budget de l'IRL.
 6571. Subventions d'équipement.
 
 6574. Subventions de fonctionnement aux personnes de droit privé.
+
+65741 Reversement du produit des aides aux apprentis.
+
+65748 Autres.
 
 6575. Fonds de concours aux organismes publics.
 
@@ -1228,6 +1274,10 @@ Compte réservé au budget annexe de l'IRL..
 
 7472. Régions.
 
+74721 Produit des aides aux apprentis affecté.
+
+74722 Autres.
+
 7473. Départements.
 
 7474. Communes.
@@ -1239,6 +1289,10 @@ Compte réservé au budget annexe de l'IRL..
 7477. Budget communautaire et fonds structurels.
 
 7478. Autres organismes.
+
+748 Autres subventions et participations.
+
+7483 Versement libératoires ouvrant droit à l'exonération de la taxe d'apprentissage.
 
 75. Autres produits de gestion courante.
 

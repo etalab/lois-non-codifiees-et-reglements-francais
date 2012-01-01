@@ -1,99 +1,56 @@
 # Article Annexe I
 
-TABLEAU I : PLAFONDS DE PRIX FIXÉS EN APPLICATION DE L'ARTICLE R. 443-34 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) ET APPLICABLES LORSQUE L'OPÉRATION RELÈVE DU CHAMP DE L'ARTICLE 278 SEXIES DU CODE GÉNÉRAL DES IMPÔTS (EN EUROS / M ²)
+PLAFONDS DE PRIX FIXÉS EN APPLICATION DE L'ARTICLE R. 443-34 DU CODE DE LA CONSTRUCTION
 
+ET DE L'HABITATION (CCH) (EN EUROS HORS TAXE/M²)
+
+<div align="left">
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ZONE <p>géographique <br/>
-</p>
-</th>
-<th>
-<br/>PRIX <p>plafond <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone A <br/>
+<td>
+<p align="center"> ZONE GÉOGRAPHIQUE</p>
 </td>
-<td align="center">
-<br/>3 932 <br/>
+<td>
+<p align="center"> PRIX PLAFOND</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone B1 <br/>
+<p>A</p>
 </td>
 <td align="center">
-<br/>2 637 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone B2 <br/>
-</td>
-<td align="center">
-<br/>2 302 <br/>
+<p align="center">
+<br/>3 963</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Zone C <br/>
+<p>B1</p>
 </td>
 <td align="center">
-<br/>2 014 <br/>
+<p align="center">
+<br/>2 658</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>B2</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 320</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>C</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>2 030</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-TABLEAU II : PLAFONDS DE PRIX FIXÉS EN APPLICATION DE L'ARTICLE R. 443-34 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) LORSQUE L'OPÉRATION NE RELÈVE PAS DU CHAMP DE L'ARTICLE 278 SEXIES DU CODE GÉNÉRAL DES IMPÔTS (EN EUROS / M ²)
-
-<table>
-<tbody>
-<tr>
-<th>
-<br/>ZONE <p>géographique <br/>
-</p>
-</th>
-<th>
-<br/>PRIX <p>plafond <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone A <br/>
-</td>
-<td align="center">
-<br/>4 458 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone B1 <br/>
-</td>
-<td align="center">
-<br/>2 989 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone B2 <br/>
-</td>
-<td align="center">
-<br/>2 610 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Zone C <br/>
-</td>
-<td align="center">
-<br/>2 283<br/>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
