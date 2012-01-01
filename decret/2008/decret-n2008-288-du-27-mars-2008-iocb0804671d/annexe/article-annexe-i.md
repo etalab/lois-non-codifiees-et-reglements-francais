@@ -1,10 +1,8 @@
 # Article Annexe I
 
-**OPTIONS DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ
+**OPTIONS DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ DU CONCOURS EXTERNE**
 
-ET DE LA PREMIÈRE ÉPREUVE D'ADMISSION DU CONCOURS EXTERNE**
-
-A. ― Options proposées aux candidats concourant pour les spécialités Archéologie, Monuments historiques et Inventaire, Musées :
+A. - Options proposées aux candidats concourant pour les spécialités Archéologie, Monuments historiques et Inventaire, Musées :
 
 Archéologie et histoire de l'art et des civilisations de l'Europe des périodes paléolithique et mésolithique ;
 
@@ -18,9 +16,7 @@ Histoire de l'art et des civilisations du Moyen Age européen et de Byzance du v
 
 Histoire de l'art et des civilisations de l'Europe du xve siècle à la fin du XVIIIe siècle ;
 
-Histoire de l'art et des civilisations dans le monde occidental de la fin du XVIIIe siècle à 1914 ;
-
-Histoire de l'art et des civilisations dans le monde occidental de 1905 à nos jours ;
+Histoire de l'art et des civilisations dans le monde occidental de la fin du xviiie siècle à nos jours ;
 
 Archéologie et histoire de l'art et des civilisations de l'Egypte antique ;
 
@@ -40,24 +36,16 @@ Archéologie et histoire de l'art et des civilisations des Amériques amérindie
 
 Ethnologie européenne ;
 
-Patrimoine industriel et innovations scientifiques et techniques.
+Histoire des techniques et patrimoine industriel
 
-B. ― Options proposées aux candidats concourant pour la spécialité Patrimoine scientifique, technique et naturel :
+B. - Options proposées aux candidats concourant pour la spécialité Patrimoine scientifique, technique et naturel :
 
-Patrimoine industriel et innovations scientifiques et techniques ;
+Histoire des techniques et patrimoine industriel
 
-Patrimoine et sciences physique, chimique et de l'ingénieur ;
+Patrimoine et sciences de la nature
 
-Patrimoine naturel.
+C. - Epreuve proposée aux candidats concourant pour la spécialité Archives :
 
-C. ― Options proposées aux candidats concourant pour la spécialité Archives :
+Documents d'archives du Moyen Age à nos jours (analyse et commentaire historique et diplomatique).
 
-Ces options font appel à des connaissances en paléographie, en latin et en ancien français.
-
-Documents d'archives du Moyen Age et de l'époque moderne (476-1789).
-
-Option réservée à l'épreuve d'admissibilité (analyse et commentaire historique et diplomatique) ;
-
-Documents d'archives de l'époque contemporaine (de 1789 à nos jours) ;
-
-Option réservée à l'épreuve d'admission (analyse et commentaire historique et diplomatique).
+Cette épreuve fait appel à des connaissances en paléographie, en latin et en ancien français.
