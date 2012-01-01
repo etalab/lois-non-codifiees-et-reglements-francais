@@ -5,1614 +5,892 @@ Les mensualités de référence pour les logements occupés par leur propriétai
 1° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1977 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">669</p>
-</td>
-<td width="151">
-<p align="center">600</p>
-</td>
-<td width="151">
-<p align="center">563</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">807</p>
-</td>
-<td width="151">
-<p align="center">723</p>
-</td>
-<td width="151">
-<p align="center">675</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">945</p>
-</td>
-<td width="151">
-<p align="center">844</p>
-</td>
-<td width="151">
-<p align="center">786</p>
-</td>
+<td> : Bénéficiaire isolé        :   669 F   :   600 F  :   563 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">139</p>
-</td>
-<td width="151">
-<p align="center">123</p>
-</td>
-<td width="151">
-<p align="center">113</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    :   807 F   :   723 F  :   675 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  :   945 F   :   844 F  :   786 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   139 F   :   123 F  :   113 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 2° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1978 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">702</p>
-</td>
-<td width="151">
-<p align="center">630</p>
-</td>
-<td width="151">
-<p align="center">591</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">847</p>
-</td>
-<td width="151">
-<p align="center">759</p>
-</td>
-<td width="151">
-<p align="center">708</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">992</p>
-</td>
-<td width="151">
-<p align="center">887</p>
-</td>
-<td width="151">
-<p align="center">826</p>
-</td>
+<td> : Bénéficiaire isolé        :   702 F   :   630 F  :   591 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">146</p>
-</td>
-<td width="151">
-<p align="center">129</p>
-</td>
-<td width="151">
-<p align="center">118</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    :   847 F   :   759 F  :   708 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  :   992 F   :   887 F  :   826 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   146 F   :   129 F  :   118 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 3° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1979 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">761</p>
-</td>
-<td width="151">
-<p align="center">678</p>
-</td>
-<td width="151">
-<p align="center">634</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">918</p>
-</td>
-<td width="151">
-<p align="center">817</p>
-</td>
-<td width="151">
-<p align="center">760</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 075</p>
-</td>
-<td width="151">
-<p align="center">956</p>
-</td>
-<td width="151">
-<p align="center">886</p>
-</td>
+<td> : Bénéficiaire isolé        :   761 F   :   678 F  :   634 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">157</p>
-</td>
-<td width="151">
-<p align="center">139</p>
-</td>
-<td width="151">
-<p align="center">126</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    :   918 F   :   817 F  :   760 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 1 075 F   :   956 F  :   886 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   157 F   :   139 F  :   126 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 4° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1980 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">887</p>
-</td>
-<td width="151">
-<p align="center">791</p>
-</td>
-<td width="151">
-<p align="center">739</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 070</p>
-</td>
-<td width="151">
-<p align="center">953</p>
-</td>
-<td width="151">
-<p align="center">886</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 253</p>
-</td>
-<td width="151">
-<p align="center">1 115</p>
-</td>
-<td width="151">
-<p align="center">1 033</p>
-</td>
+<td> : Bénéficiaire isolé        :   887 F   :   791 F  :   739 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">183</p>
-</td>
-<td width="151">
-<p align="center">162</p>
-</td>
-<td width="151">
-<p align="center">147</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 070 F   :   953 F  :   886 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 1 253 F   : 1 115 F  : 1 033 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   183 F   :   162 F  :   147 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 5° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1981 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 393</p>
-</td>
-<td width="151">
-<p align="center">1 242</p>
-</td>
-<td width="151">
-<p align="center">1 160</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 680</p>
-</td>
-<td width="151">
-<p align="center">1 496</p>
-</td>
-<td width="151">
-<p align="center">1 391</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 967</p>
-</td>
-<td width="151">
-<p align="center">1 750</p>
-</td>
-<td width="151">
-<p align="center">1 622</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 393 F   : 1 242 F  : 1 160 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">287</p>
-</td>
-<td width="151">
-<p align="center">254</p>
-</td>
-<td width="151">
-<p align="center">231</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 680 F   : 1 496 F  : 1 391 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 1 967 F   : 1 750 F  : 1 622 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   287 F   :   254 F  :   231 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 6° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1982 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 537</p>
-</td>
-<td width="151">
-<p align="center">1 370</p>
-</td>
-<td width="151">
-<p align="center">1 280</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 854</p>
-</td>
-<td width="151">
-<p align="center">1 650</p>
-</td>
-<td width="151">
-<p align="center">1 535</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 171</p>
-</td>
-<td width="151">
-<p align="center">1 930</p>
-</td>
-<td width="151">
-<p align="center">1 790</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 537 F   : 1 370 F  : 1 280 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">317</p>
-</td>
-<td width="151">
-<p align="center">280</p>
-</td>
-<td width="151">
-<p align="center">255</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 854 F   : 1 650 F  : 1 535 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 171 F   : 1 930 F  : 1 790 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   317 F   :   280 F  :   255 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 7° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1983 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 660</p>
-</td>
-<td width="151">
-<p align="center">1 480</p>
-</td>
-<td width="151">
-<p align="center">1 382</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 002</p>
-</td>
-<td width="151">
-<p align="center">1 782</p>
-</td>
-<td width="151">
-<p align="center">1 657</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 344</p>
-</td>
-<td width="151">
-<p align="center">2 084</p>
-</td>
-<td width="151">
-<p align="center">1 932</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 660 F   : 1 480 F  : 1 382 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">342</p>
-</td>
-<td width="151">
-<p align="center">302</p>
-</td>
-<td width="151">
-<p align="center">275</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 002 F   : 1 782 F  : 1 657 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 344 F   : 2 084 F  : 1 932 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   342 F   :   302 F  :   275 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 8° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1984 :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 786</p>
-</td>
-<td width="151">
-<p align="center">1 592</p>
-</td>
-<td width="151">
-<p align="center">1 487</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 154</p>
-</td>
-<td width="151">
-<p align="center">1 917</p>
-</td>
-<td width="151">
-<p align="center">1 783</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 522</p>
-</td>
-<td width="151">
-<p align="center">2 242</p>
-</td>
-<td width="151">
-<p align="center">2 079</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 786 F   : 1 592 F  : 1 487 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">368</p>
-</td>
-<td width="151">
-<p align="center">325</p>
-</td>
-<td width="151">
-<p align="center">296</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 154 F   : 1 917 F  : 1 783 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 522 F   : 2 242 F  : 2 079 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   368 F   :   325 F  :   296 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
-9° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1985 : <table>
-<tbody>
+9° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1985 :
+
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 875</p>
-</td>
-<td width="151">
-<p align="center">1 872</p>
-</td>
-<td width="151">
-<p align="center">1 561</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 261</p>
-</td>
-<td width="151">
-<p align="center">2 013</p>
-</td>
-<td width="151">
-<p align="center">1 872</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 647</p>
-</td>
-<td width="151">
-<p align="center">2 354</p>
-</td>
-<td width="151">
-<p align="center">2 183</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 875 F   : 1 872 F  : 1 561 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">386</p>
-</td>
-<td width="151">
-<p align="center">341</p>
-</td>
-<td width="151">
-<p align="center">311</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 261 F   : 2 013 F  : 1 872 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 647 F   : 2 354 F  : 2 183 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   386 F   :   341 F  :   311 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 10° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1987 :
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 875</p>
-</td>
-<td width="151">
-<p align="center">1 672</p>
-</td>
-<td width="151">
-<p align="center">1 561</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 261</p>
-</td>
-<td width="151">
-<p align="center">2 013</p>
-</td>
-<td width="151">
-<p align="center">1 872</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 647</p>
-</td>
-<td width="151">
-<p align="center">2 354</p>
-</td>
-<td width="151">
-<p align="center">2 183</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 875 F   : 1 672 F  : 1 561 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">386</p>
-</td>
-<td width="151">
-<p align="center">341</p>
-</td>
-<td width="151">
-<p align="center">311</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 261 F   : 2 013 F  : 1 872 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 647 F   : 2 354 F  : 2 183 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   : 386 F     : 341 F    : 311 F    :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 406</p>
-</td>
-<td width="151">
-<p align="center">1 254</p>
-</td>
-<td width="151">
-<p align="center">1 171</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 696</p>
-</td>
-<td width="151">
-<p align="center">1 510</p>
-</td>
-<td width="151">
-<p align="center">1 405</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 986</p>
-</td>
-<td width="151">
-<p align="center">1 766</p>
-</td>
-<td width="151">
-<p align="center">1 639</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 406 F   : 1 254 F  : 1 171 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">290</p>
-</td>
-<td width="151">
-<p align="center">256</p>
-</td>
-<td width="151">
-<p align="center">234</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 696 F   : 1 510 F  : 1 405 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 1 986 F   : 1 766 F  : 1 639 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   290 F   :   256 F  :   234 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 11° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1988.
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 920</p>
-</td>
-<td width="151">
-<p align="center">1 712</p>
-</td>
-<td width="151">
-<p align="center">1 598</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 315</p>
-</td>
-<td width="151">
-<p align="center">2 061</p>
-</td>
-<td width="151">
-<p align="center">1 916</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 710</p>
-</td>
-<td width="151">
-<p align="center">2 410</p>
-</td>
-<td width="151">
-<p align="center">2 234</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 920 F   : 1 712 F  :  1 598 F :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">395</p>
-</td>
-<td width="151">
-<p align="center">349</p>
-</td>
-<td width="151">
-<p align="center">318</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 315 F   : 2 061 F  :  1 916 F :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 710 F   : 2 410 F  :  2 234 F :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   395 F   :   349 F  :    318 F :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 440</p>
-</td>
-<td width="151">
-<p align="center">1 284</p>
-</td>
-<td width="151">
-<p align="center">1 199</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 737</p>
-</td>
-<td width="151">
-<p align="center">1 546</p>
-</td>
-<td width="151">
-<p align="center">1 439</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 034</p>
-</td>
-<td width="151">
-<p align="center">1 808</p>
-</td>
-<td width="151">
-<p align="center">1 679</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 440 F   : 1 284 F  : 1 199 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">297</p>
-</td>
-<td width="151">
-<p align="center">262</p>
-</td>
-<td width="151">
-<p align="center">240</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 737 F   : 1 546 F  : 1 439 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 034 F   : 1 808 F  : 1 679 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   297 F   :   262 F  :   240 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 12° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1989.
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 920</p>
-</td>
-<td width="151">
-<p align="center">1 712</p>
-</td>
-<td width="151">
-<p align="center">1 598</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 315</p>
-</td>
-<td width="151">
-<p align="center">2 061</p>
-</td>
-<td width="151">
-<p align="center">1 916</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 710</p>
-</td>
-<td width="151">
-<p align="center">2 410</p>
-</td>
-<td width="151">
-<p align="center">2 234</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 920 F   : 1 712 F  :  1 598 F :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">395</p>
-</td>
-<td width="151">
-<p align="center">349</p>
-</td>
-<td width="151">
-<p align="center">318</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 2 315 F   : 2 061 F  :  1 916 F :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 710 F   : 2 410 F  :  2 234 F :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   395 F   :   349 F  :    318 F :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 440</p>
-</td>
-<td width="151">
-<p align="center">1 284</p>
-</td>
-<td width="151">
-<p align="center">1 199</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 737</p>
-</td>
-<td width="151">
-<p align="center">1 546</p>
-</td>
-<td width="151">
-<p align="center">1 439</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 034</p>
-</td>
-<td width="151">
-<p align="center">1 808</p>
-</td>
-<td width="151">
-<p align="center">1 679</p>
-</td>
+<td> : Bénéficiaire isolé        : 1 440 F   : 1 284 F  : 1 199 F  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">297</p>
-</td>
-<td width="151">
-<p align="center">262</p>
-</td>
-<td width="151">
-<p align="center">240</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : charge                    : 1 737 F   : 1 546 F  : 1 439 F  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  : 2 034 F   : 1 808 F  : 1 679 F  :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :   297 F   :   262 F  :   240 F  :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 13° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1990 :
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 980</p>
-</td>
-<td width="151">
-<p align="center">1 766</p>
-</td>
-<td width="151">
-<p align="center">1 648</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 388</p>
-</td>
-<td width="151">
-<p align="center">2 126</p>
-</td>
-<td width="151">
-<p align="center">1 976</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 796</p>
-</td>
-<td width="151">
-<p align="center">2 486</p>
-</td>
-<td width="151">
-<p align="center">2 304</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">408</p>
-</td>
-<td width="151">
-<p align="center">360</p>
-</td>
-<td width="151">
-<p align="center">328</p>
-</td>
+<td> : Bénéficiaire isolé        :   1 980   :  1 766   :  1 648   :</td>
 </tr>
-</tbody>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> : charge ...                :   2 388   :  2 126   :  1 976   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge ...              :   2 796   :  2 486   :  2 304   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :     408   :    360   :    328   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 485</p>
-</td>
-<td width="151">
-<p align="center">1 324</p>
-</td>
-<td width="151">
-<p align="center">1 236</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 792</p>
-</td>
-<td width="151">
-<p align="center">1 594</p>
-</td>
-<td width="151">
-<p align="center">1 483</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 099</p>
-</td>
-<td width="151">
-<p align="center">1 864</p>
-</td>
-<td width="151">
-<p align="center">1 730</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">307</p>
-</td>
-<td width="151">
-<p align="center">270</p>
-</td>
-<td width="151">
-<p align="center">247</p>
-</td>
+<td> : Bénéficiaire isolé        :   1 485   :  1 324   :  1 236   :</td>
 </tr>
-</tbody>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge                   :   1 792   :  1 594   :  1 483   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  :   2 099   :  1 864   :  1 730   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :     307   :    270   :    247   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 14° Lorsque la date de signature du contrat de prêt est intervenue après le 30 juin 1991 :
 
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">2 030</p>
-</td>
-<td width="151">
-<p align="center">1 811</p>
-</td>
-<td width="151">
-<p align="center">1 690</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 449</p>
-</td>
-<td width="151">
-<p align="center">2 180</p>
-</td>
-<td width="151">
-<p align="center">2 027</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 868</p>
-</td>
-<td width="151">
-<p align="center">2 549</p>
-</td>
-<td width="151">
-<p align="center">2 364</p>
-</td>
-</tr>
-<tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">419</p>
-</td>
-<td width="151">
-<p align="center">369</p>
-</td>
-<td width="151">
-<p align="center">337</p>
-</td>
-</tr>
-</tbody>
-</table>
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
 
-b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés : <table>
-<tbody>
+<table>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 634</p>
-</td>
-<td width="151">
-<p align="center">1 457</p>
-</td>
-<td width="151">
-<p align="center">1 360</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 972</p>
-</td>
-<td width="151">
-<p align="center">1 754</p>
-</td>
-<td width="151">
-<p align="center">1 632</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 310</p>
-</td>
-<td width="151">
-<p align="center">2 051</p>
-</td>
-<td width="151">
-<p align="center">1 904</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">338</p>
-</td>
-<td width="151">
-<p align="center">297</p>
-</td>
-<td width="151">
-<p align="center">272</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-15° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1992 :
-
-a) Logements neufs construits ou acquis par l'accédant à la propriété : <table>
-<tbody>
-<tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> : Bénéficiaire isolé        :   2.030   :  1.811   :  1.690   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">2 085</p>
-</td>
-<td width="151">
-<p align="center">1 860</p>
-</td>
-<td width="151">
-<p align="center">1 736</p>
-</td>
+<td> : Ménage sans personne à    :           :          :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 515</p>
-</td>
-<td width="151">
-<p align="center">2 239</p>
-</td>
-<td width="151">
-<p align="center">2 082</p>
-</td>
+<td> : charge                    :   2.449   :  2.180   :  2.027   :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 945</p>
-</td>
-<td width="151">
-<p align="center">2 618</p>
-</td>
-<td width="151">
-<p align="center">2 428</p>
-</td>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">430</p>
-</td>
-<td width="151">
-<p align="center">379</p>
-</td>
-<td width="151">
-<p align="center">346</p>
-</td>
+<td> : ménage ayant une personne :           :          :          :</td>
 </tr>
-</tbody>
+<tr>
+<td> : à charge ...              :   2.868   :  2.549   :  2.364   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :     419   :    369   :    337   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 678</p>
-</td>
-<td width="151">
-<p align="center">1 496</p>
-</td>
-<td width="151">
-<p align="center">1 397</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 025</p>
-</td>
-<td width="151">
-<p align="center">1 801</p>
-</td>
-<td width="151">
-<p align="center">1 676</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 372</p>
-</td>
-<td width="151">
-<p align="center">2 106</p>
-</td>
-<td width="151">
-<p align="center">1 955</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">347</p>
-</td>
-<td width="151">
-<p align="center">305</p>
-</td>
-<td width="151">
-<p align="center">279</p>
-</td>
+<td> : Bénéficiaire isolé        :   1.634   :  1.457   :  1.360   :</td>
 </tr>
-</tbody>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> : charge                    :   1.972   :  1.754   :  1.632   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge                  :   2.310   :  2.051   :  1.904   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :     338   :    297   :    272   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+</table>
+
+15° Lorsque la date de signature du contrat de prêt est intervenu après le 30 juin 1992 :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:-----------:----------:----------:</td>
+</tr>
+<tr>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :   2.085   :  1.860   :  1.736   :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> : charge ...                :   2.515   :  2.239   :  2.082   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> : à charge ...              :   2.945   :  2.618   :  2.428   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> : supplémentaire à charge   :     430   :    379   :    346   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+</table>
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
+<tr>
+<td> :=============================================================:</td>
+</tr>
+<tr>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
+</tr>
+<tr>
+<td> :---------------------------:-----------:----------:----------:</td>
+</tr>
+<tr>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ...    :   1.678   :  1.496   :  1.397   :</td>
+</tr>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   2.025   :  1.801   :  1.676   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.372   :  2.106   :  1.955   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     347   :    305   :    279   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 16° Lorsque la date de signature du contrat de prêt est intervenue après le 27 novembre 1994 :
@@ -1620,155 +898,87 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 a) Logements neufs construits ou acquis par l'accédant à la propriété :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 840</p>
-</td>
-<td width="151">
-<p align="center">1 642</p>
-</td>
-<td width="151">
-<p align="center">1 532</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 220</p>
-</td>
-<td width="151">
-<p align="center">1 977</p>
-</td>
-<td width="151">
-<p align="center">1 837</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 600</p>
-</td>
-<td width="151">
-<p align="center">2 312</p>
-</td>
-<td width="151">
-<p align="center">2 142</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">380</p>
-</td>
-<td width="151">
-<p align="center">335</p>
-</td>
-<td width="151">
-<p align="center">305</p>
-</td>
+<td> : Bénéficiaire isolé ...    :   1.840   :  1.642   :  1.532   :</td>
 </tr>
-</tbody>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   2.220   :  1.977   :  1.837   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.600   :  2.312   :  2.142   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     380   :    335   :    305   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
 
 b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et améliorés :
 
 <table>
-<tbody>
 <tr>
-<td width="227">
-<p align="center">DÉSIGNATION</p>
-</td>
-<td width="151">
-<p align="center">ZONE 1<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 2<br/>(en francs)</p>
-</td>
-<td width="151">
-<p align="center">ZONE 3<br/>(en francs)</p>
-</td>
+<td> :=============================================================:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé</p>
-</td>
-<td width="151">
-<p align="center">1 481</p>
-</td>
-<td width="151">
-<p align="center">1 320</p>
-</td>
-<td width="151">
-<p align="center">1 233</p>
-</td>
+<td> :  DESIGNATION              :  Zone I   : Zone II  : Zone III :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Ménage sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">1 787</p>
-</td>
-<td width="151">
-<p align="center">1 589</p>
-</td>
-<td width="151">
-<p align="center">1 479</p>
-</td>
+<td> :---------------------------:-----------:----------:----------:</td>
 </tr>
 <tr>
-<td width="227">
-<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">2 093</p>
-</td>
-<td width="151">
-<p align="center">1 858</p>
-</td>
-<td width="151">
-<p align="center">1 725</p>
-</td>
+<td> :                           :   Francs  :  Francs  :  Francs  :</td>
 </tr>
 <tr>
-<td width="227">
-<p>Par personne supplémentaire à charge</p>
-</td>
-<td width="151">
-<p align="center">306</p>
-</td>
-<td width="151">
-<p align="center">269</p>
-</td>
-<td width="151">
-<p align="center">246</p>
-</td>
+<td> : Bénéficiaire isolé ...    :   1.481   :  1.320   :  1.233   :</td>
 </tr>
-</tbody>
+<tr>
+<td> : Ménage sans personne à    :           :          :          :</td>
+</tr>
+<tr>
+<td> :  charge ...               :   1.787   :  1.589   :  1.479   :</td>
+</tr>
+<tr>
+<td> : Bénéficiaire isolé ou     :           :          :          :</td>
+</tr>
+<tr>
+<td> : ménage ayant une personne :           :          :          :</td>
+</tr>
+<tr>
+<td> :  à charge ...             :   2.093   :  1.858   :  1.725   :</td>
+</tr>
+<tr>
+<td> : Par personne              :           :          :          :</td>
+</tr>
+<tr>
+<td> :  supplémentaire à charge  :     306   :    269   :    246   :</td>
+</tr>
+<tr>
+<td> :=============================================================:</td>
+</tr>
 </table>
-
-.

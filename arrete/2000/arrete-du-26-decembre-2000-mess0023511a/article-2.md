@@ -2,20 +2,20 @@
 
 1° Pour l'application de l'article D. 542-5-2 du même code, le montant forfaitaire servant au calcul du Rp est déterminé, pour chaque composition familiale, d'après la formule suivante :
 
-R0 = R1 - R2,
+R0 = R1-R2,
 
-où R1 et R2, arrondis au franc le plus proche, sont respectivement un pourcentage du revenu minimum d'insertion fixé en application de l'article 3 de la loi n° 88-1088 du 1er décembre 1988 (1) et un pourcentage de la base mensuelle de calcul des allocations familiales mentionnée à l'article L. 551-1 du code de la sécurité sociale donnés par le tableau ci-après :
+où R1 et R2, arrondis à l'euro le plus proche, sont respectivement un pourcentage du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et un pourcentage de la base mensuelle de calcul des allocations familiales mentionnée à l'article L. 551-1 du code de la sécurité sociale donnés par le tableau ci-après :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">BENEFICIAIRE</p>
+<p align="center">BENEFICIAIRE </p>
 </td>
 <td>
 <p align="center">R1 </p>
 <p align="center">en pourcentage </p>
-<p align="center">du RMI </p>
+<p align="center">du montant forfaitaire </p>
 </td>
 <td>
 <p align="center">R2 </p>
@@ -25,7 +25,7 @@ où R1 et R2, arrondis au franc le plus proche, sont respectivement un pourcenta
 </tr>
 <tr>
 <td>
-<p align="left">Personne isolée sans personne à charge<br/>
+<p align="left">Personne isolée sans personne à charge <br/>
 </p>
 </td>
 <td>
@@ -37,7 +37,7 @@ où R1 et R2, arrondis au franc le plus proche, sont respectivement un pourcenta
 </tr>
 <tr>
 <td>
-<p align="left">Couple sans personne à charge<br/>
+<p align="left">Couple sans personne à charge <br/>
 </p>
 </td>
 <td>
@@ -49,11 +49,11 @@ où R1 et R2, arrondis au franc le plus proche, sont respectivement un pourcenta
 </tr>
 <tr>
 <td>
-<p align="left">Personne isolée ou couple avec une personne à charge<br/>
+<p align="left">Personne isolée ou couple avec une personne à charge <br/>
 </p>
 </td>
 <td>
-<p align="center">150,3</p>
+<p align="center">150, 3</p>
 </td>
 <td>
 <p align="center">-</p>
@@ -65,39 +65,38 @@ où R1 et R2, arrondis au franc le plus proche, sont respectivement un pourcenta
 </p>
 </td>
 <td>
-<p align="center">180,3</p>
+<p align="center">180, 3 </p>
 </td>
 <td>
-<p align="center">32</p>
+<p align="center">32 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Majoration par personne à charge supplémentaire<br/>
+<p align="left">Majoration par personne à charge supplémentaire <br/>
 </p>
 </td>
 <td>
-<p align="center">40</p>
+<p align="center">40 </p>
 </td>
 <td>
-<p align="center">41</p>
+<p align="center">41 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Les montants du revenu minimum d'insertion et de la base mensuelle de calcul des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile précédant la période de paiement.
+Les montants du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et de la base mensuelle de calcul des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile de référence définie à l'article R. 532-3 du code de la sécurité sociale.
 
-Le résultat est multiplié par 12 et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3 de l'article 83 du code général des impôts ; il est arrondi au franc le plus proche.
+Le résultat est multiplié par 12 et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3 de l'article 83 du code général des impôts ; il est arrondi à l'euro le plus proche.
 
-2° A titre transitoire, du 1er janvier au 31 décembre 2001, le forfait visé au 1° ci-dessus, calculé selon les modalités fixées au 1° ci-dessus, est limité aux valeurs suivantes ; il est arrondi au franc le plus proche.
+2° A titre transitoire, du 1er janvier au 31 décembre 2001, le forfait visé au 1° ci-dessus, calculé selon les modalités fixées au 1° ci-dessus, est limité aux valeurs suivantes ; il est arrondi à l'euro le plus proche.
 
-<div align="left">
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">BÉNÉFICIAIRE</p>
+<p align="center">BÉNÉFICIAIRE </p>
 </td>
 <td>
 <p align="center">POURCENTAGE </p>
@@ -109,15 +108,15 @@ Le résultat est multiplié par 12 et affecté d'un abattement calculé suivant 
 <p align="left">Personne isolée sans personne à charge </p>
 </td>
 <td>
-<p align="center">75</p>
+<p align="center">75 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Couple sans personne à charge</p>
+<p align="left">Couple sans personne à charge </p>
 </td>
 <td>
-<p align="center">75</p>
+<p align="center">75 </p>
 </td>
 </tr>
 <tr>
@@ -130,18 +129,18 @@ Le résultat est multiplié par 12 et affecté d'un abattement calculé suivant 
 </tr>
 <tr>
 <td>
-<p align="left">Personne isolée ou couple avec deux personnes à charge</p>
+<p align="left">Personne isolée ou couple avec deux personnes à charge </p>
 </td>
 <td>
-<p align="center">72</p>
+<p align="center">72 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Personne isolée ou couple avec trois personnes à charge</p>
+<p align="left">Personne isolée ou couple avec trois personnes à charge </p>
 </td>
 <td>
-<p align="center">75</p>
+<p align="center">75 </p>
 </td>
 </tr>
 <tr>
@@ -154,4 +153,3 @@ Le résultat est multiplié par 12 et affecté d'un abattement calculé suivant 
 </tr>
 </tbody>
 </table>
-</div>

@@ -5,29 +5,36 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION</p>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>TOUTES ZONES <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Bénéficiaire isolé ou couple sans personne à charge. <br/>
 </td>
-<td>
-<p align="center">TOUTES ZONES<br/>(en euros) </p>
+<td align="center">
+<br/>50, 75 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénéficiaire isolé ou couple sans personne à charge </p>
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
 </td>
 <td align="center">
-<br/>51,82 <br/>
+<br/>62, 24 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Par personne supplémentaire à charge </p>
+<br/>Par personne supplémentaire à charge. <br/>
 </td>
 <td align="center">
-<br/>11,74 <br/>
+<br/>11, 49 <br/>
 </td>
 </tr>
 </tbody>
@@ -38,38 +45,52 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION </p>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>TOUTES ZONES <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Bénéficiaire isolé. <br/>
 </td>
-<td>
-<p align="center">TOUTES ZONES<br/>(en euros)</p>
+<td align="center">
+<br/>25, 36 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Bénéficiaire isolé </p>
+<br/>Couple sans personne à charge. <br/>
 </td>
 <td align="center">
-<br/>25,90 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Couple sans personne à charge </p>
-</td>
-<td align="center">
-<br/>51,82 <br/>
+<br/>50, 75 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Par personne supplémentaire à charge </p>
+<br/>Bénéficiaire isolé ayant une personne à charge. <br/>
 </td>
 <td align="center">
-<br/>11,74<br/>
+<br/>36, 85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Couple ayant une personne à charge. <br/>
+</td>
+<td align="center">
+<br/>62, 24 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Par personne supplémentaire à charge. <br/>
+</td>
+<td align="center">
+<br/>11, 49<br/>
 </td>
 </tr>
 </tbody>
