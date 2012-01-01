@@ -726,7 +726,6 @@
 - [Arrêté du 24 octobre 2003 (MCCK0300693A)](arrete-du-24-octobre-2003-mcck0300693a)
 - [Arrêté du 24 octobre 2003 (MENF0302312A)](arrete-du-24-octobre-2003-menf0302312a)
 - [Arrêté du 24 octobre 2003 (SANG0324053A)](arrete-du-24-octobre-2003-sang0324053a)
-- [Arrêté du 24 septembre 2003 (FPPA0300133A)](arrete-du-24-septembre-2003-fppa0300133a)
 - [Arrêté du 24 septembre 2003 (MAEF0310069A)](arrete-du-24-septembre-2003-maef0310069a)
 - [Arrêté du 25 août 2003 (DOMB0300006A)](arrete-du-25-aout-2003-domb0300006a)
 - [Arrêté du 25 août 2003 (DOMB0300007A)](arrete-du-25-aout-2003-domb0300007a)
