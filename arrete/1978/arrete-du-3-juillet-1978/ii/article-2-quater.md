@@ -6,73 +6,71 @@ T<sub>p </sub>= T<sub>F </sub>+ T<sub>L </sub>
 
 dans laquelle :
 
-T<sub>F</sub> représente un taux fonction de la taille de la famille donné par le tableau suivant :
-
-<table>
+T<sub>F</sub> représente un taux fonction de la taille de la famille donné par le tableau suivant : <table>
 <tbody>
 <tr>
 <td>
-<p align="center">BÉNÉFICIAIRE  </p>
+<p align="center">BÉNÉFICIAIRES</p>
 </td>
-<td>
-<p align="center"> T<sub>F</sub> (en pourcentage) </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Personne seule </p>
-</td>
-<td>
-<p align="center"> 2, 83 </p>
+<td width="302">
+<p align="center">T<sub>F</sub>
+<br/>(en pourcentage)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Couple sans personne à charge </p>
+<p>Personne seule</p>
 </td>
-<td>
-<p align="center"> 3, 15 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Personne seule ou couple ayant une personne à charge </p>
-</td>
-<td>
-<p align="center"> 2, 70 </p>
+<td width="302">
+<p align="center">2,83</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Personne seule ou couple ayant deux personnes à charge </p>
+<p>Couple sans personne à charge</p>
 </td>
-<td>
-<br/>
-<p align="center">2, 38 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Personne seule ou couple ayant trois personnes à charge</p>
-</td>
-<td>
-<p align="center"> 2, 01 </p>
+<td width="302">
+<p align="center">3,15</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Personne seule ou couple ayant quatre personnes à charge </p>
+<p>Personne seule ou couple avec une personne à charge</p>
 </td>
-<td>
-<p align="center"> 1, 85 </p>
+<td width="302">
+<p align="center">2,70</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Par personne supplémentaire à charge</p>
+<p>Personne seule ou couple avec deux personnes à charge</p>
 </td>
+<td width="302">
+<p align="center">2,38</p>
+</td>
+</tr>
+<tr>
 <td>
-<p align="center"> -0, 06 </p>
+<p>Personne seule ou couple avec trois personnes à charge</p>
+</td>
+<td width="302">
+<p align="center">2,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personne seule ou couple ayant quatre personnes à charge</p>
+</td>
+<td width="302">
+<p align="center">1,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Par personne à charge supplémentaire</p>
+</td>
+<td width="302">
+<p align="center">-0,06</p>
 </td>
 </tr>
 </tbody>
@@ -83,43 +81,43 @@ T<sub>L</sub> représente un taux complémentaire fixé ci-dessous en fonction d
 <table>
 <tbody>
 <tr>
-<th>
-<br/>BÉNÉFICIAIRE <br/>
-</th>
-<th>
-<br/>VALEURS <p>(en euros) <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Personne seule <br/>
+<td>
+<p align="center">BENEFICIAIRE</p>
 </td>
-<td align="center">
-<br/>243,11 <br/>
+<td width="302">
+<p align="center">VALEURS <br/>(en euros)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Couple sans personne à charge <br/>
+<td>
+<p>Personne seule </p>
 </td>
-<td align="center">
-<br/>297,57</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Personne seule ou couple ayant une personne à charge <br/>
-</td>
-<td align="center">
-<br/>334,84 <br/>
+<td width="302">
+<p align="center">248,24 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Par personne supplémentaire à charge <br/>
+<td>
+<p>Couple sans personne à charge</p>
 </td>
-<td align="center">
-<br/>48,73<br/>
+<td width="302">
+<p align="center">303,85 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personne seule ou couple ayant une personne à charge</p>
+</td>
+<td width="302">
+<p align="center">341,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="302">
+<p align="center">349,76</p>
 </td>
 </tr>
 </tbody>
