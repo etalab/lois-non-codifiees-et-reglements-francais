@@ -14,6 +14,7 @@
 - [Décret n°2006-708 du 19 juin 2006 (SANS0621670D)](decret-n2006-708-du-19-juin-2006-sans0621670d)
 - [Décret n°2006-1411 du 20 novembre 2006 (DEFD0601029D)](decret-n2006-1411-du-20-novembre-2006-defd0601029d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
+- [Décret n°2006-1795 du 23 décembre 2006 (ECOP0600785D)](decret-n2006-1795-du-23-decembre-2006-ecop0600785d)
 - [Décret n°2006-1827 du 23 décembre 2006 (FPPA0600168D)](decret-n2006-1827-du-23-decembre-2006-fppa0600168d)
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
 - [Décret n°2006-604 du 23 mai 2006 (INDI0607464D)](decret-n2006-604-du-23-mai-2006-indi0607464d)
