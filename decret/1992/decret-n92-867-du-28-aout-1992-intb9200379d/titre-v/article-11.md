@@ -5,345 +5,334 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">GRADES ET ECHELONS</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">DUREES</p>
+<th rowspan="2">
+<br/>GRADES ET ÉCHELONS <br/>
+</th>
+<th colspan="2">
+<br/>DURÉES <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Maximale <br/>
+</th>
+<th>
+<br/>Minimale <br/>
+</th>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<p align="center">Biologistes, vétérinaires et pharmaciens territoriaux de classe exceptionnelle</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">Maximale</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Minimale</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">Biologistes, vétérinaires ou pharmaciens de classe exceptionnelle</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">8e échelon</p>
-</td>
-<td align="left" valign="middle">
+<td>8e échelon </td>
+<td>
 <p align="center">-</p>
 </td>
-<td align="left" valign="middle">
+<td>
 <p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">7e échelon</p>
+<td align="center">
+<p align="left">
+<br/>7e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">4 ans </p>
+<td align="center">
+<br/>4 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>3 ans 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">5e échelon</p>
+<td align="center">
+<p align="left">
+<br/>6e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans 6 mois</p>
+<td align="center">
+<br/>3 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon</p>
+<td align="center">
+<p align="left">
+<br/>5e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
+<td align="center">
+<br/>3 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<td align="center">
+<p align="left">
+<br/>4e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">Biologistes, vétérinaires ou pharmaciens hors classe</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e échelon</p>
+<td align="center">
+<p align="left">
+<br/>3e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>2 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans 3 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<td align="center">
+<p align="left">
+<br/>2e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans 3 mois</p>
+<td align="center">
+<br/>2 ans 6 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<td align="center">
+<p align="left">
+<br/>1er échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>1 an 6 mois <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Biologistes, vétérinaires ou pharmaciens de 1re classe</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td colspan="3">
+<p align="center">Biologistes, vétérinaires et pharmaciens hors classe</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon</p>
+<td align="center">
+<p align="left">
+<br/>6e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>- <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<td align="center">
+<p align="left">
+<br/>5e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">Biologistes, vétérinaires ou pharmaciens de 2e classe</p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">8e échelon</p>
+<td align="center">
+<p align="left">
+<br/>4e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
+<td align="center">
+<br/>3 ans 3 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 9 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 6 mois</p>
+<td align="center">
+<br/>3 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e échelon</p>
+<td align="center">
+<p align="left">
+<br/>3e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
+<td align="center">
+<br/>2 ans 2 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">5e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans 2 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e échelon</p>
+<td align="center">
+<p align="left">
+<br/>2e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">2 ans 2 mois</p>
-<br/>
+<td align="center">
+<br/>2 ans 2 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 9 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1 an 6 mois</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon</p>
+<td align="center">
+<p align="left">
+<br/>1er échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans 2 mois <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>2 ans <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon</p>
+<td colspan="3">
+<p align="center">Biologistes, vétérinaires et pharmaciens de classe normale</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>11e échelon </p>
 </td>
-<td align="left" valign="middle">
-<p align="center">1 an</p>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>10e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>9e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>8e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>7e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>6e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>5e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>4e échelon </p>
+</td>
+<td align="center">
+<br/>2 ans 2 mois <br/>
+</td>
+<td align="center">
+<br/>2 ans <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>3e échelon </p>
+</td>
+<td align="center">
+<br/>1 an 9 mois <br/>
+</td>
+<td align="center">
+<br/>1 an 6 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>2e échelon </p>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>1er échelon </p>
+</td>
+<td align="center">
+<br/>1 an <br/>
+</td>
+<td align="center">
+<br/>1 an <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le 8e échelon de classe exceptionnelle est accessible aux biologistes, vétérinaires et pharmaciens exerçant les fonctions de directeur de laboratoire.
+Le 8e échelon de la classe exceptionnelle est accessible aux biologistes, vétérinaires et pharmaciens exerçant les fonctions de directeur de laboratoire.

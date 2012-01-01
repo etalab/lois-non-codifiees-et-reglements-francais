@@ -1,5 +1,5 @@
 # Article 7
 
-Les stagiaires mentionnés à l'article 5 sont rémunérés par la collectivité ou l'établissement qui a procédé au recrutement sur la base de l'indice afférent à l'échelon du grade de biologiste, vétérinaire et pharmacien territorial de 2e classe déterminé par application des dispositions de l'article 8 ci-après.
+Les stagiaires nommés dans ce cadre d'emplois sont classés, lors de leur nomination, au 1er échelon du grade de biologiste, vétérinaire et pharmacien de classe normale, sous réserve des dispositions de l'article 8.
 
-Au cas où l'application des dispositions du premier alinéa ci-dessus leur serait moins favorable, les biologistes, vétérinaires et pharmaciens stagiaires qui étaient précédemment agents titulaires ou contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics ou d'une organisation internationale intergouvernementale continuent à percevoir pendant la durée du stage le traitement indiciaire afférent à leur emploi d'origine.
+La prolongation éventuelle de la période de stage prévue au deuxième alinéa de l'article 6 n'entre pas en compte pour l'avancement.
