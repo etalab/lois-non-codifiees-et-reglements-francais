@@ -22,9 +22,9 @@ II. - Epreuves d'admission
 
 L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont traduction : 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 3).
 
-2. Conversation avec le jury sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont commentaire 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 5).
+2. Conversation avec le jury sur une question de culture générale débutant par le commentaire d'un texte portant sur le programme (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont commentaire 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 5).
 
-3. Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et relatif à une situation professionnelle. Le jury s'appuiera également sur le dossier fourni par le candidat lors de l'inscription, pour la reconnaissance des acquis de l'expérience professionnelle antérieure (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 4).
+3. Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle. Le jury s'appuiera également sur le dossier fourni par le candidat lors de l'inscription, pour la reconnaissance des acquis de l'expérience professionnelle antérieure (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 4).
 
 En vue de cette épreuve, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées en annexe qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours.
 
