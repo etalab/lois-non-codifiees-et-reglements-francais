@@ -617,7 +617,6 @@
 - [Arrêté du 9 janvier 2009 (DEVA0827815A)](arrete-du-9-janvier-2009-deva0827815a)
 - [Arrêté du 9 janvier 2009 (ECEA0829500A)](arrete-du-9-janvier-2009-ecea0829500a)
 - [Arrêté du 9 juillet 1998 (ATET9870125A)](arrete-du-9-juillet-1998-atet9870125a)
-- [Arrêté du 9 juillet 2009 (BCFR0915609A)](arrete-du-9-juillet-2009-bcfr0915609a)
 - [Arrêté du 9 juillet 2009 (BCFZ0916151A)](arrete-du-9-juillet-2009-bcfz0916151a)
 - [Arrêté du 9 juillet 2009 (DEFD0916175A)](arrete-du-9-juillet-2009-defd0916175a)
 - [Arrêté du 9 juillet 2009 (DEFD0916176A)](arrete-du-9-juillet-2009-defd0916176a)

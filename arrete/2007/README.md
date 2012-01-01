@@ -866,7 +866,6 @@
 - [Arrêté du 25 mars 2007 (SANP0721336A)](arrete-du-25-mars-2007-sanp0721336a)
 - [Arrêté du 25 novembre 2002 (AGRA0200096A)](arrete-du-25-novembre-2002-agra0200096a)
 - [Arrêté du 25 octobre 2007 (AGRP0766865A)](arrete-du-25-octobre-2007-agrp0766865a)
-- [Arrêté du 25 octobre 2007 (BCFL0768077A)](arrete-du-25-octobre-2007-bcfl0768077a)
 - [Arrêté du 25 septembre 2007 (DEVA0759192A)](arrete-du-25-septembre-2007-deva0759192a)
 - [Arrêté du 25 septembre 2007 (DEVT0765320A)](arrete-du-25-septembre-2007-devt0765320a)
 - [Arrêté du 25 septembre 2007 (PRMG0765922A)](arrete-du-25-septembre-2007-prmg0765922a)
