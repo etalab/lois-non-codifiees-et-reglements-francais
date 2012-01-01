@@ -114,7 +114,6 @@
 - [Article 5.3.4](article-5-3-4.md)
 - [Article 5.3.5](article-5-3-5.md)
 - [Article 5.3.6](article-5-3-6.md)
-- [Article 5.3.7](article-5-3-7.md)
 - [Article 5.3.8](article-5-3-8.md)
 - [Article 5.4](article-5-4.md)
 - [Article 5.4.1](article-5-4-1.md)

@@ -12,9 +12,7 @@ La direction des affaires maritimes comprend :
 
 ― la mission de la flotte de commerce ;
 
-― la mission de la navigation de plaisance et des loisirs nautiques ;
-
-― l'ensemble « écoles ― centre de formation et de documentation des affaires maritimes ».
+― la mission de la navigation de plaisance et des loisirs nautiques.
 
 En outre, lui est rattaché le service de santé des gens de mer.
 
