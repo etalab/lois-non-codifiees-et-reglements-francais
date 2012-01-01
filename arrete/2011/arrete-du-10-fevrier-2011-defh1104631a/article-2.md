@@ -1,8 +1,8 @@
 # Article 2
 
-Dans le cadre des directives techniques de la direction des ressources humaines du ministère de la défense (sous-direction de l'action sociale), la politique d'action sociale est mise en œuvre en étroite liaison avec le commandement par les directeurs locaux de l'action sociale, désignés à l'article 3 ci-après, et, sous leur autorité :
+Dans le cadre des directives techniques de la direction des ressources humaines du ministère de la défense (sous-direction de l'action sociale), la politique d'action sociale est mise en œuvre en étroite liaison avec le commandement par les chefs de pôle ministériel d'action sociale, désignés à l'article 3 ci-après, et, sous leur autorité :
 
-― au niveau des directions locales, les conseillers techniques de service social ;
+― au niveau des pôles ministériels, les conseillers techniques de service social ;
 
 ― au niveau des échelons sociaux, les conseillers techniques de service social ou les assistants de service social qui leur sont rattachés.
 

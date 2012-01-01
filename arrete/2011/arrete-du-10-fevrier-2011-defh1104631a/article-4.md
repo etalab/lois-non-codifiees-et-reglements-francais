@@ -1,6 +1,6 @@
 # Article 4
 
-Un conseiller technique de service social est adjoint à chaque directeur local. A ce titre, pour l'ensemble de la zone géographique de la compétence du directeur local :
+Un conseiller technique de service social est adjoint à chaque chef de pôle ministériel d'action sociale. A ce titre, pour l'ensemble de la zone géographique de la compétence du chef de pôle ministériel d'action sociale :
 
 ― il donne notamment son avis sur les actions sociales entreprises, lui fait part des informations nécessaires et formule toutes propositions utiles à une mise en œuvre optimale de l'action sociale ;
 

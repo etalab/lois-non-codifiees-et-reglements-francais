@@ -1,6 +1,6 @@
 # Article 6
 
-Les directions locales d'action sociale sont organisées en échelons sociaux.
+Les pôles ministériels d'action sociale sont organisés en échelons sociaux.
 
 Parmi ceux-ci, on distingue :
 
