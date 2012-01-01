@@ -536,7 +536,6 @@
 - [Décret n°95-935 du 17 août 1995 (INTD9500216D)](decret-n95-935-du-17-aout-1995-intd9500216d)
 - [Décret n°95-936 du 17 août 1995 (DOMP9500032D)](decret-n95-936-du-17-aout-1995-domp9500032d)
 - [Décret n°97-246 du 17 mars 1997 (MENN9603521D)](decret-n97-246-du-17-mars-1997-menn9603521d)
-- [Décret n°97-259 du 17 mars 1997 (INTA9700048D)](decret-n97-259-du-17-mars-1997-inta9700048d)
 - [Décret n°94-1017 du 18 novembre 1994 (PRMG9470364D)](decret-n94-1017-du-18-novembre-1994-prmg9470364d)
 - [Décret n°95-1022 du 18 septembre 1995 (PRMX9500118D)](decret-n95-1022-du-18-septembre-1995-prmx9500118d)
 - [Décret n°95-1023 du 18 septembre 1995 (EQUA9501405D)](decret-n95-1023-du-18-septembre-1995-equa9501405d)
