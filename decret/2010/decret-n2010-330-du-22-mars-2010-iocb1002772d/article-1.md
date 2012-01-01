@@ -13,18 +13,22 @@ L'échelonnement indiciaire applicable aux membres des cadres d'emplois régis p
 </th>
 </tr>
 <tr>
-<td align="center" colspan="2">Troisième grade</td>
+<td align="center">Troisième grade<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">11e échelon<br/>
 </td>
-<td align="center">660<br/>
+<td align="center">675<br/>
 </td>
 </tr>
 <tr>
 <td align="center">10e échelon<br/>
 </td>
-<td align="center">640<br/>
+<td align="center">646<br/>
 </td>
 </tr>
 <tr>
@@ -82,7 +86,11 @@ L'échelonnement indiciaire applicable aux membres des cadres d'emplois régis p
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">Deuxième grade</td>
+<td align="center">Deuxième grade<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">13e échelon<br/>
@@ -163,7 +171,11 @@ L'échelonnement indiciaire applicable aux membres des cadres d'emplois régis p
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">Premier grade</td>
+<td align="center">Premier grade<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
 <td align="center">13e échelon<br/>
