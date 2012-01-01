@@ -819,7 +819,6 @@
 - [Arrêté du 25 septembre 1992 (MERR9200149A)](arrete-du-25-septembre-1992-merr9200149a)
 - [Arrêté du 25 septembre 1992 (TEFO9205252A)](arrete-du-25-septembre-1992-tefo9205252a)
 - [Arrêté du 25 mai 1992 (DEFE9201867A)](arrete-du-25-mai-1992-defe9201867a)
-- [Arrêté du 25 mai 1992 (MERG9200095A)](arrete-du-25-mai-1992-merg9200095a)
 - [Arrêté du 26 août 1992 (AGRR9200823A)](arrete-du-26-aout-1992-agrr9200823a)
 - [Arrêté du 26 août 1992 (BUDL9200146A)](arrete-du-26-aout-1992-budl9200146a)
 - [Arrêté du 26 août 1992 (EQUA9201260A)](arrete-du-26-aout-1992-equa9201260a)
