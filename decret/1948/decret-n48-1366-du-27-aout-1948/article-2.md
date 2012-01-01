@@ -10,16 +10,6 @@ Indemnité spéciale aux territoires du Sud ;
 
 Indemnité forfaitaire ;
 
-Indemnité de première mise d'équipement ;
-
-Indemnité de première mise de harnachement ;
-
-Indemnité pour changement d'uniforme ;
-
-Indemnité pour perte d'effets ;
-
 Indemnité de départ ;
 
-Indemnité spéciale d'alimentation ;
-
-Indemnité d'habillement.
+Indemnité spéciale d'alimentation.

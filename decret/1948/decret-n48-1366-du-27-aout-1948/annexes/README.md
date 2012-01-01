@@ -1,9 +1,6 @@
 # Annexes
 
 - [Article Annexe](article-annexe.md)
-- [Article Tableau IV](article-tableau-iv.md)
-- [Article Tableau V](article-tableau-v.md)
-- [Article Tableau VI](article-tableau-vi.md)
 - [Article Tableau VII](article-tableau-vii.md)
 - [Article Tableau VII bis](article-tableau-vii-bis.md)
 - [Article Tableau VII ter](article-tableau-vii-ter.md)
