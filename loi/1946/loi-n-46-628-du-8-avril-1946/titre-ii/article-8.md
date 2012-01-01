@@ -8,7 +8,7 @@ Sont exclus de la nationalisation :
 
 1° La production, le transport et la distribution de gaz naturel.
 
-Les dispositions de l'article 35 ci-après s'appliqueront aux ouvrages de traitement et de transport de gaz naturel.
+Les dispositions de l'article 35 ci-après s'appliqueront aux ouvrages de traitement   de gaz naturel.
 
 2° Les entreprises gazières dont la production annuelle moyenne de 1942 et 1943 est inférieure à 6 millions de mètres cubes, à moins qu'elles n'aient un caractère régional ou national ou que l'entreprise ne soit en même temps nationalisée comme concessionnaire de distribution d'électricité ;
 
@@ -18,7 +18,7 @@ Les dispositions de l'article 35 ci-après s'appliqueront aux ouvrages de traite
 
 5° Les aménagements de production d'énergie de tout établissement, entreprise ou de tout particulier, lorsque la puissance installée des appareils de production n'excède pas 8000 kVA (puissance maximum des machines tournantes susceptibles de marcher simultanément). Il ne sera pas tenu compte, pour le calcul de la puissance installée, des installations de récupération d'énergie résiduaire visées au paragraphe 4° précédent.
 
-6° Les installations réalisées ou à réaliser sous l'autorité des collectivités locales ou des établissements publics ou de leurs groupements, en vue d'utiliser le pouvoir calorifique des résidus et déchets collectés dans les centres urbains ou en vue d'alimenter un réseau de chaleur. Dans ce dernier cas, la puissance de ces installations doit être en rapport avec la taille du réseau existant ou à créer.L'initiative de la création de ces installations revient aux collectivités locales intéressées. Ces installations doivent être gérées par les collectivités locales selon les diverses modalités définies par le code des communes. Toutefois, toute installation de production nucléaire, à l'exception des installations propres au     Commissariat à l'énergie atomique et aux énergies alternatives et à ses filiales, ne pourra être gérée que par Electricité de France ou l'une de ses filiales.
+6° Les installations réalisées ou à réaliser sous l'autorité des collectivités locales ou des établissements publics ou de leurs groupements, en vue d'utiliser le pouvoir calorifique des résidus et déchets collectés dans les centres urbains ou en vue d'alimenter un réseau de chaleur. Dans ce dernier cas, la puissance de ces installations doit être en rapport avec la taille du réseau existant ou à créer.L'initiative de la création de ces installations revient aux collectivités locales intéressées. Ces installations doivent être gérées par les collectivités locales selon les diverses modalités définies par le code des communes. Toutefois, toute installation de production nucléaire, à l'exception des installations propres au Commissariat à l'énergie atomique et aux énergies alternatives et à ses filiales, ne pourra être gérée que par Electricité de France ou l'une de ses filiales.
 
 7° Les aménagements de production d'électricité exploités, directement ou par le truchement d'organismes dans lesquels ils ont des participations, par tout département, groupement de communes ou commune utilisant l'énergie hydraulique des cours d'eau traversant leur territoire, lorsque la puissance installée des appareils de production n'excède pas 8000 kVA (puissance maximale des machines tournantes susceptibles de marcher simultanément).
 
