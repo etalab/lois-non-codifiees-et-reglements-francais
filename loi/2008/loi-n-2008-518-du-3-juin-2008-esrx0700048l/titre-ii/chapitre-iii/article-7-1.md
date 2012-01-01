@@ -24,7 +24,7 @@ Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours.
 
 Les pièces saisies sont conservées pour les besoins de la procédure, à moins qu'une décision insusceptible de pourvoi en cassation par les parties n'en ordonne la restitution.
 
-V. - L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avoué.
+V. - L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat.
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
 
@@ -32,7 +32,7 @@ Le greffe du tribunal de grande instance transmet sans délai le dossier de l'af
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
 
-VI. - Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie autorisées par le juge des libertés et de la détention suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avoué.
+VI. - Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie autorisées par le juge des libertés et de la détention suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avocat.
 
 Le recours est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au premier alinéa. Ce recours n'est pas suspensif.
 

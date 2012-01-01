@@ -2,7 +2,6 @@
 
 - [Ordonnance n° 45-875 du 1 mai 1945](ordonnance-n-45-875-du-1-mai-1945)
 - [Ordonnance n° 45-2590 du 2 novembre 1945](ordonnance-n-45-2590-du-2-novembre-1945)
-- [Ordonnance n° 45-2591 du 2 novembre 1945](ordonnance-n-45-2591-du-2-novembre-1945)
 - [Ordonnance n° 45-2592 du 2 novembre 1945](ordonnance-n-45-2592-du-2-novembre-1945)
 - [Ordonnance n° 45-2596 du 2 novembre 1945](ordonnance-n-45-2596-du-2-novembre-1945)
 - [Ordonnance n° 45-2640 du 2 novembre 1945](ordonnance-n-45-2640-du-2-novembre-1945)

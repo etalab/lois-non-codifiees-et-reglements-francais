@@ -9,3 +9,5 @@ Tout différend entre avocats à l'occasion de leur exercice professionnel est, 
 La décision du bâtonnier peut être déférée à la cour d'appel par l'une des parties.
 
 Les conditions dans lesquelles le bâtonnier peut déléguer ses pouvoirs et les modalités de la procédure d'arbitrage sont déterminées par décret en Conseil d'Etat pris après avis du Conseil national des barreaux.
+
+L'ensemble des bâtonniers des barreaux du ressort de chaque cour d'appel désigne tous les deux ans celui d'entre eux chargé, ès qualité de bâtonnier en exercice, de les représenter pour traiter de toute question d'intérêt commun relative à la procédure d'appel.
