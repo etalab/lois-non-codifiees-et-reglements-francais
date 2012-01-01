@@ -14,7 +14,7 @@ Le candidat a le choix entre deux textes qui se rapportent à une même notion d
 
 Le sujet de la dissertation se rapporte à l'une des notions du programme de philosophie en vigueur dans les classes terminales. La notion qui constitue le programme de cette épreuve est fixée chaque année, elle est obligatoirement différente de celle retenue pour le programme de la première composition de philosophie.
 
-Le programme des épreuves écrites fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves écrites fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves d'admission
 
@@ -28,7 +28,7 @@ Section lettres classiques
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition à partir d'un ou de plusieurs textes des auteurs de langue française du programme publié au Bulletin officiel du ministère de l'éducation nationale. Le candidat expose les modalités d'exploitation dans une classe de lycée déterminée par le jury d'un, de plusieurs ou de la totalité des textes :
+1° Composition à partir d'un ou de plusieurs textes des auteurs de langue française du programme publié sur le site internet du ministère chargé de l'éducation nationale. Le candidat expose les modalités d'exploitation dans une classe de lycée déterminée par le jury d'un, de plusieurs ou de la totalité des textes :
 
 Durée de l'épreuve : sept heures.
 
@@ -42,7 +42,7 @@ Coefficient 8.
 
 B. - Epreuves orales d'admission
 
-1° Leçon portant sur un programme publié au Bulletin officiel du ministère de l'éducation nationale d'œuvres d'auteurs de langue française et d'œuvres d'auteurs anciens. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle :
+1° Leçon portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française et d'œuvres d'auteurs anciens. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle :
 
 Durée de la préparation : six heures.
 
@@ -50,7 +50,7 @@ Durée de l'épreuve : cinquante minutes.
 
 Coefficient 8.
 
-2° Explication d'un texte postérieur à 1500 d'un auteur de langue française figurant au programme publié au Bulletin officiel du ministère de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
+2° Explication d'un texte postérieur à 1500 d'un auteur de langue française figurant au programme publié sur le site internet du ministère chargé de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
 
 Durée de la préparation : deux heures trente minutes.
 
@@ -58,7 +58,7 @@ Durée de l'épreuve : quarante-cinq minutes.
 
 Coefficient 7.
 
-3° Explication d'un texte latin ou grec (dans celle des deux langues qui n'a pas fait l'objet d'une épreuve écrite) figurant au programme publié au Bulletin officiel du ministère du ministère de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
+3° Explication d'un texte latin ou grec (dans celle des deux langues qui n'a pas fait l'objet d'une épreuve écrite) figurant au programme publié sur le site internet du ministère chargé de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
 
 Durée de la préparation : deux heures trente minutes.
 
@@ -76,7 +76,7 @@ Durée de l'épreuve : sept heures.
 
 Coefficient 8.
 
-2° Composition française portant sur un programme publié au Bulletin officiel du ministère de l'éducation nationale d'œuvres d'auteurs de langue française et postérieures à 1500.
+2° Composition française portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française et postérieures à 1500.
 
 Durée de l'épreuve : sept heures.
 
@@ -84,7 +84,7 @@ Coefficient 12.
 
 B. - Epreuves orales d'admission
 
-1° Leçon portant sur un programme publié au Bulletin officiel du ministère de l'éducation nationale d'œuvres d'auteurs de langue française. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle.
+1° Leçon portant sur un programme publié sur le site internet du ministère chargé de l'éducation nationale d'œuvres d'auteurs de langue française. La leçon est suivie d'un entretien qui permet au candidat de tirer parti de son expérience professionnelle.
 
 Durée de la préparation : six heures.
 
@@ -92,7 +92,7 @@ Durée de l'épreuve : cinquante minutes.
 
 Coefficient 6.
 
-2° Explication d'un texte postérieur à 1500 d'un auteur de langue française et figurant au programme publié au Bulletin officiel du ministère de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
+2° Explication d'un texte postérieur à 1500 d'un auteur de langue française et figurant au programme publié sur le site internet du ministère chargé de l'éducation nationale. Cette explication est suivie d'une interrogation de grammaire portant sur le texte et d'un entretien avec le jury.
 
 Durée de la préparation : trois heures.
 
@@ -100,7 +100,7 @@ Durée de l'épreuve : cinquante minutes.
 
 Coefficient 8.
 
-3° Commentaire d'un texte français ou traduit appartenant aux littératures anciennes ou modernes et extrait du programme de littérature générale et comparée, publié au Bulletin officiel du ministère de l'éducation nationale. Ce commentaire est suivi d'un entretien avec le jury.
+3° Commentaire d'un texte français ou traduit appartenant aux littératures anciennes ou modernes et extrait du programme de littérature générale et comparée, publié sur le site internet du ministère chargé de l'éducation nationale. Ce commentaire est suivi d'un entretien avec le jury.
 
 Durée de la préparation : deux heures.
 
@@ -130,7 +130,7 @@ Durée : cinq heures.
 
 Coefficient 1.
 
-Les épreuves écrites portent sur un programme publié au Bulletin officiel du ministère de l'éducation nationale.
+Les épreuves écrites portent sur un programme publié sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves orales d'admission
 
@@ -182,7 +182,7 @@ Durée : six heures. Coefficient 5.
 
 Ces épreuves ont pour objectif d'évaluer la maîtrise des connaissances mathématiques et la capacité de les mobiliser pour étudier des situations, ainsi que la solidité, sur le plan scientifique, des acquis professionnels. Les sujets intègrent à la résolution de problèmes des thèmes d'étude prenant en compte la pratique enseignante.
 
-Les épreuves écrites portent sur le programme de l'enseignement du second degré et sur un programme complémentaire publié au Bulletin officiel du ministère de l'éducation nationale.
+Les épreuves écrites portent sur le programme de l'enseignement du second degré et sur un programme complémentaire publié sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves orales d'admission
 
@@ -210,11 +210,11 @@ A. - Epreuves écrites d'admissibilité
 
 1° Composition sur la physique et le traitement automatisé de l'information.
 
-Le programme de l'épreuve est défini par référence aux programmes de physique des classes de lycée, classes post-baccalauréat incluses. Il fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme de l'épreuve est défini par référence aux programmes de physique des classes de lycée, classes post-baccalauréat incluses. Il fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Durée : cinq heures ; coefficient 1.
 
-2° Composition avec exercices d'application sur les programmes de l'enseignement du second degré et sur un programme complémentaire publié au Bulletin officiel du ministère de l'éducation nationale.
+2° Composition avec exercices d'application sur les programmes de l'enseignement du second degré et sur un programme complémentaire publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Durée : cinq heures ; coefficient 1.
 
@@ -244,7 +244,7 @@ Chacune des épreuves définies ci-dessus a lieu après quatre heures de prépar
 
 En outre, un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
 
-Le programme sur lequel portent les épreuves écrites et orales est publié chaque année au Bulletin officiel du ministère de l'éducation nationale.
+Le programme sur lequel portent les épreuves écrites et orales est publié chaque année sur le site internet du ministère chargé de l'éducation nationale.
 
 Section sciences de la vie
 
@@ -252,7 +252,7 @@ Sciences de la Terre et de l'Univers
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition à partir d'un dossier fourni au candidat. Le candidat propose, pour des niveaux et des objectifs désignés, une progression, expose en détail un point particulier en l'illustrant d'exemples, élabore des exercices d'application et prévoit une évaluation.
+1° Composition à partir d'un dossier fourni au candidat. Le candidat propose, pour des niveaux et des objectifs désignés,f une progression, expose en détail un point particulier en l'illustrant d'exemples, élabore des exercices d'application et prévoit une évaluation.
 
 Durée : cinq heures.
 
@@ -296,13 +296,13 @@ Le candidat est autorisé à prendre des notes pendant l'audition (durée : deux
 
 Dissertation. Cette partie de l'épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des autres arts, des idées et des civilisations (durée : quatre heures).
 
-Un programme est publié au Bulletin officiel de l'éducation nationale. Il porte sur une notion ou composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
+Un programme est publié sur le site internet du ministère chargé de l'éducation nationale. Il porte sur une notion ou composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
 
 Chaque partie de l'épreuve entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
 2° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ seize mesures.
 
-Un programme limitatif renouvelé périodiquement est publié au Bulletin officiel de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+Un programme limitatif renouvelé périodiquement est publié sur le site internet du ministère chargé de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
 
 Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
 
@@ -394,7 +394,7 @@ Durée : six heures.
 
 Coefficient 6.
 
-Le programme sur lequel porte cette épreuve est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme sur lequel porte cette épreuve est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 2° Une composition élaborée à partir d'un dossier fourni au candidat et portant sur les programmes de sciences économiques et sociales (option en classe de seconde, enseignement de sciences économiques et sociales en classes de première ES et de terminale ES, durée : six heures ; coefficient 4).
 
@@ -416,7 +416,7 @@ Le candidat ne dispose d'aucun document autre que ceux inclus au dossier. Seule 
 
 Durée de la préparation : trois heures ; durée de l'épreuve : quarante-cinq minutes [exposé : quinze minutes ; interrogation sur les données quantitatives : quinze minutes ; entretien : quinze minutes] ; coefficient 4).
 
-Un programme de mathématiques et statistiques appliquées aux sciences économiques et sociales est publié au Bulletin officiel de l'éducation nationale.
+Un programme de mathématiques et statistiques appliquées aux sciences économiques et sociales est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section mécanique
 
@@ -848,7 +848,7 @@ Durée de la préparation : quatre heures ; durée totale de l'épreuve : une he
 
 2° Epreuve de cas pratique dans la spécialité correspondant à l'option choisie par le candidat. Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
-Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section éducation physique et sportive
 
@@ -872,7 +872,7 @@ B. - Epreuves orales d'admission
 
 Exposé suivi d'un entretien.
 
-Exposé : présentation d'une leçon ou d'une ou de plusieurs séquences d'enseignement s'adressant à une classe du second degré. La leçon ou les séquences d'enseignement portent sur une activité physique et sportive inscrite dans un programme limitatif d'activités physiques et sportives. Ce programme est publié au Bulletin officiel de l'éducation nationale.
+Exposé : présentation d'une leçon ou d'une ou de plusieurs séquences d'enseignement s'adressant à une classe du second degré. La leçon ou les séquences d'enseignement portent sur une activité physique et sportive inscrite dans un programme limitatif d'activités physiques et sportives. Ce programme est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Le candidat disposera d'un dossier fourni par le jury comprenant un ensemble de données relatives à l'enseignement de l'éducation physique et sportive dans un établissement du second degré.
 
@@ -888,7 +888,7 @@ Coefficient 4.
 
 2° Seconde épreuve : prestation physique et entretien.
 
-Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles inscrites dans un programme défini chaque année et publié au Bulletin officiel de l'éducation nationale.
+Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles inscrites dans un programme défini chaque année et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Cette prestation est suivie d'un entretien avec le jury. L'entretien porte sur les aspects techniques et didactiques de l'activité choisie par le candidat et peut être étendu à des activités permettant de répondre à des objectifs éducatifs d'un même type.
 

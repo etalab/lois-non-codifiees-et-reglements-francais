@@ -1,8 +1,10 @@
 # Article Annexe I
 
-**ÉPREUVES DU CONCOURS EXTERNE DU CERTIFICAT D'APTITUDE AUX FONCTIONS DE CONSEILLER PRINCIPAL D'ÉDUCATION**
+ÉPREUVES DU CONCOURS EXTERNE DU CERTIFICAT D'APTITUDE
 
-Une bibliographie indicative destinée à approfondir les thèmes abordés par le concours est publiée au Bulletin officiel de l'éducation nationale et périodiquement mise à jour.
+AUX FONCTIONS DE CONSEILLER PRINCIPAL D'ÉDUCATION
+
+Une bibliographie indicative destinée à approfondir les thèmes abordés par le concours est publiée sur le site internet du ministère chargé de l'éducation nationale et périodiquement mise à jour.
 
 A. ― Epreuves écrites d'admissibilité
 

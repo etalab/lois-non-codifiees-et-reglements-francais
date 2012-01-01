@@ -116,7 +116,7 @@ L'épreuve permet au candidat de montrer :
 
 Les dossiers proposés aux candidats portent sur des questions diversifiées permettant d'aborder les dimensions du métier de documentaliste ainsi que les connaissances théoriques qui leur sont nécessaires.
 
-Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable. (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
 
@@ -276,7 +276,7 @@ Seconde partie : étude d'un document portant sur la compétence Agir en fonctio
 
 Le candidat répond pendant dix minutes à une question, à partir d'un document joint au dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
 
-Le programme des épreuves d'admissibilité et d'admission est constitué par de grandes questions d'histoire et de géographie se référant aux programmes scolaires. Il est périodiquement révisé et publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves d'admissibilité et d'admission est constitué par de grandes questions d'histoire et de géographie se référant aux programmes scolaires. Il est périodiquement révisé et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section langue corse
 
@@ -312,7 +312,7 @@ Chaque partie compte pour moitié dans la notation. La qualité de la langue emp
 
 Première partie : étude de dossier. (Présentation n'excédant pas vingt minutes ; entretien avec le jury n'excédant pas vingt minutes.)
 
-Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 L'épreuve permet au candidat de montrer :
 
@@ -402,7 +402,7 @@ Le candidat fait une présentation en langue régionale des éléments contenus 
 
 L'entretien permet de vérifier la capacité du candidat à s'exprimer dans une langue correcte et précise, et à réagir aux sollicitations du jury.
 
-Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Seconde partie : interrogation, en français, portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable. (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
 
@@ -518,7 +518,7 @@ Le candidat fait une présentation dans la langue vivante concernée des éléme
 
 L'entretien permet de vérifier la capacité du candidat à s'exprimer dans une langue correcte et précise, et à réagir aux sollicitations du jury.
 
-Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette première partie d'épreuve fait l'objet d'un programme limitatif révisé tous les trois ans et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Seconde partie : interrogation, en français, portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable. (Présentation dix minutes, entretien avec le jury : dix minutes.)
 
@@ -820,7 +820,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Section sciences physiques et chimiques
 
-Le programme et les instructions concernant les épreuves du concours, ainsi que la liste des montages, font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme et les instructions concernant les épreuves du concours, ainsi que la liste des montages, font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 A. ― Epreuves d'admissibilité
 
@@ -840,7 +840,7 @@ Durée de la préparation : trois heures, durée totale de l'épreuve : une heur
 
 L'épreuve est composée de deux parties successives, de trente minutes chacune :
 
-― un exposé portant sur un sujet tiré au sort au moment de l'épreuve dans une liste publiée au Bulletin officiel de l'éducation nationale, s'appuyant sur la présentation d'une ou plusieurs expériences, qualitatives ou quantitatives. Au minimum une expérience quantitative, conduisant à une ou de plusieurs mesures, sera présentée ;
+― un exposé portant sur un sujet tiré au sort au moment de l'épreuve dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale, s'appuyant sur la présentation d'une ou plusieurs expériences, qualitatives ou quantitatives. Au minimum une expérience quantitative, conduisant à une ou de plusieurs mesures, sera présentée ;
 
 ― un entretien avec le jury.
 
@@ -982,7 +982,7 @@ Le candidat fait une présentation en tahitien des éléments contenus dans le d
 
 L'entretien permet de vérifier la capacité du candidat à s'exprimer dans une langue correcte et précise, et à réagir aux sollicitations du jury.
 
-Cette première partie d'épreuve fait l'objet d'un programme limitatif, révisé tous les trois ans et publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette première partie d'épreuve fait l'objet d'un programme limitatif, révisé tous les trois ans et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable. (Présentation dix minutes, entretien avec le jury : dix minutes.)
 

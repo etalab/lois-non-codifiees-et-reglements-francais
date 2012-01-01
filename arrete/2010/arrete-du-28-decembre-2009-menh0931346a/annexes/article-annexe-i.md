@@ -1,6 +1,6 @@
 # Article Annexe I
 
-**ÉPREUVES DU CONCOURS EXTERNE DU CAPEPS**
+ÉPREUVES DU CONCOURS EXTERNE DU CAPEPS
 
 A. ― Epreuves écrites d'admissibilité
 
@@ -16,7 +16,7 @@ L'épreuve a pour but d'évaluer la capacité du futur enseignant à mobiliser l
 
 Durée : cinq heures ; coefficient 2.
 
-Le programme de ces deux épreuves est fixé annuellement et publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme de ces deux épreuves est fixé annuellement et publié sur le site internet du ministère chargé de l'éducation nationale.
 
 B. ― Epreuves d'admission
 
@@ -34,7 +34,7 @@ Chaque partie de l'épreuve compte pour moitié dans l'attribution de la note.
 
 Les prestations physiques :
 
-Les trois prestations physiques sont réalisées dans trois APSA inscrites dans le programme du concours, l'une est issue d'une liste de spécialité et les deux autres de la liste de polyvalence. Les activités choisies pour les trois prestations doivent impérativement relever de deux compétences propres (CP) à l'EPS différentes parmi les quatre compétences propres retenues pour cette épreuve : CP 1, CP 2, CP 3, CP 4. En aucun cas elle ne relève de la compétence propre CP 5. Les listes des APSA sont arrêtées pour deux ans et sont renouvelables ou modifiables pour partie. Elles sont publiées au Bulletin officiel de l'éducation nationale.
+Les trois prestations physiques sont réalisées dans trois APSA inscrites dans le programme du concours, l'une est issue d'une liste de spécialité et les deux autres de la liste de polyvalence. Les activités choisies pour les trois prestations doivent impérativement relever de deux compétences propres (CP) à l'EPS différentes parmi les quatre compétences propres retenues pour cette épreuve : CP 1, CP 2, CP 3, CP 4. En aucun cas elle ne relève de la compétence propre CP 5. Les listes des APSA sont arrêtées pour deux ans et sont renouvelables ou modifiables pour partie. Elles sont publiées sur le site internet du ministère chargé de l'éducation nationale.
 
 En vue de réaliser les trois prestations physiques, le candidat choisit, au moment de l'inscription au concours, une APSA dans chacune des quatre premières compétences propres à l'éducation physique et sportive identifiées dans les programmes disciplinaires (CP 1 à CP 4).
 

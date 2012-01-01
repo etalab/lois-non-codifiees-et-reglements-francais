@@ -2,7 +2,7 @@
 
 ÉPREUVES DU CONCOURS EXTERNE DE RECRUTEMENT DE PROFESSEURS DE LYCÉE PROFESSIONNEL
 
-Des compléments d'information sur la nature et les programmes des épreuves font l'objet, en tant que de besoin, de notes publiées au Bulletin officiel du ministère de l'éducation nationale.
+Des compléments d'information sur la nature et les programmes des épreuves font l'objet, en tant que de besoin, de notes publiées sur le site internet du ministère chargé de l'éducation nationale.
 
 Section arts appliqués
 
@@ -524,7 +524,7 @@ Second cas : histoire et géographie : étude d'un dossier d'histoire ou de géo
 
 Le sujet comporte de deux à quatre documents que le candidat utilise pour son exposé. La présentation est suivie d'un entretien avec le jury.
 
-Pour la valence histoire et géographie, les sujets des épreuves d'admissibilité et d'admission sont établis à partir de questions d'histoire et de questions de géographie, se référant aux programmes du collège et du lycée (général, technique et professionnel) et périodiquement renouvelées. Ces questions font l'objet d'une publication au Bulletin officiel de l'éducation nationale.
+Pour la valence histoire et géographie, les sujets des épreuves d'admissibilité et d'admission sont établis à partir de questions d'histoire et de questions de géographie, se référant aux programmes du collège et du lycée (général, technique et professionnel) et périodiquement renouvelées. Ces questions font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
