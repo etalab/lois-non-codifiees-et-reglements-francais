@@ -44,7 +44,6 @@
 - [Décret n°2004-501 du 2 juin 2004 (ECOF0400010D)](decret-n2004-501-du-2-juin-2004-ecof0400010d)
 - [Décret n°2004-642 du 2 juillet 2004 (SOCU0411052D)](decret-n2004-642-du-2-juillet-2004-socu0411052d)
 - [Décret n°2004-649 du 2 juillet 2004 (SANG0421844D)](decret-n2004-649-du-2-juillet-2004-sang0421844d)
-- [Décret n°2004-657 du 2 juillet 2004 (MJSK0470061D)](decret-n2004-657-du-2-juillet-2004-mjsk0470061d)
 - [Décret n°2004-933 du 2 septembre 2004 (SOCU0411373D)](decret-n2004-933-du-2-septembre-2004-socu0411373d)
 - [Décret n°2004-934 du 2 septembre 2004 (JUSC0420659D)](decret-n2004-934-du-2-septembre-2004-jusc0420659d)
 - [Décret n°2004-943 du 2 septembre 2004 (SOCX0400102D)](decret-n2004-943-du-2-septembre-2004-socx0400102d)
