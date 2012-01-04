@@ -1,0 +1,3 @@
+# Article 16
+
+Les opérateurs qui procèdent à l'expédition à partir du territoire national vers un autre Etat membre de lots constitués d'animaux des espèces citées par l'article R. 233-3-1 du code rural et de la pêche maritime, qui sont issus de différentes exploitations, ou à 1'introduction sur le territoire national depuis un autre Etat membre de lots d'animaux de ces mêmes espèces aux fins de leur réexpédition totale ou partielle vers un ou plusieurs destinataires sont également soumis aux dispositions prévues par le chapitre II de l'arrêté du 9 juin 1994 relatif aux règles applicables aux échanges d'animaux vivants, de semences et embryons et à l'organisation des contrôles vétérinaires.
