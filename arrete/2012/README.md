@@ -159,6 +159,7 @@
 - [Arrêté du 30 décembre 2011 (ETSH1135849A)](arrete-du-30-decembre-2011-etsh1135849a)
 - [Arrêté du 30 décembre 2011 (SCSS1134434A)](arrete-du-30-decembre-2011-scss1134434a)
 - [Arrêté du 30 décembre 2011 (SCSS1134448A)](arrete-du-30-decembre-2011-scss1134448a)
+- [Arrêté du 30 juin 2008 (AGRP0817305A)](arrete-du-30-juin-2008-agrp0817305a)
 - [Arrêté du 30 septembre 2011 (IOCC1119173A)](arrete-du-30-septembre-2011-iocc1119173a)
 - [Arrêté du 30 mai 2011 (DEFH1115416A)](arrete-du-30-mai-2011-defh1115416a)
 - [Arrêté du 31 août 1994 (EQUP9401505A)](arrete-du-31-aout-1994-equp9401505a)
