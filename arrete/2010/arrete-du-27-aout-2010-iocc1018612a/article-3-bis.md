@@ -10,6 +10,6 @@ Ils sont tenus de suivre la formation continue et les séances d'entraînement i
 
 Les modalités des épreuves de sélection et de contrôle de l'aptitude professionnelle mentionnées au présent article sont précisées par une instruction du directeur central de la police judiciaire.
 
-Les dispositions définies au présent article ne s'appliquent pas aux fonctionnaires exerçant des missions de soutien opérationnel au sein des brigades de recherche et d'intervention.
+Les dispositions définies au présent article ne s'appliquent pas aux fonctionnaires exerçant des missions de soutien opérationnel au sein des brigades de recherche et d'intervention, ni aux fonctionnaires du corps de commandement exerçant des fonctions de chef de brigade.
 
 II.-Les fonctionnaires affectés à la brigade de recherche et d'intervention criminelle nationale mentionnée au dernier alinéa de l'article 6 de l'arrêté du 5 août 2009 susvisé sont soumis aux dispositions du I du présent article.
