@@ -19,54 +19,50 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Abondance <br/>
+<p>Abondance <br/>
+</p>
 </td>
 <td align="center">
 <br/>Abondance <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Armoricaine <br/>
+</p>
+</td>
+<td align="center">
+<br/>Armoricaine <br/>
+</td>
+<td align="center">
+<br/>Armoricaine <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Armoricaine <br/>
+<p>Aubrac <br/>
+</p>
 </td>
-<td align="center">
-<br/>Armoricaine <br/>
-</td>
-<td align="center">
-<br/>Armoricaine <br/>
-</td>
-</tr>
-<tr>
 <td align="center">
 <br/>Aubrac <br/>
 </td>
-<td align="center">
-<br/>Aubrac <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Aurochs-reconstitué (Néo-Aurochs) <br/>
+<p>Aurochs-reconstitué (Néo-Aurochs) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Aurochs reconstitué <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bazadaise <br/>
+<p>Bazadaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Bazadaise <br/>
@@ -77,7 +73,8 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Béarnaise <br/>
+<p>Béarnaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Béarnaise <br/>
@@ -88,82 +85,71 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Blanc Bleu <br/>
+<p>Blanc Bleu <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Bleue de Bazougers <br/>
+</p>
+</td>
 <td align="center">
 <br/>Bleue de Bazougers <br/>
 </td>
 <td align="center">
 <br/>Bleue de Bazougers <br/>
 </td>
-<td align="center">
-<br/>Bleue de Bazougers <br/>
-</td>
 </tr>
 <tr>
+<td align="center">
+<p>Bleue du Nord <br/>
+</p>
+</td>
 <td align="center">
 <br/>Bleue du Nord <br/>
 </td>
 <td align="center">
 <br/>Bleue du Nord <br/>
 </td>
-<td align="center">
-<br/>Bleue du Nord <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Blonde d'Aquitaine <br/>
+<p>Blonde d'Aquitaine <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Bordelaise <br/>
+<p>Bordelaise <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Bordelaise <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Brahman <br/>
+<p>Brahman <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Brahman <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bretonne Pie Noire <br/>
+<p>Bretonne Pie noire <br/>
+</p>
 </td>
 <td align="center">
-<br/>Bretonne Pie Noire <br/>
+<br/>Bretonne Pie noire <br/>
 </td>
 <td align="center">
 <br/>Bretonne pie noire <br/>
@@ -171,33 +157,24 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Brune <br/>
+<p>Brune <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Canadienne <br/>
+<p>Canadienne <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Casta (Aure et Saint-Girons) <br/>
+<p>Casta (Aure et Saint-Girons) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Casta <br/>
@@ -208,44 +185,36 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Charolaise <br/>
+<p>Charolaise <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Corse <br/>
+<p>Corse <br/>
+</p>
 </td>
 <td align="center">
 <br/>Corse <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Créole <br/>
+<p>Créole <br/>
+</p>
 </td>
 <td align="center">
 <br/>Créole <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>De Combat (Espagnole Brava) <br/>
+<p>De Combat (Espagnole Brava) <br/>
+</p>
 </td>
 <td align="center">
 <br/>De Combat <br/>
@@ -256,7 +225,8 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Ferrandaise <br/>
+<p>Ferrandaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Ferrandaise <br/>
@@ -267,7 +237,8 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Froment du Léon <br/>
+<p>Froment du Léon <br/>
+</p>
 </td>
 <td align="center">
 <br/>Froment du Léon <br/>
@@ -277,83 +248,63 @@ I.-Espèce bovine
 </td>
 </tr>
 <tr>
+<td align="center">
+<p>Gasconne <br/>
+</p>
+</td>
 <td align="center">
 <br/>Gasconne <br/>
 </td>
-<td align="center">
-<br/>Gasconne <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Hereford <br/>
+<p>Hereford <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Hérens <br/>
+<p>Hérens <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Hérens <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>INRA 95 <br/>
+<p>INRA 95 <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>INRA 95 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Jersiaise <br/>
+<p>Jersiaise <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Limousine <br/>
+<p>Limousine <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Lourdaise <br/>
+<p>Lourdaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lourdaise <br/>
@@ -364,7 +315,8 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Maraîchine <br/>
+<p>Maraîchine <br/>
+</p>
 </td>
 <td align="center">
 <br/>Maraîchine <br/>
@@ -375,7 +327,8 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Mirandaise (Gasconne aréolée) <br/>
+<p>Mirandaise (Gasconne aréolée) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Mirandaise <br/>
@@ -386,20 +339,16 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Montbéliarde <br/>
+<p>Montbéliarde <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Nantaise <br/>
+<p>Nantaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Nantaise <br/>
@@ -410,104 +359,86 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Normande <br/>
+<p>Normande <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Parthenaise <br/>
+<p>Parthenaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Parthenaise <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Pie rouge des Plaines <br/>
+</p>
+</td>
 <td align="center">
 <br/>Pie rouge des Plaines <br/>
 </td>
-<td align="center">
-<br/>Pie rouge des Plaines <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Prim'Holstein <br/>
+<p>Prim'Holstein <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Raço di Bioù (Camargue) <br/>
+<p>Raço di Bioù (Camargue) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Raço di Bioù <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Rouge Flamande (Rouge du Nord) <br/>
+</p>
+</td>
+<td align="center">
+<br/>Rouge Flamande <br/>
+</td>
+<td align="center">
+<br/>Rouge Flamande <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rouge flamande (Rouge du Nord) <br/>
-</td>
-<td align="center">
-<br/>Rouge flamande <br/>
-</td>
-<td align="center">
-<br/>Rouge flamande <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rouge des Prés (Maine Anjou) <br/>
+<p>Rouge des Prés (Maine Anjou) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Rouge des Prés <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Salers <br/>
+</p>
+</td>
 <td align="center">
 <br/>Salers <br/>
 </td>
-<td align="center">
-<br/>Salers <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Saosnoise <br/>
+<p>Saosnoise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Saosnoise <br/>
@@ -518,43 +449,38 @@ I.-Espèce bovine
 </tr>
 <tr>
 <td align="center">
-<br/>Simmental française <br/>
+<p>Simmental Française <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Tarentaise (Tarine) <br/>
+<p>Tarentaise (Tarine) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Tarentaise <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Villard de Lans <br/>
+</p>
+</td>
+<td align="center">
+<br/>Villard de Lans <br/>
+</td>
+<td align="center">
+<br/>Villard de Lans <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Villard de Lans <br/>
-</td>
-<td align="center">
-<br/>Villard de Lans <br/>
-</td>
-<td align="center">
-<br/>Villard de Lans <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Vosgienne <br/>
+<p>Vosgienne <br/>
+</p>
 </td>
 <td align="center">
 <br/>Vosgienne <br/>
@@ -583,53 +509,52 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Aure et Campan (Auroise) <br/>
+<p>Aure et Campan (Auroise) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Aure et Campan <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Avranchin <br/>
+</p>
+</td>
 <td align="center">
 <br/>Avranchin <br/>
 </td>
 <td align="center">
 <br/>Avranchin <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
-<br/>Avranchin <br/>
+<p>Barégeoise <br/>
+</p>
+</td>
+<td align="center">
+<br/>Barégeoise <br/>
+</td>
+<td align="center">
+<br/>Barégeoise <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Barégeoise <br/>
+<p>Basco-Béarnaise <br/>
+</p>
 </td>
-<td align="center">
-<br/>Barégeoise <br/>
-</td>
-<td align="center">
-<br/>Barégeoise <br/>
-</td>
-</tr>
-<tr>
 <td align="center">
 <br/>Basco-Béarnaise <br/>
 </td>
-<td align="center">
-<br/>Basco-Béarnaise <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Belle Ile (race de Deux) <br/>
+<p>Belle Ile (race de Deux) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Belle Ile <br/>
@@ -640,76 +565,74 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Berrichon du Cher (BCF) <br/>
+<p>Berrichon du Cher (BCF) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Berrichon du Cher <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Berrichon de l'Indre <br/>
+</p>
+</td>
+<td align="center">
+<br/>Berrichon de l'Indre <br/>
+</td>
+<td align="center">
+<br/>Berrichon de l'Indre <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Berrichon de l'Indre <br/>
+<p>Bizet <br/>
+</p>
 </td>
-<td align="center">
-<br/>Berrichon de l'Indre <br/>
-</td>
-<td align="center">
-<br/>Berrichon de l'Indre <br/>
-</td>
-</tr>
-<tr>
 <td align="center">
 <br/>Bizet <br/>
 </td>
-<td align="center">
-<br/>Bizet <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Blanc du Massif central <br/>
+<p>Blanc du Massif central <br/>
+</p>
 </td>
 <td align="center">
 <br/>Blanc du Massif central <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Bleu du Maine <br/>
+</p>
+</td>
 <td align="center">
 <br/>Bleu du Maine <br/>
 </td>
 <td align="center">
 <br/>Bleu du Maine <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
-<br/>Bleu du Maine <br/>
+<p>Boulonnaise <br/>
+</p>
+</td>
+<td align="center">
+<br/>Boulonnaise <br/>
+</td>
+<td align="center">
+<br/>Boulonnaise <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Boulonnaise <br/>
-</td>
-<td align="center">
-<br/>Boulonnaise <br/>
-</td>
-<td align="center">
-<br/>Boulonnaise <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brigasque (Brigasca) <br/>
+<p>Brigasque (Brigasca) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Brigasque <br/>
@@ -720,7 +643,8 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Castillonnaise <br/>
+<p>Castillonnaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Castillonnaise <br/>
@@ -731,7 +655,8 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Caussenarde des Garrigues <br/>
+<p>Caussenarde des Garrigues <br/>
+</p>
 </td>
 <td align="center">
 <br/>Caussenarde des Garrigues <br/>
@@ -741,178 +666,145 @@ II. - Espèce ovine
 </td>
 </tr>
 <tr>
+<td align="center">
+<p>Causses du Lot <br/>
+</p>
+</td>
 <td align="center">
 <br/>Causses du Lot <br/>
 </td>
-<td align="center">
-<br/>Causses du Lot <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Charmoise <br/>
+<p>Charmoise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Charmoise <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Clun Forest <br/>
+<p>Clun Forest <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Clun Forest <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corse (race ovine corse) <br/>
+<p>Corse (race ovine Corse) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Corse <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Cotentin <br/>
+</p>
+</td>
+<td align="center">
+<br/>Cotentin <br/>
+</td>
+<td align="center">
+<br/>Cotentin <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Cotentin <br/>
+<p>Dorset Down <br/>
+</p>
 </td>
-<td align="center">
-<br/>Cotentin <br/>
-</td>
-<td align="center">
-<br/>Cotentin <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dorset Down <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Dorset down <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Est à laine Mérinos <br/>
+<p>Est à laine Mérinos <br/>
+</p>
 </td>
 <td align="center">
 <br/>Est à laine Mérinos <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Finnoise <br/>
+<p>Finnoise <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Finnoise <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Grivette <br/>
+<p>Grivette <br/>
+</p>
 </td>
 <td align="center">
 <br/>Grivette <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Hampshire <br/>
+<p>Hampshire <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Ile de France (OIF) <br/>
+<p>Ile-de-France (OIF) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>INRA 401 (Romane) <br/>
+<p>INRA 401 (Romane) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Lacaune Lait <br/>
+<p>Lacaune Lait <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lacaune Lait <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Lacaune Viande <br/>
+<p>Lacaune Viande <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lacaune Viande <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Landaise (Landes de Gascogne) <br/>
+<p>Landaise (Landes de Gascogne) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Landaise <br/>
@@ -923,7 +815,8 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Landes de Bretagne (Landes de l'Ouest) <br/>
+<p>Landes de Bretagne (Landes de l'Ouest) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Landes de Bretagne <br/>
@@ -934,54 +827,50 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Limousine <br/>
+<p>Limousine <br/>
+</p>
 </td>
 <td align="center">
 <br/>Limousine <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Lourdaise <br/>
+</p>
+</td>
+<td align="center">
+<br/>Lourdaise <br/>
+</td>
+<td align="center">
+<br/>Lourdaise <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lourdaise <br/>
-</td>
-<td align="center">
-<br/>Lourdaise <br/>
-</td>
-<td align="center">
-<br/>Lourdaise <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Manech noire (Manech Tête noire) <br/>
+<p>Manech noire (Manech Tête noire) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Manech Tête noire <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Manech rousse (Manech Tête rousse) <br/>
+<p>Manech rousse (Manech Tête rousse) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Manech Tête rousse <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Martinik (OMK) <br/>
+<p>Martinik (OMK) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Martinik <br/>
@@ -992,42 +881,40 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Mérinos d'Arles (Mérinos de la Crau, Métis) <br/>
+<p>Mérinos d'Arles (Mérinos de la Crau, Métis) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Mérinos d'Arles <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Mérinos de Rambouillet <br/>
+</p>
+</td>
+<td align="center">
+<br/>Mérinos de Rambouillet <br/>
+</td>
+<td align="center">
+<br/>Mérinos de Rambouillet <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mérinos de Rambouillet <br/>
+<p>Mérinos précoce <br/>
+</p>
 </td>
-<td align="center">
-<br/>Mérinos de Rambouillet <br/>
-</td>
-<td align="center">
-<br/>Mérinos de Rambouillet <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mérinos précoce <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Mérinos précoce <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Montagne noire <br/>
+<p>Montagne noire <br/>
+</p>
 </td>
 <td align="center">
 <br/>Montagne noire <br/>
@@ -1038,80 +925,66 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Mourerous (Peone, Guillaume) <br/>
+<p>Mourerous (Peone, Guillaume) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Mourérous <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Mouton charollais <br/>
+<p>Mouton charollais <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Mouton vendéen <br/>
+<p>Mouton vendéen <br/>
+</p>
 </td>
 <td align="center">
 <br/>Mouton vendéen <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Noir du Velay <br/>
+<p>Noir du Velay <br/>
+</p>
 </td>
 <td align="center">
 <br/>Noir du Velay <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Ouessant <br/>
+<p>Ouessant <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Ouessant <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Préalpes du Sud <br/>
+<p>Préalpes du Sud <br/>
+</p>
 </td>
 <td align="center">
 <br/>Préalpes du Sud <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Raïole (Rayole) <br/>
+<p>Raïole (Rayole) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Raïole <br/>
@@ -1122,44 +995,36 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Rava <br/>
+<p>Rava <br/>
+</p>
 </td>
 <td align="center">
 <br/>Rava <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Romanov <br/>
+<p>Romanov <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Romanov <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rouge de l'Ouest <br/>
+<p>Rouge de l'Ouest <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Rouge du Roussillon <br/>
+<p>Rouge du Roussillon <br/>
+</p>
 </td>
 <td align="center">
 <br/>Rouge du Roussillon <br/>
@@ -1170,30 +1035,30 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Roussin de la Hague (Roussin) <br/>
+<p>Roussin de la Hague (Roussin) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Roussin de la Hague <br/>
 </td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
-<br/>
-<br/>
+<p>Solognote <br/>
+</p>
+</td>
+<td align="center">
+<br/>Solognote <br/>
+</td>
+<td align="center">
+<br/>Solognote <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Solognote <br/>
-</td>
-<td align="center">
-<br/>Solognote <br/>
-</td>
-<td align="center">
-<br/>Solognote <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Southdown (Français) <br/>
+<p>Southdown (Français) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Southdown <br/>
@@ -1204,45 +1069,34 @@ II. - Espèce ovine
 </tr>
 <tr>
 <td align="center">
-<br/>Suffolk <br/>
+<p>Suffolk <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Tarasconnaise <br/>
+<p>Tarasconnaise <br/>
+</p>
 </td>
 <td align="center">
 <br/>Tarasconnaise <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Texel <br/>
+<p>Texel <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Thônes et Marthod <br/>
+<p>Thônes et Marthod <br/>
+</p>
 </td>
 <td align="center">
 <br/>Thônes et Marthod <br/>
@@ -1271,78 +1125,90 @@ III. - Espèce caprine
 </tr>
 <tr>
 <td align="center">
-<br/>Alpine (Alpine chamoisée) <br/>
+<p>Alpine (Alpine chamoisée) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Angora <br/>
+<p>Angora <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Angora <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corse <br/>
+<p>Boer <br/>
+</p>
 </td>
-<td align="center">
-<br/>Corse <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Créole (Cabri créole) <br/>
+<p>Corse <br/>
+</p>
+</td>
+<td align="center">
+<br/>Corse <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p>Créole (Cabri créole) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Créole <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
+<td align="center">
+<p>Des Fossés <br/>
+</p>
+</td>
 <td align="center">
 <br/>Des Fossés <br/>
 </td>
 <td align="center">
 <br/>Des Fossés <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
-<br/>Des Fossés <br/>
+<p>Du Massif central <br/>
+</p>
+</td>
+<td align="center">
+<br/>Du Massif central <br/>
+</td>
+<td align="center">
+<br/>Du Massif central <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Du Massif central <br/>
+<p>Péï <br/>
+</p>
 </td>
 <td align="center">
-<br/>Du Massif central <br/>
+<br/>Péï <br/>
 </td>
 <td align="center">
-<br/>Du Massif central <br/>
+<br/>Péï <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Poitevine (du Poitou) <br/>
+<p>Poitevine (du Poitou) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Poitevine <br/>
@@ -1353,7 +1219,8 @@ III. - Espèce caprine
 </tr>
 <tr>
 <td align="center">
-<br/>Provençale (Payse, Commune provençale) <br/>
+<p>Provençale (Payse, Commune provençale) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Provençale <br/>
@@ -1364,7 +1231,8 @@ III. - Espèce caprine
 </tr>
 <tr>
 <td align="center">
-<br/>Pyrénéenne (des Pyrénées) <br/>
+<p>Pyrénéenne (des Pyrénées) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Pyrénéenne <br/>
@@ -1375,7 +1243,8 @@ III. - Espèce caprine
 </tr>
 <tr>
 <td align="center">
-<br/>Rove (du Rove) <br/>
+<p>Rove (du Rove) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Rove <br/>
@@ -1386,16 +1255,11 @@ III. - Espèce caprine
 </tr>
 <tr>
 <td align="center">
-<br/>Saanen (Alpine Saanen) <br/>
+<p>Saanen (Alpine Saanen) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
@@ -1417,7 +1281,7 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Créole de Guadeloupe <p>(Cochon Planche) <br/>
+<p>Créole de Guadeloupe (Cochon Planche) <br/>
 </p>
 </td>
 <td align="center">
@@ -1429,7 +1293,8 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Cul noir Limousin (Porc de Saint-Yrieix, Périgourdin, Cul noir, Limousin) <br/>
+<p>Cul noir Limousin (Porc de Saint-Yrieix, Périgourdin, Cul noir, Limousin) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Cul noir Limousin <br/>
@@ -1440,20 +1305,16 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Duroc <br/>
+<p>Duroc <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Gascon (Gasconne) <br/>
+<p>Gascon (Gasconne) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Gascon <br/>
@@ -1464,46 +1325,32 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Landrace français (Landrace) <br/>
+<p>Landrace français (Landrace) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Large White <br/>
+<p>Large White <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Mei-Shan (Chinois) <br/>
+<p>Mei-Shan (Chinois) <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Nustrale (Corse) <br/>
+<p>Nustrale (Corse) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Nustrale <br/>
@@ -1514,7 +1361,8 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Pie noir du Pays basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin) <br/>
+<p>Pie noir du Pays basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Pie noir du Pays basque <br/>
@@ -1525,20 +1373,16 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Piétrain <br/>
+<p>Piétrain <br/>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Porc blanc de l'Ouest <br/>
+<p>Porc blanc de l'Ouest <br/>
+</p>
 </td>
 <td align="center">
 <br/>Porc blanc de l'Ouest <br/>
@@ -1549,7 +1393,8 @@ IV. - Espèce porcine
 </tr>
 <tr>
 <td align="center">
-<br/>Porc de Bayeux <br/>
+<p>Porc de Bayeux <br/>
+</p>
 </td>
 <td align="center">
 <br/>Porc de Bayeux <br/>
