@@ -12,6 +12,4 @@ Elle doit être accompagnée du modèle d'engagement figurant en annexe IV dûme
 
 2. La demande doit être renouvelée lors de toute modification importante de l'activité, en cas de changement des lieux d'activité, d'hébergement, de stockage ou de la personne responsable.
 
-3. L'enregistrement donne lieu à la délivrance d'un récépissé qui doit être présenté à toute demande des services de contrôle.
-
-Cet enregistrement ne dispense pas des démarches administratives à effectuer pour l'obtention de certificats sanitaires.
+3. L'enregistrement donne lieu à la délivrance d'un récépissé attestant de son enregistrement en tant qu'opérateur commercial effectuant ou participant aux échanges selon des modalités fixées par instruction du ministre chargé de l'agriculture (direction générale de l'alimentation). Ce récépissé doit être présenté à toute demande des services de contrôle.

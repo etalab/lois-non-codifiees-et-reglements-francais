@@ -6,13 +6,13 @@ A. Conditions d'équipement.
 
 Les centres de rassemblement d'animaux doivent être dotés :
 
-- d'installations appropriées permettant de décharger et d'héberger convenablement les animaux, de les abreuver, de les nourrir et de leur donner les éventuels soins nécessaires ; ces installations doivent être faciles à nettoyer et à désinfecter et d'une capacité adaptée à l'activité exercée ;
+-d'installations appropriées permettant de décharger et d'héberger convenablement les animaux, de les abreuver, de les nourrir et de leur donner les éventuels soins nécessaires ; ces installations doivent être faciles à nettoyer et à désinfecter et d'une capacité adaptée à l'activité exercée ;
 
-- d'équipements de nettoyage et de désinfection des locaux et des bétaillères, d'une capacité adaptée à l'activité exercée ;
+-d'équipements de nettoyage et de désinfection des locaux et des bétaillères, d'une capacité adaptée à l'activité exercée ;
 
-- d'une aire de réception des litières adaptée ;
+-d'une aire de réception des litières adaptée ;
 
-- d'un couloir de contention.
+-d'un couloir de contention.
 
 B. Conditions de fonctionnement.
 
@@ -24,7 +24,7 @@ L'établissement doit être doté de procédures internes de contrôles.
 
 Un vétérinaire sanitaire doit être attaché à l'établissement.
 
-Les demandes de certificats sanitaires doivent être adressés au directeur des services vétérinaires vingt-quatre heures avant le départ présumé des animaux.
+Les demandes de certificats sanitaires doivent être adressés au   directeur chargé de la protection des populations vingt-quatre heures avant le départ présumé des animaux.
 
 Les animaux ne doivent pas séjourner dans le centre au-delà de la durée de validité du document sanitaire les accompagnant. Dans le cas contraire, le centre sera assimilé à un élevage devant satisfaire à toutes les obligations relevant des prophylaxies nationales.
 

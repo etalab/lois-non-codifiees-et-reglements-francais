@@ -1,15 +1,5 @@
 # Article 16
 
-La demande d'agrément doit être adressée par le responsable du centre au préfet (directeur des services vétérinaires) du département dans lequel le centre est implanté. Un fichier national des centres agréés peut être constitué.
+Les conditions et les modalités de délivrance, de maintien et de retrait de l'agrément des centres de rassemblement destinés aux échanges au sein de l'Union européenne sont définies d'une part par les dispositions fixées par l'arrêté du 16 décembre 2011 relatif aux conditions d'agrément des centres de rassemblement et d'enregistrement des opérateurs commerciaux ainsi que par les conditions prévues par l'annexe III du même arrêté.
 
-Cette demande doit comporter les éléments d'information suivants :
-
-1° S'il s'agit d'une personne physique, les nom, prénoms et domicile et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que les nom, qualité et domicile du responsable du centre ;
-
-2° La nature des activités envisagées ;
-
-3° L'adresse des locaux où peuvent être inspectés les animaux et la capacité de ces locaux ;
-
-4° Le nom du vétérinaire sanitaire désigné par le responsable du centre ;
-
-5° Les procédures internes de contrôle.
+Le centre bénéficiaire est soumis à des contrôles vétérinaires réguliers par un vétérinaire officiel.

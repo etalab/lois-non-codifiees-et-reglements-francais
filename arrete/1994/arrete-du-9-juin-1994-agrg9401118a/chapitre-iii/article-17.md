@@ -1,6 +1,6 @@
 # Article 17
 
-Si les conditions d'équipement et de fonctionnement sont jugées conformes aux conditions fixées en annexe V, l'agrément est accordé par le préfet, sur proposition du directeur des services vétérinaires.
+Si les conditions d'équipement et de fonctionnement sont jugées conformes aux conditions fixées en annexe V, l'agrément est accordé par le préfet, sur proposition du   directeur chargé de la protection des populations.
 
 Il donne lieu à la délivrance d'un numéro d'agrément.
 

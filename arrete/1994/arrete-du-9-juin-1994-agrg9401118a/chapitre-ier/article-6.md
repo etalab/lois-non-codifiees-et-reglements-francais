@@ -1,6 +1,6 @@
 # Article 6
 
-1. Dans le cas particulier des mouvements des animaux, semences et embryons en provenance de pays tiers, les marchandises doivent être accompagnées du certificat de passage frontalier délivré par le vétérinaire officiel du poste d'inspection frontalier par lequel ils ont été introduits dans la Communauté, ainsi que de la copie du certificat sanitaire établi par l'autorité compétente du pays tiers d'origine. Cette copie doit avoir été authentifiée par le vétérinaire officiel du poste d'inspection frontalier.
+1. Dans le cas particulier des mouvements des animaux, semences et embryons en provenance de pays tiers, les marchandises doivent être accompagnées du certificat de passage frontalier délivré par le vétérinaire officiel du service d'inspection vétérinaire et phytosanitaire aux frontières par lequel ils ont été introduits dans la Communauté, ainsi que de la copie du certificat sanitaire établi par l'autorité compétente du pays tiers d'origine. Cette copie doit avoir été authentifiée par le vétérinaire officiel du service d'inspection vétérinaire et phytosanitaire aux frontières.
 
 2. Dans le cas particulier du mouvement des animaux, semences et embryons exportés vers un pays tiers, ceux-ci doivent être accompagnés du certificat sanitaire répondant aux exigences de l'autorité compétente du pays tiers destinataire.
 

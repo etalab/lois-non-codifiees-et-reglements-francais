@@ -1,4 +1,4 @@
-# Chapitre II : Dispositions applicables aux opérateurs.
+# Chapitre II : Dispositions applicables aux opérateurs effectuant ou participant à des échanges d'animaux vivants
 
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
