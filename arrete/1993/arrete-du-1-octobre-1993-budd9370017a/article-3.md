@@ -4,7 +4,7 @@ Sont autorisées en entrepôt fiscal de stockage d'huiles minérales, dans les c
 
 a) Les mélanges de produits visés au a de l'article 1er du décret du 13 septembre 1993 susvisé qui relèvent de catégories fiscales différentes dans la comptabilité de l'entrepôt ainsi que leur additivation, par incorporation de colorants et de l'agent traceur chimique à des fins fiscales de dénaturation des produits ;
 
-b) L'incorporation d'ester méthylique d'huile végétale et de dérivés d'alcool éthylique dans des produits visés au a de l'article 1er du décret précité ;
+b) (supprimé)
 
 c) L'incorporation d'eau et d'un additif de stabilisation d'émulsion dans des produits visés au a de l'article 1er du décret précité ;
 
