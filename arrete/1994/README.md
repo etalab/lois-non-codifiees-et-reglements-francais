@@ -367,7 +367,6 @@
 - [Arrêté du 11 mai 1994 (BUDR9405015A)](arrete-du-11-mai-1994-budr9405015a)
 - [Arrêté du 11 mai 1994 (EQUA9400891A)](arrete-du-11-mai-1994-equa9400891a)
 - [Arrêté du 11 mai 1994 (INDP9400570A)](arrete-du-11-mai-1994-indp9400570a)
-- [Arrêté du 11 mai 1994 (INTA9420114A)](arrete-du-11-mai-1994-inta9420114a)
 - [Arrêté du 11 mai 1994 (SANH9401467A)](arrete-du-11-mai-1994-sanh9401467a)
 - [Arrêté du 12 août 1986](arrete-du-12-aout-1986)
 - [Arrêté du 12 août 1994 (AGRG9401623A)](arrete-du-12-aout-1994-agrg9401623a)
