@@ -4,6 +4,8 @@ En cas d'interruption de travail, l'assuré envoie à la caisse de sécurité so
 
 En cas de prolongation de l'arrêt de travail initial, la même formalité doit, sous peine des mêmes sanctions, être observée dans les deux jours suivant la prescription de prolongation.
 
+Les dispositions de l'article R. 323-11-1 du code de la sécurité sociale sont applicables aux arrêts de travail mentionnés aux deux alinéas précédents.
+
 La caisse prévoit dans son règlement intérieur les modalités selon lesquelles les lettres mentionnées aux précédents alinéas lui sont envoyées ou remises et les sanctions à appliquer, le cas échéant.
 
 La caisse est fondée à refuser le bénéfice des indemnités journalières afférentes à la période pendant laquelle son contrôle aura été rendu impossible.
