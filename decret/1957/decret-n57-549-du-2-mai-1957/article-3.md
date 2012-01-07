@@ -1,3 +1,9 @@
 # Article 3
 
-L'ordre des Arts et des lettres comprend les trois grades suivants : commandeur, officier, chevalier.
+Le contingent pour les candidats de nationalité française, attribué aux différents grades, dans les conditions prévues à l'article 6, est fixé annuellement à :
+
+- cinquante commandeurs ;
+
+- cent quarante officiers ;
+
+- quatre cent cinquante chevaliers.

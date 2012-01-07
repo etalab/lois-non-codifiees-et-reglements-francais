@@ -1,9 +1,5 @@
 # Article 6
 
-Pour être nommé au grade de chevalier, il faut être âgé de trente ans au moins et jouir de ses droits civils.
+Les promotions ont lieu trois fois par an, l'une d'elles étant consacrée aux ressortissants étrangers. Les nominations et promotions sont prononcées, après avis du conseil de l'ordre, par arrêté du ministre chargé de la culture. Celles relevant de l'article 3 font l'objet d'une publication au Bulletin officiel des décorations, médailles et récompenses.
 
-Nul ne peut être promu au grade d'officier ou de commandeur s'il ne justifie d'une ancienneté de cinq ans dans le grade immédiatement inférieur.
-
-Toutefois, sur avis favorable du conseil de l'ordre, il pourra être dérogé aux conditions d'âge et d'ancienneté prévues ci-dessus si les candidats justifient de titres exceptionnels.
-
-Les commandeurs et les officiers de la Légion d'honneur pourront être promus directement au grade correspondant de l'ordre des Arts et des lettres sans avoir à justifier de l'ancienneté requise dans les grades inférieurs.
+Entre chacune des promotions, il peut être accordé à titre exceptionnel des nominations ou des promotions à l'occasion de cérémonies ou de manifestations présidées par un membre du Gouvernement ou son représentant.
