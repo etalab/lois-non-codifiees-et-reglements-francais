@@ -124,6 +124,37 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Approbation, suspension et retrait d'approbation des systèmes individuels chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement </p>
+<p align="left">Arrêté conjoint des ministres chargés de l'environnement et de l'industrie </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article R. 543-233</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Agrément, suspension et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article R. 543-234</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Agrément, suspension et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. <br/>
+<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article R. 543-235<br/>
+</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="76"/>
 <td width="378">
 <p>Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'objet d'une première mise sur le marché. Arrêté du ministre chargé de l'environnement et, le cas échéant, du ministre ou des ministres compétents. </p>

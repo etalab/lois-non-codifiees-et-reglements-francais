@@ -154,7 +154,41 @@ Décret n° 93-571 du 27 mars 1993
 <p>Décisions d'approbation ou de refus d'approbation de la convention constitutive des groupements d'intérêt public de coopération interrégionale et transfrontalière (décision prise conjointement avec le ministre chargé du budget). </p>
 </td>
 <td valign="top" width="151">
-<p>3e alinéa de l'article 2.</p>
+<p>3e alinéa de l'article 2. </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement.
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="76">
+<p align="center">1 </p>
+</td>
+<td valign="top" width="378">Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. <br/>
+<p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+</td>
+<td valign="top" width="151">
+<p>Article R. 543-234 du code de l'environnement </p>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agrément et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. </p>
+<p align="left">Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article R. 543-235 du code de l'environnement </p>
+<br/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -169,10 +203,10 @@ Code de la santé publique
 <p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique.</p>
+<p>Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique. </p>
 </td>
 <td valign="top" width="151">
-<p> Article R. 1335-8-8</p>
+<p>Article R. 1335-8-8 </p>
 </td>
 </tr>
 </tbody>
@@ -1086,7 +1120,7 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <p align="center">3 </p>
 </td>
 <td valign="top" width="378">
-<p>Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire du Trésor ou le ministre des affaires étrangères représentait l'Etat en défense. </p>
+<p>Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire du Trésor ou le ministre des affaires étrangères représentait l'Etat en défense.</p>
 </td>
 <td valign="top" width="151"/>
 </tr>
