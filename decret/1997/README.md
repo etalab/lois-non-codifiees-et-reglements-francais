@@ -696,7 +696,6 @@
 - [Décret n°97-614 du 28 mai 1997 (TASH9720730D)](decret-n97-614-du-28-mai-1997-tash9720730d)
 - [Décret n°97-661 du 28 mai 1997 (BUDF9700021D)](decret-n97-661-du-28-mai-1997-budf9700021d)
 - [Décret n°97-662 du 28 mai 1997 (BUDF9700022D)](decret-n97-662-du-28-mai-1997-budf9700022d)
-- [Décret n°75-939 du 29 septembre 1975 (MCCA9700266D)](decret-n75-939-du-29-septembre-1975-mcca9700266d)
 - [Décret n°97-1013 du 29 octobre 1997 (MAEJ9730106D)](decret-n97-1013-du-29-octobre-1997-maej9730106d)
 - [Décret n°97-1014 du 29 octobre 1997 (MAEJ9730099D)](decret-n97-1014-du-29-octobre-1997-maej9730099d)
 - [Décret n°97-1240 du 29 décembre 1997 (MESF9711669D)](decret-n97-1240-du-29-decembre-1997-mesf9711669d)
