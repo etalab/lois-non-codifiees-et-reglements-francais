@@ -3080,7 +3080,6 @@
 - [Arrêté du 30 mars 2010 (SASH1008878A)](arrete-du-30-mars-2010-sash1008878a)
 - [Arrêté du 30 novembre 2009 (SASH0928708A)](arrete-du-30-novembre-2009-sash0928708a)
 - [Arrêté du 30 novembre 2009 (SASH0928715A)](arrete-du-30-novembre-2009-sash0928715a)
-- [Arrêté du 30 novembre 2010 (AGRT1027372A)](arrete-du-30-novembre-2010-agrt1027372a)
 - [Arrêté du 30 novembre 2010 (BCRD1029842A)](arrete-du-30-novembre-2010-bcrd1029842a)
 - [Arrêté du 30 novembre 2010 (DEVT1025027A)](arrete-du-30-novembre-2010-devt1025027a)
 - [Arrêté du 30 novembre 2010 (DEVT1029841A)](arrete-du-30-novembre-2010-devt1029841a)
