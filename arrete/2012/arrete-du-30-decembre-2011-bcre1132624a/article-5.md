@@ -1,0 +1,7 @@
+# Article 5
+
+Les dépenses des ordonnateurs secondaires du ministère du budget, des comptes publics et de la réforme de l'Etat, du ministère de l'économie, des finances et de l'industrie, des services du Premier ministre, du ministère du travail, de l'emploi et de la santé, du ministère de la culture et de la communication, du ministère des solidarités et de la cohésion sociale, du ministère de la ville, du ministère des sports et du ministère de l'éducation nationale, de la jeunesse et de la vie associative relatives au programme « Jeunesse et vie associative » sont assignées sur les comptables principaux du Trésor des départements désignés à l'annexe E.
+
+Les ordres de recettes des ordonnateurs secondaires du ministère du budget, des comptes publics et de la réforme de l'Etat, du ministère de l'économie, des finances et de l'industrie, des services du Premier ministre, du ministère du travail, de l'emploi et de la santé, du ministère de la culture et de la communication, du ministère des solidarités et de la cohésion sociale, du ministère de la ville, du ministère des sports et du ministère de l'éducation nationale, de la jeunesse et de la vie associative relatifs au programme « Jeunesse et vie associative » sont pris en charge par les comptables principaux du Trésor des départements désignés à l'annexe E.
+
+Les dépenses sans ordonnancement avant règlement liquidées à l'initiative d'un comptable principal du Trésor sont assignées sur les comptables principaux du Trésor des départements et collectivités désignés à l'annexe F.

@@ -8,4 +8,5 @@
 - [Chapitre V : Du contrôle médical.](chapitre-v)
 - [Chapitre VI : De l'interruption volontaire de grossesse.](chapitre-vi)
 - [Chapitre VII : Des frais de soins à l'étranger.](chapitre-vii)
+- [Chapitre VIII :  Des recours contre tiers](chapitre-viii)
 - [Article 49](article-49.md)
