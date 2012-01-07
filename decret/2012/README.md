@@ -21,7 +21,6 @@
 - [Décret n°2004-966 du 8 septembre 2004 (EQUP0301571D)](decret-n2004-966-du-8-septembre-2004-equp0301571d)
 - [Décret n°2011-1832 du 8 décembre 2011 (PRMX1126861D)](decret-n2011-1832-du-8-decembre-2011-prmx1126861d)
 - [Décret n°70-413 du 8 mai 1970](decret-n70-413-du-8-mai-1970)
-- [Décret n°2011-1844 du 9 décembre 2011 (DEVP1131615D)](decret-n2011-1844-du-9-decembre-2011-devp1131615d)
 - [Décret n°2001-414 du 9 mai 2001 (EQUP0100218D)](decret-n2001-414-du-9-mai-2001-equp0100218d)
 - [Décret n°2011-1268 du 10 octobre 2011 (ETSP1100830D)](decret-n2011-1268-du-10-octobre-2011-etsp1100830d)
 - [Décret n°2011-1500 du 10 novembre 2011 (ETSS1125859D)](decret-n2011-1500-du-10-novembre-2011-etss1125859d)

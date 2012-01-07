@@ -1,3 +1,0 @@
-# Article 1
-
-Les seuils au-dessus desquels le I de l'article 19 de la loi du 13 juin 2006 susvisée s'applique à un transport de substances radioactives sont ceux au-dessus desquels, en application des conventions et règlements internationaux régissant le transport des marchandises dangereuses, du code des transports et des textes pris pour leur application, ce transport est soumis à la délivrance, par l'Autorité de sûreté nucléaire ou par une autorité étrangère compétente dans le domaine du transport de substances radioactives, d'un agrément du modèle de colis de transport ou d'une approbation d'expédition, y compris sous arrangement spécial.
