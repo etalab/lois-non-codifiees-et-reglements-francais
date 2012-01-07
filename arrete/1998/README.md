@@ -465,7 +465,6 @@
 - [Arrêté du 16 novembre 1998 (MAEA9820469A)](arrete-du-16-novembre-1998-maea9820469a)
 - [Arrêté du 16 octobre 1998 (ECOD9870030A)](arrete-du-16-octobre-1998-ecod9870030a)
 - [Arrêté du 16 octobre 1998 (ECOT9851743A)](arrete-du-16-octobre-1998-ecot9851743a)
-- [Arrêté du 16 septembre 1998 (ATEG9870332A)](arrete-du-16-septembre-1998-ateg9870332a)
 - [Arrêté du 16 septembre 1998 (DEFP9801899A)](arrete-du-16-septembre-1998-defp9801899a)
 - [Arrêté du 16 septembre 1998 (EQUP9800864A)](arrete-du-16-septembre-1998-equp9800864a)
 - [Arrêté du 16 septembre 1998 (EQUP9800865A)](arrete-du-16-septembre-1998-equp9800865a)
