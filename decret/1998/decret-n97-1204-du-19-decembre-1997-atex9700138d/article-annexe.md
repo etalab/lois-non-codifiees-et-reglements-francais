@@ -136,8 +136,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Agrément, suspension et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. <br/>
-<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+<p align="left">Agrément, suspension et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. </p>
+<p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Article R. 543-234</p>
@@ -146,8 +146,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Agrément, suspension et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. <br/>
-<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+<p align="left">Agrément, suspension et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. </p>
+<p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Article R. 543-235<br/>
@@ -201,6 +201,11 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <td align="left" valign="top">
 <p>Article R. 521-60 </p>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Approbation et retrait d'approbation des systèmes individuels, agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. </td>
+<td>Articles R. 543-251, R. 543-252 et R. 543-253. </td>
 </tr>
 </tbody>
 </table>
@@ -529,6 +534,15 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent des opérations conduites sur le territoire de plus de dix départements, à des fins de recherche et d'éducation, par des personnes morales placées sous la tutelle ou le contrôle de l'Etat.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Article R. 411-7</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="76">
 <p align="center">Livre V </p>
 </td>
@@ -773,13 +787,11 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tbody>
 </table>
 
-I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
-
 TITRE II
 
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
 
-PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
+I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
 
 <table>
 <tbody>
