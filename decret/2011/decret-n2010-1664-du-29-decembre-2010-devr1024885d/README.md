@@ -1,9 +1,13 @@
 # Décret n° 2010-1664 du 29 décembre 2010 relatif aux certificats d'économies d'énergie
 
 - [Article 1](article-1.md)
+- [Chapitre Ier : Délivrance des certificats d'économies d'énergie](chapitre-ier)
 - [Article 2](article-2.md)
+- [Chapitre II : Contrôles relatifs à la délivrance de certificats d'économies d'énergie](chapitre-ii)
 - [Article 3](article-3.md)
+- [Chapitre III : Sanctions applicables en cas de manquements liés à la délivrance de certificats d'économies d'énergie](chapitre-iii)
 - [Article 4](article-4.md)
+- [Chapitre IV : Dispositions diverses](chapitre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
