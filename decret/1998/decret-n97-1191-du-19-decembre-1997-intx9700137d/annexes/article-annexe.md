@@ -168,13 +168,10 @@ Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion
 <td valign="top" width="76">
 <p align="center">1 </p>
 </td>
-<td valign="top" width="378">Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. <br/>
-<p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+<td valign="top" width="378">Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td valign="top" width="151">
 <p>Article R. 543-234 du code de l'environnement </p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -187,8 +184,6 @@ Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion
 </td>
 <td align="left" valign="top">
 <p align="left">Article R. 543-235 du code de l'environnement </p>
-<br/>
-<br/>
 </td>
 </tr>
 </tbody>
@@ -203,11 +198,23 @@ Code de la santé publique
 <p align="center">1 </p>
 </td>
 <td valign="top" width="378">
-<p>Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique. </p>
+<p>Agrément et retrait d'agrément des écoorganismes et des systèmes  individuels chargés de la gestion des déchets d'activités de soins à  risques infectieux perforants produits par les patients en  autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des  ministres chargés de l'environnement, des collectivités territoriales et  de la santé : article R. 1335-8-8 du code de la santé publique. </p>
 </td>
 <td valign="top" width="151">
 <p>Article R. 1335-8-8 </p>
 </td>
+</tr>
+</tbody>
+</table>
+
+Code de l'environnement
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="76"/>
+<td valign="top" width="378">Agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de l'industrie : articles R. 543-252 et R. 543-253 du code de l'environnement. </td>
+<td valign="top" width="151">articles R. 543-252 et R. 543-253 du code de l'environnement.</td>
 </tr>
 </tbody>
 </table>
