@@ -110,6 +110,10 @@ Cayenne - Macapá (Brésil) ;
 
 Fort-de-France - Macapá (Brésil) ;
 
-Pointe-à-Pitre - Macapá (Brésil).
+Pointe-à-Pitre - Macapá (Brésil) ;
+
+Jusqu'au 31 décembre 2016 :
+
+Saint-Barthélemy - Pointe-à-Pitre.
 
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.

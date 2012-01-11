@@ -32,4 +32,12 @@ Jusqu'au 15 août 2016 :
 
 Fort-de-France - Sainte-Lucie ;
 
-Pointe-à-Pitre - Sainte-Lucie.
+Pointe-à-Pitre - Sainte-Lucie ;
+
+Jusqu'au 31 décembre 2016 :
+
+Fort-de-France - Saint-Barthélemy ;
+
+Pointe-à-Pitre - Saint-Barthélemy ;
+
+Saint-Martin - Saint-Barthélemy.
