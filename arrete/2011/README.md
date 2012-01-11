@@ -2622,7 +2622,6 @@
 - [Arrêté du 28 avril 2011 (BCRS1106194A)](arrete-du-28-avril-2011-bcrs1106194a)
 - [Arrêté du 28 avril 2011 (DEFD1109301A)](arrete-du-28-avril-2011-defd1109301a)
 - [Arrêté du 28 avril 2011 (DEVA1111112A)](arrete-du-28-avril-2011-deva1111112a)
-- [Arrêté du 28 avril 2011 (DEVA1112118A)](arrete-du-28-avril-2011-deva1112118a)
 - [Arrêté du 28 avril 2011 (DEVK1014569A)](arrete-du-28-avril-2011-devk1014569a)
 - [Arrêté du 28 avril 2011 (INDR1111486A)](arrete-du-28-avril-2011-indr1111486a)
 - [Arrêté du 28 avril 2011 (INDR1111568A)](arrete-du-28-avril-2011-indr1111568a)
