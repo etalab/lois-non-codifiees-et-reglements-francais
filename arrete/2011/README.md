@@ -875,7 +875,6 @@
 - [Arrêté du 10 mai 2011 (BCRD1113762A)](arrete-du-10-mai-2011-bcrd1113762a)
 - [Arrêté du 10 mai 2011 (DEFH1109631A)](arrete-du-10-mai-2011-defh1109631a)
 - [Arrêté du 10 mai 2011 (DEVK1111414A)](arrete-du-10-mai-2011-devk1111414a)
-- [Arrêté du 10 mai 2011 (DEVL1112011A)](arrete-du-10-mai-2011-devl1112011a)
 - [Arrêté du 10 mai 2011 (ETSH1108726A)](arrete-du-10-mai-2011-etsh1108726a)
 - [Arrêté du 10 mai 2011 (ETSH1112867A)](arrete-du-10-mai-2011-etsh1112867a)
 - [Arrêté du 10 mai 2011 (JUST1112863A)](arrete-du-10-mai-2011-just1112863a)
