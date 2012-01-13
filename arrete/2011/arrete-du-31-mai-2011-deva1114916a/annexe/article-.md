@@ -153,3 +153,7 @@ Marseille―Alger (Algérie).
 Jusqu'au 31 mai 2016
 
 Paris―Tunis (Tunisie).
+
+Jusqu'au 20 novembre 2016 :
+
+Paris - Kayes (Mali).
