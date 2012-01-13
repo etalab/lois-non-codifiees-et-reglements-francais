@@ -16,6 +16,8 @@ I.-1° Les administrateurs, officiers et inspecteurs des affaires maritimes ;
 
 7° Les agents de la concurrence, de la consommation et de la répression des fraudes ;
 
+8° Les militaires de la gendarmerie nationale ;
+
 II.-Les gardes jurés et les prud'hommes pêcheurs ;
 
 III.-1° Dans la limite des missions dévolues à l'établissement dont ils relèvent, les agents de l'Office national de l'eau et des milieux aquatiques et de l'Office national de la chasse et de la faune sauvage ;
