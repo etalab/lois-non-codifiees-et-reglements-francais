@@ -2758,7 +2758,6 @@
 - [Arrêté du 28 décembre 2009 (SASS0931812A)](arrete-du-28-decembre-2009-sass0931812a)
 - [Arrêté du 28 décembre 2009 (SASS0931817A)](arrete-du-28-decembre-2009-sass0931817a)
 - [Arrêté du 28 décembre 2010 (BCRE1028034A)](arrete-du-28-decembre-2010-bcre1028034a)
-- [Arrêté du 28 décembre 2010 (PRMG1033311A)](arrete-du-28-decembre-2010-prmg1033311a)
 - [Arrêté du 28 février 2010 (MENC1007486A)](arrete-du-28-fevrier-2010-menc1007486a)
 - [Arrêté du 28 janvier 2010 (IOCA1002922A)](arrete-du-28-janvier-2010-ioca1002922a)
 - [Arrêté du 28 janvier 2010 (MENE1002763A)](arrete-du-28-janvier-2010-mene1002763a)
