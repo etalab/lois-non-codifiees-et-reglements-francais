@@ -1,6 +1,6 @@
 # Article 1
 
-Les fonctions       qui ne sont pas principalement d'enseignement et de recherche prévues aux articles 40 et 56 du décret du 6 juin 1984 susvisé sont les suivantes :
+Les fonctions qui ne sont pas principalement d'enseignement et de recherche prévues aux articles 40 et 56 du décret du 6 juin 1984 susvisé sont les suivantes :
 
 -président ou directeur d'établissement public d'enseignement supérieur ;
 
@@ -24,6 +24,10 @@ Les fonctions       qui ne sont pas principalement d'enseignement et de recherch
 
 -délégué régional à la recherche et à la technologie ;
 
--directeur de groupement d'intérêt public régi par le décret n° 83-204 du 15 mars 1983 modifié relatif aux groupements d'intérêt public définis dans l'article 21 de la loi d'orientation et de programmation pour la recherche et le développement technologique de la France ou par le décret n° 85-605 du 13 juin 1985 modifié relatif aux groupements d'intérêt public constitués en application de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur ;
+- directeur de groupement d'intérêt public ;
 
-- Président de pôle de recherche et d'enseignement supérieur.
+- président, directeur ou délégué général de pôle de recherche et d'enseignement supérieur ;
+
+- directeur d'un établissement public autre que d'enseignement supérieur ;
+
+- autres fonctions qui ne sont pas principalement d'enseignement et de recherche, exercées en position d'activité ou de détachement auprès de services de l'Etat, d'autorités administratives indépendantes, d'autres administrations françaises et étrangères ou d'organisations européennes ou internationales.
