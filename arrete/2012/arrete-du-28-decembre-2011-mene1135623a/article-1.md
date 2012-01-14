@@ -1,0 +1,3 @@
+# Article 1
+
+Le Conseil national pour l'enseignement de la santé et de la sécurité au travail est un organe d'expertise et de proposition auprès de la commission des accidents du travail et des maladies professionnelles de la Caisse nationale de l'assurance maladie des travailleurs salariés conformément au premier alinéa de l'article L. 221-4 du code de la sécurité sociale et des directions concernées des ministères chargés de l'éducation nationale et de l'enseignement supérieur et de la recherche. Il remplace le Conseil national pour l'enseignement de la prévention des risques professionnels.

@@ -1,0 +1,3 @@
+# Article 6
+
+Les arrêtés du 12 janvier 1962 relatif au régime indemnitaire et aux frais de déplacement des membres du comité d'administration et du personnel du centre d'études supérieures de sécurité sociale et du 13 janvier 1964 relatif à l'application au centre d'études supérieures de sécurité sociale du décret n° 56-585 du 12 juin 1956modifié portant fixation du système général de rétribution des agents de l'Etat ou des personnes non fonctionnaires assurant, à titre d'occupation accessoire, soit une tâche d'enseignement, soit le fonctionnement de jurys d'examens et de concours sont abrogés.
