@@ -1,5 +1,9 @@
 # Article 1
 
-La liste des langues proposées aux épreuves obligatoires dans toutes les spécialités de baccalauréat professionnel est la suivante :
+La liste des langues proposées aux épreuves obligatoires de langue vivante 1 dans toutes les spécialités de baccalauréat professionnel est la suivante :
 
-Allemand, anglais, arabe littéral, arménien, cambodgien, chinois, danois, espagnol, finnois, grec moderne, hébreu moderne, italien, japonais, néerlandais, norvégien, persan, polonais, portugais, russe, suédois, turc, vietnamien.
+Allemand, anglais, arabe littéraire, arménien, cambodgien, chinois, danois, espagnol, finnois, grec, hébreu, italien, japonais, néerlandais, norvégien, persan, polonais, portugais, russe, suédois, turc, vietnamien.
+
+La liste des langues proposées aux épreuves obligatoires de langue vivante 2 dans toutes les spécialités de baccalauréat professionnel est la suivante :
+
+Allemand, anglais, arabe littéraire, arménien, cambodgien, chinois, danois, espagnol, finnois, grec, hébreu, italien, japonais, néerlandais, norvégien, persan, polonais, portugais, russe, suédois, turc, vietnamien, basque, breton, catalan, corse, créole (guadeloupéen, guyanais, martiniquais, réunionnais), langues mélanésiennes, langue d'oc (auvergnat, gascon, languedocien, limousin, nissart, provençal, vivaro-alpin), tahitien.
