@@ -296,7 +296,6 @@
 - [Arrêté du 10 novembre 1998 (AGRA9802289A)](arrete-du-10-novembre-1998-agra9802289a)
 - [Arrêté du 10 novembre 1998 (DEFP9802108A)](arrete-du-10-novembre-1998-defp9802108a)
 - [Arrêté du 10 novembre 1998 (ECOT9820010A)](arrete-du-10-novembre-1998-ecot9820010a)
-- [Arrêté du 10 novembre 1998 (MESS9823534A)](arrete-du-10-novembre-1998-mess9823534a)
 - [Arrêté du 10 octobre 1997 (JUSB9710398A)](arrete-du-10-octobre-1997-jusb9710398a)
 - [Arrêté du 10 septembre 1998 (AGRG9801796A)](arrete-du-10-septembre-1998-agrg9801796a)
 - [Arrêté du 10 septembre 1998 (AGRG9801797A)](arrete-du-10-septembre-1998-agrg9801797a)
