@@ -1,6 +1,6 @@
 # Article 24
 
-En cas de piégeage d'au moins 30 spécimens de l'organisme dans un même piège de façon cumulative au cours de la campagne, un périmètre de 1 km autour du lieu de capture est délimité et fait l'objet des mesures de lutte renforcées suivantes :
+En cas de piégeage d'au moins 30 spécimens de l'organisme dans un même piège de façon cumulative au cours de la campagne, un périmètre de 1 km de rayon autour du lieu de capture est délimité. Les parcelles incluses dans ce périmètre font l'objet des mesures de lutte renforcées suivantes :
 
 a) Obligation d'effectuer une lutte à l'aide d'insecticides contre les larves conformément aux dispositions de l'annexe du présent arrêté sur les parcelles faisant l'objet d'une culture de maïs pour au moins la deuxième année consécutive ;
 
