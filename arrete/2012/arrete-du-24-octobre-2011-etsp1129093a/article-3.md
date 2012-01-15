@@ -1,0 +1,5 @@
+# Article 3
+
+La personne autorisée à utiliser une installation de médecine nucléaire en application de l'article R. 1333-17 du code de la santé publique relève, régulièrement et au moins une fois par an, les activités réellement administrées au moins pour deux examens qu'elle pratique couramment. Chez l'adulte l'évaluation inclut au moins 30 patients sans considération de poids ni de taille. En pédiatrie, l'évaluation inclut au moins 30 patients de poids inférieur ou égal à 40 kilogrammes. Si la pratique clinique habituelle le permet, les deux examens, choisis parmi ceux listés à l'annexe 2 du présent arrêté, ne doivent pas être les mêmes pour deux années consécutives. Les activités administrées, les médicaments radiopharmaceutiques utilisés et les caractéristiques morphologiques (poids et taille) sont enregistrés.
+
+La valeur moyenne de cette évaluation est comparée aux niveaux de référence correspondants définis dans l'annexe 2. Lorsque cette valeur moyenne dépasse, sans justification technique ou médicale, le niveau de référence de l'examen considéré, des actions correctives sont mises en œuvre pour réduire les expositions.
