@@ -2404,7 +2404,6 @@
 - [Arrêté du 26 mai 2009 (ECED0912127A)](arrete-du-26-mai-2009-eced0912127a)
 - [Arrêté du 26 mai 2009 (ECED0912130A)](arrete-du-26-mai-2009-eced0912130a)
 - [Arrêté du 26 mai 2009 (ECED0912364A)](arrete-du-26-mai-2009-eced0912364a)
-- [Arrêté du 26 mai 2009 (JUSA0911823A)](arrete-du-26-mai-2009-jusa0911823a)
 - [Arrêté du 26 mai 2009 (JUSA0911824A)](arrete-du-26-mai-2009-jusa0911824a)
 - [Arrêté du 26 mai 2009 (MTSS0911937A)](arrete-du-26-mai-2009-mtss0911937a)
 - [Arrêté du 26 mai 2009 (MTSS0911963A)](arrete-du-26-mai-2009-mtss0911963a)
