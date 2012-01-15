@@ -14,6 +14,7 @@
 - [Arrêté du 2 août 2006 (SOCA0623232A)](arrete-du-2-aout-2006-soca0623232a)
 - [Arrêté du 2 octobre 2006 (METF0611971A)](arrete-du-2-octobre-2006-metf0611971a)
 - [Arrêté du 2 octobre 2006 (SOCF0611981A)](arrete-du-2-octobre-2006-socf0611981a)
+- [Arrêté du 2 mai 2006 (MJSK0670108A)](arrete-du-2-mai-2006-mjsk0670108a)
 - [Arrêté du 3 février 2006 (SANP0620600A)](arrete-du-3-fevrier-2006-sanp0620600a)
 - [Arrêté du 3 janvier 2005 (ECOM0420017A)](arrete-du-3-janvier-2005-ecom0420017a)
 - [Arrêté du 3 janvier 2006 (ECOP0500966A)](arrete-du-3-janvier-2006-ecop0500966a)

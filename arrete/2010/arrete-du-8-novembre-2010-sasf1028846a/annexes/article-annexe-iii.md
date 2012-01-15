@@ -2,17 +2,17 @@
 
 Exigences préalables à l'entrée en formation
 
-Les exigences préalables ont pour but de vérifier les capacités du candidat à suivre le cursus de formation et lui permettre d'accéder à la spécialité  activités aquatiques et de la natation  du brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+Les exigences préalables ont pour but de vérifier les capacités du candidat à suivre le cursus de formation et lui permettre d'accéder à la spécialité activités aquatiques et de la natation du brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 L'organisation des tests liés aux exigences préalables à l'entrée en formation est proposée par l'organisme de formation dans le dossier d'habilitation et validée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
-L'attestation liée à la réussite aux tests de vérification des exigences préalables à l'entrée en formation de la spécialité  activités aquatiques et de la natation  du brevet professionnel de la jeunesse, de l'éducation populaire et du sport est délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+L'attestation liée à la réussite aux tests de vérification des exigences préalables à l'entrée en formation de la spécialité activités aquatiques et de la natation du brevet professionnel de la jeunesse, de l'éducation populaire et du sport est délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
-I- Définition des exigences préalables à l'entrée en formation du BP JEPS, spécialité  activités aquatiques et de la natation
+I- Définition des exigences préalables à l'entrée en formation du BP JEPS, spécialité activités aquatiques et de la natation
 
 Le candidat :
 
-- doit être titulaire de l'unité d'enseignement  premiers secours en équipe de niveau 1  (PSE 1) ou son équivalent, à jour de la formation continue, avec production de l'attestation de formation continue ;
+- doit être titulaire de l'unité d'enseignement premiers secours en équipe de niveau 1 (PSE 1) ou son équivalent, à jour de la formation continue, avec production de l'attestation de formation continue ;
 
 - doit produire un certificat médical datant de moins de trois mois, établi conformément au modèle figurant dans la présente annexe.
 
@@ -44,7 +44,7 @@ Elle consiste en un parcours aquatique en continu de 100 mètres, en bassin de n
 
 - deux parcours de 25 mètres, comprenant chacun 15 mètres en immersion complète sur un trajet défini (matérialisé au fond et sur les bords), sans que le candidat ne prenne appui ;
 
-- plongée dite  en canard , suivie de la recherche d'un mannequin qui repose entre 2 mètres et 3,70 mètres de profondeur ; le candidat remonte le mannequin en surface, puis le remorque sur 25 mètres, visage hors de l'eau ;
+- plongée dite en canard , suivie de la recherche d'un mannequin qui repose entre 2 mètres et 3,70 mètres de profondeur ; le candidat remonte le mannequin en surface, puis le remorque sur 25 mètres, visage hors de l'eau ;
 
 - la position d'attente du mannequin au fond de l'eau est indifférente ; le mannequin doit être de modèle réglementaire, c'est-à-dire d'un poids de 1,5 kg à une profondeur d'un mètre ;
 
@@ -86,7 +86,7 @@ Elle consiste à porter secours à une personne en milieu aquatique en assurant 
 
 - le sauveteur sort la victime de l'eau sans utiliser les échelles ou tout autre moyen matériel ;
 
-- après avoir sécurisé la victime, le sauveteur effectue une vérification des fonctions vitales, puis il explique succinctement la démarche qu'il compte mettre en œuvre  pour assurer le secours à la victime.
+- après avoir sécurisé la victime, le sauveteur effectue une vérification des fonctions vitales, puis il explique succinctement la démarche qu'il compte mettre en œuvre pour assurer le secours à la victime.
 
 Le candidat effectue l'épreuve en short et tee-shirt. Le port de combinaison, de lunettes de piscine, de masque, de pince nez ou de tout autre matériel n'est pas autorisé.
 
@@ -100,55 +100,27 @@ Sont dispensées du test de performance sportive :
 
 L'attestation est délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ;
 
-- les personnes titulaires du  pass'sports de l'eau  et d'un  Pass' compétition  de l'Ecole de natation française (ENF).
+- les personnes titulaires du pass'sports de l'eau et d'un Pass' compétition de l'Ecole de natation française (ENF).
 
 Sont dispensées du test technique de sauvetage :
 
 - les personnes titulaires du brevet national de sécurité et de sauvetage aquatique (BNSSA) ou de son équivalent, à jour du recyclage ;
 
-- les personnes ayant satisfait aux épreuves du groupe A de l'examen final prévu à l'article 14 de l'arrêté du 20 septembre 1989 fixant les conditions d'obtention de la formation spécifique du brevet d'Etat d'éducateur sportif du premier degré, option  activités de la natation  dont le livret de formation est en cours de validité.
+- les personnes ayant satisfait aux épreuves du groupe A de l'examen final prévu à l'article 14 de l'arrêté du 20 septembre 1989 fixant les conditions d'obtention de la formation spécifique du brevet d'Etat d'éducateur sportif du premier degré, option activités de la natation dont le livret de formation est en cours de validité.
 
 Sont dispensées des deux tests permettant la vérification des exigences préalables à l'entrée en formation :
 
-- les personnes ayant satisfait aux épreuves de l'examen de préformation prévu à l'article 8 de l'arrêté du 20 septembre 1989 fixant les conditions d'obtention de la formation spécifique du brevet d'Etat d'éducateur sportif du premier degré, option  activités de la natation  dont le livret de formation est en cours de validité ;
+- les personnes ayant satisfait aux épreuves de l'examen de préformation prévu à l'article 8 de l'arrêté du 20 septembre 1989 fixant les conditions d'obtention de la formation spécifique du brevet d'Etat d'éducateur sportif du premier degré, option activités de la natation dont le livret de formation est en cours de validité ;
 
-- les personnes ayant validé le premier cycle prévu à l'article 4 de l'arrêté du 30 septembre 1985 relatif à la formation du brevet d'Etat d'éducateur sportif du premier degré, option  activités de la natation  dont le livret de formation est en cours de validité.
+- les personnes ayant validé le premier cycle prévu à l'article 4 de l'arrêté du 30 septembre 1985 relatif à la formation du brevet d'Etat d'éducateur sportif du premier degré, option activités de la natation dont le livret de formation est en cours de validité.
 
-Modèle de certificat médical de non contre-indication à l'exercice des activités pratiquées au cours de la formation et à l'accomplissement du ou des tests préalables à l'entrée en formation pour ceux qui y sont soumis
-
-Je soussigné(e), , docteur en médecine, atteste avoir pris connaissance du contenu des tests ainsi que des activités pratiquées au cours de la formation préparatoire au brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité  activités aquatiques  ci-dessous mentionnés, certifie avoir examiné, M./Mme , candidat(e) à ce brevet, et n'avoir constaté à la date de ce jour, aucune contre-indication médicale apparente :
-
-- à l'accomplissement du ou des tests préalables à l'entrée en formation (si il/elle y est soumis(e)
-
-- et à l'exercice de ces activités.
-
-J'atteste en particulier que M./Mme présente une faculté d'élocution et une acuité auditive normales ainsi qu'une acuité visuelle conforme aux exigences suivantes :
-
-Sans correction : une acuité visuelle de 4/10 en faisant la somme des acuités visuelles de chaque oeil mesurées séparément sans que celle-ci soit inférieure à 1/0 pour chaque oeil. Soit au moins : 3/10 + 1/10 ou 2/10 + 2/10.
-
-Cas particulier : dans le cas d'un oeil amblyope, le critère exigé est : 4/10 + inférieur à 1/10.
-
-Avec correction :
-
-- soit une correction amenant une acuité visuelle de 10/10 pour un oeil quelle que soit la valeur de l'autre oeil corrigé (supérieur à 1/10) ;
-
-- soit une correction amenant une acuité visuelle de 13/10 pour la somme des acuités visuelles de chaque oeil corrigé, avec un oeil corrigé au moins à 8/10.
-
-Cas particulier : dans le cas d'un oeil amblyope, le critère exigé est : 10/10 pour l'autre oeil corrigé.
-
-La vision nulle à un oeil constitue une contre-indication.
-
-Certificat remis en mains propres à l'intéressé pour servir et valoir ce que de droit
-
-Fait à le
-
-(Signature et cachet du médecin)
+Modèle de certificat médical : (non reproduit) les annexes au présent arrêté sont tenues à disposition du public sur le site internet relevant du ministre chargé des sports ( http :// www. sports. gouv. fr) ainsi qu'au Bulletin officiel de la jeunesse et des sports.
 
 INFORMATIONS AU MEDECIN :
 
 A - Activités pratiquées au cours de la formation :
 
-Le candidat au brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité  activités aquatiques  est amené à :
+Le candidat au brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités aquatiques est amené à :
 
 - encadrer et enseigner des activités aquatiques d'éveil, de découverte et d'apprentissage pluridisciplinaire des nages codifiées du programme de la Fédération internationale de natation pour tous publics ;
 
@@ -176,7 +148,7 @@ Il consiste en un parcours aquatique en continu de 100 mètres en bassin de nata
 
 - deux parcours de 25 mètres, comprenant chacun 15 mètres en immersion complète sur un trajet défini (matérialisé au fond et en surface) sans que le candidat ne prenne appui ;
 
-- une plongée dite  en canard , suivie de la recherche d'un mannequin reposant entre 2,50 mètres et 5 mètres de profondeur ; le candidat remonte le mannequin en surface (attendre le signal du jury), le lâche puis saisit un candidat simulant une victime, le remorque sur 25 mètres, voies aériennes dégagées, le sort de l'eau et lui prodigue les premiers secours.
+- une plongée dite en canard , suivie de la recherche d'un mannequin reposant entre 2,50 mètres et 5 mètres de profondeur ; le candidat remonte le mannequin en surface (attendre le signal du jury), le lâche puis saisit un candidat simulant une victime, le remorque sur 25 mètres, voies aériennes dégagées, le sort de l'eau et lui prodigue les premiers secours.
 
 Ce parcours doit être réalisé dans un temps maximum de 3 minutes 30 secondes, l'arrêt du chrono s'effectuant dès que la victime est totalement sortie de l'eau.
 

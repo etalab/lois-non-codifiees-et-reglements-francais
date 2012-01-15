@@ -1,13 +1,9 @@
 # Article 2
 
-Cette spécialité est délivrée au titre de mentions dont la liste est ainsi définie :
-
-- kick boxing ;
-
-- muay thai ;
+Cette spécialité est délivrée au titre de mentions suivantes :
 
 - boxe anglaise ;
 
-- boxe française, savate ;
+- savate, boxe française ;
 
-- full contact.
+- sports de contacts : full-contact, kick-boxing et muaythaï.
