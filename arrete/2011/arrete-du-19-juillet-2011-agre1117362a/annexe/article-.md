@@ -4,42 +4,61 @@ ANNEXE II b
 
 RÈGLEMENT D'EXAMEN
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th colspan="3">BACCALAURÉAT PROFESSIONNEL <br/>Conduite et gestion d'une entreprise <br/>du secteur canin et félin <br/>
-</th>
-<th colspan="2">CANDIDATS DE LA VOIE SCOLAIRE <br/>dans un établissement public ou privé sous contrat, <br/>CFA ou section d'apprentissage habilité, <br/>formation professionnelle continue <br/>dans un établissement public ou privé habilité <br/>
-</th>
-<th colspan="2">CANDIDATS DE LA VOIE <br/>de la formation professionnelle <br/>continue dans un établissement <br/>public habilité (D. 337-74) <br/>
-</th>
-<th colspan="2">CANDIDATS DE LA VOIE SCOLAIRE <br/>dans un établissement privé, CFA <br/>ou section d'apprentissage non habilité, <br/>formation professionnelle continue <br/>en établissement privé, enseignement à distance, <br/>candidats justifiant de trois ans <br/>d'expérience professionnelle <br/>
-</th>
+<td colspan="3">
+<p align="center">BACCALAURÉAT PROFESSIONNEL <br/>Conduite et gestion d'une entreprise <br/>du secteur canin et félin</p>
+</td>
+<td colspan="2">
+<p align="center">CANDIDATS DE LA VOIE SCOLAIRE <br/>dans un établissement public ou privé sous contrat, <br/>CFA ou section d'apprentissage habilité, <br/>formation professionnelle continue <br/>dans un établissement public ou privé habilité</p>
+</td>
+<td colspan="2">
+<p align="center">CANDIDATS</p>
+<p align="center"> de la voie <br/>de la formation professionnelle <br/>continue dans un établissement <br/>public habilité</p>
+<p align="center">(D. 337-74) <br/>
+</p>
+</td>
+<td colspan="2">
+<p align="center">CANDIDATS</p>
+<p align="center"> de la voie scolaire <br/>dans un établissement privé, CFA <br/>ou section d'apprentissage non habilité, <br/>formation professionnelle continue <br/>en établissement privé, enseignement à distance, <br/>candidats justifiant de trois ans <br/>d'expérience professionnelle <br/>
+</p>
+</td>
 </tr>
 <tr>
-<th>Epreuves <br/>
-</th>
-<th>Unité <br/>
-</th>
-<th>Coeff. <br/>
-</th>
-<th>Forme <br/>
-</th>
-<th>Durée <br/>
-</th>
-<th>Forme <br/>
-</th>
-<th>Durée <br/>
-</th>
-<th>Forme <br/>
-</th>
-<th>Durée <br/>
-</th>
+<td>
+<p align="center">Epreuves <br/>
+</p>
+</td>
+<td>
+<p align="center">Unité</p>
+</td>
+<td>
+<p align="center">Coeff.</p>
+</td>
+<td>
+<p align="center">Forme </p>
+</td>
+<td>
+<p align="center">Durée</p>
+</td>
+<td>
+<p align="center">Forme</p>
+</td>
+<td>
+<p align="center">Durée </p>
+</td>
+<td>
+<p align="center">Forme</p>
+</td>
+<td>
+<p align="center">Durée </p>
+</td>
 </tr>
 <tr>
-<td align="center">E1 (*) : Langue française, langages, éléments d'une culture humaniste et compréhension du monde <br/>
+<td align="center">
+<p align="left">E1 (*) : Langue française, langages, éléments d'une culture humaniste et compréhension du monde <br/>
+</p>
 </td>
 <td align="center">U 1 <br/>
 </td>
@@ -47,7 +66,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Terminale ponctuelle écrite en deux parties <br/>
 </td>
-<td align="center">2 × 2 h <br/>
+<td align="center">2x2h <br/>
 </td>
 <td align="center">CCF <br/>
 </td>
@@ -56,11 +75,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Ecrite en deux parties <br/>
 </td>
-<td align="center">2 × 2 h <br/>
+<td align="center">2×2h <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E2 : Langue et culture étrangères <br/>
+<td align="center">
+<p align="left">E2 : Langue et culture étrangères <br/>
+</p>
 </td>
 <td align="center">U 2 <br/>
 </td>
@@ -78,11 +99,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Orale <br/>
 </td>
-<td align="center">0 h 20 <br/>
+<td align="center">0h20 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E3 : Motricité, santé et socialisation par la pratique des APSAES (**) <br/>
+<td align="center">
+<p align="left">E3 : Motricité, santé et socialisation par la pratique des APSAES (**) <br/>
+</p>
 </td>
 <td align="center">U 3 <br/>
 </td>
@@ -105,7 +128,9 @@ RÈGLEMENT D'EXAMEN
 </td>
 </tr>
 <tr>
-<td align="center">E4 (*) : Culture scientifique et technologique <br/>
+<td align="center">
+<p align="left">E4 (*) : Culture scientifique et technologique <br/>
+</p>
 </td>
 <td align="center">U 4 <br/>
 </td>
@@ -113,7 +138,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Terminale ponctuelle écrite <br/>
 </td>
-<td align="center">2 h <br/>
+<td align="center">2h <br/>
 </td>
 <td align="center">CCF <br/>
 </td>
@@ -122,11 +147,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Ecrite en deux parties <br/>
 </td>
-<td align="center">2 × 2 h <br/>
+<td align="center">2×2h <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E5 : Choix techniques <br/>
+<td align="center">
+<p align="left">E5 : Choix techniques <br/>
+</p>
 </td>
 <td align="center">U 5 <br/>
 </td>
@@ -134,7 +161,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Terminale ponctuelle écrite <br/>
 </td>
-<td align="center">2 h 30 <br/>
+<td align="center">2h30 <br/>
 </td>
 <td align="center">CCF <br/>
 </td>
@@ -143,11 +170,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Ecrite <br/>
 </td>
-<td align="center">2 h 30 <br/>
+<td align="center">2h30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E6 : Pilotage de l'entreprise <br/>
+<td align="center">
+<p align="left">E6 : Pilotage de l'entreprise <br/>
+</p>
 </td>
 <td align="center">U 6 <br/>
 </td>
@@ -155,7 +184,7 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Terminale ponctuelle orale sur un écrit <br/>
 </td>
-<td align="center">0 h 30 <br/>
+<td align="center">0h30 <br/>
 </td>
 <td align="center">CCF <br/>
 </td>
@@ -164,11 +193,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 <td align="center">Orale s'appuyant sur un écrit <br/>
 </td>
-<td align="center">0 h 30 <br/>
+<td align="center">0h30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E7 : Pratiques professionnelles <br/>
+<td align="center">
+<p align="left">E7 : Pratiques professionnelles <br/>
+</p>
 </td>
 <td align="center">U 7 <br/>
 </td>
@@ -184,13 +215,14 @@ RÈGLEMENT D'EXAMEN
 <td align="center">
 <br/>
 </td>
-<td align="center">Orale <br/>
-</td>
-<td align="center">1 h 30 <br/>
+<td align="center">Pratique et orale </td>
+<td align="center">1h30 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">E8 : Epreuve facultative <br/>
+<td align="center">
+<p align="left">E8 : Epreuve facultative <br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -216,13 +248,13 @@ RÈGLEMENT D'EXAMEN
 </td>
 </tr>
 <tr>
-<td colspan="9">(*) Epreuve comportant des situations d'évaluation en cours de formation. <br/>(**) APSAES : activités physiques, sportives, artistiques et d'entretien de soi. <br/>
+<td colspan="9">
+<p align="left">(*) Epreuve comportant des situations d'évaluation en cours de formation. <br/>(**) APSAES : activités physiques, sportives, artistiques et d'entretien de soi. <br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 ANNEXE II c
 
