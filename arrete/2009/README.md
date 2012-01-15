@@ -391,7 +391,6 @@
 - [Arrêté du 6 octobre 2009 (JUSK0923384A)](arrete-du-6-octobre-2009-jusk0923384a)
 - [Arrêté du 6 octobre 2009 (MCCD0923246A)](arrete-du-6-octobre-2009-mccd0923246a)
 - [Arrêté du 6 octobre 2009 (PRMX0922924A)](arrete-du-6-octobre-2009-prmx0922924a)
-- [Arrêté du 6 octobre 2009 (SASV0923217A)](arrete-du-6-octobre-2009-sasv0923217a)
 - [Arrêté du 6 mai 2009 (AGRM0908943A)](arrete-du-6-mai-2009-agrm0908943a)
 - [Arrêté du 6 mai 2009 (BCFL0911807A)](arrete-du-6-mai-2009-bcfl0911807a)
 - [Arrêté du 6 mai 2009 (BCFL0911864A)](arrete-du-6-mai-2009-bcfl0911864a)
