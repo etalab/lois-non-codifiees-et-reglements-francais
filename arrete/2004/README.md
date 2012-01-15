@@ -275,7 +275,6 @@
 - [Arrêté du 11 mai 2004 (INTC0400379A)](arrete-du-11-mai-2004-intc0400379a)
 - [Arrêté du 12 août 2004 (MENS0401892A)](arrete-du-12-aout-2004-mens0401892a)
 - [Arrêté du 12 février 2004 (MENA0302843A)](arrete-du-12-fevrier-2004-mena0302843a)
-- [Arrêté du 12 février 2004 (SANY0420600A)](arrete-du-12-fevrier-2004-sany0420600a)
 - [Arrêté du 12 février 2004 (SOCA0420506A)](arrete-du-12-fevrier-2004-soca0420506a)
 - [Arrêté du 12 février 2004 (SOCF0410286A)](arrete-du-12-fevrier-2004-socf0410286a)
 - [Arrêté du 12 février 2004 (SOCF0410287A)](arrete-du-12-fevrier-2004-socf0410287a)
