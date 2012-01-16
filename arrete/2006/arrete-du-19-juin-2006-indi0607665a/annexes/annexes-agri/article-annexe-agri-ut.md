@@ -102,3 +102,216 @@ Sans objet.
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-UT-03
+
+Régulation d'un groupe de production de froid
+
+permettant d'avoir une basse pression flottante
+
+1. Secteur d'application :
+
+Agriculture.
+
+2. Dénomination :
+
+Mise  en place d'un système de régulation permettant de faire varier la basse  pression (BP) du cycle frigorifique en fonction de la température  réellement utile en sortie du groupe frigorifique.
+
+3. Conditions pour la délivrance de certificats :
+
+Attestation  à fournir du fournisseur pour l'installation d'une BP flottante  permettant la fluctuation de la pression d'évaporation en fonction de la  température utile en sortie du groupe frigorifique à fournir.
+
+L'attestation  mentionne l'écart de température choisi entre la température  d'évaporation initiale et la température en BP flottante (1 à 5 °C).
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>ÉCART ENTRE LA TEMPÉRATURE<br/>d'évaporation initiale et celle en  BP flottante (°C)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>α (h cumac/°C)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">P<sub>compresseur(s)</sub>
+<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">3<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">320<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+
+La  température d'évaporation en BP flottante est déterminée par  l'installateur en fonction des contraintes d'exploitation (température  réellement utile en sortie du groupe frigorifique, souvent supérieure à  la température de réglage initiale).
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-UT-04
+
+Régulation d'un groupe de production de froid
+
+permettant d'avoir une haute pression flottante
+
+1. Secteur d'application :
+
+Agriculture.
+
+2. Dénomination :
+
+Mise  en place d'un système de régulation permettant de faire varier la haute  pression (HP) du cycle frigorifique en fonction de la température  extérieure.
+
+3. Conditions pour la délivrance de certificats :
+
+Attestation  à fournir du fournisseur pour l'installation d'une HP flottante  permettant la fluctuation de la pression de condensation en fonction de  la température extérieure.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>A<br/>(h cumac/°C)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">11 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">P<sub>compresseur(s)</sub>
+<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">10 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">8 300<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél.

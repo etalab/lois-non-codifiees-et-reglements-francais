@@ -110,21 +110,23 @@ Certificats d'économies d'énergie
 
 Opération n° RES-CH-03
 
-Réhabilitation d'un poste de livraison de chaleur (bâtiment tertiaire)
+Réhabilitation d'un poste
+
+de livraison de chaleur (bâtiment tertiaire)
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à  une utilisation professionnelle, de surface totale inférieure à 5 000  m², et raccordés à un réseau de chauffage urbain.
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée inférieure à 5 000 m² et  raccordés à un réseau de chauffage urbain.
 
 2. Dénomination :
 
-Réhabilitation d'un poste de livraison par le remplacement de la  totalité des éléments suivants, constitutifs du primaire du poste de  livraison par des équipements neufs :
+Réhabilitation  d'un poste de livraison par le remplacement de la totalité des éléments  suivants, constitutifs du primaire du poste de livraison par des  équipements neufs :
 
 - échangeurs ;
 
 - régulation ;
 
-- pompes ;
+- pompes, lorsque le poste de livraison en est équipé ;
 
 - isolation thermique.
 
@@ -132,63 +134,134 @@ Réhabilitation d'un poste de livraison par le remplacement de la  totalité des
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-20 ans.
+4. Durée de vie conventionnelle : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="3">MONTANT UNITAIRE<p>en kWh cumac/m²</p>
+</td>
+<td align="center"/>
+<td align="center">SURFACE<p>chauffée en m²</p>
+</td>
+<td align="center"/>
+<td align="center">SECTEUR D'ACTIVITÉ </td>
+<td align="center">FACTEUR<p>correctif</p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Zone climatique </td>
+<td align="center">H1 </td>
+<td align="center">230 <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Bureaux </td>
+<td align="center"> 1,1</td>
+</tr>
+<tr>
+<td align="center">H2</td>
+<td align="center"> 190</td>
+<td align="center">x <br/>
+</td>
+<td align="center">S <br/>
+</td>
+<td align="center">x <br/>
+</td>
+<td align="center">Enseignement </td>
+<td align="center"> 0,8</td>
+</tr>
+<tr>
+<td align="center">H3 <br/>
+</td>
+<td align="center"> 130</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> Commerces</td>
+<td align="center"> 1,1</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">Hôtellerie, restauration </td>
+<td align="center"> 1,4</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> Santé</td>
+<td align="center"> 0,9</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"> Autres secteurs</td>
+<td align="center"> 0,8</td>
+</tr>
+</tbody>
+</table>
 
-n° 303 du 31/12/2006 texte numéro 60
-
-<div align="left">Certificats d'économies d'énergie</div>
+Certificats d'économies d'énergie
 
 Opération n° RES-CH-03-GT
 
-<div align="left">
-<br/>Réhabilitation d'un poste de livraison de  chaleur<br/>dans bâtiment tertiaire de grande taille<br/>
-</div>
+Réhabilitation d'un poste de livraison de chaleur
+
+dans un bâtiment tertiaire de grande taille
 
 1. Secteur d'application :
 
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000 m²,  et raccordés à un réseau de chauffage urbain.
+Locaux  du secteur tertiaire existants réservés à une utilisation  professionnelle, de surface totale chauffée comprise entre 5 000 m² et  10 000 m² et raccordés à un réseau de chauffage urbain.
 
 2. Dénomination :
 
-Réhabilitation  d'un poste de livraison par le remplacement de la  totalité des  éléments suivants, constitutifs du primaire du poste de livraison,  par  des équipements neufs :
+Réhabilitation  d'un poste de livraison par le remplacement de la totalité des éléments  suivants, constitutifs du primaire du poste de livraison par des  équipements neufs :
 
-― échangeurs ;
+- échangeurs ;
 
-―  régulation ;
+- régulation ;
 
-― pompes ;
+- pompes, lorsque le poste de livraison en est équipé ;
 
-― isolation thermique.
+- isolation thermique.
 
 3. Conditions pour la délivrance de certificats :
 
-Mise  en place réalisée par un professionnel.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie  conventionnelle :
+4. Durée de vie conventionnelle : 20 ans.
 
-20 ans.
-
-5. Montant de certificats  en kWh cumac :
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
 <td align="center" colspan="3">MONTANT UNITAIRE<br/>(en kWh cumac/m²)<br/>
 </td>
-<td align="center" rowspan="5">
+<td align="center" rowspan="7">
 <br/>
 <div align="center">X<br/>
 </div>
 </td>
 <td align="center">SURFACE<br/>chauffée (en m²)</td>
-<td align="center" rowspan="5">X</td>
-<td align="center">BRANCHE<br/>
+<td align="center" rowspan="7">X</td>
+<td align="center">SECTEUR D'ACTIVITÉ<br/>
 </td>
 <td align="center">FACTEUR<br/>correctif </td>
 </tr>
@@ -196,15 +269,19 @@ Mise  en place réalisée par un professionnel.
 <td align="center" rowspan="4">
 <br/>Zone climatique<br/>
 </td>
-<td align="center">H1<br/>
+<td align="center" rowspan="2">H1<br/>
 </td>
-<td align="center">190<br/>
+<td align="center" rowspan="2">190<br/>
 </td>
-<td align="center" rowspan="4">S</td>
+<td align="center" rowspan="6">S</td>
 <td align="center">Bureaux <br/>
 </td>
 <td align="center">1,3<br/>
 </td>
+</tr>
+<tr>
+<td align="center"> Enseignement</td>
+<td align="center"> 0,7</td>
 </tr>
 <tr>
 <td align="center">H2<br/>
@@ -216,17 +293,27 @@ Mise  en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">H3 </td>
-<td align="center" rowspan="2">110 </td>
+<td align="center">H3 </td>
+<td align="center">110 </td>
 <td align="center">Hôtellerie-restauration</td>
 <td align="center">1,4<br/>
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td/>
 <td align="center">Santé<br/>
 </td>
 <td align="center">0,9<br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td align="center">Autres secteurs </td>
+<td align="center"> 0,7</td>
 </tr>
 </tbody>
 </table>
