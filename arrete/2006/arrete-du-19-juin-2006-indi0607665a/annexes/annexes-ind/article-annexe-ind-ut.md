@@ -211,13 +211,10 @@ n° 303 du 31/12/2006 texte numéro 60
 <div align="left">Opération n° IND-UT-05</div>
 <div align="left">
 <br clear="none"/>Brûleur haut rendement micromodulant sur  chaudière<br clear="none"/>de production de vapeur ou d'eau surchauffée</div>
-<div align="left"/>
-<div align="left">
-<div align="left">1. Secteur d'application :<br clear="none"/>
-</div>Industrie.<br clear="none"/>2. Dénomination :<br clear="none"/>Installation  d'un brûleur haut  rendement, micromodulant, avec une plage de  modulation minimale de un à huit par  came électronique, avec un faible  taux d'oxygène dans les fumées sur une  chaudière produisant de la  vapeur ou de l'eau surchauffée (hors chaudière de  secours).<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>La puissance nominale de la chaudière doit être comprise entre 2 et  20 MW.<br clear="none"/>L'installation doit comporter une régulation par mesure  d'oxygène dans les fumées.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>15 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
+<div align="left">1. Secteur d'application :<br clear="none"/>Industrie.<br clear="none"/>2. Dénomination :<br clear="none"/>Installation  d'un brûleur haut  rendement, micromodulant, avec une plage de  modulation minimale de un à huit par  came électronique, avec un faible  taux d'oxygène dans les fumées sur une  chaudière produisant de la  vapeur ou de l'eau surchauffée (hors chaudière de  secours).<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>La puissance nominale de la chaudière doit être comprise entre 2 et  20 MW.<br clear="none"/>L'installation doit comporter une régulation par mesure  d'oxygène dans les fumées.<br clear="none"/>4. Durée de vie conventionnelle :<br clear="none"/>15 ans.<br clear="none"/>5. Montant de certificats en kWh cumac :<br clear="none"/>
 </div>
-<div align="center">
-
+<div align="left">
+<br clear="none"/>
 <table>
 <tbody>
 <tr>
@@ -256,9 +253,10 @@ n° 303 du 31/12/2006 texte numéro 60
 </tr>
 </tbody>
 </table>
-
 </div>
+<div align="left">
 <br clear="none"/>
+</div>
 <div align="left">Avec Pn = Puissance nominale de la chaudière, exprimée en  kW.</div>
 <div align="left"/>
 </div>
@@ -267,110 +265,23 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-06
 
-Contrôle du moteur d'un tracteur
-
-1. Secteur d'application :
-
-Agriculture.
-
-2. Dénomination :
-
-Contrôle du moteur d'un tracteur sur  banc d'essai mobile et réglages si nécessaires.
-
-L'opération   comprend le contrôle du moteur sur banc d'essai et les conseils  délivrés à  l'agriculteur ou au chauffeur. Ces conseils peuvent porter  sur la conduite,  l'entretien et les réglages du matériel.
-
-3. Conditions pour la  délivrance de certificats :
-
-Réalisation  du contrôle par un  opérateur participant au réseau national coordonné  par le Réseau mixte  technologique (RMT) agroéquipement énergie.
-
-4. Durée de vie  conventionnelle :
-
-2 ans.
-
-5. Montant de certificats  en kWh cumac : 9 700 kWh cumac.
+<div align="left">(Supprimé)</div>
 
 Certificats d'économies d'énergie
 
 Opération n°IND-UT-07
 
-Ordinateur climatique avec module
-
-d'intégration de température
-
-<div align="left">1. Secteur d'application :<br clear="none"/>Agriculture : serres  maraîchères et horticoles.<br clear="none"/>2. Dénomination :<br clear="none"/>Mise  en  place d'un ordinateur climatique accompagné d'un module  d'intégration de  température pour la gestion des cultures des serres  maraîchères et  horticoles.<br clear="none"/>3. Conditions pour la délivrance de certificats :<br clear="none"/>Installation réalisée par un professionnel.<br clear="none"/>4. Durée de  vie conventionnelle :<br clear="none"/>5 ans.<br clear="none"/>5. Montant de  certificats en kWh cumac :<br clear="none"/>
+<div align="left">(Supprimé)</div>
+<div align="left">
+<br clear="none"/>
 </div>
-<div align="center">
-
-<table>
-<tbody>
-<tr>
-<td align="center">ACTIVITÉ<br clear="none"/>
-</td>
-<td align="center" colspan="6">MONTANT EN kWh cumac/m²<br clear="none"/>de serre  chauffée<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">Serres maraîchères<br clear="none"/>
-</td>
-<td align="center">140<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">Serres horticoles<br clear="none"/>
-</td>
-<td align="center">71<br clear="none"/>
-</td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
-<div align="center"/>
-<div align="center"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie </div>
 <div align="left">
 <p>Opération n° IND-UT-08</p>
-<p>Ballon de stockage d'eau chaude de type "Open Buffer"<br clear="none"/>
-</p>
+<p>(Supprimé) </p>
 </div>
-
-1. Secteur d'application :
-
-Agriculture : serres maraîchères.
-
-2. Dénomination :
-
-Mise  en place d'un ballon de stockage  d'eau chaude de type "Open Buffer"  raccordé à des serres maraîchères neuves ou  existantes.
-
-3. Conditions pour la délivrance de certificats :
-
-Pilotage informatique du dispositif de stockage de l'eau chaude dans  le ballon.
-
-Mise en place réalisée par un professionnel.
-
-4. Durée de vie conventionnelle :
-
-15 ans.
-
-5. Montant de certificats en kWh cumac :
-
-<div align="center">
-
-<table>
-<tbody>
-<tr>
-<td align="center">Montant de kWh cumac par m² de serre chauffé.<br clear="none"/>
-</td>
-<td align="center">340<br clear="none"/>
-</td>
-</tr>
-</tbody>
-</table>
-
-</div>
-<div align="center"/>
-<div align="center"/>
 <div align="left">Certificats d'économies d'énergie </div>
 <div align="left">
 <p>Opération n° IND-UT-09</p>
@@ -536,9 +447,6 @@ Sans  objet.
 </tbody>
 </table>
 <div align="center">
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 </div>
 
@@ -781,39 +689,11 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-11
 
-Ballon de stockage d'eau chaude
+(Supprimé)
 
-1. Secteur d'application :
+<div align="left">
 
-Agriculture : serres  maraîchères et horticoles.
-
-2. Dénomination.
-
-Mise en  place d'un ballon de stockage d'eau chaude.
-
-3. Conditions de  délivrance de certificats :
-
-La capacité du ballon est adaptée aux  caractéristiques de la serre.
-
-Mise en place par un  professionnel.
-
-4. Durée de vie conventionnelle.
-
-15  ans.
-
-5. Montant de certificats en kWh cumac :
-
-<table>
-<tbody>
-<tr>
-<td align="left">Montant en kWh cumac par m² de serre chauffé.<br clear="none"/>
-</td>
-<td align="center">170<br clear="none"/>
-</td>
-</tr>
-</tbody>
-</table>
-
+</div>
 <div align="left">
 <br clear="none"/>
 </div>
@@ -1012,47 +892,54 @@ Opération n° IND-UT-14
 
 Moto-variateur synchrone à aimants permanents
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Installation d'un moto-variateur synchrone à aimants permanents de puissance comprise entre 0,75 kW et 500 kW.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Application </td>
-<td align="center">Montant unitaire en <br clear="none"/>kWh cumac/kW </td>
-<td align="center" rowspan="5"> X </td>
-<td align="center">Puissance du <br clear="none"/>moteur en kW </td>
+<td align="center">APPLICATION</td>
+<td align="center">
+<p>MONTANT UNITAIRE </p>
+<p>en kWh cumac/kW </p>
+</td>
+<td align="center" rowspan="6"> X </td>
+<td align="center">PUISSANCE DU MOTEUR <br clear="none"/>en kW </td>
 </tr>
 <tr>
 <td align="left">Pompage </td>
 <td align="center">23 000 </td>
-<td align="center" rowspan="4">  P</td>
+<td align="center" rowspan="5">  P</td>
 </tr>
 <tr>
 <td align="left">Ventilation </td>
 <td align="center">27 000 </td>
 </tr>
 <tr>
+<td>Compresseur air<br clear="none"/>
+</td>
+<td align="center">12 000 <br clear="none"/>
+</td>
+</tr>
+<tr>
 <td align="left">Compresseur froid </td>
 <td align="center">15 000 </td>
 </tr>
 <tr>
-<td align="left">Convoyeurs, <br clear="none"/>broyeurs, agitateurs </td>
+<td align="left">Convoyeur, broyeur, agitateur </td>
 <td align="center">12 000 </td>
 </tr>
 </tbody>
@@ -1076,7 +963,7 @@ Mise  en place d'un système de régulation permettant de faire varier la basse 
 
 Attestation  du fournisseur pour l'installation d'une BP flottante permettant la  fluctuation de la pression d'évaporation en fonction de la température  utile en sortie du groupe frigorifique.
 
-L'attestation mentionne  l'écart de température choisi entre la température d'évaporation  initiale et la température en BP flottante (1 à 5°C).
+L'attestation  mentionne l'écart de température choisi entre la température  d'évaporation initiale et la température en BP flottante (1 à 5°C).
 
 Mise en place réalisée par un professionnel.
 
@@ -1144,37 +1031,37 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-16
 
-Régulation d'un groupe de production de froid permettant d'avoir une haute pression flottante
+Régulation sur un groupe de production de froid
 
-1. Secteur d'application
+permettant d'avoir une haute pression flottante
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'un système de régulation permettant de faire varier la haute  pression (HP) du cycle frigorifique en fonction de la température  extérieure.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Attestation  du fournisseur pour l'installation d'une HP flottante permettant la  fluctuation de la pression de condensation en fonction de la température  extérieure.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
 <td align="center"/>
 <td align="center"/>
-<td align="center"> Zone climatique</td>
+<td align="center"> ZONE CLIMATIQUE</td>
 <td align="center"/>
 <td align="center"/>
-<td align="center">Niveau d'évaporation </td>
+<td align="center">NIVEAU D'ÉVAPORATION</td>
 <td align="center"/>
 </tr>
 <tr>
@@ -1182,23 +1069,29 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center" rowspan="3"> X</td>
 <td align="center" rowspan="2">H1, H2 </td>
-<td align="center" rowspan="2">6 900 <br clear="none"/>
+<td align="center" rowspan="2">9 900 <br clear="none"/>
 </td>
 <td align="center" rowspan="3"> X</td>
-<td align="center">Froid positif<br clear="none"/>(de -5°C à +5°C)<br clear="none"/>TEvaporation moyenne = 0°C<br clear="none"/>
+<td align="center">Froid positif (de -5°C à +5°C)<br clear="none"/>T<sub>Evaporation moyenne</sub> = 0°C<br clear="none"/>
 </td>
 <td align="center">1,0 </td>
 </tr>
 <tr>
-<td align="center">Basses températures<br clear="none"/>(de -25°C à -6°C)<br clear="none"/>TEvaporation moyenne = -15°C<br clear="none"/>
+<td align="center">
+<p>Basses températures (de -25°C à </p>
+<p>-6°C)  T<sub>Evaporation moyenne</sub> = -15°C<br clear="none"/>
+</p>
 </td>
 <td align="center"> 0,8</td>
 </tr>
 <tr>
 <td align="center">H3 </td>
-<td align="center"> 5 300<br clear="none"/>
+<td align="center"> 7 600<br clear="none"/>
 </td>
-<td align="center"> Très basses températures<br clear="none"/>(de -56°C à -26°C)<br clear="none"/>TEvaporation moyenne = -38°C<br clear="none"/>
+<td align="center">
+<p> Très basses températures  (de -56°C </p>
+<p>à -26°C) T<sub>Evaporation moyenne</sub> = -38°C<br clear="none"/>
+</p>
 </td>
 <td align="center">0,6 </td>
 </tr>
@@ -1211,66 +1104,67 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-17
 
-Récupération de chaleur sur groupe de production de froid
+Récupération de chaleur sur un groupe
 
-1. Secteur d'application
+de production de froid
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'un système de récupération de chaleur sur un groupe de  production de froid afin de chauffer ou préchauffer de l'eau ou de  l'air.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
-
-Si l'installation est équipée d'un refroidisseur d'huile :
+L'installation est équipée d'un refroidisseur d'huile :
 
 <table>
 <tbody>
 <tr>
-<td align="left">Récupération pour valorisation de la chaleur du condenseur </td>
-<td align="center">29 400 x P<sub>compresseur(s)</sub>
+<td align="left">Récupération pour valorisation de la chaleur du condenseur ;<br clear="none"/>
+</td>
+<td align="center">33 100 x P<sub>compresseur(s)</sub>
 </td>
 </tr>
 <tr>
-<td align="left">Récupération pour valorisation de la chaleur du désurchauffeur </td>
-<td align="center">4 700 x P<sub>compresseur(s)</sub>
+<td align="left">Récupération pour valorisation de la chaleur du désurchauffeur ; </td>
+<td align="center">5 500 x P<sub>compresseur(s)</sub>
 </td>
 </tr>
 <tr>
-<td align="left">Récupération pour valorisation de la chaleur du refroidisseur d'huile </td>
-<td align="center">3 900 x P<sub>compresseur(s)</sub>
+<td align="left">Récupération pour valorisation de la chaleur du refroidisseur d'huile ; </td>
+<td align="center">5 500 x P<sub>compresseur(s)</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-Si l'installation n'est pas équipée d'un refroidisseur d'huile :
+L'installation n'est pas équipée d'un refroidisseur d'huile :
 
 <table>
 <tbody>
 <tr>
 <td align="left">Récupération pour valorisation de la chaleur du condenseur </td>
-<td align="center"> 29 400 x P<sub>compresseur(s)</sub>
+<td align="center"> 33 100 x P<sub>compresseur(s)</sub>
 </td>
 </tr>
 <tr>
 <td>Récupération pour valorisation de la chaleur du désurchauffeur </td>
-<td align="center"> 9 400 x P<sub>compresseur(s)</sub>
+<td align="center"> 11 000 x P<sub>compresseur(s)</sub>
 </td>
 </tr>
 </tbody>
 </table>
 
-Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
 
 Si la chaleur est récupérée sur 2 ou 3 des organes du groupe froid, les certificats sont cumulables.
 
@@ -1324,6 +1218,86 @@ La  température des fumées considérée au niveau de l'axe des abscisses est  
 
 La température moyenne d'air préchauffé est fournie par le constructeur.
 
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-19
+
+Evaporateur performant
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un évaporateur performant.
+
+3. Conditions pour la délivrance de certificats :
+
+L'évaporateur comporte au moins 5 effets.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour la chimie-pharmacie :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT EN kWh CUMAC<br clear="none"/>pour un évaporateur selon le nombre d'effets<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center"> PUISSANCE THERMIQUE<br clear="none"/>de l'évaporateur en kW<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">700 pour 5 effets </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">× </td>
+<td align="center">P </td>
+</tr>
+<tr>
+<td align="center">1 200 pour 6 effets ou plus </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Pour l'agro-alimentaire :
+
+<table>
+<tbody>
+<tr>
+<td align="center">MONTANT EN kWh CUMAC<br clear="none"/>pour un évaporateur selon le nombre d'effets<br clear="none"/>
+</td>
+<td align="center"/>
+<td align="center">PUISSANCE THERMIQUE<br clear="none"/>de l'évaporateur en kW<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">600 pour 5 effets </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">× </td>
+<td align="center">P  <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">1 000 pour 6 effets ou plus </td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
 <div align="center">
 
 </div>

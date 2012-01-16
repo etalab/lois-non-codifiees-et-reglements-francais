@@ -111,35 +111,46 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-EQ-03
 
-Télématique embarquée pour le suivi de la conduite d'un véhicule
+Télématique embarquée pour le suivi
 
-1. Secteur d'application
+de la conduite d'un véhicule
 
-Flottes professionnelles de véhicules.
+1. Secteur d'application :
 
-2. Dénomination
+Flottes de véhicules professionnels.
 
-Installation  d'un équipement de télématique embarquée et accès aux analyses  comportementales par les conducteurs et par les gestionnaires de la  flotte.
+2. Dénomination :
 
-3. Conditions pour la délivrance de certificats
+Installation  d'un équipement de télématique embarquée et accès aux analyses  comportementales par les conducteurs et par les gestionnaires de flotte.
 
-Fournir un justificatif de la réalisation d'une formation initiale à la conduite économique.
+3. Conditions pour la délivrance de certificats :
 
-Les  équipements de télématique installés doivent fournir les données  minimales suivantes : consommation du véhicule, kilométrage, utilisation  de l'accélérateur et des freins, le régime moteur et les temps d'arrêt  avec moteur fonctionnant.
+Les équipements de télématique installés fournissent les données minimales suivantes :
 
-Seules les actions engagées à partir du 1er janvier 2010 donnent lieu à la délivrance de certificats d'économies d'énergie.
+1° La consommation du véhicule ;
 
-4. Durée de vie conventionnelle
+2° Le kilométrage ;
 
-4 ans
+3° L'utilisation de l'accélérateur ;
 
-5. Montant de certificats en kWh cumac
+4° L'utilisation des freins ;
+
+5° Le régime moteur ;
+
+6° Les temps d'arrêt avec moteur fonctionnant.
+
+4. Durée de vie conventionnelle : 4 ans.
+
+5. Montant des certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Type de véhicule </td>
-<td align="center">Montant en kWh cumac par <br/>opération de télématique <br/>installée </td>
+<td align="center">TYPE DE VÉHICULE</td>
+<td align="center">
+<p>MONTANT EN kWh CUMAC </p>
+<p>par opération de télématique installée </p>
+</td>
 </tr>
 <tr>
 <td align="left">Véhicules légers </td>
@@ -154,7 +165,7 @@ Seules les actions engagées à partir du 1er janvier 2010 donnent lieu à la d�
 <td align="center"> 33 000</td>
 </tr>
 <tr>
-<td align="left">Autocars ou autobus </td>
+<td align="left">Autocar ou autobus </td>
 <td align="center">19 000 </td>
 </tr>
 </tbody>
@@ -164,54 +175,60 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-EQ-04
 
-Lubrifiant économiseur d'énergie pour véhicules légers
+Lubrifiant économiseur d'énergie
 
-1. Secteur d'application
+pour véhicules légers
+
+1. Secteur d'application :
 
 Véhicules légers.
 
-2. Dénomination
+2. Dénomination :
 
 Utilisation d'un lubrifiant économiseur d'énergie.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-La  performance  Fuel Economy  du lubrifiant doit avoir été mesurée selon  la norme d'essai CEC-L-54-T-96 par un laboratoire agréé. Elle doit être  supérieure ou égale à 1 %.
+La  performance "Fuel Economy" du lubrifiant est mesurée selon la norme  d'essai CEC-L-54-T-96 par un laboratoire agréé. Elle est supérieure ou  égale à 1 %.
 
-Le demandeur doit établir le montant des volumes de lubrifiant économiseur d'énergie utilisés par ses clients.
+Le demandeur établit le montant des volumes de lubrifiant économiseur d'énergie utilisés par ses clients.
 
-Seules les actions engagées à partir du 1er janvier 2010 donnent lieu à la délivrance de certificats d'économies d'énergie.
+4. Durée de vie conventionnelle : 1 an.
 
-4. Durée de vie conventionnelle
-
-1 an
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Type de <br/>véhicule </td>
-<td align="center">Montant des ventes <br/>de lubrifiants en m<sup>3</sup>
+<td align="center">TYPE DE VÉHICULE</td>
+<td align="center">MONTANT DES VENTES<br/>de lubrifiants en m<sup>3</sup>
 </td>
-<td align="center">Performance <br/>"fuel economy" <br/>du lubrifiant, mesurée <br/>selon l'essai <br/>CEC-L-54-T-96<br/>
+<td align="center">
+<p>PERFORMANCE<br/>"fuel economy" du lubrifiant, </p>
+<p>mesurée selon l'essai <br/>CEC-L-54-T-96<br/>
+</p>
 </td>
-<td align="center">Montant en kWh <br/>cumac </td>
+<td align="center">
+<p>MONTANT</p>
+<p>en kWh cumac </p>
+</td>
 </tr>
 <tr>
-<td align="left">Véhicules légers <br/>diesel </td>
+<td align="left">Véhicules légers diesel </td>
 <td align="center"> X1</td>
 <td align="center">Y1 </td>
 <td align="center">= 39 000 *X1*Y1% </td>
 </tr>
 <tr>
-<td align="left">Véhicules légers <br/>à essence </td>
+<td align="left">Véhicules légers à essence </td>
 <td align="center">X2 </td>
 <td align="center">Y2 </td>
 <td align="center">= 22 000 *X2*Y2% </td>
 </tr>
 </tbody>
 </table>
+
+Le  montant de certificats à attribuer est égal à la somme du montant pour  les véhicules diesel et du montant pour les véhicules à essence.
 
 Certificats d'économies d'énergie
 
@@ -263,42 +280,50 @@ Certificats d'économies d'énergie
 
 Opération n° TRA-EQ-06
 
-Pneus de véhicules légers à basse résistance au roulement
+Pneus de véhicules légers
 
-1. Secteur d'application
+à basse résistance au roulement
+
+1. Secteur d'application :
 
 Flottes professionnelles de véhicules légers.
 
-2. Dénomination
+2. Dénomination :
 
 Acquisition  et montage de pneumatiques ayant une classification énergétique, au  moins égale à C, pour le renouvellement sur des véhicules légers d'une  flotte.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les  pneumatiques doivent avoir une classification énergétique au moins  égale à C ainsi qu'une classification en adhérence sur sol mouillé au  moins égale à C (classification au sens du règlement européen n°  661/2009).
+Les  pneumatiques ont une classification énergétique au moins égale à C  ainsi qu'une classification en adhérence sur sol mouillé au moins égale à  C (classification au sens du règlement européen n° 661/2009).
 
-Le demandeur devra présenter à l'appui de sa demande  les factures d'achat des pneumatiques stipulant la quantité de pneus  livrés et montés par classe énergétique.
+Le  demandeur présente les factures d'achat des pneumatiques stipulant la  quantité de pneumatiques livrés et montés par classe énergétique.
 
-Le demandeur apportera  des éléments justifiant le kilométrage moyen parcouru par les véhicules  légers de la flotte considérée (éléments issus de l'outil de gestion et  de suivi de la flotte).
+Le  demandeur apporte des éléments justifiant le kilométrage annuel moyen  parcouru par les véhicules légers de la flotte considérée (éléments  issus de l'outil de gestion et de suivi de la flotte). Le kilométrage  annuel moyen d'un véhicule pour la flotte considérée est égal à la somme  des kilométrages de tous les véhicules de la flotte divisée par le  nombre total de véhicules de la flotte. Cette valeur est déterminée sur  l'année calendaire précédant la demande de certificats.
 
-Seules les actions engagées à partir du 1er janvier 2010 donnent lieu à la délivrance de certificats d'économies d'énergie.
+4. Durée de vie conventionnelle : 1 an.
 
-4. Durée de vie conventionnelle
-
-1 an
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Classe <br/>énergétique des <br/>pneus installés </td>
-<td align="center">Montant en <br/>kWh cumac </td>
+<td align="center">
+<p>CLASSE ÉNERGÉTIQUE </p>
+<p>des pneumatiques  installés </p>
+</td>
+<td align="center">
+<p>MONTANT </p>
+<p>en kWh cumac </p>
+</td>
 <td align="center" rowspan="4">  X</td>
-<td align="center">Nombre de <br/>pneus </td>
+<td align="center">NOMBRE<p>de pneumatiques</p>
+</td>
 <td align="center" rowspan="4"> X <br/>
 </td>
-<td align="center"> Nombre de <br/>kilomètres</td>
+<td align="center">
+<p> NOMBRE </p>
+<p>de kilomètres annuels</p>
+</td>
 </tr>
 <tr>
 <td align="center"> A</td>
@@ -810,6 +835,99 @@ Y1%  : économie de carburant de l'huile de référence 15W-40 ACEA E7  utilisé
 Y2% : économie de carburant de l'huile à  tester, mesurée par rapport à l'huile étalon de l'essai OM501FE (Y2 :  valeur attendue positive).
 
 Exemple : un gain constaté de 1,5 % correspond à 48 700 * 1,5 = 73 050 kWh par mètre cube de lubrifiant vendu.
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-EQ-14
+
+Changement de catégorie de consommation
+
+des véhicules de flottes professionnelles
+
+1. Secteur d'application :
+
+Transports : flotte de véhicules particuliers légers.
+
+2. Dénomination :
+
+Remplacement des véhicules d'une catégorie de consommation par des véhicules d'une catégorie de consommation inférieure.
+
+3. Conditions pour la délivrance des certificats :
+
+La  personne qui procède au remplacement des véhicules d'une catégorie de  consommation par des véhicules d'une catégorie de consommation  inférieure est, soit une entreprise, soit un groupement d'entreprises,  soit une collectivité territoriale.
+
+Seuls les véhicules  renouvelés par d'autres véhicules d'une catégorie de consommation  inférieure sont éligibles à la délivrance de certificats.
+
+Le  renouvellement de la flotte est établi à partir des déclarations de  taxe sur les véhicules des sociétés (TVS) annuelle (document CERFA n°  2855, partie I) suivantes :
+
+- celle de l'année de la vente des véhicules anciens et du rachat des véhicules neufs pour la première déclaration ;
+
+-  pour les demandes ultérieures, en plus du justificatif mentionné  ci-dessus, celle de l'année de la dernière déclaration pour la  délivrance de certificats.
+
+La déclaration n° 2855 permet  de déterminer si un véhicule est soumis ou non au paiement de la TVS et  donc s'il est éligible à la délivrance de certificats selon cette  fiche. Notamment, les véhicules loués depuis moins de 30 jours ne paient  pas la taxe et ne doivent donc pas être pris en compte pour la  délivrance de certificats.
+
+Enfin, pour limiter  d'éventuelles opérations d'achats/ventes donnant lieu à un effet  d'aubaine, les véhicules achetés ou vendus entre le 15 septembre et le  15 octobre (inclus) ne donnent pas droit à la délivrance de certificats.
+
+4. Durée de vie conventionnelle : 3 ans (location longue durée : LLD) et 8 ans (flottes privées d'entreprises).
+
+5. Montant de certificats en kWh cumac :
+
+Pour  évaluer l'économie d'énergie réalisée, il faut établir la moyenne de la  consommation de la flotte revendue et celle de la flotte nouvellement  immatriculée. Le principe de calcul ci-dessous ne s'applique qu'à des  véhicules effectivement remplacés par d'autres véhicules de catégories  de consommation inférieures.
+
+Soit :
+
+C = [0,60 × NA + 0,73 × NB + 0,87 × NC + ND + 1,2 × NE + 1,5 × NF + 1,83 × NG]/N
+
+Avec :
+
+-  NX, le nombre de véhicules de la classe X (X varie de A à F), remplacés  par des véhicules de catégories de consommation inférieures au sein de  la flotte ;
+
+- N, la somme des NX.
+
+La variation de consommation moyenne P (en %) vaut :
+
+P = [(Ci - Cf)/Ci] × 100
+
+Avec :
+
+- Ci, la consommation de la flotte initiale revendue ;
+
+- Cf, la consommation de la flotte finale nouvellement immatriculée.
+
+Le montant de certificats à attribuer est :
+
+<table>
+<tbody>
+<tr>
+<th>MONTANT<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>POURCENTAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE DE VÉHICULES<br/>
+</th>
+</tr>
+<tr>
+<td align="center">600<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">P %<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Ces  éléments sont entrés dans une feuille de calcul, pour les véhicules de  la flotte vendue comme pour ceux de la flotte achetée. Cette feuille de  calcul est disponible sur le site internet de la direction générale de  l'énergie et du climat du ministère chargé de l'énergie.
 
 <div>
 <br/>

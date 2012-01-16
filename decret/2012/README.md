@@ -50,6 +50,8 @@
 - [Décret n°2012-42 du 12 janvier 2012 (IOCV1127356D)](decret-n2012-42-du-12-janvier-2012-iocv1127356d)
 - [Décret n°2012-1054 du 13 septembre 2012 (ETSO1230178D)](decret-n2012-1054-du-13-septembre-2012-etso1230178d)
 - [Décret n°2012-43 du 13 janvier 2012 (ETSS1135393D)](decret-n2012-43-du-13-janvier-2012-etss1135393d)
+- [Décret n°2012-44 du 13 janvier 2012 (JUSA1129703D)](decret-n2012-44-du-13-janvier-2012-jusa1129703d)
+- [Décret n°2012-45 du 13 janvier 2012 (SPOV1135036D)](decret-n2012-45-du-13-janvier-2012-spov1135036d)
 - [Décret n°2011-1877 du 14 décembre 2011 (JUSB1124111D)](decret-n2011-1877-du-14-decembre-2011-jusb1124111d)
 - [Décret n°2011-1878 du 14 décembre 2011 (JUSB1124109D)](decret-n2011-1878-du-14-decembre-2011-jusb1124109d)
 - [Décret n°2011-1879 du 14 décembre 2011 (IOCB1125452D)](decret-n2011-1879-du-14-decembre-2011-iocb1125452d)

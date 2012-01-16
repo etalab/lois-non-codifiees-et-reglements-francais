@@ -1,399 +1,305 @@
 # Article Annexe BAR-TH
 
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+
+Certificats d'économies d'énergie
 
 Opération n° BAR-TH-01
 
-Chauffe-eau solaire individuel (France métropolitaine)
+Chauffe-eau solaire individuel
 
-1. Secteur d'application
+(France métropolitaine)
+
+1. Secteur d'application :
 
 Maisons individuelles existantes en France métropolitaine.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un chauffe-eau solaire individuel (CESI).
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les normes EN 12975 ou EN 12976 et établies par un organisme établi dans  l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+Les équipements possèdent des caractéristiques de performances validées :
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+1° Soit par la marque de certification : CSTBat ;
 
-4. Durée de vie conventionnelle
+2° Soit par la marque de certification : Solarkeymark ;
 
-15 ans
+3° Soit par la marque de certification : NFCESI ;
 
-5. Montant de certificats en kWh cumac
+4°  Soit par des caractéristiques de performances et de qualité  équivalentes basées sur les normes EN 12975 ou EN 12976 établies par un  organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur doit, à la date de la réalisation de l'opération :
+
+1° Etre titulaire de l'appellation QUALISOL ;
+
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des CESI ;
+
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique <br/>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac pour un capteur installé)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE DE CAPTEURS<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">6 400<br/>
 </td>
 <td align="center">
-<p>Montant unitaire en kWh</p>
-<p>cumac pour un capteur</p>
-<p>installé </p>
+<br/>
 </td>
-<td align="center" rowspan="4">  X</td>
-<td align="center"> Nombre de capteurs<br/>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> H1</td>
-<td align="center"> 6 400<br/>
+<td align="center">H2<br/>
 </td>
-<td align="center" rowspan="3">  N</td>
-</tr>
-<tr>
-<td align="center">H2 <br/>
+<td align="center">7 700<br/>
 </td>
-<td align="center"> 7 700<br/>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> H3</td>
-<td align="center"> 10 000<br/>
+<td align="center">H3<br/>
+</td>
+<td align="center">10 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le  nombre de capteur(s) installé(s) peut être évalué de manière  conventionnelle à partir de la surface de capteur(s) installé(s) sur la  base : 1 capteur = 2,2 m².
+Le  nombre de capteurs installés peut être évalué de manière  conventionnelle à partir de la surface de capteurs installés sur la base  : 1 capteur correspond à 2,2 m².
 
-<div align="left">Certificats d'économies d'énergie</div>
+Certificats d'économies d'énergie
 
 Opération n° BAR-TH-02
 
-Chauffe-eau solaire en logement collectif (France métropolitaine)
+Chauffe-eau solaire en logement collectif
 
-1. Secteur d'application
+(France métropolitaine)
+
+1. Secteur d'application :
 
 Appartements existants en France métropolitaine.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un chauffe-eau solaire collectif.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les normes EN 12975 ou EN 12976 et établies par un organisme établi dans  l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+Les équipements possèdent des caractéristiques de performances validées :
+
+1° Soit par la marque de certification : CSTBat ;
+
+2° Soit par la marque de certification : Solarkeymark ;
+
+3°  Soit par des caractéristiques de performance et de qualité équivalentes  basées sur les normes EN 12975 ou EN 12976 et établies par un organisme  établi dans l'Espace économique européen et accrédité selon les normes  NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
 
 Le dimensionnement de l'installation est réalisé par un bureau d'étude.
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+L'installateur doit, à la date de la réalisation de l'opération :
 
-20 ans.
+1° Etre titulaire de l'appellation QUALISOL ;
 
-5. Montant de certificats en kWh cumac
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des chauffe-eaux solaires ;
 
-14,134 x PES (kWh/an)
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+14,134 × PES (kWh/an)
+
+PES est la production d'énergie solaire annuelle.
 
 <div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
+
+Certificats d'économies d'énergie
 
 Opération n° BAR-TH-03
 
-Pompe à chaleur de type eau / eau
+Pompe à chaleur de type eau/eau
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau / eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/eau.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Valeur du coefficient de performance (COP) :
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
 
-1. pour les PAC eau / eau :
-
-COP,  mesuré selon la norme EN 14511-2 pour des températures d'entrée et de  sortie d'eau de 10° C et 7° C à l'évaporateur, et de 30° C et 35° C au  condenseur, égal ou supérieur à 3,4.
-
-2. pour les PAC eau glycolée / eau ou eau glycolée / eau glycolée :
-
-COP,  mesuré selon la norme EN 14511-2 pour des températures d'entrée et de  sortie d'eau de 0° C et - 3° C à l'évaporateur, et de 30° C et 35° C au  condenseur, égal ou supérieur à 3,4.
-
-La pompe à chaleur a une  certification NF PAC ou un label EHPA ou l'Eco-Label européen ou des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
+La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  géothermiques.
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-4. Durée de vie conventionnelle
+1° Etre titulaire de l'appellation QUALIPAC ;
 
-16 ans.
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
 
-5. Montant de certificats en kWh cumac
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
 
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center">COP </td>
+<th>COP<br/>
+</th>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">160 000<br/>
+</td>
 <td align="center">
-<p>Zone </p>
-<p>climatique </p>
-</td>
-<td align="center">Montant unitaire en <br/>kWh cumac </td>
-<td align="center" rowspan="10"> x <br/>
-</td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center" rowspan="3"> 3,5 &gt; COP ≥ 3,4 </td>
-<td align="center"> H1</td>
-<td align="center">160 000 </td>
-<td align="center">Facteur <br/>correctif </td>
-<td align="center">Surface habitable <br/>en m² </td>
-</tr>
-<tr>
-<td align="center">H2 </td>
-<td align="center">130 000 </td>
-<td align="center">0,2 </td>
-<td align="center"> &lt; 35</td>
-</tr>
-<tr>
-<td align="center"> H3</td>
-<td align="center">84 000 </td>
-<td align="center">0,4 </td>
-<td align="center"> 35 - 60</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">  4 &gt; COP ≥ 3,5</td>
-<td align="center"> H1</td>
-<td align="center">160 000 </td>
-<td align="center">0,7 </td>
-<td align="center"> 60 - 80</td>
-</tr>
-<tr>
-<td align="center"> H2 <br/>
-</td>
-<td align="center">130 000 </td>
-<td align="center">0,9 </td>
-<td align="center">80 - 100 </td>
-</tr>
-<tr>
-<td align="center"> H3</td>
-<td align="center">87 000 </td>
-<td align="center"> 1,1</td>
-<td align="center">100 - 130 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3"> COP ≥ 4 </td>
-<td align="center"> H1</td>
-<td align="center">170 000 </td>
-<td align="center">1,4 </td>
-<td align="center">&gt; 130 </td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
-</td>
-<td align="center">140 000 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"> H3</td>
-<td align="center">91 000 </td>
-<td align="center"/>
-<td align="center"/>
-</tr>
-</tbody>
-</table>
-<div>
 <br/>
-</div>
-
-Pour un appartement :
-
-<table>
-<tbody>
-<tr>
-<td align="center">COP </td>
-<td align="center">Zone climatique </td>
-<td align="center">Montant unitaire en kWh cumac </td>
-</tr>
-<tr>
-<td align="center" rowspan="3">  3,5 &gt; COP ≥ 3,4</td>
-<td align="center">H1<br/>
-</td>
-<td align="center"> 64 000</td>
-</tr>
-<tr>
-<td align="center"> H2</td>
-<td align="center"> 53 000</td>
-</tr>
-<tr>
-<td align="center">H3 </td>
-<td align="center"> 35 000</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">  4 &gt; COP ≥ 3,5</td>
-<td align="center">H1 <br/>
-</td>
-<td align="center">67 000 </td>
-</tr>
-<tr>
-<td align="center">H2 <br/>
-</td>
-<td align="center">54 000 </td>
-</tr>
-<tr>
-<td align="center"> H3 <br/>
-</td>
-<td align="center">36 000 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3"> COP ≥ 4 </td>
-<td align="center">H1  <br/>
-</td>
-<td align="center"> 69 000</td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
-</td>
-<td align="center">57 000 </td>
-</tr>
-<tr>
-<td align="center">H3  <br/>
-</td>
-<td align="center">38 000 </td>
-</tr>
-</tbody>
-</table>
-
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
-
-Opération n° BAR-TH-04
-
-Pompe à chaleur de type air / eau
-
-1. Secteur d'application
-
-Bâtiments résidentiels existants.
-
-2. Dénomination
-
-Mise en place d'une pompe à chaleur (PAC) de type air / eau.
-
-3. Conditions pour la délivrance de certificats
-
-Coefficient  de performance (COP), mesuré selon la norme EN 14511-2 pour une  température d'entrée d'air de 7° C à l'évaporateur et des températures  d'entrée et de sortie d'eau de 30° C et 35° C au condenseur, égal ou  supérieur à 3,4.
-
-La pompe à chaleur a une certification NF PAC ou  Eurovent ou un label EHPA ou l'Eco-label européen ou des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent pris dans le  cadre de European co-operation for Accreditation (EA), coordination  européenne des organismes d'accréditation.
-
-Mise en place réalisée par un professionnel.
-
-Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  aérothermiques.
-
-4. Durée de vie conventionnelle
-
-16 ans
-
-5. Montant de certificats en kWh cumac
-
-Pour une maison individuelle :
-
-<div align="center">
-
-<table>
-<tbody>
-<tr>
-<th>
-<font size="1">COP</font>
-<br/>
-</th>
-<th>
-<font size="1">Zone climatique</font>
-<br/>
-</th>
-<th>
-<font size="1">Montant unitaire en <br/>kWh cumac</font>
-<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>
-<font size="1">FACTEUR<br/>correctif</font>
-</th>
-<th>
-<font size="1">SURFACE<br/>habitable</font>(en m²)<br/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="3">
-<br/>3,5 &gt; COP ≥ 3,4<br/>
-</td>
-<td align="center">H1<br/>
-</td>
-<td align="center">150 000 <br/>
-</td>
-<td align="center" rowspan="8">
-<br/>X<br/>
 </td>
 <td align="center">0,2<br/>
 </td>
-<td align="center">&lt; 35<br/>
+<td align="center">S &lt; 35<br/>
 </td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H2<br/>
 </td>
-<td align="center">120 000 <br/>
+<td align="center">130 000<br/>
+</td>
+<td align="center">×<br/>
 </td>
 <td align="center">0,4<br/>
 </td>
-<td align="center">35 ― 60<br/>
+<td align="center">35 ≤ S &lt; 60<br/>
 </td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H3<br/>
 </td>
-<td align="center">80 000 <br/>
+<td align="center">84 000<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,7<br/>
 </td>
-<td align="center">60 ― 80<br/>
+<td align="center">60 ≤ S &lt; 80<br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">4 &gt; COP ≥ 3,5 </td>
+<td align="center">4 &gt; COP ≥ 3,5<br/>
+</td>
 <td align="center">H1<br/>
 </td>
-<td align="center">150 000<br/>
+<td align="center">160 000<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,9<br/>
 </td>
-<td align="center">80 ― 100<br/>
+<td align="center">80 ≤ S &lt; 100<br/>
 </td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H2<br/>
 </td>
-<td align="center">120 000 <br/>
+<td align="center">130 000<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center">1,1<br/>
 </td>
-<td align="center">100 ― 130<br/>
+<td align="center">100 ≤ S ≤ 130<br/>
 </td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H3<br/>
 </td>
-<td align="center">83 000 <br/>
+<td align="center">87 000<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center">1,4<br/>
 </td>
@@ -401,119 +307,488 @@ Pour une maison individuelle :
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">
-<br/>COP ≥ 4<br/>
+<td align="center">COP ≥ 4<br/>
 </td>
 <td align="center">H1<br/>
 </td>
-<td align="center">160 000 <br/>
+<td align="center">170 000<br/>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H2<br/>
 </td>
-<td align="center">130 000 <br/>
+<td align="center">140 000<br/>
 </td>
-<td align="center"/>
-<td align="center"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">H3<br/>
 </td>
-<td align="center"> 86 000<br/>
+<td align="center">91 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Pour un appartement :<br/>
+</div>
+<div/>
+<div align="left">
+<table>
+<tbody>
+<tr>
+<th>COP<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">64 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">53 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">35 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">67 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 &gt; COP ≥ 3,5<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">54 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">36 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">69 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">COP ≥ 4<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">57 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">38 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div/>
+<div/>
+<div/>
+<div/>
+<div align="left"/>
+
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-04
+
+Pompe à chaleur de type air/eau
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants.
+
+2. Dénomination :
+
+Mise en place d'une pompe à chaleur (PAC) de type air / eau.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient  de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+
+La  pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA  ou l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
+
+1° Etre titulaire de l'appellation QUALIPAC ;
+
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour une maison individuelle :
+
+<table>
+<tbody>
+<tr>
+<th>COP<br/>
+</th>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">150 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">120 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">80 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 &gt; COP ≥ 3,5<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">150 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">120 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">83 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">COP ≥ 4<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">160 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">130 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">86 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pour un appartement :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<th>COP<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">61 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">3,5 &gt; COP ≥ 3,4<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">50 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">33 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">63 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">4 &gt; COP ≥ 3,5<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">52 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">35 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">66 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">COP ≥ 4<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">54 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">36 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div align="center">
 
 </div>
 <div align="center">
 <div align="left">
 
 </div>
-<div align="left">Pour un appartement : </div>
-
-<table>
-<tbody>
-<tr>
-<th>
-<font size="1">COP</font>
-<br/>
-</th>
-<th>
-<font size="1">Zone climatique</font>
-<br/>
-</th>
-<th>
-<font size="1">Montant unitaire en kWh cumac</font>
-<br/>
-</th>
-</tr>
-<tr>
-<td align="center" rowspan="3">
-<br/>3,5 &gt; COP ≥ 3,4<br/>
-</td>
-<td align="center">H1<br/>
-</td>
-<td align="center"> 61 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H2<br/>
-</td>
-<td align="center"> 50 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H3<br/>
-</td>
-<td align="center"> 33 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">4 &gt; COP ≥ 3,5 </td>
-<td align="center">H1<br/>
-</td>
-<td align="center"> 63 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H2<br/>
-</td>
-<td align="center"> 52 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H3<br/>
-</td>
-<td align="center">35 000 <br/>
-</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">
-<br/>COP ≥ 4<br/>
-</td>
-<td align="center">H1<br/>
-</td>
-<td align="center"> 66 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H2<br/>
-</td>
-<td align="center"> 54 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H3<br/>
-</td>
-<td align="center">36 000  <br/>
-</td>
-</tr>
-</tbody>
-</table>
+<div align="left"/>
 
 </div>
 
@@ -527,74 +802,125 @@ Opération n° BAR-TH-05
 <br/>
 </div>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-06<br/>Chaudière individuelle de type condensation</div>
 
-Opération n° BAR-TH-06
-
-Chaudière individuelle de type condensation
-
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une chaudière individuelle de type condensation.
 
-3. Conditions pour la délivrance de certificats
-
-L'action  n'est applicable que sur des installations dont les émetteurs sont  dimensionnés de façon à permettre à la chaudière de condenser.
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+Le professionnel atteste que les émetteurs sont dimensionnés de façon à permettre à la chaudière de condenser.
 
-16 ans
+4. Durée de vie conventionnelle : 16 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone <br/>climatique </td>
-<td align="center">Montant unitaire en <br/>kWh cumac </td>
-<td align="center" rowspan="7"> x <br/>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
 </td>
-<td align="center">Facteur <br/>correctif </td>
-<td align="center">Surface habitable en m² </td>
-</tr>
-<tr>
-<td align="center" rowspan="2"> H1</td>
-<td align="center" rowspan="2"> 120 000</td>
-<td align="center">0,2 </td>
-<td align="center">&lt; 35 </td>
-</tr>
-<tr>
-<td align="center">0,4 </td>
-<td align="center"> 35 - 60</td>
-</tr>
-<tr>
-<td align="center" rowspan="2"> H2</td>
-<td align="center" rowspan="2">110 000 </td>
-<td align="center">0,7</td>
-<td align="center">60 - 80 </td>
-</tr>
-<tr>
-<td align="center">0,9 <br/>
+<td align="center">120 000<br/>
 </td>
-<td align="center"> 80 - 100</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="2"> H3</td>
-<td align="center" rowspan="2">74 000 </td>
-<td align="center">1,1</td>
-<td align="center"> 100 - 130</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> 1,4</td>
-<td align="center">&gt; 130 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">110 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">74 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -604,173 +930,204 @@ Pour un appartement :
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center"> Montant unitaire en kWh cumac</td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
 </tr>
 <tr>
-<td align="center">H1 <br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"> 61 000</td>
+<td align="center">61 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H2</td>
-<td align="center">53 000 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">53 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H3</td>
-<td align="center">40 000 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">40 000<br/>
+</td>
 </tr>
 </tbody>
 </table>
+
 <div align="center">
 <br/>
 </div>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-07<br/>Chaudière collective de type condensation</div>
 
-Opération n° BAR-TH-07
-
-Chaudière collective de type condensation
-
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une chaudière collective de type condensation.
 
-3. Conditions pour la délivrance de certificats
-
-Elle  n'est applicable que sur des installations dont les émetteurs sont  dimensionnés de façon à permettre à la chaudière de condenser.
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+Le professionnel atteste que les émetteurs sont dimensionnés de façon à permettre à la chaudière de condenser.
 
-21 ans
+4. Durée de vie conventionnelle : 21 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique <br/>
-</td>
-<td align="center">Montant en kWh <br/>cumac pour un <br/>appartement<br/>
-</td>
-<td align="center"/>
-<td align="center">Nombre d'appartements </td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>MONTANT<br/>(en kWh cumac / appartement)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
 </tr>
 <tr>
-<td align="center"> H1 </td>
-<td align="center">100 000 </td>
-<td align="center" rowspan="3"> X </td>
-<td align="center" rowspan="3">  N</td>
-</tr>
-<tr>
-<td align="center"> H2</td>
-<td align="center">87 000 </td>
-</tr>
-<tr>
-<td align="center">H3 <br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"> 65 000</td>
+<td align="center">100 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">87 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">65 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-07-SE<br/>Chaudière collective de type condensation avec contrat<br/>assurant le maintien du rendement énergétique de la chaudière</div>
 
-Opération n° BAR-TH-07-SE
-
-Chaudière collective de type condensation avec contrat assurant le maintien du rendement énergétique de la chaudière
-
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'une chaudière collective de type condensation accompagnée  d'un contrat de maintenance comportant un engagement de maintien du  rendement énergétique de la chaudière sur la durée du contrat.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Pour la chaudière :
 
--  L'opération n'est applicable que sur des installations dont les  émetteurs sont dimensionnés de façon à permettre à la chaudière de  condenser.
+- la mise en place est réalisée par un professionnel ;
 
-- La mise en place doit être réalisée par un professionnel.
+- le professionnel atteste que les émetteurs sont dimensionnés de façon à permettre à la chaudière de condenser.
 
 Pour le contrat :
 
--  Le contrat doit être établi avec un professionnel ayant une  qualification Qualibat 553 et 554 ou tout dispositif présentant des  spécifications techniques équivalentes.
+-  le contrat est établi avec un professionnel ayant une qualification  Qualibat 553 ou 554 ou tout dispositif présentant des spécifications  techniques équivalentes ;
 
-- Le contrat doit porter  engagement du prestataire à maintenir le rendement énergétique de  l'appareil installé. Le rendement à maintenir sera défini à partir d'une  mesure après installation de l'appareil. Le rendement devra être, par  la suite, mesuré au moins une fois par an.
+- le contrat porte engagement  du prestataire à maintenir le rendement énergétique de l'appareil  installé. Le rendement à maintenir est défini à partir d'une mesure  après installation de l'appareil. Le rendement est, par la suite, mesuré  au moins une fois par an.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle :
 
 Chaudière : 21 ans.
 
 Contrat : plafonnée à 8 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour la chaudière :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">ZONE CLIMATIQUE</p>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>MONTANT<br/>(en kWh cumac / appartement)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
 </td>
-<td>
-<br/>
-<div align="center">Montant en kWh <br/>cumac pour un <br/>appartement<br/>
-</div>
+<td align="center">100 000<br/>
+</td>
+<td align="center">
 <br/>
 </td>
-<td>
-<br/>
-<br/>
-</td>
-<td>
-<br/>
-<div align="center">Nombre <br/>d'appartements</div>
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">H1</p>
+<td align="center">H2<br/>
 </td>
-<td>
-<p align="center">100 000</p>
+<td align="center">87 000<br/>
 </td>
-<td rowspan="3">
-<br/>
-<p align="center">X</p>
+<td align="center">×<br/>
 </td>
-<td rowspan="3">
-<br/>
-<p align="center">N</p>
-<br/>
+<td align="center">N<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">H2</p>
+<td align="center">H3<br/>
 </td>
-<td>
-<p align="center">87 000</p>
+<td align="center">65 000<br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="center">H3</p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">65 000</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 </tbody>
@@ -778,106 +1135,82 @@ Pour la chaudière :
 
 Pour le contrat :
 
-Le  montant de kWh cumac attribué à la chaudière sur la base du tableau  précédent est augmenté en appliquant un facteur correctif suivant la  grille ci-dessous :
+Le  montant de kWh cumac attribué à la chaudière sur la base du tableau  précédent est augmenté en appliquant un facteur correctif selon la  grille figurant ci-dessous.
 
 <table>
 <tbody>
 <tr>
-<td>
-<br/>Durée du contrat<br/>
+<th>DURÉE DU CONTRAT<br/>
+</th>
+<th colspan="3">FACTEUR CORRECTIF<br/>
+</th>
+</tr>
+<tr>
+<td align="center">1 an<br/>
 </td>
-<td>
-<br/>Facteur correctif<br/>
+<td align="center">1,04<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">1 an</p>
+<td align="center">2 ans<br/>
 </td>
-<td>
-<p align="center">1,04</p>
+<td align="center">1,07<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">2 ans</p>
+<td align="center">3 ans<br/>
 </td>
-<td>
-<p align="center">1,07</p>
+<td align="center">1,10<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">3 ans</p>
+<td align="center">4 ans<br/>
 </td>
-<td>
-<p align="center">1,10</p>
+<td align="center">1,13<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">4 ans</p>
+<td align="center">5 ans<br/>
 </td>
-<td>
-<p align="center">1,13</p>
+<td align="center">1,16<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">5 ans</p>
+<td align="center">6 ans<br/>
 </td>
-<td>
-<p align="center">1,16</p>
+<td align="center">1,19<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">6 ans</p>
+<td align="center">7 ans<br/>
 </td>
-<td>
-<p align="center">1,19</p>
+<td align="center">1,22<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">7 ans</p>
+<td align="center">8 ans<br/>
 </td>
-<td>
-<p align="center">1,22</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">8 ans</p>
-</td>
-<td>
-<p align="center">1,24</p>
+<td align="center">1,24<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-08<br/>Chaudière individuelle de type basse température</div>
 
-Opération n° BAR-TH-08
-
-Chaudière individuelle de type basse température
-
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une chaudière individuelle de type basse température.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Mise en place réalisée par un professionnel.
+La mise en place est réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
-
-16 ans
+4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac
 
@@ -886,76 +1219,139 @@ Pour une maison individuelle :
 <table>
 <tbody>
 <tr>
-<td align="center">Zone <br/>climatique </td>
-<td align="center">Montant unitaire en <br/>kWh cumac </td>
-<td align="center"/>
-<td align="center">Facteur <br/>correctif </td>
-<td align="center">Surface habitable <br/>en m² </td>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="2">H1 </td>
-<td align="center" rowspan="2">40 000 </td>
-<td align="center"/>
-<td align="center"> 0,2</td>
-<td align="center">&lt; 35 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">40 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">0,4 </td>
-<td align="center">35 - 60 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="2">H2 </td>
-<td align="center" rowspan="2"> 34 000</td>
-<td align="center"> X</td>
-<td align="center">0,7 </td>
-<td align="center">60 - 80 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">34 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"> 0,9</td>
-<td align="center"> 80 - 100</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="2">H3 </td>
-<td align="center" rowspan="2">24 000 </td>
-<td align="center"/>
-<td align="center">1,1 </td>
-<td align="center">100 - 130 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">24 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">1,4 </td>
-<td align="center"> &gt; 130</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
 Pour un appartement :
 
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center">Montant unitaire en kWh cumac </td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
 </tr>
 <tr>
-<td align="center">H1  <br/>
+<td align="center">H1<br/>
 </td>
-<td align="center">21 000 </td>
+<td align="center">21 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2  <br/>
+<td align="center">H2<br/>
 </td>
-<td align="center">18 000 </td>
+<td align="center">18 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3  <br/>
+<td align="center">H3<br/>
 </td>
-<td align="center">14 000 </td>
+<td align="center">14 000<br/>
+</td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="left">
+<br/>
+</div>
 
 Certificats d'économies d'énergie
 
@@ -1039,33 +1435,40 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-09-SE<br/>Chaudière collective de type basse température avec contrat<br/>assurant le maintien du rendement énergétique de la chaudière</div>
 
-Opération n° BAR-TH-09-SE
-
-Chaudière collective de type basse température avec contrat assurant le maintien du rendement énergétique de la chaudière
-
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'une chaudière collective de type basse température  accompagnée d'un contrat de maintenance comportant un engagement de  maintien du rendement énergétique de la chaudière sur la durée du  contrat.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Pour la chaudière :
 
-- La mise en place doit être réalisée par un professionnel.
+La mise en place est réalisée par un professionnel.
 
 Pour le contrat :
 
--  Le contrat doit être établi avec un professionnel ayant une  qualification Qualibat 553 et 554 ou tout dispositif présentant des  spécifications techniques équivalentes.
+Le  contrat est établi avec un professionnel ayant une qualification  Qualibat 553 ou 554 ou tout dispositif présentant des spécifications  techniques équivalentes.
 
-- Le contrat doit porter  engagement du prestataire à maintenir le rendement énergétique de  l'appareil installé. Le rendement à maintenir sera défini à partir d'une  mesure après installation de l'appareil. Le rendement devra être, par  la suite, mesuré au moins une fois par an.
+Le contrat porte engagement du  prestataire à maintenir le rendement énergétique de l'appareil installé.  Le rendement à maintenir est défini à partir d'une mesure après  installation de l'appareil. Le rendement est, par la suite, mesuré au  moins une fois par an.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle :
 
 Chaudière : 21 ans.
 
@@ -1075,68 +1478,68 @@ Contrat : plafonnée à 8 ans.
 
 Pour la chaudière :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">Zone climatique</p>
-</td>
-<td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac pour un appartement)<br/>
+</th>
+<th>
 <br/>
-<div align="center">Montant en kWh <br/>cumac pour un <br/>appartement<br/>
-</div>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">32 000<br/>
+</td>
+<td align="center">
 <br/>
 </td>
-<td align="center"/>
-<td align="center"> Nombre d'appartements</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td>
-<p align="center">H1</p>
+<td align="center">H2<br/>
 </td>
-<td>
-<p align="center">32 000</p>
+<td align="center">27 000<br/>
 </td>
-<td align="center"/>
-<td align="center" rowspan="3"> N </td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
 </tr>
 <tr>
-<td>
-<p align="center">H2</p>
+<td align="center">H3<br/>
 </td>
-<td>
-<p align="center">27 000</p>
+<td align="center">20 000<br/>
 </td>
-<td align="center">X </td>
-</tr>
-<tr>
-<td>
-<p align="center">H3</p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">20 000</p>
+<td align="center">
+<br/>
 </td>
-<td align="center"/>
 </tr>
 </tbody>
 </table>
 
-</div>
+Pour le contrat :
 
-<div align="left">Pour le contrat :<br/>Le  montant de kWh cumac attribué à la chaudière sur la base du tableau  précédent est augmenté en appliquant un facteur correctif suivant la  grille ci-dessous :<br/>
-</div>
+Le  montant de kWh cumac attribué à la chaudière sur la base du tableau  précédent est augmenté en appliquant un facteur correctif selon la  grille figurant ci-dessous :
 
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center">Durée du contrat<br/>
-</td>
-<td align="center" colspan="6">Facteur correctif<br/>
-</td>
+<th>DURÉE DU CONTRAT<br/>
+</th>
+<th colspan="3">FACTEUR CORRECTIF<br/>
+</th>
 </tr>
 <tr>
 <td align="center">1 an<br/>
@@ -1188,9 +1591,24 @@ Pour la chaudière :
 </tr>
 </tbody>
 </table>
-
+</div>
+<div align="left">
+<br/>
 </div>
 
+<div align="center">
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+</div>
+
+<div align="left"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-10
@@ -1256,77 +1674,133 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+
+Certificats d'économies d'énergie
 
 Opération n° BAR-TH-11
 
 Régulation par sonde de température extérieure
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Maisons individuelles existantes.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une sonde de température extérieure.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 12 ans.
 
-12 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">Facteur correctif </td>
-<td align="center">Surface habitable en m² </td>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac pour une sonde)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="3"> Zone climatique </td>
-<td align="center" rowspan="3">  Montant en kWh <br/>cumac pour <br/>une sonde</td>
-<td align="center"/>
-<td align="center">0,2 </td>
-<td align="center"> &lt; 35</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">0,4 </td>
-<td align="center"> 35 - 60</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">0,7 </td>
-<td align="center">60 - 80 </td>
-</tr>
-<tr>
-<td align="center">H1 </td>
-<td align="center"> 9 400</td>
-<td align="center"/>
-<td align="center"> 0,9</td>
-<td align="center">80 - 100 </td>
-</tr>
-<tr>
-<td align="center">H2 </td>
-<td align="center">8 900 </td>
-<td align="center">X <br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"> 1,1</td>
-<td align="center">100 - 130 </td>
+<td align="center">9 400<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center">5 200 </td>
-<td align="center"/>
-<td align="center">1,4 </td>
-<td align="center">&gt; 130 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">8 900<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">5 200<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1337,57 +1811,79 @@ Opération n° BAR-TH-12
 
 Appareil indépendant de chauffage au bois
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un appareil indépendant de chauffage au bois.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Le rendement énergétique de l'équipement doit être supérieur ou égal à 70 %.
+Le rendement énergétique de l'équipement est supérieur ou égal à 70 %.
 
-La concentration en monoxyde de carbone doit être inférieure ou égale à 0,3 %.
+La concentration en monoxyde de carbone est inférieure ou égale à 0,3 %.
 
 Le rendement énergétique et la concentration en monoxyde de carbone sont mesurés selon les normes suivantes :
 
-- pour les poêles : norme NF EN 13240 ou NF D 35376 ou NF 14785 ou EN 15250 ;
+1° Pour les poêles : NF EN 13240 ou NF EN 13 229 ou NF 14785 ou EN 15250 ;
 
-- pour les foyers fermés, inserts de cheminées intérieures : norme NF EN 13229 ou NF D 35376 ;
+2° Pour les foyers fermés et inserts de cheminées intérieures : NF EN 13229 ou NF EN 13240 ou NF 14 785 ;
 
-- pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815 ou NF D 32301.
+3° Pour les inserts de cheminées intérieures à granulés de bois et à alimentation mécanique : norme NF EN 14785 ;
+
+4° Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12 815.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+Pour les actions engagées à partir du 1er janvier 2013, l'installateur doit, à la date de réalisation de l'opération :
 
-10 ans
+1° Etre titulaire de l'appellation QUALIBOIS ;
 
-5. Montant de certificats en kWh cumac
+2°  Ou disposer d'une qualification ou certification professionnelle dans  le domaine des appareils indépendants de chauffage au bois ;
+
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center"> Montant en kWh cumac</td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
 </tr>
 <tr>
-<td align="center"> H1</td>
-<td align="center">58 000 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">58 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H2</td>
-<td align="center">48 000 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">48 000<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H3</td>
-<td align="center">32 000 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">32 000<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-13
@@ -1439,6 +1935,15 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-14
@@ -1468,60 +1973,77 @@ La  production thermique annuelle nette de la chaudière due à la biomasse  (Pt
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="center"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-14-SE
 
-Chaufferie biomasse avec contrat assurant le maintien du rendement énergétique de la chaudière
+Chaufferie biomasse avec contrat assurant le maintien
 
-1. Secteur d'application
+du rendement énergétique de la chaudière
+
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'une chaufferie valorisant de la biomasse comme combustible  pour des besoins de chauffage et/ou d'eau chaude sanitaire, accompagnée  d'un contrat de maintenance comportant un engagement de maintien du  rendement énergétique de la chaudière sur la durée du contrat.
 
 Le rendement énergétique est mesuré à partir des normes NF EN 303.5 ou EN 12809.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Pour la chaufferie :
 
-- 	La production thermique annuelle nette de la chaudière due à la  biomasse (Pth) sera évaluée par une étude de faisabilité selon le cahier  des charges défini par l'ADEME ou selon tout autre référentiel  équivalent.
+La  production thermique annuelle nette de la chaudière due à la biomasse  (Pth) est évaluée par une étude de faisabilité selon le cahier des  charges défini par l'ADEME ou selon tout autre référentiel équivalent.
 
 Pour le contrat :
 
--	le contrat doit être établi  avec un professionnel ayant une qualification Qualibat 553 et 554 ou  tout dispositif présentant des spécifications techniques équivalentes ;
+1°  Le contrat est établi avec un professionnel ayant une qualification  Qualibat 553 ou 554 ou tout dispositif présentant des spécifications  techniques équivalentes ;
 
--	le contrat prévoit que le rendement énergétique de la chaufferie installée sera mesuré au moins une fois par an ;
+2° Le contrat prévoit que le rendement énergétique de la chaufferie installée est mesuré au moins une fois par an ;
 
-- 	le contrat doit comporter l'engagement du prestataire à maintenir le  rendement énergétique de la chaufferie installée. Le rendement à  maintenir sera défini à partir d'une mesure après installation.
+3°  Le contrat comporte l'engagement du prestataire à maintenir le  rendement énergétique de la chaufferie installée. Le rendement à  maintenir est défini à partir d'une mesure après installation.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle :
 
 Chaudière : 15 ans.
 
 Contrat : plafonnée à 8 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour la chaufferie :
 
-11,563 x P<sub>th</sub> (kWh/an)
-
-Pour le contrat :
-
-Le  montant de kWh cumac attribué à la chaudière sur la base du calcul  précédent est augmenté en appliquant le facteur correctif suivant :
+11,563 × P<sub>th</sub>(kWh/an)
 
 <div align="center">
 
+</div>
+
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Pour le contrat :<br/>Le  montant de kWh cumac attribué à la chaudière sur la base du calcul  précédent est augmenté en appliquant le facteur correctif suivant :</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center"> Durée du contrat</td>
-<td align="center"> Facteur correctif</td>
+<th>DURÉE DU CONTRAT<br/>
+</th>
+<th colspan="4">FACTEUR CORRECTIF<br/>
+</th>
 </tr>
 <tr>
 <td align="center">1 an<br/>
@@ -1573,13 +2095,15 @@ Le  montant de kWh cumac attribué à la chaudière sur la base du calcul  préc
 </tr>
 </tbody>
 </table>
-
+<br/>
 </div>
-
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-15
@@ -1641,6 +2165,15 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-16
@@ -1701,6 +2234,14 @@ Le montant est exprimé par m² de plancher chauffant.
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-17
@@ -1780,54 +2321,82 @@ Mise en place réalisée par un professionnel.
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-18
 
 Programmateur d'intermittence pour un chauffage individuel à combustible
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise  en place, sur une chaudière existante, d'un équipement ayant la  fonction de programmation d'intermittence, au sens de la norme EN  12098-5, pour un chauffage individuel à combustible.
+Mise  en place, sur une chaudière existante, d'un équipement ayant la  fonction de programmation d'intermittence, au sens de la norme EN  12098-5, pour un chauffage individel à combustible.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
-
-<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center"> Zone climatique</td>
-<td align="center"> Montant en kWh <br/>cumac pour un <br/>programmateur</td>
-<td/>
-<td align="center"> Facteur correctif</td>
-<td align="center"> Surface habitable en m²</td>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT<br/>(en kWh cumac pour un programmateur)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
 <td align="center">H1<br/>
 </td>
 <td align="center">28 000<br/>
 </td>
-<td align="center" rowspan="6">
-<br/>X<br/>
+<td align="center">
+<br/>
 </td>
 <td align="center">0,2<br/>
 </td>
-<td align="center">&lt; 35<br/>
+<td align="center">S &lt; 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
 </td>
 </tr>
 <tr>
@@ -1835,9 +2404,26 @@ Pour une maison individuelle :
 </td>
 <td align="center">23 000<br/>
 </td>
-<td align="center">0,4<br/>
+<td align="center">×<br/>
 </td>
-<td align="center">35 ― 60<br/>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
 </td>
 </tr>
 <tr>
@@ -1845,30 +2431,24 @@ Pour une maison individuelle :
 </td>
 <td align="center">15 000<br/>
 </td>
-<td align="center">0,7<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center">60 ― 80<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">0,9<br/>
-</td>
-<td align="center">80 ― 100<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
 <td align="center">1,1<br/>
 </td>
-<td align="center">100 ― 130<br/>
+<td align="center">100 ≤ S ≤ 130<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 <td align="center">1,4<br/>
 </td>
 <td align="center">&gt; 130<br/>
@@ -1877,13 +2457,17 @@ Pour une maison individuelle :
 </tbody>
 </table>
 
-</div>Pour un appartement :<div align="center">
+<div align="center">
+
+</div>Pour un appartement :
 
 <table>
 <tbody>
 <tr>
-<td align="center"> Zone climatique</td>
-<td align="center"> Montant unitaire en kWh cumac</td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
 </tr>
 <tr>
 <td align="center">H1<br/>
@@ -1894,7 +2478,7 @@ Pour une maison individuelle :
 <tr>
 <td align="center">H2<br/>
 </td>
-<td align="center">10 300<br/>
+<td align="center">10 000<br/>
 </td>
 </tr>
 <tr>
@@ -1906,10 +2490,22 @@ Pour une maison individuelle :
 </tbody>
 </table>
 
-</div>
-
 <div align="center"/>
 <div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-19
@@ -1965,74 +2561,139 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-20
 
 Programmateur d'intermittence centralisé pour un chauffage électrique
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise  en place d'un équipement ayant la fonction de programmation  d'intermittence, au sens de la norme EN 12098-5, pour un chauffage  électrique.
+Mise  en place, sur un chauffage électrique par effet Joule existant, d'un  équipement ayant la fonction de programmation d'intermittence, au sens  de la norme EN 12098-5, pour un chauffage individuel électrique.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle :
 
-15 ans
+15 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
 
 <table>
 <tbody>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">Facteur correctif <br/>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT<br/>(en kWh cumac pour un programmateur)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
 </td>
-<td align="center"> Surface habitable en m²</td>
+<td align="center">18 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="3"> Zone climatique</td>
-<td align="center" rowspan="3">Montant en kWh <br/>cumac pour un <br/>programmateur </td>
-<td align="center" rowspan="6">  X</td>
-<td align="center"> 0,2</td>
-<td align="center">&lt; 35 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> 0,4</td>
-<td align="center"> 35 - 60</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">14 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> 0,7</td>
-<td align="center"> 60 - 80</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H1</td>
-<td align="center"> 18 000</td>
-<td align="center"> 0,9</td>
-<td align="center"> 80 - 100</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">9 200<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center">14 000 </td>
-<td align="center">1,1 </td>
-<td align="center">100 - 130 </td>
-</tr>
-<tr>
-<td align="center">H3 </td>
-<td align="center"> 9 200</td>
-<td align="center">1,4 </td>
-<td align="center">&gt; 130 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -2042,23 +2703,28 @@ Pour un appartement :
 <table>
 <tbody>
 <tr>
-<td align="center"> Zone climatique <br/>
-</td>
-<td align="center">Montant unitaire en kWh cumac </td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th colspan="4">MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
 </tr>
 <tr>
-<td align="center"> H1</td>
-<td align="center">5 300 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">5 300<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H2 <br/>
+<td align="center">H2<br/>
 </td>
-<td align="center">4 400 </td>
+<td align="center">4 400<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3  <br/>
+<td align="center">H3<br/>
 </td>
-<td align="center">2 900 </td>
+<td align="center">2 900<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -2231,218 +2897,341 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-24
 
-Chauffe-eau solaire individuel (DOM)
+Chauffe-eau solaire individuel (France d'outre-mer)
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Maisons  individuelles existantes ou projets de construction de maisons  individuelles neuves et de parties nouvelles de maisons individuelles  existantes, qui font l'objet d'une demande de permis de construire ou  d'une déclaration préalable déposées avant le 1er mai 2010.
+Maisons  individuelles existantes en France d'outre-mer ou projets de  construction de maisons individuelles en France d'outre-mer neuves et de  parties nouvelles de maisons individuelles existantes, qui font l'objet  d'une demande de permis de construire ou d'une déclaration préalable  déposées avant le 1er mai 2010.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un chauffe-eau solaire individuel (CESI).
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les normes EN 12975 ou EN 12976 et établies par un organisme établi dans  l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+Les appareils possèdent des caractéristiques de performances validées :
 
-Mise en place réalisée par un  professionnel signataire de la charte Qualisol ou de la charte SOLEYEKO  ou tout dispositif présentant des spécifications techniques  équivalentes.
+- soit par la marque de certification : CSTBat ;
 
-4. Durée de vie conventionnelle
+- soit par la marque de certification : Solarkeymark ;
 
-12 ans.
+- soit par la marque de certification : NF CESI ;
 
-5. Montant de certificats en kWh cumac
+-  soit par des caractéristiques de performances et de qualité  équivalentes établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European co-operation for Accreditation  (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur doit, à la date de réalisation de l'opération :
+
+- être titulaire de l'appellation QUALISOL ;
+
+- ou signataire de la charte Soleyeko ;
+
+- ou disposer d'une qualification ou certification professionnelle dans le domaine des CESI ;
+
+-  ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 12 ans.
+
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Montant en <br/>kWh cumac / m2  de capteurs posés<br/>
-</td>
-<td align="center"/>
-<td align="center">Surface de capteurs <br/>posés en m² </td>
+<th>MONTANT<br/>(en kWh cumac/m² de capteurs posés)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>SURFACE DE CAPTEURS POSÉS<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center"> 6 300</td>
-<td align="center"> X</td>
-<td align="center"> S</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">6 300<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">S<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-25
 
 Ventilation mécanique contrôlée à double flux
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place d'une ventilation mécanique contrôlée (VMC) à double flux.
+Mise en place d'un système de ventilation mécanique contrôlée à double flux.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-En  installation individuelle, le réseau aéraulique peut passer dans les  combles avec des conduits isolés de 50 mm (idem RT 2005) ou en volume  chauffé.
+Mise en place réalisée par un professionnel.
 
-La centrale double flux :
+Pour les installations individuelles (maison ou appartement seul) :
 
--	a une  efficacité thermique de 85 % selon la norme EN 13141-7 et la somme des  puissances des deux ventilateurs est inférieure à 80 W ;
+Le  caisson double flux individuel est certifié NF ou possède des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent dans le cadre de  European co-operation for Accreditation (EA), coordination européenne  des organismes d'accréditation.
 
--	ou est certifiée NF VMC.
+Pour les installations collectives (plusieurs appartements desservis) :
 
-En  installation collective, l'échangeur peut être individuel ou collectif,  les ventilateurs sont collectifs, l'échangeur a une efficacité de 85 %  selon la norme EN 308. Les ventilateurs ont chacun une puissance  maximale de 0,25 W/(m3/h), filtres et échangeurs inclus. En cas de  présence de filtres F5 à F9, la puissance maximale est de 0,4 W/(m3/h)  par ventilateur.
+Le  caisson double flux est collectif. L'échangeur statique peut être  individuel ou collectif et doit avoir une efficacité supérieure ou égale  à 85 % selon la norme NF EN 308.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 16 ans.
 
-16 ans
-
-5. Montant de certificats en kWh cumac
-
-Pour une maison individuelle :
-
-<table>
-<tbody>
-<tr>
-<td align="center" rowspan="3">
-<p>Mode de </p>
-<p>chauffage </p>
-</td>
-<td align="center" rowspan="3">Zone <br/>climatique </td>
-<td align="center" colspan="2">Montant en kWh cumac </td>
-<td align="center" rowspan="9">  X</td>
-<td align="center" rowspan="3">Facteur <br/>correctif </td>
-<td align="center" rowspan="3">Surface <br/>habitable en m² </td>
-</tr>
-<tr>
-<td align="center" colspan="2">Ancienneté </td>
-</tr>
-<tr>
-<td align="center">Avant 1975 </td>
-<td align="center">Après 1975 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3"> Chauffage <br/>électrique </td>
-<td align="center">H1 <br/>
-</td>
-<td align="center">25 000 </td>
-<td align="center">6 300 </td>
-<td align="center">0,2 </td>
-<td align="center"> &lt; 35</td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
-</td>
-<td align="center">21 000 </td>
-<td align="center"> 5 100</td>
-<td align="center">0,4 </td>
-<td align="center"> 35 - 60</td>
-</tr>
-<tr>
-<td align="center">H3  <br/>
-</td>
-<td align="center">14 000 </td>
-<td align="center"> 3 400</td>
-<td align="center">0,7 </td>
-<td align="center">60 - 80 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3">Chauffage <br/>combustible </td>
-<td align="center">H1  <br/>
-</td>
-<td align="center">44 000 </td>
-<td align="center"> 16 000</td>
-<td align="center">0,9 </td>
-<td align="center">80 - 100 </td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
-</td>
-<td align="center">36 000 </td>
-<td align="center">13 000 </td>
-<td align="center">1,1 </td>
-<td align="center">100 - 130 </td>
-</tr>
-<tr>
-<td align="center">H3  <br/>
-</td>
-<td align="center">24 000 </td>
-<td align="center">8 500 </td>
-<td align="center">1,4 </td>
-<td align="center">&gt; 130 </td>
-</tr>
-</tbody>
-</table>
+5. Montant de certificats en kWh cumac :
 
 Pour un appartement :
 
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="3">
-<p>Mode de </p>
-<p>chauffage </p>
-</td>
-<td align="center" rowspan="3">Zone <br/>climatique </td>
-<td align="center" colspan="2">Montant en kWh cumac / logement</td>
-<td align="center" rowspan="9">  X</td>
-<td align="center" rowspan="3">Nombre de <br/>logements </td>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
 </tr>
 <tr>
-<td align="center" colspan="2">Ancienneté </td>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
 </tr>
 <tr>
-<td align="center">Avant 1975 </td>
-<td align="center">Après 1975 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3"> Chauffage <br/>électrique </td>
-<td align="center">H1 <br/>
+<td align="center">H1<br/>
 </td>
-<td align="center">14 000 </td>
-<td align="center">4 500<br/>
+<td align="center">13 350<br/>
 </td>
-<td align="center" rowspan="6"> N  <br/>
+<td align="center">24 050<br/>
 </td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
+<td align="center">×<br/>
 </td>
-<td align="center">14 000 </td>
-<td align="center"> 3 700<br/>
-</td>
-</tr>
-<tr>
-<td align="center">H3  <br/>
-</td>
-<td align="center">9 400 </td>
-<td align="center"> 2 400</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">Chauffage <br/>combustible </td>
-<td align="center">H1  <br/>
-</td>
-<td align="center">27 000 </td>
-<td align="center"> 12 000</td>
-</tr>
-<tr>
-<td align="center">H2  <br/>
-</td>
-<td align="center">22 000 </td>
-<td align="center">9 600<br/>
+<td align="center">N<br/>
 </td>
 </tr>
 <tr>
-<td align="center">H3  <br/>
+<td align="center">H2<br/>
 </td>
-<td align="center">15 000 </td>
-<td align="center">6 400<br/>
+<td align="center">10 900<br/>
+</td>
+<td align="center">19 700<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">7 250<br/>
+</td>
+<td align="center">13 150<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pour une maison individuelle :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">19 850<br/>
+</td>
+<td align="center">36 150<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">16 250<br/>
+</td>
+<td align="center">26 600<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">10 800<br/>
+</td>
+<td align="center">19 750<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
 </td>
 </tr>
 </tbody>
@@ -2452,91 +3241,493 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-26
 
-Ventilation mécanique contrôlée
-
-Simple flux autoréglable
+Ventilation mécanique contrôlée simple flux autoréglable
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles et appartements existant avant 1975.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux autoréglable.
+Mise en place d'un système de ventilation mécanique contrôlée (VMC) simple flux autoréglable.
 
 3. Conditions pour la délivrance de certificats :
 
-Le ventilateur de cette VMC a une puissance absorbée maximale de 35 W en maison individuelle et de 0,25 W/(m³/h) en collectif.
+Mise en place par un professionnel.
 
-Mise  en place réalisée par un professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de performance compatible avec les  performances de la VMC simple flux autoréglable.
+En  installation individuelle ou collective, les entrées d'air et les  bouches d'extraction autoréglables sont certifiées NF ou possèdent des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent dans le cadre de  European co-operation for Accreditation (EA), coordination européenne  des organismes d'accréditation.
 
-Information à fournir impérativement : ancienneté du bâtiment (avant 1975).
+Pour les installations individuelles (maison ou appartement seul) :
 
-4. Durée de vie conventionnelle :
+Le  caisson de VMC simple flux est certifié NF ou possède des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent dans le cadre de  European co-operation for Accreditation (EA), coordination européenne  des organismes d'accréditation.
 
-16 ans.
+Pour les installations collectives (plusieurs appartements desservis) :
+
+L'action  n'est applicable que sur des installations dont les conduits sont  compatibles avec les systèmes de ventilation mis en œuvre.
+
+4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+Pour un appartement :
 
-n° 303 du 31/12/2006 texte numéro 60
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
+</tr>
+<tr>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">9 500<br/>
+</td>
+<td align="center">16 500<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">7 500<br/>
+</td>
+<td align="center">13 500<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">5 000<br/>
+</td>
+<td align="center">9 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Vous pouvez consulter le tableau dans le JO
+Pour une maison individuelle :
 
-n° 303 du 31/12/2006 texte numéro 60
-
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">17 000<br/>
+</td>
+<td align="center">30 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">14 000<br/>
+</td>
+<td align="center">24 500<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">9 500<br/>
+</td>
+<td align="center">16 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-27
 
-Ventilation mécanique contrôlée
-
-Simple flux hygroréglable
+Ventilation mécanique contrôlée (VMC) simple flux hygroréglable
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une ventilation mécanique contrôlée (VMC) simple flux hygroréglable avec deux types d'équipement possibles :
+Mise  en place d'un système de ventilation mécanique contrôlée (VMC) simple  flux hygroréglable avec deux types d'équipements possibles :
 
-- type A : seules les bouches d'extraction sont hygroréglables ;
+- type A : seules les bouches d'extraction d'air sont hygroréglables ;
 
-- type B : les bouches d'extraction et les entrées d'air sont hygroréglables.
+- type B : les bouches d'extraction d'air et les entrées d'air sont hygroréglables.
 
 3. Conditions pour la délivrance de certificats :
 
-Les  systèmes de ventilation hygroréglable doivent bénéficier d'un avis  technique en cours de validité conformément aux exigences de la  certification CSTBat encadrée par le règlement thermique RT 035/00 ou  avoir des caractéristiques de performance et de qualité équivalentes  établies par un mode de preuve légal dans un Etat membre de l'Union  européenne ou un Etat partie à l'accord instituant l'Espace économique  européen ou en Turquie.
+Mise en place par un professionnel.
 
-Le ventilateur de cette VMC a une puissance absorbée maximale de 38 W en maison individuelle et de 0,25 W/(m³/h) en collectif.
+En  installation individuelle ou collective, les systèmes de ventilation  hygroréglables bénéficient d'un avis technique en cours de validité. Les  entrées d'air ou les bouches d'extraction hygroréglables sont  certifiées CSTBat ou possèdent des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF 45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
 
-Mise  en place réalisée par un professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de performance compatible avec les  performances de la VMC hygroréglable.
+Pour les installations individuelles (maison ou appartement seul) :
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 1975).
+Le  caisson de ventilation est certifié CSTBat ou possède des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français  d'accréditation (COFRAC) ou tout autre organisme d'accréditation  signataire de l'accord européen multilatéral pertinent dans le cadre de  European co-operation for Accreditation (EA), coordination européenne  des organismes d'accréditation.
 
-4. Durée de vie conventionnelle :
+Pour les installations collectives (plusieurs appartements desservis) :
 
-16 ans.
+L'action  n'est applicable que sur des installations dont les conduits sont  compatibles avec les systèmes de ventilation mis en œuvre.
+
+4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Pour le type A, application des forfaits suivants :
+Installation d'une VMC hygroréglable de type B :
 
-Vous pouvez consulter le tableau dans le JO
+Pour un appartement :
 
-n° 303 du 31/12/2006 texte numéro 60
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
+</tr>
+<tr>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">13 300<br/>
+</td>
+<td align="center">21 550<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">10 850<br/>
+</td>
+<td align="center">17 600<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">7 250<br/>
+</td>
+<td align="center">11 750<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Vous pouvez consulter le tableau dans le JO
+Pour une maison individuelle :
 
-n° 303 du 31/12/2006 texte numéro 60
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th colspan="2">ÉNERGIE DE CHAUFFAGE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+</tr>
+<tr>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>Electricité<br/>
+</th>
+<th>Combustible<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">19 700<br/>
+</td>
+<td align="center">32 850<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">16 100<br/>
+</td>
+<td align="center">26 900<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">10 750<br/>
+</td>
+<td align="center">17 900<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+Installation d'une VMC hygroréglable de type A :
 
-Pour le type B, les forfaits sont majorés de 10 %.
+Les montants qui s'appliquent sont ceux donnés en VMC hygroréglable de type B minorés de 10 %.
 
 <div align="left">Certificats d'économies d'énergie</div>
 
@@ -2591,99 +3782,165 @@ Le montant est exprimé par m² de Plancher Rayonnant Électrique ou de Plafond 
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-29
 
-Pompe à chaleur de type air / air
+Pompe à chaleur de type air/air
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une pompe à chaleur (PAC) de type air/air.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Coefficient  de performance (COP), mesuré selon la norme EN 14511-2 pour une  température d'évaporation de 7° C et une température de sortie d'air de  20° C, égal ou supérieur à 3,4.
+Coefficient  de Performance (COP), mesuré selon la norme EN 14511-2 : 2011 pour une  température d'évaporation de 7 °C et une température de sortie d'air de  20 °C, égal ou supérieur à 3,4.
 
 La pompe à chaleur a une  certification NF PAC ou Eurovent ou un label EHPA ou l'Eco-label  européen ou des caractéristiques de performance et de qualité  équivalentes établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European co-operation for Accreditation  (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour  les actions engagées à partir du 01/01/2011, l'installateur doit  obligatoirement être signataire de la charte QUALIPAC ou disposer d'une  qualification professionnelle dans le domaine des pompes à chaleur  aérothermiques.
+Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la date de réalisation de l'opération :
 
-4. Durée de vie conventionnelle
+1° Être titulaire de l'appellation QUALIPAC ;
 
-16 ans
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
 
-5. Montant de certificats en kWh cumac
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
 
 <table>
 <tbody>
 <tr>
-<td align="center">COP </td>
-<td align="center">Zone <br/>climatique </td>
-<td align="center">Montant <br/>unitaire en <br/>kWh cumac  </td>
-<td align="center"/>
-<td align="center"> Facteur <br/>correctif</td>
-<td align="center">Surface chauffée <br/>en m² </td>
+<th>COP<br/>
+</th>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE CHAUFFÉE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="3">3,6 &gt; COP ≥ 3,4 </td>
-<td align="center">H1 </td>
-<td align="center">120 000 </td>
-<td align="center"/>
-<td align="center">0,2 </td>
-<td align="center">&lt; 40 </td>
+<td align="center">3,6 &gt; COP ≥ 3,4<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">120 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center"> 98 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"/>
-<td align="center">0,4 </td>
-<td align="center">40 - 60 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">98 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center"> 65 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> X</td>
-<td align="center">0,7 </td>
-<td align="center">60 - 80 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">65 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="3"> COP ≥ 3,6</td>
-<td align="center"> H1 <br/>
+<td align="center">COP ≥ 3,6<br/>
 </td>
-<td align="center"> 130 000<br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"/>
-<td align="center">0,9 </td>
-<td align="center">80 - 100 </td>
+<td align="center">130 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2  <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 100 000<br/>
+<td align="center">H2<br/>
 </td>
-<td align="center"/>
-<td align="center">1,1 </td>
-<td align="center"> 100 - 130</td>
+<td align="center">100 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H3 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 69 000<br/>
+<td align="center">H3<br/>
 </td>
-<td align="center"/>
-<td align="center">1,4 </td>
-<td align="center"> &gt;130</td>
+<td align="center">69 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -2693,67 +3950,112 @@ Pour un appartement :
 <table>
 <tbody>
 <tr>
-<td align="center">COP </td>
-<td align="center">Zone <br/>climatique </td>
-<td align="center">Montant <br/>unitaire en <br/>kWh cumac  </td>
-<td align="center"/>
-<td align="center"> Facteur <br/>correctif</td>
-<td align="center">Surface chauffée <br/>en m² </td>
+<th>COP<br/>
+</th>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>MONTANT UNITAIRE<br/>(en kWh cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE CHAUFFÉE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="3">3,6 &gt; COP ≥ 3,4 </td>
-<td align="center">H1 </td>
-<td align="center">47 000 </td>
-<td align="center"/>
-<td align="center">0,3 <br/>
+<td align="center">3,6 &gt; COP ≥ 3,4<br/>
 </td>
-<td align="center">&lt; 40 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">47 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,3<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center"> 38 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"/>
-<td align="center">0,7 <br/>
+<td align="center">H2<br/>
 </td>
-<td align="center">40 - 60 </td>
+<td align="center">38 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center"> 25 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> X</td>
-<td align="center">1</td>
-<td align="center">60 - 80 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">25 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="3"> COP ≥ 3,6</td>
-<td align="center"> H1 <br/>
+<td align="center">COP ≥ 3,6<br/>
 </td>
-<td align="center"> 50 000<br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"/>
-<td align="center">1,4</td>
-<td align="center">80 - 100 </td>
+<td align="center">50 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2  <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 40 000<br/>
+<td align="center">H2<br/>
 </td>
-<td align="center"/>
-<td align="center">1,7 <br/>
+<td align="center">40 000<br/>
 </td>
-<td align="center"> 100 - 130</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,7<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H3 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 27 000<br/>
+<td align="center">H3<br/>
 </td>
-<td align="center"/>
-<td align="center">2,2</td>
-<td align="center"> &gt;130</td>
+<td align="center">27 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">2,2<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -2817,6 +4119,20 @@ C'ref  et C'projet sont les valeurs des coefficients  Cref et Cprojet de la  ré
 
 </div>
 
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-31
@@ -2857,88 +4173,151 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-32
 
 Caisson de ventilation mécanique contrôlée (VMC) à consommation réduite
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un caisson de ventilation mécanique contrôlée (VMC) à consommation réduite.
 
-3. Conditions pour la délivrance de certificats
+Dans  un appartement, les caissons de VMC sont considérés comme à basse  consommation , si leur puissance spécifique absorbée est inférieure à  0,25 W/(m³/h).
 
-Dans une maison individuelle, les caissons de VMC sont considérés comme  :
+Dans une maison individuelle, les caissons de VMC sont considérés comme :
 
-- à "consommation améliorée", si leur puissance spécifique absorbée est inférieure à 35 W ;
+- à consommation améliorée , si leur puissance spécifique absorbée est inférieure à 35 WThC ;
 
-- à "basse consommation", si leur puissance spécifique absorbée est inférieure à 25 W.
+- à basse consommation , si leur puissance spécifique absorbée est inférieure à 25 WThC.
 
-Dans  un appartement, les caissons de VMC sont considérés comme à "basse  consommation", si leur puissance spécifique absorbée est inférieure à  0,25 W/(m3/h).
+3. Conditions pour la délivrance de certificats :
 
-La valeur de consommation s'entend au sens des règles des Th-C.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 16 ans.
 
-16 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+Pour un appartement :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Appartement </td>
-<td align="center"> kWh cumac</td>
-</tr>
-<tr>
-<td align="center"> Caisson installé à basse consommation</td>
-<td align="center"> 1 900<br/>
+<td align="center">Caisson installé à basse consommation<br/>
 </td>
+<td align="center">1 900 kWh cumac</td>
 </tr>
 </tbody>
 </table>
+
+Pour une maison individuelle :
+
 <table>
 <tbody>
 <tr>
-<td align="center">Maison individuelle </td>
-<td align="center">kWh cumac </td>
-<td align="center"/>
-<td align="center">Facteur <br/>correctif </td>
-<td align="center">Surface habitable en <br/>m2 </td>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="3">Caisson installé à basse <br/>consommation </td>
-<td align="center" rowspan="3">3 200 </td>
-<td align="center" rowspan="6"> X </td>
-<td align="center">0,4 </td>
-<td align="center"> &lt; 40</td>
+<td align="center" rowspan="3">
+<br/>Caisson installé à basse consommation<br/>
+<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>3 200 kWh cumac<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">0,4</td>
-<td align="center"> 41 - 60</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ≤ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center">0,7 </td>
-<td align="center">61 - 80 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ≤ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="3"> Caisson installé à <br/>consommation améliorée </td>
-<td align="center" rowspan="3">  2 100</td>
-<td align="center">0,9 </td>
-<td align="center">81 - 100 </td>
+<td align="center" rowspan="3">
+<br/>Caisson installé à consommation améliorée<br/>
+<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>2 100 kWh cumac<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ≤ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center">1,1 </td>
-<td align="center"> 101 - 130</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ≤ S ≤ 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center">1,7 </td>
-<td align="center"> &gt; 130</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,7<br/>
+</td>
+<td align="center">&gt; 130</td>
 </tr>
 </tbody>
 </table>
@@ -2947,6 +4326,12 @@ Certificats d'économies d'énergie
 
 <div align="left">Opération n° BAR-TH-33</div>
 <div align="left">(Supprimé)</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <br/>
 </div>
@@ -3215,165 +4600,342 @@ Mise  en place réalisée par un professionnel signataire de la charte Qualisol 
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-36
 
-Programmateur d'intermittence pour un chauffage individuel avec pompe à chaleur existant
+Programmateur d'intermittence pour un chauffage individuel avec pompe à chaleur
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise  en place d'un programmateur d'intermittence à heures fixes sur un  système de chauffage individuel avec pompe à chaleur existante.
+Mise  en place, sur une pompe à chaleur existante, d'un équipement ayant la  fonction de programmation d'intermittence, au sens de la norme EN  12098-5, pour un chauffage individuel électrique ou combustible.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+Pour une maison individuelle :
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="3">Maison individuelle </td>
-<td align="center"/>
-<td align="center">Facteur <br/>correctif  </td>
-<td align="center">Surface <br/>habitable en m2 </td>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE HABITABLE<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center" rowspan="3">Zone climatique </td>
-<td align="center">H1 </td>
-<td align="center"> 6 900</td>
-<td align="center" rowspan="3"> X </td>
-<td align="center"> 0,2</td>
-<td align="center">&lt; 35 </td>
+<td align="center" rowspan="3">
+<br/>Zone climatique<br/>
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">6 900<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center">5 700 </td>
-<td align="center">0,4 </td>
-<td align="center">35 - 60 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">5 700<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ⩽ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center"> 3 800</td>
-<td align="center">0,7 </td>
-<td align="center">60 - 80 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">3 800<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ⩽ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">0,9 </td>
-<td align="center">80 - 100 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ⩽ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">1,1 </td>
-<td align="center">100 - 130 </td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ⩽ S ≤130<br/>
+</td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">1,4 </td>
-<td align="center"> &gt; 130</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td align="center" colspan="3"> Appartement</td>
-</tr>
-<tr>
-<td align="center" rowspan="3">Zone climatique </td>
-<td align="center">H1 </td>
-<td align="center">3 000 </td>
-</tr>
-<tr>
-<td align="center">H2 </td>
-<td align="center"> 2 400</td>
-</tr>
-<tr>
-<td align="center">H3 </td>
-<td align="center"> 1 600</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">S &gt; 130<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
-<div align="left">Certificats d'économies d'énergie</div>
+Pour un appartement :
+
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="3">
+<br/>Zone climatique<br/>
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">3 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">2 400<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">1 600</td>
+</tr>
+</tbody>
+</table>
+
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-37
 
-Raccordement d'un bâtiment résidentiel à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération
+Raccordement d'un bâtiment résidentiel à un réseau de chaleur alimenté
 
-1. Secteur d'application
+par des énergies renouvelables ou de récupération
+
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
-Raccordement d'un appartement existant à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
+Raccordement d'un bâtiment résidentiel à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Descriptif  du réseau de chaleur à fournir : moyens de production et énergies  utilisées sur les 3 dernières années (en précisant les éléments  spécifiques aux énergies renouvelables ou de récupération).
+Descriptif  du réseau de chaleur à fournir : moyens de production et énergies  utilisées sur les trois dernières années (en précisant les éléments  spécifiques aux énergies renouvelables ou de récupération).
 
 Mise en place réalisée par un professionnel.
 
-Application  de cette opération non cumulable avec l'application de l'opération  standardisée RES-CH-01  Production de chaleur renouvelable ou de  récupération en réseau (France métropolitaine) .
+Application  de cette opération non cumulable avec l'application de l'opération  standardisée RES-CH-01 Production de chaleur renouvelable ou de  récupération en réseau (France métropolitaine) .
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 20 ans.
 
-20 ans
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="5">Montant unitaire pour un appartement en kWh cumac </td>
+<th colspan="3">MONTANT UNITAIRE POUR UN APPARTEMENT<br/>(en kWh  cumac)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
 </tr>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center">Chauffage </td>
-<td align="center"> Chauffage et eau chaude sanitaire</td>
-<td rowspan="4"> X </td>
-<td rowspan="4"> T </td>
+<th>Zone climatique<br/>
+</th>
+<th>Chauffage<br/>
+</th>
+<th>Chauffage et ECS<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
 </tr>
 <tr>
-<td align="center">H1 </td>
-<td align="center">220 000 </td>
-<td align="center">280 000 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">220 000<br/>
+</td>
+<td align="center">280 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">T<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>N<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center">180 000 </td>
-<td align="center">230 000 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">180 000<br/>
+</td>
+<td align="center">230 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center">120 000 </td>
-<td align="center">150 000 </td>
+<td align="center">H3<br/>
+</td>
+<td align="center">120 000<br/>
+</td>
+<td align="center">150 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
-T  (%) correspond à la part des besoins couverts par les énergies  renouvelables ou de récupération, au sein du réseau de chaleur (et non  du bâtiment), avant ce nouveau raccordement.
+Avec  T = part des besoins couverts par les énergies renouvelables ou de  récupération, au sein du réseau de chaleur (et non du bâtiment), avant  ce nouveau raccordement.
 
+La valeur de T figurant ci-dessus est à considérer dans sa version décimale (donc 0,4 si T = 40 %).
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-38
@@ -3464,11 +5026,11 @@ Critères  de performances : cogénération à haut rendement avec attestation d
 
 TCB = Production thermique nette valorisée pour le chauffage / Besoins thermiques de   chauffage du bâtiment
 
-<div align="center">
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAR-TH-39</p>
-<p align="left">Pompe équipée d'un système<br/>de variation électronique de  vitesse<br/>
-</p>
+<div align="left">
+<p>Certificats d'économies d'énergie</p>
+<p>Opération n° BAR-TH-39</p>
+<p>Pompe équipée d'un système</p>
+<p>de variation électronique de  vitesse</p>
 </div>
 
 1. Secteur d'application :
@@ -3514,61 +5076,120 @@ Mise en place réalisée par un professionnel.
 </table>
 </div>
 <div align="center">
-<p align="left">Certificats d'économies d'énergie</p>
-<p align="left">Opération n° BAR-TH-40</p>
-<p align="left">Circulateur à rotor noyé de classe A</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° BAR-TH-40<br/>Circulateur à rotor noyé de Label Energie A</div>
 </div>
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : appartements  existants.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Installation  d'un  circulateur à rotor noyé de classe A dans un système collectif de  chauffage ou  de conditionnement d'ambiance.
+Installation d'un circulateur à rotor noyé de Label Energie A.
 
-3. Conditions pour la délivrance de  certificats :
+3. Conditions pour la délivrance de certificats :
 
-Mise en place réalisée par un professionnel.
+Seules les opérations engagées avant le 31 décembre 2012 donnent lieu à la délivrance de certificats d'économies d'énergie.
 
-4. Durée de vie conventionnelle :
+Mise en œuvre réalisée par un professionnel.
 
-10 ans.
+4. Durée de vie conventionnelle : 10 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac.
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center">ZONE CLIMATIQUE<br/>
-</td>
-<td align="center">MONTANT UNITAIRE<br/>en kWh cumac<br/>
-</td>
-<td align="center" rowspan="4">X<br/>
-</td>
-<td align="center">PUISSANCE DU MOTEUR EN kW<br/>
-</td>
+<th>PUISSANCE MOTEUR<br/>
+</th>
+<th>APPLICATION<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>MONTANT kWh<br/>cumac par kW<br/>de puissance moteur<br/>
+</th>
+<th>PUISSANCE<br/>du moteur en kW<br/>
+</th>
 </tr>
 <tr>
+<td align="center" rowspan="3">
+<br/>P ≤ 250 W<br/>
+<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>Chauffage, conditionnement d'ambiance<br/>
+<br/>
+</td>
 <td align="center">H1<br/>
 </td>
-<td align="center">27 000<br/>
+<td align="center">31 600<br/>
 </td>
-<td align="center" rowspan="3">P<br/>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">H2<br/>
 </td>
-<td align="center">25 000<br/>
+<td align="center">29 900<br/>
+</td>
+<td align="center">× P<br/>
 </td>
 </tr>
 <tr>
 <td align="center">H3<br/>
 </td>
-<td align="center">21 000<br/>
+<td align="center">25 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<br/>P &gt; 250 W<br/>
+<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>Chauffage, conditionnement d'ambiance<br/>
+<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">26 700<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">25 300<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">21 300<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 </tbody>
@@ -3576,49 +5197,48 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie</div>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>Certificats d'économies d'énergie
 
 Opération n° BAR-TH-41
 
-Climatiseur de classe A (DOM)
+Climatiseur de classe A (France d'outre-mer)
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Bâtiments résidentiels  existants dans les départements d'outre-mer.
+Bâtiments résidentiels existants en France d'outre-mer.
 
-2. Dénomination
+2. Dénomination :
 
 Remplacement  d'un climatiseur existant par un climatiseur fixe de classe A,  individuel (monosplit) ou regroupé (multisplit), pour des applications  dont les besoins en climatisation sont inférieurs ou égaux à 9 000 BTU/h  froid par pièce.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-L'appareil  a une certification Eurovent ou des caractéristiques de performance et  de qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
-
-Une attestation de dépose de l'ancien climatiseur doit être fournie par l'installateur.
+L'appareil  a une certification Eurovent ou des caractéristiques de performance et  de qualité équivalentes établies dans l'Espace économique européen et  accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le  Comité français d'accréditation (COFRAC) ou tout autre organisme  d'accréditation signataire de l'accord européen multilatéral pertinent  pris dans le cadre de European co-operation for Accreditation (EA),  coordination européenne des organismes d'accréditation.
 
 Mise en place par un professionnel.
 
-4. Durée de vie conventionnelle
+Une attestation de dépose de l'ancien climatiseur doit être fournie par le professionnel.
 
-9 ans.
+4. Durée de vie conventionnelle : 9 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="5">Montant en kWh cumac<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p>Puissance de l'appareil </p>
-<p>en BTU/h</p>
-</td>
-<td align="center">4,5 &gt; COP ≥ 3,2<br/>
-</td>
-<td align="center" colspan="3">COP ≥ 4,5<br/>
-</td>
+<th>PUISSANCE DE L'APPAREIL<br/>en BTU/h<br/>
+</th>
+<th>4,5 &gt; COP ≥ 3,2<br/>
+</th>
+<th colspan="3">COP ≥ 4,5<br/>
+</th>
 </tr>
 <tr>
 <td align="center">7 000<br/>
@@ -3633,16 +5253,26 @@ Mise en place par un professionnel.
 </td>
 <td align="center">7 400<br/>
 </td>
-<td align="center">17 000<br/>
-</td>
+<td align="center">17 000</td>
 </tr>
 </tbody>
 </table>
+</div>
 
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
-<div align="left"> Certificats d'économies d'énergie</div>
+<div align="center"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-42
 
@@ -3694,40 +5324,50 @@ Opération n° BAR-TH-43
 
 Système solaire combiné
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Maisons existantes.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place d'un système solaire combiné .
+Mise en place d'un système solaire combiné.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les  appareils ont une certification CSTBat ou Solarkeymark ou des  caractéristiques de performance et de qualité équivalentes basées sur  les normes EN 12975 ou EN 12976 et établies par un organisme établi dans  l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+L'appareil  a une certification CSTBat ou Solarkeymark ou des caractéristiques de  performance et de qualité équivalentes basées sur les normes EN 12975 ou  EN 12976 et établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European co-operation for Accreditation  (EA), coordination européenne des organismes d'accréditation.
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol.
+Mise en place réalisée par un professionnel.
 
-Le  système sera couplé à des émetteurs de chauffage de type basse  température permettant une optimisation de la valorisation de l'énergie  solaire.
+Le professionnel doit, à la date de réalisation de l'opération :
 
-4. Durée de vie conventionnelle
+1° Etre titulaire de l'appellation QUALISOL ;
 
-15 ans.
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des systèmes solaires ;
 
-5. Montant de certificats en kWh cumac
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+Le  professionnel atteste que le système est couplé à des émetteurs de  chauffage de type basse température permettant une optimisation de la  valorisation de l'énergie solaire.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Montant en kWh cumac / m2 </td>
-<td align="center"/>
-<td align="center">Surface de capteurs en m2 </td>
+<th>MONTANT<br/>en kWh cumac/m²<br/>
+</th>
+<td/>
+<th>SURFACE DE CAPTEURS<br/>(m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="center">4 050 </td>
-<td align="center"> X  <br/>
+<td align="center">4 050<br/>
 </td>
-<td align="center"> S</td>
+<td align="center">×<br/>
+</td>
+<td align="center">S<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -3736,19 +5376,21 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-44
 
-Chaudière individuelle de type micro-cogénération à moteur Stirling
+Chaudière individuelle de type micro-cogénération
 
-1. Secteur d'application
+à moteur Stirling
+
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une chaudière individuelle de type micro-cogénération à moteur Stirling.
 
-Une  chaudière à micro-cogénération à combustible liquide ou gazeux est un  générateur, asservi aux besoins de chauffage et éventuellement d'eau  chaude sanitaire, assurant la totalité des besoins de chauffage du  logement et produisant simultanément de l'électricité.
+Une  chaudière à micro-cogénération à combustible liquide ou gazeux à moteur  Stirling est un générateur, asservi aux besoins de chauffage et  éventuellement d'eau chaude sanitaire, assurant la totalité des besoins  de chauffage du logement et produisant simultanément de l'électricité.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Les chaudières à micro-cogénération respectent les deux conditions suivantes :
 
@@ -3758,175 +5400,277 @@ Les chaudières à micro-cogénération respectent les deux conditions suivantes
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 16 ans.
 
-16 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Pour une maison individuelle :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Maison individuelle </td>
-<td align="center">Zone <br/>climatique </td>
-<td align="center"> kWh cumac</td>
-<td align="center"/>
-<td align="center">Facteur correctif  </td>
-<td align="center">Surface habitable en <br/>m2 </td>
+<th>
+<br/>
+</th>
+<th>ZONE<br/>climatique<br/>
+</th>
+<th>kWh<br/>cumac<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>FACTEUR<br/>correctif<br/>
+</th>
+<th>SURFACE<br/>habitable (m²)<br/>
+</th>
 </tr>
 <tr>
-<td align="left" rowspan="3"> Chauffage </td>
-<td align="center">H1 </td>
-<td align="center"> 91 000<br/>
+<td align="center">Chauffage<br/>
 </td>
-<td align="center"/>
-<td align="center">0,2 </td>
-<td align="center">&lt; 35 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">91 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+<td align="center">S &lt; 35<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center"> 74 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"/>
-<td align="center">0,4 </td>
-<td align="center">35 - 60 </td>
+<td align="center">H2<br/>
+</td>
+<td align="center">74 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+<td align="center">35 ⩽ S &lt; 60<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center"> 50 000<br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"/>
-<td align="center">0,7 </td>
-<td align="center"> 60 - 80</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">50 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,7<br/>
+</td>
+<td align="center">60 ⩽ S &lt; 80<br/>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="3">
-<div>Chauffage + eau chaude <br/>
-</div>sanitaire accumulée </td>
-<td align="center">H1 <br/>
+<td align="center">Chauffage + eau chaude sanitaire accumulée<br/>
 </td>
-<td align="center"> 110 000<br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"> X</td>
-<td align="center">0,9 </td>
-<td align="center">80 - 100 </td>
+<td align="center">110 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+<td align="center">80 ⩽ S &lt; 100<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H2 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 91 000<br/>
+<td align="center">H2<br/>
 </td>
-<td align="center"/>
-<td align="center">1,1 </td>
-<td align="center">100 - 130 </td>
+<td align="center">91 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,1<br/>
+</td>
+<td align="center">100 ⩽ S &lt; 130<br/>
+</td>
 </tr>
 <tr>
-<td align="center"> H3 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 61 000<br/>
+<td align="center">H3<br/>
 </td>
-<td align="center"/>
-<td align="center">1,4 </td>
-<td align="center"> &gt; 130</td>
+<td align="center">61 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1,4<br/>
+</td>
+<td align="center">&gt; 130<br/>
+</td>
 </tr>
 <tr>
-<td align="left" rowspan="3">Chauffage + eau chaude <br/>sanitaire instantanée </td>
-<td align="center">H1  <br/>
+<td align="center">Chauffage + eau chaude sanitaire instantannée<br/>
 </td>
-<td align="center"> 110 000<br/>
+<td align="center">H1<br/>
 </td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="center">110 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2  <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 87 000<br/>
+<td align="center">H2<br/>
 </td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="center">87 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3  <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 59 000<br/>
+<td align="center">H3<br/>
 </td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="center">59 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
 
 Pour un appartement :
 
+<div align="left">
 <table>
 <tbody>
 <tr>
-<td align="center">Appartement </td>
-<td align="center">Zone climatique </td>
-<td align="center"> kWh cumac</td>
+<th>
+<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>kWh cumac<br/>
+</th>
 </tr>
 <tr>
-<td align="left" rowspan="3"> Chauffage </td>
-<td align="center">H1 </td>
-<td align="center"> 48 000<br/>
+<td align="center">Chauffage<br/>
 </td>
-</tr>
-<tr>
-<td align="center">H2 </td>
-<td align="center">  39 000<br/>
+<td align="center">H1<br/>
 </td>
-</tr>
-<tr>
-<td align="center">H3 </td>
-<td align="center">  26 000<br/>
+<td align="center">48 000<br/>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3">Chauffage + eau chaude sanitaire <br/>accumulée</td>
-<td align="center">H1 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center">  65 000<br/>
+<td align="center">H2<br/>
 </td>
-</tr>
-<tr>
-<td align="center"> H2 <br/>
-</td>
-<td align="center">  53 000<br/>
+<td align="center">39 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> H3 <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 36 000<br/>
+<td align="center">H3<br/>
 </td>
-</tr>
-<tr>
-<td align="left" rowspan="3">Chauffage + eau chaude sanitaire <br/>instantanée</td>
-<td align="center">H1  <br/>
-</td>
-<td align="center"> 62 000<br/>
+<td align="center">26 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">H2  <br/>
+<td align="center">Chauffage + eau chaude sanitaire accumulée<br/>
 </td>
-<td align="center"> 51 000<br/>
+<td align="center">H1<br/>
+</td>
+<td align="center">65 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">H3  <br/>
+<td align="center">
+<br/>
 </td>
-<td align="center"> 34 000<br/>
+<td align="center">H2<br/>
+</td>
+<td align="center">53 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">36 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chauffage + eau chaude sanitaire instantanée<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">62 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">51 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">34 000<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="left">
+<br/>
+</div>
 
 Certificats d'économies d'énergie
 
@@ -3950,7 +5694,7 @@ Les dossiers de demande doivent comporter les éléments A et B suivants.
 
 A  - Une synthèse de l'audit énergétique avec les mentions des valeurs  suivantes, déterminées par le moteur de calcul TH-C-E ex. :
 
--	La  consommation conventionnelle (en kWh/m²/an) du bâtiment pour le  chauffage, le refroidissement, la production d'eau chaude sanitaire,  l'éclairage, les auxiliaires de chauffage, de refroidissement, d'eau  chaude sanitaire et de ventilation :
+- 	La consommation conventionnelle (en kWh/m²/an) du bâtiment pour le  chauffage, le refroidissement, la production d'eau chaude sanitaire,  l'éclairage, les auxiliaires de chauffage, de refroidissement, d'eau  chaude sanitaire et de ventilation :
 
 1.	d'énergie primaire, avant les travaux de rénovation : Cep initial ;
 
@@ -4036,7 +5780,7 @@ b est une coefficient réglementaire relatif à l'altitude :
 
 Les  valeurs décrivant la performance du bâtiment après travaux  (consommation en énergie primaire et finale, Ubât projet) doivent  correspondre aux travaux effectivement mis en œuvre.
 
-Le cas  échéant, si les travaux mis en œuvre ne permettent pas d'atteindre la  performance calculée par l'audit énergétique préalable, il appartient au  demandeur de mettre à jour les calculs thermiques sur la base des  travaux effectifs, sa responsabilité étant engagée sur ce point.
+Le  cas échéant, si les travaux mis en œuvre ne permettent pas d'atteindre  la performance calculée par l'audit énergétique préalable, il appartient  au demandeur de mettre à jour les calculs thermiques sur la base des  travaux effectifs, sa responsabilité étant engagée sur ce point.
 
 4. Durée de vie conventionnelle
 
@@ -4056,51 +5800,88 @@ Opération n° BAR-TH-46
 
 Système de production d'eau chaude sanitaire collective de type pompe à chaleur sur capteur solaire non vitré
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Bâtiments résidentiels collectifs existants.
+Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise  en place d'un système de production d'eau chaude sanitaire (ECS)  collective de type pompe à chaleur (PAC) sur capteur solaire non vitré.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Le capteur fait l'objet d'une certification CSTBat ou équivalent.
+3.1.  Coefficient de performance (COP) de la pompe à chaleur (PAC) pour une  température d'entrée de l'évaporateur de 10 °C et une température de  sortie de l'eau de 50 °C égal ou supérieur à 3. La méthodologie de  l'essai est conforme à la norme EN 14511.
 
-La  pompe à chaleur fait l'objet d'un procès-verbal d'essais, par un  laboratoire indépendant, montrant les performances suivantes :
+3.2. Le bon  fonctionnement de l'appareil est mesuré conformément à la norme 14511-4  et attesté par un procès-verbal d'essai pour les conditions de T °C  définies ci dessous :
 
--  coefficient de performance (COP), mesuré pour une température d'entrée  de l'évaporateur de 10°C  et une température de sortie d'eau de 50°C,  égal ou supérieur à 3 ;
+- limite basse : température  d'entrée de l'évaporateur inférieure ou égale à - 5 °C et température de  sortie d'eau condenseur supérieure ou égale à 65 °C ;
 
-- point de bon fonctionnement  validé sur le régime de température d'entrée de l'évaporateur de -5°C   et une température de sortie d'eau de 65°C ;
+-  limite haute : température d'entrée de l'évaporateur supérieure ou  égale à 50 °C et une température de sortie d'eau de supérieure ou égale à  65 °C.
 
-- point de  bon fonctionnement validé sur le régime de température d'entrée de  l'évaporateur de 50°C  et une température de sortie d'eau de 65°C.
+3.3. Les capteurs possèdent des caractéristiques de performances évaluées selon la norme NF EN 12975-2 et validées :
 
-La  mise en place est réalisée par un professionnel signataire de la charte  QUALIPAC ou qui dispose d'une qualification professionnelle équivalente  dans le domaine de la pompe à chaleur (par exemple : Qualibat,  Qualiclimafroid ou Qualifelec Electrothermie TH1, TH2 ou TH3).
+- soit par un avis technique valide du CSTB ;
 
-4. Durée de vie conventionnelle
+- soit par la marque de certification : CSTBat ;
 
-20 ans.
+- soit par la marque de certification Solarkeymark ;
 
-5. Montant de certificats en kWh cumac
+-  soit par des caractéristiques de performances et de qualité  équivalentes établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European cooperation for Accreditation.
+
+3.4. L'installateur doit, à la date de réalisation de l'opération :
+
+1° Etre titulaire de l'appellation QUALIPAC ;
+
+2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
+
+3°  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="center">Zone climatique </td>
-<td align="center">kWh cumac par logement </td>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>kWh cumac<br/>par appartement<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>NOMBRE D'APPARTEMENTS<br/>
+</th>
 </tr>
 <tr>
-<td align="center">H1 </td>
-<td align="center">19 000 </td>
+<td align="center">H1<br/>
+</td>
+<td align="center">19 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>N<br/>
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H2 </td>
-<td align="center"> 17 000</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">17 000<br/>
+</td>
+<td align="center">×<br/>
+</td>
 </tr>
 <tr>
-<td align="center">H3 </td>
-<td align="center"> 15 000</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">15 000<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -4146,3 +5927,517 @@ Les  équipements sont conformes à la marque NF douche pour robinetterie ou  NF
 </tr>
 </tbody>
 </table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-48
+
+Chauffe-eau thermodynamique individuel
+
+à accumulation
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants.
+
+2. Dénomination :
+
+Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
+
+3. Conditions pour la délivrance de certificats :
+
+L'appareil  a une certification NF Electricité performance ou des caractéristiques  de performance équivalentes établies par un organisme dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European Co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p align="center">MONTANT   EN kWh CUMAC POUR UN APPARTEMENT</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">12 000  </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p align="center">MONTANT   EN kWh CUMAC POUR UNE MAISON INDIVIDUELLE</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">17 200 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-49
+
+Système hydro-économe (France métropolitaine)
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants en métropole.
+
+2. Dénomination :
+
+Mise  en place d'une pomme de douche hydro-économe (débit réduit) ou mise en  place de régulateurs de jet sur le robinet de l'évier ou du lavabo.
+
+3. Conditions pour la délivrance de certificats :
+
+Le  matériel est conforme aux normes NF de robinetterie sanitaire : norme  NF EN 246 pour les régulateurs de jets et norme NF EN 1112 pour les  douches pour robinetterie sanitaire.
+
+Le matériel choisi doit être répertorié dans les classes de débit suivantes :
+
+- Z (7,5 à 9 litres/minute) de la norme EN NF 246 pour les régulateurs de jets ;
+
+- Z (7,2 à 12 litres/minute) de la norme EN NF 1112 pour les douches.
+
+4. Durée de vie conventionnelle : 6 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p align="center">DOUCHE</p>
+</td>
+<td>
+<p align="center">LAVABO</p>
+</td>
+<td>
+<p align="center">ÉVIER</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">MONTANT EN kWh CUMAC PAR MATÉRIEL INSTALLÉ</p>
+</td>
+<td>
+<p align="center">2 000</p>
+</td>
+<td colspan="2">
+<p align="center">530</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-50
+
+Pompe à chaleur collective à absorption
+
+de type air/eau ou eau/eau
+
+1. Secteur d'application :
+
+Appartements existants.
+
+2. Dénomination :
+
+Mise  en place d'une pompe à chaleur (PAC) collective à absorption de type  air/eau ou eau/eau fonctionnant au gaz naturel ou au propane.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient de performance (COP) mesuré selon la norme EN 12309 pour des températures d'entrée et de sortie de :
+
+- PAC air/eau : 7 °C (A)/35 °C (E) ;
+
+- PAC eau/eau ou PAC eau glycolée/eau : 10 °C (E)/35 °C (E).
+
+Ce COP est égal ou supérieur à 1,3.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+COP ≥ 1,3 :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">ZONE   CLIMATIQUE</p>
+</td>
+<td>
+<p align="center">CHAUFFAGE</p>
+</td>
+<td>
+<p align="center">CHAUFFAGE   ET ECS</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p align="center">NOMBRE</p>
+<p align="center">d'appartements</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H1</p>
+</td>
+<td>
+<p align="center">110 000</p>
+</td>
+<td>
+<p align="center">140 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H2</p>
+</td>
+<td>
+<p align="center">91 000</p>
+</td>
+<td>
+<p align="center">115 000</p>
+</td>
+<td>
+<p align="center">×</p>
+</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H3</p>
+</td>
+<td>
+<p align="center">60 000</p>
+</td>
+<td>
+<p align="center">77 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+COP ≥ 1,6 :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">ZONE   CLIMATIQUE</p>
+</td>
+<td>
+<p align="center">CHAUFFAGE</p>
+</td>
+<td>
+<p align="center">CHAUFFAGE   ET ECS</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p align="center">NOMBRE</p>
+<p align="center">d'appartements</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H1</p>
+</td>
+<td>
+<p align="center">130 000</p>
+</td>
+<td>
+<p align="center">160 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H2</p>
+</td>
+<td>
+<p align="center">110 000</p>
+</td>
+<td>
+<p align="center">130 000</p>
+</td>
+<td>
+<p align="center">×</p>
+</td>
+<td>
+<p align="center"> N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H3</p>
+</td>
+<td>
+<p align="center">73 000</p>
+</td>
+<td>
+<p align="center">89 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-51
+
+Chaudière de type basse température couplée à une ventilation
+
+mécanique contrôlée pilotée par la chaudière
+
+1. Secteur d'application :
+
+Appartements existants.
+
+2. Dénomination :
+
+Mise  en place d'une chaudière de type basse température couplée à une  ventilation mécanique contrôlée (VMC), neuve ou existante, pilotée par  la chaudière.
+
+3. Conditions pour la délivrance de certificats :
+
+L'ensemble doit être certifié Certigaz.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">ZONE   CLIMATIQUE</p>
+</td>
+<td>
+<p align="center">kWh   CUMAC</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<p align="center">NOMBRE   D'APPARTEMENTS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H1</p>
+</td>
+<td>
+<p align="center">54 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H2</p>
+</td>
+<td>
+<p align="center">44 000</p>
+</td>
+<td>
+<p align="center">×</p>
+</td>
+<td>
+<p align="center">N</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">H3</p>
+</td>
+<td>
+<p align="center">30 000</p>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-52
+
+Chauffe-eau électrique
+
+à accumulation de catégorie C
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants.
+
+2. Dénomination :
+
+Mise en place d'un chauffe-eau électrique à accumulation certifié NF Electricité performance de catégorie C.
+
+3. Conditions pour la délivrance de certificats :
+
+L'appareil  a une certification NF Electricité performance catégorie C ou des  caractéristiques de performance et de qualité équivalentes établies par  un organisme établi dans l'Espace économique européen et accrédité selon  les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français  européen multilatéral pertinent pris dans le cadre de European  Co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour une maison individuelle :
+
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p align="center">MONTANT   EN kWh CUMAC PAR CHAUFFE-EAU ÉLECTRIQUE</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">2 700 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pour un appartement :
+
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p align="center">MONTANT   EN kWh CUMAC PAR CHAUFFE-EAU ÉLECTRIQUE</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">1 900 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-53
+
+Chauffe-eau thermodynamique individuel
+
+à accumulation (France d'outre-mer)
+
+1. Secteur d'application :
+
+Maisons individuelles et appartements existants en France d'outre-mer.
+
+2. Dénomination :
+
+Mise en place d'un chauffe-eau thermodynamique individuel à accumulation.
+
+3. Conditions pour la délivrance de certificats :
+
+L'appareil  a une certification NF Electricité performance ou des caractéristiques  de performance et de qualité équivalentes établies par un organisme  établi dans l'Espace économique européen et accrédité selon les normes  NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français européen  multilatéral pertinent pris dans le cadre de European Co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<p align="center">MONTANT   EN kWh CUMAC PAR CHAUFFE-EAU</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">13 000 </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>

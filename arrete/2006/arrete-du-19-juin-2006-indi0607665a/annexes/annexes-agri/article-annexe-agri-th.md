@@ -41,41 +41,47 @@ Opération n° AGRI-TH-02
 
 Ballon de stockage d'eau chaude
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Agriculture : serres maraîchères et horticoles.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un ballon de stockage d'eau chaude.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-La capacité du ballon est adaptée aux caractéristiques de la serre.
+Mise en place réalisée par un professionnel.
 
-Mise en place par un professionnel.
+4. Durée de vie conventionnelle : 15 ans.
 
-4. Durée de vie conventionnelle
-
-15 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 <table>
 <tbody>
 <tr>
-<td align="left">Montant de kWh cumac par m² de serre chauffé </td>
+<td align="center">MONTANT EN kWh CUMAC<p>par m² de serre chauffé</p>
+</td>
+<td align="center"/>
+<td align="center">SURFACE DE SERRE CHAUFFÉE<p>(m²)</p>
+</td>
+</tr>
+<tr>
 <td align="center"> 170</td>
+<td align="center">x <br/>
+</td>
+<td align="center">S <br/>
+</td>
 </tr>
 </tbody>
 </table>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
 <div align="left"/>
 <div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° AGRI-TH-03
@@ -103,3 +109,278 @@ Pré-refroidisseur  de lait validé par le Comité Technique dédié et composé
 5. Montant de certificats en kWh cumac
 
 Production annuelle laitière de l'exploitation agricole (en litres) x 0,114 (kWh cumac/litre)
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-04
+
+Récupérateur de chaleur sur un groupe de production
+
+de froid hors tanks à lait
+
+1. Secteur d'application :
+
+Agriculture.
+
+2. Dénomination :
+
+Mise  en place d'un système de récupération de chaleur sur un groupe de  production de froid afin de chauffer ou préchauffer de l'eau ou de  l'air. Cette fiche ne s'applique pas aux tanks à lait pour lesquels il  existe une autre fiche d'opération standardisée d'économies d'énergie.
+
+3. Conditions pour la délivrance de certificats :
+
+L'installation est réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+L'installation est équipée d'un refroidisseur d'huile :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Récupération pour valorisation de la chaleur du condenseur<br/>
+</td>
+<td align="center">42 500 x P<sub>compresseur(s)</sub>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Récupération pour valorisation de la chaleur du  désurchauffeur<br/>
+</td>
+<td align="center">7 100 x P<sub>compresseur(s)</sub>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Récupération pour valorisation de la chaleur du refroidisseur  d'huile<br/>
+</td>
+<td align="center">7 100 x P<sub>compresseur(s)</sub>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'installation n'est pas équipée d'un refroidisseur d'huile :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Récupération pour valorisation de la chaleur du condenseur<br/>
+</td>
+<td align="center">42 500 x P<sub>compresseur(s)</sub>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Récupération pour valorisation de la chaleur du  désurchauffeur<br/>
+</td>
+<td align="center">14 200 x P<sub>compresseur(s)</sub>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+P<sub>compresseur(s)</sub> est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+
+Si la chaleur est récupérée sur 2 ou 3 des organes du groupe froid, les certificats sont cumulables.
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-05
+
+Récupérateur de chaleur sur un tank à lait
+
+1. Secteur d'application :
+
+Agriculture.
+
+2. Dénomination :
+
+Installation  d'un récupérateur de chaleur dans une exploitation agricole laitière,  au niveau du groupe frigorifique du tank à lait, pour le chauffage de  l'eau utilisée dans la laiterie (nettoyage de l'installation de traite,  vaisselle de traite, alimentation des veaux, etc.).
+
+3. Conditions pour la délivrance de certificats :
+
+Installation réalisée par un professionnel.
+
+Récupérateur  de chaleur sur tank à lait validé par le comité technique dédié et  composé du Centre national interprofessionnel de l'économie laitière  (CNIEL), de l'Institut de l'élevage et du GIE lait-viande Bretagne.
+
+Justification  de la production laitière de l'exploitation de l'année qui précède la  demande de certificats d'économies d'énergie ou référence "N" sur la  base du dernier décompte annuel de livraison à la laiterie.
+
+4. Durée de vie conventionnelle : 12 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<th>MONTANT<br/>(en kWh cumac par litre de lait)<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>Référence laitière annuelle de l'exploitation<br/>(en litre)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">0,124<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">N<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-06
+
+Chaufferie biomasse
+
+1. Secteur d'application :
+
+Serres maraîchères et horticoles, neuves ou existantes.
+
+2. Dénomination :
+
+Mise  en place d'une chaufferie valorisant de la biomasse comme combustible  pour des besoins de chauffage des cultures sous serres.
+
+3. Conditions pour la délivrance de certificats :
+
+La  production thermique annuelle nette de la chaudière due à la biomasse  (Pth) sera évaluée par une étude de faisabilité selon le cahier des  charges défini par l'ADEME ou FranceAgriMer.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pth (kWh/an) × 11,563
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-07
+
+Pompe à chaleur de type eau/eau ou air/eau
+
+1. Secteur d'application :
+
+Agriculture.
+
+2. Dénomination :
+
+Mise  en place d'une pompe à chaleur (PAC) de type eau/eau ou air/eau pour le  chauffage de bâtiments d'élevage d'une exploitation porcine.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient  de performance (COP) égal ou supérieur à 3 mesuré conformément aux  conditions de performance nominales de la norme EN 14511-2 : 2011 pour  une température à la sortie de l'échangeur thermique intérieur de 55 °C.
+
+La  pompe à chaleur a une certification NF PAC ou un label EHPA ou  l'Eco-label européen ou des caractéristiques de performance et de  qualité équivalentes établies par un organisme établi dans l'Espace  économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et  NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout  autre organisme d'accréditation signataire de l'accord européen  multilatéral pertinent pris dans le cadre de European Co-operation for  Accreditation (EA), coordination européenne des organismes  d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur doit, à la date de la réalisation de l'opération :
+
+1. Etre titulaire de l'appellation QUALIPAC ;
+
+2.  Ou disposer d'une qualification ou certification professionnelle dans  le domaine des pompes à chaleur aérothermiques ou géothermiques ;
+
+3.  Ou disposer d'une qualification ou d'une certification professionnelle  équivalente délivrée par tout organisme respectant les conditions de  délivrance définies par la norme NF X50-091.
+
+L'installateur atteste sur l'honneur du nombre de places chauffées en maternité et/ou en post-sevrage.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>ZONE CLIMATIQUE<br/>
+</th>
+<th>
+<br/>
+</th>
+<th colspan="2">COP DE LA PAC<br/>installée<br/>
+</th>
+</tr>
+<tr>
+<td align="center">Nombre de places de maternité chauffées par la PAC<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">10 171<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">1,1 (H1)<br/>
+</td>
+<td align="center">×<br/>
+</td>
+<td align="center">0,692<br/>
+</td>
+<td align="center">3,5 &gt; COP ≥ 3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Nombre de places de post-sevrage chauffées par la PAC<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">1 160<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,9 (H2)<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,733<br/>
+</td>
+<td align="center">4 &gt; COP ≥ 3,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,6 (H3)<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">0,75<br/>
+</td>
+<td align="center">COP ≥ 4<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Le nombre de kWh cumac à délivrer correspond à la somme des deux usages.

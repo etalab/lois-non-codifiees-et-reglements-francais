@@ -4,50 +4,28 @@ Certificats d'économies d'énergie
 
 Opération n° IND-BA-01
 
-Détecteur de présence sur un dispositif d'éclairage
-
-1. Secteur d'application :
-
-Industrie.
-
-2. Dénomination :
-
-Installation d'un détecteur de présence sur un dispositif d'éclairage artificiel intérieur équipé de tube(s) fluorescent(s).
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-10 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+<div align="left">(Supprimé)</div>
 
 Certificats d'économies d'énergie
 
 Opération n° IND-BA-02
 
 <div align="left">(Supprimé)</div>
-<div align="center"/>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
 Opération n° IND-BA-03
 
 <div align="left">(Supprimé)</div>
-<div align="center"/>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
 Opération n° IND-BA-04
 
 <div align="left">(Supprimé)</div>
-<div align="center"/>
+<div align="left"/>
 
 Certificats d'économies d'énergie
 
@@ -127,8 +105,8 @@ Sans objet.
 
 5. Montant de  certificats en kWh cumac :
 
-<div align="center">
-
+<div align="left">
+<br/>
 <table>
 <tbody>
 <tr>
@@ -169,10 +147,11 @@ Sans objet.
 </tr>
 </tbody>
 </table>
-
 </div>
-<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-BA-08</p>
-<p>Système de mise au repos automatique<br/>de blocs  autonomes d'éclairage de sécurité<br/>
+<div align="center">
+<div align="left">Certificats d'économies d'énergie </div>
+<p align="left">Opération n° IND-BA-08</p>
+<p align="left">Système de mise au repos automatique<br/>de blocs  autonomes d'éclairage de sécurité<br/>
 </p>
 </div>
 
@@ -194,8 +173,8 @@ Installation réalisée par un professionnel.
 
 6. Montant de certificats en kWh cumac :
 
-<div align="center">
-
+<div align="left">
+<br/>
 <table>
 <tbody>
 <tr>
@@ -232,7 +211,6 @@ Installation réalisée par un professionnel.
 </tr>
 </tbody>
 </table>
-
 </div>
 
 N : nombre de blocs commandés par l'automatisme de mise au repos.
@@ -260,8 +238,8 @@ Sans objet.
 
 5. Montant de certificats  en kWh cumac :
 
-<div align="center">
-
+<div align="left">
+<br/>
 <table>
 <tbody>
 <tr>
@@ -309,10 +287,184 @@ Sans objet.
 </tr>
 </tbody>
 </table>
-
 </div>
 
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° IND-BA-10<br/>Dé-stratificateur d'air</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left">
+<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Mise en place d'un dé-stratificateur ou brasseur pour l'homogénéisation de la température de l'air d'un local industriel.<br/>3. Conditions pour la délivrance des certificats :<br/>
+</div>Le dé-stratificateur ou brasseur est équipé d'un thermostat.<br/>Le local industriel a une hauteur d'au moins 5 mètres et est chauffé par aérothermes.<br/>4. Durée de vie conventionnelle : 15 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center" rowspan="2">ZONE<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">HAUTEUR DU LOCAL h<br/>(en mètres)<br/>
+</td>
+<td align="center"/>
+<td align="center" rowspan="2">RÉGIME<br/>de fonctionnement<br/>
+</td>
+<td align="center" rowspan="2">MONTANT<br/>(en kWh cumac)<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">5 ≤ h &lt; 10 </td>
+<td align="center">h ≥ 10 </td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">P </td>
+<td align="center">× </td>
+<td align="center">H1 </td>
+<td align="center">1,0 <br/>
+</td>
+<td align="center">2,7 <br/>
+</td>
+<td align="center">× </td>
+<td align="center">1 x 8 h </td>
+<td align="center"> 1 500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">H2 </td>
+<td align="center"> 1,1</td>
+<td align="center"> 3,1</td>
+<td align="center"/>
+<td align="center">2 x 8 h </td>
+<td align="center">3 000</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center">H3 </td>
+<td align="center"> 1,4</td>
+<td align="center"> 3,7</td>
+<td align="center"/>
+<td align="center">3 x 8 h avec arrêt le week-end </td>
+<td align="center"> 3 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">3 x 8 h sans arrêt le week-end </td>
+<td align="center"> 4 500</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="left"/>
+<div align="left">Avec  P la puissance de chauffage en kW de l'aérotherme assurant le chauffage  du local et h la hauteur sous plafond ou sous faîtage du local en  mètres. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie<br/>Opération n° IND-BA-11<br/>Luminaire avec ballast efficace avec ou sans système<br/>de gestion sur un dispositif d'éclairage</div>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Installation  d'un luminaire avec ballast associé ou non à un dispositif de contrôle  utilisant la détection de présence ou/et la variation automatique de la  puissance du luminaire en fonction des apports naturels de lumière.<br/>3. Conditions pour la délivrance de certificats :<br/>Le  ballast a un indice d'efficacité énergétique au sens de la directive  2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009  établissant un cadre pour la fixation d'exigences en matière  d'écoconception applicables aux produits liés à l'énergie :<br/>- A1 ou A1 bat pour les luminaires équipés d'un système de variation ;<br/>- A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.<br/>La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.<br/>4. Durée de vie conventionnelle : 15 ans.<br/>5. Montant de certificats en kWh cumac :</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td align="center">MODE DE FONCTIONNEMENT DU SITE </td>
+<td align="center">1 x 8 h </td>
+<td align="center">2 x 8 h </td>
+<td align="center">3 x 8 h<br/>avec arrêt<br/>
+<div>le week-end<br/>
+</div>
+</td>
+<td align="center">3 x 8 h<br/>sans arrêt<br/>le week-end<br/>
+</td>
+<td align="center"/>
+<td align="center">
+<div> PUISSANCE<br/>de l'installation<br/>
+</div>(kW)<br/>
+</td>
+</tr>
+<tr>
+<td align="center"> Luminaire avec ballast électronique</td>
+<td align="center"> 4 370<br/>
+</td>
+<td align="center">8 100 <br/>
+</td>
+<td align="center">10 040 <br/>
+</td>
+<td align="center"> 13 600<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p>Ballast électronique et variation automatique </p>
+<p>ou détecteur de présence </p>
+</td>
+<td align="center"> 11 240<br/>
+</td>
+<td align="center"> 15 610<br/>
+</td>
+<td align="center"> 16 130<br/>
+</td>
+<td align="center"> 21 850<br/>
+</td>
+<td align="center"> ×</td>
+<td align="center">P </td>
+</tr>
+<tr>
+<td align="center">Ballast électronique et variation automatique <br/>et détecteur de présence </td>
+<td align="center"> 14 050<br/>
+</td>
+<td align="center"> 20 810<br/>
+</td>
+<td align="center"> 19 350<br/>
+</td>
+<td align="center"> 26 220<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="center"/>
-<div align="center"/>
-<div align="center"/>
+<div align="left"/>
 <div align="center"/>
