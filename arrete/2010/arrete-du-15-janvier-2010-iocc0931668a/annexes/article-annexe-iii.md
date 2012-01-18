@@ -1,71 +1,143 @@
 # Article Annexe III
 
-DÉROULEMENT ET PROGRAMME DE L'ÉPREUVE D'ENTRETIEN AVEC LE JURY
+UNITÉS DE VALEUR DE TECHNIQUES PROFESSIONNELLES (UV N° 1)
 
-L'entretien avec le jury se déroule dans les conditions suivantes :
+Programme de l'épreuve du parcours professionnel
 
-Equipements administratifs :
+Atelier n° 1
 
-Le candidat se présente en tenue d'uniforme muni de son arme de dotation mise en sécurité, à l'étui. Il est porteur de ses équipements administratifs, sauf dispositions contraires, conformément au décret n° 2004-1439 du 23 décembre 2004.
+Procédures de prise de service
 
-Les fonctionnaires exerçant habituellement leurs fonctions en civil pourront se présenter en tenue civile.
+Encadrement de la réalisation des procédures d'emploi, de perception et de mise en service d'une arme de poing et d'une arme d'épaule.
 
-Notation :
+Encadrement de l'utilisation des terminaux de phonie ACROPOL dans le cadre des procédures de perception et de mise en service ainsi que de celles inhérentes au trafic radio liées aux opérations de prise d'écoute et d'annonce de départ en mission.
 
-Notation sur 80 points se répartissant de la manière suivante :
+Atelier n° 2
 
-50 points pour l'exposé portant sur l'analyse de la mission reçue et sur son exploitation opérationnelle ;
+Techniques et sécurité en intervention
 
-30 points pour le questionnement portant sur la maîtrise de l'ensemble des compétences et pratiques professionnelles requises par la fonction de brigadier-chef.
+Encadrement de l'application des techniques d'intervention adaptées aux différentes interventions de police :
 
-Durée :
+- respect des placements et distances ;
 
-Temps de préparation de l'épreuve par le candidat : 20 minutes.
+- principes généraux de sécurité et d'action ;
 
-Temps d'entretien du candidat avec le jury : 20 minutes.
+- palpation/ menottage ;
 
-Déroulement :
+- principes généraux de surveillance d'une personne appréhendée ;
 
-A partir d'un thème professionnel, tiré au sort dans la spécialité choisie parmi les suivantes, le candidat débute l'épreuve par un exposé portant sur l'analyse de la mission reçue ou de la situation rencontrée ainsi que sur l'exploitation opérationnelle qu'elle nécessite :
+- moyens de conduite d'un individu ;
 
-- paix publique ;
+- transport d'individu et escorte de détenus ;
 
-- investigation-renseignement ;
+- principes généraux de progression ;
 
-- ordre public ;
+- interventions par patrouilles pédestres ou portées ;
 
-- migrations frontières.
+- conflit dans un lieu privé ;
 
-Programme :
+- intervention dans un établissement à caractère financier ou commercial ;
 
-Programme commun aux spécialités :
+- intervention sur un flagrant délit de cambriolage ;
 
-Procédures de prise et de fin de service intégrant l'identification des différentes composantes du système ACROPOL et la connaissance des principes de fonctionnement dans le respect des règles de procédure.
+- intervention dans un débit de boissons ;
 
-Techniques professionnelles.
+- intervention sur un forcené retranché.
 
-Armement et emploi des armes.
+Encadrement de l'application des techniques spécifiques aux interventions dans les quartiers difficiles :
 
-Premiers secours en intervention.
+- placements et distances ;
 
-Connaissances juridiques et déontologiques associées à l'intervention de police.
+- palpation/ menottage ;
 
-Programme des spécialités :
+- patrouilles pédestres ;
 
-- paix publique :
+- principes généraux de progression ;
 
-- l'intervention de police en matière de circulation routière ;
+- utilisation des moyens de défense intermédiaires ;
 
-- l'intervention de police en matière de sécurité, de tranquillité et de salubrité publiques ;
+- gestion tactique des renforts ;
 
-- investigation-renseignement : connaissance des techniques et procédures d'investigation ;
+- contrôle et interpellation d'individu (s) à bord de véhicule ;
 
-- ordre public : les techniques de service d'ordre, de maintien et de rétablissement de l'ordre ;
+- sécurisation des points hauts ;
 
-- migrations frontières :
+- sécurisation et intervention dans un hall d'entrée d'immeuble ;
 
-- l'intervention de police en matière d'escorte des éloignés par la voie aérienne ;
+- interpellation et soustraction de l'auteur d'un délit réfugié au sein d'un groupe ;
 
-- l'intervention de police dans le cadre d'une réquisition du commandant de bord lors d'un incident survenu durant le vol.
+- faire face à une situation qui dégénère ;
 
-A l'issue de l'exposé, durant les dix minutes restantes, le jury questionne le candidat afin de vérifier si les acquis de son expérience dans le domaine des techniques professionnelles et collectives correspondent aux aptitudes et compétences exigées par les fonctions de brigadier-chef.
+- escorte et sécurisation des sapeurs-pompiers en intervention ;
+
+- intervenir face à des chiens dangereux ;
+
+- conduite à tenir en cas de découverte d'objet suspect ou d'engin explosif improvisé ;
+
+- formatage des messages radio ;
+
+- s'intégrer dans un dispositif collectif d'intervention.
+
+Techniques de défense et d'interpellation
+
+Encadrement de l'application des techniques de défense adaptées dans le cadre d'une intervention de police :
+
+- coups frappés ;
+
+- esquives, parades, dégagements ;
+
+- défenses sur agression avec arme par destination ;
+
+- défenses sur attaque avec arme contondante, tranchante ou perforante ;
+
+- maîtrise et contrôle d'individu en situation de police ;
+
+- dégagement sur saisie.
+
+Atelier n° 3
+
+Armement et parcours de tir
+
+Armement :
+
+- connaissance des généralités en armement et des principes de fonctionnement d'une arme ;
+
+- connaissance des mécanismes liés à la mise en service de l'arme administrative ainsi que de son cycle de fonctionnement, les règles d'entretien et de stockage ;
+
+- connaissance des instructions générales émanant de la direction générale de la police nationale et définissant les modalités d'emploi des armes en dotation individuelle et collective ;
+
+- connaissance du régime juridique des armes et identification d'une éventuelle infraction dans une situation de police.
+
+Parcours de tir :
+
+Epreuve pratique d'emploi de l'arme sur un parcours de tir en respectant les principes de sécurité :
+
+- tir avec l'arme de poing individuelle en dotation.
+
+Atelier n° 4
+
+Premiers secours en intervention
+
+Encadrement de l'application des conduites à tenir et gestes de premiers secours adaptés aux différents types d'interventions de police :
+
+- protection/ alerte ;
+
+- victime qui s'étouffe ;
+
+- victime qui saigne abondamment ;
+
+- victime inconsciente qui respire ;
+
+- victime inconsciente qui ne respire pas ;
+
+- victime consciente qui se plaint d'un malaise ;
+
+- victime consciente qui se plaint d'un traumatisme.
+
+Atelier n° 5
+
+Procédures de fin de service
+
+Encadrement de la réalisation des procédures d'emploi de mise en sécurité et de réintégration d'une arme de poing et d'une arme d'épaule.
+
+Encadrement de l'utilisation des terminaux de phonie ACROPOL dans le cadre des procédures de fin de service et de réintégration ainsi que de celles inhérentes au trafic radio liées aux opérations de fin d'écoute.

@@ -1,139 +1,225 @@
 # Article Annexe II
 
-PROGRAMME DE L'ÉPREUVE DU PARCOURS PROFESSIONNEL
+LISTE DES FAUTES ÉLIMINATOIRES ENTRAÎNANT LA NOTE ZÉRO ET L'ÉLIMINATION DU CANDIDAT À L'UV 1 SELON LE TYPE D'ARME
 
-Atelier n° 1
+Armes de poing
 
-Procédures de prise de service
+PA SIG SAUER SP 2022
 
-Encadrement de la réalisation des procédures d'emploi, de perception et de mise en service d'une arme de poing et d'une arme d'épaule.
+a) Perception :
 
-Encadrement de l'utilisation des terminaux de phonie ACROPOL dans le cadre des procédures de perception et de mise en service ainsi que de celles inhérentes au trafic radio liées aux opérations de prise d'écoute et d'annonce de départ en mission.
+Déplacement avec une arme prise en main présentant une configuration dangereuse qui laisse présumer d'un possible départ de coup de feu :
 
-Atelier n° 2
+- absence de témoin de chambre vide ou non-accrochage de la culasse sur la clé arrêtoir ;
 
-Techniques professionnelles
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
 
-Gestes et techniques professionnels d'intervention
+- pontet et détente non protégés par la main du porteur de l'arme, canon dirigé vers le haut ;
 
-Encadrement de l'application des gestes et techniques professionnels adaptés aux différentes interventions de police :
+- canon non dirigé vers le haut.
 
-- respect des placements et distances ;
+Ordre chronologique non respecté au moment du contrôle de l'arme :
 
-- principes généraux de sécurité et d'action ;
+1. Vérification de la vacuité du puits de chargeur.
 
-- palpation, menottage ;
+2. Réalisation de deux  coups de sécurité  tout en vérifiant à chaque fois la vacuité de la chambre et du puits de chargeur.
 
-- principes généraux de surveillance d'une personne appréhendée ;
+3. Désarmement du marteau par l'intermédiaire du levier de désarmement.
 
-- moyens de conduite d'un individu ;
+b) Mise en service :
 
-- transport d'individu et escorte de détenus ;
+- approvisionnement de l'arme avec un chargeur vide ;
 
-- principes généraux de progression ;
+- absence de cartouche chambrée ;
 
-- interventions par patrouilles pédestres ou portées.
+- absence de contrôle visuel et tactile du chargement réalisé de l'arme ;
 
-Encadrement de l'application des gestes et techniques professionnels adaptés aux différentes interventions de police dans un lieu public ou privé :
+- désarmement du marteau d'une autre manière que celle consistant à utiliser le levier de désarmement ;
 
-- conflit dans un lieu privé ;
+- placement de l'arme à l'étui marteau à l'armé ;
 
-- intervention dans un établissement à caractère financier ou commercial ;
+- non-positionnement vertical de l'étrier de sécurité destiné à la rétention de l'arme dans l'étui.
 
-- intervention sur un flagrant délit de cambriolage ;
+c) Mise en sécurité :
 
-- intervention dans un débit de boissons ;
+- retrait du chargeur non effectué avant le retrait de la cartouche chambrée ;
 
-- intervention sur un forcené retranché.
+- retrait de la cartouche chambrée non effectué ou non conforme à la technique validée par la DTSI ;
 
-Encadrement de l'application des gestes et techniques professionnels d'intervention adaptés aux interventions de police dans les quartiers difficiles :
+- accrochage de la culasse non réalisé lors du retrait de la cartouche chambrée ;
 
-- placements et distances ;
+- absence de contrôle ou contrôle incomplet de l'arme.
 
-- palpation/menottage ;
+d) Réintégration :
 
-- patrouilles pédestres ;
+Déplacement et réintégration d'une arme présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
 
-- principes généraux de progression ;
+- absence de témoin de chambre vide ou non-accrochage de la culasse sur la clé arrêtoir ;
 
-- utilisation des moyens intermédiaires de défense ;
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
 
-- gestion tactique des renforts ;
+- pontet et détente non protégés par la main du porteur de l'arme, canon dirigé vers le haut ;
 
-- contrôle et interpellation d'individu(s) à bord de véhicule ;
+- canon non dirigé vers le haut.
 
-- sécurisation des points hauts ;
+PA GLOCK, modèle 17 et modèle 26
 
-- sécurisation et intervention dans un hall d'entrée d'immeuble ;
+a) Perception :
 
-- interpellation et soustraction de l'auteur d'un délit réfugié au sein d'un groupe ;
+Déplacement avec une arme prise en main présentant une configuration dangereuse qui laisse présumer d'un possible départ de coup de feu :
 
-- faire face à une situation qui dégénère ;
+- non-accrochage de la culasse sur la clé arrêtoir ;
 
-- escorte et sécurisation des sapeurs-pompiers en intervention ;
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
 
-- intervenir face à des chiens dangereux ;
+- pontet et détente non protégés par la main du porteur de l'arme, canon dirigé vers le haut ;
 
-- conduite à tenir en cas de découverte d'objet suspect ou d'engin explosif improvisé ;
+- canon non dirigé vers le haut.
 
-- formatage des messages radio ;
+Ordre chronologique non respecté au moment du contrôle de l'arme :
 
-- s'intégrer dans un dispositif collectif d'intervention.
+1. Vérification de la vacuité du puits de chargeur.
 
-Self-défense
+2. Réalisation de deux  coups de sécurité  tout en vérifiant à chaque fois la vacuité de la chambre et du puits de chargeur.
 
-Encadrement de l'application des techniques de défense adaptées dans le cadre d'une intervention de police :
+b) Mise en service :
 
-- les coups frappés en situation d'opposition ;
+- approvisionnement de l'arme avec un chargeur vide ;
 
-- esquives, parades, dégagements, avec ou sans contrôle final de l'individu ;
+- absence de cartouche chambrée ;
 
-- défenses sur agression avec arme par destination ;
+- absence de contrôle visuel du chargement réalisé de l'arme par court recul de l'ensemble culasse/ canon ;
 
-- défenses sur attaque avec arme de perforation ;
+- absence de mise en place du dispositif de rétention de l'arme au niveau de l'étui si celui-ci en est pourvu.
 
-- maîtrise et contrôle d'individu en situation de police ;
+c) Mise en sécurité :
 
-- dégagement sur saisie.
+- retrait du chargeur non effectué avant le retrait de la cartouche chambrée ;
 
-Atelier n° 3
+- retrait de la cartouche chambrée non effectué ou non conforme à la technique validée par la DTSI ;
 
-Armement et emploi des armes
+- accrochage de la culasse non réalisé lors du retrait de la cartouche chambrée ;
 
-Armement
+- absence de contrôle ou contrôle incomplet de l'arme ;
 
-Connaissance des généralités en armement et des principes de fonctionnement d'une arme.
+- absence de désarmement des mécanismes de percussion.
 
-Connaissance des mécanismes liés à la mise en service de l'arme administrative ainsi que de son cycle de fonctionnement, les règles d'entretien et de stockage.
+d) Réintégration :
 
-Connaissance du régime juridique des armes et identification d'une éventuelle infraction dans une situation de police.
+Déplacement et réintégration d'une arme présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
 
-Emploi des armes
+- non-accrochage de la culasse sur la clé arrêtoir ;
 
-Epreuve pratique d'emploi de l'arme sur un parcours de tir en respectant les principes de sécurité : tir avec l'arme de poing individuelle.
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
 
-Atelier n° 4
+- pontet et détente non protégés par la main du porteur de l'arme, canon dirigé vers le haut ;
 
-Premiers secours en intervention
+- canon non dirigé vers le haut.
 
-Encadrement de l'application des conduites à tenir et gestes de premiers secours adaptés aux différents types d'interventions de police :
+Armes d'épaule
 
-- protection, alerte ;
+PM Beretta 12SD
 
-- victime qui s'étouffe ;
+a) Perception :
 
-- victime qui saigne abondamment ;
+Déplacement avec une arme prise en main présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
 
-- victime inconsciente qui respire ;
+- culasse ouverte et non ramenée vers l'avant ;
 
-- victime inconsciente qui ne respire pas ;
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
 
-- victime consciente qui se plaint d'un malaise ;
+- positionnement incorrect des mains (mauvaise préhension des deux poignées, index et majeur de la main tenant la poignée postérieure non placés le long du pontet) ;
 
-- victime consciente qui se plaint d'un traumatisme.
+- canon de l'arme non dirigé vers le haut.
 
-Atelier n° 5
+Ordre chronologique non respecté au moment du contrôle de l'arme :
 
-Procédures de fin de service
+1. Vérification de la vacuité du puits de chargeur.
 
-Encadrement de la réalisation des procédures d'emploi de mise en sécurité et de réintégration d'une arme de poing et d'une arme d'épaule. Encadrement de l'utilisation des terminaux de phonie ACROPOL dans le cadre des procédures de fin de service et de réintégration, ainsi que de celles inhérentes au trafic radio liées aux opérations de fin d'écoute.
+2. Réalisation de deux  coups de sécurité  tout en vérifiant à chaque fois la vacuité de la chambre et du puits de chargeur.
+
+3. Après le second  coup de sécurité , conservation de la culasse vers l'avant en position fermée.
+
+b) Mise en service :
+
+- approvisionner l'arme en engageant un chargeur vide (le non-contrôle de l'accrochage du chargeur n'est pas éliminatoire mais entraîne la perte de 0,5 point) ;
+
+- armement de la culasse ;
+
+- positionnement du sélecteur sur une lettre autre que  I  ( S  ou  R ).
+
+c) Mise en sécurité :
+
+- retrait du chargeur non effectué avant tout contrôle de l'arme ;
+
+- non-réalisation ou réalisation incomplète de deux  coups de sécurité  consistant à chaque fois à vérifier la vacuité de la chambre et du puits de chargeur ;
+
+- conservation de la culasse vers l'arrière en position ouverte après le second  coup de sécurité .
+
+d) Réintégration :
+
+Déplacement et réintégration d'une arme prise en main présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
+
+- culasse ouverte et non ramenée vers l'avant ;
+
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
+
+- positionnement incorrect des mains (mauvaise préhension des deux poignées, index et majeur de la main tenant la poignée postérieure non placés le long du pontet) ;
+
+- canon de l'arme non dirigé vers le haut ;
+
+- remise de l'arme, culasse  à l'armé  (ramenée vers l'arrière) ;
+
+- restitution de l'arme avec sélecteur positionné sur une lettre autre que  S  ( I  ou  R ).
+
+Mousqueton AMD
+
+a) Perception :
+
+Déplacement avec une arme prise en main présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
+
+- culasse fermée et non ramenée vers l'arrière ;
+
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
+
+- canon de l'arme non dirigé vers le haut.
+
+Ordre chronologique non respecté au moment du contrôle de l'arme :
+
+1. Vérification de la vacuité du puits de chargeur.
+
+2. Réalisation de deux  coups de sécurité  tout en vérifiant à chaque fois la vacuité de la chambre et du puits de chargeur.
+
+3. Après le second  coup de sécurité , conservation de la culasse vers l'avant en position fermée et désarmement du marteau par action sur la détente.
+
+b) Mise en service :
+
+- approvisionner l'arme en engageant un chargeur vide (le non-contrôle de l'accrochage du chargeur n'est pas éliminatoire mais entraîne la perte de 0,5 point) ;
+
+- armer l'AMD en actionnant la culasse ;
+
+- placer la sûreté manuelle ;
+
+- positionner le sélecteur sur le chiffre ou la lettre autre que le chiffre  1  (position semi automatique au coup par coup), c'est-à-dire sur  3  (rafale courte) ou  L  (rafale longue).
+
+c) Mise en sécurité :
+
+- retrait du chargeur non effectué avant tout contrôle de l'arme ;
+
+- non-réalisation ou réalisation incomplète de deux  coups de sécurité  consistant à chaque fois à vérifier la vacuité de la chambre et du puits de chargeur ;
+
+- conservation de la culasse vers l'avant en position fermée après le second  coup de sécurité .
+
+d) Réintégration :
+
+Déplacement et réintégration d'une arme prise en main présentant une configuration dangereuse qui laisse présumer un possible départ de coup de feu :
+
+- culasse fermée et non ramenée vers l'arrière ;
+
+- orientation du puits de chargeur vide ne permettant pas à un tiers d'en constater directement la vacuité ;
+
+- canon de l'arme non dirigé vers le haut ;
+
+- restitution de l'arme culasse vers l'avant en position fermée ;
+
+- sûreté enclenchée (faisant saillie dans le pontet). Cette faute n'est pas éliminatoire mais entraîne la perte de 0,5 point.

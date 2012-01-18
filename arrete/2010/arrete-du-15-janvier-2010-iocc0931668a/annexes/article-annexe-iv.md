@@ -1,43 +1,85 @@
 # Article Annexe IV
 
-UNITÉ DE VALEUR DE COMMANDEMENT ET GESTION (UV N° 2)
+UNITÉS DE VALEUR DE TECHNIQUES PROFESSIONNELLES (UV N° 1)
 
-Programme de l'épreuve
+Déroulement et programme de l'épreuve d'entretien avec le jury
 
-Le rôle de communicateur :
+L'entretien avec le jury se déroule dans les conditions suivantes :
 
-- la transmission d'informations opérationnelles aux membres de sa brigade ;
+Equipements administratifs :
 
-- les activités de compte rendu à la hiérarchie ;
+Les candidats se présentent en tenue d'uniforme porteurs de leur arme individuelle de dotation, et munis de l'ensemble des équipements administratifs, sauf dispositions contraires, conformément au décret n° 2004-1439 du 23 décembre 2004.
 
-- la négociation et la présentation d'un projet ou de propositions innovantes à la hiérarchie.
+Les fonctionnaires exerçant habituellement leurs fonctions en civil pourront se présenter en tenue civile, sous réserve d'être en possession le jour de l'examen d'une attestation de leur chef de service mentionnant cette spécificité.
 
-Le rôle de régulateur :
+Aucune manipulation d'arme n'étant autorisée durant cette épreuve, tout manquement à ce principe constaté par un membre du jury entraîne l'élimination immédiate du candidat à l'UV n° 1.
 
-- l'écoute et le soutien des fonctionnaires en difficulté ;
+Notation :
 
-- la gestion des divergences et/ou conflits au sein d'une brigade.
+Notation sur 80 points se répartissant de la manière suivante :
 
-Le rôle d'encadrement des ressources humaines :
+50 points pour l'exposé portant sur l'analyse de la mission reçue et sur son exploitation opérationnelle ;
 
-- l'accueil des nouveaux fonctionnaires ;
+30 points pour le questionnement portant sur la maîtrise de l'ensemble des compétences et pratiques professionnelles requises par la fonction de brigadier-chef.
 
-- le traitement des transgressions dans l'application des règles et des ordres ;
+Durée :
 
-- le recadrage d'un collaborateur par rapport aux objectifs ou pratiques professionnelles ;
+Temps de préparation de l'épreuve par le candidat : 20 minutes ;
 
-- l'animation d'un débriefing. Le rôle de gestionnaire des activités de sa brigade :
+Temps d'entretien du candidat avec le jury : 20 minutes.
 
-- la préparation et la planification (ou la programmation) d'un dispositif ou des activités de la brigade ;
+Déroulement :
 
-- l'évaluation des activités et résultats ;
+A partir d'un thème professionnel, tiré au sort dans la spécialité choisie parmi les suivantes, le candidat débute l'épreuve par un exposé portant sur l'analyse de la mission reçue ou de la situation rencontrée ainsi que sur l'exploitation opérationnelle qu'elle nécessite :
 
-- la répartition des tâches et la formulation d'objectifs opérationnels.
+Paix publique.
 
-Ses places et postures dans l'institution :
+Investigation.
 
-- la description des missions et fonctions d'un brigadier-chef, responsable d'une brigade (en articulant notamment responsabilités administratives et judiciaires) ;
+Renseignement.
 
-- la posture d'un brigadier-chef crédible et légitime ;
+Ordre public.
 
-- la gestion de l'intérim de son supérieur hiérarchique.
+Migrations frontières.
+
+Programme :
+
+Programme commun aux spécialités :
+
+- procédures de prise et de fin de service intégrant l'identification des différentes composantes du système ACROPOL et la connaissance des principes de fonctionnement dans le respect des règles de procédure ;
+
+- techniques professionnelles ;
+
+- armement et emploi des armes ;
+
+- premiers secours en intervention ;
+
+- connaissances juridiques et déontologiques associées à l'intervention de police.
+
+Programme des spécialités :
+
+- paix publique :
+
+- l'intervention de police en matière de circulation routière ;
+
+- l'intervention de police en matière de sécurité, de tranquillité et de salubrité publiques ;
+
+- investigation :
+
+- connaissance des techniques et procédures d'investigation ;
+
+- renseignement :
+
+- connaissance des techniques et procédures du renseignement ;
+
+- ordre public :
+
+- les techniques de service d'ordre, de maintien et de rétablissement de l'ordre public ;
+
+- migrations frontières :
+
+- l'intervention de police en matière d'escorte des éloignés par la voie aérienne ;
+
+- l'intervention de police dans le cadre d'une réquisition du commandant de bord lors d'un incident survenu durant le vol.
+
+A l'issue de l'exposé, durant les dix minutes restantes, le jury questionne le candidat afin de vérifier si les acquis de son expérience dans le domaine des techniques professionnelles et collectives correspondent aux aptitudes et compétences exigées par les fonctions de brigadier-chef.
