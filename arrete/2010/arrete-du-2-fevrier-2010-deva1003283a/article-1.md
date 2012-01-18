@@ -26,27 +26,21 @@ Paris-Orly (niveau 6).
 
 Groupe B
 
+Bâle-Mulhouse. (A compter du 1er janvier 2011).
+
 Toulouse-Blagnac.
 
 Groupe C
-
-Bâle-Mulhouse.
 
 Bordeaux-Mérignac.
 
 Lille-Lesquin.
 
-Martinique-Aimé Césaire.
-
 Montpellier-Méditerranée.
 
 Nantes-Atlantique.
 
-Paris-Le Bourget.
-
 Pointe-à-Pitre - Le Raizet.
-
-Pyrénées.
 
 Strasbourg-Entzheim.
 
@@ -64,7 +58,13 @@ Cayenne-Rochambeau.
 
 Clermont-Ferrand - Auvergne.
 
+Martinique-Aimé Césaire.
+
 Melun-Villaroche.
+
+Paris-Le Bourget.
+
+Pyrénées.
 
 Rennes - Saint-Jacques.
 
@@ -122,8 +122,6 @@ Lognes-Emerainville.
 
 Lyon-Bron.
 
-Meaux-Esbly.
-
 Merville-Calonne.
 
 Paris - Issy-les-Moulineaux.
@@ -151,6 +149,8 @@ Béziers-Vias.
 Biscarrosse-Parentis.
 
 Bora-Bora - Motu-Mute.
+
+Brive-Souillac.
 
 Caen-Carpiquet.
 
@@ -186,11 +186,15 @@ Le Mans-Arnage.
 
 Le Touquet - Paris-Plage.
 
+Meaux-Esbly.
+
 Moorea-Temae.
 
 Mulhouse-Habsheim.
 
 Muret-L'Herm.
+
+Nîmes-Garons.
 
 Quimper-Pluguffan.
 
