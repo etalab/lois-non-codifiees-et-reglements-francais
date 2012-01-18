@@ -764,19 +764,39 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513).</td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
-<td align="left" valign="top">Hydrolyse du lactose. </td>
-<td align="left" valign="top">Dose techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513).</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse du lactose. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="top">Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
+<td align="left" valign="top">
+<p align="left">Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A/18A. <br/>
+</p>
 </td>
-<td align="left" valign="top">Enzymes</td>
-<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
-<td align="left" valign="top">Hydrolyse du lactose.</td>
-<td align="left" valign="top">Dose techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse du lactose.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -796,13 +816,23 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C)<br/>
+<td align="left" valign="top">
+<p align="left">Bêta-galactosidase (lactase acide) issue d'une souche d'Aspergillus oryzae autocloné (ACL-1C)<br/>
+</p>
 </td>
-<td align="left" valign="top">Enzymes.<br/>
+<td align="left" valign="top">
+<p align="left">Enzymes.<br/>
+</p>
 </td>
-<td align="left" valign="top">Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. </td>
-<td align="left" valign="top">Hydrolyse du lactose. </td>
-<td align="left" valign="top">Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Lait et lactosérum à teneur réduite en lactose, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse du lactose. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -840,11 +870,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Bêta-glucanase de Bacillus amyloliquefaciens autocloné. </td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Bières. </td>
-<td align="left" valign="top">Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes. </td>
-<td align="left" valign="top">Dose techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Bêta-glucanase de Bacillus amyloliquefaciens autocloné. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons bêta 1-3 et bêta 1-6 des glucanes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -898,21 +938,40 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Bêtagalaclosidase de Kluyveromyces lactis GAL 16A/18A.</td>
-<td align="left" valign="top">Enzymes.</td>
-<td align="left" valign="top">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</td>
-<td align="left" valign="top">Hydrolyse du lactose.</td>
-<td align="left" valign="top">Teneur techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Bêtagalaclosidase de Kluyveromyces lactis GAL 16A/18A.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse du lactose.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="top">Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </td>
-<td align="left" valign="top">Enzymes</td>
 <td align="left" valign="top">
-<br/>Fromages à l'exception des fromages bénéficiant d'une appellation d'origine. <p>Arômes obtenus à partir de matières premières laitières. </p>
-<p>Produits à base de viande fermentée. </p>
+<p align="left">Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </p>
 </td>
-<td align="left" valign="top">Hydrolyse des liaisons peptidiques de protéines.</td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Enzymes</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fromages à l'exception des fromages bénéficiant d'une appellation d'origine. </p>
+<p align="left">Arômes obtenus à partir de matières premières laitières. </p>
+<p align="left">Produits à base de viande fermentée. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons peptidiques de protéines.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1069,14 +1128,41 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (TV) </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Brasserie. <br/>
-</td>
-<td align="left" valign="top">Hydrolyse de la cellulose. <br/>
+<td align="left" valign="top">
+<p align="left">Cellulase issue d'une souche non génétiquement modifiée de Penicillium funiculosum (PF8/403-M). </p>
 </td>
 <td align="left" valign="top">
-<br/>Teneur résiduelle techniquement inévitable. <br/>
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie, brasserie, industrie de l'alcool</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la cellulose.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (TV) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brasserie. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la cellulose. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1099,14 +1185,24 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique.<br/>
+<td align="left" valign="top">
+<p align="left">Chymosine issue d'une souche d'Aspergillus niger variété Awamori (CHCC10311) porteuse d'un gène codant la chymosine de dromadaire domestique.<br/>
+</p>
 </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <p>Produits laitiers coagulés.</p>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
 </td>
-<td align="left" valign="top">Hydrolyse de la caséine.<br/>
+<td align="left" valign="top">
+<p align="left">Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </p>
+<p align="left">Produits laitiers coagulés.</p>
 </td>
-<td align="left" valign="top">Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la caséine.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2603,15 +2699,13 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber.<br/>
-</p>
+<p align="left">Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 autoclonée. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Enzymes. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.<br/>
-</p>
+<p align="left">Production de jaunes d'œufs modifiés et d'hydrolysats de lécithine. Traitement de farines de céréales et d'huiles végétales pour la fabrication de chocolat, de sauces, mayonnaise, produits de boulangerie et de pâtisserie.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Hydrolyse de la fonction ester en position 2 des phospholipides.<br/>
@@ -2658,7 +2752,8 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. </td>
+<p align="left">Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. </p>
+</td>
 <td align="left" valign="top">
 <p align="left">Enzymes.</p>
 </td>
