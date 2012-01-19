@@ -2,7 +2,7 @@
 
 Référentiel des activités professionnelles
 
-I -CHAMP D'ACTIVITÉ
+I - CHAMP D'ACTIVITÉ
 
 Définition :
 
@@ -30,7 +30,7 @@ Les équipements industriels : réalisation de coffrets et armoires destinés à
 
 • Les énergies renouvelables : les directives européennes ouvrent une perspective nouvelle dans ce domaine.
 
-II -DÉLIMITATION DES ACTIVITÉS
+II - DÉLIMITATION DES ACTIVITÉS
 
 Les spécificités des métiers de l'électricité amènent le titulaire du CAP "Préparation et Réalisation d'Ouvrages Électriques" à pratiquer ses activités sous la responsabilité directe d'une personne de qualification supérieure.
 
@@ -46,7 +46,7 @@ MISE EN SERVICE (participation)
 
 MAINTENANCE (participation et/ou intervention sur ordre)
 
-III -PERSPECTIVES
+III - PERSPECTIVES
 
 Le CAP "Préparation et Réalisation d'Ouvrages Électriques" atteste d'un niveau de compétences générales et professionnelles qui permet au titulaire de ce diplôme de faire un choix dans son cursus d'études et de s'insérer directement dans le monde professionnel, où il occupera un emploi d'ouvrier professionnel.
 
@@ -62,7 +62,7 @@ Ce socle de compétences donne la possibilité d'aborder ultérieurement une for
 
 Les compétences et connaissances du titulaire de ce diplôme lui permettront de progresser dans son entreprise et son emploi.
 
-IV -SOMMAIRE DES ACTIVITÉS PROFESSIONNELLES
+IV - SOMMAIRE DES ACTIVITÉS PROFESSIONNELLES
 
 F1 - ORGANISATION
 
@@ -1735,7 +1735,7 @@ V - Sommaire des capacités et compétences
 </tbody>
 </table>
 
-VI -Savoirs associés
+VI - Savoirs associés
 
 <table>
 <tbody>
@@ -1845,9 +1845,7 @@ VI -Savoirs associés
 <td valign="top" width="257">
 <p>- A partir d'une expérience, énoncer le principe de base de création d'une force électromotrice induite ou d'une force mécanique par effet électromagnétique.</p>
 </td>
-<td valign="top" width="138">
-<br/>
-</td>
+<td valign="top" width="138"/>
 </tr>
 <tr>
 <td valign="top" width="267">
@@ -1903,9 +1901,7 @@ VI -Savoirs associés
 <td colspan="2" width="524">
 <p>S0.4 : MESURES SUR DES APPLICATIONS PROFESSIONNELLES </p>
 </td>
-<td width="138">
-<br/>
-</td>
+<td width="138"/>
 </tr>
 <tr>
 <td valign="top" width="267">
@@ -1922,9 +1918,7 @@ VI -Savoirs associés
 <p>- Lire correctement le résultat affiché par l'appareil, et savoir en rendre compte.</p>
 <p>Mettre en œuvre l'appareil de mesure adapté ( sur ordre et sous contrôle). </p>
 </td>
-<td valign="top" width="138">
-<br/>
-</td>
+<td valign="top" width="138"/>
 </tr>
 </tbody>
 </table>
@@ -1945,6 +1939,7 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <tbody>
 <tr>
 <td colspan="2" width="495">
+<br/>
 <br/>
 </td>
 <td width="42">
@@ -1972,11 +1967,14 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </td>
 <td width="42">
 <br/>
-</td>
-<td width="42">
 <br/>
 </td>
 <td width="42">
+<br/>
+<br/>
+</td>
+<td width="42">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1989,14 +1987,17 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </td>
 <td width="42">
 <br/>
+<br/>
 </td>
 <td width="42">
 <p align="center">X</p>
 </td>
 <td width="42">
 <br/>
+<br/>
 </td>
 <td width="42">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2009,14 +2010,17 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </td>
 <td width="42">
 <br/>
+<br/>
 </td>
 <td width="42">
+<br/>
 <br/>
 </td>
 <td width="42">
 <p align="center">X</p>
 </td>
 <td width="42">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2029,11 +2033,14 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </td>
 <td width="42">
 <br/>
-</td>
-<td width="42">
 <br/>
 </td>
 <td width="42">
+<br/>
+<br/>
+</td>
+<td width="42">
+<br/>
 <br/>
 </td>
 <td width="42">
@@ -2042,7 +2049,6 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -2103,15 +2109,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2131,18 +2131,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Classes de tension.</p>
 <p>- Contraintes de la distribution (aérienne et souterraine) suivant la classe de tension. </p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="2" width="574">
@@ -2173,15 +2167,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2198,18 +2186,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>Puissance apparente.</p>
 <p>Tensions primaires et secondaires.</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2226,18 +2208,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Différences entre les différents schémas.</p>
 <p>- Constitution d'une prise de terre</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2249,15 +2225,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="21">
-<br/>
-</td>
-<td valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="21"/>
+<td valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2276,15 +2246,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2301,15 +2265,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2325,15 +2283,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2382,18 +2334,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Principe de fonctionnement.</p>
 <p>- composants constitutifs (identification).</p>
 </td>
-<td rowspan="2" valign="top" width="21">
-<br/>
-</td>
+<td rowspan="2" valign="top" width="21"/>
 <td colspan="2" rowspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" rowspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" rowspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" rowspan="2" valign="top" width="22"/>
+<td colspan="2" rowspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2430,18 +2376,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Principes de fonctionnement des différents modes de chauffage.</p>
 <p>- Éléments constitutifs des procédés.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
+<td valign="top" width="21"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2460,18 +2400,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Principe de la production de froid.</p>
 <p>- Constitution élémentaire du climatiseur. (en vue de l'installation, la mise en service et la maintenance).</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="2" width="574">
@@ -2505,15 +2437,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="283">
@@ -2527,32 +2453,20 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Couplage (moteur asynchrone triphasé).</p>
 <p>- Démarrage direct et démarrage étoile triangle (moteur asynchrone triphasé).</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
+<td valign="top" width="21"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="283">
@@ -2566,29 +2480,17 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
-<td valign="top" width="21">
-<br/>
-</td>
+<td valign="top" width="21"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2602,15 +2504,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="21">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2659,15 +2555,9 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Respect des normes et contraintes de pose.</p>
 <p>- Séparation des courants.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
@@ -2690,18 +2580,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Protection différentielle.</p>
 <p>- Parafoudre, para-surtenseur.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2713,18 +2597,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Sectionneur.</p>
 <p>- Capteurs.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2736,18 +2612,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Prise de courant.</p>
 <p>- Connecteur.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2758,18 +2626,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Délesteur,</p>
 <p>- Programmateur</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -2780,18 +2640,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Gradateur, onduleur.</p>
 <p>- Variateurs de vitesse pour moteurs à courant continu et alternatif.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2853,12 +2705,8 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" width="22">
 <p align="center">X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2897,12 +2745,8 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" width="22">
 <p align="center">X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2951,18 +2795,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Le décret 88 1056 du 14 novembre 1988 sur la protection des travailleurs et recueil d'instructions générales de sécurité d'ordre électrique UTE C 18-510.</p>
 <p>- Analyse du risque encouru.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -2979,18 +2817,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td valign="top" width="291">
 <p>(Voir référentiel de prévention des risques électriques pour les candidats préparant des diplômes de la filière génie électrique). Niveau B1V</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3025,18 +2857,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- La source du bruit.</p>
 <p>- Les équipements de protection individuelle. </p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
+<td valign="top" width="21"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3076,18 +2902,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" width="574">
 <p>Adaptée à la profession et en phase avec l'évolution des contenus PRAP (Prévention des Risques liés à l'Activité Physique) et SST (Sauveteur secouriste du travail).</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
+<td valign="top" width="21"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3103,18 +2923,10 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Les matériaux recyclables ou dangereux dans les appareillages ou équipements.</p>
 <p>- Les moyens de collecte et d'évacuation. </p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3158,18 +2970,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Représentation graphique normalisée (schémas unifilaires, multifilaires, développés et de raccordements). </p>
 <p>- Repérage des schémas.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -3179,18 +2985,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Schéma bloc.</p>
 <p>- Fonctions logiques (OUI, NON, ET, OU).</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -3201,18 +3001,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- GRAFCET des spécifications fonctionnelles et technologiques.</p>
 <p>- Représentation graphique, règles d'évolution et sens de lecture.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3228,18 +3022,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <p>- Les éléments fonctionnels à prendre en compte en vue d'une intervention à caractère électrique.</p>
 <p>- Type, nature et caractéristiques des matériaux de construction.</p>
 </td>
-<td valign="top" width="21">
-<br/>
-</td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td valign="top" width="21"/>
+<td colspan="2" valign="top" width="22"/>
 <td colspan="2" valign="top" width="22">
 <p>X</p>
 </td>
-<td colspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td colspan="9" width="662">
@@ -3250,18 +3038,12 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 <td colspan="2" width="574">
 <p align="center">Sur des supports du domaine électrotechnique :</p>
 </td>
-<td rowspan="2" valign="top" width="21">
-<br/>
-</td>
+<td rowspan="2" valign="top" width="21"/>
 <td colspan="2" rowspan="2" width="22">
 <p align="center">X</p>
 </td>
-<td colspan="2" rowspan="2" valign="top" width="22">
-<br/>
-</td>
-<td colspan="2" rowspan="2" valign="top" width="22">
-<br/>
-</td>
+<td colspan="2" rowspan="2" valign="top" width="22"/>
+<td colspan="2" rowspan="2" valign="top" width="22"/>
 </tr>
 <tr>
 <td valign="top" width="283">
@@ -3275,521 +3057,3 @@ Niveau 4 : concevoir : "je sais choisir" (analyse et maîtrise méthodologique d
 </tr>
 </tbody>
 </table>
-
-..
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" width="662">
-<p align="center">TABLEAU DE MISE EN RELATION "COMPÉTENCES - UNITÉS"</p>
-</td>
-</tr>
-<tr>
-<td width="140">
-<p align="center">CAPACITÉS</p>
-</td>
-<td width="432">
-<p align="center">COMPÉTENCE</p>
-</td>
-<td width="48">
-<p align="center">UP1</p>
-</td>
-<td width="42">
-<p align="center">UP2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="11" width="140">
-<p>C1 :<br/>S'INFORMER </p>
-</td>
-<td valign="top" width="432">
-<p>C1-1 : Rassembler et collecter les éléments nécessaires à la réalisation de la tâche... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-2 : Associer les éléments réels d'une installation aux symboles graphiques normalisés. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-3 : Localiser sur un schéma électrique les symboles représentant les différents éléments qui entrent dans la constitution d'un appareil électrique ou qui utilisent les référencements croisés. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-4 : Donner, le positionnement géographique des éléments électriques... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-5 : Comparer l'avancement des travaux confiés au planning d'exécution des travaux. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-6 : Prendre connaissance des consignes verbales ou écrites relatives aux tâches à réaliser. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-7 : Respecter des prescriptions du PPSPS au niveau de l'exécution. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-8 : Identifier et repérer dans les ressources documentaires... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-9 : Recueillir dans le dossier technique, les informations permettant le réglage...... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-10 : Prendre connaissance des consignes de sécurité et de réalisation, écrites et/ou orales... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C1-11 : Recueillir dans le dossier technique les informations de nature électrique et mécanique... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td rowspan="18" width="82">
-<p>C2 :<br/>EXECUTER</p>
-<p>Basse<br/>Tension (Domaine<br/>BTA)</p>
-</td>
-<td rowspan="9" width="59">
-<p>Hors voisinage </p>
-</td>
-<td valign="top" width="431">
-<p>C2-1 : Choisir les outillages nécessaires à la réalisation de l'ouvrage. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-2 : Préparer les matériels et Organiser son poste de travail. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-3 : Tracer le cheminement des canalisations et l'emplacement des matériels. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-4 : Façonner les supports, les canalisations de l'ouvrage. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-5 : Assembler les supports et les canalisations de l'ouvrage. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-6 : Placer et fixer... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-7 : Accomplir les opérations... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-8 : Repérer les matériels électriques, les canalisations, les conducteurs. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-9 : Dérouler et Poser les conducteurs et câbles. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="59">
-<br/>
-</td>
-<td valign="top" width="431">
-<p>C2-10 : Câbler et raccorder... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="59">
-<br/>
-</td>
-<td valign="top" width="431">
-<p>C2-11 : Procéder aux contrôles d'usage hors tension. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="7" width="59">
-<p>Risque de voisinage </p>
-</td>
-<td valign="top" width="431">
-<p>C2-12 : Régler et Configurer les matériels. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-13 : Procéder aux contrôles d'usage en présence de tension dans le respect ... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-14 : Effectuer les essais fonctionnels de tout ou partie de l'installation. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-15 : Localiser géographiquement le constituant défectueux et le Remplacer. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-16 : Contrôler le fonctionnement après remplacement du constituant défectueux. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-17 : Effectuer les tâches d'entretien des équipements désignés... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-18 : Contrôler le fonctionnement de l'installation après nettoyage ou remplacement... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="6" width="82">
-<p>Basse<br/>Tension<br/>(Domaine<br/>BTB)<br/>Haute<br/>Tension<br/>(Domaine<br/>HTA)</p>
-</td>
-<td rowspan="6" width="59">
-<p>Hors voisinage </p>
-</td>
-<td valign="top" width="431">
-<p>C2-19 : Préparer les matériels et Organiser son poste de travail. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-20 : Identifier les matériels électriques, les canalisations, les conducteurs. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-21 : Accomplir les opérations mécaniques mettant en œuvre l'outillage adapté ....... </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-22 : Mettre en forme des conducteurs de sections adaptées au domaine de la BTB et HTA. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-23 : Effectuer le raccordement d'un départ ou d'une arrivée BTB ou HTA. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="431">
-<p>C2-24 : Apposer le repérage normatif. </p>
-</td>
-<td valign="top" width="47">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<td rowspan="5" width="140">
-<p>C3 :<br/>COMMUNIQUER</p>
-</td>
-<td width="432">
-<p>C3.1 : Rendre compte de la conformité du matériel reçu par rapport à la liste fournie </p>
-</td>
-<td width="48">
-<br/>
-</td>
-<td width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C3.2 : Signaler les difficultés rencontrées dans l'exécution de la tâche. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C3-3 : Contribuer à la réception de l'équipement, conformément aux ordres reçus. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C3-4 : Rendre compte oralement ou par écrit. </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="432">
-<p>C3-5 : Renseigner les documents préétablis ou les documents usuels de l'utilisateur... </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="42">
-<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-UNITÉS GÉNÉRALES
-
-FRANÇAIS ET HISTOIRE GÉOGRAPHIE - UG 1
-
-L'unité comprend l'ensemble des objectifs et compétences établis par l'arrêté du 26 juin 2002 (BO hors série n°5 du 29 août 2002)
-
-MATHÉMATIQUES-SCIENCES - UG 2
-
-L'unité comprend l'ensemble des objectifs et compétences établis par l'arrêté du 26 juin 2002 (BO hors série n°5 du 29 août 2002)
-
-EDUCATION PHYSIQUE ET SPORTIVE - UG 3
-
-L'unité comprend l'ensemble des objectifs, connaissances et compétences établis par l'arrêté du 25 septembre 2002 (BO n° 39 du 24 octobre 2002)
