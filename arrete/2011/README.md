@@ -464,7 +464,6 @@
 - [Arrêté du 7 février 2011 (ETSH1104573A)](arrete-du-7-fevrier-2011-etsh1104573a)
 - [Arrêté du 7 février 2011 (MCCK1101197A)](arrete-du-7-fevrier-2011-mcck1101197a)
 - [Arrêté du 7 janvier 2011 (AGRT1100200A)](arrete-du-7-janvier-2011-agrt1100200a)
-- [Arrêté du 7 janvier 2011 (AGRT1100486A)](arrete-du-7-janvier-2011-agrt1100486a)
 - [Arrêté du 7 janvier 2011 (EFIP1027335A)](arrete-du-7-janvier-2011-efip1027335a)
 - [Arrêté du 7 janvier 2011 (ETSH1032363A)](arrete-du-7-janvier-2011-etsh1032363a)
 - [Arrêté du 7 janvier 2011 (PRMX1100299A)](arrete-du-7-janvier-2011-prmx1100299a)
