@@ -609,8 +609,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Société française d'études et de formation (SFEF). ― CEFIRE ESARC.<br/>
-</p>
+<p align="left">Société française d'études et de formation (SFEF). </p>
 </td>
 </tr>
 <tr>
@@ -729,8 +728,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Centre interdépartemental de recherche et de perfectionnement.<br/>
-</p>
+<p align="left">Baxa</p>
 </td>
 </tr>
 <tr>
