@@ -1,6 +1,6 @@
 # Article 8
 
-La validation de l'examen sanctionnant chacune des deux phases est prononcée après délibération d'un jury. Ce jury est désigné par le directeur de l'unité de formation et de recherche sur proposition conjointe du médecin directeur technique et d'enseignement et de la sage-femme directrice de l'école de sages-femmes. Le président désigne le vice-président parmi les membres du jury.
+La validation de l'examen sanctionnant chacune des deux phases est prononcée après délibération d'un jury. Ce jury est désigné par le président de l'université sur proposition conjointe du médecin directeur technique et d'enseignement et de la sage-femme directrice de l'école de sages-femmes. Le président désigne le vice-président parmi les membres du jury.
 
 Le jury comprend :
 

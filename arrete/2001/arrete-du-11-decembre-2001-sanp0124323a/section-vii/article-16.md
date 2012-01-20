@@ -1,9 +1,15 @@
 # Article 16
 
-Sont dispensés de la première année d'études après succès au concours d'entrée et admis en seconde année dans la limite des places disponibles :
+Une commission d'attribution des crédits est mise en place dans les écoles de sages-femmes relevant de l'article L. 4151-7 du code de la santé publique.
 
-- les étudiants en médecine qui ont validé la première année du deuxième cycle des études médicales ;
+Elle est compétente pour se prononcer sur l'attribution des crédits au-delà de la première année commune aux études de santé aux étudiants admis à poursuivre des études de sage-femme et aux étudiants qui redoublent une formation suivie selon le programme défini par l'arrêté du 11 décembre 2001 fixant le programme des études de sage-femme.
 
-- les candidats titulaires du diplôme d'Etat d'infirmier ou d'un diplôme correspondant délivré par un état de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et faisant l'objet d'une reconnaissance mutuelle au sein de celle-ci ;
+Cette commission a pour missions de :
 
-- les candidats titulaires du diplôme d'Etat d'assistant de service social obtenu antérieurement au 31 décembre 1971.
+1° Se prononcer sur l'attribution des crédits européens aux étudiants ;
+
+2° Proposer à la direction de l'école de sages-femmes la conservation de tout ou partie des unités d'enseignement acquises par un étudiant, en cas de redoublement ;
+
+3° Proposer les stages dont le bénéfice reste conservé par l'étudiant en cas de non-validation d'un semestre ;
+
+4° Déterminer le nombre d'unités d'enseignement théorique et clinique nécessaire pour passer en année supérieure.

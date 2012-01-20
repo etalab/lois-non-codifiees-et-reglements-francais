@@ -6,6 +6,4 @@
 - [Section IV : Première phase](section-iv-premiere)
 - [Section V : Deuxième phase](section-v-deuxieme)
 - [Section VI : Le mémoire](section-vi)
-- [Section VII
-
-Dispenses de scolarité](section-vii)
+- [Section VII : Commission d'attribution des crédits](section-vii)
