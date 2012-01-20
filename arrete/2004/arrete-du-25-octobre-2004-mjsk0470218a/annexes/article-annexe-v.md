@@ -30,45 +30,51 @@ L'épreuve doit se dérouler sur un stade de slalom géant désigné par le dire
 
 3. Le tracé
 
-Il devra répondre aux normes définies par le règlement élaboré par la Fédération internationale de ski en ce qui concerne sa longueur, le dénivelé et le nombre de portes.
+Le tracé répond aux normes techniques définies par le règlement de la Fédération internationale de ski. Celles-ci sont aménagées pour prendre en compte les objectifs assignés à cet examen, en ce qui concerne plus particulièrement sa longueur, le dénivelé et le nombre de portes.
+
+Le dénivelé est de 250 à 300 mètres et permet, à l'ouverture, avant passage des candidats, un temps non compensé de l'ouvreur compris entre 45 et 50 secondes, avec une tolérance de plus ou moins 2 %.
+
+Le nombre de portes est de 11 à 15 % du dénivelé.
+
+Le tracé peut être réalisé sans que les extérieurs des portes soient matérialisés, à l'exception de la première porte, de la dernière porte et des figures techniques.
 
 4. Les ouvreurs
 
-Les ouvreurs qui ont obtenu un classement à 50 points maximum sur l'échelle correspondant aux disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski et les traceurs sont désignés par le directeur de l'Ecole nationale de ski et d'alpinisme parmi ceux figurant sur une liste établie annuellement par le directeur de l'Ecole nationale de ski et d'alpinisme, sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+4.1. Les ouvreurs et le traceur sont désignés par le directeur de l'Ecole nationale de ski et d'alpinisme parmi ceux figurant sur une liste qu'il valide annuellement, sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
-Les ouvreurs sont au nombre minimal de deux et doivent être ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+4.2. Les ouvreurs sont au nombre minimal de trois au départ et de deux à l'arrivée.
+
+4.3. Les ouvreurs doivent :
+
+- être classés ou avoir été classés à 50 points FIS maximum sur l'échelle correspondant aux disciplines techniques du ski alpin (slalom ou slalom géant) ;
+
+- avoir obtenu, dans le cadre de l'étalonnage annuel de la saison en cours, un coefficient égal ou supérieur à 0,8700.
+
+4.4. Le coefficient mentionné au 4.3 est attribué à titre personnel à chaque ouvreur. Il est validé par le directeur de l'Ecole nationale de ski et d'alpinisme après avis de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. Le directeur de l'Ecole nationale de ski et d'alpinisme a la possibilité de faire évoluer ce coefficient en cours de saison si l'équité l'exige, après avis de la section permanente du ski alpin.
 
 5. L'évaluation
 
-Chaque ouvreur est autorisé à prendre un nouveau départ s'il n'a pu réaliser normalement son parcours.
+5.1. L'évaluation s'effectue en référence à un temps de base calculé de la manière suivante, avec un nombre minimal de trois ouvreurs au départ et de deux ouvreurs à l'arrivée :
 
-L'évaluation s'effectue en référence à un temps de base calculé de la manière suivante :
+- est retenue la moyenne des deux meilleurs temps compensés des ouvreurs ayant effectué le parcours avant le départ du premier candidat de la manche ;
 
--est retenu le meilleur temps compensé des ouvreurs ayant effectué le parcours avant le départ du premier candidat de la manche ;
+- est retenue la moyenne des deux meilleurs temps compensés des ouvreurs ayant effectué le parcours après le départ du dernier candidat de la manche.
 
--est retenu le meilleur temps compensé de ces mêmes ouvreurs ayant effectué le parcours après le départ du dernier candidat de la manche ;
+Le temps de référence est constitué de la moyenne des deux moyennes ci-dessus mentionnées.
 
--est ensuite réalisée la moyenne de ces deux meilleurs temps compensés.
+5.2. Chaque ouvreur est autorisé à prendre un nouveau départ, s'il n'a pu réaliser normalement son parcours.
 
-Le coefficient est attribué à titre personnel à chaque ouvreur, après avis de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, par le directeur de l'Ecole nationale de ski et d'alpinisme, qui a la possibilité de le faire évoluer, dans les mêmes conditions que pour son attribution, si l'équité l'exige, en cours de saison.
+5.3. Le coefficient des ouvreurs doit être porté à la connaissance des candidats avant le début de l'épreuve.
 
-Ce coefficient doit être porté à la connaissance des candidats avant le début de l'épreuve.
+5.4. Il est admis d'introduire ponctuellement des compétiteurs FIS pour vérifier le bon étalonnage de l'épreuve.
 
-6. Modalités de calcul du temps de base et du temps maximal à réaliser pour l'admission
+5.5. Modalités de calcul du temps maximal d'admission :
 
-Le temps de base : il est calculé à partir du meilleur temps compensé des ouvreurs.
+- pour les garçons : TA G = TB × 1,18 ;
 
-TB = [(TR O début x CC O) + (TR O fin x CC O)] / 2
+- pour les filles : TA F = TB × 1,24.
 
-Le temps maximal pour l'admission :
-
-Pour les garçons : TA G = TB x 1, 18 ;
-
-Pour les filles : TA F = TB x 1, 24.
-
-Légende :
-
-TB = temps de base, TR O = temps réel ouvreur, CC O = coefficient correcteur ouvreur, TA G = temps d'admission garçons, TA F = temps d'admission filles.
+Légende : TB = temps de base , TA G = temps d'admission garçons ; TA F = temps d'admission filles.
 
 III.-Composition du jury de course
 

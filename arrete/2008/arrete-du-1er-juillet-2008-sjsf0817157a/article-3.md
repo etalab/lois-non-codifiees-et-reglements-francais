@@ -2,13 +2,11 @@
 
 Les exigences préalables requises pour accéder à la formation, prévues à l'article D. 212-44 du code du sport, sont les suivantes :
 
-― être titulaire du permis de conduire des bateaux de plaisance à moteur, option  côtière » ;
-
-― être titulaire d'un certificat autorisant l'utilisation de la radiotéléphonie ;
+― être titulaire du permis de conduire des bateaux de plaisance à moteur, option côtière ou son équivalent ;
 
 ― être titulaire d'une attestation de réussite à un parcours de 100 mètres en nage libre, avec départ plongé et passage sous un obstacle flottant d'un mètre en surface. Cette attestation est délivrée par une personne titulaire d'une certification d'encadrement des activités aquatiques, conforme aux exigences de l'article L. 212-1 du code du sport ;
 
-― être titulaire d'une attestation de formation aux premiers secours (PSC 1) ;
+― être titulaire d'une attestation de formation aux premiers secours (PSC 1) ou son équivalent ;
 
 ― être capable de justifier d'une expérience compétitive en voile, comportant au minimum six épreuves de compétition, dont au moins une de niveau équivalent au quatrième grade et une de niveau équivalent au troisième grade, tels que définis par la Fédération française de voile ;
 
