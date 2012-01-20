@@ -691,7 +691,6 @@
 - [Arrêté du 9 décembre 2011 (MENE1133706A)](arrete-du-9-decembre-2011-mene1133706a)
 - [Arrêté du 9 décembre 2011 (MENE1133711A)](arrete-du-9-decembre-2011-mene1133711a)
 - [Arrêté du 9 février 2011 (AGRG1104220A)](arrete-du-9-fevrier-2011-agrg1104220a)
-- [Arrêté du 9 février 2011 (AGRS1101275A)](arrete-du-9-fevrier-2011-agrs1101275a)
 - [Arrêté du 9 février 2011 (DEVA1103987A)](arrete-du-9-fevrier-2011-deva1103987a)
 - [Arrêté du 9 février 2011 (DEVL1101790A)](arrete-du-9-fevrier-2011-devl1101790a)
 - [Arrêté du 9 février 2011 (DEVP1102856A)](arrete-du-9-fevrier-2011-devp1102856a)
