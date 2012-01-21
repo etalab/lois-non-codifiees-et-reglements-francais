@@ -1,0 +1,11 @@
+# Article 7
+
+Lorsque l'authenticité et la validité du titre sont établies lors du dépôt du dossier complet et sous réserve de satisfaire aux autres conditions prévues par le présent arrêté, le titre de conduite est échangé.
+
+En cas de doute sur l'authenticité du titre dont l'échange est demandé, le préfet conserve le titre de conduite et fait procéder à son analyse, le cas échéant avec l'aide d'un service compétent, afin de s'assurer de son authenticité. Dans ce cas, une attestation de dépôt, sécurisée, est délivrée à son titulaire. Elle est valable pour une durée maximale de deux mois et est inscrite au fichier national du permis de conduire. Elle est retirée à l'issue de la procédure d'échange.
+
+Si l'authenticité est confirmée, le titre de conduite peut être échangé sous réserve de satisfaire aux autres conditions. Si le caractère frauduleux est confirmé, l'échange n'a pas lieu et le titre est retiré par le préfet, qui saisit le procureur de la République en le lui transmettant.
+
+Le préfet peut compléter son analyse en consultant l'autorité étrangère ayant délivré le titre afin de s'assurer des droits de conduite de son titulaire. Le titre de conduite est dès lors conservé par le préfet. La demande auprès des autorités étrangères est transmise, sous couvert du ministre des affaires étrangères, service de la valise diplomatique, au consulat de France compétent. Le consulat transmet au préfet la réponse de l'autorité étrangère. En l'absence de réponse dans un délai de six mois à compter de la saisine des autorités étrangères par le consulat compétent, l'échange du permis de conduire est refusé. Si l'autorité étrangère confirme l'absence de droits à conduire du titulaire, l'échange n'a pas lieu et le titre est retiré par le préfet qui saisit le procureur de la République en le lui transmettant.
+
+Lorsque le préfet conserve le titre de conduite, une attestation de dépôt, sécurisée, est délivrée à son titulaire. Elle est valable deux mois. A l'issue de ces deux mois, une nouvelle attestation est délivrée autant de fois que nécessaire dans la limite de six mois. Elle est inscrite au fichier national du permis de conduire. Elle est retirée à l'issue de la procédure d'échange.

@@ -1,0 +1,5 @@
+# Article 14
+
+Une liste des Etats dont les permis de conduire nationaux sont échangés en France contre un permis français est établie conformément aux articles R. 222-1 et R. 222-3 du code de la route. Cette liste précise pour chaque Etat la ou les catégories de permis de conduire concernée (s) par l'échange contre un permis français. Elle ne peut inclure que des Etats qui procèdent à l'échange des permis de conduire français de catégorie équivalente et dans lesquels les conditions effectives de délivrance des permis de conduire nationaux présentent un niveau d'exigence conforme aux normes françaises dans ce domaine.
+
+Les demandes d'échange de permis introduites avant la date de publication au JORF de la liste prévue au premier alinéa du présent article sont traitées sur la base de la liste prévue à l'article 14 de l'arrêté du 8 février 1999 modifié fixant les conditions de reconnaissance et d'échange des permis de conduire délivrés par les Etats n'appartenant ni à l'Union européenne, ni à l'Espace économique européen.

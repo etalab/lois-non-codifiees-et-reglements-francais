@@ -74,6 +74,8 @@
 - [Décret n°2012-54 du 17 janvier 2012 (MCCK1120123D)](decret-n2012-54-du-17-janvier-2012-mcck1120123d)
 - [Décret n°84-670 du 17 juillet 1984](decret-n84-670-du-17-juillet-1984)
 - [Décret n°2012-51 du 18 janvier 2012 (IOCA1200547D)](decret-n2012-51-du-18-janvier-2012-ioca1200547d)
+- [Décret n°2012-58 du 18 janvier 2012 (DEVS1104266D)](decret-n2012-58-du-18-janvier-2012-devs1104266d)
+- [Décret n°2012-59 du 18 janvier 2012 (EFIE1028272D)](decret-n2012-59-du-18-janvier-2012-efie1028272d)
 - [Décret n°2010-1231 du 19 octobre 2010 (OMEO1014020D)](decret-n2010-1231-du-19-octobre-2010-omeo1014020d)
 - [Décret n°2011-1909 du 20 décembre 2011 (JUSC1130276D)](decret-n2011-1909-du-20-decembre-2011-jusc1130276d)
 - [Décret n°2011-1910 du 20 décembre 2011 (EFIR1122988D)](decret-n2011-1910-du-20-decembre-2011-efir1122988d)
