@@ -274,7 +274,7 @@ Albert Villani et Fils/Villani :
 
 AMI (Alliance maritime interprofessionnelle) Quartier La Dabry RN 8 83330 Le Beausset De 1960 à 1985.
 
-AMI FROID. 52, chemin du Gavaou, 13380 Plan-de-Cuques. De 1979 à 1982. Puis 5, avenue des Pins, 13013 Marseille, et 176, avenue des Poilus, quartier Les Olives, 13013 Marseille. De 1983 à 1986. Puis ZAC de la Haute-Bédoule, 13240 Septèmes-les-Vallons De 1986 à 1996.
+AMI FROID. 52, chemin du Gavaou, 13380 Plan-de-Cuques. De 1979 à 1982. Puis 5, avenue des Pins, 13013 Marseille, et 176, avenue des Poilus, quartier Les Olives, 13013 Marseille. De 1983 à 1986 Puis ZAC de la Haute-Bédoule, 13240 Septèmes-les-Vallons De 1986 à 1996
 
 AMM (Approvisionnement Maintenance Marine), AMM Poggioli (Automatisme Mesure Maintenance), 23, traverse Santi, 13015 Marseille, de 1985 à 2002.
 
@@ -323,10 +323,6 @@ Ateliers d'ARENC :
 - 274, chemin du Littoral, 13015 Marseille : depuis 1979.
 
 Atelier phocéen de mécanique, lot 103, port d'activité Mourrepiane, 467, chemin du Littoral, 13016 Marseille : depuis 1998.
-
-Ateliers de tuyautage et de chaudronnerie (ATC) :
-
-- 87, rue d'Alger, 13006 Marseille : de 1951 à 1987, puis Société nouvelle ATC SARL : enceinte portuaire Forme 9, 13006 Marseille : depuis 1987.
 
 Ateliers Galli :
 
@@ -476,7 +472,11 @@ Delattre Levivier, village Entreprise, 13770 Fos-sur-Mer, de 1979 à 1984.
 
 Dewco Provence, 54, boulevard du Capitaine-Gèze, 13014 Marseille : de 1995 à 2002, puis Dewco international, 54, boulevard du Capitaine-Gèze, 13014 Marseille : à partir de 2002.
 
-DI MARSILIO Marius, ATCIM, 108, chemin du Littoral, 13002 Marseille, de 1968 à 1969, puis 146, chemin de la Madrague-Ville, 13015 Marseille, de 1970 à 1976, puis ATC (Atelier de tuyauterie et de chaudronnerie), forme 8, puis forme 9, enceinte portuaire, 13002 Marseille, de 1976 à 1983.
+DI MARSILIO Marius, ATCIM, 108, chemin du Littoral, 13002 Marseille, de 1968 à 1969, puis, 146, chemin de la Madrague-Ville, 13015 Marseille, de 1970 à 1976, puis ATC (Atelier de tuyauterie et de chaudronnerie), 19, avenue du Cap-Pinède, 13015 Marseille : de 1976 à 1982, puis Forme 8, puis Forme 9, enceinte portuaire, 13002 Marseille : de 1982 à 1983, puis : Société nouvelle
+
+des ateliers de tuyauterie et chaudronnerie, enceinte portuaire, Forme 9, 13015 Marseille : de 1983 à 1989.
+
+Ateliers de tuyautage et de chaudronnerie (ATC), 87, rue d'Alger, 13005 Marseille : de 1951 à 1987.
 
 DIMAR. Forme 7, enceinte portuaire, 13002 Marseille. De 1973 à 1976. Forme 8, enceinte portuaire, 13002 Marseille. De 1976 à 1980. Forme 9, enceinte portuaire, 13002 Marseille. De 1980 à 1996.
 
@@ -772,9 +772,9 @@ Perez/MTC, 16-18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille, d
 
 MTC, 16, avenue Maxime, chemin de la Madrague, 13015 Marseille et 5, avenue de la Côte-Bleue, 13820 Ensuès-la-Redonne, de 1989 à 1994.
 
-CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment Primindus, plan de campagne, 13480 Cabriès, de 1996 à 2000.
+CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment
 
-ZI Avon n° 61, 13120 Gardanne, de 2000 à 2006.
+Primindus, plan de campagne, 13480 Cabriès, de 1996 à 2000. ZI Avon n° 61, 13120 Gardanne, de 2000 à 2006.
 
 Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
 

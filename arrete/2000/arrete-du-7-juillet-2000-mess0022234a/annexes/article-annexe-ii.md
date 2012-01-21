@@ -664,7 +664,7 @@ Naval Iroise, quai de Cambarel-Lanildut, 29236 Porspoder : de 1982 à 1993.
 
 MECAMAR. Rue Alain-Colas, 29200 Brest. Depuis 1996.
 
-Naviplast/Sodirev/Naviplast marine industrie, rue Ingénieur-Verriere, port de pêche, 56100 Lorient : depuis 1960.
+Naviplast/Sodirev, rue de l'Ingénieur-Verrière, port de pêche, 56100 Lorient : de 1960 à 1973, puis Naviplast Marine Industrie, 1, rue Erwan-Marrec, 56100 Lorient : de 1974 à 2005.
 
 Peron Albert La Pointe de Rocamandour, 29570 Camaret-sur-Mer de 1960 à 1990.
 
@@ -736,11 +736,9 @@ SA EBS, terre-plein du Port, 29750 Loctudy : depuis 1987.
 
 SAF Soudure autogène française, puis SIL Société industrielle lorientaise, 17, rue Henri-Estier, 56100 Lorient : depuis 1945.
 
-SA MCTI, avenue Salvador-Allende, BP 26, puis rue Archimède, ZAC du Parco, BP 26, 56701 Hennebont Cedex, depuis 1989.
+SA MCTI, avenue Salvador-Allende, BP 26, puis, rue Archimède, ZAC du Parco, BP 26, 56701 Hennebont Cedex : de 1989 à 2010.
 
-SA Pech'Alu/Pêche Alu International :
-
-- parc d'activités Kermassonnet, 56700 Kervignac : depuis 1991.
+SA Pech'Alu/Pêche Alu International : - parc d'activités Kermassonnet, 56700 Kervignac : depuis 1991.
 
 SA Guezennec participations (ex-SA Dourmap et Cie) :
 
@@ -766,9 +764,7 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
-SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de
-
-réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
+SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
 SCOP Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
 
@@ -784,9 +780,7 @@ SELF-SAPELEC :
 
 - Brest : depuis 1945.
 
-SEMIM :
-
-- ZI Horos, 29110 Concarneau : depuis 1971.
+SAS SEMIM, (Société d'entretien de moteurs industriels et marins), anse du Lin, 29900 Concarneau : de 1971 à 1989, puis zone industrielle du Moros, 29900 Concarneau : de 1990 à 2010.
 
 SERIM, rue Julien-de-la-Gravière, 29200 Brest, et 89, route de Gouesnou, 29200 Brest et Pen-Mane-Bihan, 56570 Locmiquélic : de sa création à 1997
 
