@@ -353,7 +353,6 @@
 - [Arrêté du 18 novembre 2005 (SANS0524241A)](arrete-du-18-novembre-2005-sans0524241a)
 - [Arrêté du 18 octobre 2005 (INTC0500737A)](arrete-du-18-octobre-2005-intc0500737a)
 - [Arrêté du 18 octobre 2005 (INTC0500738A)](arrete-du-18-octobre-2005-intc0500738a)
-- [Arrêté du 18 octobre 2005 (INTE0500759A)](arrete-du-18-octobre-2005-inte0500759a)
 - [Arrêté du 18 mai 2005 (BUDD0570001A)](arrete-du-18-mai-2005-budd0570001a)
 - [Arrêté du 18 mai 2005 (INDI0505075A)](arrete-du-18-mai-2005-indi0505075a)
 - [Arrêté du 19 août 2004 (SANP0422439A)](arrete-du-19-aout-2004-sanp0422439a)
