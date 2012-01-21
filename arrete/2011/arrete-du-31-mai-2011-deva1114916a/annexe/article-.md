@@ -156,4 +156,8 @@ Paris―Tunis (Tunisie).
 
 Jusqu'au 20 novembre 2016 :
 
-Paris - Kayes (Mali).
+Paris―Kayes (Mali)
+
+Jusqu'au 6 janvier 2017 :
+
+Paris―Tripoli (Libye).
