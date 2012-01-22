@@ -1,0 +1,7 @@
+# Article 11-1
+
+A la demande de l'organisme pour l'exécution de sa mission de délivrance et de suivi des garanties d'origine ainsi que pour la vérification des éléments figurant dans les dossiers de demandes de garanties d'origine, chaque gestionnaire de réseau public d'électricité vérifie l'exactitude des éléments 1° à 11° mentionnés au I de l'article 6 à partir des données dont ils disposent relatives aux installations ayant fait l'objet de demandes de garanties d'origine. Les gestionnaires de réseau public d'électricité communiquent à l'organisme le résultat de leur vérification, au plus tard trente jours après la sollicitation de l'organisme.
+
+L'organisme contractualise avec chaque gestionnaire de réseau public d'électricité concerné les modalités de transmission des données nécessaires à l'exécution de sa mission de délivrance, de suivi des garanties d'origine et de vérification des éléments figurant dans les dossiers de demandes de garanties d'origine. Ce contrat prévoit notamment que l'organisme rémunère les gestionnaires de réseau public d'électricité à hauteur des coûts exposés de mise à disposition de ces informations.
+
+L'organisme préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique dont la communication serait de nature à porter atteinte aux règles de concurrence et de non-discrimination imposées par la loi.
