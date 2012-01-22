@@ -3016,7 +3016,6 @@
 - [Arrêté du 30 octobre 2002 (SPRK0270225A)](arrete-du-30-octobre-2002-sprk0270225a)
 - [Arrêté du 30 septembre 2009 (AGRM0921439A)](arrete-du-30-septembre-2009-agrm0921439a)
 - [Arrêté du 30 septembre 2011 (AGRG1032380A)](arrete-du-30-septembre-2011-agrg1032380a)
-- [Arrêté du 30 septembre 2011 (BCRD1127094A)](arrete-du-30-septembre-2011-bcrd1127094a)
 - [Arrêté du 30 septembre 2011 (DEFH1126388A)](arrete-du-30-septembre-2011-defh1126388a)
 - [Arrêté du 30 septembre 2011 (DEVA1123209A)](arrete-du-30-septembre-2011-deva1123209a)
 - [Arrêté du 30 septembre 2011 (DEVA1126764A)](arrete-du-30-septembre-2011-deva1126764a)
