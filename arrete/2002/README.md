@@ -270,7 +270,6 @@
 - [Arrêté du 10 septembre 2002 (SANH0222753A)](arrete-du-10-septembre-2002-sanh0222753a)
 - [Arrêté du 11 avril 2001 (AGRX0100838A)](arrete-du-11-avril-2001-agrx0100838a)
 - [Arrêté du 11 avril 2002 (INTE0200184A)](arrete-du-11-avril-2002-inte0200184a)
-- [Arrêté du 11 avril 2002 (MESS0220842A)](arrete-du-11-avril-2002-mess0220842a)
 - [Arrêté du 11 avril 2002 (PRMX0205503A)](arrete-du-11-avril-2002-prmx0205503a)
 - [Arrêté du 11 décembre 2001 (JUSC0120750A)](arrete-du-11-decembre-2001-jusc0120750a)
 - [Arrêté du 11 décembre 2002 (JUSA0200444A)](arrete-du-11-decembre-2002-jusa0200444a)

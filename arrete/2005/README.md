@@ -400,7 +400,6 @@
 - [Arrêté du 20 juillet 2005 (MENF0501217A)](arrete-du-20-juillet-2005-menf0501217a)
 - [Arrêté du 20 juillet 2005 (SOCN0511204A)](arrete-du-20-juillet-2005-socn0511204a)
 - [Arrêté du 20 juin 2005 (ECOP0500485A)](arrete-du-20-juin-2005-ecop0500485a)
-- [Arrêté du 20 juin 2005 (SANS0522353A)](arrete-du-20-juin-2005-sans0522353a)
 - [Arrêté du 20 mars 2003 (AGRG0300656A)](arrete-du-20-mars-2003-agrg0300656a)
 - [Arrêté du 20 octobre 2005 (AGRM0502395A)](arrete-du-20-octobre-2005-agrm0502395a)
 - [Arrêté du 20 octobre 2005 (BUDL0500214A)](arrete-du-20-octobre-2005-budl0500214a)
