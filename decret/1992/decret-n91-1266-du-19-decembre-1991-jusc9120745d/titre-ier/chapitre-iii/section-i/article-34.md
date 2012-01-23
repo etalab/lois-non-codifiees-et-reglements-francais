@@ -12,7 +12,7 @@ Le requérant doit joindre à cette demande :
 
 5° Le cas échéant, la justification de sa situation familiale dans les conditions prévues à l'article 2 du décret n° 2000-1277 du 26 décembre 2000 portant simplification de formalités administratives ou, s'il est ressortissant étranger, par la production de toute pièce équivalente reconnue par les lois de son pays d'origine ou de résidence ;
 
-6° Lorsque l'aide juridictionnelle est demandée en vue de parvenir à une transaction avant l'introduction de l'instance, tout élément propre à établir la nature et l'objet du différend ainsi que, le cas échéant, les démarches entamées ou envisagées à cet effet, dans le respect des règles propres au secret professionnel ;
+6° Lorsque l'aide juridictionnelle est demandée en vue de parvenir à une transaction avant l'introduction de  l'instance ou à un accord dans le cadre d'une procédure participative, tout élément propre à établir la nature et l'objet du différend ainsi que, le cas échéant, les démarches entamées ou envisagées à cet effet, dans le respect des règles propres au secret professionnel ;
 
 7° Lorsque l'aide juridictionnelle est demandée en application de l'article 9-2 de la loi du 10 juillet 1991, la copie de l'avis à victime délivré par le juge d'instruction en application de l'article 80-3 du code de procédure pénale ou de l'ordonnance rendue en application de l'article 88 du même code ;
 

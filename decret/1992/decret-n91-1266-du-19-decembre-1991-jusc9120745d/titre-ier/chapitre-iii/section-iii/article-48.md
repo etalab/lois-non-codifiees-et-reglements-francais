@@ -1,14 +1,14 @@
 # Article 48
 
-I. - Les décisions mentionnent :
+I.-Les décisions mentionnent :
 
 1° Le montant des ressources retenues ainsi que, le cas échéant, les correctifs pour charges de famille et tous autres éléments pris en considération ;
 
 2° L'admission à l'aide juridictionnelle totale ou partielle, ou le rejet de la demande.
 
-II. - En cas d'admission à l'aide juridictionnelle totale ou partielle, les décisions indiquent également :
+II.-En cas d'admission à l'aide juridictionnelle totale ou partielle, les décisions indiquent également :
 
-1° La nature des procédures ou des actes ou l'objet des pourparlers transactionnels en vue ou à l'occasion desquels l'aide juridictionnelle est accordée ainsi que, le cas échéant, le moment de l'instance à compter duquel ou jusqu'auquel le requérant en bénéficiera ;
+1° La nature des procédures ou des actes ou l'objet des pourparlers transactionnels ou de la procédure participative en vue ou à l'occasion desquels l'aide juridictionnelle est accordée ainsi que, le cas échéant, le moment de l'instance à compter duquel ou jusqu'auquel le requérant en bénéficiera ;
 
 2° Dans le cas où plusieurs professions sont habilitées à représenter le bénéficiaire de l'aide, le cas échéant, celle de ces professions au sein de laquelle est choisi le représentant ;
 
@@ -22,8 +22,8 @@ II. - En cas d'admission à l'aide juridictionnelle totale ou partielle, les dé
 
 7° Le plafond de remboursement des frais, émoluments et honoraires couverts par un contrat d'assurance de protection juridique ou par un autre système de protection lorsque ce plafond est inférieur à la contribution de l'Etat à la rétribution de l'avocat ou des officiers publics ou ministériels.
 
-III. - En cas d'admission à l'aide juridictionnelle partielle, les décisions précisent, en outre, le montant de la part contributive de l'Etat.
+III.-En cas d'admission à l'aide juridictionnelle partielle, les décisions précisent, en outre, le montant de la part contributive de l'Etat.
 
-IV. - En cas de rejet de la demande, la décision contient les motifs du rejet. En matière de cassation, les motifs peuvent se limiter à l'indication de l'absence de moyen de cassation sérieux ; dans ce cas, il n'est pas fait application des dispositions du 1° du I.
+IV.-En cas de rejet de la demande, la décision contient les motifs du rejet. En matière de cassation, les motifs peuvent se limiter à l'indication de l'absence de moyen de cassation sérieux ; dans ce cas, il n'est pas fait application des dispositions du 1° du I.
 
-V. - La décision comporte, le cas échéant, la mention que l'aide juridictionnelle a été antérieurement accordée pour le même différend dans le cadre de pourparlers transactionnels ayant échoué, ainsi que le nom de l'avocat qui est intervenu à ce titre. Elle précise en outre, lorsque celui-ci est déjà fixé, le montant de l'indemnisation qui lui a été allouée.
+V.-La décision comporte, le cas échéant, la mention que l'aide juridictionnelle a été antérieurement accordée pour le même différend dans le cadre de pourparlers transactionnels ou de la procédure participative ayant échoué ou d'une procédure participative n'ayant pas abouti à un accord total, ainsi que le nom de l'avocat qui est intervenu à ce titre. Elle précise en outre, lorsque celui-ci est déjà fixé, le montant de l'indemnisation qui lui a été allouée.

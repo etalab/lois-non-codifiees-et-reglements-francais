@@ -8,4 +8,4 @@ Lorsque le demandeur ne demeure pas en France ou lorsque, demeurant à Mayotte, 
 
 3° Pour les affaires portées devant une autre juridiction administrative statuant en premier ressort, celui qui est établi au siège du tribunal de grande instance dans le ressort duquel a son siège le tribunal administratif dans le ressort duquel est installée la juridiction devant laquelle l'affaire est ou doit être portée.
 
-Il en est de même lorsque l'aide juridictionnelle est demandée en vue de parvenir à une transaction avant l'introduction de l'instance ou pour l'accomplissement d'un acte conservatoire ou l'exercice d'une voie d'exécution.
+Il en est de même lorsque l'aide juridictionnelle est demandée en vue de parvenir à une transaction avant l'introduction de l'instance, à un accord dans le cadre d'une procédure participative ou pour l'accomplissement d'un acte conservatoire ou l'exercice d'une voie d'exécution.

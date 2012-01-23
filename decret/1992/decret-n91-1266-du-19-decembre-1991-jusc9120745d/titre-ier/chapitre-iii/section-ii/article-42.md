@@ -10,6 +10,6 @@ La décision constatant la caducité de la demande d'aide juridictionnelle n'est
 
 Lorsque l'aide juridictionnelle a été précédemment accordée au requérant par un autre bureau pour le même différend, le bureau saisi en second demande au premier la copie de la décision d'admission et des éléments du dossier.
 
-Lorsque l'aide juridictionnelle est demandée en vue d'une transaction, le bureau s'assure que l'action susceptible d'être portée devant la juridiction en cas d'échec de celle-ci, n'est pas manifestement irrecevable ou dénuée de fondement.
+Lorsque l'aide juridictionnelle est demandée en vue d'une transaction ou d'un accord dans le cadre d'une procédure participative, le bureau s'assure que l'action susceptible d'être portée devant la juridiction en cas d'échec de celle-ci, n'est pas manifestement irrecevable ou dénuée de fondement.
 
 Le président ou, le cas échéant, le vice-président du bureau dispose également des pouvoirs prévus aux quatre premiers alinéas.

@@ -1,8 +1,6 @@
 # Article 1
 
-Il est institué des conciliateurs de justice qui ont pour mission de faciliter, en dehors de toute procédure judiciaire, le règlement amiable des différends portant sur des droits dont les intéressés ont la libre disposition.
-
-Ils peuvent également procéder aux tentatives de conciliation prévues par la loi, sauf en matière de divorce et de séparation de corps. Dans ce cas, la tentative de conciliation a lieu dans les conditions et selon la procédure prévues par les articles 128 à 131 du code de procédure civile.
+Il est institué des conciliateurs de justice qui ont pour mission de rechercher le règlement amiable d'un différend dans les conditions et selon les modalités prévues au code de procédure civile.
 
 Les fonctions de conciliateur de justice sont exercées à titre bénévole.
 

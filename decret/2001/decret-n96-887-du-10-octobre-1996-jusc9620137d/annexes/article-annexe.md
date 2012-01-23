@@ -120,7 +120,7 @@ La rétribution finale due à l'avocat ayant accompli une mission d'aide juridic
 
 -d'une ordonnance du président de la juridiction saisie ;
 
--d'une attestation de fin de mission transactionnelle délivrée par le président du bureau d'aide juridictionnelle.
+-d'une attestation de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative par le président du bureau d'aide juridictionnelle.
 
 Article 14
 
@@ -128,13 +128,13 @@ Toutefois, lorsqu'un mineur demande, conformément aux dispositions de l'article
 
 Article 15
 
-La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission et l'attestation de fin de mission transactionnelle sont remises à l'avocat.
+La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission et l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative sont remises à l'avocat.
 
 Article 16
 
 Le montant de la rétribution due à l'avocat pour les missions d'aide juridictionnelle totale est fixé sur la base de l'une ou plusieurs des options suivantes :
 
-1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission, sur l'ordonnance du président de la juridiction saisie ou sur l'attestation de fin de mission transactionnelle et du montant de l'unité de valeur en vigueur à la date de l'achèvement de la mission) ;
+1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission, sur l'ordonnance du président de la juridiction saisie ou sur l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative et du montant de l'unité de valeur en vigueur à la date de l'achèvement de la mission) ;
 
 2° Rétribution due par procédure, calculée selon des modalités particulières, pour les missions d'aide juridictionnelle totale (à déterminer) ;
 
@@ -214,7 +214,7 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue ou de la retenue douanière et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue ou de la retenue douanière et pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
 Article 23
 
@@ -228,7 +228,7 @@ c) Désigné par le bâtonnier pour les interventions au cours de la garde à vu
 
 d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
+Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
 
 Article 24
 

@@ -4,7 +4,7 @@ Les sommes revenant aux avocats, aux avoués et aux avocats au Conseil d'Etat et
 
 Cette attestation mentionne la nature de la procédure, les diligences effectuées et, selon le cas :
 
--le montant de la contribution de l'Etat à la rétribution de l'avocat après, le cas échéant, application de la réduction prévue à l'article 109 ou imputation de la somme perçue par lui au titre de l'aide juridictionnelle pour des pourparlers transactionnels ayant échoué ;
+-le montant de la contribution de l'Etat à la rétribution de l'avocat après, le cas échéant, application de la réduction prévue à l'article 109 ou imputation de la somme perçue par lui au titre de l'aide juridictionnelle pour des pourparlers transactionnels ayant échoué ou une procédure participative n'ayant pas abouti à un accord total ;
 
 -ou la somme à régler à l'officier public ou ministériel après, le cas échéant, application de la réduction prévue à l'article 109.
 

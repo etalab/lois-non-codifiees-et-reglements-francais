@@ -8,9 +8,9 @@ Elle contient les indications suivantes :
 
 2° Selon le cas :
 
-- l'objet de la demande en justice, accompagné d'un exposé succinct de ses motifs ;
+-l'objet de la demande en justice, accompagné d'un exposé succinct de ses motifs ;
 
-- la description sommaire du différend existant, l'identité des parties et l'objet de la transaction envisagée avant l'introduction de l'instance ;
+-la description sommaire du différend existant, l'identité des parties et l'objet de la transaction envisagée avant l'introduction de l'instance ;
 
 3° La juridiction saisie ou susceptible de l'être ou, s'il s'agit d'un acte conservatoire ou d'un acte d'exécution, le lieu où ils doivent être effectués ;
 
@@ -22,4 +22,4 @@ En outre, le requérant doit préciser :
 
 a) S'il dispose d'un ou plusieurs contrats d'assurance de protection juridique ou d'un autre système de protection couvrant la rémunération des auxiliaires de justice et les frais afférents au différend pour lequel le bénéfice de l'aide est demandé ;
 
-b) S'il a ou non bénéficié de l'aide juridictionnelle pour le même différend, que la demande d'aide soit formée en vue de parvenir à une transaction avant l'introduction de l'instance ou pour introduire une instance.
+b) S'il a ou non bénéficié de l'aide juridictionnelle pour le même différend, que la demande d'aide soit formée en vue de parvenir à une transaction avant l'introduction de l'instance, à un accord dans le cadre d'une procédure participative ou pour introduire une instance.
