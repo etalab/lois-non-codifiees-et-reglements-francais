@@ -1,7 +1,3 @@
 # Article 16
 
-La Société nationale des chemins de fer français chargée, pour le compte de Réseau ferré de France, de la gestion du trafic et des circulations sur le réseau ferré national ainsi que du fonctionnement et de l'entretien des installations techniques et de sécurité de ce réseau, veille sans discrimination à ce que le titulaire du certificat de sécurité respecte les obligations prévues à l'article 14.
-
-En cas de manquement grave ou répété à ces obligations, le ministre chargé des transports peut procéder au retrait total ou partiel du certificat de sécurité, après avoir mis son titulaire en mesure de présenter ses observations et après avis de Réseau ferré de France émis au vu d'un rapport technique établi par la Société nationale des chemins de fer français.
-
-En cas de risque grave ou imminent, la Société nationale des chemins de fer français, agissant pour le compte de Réseau ferré de France, peut décider d'immobiliser un convoi à titre conservatoire. Elle en informe immédiatement Réseau ferré de France et le ministre chargé des transports, qui peut prononcer la suspension du certificat de sécurité pour une durée de trois mois au plus et engager une procédure de retrait.
+Lorsque la gestion d'une gare est assurée dans le cadre d'un contrat ou d'une convention mentionnés aux articles L. 2111-11 et L. 2111-12 du code des transports, le gestionnaire de la gare est tenu pour l'application des dispositions du chapitre II du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire d'établir et de publier un document de référence de la gare dans les mêmes conditions que celles prévues aux I et II de l'article 14-1.

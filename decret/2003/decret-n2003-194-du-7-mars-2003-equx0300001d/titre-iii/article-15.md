@@ -1,7 +1,13 @@
 # Article 15
 
-Le ministre chargé des transports délivre le certificat de sécurité après avis de Réseau ferré de France.
+I.-A la demande du Syndicat des transports d'Ile-de-France en Ile-de-France ou d'une région, la Société nationale des chemins de fer français, représentée par le directeur des gares, propose à l'autorité organisatrice des transports concernée une convention pluriannuelle afin de déterminer les conditions d'utilisation et de gestion des gares de voyageurs mentionnées aux b et c de l'article 13-1 et relevant du ressort territorial de cette autorité organisatrice au titre des services de transport organisés par celle-ci.
 
-Le certificat de sécurité précise les services et les lignes du réseau ferré national pour lesquels il est valable.
+La convention pluriannuelle mentionnée à l'alinéa 1er, qui peut porter sur les biens appartenant à Réseau ferré de France et dont la gestion est assurée par la Société nationale des chemins de fer français dans les conditions prévues à l'article 16-1, précise les programmes d'investissements de renouvellement et de mise aux normes et les modalités de leur financement, conformément à l'article 14-1.
 
-Les études nécessaires à l'instruction technique du certificat de sécurité donnent lieu à une rémunération égale au coût directement imputable à leur réalisation.
+Les stipulations conventionnelles entre la Société nationale des chemins de fer français et cette autorité peuvent constituer un volet de la convention prévue à l'article L. 2121-4 du code des transports ou de celle mentionnée à l'article 6 du décret n° 59-157 du 7 janvier 1959 relatif à l'organisation des transports de voyageurs en Ile-de-France.
+
+II.-La rémunération prévue au titre de cette convention couvre l'ensemble des investissements et des charges exposées pour la réalisation des prestations en gare mentionnées à l'article 4 du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire qui incombent à la Société nationale des chemins de fer français.
+
+Dans le cas où une telle convention est conclue et par dérogation aux dispositions du premier alinéa de l'article 3 du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire, les entreprises ferroviaires dont les trains assurent des services organisés par l'autorité organisatrice signataire de la convention ont accès aux prestations régulées dans ces gares de voyageurs en versant la rémunération mentionnée à l'alinéa précédent à la Société nationale des chemins de fer français.
+
+Les redevances dues au titre des prestations régulées fournies dans ces gares à des entreprises ferroviaires assurant des services de transport autres que ceux mentionnés au précédent alinéa, calculées selon les modalités définies à l'article 13-1, sont rétrocédées par cet établissement à l'autorité organisatrice. Toutefois, le montant rétrocédé peut être diminué des charges définies à l'article 13-1 correspondant à des prestations non prévues par la convention.

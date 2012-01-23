@@ -1,0 +1,7 @@
+# Article 1
+
+Le présent décret a pour objet de définir les modalités suivant lesquelles Réseau ferré de France perçoit à son profit, en application de l'article 13 de la loi du 13 février 1997 susvisée et, lorsqu'il a conclu un contrat de partenariat, en application de l'article 1er-1 de la même loi, des redevances en contrepartie, d'une part, de l'accès au réseau ferré national de la réservation de capacités d'infrastructure et de la circulation sur ce réseau, d'autre part, des prestations complémentaires fournies sur ce réseau. Le régime des redevances pour les conventions de délégation de service public conclues sur le fondement des articles 1er-1 et 1er-2 de la loi susmentionnée et les contrats de partenariats conclus par l'Etat sur le fondement de l'article 1er-2 de la même loi est fixé aux articles 26 et 31 du décret n° 2006-1534 du 6 décembre 2006.
+
+Réseau ferré de France est chargé d'établir et de percevoir les redevances conformément aux règles définies dans le présent décret et le décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré national et rappelées dans le document de référence du réseau prévu par l'article 17 de ce dernier décret. Il doit être en mesure de justifier les redevances facturées. Il affecte le produit des redevances au financement de ses activités.
+
+Il respecte la confidentialité des informations commerciales qui lui sont communiquées pour l'application de ces dispositions.
