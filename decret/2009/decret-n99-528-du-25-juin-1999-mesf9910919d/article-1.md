@@ -18,7 +18,9 @@ II. ― A l'exception de la garantie contre le risque de dépendance, ces garant
 
 III. ― Les agents en congé pour raisons familiales ou personnelles, en application du titre V du décret du 17 janvier 1986 précité, ainsi que les agents en congé pour convenances personnelles ou dans l'intérêt du service, prévu aux articles 26 et 27 du décret du 31 décembre 2003 précité, peuvent, sur leur demande, bénéficier de ces garanties dans les conditions prévues au II de l'article 6 et à l'article 6-1.
 
-IV. ― Les agents retraités peuvent demander à bénéficier des garanties prévues aux articles 2-4 et 2-5, dans les conditions définies à l'article 6-1.
+IV. ― Les agents retraités peuvent demander à bénéficier des garanties prévues aux articles 2-3, 2-4 et 2-5, dans les conditions définies à l'article 6-1.
+
+Les anciens agents qui n'ont pas fait valoir leurs droits à une pension de retraite peuvent continuer à bénéficier des garanties prévues aux articles 2-1 à 2-5 dans les conditions définies à l'article 6-1.
 
 V. ― Les dispositions du présent décret ne sont pas applicables aux personnels recrutés pour faire face à des besoins occasionnels ou saisonniers d'activité, en application du deuxième alinéa de l'article 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat.
 
