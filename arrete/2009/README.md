@@ -83,7 +83,6 @@
 - [Arrêté du 2 mai 2009 (SASC0910139A)](arrete-du-2-mai-2009-sasc0910139a)
 - [Arrêté du 3 août 2009 (AGRM0918409A)](arrete-du-3-aout-2009-agrm0918409a)
 - [Arrêté du 3 août 2009 (AGRT0918247A)](arrete-du-3-aout-2009-agrt0918247a)
-- [Arrêté du 3 août 2009 (ECED0904560A)](arrete-du-3-aout-2009-eced0904560a)
 - [Arrêté du 3 avril 2009 (AGRP0905453A)](arrete-du-3-avril-2009-agrp0905453a)
 - [Arrêté du 3 avril 2009 (DEFH0906564A)](arrete-du-3-avril-2009-defh0906564a)
 - [Arrêté du 3 avril 2009 (DEVA0907836A)](arrete-du-3-avril-2009-deva0907836a)
