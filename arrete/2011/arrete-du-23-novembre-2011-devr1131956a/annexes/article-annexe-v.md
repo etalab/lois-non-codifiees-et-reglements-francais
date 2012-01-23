@@ -164,6 +164,8 @@ UDM, distillerie de Bagnols, route de Lespignan, 34710 Lespignan.
 
 UDM, distillerie du Beaujolais, BP 135, Charentay, 69823 Belleville Cedex.
 
+UDM, distillerie Champion-Labet, 35, route de Beaune, BP 16, 21420 Savigny-lès-Beaune.
+
 UNION DES COOPÉRATIVES VINICOLES D'AQUITAINE, 33203 Coutras.
 
 SOCIÉTÉ COOPÉRATIVE AUDOISE DE DISTILLATION de la région de Trèbes et Carcassonne, 11800 Trèbes.
