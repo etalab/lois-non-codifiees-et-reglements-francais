@@ -1,0 +1,3 @@
+# Article 4
+
+La mission ministérielle d'audit interne, placée directement auprès du ministre, est chargée d'animer et de coordonner la politique d'audit interne définie par le comité ministériel d'audit interne. Pour ce faire, elle reçoit le concours des inspections générales, inspections et services d'audit du ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration. Elle peut s'appuyer sur l'ensemble des services du ministère. Elle sollicite, le cas échéant, l'appui des services d'inspection externes au ministère. Elle établit toute relation utile avec les auditeurs externes du ministère.

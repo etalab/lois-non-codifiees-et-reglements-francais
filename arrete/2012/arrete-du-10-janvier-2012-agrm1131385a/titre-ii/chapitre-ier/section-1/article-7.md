@@ -1,0 +1,5 @@
+# Article 7
+
+1. Dès lors que le capitaine a reçu confirmation par le Centre national de surveillance des pêches que l'installation est validée, le capitaine procède à l'envoi de données déclaratives au cours d'une marée test. Durant cette phase, les déclarations officielles continuent d'être transmises au format papier.
+
+2. Le Centre national de surveillance des pêches indique à l'armateur la date prévue de début de transmission des données officielles. A partir de cette date, le capitaine à obligation de transmettre les données du journal de pêche électronique requises sous forme électronique à l'aide de l'équipement de bord. Après la première déclaration électronique officielle de départ d'un port, le Centre national de surveillance des pêches délivre à l'armateur un certificat administratif attestant que le navire transmet les données du journal de pêche au format électronique. Le capitaine est alors dispensé de l'obligation de remplir un journal de pêche, une déclaration de débarquement et une déclaration de transbordement sur papier.
