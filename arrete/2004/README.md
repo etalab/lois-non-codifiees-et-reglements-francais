@@ -486,7 +486,6 @@
 - [Arrêté du 19 décembre 2003 (EQUU0301743A)](arrete-du-19-decembre-2003-equu0301743a)
 - [Arrêté du 19 février 2004 (ECOT0310493A)](arrete-du-19-fevrier-2004-ecot0310493a)
 - [Arrêté du 19 février 2004 (ECOT0410496A)](arrete-du-19-fevrier-2004-ecot0410496a)
-- [Arrêté du 19 février 2004 (SOCF0410354A)](arrete-du-19-fevrier-2004-socf0410354a)
 - [Arrêté du 19 février 2004 (SOCF0410355A)](arrete-du-19-fevrier-2004-socf0410355a)
 - [Arrêté du 19 février 2004 (SOCF0410356A)](arrete-du-19-fevrier-2004-socf0410356a)
 - [Arrêté du 19 janvier 2004 (DOMA0300056A)](arrete-du-19-janvier-2004-doma0300056a)
