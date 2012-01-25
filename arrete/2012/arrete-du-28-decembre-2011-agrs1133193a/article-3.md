@@ -15,16 +15,12 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>MAJORATION <br/>forfaitaire <br/>corrigée de la <br/>répercussion de <br/>l'individualisation <br/>
-</th>
-<th>TAUX <br/>de cotisation <br/>en pourcentage, <br/>majoration <br/>forfaitaire incluse <br/>
-</th>
+<td/>
+<td align="center"> MAJORATION <br/>forfaitaire <br/>corrigée de la <br/>répercussion de <br/>l'individualisation</td>
+<td align="center"> TAUX <br/>de cotisation <br/>en pourcentage, <br/>majoration <br/>forfaitaire incluse </td>
 </tr>
 <tr>
-<td align="center">Secteur de la culture et de l'élevage (secteurs 1 et 2) <br/>
+<td align="left">Secteur de la culture et de l'élevage (secteurs 1 et 2) <br/>
 </td>
 <td align="center">
 <br/>
@@ -34,7 +30,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Cultures spécialisées <br/>
+<td align="left">Cultures spécialisées <br/>
 </td>
 <td align="center">― 0,0041 <br/>
 </td>
@@ -42,7 +38,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Champignonnières <br/>
+<td align="left">Champignonnières <br/>
 </td>
 <td align="center">― 0,0041 <br/>
 </td>
@@ -50,7 +46,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Elevage spécialisé de gros animaux <br/>
+<td align="left">Elevage spécialisé de gros animaux <br/>
 </td>
 <td align="center">― 0,0093 <br/>
 </td>
@@ -58,7 +54,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Elevage spécialisé de petits animaux <br/>
+<td align="left">Elevage spécialisé de petits animaux <br/>
 </td>
 <td align="center">― 0,0572 <br/>
 </td>
@@ -66,7 +62,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Entraînement, dressage, haras <br/>
+<td align="left">Entraînement, dressage, haras <br/>
 </td>
 <td align="center">― 0,0908 <br/>
 </td>
@@ -74,7 +70,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Conchyliculture <br/>
+<td align="left">Conchyliculture <br/>
 </td>
 <td align="center">― 0,1072 <br/>
 </td>
@@ -82,7 +78,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Marais salants <br/>
+<td align="left">Marais salants <br/>
 </td>
 <td align="center">― 0,0041 <br/>
 </td>
@@ -90,7 +86,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Cultures et élevage non spécialisés <br/>
+<td align="left">Cultures et élevage non spécialisés <br/>
 </td>
 <td align="center">― 0,1146 <br/>
 </td>
@@ -98,7 +94,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Viticulture <br/>
+<td align="left">Viticulture <br/>
 </td>
 <td align="center">― 0,1123 <br/>
 </td>
@@ -106,7 +102,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des travaux forestiers (secteur 3) <br/>
+<td align="left">Secteur des travaux forestiers (secteur 3) <br/>
 </td>
 <td align="center">
 <br/>
@@ -116,7 +112,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Sylviculture <br/>
+<td align="left">Sylviculture <br/>
 </td>
 <td align="center">― 1,0490 <br/>
 </td>
@@ -124,7 +120,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Gemmage <br/>
+<td align="left">Gemmage <br/>
 </td>
 <td align="center">
 <br/>
@@ -133,7 +129,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Exploitations de bois <br/>
+<td align="left">Exploitations de bois <br/>
 </td>
 <td align="center">― 0,1047 <br/>
 </td>
@@ -141,7 +137,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Scieries fixes <br/>
+<td align="left">Scieries fixes <br/>
 </td>
 <td align="center">― 0,0060 <br/>
 </td>
@@ -149,7 +145,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des entreprises de travaux agricoles (secteur 4) <br/>
+<td align="left">Secteur des entreprises de travaux agricoles (secteur 4) <br/>
 </td>
 <td align="center">
 <br/>
@@ -159,7 +155,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Entreprises de travaux agricoles <br/>
+<td align="left">Entreprises de travaux agricoles <br/>
 </td>
 <td align="center">― 0,0894 <br/>
 </td>
@@ -167,7 +163,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Entreprises de jardins, entreprises paysagistes, entreprises de reboisement <br/>
+<td align="left">Entreprises de jardins, entreprises paysagistes, entreprises de reboisement <br/>
 </td>
 <td align="center">― 0,0138 <br/>
 </td>
@@ -175,7 +171,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des entreprises artisanales rurales (secteur 5) <br/>
+<td align="left">Secteur des entreprises artisanales rurales (secteur 5) <br/>
 </td>
 <td align="center">
 <br/>
@@ -185,7 +181,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Artisans ruraux du bâtiment <br/>
+<td align="left">Artisans ruraux du bâtiment <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -193,7 +189,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Artisans ruraux autres <br/>
+<td align="left">Artisans ruraux autres <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -201,7 +197,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des coopératives agricoles (secteurs 6 et 7) <br/>
+<td align="left">Secteur des coopératives agricoles (secteurs 6 et 7) <br/>
 </td>
 <td align="center">
 <br/>
@@ -211,7 +207,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Stockage, conditionnement de produits agricoles, à l'exception des fleurs, fruits ou légumes <br/>
+<td align="left">Stockage, conditionnement de produits agricoles, à l'exception des fleurs, fruits ou légumes <br/>
 </td>
 <td align="center">― 0,1221 <br/>
 </td>
@@ -219,7 +215,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Approvisionnement <br/>
+<td align="left">Approvisionnement <br/>
 </td>
 <td align="center">― 0,1783 <br/>
 </td>
@@ -227,7 +223,12 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Traitement de la viande (hors volailles) comprenant une ou plusieurs des opérations suivantes : abattage, découpe-désossage, conserverie <br/>
+<td align="left"> Collecte, traitement, distribution de produits laitiers</td>
+<td align="center"> ― 0,5581</td>
+<td align="center"> 3,15</td>
+</tr>
+<tr>
+<td align="left">Traitement de la viande (hors volailles) comprenant une ou plusieurs des opérations suivantes : abattage, découpe-désossage, conserverie <br/>
 </td>
 <td align="center">― 1,7550 <br/>
 </td>
@@ -235,7 +236,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Conserveries de produits autres que la viande <br/>
+<td align="left">Conserveries de produits autres que la viande <br/>
 </td>
 <td align="center">― 0,4015 <br/>
 </td>
@@ -243,7 +244,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Vinification <br/>
+<td align="left">Vinification <br/>
 </td>
 <td align="center">― 0,1160 <br/>
 </td>
@@ -251,7 +252,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Insémination artificielle <br/>
+<td align="left">Insémination artificielle <br/>
 </td>
 <td align="center">― 0,0093 <br/>
 </td>
@@ -259,7 +260,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Sucrerie, distillation <br/>
+<td align="left">Sucrerie, distillation <br/>
 </td>
 <td align="center">― 0,1160 <br/>
 </td>
@@ -267,7 +268,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Meunerie, panification <br/>
+<td align="left">Meunerie, panification <br/>
 </td>
 <td align="center">― 0,4015 <br/>
 </td>
@@ -275,7 +276,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Stockage, conditionnement de fleurs, fruits ou légumes <br/>
+<td align="left">Stockage, conditionnement de fleurs, fruits ou légumes <br/>
 </td>
 <td align="center">― 0,1679 <br/>
 </td>
@@ -283,7 +284,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Traitement des viandes de volailles : abattage, découpe, transformation <br/>
+<td align="left">Traitement des viandes de volailles : abattage, découpe, transformation <br/>
 </td>
 <td align="center">― 0,4015 <br/>
 </td>
@@ -291,7 +292,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Coopératives diverses <br/>
+<td align="left">Coopératives diverses <br/>
 </td>
 <td align="center">― 0,4015 <br/>
 </td>
@@ -299,7 +300,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des organismes professionnels agricoles (secteur 8) <br/>
+<td align="left">Secteur des organismes professionnels agricoles (secteur 8) <br/>
 </td>
 <td align="center">
 <br/>
@@ -309,7 +310,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Organismes de mutualité agricole <br/>
+<td align="left">Organismes de mutualité agricole <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -317,7 +318,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Caisses de crédit agricole mutuel <br/>
+<td align="left">Caisses de crédit agricole mutuel <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -325,7 +326,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Autres organismes, établissements et groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural, à l'exclusion des organismes à caractère coopératif <br/>
+<td align="left">Autres organismes, établissements et groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural, à l'exclusion des organismes à caractère coopératif <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -333,7 +334,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Sociétés d'intérêt collectif agricole en électricité (SICAE) SICAE ― Personnel statutaire <br/>
+<td align="left">Sociétés d'intérêt collectif agricole en électricité (SICAE) SICAE ― Personnel statutaire <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -341,7 +342,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">SICAE ― Personnel temporaire <br/>
+<td align="left">SICAE ― Personnel temporaire <br/>
 </td>
 <td align="center">
 <br/>
@@ -350,7 +351,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Secteur des activités diverses (secteur 9) <br/>
+<td align="left">Secteur des activités diverses (secteur 9) <br/>
 </td>
 <td align="center">
 <br/>
@@ -360,7 +361,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Apprentis <br/>
+<td align="left">Apprentis <br/>
 </td>
 <td align="center">
 <br/>
@@ -369,7 +370,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Gardes-chasse, gardes-pêche <br/>
+<td align="left">Gardes-chasse, gardes-pêche <br/>
 </td>
 <td align="center">― 0,1209 <br/>
 </td>
@@ -377,7 +378,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Jardiniers, jardiniers-gardes de propriété, gardes forestiers <br/>
+<td align="left">Jardiniers, jardiniers-gardes de propriété, gardes forestiers <br/>
 </td>
 <td align="center">― 0,1209 <br/>
 </td>
@@ -385,7 +386,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Organismes de remplacement, entreprises de travail temporaire <br/>
+<td align="left">Organismes de remplacement, entreprises de travail temporaire <br/>
 </td>
 <td align="center">― 0,1209 <br/>
 </td>
@@ -393,7 +394,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Personnel enseignant agricole privé visé au 5° de l'article L. 722-20 du code rural ou employé par les groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural. <br/>
+<td align="left">Personnel enseignant agricole privé visé au 5° de l'article L. 722-20 du code rural ou employé par les groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural. <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -401,7 +402,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Travailleurs handicapés des établissements ou sociétés d'aide par le travail (ESAT) <br/>
+<td align="left">Travailleurs handicapés des établissements ou sociétés d'aide par le travail (ESAT) <br/>
 </td>
 <td align="center">― <br/>
 </td>
@@ -409,8 +410,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Ateliers et chantiers d'insertion (ACI) : salariés en contrats d'accompagnement dans l'emploi et salariés en contrat d'avenir <br/>
-</td>
+<td align="left">Ateliers et chantiers d'insertion (ACI) : salariés en contrats d'accompagnement dans l'emploi </td>
 <td align="center">
 <br/>
 </td>
@@ -418,7 +418,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Stagiaires de la formation professionnelle continue <br/>
+<td align="left">Stagiaires de la formation professionnelle continue <br/>
 </td>
 <td align="center">
 <br/>
@@ -427,7 +427,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </td>
 </tr>
 <tr>
-<td align="center">Salariés d'entreprises étrangères sans établissement en France <br/>
+<td align="left">Salariés d'entreprises étrangères sans établissement en France <br/>
 </td>
 <td align="center">
 <br/>
