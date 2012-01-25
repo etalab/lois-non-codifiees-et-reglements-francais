@@ -75,14 +75,14 @@ Certaines écoles de l'enseignement supérieur sous tutelle du ministère de l'a
 <tr>
 <td align="center">Institut supérieur agricole de Beauvais. <br/>
 </td>
-<td align="center">Institut polytechnique LaSalle Beauvais. <br/>
+<td align="center">Institut polytechnique LaSalle Beauvais.<br/>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 
-Institut des sciences et techniques d'outre-mer.
+Institut supérieur technique d'outre-mer.
 
 Ecole nationale du génie de l'eau et de l'environnement de Strasbourg.
 
@@ -133,3 +133,33 @@ Institut supérieur d'agriculture de Rhône-Alpes.
 ― Certificat inscrit au répertoire national des certifications professionnelles
 
 Eleveur, délivré par l'Union nationale rurale d'éducation et de promotion (UNREP) dans les deux centres suivants : le centre d'élevage Lucien Biset de Poisy (74) et le pôle de formations élevage, agroéquipement et machinisme, à Bernussou (12).
+
+LISTE COMPLÉMENTAIRE DES DIPLÔMES ENREGISTRÉS AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES RECONNUS COMME CONFÉRANT LA CAPACITÉ PROFESSIONNELLE AGRICOLE LORSQU'ILS SONT COMPLÉTÉS PAR LE PLAN DE PROFESSIONNALISATION PERSONNALISÉ POUR LES CANDIDATS À L'INSTALLATION NÉS À COMPTER DU 1er JANVIER 1971 POUR L'APPLICATION DU 4° DE L'ARTICLE D. 343-4 DU CODE RURAL ET DE LA PÊCHE MARITIME
+
+Diplôme universitaire de technologie " génie biologique ", option " agronomie ".
+
+Licence professionnelle " agriculture et développement durable en milieu tropical et insulaire ".
+
+Licence professionnelle " management et gestion des entreprises de la filière cheval .
+
+Master " production végétale et industrie agroalimentaire ".
+
+Brevet de technicien supérieur " agroéquipement ".
+
+Brevet professionnel " responsable d'atelier de productions horticoles ".
+
+Brevet professionnel " agroéquipement, conduite et maintenance des matériels ".
+
+Brevet professionnel " responsable de chantiers forestiers ".
+
+Baccalauréat professionnel " conduite et gestion de l'entreprise hippique ".
+
+Baccalauréat professionnel " aménagements paysagers ".
+
+Baccalauréat professionnel " forêt ".
+
+Baccalauréat professionnel " conduite et gestion d'une entreprise du secteur canin et félin ".
+
+Baccalauréat professionnel " production aquacole ".
+
+Baccalauréat professionnel " productions horticoles " .
