@@ -1,17 +1,11 @@
 # Article 1
 
-Sont régis par les dispositions du présent décret les personnels de l'Assistance publique-hôpitaux de Paris constituant les corps suivants :
+Sont régis par les dispositions du présent décret les personnels de l'Assistance publique-hôpitaux de Paris constituant les corps classés en catégorie C ci-dessous énumérés :
 
-Catégorie B :
+1° Le corps de la maîtrise ouvrière ;
 
-Le corps des agents-chefs ;
+2° Le corps des personnels ouvriers ;
 
-Catégorie C :
+3° Le corps des blanchisseurs ;
 
-Le corps de la maîtrise ouvrière ;
-
-Le corps des personnels ouvriers ;
-
-Le corps des blanchisseurs ;
-
-Le corps des conducteurs ambulanciers.
+4° Le corps des conducteurs ambulanciers.

@@ -383,6 +383,7 @@
 - [Décret n°2011-1891 du 14 décembre 2011 (DEVP1107305D)](decret-n2011-1891-du-14-decembre-2011-devp1107305d)
 - [Décret n°2011-1892 du 14 décembre 2011 (JUSC1114877D)](decret-n2011-1892-du-14-decembre-2011-jusc1114877d)
 - [Décret n°2011-1894 du 14 décembre 2011 (AGRG1122190D)](decret-n2011-1894-du-14-decembre-2011-agrg1122190d)
+- [Décret n°2011-661 du 14 juin 2011 (ETSH1105688D)](decret-n2011-661-du-14-juin-2011-etsh1105688d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
 - [Décret n°2011-1108 du 15 septembre 2011 (AGRT1114771D)](decret-n2011-1108-du-15-septembre-2011-agrt1114771d)
 - [Décret n°2011-1518 du 15 novembre 2011 (DEVP1128018D)](decret-n2011-1518-du-15-novembre-2011-devp1128018d)

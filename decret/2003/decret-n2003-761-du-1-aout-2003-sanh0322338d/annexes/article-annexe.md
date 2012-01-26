@@ -30,11 +30,11 @@ Sous-groupe unique : attaché principal d'administration hospitalière ; attach�
 
 CORPS DE CATÉGORIE B
 
-CAP n° 4 : personnels d'encadrement technique et ouvrier
+CAP n° 4 : personnels d'encadrement technique
 
-Groupe unique
+Groupe unique :
 
-Sous-groupe unique : technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris ; technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris ; technicien supérieur hospitalier de l'Assistance publique-hôpitaux de Paris ; agent-chef de classe exceptionnelle ; agent-chef de 1re catégorie ; agent-chef de 2e catégorie.
+Sous-groupe unique : techniciens hospitaliers, techniciens supérieurs hospitaliers de 2e classe, techniciens supérieurs hospitaliers de 1re classe.
 
 CAP n° 5 : personnels infirmiers
 
