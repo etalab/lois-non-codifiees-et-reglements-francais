@@ -5,3 +5,4 @@
 - [Titre 3 : Les agents techniques spécialisés de l'assistance publique - hôpitaux de Paris.](titre-3)
 - [Titre 4 : Dispositions générales.](titre-4)
 - [Titre 5 : Dispositions transitoires](titre-5)
+- [Article 52](article-52.md)

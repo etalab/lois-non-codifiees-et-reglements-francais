@@ -1,0 +1,3 @@
+# Article 18
+
+Les représentants des personnels à la commission administrative paritaire compétente pour les membres du corps des agents-chefs de l'Assistance publique-hôpitaux de Paris régi par le décret du 19 septembre 1991 susvisé et du corps des techniciens supérieurs de l'Assistance publique-hôpitaux de Paris régi par le décret du 3 février 1993 susvisé siègent dans la commission administrative paritaire compétente pour les membres du corps des techniciens et techniciens supérieurs hospitaliers de l'Assistance publique-hôpitaux de Paris régi par le présent décret jusqu'à l'expiration de leur mandat prévu à l'article 39 du décret du 1er août 2003 susvisé.
