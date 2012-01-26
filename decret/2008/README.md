@@ -108,7 +108,6 @@
 - [Décret n°2008-320 du 4 avril 2008 (SJSH0773862D)](decret-n2008-320-du-4-avril-2008-sjsh0773862d)
 - [Décret n°2008-321 du 4 avril 2008 (SJSP0802196D)](decret-n2008-321-du-4-avril-2008-sjsp0802196d)
 - [Décret n°2008-322 du 4 avril 2008 (SJSH0804450D)](decret-n2008-322-du-4-avril-2008-sjsh0804450d)
-- [Décret n°2008-323 du 4 avril 2008 (SJSH0804467D)](decret-n2008-323-du-4-avril-2008-sjsh0804467d)
 - [Décret n°2008-528 du 4 juin 2008 (IOCE0801647D)](decret-n2008-528-du-4-juin-2008-ioce0801647d)
 - [Décret n°2008-529 du 4 juin 2008 (ECEL0806199D)](decret-n2008-529-du-4-juin-2008-ecel0806199d)
 - [Décret n°2008-530 du 4 juin 2008 (MTSS0806920D)](decret-n2008-530-du-4-juin-2008-mtss0806920d)
