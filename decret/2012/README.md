@@ -7,6 +7,7 @@
 - [Décret n°2011-1230 du 3 octobre 2011 (JUSC1115342D)](decret-n2011-1230-du-3-octobre-2011-jusc1115342d)
 - [Décret n°2011-1445 du 3 novembre 2011 (MFPF1122077D)](decret-n2011-1445-du-3-novembre-2011-mfpf1122077d)
 - [Décret n°2012-3 du 3 janvier 2012 (IOCA1126729D)](decret-n2012-3-du-3-janvier-2012-ioca1126729d)
+- [Décret n°93-145 du 3 février 1993 (SANH9202685D)](decret-n93-145-du-3-fevrier-1993-sanh9202685d)
 - [Décret n°2012-12 du 4 janvier 2012 (DEVL1006360D)](decret-n2012-12-du-4-janvier-2012-devl1006360d)
 - [Décret n°2012-13 du 4 janvier 2012 (DEVP1113917D)](decret-n2012-13-du-4-janvier-2012-devp1113917d)
 - [Décret n°2012-17 du 4 janvier 2012 (AGRS1030292D)](decret-n2012-17-du-4-janvier-2012-agrs1030292d)
