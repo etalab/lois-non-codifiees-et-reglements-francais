@@ -69,8 +69,6 @@
 - [Décret n°90-782 du 3 septembre 1990 (LOGC9000060D)](decret-n90-782-du-3-septembre-1990-logc9000060d)
 - [Décret n°90-783 du 3 septembre 1990 (LOGC9000061D)](decret-n90-783-du-3-septembre-1990-logc9000061d)
 - [Décret n°90-789 du 3 septembre 1990 (SPSS9001241D)](decret-n90-789-du-3-septembre-1990-spss9001241d)
-- [Décret n°93-145 du 3 février 1993 (SANH9202685D)](decret-n93-145-du-3-fevrier-1993-sanh9202685d)
-- [Décret n°93-146 du 3 février 1993 (SANH9202686D)](decret-n93-146-du-3-fevrier-1993-sanh9202686d)
 - [Décret n°90-374 du 3 mai 1990 (AGRS9000829D)](decret-n90-374-du-3-mai-1990-agrs9000829d)
 - [Décret n°90-376 du 3 mai 1990 (EQUU9000419D)](decret-n90-376-du-3-mai-1990-equu9000419d)
 - [Décret n°90-1077 du 4 décembre 1990 (SPSS9002384D)](decret-n90-1077-du-4-decembre-1990-spss9002384d)
