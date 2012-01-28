@@ -524,7 +524,6 @@
 - [Décret n°95-167 du 17 février 1995 (FPPX9500016D)](decret-n95-167-du-17-fevrier-1995-fppx9500016d)
 - [Décret n°95-171 du 17 février 1995 (ECOS9540007D)](decret-n95-171-du-17-fevrier-1995-ecos9540007d)
 - [Décret n°95-172 du 17 février 1995 (BUDF9500003D)](decret-n95-172-du-17-fevrier-1995-budf9500003d)
-- [Décret n°95-299 du 17 mars 1995 (FPPA9500039D)](decret-n95-299-du-17-mars-1995-fppa9500039d)
 - [Décret n°95-300 du 17 mars 1995 (JUSE9540004D)](decret-n95-300-du-17-mars-1995-juse9540004d)
 - [Décret n°95-322 du 17 mars 1995 (BUDB9560005D)](decret-n95-322-du-17-mars-1995-budb9560005d)
 - [Décret n°95-54 du 17 janvier 1995 (ACVA9410116D)](decret-n95-54-du-17-janvier-1995-acva9410116d)

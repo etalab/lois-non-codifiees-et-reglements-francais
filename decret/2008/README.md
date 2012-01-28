@@ -302,7 +302,6 @@
 - [Décret n°2008-1302 du 11 décembre 2008 (ECET0827020D)](decret-n2008-1302-du-11-decembre-2008-ecet0827020d)
 - [Décret n°2008-1306 du 11 décembre 2008 (DEVO0821493D)](decret-n2008-1306-du-11-decembre-2008-devo0821493d)
 - [Décret n°2008-1307 du 11 décembre 2008 (DEVT0818986D)](decret-n2008-1307-du-11-decembre-2008-devt0818986d)
-- [Décret n°2008-1308 du 11 décembre 2008 (DEVK0823269D)](decret-n2008-1308-du-11-decembre-2008-devk0823269d)
 - [Décret n°2008-1310 du 11 décembre 2008 (MTST0823657D)](decret-n2008-1310-du-11-decembre-2008-mtst0823657d)
 - [Décret n°2008-1311 du 11 novembre 2008 (MLVV0828134D)](decret-n2008-1311-du-11-novembre-2008-mlvv0828134d)
 - [Décret n°2008-247 du 11 mars 2008 (SJSP0771474D)](decret-n2008-247-du-11-mars-2008-sjsp0771474d)

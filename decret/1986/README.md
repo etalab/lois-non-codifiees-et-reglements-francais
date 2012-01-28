@@ -168,7 +168,6 @@
 - [Décret n°86-522 du 14 mars 1986](decret-n86-522-du-14-mars-1986)
 - [Décret n°86-534 du 14 mars 1986](decret-n86-534-du-14-mars-1986)
 - [Décret n°86-538 du 14 mars 1986](decret-n86-538-du-14-mars-1986)
-- [Décret n°86-543 du 14 mars 1986](decret-n86-543-du-14-mars-1986)
 - [Décret n°86-547 du 14 mars 1986](decret-n86-547-du-14-mars-1986)
 - [Décret n°86-548 du 14 mars 1986](decret-n86-548-du-14-mars-1986)
 - [Décret n°86-553 du 14 mars 1986](decret-n86-553-du-14-mars-1986)
