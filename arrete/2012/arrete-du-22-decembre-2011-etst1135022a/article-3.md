@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque les vérifications périodiques des installations électriques d'un établissement, prévues à l'article R. 4226-16 du code du travail, sont réalisées par une personne qui n'appartient pas à l'établissement, l'organisme qui l'emploie apporte la preuve de sa compétence au moyen d'une attestation d'accréditation délivrée par le Comité français d'accréditation (COFRAC) ou par un autre organisme, signataire de l'Accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation (EA), selon la norme NF en ISO/CEI 17020 (2005) : critères généraux pour le fonctionnement de différents organismes procédant à l'inspection et selon le référentiel d'accréditation correspondant disponible sur le site internet du COFRAC.
