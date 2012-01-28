@@ -8,5 +8,4 @@
 - [Article 89](article-89.md)
 - [Article 90](article-90.md)
 - [Article 95](article-95.md)
-- [Article 100](article-100.md)
 - [Article 101](article-101.md)
