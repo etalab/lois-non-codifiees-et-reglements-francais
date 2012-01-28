@@ -42,7 +42,7 @@ Ils se composent de trois feux respectivement vert, jaune et rouge dans cet ordr
 
 Les signaux destinés aux véhicules des services réguliers de transport en commun se composent de trois feux blancs, présentant de bas en haut une barre verticale, un disque et une barre horizontale.
 
-On utilise également des signaux bicolores destinés aux piétons et, dans certains cas, des signaux unicolores jaunes clignotants, dits d'anticipation.
+On utilise également des signaux bicolores destinés aux piétons et, dans certains cas, des signaux unicolores jaunes clignotants, dits d'anticipation ou d'autorisation conditionnelle.
 
 a) Signaux tricolores circulaires (R 11) :
 
@@ -56,19 +56,15 @@ Ils se composent de deux feux rectangulaires généralement disposés côte à c
 
 c) Signaux tricolores modaux (R 13) :
 
-Ils se composent de trois feux munis de pictogrammes identiques :
+Ils se composent de trois feux munis de pictogrammes identiques : silhouette d'un vélo pour le signal R3c ou mot : "BUS" pour le signal R13b. Ils s'adressent à des catégories spécifiques d'usagers :
 
-cycle (R 13 c), ou bus (R 13 b).
+- R13c : cyclistes ;
 
-Ils s'adressent aux catégories d'usagers spécifiquement désignés par le pictogramme :
+- R13b : services réguliers de transport en commun et autres usagers dûment habilités à emprunter les voies réservées à leur intention.
 
-R 13 c : cyclistes ;
+Le feu du bas peut être jaune clignotant.
 
-R 13 b : services réguliers de transport en commun dûment habilités à emprunter les voies réservées à leur intention ;
-
-Le feu du bas peut être jaune clignotant ;
-
-Lorsqu'un ensemble tricolore modal R 13 est juxtaposé à un ensemble tricolore circulaire R 11, les usagers auxquels le signal R 13 s'adresse doivent se conformer aux indications qu'il donne.
+Lorsqu'un ensemble tricolore modal R13 est juxtaposé à un ensemble tricolore circulaire R11, les usagers auxquels le signal R13 s'adresse doivent se conformer aux indications qu'il donne.
 
 d) Signaux tricolores directionnels (R 14) :
 
@@ -80,9 +76,9 @@ Les indications données ne concernent que les conducteurs qui occupent, sur la 
 
 e) Signaux d'anticipation modaux (R 15) :
 
-Destinés aux mêmes catégories de véhicules que les signaux tricolores modaux R. 13, ils se composent d'un feu jaune clignotant muni d'un pictogramme : cycle (R 15 c), bus (R 15 b) ;
+Destinés aux mêmes catégories de véhicules et d'usagers que les signaux tricolores modaux R13, ils se composent d'un feu jaune clignotant muni d'un pictogramme : silhouette d'un vélo pour le signal R15c ou mot : "BUS" pour le signal R15b.
 
-Ils sont toujours associés à un signal tricolore circulaire R 11.
+Ils sont toujours associés à un signal tricolore circulaire R11.
 
 f) Signaux d'anticipation directionnels (R 16) :
 
@@ -92,29 +88,41 @@ Ils sont toujours associés à un signal tricolore circulaire R 11 ;
 
 Une flèche à droite (ou à gauche) désigne la première direction de sortie autorisée immédiatement à droite (ou à gauche).
 
-g) Significations particulières du jaune clignotant :
-
-Sur un signal d'anticipation (modal R 15 ou directionnel R 16), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'effet du signal tricolore circulaire R 11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en cédant le passage à tous autres véhicules ou piétons ;
-
-Dans un ensemble de feux tricolore, un feu jaune clignotant signifie autorisation de passer avec prudence car d'autres usagers, avec lesquels un conflit inhabituel est possible, sont admis simultanément à franchir l'intersection :
-
--ce feu jaune clignotant est en bas (sur les feux circulaires ou modaux seulement) lorsque cette situation est permanente ; les feux s'allument alors de façon cyclique dans l'ordre : jaune clignotant, jaune fixe, rouge, jaune clignotant, etc. ;
-
--ce feu jaune clignotant est au milieu lorsque l'ensemble de l'installation est en panne, en cours de mise en activité ou volontairement géré avec ce seul message, pour une durée déterminée ou non ;
-
-Dans ces deux cas, en application de l'article R. 411-25 du code de la route, l'usager doit appliquer l'un des régimes de priorité suivants :
-
--priorité à droite en l'absence de tout panneau de type AB (art. R. 415-5 du code de la route) et priorité aux tramways (art. R. 422-3 du code de la route) ;
-
--indications données par ces panneaux de type AB dans le cas contraire.
-
-h) Signaux pour véhicules des services réguliers de transport en commun (R17).
+g) Signaux pour véhicules des services réguliers de transport en commun (R17).
 
 Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. Ils s'adressent exclusivement aux véhicules des services réguliers de transport en commun.
 
-i) Signaux directionnels pour véhicules des services réguliers de transports en commun (R18).
+h) Signaux directionnels pour véhicules des services réguliers de transports en commun (R18).
 
 Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. La barre verticale du bas est inclinée à droite ou à gauche pour indiquer la direction autorisée. Ils s'adressent exclusivement aux véhicules des services réguliers de transport en commun.
+
+i) Signaux d'autorisation conditionnelle de franchissement pour cycles (R19) :
+
+Destinés aux cycles, ils se composent d'un feu jaune clignotant muni d'un pictogramme cycle et d'une flèche indiquant la direction concernée.
+
+Le signal R19d autorise les cyclistes à franchir la ligne d'arrêt du feu tricolore pour s'engager sur la voie située la plus à droite.
+
+Le signal R19td autorise les cyclistes à franchir la ligne d'arrêt du feu tricolore pour s'engager sur la voie située en continuité.
+
+Ils sont toujours associés à un signal tricolore de type R11v ou R13bv.
+
+j) Significations particulières du jaune clignotant :
+
+Dans un ensemble de feux tricolores, un feu jaune clignotant signifie autorisation de passer avec prudence car d'autres usagers, avec lesquels un conflit inhabituel est possible, sont admis simultanément à franchir l'intersection :
+
+- ce feu jaune clignotant est en bas (sur les feux circulaires ou modaux seulement) lorsque cette situation est permanente ; les feux s'allument alors de façon cyclique dans l'ordre : jaune clignotant, jaune fixe, rouge, jaune clignotant, etc. ;
+
+- ce feu jaune clignotant est au milieu lorsque l'ensemble de l'installation est en panne, en cours de mise en activité ou volontairement géré avec ce seul message, pour une durée déterminée ou non.
+
+Dans ces deux cas, conformément à l'article R. 412-32 du code de la route, l'usager auquel s'adresse le feu jaune clignotant doit :
+
+- appliquer les règles de priorité établies par le code de la route (concernant les usagers venant de la droite, les piétons et les tramways), si aucun panneau de type AB n'est présent ; ou, s'il est présent,
+
+- se conformer aux indications du panneau de type AB et aux règles de priorité mentionnées ci-dessus qui se trouveraient également applicables (concernant les piétons et les tramways).
+
+Sur un signal d'anticipation (modal R15 ou directionnel R16), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'arrêt du signal tricolore circulaire R11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en respectant la priorité de passage accordée aux autres usagers.
+
+Sur un signal d'autorisation conditionnelle de franchissement (R19 pour cycles), le feu jaune clignotant signifie aux cyclistes qu'ils sont autorisés à ne pas marquer l'arrêt signifié par le feu pour emprunter la direction indiquée par la flèche, à la condition de franchir la ligne d'arrêt du signal tricolore en toute prudence et en respectant la priorité de passage accordée aux autres usagers.
 
 B.-Autres signaux lumineux de circulation.
 
