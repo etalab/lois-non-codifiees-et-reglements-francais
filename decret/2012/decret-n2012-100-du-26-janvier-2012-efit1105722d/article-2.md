@@ -1,0 +1,7 @@
+# Article 2
+
+Les conseillers en investissements financiers mentionnés à l'article L. 541-1, adhérents d'une association mentionnée à l'article L. 541-4 et inscrits sur la liste publique tenue par l'Autorité des marchés financiers mentionnée à l'article L. 541-5 à la date de mise en place du registre mentionné au I de l'article L. 546-1 sont inscrits automatiquement audit registre en cette qualité, sous réserve qu'ils s'acquittent des frais d'inscription prévus au I de l'article L. 546-1 dans le délai de six mois à compter de la mise en place du registre.
+
+Les agents liés mentionnés à l'article L. 545-1, régulièrement déclarés à la date de mise en place du registre mentionné au I de l'article L. 546-1, sont inscrits automatiquement audit registre en cette qualité, sous réserve qu'ils s'acquittent de leurs frais d'inscription annuels dans le délai six mois à compter de la mise en place du registre.
+
+Les intermédiaires en opérations de banque et en services de paiement mentionnés à l'article L. 519-1, dispensés au titre de l'année en cours de toutes formalités pour l'inscription sur le registre, s'acquittent de leurs frais d'inscription annuels dans le délai de trois mois à compter de la mise en place du registre. Ils fournissent lors du premier renouvellement de leur immatriculation un dossier comprenant des justificatifs dont le contenu est fixé par arrêté du ministre chargé de l'économie.

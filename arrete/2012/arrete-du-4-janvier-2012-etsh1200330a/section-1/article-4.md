@@ -1,0 +1,3 @@
+# Article 4
+
+Ont vocation à être parties à la convention constitutive le ou les établissements (ou structures) adhérant à la convention constitutive du ou des centres hospitaliers et universitaires de la ou des régions concernées, la ou les universités correspondantes, les établissements de santé mentionnés à l'article L. 6111-1 du code de la santé publique, les établissements d'enseignement supérieur et de recherche, publics ou privés, dont les activités sont concernées par les disciplines entrant dans le champ de compétence de l'espace de réflexion éthique et les établissements médico-sociaux.
