@@ -10,7 +10,7 @@ Le conseil d'instruction comprend :
 
 4° Un professeur ou un instructeur de l'école désigné par le commandant de l'école.
 
-Le médecin-chef de l'école siège au conseil avec voix consultative.
+Le      médecin référent de l'école siège au conseil avec voix consultative.
 
 Le conseil se réunit à huis clos sur convocation du commandant de l'école.
 
