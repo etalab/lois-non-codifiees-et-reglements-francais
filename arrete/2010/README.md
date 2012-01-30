@@ -2200,7 +2200,6 @@
 - [Arrêté du 23 décembre 2009 (ECED0929523A)](arrete-du-23-decembre-2009-eced0929523a)
 - [Arrêté du 23 décembre 2009 (ECEI0929484A)](arrete-du-23-decembre-2009-ecei0929484a)
 - [Arrêté du 23 décembre 2009 (ECEI0929493A)](arrete-du-23-decembre-2009-ecei0929493a)
-- [Arrêté du 23 décembre 2009 (ESRH0928966A)](arrete-du-23-decembre-2009-esrh0928966a)
 - [Arrêté du 23 décembre 2009 (ESRH0928967A)](arrete-du-23-decembre-2009-esrh0928967a)
 - [Arrêté du 23 décembre 2009 (IOCE0931439A)](arrete-du-23-decembre-2009-ioce0931439a)
 - [Arrêté du 23 décembre 2009 (JUSC0922272A)](arrete-du-23-decembre-2009-jusc0922272a)

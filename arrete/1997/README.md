@@ -627,7 +627,6 @@
 - [Arrêté du 20 mai 1997 (BUDF9700009A)](arrete-du-20-mai-1997-budf9700009a)
 - [Arrêté du 20 mai 1997 (EQUG9700796A)](arrete-du-20-mai-1997-equg9700796a)
 - [Arrêté du 20 mai 1997 (FCEC9700091A)](arrete-du-20-mai-1997-fcec9700091a)
-- [Arrêté du 20 mai 1997 (MENN9701179A)](arrete-du-20-mai-1997-menn9701179a)
 - [Arrêté du 20 mai 1997 (TASK9710707A)](arrete-du-20-mai-1997-task9710707a)
 - [Arrêté du 20 mai 1997 (TAST9710719A)](arrete-du-20-mai-1997-tast9710719a)
 - [Arrêté du 20 mai 1997 (TAST9710720A)](arrete-du-20-mai-1997-tast9710720a)
