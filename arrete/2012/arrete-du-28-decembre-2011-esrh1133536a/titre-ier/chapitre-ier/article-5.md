@@ -1,0 +1,5 @@
+# Article 5
+
+Pour la phase d'admissibilité de chaque concours de recrutement dans les corps classés en catégorie A, le jury est nommé par le ministre chargé de l'enseignement supérieur. Il établit au niveau national, par ordre alphabétique, la liste des candidats admissibles. Pour la phase d'admission, le jury est nommé par le recteur d'académie ou le vice-recteur ou le président, directeur ou responsable de l'établissement ou du service dans lequel le ou les emplois sont à pourvoir. Il établit la liste des candidats proposés à l'admission.
+
+Pour chaque concours de recrutement dans les corps classés en catégorie B et C, le jury est nommé par le recteur d'académie ou le vice-recteur ou le président, directeur ou responsable de l'établissement chargé de l'organisation du concours. Il arrête la liste des candidats admissibles ainsi que la liste des candidats admis. En cas d'organisation en commun de concours, le jury arrête, pour chaque académie ou vice-rectorat concerné, la liste des candidats admissibles et la liste des candidats admis.

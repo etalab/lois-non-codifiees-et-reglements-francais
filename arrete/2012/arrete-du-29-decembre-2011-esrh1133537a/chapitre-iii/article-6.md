@@ -1,0 +1,3 @@
+# Article 6
+
+Les experts choisis à raison de leur compétence technique ou administrative pour figurer sur la liste établie au titre de chaque branche d'activité professionnelle pour la constitution des jurys des concours et des examens professionnels visés aux articles 15, 20, 26, 35, 42, 43, 47, 48, 53, 56 et 91 du décret du 31 décembre 1985 susvisé sont désignés par le ministre chargé de l'enseignement supérieur sur proposition des recteurs d'académie, des vice-recteurs, des présidents, directeurs ou responsables des établissements et des chefs des services visés à l'article 2 du décret du 31 décembre 1985 susvisé.
