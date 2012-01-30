@@ -52,4 +52,6 @@ Musée Gustave Moreau ;
 
 Musée Jean-Jacques Henner ;
 
-Musée Rodin.
+Musée Rodin ;
+
+Maison de l'histoire de France.
