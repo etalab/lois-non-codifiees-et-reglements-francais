@@ -31,7 +31,6 @@
 - [Décret n°2000-240 du 13 mars 2000 (AGRA0000386D)](decret-n2000-240-du-13-mars-2000-agra0000386d)
 - [Décret n°2000-541 du 13 juin 2000 (AGRG0000851D)](decret-n2000-541-du-13-juin-2000-agrg0000851d)
 - [Décret n°2000-657 du 13 juillet 2000 (PRMX0004254D)](decret-n2000-657-du-13-juillet-2000-prmx0004254d)
-- [Décret n°2000-663 du 13 juillet 2000 (FPPA0000071D)](decret-n2000-663-du-13-juillet-2000-fppa0000071d)
 - [Décret n°2000-893 du 13 septembre 2000 (RECG0071541D)](decret-n2000-893-du-13-septembre-2000-recg0071541d)
 - [Décret du 14 mars 2000 (ECOC9900189D)](decret-du-14-mars-2000-ecoc9900189d)
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)
