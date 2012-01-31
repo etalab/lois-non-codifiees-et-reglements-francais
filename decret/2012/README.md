@@ -254,5 +254,6 @@
 - [Décret n°2011-2120 du 30 décembre 2011 (ETSS1129540D)](decret-n2011-2120-du-30-decembre-2011-etss1129540d)
 - [Décret n°2011-2121 du 30 décembre 2011 (MENV1130717D)](decret-n2011-2121-du-30-decembre-2011-menv1130717d)
 - [Décret n°2011-2122 du 30 décembre 2011 (BCRB1120950D)](decret-n2011-2122-du-30-decembre-2011-bcrb1120950d)
+- [Décret n°2012-148 du 30 janvier 2012 (MFPF1135318D)](decret-n2012-148-du-30-janvier-2012-mfpf1135318d)
 - [Décret n°2011-1419 du 31 octobre 2011 (ETSS1117901D)](decret-n2011-1419-du-31-octobre-2011-etss1117901d)
 - [Décret n°2011-1697 du 1er décembre 2011 (EFIR1117433D)](decret-n2011-1697-du-1er-decembre-2011-efir1117433d)
