@@ -1,6 +1,6 @@
 # Article 3
 
-Seul l'emploi d'appelants vivants, nés et élevés en captivité, des espèces d'oies, de canards de surface et de canards plongeurs dont la chasse est autorisée et de la foulque macroule est autorisé sur le territoire métropolitain pour la chasse à tir du gibier d'eau.
+Seul l'emploi d'appelants vivants, nés et élevés en captivité, des espèces d'oies, de canards de surface et de canards plongeurs dont la chasse est autorisée et de la foulque macroule est autorisé sur le territoire métropolitain pour la chasse à tir du gibier d'eau. L'emploi d'appelants vivants de bernache du Canada est interdit.
 
 Sauf pour ceux qui sont employés pour le malonnage, les capacités de vol des appelants des espèces d'oies, de canards de surface et de canards plongeurs dont la chasse est autorisée, de la foulque macroule et du vanneau huppé sont limitées par la taille régulière des rémiges après les mues, à l'exclusion de toute autre technique. Les appelants éjointés avant le 1er septembre 2006 peuvent être utilisés jusqu'à leur mort.
 

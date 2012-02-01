@@ -38,10 +38,6 @@ La fermeture de la chasse aux oiseaux de passage et au gibier d'eau est fixée c
 </tr>
 <tr>
 <td>
-<p align="center">Oies : </p>
-<p>Oie cendrée. </p>
-<p>Oie rieuse. </p>
-<p>Oie des moissons. </p>
 <p align="center">Canards plongeurs : </p>
 <p>Eider à duvet (*). </p>
 <p>Fuligule milouinan (*). </p>
@@ -55,7 +51,15 @@ La fermeture de la chasse aux oiseaux de passage et au gibier d'eau est fixée c
 </tr>
 <tr>
 <td>
-<p align="center">Fuligule milouin. </p>
+<p align="center">Oies : </p>
+<p>Oie cendrée. </p>
+<p>Oie rieuse. </p>
+<p>Oie des moissons. </p>
+<br/>
+<br/>
+<br/>
+<p align="center">Canards plongeurs : </p>
+<p align="left">Fuligule milouin. </p>
 <p>Fuligule morillon. </p>
 <p>Garrot à œil d'or. </p>
 <p>Nette rousse.</p>
