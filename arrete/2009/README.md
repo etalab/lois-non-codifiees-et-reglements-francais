@@ -987,7 +987,6 @@
 - [Arrêté du 13 juillet 2009 (SASH0915401A)](arrete-du-13-juillet-2009-sash0915401a)
 - [Arrêté du 13 juillet 2009 (SASH0915409A)](arrete-du-13-juillet-2009-sash0915409a)
 - [Arrêté du 13 juillet 2009 (SASH0915417A)](arrete-du-13-juillet-2009-sash0915417a)
-- [Arrêté du 13 juin 1983](arrete-du-13-juin-1983)
 - [Arrêté du 13 mars 2009 (AGRP0905028A)](arrete-du-13-mars-2009-agrp0905028a)
 - [Arrêté du 13 mars 2009 (AGRP0905981A)](arrete-du-13-mars-2009-agrp0905981a)
 - [Arrêté du 13 mars 2009 (AGRP0905985A)](arrete-du-13-mars-2009-agrp0905985a)
