@@ -1,6 +1,6 @@
 # Article Annexe II
 
-**COMPÉTENCES DES PERSONNES PHYSIQUES**
+COMPÉTENCES DES PERSONNES PHYSIQUES
 
 1. Lors de l'examen théorique, la personne physique candidate à la certification doit démontrer qu'elle possède les connaissances requises sur :
 
@@ -15,8 +15,6 @@
 - les règles relatives à la sécurité propre de l'opérateur et des personnes tierces lors du diagnostic : connaissance et mise en œuvre des prescriptions de sécurité à respecter pour éviter les dangers dus à l'électricité dans l'exécution du diagnostic ;
 
 - les méthodes de diagnostic des installations intérieures d'électricité.
-
-Les personnes physiques dont les compétences, pour établir l'état de l'installation intérieure d'électricité, ont été validées par une licence en diagnostic technique immobilier et pathologie du bâtiment délivrée par une université sont exonérées de l'examen théorique.
 
 2. L'examen pratique permet de vérifier par une mise en situation que la personne physique candidate à la certification :
 
