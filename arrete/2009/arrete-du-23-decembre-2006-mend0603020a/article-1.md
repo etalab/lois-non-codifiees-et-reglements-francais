@@ -1,6 +1,6 @@
 # Article 1
 
-1° Les taux annuels de référence de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 modifié susvisé en faveur des vice-recteurs et des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont fixés ainsi qu'il suit :
+1° Les taux annuels de référence de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 modifié susvisé en faveur des vice-recteurs et des directeurs académiques des services de l'éducation nationale, sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
@@ -23,7 +23,7 @@
 <tr>
 <td>
 <p align="center">
-<font size="1">INSPECTEURS D'ACADÉMIE, DIRECTEURS DES SERVICES DÉPARTEMENTAUX<br/>de l'éducation nationale</font>
+<font size="1">DIRECTEURS ACADEMIQUES DES SERVICES DE L'EDUCATION NATIONALE</font>
 </p>
 </td>
 <td>
