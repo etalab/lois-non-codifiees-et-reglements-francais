@@ -1,27 +1,29 @@
 # Article 5
 
-La commission est composée :
+La commission est composée de :
 
-De membres de droit :
+1° Sept membres de droit :
 
-Le délégué au développement et aux formations ou son représentant ;
+a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-Le directeur du patrimoine ou son représentant ;
+b) Le directeur général des patrimoines ou son représentant ;
 
-Le chef du service de l'inspection générale de l'administration du ministère de la culture ou son représentant ;
+c) Le directeur général de la création artistique ou son représentant ;
 
-Le délégué à l'aménagement du territoire ou son représentant ;
+d) Le chef du service de l'inspection générale des affaires culturelles ou son représentant ;
 
-Le directeur du tourisme ou son représentant ;
+e) Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
 
-Le président de l'Association des centres culturels de rencontre ou son représentant.
+f) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
-De membres nommés par arrêté du ministre chargé de la culture :
+g) Le président de l'Association des centres culturels de rencontre ou son représentant.
 
-Quatre élus, titulaires d'un mandat électif territorial ou national ;
+2° Dix membres nommés par arrêté du ministre chargé de la culture, dont :
 
-Deux directeurs régionaux des affaires culturelles ;
+a) Quatre membres titulaires d'un mandat électif territorial ou national ;
 
-Quatre personnalités choisies en raison de leur compétence.
+b) Deux directeurs régionaux des affaires culturelles ;
 
-Le président de la commission est nommé pour trois ans par le ministre chargé de la culture parmi les élus ou les personnalités nommés par arrêté du ministre chargé de la culture.
+c) Quatre personnalités choisies en raison de leurs compétences.
+
+Le président de la commission est nommé pour trois ans par le ministre chargé de la culture parmi les membres du a ou du c du 2°.

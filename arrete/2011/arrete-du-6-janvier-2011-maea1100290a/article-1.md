@@ -25,5 +25,3 @@ Sénégal.
 Serbie.
 
 Singapour.
-
-Syrie.
