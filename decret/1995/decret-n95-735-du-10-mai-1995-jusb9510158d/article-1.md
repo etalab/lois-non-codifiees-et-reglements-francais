@@ -1,5 +1,0 @@
-# Article 1
-
-Les membres du Conseil supérieur de la magistrature, exception faite des membres mentionnés à l'article 2, perçoivent une indemnité de fonctions pour chaque séance où ils siègent conformément à l'article 14 de la loi organique du 5 février 1994 susvisée où se réunissent en application de l'article 36 du décret du 9 mars 1994 susvisé. Cette indemnité, non soumise à retenue pour pension, est versée sous forme d'une vacation égale à 7,50 % de la moyenne des traitements bruts mensuels minimum et maximum de conseiller à la Cour de cassation. Au titre d'une même année, le nombre de vacations ne peut excéder cent trente pour les personnalités appartenant aux deux formations du conseil, cent pour les membres de la formation du siège, et quatre-vingts pour les membres de la formation du parquet.
-
-Le traitement des magistrats et fonctionnaires bénéficiant d'une décharge partielle de service pour siéger au conseil demeure inchangé. Les indemnités attachées au traitement et liées à l'exercice de leur activité sont réduites à proportion de la décharge.

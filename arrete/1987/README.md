@@ -541,7 +541,6 @@
 - [Arrêté du 29 septembre 1987 (ECOT8711003A)](arrete-du-29-septembre-1987-ecot8711003a)
 - [Arrêté du 29 septembre 1987 (ECOZ8700043A)](arrete-du-29-septembre-1987-ecoz8700043a)
 - [Arrêté du 29 mai 1987 (AGRP8700921A)](arrete-du-29-mai-1987-agrp8700921a)
-- [Arrêté du 29 mai 1987 (MEND8700317A)](arrete-du-29-mai-1987-mend8700317a)
 - [Arrêté du 30 avril 1987 (AGRG8700912A)](arrete-du-30-avril-1987-agrg8700912a)
 - [Arrêté du 30 avril 1987 (ASES8700677A)](arrete-du-30-avril-1987-ases8700677a)
 - [Arrêté du 30 décembre 1986](arrete-du-30-decembre-1986)

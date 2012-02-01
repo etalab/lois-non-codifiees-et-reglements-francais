@@ -323,7 +323,6 @@
 - [Arrêté du 11 septembre 2003 (JUSC0320355A)](arrete-du-11-septembre-2003-jusc0320355a)
 - [Arrêté du 11 septembre 2003 (JUSC0320356A)](arrete-du-11-septembre-2003-jusc0320356a)
 - [Arrêté du 11 septembre 2003 (MCCB0300642A)](arrete-du-11-septembre-2003-mccb0300642a)
-- [Arrêté du 11 septembre 2003 (MENA0301825A)](arrete-du-11-septembre-2003-mena0301825a)
 - [Arrêté du 11 septembre 2003 (SOCF0311444A)](arrete-du-11-septembre-2003-socf0311444a)
 - [Arrêté du 11 septembre 2003 (SOCF0311445A)](arrete-du-11-septembre-2003-socf0311445a)
 - [Arrêté du 11 septembre 2003 (SOCF0311446A)](arrete-du-11-septembre-2003-socf0311446a)

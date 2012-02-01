@@ -691,7 +691,6 @@
 - [Arrêté du 21 juin 1996 (DEFT9601593A)](arrete-du-21-juin-1996-deft9601593a)
 - [Arrêté du 21 juin 1996 (FCEC9600002A)](arrete-du-21-juin-1996-fcec9600002a)
 - [Arrêté du 21 juin 1996 (INDB9600460A)](arrete-du-21-juin-1996-indb9600460a)
-- [Arrêté du 21 juin 1996 (MENE9601847A)](arrete-du-21-juin-1996-mene9601847a)
 - [Arrêté du 21 juin 1996 (MJSK9670088A)](arrete-du-21-juin-1996-mjsk9670088a)
 - [Arrêté du 21 mars 1996 (AGRG9600632A)](arrete-du-21-mars-1996-agrg9600632a)
 - [Arrêté du 21 mars 1996 (EQUP9600377A)](arrete-du-21-mars-1996-equp9600377a)
