@@ -366,6 +366,8 @@ Israël (jusqu'au 31 décembre 2012)
 
 Paris-Tel-Aviv.
 
+Nice - Tel-Aviv.
+
 Jamaïque (jusqu'au 31 décembre 2012)
 
 Paris-Montego Bay
@@ -467,6 +469,8 @@ Paris-Rabat.
 Strasbourg-Casablanca.
 
 Toulouse-Casablanca.
+
+Toulouse - Marrakech.
 
 Maurice (jusqu'au 31 décembre 2012).
 
@@ -766,7 +770,11 @@ Turquie (jusqu'au 31 décembre 2012)
 
 Paris-Istanbul.
 
-Turquie : Marseille - Istanbul.
+Marseille - Istanbul.
+
+Nice - Istanbul.
+
+Toulouse - Istanbul.
 
 Ukraine (jusqu'au 31 décembre 2012)
 
