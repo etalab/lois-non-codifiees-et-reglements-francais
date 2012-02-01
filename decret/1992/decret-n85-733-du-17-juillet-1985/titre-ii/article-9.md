@@ -4,7 +4,7 @@ I - Des personnalités françaises ou étrangères justifiant depuis au moins tr
 
 II - Les intéressés sont tenus d'effectuer un service d'enseignement et de recherche d'une durée égale à la moitié de celle qui s'applique aux personnels titulaires de même catégorie.
 
-La cessation de leur activité principale entraîne de plein droit la cessation du contrat d'association au terme de l'année universitaire en cours. Toute cessation de fonction anticipée intervenant à la demande de l'intéressé est prononcée par arrêté du ministre chargé de l'enseignement supérieur.
+La cessation de leur activité principale entraîne de plein droit la cessation de leurs fonctions d'associé au terme de l'année universitaire en cours. Toute cessation de fonction anticipée intervenant à la demande de l'intéressé est prononcée par arrêté du président ou du directeur de l'établissement.
 
 III - Les agents publics postulant des fonctions d'enseignant associé à mi-temps doivent obtenir une autorisation de l'autorité hiérarchique dont ils relèvent. Celle-ci est réputée acquise à l'expiration d'un délai de deux mois suivant la réception de la demande.
 
