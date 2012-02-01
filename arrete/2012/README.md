@@ -139,6 +139,7 @@
 - [Arrêté du 16 janvier 2012 (JUSF1201895A)](arrete-du-16-janvier-2012-jusf1201895a)
 - [Arrêté du 16 novembre 2011 (MFPF1120309A)](arrete-du-16-novembre-2011-mfpf1120309a)
 - [Arrêté du 16 octobre 1995 (SANS9502261A)](arrete-du-16-octobre-1995-sans9502261a)
+- [Arrêté du 16 octobre 2006 (SOCU0611888A)](arrete-du-16-octobre-2006-socu0611888a)
 - [Arrêté du 17 février 1995 (AGRR9500211A)](arrete-du-17-fevrier-1995-agrr9500211a)
 - [Arrêté du 17 janvier 2012 (AGRE1200369A)](arrete-du-17-janvier-2012-agre1200369a)
 - [Arrêté du 17 janvier 2012 (AGRE1200374A)](arrete-du-17-janvier-2012-agre1200374a)
