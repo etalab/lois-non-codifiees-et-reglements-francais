@@ -1,7 +1,0 @@
-# Article 10
-
-Les personnels chargés du traitement des demandes de prestations et de leur réalisation doivent respecter la confidentialité des informations à caractère industriel ou commercial qui leur sont communiquées par les entreprises ferroviaires. Le code de déontologie mentionné à l'article 11-2 du décret du 18 février 1983 susvisé rappelle cette obligation.
-
-Afin de respecter les règles de non-discrimination dans l'accès aux infrastructures de services et aux prestations qui y sont offertes, les gestionnaires de ces infrastructures de services et les prestataires concernés mettent en œuvre toutes dispositions permettant de garantir cette confidentialité. Ces dispositions font l'objet de stipulations dans le contrat prévu à l'article L. 2123-2 du code des transports. La même exigence s'impose aux entreprises ferroviaires qui auraient à connaître, dans le cadre de ces activités, d'informations de même nature fournies par les gestionnaires d'infrastructures de services ou les prestataires concernés.
-
-Les gestionnaires de ces infrastructures de services, les prestataires et les entreprises ferroviaires concernés prennent toutes les mesures nécessaires, y compris disciplinaires, pour que les personnels chargés du traitement des demandes de prestations et de leur réalisation respectent cette confidentialité. Ils mettent en œuvre un dispositif de contrôle approprié qui est porté à la connaissance de l'Autorité de régulation des activités ferroviaires.

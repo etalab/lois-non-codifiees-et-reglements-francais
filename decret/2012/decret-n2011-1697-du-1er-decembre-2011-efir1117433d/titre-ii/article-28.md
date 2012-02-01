@@ -1,5 +1,0 @@
-# Article 28
-
-Sans préjudice des dispositions des articles 26 et 27, le gestionnaire du réseau public de transport d'électricité fait procéder à ses frais aux mesures complémentaires sollicitées par les collectivités territoriales, les associations agréées de protection de l'environnement, les associations agréées d'usagers du système de santé ainsi que les fédérations d'associations familiales mentionnées à l'article L. 211-2 du code de l'action sociale et des familles.
-
-Il n'est toutefois pas tenu de donner suite à une telle sollicitation lorsque la mesure demandée est redondante par rapport à des mesures effectuées depuis moins de dix ans ou ne présente pas d'intérêt en raison de l'absence manifeste d'exposition des personnes à des champs électromagnétiques significatifs. Dans ce cas, le gestionnaire du réseau public de transport d'électricité informe le demandeur et le préfet et leur communique les raisons pour lesquelles il ne donne pas suite. Dans les trois mois à compter du jour où cette information lui a été communiquée, le préfet peut, par une décision motivée, imposer au gestionnaire précité d'effectuer ladite mesure à ses frais.

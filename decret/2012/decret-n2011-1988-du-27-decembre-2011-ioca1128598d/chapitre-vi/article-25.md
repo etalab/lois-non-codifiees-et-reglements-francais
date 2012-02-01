@@ -1,3 +1,0 @@
-# Article 25
-
-Les fonctionnaires inscrits sur la liste d'aptitude établie au titre de l'année 2012 avant la date d'entrée en vigueur du présent décret pour l'accès au corps des contrôleurs des services techniques du ministère de l'intérieur régi par le décret n° 97-259 du 17 mars 1997 relatif au statut particulier du corps des contrôleurs des services techniques du ministère de l'intérieur et dont la nomination n'a pas été prononcée à cette même date peuvent être nommés dans le grade de contrôleur de classe normale des services techniques du corps des contrôleurs des services techniques du ministère de l'intérieur régi par le présent décret.

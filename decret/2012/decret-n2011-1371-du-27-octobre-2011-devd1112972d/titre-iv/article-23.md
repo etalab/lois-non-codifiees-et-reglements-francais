@@ -1,3 +1,0 @@
-# Article 23
-
-Les dépenses et recettes de l'Institut national de l'information géographique et forestière seront exécutées sur la base du budget initial de 2012 de l'Institut géographique national, tel qu'il aura été délibéré par le conseil d'administration de cet établissement. Dès la première réunion du conseil d'administration de l'Institut national de l'information géographique et forestière, une décision modificative sera présentée pour prendre en compte les éléments du budget initial de 2012 de l'Inventaire forestier national tel qu'il aura été délibéré par le conseil d'administration de cet établissement.

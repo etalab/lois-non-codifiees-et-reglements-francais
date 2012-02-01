@@ -1,3 +1,0 @@
-# Article 4
-
-Le Premier ministre, le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, le ministre de l'économie, des finances et de l'industrie, le ministre du travail, de l'emploi et de la santé, la ministre du budget, des comptes publics et de la réforme de l'Etat, porte-parole du Gouvernement, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et la ministre auprès du ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.

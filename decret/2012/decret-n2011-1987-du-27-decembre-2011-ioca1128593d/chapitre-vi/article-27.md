@@ -1,3 +1,0 @@
-# Article 27
-
-Les fonctionnaires inscrits sur la liste d'aptitude établie au titre de l'année 2012 avant la date d'entrée en vigueur du présent décret pour l'accès au corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur régi par le décret n° 2000-798 du 24 août 2000 relatif au statut particulier du corps des techniciens des systèmes d'information et de communication du ministère de l'intérieur et dont la nomination n'a pas été prononcée à cette même date peuvent être nommés dans le grade de technicien de classe normale des systèmes d'information et de communication régi par le présent décret.
