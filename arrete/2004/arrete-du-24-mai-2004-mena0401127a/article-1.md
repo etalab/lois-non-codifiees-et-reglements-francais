@@ -10,4 +10,4 @@ Le jury du concours de recrutement des infirmières et infirmiers du ministère 
 
 4° Un fonctionnaire civil appartenant à un corps ou cadre d'emplois d'infirmières et infirmiers ou une infirmière, ou un infirmier militaire ;
 
-5° Une infirmière ou un infirmier de l'éducation nationale exerçant les fonctions de conseiller technique de recteur d'académie, ou une infirmière ou un infirmier de l'éducation nationale exerçant les fonctions de conseiller technique d'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+5° Une infirmière ou un infirmier de l'éducation nationale exerçant les fonctions de conseiller technique de recteur d'académie, ou une infirmière ou un infirmier de l'éducation nationale exerçant les fonctions de conseiller technique du             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.

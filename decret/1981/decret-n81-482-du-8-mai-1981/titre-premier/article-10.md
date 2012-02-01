@@ -4,8 +4,8 @@ Dans la limite des crédits budgétaires ouverts à cet effet, les fonctions d'a
 
 La désignation d'un fonctionnaire pour exercer à temps partiel les fonctions d'adjoint est prononcée sous réserve de l'accord de l'intéressé et après consultation du chef d'établissement :
 
-Par l'inspecteur d'académie, directeur des services départementaux de l'éducation, en ce qui concerne les fonctions d'adjoint dans les collèges ;
+Par le            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en ce qui concerne les fonctions d'adjoint dans les collèges ;
 
-Par le recteur, après avis de l'inspecteur d'académie, directeur des services départementaux de l'éducation, en ce qui concerne les fonctions d'adjoint dans les lycées et les lycées d'enseignement professionnel.
+Par le recteur, après avis de le            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en ce qui concerne les fonctions d'adjoint dans les lycées et les lycées d'enseignement professionnel.
 
 Les fonctions d'adjoint à temps partiel sont essentiellement précaires et révocables.

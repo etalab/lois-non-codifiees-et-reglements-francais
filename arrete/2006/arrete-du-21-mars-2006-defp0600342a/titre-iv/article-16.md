@@ -12,7 +12,7 @@ b) A l'admission en cours d'année d'un élève de classe préparatoire aux étu
 
 c) A l'admission en cours d'année d'un élève de première année de classe préparatoire aux grandes écoles en classe préparatoire aux études supérieures, à titre exceptionnel et sous réserve de l'accord de l'intéressé.
 
-**I. - Composition**
+**I.-Composition**
 
 Le conseil de classe comprend :
 
@@ -24,7 +24,7 @@ b) Les professeurs et l'encadrement militaire de la classe concernée.
 
 2° Deux délégués de classe.
 
-**II. - Fonctionnement**
+**II.-Fonctionnement**
 
 Le conseil de classe se réunit selon un calendrier arrêté par le commandant du lycée, au moins chaque fin de trimestre ou de semestre.
 
@@ -34,10 +34,10 @@ Le président peut, exceptionnellement et par décision motivée, ne pas associe
 
 Des instructions déterminent, par armée, les conditions d'application du présent article.
 
-**III. - Appel**
+**III.-Appel**
 
 En cas de désaccord avec la proposition d'orientation du conseil de classe, l'élève majeur ou ses représentants légaux, s'il est mineur, formulent leurs observations, soit lors d'un entretien, soit par écrit, auprès du commandant du lycée de la défense.
 
 Lorsque la décision d'orientation du commandant du lycée de la défense n'est pas conforme à la demande de l'élève majeur ou de ses représentants légaux, s'il est mineur, elle est motivée.
 
-La décision d'orientation peut faire l'objet d'une procédure d'appel auprès de la commission d'appel mise en place par l'inspecteur d'académie du département dans lequel est située la commune d'implantation du lycée, sur demande de l'élève majeur ou de ses représentants légaux, s'il est mineur.
+La décision d'orientation peut faire l'objet d'une procédure d'appel auprès de la commission d'appel mise en place par     le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du département dans lequel est située la commune d'implantation du lycée, sur demande de l'élève majeur ou de ses représentants légaux, s'il est mineur.

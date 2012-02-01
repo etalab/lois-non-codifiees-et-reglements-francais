@@ -18,7 +18,7 @@ d) Les modalités de coopération entre les enseignants exerçant dans les unit�
 
 e) Les moyens d'enseignement dont sont dotées les unités d'enseignement :
 
-1° Ils sont fixés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sous l'autorité du recteur d'académie, sous la forme d'une dotation globale en heures d'enseignement qui tient compte notamment :
+1° Ils sont fixés par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, sous l'autorité du recteur d'académie, sous la forme d'une dotation globale en heures d'enseignement qui tient compte notamment :
 
 ― du nombre d'élèves scolarisés au titre de l'unité d'enseignement, que cette scolarisation ait lieu au sein des locaux de l'établissement médico-social ou de santé ou bien qu'elle prenne la forme d'actions de soutien aux élèves par les enseignants de l'unité d'enseignement, dispensées dans l'établissement scolaire de ceux-ci ;
 
@@ -34,7 +34,7 @@ e) Les moyens d'enseignement dont sont dotées les unités d'enseignement :
 
 ― des besoins d'articulation et de concertation entre l'ensemble des acteurs des projets personnalisés de scolarisation, notamment les enseignants.
 
-Le recteur peut, sur proposition de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, solliciter le directeur régional de l'agriculture et de la forêt pour l'affectation de moyens d'enseignement à l'unité s'agissant des enseignements relevant spécifiquement du ministère de l'agriculture.
+Le recteur peut, sur proposition du               directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, solliciter le directeur régional de l'agriculture et de la forêt pour l'affectation de moyens d'enseignement à l'unité s'agissant des enseignements relevant spécifiquement du ministère de l'agriculture.
 
 2° Pour les établissements ou services accueillant des élèves déficients sensoriels visés aux articles D. 312-98, D. 312-105, D. 312-111 et D. 312-117 du code de l'action sociale et des familles, le nombre d'enseignants affectés à l'unité d'enseignement est établi par le préfet de département, en référence aux critères énoncés à l'alinéa précédent et en cohérence avec les éléments retenus par lui, notamment le projet d'établissement, lors de la détermination du budget de ces établissements ou services.
 

@@ -16,7 +16,7 @@ Un magistrat désigné par le premier président de la cour
 
 d'appel ;
 
-L'inspecteur d'académie ;
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie  ;
 
 Le président de l'union départementale des associations
 

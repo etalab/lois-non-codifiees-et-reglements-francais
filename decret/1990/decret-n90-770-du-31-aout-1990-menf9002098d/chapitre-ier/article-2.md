@@ -2,7 +2,7 @@
 
 Une commission administrative paritaire locale commune aux membres du corps des professeurs des écoles et du corps des instituteurs est créée :
 
-1° Dans chaque département, auprès de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+1° Dans chaque département, auprès du               directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 2° Dans la circonscription territoriale de Saint-Pierre-et-Miquelon, auprès du chef de service de l'éducation nationale ;
 

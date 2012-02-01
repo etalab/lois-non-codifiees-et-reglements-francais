@@ -28,7 +28,7 @@ B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 3° Secrétaire général d'académie ;
 
-4° Inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+4° Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 5° Vice-recteur de Nouvelle-Calédonie, de Polynésie française, de Mayotte et de Wallis-et-Futuna ;
 

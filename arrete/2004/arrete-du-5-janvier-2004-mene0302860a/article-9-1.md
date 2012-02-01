@@ -1,12 +1,13 @@
 # Article 9-1
 
-Le présent arrêté est applicable en Polynésie française, dans les îles Wallis et Futuna, à Mayotte et en Nouvelle-Calédonie sous réserve des adaptations suivantes :
+Le présent arrêté est applicable en Polynésie française, dans les îles Wallis-et-Futuna, à Mayotte et en Nouvelle-Calédonie sous réserve des adaptations suivantes :
 
-Pour l'application des articles 1er, 2, 5 et 7 du présent arrêté, le mot : "recteur est remplacé par le mot : "vice-recteur.
+Pour l'application des articles  1
+er,  2,  5 et  7 du présent arrêté, le mot : recteur est remplacé par le mot : vice-recteur .
 
-Pour l'application de l'article 2, les mots : "auprès de l'inspection académique de leur département sont remplacés par les mots : "auprès du vice-rectorat.
+Pour l'application de l'article 2, les mots : auprès de l'inspection académique de leur département sont remplacés par les mots : auprès du vice-rectorat .
 
-Pour l'application de l'article 2, les mots : "inspecteur d'académie, directeur des services départementaux de l'éducation nationale sont remplacés par le mot : "vice-recteur.
+Pour l'application de l'article 2, les mots : directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie sont remplacés par le mot : vice-recteur .
 
 Pour l'application de l'article 5, le jury est composé de la manière suivante :
 

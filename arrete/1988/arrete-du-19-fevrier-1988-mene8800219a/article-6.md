@@ -4,7 +4,7 @@ Le jury de l'examen est présidé par un inspecteur général de l'éducation na
 
 Le jury comprend :
 
-Un inspecteur d'académie, directeur des services départementaux de l'éducation, vice-président ;
+Un            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, vice-président ;
 
 Le responsable du secteur de l'adaptation et de l'intégration scolaires du ministère de l'éducation nationale ;
 

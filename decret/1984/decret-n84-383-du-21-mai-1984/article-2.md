@@ -4,4 +4,4 @@ Un arrêté conjoint du ministre de l'éducation nationale, du ministre de l'éc
 
 La répartition des emplois entre les académies est effectuée par arrêté du ministre de l'éducation nationale.
 
-La répartition des emplois entre les départements est effectuée par le recteur d'académie, après avis des inspecteurs d'académie, directeurs des services départementaux de l'éducation, qui consultent les conseils départementaux de l'enseignement primaire et les  comités techniques départementaux, et avis du comité technique académique.
+La répartition des emplois entre les départements est effectuée par le recteur d'académie, après avis des directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie, qui consultent les conseils départementaux de l'enseignement primaire et les comités techniques départementaux, et avis du comité technique académique.

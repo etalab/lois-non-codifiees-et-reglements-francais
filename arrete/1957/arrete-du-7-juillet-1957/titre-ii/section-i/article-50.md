@@ -4,9 +4,9 @@ Enseignement
 
 L'établissement doit satisfaire aux lois et règlements sur l'enseignement.
 
-Le directeur d'un établissement privé doit effectuer la déclaration prévue, selon la nature de l'enseignement donné, par les lois du 30 octobre 1886 ou du 25 juillet 1919 ou du 15 mars 1950. Si l'établissement ne comporte pas de classe, le directeur n'est pas tenu d'accomplir ces formalités ; s'il reçoit cependant des enfants soumis à l'obligation scolaire, le directeur devra informer l'inspecteur d'académie des conditions dans lesquelles sera assurée l'instruction des mineurs.
+Le directeur d'un établissement privé doit effectuer la déclaration prévue, selon la nature de l'enseignement donné, par les lois du 30 octobre 1886 ou du 25 juillet 1919 ou du 15 mars 1950. Si l'établissement ne comporte pas de classe, le directeur n'est pas tenu d'accomplir ces formalités ; s'il reçoit cependant des enfants soumis à l'obligation scolaire, le directeur devra informer     le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie des conditions dans lesquelles sera assurée l'instruction des mineurs.
 
-L'inspecteur d'académie exerce le contrôle qui lui incombe aux termes de l'article 39 du règlement d'administration publique du 2 septembre 1954.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie  exerce le contrôle qui lui incombe aux termes de l'article 39 du règlement d'administration publique du 2 septembre 1954.
 
 Compte tenu des aptitudes reconnues chez les mineurs, l'établissement doit s'assurer le concours de maîtres possédant la qualification requise par les textes en vigueur pour enseigner dans un établissement de même nature et justifiant, en outre, d'une connaissance particulière des déficiences dont les mineurs reçus à l'établissement sont atteints.
 

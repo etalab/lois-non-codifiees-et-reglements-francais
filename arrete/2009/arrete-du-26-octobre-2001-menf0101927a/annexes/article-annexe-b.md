@@ -2,6 +2,7 @@
 
 B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ DE L'ÉDUCATION NATIONALE
 
+<div>
 <table>
 <tbody>
 <tr>
@@ -424,7 +425,7 @@ B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ 
 </tr>
 <tr>
 <td>
-<p align="center">5. Inspecteur d'académie-directeur des services départementaux de l'éducation nationale, en charge des inspections académiques suivantes</p>
+<p align="center">5. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en charge des inspections académiques suivantes</p>
 </td>
 <td>
 <pre> </pre>
@@ -534,7 +535,7 @@ B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ 
 </tr>
 <tr>
 <td>
-<p align="center">7. Inspecteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants</p>
+<p align="center">7. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants</p>
 </td>
 <td>
 <pre> </pre>
@@ -600,3 +601,4 @@ B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ 
 </tr>
 </tbody>
 </table>
+</div>

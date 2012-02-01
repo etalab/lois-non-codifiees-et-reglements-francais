@@ -98,7 +98,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>a) Chef de bureau, de division ou de département</p>
+<p>a) Chef de bureau, de division ou de département </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -782,7 +782,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>2. Conseillères et conseillers techniques auprès des recteurs et inspecteurs d'académie : </p>
+<p>2. Conseillères et conseillers techniques auprès des recteurs et directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie : </p>
 </td>
 <td valign="top" width="74">
 <br/>
@@ -2484,7 +2484,7 @@
 </tr>
 <tr>
 <td valign="top">
-<p>g) abrogé</p>
+<p>g) abrogé </p>
 </td>
 <td valign="top"/>
 <td valign="top">

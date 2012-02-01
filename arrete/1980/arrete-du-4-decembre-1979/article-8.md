@@ -1,0 +1,3 @@
+# Article 8
+
+Le bénéfice des prestations familiales est également maintenu pour les familles résidant de façon habituelle et permanente soit dans une commune située dans un département limitrophe de la frontière, soit dans une commune située dans un autre département si celle-ci est distante de la frontière de moins de 60 km et qui inscrivent un enfant dans un établissement étranger d'enseignement situé à moins de 40 km de cette même frontière. Les distances précitées sont appréciées à vol d'oiseau par rapport au point le plus proche de la frontière terrestre ou par rapport au port maritime de débarquement lorsqu'il s'agit d'une frontière maritime.

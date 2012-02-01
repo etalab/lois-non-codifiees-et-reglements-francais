@@ -6,7 +6,7 @@ Il arrête chaque année ces listes d'aptitude sur proposition d'une commission 
 
 Le recteur de l'académie ou son représentant, président ;
 
-Un inspecteur d'académie ;
+Un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 Un inspecteur départemental de l'éducation nationale ;
 

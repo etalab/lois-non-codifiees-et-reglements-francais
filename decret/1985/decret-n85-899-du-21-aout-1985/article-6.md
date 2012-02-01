@@ -1,17 +1,11 @@
 # Article 6
 
-Pour tous les actes relevant de leur compétence :
+Pour tous les actes relevant de leur compétence, les recteurs d'académie peuvent déléguer leur signature, par arrêté :
 
-1° Les recteurs d'académie pourront déléguer leur signature par arrêté :
+a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de celui-ci, à l'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche chargé des fonctions d'adjoint au secrétaire général d'académie et aux chefs de division du rectorat dans la limite de leurs attributions ;
 
-a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de celui-ci, au secrétaire général adjoint, au directeur des ressources humaines et aux chefs de division du rectorat dans la limite de leurs attributions ;
+b) Aux directeurs académiques des services de l'éducation nationale et, en cas d'absence ou d'empêchement de ceux-ci, aux directeurs académiques adjoints des services de l'éducation nationale et à l'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche chargé des fonctions de secrétaire général du service départemental de l'éducation nationale ;
 
-b) Aux inspecteurs d'académie, directeurs des services départementaux de l'éducation, et, en cas d'absence ou d'empêchement de ceux-ci, aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique.
+c) Au responsable du service prévu à l'article R. 222-36-2 du code de l'éducation chargé d'une mission de gestion de personnels relevant du ministère de l'éducation nationale.
 
-2° Les inspecteurs d'académie, directeurs des services départementaux de l'éducation, pourront déléguer leur signature par arrêté :
-
-a) A l'inspecteur d'académie adjoint ;
-
-b) Au secrétaire général de l'inspection académique ;
-
-c) A l'inspecteur de l'éducation nationale adjoint. Ces délégations fixent les actes et les corps de fonctionnaires et agents auxquels elles s'appliquent.
+Ces délégations fixent les actes et les corps de fonctionnaires et agents pour lesquels elles ont été accordées. Elles entrent en vigueur le lendemain du jour de leur publication au recueil des actes administratifs de la préfecture de région et peuvent être abrogées à tout moment. Elles prennent fin en même temps que les fonctions de celui qui les a données ou en même temps que les fonctions de celui qui les a reçues.

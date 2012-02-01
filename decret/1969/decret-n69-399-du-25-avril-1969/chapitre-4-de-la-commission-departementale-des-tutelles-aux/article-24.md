@@ -14,7 +14,7 @@ Le directeur départemental de l'action sanitaire et sociale ou son représentan
 
 Le trésorier-payeur général ou son représentant ;
 
-L'inspecteur d'académie du département ou son représentant ;
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du département ou son représentant ;
 
 Deux représentants des régimes débiteurs des prestations sociales désignés par le préfet, sur proposition conjointe du directeur régional de la sécurité sociale et de l'inspecteur divisionnaire des lois sociales en agriculture ;
 

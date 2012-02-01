@@ -6,7 +6,7 @@ Inspecteur général de l'instruction publique, responsable de l'inspection acad
 
 Inspecteurs de l'académie de Paris ;
 
-Inspecteurs d'académie ;
+Directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 Inspecteurs principaux de l'enseignement technique ;
 

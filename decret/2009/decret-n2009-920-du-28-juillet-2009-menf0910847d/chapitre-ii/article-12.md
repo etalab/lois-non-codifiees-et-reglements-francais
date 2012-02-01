@@ -8,7 +8,7 @@ I et II.-I.-Les dispositions du chapitre IV du titre Ier du livre IX du code de 
 
 II.-Pour l'application du I :
 
-1° Les compétences attribuées au recteur d'académie, à l'inspecteur d'académie directeur des services départementaux ou aux services académiques sont exercées, sur le territoire de la Polynésie française et sur celui de la Nouvelle-Calédonie, par le vice-recteur ;
+1° Les compétences attribuées au recteur d'académie sont exercées, sur le territoire de la Polynésie française et sur celui de la Nouvelle-Calédonie, par le vice-recteur ;
 
 2° Les compétences dévolues aux commissions consultatives mixtes départementales ou académiques sont exercées en Nouvelle-Calédonie par la commission mixte mentionnée à l'article R. 494-14 du code de l'éducation ;
 

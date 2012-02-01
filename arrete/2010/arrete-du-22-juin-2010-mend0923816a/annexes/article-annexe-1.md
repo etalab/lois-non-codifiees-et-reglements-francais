@@ -26,7 +26,7 @@ Conseil aux enseignants, impulsion et développement des bonnes pratiques.
 
 Détection des talents et promotion de ces derniers en lien avec les services de ressources humaines.
 
-Conseil donné à l'inspecteur d'académie-directeur des services départementaux de l'éducation nationale (IA-DSDEN) et participation aux instances départementales.
+Conseil donné à le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie et participation aux instances départementales.
 
 Contribution aux principaux actes de gestion des personnels (recrutement, titularisation, évaluation, avancement, promotion et affectation).
 

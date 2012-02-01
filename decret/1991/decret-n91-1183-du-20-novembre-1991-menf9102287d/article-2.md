@@ -4,4 +4,4 @@ Le ministre chargé de l'éducation attribue chaque année aux recteurs d'acadé
 
 Pour le premier et le second degré, après avis des commissions consultatives mixtes académiques, les recteurs définissent les critères de répartition de la dotation qui leur a été attribuée entre les établissements relevant du second degré et les établissements relevant du premier degré ; ils attribuent les dotations aux collèges et aux lycées.
 
-Les dotations destinées aux écoles sont attribuées entre les établissements concernés par les inspecteurs d'académie, directeurs des services départementaux de l'éducation, après avis de la commission consultative mixte départementale.
+Les dotations destinées aux écoles sont attribuées entre les établissements concernés par les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis de la commission consultative mixte départementale.

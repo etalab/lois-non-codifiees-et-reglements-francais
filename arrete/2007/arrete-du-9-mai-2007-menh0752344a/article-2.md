@@ -2,7 +2,7 @@
 
 Le jury académique est présidé par le recteur ou son représentant.
 
-Il comprend un ou plusieurs vice-présidents nommés par le recteur parmi les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale des départements de l'académie.
+Il comprend un ou plusieurs vice-présidents nommés par le recteur parmi les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie des départements de l'académie.
 
 Les autres membres du jury sont des enseignants-chercheurs et d'autres membres du service public de l'enseignement supérieur, des professeurs agrégés et certifiés, des inspecteurs de l'éducation nationale chargés de circonscription, des professeurs des écoles et des instituteurs et professeurs des écoles maîtres formateurs nommés par le recteur. Le jury académique est composé de membres qui ne sont pas affectés à l'institut universitaire de formation des maîtres chargé de la formation des stagiaires de l'académie.
 

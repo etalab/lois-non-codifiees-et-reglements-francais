@@ -1,6 +1,6 @@
 # Article 23
 
-Chaque centre départemental est dirigé par un directeur, nommé pour une période de trois ans renouvelable, par le recteur, sur proposition du directeur du centre régional, après avis de l'inspecteur d'académie, directeur des services départementaux de l'éducation, et du directeur général du centre national, parmi les fonctionnaires relevant du ministre chargé de l'éducation, justifiant d'une ancienneté de cinq années dans un corps de catégorie A.
+Chaque centre départemental est dirigé par un directeur, nommé pour une période de trois ans renouvelable, par le recteur, sur proposition du directeur du centre régional, après avis du            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, et du directeur général du centre national, parmi les fonctionnaires relevant du ministre chargé de l'éducation, justifiant d'une ancienneté de cinq années dans un corps de catégorie A.
 
 Le directeur est assisté d'un comité consultatif dont la présidence est assurée par le recteur, chancelier des universités, ou son représentant. Le recteur fixe la composition du comité qui comprend, outre ses propres représentants, des représentants des établissements d'enseignement supérieur, des lycées, des collèges, des écoles, des représentants des collectivités territoriales et des personnes extérieures qualifiées.
 

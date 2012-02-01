@@ -2,7 +2,7 @@
 
 Peuvent être nommés dans l'emploi de directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles :
 
-Les inspecteurs d'académie ;
+Les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 Les administrateurs civils justifiant en cette qualité d'au moins quatre ans de services effectifs ;
 

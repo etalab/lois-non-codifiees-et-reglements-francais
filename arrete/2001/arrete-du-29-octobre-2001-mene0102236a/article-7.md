@@ -1,6 +1,6 @@
 # Article 7
 
-Le jury, présidé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou par son représentant, est composé ainsi qu'il suit :
+Le jury, présidé par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou par son représentant, est composé ainsi qu'il suit :
 
 Pour chaque candidat inscrit, et pour chacune des épreuves, le jury comprend :
 

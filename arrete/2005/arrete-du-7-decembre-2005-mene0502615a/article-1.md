@@ -2,13 +2,13 @@
 
 La commission prévue par l'article 5-2 du décret du 29 mai 1996 susvisé est composée comme suit :
 
-- l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ou son représentant, président ;
+-               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant, président ;
 
 - le médecin conseiller technique départemental ;
 
 - l'assistant social conseiller technique départemental ;
 
-- les membres suivants, désignés par l'inspecteur d'académie pour une durée de trois ans :
+- les membres suivants, désignés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie pour une durée de trois ans :
 
 - un inspecteur chargé d'une circonscription du premier degré ;
 
@@ -38,4 +38,4 @@ La commission prévue par l'article 5-2 du décret du 29 mai 1996 susvisé est c
 
 - un pédopsychiatre ;
 
-- trois représentants de parents d'élèves, désignés par l'inspecteur d'académie sur proposition des associations de parents d'élèves les plus représentatives dans le département. Le nombre de sièges attribués à chaque association est proportionnel à leur degré de représentativité, apprécié en fonction du nombre de voix obtenues dans le département lors des élections des parents d'élèves dans les instances représentatives des écoles et des établissements publics locaux d'enseignement.
+- trois représentants de parents d'élèves, désignés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie sur proposition des associations de parents d'élèves les plus représentatives dans le département. Le nombre de sièges attribués à chaque association est proportionnel à leur degré de représentativité, apprécié en fonction du nombre de voix obtenues dans le département lors des élections des parents d'élèves dans les instances représentatives des écoles et des établissements publics locaux d'enseignement.

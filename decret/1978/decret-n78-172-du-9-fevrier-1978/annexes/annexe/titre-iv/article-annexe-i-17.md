@@ -1,0 +1,5 @@
+# Article Annexe I, 17
+
+Obligations du personnel. Le personnel employé par l'association est tenu au secret professionnel et à l'obligation de discrétion pour tout ce qui concerne les faits, informations, études et décisions dont il aura connaissance au cours de ses missions, sous réserve des autorisations expresses que pourra lui accorder le président de l'association. Il ne peut exercer dans le département aucune activité personnelle concernant l'architecture, l'urbanisme ou l'environnement, à l'exception des tâches d'enseignement et de formation permanente. En particulier, les membres du personnel qui ont la qualité d'architecte ne peuvent pas assurer dans le département les missions d'architecte définies à l'article 3 de la loi sur l'architecture.
+
+Toutefois, pour le personnel employé à temps partiel effectuant dans un ou plusieurs arrondissements la mission mentionnée à l'alinéa 2 de l'article 4 et à l'alinéa 2 de l'article 5 de la loi du 3 janvier 1977 sur l'architecture, l'incompatibilité peut être limitée au territoire dans lequel il intervient, tel qu'il est défini par le président de l'association.

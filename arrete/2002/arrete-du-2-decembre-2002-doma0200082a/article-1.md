@@ -38,7 +38,7 @@ Les président et procureur de la République du tribunal supérieur d'appel de 
 
 Les présidents et procureurs de la République des tribunaux de première instance de Nouvelle-Calédonie et de Polynésie française ainsi que les présidents des tribunaux de première instance des îles Wallis et Futuna et de Saint-Pierre-et-Miquelon ;
 
-g) Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et vice-recteurs de Nouvelle-Calédonie, de Polynésie française, des îles Wallis-et-Futuna et de Mayotte ainsi que le chef du service départemental de l'éducation nationale de Saint-Pierre-et-Miquelon ;
+g) Les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie et vice-recteurs de Nouvelle-Calédonie, de Polynésie française, des îles Wallis-et-Futuna et de Mayotte ainsi que le chef du service départemental de l'éducation nationale de Saint-Pierre-et-Miquelon ;
 
 Les inspecteurs de la jeunesse et des sports ;
 

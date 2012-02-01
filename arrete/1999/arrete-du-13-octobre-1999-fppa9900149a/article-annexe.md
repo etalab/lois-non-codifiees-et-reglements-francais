@@ -86,7 +86,7 @@ B.-L'action de l'administration :
 
 -les contrats de l'administration ;
 
--le régime des biens : domaine public et domaine privé.L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
+-le régime des biens : domaine public et domaine privé. L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
 
 -la responsabilité de l'administration ;
 
@@ -138,7 +138,7 @@ II.-Politique économique
 
 A.-Le cadre de l'intervention économique de l'Etat :
 
-Les fonctions traditionnelles de l'Etat ; la fonction d'utilité collective ; les biens publics ; les effets externes ; les défauts du marché. Les décisions de politique économique : objectifs et contraintes. Le débat sur la stabilisation ; les modèles de stabilisation ; efficacité des politiques économiques et réactions des agents privés ; les problèmes de cohérences temporelles.L'aide à la décision ; l'utilisation des modèles en politique économique.L'évolution du rôle de la planification. Politique régionale et aménagement du territoire.L'internalisation des effets externes. Les principes de fiscalité écologique.
+Les fonctions traditionnelles de l'Etat ; la fonction d'utilité collective ; les biens publics ; les effets externes ; les défauts du marché. Les décisions de politique économique : objectifs et contraintes. Le débat sur la stabilisation ; les modèles de stabilisation ; efficacité des politiques économiques et réactions des agents privés ; les problèmes de cohérences temporelles. L'aide à la décision ; l'utilisation des modèles en politique économique. L'évolution du rôle de la planification. Politique régionale et aménagement du territoire. L'internalisation des effets externes. Les principes de fiscalité écologique.
 
 B.-Les instruments de la politique économique :
 
@@ -156,7 +156,7 @@ Le grand marché intérieur ; l'intégration économique et l'intégration moné
 
 C.-La coordination des politiques économiques et monétaires :
 
-La coopération économique internationale. Le rôle des institutions européennes et internationales.L'autonomie des politiques économiques nationales.
+La coopération économique internationale. Le rôle des institutions européennes et internationales. L'autonomie des politiques économiques nationales.
 
 Troisième épreuve
 
@@ -492,7 +492,7 @@ Notions de démographie ; facteurs socio-économiques et culturels de la fécond
 
 Notion de peuplement ; les migrations ; densité, populations rurales et populations urbaines. La répartition de la croissance démographique dans les différents pays du globe ; les hypothèses prévisionnelles ; la carte du monde en 2020.
 
-2.L'organisation de l'espace géographique
+2. L'organisation de l'espace géographique
 
 Villes et systèmes de villes
 
@@ -500,7 +500,7 @@ Villes et agglomérations urbaines ; localisation des activités et des populati
 
 Régions et territoires
 
-Notions de région homogène, région polarisée, identité, limite, territoire, centre / périphérie, réseau ; on s'attachera à étudier la diversité et l'imbrication des découpages résultant de l'application de ces notions à partir d'exemples pris en Europe ou sur un grand continent (exemple : l'Asie).
+Notions de région homogène, région polarisée, identité, limite, territoire, centre/ périphérie, réseau ; on s'attachera à étudier la diversité et l'imbrication des découpages résultant de l'application de ces notions à partir d'exemples pris en Europe ou sur un grand continent (exemple : l'Asie).
 
 Etats et territoires : contrôle territorial, maillages administratifs, frontières, intégration, notions élémentaires de géographie politique ; recompositions récentes et multiplication des Etats ; les Etats et les organisations transnationales (Organisation mondiale du commerce, Communauté européenne, Association de libre-échange d'Amérique du Nord, MERCOSUR, APEC, ASEAN).
 
@@ -590,7 +590,7 @@ Les organisations politiques. Les partis politiques (organisation, fonctions, sy
 
 Les comportements et attitudes politiques. Le vote et les autres formes de participation. Les mécanismes de représentation et leur remise en cause actuelle. La mobilisation politique et l'abstentionnisme. Le clientélisme politique. Le financement des organisations et campagnes politiques. Socialisation et culture politique. Le rôle des idéologies et des médias.
 
-Formes et évolution des communautés politiques. Les formes historiques.L'Etat-nation.L'impact de la construction européenne sur la vie politique des pays membres de l'Union européenne. La modernisation politique. Le changement politique (crises et révolutions).
+Formes et évolution des communautés politiques. Les formes historiques. L'Etat-nation. L'impact de la construction européenne sur la vie politique des pays membres de l'Union européenne. La modernisation politique. Le changement politique (crises et révolutions).
 
 II.-Science administrative
 
@@ -600,9 +600,9 @@ L'action administrative. Les processus de décision (élaboration, prise de déc
 
 La gestion administrative. Organisation et méthodes. La recherche de l'efficacité, de la rentabilité, de la transparence.
 
-Le pouvoir administratif. Processus d'autonomisation de l'administration. Relations entre le centre et la périphérie.L'administration sectorielle.L'administration territoriale. Le système politico-administratif local.
+Le pouvoir administratif. Processus d'autonomisation de l'administration. Relations entre le centre et la périphérie. L'administration sectorielle. L'administration territoriale. Le système politico-administratif local.
 
-L'administration et son environnement. Rapports avec le Parlement, le Gouvernement, les juges.L'administration, les partenaires sociaux et les groupes de pression ; le rôle des associations.L'administration et les nouveaux types de relations avec les administrés (assujetti, usager, client, citoyen).L'administration et les médias.
+L'administration et son environnement. Rapports avec le Parlement, le Gouvernement, les juges. L'administration, les partenaires sociaux et les groupes de pression ; le rôle des associations. L'administration et les nouveaux types de relations avec les administrés (assujetti, usager, client, citoyen). L'administration et les médias.
 
 Problèmes posés par le développement de la construction européenne.
 
@@ -742,7 +742,7 @@ Les logiciels :
 
 Les services :
 
--interface homme / machine ;
+-interface homme/ machine ;
 
 -transactionnel ;
 
@@ -1050,53 +1050,53 @@ FINANCES PUBLIQUES
 
 A.-Le cadre économique
 
-1. 1. Les finances publiques dans la comptabilité nationale : les administrations publiques, les dépenses publiques, les prélèvements obligatoires (définition et masses financières en jeu).
+1.1. Les finances publiques dans la comptabilité nationale : les administrations publiques, les dépenses publiques, les prélèvements obligatoires (définition et masses financières en jeu).
 
-1. 2. Le cadre conceptuel : le libéralisme et le keynésianisme et leurs influences sur les finances publiques.
+1.2. Le cadre conceptuel : le libéralisme et le keynésianisme et leurs influences sur les finances publiques.
 
-1. 3. Les sous-secteurs institutionnels (au sens de la comptabilité nationale) : Etat, organismes divers d'administration centrale, administrations publiques locales, administrations de sécurité sociale.
+1.3. Les sous-secteurs institutionnels (au sens de la comptabilité nationale) : Etat, organismes divers d'administration centrale, administrations publiques locales, administrations de sécurité sociale.
 
-1. 4. Poids et évolution des dépenses publiques : l'évolution des dépenses publiques en France depuis 1945 et ses facteurs.
+1.4. Poids et évolution des dépenses publiques : l'évolution des dépenses publiques en France depuis 1945 et ses facteurs.
 
-1. 5. Les grandes catégories de dépenses publiques : l'emploi public et les dépenses de personnel, la politique salariale, les facteurs d'évolution de la masse salariale (point fonction publique, glissement-vieillesse-technicité, etc.) ; les dépenses de transfert ; l'investissement public.
+1.5. Les grandes catégories de dépenses publiques : l'emploi public et les dépenses de personnel, la politique salariale, les facteurs d'évolution de la masse salariale (point fonction publique, glissement-vieillesse-technicité, etc.) ; les dépenses de transfert ; l'investissement public.
 
-1. 6. Comparaisons internationales : le niveau des dépenses publiques dans les principaux pays de l'OCDE et dans l'Union européenne.
+1.6. Comparaisons internationales : le niveau des dépenses publiques dans les principaux pays de l'OCDE et dans l'Union européenne.
 
 B.-Le cadre constitutionnel
 
-1. 7. Le régime constitutionnel des finances publiques. Les règles constitutionnelles applicables aux finances de l'Etat, aux finances locales et aux finances sociales.
+1.7. Le régime constitutionnel des finances publiques. Les règles constitutionnelles applicables aux finances de l'Etat, aux finances locales et aux finances sociales.
 
-1. 8. Le principe du consentement à l'impôt, le principe d'égalité devant l'impôt et devant les charges publiques.
+1.8. Le principe du consentement à l'impôt, le principe d'égalité devant l'impôt et devant les charges publiques.
 
-1. 9. Les lois organiques relatives aux finances publiques (loi organique relative aux lois de finances, loi organique relative aux lois de financement de la sécurité sociale).
+1.9. Les lois organiques relatives aux finances publiques (loi organique relative aux lois de finances, loi organique relative aux lois de financement de la sécurité sociale).
 
 C.-Le cadre européen
 
-1. 10. Le traité de Maastricht, le pacte de stabilité et de croissance. Les programmes de stabilité : contenu, modalités d'examen.
+1.10. Le traité de Maastricht, le pacte de stabilité et de croissance. Les programmes de stabilité : contenu, modalités d'examen.
 
-1. 11. La coordination des politiques économiques et budgétaires. La question de l'harmonisation fiscale.
+1.11. La coordination des politiques économiques et budgétaires. La question de l'harmonisation fiscale.
 
-1. 12. Le budget communautaire : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions communautaires. Ressources et dépenses du budget communautaire.
+1.12. Le budget communautaire : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions communautaires. Ressources et dépenses du budget communautaire.
 
 2. Les prélèvements obligatoires
 
 et les autres ressources publiques
 
-2. 1. Les impôts et les autres prélèvements obligatoires.
+2.1. Les impôts et les autres prélèvements obligatoires.
 
 Les différentes notions : prélèvements obligatoires, impôts et taxes, redevances pour service rendu, cotisations sociales.
 
 La structure et l'évolution des prélèvements obligatoires depuis 1945 : comparaisons internationales sur le niveau des prélèvements obligatoires.
 
-Les grandes classifications fiscales : impôts directs / impôts indirects, impôts proportionnels / impôts progressifs, impôts sur la consommation / la production / le revenu / le patrimoine.
+Les grandes classifications fiscales : impôts directs/ impôts indirects, impôts proportionnels/ impôts progressifs, impôts sur la consommation/ la production/ le revenu/ le patrimoine.
 
-2. 2. Les autres ressources des administrations publiques.
+2.2. Les autres ressources des administrations publiques.
 
 Les revenus patrimoniaux, les recettes de production, les revenus marchands, les prix et redevances pour service rendu.
 
-2. 3. Economie et fiscalité.
+2.3. Economie et fiscalité.
 
-2. 3. 1. Les théories fiscales.
+2.3.1. Les théories fiscales.
 
 La justification de l'impôt.
 
@@ -1104,7 +1104,7 @@ La neutralité de l'impôt.
 
 Les doctrines et idéologies fiscales : la théorie de l'impôt échange et de l'impôt solidarité ; les théories de l'impôt unique ; l'impôt négatif.
 
-2. 3. 2.L'imposition des entreprises.
+2.3.2. L'imposition des entreprises.
 
 L'imposition du résultat.
 
@@ -1112,7 +1112,7 @@ Modalités de calcul des principaux impôts pesant sur les entreprises.
 
 La concurrence fiscale.
 
-2. 3. 3.L'imposition des ménages.
+2.3.3. L'imposition des ménages.
 
 L'imposition de la consommation.
 
@@ -1122,7 +1122,7 @@ L'imposition du patrimoine.
 
 Modalités de calcul des principaux impôts pesant sur les ménages.
 
-2. 4. La politique fiscale.
+2.4. La politique fiscale.
 
 L'impôt, outil de politique économique : incidence des prélèvements obligatoires sur la croissance, l'emploi et le développement durable.
 
@@ -1130,19 +1130,19 @@ Les dépenses fiscales.
 
 3. Déficits et dette publics
 
-3. 1. Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière de solde. La notion de déficit public au sens communautaire. Les soldes structurel et conjoncturel.
+3.1. Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière de solde. La notion de déficit public au sens communautaire. Les soldes structurel et conjoncturel.
 
-3. 2. Définition et structure de la dette publique, évolution sur longue période, comparaisons internationales.
+3.2. Définition et structure de la dette publique, évolution sur longue période, comparaisons internationales.
 
-3. 3.L'impact de la dette publique sur l'économie.
+3.3. L'impact de la dette publique sur l'économie.
 
-3. 4 L'émission et la gestion de la dette. Les différentes catégories de titres publics.L'Agence France Trésor. La CADES.
+3.4 L'émission et la gestion de la dette. Les différentes catégories de titres publics. L'Agence France Trésor. La CADES.
 
-3. 5 La soutenabilité de la dette. La prise en compte du problème des retraites dans une perspective de soutenabilité des finances publiques.
+3.5 La soutenabilité de la dette. La prise en compte du problème des retraites dans une perspective de soutenabilité des finances publiques.
 
 4. Les finances de l'Etat
 
-4. 1. La structure du budget de l'Etat.
+4.1. La structure du budget de l'Etat.
 
 Les ressources de l'Etat : impôts et autres ressources.
 
@@ -1150,13 +1150,13 @@ Les dépenses de l'Etat : par destination, par nature.
 
 L'équilibre du budget, le tableau de financement.
 
-4. 2. Les principes budgétaires.
+4.2. Les principes budgétaires.
 
 Les principes classiques : annualité, unité, spécialité, universalité.
 
 Les principes récents : équilibre, sincérité, performance.
 
-4. 3. Les notions de budget et de loi de finances, la structure des lois de finances.
+4.3. Les notions de budget et de loi de finances, la structure des lois de finances.
 
 Les catégories de lois de finances et le calendrier budgétaire : du projet de loi de finances initial à la loi de règlement.
 
@@ -1164,13 +1164,13 @@ Domaines obligatoire, réservé, partagé, interdit des lois de finances.
 
 La structure de la loi de finances initiale (première partie, deuxième partie, annexes obligatoires au projet de loi de finances initiale).
 
-4. 4.L'élaboration et l'adoption du budget de l'Etat.
+4.4. L'élaboration et l'adoption du budget de l'Etat.
 
 Les phases politiques et administratives de l'élaboration des lois de finances ; le débat d'orientation des finances publiques ; le dépôt du projet de loi de finances.
 
 Les règles et modalités d'adoption des lois de finances par le Parlement.
 
-4. 5.L'exécution des lois de finances.
+4.5. L'exécution des lois de finances.
 
 Les modifications de la loi de finances initiale en cours d'exécution : les lois de finances rectificatives et les mouvements de crédits réglementaires.
 
@@ -1178,15 +1178,15 @@ Le pilotage de l'exécution budgétaire, les mises en réserve de crédits.
 
 La chaîne de la dépense.
 
-4. 6. Les acteurs des finances de l'Etat.
+4.6. Les acteurs des finances de l'Etat.
 
-L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget,        direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
+L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget, direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
 
 Le Parlement : les commissions des finances, les rapporteurs généraux du budget, les rapporteurs spéciaux et pour avis.
 
 Les instances de concertation entre acteurs des finances publiques : la Conférence nationale des finances publiques et le Conseil d'orientation des finances publiques.
 
-4. 7. La nouvelle gestion publique issue de la LOLF.
+4.7. La nouvelle gestion publique issue de la LOLF.
 
 Les nouvelles règles de gestion et la prise en compte de la performance.
 
@@ -1196,7 +1196,7 @@ Les opérateurs de l'Etat.
 
 5. Les finances locales
 
-5. 1. Le cadre général.
+5.1. Le cadre général.
 
 Les contours des finances locales : collectivités territoriales et établissements publics locaux ; régions, départements, intercommunalités et communes.
 
@@ -1204,13 +1204,13 @@ Les relations financières entre l'Etat et les collectivités locales.
 
 Les grandes masses financières et la situation des finances locales.
 
-5. 2. La structure des budgets des collectivités territoriales et la procédure budgétaire.
+5.2. La structure des budgets des collectivités territoriales et la procédure budgétaire.
 
 La présentation des budgets : les nomenclatures, la règle d'équilibre.
 
 Les conditions d'élaboration et d'adoption des budgets locaux.
 
-5. 3. Les ressources des collectivités territoriales.
+5.3. Les ressources des collectivités territoriales.
 
 Impôts.
 
@@ -1220,13 +1220,13 @@ Prix des services publics et ressources domaniales.
 
 Ressources diverses, dont l'emprunt.
 
-5. 4. Les principales dépenses des collectivités territoriales, les enjeux financiers afférents aux principales compétences ; la notion de dépense obligatoire.
+5.4. Les principales dépenses des collectivités territoriales, les enjeux financiers afférents aux principales compétences ; la notion de dépense obligatoire.
 
-5. 5.L'endettement des collectivités territoriales.
+5.5. L'endettement des collectivités territoriales.
 
 6. Les finances sociales
 
-6. 1. Le cadre général.
+6.1. Le cadre général.
 
 Les contours des finances sociales : le régime général, les régimes spéciaux, les régimes autonomes, les régimes complémentaires.
 
@@ -1240,13 +1240,13 @@ Les organismes et administrations de sécurité sociale.
 
 Comparaisons internationales.
 
-6. 2. La structure des finances sociales.
+6.2. La structure des finances sociales.
 
 Les ressources sociales : impôts, cotisations.
 
 Les dépenses sociales : par risque, par régime ; les principaux déterminants des dépenses de prestations sociales.
 
-6. 3.L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
+6.3. L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
 
 Le calendrier et la procédure d'élaboration du projet de loi de financement de la sécurité sociale.
 
@@ -1258,7 +1258,7 @@ L'exécution des lois de financement de la sécurité sociale.
 
 7. Les règles comptables et le contrôle des finances publiques
 
-7. 1. La comptabilité publique.
+7.1. La comptabilité publique.
 
 La comptabilité, instrument au service de la modernisation de la gestion publique.
 
@@ -1268,7 +1268,7 @@ La comptabilité budgétaire, comptabilité de caisse. La comptabilité des enga
 
 L'analyse des coûts.
 
-7. 2. Les principes de l'organisation comptable.
+7.2. Les principes de l'organisation comptable.
 
 La séparation des ordonnateurs et des comptables.
 
@@ -1276,7 +1276,7 @@ Catégories, fonctions et responsabilités des ordonnateurs et des comptables.
 
 L'unité de caisse.
 
-7. 3. Le contrôle des finances publiques.
+7.3. Le contrôle des finances publiques.
 
 Les contrôles politiques : le contrôle parlementaire.
 
@@ -1318,7 +1318,7 @@ La sécession.
 
 La hiérarchie des Etats et ses effets sur les relations internationales. Droit et rapports de force.
 
-Les organisations internationales : théorie générale.L'ONU et les institutions spécialisées ; les organisations régionales et spéciales.
+Les organisations internationales : théorie générale. L'ONU et les institutions spécialisées ; les organisations régionales et spéciales.
 
 La question des personnes privées : statut de l'individu. Les sociétés multinationales ; les organisations non gouvernementales.
 
@@ -1472,7 +1472,7 @@ B.-L'action de l'administration :
 
 -les contrats de l'administration ;
 
--le régime des biens : domaine public et domaine privé.L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
+-le régime des biens : domaine public et domaine privé. L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
 
 -la responsabilité de l'administration ;
 
@@ -1524,7 +1524,7 @@ II.-Politique économique
 
 A.-Le cadre de l'intervention économique de l'Etat.
 
-Les fonctions traditionnelles de l'Etat ; la fonction d'utilité collective ; les biens publics ; les effets externes ; les défauts du marché. Les décisions de politique économique : objectifs et contraintes. Le débat sur la stabilisation ; les modèles de stabilisation ; efficacité des politiques économiques et réactions des agents privés ; les problèmes de cohérences temporelles.L'aide à la décision ; l'utilisation des modèles en politique économique.L'évolution du rôle de la planification. Politique régionale et aménagement du territoire.L'internalisation des effets externes. Les principes de fiscalité écologique.
+Les fonctions traditionnelles de l'Etat ; la fonction d'utilité collective ; les biens publics ; les effets externes ; les défauts du marché. Les décisions de politique économique : objectifs et contraintes. Le débat sur la stabilisation ; les modèles de stabilisation ; efficacité des politiques économiques et réactions des agents privés ; les problèmes de cohérences temporelles. L'aide à la décision ; l'utilisation des modèles en politique économique. L'évolution du rôle de la planification. Politique régionale et aménagement du territoire. L'internalisation des effets externes. Les principes de fiscalité écologique.
 
 B.-Les instruments de la politique économique.
 
@@ -1544,7 +1544,7 @@ Le grand marché intérieur ; l'intégration économique et l'intégration moné
 
 C.-La coordination des politiques économiques et monétaires.
 
-La coopération économique internationale. Le rôle des institutions européennes et internationales.L'autonomie des politiques économiques nationales.
+La coopération économique internationale. Le rôle des institutions européennes et internationales. L'autonomie des politiques économiques nationales.
 
 Troisième épreuve
 
@@ -1724,7 +1724,7 @@ Les instruments des politiques publiques :
 
 -les contrôles : contrôle technique et contrôle de légalité ;
 
--les contrats de plan Etat / région.
+-les contrats de plan Etat/ région.
 
 Les relations avec les acteurs externes :
 
@@ -1766,7 +1766,7 @@ Les collectivités locales et les entreprises ; les diverses formes d'aides et l
 
 La gestion de l'intercommunalité.
 
-Les contrats de plan Etat / région.
+Les contrats de plan Etat/ région.
 
 L'aménagement durable du territoire et la politique des pays.
 
@@ -1798,7 +1798,7 @@ GESTION DES ETABLISSEMENTS PUBLICS
 
 -les relations avec l'autorité de tutelle.
 
-2.L'organisation interne :
+2. L'organisation interne :
 
 -les structures et formes d'organisation ;
 
@@ -1850,7 +1850,7 @@ B.-Les services déconcentrés :
 
 -l'échelon académique. Le recteur, chancelier des universités. Les services administratifs et les différents services techniques. Les organismes consultatifs académiques : les corps académiques d'inspection. Les relations des services académiques avec les autres administrations régionales (préfet, conseil régional, affaires culturelles, jeunesse et sports, justice) ;
 
--l'échelon départemental.L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. Les services administratifs départementaux. Les corps départementaux d'inspection. Les organismes consultatifs départementaux. Les relations des services départementaux avec les autres administrations départementales et les collectivités territoriales.
+-l'échelon départemental. Le             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. Les services administratifs départementaux. Les corps départementaux d'inspection. Les organismes consultatifs départementaux. Les relations des services départementaux avec les autres administrations départementales et les collectivités territoriales.
 
 C.-Répartition des responsabilités et des tâches entre les différents échelons et collectivités :
 
@@ -2010,53 +2010,53 @@ FINANCES PUBLIQUES
 
 A.-Le cadre économique
 
-1. 1. Les finances publiques dans la comptabilité nationale : les administrations publiques, les dépenses publiques, les prélèvements obligatoires (définition et masses financières en jeu).
+1.1. Les finances publiques dans la comptabilité nationale : les administrations publiques, les dépenses publiques, les prélèvements obligatoires (définition et masses financières en jeu).
 
-1. 2. Le cadre conceptuel : le libéralisme et le keynésianisme et leurs influences sur les finances publiques.
+1.2. Le cadre conceptuel : le libéralisme et le keynésianisme et leurs influences sur les finances publiques.
 
-1. 3. Les sous-secteurs institutionnels (au sens de la comptabilité nationale) : Etat, organismes divers d'administration centrale, administrations publiques locales, administrations de sécurité sociale.
+1.3. Les sous-secteurs institutionnels (au sens de la comptabilité nationale) : Etat, organismes divers d'administration centrale, administrations publiques locales, administrations de sécurité sociale.
 
-1. 4. Poids et évolution des dépenses publiques : l'évolution des dépenses publiques en France depuis 1945 et ses facteurs.
+1.4. Poids et évolution des dépenses publiques : l'évolution des dépenses publiques en France depuis 1945 et ses facteurs.
 
-1. 5. Les grandes catégories de dépenses publiques : l'emploi public et les dépenses de personnel, la politique salariale, les facteurs d'évolution de la masse salariale (point fonction publique, glissement-vieillesse-technicité, etc.) ; les dépenses de transfert ; l'investissement public.
+1.5. Les grandes catégories de dépenses publiques : l'emploi public et les dépenses de personnel, la politique salariale, les facteurs d'évolution de la masse salariale (point fonction publique, glissement-vieillesse-technicité, etc.) ; les dépenses de transfert ; l'investissement public.
 
-1. 6. Comparaisons internationales : le niveau des dépenses publiques dans les principaux pays de l'OCDE et dans l'Union européenne.
+1.6. Comparaisons internationales : le niveau des dépenses publiques dans les principaux pays de l'OCDE et dans l'Union européenne.
 
 B.-Le cadre constitutionnel
 
-1. 7. Le régime constitutionnel des finances publiques. Les règles constitutionnelles applicables aux finances de l'Etat, aux finances locales et aux finances sociales.
+1.7. Le régime constitutionnel des finances publiques. Les règles constitutionnelles applicables aux finances de l'Etat, aux finances locales et aux finances sociales.
 
-1. 8. Le principe du consentement à l'impôt, le principe d'égalité devant l'impôt et devant les charges publiques.
+1.8. Le principe du consentement à l'impôt, le principe d'égalité devant l'impôt et devant les charges publiques.
 
-1. 9. Les lois organiques relatives aux finances publiques (loi organique relative aux lois de finances, loi organique relative aux lois de financement de la sécurité sociale).
+1.9. Les lois organiques relatives aux finances publiques (loi organique relative aux lois de finances, loi organique relative aux lois de financement de la sécurité sociale).
 
 C.-Le cadre européen
 
-1. 10. Le traité de Maastricht, le pacte de stabilité et de croissance. Les programmes de stabilité : contenu, modalités d'examen.
+1.10. Le traité de Maastricht, le pacte de stabilité et de croissance. Les programmes de stabilité : contenu, modalités d'examen.
 
-1. 11. La coordination des politiques économiques et budgétaires. La question de l'harmonisation fiscale.
+1.11. La coordination des politiques économiques et budgétaires. La question de l'harmonisation fiscale.
 
-1. 12. Le budget communautaire : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions communautaires. Ressources et dépenses du budget communautaire.
+1.12. Le budget communautaire : les principes du droit budgétaire européen, la règle d'équilibre, le partage du pouvoir budgétaire entre les institutions communautaires. Ressources et dépenses du budget communautaire.
 
 2. Les prélèvements obligatoires
 
 et les autres ressources publiques
 
-2. 1. Les impôts et les autres prélèvements obligatoires.
+2.1. Les impôts et les autres prélèvements obligatoires.
 
 Les différentes notions : prélèvements obligatoires, impôts et taxes, redevances pour service rendu, cotisations sociales.
 
 La structure et l'évolution des prélèvements obligatoires depuis 1945 : comparaisons internationales sur le niveau des prélèvements obligatoires.
 
-Les grandes classifications fiscales : impôts directs / impôts indirects, impôts proportionnels / impôts progressifs, impôts sur la consommation / la production / le revenu / le patrimoine.
+Les grandes classifications fiscales : impôts directs/ impôts indirects, impôts proportionnels/ impôts progressifs, impôts sur la consommation/ la production/ le revenu/ le patrimoine.
 
-2. 2. Les autres ressources des administrations publiques.
+2.2. Les autres ressources des administrations publiques.
 
 Les revenus patrimoniaux, les recettes de production, les revenus marchands, les prix et redevances pour service rendu.
 
-2. 3. Economie et fiscalité.
+2.3. Economie et fiscalité.
 
-2. 3. 1. Les théories fiscales.
+2.3.1. Les théories fiscales.
 
 La justification de l'impôt.
 
@@ -2064,7 +2064,7 @@ La neutralité de l'impôt.
 
 Les doctrines et idéologies fiscales : la théorie de l'impôt échange et de l'impôt solidarité ; les théories de l'impôt unique ; l'impôt négatif.
 
-2. 3. 2.L'imposition des entreprises.
+2.3.2. L'imposition des entreprises.
 
 L'imposition du résultat.
 
@@ -2072,7 +2072,7 @@ Modalités de calcul des principaux impôts pesant sur les entreprises.
 
 La concurrence fiscale.
 
-2. 3. 3.L'imposition des ménages.
+2.3.3. L'imposition des ménages.
 
 L'imposition de la consommation.
 
@@ -2082,7 +2082,7 @@ L'imposition du patrimoine.
 
 Modalités de calcul des principaux impôts pesant sur les ménages.
 
-2. 4. La politique fiscale.
+2.4. La politique fiscale.
 
 L'impôt, outil de politique économique : incidence des prélèvements obligatoires sur la croissance, l'emploi et le développement durable.
 
@@ -2090,19 +2090,19 @@ Les dépenses fiscales.
 
 3. Déficits et dette publics
 
-3. 1. Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière de solde. La notion de déficit public au sens communautaire. Les soldes structurel et conjoncturel.
+3.1. Les notions d'équilibre et de déficit ; régimes juridiques applicables aux différentes collectivités publiques en matière de solde. La notion de déficit public au sens communautaire. Les soldes structurel et conjoncturel.
 
-3. 2. Définition et structure de la dette publique, évolution sur longue période, comparaisons internationales.
+3.2. Définition et structure de la dette publique, évolution sur longue période, comparaisons internationales.
 
-3. 3.L'impact de la dette publique sur l'économie.
+3.3. L'impact de la dette publique sur l'économie.
 
-3. 4 L'émission et la gestion de la dette. Les différentes catégories de titres publics.L'Agence France Trésor. La CADES.
+3.4 L'émission et la gestion de la dette. Les différentes catégories de titres publics. L'Agence France Trésor. La CADES.
 
-3. 5 La soutenabilité de la dette. La prise en compte du problème des retraites dans une perspective de soutenabilité des finances publiques.
+3.5 La soutenabilité de la dette. La prise en compte du problème des retraites dans une perspective de soutenabilité des finances publiques.
 
 4. Les finances de l'Etat
 
-4. 1. La structure du budget de l'Etat.
+4.1. La structure du budget de l'Etat.
 
 Les ressources de l'Etat : impôts et autres ressources.
 
@@ -2110,13 +2110,13 @@ Les dépenses de l'Etat : par destination, par nature.
 
 L'équilibre du budget, le tableau de financement.
 
-4. 2. Les principes budgétaires.
+4.2. Les principes budgétaires.
 
 Les principes classiques : annualité, unité, spécialité, universalité.
 
 Les principes récents : équilibre, sincérité, performance.
 
-4. 3. Les notions de budget et de loi de finances, la structure des lois de finances.
+4.3. Les notions de budget et de loi de finances, la structure des lois de finances.
 
 Les catégories de lois de finances et le calendrier budgétaire : du projet de loi de finances initial à la loi de règlement.
 
@@ -2124,13 +2124,13 @@ Domaines obligatoire, réservé, partagé, interdit des lois de finances.
 
 La structure de la loi de finances initiale (première partie, deuxième partie, annexes obligatoires au projet de loi de finances initiale).
 
-4. 4.L'élaboration et l'adoption du budget de l'Etat.
+4.4. L'élaboration et l'adoption du budget de l'Etat.
 
 Les phases politiques et administratives de l'élaboration des lois de finances ; le débat d'orientation des finances publiques ; le dépôt du projet de loi de finances.
 
 Les règles et modalités d'adoption des lois de finances par le Parlement.
 
-4. 5.L'exécution des lois de finances.
+4.5. L'exécution des lois de finances.
 
 Les modifications de la loi de finances initiale en cours d'exécution : les lois de finances rectificatives et les mouvements de crédits réglementaires.
 
@@ -2138,15 +2138,15 @@ Le pilotage de l'exécution budgétaire, les mises en réserve de crédits.
 
 La chaîne de la dépense.
 
-4. 6. Les acteurs des finances de l'Etat.
+4.6. Les acteurs des finances de l'Etat.
 
-L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget,        direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
+L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget, direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
 
 Le Parlement : les commissions des finances, les rapporteurs généraux du budget, les rapporteurs spéciaux et pour avis.
 
 Les instances de concertation entre acteurs des finances publiques : la Conférence nationale des finances publiques et le Conseil d'orientation des finances publiques.
 
-4. 7. La nouvelle gestion publique issue de la LOLF.
+4.7. La nouvelle gestion publique issue de la LOLF.
 
 Les nouvelles règles de gestion et la prise en compte de la performance.
 
@@ -2156,7 +2156,7 @@ Les opérateurs de l'Etat.
 
 5. Les finances locales
 
-5. 1. Le cadre général.
+5.1. Le cadre général.
 
 Les contours des finances locales : collectivités territoriales et établissements publics locaux ; régions, départements, intercommunalités et communes.
 
@@ -2164,13 +2164,13 @@ Les relations financières entre l'Etat et les collectivités locales.
 
 Les grandes masses financières et la situation des finances locales.
 
-5. 2. La structure des budgets des collectivités territoriales et la procédure budgétaire.
+5.2. La structure des budgets des collectivités territoriales et la procédure budgétaire.
 
 La présentation des budgets : les nomenclatures, la règle d'équilibre.
 
 Les conditions d'élaboration et d'adoption des budgets locaux.
 
-5. 3. Les ressources des collectivités territoriales.
+5.3. Les ressources des collectivités territoriales.
 
 Impôts.
 
@@ -2180,13 +2180,13 @@ Prix des services publics et ressources domaniales.
 
 Ressources diverses, dont l'emprunt.
 
-5. 4. Les principales dépenses des collectivités territoriales, les enjeux financiers afférents aux principales compétences ; la notion de dépense obligatoire.
+5.4. Les principales dépenses des collectivités territoriales, les enjeux financiers afférents aux principales compétences ; la notion de dépense obligatoire.
 
-5. 5.L'endettement des collectivités territoriales.
+5.5. L'endettement des collectivités territoriales.
 
 6. Les finances sociales
 
-6. 1. Le cadre général.
+6.1. Le cadre général.
 
 Les contours des finances sociales : le régime général, les régimes spéciaux, les régimes autonomes, les régimes complémentaires.
 
@@ -2200,13 +2200,13 @@ Les organismes et administrations de sécurité sociale.
 
 Comparaisons internationales.
 
-6. 2. La structure des finances sociales.
+6.2. La structure des finances sociales.
 
 Les ressources sociales : impôts, cotisations.
 
 Les dépenses sociales : par risque, par régime ; les principaux déterminants des dépenses de prestations sociales.
 
-6. 3.L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
+6.3. L'élaboration, l'adoption et l'exécution des lois de financement de la sécurité sociale.
 
 Le calendrier et la procédure d'élaboration du projet de loi de financement de la sécurité sociale.
 
@@ -2218,7 +2218,7 @@ L'exécution des lois de financement de la sécurité sociale.
 
 7. Les règles comptables et le contrôle des finances publiques
 
-7. 1. La comptabilité publique.
+7.1. La comptabilité publique.
 
 La comptabilité, instrument au service de la modernisation de la gestion publique.
 
@@ -2228,7 +2228,7 @@ La comptabilité budgétaire, comptabilité de caisse. La comptabilité des enga
 
 L'analyse des coûts.
 
-7. 2. Les principes de l'organisation comptable.
+7.2. Les principes de l'organisation comptable.
 
 La séparation des ordonnateurs et des comptables.
 
@@ -2236,7 +2236,7 @@ Catégories, fonctions et responsabilités des ordonnateurs et des comptables.
 
 L'unité de caisse.
 
-7. 3. Le contrôle des finances publiques.
+7.3. Le contrôle des finances publiques.
 
 Les contrôles politiques : le contrôle parlementaire.
 
@@ -2334,7 +2334,7 @@ B.-L'action de l'administration :
 
 -les contrats de l'administration ;
 
--le régime des biens : domaine public et domaine privé.L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
+-le régime des biens : domaine public et domaine privé. L'expropriation pour cause d'utilité publique. Les interventions des collectivités publiques dans le domaine foncier ;
 
 -la responsabilité de l'administration ;
 
@@ -2404,7 +2404,7 @@ Le grand marché intérieur ; l'intégration économique et l'intégration moné
 
 C.-La coordination des politiques économiques et monétaires.
 
-La coopération économique internationale. Le rôle des institutions européennes et internationales.L'autonomie des politiques économiques nationales.
+La coopération économique internationale. Le rôle des institutions européennes et internationales. L'autonomie des politiques économiques nationales.
 
 Troisième épreuve
 
@@ -2546,7 +2546,7 @@ Le programme de l'épreuve est défini par les rubriques suivantes :
 
 1. Les organisations dans les sociétés développées : différences et points communs, rôles techniques, économiques et sociologiques ;
 
-2.L'organisation comme système ; analyse systémique et analyse organisationnelle ;
+2. L'organisation comme système ; analyse systémique et analyse organisationnelle ;
 
 3. Les explications des comportements par le concept d'organisation ;
 
@@ -2644,7 +2644,7 @@ Le programme de l'épreuve est défini par les rubriques suivantes :
 
 -la gestion de l'intercommunalité ;
 
--les contrats de plan Etat / région ;
+-les contrats de plan Etat/ région ;
 
 -l'aménagement durable du territoire et la politique des pays.
 
@@ -2694,7 +2694,7 @@ Les conflits.
 
 La négociation collective.
 
-La participation des salariés à la prise de décision : les délégués du personnel, les comités d'entreprise, les comités de groupe, les comités européens, la gestion des oeuvres sociales des entreprises, la recherche de l'amélioration des conditions de travail.L'accès à l'information économique des représentants du personnel.
+La participation des salariés à la prise de décision : les délégués du personnel, les comités d'entreprise, les comités de groupe, les comités européens, la gestion des oeuvres sociales des entreprises, la recherche de l'amélioration des conditions de travail. L'accès à l'information économique des représentants du personnel.
 
 La participation, l'intéressement et l'actionnariat des salariés.
 

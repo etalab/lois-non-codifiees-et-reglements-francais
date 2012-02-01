@@ -1,6 +1,6 @@
 # Article 2
 
-Les jurys départementaux, placés sous la présidence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sont constitués :
+Les jurys départementaux, placés sous la présidence du               directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, sont constitués :
 
 ― de professeurs en activité ou professeurs retraités œuvrant ou ayant œuvré pour le concours ;
 

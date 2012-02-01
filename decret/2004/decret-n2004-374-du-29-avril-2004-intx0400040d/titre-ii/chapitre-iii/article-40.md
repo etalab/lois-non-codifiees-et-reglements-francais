@@ -10,7 +10,7 @@ Le préfet de département préside le collège des chefs de service qui est com
 
 4° Du directeur départemental des finances publiques ;
 
-5° De l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+5° De               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 6° Du commandant du groupement de gendarmerie départementale ;
 

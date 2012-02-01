@@ -104,6 +104,7 @@
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-585 du 28 juin 2000 (DEFD0001719D)](decret-n2000-585-du-28-juin-2000-defd0001719d)
 - [Décret n°2000-615 du 28 juin 2000 (ECOC0000057D)](decret-n2000-615-du-28-juin-2000-ecoc0000057d)
+- [Décret n°2000-723 du 28 juillet 2000 (MENG0000839D)](decret-n2000-723-du-28-juillet-2000-meng0000839d)
 - [Décret n°2000-73 du 28 janvier 2000 (MESC0010117D)](decret-n2000-73-du-28-janvier-2000-mesc0010117d)
 - [Décret n°2000-818 du 28 août 2000 (ECOP0000639D)](decret-n2000-818-du-28-aout-2000-ecop0000639d)
 - [Décret n°2000-819 du 28 août 2000 (MESF0010794D)](decret-n2000-819-du-28-aout-2000-mesf0010794d)

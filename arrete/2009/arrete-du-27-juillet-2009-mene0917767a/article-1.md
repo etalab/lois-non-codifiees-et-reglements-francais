@@ -4,7 +4,7 @@ Les élèves inscrits en formation initiale au Centre national d'enseignement à
 
 1. Elèves soumis à l'obligation scolaire :
 
-― lorsque leur inscription au CNED a recueilli un avis favorable de l'inspecteur d'académie du département de résidence ;
+― lorsque leur inscription au CNED a recueilli un avis favorable du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du département de résidence ;
 
 ― s'agissant des élèves français résidant hors de France, lorsque ceux-ci se trouvent dans l'impossibilité d'effectuer leur scolarité dans un établissement du réseau de l'Agence pour l'enseignement du français à l'étranger.
 

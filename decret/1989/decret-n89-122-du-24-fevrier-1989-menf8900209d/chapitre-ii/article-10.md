@@ -1,6 +1,6 @@
 # Article 10
 
-Dans la limite des emplois vacants et après avis de la commission administrative paritaire départementale unique, compétente à l'égard des instituteurs et des professeurs des écoles, sont nommés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans l'emploi de directeur d'école :
+Dans la limite des emplois vacants et après avis de la commission administrative paritaire départementale unique, compétente à l'égard des instituteurs et des professeurs des écoles, sont nommés par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, dans l'emploi de directeur d'école :
 
 1° Les candidats inscrits sur la liste d'aptitude départementale ;
 
