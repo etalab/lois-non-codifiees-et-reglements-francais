@@ -1,0 +1,3 @@
+# Article 15
+
+Les dispositions des sections I et II prévues pour Marseille et Lyon s'appliquent aux communes associées mentionnées aux articles L. 2113-17 à L. 2113-20 du code général des collectivités territoriales dans leur rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, ainsi qu'aux autres communes associées lorsque le conseil municipal a décidé de faire application de l'article L. 2113-26 du même code dans sa rédaction antérieure à la même loi et aux communes déléguées mentionnées aux articles L. 2113-10 à L. 2113-19 du même code issus de la même loi.
