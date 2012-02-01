@@ -111,6 +111,7 @@
 - [Arrêté du 13 janvier 2012 (EFII1200134A)](arrete-du-13-janvier-2012-efii1200134a)
 - [Arrêté du 13 janvier 2012 (ETSH1201367A)](arrete-du-13-janvier-2012-etsh1201367a)
 - [Arrêté du 13 janvier 2012 (ETSP1201303A)](arrete-du-13-janvier-2012-etsp1201303a)
+- [Arrêté du 13 juin 1983](arrete-du-13-juin-1983)
 - [Arrêté du 14 décembre 2011 (DEFH1121592A)](arrete-du-14-decembre-2011-defh1121592a)
 - [Arrêté du 14 décembre 2011 (DEVR1134883A)](arrete-du-14-decembre-2011-devr1134883a)
 - [Arrêté du 14 novembre 2011 (MENV1129786A)](arrete-du-14-novembre-2011-menv1129786a)
