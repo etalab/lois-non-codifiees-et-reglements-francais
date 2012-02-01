@@ -1,0 +1,3 @@
+# Article 3
+
+L'article 2 du présent arrêté entre en vigueur à compter de la date de la première réunion du Conseil supérieur de la magistrature dans sa composition issue de la loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République. Les autres dispositions du présent arrêté entrent en vigueur au premier jour du deuxième mois qui suit la publication du décret n° 2011-2061 du 30 décembre 2011modifiant le décret n° 95-735 du 10 mai 1995 relatif à la rémunération des membres du Conseil supérieur de la magistrature ainsi que des membres du secrétariat administratif de ce conseil au Journal officiel de la République française.
