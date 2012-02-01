@@ -20,8 +20,6 @@ I. - Lors de l'examen théorique, la personne physique candidate à la certifica
 
 - les équipements nécessaires au bon déroulement de la mission.
 
-Les personnes physiques dont les compétences pour l'état relatif à la présence de termites dans le bâtiment ont été validées par une licence professionnelle bâtiment et construction, spécialité diagnostics techniques de l'immobilier et pathologies du bâtiment, délivrée par une université, sont exonérées de l'examen théorique.
-
 II. - L'examen pratique permet de vérifier par une mise en situation que la personne physique candidate à la certification :
 
 - applique une méthodologie de réalisation des états relatifs à la présence des termites dans le bâtiment et utilise les outils adaptés à l'activité ;
