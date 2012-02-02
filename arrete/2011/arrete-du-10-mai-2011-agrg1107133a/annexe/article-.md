@@ -8,1860 +8,2103 @@ Liste des variétés à fruits inscrites et des synonymes utilisables
 
 (validée par la section vigne du CTPS en 2010)
 
-<div>
-<br/>
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>DÉNOMINATION PRINCIPALE<br/>(désignée au catalogue)</th>
-<th colspan="3">
-<br/>SYNONYMES UTILISABLES</th>
+<th>DÉNOMINATION PRINCIPALE<br/>(désignée au catalogue)<br/>
+</th>
+<th colspan="3">SYNONYMES UTILISABLES<br/>
+</th>
 </tr>
 <tr>
+<td align="center">Abondant B<br/>
+</td>
 <td align="center">
-<br/>Abondant B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Abouriou N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Admirable de Courtiller B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aladin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aléatico N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alédo B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alicante Henri Bouschet N</td>
-<td align="center">
-<br/>Alicante Bouschet N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aligoté B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alphonse Lavallée N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Altesse B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alval N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alvarinho B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Alvina N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Amandin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aramon blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aramon gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aramon N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aranel B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arbane B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arinarnoa N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arriloba B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arrouya N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arrufiac B</td>
-<td align="center">
-<br/>Arrufiat B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Arvine B</td>
-<td align="center">
-<br/>Petite Arvine B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Attiki N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aubin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aubin vert B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aubun N</td>
-<td align="center">
-<br/>Murescola N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Auxerrois B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bachet N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Baco blanc B</td>
-<td align="center">
-<br/>Baco 22 A</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Barbaroux Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Baroque B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Béclan N</td>
-<td align="center">
-<br/>Petit Béclan N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Béquignol N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Biancu Gentile B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Blanc Dame B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bouchalès N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bouillet N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bouquettraube B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bourboulenc B</td>
-<td align="center">
-<br/>Doucillon blanc B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brachet N</td>
-<td align="center">
-<br/>Braquet N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brun argenté N</td>
-<td align="center">
-<br/>Vaccarèse N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Brun Fourca N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cabernet franc N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cabernet-Sauvignon N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Caladoc N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Calitor N</td>
-<td align="center">
-<br/>Pécoui touar N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Camaralet B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Candin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Canner seedless B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carcajolo blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carcajolo N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cardinal Rg</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carignan blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carignan N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carla N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Carmenère N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Castets N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Centennial seedless B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>César N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chambourcin N</td>
-<td align="center">
-<br/>26205 Joannès Seyve</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chardonnay B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chasan B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chasselas B</td>
-<td align="center">
-<br/>Chasselas doré B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chasselas cioutat B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chasselas Muscat B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chasselas rose Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chatus N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chenanson N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chenin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cinsaut N</td>
-<td align="center">
-<br/>Cinsault N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Clairette B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Clairette rose Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Clarin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Claverie B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Codivarta B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Colobel N</td>
-<td align="center">
-<br/>8357 Seibel</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Colombard B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Colombaud B</td>
-<td align="center">
-<br/>Bouteillan B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Corbeau N</td>
-<td align="center">
-<br/>Douce noire N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cot N</td>
-<td align="center">
-<br/>Malbec N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couderc noir N</td>
-<td align="center">
-<br/>7120 Couderc</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Counoise N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Courbu B</td>
-<td align="center">
-<br/>Gros Courbu B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Courbu noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couston N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Crouchen B</td>
-<td align="center">
-<br/>Cruchen B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dabouki B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Danam B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Danlas B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Danuta B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Datal B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Dattier de Beyrouth B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Delhro N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Duras N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Durif N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Egiodola N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ekigaïna N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Elbling B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Etraire de la Dui N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Exalta B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Fer N</td>
-<td align="center">
-<br/>Braucol N, Fer servadou N, Mansois N, Pinenc N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ferradou N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Feunate N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Flame seedless Rg</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Florental N</td>
-<td align="center">
-<br/>7705 Burdin</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Folignan B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Folle blanche B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Franc noir de Haute-Saône N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Fuella nera N</td>
-<td align="center">
-<br/>Folle noire de Nice N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Furmint B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gamaret N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gamay de Bouze N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gamay de Chaudenay N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gamay Fréaux N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gamay N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ganson N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Garonnet N</td>
-<td align="center">
-<br/>18283 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gascon N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Genovèse B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gewurztraminer Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Goldriesling B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gouget N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Graisse B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gramon N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grassen N</td>
-<td align="center">
-<br/>Grassenc N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grenache blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grenache gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grenache N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gringet B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grolleau gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Grolleau N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gros Manseng B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Gros vert B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ignea Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Isa B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Italia B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Italia Rubi Rg</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Jacquère B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Jaoumet B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Joubertin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Jurançon blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Jurançon noir N</td>
-<td align="center">
-<br/>Dame noire N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Knipperlé B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Landal N</td>
-<td align="center">
-<br/>244 Landot</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lauzet B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Len de L'El B</td>
-<td align="center">
-<br/>Loin de l'Œil B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Léon Millot N</td>
-<td align="center">
-<br/>194-2 Kuhlmann</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Liliorila B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Listan B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lival N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lledoner pelut N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Macabeu B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine angevine B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine angevine Oberlin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine Céline B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine de Clermont B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine royale B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madeleine Salomon B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Madina B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mancin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Manseng noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Maréchal Foch N</td>
-<td align="center">
-<br/>188-2 Kuhlmann</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Marsanne B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Marselan N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mauzac B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mauzac rose Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mayorquin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mècle N</td>
-<td align="center">
-<br/>Mescle N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Melon B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mérille N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Merlot blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Merlot N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Meslier Saint-François B</td>
-<td align="center">
-<br/>Gros Meslier B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Meunier N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Milgranet N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mireille B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Molette B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mollard N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mondeuse blanche B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mondeuse N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Monerac N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Montils B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mornen N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Morrastel N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mourvaison N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mourvèdre N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mouyssaguès N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Müller-Thurgau B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muresconu N</td>
-<td align="center">
-<br/>Morescono N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscadelle B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscardin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat à petits grains blancs B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat à petits grains roses Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat à petits grains rouges Rg</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat cendré B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat d'Alexandrie B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat de Hambourg N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Muscat Ottonel B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Négret de Banhars N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Négrette N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nielluccio N</td>
-<td align="center">
-<br/>Niellucciu N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Noir Fleurien N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Oberlin noir N</td>
-<td align="center">
-<br/>595 Oberlin</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Œillade noire N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Olivette blanche B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Olivette noire N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ondenc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ora B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Orbois B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pagadebiti B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Panse précoce B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Parellada B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pascal B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Perdea B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Perdin B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Perlaut B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Perle de Csaba B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Perlette B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Persan N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Petit Courbu B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Petit Manseng B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Petit Meslier B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Petit Verdot N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Picardan B</td>
-<td align="center">
-<br/>Araignan B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pineau d'Aunis N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pinot blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pinot gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pinot noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Piquepoul blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Piquepoul gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Piquepoul noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Plant de Brunel N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Plant droit N</td>
-<td align="center">
-<br/>Espanenc N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Plantet N</td>
-<td align="center">
-<br/>5455 Seibel</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Portan N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Portugais bleu N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Poulsard N</td>
-<td align="center">
-<br/>Ploussard N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Précoce Bousquet B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Précoce de Malingre B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Prima N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Prunelard N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Raffiat de Moncade B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ravat blanc B</td>
-<td align="center">
-<br/>Ravat 6</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rayon d'Or B</td>
-<td align="center">
-<br/>4986 Seibel</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Red Globe Rg</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Reine des Vignes B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ribol N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Riesling B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Riminèse B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rivairenc blanc B</td>
-<td align="center">
-<br/>Aspiran blanc B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rivairenc gris G</td>
-<td align="center">
-<br/>Aspiran gris G</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rivairenc N</td>
-<td align="center">
-<br/>Aspiran N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Romorantin B</td>
-<td align="center">
-<br/>Danery B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rosé du Var Rs</td>
-<td align="center">
-<br/>Roussanne du Var Rs</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Roublot B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Roussanne B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Roussette D'Ayze B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Rubilande Rs</td>
-<td align="center">
-<br/>11803 Seibel</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sacy B</td>
-<td align="center">
-<br/>Tressallier B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Côme B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Macaire N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Saint-Pierre doré B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sauvignon B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sauvignon gris G</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Savagnin blanc B</td>
-<td align="center">
-<br/>Naturé B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Savagnin rose Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sciaccarello N</td>
-<td align="center">
-<br/>Sciaccarellu N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Segalin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Seinoir N</td>
-<td align="center">
-<br/>8745 Seibel</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Select B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Semebat N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Semillon B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Serna INTA Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Servanin N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Servant B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Seyval B</td>
-<td align="center">
-<br/>5276 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sulima B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sultanine B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sylvaner B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Syrah N</td>
-<td align="center">
-<br/>Shiraz N, Serine N</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tannat N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tempranillo N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Téoulier N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Terret blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Terret gris G</td>
-<td align="center">
-<br/>Terret-Bourret G</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Terret noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tibouren N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tourbat B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tressot N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Trousseau N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ugni blanc B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Valdiguié N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Valensi noir N</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Valérien B</td>
-<td align="center">
-<br/>23410 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Varousset N</td>
-<td align="center">
-<br/>23657 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Velteliner rouge précoce Rs</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Verdelho B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Verdesse B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Vermentino B</td>
-<td align="center">
-<br/>Rolle B, Garbesso B, Vermentinu B</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Victoria B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Villard blanc B</td>
-<td align="center">
-<br/>12375 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Villard noir N</td>
-<td align="center">
-<br/>18315 Seyve-Villard</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Viognier B</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Xarello B</td>
-<td align="center">
-<br/> 
+<br/>
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<br/> Nota. ― Les noms écrits en caractères italiques correspondent à des hybrides interspécifiques.</td>
+<td align="center">Abouriou N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
 </tr>
+<tr>
+<td align="center">Admirable de Courtiller B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aladin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aléatico N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alédo B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alicante Henri Bouschet N<br/>
+</td>
+<td align="center">Alicante Bouschet N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aligoté B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alphonse Lavallée N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Altesse B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alval N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alvarinho B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Alvina N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Amandin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aramon blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aramon gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aramon N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aranel B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arbane B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arinarnoa N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arriloba B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arrouya N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arrufiac B<br/>
+</td>
+<td align="center">Arrufiat B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Arvine B<br/>
+</td>
+<td align="center">Petite Arvine B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Attiki N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aubin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aubin vert B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Aubun N<br/>
+</td>
+<td align="center">Murescola N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Auxerrois B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bachet N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Baco blanc B<br/>
+</td>
+<td align="center">Baco 22 A<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Barbaroux Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Baroque B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Béclan N<br/>
+</td>
+<td align="center">Petit Béclan N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Béquignol N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Biancu Gentile B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Blanc Dame B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bouchalès N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bouillet N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bouquettraube B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bourboulenc B<br/>
+</td>
+<td align="center">Doucillon blanc B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Brachet N<br/>
+</td>
+<td align="center">Braquet N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Brun argenté N<br/>
+</td>
+<td align="center">Vaccarèse N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Brun Fourca N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Cabernet franc N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Cabernet-Sauvignon N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Caladoc N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Calitor N<br/>
+</td>
+<td align="center">Pécoui touar N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Camaralet B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Candin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Canner seedless B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carcajolo blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carcajolo N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Cardinal Rg<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carignan blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carignan N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carla N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Carmenère N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Castets N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Centennial seedless B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">César N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chambourcin N<br/>
+</td>
+<td align="center">26205 Joannès Seyve<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chardonnay B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chasan B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chasselas B<br/>
+</td>
+<td align="center">Chasselas doré B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chasselas cioutat B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chasselas Muscat B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chasselas rose Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chatus N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chenanson N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chenin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Cinsaut N<br/>
+</td>
+<td align="center">Cinsault N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Clairette B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Clairette rose Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Clarin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Claverie B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Codivarta B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Colobel N<br/>
+</td>
+<td align="center">8357 Seibel<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Colombard B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Colombaud B<br/>
+</td>
+<td align="center">Bouteillan B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Corbeau N<br/>
+</td>
+<td align="center">Douce noire N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Cot N<br/>
+</td>
+<td align="center">Malbec N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Couderc noir N<br/>
+</td>
+<td align="center">7120 Couderc<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Counoise N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Courbu B<br/>
+</td>
+<td align="center">Gros Courbu B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Courbu noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Couston N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Crouchen B<br/>
+</td>
+<td align="center">Cruchen B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Dabouki B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Danam B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Danlas B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Danuta B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Datal B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Dattier de Beyrouth B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Delhro N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Duras N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Durif N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Egiodola N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ekigaïna N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Elbling B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Etraire de la Dui N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Exalta B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Fer N<br/>
+</td>
+<td align="center">Braucol N, Fer servadou N, Mansois N, Pinenc N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ferradou N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Feunate N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Flame seedless Rg<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Florental N<br/>
+</td>
+<td align="center">7705 Burdin<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Folignan B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Folle blanche B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Franc noir de Haute-Saône N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Fuella nera N<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">Furmint B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gamaret N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gamay de Bouze N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gamay de Chaudenay N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gamay Fréaux N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gamay N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ganson N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Garonnet N<br/>
+</td>
+<td align="center">18283 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gascon N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Genovèse B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gewurztraminer Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Goldriesling B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gouget N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Graisse B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gramon N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grassen N<br/>
+</td>
+<td align="center">Grassenc N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grenache blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grenache gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grenache N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gringet B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grolleau gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Grolleau N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gros Manseng B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Gros vert B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ignea Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Isa B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Italia B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Italia Rubi Rg<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jacquère B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jaoumet B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Joubertin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jurançon blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Jurançon noir N<br/>
+</td>
+<td align="center">Dame noire N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Knipperlé B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Landal N<br/>
+</td>
+<td align="center">244 Landot<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Lauzet B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Len de L'El B<br/>
+</td>
+<td align="center">Loin de l'Œil B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Léon Millot N<br/>
+</td>
+<td align="center">194-2 Kuhlmann<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Liliorila B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Listan B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Lival N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Lledoner pelut N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Macabeu B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine angevine B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine angevine Oberlin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine Céline B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine de Clermont B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine royale B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madeleine Salomon B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Madina B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mancin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Manseng noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Maréchal Foch N<br/>
+</td>
+<td align="center">188-2 Kuhlmann<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Marsanne B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Marselan N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mauzac B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mauzac rose Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mayorquin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mècle N<br/>
+</td>
+<td align="center">Mescle N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Melon B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mérille N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Merlot blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Merlot N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Meslier Saint-François B<br/>
+</td>
+<td align="center">Gros Meslier B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Meunier N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Milgranet N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mireille B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Molette B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mollard N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mondeuse blanche B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mondeuse N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Monerac N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Montils B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mornen N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Morrastel N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mourvaison N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mourvèdre N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Mouyssaguès N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Müller-Thurgau B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muresconu N<br/>
+</td>
+<td align="center">Morescono N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscadelle B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscardin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat à petits grains blancs B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat à petits grains roses Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat à petits grains rouges Rg<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat cendré B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat d'Alexandrie B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat de Hambourg N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Muscat Ottonel B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Négret de Banhars N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Négrette N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Nielluccio N<br/>
+</td>
+<td align="center">Niellucciu N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Noir Fleurien N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Oberlin noir N<br/>
+</td>
+<td align="center">595 Oberlin<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Œillade noire N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Olivette blanche B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Olivette noire N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ondenc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ora B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Orbois B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pagadebiti B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Panse précoce B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Parellada B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pascal B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Perdea B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Perdin B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Perlaut B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Perle de Csaba B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Perlette B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Persan N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Petit Courbu B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Petit Manseng B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Petit Meslier B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Petit Verdot N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Picardan B<br/>
+</td>
+<td align="center">Araignan B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pineau d'Aunis N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pinot blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pinot gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Pinot noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Piquepoul blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Piquepoul gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Piquepoul noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Plant de Brunel N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Plant droit N<br/>
+</td>
+<td align="center">Espanenc N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Plantet N<br/>
+</td>
+<td align="center">5455 Seibel<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Portan N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Portugais bleu N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Poulsard N<br/>
+</td>
+<td align="center">Ploussard N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Précoce Bousquet B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Précoce de Malingre B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Prima N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Prunelard N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Raffiat de Moncade B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ravat blanc B<br/>
+</td>
+<td align="center">Ravat 6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rayon d'Or B<br/>
+</td>
+<td align="center">4986 Seibel<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Red Globe Rg<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Reine des Vignes B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ribol N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Riesling B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Riminèse B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rivairenc blanc B<br/>
+</td>
+<td align="center">Aspiran blanc B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rivairenc gris G<br/>
+</td>
+<td align="center">Aspiran gris G<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rivairenc N<br/>
+</td>
+<td align="center">Aspiran N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Romorantin B<br/>
+</td>
+<td align="center">Danery B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rosé du Var Rs<br/>
+</td>
+<td align="center">Roussanne du Var Rs<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Roublot B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Roussanne B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Roussette D'Ayze B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Rubilande Rs<br/>
+</td>
+<td align="center">11803 Seibel<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sacy B<br/>
+</td>
+<td align="center">Tressallier B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Saint-Côme B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Saint-Macaire N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Saint-Pierre doré B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sauvignon B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sauvignon gris G<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Savagnin blanc B<br/>
+</td>
+<td align="center">Naturé B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Savagnin rose Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sciaccarello N<br/>
+</td>
+<td align="center">Sciaccarellu N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Segalin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Seinoir N<br/>
+</td>
+<td align="center">8745 Seibel<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Select B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Semebat N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Semillon B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Serna INTA Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Servanin N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Servant B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Seyval B<br/>
+</td>
+<td align="center">5276 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sulima B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sultanine B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Sylvaner B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Syrah N<br/>
+</td>
+<td align="center">Shiraz N, Serine N<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tannat N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tempranillo N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Téoulier N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Terret blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Terret gris G<br/>
+</td>
+<td align="center">Terret-Bourret G<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Terret noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tibouren N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tourbat B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tressot N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Trousseau N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Ugni blanc B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Valdiguié N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Valensi noir N<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Valérien B<br/>
+</td>
+<td align="center">23410 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Varousset N<br/>
+</td>
+<td align="center">23657 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Velteliner rouge précoce Rs<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Verdelho B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Verdesse B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Vermentino B<br/>
+</td>
+<td align="center">Rolle B, Garbesso B, Vermentinu B<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Victoria B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Villard blanc B<br/>
+</td>
+<td align="center">12375 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Villard noir N<br/>
+</td>
+<td align="center">18315 Seyve-Villard<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Viognier B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Xarello B<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">Nota. ― Les noms écrits en caractères italiques correspondent à des hybrides interspécifiques.<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
