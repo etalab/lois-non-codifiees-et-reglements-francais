@@ -3069,7 +3069,6 @@
 - [Arrêté du 31 janvier 2011 (AGRS1102271A)](arrete-du-31-janvier-2011-agrs1102271a)
 - [Arrêté du 31 janvier 2011 (AGRT1100028A)](arrete-du-31-janvier-2011-agrt1100028a)
 - [Arrêté du 31 janvier 2011 (AGRT1100954A)](arrete-du-31-janvier-2011-agrt1100954a)
-- [Arrêté du 31 janvier 2011 (BCRD1103151A)](arrete-du-31-janvier-2011-bcrd1103151a)
 - [Arrêté du 31 janvier 2011 (BCRD1103175A)](arrete-du-31-janvier-2011-bcrd1103175a)
 - [Arrêté du 31 janvier 2011 (DEFH1101870A)](arrete-du-31-janvier-2011-defh1101870a)
 - [Arrêté du 31 janvier 2011 (DEFK1103983A)](arrete-du-31-janvier-2011-defk1103983a)
