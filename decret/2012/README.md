@@ -32,3 +32,6 @@
 - [Décret n°2012-146 du 30 janvier 2012 (MCCB1133750D)](decret-n2012-146-du-30-janvier-2012-mccb1133750d)
 - [Décret n°2012-147 du 30 janvier 2012 (SCSA1134578D)](decret-n2012-147-du-30-janvier-2012-scsa1134578d)
 - [Décret n°2012-149 du 30 janvier 2012 (ESRS1202272D)](decret-n2012-149-du-30-janvier-2012-esrs1202272d)
+- [Décret n°2012-154 du 30 janvier 2012 (IOCE1134911D)](decret-n2012-154-du-30-janvier-2012-ioce1134911d)
+- [Décret n°2012-155 du 30 janvier 2012 (AGRT1134290D)](decret-n2012-155-du-30-janvier-2012-agrt1134290d)
+- [Décret n°2012-156 du 30 janvier 2012 (ESRH1113164D)](decret-n2012-156-du-30-janvier-2012-esrh1113164d)
