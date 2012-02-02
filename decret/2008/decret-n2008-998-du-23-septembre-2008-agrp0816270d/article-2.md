@@ -14,7 +14,7 @@ Les cidres, poirés et pommeau qui ont fait l'objet d'une notification de refus 
 
 Les installations d'irrigation mises en place avant le 6 décembre 2006 et ne répondant pas aux conditions fixées à l'article D. 644-23 peuvent être utilisées jusqu'à la campagne 2009-2010 incluse.
 
-II. ― A titre transitoire, jusqu'à homologation du cahier des charges et au plus tard le  11 février 2012 :
+II. ― A titre transitoire, jusqu'à homologation du cahier des charges et au plus tard le  31 décembre 2013 :
 
 1° Pour les produits relevant du comité national des appellations laitières, agro-alimentaires et forestiers, les obligations déclaratives et de tenue de registres sont celles prévues par les dispositions réglementaires en vigueur le 30 juin 2008 ;
 
