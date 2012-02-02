@@ -1,6 +1,6 @@
 # Article 19
 
-Les mutations des astronomes et physiciens ne peuvent être prononcées que sur leur demande par arrêté du ministre chargé des universités, après avis de la section compétente du Conseil national des astronomes et physiciens. La mutation ne peut être prononcée en cas d'avis défavorable motivé du président ou du directeur de l'établissement auprès duquel elle est demandée ou en cas d'avis défavorable du conseil de cet établissement, qui est obligatoirement consulté.
+Les mutations des astronomes et physiciens ne peuvent être prononcées que sur leur demande par décision du président ou directeur de l'établissement, après avis de la section compétente du Conseil national des astronomes et physiciens. La mutation ne peut être prononcée en cas d'avis défavorable motivé du président ou du directeur de l'établissement auprès duquel elle est demandée ou en cas d'avis défavorable du conseil de cet établissement, qui est obligatoirement consulté.
 
 Dans les grands établissements mentionnés à l'article 24 de la loi du 26 janvier 1984 susvisée, les mutations sont prononcées dans les conditions prévues ci-dessus et après consultation du conseil scientifique.
 

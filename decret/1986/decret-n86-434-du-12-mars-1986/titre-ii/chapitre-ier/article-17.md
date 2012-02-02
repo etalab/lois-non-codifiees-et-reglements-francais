@@ -2,7 +2,7 @@
 
 Les concours mentionnés aux articles 14 et 15 sont organisés par branche suivant les modalités ci-après.
 
-Le ministre chargé des universités publie pour chaque concours le nombre des emplois mis au concours.
+Le ministre chargé de l'enseignement supérieur fixe, pour chaque concours, le nombre d'emplois offerts et les conditions de recevabilité aux concours. Les caractéristiques et la localisation des emplois à pourvoir font l'objet d'une publication par voie électronique dans des conditions fixées par arrêté.
 
 Les candidatures doivent être adressées au ministre chargé des universités. Elles sont examinées par un jury constitué par la section concernée du Conseil national des astronomes et physiciens. Ce jury procède à l'audition des candidats. Il établit la liste des candidats retenus et propose leur affectation dans l'un des établissements. Le nombre des propositions ne peut dépasser celui des emplois à pourvoir.
 

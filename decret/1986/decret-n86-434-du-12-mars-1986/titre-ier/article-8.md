@@ -13,5 +13,3 @@ Sont assimilées à des activités d'enseignement des actions de formation des m
 Seules peuvent être rémunérées les heures complémentaires effectuées par les personnels régis par le présent décret au-delà des services d'enseignement qui leur sont impartis en application du présent article.
 
 Les personnels régis par le présent décret doivent fournir à la demande du président ou du directeur de leur établissement toutes informations concernant l'accomplissement de leurs obligations de service.
-
-Le président ou le directeur de l'établissement adresse chaque année au ministre chargé de universités un rapport sur les activités d'enseignement de son établissement.

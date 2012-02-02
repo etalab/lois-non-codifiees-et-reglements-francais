@@ -1,8 +1,8 @@
 # Article 24
 
-L'avancement de la deuxième à la première classe du corps des astronomes et physiciens a lieu au choix dans la limite des emplois budgétaires vacants. Il est prononcé par arrêté du ministre chargé des universités sur proposition de la section compétente du Conseil national des astronomes et physiciens.
+Le nombre maximum d'astronomes et de physiciens de 2e classe pouvant être promus chaque année à la 1re classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
-Chaque section recueille l'avis du président ou du directeur de l'établissement qui consulte le conseil scientifique de ce dernier ou l'organe qui en tient lieu.
+L'avancement de la 2e à la 1re classe du corps des astronomes et physiciens a lieu au choix. Il est prononcé par décision du président ou directeur de l'établissement sur proposition de la section compétente du Conseil national des astronomes et physiciens, après consultation du conseil scientifique de l'établissement ou l'organe en tenant lieu.
 
 La section tient compte notamment, pour établir ces propositions, de la mobilité accomplie par les intéressés.
 

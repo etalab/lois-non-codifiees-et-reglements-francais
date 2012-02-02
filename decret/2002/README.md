@@ -172,6 +172,7 @@
 - [Décret n°2002-1308 du 28 octobre 2002 (INTC0200245D)](decret-n2002-1308-du-28-octobre-2002-intc0200245d)
 - [Décret n°2002-295 du 28 février 2002 (MENX0200016D)](decret-n2002-295-du-28-fevrier-2002-menx0200016d)
 - [Décret n°84-1191 du 28 décembre 1984](decret-n84-1191-du-28-decembre-1984)
+- [Décret n°89-710 du 28 septembre 1989 (MENX8900104D)](decret-n89-710-du-28-septembre-1989-menx8900104d)
 - [Décret n°2002-1327 du 29 octobre 2002 (MCCB0200497D)](decret-n2002-1327-du-29-octobre-2002-mccb0200497d)
 - [Décret n°2002-423 du 29 mars 2002 (MESS0220838D)](decret-n2002-423-du-29-mars-2002-mess0220838d)
 - [Décret n°2002-441 du 29 mars 2002 (INDI0200192D)](decret-n2002-441-du-29-mars-2002-indi0200192d)
