@@ -1,3 +1,7 @@
 # Article 2
 
-Les dispositions du présent titre sont prises pour l'application des articles 1er et 3 de la loi du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution.
+Les dispositions du présent titre sont prises pour l'application des articles L. 5241-2, L. 5241-3, L. 5241-4, L. 5241-7, L. 5241-8, L. 5334-3 et L. 5334-4 du code des transports.
+
+Les dispositions des chapitres Ier, II et III du titre Ier et celles du titre Ier bis s'appliquent aux navires battant pavillon français.
+
+Les dispositions du chapitre IV du titre Ier et celles de l'article 42-4 s'appliquent aux navires battant pavillon d'un Etat étranger.

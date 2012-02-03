@@ -1,6 +1,6 @@
 # Article Annexe
 
-**TITRE Ier : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET**
+TITRE Ier : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
 
 Domaine des ports maritimes
 
@@ -85,9 +85,9 @@ Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aér
 </tbody>
 </table>
 
-**TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT**
+TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
 
-**A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement**
+A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
 
 Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'agrément technique applicables aux marchés publics de travaux et instituant trois procédures concernant respectivement les liants hydrauliques, les armatures pour béton armé et les armatures à haute résistance de précontrainte
 
@@ -385,21 +385,36 @@ Code des douanes
 </table>
 </div>
 
-_Mesure prise par le ministre chargé de la marine marchande et, le cas échéant, les autres ministres intéressés_
+_Mesures prises par le ministre chargé du transport des marchandises dangereuses et, le cas échéant, les autres ministres intéressés_
 
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
+Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
 
-<div>
 <table>
 <tbody>
 <tr>
-<td>1 </td>
-<td>Autorisations de transporter par mer des marchandises dangereuses. </td>
-<td>Article 54-I. </td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Evaluation des cargaisons et approbation des conditions de transport. <br/>
+</td>
+<td align="center">
+<br/>Article 56 (II). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer les certificats relatifs aux cargaisons. <br/>
+</td>
+<td align="center">
+<br/>Article 42-2. <br/>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
 
 _Mesure prise par le ministre chargé des ports maritimes et, le cas échéant, le ministre dont relève la tutelle de l'établissement concessionnaire_
 
@@ -588,7 +603,7 @@ Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juil
 </tbody>
 </table>
 
-**B.-Décisions prises par un ministre**
+B.-Décisions prises par un ministre
 
 _Mesures prises par le ministre chargé de l'équipement_
 
@@ -864,17 +879,11 @@ Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transp
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients et citernes). <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1284,20 +1293,108 @@ Décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires :
 
 _Mesures prises par le ministre chargé de la mer_
 
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
+Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
 
 <table>
 <tbody>
 <tr>
-<td>1 </td>
-<td>
-<p>Décision d'approbation des navires de </p>
-<p>plaisance : séries de plus de 24 mètres et </p>
-<p>navires à utilisation collective. </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p>Article 17, </p>
-<p>paragraphe 1. </p>
+<td align="center">
+<br/>Délivrance, visa et renouvellement du document de conformité à la gestion de la sécurité. <br/>
+</td>
+<td align="center">
+<br/>Article 3-1, paragraphe III. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>Délivrance des certificats d'exemption. <br/>
+</td>
+<td align="center">
+<br/>Article 3-2, paragraphe II. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>Délivrance du titre provisoire se rapportant au document de conformité à la gestion de la sécurité. <br/>
+</td>
+<td align="center">
+<br/>Article 10, paragraphe II. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application. <br/>
+</td>
+<td align="center">
+<br/>Article 14, paragraphe I-2.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>Décision d'approbation des navires de <p>plaisance : séries de plus de 24 mètres et navires à utilisation collective. <br/>
+</p>
+</td>
+<td align="center">
+<br/>Article 17, paragraphe I-1.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application. <br/>
+</td>
+<td align="center">
+<br/>Article 17, paragraphe I-3.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>Habilitation, retrait et suspension de l'habilitation des sociétés de classification agréées. <br/>
+</td>
+<td align="center">
+<br/>Articles 42 et 42-1.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer, renouveler, suspendre ou retirer les certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat. <br/>
+</td>
+<td align="center">
+<br/>Article 42-2.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>Habilitation, retrait et suspension de l'habilitation des organismes de certification des conteneurs. <br/>
+</td>
+<td align="center">
+<br/>Article 42-2.<br/>
 </td>
 </tr>
 </tbody>
@@ -1390,48 +1487,6 @@ Décret n° 48-1751 du 16 novembre 1948 modifié étendant dans certaines condit
 <p>Article 1er, 1er </p>
 <p>et 2e alinéa. </p>
 </td>
-</tr>
-</tbody>
-</table>
-
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
-
-<table>
-<tbody>
-<tr>
-<td>1 </td>
-<td>
-<p>Délivrance d'attestation de conformité au code international </p>
-<p>de gestion pour la sécurité de l'exploitation des navires et </p>
-<p>de la prévention de la pollution (code ISM). </p>
-</td>
-<td>Article 14-I, paragraphe 2-1.</td>
-</tr>
-<tr>
-<td>2 </td>
-<td>
-<p>Attestation de conformité des navires de commerce de plus </p>
-<p>de 500 tonneaux et des navires à passagers effectuant des </p>
-<p>voyages internationaux à la réglementation sur la sécurité </p>
-<p>des navires, après étude de leurs plans. </p>
-</td>
-<td>
-<p>Article 14-I, paragraphes 1-1,</p>
-<p>1-2 et 2-1.</p>
-</td>
-</tr>
-<tr>
-<td>3 </td>
-<td>
-<p>Approbation de certains matériels de sécurité et de prévention </p>
-<p>de la pollution et de certains documents. </p>
-</td>
-<td>Article 14-I, paragraphe 2-2.</td>
-</tr>
-<tr>
-<td>4 </td>
-<td>Agrément de certains organismes en matière de sécurité des navires. </td>
-<td>Article 42. </td>
 </tr>
 </tbody>
 </table>
@@ -1841,17 +1896,11 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation. <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -1865,10 +1914,7 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux. <br/>
 </td>
@@ -1879,7 +1925,7 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 </tbody>
 </table>
 
-**C.-Autres décisions**
+C.-Autres décisions
 
 <table>
 <tbody>

@@ -2,9 +2,9 @@
 
 Sauvetage.
 
-I. - Pour prendre la mer, un navire doit posséder les engins collectifs et individuels nécessaires pour le sauvetage de toutes les personnes présentes à bord.
+I.-Pour prendre la mer, un navire doit posséder les engins collectifs et individuels nécessaires pour le sauvetage de toutes les personnes présentes à bord.
 
-II. - Les embarcations et radeaux de sauvetage, ainsi que les engins flottants d'un navire, doivent ête promptement disponibles en cas d'urgence.
+II.-Les embarcations et radeaux de sauvetage, ainsi que les engins flottants d'un navire, doivent ête promptement disponibles en cas d'urgence.
 
 A cet effet, les conditions suivantes doivent être remplies :
 
@@ -16,8 +16,8 @@ A cet effet, les conditions suivantes doivent être remplies :
 
 4. Les embarcations sont, autant que possible, réparties également de chaque bord.
 
-III. - Tous les engins de sauvetage doivent être maintenus en bon état de service et prêts à être immédiatement utilisés avant que le navire ne quitte le port et à tout moment pendant le voyage.
+III.-Tous les engins de sauvetage doivent être maintenus en bon état de service et prêts à être immédiatement utilisés avant que le navire ne quitte le port et à tout moment pendant le voyage.
 
-IV. - Des consignes concernant l'utilisation des matériels, l'évacuation et l'abandon du navire doivent être affichées à bord.
+IV.-Des consignes concernant l'utilisation des matériels, l'évacuation et l'abandon du navire doivent être affichées à bord.
 
-V. - Avant le départ d'un navire à passagers, le capitaine porte à la connaissance de l'autorité compétente les éléments d'information nécessaires à la recherche et au sauvetage en mer concernant les passagers. Le ministre chargé de la marine marchande arrête la liste de ces éléments d'information en fonction des conditions d'exploitation des navires.
+V.-Avant le départ d'un navire à passagers, le capitaine porte à la connaissance de l'autorité compétente les éléments d'information nécessaires à la recherche et au sauvetage en mer concernant les passagers. Le     ministre chargé de la mer  arrête la liste de ces éléments d'information en fonction des conditions d'exploitation des navires.

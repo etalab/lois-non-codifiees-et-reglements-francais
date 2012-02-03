@@ -16,4 +16,4 @@ d) Du matériel de signalisation pour prévenir les abordages en mer.
 
 L'usage de l'un quelconque des signaux de détresse prescrits par les conventions internationales est strictement réservé aux cas de détresse.
 
-Un arrêté du ministre chargé de la marine marchande fixe les règles particulières de sécurité applicables au transport des marchandises dangereuses et des cargaisons.
+Un arrêté du     ministre chargé de la mer  fixe les règles particulières de sécurité applicables au transport des marchandises dangereuses et des cargaisons.

@@ -1,25 +1,21 @@
 # Article 27
 
-Une commission de visite périodique est constituée dans chacun des centres de sécurité des navires. Elle siège dans chacun des ports de visite désignés par le    directeur interrégional de la mer.
+I. - La visite périodique a pour objet de vérifier que le navire, compte tenu de son état d'entretien et, le cas échéant, des modifications apportées après autorisation de l'autorité compétente, continue de satisfaire aux conditions auxquelles ont été délivrés et éventuellement renouvelés les titres de sécurité et de prévention de la pollution. Dans l'affirmative, elle permet le maintien des titres de sécurité et de prévention de la pollution en cours de validité dont le navire est porteur ou le renouvellement de ceux arrivant à expiration. Dans le cas contraire, elle entraîne la suspension des titres dans les conditions fixées par l'article 8-1.
 
-I.-La commission vérifie si le navire soumis à une visite périodique en application de l'article 4, compte tenu de son état d'entretien et, le cas échéant, des modifications apportées après autorisation de l'autorité compétente, continue de satisfaire aux conditions selon lesquelles ont été délivrés et éventuellement renouvelés les titres de sécurité. Dans l'affirmative, elle propose le maintien des titres de sécurité en cours de validité dont le navire est porteur ou le renouvellement de ceux arrivant à expiration. Dans le cas contraire, elle peut proposer le retrait des titres.
+II. - Lorsque la délivrance des titres et certificats relève de l'autorité administrative, la visite périodique est effectuée par la commission de visite périodique.
 
-La commission de visite périodique est compétente pour l'examen de tout navire dont les titres de sécurité ont été retirés.
+Une commission de visite est constituée dans chacun des centres de sécurité des navires.
 
-II.-Chaque commission de visite périodique comprend :
+Le chef du centre de sécurité des navires compétent ou son délégué désigne les membres de la commission de visite périodique, dans les conditions arrêtées par le ministre chargé de la mer.
 
-a) Le chef du centre de sécurité des navires ou son délégué, président ;
+III. - Chaque commission de visite périodique comprend :
 
-b) Des inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes dans les conditions ci-dessous :
+a) Le chef du centre de sécurité des navires ou son délégué, président. Il peut être accompagné de un ou deux inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes.
 
--pour les navires d'une longueur égale ou supérieure à 24 mètres, deux inspecteurs. Toutefois, sur décision du chef du centre de sécurité, ce nombre peut être ramené à un ;
+b) Pour les navires munis d'une installation radioélectrique, un représentant de l'Agence nationale des fréquences dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires ;
 
--pour les autres navires, un inspecteur ;
+c) Dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires, le médecin des gens de mer ou son représentant.
 
-c) Pour les navires munis d'une installation radioélectrique, un représentant de l'exploitant du réseau de radiocommunications maritime ;
+V. - Le propriétaire du navire, l'exploitant ou leur représentant et le ou les délégués du personnel, délégués de bord ou représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail, sont admis à assister aux opérations de la commission et à présenter leurs observations.
 
-d) Dans les conditions déterminées par le ministre chargé de la marine marchande, le médecin des gens de mer ou son représentant.
-
-III.-L'armateur, le propriétaire ou leur représentant et le (ou les) délégué (s) de l'équipage sont admis à assister aux opérations de la commission et à présenter leurs observations.
-
-IV.-Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante. Le président délivre les titres et certificats de sécurité et de prévention de la pollution.
+VI. - Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.

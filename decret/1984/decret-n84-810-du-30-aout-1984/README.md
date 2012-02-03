@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Titre I : Titres de sécurité et certificats de prévention de la pollution - Contrôles des navires](titre-i)
+- [Titre I bis : Autres titres et certificats](titre-i-bis)
 - [Titre II : Règles générales de sécurité et de la prévention de la pollution](titre-ii)
 - [Titre III : Dispositions pénales.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)

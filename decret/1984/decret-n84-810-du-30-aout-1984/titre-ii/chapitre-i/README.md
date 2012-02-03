@@ -1,5 +1,6 @@
 # Chapitre I : Dispositions relatives aux navires.
 
+- [Article 42-9](article-42-9.md)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)
 - [Article 45](article-45.md)
@@ -13,5 +14,4 @@
 - [Article 52](article-52.md)
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)
-- [Article 54-1](article-54-1.md)
 - [Article 55](article-55.md)

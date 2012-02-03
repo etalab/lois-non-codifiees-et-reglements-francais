@@ -1,7 +1,17 @@
 # Article 37
 
-Coûts - Imputation.
+Est à la charge du propriétaire ou de l'exploitant du navire, du constructeur, du fabricant, ou de l'importateur le coût des études, expertises, analyses, essais, épreuves, inspections, visites et audits, exigés par l'administration ou la société de classification habilitée nécessaires :
 
-I. - Le coût des études, expertises, analyses, essais, épreuves, inspections et visites, exigés par l'autorité compétente dans le cadre des procédures nécessaires à l'examen des plans et documents d'un navire, de la délivrance ou du maintien des titres et des certificats de sécurité ou de prévention de la pollution d'un navire français ou étranger, de l'approbation d'un modèle de navire de plaisance, de l'approbation, de l'agrément, de l'autorisation ou de l'acceptation d'équipements marins, des procédures de sauvegarde ou de contrôle concernant les équipements marins et navires de plaisance bénéficiant de la marque européenne de conformité sont à la charge du demandeur.
+1° A l'examen des plans et documents d'un navire ;
 
-II. - Lorsque, à la demande de l'armateur, du constructeur, du fabricant ou de l'importateur, les membres d'une commission de visite se déplacent, les frais afférents à ces déplacements sont à la charge du demandeur.
+2° A la délivrance ou au maintien des titres de sécurité ou des certificats de prévention de la pollution, quel que soit le pavillon du navire ;
+
+3° A l'approbation d'un modèle de navire de plaisance ;
+
+4° A l'approbation, l'agrément, l'autorisation ou l'acceptation d'équipements marins ;
+
+5° A la mise en œuvre des procédures de sauvegarde ou de vérification concernant les équipements marins et navires de plaisance bénéficiant de la marque européenne de conformité ;
+
+6° Préalablement à la mise en exploitation d'un transbordeur roulier ou d'un engin à passagers à grande vitesse.
+
+Lorsque, à la demande du propriétaire ou exploitant du navire, du constructeur, du fabricant, ou de l'importateur, les membres d'une commission de visite ou d'une commission d'audit sont amenés à se déplacer, les frais afférents à ces déplacements sont à la charge du demandeur.

@@ -2,44 +2,46 @@
 
 La commission centrale de sécurité comprend :
 
-I. - Des membres de droit, à savoir :
+I. - Des membres de droit :
 
-a) Le directeur des ports et de la navigation maritimes, ou son délégué, président ;
+a) Le directeur des affaires maritimes ou son représentant, président ;
 
-b) Le chef du bureau de la réglementation de la sécurité des navires ou son représentant ;
+b) Le chef du bureau de la réglementation et du contrôle de la sécurité des navires ou son représentant ;
 
-c) Le chef du bureau de contrôle des navires ou son représentant ;
+c) Le rapporteur du bureau de la réglementation et du contrôle de la sécurité des navires ayant instruit le dossier examiné, ou son suppléant.
 
-d) L'inspecteur de la sécurité des navires et de la prévention des risques proffessionnels maritimes ou de l'ingénieur ayant instruit le dossier examiné.
+II. - Des membres nommés :
 
-II. - Des membres nommés, à savoir :
+a) Un représentant du ministre chargé du transport des marchandises dangereuses ;
 
-a) Un représentant du ministère de la défense sur proposition du ministre de la défense ;
+b) Un représentant du ministre de la défense ;
 
-b) Deux représentants du comité central des armateurs de France ;
+c) Deux représentants d'organisations représentatives d'armateurs au commerce ;
 
-c) Un représentant de l'union des armateurs à la pêche de France ;
+d) Deux représentants d'organisations représentatives d'armateurs à la pêche ;
 
-d) Un représentant du comité central des assureurs maritimes ;
+e) Un représentant de la Fédération française de sociétés d'assurance ;
 
-e) Deux représentants de la chambre syndicale des constructeurs de navires dont l'un spécialisé en matière de navires de pêche ;
+f) Trois représentants d'organisations représentatives de l'industrie de la construction navale ou de sociétés liées à cette activité, dont l'un spécialisé en matière de navires de pêche ;
 
-f) Un représentant de l'institut de recherche de la construction navale ;
+g) Trois représentants des organisations syndicales des gens de mer les plus représentatives sur le plan national ;
 
-g) Trois représentants des organisations syndicales les plus représentatives sur le plan national du personnel navigant ;
+h) Deux techniciens de deux sociétés de classification habilitées différentes, dont l'une française.
 
-h) Un technicien appartenant à une société française de classification agréée.
+Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
 
-Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.    III. - En outre :
+III. - En outre :
 
-1. Pour les questions d'hygiène et d'habitabilité, le médecin, chef du service de santé des gens de mer, ou son représentant.
+1° Pour les questions d'hygiène et d'habitabilité, de santé, de sécurité au travail ou de conditions de travail ou de vie à bord, le médecin chef du service de santé des gens de mer ou son représentant et le directeur général du travail ou son représentant ;
 
-2. Pour les questions de radio-électricité, un représentant de l'exploitant du réseau de radiocommunications maritime.
+2° Pour les questions de radioélectricité, un représentant de l'Agence nationale des fréquences ;
 
-3. En tant que de besoin, pour les affaires relatives à un domaine particulier, le représentant du ministre chargé de ce domaine ou des personnalités choisies en raison de leur compétence.
+3° En tant que de besoin, pour les affaires relatives à un domaine particulier, le représentant du ministre chargé de ce domaine ou des personnalités choisies en raison de leur compétence ;
 
-4. Pour les questions relatives aux navires sous-marins, un représentant de la commission essais-opérations.
+4° Pour les questions relatives aux navires sous-marins de commerce ou de plaisance, un représentant de la commission essai-opérations des navires sous-marin autre que celui qui a instruit le dossier ;
 
-Le ministre chargé de la marine marchande nomme pour une durée de trois ans les membres de la commission autres que les membres de droit et leur suppléants.
+5° Pour des questions relatives aux navires de plaisance, le chef de la mission de la navigation de plaisance et des loisirs nautiques ou son représentant.
 
-Les représentants des groupements ou organisations intéressés et leurs suppléants sont nommés sur la proposition de ces groupements ou organisations.
+Le ministre chargé de la mer nomme, par arrêté, pour une durée de trois ans les membres de la commission autres que les membres de droit et leurs suppléants.
+
+Les représentants des organisations intéressés et leurs suppléants sont nommés sur la proposition de ces organisations.

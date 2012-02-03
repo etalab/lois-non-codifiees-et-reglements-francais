@@ -1,3 +1,3 @@
-# Chapitre II : Dispositions relatives à l'équipage.
+# Chapitre II : Dispositions relatives aux cargaisons
 
 - [Article 56](article-56.md)

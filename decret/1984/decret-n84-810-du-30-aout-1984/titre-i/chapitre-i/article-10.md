@@ -1,11 +1,9 @@
 # Article 10
 
-Des titres provisoires de sécurité et de prévention de la pollution sont délivrés par le chef du centre de sécurité des navires ou, à défaut, par le consul :
+I. - Des titres provisoires de sécurité et de prévention de la pollution sont délivrés, selon le cas, par le chef du centre de sécurité des navires ou à défaut par l'autorité consulaire, ou par une société de classification habilitée, dans les conditions fixées par arrêté du ministre chargé de la mer :
 
-a) Aux navires construits ou acquis à l'étranger pour leur permettre de rallier un port ou une commission de visite de mise en service pourra être constituée conformément aux dispositions de l'article 26 ;
+a) Aux navires construits ou acquis sur le territoire de la République française ou à l'étranger pour leur permettre de rallier un port où une visite de mise en service pourra être effectuée conformément aux dispositions de l'article 26 ;
 
-b) Aux navires construits en France qui doivent quitter leur lieu de construction ;
+b) Aux navires en essais.
 
-c) Aux navires en essais.
-
-La délivrance du certificat de franc-bord provisoire par une société de classification reconnue peut être autorisée par le chef du centre de sécurité ou, à défaut, par le consul, au vu du rapport présenté par celle-ci.
+II. - Le titre provisoire se rapportant au document de conformité au code ISM est délivré par le ministre chargé de la mer ou par le directeur interrégional de la mer, dans les conditions fixées par arrêté du ministre chargé de la mer et dans le respect des normes minimales définies au titre II.
