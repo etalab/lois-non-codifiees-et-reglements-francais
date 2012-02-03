@@ -917,7 +917,6 @@
 - [Arrêté du 11 février 2011 (BCRE1102727A)](arrete-du-11-fevrier-2011-bcre1102727a)
 - [Arrêté du 11 février 2011 (ETSH1104549A)](arrete-du-11-fevrier-2011-etsh1104549a)
 - [Arrêté du 11 février 2011 (ETSH1106139A)](arrete-du-11-fevrier-2011-etsh1106139a)
-- [Arrêté du 11 février 2011 (INDI1102197A)](arrete-du-11-fevrier-2011-indi1102197a)
 - [Arrêté du 11 février 2011 (JUST1104393A)](arrete-du-11-fevrier-2011-just1104393a)
 - [Arrêté du 11 février 2011 (PRMG1104400A)](arrete-du-11-fevrier-2011-prmg1104400a)
 - [Arrêté du 11 février 2011 (PRMG1104405A)](arrete-du-11-fevrier-2011-prmg1104405a)
