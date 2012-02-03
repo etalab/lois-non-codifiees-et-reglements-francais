@@ -4,6 +4,3 @@
 - [Section 2 : Inspection des navires étrangers au titre du contrôle des navires par l'Etat du port](section-2)
 - [Section 3 : Mesures d'immobilisation et refus d'accès au port](section-3)
 - [Section 4 : Dispositions de procédure](section-4)
-- [Article 40](article-40.md)
-- [Article 40-1](article-40-1.md)
-- [Article 41](article-41.md)
