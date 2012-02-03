@@ -22,7 +22,7 @@
 
 11. Le commandant de la gendarmerie des transports aériens pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
 
-12. Le commandant du groupement central des formations aériennes de la gendarmerie pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
+12. Le commandant des forces aériennes de la gendarmerie nationale pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au  II de l'article 26 du code des marchés publics.
 
 13. Le commandant du centre technique de la gendarmerie nationale pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics.
 
