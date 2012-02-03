@@ -2,11 +2,7 @@
 
 I. ― Le propriétaire, les dirigeants, les mandataires sociaux et le personnel d'un opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 ne peuvent engager, à titre personnel, directement ou par personne interposée, des mises sur des jeux ou des paris proposés par cet opérateur.
 
-Les fédérations délégataires doivent intégrer au sein du code de leur discipline des dispositions ayant pour objet d'empêcher les acteurs de la compétition sportive d'engager, directement ou par personne interposée, des mises sur des paris reposant sur cette compétition et de communiquer à des tiers des informations privilégiées, obtenues à l'occasion de leur profession ou de leurs fonctions, et qui sont inconnues du public.
-
 Les sociétés mères de courses de chevaux, définies à l'article 2 de la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux, doivent intégrer au sein du code des courses de leur spécialité des dispositions ayant pour objet d'empêcher les jockeys et les entraîneurs participant à une épreuve hippique d'engager, directement ou par personne interposée, des mises sur des paris reposant sur cette épreuve et de communiquer à des tiers des informations privilégiées, obtenues à l'occasion de leur profession ou de leurs fonctions, et qui sont inconnues du public.
-
-Les organisateurs privés tels que définis à l'article L. 331-5 du code du sport édictent les obligations et les interdictions relatives aux paris sportifs qui sont imposées aux sportifs ou équipes qui participent à leurs manifestations sportives. Ils sont chargés de veiller à l'application et au respect desdites obligations et interdictions.
 
 II. ― L'opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 transmet à l'Autorité de régulation des jeux en ligne les contrats de partenariat conclus avec des personnes physiques ou morales organisant des courses hippiques, compétitions ou manifestations sportives ou y prenant part dès le moment où il propose des jeux ou paris sur lesdites courses hippiques, compétitions ou manifestations sportives.
 
