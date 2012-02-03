@@ -35,3 +35,5 @@
 - [Décret n°2012-154 du 30 janvier 2012 (IOCE1134911D)](decret-n2012-154-du-30-janvier-2012-ioce1134911d)
 - [Décret n°2012-155 du 30 janvier 2012 (AGRT1134290D)](decret-n2012-155-du-30-janvier-2012-agrt1134290d)
 - [Décret n°2012-156 du 30 janvier 2012 (ESRH1113164D)](decret-n2012-156-du-30-janvier-2012-esrh1113164d)
+- [Décret n°2012-161 du 30 janvier 2012 (TRAT1120079D)](decret-n2012-161-du-30-janvier-2012-trat1120079d)
+- [Décret n°2012-160 du 31 janvier 2012 (SPOF1124339D)](decret-n2012-160-du-31-janvier-2012-spof1124339d)

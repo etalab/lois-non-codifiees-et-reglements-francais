@@ -1,0 +1,5 @@
+# Article 8
+
+Dans les cinq ans suivant la date de publication du présent arrêté, le titulaire du brevet d'Etat d'éducateur sportif du premier degré option « escalade » ou du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme ou du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme justifiant d'une expérience de trois cents heures d'encadrement sportif en escalade et de cent cinquante heures d'actions de formation en escalade au cours des trois dernières années obtient sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « escalade en milieux naturels ».
+
+Ces expériences sont attestées par le directeur technique national de la montagne et de l'escalade, le directeur technique de la Fédération française des clubs alpins et de montagne, le président du syndicat national des professionnels de l'escalade et du canyon ou le président du Syndicat national des guides de montagne.
