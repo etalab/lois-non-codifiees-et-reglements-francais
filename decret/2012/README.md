@@ -1,5 +1,6 @@
 # 2012
 
+- [Décret n°2012-166 du 2 février 2012 (TRAT1120026D)](decret-n2012-166-du-2-fevrier-2012-trat1120026d)
 - [Décret n°2011-629 du 3 juin 2011 (ETSP1013927D)](decret-n2011-629-du-3-juin-2011-etsp1013927d)
 - [Décret n°2012-16 du 5 janvier 2012 (MEND1122533D)](decret-n2012-16-du-5-janvier-2012-mend1122533d)
 - [Décret n°97-109 du 6 février 1997 (JUSC9620898D)](decret-n97-109-du-6-fevrier-1997-jusc9620898d)
@@ -37,3 +38,5 @@
 - [Décret n°2012-156 du 30 janvier 2012 (ESRH1113164D)](decret-n2012-156-du-30-janvier-2012-esrh1113164d)
 - [Décret n°2012-161 du 30 janvier 2012 (TRAT1120079D)](decret-n2012-161-du-30-janvier-2012-trat1120079d)
 - [Décret n°2012-160 du 31 janvier 2012 (SPOF1124339D)](decret-n2012-160-du-31-janvier-2012-spof1124339d)
+- [Décret n°2012-162 du 1er février 2012 (DEFH1133762D)](decret-n2012-162-du-1er-fevrier-2012-defh1133762d)
+- [Décret n°2012-163 du 1er février 2012 (IOCS1119467D)](decret-n2012-163-du-1er-fevrier-2012-iocs1119467d)
