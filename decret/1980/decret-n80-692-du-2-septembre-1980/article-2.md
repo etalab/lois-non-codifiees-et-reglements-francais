@@ -1,6 +1,6 @@
 # Article 2
 
-Est classé sur sa demande dans le personnel sous-marinier le militaire réunissant les conditions suivantes :
+Peut être classé dans le personnel sous-marinier le militaire réunissant les conditions suivantes :
 
 Etre physiquement et psychologiquement apte à la navigation sous-marine ;
 
