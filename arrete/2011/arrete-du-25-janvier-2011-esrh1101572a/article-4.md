@@ -1,3 +1,0 @@
-# Article 4
-
-Le dossier de candidature doit être adressé en envoi recommandé simple (sans avis de réception) au plus tard le 6 mai 2011 à minuit (le cachet apposé par les services postaux faisant foi), à un rectorat d'académie choisi par le candidat.
