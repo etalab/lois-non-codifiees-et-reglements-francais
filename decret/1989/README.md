@@ -139,7 +139,6 @@
 - [Décret n°89-497 du 12 juillet 1989 (MENF8901252D)](decret-n89-497-du-12-juillet-1989-menf8901252d)
 - [Décret n°89-647 du 12 septembre 1989 (PRMZ8905084D)](decret-n89-647-du-12-septembre-1989-prmz8905084d)
 - [Décret n°89-738 du 12 octobre 1989 (PTTT8900716D)](decret-n89-738-du-12-octobre-1989-pttt8900716d)
-- [Décret n°89-739 du 12 octobre 1989 (SPSM8901335D)](decret-n89-739-du-12-octobre-1989-spsm8901335d)
 - [Décret n°89-740 du 12 octobre 1989 (SPSG8901727D)](decret-n89-740-du-12-octobre-1989-spsg8901727d)
 - [Décret n°89-887 du 12 décembre 1989 (MAEJ8930108D)](decret-n89-887-du-12-decembre-1989-maej8930108d)
 - [Décret n°89-895 du 12 décembre 1989 (MAEJ8930105D)](decret-n89-895-du-12-decembre-1989-maej8930105d)
