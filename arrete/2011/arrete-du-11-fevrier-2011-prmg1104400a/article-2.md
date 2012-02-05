@@ -6,11 +6,11 @@ La direction des services administratifs et financiers du Premier ministre compr
 
 2. La sous-direction de la programmation et des affaires financières ;
 
-3. La division du patrimoine et de la logistique ;
+3. La sous-direction du pilotage des services déconcentrés ;
 
-4. La division des systèmes d'information ;
+4. La division du patrimoine et de la logistique ;
 
-5. La mission de gestion des emplois déconcentrés de l'Etat ;
+5. La division des systèmes d'information ;
 
 6. Le bureau des affaires générales ;
 

@@ -1,5 +1,9 @@
 # Article 1
 
-La chasse de la barge à queue noire, du courlis cendré et de l'eider à duvet est suspendue sur l'ensemble du territoire métropolitain pour une durée de cinq ans.
+Jusqu'au 30 juillet 2013 :
 
-Pendant cette période, pour ces trois espèces, les dates définies dans l'arrêté du 24 mars 2006 relatif à l'ouverture de la chasse aux oiseaux de passage et au gibier d'eau et dans l'arrêté du 17 janvier 2005 relatif aux dates de fermeture de la chasse aux oiseaux de passage et au gibier d'eau ne sont pas applicables.
+-la chasse de la barge à queue noire est suspendue sur l'ensemble du territoire métropolitain ;
+
+-la chasse du courlis cendré est suspendue sur l'ensemble du territoire métropolitain, excepté sur le domaine public maritime, où il peut être chassé jusqu'au 10 février.
+
+Jusqu'à cette date, sur les territoires où la chasse est suspendue, les dates définies dans l'arrêté du 24 mars 2006 relatif à l'ouverture de la chasse aux oiseaux de passage et au gibier d'eau et dans l'arrêté du 19 janvier 2009 relatif aux dates de fermeture de la chasse des oiseaux de passage et au gibier d'eau ne sont pas applicables.
