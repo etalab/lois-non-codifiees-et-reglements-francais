@@ -2,6 +2,8 @@
 
 En application du dernier alinéa de l'article 25 du décret du 26 décembre 2007 susvisé, l'échelon fonctionnel de la hors-classe est accessible aux directeurs des établissements suivants :
 
+Centre hospitalier intercommunal Ain-Val-de-Saône (fusion à compter du 1er janvier 2012), à Thoissey (Ain) ;
+
 Centre hospitalier, à Guise (Aisne) ;
 
 Centre hospitalier, à La Fère (Aisne) ;
@@ -11,6 +13,8 @@ Institut médico-éducatif spécialisé, à Proisy (Aisne) ;
 EPARS, à Liesse (Aisne) ;
 
 Centre de rééducation-réadaptation fonctionnelle, à Saint-Gobain (Aisne) ;
+
+Groupe établissements publics handicaps éducation soin emploi (fusion à compter du 1er janvier 2012), à Liesse (Aisne) ;
 
 Hôpital local Cœur du Bourbonnais, à Tronget (Allier) ;
 
@@ -148,6 +152,8 @@ Hôpital local intercommunal, à Chemillé (Maine-et-Loire) ;
 
 Hôpital intercommunal, à Baugeois-Vallée (Maine-et-Loire) ;
 
+Etablissement de travail protégé, à Saint-James (Manche) ;
+
 Centre hospitalier, à Sainte-Ménehould-Vienne (Marne) ;
 
 Hôpital local, à Ernée-et-Montenay (Mayenne) ;
@@ -278,7 +284,7 @@ Centre hospitalier, à Déville-lès-Rouen (Seine-Maritime) ;
 
 Centre hospitalier du Bois Petit, à Sotteville-lès-Rouen (Seine-Maritime) ;
 
-Institut départemental de l'enfance, de la famille et du handicap pour l'insertion (IDEFHI), à Canteleu (Seine-Maritime).
+Institut départemental de l'enfance, de la famille et du handicap pour l'insertion, à Canteleu (Seine-Maritime) ;
 
 Hôpital local intercommunal, à Jouarre-la-Ferté (Seine-et-Marne) ;
 

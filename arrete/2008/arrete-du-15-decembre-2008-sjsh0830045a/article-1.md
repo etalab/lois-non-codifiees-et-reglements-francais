@@ -20,8 +20,6 @@ Maison de retraite, à Buironfosse (Aisne) ;
 
 Maison de retraite, à Charly-sur-Marne (Aisne) ;
 
-Maison de retraite, à Chevresis-Monceau (Aisne) ;
-
 Maison de retraite, à Crépy-en-Laonnois (Aisne) ;
 
 Maison de retraite, à Etreillers (Aisne) ;
@@ -43,8 +41,6 @@ Maison de retraite, à Echassières (Allier) ;
 Maison de retraite, à Puimoisson (Alpes-de-Haute-Provence) ;
 
 Maison de retraite, à Thoard (Alpes-de-Haute-Provence) ;
-
-Maison de retraite, à Savines-le-Lac (Hautes-Alpes) ;
 
 Maison de retraite, à La Brigue (Alpes-Maritimes) ;
 
@@ -160,13 +156,7 @@ Maison de retraite, à Beynat (Corrèze) ;
 
 Institut médico-pédagogique Les Tilleuls, à Santa-Maria-di-Lota (Corse) ;
 
-Etablissement d'hébergement pour personnes âgées, à Longvic (Côte-d'Or) ;
-
 Maison de retraite, à Labergement-lès-Seurre (Côte-d'Or) ;
-
-Maison de retraite, à Laignes (Côte-d'Or) ;
-
-Maison de retraite, à Moutiers-Saint-Jean (Côte-d'Or) ;
 
 Maison de retraite, à Bligny-sur-Ouche (Côte-d'Or) ;
 
@@ -199,10 +189,6 @@ Maison de retraite, à Beuzeville (Eure) ;
 Etablissement d'hébergement pour personnes âgées, à Ecouis (Eure) ;
 
 MAPAD résidence Les Jardins, à Lyons-la-Forêt (Eure) ;
-
-Etablissement d'hébergement pour personnes âgées, à Cloyes-sur-le-Loir (Eure-et-Loir) ;
-
-Maison de retraite, à La Ferté-Villeneuil (Eure-et-Loir) ;
 
 Maison de retraite, à Pontgouin (Eure-et-Loir) ;
 
@@ -306,11 +292,7 @@ Etablissement d'hébergement pour personnes âgées, à Saint-Amand-Longpré (Lo
 
 Maison de retraite, à Contres (Loir-et-Cher) ;
 
-Maison de retraite, à La Ville-aux-Clercs (Loir-et-Cher) ;
-
 Maison de retraite, à Ouzouer-le-Marche (Loir-et-Cher) ;
-
-Maison de retraite, à Châtres-sur-Cher (Loir-et-Cher) ;
 
 Maison de retraite, à Champdieu (Loire) ;
 
@@ -434,8 +416,6 @@ Maison de retraite, à Bécon-les-Granits (Maine-et-Loire) ;
 
 Maison de retraite, à Champtocé-sur-Loire (Maine-et-Loire) ;
 
-Etablissement d'hébergement pour personnes âgées, à Drain (Maine-et-Loire) ;
-
 Etablissement d'hébergement pour personnes âgées, à Durtal (Maine-et-Loire) ;
 
 Etablissement d'hébergement pour personnes âgées, à Ecouflant (Maine-et-Loire) ;
@@ -445,8 +425,6 @@ Etablissement d'hébergement pour personnes âgées, à Feneu (Maine-et-Loire) ;
 Etablissement d'hébergement pour personnes âgées, à Jallais (Maine-et-Loire) ;
 
 Etablissement d'hébergement pour personnes âgées, au Lion-d'Angers (Maine-et-Loire) ;
-
-Maison de retraite, à Lire (Maine-et-Loire) ;
 
 Maison de retraite, à Marans (Maine-et-Loire) ;
 
@@ -666,13 +644,9 @@ Etablissement d'hébergement pour personnes âgées, à Ardes-sur-Couze (Puy-de-
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Germain-Lembron (Puy-de-Dôme) ;
 
-Etablissement d'hébergement pour personnes âgées, à Saint-Germain-L'Herm (Puy-de-Dôme) ;
-
 Etablissement d'hébergement pour personnes âgées, à Sauxillanges (Puy-de-Dôme) ;
 
 Maison de retraite, à Tauves (Puy-de-Dôme) ;
-
-Etablissement d'hébergement pour personnes âgées, à Vic-le-Comte (Puy-de-Dôme) ;
 
 Etablissement d'hébergement pour personnes âgées, à Viverols (Puy-de-Dôme) ;
 
@@ -792,8 +766,6 @@ Etablissement d'hébergement pour personnes âgées, à Vibraye (Sarthe) ;
 
 Etablissement d'hébergement pour personnes âgées, à Sainte-Jamme-sur-Sarthe (Sarthe) ;
 
-Etablissement d'hébergement pour personnes âgées, à Aiguebelle (Savoie) ;
-
 Maison de retraite, à Beaufort-sur-Doron (Savoie) ;
 
 Maison de retraite, à Flumet (Savoie) ;
@@ -846,8 +818,6 @@ Maison de retraite, à Montivilliers (Seine-Maritime) ;
 
 Etablissement d'hébergement pour personnes âgées, à Montville (Seine-Maritime) ;
 
-Etablissement d'hébergement pour personnes âgées, à Notre-Dame-de-Bondeville (Seine-Maritime) ;
-
 Foyer d'accueil de l'enfance, à Elbeuf (Seine-Maritime) ;
 
 Foyer d'hébergement, à Maromme (Seine-Maritime) ;
@@ -893,10 +863,6 @@ Maison de retraite, à Warloy-Baillon (Somme) ;
 Etablissement d'hébergement pour personnes âgées, à Epehy (Somme) ;
 
 Etablissement d'hébergement pour personnes âgées, à Domart-en-Ponthieu (Somme) ;
-
-Etablissement d'hébergement pour personnes âgées, à Villers-Bretonneux (Somme) ;
-
-Etablissement d'hébergement pour personnes âgées, à Longueau (Somme) ;
 
 Etablissement d'hébergement pour personnes âgées, à Laguépie (Tarn-et-Garonne) ;
 
@@ -1034,8 +1000,6 @@ Maison de retraite, à Saint-Fargeau (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Julien-du-Sault (Yonne) ;
 
-Etablissement d'hébergement pour personnes âgées, à Toucy (Yonne) ;
-
 Etablissement d'hébergement pour personnes âgées, à Vermenton (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Charny (Yonne) ;
@@ -1051,5 +1015,3 @@ Maison de retraite, au Robert (Martinique) ;
 Maison de retraite, aux Anses-d'Arlet (Martinique) ;
 
 Etablissement d'hébergement pour personnes âgées, au Prêcheur (Martinique) ;
-
-Institut médico-éducatif Léopold Heder, à Cayenne (Guyane).
