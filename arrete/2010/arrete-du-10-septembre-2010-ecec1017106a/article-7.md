@@ -1,3 +1,3 @@
 # Article 7
 
-Jusqu'au 31 décembre 2011 au plus tard, les dispositions du présent arrêté ne s'appliquent pas aux véhicules qui continuent d'être dotés des équipements spéciaux mentionnés à l'article 8 du décret du 28 août 2009 susvisé.
+Le présent arrêté est applicable à tout véhicule nouvellement affecté à l'activité de taxi à compter du 1er janvier 2012. Il est également applicable aux véhicules affectés à l'activité de taxi à une date antérieure au 1er janvier 2012 et qui sont dotés d'une imprimante permettant l'édition automatisée d'une note.
