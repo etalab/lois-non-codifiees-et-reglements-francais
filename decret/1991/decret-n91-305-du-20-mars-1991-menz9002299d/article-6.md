@@ -1,3 +1,0 @@
-# Article 6
-
-Pour le choix des postes, les internes recrutés au titre du présent décret sont interclassés avec les internes issus des concours organisés en application de l'article 59 de la loi du 12 novembre 1968 susvisée, suivant des modalités fixées par arrêté du ministre chargé des universités et du ministre chargé de la santé. Ils choisissent alors à leur rang, suivant les modalités fixées aux articles 16, 17 et 19 du décret du 19 octobre 1988 susvisé, sauf en ce qui concerne les dispositions applicables à l'année-recherche, et sans que le poste choisi soit retiré du choix ouvert aux internes classés ensuite. Il ne peut cependant pas y avoir plus d'un interne nommé en application des dispositions du présent décret dans le même service.
