@@ -4,4 +4,3 @@
 - [TITRE II : Formation en matière d'hygiène et de sécurité.](titre-ii)
 - [TITRE III : Médecine professionnelle et préventive.](titre-iii)
 - [TITRE IV : Organismes compétents en matière d'hygiène et de sécurité](titre-iv)
-- [Article 47](article-47.md)
