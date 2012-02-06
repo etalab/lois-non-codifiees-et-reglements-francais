@@ -1,13 +1,19 @@
 # Article 4-1
 
-La mission de l'agent désigné en application de l'article 108-3 de la loi du 26 janvier 1984 susvisée est d'assister et de conseiller l'autorité territoriale auprès de laquelle il est placé dans la mise en oeuvre des règles de sécurité et d'hygiène au travail visant à :
+I. - La mission des agents mentionnés à l'article 4 est d'assister et de conseiller l'autorité territoriale auprès de laquelle ils sont placés, dans la démarche d'évaluation des risques et dans la mise en place d'une politique de prévention des risques ainsi que dans la mise en œuvre des règles de sécurité et d'hygiène au travail visant à :
 
--prévenir les dangers susceptibles de compromettre la sécurité ou la santé des agents ;
+1° Prévenir les dangers susceptibles de compromettre la sécurité ou la santé des agents ;
 
--améliorer l'organisation et l'environnement du travail en adaptant les conditions de travail ;
+2° Améliorer les méthodes et le milieu du travail en adaptant les conditions de travail en fonction de l'aptitude physique des agents ;
 
--faire progresser la connaissance des problèmes de sécurité et des techniques propres à les résoudre ;
+3° Faire progresser la connaissance des problèmes de sécurité et des techniques propres à les résoudre ;
 
--veiller à l'observation des prescriptions législatives et réglementaires prises en ces matières ainsi qu'à la bonne tenue des registres de sécurité dans tous les services.
+4° Veiller à l'observation des prescriptions législatives et réglementaires prises en ces matières et à la bonne tenue du registre de santé et de sécurité au travail dans tous les services.
 
-Cet agent est associé aux travaux du comité mentionné à l'article 39. Il assiste de plein droit aux réunions de ce comité lorsque la situation de la collectivité auprès de laquelle il est placé est évoquée.
+II. - Au titre de cette mission, les agents mentionnés à l'article 4 :
+
+1° Proposent des mesures pratiques propres à améliorer la prévention des risques ;
+
+2° Participent, en collaboration avec les autres acteurs, à la sensibilisation, l'information et la formation des personnels.
+
+III. - Le conseiller de prévention ou, à défaut, l'un des assistants de prévention est associé aux travaux du comité mentionné à l'article 37. Il assiste de plein droit, avec voix consultative, aux réunions de ce comité, lorsque la situation de la collectivité auprès de laquelle il est placé est évoquée.

@@ -1,0 +1,5 @@
+# Article 26-1
+
+Un dossier médical en santé au travail est constitué par le médecin de prévention dans les conditions prévues à l'article L. 4624-2 du code du travail. Lors du premier examen médical, le médecin de prévention retrace dans le respect des dispositions prévues aux articles L. 1110-4 et L. 1111-7 du code de la santé publique les informations relatives à l'état de santé de l'agent ainsi que les avis des différentes instances médicales formulés en application de l'article 81 de la loi du 26 janvier 1984 susvisée et de l'article 3 de la loi n° 2000-628 du 7 juillet 2000 relative à la prolongation du mandat et à la date de renouvellement des conseils d'administration des services d'incendie et de secours ainsi qu'au reclassement et à la cessation anticipée d'activité des sapeurs-pompiers professionnels.
+
+Le modèle du dossier médical, la durée et les conditions de sa conservation sont fixés par l'arrêté mentionné à l'article 28-2 du décret n° 82-453 du 28 mai 1982 relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique.
