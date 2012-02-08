@@ -15,7 +15,7 @@ LISTE II
 <p align="center">NON DIVISÉS<br/>en prises<br/>Concentration<br/>maximale %<br/>(en poids)</p>
 </td>
 <td width="134">
-<p align="center">DIVISÉS<br/>en prises<br/>Doses limites<br/>par unité de prise<br/>(en grammes)</p>
+<p align="center">DIVISÉS<br/>en prises<br/>Dose limite<br/>par unité de prise<br/>(en grammes)</p>
 </td>
 <td width="118">
 <p align="center">QUANTITÉ<br/>maximale<br/>de substance<br/>remise au public<br/>(en grammes)</p>
@@ -4054,13 +4054,13 @@ LISTE II
 <p>Application locale</p>
 </td>
 <td valign="top" width="117">
-<p align="center">2</p>
+<p align="center">5</p>
 </td>
 <td valign="top" width="134">
 <br/>
 </td>
 <td valign="top" width="118">
-<p align="center">3,6</p>
+<p align="center">9</p>
 </td>
 </tr>
 <tr>
