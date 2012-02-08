@@ -817,7 +817,6 @@
 - [Arrêté du 11 décembre 2008 (DEFH0831145A)](arrete-du-11-decembre-2008-defh0831145a)
 - [Arrêté du 11 décembre 2008 (DEVA0829021A)](arrete-du-11-decembre-2008-deva0829021a)
 - [Arrêté du 11 décembre 2008 (DEVA0829023A)](arrete-du-11-decembre-2008-deva0829023a)
-- [Arrêté du 11 décembre 2008 (JUSF0821736A)](arrete-du-11-decembre-2008-jusf0821736a)
 - [Arrêté du 11 décembre 2009 (BCFR0928606A)](arrete-du-11-decembre-2009-bcfr0928606a)
 - [Arrêté du 11 décembre 2009 (ECET0929194A)](arrete-du-11-decembre-2009-ecet0929194a)
 - [Arrêté du 11 décembre 2009 (ESRA0928970A)](arrete-du-11-decembre-2009-esra0928970a)
