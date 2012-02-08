@@ -1,36 +1,32 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel d'agent(e) de montage et de câblage en électronique.
+Titre professionnel : agent (e) de montage et de câblage en électronique.
 
 Niveau : V.
 
-Code NSF : 255 s.
+Code NSF : 255 s-Electricité, électronique.
 
 Résumé du référentiel d'emploi
 
-Le métier d'agent de montage et de câblage en électronique se situe dans la filière de la construction électronique professionnelle.
+L'agent (e) de montage et de câblage en électronique réalise manuellement ou à la machine le montage et l'interconnexion des composants électroniques sur tout type de supports (circuit imprimé, châssis intermédiaires...) entrant dans un ensemble plus important. Ses réalisations sont principalement construites à l'unité ou en petite série et sont destinées à des matériels industriels (aéronautiques, médicaux, télécommunications, automobiles...). Il peut aussi approvisionner, surveiller, régler, autocontrôler les postes ou machines de fabrication électronique et effectuer des réparations de cartes électroniques (remplacement de composants...).
 
-L'agent(e) de montage et de câblage en électronique réalise le montage et l'interconnexion des composants électroniques sur tout type de supports (circuit imprimé, châssis intermédiaires) entrant dans un ensemble plus important. Ses réalisations sont destinées à des matériels industriels, aéronautiques, médicaux, télécommunications, automobiles, etc., construits à l'unité ou en petite série à partir de documents, schémas, plans, listings.
+Cet ouvrier qualifié peut travailler dans l'une ou l'autre des branches de l'industrie électronique : électronique grand public, électronique professionnelle, électronique militaire ou aéronautique.
 
-Il (elle) peut aussi approvisionner, surveiller, régler, autocontrôler les postes ou machines d'une ligne de fabrication électronique de grande série.
+Il peut indifféremment travailler dans une petite ou une grande entreprise. Avec le développement de la sous-traitance, il exerce souvent dans des PME sous-traitantes des grosses entreprises.
 
-Cet(te) ouvrier(ère) qualifié(e) peut travailler dans l'une ou l'autre des branches de l'industrie électronique : électronique grand public, électronique professionnelle, électronique militaire.
+Il travaille principalement en station assise dans des ateliers de fabrication (parfois posté). La miniaturisation des composants nécessite l'utilisation de dispositifs de vision grossissant et d'outils de manipulation et de production adaptés.
 
-Il (elle) peut indifféremment travailler dans une petite ou une grande entreprise. Avec le développement de la sous-traitance, il (elle) exerce souvent dans des PME sous-traitantes des grosses entreprises. Il (elle) travaillera principalement en station assise dans des ateliers de fabrication. La station debout peut être requise pour monter ou câbler de gros équipements.
+L'agent (e) de montage et de câblage en électronique est responsable de son travail, du bon montage des composants, de l'interconnexion des ensembles et sous-ensembles. La réalisation se fait en autocontrôle en suivant une procédure définie dans un cahier des charges. Le travail est exécuté à partir des documents de fabrication comportant les plans de montage, les schémas, les listings de raccordement, les données de réglages machines et les spécifications. Ces documents sont sous forme papier ou de fichiers informatisés. L'opérateur s'inscrit dans la démarche qualité et environnementale définie par l'entreprise.
 
-L'agent(e) de montage et de câblage en électronique est responsable de son travail, du bon montage des composants, de l'interconnexion des ensembles et sous-ensembles. La réalisation peut se faire en autocontrôle, suivant une procédure définie dans un cahier des charges. Le travail est exécuté à partir des documents de fabrication comportant les plans de montage, les schémas, les listings de raccordement, les données de réglage et les spécifications.
+Capacités attestées et descriptif des composantes de la certification
 
-Capacités attestées et descriptif des composants de la certification
+1. Equiper et réparer des cartes électroniques
 
-1. Equiper des cartes électroniques imprimées
-
-Affecter les composants électroniques à un ordre de fabrication.
-
-Préparer les composants électroniques et les supports en vue du montage.
+S'approvisionner en composants électroniques et supports, et les préparer en vue du montage.
 
 Monter les composants électroniques et mécaniques sur la carte imprimée.
 
@@ -38,13 +34,13 @@ Braser les composants électroniques sur une carte imprimée.
 
 Contrôler en fonction d'une norme client la conformité d'une carte électronique imprimée.
 
-Retoucher et/ou braser des composants électroniques de reprise.
+Retoucher et/ ou braser des composants électroniques de reprise.
 
-2. Câbler et interconnecter des cartes électroniques, des sous-ensembles et/ou des équipements électroniques
+2. Câbler et interconnecter des cartes électroniques, des sous-ensembles et/ ou des équipements électroniques
 
-Préparer les fils et câbles en vue de réaliser des interconnexions d'ensembles et/ou de sous-ensembles électroniques.
+Préparer les fils et câbles en vue de réaliser des interconnexions d'ensembles et/ ou de sous-ensembles électroniques.
 
-Réaliser le cheminement de fils et câbles sous formes de torons.
+Réaliser le cheminement de fils et câbles sous forme de torons.
 
 Raccorder les connecteurs et les composants de câblage d'ensembles électroniques.
 
@@ -52,39 +48,29 @@ Réaliser l'intégration des sous-ensembles dans des équipements électroniques
 
 Contrôler en fonction d'une norme client la conformité d'un câblage.
 
-3. Contrôler la conformité et la qualité de cartes électroniques, de sous-ensembles et/ou d'ensembles électroniques
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Contrôler en fonction d'une norme client la conformité d'un produit (cartes, câblage, assemblage...).
+Les différents secteurs d'activités concernés sont principalement :
 
-Régler et tester fonctionnellement avec des procédures simples un sous-ensemble et/ou un ensemble électronique.
+-électronique professionnelle (industrie, médical, télécommunications, automobile...) ;
 
-Certificat complémentaire de spécialisation (CCS)
+-électronique militaire, aéronautique ;
 
-Câbler et interconnecter des ensembles et/ou sous-ensembles électroniques à destination des industries aéronautiques ou militaire
+-électronique grand public.
 
-Réaliser un toron de type aéronautique/militaire.
+Les types d'emplois accessibles sont les suivants :
 
-Réaliser l'intégration et les interconnexions d'un ensemble et/ou sous-ensemble électronique de type aéronautique/militaire.
+-agent de fabrication en électronique ;
 
-Préparer les fils et câbles en vue de réaliser des interconnexions d'ensembles et/ou de sous-ensembles électroniques.
+-réparateur de cartes électroniques ;
 
-Réaliser le cheminement de fils et câbles sous forme de torons.
+-monteur-câbleur en électronique ;
 
-Raccorder les connecteurs et les composants de câblage d'ensembles électroniques.
+-opérateur en fabrication électronique.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Code ROME :
 
-Entreprises de construction électronique grand public ou professionnelle à destination de l'industrie, de l'aéronautique ou d'applications militaires ou médicales.
-
-Codes ROME :
-
-44211 - Opérateur/opératrice sur machines automatiques en production électrique et électronique.
-
-44213 - Interconnecteur/interconnectrice en électronique.
-
-44221 - Contrôleur/contrôleuse en électricité et électronique.
-
-44212 - Interconnecteur/interconnectrice en matériel électrique et électromécanique.
+H2605-Montage et câblage électronique.
 
 Réglementation de l'activité :
 

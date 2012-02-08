@@ -56,13 +56,11 @@ Monter des articles de maroquinerie par piquage des sous-ensembles.
 
 Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Entreprises de fabrication d'articles de maroquinerie piqués machine.
+Entreprises de fabrication d'articles de maroquinerie et de sellerie piqués machine.
 
-Codes ROME :
+Code ROME :
 
-46116-Apprêteur des industries des matériaux souples ;
-
-46124-Opérateur (trice) d'assemblage-montage des industries des cuirs et peaux et matériaux associés.
+H2401-Assemblage-montage d'articles en cuirs, peaux.
 
 Réglementation de l'activité :
 
@@ -73,8 +71,6 @@ Autorité responsable de la certification :
 Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
-
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
