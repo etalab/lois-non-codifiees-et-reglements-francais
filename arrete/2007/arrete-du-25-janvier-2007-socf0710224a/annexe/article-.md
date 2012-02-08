@@ -4,111 +4,71 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
 
 AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : responsable de centre de résultat.
+Intitulé : gestionnaire de petite ou moyenne structure (ancien intitulé : responsable de centre de résultat).
 
 Niveau : III.
 
-Code NSF : 310 p.
+Code NSF : 310 p (spécialités plurivalentes des échanges et de la gestion [organisation, gestion]).
 
 Résumé du référentiel d'emploi
 
-Le(la) responsable de centre de résultat prend en charge, sur la base d'une délégation de la direction, un ou plusieurs processus de gestion dans une structure économique de quelques dizaines de personnes et, dans ce cadre, dirige et anime le personnel pour atteindre les objectifs visés.
+Le (la) gestionnaire de petite ou moyenne structure gère une structure économique dans ses fonctions ressources humaines, commerciale, production et financière. Il (elle) organise le fonctionnement de la structure en conformité avec les objectifs à atteindre.
 
-Son territoire traditionnel d'activité, la PME, s'est progressivement étendu aux centres de résultats de réseaux d'entreprises que ce soit à l'interne (agences, centres de résultat) ou à l'externe (franchises), et des perspectives s'ouvrent dans les associations.
+Le (la) gestionnaire de petite ou moyenne structure traduit les orientations qui lui sont données en objectifs opérationnels. Il (elle) mobilise et gère des moyens humains, matériels, financiers et techniques. Il (elle) anime au quotidien une équipe d'une vingtaine de personnes en général. Il (elle) prend en compte les événements, hiérarchise les priorités et gère les aléas. Il (elle) peut réaliser des activités opérationnelles au sein de son unité. Il (elle) peut solliciter la collaboration de professionnels externes de type conseil lorsque les compétences ne sont pas disponibles à l'interne. Il (elle) rend compte du fonctionnement de sa structure.
 
-Le(la) responsable de centre de résultat est à la fois généraliste et opérationnel. Il(elle) s'adapte rapidement aux réalités économiques et s'appuie pour cela sur ses compétences techniques (marketing et action commerciale, ressources humaines, finance, production) ou, lorsque c'est nécessaire, sur des compétences externes.
+Le (la) gestionnaire de petite ou moyenne structure peut aussi être sollicité (e) dans certains profils de postes pour contribuer à l'amélioration de la performance à moyen terme. Il (elle) apporte alors la méthode et les outils qui vont lui permettre de participer à la mise en place d'une démarche stratégique.
 
-Il(elle) appuie l'équipe de direction en structurant les données représentatives de la marche de l'entreprise nécessaires aux prises de décisions (tableaux de bord...), en la conseillant sur les prévisions à court terme grâce à son analyse de l'activité.
+Le (la) gestionnaire de petite ou moyenne structure exerce son activité de façon autonome. Il (elle) agit par délégation et peut représenter la structure lors de négociations. Il (elle) est en relation avec les fournisseurs, les clients et les acteurs de l'environnement externe. Il (elle) exerce une veille permanente et adapte sa gestion aux évolutions constatées ou à venir.
 
-L'activité, exercée dans le cadre d'une délégation au service de la politique de développement de l'entreprise, implique de représenter l'entreprise lors de négociations, d'assurer les relations externes (fournisseurs, clients, environnement économique et médiatique) et internes (personnel des différents services de l'entreprise).
-
-Le(la) responsable de centre de résultat peut être sollicité(e) pour contribuer à l'amélioration de la performance de sa structure à moyen terme et doit apporter la méthode et les outils qui vont permettre de mettre en place une démarche stratégique.
-
-La fonction nécessite une grande disponibilité et des priorités à définir constamment. Les horaires sont irréguliers et les déplacements de durée variable sont fréquents.
-
-L'activité nécessite de gérer son temps entre de multiples réunions internes et externes et la réalisation du travail personnel (rapports, projets...), tout en respectant des délais incompressibles.
-
-La position hiérarchique, le degré d'implication et la polyvalence imposent de se tenir régulièrement informé sur l'environnement économique et de s'adapter aux évolutions.
+L'emploi s'exerce de façon sédentaire en interne, les déplacements à l'extérieur sont limités. Le travail s'effectue en grande partie dans un bureau avec utilisation fréquente d'un micro-ordinateur avec essentiellement des logiciels de bureautique (suite bureautique) et accès internet. Dans le cas de structures appartenant à un groupe, le (la) gestionnaire de petite ou moyenne structure peut utiliser des logiciels plus spécifiques.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Gérer les personnes d'une petite unité
+1. Gérer les personnes
 
-Animer une équipe.
+Encadrer et animer une équipe.
 
-Mettre en oeuvre, contrôler et évaluer la politique des ressources humaines.
+Organiser et assurer le fonctionnement d'une unité.
 
-Gérer les ressources humaines de façon prévisionnelle.
+Organiser et assurer la gestion opérationnelle des ressources humaines.
 
-Structurer la communication interne.
+Organiser et assurer la gestion prévisionnelle des ressources humaines.
 
-Gérer les conflits et organiser les relations avec les instances représentatives du personnel.
+2. Gérer les opérations commerciales et de production
 
-Analyser le processus de gestion des personnes.
+Contribuer au marketing et élaborer le plan marketing produit.
 
-2. Gérer les opérations commerciales
+Mettre en œuvre l'action commerciale.
 
-et de production d'une petite unité
-
-Contribuer au plan marketing global et élaborer le plan marketing par produit.
-
-Mettre en oeuvre l'action commerciale.
-
-Organiser et suivre la production en fonction des capacités existantes.
-
-Gérer la logistique.
+Organiser et assurer la gestion de la production.
 
 Gérer la qualité.
 
-Analyser le processus de gestion des opérations de commercialisation et de production.
+3. Gérer les ressources financières
 
-3. Gérer les ressources financières d'une petite unité
-
-Contrôler l'activité comptable.
-
-Savoir lire et exploiter les états financiers.
+Contrôler l'activité et les états comptables.
 
 Déterminer et analyser les coûts de revient.
 
-Gérer la trésorerie.
+Assurer la gestion financière.
 
-Mettre en place les budgets et les tableaux de bord de gestion.
+Unité de spécialisation complémentaire.
 
-Analyser le processus de gestion des ressources financières.
+Contribuer à l'amélioration de la performance d'une unité.
 
-Unité de spécialisation complémentaire
-
-Contribuer à l'amélioration de la performance d'une petite unité.
-
-Développer sa pratique de manager.
-
-Intégrer la démarche stratégique.
-
-Contribuer au pilotage de la performance.
-
-Diagnostiquer, auditer.
-
-Secteur d'activité ou types d'emploi
+Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Cet emploi s'exerce dans tous les secteurs d'activité, soit en PME, soit dans des centres de résultats de réseaux d'entreprises que ce soit à l'interne (unités décentralisées, agences, points de vente, centres de services, centres de résultat) ou à l'externe (franchises) ou dans des associations.
+Tous les secteurs d'activités sont concernés.
 
-Après expérience en entreprise, la création ou reprise d'entreprise en direct ou en franchise est possible.
+Les types d'emploi accessibles sont les suivants : chef d'agence, directeur/ directrice d'unité de services au public, directeur/ directrice adjointe de PME/ PMI, dirigeant/ dirigeante de SCOP, responsable d'agence, responsable de petite ou moyenne entreprise, responsable d'unité de gestion d'organisme social, responsable de site, responsable d'association.
 
-Codes ROME :
+Code ROME :
 
-32113 - Responsable administratif et financier/responsable administrative et financière.
-
-32121 - Cadre de la gestion des ressources humaines.
-
-33113 - Responsable des ventes.
-
-Réglementation de l'activité :
-
-Néant.
+M-1302 Direction de petite ou moyenne entreprise.
 
 Autorité responsable de la certification :
 
@@ -116,6 +76,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 8 février 2012.
