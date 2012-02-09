@@ -1,5 +1,5 @@
 # Article 4
 
-La réalisation des études ou recherches retenues par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, sur proposition du conseil de l'Observatoire est confiée à un comité scientifique. Celui-ci procède au lancement d'appels d'offres auprès des organismes publics ou privés de recherche, des universités et des équipes de chercheurs. Il choisit l'organisme chargé de réaliser ces études et il en assure le suivi.
+Le collège scientifique choisit en son sein un président et se réunit sur  convocation de son président. Il est chargé de faire des propositions au conseil  sur la mise en œuvre et la méthodologie des enquêtes et études programmées par  le conseil. À ce titre, il prépare notamment le lancement des appels d'offres  auprès des organismes publics ou privés de recherche, des universités et des  équipes de recherche. Il propose au conseil l'organisme susceptible de réaliser  ces études et en assure le suivi et l'évaluation.
 
-Il rend compte périodiquement au ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, de l'état d'avancement des études et lui transmet les études réalisées après avoir procédé à leur évaluation.
+Le collège garantit la  qualité scientifique des travaux et études réalisées pour le compte de  l'observatoire.

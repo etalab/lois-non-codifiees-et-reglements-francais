@@ -1,0 +1,3 @@
+# Article 7
+
+Le président du jury transmet cette proposition de liste des candidats qu'il juge aptes à être nommés dans le corps des professeurs des universités au ministre chargé de l'enseignement supérieur. Le ministre arrête la liste des candidats aptes à être nommés en application de l'article 46-1 du décret du 6 juin 1984 susvisé. La liste est publiée sur le site GALAXIE ( https://www.galaxie.enseignementsup-recherche.gouv.fr_/ensup/cnu.html) et au Bulletin officiel du ministère de l'enseignement supérieur et de la recherche. Dès qu'ils ont pris connaissance de l'inscription sur cette liste, les candidats peuvent postuler à l'un des emplois publiés à ce titre sur le site GALAXIE.

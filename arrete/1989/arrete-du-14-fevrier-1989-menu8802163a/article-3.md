@@ -1,17 +1,21 @@
 # Article 3
 
-Le conseil de l'Observatoire de la vie étudiante est présidé par une personnalité qualifiée désignée par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, pour trois ans.
+Le conseil de l'Observatoire de la vie étudiante est présidé par une  personnalité qualifiée désignée par le ministre chargé de l'enseignement  supérieur, pour 3 ans.
 
-Il comprend en outre vingt et un membres :
+Il comprend en outre vingt-cinq membres :
 
-a) Dix représentants des étudiants désignés par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, sur proposition des organisations étudiantes représentées soit au conseil d'administration du Centre national des oeuvres universitaires et scolaires, soit au Conseil national de l'enseignement supérieur et de la recherche ;
+- neuf  personnalités issues de l'enseignement supérieur, désignées par le ministre  chargé de l'enseignement supérieur, qui constituent le collège scientifique de  l'observatoire ;
 
-b) Deux représentants désignés par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, sur proposition des mutuelles étudiantes ;
+- huit représentants des étudiants désignés par le ministre  chargé de l'enseignement supérieur sur proposition des organisations  représentatives telles que définies à l'article L. 811-3 du code de  l'éducation ;
 
-c) Sept personnalités de l'enseignement supérieur choisies par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports ;
+- deux représentants désignés par le ministre chargé de  l'enseignement supérieur, sur proposition des mutuelles étudiantes ;
 
-d) Deux représentants des collectivités locales désignés par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, sur proposition des associations représentatives des élus locaux suivantes : association des maires de France, association permanente des présidents des conseils généraux, association nationale des élus régionaux, association des présidents de région socialistes et progressistes.
+- six  personnalités qualifiées désignées par le ministre chargé de l'enseignement  supérieur dont  deux représentants des collectivités locales.
 
-Le directeur du Centre national des oeuvres universitaires et scolaires et le directeur des enseignements supérieurs assistent en qualité d'observateurs aux réunions du conseil.
+Le directeur  général pour l'enseignement supérieur et l'insertion professionnelle et le  directeur du Centre national des œuvres universitaires et scolaires ou leurs  représentants assistent aux réunions du conseil.
 
-La durée du mandat des membres du conseil de l'Observatoire de la vie étudiante est fixée à trois ans. Le conseil se réunit au moins trois fois par an, sur convocation de son président.
+La durée du mandat des  membres du conseil est fixée à trois ans, renouvelable une fois, à l'exception  des membres du collège scientifique nommés pour une période de six ans, non  renouvelable.
+
+Le conseil de l'observatoire se réunit au moins trois fois par  an, sur convocation de son président.
+
+Il rend compte périodiquement au  ministre chargé de l'enseignement supérieur de l'état d'avancement des études et  lui transmet les études réalisées après avoir procédé à leur évaluation.
