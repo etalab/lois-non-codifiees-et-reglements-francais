@@ -6,6 +6,6 @@ Le comité national des indications géographiques protégées relatives aux vin
 
 2° Trente-trois représentants des professionnels des secteurs de la production, de la transformation ou du négoce des produits concernés ;
 
-3° Cinq représentants de l'administration ;
+3° Six représentants de l'administration ;
 
 4° Sept personnalités qualifiées par leurs activités sur le plan national et sur le plan du commerce d'exportation et de distribution ou par leurs capacités d'expertise et de représentants des consommateurs.
