@@ -5,38 +5,45 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
+<td align="center" rowspan="2">
 <p align="center">SECTION</p>
 </td>
-<td rowspan="2">
-<p align="center">SOUS-SECTION</p>
+<td align="center" rowspan="2">
+<p align="center">
+<br/>SOUS-SECTION</p>
 </td>
-<td rowspan="2">
+<td align="center" rowspan="2">
 <p align="center">TITRE</p>
 </td>
-<td rowspan="2">
+<td align="center" rowspan="2">
 <p align="center">TYPE</p>
 </td>
-<td colspan="2">PREMIER<br/>collège</td>
-<td colspan="2">DEUXIÈME<br/>collège</td>
-</tr>
-<tr>
-<td>
-<p align="center">Elus</p>
+<td align="center" colspan="2">
+<p align="center">PREMIER<br/>collège</p>
 </td>
-<td>
-<p align="center">Nommés</p>
-</td>
-<td>
-<p align="center">Elus</p>
-</td>
-<td>
-<p align="center">Nommés</p>
+<td align="center" colspan="2">
+<p align="center">
+<br/> DEUXIÈME<br/>collège</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 42</p>
+<p align="center">Elus </p>
+</td>
+<td>
+<p align="center">Nommés </p>
+</td>
+<td>
+<p align="center">Elus </p>
+</td>
+<td>
+<p align="center">Nommés </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">42 <br/>
+</p>
 </td>
 <td/>
 <td>
@@ -51,10 +58,10 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </tr>
 <tr>
 <td/>
-<td>01</td>
-<td>Anatomie</td>
+<td>01 </td>
+<td>Anatomie </td>
 <td>
-<p align="center">Mixte</p>
+<p align="center">Mixte </p>
 </td>
 <td>
 <p align="center">4</p>
@@ -135,7 +142,9 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>Biophysique et médecine nucléaire <br/>
 </td>
 <td align="center">
-<br/>Biologique <br/>
+<p align="center">
+<br/>Mixte <br/>
+</p>
 </td>
 <td align="center">
 <br/>6 <br/>

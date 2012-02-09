@@ -30,4 +30,6 @@ Nutrition ;
 
 Radiologie et imagerie médicale ;
 
-Anatomie et cytologie pathologiques.
+Anatomie et cytologie pathologiques ;
+
+Biophysique et médecine nucléaire.
