@@ -311,7 +311,6 @@
 - [Décret n°2001-874 du 20 septembre 2001 (FPPA0110010D)](decret-n2001-874-du-20-septembre-2001-fppa0110010d)
 - [Décret n°2001-883 du 20 septembre 2001 (JUSD0130104D)](decret-n2001-883-du-20-septembre-2001-jusd0130104d)
 - [Décret n°2002-387 du 20 mars 2002 (JUSE0140086D)](decret-n2002-387-du-20-mars-2002-juse0140086d)
-- [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret n°97-41 du 20 janvier 1997 (JUSB9610414D)](decret-n97-41-du-20-janvier-1997-jusb9610414d)
 - [Décret n°2001-1091 du 21 novembre 2001 (ECOE0100126D)](decret-n2001-1091-du-21-novembre-2001-ecoe0100126d)
 - [Décret n°2001-1102 du 21 novembre 2001 (MENS0102456D)](decret-n2001-1102-du-21-novembre-2001-mens0102456d)
