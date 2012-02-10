@@ -1,0 +1,5 @@
+# Article 2
+
+Pour le transport par route de personnes au moyen de véhicules n'excédant pas neuf places, y compris le conducteur, en application du quatrième alinéa du VII de l'article 7 du décret du 16 août 1985 susvisé, les titulaires du baccalauréat professionnel transport « Exploitation des transports » et du baccalauréat professionnel « Transport » peuvent obtenir l'attestation de capacité professionnelle correspondante, sous réserve de réussir l'examen écrit prévu au deuxième alinéa du VII de l'article 7 du décret du 16 août 1985 susvisé.
+
+Pour le transport léger de marchandises, en application du troisième alinéa du VI de l'article 9 du décret du 30 août 1999 susvisé, les titulaires du baccalauréat professionnel transport « Exploitation des transports » et du baccalauréat professionnel « Transport » peuvent obtenir l'attestation de capacité professionnelle correspondante en étant dispensés du passage de l'examen écrit prévu au deuxième alinéa du VI de l'article 9 du décret du 30 août 1999 susvisé.
