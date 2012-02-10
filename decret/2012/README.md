@@ -22,6 +22,7 @@
 - [Décret n°90-676 du 18 juillet 1990 (MENF9001240D)](decret-n90-676-du-18-juillet-1990-menf9001240d)
 - [Décret n°2005-830 du 19 juillet 2005 (MENF0501230D)](decret-n2005-830-du-19-juillet-2005-menf0501230d)
 - [Décret n°2011-1899 du 19 décembre 2011 (PRMX1125170D)](decret-n2011-1899-du-19-decembre-2011-prmx1125170d)
+- [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret n°2006-1030 du 21 août 2006 (MENF0601865D)](decret-n2006-1030-du-21-aout-2006-menf0601865d)
 - [Décret n°83-1146 du 23 décembre 1983](decret-n83-1146-du-23-decembre-1983)
 - [Décret n°2012-96 du 26 janvier 2012 (ESRH1113222D)](decret-n2012-96-du-26-janvier-2012-esrh1113222d)
