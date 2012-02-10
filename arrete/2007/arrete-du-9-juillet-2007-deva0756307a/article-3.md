@@ -73,3 +73,7 @@ Lille-Djerba (Tunisie) ;
 Lille-Enfidha (Tunisie).
 
 Nantes-Antalya (Turquie).
+
+Jusqu'au 31 janvier 2017 :
+
+Paris ― Bodrum (Turquie).
