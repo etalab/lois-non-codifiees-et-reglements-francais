@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé à la direction de l'animation de la recherche, des études et des statistiques (DARES) un traitement automatisé d'informations individuelles relatif à l'enquête auprès des structures de l'insertion par l'activité économique et des salariés en parcours d'insertion. Cette enquête fournira des résultats permettant de décrire les modalités de recrutement, d'accueil et d'accompagnement professionnel et social mis en œuvre par les structures de l'insertion par l'activité économique et de mieux connaître les parcours des salariés en insertion et leur ressenti sur le passage par la structure.
