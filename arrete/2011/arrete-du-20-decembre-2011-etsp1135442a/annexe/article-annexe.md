@@ -7,14 +7,18 @@ TERRITOIRES D'APPLICATION
 <table>
 <tbody>
 <tr>
-<th>NUMÉRO<br/>
-</th>
-<th>DÉPARTEMENT<br/>
-</th>
-<th>AGGLOMÉRATION<br/>
-</th>
-<th colspan="4">NOMBRE DE RÉSERVISTES<br/>mobilisés<br/>
-</th>
+<td>
+<p align="center"> NUMÉRO</p>
+</td>
+<td>
+<p align="center"> DÉPARTEMENT</p>
+</td>
+<td>
+<p align="center"> AGGLOMÉRATION</p>
+</td>
+<td colspan="4">
+<p align="center"> NOMBRE DE RÉSERVISTES<br/>mobilisés</p>
+</td>
 </tr>
 <tr>
 <td align="center">75<br/>
@@ -63,8 +67,7 @@ TERRITOIRES D'APPLICATION
 </td>
 <td align="center">Lyon<br/>
 </td>
-<td align="center">0<br/>
-</td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td align="center">13<br/>
