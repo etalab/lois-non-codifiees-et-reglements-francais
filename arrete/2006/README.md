@@ -153,6 +153,7 @@
 - [Arrêté du 15 décembre 2006 (SANG0625049A)](arrete-du-15-decembre-2006-sang0625049a)
 - [Arrêté du 15 février 2006 (INTC0600116A)](arrete-du-15-fevrier-2006-intc0600116a)
 - [Arrêté du 15 septembre 2006 (SOCU0611881A)](arrete-du-15-septembre-2006-socu0611881a)
+- [Arrêté du 15 septembre 2006 (SOCU0611882A)](arrete-du-15-septembre-2006-socu0611882a)
 - [Arrêté du 15 mai 2006 (SOCT0611077A)](arrete-du-15-mai-2006-soct0611077a)
 - [Arrêté du 16 août 2006 (SANP0623370A)](arrete-du-16-aout-2006-sanp0623370a)
 - [Arrêté du 16 août 2006 (SANP0623371A)](arrete-du-16-aout-2006-sanp0623371a)
