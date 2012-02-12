@@ -4,72 +4,77 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-― le premier président de la cour d'appel ;
+- le premier président de la cour d'appel ;
 
-― le directeur délégué à l'administration régionale judiciaire.
+- le procureur général près la cour d'appel ;
+
+- le directeur délégué à l'administration régionale judiciaire.
 
 b) Représentants du personnel :
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center">DÉSIGNATION</p>
+<td>
+<p align="center"> DÉSIGNATION </p>
 </td>
-<td colspan="6">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
+<td colspan="2">
+<p align="center"> NOMBRE DE REPRÉSENTANTS </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Titulaires</p>
+<br/>
 </td>
-<td colspan="5">
-<p align="center">Suppléants</p>
+<td>
+<p align="center"> Titulaires</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cour d'appel de Paris</p>
-</td>
-<td align="center">
-<p align="center">10</p>
-</td>
-<td align="center">
-<p align="center">10</p>
+<td>
+<p align="center"> Suppléants</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Cours d'appel d'Aix-en-Provence, Douai, Rennes<br/>et Versailles</p>
+<br/>Cour d'appel de Paris <br/>
 </td>
 <td align="center">
-<p align="center">7</p>
+<br/>10 <br/>
 </td>
 <td align="center">
-<p align="center">7</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cours d'appel de Bordeaux, Colmar, Lyon et Montpellier</p>
-</td>
-<td align="center">
-<p align="center">5</p>
-</td>
-<td align="center">
-<p align="center">5</p>
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Cours d'appel d'Agen, Amiens, Angers, Bastia, Besançon,<br/>Bourges, Caen, Chambéry, Dijon, Grenoble, Limoges, Metz,<br/>Nancy, Nîmes, Orléans, Pau, Poitiers, Reims, Riom, Rouen,<br/>Toulouse, Basse-Terre, Fort-de-France, Nouméa, Papeete et Saint-Denis</p>
+<br/>Cours d'appel d'Aix-en-Provence, Douai, Rennes et Versailles <br/>
 </td>
 <td align="center">
-<p align="center">4</p>
+<br/>7 <br/>
 </td>
 <td align="center">
-<p align="center">4</p>
+<br/>7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cours d'appel de Bordeaux, Colmar, Lyon et Montpellier <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cours d'appel d'Agen, Amiens, Angers, Bastia, Besançon, Bourges, Caen, Cayenne, Chambéry, Dijon, Grenoble, Limoges, Metz, Nancy, Nîmes, Orléans, Pau, Poitiers, Reims, Riom, Rouen, Toulouse, Basse-Terre, Fort-de-France, Nouméa, Papeete et Saint-Denis <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>4<br/>
 </td>
 </tr>
 </tbody>
