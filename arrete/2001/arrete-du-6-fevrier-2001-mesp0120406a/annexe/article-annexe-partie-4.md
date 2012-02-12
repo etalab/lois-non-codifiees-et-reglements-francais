@@ -42,7 +42,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <p align="center">1136</p>
 </td>
 <td>
-<p align="center"> exsudation de Myroxylon pereirae (Royle) Klotzch (baume du Pérou, brut : n° CAS 8007-00-9) en cas d'utilisation comme ingrédient de parfum</p>
+<p align="center">exsudation de Myroxylon pereirae (Royle) Klotzch (baume du Pérou, brut : n° CAS 8007-00-9) en cas d'utilisation comme ingrédient de parfum</p>
 </td>
 </tr>
 <tr>
@@ -1973,6 +1973,14 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <td align="center">1371<br/>
 </td>
 <td>Phytonadione (INCI), phytomenadione (INN) (CAS : 84-80-0/81818-54-4 ; n° CE : 201-564-2)<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 1372</p>
+</td>
+<td> 2-Aminophénol (o-Aminophénol ; CI 76520) et ses sels (n° CAS : 95-55-6/67845-79-8/51-19-4 ; n° CE : 202-431-1/267-335-4)<br/>
+<br/>
 </td>
 </tr>
 </tbody>
