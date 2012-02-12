@@ -403,7 +403,6 @@
 - [Arrêté du 14 mai 1998 (MESH9821787A)](arrete-du-14-mai-1998-mesh9821787a)
 - [Arrêté du 15 avril 1998 (EQUT9800556A)](arrete-du-15-avril-1998-equt9800556a)
 - [Arrêté du 15 décembre 1997 (MENA9703696A)](arrete-du-15-decembre-1997-mena9703696a)
-- [Arrêté du 15 décembre 1997 (MENN9703703A)](arrete-du-15-decembre-1997-menn9703703a)
 - [Arrêté du 15 décembre 1998 (AGRS9802522A)](arrete-du-15-decembre-1998-agrs9802522a)
 - [Arrêté du 15 décembre 1998 (ATEP9870002A)](arrete-du-15-decembre-1998-atep9870002a)
 - [Arrêté du 15 décembre 1998 (ECOC9800152A)](arrete-du-15-decembre-1998-ecoc9800152a)

@@ -248,7 +248,6 @@
 - [Arrêté du 15 janvier 2001 (ECOB0150003A)](arrete-du-15-janvier-2001-ecob0150003a)
 - [Arrêté du 15 juin 2001 (AGRG0100888A)](arrete-du-15-juin-2001-agrg0100888a)
 - [Arrêté du 15 juin 2001 (MENE0101231A)](arrete-du-15-juin-2001-mene0101231a)
-- [Arrêté du 15 juin 2001 (MENP0101306A)](arrete-du-15-juin-2001-menp0101306a)
 - [Arrêté du 15 mars 1991 (MCCB9100193A)](arrete-du-15-mars-1991-mccb9100193a)
 - [Arrêté du 15 mars 2001 (FPPA0110020A)](arrete-du-15-mars-2001-fppa0110020a)
 - [Arrêté du 15 novembre 2001 (JUSA0100265A)](arrete-du-15-novembre-2001-jusa0100265a)
