@@ -4,7 +4,7 @@ I.-Les administrateurs civils constituent un corps unique à vocation interminis
 
 II.-La nomination et la titularisation dans le corps des administrateurs civils sont prononcées par décret du Président de la République.
 
-Le Premier ministre arrête le tableau d'avancement et prononce l'avancement à la hors-classe dans les conditions définies par les articles 12 et 13 du présent décret. Il prononce les sanctions disciplinaires dans les conditions définies par l'article 15 du présent décret.
+Le Premier ministre arrête              les tableaux d'avancement et prononce les avancements de grade dans les conditions définies par les articles 12 et 13 du présent décret. Il prononce les sanctions disciplinaires dans les conditions définies par l'article 15 du présent décret.
 
 III.-L'affectation des administrateurs civils aux différentes administrations mentionnées à l'article 1er du présent décret est prononcée, sous réserve des dispositions de l'article 21 ci-dessous, par chacun des ministres ou autorités auprès duquel elle est effectuée.
 

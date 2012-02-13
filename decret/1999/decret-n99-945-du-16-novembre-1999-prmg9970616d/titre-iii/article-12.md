@@ -1,6 +1,6 @@
 # Article 12
 
-Le tableau d'avancement mentionné à l'article précédent est établi dans les conditions ci-après.
+Les tableaux d'avancement mentionnés aux articles 10, 11 et 11 bis sont établis dans les conditions ci-après.
 
 Après consultation de la commission paritaire ministérielle visée à l'article 4 ci-dessus, chaque ministre ou autorité adresse au Premier ministre la liste des administrateurs civils affectés ou rattachés à son département qu'il juge aptes à bénéficier d'une promotion.
 
