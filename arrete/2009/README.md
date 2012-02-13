@@ -1217,7 +1217,6 @@
 - [Arrêté du 16 février 2009 (MENF0902125A)](arrete-du-16-fevrier-2009-menf0902125a)
 - [Arrêté du 16 février 2009 (MTSC0903546A)](arrete-du-16-fevrier-2009-mtsc0903546a)
 - [Arrêté du 16 janvier 2009 (BCFP0900963A)](arrete-du-16-janvier-2009-bcfp0900963a)
-- [Arrêté du 16 janvier 2009 (BCFR0901321A)](arrete-du-16-janvier-2009-bcfr0901321a)
 - [Arrêté du 16 janvier 2009 (DEVA0900976A)](arrete-du-16-janvier-2009-deva0900976a)
 - [Arrêté du 16 janvier 2009 (ECEL0830819A)](arrete-du-16-janvier-2009-ecel0830819a)
 - [Arrêté du 16 janvier 2009 (ECEP0827533A)](arrete-du-16-janvier-2009-ecep0827533a)
