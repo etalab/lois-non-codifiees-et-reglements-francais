@@ -77,6 +77,7 @@
 - [Décret n°2001-1159 du 6 décembre 2001 (MESF0111610D)](decret-n2001-1159-du-6-decembre-2001-mesf0111610d)
 - [Décret n°2001-1186 du 6 décembre 2001 (DEFP0102275D)](decret-n2001-1186-du-6-decembre-2001-defp0102275d)
 - [Décret n°2001-1187 du 6 décembre 2001 (DEFP0102262D)](decret-n2001-1187-du-6-decembre-2001-defp0102262d)
+- [Décret n°2001-125 du 6 février 2001 (MENF0003313D)](decret-n2001-125-du-6-fevrier-2001-menf0003313d)
 - [Décret n°2001-204 du 6 mars 2001 (ECOI0000590D)](decret-n2001-204-du-6-mars-2001-ecoi0000590d)
 - [Décret n°2001-494 du 6 juin 2001 (FPPA0100060D)](decret-n2001-494-du-6-juin-2001-fppa0100060d)
 - [Décret n°2001-505 du 6 juin 2001 (ECOI0100122D)](decret-n2001-505-du-6-juin-2001-ecoi0100122d)

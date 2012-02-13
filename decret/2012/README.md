@@ -8,6 +8,7 @@
 - [Décret n°2012-172 du 3 février 2012 (ESRS1119325D)](decret-n2012-172-du-3-fevrier-2012-esrs1119325d)
 - [Décret n°2012-173 du 3 février 2012 (ESRS1119330D)](decret-n2012-173-du-3-fevrier-2012-esrs1119330d)
 - [Décret n°2012-16 du 5 janvier 2012 (MEND1122533D)](decret-n2012-16-du-5-janvier-2012-mend1122533d)
+- [Décret n°2001-125 du 6 février 2001 (MENF0003313D)](decret-n2001-125-du-6-fevrier-2001-menf0003313d)
 - [Décret n°2012-174 du 6 février 2012 (JUSF1126617D)](decret-n2012-174-du-6-fevrier-2012-jusf1126617d)
 - [Décret n°2012-175 du 6 février 2012 (AGRT1132135D)](decret-n2012-175-du-6-fevrier-2012-agrt1132135d)
 - [Décret n°2012-176 du 6 février 2012 (AGRT1200928D)](decret-n2012-176-du-6-fevrier-2012-agrt1200928d)
