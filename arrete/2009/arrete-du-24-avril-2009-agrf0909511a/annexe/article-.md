@@ -16,17 +16,19 @@ Livre généalogique des races françaises de chevaux de selle
 
 Stud-book français du cheval arabe, dont le registre français du demi-sang arabe.
 
-Stud-book français du cheval anglo-arabe, dont le registre français du cheval anglo-arabe de croisement.
+Stud-book français du cheval anglo-arabe, dont le registre français du demi-sang anglo-arabe.
 
 Stud-book du selle français.
 
 Stud-book du cheval Camargue.
 
-Stud-book du cheval ariégeois de Castillon.
+Stud-book du cheval castillonnais.
 
 Stud-book du cheval de Mérens.
 
 Stud-book du cheval Henson.
+
+Stud-book du cheval corse.
 
 Livre généalogique des races étrangères de chevaux de selle
 
