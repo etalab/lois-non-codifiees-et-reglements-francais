@@ -1,0 +1,27 @@
+# Article 
+
+**LISTE DES DÉPARTEMENTS DONT LE MONTANT ANNUEL DES LIVRAISONS DE TABACS MANUFACTURÉS EST INFÉRIEUR EN 2011 D'AU MOINS 5 % À CELUI DE 2002 (DÉPARTEMENTS EN DIFFICULTÉ)**
+
+08 Ardennes.
+
+54 Meurthe-et-Moselle.
+
+55 Meuse.
+
+57 Moselle.
+
+59 Nord.
+
+62 Pas-de-Calais.
+
+64 Pyrénées-Atlantiques.
+
+66 Pyrénées-Orientales.
+
+67 Bas-Rhin.
+
+**LISTE DES DÉPARTEMENTS EN DIFFICULTÉ EN 2011
+
+NON REPRIS EN 2012**
+
+65 Hautes-Pyrénées.
