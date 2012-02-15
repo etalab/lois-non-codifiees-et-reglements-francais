@@ -1303,7 +1303,6 @@
 - [Arrêté du 15 février 2011 (BCRE1105144A)](arrete-du-15-fevrier-2011-bcre1105144a)
 - [Arrêté du 15 février 2011 (BCRE1105148A)](arrete-du-15-fevrier-2011-bcre1105148a)
 - [Arrêté du 15 février 2011 (BCRE1105150A)](arrete-du-15-fevrier-2011-bcre1105150a)
-- [Arrêté du 15 février 2011 (BCRE1105152A)](arrete-du-15-fevrier-2011-bcre1105152a)
 - [Arrêté du 15 février 2011 (BCRE1105153A)](arrete-du-15-fevrier-2011-bcre1105153a)
 - [Arrêté du 15 février 2011 (DEFD1104928A)](arrete-du-15-fevrier-2011-defd1104928a)
 - [Arrêté du 15 février 2011 (DEVA1101476A)](arrete-du-15-fevrier-2011-deva1101476a)
