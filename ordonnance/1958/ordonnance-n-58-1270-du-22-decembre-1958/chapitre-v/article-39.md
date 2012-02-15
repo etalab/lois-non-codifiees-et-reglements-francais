@@ -6,7 +6,7 @@ A l'exception des conseillers référendaires et des avocats généraux référe
 
 Nul magistrat ne peut être nommé à un emploi hors hiérarchie à la Cour de cassation s'il n'est ou n'a été magistrat hors hiérarchie ou si, après avoir exercé les fonctions de conseiller référendaire ou d'avocat général référendaire à la Cour de cassation, il n'occupe un autre emploi du premier grade.
 
-Les emplois vacants de conseiller ou d'avocat général à la Cour de cassation sont pourvus, à raison d'un sur quatre, par la nomination d'un magistrat du premier grade ayant exercé les fonctions de conseiller référendaire ou d'avocat général référendaire pendant au moins huit ans.
+Les emplois vacants de conseiller ou d'avocat général à la Cour de cassation sont pourvus, à raison d'un sur six, par la nomination d'un magistrat du premier grade ayant exercé les fonctions de conseiller référendaire ou d'avocat général référendaire pendant au moins huit ans.
 
 Les postes qui ne pourraient être pourvus, faute de candidats, par ces magistrats peuvent être pourvus par les magistrats mentionnés au troisième alinéa du présent article.
 
