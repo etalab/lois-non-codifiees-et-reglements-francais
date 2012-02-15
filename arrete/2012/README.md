@@ -493,7 +493,6 @@
 - [Arrêté du 30 décembre 2011 (SCSS1134448A)](arrete-du-30-decembre-2011-scss1134448a)
 - [Arrêté du 30 janvier 1991 (MENN9100169A)](arrete-du-30-janvier-1991-menn9100169a)
 - [Arrêté du 30 janvier 2012 (DEVA1202483A)](arrete-du-30-janvier-2012-deva1202483a)
-- [Arrêté du 30 janvier 2012 (EFIT1202124A)](arrete-du-30-janvier-2012-efit1202124a)
 - [Arrêté du 30 janvier 2012 (ETST1202789A)](arrete-du-30-janvier-2012-etst1202789a)
 - [Arrêté du 30 janvier 2012 (INDI1200700A)](arrete-du-30-janvier-2012-indi1200700a)
 - [Arrêté du 30 janvier 2012 (IOCL1135025A)](arrete-du-30-janvier-2012-iocl1135025a)
