@@ -1318,7 +1318,6 @@
 - [Arrêté du 1er juillet 2008 (AGRG0810436A)](arrete-du-1er-juillet-2008-agrg0810436a)
 - [Arrêté du 1er juillet 2008 (AGRS0816039A)](arrete-du-1er-juillet-2008-agrs0816039a)
 - [Arrêté du 1er juillet 2008 (DEVA0801847A)](arrete-du-1er-juillet-2008-deva0801847a)
-- [Arrêté du 1er juillet 2008 (DEVA0813817A)](arrete-du-1er-juillet-2008-deva0813817a)
 - [Arrêté du 1er juillet 2008 (DEVN0816344A)](arrete-du-1er-juillet-2008-devn0816344a)
 - [Arrêté du 1er juillet 2008 (ECED0812662A)](arrete-du-1er-juillet-2008-eced0812662a)
 - [Arrêté du 1er juillet 2008 (SJSA0814243A)](arrete-du-1er-juillet-2008-sjsa0814243a)
