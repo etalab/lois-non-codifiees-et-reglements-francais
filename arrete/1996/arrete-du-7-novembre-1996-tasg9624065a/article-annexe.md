@@ -20,15 +20,6 @@ ANNEXE
 </td>
 </tr>
 <tr>
-<td>Ministériel </td>
-<td>C.H.S. ministériel <br/>
-</td>
-<td align="center">5 <br/>
-</td>
-<td align="center">7 <br/>
-</td>
-</tr>
-<tr>
 <td>Central<br/>
 </td>
 <td>
