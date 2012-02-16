@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) de maintenance industrielle.
+Titre professionnel : technicien (ne) supérieur (e) de maintenance industrielle.
 
 Niveau : III.
 
@@ -12,123 +12,109 @@ Code NSF : 201 r.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) supérieur(e) de maintenance industrielle veille au bon fonctionnement d'une installation industrielle. En raison de la diversité des équipements sur lesquels il (elle) intervient, il (elle) est rarement spécialisé(e) dans une technique déterminée mais il (elle) est capable de travailler et d'intervenir sur chacune d'elles (électrotechnique, électronique, mécanique, automatismes industriels, pneumatique et hydraulique).
+L'activité du technicien supérieur de maintenance industrielle est repérée sur trois axes principaux, reflets des organisations et de la structure de l'emploi à ce niveau de qualification :
 
-Il (elle) assure plus particulièrement :
+1. Un ensemble de tâches de type interventions techniques, en contexte d'exploitation : elles consistent à effectuer, en autonomie, toutes les actions de maintenance préventives visant à prévenir l'apparition d'une défaillance et toutes les actions de maintenance corrective pour rétablir le fonctionnement initial. Le technicien supérieur intègre toutes mesures de prévention des risques ainsi que la mise en œuvre de la responsabilité sociétale de l'entreprise sur l'ensemble des composantes environnementale, économique et sociétale, pour ses propres interventions ou pour celles des entreprises extérieures.
 
-- la maintenance préventive, en exploitant les données statistiques, en élaborant des plans de maintenance, en effectuant des opérations techniques le cas échéant ;
+2. La mise en œuvre d'outils et de méthodologies en exploitant des indicateurs (historiques de défaillance, coûts, etc.) pour organiser et cibler les actions de maintenance préventives et faciliter l'activité managériale, dans le respect de la stratégie engagée.
 
-- la maintenance corrective : suite à une défaillance, il (elle) applique, lors de son intervention, une méthode d'approche et une démarche structurée afin de limiter le temps d'arrêt tout en respectant les règles de sécurité. Il (elle) expertise ainsi les défaillances et réalise lui-même (elle-même), ou fait réaliser, les interventions en conséquence ;
+3. La recherche de gains de productivité par les actions amélioratives afin d'augmenter la disponibilité, la fiabilité ou la maintenabilité des biens. La vision critique et constructive du technicien supérieur ainsi que sa capacité de jugement ont ici toute leur place et fournissent à la hiérarchie un éclairage attendu sur les pistes d'amélioration.
 
-- la gestion du système de planification, par la mise en oeuvre d'un logiciel de gestion de la maintenance assistée par ordinateur (GMAO), qui l'assiste dans le traitement des stocks de matériels et dans les commandes à prévoir en temps.
+Le technicien supérieur étant positionné sur une partie ou sur la totalité de ces activités en fonction de la taille de la structure, il évolue alternativement au plus près des équipements pour les interventions pratiques sur des technologies multiples (mécanique, électrotechnique, pneumatique, hydraulique, automatisme, instrumentation-régulation), en atelier de maintenance pour la remise en état de sous-ensembles, en bureau pour la gestion et la préparation, voire en bureau d'étude pour la conception de modifications techniques.
 
-Il (elle) peut avoir à prospecter, parfois à négocier, des contrats de maintenance avec les prestataires de services, si l'entreprise décide de sous-traiter une partie de sa maintenance.
+Dans tous les cas, l'interaction avec l'ensemble des services est forte, notamment avec le service production, qui impose souvent ses contraintes de planification (par les astreintes par exemple) ou ses engagements sur le respect des délais et de la qualité. Le technicien supérieur de maintenance industrielle doit être capable de gérer des situations tendues, dans des environnements parfois difficiles : bruit, chaleur, risques potentiels sur les installations.
 
-Il (elle) peut également avoir à proposer des travaux d'améliorations possibles en fonction des besoins, de façon à améliorer la disponibilité opérationnelle des équipements. Il (elle) peut participer à des groupes de recherche de la qualité totale par l'application de méthodes (AMDEC ou autre).
-
-La connaissance des méthodes de maintenance et des techniques de mesure est fondamentale. C'est par l'intermédiaire de mesures que sont effectués diagnostics de pannes et réglages. Les connaissances des diverses techniques (électrotechnique, électronique, automatismes industriels, mécanique, pneumatique, hydraulique) sont inséparables d'une certaine logique de raisonnement et de l'entraînement à un travail méthodique.
-
-Ce (cette) technicien(ne) supérieur(e) exerce ses activités sur tous les types possibles de sites de fabrication (procédés discontinus de fabrication de produits manufacturés ou procédés continus de type pétrochimie, sidérurgie, papeterie, etc.). Il (elle) peut être engagé(e) directement par l'entreprise ou appartenir à une entreprise spécialisée en prestations de services de la maintenance industrielle. D'une façon générale, les métiers de la maintenance impliquent de la disponibilité : l'emploi est donc souvent assorti d'astreintes, de travail de nuit ou de fin de semaine. Il faut en outre prévoir de fréquents dépassements d'horaires afin d'assurer la remise en production d'un équipement industriel indispensable. A noter que lors de pannes critiques, le (la) technicien(ne) supérieur(e) de maintenance industrielle doit être capable de gérer des situations tendues avec les clients ou le personnel de fabrication. Il faut également souligner l'implication de plus en plus importante des services de maintenance dans la démarche qualité et dans l'optimisation des méthodes et outils.
+La maintenance peut être centralisée, réalisée par des équipes détachées dans les unités de production ou bien encore par le personnel de production pour les deux premiers niveaux d'intervention (niv. I et II, norme AFNOR). Quant à la sous-traitance, elle est sollicitée pour une part stable d'environ 30 % de l'activité, en moyenne.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Définir et mettre en oeuvre la maintenance préventive
+1. Réaliser en sécurité la maintenance corrective et préventive
 
-sur des équipements industriels
+d'installations industrielles, en contexte d'exploitation
 
-Etablir un plan de maintenance préventive d'équipements industriels.
+Analyser une demande de maintenance préventive ou corrective et préparer l'intervention, en concertation avec l'exploitant et en intégrant la sécurité des personnes et des biens.
 
-Rédiger des procédures, des modes opératoires, des gammes de maintenance préventive sur des équipements industriels.
+Mettre en œuvre, en sécurité, les actions préventives d'installations industrielles.
 
-Réaliser, faire réaliser, les opérations de maintenance préventive sur des équipements industriels.
+Diagnostiquer et expertiser une défaillance sur une installation industrielle, y compris en exploitant de la documentation en anglais.
 
-Suivre la réalisation des opérations de maintenance préventive sur des équipements industriels.
+Mettre en œuvre, en sécurité, les actions correctives et effectuer la mise en exploitation d'installations industrielles.
 
-2. Mettre en oeuvre la maintenance corrective et analyser
+Rendre compte et garantir la traçabilité et la capitalisation des interventions de maintenance sur un progiciel de gestion de maintenance assistée par ordinateur.
 
-des défaillances sur des équipements industriels
+2. Assurer l'organisation et la gestion de maintenance
 
-Effectuer un diagnostic et expertiser des défaillances sur des équipements industriels, y compris en exploitant de la documentation en anglais.
+d'installations industrielles
 
-Remettre en état un équipement industriel suite à une défaillance.
+Etablir un plan de maintenance préventive d'installations industrielles.
 
-Analyser les défaillances répétitives ou critiques sur des équipements industriels.
-
-Coordonner une équipe de maintenance industrielle.
-
-3. Assurer l'organisation et la gestion
-
-de maintenance d'équipements industriels
-
-Mettre en place et maintenir la documentation, les nomenclatures, les codifications des équipements industriels.
-
-Déterminer et optimiser un magasin maintenance industrielle.
-
-Maîtriser les coûts de la maintenance industrielle.
+Suivre et ajuster les coûts de la maintenance industrielle.
 
 Assurer le suivi de la maintenance industrielle sous-traitée et externalisée.
 
-Adapter le service maintenance aux exigences de la qualité, de la sécurité et de l'environnement.
+Décliner la responsabilité sociétale de l'entreprise dans les activités de maintenance industrielle.
 
-Mettre en oeuvre et exploiter un progiciel de gestion de maintenance assistée par ordinateur.
+Renseigner et exploiter un progiciel de gestion de maintenance assistée par ordinateur.
 
-Coordonner une équipe de maintenance industrielle.
+Planifier les interventions et animer une équipe de maintenance industrielle en respectant le cadre réglementaire.
 
-4. Etudier et réaliser des améliorations
+3. Etudier et réaliser les améliorations
 
-d'un système de production industrielle
+d'une installation industrielle
 
-Définir le potentiel d'amélioration d'un système de production industrielle.
+Définir le potentiel d'amélioration d'une installation industrielle.
 
-Améliorer un plan de maintenance préventive d'un système de production industrielle.
+Améliorer un plan de maintenance préventive d'une installation industrielle.
 
-Etudier une amélioration sur des équipements industriels.
+Etudier une amélioration technique sur des équipements industriels.
 
-Réaliser et mettre en service une amélioration sur des équipements industriels.
+Réaliser et mettre en service une amélioration technique sur des équipements industriels.
 
-Suivre le projet d'amélioration d'un système de production industrielle.
+Evaluer le projet d'amélioration d'une installation industrielle.
 
-Secteurs d'activités ou types d'emploi
+Certificat complémentaire de spécialisation (CCS)
 
-accessibles par le détenteur du titre
+1. Etudier la réalisation et assurer la maintenance
 
-Les différents secteurs d'activités industrielles concernés sont principalement :
+de l'instrumentation, régulation de procédés industriels continus
 
-- l'industrie agroalimentaire ;
+Etudier l'instrumentation-régulation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la modification d'une installation existante.
 
-- la construction automobile ;
+Mettre en service les équipements d'instrumentation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la maintenance préventive ou corrective d'une installation existante.
 
-- la métallurgie - la sidérurgie ;
+Mettre en service les équipements de régulation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la maintenance préventive ou corrective d'une installation existante.
 
-- les constructeurs d'équipements électriques et électroniques ;
+Secteurs d'activités et types d'emploi accessibles
 
-- les constructeurs de machines spéciales et d'équipements industriels ;
+par le détenteur du titre
 
-- la construction navale,
+Les différents secteurs d'activités concernés sont principalement :
 
-et dans une moindre mesure :
+Entreprises de fabrication de biens dans les secteurs métallurgie, sidérurgie, agroalimentaire, pharmaceutique, plasturgie, automobile, chimie, constructeurs d'équipements électriques et électroniques, constructeurs de machines spéciales et d'équipements industriels, etc.
 
-- l'industrie chimique ;
+Et dans une certaine mesure, l'industrie du caoutchouc et des plastiques, l'industrie du papier et du carton, l'industrie du textile et de l'habillement.
 
-- l'industrie du caoutchouc et des plastiques ;
+Entreprises de production d'énergie (nucléaire, éolien, etc.), de transport de personnes (aérien, rail, câble, construction navale, etc.).
 
-- l'industrie du papier et du carton ;
+Entreprises de service (santé, hôpitaux, loisirs, etc.).
 
-- l'industrie du textile et de l'habillement.
+Les types d'emplois accessibles sont les suivants :
 
-Codes ROME :
+Technicien (ne) de maintenance industrielle, technicien (ne) de maintenance d'équipements de production, fabrication, exploitation, électrotechnicien/ électromécanicien/ mécanicien/ automaticien de maintenance ;
 
-52312 - Installateur-maintenicien en systèmes automatisés.
+Responsable de maintenance industrielle chef d'équipe en maintenance industrielle ;
 
-51211 - Agent d'encadrement de maintenance.
+Technicien (ne) méthodes maintenance.
 
-53321 - Cadre technique d'entretien, maintenance, travaux neufs.
+Code ROME :
+
+I1304-Installation et maintenance d'équipements industriels et d'exploitation.
 
 Réglementation de l'activité :
 
-Néant.
+Habilitation électrique.
 
 Autorité responsable de la certification :
 
@@ -136,8 +122,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

@@ -1,110 +1,100 @@
 # Article ANNEXE
 
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+
 Intitulé :
 
-Titre professionnel : fraiseur(se) sur machines conventionnelles et à commande numérique.
+Titre professionnel : fraiseur (se) sur machines conventionnelles et à commande numérique.
 
 Niveau : V.
 
-Code NSF : 251 u.
+Code NSF : 251 u-Mécanique générale et de précision, usinage.
 
 Résumé du référentiel d'emploi
 
-A partir d'un plan de définition, le fraiseur prépare, règle et conduit sa machine pour réaliser entièrement ou en partie une pièce unitaire ou une petite série de pièces sur fraiseuse conventionnelle ou à commande numérique.
+A partir d'un plan de définition, le (la) fraiseur (se) prépare, règle et conduit sa machine pour réaliser entièrement ou en partie une pièce unitaire ou une petite série de pièces sur fraiseuse conventionnelle ou à commande numérique.
 
-Il détermine les paramètres du procédé et choisit les outils et outillages les plus appropriés.
+Le fraisage est particulièrement adapté à l'usinage de pièces prismatiques, serrées en étau ou bridées sur la table de travail.
 
-Les pièces réalisées sont principalement métalliques mais peuvent être constituées d'autres matières telles que les plastiques ou les composites... Elles peuvent présenter une grande variété de formes et de dimensions.
+L'enlèvement de matière, sous forme de copeaux, résulte de la combinaison de deux mouvements : rotation de l'outil de coupe, d'une part, avance de la pièce à usiner, d'autre part.
 
-Le métier de fraiseur s'exerce en atelier, généralement dans des petites ou moyennes entreprises orientées sur la production unitaire et en petites séries ou sur la maintenance.
+Les pièces réalisées sont principalement métalliques, mais peuvent être constituées d'autres matières telles que les plastiques ou les composites.
 
-La valeur des pièces produites varie en fonction de la matière à usiner, de la précision et de la complexité des formes demandées, ce qui a un impact direct sur le temps de réalisation et donc sur le coût, auquel vient s'ajouter le prix de la pièce brute.
+Elles peuvent présenter une grande variété de formes et de dimensions.
 
-Ce contexte professionnel requiert de solides compétences techniques et une autonomie certaine, avec un niveau de responsabilité important vis-à-vis de la ou des pièces usinées. Il n'est pas rare que le fraiseur se voit confier des pièces à usiner valant plusieurs milliers d'euros et dans ce cas, même si l'erreur est toujours possible, elle doit être minimisée au maximum.
+Le (la) fraiseur (se) détermine les paramètres du procédé et choisit les outils et outillages les plus appropriés, quand ceux-ci ne sont pas prédéfinis.
 
-Lorsqu'il travaille sur des machines à commande numérique, il réalise lui-même le programme d'usinage de la pièce à produire.
+Sur machine-outil à commande numérique, il (elle) peut être amené (e) à intervenir dans le programme d'usinage de la pièce à produire, à créer ou modifier une séquence.
 
-En fonction de la taille de l'entreprise, il travaille sous les ordres directs d'un chef d'atelier, d'un agent de maîtrise ou du chef d'entreprise dans les très petites entreprises.
+Il (elle) doit réaliser et livrer sa production dans le cadre de procédures d'assurance qualité.
 
-Il est en relation avec les autres ouvriers de l'atelier, avec le ou les techniciens d'atelier ou préparateurs et également le ou les
+Il (elle) assure la conformité de sa production, la gestion des documents de suivi et des outillages.
 
-contrôleurs, s'il en existe dans l'entreprise.
+Il (elle) réalise les opérations d'entretien simples et de courte durée de son poste de travail.
 
-S'il travaille en équipe, il est en relation (orale ou écrite) avec les autres équipiers pour le passage des consignes de réglage, de contrôle ou de production.
+L'emploi s'exerce en atelier, généralement dans des petites ou moyennes entreprises orientées sur la production unitaire et en petites séries ou sur la maintenance.
+
+Le professionnel travaille debout et, selon les entreprises, c'est un travail à la journée ou posté (2 × 8).
+
+Il (elle) travaille en autonomie, avec un niveau de responsabilité important en regard de la valeur des pièces produites et des équipements utilisés.
+
+Ce travail nécessite une bonne vision spatiale, une forte concentration liée à la précision attendue et une bonne capacité à anticiper les problèmes techniques.
+
+En cas d'incident, il lui appartient de remédier au problème s'il estime en avoir la compétence ou de faire appel à son responsable pour prendre une décision.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1.  Fraiser des pièces à l'unité et en petites séries,
+1. Fraiser des pièces, à l'unité ou en petites séries,
 
-à partir d'un mode opératoire fourni
+sur une machine conventionnelle
 
-Appareiller, régler et conduire une fraiseuse conventionnelle pour usiner une pièce ou une petite série.
+Effectuer la préparation d'un usinage sur fraiseuse conventionnelle, à partir d'un plan de pièce.
 
-Appareiller, régler et conduire une fraiseuse à commande numérique pour usiner une pièce ou une petite série, à partir d'un programme fourni.
+Usiner une pièce ou une petite série sur une fraiseuse conventionnelle.
 
-Contrôler des pièces usinées.
+Réaliser le contrôle continu de sa fabrication dans un atelier d'usinage.
 
-2. Préparer le fraisage de pièces réalisées
+2. Fraiser des pièces, à l'unité ou en petites séries,
 
-à l'unité et en petites séries
+sur une machine à commande numérique
 
-Elaborer un mode opératoire de fraisage à partir d'un plan pièce.
+Effectuer la préparation d'un usinage sur fraiseuse à commande numérique, à partir d'un plan de pièce et éventuellement d'un programme préétabli.
 
-Préparer et vérifier les moyens d'usinage.
+Usiner une pièce ou une petite série sur une fraiseuse à commande numérique.
 
-Programmer des séquences d'usinage sur fraiseuse à commande numérique et les tester.
+Réaliser le contrôle continu de sa fabrication dans un atelier d'usinage.
 
-Organiser et gérer un poste de travail en usinage.
+Secteurs d'activités et types d'emploi accessibles
 
-Secteurs d'activités ou types d'emploi
+par le détenteur du titre
 
-accessibles par le détenteur du titre
+Les différents secteurs d'activités concernés sont principalement :
 
-Mécanique générale et de précision ou mécanique industrielle.
+-mécanique générale et de précision ou mécanique industrielle ;
 
-Fabrication d'outillage mécanique.
+-fabrication d'outillages mécaniques ou de machines spéciales ;
 
-Fabrication de machines spéciales.
+-secteur de l'automobile, de l'armement, de l'aéronautique, de la maintenance mécanique.
 
-Fabrication de machines diverses d'usage général.
+Les types d'emplois accessibles sont les suivants :
 
-Secteur de l'automobile, de l'armement, de la maintenance mécanique.
+-fraiseur ou opérateur régleur sur fraiseuse ;
 
-Et, de façon plus générale, tous les secteurs de la production industrielle :
-
-- opérateur régleur sur fraiseuse ;
-
-- opérateur régleur sur centre d'usinage ;
-
-- opérateur régleur sur fraiseuse à commande numérique ;
-
-- régleur sur fraiseuse ;
-
-- fraiseur sur commande numérique ;
-
-- fraiseur.
+-opérateur régleur sur fraiseuse à commande numérique.
 
 Codes ROME :
 
-44111 - Agent/agente d'usinage des métaux.
+H 2903-Conduite d'équipement d'usinage ;
 
-44121 - Opérateur-régleur/opératrice-régleuse sur machine-outil.
-
-44313 - Régleur/régleuse.
-
-Réglementation de l'activité :
-
-Néant.
+H 2912-Réglage d'équipement de production industrielle.
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
-
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
