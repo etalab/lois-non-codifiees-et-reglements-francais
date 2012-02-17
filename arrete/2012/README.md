@@ -523,6 +523,7 @@
 - [Arrêté du 30 janvier 2012 (JUST1203922A)](arrete-du-30-janvier-2012-just1203922a)
 - [Arrêté du 30 juin 2008 (AGRP0817305A)](arrete-du-30-juin-2008-agrp0817305a)
 - [Arrêté du 30 novembre 2011 (AGRS1132616A)](arrete-du-30-novembre-2011-agrs1132616a)
+- [Arrêté du 30 septembre 2008 (AGRP0823448A)](arrete-du-30-septembre-2008-agrp0823448a)
 - [Arrêté du 30 septembre 2011 (IOCC1119173A)](arrete-du-30-septembre-2011-iocc1119173a)
 - [Arrêté du 30 mai 2011 (DEFH1115416A)](arrete-du-30-mai-2011-defh1115416a)
 - [Arrêté du 31 août 1994 (EQUP9401505A)](arrete-du-31-aout-1994-equp9401505a)
