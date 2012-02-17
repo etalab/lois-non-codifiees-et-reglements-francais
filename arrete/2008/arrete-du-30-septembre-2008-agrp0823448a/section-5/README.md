@@ -1,3 +1,0 @@
-# SECTION 5 : DISPOSITIONS TRANSITOIRES ET FINALES
-
-- [Article 24](article-24.md)

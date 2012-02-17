@@ -1251,7 +1251,6 @@
 - [Arrêté du 30 octobre 2008 (IOCA0826244A)](arrete-du-30-octobre-2008-ioca0826244a)
 - [Arrêté du 30 octobre 2008 (MAEA0821528A)](arrete-du-30-octobre-2008-maea0821528a)
 - [Arrêté du 30 septembre 2008 (AGRP0812588A)](arrete-du-30-septembre-2008-agrp0812588a)
-- [Arrêté du 30 septembre 2008 (AGRP0823448A)](arrete-du-30-septembre-2008-agrp0823448a)
 - [Arrêté du 30 septembre 2008 (DEFK0823546A)](arrete-du-30-septembre-2008-defk0823546a)
 - [Arrêté du 30 septembre 2008 (DEVN0822714A)](arrete-du-30-septembre-2008-devn0822714a)
 - [Arrêté du 30 septembre 2008 (DEVP0823142A)](arrete-du-30-septembre-2008-devp0823142a)

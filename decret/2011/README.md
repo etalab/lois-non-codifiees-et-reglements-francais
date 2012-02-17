@@ -310,6 +310,7 @@
 - [Décret n°2011-1276 du 11 octobre 2011 (AGRT1111951D)](decret-n2011-1276-du-11-octobre-2011-agrt1111951d)
 - [Décret n°2011-1277 du 11 octobre 2011 (AGRT1111378D)](decret-n2011-1277-du-11-octobre-2011-agrt1111378d)
 - [Décret n°2011-1278 du 11 octobre 2011 (SCSS1107555D)](decret-n2011-1278-du-11-octobre-2011-scss1107555d)
+- [Décret n°2011-382 du 11 avril 2011 (ETSP1107628D)](decret-n2011-382-du-11-avril-2011-etsp1107628d)
 - [Décret n°2011-828 du 11 juillet 2011 (DEVP1106570D)](decret-n2011-828-du-11-juillet-2011-devp1106570d)
 - [Décret n°2011-829 du 11 juillet 2011 (DEVR1113798D)](decret-n2011-829-du-11-juillet-2011-devr1113798d)
 - [Décret n°2012-871 du 11 juillet 2012 (MENF1221119D)](decret-n2012-871-du-11-juillet-2012-menf1221119d)
