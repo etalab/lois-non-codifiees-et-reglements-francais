@@ -6,12 +6,12 @@ Les jurys des concours pour l'attribution des niveaux de qualification de pratic
 
 - un praticien des armées, praticien professeur agrégé, président ;
 
-- quatre praticiens des armées, praticiens professeurs agrégés ;
+- deux praticiens des armées, praticiens professeurs agrégés ;
 
-- deux membres civils, professeurs des universités, proposés par le président et agréés par le ministre de la défense ;
-
-- un praticien des armées, praticien professeur agrégé, désigné en qualité d'examinateur, sans voix délibérative ;
+- deux membres civils, professeurs des universités, proposés par le président et agréés par le ministre de la défense et des anciens combattants ;
 
 - un praticien des armées, praticien professeur agrégé, désigné en qualité de suppléant.
 
 Chaque membre du jury dispose d'une voix. Le jury se prononce à la majorité des voix. En cas de partage des voix, le président a voix prépondérante.
+
+Le président du jury a la possibilité en cas de regroupement des concours de demander de désigner un ou deux membres supplémentaires, praticiens professeurs agrégés pour les disciplines concernées.
