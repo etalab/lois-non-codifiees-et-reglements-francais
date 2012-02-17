@@ -1,10 +1,10 @@
 # Article 8
 
-I. ― Le haut comité de la qualité de service dans les transports comprend trente-cinq membres répartis en quatre collèges :
+I. ― Le haut comité de la qualité de service dans les transports comprend trente-sept membres répartis en quatre collèges :
 
-1° Un collège de parlementaires et de représentants des collectivités publiques comprenant dix membres ainsi répartis :
+1° Un collège de parlementaires et de représentants des collectivités publiques comprenant douze membres ainsi répartis :
 
-― un député et un sénateur ;
+― deux députés et deux sénateurs ;
 
 ― deux représentants du ministre chargé des transports ;
 
