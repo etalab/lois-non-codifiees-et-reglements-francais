@@ -6,108 +6,124 @@ Pour les concours de qualification en médecine d'armée, la qualification de pr
 
 Le nombre de postes ouverts par corps et par domaine de compétences est défini dans les tableaux ci-après :
 
-<div align="center">
+Corps des médecins
 
 <table>
 <tbody>
 <tr>
 <td>
+<p align="center"> CORPS</p>
+</td>
+<td>
+<p align="center"> DOMAINE DE COMPÉTENCES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
 <p align="center">
-<b>CORPS</b>
-</p>
+<br/>Médecins des armées</p>
 </td>
 <td>
 <p align="center">
-<b>DOMAINE DE COMPÉTENCES</b>
-</p>
+<br/>Médecine d'unité</p>
 </td>
 <td>
 <p align="center">
-<b>NOMBRE DE POSTES</b>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="7">
-<br/>
-<br/>
-<br/>
-<p align="center">Médecins des armées</p>
-<br/>
-<br/>
-<br/>
-</td>
-<td>
-<p align="center">Médecine d'unité</p>
-</td>
-<td>
-<p align="center">10</p>
+<br/>10</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Médecine aéronautique et spatiale</p>
+<p align="center">
+<br/>Médecine aéronautique et spatiale</p>
 </td>
 <td>
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Médecine de la plongée</p>
-</td>
-<td>
-<p align="center">1</p>
+<p align="center">
+<br/>2</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Médecine d'urgence</p>
+<p align="center">
+<br/>Médecine de la plongée</p>
 </td>
 <td>
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Expertise médicale et contentieux</p>
-</td>
-<td>
-<p align="center">2</p>
+<p align="center">
+<br/>1</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Préparation physique et environnements particuliers</p>
+<p align="center">
+<br/>Médecine d'urgence</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">
+<br/>4</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Techniques d'état-major</p>
+<p align="center">
+<br/>Expertise médicale et contentieux</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">
+<br/>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Préparation physique et environnements particuliers</p>
+</td>
+<td>
+<p align="center">
+<br/>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Techniques d'état-major</p>
+</td>
+<td>
+<p align="center">
+<br/>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>Santé publique appliquée aux armées</p>
+</td>
+<td>
+<p align="center">
+<br/>1</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>CORPS<br/>
-</th>
-<th>DOMAINE DE COMPÉTENCES<br/>
-</th>
-<th>NOMBRE DE POSTES<br/>
-</th>
+<td>
+<p align="center"> CORPS<br/>
+</p>
+</td>
+<td>
+<p align="center"> DOMAINE DE COMPÉTENCES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">Médecins ou pharmaciens des armées<br/>
@@ -121,37 +137,44 @@ Le nombre de postes ouverts par corps et par domaine de compétences est défini
 </table>
 
 </div>
-
 <div align="center">
+.
 
 <table>
 <tbody>
 <tr>
-<th>CORPS<br/>
-</th>
-<th>DOMAINE DE COMPÉTENCES<br/>
-</th>
-<th>NOMBRE DE POSTES<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Pharmaciens des armées<br/>
+<td>
+<p align="center">CORPS</p>
 </td>
-<td align="center">Pharmacie hospitalière et des collectivités<br/>
+<td>
+<p align="center">DOMAINE DE COMPÉTENCES</p>
 </td>
-<td align="center">1<br/>
+<td>
+<p align="center">NOMBRE DE POSTES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td rowspan="2">
+<p align="center">Pharmaciens des armées</p>
 </td>
-<td align="center">Toxicologie environnementale<br/>
+<td>
+<p align="center">Pharmacie hospitalière et des collectivités</p>
 </td>
-<td align="center">1<br/>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Toxicologie environnementale</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<br/>
 
 </div>
