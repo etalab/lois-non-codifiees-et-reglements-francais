@@ -1471,7 +1471,6 @@
 - [Arrêté du 16 juin 2010 (JUSF1016457A)](arrete-du-16-juin-2010-jusf1016457a)
 - [Arrêté du 16 juin 2010 (JUSF1016458A)](arrete-du-16-juin-2010-jusf1016458a)
 - [Arrêté du 16 juin 2010 (JUSF1016459A)](arrete-du-16-juin-2010-jusf1016459a)
-- [Arrêté du 16 juin 2010 (JUSF1016460A)](arrete-du-16-juin-2010-jusf1016460a)
 - [Arrêté du 16 juin 2010 (JUSF1016461A)](arrete-du-16-juin-2010-jusf1016461a)
 - [Arrêté du 16 juin 2010 (JUSF1016462A)](arrete-du-16-juin-2010-jusf1016462a)
 - [Arrêté du 16 juin 2010 (JUSF1016463A)](arrete-du-16-juin-2010-jusf1016463a)
