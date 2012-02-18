@@ -1,7 +1,15 @@
 # Article 2
 
-Participent à l'expérimentation mentionnée au V de l'article 91 de la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010 les collectivités territoriales volontaires suivantes :
+I. - Participent à l'expérimentation mentionnée au
+V de l'article 91 de la loi du 24 décembre 2009 susvisée
+les collectivités territoriales volontaires suivantes à compter du 30 octobre 2011 :
 
-― les villes de Saint-Malo, Menton, Mandelieu et du Cannet ;
+- les villes de Mandelieu et du Cannet.
 
-― les conseils généraux des Alpes-maritimes, du Rhône et du Bas-Rhin.
+II.-Participent à l'expérimentation susmentionnée les collectivités territoriales volontaires suivantes à compter du 1er janvier 2012 :
+
+- les villes de Saint-Malo, Menton et Antibes ;
+
+- les conseils généraux des Alpes-Maritimes, du Rhône et du Bas-Rhin ;
+
+- le conseil régional d'Auvergne.
