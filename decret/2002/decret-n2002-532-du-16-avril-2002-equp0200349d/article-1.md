@@ -1,6 +1,6 @@
 # Article 1
 
-Une indemnité de sujétions horaires peut être versée aux agents titulaires, aux agents contractuels sous contrat à durée indéterminée ou aux ouvriers de l'Etat affectés dans un service de l'équipement soit à un poste de travail relevant de l'exploitation, de l'entretien et des travaux, soit à un poste entraînant la participation à un service de permanence continue visant à assurer la gestion d'un centre opérationnel de veille et d'alerte, lorsque l'organisation du travail implique au moins l'une ou plusieurs des caractéristiques suivantes :
+Une indemnité de sujétions horaires peut être versée aux agents titulaires, aux agents contractuels sous contrat à durée indéterminée ou aux ouvriers de l'Etat affectés dans un service de l'équipement soit à un poste de travail relevant de l'exploitation, de l'entretien et des travaux, soit à un poste entraînant la participation à un service de permanence continue visant à assurer la gestion d'un centre opérationnel de veille et d'alerte, soit à un poste relevant du contrôle et de la surveillance des activités maritimes, lorsque l'organisation du travail implique au moins l'une ou plusieurs des caractéristiques suivantes :
 
 - des vacations au moins égales à 6 heures de temps de travail effectif continu par vacation ;
 
