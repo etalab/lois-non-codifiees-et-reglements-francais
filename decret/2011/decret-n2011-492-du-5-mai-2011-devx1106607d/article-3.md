@@ -1,0 +1,3 @@
+# Article 3
+
+Toutes les informations utiles concernant les zones marines identifiées par le plan d'action pour le milieu marin comme susceptibles de constituer des zones spéciales de conservation au titre de la directive n° 92/43/ CEE Conseil du 21 mai 1992 susvisée, des zones de protection spéciale au titre de la directive n° 2009/147/ CE du Parlement européen et du Conseil du 30 novembre 2009 susvisée ou des aires marines protégées au sens de l'article L. 334-1 du code de l'environnement sont mises à la disposition du public dans les conditions prévues par le premier et le troisième alinéa de l'article R. 219-13 du même code au plus tard le 30 septembre 2013.

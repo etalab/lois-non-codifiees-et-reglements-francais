@@ -1,6 +1,6 @@
 # Article 6
 
-Lorsqu'un projet doit être soumis à une commission nautique, le service maritime, le port autonome, la collectivité compétente, selon le cas, saisit le président ou les coprésidents de la commission et leur transmet en même temps la liste des marins pratiques membres de la commission, préalablement nommés comme il est indiqué aux articles 4 et 5 précédents. Lorsque la commission statue sur des travaux de signalisation maritime, cette saisine est effectuée par le service maritime ou le port autonome, selon le cas.
+Lorsqu'un projet doit être soumis à une commission nautique, la direction interrégionale de la mer, le port autonome, la collectivité compétente, selon le cas, saisit le président ou les coprésidents de la commission et leur transmet en même temps la liste des marins pratiques membres de la commission, préalablement nommés comme il est indiqué aux articles 4 et 5 précédents. Lorsque la commission statue sur des travaux de signalisation maritime, cette saisine est effectuée par la direction interrégionale de la mer ou le port autonome, selon le cas.
 
 Lorsque la grande commission est saisie, le préfet, le préfet maritime ou, outre-mer, le délégué du Gouvernement en est informé.
 
