@@ -1,0 +1,3 @@
+# Article 22
+
+Les fonctionnaires inscrits sur la liste d'aptitude établie au titre de l'année 2012 avant la date d'entrée en vigueur du présent décret pour l'accès au corps des techniciens des services culturels et des Bâtiments de France régi par le décret n° 93-240 du 17 novembre 1993 portant création du corps des techniciens des services culturels et des Bâtiments de France et fixant les dispositions statutaires applicables à ce corps, et dont la nomination dans ce corps n'a pas été prononcée à cette même date peuvent être nommés dans le grade de technicien des services culturels et des Bâtiments de France de classe normale du corps des techniciens des services culturels et des Bâtiments de France régi par le présent décret.

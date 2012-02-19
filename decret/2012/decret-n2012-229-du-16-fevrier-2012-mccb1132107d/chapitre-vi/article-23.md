@@ -1,0 +1,3 @@
+# Article 23
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de technicien de classe normale du corps des techniciens des services culturels et des Bâtiments de France régi par le décret n° 93-240 du 17 novembre 1993 portant création du corps des techniciens des services culturels et des Bâtiments de France et fixant les dispositions statutaires applicables à ce corps sont maintenus en fonctions et ont vocation à être titularisés dans le grade de technicien des services culturels et des Bâtiments de France de classe normale du corps des techniciens des services culturels et des Bâtiments de France régi par le présent décret.
