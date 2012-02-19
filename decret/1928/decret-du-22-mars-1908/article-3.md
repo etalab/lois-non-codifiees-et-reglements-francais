@@ -8,8 +8,6 @@ Les architectes en chef.
 
 Les architectes ordinaires.
 
-Les vérificateurs.
-
 Les agents du service des jardins au nombre de seize (sept jardiniers chefs et neuf jardiniers).
 
 Les concierges et gardiens d'édifice, au nombre de trois.
