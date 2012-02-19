@@ -46,6 +46,8 @@ Le ministre chargé de l'aviation civile peut annuler cette extension si les con
 
 f) Des vols autrement que selon les règles du vol à vue (VFR) de jour, sauf autorisation spécifique du ministre chargé de l'aviation civile.
 
+g) Des vols à sensations, tels que définis dans l'arrêté du 24 juillet 1991 susvisé.
+
 2. Toutefois, le ministre chargé de l'aviation civile peut autoriser des vols ayant pour but la mise en valeur du patrimoine aéronautique, notamment lors de tournages cinématographiques, si les conditions techniques complémentaires qu'il notifie sont satisfaites.
 
 3. Les vols sont effectués au-dessus du territoire de la République française, ou au-dessus des territoires ayant contracté avec la France des accords particuliers, ou dans le cadre d'une autorisation particulière accordée par un autre Etat.

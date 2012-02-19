@@ -150,6 +150,10 @@ Temps de vol hélicoptère : Total du temps décompté depuis le moment où les 
 
 Titres aéronautiques : Pour l'application de ce texte est considéré comme titre aéronautique l'ensemble des brevets, licences et qualifications conférant des privilèges aux navigants.
 
+Vol à sensations : vol dont les points de départ et de destination sont identiques, effectué pour l'agrément, aux fins de créer des sensations fortes aux passagers par des manœuvres de voltige.
+
+Il ne constitue pas une activité de transport aérien public au sens du chapitre II du titre Ier du livre IV du code des transports.
+
 Vol de démonstration : Vol pendant lequel sont démontrées à un ou plusieurs invités en qualité de pilote, de passager ou de personne ayant un intérêt technique au vol, les caractéristiques d'un aéronef.
 
 Vol technique : Vol effectué sous laissez-passer, suite à une modification en cours d'approbation qui ne nécessite pas une analyse du comportement général de l'aéronef et une analyse des conséquences du fonctionnement du nouveau système ou de sa modification sur les procédures du manuel de vol, et pour lequel un niveau de technicité des pilotes équivalent à celui requis pour
@@ -1491,3 +1495,147 @@ Tout propriétaire d'un aéronef choisissant de faire effectuer l'entretien par 
 L'entretien des stations d'aéronefs est effectué dans un organisme agréé à cet effet par le ministre chargé de l'aviation civile.
 
 (3) L'A.P.R.S. ne peut pas être inscrite sur le livret Aéronef si celui-ci n'est pas disponible sur place (cas par exemple d'une réparation en escale).
+
+**CHAPITRE VIII - VOLS À SENSATIONS**
+
+8.1. Généralités
+
+8.1.1. Champ d'application
+
+Les dispositions du présent chapitre s'appliquent aux exploitants qui effectuent des vols à sensations au moyen d'avions :
+
+- à titre onéreux ; ou
+
+- recourant à la publicité, au démarchage, à des déclarations dans les médias ou sur internet ou à tout autre moyen visant à faire connaître leur activité auprès du public.
+
+Sont exclus de ce champ d'application les exploitants pratiquant la voltige aérienne sur des avions à piston dont la puissance maximale continue est strictement inférieure à 185 kW (soit inférieure ou égale à 250 cv).
+
+8.1.2. Organisation
+
+L'exploitant s'assure que son organisation est adaptée à son activité et que des procédures de supervision des opérations ont été définies.
+
+L'exploitant nomme un dirigeant responsable ayant l'autorité pour s'assurer que toutes les activités liées à l'exploitation et à la maintenance peuvent être financées et effectuées conformément à la réglementation en vigueur.
+
+L'exploitant désigne des responsables chargés de l'encadrement et de la supervision des domaines suivants : opérations aériennes, entretien, formation des équipages, opérations au sol et gestion de la sécurité.
+
+Une même personne peut cumuler plusieurs responsabilités.
+
+8.1.3. Etude de sécurité
+
+Avant d'entreprendre son activité de vols à sensations et préalablement à la rédaction de son projet de manuel d'exploitation, l'exploitant s'assure par une étude de sécurité qu'il met en œuvre toutes les précautions raisonnables afin d'assurer un niveau de sécurité qu'il juge acceptable.
+
+L'exploitant met en œuvre un système de gestion de la sécurité (SGS), conformément au paragraphe A. 2 de l'annexe VII afin de maintenir ou d'améliorer le niveau de sécurité.
+
+8.1.4. Déclaration d'activité
+
+L'exploitant informe les services compétents de son intention de commencer une activité de vols à sensations par le dépôt du manuel d'exploitation conformément au 8.2.4, accompagné de la déclaration de conformité prévue au 8.2.3. Il informe les services compétents lorsqu'il cesse son activité.
+
+8.1.5. Suspension de l'activité
+
+Les services compétents peuvent suspendre les activités de vols à sensations s'ils constatent que le niveau de sécurité est insuffisant. Ils notifient par écrit cette décision à l'exploitant.
+
+8.1.6. Information des passagers
+
+Avant chaque vol, l'exploitant informe les passagers, par écrit, que le vol ne répond pas au niveau de sécurité défini pour le transport aérien public. L'exploitant obtient confirmation de l'acceptation par le passager.
+
+L'exploitant informe les passagers sur l'utilisation des dispositifs de secours et d'urgence (en particulier, siège éjectable et parachute).
+
+8.2. Manuel d'exploitation
+
+8.2.1. Généralités
+
+Un exploitant ne peut utiliser un avion dans le cadre de vols à sensations ou pour la formation de pilotes à leur pratique que s'il a mis à la disposition du personnel intéressé un manuel d'exploitation.
+
+Le manuel d'exploitation est un document préparé par l'exploitant. Il est destiné à mettre à la disposition de l'exploitant et du personnel de l'exploitant les règles et procédures à suivre ainsi que toutes les informations et instructions nécessaires pour que les divers objectifs de l'exploitation soient atteints dans des conditions de sécurité satisfaisantes.
+
+8.2.2. Rédaction et contenu
+
+L'exploitant s'assure que :
+
+- le manuel d'exploitation contient toutes les consignes et informations nécessaires au personnel d'exploitation pour exercer ses attributions.
+
+- le manuel d'exploitation est modifié ou révisé afin que les instructions et les informations qu'il contient soient à jour ;
+
+- l'ensemble du personnel d'exploitation est informé des modifications apportées aux parties du manuel relatives à ses fonctions ;
+
+- le contenu du manuel d'exploitation est précisé en annexe VII ;
+
+- sous réserve de l'accord des services compétents, un manuel différent dans sa forme peut être fourni si l'exploitant le juge mieux adapté aux besoins de ses personnels ;
+
+- le contenu du manuel d'exploitation, y compris l'ensemble des modifications ou révisions permet d'assurer la sécurité des pratiques opérationnelles et la conformité aux dispositions du présent chapitre de cette annexe. Il inclut les précautions mises en évidence par l'étude de sécurité ainsi qu'à toute autre consigne notifiée par les services compétents dans l'intérêt de la sécurité ;
+
+- l'exploitant a mis en place une procédure interne de validation du contenu du manuel d'exploitation.
+
+8.2.3. Déclaration de conformité
+
+Le dirigeant responsable ou son délégataire atteste par écrit de la conformité du manuel d'exploitation à toutes les dispositions du présent chapitre de cette annexe, ainsi qu'à toutes les consignes notifiées par les services compétents.
+
+8.2.4. Dépôt du manuel d'exploitation
+
+Le manuel est déposé auprès des services compétents trente jours avant le début de l'activité.
+
+8.2.5. Amendements et modifications
+
+Toute modification de l'activité ayant une incidence sur le manuel d'exploitation fait l'objet d'un amendement.
+
+L'amendement au manuel d'exploitation est fourni aux services compétents par l'exploitant quinze jours avant la date prévue pour la mise en œuvre de la modification, sauf lorsque la sécurité exige une action immédiate.
+
+L'exploitant révise le manuel en fonction de l'évolution de la réglementation.
+
+Les amendements et modifications sont accompagnés de la déclaration prévue au 8.2.3 signée par le dirigeant responsable ou son délégataire.
+
+8.2.6. Contrôle
+
+Les services compétents peuvent imposer des modifications au manuel s'ils constatent que son contenu n'est pas conforme à la réglementation applicable ou lorsque cela est rendu nécessaire dans l'intérêt de la sécurité.
+
+8.2.7. Utilisation
+
+L'exploitant et son personnel, notamment les équipages de conduite doivent se conformer aux consignes et procédures du manuel d'exploitation pour l'exécution de leurs missions.
+
+8.3. Avions
+
+Les avions utilisés pour effectuer des vols à sensations doivent répondre aux conditions suivantes :
+
+- l'avion est muni d'un titre de navigabilité en état de validité, reconnu par la France ;
+
+- l'avion est exploité conformément aux limites et privilèges associés à ce titre ;
+
+- en complément des équipements requis par le chapitre II de l'annexe au présent arrêté, tout avion utilisé dans le cadre de vols à sensations est équipé d'un dispositif scellé d'enregistrement des facteurs de charge couvrant le domaine de vol de l'appareil ;
+
+- dans le cas d'avions munis de sièges éjectables, l'exploitant en précise les conditions d'entretien et de mise en œuvre.
+
+8.4. Exécution des vols
+
+Le profil du vol est compatible avec le domaine de vol et les limitations spécifiées dans le manuel de vol de l'avion utilisé. Ce profil de vol est décrit dans un programme d'évolutions figurant dans le manuel d'exploitation.
+
+L'exploitant définit en liaison avec les services compétents en charge de la gestion des espaces aériens des zones d'évolution définies dans les plans horizontal et vertical adaptées à son activité.
+
+Sauf accord spécifique des services compétents, les évolutions au-dessus des agglomérations, des rassemblements de personnes ou d'animaux ne sont pas autorisées.
+
+Les évolutions créant des nuisances sonores excessives ne sont pas autorisées.
+
+Toute information utile au déroulement du vol est présente et accessible à bord de l'avion.
+
+8.5. Compétence des personnels navigants
+
+a) Les personnels navigants effectuant des vols à sensations doivent avoir suivi les formations définies par l'exploitant, portées au manuel d'exploitation, pour l'exercice de ces activités. Les pilotes sont titulaires d'une licence comportant les privilèges de la licence de pilote professionnel avion ;
+
+b) Ils doivent avoir reçu une déclaration de niveau de compétence délivrée par une structure désignée par l'exploitant pour assurer cette formation. Cette formation tient compte des enseignements au sol et en vol requis par l'arrêté du 2 juillet 2007 susvisé ;
+
+L'exploitant définit les conditions de maintien de compétences nécessaires pour pratiquer une telle activité. Ces conditions prévoient une vérification en vol des compétences de chaque pilote ; cette vérification est réalisée au moins une fois par an ;
+
+c) L'exploitant est en mesure de justifier à tout instant de la formation initiale de chaque personnel navigant, de la délivrance de la déclaration de niveau de compétence et du maintien de ce niveau de compétence, et archiver les documents correspondants.
+
+8.6. Organismes assurant la formation aux vols à sensations
+
+a) Les organismes assurant la formation aux vols à sensations doivent déposer un dossier de référence conforme à l'annexe II du présent arrêté. Ce dépôt vaut agrément pour assurer la formation qui y est décrite ;
+
+b) Les instructeurs chargés de la formation en vol des personnels navigants aux vols à sensations sont titulaires des qualifications requises pour dispenser l'instruction en vol relative à la licence exigée du personnel navigant en formation ;
+
+c) Le ministre chargé de l'aviation civile peut notifier à l'organisme le retrait de l'agrément obtenu au titre du présent paragraphe, notamment s'il constate :
+
+- que la formation dispensée n'est pas conforme au dossier de référence déposé ;
+
+- que les déclarations de niveau de compétence délivrées ne correspondent pas à la formation objet du dossier de référence déposé ;
+
+- que les personnes auxquelles est délivrée une déclaration de niveau de compétence ne possèdent pas les compétences correspondant à l'objectif de la formation objet du dossier de référence déposé.
