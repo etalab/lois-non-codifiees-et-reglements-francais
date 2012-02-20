@@ -632,7 +632,6 @@
 - [Arrêté du 20 décembre 2007 (BCFD0770855A)](arrete-du-20-decembre-2007-bcfd0770855a)
 - [Arrêté du 20 décembre 2007 (DEVA0773569A)](arrete-du-20-decembre-2007-deva0773569a)
 - [Arrêté du 20 décembre 2007 (MLVU0764137A)](arrete-du-20-decembre-2007-mlvu0764137a)
-- [Arrêté du 20 décembre 2007 (SJSH0773659A)](arrete-du-20-decembre-2007-sjsh0773659a)
 - [Arrêté du 20 décembre 2007 (SJSS0771606A)](arrete-du-20-decembre-2007-sjss0771606a)
 - [Arrêté du 20 février 1974](arrete-du-20-fevrier-1974)
 - [Arrêté du 20 février 2007 (ECOT0614580A)](arrete-du-20-fevrier-2007-ecot0614580a)
