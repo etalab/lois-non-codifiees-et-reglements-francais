@@ -92,7 +92,7 @@ Phendimétrazine
 
 Phenmétrazine
 
-Phentermine, à l'exception des préparations autres qu'injectables
+Phentermine ou α, α-diméthylphényamine
 
 *PMA ou p-méthoxy -méthylphényléthylamine
 

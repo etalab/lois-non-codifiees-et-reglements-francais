@@ -144,8 +144,6 @@ Cette partie comprend les préparations ci-après mentionnées :
 
 - préparations autres qu'injectables renfermant du méfénorex ou ses sels ;
 
-- préparations autres qu'injectables renfermant de la phentermine ou ses sels ;
-
 - préparations injectables renfermant de l'acide gamma-hydroxybutyrique ou ses sels .
 
 **Troisième partie**
