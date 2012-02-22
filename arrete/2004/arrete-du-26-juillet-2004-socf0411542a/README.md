@@ -6,6 +6,5 @@
 - [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
-- [Article Annexe](article-annexe.md)
 - [Article Annexe I](article-annexe-i.md)
 - [Article Annexe II](article-annexe-ii.md)
