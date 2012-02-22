@@ -1,11 +1,9 @@
 # Article 3
 
-Le titre professionnel de technicien(ne) en logistique d'entreposage est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel de technicien(ne) en logistique d'entreposage est composé des deux unités constitutives suivantes :
 
-1. Coordonner et valider les opérations d'arrivages et d'expéditions des produits ;
+1. Coordonner et contrôler les opérations liées aux mouvements des marchandises en entrepôt.
 
-2. Gérer les emplacements et les produits dans l'entrepôt en répondant aux besoins spécifiques du client ;
+2. Organiser l'activité des équipes et la gestion du matériel de la zone d'entreposage.
 
-3. Organiser l'activité des équipes et la gestion du matériel de la zone d'entreposage.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

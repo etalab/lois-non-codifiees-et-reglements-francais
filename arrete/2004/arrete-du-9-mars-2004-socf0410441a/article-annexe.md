@@ -2,69 +2,83 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien (ne) en logistique d'entreposage.
+Intitulé : technicien (ne) en logistique d'entreposage.
 
 Niveau : IV.
 
-Code NSF : 311 p.
+Code NSF : 311 p-Transport, manutention, magasinage
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) en logistique d'entreposage assure le suivi à court terme des opérations de réception, d'expédition et de stockage dans un entrepôt ou sur une zone de stockage dont il (elle) est responsable en organisant le travail des opérateurs (caristes et/ ou préparateurs de commandes...) qui lui sont affectés. Ces opérations se déroulent dans le respect du cadre réglementaire, des procédures qualité et sécurité, des délais et du niveau de service clients visés. Il (elle) veille à garantir le niveau de service requis ainsi que la fiabilité des données du système d'information pour l'ensemble des mouvements concernant son activité.
+Le (la) technicien (ne) en logistique d'entreposage contribue au fonctionnement optimal de l'entrepôt dans le respect des procédures de sécurité, de qualité et de protection de la santé au travail.
 
-Il (elle) organise l'activité en fonction de la charge de travail du moment, des moyens humains et matériels dont il (elle) dispose, tout en veillant au respect des procédures et des cahiers des charges clients ou donneurs d'ordres. Confronté (e) en permanence aux aléas et imprévus, il (elle) gère les urgences et définit les priorités.
+Il (elle) organise, coordonne et contrôle au quotidien la réception, le stockage, la préparation et l'expédition des marchandises dans la zone d'entreposage dont il (elle) a la charge. Il (elle) lisse l'activité en fonction des ressources humaines et matérielles mises à sa disposition. Il (elle) encadre une équipe d'opérateurs : manutentionnaires, caristes, préparateurs de commandes, et toute personne nécessaire à la production de la commande. Il (elle) répartit les tâches, affecte les matériels, s'assure de la disponibilité et de l'état des zones de stockage, des matériels d'emballage, des engins de manutention, des outils informatiques, des équipements de protection individuelle. Il (elle) affecte les emplacements aux produits, assure le suivi des stocks et veille à la conservation des marchandises. Il (elle) participe au suivi des indicateurs de production et de qualité. Régulièrement, il (elle) rend compte de son activité à son supérieur hiérarchique. En relation fréquente avec les clients, les fournisseurs, les prestataires de services et les services internes de l'entreprise, il (elle) peut être amené (e) à utiliser la langue anglaise.
 
-Relais d'informations, il (elle) est en relation permanente avec les interlocuteurs externes (clients, fournisseurs, prestataires de service) et les services internes de son entreprise. Ces échanges peuvent s'effectuer en anglais avec les interlocuteurs étrangers.
+Le (la) technicien (ne) en logistique d'entreposage prend en compte au quotidien les éléments de la responsabilité sociale des entreprises (RSE) et de développement durable liés au contexte de son activité : il (elle) s'assure de la protection de la santé des personnes, de la sécurité des marchandises et des matériels, de la propreté des zones de travail et de stockage, de l'utilisation rationnelle des outils de travail.
 
-Il (elle) est placé (e) sous la responsabilité d'un supérieur hiérarchique qui définit les objectifs de production, de qualité et de service clients. Il (elle) peut être amené (e) à prendre des responsabilités sur délégation de son supérieur, notamment lors de prises de service hors des heures habituelles.
+Le (la) technicien (ne) en logistique d'entreposage exerce son activité dans des entrepôts, dédiés ou prestataires de services, les dépôts de stockage d'entreprises de production, ou des plates-formes de distribution. Le port d'équipements de protection est requis. Il (elle) peut être amené (e) à participer aux tâches de manutention.
 
-Il (elle) exerce son activité dans des entrepôts, dédiés ou prestataires de service, des dépôts de stockage d'entreprise de production, ou des plates-formes de distribution.
+Il (elle) travaille sous la responsabilité d'un (e) responsable d'exploitation ou d'un (une) chef de dépôt, qui définit des objectifs de production, de qualité et de service client. Dans la limite de ses responsabilités et dans le cadre des règlementations et des procédures internes à l'entreprise, il (elle) est autonome dans l'organisation de son activité.
+
+Les conditions d'exercice de l'emploi et l'environnement du travail sont impactés par le mode d'organisation de l'entrepôt et son système d'information, le degré d'automatisation du site, la nature de marchandises, le cadre réglementaire et contractuel. Les horaires peuvent être décalés ou postés. Des astreintes sont possibles.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Coordonner et valider les opérations d'arrivage et d'expédition des produits
+1. Coordonner et contrôler les opérations liées aux mouvements des marchandises en entrepôt
 
-Réguler les activités de réception, d'expédition, de chargement, de déchargement, éventuellement en anglais avec les interlocuteurs étrangers, en fonction des aléas et du niveau de service visé.
+Réguler les activités liées aux flux d'entrée et sortie de marchandises en entrepôt.
 
-Valider les documents de transport nationaux et internationaux, y compris en anglais, ainsi que les données relatives aux opérations dans le système d'information.
+Renseigner et valider les documents de transport, le cas échéant en anglais.
 
-Gérer les non-conformités, contractuelles et autres, en anglais le cas échéant, dans les opérations de réception et d'expédition.
+Traiter les non-conformités liées aux flux d'entrée et de sortie de marchandises en entrepôt, le cas échéant en anglais.
 
-Animer une équipe d'opérateurs dans un contexte marqué par les aléas.
+Organiser les zones d'entreposage.
 
-2. Gérer les emplacements et les produits dans l'entrepôt en répondant aux besoins spécifiques du client
+Coordonner les inventaires des produits en stock.
 
-Affecter les moyens aux mouvements des produits selon les règles d'entreposage et les différentes contraintes, éventuellement exprimées en anglais.
+2. Organiser l'activité des équipes et la gestion du matériel de la zone d'entreposage
 
-Organiser les inventaires et des contrôles spécifiques, identifier et traiter les écarts, communiquer les résultats, en anglais le cas échéant.
+Etablir le planning d'activité des opérateurs en entrepôt.
 
-Rendre compte des problèmes rencontrés, éventuellement en anglais, et proposer des solutions d'amélioration.
+Suivre les ratios de production en entrepôt.
 
-Suivre les ratios de production liés aux opérations de stockage, de déstockage et de manutention.
+Animer une équipe d'opérateurs en entrepôt.
 
-3. Organiser l'activité des équipes et la gestion du matériel de la zone d'entreposage
+Organiser l'entretien de la zone de stockage, du parc de matériel et des outils de travail.
 
-Organiser le programme d'activité de l'équipe dans le respect des procédures de travail et en fonction du niveau de service souhaité par les clients.
+Compétences transversales de l'emploi
 
-Mettre en oeuvre et faire respecter les procédures de travail, les règles de qualité et de sécurité.
+(le cas échéant)
 
-Gérer l'entretien de la zone de stockage, du parc de matériel et des outils de travail.
+Mettre en œuvre et faire respecter les règles de qualité et de sécurité.
 
-Rédiger un rapport d'activité et des modes opératoires à l'aide d'un outil bureautique.
+Rendre compte de l'activité, des problèmes rencontrés et proposer des solutions d'amélioration.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Secteurs d'activité ou types d'emploi accessibles par le détenteur du titre
 
-Tout secteur industriel ou commercial comportant une activité de stockage, notamment les entrepôts, dédiés ou prestataires de service, les dépôts de stockage d'entreprises de production ou des plates-formes de distribution.
+Les différents secteurs d'activité concernés sont principalement :
+
+Tout secteur ou service commercial ou industriel comportant une activité de stockage, notamment les entrepôts, dédiés ou prestataires de services, les dépôts d'entreprise de production ou des plates-formes de distribution.
+
+Les types d'emploi accessibles sont les suivants :
+
+-chef d'équipe d'entrepôt ;
+
+-responsable d'exploitation entreposage ;
+
+-responsable réceptions ;
+
+-responsable expéditions ;
+
+-responsable préparations ;
+
+-responsable ou gestionnaire des stocks ou des produits finis ;
+
+-chef de quai logistique.
 
 Code ROME :
 
-Néant.
-
-Réglementation de l'activité :
-
-Néant.
+N1303-Intervention technique d'exploitation logistique.
 
 Autorité responsable de la certification :
 
@@ -72,6 +86,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 21 avril 2012.
