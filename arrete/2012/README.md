@@ -269,7 +269,6 @@
 - [Arrêté du 19 août 2011 (ETSP1123269A)](arrete-du-19-aout-2011-etsp1123269a)
 - [Arrêté du 19 août 2011 (ETSP1123271A)](arrete-du-19-aout-2011-etsp1123271a)
 - [Arrêté du 19 décembre 2011 (AGRE1132019A)](arrete-du-19-decembre-2011-agre1132019a)
-- [Arrêté du 19 décembre 2011 (AGRT1133500A)](arrete-du-19-decembre-2011-agrt1133500a)
 - [Arrêté du 19 décembre 2011 (AGRT1133515A)](arrete-du-19-decembre-2011-agrt1133515a)
 - [Arrêté du 19 décembre 2011 (DEVA1132664A)](arrete-du-19-decembre-2011-deva1132664a)
 - [Arrêté du 19 décembre 2011 (DEVL1132666A)](arrete-du-19-decembre-2011-devl1132666a)
