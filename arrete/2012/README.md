@@ -90,6 +90,7 @@
 - [Arrêté du 7 février 2012 (JUSB1203248A)](arrete-du-7-fevrier-2012-jusb1203248a)
 - [Arrêté du 7 juillet 2004 (EQUP0400818A)](arrete-du-7-juillet-2004-equp0400818a)
 - [Arrêté du 7 juin 2011 (DEVC1115639A)](arrete-du-7-juin-2011-devc1115639a)
+- [Arrêté du 8 décembre 2008 (DEVA0828775A)](arrete-du-8-decembre-2008-deva0828775a)
 - [Arrêté du 8 décembre 2011 (DEVP1132167A)](arrete-du-8-decembre-2011-devp1132167a)
 - [Arrêté du 8 décembre 2011 (ETSP1131802A)](arrete-du-8-decembre-2011-etsp1131802a)
 - [Arrêté du 8 février 2012 (DEVA1203233A)](arrete-du-8-fevrier-2012-deva1203233a)
