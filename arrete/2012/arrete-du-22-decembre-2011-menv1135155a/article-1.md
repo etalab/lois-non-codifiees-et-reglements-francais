@@ -34,4 +34,6 @@ Fédération nationale familles rurales, (FNAFR), 7, cité d'Antin, 75009 Paris 
 
 Union nationale des centres sportifs de plein air (UCPA), 95, rue Villon, 69008 Lyon ;
 
-Centre d'entraînement aux méthodes d'éducation active (CEMEA), 24, rue Marc-Seguin, 75883 Paris Cedex 18.
+Centre d'entraînement aux méthodes d'éducation active (CEMEA), 24, rue Marc-Seguin, 75883 Paris Cedex 18 ;
+
+Pionniers de France - Enjeu, 23, rue de l'Union, 93300 Aubervilliers.
