@@ -1,197 +1,33 @@
 # Article Annexe
 
-CONDITIONS D'ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE AUX MILITAIRES EN SERVICE AU MINISTERE DE L'EQUIPEMENT, DU LOGEMENT, DES TRANSPORTS ET DU TOURISME
+Conditions d'attribution de la nouvelle bonification indiciaire aux militaires en service au ministère de la mer
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION </p>
-<p align="center">DE LA FONCTION</p>
+<p align="center">DÉSIGNATION DE LA FONCTION</p>
 </td>
 <td>
-<p align="center">NIVEAU </p>
-<p align="center">de </p>
-<p align="center">responsabilité</p>
+<p align="center">NIVEAU de responsabilité</p>
 </td>
-<td colspan="5">
-<p align="center">NOMBRE D'EMPLOIS</p>
+<td>
+<p align="center">NOMBRE d'emplois</p>
 </td>
-<td colspan="5">
-<p align="center">NOMBRE DE POINTS PAR EMPLOI</p>
+<td>
+<p align="center">NOMBRE </p>
+<p align="center">de point par emploi</p>
 </td>
 </tr>
 <tr>
 <td>
-<pre> </pre>
+<p>Coordinateur de mission de sauvetage dans un centre régional opérationnel de surveillance et de sauvetage</p>
 </td>
 <td>
-<pre> </pre>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1991</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1992</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1993</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1994</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1995</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1991</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1992</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1993</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1994</p>
-</td>
-<td>
-<p align="center">A/C du </p>
-<br/>
-<p align="center">1er août 1995</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Coordonnateur de mission de surveillance et sauvetage dans un centre régional opérationnel de surveillance et de sauvetage</p>
-</td>
-<td>
-<p align="center">Officier</p>
+<p>Officier</p>
 </td>
 <td>
 <p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">33</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Spécialiste en informatique générale dans une unité spécialisée dans le traitement de l'information</p>
-</td>
-<td>
-<p align="center">Officier</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">8</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Responsable de gestion et administration du personnel à l'échelon central</p>
-</td>
-<td>
-<p align="center">Officier </p>
-<br/>
-<p align="center">mari </p>
-<br/>
-<p align="center">-nier</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">-</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
-</td>
-<td>
-<p align="center">20</p>
 </td>
 <td>
 <p align="center">20</p>
@@ -202,82 +38,26 @@ CONDITIONS D'ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE AUX MILITAIRES E
 <p>Adjoint gestion et administration du personnel à l'échelon central</p>
 </td>
 <td>
-<p align="center">Officier </p>
-<br/>
-<p align="center">mari- </p>
-<br/>
-<p align="center">nier</p>
+<p>Officier marinier</p>
 </td>
 <td>
 <p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
-</td>
-<td>
-<p align="center">10</p>
 </td>
 <td>
 <p align="center">10</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td>
 <p>Chef de quart sauvetage dans un centre régional opérationnel de surveillance et de sauvetage</p>
 </td>
-<td rowspan="2">
-<p align="center">Officier </p>
-<br/>
-<p align="center">mari- </p>
-<br/>
-<p align="center">nier</p>
+<td>
+<p>Officier marinier</p>
 </td>
-<td rowspan="2">
-<p align="center">-</p>
+<td>
+<p align="center">52</p>
 </td>
-<td rowspan="2">
-<p align="center">-</p>
-</td>
-<td rowspan="2">
-<p align="center">18</p>
-</td>
-<td rowspan="2">
-<p align="center">30</p>
-</td>
-<td rowspan="2">
-<p align="center">30</p>
-</td>
-<td rowspan="2">
-<p align="center">-</p>
-</td>
-<td rowspan="2">
-<p align="center">-</p>
-</td>
-<td rowspan="2">
-<p align="center">10</p>
-</td>
-<td rowspan="2">
-<p align="center">10</p>
-</td>
-<td rowspan="2">
+<td>
 <p align="center">10</p>
 </td>
 </tr>
