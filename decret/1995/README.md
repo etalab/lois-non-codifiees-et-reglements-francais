@@ -584,7 +584,6 @@
 - [Décret n°95-175 du 20 février 1995 (TEFF9500115D)](decret-n95-175-du-20-fevrier-1995-teff9500115d)
 - [Décret n°95-178 du 20 février 1995 (FPPA9500024D)](decret-n95-178-du-20-fevrier-1995-fppa9500024d)
 - [Décret n°95-183 du 20 février 1995 (DOMP9500003D)](decret-n95-183-du-20-fevrier-1995-domp9500003d)
-- [Décret n°95-188 du 20 février 1995 (DEFD9402089D)](decret-n95-188-du-20-fevrier-1995-defd9402089d)
 - [Décret n°95-189 du 20 février 1995 (DEFP9501053D)](decret-n95-189-du-20-fevrier-1995-defp9501053d)
 - [Décret n°95-194 du 20 février 1995 (ACVP9420066D)](decret-n95-194-du-20-fevrier-1995-acvp9420066d)
 - [Décret n°95-309 du 20 mars 1995 (BUDZ9500003D)](decret-n95-309-du-20-mars-1995-budz9500003d)
