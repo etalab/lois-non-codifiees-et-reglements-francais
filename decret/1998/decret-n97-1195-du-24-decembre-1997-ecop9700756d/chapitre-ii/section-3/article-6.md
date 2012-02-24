@@ -4,7 +4,7 @@ Sont prises par les directeurs régionaux des douanes et droits indirects, dans 
 
 1° Visa et régularisation des bordereaux de vente à l'exportation, en application de l'article 262 du code général des impôts (CGI) ;
 
-2° à 4° : alinéas supprimés
+2° à 4° : alinéas supprimés;
 
 5° Décisions de sanctions en matière d'entrepôts fiscaux, prévues par l'article 1788 octies du CGI ;
 
@@ -12,4 +12,6 @@ Sont prises par les directeurs régionaux des douanes et droits indirects, dans 
 
 7° Dérogation au système d'indication des ventes effectuées hors taxe, prévue par l'article 75 E de l'annexe III au CGI ;
 
-8° Les décisions relatives aux demandes de la dispense prévue au paragraphe 1 bis de l'article 114 du code des douanes et au paragraphe 3 de l'article 120 du même code.
+8° Les décisions relatives aux demandes de la dispense prévue au paragraphe 1 bis de l'article 114 du code des douanes et au paragraphe 3 de l'article 120 du même code ;
+
+9° Décisions habilitant les professionnels mentionnés à l'article 275 bis B de l'annexe II au code général des impôts et les organismes de contrôle mentionnés à l'article 275 ter de l'annexe II à ce même code à attester la garantie du titre des ouvrages en métaux précieux.
