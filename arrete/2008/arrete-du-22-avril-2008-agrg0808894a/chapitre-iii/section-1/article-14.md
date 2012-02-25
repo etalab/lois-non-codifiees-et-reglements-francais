@@ -12,7 +12,7 @@ a) Après un avortement associé à l'obtention de résultats positifs individue
 
 b) Après obtention de résultats positifs en ECA ;
 
-c) Après obtention de deux résultats sérologiques positifs obtenus à partir d'échantillons prélevés à intervalle de soixante jours au plus.
+c) Après obtention de deux résultats positifs obtenus suite à deux contrôles sérologiques à partir d'échantillons prélevés à intervalle de soixante jours au plus.
 
 2° Infecté de brucellose dans les cas suivants :
 
@@ -26,7 +26,7 @@ c) Dans des conditions prévues par instruction du ministre chargé de l'agricul
 
 4° De statut en cours de confirmation vis-à-vis de la brucellose lorsqu'il est non indemne et qu'il ne répond pas à la définition de boviné suspect, infecté ou contaminé. Le boviné peut alors se trouver dans un des cas suivants :
 
-a) Il a présenté un résultat sérologique non négatif ;
+a) Il a présenté un résultat non favorable suite à un contrôle sérologique ;
 
 b) Il a avorté ;
 

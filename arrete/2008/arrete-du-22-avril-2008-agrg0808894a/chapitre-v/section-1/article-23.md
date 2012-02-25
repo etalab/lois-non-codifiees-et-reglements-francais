@@ -8,11 +8,11 @@ I. ― L'APMS prescrit les mesures suivantes :
 
 2° Isolement et séquestration de tous les bovinés du troupeau reconnu suspect ;
 
-3° Interdiction de laisser entrer dans l'exploitation des bovinés ou des animaux d'autres espèces sensibles, sauf dérogation accordée par le directeur départemental des services vétérinaires ;
+3° Interdiction de laisser entrer dans l'exploitation des bovinés ou des animaux d'autres espèces sensibles, sauf dérogation accordée par le    directeur départemental en charge de la protection des populations ;
 
-4° Interdiction de laisser sortir de l'exploitation des bovinés ou des animaux d'autres espèces sensibles, sauf dérogation accordée par le directeur départemental des services vétérinaires. La sortie de l'exploitation des bovinés est autorisée dans les conditions prévues à l'article 28 ;
+4° Interdiction de laisser sortir de l'exploitation des bovinés ou des animaux d'autres espèces sensibles, sauf dérogation accordée par le    directeur départemental en charge de la protection des populations. La sortie de l'exploitation des bovinés est autorisée dans les conditions prévues à l'article 28 ;
 
-5° Mise en œuvre de toutes les investigations épidémiologiques, contrôles documentaires, analyses de laboratoires et/ou contrôles allergiques de tout ou partie des bovinés et des animaux d'autres espèces sensibles détenus dans l'exploitation et contrôles des pratiques d'élevage utiles à la détermination du statut sanitaire du troupeau. Le directeur départemental des services vétérinaires peut en outre ordonner l'abattage diagnostique d'animaux ainsi que l'autopsie d'animaux morts ou euthanasiés à des fins d'analyse de laboratoire ;
+5° Mise en œuvre de toutes les investigations épidémiologiques, contrôles documentaires, analyses de laboratoires et/ ou contrôles allergiques de tout ou partie des bovinés et des animaux d'autres espèces sensibles détenus dans l'exploitation et contrôles des pratiques d'élevage utiles à la détermination du statut sanitaire du troupeau. Le    directeur départemental en charge de la protection des populations peut en outre ordonner l'abattage diagnostique d'animaux ainsi que l'autopsie d'animaux morts ou euthanasiés à des fins d'analyse de laboratoire ;
 
 6° Conformément au point I du chapitre Ier de la section IX de l'annexe III du règlement 853/2004 susvisé :
 
@@ -22,4 +22,4 @@ I. ― L'APMS prescrit les mesures suivantes :
 
 Par ailleurs, il est interdit de livrer pour la consommation humaine en l'état les produits au lait cru fabriqués avec le lait du troupeau obtenu avant la suspension de qualification s'ils n'ont pas atteint une durée minimale de maturation de soixante jours.
 
-II. - Un troupeau recouvre sa qualification officiellement indemne et les mesures définies au point I sont levées si les résultats des investigations et analyses prévues au point 5° du I sont considérés comme favorables par le directeur départemental des services vétérinaires.
+II.-Un troupeau recouvre sa qualification officiellement indemne et les mesures définies au point I sont levées si les résultats des investigations et analyses prévues au point 5° du I sont considérés comme favorables par le    directeur départemental en charge de la protection des populations.

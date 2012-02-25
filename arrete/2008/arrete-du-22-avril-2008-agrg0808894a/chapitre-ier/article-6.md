@@ -1,6 +1,6 @@
 # Article 6
 
-Le préfet, sur proposition du directeur départemental des services vétérinaires et après avis de la commission visée à l'article R. 224-5 du code rural et de la pêche maritime (conseil départemental de la santé et de la protection animales) et accord du directeur général de l'alimentation, peut prendre toutes dispositions complémentaires aux mesures définies dans le présent arrêté afin de rendre plus efficiente la protection des élevages et de la santé publique à l'égard de la brucellose.
+Le préfet, sur proposition du    directeur départemental en charge de la protection des populations et après avis de la commission visée à l'article R. 224-5 du code rural et de la pêche maritime (conseil départemental de la santé et de la protection animales) et accord du directeur général de l'alimentation, peut prendre toutes dispositions complémentaires aux mesures définies dans le présent arrêté afin de rendre plus efficiente la protection des élevages et de la santé publique à l'égard de la brucellose.
 
 Il peut prescrire notamment des mesures renforcées de surveillance vis-à-vis des troupeaux de bovinés bénéficiant de la qualification officiellement indemne de brucellose conformément à l'article 15 et présentant les caractéristiques suivantes :
 
@@ -16,6 +16,6 @@ Il peut prescrire notamment des mesures renforcées de surveillance vis-à-vis d
 
 ― troupeaux pour lesquels un lien épidémiologique a été constaté avec un foyer confirmé de brucellose dans la faune sauvage ;
 
-― troupeaux pour lesquels il est établi que des dispositions réglementaires relatives à l'identification et / ou à la circulation des animaux et / ou aux conditions de maintien de la qualification officiellement indemne de brucellose n'ont pas été respectées ;
+― troupeaux pour lesquels il est établi que des dispositions réglementaires relatives à l'identification et/ ou à la circulation des animaux et/ ou aux conditions de maintien de la qualification officiellement indemne de brucellose n'ont pas été respectées ;
 
-― troupeaux pour lesquels le directeur départemental des services vétérinaires a constaté un défaut important de maîtrise des risques sanitaires suite à la visite sanitaire bovine telle que prévue par l'arrêté du 28 décembre 2007 susvisé.
+― troupeaux pour lesquels le    directeur départemental en charge de la protection des populations a constaté un défaut important de maîtrise des risques sanitaires suite à la visite sanitaire bovine telle que prévue par l'arrêté du 28 décembre 2007 susvisé.
