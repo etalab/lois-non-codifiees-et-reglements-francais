@@ -2,7 +2,7 @@
 
 Les épreuves orales sont publiques. Elles ont lieu en principe à Paris et comprennent :
 
-― un entretien avec le jury portant sur un sujet permettant d'apprécier les connaissances générales du candidat, ses qualités de jugement et d'expression ainsi que sa motivation. Il débute par un exposé sur un sujet tiré au sort se rapportant à l'évolution générale des idées et des faits politiques, économiques et sociaux depuis 1945 (préparation : 30 minutes ; durée : 30 minutes ; coefficient 8) ;
+- un entretien avec le jury (préparation : trente minutes ; durée : trente minutes ; coefficient 8) permettant d'apprécier les connaissances générales, le parcours, la motivation, les qualités de jugement, d'expression et les aptitudes personnelles du candidat. Il comprend un exposé sur un sujet tiré au sort se rapportant à l'évolution générale des idées et des faits politiques, économiques et sociaux depuis 1945 et un dialogue avec le jury ;
 
 ― une interrogation menée par le jury portant sur le droit privé, le droit public, les sciences économiques ou les sciences et techniques de gestion selon l'option choisie par le candidat lors de son inscription et sur le même programme qu'à l'écrit (préparation : 30 minutes ; durée : 20 minutes ; coefficient 8) ;
 
