@@ -2023,7 +2023,6 @@
 - [Arrêté du 23 mars 2009 (DEVK0908526A)](arrete-du-23-mars-2009-devk0908526a)
 - [Arrêté du 23 mars 2009 (DEVS0906197A)](arrete-du-23-mars-2009-devs0906197a)
 - [Arrêté du 23 mars 2009 (ECEA0906391A)](arrete-du-23-mars-2009-ecea0906391a)
-- [Arrêté du 23 mars 2009 (IMIK0905960A)](arrete-du-23-mars-2009-imik0905960a)
 - [Arrêté du 23 mars 2009 (JUSB0906134A)](arrete-du-23-mars-2009-jusb0906134a)
 - [Arrêté du 23 mars 2009 (JUSC0904759A)](arrete-du-23-mars-2009-jusc0904759a)
 - [Arrêté du 23 mars 2009 (SASA0909879A)](arrete-du-23-mars-2009-sasa0909879a)
