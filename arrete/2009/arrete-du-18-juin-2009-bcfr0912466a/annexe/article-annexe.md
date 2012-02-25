@@ -347,6 +347,12 @@ CLASSEMENT DES DIRECTIONS RÉGIONALES ET DÉPARTEMENTALES DES FINANCES PUBLIQUES
 <td align="center">Guyane<br/>
 </td>
 </tr>
+<tr>
+<td/>
+<td>
+<p align="center"> Mayotte</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
