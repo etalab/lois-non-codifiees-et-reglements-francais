@@ -5,7 +5,6 @@
 - [Décret n°89-359 du 1 juin 1989 (SPSA8800095D)](decret-n89-359-du-1-juin-1989-spsa8800095d)
 - [Décret n°89-611 du 1 septembre 1989 (SPSH8901731D)](decret-n89-611-du-1-septembre-1989-spsh8901731d)
 - [Décret n°89-617 du 1 septembre 1989 (BUDR8904040D)](decret-n89-617-du-1-septembre-1989-budr8904040d)
-- [Décret n°89-697 du 1 septembre 1989 (SPSP8901158D)](decret-n89-697-du-1-septembre-1989-spsp8901158d)
 - [Décret n°89-20 du 2 janvier 1989 (BUDB8820023D)](decret-n89-20-du-2-janvier-1989-budb8820023d)
 - [Décret n°89-351 du 2 juin 1989 (ECOA8900038D)](decret-n89-351-du-2-juin-1989-ecoa8900038d)
 - [Décret n°89-362 du 2 juin 1989 (MAEJ8930052D)](decret-n89-362-du-2-juin-1989-maej8930052d)
