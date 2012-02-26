@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel de poseur installateur de menuiseries, fermetures et équipements est composé des trois unités constitutives dont la liste suit :
+Le titre professionnel de poseur-installateur de menuiseries, fermetures et équipements est composé des trois unités constitutives dont la liste suit :
 
-1. Poser des fenêtres et des portes extérieures.
+1. Poser des menuiseries extérieures et des bardages.
 
-2. Poser des portes de garage, des volets et des stores.
+2. Poser des fermetures extérieures et des protections solaires.
 
-3. Poser des portails, des éléments de type clôtures, garde-corps et terrasses en bois.
+3. Poser des éléments de protection, de sécurité et d'aménagement extérieur.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

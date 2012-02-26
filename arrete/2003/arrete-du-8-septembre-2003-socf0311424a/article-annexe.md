@@ -8,70 +8,100 @@ Titre professionnel : poseur installateur de menuiseries, fermetures et équipem
 
 Niveau : V.
 
-Code NSF : 234 s.
+Code NSF : 234 s-Travail du bois et de l'ameublement.
 
 Résumé du référentiel d'emploi
 
-Le poseur installateur de menuiseries, fermetures et équipements prépare et pose toutes les fermetures en bois, PVC, aluminium et acier (fenêtres, portes-fenêtres, baies coulissantes, fenêtres de toit et portes d'entrées) destinées à assurer une protection thermique, acoustique et anti-intrusion des constructions. Il réalise l'étanchéité à l'air et à l'eau entre les menuiseries posées et les supports du gros oeuvre, avec un niveau de performance conforme à la réglementation thermique en vigueur. Il installe les éléments d'équipements tels que volets et stores d'occultation divers, grilles, garde-corps, portes de garage, clôtures et portails, ainsi que les automatismes qui commandent les fermetures. Il peut aussi être amené à prendre en charge l'entretien, la réparation ou le remplacement des ouvrages posés ainsi que leur système de fermeture. Il réalise l'aménagement de terrasses en bois, pose des brise-vent, brise-vue, pergolas et peut également prendre en charge l'entretien des ouvrages posés ainsi que leur système de fermeture.
+A partir de plans de pose, de consignes orales de son chef d'équipe, le poseur installateur de menuiseries fermetures et équipements participe à la réception des supports, à la mise en sécurité du chantier, à son approvisionnement, à l'implantation des ouvrages, à la mise en œuvre des produits et des étanchéités, conformément aux normes et DTU. En fin de chantier, il protège les ouvrages, démonte les équipements de sécurité, nettoie le chantier et évacue les déchets dans le respect des règles de l'environnement. Il peut aussi prendre en charge l'entretien, la réparation ou le remplacement des ouvrages posés. Il peut être amené à travailler en site occupé.
 
-En fonction de l'importance du chantier, de l'organisation et de la taille de l'entreprise, le poseur peut être amené à travailler seul ou en équipe restreinte. Son activité implique des déplacements fréquents dans un rayon d'action plus ou moins important selon le type d'entreprise. Les horaires sont relativement réguliers mais les impératifs de délais peuvent occasionner des dépassements.
+L'emploi s'exerce le plus souvent sur des chantiers de construction concernant l'habitat individuel et collectif qu'il soit neuf ou ancien et les bâtiments publics. Il implique la manipulation de charges lourdes et encombrantes avec des stations de travail de tous types (debout, accroupie, à genoux).
 
-La station de travail est principalement debout. L'activité comporte le port de charges lourdes et encombrantes et nécessite en conséquence de respecter strictement les règles de sécurité. Le poseur exécute les travaux courants de sa spécialité, à partir de directives générales et sous contrôle ponctuel. Il dispose d'une certaine initiative dans le choix des moyens lui permettant d'accomplir ces travaux.
+Le poseur installateur de menuiseries fermetures et équipements met en œuvre des produits de types : fenêtres, bardages, volets, portails, motorisations, terrasses en bois, etc.
 
-Capacités attestées et descriptif des composantes de la certification
+Il réalise l'ensemble des activités dans le respect des règles de sécurité individuelles et collectives correspondant au plan particulier de sécurité et de protection de la santé (PPSPS) des chantiers.
 
-1. Poser des fenêtres et des portes extérieures
+Il utilise régulièrement du matériel électroportatif et en assure le premier niveau de maintenance. Les conditions d'exercice s'accompagnent de changements de chantier fréquents amenant à des déplacements réguliers. Les horaires sont relativement réguliers mais les impératifs de délais peuvent occasionner des dépassements.
 
-Poser des fenêtres et des portes extérieures en applique.
+Capacités attestées et descriptif
 
-Remplacer des fenêtres en rénovation partielle.
+des composantes de la certification
 
-Poser des fenêtres en tunnel.
+1. Poser des menuiseries extérieures et des bardages
 
-Poser des fenêtres et des portes extérieures en feuillure.
+Installer des fenêtres et des portes extérieures en applique, en feuillure ou en tunnel.
 
-Poser des fenêtres de toit.
+Poser des bardages extérieurs.
 
-2. Poser des portes de garage, des volets et des stores
+2. Poser des fermetures extérieures et des protections solaires
 
-Poser des volets battants.
+Poser des volets battants et roulants manuels ou motorisés.
 
-Poser des volets roulants.
+Installer des portes de garage manuelles ou motorisées.
 
-Poser des portes de garage.
+Installer des stores d'occultation et de protection solaire manuels ou motorisés.
 
-Poser des stores d'occultation et de protection solaire.
+Installer des portails battants et coulissants manuels ou motorisés.
 
-3. Poser des portails, des éléments de type clôtures, garde-corps et terrasses en bois
+3. Poser des éléments de protection, de sécurité
 
-Poser des portails et installer leur motorisation.
+et d'aménagement extérieur
 
 Poser des éléments de type clôtures, garde-corps et grilles de défense.
 
-Poser des éléments de terrasses en bois.
+Poser des terrasses en bois.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Secteurs d'activités ou types d'emploi accessibles
 
-Les grandes, moyennes et petites entreprises de menuiserie.
+par le détenteur du titre
 
-Les sociétés d'intérim.
+Les différents secteurs d'activités concernés sont principalement :
 
-Les grandes et moyennes entreprises commerciales, soit comme salarié soit comme poseur indépendant.
+-les entreprises de menuiserie ;
+
+-les sociétés d'intérim ;
+
+-les grandes et moyennes entreprises commerciales, soit comme salariés soit comme poseur indépendant.
+
+Type d'emplois accessibles :
+
+-menuisier de chantier ;
+
+-menuisier poseur ;
+
+-installateur de menuiseries ;
+
+-installateur de fermetures ;
+
+-installateur de portails et clôtures ;
+
+-storiste ;
+
+-métallier poseur ;
+
+-miroitier ;
+
+-serrurier.
 
 Code ROME :
 
-42221 - Poseur/poseuse de fermetures menuisées.
+F 1607-Pose de fermetures menuisées.
 
 Réglementation de l'activité :
 
-Habilitation électrique pour l'installation de motorisation (portail, volet roulant, etc.).
+Décret n° 2004-924 du 1er septembre 2004 relatif au travail en hauteur.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi.
+Ministère du travail, de l'emploi et de la santé.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
