@@ -1,57 +1,57 @@
 # Article 3 bis
 
-Les titulaires du titre professionnel visé à l'arrêté du 26 juillet 2004 sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de technicien supérieur topographe, option cabinet de géomètre, option entreprise de travaux publics selon le tableau de correspondance figurant ci-dessous :
+Les titulaires de certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté sont réputés avoir obtenu les certificats de compétences professionnelle du titre professionnel de technicien supérieur géomètre topographe, option cabinet de géomètre, option entreprise de travaux publics, selon le tableau de correspondance figurant ci-dessous :
 
 <table>
 <tbody>
 <tr>
 <td width="321">
-<p align="center">TECHNICIEN(NE) SUPÉRIEUR(E)<br/>topographe,<br/>option cabinet de géomètre,<br/>option entreprise de travaux publics<br/>(arrêté du 26 juillet 2004)</p>
+<p align="center">TECHNICIEN SUPÉRIEUR GÉOMÈTRE TOPOGRAPHE,<br/>option cabinet de géomètre, option entreprise de travaux publics<br/>(arrêté du 26 juillet 2004 modifié)</p>
 </td>
 <td width="321">
-<p align="center">TECHNICIEN(NE) SUPÉRIEUR(E)<br/>topographe,<br/>option cabinet de géomètre,<br/>option entreprise de travaux publics<br/>(nouvel arrêté)</p>
+<p align="center">TECHNICIEN SUPÉRIEUR GÉOMÈTRE TOPOGRAPHE,<br/>option cabinet de géomètre, option entreprise de travaux publics<br/>(présent arrêté)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Réaliser des levés topométriques et topographiques.</p>
+<p>Réaliser des levés et des plans topographiques </p>
 </td>
 <td valign="top" width="321">
-<p>Réaliser des levés et des plans topographiques.</p>
+<p>Réaliser des levés et des plans topographiques </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Réaliser des levés topométriques et topographiques.</p>
+<p>Réaliser des implantations et des études d'infrastructures </p>
 </td>
-<td rowspan="2" width="321">
-<p>Réaliser des implantations et des études d'infrastructures. </p>
+<td valign="top" width="321">
+<p>Réaliser des implantations et des études d'infrastructures </p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="643">
+<p align="center">Option cabinet de géomètre</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Procéder à des implantations et des réceptions d'ouvrages.</p>
+<p>Réaliser des études foncières et établir des documents d'architecture </p>
+</td>
+<td valign="top" width="321">
+<p>Réaliser des études foncières et établir des documents d'architecture </p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="643">
+<p align="center">Option entreprise de travaux publics</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Pour l'option cabinet de géomètre :<br/>Réaliser des études et des projets fonciers.</p>
+<p>Participer à l'organisation et au suivi de production d'un chantier de travaux publics </p>
 </td>
-<td rowspan="2" width="321">
-<p>Réaliser des études foncières et établir des documents d'architecture.</p>
-</td>
-</tr>
-<tr>
 <td valign="top" width="321">
-<p>Etablir des plans d'architecture, de copropriétés, de divisions volumétriques.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="321">
-<p>Pour l'option entreprise de travaux publics :<br/>Participer à l'organisation et au suivi de production d'un chantier de travaux publics.</p>
-</td>
-<td valign="bottom" width="321">
-<p>Participer à l'organisation et au suivi de production d'un chantier de travaux publics.</p>
+<p>Réaliser les opérations topographiques spécifiques et des études en entreprise de travaux publics </p>
 </td>
 </tr>
 </tbody>

@@ -4,7 +4,7 @@
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) géomètre topographe, option cabinet de géomètre, option entreprise de travaux publics.
+Titre professionnel : technicien supérieur géomètre topographe, option cabinet de géomètre, option entreprise de travaux publics.
 
 Niveau : III.
 
@@ -12,11 +12,13 @@ Code NSF : 231 n.
 
 Résumé du référentiel d'emploi
 
-Le technicien supérieur géomètre topographe établit des plans et cartes à toutes les échelles, à partir de relevés qu'il effectue sur le terrain. Ces plans représentent tous les détails apparents du sol en tenant compte des limites juridiques, des contraintes fiscales et du cadastre. Il participe aussi aux projets d'aménagement urbain et rural, aux projets fonciers et d'infrastructures et aux implantations d'ouvrages. Suivant l'importance du chantier ou de la mission, il organise, anime et contrôle les équipes de topographes.
+Le technicien supérieur géomètre topographe (TSGT) établit des plans et cartes à toutes les échelles, à partir de relevés qu'il effectue sur le terrain. Ces plans représentent tous les détails apparents du sol en tenant compte des limites juridiques et du cadastre. Il participe aussi aux projets d'aménagement urbain et rural, aux projets fonciers et d'infrastructures et aux implantations d'ouvrages. Suivant l'importance du chantier ou de la mission, il organise, anime et contrôle les équipes de topographes.
 
-En cabinet de géomètre, en tant que collaborateur direct du géomètre expert, il réalise des relevés topométriques (longueurs, surfaces, volumes...) à partir d'éléments fixes, existants et durables sur le terrain, afin de procéder à l'établissement de plans topographiques. A partir de ces plans, il est associé aux études et projets pour aménager l'environnement ou la propriété foncière et immobilière, publique ou privée, individuelle ou collective.
+L'emploi s'exerce en cabinet de géomètre où, en tant que collaborateur direct du géomètre expert, le TSGT réalise des relevés topométriques (longueurs, surfaces, volumes...) à partir d'éléments fixes, existants et durables sur le terrain, afin de procéder à l'établissement de plans topographiques. A partir de ces plans, il est associé aux études et projets pour aménager l'environnement ou la propriété foncière et immobilière, publique ou privée, individuelle ou collective.
 
-Au sein d'une entreprise de travaux publics, en tant que collaborateur direct de l'ingénieur ou du conducteur de travaux, il participe aux implantations d'ouvrages et au suivi des travaux sur chantier. Il élabore des devis et des études de prix. Il a de fréquents contacts internes et externes (riverains, maîtres d'ouvrage, maîtres d'oeuvre, entreprises, concessionnaires...) exigeant de fortes compétences relationnelles et rédactionnelles. Son activité s'exerce pour partie sur le terrain ou le chantier, mais comporte une bonne part de travail de bureau pour traiter les données recueillies.
+L'emploi s'exerce aussi au sein d'entreprises de travaux publics ou en tant que collaborateur direct de l'ingénieur ou du conducteur de travaux. Le TSGT participe aux implantations d'ouvrages et au suivi des travaux sur chantier. Il élabore des devis et des études de prix. Il a de fréquents contacts internes et externes (riverains, maîtres d'ouvrage, maîtres d'œuvre, entreprises, concessionnaires...) exigeant de fortes compétences relationnelles et rédactionnelles.
+
+L'activité s'exerce pour partie sur le terrain ou le chantier, mais comporte une bonne part de travail de bureau pour traiter les données recueillies.
 
 Capacités attestées et descriptif
 
@@ -24,7 +26,7 @@ des composantes de la certification
 
 1. Réaliser des levés et des plans topographiques
 
-Procéder à des levés topographiques.
+Effectuer des levés topographiques.
 
 Effectuer les calculs topométriques liés aux levés.
 
@@ -32,11 +34,11 @@ Réaliser des dessins topographiques.
 
 2. Réaliser des implantations et des études d'infrastructures
 
-Réaliser des implantations.
+Effectuer les métrés des études d'infrastructures.
 
 Réaliser les plans et les calculs topométriques liés aux études d'infrastructures.
 
-Effectuer les métrés des études d'infrastructures.
+Réaliser des implantations.
 
 Pour l'option cabinet de géomètre :
 
@@ -48,31 +50,39 @@ Réaliser les plans des relevés d'architecture et les calculs associés.
 
 Réaliser les études foncières, les plans et les calculs associés.
 
-Participer à la rédaction des pièces écrites à caractère foncier.
+Rédiger des pièces écrites à caractère foncier.
 
 Pour l'option entreprise de travaux publics :
 
-3. Participer à l'organisation
+4. Réaliser les opérations topographiques spécifiques
 
-et au suivi de production d'un chantier de travaux publics
+et des études en entreprise de travaux publics
 
-Réaliser des implantations.
+Réaliser des implantations
 
-Participer au suivi de la production d'un chantier de travaux publics.
+Réaliser les opérations topographiques spécifiques en entreprise de travaux publics.
 
-Etablir et exploiter un planning de chantier de travaux publics.
+Réaliser des études en entreprise de travaux publics.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités ou types d'emploi accessibles
 
-accessibles par le détenteur du titre
+par le détenteur du titre
 
-Cabinet de géomètre.
+Cabinets de géomètres.
 
 Entreprises de travaux publics.
 
+Cet emploi appartient aux métiers de la topographie.
+
+Type d'emplois accessibles :
+
+Technicien supérieur géomètre topographe ;
+
+Géomètre d'entreprise de travaux publics.
+
 Code ROME :
 
-61222 - géomètre.
+F 1107-Mesures topographiques.
 
 Réglementation de l'activité :
 
@@ -80,10 +90,16 @@ Néant.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi
+Ministère chargé de l'emploi.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.

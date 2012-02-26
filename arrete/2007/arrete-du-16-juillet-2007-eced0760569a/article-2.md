@@ -2,7 +2,7 @@
 
 Le titre professionnel de technicien supérieur en système d'information géographique est composé des deux unités suivantes :
 
-1. Concevoir, créer et mettre à jour des bases de données géographiques ;
+1. Concevoir et réaliser un projet de système d'information géographique ;
 
 2. Exploiter un système d'information géographique.
 

@@ -14,6 +14,6 @@ Soit l'option cabinet de géomètre composée de l'unité constitutive qui suit 
 
 Soit l'option entreprise de travaux publics composée de l'unité constitutive qui suit :
 
-3. Participer à l'organisation et au suivi de production d'un chantier de travaux publics.
+3. Réaliser des opérations topographiques spécifiques et des études en entreprise de travaux publics.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

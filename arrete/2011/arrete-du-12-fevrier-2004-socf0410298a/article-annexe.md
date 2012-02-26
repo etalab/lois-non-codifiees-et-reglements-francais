@@ -62,13 +62,13 @@ Négocier avec les différents intervenants d'un chantier de route, canalisation
 
 Manager une équipe de maîtrise de chantier de route, canalisation, terrassement.
 
-Analyse les écarts entre prévision et réalisation d'un chantier de route, canalisation, terrassement, et prendre des mesures correctives.
+Analyser les écarts entre prévision et réalisation d'un chantier de route, canalisation, terrassement, et prendre des mesures correctives.
 
 Animer une réunion de chantier de route, canalisation, terrassement
 
 S'assurer de la parfaite exécution d'un chantier de route, canalisation, terrassement.
 
-Etablir des devis de travaux de génie civil adaptés aux besoins du client
+Etablir des devis de travaux de route, canalisation, terrassement adaptés aux besoins du client.
 
 Etablir les facturations des travaux de route, canalisation, terrassement.
 
@@ -78,17 +78,17 @@ Rendre compte, justifier et argumenter les résultats de son activité.
 
 Planifier et gérer sa charge de travail.
 
-Participer à la gestion des moyens matériels et humains d'une entreprise de route, canalisation, terrassement.
+Etablir les éléments relatifs à la gestion des moyens matériels et humains d'une entreprise de route, canalisation, terrassement.
 
 Etablir les éléments d'actualisation des ratios et prix de revient de l'entreprise de route, canalisation, terrassement.
 
-Secteurs d'activités ou types d'emplois accessibles par le détenteur du titre
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
 Les différents secteurs d'activités concernés sont principalement :
 
 Les entreprises de travaux publics, plutôt de taille moyenne (effectif de 50-100), spécialisées ou non ;
 
-L'Etat, l'administration et les collectivités territoriales ;
+L'état, l'administration et les collectivités territoriales ;
 
 La maîtrise d'ouvrage ou d'œuvre publique ou privée.
 
@@ -98,7 +98,7 @@ Conducteur de travaux ;
 
 Coordinateur de chantier ;
 
-Chargé d'affaires.
+Chargé d'affaire.
 
 Code ROME :
 

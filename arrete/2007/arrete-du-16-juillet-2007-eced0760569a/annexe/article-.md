@@ -4,67 +4,59 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien(ne) supérieur(e) en système d'information géographique.
+Titre professionnel : technicien supérieur en système d'information géographique.
 
 Niveau : III.
 
 Code NSF : 231 n.
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
 Le technicien supérieur en système d'information géographique crée des bases de données géographiques à partir de cahiers des charges, avec des logiciels de dessin assisté par ordinateur (DAO) ou de conception assistée par ordinateur (CAO), des systèmes de gestion de bases de données (SGBD) ou des systèmes d'information géographique (SIG).
 
 Ces bases de données géographiques se composent :
 
-- de données graphiques (cartographiques, topographiques, topométriques) ;
+-de données graphiques (cartographiques, topographiques, topométriques) ;
 
-- et de données attributaires, par exemple : techniques (nature, diamètre, profondeur et pente d'un réseau d'assainissement), commerciales (nombre et surfaces des implantations commerciales), urbaines (coefficient d'occupation des sols), scientifiques (climatologie), etc.
+-et de données attributaires, par exemple : techniques (nature, diamètre, profondeur et pente d'un réseau d'assainissement), commerciales (nombre et surfaces des implantations commerciales), urbaines (coefficient d'occupation des sols), scientifiques (climatologie), etc.
 
-Le technicien supérieur en système d'information géographique récupère, intègre, organise et saisit ces données. Selon les demandes, il peut produire différents types de présentations tableaux, graphiques, cartes, plans.... obtenus grâce à des requêtes, des calculs, des analyses réalisées avec des procédures informatiques préconstruites ou avec les progiciels SIG. Régulièrement, il met à jour les bases de données du SIG.
+Le technicien supérieur en système d'information géographique récupère, intègre, organise et saisit ces données. Selon les demandes, il peut produire différents types de présentations tableaux, graphiques, cartes, plans... obtenus grâce à des requêtes, des calculs, des analyses réalisées avec des procédures informatiques préconstruites ou avec les progiciels SIG. Régulièrement, il met à jour les bases de données du SIG.
 
-Il exerce son activité dans des entreprises, administrations et collectivités, de taille et de secteurs très différents : services techniques des collectivités, concessionnaires de réseaux, administrations de l'équipement et de l'agriculture, cabinets de géomètres, concessionnaires d'autoroutes... Il travaille seul ou en équipe, et est subordonné à un chef de service ou d'entreprise qui lui délègue la partie technique des cahiers des charges. Il est en contact avec de multiples interlocuteurs internes et externes :
+L'emploi s'exerce le plus souvent dans des entreprises, administrations et collectivités, de taille et de secteurs très différents : services techniques des collectivités, concessionnaires de réseaux, administrations de l'équipement et de l'agriculture, cabinets de géomètres, concessionnaires d'autoroutes... Il travaille seul ou en équipe et est subordonné à un chef de service ou d'entreprise qui lui délègue la partie technique des cahiers des charges. Il est en contact avec de multiples interlocuteurs internes et externes : service informatique, fournisseurs de données, fournisseurs de matériels et de logiciels, clients.
 
-service informatique, fournisseurs de données, fournisseurs de matériels et de logiciels, clients.
+Capacités attestées et descriptif
 
-Capacités attestées et descriptif des composantes
+des composantes de la certification
 
-de la certification
+1. Concevoir et réaliser un projet
 
-1. Concevoir, créer et mettre à jour
+de système d'information géographique
 
-des bases de données géographiques
+Analyser les besoins, définir les caractéristiques des informations géographiques pour créer le système d'information géographique.
 
-Définir les types de présentations de données géographiques et leurs caractéristiques à partir des demandes et des besoins exprimés.
+Inventorier, acquérir et contrôler les données géographiques à intégrer dans le système d'information géographique.
 
-Définir et contrôler le type d'informations graphiques et attributaires à intégrer dans un système d'informations géographiques.
+Modéliser et structurer la base de données du système d'information géographique.
 
-Obtenir les informations graphiques ou attributaires manquantes pour compléter le SIG.
+Intégrer et créer les informations géographiques.
 
-Organiser le chantier de création d'un SIG.
-
-Installer, mettre en service périphériques et progiciels SIG.
-
-Créer ou mettre à jour des bases de données graphiques, attributaires et leurs liens.
-
-Contribuer au développement du SIG.
+Développer un système d'information géographique.
 
 2. Exploiter un système d'information géographique
 
-Installer, mettre en service périphériques et progiciels SIG.
+Définir le mode de traitement d'une problématique système d'information géographique.
 
-Réaliser des requêtes à l'aide des fonctions standards des progiciels SIG.
+Analyser et traiter les données répondant à une problématique système d'information géographique.
 
-Créer des analyses thématiques à l'aide de logiciels SIG ou de procédures informatiques.
+Réaliser des éditions cartographiques.
 
-Réaliser des analyses spatiales.
+Diffuser des productions système d'information géographique.
 
-Communiquer et mettre à disposition des données géographiques au moyen d'outils de consultation et d'édition.
+Développer un système d'information géographique.
 
-Réaliser des éditions graphiques de plans et de cartes thématiques avec les fonctions standards des logiciels SGBD/DAO et SIG.
+Secteurs d'activités ou types d'emploi accessibles
 
-Exploiter des bases de données altimétriques avec des logiciels SIG. Contribuer au développement du SIG.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
+par le détenteur du titre
 
 Cabinets de géomètres.
 
@@ -74,20 +66,40 @@ Concessionnaires de réseaux.
 
 Concessionnaires d'autoroutes.
 
-Services de l'équipement.
+Directions régionales et départementales des territoires.
 
-Services de l'agriculture.
+Cet emploi appartient aux métiers de l'information géographique.
+
+Type d'emplois accessibles :
+
+Technicien en SIG ;
+
+Technicien géomaticien ;
+
+Géomaticien.
 
 Code ROME :
 
-61222 : géomètre.
+M1808-Information géographique.
 
-Réglementation de l'activité : néant.
+Réglementation de l'activité :
 
-Autorité responsable de la certification : ministère chargé de l'emploi.
+Néant.
+
+Autorité responsable de la certification :
+
+Ministère chargé de l'emploi.
+
+Liens avec d'autres certifications :
+
+Selon des modalités définies par arrêté relatif au titre professionnel de technicien supérieur en système d'information géographique, liens avec :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
