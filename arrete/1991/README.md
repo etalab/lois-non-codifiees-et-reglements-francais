@@ -772,7 +772,6 @@
 - [Arrêté du 29 janvier 1991 (EQUC9100089A)](arrete-du-29-janvier-1991-equc9100089a)
 - [Arrêté du 29 janvier 1991 (EQUC9100090A)](arrete-du-29-janvier-1991-equc9100090a)
 - [Arrêté du 29 janvier 1991 (EQUC9100091A)](arrete-du-29-janvier-1991-equc9100091a)
-- [Arrêté du 29 janvier 1991 (INTA9120045A)](arrete-du-29-janvier-1991-inta9120045a)
 - [Arrêté du 29 janvier 1991 (JUSA9100023A)](arrete-du-29-janvier-1991-jusa9100023a)
 - [Arrêté du 29 janvier 1991 (SANM9100197A)](arrete-du-29-janvier-1991-sanm9100197a)
 - [Arrêté du 29 janvier 1991 (SPSS9100230A)](arrete-du-29-janvier-1991-spss9100230a)
