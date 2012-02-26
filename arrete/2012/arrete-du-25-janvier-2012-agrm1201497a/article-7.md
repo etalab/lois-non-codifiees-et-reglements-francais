@@ -18,7 +18,7 @@ Sans préjudice du règlement (UE) n° 404/2011 susvisé, le capitaine de tout n
 
 2. Autres navires.
 
-Sans préjudice du règlement (CE) n° 2244/2003 susvisé, le capitaine de tout navire titulaire d'un permis de pêche spécial du thon rouge et le capitaine de tout remorqueur de cage de thon rouge vivant inscrit au registre de la CICTA sont soumis à des obligations relatives aux dispositifs de localisation par satellite renforcées.
+Sans préjudice du règlement (UE) n° 404/2011 susvisé, le capitaine de tout navire titulaire d'un permis de pêche spécial du thon rouge et le capitaine de tout remorqueur de cage de thon rouge vivant inscrit au registre de la CICTA sont soumis à des obligations relatives aux dispositifs de localisation par satellite renforcées.
 
 2.1. Sans préjudice du règlement (CE) n° 2244/2003 susvisé, au minimum quinze jours avant et quinze jours après la saison de pêche la plus étendue correspondant à son permis de pêche spécial du thon rouge, le capitaine de tout navire titulaire d'un permis de pêche spécial du thon rouge transmet les données de localisation par satellite au moyen d'une balise de suivi par satellite des navires (VMS) de deuxième génération approuvée conforme à l'arrêté du 3 février 2010 fixant les prescriptions applicables aux équipements du système de surveillance des navires par satellite susvisé.
 
