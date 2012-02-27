@@ -14,17 +14,17 @@ b) Comporter, en ce qui concerne l'apport du ou des éditeurs de service de tél
 
 Les étrangers autres que les ressortissants des Etats mentionnés à l'alinéa précédent qui justifient de la qualité de résidents en France peuvent être assimilés aux citoyens français pour l'application des présentes dispositions.
 
-II.-Lorsqu'une oeuvre est produite uniquement par une ou plusieurs entreprises de production établies en France ou lorsque, dans le cas d'une coproduction internationale, la participation française est supérieure ou égale à 80 p. 100 de son coût définitif, cette oeuvre doit, outre les conditions générales prévues au paragraphe I ci-dessus :
+II.-Lorsqu'une oeuvre est produite uniquement par une ou plusieurs entreprises de production établies en France ou lorsque, dans le cas d'une coproduction internationale, la participation française est supérieure ou égale à 80 % de son coût définitif, cette oeuvre doit, outre les conditions générales prévues au paragraphe I ci-dessus :
 
 1° Etre réalisée intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France ;
 
-2° Faire l'objet de dépenses de production en France pour au moins 50 p. 100 de son coût définitif.
+2° Faire l'objet de dépenses de production en France pour au moins 50 % de son coût définitif.
 
-III.-Lorsqu'une oeuvre est produite dans le cadre d'une coproduction internationale et que la participation française est inférieure à 80 p. 100 de son coût définitif, cette oeuvre doit, outre les conditions générales prévues au paragraphe I ci-dessus :
+III.-Lorsqu'une oeuvre est produite dans le cadre d'une coproduction internationale et que la participation française est inférieure à 80 % de son coût définitif, cette oeuvre doit, outre les conditions générales prévues au paragraphe I ci-dessus :
 
 Sauf disposition particulière prévue par un accord intergouvernemental, être financée par une participation française au moins égale à 30 % de son coût définitif.
 
-2° Faire l'objet de dépenses de production en France pour au moins 24 p. 100 de son coût définitif.
+2° Faire l'objet de dépenses de production en France pour au moins 24 % de son coût définitif.
 
 IV.-Les aides prévues aux paragraphes II et III de l'article 1er du présent décret sont également susceptibles d'être accordées pour toute œuvre audiovisuelle qui, outre les conditions prévues au 3° du paragraphe I et selon les cas, au paragraphe II ou au paragraphe III du présent article, répond aux conditions suivantes :
 
@@ -46,6 +46,8 @@ b) Soit d'un ou plusieurs des éditeurs de services susmentionnés et d'autres e
 
 L'apport n'est pas requis en ce qui concerne les œuvres auxquelles sont susceptibles d'être accordées les aides prévues au paragraphe II (2°) de l'article 1er du présent décret.
 
-3° Ne pas faire l'objet d'une demande au titre des aides financières sélectives à la production en faveur des nouveaux médias accordées par le Centre national du cinéma et de l'image animée en application de l'article L. 111-2 du code du cinéma et de l'image animée.
+3° Ne pas faire l'objet :
 
-Pour les œuvres audiovisuelles relevant du présent paragraphe, la durée cumulée, mentionnée aux articles 1er et 6 du présent décret, s'entend de la durée de l'ensemble des séquences d'images animées, sonorisées ou non, composant l'œuvre unitaire ou chacun de ses épisodes, tels que mis à disposition du public, à l'exclusion de toute réplication de ces séquences.
+a) D'une demande d'aide à la production à la fois au titre du présent paragraphe et au titre de l'article 2 du décret n° 2012-269 du 24 février 2012 relatif aux aides en faveur de la création pour les nouveaux médias ;
+
+b) D'une demande d'aide à la préparation au titre du présent paragraphe et d'une demande d'aide à l'écriture et au développement au titre de l'article 2 du décret précité, lorsque ces aides visent à contribuer au financement des mêmes dépenses.
