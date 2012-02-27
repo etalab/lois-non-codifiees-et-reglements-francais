@@ -8,13 +8,11 @@
 
 - une lettre en grand format correspondant à la classe la plus pénalisante obtenue parmi les substances ou le COVT selon les modalités prévues à l'annexe I.
 
-2. L'étiquette est d'une taille minimum de 15 mm × 30 mm et est conforme à l'un des deux modèles suivants :
+2. L'étiquette est d'une taille minimum de 15 × 30 mm et est conforme à l'un des modèles suivants :
 
 Modèle 1 en couleurs :
 
-Vous pouvez consulter le modèle 1 à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110513&numTexte=15&pageDebut=08284&pageFin=08287
+Vous pouvez consulter le tableau à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120226&numTexte=6&pageDebut=03323&pageFin=03324
 
 Les couleurs devant être utilisées pour l'impression de l'étiquette sont les suivantes :
 
@@ -36,11 +34,9 @@ Sur l'échelle de classe, les lettres apparaissent en défonce blanche sur un ap
 
 Le reste de l'étiquette est imprimé en noir sur fond blanc.
 
-Modèle 2 en noir et blanc :
+Modèle 2 en nuances de gris :
 
-Vous pouvez consulter le modèle 2 à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110513&numTexte=15&pageDebut=08284&pageFin=08287
+Vous pouvez consulter le tableau à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120226&numTexte=6&pageDebut=03323&pageFin=03324
 
 Les nuances de gris devant être utilisées pour l'impression de l'étiquette sont les suivantes :
 
@@ -65,3 +61,11 @@ Sur l'échelle de classe, les lettres apparaissent en défonce blanche sur un ap
 Le reste de l'étiquette est imprimé en noir sur fond blanc.
 
 Pour une impression monochrome, le modèle 2 sera utilisé en remplaçant le noir par n'importe quelle autre couleur lisible, à condition de respecter les pourcentages.
+
+En cas d'impossibilité technique à utiliser les modèles 1 ou 2, le modèle 3 en noir et blanc peut être utilisé :
+
+Vous pouvez consulter le tableau à l'adresse suivante :http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120226&numTexte=6&pageDebut=03323&pageFin=03324
+
+L'étiquette est imprimée en noir sur fond blanc. Sur l'échelle de classe, la lettre correspondant à la lettre en grand format apparaît en défonce blanche sur un aplat de noir.
+
+Pour une impression monochrome, le modèle 3 sera utilisé en remplaçant le noir par n'importe quelle autre couleur lisible.
