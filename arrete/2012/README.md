@@ -508,6 +508,7 @@
 - [Arrêté du 27 janvier 2012 (INDR1202854A)](arrete-du-27-janvier-2012-indr1202854a)
 - [Arrêté du 27 janvier 2012 (IOCE1202670A)](arrete-du-27-janvier-2012-ioce1202670a)
 - [Arrêté du 27 janvier 2012 (JUSD1202857A)](arrete-du-27-janvier-2012-jusd1202857a)
+- [Arrêté du 27 juillet 2012 (DEVA1231022A)](arrete-du-27-juillet-2012-deva1231022a)
 - [Arrêté du 27 mars 2009 (DEVK0902903A)](arrete-du-27-mars-2009-devk0902903a)
 - [Arrêté du 28 août 1990 (MENE9002053A)](arrete-du-28-aout-1990-mene9002053a)
 - [Arrêté du 28 décembre 2011 (AGRS1133193A)](arrete-du-28-decembre-2011-agrs1133193a)
