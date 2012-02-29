@@ -16,6 +16,6 @@ Méthodes des sciences sociales.
 
 2° Pour l'admission :
 
-a) Une leçon, après une préparation en loge portant sur les institutions et la vie politique nationales et comparées depuis le début du XIXe siècle ;
+a) Une leçon, après une préparation en loge portant sur les institutions, systèmes et vie politiques depuis le xixe siècle en France et dans le monde (1).
 
 b) Une leçon, après une préparation en loge, consistant en l'analyse d'un dossier constitué par le jury et portant, au choix du candidat exprimé lors de son inscription au concours, sur l'une des cinq matières n'ayant pas fait l'objet de la première leçon.
