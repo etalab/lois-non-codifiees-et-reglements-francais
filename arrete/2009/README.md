@@ -2724,7 +2724,6 @@
 - [Arrêté du 29 juillet 2009 (SASF0918117A)](arrete-du-29-juillet-2009-sasf0918117a)
 - [Arrêté du 29 juillet 2009 (SASH0912034A)](arrete-du-29-juillet-2009-sash0912034a)
 - [Arrêté du 29 juin 2005 (SOCN0510936A)](arrete-du-29-juin-2005-socn0510936a)
-- [Arrêté du 29 juin 2005 (SOCN0510938A)](arrete-du-29-juin-2005-socn0510938a)
 - [Arrêté du 29 juin 2005 (SOCN0510939A)](arrete-du-29-juin-2005-socn0510939a)
 - [Arrêté du 29 juin 2006 (INDI0607710A)](arrete-du-29-juin-2006-indi0607710a)
 - [Arrêté du 29 juin 2009 (AGRT0914602A)](arrete-du-29-juin-2009-agrt0914602a)
