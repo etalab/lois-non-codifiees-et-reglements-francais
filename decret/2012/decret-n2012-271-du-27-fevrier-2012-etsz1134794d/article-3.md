@@ -1,0 +1,3 @@
+# Article 3
+
+Les sommes qui ont été attribuées, avant l'entrée en vigueur du présent décret, aux agences régionales de santé dans le cadre du fonds d'intervention pour la qualité et la coordination des soins mentionné à l'article L. 221-1-1 du code de la sécurité sociale et du fonds pour la modernisation des établissements de santé publics et privés mentionné à l'article 40 de la loi du 23 décembre 2000 susvisé, même si elles n'ont pas encore donné lieu à un engagement de dépenses ou à un paiement, continuent d'être gérées selon les dispositions réglementaires et les modalités ainsi que par les organismes prévus par les dispositions applicables à la date d'attribution de ces sommes.
