@@ -1,6 +1,6 @@
 # Article 9
 
-L'établissement public « Société du Grand Paris » bénéficie notamment des ressources suivantes :
+L'établissement public  Société du Grand Paris  bénéficie notamment des ressources suivantes :
 
 1° Les dotations en capital apportées par l'Etat ;
 
@@ -8,7 +8,7 @@ L'établissement public « Société du Grand Paris » bénéficie notamment des
 
 3° Les emprunts sur les marchés financiers ;
 
-4° Les participations des aménageurs et constructeurs aux coûts des gares en application des articles L. 311-4, L. 332-9 et L. 332-11-3 du code de l'urbanisme et des articles 13 et 22 de la présente loi ;
+4° Les participations des aménageurs et constructeurs aux coûts des gares en application des articles L. 311-4 et L. 332-11-3 du code de l'urbanisme et des articles 13 et 22 de la présente loi ;
 
 5° Les produits de la cession, de l'occupation, de l'usage ou de la location de ses biens mobiliers et immobiliers, dont les produits des baux commerciaux conclus dans les gares ;
 

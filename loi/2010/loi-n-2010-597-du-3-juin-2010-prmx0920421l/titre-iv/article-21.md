@@ -2,7 +2,7 @@
 
 I. ― Des contrats de développement territorial peuvent être conclus pour la mise en œuvre des objectifs définis à l'article 1er entre le représentant de l'Etat dans la région, d'une part, et les communes et les établissements publics de coopération intercommunale pour les objets relevant des compétences qui leur ont été transférées, d'autre part.
 
-La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte « Paris-Métropole » sont consultés préalablement à la signature du contrat.
+La région, le département concerné, l'association des maires d'Ile-de-France et le syndicat mixte  Paris-Métropole  sont consultés préalablement à la signature du contrat.
 
 Les contrats définissent, dans le respect des principes énoncés aux articles L. 110 et L. 121-1 du code de l'urbanisme, les objectifs et les priorités en matière d'urbanisme, de logement, de transports, de déplacements et de lutte contre l'étalement urbain, d'équipement commercial, de développement économique, sportif et culturel, de protection des espaces naturels, agricoles et forestiers et des paysages et des ressources naturelles.
 
@@ -30,11 +30,11 @@ Il précise les actions ou opérations d'aménagement ou les projets d'infrastru
 
 Il présente les conditions générales de leur financement. Ce financement inclut :
 
-― les participations des aménageurs et constructeurs dues en application des articles L. 311-4, L. 332-9 et L. 332-11-3 du code de l'urbanisme ;
+― les participations des aménageurs et constructeurs dues en application des articles L. 311-4 et L. 332-11-3 du code de l'urbanisme ;
 
 ― la moitié des excédents dégagés par les opérations d'aménagement.
 
-L'autre moitié de ces excédents est versée à parts égales au Syndicat des transports d'Ile-de-France et à l'établissement public « Société du Grand Paris » afin de financer le réseau de transport public du Grand Paris.
+L'autre moitié de ces excédents est versée à parts égales au Syndicat des transports d'Ile-de-France et à l'établissement public  Société du Grand Paris  afin de financer le réseau de transport public du Grand Paris.
 
 III. ― La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale qui autorise le maire ou le président de l'établissement public à signer le contrat de développement territorial emporte, pour l'application de l'article L. 212-1 du code de l'urbanisme, avis favorable de la commune ou de l'établissement public de coopération intercommunale sur la création des zones d'aménagement différé prévues au contrat.
 
