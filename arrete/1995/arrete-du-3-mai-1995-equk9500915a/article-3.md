@@ -8,4 +8,4 @@ Il met en place une structure opérationnelle du début de l'épreuve à l'arriv
 
 3. Il communique aux participants tous les renseignements relatifs à leur sécurité, principalement en ce qui concerne les prévisions météorologiques.
 
-4. Il prévoit une procédure lui permettant de suspendre ou d'annuler la manifestation s'il estime que les conditions dans lesquelles elle s'engage, ou se déroule dans le cas des manifestations localement délimitées, ne lui paraissent pas présenter toutes les garanties de sécurité souhaitables.
+4. Il prévoit une procédure lui permettant de suspendre ou d'annuler la manifestation s'il estime que les conditions dans lesquelles elle s'engage, ou se déroule dans le cas des manifestations localement délimitées, ne lui paraissent pas présenter toutes les garanties de sécurité et de protection de l'environnement souhaitables.
