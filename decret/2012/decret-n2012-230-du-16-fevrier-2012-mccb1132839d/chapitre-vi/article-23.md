@@ -1,0 +1,3 @@
+# Article 23
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de techniciens d'art de classe normale dans le corps des techniciens d'art du ministère chargé de la culture régi par le décret n° 92-261 du 23 mars 1992 portant création du corps des techniciens d'art du ministère chargé de la culture et fixant les dispositions statutaires applicables à ce corps sont maintenus en fonctions et ont vocation à être titularisés dans le grade de technicien d'art de classe normale du corps des techniciens d'art régi par le présent décret.

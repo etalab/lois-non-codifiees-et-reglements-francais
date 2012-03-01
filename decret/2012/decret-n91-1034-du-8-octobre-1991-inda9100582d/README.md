@@ -5,3 +5,4 @@
 - [TITRE III : Compétence des organes de direction et d'administration.](titre-iii)
 - [TITRE IV : Organisation financière.](titre-iv)
 - [TITRE V : Dispositions transitoires et finales.](titre-v)
+- [Article 29](article-29.md)

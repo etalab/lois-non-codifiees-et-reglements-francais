@@ -1,0 +1,3 @@
+# Article 38
+
+L'Ecole nationale supérieure des mines de Paris, l'Ecole nationale supérieure des mines de Saint-Etienne, l'Ecole nationale supérieure des mines d'Alès, l'Ecole nationale supérieure des mines de Douai, l'Ecole nationale supérieure des mines de Nantes et l'Ecole nationale supérieure des mines d'Albi-Carmaux sont rattachées à l'Institut Mines-Télécom. Les conventions de rattachement en précisent les modalités, notamment en ce qui concerne l'élaboration, la mise en œuvre et l'évaluation d'une stratégie d'ensemble, la gestion des ressources humaines et les mutualisations réalisées entre l'école et l'institut.
