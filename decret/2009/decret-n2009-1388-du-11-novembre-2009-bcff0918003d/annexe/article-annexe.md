@@ -42,6 +42,8 @@ Secrétaires administratifs du ministère de la culture et de la communication.
 
 Secrétaires de chancellerie.
 
+Techniciens d'art.
+
 Techniciens des services culturels et des Bâtiments de France
 
 Techniciens supérieurs du ministère chargé de l'agriculture.
