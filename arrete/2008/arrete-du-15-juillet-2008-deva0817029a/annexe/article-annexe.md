@@ -1,8 +1,8 @@
 # Article Annexe
 
-**LISTE DES OPÉRATIONS DE RESTRUCTURATION DE SERVICE AU SEIN DE LA DIRECTION GÉNÉRALE
+LISTE DES OPÉRATIONS DE RESTRUCTURATION DE SERVICE AU SEIN DE LA DIRECTION GÉNÉRALE
 
-DE L'AVIATION CIVILE OUVRANT DROIT À LA PRIME DE RESTRUCTURATION DE SERVICE**
+DE L'AVIATION CIVILE OUVRANT DROIT À LA PRIME DE RESTRUCTURATION DE SERVICE
 
 Les services en charge des traitements et salaires des directions de l'aviation civile Nord, Sud-Est, Sud-Ouest et Antilles-Guyane.
 
@@ -31,3 +31,7 @@ Dans les services de la navigation aérienne, les fonctions de responsable explo
 Les services et entités en charge de la gestion de proximité des ressources humaines de la direction générale de l'aviation civile.
 
 Les unités du service national d'ingénierie aéroportuaire concernées par la réorganisation du ministère de la défense.
+
+Les détachements civils de coordination (DCC).
+
+La délégation de Mayotte.

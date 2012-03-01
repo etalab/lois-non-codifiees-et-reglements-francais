@@ -260,15 +260,19 @@ Pour obtenir le brevet et la licence de pilote d'ULM, le candidat doit remplir l
 
 4.5.1.2. Dispositions transitoires.
 
-a) Classe autogire. Jusqu'au 30 juin 2001, le brevet et la licence de pilote d'ULM classe autogire ultraléger sont délivrés par équivalence aux pilotes titulaires d'une autorisation spéciale de pilotage d'autogire et du certi ﬁ cat d'aptitude théorique commun. Le cas échéant, l'autorisation d'emport de
-
-passager détenue au titre de l'autorisation spéciale de pilotage d'autogire sera reportée sur la licence.
+a) Classe autogire. Jusqu'au 30 juin 2001, le brevet et la licence de pilote d'ULM classe autogire ultraléger sont délivrés par équivalence aux pilotes titulaires d'une autorisation spéciale de pilotage d'autogire et du certi ﬁ cat d'aptitude théorique commun. Le cas échéant, l'autorisation d'emport de passager détenue au titre de l'autorisation spéciale de pilotage d'autogire sera reportée sur la licence.
 
 b) Classe aérostat ultraléger. Jusqu'au 31 décembre 2000, le brevet et la licence de pilote d'ULM classe aérostat ultraléger sont délivrés par équivalence :
 
 -aux titulaires d'une licence étrangère de pilote de dirigeable, en état de validité, reconnue valable par le ministre chargé de l'aviation civile ou ;
 
 -aux titulaires d'une licence de pilote d'ULM et d'une licence de pilote de ballon libre en état de validité.
+
+c) Classe 6 (dite " hélicoptère ultraléger ").
+
+Le brevet et la licence de pilote d'ULM classe hélicoptère ultraléger sont délivrés par équivalence aux pilotes titulaires du certificat d'aptitude théorique commun et d'une autorisation spéciale de pilotage d'hélicoptère ultraléger.
+
+Cette autorisation est délivrée aux pilotes ayant suivi avec succès l'ensemble du cursus, réussi les épreuves d'évaluation prévues à l'article XII du protocole du 28 octobre 2010 relatif à l'expérimentation d'hélicoptères ultralégers et satisfait à une évaluation en vol sur un ULM de classe hélicoptère ultraléger.
 
 4.5.2. Privilèges :
 

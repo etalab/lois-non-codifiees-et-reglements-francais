@@ -44,13 +44,13 @@ La qualiﬁcation d'instructeur de pilote de planeur (ITP) est renouvelée pour 
 
 - avoir dispensé au moins 100 heures de formation en vol pendant la période de validité de la qualiﬁcation, dont 30 heures dans les douze derniers mois. S'il détient une qualiﬁcation d'instructeur de pilote d'avion ou d'instructeur de vol avion ou d'instructeur d'hélicoptère, la moitié des heures exigées pourra avoir été effectuée dans le cadre de ces dernières qualiﬁcations;
 
-- avoir suivi de manière complète un stage  actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , approuvé par le ministre chargé de l'aviation civile, dans les douze mois précédant la date d'expiration de la qualiﬁcation d'instructeur de pilote de planeur;
+- avoir suivi de manière complète un stage actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , approuvé par le ministre chargé de l'aviation civile, dans les douze mois précédant la date d'expiration de la qualiﬁcation d'instructeur de pilote de planeur;
 
 - avoir réussi un contrôle de compétence dans les douze mois précédant la date d'expiration de la qualiﬁcation d'instructeur de pilote de planeur.
 
 Lorsque la qualiﬁcation d'instructeur de pilote de planeur est périmée, et si les conditions précédentes ne sont pas réalisées, le candidat doit satisfaire les deux dernières conditions dans les douze mois précédant la demande de renouvellement.
 
-L'intéressé doit avoir accompli le stage  actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , visé ci-dessus, dans les six ans précédant le deuxième renouvellement ainsi que pour les renouvellements ultérieurs dont le rang est multiple de deux (1).
+L'intéressé doit avoir accompli le stage actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ACT) , visé ci-dessus, dans les six ans précédant le deuxième renouvellement ainsi que pour les renouvellements ultérieurs dont le rang est multiple de deux (1).
 
 7.1.2. Qualiﬁcation d'instructeur de vol à voile (ITV)
 
@@ -294,6 +294,8 @@ Elle est renouvelée par période de même durée si l'intéressé :
 
 7.5. Instructeur de pilote d'ULM
 
+hélicoptère ultraléger.
+
 7.5.1. Formation
 
 7.5.1.1. Instructeur en formation initiale.
@@ -332,33 +334,49 @@ b) La formation en vol qu'il dispense doit être un élément constitutif du pro
 
 7.5 2.1. Délivrance.
 
-1. La qualiﬁcation d'instructeur de pilote d'ULM est délivrée au candidat qui, pour la ou les classes concernées, remplit les conditions ﬁxées ci-après :
+1. La qualification d'instructeur de pilote d'ULM est délivrée au candidat qui, pour la ou les classes concernées, remplit les conditions fixées ci-après :
 
-a) Avoir le statut d'instructeur stagiaire de pilote d'ULM;
+a) Avoir le statut d'instructeur stagiaire de pilote d'ULM ;
 
-b) Avoir suivi de manière complète et satisfaisante une formation dispensée par un organisme homologué;
+b) Avoir suivi de manière complète et satisfaisante une formation dispensée par un organisme homologué ;
 
-c) Avoir satisfait à un contrôle de connaissance au sol et en vol auprès d'un organisme homologué à cet effet.
+c) Avoir satisfait à un contrôle de connaissances au sol et en vol auprès d'un organisme homologué à cet effet.
 
-2. La qualiﬁcation d'instructeur de pilote d'ULM est délivrée par équivalence au candidat qui, pour la ou les classes concernées, remplit les conditions ﬁxées ci-après :
+2. La qualification d'instructeur de pilote d'ULM est délivrée par équivalence au candidat qui, pour la ou les classes concernées, à l'exception de la classe hélicoptère ultraléger, remplit les conditions ci-après :
 
-a) Être titulaire d'une licence de pilote d'ULM;
+a) Etre titulaire d'une licence de pilote d'ULM ;
 
-b) Être titulaire :
+b) Etre titulaire :
 
-- d'une qualiﬁcation d'instructeur de pilote d'aéronef en état de validité ou;
+- d'une qualification d'instructeur de pilote d'aéronef en état de validité ; ou
 
-- d'une qualiﬁcation d'instructeur en état de validité telle que déﬁnie au paragraphe 1.305 de l'annexe de l'arrêté du 29 mars 1999 susvisé ou;
+- d'une qualification d'instructeur en état de validité telle que définie au paragraphe 1.305 a de l'annexe à l'arrêté du 29 mars 1999 (FCL 1) ou au paragraphe 2.305 a de l'annexe à l'arrêté du 12 juillet 2005 (FCL 2) précités ;
 
-- d'une qualiﬁcation d'instructeur de parachutiste professionnel en état de validité ou;
+- d'une qualification d'instructeur de parachutiste professionnel en état de validité ; ou
 
-- d'un brevet d'État d'éducateur sportif (spécialité deltaplane, parapente ou parachutisme) ou;
+- d'un brevet d'état d'éducateur sportif spécialité deltaplane, parapente ou parachutisme ; ou
 
-- du certiﬁcat d'aptitude à l'enseignement aéronautique;
+- du certificat d'aptitude à l'enseignement aéronautique ;
 
-c) À l'exception des postulants à la qualiﬁcation d'instructeur dispensant exclusivement l'instruction sur des paramoteurs monoplaces, être titulaire de l'autorisation d'emport de passager;
+c) A l'exception des postulants à la qualification d'instructeur dispensant exclusivement l'instruction sur des paramoteurs monoplaces, être titulaire de l'autorisation d'emport de passager ;
 
-d) Avoir satisfait au contrôle de connaissances mentionné en 1 (c) du présent paragraphe.
+d) Avoir satisfait au contrôle des connaissances mentionné en 1 c du présent paragraphe.
+
+3. La qualification d'instructeur de pilote d'ULM classe hélicoptère ultraléger est délivrée par équivalence au candidat qui remplit les conditions fixées ci-après :
+
+a) Etre titulaire d'une licence de pilote d'ULM de classe hélicoptère ultraléger ;
+
+b) Etre titulaire :
+
+- d'une qualification d'instructeur de pilote d'aéronef ultraléger ; ou
+
+- d'une qualification d'instructeur de pilote d'hélicoptère en état de validité ; ou
+
+- d'une qualification d'instructeur en état de validité telle que définie au paragraphe 1.305 a de l'annexe à l'arrêté du 29 mars 1999 (FCL 1) ; ou
+
+- d'une qualification d'instructeur en état de validité telle que définie au paragraphe 2.305 a de l'annexe à l'arrêté du 12 juillet 2005 (FCL 2) précité ;
+
+c) Avoir satisfait au contrôle des connaissances mentionné en 1 c du présent paragraphe.
 
 7.5.2.2. Validité et renouvellement
 
@@ -391,6 +409,16 @@ classe aérostat ultraléger est délivrée par
 - aux titulaires d'une licence de pilote d'ULM et d'une qualiﬁcation d'instructeur de pilote de ballon libre en état de validité ou;
 
 - aux titulaires d'une licence de pilote de ballon libre en état de validité et d'une qualiﬁcation d'instructeur de pilote d'ULM en état de validité.
+
+c) Pendant une durée de dix-huit mois à compter de la date de publication du présent arrêté, la qualification d'instructeur de pilote d'ULM classe hélicoptère ultraléger est délivrée par équivalence aux pilotes titulaires :
+
+1. De l'autorisation spéciale de dispenser la formation au pilotage des hélicoptères ultralégers délivrée dans les conditions fixées à l'article XI du protocole du 28 octobre 2010 relatif à l'expérimentation d'hélicoptères ultralégers ; ou
+
+2. D'une licence de pilote d'ULM classe hélicoptère ultraléger :
+
+- d'une qualification d'instructeur de pilote d'ULM ;
+
+- d'une qualification d'instructeur de pilote d'hélicoptère disposant d'une expérience de pilote d'hélicoptère sur hélicoptère léger à pistons (200 heures minimum dont au moins 50 heures sur hélicoptère à faible inertie de type R 22 ou sur hélicoptère léger disposant d'un CNSK).
 
 7.6. Qualiﬁcation d'instructeur de vol avion FI(A)
 

@@ -48,6 +48,16 @@ Un aérostat dirigeable ultraléger répond aux conditions techniques suivantes 
 
 - le volume de l'enveloppe d'air chaud est inférieur ou égal à 2 000 m3.
 
+Classe 6 (dite " hélicoptère ultraléger ")
+
+Un hélicoptère ultraléger répond aux conditions techniques suivantes :
+
+- monomoteur dont la puissance maximale est inférieure ou égale à 80 kW pour un monoplace et à 100 kW pour un biplace ;
+
+- la masse maximale est inférieure ou égale à 300 kg pour un monoplace et à 450 kg pour un biplace ; ces masses peuvent être augmentées de 10 % dans le cas d'un ULM à flotteurs ;
+
+- la charge rotorique à la masse maximale est comprise entre 8 et 20 kg au m ².
+
 Sous-classes 1 A, 2 A et 3 A aux classes 1, 2 ou 3
 
 (dites à motorisation auxiliaire)
