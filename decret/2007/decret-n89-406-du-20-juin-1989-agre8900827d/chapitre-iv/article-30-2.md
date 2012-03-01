@@ -1,3 +1,0 @@
-# Article 30-2
-
-La durée de vingt-cinq années de service prévue à l'article 2 de l'ordonnance du 31 mars 1982 susmentionnée est réduite, dans la limite de six années maximum, du temps durant lequel, en application de l'article 1er du décret n° 2006-79 du 26 janvier 2006 portant diverses mesures sociales applicables aux personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural, les personnes ont bénéficié d'un congé parental ou d'un congé pour élever un enfant de moins de huit ans ou pour donner des soins à un enfant à charge, au conjoint ou à un ascendant atteint d'un handicap nécessitant la présence d'une tierce personne ou victime d'un accident ou d'une maladie grave.

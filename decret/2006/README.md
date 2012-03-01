@@ -27,6 +27,7 @@
 - [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
 - [Décret n°2006-608 du 26 mai 2006 (EQUT0600697D)](decret-n2006-608-du-26-mai-2006-equt0600697d)
 - [Décret n°2006-369 du 28 mars 2006 (EQUT0600796D)](decret-n2006-369-du-28-mars-2006-equt0600796d)
+- [Décret n°2006-941 du 28 juillet 2006 (AGRX0600072D)](decret-n2006-941-du-28-juillet-2006-agrx0600072d)
 - [Décret n°94-943 du 28 octobre 1994 (EQUP9401380D)](decret-n94-943-du-28-octobre-1994-equp9401380d)
 - [Décret n°2002-634 du 29 avril 2002 (PRMG0270289D)](decret-n2002-634-du-29-avril-2002-prmg0270289d)
 - [Décret n°2006-386 du 30 mars 2006 (JUSK0640055D)](decret-n2006-386-du-30-mars-2006-jusk0640055d)
