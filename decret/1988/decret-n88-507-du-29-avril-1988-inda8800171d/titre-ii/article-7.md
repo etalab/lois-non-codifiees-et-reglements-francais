@@ -1,6 +1,6 @@
 # Article 7
 
-Les candidats recrutés au titre du b ou du c du 1° de l'article 4 sont astreints à une scolarité d'une durée de trois années dans une Ecole nationale supérieure des techniques industrielles et des mines dont les conditions d'organisation et de fonctionnement sont fixées par arrêté du ministre chargé de l'industrie après avis du conseil général des mines. Pendant les deux premières années de cette scolarité, ils ont la qualité d'élève ingénieur.
+Les candidats recrutés au titre du b ou du c du 1° de l'article 4 sont astreints à une scolarité d'une durée de trois années dans une Ecole nationale supérieure des techniques industrielles et des mines dont les conditions d'organisation et de fonctionnement sont fixées par arrêté du ministre chargé de l'industrie après avis du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies. Pendant les deux premières années de cette scolarité, ils ont la qualité d'élève ingénieur.
 
 A titre exceptionnel, ils peuvent être autorisés à redoubler au cours de cette scolarité une année d'études dans les conditions qui seront fixées par le ministre chargé de l'industrie.
 

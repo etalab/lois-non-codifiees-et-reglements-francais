@@ -4,7 +4,7 @@ La commission est composée de dix membres :
 
 -le directeur des matières premières et des hydrocarbures ou son représentant, président ;
 
--un représentant du     secrétaire général de la défense et de la sécurité nationale ;
+-un représentant du secrétaire général de la défense et de la sécurité nationale ;
 
 -un représentant du ministre chargé de la santé (direction générale de la santé) ;
 
@@ -18,7 +18,7 @@ La commission est composée de dix membres :
 
 -un représentant du ministre chargé de l'économie (direction générale de la concurrence, de la consommation et de la répression des fraudes) ;
 
--un représentant du Conseil général des mines ;
+-un représentant du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 -un représentant du ministre chargé de l'industrie (direction de l'action régionale, de la qualité et de la sécurité industrielle).
 

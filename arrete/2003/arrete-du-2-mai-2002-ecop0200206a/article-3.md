@@ -13,6 +13,7 @@ Les attributions individuelles d'allocation complémentaire de fonctions sont d�
 <tr>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <p align="center">Responsabilité </p>
@@ -84,7 +85,7 @@ Les attributions individuelles d'allocation complémentaire de fonctions sont d�
 </tr>
 <tr>
 <td rowspan="2">
-<p>Emplois de direction du Conseil général des mines régis par le décret n° 2007-764 du 9 mai 2007 relatif aux conditions de nomination aux emplois de direction du Conseil général des mines </p>
+<p>Emplois de direction du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies régis par le décret n° 2007-764 du 9 mai 2007 relatif aux conditions de nomination aux emplois de direction du Conseil général des mines </p>
 </td>
 <td rowspan="2">
 <p align="center">154 </p>

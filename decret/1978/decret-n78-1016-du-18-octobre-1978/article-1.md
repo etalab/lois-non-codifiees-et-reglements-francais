@@ -1,6 +1,6 @@
 # Article 1
 
-L'administration centrale du ministère de l'industrie comprend, outre le conseil général des mines et l'inspection générale de l'industrie et du commerce :
+L'administration centrale du ministère de l'industrie comprend, outre le   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies et l'inspection générale de l'industrie et du commerce :
 
 1° La direction de l'administration générale ;
 

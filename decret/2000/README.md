@@ -54,6 +54,7 @@
 - [Décret n°2000-1027 du 18 octobre 2000 (PRMX0000126D)](decret-n2000-1027-du-18-octobre-2000-prmx0000126d)
 - [Décret n°2000-1234 du 18 décembre 2000 (INTX0004553D)](decret-n2000-1234-du-18-decembre-2000-intx0004553d)
 - [Décret n°2000-1239 du 18 décembre 2000 (AGRA0002251D)](decret-n2000-1239-du-18-decembre-2000-agra0002251d)
+- [Décret n°2000-677 du 18 juillet 2000 (ECOP0000380D)](decret-n2000-677-du-18-juillet-2000-ecop0000380d)
 - [Décret n°71-685 du 18 août 1971](decret-n71-685-du-18-aout-1971)
 - [Décret n°2000-1247 du 19 décembre 2000 (MCCB0000672D)](decret-n2000-1247-du-19-decembre-2000-mccb0000672d)
 - [Décret n°2000-682 du 19 juillet 2000 (EQUK0000631D)](decret-n2000-682-du-19-juillet-2000-equk0000631d)

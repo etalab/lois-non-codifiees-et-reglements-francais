@@ -175,6 +175,7 @@
 - [Décret n°88-1286 du 29 juillet 1988 (AGRS8801286D)](decret-n88-1286-du-29-juillet-1988-agrs8801286d)
 - [Décret n°88-477 du 29 avril 1988 (AGRA8800735D)](decret-n88-477-du-29-avril-1988-agra8800735d)
 - [Décret n°88-507 du 29 avril 1988 (INDA8800171D)](decret-n88-507-du-29-avril-1988-inda8800171d)
+- [Décret n°88-509 du 29 avril 1988 (INDA8800172D)](decret-n88-509-du-29-avril-1988-inda8800172d)
 - [Décret n°88-850 du 29 juillet 1988 (ECOX8810673D)](decret-n88-850-du-29-juillet-1988-ecox8810673d)
 - [Décret n°88-855 du 29 juillet 1988 (TEFT8803635D)](decret-n88-855-du-29-juillet-1988-teft8803635d)
 - [Décret n°88-862 du 29 juillet 1988 (MENU8801291D)](decret-n88-862-du-29-juillet-1988-menu8801291d)

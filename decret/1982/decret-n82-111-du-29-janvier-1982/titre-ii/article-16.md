@@ -2,7 +2,7 @@
 
 Ces programmes sont examinés par une commission siégeant auprès du ministre chargé des mines et comprenant :
 
-Un membre du conseil général des mines, président ;
+Un membre du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, président ;
 
 Un représentant du ministre chargé des relations extérieures ;
 

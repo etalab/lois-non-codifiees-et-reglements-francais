@@ -1,0 +1,3 @@
+# Article 50
+
+L'exploitant adresse au préfet la déclaration prévue à l'article 91 du code minier, au moins six mois avant l'arrêt définitif de tout ou partie des travaux, par lettre recommandée avec avis de réception. La déclaration est accompagnée d'un mémoire exposant les mesures déjà prises et celles envisagées pour assurer la protection des intérêts énumérés aux articles 79 et 79-1 du code minier en fin d'exploitation, d'un bilan des effets des travaux, de l'évaluation des conséquences de leur arrêt ainsi que de la liste des mesures de compensation adaptées au milieu marin et de leurs modalités de mise en oeuvre.

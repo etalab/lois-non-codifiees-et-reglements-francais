@@ -1,66 +1,77 @@
 # Article 21
 
-<div>
-<br/>Peuvent être nommés au grade d'ingénieur en chef les ingénieurs comptant, en position d'activité ou de détachement, au moins six années de service dans le grade d'ingénieur des mines.<br/> Les nominations au grade d'ingénieur en chef sont prononcées suivant le tableau de correspondance ci-après :<br/>
+Peuvent  être nommés au grade d'ingénieur en chef les ingénieurs comptant, en  position d'activité ou de détachement, au moins quatre années de  services dans le grade d'ingénieur des mines et ayant atteint au moins  le 6e échelon de leur grade.
+
+Les nominations au grade d'ingénieur en chef sont prononcées suivant le tableau de correspondance ci-après :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>INGÉNIEUR</th>
+<br/>INGÉNIEUR <br/>
+</th>
 <th colspan="2">
-<br/>INGÉNIEUR EN CHEF</th>
+<br/>INGÉNIEUR EN CHEF <br/>
+</th>
 </tr>
 <tr>
 <th>
-<br/>Echelons</th>
+<br/>Echelons <br/>
+</th>
 <th>
-<br/>Echelons</th>
+<br/>Echelons <br/>
+</th>
 <th>
-<br/>Ancienneté conservée</th>
+<br/>Ancienneté conservée dans la limite de la durée de l'échelon d'accueil <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>10e</td>
+<br/>9e <br/>
+</td>
 <td align="center">
-<br/>5e</td>
+<br/>4e <br/>
+</td>
 <td align="center">
-<br/>2/3 de l'ancienneté acquise dans la limite de 2 ans 6 mois.</td>
+<br/>Ancienneté acquise <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>9e</td>
+<br/>8e <br/>
+</td>
 <td align="center">
-<br/>4e</td>
+<br/>3e <br/>
+</td>
 <td align="center">
-<br/>2/3 de l'ancienneté acquise.</td>
+<br/>Ancienneté acquise <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e</td>
+<br/>7e <br/>
+</td>
 <td align="center">
-<br/>3e</td>
+<br/>2e <br/>
+</td>
 <td align="center">
-<br/>4/5 de l'ancienneté acquise.</td>
+<br/>3/4 de l'ancienneté acquise <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e</td>
+<br/>6e <br/>
+</td>
 <td align="center">
-<br/>2e</td>
+<br/>1er <br/>
+</td>
 <td align="center">
-<br/>3/4 de l'ancienneté acquise.</td>
+<br/>3/4 de l'ancienneté acquise<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>6e</td>
-<td align="center">
-<br/>1er</td>
-<td align="center">
-<br/>Ancienneté acquise diminuée de 6 mois.</td>
-</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>

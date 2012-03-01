@@ -1,0 +1,5 @@
+# Article 1
+
+Le présent décret fixe les règles relatives aux activités de prospection, de recherche et d'exploitation portant sur les substances minérales ou fossiles non visées à l'article 2 du code minier et contenues dans les fonds marins du domaine public et du plateau continental métropolitains. Il s'applique au permis exclusif de recherches et à la concession, ci-après dénommés titres miniers, à l'autorisation et à la déclaration d'ouverture de travaux de recherches ou d'exploitation, à l'autorisation de prospections préalables ainsi qu'à l'autorisation d'occupation temporaire du domaine public maritime en vue de la prospection, des recherches et de l'exploitation, ci-après dénommée autorisation domaniale.
+
+Sous réserve des procédures particulières qu'il comporte et qui se substituent à celles du décret du 29 mars 1993 susvisé, les autorisations et les déclarations d'ouverture de travaux prévues par le présent décret valent respectivement autorisations et déclarations au titre de l'article L. 214-3 du code de l'environnement.

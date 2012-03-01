@@ -1,6 +1,6 @@
 # Article 6
 
-Le dossier est alors communiqué à l'ingénieur en chef des mines, qui fait procéder à la visite des lieux et le renvoie au préfet avec son avis ; ce dernier le transmet, avec son propre avis, au ministre chargé des mines qui, après consultation du conseil général des mines, statue et fixe la durée de l'autorisation.
+Le dossier est alors communiqué à l'ingénieur en chef des mines, qui fait procéder à la visite des lieux et le renvoie au préfet avec son avis ; ce dernier le transmet, avec son propre avis, au ministre chargé des mines qui, après consultation du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, statue et fixe la durée de l'autorisation.
 
 La décision du ministre intervient dans un délai de trois mois à dater de l'expiration du délai imparti au propriétaire, au locataire ou au preneur à bail pour présenter leurs observations.
 

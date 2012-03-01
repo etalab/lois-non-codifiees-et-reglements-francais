@@ -9,42 +9,54 @@ II. ― Les nominations au grade d'ingénieur général sont prononcées suivant
 <table>
 <tbody>
 <tr>
-<th>INGÉNIEUR<br/>en chef<br/>
+<th>INGÉNIEUR EN CHEF <br/>
 </th>
-<th colspan="2">INGÉNIEUR GÉNÉRAL<br/>
-</th>
-</tr>
-<tr>
-<th>Echelons<br/>
-</th>
-<th>Echelons<br/>
-</th>
-<th>Ancienneté conservée<br/>
+<th colspan="2">
+<br/>INGÉNIEUR GÉNÉRAL <br/>
 </th>
 </tr>
 <tr>
-<td align="center">7e<br/>
+<th>
+<br/>Echelons <br/>
+</th>
+<th>
+<br/>Echelons <br/>
+</th>
+<th>
+<br/>Ancienneté conservée dans la limite de la durée de l'échelon d'accueil <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>7e <br/>
 </td>
-<td align="center">2e<br/>
+<td align="center">
+<br/>2e <br/>
 </td>
-<td align="center">Ancienneté acquise dans la limite de 2 ans.<br/>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6e <br/>
+<td align="center">
+<br/>6e <br/>
 </td>
-<td align="center">1er<br/>
+<td align="center">
+<br/>1er <br/>
 </td>
-<td align="center">2/3 de l'ancienneté acquise.<br/>
+<td align="center">
+<br/>2/3 de l'ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="center">5e et inférieurs<br/>
+<td align="center">
+<br/>5e et inférieurs <br/>
 </td>
-<td align="center">1er<br/>
+<td align="center">
+<br/>1er <br/>
 </td>
-<td align="center">Sans ancienneté.<br/>
-</td>
+<td align="center">
+<br/>Sans ancienneté</td>
 </tr>
 </tbody>
 </table>

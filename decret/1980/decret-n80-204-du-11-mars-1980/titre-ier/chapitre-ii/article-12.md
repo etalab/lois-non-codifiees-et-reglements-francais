@@ -2,7 +2,7 @@
 
 Les obligations communes à tous les titulaires des titres miniers comprennent, notamment :
 
-A - Dans tous les cas :
+A-Dans tous les cas :
 
 1° Si le titre est institué au profit d'une société dont les statuts sont modifiés, l'obligation d'adresser au ministre chargé des mines avec copie du directeur interdépartemental de l'industrie compétent, le tout dans les trois mois de leur entrée en vigueur, le texte certifié conforme des modifications apportées aux statuts annexés à la demande du titre et une copie certifiée conforme du procès-verbal de l'assemblée générale extraordinaire qui les a décidées ;
 
@@ -10,9 +10,9 @@ A - Dans tous les cas :
 
 3° Si le titre est institué au profit de plusieurs sociétés conjoints et solidaires, outre l'obligation pour chacun des titulaires de se conformer aux obligations définies aux 1° et 2° ci-dessus, l'obligation pour ceux-ci d'informer le ministre chargé des mines de tout projet de modification des contrats d'association conclus entre eux, en vue de la recherche et de l'exploitation dans le périmètre du titre ;
 
-4° L'obligation de ne pas donner suite aux projets visés aux 2° et 3° ci-dessus avant l'expiration d'un délai de deux mois pendant lequel le ministre pourra, après avis du conseil général des mines, signifier au titulaire que ces opérations seraient incompatibles avec la conservation de son titre.
+4° L'obligation de ne pas donner suite aux projets visés aux 2° et 3° ci-dessus avant l'expiration d'un délai de deux mois pendant lequel le ministre pourra, après avis du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, signifier au titulaire que ces opérations seraient incompatibles avec la conservation de son titre.
 
-B - S'il s'agit d'un permis exclusif de recherches :
+B-S'il s'agit d'un permis exclusif de recherches :
 
 1° L'obligation de présenter au directeur interdépartemental de l'industrie, dans le mois qui suit l'octroi du permis, le programme de travail du reste de l'année en cours et, avant le 31 décembre de chaque année, le programme de travail de l'année suivante et, au début de chaque année, le compte rendu des travaux effectués au cours de l'année écoulée.
 
@@ -20,7 +20,7 @@ B - S'il s'agit d'un permis exclusif de recherches :
 
 3° L'obligation pour le titulaire d'un permis H, dès qu'un gisement aura été reconnu exploitable, de demander l'octroi d'un permis d'exploitation ou, notamment dans le cas prévu à l'article 62 du code minier, d'une concession.
 
-C - S'il s'agit d'une concession :
+C-S'il s'agit d'une concession :
 
 Sous réserve des dérogations qui pourraient être accordées par décret, toute société commerciale titulaire ou amodiataire d'une concession de mines devra être constituée soit sous le régime de la loi française, soit sous le régime de la loi d'un autre Etat membre de la Communauté économique européenne.
 

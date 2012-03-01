@@ -6,8 +6,4 @@ Les ingénieurs-élèves des mines sont recrutés :
 
 2° Par la voie d'un concours annuel ouvert aux élèves des écoles normales supérieures accomplissant la troisième ou la quatrième année de scolarité ;
 
-3° Par la voie d'un concours annuel ouvert aux élèves de l'Ecole nationale supérieure des mines de Paris accomplissant la dernière année de scolarité du programme conduisant au diplôme d'ingénieur de cette école ;
-
-4° Par la voie d'un concours annuel ouvert aux élèves de Télécom ParisTech accomplissant la dernière année de scolarité du programme conduisant au diplôme d'ingénieur de cette école.
-
-Les ingénieurs-élèves des mines sont nommés par arrêté du ministre chargé de l'économie.
+3° Par la voie d'un concours annuel ouvert aux élèves de l'Ecole nationale supérieure des mines de Paris et aux élèves de Télécom ParisTech accomplissant la dernière année de scolarité du programme conduisant au diplôme d'ingénieur de ces écoles.

@@ -10,6 +10,7 @@
 - [Décret n°2006-1341 du 6 novembre 2006 (EQUG0601210D)](decret-n2006-1341-du-6-novembre-2006-equg0601210d)
 - [Décret n°2006-1343 du 6 novembre 2006 (EQUG0601212D)](decret-n2006-1343-du-6-novembre-2006-equg0601212d)
 - [Décret n°2006-1344 du 6 novembre 2006 (EQUG0601213D)](decret-n2006-1344-du-6-novembre-2006-equg0601213d)
+- [Décret n°2006-798 du 6 juillet 2006 (ECOX0500023D)](decret-n2006-798-du-6-juillet-2006-ecox0500023d)
 - [Décret n°2006-1551 du 7 décembre 2006 (DEFD0601418D)](decret-n2006-1551-du-7-decembre-2006-defd0601418d)
 - [Décret n°2006-665 du 7 juin 2006 (ECOJ0600006D)](decret-n2006-665-du-7-juin-2006-ecoj0600006d)
 - [Décret n°2006-1139 du 12 septembre 2006 (ECOT0637137D)](decret-n2006-1139-du-12-septembre-2006-ecot0637137d)

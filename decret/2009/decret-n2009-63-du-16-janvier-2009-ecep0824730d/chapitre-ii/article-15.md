@@ -1,6 +1,6 @@
 # Article 15
 
-Les ingénieurs recrutés en application des 2° ou 3° de l'article 4 qui n'avaient pas préalablement la qualité de fonctionnaire sont rémunérés, pendant leur scolarité, à l'indice afférent à l'échelon d'ingénieur-élève ou, le cas échéant, à l'indice afférent à l'échelon du grade d'ingénieur déterminé sur la base des durées moyennes fixées à l'article 20 du présent décret, en prenant en compte les durées définies ci-après :
+Les ingénieurs recrutés en application des 2° ou 3° de l'article 4 qui n'avaient pas préalablement la qualité de fonctionnaire sont rémunérés, pendant leur scolarité, à l'indice afférent à l'échelon d'ingénieur-élève ou, le cas échéant, à l'indice afférent à l'échelon du grade d'ingénieur déterminé sur la base des durées fixées à l'article 20 du présent décret, en prenant en compte les durées définies ci-après :
 
 a) Pour les agents recrutés au titre du concours externe, la durée prise en compte est celle accomplie après l'obtention du diplôme ou du titre exigé dans une fonction correspondant à la spécialité de ce diplôme ou de ce titre, à raison de la moitié, dans la limite de cinq ans ;
 

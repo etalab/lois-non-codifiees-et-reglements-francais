@@ -1,6 +1,6 @@
 # Article 10
 
-Les règles d'organisation générale des concours prévus aux articles 4 et 5 et de l'examen professionnel prévu au 4° de l'article 4, ainsi que la nature et le programme des épreuves sont fixés par arrêté du ministre chargé de l'économie et du ministre chargé de la fonction publique après avis du Conseil général de l'industrie, de l'énergie et des technologies.
+Les règles d'organisation générale des concours prévus aux articles 4 et 5 et de l'examen professionnel prévu au 4° de l'article 4, ainsi que la nature et le programme des épreuves sont fixés par arrêté du ministre chargé de l'économie et du ministre chargé de la fonction publique après avis du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies .
 
 Ces règles prévoient notamment, s'agissant de l'examen professionnel prévu au 4° de l'article 4, que le jury complète son appréciation par la consultation des dossiers individuels des candidats.
 

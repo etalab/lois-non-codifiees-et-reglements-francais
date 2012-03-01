@@ -16,8 +16,12 @@ Les ingénieurs des mines participent à la conception, à la mise en œuvre et 
 
 6° A l'aménagement du territoire et aux transports ;
 
-7° A la normalisation et à la métrologie.
+7° A la normalisation et à la métrologie ;
 
-Dans ce cadre, les ingénieurs des mines ont vocation à exercer des fonctions de direction, d'encadrement et de coordination des services, de contrôle, de régulation, d'inspection, d'étude, d'expertise et de recherche ou d'enseignement, y compris dans les organismes internationaux.
+8° Aux banques, aux assurances et aux services financiers.
+
+Dans ce cadre, les ingénieurs des mines ont vocation à exercer des fonctions de direction, d'encadrement et de coordination des services, de contrôle, de régulation, de supervision, d'inspection, d'étude, d'expertise et de recherche ou d'enseignement, y compris dans les organismes internationaux.
+
+Le corps des ingénieurs des mines exerce les missions de contrôle et de surveillance confiées par la loi ou le règlement au corps de contrôle des assurances régi par le décret n° 2005-799 du 15 juillet 2005 portant statut particulier du corps de contrôle des assurances.
 
 Ils assurent toute autre mission de nature scientifique, technique, administrative, économique ou sociale qui peut leur être confiée par tout ministre.

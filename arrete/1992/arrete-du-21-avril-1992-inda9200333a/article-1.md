@@ -108,7 +108,7 @@ Adjoint au chef du département du gaz et des appareils à pression, chargé des
 
 Adjoint au chef du département Gaz et appareils à pression de la sous-direction de la sécurité industrielle à la direction de l'action régionale et de la petite et moyenne industrie ;
 
-Adjoint au chef du service des écoles des mines au Conseil général des mines ;
+Adjoint au chef du service des écoles des mines au   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 Adjoint au chef du service S 3M (service du sous-sol des mines de la métallurgie et des matériaux de construction) à la direction générale de l'énergie et des matières premières ;
 
@@ -140,7 +140,7 @@ Chargé de la mission réglementation électrique et régulation à la direction
 
 Chargé de mission auprès du chef du service des affaires nucléaires à la direction générale de l'énergie et des matières premières ;
 
-Chargé de mission auprès du président de la section " innovation et entreprises " au Conseil général des mines ;
+Chargé de mission auprès du président de la section " innovation et entreprises " au   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 Chargé de mission de contrôle économique et financier de l'EPIC Réseau ferré de France à la mission des transports collectifs terrestres au service du contrôle général économique et financier ;
 
@@ -228,7 +228,7 @@ Chargé de mission au service des systèmes d'information au secrétariat géné
 
 Chargé de mission auprès du chef du service des affaires nucléaires à la direction générale de l'énergie et des matières premières ;
 
-Chargé de mission auprès du président de la section " innovation et entreprises " au Conseil général des mines ;
+Chargé de mission auprès du président de la section " innovation et entreprises " au   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 Chargé de mission environnement au bureau de la synthèse à la direction générale de l'énergie et des matières premières ;
 
@@ -436,7 +436,7 @@ Chef du département relations avec les clients de l'institut à l'institut de l
 
 Chef du département gestion des ressources humaines à la direction de l'action régionale et de la petite et moyenne industrie, secrétariat général des DRIRE ;
 
-Chef du département Sécurité des véhicules et environnement au secrétariat général des D.R.I.R.E. à la direction de l'action régionale et de la petite et moyenne industrie ;
+Chef du département Sécurité des véhicules et environnement au secrétariat général des D. R. I. R. E. à la direction de l'action régionale et de la petite et moyenne industrie ;
 
 Chef du groupe de subdivisions de Béthune à la direction régionale de l'industrie, de la recherche et de l'environnement Nord-Pas-de-Calais ;
 
@@ -452,7 +452,7 @@ Chef du groupe de subdivisions de l'Isère à la direction régionale de l'indus
 
 Chef du groupe de subdivisions de Metz-Thionville-Longwy à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
 
-Chef du groupe de subdivisions de Meurthe-et-Moselle / Meuse à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
+Chef du groupe de subdivisions de Meurthe-et-Moselle/ Meuse à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
 
 Chef du groupe de subdivisions de Nantes à la direction régionale de l'industrie, de la recherche et de l'environnement des Pays de la Loire ;
 
@@ -552,7 +552,7 @@ Responsable de l'antenne immobilière de Toulouse à la sous-direction de l'immo
 
 Responsable de projets dans le domaine environnemental au sein du bureau de la synthèse à la direction générale des entreprises et des matières premières ;
 
-Responsable des affaires administratives liées à la gestion du corps des mines au Conseil général des mines ;
+Responsable des affaires administratives liées à la gestion du corps des mines au   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 Responsable du bureau de gestion administrative et financière à l'inspection générale des finances ;
 
@@ -626,4 +626,4 @@ Chef du service administration des ressources à la direction régionale de l'IN
 
 Chef du service études et statistiques à la direction régionale de l'INSEE Haute-Normandie ;
 
-Chargé de l'interface ESANE / services statistiques sectorielles à la direction des statistiques d'entreprises.
+Chargé de l'interface ESANE/ services statistiques sectorielles à la direction des statistiques d'entreprises.

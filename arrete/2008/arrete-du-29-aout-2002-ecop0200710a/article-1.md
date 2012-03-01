@@ -561,7 +561,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Receveur des finances.</td>
+<td>Receveur des finances. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -742,11 +742,11 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>Directeur général </td>
 </tr>
 <tr>
-<td>Chefs de mission de contrôle général économique et financier (corps du contrôle général économique et financier) (gr.C-D). </td>
+<td>Chefs de mission de contrôle général économique et financier (corps du contrôle général économique et financier) (gr. C-D). </td>
 <td>Directeur général, directeur (hors échelles C et D). </td>
 </tr>
 <tr>
-<td>Contrôleurs budgétaires et comptables ministériels (gr.C-D). </td>
+<td>Contrôleurs budgétaires et comptables ministériels (gr. C-D). </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -762,7 +762,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Contrôleurs généraux de 1re classe (gr.C-D) (corps du contrôle général économique et financier). </td>
+<td>Contrôleurs généraux de 1re classe (gr. C-D) (corps du contrôle général économique et financier). </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -770,7 +770,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Inspecteurs généraux des finances (gr.D). </td>
+<td>Inspecteurs généraux des finances (gr. D). </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -778,7 +778,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.C-D). </td>
+<td>Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr. C-D). </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -786,19 +786,19 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Vice-président du conseil général des technologies de l'information (gr.D). </td>
+<td>Vice-président du conseil général des technologies de l'information (gr. D). </td>
 <td>d° </td>
 </tr>
 <tr>
-<td>Chefs de mission de contrôle général économique et financier (gr.E). </td>
+<td>Chefs de mission de contrôle général économique et financier (gr. E). </td>
 <td>Directeur général, directeur (hors échelle E). </td>
 </tr>
 <tr>
-<td>Contrôleurs budgétaires et comptables ministériels (gr.E). </td>
+<td>Contrôleurs budgétaires et comptables ministériels (gr. E). </td>
 <td>d° </td>
 </tr>
 <tr>
-<td>Inspecteurs généraux des finances (gr.E). </td>
+<td>Inspecteurs généraux des finances (gr. E). </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -806,11 +806,11 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Présidents de section du Conseil général des mines. </td>
+<td>Présidents de section du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies. </td>
 <td>d° </td>
 </tr>
 <tr>
-<td rowspan="2">Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.E). </td>
+<td rowspan="2">Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr. E). </td>
 <td rowspan="2">d° </td>
 </tr>
 </tbody>

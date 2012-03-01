@@ -2,7 +2,7 @@
 
 La commission est présidée par le directeur de l'administration générale.
 
-Elle se compose du vice-président du conseil général des mines, du chef du corps de l'inspection générale de l'industrie et du commerce, des directeurs généraux et directeurs du ministère, du délégué à l'information et à la communication, du chef du service des industries de communication et de service, du directeur de l'une des écoles des mines, d'un directeur régional de l'industrie et de la recherche et du rapporteur de la commission.
+Elle se compose du vice-président du   Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, du chef du corps de l'inspection générale de l'industrie et du commerce, des directeurs généraux et directeurs du ministère, du délégué à l'information et à la communication, du chef du service des industries de communication et de service, du directeur de l'une des écoles des mines, d'un directeur régional de l'industrie et de la recherche et du rapporteur de la commission.
 
 Les membres de la commission peuvent se faire représenter.
 
