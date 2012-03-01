@@ -10,7 +10,7 @@
 
 3. Les membres nommés par arrêté ministériel comprennent :
 
-― un membre du Conseil général de l'industrie, de l'énergie et des technologies ;
+― un membre du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 ― un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur régional de l'environnement, de l'aménagement et du logement ;
 

@@ -20,7 +20,7 @@ g) Le chef du bureau de la sécurité des équipements industriels de la directi
 
 2° Membres nommés pour une période de trois ans par arrêté du ministre chargé de la sécurité du gaz :
 
-a) Un représentant du conseil général de l'industrie, de l'énergie et des technologies, sur proposition du vice-président du conseil général de l'industrie, de l'énergie et des technologies ;
+a) Un représentant du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, sur proposition du vice-président du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 b) Deux représentants du bureau de la sécurité des équipements industriels ;
 
@@ -30,7 +30,7 @@ d) Trois représentants des directions régionales de l'industrie, de la recherc
 
 e) Un représentant du bureau des biens d'équipement de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-f) Deux représentants de la    direction générale de la sécurité civile et de la gestion des crises au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales ;
+f) Deux représentants de la direction générale de la sécurité civile et de la gestion des crises au ministère de l'intérieur, de l'outre-mer et des collectivités territoriales ;
 
 g) Quatre personnalités qualifiées en raison de leur compétence en matière de prévention des pollutions et des risques ;
 

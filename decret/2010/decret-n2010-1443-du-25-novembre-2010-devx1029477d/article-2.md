@@ -12,7 +12,7 @@ Cette autorité s'exerce :
 
 II. ― Le ministre de l'écologie, du développement durable, des transports et du logement dispose :
 
-1° Du Conseil général de l'industrie, de l'énergie, et des technologies ;
+1° Du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 2° Du secrétariat général de la mer ;
 

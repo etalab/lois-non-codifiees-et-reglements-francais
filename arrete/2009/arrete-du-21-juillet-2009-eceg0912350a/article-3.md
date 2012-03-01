@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidatures sont adressées au vice-président du Conseil général de l'industrie, de l'énergie et des technologies.
+Les candidatures sont adressées au vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies.
 
 Elles comportent une demande établie sur papier libre accompagnée d'un dossier d'inscription comprenant :
 

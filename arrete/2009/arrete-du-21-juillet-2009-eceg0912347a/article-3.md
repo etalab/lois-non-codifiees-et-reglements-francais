@@ -1,12 +1,12 @@
 # Article 3
 
-Les candidatures au concours interne sont adressées au vice-président du Conseil général de l'industrie, de l'énergie et des technologies par la voie hiérarchique.
+Les candidatures au concours interne sont adressées au vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies par la voie hiérarchique.
 
 Elles comportent une demande établie sur papier libre accompagnée d'un dossier d'inscription comprenant :
 
 1. Un curriculum vitae ;
 
-2. Une fiche d'information, fournie par le Conseil général de l'industrie, de l'énergie et des technologies, comportant les informations utiles à l'identification du candidat et au contrôle des conditions de candidature ;
+2. Une fiche d'information, fournie par le             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies, comportant les informations utiles à l'identification du candidat et au contrôle des conditions de candidature ;
 
 3. Un document attestant que le candidat a pris connaissance de l'article 12 du décret du 16 janvier 2009 susvisé relatif à l'obligation de servir en qualité de fonctionnaire de l'Etat ;
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidatures au concours externe sur titres sont adressées au vice-président du Conseil général de l'industrie, de l'énergie et des technologies par le candidat.
+Les candidatures au concours externe sur titres sont adressées au vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies par le candidat.
 
 Elles comportent une demande établie sur papier libre accompagnée d'un dossier d'inscription comprenant :
 

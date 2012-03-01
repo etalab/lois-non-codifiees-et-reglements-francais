@@ -12,9 +12,9 @@ I.-Sont membres du comité stratégique, outre le secrétaire général des mini
 
 -le directeur du budget ;
 
--             le directeur des ressources humaines du secrétariat général des ministères économique et financier ;
+-le directeur des ressources humaines du secrétariat général des ministères économique et financier ;
 
--le vice-président du Conseil général de l'industrie, de l'énergie et des technologies.
+-le vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies.
 
 Les membres du comité stratégique peuvent, le cas échéant, s'y faire représenter.
 

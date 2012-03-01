@@ -46,9 +46,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -60,29 +58,29 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td>
-<p align="right">180 </p>
+<p align="center">180 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Vice-président du Conseil général de l'industrie, de l'énergie et des technologies </p>
+<p>Vice-président du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="right">180 </p>
+<p align="center">180 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Vice-président délégué du Conseil général de l'industrie, de l'énergie et des technologies </p>
+<p>Vice-président délégué du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies </p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="right">180 </p>
+<p align="center">180 </p>
 </td>
 </tr>
 <tr>
@@ -93,7 +91,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1 </p>
 </td>
 <td rowspan="2">
-<p align="right">160 </p>
+<p align="center">160 </p>
 </td>
 </tr>
 </tbody>
@@ -114,9 +112,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -157,9 +153,9 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Directeur des ressources humaines au secrétariat général des ministères économique et financier</td>
+<td>Directeur des ressources humaines au secrétariat général des ministères économique et financier1</td>
 <td>
-<p align="center">1 </p>
+<br/>
 </td>
 <td>
 <p align="center">170 </p>
@@ -210,12 +206,12 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Directeur des affaires juridiques</td>
+<td>Directeur des affaires juridiques1</td>
 <td>
-<p align="center">1</p>
+<br/>
 </td>
 <td>
-<p align="center">170</p>
+<p align="center">170 </p>
 </td>
 </tr>
 <tr>
@@ -231,7 +227,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur de la législation fiscale</p>
+<p>Directeur de la législation fiscale </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -242,7 +238,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur, adjoint chargé de la gestion publique</p>
+<p>Directeur, adjoint chargé de la gestion publique </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -253,7 +249,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur, adjoint chargé de la fiscalité</p>
+<p>Directeur, adjoint chargé de la fiscalité </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -265,10 +261,10 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Directeur, adjoint chargé du pilotage du réseau et des moyens </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">155</p>
+<p align="center">155 </p>
 </td>
 </tr>
 <tr>
@@ -399,9 +395,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -501,19 +495,19 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Chef de service, délégation générale à l'emploi et à la formation professionnelle </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">120</p>
+<p align="center">120 </p>
 </td>
 </tr>
 <tr>
-<td>Chef de service à la direction générale des douanes et droits indirects</td>
+<td>Chef de service à la direction générale des douanes et droits indirects1</td>
 <td>
-<p align="center">1</p>
+<br/>
 </td>
 <td>
-<p align="center">125</p>
+<p align="center">125 </p>
 </td>
 </tr>
 <tr>
@@ -528,10 +522,10 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Chef de service, secrétaire général à la direction générale de la compétitivité, de l'industrie et des services </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">115</p>
+<p align="center">115 </p>
 </td>
 </tr>
 <tr>
@@ -541,7 +535,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'un service au secrétariat général des ministères économique et financier</p>
+<p align="center">En charge d'un service au secrétariat général des ministères économique et financier </p>
 </td>
 <td/>
 <td/>
@@ -552,7 +546,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">125</p>
+<p align="center">125 </p>
 </td>
 </tr>
 <tr>
@@ -561,16 +555,16 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">125</p>
+<p align="center">125 </p>
 </td>
 </tr>
 <tr>
 <td>Chef du service de l'environnement professionnel </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">125</p>
+<p align="center">125 </p>
 </td>
 </tr>
 <tr>
@@ -579,18 +573,18 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">115</p>
+<p align="center">115 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Chef de la délégation aux systèmes d'information</p>
+<p>Chef de la délégation aux systèmes d'information </p>
 </td>
 <td rowspan="2">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td rowspan="2">
-<p align="center">115</p>
+<p align="center">115 </p>
 </td>
 </tr>
 </tbody>
@@ -611,21 +605,19 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économique et financier</p>
+<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économique et financier </p>
 </td>
 </tr>
 <tr>
 <td>Sous-directeur des ressources humaines ministérielles</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">100 </p>
@@ -634,7 +626,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur des ressources humaines de l'administration centrale</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -643,7 +635,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur des politiques sociales et des conditions de travail</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -652,7 +644,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-direction des affaires budgétaires et de la performance</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">90 </p>
@@ -670,19 +662,19 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-direction supports, productions et événements </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td>Sous-direction de l'informatique des services centraux </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
@@ -691,15 +683,13 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">En charge d'une sous-direction relevant de la délégation générale à l'emploi et à la formation professionnelle </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>Sous-directeur de l'insertion et de la cohésion sociale </td>
@@ -756,7 +746,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur de l'information et de la légistique</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -863,7 +853,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>Sous-directeur de la huitième sous-direction1</td>
+<td>Sous-directeur de la huitième sous-direction</td>
 <td>
 <p align="center">1</p>
 </td>
@@ -1092,12 +1082,12 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction générale des finances publiques : </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale des finances publiques </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du contrôle fiscal</p>
+<p>Sous-directeur du contrôle fiscal </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1108,7 +1098,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Direction de la législation fiscale : Sous-directeur de la fiscalité directe des entreprises</p>
+<p>Direction de la législation fiscale : Sous-directeur de la fiscalité directe des entreprises </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1131,7 +1121,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Direction de la législation fiscale : Sous-directeur de la fiscalité des transactions</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -1140,7 +1130,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Direction de la législation fiscale : Sous-directeur des prospectives et relations internationales</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -1148,7 +1138,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du contentieux des impôts des particuliers</p>
+<p>Sous-directeur du contentieux des impôts des particuliers </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1163,12 +1153,12 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des particuliers</p>
+<p>Sous-directeur des particuliers </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1180,7 +1170,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur des professionnels et de l'action en recouvrement</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -1198,7 +1188,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur de la gestion comptable et financière des collectivités locales</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110 </p>
@@ -1215,7 +1205,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la comptabilité de l'Etat</p>
+<p>Sous-directeur de la comptabilité de l'Etat </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1226,7 +1216,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des dépenses de l'Etat et des opérateurs</p>
+<p>Sous-directeur des dépenses de l'Etat et des opérateurs </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1237,7 +1227,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'encadrement et des relations sociales</p>
+<p>Sous-directeur de l'encadrement et des relations sociales </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1248,7 +1238,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la gestion des personnels et des parcours professionnels</p>
+<p>Sous-directeur de la gestion des personnels et des parcours professionnels </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1259,7 +1249,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la performance et du contrôle de gestion</p>
+<p>Sous-directeur de la performance et du contrôle de gestion </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1270,7 +1260,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la gestion du budget et de l'immobilier</p>
+<p>Sous-directeur de la gestion du budget et de l'immobilier </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1281,7 +1271,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des études et du développement</p>
+<p>Sous-directeur des études et du développement </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1292,7 +1282,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la production</p>
+<p>Sous-directeur de la production </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1302,11 +1292,9 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects</p>
+<td colspan="3">
+<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>
@@ -1377,10 +1365,10 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Sous-directeur, chef de l'inspection des services </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -1471,9 +1459,6 @@ I.-Fonctions exercées en administration centrale
 <table>
 <tbody>
 <tr>
-<td colspan="3"/>
-</tr>
-<tr>
 <td colspan="3">
 <p align="center">En charge d'une sous-direction relevant de la direction générale de la compétitivité, de l'industrie et des services </p>
 </td>
@@ -1524,7 +1509,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des activités postales et des services aux entreprises</p>
+<p>Sous-directeur des activités postales et des services aux entreprises </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1568,7 +1553,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la prospective, des études économiques et de l'évaluation</p>
+<p>Sous-directeur de la prospective, des études économiques et de l'évaluation </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1579,7 +1564,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des réseaux et des usages des technologies de l'information et de la communication</p>
+<p>Sous-directeur des réseaux et des usages des technologies de l'information et de la communication </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1590,49 +1575,51 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'électronique et du logiciel </p>
+<p>Sous-directeur de l'électronique et du logiciel</p>
 </td>
-<td>
+<td valign="middle">
+<pre> </pre>
 <pre>1</pre>
 </td>
-<td>
-<pre> 90</pre>
+<td align="center" valign="middle">
+<pre> </pre>
+<pre>90</pre>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign</p>
+<p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td align="center">90</td>
 </tr>
 <tr>
 <td>
 <p>Sous-directeur du tourisme </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td align="center">90</td>
 </tr>
 <tr>
 <td>
 <p>Sous-directeur de la qualité, de la normalisation, de la métrologie et de la propriété industrielle </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td align="center">90</td>
 </tr>
 <tr>
 <td>
 <p>Sous-directeur des chambres consulaires </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td align="center">90</td>
 </tr>
 <tr>
 <td>
 <p>Sous-directeur des affaires juridiques et du droit des entreprises </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td align="center">90</td>
 </tr>
 <tr>
 <td colspan="3">
@@ -1731,14 +1718,11 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -1757,13 +1741,13 @@ I.-Fonctions exercées en administration centrale
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td>Expert de haut niveau ou directeur de projet à la direction générale de la modernisation de l'Etat</td>
 <td>
-<p align="center">3 </p>
+<p align="center">3</p>
 </td>
 <td>
 <p align="center">90 </p>
@@ -1783,7 +1767,7 @@ I.-Fonctions exercées en administration centrale
 <tr>
 <td>Expert de haut niveau ou directeur de projet à la direction générale du Trésor</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">90 </p>
@@ -1791,7 +1775,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Expert de haut niveau ou directeur de projet à la direction générale du Trésor</p>
+<p>Expert de haut niveau ou directeur de projet à la direction générale du Trésor </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1806,13 +1790,13 @@ I.-Fonctions exercées en administration centrale
 <p align="center">7</p>
 </td>
 <td>
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 <tr>
 <td>Directeur de projet à la direction générale des finances publiques, en charge de la mission du système d'informations des ressources humaines</td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">100 </p>
@@ -1860,15 +1844,6 @@ I.-Fonctions exercées en administration centrale
 <p align="center">80 </p>
 </td>
 </tr>
-<tr>
-<td valign="top"/>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -1911,20 +1886,17 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">DE POINTS </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secrétaire général au secrétariat général des affaires européennes</p>
+<p>Secrétaire général au secrétariat général des affaires européennes </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1935,7 +1907,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Secrétaire général adjoint au secrétariat général des affaires européennes</p>
+<p>Secrétaire général adjoint au secrétariat général des affaires européennes </p>
 </td>
 <td>
 <p align="center">2 </p>
@@ -1968,14 +1940,11 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">DE POINTS </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -2183,7 +2152,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
@@ -2192,7 +2161,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">70</p>
+<p align="center">70 </p>
 </td>
 </tr>
 <tr>
@@ -2201,7 +2170,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">70</p>
+<p align="center">70 </p>
 </td>
 </tr>
 <tr>
@@ -2210,7 +2179,7 @@ I.-Fonctions exercées en administration centrale
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
@@ -2237,14 +2206,11 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -2357,14 +2323,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">e) Agence des participations de l'Etat </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2401,28 +2361,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td/>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
-</td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td>
+<td colspan="3">
 <p align="center">g) Ecole nationale du Trésor public </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2437,14 +2377,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">h) Direction des vérifications nationales et internationale et direction des grandes entreprises relevant de la direction générale des impôts </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2470,14 +2404,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">i) Service dénommé Programme COPERNIC </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2503,14 +2431,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">j) Direction nationale des enquêtes fiscales, direction nationale des interventions domaniales, direction nationale des vérifications de situations fiscales, direction des résidents à l'étranger et des services généraux, et École nationale des impôts relevant de la direction générale des impôts </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
+<td colspan="3">
+<p align="center">j) Direction nationale des enquêtes fiscales, direction nationale des interventions domaniales, direction nationale des vérifications de situations fiscales, direction des résidents à l'étranger et des services généraux, et École nationale des impôts relevant de la direction générale des impôts</p>
 </td>
 </tr>
 <tr>
@@ -2569,14 +2491,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">k) Centre national de formation professionnelle, École nationale du cadastre et service de la documentation nationale du cadastre relevant de la direction générale des impôts </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2613,14 +2529,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">l) Service dénommé Impôts service </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2635,14 +2545,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">m) Direction nationale du renseignement et des enquêtes douanières relevant de la direction générale des douanes et droits indirects </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2689,14 +2593,8 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">n) Direction nationale du recrutement et de la formation professionnelle relevant de la direction générale des douanes et droits indirects </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2722,32 +2620,26 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>Directeur fonctionnel, directeur de l'école de La Rochelle</td>
+<td>Directeur fonctionnel, directeur de l'école de La Rochelle1</td>
 <td>
-<p align="center">1</p>
+<br/>
 </td>
 <td>
 <p align="center">80 </p>
 </td>
 </tr>
 <tr>
-<td>Directeur fonctionnel, directeur de l'école de Tourcoing</td>
+<td>Directeur fonctionnel, directeur de l'école de Tourcoing1</td>
 <td>
-<p align="center">1</p>
+<br/>
 </td>
 <td>
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">o) Direction nationale des statistiques du commerce extérieur relevant de la direction générale des douanes et droits indirects </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>
@@ -2762,15 +2654,9 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">p) Centre informatique douanier relevant de la direction générale des douanes et droits indirects </p>
 </td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
-</td>
 </tr>
 <tr>
 <td>
@@ -2784,11 +2670,9 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">q) Direction nationale d'enquêtes de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>
@@ -2802,11 +2686,9 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">r) Ecole de la direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>
@@ -2818,7 +2700,7 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <tr>
 <td>
 <p align="center">s) Opérateur national de paye </p>
-<p align="center">Directeur</p>
+<p align="center">Directeur </p>
 </td>
 <td/>
 <td/>
@@ -2826,10 +2708,10 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <tr>
 <td>Chef de service </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">115</p>
+<p align="center">115 </p>
 </td>
 </tr>
 <tr>
@@ -2838,26 +2720,25 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Expert de haut niveau ou directeur de projet</p>
+<p align="left">Expert de haut niveau ou directeur de projet </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">s) Services des biens à double usage</p>
+<p align="center">s) Services des biens à double usage </p>
 </td>
-<td/>
-<td/>
+<td colspan="2"/>
 </tr>
 <tr>
 <td>Sous-directeur, chef du service</td>
@@ -2865,12 +2746,12 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">t) TRACFIN</p>
+<p align="center">t) TRACFIN </p>
 </td>
 <td/>
 <td/>
@@ -2881,7 +2762,7 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">130</p>
+<p align="center">130 </p>
 </td>
 </tr>
 <tr>
@@ -2890,36 +2771,32 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">u) Service commun des laboratoires</p>
+<td colspan="3">
+<p align="center">u) Service commun des laboratoires </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>Chef du service </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">v) Service des retraites de l'Etat</p>
+<td colspan="3">
+<p align="center">v) Service des retraites de l'Etat </p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">Chef de service, directeur</td>
 <td rowspan="2">
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td rowspan="2">
 <p align="center">125 </p>
@@ -2940,14 +2817,11 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td valign="top">
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -3008,7 +2882,6 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 <p align="left">Circonscriptions territoriales : Provence-Alpes-Côte d'Azur, Aquitaine, Pays de la Loire, Lorraine, Nord, Pas-de-Calais, Rhône-Alpes, Ile-de-France </p>
 </td>
 <td>
-<br/>
 <p align="center">7 </p>
 </td>
 <td>
@@ -3028,14 +2901,11 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">D'EMPLOIS </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
-<br/>
 <p align="center">de points </p>
-<br/>
 <p align="center">par emploi </p>
 </td>
 </tr>
@@ -3079,7 +2949,7 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">Directeur régional de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">Directeur régional de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -3159,14 +3029,8 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="3">
 <p align="center">Directeur régional de l'industrie, de la recherche et de l'environnement </p>
-</td>
-<td>
-<pre/>
-</td>
-<td>
-<pre/>
 </td>
 </tr>
 <tr>

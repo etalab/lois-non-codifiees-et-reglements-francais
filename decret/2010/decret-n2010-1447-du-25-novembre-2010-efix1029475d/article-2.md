@@ -2,7 +2,7 @@
 
 I. ― Le ministre de l'économie, des finances et de l'industrie a autorité sur :
 
-― le Conseil général de l'industrie, de l'énergie et des technologies ;
+― le             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
 ― la direction générale du Trésor ;
 

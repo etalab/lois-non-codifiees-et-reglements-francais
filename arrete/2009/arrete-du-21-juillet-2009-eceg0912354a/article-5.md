@@ -6,6 +6,6 @@ Le candidat produit à cet effet un dossier faisant apparaître ses activités p
 
 Ce dossier doit être remis par le candidat quinze jours au moins avant la date de l'entretien.
 
-Le service du Conseil général de l'industrie, de l'énergie et des technologies fournit aux candidats, lors de leur inscription, un modèle de dossier et toutes les informations utiles pour la constitution de celui-ci.
+Le service du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies fournit aux candidats, lors de leur inscription, un modèle de dossier et toutes les informations utiles pour la constitution de celui-ci.
 
 En application de l'article 11 du décret du 16 janvier 2009 susvisé, le comité de sélection complète son appréciation par la consultation des dossiers individuels des candidats.

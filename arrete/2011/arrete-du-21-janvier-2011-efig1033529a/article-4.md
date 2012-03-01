@@ -1,6 +1,6 @@
 # Article 4
 
-Le jury du concours externe sur titres est présidé par le vice-président du Conseil général de l'industrie, de l'énergie et des technologies ou par un ingénieur général des mines le représentant ; la voix du président est prépondérante en cas de partage égal des voix.
+Le jury du concours externe sur titres est présidé par le vice-président du             Conseil général de l'économie, de l'industrie, de l'énergie et des technologies ou par un ingénieur général des mines le représentant ; la voix du président est prépondérante en cas de partage égal des voix.
 
 Le jury comprend au moins quatre autres personnes, choisies en raison de leurs compétences.
 
