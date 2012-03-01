@@ -2,7 +2,7 @@
 
 Le présent arrêté a pour objet de déterminer les modalités d'application de l'article R. 131-26 du code de la construction et de l'habitation.
 
-Les dispositions du présent arrêté s'appliquent aux bâtiments et parties de bâtiments existants de surface hors œuvre nette supérieure à 1 000 mètres carrés, à l'exception des catégories suivantes de bâtiments :
+Les dispositions du présent arrêté s'appliquent aux bâtiments et parties de bâtiments existants de surface de plancher supérieure à 1 000 mètres carrés, à l'exception des catégories suivantes de bâtiments :
 
 a) Les bâtiments ou parties de bâtiments qui, en raison de contraintes particulières liées à un usage autre que d'habitation, doivent garantir des conditions particulières de température, d'hygrométrie ou de qualité de l'air ;
 

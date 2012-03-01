@@ -6,7 +6,7 @@ Pour obtenir la contribution de son locataire au partage de l'économie de charg
 
 80* (a + b) si le bâtiment présente une consommation conventionnelle d'énergie primaire avant les travaux inférieure à 180* (a + b) kWh / m ². an.
 
-La surface considérée est la surface hors œuvre nette du bâtiment. La valeur du coefficient "a" est précisée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
+La surface considérée est la surface de plancher du bâtiment. La valeur du coefficient "a" est précisée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
 
 <div align="center">
 
@@ -59,9 +59,7 @@ La surface considérée est la surface hors œuvre nette du bâtiment. La valeur
 
 </div>
 
-La valeur du coefficient "b" est précisée dans le tableau ci-après en fonction de l'altitude du terrain d'assiette de la construction.
-
-<div align="center">
+La valeur du coefficient "b" est précisée dans le tableau ci-après en fonction de l'altitude du terrain d'assiette de la construction. <div align="center">
 
 <table>
 <tbody>

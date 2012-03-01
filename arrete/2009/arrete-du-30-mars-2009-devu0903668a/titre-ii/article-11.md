@@ -6,7 +6,7 @@ Pour bénéficier de l'avance remboursable aux conditions prévues au 2° de l'a
 
 80* (a + b) si le bâtiment présente une consommation conventionnelle d'énergie primaire avant les travaux inférieure à 180* (a + b) kWh / m ² / an.
 
-La surface considérée est la surface hors œuvre nette du bâtiment. La valeur du coefficient " a " est donnée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
+La surface considérée est la surface de plancher du bâtiment. La valeur du coefficient " a " est donnée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
 
 <div align="center">
 
@@ -59,7 +59,9 @@ La surface considérée est la surface hors œuvre nette du bâtiment. La valeur
 
 </div>
 
-La valeur du coefficient b est donnée dans le tableau ci-après en fonction de l'altitude du terrain d'assiette de la construction. <div align="center">
+La valeur du coefficient b est donnée dans le tableau ci-après en fonction de l'altitude du terrain d'assiette de la construction.
+
+<div align="center">
 
 <table>
 <tbody>
@@ -70,19 +72,19 @@ La valeur du coefficient b est donnée dans le tableau ci-après en fonction de 
 </th>
 </tr>
 <tr>
-<td align="center"> 400 m <br/>
+<td align="center">400 m <br/>
 </td>
 <td align="center">0 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1   400 m et 800 m <br/>
+<td align="center">1 400 m et 800 m <br/>
 </td>
 <td align="center">0, 1 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1      800 m <br/>
+<td align="center">1 800 m <br/>
 </td>
 <td align="center">0, 2<br/>
 </td>

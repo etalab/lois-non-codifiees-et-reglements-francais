@@ -4,7 +4,7 @@ Pour obtenir la contribution de son locataire au partage de l'économie de charg
 
 150* (a + b)
 
-La surface considérée est la surface hors œuvre nette du bâtiment. La valeur du coefficient " a " est précisée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
+La surface considérée est la surface de plancher du bâtiment. La valeur du coefficient " a " est précisée dans le tableau ci-après en fonction des zones climatiques définies dans l'arrêté du 13 juin 2008 susvisé.
 
 <table>
 <tbody>

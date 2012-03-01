@@ -1,6 +1,6 @@
 # Article 7
 
-1° Les personnes mentionnées à l'article 1er exploitant des magasins de commerce de détail d'une surface de plancher hors oeuvre nette supérieure à 6 000 mètres carrés ou d'une surface de vente supérieure à 3 000 mètres carrés équipent ceux de leurs locaux desservis par les entreprises de transport de fonds des dispositifs mentionnés au chapitre Ier, dans les conditions prévues à ce chapitre.
+1° Les personnes mentionnées à l'article 1er exploitant des magasins de commerce de détail d'une     surface de plancher supérieure à 6 000 mètres carrés ou d'une surface de vente supérieure à 3 000 mètres carrés équipent ceux de leurs locaux desservis par les entreprises de transport de fonds des dispositifs mentionnés au chapitre Ier, dans les conditions prévues à ce chapitre.
 
 2° Les personnes mentionnées à l'article 1er qui, réunies dans un même immeuble, font partie d'un ensemble commercial comptant au moins vingt unités dont la surface totale de vente excède 1 600 mètres carrés et bénéficiant d'aménagements conçus pour permettre à une même clientèle l'accès de leurs établissements équipent ceux de leurs locaux desservis par les entreprises de transport de fonds :
 

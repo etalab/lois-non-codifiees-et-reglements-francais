@@ -14,7 +14,7 @@ I.-Pour tout type de bâtiment :
 
 5° La date d'établissement de l'attestation et la signature du maître d'ouvrage.
 
-II.-Pour les bâtiments de surface hors œuvre nette de plus de 1 000 m ², mentionnés à l'article R. 111-22 du code de la construction et de l'habitation :
+II.-Pour les bâtiments de surface de plancher de plus de 1 000 m ², mentionnés à l'article R. 111-22 du code de la construction et de l'habitation :
 
 1° Les choix d'approvisionnement en énergie envisagés à l'issue de l'étude de faisabilité telle que définie par l'arrêté du 18 décembre 2007 susvisé ;
 
@@ -22,7 +22,7 @@ II.-Pour les bâtiments de surface hors œuvre nette de plus de 1 000 m ², ment
 
 III.-Pour tout type de bâtiment :
 
-1° La valeur de la surface hors œuvre nette au sens de la réglementation thermique SHONRT ;
+1° La valeur de la surface de plancher au sens de la réglementation thermique SHONRT ;
 
 2° Les valeurs des coefficients Bbio et Bbiomax du bâtiment ;
 

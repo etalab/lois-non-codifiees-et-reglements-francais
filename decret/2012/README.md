@@ -94,6 +94,7 @@
 - [Décret n°2012-96 du 26 janvier 2012 (ESRH1113222D)](decret-n2012-96-du-26-janvier-2012-esrh1113222d)
 - [Décret n°2012-271 du 27 février 2012 (ETSZ1134794D)](decret-n2012-271-du-27-fevrier-2012-etsz1134794d)
 - [Décret n°2001-779 du 29 août 2001 (MENF0101286D)](decret-n2001-779-du-29-aout-2001-menf0101286d)
+- [Décret n°2011-2076 du 29 décembre 2011 (BCRE1121296D)](decret-n2011-2076-du-29-decembre-2011-bcre1121296d)
 - [Décret n°2012-117 du 30 janvier 2012 (DEFD1128841D)](decret-n2012-117-du-30-janvier-2012-defd1128841d)
 - [Décret n°2012-118 du 30 janvier 2012 (DEVL1134012D)](decret-n2012-118-du-30-janvier-2012-devl1134012d)
 - [Décret n°2012-119 du 30 janvier 2012 (JUSF1132728D)](decret-n2012-119-du-30-janvier-2012-jusf1132728d)

@@ -207,7 +207,7 @@
 <tr>
 <td align="center">Parquet massif sur lambourdes. <br/>
 </td>
-<td align="center">Parquet massif, pose traditionnelle sur lambourdes. Les parquets porteurs directement posés sur un solivage porteur sont comptés dans l'ouvrage  plancher bois porteur .<br/>
+<td align="center">Parquet massif, pose traditionnelle sur lambourdes. Les parquets porteurs directement posés sur un solivage porteur sont comptés dans l'ouvrage plancher bois porteur .<br/>
 </td>
 <td align="center">Exprimée en surface nette après déduction des trémies.<br/>
 </td>
@@ -217,7 +217,7 @@
 <tr>
 <td align="center">Autre parquet.<br/>
 </td>
-<td align="center">Parquet rapporté en bois massif ou dérivés du bois, généralement finis, pose flottante ou collée. Les parquets porteurs directement posés sur un solivage porteur sont comptés dans l'ouvrage  plancher bois porteur .<br/>
+<td align="center">Parquet rapporté en bois massif ou dérivés du bois, généralement finis, pose flottante ou collée. Les parquets porteurs directement posés sur un solivage porteur sont comptés dans l'ouvrage plancher bois porteur .<br/>
 </td>
 <td align="center">Exprimée en surface nette après déduction des trémies.<br/>
 </td>
@@ -310,7 +310,7 @@
 </td>
 <td align="center">Forfait à compter lorsqu'il existe divers ouvrages en bois ou panneaux dérivés du bois (cache-tuyaux, coffres de volets roulants, coffrages perdus, etc.).<br/>
 </td>
-<td align="center">Exprimée en surface hors œuvre nette du bâtiment.<br/>
+<td align="center">Exprimée en surface de plancher du bâtiment.<br/>
 </td>
 <td align="center">2 dm³/m²<br/>
 </td>

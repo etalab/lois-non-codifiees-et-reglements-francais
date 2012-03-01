@@ -4,9 +4,9 @@ L'étude de faisabilité technique et économique doit comporter les éléments 
 
 1. Pour le système pressenti, l'étude doit faire apparaître :
 
-1. a. La consommation d'énergie du système pressenti, en kWh d'énergie primaire par mètre carré de surface hors oeuvre nette et par an, et en MWh d'énergie primaire par an ;
+1. a. La consommation d'énergie du système pressenti, en kWh d'énergie primaire par mètre carré de surface de plancher et par an, et en MWh d'énergie primaire par an ;
 
-1. b. Les émissions de gaz à effet de serre du système pressenti, en kgCO2 par mètre carré de surface hors oeuvre nette et par an, et en tonnes de CO2 par an, calculées sur la base des consommations d'énergie déterminées en 1. a et des coefficients de conversion de l'annexe 4 de l'arrêté du 15 septembre 2006 susvisé ;
+1. b. Les émissions de gaz à effet de serre du système pressenti, en kgCO2 par mètre carré de surface de plancher et par an, et en tonnes de CO2 par an, calculées sur la base des consommations d'énergie déterminées en 1. a et des coefficients de conversion de l'annexe 4 de l'arrêté du 15 septembre 2006 susvisé ;
 
 1. c. La classe énergie atteinte par le système pressenti, conformément aux classes définies à l'annexe 3 de l'arrêté du 15 septembre 2006 susvisé ;
 
@@ -20,7 +20,7 @@ L'étude de faisabilité technique et économique doit comporter les éléments 
 
 3. a. La différence de coût d'investissement entre la variante et le système pressenti ;
 
-3. b. La différence de consommation d'énergie entre la variante et le système pressenti, en kWh d'énergie primaire par mètre carré de surface hors oeuvre nette et par an, et en MWh d'énergie primaire par an ;
+3. b. La différence de consommation d'énergie entre la variante et le système pressenti, en kWh d'énergie primaire par mètre carré de surface de plancher et par an, et en MWh d'énergie primaire par an ;
 
 3. c. La différence d'émissions de gaz à effet de serre entre la variante et le système pressenti, en kgCO2 par mètre carré de surface hors oe  oeuvre nette et par an, et en tonnes de CO2 par an. Ces écarts d'émissions sont calculés sur la base des consommations d'énergie déterminées en 2. b et des coefficients de conversion de l'annexe 4 de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments existants proposés à la vente en France métropolitaine ;
 
@@ -38,10 +38,10 @@ Pour chacune des variantes, l'étude prend en compte l'ensemble des éléments i
 
 Par ailleurs, si le maître d'ouvrage le souhaite, il peut faire figurer les indicateurs suivants dans l'étude de chacune des variantes envisageables et en tenir compte dans son oeuvre nette, et en MWh d'énergie primaire ;
 
-3. j. Le cumul des émissions de gaz à effet de serre évitées par la variante par rapport au système pressenti, sur trente ans, en kgCO2 par mètre carré de surface hors oeuvre nette, et en tonnes de CO2 ;
+3. j. Le cumul des émissions de gaz à effet de serre évitées par la variante par rapport au système pressenti, sur trente ans, en kgCO2 par mètre carré de surface de plancher, et en tonnes de CO2 ;
 
-3. k. Le coût global actualisé de la variante, sur trente ans, en euros TTC et en euros TTC par mètre carré de surface hors oeuvre nette ;
+3. k. Le coût global actualisé de la variante, sur trente ans, en euros TTC et en euros TTC par mètre carré de surface de plancher ;
 
-3. l. Le coût global annualisé de la variante, en euros TTC par an et en euros TTC par an et par mètre carré de surface hors oeuvre nette ;
+3. l. Le coût global annualisé de la variante, en euros TTC par an et en euros TTC par an et par mètre carré de surface de plancher ;
 
 3. m. Le taux de rentabilité interne de la variante, en pourcentage.
