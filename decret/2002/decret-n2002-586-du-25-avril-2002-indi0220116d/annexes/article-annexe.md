@@ -20,7 +20,7 @@ La notion de label caractérise un processus de formation et se différencie de 
 
 La création du label " école de l'internet " vise à faire émerger des démarches au croisement des technologies, des usages et des métiers dans tous les secteurs d'activités (industrie, commerce, transport, médical, communication, loisirs, vie civile...) caractérisées par un certain nombre de critères concernant la finalité, le contenu et l'approche pédagogique. Un tel processus devrait permettre d'offrir à l'étudiant du xxie siècle une meilleure compréhension de son futur métier et les moyens de son adaptation professionnelle.
 
-La labélisation doit stimuler les nouveaux usages des sciences et technologies de l'information et de la communication, répondre à une attente forte de l'ensemble des entreprises et services publics et inciter à la création d'entreprises.L'objet de cette démarche est d'entraîner rapidement l'ensemble des formations supérieures professionnalisantes vers cette profonde mutation économique et sociale, les besoins de formation se situant à tous les niveaux.
+La labélisation doit stimuler les nouveaux usages des sciences et technologies de l'information et de la communication, répondre à une attente forte de l'ensemble des entreprises et services publics et inciter à la création d'entreprises. L'objet de cette démarche est d'entraîner rapidement l'ensemble des formations supérieures professionnalisantes vers cette profonde mutation économique et sociale, les besoins de formation se situant à tous les niveaux.
 
 Le label s'adresse aux formations professionnalisantes de niveau I à III en formation initiale ou en formation continue diplômante. Cela concerne, sans restriction :
 
@@ -32,7 +32,7 @@ Le label s'adresse aux formations professionnalisantes de niveau I à III en for
 
 Les formations labélisées fonctionnent en réseau et privilégient un mode de travail en partenariat, tant avec d'autres institutions d'enseignement qu'avec des acteurs économiques nationaux et régionaux.
 
-La démarche de labélisation vise à mettre en oeuvre dans tout cursus, existant ou nouveau, des manières d'être et de faire préparant les étudiants aux exigences d'une imminente " relation sociétale internétisée ".D'une manière générale, elle n'implique pas nécessairement la création de nouvelles filières spécialisées mais peut également valider des cursus déjà existants ou leur transformation.
+La démarche de labélisation vise à mettre en oeuvre dans tout cursus, existant ou nouveau, des manières d'être et de faire préparant les étudiants aux exigences d'une imminente " relation sociétale internétisée ". D'une manière générale, elle n'implique pas nécessairement la création de nouvelles filières spécialisées mais peut également valider des cursus déjà existants ou leur transformation.
 
 Pour l'étudiant (ou le stagiaire de formation continue), le label viendra d'une part lui apporter l'assurance de trouver, dans le cursus de formation, un environnement favorable avec des outils adaptés et une pédagogie innovante, d'autre part lui offrir une meilleure insertion professionnelle dans le domaine concerné, aux niveaux national, européen et international.
 
@@ -44,23 +44,23 @@ Pour les entreprises et les services publics, le label donnera la garantie que d
 
 Les critères de labélisation qui ne manqueront pas d'évoluer avec l'évolution des technologies, des usages et des services sont définis autour de sept catégories prescriptives.
 
-3. 1. Profil de formation
+3.1. Profil de formation
 
 L'étudiant ayant suivi une formation labélisée maîtrise les technologies de l'information et de la communication et est capable d'en piloter la mise en oeuvre. Il est spécialisé dans la conception de nouveaux services selon une démarche partant des usages et des contenus. Il sait mettre en oeuvre la technologie de l'internet au meilleur niveau, notamment pour gérer un projet concernant le déploiement d'une nouvelle activité sur internet.
 
 Dès lors, sa formation, outre la composante scientifique et technologique dans les domaines des communications numériques, de l'informatique, des systèmes d'information et des réseaux, accorde une place importante aux sciences économiques, juridiques, sociales et de gestion.
 
-D'une manière générale, dans tout cursus labélisé, la place réservée aux enseignements en sciences et technologies de l'information et de la communication (STIC) et aux enseignements généraux non techniques liés au métier et / ou à internet (sciences humaines et sociales, économie, droit, etc.) doit respecter un volume horaire global minimum et, pour chacun de ces deux types d'enseignement, des proportions minimales. La commission de labélisation en fixera les règles de façon précise.
+D'une manière générale, dans tout cursus labélisé, la place réservée aux enseignements en sciences et technologies de l'information et de la communication (STIC) et aux enseignements généraux non techniques liés au métier et/ ou à internet (sciences humaines et sociales, économie, droit, etc.) doit respecter un volume horaire global minimum et, pour chacun de ces deux types d'enseignement, des proportions minimales. La commission de labélisation en fixera les règles de façon précise.
 
-Dans le cas des formations d'ingénieurs, il est proposé un volume horaire minimum de l'ordre de 1 200 heures d'enseignement encadré et au moins 6 mois de stage effectués majoritairement chez des utilisateurs (entreprises ou collectivités). Dans ce cursus, le volume horaire consacré aux STIC est au moins de 50 % et celui consacré aux enseignements généraux non techniques liés au métier et / ou à internet (sciences humaines et sociales, économie, droit, management, entrepreneuriat, etc.) est au moins de 30 %.
+Dans le cas des formations d'ingénieurs, il est proposé un volume horaire minimum de l'ordre de 1 200 heures d'enseignement encadré et au moins 6 mois de stage effectués majoritairement chez des utilisateurs (entreprises ou collectivités). Dans ce cursus, le volume horaire consacré aux STIC est au moins de 50 % et celui consacré aux enseignements généraux non techniques liés au métier et/ ou à internet (sciences humaines et sociales, économie, droit, management, entrepreneuriat, etc.) est au moins de 30 %.
 
 Pour les autres formations (DESS, écoles de commerce, niveau II et niveau III), la commission de labélisation proposera les volumes horaires et proportions minimaux.
 
 La formation comporte un aspect international significatif : le recrutement, les méthodes pédagogiques, les stages, etc., sont utilisés pour placer les étudiants dans un contexte international.
 
-3. 2. Contenu de la formation
+3.2. Contenu de la formation
 
-La formation comprend plusieurs catégories d'enseignements.A côté des enseignements généraux directement liés aux métiers visés par la formation, deux autres types d'enseignements doivent être proposés. Ils sont d'importance variable en fonction de la formation concernée et peuvent s'intégrer de façon progressive dans le cursus. En effet, la démarche pédagogique peut être différente selon le métier, le niveau et les compétences des étudiants.
+La formation comprend plusieurs catégories d'enseignements. A côté des enseignements généraux directement liés aux métiers visés par la formation, deux autres types d'enseignements doivent être proposés. Ils sont d'importance variable en fonction de la formation concernée et peuvent s'intégrer de façon progressive dans le cursus. En effet, la démarche pédagogique peut être différente selon le métier, le niveau et les compétences des étudiants.
 
 Enseignements en sciences des technologies de la communication et de l'information
 
@@ -70,7 +70,7 @@ Enseignements développés spécifiquement par la formation
 
 Les enseignements développés spécifiquement sont liés aux secteurs d'application de la formation. Ils bénéficient des compétences présentes localement à travers la recherche et les activités des entreprises et conservent une grande pertinence et une grande actualité. Ils comportent un volet sciences et technologie d'importance variable et développent un volet applicatif lié à un secteur particulier de la société de l'information. Ils sont le lieu privilégié d'intervention de professionnels et donnent lieu à des études et à la réalisation de projets menés en relation étroite avec eux. Ces enseignements visent, par exemple, à permettre aux étudiants de s'adapter au contexte complexe que créent les nouveaux modèles de l'économie (" e-services ",).
 
-3. 3. Pédagogie
+3.3. Pédagogie
 
 La pédagogie constitue un critère important de la labélisation. Elle porte à la fois sur les méthodes, les techniques, les ressources et les stages, en privilégiant la mise en situation.
 
@@ -80,7 +80,7 @@ La pédagogie vise à rendre, en permanence, les étudiants acteurs de leur form
 
 auto-formation, travaux dirigés, travaux pratiques, travaux personnels encadrés, projets en groupe, notamment dans le domaine des applications de l'internet, etc.
 
-Complémentaires des apports des enseignants, ceux des professionnels du domaine sont aussi très enrichissants étant donné les objectifs visés.L'école aura donc intérêt à s'adjoindre un important corps de vacataires issus du monde économique, ces derniers transmettant aussi des connaissances mais surtout des savoir-faire. Ils recourent largement à des méthodes pédagogiques permettant des mises en situation sur des cas réels rencontrés en entreprise (études de cas, projets de groupe, stages,).
+Complémentaires des apports des enseignants, ceux des professionnels du domaine sont aussi très enrichissants étant donné les objectifs visés. L'école aura donc intérêt à s'adjoindre un important corps de vacataires issus du monde économique, ces derniers transmettant aussi des connaissances mais surtout des savoir-faire. Ils recourent largement à des méthodes pédagogiques permettant des mises en situation sur des cas réels rencontrés en entreprise (études de cas, projets de groupe, stages,).
 
 Technologies de l'information et de la communication pour l'enseignement :
 
@@ -98,9 +98,9 @@ Stages en entreprise
 
 Les stages, d'une durée d'environ six mois, visent à mettre les étudiants en situation dans un environnement représentatif du secteur économique aval de la formation. Outre la mise en oeuvre des connaissances et des compétences acquises au cours de la formation, ils doivent permettre l'étude approfondie du contexte dans lequel ils se déroulent (organisation, relations entre les acteurs, enjeux économiques,...). Pour ces raisons, ils doivent s'effectuer essentiellement chez des utilisateurs (entreprises ou collectivités) et si possible dans un contexte international.
 
-3. 4. Fonctionnement en réseau et partenariats
+3.4. Fonctionnement en réseau et partenariats
 
-Les formations labélisées constituent un réseau.C'est un élément fort de la notion de " label " et, à ce titre, le réseau doit favoriser les échanges d'expérience, promouvoir l'élaboration de standards communs et permettre, dans la mesure du possible, la mutualisation de ressources (processus de sélection des candidats, échanges d'enseignements ou d'enseignants, échanges d'étudiants, complémentarité des spécialisations,...). Les membres du réseau feront circuler régulièrement entre eux des informations sur leurs actions de manière à faire de ce mode de fonctionnement une réalité.
+Les formations labélisées constituent un réseau. C'est un élément fort de la notion de " label " et, à ce titre, le réseau doit favoriser les échanges d'expérience, promouvoir l'élaboration de standards communs et permettre, dans la mesure du possible, la mutualisation de ressources (processus de sélection des candidats, échanges d'enseignements ou d'enseignants, échanges d'étudiants, complémentarité des spécialisations,...). Les membres du réseau feront circuler régulièrement entre eux des informations sur leurs actions de manière à faire de ce mode de fonctionnement une réalité.
 
 Très orientées vers les services, les formations labélisées peuvent développer des partenariats institutionnels visant des formations connexes (architecture, art, management, environnement, santé, etc.).
 
@@ -108,9 +108,9 @@ Elles se doivent d'associer les partenaires économiques (nationaux et internati
 
 La localisation géographique des formations labélisées doit favoriser les échanges avec un tissu économique local utilisateur de STIC. Pour éviter tout déséquilibre quant à l'offre, le réseau s'intégrera dans un schéma de cohérence territoriale qui s'élaborera au fur et à mesure du déploiement du réseau. La commission de labélisation (voir chapitre 4) pourra à cette occasion faire des recommandations de regroupement aux formations qui postulent si des problèmes territoriaux se posaient.
 
-3. 5. Recherche et valorisation
+3.5. Recherche et valorisation
 
-La recherche, menée par les enseignants permanents, est une composante importante des formations labélisées.L'attention portée à la recherche relève de deux types de démarche : soit le travail en collaboration avec des laboratoires de recherche, soit la conduite de travaux de recherche au sein de la formation elle-même.
+La recherche, menée par les enseignants permanents, est une composante importante des formations labélisées. L'attention portée à la recherche relève de deux types de démarche : soit le travail en collaboration avec des laboratoires de recherche, soit la conduite de travaux de recherche au sein de la formation elle-même.
 
 S'agissant des formations labélisées, c'est une préoccupation liée à la prééminence de l'innovation dans un contexte très concurrentiel qui rend indispensable une forte activité tournée vers la recherche appliquée. Le fonctionnement en réseau offre la capacité de développer ces travaux en partenariat étroit avec le secteur économique aval principalement, mais également avec d'autres établissements et centres de recherche.
 
@@ -118,7 +118,7 @@ La recherche est principalement orientée vers le secteur applicatif qui fait l'
 
 C'est en particulier le cas des plates-formes d'expérimentation, équipements innovants de communication et de diffusion en réseau permettant d'expérimenter de nouveaux services et d'en estimer les capacités de passage à l'échelle pour un grand nombre d'usagers.
 
-3. 6. Entrepreneuriat
+3.6. Entrepreneuriat
 
 La vocation pour l'entrepreneuriat est encouragée dans les formations labélisées à travers l'enseignement et la recherche, le secteur des technologies de l'information et de la communication demeurant un secteur porteur et propice au développement économique local, national et international.
 
@@ -126,7 +126,7 @@ Ainsi, les formations intègrent dans leur programme une sensibilisation à l'en
 
 L'entrepreneuriat peut également constituer une forme de valorisation de concepts de services innovants issus de l'effort de recherche dont il constitue un prolongement naturel.
 
-3. 7. Formation continue
+3.7. Formation continue
 
 La formation continue doit exister dans le cadre des formations candidates à la labélisation car les besoins identifiés en TIC ne peuvent être satisfaits par la seule formation initiale. La formation continue apportera un complément indispensable.
 
@@ -142,7 +142,7 @@ Une offre sur mesure permettra de répondre aux demandes du secteur économique 
 
 La procédure d'attribution du label décrite ci-dessous est distincte du processus d'habilitation, supposé intervenu antérieurement.
 
-4. 1. Processus de labélisation
+4.1. Processus de labélisation
 
 Les formations doivent mettre en valeur leurs spécialisations en STIC et la pertinence de leur adéquation avec les métiers liés à l'internet.
 
@@ -150,13 +150,13 @@ Elle doivent justifier de leur aptitude et leur engagement à participer de faç
 
 Les candidats constituent un dossier décrivant les principales caractéristiques du processus de formation, en apportant des réponses précises aux critères de labélisation fixés dans le présent cahier des charges.
 
-4. 2. Attribution du label
+4.2. Attribution du label
 
-Le label " école de l'internet " est attribué par une commission de labélisation, comportant notamment des représentants des administrations chargées respectivement de l'éducation nationale, de la recherche, de l'aménagement du territoire, de la culture et de la communication, de la défense, de la réforme de l'Etat, de l'industrie et des technologies de l'information, un représentant du     secrétaire général de la défense et de la sécurité nationale, des représentants de collectivités locales, des représentants de l'Institut Télécom et du réseau " école de l'internet ", ainsi que des représentants du monde professionnel. Elle peut s'adjoindre en tant que de besoin un nombre défini d'experts ad hoc.
+Le label " école de l'internet " est attribué par une commission de labélisation, comportant notamment des représentants des administrations chargées respectivement de l'éducation nationale, de la recherche, de l'aménagement du territoire, de la culture et de la communication, de la défense, de la réforme de l'Etat, de l'industrie et des technologies de l'information, un représentant du secrétaire général de la défense et de la sécurité nationale, des représentants de collectivités locales, des représentants de l'Institut Mines-Télécom et du réseau " école de l'internet ", ainsi que des représentants du monde professionnel. Elle peut s'adjoindre en tant que de besoin un nombre défini d'experts ad hoc.
 
 Les dossiers examinés par la commission de labélisation sont instruits, proposés et rapportés :
 
--par l'Institut Télécom pour les formations de niveau I ;
+-par l'Institut Mines-Télécom pour les formations de niveau I ;
 
 -par des organismes désignés par le ministre chargé de l'éducation pour les formations de niveaux II et III.
 

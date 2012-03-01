@@ -30,11 +30,11 @@ Commissions administratives paritaires nationales compétentes pour le corps des
 
 ― administrateurs civils,
 
-― agents techniques de l'environnement espaces protégés ,
+― agents techniques de l'environnement espaces protégés,
 
-― agents techniques de l'environnement milieux aquatiques ,
+― agents techniques de l'environnement milieux aquatiques,
 
-― agents techniques de l'environnement milieux et faune sauvage ,
+― agents techniques de l'environnement milieux et faune sauvage,
 
 ― agents techniques de l'environnement,
 
@@ -74,11 +74,11 @@ Commissions administratives paritaires nationales compétentes pour le corps des
 
 ― techniciens supérieurs de l'équipement,
 
-― techniciens de l'environnement espaces protégés ,
+― techniciens de l'environnement espaces protégés,
 
-― techniciens de l'environnement milieux aquatiques ,
+― techniciens de l'environnement milieux aquatiques,
 
-― techniciens de l'environnement milieux et faune sauvage ,
+― techniciens de l'environnement milieux et faune sauvage,
 
 ― techniciens de l'environnement.
 
@@ -290,7 +290,7 @@ Commissions consultatives paritaires (CCP)
 
 Commissions consultatives paritaires (CCP) nationales compétentes pour :
 
-― agents non titulaires de droit public relevant de l'article 34 de la loi 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations (agents dits Berkani ),
+― agents non titulaires de droit public relevant de l'article 34 de la loi 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations (agents dits Berkani),
 
 ― agents contractuels d'études d'urbanisme relevant de la circulaire 1800 DAFU du 12 juin 1969,
 
@@ -376,7 +376,7 @@ CTP interrégional placé du directeur interrégional de la protection judiciair
 
 CTP interrégional placé du directeur interrégional de la protection judiciaire de la jeunesse du Grand-ouest
 
-CTP interrégional placé du directeur interrégional de la protection judiciaire de la jeunesse de l'Ile-de― France-Outre-mer
+CTP interrégional placé du directeur interrégional de la protection judiciaire de la jeunesse de l'Ile-de ― France-Outre-mer
 
 CTP interrégional placé du directeur interrégional de la protection judiciaire de la jeunesse du Sud
 
@@ -456,7 +456,7 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Indre et Loire et Loir et Cher
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Centre/Orléans
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Centre/ Orléans
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Nièvre
 
@@ -468,7 +468,7 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Auvergne
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Drome/Ardèche
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Drome/ Ardèche
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Isère
 
@@ -478,13 +478,13 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Rhône
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Aube/Haute-Marne
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Aube/ Haute-Marne
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Franche-Comté
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Marne/ Ardennes
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Meurthe-et-Moselle/Meuse/Vosges
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Meurthe-et-Moselle/ Meuse/ Vosges
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Moselle
 
@@ -500,17 +500,17 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Haute-Normandie
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Somme/Aisne
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Somme/ Aisne
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Basse-Normandie
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Finistère/Morbihan
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Finistère/ Morbihan
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Ille-et-Vilaine/Côtes-d'Armor
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Ille-et-Vilaine/ Côtes-d'Armor
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Loire-Atlantique/Vendée
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Loire-Atlantique/ Vendée
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Maine et Loire/Sarthe/Mayenne
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Maine et Loire/ Sarthe/ Mayenne
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de Paris
 
@@ -524,7 +524,7 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Seine-Saint-Denis
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Val-de― Marne
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Val-de ― Marne
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Val d'Oise
 
@@ -536,23 +536,23 @@ CTP territorial placé auprès du directeur territorial de la protection judicia
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Réunion
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Gard/Lozère
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Gard/ Lozère
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Haute-Garonne/Ariège/Hautes-Pyrénées
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de la Haute-Garonne/ Ariège/ Hautes-Pyrénées
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Hérault
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Pyrénées-Orientales/Aude
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Pyrénées-Orientales/ Aude
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Tarn/Aveyron
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Tarn/ Aveyron
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Alpes- Maritimes
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Alpes-Maritimes
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Bouches-du-Rhône
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse du Var
 
-CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Alpes/Vaucluse
+CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse des Alpes/ Vaucluse
 
 CTP territorial placé auprès du directeur territorial de la protection judiciaire de la jeunesse de l'Aquitaine Nord
 
@@ -712,7 +712,7 @@ CCP interrégionale compétente pour les agents non-titulaires de la direction i
 
 CCP interrégionale compétente pour les agents non-titulaires de la direction interrégionale de la protection judiciaire de la jeunesse du Grand-Ouest
 
-CCP interrégionale compétente pour les agents non-titulaires de la direction interrégionale de la protection judiciaire de la jeunesse de l'Ile-de-France/Outre-Mer
+CCP interrégionale compétente pour les agents non-titulaires de la direction interrégionale de la protection judiciaire de la jeunesse de l'Ile-de-France/ Outre-Mer
 
 CCP interrégionale compétente pour les agents non-titulaires de la direction interrégionale de la protection judiciaire de la jeunesse du Sud
 
@@ -734,7 +734,7 @@ Ministère du budget, des comptes publics de la fonction publique et de la réfo
 
 Comités techniques paritaires
 
-CTP central de l'Institut Télécom placé auprès de l'administrateur général de l'Institut
+CTP central de l'Institut Mines-Télécom placé auprès de l'administrateur général de l'Institut
 
 CTP locaux des écoles Télécom ParisTech, Télécom Bretagne et Télécom & Management Sud Paris placés auprès de chacun des directeurs d'école
 
@@ -1426,7 +1426,7 @@ CAP départementale compétente pour le corps des instituteurs et professeurs de
 
 CAP départementale compétente pour le corps des instituteurs et professeurs des écoles (1er degré) placée auprès de l'IA-DSDEN du Finistère (29)
 
-CAP départementale compétente pour le corps des instituteurs et professeurs des écoles (1er degré) placée auprès de l'IA-DSDEN de l' Ille-et-Vilaine (35)
+CAP départementale compétente pour le corps des instituteurs et professeurs des écoles (1er degré) placée auprès de l'IA-DSDEN de l'Ille-et-Vilaine (35)
 
 CAP départementale compétente pour le corps des instituteurs et professeurs des écoles (1er degré) placée auprès de l'IA-DSDEN du Morbihan (56)
 
@@ -1732,7 +1732,7 @@ CTP départemental placé auprès de l'IA-DSDEN de Seine-St-Denis (93)
 
 CTP départemental placé auprès de l'IA-DSDEN du Val de Marne (94)
 
-CTP départemental placé auprès de l'IA-DSDEN de la Côte d'or(21)
+CTP départemental placé auprès de l'IA-DSDEN de la Côte d'or (21)
 
 CTP départemental placé auprès de l'IA-DSDEN de la Nièvre (58)
 
@@ -2060,7 +2060,7 @@ CHS départemental placé auprès de l'IA-DSDEN de la Charente (16)
 
 CHS départemental placé auprès de l'IA-DSDEN de la Charente Maritime (17)
 
-CHS départemental placé auprès de l'IA-DSDEN des Deux Sèvres(79)
+CHS départemental placé auprès de l'IA-DSDEN des Deux Sèvres (79)
 
 CHS départemental placé auprès de l'IA-DSDEN des Ardennes (08)
 

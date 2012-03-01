@@ -30,4 +30,4 @@ Trois représentants des élèves chercheurs.
 
 Les modalités d'élection des représentants des enseignants et des élèves au comité de la recherche sont fixées par le règlement intérieur de l'école.
 
-A titre transitoire, tant que le règlement intérieur n'a pas fait l'objet d'une délibération en conseil d'école, ces modalités sont fixées par instruction de l'administrateur général de l'Institut Télécom.
+A titre transitoire, tant que le règlement intérieur n'a pas fait l'objet d'une délibération en conseil d'école, ces modalités sont fixées par instruction de l'administrateur général de l'Institut Mines-Télécom.

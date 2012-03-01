@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td valign="top" width="173">
-<p>    Institut Télécom </p>
+<p> Institut Mines-Télécom </p>
 </td>
 <td valign="top" width="240">
 <p>Directeurs. </p>

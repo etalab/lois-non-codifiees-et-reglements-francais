@@ -34,7 +34,7 @@ Au moment de sa création, l'établissement comprend les membres fondateurs suiv
 
 -Institut national des sciences appliquées de Rennes ;
 
--Institut Télécom ( Télécom Bretagne) ;
+- Institut Mines-Télécom (Télécom Bretagne) ;
 
 -Ecole normale supérieure de Cachan (antenne de Bretagne) ;
 
@@ -82,7 +82,7 @@ Le président et les vice-présidents sont assistés par un bureau dont la compo
 
 Article 10
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
 
 1° Il prépare et exécute les délibérations du conseil d'administration qu'il préside ;
 
@@ -116,7 +116,7 @@ Article 11
 
 Le conseil d'administration comprend :
 
-1° Au minimum dix-neuf sièges au titre des membres fondateurs dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant de l'Institut Télécom ( Télécom Bretagne), un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne), un représentant de l'Ecole supérieure de chimie de Rennes ;
+1° Au minimum dix-neuf sièges au titre des membres fondateurs dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant de l' Institut Mines-Télécom (Télécom Bretagne), un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne), un représentant de l'Ecole supérieure de chimie de Rennes ;
 
 2° Une personnalité qualifiée désignée à la majorité des voix des membres fondateurs, sur proposition du président ;
 
@@ -226,7 +226,7 @@ Article 16
 
 Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président qui en fixe l'ordre du jour. Il est, en outre, convoqué à la demande d'un tiers de ses membres sur un ordre du jour déterminé.
 
-Lorsque le président ne peut présider une séance, le conseil est présidé par un des vice-présidents désigné par le président.A défaut, il est procédé à l'élection d'un président de séance à la majorité des membres présents ou représentés.
+Lorsque le président ne peut présider une séance, le conseil est présidé par un des vice-présidents désigné par le président. A défaut, il est procédé à l'élection d'un président de séance à la majorité des membres présents ou représentés.
 
 Le conseil délibère valablement si la majorité des membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
 

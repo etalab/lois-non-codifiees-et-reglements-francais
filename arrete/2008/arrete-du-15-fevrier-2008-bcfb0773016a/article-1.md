@@ -16,6 +16,6 @@ Etablissement public de gestion de la contribution exceptionnelle de France Tél
 
 Fonds national de promotion et de communication de l'artisanat ;
 
-Groupe des écoles des télécommunications ;
+Institut Mines-Télécom ;
 
 Masse des douanes.

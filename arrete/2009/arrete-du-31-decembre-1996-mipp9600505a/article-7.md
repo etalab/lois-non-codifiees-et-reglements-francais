@@ -6,7 +6,7 @@ Il est réuni par le président si la moitié au moins de ses membres en fait la
 
 L'ordre du jour de chaque séance est fixé par le président. Toutefois, une question peut être inscrite à l'ordre du jour selon des modalités prévues par le règlement intérieur si la moitié au moins des membres du conseil en fait la demande.
 
-Les procès-verbaux des délibérations du conseil d'école sont communiqués aux membres du conseil d'école, à l'administrateur général et au président du conseil d'administration de l'Institut Télécom.
+Les procès-verbaux des délibérations du conseil d'école sont communiqués aux membres du conseil d'école, à l'administrateur général et au président du conseil d'administration de l'Institut Mines-Télécom.
 
 Le conseil d'école siège valablement lorsque les deux tiers de ses membres sont présents ou représentés.
 

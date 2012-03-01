@@ -4,7 +4,7 @@ Le conseil d'école de Télécom ParisTech comprend, outre le président :
 
 Un membre de droit : le directeur de l'école.
 
-Quatorze membres nommés par le président du conseil d'administration de l'Institut Télécom après avis conforme du conseil d'administration, dont :
+Quatorze membres nommés par le président du conseil d'administration de l'Institut Mines-Télécom après avis conforme du conseil d'administration, dont :
 
 -un représentant du conseil général des technologies de l'information, sur proposition du vice-président du conseil général des technologies de l'information ;
 

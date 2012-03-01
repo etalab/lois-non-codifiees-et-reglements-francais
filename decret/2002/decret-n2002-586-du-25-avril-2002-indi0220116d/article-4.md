@@ -4,4 +4,4 @@ Les demandes de délivrance du label " école de l'internet " sont instruites, p
 
 -par des organismes désignés par arrêté du ministre chargé de l'éducation nationale, pour les formations de niveau II et III ;
 
--par le    Institut Télécom, pour les formations de niveau I.
+-par l'Institut Mines-Télécom, pour les formations de niveau I.

@@ -34,7 +34,7 @@ n) Le premier vice-président de la conférence des établissements et écoles d
 
 2° Trois représentants des collectivités territoriales, désignés sur proposition des associations représentatives de ces collectivités ;
 
-3° Deux représentants du de l'Institut Télécom ;
+3° Deux représentants du de l'Institut Mines-Télécom ;
 
 4° Deux représentants des professions concernées, désignés sur proposition du ministre chargé de l'industrie ;
 

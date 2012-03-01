@@ -32,7 +32,7 @@ Au moment de sa création, l'établissement comprend les membres fondateurs suiv
 
 -l'Ecole supérieure de physique et chimie industrielles de la Ville de Paris ;
 
--l'Institut Télécom ;
+-l'Institut Mines-Télécom ;
 
 -le Groupe des écoles nationales d'économie et statistique ;
 
@@ -82,7 +82,7 @@ Article 6
 
 Le président est élu en son sein par le conseil d'administration pour une durée de trois ans renouvelable.
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration qu'il préside et en assure l'exécution ;
 
@@ -228,7 +228,7 @@ Article 13
 
 La composition et les attributions des conseils visés aux articles 11 et 12, leurs modalités de fonctionnement et de désignation de leurs membres sont définies dans le règlement intérieur de l'établissement.
 
-Les fonctions de membres des conseils prévus aux articles 7, 11 et 12 sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation en vigueur.
+Les fonctions de membres des conseils prévus aux articles 7,11 et 12 sont exercées à titre gratuit. Toutefois, les frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation en vigueur.
 
 Chapitre III : Dispositions financières
 

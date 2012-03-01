@@ -1026,7 +1026,7 @@ Institut supérieur du travail.
 
 Institut supérieur social de Mulhouse.
 
-Institut Télécom.
+Institut Mines-Télécom.
 
 Institut textile et chimique de Lyon.
 
