@@ -1,6 +1,6 @@
 # Article 4
 
-Les dispositions des articles R. 111-20-1 à R. 111-20-5 du code de la construction et de l'habitation ainsi que du g de l'article R. 431-16 et de l'article R. 462-4-1 du code de l'urbanisme dans leur rédaction résultant du présent décret sont applicables :
+Les dispositions des articles R. 111-20-1 à R. 111-20-5 du code de la construction et de l'habitation ainsi que du i de l'article R. 431-16 et de l'article R. 462-4-1 du code de l'urbanisme dans leur rédaction résultant du présent décret sont applicables :
 
 1° A tous les projets de construction de bâtiments de bureaux, d'enseignement et d'établissement d'accueil de la petite enfance faisant l'objet d'une demande de permis de construire déposée à partir du 28 octobre 2011 ;
 
