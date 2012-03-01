@@ -6,9 +6,7 @@ La sous-direction du développement de l'économie culturelle a pour mission :
 
 ― d'élaborer, en liaison avec les autres administrations concernées, les mécanismes destinés à promouvoir le financement de l'économie culturelle, notamment des industries culturelles, de l'industrie phonographique et du marché de l'art, en particulier en matière de fiscalité et de mécénat ;
 
-― de favoriser le développement du mécénat et des fondations à caractère culturel, notamment en appuyant l'action des services du ministère et de ses opérateurs et en sensibilisant les mécènes et les donateurs ;
-
-― d'élaborer la position du ministère et de participer aux négociations et aux travaux communautaires et internationaux relatifs à la réglementation et à la régulation relevant des domaines de compétence de la direction générale ;
+― d'élaborer la position du ministère et de participer aux négociations et aux travaux européens et internationaux relatifs à la réglementation et à la régulation relevant des domaines de compétence de la direction générale ;
 
 ― de suivre l'évolution des techniques, des supports, des réseaux de transmission, en particulier internet et les réseaux de radiodiffusion, des logiciels, des usages et des modèles de développement économique ;
 
@@ -21,8 +19,6 @@ La sous-direction du développement de l'économie culturelle a pour mission :
 La sous-direction du développement de l'économie culturelle comprend :
 
 ― le bureau du financement des industries culturelles ;
-
-― la mission du mécénat ;
 
 ― le bureau des affaires européennes et internationales ;
 

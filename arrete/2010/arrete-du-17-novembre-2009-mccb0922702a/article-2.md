@@ -20,10 +20,26 @@ Le service du livre et de la lecture a pour mission :
 
 Le service du livre et de la lecture comprend :
 
-― le département du patrimoine et de la politique numérique ;
+- le département des bibliothèques ;
 
-― le département de la lecture ;
+- le département de l'économie du livre ;
 
-― le département de l'édition et de la librairie ;
+- le département des ressources et de l'action territoriale.
 
-― le département de la tutelle et du réseau.
+Le département des bibliothèques comprend :
+
+- le bureau de la lecture publique ;
+
+- le bureau du patrimoine.
+
+Le département de l'économie du livre comprend :
+
+- le bureau de la régulation et des technologies ;
+
+- le bureau de la création et de la diffusion.
+
+Le département des ressources et de l'action territoriale comprend :
+
+- le bureau des moyens et des territoires ;
+
+- le bureau de la filière des professionnels des bibliothèques.
