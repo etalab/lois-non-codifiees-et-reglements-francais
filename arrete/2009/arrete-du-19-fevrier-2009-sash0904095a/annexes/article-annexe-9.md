@@ -1,50 +1,66 @@
 # Article Annexe 9
 
-LISTE DES FORFAITS DE TRAITEMENT DE L'INSUFFISANCE RÉNALE CHRONIQUE EN CENTRE FACTURABLES PAR LES ÉTABLISSEMENTS DE SANTÉ MENTIONNÉS AUX D ET E DE L'ARTICLE L. 162-22-6 DU CODE DE LA SECURITE SOCIALE
+LISTE DES FORFAITS DE TRAITEMENT DE L'INSUFFISANCE RÉNALE CHRONIQUE EN CENTRE FACTURABLES PAR LES ÉTABLISSEMENTS DE SANTÉ MENTIONNÉS AU D DE L'ARTICLE 162-22-6 DU CODE DE LA SÉCURITÉ SOCIALE
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CODE</th>
-<th>
-<br/>FORFAIT</th>
+<td>
+<p align="center">CODE</p>
+</td>
+<td>
+<p align="center">FORFAIT</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>D09</td>
+<p align="center">
+<br/>D09 </p>
+</td>
 <td align="center">
-<br/>Forfait d'hémodialyse en centre.</td>
+<p align="left">
+<br/>Forfait d'hémodialyse en centre </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>D10</td>
+<p align="center">
+<br/>D10 </p>
+</td>
 <td align="center">
-<br/>Forfait d'hémodialyse en centre pour enfant.</td>
+<p align="left">
+<br/>Forfait d'hémodialyse en centre pour enfant </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>D11</td>
+<p align="center">
+<br/>D17 </p>
+</td>
 <td align="center">
-<br/>Forfait d'hémodialyse en unité de dialyse médicalisée.</td>
+<p align="left">
+<br/>Forfait d'entraînement à l'hémodialyse à domicile et à l'autodialyse </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>D17</td>
+<p align="center">
+<br/>D18 </p>
+</td>
 <td align="center">
-<br/>Forfait d'entraînement à l'hémodialyse à domicile et à l'autodialyse.</td>
+<p align="left">
+<br/>Forfait d'entraînement à la dialyse péritonéale automatisée </p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>D18</td>
+<p align="center">
+<br/>D19 </p>
+</td>
 <td align="center">
-<br/>Forfait d'entraînement à la dialyse péritonéale automatisée.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>D19</td>
-<td align="center">
-<br/>Forfait d'entraînement à la dialyse péritonéale continue ambulatoire.</td>
+<p align="left">
+<br/>Forfait d'entraînement à la dialyse péritonéale continue ambulatoire </p>
+</td>
 </tr>
 </tbody>
 </table>

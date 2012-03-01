@@ -6,13 +6,57 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="left">2319 </p>
+<br/>2202 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">07C061 </p>
+<br/>06M211 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour affections malignes, niveau 1.</p>
+<br/>Autres affections digestives concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2203 <br/>
+</td>
+<td align="left" valign="top">
+<br/>06M212 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections digestives concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2204 <br/>
+</td>
+<td align="left" valign="top">
+<br/>06M213 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections digestives concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2205 <br/>
+</td>
+<td align="left" valign="top">
+<br/>06M214 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections digestives concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2319 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07C061 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions diagnostiques sur le système hépato-biliaire et pancréatique pour affections malignes, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -398,6 +442,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </td>
 <td align="left" valign="top">
 <br/>Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2355 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07C14J <br/>
+</td>
+<td align="left" valign="top">
+<br/>Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -925,7 +980,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>07M13Z <br/>
 </td>
 <td align="left" valign="top">
-<br/>Explorations et surveillance des affections du système hépato-biliaire et du pancréas. <br/>
+<br/>Explorations et surveillance des affections du système hépatobiliaire et du pancréas. <br/>
 </td>
 </tr>
 <tr>
@@ -1007,13 +1062,57 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>2566 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07M161 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ictères du nouveau-né, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2567 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07M162 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ictères du nouveau-né, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2568 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07M163 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ictères du nouveau-né, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2569 <br/>
+</td>
+<td align="left" valign="top">
+<br/>07M164 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ictères du nouveau-né, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>2743 <br/>
 </td>
 <td align="left" valign="top">
 <br/>08C021 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1.<br/>
+<br/>Interventions majeures multiples sur les genoux et/ou les hanches, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1024,7 +1123,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C022 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2.<br/>
+<br/>Interventions majeures multiples sur les genoux et/ou les hanches, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1035,7 +1134,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C023 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3.<br/>
+<br/>Interventions majeures multiples sur les genoux et/ou les hanches, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1046,7 +1145,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C024 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4.<br/>
+<br/>Interventions majeures multiples sur les genoux et/ou les hanches, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1101,7 +1200,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C061 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.<br/>
+<br/>Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1112,7 +1211,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C062 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.<br/>
+<br/>Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1123,7 +1222,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C063 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.<br/>
+<br/>Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1134,7 +1233,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C064 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.<br/>
+<br/>Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1200,7 +1299,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C131 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1211,7 +1310,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C132 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1222,7 +1321,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C133 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1233,7 +1332,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C134 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1244,7 +1343,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C13J <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire. <br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -1255,7 +1354,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C141 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1266,7 +1365,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C142 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1277,7 +1376,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C143 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1288,7 +1387,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C144 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4.<br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1299,7 +1398,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C14J <br/>
 </td>
 <td align="left" valign="top">
-<br/>Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire. <br/>
+<br/>Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -1310,7 +1409,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C201 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 1.<br/>
+<br/>Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1321,7 +1420,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C202 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 2.<br/>
+<br/>Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1332,7 +1431,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C203 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 3.<br/>
+<br/>Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1343,7 +1442,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C204 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 4.<br/>
+<br/>Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1354,7 +1453,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C20J <br/>
 </td>
 <td align="left" valign="top">
-<br/>Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, en ambulatoire. <br/>
+<br/>Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -1365,7 +1464,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C211 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 1.<br/>
+<br/>Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1376,7 +1475,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C212 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 2.<br/>
+<br/>Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1387,7 +1486,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C213 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 3.<br/>
+<br/>Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1398,7 +1497,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C214 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 4.<br/>
+<br/>Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -1409,7 +1508,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C21J <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, en ambulatoire. <br/>
+<br/>Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -1596,7 +1695,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C281 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions maxillo-faciales, niveau 1.<br/>
+<br/>Interventions maxillofaciales, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -1607,7 +1706,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C282 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions maxillo-faciales, niveau 2.<br/>
+<br/>Interventions maxillofaciales, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -1618,7 +1717,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C283 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions maxillo-faciales, niveau 3.<br/>
+<br/>Interventions maxillofaciales, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -1629,7 +1728,18 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08C284 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Interventions maxillo-faciales, niveau 4.<br/>
+<br/>Interventions maxillofaciales, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>2927 <br/>
+</td>
+<td align="left" valign="top">
+<br/>08C28J <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions maxillofaciales, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -2943,13 +3053,15 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">2918 </p>
+<p align="left">2918 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">08C561<br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="left">08C561 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Interventions pour infections ostéoarticulaires, niveau 1. </p>
+<p align="left">Interventions pour infections ostéoarticulaires, niveau 1.</p>
 </td>
 </tr>
 <tr>
@@ -2957,22 +3069,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>2922 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Interventions pour infections ostéoarticulaires, niveau 1.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">2919 </p>
+<p align="left">2919 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">08C562</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">08C562 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Interventions pour infections ostéoarticulaires, niveau 2. </p>
+<p align="left">Interventions pour infections ostéoarticulaires, niveau 2.</p>
 </td>
 </tr>
 <tr>
@@ -2980,22 +3091,22 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>2923 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Interventions pour infections ostéoarticulaires, niveau 2.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">2920 </p>
+<p align="left">2920 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">08C563 <br/>
+</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">08C563</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Interventions pour infections ostéoarticulaires, niveau 3. </p>
+<p align="left">Interventions pour infections ostéoarticulaires, niveau 3.</p>
 </td>
 </tr>
 <tr>
@@ -3003,31 +3114,27 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>2924 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Interventions pour infections ostéoarticulaires, niveau 3.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">2921 </p>
+<p align="left">2921 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">08C564 <br/>
+</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">08C5641 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Interventions pour infections ostéoarticulaires, niveau 4. </p>
+<p align="left">Interventions pour infections ostéoarticulaires, niveau 4.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>2925 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Interventions pour infections ostéoarticulaires, niveau 4.<br/>
@@ -3041,7 +3148,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08K02J <br/>
 </td>
 <td align="left" valign="top">
-<br/>Affections de l'appareil musculo-squelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire. <br/>
+<br/>Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -3635,7 +3742,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M181 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 1.<br/>
+<br/>Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -3646,7 +3753,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M182 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 2.<br/>
+<br/>Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -3657,7 +3764,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M183 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 3.<br/>
+<br/>Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -3668,7 +3775,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M184 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 4.<br/>
+<br/>Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -3679,7 +3786,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M18T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, très courte durée. <br/>
+<br/>Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, très courte durée. <br/>
 </td>
 </tr>
 <tr>
@@ -3690,7 +3797,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M191 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.<br/>
+<br/>Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -3701,7 +3808,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M192 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.<br/>
+<br/>Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -3712,7 +3819,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M193 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.<br/>
+<br/>Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -3723,7 +3830,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M194 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.<br/>
+<br/>Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -3734,7 +3841,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M19T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, très courte durée. <br/>
+<br/>Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, très courte durée. <br/>
 </td>
 </tr>
 <tr>
@@ -3976,7 +4083,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M251 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.<br/>
+<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -3987,7 +4094,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M252 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.<br/>
+<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -3998,7 +4105,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M253 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.<br/>
+<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -4009,7 +4116,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M254 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.<br/>
+<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -4020,7 +4127,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M25T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, très courte durée. <br/>
+<br/>Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, très courte durée. <br/>
 </td>
 </tr>
 <tr>
@@ -4515,7 +4622,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>08M35Z <br/>
 </td>
 <td align="left" valign="top">
-<br/>Explorations et surveillance de l'appareil musculo-squelettique et du tissu conjonctif. <br/>
+<br/>Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif. <br/>
 </td>
 </tr>
 <tr>

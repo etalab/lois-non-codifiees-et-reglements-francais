@@ -6,179 +6,199 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <tbody>
 <tr>
 <td align="left" valign="top">
-<br/>1524 <br/>
+<p align="left">1241 </p>
 </td>
 <td align="left" valign="top">
-<br/>05C021</td>
+<p align="left">04M271 <br/>
+</p>
+</td>
 <td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1. <br/>
+<p align="left">Autres affections respiratoires concernant majoritairement la petite enfance, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1430 <br/>
+<br/>1242 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
+<br/>04M272 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections respiratoires concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1243 <br/>
+</td>
+<td align="left" valign="top">
+<br/>04M273 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections respiratoires concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1244 <br/>
+</td>
+<td align="left" valign="top">
+<br/>04M274 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections respiratoires concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">1430 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C021</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1524 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1525 <br/>
+<br/>1431 <br/>
 </td>
-<td align="left" valign="top">
-<br/>05C022 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>05C022 <br/>
+</p>
+</td>
 <td align="left" valign="top">
 <br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1431 <br/>
+<br/>1525 <br/>
 </td>
 <td align="left" valign="top">
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2.</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1432 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
 <br/>
+<p>05C023 <br/>
+</p>
 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2.<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1526 <br/>
 </td>
 <td align="left" valign="top">
-<br/>05C023</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3. <br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1432 <br/>
+<br/>1433 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>05C024 <br/>
+</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1527 <br/>
 </td>
 <td align="left" valign="top">
-<br/>05C024 </td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4. <br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1433 <br/>
+<br/>1434 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>05C031 <br/>
+</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1528 <br/>
 </td>
 <td align="left" valign="top">
-<br/>05C031</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1. <br/>
-<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1434 <br/>
+<br/>1435 <br/>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <br/>
+<p>05C032 <br/>
+</p>
 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>1529 <br/>
-</td>
-<td align="left" valign="top">
-<br/>05C032 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1435 <br/>
+<br/>1529 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2.</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1436 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>05C033<br/>
 </td>
 <td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2.<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1530 <br/>
 </td>
 <td align="left" valign="top">
-<br/>05C033</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>1436 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1531 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">05C034 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4. </p>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1437 <br/>
 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>05C034</td>
 <td align="left" valign="top">
-<br/>
-<br/>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4. </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>1531 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.<br/>
-</td>
+<br/>Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -270,36 +290,34 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1446 </p>
+<br/>1446 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>05C061 <br/>
+</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">05C061</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1. </p>
-</td>
+<br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1518 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.<br/>
-</td>
+<br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1447 </p>
+<p align="left">1447 <br/>
+</p>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">05C062</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2.</p>
 </td>
 </tr>
 <tr>
@@ -307,22 +325,20 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1519 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 2.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1448 </p>
+<p align="left">1448 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C063 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C063</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3.</p>
 </td>
 </tr>
 <tr>
@@ -330,33 +346,27 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1520 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1449 </p>
+<p align="left">1449 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C064</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C064 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1521 </p>
+<br/>1521 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4.</p>
+<br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -405,22 +415,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1454 </p>
+<p align="left">1454 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C081</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C081 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1.<br/>
@@ -428,22 +435,20 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1455 </p>
+<p align="left">1455 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C082 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C082 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 2.<br/>
@@ -451,22 +456,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1456 </p>
+<p align="left">1456 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C083</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C083 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3.<br/>
@@ -474,22 +476,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1457 </p>
+<p align="left">1457 <br/>
+</p>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">05C084</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4. </p>
+<p align="left">Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 4.<br/>
@@ -739,22 +738,31 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1479 </p>
+<br/>1532 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">05C041 </p>
+<br/>05C13J <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1. </p>
+<br/>Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, en ambulatoire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">1479 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C141 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1.<br/>
@@ -762,22 +770,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1480 </p>
+<p align="left">1480 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C142</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C142 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2. </p>
+<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2.<br/>
@@ -785,22 +790,20 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1481 </p>
+<p align="left">1481 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C143 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C143 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3.</p>
+<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3. </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3.<br/>
@@ -808,13 +811,14 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1482 </p>
+<p align="left">1482 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C144</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05C144 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4. </p>
+<p align="left">Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4.</p>
 </td>
 </tr>
 <tr>
@@ -822,30 +826,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1522 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1483 <br/>
+<p align="left">1484 <br/>
+</p>
 </td>
-<td align="left" valign="top">
-<br/>05C14J <br/>
-</td>
-<td align="left" valign="top">
-<br/>Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, en ambulatoire. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">1484 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">05C151 </p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C151 <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1.</p>
@@ -856,19 +847,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1522 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1485 </p>
+<p align="left">1485 <br/>
+</p>
 </td>
-<td align="left" valign="top">
-<p align="left">05C152 </p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C152 <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2. </p>
@@ -879,19 +868,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1522 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1486 </p>
+<p align="left">1486 <br/>
+</p>
 </td>
-<td align="left" valign="top">
-<p align="left">05C153 </p>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05C153 <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3. </p>
@@ -902,31 +889,24 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>1522 <br/>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3.<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1487 </p>
+<p align="left">1487 <br/>
+</p>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <p align="left">05C154</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4. </p>
+<p align="left">Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4.<br/>
@@ -1462,23 +1442,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1716 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">05K131 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1.<br/>
+<p align="left">1522 <br/>
 </p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05K131</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>1716 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 1.<br/>
@@ -1486,22 +1462,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1717 </p>
+<p align="left">1522 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05K132</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05K132 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2. </p>
+<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>1717 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 2.<br/>
@@ -1509,22 +1482,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">1718 </p>
+<p align="left">1522 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05K133</p>
 </td>
 <td align="left" valign="top">
-<p align="left">05K133 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3. </p>
+<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>1718 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 3.<br/>
@@ -1532,20 +1502,20 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1719 <br/>
+<p align="left">1522 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">05K134 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>05K134 </td>
-<td align="left" valign="top">
-<br/>Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4. </td>
+<p align="left">Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1522 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>1719 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4.<br/>
@@ -2664,50 +2634,6 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1931 <br/>
-</td>
-<td align="left" valign="top">
-<br/>06C021 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie majeure des malformations digestives, niveau 1.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>1932 <br/>
-</td>
-<td align="left" valign="top">
-<br/>06C022 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie majeure des malformations digestives, niveau 2.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>1933 <br/>
-</td>
-<td align="left" valign="top">
-<br/>06C023 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie majeure des malformations digestives, niveau 3.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>1934 <br/>
-</td>
-<td align="left" valign="top">
-<br/>06C024 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Chirurgie majeure des malformations digestives, niveau 4.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <br/>1935 <br/>
 </td>
 <td align="left" valign="top">
@@ -3324,22 +3250,20 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1991 <br/>
+<p align="left">1991 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">06C191 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>06C191 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Hémorroïdectomies, niveau 1.<br/>
+<p align="left">Hémorroïdectomies, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>2014 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Hémorroïdectomies, niveau 1.<br/>
@@ -3380,21 +3304,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>1995 <br/>
+<p align="left">1995 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">06C19J</p>
 </td>
 <td align="left" valign="top">
-<br/>06C19J </td>
-<td align="left" valign="top">
-<br/>Hémorroïdectomies, en ambulatoire. <br/>
+<p align="left">Hémorroïdectomies, en ambulatoire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>2013 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Hémorroïdectomies, en ambulatoire. <br/>
@@ -4090,7 +4012,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M101 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux compliqués, niveau 1.<br/>
+<br/>Ulcères gastroduodénaux compliqués, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -4101,7 +4023,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M102 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux compliqués, niveau 2.<br/>
+<br/>Ulcères gastroduodénaux compliqués, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -4112,7 +4034,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M103 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux compliqués, niveau 3.<br/>
+<br/>Ulcères gastroduodénaux compliqués, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -4123,7 +4045,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M104 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux compliqués, niveau 4.<br/>
+<br/>Ulcères gastroduodénaux compliqués, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -4134,7 +4056,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M111 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux non compliqués, niveau 1.<br/>
+<br/>Ulcères gastroduodénaux non compliqués, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -4145,7 +4067,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M112 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux non compliqués, niveau 2.<br/>
+<br/>Ulcères gastroduodénaux non compliqués, niveau 2.<br/>
 </td>
 </tr>
 <tr>
@@ -4156,7 +4078,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M113 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux non compliqués, niveau 3.<br/>
+<br/>Ulcères gastroduodénaux non compliqués, niveau 3.<br/>
 </td>
 </tr>
 <tr>
@@ -4167,7 +4089,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M114 <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux non compliqués, niveau 4.<br/>
+<br/>Ulcères gastroduodénaux non compliqués, niveau 4.<br/>
 </td>
 </tr>
 <tr>
@@ -4178,7 +4100,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <br/>06M11T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ulcères gastro-duodénaux non compliqués, très courte durée. <br/>
+<br/>Ulcères gastroduodénaux non compliqués, très courte durée. <br/>
 </td>
 </tr>
 <tr>

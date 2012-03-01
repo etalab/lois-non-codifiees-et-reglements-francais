@@ -6,13 +6,13 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="left">3314 </p>
+<p align="left">3314  </p>
 </td>
 <td align="left" valign="top">
-<p align="left">09C021 </p>
+<br/>09C021 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1.</p>
+<br/>Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -490,22 +490,19 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">3362 </p>
+<p align="left">3358 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">09C111 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">09C111</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Reconstructions des seins, niveau 1. </p>
+<p align="left">Reconstructions des seins, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>3358 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>3362 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Reconstructions des seins, niveau 1.<br/>
@@ -513,22 +510,22 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">3363 </p>
+<p align="left">3359 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">09C112</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">09C112 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Reconstructions des seins, niveau 2. </p>
+<p align="left">Reconstructions des seins, niveau 2.<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>3359 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>3363 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Reconstructions des seins, niveau 2.<br/>
@@ -536,22 +533,22 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">3364 </p>
+<p align="left">3360 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">09C113</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">09C113 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Reconstructions des seins, niveau 3. </p>
+<p align="left">Reconstructions des seins, niveau 3.<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>3360 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>3364 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Reconstructions des seins, niveau 3.<br/>
@@ -559,22 +556,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">3365 </p>
+<p align="left">3361 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">09C114</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">09C114 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Reconstructions des seins, niveau 4. </p>
+<p align="left">Reconstructions des seins, niveau 4.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>3361 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>3365 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Reconstructions des seins, niveau 4.<br/>
@@ -2353,6 +2349,94 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>3974 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M191 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3975 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M192 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3976 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M193 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3977 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M194 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3978 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M201 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Problèmes alimentaires du nouveau-né et du nourrisson, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3979 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M202 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Problèmes alimentaires du nouveau-né et du nourrisson, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3980 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M203 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Problèmes alimentaires du nouveau-né et du nourrisson, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>3981 <br/>
+</td>
+<td align="left" valign="top">
+<br/>10M204 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Problèmes alimentaires du nouveau-né et du nourrisson, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>4112 <br/>
 </td>
 <td align="left" valign="top">
@@ -2397,10 +2481,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4116 <br/>
+<p align="left">4116 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">11C031</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>11C031 <br/>
+<p align="left">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4149 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1.<br/>
@@ -2408,10 +2503,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4117 <br/>
+<p align="left">4117 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">11C032</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>11C032 <br/>
+<p align="left">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4150 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2.<br/>
@@ -2419,10 +2525,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4118 <br/>
+<p align="left">4118 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">11C033</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>11C033 <br/>
+<p align="left">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4151 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3.<br/>
@@ -2430,10 +2547,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4119 <br/>
+<p align="left">4119 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">11C034</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>11C034 <br/>
+<p align="left">Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4152 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4.<br/>
@@ -3552,6 +3680,50 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>4345 <br/>
+</td>
+<td align="left" valign="top">
+<br/>11M201 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4346 <br/>
+</td>
+<td align="left" valign="top">
+<br/>11M202 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4347 <br/>
+</td>
+<td align="left" valign="top">
+<br/>11M203 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4348 <br/>
+</td>
+<td align="left" valign="top">
+<br/>11M204 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>4513 <br/>
 </td>
 <td align="left" valign="top">
@@ -3607,22 +3779,21 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4518 <br/>
+<p align="left">4518 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">12C041</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>12C041 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Prostatectomies transurétrales, niveau 1.<br/>
+<p align="left">Prostatectomies transurétrales, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>4561 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Prostatectomies transurétrales, niveau 1.<br/>
@@ -3659,6 +3830,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </td>
 <td align="left" valign="top">
 <br/>Prostatectomies transurétrales, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4562 <br/>
+</td>
+<td align="left" valign="top">
+<br/>12C04J <br/>
+</td>
+<td align="left" valign="top">
+<br/>Prostatectomies transurétrales, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>

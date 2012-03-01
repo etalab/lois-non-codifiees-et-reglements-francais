@@ -19,16 +19,13 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>22 </p>
+<br/>22 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>01C031 </p>
+<br/>01C031 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1.</p>
+<br/>Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1.<br/>
 </td>
 </tr>
 <tr>
@@ -66,22 +63,18 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">26 </p>
+<br/>26 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p align="center">01C041 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">01C041 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1 </p>
-</td>
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>65 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.<br/>
@@ -91,21 +84,14 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>27 <br/>
 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>01C042</td>
 <td align="left" valign="top">
-<br/>01C042 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2 <br/>
-<br/>
-</td>
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2. </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>66 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2.<br/>
@@ -115,48 +101,36 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>28 <br/>
 </td>
-<td align="left" valign="top">
-<br/>01C043 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3 <br/>
+<td align="left" rowspan="2" valign="top">
 <br/>
+<p>01C043 </p>
 </td>
+<td align="left" valign="top">
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>67 <br/>
+<p align="left">67</p>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.<br/>
+<p align="left">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>29 <br/>
 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>01C044</td>
 <td align="left" valign="top">
-<br/>01C044 </td>
-<td align="left" valign="top">
-<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4 <br/>
-<br/>
-<br/>
-</td>
+<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>68 <br/>
+<p align="left">68</p>
 </td>
 <td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.<br/>
+<p align="left">Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.</p>
 </td>
 </tr>
 <tr>
@@ -392,6 +366,17 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>73 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01C10J <br/>
+</td>
+<td align="left" valign="top">
+<br/>Pose d'un stimulateur médullaire, en ambulatoire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>51 <br/>
 </td>
 <td align="left" valign="top">
@@ -438,19 +423,14 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>55 <br/>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <br/>01C121</td>
 <td align="left" valign="top">
-<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1. <br/>
-</td>
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>69 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.<br/>
@@ -460,20 +440,18 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>56 <br/>
 </td>
-<td align="left" valign="top">
-<br/>01C122 <br/>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>01C122 <br/>
+</p>
+<br/>
 </td>
 <td align="left" valign="top">
-<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2. <br/>
-</td>
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>70 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.<br/>
@@ -483,18 +461,19 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>57 <br/>
 </td>
-<td align="left" valign="top">
-<br/>01C123 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>01C123 <br/>
+</p>
+<br/>
+<br/>
+</td>
 <td align="left" valign="top">
 <br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>71 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.<br/>
@@ -504,19 +483,14 @@ LISTE DES FORFAITS DÉNOMMÉS
 <td align="left" valign="top">
 <br/>58 <br/>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
 <br/>01C124</td>
 <td align="left" valign="top">
-<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4. <br/>
-</td>
+<br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>72 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4.<br/>
@@ -2240,6 +2214,94 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>340 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M381 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections neurologiques concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>341 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M382 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections neurologiques concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>342 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M383 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections neurologiques concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>343 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M384 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections neurologiques concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>344 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M391 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>345 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M392 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>346 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M393 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>347 <br/>
+</td>
+<td align="left" valign="top">
+<br/>01M394 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>410 <br/>
 </td>
 <td align="left" valign="top">
@@ -2570,22 +2632,16 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>460 <br/>
+<br/>440 <br/>
 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>02C091</td>
 <td align="left" valign="top">
-<br/>02C091 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Allogreffes de cornée, niveau 1. <br/>
-</td>
+<br/>Allogreffes de cornée, niveau 1.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>440 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>460 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, niveau 1.<br/>
@@ -2593,21 +2649,16 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>461 <br/>
+<br/>441 <br/>
 </td>
+<td align="left" rowspan="2" valign="top">
+<br/>02C092</td>
 <td align="left" valign="top">
-<br/>02C092 </td>
-<td align="left" valign="top">
-<br/>Allogreffes de cornée, niveau 2. <br/>
-</td>
+<br/>Allogreffes de cornée, niveau 2.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>441 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>461 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, niveau 2.<br/>
@@ -2615,21 +2666,19 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>462 <br/>
+<br/>442 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>02C093 <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>02C093 <br/>
-</td>
-<td align="left" valign="top">
-<br/>Allogreffes de cornée, niveau 3. </td>
+<br/>Allogreffes de cornée, niveau 3.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>442 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>462 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, niveau 3.<br/>
@@ -2637,21 +2686,20 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>463 <br/>
+<br/>443 <br/>
 </td>
-<td align="left" valign="top">
-<br/>02C094 <br/>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>02C094 <br/>
+<br/>
+</p>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, niveau 4.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>443 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>463 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, niveau 4.<br/>
@@ -2659,22 +2707,19 @@ LISTE DES FORFAITS DÉNOMMÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>464 <br/>
+<br/>444 <br/>
+</td>
+<td align="left" rowspan="2" valign="top">
+<br/>
+<p>02C09J <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>02C09J <br/>
-</td>
-<td align="left" valign="top">
-<br/>Allogreffes de cornée, en ambulatoire. <br/>
-</td>
+<br/>Allogreffes de cornée, en ambulatoire.</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>444 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
+<br/>464 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Allogreffes de cornée, en ambulatoire. <br/>

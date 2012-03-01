@@ -5,10 +5,14 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">4922 </td>
-<td align="left" valign="top">13C031 <br/>
+<td align="left" valign="top">
+<p align="left">4922 </p>
 </td>
-<td align="left" valign="top">Hystérectomies, niveau 1.<br/>
+<td align="left" valign="top">
+<p align="left">13C031 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hystérectomies, niveau 1.</p>
 </td>
 </tr>
 <tr>
@@ -86,6 +90,17 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </td>
 <td align="left" valign="top">
 <br/>Interventions réparatrices sur l'appareil génital féminin, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4988 <br/>
+</td>
+<td align="left" valign="top">
+<br/>13C04J <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions réparatrices sur l'appareil génital féminin, en ambulatoire. <br/>
 </td>
 </tr>
 <tr>
@@ -508,22 +523,22 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">4968 </p>
+<p align="left">4968 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">13C12J <br/>
+</p>
+<br/>
+<br/>
 </td>
 <td align="left" valign="top">
-<p align="left">13C12J </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Dilatations et curetages, conisations pour affections non malignes, en ambulatoire. </p>
+<p align="left">Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>4987 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <br/>Dilatations et curetages, conisations pour affections non malignes, en ambulatoire. <br/>
@@ -674,10 +689,24 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>4982 <br/>
+<p align="left">4982 <br/>
+</p>
+</td>
+<td align="left" rowspan="2" valign="top">
+<p align="left">13C16J <br/>
+</p>
+<p align="left">
+<br/>
+<br/>
+</p>
 </td>
 <td align="left" valign="top">
-<br/>13C16J <br/>
+<p align="left">Prélèvements d'ovocytes, en ambulatoire.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>4989 <br/>
 </td>
 <td align="left" valign="top">
 <br/>Prélèvements d'ovocytes, en ambulatoire. <br/>
@@ -1103,46 +1132,46 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5306 <br/>
+<br/>5314 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14C02A <br/>
+<br/>14C03A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Césariennes, sans complication significative. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5307 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14C02B <br/>
-</td>
-<td align="left" valign="top">
-<br/>Césariennes, avec autres complications. <br/>
+<br/>Accouchements uniques par voie basse avec autres interventions, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5308 <br/>
+<br/>5315 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14C02C <br/>
+<br/>14C03B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Césariennes, avec complications majeures. <br/>
+<br/>Accouchements uniques par voie basse avec autres interventions, avec autres complications. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5309 <br/>
+<br/>5316 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14C03Z <br/>
+<br/>14C03C <br/>
 </td>
 <td align="left" valign="top">
-<br/>Accouchements par voie basse avec autres interventions. <br/>
+<br/>Accouchements uniques par voie basse avec autres interventions, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5317 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C03D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse avec autres interventions, avec complications sévères. <br/>
 </td>
 </tr>
 <tr>
@@ -1191,6 +1220,204 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>5318 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C06A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes avec naissance d'un mort-né, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5319 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C06B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes avec naissance d'un mort-né, avec autres complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5320 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C06C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes avec naissance d'un mort-né, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5321 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C06D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes avec naissance d'un mort-né, avec complications sévères. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5322 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C07A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse multiple, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5323 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C07B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse multiple, avec autres complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5324 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C07C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse multiple, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5325 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C07D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse multiple, avec complications sévères. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5326 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C08A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse unique, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5327 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C08B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse unique, avec autres complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5328 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C08C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse unique, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5329 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C08D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Césariennes pour grossesse unique, avec complications sévères. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5330 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C09A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Grossesses ectopiques avec intervention chirurgicale, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5331 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C09B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Grossesses ectopiques avec intervention chirurgicale, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5332 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C10T <br/>
+</td>
+<td align="left" valign="top">
+<br/>Affections de l'ante-partum avec intervention chirurgicale, très courte durée. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5333 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14C10Z <br/>
+</td>
+<td align="left" valign="top">
+<br/>Affections de l'ante-partum avec intervention chirurgicale. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5475 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14M02A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Affections médicales du post-partum ou du post-abortum, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5476 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14M02B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Affections médicales du post-partum ou du post-abortum, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>5460 <br/>
 </td>
 <td align="left" valign="top">
@@ -1202,90 +1429,57 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5461 <br/>
+<br/>5477 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14M02Z <br/>
+<br/>14M03A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Affections médicales du post-partum ou du post-abortum. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5462 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14Z02A <br/>
-</td>
-<td align="left" valign="top">
-<br/>Accouchements par voie basse, sans complication significative. <br/>
+<br/>Affections de l'ante-partum sans intervention chirurgicale, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5463 <br/>
+<br/>5478 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14Z02B <br/>
+<br/>14M03B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Accouchements par voie basse, avec autres complications. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5464 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14Z02C <br/>
-</td>
-<td align="left" valign="top">
-<br/>Accouchements par voie basse, avec complications majeures. <br/>
+<br/>Affections de l'ante-partum sans intervention chirurgicale, avec autres complications. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5465 <br/>
+<br/>5479 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14Z02T <br/>
+<br/>14M03C <br/>
 </td>
 <td align="left" valign="top">
-<br/>Accouchements par voie basse, très courte durée. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5466 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14Z03A <br/>
-</td>
-<td align="left" valign="top">
-<br/>Affections de l'ante partum, avec ou sans intervention chirurgicale, sans complications. <br/>
+<br/>Affections de l'ante-partum sans intervention chirurgicale, avec complications majeures. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5467 <br/>
+<br/>5480 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14Z03B <br/>
+<br/>14M03D <br/>
 </td>
 <td align="left" valign="top">
-<br/>Affections de l'ante partum, avec ou sans intervention chirurgicale, avec complications. <br/>
+<br/>Affections de l'ante-partum sans intervention chirurgicale, avec complications sévères. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5468 <br/>
+<br/>5481 <br/>
 </td>
 <td align="left" valign="top">
-<br/>14Z03T <br/>
+<br/>14M03T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Affections de l'ante partum, avec ou sans intervention chirurgicale, très courte durée. <br/>
+<br/>Affections de l'ante-partum sans intervention chirurgicale, très courte durée. <br/>
 </td>
 </tr>
 <tr>
@@ -1312,17 +1506,6 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5471 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14Z05Z <br/>
-</td>
-<td align="left" valign="top">
-<br/>Grossesses ectopiques. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <br/>5472 <br/>
 </td>
 <td align="left" valign="top">
@@ -1345,17 +1528,6 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5474 <br/>
-</td>
-<td align="left" valign="top">
-<br/>14Z07Z <br/>
-</td>
-<td align="left" valign="top">
-<br/>Faux travail. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <br/>9999 <br/>
 </td>
 <td align="left" valign="top">
@@ -1367,211 +1539,695 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5818 <br/>
+<br/>5482 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z02T <br/>
+<br/>14Z09Z <br/>
 </td>
 <td align="left" valign="top">
-<br/>Autres problèmes postnéonatals précoces, très courte durée. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5819 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z02Z <br/>
-</td>
-<td align="left" valign="top">
-<br/>Autres problèmes postnéonatals précoces. <br/>
+<br/>Accouchements hors de l'établissement. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5820 <br/>
+<br/>5483 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z03Z <br/>
+<br/>14Z10A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Transferts précoces de nouveau-nés vers un autre établissement. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5821 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z04E <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 1 500 g et plus, décédés. <br/>
+<br/>Accouchements par voie basse avec naissance d'un mort-né, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5822 <br/>
+<br/>5484 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z05A <br/>
+<br/>14Z10B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 2 500 g et plus, sans problème significatif. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5823 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z05B <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 2 500 g et plus, avec autre problème significatif. <br/>
+<br/>Accouchements voie basse avec naissance d'un mort-né, avec complications. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5824 <br/>
+<br/>5485 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z05C <br/>
+<br/>14Z10T <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 2 500 g et plus, avec problème sévère. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5825 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z05D <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 2 500 g et plus, avec problème majeur. <br/>
+<br/>Accouchements par voie basse avec naissance d'un mort-né, très courte durée. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5826 <br/>
+<br/>5486 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z06A <br/>
+<br/>14Z11A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 2 000 g à 2 499 g, sans problème significatif. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5827 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z06B <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 2 000 g à 2 499 g, avec autre problème significatif. <br/>
+<br/>Accouchements multiples par voie basse chez une primipare, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5828 <br/>
+<br/>5487 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z06C <br/>
+<br/>14Z11B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 2 000 g à 2 499 g, avec problème sévère. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5829 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z06D <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 2 000 g à 2 499 g, avec problème majeur. <br/>
+<br/>Accouchements multiples par voie basse chez une primipare, avec complications. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5830 <br/>
+<br/>5488 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z07A <br/>
+<br/>14Z12A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 1 500 g à 1 999 g, sans problème significatif. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5831 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z07B <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 1 500 g à 1 999 g, avec autre problème significatif. <br/>
+<br/>Accouchements multiples par voie basse chez une multipare, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5832 <br/>
+<br/>5489 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z07C <br/>
+<br/>14Z12B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 1 500 g à 1 999 g, avec problème majeur ou sévère. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5834 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z08E <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de 1 000 g à 1 499 g, décédés. <br/>
+<br/>Accouchements multiples par voie basse chez une multipare, avec complications. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5833 <br/>
+<br/>5490 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z08Z <br/>
+<br/>14Z13A <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de 1 000 g à 1 499 g, sortis en vie. <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>5836 <br/>
-</td>
-<td align="left" valign="top">
-<br/>15Z09E <br/>
-</td>
-<td align="left" valign="top">
-<br/>Nouveau-nés de moins de 1 000 g, décédés. <br/>
+<br/>Accouchements uniques par voie basse chez une primipare, sans complication significative. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>5835 <br/>
+<br/>5491 <br/>
 </td>
 <td align="left" valign="top">
-<br/>15Z09Z <br/>
+<br/>14Z13B <br/>
 </td>
 <td align="left" valign="top">
-<br/>Nouveau-nés de moins de 1 000 g, sortis en vie. <br/>
+<br/>Accouchements uniques par voie basse chez une primipare, avec autres complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5492 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z13C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une primipare, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5493 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z13D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une primipare, avec complications sévères. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5494 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z13T <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une primipare, très courte durée. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5495 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z14A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une multipare, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5496 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z14B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une multipare, avec autres complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5497 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z14C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une multipare, avec complications majeures. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5498 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z14D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une multipare, avec complications sévères. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5499 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z14T <br/>
+</td>
+<td align="left" valign="top">
+<br/>Accouchements uniques par voie basse chez une multipare, très courte durée. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5500 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z15Z <br/>
+</td>
+<td align="left" valign="top">
+<br/>Grossesses ectopiques sans intervention chirurgicale. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5501 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z16T <br/>
+</td>
+<td align="left" valign="top">
+<br/>Faux travail et menaces d'accouchements prématurés, très courte durée. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5502 <br/>
+</td>
+<td align="left" valign="top">
+<br/>14Z16Z <br/>
+</td>
+<td align="left" valign="top">
+<br/>Faux travail et menaces d'accouchements prématurés. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5837 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C02A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5932 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C02B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5838 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C03A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5933 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C03B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5839 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C04A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5934 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C04B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5840 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C05A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5935 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C05B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5841 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C06A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5936 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15C06B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Interventions chirurgicales, groupe nouveau-nés 10, avec complications. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5900 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M02Z <br/>
+</td>
+<td align="left" valign="top">
+<br/>Transferts précoces de nouveau-nés vers un autre établissement MCO. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5901 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M03E <br/>
+</td>
+<td align="left" valign="top">
+<br/>Décès précoces de nouveau-nés. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5902 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M04E <br/>
+</td>
+<td align="left" valign="top">
+<br/>Décès tardifs de nouveau-nés. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5903 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M05A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5904 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M05B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5905 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M05C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5906 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M05D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5907 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M06A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5908 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M06B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5909 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M06C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5910 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M06D <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5911 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M07A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5912 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M07B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5913 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M07C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5914 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M08A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5915 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M08B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5916 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M08C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5917 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M09A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5918 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M09B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5919 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M09C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5920 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M10A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5921 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M10B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5922 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M10C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5923 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M11A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5924 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M11B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5925 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M11C <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5926 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M12A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5927 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M12B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5928 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M13A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5929 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M13B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5930 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M14A <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>5931 <br/>
+</td>
+<td align="left" valign="top">
+<br/>15M14B <br/>
+</td>
+<td align="left" valign="top">
+<br/>Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif. <br/>
 </td>
 </tr>
 <tr>
@@ -2247,6 +2903,50 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>6210 <br/>
+</td>
+<td align="left" valign="top">
+<br/>16M181 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6211 <br/>
+</td>
+<td align="left" valign="top">
+<br/>16M182 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6212 <br/>
+</td>
+<td align="left" valign="top">
+<br/>16M183 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6213 <br/>
+</td>
+<td align="left" valign="top">
+<br/>16M184 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <br/>6309 <br/>
 </td>
 <td align="left" valign="top">
@@ -2445,49 +3145,24 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>6525 <br/>
+<p align="left">6470 <br/>
+</p>
 </td>
-<td align="left" valign="top">
+<td align="left" rowspan="2" valign="top">
+<p align="left">17K041<br/>
+</p>
+<p align="left">
 <br/>
-<br/>
+</p>
 </td>
-<td align="left" valign="top">
-<br/>Autres irradiations, niveau 1.<br/>
+<td align="left" rowspan="2" valign="top">
+<p align="left">Autres irradiations, niveau 1.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">6524 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">17K041 </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Autres irradiations, niveau 1. </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>6523 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Autres irradiations, niveau 1.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>6470 <br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>Autres irradiations, niveau 1.<br/>
+<p align="left">6523 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3577,6 +4252,50 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 </td>
 <td align="left" valign="top">
 <br/>Symptômes et autres recours aux soins de la CMD 18.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6805 <br/>
+</td>
+<td align="left" valign="top">
+<br/>18M151 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6806 <br/>
+</td>
+<td align="left" valign="top">
+<br/>18M152 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6807 <br/>
+</td>
+<td align="left" valign="top">
+<br/>18M153 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3.<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>6808 <br/>
+</td>
+<td align="left" valign="top">
+<br/>18M154 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4.<br/>
 </td>
 </tr>
 <tr>
