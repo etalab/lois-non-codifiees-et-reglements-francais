@@ -1,3 +1,0 @@
-# Article 3
-
-La mission de tutelle des écoles assure la tutelle administrative des écoles des mines, de l'Institut Télécom, de leurs groupements et de leurs filiales. Elle prépare les actes administratifs les concernant. Elle propose la répartition des ressources budgétaires et l'affectation de personnel, en tenant compte des orientations stratégiques validées par le vice-président du Conseil général de l'industrie, de l'énergie et des technologies. En liaison avec les services gestionnaires compétents, elle propose la politique de gestion des ressources humaines et veille à sa mise en œuvre.
