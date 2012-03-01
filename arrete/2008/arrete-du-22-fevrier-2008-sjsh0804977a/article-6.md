@@ -22,7 +22,7 @@ En outre, il effectue le traitement des données médicales à caractère person
 
 Selon des modalités arrêtées après avis de la commission médicale ou de la conférence médicale de l'établissement, il assure la diffusion des informations issues de ces traitements auprès de la direction de l'établissement de santé et du président de la commission médicale ou de la conférence médicale de l'établissement, ainsi qu'aux praticiens ayant dispensé les soins, dans des conditions garantissant la confidentialité des données et l'anonymat des patients.
 
-Le directeur et le président de la commission médicale ou de la conférence médicale de l'établissement sont destinataires de statistiques agrégées par unité médicale et pour l'ensemble de l'établissement ou, sur leur demande, de données extraites des fichiers mentionnés au I du présent article.
+Le directeur et le président de la commission médicale ou de la conférence médicale de l'établissement sont destinataires de statistiques agrégées par unité médicale et pour l'ensemble de l'établissement ou, sur leur demande, de données extraites des fichiers mentionnés au 3 du I du présent article.
 
 IV. ― Le médecin responsable de l'information médicale est informé de l'objectif des traitements de l'information qui lui sont demandés et participe à l'interprétation de leurs résultats. Il veille à la qualité des données qui lui sont transmises et conseille les structures médicales et médico-techniques quant à leur production.
 
