@@ -2,6 +2,7 @@
 
 - [Décret n°2005-885 du 2 août 2005 (DEFD0501065D)](decret-n2005-885-du-2-aout-2005-defd0501065d)
 - [Décret n°2005-886 du 2 août 2005 (DEFD0501066D)](decret-n2005-886-du-2-aout-2005-defd0501066d)
+- [Décret n°2005-888 du 2 août 2005 (DEFD0501067D)](decret-n2005-888-du-2-aout-2005-defd0501067d)
 - [Décret n°2012-166 du 2 février 2012 (TRAT1120026D)](decret-n2012-166-du-2-fevrier-2012-trat1120026d)
 - [Décret n°2012-168 du 2 février 2012 (DEFH1125873D)](decret-n2012-168-du-2-fevrier-2012-defh1125873d)
 - [Décret n°2012-169 du 2 février 2012 (SCSC1131327D)](decret-n2012-169-du-2-fevrier-2012-scsc1131327d)
