@@ -1,3 +1,0 @@
-# Article 36
-
-Par dérogation au principe de continuité du territoire prévu par l'article L. 5210-1-1 du code général des collectivités territoriales, pour les départements de Paris, du Val-de-Marne, des Hauts-de-Seine et de Seine-Saint-Denis, deux communes non contiguës parce qu'elles sont séparées par un bois appartenant à une commune tierce qui n'est pas comprise dans le périmètre d'un établissement public de coopération intercommunale à fiscalité propre peuvent constituer entre elles, et éventuellement avec d'autres communes, un établissement public de coopération intercommunale à fiscalité propre.
