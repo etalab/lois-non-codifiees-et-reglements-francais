@@ -6,4 +6,5 @@
 - [LOI n°2012-260 du 22 février 2012 (DEVX1119764L)](loi-n2012-260-du-22-fevrier-2012-devx1119764l)
 - [LOI n°2012-273 du 28 février 2012 (DEFD1132365L)](loi-n2012-273-du-28-fevrier-2012-defd1132365l)
 - [LOI n°2012-281 du 29 février 2012 (IOCX1204835L)](loi-n2012-281-du-29-fevrier-2012-iocx1204835l)
+- [LOI n°2012-287 du 1er mars 2012 (MCCX1133814L)](loi-n2012-287-du-1er-mars-2012-mccx1133814l)
 - [Loi n°53-661 du 1 août 1953](loi-n53-661-du-1-aout-1953)
