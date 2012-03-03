@@ -624,7 +624,7 @@
 <p align="left">(3) Produits de la pêche uniquement. </p>
 <p align="left">(4) Uniquement protéines animales. </p>
 <p align="left">(6) Graisses, huiles et huiles de poisson liquides uniquement.</p>
-<p>(15) Cette autorisation est valable jusqu'au 31 décembre 2011. </p>
+<p>(15) Cette autorisation est valable jusqu'au 30 juin 2012. </p>
 <p>(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. </p>
 <p>b) Cette autorisation est valable jusqu'au 31 décembre 2012. </p>
 <p>c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques. </p>
