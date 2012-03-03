@@ -54,7 +54,7 @@ Pour les PO partiels, ce plafonnement n'est pas effectué.
 
 5. Plafonnement par rapport au fonds éligible (G)
 
-Le total des dépenses calculées après le plafonnement "équilibre du PO" (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le "montant plafonné fonds" = "montant recevable" (qui sera utilisé pour le calcul des sanctions, conformément à l'article 117 du règlement d'exécution (UE) n° 543/2011).
+Le total des dépenses calculées après le plafonnement "équilibre du PO" (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le "montant plafonné fonds" = "montant recevable".
 
 G = minimum entre (somme des mesures plafonnées équilibre du PO = F et dernier fonds éligible).
 
@@ -146,7 +146,7 @@ et
 
 Pour les PO partiels, ce plafonnement n'est pas effectué.
 
-10. Plafonnement contribution
+10. Plafonnement contribution (K')
 
 Pour les fonds passés sous le nouveau règlement, le plafonnement par rapport aux contributions est supprimé.
 
@@ -156,7 +156,7 @@ Pour les fonds restant sous l'ancienne réglementation, le montant de l'aide est
 
 Pour tous les fonds (ancien et nouveau règlement), le calcul des sanctions est unique.
 
-Un montant d'aide recevable est calculé à partir du montant "plafonné fonds" (G) auquel est appliqué le pourcentage d'aide (déterminé par le type d'action) par action.
+Un montant d'aide recevable est calculé à partir du montant de l'aide "plafonné contribution" (K').
 
 Soit X = montant d'aide recevable.
 
