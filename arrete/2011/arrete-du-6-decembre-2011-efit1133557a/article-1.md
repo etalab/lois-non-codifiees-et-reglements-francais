@@ -14,7 +14,7 @@ Cône Sud (Argentine, Chili, Paraguay, Uruguay) : Buenos Aires ;
 
 Mexique et Amérique centrale (Mexique, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Salvador) : Mexico ;
 
-Amérique andine et Caraïbes (Bolivie, Colombie, Equateur, Haïti, Panama, Pérou, République dominicaine, Venezuela, Anguilla, Antigua et Barbuda, Bahamas, Dominique, Grenade, Guyana, îles Caïmans, îles Vierges britanniques, Jamaïque, Barbade, Saint-Christophe-et-Niévès, Sainte-Lucie, Sint Maarten, Saint-Vincent-et-les-Grenadines, Suriname, Trinité-et-Tobago) : Panama.
+Amérique andine et Caraïbes (Bolivie, Colombie, Cuba, Equateur, Haïti, Panama, Pérou, République dominicaine, Venezuela, Anguilla, Antigua et Barbuda, Bahamas, Dominique, Grenade, Guyana, îles Caïmans, îles Vierges britanniques, Jamaïque, Barbade, Saint-Christophe-et-Niévès, Sainte-Lucie, Sint Maarten, Saint-Vincent-et-les-Grenadines, Suriname, Trinité-et-Tobago) : Panama.
 
 En Europe
 
