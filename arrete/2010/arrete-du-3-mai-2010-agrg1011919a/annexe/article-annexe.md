@@ -23,7 +23,7 @@ I. - Nature et coefficients des épreuves
 <tr>
 <td align="center">
 <p align="left">
-<br/>Hygiène, qualité et technologie alimentaires</p>
+<br/>Sécurité sanitaire, hygiène, qualité et technologie alimentaires</p>
 </td>
 <td align="center">
 <br/>1</td>
@@ -39,10 +39,10 @@ I. - Nature et coefficients des épreuves
 <tr>
 <td align="center">
 <p align="left">
-<br/>Législation sanitaire</p>
+<br/>Législation vétérinaire </p>
 </td>
 <td align="center">
-<br/>3</td>
+<br/>2</td>
 </tr>
 </tbody>
 </table>
@@ -60,26 +60,26 @@ I. - Nature et coefficients des épreuves
 <tr>
 <td align="center">
 <p align="left">
-<br/>Epreuve pratique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)</p>
+<br/>Epreuve pratique (sciences cliniques des carnivores et des équidés ou sécurité sanitaire, hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)</p>
 </td>
 <td align="center">
-<br/>1</td>
+<br/>2</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Epreuve orale technique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)</p>
+<br/>Epreuve orale technique (sciences cliniques des carnivores et des équidés ou sécurité sanitaire, hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)</p>
 </td>
 <td align="center">
-<br/>1</td>
+<br/>2</td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>Epreuve orale de législation</p>
+<br/>Epreuve orale de législation vétérinaire </p>
 </td>
 <td align="center">
-<br/>1</td>
+<br/>2</td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ L'épreuve pratique comprend :
 
 2° La présentation et la discussion d'un cas clinique.
 
-Hygiène, qualité et technologie alimentaires
+Sécurité sanitaire, hygiène, qualité et technologie alimentaires
 
 L'épreuve pratique comprend :
 

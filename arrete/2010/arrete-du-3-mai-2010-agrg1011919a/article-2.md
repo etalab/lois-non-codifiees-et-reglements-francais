@@ -22,9 +22,9 @@ Connaissances dans les domaines de la pathologie des carnivores et des équidés
 
 8° L'anesthésie et la réanimation.
 
-II. - Hygiène, qualité et technologie alimentaires
+II. - Sécurité sanitaire, hygiène, qualité et technologie alimentaires
 
-Connaissances relatives à l'hygiène, à la sécurité, à la qualité et à la technologie des denrées animales et d'origine animale destinées à l'alimentation de l'homme et des animaux, ainsi que de leurs coproduits, concernant notamment :
+Connaissances relatives à la sécurité sanitaire, à l'hygiène, à la qualité et à la technologie des denrées animales et d'origine animale destinées à l'alimentation de l'homme et des animaux, ainsi que de leurs coproduits, concernant notamment :
 
 1° Les caractéristiques et propriétés (physiques, chimiques, organoleptiques, microbiologiques) ;
 
@@ -34,7 +34,7 @@ Connaissances relatives à l'hygiène, à la sécurité, à la qualité et à la
 
 4° Les risques alimentaires, leur épidémiologie et leur prévention ;
 
-5° L'inspection et le contrôle des denrées ainsi que la surveillance des établissements du secteur alimentaire.
+5° L'inspection et le contrôle des viandes et denrées animales ou d'origine animale ainsi que la surveillance des établissements du secteur alimentaire.
 
 III. - Productions animales et pathologie des animaux de rente
 
@@ -46,7 +46,7 @@ Connaissances des productions animales et de leur maîtrise zootechnique et sani
 
 3° L'alimentation des animaux de rente : valeur alimentaire et utilisation des principaux aliments par les animaux, bases de rationnement ;
 
-4° Les contraintes environnementales ;
+4° Les normes environnementales ;
 
 5° L'épidémiologie des maladies contagieuses et des principales maladies d'élevage dans les filières de production ;
 
@@ -58,20 +58,16 @@ Connaissances des productions animales et de leur maîtrise zootechnique et sani
 
 9° La prophylaxie sanitaire, médicale et médico-sanitaire.
 
-IV. - Législation sanitaire
+IV. - Législation vétérinaire
 
 Connaissance des réglementations suivantes et des structures en charge de leur application :
 
-1° La réglementation de la santé et de la protection animales :
+1° La réglementation sanitaire (organisation sanitaire et maladies réglementées) ;
 
-- protection animale ;
+2° La réglementation relative à la protection animale ;
 
-- maladies réputées contagieuses ;
+3° La réglementation relative à pharmacie vétérinaire ;
 
-- autres maladies ;
+4° La réglementation relative à la sécurité sanitaire, à l'hygiène, et à la qualité des aliments ;
 
-2° La réglementation de la pharmacie vétérinaire ;
-
-3° La réglementation relative à l'hygiène, la sécurité sanitaire et la qualité des aliments ;
-
-4° La déontologie vétérinaire.
+5° La déontologie vétérinaire.
