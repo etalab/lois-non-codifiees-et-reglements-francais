@@ -204,7 +204,6 @@
 - [Arrêté du 13 février 2012 (EFIT1204086A)](arrete-du-13-fevrier-2012-efit1204086a)
 - [Arrêté du 13 février 2012 (ETSD1204234A)](arrete-du-13-fevrier-2012-etsd1204234a)
 - [Arrêté du 13 février 2012 (ETSP1204259A)](arrete-du-13-fevrier-2012-etsp1204259a)
-- [Arrêté du 13 février 2012 (MCCC1204375A)](arrete-du-13-fevrier-2012-mccc1204375a)
 - [Arrêté du 13 février 2012 (MCCC1204377A)](arrete-du-13-fevrier-2012-mccc1204377a)
 - [Arrêté du 13 janvier 2012 (DEVL1134466A)](arrete-du-13-janvier-2012-devl1134466a)
 - [Arrêté du 13 janvier 2012 (EFII1200133A)](arrete-du-13-janvier-2012-efii1200133a)
