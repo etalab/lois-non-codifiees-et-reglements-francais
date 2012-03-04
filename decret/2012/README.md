@@ -6,6 +6,7 @@
 - [Décret n°2012-166 du 2 février 2012 (TRAT1120026D)](decret-n2012-166-du-2-fevrier-2012-trat1120026d)
 - [Décret n°2012-168 du 2 février 2012 (DEFH1125873D)](decret-n2012-168-du-2-fevrier-2012-defh1125873d)
 - [Décret n°2012-169 du 2 février 2012 (SCSC1131327D)](decret-n2012-169-du-2-fevrier-2012-scsc1131327d)
+- [Décret n°2012-298 du 2 mars 2012 (ETSP1134560D)](decret-n2012-298-du-2-mars-2012-etsp1134560d)
 - [Décret n°2011-629 du 3 juin 2011 (ETSP1013927D)](decret-n2011-629-du-3-juin-2011-etsp1013927d)
 - [Décret n°2012-170 du 3 février 2012 (IOCB1130432D)](decret-n2012-170-du-3-fevrier-2012-iocb1130432d)
 - [Décret n°2012-171 du 3 février 2012 (IOCE1132895D)](decret-n2012-171-du-3-fevrier-2012-ioce1132895d)
@@ -153,3 +154,5 @@
 - [Décret n°2012-163 du 1er février 2012 (IOCS1119467D)](decret-n2012-163-du-1er-fevrier-2012-iocs1119467d)
 - [Décret n°2012-292 du 1er mars 2012 (IOCD1206186D)](decret-n2012-292-du-1er-mars-2012-iocd1206186d)
 - [Décret n°2012-294 du 1er mars 2012 (SCSA1134097D)](decret-n2012-294-du-1er-mars-2012-scsa1134097d)
+- [Décret n°2012-295 du 1er mars 2012 (DEFD1135431D)](decret-n2012-295-du-1er-mars-2012-defd1135431d)
+- [Décret n°2012-296 du 1er mars 2012 (IOCL1135310D)](decret-n2012-296-du-1er-mars-2012-iocl1135310d)
