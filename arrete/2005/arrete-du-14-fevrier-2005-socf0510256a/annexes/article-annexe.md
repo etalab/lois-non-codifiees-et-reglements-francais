@@ -2,115 +2,103 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : mécanicien(ne) réparateur(trice) d'engins de chantier.
+Intitulé : mécanicien (ne) réparateur (trice) d'engins et de  matériels  travaux publics  (ancien intitulé : mécanicien [ne]  réparateur [trice] d'engins de chantier).
 
 Niveau : V.
 
-Code NSF : 252 r.
+Code NSF : 252 r-Moteurs et mécanique auto.
 
 Résumé du référentiel d'emploi
 
-Le (la) mécanicien(ne) réparateur(trice) d'engins de chantier réalise des opérations d'entretien, de remise en état et de dépannage sur les machines et les engins de chantier des travaux publics :
+La  finalité de cet emploi est de maintenir en état de fonctionnement les  engins de chantier et leurs équipements pour optimiser la production. Le  (la) professionnel (le) réalise la maintenance, la réparation et le  dépannage des engins de chantier en atelier ou sur un chantier, il  (elle) intervient sur de nombreuses familles de matériels : pelles  hydrauliques, bouteurs, niveleuses, décapeuses, chargeurs, tractopelles,  compacteurs, concasseurs... et leurs d'équipements, godets, rippers,  fraises hydrauliques, grappin mécanique, vibrateurs de palplanches...
 
-bouteurs, chargeurs, pelles hydrauliques, tracto-pelles, compacteurs, camions et équipements de chantier.
+Les  techniques de réparation qu'il (elle) met en œuvre s'appliquent sur des  systèmes et des dispositifs combinant plusieurs technologies telles que  la mécanique, l'électricité, l'électronique, l'hydraulique, la  pneumatique dont le pilotage est souvent assuré par des systèmes  informatiques embarqués.
 
-L'arrêt d'une machine de chantier est coûteux et parfois lourd de conséquences, ce qui incite les entreprises à privilégier la maintenance préventive (entretien et révision) pour limiter leur immobilisation. En cas d'avarie, le (la) mécanicien(ne) devra intervenir directement sur le chantier pour y remédier.
+Lors d'interventions sur  ces ensembles, il (elle) s'appuie sur l'utilisation de matériels de  contrôle et de réparation propres à chaque catégorie d'engins, ce qui  nécessite la connaissance de leur fonctionnement en production. Dans le  cadre de ses interventions, il (elle) réalise la mise en service des  engins et équipements neufs : montage, contrôle, essai, puis livraison  et réglage chez le client ou sur le chantier. Il (elle) effectue du  reconditionnement, des réparations de pièces usagées ou d'usure  spécifique aux équipements et des engins par des opérations courantes de  mécanique générale et de soudure.
 
-Les techniques de réparation qu'il (elle) met en oeuvre s'appliquent sur des systèmes et des dispositifs combinant plusieurs technologies telles que la mécanique, l'électricité, l'électronique, l'hydraulique, dont le pilotage est souvent assuré par des systèmes informatiques embarqués. L'évolution rapide des machines, des matériels de réparation et de diagnostic implique, pour le réparateur, de réactualiser périodiquement ses compétences.
+Pour réaliser  ces opérations, le (la) mécanicien (ne) s'appuie sur une documentation  technique qui précise les modes opératoires, les données techniques de  contrôle, de réglages établis par le constructeur. Il (elle) possède les  connaissances nécessaires pour interpréter des plans mécaniques, des  schémas électriques, hydrauliques, pneumatiques pour effectuer la  réparation ou le dépannage de ces systèmes.
 
-Les engins et matériels de chantier développent des puissances importantes et la manutention de leurs organes nécessite l'utilisation de matériels et de techniques appropriés.
+Il  (elle) exécute les opérations à partir d'un ordre de réparation sur  lequel sont consignés les travaux à réaliser, définis par son  responsable hiérarchique.
 
-Il (elle) exerce son activité sous la responsabilité d'un chef d'atelier qui lui précise, par un " ordre de réparation ", les travaux à réaliser et les consignes à observer. Il (elle) s'appuie sur une documentation technique " constructeur " qui lui précise les données techniques et les modes opératoires à respecter.
+Il (elle) peut être amené  (e) à se déplacer pour intervenir sur les chantiers, chez des clients  possédant un parc d'engins. Le permis de conduire B est nécessaire. Il  (elle) dépanne les matériels d'après les consignes fixées par son  responsable hiérarchique. Sur le site, le (la) mécanicien (ne) localise  plus précisément la panne et en fonction de la situation rencontrée, il  (elle) intervient souvent par échange d'organes ou de composants.
 
-Les horaires sont normalement réguliers mais certains travaux, tels que la réfection de routes, peuvent entraîner des aménagements liés aux contraintes des chantiers.
+Le  (la) mécanicien (ne) devra s'adapter à l'environnement professionnel  des travaux publics. Une panne sérieuse d'un engin peut engendrer  l'arrêt de tout ou partie d'un chantier, certaines interventions  présentant un caractère d'urgence, il (elle) adapte sa méthode de  travail en fonction de ces différents paramètres. Il (elle) possède des  qualités relationnelles, une bonne représentation des risques  professionnels et une sensibilisation à la protection de  l'environnement.
 
-Le permis de conduire B est nécessaire pour les déplacements sur chantier.
+Capacités attestées et descriptif
 
-Capacités attestées et descriptif des composantes
+des composantes de la certification
 
-de la certification
+1. Assurer l'entretien et la maintenance de base des engins
 
-1. Réaliser l'entretien périodique des engins
+et des matériels
 
-et des matériels de chantier
+Prendre en charge un engin et un matériel pour réaliser les opérations d'entretien programmé.
 
-Recueillir et exploiter les informations fournies par les utilisateurs et les spécifications des constructeurs d'engins et de matériels de chantier.
+Réparer des éléments assemblés vissés et pièces mécano-soudées.
 
-Organiser les interventions de révision périodique des engins et des matériels de chantier.
+Manœuvrer les engins et les matériels en sécurité.
 
-Effectuer les vérifications et les opérations préconisées par le constructeur, dans le cadre de l'entretien des engins et des matériels de chantier.
+Contrôler, remplacer, régler les équipements périphériques du moteur thermique des engins et matériels.
 
-Réaliser les contrôles et les réglages préconisés par le constructeur, dans le cadre des révisions périodiques des engins et des matériels de chantier.
+Entretenir et contrôler les circuits électriques et électroniques embarqués des engins et matériels.
 
-Vérifier la conformité et les performances des engins et des matériels de chantier.
+Entretenir et contrôler les embrayages et transmissions des engins et matériels.
 
-2. Monter et remettre en état les équipements
+Entretenir et contrôler les systèmes de freinage et les pneumatiques des engins et matériels.
 
-de production des engins et des matériels de chantier
+Contrôler, remplacer les composants des circuits hydrauliques des engins et matériels.
 
-Exploiter les plans et spécifications du constructeur pour monter et adapter des équipements d'engins de chantier.
+2. Assurer la remise en état et le dépannage
 
-Fabriquer et assembler des pièces mécano soudées pour adapter ou réparer des équipements d'engins de chantier.
+des engins de chantier
 
-Monter et régler les équipements de production des engins et des matériels de chantier.
+Réaliser les opérations de manipulation des fluides frigorigènes.
 
-Réparer les pièces d'usure d'équipements de production d'engins et de matériels de chantier.
+Remettre en état et dépanner les moteurs thermiques des engins de chantier.
 
-Procéder aux essais fonctionnels d'équipements de production d'engins et de matériels de chantier.
+Remettre en état et dépanner les circuits et composants électriques et électroniques embarqués des engins de chantier.
 
-3. Réparer en atelier les engins et les matériels de chantier
+Remettre en état et dépanner les organes de transmission et de freinage des engins de chantier.
 
-par remplacement de pièces et d'organes
+Remettre en état les organes et dépanner les circuits hydrauliques des engins de chantier.
 
-Remettre en état les engins de chantier par échange standard d'organes.
-
-Effectuer les contrôles nécessaires pour statuer sur l'état des pièces mécaniques d'engins et de matériels de chantier.
-
-Réparer les ensembles mécaniques d'engins de chantier.
-
-Contrôler et réparer les circuits et composants hydrauliques des engins et des matériels de chantier.
-
-Remettre en état les circuits et les organes électriques des engins de chantier.
-
-4. Dépanner sur site les engins
-
-et les matériels de chantier
-
-Organiser les interventions de dépannage sur chantier des engins et des matériels conformément aux indications de l'ordre de travail.
-
-Effectuer les différents contrôles et mesures pour déterminer l'origine d'une avarie sur les engins et matériels de chantier.
-
-Remettre en état de fonctionnement, sur chantier, les engins et matériels suite à une avarie.
-
-Conduire des essais de fonctionnement en situation de production des engins de chantier.
-
-Effectuer un compte-rendu d'intervention.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) mécanicien(ne) réparateur(trice) d'engins de chantier exerce :
+Le mécanicien réparateur d'engins et de matériels  travaux publics  exerce dans :
 
-- dans les entreprises du bâtiment et des travaux publics ce qui peut impliquer des déplacements sur les chantiers, y compris à l'étranger ;
+― les entreprises de service et de réparation des engins de chantier ;
 
-- dans les réseaux de distribution des constructeurs d'engins de chantier ;
+― les réseaux des constructeurs, concessionnaires et entreprises de distribution des matériels ;
 
-- dans les entreprises de distribution, de location et de réparation des engins et matériels de chantier ;
+― les entreprises de location des matériels ;
 
-- dans les ateliers des directions départementales de l'équipement.
+― les entreprises ou collectivités utilisatrices d'engins de travaux publics.
 
-Réglementation de l'activité :
+Les types d'emplois accessibles sont les suivants :
 
-Pour déplacer les engins, le (la) mécanicien(ne) doit être titulaire d'une autorisation de conduite valide.
+Mécanicien (ne) réparateur (trice) d'engins de chantier.
 
-Dans le cadre des interventions de maintenance des engins hors production et selon les recommandations de la CNAM, le CACES R. 372 catégorie 10 sert de base à la délivrance de l'autorisation de conduite par le chef d'entreprise.
+Mécanicien (ne) réparateur (trice) de matériels de manutention.
 
 Code ROME :
 
-44316 - Mécanicien(ne) d'engins de chantier, de levage et manutention et de machines agricoles.
+I1603-Maintenance d'engins de chantier, levage, manutention et de machines agricoles.
+
+Réglementation de l'activité :
+
+Le mécanicien réparateur d'engins et de matériels  travaux publics  doit être titulaire :
+
+―  soit d'une autorisation de conduite établie par le chef d'entreprise  pour le déplacement interne à l'entreprise des engins hors production ;
+
+― soit du CACES (recommandation CNAMTS R 372 m catégorie 10) ;
+
+― d'une attestation d'aptitude à manipuler les fluides frigorigènes en famille 2 catégorie 5 ou de son équivalence ;
+
+― d'une habilitation Norme UTE-C18550 pour intervenir sur les matériels ayant un mode de propulsion ou de traction électrique ;
+
+― du permis de conduire B dans le cadre de déplacements pour interventions avec VL ou VUL.
 
 Autorité responsable de la certification :
 
@@ -118,8 +106,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

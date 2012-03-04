@@ -1,146 +1,114 @@
 # Article Annexe
 
-A N N E X E
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Activités et compétences attestées par la certification
+Intitulé :
 
-1. Monter des matériels et des équipements sur les engins
+Titre professionnel : mécanicien (ne) réparateur (trice) d'engins et de matériels "manutention" (ancien intitulé : mécanicien [ne] d'équipements et d'engins motorisés, option matériels de parcs et jardins, option machinisme agricole, option matériels de manutention).
 
-Effectuer le montage et le réglage de machines et d'équipements, à partir des plans et des spécifications du constructeur.
+Niveau : V.
 
-Procéder aux essais fonctionnels et à la mise au point des engins et des équipements.
+Code NSF : 252 r - Moteurs et mécanique auto.
 
-Réaliser des pièces mécaniques, conformément à un plan, pour adapter des équipements sur les engins.
+Résumé du référentiel d'emploi
 
-Procéder à la mise en service d'engins et d'équipements auprès des utilisateurs, en spécifiant les règles de sécurité.
+La finalité de cet emploi est de maintenir en état de fonctionnement les matériels de manutention et de levage pour optimiser la production.
 
-2. Réparer les matériels et les engins motorisés
+Le (la) mécanicien (ne) réparateur (trice) de matériels de manutention réalise la maintenance, la réparation et le dépannage en atelier ou chez le client des différents matériels de manutention classés selon la recommandation de la CNAMTS en R 389. Il (elle) intervient sur les cinq catégories de matériels de manutention (transpalettes à conducteur porté, chariots tracteurs, chariots élévateurs frontal en porte-à-faux inférieur ou supérieur à 6 000 kg, chariots élévateurs à mât rétractable), ainsi que sur les plates-formes élévatrices mobiles de personnel (PEMP) selon la recommandation R 386.
 
-Organiser les interventions de réparation d'engins et de matériels à partir d'un ordre de travail établi et conformément à un manuel de réparation.
+Les performances et les différentes énergies utilisées par les matériels (électriques, GNV, GPL, diesel...) sur lesquels il (elle) intervient font appel à des connaissances qui intègrent des technologies de pointe dans les domaines : mécanique, électromécanique, électronique embarquée, hydraulique, multiplexage, informatique, entre autres. Il (Elle) exécute les opérations à partir d'un ordre de réparation sur lequel sont consignés les travaux à réaliser définis par son responsable hiérarchique à qui il (elle) rend compte des interventions réalisées.
 
-Remettre en état des engins par échange standard d'organes et d'ensembles mécaniques, hydrauliques et électriques.
+Lors d'interventions sur ces ensembles, il (elle) s'appuie sur l'utilisation d'appareils de contrôle et de réparation propres à chaque catégorie de matériels, ce qui nécessite la connaissance de leur fonctionnement en production.
 
-Effectuer les contrôles nécessaires pour statuer sur l'état de pièces mécaniques de matériels et d'engins.
+Dans le cadre de ses interventions, il (elle) participe ou réalise la mise au point du matériel neuf : montage, contrôle, essai, puis livraison et réglage chez le client.
 
-Réparer les ensembles mécaniques des engins et des matériels.
+Il (elle) effectue le montage, l'installation des accessoires de levée (fourche à palette, pince de manutention, godet, nacelle...) en mettant en œuvre des procédures et des moyens dédiés tout en respectant les consignes d'homologations établies par le constructeur.
 
-Réparer des pièces de tôlerie et mécano soudées par redressage, rechargement, usinage et soudage.
+Il (elle) réalise l'entretien, les vérifications de conformité des matériels de levage et de manutention en lien avec les critères de la VGP (vérification générale périodique).
 
-Ces unités constitutives sont à choisir parmi les trois options suivantes :
+Il (elle) effectue des réparations par des opérations courantes de mécanique générale et de soudure.
 
--soit l'option machinisme agricole :
+Pour réaliser ces opérations, le (la) mécanicien (ne) s'appuie sur une documentation technique qui précise les modes opératoires, les données techniques de contrôle, de réglages établis par le constructeur.
 
-Assurer la maintenance préventive des engins et des matériels agricoles :
+Il (elle) possède des qualités de communication, une bonne représentation des risques professionnels et une sensibilisation à la protection de l'environnement.
 
--effectuer les vérifications et les opérations préconisées par le constructeur pour réaliser l'entretien de tracteurs et de machines agricoles ;
+Il (elle) doit s'adapter à de nouveaux matériels et technologies. Les horaires de travail nécessitent parfois des aménagements pour assurer le service (transporteurs, loueurs...).
 
--contrôler, échanger les pièces d'usure et régler les machines agricoles, d'après les indications des manuels d'entretien et d'utilisation ;
+Il (elle) peut être amené (e) à se déplacer avec un VL ou VUL afin de se rendre chez des clients pour effectuer des interventions. Le permis de conduire B est nécessaire. Il (elle) dépanne les matériels d'après les consignes fixées par son responsable hiérarchique. Sur le site, le (la) mécanicien (ne) localise plus précisément la panne et, en fonction de la situation rencontrée, il (elle) intervient souvent par échange d'organes ou de composants.
 
--réaliser les contrôles et les réglages spécifiés par le constructeur dans le cadre des révisions périodiques des tracteurs et machines agricoles ;
+Capacités attestées et descriptif
 
--procéder aux essais en production d'ensembles tracteurs/ équipements et machines agricoles et consigner les résultats.
+des composantes de la certification
 
-Dépanner les tracteurs et les matériels agricoles :
+1. Assurer l'entretien et la maintenance
 
--organiser des interventions de dépannage d'engins et de matériels agricoles d'après les indications d'un ordre de réparation ;
+de base des engins et des matériels
 
--effectuer les différents contrôles et mesures pour déterminer l'origine d'une avarie sur les tracteurs et les machines agricoles ;
+Prendre en charge un engin et un matériel pour réaliser les opérations d'entretien programmées
 
--remettre en état de fonctionnement des tracteurs et des machines agricoles en situation de dépannage chez le client ;
+Réparer des éléments assemblés vissés et pièces mécano-soudées.
 
--effectuer, sur site d'exploitation, les contrôles et essais de fonctionnement des engins et machines agricoles pour procéder à leur remise en service ;
+Manœuvrer les engins et les matériels en sécurité
 
--rendre compte des interventions réalisées et conseiller les clients sur l'utilisation des machines ;
+Contrôler, remplacer, régler les équipements périphériques du moteur thermique des engins et matériels.
 
--soit l'option matériels de parcs et jardins :
+Entretenir et contrôler les circuits électriques et électroniques embarqués des engins et matériels.
 
-Assurer l'entretien des engins et des matériels de parcs et jardins :
+Entretenir et contrôler les embrayages et transmissions des engins et matériels.
 
--accueillir et conseiller la clientèle sur l'utilisation des engins et matériels de parcs et jardins et sur leurs caractéristiques ;
+Entretenir et contrôler les systèmes de freinage et les pneumatiques des engins et matériels.
 
--affûter les équipements de coupe des matériels de parcs et jardins ;
+Contrôler, remplacer les composants des circuits hydrauliques des engins et matériels.
 
--effectuer les opérations de vérification et d'entretien préconisées par le constructeur de matériels de parcs et jardins ;
+2. Assurer la remise en état
 
--réaliser les contrôles et réglages préconisés par le constructeur dans le cadre des révisions périodiques de matériels de parcs et jardins ;
+et le dépannage des matériels de manutention
 
--procéder aux essais de performance d'engins et matériels de parcs et jardins en sécurité.
+Remettre en état et dépanner les moteurs thermiques des matériels de manutention.
 
-Dépanner les engins et matériels de parcs et jardins :
+Remettre en état et dépanner la traction électrique et l'ensemble des systèmes et composants électriques et électroniques des matériels de manutention.
 
--organiser des interventions de dépannage de matériels de parcs et jardins d'après les indications fournies par le client ;
+Remettre en état et dépanner les organes de transmission et de freinage des matériels de manutention.
 
--effectuer les différents contrôles et mesures pour déterminer l'origine d'une avarie, sur les engins et matériels de parcs et jardins ;
+Remettre en état les organes et dépanner les circuits hydrauliques des matériels de manutention.
 
--remédier aux pannes et aux dysfonctionnements des engins et matériels de parcs et jardins ;
+Réaliser la maintenance des équipements spécifiques des matériels de manutention.
 
--procéder aux essais et à la mise au point des engins et des matériels de parcs et jardins ;
-
--rendre compte au client des interventions réalisées et apporter des conseils d'utilisation et de sécurité ;
-
--soit l'option matériels de manutention :
-
-Assurer la maintenance préventive des engins et matériels de manutention :
-
--planifier et organiser les opérations de maintenance préventive d'engins de manutention en fonction des durées d'utilisation et des préconisations du constructeur ;
-
--effectuer les opérations d'entretien périodique et les vérifications préconisées par les constructeurs d'engins et de matériels de manutention ;
-
--réaliser les contrôles et les réglages préconisés par le constructeur dans le cadre des révisions périodiques de matériels de manutention ;
-
--contrôler et régler les engins et matériels de manutention à traction électrique ;
-
--effectuer les vérifications de conformité d'engins de manutention pour la visite technique périodique obligatoire ;
-
--établir des comptes rendus d'interventions et renseigner les livrets d'entretien d'engins et de matériels de manutention.
-
-Dépanner les engins et matériels de manutention :
-
--organiser, sur instruction, des interventions de dépannage d'engins et de matériels de manutention, en exploitant les indications fournies par l'utilisateur ;
-
--effectuer les différents contrôles et mesures pour déterminer l'origine d'une avarie sur les engins et les matériels de manutention ;
-
--remettre en état de fonctionnement, sur site de production, les engins et matériels de manutention suite à une avarie ;
-
--procéder aux essais et à la remise en service, en sécurité, des engins et des matériels de manutention après intervention ;
-
--effectuer des rapports d'intervention et conseiller les conducteurs pour l'utilisation des matériels en sécurité.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) mécanicien (ne) d'équipements et d'engins motorisés option machinisme agricole exerce :
+Le mécanicien réparateur d'engins et de matériels "manutention" exerce dans :
 
--dans les ateliers des concessions et agences des marques de matériels agricoles ;
+- les entreprises de service et de maintenance des matériels de manutention ;
 
--dans les réseaux de distribution des constructeurs de machines agricoles ;
+- les réseaux des constructeurs, concessions, agences, les entreprises de location des matériels ;
 
--dans les entreprises de travaux agricoles, les coopératives agricoles (CUMA) ;
+- les entreprises du transport de marchandises, portuaires, les administrations publiques.
 
--dans les grosses exploitations agricoles disposant d'un atelier intégré.
+Les types d'emplois accessibles sont les suivants :
 
-Le (la) mécanicien (ne) d'équipements et d'engins motorisés option matériels de parcs et jardins exerce :
+Mécanicien (ne) réparateur (trice) de matériels de manutention.
 
--dans les ateliers de service après vente des distributeurs de matériels de parcs et jardins, concessionnaires des marques ;
-
--dans les ateliers des entreprises d'entretien d'espaces verts ;
-
--dans les ateliers des collectivités territoriales disposant d'un parc de matériels conséquent.
-
-Le (la) mécanicien (ne) d'équipements et d'engins motorisés option matériels de manutention exerce :
-
--dans les entreprises de distribution et de maintenance, concessions ou agences des constructeurs de matériels de levage et de manutention ;
-
--dans les entreprises de distribution, de location et de réparation des engins et matériels de manutention et de chantier de BTP.
-
-Réglementation de l'activité :
-
-Néant.
+Mécanicien (ne) réparateur (trice) d'engins de travaux publics.
 
 Code ROME :
 
-44316-Mécanicien (ne) d'engins de chantier, de levage et manutention.
+I1603-Maintenance d'engins de chantier, levage, manutention et de machines agricoles.
+
+Réglementation de l'activité
+
+Le mécanicien réparateur de matériels de manutention doit être titulaire :
+
+- soit d'une autorisation de conduite établie par le chef d'entreprise pour le déplacement interne à l'entreprise des matériels de manutention ou de levage hors production ;
+
+- soit du CACES (recommandation CNAMTS R 389 catégorie 6, pour les chariots élévateurs) ;
+
+- soit du CACES (selon la catégorie de la recommandation CNAMTS R 386, pour les plates-formes élévatrices mobiles de personnes (PEMP) ;
+
+- d'une habilitation norme UTE-C18550 pour intervenir sur les matériels ayant un mode de propulsion ou de traction électrique ;
+
+- du permis de conduire B dans le cadre de déplacements pour interventions avec VL ou VUL.
 
 Autorité responsable de la certification :
 
@@ -148,8 +116,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
-
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

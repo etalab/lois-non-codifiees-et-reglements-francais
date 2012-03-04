@@ -1,128 +1,86 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
-
-NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel de technicien(ne) supérieur(e) en automatique et informatique industrielle
+Titre professionnel : technicien (ne) supérieur (e) en automatique et informatique industrielle.
 
-Niveau : III
+Niveau : III.
 
-Code NSF : 201 n.
+Code NSF : 201 n-Technologies de commandes des transformations industrielles.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) supérieur(e) en automatique et informatique industrielle, sous la conduite d'un chef de projet étudie et développe, fait communiquer entre eux les éléments et met en service tout ou partie d'une application d'automatisation d'installations ou d'équipements.
+Le technicien supérieur en automatique et informatique industrielle, sous la conduite d'un chef de projet étudie, développe et met en service tout ou partie d'une application d'automatisation.
 
-Suivant le type de projet ou d'entreprise ou d'organisation, le (la) technicien(ne) supérieur(e) en automatique et informatique industrielle étudie et développe plutôt les aspects supervision (surveillance et conduite d'installations) ou les aspects contrôle commande (réalisation des opérations physiques sur les installations au travers de capteurs et actionneurs).
+Ces applications portent sur la création, l'amélioration ou la rénovation d'installations ou d'équipements industriels ou BTP et sont du type supervision ou contrôle-commande.
 
-Lors des phases de conception et développement, Le technicien supérieur en automatique et informatique industrielle travaille essentiellement en bureau ou plate-forme, sur des postes de travail informatiques.
+Il inscrit son intervention, au sein d'une équipe de développement pluridisciplinaire (mécaniciens, électriciens, électrotechniciens...), en respectant les contraintes du projet (délais, coûts...)
 
-Pour la mise en service, il se déplace sur le site industriel et se trouve confronté directement aux différents éléments matériels (mécanique, électrotechnique, hydraulique...) et logiciels (gestion de production, contrôles commandes...) du système automatisé.
+Ce travail nécessite d'actualiser de façon permanente sa connaissance des nouveaux outils et technologies.
 
-Les horaires sont le plus souvent normaux, bien que ceux-ci puissent être largement dépassés lors des phases les plus délicates (mise au point, mise en service).
+Lors des phases développement, il travaille essentiellement en bureau à l'aide d'outils informatiques.
 
-En règle générale, Le technicien supérieur en automatique et informatique industrielle travaille au sein d'une équipe de développement pluridisciplinaire (mécaniciens, électriciens, électrotechniciens, personnels d'atelier et de chantier, chefs de travaux...) sous la responsabilité d'un chef de projet. Il est autonome et responsable pour le développement complet de la partie qui lui est confiée. Il se montre disponible pour assister les utilisateurs à la manipulation de l'application et pour les dépanner. Il manifeste une curiosité permanente vis à vis des nouveaux outils et s'astreint à une organisation rigoureuse de façon, par exemple, à pouvoir intervenir sur plusieurs projets tout en respectant les délais.
+Pour la mise en service, il se déplace, en France, voire à l'étranger sur le site industriel et se trouve confronté directement aux différents éléments matériels (mécanique, électrotechnique, hydraulique...) et logiciels (gestion de production, contrôles commandes...) du système automatisé.
 
-Capacités attestées et descriptif des composantes
+Il travaille chez des fabricants de produits d'automatisme, dans l'industrie manufacturière ou le BTP, chez les opérateurs travaillant pour l'énergie, l'environnement, les transports et surtout chez les Intégrateurs, sociétés d'ingénierie, sociétés de services travaillant pour les entreprises précédentes.
 
-de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Etudier et développer une application de contrôle-commande d'une installation
+1. Etudier et développer une application de contrôle-commande d'une installation ou d'un équipement avec des outils d'automatique.
 
-ou d'un équipement, avec des outils d'automatique
+Analyser l'application de contrôle-commande d'une installation ou d'un équipement.
 
-Faire l'analyse organique de l'application de contrôle-commande.
+Développer et mettre au point les programmes de l'application de contrôle-commande d'une installation ou d'un équipement.
 
-Développer les programmes automate de l'application de contrôle-commande.
+Développer et mettre au point la communication entre l'application de contrôle-commande et les capteurs-actionneurs.
 
-Gérer et documenter les programmes automates de l'application de contrôle-commande.
-
-Installer la plate forme de test de l'application de contrôle-commande.
-
-Mettre au point l'application de contrôle-commande.
-
-2. Etudier et développer une application d'Interface Homme Machine
-
-ou de supervision d'une installation ou d'un équipement avec des outils informatiques
+2. Etudier et développer une application d'interface homme machine ou de supervision d'une installation ou d'un équipement avec des outils informatiques.
 
 Faire la conception technique informatique d'une application de supervision ou d'IHM d'une installation ou d'un équipement.
 
-Développer l'application de supervision ou d'IHM d'une installation ou d'un équipement.
+Développer et mettre au point l'application de supervision ou d'IHM d'une installation ou d'un équipement.
 
-Mettre au point l'application de supervision ou d'IHM d'une installation ou d'un équipement.
+Développer et mettre au point la communication entre l'application de supervision et les différents équipements d'une installation ou d'un équipement.
 
-Rédiger les notices d'exploitation et d'utilisation de l'application de supervision ou d'IHM d'une installation ou d'un équipement.
+3. Mettre en service une application d'automatisation d'une installation ou d'un équipement.
 
-3. Développer la communication entre différents éléments matériels d'une application
+Vérifier le câblage électrique des éléments de l'installation ou de l'équipement.
 
-d'automatisation d'une installation ou d'un équipement
+Mettre en service les équipements d'automatismes de l'application d'automatisation d'une installation ou d'un équipement.
 
-Identifier, implanter, raccorder et configurer les équipements de communication.
+Démarrer l'exploitation de l'application d'automatisation d'une installation ou d'un équipement.
 
-Paramétrer, configurer, programmer la communication nécessaire à l'application.
+Certificat complémentaire de spécialisation (CCS)
 
-Mettre au point la communication entre les différents équipements.
+Etudier la réalisation et assurer la maintenance de l'instrumentation-régulation de procédés industriels continus.
 
-4. Mettre en service une application d'automatisation
-
-d'une installation ou d'un équipement
-
-Vérifier le câblage électrique des éléments de l'installation ou de l'équipement directement concernés par l'application d'automatisation.
-
-Mettre en service les équipements analogiques de l'application d'automatisation.
-
-Participer à la mise en service de l'ensemble de l'application d'automatisation.
-
-Assister l'utilisateur de l'application d'automatisation dans la phase de démarrage d'exploitation.
-
-Certificats complémentaires de spécialisation (CCS)
-
-1. Etudier et développer le logiciel applicatif embarqué
-
-dans un système électronique
-
-Concevoir le logiciel applicatif embarqué dans un système électronique.
-
-Programmer l'applicatif de base d'un système électronique.
-
-Programmer les aspects temps réel de l'applicatif d'un système électronique.
-
-Mettre au point les programmes de l'applicatif d'un système électronique.
-
-2. Etudier la réalisation et assurer la maintenance
-
-de l'instrumentation - régulation de procédés industriels continus
-
-Etudier l'Instrumentation - Régulation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la modification d'une installation existante.
+Etudier l'instrumentation.-Régulation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la modification d'une installation existante.
 
 Mettre en service les équipements d'instrumentation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la maintenance préventive ou corrective d'une installation existante.
 
 Mettre en service les équipements de régulation d'un procédé industriel continu dans le cadre d'une nouvelle installation ou de la maintenance préventive ou corrective d'une installation existante.
 
-Respecter les obligations liées à l'environnement (qualité, sécurité, environnement) et au contexte (maintenance, travaux neufs) propres à l'instrumentation - régulation d'un procédé industriel continu.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Secteurs d'activités ou types d'emploi accessibles
+Les fabricants de produits autour de l'automatisme, de la supervision ou de l'informatique industrielle.
 
-par le détenteur du titre
+L'industrie manufacturière mettant en jeu des processus automatisés (agroalimentaire, transports, métallurgie, pétrochimie) :
 
-Le (la) technicien(ne) supérieur(e) en automatique et informatique industrielle travaille :
+-les opérateurs travaillant pour l'énergie (EDF, GDF Suez...), l'environnement : traitement de l'eau, de l'air... (Veolia, SIAAP...), les transports (SNCF, RATP...) ;
 
-- chez des intégrateurs ou sociétés d'ingénierie ou sociétés de services ;
+-les groupes du BTP dans le cadre de la supervision des ouvrages (tunnel, autoroutes...) et de l'efficacité énergétique des bâtiments ;
 
-- chez des fabricants de produits autour de l'automatisme ou de l'informatique industrielle ;
-
-- dans des PMI en voie d'automatisation (agroalimentaire, mécanique), dans les grandes entreprises mettant en oeuvre un grand nombre de systèmes automatisés (chimie, métallurgie, BTP...).
+-les intégrateurs ou sociétés d'ingénierie ou sociétés de services travaillant pour les entreprises ci-dessus.
 
 Code ROME :
 
-52312 - Installateur(trice)-maintenicien(ne) en systèmes automatisés.
+H1208 Intervention technique en études et conception en automatisme.
 
 Réglementation de l'activité :
 
-Néant.
+Habilitation pour les travaux électriques (norme C18-510).
 
 Autorité responsable de la certification :
 
