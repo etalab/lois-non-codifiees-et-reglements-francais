@@ -7,6 +7,7 @@
 - [Décret n°2012-168 du 2 février 2012 (DEFH1125873D)](decret-n2012-168-du-2-fevrier-2012-defh1125873d)
 - [Décret n°2012-169 du 2 février 2012 (SCSC1131327D)](decret-n2012-169-du-2-fevrier-2012-scsc1131327d)
 - [Décret n°2012-298 du 2 mars 2012 (ETSP1134560D)](decret-n2012-298-du-2-mars-2012-etsp1134560d)
+- [Décret n°2012-299 du 2 mars 2012 (OMEO1203684D)](decret-n2012-299-du-2-mars-2012-omeo1203684d)
 - [Décret n°2011-629 du 3 juin 2011 (ETSP1013927D)](decret-n2011-629-du-3-juin-2011-etsp1013927d)
 - [Décret n°2012-170 du 3 février 2012 (IOCB1130432D)](decret-n2012-170-du-3-fevrier-2012-iocb1130432d)
 - [Décret n°2012-171 du 3 février 2012 (IOCE1132895D)](decret-n2012-171-du-3-fevrier-2012-ioce1132895d)
