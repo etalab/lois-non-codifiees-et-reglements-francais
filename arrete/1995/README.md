@@ -432,7 +432,6 @@
 - [Arrêté du 11 juillet 1995 (INDB9500806A)](arrete-du-11-juillet-1995-indb9500806a)
 - [Arrêté du 11 juillet 1995 (INTC9500371A)](arrete-du-11-juillet-1995-intc9500371a)
 - [Arrêté du 11 juillet 1995 (MENA9501691A)](arrete-du-11-juillet-1995-mena9501691a)
-- [Arrêté du 11 octobre 1995 (INTA9520206A)](arrete-du-11-octobre-1995-inta9520206a)
 - [Arrêté du 11 octobre 1995 (INTA9520207A)](arrete-du-11-octobre-1995-inta9520207a)
 - [Arrêté du 11 septembre 1991 (AGRB9101548A)](arrete-du-11-septembre-1991-agrb9101548a)
 - [Arrêté du 11 septembre 1995 (DEFC9501871A)](arrete-du-11-septembre-1995-defc9501871a)
