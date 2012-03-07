@@ -1,110 +1,94 @@
 # Article ANNEXE
 
-Intitulé :
-
-Titre professionnel : tourneur(se) sur machines conventionnelles et à commande numérique.
+Intitulé : tourneur (se) sur machines conventionnelles et à commande numérique.
 
 Niveau : V.
 
-Code NSF : 251 u.
+Code NSF : 251 u-Mécanique générale et de précision, usinage.
 
 Résumé du référentiel d'emploi
 
-A partir d'un plan de définition, le tourneur prépare, règle et conduit sa machine pour réaliser entièrement ou en partie une pièce unitaire ou une petite série de pièces sur tour conventionnel ou à commande numérique.
+A partir d'un plan de définition, le (la) tourneur (se) prépare, règle et conduit sa machine pour réaliser entièrement ou en partie une pièce unitaire ou une petite série de pièces sur tour conventionnel ou à commande numérique.
 
-Il détermine les paramètres du procédé et choisit les outils et outillages les plus appropriés.
+Le tournage est un procédé d'usinage par enlèvement de copeaux qui consiste à obtenir des pièces de forme cylindrique ou/ et conique, à l'aide d'outils coupants, sur des machines appelées tours. Il est également possible de réaliser d'autres opérations, telles que le perçage, le filetage...
 
-Les pièces réalisées sont principalement métalliques mais peuvent être en d'autres matières comme les plastiques ou les composites... Elles peuvent présenter une grande variété de formes et de dimensions.
+La pièce à usiner est fixée dans une pince, dans un mandrin ou entre pointes. Le mouvement de coupe est obtenu par rotation de la pièce, tandis que le mouvement d'avance est obtenu par le déplacement de l'outil coupant.
 
-Le métier de tourneur s'exerce en atelier, généralement dans des petites ou moyennes entreprises orientées sur la production unitaire et petite série ou sur la maintenance.
+Les pièces réalisées sont principalement métalliques, mais peuvent être constituées d'autres matières telles que les plastiques et les composites.
 
-La valeur des pièces produites varie en fonction de la matière à usiner, de la précision et de la complexité des formes demandées, ce qui a un impact direct sur le temps de réalisation et donc sur le coût auquel vient s'ajouter le prix de la pièce brute.
+Elles peuvent présenter une grande variété de formes et de dimensions.
 
-Ce contexte professionnel requiert de solides compétences techniques et une autonomie certaine, avec un niveau de responsabilité important vis-à-vis de la ou des pièces usinée(s). Il n'est pas rare que le tourneur se voit confier des pièces à usiner valant plusieurs milliers d'euros et dans ce cas, même si l'erreur est toujours possible, elle doit être minimisée au maximum.
+Le (la) tourneur (se) détermine les paramètres du procédé et choisit les outils et outillages les plus appropriés, quand ceux-ci ne sont pas prédéfinis.
 
-Lorsqu'il travaille sur des machines à commande numérique, il réalise lui-même le programme d'usinage de la pièce à produire.
+Sur machine-outil à commande numérique, il (elle) peut être amené (e) à intervenir dans le programme d'usinage de la pièce à produire, à créer ou à modifier une séquence.
 
-En fonction de la taille de l'entreprise, il travaille sous les ordres directs d'un chef d'atelier, d'un agent de maîtrise ou du chef d'entreprise s'il s'agit d'une très petite entreprise.
+Il (elle) doit réaliser et livrer sa production dans le cadre de procédures d'assurance qualité.
 
-Il est en relation avec les autres ouvriers de l'atelier, avec le ou les techniciens d'atelier ou préparateurs et également le ou les
+Il (elle) assure la conformité de sa production, la gestion des documents de suivi et des outillages.
 
-contrôleurs, s'il en existe dans l'entreprise.
+Il (elle) réalise des opérations d'entretien simples et de courte durée de son poste de travail.
 
-S'il travaille en équipe, il est en relation (orale ou écrite) avec les autres équipiers pour le passage des consignes de réglage, de contrôle ou de production.
+L'emploi s'exerce en atelier, généralement dans des petites et moyennes entreprises orientées sur la production unitaire et en petites séries ou sur la maintenance.
+
+Le professionnel travaille debout et, selon les entreprises, c'est un travail à la journée ou posté (2 × 8).
+
+Il (elle) travaille en autonomie, avec un niveau de responsabilité important en regard de la valeur des pièces produites et des équipements utilisés.
+
+Ce travail nécessite une bonne vision spatiale, une forte concentration liée à la précision attendue et une bonne capacité à anticiper les problèmes techniques.
+
+En cas d'incident, il lui appartient de remédier au problème s'il (elle) estime en avoir la compétence ou de faire appel à son (sa) responsable pour prendre une décision.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Tourner des pièces à l'unité et en petites séries
+1. Tourner des pièces, à l'unité
 
-à partir d'un mode opératoire fourni
+ou en petites séries, sur une machine conventionnelle
 
-Appareiller, régler et conduire un tour conventionnel pour usiner une pièce ou une petite série.
+Effectuer la préparation d'un usinage sur tour conventionnel, à partir d'un plan de pièce.
 
-Appareiller, régler et conduire un tour à commande numérique pour usiner une pièce ou une petite série, à partir d'un programme fourni.
+Usiner une pièce ou une petite série sur un tour conventionnel.
 
-Contrôler des pièces usinées.
+Réaliser le contrôle continu de sa fabrication dans un atelier d'usinage.
 
-2. Préparer le tournage de pièces réalisées
+2. Tourner des pièces, à l'unité
 
-à l'unité et en petites séries
+ou en petites séries, sur une machine à commande numérique
 
-Elaborer un mode opératoire de tournage à partir d'un plan pièce.
+Effectuer la préparation d'un usinage sur tour à commande numérique, à partir d'un plan de pièce et éventuellement d'un programme préétabli.
 
-Préparer et vérifier les moyens d'usinage.
+Usiner une pièce ou une petite série sur un tour à commande numérique.
 
-Programmer des séquences d'usinage sur un tour à commande numérique et les tester.
+Réaliser le contrôle continu de sa fabrication dans un atelier d'usinage.
 
-Organiser et gérer un poste de travail en usinage.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Mécanique générale et de précision ou mécanique industrielle.
+Les différents secteurs d'activités concernés sont principalement :
 
-Fabrication d'outillage mécanique.
+― mécanique générale et de précision ou mécanique industrielle ;
 
-Fabrication de machines spéciales.
+― fabrication d'outillages mécaniques ou de machines spéciales ;
 
-Fabrication de machines diverses d'usage général.
+― secteur de l'automobile, de l'armement, de l'aéronautique, de la maintenance mécanique.
 
-Secteur de l'automobile, de l'armement, de la maintenance mécanique.
+Les types d'emplois accessibles sont les suivants :
 
-Et, de façon plus générale, tous les secteurs de la production industrielle :
+― tourneur ou opérateur régleur sur tour ;
 
-- opérateur régleur sur tour ;
-
-- tourneur ;
-
-- tourneur sur centre de tournage ;
-
-- tourneur sur tour à commande numérique ;
-
-- régleur sur tour ;
-
-- tourneur sur commande numérique.
+― opérateur régleur sur tour à commande numérique.
 
 Codes ROME :
 
-44121 - Opérateur-régleur/opératrice-régleuse sur machine-outil.
+2903-Conduite d'équipement d'usinage ;
 
-44313 - Régleur/régleuse.
+H2912-Réglage d'équipement de production industrielle.
 
-44111 - Agent/agente d'usinage des métaux.
-
-Réglementation de l'activité :
-
-Néant.
-
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
-
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
