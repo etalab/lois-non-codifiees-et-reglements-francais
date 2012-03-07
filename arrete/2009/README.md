@@ -2848,7 +2848,6 @@
 - [Arrêté du 30 juin 2009 (JUSB0915058A)](arrete-du-30-juin-2009-jusb0915058a)
 - [Arrêté du 30 juin 2009 (MENE0915016A)](arrete-du-30-juin-2009-mene0915016a)
 - [Arrêté du 30 juin 2009 (MENH0901602A)](arrete-du-30-juin-2009-menh0901602a)
-- [Arrêté du 30 juin 2009 (MENH0908632A)](arrete-du-30-juin-2009-menh0908632a)
 - [Arrêté du 30 juin 2009 (MENH0911002A)](arrete-du-30-juin-2009-menh0911002a)
 - [Arrêté du 30 juin 2009 (MTSO0914000A)](arrete-du-30-juin-2009-mtso0914000a)
 - [Arrêté du 30 juin 2009 (MTSW0914991A)](arrete-du-30-juin-2009-mtsw0914991a)

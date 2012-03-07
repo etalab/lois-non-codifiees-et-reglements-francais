@@ -555,7 +555,6 @@
 - [Arrêté du 18 janvier 2007 (ECOT0620103A)](arrete-du-18-janvier-2007-ecot0620103a)
 - [Arrêté du 18 janvier 2007 (EQUA0700113A)](arrete-du-18-janvier-2007-equa0700113a)
 - [Arrêté du 18 janvier 2007 (INTD0700046A)](arrete-du-18-janvier-2007-intd0700046a)
-- [Arrêté du 18 janvier 2007 (SOCF0710161A)](arrete-du-18-janvier-2007-socf0710161a)
 - [Arrêté du 18 janvier 2007 (SOCF0710163A)](arrete-du-18-janvier-2007-socf0710163a)
 - [Arrêté du 18 octobre 2007 (DEFH0768679A)](arrete-du-18-octobre-2007-defh0768679a)
 - [Arrêté du 18 septembre 2007 (DEFD0764245A)](arrete-du-18-septembre-2007-defd0764245a)
