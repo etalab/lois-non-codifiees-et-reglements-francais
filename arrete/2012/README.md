@@ -56,6 +56,7 @@
 - [Arrêté du 4 mai 2007 (BUDB0750055A)](arrete-du-4-mai-2007-budb0750055a)
 - [Arrêté du 5 janvier 2012 (DEFH1200674A)](arrete-du-5-janvier-2012-defh1200674a)
 - [Arrêté du 5 janvier 2012 (PRMD1135168A)](arrete-du-5-janvier-2012-prmd1135168a)
+- [Arrêté du 5 mai 2004 (SOCF0410892A)](arrete-du-5-mai-2004-socf0410892a)
 - [Arrêté du 6 décembre 1995 (TASS9523413A)](arrete-du-6-decembre-1995-tass9523413a)
 - [Arrêté du 6 décembre 2011 (DEFH1133754A)](arrete-du-6-decembre-2011-defh1133754a)
 - [Arrêté du 6 décembre 2011 (EFIE1122438A)](arrete-du-6-decembre-2011-efie1122438a)
