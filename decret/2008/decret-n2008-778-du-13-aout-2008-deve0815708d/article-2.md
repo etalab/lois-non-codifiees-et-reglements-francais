@@ -6,4 +6,4 @@ La déduction forfaitaire mentionnée au premier alinéa ne doit pas être supé
 
 La première ou seule personne du foyer constitue une unité de consommation. Chaque autre personne du foyer constitue une fraction d'unité de consommation égale à la majoration du plafond de ressources prévue à l'article R. 861-3 du code de la sécurité sociale.
 
-L'annexe au présent décret fixe les montants de la déduction et du versement forfaitaires mentionnés au premier alinéa. Ils peuvent être réévalués dans les limites résultant de l'article 16-2 de la loi n° 2003-8 du 3 janvier 2003 par arrêté des ministres chargés de l'économie, de l'énergie et des affaires sociales après avis de la Commission de régulation de l'énergie.
+L'annexe au présent décret fixe les montants de la déduction et du versement forfaitaires mentionnés au premier alinéa. Ils peuvent être réévalués dans les limites résultant des dispositions des articles L. 121-35 à L. 121-43 du code de l'énergie par arrêté des ministres chargés de l'économie, de l'énergie et des affaires sociales après avis de la Commission de régulation de l'énergie.
