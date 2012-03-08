@@ -1,117 +1,109 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
-
-Intitulé :
-
-Titre professionnel : couvreur-zingueur.
+Intitulé : titre professionnel : couvreur-zingueur.
 
 Niveau : V.
 
-Code NSF : 232 s.
+Code NSF : 232 s-Bâtiment : construction et couverture.
 
 Résumé du référentiel d'emploi
 
-Le couvreur-zingueur réalise la toiture d'une construction neuve ou d'un bâtiment en réfection pour les mettre à l'abri des intempéries et assure l'évacuation des eaux de pluie.
+Le couvreur-zingueur réalise la mise hors d'eau de tous types de bâtiments, dans le cadre de travaux neufs ou de rénovation.
 
-Il met en oeuvre des matériaux traditionnels comme l'ardoise naturelle, les tuiles (plates, mécaniques, romaines), le zinc, le plomb ou plus modernes, tels l'aluminium, l'acier inoxydable, la fibre de ciment et les bardeaux bitumineux. Il est aussi chargé d'assurer l'isolation intérieure par les combles et l'isolation extérieure par les façades au moyen de la technique du bardage.
+Il réalise des travaux de préparation comme la mise en place des systèmes de sécurité collectifs, l'approvisionnement en matériels et matériaux sur le chantier, la pose de l'écran de sous-toiture, du contre-lattage et du lattage.
 
-Le couvreur-zingueur intervient toujours après le charpentier. Il met en place les dispositifs de sécurité tels que les échafaudages et les points d'ancrages pour les harnais. Il réalise le lattage, le liteaunage ou voligeage de la charpente (les tracés suivent ou précèdent cette opération selon la nature ou la technique de pose du matériau). Il prépare et met en place tout le système de récupération des eaux (gouttières, chéneaux, tuyaux de descente) jusqu'au regard d'évacuation. Il met en place les matériaux de couverture selon les techniques appropriées. L'étanchéité autour ou le long des obstacles divers tels que cheminées, murs, jouées de lucarne est réalisée simultanément. Enfin, il nettoie le chantier, démonte les échafaudages et procède aux travaux de finition.
+Il installe les systèmes d'évacuation d'eaux pluviales (gouttières, chêneaux et tuyaux de descente) puis effectue la pose des éléments de couverture (ardoises, tuiles, tôles,...), des protections des parties en saillie (rives, faîtages, arêtiers, égouts) et de l'étanchéité autour des pénétrations (cheminées, murs, panneaux solaires, fenêtres de toit).
 
-Il exerce son activité sur le chantier, toujours à l'extérieur et la plupart du temps en équipe. Ce métier comporte des risques d'accidents qui peuvent toutefois être évités en respectant les règles de sécurité ; celles-ci exigent la mise en oeuvre de moyens de protection individuels et collectifs (échafaudages, harnais...).
+Enfin, il réalise les protections (à sec ou par scellement) des faîtages, rives, égouts, arêtiers, il démonte les éléments de sécurité, il évacue les déchets, gravats et nettoie le chantier.
+
+L'emploi s'exerce dans le cadre d'une équipe constituée généralement de trois personnes : un responsable (chef d'équipe ou responsable de l'entreprise), un ouvrier professionnel ou un compagnon et un ouvrier spécialisé.
+
+L'emploi comporte des déplacements dus aux changements fréquents de chantier, mais les horaires sont en général réguliers. L'emploi s'exerce à l'extérieur, en grande hauteur et demande de l'agilité et le sens de l'équilibre. De plus, il entraîne des conditions particulières de mise en œuvre des matériaux : travail à genoux, accroupi sur des surfaces en pente. De plus, l'activité nécessite d'intégrer les conditions climatiques (soleil, froid, pluie, vent, neige). L'emploi est réalisé dans le respect des consignes de sécurité et de prévention de la santé, du PPSPS s'il existe, ou sinon du plan de prévention.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser la couverture plan carré de combles à deux versants
+1. Réaliser la couverture de combles à deux versants
 
-en tuile mécanique, en tuile plate, en ardoise naturelle
+en petits éléments
 
-Préparer un chantier de couverture sur un pavillon neuf.
-
-Préparer le support de couverture pour de la tuile mécanique.
+Préparer un chantier de couverture sur un pavillon neuf (montage, démontage et utilisation des échafaudages).
 
 Poser des tuiles mécaniques sur un comble à deux versants.
 
-Poser de la gouttière zinc et des tuyaux de descente sur un comble à deux versants.
-
-Préparer le support de couverture pour de la tuile plate.
-
 Poser des tuiles plates sur un comble à deux versants.
-
-Préparer le support de couverture pour de l'ardoise naturelle.
 
 Poser des ardoises naturelles sur un comble à deux versants.
 
-2. Réaliser la couverture d'un comble quatre pentes
+2. Réaliser la couverture de combles de formes diverses
 
-et d'un comble en pénétration en ardoise naturelle et en tuile plate
+en petits éléments
 
-Préparer un chantier de couverture sur un pavillon neuf.
+Mettre en conformité un comble aux exigences de la performance énergétique (charpente, isolation, étanchéité à l'air).
 
-Préparer le support de couverture pour de la tuile mécanique.
+Poser des tuiles mécaniques sur combles de formes diverses avec abergements.
 
-Poser divers façonnés zinc sur un comble de formes diverses en tuiles plates.
+Poser des tuiles plates sur combles de formes diverses avec abergements.
 
-Poser des tuiles plates sur un comble à formes diverses.
+Poser des ardoises naturelles sur combles de formes diverses avec abergements
 
-Poser de la gouttière zinc et des tuyaux de descente sur un comble de formes diverses.
+3. Réaliser en zinc la couverture et les évacuations
 
-Préparer le support de couverture pour de l'ardoise naturelle.
-
-Poser divers façonnés zinc sur un comble de formes diverses en ardoise naturelle.
-
-Poser des ardoises naturelles sur un comble de formes diverses.
-
-3. Réaliser la couverture d'un plan carré zinc à tasseaux
-
-Préparer le chantier d'une toiture zinc en plan carré à tasseaux.
+des eaux pluviales
 
 Préparer le support d'une couverture zinc.
 
-Réaliser un plan carré zinc à tasseaux.
+Installer des gouttières et des tuyaux de descente en zinc.
 
-Poser de la gouttière zinc et des tuyaux de descente sur un comble à deux versants.
-
-4. Réaliser l'évacuation, en zinc, des eaux pluviales de combles
-
-deux pentes, quatre pentes et en raccords sur tuile mécanique
-
-Préparer le chantier d'évacuation des eaux pluviales.
-
-Poser de la gouttière zinc et des tuyaux de descente sur un comble de formes diverses.
-
-Poser divers façonnés zinc sur un comble de formes diverses en tuiles mécaniques.
+Réaliser en plan carré une couverture en zinc avec abergements.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises de couverture.
+Les différents secteurs d'activités concernés sont principalement :
 
-Entreprises de charpentes.
+-entreprises du bâtiment et travaux publics (BTP) ;
 
-Entreprises d'installation d'eau et de gaz.
+-entreprises artisanales du bâtiment second œuvre.
+
+Type d'emplois accessibles :
+
+-couvreur ;
+
+-couvreur ardoisier ;
+
+-couvreur tuilier ;
+
+-zingueur ;
+
+-couvreur-zingueur.
 
 Code ROME :
 
-42123 - Couvreur.
+F 1610-Pose et restauration de couvertures.
 
 Réglementation de l'activité :
 
-Néant.
+Article R. 4323-69 du code du travail : obligation de formation adéquate pour le montage et le démontage des échafaudages ;
+
+Recommandation R. 408 de la Caisse nationale de l'assurance maladie des travailleurs salariés (CNAMTS) du 10 juin 2004 relative à la prévention des risques liés au montage, à l'utilisation et au démontage des échafaudages de pied.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi.
+Ministère du travail, de l'emploi et de la santé.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
