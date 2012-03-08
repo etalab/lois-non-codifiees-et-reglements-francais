@@ -1830,7 +1830,6 @@
 - [Arrêté du 22 décembre 2009 (DEVL0926880A)](arrete-du-22-decembre-2009-devl0926880a)
 - [Arrêté du 22 décembre 2009 (ECEP0922085A)](arrete-du-22-decembre-2009-ecep0922085a)
 - [Arrêté du 22 décembre 2009 (JUSA0931393A)](arrete-du-22-decembre-2009-jusa0931393a)
-- [Arrêté du 22 décembre 2009 (MTST0926913A)](arrete-du-22-decembre-2009-mtst0926913a)
 - [Arrêté du 22 décembre 2009 (SASH0931475A)](arrete-du-22-decembre-2009-sash0931475a)
 - [Arrêté du 22 janvier 1998 (ECOI9800022A)](arrete-du-22-janvier-1998-ecoi9800022a)
 - [Arrêté du 22 janvier 2009 (AGRF0816850A)](arrete-du-22-janvier-2009-agrf0816850a)
