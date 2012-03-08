@@ -107,7 +107,6 @@
 - [Arrêté du 5 mai 2004 (SOCF0410889A)](arrete-du-5-mai-2004-socf0410889a)
 - [Arrêté du 5 mai 2004 (SOCF0410890A)](arrete-du-5-mai-2004-socf0410890a)
 - [Arrêté du 5 mai 2004 (SOCF0410891A)](arrete-du-5-mai-2004-socf0410891a)
-- [Arrêté du 5 mai 2004 (SOCF0410892A)](arrete-du-5-mai-2004-socf0410892a)
 - [Arrêté du 5 mai 2004 (SOCF0410894A)](arrete-du-5-mai-2004-socf0410894a)
 - [Arrêté du 6 août 2003 (INTE0300428A)](arrete-du-6-aout-2003-inte0300428a)
 - [Arrêté du 6 août 2003 (INTE0300429A)](arrete-du-6-aout-2003-inte0300429a)
