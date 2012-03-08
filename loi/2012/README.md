@@ -8,4 +8,5 @@
 - [LOI n°2012-281 du 29 février 2012 (IOCX1204835L)](loi-n2012-281-du-29-fevrier-2012-iocx1204835l)
 - [LOI n°2012-287 du 1er mars 2012 (MCCX1133814L)](loi-n2012-287-du-1er-mars-2012-mccx1133814l)
 - [LOI n°2012-300 du 5 mars 2012 (SASX0901817L)](loi-n2012-300-du-5-mars-2012-sasx0901817l)
+- [LOI n°2012-304 du 6 mars 2012 (IOCX1104583L)](loi-n2012-304-du-6-mars-2012-iocx1104583l)
 - [Loi n°53-661 du 1 août 1953](loi-n53-661-du-1-aout-1953)
