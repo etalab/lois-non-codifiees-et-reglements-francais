@@ -1,11 +1,9 @@
 # Article 7
 
-I. - Pour présider un bureau de vote, l'ambassadeur ou le chef de poste consulaire peut choisir son représentant parmi :
+L'ambassadeur ou le chef de poste consulaire désigne son représentant éventuel pour assurer les fonctions de président du bureau de vote et le secrétaire du bureau de vote parmi :
 
-- les fonctionnaires et agents relevant de son autorité quels que soient leur statut, leur grade ou leur administration d'origine ;
+1° Les fonctionnaires et agents relevant de son autorité ou mis à sa disposition par décision du ministre des affaires étrangères ou d'un autre ambassadeur ou chef de poste consulaire, quels que soient leur statut, leur grade ou leur administration d'origine ;
 
-- les consuls honoraires de nationalité française relevant de son autorité ;
+2° Les consuls honoraires de nationalité française relevant de son autorité ;
 
-- les Français inscrits sur la liste électorale consulaire.
-
-II. - L'ambassadeur ou le chef de poste consulaire désigne le secrétaire d'un bureau de vote parmi les fonctionnaires et agents relevant de son autorité ou mis à sa disposition par décision d'un autre chef de mission diplomatique ou chef de poste consulaire, quels que soient leur statut, leur grade ou leur administration d'origine.
+3° Les électeurs inscrits sur la liste électorale consulaire.
