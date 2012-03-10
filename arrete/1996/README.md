@@ -189,7 +189,6 @@
 - [Arrêté du 7 novembre 1996 (ACVP9620036A)](arrete-du-7-novembre-1996-acvp9620036a)
 - [Arrêté du 7 novembre 1996 (ENVE9650397A)](arrete-du-7-novembre-1996-enve9650397a)
 - [Arrêté du 7 novembre 1996 (ENVE9650398A)](arrete-du-7-novembre-1996-enve9650398a)
-- [Arrêté du 7 novembre 1996 (TASG9624065A)](arrete-du-7-novembre-1996-tasg9624065a)
 - [Arrêté du 7 octobre 1996 (DEFP9601854A)](arrete-du-7-octobre-1996-defp9601854a)
 - [Arrêté du 7 octobre 1996 (ENVN9650385A)](arrete-du-7-octobre-1996-envn9650385a)
 - [Arrêté du 7 octobre 1996 (EQUP9601440A)](arrete-du-7-octobre-1996-equp9601440a)
