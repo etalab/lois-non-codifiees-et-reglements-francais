@@ -1,3 +1,0 @@
-# TITRE VIII : APPROBATIONS DE NAVIGABILITÉ POUR EXPORT.
-
-- [Article 18](article-18.md)

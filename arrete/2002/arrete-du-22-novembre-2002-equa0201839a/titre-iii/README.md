@@ -1,4 +1,0 @@
-# TITRE III : PROCÉDURE D'APPROBATION DES MODIFICATIONS AUX CERTIFICATS DE TYPE.
-
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
