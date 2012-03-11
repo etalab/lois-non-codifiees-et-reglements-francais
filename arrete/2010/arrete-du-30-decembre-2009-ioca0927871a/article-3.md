@@ -28,6 +28,8 @@ Ces mêmes décisions sont déléguées au préfet de Corse pour les personnels 
 
 9. Nomination des lauréats des examens professionnels et des avancements de grade au choix après inscription au tableau national d'avancement.
 
+9 bis. Nomination après inscription au tableau national d'avancement à l'échelon spécial prévu par le décret n° 2005-1228 du 29 septembre 2005 modifié relatif à l'organisation des fonctionnaires de catégorie C.
+
 10. Nomination après inscription sur la liste nationale d'aptitude.
 
 11. Nomination des lauréats des concours pour les corps de catégories B et C et des recrutements sans concours pour le corps de catégorie C.
@@ -69,6 +71,8 @@ Des arrêtés du ministre de l'intérieur d'ouverture de recrutement par cette v
 25. Tableau de proposition d'avancements de grade.
 
 26. Tableau de proposition de promotions de corps.
+
+26 bis. Tableau de proposition d'avancements à l'échelon spécial prévu par le décret n° 2005-1228 du 29 septembre 2005 relatif à l'organisation des carrières des fonctionnaires de catégorie C.
 
 27. Titularisation des lauréats des concours pour les corps de catégories B et C (sauf refus).
 

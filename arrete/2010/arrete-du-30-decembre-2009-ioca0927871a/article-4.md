@@ -50,4 +50,4 @@ Pour les personnels placés sous leur autorité, sont déléguées aux préfets 
 
 17. Travail à temps partiel conformément aux dispositions de la loi du 11 janvier 1984 et des décrets du 20 juillet 1982 et du 7 octobre 1994 susvisés, sauf dans le cas où l'avis de la commission administrative paritaire est requis.
 
-Pour les personnels affectés dans leurs services, les décisions répertoriées à l'article 3, à l'exception des 8, 16 à 20, 25 et 26, sont également déléguées aux préfets des départements de Seine-et-Marne, des Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise.
+Pour les personnels affectés dans leurs services, les décisions répertoriées à l'article 3,              à l'exception des 8, 16 à 20 et 25 à 26 bis, sont également déléguées aux préfets des départements de Seine-et-Marne, des Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise.
