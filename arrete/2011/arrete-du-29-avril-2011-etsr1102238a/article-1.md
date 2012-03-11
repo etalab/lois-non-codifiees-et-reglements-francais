@@ -1,31 +1,37 @@
 # Article 1
 
-La liste des emplois et des fonctions ouvrant droit à l'accès au grade d'inspecteur de classe exceptionnelle de l'action sanitaire et sociale prévue à l'article 4-1 du décret du 24 décembre 2002 susvisé est fixée ainsi qu'il suit :
+La  liste des emplois et des fonctions ouvrant droit à l'accès au grade  d'inspecteur de classe exceptionnelle de l'action sanitaire et sociale  prévue à l'article 4-1 du décret du 24 décembre 2002 susviséest fixée ainsi qu'il suit :
 
-― emplois régis par le décret n° 97-157 du 20 février 1997 relatif aux emplois de directeur régional, de directeur départemental et de directeur adjoint des affaires sanitaires et sociales ;
+1. Emplois régis par le décret n° 97-157 du 20 février 1997relatif  aux emplois de directeur régional, de directeur départemental et de  directeur adjoint des affaires sanitaires et sociales.
 
-― emplois prévus par l'article 1er du décret n° 2009-360 du 31 mars 2009 relatif aux emplois de direction de l'administration territoriale de l'Etat ;
+2. Emplois prévus par l'article 1er du décret n° 2009-360 du 31 mars 2009relatif aux emplois de direction de l'administration territoriale de l'Etat.
 
-― emplois de direction régis par le décret n° 2010-343 du 31 mars 2010 portant application de l'article L. 1432-10 du code de la santé publique ;
+3. Emplois de direction régis par le décret n° 2010-343 du 31 mars 2010portant application de l'article L. 1432-10 du code de la santé publique.
 
-― fonctions de direction au sein des agences régionales de santé :
+4. Fonctions de direction au sein des agences régionales de santé :
 
 ― directeur des ressources humaines ;
 
 ― directeur de politiques publiques en matière sanitaire et sociale ;
 
-― responsable de département, de pôle et chef de mission ;
+― responsable de département, de pôle et chef de mission.
 
-― fonction de délégué territorial des agences régionales de santé dans les départements ;
+5. Fonction de délégué territorial des agences régionales de santé dans les départements.
 
-― chef d'antenne à la mission nationale de contrôle et d'audit des organismes de sécurité sociale ;
+6. Chef d'antenne à la mission nationale de contrôle et d'audit des organismes de sécurité sociale.
 
-― adjoints au sous-directeur en administration centrale ;
+7. Emplois régis par le décret n° 55-1226 du 19 septembre 1955relatif  aux conditions de nomination et d'avancement dans les emplois de chef  de service, directeur adjoint et sous-directeur des administrations  centrales de l'Etat.
 
-― chef de bureau en administration centrale ;
+8. Emplois régis par le décret n° 2012-32 du 9 janvier 2012relatif aux emplois de chef de service et de sous-directeur des administrations de l'Etat.
 
-― responsables de pôles au sein des directions régionales ou départementales des affaires sanitaires et sociales ;
+9. Emplois régis par le décret n° 2008-382 du 21 avril 2008relatif  aux emplois d'expert de haut niveau et de directeur de projet des  administrations de l'Etat et de ses établissements publics.
 
-― directeur et directeur adjoint d'agence régionale pour l'hospitalisation ;
+10. Adjoint au sous-directeur en administration centrale.
 
-― emplois de niveau comparable dans les établissements publics placés sous tutelle du ministère de la santé.
+11. Chef de bureau en administration centrale.
+
+12.  Responsable de pôles ou services équivalents au sein des directions  régionales ou départementales des affaires sanitaires et sociales et des  directions régionales ou départementales en charge de la cohésion  sociale.
+
+13. Directeur et directeur adjoint d'agence régionale pour l'hospitalisation.
+
+14.  Emplois de niveau comparable dans les établissements publics placés  sous tutelle des ministères chargés de la santé et de la cohésion  sociale.
