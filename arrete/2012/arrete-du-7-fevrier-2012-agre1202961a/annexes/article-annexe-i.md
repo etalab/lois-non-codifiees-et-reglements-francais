@@ -1,10 +1,10 @@
 # Article Annexe I
 
-DIPLÔMES ET TITRES REQUIS POUR LA DÉLIVRANCE DU CERTIFICAT INDIVIDUEL POUR L'ACTIVITÉ " UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES " CATÉGORIES " APPLICATEUR " ET " APPLICATEUR OPÉRATIONNEL "
+DIPLÔMES ET TITRES REQUIS POUR LA DÉLIVRANCE DU CERTIFICAT INDIVIDUEL POUR L'ACTIVITÉ "UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES" CATÉGORIES "APPLICATEUR EN COLLECTIVITES TERRITORIALES" ET " APPLICATEUR OPÉRATIONNEL EN COLLECTIVITES TERRITORIALES"
 
 Les diplômes et titres suivants doivent avoir été obtenus au cours des cinq années précédant la date de la demande.
 
-A. ― Catégorie " applicateur "
+A. ― Catégorie " applicateur en collectivités territoriales "
 
 Diplômes et titres de l'enseignement technique agricole délivrés par le ministère chargé de l'agriculture
 
@@ -148,9 +148,9 @@ Productions végétales.
 
 Licence professionnelle dans la spécialité " commerce, management et distribution des produits agricoles, horticoles ".
 
-B. ― Catégorie " Applicateur opérationnel "
+B. ― Catégorie " Applicateur opérationnel en collectivités territoriales "
 
-a) Les diplômes et titres permettant l'obtention du certificat dans la catégorie  applicateur
+a) Les diplômes et titres permettant l'obtention du certificat dans la catégorie applicateur
 
 b) Les diplômes et titres suivants :
 

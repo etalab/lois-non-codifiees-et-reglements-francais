@@ -1,8 +1,8 @@
 # Article Annexe II
 
-PROGRAMMES, DURÉES DE FORMATION ET PROTOCOLE DE MISE EN ŒUVRE DES MODALITÉS D'ACCÈS AU CERTIFICAT POUR L'ACTIVITÉ "UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES " DANS LES CATÉGORIES "APPLICATEUR " ET "APPLICATEUR OPÉRATIONNEL "
+PROGRAMMES, DURÉES DE FORMATION ET PROTOCOLE DE MISE EN ŒUVRE DES MODALITÉS D'ACCÈS AU CERTIFICAT POUR L'ACTIVITÉ "UTILISATION À TITRE PROFESSIONNEL DES PRODUITS PHYTOPHARMACEUTIQUES" DANS LES CATÉGORIES "APPLICATEUR EN COLLECTIVITES TERRITORIALES" ET "APPLICATEUR OPÉRATIONNEL EN COLLECTIVITES TERRITORIALES"
 
-A. - Catégorie "applicateur "
+A. - Catégorie "applicateur en collectivités territoriales "
 
 I. - Programme
 
@@ -28,9 +28,7 @@ Réglementation spécifique à l'activité du secteur.
 
 Thème prévention des risques pour la santé
 
-Risques liés à l'utilisation
-
-des produits phytopharmaceutiques
+Risques liés à l'utilisation des produits phytopharmaceutiques
 
 Dangerosité des produits :
 
@@ -52,7 +50,7 @@ Situations d'exposition aux dangers :
 
 Catégories de populations sensibles.
 
-Mesures à prendre pour réduire es risques pour les êtres humains
+Mesures à prendre pour réduire les risques pour les êtres humains
 
 Estimation des risques pour la santé des applicateurs et des usagers.
 
@@ -76,9 +74,7 @@ Signalement de l'accident auprès de Phyt'attitude (réseau de toxicovigilance).
 
 Thème prévention des risques pour l'environnement
 
-Risques pour l'environnement
-
-et les principales voies de contamination
+Risques pour l'environnement et les principales voies de contamination
 
 Dangerosité pour l'environnement :
 
@@ -139,74 +135,110 @@ II. - Durée et organisation horaire de la formation du certificat individuel "a
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-<br/>FORMATION SEULE<br/>2 jours (14 heures)</th>
-<th colspan="2">
-<br/>FORMATION ET TEST +/- APPROFONDISSEMENT</th>
-</tr>
-<tr>
-<th/>
-<th/>
-<th>
-<br/>Formation et test<br/>1 jour (7 heures)</th>
-<th>
-<br/>Approfondissement<br/>1 jour (7 heures)</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Thème réglementation</td>
-<td align="center">
-<br/>1 heure</td>
-<td align="center">
-<br/>
+<td rowspan="2">
+<p align="center">
+<b/>
+</p>
 </td>
-<td align="center">
-<br/>1 heure</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Thème prévention des risques pour la santé</td>
-<td align="center">
-<br/>4 heures</td>
-<td align="center">
-<br/>4 heures</td>
-<td align="center">
-<br/>
+<td rowspan="2">
+<p align="center">
+<b>FORMATION SEULE<br/>2 jours (14 heures)</b>
+</p>
+</td>
+<td colspan="2">
+<p align="center">
+<b>
+<br/>FORMATION ET TEST +/- APPROFONDISSEMENT</b>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème prévention des risques pour l'environnement</td>
-<td align="center">
-<br/>4 heures</td>
-<td align="center">
-<br/>
+<td>
+<p align="center">
+<b>
+<br/>Formation et test<br/>1 jour (7 heures)</b>
+</p>
 </td>
-<td align="center">
-<br/>4 heures</td>
+<td>
+<p align="center">
+<b>
+<br/>Approfondissement<br/>1 jour (7 heures)</b>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème stratégies visant à limiter le recours aux produits phytopharmaceutiques</td>
-<td align="center">
-<br/>5 heures</td>
-<td align="center">
-<br/>3 heures</td>
-<td align="center">
-<br/>2 heures</td>
+<td>
+<p>Thème réglementation</p>
+</td>
+<td>
+<p align="center">
+<br/>1 heure</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<br/>1 heure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thème prévention des risques pour la santé</p>
+</td>
+<td>
+<p align="center">
+<br/>4 heures</p>
+</td>
+<td>
+<p align="center">
+<br/>4 heures</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thème prévention des risques pour l'environnement</p>
+</td>
+<td>
+<p align="center">
+<br/>4 heures</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">
+<br/>4 heures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thème stratégies visant à limiter le recours aux produits phytopharmaceutiques</p>
+</td>
+<td>
+<p align="center">
+<br/>5 heures</p>
+</td>
+<td>
+<p align="center">
+<br/>3 heures</p>
+</td>
+<td>
+<p align="center">
+<br/>2 heures</p>
+</td>
 </tr>
 </tbody>
 </table>
 
 III. - Protocole de mise en œuvre des modalités d'accès
 
-Le protocole de mise en œuvre des modalités d'accès au certificat "applicateur " est consultable au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (DGER), 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site  www.chlorofil.fr
+Le protocole de mise en œuvre des modalités d'accès au certificat "applicateur " est consultable au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (DGER), 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site  http://www.chlorofil.fr/
 
-B. - Catégorie "applicateur opérationnel "
+B. - Catégorie "applicateur opérationnel en collectivités territoriales"
 
 I. - Programme
 
@@ -228,9 +260,7 @@ Réglementation spécifique à l'activité du secteur.
 
 Thème prévention des risques pour la santé
 
-Risques liés à l'utilisation
-
-des produits phytopharmaceutiques
+Risques liés à l'utilisation des produits phytopharmaceutiques
 
 Dangerosité des produits :
 
@@ -276,7 +306,7 @@ Signalement de l'accident auprès de Phyt'attitude (réseau de toxicovigilance).
 
 Thème prévention des risques pour l'environnement
 
-Risques pour l'environnement  et principales voies de contamination
+Risques pour l'environnement et principales voies de contamination
 
 Dangerosité pour l'environnement :
 
@@ -308,7 +338,7 @@ Pratiques, aménagements et équipements visant à limiter la dispersion des pro
 
 Traçabilité tout au long du processus.
 
-Thème méthodes et aménagements visant à limiter le   recours aux produits phytopharmaceutiques
+Thème méthodes et aménagements visant à limiter le recours aux produits phytopharmaceutiques
 
 Méthodes et produits de bio-contrôle utilisant des mécanismes naturels.
 
@@ -319,70 +349,104 @@ II. - Durée et organisation horaire de la formation. -certificat individuel "ap
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>
-<br/>FORMATION SEULE<br/>2 jours (14 heures)</th>
-<th colspan="2">
-<br/>FORMATION ET TEST +/- APPROFONDISSEMENT</th>
+<td rowspan="2">
+<p align="center">
+<b/>
+</p>
+</td>
+<td rowspan="2">
+<p align="center">
+<b>FORMATION SEULE<br/>2 jours (14 heures)</b>
+</p>
+</td>
+<td colspan="2">
+<p align="center">
+<b>
+<br/>FORMATION ET TEST +/- APPROFONDISSEMENT</b>
+</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th/>
-<th>
-<br/>Formation et test<br/>1 jour (7 heures)</th>
-<th>
-<br/>Approfondissement<br/>1 jour (7 heures)</th>
+<td>
+<p align="center">
+<b>
+<br/>Formation et test<br/>1 jour (7 heures)</b>
+</p>
+</td>
+<td>
+<p align="center">
+<b>
+<br/>Approfondissement<br/>1 jour (7 heures)</b>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème évolution et actualisation de la réglementation générale et relative à l'activité professionnelle</td>
-<td align="center">
-<br/>2 heures</td>
-<td align="center">
-<br/>2 heures</td>
-<td align="center">
+<td>
+<p>Thème évolution et actualisation de la réglementation générale et relative à l'activité professionnelle</p>
+</td>
+<td>
+<p align="center">
+<br/>2 heures</p>
+</td>
+<td>
+<p align="center">
+<br/>2 heures</p>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème évolution et actualisation de la prévention des risques pour la santé</td>
-<td align="center">
-<br/>5 heures</td>
-<td align="center">
-<br/>5 heures</td>
-<td align="center">
+<td>
+<p>Thème évolution et actualisation de la prévention des risques pour la santé</p>
+</td>
+<td>
+<p align="center">
+<br/>5 heures</p>
+</td>
+<td>
+<p align="center">
+<br/>5 heures</p>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème évolution et actualisation de la prévention des risques pour l'environnement</td>
-<td align="center">
-<br/>5 heures</td>
-<td align="center">
+<td>
+<p>Thème évolution et actualisation de la prévention des risques pour l'environnement</p>
+</td>
+<td>
+<p align="center">
+<br/>5 heures</p>
+</td>
+<td>
 <br/>
 </td>
-<td align="center">
-<br/>5 heures</td>
+<td>
+<p align="center">
+<br/>5 heures</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Thème évolution et actualisation des préconisations pour limiter le recours aux produits phytopharmaceutiques</td>
-<td align="center">
-<br/>2 heures</td>
-<td align="center">
+<td>
+<p>Thème évolution et actualisation des préconisations pour limiter le recours aux produits phytopharmaceutiques</p>
+</td>
+<td>
+<p align="center">
+<br/>2 heures</p>
+</td>
+<td>
 <br/>
 </td>
-<td align="center">
-<br/>2 heures</td>
+<td>
+<p align="center">
+<br/>2 heures</p>
+</td>
 </tr>
 </tbody>
 </table>
 
-III. - Protocole de mise en œuvre des modalités d'accès
+<div align="left">III. - Protocole de mise en œuvre des modalités d'accès</div>
 
-Le protocole de mise en œuvre des modalités d'accès au certificat "applicateur opérationnel " est consultable au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (DGER), 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site www.chlorofil.fr.
+Le protocole de mise en œuvre des modalités d'accès au certificat "applicateur opérationnel " est consultable au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (DGER), 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site  www.chlorofil.fr.
