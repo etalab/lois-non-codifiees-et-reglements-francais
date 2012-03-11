@@ -252,7 +252,6 @@
 - [Arrêté du 15 mars 2001 (FPPA0110020A)](arrete-du-15-mars-2001-fppa0110020a)
 - [Arrêté du 15 novembre 2001 (JUSA0100265A)](arrete-du-15-novembre-2001-jusa0100265a)
 - [Arrêté du 15 novembre 2001 (JUSA0100266A)](arrete-du-15-novembre-2001-jusa0100266a)
-- [Arrêté du 15 novembre 2001 (JUSA0100268A)](arrete-du-15-novembre-2001-jusa0100268a)
 - [Arrêté du 15 mai 2001 (ATED0100084A)](arrete-du-15-mai-2001-ated0100084a)
 - [Arrêté du 15 mai 2001 (EQUA0100736A)](arrete-du-15-mai-2001-equa0100736a)
 - [Arrêté du 16 avril 2002 (EQUP0200517A)](arrete-du-16-avril-2002-equp0200517a)
