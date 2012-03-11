@@ -18,7 +18,7 @@ Dans le cadre du présent traitement, on entend par :
 
 ― les qualifications et titres professionnels correspondant à l'activité exercée ;
 
-― les coordonnées des structures d'exercice.
+― les coordonnées des structures d'exercice ainsi que leurs identifiants FINESS et SIREN.
 
 5° Consultation, toute opération d'accès multicritère à la base de données du RPPS permettant d'obtenir à l'écran, soit une liste de professionnels de santé, soit une fiche comportant les données se rapportant à l'un ou plusieurs d'entre eux, selon les droits d'accès reconnus, sans possibilité de modifier ces données.
 

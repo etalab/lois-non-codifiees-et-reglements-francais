@@ -1,6 +1,6 @@
 # Article 8
 
-Seuls les utilisateurs mentionnés du 1° au 6° de l'article 7 peuvent rediffuser :
+Seuls les utilisateurs mentionnés du 1° au 7° de l'article 7 peuvent rediffuser :
 
 ― les données communicables au public, en consultation ;
 
