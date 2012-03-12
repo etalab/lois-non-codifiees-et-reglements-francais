@@ -62,6 +62,7 @@
 - [Décret n°2012-198 du 9 février 2012 (AGRG1133482D)](decret-n2012-198-du-9-fevrier-2012-agrg1133482d)
 - [Décret n°2012-31 du 9 janvier 2012 (MENH1134712D)](decret-n2012-31-du-9-janvier-2012-menh1134712d)
 - [Décret n°2012-341 du 9 mars 2012 (ETSD1205432D)](decret-n2012-341-du-9-mars-2012-etsd1205432d)
+- [Décret n°2012-343 du 9 mars 2012 (IOCD1129840D)](decret-n2012-343-du-9-mars-2012-iocd1129840d)
 - [Décret n°2012-202 du 10 février 2012 (ETSH1130960D)](decret-n2012-202-du-10-fevrier-2012-etsh1130960d)
 - [Décret n°2012-203 du 10 février 2012 (BCRE1128719D)](decret-n2012-203-du-10-fevrier-2012-bcre1128719d)
 - [Décret n°2012-204 du 10 février 2012 (AGRT1123917D)](decret-n2012-204-du-10-fevrier-2012-agrt1123917d)
