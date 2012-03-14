@@ -1,0 +1,3 @@
+# Article 51
+
+Chaque année est présenté devant les comités techniques prévus aux articles 15 de la loi n° 84-16 du 11 janvier 1984 précitée, 33 de la loi n° 84-53 du 26 janvier 1984 précitée, L. 315-13 du code de l'action sociale et des familles et L. 6144-4 du code de la santé publique, dans le cadre du bilan social, un rapport relatif à l'égalité professionnelle entre les femmes et les hommes comportant notamment des données relatives au recrutement, à la formation, au temps de travail, à la promotion professionnelle, aux conditions de travail, à la rémunération et à l'articulation entre activité professionnelle et vie personnelle.
