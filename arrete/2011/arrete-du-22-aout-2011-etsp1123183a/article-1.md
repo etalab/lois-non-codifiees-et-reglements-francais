@@ -60,4 +60,6 @@ Infection aiguë symptomatique par le virus de l'hépatite B (annexe 28) ;
 
 Infection par le virus de l'immunodéficience humaine, quel que soit le stade (annexe 29) ;
 
-Tétanos (annexe 30).
+Tétanos (annexe 30) ;
+
+Mésothéliomes (annexe 31).
