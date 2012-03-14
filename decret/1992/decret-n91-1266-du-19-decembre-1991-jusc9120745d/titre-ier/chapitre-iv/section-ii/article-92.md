@@ -1,5 +1,13 @@
 # Article 92
 
-La rétribution versée par l'Etat aux avoués qui prêtent leur concours devant la cour d'appel au bénéficiaire de l'aide juridictionnelle est de 310 €. Cette somme est majorée de 65 € en cas d'incidents mentionnés à l'article 526 et aux 1° à 4° de l'article 771 du    code de procédure civile ou de référé, dans la limite de trois majorations.
+Pour les affaires en cours au 1er janvier 2012, l'avoué devenu avocat, qui conserve jusqu'à l'arrêt sur le fond les attributions qui lui étaient initialement dévolues, perçoit une rétribution versée par l'Etat de 310 €.
 
-En cas d'intervention devant les autres juridictions, les avoués perçoivent une rétribution égale à celle qui résulte du barème prévu à l'article 90.
+Pour celles où l'avoué renonce à devenir avocat, la rétribution versée par l'Etat pour les actes accomplis avant son dessaisissement est fixée selon le barème suivant, en fonction de l'état de l'avancement de la procédure.
+
+Dépôt de la déclaration d'appel ou de la constitution d'intimé : 100 €.
+
+Dépôt de la déclaration d'appel ou de la constitution d'intimé et dépôt des premières conclusions : 250 €.
+
+Affaire plaidée et en attente de l'arrêt : 310 €.
+
+Ces sommes sont majorées de 65 € en cas d'incidents mentionnés à l'article 526 et aux 1° à 4° de l'article 771 du code de procédure civile ou de référé dans la limite de trois majorations.

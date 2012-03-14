@@ -11,7 +11,6 @@
 - [Article 17-9](article-17-9.md)
 - [Article 17-10](article-17-10.md)
 - [Article 17-11](article-17-11.md)
-- [Article 17-12](article-17-12.md)
 - [Article 17-13](article-17-13.md)
 - [Article 17-14](article-17-14.md)
 - [Article 17-15](article-17-15.md)

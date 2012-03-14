@@ -2,7 +2,7 @@
 
 Outre son président, la section chargée d'examiner les demandes relatives aux affaires portées devant la cour administrative d'appel et les autres juridictions administratives statuant à charge de recours devant le Conseil d'Etat comprend :
 
-1° Selon la décision du président de la cour administrative d'appel, soit deux avocats choisis dans le ressort de cette juridiction, soit un avocat et un avocat au Conseil d'Etat et à la Cour de cassation ou un avoué près la cour d'appel dans le ressort de laquelle la cour administrative d'appel a son siège ;
+1° Selon la décision du président de la cour administrative d'appel, soit deux avocats choisis dans le ressort de cette juridiction, soit un avocat et un avocat au Conseil d'Etat et à la Cour de cassation ;
 
 2° Le directeur départemental des services fiscaux ou son représentant ;
 

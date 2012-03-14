@@ -1,6 +1,6 @@
 # Article 20
 
-Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats, les avoués près les cours d'appel et les huissiers de justice, membres des bureaux d'aide juridictionnelle, sont désignés, selon le cas, par le conseil de l'ordre, la chambre de discipline ou la chambre départementale dont ils relèvent. Lorsque les fonctions du conseil de l'ordre sont remplies par le tribunal de grande instance, les avocats membres des bureaux d'aide juridictionnelle ou des sections de bureau sont désignés par l'assemblée générale de l'ordre.
+Les avocats au Conseil d'Etat et à la Cour de cassation, les avocats et les huissiers de justice, membres des bureaux d'aide juridictionnelle, sont désignés, selon le cas, par le conseil de l'ordre ou la chambre départementale dont ils relèvent. Lorsque les fonctions du conseil de l'ordre sont remplies par le tribunal de grande instance, les avocats membres des bureaux d'aide juridictionnelle ou des sections de bureau sont désignés par l'assemblée générale de l'ordre.
 
 Dans les départements où il existe plusieurs directions des services fiscaux, le directeur appelé à faire partie du bureau d'aide juridictionnelle est désigné par le directeur général des impôts.
 

@@ -1,6 +1,6 @@
 # Article 104
 
-Les sommes revenant aux avocats, aux avoués et aux avocats au Conseil d'Etat et à la Cour de cassation sont réglées sur justification de la désignation au titre de l'aide juridictionnelle et production d'une attestation de mission délivrée par le greffier en chef ou le secrétaire de la juridiction saisie.
+Les sommes revenant aux avocats et aux avocats au Conseil d'Etat et à la Cour de cassation sont réglées sur justification de la désignation au titre de l'aide juridictionnelle et production d'une attestation de mission délivrée par le greffier en chef ou le secrétaire de la juridiction saisie.
 
 Cette attestation mentionne la nature de la procédure, les diligences effectuées et, selon le cas :
 

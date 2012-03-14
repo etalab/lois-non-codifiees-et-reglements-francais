@@ -14,20 +14,18 @@ Il comprend en outre :
 
 5. Un greffier en chef des services judiciaires désigné sur proposition de la commission administrative paritaire ;
 
-6. Sept avocats désignés sur proposition du Conseil national des barreaux ;
+6. Huit avocats désignés sur proposition du Conseil national des barreaux ;
 
 7. Un avocat au Conseil d'Etat et à la Cour de cassation désigné sur proposition de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ;
 
-8. Un avoué désigné sur proposition de la chambre nationale des avoués près les cours d'appel ;
+8. Deux notaires désignés sur proposition du Conseil supérieur du notariat ;
 
-9. Deux notaires désignés sur proposition du Conseil supérieur du notariat ;
+9. Deux huissiers de justice désignés sur proposition de la chambre nationale des huissiers de justice ;
 
-10. Deux huissiers de justice désignés sur proposition de la chambre nationale des huissiers de justice ;
+10. Un conseiller général ou un conseiller de Paris ;
 
-11. Un conseiller général ou un conseiller de Paris ;
+11. Un représentant de l'Association des maires de France ;
 
-12. Un représentant de l'Association des maires de France ;
+12. Deux représentants d'associations oeuvrant dans le domaine de l'aide juridique ;
 
-13. Deux représentants d'associations oeuvrant dans le domaine de l'aide juridique ;
-
-14. Un représentant des Français établis hors de France désigné sur proposition de l'Assemblée des Français de l'étranger.
+13. Un représentant des Français établis hors de France désigné sur proposition de l'Assemblée des Français de l'étranger.
