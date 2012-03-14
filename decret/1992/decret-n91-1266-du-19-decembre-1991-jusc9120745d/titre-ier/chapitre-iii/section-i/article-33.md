@@ -14,7 +14,7 @@ Elle contient les indications suivantes :
 
 3° La juridiction saisie ou susceptible de l'être ou, s'il s'agit d'un acte conservatoire ou d'un acte d'exécution, le lieu où ils doivent être effectués ;
 
-4° Le cas échéant, les nom et adresse de l'avocat et des officiers publics ou ministériels choisis.
+4° Le cas échéant, les nom et adresse de l'avocat et des officiers publics ou ministériels choisis ainsi que le montant des honoraires ou émoluments déjà versés à ces auxiliaires de justice.
 
 Tout changement de domicile qui survient postérieurement à la demande d'aide doit être déclaré sans délai au bureau d'aide juridictionnelle initialement saisi.
 

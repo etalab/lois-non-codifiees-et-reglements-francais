@@ -4,7 +4,13 @@ Les caisses des règlements pécuniaires des avocats tiennent une comptabilité 
 
 Elles enregistrent dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice :
 
-1° Les opérations inscrites sur le compte spécial : dotations versées par l'Etat au titre de sa part contributive à la rétribution des avocats, conformément aux articles 118 et 132-4, contributions dues par l'Etat au titre des missions achevées ainsi que les provisions au titre des missions en cours ;
+1° Les opérations inscrites sur le compte spécial :
+
+a) Dotations versées par l'Etat au titre de sa part contributive à la rétribution des avocats, conformément aux articles 118 et 132-4 ;
+
+b) Dotations arrêtées par le Conseil national des barreaux au titre du produit de la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts et affectée au paiement des missions d'aide juridictionnelle selon le deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ;
+
+c) Contributions dues par l'Etat au titre des missions achevées ainsi que provisions au titre des missions en cours ;
 
 2° Les rétributions versées aux avocats au titre des missions achevées ;
 
@@ -14,4 +20,4 @@ Elles enregistrent dans les conditions fixées par arrêté du garde des sceaux,
 
 A la fin de chaque année, le commissaire aux comptes porte à la connaissance du président de la caisse des règlements pécuniaires des avocats les contrôles et vérifications auxquels il a procédé sur les enregistrements visés ci-dessus et formule ses observations. Ce rapport est présenté à la prochaine assemblée générale.
 
-Le président de la caisse des règlements pécuniaires des avocats communique ensuite ce rapport au garde des sceaux, ministre de la justice, et au président du conseil départemental de l'accès au droit.
+Le président de la caisse des règlements pécuniaires des avocats communique ensuite ce rapport à l'ordonnateur compétent ou à son délégataire, au Conseil national des barreaux et à l'Union nationale des caisses de règlements pécuniaires des avocats ainsi qu'au président du conseil départemental de l'accès au droit.

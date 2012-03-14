@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27, 64-1, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat des dotations annuelles correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
@@ -18,7 +18,9 @@ Conformément aux dispositions des articles 27,64-1,64-2 et 64-3 de la loi n° 9
 
 4° Les missions d'assistance aux détenus au cours de procédures disciplinaires en relation avec leur détention, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts.
+Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, la Carpa reçoit également le produit de la contribution pour l'aide juridique instaurée par l'article 1635 bis Q du code général des impôts. Cette dotation, qui est arrêtée par le Conseil national des barreaux et versée par l'Union nationale des caisses de règlements pécuniaires des avocats dans le cadre de la convention de gestion prévue au deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, est intégralement affectée à la rétribution des avocats pour les missions d'aide juridictionnelle.
+
+Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridictionnelle (dotation de l'Etat, produit de la contribution de l'aide juridique).
 
 Une dotation complémentaire peut être versée conformément aux articles 91 et 132-6 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal de grande instance près duquel il est établi un protocole relatif à l'organisation de la défense, homologué par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas il convient de se référer aux dispositions contenues dans ledit protocole (cf. chapitre IV).
 
@@ -30,7 +32,7 @@ Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture
 
 a) Carpa-aide juridictionnelle ;
 
-b) Carpa- garde à vue et de la retenue douanière ;
+b) Carpa-garde à vue et de la retenue douanière ;
 
 c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
 
@@ -48,25 +50,27 @@ Article 3
 
 Les fonds sont versés par l'Etat sur le compte Carpa-aide juridictionnelle dont les références ont été communiquées à l'ordonnateur compétent ou son délégataire. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
 
+Les fonds sont versés par l'Union nationale des caisses de règlements pécuniaires des avocats sur le compte " Carpa-aide juridictionnelle " dont les références lui ont été communiquées.
+
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
 Article 4
 
-Les comptes mentionnés à l'article 2 fonctionnent sous la signature du président de la Carpa ou, lorsque la Carpa n'a pas la personnalité juridique, du bâtonnier.
+Les comptes mentionnés à l'article 2 fonctionnent sous la signature du président de la Carpa.
 
-Une délégation de signature peut être donnée, selon le cas, par le conseil d'administration de la Carpa ou le conseil de l'ordre à un membre de l'organe délibérant concerné ou à un responsable administratif.
+Une délégation de signature peut être donnée, par le conseil d'administration de la Carpa à un membre de l'organe délibérant concerné ou à un responsable administratif.
 
 Article 5
 
-La Carpa doit être équipée d'un logiciel homologué par le gard e des sceaux, ministre de la justice, pour assurer la gestion financière et comptable des fonds versés par l'Etat.
+La Carpa doit être équipée d'un logiciel homologué par le garde des sceaux, ministre de la justice, pour assurer la gestion financière et comptable des fonds versés au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat.
 
 Article 6
 
-La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
+La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
 
 Article 7
 
-Conformément à l'article 30 de la loi du 10 juillet 1991 précitée, un commissaire aux comptes et un suppléant sont désignés par le conseil d'administration de la Carpa, ou, lorsque celle-ci n'a pas la personnalité juridique, par le conseil de l'ordre.
+Conformément à l'article 30 de la loi du 10 juillet 1991 précitée, un commissaire aux comptes et un suppléant sont désignés par le conseil d'administration de la Carpa.
 
 Chapitre II
 
@@ -74,9 +78,11 @@ Placement des fonds-Charges du service de l'aide juridictionnelle et de l'aide �
 
 Article 8
 
-Les placements de fonds correspondant aux dotations versées par l'Etat doivent être distincts des autres placements effectués par la Carpa.
+Les placements de fonds correspondant aux dotations reçues au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat doivent être distincts des autres placements effectués par la Carpa.
 
 Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
+
+Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle.
 
 Article 9
 
@@ -88,9 +94,9 @@ Le montant des produits financiers perçus est arrêté, au plus tard, le 31 dé
 
 Article 11
 
-Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
+Les produits financiers perçus par la Carpa pour les fonds reçus au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
 
-Article 12 (1)
+Article 12
 
 Sont inscrites, sur un état récapitulatif annuel arrêté au 31 décembre de chaque année, l'ensemble des charges de gestion mentionnées à l'article 11 pour l'exercice achevé, majorées, le cas échéant, du solde des charges des exercices antérieurs n'ayant pas donné lieu à remboursement.
 
@@ -168,7 +174,7 @@ Les interventions au cours de la garde à vue ou de la retenue douanière
 
 Article 19
 
-La rétribution pour l'intervention de l'avocat au cours de la garde à vue ou de la retenue douanière est versée à l'avocat commis d'office contre la remise de l'imprimé visé audeuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police ou de gendarmerie compétentes ainsi que par le bâtonnier ou son représentant.
+La rétribution pour l'intervention de l'avocat au cours de la garde à vue ou de la retenue douanière est versée à l'avocat commis d'office contre la remise de l'imprimé visé au deuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police, de gendarmerie ou de douane compétentes ainsi que par le bâtonnier ou son représentant.
 
 Article 20
 
@@ -228,7 +234,7 @@ c) Désigné par le bâtonnier pour les interventions au cours de la garde à vu
 
 d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
+Toutefois, en cas de changement d'avocat en cours de procédure, de mesure de garde à vue ou de retenue douanière, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'imprimé visé à l'article 132-5 du décret du 19 décembre 1991 sous réserve des règles de répartition prévues à l'article 103 du même décret.
 
 Article 24
 
@@ -296,17 +302,17 @@ Dispositions diverses relatives à la gestion des comptes avocats
 
 Article 35
 
-La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'occasion de missions antérieures. A défaut, elle procède à un recouvrement à l'encontre de l'avocat qui dispose alors, pour reverser le trop-perçu à la Carpa, d'un délai d'un mois à compter de la notification du débit par le bâtonnier ou son représentant. Dans tous les cas, l'avocat peut introduire un recours devant le bâtonnier (modalités à déterminer).
+La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'occasion de missions antérieures. A défaut, elle procède à un recouvrement à l'encontre de l'avocat qui dispose alors, pour reverser le trop-perçu à la Carpa, d'un délai d'un mois à compter de la notification du débit par le bâtonnier ou son représentant. Dans tous les cas, l'avocat peut introduire un recours devant le bâtonnier (selon la procédure définie par le conseil de l'ordre).
 
-Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres missions. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
+Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres aides. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
 
 Chapitre VII
 
 Transmission des états liquidatifs et comptables
 
-Article 36 (1)
+Article 36
 
-La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire :
+La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire ainsi qu'au Conseil national des barreaux et à l'Union nationale des caisses des règlements pécuniaires des avocats :
 
 1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 118 du décret du 19 décembre 1991 précité ;
 
@@ -318,15 +324,19 @@ La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire 
 
 Article 37
 
-La Carpa transmet à l'ordonnateur compétent un état de trésorerie dont le modèle et la périodicité d'envoi sont fixés par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement en regard des dotations versées :
+I.-La Carpa transmet à l'ordonnateur compétent un état de trésorerie mensuel dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement au regard des dotations versées ventilées selon leur origine :
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
-2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue ou de la retenue douanière ;
+2° Le nombre d'interventions et les montants des rétributions versées par nature d'intervention pour les interventions des avocats au cours de la garde à vue ou de la retenue douanière ;
 
 3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
 
 4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
+
+II.-La version électronique de cet état de trésorerie est transmise régulièrement par chaque Carpa à l'Union nationale des caisses des règlements pécuniaires des avocats selon des modalités définies entre elles.
+
+L'Union nationale des caisses des règlements pécuniaires des avocats transmet pour chaque mois révolu le fichier électronique consolidé à l'ordonnateur compétent et à la Chancellerie, selon des dispositions fixées par convention avec le garde des sceaux, ministre de la justice.
 
 Chapitre VIII
 
@@ -338,7 +348,7 @@ Conformément aux dispositions de l'article 17-14 du décret du 30 décembre 199
 
 Article 39
 
-Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 17-14
+Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 17-14.
 
 Article 40
 
