@@ -4,6 +4,8 @@ Le Conseil commun de la fonction publique connaît de toute question d'ordre gé
 
 Il est saisi des projets de loi ou d'ordonnance et, lorsqu'une disposition législative ou réglementaire le prévoit, de décret, communs aux trois fonctions publiques, à l'exception des textes spécifiques à chaque fonction publique.
 
+Le rapport annuel mentionné au dernier alinéa du I de l'article L. 323-8-6-1 du code du travail est soumis au Conseil commun de la fonction publique.
+
 La consultation du Conseil commun de la fonction publique, lorsqu'elle est obligatoire, remplace celle des conseils supérieurs de la fonction publique de l'Etat, de la fonction publique territoriale et de la fonction publique hospitalière.
 
 Le Conseil commun de la fonction publique est présidé par le ministre chargé de la fonction publique ou son représentant.

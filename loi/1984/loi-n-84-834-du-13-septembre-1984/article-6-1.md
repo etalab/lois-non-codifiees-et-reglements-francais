@@ -1,0 +1,7 @@
+# Article 6-1
+
+I.-Sous réserve des exceptions légalement prévues par des dispositions spéciales, la limite d'âge des agents contractuels employés par les administrations de l'Etat, les collectivités territoriales, leurs établissements publics ne présentant pas un caractère industriel et commercial, les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ainsi que par toutes autres personnes morales de droit public recrutant sous un régime de droit public est fixée à soixante-sept ans.
+
+II.-La limite d'âge mentionnée au I est, le cas échéant, reculée conformément aux dispositions de l'article 4 de la loi du 18 août 1936 concernant les mises à la retraite par ancienneté, sans préjudice des règles applicables en matière de recrutement, de renouvellement et de fin de contrat.
+
+III.-Après application, le cas échéant, du II du présent article, les agents contractuels dont la durée d'assurance tous régimes est inférieure à celle définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites peuvent sur leur demande, sous réserve de l'intérêt du service et de leur aptitude physique et sans préjudice des règles applicables en matière de recrutement, de renouvellement et de fin de contrat, être maintenus en activité. Cette prolongation d'activité ne peut avoir pour effet de maintenir l'agent concerné en activité au-delà de la durée d'assurance définie au même article 5, ni au-delà d'une durée de dix trimestres.

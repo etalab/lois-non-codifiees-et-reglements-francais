@@ -13,3 +13,5 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 2° Pour les agents employés par un établissement public, auprès de la commune à laquelle il est rattaché ;
 
 3° Pour les agents employés par un établissement public de coopération intercommunale, auprès de l'une des communes qui en est membre ou de l'un des établissements publics qui lui est rattaché.
+
+Ce décret fixe également les conditions dans lesquelles des commissions consultatives paritaires, organisées par catégorie et placées auprès des collectivités, établissements ou des centres de gestion dans les conditions fixées à l'article 28 connaissent des questions individuelles résultant de l'application des alinéas précédents, des décisions de mutation interne à la collectivité ou l'établissement, de sanction et de licenciement des agents non titulaires recrutés en application de l'article 3-3.

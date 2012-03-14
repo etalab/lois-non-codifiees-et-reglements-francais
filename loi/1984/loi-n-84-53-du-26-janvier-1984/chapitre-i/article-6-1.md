@@ -1,6 +1,6 @@
 # Article 6-1
 
-Des décrets en Conseil d'Etat fixent les conditions de nomination et d'avancement dans certains emplois comportant des responsabilités d'encadrement, de direction de services, de conseil ou d'expertise, ou de conduite de projet.
+Des décrets en Conseil d'Etat fixent les conditions de nomination et d'avancement dans certains emplois comportant des responsabilités d'encadrement, de direction de services, de conseil ou d'expertise, ou de conduite de projet. Ils fixent également le nombre maximal d'emplois de cette nature que chaque collectivité territoriale ou établissement public peut créer, en fonction de son importance démographique.
 
 La décision de l'organe délibérant de la collectivité territoriale ou de l'établissement public créant un emploi mentionné au premier alinéa précise la nature de celui-ci et la durée des fonctions.
 

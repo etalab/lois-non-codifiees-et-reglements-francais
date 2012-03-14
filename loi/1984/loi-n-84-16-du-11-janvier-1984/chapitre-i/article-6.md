@@ -2,4 +2,4 @@
 
 Les fonctions qui, correspondant à un besoin permanent, impliquent un service à temps incomplet d'une durée n'excédant pas 70 % d'un service à temps complet, sont assurées par des agents contractuels.
 
-Les fonctions correspondant à un besoin saisonnier ou occasionnel sont assurées par des agents contractuels, lorsqu'elles ne peuvent être assurées par des fonctionnaires titulaires.
+Le contrat conclu en application du présent article peut l'être pour une durée indéterminée.

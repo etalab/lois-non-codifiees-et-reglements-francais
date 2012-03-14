@@ -1,3 +1,7 @@
 # Article 3-2
 
-Sous réserve des dispositions de l'article 25 relatives aux missions assurées par les centres de gestion, les collectivités territoriales et les établissements mentionnés à l'article 2 peuvent, lorsque le centre de gestion dont ils relèvent n'est pas en mesure d'assurer la mission de remplacement, avoir recours au service des entreprises mentionnées à l'article L. 1251-1 du code du travail dans les conditions prévues au chapitre Ier du titre V du livre II de la première partie du même code, sous réserve des dispositions prévues à la section 6 de ce chapitre.
+Par dérogation au principe énoncé à l'article 3 de la loi n° 83-634 du 13 juillet 1983 précitée et pour les besoins de continuité du service, les emplois permanents des collectivités et établissements mentionnés à l'article 2 de la présente loi peuvent être occupés par des agents contractuels pour faire face à une vacance temporaire d'emploi dans l'attente du recrutement d'un fonctionnaire.
+
+Le contrat est conclu pour une durée déterminée qui ne peut excéder un an. Il ne peut l'être que lorsque la communication requise à l'article 41 a été effectuée.
+
+Sa durée peut être prolongée, dans la limite d'une durée totale de deux ans, lorsque, au terme de la durée fixée au deuxième alinéa du présent article, la procédure de recrutement pour pourvoir l'emploi par un fonctionnaire n'a pu aboutir.

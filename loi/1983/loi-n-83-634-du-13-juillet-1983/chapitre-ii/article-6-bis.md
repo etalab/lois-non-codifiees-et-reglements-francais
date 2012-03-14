@@ -17,3 +17,5 @@ Aucune mesure concernant notamment le recrutement, la titularisation, la formati
 Est passible d'une sanction disciplinaire tout agent ayant procédé ou enjoint de procéder aux agissements définis ci-dessus.
 
 Les dispositions du présent article sont applicables aux agents non titulaires de droit public.
+
+Le  Gouvernement présente devant le Conseil commun de la fonction publique  un rapport sur les mesures mises en œuvre pour assurer l'égalité  professionnelle entre les femmes et les hommes. Ce rapport annuel, dont  les modalités de mise en œuvre sont définies par décret, comprend  notamment des données relatives au recrutement, à la féminisation des  jurys, à la formation, au temps de travail, à la promotion  professionnelle, aux conditions de travail, à la rémunération et à  l'articulation entre l'activité professionnelle et la vie personnelle.  Ce rapport est remis au Parlement.

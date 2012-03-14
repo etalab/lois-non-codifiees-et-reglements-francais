@@ -8,6 +8,6 @@ En vue de favoriser la promotion interne, les statuts particuliers fixent une pr
 
 Chaque statut particulier peut prévoir l'application des deux modalités ci-dessus, sous réserve qu'elles bénéficient à des agents placés dans des situations différentes.
 
-Sous réserve des dispositions de la deuxième phrase du premier alinéa de l'article 28, les listes d'aptitude sont établies par l'autorité territoriale pour les collectivités non affiliées à un centre et par le centre pour les fonctionnaires des cadres d'emploi, emplois ou corps relevant de sa compétence, sur proposition de l'autorité territoriale.
+Sans préjudice des dispositions du 1° du II de l'article 12-1 et de la deuxième phrase du premier alinéa de l'article 28, les listes d'aptitude sont établies par l'autorité territoriale pour les collectivités non affiliées à un centre de gestion et par le président du centre de gestion pour les fonctionnaires des cadres d'emplois, emplois ou corps relevant de sa compétence, sur proposition de l'autorité territoriale.
 
 Le nombre d'agents inscrits sur une liste d'aptitude ne peut être supérieur au nombre d'emplois pouvant être effectivement pourvus. Les listes d'aptitude ont une valeur nationale.

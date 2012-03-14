@@ -1,6 +1,7 @@
 # Chapitre XIV : Dispositions diverses et transitoires.
 
 - [Article 110](article-110.md)
+- [Article 110-1](article-110-1.md)
 - [Article 111](article-111.md)
 - [Article 111-1](article-111-1.md)
 - [Article 112](article-112.md)

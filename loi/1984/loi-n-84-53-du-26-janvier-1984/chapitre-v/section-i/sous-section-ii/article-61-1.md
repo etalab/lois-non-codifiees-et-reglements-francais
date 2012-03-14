@@ -14,8 +14,8 @@ I.-La mise à disposition est possible auprès :
 
 -des organisations internationales intergouvernementales ;
 
--d'Etats étrangers, à la condition que le fonctionnaire mis à disposition conserve, par ses missions, un lien fonctionnel avec son administration d'origine.
+-d'un Etat étranger, auprès de l'administration d'une collectivité publique ou d'un organisme public relevant de cet Etat ou auprès d'un Etat fédéré, à la condition que le fonctionnaire mis à disposition conserve, par ses missions, un lien fonctionnel avec son administration d'origine.
 
-II.-La mise à disposition donne lieu à remboursement. Il peut être dérogé à cette règle lorsque la mise à disposition intervient entre une collectivité territoriale et un établissement public administratif dont elle est membre ou qui lui est rattaché, auprès du Conseil supérieur de la fonction publique territoriale, auprès d'une organisation internationale intergouvernementale ou auprès d'un Etat étranger.
+II.-La mise à disposition donne lieu à remboursement. Il peut être dérogé à cette règle lorsque la mise à disposition intervient entre une collectivité territoriale et un établissement public administratif dont elle est membre ou qui lui est rattaché, auprès du Conseil supérieur de la fonction publique territoriale, auprès d'une organisation internationale intergouvernementale, d'un Etat étranger, auprès de l'administration d'une collectivité publique ou d'un organisme public relevant de cet Etat ou auprès d'un Etat fédéré.
 
 III.-Les services accomplis, y compris avant l'entrée en vigueur de la présente loi, par les sapeurs-pompiers professionnels mis à disposition auprès de l'Etat ou de ses établissements publics, dans le cadre de leurs missions de défense et de sécurité civile, sont réputés avoir le caractère de services effectifs réalisés dans leur cadre d'emplois.

@@ -14,6 +14,6 @@ I.-La mise à disposition est possible auprès :
 
 -des organisations internationales intergouvernementales ;
 
--d'Etats étrangers, à la condition que le fonctionnaire conserve, par ses missions, un lien fonctionnel avec son administration d'origine.
+-d'Etats étrangers, auprès de l'administration d'une collectivité publique ou d'un organisme public relevant de cet Etat ou auprès d'un Etat fédéré, à la condition que le fonctionnaire conserve, par ses missions, un lien fonctionnel avec son administration d'origine.
 
-II.-La mise à disposition donne lieu à remboursement. Il peut être dérogé à cette règle lorsque le fonctionnaire est mis à disposition auprès d'une organisation internationale intergouvernementale ou d'un Etat étranger.
+II.-La mise à disposition donne lieu à remboursement. Il peut être dérogé à cette règle lorsque le fonctionnaire est mis à disposition auprès d'une organisation internationale intergouvernementale, d'un Etat étranger, auprès de l'administration d'une collectivité publique ou d'un organisme public relevant de cet Etat ou auprès d'un Etat fédéré.

@@ -6,8 +6,12 @@ Tout établissement mentionné à l'article 2 verse au Centre national de gestio
 
 Les ressources du Centre national de gestion comprennent également des subventions, avances, fonds de concours et dotation de l'Etat ainsi qu'une dotation des régimes obligatoires d'assurance maladie, dont le montant est fixé chaque année par arrêté des ministres chargés de la santé et de la sécurité sociale, versée et répartie dans les conditions prévues aux articles L. 162-22-15 et L. 174-2 du code de la sécurité sociale.
 
-Le Centre national de gestion peut également assurer le remboursement de la rémunération de praticiens hospitaliers, de personnels de direction ou de directeurs des soins affectés en surnombre dans un établissement mentionné à l'article 2, dans des conditions fixées par décret en Conseil d'Etat.
+Dans des conditions fixées par décret en Conseil d'Etat, le Centre national de gestion peut également assurer le remboursement des rémunérations, avantages en nature, charges sociales et taxes assises sur les salaires versés par les établissements mentionnés à l'article 2 aux praticiens hospitaliers, aux personnels de direction ou aux directeurs des soins qui y sont nommés en surnombre.
 
 Le Centre national de gestion exerce ses missions au nom du ministre chargé de la santé ou du directeur de l'établissement de rattachement du personnel qu'il gère.
 
 Le directeur général du Centre national de gestion est recruté sur un emploi doté d'un statut fonctionnel dans des conditions définies par décret en Conseil d'Etat.
+
+Le Centre national de gestion emploie des agents régis par les lois n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ou n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ou par la présente loi ainsi que des personnels mentionnés aux 1° et 2° de l'article L. 6152-1 du code de la santé publique, en position d'activité, de détachement ou de mise à disposition.
+
+Il emploie également des agents contractuels de droit public avec lesquels il peut conclure des contrats à durée déterminée ou indéterminée. Le conseil d'administration délibère sur un règlement fixant les conditions de leur gestion administrative et financière.

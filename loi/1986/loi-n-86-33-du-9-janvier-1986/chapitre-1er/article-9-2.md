@@ -8,4 +8,6 @@ Le détachement est proposé et le contrat est signé :
 
 -par le représentant de l'Etat dans le département pour les établissements mentionnés        aux 4° et 6° du même article.
 
+Les emplois de direction pourvus dans le cadre du premier alinéa ouvrent  droit à pension au titre de la Caisse nationale de retraites des agents  des collectivités locales. Un décret en Conseil d'Etat fixe l'indice de  traitement sur la base duquel est effectuée la retenue pour pension.  Ces mêmes emplois ouvrent également droit à cotisation au régime public  de retraite additionnel obligatoire. Les agents nommés sur les emplois  précités bénéficient d'une concession de logement pour nécessité absolue  de service.
+
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
