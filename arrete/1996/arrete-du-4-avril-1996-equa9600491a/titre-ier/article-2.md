@@ -4,6 +4,8 @@ Pour l'application du présent arrêté et de ses annexes, les termes ci-dessous
 
 Aérodrome régulièrement accessible : aérodrome ouvert à la circulation aérienne publique, ou aérodrome agréé à usage restreint à condition que les aéronefs utilisés fassent partie des aéronefs qui y sont autorisés ;
 
+Aéromodèle : aéronef non habité piloté en vue de son " pilote à distance ” qui est à tout instant en mesure de contrôler directement sa trajectoire et s'il est utilisé exclusivement à des fins de loisir ou de compétition ;
+
 Aéronef : tout engin au sens de l'article L. 110-1 du code de l'aviation civile, que l'évolution soit contrôlée à bord ou du sol ;
 
 Aire de présentation : bande dégagée de tout obstacle, utilisée pour l'atterrissage et le décollage et incluant le cas échéant la projection au sol du volume nécessaire à la présentation en vol ;
@@ -22,7 +24,7 @@ Directeur des vols : personne agréée par la direction de l'aviation civile (ou
 
 Emplacement permanent : emplacement aménagé sur lequel l'atterrissage et le décollage sont permis conformément aux articles D. 132-4 à D. 132-12 du code de l'aviation civile ;
 
-Escale : interruption du vol entraînant un mouvement de passagers (descente et montée des passagers du premier tronçon et/ou montée de nouveaux passagers pour le tronçon suivant) ou des opérations techniques nécessaires à la poursuite du vol ;
+Escale : interruption du vol entraînant un mouvement de passagers (descente et montée des passagers du premier tronçon et/ ou montée de nouveaux passagers pour le tronçon suivant) ou des opérations techniques nécessaires à la poursuite du vol ;
 
 Evolution : tout mouvement autre qu'au sol ;
 
@@ -36,4 +38,6 @@ Plate-forme : emplacement proposé par un organisateur, dont les caractéristiqu
 
 Présentation en vol : vols effectués sans passager pour montrer les qualités d'un aéronef à un public professionnel ou non ;
 
-Présentation au sol : maintien au sol d'un aéronef, même si les commandes de vol sont actionnées.
+Présentation au sol : maintien au sol d'un aéronef, même si les commandes de vol sont actionnées ;
+
+Service compétent de l'aviation civile : en métropole, aux Antilles et Guyane, en océan Indien et à Mayotte, ce sont les directions interrégionales de la direction de la sécurité de l'aviation civile, en Polynésie française, le service d'Etat de l'aviation civile, en Nouvelle-Calédonie, la direction de l'aviation civile, et à Saint-Pierre-et-Miquelon, le service de l'aviation civile.

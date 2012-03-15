@@ -8,8 +8,6 @@ Ne sont pas des manifestations aériennes, dans la mesure où toutes les conditi
 
 - les ascensions de ballons captifs ;
 
-- les présentations en vol faisant intervenir uniquement des aéromodèles de catégories 1 et 2 ; toutefois, elles demeurent soumises aux dispositions spécifiques de l'instruction interministérielle du 23 novembre 1987 ;
-
 - les compétitions ou rassemblements aéronautiques sans présentation en vol lorsqu'ils ne font pas l'objet d'appel au public, même s'ils sont largement signalés dans la presse spécialisée et font l'objet de reportages et de comptes rendus ;
 
 - les présentations au sol d'aéronefs et de matériel aéronautique ;

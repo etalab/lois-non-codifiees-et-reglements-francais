@@ -22,6 +22,6 @@ Manifestation ne répondant à aucune des caractéristiques précédentes mais p
 
 Manifestation ne répondant à aucune des caractéristiques précédentes et sans coordination.
 
-Le préfet, après avis du directeur de l'aviation civile ou de son représentant local, ou le cas échéant de l'autorité aéronautique militaire, peut décider de déclasser d'une ou deux catégories une manifestation si les impératifs de sécurité et d'ordre sont respectés, en tenant compte de la taille et de la masse des aéronefs, des vitesses d'évolution et des risques correspondants, ainsi que de la notoriété des exécutants.
+Le préfet, après avis du service compétent de l'aviation civile, ou le cas échéant de l'autorité aéronautique militaire, peut décider de déclasser d'une ou deux catégories une manifestation si les impératifs de sécurité et d'ordre sont respectés, en tenant compte de la taille et de la masse des aéronefs, des vitesses d'évolution et des risques correspondants, ainsi que de la notoriété des exécutants.
 
 Inversement, il peut surclasser d'une catégorie une manifestation aérienne si plus de dix mille spectateurs y sont attendus.

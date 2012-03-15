@@ -4,7 +4,7 @@ Une manifestation aérienne est caractérisée par la conjonction des trois fact
 
 - existence d'un emplacement déterminé accessible au public ;
 
-- évolutions effectuées intentionnellement pour constituer un spectacle public ;
+- évolutions d'un ou plusieurs aéronefs effectuées intentionnellement pour constituer un spectacle public  ;
 
 - appels au public de la part des organisateurs par voie d'affiches, de déclarations dans les médias ou par tout autre moyen.
 

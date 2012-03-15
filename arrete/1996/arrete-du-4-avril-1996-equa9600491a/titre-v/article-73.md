@@ -1,4 +1,4 @@
-# Article 44
+# Article 73
 
 Le présent arrêté est applicable aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, à l'exception des articles se référant aux articles D. 233-1 à D. 233-8 du code de l'aviation civile (aérodromes privés) et à l'exception des articles se référant à l'avis du directeur régional de l'environnement.
 
