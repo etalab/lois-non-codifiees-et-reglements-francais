@@ -14,7 +14,7 @@ III.-Sont également assujettis à la contribution dans les conditions et selon 
 
 1° (Abrogé) ;
 
-2° Les sommes soumises à l'impôt sur le revenu en application des articles 168,1649 A, 1649 quater A, 1649 quater-0 B bis et 1649 quater-0 B ter du code général des impôts et L. 69 du livre des procédures fiscales ;
+2° Les sommes soumises à l'impôt sur le revenu en application des articles 168,1649 A, 1649 AA, 1649 quater A, 1649 quater-0 B bis et 1649 quater-0 B ter du code général des impôts et L. 69 du livre des procédures fiscales ;
 
 2° bis Les sommes soumises à l'impôt sur le revenu en application du 1° de l'article L. 66 du livre des procédures fiscales et qui ne sont pas assujetties à la contribution en vertu d'une autre disposition ;
 

@@ -9,4 +9,4 @@ II.-A.-Le présent article s'applique au produit de la taxe sur la valeur ajout�
 
 B.-Pour l'année 2011, la part du produit des taxes mentionnées au I du présent article excédant 1 110 millions d'euros reste affectée à l'Etat.
 
-C.-Avant le dépôt des projets de loi de finances pour 2012 et 2013, le Gouvernement informe le Parlement de l'éventuel écart constaté entre le produit de la taxe mentionnée au neuvième alinéa de l'article L. 241-2 du code de la sécurité sociale et les recettes prévues aux articles 6 à 10 de la présente loi.
+C.-Avant le dépôt des projets de loi de finances pour 2012 et 2013, le Gouvernement informe le Parlement de l'éventuel écart constaté entre le produit de la taxe mentionnée au 3°  de l'article L. 241-2 du code de la sécurité sociale et les recettes prévues aux articles 6 à 10 de la présente loi.

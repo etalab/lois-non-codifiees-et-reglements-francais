@@ -10,7 +10,7 @@ II. - Les impôts et taxes mentionnés au I sont :
 
 2° bis (Abrogé)
 
-3° La taxe sur la valeur ajoutée brute collectée par les producteurs de boissons alcoolisées.
+3° Une fraction égale à 1,33 % du produit de la taxe sur la valeur ajoutée nette correspondant aux montants de cette taxe enregistrés au titre de l'année par les comptables publics, déduction faite des remboursements et restitutions effectués pour la même période par les comptables assignataires.
 
 4° Une fraction du droit de consommation sur les tabacs mentionné à l'article 575 du code général des impôts, fixée à l'article L. 131-8 du code de la sécurité sociale.
 

@@ -1,13 +1,17 @@
 # Article 59
 
-Dans le but de constater les infractions commises à l'occasion de paris ou de jeux d'argent ou de hasard en ligne, d'en rassembler les preuves et d'en rechercher les auteurs, les officiers et agents de police judiciaire désignés par le ministre de l'intérieur et les agents des douanes désignés par le ministre chargé des douanes peuvent, sans en être pénalement responsables :
+Dans le but de constater les infractions prévues aux articles 56 et 57, les officiers et agents de police judiciaire désignés par le ministre de l'intérieur, les agents des douanes désignés par le ministre chargé des douanes et les fonctionnaires et agents mentionnés au II de l'article 42 peuvent, sans en être pénalement responsables :
 
 1° Participer sous un pseudonyme à des échanges électroniques sur un site de jeux ou paris agréé ou non, et notamment à une session de jeu en ligne ;
 
-2° Extraire, acquérir ou conserver par ce moyen des données sur les personnes susceptibles d'être les auteurs de ces infractions. Ces données peuvent être transmises à l'Autorité de régulation des jeux en ligne.
+2° Extraire, acquérir ou conserver par ce moyen des données sur les personnes susceptibles d'être les auteurs de ces infractions ainsi que sur les comptes bancaires utilisés.
 
 A peine de nullité, ces actes ne peuvent avoir pour effet d'inciter autrui à commettre une infraction ou de contrevenir à la prohibition énoncée à l'article 5.
 
-La communication des documents nécessaires à la recherche et à la constatation des infractions mentionnées au premier alinéa peut être demandée par les agents des douanes dans les conditions prévues à l'article 65 du code des douanes.
+La communication des documents nécessaires à la recherche et à la constatation des infractions mentionnées au premier alinéa du présent article peut être demandée par les agents des douanes dans les conditions prévues à l'article 65 du code des douanes.
 
-Des officiers et agents de police judiciaire ainsi que des agents des douanes parmi ceux mentionnés au premier alinéa du présent article peuvent être mis à disposition de l'Autorité de régulation des jeux en ligne dans les conditions fixées par la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Les fonctionnaires ou agents mentionnés au premier alinéa du présent article consignent les informations ainsi recueillies par procès-verbal, transmis sans délai au procureur de la République.
+
+Ce procès-verbal peut être utilisé par l'Autorité de régulation des jeux en ligne dans l'exercice de ses missions et notamment aux fins de mise en œuvre de la procédure prévue à l'article L. 563-2 du code monétaire et financier et de la procédure prévue à l'article 61 de la présente loi. Pour la mise en œuvre de ces procédures, le secret bancaire n'est pas opposable aux enquêteurs assermentés de l'Autorité de régulation des jeux en ligne.
+
+Ce procès-verbal est tenu à la disposition de l'administration fiscale conformément à l'article L. 84 B du livre des procédures fiscales.

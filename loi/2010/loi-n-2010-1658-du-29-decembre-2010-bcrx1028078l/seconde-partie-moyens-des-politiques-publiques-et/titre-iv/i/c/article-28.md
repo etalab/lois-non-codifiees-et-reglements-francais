@@ -82,7 +82,7 @@ A modifié les dispositions suivantes :
 > -Loi n° 2000-1208 du 13 décembre 2000
 
 > Art. 50
-I.B. ― 1. Le A du présent I est applicable aux demandes d'autorisations et aux déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+I. B. ― 1. Le A du présent I est applicable aux demandes d'autorisations et aux déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
 
 Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à compter du 1er mars 2012.
 
@@ -92,12 +92,12 @@ Elles sont également applicables aux demandes d'autorisations modificatives gé
 
 4. Les articles L. 332-9 à L. 332-11 du même code demeurent applicables dans les secteurs des communes où un programme d'aménagement d'ensemble a été institué antérieurement à l'entrée en vigueur de la présente loi, et ce jusqu'à ce que le conseil municipal décide de clore le programme d'aménagement d'ensemble.
 
-5. Le II de l'article 50 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains ainsi que les a, b et d du 2° et le 3° de l'article L. 332-6-1 du code de l'urbanisme sont abrogés à compter du 1er janvier 2015.
+5. Le II de l'article 50 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains ainsi que les b et d du 2° et le 3° de l'article L. 332-6-1 du code de l'urbanisme sont abrogés à compter du 1er janvier 2015.
 
-II.C. ― 1. Le A du présent II est applicable aux demandes d'autorisations d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+II. C. ― 1. Le A du présent II est applicable aux demandes d'autorisations d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
 
 2. Le quatrième alinéa de l'article L. 410-1 du code de l'urbanisme n'est pas applicable, pour ce qui concerne le versement pour sous-densité, aux certificats d'urbanisme émis avant le 1er mars 2012.
 
-III.H. ― 1. Le 4° du A du présent III entre en vigueur au 1er janvier 2011. Il est applicable aux autorisations d'urbanisme délivrées à compter du 1er janvier 2011.
+III. H. ― 1. Le 4° du A du présent III entre en vigueur au 1er janvier 2011. Il est applicable aux autorisations d'urbanisme délivrées à compter du 1er janvier 2011.
 
 2. Les autres dispositions des A à G du présent III entrent en vigueur au 1er mars 2012. Elles sont applicables aux demandes d'autorisations et aux déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012 relatives à une demande ou déclaration préalable déposée avant cette date.
