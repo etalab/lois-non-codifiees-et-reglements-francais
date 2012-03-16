@@ -511,7 +511,6 @@
 - [Arrêté du 18 juillet 2003 (EQUA0300827A)](arrete-du-18-juillet-2003-equa0300827a)
 - [Arrêté du 18 juillet 2003 (INTC0300379A)](arrete-du-18-juillet-2003-intc0300379a)
 - [Arrêté du 18 juillet 2003 (JUSB0310359A)](arrete-du-18-juillet-2003-jusb0310359a)
-- [Arrêté du 18 juillet 2003 (JUSB0310360A)](arrete-du-18-juillet-2003-jusb0310360a)
 - [Arrêté du 18 juillet 2003 (JUSB0310363A)](arrete-du-18-juillet-2003-jusb0310363a)
 - [Arrêté du 18 juillet 2003 (JUSB0310365A)](arrete-du-18-juillet-2003-jusb0310365a)
 - [Arrêté du 18 juillet 2003 (JUSB0310367A)](arrete-du-18-juillet-2003-jusb0310367a)
