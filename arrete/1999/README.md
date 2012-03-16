@@ -193,7 +193,6 @@
 - [Arrêté du 9 décembre 1998 (MESS9823869A)](arrete-du-9-decembre-1998-mess9823869a)
 - [Arrêté du 9 décembre 1999 (ECOA9920114A)](arrete-du-9-decembre-1999-ecoa9920114a)
 - [Arrêté du 9 février 1999 (ECOT9951769A)](arrete-du-9-fevrier-1999-ecot9951769a)
-- [Arrêté du 9 février 1999 (MAEA9920044A)](arrete-du-9-fevrier-1999-maea9920044a)
 - [Arrêté du 9 juillet 1999 (ATEN9980083A)](arrete-du-9-juillet-1999-aten9980083a)
 - [Arrêté du 9 juillet 1999 (ATEN9980224A)](arrete-du-9-juillet-1999-aten9980224a)
 - [Arrêté du 9 juillet 1999 (EQUH9901058A)](arrete-du-9-juillet-1999-equh9901058a)

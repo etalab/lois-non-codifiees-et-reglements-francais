@@ -80,7 +80,6 @@
 - [Arrêté du 17 novembre 2000 (DEFP0002250A)](arrete-du-17-novembre-2000-defp0002250a)
 - [Arrêté du 17 novembre 2000 (DEFP0002281A)](arrete-du-17-novembre-2000-defp0002281a)
 - [Arrêté du 17 octobre 2000 (DEFP0002253A)](arrete-du-17-octobre-2000-defp0002253a)
-- [Arrêté du 18 août 2000 (MAEA0020346A)](arrete-du-18-aout-2000-maea0020346a)
 - [Arrêté du 18 décembre 2000 (ECOS0070004A)](arrete-du-18-decembre-2000-ecos0070004a)
 - [Arrêté du 18 juillet 2000 (EQUK0001254A)](arrete-du-18-juillet-2000-equk0001254a)
 - [Arrêté du 18 juillet 2000 (MESP0022286A)](arrete-du-18-juillet-2000-mesp0022286a)
