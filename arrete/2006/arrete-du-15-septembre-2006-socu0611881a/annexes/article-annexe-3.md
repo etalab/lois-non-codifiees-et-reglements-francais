@@ -2,50 +2,48 @@
 
 FACTEURS DE CONVERSION DES ÉNERGIES
 
-ANNEXE 3.1
-
-CONVERSION EN KILOWATTHEURES DES ÉNERGIES RELEVÉES
+1. Conversion en kilowattheures des énergies relevées
 
 Le pouvoir calorifique supérieur (PCS) donne le dégagement maximal théorique de la chaleur lors de la combustion, y compris la chaleur de condensation de la vapeur d'eau produite lors de la combustion.
 
 Le pouvoir calorifique inférieur (PCI) des combustibles est exprimé en kilowattheures. Il exclut de la chaleur dégagée la chaleur de condensation de l'eau supposée restée à l'état de vapeur à l'issue de la combustion.
 
-Les compteurs d'énergie affichent une quantité d'énergie finale PCS. Le diagnostiqueur convertit ces quantités en énergie finale PCI suivant les facteurs mentionnés dans la présente annexe. Il convertira ensuite les valeurs d'énergie finale PCI en énergie primaire (voir l'annexe 3.2).
+Les compteurs d'énergie affichent une quantité d'énergie finale PCS. Le diagnostiqueur convertit ces quantités en énergie finale PCI suivant les facteurs mentionnés dans la présente annexe. Il convertira ensuite les valeurs d'énergie finale PCI en énergie primaire (voir le 2 de l'annexe 3).
 
 Bois de chauffage
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="340">
-<p>Plaquettes d'industrie</p>
+<td align="left">
+<br clear="none"/>Plaquettes d'industrie <br clear="none"/>
 </td>
-<td valign="top" width="340">
-<p>2 200 kWh PCI par tonne.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>Plaquettes forestières</p>
-</td>
-<td valign="top" width="340">
-<p>2 760 kWh PCI par tonne.</p>
+<td align="center">
+<br clear="none"/>2 200 kWh PCI par tonne <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>Granulés, briquettes</p>
+<td align="left">
+<br clear="none"/>Plaquettes forestières <br clear="none"/>
 </td>
-<td valign="top" width="340">
-<p>4 600 kWh PCI par tonne.</p>
+<td align="center">
+<br clear="none"/>2 760 kWh PCI par tonne <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>Bûches</p>
+<td align="left">
+<br clear="none"/>Granulés, briquettes <br clear="none"/>
 </td>
-<td valign="top" width="340">
-<p>1 680 kWh PCI par stère.</p>
+<td align="center">
+<br clear="none"/>4 600 kWh PCI par tonne <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br clear="none"/>Bûches <br clear="none"/>
+</td>
+<td align="center">
+<br clear="none"/>1 680 kWh PCI par stère <br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -59,81 +57,57 @@ Les consommations figurant sur le diagnostic de performance énergétique sont e
 
 b) Si tel n'est pas le cas, et que les relevés sont quantifiés en volume, le diagnostiqueur obtient les consommations PCI à faire figurer sur le diagnostic de performance énergétique en multipliant les valeurs de m³ (n) mentionnées sur la facture par 11,628.
 
-Le mètre-cube normal, noté m³ (n) est un volume d'un mètre cube de gaz mesuré dans des conditions normales de température et de pression (à une température de 0 °C et à une pression atmosphérique moyenne de 1 013 hectopascals).
+Le mètre-cube normal, noté m³ (n), est un volume d'un mètre cube de gaz mesuré dans des conditions normales de température et de pression (à une température de 0° C et à une pression atmosphérique moyenne de 1 013 hectopascals).
 
 Gaz propane ou butane
 
 <table>
 <tbody>
 <tr>
-<td width="205">
-<p align="center">UNITÉ PHYSIQUE</p>
-</td>
-<td width="205">
-<p align="center">EN kWh (PCI)<br/>par tonne</p>
-</td>
-<td width="205">
-<p align="center">EN kWh (PCI)<br/>par litre</p>
-</td>
+<td align="center"> UNITÉ PHYSIQUE </td>
+<td align="center"> EN kWh (PCI) par tonne </td>
+<td align="center"> EN kWh (PCI) par litre </td>
 </tr>
 <tr>
-<td valign="top" width="205">
-<p>Gaz propane ou butane :</p>
+<td align="left">
+<p>Gaz propane ou butane : </p>
+<p>- propane </p>
+<p>- butane </p>
 </td>
-<td valign="top" width="205">
+<td align="center">
 <br/>
+<p>13 800 </p>
+<p>12 780 <br clear="none"/>
+</p>
 </td>
-<td valign="top" width="205">
+<td align="center">
 <br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="205">
-<p>propane</p>
-</td>
-<td valign="top" width="205">
-<p align="center">13 800</p>
-</td>
-<td valign="top" width="205">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="205">
-<p>butane</p>
-</td>
-<td valign="top" width="205">
-<p align="center">12 780</p>
-</td>
-<td valign="top" width="205">
-<p align="center">6,9</p>
+<p>
+<br clear="none"/>6,9 <br clear="none"/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Si les relevés sont quantifiés en volume, le diagnostiqueur obtient les consommations PCI à faire figurer sur le diagnostic de performance énergétique en multipliant les valeurs de m³ (n) mentionnées sur la facture par 11,628.
+Si les relevés sont quantifiés en volume, le diagnostiqueur obtient les consommations PCI à faire figurer sur le diagnostic de performance énergétique en multipliant les valeurs de m ³ (n) mentionnées sur la facture par 11,628.
 
-Le mètre-cube normal est un volume d'un mètre cube de gaz mesuré dans des conditions normales de température et de pression (à une température de 0 °C et à une pression atmosphérique moyenne de 1 013 hectopascals).
+Le mètre-cube normal est un volume d'un mètre cube de gaz mesuré dans des conditions normales de température et de pression (à une température de 0° C et à une pression atmosphérique moyenne de 1 013 hectopascals)
 
 Fioul domestique
 
 <table>
 <tbody>
 <tr>
-<td width="307">
-<p align="center">UNITÉ PHYSIQUE</p>
-</td>
-<td width="307">
-<p align="center">EN kWh (PCI)<br/>par litre</p>
-</td>
+<td align="center"> UNITÉ PHYSIQUE </td>
+<td align="center"> EN kWh (PCI) par litre </td>
 </tr>
 <tr>
-<td valign="top" width="307">
-<p>Pétrole brut, gazole, fioul domestique</p>
+<td align="left">
+<p>Pétrole brut, gazole, fioul domestique </p>
 </td>
-<td valign="top" width="307">
-<p align="center">9,97</p>
+<td align="center">
+<br clear="none"/>9,97 <br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -144,71 +118,61 @@ Charbon
 <table>
 <tbody>
 <tr>
-<td width="326">
-<p align="center">UNITÉ PHYSIQUE</p>
+<td align="center"> UNITÉ PHYSIQUE </td>
+<td align="center"> EN kWh (PCI) par tonne </td>
+</tr>
+<tr>
+<td align="left">
+<p>Houille </p>
 </td>
-<td width="326">
-<p align="center">EN kWh (PCI)<br/>par tonne</p>
+<td align="center">
+<p align="center">
+<br clear="none"/>7 222 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p>Houille</p>
+<td align="left">
+<p>Coke de houille </p>
 </td>
-<td valign="top" width="326">
-<p align="center">7222</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p>Coke de houille</p>
-</td>
-<td valign="top" width="326">
-<p align="center">7778</p>
+<td align="center">
+<p align="center">
+<br clear="none"/>7 778 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p>Agglomérés et briquettes de lignite</p>
+<td align="left">
+<p>Agglomérés et briquettes de lignite </p>
 </td>
-<td valign="top" width="326">
-<p align="center">8889</p>
+<td align="center">
+<p align="center">
+<br clear="none"/>8 889 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p>Lignite et produits de récupération</p>
+<td align="left">
+<p>Lignite et produits de récupération </p>
 </td>
-<td valign="top" width="326">
-<p align="center">4722</p>
+<td align="center">
+<p align="center">
+<br clear="none"/>4 722 </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-ANNEXE 3.2
-
-CONVERSION DES ÉNERGIES FINALES EN ÉNERGIE PRIMAIRE
+2. Conversion des énergies finales en énergie primaire
 
 Les facteurs de conversion de l'énergie finale (exprimée en PCI) en énergie primaire sont les suivants :
 
-+ 2,58 pour l'électricité ;
+- + 2,58 pour l'électricité ;
 
-+ 1 pour les autres énergies.
+- + 1 pour les autres énergies.
 
-ANNEXE 3.3
+3. Echelle des consommations d'énergie
 
-ÉCHELLE DES CONSOMMATIONS D'ÉNERGIE
+3.1. Généralités
 
-3.3.1. Généralités
-
-3.3.1 a. Cas des bâtiments à usage principal d'habitation
-
-Pour les bâtiments à usage principal d'habitation, l'étiquette énergie présente le classement du rapport de la quantité d'énergie primaire du bien à vendre sur la surface habitable du lot, selon une échelle de référence notée de A à G (soit un classement dans une échelle de sept classes).
-
-Elle doit être conforme au modèle suivant (cliché non reproduit) :
-
-Vous pouvez consulter cliché dans le JO n° 225 du 28/09/2006 texte numéro 10
+Le classement de la quantité totale de consommation d'énergie primaire se fait selon une échelle de sept classes, appelée "étiquette énergie". La quantité de consommation est croissante, partant de la classe A (la plus performante, figurant en vert foncé), à la classe G (la moins performante, figurant en rouge).
 
 Les couleurs qui doivent être utilisées pour l'impression de l'étiquette énergie sont les suivantes :
 
@@ -228,210 +192,308 @@ Les couleurs qui doivent être utilisées pour l'impression de l'étiquette éne
 
 - pour le contenu : 100 % cyan, 0 % magenta, 70 % jaune, 0 % noir.
 
-Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau de consommation dans l'échelle et du texte situé dans la barre rouge représentant la classe G. Ce curseur comporte du texte blanc sur fond noir. Le texte figurant dans la classe G doit être en blanc. Le fond de l'étiquette doit être blanc.
+Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau de consommation dans l'échelle et du texte situé dans la barre rouge représentant la classe G. Ce curseur comporte du texte blanc sur fond noir, composé d'un nombre entier relatif issu de l'extraction de la partie entière du nombre calculé. Le texte figurant dans la classe G doit être en blanc. Le fond de l'étiquette doit être blanc.
 
 Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
 
-L'étiquette énergie mentionne les limites de classes comme définies au paragraphe 3.2.2 a.
+3.1.a. Cas des bâtiments à usage principal d'habitation
 
-3.3.1 b. Cas des bâtiments à usage principal autre que d'habitation
+Pour les bâtiments à usage principal d'habitation, l'étiquette "énergie" doit être conforme au modèle suivant :
 
-Pour les bâtiments à usage principal autre que d'habitation, l'étiquette énergie présente le classement du rapport de la quantité d'énergie primaire du bien à vendre sur la surface utile du lot, selon une échelle de référence, notée de A à I (soit un classement dans une échelle de neuf classes).
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
 
-Elle doit être conforme au modèle suivant (cliché non reproduit) :
+L'étiquette énergie mentionne les limites de classes comme définies au paragraphe 3.2. a.
 
-Vous pouvez consulter le cliché dans le JO n° 225 du 28/09/2006 texte numéro 10
+3.1.b. Cas des bâtiments à usage principal autre
 
-Les couleurs qui doivent être utilisées pour l'impression de l'étiquette énergie sont les suivantes :
+que d'habitation, à l'exception des centres commerciaux
 
-- pour la flèche représentant la classe A : 100 % cyan, 0 % magenta, 100 % jaune, 0 % noir ;
+Pour les bâtiments à usage principal autre que d'habitation, à l'exception des centres commerciaux, l'étiquette "énergie" doit être conforme au modèle suivant :
 
-- pour la flèche représentant la classe B : 70 % cyan, 0 % magenta, 100 % jaune, 0 % noir ;
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
 
-- pour la flèche représentant la classe C : 30 % cyan, 0 % magenta, 100 % jaune, 0 % noir ;
+L'étiquette énergie mentionne les limites de classes comme définies au paragraphe 3.2.b.
 
-- pour la flèche représentant la classe D : 0 % cyan, 0 % magenta, 100 % jaune, 0 % noir ;
+3.2. Limites des classes de l'étiquette énergie
 
-- pour la flèche représentant la classe E : 0 % cyan, 30 % magenta, 100 % jaune, 0 % noir ;
-
-- pour la flèche représentant la classe F : 0 % cyan, 70 % magenta, 100 % jaune, 0 % noir ;
-
-- pour la flèche représentant la classe G : 0 % cyan, 100 % magenta, 100 % jaune, 0 % noir ;
-
-- pour la flèche représentant la classe H : 50 % noir ;
-
-- pour la flèche représentant la classe I : 85 % noir.
-
-- pour le contenu : 100 % cyan, 0 % magenta, 70 % jaune, 0 % noir.
-
-Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau de consommation dans l'échelle et du texte situé dans les barres représentant les classes G, H et I. Ce curseur comporte du texte blanc sur fond noir. Le texte figurant dans les classes G, H et I doit être en blanc. Le fond de l'étiquette doit être blanc.
-
-Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
-
-L'étiquette énergie mentionne les limites de classes comme définies au paragraphe 3.2.2 b.
-
-Pour les bâtiments à usage principal autre que d'habitation, l'étiquette énergie peut au choix mentionner ou non les limites de classe définies au paragraphe 3.2.2 b.
-
-3.3.2. Limites des classes de l'étiquette énergie
-
-a) Bâtiments à usage principal d'habitation
+3.2.a. Bâtiments à usage principal d'habitation
 
 Pour ces bâtiments, la structuration des classes de l'étiquette énergie est la suivante :
 
 <table>
 <tbody>
 <tr>
-<td width="326">
-<p align="center">DÉSIGNATION<br/>de la classe</p>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kWhep/ m ². an) </td>
+</tr>
+<tr>
+<td align="center">
+<p>A </p>
 </td>
-<td width="326">
-<p align="center">PLAGE DE CONSOMMATIONS<br/>(kWh/m2.an)</p>
+<td align="center">
+<br clear="none"/>inférieur ou égal à 50 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">A</p>
+<td align="center">
+<p>B </p>
 </td>
-<td valign="top" width="326">
-<p>Inférieur ou égal à 50.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">B</p>
-</td>
-<td valign="top" width="326">
-<p>De 51 à 90.</p>
+<td align="center">
+<br clear="none"/>de 51 à 90 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">C</p>
+<td align="center">
+<p>C </p>
 </td>
-<td valign="top" width="326">
-<p>De 91 à 150.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">D</p>
-</td>
-<td valign="top" width="326">
-<p>De 151 à 230.</p>
+<td align="center">
+<br clear="none"/>de 91 à 150 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">E</p>
+<td align="center">
+<p>D </p>
 </td>
-<td valign="top" width="326">
-<p>De 231 à 330.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">F</p>
-</td>
-<td valign="top" width="326">
-<p>De 331 à 450.</p>
+<td align="center">
+<br clear="none"/>de 151 à 230 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">G</p>
+<td align="center">
+<p>E </p>
 </td>
-<td valign="top" width="326">
-<p>Strictement supérieur à 450.</p>
+<td align="center">
+<br clear="none"/>de 231 à 330 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>F </p>
+</td>
+<td align="center">
+<br clear="none"/>de 331 à 450 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>G </p>
+</td>
+<td align="center">
+<br clear="none"/>strictement supérieur à 450 <br clear="none"/>
 </td>
 </tr>
 </tbody>
 </table>
 
-b) Bâtiments à usage principal autre que d'habitation
+3.2.b. Bâtiments à usage principal autre que d'habitation,
+
+à l'exception des centres commerciaux
+
+i) Bâtiments à usage principal de bureau, d'administration ou d'enseignement.
 
 Pour ces bâtiments, la structuration des classes de l'étiquette énergie est la suivante :
 
 <table>
 <tbody>
 <tr>
-<td width="326">
-<p align="center">DÉSIGNATION<br/>de la classe</p>
+<td align="center"> DÉSIGNATION DE LA CLASSE</td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kWhep/ m ². an) </td>
+</tr>
+<tr>
+<td align="center">
+<p>A </p>
 </td>
-<td width="326">
-<p align="center">PLAGE DE CONSOMMATIONS<br/>(kWh/m2.an)</p>
+<td align="center">
+<br clear="none"/>Inférieur ou égal à 50 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">A</p>
+<td align="center">
+<p>B </p>
 </td>
-<td valign="top" width="326">
-<p>Inférieur ou égal à 50.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">B</p>
-</td>
-<td valign="top" width="326">
-<p>De 51 à 90.</p>
+<td align="center">
+<br clear="none"/>De 51 à 110 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">C</p>
+<td align="center">
+<p>C </p>
 </td>
-<td valign="top" width="326">
-<p>De 91 à 150.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">D</p>
-</td>
-<td valign="top" width="326">
-<p>De 151 à 230.</p>
+<td align="center">
+<br clear="none"/>De 111 à 210 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">E</p>
+<td align="center">
+<p>D </p>
 </td>
-<td valign="top" width="326">
-<p>De 231 à 330.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">F</p>
-</td>
-<td valign="top" width="326">
-<p>De 331 à 450.</p>
+<td align="center">
+<br clear="none"/>De 211 à 350 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">G</p>
+<td align="center">
+<p>E </p>
 </td>
-<td valign="top" width="326">
-<p>De 451 à 590.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="326">
-<p align="center">H</p>
-</td>
-<td valign="top" width="326">
-<p>De 591 à 750.</p>
+<td align="center">
+<br clear="none"/>De 351 à 540 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="326">
-<p align="center">I</p>
+<td align="center">
+<p>F </p>
 </td>
-<td valign="top" width="326">
-<p>Strictement supérieur à 750.</p>
+<td align="center">
+<br clear="none"/>De 541 à 750 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>G </p>
+</td>
+<td align="center">
+<br clear="none"/>Strictement supérieur à 750 <br clear="none"/>
 </td>
 </tr>
 </tbody>
 </table>
+
+ii) Bâtiments à occupation continue (par exemple : hôpitaux, hôtels, internats, maisons de retraite, etc.).
+
+Pour ces bâtiments, la structuration des classes de l'étiquette énergie est la suivante :
+
+<table>
+<tbody>
+<tr>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kWhep/ m ². an) </td>
+</tr>
+<tr>
+<td align="center">
+<p>A </p>
+</td>
+<td align="center">
+<br clear="none"/>Inférieur ou égal à 100 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>B </p>
+</td>
+<td align="center">
+<br clear="none"/>De 101 à 210 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>C </p>
+</td>
+<td align="center">
+<br clear="none"/>De 211 à 370 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>D </p>
+</td>
+<td align="center">
+<br clear="none"/>De 371 à 580 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>E </p>
+</td>
+<td align="center">
+<br clear="none"/>De 581 à 830 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>F </p>
+</td>
+<td align="center">
+<br clear="none"/>De 831 à 1 130 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>G </p>
+</td>
+<td align="center">
+<br clear="none"/>Strictement supérieur à 1 130 <br clear="none"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+iii) Autres bâtiments non mentionnés dans les deux précédents cas (par exemple : théâtres, salles de sport, restauration, commerces individuels, etc.).
+
+Pour ces bâtiments, la structuration des classes de l'étiquette énergie est la suivante :
+
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td align="center"> DÉSIGNATION DE LA CLASSE </td>
+<td align="center"> PLAGE DE CONSOMMATIONS (kWhep/ m ². an) </td>
+</tr>
+<tr>
+<td align="center">
+<p>A </p>
+</td>
+<td align="center">
+<br clear="none"/>Inférieur ou égal à 30 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>B </p>
+</td>
+<td align="center">
+<br clear="none"/>De 31 à 90 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>C </p>
+</td>
+<td align="center">
+<br clear="none"/>De 91 à 170 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>D </p>
+</td>
+<td align="center">
+<br clear="none"/>De 171 à 270 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>E </p>
+</td>
+<td align="center">
+<br clear="none"/>De 271 à 380 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>F </p>
+</td>
+<td align="center">
+<br clear="none"/>De 381 à 510 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>G </p>
+</td>
+<td align="center">
+<br clear="none"/>Strictement supérieur à 510 <br clear="none"/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>

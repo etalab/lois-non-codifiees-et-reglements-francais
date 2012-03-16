@@ -1,3 +1,3 @@
 # Article 13
 
-Le diagnostic de performance énergétique est établi selon le modèle indiqué en annexe 6.1.
+Le diagnostic de performance énergétique est établi, suivant le cas, selon le modèle indiqué en annexe 6.1 ou 6.2.

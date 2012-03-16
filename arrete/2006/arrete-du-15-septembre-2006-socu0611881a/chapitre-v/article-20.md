@@ -1,3 +1,3 @@
 # Article 20
 
-Les dispositions du présent chapitre s'appliquent aux bâtiments à usage principal autre que résidentiel pourvus d'équipements communs ou individuels de chauffage, d'eau chaude sanitaire ou de refroidissement, proposés globalement à la vente.
+Les dispositions du présent chapitre s'appliquent aux bâtiments à usage principal autre que d'habitation pourvus d'équipements énergétiques communs ou individuels et proposés globalement à la vente.

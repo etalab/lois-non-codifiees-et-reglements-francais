@@ -1,72 +1,61 @@
 # Article Annexe 5
 
-BASE DE PRIX POUR L'ÉVALUATION CONVENTIONNELLE
+BASE DE PRIX POUR L'ÉVALUATION DES FRAIS
 
-DES FRAIS ANNUELS DE CONSOMMATION D'ÉNERGIE
+ANNUELS DE CONSOMMATION D'ÉNERGIE
 
-Pour le modèle 6.1 de diagnostic mentionné en annexe 6, la mention de la date de la version de l'arrêté utilisé pour les prix de l'énergie sera portée à côté de l'estimation des frais annuels d'énergie sur le diagnostic de performance énergétique.
+Lorsque le calcul est réalisé selon la méthode des consommations estimées, les frais annuels de la consommation d'énergie calculée sont, pour chaque type d'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire et le refroidissement des locaux, le produit de la quantité d'énergie finale nécessaire par le prix du kWh, auquel est ajouté le coût de l'abonnement éventuel en fonction des classes de consommation et selon les barèmes figurant dans le tableau suivant. Ces frais sont estimés en faisant abstraction des autres usages de certaines énergies. Pour le propane et le gaz naturel, ces frais sont à calculer à partir des énergies consommées en kWh PCS et non en kWhEF.
 
-Les frais annuels de la consommation d'énergie calculée sont, pour chaque type d'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire et le refroidissement des locaux, le produit de la quantité d'énergie finale nécessaire par le prix du kWh auquel est ajouté le coût de l'abonnement éventuel en fonction des classes de consommation et selon les barèmes figurant dans le tableau suivant. Ces frais sont estimés en faisant abstraction des autres usages de certaines énergies.
+Lorsque le calcul est réalisé selon la méthode des consommations relevées, les tarifs utilisés sont ceux indiqués sur les factures.
 
-Tableau des tarifs des énergies (15 août 2010)
+La date de la version de l'arrêté utilisé figure sur le diagnostic de performance énergétique, à côté des frais mentionnés à l'alinéa précédent.
+
+Tableau des tarifs des énergies (15 août 2011)
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th>
-<br/>ABONNEMENT <br/>
-<br/>(en euros TTC) <br/>
-</th>
-<th>
-<br/>PRIX DU kWh <br/>
-<br/>(énergie finale) <br/>
-<br/>(en centimes d'euro TTC) <br/>
-<br/>Tarif au 15 août 2010 <br/>
-</th>
+<td/>
+<td align="center"> ABONNEMENT (en euros TTC) </td>
+<td align="center"> PRIX DU kWh <p>(énergie finale) </p>(en centimes d'euro TTC)</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Fioul <br/>
+<td align="left">
+<p>Fioul </p>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>7,00 <br/>
+<br/>8,63 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chauffage urbain <br/>
+<td align="left">
+<p>Chauffage urbain </p>
 </td>
 <td align="center">
-<br/>Compris dans le prix du kWh <br/>
-<br/>indiqué à droite <br/>
+<p>Compris dans le prix du kWh indiqué à droite </p>
 </td>
-<td align="center">
-<br/>7,15 <br/>
-<br/>(TVA à 5,5 % sur abonnement) <br/>
+<td align="center">7,48 (TVA à 5,5 % sur abonnement) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Propane (en kWh PCS) <br/>
+<td align="left">
+<p>Propane (en kWh PCS) </p>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>9,92 <br/>
+<br/>12,96 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Charbon <br/>
+<td align="left">
+<p>Charbon </p>
 </td>
 <td align="center">
 <br/>
@@ -77,8 +66,8 @@ Tableau des tarifs des énergies (15 août 2010)
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bois <br/>
+<td align="left">
+<p>Bois </p>
 </td>
 <td align="center">
 <br/>
@@ -89,68 +78,10 @@ Tableau des tarifs des énergies (15 août 2010)
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gaz distribué (en kWh PCS) : <br/>
+<td align="left">
+<p>Gaz distribué (en kWh PCS) : </p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>- de 0 à 1   000 kWh en consommation annuelle <br/>
-</td>
-<td align="center">
-<br/>41,37 <br/>
-</td>
-<td align="center">
-<br/>8,66 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>- de 1   000 à 7   000 kWh en consommation annuelle <br/>
-</td>
-<td align="center">
-<br/>54,91 <br/>
-</td>
-<td align="center">
-<br/>7,42 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>- de 7   000 à 30   000 kWh en consommation annuelle <br/>
-</td>
-<td align="center">
-<br/>179,68 <br/>
-</td>
-<td align="center">
-<br/>4,99 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>- au-delà de 30   000 kWh en consommation annuelle <br/>
-</td>
-<td align="center">
-<br/>179,68 <br/>
-</td>
-<td align="center">
-<br/>4,99 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Electricité (les consommations indiquées concernent le chauffage, la production d'eau chaude sanitaire et le refroidissement) : <br/>
-</td>
-<td align="center">
-<br/>
 <br/>
 </td>
 <td align="center">
@@ -159,111 +90,166 @@ Tableau des tarifs des énergies (15 août 2010)
 </td>
 </tr>
 <tr>
+<td align="left">
+<p>- de 0 à 1 000 kWh en consommation annuelle </p>
+</td>
 <td align="center">
-<br/>- simple tarif : <br/>
+<br/>44,69 <br/>
+</td>
+<td align="center">
+<br/>9,10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>- de 1 000 à 7 000 kWh en consommation annuelle </p>
+</td>
+<td align="center">
+<br/>59,00 <br/>
+</td>
+<td align="center">
+<br/>7,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>- de 7 000 à 30 000 kWh en consommation annuelle </p>
+</td>
+<td align="center">
+<br/>186,86 <br/>
+</td>
+<td align="center">
+<br/>5,24 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>- au-delà de 30 000 kWh en consommation annuelle </p>
+</td>
+<td align="center">
+<br/>186,86 <br/>
+</td>
+<td align="center">
+<br/>5,24 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>Electricité (les consommations indiquées concernent le chauffage, la production d'eau chaude sanitaire et le refroidissement) : </p>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td align="left">
+<p>- simple tarif </p>
+</td>
+<td align="center">
+<br/>
+</td>
 <td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>6 kVA <br/>
+<td align="left">
+<p>6 kVA </p>
 </td>
 <td align="center">
-<br/>83,12 <br/>
+<br/>78,25 <br/>
 </td>
 <td align="center">
-<br/>11,00 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>9 kVA <br/>
-</td>
-<td align="center">
-<br/>96,93 <br/>
-</td>
-<td align="center">
-<br/>11,25 <br/>
+<br/>11,86 <br/>
 </td>
 </tr>
 <tr>
+<td align="left">
+<p>9 kVA </p>
+</td>
 <td align="center">
-<br/>- double tarif : <br/>
+<br/>91,25 <br/>
+</td>
+<td align="center">
+<br/>12,09 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>- double tarif </p>
 </td>
 <td align="center">
 <br/>
-<br/>
 </td>
 <td align="center">
-<br/>Heures pleines (12,35) <br/>
-<br/>Heures creuses (7,84) (*) <br/>
+<br/>Heures pleines (13,11)/ <br/>
+<p>heures creuses (8,93) (*) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>6 kVA </p>
+</td>
+<td align="center">
+<br/>94,06 <br/>
+</td>
+<td align="center">
+<br/>11,44 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>9 kVA </p>
+</td>
+<td align="center">
+<br/>112,87 <br/>
+</td>
+<td align="center">
+<br/>11,44 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>12 kVA </p>
+</td>
+<td align="center">
+<br/>191,59 <br/>
+</td>
+<td align="center">
+<br/>11,44 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>15 kVA </p>
+</td>
+<td align="center">
+<br/>225,47 <br/>
+</td>
+<td align="center">
+<br/>11,44 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>6 kVA <br/>
+<p>18 kVA et plus </p>
 </td>
 <td align="center">
-<br/>100,00 <br/>
+<br/>257,19 <br/>
 </td>
 <td align="center">
-<br/>10,55 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>9 kVA <br/>
-</td>
-<td align="center">
-<br/>119,96 <br/>
-</td>
-<td align="center">
-<br/>10,55 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>12 kVA <br/>
-</td>
-<td align="center">
-<br/>202,89 <br/>
-</td>
-<td align="center">
-<br/>10,55 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>15 kVA <br/>
-</td>
-<td align="center">
-<br/>238,80 <br/>
-</td>
-<td align="center">
-<br/>10,55 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>18 kVA <br/>
-</td>
-<td align="center">
-<br/>272,22 <br/>
-</td>
-<td align="center">
-<br/>10,55 <br/>
+<br/>11,44 <br/>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<br/>(*) Estimation avec une répartition forfaitaire de la consommation entre heures pleines et heures creuses (respectivement 60 % et 40 %) pour le chauffage et une production d'eau chaude sanitaire effectuée intégralement en heures creuses.<br/>
+<p>(*) Estimation avec une répartition forfaitaire de la consommation entre heures pleines et heures creuses (respectivement 60 % et 40 %) pour le chauffage et une production d'eau chaude sanitaire effectuée intégralement en heures creuses. </p>
 </td>
 </tr>
 </tbody>
