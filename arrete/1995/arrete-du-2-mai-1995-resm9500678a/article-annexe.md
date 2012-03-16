@@ -3,3524 +3,2929 @@
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">
-<br/>GROUPE </p>
+<td rowspan="2" width="59">
+<p align="center">GROUPE</p>
 </td>
-<td>
-<p align="center">
-<br/>SECTION </p>
+<td rowspan="2" width="59">
+<p align="center">SECTION</p>
 </td>
-<td>
-<p align="center">
-<br/>TITRE </p>
+<td rowspan="2" width="233">
+<p align="center">TITRE</p>
 </td>
-<td colspan="2">
-<p align="center">
-<br/>PREMIER COLLÈGE </p>
+<td colspan="2" width="157">
+<p align="center">PREMIER COLLÈGE</p>
 </td>
-<td colspan="2">
-<p align="center">
-<br/>DEUXIÈME COLLÈGE </p>
+<td colspan="2" width="161">
+<p align="center">DEUXIÈME COLLÈGE</p>
 </td>
 </tr>
 <tr>
-<td rowspan="13">
-<p align="center">
-<br/>I </p>
+<td width="78">
+<p align="center">Elus</p>
 </td>
-<td rowspan="4">
-<p align="center">
-<br/>01 </p>
+<td width="78">
+<p align="center">Nommés</p>
 </td>
-<td>
-<p align="center">
-<b/>
-</p>
+<td width="78">
+<p align="center">Elus</p>
 </td>
-<td>
-<p align="center">
-<br/>Elus </p>
+<td width="81">
+<p align="center">Nommés</p>
 </td>
-<td>
-<p align="center">
-<br/>Nommés </p>
-</td>
-<td>
-<p align="center">
-<br/>Elus </p>
-</td>
-<td>
-<p align="center">
-<br/>Nommés </p>
-</td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Droit privé et sciences criminelles </p>
+<td rowspan="12" width="59">
+<p align="center">I</p>
 </td>
-<td>
+<td rowspan="3" width="59">
+<p align="center">01</p>
+</td>
+<td width="233">
+<p align="center">Droit privé et sciences criminelles</p>
+</td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>02 </p>
+<td rowspan="3" width="59">
+<p align="center">02</p>
 </td>
-<td>
-<p align="center">
-<br/>Droit public </p>
+<td width="233">
+<p align="center">Droit public</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>03 </p>
+<td rowspan="3" width="59">
+<p align="center">03</p>
 </td>
-<td>
-<p align="center">
-<br/>Histoire du droit et des institutions </p>
+<td width="233">
+<p align="center">Histoire du droit et des institutions</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>04 </p>
+<td rowspan="3" width="59">
+<p align="center">04</p>
 </td>
-<td>
-<p align="center">
-<br/>Science politique </p>
+<td width="233">
+<p align="center">Science politique</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6">
-<p align="center">
-<br/>II </p>
+<td rowspan="6" width="59">
+<p align="center">II</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>05 </p>
+<td rowspan="3" width="59">
+<p align="center">05</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences économiques </p>
+<td width="233">
+<p align="center">Sciences économiques</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>06 </p>
+<td rowspan="3" width="59">
+<p align="center">06</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences de gestion </p>
+<td width="233">
+<p align="center">Sciences de gestion</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="27">
-<p align="center">
-<br/>III </p>
+<td rowspan="27" width="59">
+<p align="center">III</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>07 </p>
+<td rowspan="3" width="59">
+<p align="center">07</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences du langage : linguistique et phonétique générales </p>
+<td width="233">
+<p align="center">Sciences du langage : linguistique et phonétique générales</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>08 </p>
+<td rowspan="3" width="59">
+<p align="center">08</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures anciennes </p>
+<td width="233">
+<p align="center">Langues et littératures anciennes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>09 </p>
+<td rowspan="3" width="59">
+<p align="center">09</p>
 </td>
-<td>
-<p align="center">
-<br/>Langue et littérature françaises </p>
+<td width="233">
+<p align="center">Langue et littérature françaises</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>10 </p>
+<td rowspan="3" width="59">
+<p align="center">10</p>
 </td>
-<td>
-<p align="center">
-<br/>Littératures comparées </p>
+<td width="233">
+<p align="center">Littératures comparées</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>11 </p>
+<td rowspan="3" width="59">
+<p align="center">11</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures anglaises et anglo-saxonnes </p>
+<td width="233">
+<p align="center">Langues et littératures<br/>anglaises et anglo-saxonnes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>12 </p>
+<td rowspan="3" width="59">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures germaniques et scandinaves </p>
+<td width="233">
+<p align="center">Langues et littératures<br/>germaniques et scandinaves</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>13 </p>
+<td rowspan="3" width="59">
+<p align="center">13</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures slaves </p>
+<td width="233">
+<p>Langues et littératures slaves </p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>14 </p>
+<td rowspan="3" width="59">
+<p align="center">14</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes </p>
+<td width="233">
+<p align="center">Langues et littératures romanes :<br/>espagnol, italien, portugais, autres langues romanes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>15 </p>
+<td rowspan="3" width="59">
+<p align="center">15</p>
 </td>
-<td>
-<p align="center">
-<br/>Langues et littératures arabes, chinoises, japonaises, hébraïques, d'autres domaines linguistiques </p>
+<td width="233">
+<p align="center">Langues et littératures arabes, chinoises, japonaises, hébraïques, d'autres domaines linguistiques</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="27">
-<p align="center">
-<br/>IV </p>
+<td rowspan="27" width="59">
+<p align="center">IV</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>16 </p>
+<td rowspan="3" width="59">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>Psychologie, psychologie clinique, psychologie sociale </p>
+<td width="233">
+<p align="center">Psychologie, psychologie clinique,<br/>psychologie sociale</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>17 </p>
+<td rowspan="3" width="59">
+<p align="center">17</p>
 </td>
-<td>
-<p align="center">
-<br/>Philosophie </p>
+<td width="233">
+<p>Philosophie </p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>18 </p>
+<td rowspan="3" width="59">
+<p align="center">18</p>
 </td>
-<td>
-<p align="center">
-<br/>Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art </p>
+<td width="233">
+<p>Architecture (ses théories et ses pratiques), arts appliqués, arts plastiques, arts du spectacle, épistémologie des enseignements artistiques, esthétique, musicologie, musique, sciences de l'art </p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>19 </p>
+<td rowspan="3" width="59">
+<p align="center">19</p>
 </td>
-<td>
-<p align="center">
-<br/>Sociologie, démographie </p>
+<td width="233">
+<p align="center">Sociologie, démographie</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>20 </p>
+<td rowspan="3" width="59">
+<p align="center">20</p>
 </td>
-<td>
-<p align="center">
-<br/>Anthropologie biologique, ethnologie, préhistoire </p>
+<td width="233">
+<p align="center">Anthropologie biologique,<br/>ethnologie, préhistoire</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>21 </p>
+<td rowspan="3" width="59">
+<p align="center">21</p>
 </td>
-<td>
-<p align="center">
-<br/>Histoire, civilisation, archéologie et art des mondes anciens et médiévaux </p>
+<td width="233">
+<p align="center">Histoire, civilisation,<br/>archéologie et art des mondes anciens et médiévaux</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>22 </p>
+<td rowspan="3" width="59">
+<p align="center">22</p>
 </td>
-<td>
-<p align="center">
-<br/>Histoire et civilisations : histoire des mondes modernes ; histoire du monde contemporain ; de l'art ; de la musique </p>
+<td width="233">
+<p>Histoire et civilisations : histoire des mondes modernes ; histoire du monde contemporain ; de l'art ; de la musique </p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>23 </p>
+<td rowspan="3" width="59">
+<p align="center">23</p>
 </td>
-<td>
-<p align="center">
-<br/>Géographie physique, humaine, économique et régionale </p>
+<td width="233">
+<p align="center">Géographie physique, humaine,<br/>économique et régionale</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>24 </p>
+<td rowspan="3" width="59">
+<p align="center">24</p>
 </td>
-<td>
-<p align="center">
-<br/>Aménagement de l'espace, urbanisme </p>
+<td width="233">
+<p align="center">Aménagement de l'espace, urbanisme</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="9">
-<p align="center">
-<br/>V </p>
+<td rowspan="9" width="59">
+<p align="center">V</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>25 </p>
+<td rowspan="3" width="59">
+<p align="center">25</p>
 </td>
-<td>
-<p align="center">
-<br/>Mathématiques </p>
+<td width="233">
+<p align="center">Mathématiques</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>26 </p>
+<td rowspan="3" width="59">
+<p align="center">26</p>
 </td>
-<td>
-<p align="center">
-<br/>Mathématiques appliquées et applications des mathématiques </p>
+<td width="233">
+<p align="center">Mathématiques appliquées<br/>et applications des mathématiques</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>27 </p>
+<td rowspan="3" width="59">
+<p align="center">27</p>
 </td>
-<td>
-<p align="center">
-<br/>Informatique </p>
+<td width="233">
+<p align="center">Informatique</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="9">
-<p align="center">
-<br/>VI </p>
+<td rowspan="9" width="59">
+<p align="center">VI</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>28 </p>
+<td rowspan="3" width="59">
+<p align="center">28</p>
 </td>
-<td>
-<p align="center">
-<br/>Milieux denses et matériaux </p>
+<td width="233">
+<p align="center">Milieux denses et matériaux</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>29 </p>
+<td rowspan="3" width="59">
+<p align="center">29</p>
 </td>
-<td>
-<p align="center">
-<br/>Constituants élémentaires </p>
+<td width="233">
+<p align="center">Constituants élémentaires</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>30 </p>
+<td rowspan="3" width="59">
+<p align="center">30</p>
 </td>
-<td>
-<p align="center">
-<br/>Milieux dilués et optique </p>
+<td width="233">
+<p align="center">Milieux dilués et optique</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="9">
-<p align="center">
-<br/>VII </p>
+<td rowspan="9" width="59">
+<p align="center">VII</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>31 </p>
+<td rowspan="3" width="59">
+<p align="center">31</p>
 </td>
-<td>
-<p align="center">
-<br/>Chimie théorique, physique, analytique </p>
+<td width="233">
+<p align="center">Chimie théorique, physique, analytique</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>32 </p>
+<td rowspan="3" width="59">
+<p align="center">32</p>
 </td>
-<td>
-<p align="center">
-<br/>Chimie organique, minérale, industrielle </p>
+<td width="233">
+<p align="center">Chimie organique, minérale, industrielle</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>33 </p>
+<td rowspan="3" width="59">
+<p align="center">33</p>
 </td>
-<td>
-<p align="center">
-<br/>Chimie des matériaux </p>
+<td width="233">
+<p align="center">Chimie des matériaux</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12">
-<p align="center">
-<br/>VIII </p>
+<td rowspan="12" width="59">
+<p align="center">VIII</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>34 </p>
+<td rowspan="3" width="59">
+<p align="center">34</p>
 </td>
-<td>
-<p align="center">
-<br/>Astronomie, astrophysique </p>
+<td width="233">
+<p align="center">Astronomie, astrophysique</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>35 </p>
+<td rowspan="3" width="59">
+<p align="center">35</p>
 </td>
-<td>
-<p align="center">
-<br/>Structure et évolution de la Terre et des autres planètes </p>
+<td width="233">
+<p align="center">Structure et évolution de la Terre<br/>et des autres planètes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>36 </p>
+<td rowspan="3" width="59">
+<p align="center">36</p>
 </td>
-<td>
-<p align="center">
-<br/>Terre solide : géodynamique des enveloppes supérieures, paléobiosphère </p>
+<td width="233">
+<p align="center">Terre solide : géodynamique des enveloppes supérieures, paléobiosphère</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>37 </p>
+<td rowspan="3" width="59">
+<p align="center">37</p>
 </td>
-<td>
-<p align="center">
-<br/>Météorologie, océanographie physique et physique de l'environnement </p>
+<td width="233">
+<p align="center">Météorologie, océanographie<br/>physique et physique de l'environnement</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12">
-<p align="center">
-<br/>IX </p>
+<td rowspan="12" width="59">
+<p align="center">IX</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>60 </p>
+<td rowspan="3" width="59">
+<p align="center">60</p>
 </td>
-<td>
-<p align="center">
-<br/>Mécanique, génie mécanique, génie civil </p>
+<td width="233">
+<p align="center">Mécanique, génie mécanique,<br/>génie civil</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>61 </p>
+<td rowspan="3" width="59">
+<p align="center">61</p>
 </td>
-<td>
-<p align="center">
-<br/>Génie informatique, automatique et traitement du signal </p>
+<td width="233">
+<p align="center">Génie informatique, automatique<br/>et traitement du signal</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>62 </p>
+<td rowspan="3" width="59">
+<p align="center">62</p>
 </td>
-<td>
-<p align="center">
-<br/>Energétique, génie des procédés </p>
+<td width="233">
+<p align="center">Energétique, génie des procédés</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>63 </p>
+<td rowspan="3" width="59">
+<p align="center">63</p>
 </td>
-<td>
-<p align="center">
-<br/>Génie électrique, électronique, photonique et systèmes </p>
+<td width="233">
+<p align="center">Génie électrique, électronique,<br/>photonique et systèmes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>16 </p>
+<td width="78">
+<p align="center">16</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="81">
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
-<td rowspan="18">
-<p align="center">
-<br/>X </p>
+<td rowspan="18" width="59">
+<p align="center">X</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>64 </p>
+<td rowspan="3" width="59">
+<p align="center">64</p>
 </td>
-<td>
-<p align="center">
-<br/>Biochimie et biologie moléculaire </p>
+<td width="233">
+<p align="center">Biochimie et biologie moléculaire</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>65 </p>
+<td rowspan="3" width="59">
+<p align="center">65</p>
 </td>
-<td>
-<p align="center">
-<br/>Biologie cellulaire </p>
+<td width="233">
+<p align="center">Biologie cellulaire</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>66 </p>
+<td rowspan="3" width="59">
+<p align="center">66</p>
 </td>
-<td>
-<p align="center">
-<br/>Physiologie </p>
+<td width="233">
+<p align="center">Physiologie</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>67 </p>
+<td rowspan="3" width="59">
+<p align="center">67</p>
 </td>
-<td>
-<p align="center">
-<br/>Biologie des populations et écologie </p>
+<td width="233">
+<p align="center">Biologie des populations et écologie</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>68 </p>
+<td rowspan="3" width="59">
+<p align="center">68</p>
 </td>
-<td>
-<p align="center">
-<br/>Biologie des organismes </p>
+<td width="233">
+<p align="center">Biologie des organismes</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>12 </p>
+<td width="78">
+<p align="center">12</p>
 </td>
-<td>
-<p align="center">
-<br/>6 </p>
+<td width="81">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>69 </p>
+<td rowspan="3" width="59">
+<p align="center">69</p>
 </td>
-<td>
-<p align="center">
-<br/>Neurosciences </p>
+<td width="233">
+<p align="center">Neurosciences</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
+</td>
+</tr>
+<tr>
+<td width="233">
+<p>Titulaires </p>
+</td>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="78">
+<p align="center">4</p>
+</td>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td width="233">
+<p>Suppléants </p>
 </td>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="78">
+<p align="center">4</p>
+</td>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td rowspan="18" width="59">
+<p align="center">XII</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td rowspan="3" width="59">
+<p align="center">70</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="233">
+<p align="center">Sciences de l'éducation</p>
+</td>
+<td width="78">
+<br/>
+</td>
+<td width="78">
+<br/>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<br/>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="15">
-<p align="center">
-<br/>XII </p>
+<td width="233">
+<p>Suppléants </p>
+</td>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td rowspan="3">
-<p align="center">
-<br/>70 </p>
+<td width="78">
+<p align="center">8</p>
+</td>
+<td width="81">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="59">
+<p align="center">71</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences de l'éducation </p>
+<td width="233">
+<p align="center">Sciences de l'information<br/>et de la communication</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>71 </p>
+<td rowspan="3" width="59">
+<p align="center">72</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences de l'information et de la communication </p>
+<td width="233">
+<p align="center">Epistémologie, histoire des sciences<br/>et des techniques</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>72 </p>
+<td rowspan="3" width="59">
+<p align="center">73</p>
 </td>
-<td>
-<p align="center">
-<br/>Epistémologie, histoire des sciences et des techniques </p>
+<td width="233">
+<p align="center">Cultures et langues régionales</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>73 </p>
+<td rowspan="3" width="59">
+<p align="center">74</p>
 </td>
-<td>
-<p align="center">
-<br/>Cultures et langues régionales </p>
+<td width="233">
+<p align="center">Sciences et techniques des activités<br/>physiques et sportives</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants </p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">4</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">8</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3">
-<p align="center">
-<br/>74 </p>
+<td rowspan="3" width="59">
+<p align="center">75</p>
 </td>
-<td>
-<p align="center">
-<br/>Sciences et techniques des activités physiques et sportives </p>
+<td width="233">
+<p align="center">Criminologie</p>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="78">
 <br/>
 </td>
-<td>
+<td width="81">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Titulaires </p>
+<td width="233">
+<p>Titulaires</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">3</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="81">
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>Suppléants </p>
+<td width="233">
+<p>Suppléants</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>4 </p>
+<td width="78">
+<p align="center">3</p>
 </td>
-<td>
-<p align="center">
-<br/>8 </p>
+<td width="78">
+<p align="center">6</p>
 </td>
-<td>
-<p align="center">
-<br/>4</p>
+<td width="81">
+<p align="center">3</p>
 </td>
 </tr>
 </tbody>
