@@ -82,6 +82,7 @@
 - [Décret n°2011-1524 du 14 novembre 2011 (EFIP1126895D)](decret-n2011-1524-du-14-novembre-2011-efip1126895d)
 - [Décret n°2012-211 du 14 février 2012 (TRAV1133246D)](decret-n2012-211-du-14-fevrier-2012-trav1133246d)
 - [Décret n°2012-215 du 14 février 2012 (AGRT1132991D)](decret-n2012-215-du-14-fevrier-2012-agrt1132991d)
+- [Décret n°2012-356 du 14 mars 2012 (BCRB1206389D)](decret-n2012-356-du-14-mars-2012-bcrb1206389d)
 - [Décret n°2012-213 du 15 février 2012 (JUSX1204065D)](decret-n2012-213-du-15-fevrier-2012-jusx1204065d)
 - [Décret n°2012-216 du 15 février 2012 (TRAX1204667D)](decret-n2012-216-du-15-fevrier-2012-trax1204667d)
 - [Décret n°2012-218 du 15 février 2012 (DEVK1129855D)](decret-n2012-218-du-15-fevrier-2012-devk1129855d)

@@ -14,4 +14,6 @@
 - [LOI n°2012-346 du 12 mars 2012 (JUSX1206463L)](loi-n2012-346-du-12-mars-2012-jusx1206463l)
 - [LOI n°2012-347 du 12 mars 2012 (MFPF1116839L)](loi-n2012-347-du-12-mars-2012-mfpf1116839l)
 - [LOI n°2012-348 du 12 mars 2012 (SPOX1204820L)](loi-n2012-348-du-12-mars-2012-spox1204820l)
+- [LOI n°2012-354 du 14 mars 2012 (BCRX1203230L)](loi-n2012-354-du-14-mars-2012-bcrx1203230l)
+- [LOI n°2012-355 du 14 mars 2012 (ETSX1206328L)](loi-n2012-355-du-14-mars-2012-etsx1206328l)
 - [Loi n°53-661 du 1 août 1953](loi-n53-661-du-1-aout-1953)
