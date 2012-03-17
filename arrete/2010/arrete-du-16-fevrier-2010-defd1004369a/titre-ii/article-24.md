@@ -36,6 +36,8 @@ XVI. - le commandement interarmées des hélicoptères ;
 
 XVI bis. - Le commandement interarmées de l'espace ;
 
+XVI ter. - Le service des essais et expérimentations aéronautiques de la défense.
+
 XVII. - L'établissement géographique interarmées ;
 
 XVIII. - L'unité française de vérification ;

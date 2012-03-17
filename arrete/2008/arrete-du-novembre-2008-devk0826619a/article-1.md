@@ -2,21 +2,23 @@
 
 Les opérations de restructuration de service listées  ci-après ouvrent droit au bénéfice de la prime de restructuration de  service et, le cas échéant, de l’allocation d’aide à la mobilité du  conjoint :
 
-1<sup>o</sup>  La réorganisation des services d’administration centrale et des services à compétence nationale qui leur sont rattachés ;
+<sup>
+<br/>
+</sup>1° La réorganisation des services d’administration centrale et des services à  compétence nationale qui leur sont rattachés ;
 
-2<sup>o</sup>  Les restructurations des directions régionales de  l’industrie, de la recherche et de l’environnement, des directions  régionales de l’environnement et des directions régionales de  l’équipement dans le cadre de leur regroupement au sein des directions  régionales de l’environnement, de l’aménagement et du logement, ainsi  que dans le cadre d’opérations de mutualisation de fonctions supports ;
+2° Les  restructurations des directions régionales de l’industrie, de la recherche et de  l’environnement, des directions régionales de l’environnement et des directions  régionales de l’équipement dans le cadre de leur regroupement au sein des  directions régionales de l’environnement, de l’aménagement et du logement, ainsi  que dans le cadre d’opérations de mutualisation de fonctions supports ;
 
-3<sup>o</sup>  Les réorganisations des directions départementales de  l’équipement dans le cadre de la création des directions  départementales de l’équipement et de l’agriculture ainsi que celles  liées à une évolution fonctionnelle de leurs missions ;
+3° Les réorganisations des directions départementales de  l’équipement dans le cadre de la création des directions départementales de  l’équipement et de l’agriculture ainsi que celles liées à une évolution  fonctionnelle de leurs missions ;
 
-4<sup>o</sup>  Les réorganisations de services dans les directions interdépartementales des routes ;
+4° Les  réorganisations de services dans les directions interdépartementales des routes  ;
 
-5<sup>o</sup>  Les restructurations des services chargés de la  navigation intérieure liées à la mise en œuvre du schéma directeur  d’exploitation des voies navigables et de celui de maintenance ;
+5° Les restructurations des services chargés de la  navigation intérieure liées à la mise en œuvre du schéma directeur  d’exploitation des voies navigables et de celui de maintenance ;
 
-6<sup>o</sup>  Les restructurations des bases aériennes ;
+6° Les restructurations des bases aériennes ;
 
-7<sup>o</sup>  La fermeture du Centre national de traitement des statistiques ;
+7° La fermeture du Centre national de traitement des  statistiques ;
 
-8<sup>o</sup>  La restructuration de l’Agence de l’eau Seine-Normandie ;
+8° La restructuration de l’Agence de  l’eau Seine-Normandie ;
 
 9° Les réorganisations des directions départementales de l'équipement  et des directions départementales de l'équipement et de l'agriculture  dans le cadre de la création des directions départementales  interministérielles ;
 
@@ -34,7 +36,7 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 16° La création du centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts ;
 
-17° La réorganisation du bureau des pensions.
+17° La réorganisation du bureau des pensions ;
 
 18° Les opérations liées à la réorganisation de l'administration territoriale de l'Etat en Ile-de-France ;
 
@@ -50,4 +52,14 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 24° La relocalisation à Lille de la mission d'inspection générale territoriale du Nord ;
 
-25°  La restructuration des services locaux concourant à l'entretien,  l'exploitation et la gestion du réseau routier national au sein des  directions interdépartementales des routes.
+25°  La restructuration des services locaux concourant à l'entretien,  l'exploitation et la gestion du réseau routier national au sein des  directions interdépartementales des routes ;
+
+26°  La fermeture du centre de liquidation des prestations sociales de  l'Etablissement national des invalides de la marine sis à Bordeaux ;
+
+27°  La réorganisation de l'unité territoriale du Haut-Rhin de la direction  régionale de l'environnement, de l'aménagement et du logement Alsace ;
+
+28° La fermeture de l'arrondissement territorial du service navigation Rhône-Saône implanté aux Angles ;
+
+29°  La réorganisation de l'unité territoriale de Meurthe-et-Moselle de la  direction régionale de l'environnement, de l'aménagement et du logement  Lorraine ;
+
+30° La réorganisation du centre de  valorisation des ressources humaines d'Arras dans le cadre de la  création du centre ministériel de valorisation des ressources humaines.
