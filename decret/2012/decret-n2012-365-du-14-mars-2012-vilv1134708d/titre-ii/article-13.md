@@ -1,0 +1,3 @@
+# Article 13
+
+Une convention conclue entre le STIF et la SGP au plus tard dans un délai de six mois à compter de la publication du présent décret fixe les conditions dans lesquelles le STIF est associé à la procédure d'acquisition du matériel roulant. Elle garantit notamment que le STIF est associé à la définition technique et aux procédures de choix des matériels acquis par la SGP eu égard aux responsabilités qui incombent au STIF dans le cadre de ses missions d'organisation de l'exploitation du réseau du Grand Paris. Elle précise les conditions dans lesquelles le STIF donne son assentiment sur les commandes de matériel roulant, dans un délai qui ne peut excéder un mois. En cas de silence gardé par le STIF à l'expiration de ce délai, son assentiment est réputé acquis.
