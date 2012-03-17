@@ -14,4 +14,6 @@ Pour l'exercice de ses attributions, telles que définies à l'article 10 de l'a
 
 6. La délégation au patrimoine de l'armée de terre ;
 
-7. Le bureau stationnement infrastructure.
+7. Le bureau stationnement infrastructure ;
+
+8. Le bureau prévention et maîtrise des risques.

@@ -32,6 +32,6 @@ a) Des organismes rattachés suivants :
 
 - le service de la maintenance industrielle terrestre.
 
-b) D'un officier général chargé des relations internationales et du soutien aux exportations ;
+b) D'un officier général chargé des relations internationales et du soutien aux exportations qui dispose d'une cellule de coopération bilatérale et d'un officier chargé des affaires de l'outre-mer et de l'étranger intéressant l'armée de terre ;
 
 c) De l'officier supérieur adjoint au major général de l'état-major de l'armée de terre.

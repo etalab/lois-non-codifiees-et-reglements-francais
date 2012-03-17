@@ -6,8 +6,6 @@ Pour l'exercice de ses attributions, telles que définies à l'article 8 de l'ar
 
 2. Le bureau soutien ;
 
-3. Le bureau prévention et maîtrise des risques ;
+3. (Supprimé)
 
-4. Le bureau des affaires particulières ;
-
-5. La cellule de coopération bilatérale.
+4. Le bureau des affaires particulières.

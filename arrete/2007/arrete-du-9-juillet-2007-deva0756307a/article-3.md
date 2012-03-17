@@ -77,3 +77,9 @@ Nantes-Antalya (Turquie).
 Jusqu'au 31 janvier 2017 :
 
 Paris ― Bodrum (Turquie).
+
+Jusqu'au 1er mars 2017 :
+
+Paris - Dubrovnik (Croatie) ;
+
+Paris - Split (Croatie).

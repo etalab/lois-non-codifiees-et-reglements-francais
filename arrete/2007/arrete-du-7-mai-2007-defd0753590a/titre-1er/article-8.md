@@ -22,12 +22,10 @@ Le sous-chef d'état-major emploi et soutien :
 
 7. Dispose des détachements de liaison de l'état-major opérationnel terre ;
 
-8. Elabore la politique relative à la prévention et à la maîtrise des risques dans l'armée de terre selon les directives générales émanant du chef d'état-major des armées et du secrétaire général pour l'administration ;
+8. (Supprimé)
 
 9. Supervise le traitement des affaires et missions particulières confiées par le major général ;
 
-10. Définit la politique d'emploi ainsi que les conditions et modalités d'emploi des réserves de l'armée de terre ;
-
-11. Assure la cohérence et la coordination de la coopération bilatérale de l'armée de terre selon les directives de l'état-major des armées.
+10. Définit la politique d'emploi ainsi que les conditions et modalités d'emploi des réserves de l'armée de terre.
 
 Il est assisté d'un adjoint.
