@@ -116,4 +116,8 @@ Jusqu'au 31 décembre 2016 :
 
 Saint-Barthélemy - Pointe-à-Pitre.
 
+Jusqu'au 1er mars 2017 :
+
+Paris-Saint-Domingue (République dominicaine).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
