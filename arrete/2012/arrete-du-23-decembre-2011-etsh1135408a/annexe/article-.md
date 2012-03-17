@@ -48,11 +48,13 @@ Durée
 
 Une demi-journée.
 
-Contexte réglementaire du prestataire de services et distributeur de matériels
+Contexte réglementaire du prestataire de services
+
+et distributeur de matériels
 
 Public visé
 
-Les personnels chargés de garantir l'application des règles professionnelles et de bonne pratique de délivrance des matériels et services non professionnels de santé.
+Les personnels chargés de garantir l'application des règles  professionnelles et de bonne pratique de délivrance des matériels et  services.
 
 Objectifs
 
