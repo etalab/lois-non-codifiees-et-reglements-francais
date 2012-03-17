@@ -13,7 +13,7 @@ Composition du conseil de la fonction militaire de l'armée de terre
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
 <td rowspan="3">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<p align="center">NOMBRE<br/>total<br/>de titulaires </p>
 </td>
 <td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
@@ -329,16 +329,16 @@ Composition du conseil de la fonction militaire de l'armée de terre
 <p align="center">2 </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
@@ -346,19 +346,19 @@ Composition du conseil de la fonction militaire de l'armée de terre
 <p>4.4. Sous-officiers subalternes des métiers des services sous contrat </p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">6</p>
+<p align="center">6 </p>
 </td>
 </tr>
 <tr>
@@ -386,19 +386,19 @@ Composition du conseil de la fonction militaire de l'armée de terre
 <p>5. Militaires du rang engagés </p>
 </td>
 <td>
-<p align="center">30</p>
+<p align="center">30 </p>
 </td>
 <td>
-<p align="center">15</p>
+<p align="center">15 </p>
 </td>
 <td>
-<p align="center">60</p>
+<p align="center">60 </p>
 </td>
 <td>
-<p align="center">15</p>
+<p align="center">15 </p>
 </td>
 <td>
-<p align="center">60</p>
+<p align="center">60 </p>
 </td>
 </tr>
 <tr>
@@ -415,10 +415,10 @@ Composition du conseil de la fonction militaire de l'armée de terre
 <p align="center">179 </p>
 </td>
 <td>
-<p align="center">44</p>
+<p align="center">44 </p>
 </td>
 <td>
-<p align="center">179</p>
+<p align="center">179 </p>
 </td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ Composition du conseil de la fonction militaire de la marine
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
 <td rowspan="3">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<p align="center">NOMBRE<br/>total<br/>de<br/>titulaires </p>
 </td>
 <td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
@@ -785,7 +785,27 @@ Composition du conseil de la fonction militaire de la marine
 </tr>
 <tr>
 <td>
-<p>5.1. Quartiers-maîtres de 1re classe <br/>5.2. Matelots et quartiers-maîtres de 2e classe </p>
+<p>5.1. Quartiers-maîtres de 1re classe </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.2. Matelots et quartiers-maîtres de 2e classe </p>
 </td>
 <td>
 <p align="center">9 (a) </p>
@@ -805,7 +825,7 @@ Composition du conseil de la fonction militaire de la marine
 </tr>
 <tr>
 <td>
-<p align="center">Total </p>
+<p>Total </p>
 </td>
 <td>
 <p align="center">50 </p>
@@ -838,561 +858,573 @@ Composition du conseil de la fonction militaire de l'armée de l'air
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="340">
+<td rowspan="3">
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
-<td rowspan="3" width="57">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<td rowspan="3">
+<p align="center">NOMBRE<br/>total<br/>de titulaires </p>
 </td>
-<td colspan="4" width="262">
+<td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="134">
+<td colspan="2">
 <p align="center">Groupe A </p>
 </td>
-<td colspan="2" width="126">
+<td colspan="2">
 <p align="center">Groupe B </p>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="74">
+<td>
 <p align="center">Suppléants </p>
 </td>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="65">
+<td>
 <p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p align="center">I. - Officiers supérieurs </p>
 </td>
-<td width="57">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="74">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="65">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>1.1. Officiers de l'air (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>1.2. Officiers mécaniciens de l'air ou des bases de l'air (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>1.3. Officiers tous corps, sauf de l'air (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>1.4. Officiers tous corps (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p align="center">II. - Officiers subalternes </p>
 </td>
-<td width="57">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="74">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="65">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.1. Officiers de l'air de carrière (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.2. Officiers de l'air sous contrat (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.3. Officiers mécaniciens de l'air de carrière (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.4. Officiers mécaniciens de l'air sous contrat (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.5. Officiers des bases de l'air de carrière (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.6. Officiers des bases de l'air sous contrat (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.7. Autres corps de carrière (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>2.8. Tous corps sous contrat (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
-<p align="center">III. - Sous-officiers et militaires du rang affectés au sein<br/>d'une base aérienne ou au sein d'une base de défense,<br/>support de base aérienne </p>
+<td>
+<p>III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne </p>
 </td>
-<td width="57">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="74">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="65">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>3.1. Sous-officiers supérieurs de carrière du personnel navigant (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>3.2. Sous-officiers supérieurs de carrière du personnel non navigant (**) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">13 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">6 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">18 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">7 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">21 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>3.3. Sous-officiers subalternes de carrière (**) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>3.4. Sous-officiers subalternes sous contrat (**) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">12 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">15 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>3.5. Militaires du rang engagés (**) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">15 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">12 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
-<p align="center">IV. - Sous-officiers et militaires du rang affectés <br/>en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés<br/>(non rattachés à une base aérienne) </p>
+<td>
+<p>IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne) </p>
 </td>
-<td width="57">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="74">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="65">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>4.1. Sous-officiers supérieurs (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>4.2. Sous-officiers subalternes de carrière (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>4.3. Sous-officiers sous contrat (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>4.4. Militaires du rang engagés (*) </p>
 </td>
-<td width="57">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="340">
+<td>
 <p>Total </p>
 </td>
-<td width="57">
+<td>
 <p align="center">54 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">27 </p>
 </td>
-<td width="74">
+<td>
 <p align="center">81 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">27 </p>
 </td>
-<td width="65">
+<td>
 <p align="center">81 </p>
 </td>
 </tr>
 <tr>
-<td colspan="6" width="664">
-<p>Application du critère géographique : <br/>(*) Tirage au sort au niveau national (sans application d'un critère géographique) : <br/>- officiers et sous-officiers du personnel navigant ; <br/>- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne. <br/>(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) : <br/>- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne. <br/>L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant : <br/>- critère géographique ou spécialité ; <br/>- ordre du tirage au sort ; <br/>- rang de suppléance ; <br/>- groupe de grade ; <br/>- lien juridique avec le service. <br/>Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées. </p>
+<td colspan="6">
+<p>Application du critère géographique :</p>
+<p>(*) Tirage au sort au niveau national (sans application d'un critère géographique) :</p>
+<p>- officiers et sous-officiers du personnel navigant ;</p>
+<p>- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne.</p>
+<p>(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) :</p>
+<p>- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne.</p>
+<p>L'ensemble des suppléants des corps et catégories de personnel constitue un "pool" qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :</p>
+<p>- critère géographique ou spécialité ;</p>
+<p>- ordre du tirage au sort ;</p>
+<p>- rang de suppléance ;</p>
+<p>- groupe de grade ;</p>
+<p>- lien juridique avec le service.</p>
+<p>Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées. </p>
 </td>
 </tr>
 </tbody>
@@ -1405,321 +1437,333 @@ Composition du conseil de la fonction militaire de la gendarmerie
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="350">
+<td rowspan="3">
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
-<td rowspan="3" width="61">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<td rowspan="3">
+<p align="center">NOMBRE<br/>total<br/>de<br/>titulaires </p>
 </td>
-<td colspan="4" width="266">
+<td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="135">
+<td colspan="2">
 <p align="center">Groupe A </p>
 </td>
-<td colspan="2" width="129">
+<td colspan="2">
 <p align="center">Groupe B </p>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="75">
+<td>
 <p align="center">Suppléants </p>
 </td>
-<td width="61">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="66">
+<td>
 <p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p align="center">I. - Officiers supérieurs </p>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="75">
+<td>
 <br/>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="66">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>1.1. Officiers de gendarmerie (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">4 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>1.2. Officiers des autres corps (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">1 (a) </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 (a) </p>
 </td>
-<td width="75">
-<p align="center">3 </p>
+<td>
+<p align="center">3 (a) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p align="center">II. - Officiers subalternes </p>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="75">
+<td>
 <br/>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="66">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>2.1. Officiers de gendarmerie (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">4 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>2.2. Officiers des autres corps (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p align="center">III. - Majors, gradés ou sous-officiers supérieurs </p>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="75">
+<td>
 <br/>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="66">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>3.1. Gradés gendarmerie (*) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">28 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">14 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">42 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">14 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">42 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>3.2. Sous-officiers CSTAGN (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>3.3. Commis greffiers (**) </p>
 </td>
-<td width="61">
-<p align="center">1 </p>
+<td>
+<p align="center">1 (b) </p>
 </td>
-<td width="59">
-<p align="center">1 </p>
+<td>
+<p align="center">1 (b) </p>
 </td>
-<td width="75">
-<p align="center">3 </p>
+<td>
+<p align="center">3 (b) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p align="center">IV. - Gendarmes ou sous-officiers subalternes </p>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="75">
+<td>
 <br/>
 </td>
-<td width="61">
+<td>
 <br/>
 </td>
-<td width="66">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>4.1. Gendarmes (*) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">33 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">16 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">48 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">17 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">51 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>4.2. Sous-officiers CSTAGN (**) </p>
 </td>
-<td width="61">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="350">
+<td>
 <p>Total </p>
 </td>
-<td width="61">
+<td>
 <p align="center">79 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">39 </p>
 </td>
-<td width="75">
+<td>
 <p align="center">111 </p>
 </td>
-<td width="61">
+<td>
 <p align="center">40 </p>
 </td>
-<td width="66">
+<td>
 <p align="center">112 </p>
 </td>
 </tr>
 <tr>
-<td colspan="6" width="682">
-<p>Application du critère géographique : <br/>(*) Sous-officiers de gendarmerie : tirage au sort au niveau des formations administratives ou groupe de formations administratives : <br/>- pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupes différents, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important. <br/>- pour la gendarmerie mobile : 2 représentants, de groupes différents, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, 4 représentants pour la région de gendarmerie d'Ile-de-France, dont 2, de groupes différents, pour l'ensemble des groupements de gendarmerie mobile et 2, de groupes différents, pour la garde républicaine. <br/>A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique. <br/>- 1 représentant pour chacune des 4 gendarmeries spécialisées ; <br/>- 1 représentant pour l'ensemble des écoles ; <br/>- 2 représentants, de groupes différents, pour l'ensemble des personnels des organismes centraux (DGGN, CAGN, CTGN) et des satellites ; <br/>- 2 représentants, de groupes différents, pour toutes les autres formations. <br/>(**) Autres catégories : tirage au sort au niveau national. <br/>(a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie. <br/>Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat. </p>
+<td colspan="6">
+<p>Application du critère géographique :</p>
+<p>(*) Sous-officiers de gendarmerie : tirage au sort au niveau des formations administratives ou groupe de formations administratives :</p>
+<p>- pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupe différent, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important.</p>
+<p>- pour la gendarmerie mobile : 2 représentants, de groupe différent, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, 4 représentants pour la région de gendarmerie d'Ile-de-France dont 2, de groupe différent, pour l'ensemble des groupements de gendarmerie mobile et 2, de groupe différent, pour la garde républicaine.</p>
+<p>A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique ;</p>
+<p>- 1 représentant pour chacune des 4 gendarmeries spécialisées ;</p>
+<p>- 1 représentant pour l'ensemble des écoles ;</p>
+<p>- 2 représentants, de groupes différents, pour l'ensemble des personnels des organismes centraux (DGGN, CAGN, CTGN) et des satellites ;</p>
+<p>- 2 représentants, de groupes différents, pour toutes les autres formations.</p>
+<p>(**) Autres catégories : tirage au sort au niveau national.</p>
+<p>(a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie.</p>
+<p>(b) A défaut, sous-officier supérieur CSTAGN.</p>
+<p>Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat. </p>
 </td>
 </tr>
 </tbody>
@@ -1732,215 +1776,215 @@ Composition du conseil de la fonction militaire de la direction générale de l'
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="349">
+<td rowspan="3">
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
-<td rowspan="3" width="63">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<td rowspan="3">
+<p align="center">NOMBRE<br/>total<br/>de<br/>titulaires </p>
 </td>
-<td colspan="4" width="260">
+<td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="132">
+<td colspan="2">
 <p align="center">Groupe A </p>
 </td>
-<td colspan="2" width="125">
+<td colspan="2">
 <p align="center">Groupe B </p>
 </td>
 </tr>
 <tr>
-<td width="58">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="73">
+<td>
 <p align="center">Suppléants </p>
 </td>
-<td width="62">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="62">
+<td>
 <p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p align="center">I. - Officiers supérieurs </p>
 </td>
-<td width="63">
+<td>
 <br/>
 </td>
-<td width="58">
+<td>
 <br/>
 </td>
-<td width="73">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>1.1. Ingénieurs de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">6 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>1.2. Ingénieurs des études et techniques de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">9 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>1.3. Officiers du corps technique et administratif de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p align="center">II. - Officiers subalternes </p>
 </td>
-<td width="63">
+<td>
 <br/>
 </td>
-<td width="58">
+<td>
 <br/>
 </td>
-<td width="73">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>2.1. Ingénieurs de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>2.2. Ingénieurs des études et techniques de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>2.3. Officiers du corps technique et administratif de l'armement </p>
 </td>
-<td width="63">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="349">
+<td>
 <p>Total </p>
 </td>
-<td width="63">
+<td>
 <p align="center">16 </p>
 </td>
-<td width="58">
+<td>
 <p align="center">8 </p>
 </td>
-<td width="73">
+<td>
 <p align="center">26 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">8 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">26 </p>
 </td>
 </tr>
@@ -1954,556 +1998,561 @@ Composition du conseil de la fonction militaire du service de santé des armées
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="351">
+<td rowspan="3">
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
-<td rowspan="3" width="64">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<td rowspan="3">
+<p align="center">NOMBRE<br/>total<br/>de<br/>titulaires </p>
 </td>
-<td colspan="4" width="259">
+<td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="132">
+<td colspan="2">
 <p align="center">Groupe A </p>
 </td>
-<td colspan="2" width="125">
+<td colspan="2">
 <p align="center">Groupe B </p>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="71">
+<td>
 <p align="center">Suppléants </p>
 </td>
-<td width="62">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="62">
+<td>
 <p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">I. - Officiers supérieurs </p>
+<td>
+<p align="center">I. - Médecins, pharmaciens et OCTASSA, officiers supérieurs </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>1.1. Médecins de carrière </p>
 </td>
-<td width="64">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">15 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">12 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>1.2. Médecins militaires commissionnés </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>1.3. Pharmaciens </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>1.4. Corps technique et administratif du SSA </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">II. - Officiers subalternes </p>
+<td>
+<p align="center">II. - Médecins, pharmaciens, internes et OCTASSA,<br/>officiers subalternes </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>2.1. Médecins de carrière </p>
 </td>
-<td width="64">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>2.2. Médecins officiers sous contrat </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>2.3. Pharmaciens </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>2.4. Internes </p>
 </td>
-<td width="64">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>2.5. Corps technique et administratif du SSA </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">III. - Vétérinaires des armées </p>
+<td>
+<p align="center">III. - Vétérinaires (1) </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>3.1. Vétérinaires des armées </p>
 </td>
-<td width="64">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">IV. - Chirurgiens-dentistes des armées </p>
+<td>
+<p align="center">IV. - Chirurgiens-dentistes (1) </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>4.1. Chirurgiens-dentistes des armées </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">V. - MITHA soumis aux lois et règlements<br/>applicables aux officiers </p>
+<td>
+<p align="center">V. - MITHA soumis aux lois<br/>et règlements applicables aux officiers </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>5.1. MITHA officiers </p>
 </td>
-<td width="64">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">5 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p align="center">VI. - MITHA soumis aux lois et règlements<br/>applicables aux sous-officiers </p>
+<td>
+<p align="center">VI. - MITHA soumis aux lois<br/>et règlements applicables aux sous-officiers </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>6.1. MITHA infirmiers servant dans les établissements du SSA hors CMA </p>
 </td>
-<td width="64">
+<td>
 <p align="center">7 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">12 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">9 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>6.2. MITHA infirmiers servant dans les forces et dans les CMA </p>
 </td>
-<td width="64">
+<td>
 <p align="center">7 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">12 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
-<p>6.3. MITHA autres non infirmiers </p>
+<td>
+<p>6.3. MITHA non infirmiers </p>
 </td>
-<td width="64">
+<td>
 <p align="center">6 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">9 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">9 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p align="center">VII. - Aumôniers des armées </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>7.1. Aumôniers des armées </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p align="center">VIII. - Militaires du rang </p>
 </td>
-<td width="64">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="71">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>8.1. Militaires du rang </p>
 </td>
-<td width="64">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
-<td width="351">
+<td>
 <p>Total </p>
 </td>
-<td width="64">
+<td>
 <p align="center">47 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">23 </p>
 </td>
-<td width="71">
+<td>
 <p align="center">83 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">24 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">88 </p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p>(1) Indifféremment officiers supérieurs ou subalternes. </p>
 </td>
 </tr>
 </tbody>
@@ -2516,255 +2565,255 @@ Composition du conseil de la fonction militaire du service des essences des arm�
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="353">
+<td rowspan="3">
 <p align="center">CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ </p>
 </td>
-<td rowspan="3" width="62">
-<p align="center">NOMBRE <br/>total de <br/>titulaires </p>
+<td rowspan="3">
+<p align="center">NOMBRE<br/>total<br/>de<br/>titulaires </p>
 </td>
-<td colspan="4" width="257">
+<td colspan="4">
 <p align="center">RÉPARTITION PAR GROUPE </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="132">
+<td colspan="2">
 <p align="center">Groupe A </p>
 </td>
-<td colspan="2" width="123">
+<td colspan="2">
 <p align="center">Groupe B </p>
 </td>
 </tr>
 <tr>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="72">
+<td>
 <p align="center">Suppléants </p>
 </td>
-<td width="59">
+<td>
 <p align="center">Titulaires </p>
 </td>
-<td width="62">
+<td>
 <p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p align="center">I. - Officiers </p>
+<td>
+<p align="center">I. - Officiers supérieurs </p>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="72">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="353">
+<td>
 <p>1.1. Corps des ingénieurs militaires des essences </p>
 </td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">6 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p align="center">Corps technique et administratif du SEA</p>
+<td>
+<p>1.2. Officiers supérieurs du corps technique et administratif </p>
 </td>
-<td width="62">
-<br/>
-</td>
-<td width="59">
-<br/>
-</td>
-<td width="72">
-<br/>
-</td>
-<td width="59">
-<br/>
-</td>
-<td width="62">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="353">
-<p>1.2. Officiers supérieurs </p>
-</td>
-<td width="62">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p>1.3. Officiers subalternes </p>
+<td>
+<p align="center">II. - Officiers subalternes </p>
 </td>
-<td width="62">
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.1. Officiers subalternes du corps technique et administratif </p>
+</td>
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">8 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">0 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">0 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p align="center">II. - Sous-officiers </p>
+<td>
+<p align="center">III. - Sous-officiers </p>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="72">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p>2.1. Sous-officiers supérieurs </p>
+<td>
+<p>3.1. Sous-officiers supérieurs </p>
 </td>
-<td width="62">
+<td>
 <p align="center">3 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">8 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p>2.2. Sous-officiers subalternes </p>
+<td>
+<p>3.2. Sous-officiers subalternes </p>
 </td>
-<td width="62">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">1 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">4 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p align="center">III. - Militaires du rang </p>
+<td>
+<p align="center">IV. - Militaires du rang </p>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="72">
+<td>
 <br/>
 </td>
-<td width="59">
+<td>
 <br/>
 </td>
-<td width="62">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="353">
-<p>3.1. Militaires du rang engagés </p>
+<td>
+<p>4.1. Militaires du rang </p>
 </td>
-<td width="62">
+<td>
 <p align="center">6 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">2 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">8 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">4 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">12 </p>
 </td>
 </tr>
 <tr>
-<td width="353">
+<td>
 <p>Total </p>
 </td>
-<td width="62">
+<td>
 <p align="center">15 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">7 </p>
 </td>
-<td width="72">
+<td>
 <p align="center">30 </p>
 </td>
-<td width="59">
+<td>
 <p align="center">8 </p>
 </td>
-<td width="62">
+<td>
 <p align="center">30</p>
 </td>
 </tr>
