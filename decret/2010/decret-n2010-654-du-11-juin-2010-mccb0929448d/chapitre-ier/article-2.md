@@ -8,7 +8,7 @@ Le conseil ne peut valablement délibérer que si la moitié au moins des membre
 
 Les délibérations sont prises à la majorité des votants. En cas de partage des voix, celle du président est prépondérante.
 
-Les membres du conseil d'administration désignés aux 2°, 3° et 4° de l'article 1er peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
+Les membres du conseil d'administration désignés aux 1°, 3°, 4° et 5° de l'article 1er peuvent donner, par écrit, mandat à un autre membre de les représenter à une séance. Chaque membre ne peut recevoir qu'un seul mandat.
 
 L'autorité chargée du contrôle financier et l'agent comptable assistent aux séances avec voix consultative.
 
