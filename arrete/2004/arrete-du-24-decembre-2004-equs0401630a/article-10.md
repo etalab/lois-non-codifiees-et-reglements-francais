@@ -1,3 +1,0 @@
-# Article 10
-
-La vérification de la conformité des véhicules réceptionnés par type national ou communautaire (CE) aux exigences définies aux articles 8 et 9 précédents est effectué par les autorités en charge de la réception désignées à l'article 3 de l'arrêté du 16 septembre 1994 susvisé. Le service technique désigné à l'article 3 de l'arrêté du 16 septembre 1994 susvisé est chargé de procéder à l'évaluation préliminaire du constructeur prévue à l'article 6 de la directive 2005/64/CE susvisée et de délivrer le certificat de conformité correspondant dans les conditions définies par cette directive.
