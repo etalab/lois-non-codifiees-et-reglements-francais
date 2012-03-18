@@ -161,3 +161,7 @@ Paris―Kayes (Mali)
 Jusqu'au 6 janvier 2017 :
 
 Paris―Tripoli (Libye).
+
+Jusqu'au 23 février 2017 :
+
+Strasbourg ― Alger (Algérie).
