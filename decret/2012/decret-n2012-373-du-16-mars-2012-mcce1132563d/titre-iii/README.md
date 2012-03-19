@@ -1,0 +1,3 @@
+# TITRE III : DISPOSITIONS DIVERSES ET FINALES
+
+- [Article 26](article-26.md)
