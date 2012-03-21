@@ -1279,7 +1279,6 @@
 - [Arrêté du 15 décembre 2010 (DEVR1032059A)](arrete-du-15-decembre-2010-devr1032059a)
 - [Arrêté du 15 décembre 2010 (EFIP1024737A)](arrete-du-15-decembre-2010-efip1024737a)
 - [Arrêté du 15 décembre 2010 (ETSW1032881A)](arrete-du-15-decembre-2010-etsw1032881a)
-- [Arrêté du 15 décembre 2011 (AGRT1133573A)](arrete-du-15-decembre-2011-agrt1133573a)
 - [Arrêté du 15 décembre 2011 (BCRB1131885A)](arrete-du-15-decembre-2011-bcrb1131885a)
 - [Arrêté du 15 décembre 2011 (DEVP1121778A)](arrete-du-15-decembre-2011-devp1121778a)
 - [Arrêté du 15 décembre 2011 (DEVS1131843A)](arrete-du-15-decembre-2011-devs1131843a)
