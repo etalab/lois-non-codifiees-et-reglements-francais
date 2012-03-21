@@ -19,15 +19,15 @@ Parmi les emplois mentionnés à l'article 1er, les emplois de chef de mission d
 </tr>
 <tr>
 <td>
-<p align="left">Secrétariat général</p>
+<p align="left">Direction générale des médias et des industries culturelles </p>
 </td>
 <td>
-<p align="left">Chef du bureau du fonctionnement des services</p>
+<p align="left">Chef du département des affaires financières et générales </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Direction générale de la création artistique</p>
+<p align="left">Direction générale de la création artistique </p>
 </td>
 <td>
 <p align="left">Délégué adjoint à la musique</p>

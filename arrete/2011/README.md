@@ -2221,7 +2221,6 @@
 - [Arrêté du 24 août 2011 (DEVR1124328A)](arrete-du-24-aout-2011-devr1124328a)
 - [Arrêté du 24 août 2011 (DEVR1124376A)](arrete-du-24-aout-2011-devr1124376a)
 - [Arrêté du 24 août 2011 (DEVS1121148A)](arrete-du-24-aout-2011-devs1121148a)
-- [Arrêté du 24 août 2011 (ETSP1123702A)](arrete-du-24-aout-2011-etsp1123702a)
 - [Arrêté du 24 août 2011 (MCCB1115801A)](arrete-du-24-aout-2011-mccb1115801a)
 - [Arrêté du 24 août 2011 (MENA1117571A)](arrete-du-24-aout-2011-mena1117571a)
 - [Arrêté du 24 août 2011 (MENA1117586A)](arrete-du-24-aout-2011-mena1117586a)

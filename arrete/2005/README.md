@@ -101,7 +101,6 @@
 - [Arrêté du 7 avril 2005 (AGRG0500832A)](arrete-du-7-avril-2005-agrg0500832a)
 - [Arrêté du 7 avril 2005 (DEFK0500490A)](arrete-du-7-avril-2005-defk0500490a)
 - [Arrêté du 7 avril 2005 (EQUA0500106A)](arrete-du-7-avril-2005-equa0500106a)
-- [Arrêté du 7 avril 2005 (SANP0521352A)](arrete-du-7-avril-2005-sanp0521352a)
 - [Arrêté du 7 décembre 2005 (AGRP0502780A)](arrete-du-7-decembre-2005-agrp0502780a)
 - [Arrêté du 7 décembre 2005 (INTC0500852A)](arrete-du-7-decembre-2005-intc0500852a)
 - [Arrêté du 7 décembre 2005 (MCCB0500862A)](arrete-du-7-decembre-2005-mccb0500862a)

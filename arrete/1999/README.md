@@ -414,7 +414,6 @@
 - [Arrêté du 20 septembre 1999 (MESP9922897A)](arrete-du-20-septembre-1999-mesp9922897a)
 - [Arrêté du 20 septembre 1999 (MESP9922898A)](arrete-du-20-septembre-1999-mesp9922898a)
 - [Arrêté du 20 septembre 1999 (MESP9922899A)](arrete-du-20-septembre-1999-mesp9922899a)
-- [Arrêté du 20 septembre 1999 (MESP9922900A)](arrete-du-20-septembre-1999-mesp9922900a)
 - [Arrêté du 20 mai 1999 (DEFP9901563A)](arrete-du-20-mai-1999-defp9901563a)
 - [Arrêté du 20 mai 1999 (DEFP9901564A)](arrete-du-20-mai-1999-defp9901564a)
 - [Arrêté du 20 mai 1999 (MAEC9900013A)](arrete-du-20-mai-1999-maec9900013a)
