@@ -1755,7 +1755,6 @@
 - [Arrêté du 20 décembre 2011 (DEVA1134813A)](arrete-du-20-decembre-2011-deva1134813a)
 - [Arrêté du 20 décembre 2011 (DEVL1134070A)](arrete-du-20-decembre-2011-devl1134070a)
 - [Arrêté du 20 décembre 2011 (ETSP1134861A)](arrete-du-20-decembre-2011-etsp1134861a)
-- [Arrêté du 20 décembre 2011 (ETSP1135442A)](arrete-du-20-decembre-2011-etsp1135442a)
 - [Arrêté du 20 décembre 2011 (MCCB1134233A)](arrete-du-20-decembre-2011-mccb1134233a)
 - [Arrêté du 20 décembre 2011 (MFPF1134853A)](arrete-du-20-decembre-2011-mfpf1134853a)
 - [Arrêté du 20 février 2007 (SANH0720859A)](arrete-du-20-fevrier-2007-sanh0720859a)
