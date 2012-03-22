@@ -589,7 +589,6 @@
 - [Arrêté du 29 avril 1999 (MENA9900957A)](arrete-du-29-avril-1999-mena9900957a)
 - [Arrêté du 29 avril 1999 (MESH9921582A)](arrete-du-29-avril-1999-mesh9921582a)
 - [Arrêté du 29 décembre 1998 (AGRM9802458A)](arrete-du-29-decembre-1998-agrm9802458a)
-- [Arrêté du 29 décembre 1998 (EQUA9801788A)](arrete-du-29-decembre-1998-equa9801788a)
 - [Arrêté du 29 décembre 1998 (MESP9824165A)](arrete-du-29-decembre-1998-mesp9824165a)
 - [Arrêté du 29 décembre 1999 (ECOF9900041A)](arrete-du-29-decembre-1999-ecof9900041a)
 - [Arrêté du 29 décembre 1999 (EQUU9901837A)](arrete-du-29-decembre-1999-equu9901837a)
