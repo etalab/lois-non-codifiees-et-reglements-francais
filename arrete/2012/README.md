@@ -693,6 +693,7 @@
 - [Arrêté du 28 février 2012 (MENE1206205A)](arrete-du-28-fevrier-2012-mene1206205a)
 - [Arrêté du 28 novembre 2011 (BCRE1128339A)](arrete-du-28-novembre-2011-bcre1128339a)
 - [Arrêté du 29 août 2001 (MENF0101288A)](arrete-du-29-aout-2001-menf0101288a)
+- [Arrêté du 29 décembre 1998 (EQUA9801788A)](arrete-du-29-decembre-1998-equa9801788a)
 - [Arrêté du 29 décembre 2011 (DEVA1135281A)](arrete-du-29-decembre-2011-deva1135281a)
 - [Arrêté du 29 décembre 2011 (DEVA1135287A)](arrete-du-29-decembre-2011-deva1135287a)
 - [Arrêté du 29 décembre 2011 (DEVA1135288A)](arrete-du-29-decembre-2011-deva1135288a)
