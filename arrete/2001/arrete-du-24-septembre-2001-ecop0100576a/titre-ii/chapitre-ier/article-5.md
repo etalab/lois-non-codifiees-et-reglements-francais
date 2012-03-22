@@ -1,6 +1,6 @@
 # Article 5
 
-Le concours externe pour le recrutement de techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie prévu à l'article 5-I du décret du 26 mars 1996 susvisé pourra comporter au titre de la spécialité biologie l'épreuve de présélection suivante :
+Le concours externe pour le recrutement de techniciens de laboratoire relevant des ministres chargés de l'économie et du budget prévu à l'article 5-I du    décret du 19 mars 2012 susvisé pourra comporter au titre de la spécialité biologie l'épreuve de présélection suivante :
 
 Epreuve unique (durée : une heure trente minutes) :
 
