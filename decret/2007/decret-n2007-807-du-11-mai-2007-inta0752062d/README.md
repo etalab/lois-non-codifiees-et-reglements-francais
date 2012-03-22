@@ -1,10 +1,15 @@
 # Décret n°2007-807 du 11 mai 2007 relatif aux associations, fondations, congrégations et établissements publics du culte et portant application de l'article 910 du code civil
 
 - [Article 1](article-1.md)
+- [Chapitre Ier : Libéralités consenties aux établissements français](chapitre-ier)
 - [Article 2](article-2.md)
+- [Chapitre II : Libéralités consenties aux Etats et aux établissements étrangers habilités par leur droit national à recevoir des libéralités](chapitre-ii)
 - [Article 3](article-3.md)
+- [Chapitre III : Dispositions diverses](chapitre-iii)
 - [Article 4](article-4.md)
+- [Chapitre IV : Rescrit administratif](chapitre-iv)
 - [Article 5](article-5.md)
+- [Chapitre V : Applicabilité outre-mer](chapitre-v)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)

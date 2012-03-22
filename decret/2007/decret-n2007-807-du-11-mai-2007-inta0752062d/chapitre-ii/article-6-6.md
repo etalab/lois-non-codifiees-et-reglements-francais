@@ -1,0 +1,3 @@
+# Article 6-6
+
+L'absence de décision d'opposition à l'acceptation d'une libéralité par un établissement étranger est sans effet sur son éligibilité éventuelle au bénéfice des exonérations de droits de mutation à titre gratuit prévues par l'article 795 du code général des impôts en faveur de certains organismes ou établissements. Ces exonérations fiscales s'appliquent aux établissements étrangers répondant aux mêmes conditions que les établissements français éligibles lorsqu'il existe en la matière un régime de réciprocité entre la France et l'Etat où l'établissement a son siège, cette réciprocité résultant d'une convention internationale relative aux doubles impositions ou d'un accord particulier.
