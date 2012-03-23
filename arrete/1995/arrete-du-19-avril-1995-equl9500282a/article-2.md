@@ -38,7 +38,7 @@ La composition de ces commissions est fixée ainsi qu'il suit:
 </td>
 </tr>
 <tr>
-<td rowspan="4" width="148">
+<td rowspan="3" width="148">
 <p align="center">1</p>
 <p align="center">Techniciens supérieurs de la météorologie</p>
 </td>
@@ -46,32 +46,21 @@ La composition de ces commissions est fixée ainsi qu'il suit:
 <p>Chef technicien</p>
 </td>
 <td width="79">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="75">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
-<td rowspan="4" width="80">
+<td rowspan="3" width="80">
 <p align="center">6</p>
 </td>
-<td rowspan="4" width="75">
+<td rowspan="3" width="75">
 <p align="center">6</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="148">
-<p>Technicien supérieur :</p>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="75">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>- de 1re classe</p>
+<p>Technicien supérieur de 1re classe</p>
 </td>
 <td width="79">
 <p align="center">2</p>
@@ -82,13 +71,13 @@ La composition de ces commissions est fixée ainsi qu'il suit:
 </tr>
 <tr>
 <td valign="top" width="148">
-<p>- de 2e classe</p>
+<p>Technicien supérieur de 2e classe</p>
 </td>
 <td width="79">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="75">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
