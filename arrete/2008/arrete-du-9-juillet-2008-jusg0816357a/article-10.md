@@ -6,7 +6,7 @@ La sous-direction des ressources humaines et des relations sociales comprend une
 
 ― le bureau du recrutement et de la formation ;
 
-― le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences ;
+―             le bureau de la gestion prévisionnelle des emplois, des compétences et des crédits de personnels ;
 
 ― le bureau des relations sociales et des statuts ;
 
