@@ -30,7 +30,7 @@ La maison départementale des personnes handicapées du Pas-de-Calais.
 
 La maison départementale des personnes handicapées de la Guadeloupe (MDPH).
 
-Le conseil général de Guadeloupe.
+Le conseil général de la Guadeloupe.
 
 Le groupement régional de santé publique de Guadeloupe.
 
@@ -38,7 +38,7 @@ Le centre hospitalier universitaire de Fort-de-France.
 
 La direction de la santé et du développement social de Martinique.
 
-Le conseil général de Martinique.
+Le conseil général de la Martinique.
 
 La maison départementale du handicap de Martinique.
 
@@ -48,7 +48,7 @@ La ville de Schœlcher.
 
 La caisse générale de sécurité sociale de la Martinique.
 
-L'Association RAPH97-2, réadaptation à l'autonomie de la personne.
+L'association RAPH97-2, réadaptation à l'autonomie de la personne.
 
 L'Office statistique des Communautés européennes à Luxembourg (EUROSTAT).
 
@@ -56,7 +56,7 @@ Les services statistiques ministériels listés en annexe du décret du 3 mars 2
 
 La direction générale de la cohésion sociale du ministère du travail, de la solidarité et de la fonction publique.
 
-L'Institut fédératif de recherche sur le handicap.
+L'institut fédératif de recherche sur le handicap.
 
 Le Centre technique national d'études et de recherche sur les handicaps et les inadaptations.
 
@@ -90,4 +90,10 @@ Le Centre d'études de l'emploi.
 
 Le Centre d'études et de recherches sur les qualifications.
 
-Novartis Pharma SAS, sise au 2-4, rue Lionel-Terray, 92500 Rueil-Malmaison (immatriculé sous le numéro 410 349 070 au répertoire national des entreprises et des établissements).
+Novartis Pharma SAS, sise 2-4, rue Lionel-Terray, 92500 Rueil-Malmaison (immatriculé sous le numéro 410 349 070 au répertoire national des entreprises et des établissements).
+
+Le Haut Conseil pour l'avenir de l'assurance maladie (HCAAM).
+
+L'Association nationale des centres régionaux pour l'enfance et l'adolescence inadaptées (ANCREAI).
+
+Les centres régionaux pour l'enfance et l'adolescence inadaptées (CREAI).
