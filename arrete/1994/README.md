@@ -735,7 +735,6 @@
 - [Arrêté du 23 décembre 1993 (SPSS9303745A)](arrete-du-23-decembre-1993-spss9303745a)
 - [Arrêté du 23 décembre 1993 (TEFS9301309A)](arrete-du-23-decembre-1993-tefs9301309a)
 - [Arrêté du 23 décembre 1994 (AGRM9402498A)](arrete-du-23-decembre-1994-agrm9402498a)
-- [Arrêté du 23 décembre 1994 (COMK9404003A)](arrete-du-23-decembre-1994-comk9404003a)
 - [Arrêté du 23 décembre 1994 (ECOT9420026A)](arrete-du-23-decembre-1994-ecot9420026a)
 - [Arrêté du 23 février 1994 (INDP9400305A)](arrete-du-23-fevrier-1994-indp9400305a)
 - [Arrêté du 23 février 1994 (JUSD9430008A)](arrete-du-23-fevrier-1994-jusd9430008a)
