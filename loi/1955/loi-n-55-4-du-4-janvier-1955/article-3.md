@@ -1,5 +1,5 @@
 # Article 3
 
-Le prix de la ligne d'annonces est fixé en même temps que la liste et pour la même période par arrêté du préfet, sur avis de la commission prévue à l'article 2, compte tenu de la situation économique et des salaires en vigueur dans les imprimeries de presse du département.
+Le prix de la ligne d'annonces est fixé chaque année, après avis des  organisations professionnelles les plus représentatives des entreprises  de presse, par arrêté conjoint des ministres chargés de la communication  et de l'économie. Ce prix, qui peut varier selon les départements,  tient compte notamment des coûts de publication et tend à limiter  progressivement la disparité des tarifs.
 
-Les journaux intéressés peuvent demander en cours d'année au préfet de réunir la commission en vue de l'examen d'une modification du prix de la ligne dans le cas de variation importante des différents éléments du prix de revient. Sur avis de la commission, le préfet peut prévoir un tarif réduit pour certaines catégories d'annonces, notamment pour les annonces faites par un annonceur bénéficiant de l'aide juridictionnelle.
+L'arrêté ministériel précité peut prévoir un  tarif réduit pour certaines catégories d'annonces, notamment pour celles  faites par un annonceur bénéficiant de l'aide juridictionnelle ou pour  les annonces publiées dans le cadre des procédures collectives. Dans ce  dernier cas, la réduction du prix peut être au maximum de 50 % par  rapport au prix de l'annonce calculé par application du tarif à la  ligne.

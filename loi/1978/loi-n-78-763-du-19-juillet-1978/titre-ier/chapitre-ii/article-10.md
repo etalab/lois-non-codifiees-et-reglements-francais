@@ -2,6 +2,6 @@
 
 Sauf stipulations contraires des statuts :
 
-La démission ou le licenciement qui repose sur une cause réelle et sérieuse entraîne la perte de la qualité d'associé ;
+1°  A l'exception des cas mentionnés à l'article 11, toute rupture du  contrat de travail entraîne la perte de la qualité d'associé ;
 
-La renonciation volontaire à la qualité d'associé entraîne la rupture du contrat de travail.
+2° La renonciation volontaire à la qualité d'associé entraîne la rupture du contrat de travail.

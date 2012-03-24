@@ -1,0 +1,7 @@
+# Article 1
+
+Sont considérées comme agences de presse, au sens de la présente ordonnance, les entreprises commerciales qui collectent, traitent, mettent en forme et fournissent à titre professionnel tous éléments d'information ayant fait l'objet sous leur propre responsabilité d'un traitement journalistique et dont la moitié au moins du chiffre d'affaires provient de la fourniture de ces éléments à des entreprises éditrices de publications de presse, au sens de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, à des éditeurs de services de communication au public par voie électronique et à des agences de presse.
+
+Ne peuvent se prévaloir des dispositions de la présente ordonnance, de l'appellation " agence de presse ” et des avantages qui s'y attachent que les organismes inscrits sur une liste établie par arrêté conjoint des ministres chargés de la communication et du budget, pris sur proposition d'une commission présidée par un membre du Conseil d'Etat et comprenant en nombre égal, d'une part, des représentants de l'administration et, d'autre part, des représentants des agences de presse. Si un représentant des agences de presse se trouve en situation de conflit d'intérêts sur une demande d'inscription, il ne prend pas part aux débats ni au vote sur cette demande.
+
+L'inscription ne peut être refusée aux organismes remplissant les conditions prévues par la présente ordonnance.

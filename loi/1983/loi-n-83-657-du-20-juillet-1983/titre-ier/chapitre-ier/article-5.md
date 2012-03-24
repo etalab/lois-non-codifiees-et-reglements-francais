@@ -4,6 +4,8 @@ Les actes et documents émanant de la coopérative et destinés aux tiers, notam
 
 Les gérants, le président, les administrateurs, les directeurs généraux, les membres du directoire ou du conseil de surveillance qui auront contrevenu aux dispositions de l'alinéa précédent seront punis des peines prévues à l'article L. 246-1 du code de commerce précité.
 
-L'appellation "société coopérative artisanale" ne peut être utilisée que par les sociétés coopératives fonctionnant conformément au présent titre. L'emploi illicite de cette appellation ou de toute expression de nature à prêter à confusion avec celle-ci est puni d'une amende de 4500 euros.
+L'appellation "société coopérative artisanale" ne peut être utilisée que par les sociétés coopératives fonctionnant conformément au présent titre.
 
-Le tribunal pourra, en outre, ordonner la publication du jugement aux frais du condamné dans deux journaux au maximum et son affichage dans les conditions prévues à l'article 131-35 du code pénal.
+Toute  personne intéressée peut demander au président du tribunal compétent  statuant en référé d'enjoindre, le cas échéant sous astreinte, à la  personne concernée de supprimer la mention : " société coopérative artisanale ” utilisée de manière illicite ainsi que toute expression de nature à prêter à confusion avec celle-ci.
+
+Le président du tribunal peut, en outre, ordonner la publication de la  décision, son affichage dans les lieux qu'il désigne, son insertion  intégrale ou par extraits dans les journaux et sa diffusion par un ou  plusieurs services de communication au public en ligne qu'il indique, le  tout aux frais des dirigeants de l'organisme ayant utilisé la  dénomination en cause.

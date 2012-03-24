@@ -1,18 +1,18 @@
 # Article 37
 
-I. - Les dispositions de l'article L. 1241-5 du code de la santé publique entrent en vigueur à la date de publication du décret nommant le directeur général de l'Agence de la biomédecine.
+I.-Les dispositions de l'article L. 1241-5 du code de la santé publique entrent en vigueur à la date de publication du décret nommant le directeur général de l'Agence de la biomédecine.
 
-II. - A titre transitoire et jusqu'à la date où sont publiés le décret en Conseil d'Etat prévu à l'article L. 2151-8 du même code et le décret portant nomination du directeur général de l'Agence de la biomédecine, le ministre chargé de la santé et le ministre chargé de la recherche peuvent autoriser conjointement par arrêté :
+II.-A titre transitoire et jusqu'à la date où sont publiés le décret en Conseil d'Etat prévu à l'article L. 2151-8 du même code et le décret portant nomination du directeur général de l'Agence de la biomédecine, le ministre chargé de la santé et le ministre chargé de la recherche peuvent autoriser conjointement par arrêté :
 
 1° L'importation, à des fins de recherche, de cellules souches embryonnaires dans le respect des principes fondamentaux prévus par les articles 16 à 16-8 du code civil ;
 
 2° Des protocoles d'étude et de recherche sur ces cellules souches embryonnaires importées dans le respect des conditions suivantes :
 
-- l'étude ou la recherche concerne des cellules souches issues d'embryons conçus in vitro dans le cadre d'une assistance médicale à la procréation et ne faisant plus l'objet d'un projet parental ;
+-l'étude ou la recherche concerne des cellules souches issues d'embryons conçus in vitro dans le cadre d'une assistance médicale à la procréation et ne faisant plus l'objet d'un projet parental ;
 
-- le couple dont ces embryons sont issus, ou le membre survivant de ce couple, ont consenti préalablement à ce que ces embryons fassent l'objet de recherches ;
+-le couple dont ces embryons sont issus, ou le membre survivant de ce couple, ont consenti préalablement à ce que ces embryons fassent l'objet de recherches ;
 
-- l'étude ou la recherche est susceptible de permettre des progrès thérapeutiques majeurs et ne peut être poursuivie par une méthode alternative d'efficacité comparable en l'état des connaissances scientifiques.
+-l'étude ou la recherche est susceptible de permettre des progrès thérapeutiques majeurs et ne peut être poursuivie par une méthode alternative d'efficacité comparable en l'état des connaissances scientifiques.
 
 La décision autorisant l'étude ou la recherche est prise en fonction de la pertinence scientifique du protocole, de ses conditions de mise en oeuvre au regard des principes éthiques et de son intérêt pour la santé publique ;
 
@@ -38,7 +38,7 @@ Aucune recherche ne peut être autorisée si elle a fait l'objet d'un avis défa
 
 Les autorisations prévues au 2° sont délivrées pour une durée de cinq ans.
 
-Un organisme titulaire de l'autorisation mentionnée au 3° ne peut céder les cellules souches embryonnaires qu'à un organisme bénéficiant lui-même d'une autorisation prévue au 2° ou au 3° et qu'après en avoir informé les ministres chargés de la santé et de la recherche. L'Agence française de sécurité sanitaire des produits de santé est informée des activités de conservation à des fins scientifiques de cellules souches embryonnaires réalisées sur le même site que des activités autorisées par elle en application des articles L. 1243-2 et L. 1243-5 du code de la santé publique.
+Un organisme titulaire de l'autorisation mentionnée au 3° ne peut céder les cellules souches embryonnaires qu'à un organisme bénéficiant lui-même d'une autorisation prévue au 2° ou au 3° et qu'après en avoir informé les ministres chargés de la santé et de la recherche. L'Agence française de sécurité sanitaire des produits de santé est informée des activités de conservation à des fins scientifiques de cellules souches embryonnaires réalisées sur le même site que des activités autorisées par elle en application de l'article L. 1243-2 du code de la santé publique.
 
 En cas de violation des dispositions législatives et réglementaires ou de celles fixées par l'autorisation, les autorisations prévues aux 2° et 3° peuvent être à tout moment suspendues ou retirées conjointement par les ministres chargés de la santé et de la recherche, après avis du comité ad hoc. A compter de la date où sont publiés le décret en Conseil d'Etat prévu à l'article L. 2151-8 du code de la santé publique et le décret portant nomination du directeur général de l'Agence de la biomédecine, l'agence devient compétente en matière de retrait ou de suspension des autorisations précitées.
 

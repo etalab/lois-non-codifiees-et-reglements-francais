@@ -1,6 +1,6 @@
 # Article 45
 
-I. ― Le choix du regroupement exercé en application du III de l'article 5-2 du code de l'artisanat est effectué avant une date fixée par décret et au plus tard le 1er janvier 2011.
+I. ― Le choix du regroupement exercé en application du III de l'article 5-2 du code de l'artisanat est effectué avant une date fixée par décret.
 
 II. ― Les personnels employés par les chambres de métiers et de l'artisanat qui occupent les fonctions exercées au niveau régional en application du IV de l'article 5-2 du même code sont transférés à la chambre de métiers et de l'artisanat de région ou à la chambre régionale de métiers et de l'artisanat au 1er janvier 2011, qui en devient l'employeur. Les modalités de ce transfert font l'objet d'une décision de la chambre de métiers et de l'artisanat de région ou de la chambre régionale de métiers et de l'artisanat, prise après l'avis de la commission paritaire locale compétente.
 

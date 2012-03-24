@@ -4,4 +4,4 @@ Les sociétés coopératives ouvrières de production sont formées par des trav
 
 Les associés se groupent et se choisissent librement.
 
-Les sociétés coopératives ouvrières de production peuvent prendre l'appellation de sociétés coopératives de travailleurs, ou de sociétés coopératives de production, lorsque leurs statuts le prévoient.
+Les sociétés coopératives ouvrières de production peuvent prendre l'appellation de sociétés coopératives de travailleurs, ou de sociétés coopératives de production  ou encore de sociétés coopératives et participatives, lorsque leurs statuts le prévoient.

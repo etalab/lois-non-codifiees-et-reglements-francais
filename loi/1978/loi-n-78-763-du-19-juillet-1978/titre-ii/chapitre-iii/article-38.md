@@ -4,4 +4,4 @@ Trente jours au moins avant l'ouverture de la souscription, les salariés répon
 
 Le comité d'entreprise ou, à défaut, les délégués du personnel et les commissaires aux comptes sont informés dans les mêmes conditions.
 
-Les commissaires aux comptes, dans leur rapport à l'assemblée des associés ou, selon le cas, à l'assemblée générale rendent compte des conditions dans lesquelles les dispositions du présent chapitre ont été appliquées.
+Les commissaires aux comptes ou, à défaut de commissaires aux comptes, les gérants, dans leur rapport à l'assemblée des associés ou, selon le cas, à l'assemblée générale rendent compte des conditions dans lesquelles les dispositions du présent chapitre ont été appliquées.
