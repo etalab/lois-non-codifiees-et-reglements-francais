@@ -4,27 +4,45 @@ Peuvent être pris en charge au titre des missions mentionnées au 1° de l'arti
 
 1° Au titre de la recherche médicale et de l'innovation :
 
-a) Les structures d'appui à la recherche clinique, notamment les centres de recherche clinique, les départements de recherche clinique et d'innovation, les centres d'investigation clinique, les centres d'épidémiologie clinique et les centres d'investigation technologique ;
+a) Les centres d'investigation clinique ;
 
-b) Les centres de ressources biologiques ;
+b) Les centres de recherche clinique ;
 
-c) Les projets de recherche entrant dans le cadre du programme hospitalier de recherche clinique ;
+c) Les délégations à la recherche clinique et à l'innovation ;
 
-d) Les actions de recherche faisant l'objet d'un contrat entre les établissements publics à caractère scientifique et technologique et les établissements de santé ;
+d) Les centres de ressources biologiques et tumorothèques ;
 
-e) Les programmes de soutien aux techniques innovantes et coûteuses ;
+e) Les projets de recherche entrant dans le programme hospitalier de recherche clinique national (PHRCN) ;
 
-f) L'emploi de techniciens et d'assistants de recherche clinique pour la réalisation d'essais cliniques dans les services de soins prévus dans le cadre de la politique nationale de lutte contre le cancer ;
+f) Les projets de recherche entrant dans le programme hospitalier de recherche clinique en cancérologie (PHRCK) ;
 
-g) Les délégations interrégionales à la recherche clinique.
+g) Les projets de recherche entrant dans le programme hospitalier de recherche clinique interrégional (PHRCI) ;
+
+h) Les projets de recherche entrant dans le programme de recherche translationnelle (PRT) ;
+
+i) Les projets de recherche entrant dans le programme de recherche translationnelle en cancérologie (PRTK) ;
+
+j) Les projets de recherche entrant dans le programme de recherche sur la performance du système de soins (PREPS) ;
+
+k) Les projets de recherche entrant dans le programme hospitalier de recherche infirmière et paramédicale (PHRIP) ;
+
+l) Les contrats hospitaliers de recherche translationnelle (CHRT) ;
+
+m) Le programme de soutien aux techniques innovantes (PSTI) ;
+
+n) Le programme de soutien aux techniques innovantes en cancérologie (PSTIC) ;
+
+o) Les emplois de technicien et d'assistant de recherche clinique pour la réalisation d'essais cliniques dans les services de soins prévus dans le cadre de la politique nationale de lutte contre le cancer ;
+
+p) Les groupements interrégionaux de recherche clinique et d'innovation ;
+
+q) L'effort d'expertise des établissements de santé.
 
 2° Au titre des missions d'enseignement et de formation des personnels médicaux et paramédicaux :
 
-a) Les actions de téléenseignement et de téléformation ;
+a) Les stages de résidents de radiophysiciens prévus dans le cadre de la politique nationale de lutte contre le cancer ;
 
-b) Les stages de résidents de radiophysiciens prévus dans le cadre de la politique nationale de lutte contre le cancer ;
-
-c) Le financement de la rémunération des internes en médecine, pharmacie et en odontologie.
+b) Le financement de la rémunération des internes en médecine, pharmacie et en odontologie.
 
 3° Au titre des missions de recherche, d'enseignement, de formation, d'expertise, de coordination et d'évaluation des soins relatifs à certaines pathologies ainsi que des activités hautement spécialisées :
 
@@ -42,19 +60,17 @@ f) Les centres de ressources et de compétences sur la mucoviscidose ;
 
 g) Les centres de référence sur la sclérose latérale amyotrophique ;
 
-h) Les centres de référence sur la mort subite du nourrisson ;
+h) Les centres de référence sur la mort inattendue du nourrisson ;
 
-i) Les centres de référence d'implantation cochléaire ;
+i) Les centres d'implantation cochléaire et du tronc cérébral ;
 
 j) Les centres de ressources sur les maladies professionnelles ;
 
-k) Le centre national d'aide à la prise en charge des encéphalopathies spongiformes subaiguës transmissibles ;
+k) Les services experts de lutte contre les hépatites virales ;
 
-l) Les pôles de référence hépatite C ;
+l) Les centres pluridisciplinaires de diagnostic prénatal ;
 
-m) Les centres pluridisciplinaires de diagnostic prénatal ;
-
--les centres de diagnostic préimplantatoire ;
+m) Les centres de diagnostic préimplantatoire ;
 
 n) Les centres nationaux de référence pour la lutte contre les maladies transmissibles mentionnés à l'article L. 1413-4 du code de la santé publique ;
 
@@ -66,7 +82,7 @@ a) Les laboratoires d'oncogénétique, de génétique moléculaire, de cytogén�
 
 b) Les centres de référence pour le traitement de l'hypercholestérolémie majeure par épuration extracorporelle ;
 
-c) Les médicaments bénéficiant d'une autorisation temporaire d'utilisation en application des dispositions de l'article L. 5121-12 du code de la santé publique ;
+c) Les médicaments bénéficiant ou ayant bénéficié d'une autorisation temporaire d'utilisation en attente de leur agrément ;
 
 d) Les actes dentaires, les actes de biologie et les actes d'anatomo-cyto-pathologie non inscrits sur la liste prévue à l'article L. 162-1-7 du code de la sécurité sociale à l'exception des activités d'hygiène hospitalière et des typages HLA effectués dans le cadre de l'activité de greffe ;
 
