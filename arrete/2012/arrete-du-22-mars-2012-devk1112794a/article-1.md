@@ -1,0 +1,7 @@
+# Article 1
+
+Les éléments de rémunération pris en considération au titre de l'article 3 du décret du 22 mars 2012 susvisé sont les suivants :
+
+1° Primes et indemnités attachées à la fonction : prime pour services rendus prévue par le décret du 26 juillet 1955 susvisé, prime de rendement prévue à l'article 13 du décret du 21 mai 1965 susvisé, indemnité d'administration et de technicité prévue par le décret n° 2002-61 du 14 janvier 2002 susvisé, indemnité forfaitaire pour travaux supplémentaires prévue par le décret n° 2002-63 du 14 janvier 2002 susvisé, prime de métier prévue par le décret n° 2002-533 du 16 avril 2002 susvisé, prime technique de l'entretien, des travaux et de l'exploitation prévue par le décret n° 2002-534 du 16 avril 2002 susvisé, indemnité spécifique de service prévue par le décret du 25 août 2003 susvisé, prime de fonctions et de résultats prévue par le décret du 22 décembre 2008 susvisé, prime de service et de rendement prévue par le décret du 15 décembre 2009 susvisé ;
+
+2° Indemnités liées à l'organisation du service : indemnités horaires pour travaux supplémentaires prévues par le décret n° 2002-60 du 14 janvier 2002, indemnité de sujétions horaires prévue par le décret n° 2002-532 du 16 avril 2002 susvisé, indemnité d'astreinte prévue par le décret du 15 avril 2003 susvisé, indemnité de permanence en dortoir prévue par le décret du 18 juin 2003 susvisé et heures supplémentaires prévues à l'article 17 du décret du 21 mai 1965 susvisé.
