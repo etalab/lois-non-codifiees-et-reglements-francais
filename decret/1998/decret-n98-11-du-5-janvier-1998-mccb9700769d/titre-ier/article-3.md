@@ -6,4 +6,6 @@ Pour l'accomplissement de ses missions, le Centre national de la danse peut nota
 
 2° Réaliser et commercialiser, directement ou indirectement, tout produit ou service lié à ses missions de diffusion, de formation et de recherche ;
 
-3° Coopérer avec les collectivités territoriales ainsi que les organismes, fondations et associations, français ou étrangers, poursuivant des objectifs répondant à sa vocation ; le centre peut également prendre des participations dans le capital de sociétés poursuivant des objectifs similaires.
+3° Coopérer avec les collectivités territoriales ainsi que les organismes, fondations et associations, français ou étrangers, poursuivant des objectifs répondant à sa vocation ; le centre peut également prendre des participations dans le capital de sociétés poursuivant des objectifs similaires ;
+
+4° Attribuer des subventions et aides particulières dans les domaines de la recherche, du patrimoine et de la pratique de la danse en amateur.

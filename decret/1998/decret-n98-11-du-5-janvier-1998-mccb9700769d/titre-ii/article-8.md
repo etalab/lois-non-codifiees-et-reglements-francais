@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur :
 
 1° Les orientations ainsi que les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2° Le contrat d'objectifs mentionné à l'article 15, conclu entre l'établissement et le ministre chargé de la culture ;
+2° Le contrat de performance  mentionné à l'article 15, conclu entre l'établissement et le ministre chargé de la culture ;
 
 3° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
 
@@ -16,7 +16,7 @@ Le conseil d'administration délibère sur :
 
 7° La programmation des manifestations artistiques ou culturelles, des activités de formation professionnelle ainsi que des expositions ;
 
-8° Les orientations générales de la politique d'acquisition des oeuvres et objets destinés à prendre place dans les collections nationales dont il a la garde ;
+8° Les orientations générales de la politique d'acquisition des oeuvres et objets destinés à prendre place dans ses collections  ;
 
 9° Les conventions conclues en application des dispositions prévues au 3° de l'article 3 ;
 
@@ -36,8 +36,14 @@ Le conseil d'administration délibère sur :
 
 17° L'exercice des actions en justice et les transactions ;
 
-18° Les concessions et autorisations d'occupation et d'exploitation de son domaine ainsi que les délégations de service public.
+18° Les concessions et autorisations d'occupation et d'exploitation de son domaine ainsi que les délégations de service public ;
+
+19° Les projets de conventions d'utilisation des immeubles appartenant ou détenus en jouissance par l'Etat ;
+
+20° Les critères d'attribution des subventions et aides prévues à l'article 3 ;
+
+21° Le nombre, les compétences et les modalités de fonctionnement des commissions qu'il peut créer pour l'exercice de ses missions, et notamment des commissions spécialisées chargées de donner un avis sur l'attribution des subventions et aides prévues à l'article 3.
 
 Le conseil d'administration donne son avis sur toute question sur laquelle le ministre chargé de la culture le consulte.
 
-Le conseil d'administration peut déléguer au directeur général les attributions prévues aux 9° et 17° dans les limites qu'il détermine.
+Le conseil d'administration peut déléguer au directeur général les attributions prévues aux 9° et 17° dans les limites qu'il détermine. Le directeur général rend compte des décisions qu'il a prises en vertu de cette délégation dès la séance du conseil d'administration qui leur fait suite.

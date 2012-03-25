@@ -18,6 +18,10 @@ Le directeur général :
 
 8° Passe tous actes, contrats ou marchés ;
 
-9° Représente l'établissement en justice et dans tous les actes de la vie civile.
+9° Représente l'établissement en justice et dans tous les actes de la vie civile ;
+
+10° Attribue les subventions et aides prévues à l'article 3 ;
+
+11° Peut, sans autorisation préalable du conseil d'administration, accepter provisoirement et à titre conservatoire les dons et legs qui sont faits à l'établissement. L'acceptation définitive des dons et legs est inscrite à l'ordre du jour de la plus prochaine séance du conseil d'administration.
 
 Pour l'exercice de ses attributions, il peut déléguer sa signature aux directeurs et chefs de service placés sous son autorité.

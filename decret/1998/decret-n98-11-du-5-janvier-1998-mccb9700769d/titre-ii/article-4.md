@@ -4,7 +4,11 @@ Le Centre national de la danse est administré par un conseil d'administration, 
 
 1° Sept membres de droit :
 
-- trois représentants du ministre chargé de la culture dont le directeur chargé de la danse et le directeur de l'administration générale, ou leurs représentants ;
+- le directeur général de la création artistique, ou son représentant ;
+
+- le secrétaire général au ministère chargé de la culture, ou son représentant ;
+
+- le délégué à la danse, ou son représentant ;
 
 - le président de l'Etablissement public du parc et de la grande halle de La Villette, ou son représentant ;
 
@@ -16,6 +20,6 @@ Le Centre national de la danse est administré par un conseil d'administration, 
 
 2° Quatre personnalités qualifiées, nommées par arrêté du ministre chargé de la culture pour une durée de trois ans renouvelable. En cas de vacance, pour quelque cause que ce soit, survenant plus de trois mois avant l'expiration de leur mandat, un autre membre est désigné dans les mêmes conditions, pour la durée du mandat restant à courir ;
 
-3° Deux représentants élus des salariés pour une durée de trois ans renouvelable. En cas de vacance, pour quelque cause que ce soit, survenant plus de trois mois avant l'expiration de leur mandat, un autre représentant est élu dans les mêmes conditions, pour la durée du mandat restant à courir.
+3° Deux représentants élus des salariés pour une durée de trois ans renouvelable. En cas de vacance, pour quelque cause que ce soit, survenant plus de six mois avant l'expiration de leur mandat, un autre représentant est élu dans les mêmes conditions, pour la durée du mandat restant à courir.
 
 Les représentants des salariés sont élus dans les conditions prévues au chapitre II du titre II de la loi du 26 juillet 1983 susvisée ; leur statut est celui que définit le chapitre III de ce titre.

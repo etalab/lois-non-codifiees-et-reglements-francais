@@ -12,4 +12,4 @@ Les charges de l'établissement comprennent :
 
 5° Les impôts et contributions de toute nature ;
 
-6° De façon générale, toutes les dépenses nécessaires à l'accomplissement par l'établissement de ses missions.
+6° Les subventions et aides particulières versées à des tiers et, de façon générale, toutes les dépenses nécessaires à l'accomplissement par l'établissement de ses missions.
