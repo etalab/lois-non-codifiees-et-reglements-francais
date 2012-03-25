@@ -1,12 +1,20 @@
 # Article 55-2
 
-La contribution de l'Etat à la rétribution des avocats désignés d'office intervenant au cours de la garde à vue est de 61 euros.
+La contribution de l'Etat à la rétribution des avocats désignés d'office intervenant au cours de la garde à vue est, selon la nature de l'intervention, de :
 
-Elle est majorée de 31 euros lorsque l'intervention a lieu de nuit, entre 22 heures et 7 heures, et de 23 euros lorsque l'intervention a lieu hors des limites de la commune du siège du tribunal de première instance.
+61 euros hors taxes pour l'entretien mentionné à l'article 63-4 du code de procédure pénale lorsque l'intervention de l'avocat se limite à cet entretien au début de la garde à vue ou de la prolongation de cette mesure ;
 
-Ces deux majorations sont cumulables.
+300 euros hors taxes pour l'entretien au début de la garde à vue et l'assistance de la personne gardée à vue au cours de ses auditions et confrontations ;
 
-Toutefois, lorsque le même avocat est appelé à intervenir pour plusieurs personnes gardées à vue dans un même lieu lors d'un même déplacement, ces majorations ne peuvent être perçues qu'une fois.
+150 euros hors taxes pour l'entretien au début de la prolongation de la garde à vue et l'assistance de la personne gardée à vue au cours de ses auditions et confrontations pendant cette prolongation ;
+
+150 euros hors taxes pour l'assistance de la victime lors de confrontations avec une personne gardée à vue.
+
+Lorsqu'un avocat effectue plusieurs interventions dans une période de vingt-quatre heures, le montant total de la contribution due est déterminé sur la base de la rétribution mentionnée aux alinéas précédents selon la nature de l'intervention, dans la limite d'un plafond de 1 200 € hors taxes.
+
+Lorsqu'un avocat désigné d'office est, au cours d'une mesure de garde à vue, remplacé au même titre par un autre avocat désigné d'office, il n'est dû qu'une seule contribution de l'Etat. Cette contribution est versée au second avocat dans les conditions prévues à l'article 46.
+
+Les dispositions des alinéas précédents sont applicables à la rétribution des avocats désignés d'office intervenant au cours de la retenue douanière dans les conditions prévues par le code des douanes.
 
 La contribution de l'Etat à la rétribution de l'avocat intervenant au cours d'une procédure de médiation ou de composition pénales ou au cours d'une mesure ou activité d'aide ou de réparation prévue par l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante est fixée à 46 euros hors taxes.
 

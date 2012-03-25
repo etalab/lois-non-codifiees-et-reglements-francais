@@ -6,7 +6,9 @@ Les montants des contributions dues par l'Etat font l'objet, à l'intérieur du 
 
 2° Selon le cas :
 
--le nom de la personne gardée à vue, le lieu, la date et l'heure de l'intervention ;
+- le nom de la personne gardée à vue ou placée en retenue douanière, le lieu, le numéro de procès-verbal, la nature de l'intervention (entretien seul ou entretien et assistance), la date et l'heure de début et de fin d'intervention ;
+
+- le nom de la victime lors d'une confrontation avec une personne gardée à vue, le lieu, le numéro de procès-verbal, la nature de l'intervention, la date et l'heure de début et de fin d'intervention ;
 
 -le nom de la personne détenue assistée, l'objet de la procédure, le lieu, la date et l'heure de l'intervention ;
 

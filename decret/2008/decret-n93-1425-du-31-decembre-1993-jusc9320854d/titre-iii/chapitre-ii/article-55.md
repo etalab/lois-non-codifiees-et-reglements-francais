@@ -10,4 +10,4 @@ Les modalités et le montant de ce paiement sont déterminés dans chaque barrea
 
 Le versement de ces sommes à la caisse des règlements pécuniaires des avocats est effectué à partir d'un état récapitulatif des déplacements des avocats qui doit comporter le nom des avocats, les dates, les lieux et la nature des audiences ainsi que le coût des transports supérieurs à 1 000 kilomètres. Cet état est établi par la caisse des règlements pécuniaires des avocats ; il est visé par le greffier en chef.
 
-Le montant ainsi calculé des sommes devant être versées à la caisse des règlements pécuniaires des avocats est fixé par arrêté du garde des sceaux, ministre de la justice. Le versement est effectué par ordonnance directe émise par le garde des sceaux, ministre de la justice.
+Le montant ainsi calculé des sommes devant être versées à la caisse des règlements pécuniaires des avocats est fixé par arrêté de l'ordonnateur compétent.

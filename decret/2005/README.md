@@ -13,7 +13,6 @@
 - [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
 - [Décret n°2005-944 du 2 août 2005 (ECOC0500063D)](decret-n2005-944-du-2-aout-2005-ecoc0500063d)
 - [Décret n°75-614 du 2 juillet 1975](decret-n75-614-du-2-juillet-1975)
-- [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
 - [Décret n°2005-1261 du 3 octobre 2005 (INDX0508743D)](decret-n2005-1261-du-3-octobre-2005-indx0508743d)
 - [Décret n°2005-98 du 3 février 2005 (INTB0500030D)](decret-n2005-98-du-3-fevrier-2005-intb0500030d)
 - [Décret n°80-993 du 3 décembre 1980](decret-n80-993-du-3-decembre-1980)

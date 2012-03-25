@@ -1,6 +1,6 @@
 # Article 27
 
-Lorsque le demandeur ne demeure pas en France ou lorsque, demeurant à Mayotte, dans les îles Wallis et Futuna ou en Nouvelle-Calédonie, il a saisi ou envisage de saisir une juridiction ayant son siège en métropole, dans un département d'outre-mer, à Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon ou en Polynésie française, le bureau territorialement compétent est :
+Lorsque le demandeur ne demeure pas en France ou lorsque, demeurant dans les îles Wallis et Futuna ou en Nouvelle-Calédonie, il a saisi ou envisage de saisir une juridiction ayant son siège en métropole, dans un département d'outre-mer, à Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon ou en Polynésie française, le bureau territorialement compétent est :
 
 1° Pour les affaires portées devant une juridiction de première instance de l'ordre judiciaire, une cour d'assises ou la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail prévue par l'article L. 143-3 du code de la sécurité sociale, celui qui est établi au siège du tribunal de grande instance dans le ressort duquel est installée la juridiction devant laquelle l'affaire est ou doit être portée ;
 
