@@ -28,8 +28,10 @@ Ce décret fixe également les modalités particulières d'application de la pr�
 
 1° Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
 
-2° Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion ainsi que dans la collectivité territoriale de Saint-Pierre-et-Miquelon, notamment les plafonds de ressources.
+2° Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion ainsi que dans la collectivité territoriale de Saint-Pierre-et-Miquelon, notamment les plafonds de ressources ;
 
-3° En Polynésie française, notamment les conditions de rémunération de l'avocat du bénéficiaire de l'aide juridictionnelle partielle, les règles de composition et de fonctionnement du conseil de l'accès au droit et les modalités d'indemnisation des frais de déplacement exposés par les avocats qui prêtent leur concours au bénéficiaire de l'aide juridictionnelle pour se rendre aux audiences foraines ou aux audiences des sections détachées.
+3° En Polynésie française, notamment les conditions de rémunération de l'avocat du bénéficiaire de l'aide juridictionnelle partielle, les règles de composition et de fonctionnement du conseil de l'accès au droit et les modalités d'indemnisation des frais de déplacement exposés par les avocats qui prêtent leur concours au bénéficiaire de l'aide juridictionnelle pour se rendre aux audiences foraines ou aux audiences des sections détachées ;
+
+4° Dans le Département de Mayotte.
 
 Ce décret fixe également, en tant que de besoin, les modalités d'application de la présente loi aux Français établis hors de France, notamment en ce qui concerne les délais de distance.

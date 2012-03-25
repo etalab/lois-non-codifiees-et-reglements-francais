@@ -8,7 +8,6 @@
 - [Ordonnance n° 2001-313 du 11 avril 2001 (MESX0100033R)](ordonnance-n-2001-313-du-11-avril-2001-mesx0100033r)
 - [Ordonnance n° 2001-321 du 11 avril 2001 (ATEX0100019R)](ordonnance-n-2001-321-du-11-avril-2001-atex0100019r)
 - [Ordonnance n° 92-1141 du 12 octobre 1992 (DOMX9200160R)](ordonnance-n-92-1141-du-12-octobre-1992-domx9200160r)
-- [Ordonnance n° 92-1143 du 12 octobre 1992 (DOMX9200156R)](ordonnance-n-92-1143-du-12-octobre-1992-domx9200156r)
 - [Ordonnance n° 92-1144 du 12 octobre 1992 (DOMX9200158R)](ordonnance-n-92-1144-du-12-octobre-1992-domx9200158r)
 - [Ordonnance n° 2000-1223 du 14 décembre 2000 (ECOX0000098R)](ordonnance-n-2000-1223-du-14-decembre-2000-ecox0000098r)
 - [Ordonnance n° 92-536 du 15 juin 1992 (DOMX9200079R)](ordonnance-n-92-536-du-15-juin-1992-domx9200079r)

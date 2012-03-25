@@ -1,7 +1,5 @@
-# Cinquième partie : Dispositions applicables en Polynésie française et à Mayotte
+# Titre Ier : Dispositions applicables en Polynésie française
 
-- [Titre Ier : Dispositions applicables en Polynésie française](titre-ier)
-- [Titre II : Dispositions applicables à Mayotte](titre-ii)
 - [Article 69-2](article-69-2.md)
 - [Article 69-3](article-69-3.md)
 - [Article 69-4](article-69-4.md)
