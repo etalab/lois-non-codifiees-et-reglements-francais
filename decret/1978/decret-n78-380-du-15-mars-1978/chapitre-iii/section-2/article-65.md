@@ -4,4 +4,4 @@ La société est en liquidation dès que la décision judiciaire prononçant sa 
 
 La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la publication de la clôture de celle-ci.
 
-Sa raison sociale est obligatoirement suivie de la mention société en liquidation.
+Sa dénomination sociale est obligatoirement suivie de la mention société en liquidation.

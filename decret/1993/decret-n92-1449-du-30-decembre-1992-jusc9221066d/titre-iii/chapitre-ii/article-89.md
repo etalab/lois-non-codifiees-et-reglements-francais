@@ -1,5 +1,5 @@
 # Article 89
 
-Si, en raison des changements dans la situation déclarée, la société de participations financières de profession libérale de commissaires-priseurs judiciaires cesse de se conformer aux dispositions législatives et réglementaires en vigueur, la société est mise en demeure par le procureur  général de régulariser la situation dans un délai indiqué par la mise en demeure.
+Si la société de participations financières de profession libérale de commissaires-priseurs judiciaires ne se conforme pas aux dispositions législatives et réglementaires en vigueur, le procureur général l'invite à régulariser la situation.
 
-Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le procureur  général soumet, par lettre recommandée avec demande d'accusé de réception, un projet de retrait d'agrément à l'avis motivé de la chambre de discipline des commissaires-priseurs judiciaires.
+Si la société ne régularise pas sa situation, le procureur général peut inviter les associés, par lettre recommandée avec demande d'avis de réception, à prononcer la dissolution anticipée de la société selon les formes prévues par les statuts. Il adresse une copie de ce courrier au procureur de la République près le tribunal de grande instance dans le ressort duquel est situé le siège de la société ainsi qu'à la chambre de discipline des commissaires-priseurs judiciaires.

@@ -1,5 +1,3 @@
 # Article 78-3
 
-L'agrément d'une société de participations financières de profession libérale d'huissiers de justice est prononcé par arrêté du garde des sceaux, ministre de la justice, publié au Journal officiel de la République française.
-
-La société est constituée sous la condition suspensive de son agrément.
+La constitution de la société fait l'objet d'une déclaration adressée par un mandataire commun des associés au procureur général près la cour d'appel dans le ressort de laquelle est établi son siège ainsi qu'à la chambre départementale des huissiers de justice. Une copie des statuts de la société est jointe à la déclaration qui comprend la liste des associés avec indication, selon le cas, de leur profession ou de leur qualité au regard de l'article 78-2 suivie, pour chacun, de la mention de la part de capital qu'il détient dans la société.

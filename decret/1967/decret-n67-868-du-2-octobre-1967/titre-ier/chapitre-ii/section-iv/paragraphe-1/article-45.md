@@ -1,6 +1,6 @@
 # Article 45
 
-L'appellation de société titulaire d'un office notarial, à l'exclusion de toute autre, doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société.
+L'appellation de société titulaire d'un office notarial, à l'exclusion de toute autre, doit accompagner la dénomination sociale dans toutes correspondances et tous documents émanant de la société.
 
 Le sceau de chaque associé indique le nom de celui-ci et sa qualité d'associé.
 

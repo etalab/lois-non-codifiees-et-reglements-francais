@@ -1,9 +1,7 @@
 # Article 78-11
 
-Huit jours au moins avant la date fixée pour sa délibération, la chambre départementale des huissiers de justice informe les associés qu'ils doivent, soit par eux-mêmes, soit par un mandataire de leur choix, présenter, lors de cette délibération, toutes explications orales ou écrites relatives au retrait de l'agrément de la société.
+Chaque société de participations financières de profession libérale d'huissiers de justice fait l'objet, au moins une fois tous les quatre ans, à l'occasion de l'inspection d'une étude d'huissiers de justice tenue par une société d'exercice dans laquelle elle détient des participations, d'un contrôle portant sur le respect des dispositions législatives et réglementaires qui régissent la composition de son capital et l'étendue de ses activités.
 
-Si, dans les quarante-cinq jours de sa saisine, la chambre n'a pas adressé au procureur général l'avis qui lui a été demandé, cet avis est tenu pour favorable à la demande de retrait d'agrément.
+Chaque société de participations peut, en outre, être soumise à des contrôles occasionnels prescrits par le garde des sceaux, soit d'office, soit à la demande du président de la chambre nationale ou de la chambre régionale. Le garde des sceaux désigne pour ces contrôles un ou plusieurs inspecteurs appartenant à la catégorie des inspecteurs huissiers de justice et, le cas échéant, un ou plusieurs inspecteurs appartenant à la catégorie des inspecteurs en comptabilité.
 
-Après réception de l'avis demandé à la chambre, ou après expiration du délai fixé à l'alinéa précédent, le procureur général met les associés ou le mandataire de leur choix à même de présenter leurs observations sur la mesure de retrait d'agrément.
-
-Le procureur général transmet, avec son rapport, le dossier au garde des sceaux, ministre de la justice.
+Ce contrôle est effectué par des huissiers de justice ou huissiers de justice honoraires et par des personnes qualifiées en comptabilité, désignés par la chambre régionale des huissiers de justice dans le ressort de laquelle est situé le siège de la société parmi les inspecteurs agréés conformément aux articles 94-4,94-5 et 94-7 du décret du 29 février 1956 précité.

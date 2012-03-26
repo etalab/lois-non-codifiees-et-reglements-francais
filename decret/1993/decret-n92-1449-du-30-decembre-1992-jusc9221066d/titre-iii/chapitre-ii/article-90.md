@@ -1,9 +1,5 @@
 # Article 90
 
-Huit jours au moins avant la date fixée pour sa délibération, la chambre de discipline des commissaires-priseurs judiciaires informe les associés qu'ils doivent, soit par eux-mêmes, soit par un mandataire de leur choix, présenter, lors de cette délibération, toutes explications orales ou écrites relatives au retrait de l'agrément de la société.
+Chaque société de participations financières de profession libérale de commissaires-priseurs judiciaires fait l'objet, au moins une fois tous les quatre ans, à l'occasion de la vérification de la comptabilité d'un office de commissaire-priseur judiciaire tenu par une société d'exercice dans laquelle elle détient des participations, d'un contrôle portant sur le respect des dispositions législatives et réglementaires qui régissent la composition de son capital et l'étendue de ses activités. Ce contrôle est effectué par les délégués désignés par la chambre de discipline de la compagnie dans le ressort de laquelle est situé le siège de la société conformément à l'article 19 du décret du 19 décembre 1945 précité.
 
-Si, dans les quarante-cinq jours de sa saisine, la chambre n'a pas adressé au procureur général l'avis qui lui a été demandé, cet avis est tenu pour favorable à la demande de retrait d'agrément.
-
-Le procureur général transmet au procureur général, avec son rapport, l'ensemble des documents.
-
-Le procureur général transmet, avec son rapport, le dossier au garde des sceaux, ministre de la justice.
+Chaque société de participations peut, en outre, être soumise à des contrôles occasionnels prescrits par le garde des sceaux, soit d'office, soit à la demande du président de la chambre de discipline. Le garde des sceaux désigne pour ces contrôles un ou plusieurs commissaires-priseurs judiciaires.

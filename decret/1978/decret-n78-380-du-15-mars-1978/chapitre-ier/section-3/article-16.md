@@ -4,6 +4,6 @@ Dans le délai de quinze jours qui suit la publication de l'arrêté de nominati
 
 Un dépôt identique est effectué au secrétariat de la section du contentieux du Conseil d'Etat.
 
-Jusqu'à l'accomplissement de ces formalités, les dispositions des statuts sontinopposables aux tiers, qui peuvent toutefois s'en prévaloir.
+Jusqu'à l'accomplissement de ces formalités, les dispositions des statuts sont inopposables aux tiers, qui peuvent toutefois s'en prévaloir.
 
-Tout intéressé peut obtenir la délivrance à ses frais, par le greffier en chef de la Cour de cassation ou le secrétaire de la section du contentieux du Conseil d'Etat, d'un extrait des statuts contenant, à l'exclusion de toutes autres indications, l'identité des associés, l'adresse du siège social, la raison sociale, la durée pour laquelle la société a été constituée, les clauses relatives aux pouvoirs et à la responsabilité pécuniaire des associés et à la dissolution de la société.
+Tout intéressé peut obtenir la délivrance à ses frais, par le greffier en chef de la Cour de cassation ou le secrétaire de la section du contentieux du Conseil d'Etat, d'un extrait des statuts contenant, à l'exclusion de toutes autres indications, l'identité des associés, l'adresse du siège social, la dénomination sociale, la durée pour laquelle la société a été constituée, les clauses relatives aux pouvoirs et à la responsabilité pécuniaire des associés et à la dissolution de la société.

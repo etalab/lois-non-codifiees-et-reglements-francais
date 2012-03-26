@@ -6,8 +6,8 @@ Les dispositions de l'article 46 leur sont applicables.
 
 Les associés doivent s'informer mutuellement de leur activité professionnelle. Les produits de cette activité sont acquis de plein droit à la société.
 
-Dans les actes professionnels, chaque associé indique sa qualité d'huissier de justice et la raison sociale de la société dont il fait partie.
+Dans les actes professionnels, chaque associé indique sa qualité d'huissier de justice et la dénomination sociale de la société dont il fait partie.
 
 Chaque associé tient un répertoire des actes reçus par lui. Il est seul possesseur des minutes desdits actes.
 
-L'appellation de "Société d'huissier de justice" doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société.
+L'appellation de " Société d'huissier de justice " doit accompagner la dénomination sociale dans toutes correspondances et tous documents émanant de la société.

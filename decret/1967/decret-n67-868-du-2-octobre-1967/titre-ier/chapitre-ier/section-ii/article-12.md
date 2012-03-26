@@ -1,6 +1,6 @@
 # Article 12
 
-Sans préjudice de toutes autres mentions utiles et, notamment, de celles qui sont prévues par les articles 8, 10, 11, 14, 15, 19 et 20 de la loi précitée du 29 novembre 1966, concernant respectivement la raison sociale, la répartition des bénéfices, les dettes sociales, les cessions de parts, ou de celles qui sont prévues par le présent décret, les statuts doivent indiquer :
+Sans préjudice de toutes autres mentions utiles et, notamment, de celles qui sont prévues par les articles 8,10,11,14,15,19 et 20 de la loi précitée du 29 novembre 1966, concernant respectivement la dénomination sociale, la répartition des bénéfices, les dettes sociales, les cessions de parts, ou de celles qui sont prévues par le présent décret, les statuts doivent indiquer :
 
 1° Les nom, prénoms et domicile des associés ;
 

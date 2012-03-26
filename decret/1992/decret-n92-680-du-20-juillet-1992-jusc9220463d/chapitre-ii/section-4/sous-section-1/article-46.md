@@ -1,6 +1,6 @@
 # Article 46
 
-Le nom de chacun des associés sur le tableau ou sur la liste du stage est suivi de la mention de la raison sociale de la société dont il fait partie.
+Le nom de chacun des associés sur le tableau ou sur la liste du stage est suivi de la mention de la dénomination sociale de la société dont il fait partie.
 
 Le tableau comporte en annexe la liste des sociétés civiles professionnelles d'avocats avec les indications suivantes :
 

@@ -1,6 +1,6 @@
 # Article 11
 
-Indépendamment des dispositions prévues par les articles 8, 10, 11, 14, 15, 19 et 20 de la loi du 29 novembre 1966 précitée concernant, respectivement, la raison sociale, la répartition des parts, les gérants, la répartition des bénéfices, les dettes sociales, les cessions de parts, ou des dispositions prévues par le présent décret, les statuts doivent indiquer :
+Indépendamment des dispositions prévues par les articles 8, 10, 11, 14, 15, 19 et 20 de la loi du 29 novembre 1966 précitée concernant, respectivement, la dénomination sociale, la répartition des parts, les gérants, la répartition des bénéfices, les dettes sociales, les cessions de parts, ou des dispositions prévues par le présent décret, les statuts doivent indiquer :
 
 1. Les noms, prénoms et domiciles des associés ;
 
