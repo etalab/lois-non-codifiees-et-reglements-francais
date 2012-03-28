@@ -48,9 +48,11 @@ d) Un représentant des agents de direction des caisses régionales de sécurit�
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modalités de l'élection des représentants des agents de direction visés au 4° (c) du présent article.
 
-Les membres de la commission sont nommés par arrêté du ministre chargé de la sécurité sociale pour une période de quatre ans. La durée de leur mandat peut, à titre exceptionnel, être prorogée pour une durée n'excédant pas six mois.
+Les membres de la commission sont nommés par arrêté du ministre chargé de la sécurité sociale pour une période de quatre ans. La durée de leur mandat peut, à titre exceptionnel, être prorogée pour une durée n'excédant pas douze mois.
 
 Les représentants des agents de direction et leurs suppléants, visés au 4°, ainsi que les représentants et les suppléants des directeurs des organismes de sécurité sociale visés au 3°, exercent une fonction effective de direction au sein d'un organisme de sécurité sociale des régimes visés à l'article 1er ci-dessus.
+
+En cas d'absence ou d'empêchement du président, celui-ci est suppléé par le membre de l'inspection générale des affaires sociales. En cas d'absence ou d'empêchement de ce dernier, celui-ci est suppléé par le sous-directeur de la gestion et des systèmes d'information à la direction de la sécurité sociale.
 
 Les décisions de la commission sont prises à la majorité des membres présents. En cas de partage des voix, celle du président est prépondérante.
 

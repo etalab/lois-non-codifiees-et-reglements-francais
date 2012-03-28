@@ -1,9 +1,50 @@
 # Article 16
 
-Avant le 1er mai de l'année précédant celle pour laquelle est établie la liste d'aptitude, la personne susceptible de réunir, au 1er janvier suivant, les conditions requises et qui désire être inscrite sur la liste d'aptitude, formule à cet effet une demande en triple exemplaire au moyen d'un formulaire préétabli dont la délivrance peut être obtenue auprès du secrétariat de la commission placé auprés de l'UNCANSS.
+Avant le 1er mai (si l'inscription s'effectue par voie postale) ou le 5 mai (si l'inscription s'effectue par voie dématérialisée) de l'année précédant celle pour laquelle est établie la liste d'aptitude, la personne susceptible de réunir, au 1er janvier suivant, les conditions requises et qui désire être inscrite sur la liste d'aptitude formule à cet effet une demande.
 
-Le candidat en situation contractuelle avec  un organisme de base adresse directement deux exemplaires de sa demande sous pli recommandé, avant la date fixée ci-dessus (le cachet de la poste faisant foi) au secrétariat de la commission. Un troisième exemplaire est transmis au directeur de l'organisme dont il relève, qui assure l'envoi collectif des demandes des candidats de l'organisme au secrétariat de la commission, aprés vérification des indications qu'elles comportent.
+Cette demande d'inscription sur la liste d'aptitude s'effectue par voie dématérialisée ou postale selon les modalités précisées ci-après.
 
-Le candidat en situation contractuelle avec  un organisme national adresse deux exemplaires de sa demande au secrétariat de la commission, sous pli recommandé, avant la date fixée ci-dessus, le cachet de la poste faisant foi. Un troisième exemplaire est transmis au directeur de l'organisme national, qui assure l'envoi collectif des demandes des candidats de l'organisme au secrétariat de la commission, après vérification des indications qu'elles comportent.
+Toute demande déposée ou postée hors délai est irrecevable.
 
-Le candidat, visé à l'article 19 ci-après, adresse deux exemplaires de sa demande au secrétariat de la commission, sous pli recommandé, avant la date fixée ci-dessus, le cachet de la poste faisant foi. Un troisième exemplaire est transmis au directeur ou au président de l'organisme dont il relève, qui assure l'envoi collectif des demandes des candidats de l'organisme au secrétariat de la commission, aprés vérification des indications qu'elles comportent.    Le candidat doit obligatoirement indiquer, dans sa demande, la ou les classes d'emplois dans lesquelles il sollicite son inscription. Il doit également joindre à sa demande les pièces nécessaires à l'examen de son dossier et, notamment, celles dont la communication est requise dans le formulaire préétabli.
+Chaque demande d'inscription comporte les pièces suivantes :
+
+- le formulaire de candidature ;
+
+- le relevé de carrière ;
+
+- une lettre de motivation.
+
+Le candidat doit obligatoirement indiquer, dans sa demande, la ou les classes d'emplois dans lesquelles il sollicite son inscription.
+
+1. Inscriptions par voie dématérialisée.
+
+Les demandes d'inscription et leur dépôt se font sur le site internet de l'UCANSS à l'adresse suivante :  http://www.ucanss.fr/.
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="307">
+<p>Ouverture du serveur et début des inscriptions dématérialisées</p>
+</td>
+<td valign="top" width="307">
+<p>1er avril, à minuit, de l'année précédant celle au titre de laquelle la liste d'aptitude est établie (heure de Paris)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="307">
+<p>Date et heure limite de validation des inscriptions et fermeture du serveur</p>
+</td>
+<td valign="top" width="307">
+<p>5 mai, à minuit, de l'année précédant celle au titre de laquelle la liste d'aptitude est établie (heure de Paris)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Le candidat transmet un exemplaire papier de sa demande d'inscription au directeur ou au président de l'organisme dont il relève.
+
+2. Inscriptions par voie postale.
+
+Le candidat formule une demande en triple exemplaire au moyen d'un formulaire préétabli, dont la délivrance peut être obtenue soit auprès du secrétariat de la commission placé auprès de l'UCANSS, soit par téléchargement sur le site internet de l'UCANSS, à l'adresse suivante :  http://www.ucanss.fr/. Le candidat joint à sa demande les pièces nécessaires à l'examen de son dossier et, notamment, celles dont la communication est requise dans le formulaire préétabli.
+
+Il adresse deux exemplaires de sa demande d'inscription au secrétariat de la commission chargée de la liste d'aptitude située au 18, avenue Léon-Gaumont, 75980 Paris Cedex 20, sous pli recommandé (le cachet de la poste faisant foi), au plus tard le 30 avril de l'année précédant celle au titre de laquelle la liste d'aptitude est établie. Il transmet le troisième exemplaire au directeur ou au président de l'organisme dont il relève.

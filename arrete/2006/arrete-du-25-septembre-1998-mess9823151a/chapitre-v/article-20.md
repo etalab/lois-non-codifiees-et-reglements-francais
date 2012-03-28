@@ -14,6 +14,6 @@ Ces garanties de compétence sont appréciées par la commission au vu des diver
 
 La commission procède, pour toute autre personne qui n'occupe pas, à la date de son inscription, un emploi dans un organisme visé par le présent arrêté, à une assimilation de sa situation par rapport à un emploi de cadre ou d'agent de direction dans un tel organisme, compte tenu de l'ancienneté, de l'emploi exercé et des responsabilités assumées.
 
-La commission n'est pas tenue par la demande des candidats, visés aux deux alinéas qui précèdent, relative à la classe d'emploi sollicitée.
+La commission n'est pas tenue par la demande des candidats, visés à l'alinéa précédent, relative à la classe d'emploi sollicitée.
 
 La commission peut fixer des quotas selon la région ou le régime dont sont originaires les personnes candidates à l'inscription en deuxième section de la liste d'aptitude.
