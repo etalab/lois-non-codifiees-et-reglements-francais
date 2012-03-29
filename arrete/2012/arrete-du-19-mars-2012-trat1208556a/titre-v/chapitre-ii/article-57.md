@@ -1,0 +1,5 @@
+# Article 57
+
+Un train respecte en tout point de son parcours les règles de composition, de chargement, de freinage, de vitesse limite et d'équipement mentionnées au présent chapitre, compatibles avec les caractéristiques techniques de ces infrastructures, leurs installations de signalisation et de contrôle-commande mentionnées à l'article 33 du présent arrêté, ainsi que les caractéristiques de son sillon. En particulier, son aptitude au freinage et à l'immobilisation mentionnée à l'article 62 du présent arrêté est garantie quelles que soient les conditions d'exploitation et les caractéristiques du train, des véhicules le composant et des infrastructures concernées.
+
+L'entreprise ferroviaire ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé s'assure chaque fois que nécessaire avant circulation de son train, que les conditions prévues à l'alinéa précédent sont satisfaites et procède à la vérification notamment de son aptitude au transport et du fonctionnement effectif des dispositifs de freinage et de sécurité.

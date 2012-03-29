@@ -1,0 +1,5 @@
+# Article 13
+
+Le service chargé de la gestion des circulations présente à tout exploitant ferroviaire souhaitant exercer une activité pour la première fois sur un site ferroviaire ou y revenir après plus de deux ans d'interruption de toute activité ferroviaire les conditions et les modalités d'exploitation des installations techniques et de sécurité figurant dans la consigne locale d'exploitation applicable sur le site concerné. Cette présentation est également effectuée lorsque la consigne locale d'exploitation du site concerné est modifiée consécutivement à la délivrance d'une AMEC, à l'arrivée d'une nouvelle entreprise ferroviaire ou à la désignation d'une installation de sécurité simple en application de l'article 76 du présent arrêté. Elle est effectuée dans un délai approprié pour permettre aux exploitants ferroviaires d'en tirer les conséquences en ce qui les concerne.
+
+Cette présentation est attestée par un récépissé signé par les exploitants ferroviaires y ayant participé et remis au service chargé de la gestion des circulations. Ce récépissé peut, le cas échéant, être assorti d'observations de la part de chacun des participants.

@@ -1,0 +1,5 @@
+# Article 122
+
+Sans préjudice des obligations légales et réglementaires incombant aux personnes chargées de gérer les gares de voyageurs, le gestionnaire de l'infrastructure, le gestionnaire d'infrastructure délégué ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé, informe les usagers de la gare sur les conditions de cheminement, de traversée des voies et de stationnement sur les quais afin de prévenir les risques de heurt et l'effet de souffle provoqué par le passage d'une circulation. Le gestionnaire de l'infrastructure et le gestionnaire d'infrastructure délégué ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé formalise par consigne opérationnelle ces conditions d'information ainsi que les conditions de prise en charge des personnes à mobilité réduite.
+
+Le gestionnaire de l'infrastructure repère les zones présentant des risques particuliers de chute pour les voyageurs, notamment sur les quais.

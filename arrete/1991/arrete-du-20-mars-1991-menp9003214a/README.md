@@ -10,3 +10,5 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Article Annexe I](article-annexe-i.md)
+- [Article Annexe II](article-annexe-ii.md)

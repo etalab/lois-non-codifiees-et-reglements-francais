@@ -1,0 +1,3 @@
+# Article 15
+
+Tout exploitant ferroviaire établit ses consignes et instructions opérationnelles dans le respect des dispositions du présent arrêté et des autres textes pris en application de l'article 3 du décret du 19 octobre 2006 susvisé, de la documentation d'exploitation ainsi que des prescriptions émises lors de la délivrance d'une AMEC ou d'une autorisation d'exploitation en tenant lieu. Les consignes et instructions opérationnelles sont mises à jour, approuvées et diffusées par chaque exploitant ferroviaire qui est chargé de leur application par les personnes concernées. A cet effet, chaque exploitant ferroviaire identifie et rend facilement accessibles à ces personnes les consignes et les instructions opérationnelles applicables les concernant.

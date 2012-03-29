@@ -1,0 +1,7 @@
+# Article 86
+
+Outre leurs moyens propres, les entreprises ferroviaires ou les personnes titulaires de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé peuvent utiliser les dispositifs spécifiques de surveillance des circulations mis à leur disposition par le gestionnaire de l'infrastructure, notamment ceux de détections de certaines anomalies, telles que des boîtes chaudes, des freins serrés ou des engagements du gabarit, et d'arrêt des circulations en cas de danger.
+
+Chaque entreprise ferroviaire ou personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé formalise par consigne opérationnelle ses procédures relatives à la surveillance de ses trains en marche en fonction des dispositifs spécifiques mis à leur disposition par le gestionnaire de l'infrastructure ainsi qu'aux mesures à prendre en cas de détection d'anomalie.
+
+La documentation d'exploitation indique, pour les sections de lignes concernées, les dispositifs spécifiques de surveillance des trains en marche mis à la disposition par le gestionnaire de l'infrastructure, et leurs conditions de mise en œuvre par les entreprises ferroviaires et les personnes titulaires de la convention d'exploitation mentionnée à l'article 23 du décret du 19 octobre 2006 susvisé afin notamment d'assurer la compatibilité des équipements embarqués dans les matériels roulants avec les dispositifs spécifiques précités et de prendre les mesures adaptées en cas de dysfonctionnement de ces dispositifs.

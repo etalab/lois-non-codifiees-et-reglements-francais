@@ -1,0 +1,3 @@
+# Article 24
+
+Tout exploitant ferroviaire informe l'EPSF et, le cas échéant, le service chargé de la gestion des circulations, en application de l'article 14 du présent arrêté, de tout événement ou résultat d'analyse susceptible de mettre en évidence un risque grave ou imminent pour la sécurité du système ferroviaire et de toute mesure conservatoire prise de sa propre initiative à la suite d'un incident et susceptible de concerner d'autres exploitants ferroviaires, notamment lorsqu'un matériel roulant est concerné par la mesure prise. Après analyse du bien-fondé des mesures prises et des compléments éventuels, l'EPSF en informe toute personne directement concernée.
