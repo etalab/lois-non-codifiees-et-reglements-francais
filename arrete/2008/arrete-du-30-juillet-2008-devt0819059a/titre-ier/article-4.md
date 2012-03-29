@@ -1,3 +1,0 @@
-# Article 4
-
-L'annexe A des spécifications techniques d'interopérabilité concernant le sous-système « contrôle-commande et signalisation » du système ferroviaire transeuropéen à grande vitesse et du système ferroviaire conventionnel, dont les références de publication au Journal officiel de l'Union européenne figurent aux articles 1er et 4 de l'arrêté du 19 février 2007 susvisé, est remplacée par l'annexe de la décision 2008 / 386 / CE de la Commission du 23 avril 2008 susvisée et publiée au Journal officiel de l'Union européenne n° L 136 du 24 mai 2008. Pour les sous-systèmes, les parties de sous-systèmes et leurs interfaces prévus sur le réseau ferroviaire transeuropéen à grande vitesse et sur le réseau ferroviaire conventionnel, cette annexe s'applique.

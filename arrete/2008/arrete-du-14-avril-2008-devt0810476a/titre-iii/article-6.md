@@ -10,7 +10,7 @@ II. ― Le titulaire d'un certificat de sécurité informe l'EPSF :
 
 ― du début d'activité de toute entité opérationnelle responsable figurant dans la demande de certificat au titre du point g de l'annexe 2 du présent arrêté ;
 
-― de toute modification de l'organisation de la production figurant dans la demande de certificat au titre du point g de l'annexe 2 du présent arrêté qui implique la création d'une nouvelle entité opérationnelle responsable, le changement des coordonnées des responsables désignés par l'entreprise ou l'exploitation d'un nouveau type de circulation relevant d'une catégorie prédéterminée de trains publiée par Réseau ferré de France, ci-après dénommé "RFF", mentionnée à l'article 21 du règlement 001 annexé à l'arrêté du 7 décembre 2006 susvisé.
+― de toute modification de l'organisation de la production figurant dans la demande de certificat au titre du point g de l'annexe 2 du présent arrêté qui implique la création d'une nouvelle entité opérationnelle responsable, le changement des coordonnées des responsables désignés par l'entreprise ou l'exploitation d'un nouveau type de circulation relevant d'une catégorie prédéterminée de trains publiée par l'EPSF.
 
 Sous réserve du III ci-après, ces éléments ne constituent pas, en tant que tels, des modifications substantielles du certificat de sécurité.
 

@@ -54,7 +54,7 @@ Les agents doivent être capables d'exécuter principalement les tâches suivant
 
 -organiser la manoeuvre, la diriger en exécutant les signaux de manoeuvre appropriés ;
 
--utiliser des installations de sécurité simples telles que définies par les dispositions du règlement de sécurité de l'exploitation du réseau ferré national annexé à l'arrêté du 28 avril 2004 susvisé, des appareils d'interruption électrique et réagir en cas de dysfonctionnement.
+-utiliser des installations de sécurité simples telles que définies par les dispositions de l'article 76-II de l'arrêté du 19 mars 2012 fixant les objectifs, les méthodes, les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national, des appareils d'interruption électrique et réagir en cas de dysfonctionnement.
 
 2.3. Tâches particulières à la fonction de chef de service
 

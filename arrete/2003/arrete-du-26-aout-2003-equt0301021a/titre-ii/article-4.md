@@ -1,6 +1,0 @@
-# Article 4
-
-Le gestionnaire d'infrastructure, le gestionnaire d'infrastructure délégué et les entreprises ferroviaires respectent en permanence, chacun en ce qui le concerne, les conditions d'utilisation du réseau ferré national fixées par le ministre chargé des transports, les dispositions du présent arrêté, les textes pris en application de l'article 10 du décret n° 2006-1279 du 19 octobre 2006
-relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, ainsi que, le cas échéant, les mesures présentées dans le dossier technique produit à l'appui de la demande d'agrément, de certificat ou d'attestation de sécurité.
-
-Le gestionnaire d'infrastructure, le gestionnaire d'infrastructure délégué et les entreprises ferroviaires donnent à leurs fournisseurs et partenaires toutes les instructions nécessaires au respect de ces dispositions, notamment dans les contrats conclus à cet effet, et effectuent toutes les opérations de contrôle utiles. Ils affectent en permanence, pour le service normalement prévu, les ressources nécessaires à l'exercice des missions de sécurité. Ils se dotent d'une organisation permettant de répondre aux besoins particuliers des situations perturbées.

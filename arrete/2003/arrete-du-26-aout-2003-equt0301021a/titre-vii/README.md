@@ -1,3 +1,0 @@
-# TITRE VII : DISPOSITIONS DIVERSES ET D'EXÉCUTION.
-
-- [Article 26](article-26.md)
