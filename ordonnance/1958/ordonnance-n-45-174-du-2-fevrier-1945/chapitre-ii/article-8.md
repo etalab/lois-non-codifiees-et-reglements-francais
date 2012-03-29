@@ -6,7 +6,7 @@ A cet effet, il procédera à une enquête, soit par voie officieuse, soit dans 
 
 Il pourra décerner tous mandats utiles ou prescrire le contrôle judiciaire en se conformant aux règles du droit commun, sous réserve des dispositions des articles 10-2 et 11.
 
-Il recueillera, par une enquête sociale, des renseignements sur la situation matérielle et morale de la famille, sur le caractère et les antécédents du mineur, sur sa fréquentation scolaire, son attitude à l'école, sur les conditions dans lesquelles il a vécu ou a été élevé.
+Il recueillera, par toute mesure d'investigation, des renseignements relatifs à la personnalité et à l'environnement social et familial du mineur.
 
 Le juge des enfants ordonnera un examen médical et, s'il y a lieu un examen médico-psychologique. Il décidera, le cas échéant, le placement du mineur dans un centre d'accueil ou dans un centre d'observation ou prescrira une mesure d'activité de jour dans les conditions définies à l'article 16 ter.
 

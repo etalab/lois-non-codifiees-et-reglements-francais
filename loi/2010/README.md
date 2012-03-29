@@ -19,6 +19,7 @@
 - [LOI n° 2010-1657 du 29 décembre 2010 (BCRX1023155L)](loi-n-2010-1657-du-29-decembre-2010-bcrx1023155l)
 - [LOI n° 2010-1658 du 29 décembre 2010 (BCRX1028078L)](loi-n-2010-1658-du-29-decembre-2010-bcrx1028078l)
 - [LOI n° 2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n-2010-241-du-10-mars-2010-prmx0925425l)
+- [LOI n° 2010-242 du 10 mars 2010 (JUSX0818935L)](loi-n-2010-242-du-10-mars-2010-jusx0818935l)
 - [LOI n° 2010-476 du 12 mai 2010 (BCFX0904879L)](loi-n-2010-476-du-12-mai-2010-bcfx0904879l)
 - [LOI n° 2010-597 du 3 juin 2010 (PRMX0920421L)](loi-n-2010-597-du-3-juin-2010-prmx0920421l)
 - [LOI n° 2010-729 du 30 juin 2010 (SASX1008554L)](loi-n-2010-729-du-30-juin-2010-sasx1008554l)

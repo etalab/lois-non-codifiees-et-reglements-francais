@@ -6,7 +6,7 @@ Quelles que soient les procédures de comparution, le mineur et les parents, le 
 
 Lors de la première comparution, lorsque le mineur ou ses représentants légaux n'ont pas fait le choix d'un avocat ni demandé qu'il en soit désigné un d'office, le juge des enfants ou le juge d'instruction saisi fait désigner sur-le-champ par le bâtonnier un avocat d'office.
 
-Le juge des enfants et le juge d'instruction pourront charger de l'enquête sociale les services sociaux ou les personnes titulaires d'un diplôme de service social, habilités à cet effet.
+Le juge des enfants et le juge d'instruction pourront charger les services du secteur public de la protection judiciaire de la jeunesse et du secteur associatif habilité des mesures d'investigation relatives à la personnalité et à l'environnement social et familial du mineur.
 
 Ils pourront confier provisoirement le mineur mis en examen :
 
