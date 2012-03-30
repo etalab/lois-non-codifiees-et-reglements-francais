@@ -6,4 +6,4 @@ Les catégories d'informations traitées sont relatives :
 
 - à l'accès aux technologies de l'information et de la communication et leur usage ;
 
-- aux compétences en informatique et en internet.
+- à l'utilisation de l'internet mobile.

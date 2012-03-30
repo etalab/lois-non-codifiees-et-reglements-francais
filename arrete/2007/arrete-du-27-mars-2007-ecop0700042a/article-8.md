@@ -1,6 +1,6 @@
 # Article 8
 
-I.-La septième sous-direction est chargée des missions "action extérieure de l'Etat", "aide publique au développement", "prêts à des Etats étrangers", "agriculture, pêche, alimentation, forêt et affaires rurales", "immigration, asile et intégration", "développement agricole et rural" et "engagements en faveur de la forêt dans le cadre de la lutte contre le changement climatique". Elle est également chargée des programmes "appel en garantie de l'Etat", "enseignement technique agricole", "enseignement supérieur et recherche agricole" et "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune".
+I.-La septième sous-direction est chargée des missions "action extérieure de l'Etat", "aide publique au développement", "prêts à des Etats étrangers", "agriculture, pêche, alimentation, forêt et affaires rurales", "immigration, asile et intégration", "développement agricole et rural" et "engagements en faveur de la forêt dans le cadre de la lutte contre le changement climatique". Elle est également chargée des programmes "appel en garantie de l'Etat", "enseignement technique agricole", "enseignement supérieur et recherche agricoles" et "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune".
 
 Elle traite des dispositifs d'aide au commerce extérieur.
 
