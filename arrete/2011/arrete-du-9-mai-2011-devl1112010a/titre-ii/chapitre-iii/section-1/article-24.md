@@ -8,6 +8,6 @@ II. ― Les dérogations correspondantes peuvent intervenir, à l'issue de la sa
 
 ― et si des dommages importants et récurrents sont observés sur les troupeaux concernés jusqu'à la fin de la saison de pâturage.
 
-III. ― Sans préjudice des dispositions prévues à la section 2 du présent chapitre, toutes les dérogations accordées sur le fondement du présent article cessent de produire effet dès lors que deux loups ont été détruits sur l'ensemble des zones concernées.
+III. ― Sans préjudice des dispositions prévues à la section 2 du présent chapitre, toutes les dérogations accordées sur le fondement du présent article cessent de produire effet dès lors que deux loups ont été détruits en application du présent article sur l'ensemble des zones concernées, pour la saison considérée.
 
-IV. ― Il ne peut être détruit plus d'un loup par zone concernée.
+IV. - Il ne peut être détruit, en application du présent article, plus d'un loup par zone concernée pour la saison considérée.

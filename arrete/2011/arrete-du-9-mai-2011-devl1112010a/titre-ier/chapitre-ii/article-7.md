@@ -1,26 +1,8 @@
 # Article 7
 
-I. ― Les unités d'action (UA) correspondent, dans les départements suivants, aux zones où la prédation du loup est probable :
+I. - Les unités d'action (UA) correspondent aux zones où la prédation du loup est probable, dans les départements dont la liste est fixée par arrêté ministériel.
 
-Alpes-de-Haute-Provence.
-
-Hautes-Alpes.
-
-Alpes-Maritimes.
-
-Drôme.
-
-Isère.
-
-Pyrénées-Orientales.
-
-Savoie.
-
-Haute-Savoie.
-
-Var.
-
-Elles sont délimitées par le préfet. Il peut y avoir une ou plusieurs unité (s) d'action dans un même département.
+Elles sont délimitées par le préfet. Il peut y avoir une ou plusieurs unités d'action dans un même département.
 
 II. ― Dans le cas où une unité d'action comprend une partie d'un parc national (hors cœur) l'arrêté préfectoral délimitant les unités d'action précise que ces zones sont situées dans un parc national.
 
