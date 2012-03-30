@@ -108,7 +108,7 @@ Programme "désendettement de l'Etat et d'établissements publics de l'Etat".
 
 Mission "prêts et avances à des particuliers ou à des organismes privés" :
 
-Programme "prêts et avances à des particuliers ou à des associations" ;
+Programme "prêts et avances pour le logement des agents de l'Etat" ;
 
 Programme "prêts pour le développement économique et social" ;
 
@@ -158,9 +158,9 @@ Programme "conduite et pilotage des politiques de l'écologie, de l'énergie, du
 
 Mission "services nationaux de transport conventionnés de voyageurs" :
 
-Programme "contribution à l'exploitation des services nationaux de transport conventionnés" ;
+Programme "exploitation des services nationaux de transport conventionnés" ;
 
-Programme "contribution au matériel roulant des services nationaux de transport conventionnés".
+Programme "matériel roulant des services nationaux de transport conventionnés".
 
 Mission "avances au fonds d'aide à l'acquisition de véhicules propres" :
 
@@ -536,9 +536,13 @@ Programme "accès au droit et à la justice" ;
 
 Programme "conduite et pilotage de la politique de la justice".
 
+Programme "Conseil supérieur de la magistrature".
+
 Mission "médias, livre et industries culturelles" :
 
-Programme "presse, livre et industries culturelles" ;
+Programme "presse" ;
+
+Programme "livre et industries culturelles" ;
 
 Programme "contribution à l'audiovisuel et à la diversité radiophonique" ;
 
