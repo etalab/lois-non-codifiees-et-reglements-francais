@@ -1,3 +1,0 @@
-# MENTIONS IMPRIMÉES SUR LA CARTE ET LE BADGE PROFESSIONNELS.
-
-- [Article ANNEXE](article-annexe.md)
