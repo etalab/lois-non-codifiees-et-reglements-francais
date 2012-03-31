@@ -6,4 +6,4 @@ Sont exclues de plein droit de l'ordre :
 
 2° Celles condamnées par jugement définitif à une peine d'emprisonnement sans sursis égale ou supérieure à un an.
 
-Mention de cette exclusion de plein droit est faite au Bulletin officiel des décorations, médailles et récompenses et au Bulletin officiel de l'éducation nationale.
+Mention de cette exclusion de plein droit est faite au Bulletin officiel des décorations, médailles et récompenses.
