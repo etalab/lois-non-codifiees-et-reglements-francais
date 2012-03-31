@@ -346,9 +346,11 @@ Azur Montage, ZI Les Bartavelles-les Négadoux, 83140 Six-Fours-les-Plages : de 
 
 Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
 
-Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau. De 1975 à 1996.
-
 Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
+
+Boulogne et Huard. ZI Marseille Nord, 13480 Cabriès, Le Collet Rouge, Plan de Campagne, 13170 Les Pennes-Mirabeau.
+
+De 1975 à 1996.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
 
@@ -469,8 +471,6 @@ Degreane :
 - 28, avenue de Font-Pré, BP 954, 83050 Toulon Cedex, 1001, avenue Alphonse-Lavallée, 83210 La Farlède : depuis 1950.
 
 Delattre Levivier, village Entreprise, 13770 Fos-sur-Mer, de 1979 à 1984.
-
-Dewco Provence, 54, boulevard du Capitaine-Gèze, 13014 Marseille : de 1995 à 2002, puis Dewco international, 54, boulevard du Capitaine-Gèze, 13014 Marseille : à partir de 2002.
 
 DI MARSILIO Marius, ATCIM, 108, chemin du Littoral, 13002 Marseille, de 1968 à 1969, puis, 146, chemin de la Madrague-Ville, 13015 Marseille, de 1970 à 1976, puis ATC (Atelier de tuyauterie et de chaudronnerie), 19, avenue du Cap-Pinède, 13015 Marseille : de 1976 à 1982, puis Forme 8, puis Forme 9, enceinte portuaire, 13002 Marseille : de 1982 à 1983, puis : Société nouvelle
 
@@ -772,17 +772,15 @@ Perez/MTC, 16-18, avenue Maxime, chemin de la Madrague-Ville, 13015 Marseille, d
 
 MTC, 16, avenue Maxime, chemin de la Madrague, 13015 Marseille et 5, avenue de la Côte-Bleue, 13820 Ensuès-la-Redonne, de 1989 à 1994.
 
-CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment
-
-Primindus, plan de campagne, 13480 Cabriès, de 1996 à 2000. ZI Avon n° 61, 13120 Gardanne, de 2000 à 2006.
-
-Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
-
-Plastique Provence. 426, boulevard National, 13003 Marseille. De 1973 à 1981.
+CTIM, 18, avenue Maxime, 13015 Marseille, de 1994 à 1996, puis bâtiment Primindus, plan de campagne, 13480 Cabriès, de 1996 à 2000. ZI Avon n° 61, 13120 Gardanne, de 2000 à 2006.
 
 Philippou :
 
 - route du Cimetière, puis quartier Jeausseranne, 13110 Port-de-Bouc : de 1967 à 1980.
+
+Plaisance peinture nettoyage, 17, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1995.
+
+Plastique Provence. 426, boulevard National, 13003 Marseille. De 1973 à 1981.
 
 Polyservice.
 
@@ -814,7 +812,7 @@ Risolo :
 
 - 180, avenue du Rove, 13015 Marseille : depuis 1975.
 
-Riviera yacht services/SA chantier naval de Saint-Laurent-du-Var/SA Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Mer : depuis 1969.
+Riviera Yacht service/SA chantier naval de Saint-Laurent-du-Var/Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Merde 1969 à 2010.
 
 SA Vaugrenier Industrie (SAVI)/Société nouvelle d'Exploitation de la SAVI (SNES), 1580, avenue Aristide-Briand, quartier Lagoubran, 83500 La Seyne-sur-Mer, et 1580, avenue Aristide-Briand,
 
@@ -933,6 +931,8 @@ SCM/Chaudronnerie méridionale :
 - 30, chemin du Littoral, 13002 Marseille : depuis 1995.
 
 SCOP des chantiers navals de Barriol, 51, route de Barriol, 13200 Arles : depuis 1981.
+
+SEIGE et SOBOS, puis : SEIGE et SOBOS Industrie, puis : COMECA Logistique Département SEIGE et SOBOS, puis : COSMETECH Département SEIGE et SOBOS : de 1960 à 1994, puis : Dewco Provence : de 1995 à 2002, puis : Dewco International : de 2002 à 2006, 54, boulevard du Capitaine-Gèze, 13014 Marseille.
 
 SEMATER :
 
@@ -1166,8 +1166,6 @@ Tous travaux maritimes (TTM), 19, avenue du Cap-Pinède, 13015 Marseille : de 19
 
 Tous travaux maritimes et industriels (TTMI), 31, boulevard de Magallon, 13015 Marseille : de 1987 à 1990.
 
-TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-Caillol, 13012 Marseille, 95, avenue des Caillols, 13012 Marseille, 23, bassin de Radoub, forme 7, enceinte portuaire, 13002 Marseille, de 1977 à 1987.
-
 Travaux de chaudronnerie maritime et industrielle (TCMI), 42, rue Condorcet, Saint-André, 13016 Marseille : depuis 1998.
 
 Travaux de constructions industriels et maritimes (TCIM), 43, boulevard Gilbert-Chamasson, 13016 Marseille : de 1984 à 1988.
@@ -1175,6 +1173,8 @@ Travaux de constructions industriels et maritimes (TCIM), 43, boulevard Gilbert-
 Travaux électriques chaudronnerie hydraulique (TECH), 31, boulevard de Magallon, 13015 Marseille : de 1987 à 1990.
 
 TTPN (Tous travaux de peinture et de nettoyage), 30, rue des Phocéens, 13002 Marseille, et 7, rue Pasteur-Heuzé, 13003 Marseille : de 1978 à 1994.
+
+TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-Caillol, 13012 Marseille, 95, avenue des Caillols, 13012 Marseille, 23, bassin de Radoub, forme 7, enceinte portuaire, 13002 Marseille, de 1977 à 1987.
 
 Var Industrie :
 

@@ -326,6 +326,8 @@ BONNEC, puis SARL POLYESTA, puis SA POLYESTA, 10, rue Chalutier-les-Deux-Anges, 
 
 Breiz-Elec, 25, quai du Pourquoi-Pas, 56100 Lorient : de 1976 à 1996.
 
+Bretagne Hydraulique, zone de Ty Lippig, rue de l'Aéroport, 29700 Pluguffan : de 1989 à 1990, puis ZA de Troyalac'h, 29170 Saint-Evarzec : de 1991 à 1996.
+
 Brouard, Arsenal, 29200 Brest : depuis sa création.
 
 Brouard-Les Peintures Malouines :
@@ -382,7 +384,7 @@ Charpentiers Marine Camaretois. La Pointe de Rocamandour, 29570 Camaret-sur-mer.
 
 CHATELAIS et LE GALL. 8 _bis,_avenue Louis-Martin, BP 94, 35407 Saint-Malo Cedex. De 1952 à 1996.
 
-Chaudronnerie lorientaise, rue Ingénieur-Verrière, 56100 Lorient : depuis 1978.
+Chaudronnerie lorientaise, rue Ingénieur-Verrière, 56100 Lorient : depuis 1978, puis SARL JOLY, 27, rue Ingénieur-Verrière, 56100 Lorient : de 1980 à 1998.
 
 Chaudronnerie tôlerie lorientaise :
 
@@ -463,8 +465,6 @@ Electronique de navigation, 4, rue de Malakoff, puis 15, quai Est, 29900 Concarn
 Entreprise André Picault, 1, boulevard J.-P.-Calloch, 56100 Lorient, de 1944 à 1984.
 
 Entreprise Boulay-Froid maritime, puis SARL Concarnoise de froid, 89, avenue A.-Le Lay, 29110 Concarneau : depuis 1963.
-
-Entreprise Bretagne hydraulique ZAC de Troyalac'h, BP 5, 29563 Quimper Cedex 9. De 1989 à 1995
 
 Entreprise Carras, 5, quai Jacques-de-Thezac, 29770 Audierne, de 1977 à 1994.
 
@@ -558,10 +558,6 @@ Forge marine de l'Iroise, quai Téphany, 29560 Camaret : depuis sa création.
 
 Furano France-Radio Océan Centre Atlantique BP 168, route de Coray 29000 Quimper. De 1990 à 1994.
 
-Garage L'Helgoualc'h :
-
-- 73, Grand-Rue, 29750 Loctudy : jusqu'en 1979, puis SOMECO : terre-plein du Port, 29750 Loctudy : depuis 1979.
-
 Gazaix Claude/SEMB-Gazaix Bretagne :
 
 - rue Victor-Grignard, 29490 Guipavas : depuis 1996.
@@ -635,6 +631,8 @@ Leroux et Lotz/Timo/Timobreiz, 26, rue Vauban, 29200 Brest, puis 1, rue de l'Egl
 Leroux et Lotz Meunier/Meunier Leroux et Lotz/Socomele/Leroux et Lotz Meunier, Arsenal, 29200 Brest : de 1984 à 1992.
 
 Les Ateliers de Kergroise Rue Emile-Marcesche, 56100 Lorient, puis 18, avenue de Kergroise, 56100 Lorient. Depuis 1967.
+
+L'Helgoualc'h François, 73, Grand-Rue, 29750 Loctudy : de sa création à l'année 1979, puis : SOMECO, 73, Grand-Rue, 29750 Loctudy : de 1980 à 1992, puis : terre-plein du Port, 29750 Loctudy : de 1993 à 2007.
 
 Lip Sudest, puis Lips France, ZI de Petite-Synthe, 59140 Dunkerque : de 1965 à 1991.
 
