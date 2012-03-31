@@ -1,0 +1,3 @@
+# Article 43
+
+Le service de médecine de prévention conduit des actions de santé au travail, dans le but de préserver la santé physique et mentale des agents tout au long de leur parcours professionnel. Afin d'assurer la mise en œuvre des compétences médicales et organisationnelles nécessaires à la prévention des risques professionnels et à l'amélioration des conditions de travail, les services de médecine de prévention peuvent faire appel à des personnes ou des organismes possédant des compétences dans ces domaines. Le médecin de prévention anime et coordonne l'équipe pluridisciplinaire ainsi constituée.

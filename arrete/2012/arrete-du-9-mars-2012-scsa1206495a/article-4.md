@@ -1,0 +1,5 @@
+# Article 4
+
+Les établissements ou services relevant du 6° du I de l'article L. 312-1 du code de l'action sociale et des familles et assurant un accueil de jour, autorisés à la date de publication du décret n° 2011-1211 du 29 septembre 2011 relatif à l'accueil de jour qui, au 30 septembre 2014, ni ne satisfont à la condition relative à la capacité minimale mentionnée au premier alinéa du IV de l'article D. 312-8 ni ne bénéficient de la dérogation en cours de validité conformément aux dispositions du présent arrêté et au regard de leur compte d'emploi relatif à l'accueil de jour pour l'exercice de l'année 2013 font l'objet d'une décision de fermeture portant sur leur activité en accueil de jour, en application des dispositions de l'article L. 313-16 du code précité.
+
+A compter de la date de publication du présent arrêté, les cahiers des charges des appels à projet pour la création de places d'accueil de jour indiquent les clauses relatives à la capacité minimale mentionnée au IV de l'article D. 312-8 du code de l'action sociale et des familles et les exigences prévues au 2° de l'article R. 313-3-1 du même code.
