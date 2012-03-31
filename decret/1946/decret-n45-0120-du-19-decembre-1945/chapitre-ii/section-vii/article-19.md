@@ -16,9 +16,15 @@ f) Sur le respect des obligations prévues par le chapitre Ier du titre VI du li
 
 Pour exercer son contrôle, la chambre désigne les délégués qui devront procéder à la vérification, au moins une fois l'an, dans chaque étude du ressort.
 
+A cette fin, chaque chambre établit chaque année la liste des experts-comptables susceptibles d'être désignés comme vérificateurs. Elle la propose en temps utile à l'agrément du procureur général près la cour d'appel de son siège, qui peut inviter le président de la chambre à compléter cette liste.
+
+Ces experts-comptables sont choisis parmi ceux qui, eu égard en particulier à leurs titres et à leur expérience professionnelle, présentent les garanties propres à l'exercice des fonctions de vérification.
+
+Avant d'entrer en exercice, les experts-comptables désignés comme vérificateurs prêtent serment, devant le tribunal de grande instance de leur domicile professionnel, de remplir leur mission avec conscience et probité.
+
 Chaque vérification est faite par deux délégués ; sauf à Paris, ces délégués sont choisis parmi les commissaires-priseurs judiciaires étrangers à la résidence du commissaire-priseur judiciaire inspecté.
 
-L'un de ces délégués est obligatoirement un membre ou ancien membre de la chambre ou un ancien commissaire-priseur judiciaire ayant au moins dix ans de fonctions.L'autre délégué est choisi parmi les commissaires-priseurs judiciaires du ressort ayant au moins cinq ans de fonctions, ou parmi les commissaires-priseurs judiciaires honoraires, qu'ils aient ou non exercé dans le ressort.
+L'un de ces délégués est obligatoirement un membre ou ancien membre de la chambre ou un ancien commissaire-priseur judiciaire ayant au moins dix ans de fonctions. L'autre délégué est choisi parmi les commissaires-priseurs judiciaires du ressort ayant au moins cinq ans de fonctions, ou parmi les commissaires-priseurs judiciaires honoraires, qu'ils aient ou non exercé dans le ressort.
 
 Dans le ressort de la compagnie des commissaires-priseurs judiciaires de Paris, les deux délégués sont choisis parmi les membres ou anciens membres de la chambre et les commissaires-priseurs judiciaires honoraires, qu'ils aient ou non exercé dans le ressort.
 
