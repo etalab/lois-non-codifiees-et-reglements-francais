@@ -4,11 +4,11 @@ Les articles 1er à 11 du présent décret sont applicables à Mayotte sous rés
 
 1° Aux articles 1er, 9 et 10, toute référence à l'année 2005 est remplacée par une référence à l'année 2006.
 
-2° A l'article 3 (3°), les mots : "service d'incendie et de secours" sont remplacés par les mots : "conseil général de Mayotte".
+2° Jusqu'au 1er janvier 2014, à l'article 3 (3°), les mots : " service d'incendie et de secours ” sont remplacés par les mots : " conseil général de Mayotte .
 
 3° A l'article 5, les mots : "son ayant droit" sont remplacés par les mots : "son ou ses ayants droit".
 
-4° Aux articles 6 et 7, la mention du ou des services départementaux d'incendie et de secours est complétée par celle du conseil général de Mayotte.
+4°  Jusqu'au 1er janvier 2014, aux articles 6 et 7, la mention du ou des  services départementaux d'incendie et de secours est complétée par celle  du conseil général de Mayotte.
 
 5° L'article 8 est ainsi rédigé :
 
@@ -36,6 +36,6 @@ Le premier versement de l'allocation de réversion a lieu dans un délai de troi
 
 En outre, le sapeur-pompier volontaire est affilié et cotise au régime de la prestation de fidélisation et de reconnaissance qui lui assure une prestation spécifique au titre de son engagement quinquennal en cours au 1er janvier 2006 ainsi que les prestations prévues par le régime, en application de l'article 5, pour tous les engagements quinquennaux ultérieurs.
 
-6° L'article 11 est ainsi rédigé :
+6° Jusqu'au 1er janvier 2014, l'article 11 est ainsi rédigé :
 
 Art. 11. -     Sur décision du président du conseil général prise sur proposition du conseil d'exploitation du service d'incendie et de secours de Mayotte, l'allocation de fidélité peut être versée, pour le compte de la collectivité, par l'organisme gestionnaire du régime.
