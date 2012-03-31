@@ -6,7 +6,7 @@ II. ― La sous-direction des banques et des financements d'intérêt général 
 
 Le bureau des affaires bancaires
 
-Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan, notamment des points de vue prudentiel et comptable. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière et à sa mise en œuvre, en particulier dans le cadre des travaux du comité consultatif pour la législation et la réglementation financières (CCLRF) dont il assure le secrétariat général avec la Banque de France et le bureau des entreprises et intermédiaires d'assurances. Il suit les questions de supervision des établissements de crédit et des entreprises d'investissement et représente, le cas échéant, le directeur général dans les instances de l'Autorité de contrôle prudentiel. Il traite les questions de gestion des situations de crise dans leur composante financière aux niveaux national européen et international, et assure la tutelle du Fonds de garantie des dépôts.
+Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan, notamment des points de vue prudentiel et comptable. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière et à sa mise en œuvre, en particulier dans le cadre des travaux du comité consultatif pour la législation et la réglementation financières (CCLRF). Il suit les questions de supervision des établissements de crédit et des entreprises d'investissement et représente, le cas échéant, le directeur général dans les instances de l'Autorité de contrôle prudentiel. Il traite les questions de gestion des situations de crise dans leur composante financière aux niveaux national européen et international, et assure la tutelle du Fonds de garantie des dépôts.
 
 Il prépare la réglementation des réseaux régis par les chapitres II et IV du titre Ier du livre V du code monétaire et financier (établissements de crédit mutualistes et coopératifs, caisses d'épargne et de prévoyance, caisses de crédit municipal) et suit leurs activités, en liaison avec la mission de contrôle des activités financières.
 
@@ -22,7 +22,7 @@ Le bureau du financement du logement et d'activités d'intérêt général
 
 Il est chargé des relations avec la Caisse des dépôts et consignations.
 
-Il est chargé de la politique de financement du logement. A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions. Il participe dans cette optique aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
+Il est chargé de la politique de financement du logement. A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions et participe aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
 
 Il surveille l'adéquation des ressources et des emplois des fonds d'épargne centralisés par la Caisse des dépôts et consignations et élabore la réglementation relative aux produits d'épargne correspondants ainsi qu'à l'épargne logement.
 
@@ -72,29 +72,29 @@ Il assure le secrétariat général du comité interministériel de restructurat
 
 Le bureau de la stabilité financière, de la comptabilité et de la gouvernance des entreprises.
 
-Il coordonne les travaux du service du financement de l'économie relatifs à la stabilité financière, que ce soit au niveau national, européen ou international. A ce titre, il assure notamment le suivi des travaux des instances européennes en matière de risque systémique. Au niveau international, il suit les travaux du Conseil de stabilité financière.
+Il coordonne les travaux du service du financement de l'économie relatifs à la stabilité financière. A ce titre, il assure notamment le suivi des travaux des instances européennes en matière de risque systémique. Au niveau international, il suit les travaux du Conseil de stabilité financière.
 
-Il suit l'évolution de la législation et de la réglementation touchant au droit des entreprises, notamment aux questions de gouvernement d'entreprise. Le bureau participe aux travaux de l'Observatoire des délais de paiement ainsi qu'à l'élaboration des mesures relatives au renforcement de l'attractivité de la France, en particulier des mesures relatives au renforcement de l'attractivité de la place de Paris.
+Il suit l'évolution de la législation et de la réglementation touchant au droit des entreprises, notamment aux questions de gouvernement d'entreprise. Le bureau participe à l'élaboration des mesures relatives au renforcement de l'attractivité de la France, en particulier des mesures relatives au renforcement de l'attractivité de la place de Paris.
 
-Il est chargé des relations avec l'Autorité des normes comptables et participe à l'élaboration du droit comptable. Aux niveaux européen et international, il suit les travaux de l'International Accounting Standards Board et participe aux réunions du comité de réglementation comptable instauré par la Commission européenne. ;
+Il est chargé des relations avec l'Autorité des normes comptables et le Haut Conseil du commissariat aux comptes et participe à l'élaboration du droit comptable. Aux niveaux européen et international, il suit les travaux de l'International Accounting Standards Board et participe aux réunions du comité de réglementation comptable instauré par la Commission européenne. ;
 
 IV.-La sous-direction des assurances comprend :
 
 Le bureau des marchés et des produits d'assurance
 
-Il prépare la législation et la réglementation relatives aux marchés français et étrangers d'assurance de dommages et de personnes et en suit la mise en œuvre. Il est chargé de veiller à la disponibilité pour l'ensemble des acteurs économiques d'instruments adaptés de couverture des risques. Il veille au bon fonctionnement des marchés d'assurance de biens et de responsabilité des particuliers, des entreprises et des collectivités (responsabilité civile, dommages aux biens, risques environnementaux, risques naturels majeurs...) et suit les questions concernant les assurances de transports terrestres, maritimes et aériens.
+Il prépare la législation et la réglementation relatives aux marchés français d'assurance de dommages et de personnes et en suit la mise en œuvre. Il est chargé de veiller à la disponibilité pour l'ensemble des acteurs économiques d'instruments adaptés de couverture des risques. Il veille au bon fonctionnement des marchés d'assurance de biens et de responsabilité des particuliers, des entreprises et des collectivités (responsabilité civile, dommages aux biens, risques environnementaux, risques naturels majeurs...) et suit les questions concernant les assurances de transports.
 
 Il est chargé des questions concernant la couverture et la prévention des risques majeurs et la réassurance avec garantie de l'Etat. Il prépare la réglementation et instruit les dossiers d'indemnisation des catastrophes naturelles et des calamités agricoles.
 
 Il exerce les fonctions de commissaire du Gouvernement pour le fonds de garantie des assurances obligatoires de dommages et le bureau central de tarification et représente la direction générale au conseil d'administration du fonds de garantie des victimes d'actes de terrorisme et d'autres infractions, au fonds d'indemnisation des victimes de l'amiante et au comité de gestion du fonds de compensation des risques de l'assurance construction. Il exerce la tutelle de la Caisse centrale de réassurance.
 
-Il est chargé, en matière d'assurance vie, des questions relatives aux contrats et des études actuarielles, d'opérations de capitalisation et notamment de retraite, d'assurance de dommages corporels et d'assurance santé.
+Il est chargé des questions relatives aux contrats d'assurance sur la vie et des études actuarielles ; il est également chargé des questions relatives aux opérations de capitalisation, aux activités de retraite, de prévoyance, de dépendance, d'assurance de dommages corporels et d'assurance santé.
 
-Il suit l'évolution des équilibres financiers des régimes obligatoires nationaux de retraite et de prévoyance et participe à l'établissement de la réglementation des opérations de retraite et de prévoyance complémentaires à ces régimes. Il définit et met en œuvre la participation de l'Etat au financement des majorations légales de rentes viagères.
+Il définit et met en œuvre la participation de l'Etat au financement des majorations légales de rentes viagères.
 
 Il suit les évolutions de la fiscalité et participe aux négociations européennes et internationales dans ces différents domaines.
 
-Il exerce la tutelle de la caisse d'amortissement de la dette sociale (CADES) et du Fonds de réserve des retraites. Il participe au conseil des tutelles du régime additionnel de primes des fonctionnaires.
+Il exerce, en liaison avec les autres départements ministériels concernés, la tutelle de la Caisse d'amortissement de la dette sociale (CADES), du Fonds de réserve pour les retraites (FRR) et participe au conseil de tutelle de l'établissement de retraite additionnelle de la fonction publique (ERAFP).
 
 Le bureau des entreprises et intermédiaires d'assurance
 
@@ -104,9 +104,9 @@ Il élabore la réglementation des placements des sociétés d'assurance, des ca
 
 Il est chargé des questions concernant la réassurance.
 
-Il représente, le cas échéant, le directeur général dans les instances de l'Autorité de contrôle prudentiel. Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF) dont il assure, en liaison avec la Banque de France et le bureau des affaires bancaires, le secrétariat général.
+Il représente, le cas échéant, le directeur général dans les instances de l'Autorité de contrôle prudentiel. Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF) dont il assure, en liaison avec la Banque de France, le secrétariat général.
 
-Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance et assure la coordination des positions françaises dans le domaine de l'assurance. Il suit les questions relatives à l'activité du Comité européen des contrôleurs d'assurances et de pensions et de l'Association internationale des contrôleurs d'assurance.
+Il prépare et conduit les négociations européennes concernant les entreprises d'assurance, notamment dans le cadre du Comité européen des assurances et des pensions professionnelles, et assure la coordination des positions françaises dans les instances européennes et internationales traitant du domaine de l'assurance.
 
 V.-Le pôle d'analyse économique du secteur financier mène les études économiques nécessaires aux missions du service.
 

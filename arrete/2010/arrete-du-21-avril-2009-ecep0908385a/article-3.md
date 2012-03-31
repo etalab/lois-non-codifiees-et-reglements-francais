@@ -8,7 +8,7 @@ Le bureau de la synthèse des finances publiques
 
 Pour établir les prévisions économiques et financières de la direction générale et préparer les lois de finances, il réalise des prévisions de finances publiques.
 
-Il élabore, en liaison avec la direction générale de l'INSEE et la direction générale des finances publiques, le compte provisoire des administrations publiques.
+Il contribue, en liaison avec la direction générale de l'INSEE et la direction générale des finances publiques, à l'élaboration du compte provisoire des administrations publiques.
 
 Il élabore, en liaison avec la direction du budget, des projections pluriannuelles de finances publiques, notamment les programmes de stabilité dans le cadre des engagements européens de la France. Il prépare la notification à la Commission européenne des déficits et de la dette publics.
 
@@ -76,13 +76,13 @@ Il suit les interventions publiques sur le secteur tertiaire et analyse la régl
 
 Il étudie l'impact économique des politiques et des réglementations en matière de concurrence.
 
-Il contribue à la réflexion sur les questions relatives à l'économie de l'audiovisuel et du cinéma, aux politiques publiques menées en la matière, ainsi qu'à l'économie numérique.
+Il contribue à la réflexion sur les questions relatives à l'économie numérique, en particulier aux communications électroniques et postales, à l'économie de l'audiovisuel et du cinéma, aux politiques publiques menées en la matière.
 
 Il est chargé du suivi du secteur de l'immobilier et de la politique du logement.
 
 Le bureau de l'économie des réseaux
 
-Il est chargé de l'évaluation économique des politiques sectorielles dans les services de réseau (énergie, télécommunications, poste, routes, chemins de fer, transport aérien...).
+Il est chargé de l'évaluation économique des politiques sectorielles dans les services de réseau (énergie, routes, chemins de fer, transport aérien...).
 
 Il concourt à l'évaluation économique et financière des grands projets publics d'infrastructures et d'investissements des entreprises publiques. Il suit les politiques d'aménagement du territoire. Il évalue l'impact macroéconomique des politiques publiques dans ces secteurs.
 

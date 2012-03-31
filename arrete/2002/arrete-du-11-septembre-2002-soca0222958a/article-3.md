@@ -66,9 +66,7 @@ Dix personnalités qualifiées :
 
 - un représentant d'Habitat Formation ;
 
-- un représentant du Groupement national des instituts du travail social (GNI) ;
-
-- un représentant de l'Association française des organismes de formation et de recherche en travail social (AFORTS).
+- deux représentants de l'Union nationale des associations de formation et de recherche en intervention sociale (UNAFORIS).
 
 En même temps que chaque titulaire, un suppléant chargé de le remplacer en cas d'absence ou d'incapacité est désigné.
 
