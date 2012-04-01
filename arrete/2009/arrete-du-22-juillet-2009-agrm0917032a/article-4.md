@@ -1,6 +1,6 @@
 # Article 4
 
-Durée de validité et délivrance. ― La durée de validité de la licence Cabillaud mer Celtique ne peut excéder douze mois.
+La durée de validité de la licence Cabillaud mer Celtique ne peut excéder douze mois, ni le 31 décembre de l'année de sa délivrance.
 
 La licence Cabillaud mer Celtique est notifiée au producteur qui en a fait la demande et à l'Organisation de producteurs (OP) lorsque le producteur est adhérent à une OP.
 
