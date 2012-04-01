@@ -729,7 +729,6 @@
 - [Décret n°2008-721 du 21 juillet 2008 (ECES0806108D)](decret-n2008-721-du-21-juillet-2008-eces0806108d)
 - [Décret n°2008-722 du 21 juillet 2008 (ESRR0808625D)](decret-n2008-722-du-21-juillet-2008-esrr0808625d)
 - [Décret n°2008-723 du 21 juillet 2008 (DEFH0809851D)](decret-n2008-723-du-21-juillet-2008-defh0809851d)
-- [Décret n°2008-812 du 21 août 2008 (ECEL0759396D)](decret-n2008-812-du-21-aout-2008-ecel0759396d)
 - [Décret n°2008-813 du 21 août 2008 (ECER0801571D)](decret-n2008-813-du-21-aout-2008-ecer0801571d)
 - [Décret n°2008-814 du 21 août 2008 (ECEL0803289D)](decret-n2008-814-du-21-aout-2008-ecel0803289d)
 - [Décret n°2008-815 du 21 août 2008 (ECEA0817969D)](decret-n2008-815-du-21-aout-2008-ecea0817969d)

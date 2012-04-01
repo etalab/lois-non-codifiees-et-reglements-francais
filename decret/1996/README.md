@@ -513,7 +513,6 @@
 - [Décret n°96-342 du 22 avril 1996 (INTC9600054D)](decret-n96-342-du-22-avril-1996-intc9600054d)
 - [Décret n°96-358 du 22 avril 1996 (AGRP9602431D)](decret-n96-358-du-22-avril-1996-agrp9602431d)
 - [Décret n°96-48 du 22 janvier 1996 (INTC9600008D)](decret-n96-48-du-22-janvier-1996-intc9600008d)
-- [Décret n°96-49 du 22 janvier 1996 (BUDF9500022D)](decret-n96-49-du-22-janvier-1996-budf9500022d)
 - [Décret n°96-58 du 22 janvier 1996 (TASS9523500D)](decret-n96-58-du-22-janvier-1996-tass9523500d)
 - [Décret n°96-651 du 22 juillet 1996 (JUSD9630085D)](decret-n96-651-du-22-juillet-1996-jusd9630085d)
 - [Décret n°96-652 du 22 juillet 1996 (JUSC9620585D)](decret-n96-652-du-22-juillet-1996-jusc9620585d)

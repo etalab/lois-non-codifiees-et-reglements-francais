@@ -154,7 +154,6 @@
 - [Décret n°95-1195 du 6 novembre 1995 (EQUZ9501174D)](decret-n95-1195-du-6-novembre-1995-equz9501174d)
 - [Décret n°95-1196 du 6 novembre 1995 (SANS9502988D)](decret-n95-1196-du-6-novembre-1995-sans9502988d)
 - [Décret n°95-1197 du 6 novembre 1995 (INTC9500326D)](decret-n95-1197-du-6-novembre-1995-intc9500326d)
-- [Décret n°95-12 du 6 janvier 1995 (BUDF9400021D)](decret-n95-12-du-6-janvier-1995-budf9400021d)
 - [Décret n°95-1202 du 6 novembre 1995 (SPSS9502947D)](decret-n95-1202-du-6-novembre-1995-spss9502947d)
 - [Décret n°95-1203 du 6 novembre 1995 (SPSS9502948D)](decret-n95-1203-du-6-novembre-1995-spss9502948d)
 - [Décret n°95-1207 du 6 novembre 1995 (EQUP9500998D)](decret-n95-1207-du-6-novembre-1995-equp9500998d)

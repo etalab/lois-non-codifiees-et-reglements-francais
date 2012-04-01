@@ -781,7 +781,6 @@
 - [Décret n°97-574 du 30 mai 1997 (EQUA9700862D)](decret-n97-574-du-30-mai-1997-equa9700862d)
 - [Décret n°97-580 du 30 mai 1997 (TAST9710722D)](decret-n97-580-du-30-mai-1997-tast9710722d)
 - [Décret n°97-582 du 30 mai 1997 (INTA9700123D)](decret-n97-582-du-30-mai-1997-inta9700123d)
-- [Décret n°97-586 du 30 mai 1997 (ECOX9700064D)](decret-n97-586-du-30-mai-1997-ecox9700064d)
 - [Décret n°97-600 du 30 mai 1997 (DEFP9701462D)](decret-n97-600-du-30-mai-1997-defp9701462d)
 - [Décret n°97-603 du 30 mai 1997 (EQUP9700815D)](decret-n97-603-du-30-mai-1997-equp9700815d)
 - [Décret n°97-604 du 30 mai 1997 (EQUE9700853D)](decret-n97-604-du-30-mai-1997-eque9700853d)

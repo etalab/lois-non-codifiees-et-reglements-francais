@@ -1380,7 +1380,6 @@
 - [Décret n°2007-1276 du 27 août 2007 (BCFR0756091D)](decret-n2007-1276-du-27-aout-2007-bcfr0756091d)
 - [Décret n°2007-1277 du 27 août 2007 (BCFR0754735D)](decret-n2007-1277-du-27-aout-2007-bcfr0754735d)
 - [Décret n°2007-1385 du 27 septembre 2007 (PRMX0710900D)](decret-n2007-1385-du-27-septembre-2007-prmx0710900d)
-- [Décret n°2007-1387 du 27 septembre 2007 (ECEL0756906D)](decret-n2007-1387-du-27-septembre-2007-ecel0756906d)
 - [Décret n°2007-1393 du 27 septembre 2007 (ECET0760029D)](decret-n2007-1393-du-27-septembre-2007-ecet0760029d)
 - [Décret n°2007-1394 du 27 septembre 2007 (ECEL0764629D)](decret-n2007-1394-du-27-septembre-2007-ecel0764629d)
 - [Décret n°2007-1395 du 27 septembre 2007 (ECEI0752991D)](decret-n2007-1395-du-27-septembre-2007-ecei0752991d)

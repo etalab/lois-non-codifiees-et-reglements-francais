@@ -75,7 +75,6 @@
 - [Décret n°92-1120 du 2 octobre 1992 (INTA9200430D)](decret-n92-1120-du-2-octobre-1992-inta9200430d)
 - [Décret n°92-1121 du 2 octobre 1992 (INTA9200431D)](decret-n92-1121-du-2-octobre-1992-inta9200431d)
 - [Décret n°92-1123 du 2 octobre 1992 (BUDZ9200008D)](decret-n92-1123-du-2-octobre-1992-budz9200008d)
-- [Décret n°92-1124 du 2 octobre 1992 (BUDL9100209D)](decret-n92-1124-du-2-octobre-1992-budl9100209d)
 - [Décret n°92-1125 du 2 octobre 1992 (BUDF9220540D)](decret-n92-1125-du-2-octobre-1992-budf9220540d)
 - [Décret n°92-1126 du 2 octobre 1992 (BUDR9206036D)](decret-n92-1126-du-2-octobre-1992-budr9206036d)
 - [Décret n°92-1127 du 2 octobre 1992 (SPSC9202056D)](decret-n92-1127-du-2-octobre-1992-spsc9202056d)

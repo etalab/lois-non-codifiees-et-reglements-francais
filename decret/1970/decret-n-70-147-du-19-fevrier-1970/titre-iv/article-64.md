@@ -1,3 +1,0 @@
-# Article 64
-
-Le président du conseil régional désigne immédiatement le ou les membres de l'ordre chargés, sous réserve de l'acceptation des clients intéressés, de poursuivre l'exécution des missions confiées aux experts comptables, comptables agréés ou experts comptables stagiaires autorisés lorsqu'il leur est infligé une peine de suspension, qu'elle qu'en soit la durée. Le ou les professionnels désignés ont droit aux honoraires correspondant aux travaux qu'ils ont exécutés pendant la durée de la suspension. La décision du président peut être soumise, à la demande des intéressés, au conseil régional lui-même.
